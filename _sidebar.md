@@ -1,4 +1,4 @@
-- [Read Me](README.md)
+- [Introduction](README.md)
 - [Characters](0001_Characters.md)
 - [Cultures & Races](0002_Culture_and_Races.md)
 - [Classes](0003_Classes.md)
