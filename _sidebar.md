@@ -2,7 +2,7 @@
 - [Characters](0001_Characters.md)
 - [Cultures & Races](0002_Culture_and_Races.md)
 - [Classes](0003_Classes.md)
-- [Alignment & Passions](0004_Alighment_and_Passions.md)
+- [Alignment & Passions](0004_Alignment_and_Passions.md)
 - [Skills](0005_Skills.md)
 - [Money & Equipment](0006_Money_and_Equipment.md)
 - [Game System](0007_Game_System.md)
