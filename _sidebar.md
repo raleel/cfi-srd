@@ -12,3 +12,5 @@
 - [Monsters & Treasure](Appendix_A_Monsters_And_Treasures.md)
 - [Conversion Tables](Appendix_B_Conversion_Tables.md)
 ---
+- [Mythras Imperative SRD](https://srd.mythras.net)
+- [BRP UGE SRD](https://brpugesrd.xyz)
