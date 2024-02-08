@@ -9,6 +9,6 @@
 - [Combat](0008_Combat.md)
 - [Magic](0009_Magic.md)
 - [Spells](0010_Spells.md)
-- [Monsters & Treasure](Appendix_A_Monsters_And_Treasure.md)
+- [Monsters & Treasure](Appendix_A_Monsters_And_Treasures.md)
 - [Conversion Tables](Appendix_B_Conversion_Tables.md)
 ---
