@@ -100,7 +100,6 @@ The following table summarizes the information needed for each of the above meth
 | _Race_ | _Half-Elf_ | _Half-Orc_ | _Halfling_ | _Human_ |
 | --- | --- | --- | --- | --- |
 | _STR_ | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
-| --- | --- | --- | --- | --- |
 | _CON_ | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
 | _SIZ_ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
 | _DEX_ | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
@@ -127,7 +126,6 @@ Add together STR and SIZ and consult the Damage Modifier table:
 | _STR+SIZ_ | _Damage Modifier_ |
 | --- | --- |
 | _5 or less_ | –1d8 |
-| --- | --- |
 | _6–10_ | –1d6 |
 | _11–15_ | –1d4 |
 | _16–20_ | –1d2 |
@@ -158,7 +156,6 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 | _CHA_ | _Exp. Modifier_ |
 | --- | --- |
 | _6 or less_ | -1 |
-| --- | --- |
 | _7-12_ | +0 |
 | _13-18_ | +1 |
 | _Each 6 points_ | +1 |
@@ -172,7 +169,6 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 | _CON_ | _Healing Rate_ |
 | --- | --- |
 | _6 or less_ | 1 |
-| --- | --- |
 | _7-12_ | 2 |
 | _13-18_ | 3 |
 | _Each 6 points_ | +1 |
@@ -219,16 +215,14 @@ Every creature has a Movement Rate – several feet that can be traveled during 
 ##### Movement Rate by Race Table
 
 | _Species_ | _Feet_ | _Metres_ |
- |
-| --- | --- | --- | --- |
-| _Dwarf_ | 15 | 4.5 | |
-| --- | --- | --- | --- |
-| _Elf_ | 20 | 6 | |
-| _Gnome_ | 15 | 4.5 | |
-| _Half-Elf_ | 20 | 6 | |
-| _Half-Orc_ | 20 | 6 | |
-| _Halfling_ | 15 | 4.5 | |
-| _Human_ | 20 | 6 | |
+| --- | --- | --- |
+| _Dwarf_ | 15 | 4.5 |
+| _Elf_ | 20 | 6 |
+| _Gnome_ | 15 | 4.5 |
+| _Half-Elf_ | 20 | 6 |
+| _Half-Orc_ | 20 | 6 |
+| _Halfling_ | 15 | 4.5 |
+| _Human_ | 20 | 6 |
 
 #### Hit Points
 
@@ -240,9 +234,9 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 ##### Hit Points per Location Table
 
-| _Location_ | _CON+SIZ_ |
-| --- | --- |
-| 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
+| _Location_ | _CON+SIZ_ |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | _Head_ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | _Chest_ | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | _Abdomen_ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
