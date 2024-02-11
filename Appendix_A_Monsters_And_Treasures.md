@@ -82,6 +82,8 @@ Hit Points: 1-3 Right Leg: 1/4, 4-6 Left Leg: 1/4, 7-9 Abdomen: 3/5, 10-12 Chest
 
 ### Orc (Rank 1)
 
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11848/)
+
 STR 14, CON 13, SIZ 14, DEX 11, INT 11, POW 11, CHA 7; Initiative: +10 (14); Action Points: 2; Movement: 20'
 
 Alignment: Evil 52%; Hate Elves and Dwarves 57%; Magic Points: 11; Abilities: Dark Vision, Light sensitive
@@ -111,6 +113,8 @@ Armor: Chest and abdomen 3 (scraps of fur and leather over tough skin), head and
 Hit Points: 1-3 Right Leg: 2/10, 4-6 Left Leg: 2/10, 7-9 Abdomen: 3/11, 10-12 Chest: 3/12, 13-15 Right Arm: 2/9, 16-18 Left Arm: 2/9, 19-20 Head: 2/10
 
 ### Red Dragon, Young Adult (Rank 10)
+
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11849/)
 
 STR 22, CON 31, SIZ 28, DEX 16, INT 9, POW 11, CHA 4; Initiative: +16; Action Points: 4; Movement: 15,' 50' fly)
 
