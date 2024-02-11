@@ -96,6 +96,8 @@ Hit Points: 1-3 Right Leg: 3/6, 4-6 Left Leg: 3/6, 7-9 Abdomen: 5/7, 10-12 Chest
 
 ### Ogre (Rank 3)
 
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11837/)
+
 STR 20, CON 18, SIZ 28, DEX 11, INT 10, POW 11, CHA 7; Initiative: +11; Action Points: 2; Movement: 15'
 
 Alignment: Evil 71%, Bad mannered and quick to anger 48%; Magic Points: 11; Abilities: None
@@ -124,6 +126,8 @@ Hit Points: 1-2 Tail: 8/17, 3-4 Right Hind Leg: 8/17, 5-6 Left Hind Leg: 8/17, 7
 
 ### Skeleton (Rank 1/2)
 
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11834/)
+
 STR 10, CON 10, SIZ 13, DEX 14, INS 8, POW 6; Initiative: +9 (11); Action Points: 2; Movement: 20'; Intensity vs. Turn: 1
 
 Alignment: NA; Magic Points: 6, Abilities: Immunity (Fear, Sleep, and Charm), Undead
@@ -138,6 +142,8 @@ Hit Points: 1-3 Right Leg: 0/5, 4-6 Left Leg: 0/5, 7-9 Abdomen: 5/6, 10-12 Chest
 
 ### Troll (Rank 4)
 
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11836/)
+
 STR 22, CON 25, SIZ 28, DEX 16, INT 9, POW 11, CHA 4; Initiative: +13; Action Points: 3; Movement: 20'
 
 Alignment: Evil 52%; Hate Good Giants 57%; Magic Points: 11; Abilities: Dark Vision, Regen. (1 HP/Round), Terror
@@ -151,6 +157,8 @@ Armor: 3 (thick, rubbery skin)
 Hit Points: 1-3 Right Leg: 3/11, 4-6 Left Leg: 3/11, 7-9 Abdomen: 3/12, 10-12 Chest: 3/13, 13-15 Right Arm: 3/10, 16-18 Left Arm: 3/10, 19-20 Head: 3/11
 
 ### Zombie (Rank 1/2)
+
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11835/)
 
 STR 14, CON 14, SIZ 13, DEX 9, INS 8, POW 6; Initiative: +7 (9); Action Points: 2; Movement: 15'; Intensity vs. Turn: 2
 
