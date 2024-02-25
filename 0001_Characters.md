@@ -8,18 +8,20 @@ The basic character is defined by a series of different elements that describe t
 
 Most of these elements are described in terms of numbers, and some are dependent on or calculated by others. What each element means, and how they are determined, is described in the following sections.
 
+---
 ## Step 1: Character Concept
 
 A good place to start is to have some idea of what sort of character you want to play; a hardened fighter for example, or a cunning rogue. Your character concept does not need to be elaborate at this stage; simply an idea that will help guide certain choices such as Race and Class. A few character ideas are listed to provoke your imagination.
 
-Young, naïve magic-user
+- Young, naïve magic-user
 
-Bad-tempered half-orc fighter
+- Bad-tempered half-orc fighter
 
-Overconfident halfling rogue
+- Overconfident halfling rogue
 
-Pious dwarf cleric
+- Pious dwarf cleric
 
+---
 ## Step 2: Characteristics
 
 Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Classic Fantasy Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
@@ -34,58 +36,70 @@ Everyone is defined by seven Characteristics which tell you something about your
 
 Before calculating the Characteristics, the following section explains what each represents.
 
-#### Strength (STR)
+### Strength (STR)
 
 STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the Damage Modifier (page XX). If a character is reduced to zero STR they lack the ability to move or lift objects.
 
-#### Constitution (CON)
+### Constitution (CON)
 
 CON is a measure of health and hardiness. CON is a component in determining Hit Points (see page XX) and Healing Rate (see page XX). If CON falls to zero for any reason the character dies.
 
-#### Size (SIZ)
+### Size (SIZ)
 
 SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure Hit Points (see page XX), as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
 
-#### Dexterity (DEX)
+### Dexterity (DEX)
 
 Agility, balance, and reflexes are measured by DEX. It is an important aspect of Initiative (see page XX). If a character is reduced to zero DEX, they suffer functional paralysis.
 
-#### Intelligence (INT)
+### Intelligence (INT)
 
 INT is a measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Initiative. If INT is reduced to zero, the character becomes completely mindless.
 
-#### Power (POW)
+### Power (POW)
 
 POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's Magic Points and Luck Points (see page XX). If a character's POW ever drops to zero, they lose all independent will.
 
-#### Charisma (CHA)
+### Charisma (CHA)
 
 Charisma measures personality and is independent of physical appearance. CHA affects a character's Experience Modifier (see page XX). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
-### Calculating Characteristics
+---
+## Calculating Characteristics
 
-Each Characteristic has a numerical value to determine how potent it is.The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
+Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
-**Dice Roll:** Roll the dice indicated in the Racial Characteristics Table for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
+- **Dice Roll:** Roll the dice indicated in the Racial Characteristics Table for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
 
-**Dice Roll, Assign** : As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range —but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
+- **Dice Roll, Assign:** As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range —but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
 
-**Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
+- **Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
 
-**Points Build** : Instead of rolling dice to determine Characteristics, players build their character from a preset pool of points, the amount of which is determined by the character's species. This method is best for groups that know what they want to play and want to tailor their build to a specific Class.
+- **Points Build:** Instead of rolling dice to determine Characteristics, players build their character from a preset pool of points, the amount of which is determined by the character's species. This method is best for groups that know what they want to play and want to tailor their build to a specific Class. Certain rules apply to the Points Build option:
 
-Certain rules apply to the Points Build option:
-
-- Begin with the racial average for each of the seven Characteristics as noted in parentheses after each dice range below.
-- Spend another 10 points (humans) or 6 points (demi-humans) to increase Characteristics.
-- You may also lower a Characteristic to gain extra points. For example, reduce STR 11 to 9 to gain 2 points.
-- Characteristics cannot be _lower_ than the minimum possible or _greater_ than maximum possible for that Characteristic as determined by its potential dice roll.
+  - Begin with the racial average for each of the seven Characteristics as noted in parentheses after each dice range below.
+  - Spend another 10 points (humans) or 6 points (demi-humans) to increase Characteristics.
+  - You may also lower a Characteristic to gain extra points. For example, reduce STR 11 to 9 to gain 2 points.
+  - Characteristics cannot be _lower_ than the minimum possible or _greater_ than maximum possible for that Characteristic as determined by its potential dice roll.
 
 Games Masters are free to come up with their own methods or point values as desired.
 
 The following table summarizes the information needed for each of the above methods. The dice ranges are used in either of the Dice Roll methods, while numbers in parentheses are used in Points Build.
 
-##### Racial Characteristics Table
+### Racial Characteristics Table
+
+
+| **Race** | **Dwarf** | **Elf** | **Gnome** | **Half-Elf** | **Half-Orc** | **Halfling** | **Human** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **STR** | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
+| **CON** | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
+| **SIZ** | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
+| **DEX** | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
+| **INT** | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
+| **POW** | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
+| **CHA** | 2d6+2 (9) | 3d6 (11) | 3d6 (11) | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
+
+### Racial Characteristics Table (Original)
 
 | _Race_ | _**Dwarf**_ | _**Elf**_ | _**Gnome**_ |
 | --- | --- | --- | --- |
@@ -107,79 +121,80 @@ The following table summarizes the information needed for each of the above meth
 | _POW_ | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
 | _CHA_ | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
+---
 ## Step 3: Attributes
 
 Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
 
-#### Action Points
+### Action Points
 
 How often a character can act in a Combat Round (page XX) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables for details.
 
-#### Damage Modifier
+### Damage Modifier
 
 The bonus amount of damage a character inflicts when they physically strike or apply force. It is generally used in combat situations but can also be utilized when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table:
 
-##### Damage Modifier Table
+#### Damage Modifier Table
 
-| _STR+SIZ_ | _Damage Modifier_ |
+| **STR+SIZ** | **Damage Modifier** |
 | --- | --- |
-| _5 or less_ | –1d8 |
-| _6–10_ | –1d6 |
-| _11–15_ | –1d4 |
-| _16–20_ | –1d2 |
-| _21–25_ | +0 |
-| _26–30_ | +1d2 |
-| _31–35_ | +1d4 |
-| _36–40_ | +1d6 |
-| _41–45_ | +1d8 |
-| _46–50_ | +1d10 |
-| _51–60_ | +1d12 |
-| _61–70_ | +2d6 |
-| _71–80_ | +1d8+1d6 |
-| _81–90_ | +2d8 |
-| _91–100_ | +1d10+1d8 |
-| _101–110_ | +2d10 |
-| _111–120_ | +2d10+1d2 |
-| _121–130_ | +2d10+1d4 |
-| _Each 10 points_ | Continue Progression |
+| 5 or less | –1d8 |
+| 6–10 | –1d6 |
+| 11–15 | –1d4 |
+| 16–20 | –1d2 |
+| 21–25 | +0 |
+| 26–30 | +1d2 |
+| 31–35 | +1d4 |
+| 36–40 | +1d6 |
+| 41–45 | +1d8 |
+| 46–50 | +1d10 |
+| 51–60 | +1d12 |
+| 61–70 | +2d6 |
+| 71–80 | +1d8+1d6 |
+| 81–90 | +2d8 |
+| 91–100 | +1d10+1d8 |
+| 101–110 | +2d10 |
+| 111–120 | +2d10+1d2 |
+| 121–130 | +2d10+1d4 |
+| Each 10 points | Continue Progression |
 
-#### Experience Modifier
+### Experience Modifier
 
 Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail on page XX.
 
 A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-##### Experience Modifier Table
+#### Experience Modifier Table
 
-| _CHA_ | _Exp. Modifier_ |
+| CHA | Exp. Modifier |
 | --- | --- |
-| _6 or less_ | -1 |
-| _7-12_ | +0 |
-| _13-18_ | +1 |
-| _Each 6 points_ | +1 |
+| 6 or less | -1 |
+| 7-12 | +0 |
+| 13-18 | +1 |
+| Each 6 points | +1 |
 
-#### Healing Rate
+### Healing Rate
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see page XX), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-##### Healing Rate Table
+#### Healing Rate Table
 
-| _CON_ | _Healing Rate_ |
+| CON | Healing Rate |
 | --- | --- |
-| _6 or less_ | 1 |
-| _7-12_ | 2 |
-| _13-18_ | 3 |
-| _Each 6 points_ | +1 |
+| 6 or less | 1 |
+| 7-12 | 2 |
+| 13-18 | 3 |
+| Each 6 points | +1 |
 
-#### Initiative
+### Initiative
 
 The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The Combat chapter goes into more detail on how Initiative is used (see page XX).
 
 Initiative is the average of the DEX and INT Characteristics.
 
-#### Luck Points
+### Luck Points
 
 Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
@@ -189,42 +204,42 @@ Luck Points represent that strange force differentiating adventuring heroes from
 
 Exactly how they are used, and when, is described on page XX. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-##### Luck Points Table
+#### Luck Points Table
 
-| _POW_ | _Luck Points_ |
+| POW | Luck Points |
 | --- | --- |
-| _6 or less_ | 1 |
-| _7-12_ | 2 |
-| _13-18_ | 3 |
-| _Each 6 points_ | +1 |
+| 6 or less | 1 |
+| 7-12 | 2 |
+| 13-18 | 3 |
+| Each 6 points | +1 |
 
 \* Humans start with one additional Luck Point over and above that shown above.
 
 \*\* All characters gain an additional Luck Point as each new Rank is attained.
 
-#### Magic Points
+### Magic Points
 
 Mystical abilities and spells cast in _Classic Fantasy Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
 For those who can utilize such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters run out of Magic Points they have exhausted their ability to cast any spells until Magic Points are replenished.
 
-#### Movement Rate
+### Movement Rate
 
 Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on Movement, on page XX offers more detail.
 
-##### Movement Rate by Race Table
+#### Movement Rate by Race Table
 
-| _Species_ | _Feet_ | _Metres_ |
+| Species | Feet | Metres |
 | --- | --- | --- |
-| _Dwarf_ | 15 | 4.5 |
-| _Elf_ | 20 | 6 |
-| _Gnome_ | 15 | 4.5 |
-| _Half-Elf_ | 20 | 6 |
-| _Half-Orc_ | 20 | 6 |
-| _Halfling_ | 15 | 4.5 |
-| _Human_ | 20 | 6 |
+| Dwarf | 15 | 4.5 |
+| Elf | 20 | 6 |
+| Gnome | 15 | 4.5 |
+| Half-Elf | 20 | 6 |
+| Half-Orc | 20 | 6 |
+| Halfling | 15 | 4.5 |
+| Human | 20 | 6 |
 
-#### Hit Points
+### Hit Points
 
 Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven; the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
@@ -232,17 +247,18 @@ Some creatures, such as monsters or different classes of animal, by their very n
 
 To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table. All characters gain 1 additional Hit Point in each location at Rank 2 and 4.
 
-##### Hit Points per Location Table
+#### Hit Points per Location Table
 
-| _Location_ | _CON+SIZ_ |  |  |  |  |  |  |  |  |
+| Location | CON+SIZ |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
-| _Head_ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
-| _Chest_ | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
-| _Abdomen_ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| _Each Arm_ | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| _Each Leg_ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Chest | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
+| Abdomen | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
+| Each Arm | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Each Leg | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
+---
 ## Step 4: Skills
 
 By default, every character has a range of Standard Skills allowing him to perform a variety of actions with varying degrees of expertise. These skills are detailed more fully in the Skills chapter but cover a range of everyday activities and local knowledge which anyone can use without specialized training. At this point of character creation, players will only need to know the Base Levels of each Standard Skill.
@@ -253,35 +269,36 @@ The Standard Skills Table shows how the basic values are calculated, along with 
 
 Note that the basic percentages for some skills will be modified by both culture and profession, so these starting values will change as character creation progresses.
 
-##### Standard Skills Table
+### Standard Skills Table
 
-| _Skill_ | _Basic Percentage_ |
+| Skill | Basic Percentage |
 | --- | --- |
-| _Athletics_ | STR+DEX |
-| _Boating_ | STR+CON |
-| _Brawn_ | STR+SIZ |
-| _Conceal_ | DEX+POW |
-| _Customs_ | INT x2, +40\* |
-| _Dance_ | DEX+CHA |
-| _Deceit_ | INT+CHA |
-| _Drive_ | DEX+POW |
-| _Endurance_ | CON x2 |
-| _Evade_ | DEX x2 |
-| _First Aid_ | INT+DEX |
-| _Influence_ | CHA x2 |
-| _Insight_ | INT+POW |
-| _Locale_ | INT x2 |
-| _Native Tongue_ | INT+CHA, +40\* |
-| _Perception_ | INT+POW |
-| _Ride_ | DEX+POW |
-| _Sing_ | CHA+POW |
-| _Stealth_ | DEX+INT |
-| _Swim_ | STR+CON |
-| _Unarmed_ | STR+DEX |
-| _Willpower_ | POW x2 |
+| Athletics | STR+DEX |
+| Boating | STR+CON |
+| Brawn | STR+SIZ |
+| Conceal | DEX+POW |
+| Customs | INT x2, +40\* |
+| Dance | DEX+CHA |
+| Deceit | INT+CHA |
+| Drive | DEX+POW |
+| Endurance | CON x2 |
+| Evade | DEX x2 |
+| First Aid | INT+DEX |
+| Influence | CHA x2 |
+| Insight | INT+POW |
+| Locale | INT x2 |
+| Native Tongue | INT+CHA, +40\* |
+| Perception | INT+POW |
+| Ride | DEX+POW |
+| Sing | CHA+POW |
+| Stealth | DEX+INT |
+| Swim | STR+CON |
+| Unarmed | STR+DEX |
+| Willpower | POW x2 |
 
 \* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans). Each demi-human race may speak the Common Tongue at +40%, in addition to their Native Tongue at +40%, as detailed in their respective write-ups.
 
+---
 ## Step 5: Race/Culture
 
 In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See the Race/Culture write-ups in chapter 2 for more information.
@@ -294,13 +311,13 @@ Professional Skills are further explained in Chapter 5, but in brief they repres
 
 Chosen Professional Skills start off at their Base Level Characteristic value as per Standard Skills. Some Professional Skills such as Craft, Languages, or Lores offer choice of a specialization. In these cases, the specialty chosen should be one which suits that culture.
 
-#### Racial Skill Quick Picks
+### Racial Skill Quick Picks
 
 Quick Picks provide an average selection of skills, enabling quick character creation. Feel free to swap points, if desired; however, no skill can have fewer than a +5 or more than a +15 bonus.
 
-##### Racial Quick Picks Table
+#### Racial Quick Picks Table
 
-| Race/Culture | _Standard Skills_ | _Professional Skills_ |
+| Race/Culture | Standard Skills | Professional Skills |
 | --- | --- | --- |
 | _Human, Barbarian, Warrior Type_ | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, and either Boating or Ride at +10 | Navigation +10, Seamanship or Survival +10, Track +10 |
 | _Human, Barbarian, Wise Person_ | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, and either Boating or Ride at +10 | Healing +10, Language (any\*) +10, Lore (any) +15 |
@@ -330,6 +347,7 @@ Optionally, you may spend points to customize a specific character concept. This
 - Select three Professional Skills from the options offered (See race write-ups in Chapter XX).
 - Distribute 100 points among the listed Standard Skills and chosen Professional Skills, increasing that skill by 1% for every point spent on improving it. Players are free to choose how much each skill is improved by, but each skill must receive a minimum of 5% and cannot receive more than 15%.
 
+---
 ## Step 6: Class
 
 Class represents the career the character has embarked on as part of the transition to adulthood, and it further defines the character's skill development.
@@ -344,12 +362,12 @@ Choose a Class Quick Pick for an average selection of skills useful to the Class
 
 ##### Class Quick Picks Table
 
-| _Class_ | _Standard Skills_ | _Professional Skills_ |
+| Class | Standard Skills | Professional Skills |
 | --- | --- | --- |
-| _Cleric_ | Combat Skill (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (deity) +15; Lore (Religion) +5 and one of the following at +5: Language (any), Lore (any), or Oratory |
-| _Fighter_ | Athletics +10; Boating or Ride +5; Brawn +15; Combat Skill (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; and two of the following at +5: Gambling, Survival or Navigation |
-| _Magic-User_ | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Language (any) +5; Language (any) or Lore (any) +5; Lore (Alchemy) +10 |
-| _Rogue_ | Athletics +15; Combat Skill (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Language (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; and two of the following at +5: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise |
+| Cleric | Combat Skill (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (deity) +15; Lore (Religion) +5 and one of the following at +5: Language (any), Lore (any), or Oratory |
+| Fighter | Athletics +10; Boating or Ride +5; Brawn +15; Combat Skill (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; and two of the following at +5: Gambling, Survival or Navigation |
+| Magic-User | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Language (any) +5; Language (any) or Lore (any) +5; Lore (Alchemy) +10 |
+| Rogue | Athletics +15; Combat Skill (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Language (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; and two of the following at +5: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise |
 
 \* Acquired at the Base Level.
 
@@ -385,6 +403,7 @@ Since most people can pick up a weapon and instinctively either swing, throw, or
 
 All characters learn their Combat Skill as part of their chosen Class, as described in Chapter 3.
 
+---
 ## Step 7: Bonus Skill Points
 
 At this stage, every character gains an additional pool of 'free' Skill Points based on Experience Level, which can be distributed among existing skills. These are provided to round out the character, adding interests or areas of expertise. The default for fresh beginning characters is a pool of 100 points, with a limit of assigning no more than 10 points per skill. If characters are more experienced, then the number of Skill Points and restrictions will differ, as indicated on the Experience Table.
@@ -406,13 +425,13 @@ This table may also be used for NPCs, whether built using a Class or a career, a
 
 ##### Experience Table
 
-| _Rank (Level\*)_ | _Age_ | _Bonus Skill Points_ | _Maximum Skill Increase_ | _Average Skill Level\*\*_ | _Advancement_ |
+| Rank (Level\*) | Age | Bonus Skill Points | Maximum Skill Increase | Average Skill Level\*\* | Advancement |
 | --- | --- | --- | --- | --- | --- |
-| _Rank 1: Fresh (1-4)_ | By species | 100 | +10 | 40-60 | Any 5 Class Skills at 40% |
-| _Rank 2: Low Level (5-9)_ | +1d6 | 300 | +30 | 65-75 | Any 5 Class Skills at 70% |
-| _Rank 3: Mid. Level (10-14)_ | +1d6+5 | 500 | +50 | 85-95 | Any 4 Class Skills at 90% |
-| _Rank 4: High Level (15-19)_ | +1d6+10 | 700 | +70 | 105-115 | Any 3 Class Skills at 110% |
-| _Rank 5: Epic Level (20+)_ | +1d6+20 | 900 | +90 | 125-135 | Any 2 Class Skills at 130% |
+| Rank 1: _Fresh (1-4)_ | By species | 100 | +10 | 40-60 | Any 5 Class Skills at 40% |
+| Rank 2: _Low Level (5-9)_ | +1d6 | 300 | +30 | 65-75 | Any 5 Class Skills at 70% |
+| Rank 3: _Mid. Level (10-14)_ | +1d6+5 | 500 | +50 | 85-95 | Any 4 Class Skills at 90% |
+| Rank 4: _High Level (15-19)_ | +1d6+10 | 700 | +70 | 105-115 | Any 3 Class Skills at 110% |
+| Rank 5: _Epic Level (20+)_ | +1d6+20 | 900 | +90 | 125-135 | Any 2 Class Skills at 130% |
 
 \* The number in parentheses may be used as a gauge when converting existing characters from Level-Based games.
 
@@ -427,6 +446,7 @@ This table may also be used for NPCs, whether built using a Class or a career, a
 - Average Skill Level shows the typical range for a character's most important Class-related skills at each Experience Level. It is included for reference purposes and assumes Base Level Characteristics of 16, with maximum Skill Points spent during each step. Actual results will vary.
 - Advancement: This represents the number of Class Skills required to attain the noted Rank. For example, to attain Rank 3, any four of the Class Skills noted in the relevant Class write-up must be at least 90%.
 
+---
 ## Step 8: Finally…
 
 - Determine your Alignment and Passions based on your chosen Culture/Race and Class. See chapter 4.

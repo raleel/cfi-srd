@@ -36,13 +36,13 @@ _**Based on Classic Fantasy Imperative, Written by Rodney Leary, Pete Nash and L
 
 #### Reserved Material
 
-Note that Classic Fantasy Imperative's parent games, _Classic Fantasy Imperative_ and _Mythras_, published by The Design Mechanism, are designated as Reserved Material under the ORC license.
+Note that _Classic Fantasy Imperative_'s parent games, _Classic Fantasy_ and _Mythras_, published by The Design Mechanism, are designated as Reserved Material under the ORC license.
 
-If you wish to draw upon content found in either _Classic Fantasy Imperative_ or Mythras, please contact The Design Mechanism about the separate Mythras Gateway License, which allows for Reserved Material to be accessed, free of royalties, but with some conditions regarding approvals and attribution.
+If you wish to draw upon content found in either _Classic Fantasy Imperative_ or _Mythras_, please contact The Design Mechanism about the separate Mythras Gateway License, which allows for Reserved Material to be accessed, free of royalties, but with some conditions regarding approvals and attribution.
 
 The following are also considered Reserved Material, as follows:
 
-- _Classic Fantasy Imperative_ – as a name, save for when used in attribution, including its logo.
+- _Classic Fantasy_ and _Classic Fantasy Imperative_ – as a name, save for when used in attribution, including its logo.
 - _Mythras_ and _Mythras Imperative_ - as a name, save for when used in attribution, including their logos.
 - All artwork found in _Classic Fantasy Imperative_
 - _Alexandra the Pious_
@@ -90,7 +90,7 @@ _Classic Fantasy Imperative_ is a d100 or percentile system. Percentile dice, or
 ---
 ## Simplification
 
-Long time owners of _Mythras_ and _Classic Fantasy Imperative_ will note that in some places the _Classic Fantasy Imperative_ rules have been simplified. This has been done so that a Games Master may more quickly introduce the game to new players with a minimum of fuss. Another area where _Classic Fantasy Imperative_ differs is in incorporating Imperial measurements instead of metric. Incorporating both takes up far too much room and would require multiple tables when dealing with Ranged Weapons and the like. The Imperial system was chosen simply to facilitate easier use of the countless battle mats already in existence, and to make converting adventures from other game systems that use Imperial measurements simpler. When filling out your Character Sheet, feel free to use the Conversion Tables in the Appendix, and whatever measurement system you find most useful and familiar.
+Long time owners of _Mythras_ and _Classic Fantasy_ will note that in some places the _Classic Fantasy Imperative_ rules have been simplified. This has been done so that a Games Master may more quickly introduce the game to new players with a minimum of fuss. Another area where _Classic Fantasy Imperative_ differs is in incorporating Imperial measurements instead of metric. Incorporating both takes up far too much room and would require multiple tables when dealing with Ranged Weapons and the like. The Imperial system was chosen simply to facilitate easier use of the countless battle mats already in existence, and to make converting adventures from other game systems that use Imperial measurements simpler. When filling out your Character Sheet, feel free to use the Conversion Tables in the Appendix, and whatever measurement system you find most useful and familiar.
 
 ---
 ## Rounding of Numbers and Results
