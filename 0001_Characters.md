@@ -38,31 +38,31 @@ Before calculating the Characteristics, the following section explains what each
 
 ### Strength (STR)
 
-STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the Damage Modifier (page XX). If a character is reduced to zero STR they lack the ability to move or lift objects.
+STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the [Damage Modifier](0001_Characters.md?id=damage-modifier) (see the [Attributes](0001_Characters.md?id=step-3-attributes) section below). If a character is reduced to zero STR they lack the ability to move or lift objects.
 
 ### Constitution (CON)
 
-CON is a measure of health and hardiness. CON is a component in determining Hit Points (see page XX) and Healing Rate (see page XX). If CON falls to zero for any reason the character dies.
+CON is a measure of health and hardiness. CON is a component in determining [Hit Points](0001_Characters.md?id=hit-points) and [Healing Rate](0001_Characters.md?id=healing-rate) (see below). If CON falls to zero for any reason the character dies.
 
 ### Size (SIZ)
 
-SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure Hit Points (see page XX), as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
+SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure [Hit Points](0001_Characters.md?id=hit-points), as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
 
 ### Dexterity (DEX)
 
-Agility, balance, and reflexes are measured by DEX. It is an important aspect of Initiative (see page XX). If a character is reduced to zero DEX, they suffer functional paralysis.
+Agility, balance, and reflexes are measured by DEX. It is an important aspect of [Initiative](0001_Characters.md?id=initiative). If a character is reduced to zero DEX, they suffer functional paralysis.
 
 ### Intelligence (INT)
 
-INT is a measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Initiative. If INT is reduced to zero, the character becomes completely mindless.
+INT is a measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating [Initiative](0001_Characters.md?id=initiative). If INT is reduced to zero, the character becomes completely mindless.
 
 ### Power (POW)
 
-POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's Magic Points and Luck Points (see page XX). If a character's POW ever drops to zero, they lose all independent will.
+POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's [Magic Points](0001_Characters.md?id=magic-points) and [Luck Points](0001_Characters.md?id=luck-points). If a character's POW ever drops to zero, they lose all independent will.
 
 ### Charisma (CHA)
 
-Charisma measures personality and is independent of physical appearance. CHA affects a character's Experience Modifier (see page XX). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
+Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ---
 ## Calculating Characteristics
@@ -88,38 +88,25 @@ The following table summarizes the information needed for each of the above meth
 
 ### Racial Characteristics Table
 
-
-| **Race** | **Dwarf** | **Elf** | **Gnome** | **Half-Elf** | **Half-Orc** | **Halfling** | **Human** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **STR** | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
-| **CON** | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
-| **SIZ** | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
-| **DEX** | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
-| **INT** | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
-| **POW** | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
-| **CHA** | 2d6+2 (9) | 3d6 (11) | 3d6 (11) | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
-
-### Racial Characteristics Table (Original)
-
-| _Race_ | _**Dwarf**_ | _**Elf**_ | _**Gnome**_ |
+| **Race** | **Dwarf** | **Elf** | **Gnome** |
 | --- | --- | --- | --- |
-| _STR_ | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
-| _CON_ | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
-| _SIZ_ | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
-| _DEX_ | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
-| _INT_ | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
-| _POW_ | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
-| _CHA_ | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
+| STR | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
+| CON | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
+| SIZ | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
+| DEX | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
+| INT | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
+| POW | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
+| CHA | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
 
-| _Race_ | _Half-Elf_ | _Half-Orc_ | _Halfling_ | _Human_ |
+| **Race** | **Half-Elf** | **Half-Orc** | **Halfling** | **Human** |
 | --- | --- | --- | --- | --- |
-| _STR_ | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
-| _CON_ | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
-| _SIZ_ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
-| _DEX_ | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
-| _INT_ | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
-| _POW_ | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
-| _CHA_ | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
+| STR | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
+| CON | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
+| SIZ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
+| DEX | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
+| INT | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
+| POW | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
+| CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
 ## Step 3: Attributes
@@ -128,7 +115,7 @@ Each character also has a set of attributes. These are capabilities derived from
 
 ### Action Points
 
-How often a character can act in a Combat Round (page XX) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables for details.
+How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables for details.
 
 ### Damage Modifier
 
@@ -139,7 +126,7 @@ Add together STR and SIZ and consult the Damage Modifier table:
 #### Damage Modifier Table
 
 | **STR+SIZ** | **Damage Modifier** |
-| --- | --- |
+| :-: | :-: |
 | 5 or less | –1d8 |
 | 6–10 | –1d6 |
 | 11–15 | –1d4 |
@@ -162,14 +149,14 @@ Add together STR and SIZ and consult the Damage Modifier table:
 
 ### Experience Modifier
 
-Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail on page XX.
+Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0007_Game_System.md?id=experience-rolls) section.
 
 A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
 #### Experience Modifier Table
 
 | CHA | Exp. Modifier |
-| --- | --- |
+| :-: | :-: |
 | 6 or less | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
@@ -177,12 +164,12 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 ### Healing Rate
 
-After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see page XX), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
+After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
 #### Healing Rate Table
 
 | CON | Healing Rate |
-| --- | --- |
+| :-: | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
@@ -190,7 +177,7 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 
 ### Initiative
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The Combat chapter goes into more detail on how Initiative is used (see page XX).
+The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
@@ -202,12 +189,12 @@ Luck Points represent that strange force differentiating adventuring heroes from
 - Mitigate physical damage or other unfortunate circumstances.
 - Gain an edge at a vital moment in combat.
 
-Exactly how they are used, and when, is described on page XX. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
+Exactly how they are used, and when, is described in the section, [Using Luck Points](0007_Game_System.md?id=using-luck-points). Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
 #### Luck Points Table
 
 | POW | Luck Points |
-| --- | --- |
+| :-: | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
@@ -225,12 +212,12 @@ For those who can utilize such powers, a character's Magic Points are equal to t
 
 ### Movement Rate
 
-Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on Movement, on page XX offers more detail.
+Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on [Movement](0008_Combat.md?id=movement) offers more detail.
 
 #### Movement Rate by Race Table
 
 | Species | Feet | Metres |
-| --- | --- | --- |
+| :-- | :-: | :-: |
 | Dwarf | 15 | 4.5 |
 | Elf | 20 | 6 |
 | Gnome | 15 | 4.5 |
@@ -243,14 +230,14 @@ Every creature has a Movement Rate – several feet that can be traveled during 
 
 Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven; the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
-Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see page XX.
+Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels).
 
 To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table. All characters gain 1 additional Hit Point in each location at Rank 2 and 4.
 
 #### Hit Points per Location Table
 
 | Location | CON+SIZ |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Chest | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
@@ -272,7 +259,7 @@ Note that the basic percentages for some skills will be modified by both culture
 ### Standard Skills Table
 
 | Skill | Basic Percentage |
-| --- | --- |
+| :-- | :-: |
 | Athletics | STR+DEX |
 | Boating | STR+CON |
 | Brawn | STR+SIZ |
@@ -318,7 +305,7 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 #### Racial Quick Picks Table
 
 | Race/Culture | Standard Skills | Professional Skills |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | _Human, Barbarian, Warrior Type_ | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, and either Boating or Ride at +10 | Navigation +10, Seamanship or Survival +10, Track +10 |
 | _Human, Barbarian, Wise Person_ | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, and either Boating or Ride at +10 | Healing +10, Language (any\*) +10, Lore (any) +15 |
 | _Human, Civilized, Street Smart_ | Conceal +10, Deceit +15, Drive +5, Influence +10, Insight +10, Locale +10, Willpower +10 | Craft. (any) +5, Commerce +10, Streetwise +15 |
@@ -363,7 +350,7 @@ Choose a Class Quick Pick for an average selection of skills useful to the Class
 ##### Class Quick Picks Table
 
 | Class | Standard Skills | Professional Skills |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Cleric | Combat Skill (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (deity) +15; Lore (Religion) +5 and one of the following at +5: Language (any), Lore (any), or Oratory |
 | Fighter | Athletics +10; Boating or Ride +5; Brawn +15; Combat Skill (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; and two of the following at +5: Gambling, Survival or Navigation |
 | Magic-User | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Language (any) +5; Language (any) or Lore (any) +5; Lore (Alchemy) +10 |
@@ -426,7 +413,7 @@ This table may also be used for NPCs, whether built using a Class or a career, a
 ##### Experience Table
 
 | Rank (Level\*) | Age | Bonus Skill Points | Maximum Skill Increase | Average Skill Level\*\* | Advancement |
-| --- | --- | --- | --- | --- | --- |
+| :-- | :-: | :-: | :-: | :-: | :-: |
 | Rank 1: _Fresh (1-4)_ | By species | 100 | +10 | 40-60 | Any 5 Class Skills at 40% |
 | Rank 2: _Low Level (5-9)_ | +1d6 | 300 | +30 | 65-75 | Any 5 Class Skills at 70% |
 | Rank 3: _Mid. Level (10-14)_ | +1d6+5 | 500 | +50 | 85-95 | Any 4 Class Skills at 90% |
