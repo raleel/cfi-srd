@@ -248,11 +248,11 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 ---
 ## Step 4: Skills
 
-By default, every character has a range of Standard Skills allowing him to perform a variety of actions with varying degrees of expertise. These skills are detailed more fully in the Skills chapter but cover a range of everyday activities and local knowledge which anyone can use without specialized training. At this point of character creation, players will only need to know the Base Levels of each Standard Skill.
+By default, every character has a range of Standard Skills allowing him to perform a variety of actions with varying degrees of expertise. These skills are detailed more fully in the [Skills](0005_Skills.md) chapter but cover a range of everyday activities and local knowledge which anyone can use without specialized training. At this point of character creation, players will only need to know the Base Levels of each Standard Skill.
 
 The basic score of each Standard Skill is determined by the sum of two Characteristics or a multiple of a single Characteristic. The value represents the character's innate competence in each area, in effect their raw talent before any formative training received as part of his culture and profession.
 
-The Standard Skills Table shows how the basic values are calculated, along with a brief description of what the skill is and does. The score represents the percentage chance of success for a skill; so, an Athletics score of 25 is expressed as 25%. How skill percentages work and more detailed skill descriptions are provided in the Skills chapter.
+The Standard Skills Table shows how the basic values are calculated, along with a brief description of what the skill is and does. The score represents the percentage chance of success for a skill; so, an Athletics score of 25 is expressed as 25%. How skill percentages work and more detailed skill descriptions are provided in the [Skills](0005_Skills.md) chapter.
 
 Note that the basic percentages for some skills will be modified by both culture and profession, so these starting values will change as character creation progresses.
 
@@ -288,13 +288,13 @@ Note that the basic percentages for some skills will be modified by both culture
 ---
 ## Step 5: Race/Culture
 
-In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See the Race/Culture write-ups in chapter 2 for more information.
+In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
 
-All characters have an Alignment, which consists of one Ethical and one Moral Code, as well as two or three Passions. Some will have an Oath to a religious order, guild, or organization. Each Class write-up notes any required Alignment or Oaths. Before continuing, look up your race in chapter 2 and note the suggested Alignment and Passions, and your Class in chapter 3 and see if there are any Alignment or Oath requirements. See Chapter 4 to determine any specifics regarding your Alignment, Passions, and Oaths, if any.
+All characters have an Alignment, which consists of one Ethical and one Moral Code, as well as two or three Passions. Some will have an Oath to a religious order, guild, or organization. Each Class write-up notes any required Alignment or Oaths. Before continuing, look up your race in [chapter 2](0002_Culture_and_Races.md) and note the suggested Alignment and Passions, and check the [Classes](0003_Classes.md) section and see if there are any Alignment or Oath requirements. See chapter 4, [Alignment & Passions](0004_Alignment_and_Passions.md) to determine any specifics regarding your Alignment, Passions, and Oaths, if any.
 
 Each race and culture lists a variety of Standard Skills that the character learns as part of his formative development within that society. These are core abilities which all characters from the same specific culture improve to some degree. Characters also learn a few specialized or esoteric Professional Skills according to their personal interests.
 
-Professional Skills are further explained in Chapter 5, but in brief they represent those skills which cannot be attempted without years of rigorous study and specialized training. Whereas a character has a basic ability in all Standard Skills, they have zero ability in any Professional Skill unless chosen as part of their cultural upbringing or Class.
+Professional Skills are further explained in the [Skills](0005_Skills.md) chapter, but in brief they represent those skills which cannot be attempted without years of rigorous study and specialized training. Whereas a character has a basic ability in all Standard Skills, they have zero ability in any Professional Skill unless chosen as part of their cultural upbringing or Class.
 
 Chosen Professional Skills start off at their Base Level Characteristic value as per Standard Skills. Some Professional Skills such as Craft, Languages, or Lores offer choice of a specialization. In these cases, the specialty chosen should be one which suits that culture.
 
@@ -306,22 +306,22 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 
 | Race/Culture | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
-| _Human, Barbarian, Warrior Type_ | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, and either Boating or Ride at +10 | Navigation +10, Seamanship or Survival +10, Track +10 |
-| _Human, Barbarian, Wise Person_ | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, and either Boating or Ride at +10 | Healing +10, Language (any\*) +10, Lore (any) +15 |
-| _Human, Civilized, Street Smart_ | Conceal +10, Deceit +15, Drive +5, Influence +10, Insight +10, Locale +10, Willpower +10 | Craft. (any) +5, Commerce +10, Streetwise +15 |
-| _Human, Civilized, Book Smart_ | Conceal +5, Deceit +5, Drive +5, Influence +10, Insight +15, Locale +15, Willpower +10 | Commerce +10, Language (any\*) or Lore (any) +10, Lore (any) or Musicianship +15 |
-| _Human, Nomad, Warrior Type_ | Endurance +10, First Aid +5, Locale +5, Perception +10, Stealth +10, and two of the following, at +15 each: Athletics, Boating, Drive, Ride, or Swim (depending on the primary mode of travel) | Navigation +10, Survival +10, Track +10 |
-| _Human, Nomad, Wise Person_ | Endurance +5, First Aid +15, Locale +10, Lore (any), +15, Perception +10, Stealth +5, and two of the following, one at +5 each: Athletics, Boating, Drive, Ride, or Swim (depending on the primary mode of travel) | Healing +10, Language (any\*) +10, Lore (any) +10 |
-| _Human, Primitive, Warrior Type_ | Brawn +10, Endurance +10, Evade +10, Locale +5, Perception +10, Stealth +15, and one of either Athletics, Boating, First Aid, or Swim at +10 | Survival +10, Track +10; and one of either Athletics, Boating, First Aid, Navigation, or Swim at +10 |
-| _Human, Primitive, Wise Person_ | Endurance +5, Evade +5, First Aid +15, Locale +15, Perception +15, Stealth +5, and one of either Athletics, Boating, or Swim at +5 | Healing +10, Language (any\*) +10, Lore (any), +15 |
-| _Dwarf_ | Athletics +10, Brawn +15, Endurance +10, Evade +10, Locale +10, Perception +5, Willpower +10 | Commerce or Mechanisms +10, Craft. (any) +10, Survival +10 |
-| _Elf_ | Conceal +5, Influence +10, Insight +10, Locale +10, Perception +15, Stealth +10, Willpower +10 | Survival +10, and two of the following, at +10 each: Language (any\*\*), Lore (any), or Musicianship |
-| _Gnome_ | Deceit +10, Evade +15, Insight +10, Locale +10, Perception +5, Stealth +10, Willpower +10 | Commerce +10, Craft. (any) +10, Mechanisms or Survival +10 |
-| _Half-Elf,_ _Raised as Elf_ | Conceal +10, Influence +10, Insight +10, Locale +10, Perception +10, Stealth +10, Willpower +10 | Language (any\*\*) +10, Lore (any) +10, Musicianship or Survival +10 |
-| _Half-Elf,_ _Raised as Human_ | Select an appropriate Human Quick Pick |
-| _Half-Orc,_ _Raised as Orc_ | Athletics +15, Brawn +15, Endurance +15, Evade +10, First Aid +5, Locale +5, Perception +5 | Navigate +10, Survival +10, Track +10 |
-| _Half-Orc,_ _Raised as Human_ | Select an appropriate Human Quick Pick |
-| _Halfling_ | Dance or Sing +5, Evade +15, Insight +5, Locale +5, Perception +15, Stealth +15, Willpower +15 | Craft. (any) +10, Musicianship +5, Streetwise +10 |
+| Human (Barbarian, Warrior Type) | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, and either Boating or Ride at +10 | Navigation +10, Seamanship or Survival +10, Track +10 |
+| Human (Barbarian, Wise Person) | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, and either Boating or Ride at +10 | Healing +10, Language (any\*) +10, Lore (any) +15 |
+| Human(Civilized, Street Smart) | Conceal +10, Deceit +15, Drive +5, Influence +10, Insight +10, Locale +10, Willpower +10 | Craft. (any) +5, Commerce +10, Streetwise +15 |
+| Human (Civilized, Book Smart) | Conceal +5, Deceit +5, Drive +5, Influence +10, Insight +15, Locale +15, Willpower +10 | Commerce +10, Language (any\*) or Lore (any) +10, Lore (any) or Musicianship +15 |
+| Human (Nomad, Warrior Type) | Endurance +10, First Aid +5, Locale +5, Perception +10, Stealth +10, and two of the following, at +15 each: Athletics, Boating, Drive, Ride, or Swim (depending on the primary mode of travel) | Navigation +10, Survival +10, Track +10 |
+| Human (Nomad, Wise Person) | Endurance +5, First Aid +15, Locale +10, Lore (any), +15, Perception +10, Stealth +5, and two of the following, one at +5 each: Athletics, Boating, Drive, Ride, or Swim (depending on the primary mode of travel) | Healing +10, Language (any\*) +10, Lore (any) +10 |
+| Human (Primitive, Warrior Type) | Brawn +10, Endurance +10, Evade +10, Locale +5, Perception +10, Stealth +15, and one of either Athletics, Boating, First Aid, or Swim at +10 | Survival +10, Track +10; and one of either Athletics, Boating, First Aid, Navigation, or Swim at +10 |
+| Human (Primitive, Wise Person) | Endurance +5, Evade +5, First Aid +15, Locale +15, Perception +15, Stealth +5, and one of either Athletics, Boating, or Swim at +5 | Healing +10, Language (any\*) +10, Lore (any), +15 |
+| Dwarf | Athletics +10, Brawn +15, Endurance +10, Evade +10, Locale +10, Perception +5, Willpower +10 | Commerce or Mechanisms +10, Craft. (any) +10, Survival +10 |
+| Elf | Conceal +5, Influence +10, Insight +10, Locale +10, Perception +15, Stealth +10, Willpower +10 | Survival +10, and two of the following, at +10 each: Language (any\*\*), Lore (any), or Musicianship |
+| Gnome | Deceit +10, Evade +15, Insight +10, Locale +10, Perception +5, Stealth +10, Willpower +10 | Commerce +10, Craft. (any) +10, Mechanisms or Survival +10 |
+| Half-Elf (Raised as Elf) | Conceal +10, Influence +10, Insight +10, Locale +10, Perception +10, Stealth +10, Willpower +10 | Language (any\*\*) +10, Lore (any) +10, Musicianship or Survival +10 |
+| Half-Elf (Raised as Human) | Select an appropriate Human Quick Pick |
+| Half-Orc(Raised as Orc) | Athletics +15, Brawn +15, Endurance +15, Evade +10, First Aid +5, Locale +5, Perception +5 | Navigate +10, Survival +10, Track +10 |
+| Half-Orc (Raised as Human) | Select an appropriate Human Quick Pick |
+| Halfling | Dance or Sing +5, Evade +15, Insight +5, Locale +5, Perception +15, Stealth +15, Willpower +15 | Craft. (any) +10, Musicianship +5, Streetwise +10 |
 
 \* Humans are not limited in the selection of languages during character creation if they can justify the choice.
 
@@ -331,7 +331,7 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 
 Optionally, you may spend points to customize a specific character concept. This allows for a more tailored character at the expense of time. When applying Skills perform the following steps:
 
-- Select three Professional Skills from the options offered (See race write-ups in Chapter XX).
+- Select three Professional Skills from the options offered (See chapter 2 for [race descriptions](0002_Culture_and_Races.md)).
 - Distribute 100 points among the listed Standard Skills and chosen Professional Skills, increasing that skill by 1% for every point spent on improving it. Players are free to choose how much each skill is improved by, but each skill must receive a minimum of 5% and cannot receive more than 15%.
 
 ---
@@ -339,15 +339,15 @@ Optionally, you may spend points to customize a specific character concept. This
 
 Class represents the career the character has embarked on as part of the transition to adulthood, and it further defines the character's skill development.
 
-Players are normally free to choose which Class they wish their character to play assuming that the Games Master deems it suitable. The Class write-upsgive some guidance as to the common Classes available to each racial/cultural type. This should be seen as common representations, and not restrictions. Players should feel free to play as any Class/Race combination that best fits their vision.
+Players are normally free to choose which Class they wish their character to play assuming that the Games Master deems it suitable. The Class write-ups give some guidance as to the common Classes available to each racial/cultural type. This should be seen as common representations, and not restrictions. Players should feel free to play as any Class/Race combination that best fits their vision.
 
 Like Race/Cultural backgrounds, each Class offers the chance to improve a range of Standard and Professional Skills commonly used by that occupation. Unlike cultural backgrounds, characters need not invest their points in every available skill but may tailor which ones are taken as those fitting for their specific role or Culture.
 
-#### Class Skill Quick Picks
+### Class Skill Quick Picks
 
 Choose a Class Quick Pick for an average selection of skills useful to the Class in question. Feel free to swap points, if desired; however, while the skill can be reduced to a +0, functioning at Base Level (including Professional Skills), no skill can have more than a +15 bonus. These skills already include any Class Skill Bonuses from Abilities.
 
-##### Class Quick Picks Table
+#### Class Quick Picks Table
 
 | Class | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
