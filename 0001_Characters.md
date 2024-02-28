@@ -115,7 +115,7 @@ Each character also has a set of attributes. These are capabilities derived from
 
 ### Action Points
 
-How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables for details.
+How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables under [Classes](0003_Classes.md) for details.
 
 ### Damage Modifier
 
@@ -331,7 +331,7 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 
 Optionally, you may spend points to customize a specific character concept. This allows for a more tailored character at the expense of time. When applying Skills perform the following steps:
 
-- Select three Professional Skills from the options offered (See chapter 2 for [race descriptions](0002_Culture_and_Races.md)).
+- Select three Professional Skills from the options offered (See [chapter 2](0002_Culture_and_Races.md) for race descriptions).
 - Distribute 100 points among the listed Standard Skills and chosen Professional Skills, increasing that skill by 1% for every point spent on improving it. Players are free to choose how much each skill is improved by, but each skill must receive a minimum of 5% and cannot receive more than 15%.
 
 ---
@@ -402,7 +402,7 @@ Bonus Skill Points are used in the following ways:
 - Either add a +10 bonus to ten different skills, or distribute points among them, increasing each skill by 1% for every point spent on improving it. No individual skill can receive more points than indicated by their Experience Level. If you choose a new Professional Skill, you must add points to it.
 - Save for the optional hobby specialty, no points may be assigned to Professional Skills not learned as part of their culture or Class.
 
-#### Creating Experienced Characters
+### Creating Experienced Characters
 
 It is recommended that beginning characters start fresh, at Rank 1, with little or no practical experience. Of course, the level of the characters will depend greatly on the setting and whether the game will be a short one-off adventure or a long-running campaign. It is also common for a player to create a more experienced character if replacing one that has died in play or when joining an existing campaign.
 
@@ -410,15 +410,15 @@ A table is provided, breaking experience into Experience Categories. A character
 
 This table may also be used for NPCs, whether built using a Class or a career, and follows the same rules. There is one exception: Non-Player Characters built as part of a career have no special Abilities, including the extra Luck Points, which are reserved for player characters and significant Non-Player Characters only. Note that a starting NPC built as a career is Rank 1 by default.
 
-##### Experience Table
+#### Experience Table
 
 | Rank (Level\*) | Age | Bonus Skill Points | Maximum Skill Increase | Average Skill Level\*\* | Advancement |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Rank 1: _Fresh (1-4)_ | By species | 100 | +10 | 40-60 | Any 5 Class Skills at 40% |
-| Rank 2: _Low Level (5-9)_ | +1d6 | 300 | +30 | 65-75 | Any 5 Class Skills at 70% |
-| Rank 3: _Mid. Level (10-14)_ | +1d6+5 | 500 | +50 | 85-95 | Any 4 Class Skills at 90% |
-| Rank 4: _High Level (15-19)_ | +1d6+10 | 700 | +70 | 105-115 | Any 3 Class Skills at 110% |
-| Rank 5: _Epic Level (20+)_ | +1d6+20 | 900 | +90 | 125-135 | Any 2 Class Skills at 130% |
+| Rank 1 (1-4): _Fresh_ | By species | 100 | +10 | 40-60 | Any 5 Class Skills at 40% |
+| Rank 2 (5-9): _Low Level_ | +1d6 | 300 | +30 | 65-75 | Any 5 Class Skills at 70% |
+| Rank 3 (10-14): _Mid-Level_ | +1d6+5 | 500 | +50 | 85-95 | Any 4 Class Skills at 90% |
+| Rank 4 (15-19): _High Level_ | +1d6+10 | 700 | +70 | 105-115 | Any 3 Class Skills at 110% |
+| Rank 5 (20+): _Epic Level_ | +1d6+20 | 900 | +90 | 125-135 | Any 2 Class Skills at 130% |
 
 \* The number in parentheses may be used as a gauge when converting existing characters from Level-Based games.
 
@@ -436,7 +436,7 @@ This table may also be used for NPCs, whether built using a Class or a career, a
 ---
 ## Step 8: Finally…
 
-- Determine your Alignment and Passions based on your chosen Culture/Race and Class. See chapter 4.
+- Determine your Alignment and Passions based on your chosen Culture/Race and Class. See [chapter 4](0004_Alignment_and_Passions.md).
 - Note any Starting Abilities from your Race and Class.
 - Under Ranked Abilities, choose one Rank 1 Class Ability that you meet the requirements for at no cost in EXP rolls.
 - Copy down starting equipment as noted at the end of your Class write-up.
