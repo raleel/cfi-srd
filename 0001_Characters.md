@@ -288,9 +288,9 @@ Note that the basic percentages for some skills will be modified by both culture
 ---
 ## Step 5: Race/Culture
 
-In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
+In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [Chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
 
-All characters have an Alignment, which consists of one Ethical and one Moral Code, as well as two or three Passions. Some will have an Oath to a religious order, guild, or organization. Each Class write-up notes any required Alignment or Oaths. Before continuing, look up your race in [chapter 2](0002_Culture_and_Races.md) and note the suggested Alignment and Passions, and check the [Classes](0003_Classes.md) section and see if there are any Alignment or Oath requirements. See chapter 4, [Alignment & Passions](0004_Alignment_and_Passions.md) to determine any specifics regarding your Alignment, Passions, and Oaths, if any.
+All characters have an Alignment, which consists of one Ethical and one Moral Code, as well as two or three Passions. Some will have an Oath to a religious order, guild, or organization. Each Class write-up notes any required Alignment or Oaths. Before continuing, look up your race in [Chapter 2](0002_Culture_and_Races.md) and note the suggested Alignment and Passions, and check the [Classes](0003_Classes.md) section and see if there are any Alignment or Oath requirements. See [Chapter 4, [Alignment & Passions](0004_Alignment_and_Passions.md) to determine any specifics regarding your Alignment, Passions, and Oaths, if any.
 
 Each race and culture lists a variety of Standard Skills that the character learns as part of his formative development within that society. These are core abilities which all characters from the same specific culture improve to some degree. Characters also learn a few specialized or esoteric Professional Skills according to their personal interests.
 
@@ -331,7 +331,7 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 
 Optionally, you may spend points to customize a specific character concept. This allows for a more tailored character at the expense of time. When applying Skills perform the following steps:
 
-- Select three Professional Skills from the options offered (See [chapter 2](0002_Culture_and_Races.md) for race descriptions).
+- Select three Professional Skills from the options offered (See [Chapter 2](0002_Culture_and_Races.md) for race descriptions).
 - Distribute 100 points among the listed Standard Skills and chosen Professional Skills, increasing that skill by 1% for every point spent on improving it. Players are free to choose how much each skill is improved by, but each skill must receive a minimum of 5% and cannot receive more than 15%.
 
 ---
@@ -388,7 +388,7 @@ Combat Skill has a Basic Percentage equal to STR+DEX.
 
 Since most people can pick up a weapon and instinctively either swing, throw, or fire it, Combat Skill is considered a Standard Skill. Yet due to their potentially diverse nature, they are categorized and defined separately.
 
-All characters learn their Combat Skill as part of their chosen Class, as described in Chapter 3.
+All characters learn their Combat Skill as part of their chosen Class, as described in [Chapter 3](0003_Classes.md).
 
 ---
 ## Step 7: Bonus Skill Points
@@ -436,7 +436,7 @@ This table may also be used for NPCs, whether built using a Class or a career, a
 ---
 ## Step 8: Finally…
 
-- Determine your Alignment and Passions based on your chosen Culture/Race and Class. See [chapter 4](0004_Alignment_and_Passions.md).
+- Determine your Alignment and Passions based on your chosen Culture/Race and Class. See [Chapter 4](0004_Alignment_and_Passions.md).
 - Note any Starting Abilities from your Race and Class.
 - Under Ranked Abilities, choose one Rank 1 Class Ability that you meet the requirements for at no cost in EXP rolls.
 - Copy down starting equipment as noted at the end of your Class write-up.
