@@ -71,6 +71,8 @@ Clerics are proficient with all types of armor (light and heavy), and with all s
 
 All clerics are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, clerics may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Initiate with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Lay Member with the Ability to cast Rank 0 spells, no other Abilities.
 
+#### Cleric Rank Table
+
 | **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
 | 0 | Lay Member | - | Rank 0: INT/4 | 0 | +0 | +0 |
@@ -85,8 +87,8 @@ All clerics are rated by Rank, which is a rating of power and skill. When a spec
 The cleric knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
 - **Spellcaster:** Clerics are masters of Divine magic, able to cast spells of healing, defense, and protection to aid their allies. However, they are not without powerful offensive spells to smite those that stand against their ideals. Unlike magic-users, clerics require no spell book, having access to all spells of their Rank or below. Casting spells requires 1 or more Cast Magic Actions consisting of a few brief prayers, somatic gestures with their holy symbol, and a successful Channel roll. The number of spells of their current Rank a cleric may have in memory is found on the Rank Structure Table above under Spells in Memory.
-- **Starting Spells:** A cleric begins with access to all cleric spells and Rank 0 spells of their Rank or less. See Cleric Spell Lists on page XX. They do not actually know them, like a magic-user 'knows' spells, but may pray for any of them when choosing which spells to memorize. The number of spells the cleric may memorize at each Rank is found on the cleric's Rank Table above. See Memorizing Spells in Chapter XX
-- Turn Undead: Clerics may turn undead, driving them away by means of faith alone. Turning Undead is detailed on page XX.
+- **Starting Spells:** A cleric begins with access to all Rank 0 cleric spells and all others of their Rank or less. See the [Cleric Spell List](0003_Classes.md?id=cleric-spell-list). They do not actually know them, like a magic-user 'knows' spells, but may pray for any of them when choosing which spells to memorize. The number of spells the cleric may memorize at each Rank is found on the cleric's Rank Table above. See [Memorizing Spells](0009_Magic.md?id=memorizing-spells) for more details.
+- Turn Undead: Clerics may turn undead, driving them away by means of faith alone. [Turning Undead](0003_Classes.md?id=turning-undead) is covered in detail below.
 
 ### Ranked Abilities
 
@@ -235,6 +237,8 @@ Fighters are proficient with all types of armor (light and heavy), and with all 
 
 All fighters are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, fighters may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached, an additional Luck Point is gained, and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Fighter with the appropriate Ranked Abilities noted below; otherwise, you start as a Rank 0 Warrior with no current Abilities.
 
+#### Fighter Rank Table
+
 | **Rank** | **Title** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-: | :-: | :-: |
 | **0** | Warrior Trainee | - | 0 | +0 | +0 |
@@ -257,7 +261,7 @@ The fighter knows all the following Abilities at Rank 1. In addition, during cha
     - You gain a bonus Parry when wielding this weapon. This does not require the use of an Action Point.
   - **Ranged Weapon:**  You receive the following specialization benefits to a single Ranged Weapon:  
     - If not surprised you may automatically fire first (before rolling for Initiative) at the beginning of combat, assuming both weapon and ammo are readied. You state your intent to fire, resolve the results, and then Initiative is rolled.  
-    - When aiming at a target within the weapon's Close Range, aiming requires 1 Turn steadying the weapon instead of a full Round, and makes the following attack 1 grade easier. Attacks made beyond Close Range follow the normal rules for aiming as found under Ranged Combat in Chapter **8**. Additional Rounds spend aiming grant no further advantage.  
+    - When aiming at a target within the weapon's Close Range, aiming requires 1 Turn steadying the weapon instead of a full Round, and makes the following attack 1 grade easier. Attacks made beyond Close Range follow the normal rules for aiming as found under [Ranged Combat](0008_Combat.md?id=ranged-combat) in Chapter 8. Additional Rounds spend aiming grant no further advantage.  
     - A specialist may reduce the reload time of any mastered Ranged Weapon by 1. A weapon with 0 reload time may effectively be readied as a Free Action.
   - **Shields:**  You receive the following specialization benefits to ALL shields:  
     - Your Combat Skill when using any shield is improved by +10%. This skill bonus will not aid in Rank Advancement.  
@@ -389,6 +393,8 @@ Mages are not proficient with any type of armor or shields, as Arcane spells req
 
 All mages are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, mages may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an additional Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Journeyman with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Apprentice with the Ability to cast Rank 0 spells, and no other Abilities.
 
+#### Mage Rank Table
+
 | **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
 | **0** | Apprentice | - | Rank 0: INT/4 | 0 | +0 | +0 |
@@ -402,8 +408,8 @@ All mages are rated by Rank, which is a rating of power and skill. When a specif
 
 The mage knows the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
-- **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and movements (the spell's somatic component) during casting, which are hindered by the wearing of armor. See Casting in Armor on page XX for specific information. The number of spells of their current Rank a mage may have in memory is found on the Rank Structure Table above under Spells in Memory.
-- **Starting Spells:** Cantrips are the first magical abilities taught to an apprentice mage and are fully defined in the Spells chapter. A mage begins with knowledge of the Rank 0 cantrip Read Magic, as well as two cantrips (Rank 0) for every 1/10th Arcane Knowledge (skill x 0.1). If the mage qualifies as Rank 1, they also know one Rank 1 spell for every 1/10th Arcane Knowledge. The number of spells the mage may have prepared at each Rank is found on the mage's Rank Table above under Spells in Memory. See the Mage Spell Lists on page XX. See Memorizing Spells on page XX.
+- **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and movements (the spell's somatic component) during casting, which are hindered by the wearing of armor. See the [Casting in Armor](0009_Magic.md?id=casting-in-armor) section for specific information. The number of spells of their current Rank a mage may have in memory is found on the Rank Structure Table above under Spells in Memory.
+- **Starting Spells:** Cantrips are the first magical abilities taught to an apprentice mage and are fully defined in the [Spells](0010_Spells.md) chapter. A mage begins with knowledge of the Rank 0 cantrip Read Magic, as well as two cantrips (Rank 0) for every 1/10th Arcane Knowledge (skill x 0.1). If the mage qualifies as Rank 1, they also know one Rank 1 spell for every 1/10th Arcane Knowledge. The number of spells the mage may have prepared at each Rank is found above on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Spells in Memory. See the [Mage Spell List](0003_Classes.md?id=mage-spell-list) below and the section on [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
 
 ### Ranked Abilities
 
@@ -517,7 +523,7 @@ DEX, INT, and CHA
 
 See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
 
-In addition to any racial/cultural Alignment and Passions, rogues who choose to join a thieves' guild must swear an Oath and follow all the normal rules set forth on page XX. In addition, they must abide to the following strictures: display loyalty to other members, abide by all guild rules, act in the guild's best interests (putting the guild before personal interests), keep the guild's secrets safe, pay guild dues, and pay a cut of any job 'sanctioned' by the guild.
+In addition to any racial/cultural Alignment and Passions, rogues who choose to join a thieves' guild must swear an Oath and follow all the normal rules set forth in [Using Alignment and Passions](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). In addition, they must abide to the following strictures: display loyalty to other members, abide by all guild rules, act in the guild's best interests (putting the guild before personal interests), keep the guild's secrets safe, pay guild dues, and pay a cut of any job 'sanctioned' by the guild.
 
 Dues vary by location and guild size, but around 100 gold per year is standard. In addition to yearly dues, members are required to pay a cut of any jobs where the guild helped in the form of contacts, tipoffs, maps, general information, and so on. The specific amount of the cut should be determined on a case-by-case basis, depending on the assistance provided, but an average of 20%, modified up or down is about right. In exchange, the guild provides temporary shelter to the member and their allies, as well as any other services the Games Master deems appropriate. Fences are available to help move stolen merchandise, and through these contacts, a thief can be expected to get about ¼ the item's sale value. Most thieves' guilds have a presence in most major cities and even some large towns.
 
@@ -538,6 +544,8 @@ Rogues are proficient with all types of armor (light and heavy), and with all sh
 ### Rank Structure
 
 All rogues are rated by Rank, which is a rating of power and skill. You may choose either the rogue or thief titles, depending on whichever is more relevant to your relationship with the thieves' guild. When a specific degree of mastery is gained in a limited number of Class skills, rogues may increase their Rank, as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Scoundrel or Burglar with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Scamp or Cutpurse but no other Abilities.
+
+#### Rogue Rank Table
 
 | **Rank** | **Title (Rogue)** | **Title (Thief)** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
