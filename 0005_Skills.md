@@ -2,6 +2,7 @@
 
 Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
 
+---
 ## How Skills Work
 
 A skill has a Base Value built on two Characteristics; or one Characteristic multiplied by two. There is no upper limit to a skill's value; it can exceed 100 and, in play, characters can expect to see their skills reach such heights.
@@ -33,34 +34,36 @@ There will be some occasions where a roll against a particular skill is just not
 
 There are some occasions where a skill roll is required, but the chances of success need to be adjusted to reflect existing conditions. Fleeing bandits, for instance, might require an Athletics roll. But what if the character is fleeing through darkness or through treacherous undergrowth? In such a case the Games Master can insist on modifying the skill of the character to reflect the circumstances.
 
-Classic Fantasy Imperative uses a series of grades to determine how a skill is modified. These are as follows. Note that two types of modifiers are provided: the first is the default method, and involves a little math, but offers better simulation for scaling, especially where higher skill percentages are concerned. The Simplified Skill Modifier is a simple addition or subtraction, and easier to implement. Choose which method best fits the game but ensure that the same modification system is applied consistently.
+_Classic Fantasy Imperative_ uses a series of grades to determine how a skill is modified. These are as follows. Note that two types of modifiers are provided: the first is the default method, and involves a little math, but offers better simulation for scaling, especially where higher skill percentages are concerned. The Simplified Skill Modifier is a simple addition or subtraction, and easier to implement. Choose which method best fits the game but ensure that the same modification system is applied consistently.
 
-##### Difficulty Grade Table
+#### Difficulty Grade Table
 
-| _**Difficulty Grade**_ | **Skill Modifier** | **Simplified Skill Modifier** |
-| --- | --- | --- |
-| _Automatic_ | No need to roll | No need to roll |
-| _Very Easy_ | Double the skill value | +40% |
-| _Easy_ | Add half again to the skill value | +20% |
-| _Standard_ | No adjustment | None |
-| _Hard_ | Reduce skill value by one-third | -20% |
-| _Formidable_ | Reduce the skill value by half | -40% |
-| _Herculean_ | Reduce the skill value to one-fifth | -80% |
-| _Hopeless_ | No attempt can be made | No attempt can be made |
+| **Difficulty Grade** | **Skill Modifier** | **Simplified Skill Modifier** |
+| :-- | :-- | :-- |
+| Automatic | No need to roll | No need to roll |
+| Very Easy | Double the skill value | +40% |
+| Easy | Add half again to the skill value | +20% |
+| Standard | No adjustment | None |
+| Hard | Reduce skill value by one-third | -20% |
+| Formidable | Reduce the skill value by half | -40% |
+| Herculean | Reduce the skill value to one-fifth | -80% |
+| Hopeless | No attempt can be made | No attempt can be made |
 
 Where a character is already suffering a penalty from other circumstances, the hardest Difficulty Grade takes precedence.
 
-Outside of combat, Classic Fantasy Imperative does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
+Outside of combat, _Classic Fantasy Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
 
+---
 ## Standard Skills
 
 ### Athletics (STR+DEX)
 
-Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a single roll against the Athletics skill. See Movement on page XX for more information on climbing, jumping, and running.
+Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a single roll against the Athletics skill. See the [Movement](0008_Combat.md?id=movement
+) section for more information on climbing, jumping, and running.
 
 ### Boating (STR+CON)
 
-The Boating skill covers the operation of small floating craft. on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigors of the open sea. Most are propelled using oars, paddles, punts or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the Seamanship Professional Skill.
+The Boating skill covers the operation of small floating craft on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigors of the open sea. Most are propelled using oars, paddles, punts or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the [Seamanship](0005_Skills.md?id=seamanship-intcon) Professional Skill.
 
 ### Brawn (STR+SIZ)
 
@@ -68,7 +71,7 @@ Brawn is the efficient application of technique when applying raw physical force
 
 ### Conceal (DEX+POW)
 
-Conceal is the counterpoint to Stealth, being the concealment of large objects rather than the character themselves. For instance, conceal could be used to hide a chariot behind some rocks, or sweep away the wheel ruts of the chariot so its path cannot be tracked. The skill is versatile in application, anything from hiding a scroll in a library to disguising the presence of a trap or secret passage.
+Conceal is the counterpoint to [Stealth](0005_Skills.md?id=stealth-dexint), being the concealment of large objects rather than the character themselves. For instance, conceal could be used to hide a chariot behind some rocks, or sweep away the wheel ruts of the chariot so its path cannot be tracked. The skill is versatile in application, anything from hiding a scroll in a library to disguising the presence of a trap or secret passage.
 
 ### Customs (INT x2+40)
 
@@ -80,7 +83,7 @@ Just about every culture uses dance in some way – either as recreation or as p
 
 ### Deceit (INT+CHA)
 
-Deceit covers all instances where a character attempts to mask the truth and offer a deception of some kind; barefaced lying, misleading a guard, or even bluffing (or cheating) during a card game. The skill also covers instances where hiding true emotions or motives is necessary (feigning pleasure when one is bitterly disappointed perhaps, or attempting to seem welcoming and open when the opposite is true). Deceit forms a counterpart to the Insight skill and can be used to oppose Insight rolls when others are attempting to discern either truth or motive.
+Deceit covers all instances where a character attempts to mask the truth and offer a deception of some kind; barefaced lying, misleading a guard, or even bluffing (or cheating) during a card game. The skill also covers instances where hiding true emotions or motives is necessary (feigning pleasure when one is bitterly disappointed perhaps, or attempting to seem welcoming and open when the opposite is true). Deceit forms a counterpart to the [Insight](0005_Skills.md?id=insight-intpow) skill and can be used to oppose Insight rolls when others are attempting to discern either truth or motive.
 
 ### Drive (DEX+POW)
 
@@ -88,7 +91,7 @@ Drive covers the control of wheeled or drawn vehicles, whether by one or more be
 
 ### Endurance (CON x2)
 
-Endurance is a character's capacity to endure physical stress, pain, and fatigue. It measures the body's ability to deal with potentially damaging or debilitating conditions and is a general gauge of resilience, stamina, and metabolism. Endurance, like its counterpart Willpower, is used in any number of ways, but most specifically to resist the possible effects of injuries, including harmful poisons and disease.
+Endurance is a character's capacity to endure physical stress, pain, and fatigue. It measures the body's ability to deal with potentially damaging or debilitating conditions and is a general gauge of resilience, stamina, and metabolism. Endurance, like its counterpart [Willpower](0005_Skills.md?id=willpower-pow-x2), is used in any number of ways, but most specifically to resist the possible effects of injuries, including harmful poisons and disease.
 
 ### Evade (DEX x2)
 
@@ -114,7 +117,7 @@ Locale measures a character's understanding of local flora, fauna, terrain, and 
 
 Native Tongue is the ability to speak and read one's own language, the one learned while growing up in one's home culture. For humans, this is the Common Tongue, while demi-human and other races each have their own native languages. Native Tongue measures articulation, eloquence, and the depth of the speaker's vocabulary.
 
-Unlike other skills, Native Tongue is not rolled against directly. Instead, it is treated as a static representation of overall fluency, limiting the level of conversational interaction. This is described in more detail under the Language skill on page XX, but starting characters usually begin play fully fluent in their native language.
+Unlike other skills, Native Tongue is not rolled against directly. Instead, it is treated as a static representation of overall fluency, limiting the level of conversational interaction. This is described in more detail under the [Language](0005_Skills.md?id=language-intcha) skill, but starting characters usually begin play fully fluent in their native language.
 
 The skill can be used in two ways. First, it can help to understand the dialects of neighboring peoples who share a common linguistic basis or origin. In such cases the skill is treated at least one grade harder, potentially affecting the character's fluency. Second, it can be used as a cap on verbal skills which require a good grasp of language.
 
@@ -136,25 +139,26 @@ Hiding out of plain sight or moving with minimal sound are covered by the Stealt
 
 ### Swim (STR+CON)
 
-Without development, the ability to swim is limited to being able to thrash around and keep one's head above the water for a short time. Higher Swim percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Swim roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See Movement on page XX for more information on swimming, including calculating swim speeds.
+Without development, the ability to swim is limited to being able to thrash around and keep one's head above the water for a short time. Higher Swim percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Swim roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See the [Movement](0008_Combat.md?id=movement) section for more information on swimming, including calculating swim speeds.
 
 ### Unarmed (STR+DEX)
 
 Unarmed is a universal Combat Skill common to all characters, measuring the ability to defend oneself without the aid of weapons. The Unarmed skill covers the brawling and wrestling techniques known by that culture.
 
-As Unarmed is a Combat Skill its Critical and Fumble effects are covered by the rules for combat, as detailed in the Combat chapter.
+As Unarmed is a Combat Skill its Critical and Fumble effects are covered by the rules for combat, as detailed in the [Combat](0008_Combat.md) chapter.
 
 ### Willpower (POW x2)
 
-Willpower is a measure of a character's ability to concentrate, channel his force of will in a particular direction, or harden his psyche to possible mental shock. It is also a measure of personal resolve. The skill is used in all manner of situations where mental resilience is required, and this includes resisting magic. Although not a measure of sanity it can be used to endure traumatic events that would shake even the sanest, stable mind. Willpower is the mental counterpart to Endurance.
+Willpower is a measure of a character's ability to concentrate, channel his force of will in a particular direction, or harden his psyche to possible mental shock. It is also a measure of personal resolve. The skill is used in all manner of situations where mental resilience is required, and this includes resisting magic. Although not a measure of sanity it can be used to endure traumatic events that would shake even the sanest, stable mind. Willpower is the mental counterpart to [Endurance](0005_Skills.md?id=endurance-con-x2).
 
 Again, like Endurance and Evade, Willpower is most often used in Opposed Tests. When used as a Standard test, a Critical Willpower roll indicates that the character has hardened his mind and spirit to the extent that no further attempts to influence him, or shake his resolve, will work. In the case of resisting magic, a Critical Success means that no further mentally afflicting spells cast by the opponent have any effect on the character for the remainder of that encounter.
 
+---
 ## Professional Skills
 
 Professional Skills differ between characters and represent more specialized forms of training and experience. Some Professional Skills are gathered through cultural background and a character's Class, as the name suggests. Although they differ between characters they work in the same way as Standard Skills.
 
-Certain magical skills are also classed as Professional Skills: Channeling and Devotion are the two skills associated with Divine magic for example. These are only briefly described here. For more details refer to the relevant magical chapter.
+Certain magical skills are also classed as Professional Skills: Channeling and Devotion are the two skills associated with Divine magic for example. These are only briefly described here. For more details refer to the relevant section of the [Magic](0009_Magic.md) chapter.
 
 ### Acting (CHA x2)
 
@@ -166,7 +170,7 @@ Acrobatics covers acts of balance, gymnastics, juggling, and tumbling. The skill
 
 Acrobatics can be substituted for Evade if the situation warrants it. The benefit of this is that the character automatically regains their footing rather than being rendered prone.
 
-Acrobatics also serves as the basis for the Rogue's Vaulting Ability (see page XX).
+Acrobatics also serves as the basis for the Rogue's Rank 1 [Vaulting](0003_Classes.md?id=rank-1-3) ability.
 
 ### Animal Handling (POW+CHA)
 
@@ -184,7 +188,7 @@ Arcane Knowledge is not only limited to Arcane casters. It may be adopted by tho
 
 ### Art (POW+CHA)
 
-There are many specific art forms. Painting to Poetry; Literature to Sculpture. A character chooses an Art specialization when taking this skill. Subsequent Art forms are advanced separately. A roll is made whenever a character must impress or convince through his artistic medium.
+There are many specific art forms. Painting to poetry; literature to sculpture. A character chooses an Art specialization when taking this skill - e.g. Art (Painting). Subsequent Art forms are advanced separately. A roll is made whenever a character must impress or convince through his artistic medium.
 
 ### Bureaucracy (INT x2)
 
@@ -192,7 +196,7 @@ Understanding administrative procedures, records, and unspoken conventions are c
 
 ### Channel (INT+CHA)
 
-Channel is the magical skill used to call upon and conduit the power of the gods. Increasing competence in this skill also improves the final Intensity of any spells cast with it.
+Channel is the magical skill used to call upon and conduct the power of the gods. Increasing competence in this skill also improves the final Intensity of any spells cast with it.
 
 ### Commerce (INT+CHA)
 
@@ -202,9 +206,9 @@ Commerce is used to evaluate the worth of goods and commodities and to trade the
 
 This skill covers understanding how to act appropriately in a social or formal situation: modes of address, rituals, and conventions of behavior, and so forth. It includes everything from who to bow to and when, to how low; from when to use a particular title to when it is appropriate to act informally.
 
-### Craft. (DEX+INT)
+### Craft (DEX+INT)
 
-Each Craft. is a specialized form, and there are as many crafts as there are professions for them. Like Art, Craft. is used to create the subject item. How long it takes depends entirely on the nature of the product: weaving a rug takes longer than throwing a pot, for instance, but time is not necessarily the most important factor: it is the skill of the crafter, the quality of the resources and attention to detail.
+Each Craft is a specialized form, e.g. Craft (Pottery), and there are as many crafts as there are professions for them. Like Art, Craft is used to create the subject item. How long it takes depends entirely on the nature of the product: weaving a rug takes longer than throwing a pot, for instance, but time is not necessarily the most important factor: it is the skill of the crafter, the quality of the resources and attention to detail.
 
 ### Culture (INT x2)
 
@@ -230,7 +234,7 @@ The Gambling skill measures a character's competence in games of chance and espe
 
 ### Healing (INT+POW)
 
-Healing is the in-depth knowledge of medical procedures, based on cultural practices. In a Primitive or Barbarian culture, for instance, healing will be based on the knowledge of herbs and natural cures. In a Civilized culture, drugs and more advanced treatments will be more common. In all cultures Healing includes the ability to set bones, suture wounds, and so forth. Obviously applying Healing requires appropriate resources, and most practicing healers will have such things at hand (needles, gut or thread for sutures, herbs for poultices, and so forth).
+Healing is the in-depth knowledge of medical procedures, based on cultural practices. In a Primitive or Barbarian culture, for instance, Healing will be based on the knowledge of herbs and natural cures. In a Civilized culture, drugs and more advanced treatments will be more common. In all cultures Healing includes the ability to set bones, suture wounds, and so forth. Obviously applying Healing requires appropriate resources, and most practicing healers will have such things at hand (needles, gut or thread for sutures, herbs for poultices, and so forth).
 
 ### Intimidation (INT+CHA)
 
@@ -238,16 +242,16 @@ This skill is used to threaten an individual into a course of action they would 
 
 ### Language (INT+CHA)
 
-This skill covers the speaking and comprehension of languages other than the character's own. The Language skill is not rolled against directly but is treated as a static representation of overall fluency. Its value is used by the Games Master to limit the level of spoken interaction when the players converse with personalities in the game. Use the Linguistic Fluency table as a guideline.
+This skill covers the speaking and comprehension of languages other than the character's own. The Language skill is not rolled against directly but is treated as a static representation of overall fluency. Its value is used by the Games Master to limit the level of spoken interaction when the players converse with personalities in the game. Use the [Linguistic Fluency table](0005_Skills.md?id=linguistic-fluency-table) as a guideline.
 
-##### Linguistic Fluency Table
+#### Linguistic Fluency Table
 
-| _**Language%**_ | **Conversational Fluency** |
-| --- | --- |
-| _01-25%_ | Can understand only a few simple words, cannot phrase sentences, or read |
-| _26-50%_ | Can understand and communicate in fragmentary, simple sentences, such as "Where is Temple?" or "How much food?" Can read at an elementary school level |
-| _51-75%_ | Fluent enough for general conversation and can read at a high school level |
-| _76%+_ | Able to express yourself with eloquence and can read at a college level |
+| **Language%** | **Conversational Fluency** |
+| :-: | :-- |
+| 01-25% | Can understand only a few simple words, cannot phrase sentences, or read |
+| 26-50% | Can understand and communicate in fragmentary, simple sentences, such as "Where is Temple?" or "How much food?" Can read at an elementary school level |
+| 51-75% | Fluent enough for general conversation and can read at a high school level |
+| 76%+ | Able to express yourself with eloquence and can read at a college level |
 
 Each Language skill is specific to a particular racial, national, or regional language, which must be chosen at the time of learning. It can also help to understand similar dialects which share a common linguistic basis or origin. Depending on the divergence, the skill roll should be treated at least one Difficulty Grade harder, possibly reducing the character's fluency.
 
@@ -255,15 +259,15 @@ The Language skill includes literacy. Literacy does not necessarily imply writin
 
 ### Language (Thieves' Cant) (INT+CHA)
 
-_Rogues Only_. Requires Oath to the Thieves' Guild to learn this patois at Base Level. This 'Language' skill consists of slang and implied meanings and is used between thieves to discuss pursuits of an illicit nature in public, without giving away information to other interested parties. This communication is limited to discussions about breaking and entering. Rogues that are long-term members of the Thieves Guild will automatically know this skill at Base Level +40%. Those that pick it up in play start at Base Level.
+_(Rogues Only)_: Requires Oath to the Thieves' Guild to learn this patois at Base Level. This 'Language' skill consists of slang and implied meanings and is used between thieves to discuss pursuits of an illicit nature in public, without giving away information to other interested parties. This communication is limited to discussions about breaking and entering. Rogues that are long-term members of the Thieves Guild will automatically know this skill at Base Level +40%. Those that pick it up in play start at Base Level.
 
 ### Lockpicking (DEX x2)
 
-Lockpicking is the ability to open a mechanical locking system without the aid of a key or other device made specifically for the lock. It includes the techniques of levering open bolted or barred doors and windows without causing damage. Lockpicking may also be used 'reverse pick a lock'; lock a door, chest, and so on, when no key is available.
+Lockpicking is the ability to open a mechanical locking system without the aid of a key or other device made specifically for the lock. It includes the techniques of levering open bolted or barred doors and windows without causing damage. Lockpicking may also be used 'reverse pick a lock'; i.e. lock a door, chest, and so on, when no key is available.
 
 ### Lore (INT x2)
 
-Lore covers a specific body of knowledge which must be chosen when the skill is first learned. Alchemy, Astrology, Astronomy, Geography, Heraldry, History, Midwifery, Mineral, Monsters, Politics, Religion, Strategy and Tactics: these are all typical examples of Lore skills. Skill in a Lore means the character understands its fundamentals, how it can be applied to immediate challenges and problems and can use the Lore to recall useful information.
+Lore covers a specific body of knowledge which must be chosen when the skill is first learned: e.g. Lore (Alchemy). Alchemy, Astrology, Astronomy, Geography, Heraldry, History, Midwifery, Mineral, Monsters, Politics, Religion, Strategy and Tactics: these are all typical examples of Lore skills. Skill in a Lore means the character understands its fundamentals, how it can be applied to immediate challenges and problems and can use the Lore (Topic) skill to recall useful information.
 
 ### Mechanisms (DEX+INT)
 
@@ -271,7 +275,7 @@ Mechanisms represents the knowledge and skill to assemble and disassemble mechan
 
 ### Musicianship (DEX+CHA)
 
-Musicianship covers the playing of musical instruments; from a simple reed pipe to a complex stringed instrument such as a harp, and each iteration of Musicianship is applied to a group of similar instruments. A musician who can play a reed pipe can also play a flute, panpipes, or a recorder because the fundamentals are the same. They could not, however, play a harp or lute.
+Musicianship covers the playing of musical instruments; from a simple reed pipe to a complex stringed instrument such as a harp, and each iteration of Musicianship is applied to a group of similar instruments. A musician with Music (Flutes) can play a reed pipe but can also play a flute, panpipes, or a recorder because the fundamentals are the same. They could not, however, play a harp or lute.
 
 ### Navigation (INT+POW)
 
@@ -283,7 +287,7 @@ Oratory is the art of delivering a speech to a large group of people with the ai
 
 ### Seamanship (INT+CON)
 
-This skill is used in the same way as Boating (see page XX) but is instead applied to large waterborne vessels powered by sail or banks of oars. It also covers the maintenance and upkeep of a ship: assessing when repairs are needed, where it is safe to anchor, the dangers of violent weather, and so forth.
+This skill is used in the same way as [Boating](0005_Skills.md?id=boating-strcon) but is instead applied to large waterborne vessels powered by sail or banks of oars. It also covers the maintenance and upkeep of a ship: assessing when repairs are needed, where it is safe to anchor, the dangers of violent weather, and so forth.
 
 ### Seduction (INT+CHA)
 
@@ -305,19 +309,20 @@ This skill covers surviving in a rural or wilderness environment where the benef
 
 The Track skill is used for tracking any form of game or quarry. It uses both obvious and ambiguous signs of passing to remain on the quarry's trail, including footprints, bruised leaves, scattered pollen, displaced rocks, and so on; small, tell-tale signs that are invisible to the non-skilled. Track rolls need to be made periodically, especially if conditions change abruptly (a rain shower, for example, will disturb certain signs). How often depends on how cunning the quarry has been. Conceal rolls can be used to oppose a Track roll.
 
+---
 ## Skill Rules for Different Circumstances and Situations
 
-Although the basic rules for using skills in Classic Fantasy Imperative are very straightforward, there are a multitude of different circumstances that arise during play that require skills to be handled in a slightly different way. The following sections look at these circumstances and situations and show how to handle them.
+Although the basic rules for using skills in _Classic Fantasy Imperative_ are very straightforward, there are a multitude of different circumstances that arise during play that require skills to be handled in a slightly different way. The following sections look at these circumstances and situations and show how to handle them.
 
 ### Reattempting Skills
 
-In some situations, a character will Fail a skill attempt but be left. in a situation where they could potentially try again. Example cases might be picking a lock or attempting to climb a sheer wall. Instead of simply denying any further attempts, kindly Games Masters may permit a follow-up, last-ditch attempt. However, the character will suffer some trepidation or lack of confidence which increases the Difficulty Grade of the skill roll by one.
+In some situations, a character will Fail a skill attempt but be left in a situation where they could potentially try again. Example cases might be picking a lock or attempting to climb a sheer wall. Instead of simply denying any further attempts, kindly Games Masters may permit a follow-up, last-ditch attempt. However, the character will suffer some trepidation or lack of confidence which increases the Difficulty Grade of the skill roll by one.
 
 If this second effort also ends in failure, the character is assumed to have given it his 'best shot' and cannot make any further attempts for the foreseeable future.
 
 ### Opposed Rolls
 
-Skills are frequently against other skills – Stealth versus Perception when a rogue attempts to cut a nobleman's purse, say; or Deceit versus Insight when the same rogue tries to deny the attempt when she is caught – are good examples of times where skills are matched against each other. These are known as Opposed Rolls and are used where a challenge will result in either win or lose, pass or fail.
+Skills are frequently used against other skills – Stealth versus Perception when a rogue attempts to cut a nobleman's purse, say; or Deceit versus Insight when the same rogue tries to deny the attempt when she is caught. These are good examples of times where skills are matched against each other. These are known as Opposed Rolls and are used where a challenge will result in either win or lose, pass or fail.
 
 - An Opposed Roll is determined thus: both participants roll their respective skills. The winner is the one who gains the better Level of Success. If the participants score the same Level of Success (a Standard Success each, or a Critical each), then the winner is the one who has the highest dice roll still within the success range of the skill.
 
@@ -328,21 +333,21 @@ If both participants Fail in an Opposed Roll, then either:
 
 Opposed Rolls are frequently used in certain battle situations to overcome the effects of wounds or oppose a combat Special Effect. They are also used to resist poisons and disease or shrug off the effects of baleful magic.
 
-##### Opposed Roll Examples Table
+#### Opposed Roll Examples Table
 
-| _**Activity**_ | **Opposed Skill Examples** |
-| --- | --- |
-| _Bargaining/Haggling_ | Commerce vs. Commerce, Influence vs. Commerce |
-| _Chasing/Racing_ | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
-| _Deceiving or Lying_ | Deceit vs. Insight, Sleight vs. Perception |
-| _Displaying Loyalty_ | Passion vs. Passion, Passion vs. Insight, Passion vs. Influence |
-| _Getting out of the Way_ | Evade vs. Athletics, Evade vs. Mechanisms, Evade vs. Ride |
-| _Hiding or Sneaking_ | Stealth vs. Perception; Stealth vs. Track |
-| _Pulling Rank_ | Influence vs. Willpower, Deceit vs. Willpower |
-| _Staying the Course_ | Endurance vs. Endurance, Endurance vs. Brawn |
-| _Swaying a Crowd_ | Oratory vs. Willpower |
-| _Test of Strength_ | Brawn vs. Brawn, Brawn vs. Endurance |
-| _Test of Wills_ | Willpower vs. Willpower, Seduction vs. Willpower |
+| **Activity** | **Opposed Skill Examples** |
+| :-- | :-- |
+| Bargaining/Haggling | Commerce vs. Commerce, Influence vs. Commerce |
+| Chasing/Racing | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
+| Deceiving or Lying | Deceit vs. Insight, Sleight vs. Perception |
+| Displaying Loyalty | Passion vs. Passion, Passion vs. Insight, Passion vs. Influence |
+| Getting out of the Way | Evade vs. Athletics, Evade vs. Mechanisms, Evade vs. Ride |
+| Hiding or Sneaking | Stealth vs. Perception; Stealth vs. Track |
+| Pulling Rank | Influence vs. Willpower, Deceit vs. Willpower |
+| Staying the Course | Endurance vs. Endurance, Endurance vs. Brawn |
+| Swaying a Crowd | Oratory vs. Willpower |
+| Test of Strength | Brawn vs. Brawn, Brawn vs. Endurance |
+| Test of Wills | Willpower vs. Willpower, Seduction vs. Willpower |
 
 ### Differential Rolls
 
@@ -350,14 +355,14 @@ Differential Rolls are like Opposed Rolls except that instead of a simple win or
 
 A Differential Roll is determined in the following manner: Both participants roll against their respective skills and suffer the results of their roll as if tested in isolation. There is not an outright 'winner' per se, but whoever gained the higher Level of Success gains an advantage equal to the difference in the success levels between them (assuming one participant gains at least a Standard success or better). If both participants score the same Level of Success (a Standard success each, or a Critical each), then there is no additional effect.
 
-##### Differential Roll Results Table
+#### Differential Roll Results Table
 
-| _**Result of Rolls**_ | **Antagonist Critical** | **Antagonist Success** | **Antagonist Failure** | **Antagonist Fumble** |
-| --- | --- | --- | --- | --- |
-| _Protagonist Critical_ | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success | Protagonist Wins 3 Levels of Success |
-| _Protagonist Success_ | Antagonist Wins 1 Level of Success | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success |
-| _Protagonist Failure_ | Antagonist Wins 2 Levels of Success | Antagonist Wins 1 Level of Success | No Benefit | No Benefit |
-| _Protagonist Fumble_ | Antagonist Wins 3 Levels of Success | Antagonist Wins 2 Levels of Success | No Benefit | No Benefit |
+| **Result of Rolls** | **Antagonist Critical** | **Antagonist Success** | **Antagonist Failure** | **Antagonist Fumble** |
+| :-- | :-- | :-- | :-- | :-- |
+| Protagonist Critical | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success | Protagonist Wins 3 Levels of Success |
+| Protagonist Success | Antagonist Wins 1 Level of Success | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success |
+| Protagonist Failure | Antagonist Wins 2 Levels of Success | Antagonist Wins 1 Level of Success | No Benefit | No Benefit |
+| Protagonist Fumble | Antagonist Wins 3 Levels of Success | Antagonist Wins 2 Levels of Success | No Benefit | No Benefit |
 
 ### Opposed Skills Over 100%
 
