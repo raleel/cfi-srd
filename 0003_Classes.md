@@ -60,7 +60,6 @@ In addition to racial/cultural Alignment and Passions, all clerics swear an Oath
 ### Class Skills
 
 - **Standard Skills:** Combat Skill (Cleric), First Aid, Influence, Insight, Locale, Sing, Willpower
-
 - **Professional Skills:** A cleric automatically receives Channel and Devotion (specific pantheon or deity), plus 3 additional skills from the following: Bureaucracy, Courtesy, Culture (any), Healing, Lore (Alchemy), Lore (Religion), Language (any) or Lore (any), and Oratory.
 
 ### Cleric Armor and Weapon Proficiency
@@ -226,7 +225,6 @@ See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
 ### Class Skills
 
 - **Standard Skills:** Athletics, Boating or Ride, Brawn, Combat Skill (Fighter)\*, Endurance, Evade, Unarmed\*
-
 - **Professional Skills:** Craft. (any), Engineering, Gambling, Intimidation, Lore (Military History), Lore (Strategy and Tactics), Oratory, Survival or Navigate
 
 \* Receives a +5 bonus from Combat Proficiency
@@ -384,7 +382,6 @@ See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
 ### Class Skills
 
 - **Standard Skills:** Evade, First Aid, Influence, Insight, Locale, Perception, Willpower
-
 - **Professional Skills:** A mage automatically receives Arcane Casting and Arcane Knowledge, plus 3 additional skills from the following: Culture (any), Language (any), Lore (Alchemy), Lore (any)
 
 ### Mage Armor and Weapon Proficiency
@@ -536,7 +533,6 @@ A rogue may choose to join a thieves' guild after character creation if the Game
 Because of their diverse nature, rogues possess more skill choices than the standard allotment. However, they do not receive any extra Skill Points.
 
 - **Standard Skills:** Athletics, Combat Skill (Rogue), Deceit, Evade, Insight, Perception, Stealth
-
 - **Professional Skills:** A rogue automatically receives Lockpicking and Mechanisms, plus two additional skills from the following: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise. At character creation, members of the Thieves' Guild also receive Language (Thieves' Cant) at +40. If they take it later, they do not receive the +40 bonus.
 
 ### Rogue Armor and Weapon Proficiency

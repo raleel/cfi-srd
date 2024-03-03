@@ -21,9 +21,7 @@ Tribal in nature, barbarians tend to shun civilization, viewing those who live i
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40
-
 - **Standard Skills:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride
-
 - **Professional Skills:** Craft. (any), Healing, Language (Any\*), Lore (any), Musicianship, Navigate, Seamanship, Survival, Track
 
 \* Humans are not limited in selection of languages during character creation if they can justify the choice.
@@ -31,9 +29,7 @@ Tribal in nature, barbarians tend to shun civilization, viewing those who live i
 #### Alignment and Passions
 
 - **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-
 - **Other Passion:** Any, but typically one or two from the following:
-
   - Loyalty to Clan Chieftain
   - Love (friend, sibling, or romantic lover)
   - Hate (magic, creature, rival, or clan)
@@ -41,13 +37,9 @@ Tribal in nature, barbarians tend to shun civilization, viewing those who live i
 #### Special Rules
 
 - **Movement:** 20 feet.
-
 - **Survival Bonus (Specific):** Barbarians find all Survival rolls pertaining to their area of origin one grade easier.
-
 - **Exposure Tolerance:** Barbarians suffer reduced effects from exposure to temperature extremes related to their area of origin. For example, if originating from cold climates, even lightly outfitted barbarians would be permitted a grace period equal to their CON in hours before exposure sets in. Wearing suitable clothing would extend this to double their CON in hours. After this point they need to seek shelter or start to suffer Fatigue loss. See the Weather Tables on page XX for additional information.
-
 - **Illiterate:** Barbarians are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired language. This gives them basic literacy equal to half skill level in one language the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new languages in play, it can be assumed they are learning them at full literacy level.
-
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
@@ -58,9 +50,7 @@ The Civilized culture is epitomized by a semblance of law and order, underpinned
 ####  Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40
-
 - **Standard Skills:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower
-
 - **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
 \* Humans are not limited in selection of languages during character creation if they can justify the choice.
@@ -68,9 +58,7 @@ The Civilized culture is epitomized by a semblance of law and order, underpinned
 ####  Alignment and Passions
 
 - **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-
 - **Passion:** Any, but typically one or two from the following:
-
   - Loyalty to Town/City
   - Love (friend, sibling, or romantic lover)
   - Hate (rival, gang, district, or city)
@@ -78,9 +66,7 @@ The Civilized culture is epitomized by a semblance of law and order, underpinned
 ####  Special Rules
 
 - **Movement:** 20 feet.
-
 - **Literate:** Those from Civilized regions are typically able to read and write any language they can speak.
-
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
@@ -91,9 +77,7 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 ####  Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40.
-
 - **Standard Skills:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel.
-
 - **Professional Skills:** Craft. (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
 
 \* Humans are not limited in selection of languages during character creation if they can justify the choice.
@@ -101,9 +85,7 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 ####  Alignment and Passions
 
 - **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-
 - **Passion:** Any, but typically one or two from the following:
-
   - Loyalty to Tribal Chieftain/Khan
   - Love (friend, sibling, or romantic lover)
   - Hate (creature, rival, or tribe)
@@ -111,11 +93,8 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 ####  Special Rules
 
 - **Movement:** 20 feet.
-
 - **Survival Bonus (Specific):** Nomads find all Survival rolls pertaining to their area of origin one grade easier.
-
 - **Literate:** Because they interact with many other races and cultures, those from Nomadic cultures are typically able to read and write any language they can speak.
-
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
@@ -128,9 +107,7 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 ####  Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40.
-
 - **Standard Skills:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
-
 - **Professional Skills:** Craft. (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
 
 \* Humans are not limited in selection of languages during character creation if they can justify the choice.
@@ -138,9 +115,7 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 ####  Alignment and Passions
 
 - **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-
 - **Passion:** Any, but typically one or two from the following:
-
   - Loyalty to Chief/Headman
   - Love (friend, sibling, or romantic lover)
   - Hate (something that scares or intimidates you)
@@ -148,11 +123,8 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 ####  Special Rules
 
 - **Movement:** 20 feet.
-
 - **Survival Bonus (Specific):** Primitive cultures find all Survival rolls pertaining to their area of origin one grade easier.
-
 - **Illiterate:** Primitives are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired language. This gives them basic literacy equal to half skill level in one language the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new languages in play, it can be assumed they are learning them at full literacy level.
-
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
@@ -180,9 +152,7 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Dwarf) +40
-
 - **Standard Skills:** Athletics, Brawn, Endurance, Evade, Locale, Perception, Willpower
-
 - **Professional Skills:** Commerce, Craft. (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 \* During character creation, additional languages are limited to gnome, goblin, kobold, and orc.
@@ -190,13 +160,9 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 #### Alignment and Passions
 
 - **Alignment:** Any, but typically Lawful Good, choose one or two from each, or select a different Alignment.
-
   - **Lawful** (Closed-Minded, Hates Chaos, Honest, Honorable, Judgmental, No sense of humor, Obedience to legitimate authority, Organized, Predictable, Reliable, Trustworthy)
-
   - **Good** (Admirable, Compunctions against harming innocents, Decent, Ethical, Friendly, Hates Evil, Helpful, Kind, Optimistic, Positive)
-
 - **Passion:** Any, but typically one or two from the following:
-
   - Loyalty to Clan
   - Love (Something Materialistic)
   - Hill Dwarves: Hate (Orcs, half-orcs, goblins, and hobgoblins)
@@ -205,15 +171,10 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 #### Special Rules
 
 - **Movement:** 15 feet.
-
 - **Darkvision:** Dwarven Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Perception rolls to spot something) and in darkness as if it were dim light (Perception rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
-
 - **Literate:** Dwarves are typically able to read and write any language they can speak.
-
 - **Magic Resistance:** Magic Resistance: Dwarves are highly resistant to Arcane Magic; their Willpower Checks are one grade easier when used to resist. This resistance has no effect on Divine magic.
-
 - **Poison Resistance:** Dwarves are also highly resistant to poison, with Endurance rolls that relate to poisoning being one grade easier.
-
 - **Tunnel Sense:** Due to their subterranean nature, dwarves can detect certain underground phenomena by succeeding at an Easy Perception skill roll. Tunnel Sense may be used to detect stonework pits, deadfalls, and traps; a slope or grade; approximate depth underground; new tunnel or passage construction; and shifting or sliding walls or rooms. The range of this detection is limited to 10 feet.
 
 ---
@@ -230,9 +191,7 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
-
 - **Standard Skills:** Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-
 - **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
 \* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll.
@@ -240,13 +199,9 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 #### Alignment and Passions
 
 - **Alignment:** Any, but typically Chaotic Good, choose one or two from each, or select a different Alignment.
-
   - **Chaotic** (Curious, Freedom, Suspicious)
-
   - **Good** (Admirable, Altruistic, Angelic, Charitable, Compunctions against harming innocents, Decent, Ethical, Forgiving, Friendly, Hates Evil, Helpful, Kind, Loves nature, Merciful, Optimistic, Positive, Vegetarian)
-
 - **Passion:** Any, but typically one or two from the following:
-
   - Loyalty to King/Queen
   - Love (Something emotional)
   - Hate (any enemy of grace and beauty)
@@ -254,15 +209,10 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 #### Special Rules
 
 - **Movement:** 20 feet.
-
 - **Elven Chain:** Elves are adept at casting Arcane Magic spells while wearing elven chain and may cast such spells at one level of difficulty.
-
 - **Literate:** Elves are typically able to read and write any language they can speak.
-
 - **Resistance to Sleep and Charm:** Elves find Willpower rolls to resist _Sleep_ and _Charm_ spells 2 grades easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
-
 - **Sharp Vision:** Due to their acute visual acuity, elves find all Perception rolls to spot something one grade easier.
-
 - **Stealthy:** Elves wearing nothing more restrictive than light armor find Stealth tests 1 grade easier.
 
 ---
@@ -277,9 +227,7 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Gnome) +40
-
 - **Standard Skills:** Deceit, Evade, Insight, Locale, Perception, Stealth, Willpower
-
 - **Professional Skills:** Commerce, Craft. (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 \* During character creation, additional languages are limited to dwarf, halfling, goblin, and kobold.
@@ -287,13 +235,9 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
 #### Alignment and Passions
 
 - **Alignment:** Any, but typically Neutral Good, choose one or two from each, or select a different Alignment.
-
   - **Neutral** (Does not strongly feel one way or the other when it comes to Law and Chaos, Flexible, Freedom of action, Has no established Ethical Code, Respectful of nature\*)
-
   - **Good** (Admirable, Altruistic, Angelic, Charitable, Compunctions against harming innocents, Decent, Ethical, Forgiving, Friendly, Hates Evil, Helpful, Kind, Loves nature\*, Merciful, Optimistic, Positive, Vegetarian)
-
 - **Passion:** Any, but typically one or two from the following:
-
   - Loyalty to Clan
   - Love (Something Materialistic)
   - Hate (Typically, kobolds and goblins)
@@ -303,15 +247,10 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
 #### Special Rules
 
 - **Movement:** 15 feet.
-
 - **Literate:** Gnomes are typically able to read and write any language they can speak.
-
 - **Darkvision:** Gnomish Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Perception rolls to spot something) and in darkness as if it were dim light (Perception rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
-
 - **Magic Resistance:** Like dwarves, gnomes are highly resistant to Arcane Magic; Willpower Checks are one grade easier when used to resist, two grades easier with regards to illusions. This resistance has no effect on Divine magic. Many gnomes that become magic-users specialize in the School of Illusion.
-
 - **Poison Resistance:** Gnomes are also highly resistant to poison, with Endurance rolls that relate to poisoning being 1 grade easier.
-
 - **Tunnel Sense:** Due to their subterranean nature, gnomes can detect certain underground phenomena by succeeding at an Easy Perception skill roll. Tunnel Sense may be used to detect stonework pits, deadfalls, and traps; a slope or grade; approximate depth underground; new tunnel or passage construction; and shifting or sliding walls or rooms. The range of this detection is limited to 10 feet.
 
 ---
@@ -326,9 +265,7 @@ Half-elves have no communities of their own but can be found living wherever hum
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
-
 - **Standard Skills:** Choose from a human culture or from the following elf skill list: Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-
 - **Professional Skills:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
 \* During character creation, if raised by elves, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of language.
@@ -338,31 +275,21 @@ Half-elves have no communities of their own but can be found living wherever hum
 Choose from a human culture or from the following elf Passions:
 
 - **Alignment:** Any, but typically Chaotic Good if raised by elves, choose one or two from each, or select a different Alignment. Or as per human parent.
-
   - **Chaotic** (Curious, Freedom, Suspicious)
-
   - **Good** (Admirable, Altruistic, Angelic, Charitable, Compunctions against harming innocents, Decent, Ethical, Forgiving, Friendly, Hates Evil, Helpful, Kind, Loves nature, Merciful, Optimistic, Positive, Vegetarian)
-
 - **Passion (Raised as Elf):** Any, but typically one or two from the following:
-
   - Loyalty to King/Queen
   - Love (Something emotional)
   - Hate (any enemy of grace and beauty)
-
 - **Passion (Raised as Human):** Choose from an appropriate human list.
 
 #### Special Rules
 
 - **Movement** : 20 feet.
-
 - **Elven Chain** : Elves are adept at casting Arcane Magic spells while wearing elven chain and may cast such spells at one level of difficulty.
-
 - **Literate** : Half-elves are typically able to read and write any language they can speak.
-
 - **Resistance to Sleep and Charm** : Half-elves find Willpower rolls to resist _Sleep_ and _Charm_ spells one grade easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
-
 - **Sharp Vision** : Due to their acute visual acuity, half-elves find all Perception rolls to spot something one grade easier.
-
 - **Stealthy** : Half-elves wearing nothing more restrictive than light armor find Stealth tests 1 grade easier.
 
 ---
@@ -377,9 +304,7 @@ Like half-elves, half-orcs have no native lands, most often living among orcish 
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Orc) +40.
-
 - **Standard Skills:** Choose from a human culture or from the following orc skilption; and either Boating, Evade, or Ride.
-
 - **Professional l list: Athletics, Brawn, Endurance, First Aid, Locale, PerceSkills:** Choose from a human culture or from the following orc skill list: Craft. (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
 
 \* During character creation, if raised by orcs, additional languages are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of languages if you can justify the choice.
@@ -389,27 +314,19 @@ Like half-elves, half-orcs have no native lands, most often living among orcish 
 Choose from a human culture or from the following orc Passions if raised in orcish society:
 
 - **Alignment:** Any, but typically Lawful Evil if raised by orcs, choose one or two from each or select a different Alignment. Or as per human parent.
-
   - **Lawful** (Adherence to tradition, Calculating, Closed-Minded, Lack of adaptability)
-
   - **Evil** (Abusive, Cruel, Domineering, Enjoys Harming Innocents, Hates Good, Merciless, Sadistic, Slaver, Spiteful)
-
 - **Passion (Raised as Orc):** Any, but typically one or two from the following:
-
   - Loyalty to Clan Chieftain
   - Love (friend, sibling, or romantic lover)
   - Hate (magic, creature, rival, or clan)
-
 - **Passion (Raised as Human):** Choose from an appropriate human list.
 
 #### Special Rules
 
 - **Movement:** 20 feet.
-
 - **Darkvision:** Half-orc Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Perception rolls to spot something) and in darkness as if it were dim light (Perception rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
-
 - **Illiterate:** If raised by orcs, half-orcs are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired language. This gives them basic literacy equal to half skill level in one language the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new languages in play, it can be assumed they are learning them at full literacy level. Half-orcs raised by another culture will be literate if that culture is also literate.
-
 - **Survival Bonus (Specific):** If raised by orcs, half-orcs find all Survival rolls pertaining to their area of origin one grade easier.
 
 ---
@@ -432,9 +349,7 @@ Halfling culture is akin to Civilized. They live in small communities called shi
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Halfling) +40
-
 - **Standard Skills:** Dance or Sing, Evade, Insight, Locale, Perception, Stealth, Willpower
-
 - **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
 \* During character creation, additional languages are limited to dwarf, elf, gnome, goblin, and orc.
@@ -442,13 +357,9 @@ Halfling culture is akin to Civilized. They live in small communities called shi
 #### Alignment and Passions
 
 - **Alignment:** Any, but typically Lawful Good, choose one or two from each, or select a different Alignment.
-
   - **Lawful** (Honest, Honorable, Reliable, Trusting, Trustworthy, Well-mannered)
-
   - **Good** (Admirable, Altruistic, Charitable, Compunctions against harming innocents, Decent, Ethical, Forgiving, Friendly, Hates Evil, Helpful, Kind, Loves nature, Merciful, Optimistic, Positive, Vegetarian)
-
 - **Passion:** Any, but typically one or two from the following:
-
   - Loyalty to (Shire, Riding, or Borough)
   - Love (Something emotional)
   - Hate (Heavy Industry)
@@ -456,13 +367,8 @@ Halfling culture is akin to Civilized. They live in small communities called shi
 #### Special Rules
 
 - **Movement:** 15 feet.
-
 - **Literate:** Halflings are typically able to read and write any language they can speak.
-
 - **Magic Resistance:** Like dwarves, halflings are highly resistant to Arcane Magic with Willpower Checks being one grade easier when used to resist. This resistance has no effect on Divine magic.
-
 - **Poison Resistance:** Halflings are also highly resistant to poison, with Endurance rolls that relate to poisoning being one grade easier.
-
 - **Stealthy:** Halflings wearing nothing more restrictive than light armor find Stealth tests 1 grade easier.
-
 - **Exposure Tolerance (Feet):** Halflings suffer no adverse effects from exposure when going around barefoot regardless of temperature. They do suffer from exposure normally as far as the rest of their body is concerned.

@@ -22,7 +22,7 @@ Armor: Chest, abdomen, and limbs 3 (studded leather), head 8 (steel helm)
 
 Hit Points: 1-3 Right Leg: 3/5, 4-6 Left Leg: 3/5, 7-9 Abdomen: 3/6, 10-12 Chest: 3/7, 13-15 Right Arm; 3/4, 16-18 Left Arm: 3/4, 19-20 Head: 8/5
 
-### Giant Rat (Rank 1/2)
+### Giant Rat (Rank ½)
 
 STR 7, CON 11, SIZ 4, DEX 13, INS 13, POW 7; Initiative: +13; Action Points: 3; Movement: 20'
 
@@ -36,7 +36,7 @@ Armor: none
 
 Hit Points: 1-2 Tail: 0/3, 3-4 Right Hind Leg: 0/3, 5-6 Left Hind Leg: 0/3, 7-9 Hindquarters: 0/4, 10-13 Forequarters: 0/5, 14-15 Right Foreleg: 0/3, 16-17 Left Foreleg: 0/3, 18-20 Head: 0/3
 
-### Goblin (Rank 1/2)
+### Goblin (Rank ½)
 
 STR 8, CON 11, SIZ 8, DEX 14, INT 12, POW 11, CHA 7; Initiative: +11 (13); Action Points: 3; Movement: 15'
 
@@ -64,7 +64,7 @@ Armor: Chest and abdomen 3 (furs and tough skin), head and limbs 2 (tough skin)
 
 Hit Points: 1-3 Right Leg: 2/12, 4-6 Left Leg: 2/12, 7-9 Abdomen: 3/13, 10-12 Chest: 3/14, 13-15 Right Arm: 2/11, 16-18 Left Arm: 2/11, 19-20 Head: 2/12
 
-### Kobold (Rank 1/4)
+### Kobold (Rank ¼)
 
 STR 6, CON 11, SIZ 5, DEX 13, INT 13, POW 11, CHA 4; Initiative: +13 (14); Action Points: 3; Movement: 15'
 
@@ -128,7 +128,7 @@ Armor: 8 (thick scales)
 
 Hit Points: 1-2 Tail: 8/17, 3-4 Right Hind Leg: 8/17, 5-6 Left Hind Leg: 8/17, 7-8 Hindquarters: 8/18, 9-10 Right Wing: 8/16, 11-12 Left Wing: 8/16, 13-14 Forequarters: 8/19, 15-16 Right Front Leg: 8/17, 17-18 Left Front Leg: 8/17, 19-20 Head: 8/17
 
-### Skeleton (Rank 1/2)
+### Skeleton (Rank ½)
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11834/)
 
@@ -160,7 +160,7 @@ Armor: 3 (thick, rubbery skin)
 
 Hit Points: 1-3 Right Leg: 3/11, 4-6 Left Leg: 3/11, 7-9 Abdomen: 3/12, 10-12 Chest: 3/13, 13-15 Right Arm: 3/10, 16-18 Left Arm: 3/10, 19-20 Head: 3/11
 
-### Zombie (Rank 1/2)
+### Zombie (Rank ½)
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11835/)
 
