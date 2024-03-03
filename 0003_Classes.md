@@ -152,14 +152,14 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 - Quiver with 20 crossbow bolts
 - Full set of scale armor, 4 Armor Points (0 Things when worn, 7 Things if carried)
 - Wooden holy symbol of deity (½ a Thing)
-- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\**, 2 six-hour torches (5½ Things contained)
+- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\*\*, 2 six-hour torches (5½ Things contained)
 - Belt pouch with 1d4 gold pieces
 
 Total ENC 7½ Things
 
 \* Contents count toward the backpack's contents as its volume is increased.
 
-\** Counts as ½ a Thing.
+\*\* Counts as ½ a Thing.
 
 ### Turning Undead
 
@@ -237,7 +237,7 @@ Fighters are proficient with all types of armor (light and heavy), and with all 
 
 ### Rank Structure
 
-All fighters are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, fighters may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached, an additional Luck Point is gained, and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Fighter with the appropriate Ranked Abilities noted below; otherwise, you start as a Rank 0 Warrior with no current Abilities.
+All fighters are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, fighters may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached, an additional Luck Point is gained, and new Abilities may be acquired. This information is found on the [Fighter Rank Table](0003_Classes.md?id=fighter-rank-table) under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Fighter with the appropriate Ranked Abilities noted below; otherwise, you start as a Rank 0 Warrior with no current Abilities.
 
 #### Fighter Rank Table
 
@@ -289,7 +289,7 @@ For each expenditure of 1 Experience Roll, you may gain one of the following Abi
 
 Upon reaching Rank 2, you automatically progress to Weapon Master if you meet the prerequisites.
 
-- **Weapon Master** (specific melee or Ranged Weapon): Requires Weapon Specialization in the chosen weapon and a Combat Skill of 70% or higher. While you may specialize in any number of weapons, you may master only one. Therefore, you may not take this Ability if you have already taken weapon mastery in any other weapon.Weapon masters double the Critical chance of their mastered weapon. In addition, the chosen melee weapon gains a 1-step improvement to Damage Modifier while a Ranged Weapon gains the same bonus against targets within Close Range.
+- **Weapon Master** (specific melee or Ranged Weapon): Requires Weapon Specialization in the chosen weapon and a Combat Skill of 70% or higher. While you may specialize in any number of weapons, you may master only one. Therefore, you may not take this Ability if you have already taken weapon mastery in any other weapon. Weapon masters double the Critical chance of their mastered weapon. In addition, the chosen melee weapon gains a 1-step improvement to Damage Modifier while a Ranged Weapon gains the same bonus against targets within Close Range.
 
 In addition, for each expenditure of 2 Experience Rolls, you may gain one of the following Abilities (each may only be taken once):
 
@@ -352,7 +352,7 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 - Short bow
 - Quiver with 20 arrows
 - Full set of chain armor, 5 Armor Points (0 Things when worn, 14 Things if carried)
-- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\**, 2 six-hour torches (5½ Things contained)
+- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\*\*, 2 six-hour torches (5½ Things contained)
 - Belt pouch with 2d4 gold pieces
 
 Total ENC: 7 Things
@@ -360,7 +360,7 @@ Total ENC: 7 Things
 
 \* Contents count toward the backpack's contents as its volume is increased
 
-\** Counts as ½ a Thing.
+\*\* Counts as ½ a Thing.
 
 ---
 ##  Magic-User (Mage)
@@ -393,7 +393,7 @@ Mages are not proficient with any type of armor or shields, as Arcane spells req
 
 ### Rank Structure
 
-All mages are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, mages may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an additional Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Journeyman with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Apprentice with the Ability to cast Rank 0 spells, and no other Abilities.
+All mages are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, mages may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an additional Luck Point is gained and new Abilities may be acquired. This information is found below on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Journeyman with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Apprentice with the Ability to cast Rank 0 spells, and no other Abilities.
 
 #### Mage Rank Table
 
@@ -410,7 +410,7 @@ All mages are rated by Rank, which is a rating of power and skill. When a specif
 
 The mage knows the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
-- **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and movements (the spell's somatic component) during casting, which are hindered by the wearing of armor. See the [Casting in Armor](0009_Magic.md?id=casting-in-armor) section for specific information. The number of spells of their current Rank a mage may have in memory is found on the Rank Structure Table above under Spells in Memory.
+- **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and movements (the spell's somatic component) during casting, which are hindered by the wearing of armor. See the [Casting in Armor](0009_Magic.md?id=casting-in-armor) section for specific information. The number of spells of their current Rank a mage may have in memory is found on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table), above, under Spells in Memory.
 - **Starting Spells:** Cantrips are the first magical abilities taught to an apprentice mage and are fully defined in the [Spells](0010_Spells.md) chapter. A mage begins with knowledge of the Rank 0 cantrip Read Magic, as well as two cantrips (Rank 0) for every 1/10th Arcane Knowledge (skill x 0.1). If the mage qualifies as Rank 1, they also know one Rank 1 spell for every 1/10th Arcane Knowledge. The number of spells the mage may have prepared at each Rank is found above on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Spells in Memory. See the [Mage Spell List](0003_Classes.md?id=mage-spell-list) below and the section on [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
 
 ### Ranked Abilities
@@ -465,14 +465,14 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 - Common, undecorated clothing, 0 Armor Points (0 Things when worn, 1 Thing if carried)
 - Spell book
 - Spell component pouch
-- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\**, 10 two-hour candles\**, 10 pages of parchment\** , quill and bottle of ink\** (6 things contained)
+- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\*\*, 10 two-hour candles\*\*, 10 pages of parchment\*\* , quill and bottle of ink\*\* (6 things contained)
 - Belt pouch with 3d6 gold pieces
 
-Total ENC: 7½ Things
+Total ENC: 7 Things
 
 \* Contents count toward the backpack's contents as its volume is increased.
 
-\** Counts as ½ a Thing.
+\*\* Counts as ½ a Thing.
 
 
 ### Mage Spell List
@@ -545,7 +545,7 @@ Rogues are proficient with all types of armor (light and heavy), and with all sh
 
 ### Rank Structure
 
-All rogues are rated by Rank, which is a rating of power and skill. You may choose either the rogue or thief titles, depending on whichever is more relevant to your relationship with the thieves' guild. When a specific degree of mastery is gained in a limited number of Class skills, rogues may increase their Rank, as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Scoundrel or Burglar with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Scamp or Cutpurse but no other Abilities.
+All rogues are rated by Rank, which is a rating of power and skill. You may choose either the rogue or thief titles, depending on whichever is more relevant to your relationship with the thieves' guild. When a specific degree of mastery is gained in a limited number of Class skills, rogues may increase their Rank, as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Scoundrel or Burglar with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Scamp or Cutpurse with no other Abilities.
 
 #### Rogue Rank Table
 
@@ -599,7 +599,7 @@ The rogue's Sneak Attack Ability now does +1d2 damage with melee weapons, no add
 
 The rogue's Sneak Attack Ability now does +1d4 damage with melee weapons, +1d2 additional damage with ranged. In addition, they may take the following Abilities at a cost of 3 EXP rolls each (each may only be taken only once):
 
-- **Characteristic Increase II:**  You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
+- **Characteristic Increase:**  You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
 - **Defensive Reflexes II:**  Requires Defensive Reflexes. As per Defensive Reflexes, however you may now use this Ability twice in the same combat. You may not re-roll against the same attack more than once however, nor combine with a Luck Point.
 - **Use Arcane Scrolls:**  Requires Oath at 90% or higher and one month of training at the thieves' guild. Only Members of a thieves' guild may take this Ability. This Ability allows the rogue to cast spells from any magic-user scroll without the need to have previously cast Read Magic on it. This chance is equal to your INT x5%. Failing this roll automatically results in a Fumble because of your lack of training and understanding of the magical arts. A Fumble reverses the effects of the spell or sets them off on the reader, whichever is most detrimental as determined by the whim of the Games Master.
 
@@ -607,14 +607,14 @@ The rogue's Sneak Attack Ability now does +1d4 damage with melee weapons, +1d2 a
 
 The rogue's Sneak Attack Ability now does +1d6 damage with melee weapons, +1d4 damage with ranged. In addition, they may take the following Abilities at a cost of 4 EXP rolls each (each may only be taken only once):
 
-- **Characteristic Increase III:**  You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
+- **Characteristic Increase:**  You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
 - **Defensive Reflexes III:**  Requires Defensive Reflexes II. As per Defensive Reflexes, however you may now use this Ability three times in the same combat. You may not re-roll against the same attack more than once however, nor combine with a Luck Point.
 
 #### Rank 5:
 
 The rogue's Sneak Attack Ability now does +1d8 damage with melee weapons, +1d6 damage with ranged. In addition, they may take the following Abilities at a cost of 5 EXP rolls each (each may only be taken only once):
 
-- **Characteristic Increase IV:**  You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
+- **Characteristic Increase:**  You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
 - **Defensive Reflexes IV:**  Requires Defensive Reflexes III. As per Defensive Reflexes, however you may now use this Ability four times in the same combat. You may not re-roll against the same attack more than once however, nor combine with a Luck Point.
 
 ### Rogue's Basic Starting Equipment
@@ -625,11 +625,11 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 - Either 3 daggers or a sling and 10 lead sling bullets (1½ Things)
 - Full set of leather armor (0 Things when worn, 7 Things if carried)
 - Lock picks and thieves' tools
-- Backpack (10 Thing capacity), waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\**, lantern, 2 flasks of oil (6½ Things contained)
+- Backpack (10 Thing capacity), waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\*\*, lantern, 2 flasks of oil (6½ Things contained)
 - Belt pouch with 4d4 gold pieces
 
-Total ENC 5½ Things
+Total ENC 5 Things
 
 \* Contents count toward the backpack's contents as its volume is increased.
 
-\** Counts as ½ a Thing.
+\*\* Counts as ½ a Thing.
