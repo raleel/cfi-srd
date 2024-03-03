@@ -1263,8 +1263,8 @@ In addition, non-planar creatures of Evil Alignment suffer additional effects de
 | --- | --- | --- | --- | --- |
 | 0-1\* | 1-20 | Kills | - | - |
 | 2 | 21-40 | Paralyzes 1d4 x10 Minutes | - | - |
-| 3 | 41-60 | Slows 2d4 Rounds \*\*\* | Hard | 1/2 |
-| 4-5 | 61+ | Deafens 1d4 Rounds | Formidable | 1/4 |
+| 3 | 41-60 | Slows 2d4 Rounds \*\*\* | Hard | ½ |
+| 4-5 | 61+ | Deafens 1d4 Rounds | Formidable | ¼ |
 
 \* This category includes characters that do not possess a Class.
 
@@ -1504,7 +1504,7 @@ When this spell is cast, a globe of light materializes at a spot of the caster's
 | --- | --- | --- |
 | 1 | 1 | 20 ft. radius; 1 hour (30 min. reversed) |
 | 2 | 2 | 40 ft. radius; 2 hours (1 hour reversed) |
-| 3 | 3 | 60 ft. radius; 3 hours (1-1/2 hours reversed) |
+| 3 | 3 | 60 ft. radius; 3 hours (1½  hours reversed) |
 | 4 | 4 | 80 ft. radius; 4 hours (2 hours reversed) |
 | Continue progression |
 
