@@ -223,13 +223,7 @@ These rules work best where 1 inch is equal to either 5 feet or 10 feet.
 
 A character's facing is one of the most important considerations on the battlefield. Leaving one side or your back open to attack is the fastest way to meet an untimely death. What follows are two facing diagrams. At the end of movement, a figure must be facing one of the sides of the square occupied, or optionally, into a diagonal, as seen below.
 
-![](RackMultipart20240127-1-nuhbxe_html_ef37892583b066e4.jpg)
-
-#### Root image version
-![](CFI_Miniature_Facing.png)
-
-#### Media image version
-![](_media/CFI_Miniature_Facing.png)
+![](_media/CFI_8_Combat_Mini_Facing_Has.png)
 
 **Attacking** may be performed into any of the character's front or side squares.
 
