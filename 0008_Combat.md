@@ -2,30 +2,14 @@
 
 Combat is an important feature of roleplaying games. Violent confrontation has ever been a way of settling problems, from vengeance-driven fights between nemeses, to the clash of armies in times of war. Nevertheless, combat need not be a savage battle to the death. Some combat encounters can be swashbuckling duels which end without injury, or perhaps light-hearted bar room brawls. _Classic Fantasy Imperative_ uses several terms to explain the core elements of combat. These are explained in the following sections, but in overview, these are:
 
-### Combat Skill
+- **Combat Skill:** The skill of wielding a group of weapons learned as part of a culture or profession.
+- **Combat Rounds:** Bookkeeping time segments of five seconds each.
+- **Combat Actions:** Possible acts a character can perform during a Round by the expenditure of an Action Point.
+- **Weapon Size:** How difficult it is to Parry a particular weapon.
+- **Engagement:** When combatants can hit or be hit by a direct opponent, depending on circumstances.
+- **Special Effects:** Combat maneuvers which can be performed if one combatant gains the upper hand.
 
-The skill of wielding a group of weapons learned as part of a culture or profession.
-
-### Combat Rounds
-
-Bookkeeping time segments of five seconds each.
-
-### Combat Actions
-
-Possible acts a character can perform during a Round by the expenditure of an Action Point.
-
-### Weapon Size
-
-How difficult it is to Parry a particular weapon.
-
-### Engagement
-
-When combatants can hit or be hit by a direct opponent, depending on circumstances.
-
-### Special Effects
-
-Combat maneuvers which can be performed if one combatant gains the upper hand.
-
+---
 ## Combat Skill
 
 Combat skill represents a 'package' of multiple weapons related by Class, which avoids the necessity of learning each individual weapon separately.
@@ -34,6 +18,7 @@ The most important aspect of Combat Skill is that the character learns how to us
 
 All character Classes offer training in their Combat Skill. This may be a few weapons as in the case of the mage or be all encompassing and include all weapons and shields, as in the fighter.
 
+---
 ## Running Combat
 
 To emphasize its visceral nature, combat is tracked on a blow-by-blow basis. To ease bookkeeping, fights are broken down into Combat Rounds of five seconds each. During this period combatants may make hand-to-hand attacks or defend against them, maneuver into and out of combat, fire or throw a Ranged Weapon, and so on. Similar to real life, most combat engagements – once joined – are concluded in a matter of seconds rather than minutes. In game terms this means several Combat Rounds (usually three or less), unless participants withdraw to perhaps reset Initiative, reassess their tactical situation, or simply to grab a momentary rest before re-engaging. Only fights between well matched foes or sequences of opponents tend to last longer.
@@ -59,7 +44,8 @@ Reactive Actions are those taken by a character to counter or resist an act made
 
 Unused Action Points do not carry over from one Round to the next.
 
-### Combat Actions
+---
+## Combat Actions
 
 Combat Actions are those acts which can be performed during battle. Drawing a weapon, casting a spell, or diving clear from an attack are all examples of Combat Actions. Most are concerned with elements of combat itself, but some relate to activities outside the realm of spells and weapons.
 
@@ -67,91 +53,91 @@ As previously mentioned, how often a character can act per Round is limited by t
 
 Unless otherwise specified any Combat Action (save for "Free" Actions) costs one Action Point. Thus, combatants need to carefully consider how and when they use their Action Points. They may act as aggressively or defensively as they wish, dynamically reacting to the evolving circumstance of the combat.
 
-#### Proactive Actions
+### Proactive Actions
 
 The following are activities a character can attempt on his Turn by spending an Action Point. Note that some Actions such as spell casting or reloading may take several Turns to complete; each Turn costing its own Action Point.
 
-**Attack**
+#### Attack
 
 The character can attempt to strike with a hand-to-hand weapon or use a Ranged Weapon.
 
-**Brace**
+#### Brace
 
 The character braces by taking a firm stance and leaning into the direction of a forthcoming attack. For the purposes of resisting Knockback or Leaping Attacks, the character's SIZ is treated as 50% bigger. Against the Bash Special Effect, SIZ is doubled.
 
-**Cast Magic**
+#### Cast Magic
 
 The character can attempt to cast a spell, invoke certain racial or class abilities, or produce some other magical effect. Complex magics may require several Actions to complete the casting. Once concluded, the magic can be released at any moment up until the caster's next Turn – at which point it can be held for later effect, but this requires the Hold Magic Action (see below) to maintain it in preparation for later release.
 
-**Change Range**
+#### Change Range
 
 The character can attempt to close in on or retreat from an opponent.
 
-**Charge**
+#### Charge
 
 The Charge Action allows a character to move into engagement range at running or sprinting speed, using the momentum of the charge to make a more forceful melee attack. Charging is covered on page XX.
 
-**Delay**
+#### Delay
 
 The character conserves one or more Actions in order to perform Reactive Actions later, such as Interrupt or Parry. The Action Point costs of delaying is covered by whatever acts are finally performed. If the delayed Actions are not taken before the character's Turn in the next Round, then the character is considered to have Passed and the Action Points are lost.
 
-**Dither**
+#### Dither
 
 The default option unless another Action is chosen, the character simply wastes his turn doing nothing useful.
 
-**Hold Magic**
+#### Hold Magic
 
 Once casting is complete, the character may hold a spell in temporary check, awaiting the best moment to release it. The magic may be held back for as long as the character continues to take this Action on subsequent Turns, but this allows free use of the Counter Spell reaction by an enemy if pertinent to the spell. The actual skill roll to cast the held spell is not made until it is cast.
 
-**Hustle**
+#### Hustle
 
 Provided they are not Engaged with an opponent, the character can run up to 3x Base Movement Rate or Sprint up to 5x Movement Rate. However, one cannot perform or have performed any other proactive Actions during this turn, including other movement.
 
-**Mount**
+#### Mount
 
 The character can mount or dismount a riding beast or vehicle. Particularly large mounts may require several Turns to complete.
 
-**Move**
+#### Move
 
 Provided one is not Engaged with an opponent; the character can move up to Base Movement Rate. If this brings them into contact with an enemy, they may make a melee attack without expending a further Action to do so, either way, the character is then considered Engaged. Unlike the Hustle Action, the Move Action may be taken multiple times during a Combat Round.
 
-**Outmaneuver**
+#### Outmaneuver
 
 The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who Fail to beat his roll cannot attack him in that Combat Round. See the section on Outmaneuvering on page XX.
 
-**Ready**
+#### Ready
 
 The character may retrieve, draw, sheath, withdraw, or reload a weapon or other object. Retrieving a nearby dropped object requires 2 Actions: one to move and reach down for the object and a second to return to a readied stance. Some missile weapons require several Actions to reload.
 
-**Regain Footing**
+#### Regain Footing
 
 If unengaged with an opponent, the character can automatically regain his footing from being tripped or knocked down. If Engaged, the character must win an Opposed Test of Brawn or Athletics with the opponent before standing.
 
-**Struggle**
+#### Struggle
 
 If the character is the victim of certain types of attack or Special Effects, they may attempt to extract themself from the situation. For example, breaking free from a Grapple.
 
-**Take Cover**
+#### Take Cover
 
 Take Cover is a proactive Action that allows the character to duck behind available cover in their immediate vicinity, thereby gaining some degree of protection against ranged attacks and spells. Unlike Evade it does not leave the user prone but does rely on some form of cover being available; for example, ducking back around a corner in a corridor or crouching down behind a table in a tavern.
 
-#### Reactive Actions
+### Reactive Actions
 
 This list specifies Reactions that can be used at any time during the Combat Round as a response to an imminent threat. As in the previous list, a reaction costs an Action Point to perform.
 
-**Counter Spell**
+#### Counter Spell
 
 The character can attempt to dismiss or counter an incoming spell. This assumes the countering magic has a Casting Time of one Turn, otherwise it must be prepared in advance and temporarily withheld using the Hold Magic Action. Successfully intercepting magic in this manner is assumed to negate the entire spell, even those with multiple targets or areas of effect.
 
-**Evade**
+#### Evade
 
 The character can use their Evade skill in an attempt to dive clear of threats such as incoming missiles or a charging attack. This leaves the character prone unless mitigated by an Ability or special circumstance. Thus, the character's next turn is usually spent taking the Regain Footing Action to stand again. When Evading breath weapons or other Area of Effect attacks, if within 10 feet of the edge of the effect, a successful Evade will allow you to dive to safety and take no damage instead of half. This will still leave you prone, regardless of any special consequence that can negate that penalty. See Evading on page XX.
 
-**Interrupt**
+#### Interrupt
 
 Delaying characters only. This Reactive Action halts an opponent's Turn at any point to take a delayed Turn Action. Assuming no change in the tactical situation, the opponent continues the Turn after the character's is completed. If unable to still achieve the original declaration, the opponent's Action Point is wasted. An interrupt can also be used to perform an attack-of-opportunity against anyone passing close by the delaying character and within weapon's reach.
 
-**Parry**
+#### Parry
 
 The character can attempt to defend against an incoming attack using a combination of Parrying, leaning, ducking, and sidestepping footwork to minimize the blow.
 
@@ -159,32 +145,33 @@ The character can attempt to defend against an incoming attack using a combinati
 
 Free Actions (listed below) can be performed at any time during the Combat Round and cost no Action Points to perform.
 
-**Assess Situation**
+#### Assess Situation
 
 If unengaged, a character can make a Perception roll at no Action Point cost. A Success reveals any relevant changes in the tactical situation (such as spotting a foe beginning a charge). Assessing while Running results in a Hard Perception roll, Sprinting is Formidable.
 
-**Drop Item**
+#### Drop Item
 
 Dropping an item is a Free Action.
 
-**Signal**
+#### Signal
 
 If unengaged, gesturing or signaling to one or more participants (if they can perceive the sign) is a Free Action.
 
-**Speak**
+#### Speak
 
 A character can speak at any time during combat, but what is said should be limited to short phrases which can be uttered in five seconds or less; for example, 'Look out behind you!' or 'Damn you to hell!'
 
-**Use Luck Point**
+#### Use Luck Point
 
 Using a Luck Point – to re-roll a particular result for example – is a Free Action.
 
-**Ward Location**
+#### Ward Location
 
 The character guards a particular Hit Location from being hit by dedicating one of his weapons to passively block the area. Any blow which lands on that location has its damage automatically downgraded as per normal for a Parrying weapon of its Size. The cover continues until the dedicated weapon is used to attack or actively Parry. Establishing or changing the Hit Location covered must be performed prior to an opponent rolling to attack the character. Due to their design, shields can cover multiple areas.
 
 For further explanation see Passive Blocking, page XX.
 
+---
 ## Movement
 
 The following rules govern engagement in combat:
@@ -238,6 +225,12 @@ A character's facing is one of the most important considerations on the battlefi
 
 ![](RackMultipart20240127-1-nuhbxe_html_ef37892583b066e4.jpg)
 
+#### Root image version
+![](CFI_Miniature_Facing.png)
+
+#### Media image version
+![](_media/CFI_Miniature_Facing.png)
+
 **Attacking** may be performed into any of the character's front or side squares.
 
 **Evading** is always at Standard Difficulty against any attack except those from a back square, which is Formidable and requires a successful Perception roll to even know the attack is coming.
@@ -250,6 +243,7 @@ Obstacles can be anything from huge trees, walls, high fences, doors, pits, and 
 
 Difficult terrain costs twice the normal movement to enter. Thus, moving into an area of Difficult Terrain in a 5-foot square would count as 10 feet of movement. A slow creature hindered by Difficult Terrain can always move a minimum of 5 feet. Some examples of Difficult Terrain would be shallow pools of water, rubble, low fences, bushes, tall grass/weeds, and dead bodies. Some creatures, like ghosts or those that fly are unaffected by Difficult Terrain. Passing through Difficult Terrain at any rate faster than the Base Movement Rate requires a Formidable Athletics or a Standard Acrobatics roll to avoid stumbling and falling.
 
+---
 ## How Combat Works
 
 Fighting in _Classic Fantasy Imperative_ is resolved with each attack or Parry representing a single stab, swing, spell cast, or shot of a weapon. Any offensive Action permits the chance to be resisted by a reaction. Thus, even if a character manages to strike an opponent, the foe is permitted their own roll to see if they can Parry the blow before it lands. The same philosophy is used whether the attacks are missile weapons against targets diving for cover or trying to break free from the iron grasp of a giant octopus.
@@ -276,7 +270,7 @@ Note that any Special Effects generated by the exchange are independent of wheth
 
 ### Weapon Size
 
-Every weapon in Classic Fantasy Imperative possesses several different attributes from the damage it deals to how many hands are required to wield it. Size is a combination of a weapon's mass, leverage, and stability, and is used to determine the weapon's ability to impose and Parry damage. Size categories are _Small, Medium, Large, Huge,_ and _Enormous_. The unarmed attacks of creatures are assigned similar categories according to their physical characteristics.
+Every weapon in _Classic Fantasy Imperative_ possesses several different attributes from the damage it deals to how many hands are required to wield it. Size is a combination of a weapon's mass, leverage, and stability, and is used to determine the weapon's ability to impose and Parry damage. Size categories are _Small, Medium, Large, Huge,_ and _Enormous_. The unarmed attacks of creatures are assigned similar categories according to their physical characteristics.
 
 ### Damage Reduction
 
@@ -306,6 +300,7 @@ In a situation where a defender is unable to Parry due to having no Action Point
 
 If both combatants Fail their rolls, or the defender decides not to take advantage of a missed attack, then the attack - Parry sequence ends, and combat continues on to the participant with the next highest Initiative.
 
+---
 ## Special Effects
 
 Fighting is far more than simply injuring or killing an opponent. Combative arts teach many methods of _defeating_ a foe, perhaps rendering them helpless or forcing them into situations where they must capitulate, without necessarily needing to cause them harm. Special Effects represent these techniques and control how they occur in play.
@@ -416,6 +411,7 @@ _**Trip Opponent**_: The character attempts to overbalance or throw his opponent
 
 _**Withdraw**_: The defender may automatically withdraw out of reach, breaking off engagement with that particular opponent.
 
+---
 ## Close Combat
 
 Close combat is hand-to-hand fighting in its classic sense when combatants strike each other with wielded or natural weapons. The following guidelines offer ways to make close combat more interesting and help to further explain some concepts hinted at earlier in this chapter.
@@ -511,6 +507,7 @@ Sweep attacks occur at the Games Master's decision, when weapons or creatures of
 
 A sweep attack is made by applying a single attack roll of the weapon or creature to all targets in its path. Each defender must resolve the effects of the attack separately and any Special Effects imposed on the attacker are treated as having occurred concurrently.
 
+---
 ## Ranged Combat
 
 Ranged combat incorporates all forms of weaponry which require to be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged Weapons can normally only be parried with shields; those without must rely on natural cover or use Evade to dive out of the line of fire. Thus, against lightly armored foes, Ranged Weapons can be formidable deterrents.
