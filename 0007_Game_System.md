@@ -4,6 +4,7 @@ Many different things can occur during a _Classic Fantasy Imperative_ game. Some
 
 The list is not exhaustive but should represent the most common situations. If Games Masters find there are other situations that require some form of game system adjudication, and that these situations seem to occur frequently, then they are encouraged to develop their own rules to cover these special circumstances, using those given in this chapter as a basis for replication or development.
 
+---
 ## Aging
 
 All characters age, and with age come certain consequences. The signs of Aging start at Early Middle Age (40 years for humans – other species age at greater or lesser rates as shown below). As a character passes into a new Aging Band, they must make both an Endurance roll and a Willpower roll at the Difficulty Grades noted. If a roll is Failed, then he or she experiences Aging Effects as shown in the Aging Effects table.
@@ -12,25 +13,26 @@ Each Characteristic affected by Aging reduces by 1d3 points. These points can be
 
 What specific debilitating effects arise as part of the Aging process are up to the Games Master to define. For instance, reducing STR, CON, or DEX represents general wear and tear on the body, with creaking joints and a gradual loss of mobility. Reducing INT indicates that age is starting to play tricks on the mind and memory, while reducing CHA indicates the character is getting craggier, and perhaps more short-tempered, as they get older.
 
-##### Age Bands
+### Age Bands
 
-| _**Age Band**_ | **Human** | **Dwarf** | **Elf** | **Gnome** | **½ Elf** | **½ Orc** | **Halfling** | **Endurance and Willpower Roll Grade** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| _Early Middle Age_ | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Easy |
-| _Middle Age_ | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standard |
-| _Late Middle Age_ | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Hard |
-| _Old Age_ | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Formidable |
-| _Advanced Old Age_ | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herculean |
-| _Dotage_ | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Hopeless |
+| **Age Band** | **Human** | **Dwarf** | **Elf** | **Gnome** | **½ Elf** | **½ Orc** | **Halfling** | **Endurance and Willpower Roll Grade** |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
+| Early Middle Age | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Easy |
+| Middle Age | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standard |
+| Late Middle Age | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Hard |
+| Old Age | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Formidable |
+| Advanced Old Age | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herculean |
+| Dotage | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Hopeless |
 
-##### Aging Effects Table
+### Aging Effects Table
 
-| _**1d6**_ | **Physical Aging (Failed Endurance)** | **Mental Aging (Failed Willpower)** |
-| --- | --- | --- |
-| _1-2_ | STR | INT |
-| _3-4_ | CON | POW |
-| _5-6_ | DEX | CHA |
+| **1d6** | **Physical Aging (Failed Endurance)** | **Mental Aging (Failed Willpower)** |
+| :-: | :-- | :-- |
+| 1-2 | STR | INT |
+| 3-4 | CON | POW |
+| 5-6 | DEX | CHA |
 
+---
 ## Asphyxiation
 
 Characters can hold their breath for a number of seconds equal to their Endurance skill. However, the character must be prepared (filling the lungs with as much air as possible); if not, then the period is halved if the character was in a passive situation, or reduced to one-fifth if the character was engaged in strenuous activity.
@@ -46,6 +48,7 @@ Without aid, death from Asphyxiation is usually swift. If the Asphyxiation ends 
 
 Depending on the method of Asphyxiation, the Games Master may wish to prevent full recovery, imposing an enduring level of Fatigue to represent damage to the lungs caused by smoke or water inhalation.
 
+---
 ## Character Improvement
 
 Every _Classic Fantasy Imperative_ character can improve with time and experience. Improvement can be undertaken in several areas:
@@ -76,7 +79,7 @@ The same skill may not benefit from more than one Experience Roll per session.
 
 ### Increasing Passions
 
-As described under Passions on page XX, the value of a Passion may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Passion to be reduced using an Experience Roll.
+As described under [Passions](0004_Alignment_and_Passions.md?id=passions), the value of a Passion may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Passion to be reduced using an Experience Roll.
 
 For example, constant spurning from an unrequited love might eventually wear down the Passion of even the most ardent lover, especially one who wishes to pursue a relationship without the ghosts of the past haunting them.
 
@@ -88,33 +91,36 @@ Once a source of education is found, the character must spend an entire month of
 
 ### Learning New Class Abilities
 
-Assuming the character meets the requisite Rank and skill level, if any, one or more Experience Rolls may be expended to gain or improve Class Abilities. This is detailed in Chapter 3: Classes under the relevant Class write-ups. Unlike skills, this typically does not require finding a source of knowledge from which to learn the relevant Ability, as it assumes gaining advanced techniques through the repeated use of any requisite skills. The cost in Experience Rolls is equal to the character's current Rank and many Abilities are locked out until a specific Rank is attained.
+Assuming the character meets the requisite Rank and skill level, if any, one or more Experience Rolls may be expended to gain or improve Class Abilities. This is detailed in [Chapter 3: Classes](0003_Classes.md) under the relevant Class write-ups. Unlike skills, this typically does not require finding a source of knowledge from which to learn the relevant Ability, as it assumes gaining advanced techniques through the repeated use of any requisite skills. The cost in Experience Rolls is equal to the character's current Rank and many Abilities are locked out until a specific Rank is attained.
 
+---
 ## Falling
 
 The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to damage rolls.
 
-##### Falling Distance Table
+### Falling Distance Table
 
-| 5 feet or less | No damage. |
-| --- | --- |
-| 6 to 15 feet | 1d6 points of damage to one random location. |
-| 16 to 30 feet | 2d6 points of damage to two random locations. |
-| 31 to 45 feet | 3d6 points of damage to three random locations. |
-| 46 to 60 feet | 4d6 points of damage to four random locations. |
-| Each +15 feet | +1d6 damage. |
+| Fall Height | Damage |
+| :-- | :-- |
+| 5 feet or less | No damage |
+| 6 to 15 feet | 1d6 points of damage to one random location |
+| 16 to 30 feet | 2d6 points of damage to two random locations |
+| 31 to 45 feet | 3d6 points of damage to three random locations |
+| 46 to 60 feet | 4d6 points of damage to four random locations |
+| Each +15 feet | +1d6 damage |
 
-## Falling Objects
+### Falling Objects
 
 A falling object imparts an amount of damage based on its SIZ and the distance of the fall. An object imparts 1d6 damage for every 6 points of SIZ (or fraction thereof), plus an amount of damage equal to the Damage Taken column of the Falling Distance Table – including any reductions for objects of smaller size.
 
+---
 ## Fatigue
 
 Fatigue measures tiredness and its incremental effects. It is used to track many different things, from strenuous activity to the debilitating effects of disease.
 
 The primary way of accruing Fatigue is by engaging in some form of physical activity. The more arduous the exercise or work, the more quickly it tires the character. At the Games Master's discretion, characters must make an appropriate skill roll – either Athletics, Brawn, or Endurance – to resist gaining a level of Fatigue.
 
-Every Failed roll accrues a level of Fatigue. Each level of Fatigue carries penalties for skill use, movement, Initiative, and Action Points. Asphyxiation, Blood Loss, and other setting dependent effects also contribute to Fatigue Accrual.
+Every Failed roll accrues a level of Fatigue. As shown on the [Fatigue Levels Table](0007_Game_System.md?id=fatigue-levels-table), each level of Fatigue carries penalties for skill use, movement, Initiative, and Action Points. Asphyxiation, Blood Loss, and other setting dependent effects also contribute to Fatigue accrual.
 
 For most characters, activities of any kind become near impossible when the level of Incapacitated is reached. At this stage, the character is still conscious but incapable of anything but the most desperate of activities.
 
@@ -124,12 +130,12 @@ Beyond Incapacitated, characters cannot act at all. The Fatigue levels – Semi-
 
 Characters recover from Fatigue depending on their Healing Rate. The amount of complete rest needed to recover from each level of accrued Fatigue is equal to the Recovery Period divided by the character's Healing Rate.
 
-Note that the table represents Fatigue recovery for physical exertion. Fatigue recovery can be much faster when recovering from Asphyxiation or slower if recuperating from Blood Loss.
+Note that the table represents Fatigue recovery for physical exertion. Fatigue recovery can be much faster when recovering from [Asphyxiation](0007_Game_System.md?id=f) or slower if recuperating from [Blood Loss](0007_Game_System.md?id=blood-loss).
 
-##### Fatigue Levels
+### Fatigue Levels Table
 
-| | Skill Grade | Movement | Initiative | Action Points | Recovery Period |
-| --- | --- | --- | --- | --- | --- |
+| Fatigue Level | Skill Grade | Movement | Initiative | Action Points | Recovery Period |
+| :-- | :-: | :-: | :-: | :-: | :-: |
 | Fresh | – | – | No Penalties | – | – |
 | Winded | Hard | No Penalties | No Penalties | No Penalties | 15 minutes |
 | Tired | Hard | -5 feet | No Penalties | No Penalties | 3 hours |
@@ -141,22 +147,26 @@ Note that the table represents Fatigue recovery for physical exertion. Fatigue r
 | Comatose | No Activities Possible | No Activities Possible | No Activities Possible | No Activities Possible | 48 hours |
 | Dead | Dead | – | – | – | Never |
 
+---
 ## Fires
 
-Fires are always a source of danger when used as a weapon or rage out of control. The Fire Intensity table below gives five different intensities for heat damage, with some examples. The damage inflicted per Round is given in the Damage column. Being relatively small, Intensity 1 and 2 sources apply their damage to a single Hit Location, usually the one touching the source. Intensity 3 and 4 sources are larger, applying damage to nearest 1d4+1 Hit Locations, indicating the degree of radiant heat. Intensity 5 sources affect all Hit Locations simultaneously. Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left Uncontrolled, it spreads to a number of Hit Locations, per Round, equal to its Intensity.
+Fires are always a source of danger when used as a weapon or raging out of control. The [Fire Intensity Table](0007_Game_System.md?id=fire-intensity-table) below gives five different intensities for heat damage, with some examples. The damage inflicted per Round is given in the Damage column. Being relatively small, Intensity 1 and 2 sources apply their damage to a single Hit Location, usually the one touching the source. Intensity 3 and 4 sources are larger, applying damage to nearest 1d4+1 Hit Locations, indicating the degree of radiant heat. Intensity 5 sources affect all Hit Locations simultaneously. Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left Uncontrolled, it spreads to a number of Hit Locations, per Round, equal to its Intensity.
 
-##### Fire Intensity Table
+### Fire Intensity Table
 
 | Intensity | Examples | Time to Ignite | Damage |
-| --- | --- | --- | --- |
+| :-: | :-- | :-: | :-: |
 | 1 | Candle | 1d4 | 1d2 |
 | 2 | Torch | 1d3 | 1d4 |
 | 3 | Campfire | 1d2 | 1d6 |
 | 4 | Room filling conflagration | 1d2 | 2d6 |
 | 5 | Volcanic lava | Instant | 3d6 |
 
+### Fire-based Attacks
+ 
 Fire-based attacks typically have a percentage chance of igniting flammable materials as they are generally over in a single Round. Unless otherwise noted, this chance is damage rolled x5% for fire-based attacks, and damage rolled x1% for electrical. Once ignited, flammable materials burn for 1d3-1 damage every Round until physically extinguished. Apply this damage directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. A creature's natural armor offers its normal protection, however. The victim may attempt to smother the flames by dropping prone and making a successful Athletics roll, which requires an Action Point and may be attempted each Turn. If others assist in smothering the flames in some way, the roll is one Difficulty Grade easier. If the damage roll results in zero damage, the fire has gone out on its own in that one location. For each location that had gone out on its own, the roll to smother the flames is also one Difficulty Grade easier.
 
+---
 ## Game Time
 
 In _Classic Fantasy Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the GM may need to summarize the events of many days in a single sentence, such as 'It takes you a week to reach Castle Greymyr,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
@@ -175,7 +185,7 @@ An Exploration Round represents five minutes of real time and allows the party t
 
 ### Skill Time
 
-Skill Time represents a few minutes to a few hours and is used to measure activities that do not require the detailed attention of a Combat Round but require a specific deliberation of effort with a definite result. Picking a lock might take five minutes, whereas observing the patrols made by teams of guards around a castle's walls might require several hours and are both examples of Skill Time.
+Skill Time represents a few minutes to a few hours and is used to measure activities that do not require the detailed attention of a Combat Round but require a specific deliberation of effort with a definite result. Picking a lock might take five minutes, whereas observing the patrols made by teams of guards around a castle's walls might require several hours. Both are examples of Skill Time.
 
 ### Narrative Time
 
@@ -185,25 +195,26 @@ This is the amount of time taken when the Games Master is narrating to the playe
 
 A Short Rest represents a period of about 15 minutes where the adventurers stop to catch their breath, doing nothing more strenuous than reading, eating, drinking, praying, and tending to wounds. The party decides how long to rest, and then performs the relevant 15-minute actions, with each player performing one before moving on to the next. There is no limit to the number of Short Rests that the party may take over the course of a day, and typically several rest actions are performed after setting camp, as well as in the morning before setting out. Each 15-minute Rest Action is detailed below and can be taken more than once unless stated otherwise.
 
-- _**Eat a Ration**_: This 15-minute Rest Action may be taken only once per day as rations are tracked as a daily item and removes **any** one level of Fatigue no greater than Exhausted, as well as quells any hunger. Characters may reduce their Fatigue by a further level after eating if not greater than Winded, due to this being a non-strenuous activity.
-- _**Pray to a Deity or Study spell book**_: Regain 1 Magic Point per 15-minute Rest Action spent in prayer or study. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
-- _**Tend to wounds**_: Spend a 15-minute Rest Action using the First Aid skill, or four 15-minute rest actions (an hour) using the Healing skill.
-- _**Cast one or more spells**_: Any number of spells may be cast to heal or buff the members of the party during a 15-minute Rest Action, limited to available Magic Points.
-- _**Prepare a new spell**_: Following a sleep period of at least 8 hours, a spellcaster may usea 15-minute Rest Action to memorize, or forget, an Arcane or Divine spell, subject to the restrictions detailed on page XX under Memorizing Spells.
-- _**Dither**_: This is the default 15-minute Rest Action unless another Action is chosen. The character simply wastes 15 minutes doing nothing useful. This Rest Action is typically performed if other members of the party are still performing rest actions and you have nothing to do. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
+- **Eat a Ration:** This 15-minute Rest Action may be taken only once per day as rations are tracked as a daily item and removes **any** one level of Fatigue no greater than Exhausted, as well as quells any hunger. Characters may reduce their Fatigue by a further level after eating if not greater than Winded, due to this being a non-strenuous activity.
+- **Pray to a Deity or Study spell book:** Regain 1 Magic Point per 15-minute Rest Action spent in prayer or study. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
+- **Tend to wounds:** Spend a 15-minute Rest Action using the First Aid skill, or four 15-minute rest actions (an hour) using the Healing skill.
+- **Cast one or more spells:** Any number of spells may be cast to heal or buff the members of the party during a 15-minute Rest Action, limited to available Magic Points.
+- **Prepare a new spell:** Following a sleep period of at least 8 hours, a spellcaster may usea 15-minute Rest Action to memorize, or forget, an Arcane or Divine spell, subject to the restrictions detailed under [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
+- **Dither:** This is the default 15-minute Rest Action unless another Action is chosen. The character simply wastes 15 minutes doing nothing useful. This Rest Action is typically performed if other members of the party are still performing rest actions and you have nothing to do. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
 
+---
 ## Hit Locations
 
-Most successful (weapon) attacks land on a specific Hit Location. This can be determined randomly or in some circumstances be selected by Special Effects such as Choose Location. To randomly calculate which location is been hit, roll 1d20 and compare the number rolled with the relevant humanoid or creature Hit Location table.
+Most successful (weapon) attacks land on a specific Hit Location. This can be determined randomly or in some circumstances be selected by Special Effects such as Choose Location. To randomly calculate which location has been hit, roll 1d20 and compare the number rolled with the relevant humanoid or creature Hit Location table.
 
 Animals and monsters usually have slightly different Hit Location tables than humanoids to reflect their own unique physiology. These are listed as part of each being's description and are typically only of use to the Games Master.
 
-The humanoid Hit Location table is repeated here for ease of reference.
+The humanoid Hit Locations table is repeated here for ease of reference.
 
-##### Humanoid Hit Locations
+### Humanoid Hit Locations
 
 | 1d20 | Hit Location |
-| --- | --- |
+| :-: | :-- |
 | 1-3 | Right Leg |
 | 4-6 | Left. Leg |
 | 7-9 | Abdomen |
@@ -216,7 +227,7 @@ Note that some attacks, especially magical ones, or those produced by particular
 
 ### Damage and Wound Levels
 
-If an attack strikes successfully, it causes damage according to the damage rating for the weapon (see the statistical entries for close combat and Ranged Weapons in the Money& Equipment chapter, Chapter 6). A shortsword, for instance, inflicts 1d6 damage.
+If an attack strikes successfully, it causes damage according to the damage rating for the weapon (see the table entries for [Melee weapons](0006_Money_and_Equipment.md?id=basic-melee-weapons) and [Ranged weapons](0006_Money_and_Equipment.md?id=basic-ranged-weapons) in the [Money & Equipment](0006_Money_and_Equipment.md?) chapter). A shortsword, for instance, inflicts 1d6 damage.
 
 The rolled damage for the weapon or attack is modified by the certain conditions in the specific following order:
 
@@ -235,7 +246,7 @@ Use the following rules if a location receives a Serious or Major Wound. Note th
 
 #### Minor Wound
 
-Minor wounds are cuts, scratches, bruises, and sprains. They hurt, may bleed, but are not significant enough to slow down or hamper the victim.
+Minor wounds are cuts, scratches, bruises, and sprains. They hurt and may bleed, but are not significant enough to slow down or hamper the victim.
 
 #### Serious Wound
 
@@ -253,19 +264,20 @@ If a location is reduced to a negative score equal to or greater than its starti
 
 The victim of a Major Wound to the abdomen, chest, or head drops unconscious, totally Incapacitated, and must immediately make an Opposed Test of Endurance versus the successful attack roll of his enemy. Failure results in an instant and gratuitous death (decapitated, chopped in half, impaled through the heart, torn apart, and so forth). If they survive, and the location is not treated within a number of Combat Rounds equal to twice the character's Healing Rate, they still die from blood loss and shock.
 
-Since most Major Wounds require some form of surgery or major magic to heal, the sufferer will be very unlikely to recover from a Major Wound in time to rejoin combat. Depending on the available treatment, the wounded location will be potentially maimed (see Healing from Injury page XX).
+Since most Major Wounds require some form of surgery or major magic to heal, the sufferer will be very unlikely to recover from a Major Wound in time to rejoin combat. Depending on the available treatment, the wounded location will be potentially maimed (see [Healing from Injury](0007_Game_System.md?id=healing-from-injury)).
 
 #### Blood Loss
 
-Blood Loss due to external and internal wounds, usually sustained in combat, can wear a character down very quickly. Its effects are measured by the accumulation of Fatigue levels, much like Asphyxiation. Unrestrained Blood Loss typically results in death without some form of medical attention. Unlike Asphyxiation, the effects of serious Blood Loss on Fatigue are enduring. A character recovers Fatigue lost to bleeding at a rate of one level per day, starting the day after his exsanguinations cease.
+Blood Loss due to external and internal wounds, usually sustained in combat, can wear a character down very quickly. Its effects are measured by the accumulation of Fatigue levels, much like [Asphyxiation](0007_Game_System.md?id=asphyxiation). Unrestrained Blood Loss typically results in death without some form of medical attention. Unlike Asphyxiation, the effects of serious Blood Loss on Fatigue are enduring. A character recovers Fatigue lost to bleeding at a rate of one level per day, starting the day after his exsanguinations cease.
 
 #### Heroic Last Actions
 
 In special cases where key characters receive a Major Wound, the Games Master might allow a heroic last Action - such as spitting out one last spell, attempting to cut down their slayer, crawling away to hide, or trying to tourniquet their own wound. They must have working limbs applicable to the Action and burn a Luck Point. They get a single opportunity to attempt their Action, and then immediately collapse into unconsciousness, and probable death.
 
+---
 ## Healing from Injury
 
-Natural healing from wounds and injuries is based on the character's Healing Rate. The Healing Rate dictates how many Hit Points are recovered in a location depending on the injury's nature:
+Natural healing from wounds and injuries is based on the character's Healing Rate. The Healing Rate dictates how many Hit Points are recovered in a location over a period of time dependent on the injury's nature:
 
 - Minor Wounds: Days
 - Serious Wounds: Weeks
@@ -276,7 +288,7 @@ Thus, a character with a Healing Rate of 3 who suffers damage taking him to –3
 There are certain restrictions on natural healing:
 
 - The healing character cannot engage in strenuous activity: otherwise, the Healing Rate is reduced by 1d3. Thus, a character recovering from even a Minor Wound could find his progress halted if they decide to engage in any physical tasks that might exacerbate the injuries.
-- Natural healing will not begin to heal a Major Wound until the victim has been treated with a successful Healing roll (see page XX), or the casting of one of the Cure Wounds spells. Non-dismembering Major Wounds which are not treated within a number of days equal to one twentieth of the Healing skill become maimed, permanently reducing the Hit Points of the location.
+- Natural healing will not begin to heal a Major Wound until the victim has been treated with a successful use of the [Healing](0005_Skills.md?id=healing-intpow) skill, or the casting of one of the Cure Wounds spells. Non-dismembering Major Wounds which are not treated within a number of days equal to one twentieth of the Healing skill become maimed, permanently reducing the Hit Points of the location.
 
 ### Magical Healing
 
@@ -284,6 +296,7 @@ Some magic can heal the wounds suffered by a victim. Yet there are specific rest
 
 No matter how petty the healing spell, its application is always enough to stabilize any type of wound, preventing bleeding and immediate death even if it does not actually cure the underlying injury. Note that this only applies to gross physical trauma, not to conditions brought about by suffocation, poison, and the like.
 
+---
 ## Luck Points
 
 Luck Points help differentiate heroes from the rank and file. They represent a character's ability to potentially turn failure into success and even cheat death.
@@ -308,6 +321,7 @@ If a character has exhausted their Action Points during a fight and needs to fin
 
 A character who suffers a Major Wound may spend a Luck Point to downgrade the injury to a Serious Wound. This reduces the damage taken to one Hit Point less than what would be required to inflict a Major Wound.
 
+---
 ## Traps
 
 Traps are ubiquitous devices used by every culture, from the digging of pitfalls to capture animals, to death-traps guarding tombs for all eternity. These devices are built for a range of purposes, each specifically tailored to raising an alarm, capturing interlopers, or maiming and killing thieves outright.
@@ -328,10 +342,10 @@ Traps are described using the following traits.
 
 The purpose of the trap. There are four major types:
 
-- **Alarm** – Trap sends a silent or audible signal that it has been triggered.
-- **Ensnaring** – Trap is designed to capture anyone who triggers or enters it.
-- **Maiming** – Trap is intended to critically injure whoever triggers it.
-- **Death** – Trap is intended to kill those who activate its lethal devices.
+- **Alarm:** Trap sends a silent or audible signal that it has been triggered.
+- **Ensnaring:** Trap is designed to capture anyone who triggers or enters it.
+- **Maiming:** Trap is intended to critically injure whoever triggers it.
+- **Death:** Trap is intended to kill those who activate its lethal devices.
 
 ### Trigger
 
@@ -349,10 +363,10 @@ How the trap is resisted – typically using Brawn, Evade, or Parrying with a Co
 
 What happens when the trap is sprung, and the victim(s) fail to resist? Usually this results in the alerting of antagonists if an alarm, or the capture of victims if designed to ensnare. Maiming and death-traps obviously injure the victim, although some death-traps utilize other means than direct damage to inflict harm, such as drowning or poison. To restrict overly deadly traps, the damage inflicted by most mechanical devices is limited by the skill of its creator. However, others such as traps that subject the victim to poison do not consider the crafter's actual skill. This is typically balanced by the expense of the poison used. The other exception to this is the Pit Trap, where the damage is simply based on the depth of the pit. In these cases, the skill of the crafter is used to determine the chance to spot, evade, and disarm the trap; damage is determined according to poison type, or distance fallen, as appropriate. Force is noted for those traps which fire projectiles that can be parried.
 
-##### Death Trap Damage Limits
+#### Death-Trap Damage Limits
 
 | Maker's Skill | Damage | Size/Force |
-| --- | --- | --- |
+| :-: | :-: | :-: |
 | 1-10% | 1d2 | Small |
 | 11-20% | 1d4 | Small |
 | 21-30% | 1d6 | Medium |
@@ -364,7 +378,7 @@ What happens when the trap is sprung, and the victim(s) fail to resist? Usually 
 | 81-90% | 1d10+1d8 | Enormous |
 | 91-100% | 2d10 | Enormous |
 
-Damage may affect multiple random Hit Locations, with each additional location reducing the damage by one grade on the Death Trap Damage Limits table. For example, a trap designer with 50% skill could design a trap to do 1d10 damage to a single location, 1d8 damage to 1d2 Hit Locations, 1d6 damage to 1d3 locations, and so forth. The number of potential locations is set when the trap is designed and cannot be changed. Because the number of additional Hit Locations is random, there is the potential for less damage being done overall.
+Damage may affect multiple random Hit Locations, with each additional location reducing the damage by one grade on the Death-Trap Damage Limits table. For example, a trap designer with 50% skill could design a trap to do 1d10 damage to a single location, 1d8 damage to 1d2 Hit Locations, 1d6 damage to 1d3 locations, and so forth. The number of potential locations is set when the trap is designed and cannot be changed. Because the number of additional Hit Locations is random, there is the potential for less damage being done overall.
 
 ### Sample Traps
 
@@ -372,30 +386,20 @@ Damage may affect multiple random Hit Locations, with each additional location r
 
 A pitfall is an archetypal trap used by every culture. It can take the form of a simple dug pit, covered by branches and leaves, or reach the sophistication of stone-walled sumps beneath hinged false floors, which are counterbalanced to swing back up into place after a victim drops in.
 
-Pitfalls need not be particularly deep. If designed for capture, a simple amphora or lobster pot shape will prevent escape by climbing,
+Pitfalls need not be particularly deep. If designed for capture, a simple amphora or lobster pot shape will prevent escape by climbing, as will walls which are chiseled smooth or made from crumbling material that gives way under a character's weight. Pits which are instead intended to kill usually line the floor with dozens of stakes, closely packed so that a falling character will inevitably become impaled. Other options could include filling the bottom with a weak acid, water deep enough to drown in, or starving rats.
 
-as will walls which are chiseled smooth or made from crumbling material that gives way under a character's weight. Pits which are instead intended to kill usually line the floor with dozens of stakes, closely packed so that a falling character will inevitably become impaled. Other options could include filling the bottom with a weak acid, water deep enough to drown in, or starving rats.
-
-**Purpose:** Ensnaring or Death
-
-**Trigger:** Walking across the false surface covering the pit
-
-Difficulty: 60%
-
-**Resistance:** Either Evade to jump clear or a Hard Athletics roll to catch the edge as they drop.
-
-**Effect:** The drop into the pit inflicts 2d6 damage to a random Hit Location, armor does not protect. Secondary effects are left. to the Games Master's imagination.
+- **Purpose:** Ensnaring or Death
+- **Trigger:** Walking across the false surface covering the pit
+- **Difficulty:** 60%
+- **Resistance:** Either Evade to jump clear or a Hard Athletics roll to catch the edge as they drop.
+- **Effect:** The drop into the pit inflicts 2d6 damage to a random Hit Location, armor does not protect. Secondary effects are left to the Games Master's imagination.
 
 #### Poison Needle Trap
 
 This is another common trap found everywhere from a king's chamber to a forgotten tomb. This trap is typically placed upon a chest but can be found protecting door locks as well. Unless opened with the proper key, the trap will expel a small poison needle into the hand of any attempting to pick the lock.
 
-**Purpose:** Ensnaring or Death
-
-**Trigger:** Attempting to pick the lock of the trapped object.
-
-Difficulty: 60%
-
-Resistance: Endurance
-
-**Effect:** When triggered, a small poison needle springs out and sticks into the hand of anyone attempting to pick the lock. Any poison may be used to coat the needle. If the poison is deadly, use the effects detailed for the Poison Gas Trap above, however applied only to the unfortunate lock picker.
+- **Purpose:** Ensnaring or Death
+- **Trigger:** Attempting to pick the lock of the trapped object.
+- **Difficulty:** 60%
+- **Resistance:** Endurance
+- **Effect:** When triggered, a small poison needle springs out and sticks into the hand of anyone attempting to pick the lock. Any poison may be used to coat the needle. If the poison is deadly, use the effects detailed for the Poison Gas Trap above, however applied only to the unfortunate lock picker.
