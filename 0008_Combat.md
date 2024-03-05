@@ -6,7 +6,7 @@ Combat is an important feature of roleplaying games. Violent confrontation has e
 - **Combat Rounds:** Bookkeeping time segments of five seconds each.
 - **Combat Actions:** Possible acts a character can perform during a Round by the expenditure of an Action Point.
 - **Weapon Size:** How difficult it is to Parry a particular weapon.
-- **Engagement:** When combatants can hit or be hit by a direct opponent, depending on circumstances.
+- **Engagement:** When combatants can hit or be hit directly by an opponent, depending on circumstances.
 - **Special Effects:** Combat maneuvers which can be performed if one combatant gains the upper hand.
 
 ---
@@ -25,20 +25,20 @@ To emphasize its visceral nature, combat is tracked on a blow-by-blow basis. To 
 
 Combat Rounds use several important terms:
 
-- **Initiative:** The order of who acts when during a Turn of a Combat Round. The Games Master counts down through Initiative values from the highest to the lowest, so that each participant has a chance to take their Turn when their number is reached.
+- **Initiative:** The order of Turns indicates who acts when during  a Combat Round. The Games Master counts down through Initiative values from the highest to the lowest, so that each participant has a chance to take their Turn when their number is reached.
 - **Turns:** During each 5 second Combat Round, each participant has an opportunity to take one or more Turns, dependent on the number of Action Points they possess, and how they use them. Upon their Turn, participants perform one Combat Action, which comprises of a declaration, possible movement, any necessary dice rolls (including Reactions), and the resolution of the Action. If any participant has Action Points remaining, the players may each take another Turn in Initiative order. Once no Action Points remain, or any remaining are being held back for Reactions, play proceeds to the next Combat Round.
 
 Each term is described in more detail, below.
 
 ### Initiative
 
-Initiative determines participants' order of actions in a Combat Round. It is rolled at the start of a fight and determines when each character acts. Unless something occurs to change the situation, such as certain Combat Actions or Special Effects, Initiative remains in play until it is forced to be re-rolled.
+Initiative determines participants' order of Actions in a Combat Round. It is rolled at the start of a fight and determines when each character acts. Unless something occurs to change the situation, such as certain Combat Actions or Special Effects, Initiative remains in play until it is forced to be re-rolled.
 
-Initiative is calculated by each participant rolling 1d10 and adding their Initiative Modifier. Whoever gained the highest result acts first, followed by the second highest and so on. When two or more participants tie scores, the one with the higher DEX will act first. If this still results in a tie, have each roll a die with high roll going before the other.
+Initiative is calculated by each participant rolling 1d10 and adding their Initiative Modifier. Whoever gained the highest result acts first, followed by the second highest and so on. When two or more participants tie scores, the one with the higher DEX will act first. If this still results in a tie, have each roll a die with the higher roll going before the other.
 
 ### Actions in Combat
 
-Once Initiative has been determined, the participants have the potential to perform several Combat Actions during each Combat Round. All beginning characters get 2 Action Points per Round, with more gained as they go up in Rank, but when they can act is limited to whether the Action is proactive or Reactive. Proactive Actions can only be attempted on the character's own Turn; that is to say, during his Initiative. Proactive Actions are those in which the character is the instigator, such as making an attack with a weapon.
+Once Initiative has been determined, the participants have the potential to perform several Combat Actions during each Combat Round. All beginning characters get 2 Action Points per Round, with more gained as they go up in Rank, but when they can act is limited to whether the Action is Proactive or Reactive. Proactive Actions can only be attempted on the character's own Turn; that is to say, during his Initiative. Proactive Actions are those in which the character is the instigator, such as making an attack with a weapon.
 
 Reactive Actions are those taken by a character to counter or resist an act made against them. Only one reaction attempt is permitted for each threat, an example would be trying to Parry an attack.
 
@@ -53,6 +53,7 @@ As previously mentioned, how often a character can act per Round is limited by t
 
 Unless otherwise specified any Combat Action (save for "Free" Actions) costs one Action Point. Thus, combatants need to carefully consider how and when they use their Action Points. They may act as aggressively or defensively as they wish, dynamically reacting to the evolving circumstance of the combat.
 
+---
 ### Proactive Actions
 
 The following are activities a character can attempt on his Turn by spending an Action Point. Note that some Actions such as spell casting or reloading may take several Turns to complete; each Turn costing its own Action Point.
@@ -67,7 +68,7 @@ The character braces by taking a firm stance and leaning into the direction of a
 
 #### Cast Magic
 
-The character can attempt to cast a spell, invoke certain racial or class abilities, or produce some other magical effect. Complex magics may require several Actions to complete the casting. Once concluded, the magic can be released at any moment up until the caster's next Turn – at which point it can be held for later effect, but this requires the Hold Magic Action (see below) to maintain it in preparation for later release.
+The character can attempt to cast a spell, invoke certain racial or class abilities, or produce some other magical effect. Complex magics may require several Actions to complete the casting. Once concluded, the magic can be released at any moment up until the caster's next Turn – at which point it can be held for later effect, but this requires the [Hold Magic](0008_Combat.md?id=hold-magic) Action (see below) to maintain it in preparation for later release.
 
 #### Change Range
 
@@ -75,7 +76,7 @@ The character can attempt to close in on or retreat from an opponent.
 
 #### Charge
 
-The Charge Action allows a character to move into engagement range at running or sprinting speed, using the momentum of the charge to make a more forceful melee attack. Charging is covered on page XX.
+The Charge Action allows a character to move into engagement range at running or sprinting speed, using the momentum of the charge to make a more forceful melee attack. [Charging](0008_Combat.md?id=charging) is covered in more detail below.
 
 #### Delay
 
@@ -91,7 +92,7 @@ Once casting is complete, the character may hold a spell in temporary check, awa
 
 #### Hustle
 
-Provided they are not Engaged with an opponent, the character can run up to 3x Base Movement Rate or Sprint up to 5x Movement Rate. However, one cannot perform or have performed any other proactive Actions during this turn, including other movement.
+Provided they are not Engaged with an opponent, the character can move at Run (up to 3x Base Movement Rate) or Sprint (up to 5x the Movement Rate). However, one cannot perform or have performed any other Proactive Actions during this turn, including other movement.
 
 #### Mount
 
@@ -103,7 +104,7 @@ Provided one is not Engaged with an opponent; the character can move up to Base 
 
 #### Outmaneuver
 
-The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who Fail to beat his roll cannot attack him in that Combat Round. See the section on Outmaneuvering on page XX.
+The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who fail to beat his roll cannot attack him in that Combat Round. See the section on [Outmaneuvering](0008_Combat.md?id=outmaneuvering).
 
 #### Ready
 
@@ -119,11 +120,12 @@ If the character is the victim of certain types of attack or Special Effects, th
 
 #### Take Cover
 
-Take Cover is a proactive Action that allows the character to duck behind available cover in their immediate vicinity, thereby gaining some degree of protection against ranged attacks and spells. Unlike Evade it does not leave the user prone but does rely on some form of cover being available; for example, ducking back around a corner in a corridor or crouching down behind a table in a tavern.
+Take Cover is a Proactive Action that allows the character to duck behind available cover in their immediate vicinity, thereby gaining some degree of protection against ranged attacks and spells. Unlike Evade it does not leave the user prone but does rely on some form of cover being available; for example, ducking back around a corner in a corridor or crouching down behind a table in a tavern.
 
+---
 ### Reactive Actions
 
-This list specifies Reactions that can be used at any time during the Combat Round as a response to an imminent threat. As in the previous list, a reaction costs an Action Point to perform.
+This list specifies reactions that can be used at any time during the Combat Round as a response to an imminent threat. As in the previous list, a reaction costs an Action Point to perform.
 
 #### Counter Spell
 
@@ -131,7 +133,7 @@ The character can attempt to dismiss or counter an incoming spell. This assumes 
 
 #### Evade
 
-The character can use their Evade skill in an attempt to dive clear of threats such as incoming missiles or a charging attack. This leaves the character prone unless mitigated by an Ability or special circumstance. Thus, the character's next turn is usually spent taking the Regain Footing Action to stand again. When Evading breath weapons or other Area of Effect attacks, if within 10 feet of the edge of the effect, a successful Evade will allow you to dive to safety and take no damage instead of half. This will still leave you prone, regardless of any special consequence that can negate that penalty. See Evading on page XX.
+The character can use their Evade skill in an attempt to dive clear of threats such as incoming missiles or a charging attack. This leaves the character prone unless mitigated by an Ability or special circumstance. Thus, the character's next turn is usually spent taking the Regain Footing Action to stand again. When Evading breath weapons or other Area of Effect attacks, if within 10 feet of the edge of the effect, a successful Evade will allow you to dive to safety and take no damage instead of half. This will still leave you prone, regardless of any special consequence that can negate that penalty. See [Evading](0008_Combat.md?id=evading) for more detail.
 
 #### Interrupt
 
@@ -141,7 +143,8 @@ Delaying characters only. This Reactive Action halts an opponent's Turn at any p
 
 The character can attempt to defend against an incoming attack using a combination of Parrying, leaning, ducking, and sidestepping footwork to minimize the blow.
 
-#### Free Actions
+---
+### Free Actions
 
 Free Actions (listed below) can be performed at any time during the Combat Round and cost no Action Points to perform.
 
@@ -169,7 +172,7 @@ Using a Luck Point – to re-roll a particular result for example – is a Free 
 
 The character guards a particular Hit Location from being hit by dedicating one of his weapons to passively block the area. Any blow which lands on that location has its damage automatically downgraded as per normal for a Parrying weapon of its Size. The cover continues until the dedicated weapon is used to attack or actively Parry. Establishing or changing the Hit Location covered must be performed prior to an opponent rolling to attack the character. Due to their design, shields can cover multiple areas.
 
-For further explanation see Passive Blocking, page XX.
+For further explanation see [Passive Blocking](0008_Combat.md?id=passive-blocking).
 
 ---
 ## Movement
@@ -178,12 +181,12 @@ The following rules govern engagement in combat:
 
 - Movement is performed by either the Move, Hustle, or Charge Action.
 - The Move Action allows the character to move a distance equal to their Base Movement Rate.
-- The Hustle Action allows a character to run a distance equal to 3x Movement Rate, or Sprint at 5x Movement Rate.
+- The Hustle Action allows a character to Run a distance equal to 3x Movement Rate, or Sprint at 5x Movement Rate.
 - Movement can only be performed by unengaged characters (save for special cases such as Outmaneuvering).
-- Except in certain cases (such as charging), all significant movement ceases once a character enters the engagement range of the intended opponent.
-- Except in certain cases (such as Charging through Contact), moving into the opponent's engagement zone places each in engagement with the other.
+- Except in certain cases (such as Charging), all significant movement ceases once a character enters the engagement range of the intended opponent.
+- Except in certain cases (such as Charging through Contact), moving into the opponent's engagement zone places each combatant in engagement with the other.
 - Once Engaged, characters cannot move away from an opponent unless first Withdrawing from close combat.
-- Attempting to move past an unengaged foe who is using the Delay Combat Action, permits (as a specific exception) that opponent to strike at moving characters as they pass by or block a character's progress, prompting close combat on the following Turn or Round.
+- Attempting to move past an unengaged foe who is using the Delay Action, permits (as a specific exception) that opponent to strike at moving characters as they pass by or block a character's progress, prompting close combat on the following Turn or Round.
 
 ### Situational Movement Rates
 
@@ -201,15 +204,15 @@ A character that begins the Turn prone may crawl at a maximum rate of 5 feet per
 
 A character that moves adjacent to or starts the Turn next to a jumpable obstacle may attempt to leap over it. The character may be moving at any rate up to the point of the leap. A successful Athletics roll allows one to jump up to twice one's own height horizontally or up to half one's own height vertically (if the character has at least a 15-foot run-up available). If jumping from a standing position, then these distances are halved. Reduce the jump distance in feet by half the total 'Things' carried. Worn armor hinders jumpers, with each location covered by light armor counting as 1 'Thing' in the beforementioned calculation, and heavy armor counts as 2 'Things.'
 
-See the Athletics skill description in Chapter XX for more information.
+See the [Athletics](0005_Skills.md?id=athletics-strdex) skill description for more information.
 
 On a Critical Success, the character adds a further 5 feet to his total distance and remains upright on landing.
 
-A Fumble indicates Valamir has landed awkwardly. He must immediately make an Endurance roll. If the Endurance roll is a Success, 1 point of damage is sustained to one leg. If the Endurance test Fails, then 1d4 points of damage is inflicted instead.
+A Fumble indicates the character has landed awkwardly. He must immediately make an Endurance roll. If the Endurance roll is a Success, 1 point of damage is sustained to one leg. If the Endurance test Fails, then 1d4 points of damage is inflicted instead.
 
 #### Swim
 
-A character that moves adjacent to or starts the Turn next to a body of water may swim at a rate equal to the Base Movement Rate, minus any movement already used. See the Swim skill description in Chapter 5 for more information. Under normal conditions a character's maximum swimming speed per Round is equal to their Movement Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders swimmers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces swim distance to 0 or less, the character automatically begins drowning (see Asphyxiation on page XX).
+A character that moves adjacent to or starts the Turn next to a body of water may swim at a rate equal to the Base Movement Rate, minus any movement already used. See the [Swim](0005_Skills.md?id=swim-strcon) skill description for more information. Under normal conditions a character's maximum swimming speed per Round is equal to their Movement Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders swimmers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces swim distance to 0 or less, the character automatically begins drowning (refer to the rules on  [Asphyxiation](0007_Game_System.md?id=asphyxiation)).
 
 ### Miniatures and Movement
 
@@ -229,7 +232,7 @@ A character's facing is one of the most important considerations on the battlefi
 
 **Evading** is always at Standard Difficulty against any attack except those from a back square, which is Formidable and requires a successful Perception roll to even know the attack is coming.
 
-#### Effects of Terrain on Movement
+### Effects of Terrain on Movement
 
 Battlefields will usually have terrain of some type that hinders movement, represented as either Obstacles or Difficult Terrain.
 
@@ -250,7 +253,7 @@ Close combat is handled in the following step-by-step manner:
 
 2. If desired, the defender spends an Action Point, rolls against his Combat Skill, and notes the result.
 
-3. The success level of the results are compared as per a Differential Roll (page XX).
+3. The success level of the results are compared as per [Differential Rolls](0005_Skills.md?id=differential-rolls).
 
 4. Any difference grants the successful combatant with the superior roll one or more Special Effects.
 
@@ -284,7 +287,7 @@ Due to its mass and restriction to movement, the highest Armor Point value of ar
 
 ### Parrying a Missed Attack
 
-If the attacker misses his initial attack roll, the defender has the option to spend an Action Point to Parry. Although it may seem disingenuous to Parry an attack which will miss anyway, a skilled defender can use this to his advantage to gain one or more Special Effects, potentially weakening or incapacitating a foe and preserving their next turn for some other Action.
+If the attacker misses his initial attack roll, the defender still has the option to spend an Action Point to Parry. Although it may seem disingenuous to Parry an attack which will miss anyway, a skilled defender can use this to his advantage to gain one or more Special Effects, potentially weakening or incapacitating a foe and preserving their next turn for some other Action.
 
 ### Unable or Unwilling to Parry
 
@@ -292,7 +295,7 @@ In a situation where a defender is unable to Parry due to having no Action Point
 
 ### Unsuccessful Rolls and Fumbles
 
-If both combatants Fail their rolls, or the defender decides not to take advantage of a missed attack, then the attack - Parry sequence ends, and combat continues on to the participant with the next highest Initiative.
+If both combatants Fail their rolls, or the defender decides not to take advantage of a missed attack, then the Attack / Parry sequence ends, and combat continues on to the participant with the next highest Initiative.
 
 ---
 ## Special Effects
@@ -301,7 +304,7 @@ Fighting is far more than simply injuring or killing an opponent. Combative arts
 
 Whenever opponents engage in a Differential Roll of their respective fighting skills, any resulting difference in success levels indicates an opportunity for Special Effects to occur. This reflects one combatant maneuvering his opponent into a disadvantageous situation which can be exploited using a cunning trick or tactic.
 
-The number of Special Effects received depends on the difference between the Levels of Success, as illustrated on the Differential Levels of Success table (see page XX).
+The number of Special Effects received depends on the difference between the Levels of Success, as illustrated on the [Differential Roll Results table](0005_Skills.md?id=differential-roll-results-table).
 
 If any Special Effects are won during an exchange, they must be selected before Damage and Hit Location, if any, are rolled. In cases where the recipient is badly wounded in addition to receiving a Special Effect, Endurance rolls are resolved after the application of the effect.
 
@@ -312,7 +315,7 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 ##### Special Effects Table
 
 | Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
-| --- | --- | --- | --- | --- | --- |
+| :-- | :-: | :-: | :-- | :-: | :-: |
 | Accidental Injury | | X | | Attacker Fumbles | |
 | Arise | | X | | | |
 | Bash | X | | Shields or Bludgeoning | | |
@@ -348,7 +351,7 @@ _**Arise**_: Allows the defender to use a momentary opening to roll back up to t
 
 _**Bash**_: The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back 5 feet per for every 3 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back 5 feet per for every 5 points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or Acrobatics skill roll to avoid falling or tripping over.
 
-_**Bleed**_: The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, page XX.
+_**Bleed**_: The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See [Blood Loss](0007_Game_System.md?id=blood-loss).
 
 _**Blind Opponent**_: On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
 
@@ -480,7 +483,7 @@ If the maneuvering character beats all of his opponents, one has the choice of s
 
 ### Passive Blocking
 
-Passive Blocking allows a character armed with a weapon to hold it in such a way that it covers a chosen location (or locations when using a shield), but at the cost of being unable to actively Parry with it (see Ward Location page XX). Any attack which hits the locations automatically receives the benefit of the weapon or shield, reducing damage as normal. The technique is commonly used when a warrior wishes to guard a weak spot or wounded location. Nothing prevents a dual weapon, or weapon and shield combatant from using his other weapon to actively Parry.
+Passive Blocking allows a character armed with a weapon to hold it in such a way that it covers a chosen location (or locations when using a shield), but at the cost of being unable to actively Parry with it (see [Ward Location](0008_Combat.md?id=ward-location)). Any attack which hits the locations automatically receives the benefit of the weapon or shield, reducing damage as normal. The technique is commonly used when a warrior wishes to guard a weak spot or wounded location. Nothing prevents a dual weapon, or weapon and shield combatant from using his other weapon to actively Parry.
 
 Since Passive Blocking works in the same way as cover, the Choose Location Special Effect cannot be used to bypass the block in close combat, though opponents can still use the effect to strike other unblocked areas. Crouching down behind a shield allows a character to double the number of locations covered while Passive Blocking.
 
