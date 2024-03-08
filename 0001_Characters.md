@@ -14,11 +14,8 @@ Most of these elements are described in terms of numbers, and some are dependent
 A good place to start is to have some idea of what sort of character you want to play; a hardened fighter for example, or a cunning rogue. Your character concept does not need to be elaborate at this stage; simply an idea that will help guide certain choices such as Race and Class. A few character ideas are listed to provoke your imagination.
 
 - Young, naïve magic-user
-
 - Bad-tempered half-orc fighter
-
 - Overconfident halfling rogue
-
 - Pious dwarf cleric
 
 ---

@@ -48,7 +48,6 @@ STR, INT, POW, and CHA
 #### Alignment/Oath Requirements
 
 - Alignment: Any, as appropriate to pantheon or deity.
-
 - Clerical Oath 30% plus character's INT+POW.
 
 See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
@@ -85,9 +84,7 @@ All clerics are rated by Rank, which is a rating of power and skill. When a spec
 The cleric knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
 - **Spellcaster:** Clerics are masters of Divine magic, able to cast spells of healing, defense, and protection to aid their allies. However, they are not without powerful offensive spells to smite those that stand against their ideals. Unlike magic-users, clerics require no spell book, having access to all spells of their Rank or below. Casting spells requires 1 or more Cast Magic Actions consisting of a few brief prayers, somatic gestures with their holy symbol, and a successful Channel roll. The number of spells of their current Rank a cleric may have in memory is found on the [Cleric Rank Table](0003_Classes.md?id=cleric-rank-table) above under Spells in Memory.
-
 - **Starting Spells:** A cleric begins with access to all Rank 0 cleric spells and all others of their Rank or less. See the [Cleric Spell List](0003_Classes.md?id=cleric-spell-list). They do not actually know them, like a magic-user 'knows' spells, but may pray for any of them when choosing which spells to memorize. The number of spells the cleric may memorize at each Rank is found on the cleric's Rank Table above. See [Memorizing Spells](0009_Magic.md?id=memorizing-spells) for more details.
-
 - **Turn Undead:** Clerics may turn undead, driving them away by means of faith alone. [Turning Undead](0003_Classes.md?id=turning-undead) is covered in detail below.
 
 #### Ranked Abilities
@@ -135,9 +132,7 @@ For each expenditure of 4 Experience Rolls you may gain one of the following Abi
 For each expenditure of 5 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
 
 - **Characteristic Increase:** You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
-
 - **Greater Holy Smite:** Requires Improved Holy Smite, as well as Devotion and Willpower of 130% or higher. Holy Smite's Damage Modifier is now increased by four grades against undead, demons, and devils!
-
 - **Mental Strength V:** Requires Mental Strength IV and Oath or Devotion of 140% or higher. As per Mental Strength I, but usable five times per day.
 
 ### Cleric's Basic Starting Equipment
@@ -252,9 +247,7 @@ All fighters are rated by Rank, which is a rating of power and skill. When a spe
 The fighter knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ranked Ability for free assuming you meet its requirements.
 
 - **Combat Proficiency:**  Being an expert in armed combat, fighters gain a further +5% to their Combat Skill and Unarmed skill.
-
 - **Weapon Specialization:** Your combat training has allowed you to choose a single weapon for specialization, this may be a shield as well. Weapon specialization grants benefits depending on the specific weapon selected and is summarized below.
-
   - **Melee Weapon:**  You receive the following specialization benefits to a single melee weapon: 
     - Your Combat Skill is improved by +5% when using your weapon of specialization. This bonus will not aid in Rank Advancement.  
     - You gain a bonus Parry when wielding this weapon. This does not require the use of an Action Point.
@@ -516,7 +509,6 @@ DEX, INT, and CHA
 ####Alignment/Oath Requirements
 
 - Alignment: Rogues are not restricted by Alignment and require no Oath unless they are a member of a thieves' guild.
-
 - Thieves' Guild Oath 30% plus character's INT+POW
 
 See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).

@@ -6,7 +6,7 @@ It therefore costs a character living a modest lifestyle around 7 GP a week pers
 
 The standard currency for _Classic Fantasy Imperative_ consists of the Copper, Silver, Gold, and Platinum Piece. The exchange rate is:
 
-### Standard Exchange Rates Table
+##### Standard Exchange Rates Table
 
 | **Coin** | **CP** | **SP** | **GP** | **PP** |
 | :-- | :-: | :-: | :-: | :-: |
@@ -52,11 +52,11 @@ This section is given over to equipment: armor, weapons, clothing, tools, and ot
 - Armor Points: the natural resilience of the item to damage
 - Hit Points: how much damage the item can sustain before being destroyed or rendered useless.
 
-### Equipment Price
+#### Equipment Price
 
 All items listed in this chapter represent standard quality examples. Items of better or worse quality are available at either an inflated or reduced cost. The prices quoted assume availability is good. When there is a short supply of something, prices will rise and, depending on the commodity, may be anywhere between 10% and 1000% higher than quoted (1d100x10%). The environment, too, will affect availability and therefore cost. Items and commodities are easier and cheaper to obtain in larger settlements with established markets and traders. In remote or rural areas, all but the most basic of locally produced goods and foodstuffs will be more difficult to obtain; and will command a higher price, if available at all.
 
-### Silver Weapons
+#### Silver Weapons
 
 Metal weapons may be made of pure silver so that they may harm creatures such as lycanthropes. Figure the cost of a silver weapon as being ten times more expensive than normal, unless specified otherwise. Silver weapons possess 1 less Armor Point and 2 less Hit Points. They also do one less point of damage against foes wearing armor (thus a silver dagger inflicts 1d4 damage instead of 1d4+1).
 
@@ -237,11 +237,9 @@ No matter what material armor is made of it cannot be layered with other types â
 
 Each type of armor is defined by the following qualities:
 
-**AP:** The number of Armor Points given to each location covered by this armor.
-
-**Cost:** The cost, in Gold Pieces, per location covered.
-
-**Encumbrance:** Worn armor does not count toward 'Things' carried for characters proficient in, and accustomed to the armor they wear. However, for characters not proficient in armor, or in the case of additional armor pieces being carried, they have a value of 1 'Thing' per Hit Location for light armor, and 2 'Things' per Hit Location for heavy. Thus, a full suit of light armor being worn by someone without training, or carried by anyone, is a total of 7 'Things,' and a full suit of heavy armor is a total of 14.
+- **AP:** The number of Armor Points given to each location covered by this armor.
+- **Cost:** The cost, in Gold Pieces, per location covered.
+- **Encumbrance:** Worn armor does not count toward 'Things' carried for characters proficient in, and accustomed to the armor they wear. However, for characters not proficient in armor, or in the case of additional armor pieces being carried, they have a value of 1 'Thing' per Hit Location for light armor, and 2 'Things' per Hit Location for heavy. Thus, a full suit of light armor being worn by someone without training, or carried by anyone, is a total of 7 'Things,' and a full suit of heavy armor is a total of 14.
 
 ### Armor Table
 
@@ -263,7 +261,7 @@ Each type of armor is defined by the following qualities:
 
 Every city, as well as most large towns, will have at least one shop dedicated to the sale of expendable magic items; and roadside vendors may be found set up in even the smallest of hamlets. A limited number of common scrolls, potions, and elixirs may be purchased at exotic magic shops, temples, and even some adventurer shops. These only represent those most likely to be available, and not in great numbers. Stock is typically replenished every couple of days in large towns and cities, and weekly in smaller settlements. The Games Master may decide the chance of finding rarer magic items on a case-by-case basis. All scrolls, potions, and elixirs are equivalent to Â½ of a 'Thing'
 
-### Common Magic Items Table
+#### Common Magic Items Table
 
 | **Magic Item** | **Chance of Availability** | **Description/Game Effects** | **Cost** |
 | :-- | :-- | :-- | :-: |
@@ -282,7 +280,7 @@ Every city, as well as most large towns, will have at least one shop dedicated t
 
 Tools include all the items any self-respecting adventurer can be expected to own: rope, sacks and bags, candles, lanterns, and so on. All items in this list are deemed to be of reasonable quality. Unless specified otherwise, all tools are equivalent to 1 'Thing,' or sold in quantities totaling 1 'Thing.'
 
-### Tools Table
+#### Tools Table
 
 | **Item** | **Description/Game Effects** | **Cost** |
 | :-- | :-- | :-: |
