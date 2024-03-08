@@ -75,7 +75,8 @@ New Passions can be developed at any point during a _Classic Fantasy Imperative_
 
 New Passions developed during play in this way cost no Experience Rolls and are established there and then. Of course, characters can also choose to establish a Passion during improvement, at the cost of an Experience Roll to gain a Passion at its Base Value: see the various Alignments and Passions sections in the [Culture and Races](0002_Culture_and_Races.md) chapter.
 
-### Deepening and Waning
+---
+## Deepening and Waning
 
 Alignment, Passions, and Oaths can increase during a game independently of Experience Rolls, based on the strength of whatever occurred to trigger the increase. Also, they can, and do, wane. A strongly held belief can be shaken by many things, leading to that Passion being either reduced or, in more extreme circumstances, reversed completely.
 
