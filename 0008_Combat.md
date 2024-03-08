@@ -369,7 +369,7 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 **Impale:** Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and causes a wound, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. Armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
 
-### Impale Effects Table
+##### Impale Effects Table
 
 | Creature SIZ | Small Weapons | Medium Weapons | Large Weapons | Huge Weapons | Enormous Weapons |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -413,7 +413,7 @@ Situational modifiers may be applied when fighting in particular conditions, or 
 
 Some modifiers are circumstance dependent, but rather than applying a Difficulty Grade the Combat Skill is limited by a relevant skill. For example, fighting from the back of a horse would cap the combatant's Combat Skill by their Ride skill, while fighting in water might cap it to the value of the character's Swim.
 
-### Close Combat Situational Modifiers
+##### Close Combat Situational Modifiers
 
 | Situation | Difficulty Grade |
 | --- | --- |
@@ -505,25 +505,11 @@ Ranged combat incorporates all forms of weaponry which require to be shot, throw
 
 Each Ranged weapon has several specific attributes which determine its effectiveness. The ones which have a key bearing on combat are as follows:
 
-### Force
-
-The Ranged weapon equivalent of Size. It is an abstract measure of the penetrative power of a weapon or its ammunition to determine whether the blow overcomes a (shield) Parry.
-
-### Damage Modifier
-
-This Attribute shows whether or not the Damage Modifier of the attacker can be used to boost the Ranged weapon's damage roll. In general, only self-drawn bows and thrown weapons allow the user to apply their Damage Modifier.
-
-### Range
-
-Three numbers separated by slashes, representing the maximum Close, Effective, and Long ranges of the weapon or its ammunition. Close Range is the distance over which the Choose Location Special Effect may be used, provided the target is stationary or unaware of the impending attack. Effective Range has no significant modifiers. At Long Range, the weapon can still inflict harm, but the amount of damage is halved, and Force is reduced by one step.
-
-### Load
-
-The time in Turns taken to load or reload a weapon that fires ammunition. A character can reduce the time spent loading or readying by use of the Rapid Reload Special Effect.
-
-### Impale Size
-
-The Size of an impaled weapon is different from the Force it strikes with. Ranged impaling weapons have a special column denoting their actual size when considering the hindrances caused by the Impale Special Effect.
+- **Force:** The Ranged weapon equivalent of Size. It is an abstract measure of the penetrative power of a weapon or its ammunition to determine whether the blow overcomes a (shield) Parry.
+- **Damage Modifier:** This Attribute shows whether or not the Damage Modifier of the attacker can be used to boost the Ranged weapon's damage roll. In general, only self-drawn bows and thrown weapons allow the user to apply their Damage Modifier.
+- **Range:** Three numbers separated by slashes, representing the maximum Close, Effective, and Long ranges of the weapon or its ammunition. Close Range is the distance over which the Choose Location Special Effect may be used, provided the target is stationary or unaware of the impending attack. Effective Range has no significant modifiers. At Long Range, the weapon can still inflict harm, but the amount of damage is halved, and Force is reduced by one step.
+- **Load:** The time in Turns taken to load or reload a weapon that fires ammunition. A character can reduce the time spent loading or readying by use of the Rapid Reload Special Effect.
+- **Impale Size:** The Size of an impaled weapon is different from the Force it strikes with. Ranged impaling weapons have a special column denoting their actual size when considering the hindrances caused by the Impale Special Effect.
 
 ### Situational Modifiers
 

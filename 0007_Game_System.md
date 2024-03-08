@@ -13,7 +13,7 @@ Each Characteristic affected by Aging reduces by 1d3 points. These points can be
 
 What specific debilitating effects arise as part of the Aging process are up to the Games Master to define. For instance, reducing STR, CON, or DEX represents general wear and tear on the body, with creaking joints and a gradual loss of mobility. Reducing INT indicates that age is starting to play tricks on the mind and memory, while reducing CHA indicates the character is getting craggier, and perhaps more short-tempered, as they get older.
 
-### Age Bands
+##### Age Bands
 
 | **Age Band** | **Human** | **Dwarf** | **Elf** | **Gnome** | **½ Elf** | **½ Orc** | **Halfling** | **Endurance and Willpower Roll Grade** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
@@ -24,7 +24,7 @@ What specific debilitating effects arise as part of the Aging process are up to 
 | Advanced Old Age | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herculean |
 | Dotage | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Hopeless |
 
-### Aging Effects Table
+##### Aging Effects Table
 
 | **1d6** | **Physical Aging (Failed Endurance)** | **Mental Aging (Failed Willpower)** |
 | :-: | :-- | :-- |
@@ -58,7 +58,7 @@ Every _Classic Fantasy Imperative_ character can improve with time and experienc
 - Learning new skills
 - Learning new Abilities
 
-### Experience Rolls
+#### Experience Rolls
 
 The mechanism for most character improvement is the Experience Roll. Games Masters dispense Experience Rolls at an appropriate juncture in the campaign: at the end of every successful scenario or storyline; or after perhaps two or three sessions of play if the story is a long one which will take time to complete. The frequency is at the Games Master's discretion. A high frequency of Experience Rolls will lead to the characters developing at a faster rate.
 
@@ -66,7 +66,7 @@ There is no right or wrong time to give Experience Rolls, but natural breaks in 
 
 The number of Experience Rolls awarded is also determined by the Games Master. However, a good rule of thumb is 1-3 Experience Rolls per session since the last time they were awarded.
 
-### Increasing Existing Skills
+#### Increasing Existing Skills
 
 Any skill on the Character Sheet, Standard or Professional, can be increased by spending one Experience Roll. Players can elect _not_ to spend Experience Rolls on increasing skills, instead building up a stockpile for use in increasing other things – such as Class abilities (see below).
 
@@ -77,19 +77,19 @@ Any skill on the Character Sheet, Standard or Professional, can be increased by 
 
 The same skill may not benefit from more than one Experience Roll per session.
 
-### Increasing Passions
+#### Increasing Passions
 
 As described under [Passions](0004_Alignment_and_Passions.md?id=passions), the value of a Passion may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Passion to be reduced using an Experience Roll.
 
 For example, constant spurning from an unrequited love might eventually wear down the Passion of even the most ardent lover, especially one who wishes to pursue a relationship without the ghosts of the past haunting them.
 
-### Learning New Skills
+#### Learning New Skills
 
 Some characters may wish to study new Professional Skills which they never had the chance to learn from their culture or Class. Before they can start investing Experience Rolls, they must first find a source of knowledge from which to learn. This could be as prosaic as a professional tutor such those provided by orders or guilds. Alternately it might be a more exotic source of education such as an ancient and crumbling training scroll.
 
 Once a source of education is found, the character must spend an entire month of study and practice to garner a basic grounding in that skill (learn at Base Level). This costs 3 Experience Rolls plus whatever in-game costs are required to pay the teacher (if one exists) and purchase (or rent) whatever equipment and tools may be needed.
 
-### Learning New Class Abilities
+#### Learning New Class Abilities
 
 Assuming the character meets the requisite Rank and skill level, if any, one or more Experience Rolls may be expended to gain or improve Class Abilities. This is detailed in [Chapter 3: Classes](0003_Classes.md) under the relevant Class write-ups. Unlike skills, this typically does not require finding a source of knowledge from which to learn the relevant Ability, as it assumes gaining advanced techniques through the repeated use of any requisite skills. The cost in Experience Rolls is equal to the character's current Rank and many Abilities are locked out until a specific Rank is attained.
 
@@ -98,7 +98,7 @@ Assuming the character meets the requisite Rank and skill level, if any, one or 
 
 The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to damage rolls.
 
-### Falling Distance Table
+##### Falling Distance Table
 
 | Fall Height | Damage |
 | :-- | :-- |
@@ -109,7 +109,7 @@ The amount of damage suffered in a fall depends on the distance of the drop. Arm
 | 46 to 60 feet | 4d6 points of damage to four random locations |
 | Each +15 feet | +1d6 damage |
 
-### Falling Objects
+#### Falling Objects
 
 A falling object imparts an amount of damage based on its SIZ and the distance of the fall. An object imparts 1d6 damage for every 6 points of SIZ (or fraction thereof), plus an amount of damage equal to the Damage Taken column of the Falling Distance Table – including any reductions for objects of smaller size.
 
@@ -152,7 +152,7 @@ Note that the table represents Fatigue recovery for physical exertion. Fatigue r
 
 Fires are always a source of danger when used as a weapon or raging out of control. The [Fire Intensity Table](0007_Game_System.md?id=fire-intensity-table) below gives five different intensities for heat damage, with some examples. The damage inflicted per Round is given in the Damage column. Being relatively small, Intensity 1 and 2 sources apply their damage to a single Hit Location, usually the one touching the source. Intensity 3 and 4 sources are larger, applying damage to nearest 1d4+1 Hit Locations, indicating the degree of radiant heat. Intensity 5 sources affect all Hit Locations simultaneously. Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left Uncontrolled, it spreads to a number of Hit Locations, per Round, equal to its Intensity.
 
-### Fire Intensity Table
+##### Fire Intensity Table
 
 | Intensity | Examples | Time to Ignite | Damage |
 | :-: | :-- | :-: | :-: |
@@ -162,7 +162,7 @@ Fires are always a source of danger when used as a weapon or raging out of contr
 | 4 | Room filling conflagration | 1d2 | 2d6 |
 | 5 | Volcanic lava | Instant | 3d6 |
 
-### Fire-based Attacks
+#### Fire-based Attacks
  
 Fire-based attacks typically have a percentage chance of igniting flammable materials as they are generally over in a single Round. Unless otherwise noted, this chance is damage rolled x5% for fire-based attacks, and damage rolled x1% for electrical. Once ignited, flammable materials burn for 1d3-1 damage every Round until physically extinguished. Apply this damage directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. A creature's natural armor offers its normal protection, however. The victim may attempt to smother the flames by dropping prone and making a successful Athletics roll, which requires an Action Point and may be attempted each Turn. If others assist in smothering the flames in some way, the roll is one Difficulty Grade easier. If the damage roll results in zero damage, the fire has gone out on its own in that one location. For each location that had gone out on its own, the roll to smother the flames is also one Difficulty Grade easier.
 
@@ -175,19 +175,19 @@ On a related note: Some spells, items, or effects are noted as being usable one 
 
 Following are the important distinctions of game time:
 
-### Combat Rounds
+#### Combat Rounds
 
 A Combat Round represents five seconds of real time. They are used to measure short, frenetic bursts of activity that take moments to complete or measuring very detailed activities that require a blow-by-blow resolution. For example, a chase between hunter and prey where each Round determines the twists and turns of the pursuit.
 
-### Exploration Rounds
+#### Exploration Rounds
 
 An Exploration Round represents five minutes of real time and allows the party to move at three times their Base Movement Rate (60 feet for humans and human-sized demi-humans, 45 feet for the smaller demi-human races). Exploration Rounds are typically used to measure movement in a dungeon, where it is important to maintain a high level of caution. The characters are moving slow, alert for traps and ambushes, and attempting to maintain stealth. This also assumes someone in the party is mapping. If no one is mapping, Exploration Rounds may be treated as one minute long. Using Exploration Rounds allows your Perception rolls to be made without penalty, however, as normal, other penalties may apply. Enemies find it one grade more difficult to detect a party at exploration speeds unless you are using light sources in areas of darkness (such as torches or lanterns), which would give you away. If characters decide to throw caution to the wind, you can move through the dungeon using Combat Rounds. However, in this case, Perception rolls are one grade harder, and enemies do not suffer a Perception Penalty with regards to detecting the characters. Note that when using a battle mat that reveals the entire dungeon to the players, or when the Games Master is drawing the dungeon out for them, it should **always** be assumed that the party is mapping, and therefore moving at exploration speed.
 
-### Skill Time
+#### Skill Time
 
 Skill Time represents a few minutes to a few hours and is used to measure activities that do not require the detailed attention of a Combat Round but require a specific deliberation of effort with a definite result. Picking a lock might take five minutes, whereas observing the patrols made by teams of guards around a castle's walls might require several hours. Both are examples of Skill Time.
 
-### Narrative Time
+#### Narrative Time
 
 This is the amount of time taken when the Games Master is narrating to the players, or when the players are discussing. Unless there is a specific reason for it, most actual roleplaying takes place in narrative time. When roleplaying, narrative time resembles real time, where a conversation takes as long to have as it takes to play. If a game session includes lengthy travel, or periods of activity where exact time is not of the essence, then time is compressed greatly to a few moments of game time.
 
@@ -266,7 +266,7 @@ The victim of a Major Wound to the abdomen, chest, or head drops unconscious, to
 
 Since most Major Wounds require some form of surgery or major magic to heal, the sufferer will be very unlikely to recover from a Major Wound in time to rejoin combat. Depending on the available treatment, the wounded location will be potentially maimed (see [Healing from Injury](0007_Game_System.md?id=healing-from-injury)).
 
-#### Blood Loss
+### Blood Loss
 
 Blood Loss due to external and internal wounds, usually sustained in combat, can wear a character down very quickly. Its effects are measured by the accumulation of Fatigue levels, much like [Asphyxiation](0007_Game_System.md?id=asphyxiation). Unrestrained Blood Loss typically results in death without some form of medical attention. Unlike Asphyxiation, the effects of serious Blood Loss on Fatigue are enduring. A character recovers Fatigue lost to bleeding at a rate of one level per day, starting the day after his exsanguinations cease.
 
@@ -305,19 +305,19 @@ Upon reaching Rank 2, and every Rank thereafter, all characters gain a bonus Luc
 
 Luck Points can be used during play and, at the beginning of the next session, replenish to their usual value.
 
-### Using Luck Points
+#### Using Luck Points
 
 Luck points can be used in a variety of ways. Only one Luck Point can be used in support of a particular Action. Luck Points cannot be spent on Experience or Training rolls. Each of the following options costs a single Luck Point.
 
-### Cheat Fate
+#### Cheat Fate
 
 Characters can use a Luck Point to re-roll or swap (a 75 would become a 57 for example) any dice roll they make. This can be a skill roll, damage roll, or anything else that has some effect. Characters can even force an opponent to re-roll an attack or damage roll made against them.
 
-### Desperate Effort
+#### Desperate Effort
 
 If a character has exhausted their Action Points during a fight and needs to find that last burst of desperate energy to perhaps avoid a messy demise, they may spend a Luck Point to gain an additional Action Point.
 
-### Mitigate Damage
+#### Mitigate Damage
 
 A character who suffers a Major Wound may spend a Luck Point to downgrade the injury to a Serious Wound. This reduces the damage taken to one Hit Point less than what would be required to inflict a Major Wound.
 
@@ -338,7 +338,7 @@ Despite the many entertaining tales told by storytellers, traps – especially t
 
 Traps are described using the following traits.
 
-### Purpose
+#### Purpose
 
 The purpose of the trap. There are four major types:
 
@@ -347,23 +347,23 @@ The purpose of the trap. There are four major types:
 - **Maiming:** Trap is intended to critically injure whoever triggers it.
 - **Death:** Trap is intended to kill those who activate its lethal devices.
 
-### Trigger
+#### Trigger
 
 The way the trap is set off.
 
-### Difficulty
+#### Difficulty
 
 The challenge rating of the trap, which is equal to the value of the Mechanisms or Engineering skill which created it. For instance, a scything blade trap built into the base of a treasure chest by a craftsman with Mechanisms 70% grants the trap a Difficulty of 70%. The trap would thereafter use this value in Opposed Rolls to see if the blade can be spotted, evaded, or disarmed.
 
-### Resistance
+#### Resistance
 
 How the trap is resisted – typically using Brawn, Evade, or Parrying with a Combat Skill that incorporates a shield. Resistance is rolled when the trap is triggered.
 
-### Effect
+#### Effect
 
 What happens when the trap is sprung, and the victim(s) fail to resist? Usually this results in the alerting of antagonists if an alarm, or the capture of victims if designed to ensnare. Maiming and death-traps obviously injure the victim, although some death-traps utilize other means than direct damage to inflict harm, such as drowning or poison. To restrict overly deadly traps, the damage inflicted by most mechanical devices is limited by the skill of its creator. However, others such as traps that subject the victim to poison do not consider the crafter's actual skill. This is typically balanced by the expense of the poison used. The other exception to this is the Pit Trap, where the damage is simply based on the depth of the pit. In these cases, the skill of the crafter is used to determine the chance to spot, evade, and disarm the trap; damage is determined according to poison type, or distance fallen, as appropriate. Force is noted for those traps which fire projectiles that can be parried.
 
-#### Death-Trap Damage Limits
+##### Death-Trap Damage Limits
 
 | Maker's Skill | Damage | Size/Force |
 | :-: | :-: | :-: |
