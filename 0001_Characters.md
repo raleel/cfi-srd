@@ -60,7 +60,7 @@ INT is a measurement of cognitive ability. Those with a lower INT score are not 
 
 POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's [Magic Points](0001_Characters.md?id=magic-points) and [Luck Points](0001_Characters.md?id=luck-points). If a character's POW ever drops to zero, they lose all independent will.
 
-##### Charisma (CHA)
+####	 Charisma (CHA)
 
 Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
@@ -113,17 +113,17 @@ The following table summarizes the information needed for each of the above meth
 
 Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
 
-### Action Points
+#### Action Points
 
 How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables under [Classes](0003_Classes.md) for details.
 
-### Damage Modifier
+#### Damage Modifier
 
 The bonus amount of damage a character inflicts when they physically strike or apply force. It is generally used in combat situations but can also be utilized when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table:
 
-#### Damage Modifier Table
+### Damage Modifier Table
 
 | **STR+SIZ** | **Damage Modifier** |
 | :-: | :-: |
@@ -147,13 +147,13 @@ Add together STR and SIZ and consult the Damage Modifier table:
 | 121–130 | +2d10+1d4 |
 | Each 10 points | Continue Progression |
 
-### Experience Modifier
+#### Experience Modifier
 
 Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0007_Game_System.md?id=experience-rolls) section.
 
 A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-#### Experience Modifier Table
+### Experience Modifier Table
 
 | CHA | Exp. Modifier |
 | :-: | :-: |
@@ -162,11 +162,11 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 | 13-18 | +1 |
 | Each 6 points | +1 |
 
-### Healing Rate
+#### Healing Rate
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-#### Healing Rate Table
+### Healing Rate Table
 
 | CON | Healing Rate |
 | :-: | :-: |
@@ -175,13 +175,13 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 | 13-18 | 3 |
 | Each 6 points | +1 |
 
-### Initiative
+#### Initiative
 
 The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
-### Luck Points
+#### Luck Points
 
 Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
@@ -204,13 +204,13 @@ Exactly how they are used, and when, is described in the section, [Using Luck Po
 
 \*\* All characters gain an additional Luck Point as each new Rank is attained.
 
-### Magic Points
+#### Magic Points
 
 Mystical abilities and spells cast in _Classic Fantasy Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
 For those who can utilize such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters run out of Magic Points they have exhausted their ability to cast any spells until Magic Points are replenished.
 
-### Movement Rate
+#### Movement Rate
 
 Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on [Movement](0008_Combat.md?id=movement) offers more detail.
 
@@ -226,7 +226,7 @@ Every creature has a Movement Rate – several feet that can be traveled during 
 | Halfling | 15 | 4.5 |
 | Human | 20 | 6 |
 
-### Hit Points
+#### Hit Points
 
 Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven; the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
@@ -362,7 +362,7 @@ Choose a Class Quick Pick for an average selection of skills useful to the Class
 
 \*\*\* Acquired at the Base Level, +40% bonus applied.
 
-#### Class Skill Point Buy
+### Class Skill Point Buy
 
 Optionally, you may spend points to customize a specific character concept. As above, this allows for a more tailored character at the expense of time. Characters using this method, develop their Class skills in the following way:
 
