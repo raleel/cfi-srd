@@ -70,13 +70,9 @@ Charisma measures personality and is independent of physical appearance. CHA aff
 Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
 - **Dice Roll:** Roll the dice indicated in the Racial Characteristics Table for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
-
 - **Dice Roll, Assign:** As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range —but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
-
 - **Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
-
 - **Points Build:** Instead of rolling dice to determine Characteristics, players build their character from a preset pool of points, the amount of which is determined by the character's species. This method is best for groups that know what they want to play and want to tailor their build to a specific Class. Certain rules apply to the Points Build option:
-
   - Begin with the racial average for each of the seven Characteristics as noted in parentheses after each dice range below.
   - Spend another 10 points (humans) or 6 points (demi-humans) to increase Characteristics.
   - You may also lower a Characteristic to gain extra points. For example, reduce STR 11 to 9 to gain 2 points.
@@ -86,7 +82,7 @@ Games Masters are free to come up with their own methods or point values as desi
 
 The following table summarizes the information needed for each of the above methods. The dice ranges are used in either of the Dice Roll methods, while numbers in parentheses are used in Points Build.
 
-### Racial Characteristics Table
+##### Racial Characteristics Table
 
 | **Race** | **Dwarf** | **Elf** | **Gnome** |
 | --- | --- | --- | --- |
@@ -123,7 +119,7 @@ The bonus amount of damage a character inflicts when they physically strike or a
 
 Add together STR and SIZ and consult the Damage Modifier table:
 
-#### Damage Modifier Table
+##### Damage Modifier Table
 
 | **STR+SIZ** | **Damage Modifier** |
 | :-: | :-: |
@@ -153,7 +149,7 @@ Over the course of play characters improve their skills and capabilities. This i
 
 A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-#### Experience Modifier Table
+##### Experience Modifier Table
 
 | CHA | Exp. Modifier |
 | :-: | :-: |
@@ -166,7 +162,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-#### Healing Rate Table
+##### Healing Rate Table
 
 | CON | Healing Rate |
 | :-: | :-: |
@@ -191,7 +187,7 @@ Luck Points represent that strange force differentiating adventuring heroes from
 
 Exactly how they are used, and when, is described in the section, [Using Luck Points](0007_Game_System.md?id=using-luck-points). Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-#### Luck Points Table
+##### Luck Points Table
 
 | POW | Luck Points |
 | :-: | :-: |
@@ -214,7 +210,7 @@ For those who can utilize such powers, a character's Magic Points are equal to t
 
 Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on [Movement](0008_Combat.md?id=movement) offers more detail.
 
-#### Movement Rate by Race Table
+##### Movement Rate by Race Table
 
 | Species | Feet | Metres |
 | :-- | :-: | :-: |
@@ -234,7 +230,7 @@ Some creatures, such as monsters or different classes of animal, by their very n
 
 To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table. All characters gain 1 additional Hit Point in each location at Rank 2 and 4.
 
-#### Hit Points per Location Table
+##### Hit Points per Location Table
 
 | Location | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -256,7 +252,7 @@ The Standard Skills Table shows how the basic values are calculated, along with 
 
 Note that the basic percentages for some skills will be modified by both culture and profession, so these starting values will change as character creation progresses.
 
-#### Standard Skills Table
+##### Standard Skills Table
 
 | Skill | Basic Percentage |
 | :-- | :-: |
@@ -302,7 +298,7 @@ Chosen Professional Skills start off at their Base Level Characteristic value as
 
 Quick Picks provide an average selection of skills, enabling quick character creation. Feel free to swap points, if desired; however, no skill can have fewer than a +5 or more than a +15 bonus.
 
-#### Racial Quick Picks Table
+##### Racial Quick Picks Table
 
 | Race/Culture | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
@@ -347,7 +343,7 @@ Like Race/Cultural backgrounds, each Class offers the chance to improve a range 
 
 Choose a Class Quick Pick for an average selection of skills useful to the Class in question. Feel free to swap points, if desired; however, while the skill can be reduced to a +0, functioning at Base Level (including Professional Skills), no skill can have more than a +15 bonus. These skills already include any Class Skill Bonuses from Abilities.
 
-#### Class Quick Picks Table
+##### Class Quick Picks Table
 
 | Class | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
@@ -410,7 +406,7 @@ A table is provided, breaking experience into Experience Categories. A character
 
 This table may also be used for NPCs, whether built using a Class or a career, and follows the same rules. There is one exception: Non-Player Characters built as part of a career have no special Abilities, including the extra Luck Points, which are reserved for player characters and significant Non-Player Characters only. Note that a starting NPC built as a career is Rank 1 by default.
 
-#### Experience Table
+##### Experience Table
 
 | Rank (Level\*) | Age | Bonus Skill Points | Maximum Skill Increase | Average Skill Level\*\* | Advancement |
 | :-- | :-: | :-: | :-: | :-: | :-: |
