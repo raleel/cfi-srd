@@ -4,8 +4,7 @@ Every _Classic Fantasy Imperative_ character starts the game having been trained
 
 Players are free to choose a racially and culturally appropriate Class for their character, provided that the Games Master deems it suitable. The write-ups give some guidance as to the races that commonly gravitate toward that Class. These suggestions are not definitive and may be altered by player choice, or to suit more exotic game settings. For example, in a campaign based on a dying desert world, where the halflings are a tribal, cannibalistic people, it would not be out of the question to allow them to become berserkers. The players should not view these race/culture restrictions as hard and fast rules, but rather as standard starting points. Players should feel free to suggest alternatives to their Games Master who, in turn, may allow a normally unusual combination of Race and Class to fit a more out-of-the-ordinary campaign setting or reward a creative background story.
 
----
-## Class Rank Structure
+#### Class Rank Structure
 
 _Classic Fantasy Imperative_ 's Class and Rank structure is based on various organizations such as Orders or Guilds. For example, the Fighter's Guild, Clerical Order, Magic-User's Guild, and Thieves' Guild.
 
@@ -15,7 +14,7 @@ Higher ranks (Rank 1–5) represent professional members of the Class, who are w
 
 Numbers diminish as one advances up through the ranks until only a handful of individuals, or even only one, occupy the upper echelons. Advancement brings greater privilege, prestige, learning, and sometimes, magic, or other benefits.
 
-### Increasing in Rank
+#### Increasing in Rank
 
 Characters seek to rise in the ranks in the pursuit of greater respect, reputation, or responsibility, or simply out of a thirst for knowledge and power.
 
@@ -38,15 +37,15 @@ For the most part, if the character is in good standing with any Oaths required 
 
 Clerics are the militant arm of a religious order and are skilled in protecting their religion and its followers. During times of relative peace, clerics travel the land spreading the word of their pantheon and seeking converts. Clerics are blessed with the ability to cast spells by the deities of their pantheon and are also masters of combat against the undead, possessing the capacity to drive them away with but a spoken prayer.
 
-### Common Species/Culture
+#### Common Species/Culture
 
 Any.
 
-### Important Characteristics
+#### Important Characteristics
 
 STR, INT, POW, and CHA
 
-### Alignment/Oath Requirements
+#### Alignment/Oath Requirements
 
 - Alignment: Any, as appropriate to pantheon or deity.
 
@@ -57,12 +56,12 @@ See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
 
 In addition to racial/cultural Alignment and Passions, all clerics swear an Oath of Conduct to their clerical order and the deity or pantheon of deities the order venerates. Part of the Oath typically includes tithing 10% of all wealth to the order. Where a pantheon is concerned, the character's Alignment will be used to help determine which deities of the desired pantheon will be worshipped. Typically, an order will devote themselves to all deities of a specific pantheon with like Passions. A cleric typically aligns with all deities of a specific pantheon with an Alignment not contrary to their own. For example, a cleric with a Good Alignment would serve and respect all good and neutral deities of their pantheon. They may work against those deities of an evil disposition, or even acknowledge and respect them, but would offer them no worship. A True Neutral cleric may choose either good or evil deities along with those of neutral disposition if desired but could not choose both.
 
-### Class Skills
+#### Class Skills
 
 - **Standard Skills:** Combat Skill (Cleric), First Aid, Influence, Insight, Locale, Sing, Willpower
 - **Professional Skills:** A cleric automatically receives Channel and Devotion (specific pantheon or deity), plus 3 additional skills from the following: Bureaucracy, Courtesy, Culture (any), Healing, Lore (Alchemy), Lore (Religion), Language (any) or Lore (any), and Oratory.
 
-### Cleric Armor and Weapon Proficiency
+#### Cleric Armor and Weapon Proficiency
 
 Clerics are proficient with all types of armor (light and heavy), and with all shields (except tower shields). Clerical Divine spell casting is not hindered by the wearing of armor. Their Combat Skill includes the use of all basic weapons. Specialty clerics may have access to different weapons as a part of their Combat Skill. This is beyond the scope of this document however Games Masters may apply this information if they decide to.
 
@@ -70,7 +69,7 @@ Clerics are proficient with all types of armor (light and heavy), and with all s
 
 All clerics are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, clerics may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Initiate with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Lay Member with the Ability to cast Rank 0 spells, but no other Abilities.
 
-#### Cleric Rank Table
+##### Cleric Rank Table
 
 | **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
@@ -81,7 +80,7 @@ All clerics are rated by Rank, which is a rating of power and skill. When a spec
 | 4 | High Priest or High Priestess | Any 3 Class skills at 110% | Rank 0: INT/4, +4 Rank 1: INT/4, +6 Rank 2: INT/4, +4 Rank 3: INT/4, +2 Rank 4: INT/4 | +2 | +3 | +2 |
 | 5 | Grand Priest or Grand Priestess | Any 2 Class skills at 130% | Rank 0: INT/4, +5 Rank 1: INT/4, +8 Rank 2: INT/4, +6 Rank 3: INT/4, +4 Rank 4: INT/4, +2 Rank 5: INT/4 | +2 | +4 | +2 |
 
-### Starting Abilities
+#### Starting Abilities
 
 The cleric knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
@@ -91,7 +90,7 @@ The cleric knows all the following Abilities at Rank 1. In addition, during char
 
 - **Turn Undead:** Clerics may turn undead, driving them away by means of faith alone. [Turning Undead](0003_Classes.md?id=turning-undead) is covered in detail below.
 
-### Ranked Abilities
+#### Ranked Abilities
 
 Like the name implies, Ranked Abilities are only selectable by a character of a certain Rank or higher. Most have a Prerequisite Skill that must be at a certain skill level or higher. You are not locked out of earlier Abilities when a new Rank is attained. If you failed to take a Rank 2 Ability for example, you may go back and take it at Rank 3 or even later. No more than a single Ranked Ability may be taken per session.
 
@@ -208,28 +207,28 @@ Evil clerics may command their Turning Power in Intensity of undead. This effect
 
 Fighters are professional soldiers, mercenaries, and warriors, and the most common adventurers in the worlds of fantasy. Whether breaking down doors, wielding swords and axes with both skill and finesse, or interposing themselves between the party's less martial members and the opposition, wherever you find adventure, you will find the fighter.
 
-### Common Species/Culture
+####Common Species/Culture
 
 Any.
 
-### Important Characteristic
+####Important Characteristic
 
 STR, CON, and DEX
 
-### Alignment/Oath Requirements
+####Alignment/Oath Requirements
 
 - Alignment: Fighters are not restricted by Alignment and require no Oath.
 
 See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
 
-### Class Skills
+####Class Skills
 
 - **Standard Skills:** Athletics, Boating or Ride, Brawn, Combat Skill (Fighter)\*, Endurance, Evade, Unarmed\*
 - **Professional Skills:** Craft. (any), Engineering, Gambling, Intimidation, Lore (Military History), Lore (Strategy and Tactics), Oratory, Survival or Navigate
 
 \* Receives a +5 bonus from Combat Proficiency
 
-### Fighter Armor and Weapon Proficiency
+####Fighter Armor and Weapon Proficiency
 
 Fighters are proficient with all types of armor (light and heavy), and with all shields. Their Combat Skill includes the use of all basic and martial weapons.
 
@@ -237,7 +236,7 @@ Fighters are proficient with all types of armor (light and heavy), and with all 
 
 All fighters are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, fighters may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached, an additional Luck Point is gained, and new Abilities may be acquired. This information is found on the [Fighter Rank Table](0003_Classes.md?id=fighter-rank-table) under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Fighter with the appropriate Ranked Abilities noted below; otherwise, you start as a Rank 0 Warrior with no current Abilities.
 
-#### Fighter Rank Table
+##### Fighter Rank Table
 
 | **Rank** | **Title** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-: | :-: | :-: |
@@ -248,7 +247,7 @@ All fighters are rated by Rank, which is a rating of power and skill. When a spe
 | **4** | Champion | Any 3 Class skills at 110% | +2 | +3 | +2 |
 | **5** | Lord/Lady | Any 2 Class skills at 130% | +2 | +4 | +2 |
 
-### Starting Abilities
+####Starting Abilities
 
 The fighter knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ranked Ability for free assuming you meet its requirements.
 
@@ -267,7 +266,7 @@ The fighter knows all the following Abilities at Rank 1. In addition, during cha
     - Your Combat Skill when using any shield is improved by +10%. This skill bonus will not aid in Rank Advancement.  
     - All shields count as 1 Size category larger for the purposes of Parrying damage: Large to Huge, Huge to Enormous, and Enormous to Colossal.
 
-### Ranked Abilities
+####Ranked Abilities
 
 As the name implies, Ranked Abilities are only selectable by a character of a certain Rank or higher. Most have a Prerequisite Skill that must be at a certain skill level or higher. You are not locked out of earlier Abilities when a new Rank is attained. If you failed to take a Rank 2 Ability for example, you may go back and take it at Rank 3 or even later. No more than a single Ability may be taken per session.
 
@@ -365,26 +364,26 @@ Total ENC: 7 Things
 
 Magic-users study the esoteric, digging through old musty tombs for new and elusive spells to add to their spell books. They spend much of their free time studying these spells and learning to master the powers found within them. While weak starting out, mages have the potential to become the most powerful of the Classes.
 
-### Common Species/Culture
+####Common Species/Culture
 
 Any, but typically Civilized and Nomadic humans, as well as gnomes, elves, and half-elves. Gnomes that become mages tend to gravitate toward the School of Illusion.
 
-### Important Characteristics
+####Important Characteristics
 
 DEX, INT, and POW
 
-### Alignment/Oath Requirements
+####Alignment/Oath Requirements
 
 - Alignment: Mages are not restricted by Alignment and require no Oath.
 
 See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
 
-### Class Skills
+####Class Skills
 
 - **Standard Skills:** Evade, First Aid, Influence, Insight, Locale, Perception, Willpower
 - **Professional Skills:** A mage automatically receives Arcane Casting and Arcane Knowledge, plus 3 additional skills from the following: Culture (any), Language (any), Lore (Alchemy), Lore (any)
 
-### Mage Armor and Weapon Proficiency
+####Mage Armor and Weapon Proficiency
 
 Mages are not proficient with any type of armor or shields, as Arcane spells require precise gestures and movements during casting, which are hindered by the wearing of armor. They are typically not trained in physical combat; therefore, the mage Combat Skill may only be developed with Bonus Skill Points. It includes the use of daggers, darts, slings, quarterstaffs, and light crossbows, simple weapons commonly found around their master's residence or that are relatively easy to pick up and learn.
 
@@ -392,7 +391,7 @@ Mages are not proficient with any type of armor or shields, as Arcane spells req
 
 All mages are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, mages may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an additional Luck Point is gained and new Abilities may be acquired. This information is found below on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Journeyman with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Apprentice with the Ability to cast Rank 0 spells, and no other Abilities.
 
-#### Mage Rank Table
+##### Mage Rank Table
 
 | **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
@@ -403,14 +402,14 @@ All mages are rated by Rank, which is a rating of power and skill. When a specif
 | **4** | Arch Mage | Any 3 Class skills at 110% | Rank 0: INT/4, +4 Rank 1: INT/4, +6 Rank 2: INT/4, +4 Rank 3: INT/4, +2 Rank 4: INT/4 | +2 | +3 | +2 |
 | **5** | Grand Arch Mage | Any 2 Class skills at 130% | Rank 0: INT/4, +5 Rank 1: INT/4, +8 Rank 2: INT/4, +6 Rank 3: INT/4, +4 Rank 4: INT/4, +2 Rank 5: INT/4 | +2 | +4 | +2 |
 
-### Starting Abilities
+####Starting Abilities
 
 The mage knows the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
 - **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and movements (the spell's somatic component) during casting, which are hindered by the wearing of armor. See the [Casting in Armor](0009_Magic.md?id=casting-in-armor) section for specific information. The number of spells of their current Rank a mage may have in memory is found on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table), above, under Spells in Memory.
 - **Starting Spells:** Cantrips are the first magical abilities taught to an apprentice mage and are fully defined in the [Spells](0010_Spells.md) chapter. A mage begins with knowledge of the Rank 0 cantrip Read Magic, as well as two cantrips (Rank 0) for every 1/10th Arcane Knowledge (skill x 0.1). If the mage qualifies as Rank 1, they also know one Rank 1 spell for every 1/10th Arcane Knowledge. The number of spells the mage may have prepared at each Rank is found above on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Spells in Memory. See the [Mage Spell List](0003_Classes.md?id=mage-spell-list) below and the section on [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
 
-### Ranked Abilities
+####Ranked Abilities
 
 As the name implies, Ranked Abilities are only selectable by a character of a certain Rank or higher. Most have a Prerequisite Skill that must be at a certain skill level or higher before it may be selected. You are not locked out of earlier Abilities when a new Rank is attained. If you failed to take a Rank 2 Ability for example, you may go back and take it at Rank 3 or even later. No more than a single Ability may be taken per session.
 
@@ -506,15 +505,15 @@ Total ENC: 7 Things
 
 Rogues are the experts in subterfuge, specializing in stealth, traps, lockpicking, and other skills that society often views with suspicion. However, while all thieves are rogues, not all rogues are thieves. Rogues survive by their wits, using their skills of infiltration and stealth for the greater good. However, the greater good often depends on which side of the diamond one is standing.
 
-### Common Species/Culture
+####Common Species/Culture
 
 Any
 
-### Important Characteristics
+####Important Characteristics
 
 DEX, INT, and CHA
 
-### Alignment/Oath Requirements
+####Alignment/Oath Requirements
 
 - Alignment: Rogues are not restricted by Alignment and require no Oath unless they are a member of a thieves' guild.
 
@@ -528,14 +527,14 @@ Dues vary by location and guild size, but around 100 gold per year is standard. 
 
 A rogue may choose to join a thieves' guild after character creation if the Games Master allows. While joining a thieves' guild during character creation costs the character nothing, joining later costs 100 Gold per current Rank, and takes 1 month of training and initiation. After the allotted time, the character takes on the thieves' guild title appropriate to their Rank and adds the Thieves' Guild Oath at 30% plus POW+INT.
 
-### Skills
+####Skills
 
 Because of their diverse nature, rogues possess more skill choices than the standard allotment. However, they do not receive any extra Skill Points.
 
 - **Standard Skills:** Athletics, Combat Skill (Rogue), Deceit, Evade, Insight, Perception, Stealth
 - **Professional Skills:** A rogue automatically receives Lockpicking and Mechanisms, plus two additional skills from the following: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise. At character creation, members of the Thieves' Guild also receive Language (Thieves' Cant) at +40. If they take it later, they do not receive the +40 bonus.
 
-### Rogue Armor and Weapon Proficiency
+####Rogue Armor and Weapon Proficiency
 
 Rogues are proficient with all types of armor (light and heavy), and with all shields (except tower shields). However, they do suffer penalties to many rogue Abilities when wearing heavy armor or when they are encumbered. Their Combat Skill includes the use of all basic weapons, plus hand crossbows, longswords, rapiers, and shortswords.
 
@@ -543,7 +542,7 @@ Rogues are proficient with all types of armor (light and heavy), and with all sh
 
 All rogues are rated by Rank, which is a rating of power and skill. You may choose either the rogue or thief titles, depending on whichever is more relevant to your relationship with the thieves' guild. When a specific degree of mastery is gained in a limited number of Class skills, rogues may increase their Rank, as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Scoundrel or Burglar with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Scamp or Cutpurse with no other Abilities.
 
-#### Rogue Rank Table
+##### Rogue Rank Table
 
 | **Rank** | **Title (Rogue)** | **Title (Thief)** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
@@ -554,7 +553,7 @@ All rogues are rated by Rank, which is a rating of power and skill. You may choo
 | 4 | Grand Master Rogue | Grand Master Thief | Any 3 Class skills at 110% | +2 | +3 | +2 |
 | 5 | Legendary Rogue | Legendary Thief | Any 2 Class skills at 130% | +2 | +4 | +2 |
 
-### Starting Abilities
+####Starting Abilities
 
 The rogue knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
@@ -565,7 +564,7 @@ The rogue knows all the following Abilities at Rank 1. In addition, during chara
   - It is not necessary for the rogue to gain surprise on the victim; however, the attack must be made from outside the victim's field of vision. Therefore, many rogues wait for an opponent to become engaged with an ally and then take advantage of the distraction to strike from behind. Parrying or Evading a Sneak Attack first requires a Perception roll, a Hard Perception roll if the victim is already distracted. If successful, defending against the attack coming from the side is Formidable, while defending against the attack from behind is a Herculean task! Sneak Attack may only be used on the same target more than once if they remain distracted or otherwise unaware of their attacker.
 - **Subterfuge:**  Because rogues are masters of infiltration, the skills Lockpicking, Mechanisms, and Sleight are one Difficulty Grade easier.
 
-### Ranked Abilities
+####Ranked Abilities
 
 As the name implies, Ranked Abilities are only selectable by a character of a certain Rank or higher. Most have a Prerequisite Skill that must be at a certain skill level or higher. You are not locked out of earlier Ranked Abilities when a new Rank is attained. If you failed to take a Rank 2 Ability for example, you may go back and take it at Rank 3 or even later. No more than a single Ranked Ability may be taken per session.
 

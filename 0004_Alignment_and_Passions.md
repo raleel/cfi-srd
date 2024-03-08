@@ -7,7 +7,7 @@ Using Alignment and Passions in _Classic Fantasy Imperative_ can greatly assist 
 
 All characters must have an Alignment which consists of two parts: an Ethical Code and a Moral Code. The Ethical Code defines the stance toward law and chaos, while the Moral Code determines feeling toward good and evil. Characters then choose one or two defining elements for each and determine Starting Percentages. For example, Chaotic (Disorganized and Greedy) 55%, and Good (Helpful and Charitable) 55%. You may not choose Neutral twice; instead, you disregard both a Moral and Ethical Code and choose True Neutral as your single Alignment. The Ethical and Moral Codes, along with their defining elements, are detailed below.
 
-### Ethical Code
+#### Ethical Code
 
 Choose one of Lawful, Neutral, or Chaotic at a Base Level of INT+POW+30.
 
@@ -15,7 +15,7 @@ Choose one of Lawful, Neutral, or Chaotic at a Base Level of INT+POW+30.
 - **Neutral** : Choose one defining element that best describes your Ethical Code: _Believes Law and Chaos are prejudices and dangerous extremes; Cautious; Conceited; Does not strongly feel one way or the other when it comes to Law and Chaos; Flexible; Freedom of action; Has no established Ethical Code; Pragmatic; Respectful of nature._
 - **Chaotic** : Choose one or two defining elements that best describes your Ethical Code: _Bad mannered; Bloodthirsty; Curious; Cynicism; Dishonest; Dishonorable; Disorganized; Disregard for legitimate authority; Egoism; Freedom; Hates Law; Irresponsible; Lawless; Megalomaniac; Prankster; Quick to anger; Rampageous; Reckless; Suspicious; Uncontrolled; Untrustworthy; Unpredictable; Unreliable._
 
-### Moral Code
+#### Moral Code
 
 Choose one of Good, Neutral, or Evil at a Base Level of INT+POW+30.
 
@@ -23,7 +23,7 @@ Choose one of Good, Neutral, or Evil at a Base Level of INT+POW+30.
 - **Neutral** : Choose one defining element that best describes your Moral Code: _Believes Good and Evil are prejudices and dangerous extremes; Cautious; Does not strongly feel one way or the other when it comes to Good and Evil; Flexible; Freedom of Action; Lacks the commitment to make sacrifices to protect or help others; Committed to others by personal relationships, not a Moral Code; Has no established Moral Code; Pragmatic; Seldom seek out company._
 - **Evil** : Choose one or two defining elements that best describes your Moral Code: _Abusive; Cannibalistic; Covetous; Cruel; Domineering; Enjoys Harming Innocents; Greedy; Hates Good; Lustful; Manipulative; Merciless; Prideful; Sadistic; Self-centered; Selfish; Slaver; Spiteful; Vain; Violent._
 
-### True Neutral
+#### True Neutral
 
 True Neutral starts at a Base Level of INT+POW+30.
 
@@ -44,7 +44,7 @@ The starting value of the Passion varies according to its type; see the [Passion
 
 This section only details what Passions represent and their default values. How Passions are used in the game is discussed below.
 
-### Passion Table
+##### Passion Table
 
 | **Object of Passion** | **Starting Percentage** |
 | :-- | :-- |
