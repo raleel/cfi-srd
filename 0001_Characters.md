@@ -36,31 +36,31 @@ Everyone is defined by seven Characteristics which tell you something about your
 
 Before calculating the Characteristics, the following section explains what each represents.
 
-### Strength (STR)
+#### Strength (STR)
 
 STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the [Damage Modifier](0001_Characters.md?id=damage-modifier) (see the [Attributes](0001_Characters.md?id=step-3-attributes) section below). If a character is reduced to zero STR they lack the ability to move or lift objects.
 
-### Constitution (CON)
+#### Constitution (CON)
 
 CON is a measure of health and hardiness. CON is a component in determining [Hit Points](0001_Characters.md?id=hit-points) and [Healing Rate](0001_Characters.md?id=healing-rate) (see below). If CON falls to zero for any reason the character dies.
 
-### Size (SIZ)
+#### Size (SIZ)
 
 SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure [Hit Points](0001_Characters.md?id=hit-points), as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
 
-### Dexterity (DEX)
+#### Dexterity (DEX)
 
 Agility, balance, and reflexes are measured by DEX. It is an important aspect of [Initiative](0001_Characters.md?id=initiative). If a character is reduced to zero DEX, they suffer functional paralysis.
 
-### Intelligence (INT)
+#### Intelligence (INT)
 
 INT is a measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating [Initiative](0001_Characters.md?id=initiative). If INT is reduced to zero, the character becomes completely mindless.
 
-### Power (POW)
+#### Power (POW)
 
 POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's [Magic Points](0001_Characters.md?id=magic-points) and [Luck Points](0001_Characters.md?id=luck-points). If a character's POW ever drops to zero, they lose all independent will.
 
-### Charisma (CHA)
+#### Charisma (CHA)
 
 Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
