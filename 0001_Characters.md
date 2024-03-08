@@ -65,7 +65,7 @@ POW is a measurement of a character's soul, spirit, inner drive, or capacity for
 Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ---
-## Calculating Characteristics
+### Calculating Characteristics
 
 Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
@@ -327,7 +327,7 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 
 \*\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll.
 
-**Racial Skill Point Buy**
+### Racial Skill Point Buy
 
 Optionally, you may spend points to customize a specific character concept. This allows for a more tailored character at the expense of time. When applying Skills perform the following steps:
 

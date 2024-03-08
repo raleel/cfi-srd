@@ -17,7 +17,7 @@ What is not shared under the ORC is known as **Reserved Material** and includes 
 
 Under the ORC License you can use, share, adapt, and build on the Licensed Material however you see fit, so long as you give proper attribution in the form of a notice in your published work. This notice both credits the upstream licensors and their contribution to the work, as well as providing an easy way for downstream users to credit the author of the work in which the notice appears. By using material licensed under the ORC, you automatically agree to license out your game mechanics in your published work under the same terms. If you develop your own Reserved Material, that is your exclusive property.
 
-### ORC Notice
+#### ORC Notice
 
 _Classic Fantasy Imperative_ is licensed under the ORC License located at the Library of Congress and available online at various locations including [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico?ORC-License-The-Final-Version-is-Here) and others.
 
