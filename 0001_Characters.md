@@ -123,7 +123,7 @@ The bonus amount of damage a character inflicts when they physically strike or a
 
 Add together STR and SIZ and consult the Damage Modifier table:
 
-### Damage Modifier Table
+#### Damage Modifier Table
 
 | **STR+SIZ** | **Damage Modifier** |
 | :-: | :-: |
@@ -153,7 +153,7 @@ Over the course of play characters improve their skills and capabilities. This i
 
 A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-### Experience Modifier Table
+#### Experience Modifier Table
 
 | CHA | Exp. Modifier |
 | :-: | :-: |
@@ -166,7 +166,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-### Healing Rate Table
+#### Healing Rate Table
 
 | CON | Healing Rate |
 | :-: | :-: |
@@ -256,7 +256,7 @@ The Standard Skills Table shows how the basic values are calculated, along with 
 
 Note that the basic percentages for some skills will be modified by both culture and profession, so these starting values will change as character creation progresses.
 
-### Standard Skills Table
+#### Standard Skills Table
 
 | Skill | Basic Percentage |
 | :-- | :-: |
