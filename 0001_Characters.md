@@ -60,7 +60,7 @@ INT is a measurement of cognitive ability. Those with a lower INT score are not 
 
 POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's [Magic Points](0001_Characters.md?id=magic-points) and [Luck Points](0001_Characters.md?id=luck-points). If a character's POW ever drops to zero, they lose all independent will.
 
-#### Charisma (CHA)
+##### Charisma (CHA)
 
 Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
