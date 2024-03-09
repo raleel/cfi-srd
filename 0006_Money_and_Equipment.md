@@ -168,7 +168,7 @@ Ranged weapons have similar characteristics to Melee weapons, although there are
 - **Damage Modifier:**  Not all Ranged Weapons can take advantage of a character's Damage Modifier. A Yes or No entry dictates whether the user's Damage Modifier can be applied.
 - **Force:**  Each Ranged Weapon possesses a force rating equivalent to the 'Size' of close combat weapons. In the case of projectiles, this does not relate to the firing weapon itself, but rather to how much 'impact' its ammunition has. The value is used to determine whether the weapon can overcome any shield which may Parry it. The size categories are Small (S), Medium (M), Large (L), Huge (H), and Enormous (E).
 - **Range:**  This is a measure of the weapon's effectiveness at three distances separated by slashes, representing the maximum Close, Effective, and Long ranges of the weapon or its ammunition. Ranges are expressed in feet. Note that distance penalties to the user's skill are independent of the weapon.
-  - **Close Range** – The distance over which Choose Location may be used as a non-Critical special Effect, provided the target is stationary or unaware of the impending attack.
+  - **Close Range** – The distance over which Choose Location may be used as a non-Critical Special Effect, provided the target is stationary or unaware of the impending attack.
   - **Effective Range** – The distance over which there are no significant modifiers on the weapon's accuracy or power.
   - **Long Range** – The distance over which the weapon can still inflict harm, but the amount of damage is halved, and its Force is reduced by one step.
 - **Load:**  This shows how many Turns are required to load or reload a weapon which fires ammunition.
