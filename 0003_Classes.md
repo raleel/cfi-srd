@@ -72,12 +72,12 @@ All clerics are rated by Rank, which is a rating of power and skill. When a spec
 
 | **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| 0 | Lay Member | - | Rank 0: INT/4 | 0 | +0 | +0 |
-| 1 | Initiate | Any 5 Class skills at 40% | Rank 0: INT/4, +1 Rank 1: INT/4 | 0 | +0 | +0 |
-| 2 | Cleric | Any 5 Class skills at 70% | Rank 0: INT/4, +2 Rank 1: INT/4, +2 Rank 2: INT/4 | +1 | +1 | +1 |
-| 3 | Priest or Priestess | Any 4 Class skills at 90% | Rank 0: INT/4, +3 Rank 1: INT/4, +4 Rank 2: INT/4, +2 Rank 3: INT/4 | +1 | +2 | +1 |
-| 4 | High Priest or High Priestess | Any 3 Class skills at 110% | Rank 0: INT/4, +4 Rank 1: INT/4, +6 Rank 2: INT/4, +4 Rank 3: INT/4, +2 Rank 4: INT/4 | +2 | +3 | +2 |
-| 5 | Grand Priest or Grand Priestess | Any 2 Class skills at 130% | Rank 0: INT/4, +5 Rank 1: INT/4, +8 Rank 2: INT/4, +6 Rank 3: INT/4, +4 Rank 4: INT/4, +2 Rank 5: INT/4 | +2 | +4 | +2 |
+| 0 | Lay Member | - | Rank 0: (INT/4) | 0 | +0 | +0 |
+| 1 | Initiate | Any 5 Class skills at 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
+| 2 | Cleric | Any 5 Class skills at 70% | Rank 0: (INT/4) +2<br> Rank 1: (INT/4) +2<br> Rank 2: (INT/4) | +1 | +1 | +1 |
+| 3 | Priest or Priestess | Any 4 Class skills at 90% | Rank 0: (INT/4) +3<br> Rank 1: (INT/4) +4<br> Rank 2: (INT/4) +2<br> Rank 3: (INT/4) | +1 | +2 | +1 |
+| 4 | High Priest or High Priestess | Any 3 Class skills at 110% | Rank 0: (INT/4) +4<br> Rank 1: (INT/4) +6<br> Rank 2: (INT/4) +4<br> Rank 3: (INT/4) +2<br> Rank 4: (INT/4) | +2 | +3 | +2 |
+| 5 | Grand Priest or Grand Priestess | Any 2 Class skills at 130% | Rank 0: (INT/4) +5<br> Rank 1: (INT/4) +8<br> Rank 2: (INT/4) +6<br> Rank 3: (INT/4) +4<br> Rank 4: (INT/4) +2<br> Rank 5: (INT/4) | +2 | +4 | +2 |
 
 #### Starting Abilities
 
@@ -150,9 +150,9 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 
 Total ENC 7½ Things
 
-\* Contents count toward the backpack's contents as its volume is increased.
+_\* Contents count toward the backpack's contents as its volume is increased._
 
-\*\* Counts as ½ a Thing.
+_\*\* Counts as ½ a Thing._
 
 ### Turning Undead
 
@@ -221,7 +221,7 @@ See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
 - **Standard Skills:** Athletics, Boating or Ride, Brawn, Combat Skill (Fighter)\*, Endurance, Evade, Unarmed\*
 - **Professional Skills:** Craft. (any), Engineering, Gambling, Intimidation, Lore (Military History), Lore (Strategy and Tactics), Oratory, Survival or Navigate
 
-\* Receives a +5 bonus from Combat Proficiency
+_\* Receives a +5 bonus from Combat Proficiency_
 
 ####Fighter Armor and Weapon Proficiency
 
@@ -348,9 +348,9 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 Total ENC: 7 Things
 
 
-\* Contents count toward the backpack's contents as its volume is increased
+_\* Contents count toward the backpack's contents as its volume is increased._
 
-\*\* Counts as ½ a Thing.
+_\*\* Counts as ½ a Thing._
 
 ---
 ##  Magic-User (Mage)
@@ -388,12 +388,12 @@ All mages are rated by Rank, which is a rating of power and skill. When a specif
 
 | **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Apprentice | - | Rank 0: INT/4 | 0 | +0 | +0 |
-| **1** | Journeyman | Any 5 Class skills at 40% | Rank 0: INT/4, +1Rank 1: INT/4 | 0 | +0 | +0 |
-| **2** | Mage | Any 5 Class skills at 70% | Rank 0: INT/4, +2 Rank 1: INT/4, +2 Rank 2: INT/4 | +1 | +1 | +1 |
-| **3** | Adept Mage | Any 4 Class skills at 90% | Rank 0: INT/4, +3 Rank 1: INT/4, +4 Rank 2: INT/4, +2 Rank 3: INT/4 | +1 | +2 | +1 |
-| **4** | Arch Mage | Any 3 Class skills at 110% | Rank 0: INT/4, +4 Rank 1: INT/4, +6 Rank 2: INT/4, +4 Rank 3: INT/4, +2 Rank 4: INT/4 | +2 | +3 | +2 |
-| **5** | Grand Arch Mage | Any 2 Class skills at 130% | Rank 0: INT/4, +5 Rank 1: INT/4, +8 Rank 2: INT/4, +6 Rank 3: INT/4, +4 Rank 4: INT/4, +2 Rank 5: INT/4 | +2 | +4 | +2 |
+| **0** | Apprentice | - | Rank 0: (INT/4) | 0 | +0 | +0 |
+| **1** | Journeyman | Any 5 Class skills at 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
+| **2** | Mage | Any 5 Class skills at 70% | Rank 0: (INT/4) +2 <br> Rank 1: (INT/4) +2 <br> Rank 2: (INT/4) | +1 | +1 | +1 |
+| **3** | Adept Mage | Any 4 Class skills at 90% | Rank 0: (INT/4) +3 <br> Rank 1: (INT/4) +4 <br> Rank 2: (INT/4) +2 <br> Rank 3: (INT/4) | +1 | +2 | +1 |
+| **4** | Arch Mage | Any 3 Class skills at 110% | Rank 0: (INT/4) +4 <br> Rank 1: (INT/4) +6 <br> Rank 2: (INT/4) +4 <br> Rank 3: (INT/4) +2 <br> Rank 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Grand Arch Mage | Any 2 Class skills at 130% | Rank 0: (INT/4) +5 <br> Rank 1: (INT/4) +8 <br> Rank 2: (INT/4) +6 <br> Rank 3: (INT/4) +4 <br> Rank 4: (INT/4) +2 <br> Rank 5: (INT/4) | +2 | +4 | +2 |
 
 ####Starting Abilities
 
@@ -459,9 +459,9 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 
 Total ENC: 7 Things
 
-\* Contents count toward the backpack's contents as its volume is increased.
+_\* Contents count toward the backpack's contents as its volume is increased._
 
-\*\* Counts as ½ a Thing.
+_\*\* Counts as ½ a Thing._
 
 
 ### Mage Spell List
@@ -580,7 +580,7 @@ The rogue's Sneak Attack Ability now does +1d2 damage with melee weapons, no add
 
 - **Characteristic Increase:**  You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
 - **Defensive Reflexes:**  Defensive Reflexes requires you to be Unburdened (Less 'Things' carried than STR), wearing nothing more restrictive than light armor. Once per combat You may re-roll a Failed Parry or Evade roll without spending a Luck Point. You may not re-roll against the same attack more than once however, nor combine with a Luck Point.
-- **Read Languages:**  Requires Oath at 70% or higher and one month of training with the thieves' guild. Only Members of a thieves' guild may take this Ability. You have learned to read any language, even those you do not normally know. This is not a complete understanding of all languages, but the chance to pick up a word here or a phrase there and piece it together. The main use of this skill is the understanding of notes, instructions, and treasure maps, but can be used to attempt to decipher any otherwise unknown language. Read Languages is a Professional Skill and starts at Base Level of INTx2. The Games Master should roll this skill check, keeping the results secret, as you would not know whether you have successfully translated the text, or just think you did. A Success will reveal a few useful pieces of information equal to your INT/4, while a Critical Success will reveal several pieces of information equal to your INT/2. On a Failed roll, you learn no information whatsoever. Finally, on a Fumble, you only believe that you know the correct subject matter and the Games Master can feed you false information.
+- **Read Languages:**  Requires Oath at 70% or higher and one month of training with the thieves' guild. Only Members of a thieves' guild may take this Ability. You have learned to read any language, even those you do not normally know. This is not a complete understanding of all languages, but the chance to pick up a word here or a phrase there and piece it together. The main use of this skill is the understanding of notes, instructions, and treasure maps, but can be used to attempt to decipher any otherwise unknown language. Read Languages is a Professional Skill and starts at Base Level of INTx2. The Games Master should roll this skill check, keeping the results secret, as you would not know whether you have successfully translated the text, or just think you did. A Success will reveal a few useful pieces of information equal to your (INT/4) while a Critical Success will reveal several pieces of information equal to your INT/2. On a Failed roll, you learn no information whatsoever. Finally, on a Fumble, you only believe that you know the correct subject matter and the Games Master can feed you false information.
 
 #### Rank 3:
 
@@ -617,6 +617,6 @@ Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise not
 
 Total ENC 5 Things
 
-\* Contents count toward the backpack's contents as its volume is increased.
+_\* Contents count toward the backpack's contents as its volume is increased._
 
-\*\* Counts as ½ a Thing.
+_\*\* Counts as ½ a Thing._

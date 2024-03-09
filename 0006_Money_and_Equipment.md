@@ -2,7 +2,7 @@
 
 This chapter is concerned with money: how much characters have and what it buys. _Classic Fantasy Imperative_ uses the Gold Piece (GP) as the standard unit of currency in the game, with the cost of most equipment, goods and services being measured in GP. One GP is the standard price for one day's food, drink, and accommodation for one person living a modest lifestyle.
 
-It therefore costs a character living a modest lifestyle around 7 GP a week personally to live at subsistence level. Depending on where the characters are located, coinage may not even be used (or may be viewed with suspicion). Some cultures value barter and payment in kind more favorably than the chink of gold.
+It therefore costs a character living a modest lifestyle around 7GP a week personally to live at subsistence level. Depending on where the characters are located, coinage may not even be used (or may be viewed with suspicion). Some cultures value barter and payment in kind more favorably than the chink of gold.
 
 The standard currency for _Classic Fantasy Imperative_ consists of the Copper, Silver, Gold, and Platinum Piece. The exchange rate is:
 
@@ -15,9 +15,9 @@ The standard currency for _Classic Fantasy Imperative_ consists of the Copper, S
 | Gold Piece (GP) | 100 | 10 | 1 | ½ |
 | Platinum Piece (PP) | 1,000 | 100 | 10 | 1 |
 
-Usually where the price of an item or service price consists of coins of different value, it will be displayed with a decimal: 1.5 GP would be 1 gold and 5 silver, as 5 silver is half of a gold piece. Likewise, 3.5 SP would be 3 silver and 5 copper.
+Usually where the price of an item or service price consists of coins of different value, it will be displayed with a decimal: 1.5GP would be 1 gold and 5 silver, as 5 silver is half of a gold piece. Likewise, 3.5SP would be 3 silver and 5 copper.
 
-Some cultures, typically farming, nomad, and barbarian communities, measure wealth in terms of livestock. A single large herd animal, such as a cow, is worth around 10 GP. A pig or sheep is worth around 2.5 GP (2 GP, 5 SP) and a flock of hens around 1.5 GP (1 GP, 5 SP). Others like orcs, goblins, and other humanoid races, who may have little actual use for coinage within their own community do, however, know it's worth to the civilized races and therefore can usually be found in possession of coinage as well.
+Some cultures, typically farming, nomad, and barbarian communities, measure wealth in terms of livestock. A single large herd animal, such as a cow, is worth around 10GP. A pig or sheep is worth around 2.5GP (2GP, 5SP) and a flock of hens around 1.5GP (1GP, 5SP). Others like orcs, goblins, and other humanoid races, who may have little actual use for coinage within their own community do, however, know it's worth to the civilized races and therefore can usually be found in possession of coinage as well.
 
 ---
 ## Encumbrance
@@ -81,81 +81,81 @@ All weapons are governed by a series of Characteristics which are as follows:
   - _Set_ – The weapon can be set to receive a foot or mounted charge.
   - _Stealth_ – The weapon must be used from ambush.
   - _Thrown_ – The weapon can be used as a Ranged Weapon as well as a hand-to-hand weapon.
-- **Cost:**  The weapon's cost in Gold and/or Silver Pieces. 2.5 GP would be 2 gold and 5 silver.
+- **Cost:**  The weapon's cost in Gold and/or Silver Pieces. 2.5GP would be 2 gold and 5 silver.
 - **Encumbrance:**  Unless specified otherwise, all melee weapons are equivalent to 1 'Thing.'
 
 ### Basic Melee Weapons
 
 | **Basic Weapon** | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Club | 1H | 1d6 | M | Bash, Stun Location | 4/4 | — | 5 SP |
-| Dagger\* | 1H | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3 GP |
-| Great club\*\* | 2H | 2d6 | H | Bash, Stun Location | 4/10 | — | 50 GP |
-| Hand axe\* | 1H | 1d6 | S | Bleed | 3/6 | Thrown | 2.5 GP |
-| Longspear\*\* | 2H | 1d10+1 | L | Impale | 4/10 | Set | 3 GP |
-| Mace | 1H | 1d8 | M | Bash, Stun Location | 6/6 | — | 10 GP |
-| Mace, heavy\*\* | 2H | 1d8+2 | M | Bash, Stun Location | 6/10 | — | 20 GP |
-| Morning star | 1H | 2d4 | M | Bash, Stun Location | 4/10 | — | 15 GP |
-| Quarterstaff\*\* | 2H | 1d8 | M | Stun Location | 4/8 | — | 2 GP |
-| Shortspear | 1H | 1d8+1 | M | Impale | 4/5 | Throw, Set | 2 GP |
-| Sickle | 1H | 1d6 | M | Bleed, Impale | 3/8 | — | 7 GP |
+| Club | 1H | 1d6 | M | Bash, Stun Location | 4/4 | — | 5SP |
+| Dagger\* | 1H | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3GP |
+| Great club\*\* | 2H | 2d6 | H | Bash, Stun Location | 4/10 | — | 50GP |
+| Hand axe\* | 1H | 1d6 | S | Bleed | 3/6 | Thrown | 2.5GP |
+| Longspear\*\* | 2H | 1d10+1 | L | Impale | 4/10 | Set | 3GP |
+| Mace | 1H | 1d8 | M | Bash, Stun Location | 6/6 | — | 10GP |
+| Mace, heavy\*\* | 2H | 1d8+2 | M | Bash, Stun Location | 6/10 | — | 20GP |
+| Morning star | 1H | 2d4 | M | Bash, Stun Location | 4/10 | — | 15GP |
+| Quarterstaff\*\* | 2H | 1d8 | M | Stun Location | 4/8 | — | 2GP |
+| Shortspear | 1H | 1d8+1 | M | Impale | 4/5 | Throw, Set | 2GP |
+| Sickle | 1H | 1d6 | M | Bleed, Impale | 3/8 | — | 7GP |
 
-\* Counts as ½ of a Thing with regards to ENC
+_\* Counts as ½ of a Thing with regards to ENC_
 
-\*\* Counts as 2 'Things' with regards to ENC
+_\*\* Counts as 2 'Things' with regards to ENC_
 
 ### Martial Melee Weapons
 
 | **Weapon** | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Ball & chain | 1H | 1d6+1 | M | Bash, Entangle, Stun Location | 6/8 | Flexible | 25 GP |
-| Bastard sword | 1H / 2H | 1d8 / 1d10 | M / L | Bleed, Impale, +Sunder (2H) | 6/12 | — | 25 GP |
-| Battleaxe | 1H / 2H | 1d6+1 / 1d8+1 | M / L | Bleed, Sunder | 4/8 | — | 10 GP |
-| Broadsword | 1H | 1d8 | M | Bleed, Impale | 6/10 | — | 18 GP |
-| Chain | 1H | 1d4 | M | Bash, Entangle | 8/6 | — | 1 GP |
-| Falchion | 1H | 1d6+2 | M | Bleed | 6/10 | — | 20 GP |
-| Flail | 1H | 1d6 | M | Bash | 3/6 | Flexible | 2.5 GP |
-| Flail, heavy\*\* | 2H | 1d10 | L | Bash, Stun Location | 4/10 | Flexible | 25 GP |
-| Garrote\* | 2H | 1d2 | S | — | 1/2 | Stealth | 1.5 GP |
-| Glaive\*\* | 2H | 1d10+2 | L | Bleed, Sunder | 4/10 | — | 25 GP |
-| Great axe\*\* | 2H | 2d6+2 | H | Bleed, Sunder | 4/10 | — | 15 GP |
-| Great hammer\*\* | 2H | 1d10+3 | H | Bash, Stun Location, Sunder | 4/10 | — | 25 GP |
-| Great sword\*\* | 2H | 2d8 | H | Bleed, Impale, Sunder | 6/12 | — | 30 GP |
-| Halberd/ Poleaxe\*\* | 2H | 1d8+2 | L | Entangle, Impale, Sunder | 4/10 | Set | 20 GP |
-| Knife\* | 1H | 1d3 | S | Bleed, Impale | 5/4 | — | 1 GP |
-| Lance\*\* | 1H | 1d10+2 | H | Impale, Sunder | 4/10 | Mount | 15 GP |
-| Longsword | 1H | 1d8 | M | Bleed, Impale | 6/12 | — | 20 GP |
-| Main gauche\* | 1H | 1d4 | S | Bleed, Impale | 6/10 | Entrapping | 18 GP |
-| Military pick | 1H | 1d6+1 | M | Stun Location, Sunder | 6/10 | — | 18 GP |
-| Military pick, heavy\*\* | 2H | 1d8+2 | L | Impale, Stun Location, Sunder | 6/10 | — | 25 GP |
-| Net\* | 1H | 1d4 | S | Entangle | 2/20 | Entrapping | 2 GP |
-| Pike\*\* | 2H | 1d10+2 | L | Impale | 4/12 | Set | 9 GP |
-| Rapier | 1H | 1d8 | M | Impale | 5/8 | — | 10 GP |
-| Saber | 1H | 1d6+1 | M | Bleed, Impale | 6/8 | — | 23 GP |
-| Scimitar | 1H | 1d8 | M | Bleed | 6/10 | — | 20 GP |
-| Shortsword | 1H | 1d6 | M | Bleed, Impale | 6/8 | — | 10 GP |
-| Trident | 1H | 1d8 | M | Impale | 4/10 | Barbed | 16 GP |
-| War hammer | 1H | 1d8+1 | M | Stun Location | 3/8 | — | 15 GP |
-| Whip\*\*\* | 1H | 1d3 | M | Stun Location | 2/8 | Flexible, Entrapping | 10 GP |
+| Ball & chain | 1H | 1d6+1 | M | Bash, Entangle, Stun Location | 6/8 | Flexible | 25GP |
+| Bastard sword | 1H / 2H | 1d8 / 1d10 | M / L | Bleed, Impale, +Sunder (2H) | 6/12 | — | 25GP |
+| Battleaxe | 1H / 2H | 1d6+1 / 1d8+1 | M / L | Bleed, Sunder | 4/8 | — | 10GP |
+| Broadsword | 1H | 1d8 | M | Bleed, Impale | 6/10 | — | 18GP |
+| Chain | 1H | 1d4 | M | Bash, Entangle | 8/6 | — | 1GP |
+| Falchion | 1H | 1d6+2 | M | Bleed | 6/10 | — | 20GP |
+| Flail | 1H | 1d6 | M | Bash | 3/6 | Flexible | 2.5GP |
+| Flail, heavy\*\* | 2H | 1d10 | L | Bash, Stun Location | 4/10 | Flexible | 25GP |
+| Garrote\* | 2H | 1d2 | S | — | 1/2 | Stealth | 1.5GP |
+| Glaive\*\* | 2H | 1d10+2 | L | Bleed, Sunder | 4/10 | — | 25GP |
+| Great axe\*\* | 2H | 2d6+2 | H | Bleed, Sunder | 4/10 | — | 15GP |
+| Great hammer\*\* | 2H | 1d10+3 | H | Bash, Stun Location, Sunder | 4/10 | — | 25GP |
+| Great sword\*\* | 2H | 2d8 | H | Bleed, Impale, Sunder | 6/12 | — | 30GP |
+| Halberd/ Poleaxe\*\* | 2H | 1d8+2 | L | Entangle, Impale, Sunder | 4/10 | Set | 20GP |
+| Knife\* | 1H | 1d3 | S | Bleed, Impale | 5/4 | — | 1GP |
+| Lance\*\* | 1H | 1d10+2 | H | Impale, Sunder | 4/10 | Mount | 15GP |
+| Longsword | 1H | 1d8 | M | Bleed, Impale | 6/12 | — | 20GP |
+| Main gauche\* | 1H | 1d4 | S | Bleed, Impale | 6/10 | Entrapping | 18GP |
+| Military pick | 1H | 1d6+1 | M | Stun Location, Sunder | 6/10 | — | 18GP |
+| Military pick, heavy\*\* | 2H | 1d8+2 | L | Impale, Stun Location, Sunder | 6/10 | — | 25GP |
+| Net\* | 1H | 1d4 | S | Entangle | 2/20 | Entrapping | 2GP |
+| Pike\*\* | 2H | 1d10+2 | L | Impale | 4/12 | Set | 9GP |
+| Rapier | 1H | 1d8 | M | Impale | 5/8 | — | 10GP |
+| Saber | 1H | 1d6+1 | M | Bleed, Impale | 6/8 | — | 23GP |
+| Scimitar | 1H | 1d8 | M | Bleed | 6/10 | — | 20GP |
+| Shortsword | 1H | 1d6 | M | Bleed, Impale | 6/8 | — | 10GP |
+| Trident | 1H | 1d8 | M | Impale | 4/10 | Barbed | 16GP |
+| War hammer | 1H | 1d8+1 | M | Stun Location | 3/8 | — | 15GP |
+| Whip\*\*\* | 1H | 1d3 | M | Stun Location | 2/8 | Flexible, Entrapping | 10GP |
 
-\* Counts as ½ of a Thing with regards to ENC
+_\* Counts as ½ of a Thing with regards to ENC_
 
-\*\* Counts as 2 'Things' with regards to ENC
+_\*\* Counts as 2 'Things' with regards to ENC_
 
-\*\*\* A whip may not typically be used to Parry. However, if it is currently rolled up and in hand, the Games Master may choose to allow it at Formidable difficulty. Rolling the whip takes 1 Combat Round. Therefore, it is generally impossible to Parry with it in the same round after it has been used.
+_\*\*\* A whip may not typically be used to Parry. However, if it is currently rolled up and in hand, the Games Master may choose to allow it at Formidable difficulty. Rolling the whip takes 1 Combat Round. Therefore, it is generally impossible to Parry with it in the same round after it has been used._
 
 ### Shields
 
 | **Shield** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
 | :-- | :-: | :-: | :-- | :-: | :-- | :-: |
-| Buckler | 1d3 | M | Bash, Stun Location | 6/9 | Ranged Parry; Passive Block 2 locations | 5 GP |
-| Heater\* | 1d4 | L | Bash, Stun Location | 6/12 | Ranged Parry; Passive Block 3 locations | 15 GP |
-| Kite\* | 1d4 | H | Bash, Stun Location | 4/15 | Ranged Parry; Passive Block 4 locations | 30 GP |
-| Round\* | 1d4 | L | Bash, Stun Location | 4/12 | Ranged Parry; Passive Block 4 locations | 30 GP |
-| Target\* | 1d3+1 | L | Bash, Impale | 4/9 | Ranged Parry; Passive Block 3 locations | 15 GP |
-| Tower\* | 1d4 | H | Bash, Stun Location | 4/18 | Ranged Parry; Passive Block 5 locations | 30 GP |
+| Buckler | 1d3 | M | Bash, Stun Location | 6/9 | Ranged Parry; Passive Block 2 locations | 5GP |
+| Heater\* | 1d4 | L | Bash, Stun Location | 6/12 | Ranged Parry; Passive Block 3 locations | 15GP |
+| Kite\* | 1d4 | H | Bash, Stun Location | 4/15 | Ranged Parry; Passive Block 4 locations | 30GP |
+| Round\* | 1d4 | L | Bash, Stun Location | 4/12 | Ranged Parry; Passive Block 4 locations | 30GP |
+| Target\* | 1d3+1 | L | Bash, Impale | 4/9 | Ranged Parry; Passive Block 3 locations | 15GP |
+| Tower\* | 1d4 | H | Bash, Stun Location | 4/18 | Ranged Parry; Passive Block 5 locations | 30GP |
 
-\* Counts as 2 'Things' with regards to ENC
+_\* Counts as 2 'Things' with regards to ENC_
 
 ---
 ## Ranged Weapons
@@ -168,7 +168,7 @@ Ranged weapons have similar characteristics to Melee weapons, although there are
 - **Damage Modifier:**  Not all Ranged Weapons can take advantage of a character's Damage Modifier. A Yes or No entry dictates whether the user's Damage Modifier can be applied.
 - **Force:**  Each Ranged Weapon possesses a force rating equivalent to the 'Size' of close combat weapons. In the case of projectiles, this does not relate to the firing weapon itself, but rather to how much 'impact' its ammunition has. The value is used to determine whether the weapon can overcome any shield which may Parry it. The size categories are Small (S), Medium (M), Large (L), Huge (H), and Enormous (E).
 - **Range:**  This is a measure of the weapon's effectiveness at three distances separated by slashes, representing the maximum Close, Effective, and Long ranges of the weapon or its ammunition. Ranges are expressed in feet. Note that distance penalties to the user's skill are independent of the weapon.
-  - **Close Range** – The distance over which Choose Location may be used as a non-Critical Special Effect, provided the target is stationary or unaware of the impending attack.
+  - **Close Range** – The distance over which Choose Location may be used as a non-Critical special Effect, provided the target is stationary or unaware of the impending attack.
   - **Effective Range** – The distance over which there are no significant modifiers on the weapon's accuracy or power.
   - **Long Range** – The distance over which the weapon can still inflict harm, but the amount of damage is halved, and its Force is reduced by one step.
 - **Load:**  This shows how many Turns are required to load or reload a weapon which fires ammunition.
@@ -186,34 +186,34 @@ Ranged weapons have similar characteristics to Melee weapons, although there are
 
 | **Weapon** | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Crossbow, heavy\*\* | 1d10 | N | H | 60/450/900 | 4 | Impale, Sunder | S | 4/8 | 35 GP |
-| Crossbow, light | 1d8 | N | L | 60/300/600 | 3 | Impale | S | 4/5 | 15 GP |
-| Dagger\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 4/6 | 3 GP |
-| Dart\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 2/1 | 1 GP |
-| Short spear | 1d8 | Y | L | 30/45/90 | — | Impale | M | 4/5 | 2 GP |
-| Sling\* | 1d8 | N | L | 30/450/900 | 3 | Stun Location | — | 1/2 | 5 SP |
+| Crossbow, heavy\*\* | 1d10 | N | H | 60/450/900 | 4 | Impale, Sunder | S | 4/8 | 35GP |
+| Crossbow, light | 1d8 | N | L | 60/300/600 | 3 | Impale | S | 4/5 | 15GP |
+| Dagger\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 4/6 | 3GP |
+| Dart\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 2/1 | 1GP |
+| Short Spear | 1d8 | Y | L | 30/45/90 | — | Impale | M | 4/5 | 2GP |
+| Sling\* | 1d8 | N | L | 30/450/900 | 3 | Stun Location | — | 1/2 | 5SP |
 | Stone or Rock | 1d3 | Y | S | 15/75/150 | — | Stun Location | — | — | — |
 
-\* Counts as ½ of a 'Thing' with regards to ENC
+_\* Counts as ½ of a 'Thing' with regards to ENC_
 
-\*\* Counts as 2 'Things' with regards to ENC
+_\*\* Counts as 2 'Things' with regards to ENC_
 
 ### Martial Ranged Weapons
 
 | **Weapon** | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Bow, long | 1d8 | Y | H | 45/375/750 | 2 | Impale | S | 4/7 | 20 GP |
-| Bow, short | 1d6 | Y | L | 45/300/600 | 2 | Impale | S | 4/4 | 7.5 GP |
-| Bow, composite long | 1d8 | Y | H | 50/400/800 | 2 | Impale | S | 4/8 | 25 GP |
-| Bow, composite short | 1d6 | Y | L | 50/325/650 | 2 | Impale | S | 4/5 | 9 GP |
-| Crossbow, light repeating\*\*\* | 1d8 | N | L | 60/300/600 | — | Impale | S | 4/5 | 75 GP |
-| Hand axe\* | 1d6 | Y | S | 30/60/90 | — | Bleed | — | 4/6 | 2.5 GP |
+| Bow, long | 1d8 | Y | H | 45/375/750 | 2 | Impale | S | 4/7 | 20GP |
+| Bow, short | 1d6 | Y | L | 45/300/600 | 2 | Impale | S | 4/4 | 7.5GP |
+| Bow, composite long | 1d8 | Y | H | 50/400/800 | 2 | Impale | S | 4/8 | 25GP |
+| Bow, composite short | 1d6 | Y | L | 50/325/650 | 2 | Impale | S | 4/5 | 9GP |
+| Crossbow, light repeating\*\*\* | 1d8 | N | L | 60/300/600 | — | Impale | S | 4/5 | 75GP |
+| Hand axe\* | 1d6 | Y | S | 30/60/90 | — | Bleed | — | 4/6 | 2.5GP |
 
-\* Counts as ½ of a 'Thing' with regards to ENC, has the 1H trait
+_\* Counts as ½ of a 'Thing' with regards to ENC, has the 1H trait_
 
-\*\* Counts as 2 'Things' with regards to ENC
+_\*\* Counts as 2 'Things' with regards to ENC_
 
-\*\*\* Counts as 2 'Things' with regards to ENC, has the Dwarf and Repeating traits
+_\*\*\* Counts as 2 'Things' with regards to ENC, has the Dwarf and Repeating traits_
 
 ### Ranged Weapon Ammunition
 
@@ -223,9 +223,9 @@ Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bol
 
 | **Ammo Type** | **Description/Game Effects** | **Cost** |
 | :-- | :-- | :-: |
-| Arrows (20) | — | 5 SP |
-| Crossbow bolts (20) | — | 5 SP |
-| Lead sling bullets (10) | — | 1 SP |
+| Arrows (20) | — | 5SP |
+| Crossbow bolts (20) | — | 5SP |
+| Lead sling bullets (10) | — | 1SP |
 | Sling stone | Stones are easily acquired; however, tend to do one grade less damage and have a reduced range compared to bullets. Range categories are reduced by half | — |
 
 ---
@@ -265,15 +265,15 @@ Every city, as well as most large towns, will have at least one shop dedicated t
 
 | **Magic Item** | **Chance of Availability** | **Description/Game Effects** | **Cost** |
 | :-- | :-- | :-- | :-: |
-| Healing Balm | 100% chance of 1d4+2 | First Aid rolls are 1 grade easier and natural recovery is sped up as well, increasing the character's Healing Rate by 1 in each location it is applied. A single wound may not benefit from more than one application of the balm. Each sample provides enough for 3 separate wounds. | 1 GP |
-| Potion of Dispel Magic | 80% chance of 1d3+1 | Negates one magical effect on the imbiber with an Intensity less than 1d4+1, cumulative. | 50 GP |
-| Potion of Healing | 80% chance of 1d4+2 | Restores 1d6+1 Hit Points to a location suffering a Minor Wound and 1 Hit Point to a Serious Wound. Has no effect on a Major Wound. In addition, it stabilizes all injured locations, stopping all bleeding and preventing imminent death from inattention. | 40 GP |
-| Potion of Greater Healing | 40% chance of 1d2+1 | As for Potion of Healing, however, heals 1d8+2 Hit Points to a Minor or Serious Wound and 2 Hit Points to a Major Wound. If functions in all other ways as a Potion of Healing. | 80 GP |
-| Potion of Magica | 40% chance of 1d2+1 | This potion will restore 1d3+1 previously expended Magic Points. It will not boost a character to more than their normal Magic Point total. Drinking more than one per hour has no additional effect. | 80 GP |
-| Potion of Vigor | 80% chance of 1d4+2 | Restores 1d3+1 levels of Fatigue. Has no effect on Fatigue gained through Blood Loss or Energy Drain. | 50 GP |
-| Rank 0 Spell Scroll | 100% chance of 1d4+1 of each | A scroll containing a Rank 0 Arcane or Divine spell. All Rank 0 spells are typically available. | 10 GP |
-| Rank 1 Spell Scroll | 100% chance of 1d3 of each | A scroll containing a Rank 1 Arcane or Divine spell. All Rank 1 spells are typically available. | 40 GP |
-| Vial of Holy Water | 100% chance of 1d4 | May be thrown up to 10 feet. Undead, demons, devils, and other entities of pure evil, take 1d2 points of damage to 1d3 Hit Locations with an Easy Athletics roll. Holy Water will burn for 1d2 Rounds. Armor will protect against this damage. | 25 GP |
+| Healing Balm | 100% chance of 1d4+2 | First Aid rolls are 1 grade easier and natural recovery is sped up as well, increasing the character's Healing Rate by 1 in each location it is applied. A single wound may not benefit from more than one application of the balm. Each sample provides enough for 3 separate wounds. | 1GP |
+| Potion of Dispel Magic | 80% chance of 1d3+1 | Negates one magical effect on the imbiber with an Intensity less than 1d4+1, cumulative. | 50GP |
+| Potion of Healing | 80% chance of 1d4+2 | Restores 1d6+1 Hit Points to a location suffering a Minor Wound and 1 Hit Point to a Serious Wound. Has no effect on a Major Wound. In addition, it stabilizes all injured locations, stopping all bleeding and preventing imminent death from inattention. | 40GP |
+| Potion of Greater Healing | 40% chance of 1d2+1 | As for Potion of Healing, however, heals 1d8+2 Hit Points to a Minor or Serious Wound and 2 Hit Points to a Major Wound. If functions in all other ways as a Potion of Healing. | 80GP |
+| Potion of Magica | 40% chance of 1d2+1 | This potion will restore 1d3+1 previously expended Magic Points. It will not boost a character to more than their normal Magic Point total. Drinking more than one per hour has no additional effect. | 80GP |
+| Potion of Vigor | 80% chance of 1d4+2 | Restores 1d3+1 levels of Fatigue. Has no effect on Fatigue gained through Blood Loss or Energy Drain. | 50GP |
+| Rank 0 Spell Scroll | 100% chance of 1d4+1 of each | A scroll containing a Rank 0 Arcane or Divine spell. All Rank 0 spells are typically available. | 10GP |
+| Rank 1 Spell Scroll | 100% chance of 1d3 of each | A scroll containing a Rank 1 Arcane or Divine spell. All Rank 1 spells are typically available. | 40GP |
+| Vial of Holy Water | 100% chance of 1d4 | May be thrown up to 10 feet. Undead, demons, devils, and other entities of pure evil, take 1d2 points of damage to 1d3 Hit Locations with an Easy Athletics roll. Holy Water will burn for 1d2 Rounds. Armor will protect against this damage. | 25GP |
 
 ---
 ## Tools
@@ -284,40 +284,40 @@ Tools include all the items any self-respecting adventurer can be expected to ow
 
 | **Item** | **Description/Game Effects** | **Cost** |
 | :-- | :-- | :-: |
-| Backpack | Holds up to 10 Things at no additional weight. | 5 SP |
-| Bedroll | A blanket and cushioned pad for sleeping. Typically, tightly rolled and tied off with cord for easy transport. | 1 SP |
-| Belt Pouch | Holds 1 Thing or 100 coins at no additional weight. | 1 CP |
-| Bottle, Glass/Earthenware | Holds 1 liter (1 quart) of liquid. | 2 SP |
-| Candles, 1 Hour (10) | 5-foot radius. | 1 SP |
-| Candles, 6 Hour (10) | 5-foot radius. | 1 GP |
-| Climbing Kit | Leather harness, pitons, short lengths of rope, and other misc. tools. Climbing rolls one grade easier. | 3 GP |
-| Cooking Pot | For travel. | 3 SP |
-| Craft Tools | Basic tools to match a handicraft. | 8 GP |
-| Crowbar | Any Brawn rolls to force doors, casket lids, and so forth are one grade easier. Counts as a club in combat. | 2.5 GP |
-| First Aid Kit | Useful for 10 applications of First Aid skill. | 2.5 GP |
-| Flint & Tinder | Start fires in about a minute with no Survival roll necessary (counts as ½ a Thing). | 1 SP |
-| Grappling Hook | May be thrown up to half STRx3 feet with a successful Throw roll. | 5 SP |
-| Hammer/Mallet/3 Chisels | Hammers and mallets may be treated as a club in combat, chisels as a knife. | 1 SP |
-| Healer's Kit | Useful for 10 applications of Healing skill. | 15 GP |
-| Holy Symbol | The symbol of one's patron deity. Good quality x10 cost, Excellent x100 (½ a Thing). | 5 SP |
-| Ladder, Rope 10 Feet | Climbing rolls one grade easier. | 2 SP |
-| Lantern, Basic | Burns for 2 hours on one flask of oil, 10-foot radius. | 1 GP |
-| Lock Picks and Thieves' Tools | A small pouch containing tools useful for picking locks and disarming traps. | 8 GP |
-| Mirror (Metal) | Small sturdy hand mirror. | 1 GP |
-| Nails or Tacks (50) | Typical carpentry nails for basic wooden construction. | 2 CP |
-| Oil flask (2) | 2 hours fuel for a lantern. If broken will sustain an open flame for 1 minute. | 1 SP |
-| Sheets of Parchment or Paper (10) | Large sheets of parchment or paper suitable for everything from creating a work of art to mapping a dungeon. | 5 SP |
-| Pole, 10 foot | May be used as a Quarterstaff at 1 grade of difficulty. Size +1 step. Counts as 2 'Things'. | 1 SP |
-| Quills (3) and Ink for Writing | A set of quills and enough ink to fill approximately 20 pages with detailed notes. | 6 GP |
-| Quiver | Holds up to 20 arrows or crossbow bolts. | 2 SP |
-| Rope, Hemp (30 foot) | Holds maximum of 20 SIZ/60 Things. | 1 GP |
-| Sack, Large | Counts as 2 Things. Holds up to 10 Things at no additional weight (size and type permitting). | 5 CP |
-| Sack, Small | Holds up to 3 Things at no additional weight (size and type permitting). | 2 CP |
-| Slingbag/Satchel | Holds up to 6 Things at no additional weight. Due to the shoulder strap, may be easily discarded with a Free Action. | 3 SP |
-| Spell Book, Blank | Per 100 specially prepared pages. | 15 GP |
-| Spell Component Pouch | Generic components for casting spells. Each pouch holds sufficient material to facilitate the casting of spells throughout one adventure or one month of adventuring. | 20 SP |
-| Spikes, Iron (10) | Useful for creating handholds to assist in climbing, securing doors, and numerous other functions. An iron spike can be used as a makeshift. dagger in combat at 1 grade of difficulty and +2 Armor Points and Hit Points. | 1 GP |
-| Torch, 1 hour (2) | 10-foot radius. Treat as club inflicting an extra 1d4 fire damage in combat, has a 10% chance to go out if dropped, 60% chance if thrown. | 8 CP |
-| Torch, 6 hour (2) | As above, longer Duration. | 4 SP |
-| Trail Rations (1 week) | Trail rations consist of food preserved for long life, such as dried and cured meats, cheese, bread (usually unleavened flatbread for ease of transport) and cereals, either nuts or grains. | 7 SP |
-| Waterskin | Holds 2 quarts of liquid, enough water to sustain an adventurer for 2 days in average conditions. | 5 CP |
+| Backpack | Holds up to 10 Things at no additional weight. | 5SP |
+| Bedroll | A blanket and cushioned pad for sleeping. Typically, tightly rolled and tied off with cord for easy transport. | 1SP |
+| Belt Pouch | Holds 1 Thing or 100 coins at no additional weight. | 1CP |
+| Bottle, Glass/Earthenware | Holds 1 liter (1 quart) of liquid. | 2SP |
+| Candles, 1 Hour (10) | 5-foot radius. | 1SP |
+| Candles, 6 Hour (10) | 5-foot radius. | 1GP |
+| Climbing Kit | Leather harness, pitons, short lengths of rope, and other misc. tools. Climbing rolls one grade easier. | 3GP |
+| Cooking Pot | For travel. | 3SP |
+| Craft Tools | Basic tools to match a handicraft. | 8GP |
+| Crowbar | Any Brawn rolls to force doors, casket lids, and so forth are one grade easier. Counts as a club in combat. | 2.5GP |
+| First Aid Kit | Useful for 10 applications of First Aid skill. | 2.5GP |
+| Flint & Tinder | Start fires in about a minute with no Survival roll necessary (counts as ½ a Thing). | 1SP |
+| Grappling Hook | May be thrown up to half STRx3 feet with a successful Throw roll. | 5SP |
+| Hammer/Mallet/3 Chisels | Hammers and mallets may be treated as a club in combat, chisels as a knife. | 1SP |
+| Healer's Kit | Useful for 10 applications of Healing skill. | 15GP |
+| Holy Symbol | The symbol of one's patron deity. Good quality x10 cost, Excellent x100 (½ a Thing). | 5SP |
+| Ladder, Rope 10 Feet | Climbing rolls one grade easier. | 2SP |
+| Lantern, Basic | Burns for 2 hours on one flask of oil, 10-foot radius. | 1GP |
+| Lock Picks and Thieves' Tools | A small pouch containing tools useful for picking locks and disarming traps. | 8GP |
+| Mirror (Metal) | Small sturdy hand mirror. | 1GP |
+| Nails or Tacks (50) | Typical carpentry nails for basic wooden construction. | 2CP |
+| Oil flask (2) | 2 hours fuel for a lantern. If broken will sustain an open flame for 1 minute. | 1SP |
+| Sheets of Parchment or Paper (10) | Large sheets of parchment or paper suitable for everything from creating a work of art to mapping a dungeon. | 5SP |
+| Pole, 10 foot | May be used as a Quarterstaff at 1 grade of difficulty. Size +1 step. Counts as 2 'Things'. | 1SP |
+| Quills (3) and Ink for Writing | A set of quills and enough ink to fill approximately 20 pages with detailed notes. | 6GP |
+| Quiver | Holds up to 20 arrows or crossbow bolts. | 2SP |
+| Rope, Hemp (30 foot) | Holds maximum of 20 SIZ/60 Things. | 1GP |
+| Sack, Large | Counts as 2 Things. Holds up to 10 Things at no additional weight (size and type permitting). | 5CP |
+| Sack, Small | Holds up to 3 Things at no additional weight (size and type permitting). | 2CP |
+| Slingbag/Satchel | Holds up to 6 Things at no additional weight. Due to the shoulder strap, may be easily discarded with a Free Action. | 3SP |
+| Spell Book, Blank | Per 100 specially prepared pages. | 15GP |
+| Spell Component Pouch | Generic components for casting spells. Each pouch holds sufficient material to facilitate the casting of spells throughout one adventure or one month of adventuring. | 20SP |
+| Spikes, Iron (10) | Useful for creating handholds to assist in climbing, securing doors, and numerous other functions. An iron spike can be used as a makeshift. dagger in combat at 1 grade of difficulty and +2 Armor Points and Hit Points. | 1GP |
+| Torch, 1 hour (2) | 10-foot radius. Treat as club inflicting an extra 1d4 fire damage in combat, has a 10% chance to go out if dropped, 60% chance if thrown. | 8CP |
+| Torch, 6 hour (2) | As above, longer Duration. | 4SP |
+| Trail Rations (1 week) | Trail rations consist of food preserved for long life, such as dried and cured meats, cheese, bread (usually unleavened flatbread for ease of transport) and cereals, either nuts or grains. | 7SP |
+| Waterskin | Holds 2 quarts of liquid, enough water to sustain an adventurer for 2 days in average conditions. | 5CP |
