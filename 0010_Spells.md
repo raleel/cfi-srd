@@ -944,7 +944,7 @@ The type of familiar to appear, if any, is determined according to the following
 | 71-75 | Weasel | 1 | 1d3 | +10% Perception (hearing and olfactory only) |
 | 76-00 | No familiar within range | - | - | - |
 
-\* Common Tongue, and the master's racial language if applicable
+_\* Common Tongue, and the master's racial language if applicable._
 
 ## Fireball
 
@@ -1266,11 +1266,11 @@ In addition, non-planar creatures of Evil Alignment suffer additional effects de
 | 3 | 41-60 | Slows 2d4 Rounds \*\*\* | Hard | ½ |
 | 4-5 | 61+ | Deafens 1d4 Rounds | Formidable | ¼ |
 
-\* This category includes characters that do not possess a Class.
+_\* This category includes characters that do not possess a Class._
 
-\*\* All skills, including combat, Resistance rolls, and spell casting.
+_\*\* All skills, including combat, Resistance rolls, and spell casting._
 
-\*\*\* As per the Rank 2 Arcane spell, See Classic Fantasy Imperative page XX.
+_\*\*\* As per the Rank 2 Arcane spell, See Classic Fantasy Imperative page XX._
 
 Creatures that have been previously deafened or are otherwise unable to hear the spell are unaffected by the effects detailed in the table, however, other planar entities are still driven off as detailed above.
 
@@ -1498,7 +1498,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 
 When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a Failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
 
-\*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell Darkness (see page XX) with the exception that it possesses a lesser Duration of 30 minutes per Intensity.
+_\*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell Darkness (see page XX) with the exception that it possesses a lesser Duration of 30 minutes per Intensity._
 
 | **Int** | **Cost** | **Variable Effect** |
 | --- | --- | --- |
@@ -1920,9 +1920,9 @@ Upon successfully casting this spell, one creature of the caster's choice within
 | 4 | 61-80 | 1d3 Rounds |
 | 5 | 81+ | 1 Round |
 
-\* This category includes characters that do not possess a Class.
+_\* This category includes characters that do not possess a Class._
 
-\*\* If only one to three creatures are in the Area of Effect, the effects are permanent until magically treated.
+_\*\* If only one to three creatures are in the Area of Effect, the effects are permanent until magically treated._
 
 ## Power Word - Kill
 
@@ -1943,7 +1943,7 @@ The successful casting of this spell will kill either a single creature of up to
 | 3 | 41-60 | 3 Intensity +3 EXP to Kill |
 | 4-5 | 61+ | No effect |
 
-\* This category includes characters that do not possess a Class.
+_\* This category includes characters that do not possess a Class._
 
 Creatures larger than SIZ 60 are unaffected, as are characters of Rank 4 and up. Unlike the Death Spell, Power Word - Kill will kill anything within the above-mentioned limits, however, it is possible to bring victims back to life through the casting of Wish, Raise Dead, Resurrection, and Reincarnation as normal.
 
@@ -1967,7 +1967,7 @@ Upon successfully casting this spell, one creature of the caster's choice within
 | 4 | 61-80 | 1 Round |
 | 5 | 81+ | Unaffected |
 
-\* This category includes characters that do not possess a Class.
+_\* This category includes characters that do not possess a Class._
 
 ## Protection
 
@@ -2110,7 +2110,7 @@ When reversed, Slay Living, can be used to kill one victim designated by the cle
 | 3 | 41-60 | Easy |
 | 4-5 | 61+ | Very Easy |
 
-\* This category includes characters that do not possess a Class.
+_\* This category includes characters that do not possess a Class._
 
 If the Resistance roll is unsuccessful, the victim is slain outright. A successful roll is treated as per the effects of Cause Serious Wounds. Armor offers no protection from this damage.
 
@@ -2263,7 +2263,7 @@ When reversed, Destruction, may be used to kill one victim in contact with the c
 | 4 | 61-80 | Easy |
 | 5 | 81+ | Very Easy |
 
-\* This category includes characters that do not possess a Class.
+_\* This category includes characters that do not possess a Class._
 
 If this Resistance roll is unsuccessful, the subject is slain outright, their body being turned to dust. Only the casting of Wish will bring the victim back at this stage. On a successful roll, the subject is still reduced to negative 1d4 Hit Points in the touched Hit Location. Armor offers no protection from this damage. Destruction does not age the caster when used.
 
@@ -2623,11 +2623,11 @@ Some example Wishes and the required EXP expenditure follow.
 | Give a Major Wound to a Body Location, bringing it to -1 Hit Point. Abdomen, leg, or arm only. | 1 EXP |
 | Reshape the landscape into any type of terrain the caster can imagine. Each 100-ft cube of material to be reshaped requires 1 Round of effort. | 1 EXP per 100-ft cube of terrain |
 
-\* In addition to any EXP requirement of the duplicated effects.
+_\* In addition to any EXP requirement of the duplicated effects._
 
-\*\* Each successive increase or decrease costs 1 cumulative EXP Roll: 1 EXP for the first, 2 EXP for the second, 3 EXP for the third, 4 EXP for the fourth, and 5 EXP for the fifth. This applies even in the case of a different magic-user casting Wish.
+_\*\* Each successive increase or decrease costs 1 cumulative EXP Roll: 1 EXP for the first, 2 EXP for the second, 3 EXP for the third, 4 EXP for the fourth, and 5 EXP for the fifth. This applies even in the case of a different magic-user casting Wish._
 
-\*\*\* This requires a Willpower vs. Willpower Resistance roll against that of the intended victim. Failure means the Wish still succeeds, though as a twisted interpretation of the wisher's desires. For example, the caster could be transported to the future where the victim is already dead, but so are all the wisher's friends and loved ones.
+_\*\*\* This requires a Willpower vs. Willpower Resistance roll against that of the intended victim. Failure means the Wish still succeeds, though as a twisted interpretation of the wisher's desires. For example, the caster could be transported to the future where the victim is already dead, but so are all the wisher's friends and loved ones._
 
 ## Wizard Sight
 
