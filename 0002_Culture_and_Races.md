@@ -24,7 +24,7 @@ Tribal in nature, barbarians tend to shun civilization, viewing those who live i
 - **Standard Skills:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride
 - **Professional Skills:** Craft. (any), Healing, Language (Any\*), Lore (any), Musicianship, Navigate, Seamanship, Survival, Track
 
-\* Humans are not limited in selection of languages during character creation if they can justify the choice.
+_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
 #### Alignment and Passions
 
@@ -53,7 +53,7 @@ The Civilized culture is epitomized by a semblance of law and order, underpinned
 - **Standard Skills:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower
 - **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
-\* Humans are not limited in selection of languages during character creation if they can justify the choice.
+_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
 ####  Alignment and Passions
 
@@ -80,7 +80,7 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 - **Standard Skills:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel.
 - **Professional Skills:** Craft. (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
 
-\* Humans are not limited in selection of languages during character creation if they can justify the choice.
+_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
 ####  Alignment and Passions
 
@@ -110,7 +110,7 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 - **Standard Skills:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
 - **Professional Skills:** Craft. (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
 
-\* Humans are not limited in selection of languages during character creation if they can justify the choice.
+_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
 ####  Alignment and Passions
 
@@ -155,7 +155,7 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 - **Standard Skills:** Athletics, Brawn, Endurance, Evade, Locale, Perception, Willpower
 - **Professional Skills:** Commerce, Craft. (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
-\* During character creation, additional languages are limited to gnome, goblin, kobold, and orc.
+_\* During character creation, additional languages are limited to gnome, goblin, kobold, and orc._
 
 #### Alignment and Passions
 
@@ -194,7 +194,7 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 - **Standard Skills:** Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
 - **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
-\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll.
+_\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
 
 #### Alignment and Passions
 
@@ -230,7 +230,7 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
 - **Standard Skills:** Deceit, Evade, Insight, Locale, Perception, Stealth, Willpower
 - **Professional Skills:** Commerce, Craft. (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
-\* During character creation, additional languages are limited to dwarf, halfling, goblin, and kobold.
+_\* During character creation, additional languages are limited to dwarf, halfling, goblin, and kobold._
 
 #### Alignment and Passions
 
@@ -242,7 +242,7 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
   - Love (Something Materialistic)
   - Hate (Typically, kobolds and goblins)
 
-\* Either Respectful of nature or Loves nature, not both.
+_\* Either Respectful of nature or Loves nature, not both._
 
 #### Special Rules
 
@@ -268,7 +268,7 @@ Half-elves have no communities of their own but can be found living wherever hum
 - **Standard Skills:** Choose from a human culture or from the following elf skill list: Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
 - **Professional Skills:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
-\* During character creation, if raised by elves, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of language.
+_\* During character creation, if raised by elves, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of language._
 
 #### Alignment and Passions
 
@@ -307,7 +307,7 @@ Like half-elves, half-orcs have no native lands, most often living among orcish 
 - **Standard Skills:** Choose from a human culture or from the following orc skilption; and either Boating, Evade, or Ride.
 - **Professional l list: Athletics, Brawn, Endurance, First Aid, Locale, PerceSkills:** Choose from a human culture or from the following orc skill list: Craft. (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
 
-\* During character creation, if raised by orcs, additional languages are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of languages if you can justify the choice.
+_\* During character creation, if raised by orcs, additional languages are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of languages if you can justify the choice._
 
 #### Alignment and Passions
 
@@ -352,7 +352,7 @@ Halfling culture is akin to Civilized. They live in small communities called shi
 - **Standard Skills:** Dance or Sing, Evade, Insight, Locale, Perception, Stealth, Willpower
 - **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
-\* During character creation, additional languages are limited to dwarf, elf, gnome, goblin, and orc.
+_\* During character creation, additional languages are limited to dwarf, elf, gnome, goblin, and orc._
 
 #### Alignment and Passions
 

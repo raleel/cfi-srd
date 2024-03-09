@@ -193,9 +193,9 @@ Exactly how they are used, and when, is described in the section, [Using Luck Po
 | 13-18 | 3 |
 | Each 6 points | +1 |
 
-\* Humans start with one additional Luck Point over and above that shown above.
+_\* Humans start with one additional Luck Point over and above that shown above._
 
-\*\* All characters gain an additional Luck Point as each new Rank is attained.
+_\*\* All characters gain an additional Luck Point as each new Rank is attained._
 
 #### Magic Points
 
@@ -276,7 +276,7 @@ Note that the basic percentages for some skills will be modified by both culture
 | Unarmed | STR+DEX |
 | Willpower | POW x2 |
 
-\* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans). Each demi-human race may speak the Common Tongue at +40%, in addition to their Native Tongue at +40%, as detailed in their respective write-ups.
+_\* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans). Each demi-human race may speak the Common Tongue at +40%, in addition to their Native Tongue at +40%, as detailed in their respective write-ups._
 
 ---
 ## Step 5: Race/Culture
@@ -316,11 +316,12 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 | Half-Orc (Raised as Human) | Select an appropriate Human Quick Pick |
 | Halfling | Dance or Sing +5, Evade +15, Insight +5, Locale +5, Perception +15, Stealth +15, Willpower +15 | Craft. (any) +10, Musicianship +5, Streetwise +10 |
 
-\* Humans are not limited in the selection of languages during character creation if they can justify the choice.
+_\* Humans are not limited in the selection of languages during character creation if they can justify the choice._
 
-\*\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll.
+_\*\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
 
-### Racial Skill Point Buy
+
+### Racial Skill Point Buy
 
 Optionally, you may spend points to customize a specific character concept. This allows for a more tailored character at the expense of time. When applying Skills perform the following steps:
 
@@ -349,11 +350,11 @@ Choose a Class Quick Pick for an average selection of skills useful to the Class
 | Magic-User | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Language (any) +5; Language (any) or Lore (any) +5; Lore (Alchemy) +10 |
 | Rogue | Athletics +15; Combat Skill (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Language (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; and two of the following at +5: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise |
 
-\* Acquired at the Base Level.
+_\* Acquired at the Base Level._
 
-\*\* Includes a +5 Combat Proficiency bonus.
+_\*\* Includes a +5 Combat Proficiency bonus._
 
-\*\*\* Acquired at the Base Level, +40% bonus applied.
+_\*\*\* Acquired at the Base Level, +40% bonus applied._
 
 ### Class Skill Point Buy
 
@@ -413,9 +414,9 @@ This table may also be used for NPCs, whether built using a Class or a career, a
 | Rank 4 (15-19): _High Level_ | +1d6+10 | 700 | +70 | 105-115 | Any 3 Class Skills at 110% |
 | Rank 5 (20+): _Epic Level_ | +1d6+20 | 900 | +90 | 125-135 | Any 2 Class Skills at 130% |
 
-\* The number in parentheses may be used as a gauge when converting existing characters from Level-Based games.
+_\* The number in parentheses may be used as a gauge when converting existing characters from Level-Based games._
 
-\*\* This is the average skill level of any skills of particular importance to the Class in question.
+_\*\* This is the average skill level of any skills of particular importance to the Class in question._
 
 **Experience Table Notes**
 

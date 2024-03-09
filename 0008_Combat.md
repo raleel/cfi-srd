@@ -533,11 +533,11 @@ As with close combat, situational modifiers may be applied when using Ranged wea
 | Attacker prone\*\*\* | Herculean |
 | Attacker is on unstable ground | Hard |
 
-\* Assumes the thrown weapon or ammunition is vulnerable to crosswinds, and supersedes the normal penalty imposed by the winds on normal skills.
+_\* Assumes the thrown weapon or ammunition is vulnerable to crosswinds, and supersedes the normal penalty imposed by the winds on normal skills._
 
-\*\* Unless targets general location is revealed or known, then treat as Herculean
+_\*\* Unless targets general location is revealed or known, then treat as Herculean._
 
-\*\*\* Penalty can be negated if using a crossbow from a prepared position.
+_\*\*\* Penalty can be negated if using a crossbow from a prepared position._
 
 ### Aiming
 
