@@ -32,7 +32,7 @@ When this spell is cast, the subject is gifted with an invisible field of magica
 | 2 | 4 | 4 Armor Points; Sustained until taking 9 damage from 1 attack |
 | 3 | 5 | 4 Armor Points; Sustained until taking 10 damage from 1 attack |
 | 4 | 6 | 4 Armor Points; Sustained until taking 11 damage from 1 attack |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Astral Spell
@@ -200,7 +200,7 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 | 3 | 5 | 150-ft range; 2d6+2 damage |
 | 4 | 6 | 200-ft range; 2d6+2 damage |
 | 5 | 7 | 250-ft range; 3d6+3 damage |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Change Appearance
@@ -383,7 +383,7 @@ With a successful Evade roll, throwing oneself prone, the victim suffers no dama
 | 3 | 5 | 30 ft long; 2d6+2 damage |
 | 4 | 6 | 40 ft long; 2d6+2 damage |
 | 5 | 7 | 50 ft long; 3d6+3 damage |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Confusion
@@ -420,7 +420,7 @@ Large creatures (SIZ 21-40) are less susceptible to Confusion, with their Resist
 | 3 | 5 | 3 min.; 3d4 creatures (3d3+3 for a cleric) |
 | 4 | 6 | 4 min.; 4d4 creatures (max) (4d3+4 for a cleric) |
 | 5 | 7 | 5 min.; (5d3+5 for a cleric) |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Continual Light
@@ -474,7 +474,7 @@ _The referenced table is not present in Classic Fantasy Imperative so the line h
 | 2 | 4 | 2d6 hr. Duration; 2d4 sq. miles |
 | 3 | 5 | 3d6 hr. Duration; 3d4 sq. miles |
 | 4 | 6 | 4d6 hr. Duration; 4d4 sq. miles |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Coordination
@@ -521,7 +521,7 @@ This spell cures the effects of any mundane or magical disease afflicting the ta
 | 2 | 6 | Cure a POT 60 disease |
 | 3 | 9 | Cure a POT 90 disease |
 | 4 | 12 | Cure a POT 120 disease, lycanthropy |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 The reverse of this spell, Cause Disease, inflicts a magical malady on an enemy. If successful, the caster may choose to inflict any known disease upon the target; however, the Intensity x30 must equal or exceed the Potency of the chosen disease. Once the disease has been successfully inflicted, it functions as per any other disease with regards to resistance, Onset Time, Duration, and so on. The only exception being that early recovery is limited to the casting of either Remove Disease or Cure. The Healing skill has no effects on magically inflicted diseases.
 
@@ -616,7 +616,7 @@ When this spell is cast, the magic-user can create one of the following effects:
 | 2 | 2 | 1d4 lights or 1 shape for 4 min. in a 200 ft. radius |
 | 3 | 3 | 1d4 lights or 1 shape for 6 min. in a 300 ft. radius |
 | 4 | 4 | 1d4 lights or 1 shape for 8 min. in a 400 ft. radius |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Darkness
@@ -637,7 +637,7 @@ This spell creates an area of total magical darkness in a 10-foot radius, blocki
 | 2 | 2 | 20 min.; 60 ft. Range |
 | 3 | 3 | 30 min.; 90 ft. Range |
 | 4 | 4 | 40 min.; 120 ft. Range |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Darkvision
@@ -671,7 +671,7 @@ The successful casting of this spell kills a variable number of creatures SIZ 40
 | 2 | 4 +2 EXP | 60 ft. Range; 2d6 creatures affected |
 | 3 | 5 +2 EXP | 90 ft. Range; 3d6 creatures affected |
 | 4 | 6 +2 EXP | 120 ft. Range; 4d6 creatures affected |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 Casting the spell at sufficient Intensity to equal or exceed the number of potentional targets is desirable, as insufficient points are lost. This spell has no effect on lycanthropes, undead, or other planar creatures. Only a Wish can bring those affected by this spell back from the dead.
 
@@ -968,7 +968,7 @@ Due to this spell's Instant Casting Time, the mage may use Feather Fall reactive
 | 2 | 2 | 2 min.; 60 ft. Range; total affected 40 SIZ; total decent 240 ft |
 | 3 | 3 | 3 min.; 90 ft. Range; total affected 60 SIZ; total decent 360 ft |
 | 4 | 4 | 4 min.; 120 ft. Range; total affected 80 SIZ; total decent 480 ft |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Find Familiar
@@ -1043,7 +1043,7 @@ A Fireball has a chance of igniting flammable materials equal to the damage roll
 | 4 | 6 | 120 ft. Range; 2d6 damage |
 | 5 | 7 | 180 ft. Range; 3d6 damage |
 | 6 | 8 | 240 ft. Range; 3d6 damage |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Fireball, Delayed Blast
@@ -1066,7 +1066,7 @@ With the exceptions noted both above and in the following text, this spell funct
 | 4 | 6 | 200 ft. Range; 2d8 damage |
 | 5 | 7 | 250 ft. Range; 3d8 damage |
 | 6 | 8 | 300 ft. Range; 3d8 damage |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Fire Shield
@@ -1108,7 +1108,7 @@ Flame Strike has a chance of igniting flammable materials equal to the damage ro
 | 3 | 5 | 140-ft range; 2d8 damage |
 | 4 | 6 | 160-ft range; 2d8 damage |
 | 5 | 7 | 180-ft range; 3d8 damage |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Flesh to Stone (Stone to Flesh)
@@ -1144,7 +1144,7 @@ The magic-user may cast this spell to create a shimmering disk of force concentr
 | 2 | 2 | 60 min.; carry 21-40 'Things' |
 | 3 | 3 | 90 min.; carry 41-60 'Things' |
 | 4 | 4 | 120 min.; carry 61-80 'Things' |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Fly
@@ -1165,7 +1165,7 @@ When this spell is cast, the magic-user may grant one creature of up to 10 SIZ p
 | 2 | 4 | 60 min. +1d6x10 min.; 11-20 SIZ |
 | 3 | 5 | 90 min. +1d6x10 min.; 21-30 SIZ |
 | 4 | 6 | 120 min. +1d6x10 min.; 31-40 SIZ |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Free Action
@@ -1218,7 +1218,7 @@ This spell may also be targeted on a specific creature, who will suffer the effe
 | 2 | 4 | 2 Rounds; 60 ft. Range |
 | 3 | 5 | 3 Rounds; 90 ft. Range |
 | 4 | 6 | 4 Rounds; 120 ft. Range |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Gate
@@ -1295,7 +1295,7 @@ One person or creature (to include oneself) per Intensity within the spell's Are
 | 2 | 4 | 6 Rounds; 2 targets |
 | 3 | 5 | 9 Rounds; 3 targets |
 | 4 | 6 | 12 Rounds; 4 targets |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Heal (Harm)
@@ -1331,7 +1331,7 @@ This spell allows the caster to immobilize 1 humanoid creature per Intensity wit
 | 2 | 4 | 4 Rounds; 2 targets |
 | 3 | 5 | 6 Rounds; 3 targets |
 | 4 | 6 | 8 Rounds; 4 targets |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Holy Word (Unholy Word)
@@ -1387,7 +1387,7 @@ Hail Stones (Duration: Instant): This variant of the spell causes large balls of
 | 3 | 5 | 90 ft. Range; 2d10 dmg |
 | 4 | 6 | 120 ft. Range; 2d10 dmg |
 | 5 | 7 | 150 ft. Range; 3d10 dmg |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 Driving Sleet (Duration: 1 Round/Intensity): This variant of the spell creates a driving sleet that whips through a path-like area 60 feet wide, and 120 feet long, blinding those affected. The actual path may be designated by the magic-user when the spell is cast. In addition, the ground in the affected area ices over, slowing the Movement Rate by 50%, and grounding fliers that fail a Formidable Fly skill roll. Those on the ground must succeed at an Athletics roll every Round to resist falling prone, with the roll being two grades harder if moving faster than a walk. A character possessing Acrobatics may substitute that skill if desired. The ice will melt after the spell's Duration expires at a rate determined by the Games Master, dependent upon the ambient temperature; however, even in warm weather it will last a minimum of 10 minutes. Small fires, such as campfires and torches, are automatically extinguished. This spell will negate the effects of the spell Heat Metal.
 
@@ -1450,7 +1450,7 @@ See Illusions and Phantasms in Chapter 9 for more information.
 | 2 | 2 | 100 ft. radius; 200 ft. Range |
 | 3 | 3 | 150 ft. radius; 300 ft. Range |
 | 4 | 4 | 200 ft. radius; 400 ft. Range |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Invisibility
@@ -1585,7 +1585,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 | 2 | 4 | 20 min.; 120 ft. Range; 30 SIZ |
 | 3 | 5 | 30 min.; 180 ft. Range; 40 SIZ |
 | 4 | 6 | 40 min.; 240 ft. Range; 50 SIZ |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Light (Darkness\*)
@@ -1608,7 +1608,7 @@ _\*The Divine version of this spell may be reversed, causing a sphere of utter a
 | 2 | 2 | 40 ft. radius; 2 hours (1 hour reversed) |
 | 3 | 3 | 60 ft. radius; 3 hours (1½  hours reversed) |
 | 4 | 4 | 80 ft. radius; 4 hours (2 hours reversed) |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Lightning Bolt
@@ -1635,7 +1635,7 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 | 4 | 6 | 300 ft. Range; 2d6 damage |
 | 5 | 7 | 350 ft. Range; 3d6 damage |
 | 6 | 8 | 400 ft. Range; 3d6 damage |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Locate Object (Obscure Object)
@@ -1658,7 +1658,7 @@ The reverse of this spell, Obscure Object, conceals one item from detection by m
 | 2 | 2 | 2 min.; 120 ft. radius |
 | 3 | 3 | 3 min.; 180 ft. radius |
 | 4 | 4 | 4 min.; 240 ft. radius |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Mage Lock
@@ -1807,7 +1807,7 @@ This spell allows the caster to cancel the effect of poison or venom afflicting 
 | 2 | 4 | Cure victim of POT 31-60 poison; nullify a poisonous creature of POT 31-60; treat up to 10 lbs. of poisoned solids, or 4 gallons of liquid |
 | 3 | 5 | Cure victim of POT 61-90 poison; nullify a poisonous creature of POT 61-90; treat up to 15 lbs. of poisoned solids, or 6 gallons of liquid |
 | 4 | 6 | Cure victim of POT 91-120 poison; nullify a poisonous creature of POT 91-120; treat up to 20 lbs. of poisoned solids, or 8 gallons of liquid |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 When reversed, Inflict Poison allows the caster to produce a deadly toxin in a victim. This venom is detailed below.
 
@@ -1839,7 +1839,7 @@ This spell allows the caster to part water or other forms of liquid, creating a 
 | 3 | 5 | 30 min.; 180 ft. Range; 100 ft. wide; 30 ft. deep; 360 ft. long |
 | 4 | 6 | 40 min.; 240 ft. Range; 100 ft. wide; 40 ft. deep; 480 ft. long |
 | 5 | 7 | 50 min.; 300 ft. Range; 100 ft. wide; 50 ft. deep; 600 ft. long |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Permanency
@@ -1962,7 +1962,7 @@ All worn and carried equipment magically melds into the new form; however, in so
 | 2 | 4, +1 EXP | 30-foot Range; 6-10 SIZ points of difference |
 | 3 | 5, +1 EXP | 45-foot Range; 11-15 SIZ points of difference |
 | 4 | 6, +1 EXP | 60-foot Range; 16-20 SIZ points of difference |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Polymorph Self
@@ -1987,7 +1987,7 @@ Polymorph is subject to Dispel Magic. In this case, the caster does not benefit 
 | 2 | 4 | 40 min.; 11-20 SIZ points of difference |
 | 3 | 5 | 60 min.; 21-30 SIZ points of difference |
 | 4 | 6 | 80 min.; 31-40 SIZ points of difference |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Power Word - Blind
@@ -2134,7 +2134,7 @@ When cast on someone other than oneself, complete protection from natural cold i
 | 2 | 4 | 30 min.; 24 points of cold protection on self |
 | 3 | 5 | 45 min.; 36 points of cold protection on self |
 | 4 | 6 | 60 min.; 42 points of cold protection on self |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Protection from Evil (Protection from Good)
@@ -2180,7 +2180,7 @@ When cast on someone other than oneself, complete protection from mundane fire i
 | 2 | 4 | 30 min.; 24 points of fire protection on self |
 | 3 | 5 | 45 min.; 36 points of fire protection on self |
 | 4 | 6 | 60 min.; 42 points of fire protection on self |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Protection from Lightning
@@ -2203,7 +2203,7 @@ When cast on someone other than oneself, damage from electrical attacks is reduc
 | 2 | 4 | 30 min.; 24 points of electrical protection on self |
 | 3 | 5 | 45 min.; 36 points of electrical protection on self |
 | 4 | 6 | 60 min.; 42 points of electrical protection on self |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Purify Food and Drink (Contaminate Food and Drink)
@@ -2502,7 +2502,7 @@ While sleeping, affected creatures are helpless and normal noise will not faze t
 | 2 | 4 | 10 min. Duration; 2 creatures |
 | 3 | 5 | 15 min. Duration; 3 creatures |
 | 4 | 6 | 20 min. Duration; 4 creatures |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Slow
@@ -2523,7 +2523,7 @@ This spell allows the caster to halve the normal Movement Rate of one creature. 
 | 2 | 6 | 4 Round Duration; 2 creatures |
 | 3 | 9 | 6 Round Duration; 3 creatures |
 | 4 | 12 | 8 Round Duration; 4 creatures |
-| Continue progression |
+| +1 | +3 | Continue progression |
 
 ---
 ### Slow Poison
@@ -2617,7 +2617,7 @@ Upon casting this spell, a hammer-like force of spiritual energy appears, which 
 | 4 | 6 | 12 Rounds; 120 ft. radius; counts as +3 |
 | 5 | 7 | 15 Rounds; 150 ft. radius; counts as +4 |
 | 6 | 8 | 18 Rounds; 180 ft. radius; counts as +5 max |
-| Continue progression for Rounds and radius |
+| +1 | +1 | Continue progression for Rounds and radius |
 
 ---
 ### Sun Ray
@@ -2713,7 +2713,7 @@ This spell imparts the ability for the caster or others to breathe water through
 | 2 | 4 | 12 hours +1d4 hours total |
 | 3 | 5 | 18 hours +1d4 hours total |
 | 4 | 6 | 24 hours +1d4 hours total |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Web
@@ -2738,7 +2738,7 @@ On the following Turn, the victim may spend an Action Point to attempt to break 
 | 2 | 4 | 40 min.; 60-foot Range; 6 armor, 6 Hit Points |
 | 3 | 5 | 60 min.; 90-foot Range; 6 armor, 9 Hit Points |
 | 4 | 6 | 80 min.; 120-foot Range; 6 armor, 12 Hit Points |
-| Continue progression |
+| +1 | +1 | Continue progression |
 
 ---
 ### Wish
