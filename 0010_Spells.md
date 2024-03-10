@@ -212,7 +212,7 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 | **Cost:** 1/Intensity | **Range:** 0 |
 | **Area:** Caster | **Resist:** N/A |
 
-This spell alters the appearance of the caster to that of any humanoid or person-shaped bipedal form. Height and Weight change is limited to ±5 SIZ, respectively, but within that range, a caster may choose to become fat or thin, tall, or short, or even alter gender. Hair, clothing, and equipment may be changed along with appearance. The caster's facial features may be changed as desired, even to the extent of perfectly imitating another existing person. The spell is subject to disbelief as per other Illusion spells (see page XX). The spell does not alter the caster's scent, and if touched, the caster still feels the same as their original shape and clothing.
+This spell alters the appearance of the caster to that of any humanoid or person-shaped bipedal form. Height and Weight change is limited to ±5 SIZ, respectively, but within that range, a caster may choose to become fat or thin, tall, or short, or even alter gender. Hair, clothing, and equipment may be changed along with appearance. The caster's facial features may be changed as desired, even to the extent of perfectly imitating another existing person. The spell is subject to [disbelief](0009_Magic.md?id=attempting-to-disbelieve) as per other Illusion spells. The spell does not alter the caster's scent, and if touched, the caster still feels the same as their original shape and clothing.
 
 ---
 ## Chant
@@ -244,7 +244,7 @@ When this spell is cast, one living (undead creatures are unaffected) sapient hu
 
 Any hostile act against the subject of the charm by the magic-user or allies breaks the Enchantment. Note: If others challenge the nature of the Charm, the target may also make a Resistance roll, per the Games Master's discretion. The magic-user must be able to speak with the charmed one to give it any sort of complex 'request'; therefore, knowing the target's language can be important, but not required for the basic Enchantment.
 
-After the initial roll to resist, 1 week must pass before the subject can make another Resistance roll. The effects are ongoing until a successful Resistance roll is made. Casting Charm Person at higher levels of Intensity requires a higher Rank mage and has a maximum Duration of 4 weeks. Throughout the Duration of the spell, the caster's Magic Point total is reduced by the number spent to cast the spell, as per Enduring Magic Costs on page XX.
+After the initial roll to resist, 1 week must pass before the subject can make another Resistance roll. The effects are ongoing until a successful Resistance roll is made. Casting Charm Person at higher levels of Intensity requires a higher Rank mage and has a maximum Duration of 4 weeks. Throughout the Duration of the spell, the caster's Magic Point total is reduced by the number spent to cast the spell, as per [Enduring Magic Costs](0009_Magic.md?id=enduring-magic-costs).
 
 | **Intensity** | **Cost** | **Min Rank** | **Variable Effect** |
 | :-: | :-: | :-: | :-- |
@@ -447,7 +447,25 @@ Creatures with an aversion to daylight suffer the normal penalties associated wi
 | **Cost:** 3 +1/Intensity | **Range:** 0 |
 | **Area:** 1d4 square miles/Intensity | **Resist:** N/A |
 
-This spell allows the caster to alter the current weather in a significant and noticeable way. Once cast, another 1d4x10 Minutes must pass for the effects to completely manifest. The caster may alter the Precipitation, Temperature, and Wind by up to plus or minus two grades as detailed on the tables on page XX. The Duration of any change is calculated according to the spell's Duration.
+This spell allows the caster to alter the current weather in a significant and noticeable way. Once cast, another 1d4x10 Minutes must pass for the effects to completely manifest. The Duration of any change is calculated according to the spell's Duration.
+
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+#### Control Weather
+
+_The original text included the following line: "The caster may alter the Precipitation, Temperature, and Wind by up to plus or minus two grades as detailed on the tables on page XX."_
+
+_The referenced table is not present in Classic Fantasy Imperative so the line has been removed._
+
+---
+
+</details>
+
+
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
