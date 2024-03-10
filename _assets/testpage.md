@@ -9,7 +9,7 @@ Links need to be as in the main doc `[title](URL)` - Obsidian links don't work.
 | Spell | Notes |
 | :-- | :-- |
 | [Charm Person](0010_Spells.md?id=charm-person) | Standard internal link format | 
-| ![Dispel Magic](0010_Spells.md?id=dispel-magic) | Standard link but visible here. This might be odd! | 
+ 
 
 
 
