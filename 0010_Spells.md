@@ -156,7 +156,7 @@ This spell causes flames to shoot out from the caster's hands in a 120-degree ar
 
 Worn armor does not protect, but magical Armor Points or a creature's natural armor reduce damage as normal. This powerful spell is balanced by its noticeably short range, meaning, to cast it, the magic-user must be close enough to be in a very disadvantageous position.
 
-Because larger creatures are typically bigger than the spell's Area of Effect, they will tend to have fewer Hit Locations affected. Those of SIZ 21 to 30 take the damage to their head, chest, abdomen, and arms, while those of SIZ 31+ will take the damage to their abdomen and legs. Games Masters should adjust these locations dependent on the target's shape and position relative to the caster. Burning Hands has a chance of igniting flammable materials equal to the damage rolled x5%. See 'Fires' in chapter 7 for additional information.
+Because larger creatures are typically bigger than the spell's Area of Effect, they will tend to have fewer Hit Locations affected. Those of SIZ 21 to 30 take the damage to their head, chest, abdomen, and arms, while those of SIZ 31+ will take the damage to their abdomen and legs. Games Masters should adjust these locations dependent on the target's shape and position relative to the caster. Burning Hands has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
 ## Calm
@@ -190,7 +190,7 @@ Each creature struck takes the damage to a single Hit Location, with worn armor 
 
 With a successful Evade roll, throwing oneself prone, the victim suffers no damage. Someone with the Artful Dodger Ability can Evade without going prone, but a Success in this case only reduces damage by half.
 
-Lightning has a chance of igniting flammable materials equal to the damage rolled x1%. See 'Fires' in chapter 7 for additional information. Lightning may also shatter or destroy inanimate objects from sheer impact.
+Lightning has a chance of igniting flammable materials equal to the damage rolled x1%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information. Lightning may also shatter or destroy inanimate objects from sheer impact.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1032,7 +1032,7 @@ On the first Turn of casting, as the magic-user begins the verbal incantation an
 
 A successful Evade roll, resulting in going prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a success in this case will only reduce damage by half unless they are within 5 feet of the edge of the Area of Effect.
 
-A Fireball has a chance of igniting flammable materials equal to the damage rolled x5%. See 'Fires' on page XX for additional information.
+A Fireball has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1098,7 +1098,7 @@ Melee attacks against the recipient of either variant, whether armed or unarmed,
 
 Upon successfully casting, a column of flame 30 feet in height streaks down from above, scorching an area the cleric designates. The column does 1d8 points of damage for each 2 points of Intensity, or fraction thereof, to all victims in the Area of Effect. Roll the damage once and apply it to each of the target's Hit Locations, with worn armor offering half protection, but magical Armor Points or a creature's natural amour reduce damage as normal. A successful Evade roll, rolling or throwing oneself out of the Area of Effect and ending up prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability can Evade without going prone and is allowed to freely move just outside of the Area of Effect.
 
-Flame Strike has a chance of igniting flammable materials equal to the damage rolled x5%. See 'Fires' on page XX for additional information.
+Flame Strike has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1286,7 +1286,7 @@ Glue cements together two solid, inanimate objects for the Duration of the spell
 | **Cost:** 3+1/additional Intensity | **Range:** 180 ft. |
 | **Area:** 20 ft. Radius, 1 Target/Intensity | **Resist:** N/A |
 
-One person or creature (to include oneself) per Intensity within the spell's Area of Effect receives double the normal Movement Rate and gains a +4 bonus to Initiative for the spell's Duration. In addition, the target may choose 2 Actions per Turn for each Action Point used. This does not increase the rate of spell casting or the Duration of a spell in any way. Therefore, a spellcaster under the effects of Haste will not cast spells any faster, nor benefit from the extra Action in the same Turn that spells are cast. Because of the subject's sped up metabolism, each casting of this spell will age the target 1% of their normal life expectancy, regardless of Duration. For humans, that would be about 1 year. See Aging on page XX for the average life expectancies of the demi-human races. The casting of Haste will cancel out the effects of Slow, and in this case, will not age the individual. Haste does not stack with itself or similar magical effects.
+One person or creature (to include oneself) per Intensity within the spell's Area of Effect receives double the normal Movement Rate and gains a +4 bonus to Initiative for the spell's Duration. In addition, the target may choose 2 Actions per Turn for each Action Point used. This does not increase the rate of spell casting or the Duration of a spell in any way. Therefore, a spellcaster under the effects of Haste will not cast spells any faster, nor benefit from the extra Action in the same Turn that spells are cast. Because of the subject's sped up metabolism, each casting of this spell will age the target 1% of their normal life expectancy, regardless of Duration. For humans, that would be about 1 year. See the [Aging](0007_Game_System.md?id=aging) rules for the average life expectancies of the demi-human races. The casting of Haste will cancel out the effects of Slow, and in this case, will not age the individual. Haste does not stack with itself or similar magical effects.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1318,7 +1318,7 @@ When reversed, Harm inflicts 12 points of magical injury to one of the victim's 
 
 | **Rank:** Cleric 2, Mage 2 | **Casting Time:** 2 Actions |
 | :-- | :-- |
-| **Sphere:** XX | **Duration:** 2 Rounds/Intensity |
+| **Sphere:** Charm | **Duration:** 2 Rounds/Intensity |
 | **Cost:** 3+1/additional Intensity | **Range:** 360 ft. |
 | **Area:** 20 ft. Radius | **Resist:** Willpower |
 
@@ -1358,7 +1358,7 @@ _\* This category includes characters that do not possess a Class._
 
 _\*\* All skills, including combat, Resistance rolls, and spell casting._
 
-_\*\*\* As per the Rank 2 Arcane spell, See Classic Fantasy Imperative page XX._
+_\*\*\* As per the Rank 2 Arcane spell, [Slow](0010_Spells.md?id=slow)._
 
 Creatures that have been previously deafened or are otherwise unable to hear the spell are unaffected by the effects detailed in the table, however, other planar entities are still driven off as detailed above.
 
@@ -1464,7 +1464,7 @@ See Illusions and Phantasms in Chapter 9 for more information.
 
 When this spell is cast, the subject and any carried gear disappears, invisible to all forms of normal vision. This does not, however, render the individual undetectable by other means such as hearing, touch, smell, and so on, or by natural Abilities such as Life Sense or Sonar.
 
-Those under the effects of Invisibility remain so throughout the spell's Duration (max. 24 hours), unless dispelled or the subject makes an attack, in which case the spell is nullified, and the individual reappears _after_ the attack. The target would be considered under the effects of Surprise (see page XX). No other actions negatively affect the Duration of the spell, allowing the subject to open doors, talk, climb, run, pick a pocket, and so forth. Even the casting of spells will not end the Duration unless they negatively affect one or more specific enemies in combat. Many of the previously mentioned actions could allow other means of detection, such as a possible Perception check to hear someone running past, or to feel a pocket being picked. The Games Master will assign penalties or bonuses to those attempting the detection according to how noticeable it is.
+Those under the effects of Invisibility remain so throughout the spell's Duration (max. 24 hours), unless dispelled or the subject makes an attack, in which case the spell is nullified, and the individual reappears _after_ the attack. The target would be considered under the effects of [Surprise](0008_Combat.md?id=surprise). No other actions negatively affect the Duration of the spell, allowing the subject to open doors, talk, climb, run, pick a pocket, and so forth. Even the casting of spells will not end the Duration unless they negatively affect one or more specific enemies in combat. Many of the previously mentioned actions could allow other means of detection, such as a possible Perception check to hear someone running past, or to feel a pocket being picked. The Games Master will assign penalties or bonuses to those attempting the detection according to how noticeable it is.
 
 ---
 ## Invisibility, 10 ft. Radius
@@ -1599,7 +1599,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 
 When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a Failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
 
-_\*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell Darkness (see page XX) with the exception that it possesses a lesser Duration of 30 minutes per Intensity._
+_\*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell [Darkness](0010_Spells.md?id=darkness) with the exception that it possesses a lesser Duration of 30 minutes per Intensity._
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1624,7 +1624,7 @@ As the magic-user begins the verbal incantation and gestures on the first Turn o
 
 A successful Evade roll, resulting in throwing oneself prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half, unless they are within 5 feet of the edge of the Area of Effect.
 
-Lightning has a chance of igniting flammable materials equal to the damage rolled x1%. See 'Fires' in chapter 7 for additional information. Lightning may also shatter or destroy inanimate objects from sheer impact.
+Lightning has a chance of igniting flammable materials equal to the damage rolled x1%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information. Lightning may also shatter or destroy inanimate objects from sheer impact.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1759,7 +1759,7 @@ A successful Evade roll allows the victim to suffer no damage. Someone with the 
 
 Everyone, including those outside the Area of Effect but within 60 feet of an impact point, are required to succeed at an Athletics roll to remain standing.
 
-Meteor Shower has a chance of igniting flammable materials equal to the damage rolled x5%. See 'Fires' on page XX for additional information.
+Meteor Shower has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
 ## Might
@@ -2394,7 +2394,7 @@ Resurrection raises any creature dead for no more than 20 years per level of Int
 
 If the subject's Alignment was anything other than evil, they can resist the spell with an Opposed Willpower roll and, if successful, negate the effects. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. However, the Games Master may decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live. In the case of evil souls, who would gladly return instead of suffering eternal damnation, it isn't the deceased's Willpower that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, the subject has been successfully resurrected, while a Failed roll results in the victim being either unwilling or unable to return.
 
-Resurrection is very draining, Aging the cleric 3% of their typical lifespan (3 years in the case of a human caster). See Aging, page XX.
+Resurrection is very draining, Aging the cleric 3% of their typical lifespan (3 years in the case of a human caster). See the rules for [Aging](0007_Game_System.md?id=aging).
 
 When reversed, Destruction, may be used to kill one victim in contact with the cleric at the time of the casting. This victim is allowed a Willpower roll to resist, modified by the target's Rank or SIZ, whichever gives the victim the more beneficial result, as detailed on the following table.
 
@@ -2691,7 +2691,7 @@ Wall of Fire: This version of the spell creates a stationary wall of fire 20 ft.
 
 Circle of Fire: This version of the spell creates a circle of fire around the caster that moves with them. It has a radius of 10 ft., plus another 5 ft. per additional Intensity beyond the first. Regardless of final Intensity the circle has a height of 10 to 20 ft. as desired when cast. Circle of Fire must encircle the caster and has a Range of 0.
 
-The side of the wall or circle facing away from the caster emits scorching heat, causing 1d6 damage per Round to all within 10 ft., and 1d4 damage out to 20 ft. This damage is typically applied at the end of the Round before proceeding to the next. Where a victim occupies both heat zones in a single Round, the greater damage applies. Those leaping through the flame are subjected to 2d6 points of damage, plus an additional point of damage per Intensity beyond the first. This damage is applied to each Hit Location and worn armor offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. A successful Evade Resistance roll allows the victim to suffer no damage on the Round the spell springs into being, as the victim attempts to dive away from the heat or past the flames. Fire-using creatures take half this damage and cold-using creatures double. The flames have a chance of igniting flammable materials equal to the damage rolled x5%. See 'Fires' on page XX for additional information.
+The side of the wall or circle facing away from the caster emits scorching heat, causing 1d6 damage per Round to all within 10 ft., and 1d4 damage out to 20 ft. This damage is typically applied at the end of the Round before proceeding to the next. Where a victim occupies both heat zones in a single Round, the greater damage applies. Those leaping through the flame are subjected to 2d6 points of damage, plus an additional point of damage per Intensity beyond the first. This damage is applied to each Hit Location and worn armor offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. A successful Evade Resistance roll allows the victim to suffer no damage on the Round the spell springs into being, as the victim attempts to dive away from the heat or past the flames. Fire-using creatures take half this damage and cold-using creatures double. The flames have a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
 ## Water Breathing (Air Breathing)
@@ -2727,7 +2727,7 @@ This spell imparts the ability for the caster or others to breathe water through
 
 This spell causes long strands of sticky webbing to shoot from the caster's hand, which may be anchored floor to ceiling, or wall to wall, to block a passage or impede progress. It may also be sprayed directly onto opponents to entangle them.
 
-Assuming the target has room to escape the webs, a successful Evade roll places the target outside the Area of Effect; however, this requires an Action Point to be available. A Failed resistance roll leaves the victim immobilized, and 1d3 Hit Locations entangled. Like the Entangle Special Effect (see page XX), a webbed location is unusable. An entangled arm cannot use whatever it is holding, a snared chest, abdomen, or leg makes all physical skill rolls one grade harder (Except Brawn rolls used to try to break free), and an enmeshed head causes suffocation as detailed under Asphyxiation on page XX.
+Assuming the target has room to escape the webs, a successful Evade roll places the target outside the Area of Effect; however, this requires an Action Point to be available. A Failed resistance roll leaves the victim immobilized, and 1d3 Hit Locations entangled. Like the [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) Special Effect, a webbed location is unusable. An entangled arm cannot use whatever it is holding, a snared chest, abdomen, or leg makes all physical skill rolls one grade harder (Except Brawn rolls used to try to break free), and an enmeshed head causes suffocation as detailed under [Asphyxiation](0007_Game_System.md?id=asphyxiation).
 
 On the following Turn, the victim may spend an Action Point to attempt to break free of the webbing. Magic webbing is incredibly strong and sticky, possessing 6 Armor Points and Hit Points equal to 3x the spell's Intensity. Attempting to break free requires the victim to win an Opposed Roll of Brawn against the web's Stickiness (equal to the caster's Arcane Casting skill). If this fails, the target remains fastened, unable to break free by strength alone. Attempting to cut free exposes the tool or weapon used to the same process. Despite popular belief, webs are not flammable, but a character might slowly burn a way through a web by using a flame to shrivel the strands (fire damage ignores the Web's Armor Points).
 
@@ -2750,7 +2750,7 @@ On the following Turn, the victim may spend an Action Point to attempt to break 
 | **Cost:** 3, +1 or more EXP | **Range:** Unlimited |
 | **Area:** See Below | **Resist:** See Below |
 
-Wish can change reality in a permanent and significant way. To cast this spell, the magic-user must spend 3 Magic Points and 1 or more EXP rolls depending on the desired results. Each successive casting of Wish in a 1-Month span doubles the expenditure of EXP required normally. The Casting Time is typically required to verbally detail the specifics of the Wish. Upon completion, the caster suffers a loss of Fatigue equal to the EXP expended and ages 5% of their normal life expectancy (for humans, that would be five years). See Age on page XX for the average life expectancies of the demi-human races.
+Wish can change reality in a permanent and significant way. To cast this spell, the magic-user must spend 3 Magic Points and 1 or more EXP rolls depending on the desired results. Each successive casting of Wish in a 1-Month span doubles the expenditure of EXP required normally. The Casting Time is typically required to verbally detail the specifics of the Wish. Upon completion, the caster suffers a loss of Fatigue equal to the EXP expended and ages 5% of their normal life expectancy (for humans, that would be five years). See [Aging](0007_Game_System.md?id=aging) for the average life expectancies of the demi-human races.
 
 The results of a Wish should be taken literally and are open to interpretation by the Games Master. Greedy desires typically end badly. There is a 10% chance that a Wish made with greedy intentions backfires in some way. For example, wishing for wealth could teleport it from the treasure vaults of the local lord or king. A Wish cannot cancel decrees of deity-like entities unless such a being issued said Wish.
 
