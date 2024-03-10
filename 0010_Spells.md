@@ -58,7 +58,7 @@ This spell allows the caster and up to five others (one per additional level of 
 | **Cost:** 3/Intensity | **Range:** 60 ft; |
 | **Area:** Caster | **Resist:** N/A |
 
-This spell allows the caster to determine whether a specific action to be taken within the next 30 minutes will be beneficial or detrimental to an individual and/or party's wellbeing. A focal point of some type is required to discern the omens, the most common being the claws or smaller bones of a dragon, a pearl, or pure gold valued at no less than 100 GP in value, which has been crushed or melted down. The spell has a Maximum Intensity of 4. This roll should be made by the Games Master, as the caster should never know beyond a shadow of a doubt whether the results were interpreted correctly.
+This spell allows the caster to determine whether a specific action to be taken within the next 30 minutes will be beneficial or detrimental to an individual and/or party's wellbeing. A focal point of some type is required to discern the omens, the most common being the claws or smaller bones of a dragon, a pearl, or pure gold valued at no less than 100GP in value, which has been crushed or melted down. The spell has a Maximum Intensity of 4. This roll should be made by the Games Master, as the caster should never know beyond a shadow of a doubt whether the results were interpreted correctly.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -69,8 +69,9 @@ This spell allows the caster to determine whether a specific action to be taken 
 
 If the divination roll succeeds, it grants one of the following results:
 
-| Yes | The action will be beneficial |
+| Augury | Implication | 
 | :-: | :-- |
+| Yes | The action will be beneficial |
 | No | The action will be harmful |
 | Yes and No | The action will be both beneficial and harmful |
 | Nothing | The action will be neither beneficial nor harmful |
@@ -182,7 +183,7 @@ Calm attempts to dampen down the Passions of a SIZ 1-20 humanoid target, perhaps
 | **Cost:** 3+1/additional Intensity | **Range:** 50 ft./Intensity |
 | **Area:** See Below | **Resist:** Evade |
 
-Upon casting, the magic-use releases a five-foot-wide bolt of electricity from their fingertips that can strike one target within range for 1d6+1 points of damage per 2 Intensity. The bolt then arcs to the next nearest object or creature, which takes the damage previously rolled minus 1 point, and then arcs to the next nearest, inflicting the damage rolled minus 2 points, and so on. It could even arc back to an ally or the caster! While the initial target must be visible to the caster, targets hit by an arcing bolt do not have to be.
+Upon casting, the mage releases a five-foot-wide bolt of electricity from their fingertips that can strike one target within range for 1d6+1 points of damage per 2 Intensity. The bolt then arcs to the next nearest object or creature, which takes the damage previously rolled minus 1 point, and then arcs to the next nearest, inflicting the damage rolled minus 2 points, and so on. It could even arc back to an ally or the caster! While the initial target must be visible to the caster, targets hit by an arcing bolt do not have to be.
 
 Each arc has its own 50-foot range, which may place the bolt beyond the original range when the spell was cast. Chain Lightning continues to strike if it has damage remaining until it strikes an object that causes it to ground (a metal cage or bars, large pool of water, and so on) or there are no more objects or creatures available to strike.
 
@@ -238,13 +239,13 @@ The Chant must be maintained throughout the spell's Duration or the effects end.
 | :-- | :-- |
 | **Sphere:** None | **Duration:** 1 Week/Intensity |
 | **Cost:** 3+1/additional Intensity | **Range:** 360 ft |
-| **Area:** 1 1 living human, demi-human, or humanoid | **Resist:** Willpower |
+| **Area:** 1 living human, demi-human, or humanoid | **Resist:** Willpower |
 
-When this spell is cast, one living (undead creatures are unaffected) sapient humanoid target of SIZ 1-20 will cease all hostilities against the magic-user and the magic-user's allies, and instead offer to help and protect them if the target Fails a Resistance roll. Note that helping/protecting can have an unintended or even negative effect for the caster, as the subject acts based on what it feels is the best course of action to protect/help. With regards to commands, a target will never obey suicidal or obviously harmful actions but might be convinced that something extremely dangerous is worth doing.
+When this spell is cast, one living (undead creatures are unaffected) sapient humanoid target of SIZ 1-20 will cease all hostilities against the magic-user and the magic-user's allies, and instead offer to help and protect them if the target fails a Resistance roll. Note that helping/protecting can have an unintended or even negative effect for the caster, as the subject acts based on what it feels is the best course of action to protect/help. With regards to commands, a target will never obey suicidal or obviously harmful actions but might be convinced that something extremely dangerous is worth doing.
 
 Any hostile act against the subject of the charm by the magic-user or allies breaks the Enchantment. Note: If others challenge the nature of the Charm, the target may also make a Resistance roll, per the Games Master's discretion. The magic-user must be able to speak with the charmed one to give it any sort of complex 'request'; therefore, knowing the target's language can be important, but not required for the basic Enchantment.
 
-After the initial roll to resist, 1 week must pass before the subject can make another Resistance roll. The effects are ongoing until a successful Resistance roll is made. Casting Charm Person at higher levels of Intensity requires a higher Rank mage and has a maximum Duration of 4 weeks. Throughout the Duration of the spell, the caster's Magic Point total is reduced by the number spent to cast the spell, as per [Enduring Magic Costs](0009_Magic.md?id=enduring-magic-costs).
+After the initial roll to resist, 1 week must pass before the subject can make another Resistance roll. The effects are ongoing until a successful Resistance roll is made. Casting Charm Person at higher levels of Intensity requires a higher Rank mage and has a maximum Duration of 4 weeks. Throughout the Duration of the spell, the caster's Magic Point total is reduced by the number spent to cast the spell, as per the [Enduring Magic Costs](0009_Magic.md?id=enduring-magic-costs) rules.
 
 | **Intensity** | **Cost** | **Min Rank** | **Variable Effect** |
 | :-: | :-: | :-: | :-- |
@@ -264,7 +265,7 @@ After the initial roll to resist, 1 week must pass before the subject can make a
 | **Cost:** 3/Intensity | **Range:** 40 ft./Intensity |
 | **Area:** 20 ft. Radius/Intensity | **Resist:** Willpower |
 
-With the exceptions noted above, this spell functions like the spells Charm Person and Charm Monster. This most powerful of Charm spells has a chance to enthrall all creatures within the Area of Effect of any SIZ. Human-sized and smaller (SIZ 1-20) find their rolls to resist Hard; Large creatures (SIZ 21-40) must make their Resistance rolls at Standard Difficulty, and the resistance roll for Huge creatures (SIZ 41+) is Easy.
+With the exceptions noted above, this spell functions like the spells [Charm Person](0010_Spells.md?id=charm-person) and Charm Monster. This most powerful of Charm spells has a chance to enthrall all creatures within the Area of Effect of any SIZ. Human-sized and smaller (SIZ 1-20) find their rolls to resist Hard; Large creatures (SIZ 21-40) must make their Resistance rolls at Standard Difficulty, and the resistance roll for Huge creatures (SIZ 41+) is Easy.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -284,7 +285,7 @@ With the exceptions noted above, this spell functions like the spells Charm Pers
 | **Cost:** 3+1/additional Intensity | **Range:** 180 ft |
 | **Area:** 20 ft. Radius | **Resist:** Willpower |
 
-This is an improved version of the spell Charm Person in that it will enthrall all living creatures of SIZ 20 or less within the Area of Effect, or 1 creature of any SIZ. Large creatures (SIZ 21-40) are more difficult to charm, with their resistance roll being Easy, and the resistance roll for Huge creatures (SIZ 41+) is Very Easy. The spell functions in all other ways as per Charm Person.
+This is an improved version of the spell [Charm Person](0010_Spells.md?id=charm-person) in that it will enthrall all living creatures of SIZ 20 or less within the Area of Effect, or 1 creature of any SIZ. Large creatures (SIZ 21-40) are more difficult to charm, with their resistance roll being Easy, and the resistance roll for Huge creatures (SIZ 41+) is Very Easy. The spell functions in all other ways as per Charm Person.
 
 | **Intensity** | **Cost** | **Min Rank** | **Variable Effect** |
 | :-: | :-: | :-- | :-- |
@@ -395,7 +396,7 @@ With a successful Evade roll, throwing oneself prone, the victim suffers no dama
 | **Cost:** 3+1/additional Intensity | **Range:** 120 ft. (Cleric version 250 ft) |
 | **Area:** 30 ft. Radius | **Resist:** Willpower (Cleric version is Hard Willpower) |
 
-When this spell is cast, 1d4 creatures of SIZ 1-20 within the area of effect that Fail their Resistance roll will be struck with a magical confusion. Each additional level of Intensity will affect another 1d4 creatures to a maximum of 4d4. The cleric version affects 1d3+1 per Intensity and has no Maximum. Those within the Area of Effect and closest to the caster are affected first. A successful Resistance roll overcomes the spell, while a Failed roll results in the victim suffering from one of the following random effects, roll every Round for the spell's Duration, or until the victim wanders off.
+When this spell is cast, 1d4 creatures of SIZ 1-20 within the area of effect that fail their Resistance roll will be struck with a magical confusion. Each additional level of Intensity will affect another 1d4 creatures to a maximum of 4d4. The cleric version affects 1d3+1 per Intensity and has no Maximum. Those within the Area of Effect and closest to the caster are affected first. A successful Resistance roll overcomes the spell, while a failed roll results in the victim suffering from one of the following random effects, roll every Round for the spell's Duration, or until the victim wanders off.
 
 | **D100** | **Effects of Confusion** |
 | :-: | :-- |
@@ -432,9 +433,9 @@ Large creatures (SIZ 21-40) are less susceptible to Confusion, with their Resist
 | **Cost:** 3 | **Range:** 180 ft. |
 | **Area:** 60 ft. Radius | **Resist:** See Below |
 
-This spell creates a globe of light equivalent in brightness to full daylight at a spot of the caster's choosing, which may be an object or even in thin air. It is semi-permanent and may be temporarily negated by entering an area of magical darkness. However, it may be permanently dismissed by the caster at any time or negated by a casting of Darkness or Dispel Magic at an Intensity greater than the Magnitude of Continual Light.
+This spell creates a globe of light equivalent in brightness to full daylight at a spot of the caster's choosing, which may be an object or even in thin air. It is semi-permanent and is only temporarily negated by entering an area of magical darkness. However, it may be permanently dismissed by the caster at any time or negated by a casting of Darkness or Dispel Magic at an Intensity greater than the Magnitude of Continual Light.
 
-Creatures with an aversion to daylight suffer the normal penalties associated with it when within the relevant Area of Effect. If cast upon a creature, the target is allowed a Willpower test to resist with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If centered upon a creature's eyes, a Failed Willpower roll results in partial blindness, increasing the difficulty of all skill and Resistance rolls requiring sight by one grade. Sight may only be restored by casting Cure Blindness and Deafness at any Intensity, or by casting Dispel Magic at an Intensity greater than the Magnitude of Continual Light. The effects of the spell are immobile but can be cast on a portable or movable object.
+Creatures with an aversion to daylight suffer the normal penalties associated with it when within the relevant Area of Effect. If cast upon a creature, the target is allowed a Willpower test to resist with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If centered upon a creature's eyes, a failed Willpower roll results in partial blindness, increasing the difficulty of all skill and Resistance rolls requiring sight by one grade. Sight may only be restored by casting Cure Blindness and Deafness at any Intensity, or by casting Dispel Magic at an Intensity greater than the Magnitude of Continual Light. The effects of the spell are immobile but can be cast on a portable or movable object.
 
 ---
 ### Control Weather
@@ -674,7 +675,7 @@ The successful casting of this spell kills a variable number of creatures SIZ 40
 
 Casting the spell at sufficient Intensity to equal or exceed the number of potentional targets is desirable, as insufficient points are lost. This spell has no effect on lycanthropes, undead, or other planar creatures. Only a Wish can bring those affected by this spell back from the dead.
 
-_Example: Rengarth casts the Death Spell into an area occupied by four SIZ 16 orcs and two SIZ 32 hill giants, choosing an Intensity of 3. Rolling 3d6 for the spell's effects, with 1d6 per Intensity, results in 12 points. While each hill giant requires only 5 points to be killed, the smaller orcs are the first affected. Three of the four orcs Fail their Resistance roll and succumb to death. As each orc is equal to 1 point, 8 points remain. This is enough to affect a single hill giant for 5 points, with the remaining 3 points being lost. However, the angry hill giant has no problem succeeding at its Easy Resistance roll and charges at Rengarth._
+_Example: Rengarth casts the Death Spell into an area occupied by four SIZ 16 orcs and two SIZ 32 hill giants, choosing an Intensity of 3. Rolling 3d6 for the spell's effects, with 1d6 per Intensity, results in 12 points. While each hill giant requires only 5 points to be killed, the smaller orcs are the first affected. Three of the four orcs fail their Resistance roll and succumb to death. As each orc is equal to 1 point, 8 points remain. This is enough to affect a single hill giant for 5 points, with the remaining 3 points being lost. However, the angry hill giant has no problem succeeding at its Easy Resistance roll and charges at Rengarth._
 
 ---
 ### Deflect
@@ -867,7 +868,7 @@ Earthquake causes a ground tremor capable of knocking people from their feet and
 | **Cost:** 3 + See Below | **Range:** Touch |
 | **Area:** 1 Item | **Resist:** N/A |
 
-The casting of this spell prepares an item for Enchantment. The object must be in good condition and of the finest construction and workmanship. An additional cost of at least 100 GP is required to cover the cost of additional tooling, carving, embroidery, bejeweling, engraving, and so. Finally, the Enchantment process requires a laboratory or workshop.
+The casting of this spell prepares an item for Enchantment. The object must be in good condition and of the finest construction and workmanship. An additional cost of at least 100GP is required to cover the cost of additional tooling, carving, embroidery, bejeweling, engraving, and so. Finally, the Enchantment process requires a laboratory or workshop.
 
 While casting the spell, the magic-user must be touching the item throughout the entire Casting Time of 1d8+2 days. This accounts for periods of rest and sleep, during which time the item must remain within an arm's length of the caster. At no time throughout the casting may the magic-user cast another spell or perform any other form of magic. Breaking any of these strictures will automatically cause the spell to fail.
 
@@ -914,7 +915,7 @@ This spell allows the caster to protect one creature from normal extremes of hea
 | **Cost:** 3 | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** Endurance |
 
-When cast, this spell imposes two levels of permanent Fatigue loss on the victim of a Failed Resistance roll. Fatigue loss through Energy Drain is cumulative with normal Fatigue loss; therefore, opponents already weakened through combat or travel are more susceptible to Energy Drain. Cure Fatigue spells and potions do not affect Fatigue lost due to Energy Drain; however, Restoration spells and scrolls can permanently cure the lost Fatigue. Armor has no effect on Energy Drain.
+When cast, this spell imposes two levels of permanent Fatigue loss on the victim of a failed Resistance roll. Fatigue loss through Energy Drain is cumulative with normal Fatigue loss; therefore, opponents already weakened through combat or travel are more susceptible to Energy Drain. Cure Fatigue spells and potions do not affect Fatigue lost due to Energy Drain; however, Restoration spells and scrolls can permanently cure the lost Fatigue. Armor has no effect on Energy Drain.
 
 ---
 ### Exorcism
@@ -940,7 +941,7 @@ By means of this spell, clerics call upon their deity to drive out a spirit or o
 | **Cost:** 3+1/additional Intensity | **Range:** 0 |
 | **Area:** 5 ft. x 20 ft. Cone | **Resist:** Willpower |
 
-When this spell is cast, a wave of terror expands outward, causing all those who Fail a Resistance roll to flee in fear. Those so affected flee directly away from the caster at sprinting speed for a number of Rounds equal to the spell's Intensity x2. This terror is so all-consuming that those opponents who Fumble the roll to resist drop any held items that are not secured in some fashion. Large creatures (SIZ 21-40) are less susceptible to this spell with the Resistance roll being Easy, and the Resistance roll for Huge creatures (SIZ 41+) is Very Easy.
+When this spell is cast, a wave of terror expands outward, causing all those who fail a Resistance roll to flee in fear. Those so affected flee directly away from the caster at sprinting speed for a number of Rounds equal to the spell's Intensity x2. This terror is so all-consuming that those opponents who Fumble the roll to resist drop any held items that are not secured in some fashion. Large creatures (SIZ 21-40) are less susceptible to this spell with the Resistance roll being Easy, and the Resistance roll for Huge creatures (SIZ 41+) is Very Easy.
 
 ---
 ### Feather Fall
@@ -955,7 +956,7 @@ When this spell is cast, a wave of terror expands outward, causing all those who
 
 When this spell is cast, several people, creatures, or objects within the spell's Area of Effect, with a combined SIZ totaling no more than 20 per Intensity, are reduced in weight to that of a feather. Those under the spell's influence fall no faster than 10 ft. per Round/120 ft. per minute, with no falling damage incurred while the spell's Duration continues. They are so light as to be effectively immune to any knockback greater than 5 ft. and take no damage if knocked into anything, as they simply float slowly backward.
 
-Casting this spell on an aerial creature such as a bird or dragon changes its flight dynamic in such a way that Hard Fly rolls are required every Round of the spell's Duration if they wish to remain aloft. On a success, the creature may move as desired, but at only half its normal Movement Rate, while a Failed roll causes the creature's attempt to send it gently tumbling out of control in a random direction at a distance equal to its attempted rate of movement. If it simply lets itself fall, an aerial creature may use its wings to adjust its point of landing by 5 ft. per Round.
+Casting this spell on an aerial creature such as a bird or dragon changes its flight dynamic in such a way that Hard Fly rolls are required every Round of the spell's Duration if they wish to remain aloft. On a success, the creature may move as desired, but at only half its normal Movement Rate, while a failed roll causes the creature's attempt to send it gently tumbling out of control in a random direction at a distance equal to its attempted rate of movement. If it simply lets itself fall, an aerial creature may use its wings to adjust its point of landing by 5 ft. per Round.
 
 If the spell wears off before those affected have landed, they resume normal falling speed and determine falling damage from that point.
 
@@ -982,7 +983,7 @@ Due to this spell's Instant Casting Time, the mage may use Feather Fall reactive
 
 This spell allows the caster to attempt to summon a familiar, which becomes an extension of its master's senses and power. Familiars may converse with their master telepathically and make good guards and scouts as well. Having one's familiar killed presents certain risks to the magic-user due to their close connection, which makes having a familiar a low-rank danger.
 
-To summon a familiar, the magic-user must begin the ritual while keeping a brazier stoked with charcoal, and when burning with intensity, add 100 GP worth of incense. With these ingredients burning, the caster must then continue the ritual until the familiar arrives or the Casting Time expires without success.
+To summon a familiar, the magic-user must begin the ritual while keeping a brazier stoked with charcoal, and when burning with intensity, add 100GP worth of incense. With these ingredients burning, the caster must then continue the ritual until the familiar arrives or the Casting Time expires without success.
 
 Even if this spell is successfully cast, the chance of a suitable familiar answering the magic-user's call is only 50%, and the magic-user may only attempt this spell once a year. Each additional level of Intensity beyond the first extends the Range of the spell another half mile, which in turn increases the likelihood of a potential familiar being found by 5%, to a maximum of 95%. There is no control over the exact type of creature that will answer the call, but what does arrive will be a faithful servant and ally. It is up to the specific creature to answer the call, therefore being in a region known to be inhabited by a certain type of creature does _not_ assure the caster of success.
 
@@ -1083,7 +1084,7 @@ This spell creates a shield of wispy flames that immolates the caster or one oth
 - **Chill Shield:** These flames are cool to the touch and reduce any fire or heat-based damage to half the total. A successful Resistance roll will negate all damage. The Resistance roll is one grade easier and, in the case of Evade, will not render the defender prone.
 - **Warm Shield:** These flames are warm to the touch and reduce any cold-based damage to half of the total. A successful Resistance roll will negate all damage. The Resistance roll is one grade easier and in the case of Evade, will not render the defender prone.
 
-Melee attacks against the recipient of either variant, whether armed or unarmed, inflict normal damage unless using one of the elements protected against. In this case, the caster is protected from the elemental portion of the attack, and the attacker receives damage equal to that inflicted. Worn armor on the part of the attacker offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. Creatures with Innate Magic Resistance can dispel Fire Shield on a successful Willpower roll when the recipient is first struck. If the Magic Resistance roll Fails, the opponent cannot later negate the Fire Shield.
+Melee attacks against the recipient of either variant, whether armed or unarmed, inflict normal damage unless using one of the elements protected against. In this case, the caster is protected from the elemental portion of the attack, and the attacker receives damage equal to that inflicted. Worn armor on the part of the attacker offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. Creatures with Innate Magic Resistance can dispel Fire Shield on a successful Willpower roll when the recipient is first struck. If the Magic Resistance roll fails, the opponent cannot later negate the Fire Shield.
 
 ---
 ### Flame Strike
@@ -1209,7 +1210,7 @@ This spell causes all opponents in the Area of Effect to become clumsy, with any
 
 A successful Resistance roll allows the victim to avoid the effects of the spell for the current Round; however, if the victim still occupies the Area of Effect next Round, another roll to Resist must be made again as normal. Allies of the original attacker will also need to stay out of the Area of Effect or suffer the same limitations as their opponents.
 
-This spell may also be targeted on a specific creature, who will suffer the effects for the spell's entire Duration on a Failed Resistance roll. Cast in this way, Fumble produces no Area of Effect. In this case, a successful Resistance roll results in the victim suffering the effects of the Rank 2 spell, Slow.
+This spell may also be targeted on a specific creature, who will suffer the effects for the spell's entire Duration on a failed Resistance roll. Cast in this way, Fumble produces no Area of Effect. In this case, a successful Resistance roll results in the victim suffering the effects of the Rank 2 spell, Slow.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1309,7 +1310,7 @@ One person or creature (to include oneself) per Intensity within the spell's Are
 
 With the casting of Heal, the cleric can cure a physical malady, mental trauma, or a significant amount of injury with a single touch. The actual extent of this recovery is based on the Intensity of the spell as follows. For each level of Intensity, the spell heals the subject of one disease of any POT, cures any blindness or deafness, negates a mental disorder brought on by injury or magic, or heals a single Hit Location of up to 12 points of damage. It will not, however, restore a severed limb, as that requires a casting of the spell Regenerate. Each additional Intensity can be used to cure another malady or heal another Hit Location. It would therefore require a casting at Intensity 7 to heal an individual suffering burns to his entire body. Unlike lesser healing spells that limit their effectiveness against long-term injuries, there are no limits placed on the spell by the Duration in which the subject has suffered the effects of injury.
 
-When reversed, Harm inflicts 12 points of magical injury to one of the victim's Hit Locations on a Failed roll to resist. Alternately, a malady is inflicted upon them, the effects of which are the same as the spell Cause Disease, the reverse of Cure Disease, but at +20 POT. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage normally, and fully blocks inflicted maladies. Each additional Intensity affects another Hit Location contiguous to the first, with effects as determined by the initial Resistance roll. Neither version of this spell has any effect on the undead, creatures harmed only by iron, silver, or magical weapons, or non-corporeal beings.
+When reversed, Harm inflicts 12 points of magical injury to one of the victim's Hit Locations on a failed roll to resist. Alternately, a malady is inflicted upon them, the effects of which are the same as the spell Cause Disease, the reverse of Cure Disease, but at +20 POT. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage normally, and fully blocks inflicted maladies. Each additional Intensity affects another Hit Location contiguous to the first, with effects as determined by the initial Resistance roll. Neither version of this spell has any effect on the undead, creatures harmed only by iron, silver, or magical weapons, or non-corporeal beings.
 
 ---
 ### Hold Person
@@ -1388,7 +1389,7 @@ Hail Stones (Duration: Instant): This variant of the spell causes large balls of
 | 5 | 7 | 150 ft. Range; 3d10 dmg |
 | Continue progression |
 
-Driving Sleet (Duration: 1 Round/Intensity): This variant of the spell creates a driving sleet that whips through a path-like area 60 feet wide, and 120 feet long, blinding those affected. The actual path may be designated by the magic-user when the spell is cast. In addition, the ground in the affected area ices over, slowing the Movement Rate by 50%, and grounding fliers that Fail a Formidable Fly skill roll. Those on the ground must succeed at an Athletics roll every Round to resist falling prone, with the roll being two grades harder if moving faster than a walk. A character possessing Acrobatics may substitute that skill if desired. The ice will melt after the spell's Duration expires at a rate determined by the Games Master, dependent upon the ambient temperature; however, even in warm weather it will last a minimum of 10 minutes. Small fires, such as campfires and torches, are automatically extinguished. This spell will negate the effects of the spell Heat Metal.
+Driving Sleet (Duration: 1 Round/Intensity): This variant of the spell creates a driving sleet that whips through a path-like area 60 feet wide, and 120 feet long, blinding those affected. The actual path may be designated by the magic-user when the spell is cast. In addition, the ground in the affected area ices over, slowing the Movement Rate by 50%, and grounding fliers that fail a Formidable Fly skill roll. Those on the ground must succeed at an Athletics roll every Round to resist falling prone, with the roll being two grades harder if moving faster than a walk. A character possessing Acrobatics may substitute that skill if desired. The ice will melt after the spell's Duration expires at a rate determined by the Games Master, dependent upon the ambient temperature; however, even in warm weather it will last a minimum of 10 minutes. Small fires, such as campfires and torches, are automatically extinguished. This spell will negate the effects of the spell Heat Metal.
 
 ---
 ### Identify
@@ -1405,7 +1406,7 @@ With the casting of this spell the magic-user may attempt to identify the magica
 
 Cursed items are typically activated when a piece of equipment is first put on or used; therefore, the casting of this spell will subject the magic-user to the effects of any curse if present. If the Arcane Casting skill test is successful, the magic-user is allowed a Willpower test to avoid the effects of any curse. This does not dispel the curse on the object, however, but it does allow the caster to remove the item without being affected.
 
-A pearl of at least 100 GP value is ground into dust and consumed along with other mundane spell components to cast this spell. If a Luckstone is powdered and added to the infusion, the difficulty of the Arcane Casting roll is normal and all magical properties of any one item handled per minute throughout the spell's Duration are automatically learned, with no further rolls necessary.
+A pearl of at least 100GP value is ground into dust and consumed along with other mundane spell components to cast this spell. If a Luckstone is powdered and added to the infusion, the difficulty of the Arcane Casting roll is normal and all magical properties of any one item handled per minute throughout the spell's Duration are automatically learned, with no further rolls necessary.
 
 ---
 ### Ignite (Extinguish)
@@ -1537,7 +1538,7 @@ When reversed, Lock closes and locks one portal as noted above assuming there is
 | **Cost:** 1/Intensity | **Range:** 30 ft |
 | **Area:** 1 Target | **Resist:** Willpower |
 
-This spell allows the caster to discern the Alignment and Passions of one creature, which gets a roll to resist. If the roll to resist Fails, the caster will divine the target's Ethical Code with respect to Law, Neutrality, and Chaos. Concentrating for a further Round is required to discern the target's moral Alignment with regards to Good, Neutrality, and Evil. Each additional Round beyond this will discern one other random remaining Passion. The Games Master reveals the 'strength' of the target's discovered Alignment and Passions according to the following table:
+This spell allows the caster to discern the Alignment and Passions of one creature, which gets a roll to resist. If the roll to resist fails, the caster will divine the target's Ethical Code with respect to Law, Neutrality, and Chaos. Concentrating for a further Round is required to discern the target's moral Alignment with regards to Good, Neutrality, and Evil. Each additional Round beyond this will discern one other random remaining Passion. The Games Master reveals the 'strength' of the target's discovered Alignment and Passions according to the following table:
 
 **Alignment/Passion Strength Table**
 
@@ -1597,7 +1598,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 | **Cost:** 1/Intensity | **Range:** 180 ft |
 | **Area:** 20 ft. Radius | **Resist:** See Below |
 
-When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a Failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
+When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
 
 _\*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell [Darkness](0010_Spells.md?id=darkness) with the exception that it possesses a lesser Duration of 30 minutes per Intensity._
 
@@ -1915,7 +1916,7 @@ Pet allows the caster to take mental control of a small creature, sending it off
 
 When cast, the cleric and up to 7 others (one per additional level of Intensity) can travel to another plane of existence. Everyone must be touching and forming a circle while the cleric casts the spell. In addition, the caster may also use the spell to transport one creature independent of themselves, willing or otherwise, to a plane of the caster's choice; however, the unwilling can make a Willpower roll to resist, with a Success negating the spell. The precise point of arrival is seldom what the caster desires. If using a hex map, roll 1d6 to determine the direction and 1d10x10 for the distance in miles.
 
-In addition to any generic material components, the casting of Plane Shift requires rods of various rare metals, each specially attuned to a plane of existence. These rods are rare and easily valued at as much as 10,000 GP each.
+In addition to any generic material components, the casting of Plane Shift requires rods of various rare metals, each specially attuned to a plane of existence. These rods are rare and easily valued at as much as 10,000GP each.
 
 ---
 ### Polish
@@ -1999,7 +2000,7 @@ Polymorph is subject to Dispel Magic. In this case, the caster does not benefit 
 | **Cost:** 3, +1/additional Intensity | **Range:** 20 ft/Intensity |
 | **Area:** 15 ft. Radius | **Resist:** Endurance |
 
-Upon successfully casting this spell, one creature of the caster's choice within both line of sight and Range, is struck blind, along with all others in a 15 ft. radius that Fail a Resistance roll. This blindness may be cured by the casting of Cure Blindness or Dispel Magic. The spell's Duration is modified by the target's Rank or SIZ, whichever gives the more beneficial result. This is detailed in the following table.
+Upon successfully casting this spell, one creature of the caster's choice within both line of sight and Range, is struck blind, along with all others in a 15 ft. radius that fail a Resistance roll. This blindness may be cured by the casting of Cure Blindness or Dispel Magic. The spell's Duration is modified by the target's Rank or SIZ, whichever gives the more beneficial result. This is detailed in the following table.
 
 | **Target Rank** | **Target SIZ** | **Duration** |
 | :-: | :-: | :-- |
@@ -2024,7 +2025,7 @@ _\*\* If only one to three creatures are in the Area of Effect, the effects are 
 | **Cost:** 3/Intensity, +3 EXP | **Range:** 20 ft/Intensity |
 | **Area:** 10 ft. Radius | **Resist:** Endurance |
 
-The successful casting of this spell will kill either a single creature of up to Rank 3 or SIZ 60 (or 4 creatures per Intensity of no greater than SIZ 20), that Fail a Resistance roll. This spell is extremely draining on the caster, with each casting causing the automatic loss of one level of Fatigue. All potential targets must lie within the Area of Effect, as designated when the spell is cast. The Intensity required is dependent upon the target's Rank or SIZ, whichever gives the target the more beneficial result, as detailed on the following table.
+The successful casting of this spell will kill either a single creature of up to Rank 3 or SIZ 60 (or 4 creatures per Intensity of no greater than SIZ 20), that fail a Resistance roll. This spell is extremely draining on the caster, with each casting causing the automatic loss of one level of Fatigue. All potential targets must lie within the Area of Effect, as designated when the spell is cast. The Intensity required is dependent upon the target's Rank or SIZ, whichever gives the target the more beneficial result, as detailed on the following table.
 
 | **Target Rank** | **Target SIZ** | **Intensity** |
 | :-: | :-: | :-- |
@@ -2048,7 +2049,7 @@ Creatures larger than SIZ 60 are unaffected, as are characters of Rank 4 and up.
 | **Cost:** 3, +1/additional Intensity | **Range:** 20 ft/Intensity |
 | **Area:** 1 Target | **Resist:** Endurance |
 
-Upon successfully casting this spell, one creature of the caster's choice within both line of sight and Range, which Fails a Resistance roll is stunned. The victim is rendered briefly insensible, only allowed Reactive Actions of a defensive nature. The Duration is modified by the target's Rank or SIZ, whichever gives the more beneficial result for the target. This is detailed on the following table. This stunning may be cured before the Duration expires through the casting of Dispel Magic.
+Upon successfully casting this spell, one creature of the caster's choice within both line of sight and Range, which fails a Resistance roll is stunned. The victim is rendered briefly insensible, only allowed Reactive Actions of a defensive nature. The Duration is modified by the target's Rank or SIZ, whichever gives the more beneficial result for the target. This is detailed on the following table. This stunning may be cured before the Duration expires through the casting of Dispel Magic.
 
 | **Target Rank** | **Target SIZ** | **Duration** |
 | :-: | :-: | :-- |
@@ -2152,7 +2153,7 @@ First, attacks by creatures with an Evil Alignment receive a -10% penalty to the
 
 Second, neither summoned nor conjured creatures, nor beings not native to the material plane, may make physical contact with the recipient. This includes demons, devils, genies, elementals, aerial servants, salamanders, and so on. Natural attacks by these creatures cause them to recoil, thus failing to make contact. This also includes any monsters or creatures conjured or summoned by spells or items. Weapons held by such creatures may still enter the magical barrier and strike the protected individual, however.
 
-Third, any attempts of mental control (such as by spells like Charm or Command) or possession (such as by spells like Magic Jar), automatically Fail to penetrate the magical protection.
+Third, any attempts of mental control (such as by spells like Charm or Command) or possession (such as by spells like Magic Jar), automatically fail to penetrate the magical protection.
 
 The spell's Duration ends if the protected individual makes any type of melee attack or attempts to impose the protective field against an affected creature.
 
@@ -2232,7 +2233,7 @@ The reverse of the spell, Contaminate Food and Drink, spoils food, makes pure wa
 
 This spell may be cast on the corpse of a creature dead less than 24 hours per level of Intensity. If the subject's Alignment was anything other than evil, they can resist the spell with an Opposed Willpower roll and, if successful, negate the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
 
-In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Willpower that is resisting, but that of the demon, devil, and so on, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, as a more powerful being was placed in charge of their damnation. If the caster succeeds, they have successfully returned the spirit to the body, while a Failed roll results in the victim being either unwilling or unable to return.
+In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Willpower that is resisting, but that of the demon, devil, and so on, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, as a more powerful being was placed in charge of their damnation. If the caster succeeds, they have successfully returned the spirit to the body, while a failed roll results in the victim being either unwilling or unable to return.
 
 If the casting is successful, the subject is returned to life with full Hit Points, although severed limbs remain lost. This means that a victim decapitated or cut in half cannot be raised until their head or torso is first reattached. This can be done before the casting of Raise Dead by physically reattaching the severed location, which requires a healer's kit and a successful application of the Healing skill, and typically leaves an obvious and telling scar. Other maladies, such as poison or disease must be taken care of prior to, or after the casting of Raise Dead, or the results are only temporary. Finally, Raise Dead has no effect on a creature that has reached the end of its natural life span, and died of old age.
 
@@ -2296,7 +2297,7 @@ When reversed, Wither will cause a location touched by the caster to shrivel up 
 
 This spell is cast while touching the corpse of a creature dead less than 24 hours per level of Intensity. However, this version of Reincarnation has no effect on full-blooded elves (instead, see Divine Reincarnation). If the victim's Alignment was anything other than evil, the victim resists the spell with an Opposed Willpower roll, and if successful, negates the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to enter a new body once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
 
-In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Willpower that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, they have successfully anchored the spirit to the host, while a Failed roll results in the victim being either unwilling or unable to return.
+In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Willpower that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, they have successfully anchored the spirit to the host, while a failed roll results in the victim being either unwilling or unable to return.
 
 If the casting is successful, a fully formed adult body appears in 1d6x10 minutes containing the consciousness of the deceased. The caster has no control of the form or sex in which the soul returns, although the former character Class and Rank is retained. This means it may take some convincing on the part of the character that they are who they say they are when dealing with friends, family, and former acquaintances; and includes their order or guild when it comes time for Advancement if relevant. This is best represented by Influence rolls on the part of the character, modified by how drastic the change, as determined by the Games Master. For example, a dwarf reincarnated into another dwarf may require a Standard Influence roll to convince a former ally of their actual identity, while being reincarnated into a gnome or halfling could result in the roll being one grade more difficult. Finally, that same character could find it two grades more difficult convincing others of their identity if changed into something as extreme as a goblin, orc, or troll.
 
@@ -2342,7 +2343,7 @@ The reverse of this spell, Bestow Curse, inflicts one of the following effects o
 - 01-25: All skills using STR, DEX, or CON are one grade more difficult. Initiative -4, Damage Modifier reduced 2 steps.
 - 26-50: All skills using INT, POW, or CHA are one grade more difficult. Initiative -4.
 - 51-75: Combat Skills and Resistance rolls are 2 grades more difficult.
-- 76-00: All Failed skill rolls are treated as Fumbles.
+- 76-00: All failed skill rolls are treated as Fumbles.
 
 ---
 ### Remove Fear (Cause Fear)
@@ -2357,7 +2358,7 @@ The reverse of this spell, Bestow Curse, inflicts one of the following effects o
 
 The caster of this spell may banish the effects of fear from one individual per Intensity, granting them an additional roll to resist. Remove Fear may also divinely ward against fear for 10 minutes when cast on someone not yet suffering its effects. In both cases, the Resistance roll required of the subject is one grade easier. While the cleric could cast this spell on themselves to ward against fear, they would not be able to cast it to remove any ongoing effects of fear that would prevent the casting of spells.
 
-The reverse of this spell, Cause Fear, requires touching the victim in combat. Those that Fail a Willpower Resistance roll flee in terror at a Sprint for 1d4 Rounds. The direction must be away from the caster of the spell. Cause Fear may be countered by Remove Fear and vice versa.
+The reverse of this spell, Cause Fear, requires touching the victim in combat. Those that fail a Willpower Resistance roll flee in terror at a Sprint for 1d4 Rounds. The direction must be away from the caster of the spell. Cause Fear may be countered by Remove Fear and vice versa.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -2392,7 +2393,7 @@ Resurrection (Destruction)
 
 Resurrection raises any creature dead for no more than 20 years per level of Intensity. The creature is not only given life, but restored to full strength and healed from injury, even restoring lost limbs. Little of the actual creature needs to remain for the spell to still be effective. For example, Resurrection could be used to bring a being back from the dead after 145 years, even if possessing nothing more than a finger bone, assuming the spell is cast at 8 Intensity. The raised individual requires no period of rest and is fully functional immediately. The spell has no effect on a creature that died of natural causes at the end of its allotted lifespan.
 
-If the subject's Alignment was anything other than evil, they can resist the spell with an Opposed Willpower roll and, if successful, negate the effects. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. However, the Games Master may decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live. In the case of evil souls, who would gladly return instead of suffering eternal damnation, it isn't the deceased's Willpower that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, the subject has been successfully resurrected, while a Failed roll results in the victim being either unwilling or unable to return.
+If the subject's Alignment was anything other than evil, they can resist the spell with an Opposed Willpower roll and, if successful, negate the effects. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. However, the Games Master may decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live. In the case of evil souls, who would gladly return instead of suffering eternal damnation, it isn't the deceased's Willpower that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, the subject has been successfully resurrected, while a failed roll results in the victim being either unwilling or unable to return.
 
 Resurrection is very draining, Aging the cleric 3% of their typical lifespan (3 years in the case of a human caster). See the rules for [Aging](0007_Game_System.md?id=aging).
 
@@ -2629,7 +2630,7 @@ Upon casting this spell, a hammer-like force of spiritual energy appears, which 
 | **Cost:** 3/Intensity | **Range:** 30 ft/Intensity |
 | **Area:** 5 ft. Radius | **Resist:** See Below |
 
-When cast, the cleric may summon a brilliant beam of holy light using a Cast Magic Action at any point during the spell's Duration. The beam is natural sunlight and has a five-foot radius. Those in the Area of Effect must Evade to attempt to shield their eyes or become blinded for 1d3 Minutes. If they fail their Resistance roll, the Sun Ray blinds creatures using Dark Vision for 2d4 Minutes and they lose their Dark Vision capability for 1d4+1 Minutes out to 20 feet beyond the Area of Effect. Creatures that find natural sunlight harmful to their vision are blinded permanently on a Failed Resistance roll or blinded for 2d6 Rounds if the roll is successful.
+When cast, the cleric may summon a brilliant beam of holy light using a Cast Magic Action at any point during the spell's Duration. The beam is natural sunlight and has a five-foot radius. Those in the Area of Effect must Evade to attempt to shield their eyes or become blinded for 1d3 Minutes. If they fail their Resistance roll, the Sun Ray blinds creatures using Dark Vision for 2d4 Minutes and they lose their Dark Vision capability for 1d4+1 Minutes out to 20 feet beyond the Area of Effect. Creatures that find natural sunlight harmful to their vision are blinded permanently on a failed Resistance roll or blinded for 2d6 Rounds if the roll is successful.
 
 Undead in the Area of Effect take 2d6 points of damage to each Hit Location. Armor, natural or otherwise, offers no protection, but magical Armor Points reduce damage as normal. Those within five feet of the edge of the Area of Effect may Evade to take no damage. Undead within 20 feet of the Area of Effect still take 1d6+1 points of damage but suffer no damage on a successful Resistance roll. Undead specifically harmed by sunlight, such as vampires, are destroyed if they fail to Evade. Fungoid creatures as well as all forms of subterranean fungi suffer the same effects as undead but cannot make a Resistance roll.
 
@@ -2657,7 +2658,7 @@ Tidy immediately restores a number of items (up to the caster's POW) equal in si
 | **Cost:** 3, +1/additional Intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** NA |
 
-True Seeing grants the subject the capacity to see the world clearly, to a Range of 60 feet, subject to line of sight. All secrets within the Area of Effect become apparent; both natural and magical darkness is penetrated; secret doors become visible; invisible or ethereal attackers are revealed; illusions and phantasms become obvious; and the true form of shape-changed creatures is revealed. Even the ethereal and other planes adjacent to the material plane can be glimpsed with Concentration. True Seeing also negates the effects of spells such as Blur and Mirror Image. In addition to mundane material components, casting True Seeing requires rare ingredients made from powdered mushrooms, saffron, and animal fat, with a value of at least 300 GP.
+True Seeing grants the subject the capacity to see the world clearly, to a Range of 60 feet, subject to line of sight. All secrets within the Area of Effect become apparent; both natural and magical darkness is penetrated; secret doors become visible; invisible or ethereal attackers are revealed; illusions and phantasms become obvious; and the true form of shape-changed creatures is revealed. Even the ethereal and other planes adjacent to the material plane can be glimpsed with Concentration. True Seeing also negates the effects of spells such as Blur and Mirror Image. In addition to mundane material components, casting True Seeing requires rare ingredients made from powdered mushrooms, saffron, and animal fat, with a value of at least 300GP.
 
 ---
 ### Voice
@@ -2727,7 +2728,7 @@ This spell imparts the ability for the caster or others to breathe water through
 
 This spell causes long strands of sticky webbing to shoot from the caster's hand, which may be anchored floor to ceiling, or wall to wall, to block a passage or impede progress. It may also be sprayed directly onto opponents to entangle them.
 
-Assuming the target has room to escape the webs, a successful Evade roll places the target outside the Area of Effect; however, this requires an Action Point to be available. A Failed resistance roll leaves the victim immobilized, and 1d3 Hit Locations entangled. Like the [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) Special Effect, a webbed location is unusable. An entangled arm cannot use whatever it is holding, a snared chest, abdomen, or leg makes all physical skill rolls one grade harder (Except Brawn rolls used to try to break free), and an enmeshed head causes suffocation as detailed under [Asphyxiation](0007_Game_System.md?id=asphyxiation).
+Assuming the target has room to escape the webs, a successful Evade roll places the target outside the Area of Effect; however, this requires an Action Point to be available. A failed resistance roll leaves the victim immobilized, and 1d3 Hit Locations entangled. Like the [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) Special Effect, a webbed location is unusable. An entangled arm cannot use whatever it is holding, a snared chest, abdomen, or leg makes all physical skill rolls one grade harder (Except Brawn rolls used to try to break free), and an enmeshed head causes suffocation as detailed under [Asphyxiation](0007_Game_System.md?id=asphyxiation).
 
 On the following Turn, the victim may spend an Action Point to attempt to break free of the webbing. Magic webbing is incredibly strong and sticky, possessing 6 Armor Points and Hit Points equal to 3x the spell's Intensity. Attempting to break free requires the victim to win an Opposed Roll of Brawn against the web's Stickiness (equal to the caster's Arcane Casting skill). If this fails, the target remains fastened, unable to break free by strength alone. Attempting to cut free exposes the tool or weapon used to the same process. Despite popular belief, webs are not flammable, but a character might slowly burn a way through a web by using a flame to shrivel the strands (fire damage ignores the Web's Armor Points).
 
@@ -2772,11 +2773,11 @@ Some example Wishes and the required EXP expenditure follow.
 | Permanently raise or lower one skill by 10% (maximum +/-50%). | \*\* |
 | Transport self and up to 7 allies to another location regardless of range. | 1 EXP |
 | Transport self and up to 7 allies to another plane of existence. | 2 EXP |
-| Create temporary, nonmagical coin, objects, or property with a value of no more than 50,000 GP. The items last one week per Intensity. | 1 EXP |
-| Create temporary, nonmagical coin, objects, or property with a value of no more than 100,000 GP. The items last one week per Intensity. | 2 EXP |
-| Create permanent, nonmagical coin, objects, or property with a value of no more than 10,000 GP. | 2 EXP |
-| Create permanent, nonmagical coin, objects, or property with a value of no more than 50,000 GP. | 3 EXP |
-| Create permanent, nonmagical coin, objects, or property with a value of no more than 100,000 GP. | 4 EXP |
+| Create temporary, nonmagical coin, objects, or property with a value of no more than 50,000GP. The items last one week per Intensity. | 1 EXP |
+| Create temporary, nonmagical coin, objects, or property with a value of no more than 100,000GP. The items last one week per Intensity. | 2 EXP |
+| Create permanent, nonmagical coin, objects, or property with a value of no more than 10,000GP. | 2 EXP |
+| Create permanent, nonmagical coin, objects, or property with a value of no more than 50,000GP. | 3 EXP |
+| Create permanent, nonmagical coin, objects, or property with a value of no more than 100,000GP. | 4 EXP |
 | Create a temporary Rank 1 or 2 magic item. The item lasts 1 Hour per Intensity. | 1 EXP |
 | Create a temporary Rank 3 magic item. The item lasts 1 Hour per Intensity. | 2 EXP |
 | Create a temporary Rank 4 magic item. The item lasts 1 Hour per Intensity. | 3 EXP |
