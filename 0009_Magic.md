@@ -2,31 +2,35 @@
 
 _Classic Fantasy Imperative_ uses several default assumptions concerning the casting of magic. Since the same fundamental concepts are used by each discipline, these concepts have been collated here for easy reference and to avoid unnecessary duplication. The following rules are intended to be globally applied to all spellcasting.
 
+---
 ## Magical Disciplines
 
-_Classic Fantasy Imperative_ provides rules for three magical types, called disciplines herein. Each magical disciplines use the same basic system detailed in this chapter with regards to how magic works and how characters come by it. The following chapter details the specific spells usable by each discipline, Arcane and Divine, respectively.
+_Classic Fantasy Imperative_ provides rules for two magical types, called disciplines herein. Each magical discipline uses the same basic system detailed in this chapter with regards to how magic works and how characters come by it. The following chapter details the specific spells usable by each discipline, Arcane and Divine, respectively.
 
+---
 ## Magical Energy
 
 Although knowledge of magical powers may be prevalent in a setting, it does not automatically follow that the magical energy required to invoke them is as widespread, or even available. Having the skill to transform someone into a leopard is useless if you do not have the energy to cast the spell or request the miracle from the gods.
 
 While every character has an Attribute known as Magic Points, derived from their Characteristic POW, this merely represents the capacity to hold or store magical energy, not necessarily the ability to generate their own.
 
-### Running Out of Magic Points
+#### Running Out of Magic Points
 
 When Magic Points reach zero, no more spells or magical abilities that rely on them can be used.
 
-### Magic Points: Use & Recovery
+#### Magic Points: Use & Recovery
 
 In _Classic Fantasy Imperative_, characters generate their own magical energy, attracting and storing it from the world around them. This is the most common method of recovery and is simply a matter of resting and letting one's body absorb the natural magical emanations of the world or as part of a relationship with a god, until the points are restored. The magical character need do nothing else. This assumes complete rest, comfort, and freedom from threat or stress. Camping in an occupied dungeon or resting in the wilderness during the depths of winter would prevent or hinder recovery, whereas returning to somewhere safe and sheltered like an inn would permit it.
 
-A full night's sleep replenishes all Magic Points, half in a place of danger or distraction. In addition, 1 Magic Point can be regained per 15 minutes of prayer or study of one's spell book during a Short Rest (see page XX). Finally, Magic Points may be regained by quaffing a Potion of Magica as seen in the Magic Item Table on page XX. Magic Points do not recover while active in any other way.
+A full night's sleep replenishes all Magic Points, half in a place of danger or distraction. In addition, 1 Magic Point can be regained per 15 minutes of prayer or study of one's spell book during a [Short Rest](0007_Game_System.md?id=short-rests). Finally, Magic Points may be regained by quaffing a Potion of Magica as seen in the [Common Magic Items Table](0006_Money_and_Equipment.md?id=common-magic-items-table). Magic Points do not recover while active in any other way.
 
+---
 ## Starting Spells
 
 Each spell casting Class has its own formula for determining their starting spells. This can be found in their respective write-ups under Class Abilities.
 
-## Memorizing Spells
+---
+##  Memorizing Spells
 
 Just because a spellcaster knows a spell, does not mean they are ready to cast it. All spellcasters must commit spells to memory to have access to them when needed. The number of spells of their current Rank that a caster may have in memory is noted in the Rank Tables for each Class and found in their respective write-ups.
 
@@ -36,6 +40,7 @@ Mages must have access to their spell book to memorize a spell. A spell may not 
 
 When memorizing a Divine spell, the caster is assumed to be praying for their deity to grant them the ability to cast it. These spells may be drawn from any spells of the caster's Rank or below and placed into memory where they may be later cast. For example, a Rank 3 cleric may memorize any spell of Rank 3 or below.
 
+---
 ## Learning New Spells
 
 Each spell casting Class has its own system for learning new spells, detailed below.
@@ -44,15 +49,15 @@ Each spell casting Class has its own system for learning new spells, detailed be
 
 Learning Arcane spells requires extensive study and research, taking a significant period. However, the process may be considerably faster if the mage has access to another's spell book or a scroll. Each of the following procedures requires the mage to be of sufficient Rank to cast the spell in question.
 
-### Rank Increase
+#### Rank Increase
 
 Arcane casters automatically learn three new spells whenever they gain a new Rank. This assumes the caster has been slowly researching the spells over time and they may be inscribed in their spell book following the normal procedure, however neither an Arcane Knowledge roll nor expenditure of Experience Rolls is required.
 
-### Through Research
+#### Through Research
 
 To learn a new spell through research requires the investment of Experience Rolls equal in number to the spell's Rank. In addition, this research requires 1 week of study per spell Rank. For example, a Rank 2 spell would require 2 Experience Rolls and 2 weeks of study before the mage would be able to scribe it into their spell book. A character can break down the total investment of time and Experience Rolls into installments over several sessions of play. The mage is assumed to have been slowly scribing the spell into his spell book over the course of this research period. See The Scribing Process below for more information.
 
-### From Spell Books and Scrolls
+#### From Spell Books and Scrolls
 
 Having access to a scroll or another's spell book allows the mage to copy the desired spell into a spell book of their own, or even add the complete spell book to their own collection. However, because of the endless variation in writing styles, notations, and ancient script, each spell requires a casting of Read Magic before the mage may commit the spell to memory or scribe it into their own spell book.
 
@@ -60,7 +65,7 @@ However, if the casting of Read Magic Fails, the character does not get a second
 
 Learning spells in this way does not require any Experience Rolls on the part of the character, as the actual research has already been done by the other party. It is possible to decipher a spell, only to then find out that it is of a Rank beyond the capability of the character at the current time.
 
-### Spell Books
+#### Spell Books
 
 Arcane spellcasters use spell books, sometimes called grimoires, to contain all their spell knowledge. These tomes are treasured by their owners, as a mage deprived of their spell book is limited to whatever spells they currently have in memory. While a beginning mage may require but a single book, eventually they will need to expand their library, both to encompass their growing store of magic and to back up years of hard work and research. At these times, a mage may consider a traveling spell book containing some of their most used and common spells, while leaving much of their knowledge backed up safely at home.
 
@@ -72,7 +77,8 @@ An Arcane caster may automatically read the contents of his own spell book and o
 
 Divine casters may memorize any spell they desire if they are of sufficient Rank. Therefore, a Divine caster learns all spells of a new Rank when they attain that Rank.
 
-## Spell Casting Requirements
+---
+##  Spell Casting Requirements
 
 All spellcasters are assumed to use ritual words and gestures to aid in the focusing of Concentration required for their proper incantation.
 
@@ -126,27 +132,27 @@ To totally disrupt casting normally requires that the caster be injured or menta
 - Major Wounds automatically cause the casting roll to Fail.
 - Succumbing to mental domination automatically causes the casting roll to Fail.
 
-## Casting in Armor
+###  Casting in Armor
 
 **Clerics:** Clerics suffer no penalty while armored or using a shield.
 
 **Mages:** Because armor restricts movement, and the somatic component involved in the casting of spells requires precise gestures, mages cannot cast while wearing armor or using a shield.
 
+---
 ## Casting Time
 
-Spells generally require a set Casting Time regardless of Intensity. This is usually measured as Instant, # Actions, # Minutes, or #
-
-Hours. Other casting times are possible depending on the specific spell.
+Spells generally require a set Casting Time regardless of Intensity. This is usually measured as _Instant_,  _Actions_, _Minutes_, or _Hours_. Other casting times are possible depending on the specific spell.
 
 How this interacts with each specific Casting Time is further detailed below:
 
-- **Instant** : Spell may be either Proactive or Reactive and goes off as soon as cast. It may be cast as a Free Action.
-- **1 Action** : Spell is Proactive only and goes off on the same Turn that it is cast.
-- **2 or more Actions** : Spell is Proactive only and goes off on the last Turn required to cast it.
-- **Minutes, Hours, and so on** : Spells with extensive casting times are typically used out of combat and therefore do not require detailed tracking.
+- **Instant:** Spell may be either Proactive or Reactive and goes off as soon as cast. It may be cast as a Free Action.
+- **1 Action:** Spell is Proactive only and goes off on the same Turn that it is cast.
+- **2 or more Actions:** Spell is Proactive only and goes off on the last Turn required to cast it.
+- **Minutes, Hours, and so on:** Spells with extensive casting times are typically used out of combat and therefore do not require detailed tracking.
 
 Where a spell requires more than 1 Action to cast, the Action Points are spent each Turn, with the casting skill roll taking place on the final Turn of casting. Only once the spell's Casting Time has finished is the caster required to expend the Magic Point Casting Cost, shown below.
 
+---
 ## Casting Cost
 
 The cost of casting a spell, regardless of the actual discipline, depends on the spell's final Intensity, the caster's Rank, and the success level of the casting skill roll. Spells are cast at a base Intensity of 1 and may be increased to their Maximum Intensity to boost their effects by paying the extra Magic Points. The required cost may be expressed as _1_, meaning that the spell cost 1 Magic Point and typically has a set Intensity, or, _1, +1/additional Intensity_, meaning the spell cost a single Magic Point, and may be boosted at an additional cost of 1 Magic Point per Intensity beyond the first, or, _3/Intensity_, meaning that each level of Intensity costs 3 Magic Points, or any other similar combination.
@@ -160,11 +166,11 @@ Once the final cost is known, the Spell Casting roll is made:
 - **Failure:** The spell fails, but no Magic Points are expended, nor are any Experience Rolls. Optionally, however, the caster may force the spell. A forced spell is treated as a Success above with regards to Magic Point expenditure and degree of success. Forcing a spell has the unfortunate side effect of expunging it from the caster's memory, meaning it must be memorized again before it may be recast.
 - **Fumble:** The spell fails, and half the Magic Point cost is expended; however, all Experience Rolls are retained. In addition, the desired spell is expunged from the caster's memory. It may be re-memorized later.
 
-Maximum EXP on Spells
+### Maximum EXP on Spells
 
 As noted under Casting Cost above, more powerful spells require an expenditure of lifeforce, and thus spending one or more EXP rolls along with the requisite number of Magic Points. This can be unspent EXP the character has saved for spell casting or simply has yet to apply to skills and abilities. The character's Rank sets a limit on the maximum number of EXP rolls that they may expend on spells in any one game session. For example, a Rank 3 magic-user can spend up to 3 EXP rolls on spells during a particular session but once spent, other spells requiring EXP may not be cast until the next game session.
 
-## Casting Cost Reduction and Caster Rank
+### Casting Cost Reduction and Caster Rank
 
 As a spellcaster increases in Rank, they learn more efficient ways to channel their personal reserves of magical energy. For each Rank attained above 1, a spellcaster may cast spells of a lower Rank at a reduction of 2 Magic Points per Rank of difference. This does not reduce the Casting Cost per Intensity, just the final Casting Cost of the spell in question. Therefore, a spellcaster of Rank 3 that casts a Rank 2 spell may reduce the final Casting Cost by 2 Magic Points, while that same caster may cast a spell of Rank 1 at a 4-point reduction. This is summarized on the Magic Point Reduction Matrix below.
 
@@ -172,27 +178,28 @@ No spell may have its final cost reduced below 1 Magic Point.
 
 ##### Magic Point Reduction Matrix
 
-| | Spell's Rank |
-| --- | --- |
-| Caster's Rank | 1 | 2 | 3 | 4 | 5 |
+| **Rank** | **1** | **2** | **3** | **4** | **5** |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 0 | - | - | - | - |
 | 2 | -2 | 0 | - | - | - |
 | 3 | -4 | -2 | 0 | - | - |
 | 4 | -6 | -4 | -2 | 0 | - |
 | 5 | -8 | -6 | -4 | -2 | 0 |
 
-## Dismissing One's Own Magic
+### Dismissing One's Own Magic
 
 Characters can dismiss any magic they have personally cast as a Free Action. No roll is needed for dismissing a spell; simply the decision needed to cease its effects.
 
+---
 ## Magnitude & Intensity
 
 These two terms are methods of describing the potency of magic. Magnitude indicates how difficult it is to dispel or resist the magic, whereas Intensity reflects its level of effect. More detail concerning these terms is described for each discipline.
 
 Although Maximum Intensity and Magnitude are based upon the value of a magical skill, they are not modified by any Difficulty Grades applied to the casting roll. For example, the Maximum Intensity of a spell is 1/10th the caster's Arcane Casting or Divine Channeling skill, no matter whether the casting roll is Easy, Hard, or even Herculean. The spell may be cast at any Intensity of between 1 and its Maximum Intensity. The spell's Magnitude is always based on the Maximum. Therefore, a caster with 60% skill may choose to cast a 3 Intensity Fire Ball; however, the spell will still possess a Magnitude of 6. A caster need not increase the Intensity to their Maximum values if they desire to limit the spell's effect or keep its Magic Point cost low. In addition, not all spells benefit from an increase in Intensity.
 
-For example, with an Arcane Casting skill of 56%, Rengarth possesses a Maximum Intensity and Magnitude of 6, for any spell he chooses to cast. His spell's Intensity starts at 1 and may be increased to 6 by spending additional Magic Points. His spell's Magnitude is 6 regardless of final Intensity.
+_For example, with an Arcane Casting skill of 56%, Rengarth possesses a Maximum Intensity and Magnitude of 6, for any spell he chooses to cast. His spell's Intensity starts at 1 and may be increased to 6 by spending additional Magic Points. His spell's Magnitude is 6 regardless of final Intensity._
 
+---
 ## Maintaining a Spell
 
 Spells with Durations based on Intensity do not have to be initially cast beyond an Intensity of 1 unless the caster so desires. Instead, the caster may choose (at the beginning of each period covered by the Duration), whether to maintain the spell or let it end. To maintain the spell, the caster simply spends the required Magic Points, and the spell continues for another period based on the Duration.
@@ -201,13 +208,15 @@ The only stipulation is that the caster must concentrate throughout the Duration
 
 For example, Detect Magic has a Duration noted as 2 Minutes/Intensity, this means that at 3 levels of Intensity, the spell will last 6 minutes. However, there is no reason why the caster could not cast the spell at Intensity 1 for 2 minutes and extend the Duration when the current Duration expires. In this case, the caster would have to maintain Concentration throughout the first 2 minutes and could spend another Magic Point to extend it another 2 minutes after the first Duration has expired. If after choosing to maintain Detect Magic for another 2 minutes, the caster chooses to cease Concentration, the spell will finish out its current Duration and then end.
 
+---
 ## Resisting Magic
 
 Most spells and magical effects that target an individual allow that individual a chance to resist; this is sometimes called rolling to save. Resisting targets may make an Opposed Endurance, Willpower, or even an Evade test in the case of a targeted missile spell. Note that Resist (Evade) requires the target to have a Combat Action available to throw themselves clear. Spells that may be resisted are always easier to resist at lower levels of Magnitude. To resist a spell, the victim compares the results of their Resistance roll with the caster's Arcane Casting or Channel skill roll. Where the original caster's skill is unknown, which may be the case of spells with Permanent durations, magical traps, and so on, make a casting skill roll at 55% for Rank 1 spells, +20% per additional Rank of the spell. Therefore, a Rank 3 spell would be resisted as if the caster had a skill of 95%.
 
+---
 ## Dispelling Magic
 
-All magic resists being dispelled using its Magnitude. Thus, at lower levels of skill, magic can be easy to dismiss. When Dispel Magic is cast against an ongoing magical effect or a magic item, there is no roll to resist. Instead, if the Intensity of Dispel Magic exceeds the Magnitude of the magic, it is dispelled, temporarily in the case of a magic item, or a spell with a Duration expressed as Permanent. See the write-up for Dispel Magic in Chapter 10: Spells. In addition to Dispel Magic, some spells may be used to dispel other spells if they are the same or opposed. These spells will be noted as such in their write-ups. The spell Light, for example, may be used to dispel Darkness.
+All magic resists being dispelled using its Magnitude. Thus, at lower levels of skill, magic can be easy to dismiss. When Dispel Magic is cast against an ongoing magical effect or a magic item, there is no roll to resist. Instead, if the Intensity of Dispel Magic exceeds the Magnitude of the magic, it is dispelled, temporarily in the case of a magic item, or a spell with a Duration expressed as Permanent. See the write-up for [Dispel Magic](0010_Spells.md?id=dispel-magic) in the [Chapter 10: Spells](0010_Spells.md). In addition to Dispel Magic, some spells may be used to dispel other spells if they are the same or opposed. These spells will be noted as such in their write-ups. The spell Light, for example, may be used to dispel Darkness.
 
 In these cases, every 1 level of Intensity counts as 3 Intensity with regards to countering the spell.
 
@@ -215,43 +224,83 @@ For example, if confronted with Darkness of Magnitude 6, the caster would need D
 
 It should be stressed, that under most circumstances, the Magnitude of an existing spell is unknown and dispelling it is a matter of trial and error.
 
+---
 ## Enduring Magic Costs
 
 As a rule, the Magic Points (or pool) of a spellcaster are temporarily reduced by the cost of all ongoing active magic. The caster is unable to start recovering Magic Points used to cast a spell (or similar ability) until that magic is dismissed or expires. Therefore, spells such as Charm Person, which can have a Duration measured in weeks, can severely hamper a magic-user that has decided to charm his own personal retinue. A spell with a Duration noted as Permanent does not affect the caster's Magic Point total.
 
+---
 ## Spell Traits
 
 Every Spell is defined by a series of traits explaining how it is used in the game, followed by a description of the spell's precise effects. In most cases the physical and temporal parameters of the spell can be hand waved unless the Games Master wishes to keep detailed track during tactical situations. A spell's traits are detailed using the following format:
 
-Spell Name (Reversed Spell Name)
+#### Spell Name (Reversed Spell Name)
 
 (School)
 
-| **Rank** : Clr 1 | **Casting Time** : 1 Action |
-| --- | --- |
+| **Rank** : Cleric 1 | **Casting Time** : 1 Action |
+| :-- | :-- |
 | **Sphere** : Light | **Duration** : Instant |
 | **Cost** : 1, +1/additional Intensity | **Range** : 0 |
 | **Area** : 20' Radius | **Resist** : Willpower |
 
 The traits are as follows:
 
-(Reversed Spell Name): Some spells are Reversible; these spells will have their reversed version names in parentheses after the spell's primary name. A spellcaster must choose when memorizing a spell noted as Reversible, whether it will be the normal or reversed version. It is possible to have both the normal and reversed versions of the same spell memorized.
+#### Spell Name (Reversed Spell Name)
+Some spells are Reversible; these spells will have their reversed version names in parentheses after the spell's primary name. A spellcaster must choose when memorizing a spell noted as Reversible, whether it will be the normal or reversed version. It is possible to have both the normal and reversed versions of the same spell memorized.
 
-(School): Following the name of the spell, is the School it belongs to. Spells belong to one of eight specific Schools of Magic, and while they are noted for both Arcane and Divine spells, the information is of most use to casters of the Arcane persuasion. While most mages remain generalists, being able to learn any spell, some prefer to concentrate on one School at the expense of others.
+#### (School)
+Following the name of the spell, is the School it belongs to. Spells belong to one of eight specific Schools of Magic, and while they are noted for both Arcane and Divine spells, the information is of most use to casters of the Arcane persuasion. While most mages remain generalists, being able to learn any spell, some prefer to concentrate on one School at the expense of others.
 
 For example, the School of Evocation specializes in manipulating unseen sources of power to create devastating damaging effects, granting access to spells such as Fireball, Lightning Bolt, and Magic Missile. On the other hand, the School of Enchantment teaches spells that affect the minds of others, allowing the caster to control or influence their normal behavior. This School includes spells such as Charm Person, Befuddle, and Command.
 
 A magic-user's spell book might only contain spells of a single School, or it could contain several spells of each. The precise balance or lack thereof is dependent upon the original creator of the spell book.
 
-Spells of the School of Enchantment have (Charm) noted as a reminder that these spells are typically subject to immunity by elves and half-elves. See the magic-user description in chapter 3 for the rules on specialist mages and more information on the various Schools of Magic.
+Spells of the School of Enchantment have (Charm) noted as a reminder that these spells are typically subject to immunity by elves and half-elves. 
 
-**Rank:** Notes the spell's Rank as it pertains to the Classes that can cast it. A spell that is Rank 1 for one Class, may be Rank 2 or even higher for another. Classes are abbreviated as Clr (Cleric) or Mag (Magic-User). Mag 1 denotes a that it is a Rank 1 Magic-User spell for example.
+<details>
 
-**Sphere:** Arcane spells do not have this trait. Divine spells are classified according to Sphere, of which there are 16: All, Animal, Astral, Charm, Combat, Creation, Divination, Elemental, Guardian, Healing, Necromantic, Plant, Protection, Summoning, Sun, and Weather. Where more than one Sphere is noted, the character Class must have access to each. Some spells note a separate Sphere in parentheses; this details the spell's Sphere when reversed. Deities have several Spheres of Influence which is a determining part of their nature.
+<summary>* Community Errata</summary>
 
-**Cost (X):** This is the cost in Magic Points to cast a spell. For example, a spell with a cost noted as 1, costs a single Magic Point to cast and cannot be increased in Intensity, while 3, +1/additional Intensity would cost 5 Magic Points to cast at 3 Intensity (3 for the first level, and 1 for each additional). Some spells which alter reality in a significant way have an additional cost in Experience Rolls, for example (+1 EXP).
+---
+#### (School)
 
-**Area (X):** The spell affects all targets within a defined area. This could be either a set amount, such as 20,' or as a variable such as 10'/Intensity. For example, a spell with an Area trait expressed as 10' Radius/Intensity, cast at Intensity 4 would have a radius of 40.' An Area spell with a Range of 0 has the effects centered upon the caster or whatever they touch.
+_The original text included a final sentence on schools of Arcane magic: "See the magic-user description in chapter 3 for the rules on specialist mages and more information on the various Schools of Magic."_
+
+_The Schools of Magic are covered in the full Classic Fantasy rules but not in Classic Fantasy Imperative so the line has been removed._
+
+---
+
+</details>
+
+
+#### Rank
+Notes the spell's Rank as it pertains to the Classes that can cast it. A spell that is Rank 1 for one Class, may be Rank 2 or even higher for another. 
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+#### Spell Traits / Rank
+
+_The original text was as follows: "**Rank:** Notes the spell's Rank as it pertains to the Classes that can cast it. A spell that is Rank 1 for one Class, may be Rank 2 or even higher for another. **Classes are abbreviated as Clr (Cleric) or Mag (Magic-User). Mag 1 denotes a that it is a Rank 1 Magic-User spell for example.**"_
+
+_The table format is clearer when spelling out the classes in full - i.e. Cleric instead of Clr, Mage instead of Mag._
+_This makes the explanation redundant so it has been removed._
+
+---
+
+</details>
+
+#### Sphere
+Arcane spells do not have this trait. Divine spells are classified according to Sphere, of which there are 16: All, Animal, Astral, Charm, Combat, Creation, Divination, Elemental, Guardian, Healing, Necromantic, Plant, Protection, Summoning, Sun, and Weather. Where more than one Sphere is noted, the character Class must have access to each. Some spells note a separate Sphere in parentheses; this details the spell's Sphere when reversed. Deities have several Spheres of Influence which is a determining part of their nature.
+
+#### Cost (X)
+This is the cost in Magic Points to cast a spell. For example, a spell with a cost noted as "1", costs a single Magic Point to cast and cannot be increased in Intensity, while "3 +1/additional Intensity" would cost 5 Magic Points to cast at 3 Intensity (3 for the first level, and 1 for each additional). Some spells which alter reality in a significant way have an additional cost in Experience Rolls, for example (+1 EXP).
+
+#### Area (X)
+The spell affects all targets within a defined area. This could be either a set amount, such as 20,' or as a variable such as 10'/Intensity. For example, a spell with an Area trait expressed as 10' Radius/Intensity, cast at Intensity 4 would have a radius of 40.' An Area spell with a Range of 0 has the effects centered upon the caster or whatever they touch.
 
 - **Caster:** The spell affects the caster only.
 - **1 or more Targets:** The spell affects one or more targets, of which one may be the caster if desired.
@@ -260,19 +309,23 @@ Spells of the School of Enchantment have (Charm) noted as a reminder that these 
 - **Radius (X):** Radius measures a circular area from its center to its edge. Therefore, an area with a 20' radius is 40' across.
 - **Wedge (X):** The spell affects all targets within a specified Wedge-shaped area. Wedges possess two equal dimensions; length and width, lacking any vertical dimension, with the specific dimensions defined in the description.
 
-**Casting Time (Instant, Turns, Actions, Minutes, or Hours):** The length of time required to cast a spell is defined as Instant, or 1 or more Actions, Rounds, Minutes, or Hours. This Casting Time is not typically modified by Intensity unless otherwise noted.
+#### Casting Time (Instant, Turns, Actions, Minutes, or Hours)
+The length of time required to cast a spell is defined as Instant, or 1 or more Actions, Rounds, Minutes, or Hours. This Casting Time is not typically modified by Intensity unless otherwise noted.
 
-**Duration (X):** The spell's effects stay in place for an amount of time described as either a set length, such as 10 minutes, or as a variable such as 5 Minutes/Intensity. Spells noted as Instant take place immediately and then end, while spells detailed as Permanent have a lasting effect.
+#### Duration (X)
+The spell's effects stay in place for an amount of time described as either a set length, such as 10 minutes, or as a variable such as 5 Minutes/Intensity. Spells noted as Instant take place immediately and then end, while spells detailed as Permanent have a lasting effect.
 
-- **Concentration:** The spell's active effects only function so long as the character specifically concentrates on it. Concentration requires the caster to be free of all physical and mental distractions: any such disturbance has a chance to interrupt the Concentration, resulting in the spell's immediate dismissal. Distraction follows the rules outlined on page XX for Interrupting Casting.
-- While concentrating, the caster is usually restricted to moving at a maximum of walking pace and performing Free or Reactive Actions (when necessary, use common sense). Any passive elements of the spell continue running without the need to concentrate unless the spell states otherwise; _for example, the Spiritual Hammer spell requires Concentration to move and attack with it, as soon as the cleric's Concentration lapses, the spell ends_. By default, a spellcaster may only concentrate on a single Concentration spell at any one time.
+- **Concentration:** The spell's active effects only function so long as the character specifically concentrates on it. Concentration requires the caster to be free of all physical and mental distractions: any such disturbance has a chance to interrupt the Concentration, resulting in the spell's immediate dismissal. Distraction follows the rules for [Interrupting Casting](0009_Magic.md?id=interrupting-casting).
+- While concentrating, the caster is usually restricted to moving at a maximum of walking pace and performing Free or Reactive Actions (when necessary, use common sense). Any passive elements of the spell continue running without the need to concentrate unless the spell states otherwise; for example, the Spiritual Hammer spell requires Concentration to move and attack with it, as soon as the cleric's Concentration lapses, the spell ends. By default, a spellcaster may only concentrate on a single Concentration spell at any one time.
 - **Trigger:** Trigger spells have their effects delayed by a period defined in the spell's description or sometimes at a time determined by the caster. If a spell not defined as permanent until triggered is not triggered within a four-hour period, it dissipates naturally.
 
-**Range (X):** Ranged spells may be cast upon targets within a Range defined as either Touch, or a set amount such as 40'. For example, a spell with a ranged trait expressed as 20'/Intensity and cast at Intensity 3 would have a Range of 60'. A spell with a Range of 0 may be cast on the caster only.
+#### Range (X)
+Ranged spells may be cast upon targets within a Range defined as either Touch, or a set amount such as 40'. For example, a spell with a ranged trait expressed as 20'/Intensity and cast at Intensity 3 would have a Range of 60'. A spell with a Range of 0 may be cast on the caster only.
 
 With regards to Touch spells, the spellcaster may always be the beneficiary if desired. Otherwise, the caster must be in physical contact with the target for the spell to take effect. These spells are typically cast and then held until the caster can make a successful Unarmed skill roll to touch an opponent. However, if the caster is within reach of a suitable opponent on the same Turn that the casting is finished, they may touch the opponent without a separate Unarmed roll being required. This assumes the roll to hit is part of the spell's somatic component. The opponent may Parry or Evade normally, and if struck, is still allowed an Opposed Roll to resist as specified in the spell description, with a success on the part of the victim negating any adverse effects. A Touch spell merely needs to contact the target or its worn accoutrements to work.
 
-**Resist (Disbelief/Evade/Endurance/Willpower):** Offensive spells do not necessarily take effect automatically. Resisting targets may make an Opposed Evade, Endurance, or Willpower test (as specified in the description) in order to avoid the effect of the spell entirely. Note that Resist (Evade) spells require the target to have a Combat Action available to throw themselves clear, and Disbelief must be stated by the player and is situation dependent. See Disbelieving Illusions and Phantasms later in this chapter for additional information.
+#### Resist (Disbelief/Evade/Endurance/Willpower)
+Offensive spells do not necessarily take effect automatically. Resisting targets may make an Opposed Evade, Endurance, or Willpower test (as specified in the description) in order to avoid the effect of the spell entirely. Note that Resist (Evade) spells require the target to have a Combat Action available to throw themselves clear, and Disbelief must be stated by the player and is situation dependent. See the rules for [attempting to disbelieve](0009_Magic.md?id=attempting-to-disbelieve) Illusions and Phantasms later in this chapter for additional information.
 
 ### Limiting Some Spell Traits
 
@@ -280,6 +333,7 @@ Many spells will augment more than 1 trait per level of Intensity. For example, 
 
 There is no minimum amount imposed on a spell trait. The only exception would be a spell with a static trait unaffected by Intensity. In this instance the trait may not be altered. For example, a Fireball spell possesses a radius of 20 feet. One of the things that balances this powerful spell is that it cannot have its area modified, making it just as dangerous to allies and enemies if not used with caution.
 
+---
 ## Illusions and Phantasms
 
 Illusions and phantasms are two different types of magic that produce similar effects yet operate under a different set of parameters. Both attempt to trick the senses of those observing them into believing they are real, and the prospect of using them successfully in play comes from knowing what each is capable and incapable of doing. Constructs such as golems and programmed undead such as skeletons and zombies are immune to the effects of illusions and phantasms, lacking any form of cognitive reasoning beyond simple programming. Both phantasms and illusions, while similar, operate differently as detailed below:
@@ -331,6 +385,7 @@ The more unbelievable the illusion, the easier it is to Disbelieve, and vice ver
 
 In the likely situation where some viewers see the manifestation for what it is, and others believe what they see, the players should play out the encounter as their characters believe it. _For example, those that know the ogre before them is an illusion or phantasm will attempt to reveal the true nature of the manifestation to their unbelieving allies. However, those under the spell's influence will be convinced that their friends are the ones being manipulated, and the ogre charging them is real._
 
+---
 ## Scrolls
 
 Scrolls are used by many of the _Classic Fantasy Imperative_ spellcasting Classes. They are a convenient way for casters to have access to additional spells, over and above those they can normally have memorized. Mage scrolls, other than those created by the caster, require the casting of Read Magic before they may be used. Thieves with the Ability to Use Arcane Scrolls may do so without having previously cast Read Magic upon them. Cleric scrolls do not need to have Read Magic cast and may be read by anyone to identify their contents, even a non-spellcaster. They still require a cleric to cast them, however. Protection scrolls may be read and used by anyone regardless of Class.
@@ -349,15 +404,15 @@ A caster may automatically cast any spell from a scroll, assuming they are of th
 
 The difficulty applied to the skill roll is dependent upon the difference between the caster's Rank and the spell's Rank and is detailed in the following table:
 
-##### Scroll Casting Difficulty
+#### Scroll Casting Difficulty
 
-| _**Difference**_ | **Modifier** |
-| --- | --- |
-| _Spell is of the caster's Rank or lower_ | Spell may be cast with no skill roll |
-| _Spell is 1 Rank higher than the caster_ | Spell may be cast with a successful skill roll |
-| _Spell is 2 Rank higher than the caster_ | Spell may be cast with a successful Hard skill roll |
-| _Spell is 3 Rank higher than the caster_ | Spell may be cast with a successful Formidable skill roll |
-| _Spell is 4 Rank higher than the caster_ | Spell may be cast with a successful Herculean skill roll |
+| **Difference** | **Modifier** |
+| :-- | :-- |
+| Spell is of the caster's Rank or lower | Spell may be cast with no skill roll |
+| Spell is 1 Rank higher than the caster | Spell may be cast with a successful skill roll |
+| Spell is 2 Rank higher than the caster | Spell may be cast with a successful Hard skill roll |
+| Spell is 3 Rank higher than the caster | Spell may be cast with a successful Formidable skill roll |
+| Spell is 4 Rank higher than the caster | Spell may be cast with a successful Herculean skill roll |
 
 ### Defending Against a Scroll's Effects
 
