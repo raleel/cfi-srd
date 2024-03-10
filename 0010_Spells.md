@@ -464,7 +464,7 @@ _The referenced table is not present in Classic Fantasy Imperative so the line h
 ---
 
 </details>
-
+<br>
 
 
 | **Intensity** | **Cost** | **Variable Effect** |
