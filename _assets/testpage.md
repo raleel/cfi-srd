@@ -12,4 +12,4 @@ Test linked table
 | Spell | Notes |
 | :-- | :-- |
 | [Charm Person](0010_Spells.md?id=charm-person) | Standard internal link format | 
-| [[dispel-magic]] | Dispel Magic as `[[dispel-magic]]` | 
+| ![Dispel Magic](0010_Spells.md?id=dispel-magic) | Standard link but visible here. This might be odd! | 
