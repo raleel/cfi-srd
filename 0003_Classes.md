@@ -489,7 +489,7 @@ _\*\* Counts as ½ a Thing._
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-obscure-object) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire](0010_Spells.md?id=wall-of-fire) |
 | [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
-| [Protection \(R\)](0010_Spells.md?id=protection-self) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-protection-from-good) | [Mirror Image](0010_Spells.md?id=mirror-image) |
+| [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-protection-from-good) | [Mirror Image](0010_Spells.md?id=mirror-image) |
 | [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
 | [Repair](0010_Spells.md?id=repair) | [Shield](0010_Spells.md?id=shield) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-air-breathing) |
 | [Tidy](0010_Spells.md?id=tidy) | [Sleep](0010_Spells.md?id=sleep) |
