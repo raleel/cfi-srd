@@ -36,6 +36,7 @@
     [Link to Google](https://www.google.com/)
   </div>
   <div class="column">
+
     # Right Column
     
     > Blockquote
