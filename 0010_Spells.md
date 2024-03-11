@@ -145,7 +145,7 @@ The reverse of this spell, Curse, allows the cleric to curse enemies, making the
 | **Cost:** 3+1/additional Intensity | **Range:** 0 |
 | **Area:** 120-degree Cone, 5 ft. long | **Resist:** Evade |
 
-This spell causes flames to shoot out from the caster's hands in a 120-degree arc. If using miniatures in combat, Burning Hands will damage each target that occupies 1 of the caster's front squares. Casting Burning Hands at higher levels of Intensity requires a higher Rank mage. This damage engulfs all targets within the area with damage based on the spell's Intensity, to a Maximum Intensity of 9, as follows. A successful Evade roll, throwing oneself prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a success in this case will only reduce damage by half unless they are within 5 feet of the edge of the Area of Effect.
+This spell causes flames to shoot out from the caster's hands in a 120-degree arc. If using miniatures in combat, Burning Hands will damage each target that occupies 1 of the caster's front squares. Casting Burning Hands at higher levels of Intensity requires a higher Rank mage. This damage engulfs all targets within the area with damage based on the spell's Intensity, to a Maximum Intensity of 9, as follows. A successful Evade roll, throwing oneself prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half unless they are within 5 feet of the edge of the Area of Effect.
 
 | **Intensity** | **Cost** | **Min Rank** | **Variable Effect** |
 | :-: | :-: | :-- | :-- |
@@ -435,7 +435,7 @@ Large creatures (SIZ 21-40) are less susceptible to Confusion, with their Resist
 
 This spell creates a globe of light equivalent in brightness to full daylight at a spot of the caster's choosing, which may be an object or even in thin air. It is semi-permanent and is only temporarily negated by entering an area of magical darkness. However, it may be permanently dismissed by the caster at any time or negated by a casting of Darkness or Dispel Magic at an Intensity greater than the Magnitude of Continual Light.
 
-Creatures with an aversion to daylight suffer the normal penalties associated with it when within the relevant Area of Effect. If cast upon a creature, the target is allowed a Willpower test to resist with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If centered upon a creature's eyes, a failed Willpower roll results in partial blindness, increasing the difficulty of all skill and Resistance rolls requiring sight by one grade. Sight may only be restored by casting Cure Blindness and Deafness at any Intensity, or by casting Dispel Magic at an Intensity greater than the Magnitude of Continual Light. The effects of the spell are immobile but can be cast on a portable or movable object.
+Creatures with an aversion to daylight suffer the normal penalties associated with it when within the relevant Area of Effect. If cast upon a creature, the target is allowed a Willpower test to resist with a Success indicating that the spell has affected the area directly behind the creature and not the creature itself. If centered upon a creature's eyes, a failed Willpower roll results in partial blindness, increasing the difficulty of all skill and Resistance rolls requiring sight by one grade. Sight may only be restored by casting Cure Blindness and Deafness at any Intensity, or by casting Dispel Magic at an Intensity greater than the Magnitude of Continual Light. The effects of the spell are immobile but can be cast on a portable or movable object.
 
 ---
 ### Control Weather
@@ -1031,7 +1031,7 @@ _\* Common Tongue, and the master's racial language if applicable._
 
 On the first Turn of casting, as the magic-user begins the verbal incantation and gestures, a small cinder or spark-sized flame begins to form in the hand, slowly enlarging to a small ball of fire. On the second Turn, the incantation complete, the magic-user mimes tossing the ball, which detonates with a low roar into a massive ball of fire. It possesses little pressure and delivers 1d6 points of damage for each 2 points of Intensity, or fraction thereof, to all victims in the Area of Effect. The damage is rolled once and is applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
-A successful Evade roll, resulting in going prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a success in this case will only reduce damage by half unless they are within 5 feet of the edge of the Area of Effect.
+A successful Evade roll, resulting in going prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half unless they are within 5 feet of the edge of the Area of Effect.
 
 A Fireball has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
@@ -1402,7 +1402,7 @@ Driving Sleet (Duration: 1 Round/Intensity): This variant of the spell creates a
 | **Cost:** 1/Intensity | **Range:** 0 |
 | **Area:** Caster | **Resist:** NA |
 
-With the casting of this spell the magic-user may attempt to identify the magical properties (if any) of one handled item or object. Simply touching the item is not typically enough, the item must be worn or held congruent with its design, e.g., a helm must be put on the head, an amulet slipped over the neck, a melee weapon firmly held if, a ring placed on a finger, and so forth. If the Arcane Casting roll is successful, a follow-up Arcane Knowledge roll will identify one magical property possessed by the item. One Arcane Knowledge attempt may be made each minute that the Duration continues. If a property requires an activation word, this is also identified along with the property. Items with charges will reveal the total currently available, along with the normal maximum, as will items possessing a Magic Point matrix.
+With the casting of this spell the magic-user may attempt to identify the magical properties (if any) of one handled item or object. Simply touching the item is not typically enough, the item must be worn or held congruent with its design, e.g., a helm must be put on the head, an amulet slipped over the neck, a melee weapon firmly held, a ring placed on a finger, and so forth. If the Arcane Casting roll is successful, a follow-up Arcane Knowledge roll will identify one magical property possessed by the item. One Arcane Knowledge attempt may be made each minute that the Duration continues. If a property requires an activation word, this is also identified along with the property. Items with charges will reveal the total currently available, along with the normal maximum, as will items possessing a Magic Point matrix.
 
 Cursed items are typically activated when a piece of equipment is first put on or used; therefore, the casting of this spell will subject the magic-user to the effects of any curse if present. If the Arcane Casting skill test is successful, the magic-user is allowed a Willpower test to avoid the effects of any curse. This does not dispel the curse on the object, however, but it does allow the caster to remove the item without being affected.
 
@@ -1442,7 +1442,7 @@ This illusion may be of anything from an open meadow to an ancient red dragon, i
 
 While no actual damage may be done by the illusion, nor any temperature created, the mind can be convinced that it feels pain, suffering the effects of injury, or feeling extremes of heat or cold; however, objects will not appear to freeze or combust, unless the caster concentrates on these effects as well. Once the spell has been cast, additional visual effects may be added by the magic-user at will by concentrating on the desired effect. This typically takes no time and may be handled as a Free Action. So, for example, if the caster wished to have a dropped illusionary torch cause dry leaves to appear to catch fire, the caster could concentrate as a Free Action to do so.
 
-See Illusions and Phantasms in Chapter 9 for more information.
+See the [Illusions and Phantasms](0009_Magic.md?id=illusions-and-phantasms) chapter for more information.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1476,9 +1476,9 @@ Those under the effects of Invisibility remain so throughout the spell's Duratio
 | :-- | :-- |
 | **Sphere:** None | **Duration:** 6 Hours/Intensity |
 | **Cost:** 3, +1/additional Intensity | **Range:** Touch |
-| **Area:** 1 Target | **Resist:** NA |
+| **Area:** 1 Target, 10ft. | **Resist:** NA |
 
-This spell functions identical to the Invisibility spell; however, all individuals within 10 feet of the recipient (which can be the caster themselves) when the spell is cast are rendered invisible as well. Those under the spell's effects can see each other; however, this does not grant the ability to see other invisible creatures. If any move out of the Area of Effect their Invisibility is lost, therefore, care must be taken to keep everyone within range of the original subject. Those moving back into the Area of Effect after their Invisibility has been lost, or having not been present when cast, do not benefit from its effects. Attacks made from the protection of Invisibility, including offensive spell casting by anyone other than the original subject, disrupt the Invisibility for that person but have no effect on other characters in the Area of Effect. However, an attack made by the original recipient of the spell renders everyone visible once again. See the basic Invisibility spell for further detail.
+This spell functions identical to the [Invisibility](0010_Spells.md?id=invisibility) spell; however, all individuals within 10 feet of the recipient (which can be the caster themselves) when the spell is cast are rendered invisible as well. Those under the spell's effects can see each other; however, this does not grant the ability to see other invisible creatures. If any move out of the Area of Effect their Invisibility is lost, therefore, care must be taken to keep everyone within range of the original subject. Those moving back into the Area of Effect after their Invisibility has been lost, or having not been present when cast, do not benefit from its effects. Attacks made from the protection of Invisibility, including offensive spell casting by anyone other than the original subject, disrupt the Invisibility for that person but have no effect on other characters in the Area of Effect. However, an attack made by the original recipient of the spell renders everyone visible once again. See the basic [Invisibility](0010_Spells.md?id=invisibility) spell for further detail.
 
 ---
 ### Invisibility, Greater
@@ -1491,7 +1491,7 @@ This spell functions identical to the Invisibility spell; however, all individua
 | **Cost:** 3, +1/additional intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** NA |
 
-This spell functions as per the basic Invisibility spell; however, no action taken on the part of the subject will end the Duration early. The target may make melee or ranged attacks, cast spells, and so on. Note there are visible clues to the action having taken place, such as a visual distortion. This allows anyone with a line of sight on the subject to make a Formidable Perception roll after the action is taken, or possibly before if the character is delayed, to discern the location of the invisible attacker. An attack at one grade of difficulty may be made in the same Round the subject acted in by those who perceive the invisible person's location. See the spell Invisibility for further detail.
+This spell functions as per the basic [Invisibility](0010_Spells.md?id=invisibility) spell; however, no action taken on the part of the subject will end the Duration early. The target may make melee or ranged attacks, cast spells, and so on. Note there are visible clues to the action having taken place, such as a visual distortion. This allows anyone with a line of sight on the subject to make a Formidable Perception roll after the action is taken, or possibly before if the character is delayed, to discern the location of the invisible attacker. An attack at one grade of difficulty may be made in the same Round the subject acted in by those who perceive the invisible person's location. See the spell [Invisibility](0010_Spells.md?id=invisibility) for further detail.
 
 ---
 ### Ironhand
@@ -1564,7 +1564,7 @@ The reverse of this spell, Obscure Alignment, makes a target's Alignment and Pas
 
 This spell allows the caster to understand and read almost any non-magical language. The 'speech' of non-sapient animals or creatures is not understood, only the true languages of sapient beings. The magic-user must touch the object or creature to comprehend its meaning. This spell gives no ability to speak or write the language.
 
-The reverse of this spell, Confuse Languages_,_ makes a creature unintelligible to anyone or a piece of written text indecipherable. This reverse may also be used to counter Know Languages as it is being cast.
+The reverse of this spell, Confuse Languages, makes a creature unintelligible to anyone or a piece of written text indecipherable. This reverse may also be used to counter Know Languages as it is being cast.
 
 ---
 ### Levitate
@@ -1598,7 +1598,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 | **Cost:** 1/Intensity | **Range:** 180 ft |
 | **Area:** 20 ft. Radius | **Resist:** See Below |
 
-When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
+When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a Success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
 
 _\*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell [Darkness](0010_Spells.md?id=darkness) with the exception that it possesses a lesser Duration of 30 minutes per Intensity._
 
@@ -1696,7 +1696,7 @@ When this spell is cast, one or more missiles of magical energy dart forth from 
 
 A Magic Missile will strike unerringly, even if the target is in melee combat or has partial cover. These missiles may not be evaded; however, an opponent in total cover cannot be targeted with this spell. The Shield spell will automatically deflect Magic Missiles assuming the target is aware and/or facing the caster. Magic Missiles do 1d6+1 points of damage and worn armor does not protect, but a creature's natural armor or magical Armor Points reduce damage as normal. Magic Missiles cause no damage to inanimate objects such as doors, locks, and so forth.
 
-When shooting multiple missiles, the caster may have them strike a single creature, or target several creatures. Each Magic Missile will strike a random Hit Location; specific Hit Locations may not be targeted. The caster must designate individual targets of each missile before they roll for damage.
+When shooting multiple missiles, the caster may have them strike a single creature, or target several creatures. Each Magic Missile will strike a random Hit Location - specific Hit Locations may not be targeted. The caster must designate individual targets of each missile before they roll for damage.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1756,7 +1756,7 @@ When the magic-user casts this spell, two micro-meteors per level of Intensity s
 
 Each meteor does 1d10 points of fire damage to those in the Area of Effect. However, due to the radius of each explosion, many will overlap, doing additional damage to those unfortunate enough to get caught by them. The damage rolls are combined and applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
-A successful Evade roll allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a success in this case will only reduce damage by half, unless they are within 5 feet of the edge of the Area of Effect.
+A successful Evade roll allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half, unless they are within 5 feet of the edge of the Area of Effect.
 
 Everyone, including those outside the Area of Effect but within 60 feet of an impact point, are required to succeed at an Athletics roll to remain standing.
 
@@ -1811,13 +1811,15 @@ This spell allows the caster to cancel the effect of poison or venom afflicting 
 
 When reversed, Inflict Poison allows the caster to produce a deadly toxin in a victim. This venom is detailed below.
 
-- Application: Contact
-- Potency: equal to Intensity x30
-- Resistance: Endurance
-- Onset Time: 1d2+1 Rounds
-- Duration: 1d3x10 Minutes
-- Conditions: Victims begin with Agony lasting 2 Rounds before Asphyxiation strikes, usually resulting in death, unless magically treated with either Slow or Neutralize Poison.
-- Antidote/Cure: None short of magical treatment.
+#### Arcane Poison
+
+- **Application:** Contact
+- **Potency:** equal to Intensity x30
+- **Resistance:** Endurance
+- **Onset Time:** 1d2+1 Rounds
+- **Duration:** 1d3x10 Minutes
+- **Conditions:** Victims begin with Agony lasting 2 Rounds before Asphyxiation strikes, usually resulting in death, unless magically treated with either Slow or Neutralize Poison.
+- **Antidote/Cure:** None short of magical treatment.
 
 ---
 ### Part Water
@@ -1929,7 +1931,7 @@ In addition to any generic material components, the casting of Plane Shift requi
 | **Cost:** 1 | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** None |
 
-Polish instantly buffs one object equal in 'Things' or SIZ of up to the caster's POW to a high sheen making it glossy, shiny, and highly desirable, even if the quality of the article is sub-par. The item will lose its sheen normally overtime.
+Polish instantly buffs one object - equal in 'Things' or SIZ of up to the caster's POW - to a high sheen making it glossy, shiny, and highly desirable, even if the quality of the article is sub-par. The item will lose its sheen normally overtime.
 
 ---
 ### Polymorph Other
