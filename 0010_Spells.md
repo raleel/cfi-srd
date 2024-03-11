@@ -995,7 +995,7 @@ In the case of the familiar's death, the caster loses 5 Experience Rolls. A cast
 
 The type of familiar to appear, if any, is determined according to the following table. Under most circumstances, common familiars are not exceptionally large, being between SIZ 1-4, and use the Small Animal write-up.
 
-### Common Familiars
+##### Common Familiars
 
 | **d100 Roll** | **Type** | **STR/SIZ** | **POW** | **Granted Special Abilities, all include Telepathic Link** |
 | :-: | :-: | :-: | :-: | :-- |
