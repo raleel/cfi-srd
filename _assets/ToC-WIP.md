@@ -40,7 +40,12 @@
     
     > Blockquote
     
-    ![Image](image.jpg)
+    !Text
+
+- Info
+- Info
+- Info
+
   </div>
 </div>
 
