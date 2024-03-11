@@ -1,7 +1,7 @@
 # Chapter 10: Spells
 
 ---
-### Appraise
+#### Appraise
 
 (Divination)
 
@@ -14,7 +14,7 @@
 Appraise allows the immediate assessment of the quality of physical goods of combined ENC in 'Things' or SIZ equal to the caster's POW. The spell determines whether identical looking items are of the same or similar quality, or if one or more is either flawed or of a higher quality. The spell does not work on organic things, only on inanimate objects. Neither does it determine what flaws or enhancements are present; merely that they exist. It is of no use in the identification or detection of magic.
 
 ---
-### Armor
+#### Armor
 
 (Conjuration)
 
@@ -35,7 +35,7 @@ When this spell is cast, the subject is gifted with an invisible field of magica
 | +1 | +1 | Continue progression |
 
 ---
-### Astral Spell
+#### Astral Spell
 
 (Transmutation)
 
@@ -48,7 +48,7 @@ When this spell is cast, the subject is gifted with an invisible field of magica
 This spell allows the caster and up to five others (one per additional level of Intensity) to enter the Astral Plane. All must be touching and forming a circle while the spell is cast. The travelers' bodies are left behind in the plane of origin, and they typically do not bring with them any clothing or equipment, except for that which itself radiates a magical aura; these items transform into astral equivalents of their normal form. The Duration lasts until the caster wishes it to cease. However, it is possible for it to be ended prematurely by an outside force such as Dispel Magic. Killing the caster's physical body also ends the spell early, although this has the unfortunate side effect of stranding any travelers accompanying the caster.
 
 ---
-### Augury
+#### Augury
 
 (Divination)
 
@@ -79,7 +79,7 @@ If the divination roll succeeds, it grants one of the following results:
 A Fumble should result in the Games Master telling the opposite of the reality.
 
 ---
-### Avert
+#### Avert
 
 (Abjuration)
 
@@ -92,7 +92,7 @@ A Fumble should result in the Games Master telling the opposite of the reality.
 Avert is used to dismiss another Rank 0 spell within Range. Avert can be cast reactively to neutralize offensive Rank 0 spells, by using the Counter Magic Reactive Action.
 
 ---
-### Befuddle
+#### Befuddle
 
 (Enchantment (Charm))
 
@@ -105,7 +105,7 @@ Avert is used to dismiss another Rank 0 spell within Range. Avert can be cast re
 Befuddle causes confusion within the mind of a corporeal target. The subject of the spell has difficulty thinking straight, forgetting where it is, what it is doing, and why – often lapsing into disassociated lines of thought. Befuddled targets can still act in self-defense but cannot initiate any constructive activity until the spell ends. Any sort of attack or threatening action instantly breaks the spell, whether or not it was directed specifically at the befuddled target.
 
 ---
-### Blade Barrier
+#### Blade Barrier
 
 (Evocation)
 
@@ -120,7 +120,7 @@ This spell creates a barrier of whirling slicing swords, daggers, and knives tha
 The spell may be cast defensively to protect the cleric or one or more allies or offensively trap enemies. However, encircled enemies within five feet of the edge of the barrier as it is forming may make an Evade roll to escape. Regardless of success, the opponent ends up prone, just outside the Area of Effect. A successful roll results in no damage; otherwise, they suffer the full effect.
 
 ---
-### Bless (Curse)
+#### Bless (Curse)
 
 (Conjuration)
 
@@ -135,7 +135,7 @@ When this spell is cast, the cleric blesses a group of allies within the Area of
 The reverse of this spell, Curse, allows the cleric to curse enemies, making the noted skills suffer the inverse of the benefits noted above. A cursed weapon's damage is calculated as a penalty instead, and this damage cannot result in less than 1 point.
 
 ---
-### Burning Hands
+#### Burning Hands
 
 (Transmutation)
 
@@ -160,7 +160,7 @@ Worn armor does not protect, but magical Armor Points or a creature's natural ar
 Because larger creatures are typically bigger than the spell's Area of Effect, they will tend to have fewer Hit Locations affected. Those of SIZ 21 to 30 take the damage to their head, chest, abdomen, and arms, while those of SIZ 31+ will take the damage to their abdomen and legs. Games Masters should adjust these locations dependent on the target's shape and position relative to the caster. Burning Hands has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
-### Calm
+#### Calm
 
 (Enchantment (Charm))
 
@@ -173,7 +173,7 @@ Because larger creatures are typically bigger than the spell's Area of Effect, t
 Calm attempts to dampen down the Passions of a SIZ 1-20 humanoid target, perhaps ensuring that a lovesick paramour does not press his suit, a frightened rival does not scream for help, or that weapons are not drawn in anger. A calmed person is not otherwise mentally affected; thus, any sort of assault or threatening action still permits the target to defend themselves, and even attack, albeit they will do so in a calm and level-headed manner.
 
 ---
-### Chain Lightning
+#### Chain Lightning
 
 (Evocation)
 
@@ -203,7 +203,7 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 | +1 | +1 | Continue progression |
 
 ---
-### Change Appearance
+#### Change Appearance
 
 (Illusion)
 
@@ -216,7 +216,7 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 This spell alters the appearance of the caster to that of any humanoid or person-shaped bipedal form. Height and Weight change is limited to ±5 SIZ, respectively, but within that range, a caster may choose to become fat or thin, tall, or short, or even alter gender. Hair, clothing, and equipment may be changed along with appearance. The caster's facial features may be changed as desired, even to the extent of perfectly imitating another existing person. The spell is subject to [disbelief](0009_Magic.md?id=attempting-to-disbelieve) as per other Illusion spells. The spell does not alter the caster's scent, and if touched, the caster still feels the same as their original shape and clothing.
 
 ---
-### Chant
+#### Chant
 
 (Conjuration)
 
@@ -231,7 +231,7 @@ All those within the Area of Effect receive a +5% bonus to all skill rolls and a
 The Chant must be maintained throughout the spell's Duration or the effects end. The casting of Dispel Magic has no effect on the ongoing effects of Chant as the chanting itself is not magical; however, the casting of Silence nullifies the spell's benefits. The effects of Chant stack with those of both Bless and Curse. Because of the requirement to chant throughout the Duration, casting other spells is impossible.
 
 ---
-### Charm Person
+#### Charm Person
 
 (Enchantment (Charm))
 
@@ -255,7 +255,7 @@ After the initial roll to resist, 1 week must pass before the subject can make a
 | 4 | 6 | 4 | Charmed for 4 weeks |
 
 ---
-### Charm, Mass
+#### Charm, Mass
 
 (Enchantment (Charm))
 
@@ -275,7 +275,7 @@ With the exceptions noted above, this spell functions like the spells [Charm Per
 | 4 | 12 | Charmed for 4 weeks |
 
 ---
-### Charm Monster
+#### Charm Monster
 
 (Enchantment (Charm))
 
@@ -295,7 +295,7 @@ This is an improved version of the spell [Charm Person](0010_Spells.md?id=charm-
 | 4 | 6 | 4 | Charmed for 4 weeks |
 
 ---
-### Chill (Heat)
+#### Chill (Heat)
 
 (Evocation)
 
@@ -310,7 +310,7 @@ Chill dramatically reduces the temperature of a small object with an ENC no grea
 When reversed, Heat, dramatically increases the temperature of small objects up to the temperature of boiling water. This versatile spell is useful for mulling wine, cooking food without a fire, or warming a bed prior to sleep. It does not affect living tissue although it can affect clothing and armor, making it somewhat uncomfortable, but not to the extent of hindering the wearer.
 
 ---
-### Cleanse (Dishevel)
+#### Cleanse (Dishevel)
 
 (Transmutation)
 
@@ -325,7 +325,7 @@ Cleanse is used to rid an object, person or small area of dirt, grease, grime, b
 Dishevel is the reverse of Cleanse. Objects affected are immediately covered in grime, dust, cobwebs, and so forth. The spell can be used to make brand new objects look old and weathered or help prevent normally well-turned-out people from being recognized.
 
 ---
-### Command
+#### Command
 
 (Enchantment (Charm))
 
@@ -360,7 +360,7 @@ The subject of the command must be able to understand the language spoken by the
 - **Surrender:** The subject drops its weapons and ceases hostilities.
 
 ---
-### Cone of Cold
+#### Cone of Cold
 
 (Evocation)
 
@@ -386,7 +386,7 @@ With a successful Evade roll, throwing oneself prone, the victim suffers no dama
 | +1 | +1 | Continue progression |
 
 ---
-### Confusion
+#### Confusion
 
 (Enchantment (Charm))
 
@@ -423,7 +423,7 @@ Large creatures (SIZ 21-40) are less susceptible to Confusion, with their Resist
 | +1 | +1 | Continue progression |
 
 ---
-### Continual Light
+#### Continual Light
 
 (Transmutation)
 
@@ -438,7 +438,7 @@ This spell creates a globe of light equivalent in brightness to full daylight at
 Creatures with an aversion to daylight suffer the normal penalties associated with it when within the relevant Area of Effect. If cast upon a creature, the target is allowed a Willpower test to resist with a Success indicating that the spell has affected the area directly behind the creature and not the creature itself. If centered upon a creature's eyes, a failed Willpower roll results in partial blindness, increasing the difficulty of all skill and Resistance rolls requiring sight by one grade. Sight may only be restored by casting Cure Blindness and Deafness at any Intensity, or by casting Dispel Magic at an Intensity greater than the Magnitude of Continual Light. The effects of the spell are immobile but can be cast on a portable or movable object.
 
 ---
-### Control Weather
+#### Control Weather
 
 (Transmutation)
 
@@ -477,7 +477,7 @@ _The referenced table is not present in Classic Fantasy Imperative so the line h
 | +1 | +1 | Continue progression |
 
 ---
-### Coordination
+#### Coordination
 
 (Transmutation)
 
@@ -490,7 +490,7 @@ _The referenced table is not present in Classic Fantasy Imperative so the line h
 Coordination enhances manual dexterity and agility when performing a single predetermined task. When cast in preparation it permits the recipient a chance to re-roll a single skill check where coordination is required, such as Acrobatics, Lockpicking, and so on. The recipient may choose the better of the two rolls, but the spell is expended in the process.
 
 ---
-### Create Food and Water
+#### Create Food and Water
 
 (Alteration)
 
@@ -503,7 +503,7 @@ Coordination enhances manual dexterity and agility when performing a single pred
 The casting of this spell creates out of thin air, enough food to feed three creatures of SIZ 20 or less or one creature of SIZ 21-40 for an entire day per Intensity. Creatures larger than SIZ 40 require 1 Intensity per 'meal' instead. This creation resembles normal food in all ways, and while rather bland, may be of anything the caster desires. What it lacks in flavor, it more than makes up for in nourishment. Once created, the food has a shelf life of 24 hours regardless of how it is stored. However, once it has gone bad, it may once again be made edible with the casting of Purify Food and Water, extending the period in which it may be safely eaten by another 24 hours. In addition to the food created, the spell creates plenty of drinking water, functioning in all ways as the Rank 1 spell Create Water.
 
 ---
-### Cure Disease (Cause Disease)
+#### Cure Disease (Cause Disease)
 
 (Necromancy)
 
@@ -526,7 +526,7 @@ This spell cures the effects of any mundane or magical disease afflicting the ta
 The reverse of this spell, Cause Disease, inflicts a magical malady on an enemy. If successful, the caster may choose to inflict any known disease upon the target; however, the Intensity x30 must equal or exceed the Potency of the chosen disease. Once the disease has been successfully inflicted, it functions as per any other disease with regards to resistance, Onset Time, Duration, and so on. The only exception being that early recovery is limited to the casting of either Remove Disease or Cure. The Healing skill has no effects on magically inflicted diseases.
 
 ---
-### Cure Fatigue (Cause Fatigue)
+#### Cure Fatigue (Cause Fatigue)
 
 (Necromancy)
 
@@ -541,7 +541,7 @@ When this spell is cast, the subject regains 1d3+1 lost levels of Fatigue, even 
 The reverse of this spell, Cause Fatigue, imparts 1d3+1 levels of Fatigue to targets failing an Endurance roll. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. Neither worn nor natural armor offers any protection, but magical Armor negates the spell.
 
 ---
-### Cure Major Wounds (Cause Major Wounds)
+#### Cure Major Wounds (Cause Major Wounds)
 
 (Necromancy)
 
@@ -560,7 +560,7 @@ If the injury took place earlier, then the body part must undergo a more traumat
 When reversed, Cause Major Wounds may be used to reduce a single Hit Location by 1d8+4 Hit Points. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. This spell cannot sever the location but can crush or mutilate it normally. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage as normal.
 
 ---
-### Cure Minor Wounds (Cause Minor Wounds)
+#### Cure Minor Wounds (Cause Minor Wounds)
 
 (Necromancy)
 
@@ -581,7 +581,7 @@ Alternately, the spell may cause a minor malady, such as a headache, back pain, 
 The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage as normal.
 
 ---
-### Cure Serious Wounds (Cause Serious Wounds)
+#### Cure Serious Wounds (Cause Serious Wounds)
 
 (Necromancy)
 
@@ -598,7 +598,7 @@ Cure Serious Wounds heals one Hit Location of 1d6+2 points of injury, provided t
 When reversed, Cause Serious Wounds reduces a single Hit Location by 1d6+2 Hit Points. Cause Serious Wounds will only cause 2 points of damage to a location with a Major Wound; any excess damage is lost. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. This spell cannot sever the location but can crush or mutilate it normally. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage as normal.
 
 ---
-### Dancing Lights
+#### Dancing Lights
 
 (Transmutation)
 
@@ -619,7 +619,7 @@ When this spell is cast, the magic-user can create one of the following effects:
 | +1 | +1 | Continue progression |
 
 ---
-### Darkness
+#### Darkness
 
 (Transmutation)
 
@@ -640,7 +640,7 @@ This spell creates an area of total magical darkness in a 10-foot radius, blocki
 | +1 | +1 | Continue progression |
 
 ---
-### Darkvision
+#### Darkvision
 
 (Transmutation)
 
@@ -653,7 +653,7 @@ This spell creates an area of total magical darkness in a 10-foot radius, blocki
 This spell grants the recipient Darkvision to a Range of 60 feet. It functions in all ways as the racial Ability of the same name.
 
 ---
-### Death Spell
+#### Death Spell
 
 (Necromancy)
 
@@ -678,7 +678,7 @@ Casting the spell at sufficient Intensity to equal or exceed the number of poten
 _Example: Rengarth casts the Death Spell into an area occupied by four SIZ 16 orcs and two SIZ 32 hill giants, choosing an Intensity of 3. Rolling 3d6 for the spell's effects, with 1d6 per Intensity, results in 12 points. While each hill giant requires only 5 points to be killed, the smaller orcs are the first affected. Three of the four orcs fail their Resistance roll and succumb to death. As each orc is equal to 1 point, 8 points remain. This is enough to affect a single hill giant for 5 points, with the remaining 3 points being lost. However, the angry hill giant has no problem succeeding at its Easy Resistance roll and charges at Rengarth._
 
 ---
-### Deflect
+#### Deflect
 
 (Evocation)
 
@@ -691,7 +691,7 @@ _Example: Rengarth casts the Death Spell into an area occupied by four SIZ 16 or
 Deflect wards the recipient against tiny impacts of foreign material, such as raindrops, a cloud of midges, or even flying grains of sand. The protection is limited to individual objects smaller than a child's fingernail, and thus cannot prevent normal missile weapons from striking a character.
 
 ---
-### Detect Charm (Hide Charm)
+#### Detect Charm (Hide Charm)
 
 (Divination)
 
@@ -704,7 +704,7 @@ Deflect wards the recipient against tiny impacts of foreign material, such as ra
 This spell allows the caster to discern if one or more selected creatures are under the effects of Charm. A full minute's Concentration is required to scan one creature. When the reverse of this spell (Hide Charm) is cast, one creature may be shielded from such detection for 6 hours/Intensity.
 
 ---
-### Detect Evil (Detect Good)
+#### Detect Evil (Detect Good)
 
 (Divination)
 
@@ -717,7 +717,7 @@ This spell allows the caster to discern if one or more selected creatures are un
 With this spell, the caster can detect strong emanations of evil within a 90-degree arc, out to 180 feet. It will only discover evil creatures of a supernatural nature like demons and vampires, or mundane beings of either evil or vile intention, as determined by the Games Master. It will not, however, detect such things as traps, poison, cursed items, or so on. The caster can see the emanations through up to 3 feet of solid wood, 1 foot of stone or dirt, and 1 inch of solid metal. Because the magical auras need time to form, no more than one 60° arc may be scanned per minute. The reverse of this spell, Detect Good, follows the same rules noted above.
 
 ---
-### Detect Invisibility
+#### Detect Invisibility
 
 (Divination)
 
@@ -730,7 +730,7 @@ With this spell, the caster can detect strong emanations of evil within a 90-deg
 When this spell is cast, the magic-user gains the ability to see any objects or beings that are invisible. This includes those that are hidden, ethereal, astral, or out of phase. It may also detect those hidden or concealed by mundane means. Unlike other Detect spells, Detect Invisibility is limited to line of sight and does not require a minute to scan an arc of vision.
 
 ---
-### Detect Lie (Conceal Lie)
+#### Detect Lie (Conceal Lie)
 
 (Divination)
 
@@ -743,7 +743,7 @@ When this spell is cast, the magic-user gains the ability to see any objects or 
 When cast, this spell determines whether one being is knowingly lying or otherwise withholding the truth. The actual truth is not revealed, however, only that the answers being provided are not accurate. The target may still attempt to 'beat' the spell, with a Formidable Opposed Roll of their Deceit, vs. the original casting roll. The spell may be reversed, if so, Conceal Lie prevents detection of lies by magical means for a period of 6 hours per Intensity.
 
 ---
-### Detect Magic
+#### Detect Magic
 
 (Divination)
 
@@ -766,7 +766,7 @@ When cast, the magic-user sees a glowing blue aura surrounding any magic item or
 There is a 10% chance per Intensity of discovering the specific type of magic (necromancy, elemental, and so forth). The aura the caster sees projects through solid objects, up to 3 feet of wood, 1 foot of stone, and 1 inch of solid metal. Because the magical auras need time to form, no more than one 60° arc may be scanned per minute. Demons, devils, angels, and elementals are not magical in and of themselves, but if they are summoned, the conjuration spell will register for a number of minutes equal to the summoning spell's Magnitude x10 where it was cast.
 
 ---
-### Dimension Door
+#### Dimension Door
 
 (Transmutation)
 
@@ -779,7 +779,7 @@ There is a 10% chance per Intensity of discovering the specific type of magic (n
 Dimension Door is a form of short-range teleportation. The caster instantly jumps up to 100 feet per Intensity without crossing the intervening space, with no chance of error. The desired location may either be visually seen or may be specified by direction: 40 feet straight ahead, 65 feet down, 45° to the left, and so on. Arriving in mid-air will result in falling damage unless saved by a spell such as Feather Fall, while accidentally jumping into a solid object will instead trap the caster in the Astral Plane. All physically carried equipment (non-living, inanimate matter) jumps along with the caster. Living matter of no more than 20 SIZ may accompany the caster. For example, a character of SIZ 11 may jump along with the caster assuming both are touching. The caster, and any living creature transported as well, requires a full Round to recover. If attacked during this time, such individuals may do no more than defend.
 
 ---
-### Dispel Magic
+#### Dispel Magic
 
 (Abjuration)
 
@@ -796,7 +796,7 @@ Dispel Magic starts with the most powerful magic in the Area of Effect. If it fa
 Dispel Magic may be used defensively to neutralize incoming offensive spells, by using the Counter Spell Reactive Action.
 
 ---
-### Divination
+#### Divination
 
 (Divination)
 
@@ -819,7 +819,7 @@ The Games Master should make this roll for the player as there are some instance
 | 5 | 16 | Spell cast at Very Easy difficulty |
 
 ---
-### Dry
+#### Dry
 
 (Transmutation)
 
@@ -832,7 +832,7 @@ The Games Master should make this roll for the player as there are some instance
 Dry removes all extraneous moisture from an object or person, either slicking off to form a puddle or evaporating in a cloud of vapor. It is normally used to dry off after heavy rain or help protect equipment from rotting but has several other versatile uses. The caster can dry an object up to POW x2 in SIZ.
 
 ---
-### Earthquake
+#### Earthquake
 
 (Transmutation)
 
@@ -858,7 +858,7 @@ Earthquake causes a ground tremor capable of knocking people from their feet and
 | 10 | 12 | 500 ft. Range; 100 ft. radius; Total destruction, even colossal stone monuments suffer partial collapse. Cliffs and mountain flanks shatter. | 1d12 damage to four locations |
 
 ---
-### Enchant Item
+#### Enchant Item
 
 (Enchantment)
 
@@ -879,7 +879,7 @@ When using the item, each spell contained within may be cast only once, however 
 It is not possible to imbue other magical effects into an item that do not conform to a specific spell, and many magic items from times long gone simply cannot be recreated in this day and age.
 
 ---
-### Enchant Weapon
+#### Enchant Weapon
 
 (Transmutation)
 
@@ -892,7 +892,7 @@ It is not possible to imbue other magical effects into an item that do not confo
 When this spell is cast while touching a normal weapon, the weapon is instilled with a temporary Enchantment granting a magical +1 Damage Modifier. This also allows an otherwise normal weapon to strike a creature only able to be harmed by weapons possessing at least a +1 Enchantment. The spell may be used to enchant two weapons equal in size to ½ a 'Thing' each, such as daggers, knives, arrows, and so on. Otherwise, no more than a single weapon may be enchanted per casting. An existing magic weapon may have its bonus increased by +1 to a total maximum combined bonus of +3. A weapon with a +3 bonus has its Size increased by one category for the purposes of inflicting damage: Large to Huge, Huge to Enormous, Enormous to Colossal. An Enchanted Weapon possesses +5 Armor Points and +2 Hit Points per +1 Enchantment for a weapon of its type. This spell may be combined with the spell's Enchant Item and Permanency to create a weapon with a lasting Enchantment.
 
 ---
-### Endure Heat/Cold
+#### Endure Heat/Cold
 
 (Transmutation)
 
@@ -905,7 +905,7 @@ When this spell is cast while touching a normal weapon, the weapon is instilled 
 This spell allows the caster to protect one creature from normal extremes of heat or cold, as determined when the spell is cast. The recipient of the spell is immune to mundane extremes of natural heat or cold, such as sub-zero temperatures or sweltering desert heat. Apart from Heat Metal, to which this spell offers complete protection, any 'attack' by magical heat or cold, such as a red dragon's flame breath or a mage's cone of cold spell automatically dispels the protection, regardless of which element was protected against at the time. However, the protected individual may ignore the first 10 points of damage in the Round in which the spell fails, assuming the protection fits the attack type. In the case of area effect spells, the damage is reduced before being applied.
 
 ---
-### Energy Drain
+#### Energy Drain
 
 (Evocation or Necromancy)
 
@@ -918,7 +918,7 @@ This spell allows the caster to protect one creature from normal extremes of hea
 When cast, this spell imposes two levels of permanent Fatigue loss on the victim of a failed Resistance roll. Fatigue loss through Energy Drain is cumulative with normal Fatigue loss; therefore, opponents already weakened through combat or travel are more susceptible to Energy Drain. Cure Fatigue spells and potions do not affect Fatigue lost due to Energy Drain; however, Restoration spells and scrolls can permanently cure the lost Fatigue. Armor has no effect on Energy Drain.
 
 ---
-### Exorcism
+#### Exorcism
 
 (Abjuration)
 
@@ -931,7 +931,7 @@ When cast, this spell imposes two levels of permanent Fatigue loss on the victim
 By means of this spell, clerics call upon their deity to drive out a spirit or other supernatural force currently possessing a corporeal being such as in demonic possession. Exorcism may also be used against domination by certain objects and magic items, spells, curses, and even charms. Whether the possession is dominant, or covert is immaterial. The magic exorcises all forms of possession with an Intensity of up to half the Intensity of the spell. What occurs next depends on the attitude and type of entity, if any, but belligerent ones with the power to discorporate may be tempted to engage other nearby targets in Spirit Combat. Treat as a Magic Duel, however, if the entity wins, they may possess the loser. If the entity loses, it is sent back to its plane of origin. Thus, this spell can be potentially dangerous for the caster or their fellows. The Casting Time is very random and cannot be interrupted without disrupting the ritual.
 
 ---
-### Fear
+#### Fear
 
 (Illusion)
 
@@ -944,7 +944,7 @@ By means of this spell, clerics call upon their deity to drive out a spirit or o
 When this spell is cast, a wave of terror expands outward, causing all those who fail a Resistance roll to flee in fear. Those so affected flee directly away from the caster at sprinting speed for a number of Rounds equal to the spell's Intensity x2. This terror is so all-consuming that those opponents who Fumble the roll to resist drop any held items that are not secured in some fashion. Large creatures (SIZ 21-40) are less susceptible to this spell with the Resistance roll being Easy, and the Resistance roll for Huge creatures (SIZ 41+) is Very Easy.
 
 ---
-### Feather Fall
+#### Feather Fall
 
 (Transmutation)
 
@@ -971,7 +971,7 @@ Due to this spell's Instant Casting Time, the mage may use Feather Fall reactive
 | +1 | +1 | Continue progression |
 
 ---
-### Find Familiar
+#### Find Familiar
 
 (Conjuration)
 
@@ -1019,7 +1019,7 @@ The type of familiar to appear, if any, is determined according to the following
 _\* Common Tongue, and the master's racial language if applicable._
 
 ---
-### Fireball
+#### Fireball
 
 (Evocation)
 
@@ -1046,7 +1046,7 @@ A Fireball has a chance of igniting flammable materials equal to the damage roll
 | +1 | +1 | Continue progression |
 
 ---
-### Fireball, Delayed Blast
+#### Fireball, Delayed Blast
 
 (Evocation)
 
@@ -1069,7 +1069,7 @@ With the exceptions noted both above and in the following text, this spell funct
 | +1 | +1 | Continue progression |
 
 ---
-### Fire Shield
+#### Fire Shield
 
 (Evocation)
 
@@ -1087,7 +1087,7 @@ This spell creates a shield of wispy flames that immolates the caster or one oth
 Melee attacks against the recipient of either variant, whether armed or unarmed, inflict normal damage unless using one of the elements protected against. In this case, the caster is protected from the elemental portion of the attack, and the attacker receives damage equal to that inflicted. Worn armor on the part of the attacker offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. Creatures with Innate Magic Resistance can dispel Fire Shield on a successful Willpower roll when the recipient is first struck. If the Magic Resistance roll fails, the opponent cannot later negate the Fire Shield.
 
 ---
-### Flame Strike
+#### Flame Strike
 
 (Evocation)
 
@@ -1111,7 +1111,7 @@ Flame Strike has a chance of igniting flammable materials equal to the damage ro
 | +1 | +1 | Continue progression |
 
 ---
-### Flesh to Stone (Stone to Flesh)
+#### Flesh to Stone (Stone to Flesh)
 
 (Transmutation)
 
@@ -1126,7 +1126,7 @@ When cast, one victim within Range is allowed a Willpower Resistance roll. If un
 The reverse of this spell, Stone to Flesh, is used to restore a victim and no roll to resist is necessary. However, the spell may also be reversed to transform stone that was never previously alive; being used in one of several creative ways. For example, a wall of stone 10 cubic feet in size per level of Intensity may be transformed into soft flesh, a 'tunnel' of flesh up to 3 feet wide, with a length of 10 feet per Intensity could be created, a single target such as a stone statue could be transformed into a body, and even a stone golem could be transformed into a flesh golem by means of this spell. However, in the latter case, the stone golem would be allowed a Willpower roll to resist as normal. Stone turned to flesh in this way is soft. and pliable, and while it retains its actual Hit Points, possesses no Armor Points, thus making it easier to hack apart.
 
 ---
-### Floating Disk
+#### Floating Disk
 
 (Conjuration)
 
@@ -1147,7 +1147,7 @@ The magic-user may cast this spell to create a shimmering disk of force concentr
 | +1 | +1 | Continue progression |
 
 ---
-### Fly
+#### Fly
 
 (Transmutation)
 
@@ -1168,7 +1168,7 @@ When this spell is cast, the magic-user may grant one creature of up to 10 SIZ p
 | +1 | +1 | Continue progression |
 
 ---
-### Free Action
+#### Free Action
 
 (Abjuration, Enchantment)
 
@@ -1181,7 +1181,7 @@ When this spell is cast, the magic-user may grant one creature of up to 10 SIZ p
 When cast, this spell allows the subject to act normally throughout its Duration, regardless of other spells or effects that hinder movement or penalize attacks. This includes negating penalties from impeding terrain such as mud and snow. Under water, the subject may move at their normal land speed and swung weapons (swords, axes, clubs, maces, and so on) attack with full effect. This spell does not grant the ability to breathe under water, however. This spell negates hindering spells, such as Entangle, Slow, Hold, Paralysis, Web, and so on, regarding movement and action penalties.
 
 ---
-### Frostbite
+#### Frostbite
 
 (Transmutation)
 
@@ -1196,7 +1196,7 @@ Frostbite works directly on living, organic tissue, inflicting numbness, and pai
 Large creatures (SIZ 21-40) are less susceptible to this spell with the Resistance roll being Easy, and the Resistance roll for Huge creatures (SIZ 41+) is Very Easy.
 
 ---
-### Fumble
+#### Fumble
 
 (Enchantment (Charm))
 
@@ -1221,7 +1221,7 @@ This spell may also be targeted on a specific creature, who will suffer the effe
 | +1 | +1 | Continue progression |
 
 ---
-### Gate
+#### Gate
 
 (Conjuration)
 
@@ -1249,7 +1249,7 @@ The casting of Gate requires the caster to know the true name of the entity to b
 The form of the response will depend greatly on the specific entity, the Alignment of both parties, and the specifics of the request. If the entity believes the reasons for the interruption to be petty or inconsequential, their response could be anything from simply leaving to outright attack. However, a desperate situation, especially one where the caster is threatened by something strongly opposed by the entity is likely to be met with a more favorable response. If the Games Master feels there is a gray area, and the response would be in question, the caster and their allies may attempt to argue their case using a combination of skill, flattery, pleading, and/or bribery. However, most entities will avoid being drawn into a conflict with others of equal or greater power, and many will demand payment, either before or after the deed. The gate will stay open for as long as the entity chooses to remain on this side, closing behind them when they decide to leave. During this time, it is possible for the gate to be traversed by others, offering two-way travel between both realities.
 
 ---
-### Glamour (Repugnance)
+#### Glamour (Repugnance)
 
 (Enchantment (Charm))
 
@@ -1264,7 +1264,7 @@ Glamour makes the target alluring so that people are naturally attracted to them
 When reversed, Repugnance twists the appearance of the target so that they cause distaste in all those that see, hear, or smell them. The effect must be chosen when cast and can be anything from a great wart on the end of a nose, a high-pitched nasal voice or even pungent body odor. Whatever is chosen, it will cause people to turn away from the victim or make excuses to leave their presence as quickly as possible.
 
 ---
-### Glue
+#### Glue
 
 (Transmutation)
 
@@ -1277,7 +1277,7 @@ When reversed, Repugnance twists the appearance of the target so that they cause
 Glue cements together two solid, inanimate objects for the Duration of the spell, for example a cartwheel to its axle, or a door to its frame. While under the effects of the spell the items, no matter how disparate, cannot be parted unless something actively tries to wrench them apart. In this circumstance the spell has a Brawn skill equal to the caster's POW x5 and fails when a superior Brawn is set against it, defeating it in an Opposed Roll. Once the spell concludes or fails, the items part, completely unharmed.
 
 ---
-### Haste
+#### Haste
 
 (Transmutation)
 
@@ -1298,7 +1298,7 @@ One person or creature (to include oneself) per Intensity within the spell's Are
 | +1 | +1 | Continue progression |
 
 ---
-### Heal (Harm)
+#### Heal (Harm)
 
 (Necromancy)
 
@@ -1313,7 +1313,7 @@ With the casting of Heal, the cleric can cure a physical malady, mental trauma, 
 When reversed, Harm inflicts 12 points of magical injury to one of the victim's Hit Locations on a failed roll to resist. Alternately, a malady is inflicted upon them, the effects of which are the same as the spell Cause Disease, the reverse of Cure Disease, but at +20 POT. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage normally, and fully blocks inflicted maladies. Each additional Intensity affects another Hit Location contiguous to the first, with effects as determined by the initial Resistance roll. Neither version of this spell has any effect on the undead, creatures harmed only by iron, silver, or magical weapons, or non-corporeal beings.
 
 ---
-### Hold Person
+#### Hold Person
 
 (Enchantment (Charm))
 
@@ -1334,7 +1334,7 @@ This spell allows the caster to immobilize 1 humanoid creature per Intensity wit
 | +1 | +1 | Continue progression |
 
 ---
-### Holy Word (Unholy Word)
+#### Holy Word (Unholy Word)
 
 (Conjuration)
 
@@ -1366,7 +1366,7 @@ Creatures that have been previously deafened or are otherwise unable to hear the
 When reversed, Unholy Word functions as above, however only with regards to creatures of Good Alignment.
 
 ---
-### Ice Storm
+#### Ice Storm
 
 (Evocation)
 
@@ -1392,7 +1392,7 @@ Hail Stones (Duration: Instant): This variant of the spell causes large balls of
 Driving Sleet (Duration: 1 Round/Intensity): This variant of the spell creates a driving sleet that whips through a path-like area 60 feet wide, and 120 feet long, blinding those affected. The actual path may be designated by the magic-user when the spell is cast. In addition, the ground in the affected area ices over, slowing the Movement Rate by 50%, and grounding fliers that fail a Formidable Fly skill roll. Those on the ground must succeed at an Athletics roll every Round to resist falling prone, with the roll being two grades harder if moving faster than a walk. A character possessing Acrobatics may substitute that skill if desired. The ice will melt after the spell's Duration expires at a rate determined by the Games Master, dependent upon the ambient temperature; however, even in warm weather it will last a minimum of 10 minutes. Small fires, such as campfires and torches, are automatically extinguished. This spell will negate the effects of the spell Heat Metal.
 
 ---
-### Identify
+#### Identify
 
 (Divination)
 
@@ -1409,7 +1409,7 @@ Cursed items are typically activated when a piece of equipment is first put on o
 A pearl of at least 100GP value is ground into dust and consumed along with other mundane spell components to cast this spell. If a Luckstone is powdered and added to the infusion, the difficulty of the Arcane Casting roll is normal and all magical properties of any one item handled per minute throughout the spell's Duration are automatically learned, with no further rolls necessary.
 
 ---
-### Ignite (Extinguish)
+#### Ignite (Extinguish)
 
 (Transmutation)
 
@@ -1426,7 +1426,7 @@ Ignite only works on flammable inorganic matter, causing a small object or hand-
 Extinguish immediately quenches flames and small fires of modest size and heat. It is useful for dousing candles, lanterns, torches, or small cook fires, but it will not work on magical or larger, more ferocious conflagrations such as pyres, burning houses, or dragon flames.
 
 ---
-### Illusion
+#### Illusion
 
 (Illusion)
 
@@ -1453,7 +1453,7 @@ See the [Illusions and Phantasms](0009_Magic.md?id=illusions-and-phantasms) chap
 | +1 | +1 | Continue progression |
 
 ---
-### Invisibility
+#### Invisibility
 
 (Illusion)
 
@@ -1468,7 +1468,7 @@ When this spell is cast, the subject and any carried gear disappears, invisible 
 Those under the effects of Invisibility remain so throughout the spell's Duration (max. 24 hours), unless dispelled or the subject makes an attack, in which case the spell is nullified, and the individual reappears _after_ the attack. The target would be considered under the effects of [Surprise](0008_Combat.md?id=surprise). No other actions negatively affect the Duration of the spell, allowing the subject to open doors, talk, climb, run, pick a pocket, and so forth. Even the casting of spells will not end the Duration unless they negatively affect one or more specific enemies in combat. Many of the previously mentioned actions could allow other means of detection, such as a possible Perception check to hear someone running past, or to feel a pocket being picked. The Games Master will assign penalties or bonuses to those attempting the detection according to how noticeable it is.
 
 ---
-### Invisibility, 10 ft. Radius
+#### Invisibility, 10 ft. Radius
 
 (Illusion)
 
@@ -1481,7 +1481,7 @@ Those under the effects of Invisibility remain so throughout the spell's Duratio
 This spell functions identical to the [Invisibility](0010_Spells.md?id=invisibility) spell; however, all individuals within 10 feet of the recipient (which can be the caster themselves) when the spell is cast are rendered invisible as well. Those under the spell's effects can see each other; however, this does not grant the ability to see other invisible creatures. If any move out of the Area of Effect their Invisibility is lost, therefore, care must be taken to keep everyone within range of the original subject. Those moving back into the Area of Effect after their Invisibility has been lost, or having not been present when cast, do not benefit from its effects. Attacks made from the protection of Invisibility, including offensive spell casting by anyone other than the original subject, disrupt the Invisibility for that person but have no effect on other characters in the Area of Effect. However, an attack made by the original recipient of the spell renders everyone visible once again. See the basic [Invisibility](0010_Spells.md?id=invisibility) spell for further detail.
 
 ---
-### Invisibility, Greater
+#### Invisibility, Greater
 
 (Illusion)
 
@@ -1494,7 +1494,7 @@ This spell functions identical to the [Invisibility](0010_Spells.md?id=invisibil
 This spell functions as per the basic [Invisibility](0010_Spells.md?id=invisibility) spell; however, no action taken on the part of the subject will end the Duration early. The target may make melee or ranged attacks, cast spells, and so on. Note there are visible clues to the action having taken place, such as a visual distortion. This allows anyone with a line of sight on the subject to make a Formidable Perception roll after the action is taken, or possibly before if the character is delayed, to discern the location of the invisible attacker. An attack at one grade of difficulty may be made in the same Round the subject acted in by those who perceive the invisible person's location. See the spell [Invisibility](0010_Spells.md?id=invisibility) for further detail.
 
 ---
-### Ironhand
+#### Ironhand
 
 (Abjuration)
 
@@ -1507,7 +1507,7 @@ This spell functions as per the basic [Invisibility](0010_Spells.md?id=invisibil
 Ironhand allows the recipient to hold anything that would otherwise cause damage (such as extremely hot or cold items, or those dripping acid) without causing themselves injury. Thus, a user could grasp a brand from a fire, lift. a bubbling cauldron from a spit, or even reach through a steam vent to grab an object on the other side. It does not grant total immunity from damage, it merely stops from conducting through the skin of the recipient's hands. The spell does not protect anything worn on the hand, so rings, gloves, and such will suffer the effects of the source.
 
 ---
-### Knock (Lock)
+#### Knock (Lock)
 
 (Transmutation)
 
@@ -1528,7 +1528,7 @@ When reversed, Lock closes and locks one portal as noted above assuming there is
 | 3 | 3 | up to 75 HP portal; an iron chest or door |
 
 ---
-### Know Alignment (Obscure Alignment)
+#### Know Alignment (Obscure Alignment)
 
 (Divination)
 
@@ -1552,7 +1552,7 @@ This spell allows the caster to discern the Alignment and Passions of one creatu
 The reverse of this spell, Obscure Alignment, makes a target's Alignment and Passions unreadable for 24 hours, even from the casting of Know Alignment or Detect Evil/Good.
 
 ---
-### Know Languages (Confuse Languages)
+#### Know Languages (Confuse Languages)
 
 (Transmutation)
 
@@ -1567,7 +1567,7 @@ This spell allows the caster to understand and read almost any non-magical langu
 The reverse of this spell, Confuse Languages, makes a creature unintelligible to anyone or a piece of written text indecipherable. This reverse may also be used to counter Know Languages as it is being cast.
 
 ---
-### Levitate
+#### Levitate
 
 (Transmutation)
 
@@ -1588,7 +1588,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 | +1 | +1 | Continue progression |
 
 ---
-### Light (Darkness\*)
+#### Light (Darkness\*)
 
 (Transmutation)
 
@@ -1611,7 +1611,7 @@ _\*The Divine version of this spell may be reversed, causing a sphere of utter a
 | +1 | +1 | Continue progression |
 
 ---
-### Lightning Bolt
+#### Lightning Bolt
 
 (Evocation)
 
@@ -1638,7 +1638,7 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 | +1 | +1 | Continue progression |
 
 ---
-### Locate Object (Obscure Object)
+#### Locate Object (Obscure Object)
 
 (Divination)
 
@@ -1661,7 +1661,7 @@ The reverse of this spell, Obscure Object, conceals one item from detection by m
 | +1 | +1 | Continue progression |
 
 ---
-### Mage Lock
+#### Mage Lock
 
 (Transmutation)
 
@@ -1682,7 +1682,7 @@ This spell may be cast on any lockable object such as a chest, door, portal, or 
 | 5 | 7 | up to 150 HP portal; a large, reinforced castle gate |
 
 ---
-### Magic Missile
+#### Magic Missile
 
 (Evocation)
 
@@ -1707,7 +1707,7 @@ When shooting multiple missiles, the caster may have them strike a single creatu
 | 5 max. | 5 | 500 ft. Range; 5 missiles if 90% skill |
 
 ---
-### Magic Mouth
+#### Magic Mouth
 
 (Transmutation)
 
@@ -1724,7 +1724,7 @@ This spell may be cast upon any normally inanimate object, from a pillar or tree
 This spell's Duration is permanent until the enchantment is activated and then the spell ends.
 
 ---
-### Magic Tricks
+#### Magic Tricks
 
 (Conjuration)
 
@@ -1737,7 +1737,7 @@ This spell's Duration is permanent until the enchantment is activated and then t
 Magic Tricks are a great form of entertainment among the common folk, downtrodden, and most especially children. Some effects commonly created with Magic Tricks include puffs of wind to flicker candles, pulling a silver piece from behind a child's ear, causing a flower to quickly bloom, performing card tricks, creating eerie ethereal music that issues from nowhere, and so forth. Magic Tricks are unable to cause even a single point of damage or any amount of distraction in combat but could be used to keep a crowd occupied while the rest of the party sneaks past.
 
 ---
-### Meteor Shower
+#### Meteor Shower
 
 (Evocation)
 
@@ -1763,7 +1763,7 @@ Everyone, including those outside the Area of Effect but within 60 feet of an im
 Meteor Shower has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
-### Might
+#### Might
 
 (Transmutation)
 
@@ -1776,7 +1776,7 @@ Meteor Shower has a chance of igniting flammable materials equal to the damage r
 Might allows the recipient to engage in an impressive act of physical brute force, by adding the caster's POW to the recipient's Brawn skill. It does not increase the character's Damage Modifier when inflicting combat damage.
 
 ---
-### Mirror Image
+#### Mirror Image
 
 (Illusion)
 
@@ -1789,7 +1789,7 @@ Might allows the recipient to engage in an impressive act of physical brute forc
 When this spell is cast, 2d4 duplicates of the magic-user appear within a 5 ft. radius, exactly mimicking the caster's movements. In addition, the entire Area of Effect wavers and shimmers, making the caster's exact location impossible to ascertain. Striking one of the illusionary images causes it to vanish; however, the remaining images are unaffected. Striking the caster has no effect on the remaining images and as the images are always shifting, there is no way of knowing if the target is the real caster if attacked again. Any injuries suffered by the caster are duplicated on the images as well. There are numerous ways the Games Master can determine if the actual caster has been struck or one of the images. One is to determine how many potential targets are available, including the caster, and roll a die of the closest denomination. For example, with 4 images and the caster, the attacker should roll 1d6, re-rolling a result of 6, with the caster being hit on a roll of 1. Another would be to have several markers equal to the number of potential targets, marking one as being the caster. A marker is drawn each time an attack is made and if the target is hit, damage is applied; otherwise, an image disappears, removing one of the markers. The images vanish at the end of the spell's Duration.
 
 ---
-### Neutralize Poison (Inflict Poison)
+#### Neutralize Poison (Inflict Poison)
 
 (Necromancy)
 
@@ -1822,7 +1822,7 @@ When reversed, Inflict Poison allows the caster to produce a deadly toxin in a v
 - **Antidote/Cure:** None short of magical treatment.
 
 ---
-### Part Water
+#### Part Water
 
 (Transmutation)
 
@@ -1844,7 +1844,7 @@ This spell allows the caster to part water or other forms of liquid, creating a 
 | +1 | +1 | Continue progression |
 
 ---
-### Permanency
+#### Permanency
 
 (Transmutation)
 
@@ -1893,7 +1893,7 @@ The Permanency spell may also be used to make the following spells, which are ca
 
 
 ---
-### Pet
+#### Pet
 
 (Enchantment (Charm))
 
@@ -1906,7 +1906,7 @@ The Permanency spell may also be used to make the following spells, which are ca
 Pet allows the caster to take mental control of a small creature, sending it off to scout, fetch, or perform some other complex task. It can be cast on any creature neither of whose SIZ and INS Characteristics may exceed half the caster's CHA. If the targeted creature is already the loyal pet of the caster, it does not need to resist the spell. While concentrating, the caster may access the animal's senses (sight, smell, hearing, and so on)
 
 ---
-### Plane Shift
+#### Plane Shift
 
 (Transmutation)
 
@@ -1921,7 +1921,7 @@ When cast, the cleric and up to 7 others (one per additional level of Intensity)
 In addition to any generic material components, the casting of Plane Shift requires rods of various rare metals, each specially attuned to a plane of existence. These rods are rare and easily valued at as much as 10,000GP each.
 
 ---
-### Polish
+#### Polish
 
 (Transmutation)
 
@@ -1934,7 +1934,7 @@ In addition to any generic material components, the casting of Plane Shift requi
 Polish instantly buffs one object - equal in 'Things' or SIZ of up to the caster's POW - to a high sheen making it glossy, shiny, and highly desirable, even if the quality of the article is sub-par. The item will lose its sheen normally overtime.
 
 ---
-### Polymorph Other
+#### Polymorph Other
 
 (Transmutation)
 
@@ -1967,7 +1967,7 @@ All worn and carried equipment magically melds into the new form; however, in so
 | +1 | +1 | Continue progression |
 
 ---
-### Polymorph Self
+#### Polymorph Self
 
 (Transmutation)
 
@@ -1992,7 +1992,7 @@ Polymorph is subject to Dispel Magic. In this case, the caster does not benefit 
 | +1 | +1 | Continue progression |
 
 ---
-### Power Word - Blind
+#### Power Word - Blind
 
 (Conjuration)
 
@@ -2017,7 +2017,7 @@ _\* This category includes characters that do not possess a Class._
 _\*\* If only one to three creatures are in the Area of Effect, the effects are permanent until magically treated._
 
 ---
-### Power Word - Kill
+#### Power Word - Kill
 
 (Conjuration)
 
@@ -2041,7 +2041,7 @@ _\* This category includes characters that do not possess a Class._
 Creatures larger than SIZ 60 are unaffected, as are characters of Rank 4 and up. Unlike the Death Spell, Power Word - Kill will kill anything within the above-mentioned limits, however, it is possible to bring victims back to life through the casting of Wish, Raise Dead, Resurrection, and Reincarnation as normal.
 
 ---
-### Power Word – Stun
+#### Power Word – Stun
 
 (Conjuration)
 
@@ -2064,7 +2064,7 @@ Upon successfully casting this spell, one creature of the caster's choice within
 _\* This category includes characters that do not possess a Class._
 
 ---
-### Prayer
+#### Prayer
 
 (Conjuration)
 
@@ -2077,7 +2077,7 @@ _\* This category includes characters that do not possess a Class._
 When cast, this spell blesses the cleric and all allies within the Area of Effect, while cursing those in opposition. Allies are granted a temporary +5% bonus to all skill and Resistance rolls along with a +1 bonus to all damage dealt, while enemies receive a -5% penalty and -1 damage reduction. This spell may be cast along with Chant if cast by either the same cleric, or another cleric of the same religion, allowing both effects to stack, granting a +10% bonus to skills and +2 to damage, while enemies receive the opposite.
 
 ---
-### Predict Weather
+#### Predict Weather
 
 (Divination)
 
@@ -2090,7 +2090,7 @@ When cast, this spell blesses the cleric and all allies within the Area of Effec
 This spell allows the caster to predict the weather with 100% certainty within a 5-mile radius. This forecast is for the next 4 hours per level of Intensity and includes temperature, precipitation, snow accumulation, wind speed, and so forth.
 
 ---
-### Preserve
+#### Preserve
 
 (Transmutation)
 
@@ -2103,7 +2103,7 @@ This spell allows the caster to predict the weather with 100% certainty within a
 Preserve prevents organic matter, both vegetable and animal, from bacterial decay and putrefaction for 1d3 months, by sterilizing it. If the material is later smoked, pickled, or salted it is preserved indefinitely. The spell can halt decay that has begun, but not reverse it. The caster can affect an amount of organic matter equal in 'Things' or SIZ to their POW.
 
 ---
-### Protection
+#### Protection
 
 (Abjuration)
 
@@ -2116,7 +2116,7 @@ Preserve prevents organic matter, both vegetable and animal, from bacterial deca
 Protection is useful in a wide range of tasks where there is a risk of accidental injury such as working in a foundry or mine. The first time the character would normally take damage that penetrates protective clothing or armor, the Protection spell will trigger, and reduce the damage taken by 1d3 points. The spell then dissipates. This spell stacks with all other forms of protection magic. The spell only protects against physical damage so will not help against events such as fire, choking, and so on. The mage version of this spell may be cast on themselves only.
 
 ---
-### Protection from Cold
+#### Protection from Cold
 
 (Abjuration)
 
@@ -2139,7 +2139,7 @@ When cast on someone other than oneself, complete protection from natural cold i
 | +1 | +1 | Continue progression |
 
 ---
-### Protection from Evil (Protection from Good)
+#### Protection from Evil (Protection from Good)
 
 (Abjuration)
 
@@ -2162,7 +2162,7 @@ The spell's Duration ends if the protected individual makes any type of melee at
 The reverse of this spell, Protection from Good, works as above with regards to the second and third benefit, while the first benefit functions as noted with regards to good opponents.
 
 ---
-### Protection from Fire
+#### Protection from Fire
 
 (Abjuration)
 
@@ -2185,7 +2185,7 @@ When cast on someone other than oneself, complete protection from mundane fire i
 | +1 | +1 | Continue progression |
 
 ---
-### Protection from Lightning
+#### Protection from Lightning
 
 (Abjuration)
 
@@ -2208,7 +2208,7 @@ When cast on someone other than oneself, damage from electrical attacks is reduc
 | +1 | +1 | Continue progression |
 
 ---
-### Purify Food and Drink (Contaminate Food and Drink)
+#### Purify Food and Drink (Contaminate Food and Drink)
 
 (Transmutation)
 
@@ -2223,7 +2223,7 @@ When this spell is cast, all poison, rot, and other contaminants are removed fro
 The reverse of the spell, Contaminate Food and Drink, spoils food, makes pure water undrinkable, and corrupts the sacred properties of holy water.
 
 ---
-### Raise Dead (Slay Living)
+#### Raise Dead (Slay Living)
 
 (Necromancy)
 
@@ -2255,7 +2255,7 @@ _\* This category includes characters that do not possess a Class._
 If the Resistance roll is unsuccessful, the victim is slain outright. A successful roll is treated as per the effects of Cause Serious Wounds. Armor offers no protection from this damage.
 
 ---
-### Read Magic
+#### Read Magic
 
 (All)
 
@@ -2272,7 +2272,7 @@ When used to identify a spell contained on a scroll or within a spell book, 1 mi
 Read Magic is usable by all Schools of Magic.
 
 ---
-### Regenerate (Wither)
+#### Regenerate (Wither)
 
 (Necromancy)
 
@@ -2287,7 +2287,7 @@ When cast, the cleric may touch one creature and regenerate a dismembered Hit Lo
 When reversed, Wither will cause a location touched by the caster to shrivel up and eventually fall off the victim. The process causes the loss of 1 Hit Point of damage to the impacted location per 10 minutes, with the location becoming unusable at 0 Hit Points, and falling off when fully negative. The effects may only be negated by a casting of Regenerate.
 
 ---
-### Reincarnation, Arcane
+#### Reincarnation, Arcane
 
 (Necromancy)
 
@@ -2328,7 +2328,7 @@ Roll on the following table to determine the new form.
 | 96-00 | Other, GM's Option |
 
 ---
-### Remove Curse (Bestow Curse)
+#### Remove Curse (Bestow Curse)
 
 (Abjuration)
 
@@ -2348,7 +2348,7 @@ The reverse of this spell, Bestow Curse, inflicts one of the following effects o
 - 76-00: All failed skill rolls are treated as Fumbles.
 
 ---
-### Remove Fear (Cause Fear)
+#### Remove Fear (Cause Fear)
 
 (Abjuration (Charm))
 
@@ -2371,7 +2371,7 @@ The reverse of this spell, Cause Fear, requires touching the victim in combat. T
 | 5 | 5 | 150 ft. Range; 5 subjects |
 
 ---
-### Repair
+#### Repair
 
 (Transmutation)
 
@@ -2414,7 +2414,7 @@ _\* This category includes characters that do not possess a Class._
 If this Resistance roll is unsuccessful, the subject is slain outright, their body being turned to dust. Only the casting of Wish will bring the victim back at this stage. On a successful roll, the subject is still reduced to negative 1d4 Hit Points in the touched Hit Location. Armor offers no protection from this damage. Destruction does not age the caster when used.
 
 ---
-### Restoration
+#### Restoration
 
 (Necromancy)
 
@@ -2427,7 +2427,7 @@ If this Resistance roll is unsuccessful, the subject is slain outright, their bo
 When cast, a victim previously drained of their life force using Energy Drain or similar effects regains one previously lost level of Fatigue. At 1 level of Intensity, this spell only works on a creature drained within the last 24 Hours. Each additional Intensity increases the time that can have passed by a further 24 Hours. For example, a victim previously drained just under 48 hours ago would need the spell cast at 2 Intensity to work. Multiple levels of drained Fatigue require additional castings of Restoration. Regardless of Duration and in addition to any Fatigue restored, this spell also restores all mental capacities, such as those lost through magic or any form of insanity or dementia. Restoration may also be used to remove years lost due to artificial aging, such as that from certain spells. For the spell to be cast in this way, in addition to the normal casting cost, the cleric must expend 1 EXP Roll for each 1% of the recipient's typical lifespan to be restored (1 year for a human). The spell may not reduce the subject's current age below that of their actual age.
 
 ---
-### Secure Portal
+#### Secure Portal
 
 (Transmutation)
 
@@ -2448,7 +2448,7 @@ This spell may be cast to hold shut one door, portcullis, gate, or other similar
 | 5 | 5 | 5 min.; 300-foot Range; up to 150 hp portal; a large, reinforced castle gate |
 
 ---
-### Shield
+#### Shield
 
 (Evocation)
 
@@ -2469,7 +2469,7 @@ Shield creates an invisible mobile disk of force that hovers in front of the mag
 | Spells that may be Evaded | Fire ball, lightning bolt, cone of cold, and so on | Normal difficulty, but no damage if caster evades and half if they fail |
 
 ---
-### Silence
+#### Silence
 
 (Transmutation)
 
@@ -2482,7 +2482,7 @@ Shield creates an invisible mobile disk of force that hovers in front of the mag
 This spell allows the caster to create complete and utter silence in the Area of Effect. No sound whatsoever is possible, conversations cease, spells with a verbal component cannot be cast, and so forth. If Silence is cast on an object or creature, the spell's Area of Effect will move along with the target. However, the same spell cast into open air will remain immobile. The spell's Duration depends on whether the subject is willing or unwilling. On a willing target, the Duration is 2 Minutes/Intensity, while an on unwilling target the Duration is 2 Rounds/Intensity. A Willpower Resistance roll is allowed only if the spell is cast on an unwilling creature and if successful, the spell instead targets the area the creature occupies, remaining immobile.
 
 ---
-### Sleep
+#### Sleep
 
 (Enchantment (Charm))
 
@@ -2507,7 +2507,7 @@ While sleeping, affected creatures are helpless and normal noise will not faze t
 | +1 | +1 | Continue progression |
 
 ---
-### Slow
+#### Slow
 
 (Transmutation)
 
@@ -2528,7 +2528,7 @@ This spell allows the caster to halve the normal Movement Rate of one creature. 
 | +1 | +3 | Continue progression |
 
 ---
-### Slow Poison
+#### Slow Poison
 
 (Necromancy)
 
@@ -2547,7 +2547,7 @@ If Slow Poison is cast on a victim after symptoms have set in, they cease until 
 As a last resort, if the caster can get to an individual that has 'died' of poisoning within 10 minutes, Slow Poison delays the death of a victim for 1 hour per Intensity, during which the victim remains in a coma. If during this time, the victim can be cured of the poison the victim may yet live and be revived by First Aid or magical healing.
 
 ---
-### Speak with Monsters
+#### Speak with Monsters
 
 (Transmutation)
 
@@ -2560,7 +2560,7 @@ As a last resort, if the caster can get to an individual that has 'died' of pois
 This spell allows the caster to understand and be understood by any type of creature capable of any form of communication (telepathic, pheromones, tactile, and so on). The caster simply speaks in their own language and the creature understands the caster's intent or query in its own form of communication. The Games Master should determine the creature's reaction based on its Alignment as compared with that of the caster. The caster may switch from one creature to another of the same type throughout the spell's Duration.
 
 ---
-### Sphere of Invulnerability, Lesser
+#### Sphere of Invulnerability, Lesser
 
 (Abjuration)
 
@@ -2573,7 +2573,7 @@ This spell allows the caster to understand and be understood by any type of crea
 When this spell is cast, an immobile sphere of shimmering magical protection forms around the caster. Rank 1 and 2 spells, as well as any magical areas of effect they produce, will fail to penetrate the sphere, including those possessed by magical items or the innate magical Abilities of some creatures. The caster and any spell-capable allies may launch a magical attack from within the sphere with no adverse effects, and even leave the sphere and return without affecting its Duration. Lesser Sphere of Invulnerability is affected normally by Dispel Magic.
 
 ---
-### Spider Climb
+#### Spider Climb
 
 (Transmutation)
 
@@ -2586,7 +2586,7 @@ When this spell is cast, an immobile sphere of shimmering magical protection for
 The subject of this spell can move along vertical surfaces and ceilings with a 10-foot Movement Rate, even while hanging upside down. The subject must remove all hand and footwear and using objects of negligible ENC (ENC less than 1) is impossible due to them sticking to their hands. This includes most spell-casting material components, typically making spell casting impossible while under the influence of Spider Climb. To pull an object free from the individual or pull a resisting individual free from a surface requires a successful Brawn roll at Formidable difficulty.
 
 ---
-### Spiritshield
+#### Spiritshield
 
 (Abjuration)
 
@@ -2599,7 +2599,7 @@ The subject of this spell can move along vertical surfaces and ceilings with a 1
 This spell creates a shield around the recipient that deters spirits and ghosts from entering. Any spirit or ghost wishing to attack or possess the recipient must overcome the spell by winning an Opposed Test of their Willpower vs. the caster's Piety skill.
 
 ---
-### Spiritual Hammer
+#### Spiritual Hammer
 
 (Invocation)
 
@@ -2622,7 +2622,7 @@ Upon casting this spell, a hammer-like force of spiritual energy appears, which 
 | +1 | +1 | Continue progression for Rounds and radius |
 
 ---
-### Sun Ray
+#### Sun Ray
 
 (Evocation, Transmutation)
 
@@ -2637,7 +2637,7 @@ When cast, the cleric may summon a brilliant beam of holy light using a Cast Mag
 Undead in the Area of Effect take 2d6 points of damage to each Hit Location. Armor, natural or otherwise, offers no protection, but magical Armor Points reduce damage as normal. Those within five feet of the edge of the Area of Effect may Evade to take no damage. Undead within 20 feet of the Area of Effect still take 1d6+1 points of damage but suffer no damage on a successful Resistance roll. Undead specifically harmed by sunlight, such as vampires, are destroyed if they fail to Evade. Fungoid creatures as well as all forms of subterranean fungi suffer the same effects as undead but cannot make a Resistance roll.
 
 ---
-### Tidy
+#### Tidy
 
 (Transmutation)
 
@@ -2650,7 +2650,7 @@ Undead in the Area of Effect take 2d6 points of damage to each Hit Location. Arm
 Tidy immediately restores a number of items (up to the caster's POW) equal in size to no more than 2 'Things' each, to a neat, tidy, and orderly fashion within the spell's Range. Items larger than 2 'Things' each are shifted to a more orderly position but will require manual intervention to tidy properly.
 
 ---
-### True Seeing
+#### True Seeing
 
 (Divination)
 
@@ -2663,7 +2663,7 @@ Tidy immediately restores a number of items (up to the caster's POW) equal in si
 True Seeing grants the subject the capacity to see the world clearly, to a Range of 60 feet, subject to line of sight. All secrets within the Area of Effect become apparent; both natural and magical darkness is penetrated; secret doors become visible; invisible or ethereal attackers are revealed; illusions and phantasms become obvious; and the true form of shape-changed creatures is revealed. Even the ethereal and other planes adjacent to the material plane can be glimpsed with Concentration. True Seeing also negates the effects of spells such as Blur and Mirror Image. In addition to mundane material components, casting True Seeing requires rare ingredients made from powdered mushrooms, saffron, and animal fat, with a value of at least 300GP.
 
 ---
-### Voice
+#### Voice
 
 (Enchantment (Charm))
 
@@ -2678,7 +2678,7 @@ Voice amplifies the recipient's intonation and delivery so that it becomes compe
 hear the speaker are forced to listen. Their vocalization also carries across and through even the loudest background noise (howling gales, the roar of a waterfall, the clash of arms on a battlefield) up to a Range of 30 times the recipient's CHA in feet.
 
 ---
-### Wall of Fire/Circle of Fire
+#### Wall of Fire/Circle of Fire
 
 (Evocation)
 
@@ -2697,7 +2697,7 @@ Circle of Fire: This version of the spell creates a circle of fire around the ca
 The side of the wall or circle facing away from the caster emits scorching heat, causing 1d6 damage per Round to all within 10 ft., and 1d4 damage out to 20 ft. This damage is typically applied at the end of the Round before proceeding to the next. Where a victim occupies both heat zones in a single Round, the greater damage applies. Those leaping through the flame are subjected to 2d6 points of damage, plus an additional point of damage per Intensity beyond the first. This damage is applied to each Hit Location and worn armor offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. A successful Evade Resistance roll allows the victim to suffer no damage on the Round the spell springs into being, as the victim attempts to dive away from the heat or past the flames. Fire-using creatures take half this damage and cold-using creatures double. The flames have a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
-### Water Breathing (Air Breathing)
+#### Water Breathing (Air Breathing)
 
 (Transmutation)
 
@@ -2718,7 +2718,7 @@ This spell imparts the ability for the caster or others to breathe water through
 | +1 | +1 | Continue progression |
 
 ---
-### Web
+#### Web
 
 (Evocation)
 
@@ -2743,7 +2743,7 @@ On the following Turn, the victim may spend an Action Point to attempt to break 
 | +1 | +1 | Continue progression |
 
 ---
-### Wish
+#### Wish
 
 (Conjuration, Evocation)
 
@@ -2796,7 +2796,7 @@ _\*\* Each successive increase or decrease costs 1 cumulative EXP Roll: 1 EXP fo
 _\*\*\* This requires a Willpower vs. Willpower Resistance roll against that of the intended victim. Failure means the Wish still succeeds, though as a twisted interpretation of the wisher's desires. For example, the caster could be transported to the future where the victim is already dead, but so are all the wisher's friends and loved ones._
 
 ---
-### Wizard Sight
+#### Wizard Sight
 
 (Transmutation)
 
@@ -2809,7 +2809,7 @@ _\*\*\* This requires a Willpower vs. Willpower Resistance roll against that of 
 This spell creates a small invisible 'eye' that the magic-user may see through for the Duration of the spell. This eye may be moved ahead of the party or sent to look around corners and into rooms having a Movement Rate of 20 ft. per Round (240 ft. per minute), if only scanning for 'obvious' threats or items of interest. This will typically only extend to the floor and lower walls. If attempting to be more thorough (examining the full walls and ceiling as well), its Movement Rate is reduced to 10 ft. per Round (120 feet per minute). The Games Master should feel free to allow Perception rolls on the part of the caster, where necessary, with regards to spotting visual anomalies. The eye is corporeal, unable to pass through solid matter, and possesses normal vision out to 60 ft, and Infravision out to 10 ft. The caster must maintain Concentration on the eye throughout the Duration, or it will remain inert until Concentration is once again established. Any gaze attacks that would normally affect the caster still affect the caster as normal; however, the eye is considered independent of the caster with respect to blindness, darkness spells, and so forth. For the purposes of fitting through small openings, the eye is no bigger than 1 inch, and has a SIZ of 1.
 
 ---
-### Word of Recall
+#### Word of Recall
 
 (Transmutation)
 
