@@ -38,7 +38,7 @@ _\(R\) indicates a reversible spell._
 | [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
 | [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
-| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation](0010_Spells.md?id=reincarnation-arcane) |
+| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
 | [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
@@ -2386,7 +2386,7 @@ All Characteristics are determined randomly as per the new form, apart from INT,
 
 Roll on the following table to determine the new form.
 
-##### Re
+##### Resurrection Results Table
 
 |Reincarnation Result||Demi-Human \*||Humanoid/Monster \*\*||
 |:-:|:--|:-:|:--|:-:|:--|
