@@ -234,7 +234,7 @@ As a rule, the Magic Points (or pool) of a spellcaster are temporarily reduced b
 
 Every Spell is defined by a series of traits explaining how it is used in the game, followed by a description of the spell's precise effects. In most cases the physical and temporal parameters of the spell can be hand waved unless the Games Master wishes to keep detailed track during tactical situations. A spell's traits are detailed using the following format:
 
-#### Spell Name (Reversed Spell Name)
+#### Spell Name \(R\)
 
 (School)
 
@@ -246,8 +246,25 @@ Every Spell is defined by a series of traits explaining how it is used in the ga
 
 The traits are as follows:
 
-#### Spell Name (Reversed Spell Name)
-Some spells are Reversible; these spells will have their reversed version names in parentheses after the spell's primary name. A spellcaster must choose when memorizing a spell noted as Reversible, whether it will be the normal or reversed version. It is possible to have both the normal and reversed versions of the same spell memorized.
+#### Spell Name \(R\)
+
+Some spells are Reversible; these spells will be marked with "\(R\)" after the spell's primary name. A spellcaster must choose when memorizing a spell noted as Reversible, whether it will be the normal or reversed version. It is possible to have both the normal and reversed versions of the same spell memorized.
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+
+#### Spell Name \(R\) 
+- _formerly "(Reversed Spell Name)"_
+
+_The original text was as follows: "Some spells are Reversible; these spells will have their reversed version names in parentheses after the spell's primary name. "_
+
+_This made the spell list tables bloated and hard to read with multi-line cell text like `Cure Major Wounds (Cause Major Wounds)`. The names are abbreviated now to `<primary spell> (R)`._
+
+---
+</details>
 
 #### (School)
 Following the name of the spell, is the School it belongs to. Spells belong to one of eight specific Schools of Magic, and while they are noted for both Arcane and Divine spells, the information is of most use to casters of the Arcane persuasion. While most mages remain generalists, being able to learn any spell, some prefer to concentrate on one School at the expense of others.
