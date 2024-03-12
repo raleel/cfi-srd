@@ -168,7 +168,7 @@ Once the final cost is known, the Spell Casting roll is made:
 
 ### Maximum EXP on Spells
 
-As noted under Casting Cost above, more powerful spells require an expenditure of lifeforce, and thus spending one or more EXP rolls along with the requisite number of Magic Points. This can be unspent EXP the character has saved for spell casting or simply has yet to apply to skills and abilities. The character's Rank sets a limit on the maximum number of EXP rolls that they may expend on spells in any one game session. For example, a Rank 3 magic-user can spend up to 3 EXP rolls on spells during a particular session but once spent, other spells requiring EXP may not be cast until the next game session.
+As noted under Casting Cost above, more powerful spells require an expenditure of life force, and thus spending one or more EXP rolls along with the requisite number of Magic Points. This can be unspent EXP the character has saved for spell casting or simply has yet to apply to skills and abilities. The character's Rank sets a limit on the maximum number of EXP rolls that they may expend on spells in any one game session. For example, a Rank 3 magic-user can spend up to 3 EXP rolls on spells during a particular session but once spent, other spells requiring EXP may not be cast until the next game session.
 
 ### Casting Cost Reduction and Caster Rank
 
@@ -259,7 +259,7 @@ Some spells are Reversible; these spells will be marked with "\(R\)" after the s
 #### Spell Name \(R\) 
 - _formerly "(Reversed Spell Name)"_
 
-_The original text was as follows: "Some spells are Reversible; these spells will have their reversed version names in parentheses after the spell's primary name. "_
+_The original text was as follows: "Some spells are Reversible; these spells will have their reversed version names in parentheses after the spell's primary name."_
 
 _This made the spell list tables bloated and hard to read with multi-line cell text like `Cure Major Wounds (Cause Major Wounds)`. The names are abbreviated now to `<primary spell> (R)`._
 
