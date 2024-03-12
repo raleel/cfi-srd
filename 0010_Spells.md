@@ -183,7 +183,7 @@ This spell creates a barrier of whirling slicing swords, daggers, and knives tha
 The spell may be cast defensively to protect the cleric or one or more allies or offensively trap enemies. However, encircled enemies within five feet of the edge of the barrier as it is forming may make an Evade roll to escape. Regardless of success, the opponent ends up prone, just outside the Area of Effect. A successful roll results in no damage; otherwise, they suffer the full effect.
 
 ---
-#### Bless (Curse)
+#### Bless \(R\)
 
 (Conjuration)
 
@@ -358,7 +358,7 @@ This is an improved version of the spell [Charm Person](0010_Spells.md?id=charm-
 | 4 | 6 | 4 | Charmed for 4 weeks |
 
 ---
-#### Chill (Heat)
+#### Chill \(R\)
 
 (Evocation)
 
@@ -373,7 +373,7 @@ Chill dramatically reduces the temperature of a small object with an ENC no grea
 When reversed, Heat, dramatically increases the temperature of small objects up to the temperature of boiling water. This versatile spell is useful for mulling wine, cooking food without a fire, or warming a bed prior to sleep. It does not affect living tissue although it can affect clothing and armor, making it somewhat uncomfortable, but not to the extent of hindering the wearer.
 
 ---
-#### Cleanse (Dishevel)
+#### Cleanse \(R\)
 
 (Transmutation)
 
@@ -566,7 +566,7 @@ Coordination enhances manual dexterity and agility when performing a single pred
 The casting of this spell creates out of thin air, enough food to feed three creatures of SIZ 20 or less or one creature of SIZ 21-40 for an entire day per Intensity. Creatures larger than SIZ 40 require 1 Intensity per 'meal' instead. This creation resembles normal food in all ways, and while rather bland, may be of anything the caster desires. What it lacks in flavor, it more than makes up for in nourishment. Once created, the food has a shelf life of 24 hours regardless of how it is stored. However, once it has gone bad, it may once again be made edible with the casting of Purify Food and Water, extending the period in which it may be safely eaten by another 24 hours. In addition to the food created, the spell creates plenty of drinking water, functioning in all ways as the Rank 1 spell Create Water.
 
 ---
-#### Cure Disease (Cause Disease)
+#### Cure Disease  \(R\)
 
 (Necromancy)
 
@@ -589,7 +589,7 @@ This spell cures the effects of any mundane or magical disease afflicting the ta
 The reverse of this spell, Cause Disease, inflicts a magical malady on an enemy. If successful, the caster may choose to inflict any known disease upon the target; however, the Intensity x30 must equal or exceed the Potency of the chosen disease. Once the disease has been successfully inflicted, it functions as per any other disease with regards to resistance, Onset Time, Duration, and so on. The only exception being that early recovery is limited to the casting of either Remove Disease or Cure. The Healing skill has no effects on magically inflicted diseases.
 
 ---
-#### Cure Fatigue (Cause Fatigue)
+#### Cure Fatigue  \(R\)
 
 (Necromancy)
 
@@ -604,7 +604,7 @@ When this spell is cast, the subject regains 1d3+1 lost levels of Fatigue, even 
 The reverse of this spell, Cause Fatigue, imparts 1d3+1 levels of Fatigue to targets failing an Endurance roll. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. Neither worn nor natural armor offers any protection, but magical Armor negates the spell.
 
 ---
-#### Cure Major Wounds (Cause Major Wounds)
+#### Cure Major Wounds  \(R\)
 
 (Necromancy)
 
@@ -623,7 +623,7 @@ If the injury took place earlier, then the body part must undergo a more traumat
 When reversed, Cause Major Wounds may be used to reduce a single Hit Location by 1d8+4 Hit Points. The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. This spell cannot sever the location but can crush or mutilate it normally. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage as normal.
 
 ---
-#### Cure Minor Wounds (Cause Minor Wounds)
+#### Cure Minor Wounds  \(R\)
 
 (Necromancy)
 
@@ -644,7 +644,7 @@ Alternately, the spell may cause a minor malady, such as a headache, back pain, 
 The caster's Channel roll functions as the roll to hit their opponent and is assumed part of the spell's somatic requirement. No additional roll to hit is necessary. Neither worn nor natural armor offers any protection, but magical Armor Points reduce damage as normal.
 
 ---
-#### Cure Serious Wounds (Cause Serious Wounds)
+#### Cure Serious Wounds  \(R\)
 
 (Necromancy)
 
@@ -754,7 +754,7 @@ _Example: Rengarth casts the Death Spell into an area occupied by four SIZ 16 or
 Deflect wards the recipient against tiny impacts of foreign material, such as raindrops, a cloud of midges, or even flying grains of sand. The protection is limited to individual objects smaller than a child's fingernail, and thus cannot prevent normal missile weapons from striking a character.
 
 ---
-#### Detect Charm (Hide Charm)
+#### Detect Charm \(R\)
 
 (Divination)
 
@@ -767,7 +767,7 @@ Deflect wards the recipient against tiny impacts of foreign material, such as ra
 This spell allows the caster to discern if one or more selected creatures are under the effects of Charm. A full minute's Concentration is required to scan one creature. When the reverse of this spell (Hide Charm) is cast, one creature may be shielded from such detection for 6 hours/Intensity.
 
 ---
-#### Detect Evil (Detect Good)
+#### Detect Evil \(R\)
 
 (Divination)
 
@@ -793,7 +793,7 @@ With this spell, the caster can detect strong emanations of evil within a 90-deg
 When this spell is cast, the magic-user gains the ability to see any objects or beings that are invisible. This includes those that are hidden, ethereal, astral, or out of phase. It may also detect those hidden or concealed by mundane means. Unlike other Detect spells, Detect Invisibility is limited to line of sight and does not require a minute to scan an arc of vision.
 
 ---
-#### Detect Lie (Conceal Lie)
+#### Detect Lie \(R\)
 
 (Divination)
 
@@ -1174,7 +1174,7 @@ Flame Strike has a chance of igniting flammable materials equal to the damage ro
 | +1 | +1 | Continue progression |
 
 ---
-#### Flesh to Stone (Stone to Flesh)
+#### Flesh to Stone \(R\)
 
 (Transmutation)
 
@@ -1312,7 +1312,7 @@ The casting of Gate requires the caster to know the true name of the entity to b
 The form of the response will depend greatly on the specific entity, the Alignment of both parties, and the specifics of the request. If the entity believes the reasons for the interruption to be petty or inconsequential, their response could be anything from simply leaving to outright attack. However, a desperate situation, especially one where the caster is threatened by something strongly opposed by the entity is likely to be met with a more favorable response. If the Games Master feels there is a gray area, and the response would be in question, the caster and their allies may attempt to argue their case using a combination of skill, flattery, pleading, and/or bribery. However, most entities will avoid being drawn into a conflict with others of equal or greater power, and many will demand payment, either before or after the deed. The gate will stay open for as long as the entity chooses to remain on this side, closing behind them when they decide to leave. During this time, it is possible for the gate to be traversed by others, offering two-way travel between both realities.
 
 ---
-#### Glamour (Repugnance)
+#### Glamour \(R\)
 
 (Enchantment (Charm))
 
@@ -1361,7 +1361,7 @@ One person or creature (to include oneself) per Intensity within the spell's Are
 | +1 | +1 | Continue progression |
 
 ---
-#### Heal (Harm)
+#### Heal  \(R\)
 
 (Necromancy)
 
@@ -1397,7 +1397,7 @@ This spell allows the caster to immobilize 1 humanoid creature per Intensity wit
 | +1 | +1 | Continue progression |
 
 ---
-#### Holy Word (Unholy Word)
+#### Holy Word \(R\)
 
 (Conjuration)
 
@@ -1472,7 +1472,7 @@ Cursed items are typically activated when a piece of equipment is first put on o
 A pearl of at least 100GP value is ground into dust and consumed along with other mundane spell components to cast this spell. If a Luckstone is powdered and added to the infusion, the difficulty of the Arcane Casting roll is normal and all magical properties of any one item handled per minute throughout the spell's Duration are automatically learned, with no further rolls necessary.
 
 ---
-#### Ignite (Extinguish)
+#### Ignite \(R\)
 
 (Transmutation)
 
@@ -1570,7 +1570,7 @@ This spell functions as per the basic [Invisibility](0010_Spells.md?id=invisibil
 Ironhand allows the recipient to hold anything that would otherwise cause damage (such as extremely hot or cold items, or those dripping acid) without causing themselves injury. Thus, a user could grasp a brand from a fire, lift. a bubbling cauldron from a spit, or even reach through a steam vent to grab an object on the other side. It does not grant total immunity from damage, it merely stops from conducting through the skin of the recipient's hands. The spell does not protect anything worn on the hand, so rings, gloves, and such will suffer the effects of the source.
 
 ---
-#### Knock (Lock)
+#### Knock \(R\)
 
 (Transmutation)
 
@@ -1591,7 +1591,7 @@ When reversed, Lock closes and locks one portal as noted above assuming there is
 | 3 | 3 | up to 75 HP portal; an iron chest or door |
 
 ---
-#### Know Alignment (Obscure Alignment)
+#### Know Alignment \(R\)
 
 (Divination)
 
@@ -1615,7 +1615,7 @@ This spell allows the caster to discern the Alignment and Passions of one creatu
 The reverse of this spell, Obscure Alignment, makes a target's Alignment and Passions unreadable for 24 hours, even from the casting of Know Alignment or Detect Evil/Good.
 
 ---
-#### Know Languages (Confuse Languages)
+#### Know Languages \(R\)
 
 (Transmutation)
 
@@ -1651,7 +1651,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 | +1 | +1 | Continue progression |
 
 ---
-#### Light (Darkness\*)
+#### Light  \(R\)\*
 
 (Transmutation)
 
@@ -1701,7 +1701,7 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 | +1 | +1 | Continue progression |
 
 ---
-#### Locate Object (Obscure Object)
+#### Locate Object \(R\)
 
 (Divination)
 
@@ -1852,7 +1852,7 @@ Might allows the recipient to engage in an impressive act of physical brute forc
 When this spell is cast, 2d4 duplicates of the magic-user appear within a 5 ft. radius, exactly mimicking the caster's movements. In addition, the entire Area of Effect wavers and shimmers, making the caster's exact location impossible to ascertain. Striking one of the illusionary images causes it to vanish; however, the remaining images are unaffected. Striking the caster has no effect on the remaining images and as the images are always shifting, there is no way of knowing if the target is the real caster if attacked again. Any injuries suffered by the caster are duplicated on the images as well. There are numerous ways the Games Master can determine if the actual caster has been struck or one of the images. One is to determine how many potential targets are available, including the caster, and roll a die of the closest denomination. For example, with 4 images and the caster, the attacker should roll 1d6, re-rolling a result of 6, with the caster being hit on a roll of 1. Another would be to have several markers equal to the number of potential targets, marking one as being the caster. A marker is drawn each time an attack is made and if the target is hit, damage is applied; otherwise, an image disappears, removing one of the markers. The images vanish at the end of the spell's Duration.
 
 ---
-#### Neutralize Poison (Inflict Poison)
+#### Neutralize Poison \(R\)
 
 (Necromancy)
 
@@ -2202,7 +2202,7 @@ When cast on someone other than oneself, complete protection from natural cold i
 | +1 | +1 | Continue progression |
 
 ---
-#### Protection from Evil (Protection from Good)
+#### Protection from Evil \(R\)
 
 (Abjuration)
 
@@ -2271,7 +2271,7 @@ When cast on someone other than oneself, damage from electrical attacks is reduc
 | +1 | +1 | Continue progression |
 
 ---
-#### Purify Food and Drink (Contaminate Food and Drink)
+#### Purify Food and Drink \(R\)
 
 (Transmutation)
 
@@ -2286,7 +2286,7 @@ When this spell is cast, all poison, rot, and other contaminants are removed fro
 The reverse of the spell, Contaminate Food and Drink, spoils food, makes pure water undrinkable, and corrupts the sacred properties of holy water.
 
 ---
-#### Raise Dead (Slay Living)
+#### Raise Dead \(R\)
 
 (Necromancy)
 
@@ -2335,7 +2335,7 @@ When used to identify a spell contained on a scroll or within a spell book, 1 mi
 Read Magic is usable by all Schools of Magic.
 
 ---
-#### Regenerate (Wither)
+#### Regenerate \(R\)
 
 (Necromancy)
 
@@ -2391,7 +2391,7 @@ Roll on the following table to determine the new form.
 | 96-00 | Other, GM's Option |
 
 ---
-#### Remove Curse (Bestow Curse)
+#### Remove Curse \(R\)
 
 (Abjuration)
 
@@ -2411,7 +2411,7 @@ The reverse of this spell, Bestow Curse, inflicts one of the following effects o
 - 76-00: All failed skill rolls are treated as Fumbles.
 
 ---
-#### Remove Fear (Cause Fear)
+#### Remove Fear \(R\)
 
 (Abjuration (Charm))
 
@@ -2446,7 +2446,8 @@ The reverse of this spell, Cause Fear, requires touching the victim in combat. T
 
 Repair fixes physical damage to an inanimate object. Each separate successful casting repairs 1d3 Hit Points of damage.
 
-Resurrection (Destruction)
+---
+#### Resurrection \(R\)
 
 (Necromancy)
 
@@ -2760,7 +2761,7 @@ Circle of Fire: This version of the spell creates a circle of fire around the ca
 The side of the wall or circle facing away from the caster emits scorching heat, causing 1d6 damage per Round to all within 10 ft., and 1d4 damage out to 20 ft. This damage is typically applied at the end of the Round before proceeding to the next. Where a victim occupies both heat zones in a single Round, the greater damage applies. Those leaping through the flame are subjected to 2d6 points of damage, plus an additional point of damage per Intensity beyond the first. This damage is applied to each Hit Location and worn armor offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. A successful Evade Resistance roll allows the victim to suffer no damage on the Round the spell springs into being, as the victim attempts to dive away from the heat or past the flames. Fire-using creatures take half this damage and cold-using creatures double. The flames have a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
-#### Water Breathing (Air Breathing)
+#### Water Breathing \(R\)
 
 (Transmutation)
 
