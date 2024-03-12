@@ -38,7 +38,7 @@ _\(R\) indicates a reversible spell._
 | [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
 | [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
-| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation](0010_Spells.md?id=reincarnation) |
+| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
 | [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
@@ -2360,35 +2360,49 @@ When reversed, Wither will cause a location touched by the caster to shrivel up 
 | **Cost:** 3, +1/additional Intensity, +1EXP | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** See Below |
 
-This spell is cast while touching the corpse of a creature dead less than 24 hours per level of Intensity. However, this version of Reincarnation has no effect on full-blooded elves (instead, see Divine Reincarnation). If the victim's Alignment was anything other than evil, the victim resists the spell with an Opposed Willpower roll, and if successful, negates the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to enter a new body once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
+This spell is cast while touching the corpse of a creature dead less than 24 hours per level of Intensity. However, this version of Reincarnation has no effect on full-blooded elves (instead, see the divine spells [Raiae Dead](0010_Spells.md?id=raise-dead-r) or [Resurrection](0010_Spells.md?id=resurrection-r)). If the victim's Alignment was anything other than evil, the victim resists the spell with an Opposed Willpower roll, and if successful, negates the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to enter a new body once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+
+#### Reincarnation, Arcane
+
+_The original rule was as follows: "However, this version of Reincarnation has no effect on full-blooded elves (instead, see Divine Reincarnation)."_
+
+_There is no mention of Divine Reincarnation in Classic Fantasy Imperative so this has been changed to reference Raise Dead and Resurrection, neither of which prohibit elvish returns._
+
+---
+
+</details>
 
 In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Willpower that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, they have successfully anchored the spirit to the host, while a failed roll results in the victim being either unwilling or unable to return.
 
-If the casting is successful, a fully formed adult body appears in 1d6x10 minutes containing the consciousness of the deceased. The caster has no control of the form or sex in which the soul returns, although the former character Class and Rank is retained. This means it may take some convincing on the part of the character that they are who they say they are when dealing with friends, family, and former acquaintances; and includes their order or guild when it comes time for Advancement if relevant. This is best represented by Influence rolls on the part of the character, modified by how drastic the change, as determined by the Games Master. For example, a dwarf reincarnated into another dwarf may require a Standard Influence roll to convince a former ally of their actual identity, while being reincarnated into a gnome or halfling could result in the roll being one grade more difficult. Finally, that same character could find it two grades more difficult convincing others of their identity if changed into something as extreme as a goblin, orc, or troll.
+If the casting is successful, a fully formed adult body appears in 1d6x10 minutes containing the consciousness of the deceased. The caster has no control of the form or sex in which the soul returns - roll against the table below. The former character Class and Rank is retained. This means it may take some convincing on the part of the character that they are who they say they are when dealing with friends, family, and former acquaintances; this includes their order or guild when it comes time for Advancement if relevant. This is best represented by Influence rolls on the part of the character, modified by how drastic the change is, as determined by the Games Master. For example, a dwarf reincarnated into another dwarf may require a Standard Influence roll to convince a former ally of their actual identity, while being reincarnated into a gnome or halfling could result in the roll being one grade more difficult. Finally, that same character could find it two grades more difficult convincing others of their identity if changed into something as extreme as a goblin, orc, or troll.
 
 All Characteristics are determined randomly as per the new form, apart from INT, POW, and CHA, which remain unchanged. Recalculate the character's Base skill levels and adjust the skill totals accordingly. Passions are unaffected. Any former racial Abilities are lost and replaced with those of the new species. If the new form is unsuited to the old character Class, the only option is to deal with it, or learn a new Class. The reincarnated individual remembers most of their former life, though the Games Master may ask for the character to make a Willpower roll to remember significant facts for the first week. A Wish can return the reincarnated individual back to their previous form if later desired.
 
 Roll on the following table to determine the new form.
 
-| **D100** | **Reincarnation Result** |
-| :-: | :-- |
-| 01-20 | Human |
-| 21-60 | Demi-Human |
-| 01-20 | Dwarf |
-| 21-40 | Elf |
-| 41-60 | Gnome |
-| 61-80 | Half-Elf |
-| 81-00 | Halfling |
-| 61-95 | Humanoid/Monster |
-| 01-10 | Bugbear |
-| 11-26 | Gnoll |
-| 27-42 | Goblin |
-| 43-58 | Hobgoblin |
-| 59-74 | Kobold |
-| 75-90 | Orc |
-| 91-95 | Ogre |
-| 96-00 | Troll |
-| 96-00 | Other, GM's Option |
+##### Re
+
+|Reincarnation Result||Demi-Human \*||Humanoid/Monster \*\*||
+|:-:|:--|:-:|:--|:-:|:--|
+|D100|Result|D100|Result|D100|Result|
+|01-20|Human|01-20|Dwarf|01-10|Bugbear|
+|21-60|Demi-Human \*|21-40|Elf|11-26|Gnoll|
+|61-95|Humanoid/Monster \*\*|41-60|Gnome|27-42|Goblin|
+|96-00|Other - GM’s Option|61-80|Half-Elf|43-58|Hobgoblin|
+|||81-100|Halfling|59-74|Kobold|
+|||||75-90|Orc|
+|||||91-95|Ogre|
+|||||96-00|Troll|
+
+\* Roll again and consult the Demi-Human results column.
+
+\*\* Roll again and consult the Humanoid/Monster results column.
 
 ---
 #### Remove Curse \(R\)
