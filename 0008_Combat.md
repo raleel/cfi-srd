@@ -202,7 +202,7 @@ A character that begins the Turn prone may crawl at a maximum rate of 5 feet per
 
 #### Jump
 
-A character that moves adjacent to or starts the Turn next to a jumpable obstacle may attempt to leap over it. The character may be moving at any rate up to the point of the leap. A successful Athletics roll allows one to jump up to twice one's own height horizontally or up to half one's own height vertically (if the character has at least a 15-foot run-up available). If jumping from a standing position, then these distances are halved. Reduce the jump distance in feet by half the total 'Things' carried. Worn armor hinders jumpers, with each location covered by light armor counting as 1 'Thing' in the beforementioned calculation, and heavy armor counts as 2 'Things.'
+A character that moves adjacent to or starts the Turn next to a jumpable obstacle may attempt to leap over it. The character may be moving at any rate up to the point of the leap. A successful Athletics roll allows one to jump up to twice one's own height horizontally or up to half one's own height vertically (if the character has at least a 15-foot run-up available). If jumping from a standing position, then these distances are halved. Reduce the jump distance in feet by half the total 'Things' carried. Worn armor hinders jumpers, with each location covered by light armor counting as 1 'Thing' in the before mentioned calculation, and heavy armor counts as 2 'Things.'
 
 See the [Athletics](0005_Skills.md?id=athletics-strdex) skill description for more information.
 
