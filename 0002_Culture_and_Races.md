@@ -22,7 +22,7 @@ Tribal in nature, barbarians tend to shun civilization, viewing those who live i
 
 - **Free Skills:** Customs +40, Language (Common) +40
 - **Standard Skills:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride
-- **Professional Skills:** Craft. (any), Healing, Language (Any\*), Lore (any), Musicianship, Navigate, Seamanship, Survival, Track
+- **Professional Skills:** Craft (any), Healing, Language (Any\*), Lore (any), Musicianship, Navigate, Seamanship, Survival, Track
 
 _\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
@@ -51,7 +51,7 @@ The Civilized culture is epitomized by a semblance of law and order, underpinned
 
 - **Free Skills:** Customs +40, Language (Common) +40
 - **Standard Skills:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
 _\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
@@ -78,7 +78,7 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 
 - **Free Skills:** Customs +40, Language (Common) +40.
 - **Standard Skills:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel.
-- **Professional Skills:** Craft. (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
+- **Professional Skills:** Craft (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
 
 _\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
@@ -108,7 +108,7 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 
 - **Free Skills:** Customs +40, Language (Common) +40.
 - **Standard Skills:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
-- **Professional Skills:** Craft. (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
+- **Professional Skills:** Craft (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
 
 _\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
@@ -153,7 +153,7 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Dwarf) +40
 - **Standard Skills:** Athletics, Brawn, Endurance, Evade, Locale, Perception, Willpower
-- **Professional Skills:** Commerce, Craft. (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Professional Skills:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 _\* During character creation, additional languages are limited to gnome, goblin, kobold, and orc._
 
@@ -192,7 +192,7 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
 - **Standard Skills:** Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
 _\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
 
@@ -228,7 +228,7 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Gnome) +40
 - **Standard Skills:** Deceit, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Commerce, Craft. (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Professional Skills:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 _\* During character creation, additional languages are limited to dwarf, halfling, goblin, and kobold._
 
@@ -266,7 +266,7 @@ Half-elves have no communities of their own but can be found living wherever hum
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
 - **Standard Skills:** Choose from a human culture or from the following elf skill list: Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Professional Skills:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
 _\* During character creation, if raised by elves, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of language._
 
@@ -304,8 +304,8 @@ Like half-elves, half-orcs have no native lands, most often living among orcish 
 #### Skills
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Orc) +40.
-- **Standard Skills:** Choose from a human culture or from the following orc skilption; and either Boating, Evade, or Ride.
-- **Professional l list: Athletics, Brawn, Endurance, First Aid, Locale, PerceSkills:** Choose from a human culture or from the following orc skill list: Craft. (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
+- **Standard Skills:** Choose from a human culture or from the following orc skill list: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating, Evade, or Ride.
+- **Professional Skills:** Choose from a human culture or from the following orc skill list: Craft (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
 
 _\* During character creation, if raised by orcs, additional languages are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of languages if you can justify the choice._
 
@@ -350,7 +350,7 @@ Halfling culture is akin to Civilized. They live in small communities called shi
 
 - **Free Skills:** Customs +40, Language (Common) +40, Language (Halfling) +40
 - **Standard Skills:** Dance or Sing, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft. (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
 _\* During character creation, additional languages are limited to dwarf, elf, gnome, goblin, and orc._
 

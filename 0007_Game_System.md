@@ -199,7 +199,7 @@ A Short Rest represents a period of about 15 minutes where the adventurers stop 
 - **Pray to a Deity or Study spell book:** Regain 1 Magic Point per 15-minute Rest Action spent in prayer or study. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
 - **Tend to wounds:** Spend a 15-minute Rest Action using the First Aid skill, or four 15-minute rest actions (an hour) using the Healing skill.
 - **Cast one or more spells:** Any number of spells may be cast to heal or buff the members of the party during a 15-minute Rest Action, limited to available Magic Points.
-- **Prepare a new spell:** Following a sleep period of at least 8 hours, a spellcaster may usea 15-minute Rest Action to memorize, or forget, an Arcane or Divine spell, subject to the restrictions detailed under [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
+- **Prepare a new spell:** Following a sleep period of at least 8 hours, a spellcaster may use a 15-minute Rest Action to memorize, or forget, an Arcane or Divine spell, subject to the restrictions detailed under [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
 - **Dither:** This is the default 15-minute Rest Action unless another Action is chosen. The character simply wastes 15 minutes doing nothing useful. This Rest Action is typically performed if other members of the party are still performing rest actions and you have nothing to do. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
 
 ---
