@@ -192,7 +192,7 @@ Evil clerics may command their Turning Power in Intensity of undead. This effect
 | [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
 | [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
 | [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
-| [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire](0010_Spells.md?id=wall-of-fire) |
+| [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
 | | [Purify Food and Drink \(R\)](0010_Spells.md?id=purify-food-and-drink-r) | [Silence](0010_Spells.md?id=silence) |
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
@@ -487,7 +487,7 @@ _\*\* Counts as ½ a Thing._
 | [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire](0010_Spells.md?id=wall-of-fire) |
+| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
 | [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
 | [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
 | [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |

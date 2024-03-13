@@ -3,6 +3,15 @@ Test page for CSS columns, table of contents and spell indices.
 Links need to be as in the main doc `[title](URL)` - Obsidian links don't work.
 
 
+#### Table no header
+
+|||
+| :-- | :-- |
+| **Rank:** Cleric 2 | **Casting Time:** 2 Actions |
+| **Sphere:** Guardian | **Duration:** See Below |
+| **Cost:** 3, +1/additional Intensity | **Range:** 360 ft |
+| **Area:** 15 ft. Radius | **Resist:** See Below |
+
 
 #### Test linked table
 
