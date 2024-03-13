@@ -150,7 +150,7 @@ Hit Points: 1-3 Right Leg: 0/5, 4-6 Left Leg: 0/5, 7-9 Abdomen: 5/6, 10-12 Chest
 
 STR 22, CON 25, SIZ 28, DEX 16, INT 9, POW 11, CHA 4; Initiative: +13; Action Points: 3; Movement: 20'
 
-Alignment: Evil 52%; Hate Good Giants 57%; Magic Points: 11; Abilities: Dark Vision, Regen. (1 HP/Round), Terror
+Alignment: Evil 52%; Hate Good Giants 57%; Magic Points: 11; Abilities: Dark Vision, Regenerate (1 HP/Round), Terror
 
 Combat Skill: 78%, bite (1d8+1d10), claw (1d6+1d10)
 
@@ -202,7 +202,7 @@ A creature can only breathe flame once in a specified time period (usually once 
 
 #### Burrower
 
-The creature is adept at tunnelling through the ground at its normal Movement rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
+The creature is adept at tunneling through the ground at its normal Movement rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
 
 #### Camouflaged
 
