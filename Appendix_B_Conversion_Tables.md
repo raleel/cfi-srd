@@ -13,14 +13,14 @@ Imperial to Metric Estimated Conversion Table
 | 5feet | 1.5m | 1 battlemat square |
 | 7feet | 2m | |
 | 10feet | 3m | 2 battlemat squares |
-| 15feet | 4m | 3battlematsquares;dwarf,gnome, and halfling |
-| 20feet | 6m | 4battlematsquares;human,elf, half-elf, and half-orc |
+| 15feet | 4m | 3 battlemat squares; dwarf, gnome, and halfling |
+| 20feet | 6m | 4 battlemat squares; human, elf, half-elf, and half-orc |
 | 25feet | 8m | 5 battlemat squares |
 | 30feet | 10m | 6 battlemat squares |
 | 40feet | 12m | 8 battlemat squares |
 | 45feet | 14m | 9 battlemat squares |
-| 50feet | 15m | 10 battlemat squares; typicaldragon flight speed |
-| 60feet | 18m | 12 battlemat squares; typicalInfravision |
+| 50feet | 15m | 10 battlemat squares; typical dragon flight speed |
+| 60feet | 18m | 12 battlemat squares; typical Infravision |
 | 65feet | 20m | 13 battlemat squares |
 | 100feet | 30m | 20 battlemat squares |
 | 120feet | 36m | |
