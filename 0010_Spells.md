@@ -17,7 +17,7 @@
 | [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
 | [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
 | [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
-| [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire](0010_Spells.md?id=wall-of-fire) |
+| [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
 | | [Purify Food and Drink \(R\)](0010_Spells.md?id=purify-food-and-drink-r) | [Silence](0010_Spells.md?id=silence) |
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
@@ -45,7 +45,7 @@ _\(R\) indicates a reversible spell._
 | [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire](0010_Spells.md?id=wall-of-fire) |
+| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
 | [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
 | [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
 | [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
@@ -2298,7 +2298,7 @@ The reverse of the spell, Contaminate Food and Drink, spoils food, makes pure wa
 
 This spell may be cast on the corpse of a creature dead less than 24 hours per level of Intensity. If the subject's Alignment was anything other than evil, they can resist the spell with an Opposed Willpower roll and, if successful, negate the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
 
-In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Willpower that is resisting, but that of the demon, devil, and so on, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful a being was placed in charge of their damnation. If the caster succeeds, they have successfully returned the spirit to the body, while a failed roll results in the victim being either unwilling or unable to return.
+In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Willpower that is resisting, but that of the demon, devil, and so on, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Willpower. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of their damnation. If the caster succeeds, they have successfully returned the spirit to the body, while a failed roll results in the victim being either unwilling or unable to return.
 
 If the casting is successful, the subject is returned to life with full Hit Points, although severed limbs remain lost. This means that a victim decapitated or cut in half cannot be raised until their head or torso is first reattached. This can be done before the casting of Raise Dead by physically reattaching the severed location, which requires a healer's kit and a successful application of the Healing skill, and typically leaves an obvious and telling scar. Other maladies, such as poison or disease must be taken care of prior to, or after the casting of Raise Dead, or the results are only temporary. Finally, Raise Dead has no effect on a creature that has reached the end of its natural life span, and died of old age.
 
@@ -2595,7 +2595,7 @@ While sleeping, affected creatures are helpless and normal noise will not faze t
 | **Cost:** 3/Intensity | **Range:** 100 ft |
 | **Area:** 20 ft. Radius | **Resist:** Willpower |
 
-This spell allows the caster to halve the normal Movement Rate of one creature. An additional creature may be slowed for each additional level of Intensity. Those affected must be within the Area of Effect when the spell is first, cast but may move freely thereafter. In addition, those under the effects of Slow receive a -4 penalty to their Initiative for the spell's Duration and must reduce their total Action Points by half, including any used for Reactive purposes only. The casting of Slow cancels out the effects of Haste. Slow does not stack with itself or similar magical effects.
+This spell allows the caster to halve the normal Movement Rate of one creature. An additional creature may be slowed for each additional level of Intensity. Those affected must be within the Area of Effect when the spell is first cast but may move freely thereafter. In addition, those under the effects of Slow receive a -4 penalty to their Initiative for the spell's Duration and must reduce their total Action Points by half, including any used for Reactive purposes only. The casting of Slow cancels out the effects of Haste. Slow does not stack with itself or similar magical effects.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -2751,9 +2751,7 @@ True Seeing grants the subject the capacity to see the world clearly, to a Range
 | **Cost:** 1 | **Range:** See Below |
 | **Area:** 1 Target | **Resist:** Willpower |
 
-Voice amplifies the recipient's intonation and delivery so that it becomes compelling when issuing verbal commands. All who can
-
-hear the speaker are forced to listen. Their vocalization also carries across and through even the loudest background noise (howling gales, the roar of a waterfall, the clash of arms on a battlefield) up to a Range of 30 times the recipient's CHA in feet.
+Voice amplifies the recipient's intonation and delivery so that it becomes compelling when issuing verbal commands. All who can hear the speaker are forced to listen. Their vocalization also carries across and through even the loudest background noise (howling gales, the roar of a waterfall, the clash of arms on a battlefield) up to a Range of 30 times the recipient's CHA in feet.
 
 ---
 #### Wall of Fire/Circle of Fire
@@ -2768,9 +2766,9 @@ hear the speaker are forced to listen. Their vocalization also carries across an
 
 This spell allows the caster to conjure forth a wall or circle of blazing flame, as desired at the time of casting, burning a purple or a reddish blue in color. The spell's Duration remains in effect if Concentration is maintained, or for 1 Round per Intensity once Concentration ceases. The specifics are detailed below according to type:
 
-Wall of Fire: This version of the spell creates a stationary wall of fire 20 ft. long per Intensity. Regardless of final Intensity the wall has a height of 10 to 20 ft. as desired when cast. Wall of Fire has a Range of 180 ft. and may not be conjured horizontally.
+**Wall of Fire:** This version of the spell creates a stationary wall of fire 20 ft. long per Intensity. Regardless of final Intensity the wall has a height of 10 to 20 ft. as desired when cast. Wall of Fire has a Range of 180 ft. and may not be conjured horizontally.
 
-Circle of Fire: This version of the spell creates a circle of fire around the caster that moves with them. It has a radius of 10 ft., plus another 5 ft. per additional Intensity beyond the first. Regardless of final Intensity the circle has a height of 10 to 20 ft. as desired when cast. Circle of Fire must encircle the caster and has a Range of 0.
+**Circle of Fire:** This version of the spell creates a circle of fire around the caster that moves with them. It has a radius of 10 ft., plus another 5 ft. per additional Intensity beyond the first. Regardless of final Intensity the circle has a height of 10 to 20 ft. as desired when cast. Circle of Fire must encircle the caster and has a Range of 0.
 
 The side of the wall or circle facing away from the caster emits scorching heat, causing 1d6 damage per Round to all within 10 ft., and 1d4 damage out to 20 ft. This damage is typically applied at the end of the Round before proceeding to the next. Where a victim occupies both heat zones in a single Round, the greater damage applies. Those leaping through the flame are subjected to 2d6 points of damage, plus an additional point of damage per Intensity beyond the first. This damage is applied to each Hit Location and worn armor offers no protection, but magical Armor Points or a creature's natural armor reduce damage as normal. A successful Evade Resistance roll allows the victim to suffer no damage on the Round the spell springs into being, as the victim attempts to dive away from the heat or past the flames. Fire-using creatures take half this damage and cold-using creatures double. The flames have a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
@@ -2853,11 +2851,11 @@ Some example Wishes and the required EXP expenditure follow.
 | Permanently raise or lower one skill by 10% (maximum +/-50%). | \*\* |
 | Transport self and up to 7 allies to another location regardless of range. | 1 EXP |
 | Transport self and up to 7 allies to another plane of existence. | 2 EXP |
-| Create temporary, nonmagical coin, objects, or property with a value of no more than 50,000GP. The items last one week per Intensity. | 1 EXP |
-| Create temporary, nonmagical coin, objects, or property with a value of no more than 100,000GP. The items last one week per Intensity. | 2 EXP |
-| Create permanent, nonmagical coin, objects, or property with a value of no more than 10,000GP. | 2 EXP |
-| Create permanent, nonmagical coin, objects, or property with a value of no more than 50,000GP. | 3 EXP |
-| Create permanent, nonmagical coin, objects, or property with a value of no more than 100,000GP. | 4 EXP |
+| Create temporary, non-magical coin, objects, or property with a value of no more than 50,000GP. The items last one week per Intensity. | 1 EXP |
+| Create temporary, non-magical coin, objects, or property with a value of no more than 100,000GP. The items last one week per Intensity. | 2 EXP |
+| Create permanent, non-magical coin, objects, or property with a value of no more than 10,000GP. | 2 EXP |
+| Create permanent, non-magical coin, objects, or property with a value of no more than 50,000GP. | 3 EXP |
+| Create permanent, non-magical coin, objects, or property with a value of no more than 100,000GP. | 4 EXP |
 | Create a temporary Rank 1 or 2 magic item. The item lasts 1 Hour per Intensity. | 1 EXP |
 | Create a temporary Rank 3 magic item. The item lasts 1 Hour per Intensity. | 2 EXP |
 | Create a temporary Rank 4 magic item. The item lasts 1 Hour per Intensity. | 3 EXP |
@@ -2899,4 +2897,4 @@ This spell creates a small invisible 'eye' that the magic-user may see through f
 
 When this spell is cast, the cleric is instantly teleported to a pre-designated sanctuary, and a designated arrival point no larger than 10-foot radii. There is no limit to the actual Range teleported, including between multiple planes. Within a single plane, there is no chance of a mishap, however, crossing even one plane gives a Fumble chance of 91-00%, two planes give a Fumble on a roll of 81-00%, and so on. This replaces the caster's normal Fumble chance. A Fumble when crossing planes signifies that the cleric is irrevocably lost. Fumbles within a single plane follow the normal rules.
 
-In addition to themselves and any carried equipment, the cleric may transport another 3 SIZ/9 'Things' per Intensity. The additional material transported may be treasure, equipment, or living beings. However, transported creatures must have the spell cast at a sufficient level of Intensity to cover any carried equipment.	
+In addition to themselves and any carried equipment, the cleric may transport another 3 objects per Intensity, each no bigger than SIZ/9 'Things'. The additional material transported may be treasure, equipment, or living beings. However, transported creatures must have the spell cast at a sufficient level of Intensity to cover any carried equipment.	
