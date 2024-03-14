@@ -1902,13 +1902,6 @@ Magic Tricks are a great form of entertainment among the common folk, downtrodde
 
 When the magic-user casts this spell, two micro-meteors per level of Intensity streak from the outstretched hand. The meteors arc toward their target, impacting on a downward trajectory, leaving a trail of sparks and cinders in their wake. Upon impact, they detonate in multiple fiery explosions around the target point. The first meteor always strikes the targeted location, while any additional meteors strike randomly around it, each with an explosive radius of 30 feet. To determine where they hit, roll 1d8 for the direction.
 
-| 4 | 5 | 6 |
-| :-: | :-: | :-- |
-| **3** | **X** | **7** |
-| **2** | **1** | **8** |
-
-![](_media/CFI_10_Meteor_Shower_Grid.png)
-
 <div style="text-align: center;">
     <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
 </div>
