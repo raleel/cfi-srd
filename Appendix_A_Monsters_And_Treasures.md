@@ -634,70 +634,71 @@ The creature has a venomous bite, sting, or other means of attack.
 
 The creature is so large it can damage opponents by beating its wings. This requires an Attack Action and does damage equal to its Damage Modifier to those within 10 feet of its side squares.
 
+---
 ## Example Basic Magic Items
 
 This is but a small sample of some of the more common _Classic Fantasy Imperative_ magic items. Those with prices including an \* need to incorporate the cost of the weapon or armor into the total.
 
-### +1 or +2 Amulet of Magica (250 GP or 500 GP)
+#### +1 or +2 Amulet of Magica (250 GP or 500 GP)
 
 This amulet provides the wearer with additional Magic Points, which may be drawn from to cast spells. A character may only draw from a single item that provides Magic Points at one time. Spent points do not regenerate naturally and must be provided by a spellcaster, not necessarily the amulet's owner.
 
-### +1 Armor (500 GP\*)
+#### +1 Armor (500 GP\*)
 
 This armor has been enchanted to negate an additional point of damage.
 
-### +1 or +2 Ring of Magica (250 GP or 500 GP)
+#### +1 or +2 Ring of Magica (250 GP or 500 GP)
 
 This ring functions in all ways as an Amulet of Magica as detailed above.
 
-### +1 Ring of Protection (500 GP)
+#### +1 Ring of Protection (500 GP)
 
 A Ring of Protection provides +1 point of armor while worn. In addition, add a +5% bonus to Resistance rolls. If worn with magical armor, only the bonus provided by the armor applies. The bonus provided to Resistance rolls is not adversely affected, however. A Ring of Protection may be worn with non-magical armor without penalty. Multiple Rings of Protection do not stack, with only the greatest bonus prevailing.
 
-### +5% Shield (250 GP\*)
+#### +5% Shield (250 GP\*)
 
 This shield has been reinforced through magical Enchantment, with a +5% bonus to Combat Skill when Parrying. This shield possesses +5 Armor Points and +2 Hit Points for a shield of its type.
 
-### +5% Shield, +20% vs. Missiles (500 GP\*)
+#### +5% Shield, +20% vs. Missiles (500 GP\*)
 
 This shield has been reinforced through magical Enchantment, with a +5% bonus to Combat Skill when Parrying a melee attack and +20% when Parrying missiles. This shield possesses +5 Armor Points and +2 Hit Points for a shield of its type.
 
-### +10% Shield (250 GP\*)
+#### +10% Shield (250 GP\*)
 
 This shield has been reinforced through magical Enchantment, with a +10% bonus to Combat Skill when Parrying. This shield possesses +10 Armor Points and +4 Hit Points for a shield of its type.
 
-### +1 Weapon (melee 400 GP\*, ranged 500 GP\*)
+#### +1 Weapon (melee 400 GP\*, ranged 500 GP\*)
 
 This weapon has been enchanted to do +1 damage and possesses +10 Armor Points and +4 Hit Points.
 
-### Bag of Holding (500 GP)
+#### Bag of Holding (500 GP)
 
 This large cloth sack opens into a pocket dimension, being much bigger on the inside than the outside, and can be used to store much more than could fit normally into a bag of its shape and size. The bag is equal to 2 'Things' in weight regardless of its actual contents and can store up to 100 'Things.' This bag may be carried in another container and still weigh only 2 'Things' even when full.
 
-### Elven Boots (1000 GP)
+#### Elven Boots (1000 GP)
 
 These soft leather boots modify the wearer's ability to move silently regardless of terrain, even walking across dry leaves or creaky boards producing nothing more noticeable than a soft footstep. The wearer is granted a 95% Sneak skill, unmodified by terrain. The boots grant no further bonus with regards to those with a skill more than 95%, other than allowing them to use their normal skill level without worrying about terrain penalties.
 
-### Potion of Invisibility (50 GP)
+#### Potion of Invisibility (50 GP)
 
 When quaffed, this potion grants the imbiber Invisibility for 1d4+2 minutes. Like the spell of the same name (see page XX), any attack made by the beneficiary of its contents instantly causes the subject to reappear. Other non-combat actions made on the part of the imbiber, for example, talking, eating, running, opening doors, and so on, have no effect on the Duration, which is equal to 1d4+2 minutes per dose consumed. A typical potion contains enough for eight doses.
 
-### Potion of Levitation (40 GP)
+#### Potion of Levitation (40 GP)
 
 The imbiber of this potion is granted the capability to levitate vertically at a rate of 10 feet per Round. The imbiber can carry one other person if they are SIZ 20 or less. While the character may not move horizontally under the power of this spell, the character may be able to pull along a wall or cliff at a Base Movement Rate of 10 feet per Round.
 
-### Ring of (Spell), Rank 1 (1,000 GP)
+#### Ring of (Spell), Rank 1 (1,000 GP)
 
 This ring allows the casting of a single spell of Rank 1. No matter the spell, all possess an ongoing Duration, with the spell being cast automatically when the ring is put on and lasting until removed. They are limited in the type of spell, which may be enchanted into them, with the most common being Detect Magic, Endure Heat or Cold, Feather Fall, Floating Disk, Invisibility, Levitation, Protection from Evil (or Good), Slow Poison. Others are possible at the discretion of the Games Master. With regards to the Ring of Invisibility, attacking causes the wearer to become visible for 1d3+1 Rounds.
 
-### Wand of (Spell), Rank 1 (1,000 GP)
+#### Wand of (Spell), Rank 1 (1,000 GP)
 
 This wand possesses a single spell which is typically usable by all characters regardless of Class. There is a 50% chance that a magic wand will contain a magic-user spell, and 50% of a cleric spell. The wand possesses 90 charges, and each use expends a number of charges equal to the spell's normal Casting Cost, irrespective of Intensity. For example, a wand will cast a spell possessing a Casting Cost of '1/Intensity' by expending a single charge, while a spell with a Casting Cost of '3/Intensity' will expend 3 charges. This is irrespective of the spell's actual Intensity as produced by the item. The spell is cast at an Intensity and Magnitude of 3 and costs the wielder no Magic Points. See the relevant spell for additional information.
 
-### Rod of (Spell), Rank 1 (1,500 GP)
+#### Rod of (Spell), Rank 1 (1,500 GP)
 
 Unlike a Wand of Spell, the Rod of Spell contains 60 charges and has an Intensity and Magnitude of 6. However, the rod may only be used by a character of a Class capable of casting the spell.
 
-### Staff of (Spell), Rank 1 (2,000 GP)
+#### Staff of (Spell), Rank 1 (2,000 GP)
 
 A Staff of Spell contains 30 charges and has an Intensity and Magnitude of 9. However, the staff may only be used by a character of a Class capable of casting the spell.
