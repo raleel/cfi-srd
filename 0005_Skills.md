@@ -38,7 +38,7 @@ _Classic Fantasy Imperative_ uses a series of grades to determine how a skill is
 
 ##### Difficulty Grade Table
 
-| **Difficulty Grade** | **Skill Modifier** | **Simplified Skill Modifier** |
+| Difficulty Grade | Skill Modifier | Simplified Skill Modifier |
 | :-- | :-- | :-- |
 | Automatic | No need to roll | No need to roll |
 | Very Easy | Double the skill value | +40% |
@@ -247,7 +247,7 @@ This skill covers the speaking and comprehension of languages other than the cha
 
 ##### Linguistic Fluency Table
 
-| **Language%** | **Conversational Fluency** |
+| Language% | Conversational Fluency |
 | :-: | :-- |
 | 01-25% | Can understand only a few simple words, cannot phrase sentences, or read |
 | 26-50% | Can understand and communicate in fragmentary, simple sentences, such as "Where is Temple?" or "How much food?" Can read at an elementary school level |
@@ -336,7 +336,7 @@ Opposed Rolls are frequently used in certain battle situations to overcome the e
 
 ##### Opposed Roll Examples Table
 
-| **Activity** | **Opposed Skill Examples** |
+| Activity | Opposed Skill Examples |
 | :-- | :-- |
 | Bargaining/Haggling | Commerce vs. Commerce, Influence vs. Commerce |
 | Chasing/Racing | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
@@ -358,7 +358,7 @@ A Differential Roll is determined in the following manner: Both participants rol
 
 ##### Differential Roll Results Table
 
-| **Result of Rolls** | **Antagonist Critical** | **Antagonist Success** | **Antagonist Failure** | **Antagonist Fumble** |
+| Result of Rolls | Antagonist Critical | Antagonist Success | Antagonist Failure | Antagonist Fumble |
 | :-- | :-- | :-- | :-- | :-- |
 | Protagonist Critical | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success | Protagonist Wins 3 Levels of Success |
 | Protagonist Success | Antagonist Wins 1 Level of Success | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success |

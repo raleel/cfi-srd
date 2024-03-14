@@ -3,7 +3,7 @@
 ---
 ### Cleric Spell List
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Avert](0010_Spells.md?id=avert) | [Bless \(R\)](0010_Spells.md?id=bless-r) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(R\)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
@@ -28,7 +28,7 @@ _\(R\) indicates a reversible spell._
 
 ### Mage Spell List
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
@@ -91,7 +91,7 @@ Appraise allows the immediate assessment of the quality of physical goods of com
 
 When this spell is cast, the subject is gifted with an invisible field of magical force equal to scale armor in protection, granting 4 Armor Points to each Hit Location. It has no effect if cast on someone already wearing armor. It will however supersede natural armor for its Duration, assuming it offers superior protection. If cast on a creature possessing more than 4 points of natural armor, it will instead increase the Armor Points by 1 in all locations. This magical protection does not hinder movement or spell casting. The spell will persist until dispelled by magic, or the caster sustains 8 points of damage from a single attack, +1 per level of additional Intensity (see the table below). Of course, the caster may choose to drop the spell at any time if desired and must do so to sleep.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 4 Armor Points; Sustained until taking 8 damage from 1 attack |
 | 2 | 4 | 4 Armor Points; Sustained until taking 9 damage from 1 attack |
@@ -127,7 +127,7 @@ This spell allows the caster and up to five others (one per additional level of 
 
 This spell allows the caster to determine whether a specific action to be taken within the next 30 minutes will be beneficial or detrimental to an individual and/or party's wellbeing. A focal point of some type is required to discern the omens, the most common being the claws or smaller bones of a dragon, a pearl, or pure gold valued at no less than 100GP in value, which has been crushed or melted down. The spell has a Maximum Intensity of 4. This roll should be made by the Games Master, as the caster should never know beyond a shadow of a doubt whether the results were interpreted correctly.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | Formidable Channel skill roll |
 | 2 | 6 | Hard Channel skill roll |
@@ -219,7 +219,7 @@ The reverse of this spell, Curse, allows the cleric to curse enemies, making the
 
 This spell causes flames to shoot out from the caster's hands in a 120-degree arc. If using miniatures in combat, Burning Hands will damage each target that occupies 1 of the caster's front squares. Casting Burning Hands at higher levels of Intensity requires a higher Rank mage. This damage engulfs all targets within the area with damage based on the spell's Intensity, to a Maximum Intensity of 9, as follows. A successful Evade roll, throwing oneself prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half unless they are within 5 feet of the edge of the Area of Effect.
 
-| **Intensity** | **Cost** | **Min Rank** | **Variable Effect** |
+| Intensity | Cost | Min Rank | Variable Effect |
 | :-: | :-: | :-- | :-- |
 | 1 | 3 | 1 | 1d3+1 points of damage to all Hit Locations |
 | 3 | 4 | 1 | 1d3+2 points of damage to all Hit Locations |
@@ -267,7 +267,7 @@ With a successful Evade roll, throwing oneself prone, the victim suffers no dama
 
 Lightning has a chance of igniting flammable materials equal to the damage rolled x1%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information. Lightning may also shatter or destroy inanimate objects from sheer impact.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 50-ft range; 1d6+1 damage |
 | 2 | 4 | 100-ft range; 1d6+1 damage |
@@ -324,7 +324,7 @@ Any hostile act against the subject of the charm by the magic-user or allies bre
 
 After the initial roll to resist, 1 week must pass before the subject can make another Resistance roll. The effects are ongoing until a successful Resistance roll is made. Casting Charm Person at higher levels of Intensity requires a higher Rank mage and has a maximum Duration of 4 weeks. Throughout the Duration of the spell, the caster's Magic Point total is reduced by the number spent to cast the spell, as per the [Enduring Magic Costs](0009_Magic.md?id=enduring-magic-costs) rules.
 
-| **Intensity** | **Cost** | **Min Rank** | **Variable Effect** |
+| Intensity | Cost | Min Rank | Variable Effect |
 | :-: | :-: | :-: | :-- |
 | 1 | 3 | 1 | Charmed for 1 week |
 | 2 | 4 | 2 | Charmed for 2 weeks |
@@ -345,7 +345,7 @@ After the initial roll to resist, 1 week must pass before the subject can make a
 
 With the exceptions noted above, this spell functions like the spells [Charm Person](0010_Spells.md?id=charm-person) and Charm Monster. This most powerful of Charm spells has a chance to enthrall all creatures within the Area of Effect of any SIZ. Human-sized and smaller (SIZ 1-20) find their rolls to resist Hard; Large creatures (SIZ 21-40) must make their Resistance rolls at Standard Difficulty, and the resistance roll for Huge creatures (SIZ 41+) is Easy.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | Charmed for 1 week |
 | 2 | 6 | Charmed for 2 weeks |
@@ -366,7 +366,7 @@ With the exceptions noted above, this spell functions like the spells [Charm Per
 
 This is an improved version of the spell [Charm Person](0010_Spells.md?id=charm-person) in that it will enthrall all living creatures of SIZ 20 or less within the Area of Effect, or 1 creature of any SIZ. Large creatures (SIZ 21-40) are more difficult to charm, with their resistance roll being Easy, and the resistance roll for Huge creatures (SIZ 41+) is Very Easy. The spell functions in all other ways as per Charm Person.
 
-| **Intensity** | **Cost** | **Min Rank** | **Variable Effect** |
+| Intensity | Cost | Min Rank | Variable Effect |
 | :-: | :-: | :-- | :-- |
 | 1 | 3 | 3 | Charmed for 1 week |
 | 2 | 4 | 3 | Charmed for 2 weeks |
@@ -459,7 +459,7 @@ With a successful Evade roll, throwing oneself prone, the victim suffers no dama
 
 **Cone of Cold Effects**
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 10 ft long; 1d6+1 damage |
 | 2 | 4 | 20 ft long; 1d6+1 damage |
@@ -482,7 +482,7 @@ With a successful Evade roll, throwing oneself prone, the victim suffers no dama
 
 When this spell is cast, 1d4 creatures of SIZ 1-20 within the area of effect that fail their Resistance roll will be struck with a magical confusion. Each additional level of Intensity will affect another 1d4 creatures to a maximum of 4d4. The cleric version affects 1d3+1 per Intensity and has no Maximum. Those within the Area of Effect and closest to the caster are affected first. A successful Resistance roll overcomes the spell, while a failed roll results in the victim suffering from one of the following random effects, roll every Round for the spell's Duration, or until the victim wanders off.
 
-| **D100** | **Effects of Confusion** |
+| D100 | Effects of Confusion |
 | :-: | :-- |
 | 01-10 | Attack the caster with either ranged or melee weapons for the remainder of the Round |
 | 11-50 | Stand confused, essentially choosing Dither for the remainder of the Round |
@@ -497,7 +497,7 @@ With a 'Wander off' result, the victim heads in the opposite direction to the ca
 
 Large creatures (SIZ 21-40) are less susceptible to Confusion, with their Resistance roll being Easy, while the Resistance roll for Huge creatures (SIZ 41+) is Very Easy.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 1 min.; 1d4 creatures (1d3+1 for a cleric) |
 | 2 | 4 | 2 min.; 2d4 creatures (2d3+2 for a cleric) |
@@ -554,7 +554,7 @@ _The referenced table is not present in Classic Fantasy Imperative so the line h
 <br>
 
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 1d6 hr. Duration; 1d4 sq. miles |
 | 2 | 4 | 2d6 hr. Duration; 2d4 sq. miles |
@@ -604,7 +604,7 @@ The casting of this spell creates out of thin air, enough food to feed three cre
 
 This spell cures the effects of any mundane or magical disease afflicting the target whose Potency is less than the spell's Intensity x30. Once the cure is in effect, recovery can begin as per that noted in the write-up of the disease in question. Afflictions imparted by parasitic creatures such as green slime, rot grubs, and even lycanthropes, can be nullified by Cure Disease. However, with regards to the latter afflictions, Remove Disease must be cast within 72 hours and at an Intensity of 12 or greater, while the former may be cured at an Intensity of only 1. This spell offers no future immunization to the disease.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | Cure a POT 30 disease, green slime, or rot grubs |
 | 2 | 6 | Cure a POT 60 disease |
@@ -704,7 +704,7 @@ When reversed, Cause Serious Wounds reduces a single Hit Location by 1d6+2 Hit P
 
 When this spell is cast, the magic-user can create one of the following effects: 1d4 flickering points of light that resemble lanterns or torches, which give off a similar amount of illumination, 1d4 glowing spheres of light-like will-o-wisps, or 1 vaguely humanoid shape of flickering light like that of a fire elemental. The effects may be directed by the caster with no need of Concentration and move at any speed desired within the spell's area. If the lights move out of the spell's Area of Effect, or the Duration expires, they wink out of existence.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 1d4 lights or 1 shape for 2 min. in a 100 ft. radius |
 | 2 | 2 | 1d4 lights or 1 shape for 4 min. in a 200 ft. radius |
@@ -726,7 +726,7 @@ When this spell is cast, the magic-user can create one of the following effects:
 
 This spell creates an area of total magical darkness in a 10-foot radius, blocking normal vision as well as special racial sight like Infravision. All forms of mundane light are nullified by this spell, from sunlight to candlelight. It may be countered by the casting of Light and vice versa; however, other forms of magical light such as Dancing Lights, Fairy Fire, and even the glow given off by Detection spells are nullified by Darkness. A Light spell with an already ongoing Duration has no effect on Darkness and vice versa.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 10 min.; 30 ft. Range |
 | 2 | 2 | 20 min.; 60 ft. Range |
@@ -762,7 +762,7 @@ This spell grants the recipient Darkvision to a Range of 60 feet. It functions i
 
 The successful casting of this spell kills a variable number of creatures SIZ 40 or less in the Area of Effect. The magic-user rolls 1d6 for each level of Intensity to determine the number of creatures affected. Where creatures of differing SIZ categories occupy the Area of Effect, human-sized creatures (SIZ 1-20) are always affected before larger ones. Large creatures (SIZ 21-40) are more likely to resist being killed, with their Resistance roll being Easy, however, each Large creature counts as 5 human-sized creatures. Creatures larger than SIZ 40 are unaffected by this spell.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 +2 EXP | 30 ft. Range; 1d6 creatures affected |
 | 2 | 4 +2 EXP | 60 ft. Range; 2d6 creatures affected |
@@ -858,9 +858,9 @@ When cast, this spell determines whether one being is knowingly lying or otherwi
 
 When cast, the magic-user sees a glowing blue aura surrounding any magic item or spell effect within a 90-degree arc, out to 60 ft. This spell will also detect approximate Intensity and Magnitude as shown on the following table.
 
-**Intensity and/or Magnitude Detected**
+##### Intensity and/or Magnitude Detected
 
-| **D100 Roll** | **Intensity/Magnitude** |
+| D100 Roll | Intensity/Magnitude |
 | :-: | :-- |
 | 01-25 | -1d3 |
 | 26-75 | Exact Intensity/Magnitude |
@@ -916,7 +916,7 @@ When cast, this spell allows clerics to receive information from their deity reg
 
 The Games Master should make this roll for the player as there are some instances where magic hostile to the caster could be at work, and in these instances, a Failure could reveal false information.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | Spell cast at Formidable difficulty |
 | 2 | 6 | Spell cast at Hard difficulty |
@@ -952,7 +952,7 @@ Dry removes all extraneous moisture from an object or person, either slicking of
 
 Earthquake causes a ground tremor capable of knocking people from their feet and collapsing rigid buildings. At the very minimum, failing to resist the spell causes the victim to fall prone. If located within a building, built up area or some vulnerable location (such as a forest or beneath a cliff), failing to Evade also indicates that the person is struck, and trapped by falling debris. Use the size of the damage dice in a Contest of Strength (see Brawn) to determine the difficulty of being extracted from the wreckage. Worn armor offers half protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
-| **Intensity** | **Cost** | **Variable Effect** | **Potential Damage** |
+| Intensity | Cost | Variable Effect | Potential Damage |
 | :-: | :-: | :-- | :-- |
 | 1 | 3 | 50 ft. Range; 10 ft. radius; Delicately balanced objects topple, suspended objects swing. | None |
 | 2 | 4 | 100 ft. Range; 20 ft. radius; Walls and buildings creak. | None |
@@ -1077,7 +1077,7 @@ If the spell wears off before those affected have landed, they resume normal fal
 
 Due to this spell's Instant Casting Time, the mage may use Feather Fall reactively as well as proactively. This allows the spell to protect from unexpected falls or even to interrupt another's Action to slow-propelled projectiles such as arrows or hurled spears, which then gently float to the ground between the attacker and target, causing no damage.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 1 min.; 30 ft. Range; total affected 20 SIZ; total decent 120 ft |
 | 2 | 2 | 2 min.; 60 ft. Range; total affected 40 SIZ; total decent 240 ft |
@@ -1113,7 +1113,7 @@ The type of familiar to appear, if any, is determined according to the following
 
 ##### Common Familiars
 
-| **d100 Roll** | **Type** | **STR/SIZ** | **POW** | **Granted Special Abilities, all include Telepathic Link** |
+| d100 Roll | Type | STR/SIZ | POW | Granted Special Abilities, all include Telepathic Link |
 | :-: | :-: | :-: | :-: | :-- |
 | 01-05 | Bat | 1 | 1d3 | +10% Perception (hearing only), may fight in darkness or blind without penalty |
 | 06-10 | Cat, House | 1 | 2d3 | Night Vision, +10% Perception (hearing only), +10% Stealth |
@@ -1152,7 +1152,7 @@ A successful Evade roll, resulting in going prone, allows the victim to suffer n
 
 A Fireball has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 30 ft. Range; 1d6 damage |
 | 2 | 4 | 60 ft. Range; 1d6 damage |
@@ -1176,7 +1176,7 @@ A Fireball has a chance of igniting flammable materials equal to the damage roll
 
 With the exceptions noted both above and in the following text, this spell functions as per the normal Fireball spell. The Delayed Blast Fireball inflicts 1d8 points of damage for each 2 points of Intensity, or fraction thereof, to all victims in the Area of Effect. When cast, the magic-user can set the Fireball to detonate at any time between instantly and within five minutes. It traverses to the designated spot and then remains inert, a tiny floating cinder, until at the desired time when it flashes into a massive ball of flame.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 50 ft. Range; 1d8 damage |
 | 2 | 4 | 100 ft. Range; 1d8 damage |
@@ -1221,7 +1221,7 @@ Upon successfully casting, a column of flame 30 feet in height streaks down from
 
 Flame Strike has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 100-ft range; 1d8 damage |
 | 2 | 4 | 120-ft range; 1d8 damage |
@@ -1260,7 +1260,7 @@ The reverse of this spell, Stone to Flesh, is used to restore a victim and no ro
 
 The magic-user may cast this spell to create a shimmering disk of force concentrated into a circle 3 feet in diameter, and use it to carry loose, miscellaneous items. This floating disk will always remain 3 feet above the ground and can carry any number of goods if they do not exceed 20 'Things' per Intensity and can fit upon the disk. For comparative purposes, assume 1 SIZ is equal to 3 'Things'; therefore, the disk would be able to carry just over 6 SIZ per Intensity. The concave nature of the disk will generally keep items from rolling off and if left unbidden, the disk will stay within 5 feet of the caster, following with a Movement Rate of 15 feet. However, the disk may be maneuvered to any point within the 60-foot area of the spell if the magic-user concentrates, even being willed to remain at a certain location. If the magic-user allows the disk to move beyond 60 feet, the disk will wink out of existence, dropping all carried items to the ground. The disk may not be willed to rise more than 3 feet off the ground.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 30 min.; carry 1-20 'Things' |
 | 2 | 2 | 60 min.; carry 21-40 'Things' |
@@ -1282,7 +1282,7 @@ The magic-user may cast this spell to create a shimmering disk of force concentr
 
 When this spell is cast, the magic-user may grant one creature of up to 10 SIZ per Intensity the gift. of flight. The creature gains a Movement Rate of 30 feet while flying, half that if climbing and double that in a dive. All skill penalties applying to ground movement speed apply to the desired flying speed as well, including limitations placed on spell casting and combat. The exact Duration of the Fly spell is unpredictable and should be rolled by the Games Master as those under its effects should not know specifically how much time is left. If the flier is required to make a Fly skill roll, Athletics or Acrobatics may be substituted at two grades of difficulty. However, a character that uses this spell frequently may choose to develop the Fly skill normally at a Base Value of STR+DEX.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 30 min. +1d6x10 min.; 1-10 SIZ |
 | 2 | 4 | 60 min. +1d6x10 min.; 11-20 SIZ |
@@ -1338,7 +1338,7 @@ A successful Resistance roll allows the victim to avoid the effects of the spell
 
 This spell may also be targeted on a specific creature, who will suffer the effects for the spell's entire Duration on a failed Resistance roll. Cast in this way, Fumble produces no Area of Effect. In this case, a successful Resistance roll results in the victim suffering the effects of the Rank 2 spell, Slow.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 1 Round; 30 ft. Range |
 | 2 | 4 | 2 Rounds; 60 ft. Range |
@@ -1360,9 +1360,9 @@ This spell may also be targeted on a specific creature, who will suffer the effe
 
 The casting of Gate requires the caster to know the true name of the entity to be summoned, which is typically a creature from one of the other planes of existence, such as a demon or devil, an angel, demigod or even a god. When successfully cast, a portal opens between the caster's plane of occupancy and that of the entity. Casting the spell automatically gains the entity's attention whether successful or otherwise. This spell is immensely powerful and draining, costing the caster not only the noted 3 Magic Points and 3 Experience Rolls, but also Aging them 5% of their typical lifespan (5 years in the case of a human caster). If the entity succeeds at the Resistance roll, they typically will not bother to come in person, however, assuming the spell is successful, 'something' will come through. The following table is used to determine some common entities, their average Willpowers, and typical servants that would be sent in their place. The Games Master is free to choose as best fits the nature of the current campaign.
 
-**Extra Planar Entity Table**
+##### Extra Planar Entity Table
 
-| **Intensity** | **Cost** | **Variable Effect** | **Willpower** |
+| Intensity | Cost | Variable Effect | Willpower |
 | :-: | :-: | :-- | :-- |
 | 1 | 3 | Sub-Demon or Sub-Devil | As per specific entity |
 | 2 | 4 | Minor Demon or Devil | As per specific entity |
@@ -1419,7 +1419,7 @@ Glue cements together two solid, inanimate objects for the Duration of the spell
 
 One person or creature (to include oneself) per Intensity within the spell's Area of Effect receives double the normal Movement Rate and gains a +4 bonus to Initiative for the spell's Duration. In addition, the target may choose 2 Actions per Turn for each Action Point used. This does not increase the rate of spell casting or the Duration of a spell in any way. Therefore, a spellcaster under the effects of Haste will not cast spells any faster, nor benefit from the extra Action in the same Turn that spells are cast. Because of the subject's sped up metabolism, each casting of this spell will age the target 1% of their normal life expectancy, regardless of Duration. For humans, that would be about 1 year. See the [Aging](0007_Game_System.md?id=aging) rules for the average life expectancies of the demi-human races. The casting of Haste will cancel out the effects of Slow, and in this case, will not age the individual. Haste does not stack with itself or similar magical effects.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 3 Rounds; 1 target |
 | 2 | 4 | 6 Rounds; 2 targets |
@@ -1457,7 +1457,7 @@ When reversed, Harm inflicts 12 points of magical injury to one of the victim's 
 
 This spell allows the caster to immobilize 1 humanoid creature per Intensity within the Area of Effect. A successful roll to resist completely negates the effects of the spell for that target only. Large humanoids (SIZ 21-40) are less susceptible to the Hold Person, with their Resistance roll being Easy, while the Resistance roll for Huge humanoids (SIZ 41+) is Very Easy. While held, affected creatures are completely helpless and nothing short of Dispel Magic will release them early.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 2 Rounds; 1 target |
 | 2 | 4 | 4 Rounds; 2 targets |
@@ -1481,7 +1481,7 @@ When this spell is cast, the cleric utters a word of incredible divine power, ca
 
 In addition, non-planar creatures of Evil Alignment suffer additional effects dependent upon the entity's Rank or SIZ, whichever gives the more beneficial result, as detailed on the following table.
 
-| **Target Rank** | **Target SIZ** | **General** | **Skill\*\*** | **Movement** |
+| Target Rank | Target SIZ | General | Skill\*\* | Movement |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | Kills | - | - |
 | 2 | 21-40 | Paralyzes 1d4 x10 Minutes | - | - |
@@ -1514,7 +1514,7 @@ Ice Storm has two effects, one of which is chosen when the spell is cast:
 
 Hail Stones (Duration: Instant): This variant of the spell causes large balls of hail to rain down in an area 60 feet in radius. Those caught in the area take 1d10 points of damage for each 2 points of Intensity, or fraction thereof. Each die of damage is rolled individually and applied to random Hit Locations. Fire-using creatures take +3 damage from each hail strike, and cold-using creatures' take half damage. Worn armor offers only half protection, but a creature's natural armor (or magical or magical Armor Points) reduce damage as normal. An Evade roll, throwing oneself prone, is only effective if within 5 feet of cover or of the edge of the Area of Effect. Otherwise, it is impossible to escape damage. Success in Evading allows the victim to suffer half the damage of each roll. Someone with the Artful Dodger Ability has the option to Evade without going prone, and if with 5 feet of cover or the edge of the Area of Effect, will take no damage on a successful roll, otherwise they take damage as normal.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 30 ft. Range; 1d10 dmg |
 | 2 | 4 | 60 ft. Range; 1d10 dmg |
@@ -1581,7 +1581,7 @@ While no actual damage may be done by the illusion, nor any temperature created,
 
 See the [Illusions and Phantasms](0009_Magic.md?id=illusions-and-phantasms) chapter for more information.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 50 ft. radius; 100 ft. Range |
 | 2 | 2 | 100 ft. radius; 200 ft. Range |
@@ -1663,7 +1663,7 @@ This spell may be cast to open one door or other similar aperture of wood, stone
 
 When reversed, Lock closes and locks one portal as noted above assuming there is a locking mechanism. Up to two different functions, lock, bolted, barred, and so forth, may be set.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | up to 25 HP portal; shackles, paddle locks, a typical wooden chest or door |
 | 2 | 2 | up to 50 HP portal; a wooden reinforced chest or door |
@@ -1685,7 +1685,7 @@ This spell allows the caster to discern the Alignment and Passions of one creatu
 
 **Alignment/Passion Strength Table**
 
-| **Percentage** | **Strength** |
+| Percentage | Strength |
 | :-: | :-- |
 | 01-29% | Weak |
 | 30-69% | Average |
@@ -1724,7 +1724,7 @@ The reverse of this spell, Confuse Languages, makes a creature unintelligible to
 
 When this spell is cast, the magic-user may designate themselves, one target, a creature, or an object, of no more than 20 SIZ (+10 SIZ per additional Intensity), and levitate that individual off the ground. A creature other than the caster may be moved vertically at a speed of 5 feet per Combat Round; if cast on oneself, the caster may move vertically up to 10 feet per Round. Levitation requires no Concentration on the part of the caster other than when changing elevation. If used on an unwilling subject, the target is allowed a roll to resist. While the subject of this spell is not granted any form of horizontal movement, the subject may be able to pull along a wall or cliff if within reach. The caster may end this spell when desired.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 10 min.; 60 ft. Range; 20 SIZ |
 | 2 | 4 | 20 min.; 120 ft. Range; 30 SIZ |
@@ -1748,7 +1748,7 @@ When this spell is cast, a globe of light materializes at a spot of the caster's
 
 _\*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell [Darkness](0010_Spells.md?id=darkness) with the exception that it possesses a lesser Duration of 30 minutes per Intensity._
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 20 ft. radius; 1 hour (30 min. reversed) |
 | 2 | 2 | 40 ft. radius; 2 hours (1 hour reversed) |
@@ -1774,7 +1774,7 @@ A successful Evade roll, resulting in throwing oneself prone, allows the victim 
 
 Lightning has a chance of igniting flammable materials equal to the damage rolled x1%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information. Lightning may also shatter or destroy inanimate objects from sheer impact.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 50 ft. Range; 1d6 damage |
 | 2 | 4 | 100 ft. Range; 1d6 damage |
@@ -1800,7 +1800,7 @@ With the casting of Locate Object, the caster is directed to a known or familiar
 
 The reverse of this spell, Obscure Object, conceals one item from detection by magical means, such as crystal balls, Detect Magic, and so on, for the same Duration.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 1 min.; 60 ft. radius |
 | 2 | 2 | 2 min.; 120 ft. radius |
@@ -1822,7 +1822,7 @@ The reverse of this spell, Obscure Object, conceals one item from detection by m
 
 This spell may be cast on any lockable object such as a chest, door, portal, or even a lockable tome. The object, which may be up to 25 Hit Points per Intensity, is permanently sealed unless battered open. Dispel Magic cast at an Intensity greater than the spell's Magnitude will only render it open for one Round, and Knock may be used to temporarily open a Mage Locked door for 10 minutes, after which the original spell continues. Finally, a magic-user of a higher Rank than the original caster may freely pass through a Mage Locked door without breaking the Enchantment, and they may even hold the portal for others. Unlike Secure Portal, Mage Locked objects are not automatically disrupted by creatures from beyond the prime material plane such as demons, devils, angels, and elementals, or those using material passing spells.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | up to 25 HP portal; shackles, paddle locks, a typical wooden chest or door |
 | 2 | 4 | up to 50 HP portal; a wooden reinforced chest or door |
@@ -1848,7 +1848,7 @@ A Magic Missile will strike unerringly, even if the target is in melee combat or
 
 When shooting multiple missiles, the caster may have them strike a single creature, or target several creatures. Each Magic Missile will strike a random Hit Location - specific Hit Locations may not be targeted. The caster must designate individual targets of each missile before they roll for damage.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 100 ft. Range; 1 missile |
 | 2 | 2 | 200 ft. Range; 2 missiles if 60% skill |
@@ -1902,10 +1902,10 @@ Magic Tricks are a great form of entertainment among the common folk, downtrodde
 
 When the magic-user casts this spell, two micro-meteors per level of Intensity streak from the outstretched hand. The meteors arc toward their target, impacting on a downward trajectory, leaving a trail of sparks and cinders in their wake. Upon impact, they detonate in multiple fiery explosions around the target point. The first meteor always strikes the targeted location, while any additional meteors strike randomly around it, each with an explosive radius of 30 feet. To determine where they hit, roll 1d8 for the direction.
 
-| **4** | **5** | **6** |
+| **4 | **5 | **6 |
 | :-: | :-: | :-- |
-| **3** | **X** | **7** |
-| **2** | **1** | **8** |
+| **3 | **X | **7 |
+| **2 | **1 | **8 |
 
 Each meteor does 1d10 points of fire damage to those in the Area of Effect. However, due to the radius of each explosion, many will overlap, doing additional damage to those unfortunate enough to get caught by them. The damage rolls are combined and applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
@@ -1957,7 +1957,7 @@ When this spell is cast, 2d4 duplicates of the magic-user appear within a 5 ft. 
 
 This spell allows the caster to cancel the effect of poison or venom afflicting a creature and may be used to cure an individual that has 'died' of poisoning if used within 10 minutes of death. One level of Intensity is required per 30 Potency of the inflicting poison. Neutralize Poison may also be used to nullify the venom produced by a poisonous creature such as a snake or scorpion so that it will not be capable of poisoning others: this requires 1 Intensity per 30 Potency and when used in this way, has a Duration of 24 hours. Finally, Neutralize Poison may be used on poisoned or otherwise tainted substances, treating 5 lbs. of solids or 2 gallons) of liquids per Intensity.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | Cure victim of POT 1-30 poison; nullify a poisonous creature of POT 1-30; treat up to 5 lbs. of poisoned solids, or 2 gallons of liquid |
 | 2 | 4 | Cure victim of POT 31-60 poison; nullify a poisonous creature of POT 31-60; treat up to 10 lbs. of poisoned solids, or 4 gallons of liquid |
@@ -1991,7 +1991,7 @@ When reversed, Inflict Poison allows the caster to produce a deadly toxin in a v
 
 This spell allows the caster to part water or other forms of liquid, creating a safe path which may then be traversed if desired. The spell creates a trough 100 feet wide, with a depth of 10 feet per Intensity, and a length of 120 feet per Intensity. Therefore, if cast at an Intensity of 4, the parting would be 70 feet deep, 480 feet long, with a width of 100 feet. The spell can be ended early by the caster, otherwise it continues until its Duration expires. This spell can be cast underwater, which instead creates a "corridor" of air with the same dimensions noted above. Finally, Part Water may be cast offensively on a creature such as a water elemental, and if so, causes 10 points of damage for every level of Intensity. Assuming the entity survives, it must succeed at a Willpower Resistance roll or flee the caster for 3d4 minutes.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 10 min.; 60 ft. Range; 100 ft. wide; 10 ft. deep; 120 ft. long |
 | 2 | 4 | 20 min.; 120 ft. Range; 100 ft. wide; 20 ft. deep; 240 ft. long |
@@ -2120,7 +2120,7 @@ If the victim had previously succumbed to the new form, Dispel Magic may still b
 
 All worn and carried equipment magically melds into the new form; however, in some cases, the Games Master may allow magic items that would still be able to be used in the creature's new form to remain, such as a magic ring or boots. Note this requires the creature's new SIZ to not be vastly different from the original. There is a POW x1% chance for each worn magic item of a defensive or miscellaneous nature, subject to Games Master approval, to transfer its effects to the creature's new form. A creature with a +1 ring of protection for example, could gain a +1 bonus to its natural Armor Points. Creatures with the natural capability to shape change, such as doppelgängers and lycanthropes, will be transformed as normal, but may assume their normal form after 1 Round. If slain, a polymorphed creature reverts to its natural form, even if it has previously lost all traces of identity.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3, +1 EXP | 15-foot Range; 1-5 SIZ points of difference |
 | 2 | 4, +1 EXP | 30-foot Range; 6-10 SIZ points of difference |
@@ -2146,7 +2146,7 @@ The caster may end the effect at any time, and in the process, all Minor Wounds 
 
 Polymorph is subject to Dispel Magic. In this case, the caster does not benefit from the healing. If slain, the caster will revert to the natural form. If transformed into a flier and required to make a Fly skill roll, Athletics or Acrobatics may be substituted at two grades of difficulty. However, a character that uses this form frequently may choose to develop the Fly skill normally at a Base Value of STR+DEX.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 20 min.; 1-10 SIZ points of difference |
 | 2 | 4 | 40 min.; 11-20 SIZ points of difference |
@@ -2168,7 +2168,7 @@ Polymorph is subject to Dispel Magic. In this case, the caster does not benefit 
 
 Upon successfully casting this spell, one creature of the caster's choice within both line of sight and Range, is struck blind, along with all others in a 15 ft. radius that fail a Resistance roll. This blindness may be cured by the casting of Cure Blindness or Dispel Magic. The spell's Duration is modified by the target's Rank or SIZ, whichever gives the more beneficial result. This is detailed in the following table.
 
-| **Target Rank** | **Target SIZ** | **Duration** |
+| Target Rank | Target SIZ | Duration |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | 1d4+1 x10 minutes\*\* |
 | 2 | 21-40 | 1d4+1 minutes |
@@ -2194,7 +2194,7 @@ _\*\* If only one to three creatures are in the Area of Effect, the effects are 
 
 The successful casting of this spell will kill either a single creature of up to Rank 3 or SIZ 60 (or 4 creatures per Intensity of no greater than SIZ 20), that fail a Resistance roll. This spell is extremely draining on the caster, with each casting causing the automatic loss of one level of Fatigue. All potential targets must lie within the Area of Effect, as designated when the spell is cast. The Intensity required is dependent upon the target's Rank or SIZ, whichever gives the target the more beneficial result, as detailed on the following table.
 
-| **Target Rank** | **Target SIZ** | **Intensity** |
+| Target Rank | Target SIZ | Intensity |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | 1 Intensity +3 EXP to Kill |
 | 2 | 21-40 | 2 Intensity +3 EXP to Kill |
@@ -2219,7 +2219,7 @@ Creatures larger than SIZ 60 are unaffected, as are characters of Rank 4 and up.
 
 Upon successfully casting this spell, one creature of the caster's choice within both line of sight and Range, which fails a Resistance roll is stunned. The victim is rendered briefly insensible, only allowed Reactive Actions of a defensive nature. The Duration is modified by the target's Rank or SIZ, whichever gives the more beneficial result for the target. This is detailed on the following table. This stunning may be cured before the Duration expires through the casting of Dispel Magic.
 
-| **Target Rank** | **Target SIZ** | **Duration** |
+| Target Rank | Target SIZ | Duration |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | 4d4 Rounds |
 | 2 | 21-40 | 2d4 Rounds |
@@ -2301,7 +2301,7 @@ When this spell is cast, an invisible field forms that offers complete protectio
 
 When cast on someone other than oneself, complete protection from natural cold is also granted. In addition, damage from magical cold attacks is reduced by half.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 15 min.; 12 points of cold protection on self |
 | 2 | 4 | 30 min.; 24 points of cold protection on self |
@@ -2349,7 +2349,7 @@ When this spell is cast, an invisible field forms that offers complete protectio
 
 When cast on someone other than oneself, complete protection from mundane fire is also granted. In addition, damage from magical fire attacks is reduced by half.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 15 min.; 12 points of fire protection on self |
 | 2 | 4 | 30 min.; 24 points of fire protection on self |
@@ -2373,7 +2373,7 @@ When this spell is cast, an invisible field forms that offers complete protectio
 
 When cast on someone other than oneself, damage from electrical attacks is reduced by half.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 15 min.; 12 points of electrical protection on self |
 | 2 | 4 | 30 min.; 24 points of electrical protection on self |
@@ -2419,7 +2419,7 @@ The act of being raised from the dead is very straining on the subject, who is r
 
 When reversed, Slay Living, can be used to kill one victim designated by the cleric at the time of the casting. This victim is allowed a Willpower roll to resist, modified by the target's Rank or SIZ, whichever gives the more beneficial result to the target, as detailed on the following table.
 
-| **Target Rank** | **Target SIZ** | **Willpower Modifier** |
+| Target Rank | Target SIZ | Willpower Modifier |
 | :-: | :-: | :-: |
 | 0-1\* | 1-20 | Hard |
 | 2 | 21-40 | Standard |
@@ -2557,7 +2557,7 @@ The caster of this spell may banish the effects of fear from one individual per 
 
 The reverse of this spell, Cause Fear, requires touching the victim in combat. Those that fail a Willpower Resistance roll flee in terror at a Sprint for 1d4 Rounds. The direction must be away from the caster of the spell. Cause Fear may be countered by Remove Fear and vice versa.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 30 ft. Range; 1 subject |
 | 2 | 2 | 60 ft. Range; 2 subjects |
@@ -2599,7 +2599,7 @@ Resurrection is very draining, Aging the cleric 3% of their typical lifespan (3 
 
 When reversed, Destruction, may be used to kill one victim in contact with the cleric at the time of the casting. This victim is allowed a Willpower roll to resist, modified by the target's Rank or SIZ, whichever gives the victim the more beneficial result, as detailed on the following table.
 
-| **Target Rank** | **Target SIZ** | **Willpower Modifier** |
+| Target Rank | Target SIZ | Willpower Modifier |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | Formidable |
 | 2 | 21-40 | Hard |
@@ -2639,7 +2639,7 @@ When cast, a victim previously drained of their life force using Energy Drain or
 
 This spell may be cast to hold shut one door, portcullis, gate, or other similar aperture of wood, stone, or metal as if securely locked. The door, which may be up to 25 Hit Points per Intensity, may be battered down but will not otherwise open for the Duration of the spell, which may be ended by the caster at any time. The spell may be negated with the successful casting of Dispel Magic at an Intensity greater than the Magnitude or Knock at any Intensity. Secure Portal is also automatically bypassed by creatures from beyond the prime material plane such as demons, devils, angels, and elementals since they can pass through solid material. This will also not affect Blink or other such spells.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 1 | 1 min.; 60-foot Range; up to 25 hp portal; a typical wooden door |
 | 2 | 2 | 2 min.; 120-foot Range; up to 50 hp portal; a wooden reinforced door |
@@ -2661,7 +2661,7 @@ This spell may be cast to hold shut one door, portcullis, gate, or other similar
 
 Shield creates an invisible mobile disk of force that hovers in front of the magic-user, increasing the difficulty of attacks striking from that direction by deflecting them away. In miniatures combat, Shield will only block damage that passes through one of the caster's front squares. The magic-user does not have to make any kind of skill test beyond the casting of the spell, as the spell's magic automatically interposes the shield between the attacks and the caster. The penalty applied to attacks that strike through the caster's front facing, is based on the attack type, and detailed in the following table.
 
-| **Type of Attack** | **Examples** | **Difficulty to Strike Caster** |
+| Type of Attack | Examples | Difficulty to Strike Caster |
 | :-: | :-: | :-- |
 | Magic missile | Magic Missiles only | Impossible, Magic Missiles are automatically blocked |
 | Hurled attacks | Rocks, thrown axes and spears, and so forth | Herculean |
@@ -2701,7 +2701,7 @@ Large creatures (SIZ 21-40) are less susceptible to Sleep, with the resistance r
 
 While sleeping, affected creatures are helpless and normal noise will not faze them, but they can be shaken or slapped awake. Any attack, assuming it is not fatal, will also cause them to awaken (though the attack will come as a Surprise). Attempting to awaken a creature takes 1 Combat Round.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 5 min. Duration; 1 creature |
 | 2 | 4 | 10 min. Duration; 2 creatures |
@@ -2723,7 +2723,7 @@ While sleeping, affected creatures are helpless and normal noise will not faze t
 
 This spell allows the caster to halve the normal Movement Rate of one creature. An additional creature may be slowed for each additional level of Intensity. Those affected must be within the Area of Effect when the spell is first cast but may move freely thereafter. In addition, those under the effects of Slow receive a -4 penalty to their Initiative for the spell's Duration and must reduce their total Action Points by half, including any used for Reactive purposes only. The casting of Slow cancels out the effects of Haste. Slow does not stack with itself or similar magical effects.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 2 Round Duration; 1 creature |
 | 2 | 6 | 4 Round Duration; 2 creatures |
@@ -2821,7 +2821,7 @@ This spell creates a shield around the recipient that deters spirits and ghosts 
 
 Upon casting this spell, a hammer-like force of spiritual energy appears, which then hurls itself at a target designated by the caster. Each Turn, the caster may use one of their Action Points to direct the hammer to attack, provided Concentration is maintained. While concentrating, the caster is limited to moving no faster than a walk, and may Evade or Parry with an equipped weapon or shield without breaking concentrating. With each Action Point spent to manipulate the hammer, it can be moved to any location within the caster's field of vision. If the caster is behind an opponent, they may use the hammer to strike the opponent from behind, negating their chance to defend themselves to the best of their ability. Spiritual Hammer causes damage as a normal war hammer (1d8+1), and has a chance to hit equal to the cleric's Combat Skill. Worn armor offers only half protection, but magical Armor Points or a creature's natural armor reduce damage as normal. It may be parried or evaded as normal and attacks against it are ineffective. Spiritual Hammer counts as a magical weapon with regards to striking creatures only harmed by magic, with every 2 levels of Intensity after the first granting the equivalent of a cumulative +1 Magic Bonus, to a Maximum of +5. This bonus does not add to the damage inflicted, rather, it helps damage creatures only harmed by a certain magic bonus or higher.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 3 Rounds; 30 ft. radius; counts as +0 |
 | 2 | 4 | 6 Rounds; 60 ft. radius; counts as +1 |
@@ -2923,7 +2923,7 @@ The side of the wall or circle facing away from the caster emits scorching heat,
 
 This spell imparts the ability for the caster or others to breathe water throughout its Duration. While being cast, more than one recipient may be touched and therefore gain the benefits of Water Breathing. In this case, the Duration is divided by the number of subjects. The exact Duration of the Water Breathing spell is unpredictable, and should be rolled by the Games Master, as those under its effects should not know specifically how much time is left. The reverse of this spell, Air Breathing, allows a creature otherwise unable to breathe oxygen to do so. The capability to breathe one's natural element is still retained regardless of the variant of the spell, so a fish could both breathe on land and under the water during the Duration of the spell.
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 6 hours +1d4 hours total |
 | 2 | 4 | 12 hours +1d4 hours total |
@@ -2949,7 +2949,7 @@ Assuming the target has room to escape the webs, a successful Evade roll places 
 
 On the following Turn, the victim may spend an Action Point to attempt to break free of the webbing. Magic webbing is incredibly strong and sticky, possessing 6 Armor Points and Hit Points equal to 3x the spell's Intensity. Attempting to break free requires the victim to win an Opposed Roll of Brawn against the web's Stickiness (equal to the caster's Arcane Casting skill). If this fails, the target remains fastened, unable to break free by strength alone. Attempting to cut free exposes the tool or weapon used to the same process. Despite popular belief, webs are not flammable, but a character might slowly burn a way through a web by using a flame to shrivel the strands (fire damage ignores the Web's Armor Points).
 
-| **Intensity** | **Cost** | **Variable Effect** |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
 | 1 | 3 | 20 min.; 30-foot Range; 6 armor, 3 Hit Points |
 | 2 | 4 | 40 min.; 60-foot Range; 6 armor, 6 Hit Points |
@@ -2975,9 +2975,9 @@ The results of a Wish should be taken literally and are open to interpretation b
 
 Some example Wishes and the required EXP expenditure follow.
 
-**Wish Examples and Costs**
+##### Wish Examples and Costs
 
-| **Desired Wish** | **EXP Cost** |
+| Desired Wish | EXP Cost |
 | :-- | :-: |
 | Reverse certain effects that typically require the Wish spell. | 1 EXP |
 | Duplicate the effects of any other Rank 1 or 2 Arcane or Divine spell at 15 Intensity, or equivalent. | 1 EXP \* |

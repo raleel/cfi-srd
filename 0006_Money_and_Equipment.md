@@ -8,7 +8,7 @@ The standard currency for _Classic Fantasy Imperative_ consists of the Copper, S
 
 ##### Standard Exchange Rates Table
 
-| **Coin** | **CP** | **SP** | **GP** | **PP** |
+| Coin | CP | SP | GP | PP |
 | :-- | :-: | :-: | :-: | :-: |
 | Copper Piece (CP) | 1 | 1/10 | 1/100 | 1/1000 |
 | Silver Piece (SP) | 10 | 1 | 1/10 | 1/50 |
@@ -86,7 +86,7 @@ All weapons are governed by a series of Characteristics which are as follows:
 
 ### Basic Melee Weapons
 
-| **Basic Weapon** | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
+| Basic Weapon | Hands | Damage | Size | Combat Effects | AP/HP | Traits | Cost |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
 | Club | 1H | 1d6 | M | Bash, Stun Location | 4/4 | — | 5SP |
 | Dagger\* | 1H | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3GP |
@@ -106,7 +106,7 @@ _\*\* Counts as 2 'Things' with regards to ENC_
 
 ### Martial Melee Weapons
 
-| **Weapon** | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
+| Weapon | Hands | Damage | Size | Combat Effects | AP/HP | Traits | Cost |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
 | Ball & chain | 1H | 1d6+1 | M | Bash, Entangle, Stun Location | 6/8 | Flexible | 25GP |
 | Bastard sword | 1H / 2H | 1d8 / 1d10 | M / L | Bleed, Impale, +Sunder (2H) | 6/12 | — | 25GP |
@@ -146,7 +146,7 @@ _\*\*\* A whip may not typically be used to Parry. However, if it is currently r
 
 ### Shields
 
-| **Shield** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
+| Shield | Damage | Size | Combat Effects | AP/HP | Traits | Cost |
 | :-- | :-: | :-: | :-- | :-: | :-- | :-: |
 | Buckler | 1d3 | M | Bash, Stun Location | 6/9 | Ranged Parry; Passive Block 2 locations | 5GP |
 | Heater\* | 1d4 | L | Bash, Stun Location | 6/12 | Ranged Parry; Passive Block 3 locations | 15GP |
@@ -184,7 +184,7 @@ Ranged weapons have similar characteristics to Melee weapons, although there are
 
 ### Basic Ranged Weapons
 
-| **Weapon** | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
+| Weapon | Dmg | Dmg Mod | Force | Range | Load | Combat Effects | Imp. Size | AP/HP | Cost |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
 | Crossbow, heavy\*\* | 1d10 | N | H | 60/450/900 | 4 | Impale, Sunder | S | 4/8 | 35GP |
 | Crossbow, light | 1d8 | N | L | 60/300/600 | 3 | Impale | S | 4/5 | 15GP |
@@ -200,7 +200,7 @@ _\*\* Counts as 2 'Things' with regards to ENC_
 
 ### Martial Ranged Weapons
 
-| **Weapon** | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
+| Weapon | Dmg | Dmg Mod | Force | Range | Load | Combat Effects | Imp. Size | AP/HP | Cost |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
 | Bow, long | 1d8 | Y | H | 45/375/750 | 2 | Impale | S | 4/7 | 20GP |
 | Bow, short | 1d6 | Y | L | 45/300/600 | 2 | Impale | S | 4/4 | 7.5GP |
@@ -221,7 +221,7 @@ Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bol
 
 ##### Ranged Weapon Ammunition
 
-| **Ammo Type** | **Description/Game Effects** | **Cost** |
+| Ammo Type | Description/Game Effects | Cost |
 | :-- | :-- | :-: |
 | Arrows (20) | — | 5SP |
 | Crossbow bolts (20) | — | 5SP |
@@ -243,14 +243,14 @@ Each type of armor is defined by the following qualities:
 
 ### Armor Table
 
-| **Light Armor** | **AP** | **GP Cost per Location** |
+| Light Armor | AP | GP Cost per Location |
 | :-- | :-: | :-: |
 | Furs or Hides | 1 | 2 |
 | Leather, Padded, or Quilted | 2 | 3 |
 | Studded Leather or Ring Mail | 3 | 10 |
 | Brigandine, Scale, or Laminated | 4 | 30 |
 
-| **Heavy Armor** | **AP** | **GP Cost per Location** |
+| Heavy Armor | AP | GP Cost per Location |
 | :-- | :-: | :-: |
 | Chain Mail | 5 | 40 |
 | Splint Mail or Banded Mail | 6 | 60 |
@@ -263,7 +263,7 @@ Every city, as well as most large towns, will have at least one shop dedicated t
 
 #### Common Magic Items Table
 
-| **Magic Item** | **Chance of Availability** | **Description/Game Effects** | **Cost** |
+| Magic Item | Chance of Availability | Description/Game Effects | Cost |
 | :-- | :-- | :-- | :-: |
 | Healing Balm | 100% chance of 1d4+2 | First Aid rolls are 1 grade easier and natural recovery is sped up as well, increasing the character's Healing Rate by 1 in each location it is applied. A single wound may not benefit from more than one application of the balm. Each sample provides enough for 3 separate wounds. | 1GP |
 | Potion of Dispel Magic | 80% chance of 1d3+1 | Negates one magical effect on the imbiber with an Intensity less than 1d4+1, cumulative. | 50GP |
@@ -282,7 +282,7 @@ Tools include all the items any self-respecting adventurer can be expected to ow
 
 #### Tools Table
 
-| **Item** | **Description/Game Effects** | **Cost** |
+| Item | Description/Game Effects | Cost |
 | :-- | :-- | :-: |
 | Backpack | Holds up to 10 Things at no additional weight. | 5SP |
 | Bedroll | A blanket and cushioned pad for sleeping. Typically, tightly rolled and tied off with cord for easy transport. | 1SP |

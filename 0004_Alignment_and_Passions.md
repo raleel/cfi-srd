@@ -46,7 +46,7 @@ This section only details what Passions represent and their default values. How 
 
 ##### Passion Table
 
-| **Object of Passion** | **Starting Percentage** |
+Object of Passion** Starting Percentage |
 | :-- | :-- |
 | A person, in a romantic or familial context | POW+CHA |
 | An organization or group of people | POW+INT |
@@ -86,7 +86,7 @@ The Deepening and Waning table shows how much the Passion changes.
 
 ##### Deepening and Waning Table
 
-| **Depth of Passion** | **Passion Modified by** |
+Depth of Passion** Passion Modified by |
 | :-- | :-- |
 | Weak | 1d10 |
 | Moderate | 1d10+5 |
