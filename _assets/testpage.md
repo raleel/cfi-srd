@@ -5,7 +5,7 @@ Links need to be as in the main doc `[title](URL)` - Obsidian links don't work.
 
 ### Linky Special Effects Table
 
-| Special Effect | Offensive | Defensive | Special Weapon Type | **Specific Roll (Bold)** | Stackable |
+| Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll (Bold) | Stackable |
 | :-- | :-: | :-: | :-- | :-: | :-: |
 | [Accidental Injury](0008_Combat.md?id=accidental-injury) | | X | | Attacker Fumbles | |
 | [Arise](0008_Combat.md?id=arise) | | X | | | |
@@ -86,7 +86,7 @@ Links need to be as in the main doc `[title](URL)` - Obsidian links don't work.
 ---
 #### Cleric Spell List (Reversi)
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Avert](0010_Spells.md?id=avert) | [Bless \(R\)](0010_Spells.md?id=bless-curse) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(R\)](0010_Spells.md?id=cure-major-wounds-cause-major-wounds) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
@@ -112,7 +112,7 @@ _\(R\) indicates a reversible spell._
 
 #### Mage Spell List (Reversi)
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
@@ -144,7 +144,7 @@ _\(R\) indicates a reversible spell._
 
 #### Cleric Spell List
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Avert](0010_Spells.md?id=avert) | [Bless \(Curse\)](0010_Spells.md?id=bless-curse) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(Cause Major Wounds\)](0010_Spells.md?id=cure-major-wounds-cause-major-wounds) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
@@ -174,7 +174,7 @@ _\(R\) indicates a reversible spell._
 
 #### Mage Spell List
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
@@ -204,7 +204,7 @@ _\(R\) indicates a reversible spell._
 
 #### Mage Spell List (Original Flavour)
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Appraise | Armor | Continual Light | Charm Monster | Chain Lightning | Astral Spell |
 | Avert | Burning Hands | Darkness | Cone of Cold | Control Weather | Charm, Mass |
@@ -235,7 +235,7 @@ _\(R\) indicates a reversible spell._
 
 #### Cleric Spell List Original Flavour)
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Avert | Bless (Curse) | Augury | Cure Major Wounds (Cause Major Wounds) | Blade Barrier | Astral Spell |
 | Befuddle | Command | Chant | Divination | Confusion | Control Weather |
