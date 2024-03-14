@@ -400,7 +400,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Move | 20' |
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneration (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Terror](Appendix_A_Monsters_And_Treasures.md?id=terror) |
 | Alignment | Evil 52%, Hate Good Giants 57% |
-| Armor | 3 (thick, rubbery skin) |
+| Armor | 3 (Thick, rubbery skin) |
 | Skills | Athletics 68%, Brawn 90%, Endurance 90%, Evade 62%, Languages (Troll) 53%, Locale 48%, Perception 60%\*, Survival 66%, Track 64%, Willpower 52% |
 | Combat Skill | 78% - Bite, Claw |
 
