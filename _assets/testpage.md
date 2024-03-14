@@ -3,6 +3,70 @@ Test page for CSS columns, table of contents and spell indices.
 Links need to be as in the main doc `[title](URL)` - Obsidian links don't work.
 
 
+### Linky Special Effects Table
+
+| Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
+| :-- | :-: | :-: | :-- | :-: | :-: |
+| [Accidental Injury](0008_Combat.md?id=accidental-injury) | | X | | Attacker Fumbles | |
+| [Arise](0008_Combat.md?id=arise) | | X | | | |
+| [Bash](0008_Combat.md?id=bash) | X | | Shields or Bludgeoning | | |
+| [Bleed](0008_Combat.md?id=bleed) | X | | Cutting Weapons | | |
+| [Blind Opponent](0008_Combat.md?id=blind-opponent) | | X | | Defender Criticals | |
+| [Bypass Armor](0008_Combat.md?id=bypass-armor) | X | | | Attacker Criticals | X |
+| [Choose Location](0008_Combat.md?id=choose-location) | X | | | See Description | |
+| [Circumvent Parry](0008_Combat.md?id=circumvent-parry) | X | | | Attacker Criticals | |
+| [Damage Weapon](0008_Combat.md?id=damage-weapon) | X | X | | | |
+| [Disarm Opponent](0008_Combat.md?id=disarm-opponent) | X | X | | | |
+| [Enhance Parry](0008_Combat.md?id=enhance-parry) | | X | | Defender Criticals | |
+| [Entangle](0008_Combat.md?id=entangle) | X | X | Entangling Weapons | | |
+| [Force Failure](0008_Combat.md?id=force-failure) | X | X | | Opponent Fumbles | |
+| [Grip](0008_Combat.md?id=grip) | X | | Unarmed | | |
+| [Impale](0008_Combat.md?id=impale) | X | | Impaling Weapons | | |
+| [Sharpshooter](0008_Combat.md?id=sharpshooter) | X | | Ranged Weapons | | |
+| [Maximize Damage](0008_Combat.md?id=maximize-damage) | X | | | Attacker Criticals | X |
+| [Prepare Counter](0008_Combat.md?id=prepare-counter) | | X | | | X |
+| [Rapid Reload](0008_Combat.md?id=rapid-reload) | X | | | | X |
+| [Scar Foe](0008_Combat.md?id=scar-foe) | X | X | | | |
+| [Select Target](0008_Combat.md?id=select-target) | | X | | Attacker Fumbles | |
+| [Slip Free](0008_Combat.md?id=slip-free) | | X | | Defender Criticals | |
+| [Stun Location](0008_Combat.md?id=stun-location) | X | | Bludgeoning Weapons | | |
+| [Sunder](0008_Combat.md?id=sunder) | X | | Two Handed Weapons | | |
+| [Trip Opponent](0008_Combat.md?id=trip-opponent) | X | X | | | |
+| [Withdraw](0008_Combat.md?id=withdraw) | | X | | | |
+
+
+### Original Special Effects Table
+
+| Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
+| :-- | :-: | :-: | :-- | :-: | :-: |
+| Accidental Injury | | X | | Attacker Fumbles | |
+| Arise | | X | | | |
+| Bash | X | | Shields or Bludgeoning | | |
+| Bleed | X | | Cutting Weapons | | |
+| Blind Opponent | | X | | Defender Criticals | |
+| Bypass Armor | X | | | Attacker Criticals | X |
+| Choose Location | X | | | See Description | |
+| Circumvent Parry | X | | | Attacker Criticals | |
+| Damage Weapon | X | X | | | |
+| Disarm Opponent | X | X | | | |
+| Enhance Parry | | X | | Defender Criticals | |
+| Entangle | X | X | Entangling Weapons | | |
+| Force Failure | X | X | | Opponent Fumbles | |
+| Grip | X | | Unarmed | | |
+| Impale | X | | Impaling Weapons | | |
+| Sharpshooter | X | | Ranged Weapons | | |
+| Maximize Damage | X | | | Attacker Criticals | X |
+| Prepare Counter | | X | | | X |
+| Rapid Reload | X | | | | X |
+| Scar Foe | X | X | | | |
+| Select Target | | X | | Attacker Fumbles | |
+| Slip Free | | X | | Defender Criticals | |
+| Stun Location | X | | Bludgeoning Weapons | | |
+| Sunder | X | | Two Handed Weapons | | |
+| Trip Opponent | X | X | | | |
+| Withdraw | | X | | | |
+
+
 #### Table no header
 
 |||
