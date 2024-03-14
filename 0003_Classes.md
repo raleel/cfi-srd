@@ -70,14 +70,14 @@ All clerics are rated by Rank, which is a rating of power and skill. When a spec
 
 ##### Cleric Rank Table
 
-| **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
+| Rank | Title | Advancement | Spells in Memory | Hit Points | Luck Points | Action Points |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| 0 | Lay Member | - | Rank 0: (INT/4) | 0 | +0 | +0 |
-| 1 | Initiate | Any 5 Class skills at 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
-| 2 | Cleric | Any 5 Class skills at 70% | Rank 0: (INT/4) +2<br> Rank 1: (INT/4) +2<br> Rank 2: (INT/4) | +1 | +1 | +1 |
-| 3 | Priest or Priestess | Any 4 Class skills at 90% | Rank 0: (INT/4) +3<br> Rank 1: (INT/4) +4<br> Rank 2: (INT/4) +2<br> Rank 3: (INT/4) | +1 | +2 | +1 |
-| 4 | High Priest or High Priestess | Any 3 Class skills at 110% | Rank 0: (INT/4) +4<br> Rank 1: (INT/4) +6<br> Rank 2: (INT/4) +4<br> Rank 3: (INT/4) +2<br> Rank 4: (INT/4) | +2 | +3 | +2 |
-| 5 | Grand Priest or Grand Priestess | Any 2 Class skills at 130% | Rank 0: (INT/4) +5<br> Rank 1: (INT/4) +8<br> Rank 2: (INT/4) +6<br> Rank 3: (INT/4) +4<br> Rank 4: (INT/4) +2<br> Rank 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Lay Member | - | Rank 0: (INT/4) | 0 | +0 | +0 |
+| **1** | Initiate | Any 5 Class skills at 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
+| **2** | Cleric | Any 5 Class skills at 70% | Rank 0: (INT/4) +2<br> Rank 1: (INT/4) +2<br> Rank 2: (INT/4) | +1 | +1 | +1 |
+| **3** | Priest or Priestess | Any 4 Class skills at 90% | Rank 0: (INT/4) +3<br> Rank 1: (INT/4) +4<br> Rank 2: (INT/4) +2<br> Rank 3: (INT/4) | +1 | +2 | +1 |
+| **4** | High Priest or High Priestess | Any 3 Class skills at 110% | Rank 0: (INT/4) +4<br> Rank 1: (INT/4) +6<br> Rank 2: (INT/4) +4<br> Rank 3: (INT/4) +2<br> Rank 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Grand Priest or Grand Priestess | Any 2 Class skills at 130% | Rank 0: (INT/4) +5<br> Rank 1: (INT/4) +8<br> Rank 2: (INT/4) +6<br> Rank 3: (INT/4) +4<br> Rank 4: (INT/4) +2<br> Rank 5: (INT/4) | +2 | +4 | +2 |
 
 #### Starting Abilities
 
@@ -178,7 +178,7 @@ Evil clerics may command their Turning Power in Intensity of undead. This effect
 
 ### Cleric Spell List
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Avert](0010_Spells.md?id=avert) | [Bless \(R\)](0010_Spells.md?id=bless-r) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(R\)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
@@ -237,7 +237,7 @@ All fighters are rated by Rank, which is a rating of power and skill. When a spe
 
 ##### Fighter Rank Table
 
-| **Rank** | **Title** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
+| Rank | Title | Advancement | Hit Points | Luck Points | Action Points |
 | :-: | :-- | :-- | :-: | :-: | :-: |
 | **0** | Warrior Trainee | - | 0 | +0 | +0 |
 | **1** | Warrior | Any 5 Class skills at 40% | 0 | +0 | +0 |
@@ -390,7 +390,7 @@ All mages are rated by Rank, which is a rating of power and skill. When a specif
 
 ##### Mage Rank Table
 
-| **Rank** | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
+| Rank | Title | Advancement | Spells in Memory | Hit Points | Luck Points | Action Points |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
 | **0** | Apprentice | - | Rank 0: (INT/4) | 0 | +0 | +0 |
 | **1** | Journeyman | Any 5 Class skills at 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
@@ -470,7 +470,7 @@ _\*\* Counts as ½ a Thing._
 
 ### Mage Spell List
 
-| **Rank 0** | **Rank 1** | **Rank 2** | **Rank 3** | **Rank 4** | **Rank 5** |
+| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
@@ -542,14 +542,14 @@ All rogues are rated by Rank, which is a rating of power and skill. You may choo
 
 ##### Rogue Rank Table
 
-| **Rank** | **Title (Rogue)** | **Title (Thief)** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
+| Rank | Title (Rogue) | Title (Thief) | Advancement | Hit Points | Luck Points | Action Points |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| 0 | Scamp | Cutpurse | - | 0 | +0 | +0 |
-| 1 | Scoundrel | Burglar | Any 5 Class skills at 40% | 0 | +0 | +0 |
-| 2 | Rogue | Thief | Any 5 Class skills at 70% | +1 | +1 | +1 |
-| 3 | Master Rogue | Master Thief | Any 4 Class skills at 90% | +1 | +2 | +1 |
-| 4 | Grand Master Rogue | Grand Master Thief | Any 3 Class skills at 110% | +2 | +3 | +2 |
-| 5 | Legendary Rogue | Legendary Thief | Any 2 Class skills at 130% | +2 | +4 | +2 |
+| **0** | Scamp | Cutpurse | - | 0 | +0 | +0 |
+| **1** | Scoundrel | Burglar | Any 5 Class skills at 40% | 0 | +0 | +0 |
+| **2** | Rogue | Thief | Any 5 Class skills at 70% | +1 | +1 | +1 |
+| **3** | Master Rogue | Master Thief | Any 4 Class skills at 90% | +1 | +2 | +1 |
+| **4** | Grand Master Rogue | Grand Master Thief | Any 3 Class skills at 110% | +2 | +3 | +2 |
+| **5** | Legendary Rogue | Legendary Thief | Any 2 Class skills at 130% | +2 | +4 | +2 |
 
 #### Starting Abilities
 

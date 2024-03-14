@@ -36,7 +36,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 3/5 |
 | 4-6 | Left Leg | 3/5 |
@@ -76,7 +76,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-2 | Tail | 0/3 |
 | 3-4 | Right Hind Leg | 0/3 |
@@ -117,7 +117,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 0/4 |
 | 4-6 | Left Leg | 0/4 |
@@ -158,7 +158,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 2/12 |
 | 4-6 | Left Leg | 2/12 |
@@ -198,7 +198,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 1/4 |
 | 4-6 | Left Leg | 1/4 |
@@ -240,7 +240,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 3/6 |
 | 4-6 | Left Leg | 3/6 |
@@ -281,7 +281,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 2/10 |
 | 4-6 | Left Leg | 2/10 |
@@ -327,7 +327,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-2 | Tail | 8/17 |
 | 3-4 | Right Hind Leg | 8/17 |
@@ -372,7 +372,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 0/5 |
 | 4-6 | Left Leg | 0/5 |
@@ -414,7 +414,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 3/11 |
 | 4-6 | Left Leg | 3/11 |
@@ -457,7 +457,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 0/6 |
 | 4-6 | Left Leg | 0/6 |

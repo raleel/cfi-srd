@@ -178,7 +178,7 @@ No spell may have its final cost reduced below 1 Magic Point.
 
 ##### Magic Point Reduction Matrix
 
-| **Rank** | **1** | **2** | **3** | **4** | **5** |
+| Rank | 1 | 2 | 3 | 4 | 5 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 0 | - | - | - | - |
 | 2 | -2 | 0 | - | - | - |
@@ -424,7 +424,7 @@ The difficulty applied to the skill roll is dependent upon the difference betwee
 
 #### Scroll Casting Difficulty
 
-| **Difference** | **Modifier** |
+| Difference | Modifier |
 | :-- | :-- |
 | Spell is of the caster's Rank or lower | Spell may be cast with no skill roll |
 | Spell is 1 Rank higher than the caster | Spell may be cast with a successful skill roll |
