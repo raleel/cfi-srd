@@ -402,4 +402,20 @@ This is another common trap found everywhere from a king's chamber to a forgotte
 - **Trigger:** Attempting to pick the lock of the trapped object.
 - **Difficulty:** 60%
 - **Resistance:** Endurance
-- **Effect:** When triggered, a small poison needle springs out and sticks into the hand of anyone attempting to pick the lock. Any poison may be used to coat the needle. If the poison is deadly, use the effects detailed for the Poison Gas Trap above, however applied only to the unfortunate lock picker.
+- **Effect:** When triggered, a small poison needle springs out and sticks into the hand of anyone attempting to pick the lock. Any poison may be used to coat the needle. The Game Master can decide the specifics of any poisons - which are covered in detail in the main _Classic Fantasy_ rules.
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+
+#### Poison Needle Trap
+
+_The original text included "If the poison is deadly, use the effects detailed for the Poison Gas Trap above, however applied only to the unfortunate lock picker."_
+
+_This causes issues because the poison gas trap is not covered in Classic Fantasy Imperative. Hence the change above._
+
+---
+
+</details>
