@@ -673,7 +673,7 @@ This weapon has been enchanted to do +1 damage and possesses +10 Armor Points an
 
 #### Bag of Holding (500 GP)
 
-This large cloth sack opens into a pocket dimension, being much bigger on the inside than the outside, and can be used to store much more than could fit normally into a bag of its shape and size. The bag is equal to 2 'Things' in weight regardless of its actual contents and can store up to 100 'Things.' This bag may be carried in another container and still weigh only 2 'Things' even when full.
+This large cloth sack opens into a pocket dimension, being much bigger on the inside than the outside, and can be used to store much more than could fit normally into a bag of its shape and size. The bag is equal to 2 'Things' in weight regardless of its actual contents and can store up to 100 'Things.' This bag may be carried in another container and still weighs only 2 'Things' even when full.
 
 #### Elven Boots (1000 GP)
 
@@ -681,7 +681,7 @@ These soft leather boots modify the wearer's ability to move silently regardless
 
 #### Potion of Invisibility (50 GP)
 
-When quaffed, this potion grants the imbiber Invisibility for 1d4+2 minutes. Like the spell of the same name (see page XX), any attack made by the beneficiary of its contents instantly causes the subject to reappear. Other non-combat actions made on the part of the imbiber, for example, talking, eating, running, opening doors, and so on, have no effect on the Duration, which is equal to 1d4+2 minutes per dose consumed. A typical potion contains enough for eight doses.
+When quaffed, this potion grants the imbiber Invisibility for 1d4+2 minutes. Like the [Invisibility](0010_Spells.md?id=invisibility) spell, any attack made by the beneficiary of its contents instantly causes the subject to reappear. Other non-combat actions made on the part of the imbiber, for example, talking, eating, running, opening doors, and so on, have no effect on the Duration, which is equal to 1d4+2 minutes per dose consumed. A typical potion contains enough for eight doses.
 
 #### Potion of Levitation (40 GP)
 
