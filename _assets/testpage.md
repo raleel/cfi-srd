@@ -5,7 +5,7 @@ Links need to be as in the main doc `[title](URL)` - Obsidian links don't work.
 
 ### Linky Special Effects Table
 
-| Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
+| Special Effect | Offensive | Defensive | Special Weapon Type | **Specific Roll (Bold)** | Stackable |
 | :-- | :-: | :-: | :-- | :-: | :-: |
 | [Accidental Injury](0008_Combat.md?id=accidental-injury) | | X | | Attacker Fumbles | |
 | [Arise](0008_Combat.md?id=arise) | | X | | | |
