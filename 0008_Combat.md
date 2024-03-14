@@ -308,7 +308,7 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 ### Special Effects Table
 
-| Special Effect | Offensive | Defensive | Special Weapon Type | **Specific Roll (Bold)** | Stackable |
+| Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
 | :-- | :-: | :-: | :-- | :-: | :-: |
 | [Accidental Injury](0008_Combat.md?id=accidental-injury) | | X | | Attacker Fumbles | |
 | [Arise](0008_Combat.md?id=arise) | | X | | | |
