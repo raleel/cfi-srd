@@ -266,7 +266,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d10 |
 | Initiative | +11 |
 | Move | 15' |
-| Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=trample) |
+| Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
 | Alignment | Evil 71%, Bad mannered and quick to anger 48% |
 | Armor | Chest and abdomen 3 (scraps of fur and leather over tough skin), head and limbs (tough skin 2) |
 | Skills | Athletics 61%, Brawn 88%, Endurance 76%, Evade 52%, Language (Ogre) 57%, Locale 40%, Perception 41%, Survival 59%, Track 58%, Unarmed 61%, Willpower 42% |
@@ -398,7 +398,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d10 |
 | Initiative | +13 |
 | Move | 20' |
-| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regenerate (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regenerate), [Terror](Appendix_A_Monsters_And_Treasures.md?id=terror) |
+| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneration (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Terror](Appendix_A_Monsters_And_Treasures.md?id=terror) |
 | Alignment | Evil 52%, Hate Good Giants 57% |
 | Armor | 3 (thick, rubbery skin) |
 | Skills | Athletics 68%, Brawn 90%, Endurance 90%, Evade 62%, Languages (Troll) 53%, Locale 48%, Perception 60%\*, Survival 66%, Track 64%, Willpower 52% |
