@@ -32,7 +32,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | :-- | :-: | :--: | :--: | :-- |
 | Battleaxe | M | 1d6+1d2 | 4/8 | Bleed, Sunder |
 | Target Shield | L |  1d4+1d2 | 4/9 | Bash, Impale, Ranged Parry, Passive Block (3) |
-| Shortbow | L | 1d6+1d2 | 4/4 | Impale, 45'/300'/600' Range |
+| Shortbow | L | 1d6+1d2 | 4/4 | Impale, Range 45'/300'/600' |
 
 #### Hit Locations & Armor
 
@@ -112,7 +112,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | :-- | :-: | :--: | :--: | :-- |
 | Shortsword | M | 1d6-1d2 | 6/8 | Bleed, Impale |
 | Target Shield | - | 1d4-1d2 | 4/9 | Bash, Impale, Ranged Parry, Passive Block (3) |
-| Sling | L | 1d8-1d2 | 1/2 | Bash, Stun Location, 30'/450'/900' Range |
+| Sling | L | 1d8-1d2 | 1/2 | Bash, Stun Location, Range 30'/450'/900' |
 
 
 #### Hit Locations & Armor
@@ -152,7 +152,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Weapon | Size | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :-- |
 | Giant-sized Club | E | 1d12+1d12 | 8/12 | Bash, Stun Location |
-| Hurled Boulder | L | 2d6+1d12 | - | Bash, Stun Location, 100' Range |
+| Hurled Boulder | L | 2d6+1d12 | - | Bash, Stun Location, Range 100' |
 | Trample | - | 2d12 | As location | Bash, Stun Location |
 
 
@@ -193,7 +193,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | :-- | :-: | :--: | :--: | :-- |
 | Shortsword | S | 1d6-1d4 | 6/8 | Bleed, Impale |
 | Target Shield | M | 1d4-1d4 | 4/9 | Bash, Impale, Ranged Parry, Passive Block (3) |
-| Javelin | S | 1d8+1-1d4 | 4/5 | Impale, 30'/60'/150' Range |
+| Javelin | S | 1d8+1-1d4 | 4/5 | Impale, Range 30'/60'/150' |
 
 
 #### Hit Locations & Armor
@@ -322,7 +322,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Tail | E | 1d10+1d10 | 8/12 | Bash |
 | Teeth | L | 1d10+1d10 | 8/12 | Entangle |
 | Trample | - | 2d10 | - | Bash, Stun Location |
-| Wing Buffet | E | 1d10 | 8/12 | Bash |
+| Wing Buffet | E | 1d10 | 8/12 | Bash, Range 10' on both sides |
 | Cone of Fire | - | 4d6 | - | Range 155' |
 
 #### Hit Locations & Armor
@@ -474,7 +474,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 A creature ability is something it can do naturally because of its physiology, biology, innate magic, and so forth. Birds, for example, can flap through the air, and so Flying is an ability.
 
-Each of the following abilities is described in terms of its game effects, and how it may affect interactions with others. Not all these Abilities are on display in the Sample Creatures provided later, but they show how seemingly mundane creatures can be turned into something unique, challenging, or downright terrifying. As a rule of thumb, creatures should have up to three Abilities that are applicable to their nature and environment. A demonic spider, for example, might have Adhering, Demon, Grappler and Vampiric.
+Each of the following abilities is described in terms of its game effects, and how it may affect interactions with others. Not all these Abilities are on display in the Sample Creatures provided, but they show how seemingly mundane creatures can be turned into something unique, challenging, or downright terrifying. As a rule of thumb, creatures should have up to three Abilities that are applicable to their nature and environment. A demonic spider, for example, might have Adhering, Demon, Grappler and Vampiric.
 
 #### Adhering
 
@@ -536,11 +536,11 @@ The creature senses its environment through reflections of sonic waves. This mea
 
 #### Engulfing
 
-The creature has an orifice which can swallow targets whole. The maximum size of an engulfed victim is figured as half the creature's own SIZ but may be less than this depending on the creature's physiology. When engulfed the victim suffers at least one damage roll based on the creature's bite attack before being swallowed – the time spent chewing depends on the creature, and how sensitive its innards are. If still alive a swallowed victim will begin to suffocate, likely dying by asphyxiation before suffering any noticeable damage from stomach acid. Realistically, an engulfed victim lacks the mobility to move inside the digestive tract or the creature is so large that he will die long before he can cut its way out.
+The creature has an orifice which can swallow targets whole. The maximum size of an engulfed victim is figured as half the creature's own SIZ but may be less than this depending on the creature's physiology. When engulfed the victim suffers at least one damage roll based on the creature's bite attack before being swallowed – the time spent chewing depends on the creature, and how sensitive its innards are. If still alive a swallowed victim will begin to suffocate, likely dying by asphyxiation before suffering any noticeable damage from stomach acid. Realistically, an engulfed victim lacks the mobility to move inside the digestive tract or the creature is so large that they will die long before they can cut a way out.
 
 #### Flying
 
-The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or out-maneuvering an aerial foe. A flyer may substitute the Fly skill (base STR+DEX) for Evade whilst fighting whilst aloft.
+The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flyer may substitute the Fly skill (base STR+DEX) for Evade when fighting whilst aloft.
 
 #### Formidable Natural Weapons
 
@@ -556,7 +556,7 @@ The creature has a gaze attack. This attack may be active (the creature must con
 
 #### Grappler
 
-If the creature successfully strikes in combat, it can immediately Grapple in addition to inflicting damage. If the creature's attack was parried (or the creature itself is parrying), then the creature is granted the Grip effect against the opponent's limb or the Pin Weapon effect against his weapon instead. The creature always uses its Brawn skill to resist a victim from breaking free.
+If the creature successfully strikes in combat, it can immediately Grapple in addition to inflicting damage. If the creature's attack was parried (or the creature itself is parrying), then the creature is granted the Grip effect against the opponent's limb or the Pin Weapon effect against his weapon instead. The creature always uses its Brawn skill to oppose a victim breaking free.
 
 #### Hold Breath
 
@@ -564,7 +564,7 @@ The creature can hold its breath for extended periods of time. If prepared and r
 
 #### Immunity
 
-The creature is completely immune to damage caused by one type of source. This source (cold, fire, iron, etc.) will be noted in the creature's listing, but a narrative description may be necessary for some of the more specific immunities.
+The creature is completely immune to damage caused by one type of source. This source (cold, fire, iron, etc) will be noted in the creature's listing, but a narrative description may be necessary for some of the more specific immunities.
 
 #### Intimidate
 
@@ -572,7 +572,7 @@ The creature may intimidate opponents as a prelude to combat or to avoid it alto
 
 #### Leaper
 
-The creature uses Leaping attacks as described on page XX of the Combat chapter but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
+The creature uses [Leaping Attacks](0008_Combat.md?id=leaping-attacks) as described in the [Combat](0008_Combat.md) chapter but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
 
 #### Life Sense
 
