@@ -1907,6 +1907,8 @@ When the magic-user casts this spell, two micro-meteors per level of Intensity s
 | **3** | **X** | **7** |
 | **2** | **1** | **8** |
 
+![](_media/CFI_10_Meteor_Shower_Grid.png)
+
 Each meteor does 1d10 points of fire damage to those in the Area of Effect. However, due to the radius of each explosion, many will overlap, doing additional damage to those unfortunate enough to get caught by them. The damage rolls are combined and applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
 A successful Evade roll allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half, unless they are within 5 feet of the edge of the Area of Effect.
@@ -2504,9 +2506,9 @@ Roll on the following table to determine the new form.
 
 ##### Resurrection Results Table
 
-| Reincarnation Result |  | Demi-Human \*|  | Humanoid/Monster \*\*|  |
+| Reincarnation Result |  | Demi-Human |  | Humanoid/Monster |
 |:-:|:--|:-:|:--|:-:|:--|
-| D100 Roll | Result | D100 Roll | Result | D100 Roll | Result | 
+| **D100 Roll** | **Result** | **D100 Roll** | **Result** | **D100 Roll** | **Result** | 
 | 01-20 | Human | 01-20 | Dwarf | 01-10 | Bugbear | 
 | 21-60 | Demi-Human \* | 21-40 | Elf | 11-26 | Gnoll | 
 | 61-95 | Humanoid/Monster \*\* | 41-60 | Gnome | 27-42 | Goblin | 
