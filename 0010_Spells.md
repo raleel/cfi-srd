@@ -2504,9 +2504,9 @@ All Characteristics are determined randomly as per the new form, apart from INT,
 
 Roll on the following table to determine the new form.
 
-##### Resurrection Results Table
+##### Reincarnation Results Table
 
-| Reincarnation Result |  | Demi-Human |  | Humanoid/Monster |
+| Reincarnation Result |  | Demi-Human |  | Humanoid/Monster |  |
 |:-:|:--|:-:|:--|:-:|:--|
 | **D100 Roll** | **Result** | **D100 Roll** | **Result** | **D100 Roll** | **Result** | 
 | 01-20 | Human | 01-20 | Dwarf | 01-10 | Bugbear | 
