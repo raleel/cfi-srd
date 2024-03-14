@@ -60,7 +60,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | -1d4 |
 | Initiative | +13 |
 | Move | 20' |
-| Abilities | Dark Vision, Leaper |
+| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?dark-vision), [Leaper](Appendix_A_Monsters_And_Treasures.md?leaper) |
 | Alignment | NA |
 | Armor | None |
 | Skills | Athletics 40%, Brawn 22%, Endurance 52%, Evade 56%, Perception 50%, Stealth 56%, Swim 58%, Willpower 34% |
@@ -100,7 +100,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | -1d2 |
 | Initiative | +11 |
 | Move | 15' |
-| Abilities | Dark Vision, Light sensitive |
+| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?light-sensitive) |
 | Alignment | Evil 52% |
 | Armor | Chest, abdomen, and head 3 (studded leather), limbs 0 |
 | Skills | Athletics 42%, Brawn 36%, Deceit 49%, Endurance 42%, Evade 58%, Languages (Goblin, Hobgoblin, Kobold, Orcish) 59%, Perception 63%, Ride 55%, Stealth 56%, Unarmed 42%, Willpower 42% |
@@ -141,11 +141,11 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d12 |
 | Initiative | +10 (11) |
 | Move | 20' |
-| Abilities | Trample |
+| Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?trample) |
 | Alignment | Evil 52%, Hate magic and spellcasters 57% |
 | Armor | Chest and abdomen 3 (furs and tough skin), head and limbs 2 (tough skin) |
 | Skills | Athletics 66%, Brawn 87%, Endurance 80%, Evade 42%, Language (Giant) 47%, Locale 50%, Perception 51%, Unarmed 66%, Willpower 42% |
-| Combat Skill | 76% - Giant-sized Club, Hurled Boulder (SIZ 8), Trample |
+| Combat Skill | 76% - Giant-sized Club, Hurled Boulder (SIZ 8)<br> 66% - Trample |
 
 #### Weapon Details
 
@@ -181,7 +181,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | -1d4 |
 | Initiative | +13 (14) |
 | Move | 15' |
-| Abilities | Cold-blooded, Dark Vision, Light-sensitive |
+| Abilities | [Cold-blooded](Appendix_A_Monsters_And_Treasures.md?cold-blooded), [Dark Vision](Appendix_A_Monsters_And_Treasures.md?dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?light-sensitive) |
 | Alignment | Evil 52%, Hates Everyone 62% |
 | Armor | Chest, abdomen, and head 3 (leather and scaly hide), limbs 1 (scaly hide) |
 | Skills | Athletics 40%, Brawn 31%, Deceit 57%, Endurance 42%, Evade 66%, Languages (Kobold, Goblin and Orcish) 57%, Mechanisms 66%, Perception 64%, Stealth 66%, Unarmed 39%, Willpower 42% |
@@ -223,7 +223,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d2 |
 | Initiative | +10 (14) |
 | Move | 20' |
-| Abilities | Dark Vision, Light sensitive |
+| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?light-sensitive) |
 | Alignment | Evil 52%, Hate Elves and Dwarves 57% |
 | Armor | Chest and abdomen 5 (chain mail), head 8 (steel helm), arms 0, legs 3 (studded leather) |
 | Skills | Athletics 55%, Brawn 48%, Deceit 48%, Endurance 56%, Evade 52%, Languages (Orcish and Common, some can speak Goblin, Hobgoblin, and Ogre) 58%, Perception 52%, Unarmed 55%, Willpower 52% |
@@ -266,11 +266,11 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d10 |
 | Initiative | +11 |
 | Move | 15' |
-| Abilities | None |
+| Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?trample) |
 | Alignment | Evil 71%, Bad mannered and quick to anger 48% |
 | Armor | Chest and abdomen 3 (scraps of fur and leather over tough skin), head and limbs (tough skin 2) |
 | Skills | Athletics 61%, Brawn 88%, Endurance 76%, Evade 52%, Language (Ogre) 57%, Locale 40%, Perception 41%, Survival 59%, Track 58%, Unarmed 61%, Willpower 42% |
-| Combat Skill | 71% - Ogre Club |
+| Combat Skill | 71% - Ogre Club<br> 61% -  Trample |
 
 #### Weapon Details
 
@@ -308,22 +308,22 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +16 |
 | Magic Points | 19 |
 | Move | 15' (50' Flying) |
-| Abilities | Breath Weapon; Immunity (Fire); Magic Resistance (30%); Telepathy (41% chance); Trample; Wing Buffet |
+| Abilities | [Breathe Flame](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Immunity (Fire)](Appendix_A_Monsters_And_Treasures.md?immunity); [Trample](Appendix_A_Monsters_And_Treasures.md?trample);[Wing Buffet](Appendix_A_Monsters_And_Treasures.md?wing-buffet), |
 | Alignment | Evil 95%, Quick to anger, suspicious, and hate silver dragons 88% |
 | Armor | 8 (thick scales) |
 | Skills | Arcane Knowledge 92%, Athletics 77%, Brawn 120%, Deceit 95%, Endurance 92%, Evade 52%, Fly 87%, Influence 78%, Insight 95%, Language (Chromatic Dragon) 95%, Locale 92%, Lore (Dragon) 92%, Perception 98%, Teach 95%, Willpower 78%, Speech (75% chance of having the ability to speak) |
-| Combat Skill | 100% - Cone Of Fire<br>  87% - Claws, Tail, Teeth, Trample, Wing Buffet |
+| Combat Skill | 100% - Cone Of Fire<br>  87% - Claws, Tail, Teeth, Wing Buffet <br> 77% -  Trample|
 
 #### Weapon Details
 
 | Weapon | Size | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :-- |
-| Claws | E | 1d10+1d10 | 8/12 | Bleed, Sweep |
-| Tail | E | 1d10+1d10 | 8/12 | Bash, Sweep |
+| Claws | E | 1d10+1d10 | 8/12 | Bleed |
+| Tail | E | 1d10+1d10 | 8/12 | Bash |
 | Teeth | L | 1d10+1d10 | 8/12 | Entangle |
 | Trample | - | 2d10 | - | Bash, Stun Location |
-| Wing Buffet | E | 1d10 | 8/12 | Bash, Sweep |
-| Cone of Fire | - | 4d6 | - | Cone of Fire |
+| Wing Buffet | E | 1d10 | 8/12 | Bash |
+| Cone of Fire | - | 4d6 | - | Range 155' |
 
 #### Hit Locations & Armor
 
@@ -356,7 +356,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d2 |
 | Initiative | +9 (11) |
 | Move | 20' |
-| Abilities | Immunity (Fear, Sleep, and Charm), Undead (Intensity vs. Turn: 1) |
+| Abilities | [Immunity (Fear, Sleep, and Charm)](Appendix_A_Monsters_And_Treasures.md?immunity), [Undead (Intensity vs. Turn: 1)](Appendix_A_Monsters_And_Treasures.md?undead) |
 | Alignment | NA |
 | Armor | Chest and abdomen 5 (chain mail), head and limbs 0) |
 | Skills | Athletics 54%, Brawn 53%, Endurance 50%, Evade 68%, Perception 44%, Unarmed 54%, Willpower 42% |
@@ -398,7 +398,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d10 |
 | Initiative | +13 |
 | Move | 20' |
-| Abilities | Dark Vision, Regenerate (1 HP/Round), Terror |
+| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?dark-vision), [Regenerate (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?regenerate), [Terror](Appendix_A_Monsters_And_Treasures.md?terror) |
 | Alignment | Evil 52%, Hate Good Giants 57% |
 | Armor | 3 (thick, rubbery skin) |
 | Skills | Athletics 68%, Brawn 90%, Endurance 90%, Evade 62%, Languages (Troll) 53%, Locale 48%, Perception 60%\*, Survival 66%, Track 64%, Willpower 52% |
@@ -410,6 +410,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | :-- | :-: | :--: | :--: | :-- |
 | Claws | L | 1d8+1d10 | As location | Bleed |
 | Teeth | L | 1d6+1d10 | As location | |
+
 
 #### Hit Locations & Armor
 
@@ -440,8 +441,8 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +7 (9) |
 | Magic Points | 6 |
 | Move | 15' |
-| Abilities | Immunity (Fear, Sleep, and Charm), Undead (Intensity vs. Turn: 2) |
-| Alignment | NA |
+| Abilities | [Immunity (Fear, Sleep, and Charm)](Appendix_A_Monsters_And_Treasures.md?immunity), [Undead (Intensity vs. Turn: 2)](Appendix_A_Monsters_And_Treasures.md?undead) |
+| Alignment | None |
 | Armor | Chest and abdomen 5 (chain mail), head and limbs 0 |
 | Skills | Athletics 53%, Brawn 57%, Endurance 58%, Evade 48%, Perception 44%, Unarmed 53%, Willpower 42% |
 | Combat Skill | 53% - Fists, Club |
