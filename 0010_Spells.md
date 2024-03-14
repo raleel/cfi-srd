@@ -220,7 +220,7 @@ The reverse of this spell, Curse, allows the cleric to curse enemies, making the
 This spell causes flames to shoot out from the caster's hands in a 120-degree arc. If using miniatures in combat, Burning Hands will damage each target that occupies 1 of the caster's front squares. Casting Burning Hands at higher levels of Intensity requires a higher Rank mage. This damage engulfs all targets within the area with damage based on the spell's Intensity, to a Maximum Intensity of 9, as follows. A successful Evade roll, throwing oneself prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half unless they are within 5 feet of the edge of the Area of Effect.
 
 | Intensity | Cost | Min Rank | Variable Effect |
-| :-: | :-: | :-- | :-- |
+| :-: | :-: | :-: | :-- |
 | 1 | 3 | 1 | 1d3+1 points of damage to all Hit Locations |
 | 3 | 4 | 1 | 1d3+2 points of damage to all Hit Locations |
 | 5 | 5 | 1 | 1d3+3 points of damage to all Hit Locations |
@@ -367,7 +367,7 @@ With the exceptions noted above, this spell functions like the spells [Charm Per
 This is an improved version of the spell [Charm Person](0010_Spells.md?id=charm-person) in that it will enthrall all living creatures of SIZ 20 or less within the Area of Effect, or 1 creature of any SIZ. Large creatures (SIZ 21-40) are more difficult to charm, with their resistance roll being Easy, and the resistance roll for Huge creatures (SIZ 41+) is Very Easy. The spell functions in all other ways as per Charm Person.
 
 | Intensity | Cost | Min Rank | Variable Effect |
-| :-: | :-: | :-- | :-- |
+| :-: | :-: | :-: | :-- |
 | 1 | 3 | 3 | Charmed for 1 week |
 | 2 | 4 | 3 | Charmed for 2 weeks |
 | 3 | 5 | 4 | Charmed for 3 weeks |
@@ -482,7 +482,7 @@ With a successful Evade roll, throwing oneself prone, the victim suffers no dama
 
 When this spell is cast, 1d4 creatures of SIZ 1-20 within the area of effect that fail their Resistance roll will be struck with a magical confusion. Each additional level of Intensity will affect another 1d4 creatures to a maximum of 4d4. The cleric version affects 1d3+1 per Intensity and has no Maximum. Those within the Area of Effect and closest to the caster are affected first. A successful Resistance roll overcomes the spell, while a failed roll results in the victim suffering from one of the following random effects, roll every Round for the spell's Duration, or until the victim wanders off.
 
-| D100 | Effects of Confusion |
+| D100 Roll | Effects of Confusion |
 | :-: | :-- |
 | 01-10 | Attack the caster with either ranged or melee weapons for the remainder of the Round |
 | 11-50 | Stand confused, essentially choosing Dither for the remainder of the Round |
@@ -1902,10 +1902,10 @@ Magic Tricks are a great form of entertainment among the common folk, downtrodde
 
 When the magic-user casts this spell, two micro-meteors per level of Intensity streak from the outstretched hand. The meteors arc toward their target, impacting on a downward trajectory, leaving a trail of sparks and cinders in their wake. Upon impact, they detonate in multiple fiery explosions around the target point. The first meteor always strikes the targeted location, while any additional meteors strike randomly around it, each with an explosive radius of 30 feet. To determine where they hit, roll 1d8 for the direction.
 
-| **4 | **5 | **6 |
+| 4 | 5 | 6 |
 | :-: | :-: | :-- |
-| **3 | **X | **7 |
-| **2 | **1 | **8 |
+| **3** | **X** | **7** |
+| **2** | **1** | **8** |
 
 Each meteor does 1d10 points of fire damage to those in the Area of Effect. However, due to the radius of each explosion, many will overlap, doing additional damage to those unfortunate enough to get caught by them. The damage rolls are combined and applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
@@ -2504,17 +2504,17 @@ Roll on the following table to determine the new form.
 
 ##### Resurrection Results Table
 
-|Reincarnation Result||Demi-Human \*||Humanoid/Monster \*\*||
+| Reincarnation Result |  | Demi-Human \*|  | Humanoid/Monster \*\*|  |
 |:-:|:--|:-:|:--|:-:|:--|
-|D100|Result|D100|Result|D100|Result|
-|01-20|Human|01-20|Dwarf|01-10|Bugbear|
-|21-60|Demi-Human \*|21-40|Elf|11-26|Gnoll|
-|61-95|Humanoid/Monster \*\*|41-60|Gnome|27-42|Goblin|
-|96-00|Other - GM’s Option|61-80|Half-Elf|43-58|Hobgoblin|
-|||81-100|Halfling|59-74|Kobold|
-|||||75-90|Orc|
-|||||91-95|Ogre|
-|||||96-00|Troll|
+| D100 Roll | Result | D100 Roll | Result | D100 Roll | Result | 
+| 01-20 | Human | 01-20 | Dwarf | 01-10 | Bugbear | 
+| 21-60 | Demi-Human \* | 21-40 | Elf | 11-26 | Gnoll | 
+| 61-95 | Humanoid/Monster \*\* | 41-60 | Gnome | 27-42 | Goblin | 
+| 96-00 | Other - GM’s Option | 61-80 | Half-Elf | 43-58 | Hobgoblin | 
+|  |  | 81-100 | Halfling | 59-74 | Kobold | 
+|  |  |  |  | 75-90 | Orc | 
+|  |  |  |  | 91-95 | Ogre | 
+|  |  |  |  | 96-00 | Troll | 
 
 \* Roll again and consult the Demi-Human results column.
 
@@ -2525,7 +2525,7 @@ Roll on the following table to determine the new form.
 
 (Abjuration)
 
-| | |
+|  |  |
 | :-- | :-- |
 | **Rank:** Cleric 2, Mage 3 | **Casting Time:** 2 Actions |
 | **Sphere:** ?? | **Duration:** Permanent |
@@ -2662,7 +2662,7 @@ This spell may be cast to hold shut one door, portcullis, gate, or other similar
 Shield creates an invisible mobile disk of force that hovers in front of the magic-user, increasing the difficulty of attacks striking from that direction by deflecting them away. In miniatures combat, Shield will only block damage that passes through one of the caster's front squares. The magic-user does not have to make any kind of skill test beyond the casting of the spell, as the spell's magic automatically interposes the shield between the attacks and the caster. The penalty applied to attacks that strike through the caster's front facing, is based on the attack type, and detailed in the following table.
 
 | Type of Attack | Examples | Difficulty to Strike Caster |
-| :-: | :-: | :-- |
+| :-: | :-- | :-- |
 | Magic missile | Magic Missiles only | Impossible, Magic Missiles are automatically blocked |
 | Hurled attacks | Rocks, thrown axes and spears, and so forth | Herculean |
 | Device propelled attacks | Arrows, crossbow and manticore bolts, sling stones and bullets, and so forth | Formidable |
