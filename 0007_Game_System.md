@@ -100,7 +100,7 @@ The amount of damage suffered in a fall depends on the distance of the drop. Arm
 
 ##### Falling Distance Table
 
-| Fall Height | Damage |
+| **Fall Height** | **Damage** |
 | :-- | :-- |
 | 5 feet or less | No damage |
 | 6 to 15 feet | 1d6 points of damage to one random location |
@@ -134,7 +134,7 @@ Note that the table represents Fatigue recovery for physical exertion. Fatigue r
 
 ### Fatigue Levels Table
 
-| Fatigue Level | Skill Grade | Movement | Initiative | Action Points | Recovery Period |
+| **Fatigue Level** | **Skill Grade** | **Movement** | **Initiative** | **Action Points** | **Recovery Period** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Fresh | – | – | No Penalties | – | – |
 | Winded | Hard | No Penalties | No Penalties | No Penalties | 15 minutes |
@@ -154,7 +154,7 @@ Fires are always a source of danger when used as a weapon or raging out of contr
 
 ##### Fire Intensity Table
 
-| Intensity | Examples | Time to Ignite | Damage |
+| **Intensity** | **Examples** | **Time to Ignite** | **Damage** |
 | :-: | :-- | :-: | :-: |
 | 1 | Candle | 1d4 | 1d2 |
 | 2 | Torch | 1d3 | 1d4 |
@@ -213,7 +213,7 @@ The humanoid Hit Locations table is repeated here for ease of reference.
 
 ### Humanoid Hit Locations
 
-| 1d20 | Hit Location |
+| **1d20** | **Hit Location** |
 | :-: | :-- |
 | 1-3 | Right Leg |
 | 4-6 | Left. Leg |
@@ -365,7 +365,7 @@ What happens when the trap is sprung, and the victim(s) fail to resist? Usually 
 
 ##### Death-Trap Damage Limits
 
-| Maker's Skill | Damage | Size/Force |
+| **Maker's Skill** | **Damage** | **Size/Force** |
 | :-: | :-: | :-: |
 | 1-10% | 1d2 | Small |
 | 11-20% | 1d4 | Small |
