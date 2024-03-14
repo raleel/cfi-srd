@@ -182,7 +182,8 @@ Arcane Casting is a magical skill essential to Arcane Magic. It is the magic-use
 
 #### Arcane Knowledge (INT x2)
 
-Like Arcane Casting, this magical skill is essential to Arcane Magic. It represents a mage's actual accumulated spell knowledge, and is used when attempting to learn new spells, copy them into a spell book, create scrolls, identify a spell as it is being cast, and so on. It also determines the number of spells the caster may have in memory at any one time.
+Like Arcane Casting, this magical skill is essential to Arcane Magic. It represents a mage's actual accumulated spell knowledge, and is used when attempting to learn new spells, copy them into a spell book, create scrolls, identify a spell as it is being cast, and so on. It also determines the number of starting spells the caster may have - covered in more detail in the Mage class's [Rank Structure](0003_Classes.md?id=rank-structure-2) section.
+
 
 Arcane Knowledge is not only limited to Arcane casters. It may be adopted by those who simply wish to study the esoteric even if they do not actively practice Arcane Magic.
 
