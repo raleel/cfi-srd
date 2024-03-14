@@ -238,8 +238,9 @@ Every Spell is defined by a series of traits explaining how it is used in the ga
 
 (School)
 
-| **Rank:** Cleric 1 | **Casting Time:** 1 Action |
+| | |
 | :-- | :-- |
+| **Rank:** Cleric 1 | **Casting Time:** 1 Action |
 | **Sphere:** Light | **Duration:** Instant |
 | **Cost:** 1, +1/additional Intensity | **Range:** 0 |
 | **Area:** 20' Radius | **Resist:** Willpower |

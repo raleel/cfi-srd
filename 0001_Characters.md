@@ -148,7 +148,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 ##### Experience Modifier Table
 
-| CHA | Exp. Modifier |
+| **CHA** | **Exp. Modifier** |
 | :-: | :-: |
 | 6 or less | -1 |
 | 7-12 | +0 |
@@ -161,7 +161,7 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 
 ##### Healing Rate Table
 
-| CON | Healing Rate |
+| **CON** | **Healing Rate** |
 | :-: | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
@@ -186,7 +186,7 @@ Exactly how they are used, and when, is described in the section, [Using Luck Po
 
 ##### Luck Points Table
 
-| POW | Luck Points |
+| **POW** | **Luck Points** |
 | :-: | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
@@ -209,7 +209,7 @@ Every creature has a Movement Rate – several feet that can be traveled during 
 
 ##### Movement Rate by Race Table
 
-| Species | Feet | Metres |
+| **Species** | **Feet** | **Metres** |
 | :-- | :-: | :-: |
 | Dwarf | 15 | 4.5 |
 | Elf | 20 | 6 |
@@ -229,7 +229,7 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 ##### Hit Points per Location Table
 
-| Location | CON+SIZ |  |  |  |  |  |  |  |  |
+| **Location** | **CON+SIZ** |  |  |  |  |  |  |  |  |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
@@ -251,7 +251,7 @@ Note that the basic percentages for some skills will be modified by both culture
 
 ##### Standard Skills Table
 
-| Skill | Basic Percentage |
+| **Skill** | **Basic Percentage** |
 | :-- | :-: |
 | Athletics | STR+DEX |
 | Boating | STR+CON |
@@ -297,7 +297,7 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 
 ##### Racial Quick Picks Table
 
-| Race/Culture | Standard Skills | Professional Skills |
+| **Race/Culture** | **Standard Skills** | **Professional Skills** |
 | :-- | :-- | :-- |
 | Human (Barbarian, Warrior Type) | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, and either Boating or Ride at +10 | Navigation +10, Seamanship or Survival +10, Track +10 |
 | Human (Barbarian, Wise Person) | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, and either Boating or Ride at +10 | Healing +10, Language (any\*) +10, Lore (any) +15 |
@@ -343,7 +343,7 @@ Choose a Class Quick Pick for an average selection of skills useful to the Class
 
 ##### Class Quick Picks Table
 
-| Class | Standard Skills | Professional Skills |
+| **Class** | **Standard Skills** | **Professional Skills** |
 | :-- | :-- | :-- |
 | Cleric | Combat Skill (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (deity) +15; Lore (Religion) +5 and one of the following at +5: Language (any), Lore (any), or Oratory |
 | Fighter | Athletics +10; Boating or Ride +5; Brawn +15; Combat Skill (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; and two of the following at +5: Gambling, Survival or Navigation |
@@ -406,7 +406,7 @@ This table may also be used for NPCs, whether built using a Class or a career, a
 
 ##### Experience Table
 
-| Rank (Level\*) | Age | Bonus Skill Points | Maximum Skill Increase | Average Skill Level\*\* | Advancement |
+| **Rank (Level\*)** | **Age** | **Bonus Skill Points** | **Maximum Skill Increase** | **Average Skill Level\*\*** | **Advancement** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Rank 1 (1-4): _Fresh_ | By species | 100 | +10 | 40-60 | Any 5 Class Skills at 40% |
 | Rank 2 (5-9): _Low Level_ | +1d6 | 300 | +30 | 65-75 | Any 5 Class Skills at 70% |
