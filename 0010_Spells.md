@@ -1909,6 +1909,11 @@ When the magic-user casts this spell, two micro-meteors per level of Intensity s
 
 ![](_media/CFI_10_Meteor_Shower_Grid.png)
 
+<div style="text-align: center;">
+    <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
+</div>
+
+
 Each meteor does 1d10 points of fire damage to those in the Area of Effect. However, due to the radius of each explosion, many will overlap, doing additional damage to those unfortunate enough to get caught by them. The damage rolls are combined and applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
 A successful Evade roll allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half, unless they are within 5 feet of the edge of the Area of Effect.
