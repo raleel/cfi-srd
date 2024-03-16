@@ -13,9 +13,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 ### Bandit (Rank 1)
 
-| Creature Name | Bandit (Rank 1)  |
+| Creature | Bandit (Rank 1)  |
 | :-- | :-- |
-| Key Attributes | STR 11, CON 11, SIZ 13, DEX 11, INT 13, POW 11, CHA 8 |
+| Characteristics | STR 11, CON 11, SIZ 13, DEX 11, INT 13, POW 11, CHA 8 |
 | Action Points | 2 | 
 | Damage Modifier | +1d2 |
 | Initiative | +11 (13) |
@@ -53,9 +53,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 ### Giant Rat (Rank ½)
 
-| Creature Name | Giant Rat (Rank ½)  |
+| Creature | Giant Rat (Rank ½)  |
 | :-- | :-- |
-| Key Attributes | STR 7, CON 11, SIZ 4, DEX 13, INS 13, POW 7 |
+| Characteristics | STR 7, CON 11, SIZ 4, DEX 13, INS 13, POW 7 |
 | Action Points | 3 | 
 | Damage Modifier | -1d4 |
 | Initiative | +13 |
@@ -93,9 +93,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 ### Goblin (Rank ½)
 
-| Creature Name | Goblin (Rank ½) |
+| Creature | Goblin (Rank ½) |
 | :-- | :-- |
-| Key Attributes | STR 8, CON 11, SIZ 8, DEX 14, INT 12, POW 11, CHA 7 |
+| Characteristics | STR 8, CON 11, SIZ 8, DEX 14, INT 12, POW 11, CHA 7 |
 | Action Points | 3 | 
 | Damage Modifier | -1d2 |
 | Initiative | +11 |
@@ -134,9 +134,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 ### Hill Giant (Rank 5)
 
 
-| Creature Name | Hill Giant (Rank 5)  |
+| Creature | Hill Giant (Rank 5)  |
 | :-- | :-- |
-| Key Attributes | STR 25, CON 25, SIZ 32, DEX 11, INT 10, POW 11, CHA 7 |
+| Characteristics | STR 25, CON 25, SIZ 32, DEX 11, INT 10, POW 11, CHA 7 |
 | Action Points | 2 | 
 | Damage Modifier | +1d12 |
 | Initiative | +10 (11) |
@@ -174,9 +174,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 ### Kobold (Rank ¼)
 
-| Creature Name | Kobold (Rank ¼)  |
+| Creature | Kobold (Rank ¼)  |
 | :-- | :-- |
-| Key Attributes | STR 6, CON 11, SIZ 5, DEX 13, INT 13, POW 11, CHA 4 |
+| Characteristics | STR 6, CON 11, SIZ 5, DEX 13, INT 13, POW 11, CHA 4 |
 | Action Points | 3 | 
 | Damage Modifier | -1d4 |
 | Initiative | +13 (14) |
@@ -216,9 +216,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11848/)
 
-| Creature Name | Orc (Rank 1)  |
+| Creature | Orc (Rank 1)  |
 | :-- | :-- |
-| Key Attributes | STR 14, CON 13, SIZ 14, DEX 11, INT 11, POW 11, CHA 7 |
+| Characteristics | STR 14, CON 13, SIZ 14, DEX 11, INT 11, POW 11, CHA 7 |
 | Action Points | 2 | 
 | Damage Modifier | +1d2 |
 | Initiative | +10 (14) |
@@ -259,9 +259,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11837/)
 
-| Creature Name | Ogre (Rank 3)  |
+| Creature | Ogre (Rank 3)  |
 | :-- | :-- |
-| Key Attributes | STR 20, CON 18, SIZ 28, DEX 11, INT 10, POW 11, CHA 7 |
+| Characteristics | STR 20, CON 18, SIZ 28, DEX 11, INT 10, POW 11, CHA 7 |
 | Action Points | 2 | 
 | Damage Modifier | +1d10 |
 | Initiative | +11 |
@@ -300,9 +300,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11849/)
 
-| Creature Name | Red Dragon, Young Adult (Rank 10)  |
+| Creature | Red Dragon, Young Adult (Rank 10)  |
 | :-- | :-- |
-| Key Attributes | STR 22, CON 31, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Characteristics | STR 22, CON 31, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
 | Action Points | 4 | 
 | Damage Modifier | +1d10 |
 | Initiative | +16 |
@@ -349,9 +349,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11834/)
 
-| Creature Name | Skeleton (Rank ½)  |
+| Creature | Skeleton (Rank ½)  |
 | :-- | :-- |
-| Key Attributes | STR 10, CON 10, SIZ 13, DEX 14, INS 8, POW 6 |
+| Characteristics | STR 10, CON 10, SIZ 13, DEX 14, INS 8, POW 6 |
 | Action Points | 2 | 
 | Damage Modifier | +1d2 |
 | Initiative | +9 (11) |
@@ -391,9 +391,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11836/)
 
-| Creature Name | Troll (Rank 4)  |
+| Creature | Troll (Rank 4)  |
 | :-- | :-- |
-| Key Attributes | STR 22, CON 25, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Characteristics | STR 22, CON 25, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
 | Action Points | 3 | 
 | Damage Modifier | +1d10 |
 | Initiative | +13 |
@@ -433,9 +433,9 @@ Rank denotes an approximate challenge of the creature in question and is similar
 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11835/)
 
-| Creature Name | Zombie (Rank ½) |
+| Creature | Zombie (Rank ½) |
 | :-- | :-- |
-| Key Attributes | STR 14, CON 14, SIZ 13, DEX 9, INS 8, POW 6 |
+| Characteristics | STR 14, CON 14, SIZ 13, DEX 9, INS 8, POW 6 |
 | Action Points | 2 | 
 | Damage Modifier | +1d2 |
 | Initiative | +7 (9) |
