@@ -90,7 +90,7 @@ All weapons are governed by a series of Characteristics which are as follows:
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
 | Club | 1H | 1d6 | M | Bash, Stun Location | 4/4 | — | 5SP |
 | Dagger\* | 1H | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3GP |
-| Great club\*\* | 2H | 2d6 | H | Bash, Stun Location | 4/10 | — | 50GP |
+| Great club\*\* | 2H | 2d6 | H | Bash, Stun Location | 4/10 | — | 5GP |
 | Hand axe\* | 1H | 1d6 | S | Bleed | 3/6 | Thrown | 2.5GP |
 | Longspear\*\* | 2H | 1d10+1 | L | Impale | 4/10 | Set | 3GP |
 | Mace | 1H | 1d8 | M | Bash, Stun Location | 6/6 | — | 10GP |
