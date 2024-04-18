@@ -29,7 +29,7 @@ _\* Humans are not limited in selection of languages during character creation i
 #### Alignment and Passions
 
 - **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-- **Other Passion:** Any, but typically one or two from the following:
+- **Passion:** Any, but typically one or two from the following:
   - Loyalty to Clan Chieftain
   - Love (friend, sibling, or romantic lover)
   - Hate (magic, creature, rival, or clan)
@@ -173,7 +173,7 @@ _\* During character creation, additional languages are limited to gnome, goblin
 - **Movement:** 15 feet.
 - **Darkvision:** Dwarven Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Perception rolls to spot something) and in darkness as if it were dim light (Perception rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
 - **Literate:** Dwarves are typically able to read and write any language they can speak.
-- **Magic Resistance:** Magic Resistance: Dwarves are highly resistant to Arcane Magic; their Willpower Checks are one grade easier when used to resist. This resistance has no effect on Divine magic.
+- **Magic Resistance:** Dwarves are highly resistant to Arcane Magic; their Willpower Checks are one grade easier when used to resist. This resistance has no effect on Divine magic.
 - **Poison Resistance:** Dwarves are also highly resistant to poison, with Endurance rolls that relate to poisoning being one grade easier.
 - **Tunnel Sense:** Due to their subterranean nature, dwarves can detect certain underground phenomena by succeeding at an Easy Perception skill roll. Tunnel Sense may be used to detect stonework pits, deadfalls, and traps; a slope or grade; approximate depth underground; new tunnel or passage construction; and shifting or sliding walls or rooms. The range of this detection is limited to 10 feet.
 
