@@ -271,7 +271,7 @@ If a defender succeeds in Parrying, then they can reduce an attacker's damage, i
 - Parrying with a weapon or shield of _one Size less_ only deflects _half_ damage.
 - Parrying with a weapon or shield _two or more Sizes less_ fails to deflect _any_ damage.
 
-For example, Parrying a great axe (Huge) with a kite shield (also Huge) would block all damage; Parrying it with a Longsword (Large) would halve the damage, and Parrying it with a shortsword (Medium) would stop no damage at all.
+For example, Parrying a great axe (Huge) with a kite shield (also Huge) would block all damage; Parrying it with a Glaive (Large) would halve the damage, and Parrying it with a shortsword (Medium) would stop no damage at all.
 
 ### Armor
 
