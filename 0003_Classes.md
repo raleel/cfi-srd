@@ -98,8 +98,8 @@ For each expenditure of 1 Experience Roll you may gain one of the following Abil
 - **Powerful Concentration:** Requires Devotion of 50% or higher. Willpower tests to maintain Concentration regarding spells and spell casting are one grade easier.
 - **Greater Turning:** Requires Willpower of 60% or higher. Turning Power may be re-rolled if desired, however the new roll must be used.
 - **Holy Smite:** Requires Devotion and Willpower of 50% or higher. The cleric may increase their Damage Modifier by one grade against undead, demons, and devils. Usable once per day per Rank attained.
-- **Mental Strength:** Requires Devotion of 60% or higher. Once per day you find it 2 grades easier to perform Willpower checks when resisting any form of magic that targets the mind. This includes such powers as beguiling, charm, domination, hold, hypnosis, Magic Jar, possession, sleep, suggestion, and psionic mind blast. It has no effect on skills such as Influence or Seduction. You also find it 1 grade easier to Disbelieve illusions and phantasms. In the case of elves, this does not stack with their resistance to Sleep and Charm, but it does broaden their ability to resist additional effects.
-- **Weapon Precision:** You are adept at using small, concealable, weapons that do not require a lot of strength, subtly and effectively. This allows you to calculate Damage Modifier with these weapons based on STR+DEX instead of STR+SIZ if it would generate a better result. The Damage Modifier cannot exceed weapons normal damage die. For example, a dagger with a damage of 1d4+1, would be limited to a Damage Modifier of +1d4, making it 1d4+1+1d4. This covers clubs, daggers, garrotes, knives, shortswords, main gauche, and rapiers. as well as unarmed attacks. Darts, slings, short bows, and javelins fall into this category as well.
+- **Mental Strength I:** Requires Devotion of 60% or higher. Once per day you find it 2 grades easier to perform Willpower checks when resisting any form of magic that targets the mind. This includes such powers as beguiling, charm, domination, hold, hypnosis, Magic Jar, possession, sleep, suggestion, and psionic mind blast. It has no effect on skills such as Influence or Seduction. You also find it 1 grade easier to Disbelieve illusions and phantasms. In the case of elves, this does not stack with their resistance to Sleep and Charm, but it does broaden their ability to resist additional effects.
+- **Weapon Precision:** You are adept at using small, concealable, weapons that do not require a lot of strength, subtly and effectively. This allows you to calculate Damage Modifier with these weapons based on STR+DEX instead of STR+SIZ if it would generate a better result. The Damage Modifier cannot exceed weapons normal damage die. For example, a dagger with a damage of 1d4+1, would be limited to a Damage Modifier of +1d4, making it 1d4+1+1d4. This covers clubs, daggers, garrotes, knives, shortswords, main gauche, and rapiers, as well as unarmed attacks. Darts, slings, short bows, and javelins fall into this category as well.
 
 #### Rank 2:
 
@@ -108,7 +108,7 @@ For each expenditure of 2 Experience Rolls you may gain one of the following Abi
 - **Characteristic Increase:** You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
 - **Defensive Reflexes I:** Defensive Reflexes requires you to be Unburdened (Less 'Things' carried than STR), wearing nothing more restrictive than light armor. Once per combat you may re-roll a Failed Parry or Evade roll without spending a Luck Point.
 - **Extra Turning:** Requires Devotion and Willpower of 80% or higher. The cleric may double the number of times between rests that they may Turn. Twice at Rank 1, four times at Rank 3, and six times at Rank 5.
-- **Mental Strength II:** Requires Mental Strength and Devotion of 80% or higher. As per Mental Strength I, but usable twice per day.
+- **Mental Strength II:** Requires Mental Strength I and Devotion of 80% or higher. As per Mental Strength I, but usable twice per day.
 - **Ranged Touch (X):** Requires Willpower of 80% or higher. This Ability allows the caster to give a spell with a Range of "Touch," a Range of 30 feet instead. The spell is considered one Rank higher with regards to memorization and should be noted as ranged when memorized. For example, Cure Minor Wounds (Ranged) would count as a Rank 2 spell.
 
 #### Rank 3:
@@ -124,7 +124,7 @@ For each expenditure of 3 Experience Rolls you may gain one of the following Abi
 For each expenditure of 4 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
 
 - **Characteristic Increase:** You may add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
-- **Defensive Reflexes II:** Requires Defensive Reflexes. As per Defensive Reflexes, however you may now use this Ability twice in the same combat. You may not re-roll against the same attack more than once, however.
+- **Defensive Reflexes II:** Requires Defensive Reflexes I. As per Defensive Reflexes, however you may now use this Ability twice in the same combat. You may not re-roll against the same attack more than once, however.
 - **Mental Strength IV:** Requires Mental Strength III and Oath or Devotion of 120% or higher. As per Mental Strength I, but usable four times per day.
 
 #### Rank 5:
@@ -447,7 +447,7 @@ For each expenditure of 5 Experience Rolls, you may gain one of the following Ab
 
 - **Characteristic Increase:** Add +1 to a Characteristic of your choosing. This may not exceed racial maximums.
 - **Defensive Reflexes II:** Requires Defensive Reflexes. As per Defensive Reflexes, however you may now use this Ability twice in the same combat. You may not re-roll against the same attack more than once however, nor combine with a Luck Point.
-- **Mental Strength V:** Requires Mental Strength IV and Arcane Knowledge of 140% or higher. As per Mental Strength, but usable four times per day.
+- **Mental Strength V:** Requires Mental Strength IV and Arcane Knowledge of 140% or higher. As per Mental Strength, but usable five times per day.
 
 ### Mage's Basic Starting Equipment
 
