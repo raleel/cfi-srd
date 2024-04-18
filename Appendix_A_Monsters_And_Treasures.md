@@ -663,7 +663,7 @@ This shield has been reinforced through magical Enchantment, with a +5% bonus to
 
 This shield has been reinforced through magical Enchantment, with a +5% bonus to Combat Skill when Parrying a melee attack and +20% when Parrying missiles. This shield possesses +5 Armor Points and +2 Hit Points for a shield of its type.
 
-#### +10% Shield (250 GP\*)
+#### +10% Shield (500 GP\*)
 
 This shield has been reinforced through magical Enchantment, with a +10% bonus to Combat Skill when Parrying. This shield possesses +10 Armor Points and +4 Hit Points for a shield of its type.
 
