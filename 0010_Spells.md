@@ -534,23 +534,8 @@ Creatures with an aversion to daylight suffer the normal penalties associated wi
 | **Cost:** 3 +1/Intensity | **Range:** 0 |
 | **Area:** 1d4 square miles/Intensity | **Resist:** N/A |
 
-This spell allows the caster to alter the current weather in a significant and noticeable way. Once cast, another 1d4x10 Minutes must pass for the effects to completely manifest. The Duration of any change is calculated according to the spell's Duration.
+This spell allows the caster to alter the current weather in a significant and noticeable way. Once cast, another 1d4x10 Minutes must pass for the effects to completely manifest. The Duration of any change is calculated according to the spell's Duration. The caster may alter the Precipitation, Temperature, and Wind by up to plus or minus two grades as detailed on the tables in [Conversion Tables](Appendix_B_Conversion_Tables).
 
-
-<details>
-
-<summary>* Community Errata</summary>
-
----
-#### Control Weather
-
-_The original text included the following line: "The caster may alter the Precipitation, Temperature, and Wind by up to plus or minus two grades as detailed on the tables on page XX."_
-
-_The referenced table is not present in Classic Fantasy Imperative so the line has been removed._
-
----
-
-</details>
 <br>
 
 
@@ -579,7 +564,7 @@ Coordination enhances manual dexterity and agility when performing a single pred
 ---
 #### Create Food and Water
 
-(Alteration)
+(Transmutation)
 
 | | |
 | :-- | :-- |
@@ -856,7 +841,7 @@ When cast, this spell determines whether one being is knowingly lying or otherwi
 | **Cost:** 1/Intensity | **Range:** 0 |
 | **Area:** 90-degree Arc, 60 ft. | **Resist:** N/A |
 
-When cast, the magic-user sees a glowing blue aura surrounding any magic item or spell effect within a 90-degree arc, out to 60 ft. This spell will also detect approximate Intensity and Magnitude as shown on the following table.
+When cast, the caster sees a glowing blue aura surrounding any magic item or spell effect within a 90-degree arc, out to 60 ft. This spell will also detect approximate Intensity and Magnitude as shown on the following table.
 
 ##### Intensity and/or Magnitude Detected
 
@@ -922,7 +907,7 @@ The Games Master should make this roll for the player as there are some instance
 | 2 | 6 | Spell cast at Hard difficulty |
 | 3 | 9 | Spell cast at Standard Difficulty |
 | 4 | 12 | Spell cast at Easy difficulty |
-| 5 | 16 | Spell cast at Very Easy difficulty |
+| 5 | 15 | Spell cast at Very Easy difficulty |
 
 ---
 #### Dry
@@ -948,9 +933,9 @@ Dry removes all extraneous moisture from an object or person, either slicking of
 | **Rank:** Cleric 5, Mage 5 | **Casting Time:** 10 Minutes1 Action |
 | **Sphere:** Elemental (Earth) | **Duration:** 1 Minute |
 | **Cost:** 3+1/additional Intensity | **Range:** 50 ft./Intensity |
-| **Area:** 10 ft. Radius/Intensity | **Resist:** N/A |
+| **Area:** 10 ft. Radius/Intensity | **Resist:** Evade |
 
-Earthquake causes a ground tremor capable of knocking people from their feet and collapsing rigid buildings. At the very minimum, failing to resist the spell causes the victim to fall prone. If located within a building, built up area or some vulnerable location (such as a forest or beneath a cliff), failing to Evade also indicates that the person is struck, and trapped by falling debris. Use the size of the damage dice in a Contest of Strength (see Brawn) to determine the difficulty of being extracted from the wreckage. Worn armor offers half protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
+Earthquake causes a ground tremor capable of knocking people from their feet and collapsing rigid buildings. At the very minimum, failing to resist the spell causes the victim to fall prone. If located within a building, built up area or some vulnerable location (such as a forest or beneath a cliff), failing to Evade also indicates that the person is struck, and trapped by falling debris.  Worn armor offers half protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
 | Intensity | Cost | Variable Effect | Potential Damage |
 | :-: | :-: | :-- | :-- |
@@ -1198,7 +1183,7 @@ With the exceptions noted both above and in the following text, this spell funct
 | **Cost:** 3+1/additional Intensity | **Range:** 0 |
 | **Area:** Caster | **Resist:** N/A |
 
-This spell creates a shield of wispy flames that immolates the caster or one other person but causes no damage in and of itself. Instead, the flames protect the recipient from either fire or cold, dependent upon which of two variants is in memory: Chill Shield, which creates blue or green flames and protects against heat and fire-based damage, or Warm Shield, which creates violet or blue flames and protects against cold and ice-based damage. The color of the flames should be determined randomly with a 50% chance of either, as the fact that both types can emit blue flames creates an element of uncertainty on the part of any attacker. The decision as to which to memorize is made when spells are prepared, and both may be memorized if desired. These flames give off no heat and shed light at only half the brightness of a torch. The specifics of each variant are detailed below.
+This spell creates a shield of wispy flames that immolates the caster but causes no damage in and of itself. Instead, the flames protect the recipient from either fire or cold, dependent upon which of two variants is in memory: Chill Shield, which creates blue or green flames and protects against heat and fire-based damage, or Warm Shield, which creates violet or blue flames and protects against cold and ice-based damage. The color of the flames should be determined randomly with a 50% chance of either, as the fact that both types can emit blue flames creates an element of uncertainty on the part of any attacker. The decision as to which to memorize is made when spells are prepared, and both may be memorized if desired. These flames give off no heat and shed light at only half the brightness of a torch. The specifics of each variant are detailed below.
 
 - **Chill Shield:** These flames are cool to the touch and reduce any fire or heat-based damage to half the total. A successful Resistance roll will negate all damage. The Resistance roll is one grade easier and, in the case of Evade, will not render the defender prone.
 - **Warm Shield:** These flames are warm to the touch and reduce any cold-based damage to half of the total. A successful Resistance roll will negate all damage. The Resistance roll is one grade easier and in the case of Evade, will not render the defender prone.
@@ -1742,7 +1727,7 @@ When this spell is cast, the magic-user may designate themselves, one target, a 
 | **Rank:** Cleric 1, Mage 1 | **Casting Time:** 1 Action |
 | **Sphere:** Sun | **Duration:** 1 Hour/Intensity |
 | **Cost:** 1/Intensity | **Range:** 180 ft |
-| **Area:** 20 ft. Radius | **Resist:** See Below |
+| **Area:** 20 ft. Radius/Intensity | **Resist:** See Below |
 
 When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a Success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
 
@@ -1779,9 +1764,9 @@ Lightning has a chance of igniting flammable materials equal to the damage rolle
 | 1 | 3 | 50 ft. Range; 1d6 damage |
 | 2 | 4 | 100 ft. Range; 1d6 damage |
 | 3 | 5 | 150 ft. Range; 2d6 damage |
-| 4 | 6 | 300 ft. Range; 2d6 damage |
-| 5 | 7 | 350 ft. Range; 3d6 damage |
-| 6 | 8 | 400 ft. Range; 3d6 damage |
+| 4 | 6 | 200 ft. Range; 2d6 damage |
+| 5 | 7 | 250 ft. Range; 3d6 damage |
+| 6 | 8 | 300 ft. Range; 3d6 damage |
 | +1 | +1 | Continue progression |
 
 ---
@@ -1989,7 +1974,7 @@ When reversed, Inflict Poison allows the caster to produce a deadly toxin in a v
 | **Cost:** 3, +1/additional Intensity | **Range:** 60 ft/Intensity |
 | **Area:** See Below | **Resist:** NA |
 
-This spell allows the caster to part water or other forms of liquid, creating a safe path which may then be traversed if desired. The spell creates a trough 100 feet wide, with a depth of 10 feet per Intensity, and a length of 120 feet per Intensity. Therefore, if cast at an Intensity of 4, the parting would be 70 feet deep, 480 feet long, with a width of 100 feet. The spell can be ended early by the caster, otherwise it continues until its Duration expires. This spell can be cast underwater, which instead creates a "corridor" of air with the same dimensions noted above. Finally, Part Water may be cast offensively on a creature such as a water elemental, and if so, causes 10 points of damage for every level of Intensity. Assuming the entity survives, it must succeed at a Willpower Resistance roll or flee the caster for 3d4 minutes.
+This spell allows the caster to part water or other forms of liquid, creating a safe path which may then be traversed if desired. The spell creates a trough 100 feet wide, with a depth of 10 feet per Intensity, and a length of 120 feet per Intensity. Therefore, if cast at an Intensity of 4, the parting would be 40 feet deep, 480 feet long, with a width of 100 feet. The spell can be ended early by the caster, otherwise it continues until its Duration expires. This spell can be cast underwater, which instead creates a "corridor" of air with the same dimensions noted above. Finally, Part Water may be cast offensively on a creature such as a water elemental, and if so, causes 10 points of damage for every level of Intensity. Assuming the entity survives, it must succeed at a Willpower Resistance roll or flee the caster for 3d4 minutes.
 
 | Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
@@ -2306,7 +2291,7 @@ When cast on someone other than oneself, complete protection from natural cold i
 | 1 | 3 | 15 min.; 12 points of cold protection on self |
 | 2 | 4 | 30 min.; 24 points of cold protection on self |
 | 3 | 5 | 45 min.; 36 points of cold protection on self |
-| 4 | 6 | 60 min.; 42 points of cold protection on self |
+| 4 | 6 | 60 min.; 48 points of cold protection on self |
 | +1 | +1 | Continue progression |
 
 ---
@@ -2354,7 +2339,7 @@ When cast on someone other than oneself, complete protection from mundane fire i
 | 1 | 3 | 15 min.; 12 points of fire protection on self |
 | 2 | 4 | 30 min.; 24 points of fire protection on self |
 | 3 | 5 | 45 min.; 36 points of fire protection on self |
-| 4 | 6 | 60 min.; 42 points of fire protection on self |
+| 4 | 6 | 60 min.; 48 points of fire protection on self |
 | +1 | +1 | Continue progression |
 
 ---
@@ -2378,7 +2363,7 @@ When cast on someone other than oneself, damage from electrical attacks is reduc
 | 1 | 3 | 15 min.; 12 points of electrical protection on self |
 | 2 | 4 | 30 min.; 24 points of electrical protection on self |
 | 3 | 5 | 45 min.; 36 points of electrical protection on self |
-| 4 | 6 | 60 min.; 42 points of electrical protection on self |
+| 4 | 6 | 60 min.; 48 points of electrical protection on self |
 | +1 | +1 | Continue progression |
 
 ---
@@ -2575,9 +2560,23 @@ The reverse of this spell, Cause Fear, requires touching the victim in combat. T
 | **Rank:** Cleric 1, Mage 0 | **Casting Time:** 1 Action |
 | **Sphere:** ?? | **Duration:** 24 Hours |
 | **Cost:** 1 | **Range:** Touch |
-| **Area:** 1 Items or 1 Broken Item | **Resist:** NA |
+| **Area:** 1 Item | **Resist:** NA |
 
 Repair fixes physical damage to an inanimate object. Each separate successful casting repairs 1d3 Hit Points of damage.
+
+---
+#### Restoration
+
+(Necromancy)
+
+| | |
+| :-- | :-- |
+| **Rank:** Cleric 3 | **Casting Time:** 3 Minutes |
+| **Sphere:** Healing | **Duration:** Permanent |
+| **Cost:** 3, +1/additional Intensity | **Range:** Touch |
+| **Area:** 1 Target | **Resist:** NA |
+
+When cast, a victim previously drained of their life force using Energy Drain or similar effects regains one previously lost level of Fatigue. At 1 level of Intensity, this spell only works on a creature drained within the last 24 Hours. Each additional Intensity increases the time that can have passed by a further 24 Hours. For example, a victim previously drained just under 48 hours ago would need the spell cast at 2 Intensity to work. Multiple levels of drained Fatigue require additional castings of Restoration. Regardless of Duration and in addition to any Fatigue restored, this spell also restores all mental capacities, such as those lost through magic or any form of insanity or dementia. Restoration may also be used to remove years lost due to artificial aging, such as that from certain spells. For the spell to be cast in this way, in addition to the normal casting cost, the cleric must expend 1 EXP Roll for each 1% of the recipient's typical lifespan to be restored (1 year for a human). The spell may not reduce the subject's current age below that of their actual age.
 
 ---
 #### Resurrection \(R\)
@@ -2589,7 +2588,7 @@ Repair fixes physical damage to an inanimate object. Each separate successful ca
 | **Rank:** Cleric 5 | **Casting Time:** 10 Minutes |
 | **Sphere:** Necromantic | **Duration:** Permanent |
 | **Cost:** 3, +1/additional Intensity, +2 EXP | **Range:** Touch |
-| **Area:** 1 Target | **Resist:** NA (Willpower (Formidable)) |
+| **Area:** 1 Target | **Resist:** NA (Willpower) |
 
 Resurrection raises any creature dead for no more than 20 years per level of Intensity. The creature is not only given life, but restored to full strength and healed from injury, even restoring lost limbs. Little of the actual creature needs to remain for the spell to still be effective. For example, Resurrection could be used to bring a being back from the dead after 145 years, even if possessing nothing more than a finger bone, assuming the spell is cast at 8 Intensity. The raised individual requires no period of rest and is fully functional immediately. The spell has no effect on a creature that died of natural causes at the end of its allotted lifespan.
 
@@ -2610,20 +2609,6 @@ When reversed, Destruction, may be used to kill one victim in contact with the c
 _\* This category includes characters that do not possess a Class._
 
 If this Resistance roll is unsuccessful, the subject is slain outright, their body being turned to dust. Only the casting of Wish will bring the victim back at this stage. On a successful roll, the subject is still reduced to negative 1d4 Hit Points in the touched Hit Location. Armor offers no protection from this damage. Destruction does not age the caster when used.
-
----
-#### Restoration
-
-(Necromancy)
-
-| | |
-| :-- | :-- |
-| **Rank:** Cleric 3 | **Casting Time:** 3 Minutes |
-| **Sphere:** Healing | **Duration:** Permanent |
-| **Cost:** 3, +1/additional Intensity | **Range:** Touch |
-| **Area:** 1 Target | **Resist:** NA |
-
-When cast, a victim previously drained of their life force using Energy Drain or similar effects regains one previously lost level of Fatigue. At 1 level of Intensity, this spell only works on a creature drained within the last 24 Hours. Each additional Intensity increases the time that can have passed by a further 24 Hours. For example, a victim previously drained just under 48 hours ago would need the spell cast at 2 Intensity to work. Multiple levels of drained Fatigue require additional castings of Restoration. Regardless of Duration and in addition to any Fatigue restored, this spell also restores all mental capacities, such as those lost through magic or any form of insanity or dementia. Restoration may also be used to remove years lost due to artificial aging, such as that from certain spells. For the spell to be cast in this way, in addition to the normal casting cost, the cleric must expend 1 EXP Roll for each 1% of the recipient's typical lifespan to be restored (1 year for a human). The spell may not reduce the subject's current age below that of their actual age.
 
 ---
 #### Secure Portal
@@ -2810,7 +2795,7 @@ This spell creates a shield around the recipient that deters spirits and ghosts 
 ---
 #### Spiritual Hammer
 
-(Invocation)
+(Evocation)
 
 | | |
 | :-- | :-- |
@@ -2819,7 +2804,7 @@ This spell creates a shield around the recipient that deters spirits and ghosts 
 | **Cost:** 3, +1/additional Intensity | **Range:** 0 |
 | **Area:** 30 ft. Radius/Intensity | **Resist:** Parry or Evade |
 
-Upon casting this spell, a hammer-like force of spiritual energy appears, which then hurls itself at a target designated by the caster. Each Turn, the caster may use one of their Action Points to direct the hammer to attack, provided Concentration is maintained. While concentrating, the caster is limited to moving no faster than a walk, and may Evade or Parry with an equipped weapon or shield without breaking concentrating. With each Action Point spent to manipulate the hammer, it can be moved to any location within the caster's field of vision. If the caster is behind an opponent, they may use the hammer to strike the opponent from behind, negating their chance to defend themselves to the best of their ability. Spiritual Hammer causes damage as a normal war hammer (1d8+1), and has a chance to hit equal to the cleric's Combat Skill. Worn armor offers only half protection, but magical Armor Points or a creature's natural armor reduce damage as normal. It may be parried or evaded as normal and attacks against it are ineffective. Spiritual Hammer counts as a magical weapon with regards to striking creatures only harmed by magic, with every 2 levels of Intensity after the first granting the equivalent of a cumulative +1 Magic Bonus, to a Maximum of +5. This bonus does not add to the damage inflicted, rather, it helps damage creatures only harmed by a certain magic bonus or higher.
+Upon casting this spell, a hammer-like force of spiritual energy appears, which then hurls itself at a target designated by the caster. Each Turn, the caster may use one of their Action Points to direct the hammer to attack, provided Concentration is maintained. While concentrating, the caster is limited to moving no faster than a walk, and may Evade or Parry with an equipped weapon or shield without breaking concentrating. With each Action Point spent to manipulate the hammer, it can be moved to any location within the caster's field of vision. If the caster is behind an opponent, they may use the hammer to strike the opponent from behind, negating their chance to defend themselves to the best of their ability. Spiritual Hammer causes damage as a normal war hammer (1d8+1), and has a chance to hit equal to the cleric's Combat Skill. Worn armor offers only half protection, but magical Armor Points or a creature's natural armor reduce damage as normal. It may be parried or evaded as normal and attacks against it are ineffective. Spiritual Hammer counts as a magical weapon with regards to striking creatures only harmed by magic, with every level of Intensity after the first granting the equivalent of a cumulative +1 Magic Bonus, to a Maximum of +5. This bonus does not add to the damage inflicted, rather, it helps damage creatures only harmed by a certain magic bonus or higher.
 
 | Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
@@ -3002,7 +2987,7 @@ Some example Wishes and the required EXP expenditure follow.
 | Create a permanent Rank 1 or 2 magic item. | 5 EXP |
 | Kill another creature. | 5 EXP\*\*\* |
 | Maim a Body Location of an enemy, bringing it fully negative. Abdomen, leg, or arm only. | 2 EXP |
-| Give a Major Wound to a Body Location, bringing it to -1 Hit Point. Abdomen, leg, or arm only. | 1 EXP |
+| Give a Serious Wound to a Body Location, bringing it to -1 Hit Point. Abdomen, leg, or arm only. | 1 EXP |
 | Reshape the landscape into any type of terrain the caster can imagine. Each 100-ft cube of material to be reshaped requires 1 Round of effort. | 1 EXP per 100-ft cube of terrain |
 
 _\* In addition to any EXP requirement of the duplicated effects._
