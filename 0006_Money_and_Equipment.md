@@ -10,10 +10,10 @@ The standard currency for _Classic Fantasy Imperative_ consists of the Copper, S
 
 | Coin | CP | SP | GP | PP |
 | :-- | :-: | :-: | :-: | :-: |
-| Copper Piece (CP) | 1 | 1/10 | 1/100 | 1/1000 |
+| Copper Piece (CP) | 1 | 1/10 | 1/100 | 1/500 |
 | Silver Piece (SP) | 10 | 1 | 1/10 | 1/50 |
-| Gold Piece (GP) | 100 | 10 | 1 | ½ |
-| Platinum Piece (PP) | 1,000 | 100 | 10 | 1 |
+| Gold Piece (GP) | 100 | 10 | 1 | 1/5 |
+| Platinum Piece (PP) | 500 | 50 | 5 | 1 |
 
 Usually where the price of an item or service price consists of coins of different value, it will be displayed with a decimal: 1.5GP would be 1 gold and 5 silver, as 5 silver is half of a gold piece. Likewise, 3.5SP would be 3 silver and 5 copper.
 
