@@ -268,7 +268,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Move | 15' |
 | Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
 | Alignment | Evil 71%, Bad mannered and quick to anger 48% |
-| Armor | Chest and abdomen 3 (scraps of fur and leather over tough skin), head and limbs (tough skin 2) |
+| Armor | Chest and abdomen 3 (scraps of fur and leather over tough skin), head and limbs 2 (tough skin) |
 | Skills | Athletics 61%, Brawn 88%, Endurance 76%, Evade 52%, Language (Ogre) 57%, Locale 40%, Perception 41%, Survival 59%, Track 58%, Unarmed 61%, Willpower 42% |
 | Combat Skill | 71% - Ogre Club<br> 61% -  Trample |
 
@@ -307,7 +307,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d10 |
 | Initiative | +16 |
 | Magic Points | 19 |
-| Move | 15' (50' Flying) |
+| Move | 15', 50' (Fly) |
 | Abilities | [Breathe Flame](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Immunity (Fire)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trample](Appendix_A_Monsters_And_Treasures.md?id=trample);[Wing Buffet](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet), |
 | Alignment | Evil 95%, Quick to anger, suspicious, and hate silver dragons 88% |
 | Armor | 8 (thick scales) |
@@ -323,7 +323,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Teeth | L | 1d10+1d10 | 8/12 | Entangle |
 | Trample | - | 2d10 | - | Bash, Stun Location |
 | Wing Buffet | E | 1d10 | 8/12 | Bash, Range 10' on both sides |
-| Cone of Fire | - | 4d6 | - | Range 155' |
+| Cone of Fire | - | 4d6 | - | Range 125' |
 
 #### Hit Locations & Armor
 
@@ -358,7 +358,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Move | 20' |
 | Abilities | [Immunity (Fear, Sleep, and Charm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Undead (Intensity vs. Turn: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
 | Alignment | NA |
-| Armor | Chest and abdomen 5 (chain mail), head and limbs 0) |
+| Armor | Chest and abdomen 5 (chain mail), head and limbs 0 |
 | Skills | Athletics 54%, Brawn 53%, Endurance 50%, Evade 68%, Perception 44%, Unarmed 54%, Willpower 42% |
 | Combat Skill | 54% - Battleaxe, Round Shield, Longbow |
 
@@ -401,7 +401,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneration (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Terrifying](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
 | Alignment | Evil 52%, Hate Good Giants 57% |
 | Armor | 3 (Thick, rubbery skin) |
-| Skills | Athletics 68%, Brawn 90%, Endurance 90%, Evade 62%, Languages (Troll) 53%, Locale 48%, Perception 60%\*, Survival 66%, Track 64%, Willpower 52% |
+| Skills | Athletics 68%, Brawn 90%, Endurance 90%, Evade 62%, Languages (Troll) 53%, Locale 48%, Perception 60% (sight and smell), Survival 66%, Track 64%, Willpower 52% |
 | Combat Skill | 78% - Bite, Claws |
 
 #### Weapon Details
@@ -677,7 +677,7 @@ This large cloth sack opens into a pocket dimension, being much bigger on the in
 
 #### Elven Boots (1000 GP)
 
-These soft leather boots modify the wearer's ability to move silently regardless of terrain, even walking across dry leaves or creaky boards producing nothing more noticeable than a soft footstep. The wearer is granted a 95% Sneak skill, unmodified by terrain. The boots grant no further bonus with regards to those with a skill more than 95%, other than allowing them to use their normal skill level without worrying about terrain penalties.
+These soft leather boots modify the wearer's ability to move silently regardless of terrain, even walking across dry leaves or creaky boards producing nothing more noticeable than a soft footstep. The wearer is granted a 95% Stealth skill, unmodified by terrain. The boots grant no further bonus with regards to those with a skill more than 95%, other than allowing them to use their normal skill level without worrying about terrain penalties.
 
 #### Potion of Invisibility (50 GP)
 
