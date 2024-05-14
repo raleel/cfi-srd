@@ -4,7 +4,7 @@ Version 1.0, September 2023
 
 _Classic Fantasy Imperative_ is an Open, ORC Licensed, version of the _Mythras_ ruleset, focusing on dungeon exploration, high adventure, and tense encounters involving treasure, magic, and deadly foes. _Classic Fantasy Imperative_ emulates the original thrill of the very first roleplaying game in the hobby but approaches it through the lens of the _Mythras_ game system, which is 1d100 (or percentile) based, rather than using a d20.
 
-This document offers a comprehensive, but not exhaustive, set of rules, including character creation, character races and classes, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Classic Fantasy Imperative_ is completely compatible with _Classic Fantasy Imperative_, the _Mythras_ core rules, and _Mythras Imperative_. Plus, it is also compatible with other ORC licensed percentile gaming systems.
+This document offers a comprehensive, but not exhaustive, set of rules, including character creation, character races and classes, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Classic Fantasy Imperative_ is completely compatible with _Classic Fantasy_, the _Mythras_ core rules, and _Mythras Imperative_. Plus, it is also compatible with other ORC licensed percentile gaming systems.
 
 ---
 ## ORC Licensing
