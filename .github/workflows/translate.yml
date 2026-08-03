@@ -1,0 +1,50 @@
+name: Translate SRD
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'rules/en/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-srd
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install @google/genai
+
+      - name: Run translation pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node .github/scripts/translate.mjs
+
+      - name: Commit and push translated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rules/ .github/scripts/translation-manifest.json
+          if git diff --cached --quiet; then
+            echo "No translation changes to commit."
+          else
+            git commit -m "chore: update automated translations [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

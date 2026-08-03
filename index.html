@@ -26,6 +26,16 @@
   href="./_assets/css/style.css"
   type="text/css"
 />
+<style>
+  .lang-select {
+    position: fixed;
+    top: 12px;
+    right: 16px;
+    z-index: 10;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+</style>
 <head>
   <meta charset="utf-8">
   <meta name="viewport"
@@ -46,7 +56,67 @@
 <body>
   <div id="app"></div>
 
+  <!-- Language Selector -->
+  <select id="language-select" class="lang-select" onchange="setDocsifyLanguage(this.value)">
+    <option value="en">English</option>
+    <option value="es">Español</option>
+    <option value="fr">Français</option>
+    <option value="it">Italiano</option>
+    <option value="el">Ελληνικά</option>
+    <option value="zh-CN">中文 (简体)</option>
+    <option value="ar">العربية</option>
+    <option value="fa">فارسی</option>
+    <option value="ur">اردو</option>
+    <option value="he">עברית</option>
+    <option value="ps">پښتو</option>
+    <option value="ku">Kurdî</option>
+    <option value="dv">ދިވެހި</option>
+    <option value="hi">हिन्दी</option>
+    <option value="ja">日本語</option>
+    <option value="ko">한국어</option>
+    <option value="tr">Türkçe</option>
+    <option value="vi">Tiếng Việt</option>
+    <option value="ru">Русский</option>
+    <option value="uk">Українська</option>
+    <option value="hr">Hrvatski</option>
+    <option value="sr">Српски</option>
+    <option value="bs">Bosanski</option>
+    <option value="sq">Shqip</option>
+    <option value="mk">Македонски</option>
+    <option value="sl">Slovenščina</option>
+    <option value="tl">Tagalog</option>
+    <option value="pt">Português</option>
+    <option value="sw">Kiswahili</option>
+    <option value="ha">Hausa</option>
+    <option value="ms">Bahasa Melayu</option>
+    <option value="th">ไทย</option>
+    <option value="my">မြန်မာဘာသာ</option>
+  </select>
+
   <script>
+    // List of language folders under rules/ that Docsify content is routed to.
+    // Keep in sync with TARGET_LANGUAGES in .github/scripts/translate.mjs.
+    var SRD_LANGUAGES = [
+      'es', 'fr', 'it', 'el', 'zh-CN', 'ar', 'fa', 'ur', 'he', 'ps', 'ku', 'dv',
+      'hi', 'ja', 'ko', 'tr', 'vi', 'ru', 'uk', 'hr', 'sr', 'bs', 'sq', 'mk', 'sl',
+      'tl', 'pt', 'sw', 'ha', 'ms', 'th', 'my'
+    ];
+    var SRD_LANG_PATTERN = SRD_LANGUAGES.join('|');
+
+    // Switches the active documentation language by rewriting the hash route,
+    // which forces Docsify to re-resolve _sidebar.md/_navbar.md/content
+    // through the alias map below without losing navigation state.
+    function setDocsifyLanguage(lang) {
+      window.location.hash = '#/' + lang + '/';
+    }
+
+    // Pre-select the dropdown to match the language segment already in the URL.
+    (function initLanguageSelect() {
+      var match = window.location.hash.match(new RegExp('^#/(' + SRD_LANG_PATTERN + ')/'));
+      var select = document.getElementById('language-select');
+      if (select) select.value = match ? match[1] : 'en';
+    })();
+
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
       name: 'Menu',
@@ -55,6 +125,7 @@
       // Sidebar Configuration
       auto2top: true,
       loadSidebar: true,
+      loadNavbar: true,
       maxLevel: 3,
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
       subMaxLevel: 3,
@@ -65,6 +136,20 @@
         noData: 'No matches found.',
         // Headline depth, 1 - 6
         depth: 3,
+      },
+
+      // Route every source/content file under rules/<lang>/, and resolve
+      // _sidebar.md / _navbar.md (including nested lookups) to the correct
+      // language folder. English ('en') is the default/fallback language.
+      alias: {
+        ['/(' + SRD_LANG_PATTERN + ')/.*/_sidebar.md']: '/rules/$1/_sidebar.md',
+        ['/(' + SRD_LANG_PATTERN + ')/.*/_navbar.md']: '/rules/$1/_navbar.md',
+        ['/(' + SRD_LANG_PATTERN + ')/_sidebar.md']: '/rules/$1/_sidebar.md',
+        ['/(' + SRD_LANG_PATTERN + ')/_navbar.md']: '/rules/$1/_navbar.md',
+        ['/(' + SRD_LANG_PATTERN + ')/(.*)']: '/rules/$1/$2',
+        '/.*/_sidebar.md': '/rules/en/_sidebar.md',
+        '/.*/_navbar.md': '/rules/en/_navbar.md',
+        '/(.*)': '/rules/en/$1'
       }
     };
   </script>
