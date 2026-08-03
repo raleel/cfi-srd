@@ -27,13 +27,26 @@
   type="text/css"
 />
 <style>
+  /* Language selector: rendered inside the left sidebar (under the "Menu"
+     app-name heading), matching the layout used by the companion Mythras
+     Imperative SRD site, instead of floating over the content area. */
+  .lang-select-wrap {
+    padding: 0 20px 16px;
+  }
+  .lang-select-label {
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-bottom: 6px;
+  }
   .lang-select {
-    position: fixed;
-    top: 12px;
-    right: 16px;
-    z-index: 10;
+    width: 100%;
     padding: 4px 8px;
     border-radius: 4px;
+    box-sizing: border-box;
   }
 </style>
 <head>
@@ -56,47 +69,53 @@
 <body>
   <div id="app"></div>
 
-  <!-- Language Selector -->
-  <select id="language-select" class="lang-select" onchange="setDocsifyLanguage(this.value)">
-    <option value="en">English</option>
-    <option value="es">Español</option>
-    <option value="fr">Français</option>
-    <option value="it">Italiano</option>
-    <option value="pt">Português</option>
-    <option value="el">Ελληνικά</option>
-    <option value="zh-CN">中文 (简体)</option>
-    <option value="ar">العربية</option>
-    <option value="fa">فارسی</option>
-    <option value="ur">اردو</option>
-    <option value="he">עברית</option>
-    <option value="ps">پښتو</option>
-    <option value="ku">Kurdî</option>
-    <option value="dv">ދިވެހި</option>
-    <option value="hi">हिन्दी</option>
-    <option value="bn">বাংলা</option>
-    <option value="te">తెలుగు</option>
-    <option value="mr">मराठी</option>
-    <option value="ta">தமிழ்</option>
-    <option value="ja">日本語</option>
-    <option value="ko">한국어</option>
-    <option value="tr">Türkçe</option>
-    <option value="vi">Tiếng Việt</option>
-    <option value="ru">Русский</option>
-    <option value="uk">Українська</option>
-    <option value="hr">Hrvatski</option>
-    <option value="sr">Српски</option>
-    <option value="bs">Bosanski</option>
-    <option value="sq">Shqip</option>
-    <option value="mk">Македонски</option>
-    <option value="sl">Slovenščina</option>
-    <option value="bg">Български</option>
-    <option value="tl">Tagalog</option>
-    <option value="sw">Kiswahili</option>
-    <option value="ha">Hausa</option>
-    <option value="ms">Bahasa Melayu</option>
-    <option value="th">ไทย</option>
-    <option value="my">မြန်မာဘာသာ</option>
-  </select>
+  <!-- Language Selector. Positioned into the left sidebar (below the "Menu"
+       heading) via JS once Docsify mounts - see placeLanguageSelectorInSidebar()
+       below - so it matches the Mythras Imperative SRD site's layout instead
+       of floating over the top-right of the content area. -->
+  <div id="language-select-wrap" class="lang-select-wrap">
+    <span class="lang-select-label">Language</span>
+    <select id="language-select" class="lang-select" onchange="setDocsifyLanguage(this.value)">
+      <option value="en">English</option>
+      <option value="es">Español</option>
+      <option value="fr">Français</option>
+      <option value="it">Italiano</option>
+      <option value="el">Ελληνικά</option>
+      <option value="zh-CN">中文 (简体)</option>
+      <option value="ar">العربية</option>
+      <option value="fa">فارسی</option>
+      <option value="ur">اردو</option>
+      <option value="he">עברית</option>
+      <option value="ps">پښتو</option>
+      <option value="ku">Kurdî</option>
+      <option value="dv">ދިވެހި</option>
+      <option value="hi">हिन्दी</option>
+      <option value="ja">日本語</option>
+      <option value="ko">한국어</option>
+      <option value="tr">Türkçe</option>
+      <option value="vi">Tiếng Việt</option>
+      <option value="ru">Русский</option>
+      <option value="uk">Українська</option>
+      <option value="hr">Hrvatski</option>
+      <option value="sr">Српски</option>
+      <option value="bs">Bosanski</option>
+      <option value="sq">Shqip</option>
+      <option value="mk">Македонски</option>
+      <option value="sl">Slovenščina</option>
+      <option value="tl">Tagalog</option>
+      <option value="pt">Português</option>
+      <option value="sw">Kiswahili</option>
+      <option value="ha">Hausa</option>
+      <option value="ms">Bahasa Melayu</option>
+      <option value="th">ไทย</option>
+      <option value="my">မြန်မာဘာသာ</option>
+      <option value="bg">Български</option>
+      <option value="bn">বাংলা</option>
+      <option value="te">తెలుగు</option>
+      <option value="mr">मराठी</option>
+      <option value="ta">தமிழ்</option>
+    </select>
+  </div>
 
   <script>
     // List of translated language folders under rules/ that Docsify content is
@@ -140,6 +159,33 @@
         console.error('[SRD] Failed to initialize language selector:', err);
       }
     })();
+
+    // Moves the language selector (initially just a plain element in <body>)
+    // into the left sidebar, directly below the "Menu" app-name heading, so
+    // it's laid out the same way as the companion Mythras Imperative SRD site
+    // instead of floating over the top-right of the content area. Docsify
+    // re-renders the sidebar's markdown content on navigation but normally
+    // leaves the app-name/header node alone; this is re-run after every route
+    // change (via the doneEach hook below) as a safety net in case Docsify
+    // ever fully re-creates the sidebar, and is idempotent/no-op if the
+    // selector is already correctly placed.
+    function placeLanguageSelectorInSidebar() {
+      try {
+        var wrap = document.getElementById('language-select-wrap');
+        var sidebar = document.querySelector('.sidebar');
+        if (!wrap || !sidebar) return;
+        var appName = sidebar.querySelector('.app-name');
+        if (appName) {
+          if (appName.nextElementSibling !== wrap) {
+            appName.insertAdjacentElement('afterend', wrap);
+          }
+        } else if (sidebar.firstElementChild !== wrap) {
+          sidebar.insertBefore(wrap, sidebar.firstElementChild || null);
+        }
+      } catch (err) {
+        console.error('[SRD] Failed to place language selector in sidebar:', err);
+      }
+    }
 
     // Logs a clear, descriptive console error (including the exact requested
     // URL) whenever a content/TOC fetch made by Docsify (via XMLHttpRequest)
@@ -201,6 +247,17 @@
           // Headline depth, 1 - 6
           depth: 3,
         },
+
+        // Places the language selector inside the left sidebar (below the
+        // "Menu" app-name heading) once Docsify mounts, and again after every
+        // route change, so it stays in the same spot as the companion
+        // Mythras Imperative SRD site instead of floating over the content.
+        plugins: [
+          function (hook) {
+            hook.mounted(placeLanguageSelectorInSidebar);
+            hook.doneEach(placeLanguageSelectorInSidebar);
+          },
+        ],
 
         // Route every source/content file under rules/<lang>/, and resolve
         // _sidebar.md / _navbar.md (including nested lookups) to the correct
