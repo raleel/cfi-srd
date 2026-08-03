@@ -1,4 +1,4 @@
-- [নীড়পাতা](/bn/)
-- [কিভাবে করবেন](/bn/HowTo.md)
-- [পরিবর্তনের তালিকা](/bn/Changelog.md)
+- [নীড়পাতা](README.md)
+- [কিভাবে করবেন](HowTo.md)
+- [পরিবর্তনের তালিকা](Changelog.md)
 - [গিটহাব](https://github.com/raleel/cfi-srd)

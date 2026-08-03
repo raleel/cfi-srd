@@ -1,4 +1,4 @@
-- [முகப்பு](/ta/)
-- [எவ்வாறு](/ta/HowTo.md)
-- [மாற்றங்கள்](/ta/Changelog.md)
+- [முகப்பு](README.md)
+- [எவ்வாறு](HowTo.md)
+- [மாற்றங்கள்](Changelog.md)
 - [கிட்ஹப்](https://github.com/raleel/cfi-srd)

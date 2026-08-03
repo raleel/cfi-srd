@@ -1,4 +1,4 @@
-- [Почетна](/mk/)
-- [Како да](/mk/HowTo.md)
-- [Дневник на промени](/mk/Changelog.md)
+- [Почетна](README.md)
+- [Како да](HowTo.md)
+- [Дневник на промени](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

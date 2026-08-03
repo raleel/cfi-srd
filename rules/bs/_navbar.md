@@ -1,4 +1,4 @@
-- [Početna](/bs/)
-- [Uputstvo](/bs/HowTo.md)
-- [Izmjene](/bs/Changelog.md)
+- [Početna](README.md)
+- [Uputstvo](HowTo.md)
+- [Izmjene](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

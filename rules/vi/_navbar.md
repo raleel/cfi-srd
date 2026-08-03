@@ -1,4 +1,4 @@
-- [Trang chủ](/vi/)
-- [Hướng dẫn](/vi/HowTo.md)
-- [Nhật ký thay đổi](/vi/Changelog.md)
+- [Trang chủ](README.md)
+- [Hướng dẫn](HowTo.md)
+- [Nhật ký thay đổi](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

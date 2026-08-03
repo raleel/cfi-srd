@@ -1,4 +1,4 @@
-- [Kryefaqja](/sq/)
-- [Si të bëni](/sq/HowTo.md)
-- [Regjistri i ndryshimeve](/sq/Changelog.md)
+- [Kryefaqja](README.md)
+- [Si të bëni](HowTo.md)
+- [Regjistri i ndryshimeve](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
