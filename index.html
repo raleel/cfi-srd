@@ -94,64 +94,132 @@
   </select>
 
   <script>
-    // List of language folders under rules/ that Docsify content is routed to.
-    // Keep in sync with TARGET_LANGUAGES in .github/scripts/translate.mjs.
+    // List of translated language folders under rules/ that Docsify content is
+    // routed to. Keep in sync with TARGET_LANGUAGES in .github/scripts/translate.mjs.
+    // 'en' is handled separately below since it is the untranslated source language.
     var SRD_LANGUAGES = [
       'es', 'fr', 'it', 'el', 'zh-CN', 'ar', 'fa', 'ur', 'he', 'ps', 'ku', 'dv',
       'hi', 'ja', 'ko', 'tr', 'vi', 'ru', 'uk', 'hr', 'sr', 'bs', 'sq', 'mk', 'sl',
       'tl', 'pt', 'sw', 'ha', 'ms', 'th', 'my'
     ];
+    // Full set of routable language codes, including the 'en' source language,
+    // used for alias matching so '/en/...' resolves to 'rules/en/...' instead of
+    // falling through to the generic default alias (which would otherwise
+    // double-prefix the path as 'rules/en/en/...' and 404 forever).
+    var ALL_LANGUAGES = ['en'].concat(SRD_LANGUAGES);
     var SRD_LANG_PATTERN = SRD_LANGUAGES.join('|');
+    var ALL_LANG_PATTERN = ALL_LANGUAGES.join('|');
+  </script>
 
+  <script>
     // Switches the active documentation language by rewriting the hash route,
     // which forces Docsify to re-resolve _sidebar.md/_navbar.md/content
     // through the alias map below without losing navigation state.
     function setDocsifyLanguage(lang) {
-      window.location.hash = '#/' + lang + '/';
+      try {
+        window.location.hash = '#/' + lang + '/';
+      } catch (err) {
+        console.error('[SRD] Failed to switch language to "' + lang + '":', err);
+      }
     }
 
     // Pre-select the dropdown to match the language segment already in the URL.
+    // Wrapped in try/catch so a parsing issue here can never block the
+    // window.$docsify configuration (in the next script block) from running.
     (function initLanguageSelect() {
-      var match = window.location.hash.match(new RegExp('^#/(' + SRD_LANG_PATTERN + ')/'));
-      var select = document.getElementById('language-select');
-      if (select) select.value = match ? match[1] : 'en';
+      try {
+        var match = window.location.hash.match(new RegExp('^#/(' + SRD_LANG_PATTERN + ')/'));
+        var select = document.getElementById('language-select');
+        if (select) select.value = match ? match[1] : 'en';
+      } catch (err) {
+        console.error('[SRD] Failed to initialize language selector:', err);
+      }
+    })();
+
+    // Logs a clear, descriptive console error (including the exact requested
+    // URL) whenever a content/TOC fetch made by Docsify (via XMLHttpRequest)
+    // fails or returns a non-2xx status, so broken paths are easy to spot in
+    // DevTools instead of silently leaving the UI stuck on "Loading...".
+    (function instrumentContentFetchLogging() {
+      if (!window.XMLHttpRequest || window.__srdFetchLoggingInstalled) return;
+      window.__srdFetchLoggingInstalled = true;
+      var originalOpen = XMLHttpRequest.prototype.open;
+      XMLHttpRequest.prototype.open = function (method, url) {
+        try {
+          this.addEventListener('load', function () {
+            if (this.status === 0 || this.status >= 400) {
+              console.error('[SRD] Failed to load content (status ' + this.status + '): ' + url);
+            }
+          });
+          this.addEventListener('error', function () {
+            console.error('[SRD] Network error while loading content: ' + url);
+          });
+        } catch (err) {
+          console.error('[SRD] Fetch instrumentation error for URL ' + url + ':', err);
+        }
+        return originalOpen.apply(this, arguments);
+      };
     })();
 
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
-    window.$docsify = {
-      name: 'Menu',
-      //logo: '/_media/icon.png',
+    // Assigning this in its own try/catch, after the (already-guarded) setup
+    // above, guarantees Docsify always receives a valid config even if some
+    // unrelated helper above misbehaves.
+    try {
+      window.$docsify = {
+        name: 'Menu',
+        //logo: '/_media/icon.png',
 
-      // Sidebar Configuration
-      auto2top: true,
-      loadSidebar: true,
-      loadNavbar: true,
-      maxLevel: 3,
-      // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
-      subMaxLevel: 3,
+        // Explicit fallback: if no language/file is specified in the URL
+        // (empty hash), load the English README - the first entry in the
+        // TOC/_sidebar.md manifest - instead of hanging indefinitely.
+        homepage: 'README.md',
 
-      // Search Plugin Configuration
-      search: {
-        placeholder: 'Type to search',
-        noData: 'No matches found.',
-        // Headline depth, 1 - 6
-        depth: 3,
-      },
+        // Show a friendly, on-screen "not found" message (see _404.md) with a
+        // retry link instead of leaving the "Loading..." spinner stuck forever
+        // when a markdown file genuinely can't be found (e.g. a translation
+        // that hasn't been generated for a given language yet).
+        notFoundPage: true,
 
-      // Route every source/content file under rules/<lang>/, and resolve
-      // _sidebar.md / _navbar.md (including nested lookups) to the correct
-      // language folder. English ('en') is the default/fallback language.
-      alias: {
-        ['/(' + SRD_LANG_PATTERN + ')/.*/_sidebar.md']: '/rules/$1/_sidebar.md',
-        ['/(' + SRD_LANG_PATTERN + ')/.*/_navbar.md']: '/rules/$1/_navbar.md',
-        ['/(' + SRD_LANG_PATTERN + ')/_sidebar.md']: '/rules/$1/_sidebar.md',
-        ['/(' + SRD_LANG_PATTERN + ')/_navbar.md']: '/rules/$1/_navbar.md',
-        ['/(' + SRD_LANG_PATTERN + ')/(.*)']: '/rules/$1/$2',
-        '/.*/_sidebar.md': '/rules/en/_sidebar.md',
-        '/.*/_navbar.md': '/rules/en/_navbar.md',
-        '/(.*)': '/rules/en/$1'
-      }
-    };
+        // Sidebar Configuration
+        auto2top: true,
+        loadSidebar: true,
+        loadNavbar: true,
+        maxLevel: 3,
+        // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
+        subMaxLevel: 3,
+
+        // Search Plugin Configuration
+        search: {
+          placeholder: 'Type to search',
+          noData: 'No matches found.',
+          // Headline depth, 1 - 6
+          depth: 3,
+        },
+
+        // Route every source/content file under rules/<lang>/, and resolve
+        // _sidebar.md / _navbar.md (including nested lookups) to the correct
+        // language folder. All alias targets are relative (no leading "/"),
+        // so they resolve against Docsify's own base path rather than the
+        // domain root - this is required for the site to work correctly when
+        // hosted on GitHub Pages project sites or any other custom subpath.
+        // 'en' is included in the language-prefixed rules (not just the
+        // generic fallback) so that '/en/...' resolves to 'rules/en/...'
+        // instead of incorrectly doubling up to 'rules/en/en/...'.
+        alias: {
+          ['/(' + ALL_LANG_PATTERN + ')/.*/_sidebar.md']: 'rules/$1/_sidebar.md',
+          ['/(' + ALL_LANG_PATTERN + ')/.*/_navbar.md']: 'rules/$1/_navbar.md',
+          ['/(' + ALL_LANG_PATTERN + ')/_sidebar.md']: 'rules/$1/_sidebar.md',
+          ['/(' + ALL_LANG_PATTERN + ')/_navbar.md']: 'rules/$1/_navbar.md',
+          ['/(' + ALL_LANG_PATTERN + ')/(.*)']: 'rules/$1/$2',
+          '/.*/_sidebar.md': 'rules/en/_sidebar.md',
+          '/.*/_navbar.md': 'rules/en/_navbar.md',
+          '/(.*)': 'rules/en/$1'
+        }
+      };
+    } catch (err) {
+      console.error('[SRD] Failed to initialize Docsify configuration:', err);
+    }
   </script>
   
   <script 
