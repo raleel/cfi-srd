@@ -7,11 +7,19 @@
  * Docsify scaffolding files (_sidebar.md / _navbar.md) into each target
  * language directory.
  *
- * Designed to be resilient: transient 503/429 errors from the Gemini API are
- * retried with exponential backoff + jitter, and a single failing
- * file/language pair never aborts the overall job. Already-translated files
- * whose source content hasn't changed (tracked via git blob hashes) are
- * skipped to save API cost and execution time.
+ * Cost/throughput optimization: translations for each language are submitted
+ * as a single Gemini Batch API job (`ai.batches.create`) containing one
+ * inlined request per pending file, using the cheaper `gemini-2.5-flash-lite`
+ * model. The job is polled every 15s until it reaches a terminal state, and
+ * results are mapped back to their source files via a per-request `customId`.
+ * If the batch job itself fails (submission error, job-level failure, or
+ * timeout), or if an individual file's response comes back missing/erroneous,
+ * that file falls back to the slower sequential `generateContent` path with
+ * exponential backoff + jitter retries on 503/429 errors — so a batch outage
+ * for one language never blocks the rest of the run.
+ *
+ * Already-translated files whose source content hasn't changed (tracked via
+ * git blob hashes) are skipped to save API cost and execution time.
  */
 
 import fs from 'fs';
@@ -47,7 +55,11 @@ const LANGUAGE_NAMES = {
 
 const SCAFFOLD_FILES = new Set(['_sidebar.md', '_navbar.md']);
 const MAX_RETRIES = 4;
-const MODEL_NAME = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const MODEL_NAME = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
+
+// Batch API polling configuration.
+const BATCH_POLL_INTERVAL_MS = 15000;
+const BATCH_MAX_POLL_ATTEMPTS = 240; // 240 * 15s = 60 minutes ceiling per language
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 if (!GEMINI_API_KEY) {
@@ -101,9 +113,13 @@ function shouldSkip(manifest, relativeFile, lang, outputPath, sourceHash) {
   return Boolean(sourceHash) && recorded === sourceHash;
 }
 
-async function translateWithRetry(text, lang) {
+/**
+ * Builds the translation prompt sent to Gemini for a given source document
+ * and target language. Shared by both the batch and sequential code paths.
+ */
+function buildPrompt(text, lang) {
   const languageName = LANGUAGE_NAMES[lang] || lang;
-  const prompt = [
+  return [
     `Translate the following Docsify/Markdown document from English into ${languageName} (locale code "${lang}").`,
     'Preserve all Markdown formatting, code blocks, HTML tags, table structure, links, and image references exactly.',
     'Do not translate content inside code fences, URLs, or file paths. Only translate prose, headings, and table cell text.',
@@ -113,6 +129,31 @@ async function translateWithRetry(text, lang) {
     text,
     '--- DOCUMENT END ---',
   ].join('\n');
+}
+
+/**
+ * Extracts concatenated text from a GenerateContentResponse-shaped object.
+ * Batch API inlined responses are deserialized as plain objects (not
+ * GenerateContentResponse class instances), so we can't rely on the SDK's
+ * `.text` convenience getter and instead walk candidates/content/parts
+ * ourselves. Works equally well for responses from the sequential path.
+ */
+function extractResponseText(response) {
+  const parts = response?.candidates?.[0]?.content?.parts;
+  if (!Array.isArray(parts) || parts.length === 0) return undefined;
+  let text = '';
+  let foundText = false;
+  for (const part of parts) {
+    if (typeof part?.text === 'string' && !part.thought) {
+      text += part.text;
+      foundText = true;
+    }
+  }
+  return foundText ? text : undefined;
+}
+
+async function translateWithRetry(text, lang) {
+  const prompt = buildPrompt(text, lang);
 
   let lastError;
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
@@ -121,7 +162,7 @@ async function translateWithRetry(text, lang) {
         model: MODEL_NAME,
         contents: prompt,
       });
-      const output = response?.text;
+      const output = extractResponseText(response);
       if (!output) throw new Error('Empty response from Gemini API');
       return output;
     } catch (err) {
@@ -144,6 +185,85 @@ async function translateWithRetry(text, lang) {
     }
   }
   throw lastError;
+}
+
+/**
+ * Polls a submitted batch job with `ai.batches.get` every
+ * BATCH_POLL_INTERVAL_MS until it reaches a terminal state. Resolves with the
+ * final job object on success ('SUCCEEDED'/'PARTIALLY_SUCCEEDED'), and throws
+ * on failure, cancellation, expiry, or exceeding the poll attempt ceiling.
+ */
+async function pollBatchJob(job) {
+  let current = job;
+  for (let attempt = 0; attempt < BATCH_MAX_POLL_ATTEMPTS; attempt++) {
+    const state = String(current?.state || '');
+    if (state.includes('SUCCEEDED')) return current;
+    if (state.includes('FAILED') || state.includes('CANCELLED') || state.includes('EXPIRED')) {
+      const detail = current?.error ? `: ${JSON.stringify(current.error)}` : '';
+      throw new Error(`Batch job ${current?.name} ended with state ${state}${detail}`);
+    }
+    await sleep(BATCH_POLL_INTERVAL_MS);
+    current = await ai.batches.get({ name: current.name });
+  }
+  throw new Error(
+    `Batch job ${current?.name} did not complete within ${(BATCH_MAX_POLL_ATTEMPTS * BATCH_POLL_INTERVAL_MS) / 60000} minutes (last state: ${current?.state})`
+  );
+}
+
+/**
+ * Submits and polls a single Gemini Batch API job translating every pending
+ * file into `lang`. Returns a Map keyed by file name, with values of the form
+ * `{ text }` on success or `{ error }` on a per-item failure. Throws if the
+ * batch job itself cannot be submitted or fails/times out at the job level —
+ * callers should catch this and fall back to sequential processing.
+ */
+async function translateLanguageWithBatch(lang, pendingFiles) {
+  const inlinedRequests = pendingFiles.map((item, index) => ({
+    model: MODEL_NAME,
+    contents: buildPrompt(item.sourceText, lang),
+    metadata: { customId: `file-${index}-${item.file}` },
+  }));
+
+  console.log(`  [batch] Submitting batch job for ${lang} (${inlinedRequests.length} file(s), model ${MODEL_NAME})...`);
+  const job = await ai.batches.create({
+    model: MODEL_NAME,
+    src: { inlinedRequests },
+    config: { displayName: `cfi-srd-translate-${lang}-${Date.now()}` },
+  });
+
+  console.log(`  [batch] Job ${job?.name} submitted for ${lang}. Polling every ${BATCH_POLL_INTERVAL_MS / 1000}s...`);
+  const completed = await pollBatchJob(job);
+
+  const responses = completed?.dest?.inlinedResponses || [];
+  const responseByCustomId = new Map();
+  for (const inlinedResponse of responses) {
+    const customId = inlinedResponse?.metadata?.customId;
+    if (!customId) continue;
+    responseByCustomId.set(customId, inlinedResponse);
+  }
+
+  const results = new Map();
+  pendingFiles.forEach((item, index) => {
+    const customId = `file-${index}-${item.file}`;
+    const inlinedResponse = responseByCustomId.get(customId);
+
+    if (!inlinedResponse) {
+      results.set(item.file, { error: new Error('No matching response returned by batch job') });
+      return;
+    }
+    if (inlinedResponse.error) {
+      results.set(item.file, { error: new Error(JSON.stringify(inlinedResponse.error)) });
+      return;
+    }
+    const text = extractResponseText(inlinedResponse.response);
+    if (!text) {
+      results.set(item.file, { error: new Error('Empty response text in batch result') });
+      return;
+    }
+    results.set(item.file, { text });
+  });
+
+  return results;
 }
 
 /**
@@ -210,6 +330,7 @@ async function main() {
       }
     }
 
+    const pendingFiles = [];
     for (const file of contentFiles) {
       const sourcePath = path.join(SOURCE_DIR, file);
       const outputPath = path.join(targetDir, file);
@@ -221,22 +342,64 @@ async function main() {
         continue;
       }
 
-      const sourceText = fs.readFileSync(sourcePath, 'utf8');
-      console.log(`  [translate] ${file} -> ${lang} ...`);
+      pendingFiles.push({
+        file,
+        sourcePath,
+        outputPath,
+        sourceHash,
+        sourceText: fs.readFileSync(sourcePath, 'utf8'),
+      });
+    }
 
+    if (pendingFiles.length === 0) {
+      console.log(`  Nothing to translate for ${lang} (all files up to date).`);
+      continue;
+    }
+
+    // Files that still need translating after the batch attempt (either
+    // because the whole job failed, or because individual items came back
+    // with errors/empty responses). These are retried sequentially so a
+    // batch-level or per-item failure never blocks the rest of the run.
+    let sequentialFallbackQueue = [];
+
+    try {
+      const batchResults = await translateLanguageWithBatch(lang, pendingFiles);
+
+      for (const item of pendingFiles) {
+        const result = batchResults.get(item.file);
+        if (result?.text) {
+          fs.writeFileSync(item.outputPath, result.text, 'utf8');
+          manifest[item.file] = manifest[item.file] || {};
+          manifest[item.file][lang] = item.sourceHash;
+          translatedCount++;
+        } else {
+          console.warn(
+            `  [batch-item-failed] ${item.file} -> ${lang}: ${result?.error?.message || 'unknown error'}. Falling back to sequential translation for this file.`
+          );
+          sequentialFallbackQueue.push(item);
+        }
+      }
+    } catch (err) {
+      console.warn(
+        `  [batch-job-failed] Batch translation job for ${lang} failed: ${err.message}. Falling back to sequential processing for all ${pendingFiles.length} pending file(s) in this language.`
+      );
+      sequentialFallbackQueue = pendingFiles;
+    }
+
+    for (const item of sequentialFallbackQueue) {
+      console.log(`  [translate:sequential] ${item.file} -> ${lang} ...`);
       try {
-        const translated = await translateWithRetry(sourceText, lang);
-        fs.writeFileSync(outputPath, translated, 'utf8');
+        const translated = await translateWithRetry(item.sourceText, lang);
+        fs.writeFileSync(item.outputPath, translated, 'utf8');
 
-        manifest[file] = manifest[file] || {};
-        manifest[file][lang] = sourceHash;
+        manifest[item.file] = manifest[item.file] || {};
+        manifest[item.file][lang] = item.sourceHash;
         translatedCount++;
       } catch (err) {
         console.error(
-          `  [FAILED] ${file} -> ${lang} after ${MAX_RETRIES} attempts: ${err.message}. Continuing with next file/language.`
+          `  [FAILED] ${item.file} -> ${lang} after ${MAX_RETRIES} attempts: ${err.message}. Continuing with next file/language.`
         );
         failedCount++;
-        continue;
       }
     }
   }
