@@ -1,4 +1,4 @@
-- [Home](/ps/)
-- [How To](/ps/HowTo.md)
-- [Changelog](/ps/Changelog.md)
+- [کور](/ps/)
+- [څنګه](/ps/HowTo.md)
+- [د بدلونونو لیست](/ps/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

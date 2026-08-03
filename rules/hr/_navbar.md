@@ -1,4 +1,4 @@
-- [Home](/hr/)
-- [How To](/hr/HowTo.md)
-- [Changelog](/hr/Changelog.md)
+- [Početna](/hr/)
+- [Upute](/hr/HowTo.md)
+- [Promjene](/hr/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

@@ -1,4 +1,4 @@
-- [Home](/th/)
-- [How To](/th/HowTo.md)
-- [Changelog](/th/Changelog.md)
+- [หน้าแรก](/th/)
+- [วิธีใช้งาน](/th/HowTo.md)
+- [บันทึกการเปลี่ยนแปลง](/th/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

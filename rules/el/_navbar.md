@@ -1,4 +1,4 @@
-- [Home](/el/)
-- [How To](/el/HowTo.md)
-- [Changelog](/el/Changelog.md)
+- [Αρχική](/el/)
+- [Οδηγίες](/el/HowTo.md)
+- [Ιστορικό αλλαγών](/el/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

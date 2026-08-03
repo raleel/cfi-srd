@@ -1,4 +1,4 @@
-- [Home](/zh-CN/)
-- [How To](/zh-CN/HowTo.md)
-- [Changelog](/zh-CN/Changelog.md)
+- [首页](/zh-CN/)
+- [使用指南](/zh-CN/HowTo.md)
+- [更新日志](/zh-CN/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

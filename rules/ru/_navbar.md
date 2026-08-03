@@ -1,4 +1,4 @@
-- [Home](/ru/)
-- [How To](/ru/HowTo.md)
-- [Changelog](/ru/Changelog.md)
+- [Главная](/ru/)
+- [Как пользоваться](/ru/HowTo.md)
+- [Список изменений](/ru/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

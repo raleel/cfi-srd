@@ -1,4 +1,4 @@
-- [Home](/my/)
-- [How To](/my/HowTo.md)
-- [Changelog](/my/Changelog.md)
+- [ပင်မစာမျက်နှာ](/my/)
+- [ပြုလုပ်နည်း](/my/HowTo.md)
+- [ပြောင်းလဲမှုမှတ်တမ်း](/my/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

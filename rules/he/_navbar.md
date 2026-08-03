@@ -1,4 +1,4 @@
-- [Home](/he/)
-- [How To](/he/HowTo.md)
-- [Changelog](/he/Changelog.md)
+- [דף הבית](/he/)
+- [מדריכים](/he/HowTo.md)
+- [יומן שינויים](/he/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

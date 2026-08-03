@@ -1,4 +1,4 @@
-- [Home](/sl/)
-- [How To](/sl/HowTo.md)
-- [Changelog](/sl/Changelog.md)
+- [Domov](/sl/)
+- [Navodila](/sl/HowTo.md)
+- [Dnevnik sprememb](/sl/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

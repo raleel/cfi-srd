@@ -1,4 +1,4 @@
-- [Home](/ku/)
-- [How To](/ku/HowTo.md)
-- [Changelog](/ku/Changelog.md)
+- [پەڕەی سەرەکی](/ku/)
+- [چۆنیەتی](/ku/HowTo.md)
+- [گۆڕانکارییەکان](/ku/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

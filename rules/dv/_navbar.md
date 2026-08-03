@@ -1,4 +1,4 @@
-- [Home](/dv/)
-- [How To](/dv/HowTo.md)
-- [Changelog](/dv/Changelog.md)
+- [މައި ޞަފްޙާ](/dv/)
+- [ކުރާނެ ގޮތް](/dv/HowTo.md)
+- [ބަދަލުތައް](/dv/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

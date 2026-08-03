@@ -1,4 +1,4 @@
-- [Home](/sw/)
-- [How To](/sw/HowTo.md)
-- [Changelog](/sw/Changelog.md)
+- [Nyumbani](/sw/)
+- [Jinsi ya Kufanya](/sw/HowTo.md)
+- [Mabadiliko](/sw/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

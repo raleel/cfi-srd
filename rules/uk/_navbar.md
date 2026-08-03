@@ -1,4 +1,4 @@
-- [Home](/uk/)
-- [How To](/uk/HowTo.md)
-- [Changelog](/uk/Changelog.md)
+- [Головна](/uk/)
+- [Як користуватися](/uk/HowTo.md)
+- [Журнал змін](/uk/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

@@ -1,4 +1,4 @@
-- [Home](/ur/)
-- [How To](/ur/HowTo.md)
-- [Changelog](/ur/Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)
+- [ہوم](/ur/)
+- [طریقہ کار](/ur/HowTo.md)
+- [تبدیلیوں کی فہرست](/ur/Changelog.md)
+- [گٹ ہب](https://github.com/raleel/cfi-srd)

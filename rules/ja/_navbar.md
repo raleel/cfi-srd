@@ -1,4 +1,4 @@
-- [Home](/ja/)
-- [How To](/ja/HowTo.md)
-- [Changelog](/ja/Changelog.md)
+- [ホーム](/ja/)
+- [使い方](/ja/HowTo.md)
+- [変更履歴](/ja/Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
