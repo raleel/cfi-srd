@@ -57,7 +57,7 @@ const LANGUAGE_NAMES = {
   sr: 'Serbian', bs: 'Bosnian', sq: 'Albanian', mk: 'Macedonian', sl: 'Slovenian',
   tl: 'Tagalog', pt: 'Portuguese', sw: 'Swahili', ha: 'Hausa', ms: 'Malay',
   th: 'Thai', my: 'Burmese', bg: 'Bulgarian', bn: 'Bengali', te: 'Telugu', mr: 'Marathi',
-  ta: "'Tamil'
+  ta: 'Tamil'
 };
 
 const SCAFFOLD_FILES = new Set(['_sidebar.md', '_navbar.md']);
