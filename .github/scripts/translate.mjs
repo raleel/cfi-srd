@@ -45,7 +45,7 @@ const MANIFEST_PATH = path.join(REPO_ROOT, '.github', 'scripts', 'translation-ma
 const TARGET_LANGUAGES = [
   'es', 'fr', 'it', 'el', 'zh-CN', 'ar', 'fa', 'ur', 'he', 'ps', 'ku', 'dv',
   'hi', 'ja', 'ko', 'tr', 'vi', 'ru', 'uk', 'hr', 'sr', 'bs', 'sq', 'mk', 'sl',
-  'tl', 'pt', 'sw', 'ha', 'ms', 'th', 'my',
+  'tl', 'pt', 'sw', 'ha', 'ms', 'th', 'my', 'bg', 'bn', 'te', 'mr', 'ta'
 ];
 
 // Human-readable language names used to build translation prompts.
@@ -56,7 +56,8 @@ const LANGUAGE_NAMES = {
   tr: 'Turkish', vi: 'Vietnamese', ru: 'Russian', uk: 'Ukrainian', hr: 'Croatian',
   sr: 'Serbian', bs: 'Bosnian', sq: 'Albanian', mk: 'Macedonian', sl: 'Slovenian',
   tl: 'Tagalog', pt: 'Portuguese', sw: 'Swahili', ha: 'Hausa', ms: 'Malay',
-  th: 'Thai', my: 'Burmese',
+  th: 'Thai', my: 'Burmese', bg: 'Bulgarian', bn: 'Bengali', te: 'Telugu', mr: 'Marathi',
+  ta: "'Tamil'
 };
 
 const SCAFFOLD_FILES = new Set(['_sidebar.md', '_navbar.md']);
