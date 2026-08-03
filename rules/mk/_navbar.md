@@ -1,0 +1,4 @@
+- [Home](/mk/)
+- [How To](/mk/HowTo.md)
+- [Changelog](/mk/Changelog.md)
+- [GitHub](https://github.com/raleel/cfi-srd)
