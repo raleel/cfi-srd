@@ -3,9 +3,15 @@
  * Automated multi-language translation pipeline for cfi-srd.
  *
  * Scans `rules/en/` for markdown source files, translates each one into every
- * language in TARGET_LANGUAGES using the Gemini API, and copies/adapts the
- * Docsify scaffolding files (_sidebar.md / _navbar.md) into each target
- * language directory.
+ * language in TARGET_LANGUAGES using the Gemini API. This includes the
+ * Docsify TOC/navigation scaffolding files (_sidebar.md / _navbar.md): their
+ * link titles (e.g. "Introduction", "Characters") are translated through
+ * Gemini too - using a dedicated prompt that preserves link targets, file
+ * paths, and list structure exactly - so top-level sidebar/navbar entries are
+ * localized, not just sub-page content. Link targets are then rewritten to
+ * be prefixed with the target language route (e.g. `/es/README.md`). If
+ * scaffold translation ultimately fails, an untranslated (English-titled) but
+ * correctly-routed copy is written as a fallback so navigation never breaks.
  *
  * Cost/throughput optimization: translations for each language are submitted
  * as a single Gemini Batch API job (`ai.batches.create`) containing one
@@ -132,6 +138,31 @@ function buildPrompt(text, lang) {
 }
 
 /**
+ * Builds the translation prompt used for Docsify TOC/navigation scaffolding
+ * files (_sidebar.md / _navbar.md). Unlike regular content, these files are
+ * short Markdown link lists (e.g. `- [Characters](0001_Characters.md)`) that
+ * define the sidebar's top-level category/group names. Only the human
+ * readable link title (the text inside `[...]`) should be translated - the
+ * link target, file paths, anchors, and `---` separators must be preserved
+ * byte-for-byte so the translated file still routes to the correct pages.
+ */
+function buildScaffoldPrompt(text, lang) {
+  const languageName = LANGUAGE_NAMES[lang] || lang;
+  return [
+    `Translate only the human-readable link titles in the following Docsify sidebar/navbar navigation Markdown into ${languageName} (locale code "${lang}").`,
+    'This file is a navigation menu. Each non-blank line is either a Markdown link list item, e.g. "- [Introduction](README.md)", or a horizontal rule "---".',
+    'Translate ONLY the text inside the square brackets [ ] (the link title/category name). Do NOT translate, reorder, add, or remove anything else.',
+    'Do NOT modify the link target in parentheses ( ) - keep every file path, URL, and anchor exactly as-is, character for character.',
+    'Do NOT modify "---" separators, list markers ("- "), or line order/count.',
+    'Return ONLY the translated Markdown document, with no additional commentary.',
+    '',
+    '--- DOCUMENT START ---',
+    text,
+    '--- DOCUMENT END ---',
+  ].join('\n');
+}
+
+/**
  * Extracts concatenated text from a GenerateContentResponse-shaped object.
  * Batch API inlined responses are deserialized as plain objects (not
  * GenerateContentResponse class instances), so we can't rely on the SDK's
@@ -152,8 +183,8 @@ function extractResponseText(response) {
   return foundText ? text : undefined;
 }
 
-async function translateWithRetry(text, lang) {
-  const prompt = buildPrompt(text, lang);
+async function translateWithRetry(text, lang, isScaffold = false) {
+  const prompt = isScaffold ? buildScaffoldPrompt(text, lang) : buildPrompt(text, lang);
 
   let lastError;
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
@@ -220,7 +251,7 @@ async function pollBatchJob(job) {
 async function translateLanguageWithBatch(lang, pendingFiles) {
   const inlinedRequests = pendingFiles.map((item, index) => ({
     model: MODEL_NAME,
-    contents: buildPrompt(item.sourceText, lang),
+    contents: (item.isScaffold ? buildScaffoldPrompt : buildPrompt)(item.sourceText, lang),
     metadata: { customId: `file-${index}-${item.file}` },
   }));
 
@@ -306,9 +337,12 @@ async function main() {
 
   const allEntries = fs.readdirSync(SOURCE_DIR).filter((f) => f.endsWith('.md'));
   const contentFiles = allEntries.filter((f) => !SCAFFOLD_FILES.has(f));
+  const scaffoldFiles = allEntries.filter((f) => SCAFFOLD_FILES.has(f));
 
   console.log(`Discovered ${contentFiles.length} content file(s) in ${SOURCE_DIR}:`);
   contentFiles.forEach((f) => console.log(`  - ${f}`));
+  console.log(`Discovered ${scaffoldFiles.length} TOC/scaffold file(s) (sidebar/navbar) to localize:`);
+  scaffoldFiles.forEach((f) => console.log(`  - ${f}`));
 
   const manifest = loadManifest();
   let translatedCount = 0;
@@ -321,17 +355,9 @@ async function main() {
 
     console.log(`\n=== Language: ${lang} (${LANGUAGE_NAMES[lang] || lang}) ===`);
 
-    // Scaffolding: copy _sidebar.md / _navbar.md with route-prefixed links.
-    for (const scaffoldFile of SCAFFOLD_FILES) {
-      try {
-        copyScaffoldFile(scaffoldFile, lang, targetDir);
-      } catch (err) {
-        console.error(`  Failed to copy scaffold ${scaffoldFile} for ${lang}: ${err.message}`);
-      }
-    }
-
     const pendingFiles = [];
-    for (const file of contentFiles) {
+    for (const file of [...contentFiles, ...scaffoldFiles]) {
+      const isScaffold = SCAFFOLD_FILES.has(file);
       const sourcePath = path.join(SOURCE_DIR, file);
       const outputPath = path.join(targetDir, file);
       const sourceHash = gitBlobHash(sourcePath);
@@ -347,6 +373,7 @@ async function main() {
         sourcePath,
         outputPath,
         sourceHash,
+        isScaffold,
         sourceText: fs.readFileSync(sourcePath, 'utf8'),
       });
     }
@@ -355,6 +382,15 @@ async function main() {
       console.log(`  Nothing to translate for ${lang} (all files up to date).`);
       continue;
     }
+
+    /**
+     * Applies TOC/scaffold-specific post-processing (rewriting link targets
+     * to be prefixed with the target language route) before writing a
+     * translated file, so category/group titles are localized *and* the
+     * sidebar/navbar still routes to the correct language folder.
+     */
+    const finalizeOutput = (item, translatedText) =>
+      item.isScaffold ? prefixScaffoldLinks(translatedText, lang) : translatedText;
 
     // Files that still need translating after the batch attempt (either
     // because the whole job failed, or because individual items came back
@@ -368,7 +404,7 @@ async function main() {
       for (const item of pendingFiles) {
         const result = batchResults.get(item.file);
         if (result?.text) {
-          fs.writeFileSync(item.outputPath, result.text, 'utf8');
+          fs.writeFileSync(item.outputPath, finalizeOutput(item, result.text), 'utf8');
           manifest[item.file] = manifest[item.file] || {};
           manifest[item.file][lang] = item.sourceHash;
           translatedCount++;
@@ -389,8 +425,8 @@ async function main() {
     for (const item of sequentialFallbackQueue) {
       console.log(`  [translate:sequential] ${item.file} -> ${lang} ...`);
       try {
-        const translated = await translateWithRetry(item.sourceText, lang);
-        fs.writeFileSync(item.outputPath, translated, 'utf8');
+        const translated = await translateWithRetry(item.sourceText, lang, item.isScaffold);
+        fs.writeFileSync(item.outputPath, finalizeOutput(item, translated), 'utf8');
 
         manifest[item.file] = manifest[item.file] || {};
         manifest[item.file][lang] = item.sourceHash;
@@ -400,6 +436,19 @@ async function main() {
           `  [FAILED] ${item.file} -> ${lang} after ${MAX_RETRIES} attempts: ${err.message}. Continuing with next file/language.`
         );
         failedCount++;
+
+        // For TOC/scaffold files specifically, fall back to an untranslated
+        // (English-titled) but correctly route-prefixed copy so navigation
+        // never ends up missing/broken just because Gemini translation
+        // failed for the sidebar/navbar.
+        if (item.isScaffold) {
+          try {
+            copyScaffoldFile(item.file, lang, targetDir);
+            console.warn(`  [scaffold-fallback] Wrote untranslated (English-titled) ${item.file} for ${lang}.`);
+          } catch (copyErr) {
+            console.error(`  Failed to write scaffold fallback for ${item.file} -> ${lang}: ${copyErr.message}`);
+          }
+        }
       }
     }
   }
