@@ -9,7 +9,7 @@
  *
  * Cost/throughput optimization: translations for each language are submitted
  * as a single Gemini Batch API job (`ai.batches.create`) containing one
- * inlined request per pending file, using the cheaper `gemini-2.5-flash-lite`
+ * inlined request per pending file, using the cheaper `gemini-3.5-flash-lite`
  * model. The job is polled every 15s until it reaches a terminal state, and
  * results are mapped back to their source files via a per-request `customId`.
  * If the batch job itself fails (submission error, job-level failure, or
@@ -55,7 +55,7 @@ const LANGUAGE_NAMES = {
 
 const SCAFFOLD_FILES = new Set(['_sidebar.md', '_navbar.md']);
 const MAX_RETRIES = 4;
-const MODEL_NAME = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
+const MODEL_NAME = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
 
 // Batch API polling configuration.
 const BATCH_POLL_INTERVAL_MS = 15000;
