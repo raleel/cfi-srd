@@ -1,4 +1,4 @@
-- [Ana Sayfa](/tr/)
-- [Nasıl Yapılır](/tr/HowTo.md)
-- [Değişiklik Günlüğü](/tr/Changelog.md)
+- [Ana Sayfa](README.md)
+- [Nasıl Yapılır](HowTo.md)
+- [Değişiklik Günlüğü](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

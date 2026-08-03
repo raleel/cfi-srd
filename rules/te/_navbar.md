@@ -1,4 +1,4 @@
-- [ప్రారంభం](/te/)
-- [ఎలా చేయాలి](/te/HowTo.md)
-- [మార్పుల జాబితా](/te/Changelog.md)
+- [ప్రారంభం](README.md)
+- [ఎలా చేయాలి](HowTo.md)
+- [మార్పుల జాబితా](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

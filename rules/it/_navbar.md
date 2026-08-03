@@ -1,4 +1,4 @@
-- [Home](/it/)
-- [Come fare](/it/HowTo.md)
-- [Registro modifiche](/it/Changelog.md)
+- [Home](README.md)
+- [Come fare](HowTo.md)
+- [Registro modifiche](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

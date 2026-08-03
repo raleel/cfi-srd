@@ -1,4 +1,4 @@
-- [پەڕەی سەرەکی](/ku/)
-- [چۆنیەتی](/ku/HowTo.md)
-- [گۆڕانکارییەکان](/ku/Changelog.md)
+- [پەڕەی سەرەکی](README.md)
+- [چۆنیەتی](HowTo.md)
+- [گۆڕانکارییەکان](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

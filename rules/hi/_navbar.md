@@ -1,4 +1,4 @@
-- [होम](/hi/)
-- [कैसे करें](/hi/HowTo.md)
-- [परिवर्तन लॉग](/hi/Changelog.md)
+- [होम](README.md)
+- [कैसे करें](HowTo.md)
+- [परिवर्तन लॉग](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

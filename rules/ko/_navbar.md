@@ -1,4 +1,4 @@
-- [홈](/ko/)
-- [사용 방법](/ko/HowTo.md)
-- [변경 로그](/ko/Changelog.md)
+- [홈](README.md)
+- [사용 방법](HowTo.md)
+- [변경 로그](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

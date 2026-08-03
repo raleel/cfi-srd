@@ -27,13 +27,13 @@
   type="text/css"
 />
 <style>
-  /* Language selector: rendered inside the left sidebar (under the "Menu"
-     app-name heading), matching the layout used by the companion Mythras
-     Imperative SRD site, instead of floating over the content area. */
-  .lang-select-wrap {
+  /* Language selector: rendered inside the left sidebar (above the nav
+     links) by renderLanguagePicker() below, matching the layout used by
+     the companion Mythras Imperative SRD site. */
+  .language-picker {
     padding: 0 20px 16px;
   }
-  .lang-select-label {
+  .language-picker label {
     display: block;
     font-size: 12px;
     font-weight: 700;
@@ -42,7 +42,7 @@
     opacity: 0.6;
     margin-bottom: 6px;
   }
-  .lang-select {
+  .language-picker select {
     width: 100%;
     padding: 4px 8px;
     border-radius: 4px;
@@ -69,148 +69,303 @@
 <body>
   <div id="app"></div>
 
-  <!-- Language Selector. Positioned into the left sidebar (below the "Menu"
-       heading) via JS once Docsify mounts - see placeLanguageSelectorInSidebar()
-       below - so it matches the Mythras Imperative SRD site's layout instead
-       of floating over the top-right of the content area. -->
-  <div id="language-select-wrap" class="lang-select-wrap">
-    <span class="lang-select-label">Language</span>
-    <select id="language-select" class="lang-select" onchange="setDocsifyLanguage(this.value)">
-      <option value="en">English (en)</option>
-      <option value="es">Español (es)</option>
-      <option value="fr">Français (fr)</option>
-      <option value="it">Italiano (it)</option>
-      <option value="el">Ελληνικά (el)</option>
-      <option value="zh-CN">中文 (简体) (zh-CN)</option>
-      <option value="ar">العربية (ar)</option>
-      <option value="fa">فارسی (fa)</option>
-      <option value="ur">اردو (ur)</option>
-      <option value="he">עברית (he)</option>
-      <option value="ps">پښتو (ps)</option>
-      <option value="ku">Kurdî (ku)</option>
-      <option value="dv">ދިވެހި (dv)</option>
-      <option value="hi">हिन्दी (hi)</option>
-      <option value="ja">日本語 (ja)</option>
-      <option value="ko">한국어 (ko)</option>
-      <option value="tr">Türkçe (tr)</option>
-      <option value="vi">Tiếng Việt (vi)</option>
-      <option value="ru">Русский (ru)</option>
-      <option value="uk">Українська (uk)</option>
-      <option value="hr">Hrvatski (hr)</option>
-      <option value="sr">Српски (sr)</option>
-      <option value="bs">Bosanski (bs)</option>
-      <option value="sq">Shqip (sq)</option>
-      <option value="mk">Македонски (mk)</option>
-      <option value="sl">Slovenščina (sl)</option>
-      <option value="tl">Tagalog (tl)</option>
-      <option value="pt">Português (pt)</option>
-      <option value="sw">Kiswahili (sw)</option>
-      <option value="ha">Hausa (ha)</option>
-      <option value="ms">Bahasa Melayu (ms)</option>
-      <option value="th">ไทย (th)</option>
-      <option value="my">မြန်မာဘာသာ (my)</option>
-      <option value="bg">Български (bg)</option>
-      <option value="bn">বাংলা (bn)</option>
-      <option value="te">తెలుగు (te)</option>
-      <option value="mr">मराठी (mr)</option>
-      <option value="ta">தமிழ் (ta)</option>
-    </select>
-  </div>
-
   <script>
-    // List of translated language folders under rules/ that Docsify content is
-    // routed to. Keep in sync with TARGET_LANGUAGES in .github/scripts/translate.mjs.
-    // 'en' is handled separately below since it is the untranslated source language.
-    var SRD_LANGUAGES = [
-      'es', 'fr', 'it', 'el', 'zh-CN', 'ar', 'fa', 'ur', 'he', 'ps', 'ku', 'dv',
-      'hi', 'ja', 'ko', 'tr', 'vi', 'ru', 'uk', 'hr', 'sr', 'bs', 'sq', 'mk', 'sl',
-      'tl', 'pt', 'sw', 'ha', 'ms', 'th', 'my', 'bg', 'bn', 'te', 'mr', 'ta'
+    // Full list of translated languages (native name + code), shared in
+    // structure with the companion Mythras Imperative SRD site. Keep in
+    // sync with TARGET_LANGUAGES in .github/scripts/translate.mjs.
+    var languageOptions = [
+      { code: 'en', label: 'English (en)' },
+      { code: 'es', label: 'Español (es)' },
+      { code: 'fr', label: 'Français (fr)' },
+      { code: 'it', label: 'Italiano (it)' },
+      { code: 'el', label: 'Ελληνικά (el)' },
+      { code: 'zh-CN', label: '中文 (简体) (zh-CN)' },
+      { code: 'ar', label: 'العربية (ar)' },
+      { code: 'fa', label: 'فارسی (fa)' },
+      { code: 'ur', label: 'اردو (ur)' },
+      { code: 'he', label: 'עברית (he)' },
+      { code: 'ps', label: 'پښتو (ps)' },
+      { code: 'ku', label: 'Kurdî (ku)' },
+      { code: 'dv', label: 'ދިވެހި (dv)' },
+      { code: 'hi', label: 'हिन्दी (hi)' },
+      { code: 'ja', label: '日本語 (ja)' },
+      { code: 'ko', label: '한국어 (ko)' },
+      { code: 'tr', label: 'Türkçe (tr)' },
+      { code: 'vi', label: 'Tiếng Việt (vi)' },
+      { code: 'ru', label: 'Русский (ru)' },
+      { code: 'uk', label: 'Українська (uk)' },
+      { code: 'hr', label: 'Hrvatski (hr)' },
+      { code: 'sr', label: 'Српски (sr)' },
+      { code: 'bs', label: 'Bosanski (bs)' },
+      { code: 'sq', label: 'Shqip (sq)' },
+      { code: 'mk', label: 'Македонски (mk)' },
+      { code: 'sl', label: 'Slovenščina (sl)' },
+      { code: 'tl', label: 'Tagalog (tl)' },
+      { code: 'pt', label: 'Português (pt)' },
+      { code: 'sw', label: 'Kiswahili (sw)' },
+      { code: 'ha', label: 'Hausa (ha)' },
+      { code: 'ms', label: 'Bahasa Melayu (ms)' },
+      { code: 'th', label: 'ไทย (th)' },
+      { code: 'my', label: 'မြန်မာဘာသာ (my)' },
+      { code: 'bg', label: 'Български (bg)' },
+      { code: 'bn', label: 'বাংলা (bn)' },
+      { code: 'te', label: 'తెలుగు (te)' },
+      { code: 'mr', label: 'मराठी (mr)' },
+      { code: 'ta', label: 'தமிழ் (ta)' },
     ];
-    // Full set of routable language codes, including the 'en' source language,
-    // used for alias matching so '/en/...' resolves to 'rules/en/...' instead of
-    // falling through to the generic default alias (which would otherwise
-    // double-prefix the path as 'rules/en/en/...' and 404 forever).
-    var ALL_LANGUAGES = ['en'].concat(SRD_LANGUAGES);
-    var SRD_LANG_PATTERN = SRD_LANGUAGES.join('|');
-    var ALL_LANG_PATTERN = ALL_LANGUAGES.join('|');
-  </script>
-
-  <script>
-    // Switches the active documentation language by rewriting the hash route,
-    // which forces Docsify to re-resolve _sidebar.md/_navbar.md/content
-    // through the alias map below without losing navigation state.
-    function setDocsifyLanguage(lang) {
-      try {
-        window.location.hash = '#/' + lang + '/';
-      } catch (err) {
-        console.error('[SRD] Failed to switch language to "' + lang + '":', err);
-      }
-    }
-
-    // Pre-select the dropdown to match the language segment already in the URL.
-    // Wrapped in try/catch so a parsing issue here can never block the
-    // window.$docsify configuration (in the next script block) from running.
-    (function initLanguageSelect() {
-      try {
-        var match = window.location.hash.match(new RegExp('^#/(' + SRD_LANG_PATTERN + ')/'));
-        var select = document.getElementById('language-select');
-        if (select) select.value = match ? match[1] : 'en';
-      } catch (err) {
-        console.error('[SRD] Failed to initialize language selector:', err);
-      }
-    })();
-
-    // Moves the language selector (initially just a plain element in <body>)
-    // into the left sidebar, directly below the "Menu" app-name heading, so
-    // it's laid out the same way as the companion Mythras Imperative SRD site
-    // instead of floating over the top-right of the content area. Docsify
-    // re-renders the sidebar's markdown content on navigation but normally
-    // leaves the app-name/header node alone; this is re-run after every route
-    // change (via the doneEach hook below) as a safety net in case Docsify
-    // ever fully re-creates the sidebar, and is idempotent/no-op if the
-    // selector is already correctly placed.
-    function placeLanguageSelectorInSidebar() {
-      try {
-        var wrap = document.getElementById('language-select-wrap');
-        var sidebar = document.querySelector('.sidebar');
-        if (!wrap || !sidebar) return;
-        var appName = sidebar.querySelector('.app-name');
-        if (appName) {
-          if (appName.nextElementSibling !== wrap) {
-            appName.insertAdjacentElement('afterend', wrap);
-          }
-        } else if (sidebar.firstElementChild !== wrap) {
-          sidebar.insertBefore(wrap, sidebar.firstElementChild || null);
-        }
-      } catch (err) {
-        console.error('[SRD] Failed to place language selector in sidebar:', err);
-      }
-    }
+    var supportedLanguages = languageOptions.map(function(option) {
+      return option.code;
+    });
+    var rtlLanguages = ['ar', 'fa', 'ur', 'he', 'ps', 'ku', 'dv'];
 
     // Logs a clear, descriptive console error (including the exact requested
     // URL) whenever a content/TOC fetch made by Docsify (via XMLHttpRequest)
     // fails or returns a non-2xx status, so broken paths are easy to spot in
     // DevTools instead of silently leaving the UI stuck on "Loading...".
     (function instrumentContentFetchLogging() {
-      if (!window.XMLHttpRequest || window.__srdFetchLoggingInstalled) return;
-      window.__srdFetchLoggingInstalled = true;
-      var originalOpen = XMLHttpRequest.prototype.open;
-      XMLHttpRequest.prototype.open = function (method, url) {
-        try {
-          this.addEventListener('load', function () {
-            if (this.status === 0 || this.status >= 400) {
-              console.error('[SRD] Failed to load content (status ' + this.status + '): ' + url);
-            }
-          });
-          this.addEventListener('error', function () {
-            console.error('[SRD] Network error while loading content: ' + url);
-          });
-        } catch (err) {
-          console.error('[SRD] Fetch instrumentation error for URL ' + url + ':', err);
-        }
-        return originalOpen.apply(this, arguments);
-      };
+      try {
+        if (!window.XMLHttpRequest || window.__srdFetchLoggingInstalled) return;
+        window.__srdFetchLoggingInstalled = true;
+        var originalOpen = XMLHttpRequest.prototype.open;
+        XMLHttpRequest.prototype.open = function (method, url) {
+          try {
+            this.addEventListener('load', function () {
+              if (this.status === 0 || this.status >= 400) {
+                console.error('[SRD] Failed to load content (status ' + this.status + '): ' + url);
+              }
+            });
+            this.addEventListener('error', function () {
+              console.error('[SRD] Network error while loading content: ' + url);
+            });
+          } catch (err) {
+            console.error('[SRD] Fetch instrumentation error for URL ' + url + ':', err);
+          }
+          return originalOpen.apply(this, arguments);
+        };
+      } catch (err) {
+        console.error('[SRD] Failed to install fetch logging instrumentation:', err);
+      }
     })();
+
+    var docsifyAlias = {};
+
+    // Wrapped in try/catch so that any failure in language-routing bootstrap
+    // logic can never prevent window.$docsify from being assigned further
+    // below - the site should always at least render in English rather than
+    // getting stuck before Docsify is even configured.
+    try {
+      var storedLanguage = localStorage.getItem('selectedLanguage');
+      window.currentLang = supportedLanguages.indexOf(storedLanguage) !== -1 ? storedLanguage : 'en';
+
+      var languageFileExists = function (path) {
+        var request = new XMLHttpRequest();
+
+        try {
+          request.open('HEAD', path, false);
+          request.send();
+          return request.status >= 200 && request.status < 400;
+        } catch (error) {
+          return false;
+        }
+      };
+
+      var applyLanguageContext = function () {
+        document.documentElement.lang = window.currentLang;
+        document.documentElement.dir = rtlLanguages.indexOf(window.currentLang) !== -1 ? 'rtl' : 'ltr';
+      };
+
+      var getRouteDocument = function () {
+        var route = window.location.hash ? window.location.hash.slice(1) : '/';
+        var queryIndex = route.indexOf('?');
+        var path = queryIndex === -1 ? route : route.slice(0, queryIndex);
+        var segments = path.split('/').filter(Boolean);
+        var docPath = 'README';
+
+        if (segments.length === 0) {
+          return docPath;
+        }
+
+        if (segments[0] === 'rules') {
+          if (segments.length >= 3) {
+            docPath = segments.slice(2).join('/');
+          } else {
+            docPath = 'README';
+          }
+        } else {
+          docPath = segments.join('/');
+        }
+
+        if (!docPath || docPath === 'index' || docPath === 'index.html') {
+          docPath = 'README';
+        }
+
+        return docPath.replace(/\.md$/i, '');
+      };
+
+      var routeForLanguageDocument = function (lang, docPath) {
+        return '#/rules/' + lang + '/' + docPath.replace(/\.md$/i, '');
+      };
+
+      var ensureRouteForCurrentLanguage = function (replaceState) {
+        var docPath = getRouteDocument();
+        var targetHash = routeForLanguageDocument(window.currentLang, docPath);
+
+        if (replaceState) {
+          window.history.replaceState(null, '', window.location.pathname + window.location.search + targetHash);
+        } else if (window.location.hash !== targetHash) {
+          window.location.hash = targetHash;
+        }
+      };
+
+      var languageHasCoreFiles = function (lang) {
+        return languageFileExists('/rules/' + lang + '/README.md') &&
+          languageFileExists('/rules/' + lang + '/_sidebar.md');
+      };
+
+      if (window.currentLang !== 'en' && !languageHasCoreFiles(window.currentLang)) {
+        window.currentLang = 'en';
+        localStorage.setItem('selectedLanguage', 'en');
+      }
+
+      applyLanguageContext();
+      ensureRouteForCurrentLanguage(true);
+
+      window.setCurrentLanguage = function (lang) {
+        if (supportedLanguages.indexOf(lang) === -1) {
+          lang = 'en';
+        }
+
+        localStorage.setItem('selectedLanguage', lang);
+        window.currentLang = lang;
+
+        if (window.currentLang !== 'en' && !languageHasCoreFiles(window.currentLang)) {
+          window.currentLang = 'en';
+          localStorage.setItem('selectedLanguage', 'en');
+        }
+
+        // Explicitly update the hash route, then force a full page reload.
+        // Docsify's `alias` config (used for the sidebar/navbar language
+        // fallback below) is only evaluated once at page load, so a
+        // hash-only change would leave it pointed at the *previous*
+        // language. Reloading guarantees the whole frame (sidebar, navbar,
+        // RTL direction, alias map) is rebuilt for the newly selected
+        // language instead of just swapping the main content pane.
+        window.location.hash = routeForLanguageDocument(window.currentLang, getRouteDocument());
+        window.location.reload();
+      };
+
+      window.renderLanguagePicker = function () {
+        var sidebar = document.querySelector('.sidebar');
+        var sidebarNav = document.querySelector('.sidebar-nav');
+
+        if (!sidebar || !sidebarNav) {
+          return;
+        }
+
+        var container = document.querySelector('.language-picker');
+
+        if (!container) {
+          container = document.createElement('div');
+          container.className = 'language-picker';
+          container.innerHTML = '<label for="language-picker-select">Language</label><select id="language-picker-select" aria-label="Select language"></select>';
+          sidebar.insertBefore(container, sidebarNav);
+        }
+
+        var select = container.querySelector('select');
+
+        if (!select.dataset.initialized) {
+          languageOptions.forEach(function(option) {
+            var optionElement = document.createElement('option');
+            optionElement.value = option.code;
+            optionElement.textContent = option.label;
+            select.appendChild(optionElement);
+          });
+
+          select.addEventListener('change', function(event) {
+            window.setCurrentLanguage(event.target.value);
+          });
+
+          select.dataset.initialized = 'true';
+        }
+
+        select.value = window.currentLang;
+      };
+
+      // Falls back to the English copy of *this one page* when the current
+      // language doesn't have a translation for it yet. Deliberately does
+      // NOT touch window.currentLang or the stored language preference --
+      // a single untranslated page shouldn't knock the user's whole session
+      // back to English; the next page they visit should still try their
+      // selected language first.
+      window.enforceEnglishFallbackForMissingRoute = function () {
+        if (window.currentLang === 'en') {
+          return;
+        }
+
+        var docPath = getRouteDocument();
+        var expectedHash = routeForLanguageDocument(window.currentLang, docPath);
+
+        // Only act if we're actually looking at a route for the current
+        // language. This avoids redirect loops once we've already fallen
+        // back to /rules/en/... for this page.
+        if (window.location.hash !== expectedHash) {
+          return;
+        }
+
+        if (!languageFileExists('/rules/' + window.currentLang + '/' + docPath + '.md')) {
+          window.location.hash = routeForLanguageDocument('en', docPath);
+        }
+      };
+
+      // Docsify loads _sidebar.md/_navbar.md relative to the current route's
+      // folder by default. Not every language has its own translated copy
+      // yet, so build an alias map that redirects ONLY the specific
+      // sidebar/navbar paths that don't exist (yet) for the current
+      // language back to the English original -- this is computed fresh on
+      // every page load (see the forced reload in setCurrentLanguage above),
+      // so it stays correct as translations land over time. A single
+      // catch-all regex alias would redirect every language's sidebar to
+      // English unconditionally, which would defeat localized sidebars
+      // entirely, so we only alias what's actually missing.
+      if (window.currentLang !== 'en') {
+        var localizedSidebarPath = '/rules/' + window.currentLang + '/_sidebar.md';
+        var localizedNavbarPath = '/rules/' + window.currentLang + '/_navbar.md';
+
+        if (!languageFileExists(localizedSidebarPath)) {
+          docsifyAlias[localizedSidebarPath] = '/rules/en/_sidebar.md';
+        }
+
+        if (!languageFileExists(localizedNavbarPath)) {
+          docsifyAlias[localizedNavbarPath] = '/rules/en/_navbar.md';
+        }
+      }
+    } catch (err) {
+      console.error('[SRD] Failed to initialize language routing:', err);
+      window.currentLang = window.currentLang || 'en';
+    }
+
+    function languagePickerPlugin(hook) {
+      hook.mounted(function() {
+        try { window.renderLanguagePicker(); } catch (err) { console.error('[SRD] renderLanguagePicker failed:', err); }
+      });
+
+      // doneEach fires after every route render (including the first),
+      // so both the initial load and every subsequent in-app navigation
+      // (sidebar clicks, language switches, back/forward) get the RTL
+      // context, sidebar/menu re-render, and 404 fallback check applied.
+      hook.doneEach(function() {
+        try {
+          if (document.documentElement) {
+            document.documentElement.lang = window.currentLang;
+            document.documentElement.dir = rtlLanguages.indexOf(window.currentLang) !== -1 ? 'rtl' : 'ltr';
+          }
+          window.renderLanguagePicker();
+          window.enforceEnglishFallbackForMissingRoute();
+        } catch (err) {
+          console.error('[SRD] doneEach hook failed:', err);
+        }
+      });
+    }
 
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     // Assigning this in its own try/catch, after the (already-guarded) setup
@@ -222,62 +377,33 @@
         //logo: '/_media/icon.png',
 
         // Explicit fallback: if no language/file is specified in the URL
-        // (empty hash), load the English README - the first entry in the
-        // TOC/_sidebar.md manifest - instead of hanging indefinitely.
-        homepage: 'README.md',
+        // (empty hash), load the current language's README instead of
+        // hanging indefinitely.
+        homepage: '/rules/' + (window.currentLang || 'en') + '/README.md',
 
-        // Show a friendly, on-screen "not found" message (see _404.md) with a
-        // retry link instead of leaving the "Loading..." spinner stuck forever
-        // when a markdown file genuinely can't be found (e.g. a translation
-        // that hasn't been generated for a given language yet).
+        // Show a friendly, on-screen "not found" message (see _404.md) with
+        // a retry link instead of leaving the "Loading..." spinner stuck
+        // forever when a markdown file genuinely can't be found.
         notFoundPage: true,
 
         // Sidebar Configuration
         auto2top: true,
         loadSidebar: true,
         loadNavbar: true,
+        alias: docsifyAlias,
         maxLevel: 3,
         // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
         subMaxLevel: 3,
+        relativePath: true,
 
         // Search Plugin Configuration
         search: {
           placeholder: 'Type to search',
           noData: 'No matches found.',
           // Headline depth, 1 - 6
-          depth: 3,
+          depth: 4,
         },
-
-        // Places the language selector inside the left sidebar (below the
-        // "Menu" app-name heading) once Docsify mounts, and again after every
-        // route change, so it stays in the same spot as the companion
-        // Mythras Imperative SRD site instead of floating over the content.
-        plugins: [
-          function (hook) {
-            hook.mounted(placeLanguageSelectorInSidebar);
-            hook.doneEach(placeLanguageSelectorInSidebar);
-          },
-        ],
-
-        // Route every source/content file under rules/<lang>/, and resolve
-        // _sidebar.md / _navbar.md (including nested lookups) to the correct
-        // language folder. All alias targets are relative (no leading "/"),
-        // so they resolve against Docsify's own base path rather than the
-        // domain root - this is required for the site to work correctly when
-        // hosted on GitHub Pages project sites or any other custom subpath.
-        // 'en' is included in the language-prefixed rules (not just the
-        // generic fallback) so that '/en/...' resolves to 'rules/en/...'
-        // instead of incorrectly doubling up to 'rules/en/en/...'.
-        alias: {
-          ['/(' + ALL_LANG_PATTERN + ')/.*/_sidebar.md']: 'rules/$1/_sidebar.md',
-          ['/(' + ALL_LANG_PATTERN + ')/.*/_navbar.md']: 'rules/$1/_navbar.md',
-          ['/(' + ALL_LANG_PATTERN + ')/_sidebar.md']: 'rules/$1/_sidebar.md',
-          ['/(' + ALL_LANG_PATTERN + ')/_navbar.md']: 'rules/$1/_navbar.md',
-          ['/(' + ALL_LANG_PATTERN + ')/(.*)']: 'rules/$1/$2',
-          '/.*/_sidebar.md': 'rules/en/_sidebar.md',
-          '/.*/_navbar.md': 'rules/en/_navbar.md',
-          '/(.*)': 'rules/en/$1'
-        }
+        plugins: [languagePickerPlugin]
       };
     } catch (err) {
       console.error('[SRD] Failed to initialize Docsify configuration:', err);

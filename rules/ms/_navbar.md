@@ -1,4 +1,4 @@
-- [Laman Utama](/ms/)
-- [Cara-cara](/ms/HowTo.md)
-- [Log Perubahan](/ms/Changelog.md)
+- [Laman Utama](README.md)
+- [Cara-cara](HowTo.md)
+- [Log Perubahan](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

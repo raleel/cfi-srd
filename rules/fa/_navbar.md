@@ -1,4 +1,4 @@
-- [خانه](/fa/)
-- [راهنما](/fa/HowTo.md)
-- [تغییرات](/fa/Changelog.md)
+- [خانه](README.md)
+- [راهنما](HowTo.md)
+- [تغییرات](Changelog.md)
 - [گیت‌هاب](https://github.com/raleel/cfi-srd)

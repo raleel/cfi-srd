@@ -1,4 +1,4 @@
-- [मुख्यपृष्ठ](/mr/)
-- [कसे करावे](/mr/HowTo.md)
-- [बदलांची नोंद](/mr/Changelog.md)
+- [मुख्यपृष्ठ](README.md)
+- [कसे करावे](HowTo.md)
+- [बदलांची नोंद](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

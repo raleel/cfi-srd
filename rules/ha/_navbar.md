@@ -1,4 +1,4 @@
-- [Gida](/ha/)
-- [Yadda Ake Yi](/ha/HowTo.md)
-- [Canje-canje](/ha/Changelog.md)
+- [Gida](README.md)
+- [Yadda Ake Yi](HowTo.md)
+- [Canje-canje](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

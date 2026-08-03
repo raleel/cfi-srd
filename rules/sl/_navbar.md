@@ -1,4 +1,4 @@
-- [Domov](/sl/)
-- [Navodila](/sl/HowTo.md)
-- [Dnevnik sprememb](/sl/Changelog.md)
+- [Domov](README.md)
+- [Navodila](HowTo.md)
+- [Dnevnik sprememb](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

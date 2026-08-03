@@ -1,4 +1,4 @@
-- [الرئيسية](/ar/)
-- [كيفية الاستخدام](/ar/HowTo.md)
-- [سجل التغييرات](/ar/Changelog.md)
+- [الرئيسية](README.md)
+- [كيفية الاستخدام](HowTo.md)
+- [سجل التغييرات](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
