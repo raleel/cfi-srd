@@ -170,7 +170,7 @@ Setelah menerima cedera, karakter perlu memulihkan diri. Tingkat Pemulihan menen
 
 #### Inisiatif
 
-Momen di mana seseorang bereaksi dalam pertempuran diatur oleh Inisiatif. Inisiatif bertindak sebagai modifikator untuk lemparan Inisiatif; semakin tinggi Inisiatif, semakin cepat seseorang merespons dalam situasi pertempuran, yang menentukan kapan Anda dapat bertindak. Faktor lebih lanjut – misalnya baju besi – memodifikasinya. Bab [Pertempuran](0008_Combat.md?) menjelaskan lebih detail tentang bagaimana [Inisiatif](0008_Combat.md?id=initiative) digunakan.
+Momen di mana seseorang bereaksi dalam pertempuran diatur oleh Inisiatif. Inisiatif bertindak sebagai modifikator untuk lemparan Inisiatif; semakin tinggi Inisiatif, semakin cepat seseorang merespons dalam situasi pertempuran, yang menentukan kapan Anda dapat bertindak. Faktor lebih lanjut – misalnya Zirah – memodifikasinya. Bab [Pertempuran](0008_Combat.md?) menjelaskan lebih detail tentang bagaimana [Inisiatif](0008_Combat.md?id=initiative) digunakan.
 
 Inisiatif adalah rata-rata dari Karakteristik DEX dan INT.
 

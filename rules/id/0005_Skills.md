@@ -17,14 +17,14 @@ Ada beberapa kasus khusus mengenai Keberhasilan dan Kegagalan yang perlu diperha
 - Guliran apa pun sebesar 01-05 selalu merupakan Keberhasilan.
 - Guliran apa pun sebesar 96-00 selalu merupakan Kegagalan, terlepas dari seberapa tinggi nilai keterampilannya.
 
-#### Kritis dan Fumble (Kegagalan Fatal)
+#### Kritis dan Kegagalan Mutlak (Kegagalan Fatal)
 
-Kritis dan Fumble mewakili keberhasilan dan kegagalan yang spektakuler; kasus di mana karakter telah unggul dalam upayanya atau gagal secara menyedihkan dan total.
+Kritis dan Kegagalan Mutlak mewakili keberhasilan dan kegagalan yang spektakuler; kasus di mana karakter telah unggul dalam upayanya atau gagal secara menyedihkan dan total.
 
 - **Keberhasilan Kritis** sama dengan sepersepuluh dari nilai keterampilan (ini termasuk keterampilan yang menerima pengubah – sehingga keterampilan yang dimodifikasi mungkin memiliki peluang hasil Kritis yang lebih besar atau lebih kecil). Bulatkan pecahan ke atas saat menghitung kisaran Keberhasilan Kritis. Sebagai contoh, jika sebuah keterampilan dimodifikasi menjadi dua kali nilai normalnya – katakanlah dari 40% menjadi 80%, maka kisaran Kritisnya adalah guliran 08 atau kurang.
-- **Fumble** adalah guliran 99 atau 00. Keterampilan dengan nilai lebih dari 100% hanya mengalami Fumble pada guliran 00.
+- **Kegagalan Mutlak** adalah guliran 99 atau 00. Keterampilan dengan nilai lebih dari 100% hanya mengalami Kegagalan Mutlak pada guliran 00.
 
-Sifat pasti dari hasil Kritis atau Fumble diserahkan kepada Games Master untuk ditentukan. Konsekuensinya bisa menakjubkan atau mengerikan, tergantung pada keadaannya.
+Sifat pasti dari hasil Kritis atau Kegagalan Mutlak diserahkan kepada Games Master untuk ditentukan. Konsekuensinya bisa menakjubkan atau mengerikan, tergantung pada keadaannya.
 
 #### Keberhasilan Otomatis
 
@@ -134,7 +134,7 @@ Membawakan lagu dicakup oleh Bernyanyi, mulai dari nyanyian monoton hingga aria 
 
 #### Siluman (DEX+INT)
 
-Bersembunyi dari pandangan atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman. Penutup dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifik lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya penutup atau malam yang tenang, akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan baju besi berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka berdiri diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan baju besi mereka berdenting.
+Bersembunyi dari pandangan atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman. Penutup dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifik lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya penutup atau malam yang tenang, akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan Zirah berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka berdiri diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan Zirah mereka berdenting.
 
 #### Berenang (STR+CON)
 
@@ -144,7 +144,7 @@ Tanpa pengembangan, kemampuan berenang terbatas pada mampu meronta-ronta dan men
 
 Tanpa Senjata adalah Keterampilan Pertempuran universal yang umum bagi semua karakter, mengukur kemampuan untuk membela diri tanpa bantuan senjata. Keterampilan Tanpa Senjata mencakup teknik perkelahian dan gulat yang diketahui oleh budaya tersebut.
 
-Karena Tanpa Senjata adalah Keterampilan Pertempuran, efek Kritis dan Fumble-nya dicakup oleh aturan untuk pertempuran, sebagaimana dirinci dalam bab [Pertempuran](0008_Combat.md).
+Karena Tanpa Senjata adalah Keterampilan Pertempuran, efek Kritis dan Kegagalan Mutlak-nya dicakup oleh aturan untuk pertempuran, sebagaimana dirinci dalam bab [Pertempuran](0008_Combat.md).
 
 #### Kekuatan Kehendak (POW x2)
 
@@ -356,12 +356,12 @@ Guliran Diferensial ditentukan dengan cara berikut: Kedua peserta menggulirkan t
 
 ##### Tabel Hasil Guliran Diferensial
 
-| Hasil Guliran | Antagonis Kritis | Antagonis Berhasil | Antagonis Gagal | Antagonis Fumble |
+| Hasil Guliran | Antagonis Kritis | Antagonis Berhasil | Antagonis Gagal | Antagonis Kegagalan Mutlak |
 | :-- | :-- | :-- | :-- | :-- |
 | Protagonis Kritis | Tanpa Manfaat | Protagonis Menang 1 Tingkat Keberhasilan | Protagonis Menang 2 Tingkat Keberhasilan | Protagonis Menang 3 Tingkat Keberhasilan |
 | Protagonis Berhasil | Antagonis Menang 1 Tingkat Keberhasilan | Tanpa Manfaat | Protagonis Menang 1 Tingkat Keberhasilan | Protagonis Menang 2 Tingkat Keberhasilan |
 | Protagonis Gagal | Antagonis Menang 2 Tingkat Keberhasilan | Antagonis Menang 1 Tingkat Keberhasilan | Tanpa Manfaat | Tanpa Manfaat |
-| Protagonis Fumble | Antagonis Menang 3 Tingkat Keberhasilan | Antagonis Menang 2 Tingkat Keberhasilan | Tanpa Manfaat | Tanpa Manfaat |
+| Protagonis Kegagalan Mutlak | Antagonis Menang 3 Tingkat Keberhasilan | Antagonis Menang 2 Tingkat Keberhasilan | Tanpa Manfaat | Tanpa Manfaat |
 
 ### Keterampilan Lawan di Atas 100%
 

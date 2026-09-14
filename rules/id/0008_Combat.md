@@ -64,7 +64,7 @@ Karakter dapat mencoba menyerang dengan senjata jarak dekat atau menggunakan sen
 
 #### Siap Siaga (Brace)
 
-Karakter bersiap dengan mengambil posisi yang kokoh dan mencondongkan tubuh ke arah serangan yang akan datang. Untuk tujuan menahan Knockback atau Serangan Melompat (Leaping Attacks), SIZ karakter dianggap 50% lebih besar. Terhadap Efek Khusus Bash, SIZ menjadi dua kali lipat.
+Karakter bersiap dengan mengambil posisi yang kokoh dan mencondongkan tubuh ke arah serangan yang akan datang. Untuk tujuan menahan Knockback atau Serangan Melompat (Leaping Attacks), SIZ karakter dianggap 50% lebih besar. Terhadap Efek Khusus Dorong, SIZ menjadi dua kali lipat.
 
 #### Merapal Sihir (Cast Magic)
 
@@ -208,7 +208,7 @@ Lihat deskripsi keahlian [Atletik](0005_Skills.md?id=athletics-strdex) untuk inf
 
 Pada Keberhasilan Kritis, karakter menambahkan 5 kaki lagi ke jarak totalnya dan tetap tegak saat mendarat.
 
-Kegagalan (Fumble) menunjukkan karakter mendarat dengan canggung. Dia harus segera melakukan lemparan Daya Tahan (Endurance). Jika lemparan Daya Tahan berhasil, 1 poin kerusakan dialami pada satu kaki. Jika tes Daya Tahan Gagal, maka 1d4 poin kerusakan ditimpakan sebagai gantinya.
+Kegagalan (Kegagalan Mutlak) menunjukkan karakter mendarat dengan canggung. Dia harus segera melakukan lemparan Daya Tahan (Endurance). Jika lemparan Daya Tahan berhasil, 1 poin kerusakan dialami pada satu kaki. Jika tes Daya Tahan Gagal, maka 1d4 poin kerusakan ditimpakan sebagai gantinya.
 
 #### Berenang (Swim)
 
@@ -273,7 +273,7 @@ Jika pemain bertahan berhasil Menangkis, maka mereka dapat mengurangi kerusakan 
 
 Sebagai contoh, Menangkis kapak besar (Raksasa) dengan perisai kite (juga Raksasa) akan memblokir semua kerusakan; Menangkisnya dengan Glaive (Besar) akan mengurangi setengah kerusakan, dan Menangkisnya dengan pedang pendek (Sedang) tidak akan menghentikan kerusakan sama sekali.
 
-### Zirah (Armor)
+### Zirah (Zirah)
 
 Kerusakan apa pun yang menembus Penangkisan pemain bertahan selanjutnya dikurangi oleh Poin Zirah dari perlindungan alami (seperti sisik atau cangkang) atau zirah yang dikenakan yang mereka miliki. Jika pemain bertahan memiliki keduanya, maka keduanya menumpuk bersama untuk mengurangi kerusakan.
 
@@ -287,7 +287,7 @@ Jika penyerang meleset dari lemparan serangan awalnya, pemain bertahan masih mem
 
 Dalam situasi di mana pemain bertahan tidak dapat Menangkis karena tidak memiliki Poin Tindakan tersisa, atau, percaya diri dengan kemampuannya untuk menahan pukulan, memilih untuk tidak Menangkis, mereka dianggap telah secara otomatis melempar Kegagalan. Ini memiliki konsekuensi memberikan penyerang yang berhasil satu atau lebih Efek Khusus.
 
-### Lemparan Tidak Berhasil dan Kegagalan (Fumble)
+### Lemparan Tidak Berhasil dan Kegagalan (Kegagalan Mutlak)
 
 Jika kedua petarung Gagal dalam lemparan mereka, atau pemain bertahan memutuskan untuk tidak memanfaatkan serangan yang meleset, maka urutan Serangan / Penangkisan berakhir, dan pertarungan berlanjut ke peserta dengan Inisiatif tertinggi berikutnya.
 
@@ -312,10 +312,10 @@ Ketika dua atau lebih Efek Khusus didapatkan, petarung dapat dengan bebas mencam
 | :-- | :-: | :-: | :-- | :-: | :-: |
 | [Cedera Tak Sengaja](0008_Combat.md?id=accidental-injury) | | X | | Penyerang Gagal | |
 | [Bangkit](0008_Combat.md?id=arise) | | X | | | |
-| [Bash](0008_Combat.md?id=bash) | X | | Perisai atau Benda Tumpul | | |
+| [Dorong](0008_Combat.md?id=Dorong) | X | | Perisai atau Benda Tumpul | | |
 | [Pendarahan](0008_Combat.md?id=bleed) | X | | Senjata Pemotong | | |
 | [Butakan Lawan](0008_Combat.md?id=blind-opponent) | | X | | Bertahan Kritis | |
-| [Tembus Zirah](0008_Combat.md?id=bypass-armor) | X | | | Penyerang Kritis | X |
+| [Tembus Zirah](0008_Combat.md?id=bypass-Zirah) | X | | | Penyerang Kritis | X |
 | [Pilih Lokasi](0008_Combat.md?id=choose-location) | X | | | Lihat Deskripsi | |
 | [Hindari Penangkisan](0008_Combat.md?id=circumvent-parry) | X | | | Penyerang Kritis | |
 | [Rusak Senjata](0008_Combat.md?id=damage-weapon) | X | X | | | |
@@ -345,8 +345,8 @@ Pemain bertahan menangkis atau membelokkan serangan lawan sedemikian rupa sehing
 #### Bangkit (Arise)
 Memungkinkan pemain bertahan untuk menggunakan celah sesaat untuk kembali berdiri.
 
-#### Bash
-Penyerang dengan sengaja membentur lawan hingga kehilangan keseimbangan. Seberapa jauh pemain bertahan terhuyung ke belakang atau ke samping tergantung pada senjata yang digunakan. Perisai menjatuhkan lawan ke belakang sejauh 5 kaki untuk setiap 3 poin kerusakan yang dilempar (sebelum pengurangan apa pun karena zirah, penangkisan, dan sebagainya), sedangkan senjata tumpul menjatuhkan ke belakang 5 kaki untuk setiap 5 poin. Bash hanya bekerja pada makhluk hingga dua kali SIZ penyerang. Jika penerima terdorong mundur ke rintangan, maka mereka harus melakukan lemparan keahlian Akrobatik atau Atletik pada tingkat Sulit untuk menghindari jatuh atau tersandung.
+#### Dorong
+Penyerang dengan sengaja membentur lawan hingga kehilangan keseimbangan. Seberapa jauh pemain bertahan terhuyung ke belakang atau ke samping tergantung pada senjata yang digunakan. Perisai menjatuhkan lawan ke belakang sejauh 5 kaki untuk setiap 3 poin kerusakan yang dilempar (sebelum pengurangan apa pun karena zirah, penangkisan, dan sebagainya), sedangkan senjata tumpul menjatuhkan ke belakang 5 kaki untuk setiap 5 poin. Dorong hanya bekerja pada makhluk hingga dua kali SIZ penyerang. Jika penerima terdorong mundur ke rintangan, maka mereka harus melakukan lemparan keahlian Akrobatik atau Atletik pada tingkat Sulit untuk menghindari jatuh atau tersandung.
 
 #### Pendarahan (Bleed)
 Serangan memotong pembuluh darah utama. Jika pukulan mengatasi Poin Zirah dan melukai target, pemain bertahan harus melakukan Lemparan Lawan Daya Tahan melawan lemparan serangan asli. Jika pemain bertahan Gagal, maka mereka mulai berdarah deras. Di awal setiap Putaran Pertarungan, penerima kehilangan satu tingkat Kelelahan, sampai mereka pingsan dan mungkin mati. Luka berdarah dapat dihentikan dengan melewati lemparan keahlian Pertolongan Pertama, tetapi penerima tidak dapat lagi melakukan tindakan berat atau kekerasan tanpa membuka kembali lukanya. Lihat [Kehilangan Darah](0007_Game_System.md?id=blood-loss).
@@ -354,7 +354,7 @@ Serangan memotong pembuluh darah utama. Jika pukulan mengatasi Poin Zirah dan me
 #### Butakan Lawan (Blind Opponent)
 Pada hasil Kritis, pemain bertahan membutakan lawannya secara singkat dengan melemparkan pasir, memantulkan sinar matahari dari perisainya, atau taktik lain yang mengganggu penglihatan penyerang secara singkat. Penyerang harus melakukan Lemparan Lawan keahlian Menghindar (atau keahlian Senjata jika menggunakan perisai) melawan lemparan Menangkis asli pemain bertahan. Jika penyerang Gagal, mereka menderita penalti situasional Sulit atau Luar Biasa selama 1d3 Giliran berikutnya, tergantung pada metode membutakan.
 
-#### Tembus Zirah (Bypass Armor)
+#### Tembus Zirah (Bypass Zirah)
 Pada hasil Kritis, penyerang menemukan celah pada zirah alami atau zirah yang dikenakan pemain bertahan. Jika pemain bertahan mengenakan zirah di atas perlindungan alami, maka penyerang harus memutuskan mana dari keduanya yang ditembus. Efek ini dapat ditumpuk untuk menembus keduanya. Untuk tujuan efek ini, perlindungan fisik yang didapat dari sihir dianggap sebagai zirah yang dikenakan.
 
 #### Pilih Lokasi (Choose Location)

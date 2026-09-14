@@ -31,7 +31,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Senjata | Ukuran | Kerusakan | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
 | Kapak Pertempuran | M | 1d6+1d2 | 4/8 | Pendarahan, Membelah (Sunder) |
-| Perisai Target | L | 1d4+1d2 | 4/9 | Hantam (Bash), Menusuk, Tangkis Jarak Jauh, Blok Pasif (3) |
+| Perisai Target | L | 1d4+1d2 | 4/9 | Hantam (Dorong), Menusuk, Tangkis Jarak Jauh, Blok Pasif (3) |
 | Busur Pendek | L | 1d6+1d2 | 4/4 | Menusuk, Jarak 45'/300'/600' |
 
 #### Lokasi Hit & Zirah
@@ -616,7 +616,7 @@ Penampilan, bentuk, atau aura makhluk tersebut begitu mengerikan sehingga memaks
 
 #### Menginjak (Trample)
 
-Makhluk dapat menginjak makhluk dengan SIZ setengah atau kurang dari miliknya sendiri, menggunakan keterampilan Atletik untuk menyerang. Ini memberikan kerusakan setara dengan dua kali Modifikator Kerusakan dasar makhluk dan meningkatkan Ukuran serangan satu langkah. Bagaimana dan kapan menginjak digunakan tergantung pada keadaan. Jika tidak bergerak, makhluk dapat menginjak lawan yang rawan pada gilirannya, tetapi ini memakan Poin Aksi. Jika injakan dilakukan saat makhluk sedang bergerak atau menyerang lawan, maka injakan adalah Aksi Bebas.
+Makhluk dapat menginjak makhluk dengan SIZ setengah atau kurang dari miliknya sendiri, menggunakan keterampilan Atletik untuk menyerang. Ini memberikan kerusakan setara dengan dua kali Modifikator Kerusakan dasar makhluk dan meningkatkan Ukuran serangan satu langkah. Bagaimana dan kapan menginjak digunakan tergantung pada keadaan. Jika tidak bergerak, makhluk dapat menginjak lawan yang rawan pada gilirannya, tetapi ini memakan Poin Aksi. Jika injakan dilakukan saat makhluk sedang bergerak atau menyerang lawan, maka injakan adalah Aksi Gratis.
 
 #### Mayat Hidup (Undead)
 

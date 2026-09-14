@@ -39,17 +39,17 @@ _Classic Fantasy Imperative_ tidak memerlukan aturan beban yang mendetail jika G
 
 Setiap Benda tambahan di atas STR karakter mengurangi Bonus Inisiatif karakter sebesar 1. Setiap 6 Benda di atas STR mengurangi Laju Gerakan karakter sebesar 5 kaki. Terakhir, jika membawa lebih banyak Benda daripada STR karakter, keterampilan yang menggunakan STR atau DEX sebagai bagian dari Dasar (Base) mereka menjadi 1 tingkat lebih sulit. Jika membawa lebih dari dua kali lipat STR karakter, keterampilan tersebut menjadi 2 tingkat lebih sulit.
 
-Beban Armor: Untuk kesederhanaan, baju besi yang dikenakan tidak dihitung sebagai Benda bagi karakter yang mahir dan terbiasa dengan baju besi yang mereka pakai. Namun, bagi karakter yang tidak mahir menggunakan baju besi, atau jika membawa potongan baju besi tambahan, nilainya adalah 1 Benda per Lokasi Tubuh untuk baju besi ringan, dan 2 Benda per Lokasi Tubuh untuk baju besi berat. Jadi, satu set baju besi ringan lengkap yang dikenakan oleh seseorang tanpa pelatihan, atau dibawa oleh siapa pun, totalnya adalah 7 Benda, dan satu set baju besi berat totalnya adalah 14. Selain itu, satu set baju besi berat bahkan tidak akan muat di dalam ransel.
+Beban Zirah: Untuk kesederhanaan, Zirah yang dikenakan tidak dihitung sebagai Benda bagi karakter yang mahir dan terbiasa dengan Zirah yang mereka pakai. Namun, bagi karakter yang tidak mahir menggunakan Zirah, atau jika membawa potongan Zirah tambahan, nilainya adalah 1 Benda per Lokasi Tubuh untuk Zirah ringan, dan 2 Benda per Lokasi Tubuh untuk Zirah berat. Jadi, satu set Zirah ringan lengkap yang dikenakan oleh seseorang tanpa pelatihan, atau dibawa oleh siapa pun, totalnya adalah 7 Benda, dan satu set Zirah berat totalnya adalah 14. Selain itu, satu set Zirah berat bahkan tidak akan muat di dalam ransel.
 
-Games Master harus menggunakan akal sehat. Sudah jelas bahwa manusia terkuat sekalipun tidak bisa berkeliaran membawa delapan senjata berbeda, baju besi cadangan, perlengkapan perjalanan lengkap, satu tong bir, dan emas yang cukup untuk menebus sebuah kerajaan.
+Games Master harus menggunakan akal sehat. Sudah jelas bahwa manusia terkuat sekalipun tidak bisa berkeliaran membawa delapan senjata berbeda, Zirah cadangan, perlengkapan perjalanan lengkap, satu tong bir, dan emas yang cukup untuk menebus sebuah kerajaan.
 
 ---
 ## Peralatan
 
-Bagian ini dikhususkan untuk peralatan: baju besi, senjata, pakaian, peralatan, dan lain-lain yang diandalkan karakter saat berpetualang. Setiap peralatan dijelaskan berdasarkan satu atau beberapa elemen (beberapa lebih berlaku daripada yang lain). Elemen tersebut adalah:
+Bagian ini dikhususkan untuk peralatan: Zirah, senjata, pakaian, peralatan, dan lain-lain yang diandalkan karakter saat berpetualang. Setiap peralatan dijelaskan berdasarkan satu atau beberapa elemen (beberapa lebih berlaku daripada yang lain). Elemen tersebut adalah:
 
 - Harga (dalam GP, SP, atau CP)
-- Poin Baju Besi (Armor Points): ketahanan alami barang terhadap kerusakan
+- Poin Zirah (Zirah Points): ketahanan alami barang terhadap kerusakan
 - Poin Kesehatan (Hit Points): seberapa besar kerusakan yang dapat ditahan barang sebelum hancur atau tidak berguna.
 
 #### Harga Peralatan
@@ -58,7 +58,7 @@ Semua barang yang tercantum dalam bab ini mewakili contoh kualitas standar. Bara
 
 #### Senjata Perak
 
-Senjata logam dapat dibuat dari perak murni agar dapat melukai makhluk seperti lycanthrope. Hitung biaya senjata perak sepuluh kali lebih mahal daripada biasanya, kecuali ditentukan lain. Senjata perak memiliki 1 Poin Baju Besi lebih sedikit dan 2 Poin Kesehatan lebih sedikit. Senjata ini juga memberikan satu poin kerusakan lebih sedikit terhadap musuh yang mengenakan baju besi (jadi belati perak menimbulkan 1d4 kerusakan, bukan 1d4+1).
+Senjata logam dapat dibuat dari perak murni agar dapat melukai makhluk seperti lycanthrope. Hitung biaya senjata perak sepuluh kali lebih mahal daripada biasanya, kecuali ditentukan lain. Senjata perak memiliki 1 Poin Zirah lebih sedikit dan 2 Poin Kesehatan lebih sedikit. Senjata ini juga memberikan satu poin kerusakan lebih sedikit terhadap musuh yang mengenakan Zirah (jadi belati perak menimbulkan 1d4 kerusakan, bukan 1d4+1).
 
 ---
 ## Senjata Jarak Dekat
@@ -70,7 +70,7 @@ Semua senjata diatur oleh serangkaian Karakteristik sebagai berikut:
 - **Kerusakan:** Jumlah kerusakan yang ditimbulkan senjata jika serangan berhasil.
 - **Ukuran:** Setiap senjata dinilai berdasarkan massa, daya ungkit, dan stabilitasnya. Ukuran digunakan untuk menentukan kemampuan senjata dalam menimbulkan dan mengurangi kerusakan (lihat aturan tentang [Pengurangan Kerusakan](0008_Combat.md?id=damage-reduction)). Kategori ukuran adalah Kecil (S), Sedang (M), Besar (L), Sangat Besar (H), dan Masif (E).
 - **Efek Pertempuran:** Desain senjata memungkinkan akses ke Efek Khusus khusus senjata. Pedang, misalnya, dapat mengiris dan menusuk, sehingga diizinkan mengakses efek Menusuk (Impale) dan Pendarahan (Bleed), sedangkan gada tidak dapat menghasilkan efek tersebut tetapi dapat menimbulkan efek Melumpuhkan Lokasi (Stun Location) (lihat [Efek Khusus](0008_Combat.md?id=special-effects-1)).
-- **AP/HP:** Semua senjata dinilai berdasarkan Poin Baju Besi dan Poin Kesehatannya; kemampuannya menahan kerusakan langsung dan seberapa banyak kerusakan yang dapat ditoleransi sebelum rusak. Senjata yang mengandalkan logam untuk kemampuan kerusakannya diasumsikan terbuat dari perunggu atau besi.
+- **AP/HP:** Semua senjata dinilai berdasarkan Poin Zirah dan Poin Kesehatannya; kemampuannya menahan kerusakan langsung dan seberapa banyak kerusakan yang dapat ditoleransi sebelum rusak. Senjata yang mengandalkan logam untuk kemampuan kerusakannya diasumsikan terbuat dari perunggu atau besi.
 - **Sifat:** Beberapa senjata, karena sifatnya yang khusus, memiliki kualitas atau sifat tertentu yang membedakannya dari senjata dengan gaya serupa. Sifat-sifat umum adalah:
   - _Berduri (Barbed)_ – Jika menusuk, senjata ini akan menyebabkan kerusakan penuh (bukan setengah) saat dicabut.
   - _Menjebak (Entrapping)_ – Jika digunakan untuk menangkis (Parry) senjata yang menyerang, senjata lawan dianggap satu ukuran lebih kecil dari aslinya. Jadi, pedang Besar dianggap Sedang dan pedang Sedang dianggap Kecil. Senjata yang sudah berukuran Kecil tidak terpengaruh.
@@ -88,14 +88,14 @@ Semua senjata diatur oleh serangkaian Karakteristik sebagai berikut:
 
 | Senjata Dasar | Tangan | Kerusakan | Ukuran | Efek Pertempuran | AP/HP | Sifat | Harga |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Pentungan | 1T | 1d6 | M | Bash, Stun Location | 4/4 | — | 5 SP |
+| Pentungan | 1T | 1d6 | M | Dorong, Stun Location | 4/4 | — | 5 SP |
 | Belati\* | 1T | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3 GP |
-| Pentungan Besar\*\* | 2T | 2d6 | H | Bash, Stun Location | 4/10 | — | 5 GP |
+| Pentungan Besar\*\* | 2T | 2d6 | H | Dorong, Stun Location | 4/10 | — | 5 GP |
 | Kapak Tangan\* | 1T | 1d6 | S | Bleed | 3/6 | Thrown | 2.5 GP |
 | Tombak Panjang\*\* | 2T | 1d10+1 | L | Impale | 4/10 | Set | 3 GP |
-| Gada | 1T | 1d8 | M | Bash, Stun Location | 6/6 | — | 10 GP |
-| Gada, Berat\*\* | 2T | 1d8+2 | M | Bash, Stun Location | 6/10 | — | 20 GP |
-| Bintang Pagi (Morning star) | 1T | 2d4 | M | Bash, Stun Location | 4/10 | — | 15 GP |
+| Gada | 1T | 1d8 | M | Dorong, Stun Location | 6/6 | — | 10 GP |
+| Gada, Berat\*\* | 2T | 1d8+2 | M | Dorong, Stun Location | 6/10 | — | 20 GP |
+| Bintang Pagi (Morning star) | 1T | 2d4 | M | Dorong, Stun Location | 4/10 | — | 15 GP |
 | Tongkat (Quarterstaff)\*\* | 2T | 1d8 | M | Stun Location | 4/8 | — | 2 GP |
 | Tombak Pendek | 1T | 1d8+1 | M | Impale | 4/5 | Throw, Set | 2 GP |
 | Sabit | 1T | 1d6 | M | Bleed, Impale | 3/8 | — | 7 GP |
@@ -108,18 +108,18 @@ _\*\* Dihitung sebagai 2 'Benda' terkait beban (ENC)_
 
 | Senjata | Tangan | Kerusakan | Ukuran | Efek Pertempuran | AP/HP | Sifat | Harga |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Bola & Rantai | 1T | 1d6+1 | M | Bash, Entangle, Stun Location | 6/8 | Flexible | 25 GP |
+| Bola & Rantai | 1T | 1d6+1 | M | Dorong, Entangle, Stun Location | 6/8 | Flexible | 25 GP |
 | Pedang Bastard | 1T / 2T | 1d8 / 1d10 | M / L | Bleed, Impale, +Sunder (2T) | 6/12 | — | 25 GP |
 | Kapak Perang | 1T / 2T | 1d6+1 / 1d8+1 | M / L | Bleed, Sunder | 4/8 | — | 10 GP |
 | Pedang Lebar | 1T | 1d8 | M | Bleed, Impale | 6/10 | — | 18 GP |
-| Rantai | 1T | 1d4 | M | Bash, Entangle | 8/6 | — | 1 GP |
+| Rantai | 1T | 1d4 | M | Dorong, Entangle | 8/6 | — | 1 GP |
 | Falchion | 1T | 1d6+2 | M | Bleed | 6/10 | — | 20 GP |
-| Cambuk (Flail) | 1T | 1d6 | M | Bash | 3/6 | Flexible | 2.5 GP |
-| Cambuk Berat\*\* | 2T | 1d10 | L | Bash, Stun Location | 4/10 | Flexible | 25 GP |
+| Cambuk (Flail) | 1T | 1d6 | M | Dorong | 3/6 | Flexible | 2.5 GP |
+| Cambuk Berat\*\* | 2T | 1d10 | L | Dorong, Stun Location | 4/10 | Flexible | 25 GP |
 | Garotte\* | 2T | 1d2 | S | — | 1/2 | Stealth | 1.5 GP |
 | Glaive\*\* | 2T | 1d10+2 | L | Bleed, Sunder | 4/10 | — | 25 GP |
 | Kapak Besar\*\* | 2T | 2d6+2 | H | Bleed, Sunder | 4/10 | — | 15 GP |
-| Palu Besar\*\* | 2T | 1d10+3 | H | Bash, Stun Location, Sunder | 4/10 | — | 25 GP |
+| Palu Besar\*\* | 2T | 1d10+3 | H | Dorong, Stun Location, Sunder | 4/10 | — | 25 GP |
 | Pedang Besar\*\* | 2T | 2d8 | H | Bleed, Impale, Sunder | 6/12 | — | 30 GP |
 | Halberd/Poleaxe\*\* | 2T | 1d8+2 | L | Entangle, Impale, Sunder | 4/10 | Set | 20 GP |
 | Pisau\* | 1T | 1d3 | S | Bleed, Impale | 5/4 | — | 1 GP |
@@ -148,12 +148,12 @@ _\*\*\* Cambuk biasanya tidak dapat digunakan untuk menangkis. Namun, jika sedan
 
 | Perisai | Kerusakan | Ukuran | Efek Pertempuran | AP/HP | Sifat | Harga |
 | :-- | :-: | :-: | :-- | :-: | :-- | :-: |
-| Buckler | 1d3 | M | Bash, Stun Location | 6/9 | Ranged Parry; Passive Block 2 lokasi | 5 GP |
-| Heater\* | 1d4 | L | Bash, Stun Location | 6/12 | Ranged Parry; Passive Block 3 lokasi | 15 GP |
-| Kite\* | 1d4 | H | Bash, Stun Location | 4/15 | Ranged Parry; Passive Block 4 lokasi | 30 GP |
-| Bulat\* | 1d4 | L | Bash, Stun Location | 4/12 | Ranged Parry; Passive Block 4 lokasi | 30 GP |
-| Target\* | 1d3+1 | L | Bash, Impale | 4/9 | Ranged Parry; Passive Block 3 lokasi | 15 GP |
-| Menara\* | 1d4 | H | Bash, Stun Location | 4/18 | Ranged Parry; Passive Block 5 lokasi | 30 GP |
+| Buckler | 1d3 | M | Dorong, Stun Location | 6/9 | Ranged Parry; Passive Block 2 lokasi | 5 GP |
+| Heater\* | 1d4 | L | Dorong, Stun Location | 6/12 | Ranged Parry; Passive Block 3 lokasi | 15 GP |
+| Kite\* | 1d4 | H | Dorong, Stun Location | 4/15 | Ranged Parry; Passive Block 4 lokasi | 30 GP |
+| Bulat\* | 1d4 | L | Dorong, Stun Location | 4/12 | Ranged Parry; Passive Block 4 lokasi | 30 GP |
+| Target\* | 1d3+1 | L | Dorong, Impale | 4/9 | Ranged Parry; Passive Block 3 lokasi | 15 GP |
+| Menara\* | 1d4 | H | Dorong, Stun Location | 4/18 | Ranged Parry; Passive Block 5 lokasi | 30 GP |
 
 _\* Dihitung sebagai 2 'Benda' terkait beban (ENC)_
 
@@ -174,7 +174,7 @@ Senjata jarak jauh memiliki karakteristik yang mirip dengan senjata jarak dekat,
 - **Muat (Load):** Ini menunjukkan berapa banyak Giliran yang diperlukan untuk memuat atau memuat ulang senjata yang menembakkan amunisi.
 - **Efek Pertempuran:** Sesuai senjata Jarak Dekat.
 - **Ukuran Menusuk (Imp. Size):** Ukuran efektif senjata atau amunisinya jika berhasil melakukan serangan Menusuk (Impaling).
-- **AP/HP:** Semua senjata dinilai berdasarkan Poin Baju Besi dan Poin Kesehatannya.
+- **AP/HP:** Semua senjata dinilai berdasarkan Poin Zirah dan Poin Kesehatannya.
 - **Sifat:** Beberapa senjata memiliki kualitas atau sifat tertentu.
   - **1T** – Senjata ini dapat ditembakkan dengan satu tangan, memungkinkan senjata jarak dekat atau perisai dibawa di tangan lainnya.
   - **Kurcaci (Dwarf)** – Senjata ini hanya umum di masyarakat kurcaci.
@@ -229,28 +229,28 @@ Senjata seperti busur dan busur silang menggunakan amunisi untuk memberikan keru
 | Batu Ketapel | Batu mudah diperoleh; namun cenderung memberikan satu tingkat kerusakan lebih sedikit dan memiliki jangkauan lebih pendek dibandingkan peluru. Kategori jangkauan dikurangi setengahnya | — |
 
 ---
-## Baju Besi
+## Zirah
 
-Baju besi mengurangi jumlah kerusakan yang diterima Lokasi Tubuh berdasarkan nilai Poin Baju Besinya. Misalnya, Ring Mail memiliki 3 Poin Baju Besi sehingga mengurangi kerusakan dengan jumlah yang sama. Serangan belati untuk 3 poin kerusakan akan sepenuhnya diblokir, misalnya. Sisi negatif dari baju besi adalah bisa berat dan membatasi gerakan; bertarung dalam jangka waktu lama dengan baju besi logam akan memakan biaya dalam hal Kelelahan (Fatigue) dan memperlambat kemampuan untuk bereaksi.
+Zirah mengurangi jumlah kerusakan yang diterima Lokasi Tubuh berdasarkan nilai Poin Baju Besinya. Misalnya, Ring Mail memiliki 3 Poin Zirah sehingga mengurangi kerusakan dengan jumlah yang sama. Serangan belati untuk 3 poin kerusakan akan sepenuhnya diblokir, misalnya. Sisi negatif dari Zirah adalah bisa berat dan membatasi gerakan; bertarung dalam jangka waktu lama dengan Zirah logam akan memakan biaya dalam hal Kelelahan (Kelelahan) dan memperlambat kemampuan untuk bereaksi.
 
-Tidak peduli dari bahan apa baju besi dibuat, ia tidak dapat dilapis dengan jenis lain – konsep tersebut sudah dimasukkan sebagai bagian dari konstruksinya. Baju besi diasumsikan dilengkapi dengan pelapis atau bantalan apa pun yang biasanya diharapkan sebagai bagian dari perlengkapan lengkap.
+Tidak peduli dari bahan apa Zirah dibuat, ia tidak dapat dilapis dengan jenis lain – konsep tersebut sudah dimasukkan sebagai bagian dari konstruksinya. Zirah diasumsikan dilengkapi dengan pelapis atau bantalan apa pun yang biasanya diharapkan sebagai bagian dari perlengkapan lengkap.
 
-Setiap jenis baju besi didefinisikan oleh kualitas berikut:
+Setiap jenis Zirah didefinisikan oleh kualitas berikut:
 
-- **AP:** Jumlah Poin Baju Besi yang diberikan ke setiap lokasi yang ditutupi oleh baju besi ini.
+- **AP:** Jumlah Poin Zirah yang diberikan ke setiap lokasi yang ditutupi oleh Zirah ini.
 - **Harga:** Biaya, dalam keping Emas, per lokasi yang ditutupi.
-- **Beban:** Baju besi yang dikenakan tidak dihitung sebagai 'Benda' bagi karakter yang mahir dan terbiasa dengan baju besi yang mereka pakai. Namun, bagi karakter yang tidak mahir, atau dalam kasus potongan baju besi tambahan yang dibawa, nilainya adalah 1 'Benda' per Lokasi Tubuh untuk baju besi ringan, dan 2 'Benda' per Lokasi Tubuh untuk baju besi berat. Jadi, satu set baju besi ringan lengkap totalnya 7 'Benda', dan satu set baju besi berat totalnya 14.
+- **Beban:** Zirah yang dikenakan tidak dihitung sebagai 'Benda' bagi karakter yang mahir dan terbiasa dengan Zirah yang mereka pakai. Namun, bagi karakter yang tidak mahir, atau dalam kasus potongan Zirah tambahan yang dibawa, nilainya adalah 1 'Benda' per Lokasi Tubuh untuk Zirah ringan, dan 2 'Benda' per Lokasi Tubuh untuk Zirah berat. Jadi, satu set Zirah ringan lengkap totalnya 7 'Benda', dan satu set Zirah berat totalnya 14.
 
-### Tabel Baju Besi
+### Tabel Zirah
 
-| Baju Besi Ringan | AP | Harga GP per Lokasi |
+| Zirah Ringan | AP | Harga GP per Lokasi |
 | :-- | :-: | :-: |
 | Bulu atau Kulit Binatang | 1 | 2 |
 | Kulit, Empuk, atau Berlapis | 2 | 3 |
 | Kulit Paku atau Ring Mail | 3 | 10 |
 | Brigandine, Sisik, atau Laminasi | 4 | 30 |
 
-| Baju Besi Berat | AP | Harga GP per Lokasi |
+| Zirah Berat | AP | Harga GP per Lokasi |
 | :-- | :-: | :-: |
 | Chain Mail | 5 | 40 |
 | Splint Mail atau Banded Mail | 6 | 60 |
@@ -273,7 +273,7 @@ Setiap kota, serta sebagian besar kota besar, akan memiliki setidaknya satu toko
 | Ramuan Vigor | 80% peluang 1d4+2 | Memulihkan 1d3+1 tingkat Kelelahan. Tidak berpengaruh pada Kelelahan yang diperoleh melalui Kehilangan Darah atau Pengurasan Energi. | 50 GP |
 | Gulungan Mantra Peringkat 0 | 100% peluang 1d4+1 dari masing-masing | Gulungan berisi mantra Arcane atau Divine Peringkat 0. Semua mantra Peringkat 0 biasanya tersedia. | 10 GP |
 | Gulungan Mantra Peringkat 1 | 100% peluang 1d3 dari masing-masing | Gulungan berisi mantra Arcane atau Divine Peringkat 1. Semua mantra Peringkat 1 biasanya tersedia. | 40 GP |
-| Botol Air Suci | 100% peluang 1d4 | Dapat dilempar hingga 10 kaki. Undead, iblis, devil, dan entitas kejahatan murni lainnya, menerima 1d2 poin kerusakan pada 1d3 Lokasi Tubuh dengan lemparan Atletik Mudah. Air Suci akan terbakar selama 1d2 Ronde. Baju besi akan melindungi dari kerusakan ini. | 25 GP |
+| Botol Air Suci | 100% peluang 1d4 | Dapat dilempar hingga 10 kaki. Undead, iblis, devil, dan entitas kejahatan murni lainnya, menerima 1d2 poin kerusakan pada 1d3 Lokasi Tubuh dengan lemparan Atletik Mudah. Air Suci akan terbakar selama 1d2 Ronde. Zirah akan melindungi dari kerusakan ini. | 25 GP |
 
 ---
 ## Alat
@@ -313,10 +313,10 @@ Alat mencakup semua barang yang diharapkan dimiliki oleh setiap petualang yang m
 | Tali, Rami (30 kaki) | Menahan maksimum 20 SIZ/60 Benda. | 1 GP |
 | Karung, Besar | Dihitung sebagai 2 Benda. Menampung hingga 10 Benda tanpa berat tambahan (tergantung ukuran dan jenisnya). | 5 CP |
 | Karung, Kecil | Menampung hingga 3 Benda tanpa berat tambahan (tergantung ukuran dan jenisnya). | 2 CP |
-| Tas Selempang | Menampung hingga 6 Benda tanpa berat tambahan. Karena tali bahu, dapat dengan mudah dibuang dengan Aksi Bebas. | 3 SP |
+| Tas Selempang | Menampung hingga 6 Benda tanpa berat tambahan. Karena tali bahu, dapat dengan mudah dibuang dengan Aksi Gratis. | 3 SP |
 | Buku Mantra, Kosong | Per 100 halaman yang disiapkan secara khusus. | 15 GP |
 | Kantong Komponen Mantra | Komponen umum untuk merapalkan mantra. Setiap kantong menampung bahan yang cukup untuk memfasilitasi perapalan mantra selama satu petualangan atau satu bulan berpetualang. | 20 SP |
-| Paku, Besi (10) | Berguna untuk membuat pegangan tangan guna membantu memanjat, mengamankan pintu, dan berbagai fungsi lainnya. Paku besi dapat digunakan sebagai belati darurat dalam pertempuran dengan 1 tingkat kesulitan dan +2 Poin Baju Besi dan Poin Kesehatan. | 1 GP |
+| Paku, Besi (10) | Berguna untuk membuat pegangan tangan guna membantu memanjat, mengamankan pintu, dan berbagai fungsi lainnya. Paku besi dapat digunakan sebagai belati darurat dalam pertempuran dengan 1 tingkat kesulitan dan +2 Poin Zirah dan Poin Kesehatan. | 1 GP |
 | Obor, 1 jam (2) | Radius 10 kaki. Dianggap sebagai pentungan yang memberikan tambahan 1d4 kerusakan api dalam pertempuran, memiliki peluang 10% untuk padam jika dijatuhkan, peluang 60% jika dilempar. | 8 CP |
 | Obor, 6 jam (2) | Seperti di atas, Durasi lebih lama. | 4 SP |
 | Jatah Perjalanan (1 minggu) | Jatah perjalanan terdiri dari makanan yang diawetkan untuk jangka panjang, seperti daging kering dan asin, keju, roti (biasanya roti pipih tidak beragi untuk kemudahan transportasi) dan sereal, baik kacang-kacangan atau biji-bijian. | 7 SP |

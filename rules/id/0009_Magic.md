@@ -164,7 +164,7 @@ Setelah biaya akhir diketahui, lemparan Perapalan Mantra dibuat:
 - **Kritis:** Mantra bekerja dan hanya setengah dari biaya Poin Sihir yang dikeluarkan. Mantra dengan biaya 1 dapat dirapalkan secara gratis. Setiap lemparan EXP yang diperlukan juga dibelah dua, dengan minimum satu dalam kedua kasus.
 - **Sukses:** Mantra bekerja, dan biaya Poin Sihir penuh serta setiap lemparan EXP yang diperlukan dikeluarkan.
 - **Gagal:** Mantra gagal, tetapi tidak ada Poin Sihir yang dikeluarkan, begitu pula Lemparan Pengalaman. Namun, secara opsional, perapal dapat memaksa mantra tersebut. Mantra yang dipaksakan diperlakukan sebagai Sukses di atas terkait pengeluaran Poin Sihir dan tingkat keberhasilan. Memaksa mantra memiliki efek samping yang tidak menguntungkan yaitu menghapusnya dari ingatan perapal, yang berarti harus dihafal lagi sebelum dapat dirapalkan kembali.
-- **Fumble:** Mantra gagal, dan setengah dari biaya Poin Sihir dikeluarkan; namun, semua Lemparan Pengalaman dipertahankan. Selain itu, mantra yang diinginkan dihapus dari ingatan perapal. Mantra tersebut dapat dihafal kembali nanti.
+- **Kegagalan Mutlak:** Mantra gagal, dan setengah dari biaya Poin Sihir dikeluarkan; namun, semua Lemparan Pengalaman dipertahankan. Selain itu, mantra yang diinginkan dihapus dari ingatan perapal. Mantra tersebut dapat dihafal kembali nanti.
 
 ### EXP Maksimum pada Mantra
 
@@ -388,7 +388,7 @@ Sebagai contoh, ilusi sekelompok kobold penyerang yang menyebabkan sekelompok pe
 
 Karakter yang "terbunuh" oleh ilusi roboh seolah mati. Games Master harus melakukan lemparan Tekad untuk korban, yang efeknya adalah sebagai berikut:
 
-- **Fumble:** Karakter mati karena syok sistem akibat trauma ilusi
+- **Kegagalan Mutlak:** Karakter mati karena syok sistem akibat trauma ilusi
 - **Gagal:** Karakter terbangun tanpa cedera setelah 1d6 menit
 - **Sukses:** Karakter terbangun tanpa cedera dalam 1d6 Babak
 - **Kritis:** Karakter melawan hilangnya kesadaran dan dapat segera mencoba Tidak Percaya
@@ -418,7 +418,7 @@ Gulungan adalah alat yang berguna yang memungkinkan perapal penyimpanan mantra t
   - **Gulungan Perlindungan Pengguna Sihir:** Iblis, Elemen, Lycanthropes (manusia serigala), Sihir, Pengerasan.
 - **Gulungan Mantra:** Setiap gulungan mantra dapat berisi satu mantra pengguna sihir atau pendeta, terlepas dari Pangkat, dan masing-masing mengikuti prosedur yang sama dengan merapalkannya secara normal terkait Waktu Perapalan. Namun, merapalkan mantra dari gulungan tidak memerlukan pengeluaran Poin Sihir; harga ini telah dibayar di muka oleh pembuat asli gulungan tersebut.
 
-Perapal dapat secara otomatis merapalkan mantra apa pun dari gulungan, dengan asumsi mereka berasal dari Kelas yang sesuai dan mereka sendiri memiliki Pangkat yang cukup untuk merapalkan mantra tersebut. Jika mereka mengetahui mantra yang dimaksud, tidak diperlukan lemparan keterampilan. Ini menyebabkan mantra menghilang dari gulungan saat sihir dikonsumsi dalam perapalan mantra tersebut. Perapal mantra juga dapat mencoba merapalkan mantra dengan Pangkat yang lebih tinggi, tetapi ini memerlukan lemparan sukses Perapalan Arcane atau Penyaluran Divine sebagaimana mestinya. Kegagalan berarti mantra tidak dirapalkan dan telah dihapus dari gulungan. Pada Fumble, mantra telah salah dirapalkan. Ini biasanya mengakibatkan mantra memengaruhi pembaca dan/atau satu atau lebih sekutu atau memiliki efek sebaliknya dari yang diinginkan.
+Perapal dapat secara otomatis merapalkan mantra apa pun dari gulungan, dengan asumsi mereka berasal dari Kelas yang sesuai dan mereka sendiri memiliki Pangkat yang cukup untuk merapalkan mantra tersebut. Jika mereka mengetahui mantra yang dimaksud, tidak diperlukan lemparan keterampilan. Ini menyebabkan mantra menghilang dari gulungan saat sihir dikonsumsi dalam perapalan mantra tersebut. Perapal mantra juga dapat mencoba merapalkan mantra dengan Pangkat yang lebih tinggi, tetapi ini memerlukan lemparan sukses Perapalan Arcane atau Penyaluran Divine sebagaimana mestinya. Kegagalan berarti mantra tidak dirapalkan dan telah dihapus dari gulungan. Pada Kegagalan Mutlak, mantra telah salah dirapalkan. Ini biasanya mengakibatkan mantra memengaruhi pembaca dan/atau satu atau lebih sekutu atau memiliki efek sebaliknya dari yang diinginkan.
 
 Kesulitan yang diterapkan pada lemparan keterampilan bergantung pada perbedaan antara Pangkat perapal dan Pangkat mantra dan dirinci dalam tabel berikut:
 

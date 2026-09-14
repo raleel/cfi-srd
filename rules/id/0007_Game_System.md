@@ -40,13 +40,13 @@ Karakter dapat menahan napas selama sejumlah detik yang setara dengan keahlian E
 Setelah periode menahan napas berakhir, karakter harus melakukan lemparan Endurance:
 
 - Jika lemparan adalah Keberhasilan Kritis, tidak ada kerusakan lebih lanjut yang terjadi.
-- Jika lemparan Berhasil, karakter memperoleh satu tingkat Fatigue tambahan.
-- Jika lemparan Gagal, karakter menderita 1d2 tingkat Fatigue tambahan pada Ronde tersebut.
-- Jika lemparan Fumbled, karakter menderita 1d3 tingkat Fatigue tambahan pada Ronde tersebut.
+- Jika lemparan Berhasil, karakter memperoleh satu tingkat Kelelahan tambahan.
+- Jika lemparan Gagal, karakter menderita 1d2 tingkat Kelelahan tambahan pada Ronde tersebut.
+- Jika lemparan Fumbled, karakter menderita 1d3 tingkat Kelelahan tambahan pada Ronde tersebut.
 
-Tanpa bantuan, kematian akibat Asfiksia biasanya berlangsung cepat. Jika Asfiksia berakhir sebelum karakter mati, mereka memulihkan tingkat Fatigue yang hilang akibat mati lemas dengan relatif cepat, memulihkan satu tingkat per menit.
+Tanpa bantuan, kematian akibat Asfiksia biasanya berlangsung cepat. Jika Asfiksia berakhir sebelum karakter mati, mereka memulihkan tingkat Kelelahan yang hilang akibat mati lemas dengan relatif cepat, memulihkan satu tingkat per menit.
 
-Tergantung pada metode Asfiksia, Games Master mungkin ingin mencegah pemulihan penuh, dengan memaksakan tingkat Fatigue yang bertahan lama untuk mewakili kerusakan pada paru-paru yang disebabkan oleh inhalasi asap atau air.
+Tergantung pada metode Asfiksia, Games Master mungkin ingin mencegah pemulihan penuh, dengan memaksakan tingkat Kelelahan yang bertahan lama untuk mewakili kerusakan pada paru-paru yang disebabkan oleh inhalasi asap atau air.
 
 ---
 ## Peningkatan Karakter
@@ -73,7 +73,7 @@ Setiap keahlian pada Lembar Karakter, Standar atau Profesional, dapat ditingkatk
 - Pemain melempar 1d100 dan membandingkannya dengan keahlian yang sedang ditingkatkan. INT karakter ditambahkan ke lemparan.
 - Jika angka yang dilempar **sama dengan atau lebih besar** dari keahlian yang ditingkatkan, keahlian tersebut meningkat sebesar 1d4+1%.
 - Jika angka yang dilempar **kurang dari** keahlian yang dipilih, keahlian tersebut tetap meningkat, tetapi hanya sebesar 1%.
-- Jika karakter melakukan Fumble pada keahlian apa pun selama sesi sebelumnya – yaitu, di antara rangkaian Lemparan Pengalaman terakhir dan yang sekarang – keahlian yang terkena Fumble tersebut mendapatkan peningkatan gratis sebesar 1%. Adalah kebenaran umum bahwa kita belajar lebih banyak dari kesalahan kita daripada keberhasilan kita, dan ini mewakili refleksi yang dialami karakter setelah kegagalan yang membawa bencana. Beberapa Fumble pada keahlian yang sama tidak bertumpuk. Dalam kasus di mana keahlian yang terkena Fumble juga dinaikkan dengan Lemparan Pengalaman, 1% dari Fumble diterapkan sebelum lemparan dibuat untuk meningkatkannya.
+- Jika karakter melakukan Kegagalan Mutlak pada keahlian apa pun selama sesi sebelumnya – yaitu, di antara rangkaian Lemparan Pengalaman terakhir dan yang sekarang – keahlian yang terkena Kegagalan Mutlak tersebut mendapatkan peningkatan gratis sebesar 1%. Adalah kebenaran umum bahwa kita belajar lebih banyak dari kesalahan kita daripada keberhasilan kita, dan ini mewakili refleksi yang dialami karakter setelah kegagalan yang membawa bencana. Beberapa Kegagalan Mutlak pada keahlian yang sama tidak bertumpuk. Dalam kasus di mana keahlian yang terkena Kegagalan Mutlak juga dinaikkan dengan Lemparan Pengalaman, 1% dari Kegagalan Mutlak diterapkan sebelum lemparan dibuat untuk meningkatkannya.
 
 Keahlian yang sama tidak boleh mendapatkan manfaat dari lebih dari satu Lemparan Pengalaman per sesi.
 
@@ -96,7 +96,7 @@ Dengan asumsi karakter memenuhi Peringkat dan tingkat keahlian yang diperlukan, 
 ---
 ## Jatuh
 
-Jumlah kerusakan yang diderita saat jatuh bergantung pada jarak jatuh. Poin Armor tidak mengurangi kerusakan jatuh, tetapi Pengubah Kerusakan dari karakter atau makhluk yang jatuh berlaku untuk lemparan kerusakan.
+Jumlah kerusakan yang diderita saat jatuh bergantung pada jarak jatuh. Poin Zirah tidak mengurangi kerusakan jatuh, tetapi Pengubah Kerusakan dari karakter atau makhluk yang jatuh berlaku untuk lemparan kerusakan.
 
 ##### Tabel Jarak Jatuh
 
@@ -114,27 +114,27 @@ Jumlah kerusakan yang diderita saat jatuh bergantung pada jarak jatuh. Poin Armo
 Benda yang jatuh memberikan sejumlah kerusakan berdasarkan SIZ-nya dan jarak jatuh. Sebuah benda memberikan 1d6 kerusakan untuk setiap 6 poin SIZ (atau pecahannya), ditambah jumlah kerusakan yang setara dengan kolom Kerusakan yang Diterima dari Tabel Jarak Jatuh – termasuk pengurangan apa pun untuk benda yang berukuran lebih kecil.
 
 ---
-## Fatigue
+## Kelelahan
 
-Fatigue mengukur kelelahan dan efek inkrementalnya. Ini digunakan untuk melacak banyak hal yang berbeda, mulai dari aktivitas berat hingga efek penyakit yang melemahkan.
+Kelelahan mengukur kelelahan dan efek inkrementalnya. Ini digunakan untuk melacak banyak hal yang berbeda, mulai dari aktivitas berat hingga efek penyakit yang melemahkan.
 
-Cara utama untuk mengakumulasi Fatigue adalah dengan melakukan beberapa bentuk aktivitas fisik. Semakin berat latihan atau pekerjaan, semakin cepat karakter lelah. Atas kebijakan Games Master, karakter harus melakukan lemparan keahlian yang sesuai – baik Athletics, Brawn, atau Endurance – untuk menahan perolehan tingkat Fatigue.
+Cara utama untuk mengakumulasi Kelelahan adalah dengan melakukan beberapa bentuk aktivitas fisik. Semakin berat latihan atau pekerjaan, semakin cepat karakter lelah. Atas kebijakan Games Master, karakter harus melakukan lemparan keahlian yang sesuai – baik Athletics, Brawn, atau Endurance – untuk menahan perolehan tingkat Kelelahan.
 
-Setiap lemparan yang Gagal mengakumulasi satu tingkat Fatigue. Seperti yang ditunjukkan pada [Tabel Tingkat Fatigue](0007_Game_System.md?id=fatigue-levels-table), setiap tingkat Fatigue membawa penalti untuk penggunaan keahlian, pergerakan, Inisiatif, dan Poin Aksi. Asfiksia, Kehilangan Darah, dan efek lain yang bergantung pada pengaturan juga berkontribusi pada akumulasi Fatigue.
+Setiap lemparan yang Gagal mengakumulasi satu tingkat Kelelahan. Seperti yang ditunjukkan pada [Tabel Tingkat Kelelahan](0007_Game_System.md?id=Kelelahan-levels-table), setiap tingkat Kelelahan membawa penalti untuk penggunaan keahlian, pergerakan, Inisiatif, dan Poin Aksi. Asfiksia, Kehilangan Darah, dan efek lain yang bergantung pada pengaturan juga berkontribusi pada akumulasi Kelelahan.
 
 Bagi sebagian besar karakter, aktivitas dalam bentuk apa pun menjadi hampir mustahil ketika tingkat Incapacitated tercapai. Pada tahap ini, karakter masih sadar tetapi tidak mampu melakukan apa pun kecuali aktivitas yang paling mendesak.
 
-Di luar Incapacitated, karakter tidak dapat bertindak sama sekali. Tingkat Fatigue – Semi-Conscious, Comatose, dan Dead – umumnya dicadangkan untuk mengukur efek paling ekstrem dari mati lemas, penyakit, kehilangan darah, kelaparan, paparan, dan sebagainya.
+Di luar Incapacitated, karakter tidak dapat bertindak sama sekali. Tingkat Kelelahan – Semi-Conscious, Comatose, dan Dead – umumnya dicadangkan untuk mengukur efek paling ekstrem dari mati lemas, penyakit, kehilangan darah, kelaparan, paparan, dan sebagainya.
 
-### Pulih dari Fatigue
+### Pulih dari Kelelahan
 
-Karakter pulih dari Fatigue tergantung pada Tingkat Penyembuhan (Healing Rate) mereka. Jumlah istirahat lengkap yang diperlukan untuk pulih dari setiap tingkat Fatigue yang terakumulasi setara dengan Periode Pemulihan dibagi dengan Tingkat Penyembuhan karakter.
+Karakter pulih dari Kelelahan tergantung pada Tingkat Penyembuhan (Healing Rate) mereka. Jumlah istirahat lengkap yang diperlukan untuk pulih dari setiap tingkat Kelelahan yang terakumulasi setara dengan Periode Pemulihan dibagi dengan Tingkat Penyembuhan karakter.
 
-Perhatikan bahwa tabel tersebut mewakili pemulihan Fatigue karena aktivitas fisik. Pemulihan Fatigue bisa jauh lebih cepat saat pulih dari [Asfiksia](0007_Game_System.md?id=asphyxiation) atau lebih lambat jika memulihkan diri dari [Kehilangan Darah](0007_Game_System.md?id=blood-loss).
+Perhatikan bahwa tabel tersebut mewakili pemulihan Kelelahan karena aktivitas fisik. Pemulihan Kelelahan bisa jauh lebih cepat saat pulih dari [Asfiksia](0007_Game_System.md?id=asphyxiation) atau lebih lambat jika memulihkan diri dari [Kehilangan Darah](0007_Game_System.md?id=blood-loss).
 
-### Tabel Tingkat Fatigue
+### Tabel Tingkat Kelelahan
 
-| **Tingkat Fatigue** | **Tingkat Keahlian** | **Pergerakan** | **Inisiatif** | **Poin Aksi** | **Periode Pemulihan** |
+| **Tingkat Kelelahan** | **Tingkat Keahlian** | **Pergerakan** | **Inisiatif** | **Poin Aksi** | **Periode Pemulihan** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Segar | – | – | Tanpa Penalti | – | – |
 | Terengah-engah | Sulit | Tanpa Penalti | Tanpa Penalti | Tanpa Penalti | 15 menit |
@@ -150,7 +150,7 @@ Perhatikan bahwa tabel tersebut mewakili pemulihan Fatigue karena aktivitas fisi
 ---
 ## Api
 
-Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk di luar kendali. [Tabel Intensitas Api](0007_Game_System.md?id=fire-intensity-table) di bawah ini memberikan lima intensitas berbeda untuk kerusakan panas, dengan beberapa contoh. Kerusakan yang ditimbulkan per Ronde diberikan dalam kolom Kerusakan. Karena relatif kecil, sumber Intensitas 1 dan 2 menerapkan kerusakannya ke satu Lokasi Sasaran, biasanya yang menyentuh sumbernya. Sumber Intensitas 3 dan 4 lebih besar, menerapkan kerusakan ke 1d4+1 Lokasi Sasaran terdekat, yang menunjukkan tingkat panas radiasi. Sumber Intensitas 5 memengaruhi semua Lokasi Sasaran secara bersamaan. Api dapat menyalakan bahan yang mudah terbakar. Jika tidak segera dipadamkan, bahan tersebut terbakar dalam sejumlah Ronde seperti yang ditunjukkan oleh Intensitas api. Setelah terbakar, bahan yang mudah terbakar akan terbakar sampai dipadamkan secara fisik. Kerusakan diterapkan langsung ke Poin Hit bahan tersebut, mengabaikan Poin Armor, dan ke daging apa pun di bawahnya. Jika dibiarkan tidak terkendali, api menyebar ke sejumlah Lokasi Sasaran, per Ronde, setara dengan Intensitasnya.
+Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk di luar kendali. [Tabel Intensitas Api](0007_Game_System.md?id=fire-intensity-table) di bawah ini memberikan lima intensitas berbeda untuk kerusakan panas, dengan beberapa contoh. Kerusakan yang ditimbulkan per Ronde diberikan dalam kolom Kerusakan. Karena relatif kecil, sumber Intensitas 1 dan 2 menerapkan kerusakannya ke satu Lokasi Sasaran, biasanya yang menyentuh sumbernya. Sumber Intensitas 3 dan 4 lebih besar, menerapkan kerusakan ke 1d4+1 Lokasi Sasaran terdekat, yang menunjukkan tingkat panas radiasi. Sumber Intensitas 5 memengaruhi semua Lokasi Sasaran secara bersamaan. Api dapat menyalakan bahan yang mudah terbakar. Jika tidak segera dipadamkan, bahan tersebut terbakar dalam sejumlah Ronde seperti yang ditunjukkan oleh Intensitas api. Setelah terbakar, bahan yang mudah terbakar akan terbakar sampai dipadamkan secara fisik. Kerusakan diterapkan langsung ke Poin Hit bahan tersebut, mengabaikan Poin Zirah, dan ke daging apa pun di bawahnya. Jika dibiarkan tidak terkendali, api menyebar ke sejumlah Lokasi Sasaran, per Ronde, setara dengan Intensitasnya.
 
 ##### Tabel Intensitas Api
 
@@ -164,7 +164,7 @@ Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk 
 
 #### Serangan Berbasis Api
  
-Serangan berbasis api biasanya memiliki peluang persentase untuk menyalakan bahan yang mudah terbakar karena biasanya serangan ini berakhir dalam satu Ronde. Kecuali dinyatakan lain, peluang ini adalah kerusakan yang dilempar x5% untuk serangan berbasis api, dan kerusakan yang dilempar x1% untuk listrik. Setelah terbakar, bahan yang mudah terbakar akan membakar untuk 1d3-1 kerusakan setiap Ronde sampai dipadamkan secara fisik. Terapkan kerusakan ini langsung ke Poin Hit bahan tersebut, mengabaikan Poin Armor, dan ke daging apa pun di bawahnya. Namun, armor alami makhluk menawarkan perlindungan normalnya. Korban dapat mencoba memadamkan api dengan menjatuhkan diri dalam posisi telungkup (prone) dan melakukan lemparan Athletics yang berhasil, yang memerlukan Poin Aksi dan dapat dicoba setiap Giliran. Jika orang lain membantu memadamkan api dengan cara tertentu, lemparan tersebut satu Tingkat Kesulitan lebih mudah. Jika lemparan kerusakan menghasilkan nol kerusakan, api telah padam dengan sendirinya di satu lokasi tersebut. Untuk setiap lokasi yang telah padam dengan sendirinya, lemparan untuk memadamkan api juga satu Tingkat Kesulitan lebih mudah.
+Serangan berbasis api biasanya memiliki peluang persentase untuk menyalakan bahan yang mudah terbakar karena biasanya serangan ini berakhir dalam satu Ronde. Kecuali dinyatakan lain, peluang ini adalah kerusakan yang dilempar x5% untuk serangan berbasis api, dan kerusakan yang dilempar x1% untuk listrik. Setelah terbakar, bahan yang mudah terbakar akan membakar untuk 1d3-1 kerusakan setiap Ronde sampai dipadamkan secara fisik. Terapkan kerusakan ini langsung ke Poin Hit bahan tersebut, mengabaikan Poin Zirah, dan ke daging apa pun di bawahnya. Namun, Zirah alami makhluk menawarkan perlindungan normalnya. Korban dapat mencoba memadamkan api dengan menjatuhkan diri dalam posisi telungkup (prone) dan melakukan lemparan Athletics yang berhasil, yang memerlukan Poin Aksi dan dapat dicoba setiap Giliran. Jika orang lain membantu memadamkan api dengan cara tertentu, lemparan tersebut satu Tingkat Kesulitan lebih mudah. Jika lemparan kerusakan menghasilkan nol kerusakan, api telah padam dengan sendirinya di satu lokasi tersebut. Untuk setiap lokasi yang telah padam dengan sendirinya, lemparan untuk memadamkan api juga satu Tingkat Kesulitan lebih mudah.
 
 ---
 ## Waktu Permainan
@@ -195,12 +195,12 @@ Ini adalah jumlah waktu yang diambil ketika Games Master sedang menarasikan kepa
 
 Istirahat Singkat mewakili periode sekitar 15 menit di mana para petualang berhenti untuk mengatur napas, tidak melakukan apa pun yang lebih berat daripada membaca, makan, minum, berdoa, dan merawat luka. Kelompok memutuskan berapa lama untuk beristirahat, dan kemudian melakukan tindakan 15 menit yang relevan, dengan setiap pemain melakukan satu tindakan sebelum melanjutkan ke yang berikutnya. Tidak ada batasan jumlah Istirahat Singkat yang dapat dilakukan kelompok dalam sehari, dan biasanya beberapa tindakan istirahat dilakukan setelah mendirikan kemah, serta di pagi hari sebelum berangkat. Setiap Tindakan Istirahat 15 menit dirinci di bawah dan dapat diambil lebih dari sekali kecuali dinyatakan lain.
 
-- **Makan Ransum:** Tindakan Istirahat 15 menit ini hanya boleh dilakukan sekali sehari karena ransum dilacak sebagai barang harian dan menghapus **setiap** satu tingkat Fatigue yang tidak lebih besar dari Exhausted, serta meredakan rasa lapar apa pun. Karakter dapat mengurangi Fatigue mereka satu tingkat lagi setelah makan jika tidak lebih besar dari Winded, karena ini merupakan aktivitas yang tidak berat.
-- **Berdoa kepada Dewa atau Mempelajari buku mantra:** Memulihkan 1 Poin Sihir per Tindakan Istirahat 15 menit yang dihabiskan dalam doa atau studi. Karakter dapat mengurangi Fatigue mereka satu tingkat jika tidak lebih besar dari Winded karena ini merupakan aktivitas yang tidak berat.
+- **Makan Ransum:** Tindakan Istirahat 15 menit ini hanya boleh dilakukan sekali sehari karena ransum dilacak sebagai barang harian dan menghapus **setiap** satu tingkat Kelelahan yang tidak lebih besar dari Exhausted, serta meredakan rasa lapar apa pun. Karakter dapat mengurangi Kelelahan mereka satu tingkat lagi setelah makan jika tidak lebih besar dari Winded, karena ini merupakan aktivitas yang tidak berat.
+- **Berdoa kepada Dewa atau Mempelajari buku mantra:** Memulihkan 1 Poin Sihir per Tindakan Istirahat 15 menit yang dihabiskan dalam doa atau studi. Karakter dapat mengurangi Kelelahan mereka satu tingkat jika tidak lebih besar dari Winded karena ini merupakan aktivitas yang tidak berat.
 - **Merawat luka:** Habiskan Tindakan Istirahat 15 menit menggunakan keahlian First Aid, atau empat tindakan istirahat 15 menit (satu jam) menggunakan keahlian Healing.
 - **Merapal satu atau lebih mantra:** Sejumlah mantra dapat dirapal untuk menyembuhkan atau memperkuat anggota kelompok selama Tindakan Istirahat 15 menit, terbatas pada Poin Sihir yang tersedia.
 - **Mempersiapkan mantra baru:** Setelah periode tidur setidaknya 8 jam, perapal mantra dapat menggunakan Tindakan Istirahat 15 menit untuk menghafal, atau melupakan, mantra Arcane atau Divine, tergantung pada batasan yang dirinci di bawah [Menghafal Mantra](0009_Magic.md?id=memorizing-spells).
-- **Berleha-leha (Dither):** Ini adalah Tindakan Istirahat 15 menit default kecuali Tindakan lain dipilih. Karakter hanya membuang 15 menit tanpa melakukan apa pun yang berguna. Tindakan Istirahat ini biasanya dilakukan jika anggota kelompok lain masih melakukan tindakan istirahat dan Anda tidak memiliki apa pun untuk dilakukan. Karakter dapat mengurangi Fatigue mereka satu tingkat jika tidak lebih besar dari Winded karena ini merupakan aktivitas yang tidak berat.
+- **Berleha-leha (Dither):** Ini adalah Tindakan Istirahat 15 menit default kecuali Tindakan lain dipilih. Karakter hanya membuang 15 menit tanpa melakukan apa pun yang berguna. Tindakan Istirahat ini biasanya dilakukan jika anggota kelompok lain masih melakukan tindakan istirahat dan Anda tidak memiliki apa pun untuk dilakukan. Karakter dapat mengurangi Kelelahan mereka satu tingkat jika tidak lebih besar dari Winded karena ini merupakan aktivitas yang tidak berat.
 
 ---
 ## Lokasi Sasaran (Hit Locations)
@@ -223,7 +223,7 @@ Tabel Lokasi Sasaran humanoid diulang di sini untuk kemudahan referensi.
 | 16-18 | Lengan Kiri |
 | 19-20 | Kepala |
 
-Perhatikan bahwa beberapa serangan, terutama yang magis, atau yang dihasilkan oleh monster tertentu (misalnya napas api naga merah), mungkin mengenai beberapa Lokasi Sasaran secara bersamaan. Lokasi Sasaran individu mungkin dilengkapi armor, baik dari perlindungan yang dikenakan atau ketangguhan alami permukaan luar makhluk tersebut. Ini penting ketika mempertimbangkan Kerusakan dan Tingkat Luka di bawah.
+Perhatikan bahwa beberapa serangan, terutama yang magis, atau yang dihasilkan oleh monster tertentu (misalnya napas api naga merah), mungkin mengenai beberapa Lokasi Sasaran secara bersamaan. Lokasi Sasaran individu mungkin dilengkapi Zirah, baik dari perlindungan yang dikenakan atau ketangguhan alami permukaan luar makhluk tersebut. Ini penting ketika mempertimbangkan Kerusakan dan Tingkat Luka di bawah.
 
 ### Tingkat Kerusakan dan Luka
 
@@ -234,7 +234,7 @@ Kerusakan yang dilempar untuk senjata atau serangan dimodifikasi oleh kondisi te
 - Terapkan Pengubah Kerusakan untuk karakter yang melakukan serangan.
 - Modifikasi kerusakan dari sihir peningkat (atau pengurang) senjata apa pun.
 - Jika ditangkis (parried), kurangi kerusakan dengan tepat sesuai dengan ukuran senjata komparatif.
-- Jika Lokasi Sasaran dilengkapi armor, kurangi kerusakan sebesar nilai Poin Armor.
+- Jika Lokasi Sasaran dilengkapi Zirah, kurangi kerusakan sebesar nilai Poin Zirah.
 
 Jika kerusakan yang ditimbulkan oleh serangan di atas nol, maka Lokasi Sasaran menderita jumlah kerusakan tersebut, dengan total kerusakan segera dikurangi dari Poin Hit lokasi tersebut. Perhatikan berapa banyak Poin Hit yang tersisa di lokasi tersebut, dan kategori luka yang dihasilkan.
 
@@ -268,7 +268,7 @@ Karena sebagian besar Luka Besar memerlukan semacam pembedahan atau sihir besar 
 
 ### Kehilangan Darah
 
-Kehilangan Darah akibat luka luar dan dalam, biasanya diderita dalam pertarungan, dapat membuat karakter lelah dengan sangat cepat. Efeknya diukur dengan akumulasi tingkat Fatigue, seperti [Asfiksia](0007_Game_System.md?id=asphyxiation). Kehilangan Darah yang tidak tertahan biasanya mengakibatkan kematian tanpa semacam perhatian medis. Tidak seperti Asfiksia, efek Kehilangan Darah yang serius pada Fatigue bersifat bertahan lama. Karakter memulihkan Fatigue yang hilang akibat pendarahan dengan kecepatan satu tingkat per hari, dimulai hari setelah ekssanguinasinya berhenti.
+Kehilangan Darah akibat luka luar dan dalam, biasanya diderita dalam pertarungan, dapat membuat karakter lelah dengan sangat cepat. Efeknya diukur dengan akumulasi tingkat Kelelahan, seperti [Asfiksia](0007_Game_System.md?id=asphyxiation). Kehilangan Darah yang tidak tertahan biasanya mengakibatkan kematian tanpa semacam perhatian medis. Tidak seperti Asfiksia, efek Kehilangan Darah yang serius pada Kelelahan bersifat bertahan lama. Karakter memulihkan Kelelahan yang hilang akibat pendarahan dengan kecepatan satu tingkat per hari, dimulai hari setelah ekssanguinasinya berhenti.
 
 #### Tindakan Terakhir yang Heroik
 
@@ -392,7 +392,7 @@ Jebakan lubang tidak harus terlalu dalam. Jika dirancang untuk penangkapan, bent
 - **Pemicu:** Berjalan melintasi permukaan palsu yang menutupi lubang
 - **Kesulitan:** 60%
 - **Resistensi:** Baik Evade untuk melompat bebas atau lemparan Athletics Sulit untuk menangkap tepi saat mereka jatuh.
-- **Efek:** Jatuh ke dalam lubang menimbulkan 2d6 kerusakan pada Lokasi Sasaran acak, armor tidak melindungi. Efek sekunder diserahkan pada imajinasi Games Master.
+- **Efek:** Jatuh ke dalam lubang menimbulkan 2d6 kerusakan pada Lokasi Sasaran acak, Zirah tidak melindungi. Efek sekunder diserahkan pada imajinasi Games Master.
 
 #### Jebakan Jarum Beracun
 

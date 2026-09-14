@@ -8,7 +8,7 @@
 | [Avert](0010_Spells.md?id=avert) | [Bless \(R\)](0010_Spells.md?id=bless-r) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(R\)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
 | [Calm](0010_Spells.md?id=calm) | [Create Food and Water](0010_Spells.md?id=create-food-and-water) | [Continual Light](0010_Spells.md?id=continual-light) | [Exorcism](0010_Spells.md?id=exorcism) | [Heal \(R\)](0010_Spells.md?id=heal-r) | [Earthquake](0010_Spells.md?id=earthquake) |
-| [Coordination](0010_Spells.md?id=coordination) | [Cure Fatigue \(R\)](0010_Spells.md?id=cure-fatigue-r) | [Cure Disease \(R\)](0010_Spells.md?id=cure-disease-r) | [Free Action](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Cure Kelelahan \(R\)](0010_Spells.md?id=cure-Kelelahan-r) | [Cure Disease \(R\)](0010_Spells.md?id=cure-disease-r) | [Aksi Gratis](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
 | [Deflect](0010_Spells.md?id=deflect) | [Cure Minor Wounds \(R\)](0010_Spells.md?id=cure-minor-wounds-r) | [Cure Serious Wounds \(R\)](0010_Spells.md?id=cure-serious-wounds-r) | [Neutralize Poison \(R\)](0010_Spells.md?id=neutralize-poison-r) | [Regenerate \(R\)](0010_Spells.md?id=regenerate-r) | [Holy Word \(R\)](0010_Spells.md?id=holy-word-r) |
 | [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(R\)](0010_Spells.md?id=detect-charm-r) | [Detect Lie \(R\)](0010_Spells.md?id=detect-lie-r) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(R\)](0010_Spells.md?id=resurrection-r) |
 | [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
@@ -30,14 +30,14 @@ _\(R\) menunjukkan mantra yang bisa dibalik._
 
 | Peringkat 0 | Peringkat 1 | Peringkat 2 | Peringkat 3 | Peringkat 4 | Peringkat 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
+| [Appraise](0010_Spells.md?id=appraise) | [Zirah](0010_Spells.md?id=Zirah) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
 | [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
 | [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
 | [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
-| [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
+| [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Kegagalan Mutlak](0010_Spells.md?id=Kegagalan Mutlak) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
 | [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
@@ -77,7 +77,7 @@ _\(R\) menunjukkan mantra yang bisa dibalik._
 Appraise memungkinkan penilaian langsung atas kualitas barang fisik dengan gabungan ENC dalam 'Benda' atau SIZ yang setara dengan POW perapal. Mantra ini menentukan apakah barang yang terlihat identik memiliki kualitas yang sama atau serupa, atau apakah satu atau lebih barang cacat atau memiliki kualitas yang lebih tinggi. Mantra ini tidak bekerja pada benda organik, hanya pada benda mati. Mantra ini juga tidak menentukan cacat atau peningkatan apa yang ada; hanya keberadaannya. Mantra ini tidak berguna dalam identifikasi atau pendeteksian sihir.
 
 ---
-#### Armor
+#### Zirah
 
 (Konjurasi)
 
@@ -88,14 +88,14 @@ Appraise memungkinkan penilaian langsung atas kualitas barang fisik dengan gabun
 | **Biaya:** 3 +1/Intensitas | **Jarak:** Sentuhan |
 | **Area:** 1 Target | **Resistansi:** Tidak ada |
 
-Saat mantra ini dirapalkan, subjek diberikan bidang kekuatan sihir tak terlihat yang setara dengan pelindung skala dalam perlindungan, memberikan 4 Poin Armor pada setiap Lokasi Pukulan. Tidak ada efek jika dirapalkan pada seseorang yang sudah mengenakan baju besi. Namun, ini akan menggantikan armor alami selama Durasi berlangsung, dengan asumsi memberikan perlindungan yang lebih unggul. Jika dirapalkan pada makhluk yang memiliki lebih dari 4 poin armor alami, mantra ini malah akan meningkatkan Poin Armor sebanyak 1 di semua lokasi. Perlindungan sihir ini tidak menghalangi pergerakan atau perapalan mantra. Mantra akan bertahan sampai dihilangkan oleh sihir, atau perapal menerima 8 poin kerusakan dari satu serangan, +1 per level Intensitas tambahan (lihat tabel di bawah). Tentu saja, perapal dapat memilih untuk menghentikan mantra kapan saja jika diinginkan dan harus melakukannya untuk tidur.
+Saat mantra ini dirapalkan, subjek diberikan bidang kekuatan sihir tak terlihat yang setara dengan pelindung skala dalam perlindungan, memberikan 4 Poin Zirah pada setiap Lokasi Pukulan. Tidak ada efek jika dirapalkan pada seseorang yang sudah mengenakan Zirah. Namun, ini akan menggantikan Zirah alami selama Durasi berlangsung, dengan asumsi memberikan perlindungan yang lebih unggul. Jika dirapalkan pada makhluk yang memiliki lebih dari 4 poin Zirah alami, mantra ini malah akan meningkatkan Poin Zirah sebanyak 1 di semua lokasi. Perlindungan sihir ini tidak menghalangi pergerakan atau perapalan mantra. Mantra akan bertahan sampai dihilangkan oleh sihir, atau perapal menerima 8 poin kerusakan dari satu serangan, +1 per level Intensitas tambahan (lihat tabel di bawah). Tentu saja, perapal dapat memilih untuk menghentikan mantra kapan saja jika diinginkan dan harus melakukannya untuk tidur.
 
 | Intensitas | Biaya | Efek Variabel |
 | :-: | :-: | :-- |
-| 1 | 3 | 4 Poin Armor; Bertahan sampai menerima 8 kerusakan dari 1 serangan |
-| 2 | 4 | 4 Poin Armor; Bertahan sampai menerima 9 kerusakan dari 1 serangan |
-| 3 | 5 | 4 Poin Armor; Bertahan sampai menerima 10 kerusakan dari 1 serangan |
-| 4 | 6 | 4 Poin Armor; Bertahan sampai menerima 11 kerusakan dari 1 serangan |
+| 1 | 3 | 4 Poin Zirah; Bertahan sampai menerima 8 kerusakan dari 1 serangan |
+| 2 | 4 | 4 Poin Zirah; Bertahan sampai menerima 9 kerusakan dari 1 serangan |
+| 3 | 5 | 4 Poin Zirah; Bertahan sampai menerima 10 kerusakan dari 1 serangan |
+| 4 | 6 | 4 Poin Zirah; Bertahan sampai menerima 11 kerusakan dari 1 serangan |
 | +1 | +1 | Lanjutkan progresi |
 
 ---
@@ -142,7 +142,7 @@ Jika lemparan divinasi berhasil, mantra ini memberikan salah satu hasil berikut:
 | Yes and No | Tindakan akan bermanfaat dan berbahaya |
 | Nothing | Tindakan tidak akan bermanfaat maupun berbahaya |
 
-Fumble harus mengakibatkan Games Master mengatakan kebalikan dari kenyataan.
+Kegagalan Mutlak harus mengakibatkan Games Master mengatakan kebalikan dari kenyataan.
 
 ---
 #### Avert
@@ -184,7 +184,7 @@ Befuddle menyebabkan kebingungan dalam pikiran target jasmani. Subjek mantra men
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** 100 kaki |
 | **Area:** Radius 5-30 kaki | **Resistansi:** Lihat di bawah |
 
-Mantra ini menciptakan penghalang pedang, belati, dan pisau berputar yang mencambuk dan menebas di sekitar titik tetap dan menyebabkan 1d8 poin kerusakan pada 1d4+2 Lokasi Pukulan acak dari *siapa pun* yang melewati Area Efek. Armor hanya memberikan setengah perlindungan normalnya. Poin Armor Sihir mengurangi kerusakan seperti biasa. Karena senjata berputar dengan kecepatan yang menyilaukan dan dikemas dengan rapat, mustahil untuk menangkis (Parry) atau menghindarinya (Evade). Seseorang dapat menggunakan perisai untuk memblokir Lokasi Pukulan secara pasif seperti biasa. Dalam kasus ini, ingatlah untuk membandingkan kerusakan yang dilempar dengan armor dan Poin Pukulan perisai.
+Mantra ini menciptakan penghalang pedang, belati, dan pisau berputar yang mencambuk dan menebas di sekitar titik tetap dan menyebabkan 1d8 poin kerusakan pada 1d4+2 Lokasi Pukulan acak dari *siapa pun* yang melewati Area Efek. Zirah hanya memberikan setengah perlindungan normalnya. Poin Zirah Sihir mengurangi kerusakan seperti biasa. Karena senjata berputar dengan kecepatan yang menyilaukan dan dikemas dengan rapat, mustahil untuk menangkis (Parry) atau menghindarinya (Evade). Seseorang dapat menggunakan perisai untuk memblokir Lokasi Pukulan secara pasif seperti biasa. Dalam kasus ini, ingatlah untuk membandingkan kerusakan yang dilempar dengan Zirah dan Poin Pukulan perisai.
 
 Mantra ini dapat dirapalkan secara defensif untuk melindungi pendeta atau satu atau lebih sekutu atau secara ofensif menjebak musuh. Namun, musuh yang terkepung dalam jarak lima kaki dari tepi penghalang saat terbentuk dapat melakukan lemparan Evade untuk melarikan diri. Terlepas dari keberhasilan, lawan berakhir dalam posisi tengkurap, tepat di luar Area Efek. Lemparan yang berhasil menghasilkan nol kerusakan; jika tidak, mereka menderita efek penuh.
 
@@ -226,7 +226,7 @@ Mantra ini menyebabkan api menyembur dari tangan perapal dalam busur 120 derajat
 | 7 | 6 | 2 | 1d3+4 poin kerusakan pada semua Lokasi Pukulan |
 | 9 | 7 | 3 | 1d3+5 poin kerusakan pada semua Lokasi Pukulan |
 
-Armor yang dikenakan tidak melindungi, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa. Mantra kuat ini diseimbangkan oleh jangkauannya yang sangat pendek, yang berarti, untuk merapalkannya, pengguna sihir harus cukup dekat untuk berada dalam posisi yang sangat tidak menguntungkan.
+Zirah yang dikenakan tidak melindungi, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa. Mantra kuat ini diseimbangkan oleh jangkauannya yang sangat pendek, yang berarti, untuk merapalkannya, pengguna sihir harus cukup dekat untuk berada dalam posisi yang sangat tidak menguntungkan.
 
 Karena makhluk yang lebih besar biasanya lebih besar dari Area Efek mantra, mereka cenderung memiliki lebih sedikit Lokasi Pukulan yang terpengaruh. Mereka yang ber-SIZ 21 sampai 30 menerima kerusakan pada kepala, dada, perut, dan lengan, sementara mereka yang ber-SIZ 31+ akan menerima kerusakan pada perut dan kaki. Games Master harus menyesuaikan lokasi-lokasi ini tergantung pada bentuk dan posisi target relatif terhadap perapal. Burning Hands memiliki peluang menyalakan bahan yang mudah terbakar sama dengan kerusakan yang dilempar x5%. Lihat bagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk informasi tambahan.
 
@@ -260,7 +260,7 @@ Saat dirapalkan, penyihir melepaskan baut listrik selebar lima kaki dari ujung j
 
 Setiap lengkungan memiliki jarak 50 kaki sendiri, yang dapat menempatkan baut di luar jarak asli saat mantra dirapalkan. Chain Lightning terus menyerang jika memiliki kerusakan tersisa sampai menghantam objek yang menyebabkannya membumi (kandang atau jeruji besi, kolam air besar, dan sebagainya) atau tidak ada lagi objek atau makhluk yang tersedia untuk diserang.
 
-Setiap makhluk yang terserang menerima kerusakan pada satu Lokasi Pukulan, dengan armor yang dikenakan tidak menawarkan perlindungan, dan armor alami serta Poin Armor sihir mengurangi kerusakan seperti biasa.
+Setiap makhluk yang terserang menerima kerusakan pada satu Lokasi Pukulan, dengan Zirah yang dikenakan tidak menawarkan perlindungan, dan Zirah alami serta Poin Zirah sihir mengurangi kerusakan seperti biasa.
 
 Dengan lemparan Evade yang berhasil, menjatuhkan diri ke posisi tengkurap, korban menderita nol kerusakan. Seseorang dengan Kemampuan Artful Dodger dapat melakukan Evade tanpa terjatuh, tetapi Keberhasilan dalam kasus ini hanya mengurangi kerusakan menjadi setengah, kecuali mereka berada dalam jarak lima kaki dari tepi Area Efek.
 
@@ -386,7 +386,7 @@ Ini adalah versi perbaikan dari mantra [Charm Person](0010_Spells.md?id=charm-pe
 
 Chill secara dramatis mengurangi suhu objek kecil dengan ENC tidak lebih besar dari 1 'Benda', hingga suhu air es. Berguna untuk mendinginkan benda panas dengan cepat, mendinginkan minuman, dan sebagainya. Mantra tidak membekukan objek, dan juga tidak menyebabkan kerusakan pada strukturnya: mantra ini hanya membuatnya sangat dingin.
 
-Saat dibalik, Heat (Panas), secara dramatis meningkatkan suhu objek kecil hingga suhu air mendidih. Mantra serbaguna ini berguna untuk memanaskan anggur, memasak makanan tanpa api, atau menghangatkan tempat tidur sebelum tidur. Tidak mempengaruhi jaringan hidup meskipun dapat mempengaruhi pakaian dan armor, membuatnya agak tidak nyaman, tetapi tidak sampai menghalangi pemakainya.
+Saat dibalik, Heat (Panas), secara dramatis meningkatkan suhu objek kecil hingga suhu air mendidih. Mantra serbaguna ini berguna untuk memanaskan anggur, memasak makanan tanpa api, atau menghangatkan tempat tidur sebelum tidur. Tidak mempengaruhi jaringan hidup meskipun dapat mempengaruhi pakaian dan Zirah, membuatnya agak tidak nyaman, tetapi tidak sampai menghalangi pemakainya.
 
 ---
 #### Cleanse (R)
@@ -427,7 +427,7 @@ Subjek perintah harus mampu memahami bahasa yang diucapkan oleh perapal dan diiz
 - **Crawl:** Subjek jatuh tengkurap dan mulai merangkak.
 - **Die:** Subjek jatuh tengkurap memasuki keadaan koma seperti mati.
 - **Fall:** Subjek jatuh tengkurap.
-- **Fumble:** Subjek mengacaukan tindakan fisik yang akan diambil.
+- **Kegagalan Mutlak:** Subjek mengacaukan tindakan fisik yang akan diambil.
 - **Sleep:** Subjek tertidur.
 - **Flee:** Subjek berbalik dan melarikan diri dari perapal.
 - **Fly:** Subjek mengepakkan tangan dan berlari berputar-putar.
@@ -452,7 +452,7 @@ Subjek perintah harus mampu memahami bahasa yang diucapkan oleh perapal dan diiz
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** 0 |
 | **Area:** Lihat di bawah | **Resistansi:** Evade |
 
-Perapal menciptakan kerucut dingin yang melepuh memanjang dari tangan mereka. Area Efek adalah busur 90 derajat ("kerucut") memanjang 10 kaki per level Intensitas. Mantra ini menyebabkan 1d6+1 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Lempar kerusakan sekali dan terapkan pada masing-masing Lokasi Pukulan target, dengan armor yang dikenakan hanya menawarkan setengah perlindungan, tetapi armor alami makhluk atau Poin Armor sihir mengurangi kerusakan seperti biasa. Games Master dapat memilih jumlah lokasi yang terpengaruh dengan cara apa pun yang mereka anggap tepat jika makhluk besar lebih besar dari Area Efek.
+Perapal menciptakan kerucut dingin yang melepuh memanjang dari tangan mereka. Area Efek adalah busur 90 derajat ("kerucut") memanjang 10 kaki per level Intensitas. Mantra ini menyebabkan 1d6+1 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Lempar kerusakan sekali dan terapkan pada masing-masing Lokasi Pukulan target, dengan Zirah yang dikenakan hanya menawarkan setengah perlindungan, tetapi Zirah alami makhluk atau Poin Zirah sihir mengurangi kerusakan seperti biasa. Games Master dapat memilih jumlah lokasi yang terpengaruh dengan cara apa pun yang mereka anggap tepat jika makhluk besar lebih besar dari Area Efek.
 
 Dengan lemparan Evade yang berhasil, menjatuhkan diri ke posisi tengkurap, korban menderita nol kerusakan. Seseorang dengan Kemampuan Artful Dodger dapat melakukan Evade tanpa terjatuh, tetapi Keberhasilan dalam kasus ini hanya mengurangi kerusakan menjadi setengah, kecuali mereka berada dalam jarak lima kaki dari tepi Area Efek. Cone of Cold memiliki peluang melapisi korban dengan lapisan es sama dengan kerusakan yang dilempar (setelah modifikasi) x5%. Jika beku, sekali per Ronde, korban dapat menghabiskan Poin Aksi dan melakukan lemparan Brawn untuk mencoba melepaskan diri; namun, sampai berhasil, korban yang malang tidak dapat bergerak atau melakukan tindakan lain.
 
@@ -598,7 +598,7 @@ Mantra ini menyembuhkan efek dari penyakit duniawi atau magis apa pun yang menim
 Kebalikan dari mantra ini, Cause Disease, menimbulkan penyakit magis pada musuh. Jika berhasil, perapal dapat memilih untuk menimbulkan penyakit apa pun yang diketahui pada target; namun, Intensitas x30 harus sama dengan atau melebihi Potensi penyakit yang dipilih. Setelah penyakit berhasil ditimbulkan, ia berfungsi seperti penyakit lain dalam hal resistansi, Waktu Onset, Durasi, dan sebagainya. Satu-satunya pengecualian adalah pemulihan awal terbatas pada perapalan Remove Disease atau Cure. Keterampilan Penyembuhan tidak berpengaruh pada penyakit yang ditimbulkan secara magis.
 
 ---
-#### Cure Fatigue (R)
+#### Cure Kelelahan (R)
 
 (Nekromansi)
 
@@ -611,7 +611,7 @@ Kebalikan dari mantra ini, Cause Disease, menimbulkan penyakit magis pada musuh.
 
 Saat mantra ini dirapalkan, subjek mendapatkan kembali 1d3+1 level Kelelahan yang hilang, bahkan mendapatkan kembali kesadaran jika berlaku.
 
-Kebalikan dari mantra ini, Cause Fatigue, memberikan 1d3+1 level Kelelahan kepada target yang gagal melakukan lemparan Endurance. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Baik armor yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Armor sihir meniadakan mantra.
+Kebalikan dari mantra ini, Cause Kelelahan, memberikan 1d3+1 level Kelelahan kepada target yang gagal melakukan lemparan Endurance. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Baik Zirah yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Zirah sihir meniadakan mantra.
 
 ---
 #### Cure Major Wounds (R)
@@ -631,7 +631,7 @@ Mantra ini menyembuhkan satu Lokasi Pukulan yang menderita Luka Utama, tidak ped
 
 Jika cedera terjadi sebelumnya, maka bagian tubuh harus menjalani perbaikan yang lebih traumatis, yang memerlukan satu perapalan Cure Major Wounds dan sejumlah hari istirahat dan pemulihan penuh yang setara dengan Laju Penyembuhan karakter. Poin Pukulan yang dilempar dirata-ratakan dan didapatkan kembali selama Periode Pemulihan yang dicatat. Jika Periode Pemulihan ini terganggu sebelum penyembuhan selesai, lokasi tetap cacat dan tidak dapat digunakan, hanya dapat disembuhkan oleh mantra Heal.
 
-Saat dibalik, Cause Major Wounds dapat digunakan untuk mengurangi satu Lokasi Pukulan sebesar 1d8+4 Poin Pukulan. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Mantra ini tidak dapat memotong lokasi tetapi dapat menghancurkannya atau memutilasinya seperti biasa. Baik armor yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Armor sihir mengurangi kerusakan seperti biasa.
+Saat dibalik, Cause Major Wounds dapat digunakan untuk mengurangi satu Lokasi Pukulan sebesar 1d8+4 Poin Pukulan. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Mantra ini tidak dapat memotong lokasi tetapi dapat menghancurkannya atau memutilasinya seperti biasa. Baik Zirah yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Zirah sihir mengurangi kerusakan seperti biasa.
 
 ---
 #### Cure Minor Wounds (R)
@@ -653,7 +653,7 @@ Saat dibalik, Cause Minor Wounds mengurangi Poin Pukulan lokasi yang disentuh se
 
 Alternatifnya, mantra dapat menyebabkan penyakit ringan, seperti sakit kepala, sakit punggung, mabuk, pilek, kutil, dan sebagainya. Contoh mantra ini hanya memakan biaya satu Poin Sihir.
 
-Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Baik armor yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Armor sihir mengurangi kerusakan seperti biasa.
+Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Baik Zirah yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Zirah sihir mengurangi kerusakan seperti biasa.
 
 ---
 #### Cure Serious Wounds (R)
@@ -671,7 +671,7 @@ Mantra ini berfungsi seperti Cure Minor Wounds kecuali di mana dicatat di bawah.
 
 Cure Serious Wounds menyembuhkan satu Lokasi Pukulan sebesar 1d6+2 poin cedera, asalkan cedera tidak lebih parah dari Luka Serius. Mantra ini memiliki efek terbatas pada Luka Utama, menyembuhkan lokasi sebesar 2 Poin Pukulan dan menstabilkan cedera, mencegah kematian.
 
-Saat dibalik, Cause Serious Wounds mengurangi satu Lokasi Pukulan sebesar 1d6+2 Poin Pukulan. Cause Serious Wounds hanya akan menyebabkan 2 poin kerusakan pada lokasi dengan Luka Utama; kelebihan kerusakan hilang. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Mantra ini tidak dapat memotong lokasi tetapi dapat menghancurkannya atau memutilasinya seperti biasa. Baik armor yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Armor sihir mengurangi kerusakan seperti biasa.
+Saat dibalik, Cause Serious Wounds mengurangi satu Lokasi Pukulan sebesar 1d6+2 Poin Pukulan. Cause Serious Wounds hanya akan menyebabkan 2 poin kerusakan pada lokasi dengan Luka Utama; kelebihan kerusakan hilang. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Mantra ini tidak dapat memotong lokasi tetapi dapat menghancurkannya atau memutilasinya seperti biasa. Baik Zirah yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Zirah sihir mengurangi kerusakan seperti biasa.
 
 ---
 #### Dancing Lights
@@ -933,7 +933,7 @@ Dry menghilangkan semua kelembapan luar dari objek atau orang, baik dengan menga
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** 50 kaki/Intensitas |
 | **Area:** Radius 10 kaki/Intensitas | **Resistansi:** Evade |
 
-Earthquake menyebabkan getaran tanah yang mampu menjatuhkan orang dari kaki mereka dan meruntuhkan bangunan kaku. Minimal, gagal melawan mantra menyebabkan korban jatuh tengkurap. Jika berada di dalam bangunan, area terbangun, atau lokasi yang rentan (seperti hutan atau di bawah tebing), gagal melakukan Evade juga menunjukkan bahwa orang tersebut terkena, dan terjebak oleh puing-puing yang jatuh. Armor yang dikenakan menawarkan setengah perlindungan, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa.
+Earthquake menyebabkan getaran tanah yang mampu menjatuhkan orang dari kaki mereka dan meruntuhkan bangunan kaku. Minimal, gagal melawan mantra menyebabkan korban jatuh tengkurap. Jika berada di dalam bangunan, area terbangun, atau lokasi yang rentan (seperti hutan atau di bawah tebing), gagal melakukan Evade juga menunjukkan bahwa orang tersebut terkena, dan terjebak oleh puing-puing yang jatuh. Zirah yang dikenakan menawarkan setengah perlindungan, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa.
 
 | Intensitas | Biaya | Efek Variabel | Potensi Kerusakan |
 | :-: | :-: | :-- | :-- |
@@ -982,7 +982,7 @@ Tidak mungkin untuk memberikan efek sihir lain ke dalam item yang tidak sesuai d
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** Sentuhan |
 | **Area:** 1 Senjata | **Resistansi:** N/A |
 
-Saat mantra ini dirapalkan sambil menyentuh senjata normal, senjata tersebut diisi dengan Enchantment sementara yang memberikan Modifikator Kerusakan +1 sihir. Ini juga memungkinkan senjata yang seharusnya normal untuk menyerang makhluk yang hanya dapat disakiti oleh senjata yang memiliki setidaknya Enchantment +1. Mantra dapat digunakan untuk mempesona dua senjata yang ukurannya setara dengan ½ 'Benda' masing-masing, seperti belati, pisau, panah, dan sebagainya. Jika tidak, tidak lebih dari satu senjata yang dapat dipesona per perapalan. Senjata sihir yang ada dapat ditingkatkan bonusnya sebesar +1 hingga total bonus gabungan maksimum +3. Senjata dengan bonus +3 memiliki Ukuran yang ditingkatkan satu kategori untuk tujuan memberikan kerusakan: Besar menjadi Sangat Besar, Sangat Besar menjadi Enormous, Enormous menjadi Colossal. Enchanted Weapon memiliki +5 Poin Armor dan +2 Poin Pukulan per +1 Enchantment untuk senjata jenisnya. Mantra ini dapat dikombinasikan dengan Enchant Item dan Permanency untuk menciptakan senjata dengan Enchantment yang bertahan lama.
+Saat mantra ini dirapalkan sambil menyentuh senjata normal, senjata tersebut diisi dengan Enchantment sementara yang memberikan Modifikator Kerusakan +1 sihir. Ini juga memungkinkan senjata yang seharusnya normal untuk menyerang makhluk yang hanya dapat disakiti oleh senjata yang memiliki setidaknya Enchantment +1. Mantra dapat digunakan untuk mempesona dua senjata yang ukurannya setara dengan ½ 'Benda' masing-masing, seperti belati, pisau, panah, dan sebagainya. Jika tidak, tidak lebih dari satu senjata yang dapat dipesona per perapalan. Senjata sihir yang ada dapat ditingkatkan bonusnya sebesar +1 hingga total bonus gabungan maksimum +3. Senjata dengan bonus +3 memiliki Ukuran yang ditingkatkan satu kategori untuk tujuan memberikan kerusakan: Besar menjadi Sangat Besar, Sangat Besar menjadi Enormous, Enormous menjadi Colossal. Enchanted Weapon memiliki +5 Poin Zirah dan +2 Poin Pukulan per +1 Enchantment untuk senjata jenisnya. Mantra ini dapat dikombinasikan dengan Enchant Item dan Permanency untuk menciptakan senjata dengan Enchantment yang bertahan lama.
 
 ---
 #### Endure Heat/Cold
@@ -1010,7 +1010,7 @@ Mantra ini memungkinkan perapal untuk melindungi satu makhluk dari suhu panas at
 | **Biaya:** 3 | **Jarak:** Sentuhan |
 | **Area:** 1 Target | **Resistansi:** Endurance |
 
-Saat dirapalkan, mantra ini membebankan dua level kehilangan Kelelahan permanen pada korban yang gagal melakukan lemparan Resistansi. Kehilangan Kelelahan melalui Energy Drain bersifat kumulatif dengan kehilangan Kelelahan normal; oleh karena itu, lawan yang sudah lemah karena pertempuran atau perjalanan lebih rentan terhadap Energy Drain. Mantra dan ramuan Cure Fatigue tidak mempengaruhi Kelelahan yang hilang karena Energy Drain; namun, mantra dan gulungan Restoration dapat menyembuhkan Kelelahan yang hilang secara permanen. Armor tidak berpengaruh pada Energy Drain.
+Saat dirapalkan, mantra ini membebankan dua level kehilangan Kelelahan permanen pada korban yang gagal melakukan lemparan Resistansi. Kehilangan Kelelahan melalui Energy Drain bersifat kumulatif dengan kehilangan Kelelahan normal; oleh karena itu, lawan yang sudah lemah karena pertempuran atau perjalanan lebih rentan terhadap Energy Drain. Mantra dan ramuan Cure Kelelahan tidak mempengaruhi Kelelahan yang hilang karena Energy Drain; namun, mantra dan gulungan Restoration dapat menyembuhkan Kelelahan yang hilang secara permanen. Zirah tidak berpengaruh pada Energy Drain.
 
 ---
 #### Exorcism
@@ -1038,7 +1038,7 @@ Melalui mantra ini, para pendeta memanggil dewa mereka untuk mengusir roh atau k
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** 0 |
 | **Area:** Kerucut 5 kaki x 20 kaki | **Resistansi:** Willpower |
 
-Saat mantra ini dirapalkan, gelombang teror meluas ke luar, menyebabkan semua orang yang gagal dalam lemparan Resistansi untuk melarikan diri dalam ketakutan. Mereka yang terpengaruh melarikan diri langsung dari perapal dengan kecepatan lari selama sejumlah Ronde yang setara dengan Intensitas mantra x2. Teror ini sangat memakan jiwa sehingga lawan yang melakukan Fumble dalam lemparan untuk melawan menjatuhkan barang bawaan apa pun yang tidak diamankan dengan cara tertentu. Makhluk besar (SIZ 21-40) kurang rentan terhadap mantra ini dengan lemparan Resistansi menjadi Easy, dan lemparan Resistansi untuk makhluk sangat besar (SIZ 41+) adalah Very Easy.
+Saat mantra ini dirapalkan, gelombang teror meluas ke luar, menyebabkan semua orang yang gagal dalam lemparan Resistansi untuk melarikan diri dalam ketakutan. Mereka yang terpengaruh melarikan diri langsung dari perapal dengan kecepatan lari selama sejumlah Ronde yang setara dengan Intensitas mantra x2. Teror ini sangat memakan jiwa sehingga lawan yang melakukan Kegagalan Mutlak dalam lemparan untuk melawan menjatuhkan barang bawaan apa pun yang tidak diamankan dengan cara tertentu. Makhluk besar (SIZ 21-40) kurang rentan terhadap mantra ini dengan lemparan Resistansi menjadi Easy, dan lemparan Resistansi untuk makhluk sangat besar (SIZ 41+) adalah Very Easy.
 
 ---
 #### Feather Fall
@@ -1129,7 +1129,7 @@ _\* Bahasa Umum, dan bahasa rasial tuan jika berlaku._
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** Sentuhan |
 | **Area:** Radius 20 kaki | **Resistansi:** Evade |
 
-Pada Giliran pertama perapalan, saat pengguna sihir memulai nyanyian verbal dan gerakan, bara atau api seukuran percikan api mulai terbentuk di tangan, perlahan membesar menjadi bola api kecil. Pada Giliran kedua, nyanyian selesai, pengguna sihir meniru melemparkan bola, yang meledak dengan raungan rendah menjadi bola api besar. Mantra ini memiliki sedikit tekanan dan memberikan 1d6 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Kerusakan dilempar sekali dan diterapkan pada masing-masing Lokasi Pukulan target, dengan armor yang dikenakan tidak menawarkan perlindungan, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa.
+Pada Giliran pertama perapalan, saat pengguna sihir memulai nyanyian verbal dan gerakan, bara atau api seukuran percikan api mulai terbentuk di tangan, perlahan membesar menjadi bola api kecil. Pada Giliran kedua, nyanyian selesai, pengguna sihir meniru melemparkan bola, yang meledak dengan raungan rendah menjadi bola api besar. Mantra ini memiliki sedikit tekanan dan memberikan 1d6 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Kerusakan dilempar sekali dan diterapkan pada masing-masing Lokasi Pukulan target, dengan Zirah yang dikenakan tidak menawarkan perlindungan, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa.
 
 Lemparan Evade yang berhasil, mengakibatkan posisi tengkurap, memungkinkan korban menderita nol kerusakan. Seseorang dengan Kemampuan Artful Dodger memiliki opsi untuk melakukan Evade tanpa terjatuh, tetapi Keberhasilan dalam kasus ini hanya akan mengurangi kerusakan menjadi setengah kecuali mereka berada dalam jarak 5 kaki dari tepi Area Efek.
 
@@ -1186,7 +1186,7 @@ Mantra ini menciptakan perisai api samar yang membakar perapal tetapi tidak meny
 - **Chill Shield:** Api ini dingin saat disentuh dan mengurangi kerusakan berbasis api atau panas menjadi setengah total. Lemparan Resistansi yang berhasil akan meniadakan semua kerusakan. Lemparan Resistansi satu tingkat lebih mudah dan, dalam kasus Evade, tidak akan membuat pemain bertahan jatuh tengkurap.
 - **Warm Shield:** Api ini hangat saat disentuh dan mengurangi kerusakan berbasis dingin menjadi setengah total. Lemparan Resistansi yang berhasil akan meniadakan semua kerusakan. Lemparan Resistansi satu tingkat lebih mudah dan dalam kasus Evade, tidak akan membuat pemain bertahan jatuh tengkurap.
 
-Serangan jarak dekat terhadap penerima varian mana pun, baik bersenjata atau tidak bersenjata, memberikan kerusakan normal kecuali menggunakan salah satu elemen yang dilindungi. Dalam kasus ini, perapal dilindungi dari bagian elemen serangan, dan penyerang menerima kerusakan yang setara dengan yang ditimbulkan. Armor yang dikenakan pada bagian penyerang tidak menawarkan perlindungan, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa. Makhluk dengan Ketahanan Sihir Bawaan dapat menghilangkan Fire Shield pada lemparan Willpower yang berhasil saat penerima pertama kali diserang. Jika lemparan Ketahanan Sihir gagal, lawan tidak dapat kemudian meniadakan Fire Shield.
+Serangan jarak dekat terhadap penerima varian mana pun, baik bersenjata atau tidak bersenjata, memberikan kerusakan normal kecuali menggunakan salah satu elemen yang dilindungi. Dalam kasus ini, perapal dilindungi dari bagian elemen serangan, dan penyerang menerima kerusakan yang setara dengan yang ditimbulkan. Zirah yang dikenakan pada bagian penyerang tidak menawarkan perlindungan, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa. Makhluk dengan Ketahanan Sihir Bawaan dapat menghilangkan Fire Shield pada lemparan Willpower yang berhasil saat penerima pertama kali diserang. Jika lemparan Ketahanan Sihir gagal, lawan tidak dapat kemudian meniadakan Fire Shield.
 
 ---
 #### Flame Strike
@@ -1200,7 +1200,7 @@ Serangan jarak dekat terhadap penerima varian mana pun, baik bersenjata atau tid
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** 100 kaki+20kaki/Intensitas tambahan |
 | **Area:** Radius 5 kaki | **Resistansi:** Evade |
 
-Setelah berhasil merapalkan, kolom api setinggi 30 kaki melesat turun dari atas, menghanguskan area yang ditunjuk pendeta. Kolom memberikan 1d8 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Lempar kerusakan sekali dan terapkan pada masing-masing Lokasi Pukulan target, dengan armor yang dikenakan menawarkan setengah perlindungan, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa. Lemparan Evade yang berhasil, berguling atau menjatuhkan diri keluar dari Area Efek dan berakhir dalam posisi tengkurap, memungkinkan korban menderita nol kerusakan. Seseorang dengan Kemampuan Artful Dodger dapat melakukan Evade tanpa terjatuh dan diizinkan untuk bergerak bebas tepat di luar Area Efek.
+Setelah berhasil merapalkan, kolom api setinggi 30 kaki melesat turun dari atas, menghanguskan area yang ditunjuk pendeta. Kolom memberikan 1d8 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Lempar kerusakan sekali dan terapkan pada masing-masing Lokasi Pukulan target, dengan Zirah yang dikenakan menawarkan setengah perlindungan, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa. Lemparan Evade yang berhasil, berguling atau menjatuhkan diri keluar dari Area Efek dan berakhir dalam posisi tengkurap, memungkinkan korban menderita nol kerusakan. Seseorang dengan Kemampuan Artful Dodger dapat melakukan Evade tanpa terjatuh dan diizinkan untuk bergerak bebas tepat di luar Area Efek.
 
 Flame Strike memiliki peluang menyalakan bahan yang mudah terbakar sama dengan kerusakan yang dilempar x5%. Lihat bagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk informasi tambahan.
 
@@ -1227,7 +1227,7 @@ Flame Strike memiliki peluang menyalakan bahan yang mudah terbakar sama dengan k
 
 Saat dirapalkan, satu korban dalam Jarak diizinkan melakukan lemparan Resistansi Willpower. Jika tidak berhasil, mereka dan semua barang bawaan serta yang dikenakan diubah sepenuhnya menjadi batu padat. Transformasi ini bukanlah kematian, melainkan bentuk hibernasi. Perapalan versi mantra yang dibalik, atau Wish, dapat digunakan untuk mengembalikan korban ke kehidupan sekali lagi. Kerusakan apa pun yang diderita korban saat menjadi batu terbawa, dan berlaku segera setelah pemulihan. Makhluk besar (SIZ 21-40) kurang rentan terhadap mantra ini dengan lemparan Resistansi menjadi Easy, dan lemparan Resistansi untuk makhluk sangat besar (SIZ 41+) adalah Very Easy.
 
-Kebalikan dari mantra ini, Stone to Flesh, digunakan untuk memulihkan korban dan tidak diperlukan lemparan untuk melawan. Namun, mantra ini juga dapat dibalik untuk mengubah batu yang sebelumnya tidak pernah hidup; digunakan dalam salah satu dari beberapa cara kreatif. Misalnya, dinding batu berukuran 10 kaki kubik per level Intensitas dapat diubah menjadi daging lunak, 'terowongan' daging selebar 3 kaki, dengan panjang 10 kaki per Intensitas dapat diciptakan, satu target seperti patung batu dapat diubah menjadi tubuh, dan bahkan golem batu dapat diubah menjadi golem daging melalui mantra ini. Namun, dalam kasus terakhir, golem batu akan diizinkan melakukan lemparan Willpower untuk melawan seperti biasa. Batu yang diubah menjadi daging dengan cara ini lunak dan lentur, dan meskipun mempertahankan Poin Pukulan aktualnya, tidak memiliki Poin Armor, sehingga lebih mudah untuk dihancurkan.
+Kebalikan dari mantra ini, Stone to Flesh, digunakan untuk memulihkan korban dan tidak diperlukan lemparan untuk melawan. Namun, mantra ini juga dapat dibalik untuk mengubah batu yang sebelumnya tidak pernah hidup; digunakan dalam salah satu dari beberapa cara kreatif. Misalnya, dinding batu berukuran 10 kaki kubik per level Intensitas dapat diubah menjadi daging lunak, 'terowongan' daging selebar 3 kaki, dengan panjang 10 kaki per Intensitas dapat diciptakan, satu target seperti patung batu dapat diubah menjadi tubuh, dan bahkan golem batu dapat diubah menjadi golem daging melalui mantra ini. Namun, dalam kasus terakhir, golem batu akan diizinkan melakukan lemparan Willpower untuk melawan seperti biasa. Batu yang diubah menjadi daging dengan cara ini lunak dan lentur, dan meskipun mempertahankan Poin Pukulan aktualnya, tidak memiliki Poin Zirah, sehingga lebih mudah untuk dihancurkan.
 
 ---
 #### Floating Disk
@@ -1274,7 +1274,7 @@ Saat mantra ini dirapalkan, pengguna sihir dapat memberikan satu makhluk hingga 
 | +1 | +1 | Lanjutkan progresi |
 
 ---
-#### Free Action
+#### Aksi Gratis
 
 (Abjurasi, Enchantment)
 
@@ -1304,7 +1304,7 @@ Frostbite bekerja langsung pada jaringan organik hidup, menimbulkan mati rasa da
 Makhluk besar (SIZ 21-40) kurang rentan terhadap mantra ini dengan lemparan Resistansi menjadi Easy, dan lemparan Resistansi untuk makhluk sangat besar (SIZ 41+) adalah Very Easy.
 
 ---
-#### Fumble
+#### Kegagalan Mutlak
 
 (Enchantment (Charm))
 
@@ -1315,11 +1315,11 @@ Makhluk besar (SIZ 21-40) kurang rentan terhadap mantra ini dengan lemparan Resi
 | **Biaya:** 3+1/Intensitas tambahan | **Jarak:** 30 kaki/Intensitas |
 | **Area:** Radius 10 kaki | **Resistansi:** Willpower |
 
-Mantra ini menyebabkan semua lawan dalam Area Efek menjadi canggung, dengan lemparan keterampilan fisik apa pun menjadi satu tingkat lebih sulit dan menyebabkan semua kegagalan menghasilkan Fumble. Bahkan tindakan fisik yang biasanya tidak memerlukan lemparan keterampilan seperti mengambil barang yang dijatuhkan, bergerak lebih cepat dari berjalan, atau menaiki tangga memerlukan lemparan keterampilan Atletik. Kegagalan dalam kasus ini menghasilkan Fumble, dan biasanya jatuh canggung dalam kasus pergerakan, atau secara tidak sengaja menendang barang lebih jauh saat mencoba mengambilnya. Games Master harus kreatif dengan hasil lemparan yang Fumbled; namun, sedikit yang harus benar-benar mematikan dalam situasi non-tempur. Dalam pertempuran, namun, Fumble diperlakukan seperti yang lain dan dapat menghasilkan Efek Khusus seperti biasa.
+Mantra ini menyebabkan semua lawan dalam Area Efek menjadi canggung, dengan lemparan keterampilan fisik apa pun menjadi satu tingkat lebih sulit dan menyebabkan semua kegagalan menghasilkan Kegagalan Mutlak. Bahkan tindakan fisik yang biasanya tidak memerlukan lemparan keterampilan seperti mengambil barang yang dijatuhkan, bergerak lebih cepat dari berjalan, atau menaiki tangga memerlukan lemparan keterampilan Atletik. Kegagalan dalam kasus ini menghasilkan Kegagalan Mutlak, dan biasanya jatuh canggung dalam kasus pergerakan, atau secara tidak sengaja menendang barang lebih jauh saat mencoba mengambilnya. Games Master harus kreatif dengan hasil lemparan yang Fumbled; namun, sedikit yang harus benar-benar mematikan dalam situasi non-tempur. Dalam pertempuran, namun, Kegagalan Mutlak diperlakukan seperti yang lain dan dapat menghasilkan Efek Khusus seperti biasa.
 
 Lemparan Resistansi yang berhasil memungkinkan korban menghindari efek mantra untuk Ronde saat ini; namun, jika korban masih menempati Area Efek Ronde berikutnya, lemparan lain untuk Melawan harus dilakukan lagi seperti biasa. Sekutu penyerang asli juga harus tetap berada di luar Area Efek atau menderita batasan yang sama seperti lawan mereka.
 
-Mantra ini juga dapat ditargetkan pada makhluk tertentu, yang akan menderita efek selama Durasi penuh mantra jika gagal dalam lemparan Resistansi. Dirapalkan dengan cara ini, Fumble tidak menghasilkan Area Efek. Dalam kasus ini, lemparan Resistansi yang berhasil mengakibatkan korban menderita efek mantra Peringkat 2, Slow.
+Mantra ini juga dapat ditargetkan pada makhluk tertentu, yang akan menderita efek selama Durasi penuh mantra jika gagal dalam lemparan Resistansi. Dirapalkan dengan cara ini, Kegagalan Mutlak tidak menghasilkan Area Efek. Dalam kasus ini, lemparan Resistansi yang berhasil mengakibatkan korban menderita efek mantra Peringkat 2, Slow.
 
 | Intensitas | Biaya | Efek Variabel |
 | :-: | :-: | :-- |
@@ -1424,7 +1424,7 @@ Satu orang atau makhluk (termasuk diri sendiri) per Intensitas dalam Area Efek m
 
 Dengan perapalan Heal, pendeta dapat menyembuhkan penyakit fisik, trauma mental, atau sejumlah cedera yang signifikan dengan satu sentuhan. Tingkat pemulihan sebenarnya didasarkan pada Intensitas mantra sebagai berikut. Untuk setiap level Intensitas, mantra menyembuhkan subjek dari satu penyakit POT apa pun, menyembuhkan kebutaan atau ketulian, meniadakan gangguan mental yang disebabkan oleh cedera atau sihir, atau menyembuhkan satu Lokasi Pukulan sebesar 12 poin kerusakan. Namun, mantra ini tidak akan mengembalikan anggota tubuh yang terpotong, karena itu memerlukan perapalan mantra Regenerate. Setiap Intensitas tambahan dapat digunakan untuk menyembuhkan penyakit lain atau menyembuhkan Lokasi Pukulan lain. Oleh karena itu, memerlukan perapalan pada Intensitas 7 untuk menyembuhkan individu yang menderita luka bakar di seluruh tubuhnya. Tidak seperti mantra penyembuhan yang lebih rendah yang membatasi efektivitasnya terhadap cedera jangka panjang, tidak ada batasan yang ditempatkan pada mantra oleh Durasi di mana subjek menderita efek cedera.
 
-Saat dibalik, Harm memberikan 12 poin cedera magis ke salah satu Lokasi Pukulan korban pada lemparan yang gagal untuk melawan. Alternatifnya, penyakit ditimbulkan pada mereka, yang efeknya sama dengan mantra Cause Disease, kebalikan dari Cure Disease, tetapi pada POT +20. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Baik armor yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Armor sihir mengurangi kerusakan secara normal, dan sepenuhnya memblokir penyakit yang ditimbulkan. Setiap Intensitas tambahan mempengaruhi Lokasi Pukulan lain yang berdampingan dengan yang pertama, dengan efek sebagaimana ditentukan oleh lemparan Resistansi awal. Kedua versi mantra ini tidak berpengaruh pada mayat hidup, makhluk yang hanya terluka oleh besi, perak, atau senjata sihir, atau makhluk bukan jasmani.
+Saat dibalik, Harm memberikan 12 poin cedera magis ke salah satu Lokasi Pukulan korban pada lemparan yang gagal untuk melawan. Alternatifnya, penyakit ditimbulkan pada mereka, yang efeknya sama dengan mantra Cause Disease, kebalikan dari Cure Disease, tetapi pada POT +20. Lemparan Channel perapal berfungsi sebagai lemparan untuk memukul lawan mereka dan diasumsikan sebagai bagian dari persyaratan somatik mantra. Tidak diperlukan lemparan tambahan untuk memukul. Baik Zirah yang dikenakan maupun alami tidak menawarkan perlindungan, tetapi Poin Zirah sihir mengurangi kerusakan secara normal, dan sepenuhnya memblokir penyakit yang ditimbulkan. Setiap Intensitas tambahan mempengaruhi Lokasi Pukulan lain yang berdampingan dengan yang pertama, dengan efek sebagaimana ditentukan oleh lemparan Resistansi awal. Kedua versi mantra ini tidak berpengaruh pada mayat hidup, makhluk yang hanya terluka oleh besi, perak, atau senjata sihir, atau makhluk bukan jasmani.
 
 ---
 #### Hold Person
@@ -1495,7 +1495,7 @@ Saat dibalik, Unholy Word berfungsi seperti di atas, namun hanya mengenai makhlu
 
 Ice Storm memiliki dua efek, salah satunya dipilih saat mantra dirapalkan:
 
-Hail Stones (Durasi: Instan): Varian mantra ini menyebabkan bola-bola es besar menghujani area beradius 60 kaki. Mereka yang terjebak di area tersebut menerima 1d10 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya. Setiap dadu kerusakan dilempar secara individual dan diterapkan pada Lokasi Pukulan acak. Makhluk pengguna api menerima +3 kerusakan dari setiap hantaman es, dan makhluk pengguna dingin menerima setengah kerusakan. Armor yang dikenakan hanya menawarkan setengah perlindungan, tetapi armor alami makhluk (atau Poin Armor sihir) mengurangi kerusakan seperti biasa. Lemparan Resistansi Evade, menjatuhkan diri ke posisi tengkurap, hanya efektif jika berada dalam jarak 5 kaki dari perlindungan atau dari tepi Area Efek. Jika tidak, mustahil untuk menghindari kerusakan. Keberhasilan dalam melakukan Evade memungkinkan korban menderita setengah kerusakan dari setiap lemparan. Seseorang dengan Kemampuan Artful Dodger memiliki opsi untuk melakukan Evade tanpa terjatuh, dan jika dalam jarak 5 kaki dari perlindungan atau tepi Area Efek, tidak akan menerima kerusakan jika lemparan berhasil, jika tidak mereka menerima kerusakan seperti biasa.
+Hail Stones (Durasi: Instan): Varian mantra ini menyebabkan bola-bola es besar menghujani area beradius 60 kaki. Mereka yang terjebak di area tersebut menerima 1d10 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya. Setiap dadu kerusakan dilempar secara individual dan diterapkan pada Lokasi Pukulan acak. Makhluk pengguna api menerima +3 kerusakan dari setiap hantaman es, dan makhluk pengguna dingin menerima setengah kerusakan. Zirah yang dikenakan hanya menawarkan setengah perlindungan, tetapi Zirah alami makhluk (atau Poin Zirah sihir) mengurangi kerusakan seperti biasa. Lemparan Resistansi Evade, menjatuhkan diri ke posisi tengkurap, hanya efektif jika berada dalam jarak 5 kaki dari perlindungan atau dari tepi Area Efek. Jika tidak, mustahil untuk menghindari kerusakan. Keberhasilan dalam melakukan Evade memungkinkan korban menderita setengah kerusakan dari setiap lemparan. Seseorang dengan Kemampuan Artful Dodger memiliki opsi untuk melakukan Evade tanpa terjatuh, dan jika dalam jarak 5 kaki dari perlindungan atau tepi Area Efek, tidak akan menerima kerusakan jika lemparan berhasil, jika tidak mereka menerima kerusakan seperti biasa.
 
 | Intensitas | Biaya | Efek Variabel |
 | :-: | :-: | :-- |
@@ -1733,7 +1733,7 @@ _*Versi Ilahi dari mantra ini dapat dibalik, menyebabkan bola kegelapan total, y
 | **Biaya:** 3, +1/Intensitas tambahan | **Jarak:** 50 kaki/Intensitas |
 | **Area:** Jalur selebar 10 kaki | **Resistansi:** Evade |
 
-Saat pengguna sihir memulai nyanyian verbal dan gerakan pada Giliran pertama perapalan, muatan listrik mulai melengkung di antara jari-jari mereka. Pada Giliran kedua, nyanyian selesai, pengguna sihir mengirim ledakan petir dari ujung jari yang melengkung dalam garis lurus melalui semua target di jalur selebar 10 kaki sepanjang Jarak mantra. Kerusakan ini memberikan 1d6 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Kerusakan ini dilempar sekali, dan diterapkan pada masing-masing Lokasi Pukulan target, dengan armor duniawi maupun alami tidak menawarkan perlindungan, tetapi Poin Armor sihir mengurangi kerusakan seperti biasa.
+Saat pengguna sihir memulai nyanyian verbal dan gerakan pada Giliran pertama perapalan, muatan listrik mulai melengkung di antara jari-jari mereka. Pada Giliran kedua, nyanyian selesai, pengguna sihir mengirim ledakan petir dari ujung jari yang melengkung dalam garis lurus melalui semua target di jalur selebar 10 kaki sepanjang Jarak mantra. Kerusakan ini memberikan 1d6 poin kerusakan untuk setiap 2 poin Intensitas, atau pecahannya, pada semua korban dalam Area Efek. Kerusakan ini dilempar sekali, dan diterapkan pada masing-masing Lokasi Pukulan target, dengan Zirah duniawi maupun alami tidak menawarkan perlindungan, tetapi Poin Zirah sihir mengurangi kerusakan seperti biasa.
 
 Lemparan Evade yang berhasil, mengakibatkan menjatuhkan diri ke posisi tengkurap, memungkinkan korban menderita nol kerusakan. Seseorang dengan Kemampuan Artful Dodger memiliki opsi untuk melakukan Evade tanpa terjatuh, tetapi Keberhasilan dalam kasus ini hanya akan mengurangi kerusakan menjadi setengah, kecuali mereka berada dalam jarak 5 kaki dari tepi Area Efek.
 
@@ -1809,7 +1809,7 @@ Mantra ini dapat dirapalkan pada objek yang dapat dikunci seperti peti, pintu, p
 
 Saat mantra ini dirapalkan, satu atau lebih misil energi magis melesat dari ujung jari pengguna sihir dan menyerang target. Jumlah maksimum misil yang dapat dihasilkan didasarkan pada level keterampilan Arcane Casting perapal, dengan misil kedua dihasilkan pada keterampilan 60%, misil ketiga pada 70%, keempat pada 80%, dan misil kelima serta terakhir pada 90%. Untuk menghasilkan misil ini, mantra harus dirapalkan pada Intensitas yang setara dengan jumlah misil yang diinginkan. Misalnya, di bawah 60%, pengguna sihir yang merapalkan Magic Missile pada 3 Intensitas akan mencapai Jarak yang lebih jauh, namun hanya satu misil yang akan dihasilkan. Pengguna sihir dengan level keterampilan 70% dapat merapalkan mantra pada 3 Intensitas yang sama dan mencapai Jarak yang sama tetapi mampu menghasilkan 3 misil. Mantra ini memiliki Intensitas Maksimum 5. Lihat tabel di bawah.
 
-Magic Missile akan menyerang dengan pasti, bahkan jika target dalam pertempuran jarak dekat atau memiliki perlindungan sebagian. Misil ini tidak dapat dihindari; namun, lawan dalam perlindungan total tidak dapat ditargetkan dengan mantra ini. Mantra Shield akan secara otomatis membelokkan Magic Missile dengan asumsi target sadar dan/atau menghadap perapal. Magic Missile memberikan 1d6+1 poin kerusakan dan armor yang dikenakan tidak melindungi, tetapi armor alami makhluk atau Poin Armor sihir mengurangi kerusakan seperti biasa. Magic Missile tidak menyebabkan kerusakan pada benda mati seperti pintu, kunci, dan sebagainya.
+Magic Missile akan menyerang dengan pasti, bahkan jika target dalam pertempuran jarak dekat atau memiliki perlindungan sebagian. Misil ini tidak dapat dihindari; namun, lawan dalam perlindungan total tidak dapat ditargetkan dengan mantra ini. Mantra Shield akan secara otomatis membelokkan Magic Missile dengan asumsi target sadar dan/atau menghadap perapal. Magic Missile memberikan 1d6+1 poin kerusakan dan Zirah yang dikenakan tidak melindungi, tetapi Zirah alami makhluk atau Poin Zirah sihir mengurangi kerusakan seperti biasa. Magic Missile tidak menyebabkan kerusakan pada benda mati seperti pintu, kunci, dan sebagainya.
 
 Saat menembakkan beberapa misil, perapal dapat membuat mereka menyerang satu makhluk, atau menargetkan beberapa makhluk. Setiap Magic Missile akan menyerang Lokasi Pukulan acak - Lokasi Pukulan spesifik tidak dapat ditargetkan. Perapal harus menunjuk target individu dari setiap misil sebelum mereka melempar untuk kerusakan.
 
@@ -1871,7 +1871,7 @@ Saat pengguna sihir merapalkan mantra ini, dua meteor mikro per level Intensitas
     <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
 </div>
 
-Setiap meteor memberikan 1d10 poin kerusakan api pada mereka yang berada di Area Efek. Namun, karena radius setiap ledakan, banyak yang akan tumpang tindih, memberikan kerusakan tambahan pada mereka yang cukup malang untuk terjebak olehnya. Lemparan kerusakan digabungkan dan diterapkan pada masing-masing Lokasi Pukulan target, dengan armor yang dikenakan tidak menawarkan perlindungan, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa.
+Setiap meteor memberikan 1d10 poin kerusakan api pada mereka yang berada di Area Efek. Namun, karena radius setiap ledakan, banyak yang akan tumpang tindih, memberikan kerusakan tambahan pada mereka yang cukup malang untuk terjebak olehnya. Lemparan kerusakan digabungkan dan diterapkan pada masing-masing Lokasi Pukulan target, dengan Zirah yang dikenakan tidak menawarkan perlindungan, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa.
 
 Lemparan Evade yang berhasil memungkinkan korban menderita nol kerusakan. Seseorang dengan Kemampuan Artful Dodger memiliki opsi untuk melakukan Evade tanpa terjatuh, tetapi Keberhasilan dalam kasus ini hanya akan mengurangi kerusakan menjadi setengah, kecuali mereka berada dalam jarak 5 kaki dari tepi Area Efek.
 
@@ -2070,17 +2070,17 @@ Polish langsung memoles satu objek - setara dalam 'Benda' atau SIZ hingga POW pe
 
 Perapal dapat mengubah bentuk satu makhluk berjasmani yang ditargetkan menjadi bentuk makhluk lain, dengan setiap poin Intensitas mengubah SIZ hingga 5 poin. Oleh karena itu, mengubah orc SIZ 16 menjadi kelinci SIZ 1 akan memerlukan 3 level Intensitas (perbedaan 15 poin SIZ). Subjek mantra ini diizinkan melakukan lemparan Resistansi Willpower. Makhluk besar (SIZ 21-40) kurang rentan untuk diubah bentuknya, dengan lemparan Resistansi mereka menjadi Easy, sementara lemparan Resistansi untuk makhluk sangat besar (SIZ 41+) adalah Very Easy.
 
-Seluruh proses transformasi memakan waktu satu Ronde penuh dan bisa sangat membuat stres bagi makhluk tersebut, memerlukan lemparan Willpower kedua untuk mempertahankan kepribadian asli mereka, dengan Kegagalan membuat subjek pingsan selama 1d10 menit, dan Fumble mengakibatkan kematian karena guncangan mental. Setiap penggandaan atau pembagian dua SIZ asli makhluk membuat lemparan Willpower untuk mempertahankan kepribadian satu tingkat lebih sulit, begitu pula perubahan lingkungan yang lengkap, seperti mengubah orang menjadi ikan. Lemparan yang berhasil memungkinkan korban mempertahankan INT dan CHA mereka serta keterampilan apa pun yang memerlukan Karakteristik tersebut.
+Seluruh proses transformasi memakan waktu satu Ronde penuh dan bisa sangat membuat stres bagi makhluk tersebut, memerlukan lemparan Willpower kedua untuk mempertahankan kepribadian asli mereka, dengan Kegagalan membuat subjek pingsan selama 1d10 menit, dan Kegagalan Mutlak mengakibatkan kematian karena guncangan mental. Setiap penggandaan atau pembagian dua SIZ asli makhluk membuat lemparan Willpower untuk mempertahankan kepribadian satu tingkat lebih sulit, begitu pula perubahan lingkungan yang lengkap, seperti mengubah orang menjadi ikan. Lemparan yang berhasil memungkinkan korban mempertahankan INT dan CHA mereka serta keterampilan apa pun yang memerlukan Karakteristik tersebut.
 
 Transformasi memberi penerima bentuk pernapasan makhluk yang diasumsikan, jika selain normal; setiap serangan alami; dan semua mode pergerakan duniawi. Transformasi tidak memberikan Kemampuan yang ditingkatkan atau magis yang dimiliki makhluk tersebut. Misalnya, makhluk yang telah diubah menjadi naga tidak akan mendapatkan serangan napas atau kemampuan seperti mantra makhluk tersebut, tetapi akan mendapatkan kemampuan untuk terbang, kulit kerasnya, gigitan mematikan, serangan cakar, dan sebagainya. Selain itu, korban mendapatkan keterampilan fisik bentuk baru seperti Atletik, Brawn, Fly, Swim, serta Poin Pukulan dan Modifikator Kerusakan. Dengan asumsi individu yang diubah mempertahankan INT mereka, mereka tetap kehilangan kapasitas untuk berbicara, kecuali bentuk baru memiliki kemampuan untuk mengartikulasikan kata-kata. Mereka yang mampu merapalkan mantra dalam bentuk sebelumnya masih akan dapat merapalkan dalam bentuk baru dengan asumsi mereka masih memiliki kemampuan untuk menghasilkan komponen verbal dan somatik. Dalam kasus perubahan drastis, seperti diubah dari biped menjadi quadruped, atau hewan darat menjadi makhluk laut, misalnya, Games Master harus merasa bebas untuk mengenakan penalti setidaknya satu Tingkat Kesulitan, penggunaan keterampilan apa pun yang akan memakan waktu untuk dipelajari saat menyesuaikan dengan bentuk baru sampai ada cukup waktu untuk berlatih. Ini terutama berlaku untuk keterampilan fisik seperti Atletik, Unarmed, Swim, Fly, Keterampilan Tempur, dan sebagainya.
 
 Lemparan Willpower untuk mempertahankan kepribadian seseorang diperlukan setiap hari subjek tetap berubah sampai gagal, menyebabkan orang tersebut akhirnya menyerah pada mentalitas bentuk baru, dengan INT berubah menjadi INS dalam kasus makhluk non-sapient. Semua Kemampuan khusus dan magis yang dimiliki bentuk baru yang tidak diperoleh sebelumnya, seperti serangan tatapan, senjata napas, dan sebagainya, sekarang tersedia bagi makhluk tersebut karena transformasi selesai. Karakter yang kehilangan identitas mereka dengan cara ini menjadi Karakter Non-Pemain di bawah kendali Games Master.
 
-Sebelum mental menyerah pada transformasi, makhluk yang diubah bentuk rentan terhadap Dispel Magic seperti biasa, tanpa lemparan untuk melawan yang diperlukan, karena keinginan bawah sadar seseorang untuk kembali normal. Transformasi memerlukan lemparan Willpower lain untuk melawan ketegangan, dengan Kegagalan membuat subjek pingsan selama 1d10 menit, dan Fumble mengakibatkan kematian karena guncangan mental.
+Sebelum mental menyerah pada transformasi, makhluk yang diubah bentuk rentan terhadap Dispel Magic seperti biasa, tanpa lemparan untuk melawan yang diperlukan, karena keinginan bawah sadar seseorang untuk kembali normal. Transformasi memerlukan lemparan Willpower lain untuk melawan ketegangan, dengan Kegagalan membuat subjek pingsan selama 1d10 menit, dan Kegagalan Mutlak mengakibatkan kematian karena guncangan mental.
 
 Jika korban sebelumnya telah menyerah pada bentuk baru, Dispel Magic masih dapat digunakan; namun, korban akan mencoba melawan kembali ke bentuk alami dengan lemparan Willpower. Gagal dalam lemparan ini berarti korban berubah kembali ke bentuk alami, yang, tentu saja, memerlukan lemparan Willpower lain untuk melawan guncangan mental dari transformasi. Setelah hilang, identitas asli korban tidak dapat dicapai lagi, sebagai gantinya korban menganggap bentuk aneh dan asing itu tidak alami dan mendambakan untuk dikembalikan ke bentuk 'normal' sebelumnya. _Misalnya, orc yang diubah menjadi kelinci dan mengasumsikan identitas makhluk tersebut akan percaya bahwa ia sekarang adalah kelinci yang telah diubah dengan kasar menjadi orc._ Hanya Wish, atau sihir serupa lainnya, yang memiliki peluang untuk memulihkan identitas korban setelah hilang.
 
-Semua peralatan yang dikenakan dan dibawa secara magis melebur ke dalam bentuk baru; namun, dalam beberapa kasus, Games Master dapat mengizinkan item sihir yang masih dapat digunakan dalam bentuk baru makhluk tersebut untuk tetap ada, seperti cincin sihir atau sepatu bot. Perhatikan ini mengharuskan SIZ baru makhluk tersebut tidak terlalu berbeda dari yang asli. Ada peluang POW x1% untuk setiap item sihir yang dikenakan yang bukan bersifat ofensif, tunduk pada persetujuan Games Master, untuk mentransfer efeknya ke bentuk baru makhluk tersebut. Makhluk dengan cincin perlindungan +1 misalnya, dapat memperoleh bonus +1 pada Poin Armor alaminya. Makhluk dengan kemampuan alami untuk mengubah bentuk, seperti doppelgänger dan lycanthrope, akan diubah bentuknya seperti biasa, tetapi dapat kembali ke bentuk normal mereka setelah 1 Ronde. Jika terbunuh, makhluk yang diubah bentuk kembali ke bentuk alaminya, bahkan jika sebelumnya telah kehilangan semua jejak identitas.
+Semua peralatan yang dikenakan dan dibawa secara magis melebur ke dalam bentuk baru; namun, dalam beberapa kasus, Games Master dapat mengizinkan item sihir yang masih dapat digunakan dalam bentuk baru makhluk tersebut untuk tetap ada, seperti cincin sihir atau sepatu bot. Perhatikan ini mengharuskan SIZ baru makhluk tersebut tidak terlalu berbeda dari yang asli. Ada peluang POW x1% untuk setiap item sihir yang dikenakan yang bukan bersifat ofensif, tunduk pada persetujuan Games Master, untuk mentransfer efeknya ke bentuk baru makhluk tersebut. Makhluk dengan cincin perlindungan +1 misalnya, dapat memperoleh bonus +1 pada Poin Zirah alaminya. Makhluk dengan kemampuan alami untuk mengubah bentuk, seperti doppelgänger dan lycanthrope, akan diubah bentuknya seperti biasa, tetapi dapat kembali ke bentuk normal mereka setelah 1 Ronde. Jika terbunuh, makhluk yang diubah bentuk kembali ke bentuk alaminya, bahkan jika sebelumnya telah kehilangan semua jejak identitas.
 
 | Intensitas | Biaya | Efek Variabel |
 | :-: | :-: | :-- |
@@ -2245,7 +2245,7 @@ Preserve mencegah materi organik, baik nabati maupun hewani, dari pembusukan bak
 | **Biaya:** 1 | **Jarak:** Sentuhan |
 | **Area:** 1 Target | **Resistansi:** N/A |
 
-Protection berguna dalam berbagai tugas di mana terdapat risiko cedera yang tidak disengaja seperti bekerja di pengecoran atau tambang. Pertama kalinya karakter biasanya menerima kerusakan yang menembus pakaian pelindung atau armor, mantra Protection akan terpicu, dan mengurangi kerusakan yang diterima sebesar 1d3 poin. Mantra kemudian hilang. Mantra ini bertumpuk dengan semua bentuk sihir perlindungan lainnya. Mantra hanya melindungi dari kerusakan fisik sehingga tidak akan membantu dari peristiwa seperti api, tersedak, dan sebagainya. Versi penyihir dari mantra ini hanya dapat dirapalkan pada diri sendiri.
+Protection berguna dalam berbagai tugas di mana terdapat risiko cedera yang tidak disengaja seperti bekerja di pengecoran atau tambang. Pertama kalinya karakter biasanya menerima kerusakan yang menembus pakaian pelindung atau Zirah, mantra Protection akan terpicu, dan mengurangi kerusakan yang diterima sebesar 1d3 poin. Mantra kemudian hilang. Mantra ini bertumpuk dengan semua bentuk sihir perlindungan lainnya. Mantra hanya melindungi dari kerusakan fisik sehingga tidak akan membantu dari peristiwa seperti api, tersedak, dan sebagainya. Versi penyihir dari mantra ini hanya dapat dirapalkan pada diri sendiri.
 
 ---
 #### Protection from Cold
@@ -2283,7 +2283,7 @@ Saat dirapalkan pada seseorang selain diri sendiri, perlindungan lengkap dari di
 | **Biaya:** 1/Intensitas | **Jarak:** Sentuhan |
 | **Area:** 1 Target | **Resistansi:** N/A |
 
-Saat dirapalkan, aura armor magis tak terlihat memancar dari penerima mantra (yang bisa berupa perapal), memberikan tiga tingkat pertahanan yang berbeda.
+Saat dirapalkan, aura Zirah magis tak terlihat memancar dari penerima mantra (yang bisa berupa perapal), memberikan tiga tingkat pertahanan yang berbeda.
 
 Pertama, serangan oleh makhluk dengan Penyelarasan Jahat menerima penalti -10% pada Combat Style atau keterampilan Unarmed mereka. Lemparan Resistansi pada bagian penerima Protection from Evil menerima bonus +10%, tetapi hanya terhadap makhluk jahat.
 
@@ -2377,7 +2377,7 @@ Dalam kasus jiwa jahat, yang akan dengan senang hati kembali ke bidang material 
 
 Jika perapalan berhasil, subjek dikembalikan ke kehidupan dengan Poin Pukulan penuh, meskipun anggota tubuh yang terputus tetap hilang. Ini berarti korban yang dipenggal atau dipotong dua tidak dapat dibangkitkan sampai kepala atau batang tubuh mereka dipasang kembali terlebih dahulu. Ini dapat dilakukan sebelum perapalan Raise Dead dengan memasang kembali lokasi yang terputus secara fisik, yang memerlukan peralatan tabib dan penerapan keterampilan Penyembuhan yang berhasil, dan biasanya meninggalkan bekas luka yang jelas dan menceritakan. Penyakit lain, seperti racun atau penyakit harus diurus sebelum, atau setelah perapalan Raise Dead, atau hasilnya hanya bersifat sementara. Terakhir, Raise Dead tidak berpengaruh pada makhluk yang telah mencapai akhir masa hidup alaminya, dan mati karena usia tua.
 
-Tindakan dibangkitkan dari kematian sangat membebani subjek, yang dikurangi ke Level Kelelahan Incapacitated selama periode 24 jam untuk setiap hari mereka mati. Perapalan Cure Fatigue tidak berpengaruh pada pasien selama masa pemulihan ini. Setelah titik ini, karakter pulih dari Kelelahan secara normal, dan tanpa batasan.
+Tindakan dibangkitkan dari kematian sangat membebani subjek, yang dikurangi ke Level Kelelahan Incapacitated selama periode 24 jam untuk setiap hari mereka mati. Perapalan Cure Kelelahan tidak berpengaruh pada pasien selama masa pemulihan ini. Setelah titik ini, karakter pulih dari Kelelahan secara normal, dan tanpa batasan.
 
 Saat dibalik, Slay Living, dapat digunakan untuk membunuh satu korban yang ditunjuk oleh pendeta pada saat perapalan. Korban ini diizinkan melakukan lemparan Willpower untuk melawan, dimodifikasi oleh Peringkat atau SIZ target, mana pun yang memberikan hasil yang lebih menguntungkan bagi target, sebagaimana dirinci dalam tabel berikut.
 
@@ -2390,7 +2390,7 @@ Saat dibalik, Slay Living, dapat digunakan untuk membunuh satu korban yang ditun
 
 _\* Kategori ini mencakup karakter yang tidak memiliki Kelas._
 
-Jika lemparan Resistansi tidak berhasil, korban langsung dibunuh. Lemparan yang berhasil diperlakukan seperti efek Cause Serious Wounds. Armor tidak menawarkan perlindungan dari kerusakan ini. Destruction tidak menua perapal saat digunakan.
+Jika lemparan Resistansi tidak berhasil, korban langsung dibunuh. Lemparan yang berhasil diperlakukan seperti efek Cause Serious Wounds. Zirah tidak menawarkan perlindungan dari kerusakan ini. Destruction tidak menua perapal saat digunakan.
 
 ---
 #### Read Magic
@@ -2494,14 +2494,14 @@ Lempar pada tabel berikut untuk menentukan bentuk baru.
 | **Biaya:** 3, +1/Intensitas tambahan | **Jarak:** Sentuhan |
 | **Area:** 1 Target | **Resistansi:** N/A |
 
-Mantra ini biasanya menghilangkan efek kutukan apa pun yang menimpa makhluk atau item. Mantra ini tidak menghilangkan sifat terkutuk dari item seperti senjata, perisai, atau armor, tetapi memungkinkan makhluk yang menderita akibat item tersebut untuk terbebas darinya. Beberapa kutukan mungkin hanya dapat dihilangkan jika mantra dirapalkan pada Intensitas tertentu, biasanya dicatat dalam deskripsi spesifik. Baik Cure Disease atau Remove Curse dapat digunakan untuk menyembuhkan lycanthropy, dengan keduanya memerlukan Intensitas 12.
+Mantra ini biasanya menghilangkan efek kutukan apa pun yang menimpa makhluk atau item. Mantra ini tidak menghilangkan sifat terkutuk dari item seperti senjata, perisai, atau Zirah, tetapi memungkinkan makhluk yang menderita akibat item tersebut untuk terbebas darinya. Beberapa kutukan mungkin hanya dapat dihilangkan jika mantra dirapalkan pada Intensitas tertentu, biasanya dicatat dalam deskripsi spesifik. Baik Cure Disease atau Remove Curse dapat digunakan untuk menyembuhkan lycanthropy, dengan keduanya memerlukan Intensitas 12.
 
 Kebalikan dari mantra ini, Bestow Curse, menimbulkan salah satu efek berikut pada musuh dengan Durasi 30 menit per Intensitas. Korban diizinkan melakukan lemparan Willpower Berlawanan untuk melawan seperti biasa. Lempar 1d100 untuk menentukan sifat kutukan yang ditimbulkan:
 
 - 01-25: Semua keterampilan menggunakan STR, DEX, atau CON satu tingkat lebih sulit. Inisiatif -4, Modifikator Kerusakan berkurang 2 langkah.
 - 26-50: Semua keterampilan menggunakan INT, POW, atau CHA satu tingkat lebih sulit. Inisiatif -4.
 - 51-75: Keterampilan Tempur dan lemparan Resistansi 2 tingkat lebih sulit.
-- 76-00: Semua lemparan keterampilan yang gagal diperlakukan sebagai Fumble.
+- 76-00: Semua lemparan keterampilan yang gagal diperlakukan sebagai Kegagalan Mutlak.
 
 ---
 #### Remove Fear (R)
@@ -2585,7 +2585,7 @@ Saat dibalik, Destruction, dapat digunakan untuk membunuh satu korban yang berse
 
 _\* Kategori ini mencakup karakter yang tidak memiliki Kelas._
 
-Jika lemparan Resistansi ini tidak berhasil, subjek langsung dibunuh, tubuh mereka berubah menjadi debu. Hanya perapalan Wish yang akan membawa korban kembali pada tahap ini. Pada lemparan yang berhasil, subjek masih dikurangi menjadi negatif 1d4 Poin Pukulan di Lokasi Pukulan yang disentuh. Armor tidak menawarkan perlindungan dari kerusakan ini. Destruction tidak menua perapal saat digunakan.
+Jika lemparan Resistansi ini tidak berhasil, subjek langsung dibunuh, tubuh mereka berubah menjadi debu. Hanya perapalan Wish yang akan membawa korban kembali pada tahap ini. Pada lemparan yang berhasil, subjek masih dikurangi menjadi negatif 1d4 Poin Pukulan di Lokasi Pukulan yang disentuh. Zirah tidak menawarkan perlindungan dari kerusakan ini. Destruction tidak menua perapal saat digunakan.
 
 ---
 #### Secure Portal
@@ -2781,7 +2781,7 @@ Mantra ini menciptakan perisai di sekitar penerima yang mencegah roh dan hantu m
 | **Biaya:** 3, +1/Intensitas tambahan | **Jarak:** 0 |
 | **Area:** Radius 30 kaki/Intensitas | **Resistansi:** Parry atau Evade |
 
-Setelah merapalkan mantra ini, kekuatan energi spiritual seperti palu muncul, yang kemudian melontarkan dirinya ke target yang ditunjuk oleh perapal. Setiap Giliran, perapal dapat menggunakan salah satu Poin Aksi mereka untuk mengarahkan palu untuk menyerang, asalkan Konsentrasi dipertahankan. Saat berkonsentrasi, perapal dibatasi untuk bergerak tidak lebih cepat dari berjalan, dan dapat melakukan Evade atau Parry dengan senjata atau perisai yang dilengkapi tanpa mematahkan konsentrasi. Dengan setiap Poin Aksi yang dihabiskan untuk memanipulasi palu, ia dapat dipindahkan ke lokasi mana pun dalam bidang penglihatan perapal. Jika perapal berada di belakang lawan, mereka dapat menggunakan palu untuk menyerang lawan dari belakang, meniadakan kesempatan mereka untuk membela diri semampu mereka. Spiritual Hammer menyebabkan kerusakan seperti palu perang normal (1d8+1), dan memiliki peluang untuk memukul setara dengan Keterampilan Tempur pendeta. Armor yang dikenakan hanya menawarkan setengah perlindungan, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa. Mantra ini dapat ditangkis atau dihindari seperti biasa dan serangan terhadapnya tidak efektif. Spiritual Hammer dihitung sebagai senjata magis dalam hal menyerang makhluk yang hanya terluka oleh sihir, dengan setiap level Intensitas setelah yang pertama memberikan setara dengan bonus Sihir +1 kumulatif, hingga Maksimum +5. Bonus ini tidak menambah kerusakan yang ditimbulkan, melainkan membantu melukai makhluk yang hanya terluka oleh bonus sihir tertentu atau lebih tinggi.
+Setelah merapalkan mantra ini, kekuatan energi spiritual seperti palu muncul, yang kemudian melontarkan dirinya ke target yang ditunjuk oleh perapal. Setiap Giliran, perapal dapat menggunakan salah satu Poin Aksi mereka untuk mengarahkan palu untuk menyerang, asalkan Konsentrasi dipertahankan. Saat berkonsentrasi, perapal dibatasi untuk bergerak tidak lebih cepat dari berjalan, dan dapat melakukan Evade atau Parry dengan senjata atau perisai yang dilengkapi tanpa mematahkan konsentrasi. Dengan setiap Poin Aksi yang dihabiskan untuk memanipulasi palu, ia dapat dipindahkan ke lokasi mana pun dalam bidang penglihatan perapal. Jika perapal berada di belakang lawan, mereka dapat menggunakan palu untuk menyerang lawan dari belakang, meniadakan kesempatan mereka untuk membela diri semampu mereka. Spiritual Hammer menyebabkan kerusakan seperti palu perang normal (1d8+1), dan memiliki peluang untuk memukul setara dengan Keterampilan Tempur pendeta. Zirah yang dikenakan hanya menawarkan setengah perlindungan, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa. Mantra ini dapat ditangkis atau dihindari seperti biasa dan serangan terhadapnya tidak efektif. Spiritual Hammer dihitung sebagai senjata magis dalam hal menyerang makhluk yang hanya terluka oleh sihir, dengan setiap level Intensitas setelah yang pertama memberikan setara dengan bonus Sihir +1 kumulatif, hingga Maksimum +5. Bonus ini tidak menambah kerusakan yang ditimbulkan, melainkan membantu melukai makhluk yang hanya terluka oleh bonus sihir tertentu atau lebih tinggi.
 
 | Intensitas | Biaya | Efek Variabel |
 | :-: | :-: | :-- |
@@ -2807,7 +2807,7 @@ Setelah merapalkan mantra ini, kekuatan energi spiritual seperti palu muncul, ya
 
 Saat dirapalkan, pendeta dapat memanggil sinar cahaya suci yang cemerlang menggunakan Aksi Sihir Merapal kapan saja selama Durasi mantra. Sinar tersebut adalah sinar matahari alami dan memiliki radius lima kaki. Mereka yang berada di Area Efek harus melakukan Evade untuk mencoba menutupi mata mereka atau menjadi buta selama 1d3 Menit. Jika mereka gagal dalam lemparan Resistansi, Sun Ray membutakan makhluk yang menggunakan Dark Vision selama 2d4 Menit dan mereka kehilangan kemampuan Dark Vision mereka selama 1d4+1 Menit hingga 20 kaki di luar Area Efek. Makhluk yang merasa sinar matahari alami berbahaya bagi penglihatan mereka buta secara permanen pada lemparan Resistansi yang gagal atau buta selama 2d6 Ronde jika lemparan berhasil.
 
-Mayat hidup di Area Efek menerima 2d6 poin kerusakan pada setiap Lokasi Pukulan. Armor, alami atau sebaliknya, tidak menawarkan perlindungan, tetapi Poin Armor sihir mengurangi kerusakan seperti biasa. Mereka yang berada dalam jarak lima kaki dari tepi Area Efek dapat melakukan Evade untuk tidak menerima kerusakan. Mayat hidup dalam jarak 20 kaki dari Area Efek masih menerima 1d6+1 poin kerusakan tetapi tidak menderita kerusakan pada lemparan Resistansi yang berhasil. Mayat hidup yang secara khusus dirugikan oleh sinar matahari, seperti vampir, hancur jika mereka gagal melakukan Evade. Makhluk jamur serta semua bentuk jamur bawah tanah menderita efek yang sama seperti mayat hidup tetapi tidak dapat melakukan lemparan Resistansi.
+Mayat hidup di Area Efek menerima 2d6 poin kerusakan pada setiap Lokasi Pukulan. Zirah, alami atau sebaliknya, tidak menawarkan perlindungan, tetapi Poin Zirah sihir mengurangi kerusakan seperti biasa. Mereka yang berada dalam jarak lima kaki dari tepi Area Efek dapat melakukan Evade untuk tidak menerima kerusakan. Mayat hidup dalam jarak 20 kaki dari Area Efek masih menerima 1d6+1 poin kerusakan tetapi tidak menderita kerusakan pada lemparan Resistansi yang berhasil. Mayat hidup yang secara khusus dirugikan oleh sinar matahari, seperti vampir, hancur jika mereka gagal melakukan Evade. Makhluk jamur serta semua bentuk jamur bawah tanah menderita efek yang sama seperti mayat hidup tetapi tidak dapat melakukan lemparan Resistansi.
 
 ---
 #### Tidy
@@ -2869,7 +2869,7 @@ Mantra ini memungkinkan perapal untuk memanggil dinding atau lingkaran api yang 
 
 **Circle of Fire:** Versi mantra ini menciptakan lingkaran api di sekitar perapal yang bergerak bersama mereka. Memiliki radius 10 kaki, ditambah 5 kaki lagi per Intensitas tambahan di luar yang pertama. Terlepas dari Intensitas akhir, lingkaran memiliki tinggi 10 hingga 20 kaki sesuai keinginan saat dirapalkan. Circle of Fire harus melingkari perapal dan memiliki Jarak 0.
 
-Sisi dinding atau lingkaran yang menghadap jauh dari perapal memancarkan panas yang menyengat, menyebabkan 1d6 kerusakan per Ronde pada semua orang dalam jarak 10 kaki, dan 1d4 kerusakan hingga 20 kaki. Kerusakan ini biasanya diterapkan di akhir Ronde sebelum melanjutkan ke Ronde berikutnya. Di mana korban menempati kedua zona panas dalam satu Ronde, kerusakan yang lebih besar berlaku. Mereka yang melompat melalui api dikenakan 2d6 poin kerusakan, ditambah satu poin kerusakan tambahan per Intensitas di luar yang pertama. Kerusakan ini diterapkan pada setiap Lokasi Pukulan dan armor yang dikenakan tidak menawarkan perlindungan, tetapi Poin Armor sihir atau armor alami makhluk mengurangi kerusakan seperti biasa. Lemparan Resistansi Evade yang berhasil memungkinkan korban menderita nol kerusakan pada Ronde mantra terbentuk, saat korban mencoba menyelam menjauh dari panas atau melewati api. Makhluk pengguna api menerima setengah kerusakan ini dan makhluk pengguna dingin menerima dua kali lipat. Api memiliki peluang menyalakan bahan yang mudah terbakar sama dengan kerusakan yang dilempar x5%. Lihat bagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk informasi tambahan.
+Sisi dinding atau lingkaran yang menghadap jauh dari perapal memancarkan panas yang menyengat, menyebabkan 1d6 kerusakan per Ronde pada semua orang dalam jarak 10 kaki, dan 1d4 kerusakan hingga 20 kaki. Kerusakan ini biasanya diterapkan di akhir Ronde sebelum melanjutkan ke Ronde berikutnya. Di mana korban menempati kedua zona panas dalam satu Ronde, kerusakan yang lebih besar berlaku. Mereka yang melompat melalui api dikenakan 2d6 poin kerusakan, ditambah satu poin kerusakan tambahan per Intensitas di luar yang pertama. Kerusakan ini diterapkan pada setiap Lokasi Pukulan dan Zirah yang dikenakan tidak menawarkan perlindungan, tetapi Poin Zirah sihir atau Zirah alami makhluk mengurangi kerusakan seperti biasa. Lemparan Resistansi Evade yang berhasil memungkinkan korban menderita nol kerusakan pada Ronde mantra terbentuk, saat korban mencoba menyelam menjauh dari panas atau melewati api. Makhluk pengguna api menerima setengah kerusakan ini dan makhluk pengguna dingin menerima dua kali lipat. Api memiliki peluang menyalakan bahan yang mudah terbakar sama dengan kerusakan yang dilempar x5%. Lihat bagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk informasi tambahan.
 
 ---
 #### Water Breathing (R)
@@ -2909,14 +2909,14 @@ Mantra ini menyebabkan untaian panjang jaring lengket melesat dari tangan perapa
 
 Dengan asumsi target memiliki ruang untuk melarikan diri dari jaring, lemparan Evade yang berhasil menempatkan target di luar Area Efek; namun, ini memerlukan Poin Aksi untuk tersedia. Lemparan resistansi yang gagal meninggalkan korban tidak berdaya, dan 1d3 Lokasi Pukulan terjerat. Seperti Efek Khusus [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle), lokasi yang dijaring tidak dapat digunakan. Lengan yang terjerat tidak dapat menggunakan apa pun yang dipegangnya, dada, perut, atau kaki yang terjerat membuat semua lemparan keterampilan fisik satu tingkat lebih sulit (Kecuali lemparan Brawn yang digunakan untuk mencoba melepaskan diri), dan kepala yang terjerat menyebabkan mati lemas seperti yang dirinci di bawah [Asphyxiation](0007_Game_System.md?id=asphyxiation).
 
-Pada Giliran berikutnya, korban dapat menghabiskan Poin Aksi untuk mencoba melepaskan diri dari jaring. Jaring sihir sangat kuat dan lengket, memiliki 6 Poin Armor dan Poin Pukulan setara dengan 3x Intensitas mantra. Mencoba melepaskan diri mengharuskan korban memenangkan Lemparan Berlawanan Brawn melawan Kelengketan jaring (setara dengan keterampilan Arcane Casting perapal). Jika ini gagal, target tetap terikat, tidak dapat melepaskan diri dengan kekuatan saja. Mencoba memotong exposure alat atau senjata yang digunakan pada proses yang sama. Terlepas dari kepercayaan populer, jaring tidak mudah terbakar, tetapi karakter mungkin perlahan membakar jalan melalui jaring dengan menggunakan api untuk mengerutkan untaian (kerusakan api mengabaikan Poin Armor Jaring).
+Pada Giliran berikutnya, korban dapat menghabiskan Poin Aksi untuk mencoba melepaskan diri dari jaring. Jaring sihir sangat kuat dan lengket, memiliki 6 Poin Zirah dan Poin Pukulan setara dengan 3x Intensitas mantra. Mencoba melepaskan diri mengharuskan korban memenangkan Lemparan Berlawanan Brawn melawan Kelengketan jaring (setara dengan keterampilan Arcane Casting perapal). Jika ini gagal, target tetap terikat, tidak dapat melepaskan diri dengan kekuatan saja. Mencoba memotong exposure alat atau senjata yang digunakan pada proses yang sama. Terlepas dari kepercayaan populer, jaring tidak mudah terbakar, tetapi karakter mungkin perlahan membakar jalan melalui jaring dengan menggunakan api untuk mengerutkan untaian (kerusakan api mengabaikan Poin Zirah Jaring).
 
 | Intensitas | Biaya | Efek Variabel |
 | :-: | :-: | :-- |
-| 1 | 3 | 20 menit; Jarak 30 kaki; 6 armor, 3 Poin Pukulan |
-| 2 | 4 | 40 menit; Jarak 60 kaki; 6 armor, 6 Poin Pukulan |
-| 3 | 5 | 60 menit; Jarak 90 kaki; 6 armor, 9 Poin Pukulan |
-| 4 | 6 | 80 menit; Jarak 120 kaki; 6 armor, 12 Poin Pukulan |
+| 1 | 3 | 20 menit; Jarak 30 kaki; 6 Zirah, 3 Poin Pukulan |
+| 2 | 4 | 40 menit; Jarak 60 kaki; 6 Zirah, 6 Poin Pukulan |
+| 3 | 5 | 60 menit; Jarak 90 kaki; 6 Zirah, 9 Poin Pukulan |
+| 4 | 6 | 80 menit; Jarak 120 kaki; 6 Zirah, 12 Poin Pukulan |
 | +1 | +1 | Lanjutkan progresi |
 
 ---
@@ -2999,6 +2999,6 @@ Mantra ini menciptakan 'mata' kecil tidak terlihat yang dapat dilihat oleh pengg
 | **Biaya:** 3, +1/Intensitas tambahan | **Jarak:** 0 |
 | **Area:** Perapal | **Resistansi:** N/A |
 
-Saat mantra ini dirapalkan, pendeta langsung diteleportasi ke tempat perlindungan yang telah ditentukan sebelumnya, dan titik kedatangan yang ditentukan tidak lebih besar dari radius 10 kaki. Tidak ada batasan untuk Jarak sebenarnya yang diteleportasi, termasuk antara beberapa bidang. Dalam satu bidang, tidak ada peluang kecelakaan, namun, melintasi bahkan satu bidang memberikan peluang Fumble 91-00%, dua bidang memberikan Fumble pada lemparan 81-00%, dan seterusnya. Ini menggantikan peluang Fumble normal perapal. Fumble saat melintasi bidang menandakan bahwa pendeta tersesat tanpa dapat ditarik kembali. Fumble dalam satu bidang mengikuti aturan normal.
+Saat mantra ini dirapalkan, pendeta langsung diteleportasi ke tempat perlindungan yang telah ditentukan sebelumnya, dan titik kedatangan yang ditentukan tidak lebih besar dari radius 10 kaki. Tidak ada batasan untuk Jarak sebenarnya yang diteleportasi, termasuk antara beberapa bidang. Dalam satu bidang, tidak ada peluang kecelakaan, namun, melintasi bahkan satu bidang memberikan peluang Kegagalan Mutlak 91-00%, dua bidang memberikan Kegagalan Mutlak pada lemparan 81-00%, dan seterusnya. Ini menggantikan peluang Kegagalan Mutlak normal perapal. Kegagalan Mutlak saat melintasi bidang menandakan bahwa pendeta tersesat tanpa dapat ditarik kembali. Kegagalan Mutlak dalam satu bidang mengikuti aturan normal.
 
 Selain diri mereka sendiri dan perlengkapan apa pun yang dibawa, pendeta dapat mengangkut 3 objek lain per Intensitas, masing-masing tidak lebih besar dari 'Benda' SIZ/9. Materi tambahan yang diangkut mungkin berupa harta, peralatan, atau makhluk hidup. Namun, makhluk yang diangkut harus memiliki mantra yang dirapalkan pada tingkat Intensitas yang cukup untuk menutupi perlengkapan apa pun yang dibawa.
