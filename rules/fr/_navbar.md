@@ -1,4 +1,0 @@
-- [Accueil](README.md)
-- [Comment faire](HowTo.md)
-- [Journal des modifications](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)

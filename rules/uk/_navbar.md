@@ -1,4 +1,0 @@
-- [Головна](README.md)
-- [Як користуватися](HowTo.md)
-- [Журнал змін](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)
