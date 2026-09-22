@@ -1,4 +1,0 @@
-- [首页](README.md)
-- [使用指南](HowTo.md)
-- [更新日志](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)
