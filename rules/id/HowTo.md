@@ -73,7 +73,7 @@ Ini adalah menu atau panel navigasi di sisi kiri situs web. Setelah Anda menamba
 
 ## Mengubah Font
 
-1. Edit file /_assets/style.css
+1. Edit file /_assets/Gaya.css
 
 2. Di bawah 'body section', Anda akan menemukan siteFont & headingFont
 
@@ -91,7 +91,7 @@ Gunakan Fontawesome untuk mendapatkan ikon gratis dan ikon animasi. Pengguna ber
 3. Di jendela sembulan (popup), di bawah tab HTML, salin semua yang ada di antara " "
 
 ```EXAMPLE
-<i class="fa-solid fa-dice-d20"></i>
+<i Kelas="fa-solid fa-dice-d20"></i>
 ```
 
 4. Tempatkan teks yang disalin di antara `:` tanpa spasi
@@ -108,5 +108,5 @@ Gunakan Material Icons untuk lebih banyak ikon gratis
 2. Salin & masukkan tautan rentang web (web span link) langsung ke dalam file markdown Anda
 
 ```markup
-<span class="material-icons">face</span>
+<span Kelas="material-icons">face</span>
 ```

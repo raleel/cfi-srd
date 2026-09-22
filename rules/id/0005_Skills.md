@@ -46,7 +46,7 @@ _Classic Fantasy Imperative_ menggunakan serangkaian tingkat untuk menentukan ba
 | Standar | Tanpa penyesuaian | Tidak ada |
 | Sulit | Kurangi nilai keterampilan sebanyak sepertiga | -20% |
 | Menakutkan | Kurangi nilai keterampilan sebanyak setengahnya | -40% |
-| Herculean | Kurangi nilai keterampilan menjadi seperlima | -80% |
+| Herkules | Kurangi nilai keterampilan menjadi seperlima | -80% |
 | Mustahil | Tidak ada upaya yang dapat dilakukan | Tidak ada upaya yang dapat dilakukan |
 
 Jika karakter sudah menderita penalti dari keadaan lain, Tingkat Kesulitan yang paling sulitlah yang diutamakan.
@@ -70,7 +70,7 @@ Kekuatan Fisik adalah penerapan teknik yang efisien saat menggunakan tenaga fisi
 
 #### Menyembunyikan (DEX+POW)
 
-Menyembunyikan adalah kebalikan dari [Siluman](0005_Skills.md?id=stealth-dexint), yaitu penyembunyian objek besar alih-alih karakter itu sendiri. Misalnya, Menyembunyikan dapat digunakan untuk menyembunyikan kereta di balik beberapa bebatuan, atau menyapu bekas roda kereta sehingga jalurnya tidak dapat dilacak. Keterampilan ini serbaguna dalam penerapannya, mulai dari menyembunyikan gulungan di perpustakaan hingga menyamarkan keberadaan jebakan atau lorong rahasia.
+Menyembunyikan adalah kebalikan dari [Siluman](0005_Skills.md?id=Senyap-dexint), yaitu penyembunyian objek besar alih-alih karakter itu sendiri. Misalnya, Menyembunyikan dapat digunakan untuk menyembunyikan kereta di balik beberapa bebatuan, atau menyapu bekas roda kereta sehingga jalurnya tidak dapat dilacak. Keterampilan ini serbaguna dalam penerapannya, mulai dari menyembunyikan gulungan di perpustakaan hingga menyamarkan keberadaan jebakan atau lorong rahasia.
 
 #### Adat Istiadat (INT x2+40)
 
@@ -82,7 +82,7 @@ Hampir setiap budaya menggunakan tarian dengan satu atau lain cara – baik seba
 
 #### Tipu Daya (INT+CHA)
 
-Tipu Daya mencakup semua kasus di mana karakter mencoba menutupi kebenaran dan menawarkan semacam penipuan; berbohong terang-terangan, menyesatkan penjaga, atau bahkan menggertak (atau curang) selama permainan kartu. Keterampilan ini juga mencakup kasus-kasus di mana menyembunyikan emosi atau motif yang sebenarnya diperlukan (mungkin berpura-pura senang ketika seseorang sangat kecewa, atau mencoba tampak ramah dan terbuka ketika yang terjadi justru sebaliknya). Tipu Daya membentuk pasangan untuk keterampilan [Wawasan](0005_Skills.md?id=insight-intpow) dan dapat digunakan untuk melawan guliran Wawasan ketika orang lain mencoba mengetahui kebenaran atau motif.
+Tipu Daya mencakup semua kasus di mana karakter mencoba menutupi kebenaran dan menawarkan semacam penipuan; berbohong terang-terangan, menyesatkan penjaga, atau bahkan menggertak (atau curang) selama permainan kartu. Keterampilan ini juga mencakup kasus-kasus di mana menyembunyikan emosi atau motif yang sebenarnya diperlukan (mungkin berpura-pura senang ketika seseorang sangat kecewa, atau mencoba tampak ramah dan terbuka ketika yang terjadi justru sebaliknya). Tipu Daya membentuk pasangan untuk keterampilan [Wawasan](0005_Skills.md?id=Intuisi-intpow) dan dapat digunakan untuk melawan guliran Wawasan ketika orang lain mencoba mengetahui kebenaran atau motif.
 
 #### Mengemudi (DEX+POW)
 
@@ -90,7 +90,7 @@ Mengemudi mencakup kendali atas kendaraan beroda atau ditarik, baik oleh satu at
 
 #### Ketahanan (CON x2)
 
-Ketahanan adalah kapasitas karakter untuk menahan tekanan fisik, rasa sakit, dan kelelahan. Ini mengukur kemampuan tubuh untuk menangani kondisi yang berpotensi merusak atau melumpuhkan dan merupakan ukuran umum ketangguhan, stamina, dan metabolisme. Ketahanan, seperti pasangannya [Kekuatan Kehendak](0005_Skills.md?id=willpower-pow-x2), digunakan dalam berbagai cara, tetapi secara khusus untuk menahan efek cedera yang mungkin terjadi, termasuk racun dan penyakit yang berbahaya.
+Ketahanan adalah kapasitas karakter untuk menahan tekanan fisik, rasa sakit, dan kelelahan. Ini mengukur kemampuan tubuh untuk menangani kondisi yang berpotensi merusak atau melumpuhkan dan merupakan ukuran umum ketangguhan, stamina, dan metabolisme. Ketahanan, seperti pasangannya [Kekuatan Kehendak](0005_Skills.md?id=Tekad-pow-x2), digunakan dalam berbagai cara, tetapi secara khusus untuk menahan efek cedera yang mungkin terjadi, termasuk racun dan penyakit yang berbahaya.
 
 #### Menghindar (DEX x2)
 
@@ -134,7 +134,7 @@ Membawakan lagu dicakup oleh Bernyanyi, mulai dari nyanyian monoton hingga aria 
 
 #### Siluman (DEX+INT)
 
-Bersembunyi dari pandangan atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman. Penutup dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifik lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya penutup atau malam yang tenang, akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan Zirah berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka berdiri diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan Zirah mereka berdenting.
+Bersembunyi dari pandangan atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman. Penutup dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifik lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya penutup atau malam yang tenang, akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan Armor berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka berdiri diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan Armor mereka berdenting.
 
 #### Berenang (STR+CON)
 
@@ -148,7 +148,7 @@ Karena Tanpa Senjata adalah Keterampilan Pertempuran, efek Kritis dan Kegagalan 
 
 #### Kekuatan Kehendak (POW x2)
 
-Kekuatan Kehendak adalah ukuran kemampuan karakter untuk berkonsentrasi, menyalurkan kekuatan kehendaknya ke arah tertentu, atau mengeraskan jiwanya terhadap kemungkinan guncangan mental. Ini juga merupakan ukuran tekad pribadi. Keterampilan ini digunakan dalam berbagai situasi di mana ketahanan mental diperlukan, dan ini termasuk menahan sihir. Meskipun bukan ukuran kewarasan, keterampilan ini dapat digunakan untuk menahan peristiwa traumatis yang akan mengguncang pikiran yang paling waras dan stabil sekalipun. Kekuatan Kehendak adalah pasangan mental untuk [Ketahanan](0005_Skills.md?id=endurance-con-x2).
+Kekuatan Kehendak adalah ukuran kemampuan karakter untuk berkonsentrasi, menyalurkan kekuatan kehendaknya ke arah tertentu, atau mengeraskan jiwanya terhadap kemungkinan guncangan mental. Ini juga merupakan ukuran tekad pribadi. Keterampilan ini digunakan dalam berbagai situasi di mana ketahanan mental diperlukan, dan ini termasuk menahan sihir. Meskipun bukan ukuran kewarasan, keterampilan ini dapat digunakan untuk menahan peristiwa traumatis yang akan mengguncang pikiran yang paling waras dan stabil sekalipun. Kekuatan Kehendak adalah pasangan mental untuk [Ketahanan](0005_Skills.md?id=Ketahanan-con-x2).
 
 Sekali lagi, seperti Ketahanan dan Menghindar, Kekuatan Kehendak paling sering digunakan dalam Tes Lawan. Jika digunakan sebagai tes Standar, guliran Kekuatan Kehendak Kritis menunjukkan bahwa karakter telah mengeraskan pikiran dan jiwanya sampai tingkat di mana tidak ada upaya lebih lanjut untuk memengaruhinya, atau mengguncang tekadnya, yang akan berhasil. Dalam hal menahan sihir, Keberhasilan Kritis berarti tidak ada mantra yang menyiksa mental lebih lanjut yang dilemparkan oleh lawan yang memiliki efek apa pun pada karakter selama sisa pertemuan tersebut.
 
@@ -169,7 +169,7 @@ Akrobatik mencakup tindakan keseimbangan, senam, juggling, dan tumbling. Keteram
 
 Akrobatik dapat digantikan dengan Menghindar jika situasinya menjamin. Keuntungannya adalah karakter secara otomatis mendapatkan kembali pijakannya alih-alih terjatuh.
 
-Akrobatik juga berfungsi sebagai dasar untuk kemampuan [Vaulting](0003_Classes.md?id=rank-1-3) Peringkat 1 Rogue.
+Akrobatik juga berfungsi sebagai dasar untuk kemampuan [Vaulting](0003_Classes.md?id=Pangkat-1-3) Peringkat 1 Rogue.
 
 #### Penanganan Hewan (POW+CHA)
 
@@ -181,7 +181,7 @@ Perapalan Arcane adalah keterampilan sihir yang penting untuk Sihir Arcane. Ini 
 
 #### Pengetahuan Arcane (INT x2)
 
-Seperti Perapalan Arcane, keterampilan sihir ini penting untuk Sihir Arcane. Ini mewakili akumulasi pengetahuan mantra penyihir yang sebenarnya, dan digunakan saat mencoba mempelajari mantra baru, menyalinnya ke dalam buku mantra, membuat gulungan, mengidentifikasi mantra saat sedang dirapalkan, dan sebagainya. Ini juga menentukan jumlah mantra awal yang mungkin dimiliki perapal - dibahas lebih rinci di bagian [Struktur Peringkat](0003_Classes.md?id=rank-structure-2) kelas Penyihir.
+Seperti Perapalan Arcane, keterampilan sihir ini penting untuk Sihir Arcane. Ini mewakili akumulasi pengetahuan mantra penyihir yang sebenarnya, dan digunakan saat mencoba mempelajari mantra baru, menyalinnya ke dalam buku mantra, membuat gulungan, mengidentifikasi mantra saat sedang dirapalkan, dan sebagainya. Ini juga menentukan jumlah mantra awal yang mungkin dimiliki perapal - dibahas lebih rinci di bagian [Struktur Peringkat](0003_Classes.md?id=Pangkat-structure-2) kelas Penyihir.
 
 Pengetahuan Arcane tidak hanya terbatas pada perapal Arcane. Ini dapat diadopsi oleh mereka yang hanya ingin mempelajari hal-hal esoteris meskipun mereka tidak secara aktif mempraktikkan Sihir Arcane.
 
@@ -286,7 +286,7 @@ Orasi adalah seni menyampaikan pidato kepada sekelompok besar orang dengan tujua
 
 #### Pelayaran (INT+CON)
 
-Keterampilan ini digunakan dengan cara yang sama seperti [Berperahu](0005_Skills.md?id=boating-strcon) tetapi sebaliknya diterapkan pada kapal air besar yang digerakkan oleh layar atau deretan dayung. Ini juga mencakup pemeliharaan dan perawatan kapal: menilai kapan perbaikan diperlukan, di mana tempat yang aman untuk berlabuh, bahaya cuaca buruk, dan sebagainya.
+Keterampilan ini digunakan dengan cara yang sama seperti [Berperahu](0005_Skills.md?id=Berperahu-strcon) tetapi sebaliknya diterapkan pada kapal air besar yang digerakkan oleh layar atau deretan dayung. Ini juga mencakup pemeliharaan dan perawatan kapal: menilai kapan perbaikan diperlukan, di mana tempat yang aman untuk berlabuh, bahaya cuaca buruk, dan sebagainya.
 
 #### Rayuan (INT+CHA)
 

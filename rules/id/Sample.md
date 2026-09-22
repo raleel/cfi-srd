@@ -38,16 +38,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > [!Attention]
 > Contoh Gaya Callout Perhatian
 
-> [!Note|style:flat]
+> [!Note|Gaya:flat]
 > Contoh Gaya Datar Catatan
 
-> [!Tip|style:flat]
+> [!Tip|Gaya:flat]
 > Contoh Gaya Datar Tips
 
-> [!Warning|style:flat]
+> [!Warning|Gaya:flat]
 > Contoh Gaya Datar Peringatan
 
-> [!Attention|style:flat]
+> [!Attention|Gaya:flat]
 > Contoh Gaya Datar Perhatian
 
 ## Ikon Fontawesome 
@@ -60,4 +60,4 @@ D20 Animasi :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## Ikon Material
 
-<span class="material-icons">face</span>
+<span Kelas="material-icons">face</span>

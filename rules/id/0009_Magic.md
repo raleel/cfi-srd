@@ -12,7 +12,7 @@ _Classic Fantasy Imperative_ menyediakan aturan untuk dua tipe sihir, yang diseb
 
 Meskipun pengetahuan tentang kekuatan sihir mungkin lazim dalam suatu latar, bukan berarti energi sihir yang diperlukan untuk memanggilnya juga tersebar luas, atau bahkan tersedia. Memiliki keterampilan untuk mengubah seseorang menjadi macan tutul tidak ada gunanya jika Anda tidak memiliki energi untuk merapalkan mantra atau memohon mukjizat dari para dewa.
 
-Meskipun setiap karakter memiliki Atribut yang dikenal sebagai Poin Sihir (Magic Points), yang diturunkan dari Karakteristik POW mereka, ini hanya mewakili kapasitas untuk menampung atau menyimpan energi sihir, bukan kemampuan untuk menghasilkannya sendiri.
+Meskipun setiap karakter memiliki Atribut yang dikenal sebagai Poin Sihir (Poin Sihir), yang diturunkan dari Karakteristik POW mereka, ini hanya mewakili kapasitas untuk menampung atau menyimpan energi sihir, bukan kemampuan untuk menghasilkannya sendiri.
 
 #### Kehabisan Poin Sihir
 
@@ -127,16 +127,16 @@ Semua sihir yang digunakan dalam situasi pertempuran memiliki waktu perapalan ya
 Untuk benar-benar mengganggu perapalan biasanya mengharuskan perapal terluka atau secara mental ditundukkan. Peluangnya bergantung pada keadaan yang tepat:
 
 - Keberhasilan implementasi Efek Spesial Spoil Spell akan secara otomatis menyebabkan lemparan perapalan Gagal.
-- Luka Ringan memaksa perapal untuk membuat lemparan Tekad (Willpower), Kegagalan membuat perapalan menjadi 1 Tingkat Kesulitan lebih sulit.
+- Luka Ringan memaksa perapal untuk membuat lemparan Tekad (Tekad), Kegagalan membuat perapalan menjadi 1 Tingkat Kesulitan lebih sulit.
 - Luka Serius memaksa perapal untuk membuat lemparan Tekad, keberhasilan membuat perapalan menjadi 1 tingkat lebih sulit, sementara kegagalan membuat 2 tingkat lebih sulit.
 - Luka Utama secara otomatis menyebabkan lemparan perapalan Gagal.
 - Tunduk pada dominasi mental secara otomatis menyebabkan lemparan perapalan Gagal.
 
-### Merapalkan Mantra dengan Baju Zirah
+### Merapalkan Mantra dengan Baju Armor
 
-**Pendeta (Clerics):** Pendeta tidak menderita penalti saat mengenakan baju zirah atau menggunakan perisai.
+**Pendeta (Clerics):** Pendeta tidak menderita penalti saat mengenakan baju Armor atau menggunakan perisai.
 
-**Mage:** Karena baju zirah membatasi gerakan, dan komponen somatik yang terlibat dalam perapalan mantra memerlukan gerakan yang tepat, mage tidak dapat merapalkan mantra saat mengenakan baju zirah atau menggunakan perisai.
+**Mage:** Karena baju Armor membatasi gerakan, dan komponen somatik yang terlibat dalam perapalan mantra memerlukan gerakan yang tepat, mage tidak dapat merapalkan mantra saat mengenakan baju Armor atau menggunakan perisai.
 
 ---
 ## Waktu Perapalan
@@ -195,7 +195,7 @@ Karakter dapat menghentikan sihir apa pun yang mereka rapalkan secara pribadi se
 
 Kedua istilah ini adalah metode untuk menggambarkan potensi sihir. Besaran menunjukkan seberapa sulit untuk menghilangkan atau melawan sihir tersebut, sedangkan Intensitas mencerminkan tingkat efeknya. Detail lebih lanjut mengenai istilah-istilah ini dijelaskan untuk setiap disiplin.
 
-Meskipun Intensitas dan Besaran Maksimum didasarkan pada nilai keterampilan sihir, mereka tidak dimodifikasi oleh Tingkat Kesulitan apa pun yang diterapkan pada lemparan perapalan. Sebagai contoh, Intensitas Maksimum suatu mantra adalah 1/10 dari keterampilan Perapalan Arcane atau Penyaluran Divine perapal, tidak peduli apakah lemparan perapalan tersebut Mudah, Sulit, atau bahkan Herculean. Mantra dapat dirapalkan pada Intensitas berapa pun antara 1 dan Intensitas Maksimumnya. Besaran mantra selalu didasarkan pada Maksimum. Oleh karena itu, perapal dengan keterampilan 60% dapat memilih untuk merapalkan Fire Ball Intensitas 3; namun, mantra tersebut akan tetap memiliki Besaran 6. Perapal tidak perlu meningkatkan Intensitas ke nilai Maksimum mereka jika mereka ingin membatasi efek mantra atau menjaga biaya Poin Sihir tetap rendah. Selain itu, tidak semua mantra mendapat manfaat dari peningkatan Intensitas.
+Meskipun Intensitas dan Besaran Maksimum didasarkan pada nilai keterampilan sihir, mereka tidak dimodifikasi oleh Tingkat Kesulitan apa pun yang diterapkan pada lemparan perapalan. Sebagai contoh, Intensitas Maksimum suatu mantra adalah 1/10 dari keterampilan Perapalan Arcane atau Penyaluran Divine perapal, tidak peduli apakah lemparan perapalan tersebut Mudah, Sulit, atau bahkan Herkules. Mantra dapat dirapalkan pada Intensitas berapa pun antara 1 dan Intensitas Maksimumnya. Besaran mantra selalu didasarkan pada Maksimum. Oleh karena itu, perapal dengan keterampilan 60% dapat memilih untuk merapalkan Fire Ball Intensitas 3; namun, mantra tersebut akan tetap memiliki Besaran 6. Perapal tidak perlu meningkatkan Intensitas ke nilai Maksimum mereka jika mereka ingin membatasi efek mantra atau menjaga biaya Poin Sihir tetap rendah. Selain itu, tidak semua mantra mendapat manfaat dari peningkatan Intensitas.
 
 _Sebagai contoh, dengan keterampilan Perapalan Arcane 56%, Rengarth memiliki Intensitas dan Besaran Maksimum 6, untuk mantra apa pun yang ia pilih untuk dirapalkan. Intensitas mantranya dimulai pada 1 dan dapat ditingkatkan menjadi 6 dengan mengeluarkan Poin Sihir tambahan. Besaran mantranya adalah 6 terlepas dari Intensitas akhir._
 
@@ -211,7 +211,7 @@ Sebagai contoh, Detect Magic memiliki Durasi yang dicatat sebagai 2 Menit/Intens
 ---
 ## Melawan Sihir
 
-Sebagian besar mantra dan efek sihir yang menargetkan individu memungkinkan individu tersebut kesempatan untuk melawan; ini terkadang disebut melempar untuk menyelamatkan (save). Target yang melawan dapat melakukan lemparan lawan (Opposed) Ketahanan (Endurance), Tekad (Willpower), atau bahkan Menghindar (Evade) dalam kasus mantra rudal yang ditargetkan. Perhatikan bahwa Melawan (Menghindar) mengharuskan target memiliki Tindakan Pertarungan yang tersedia untuk menjauh. Mantra yang dapat dilawan selalu lebih mudah dilawan pada tingkat Besaran yang lebih rendah. Untuk melawan mantra, korban membandingkan hasil lemparan Ketahanan mereka dengan lemparan keterampilan Perapalan Arcane atau Penyaluran perapal. Jika keterampilan perapal asli tidak diketahui, yang mungkin terjadi pada mantra dengan durasi Permanen, jebakan sihir, dan sebagainya, buat lemparan keterampilan perapalan pada 55% untuk mantra Pangkat 1, +20% per Pangkat tambahan mantra tersebut. Oleh karena itu, mantra Pangkat 3 akan dilawan seolah-olah perapal memiliki keterampilan 95%.
+Sebagian besar mantra dan efek sihir yang menargetkan individu memungkinkan individu tersebut kesempatan untuk melawan; ini terkadang disebut melempar untuk menyelamatkan (save). Target yang melawan dapat melakukan lemparan lawan (Opposed) Ketahanan (Ketahanan), Tekad (Tekad), atau bahkan Menghindar (Menghindar) dalam kasus mantra rudal yang ditargetkan. Perhatikan bahwa Melawan (Menghindar) mengharuskan target memiliki Tindakan Pertarungan yang tersedia untuk menjauh. Mantra yang dapat dilawan selalu lebih mudah dilawan pada tingkat Besaran yang lebih rendah. Untuk melawan mantra, korban membandingkan hasil lemparan Ketahanan mereka dengan lemparan keterampilan Perapalan Arcane atau Penyaluran perapal. Jika keterampilan perapal asli tidak diketahui, yang mungkin terjadi pada mantra dengan durasi Permanen, jebakan sihir, dan sebagainya, buat lemparan keterampilan perapalan pada 55% untuk mantra Pangkat 1, +20% per Pangkat tambahan mantra tersebut. Oleh karena itu, mantra Pangkat 3 akan dilawan seolah-olah perapal memiliki keterampilan 95%.
 
 ---
 ## Menghilangkan Sihir (Dispelling)
@@ -382,7 +382,7 @@ Tidak ada batasan yang ditempatkan pada apa yang dapat diciptakan perapal jika i
 
 Baik ilusi maupun fantasme tidak memungkinkan perapal untuk melanggar hukum fisika. Karakter tidak akan bisa menunggangi kuda ilusi secara fisik; bahkan dengan asumsi perapal mempertahankan ilusi dan mencegahnya terurai saat seseorang mencoba melakukannya. Dan jembatan ilusi tidak akan membiarkan sekelompok petualang melintasi jurang nyata tidak peduli seberapa baik mereka yang terpengaruh percaya pada keberadaannya. Namun, jika memungkinkan, mereka yang terkena ilusi akan percaya bahwa segalanya berjalan seperti yang diharapkan. Sebagai contoh, pengendara yang mencoba menunggangi kuda ilusi akan melihat dirinya duduk di atasnya, memegang kendali, begitu pula semua orang di bawah efek mantra, dan sekelompok petualang yang melintasi jembatan ilusi akan melihat diri mereka melakukannya..., sampai mereka berdampak dengan dasar jurang.
 
-Saat dikonsentrasi, ilusi dapat dibuat untuk menyerang dan/atau menyebabkan cedera sebagaimana mestinya sesuai sifatnya dengan perapal menentukan hasil aktual dari pukulan, kerusakan, dan sebagainya. Ini mengharuskan perapal untuk terus berkonsentrasi sepanjang Durasi mantra. Tentu saja, kerusakan ini hanya ada dalam pikiran korban dan tidak ada kerusakan aktual yang dilakukan; namun, mereka akan mempercayainya sebagai nyata jika ilusi tersebut ada, atau sampai mereka Tidak Percaya. Ilusionis dapat memilih untuk memiliki baju zirah dan sihir untuk memblokir kerusakan ini sebagaimana mestinya dan menentukan hasil Spesial sesuai keinginan. Kerusakan apa pun yang diderita dari serangan atau ancaman ilusi diperlakukan sebagai kerusakan "nyata" sejauh menyangkut tingkat luka; namun, segera setelah ilusi terungkap apa adanya, kerusakan apa pun yang sebelumnya diderita oleh korban menghilang. Seperti dicatat di atas, perapal perlu menjaga hasil ini tetap realistis dan proporsional dengan ancaman yang dimaksud.
+Saat dikonsentrasi, ilusi dapat dibuat untuk menyerang dan/atau menyebabkan cedera sebagaimana mestinya sesuai sifatnya dengan perapal menentukan hasil aktual dari pukulan, kerusakan, dan sebagainya. Ini mengharuskan perapal untuk terus berkonsentrasi sepanjang Durasi mantra. Tentu saja, kerusakan ini hanya ada dalam pikiran korban dan tidak ada kerusakan aktual yang dilakukan; namun, mereka akan mempercayainya sebagai nyata jika ilusi tersebut ada, atau sampai mereka Tidak Percaya. Ilusionis dapat memilih untuk memiliki baju Armor dan sihir untuk memblokir kerusakan ini sebagaimana mestinya dan menentukan hasil Spesial sesuai keinginan. Kerusakan apa pun yang diderita dari serangan atau ancaman ilusi diperlakukan sebagai kerusakan "nyata" sejauh menyangkut tingkat luka; namun, segera setelah ilusi terungkap apa adanya, kerusakan apa pun yang sebelumnya diderita oleh korban menghilang. Seperti dicatat di atas, perapal perlu menjaga hasil ini tetap realistis dan proporsional dengan ancaman yang dimaksud.
 
 Sebagai contoh, ilusi sekelompok kobold penyerang yang menyebabkan sekelompok petualang Pangkat rendah kesulitan sebelum ditundukkan akan menjadi pertemuan yang diharapkan dan umum; namun, jika kobold yang sama ini menampilkan keterampilan tingkat master, tidak pernah meleset dan tampaknya menghindari setiap pukulan, para pemain seharusnya lebih dari kemungkinan besar menunjukkan kecurigaan dan akan berada dalam hak mereka untuk mencoba Tidak Percaya.
 
@@ -429,8 +429,8 @@ Kesulitan yang diterapkan pada lemparan keterampilan bergantung pada perbedaan a
 | Mantra memiliki Pangkat perapal atau lebih rendah | Mantra dapat dirapalkan tanpa lemparan keterampilan |
 | Mantra 1 Pangkat lebih tinggi dari perapal | Mantra dapat dirapalkan dengan lemparan keterampilan yang sukses |
 | Mantra 2 Pangkat lebih tinggi dari perapal | Mantra dapat dirapalkan dengan lemparan keterampilan Sulit yang sukses |
-| Mantra 3 Pangkat lebih tinggi dari perapal | Mantra dapat dirapalkan dengan lemparan keterampilan Hebat (Formidable) yang sukses |
-| Mantra 4 Pangkat lebih tinggi dari perapal | Mantra dapat dirapalkan dengan lemparan keterampilan Herculean yang sukses |
+| Mantra 3 Pangkat lebih tinggi dari perapal | Mantra dapat dirapalkan dengan lemparan keterampilan Hebat (Tangguh) yang sukses |
+| Mantra 4 Pangkat lebih tinggi dari perapal | Mantra dapat dirapalkan dengan lemparan keterampilan Herkules yang sukses |
 
 ### Melawan Efek Gulungan
 

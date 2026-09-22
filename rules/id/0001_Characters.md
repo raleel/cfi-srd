@@ -35,7 +35,7 @@ Sebelum menghitung Karakteristik, bagian berikut menjelaskan apa yang diwakili o
 
 #### Kekuatan (STR)
 
-STR mewakili kekuatan fisik: seberapa banyak seseorang dapat mengangkat, seberapa keras mereka dapat memukul, dan seterusnya. STR adalah komponen dari [Modifikator Kerusakan](0001_Characters.md?id=damage-modifier) (lihat bagian [Atribut](0001_Characters.md?id=step-3-attributes) di bawah). Jika seorang karakter dikurangi menjadi nol STR, mereka tidak memiliki kemampuan untuk bergerak atau mengangkat benda.
+STR mewakili kekuatan fisik: seberapa banyak seseorang dapat mengangkat, seberapa keras mereka dapat memukul, dan seterusnya. STR adalah komponen dari [Modifikator Kerusakan](0001_Characters.md?id=Daya Rusak-Modifier) (lihat bagian [Atribut](0001_Characters.md?id=step-3-Atribut) di bawah). Jika seorang karakter dikurangi menjadi nol STR, mereka tidak memiliki kemampuan untuk bergerak atau mengangkat benda.
 
 #### Konstitusi (CON)
 
@@ -47,11 +47,11 @@ SIZ mengukur massa dan membantu menunjukkan Tinggi serta Berat. SIZ digunakan un
 
 #### Ketangkasan (DEX)
 
-Kelincahan, keseimbangan, dan refleks diukur dengan DEX. Ini adalah aspek penting dari [Inisiatif](0001_Characters.md?id=initiative). Jika seorang karakter dikurangi menjadi nol DEX, mereka menderita kelumpuhan fungsional.
+Kelincahan, keseimbangan, dan refleks diukur dengan DEX. Ini adalah aspek penting dari [Inisiatif](0001_Characters.md?id=Inisiatif). Jika seorang karakter dikurangi menjadi nol DEX, mereka menderita kelumpuhan fungsional.
 
 #### Kecerdasan (INT)
 
-INT adalah ukuran kemampuan kognitif. Mereka dengan skor INT rendah tidak serta-merta bodoh, tetapi mereka kemungkinan akan terkendala dalam seberapa kreatif mereka dapat menggunakan kecerdasan mereka. INT adalah faktor dalam menghitung [Inisiatif](0001_Characters.md?id=initiative). Jika INT dikurangi menjadi nol, karakter tersebut menjadi sama sekali tidak memiliki pikiran.
+INT adalah ukuran kemampuan kognitif. Mereka dengan skor INT rendah tidak serta-merta bodoh, tetapi mereka kemungkinan akan terkendala dalam seberapa kreatif mereka dapat menggunakan kecerdasan mereka. INT adalah faktor dalam menghitung [Inisiatif](0001_Characters.md?id=Inisiatif). Jika INT dikurangi menjadi nol, karakter tersebut menjadi sama sekali tidak memiliki pikiran.
 
 #### Kekuatan Spiritual (POW)
 
@@ -59,7 +59,7 @@ POW adalah ukuran jiwa, semangat, dorongan batin, atau kapasitas untuk sihir kar
 
 #### Karisma (CHA)
 
-Karisma mengukur kepribadian dan tidak bergantung pada penampilan fisik. CHA memengaruhi [Modifikator Pengalaman](0001_Characters.md?id=experience-modifier) karakter. Jika CHA pernah jatuh ke nol, karakter tersebut tidak lagi dapat berinteraksi secara sosial dengan orang lain, menjadi sangat pemalu atau antisosial sehingga mereka diabaikan atau bahkan diusir.
+Karisma mengukur kepribadian dan tidak bergantung pada penampilan fisik. CHA memengaruhi [Modifikator Pengalaman](0001_Characters.md?id=experience-Modifier) karakter. Jika CHA pernah jatuh ke nol, karakter tersebut tidak lagi dapat berinteraksi secara sosial dengan orang lain, menjadi sangat pemalu atau antisosial sehingga mereka diabaikan atau bahkan diusir.
 
 ---
 ### Menghitung Karakteristik
@@ -157,7 +157,7 @@ Skor CHA karakter dapat menyesuaikan jumlah Lemparan Pengalaman yang dimiliki ka
 
 #### Tingkat Pemulihan
 
-Setelah menerima cedera, karakter perlu memulihkan diri. Tingkat Pemulihan menentukan seberapa cepat mereka pulih secara alami dari luka. Bergantung pada tingkat keparahan cedera (lihat bagian [Kerusakan dan Luka](0007_Game_System.md?id=damage-and-wound-levels)), Tingkat Pemulihan menunjukkan berapa banyak Poin Darah yang dipulihkan per hari, minggu, atau bulan.
+Setelah menerima cedera, karakter perlu memulihkan diri. Tingkat Pemulihan menentukan seberapa cepat mereka pulih secara alami dari luka. Bergantung pada tingkat keparahan cedera (lihat bagian [Kerusakan dan Luka](0007_Game_System.md?id=Daya Rusak-and-wound-levels)), Tingkat Pemulihan menunjukkan berapa banyak Poin Darah yang dipulihkan per hari, minggu, atau bulan.
 
 ##### Tabel Tingkat Pemulihan
 
@@ -170,7 +170,7 @@ Setelah menerima cedera, karakter perlu memulihkan diri. Tingkat Pemulihan menen
 
 #### Inisiatif
 
-Momen di mana seseorang bereaksi dalam pertempuran diatur oleh Inisiatif. Inisiatif bertindak sebagai modifikator untuk lemparan Inisiatif; semakin tinggi Inisiatif, semakin cepat seseorang merespons dalam situasi pertempuran, yang menentukan kapan Anda dapat bertindak. Faktor lebih lanjut – misalnya Zirah – memodifikasinya. Bab [Pertempuran](0008_Combat.md?) menjelaskan lebih detail tentang bagaimana [Inisiatif](0008_Combat.md?id=initiative) digunakan.
+Momen di mana seseorang bereaksi dalam pertempuran diatur oleh Inisiatif. Inisiatif bertindak sebagai modifikator untuk lemparan Inisiatif; semakin tinggi Inisiatif, semakin cepat seseorang merespons dalam situasi pertempuran, yang menentukan kapan Anda dapat bertindak. Faktor lebih lanjut – misalnya Armor – memodifikasinya. Bab [Pertempuran](0008_Combat.md?) menjelaskan lebih detail tentang bagaimana [Inisiatif](0008_Combat.md?id=Inisiatif) digunakan.
 
 Inisiatif adalah rata-rata dari Karakteristik DEX dan INT.
 
@@ -223,7 +223,7 @@ Setiap makhluk memiliki Tingkat Pergerakan – sejumlah kaki yang dapat ditempuh
 
 Poin Darah mewakili seberapa banyak cedera yang dapat ditahan oleh area tubuh sebelum area tersebut menjadi tidak berguna, yang mungkin mengakibatkan ketidakmampuan dan pada akhirnya kematian karakter. Tubuh setiap makhluk dibagi menjadi lokasi-lokasi terpisah – manusia, misalnya, memiliki tujuh; kepala, dada, perut, lengan, dan kaki – setiap lokasi dengan Poin Darahnya sendiri.
 
-Beberapa makhluk, seperti monster atau kelas hewan yang berbeda, karena sifat alaminya sering kali memiliki struktur tubuh yang sangat berbeda, namun setiap lokasi yang mereka miliki tetap memiliki Poin Darah. Ketika Poin Darah suatu lokasi berkurang ke tingkat tertentu melalui kerusakan jenis apa pun, maka karakter tersebut menderita konsekuensi tertentu yang mencerminkan tingkat keparahan cedera tersebut. Untuk informasi lebih lanjut mengenai luka, lihat bagian [Kerusakan dan Luka](0007_Game_System.md?id=damage-and-wound-levels).
+Beberapa makhluk, seperti monster atau kelas hewan yang berbeda, karena sifat alaminya sering kali memiliki struktur tubuh yang sangat berbeda, namun setiap lokasi yang mereka miliki tetap memiliki Poin Darah. Ketika Poin Darah suatu lokasi berkurang ke tingkat tertentu melalui kerusakan jenis apa pun, maka karakter tersebut menderita konsekuensi tertentu yang mencerminkan tingkat keparahan cedera tersebut. Untuk informasi lebih lanjut mengenai luka, lihat bagian [Kerusakan dan Luka](0007_Game_System.md?id=Daya Rusak-and-wound-levels).
 
 Untuk menghitung Poin Darah setiap lokasi, jumlahkan CON dan SIZ lalu silangkan hasilnya pada tabel Poin Darah. Semua karakter mendapatkan 1 Poin Darah tambahan di setiap lokasi pada Pangkat 2 dan 4.
 
@@ -283,7 +283,7 @@ _\* Termasuk bonus statis +40% untuk Adat Istiadat dan Bahasa Ibu karakter (Umum
 
 Dalam _Classic Fantasy Imperative_, pemain biasanya dapat memilih dari salah satu dari enam ras untuk karakter mereka: Manusia, atau salah satu ras demi-human (Kurcaci, Elf, Gnome, Half-Elf, Half-Orc, atau Halfling). Jika manusia, mereka harus lebih lanjut mendefinisikan karakter mereka melalui salah satu dari tiga latar belakang budaya; Barbar, Beradab, dan Nomaden. Bagi manusia, budaya menentukan jenis masyarakat tempat karakter dibesarkan, dan dengan demikian menentukan pandangan dan filosofi tertentu yang mungkin mereka miliki. Secara lebih praktis, budaya membantu menentukan nilai-nilai dari berbagai keahlian yang membentuk kemampuan keseluruhan karakter Anda. Ras demi-human umumnya berasal dari budaya ras yang jauh lebih stereotip dari ras tersebut secara umum. Lihat uraian ras dan budaya di [Bab 2](0002_Culture_and_Races.md) untuk informasi lebih lanjut.
 
-Semua karakter memiliki Penyelarasan (Alignment), yang terdiri dari satu Kode Etis dan satu Kode Moral, serta dua atau tiga Gairah (Passions). Beberapa akan memiliki Sumpah kepada ordo keagamaan, serikat, atau organisasi. Setiap uraian Kelas mencatat Penyelarasan atau Sumpah yang diperlukan. Sebelum melanjutkan, cari ras Anda di [Bab 2](0002_Culture_and_Races.md) dan catat Penyelarasan dan Gairah yang disarankan, serta periksa bagian [Kelas](0003_Classes.md) dan lihat apakah ada persyaratan Penyelarasan atau Sumpah. Lihat [Bab 4, Penyelarasan & Gairah](0004_Alignment_and_Passions.md) untuk menentukan detail spesifik mengenai Penyelarasan, Gairah, dan Sumpah Anda, jika ada.
+Semua karakter memiliki Penyelarasan (Alignment), yang terdiri dari satu Kode Etis dan satu Kode Moral, serta dua atau tiga Gairah (Gairah). Beberapa akan memiliki Sumpah kepada ordo keagamaan, serikat, atau organisasi. Setiap uraian Kelas mencatat Penyelarasan atau Sumpah yang diperlukan. Sebelum melanjutkan, cari ras Anda di [Bab 2](0002_Culture_and_Races.md) dan catat Penyelarasan dan Gairah yang disarankan, serta periksa bagian [Kelas](0003_Classes.md) dan lihat apakah ada persyaratan Penyelarasan atau Sumpah. Lihat [Bab 4, Penyelarasan & Gairah](0004_Alignment_and_Passions.md) untuk menentukan detail spesifik mengenai Penyelarasan, Gairah, dan Sumpah Anda, jika ada.
 
 Setiap ras dan budaya mencantumkan berbagai Keahlian Standar yang dipelajari karakter sebagai bagian dari perkembangan formatifnya dalam masyarakat tersebut. Ini adalah kemampuan inti yang ditingkatkan oleh semua karakter dari budaya spesifik yang sama sampai tingkat tertentu. Karakter juga mempelajari beberapa Keahlian Profesional yang terspesialisasi atau esoteris sesuai dengan minat pribadi mereka.
 

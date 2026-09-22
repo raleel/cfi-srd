@@ -7,7 +7,7 @@ Daftar ini tidak lengkap tetapi seharusnya mewakili situasi yang paling umum. Ji
 ---
 ## Penuaan
 
-Semua karakter menua, dan seiring bertambahnya usia, muncul konsekuensi tertentu. Tanda-tanda Penuaan dimulai pada Usia Paruh Baya Awal (40 tahun untuk manusia – spesies lain menua dengan tingkat yang lebih cepat atau lebih lambat sebagaimana ditunjukkan di bawah). Saat karakter memasuki Kelompok Usia baru, mereka harus melakukan lemparan Endurance dan lemparan Willpower pada Tingkat Kesulitan yang dicatat. Jika lemparan Gagal, maka ia mengalami Efek Penuaan seperti yang ditunjukkan pada tabel Efek Penuaan.
+Semua karakter menua, dan seiring bertambahnya usia, muncul konsekuensi tertentu. Tanda-tanda Penuaan dimulai pada Usia Paruh Baya Awal (40 tahun untuk manusia – spesies lain menua dengan tingkat yang lebih cepat atau lebih lambat sebagaimana ditunjukkan di bawah). Saat karakter memasuki Kelompok Usia baru, mereka harus melakukan lemparan Ketahanan dan lemparan Tekad pada Tingkat Kesulitan yang dicatat. Jika lemparan Gagal, maka ia mengalami Efek Penuaan seperti yang ditunjukkan pada tabel Efek Penuaan.
 
 Setiap Karakteristik yang terpengaruh oleh Penuaan berkurang sebanyak 1d3 poin. Poin-poin ini dapat dipulihkan atau setidaknya sebagian diimbangi melalui peningkatan Karakteristik, yang mewakili upaya yang dilakukan untuk menjaga diri tetap bugar dan waspada seiring bertambahnya usia. Jika ada Karakteristik yang berkurang menjadi nol karena Penuaan, karakter tersebut mati karena kelemahan terminalnya. Setelah karakter mencapai Kelompok Usia Uzur, lemparan Penuaan dilakukan setiap tahun tanpa memandang ras.
 
@@ -15,18 +15,18 @@ Efek melemahkan spesifik apa yang muncul sebagai bagian dari proses Penuaan ters
 
 ##### Kelompok Usia
 
-| **Kelompok Usia** | **Manusia** | **Dwarf** | **Elf** | **Gnome** | **½ Elf** | **½ Orc** | **Halfling** | **Tingkat Lemparan Endurance dan Willpower** |
+| **Kelompok Usia** | **Manusia** | **Dwarf** | **Elf** | **Gnome** | **½ Elf** | **½ Orc** | **Halfling** | **Tingkat Lemparan Ketahanan dan Tekad** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
 | Paruh Baya Awal | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Mudah |
 | Paruh Baya | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standar |
 | Paruh Baya Akhir | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Sulit |
 | Usia Tua | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Menakutkan |
-| Usia Tua Lanjut | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herculean |
+| Usia Tua Lanjut | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herkules |
 | Uzur | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Tanpa Harapan |
 
 ##### Tabel Efek Penuaan
 
-| **1d6** | **Penuaan Fisik (Endurance Gagal)** | **Penuaan Mental (Willpower Gagal)** |
+| **1d6** | **Penuaan Fisik (Ketahanan Gagal)** | **Penuaan Mental (Tekad Gagal)** |
 | :-: | :-- | :-- |
 | 1-2 | STR | INT |
 | 3-4 | CON | POW |
@@ -35,9 +35,9 @@ Efek melemahkan spesifik apa yang muncul sebagai bagian dari proses Penuaan ters
 ---
 ## Asfiksia
 
-Karakter dapat menahan napas selama sejumlah detik yang setara dengan keahlian Endurance mereka. Namun, karakter harus bersiap (mengisi paru-paru dengan udara sebanyak mungkin); jika tidak, maka periode tersebut dibagi dua jika karakter berada dalam situasi pasif, atau dikurangi menjadi seperlima jika karakter terlibat dalam aktivitas berat.
+Karakter dapat menahan napas selama sejumlah detik yang setara dengan keahlian Ketahanan mereka. Namun, karakter harus bersiap (mengisi paru-paru dengan udara sebanyak mungkin); jika tidak, maka periode tersebut dibagi dua jika karakter berada dalam situasi pasif, atau dikurangi menjadi seperlima jika karakter terlibat dalam aktivitas berat.
 
-Setelah periode menahan napas berakhir, karakter harus melakukan lemparan Endurance:
+Setelah periode menahan napas berakhir, karakter harus melakukan lemparan Ketahanan:
 
 - Jika lemparan adalah Keberhasilan Kritis, tidak ada kerusakan lebih lanjut yang terjadi.
 - Jika lemparan Berhasil, karakter memperoleh satu tingkat Kelelahan tambahan.
@@ -54,7 +54,7 @@ Tergantung pada metode Asfiksia, Games Master mungkin ingin mencegah pemulihan p
 Setiap karakter _Classic Fantasy Imperative_ dapat meningkat seiring waktu dan pengalaman. Peningkatan dapat dilakukan di beberapa bidang:
 
 - Meningkatkan keahlian yang ada
-- Meningkatkan Gairah (Passions)
+- Meningkatkan Gairah (Gairah)
 - Mempelajari keahlian baru
 - Mempelajari Kemampuan baru
 
@@ -77,9 +77,9 @@ Setiap keahlian pada Lembar Karakter, Standar atau Profesional, dapat ditingkatk
 
 Keahlian yang sama tidak boleh mendapatkan manfaat dari lebih dari satu Lemparan Pengalaman per sesi.
 
-#### Meningkatkan Gairah (Passions)
+#### Meningkatkan Gairah (Gairah)
 
-Seperti yang dijelaskan di bawah [Gairah](0004_Alignment_and_Passions.md?id=passions), nilai suatu Gairah dapat ditingkatkan dengan Lemparan Pengalaman dengan cara yang sama seperti keahlian. Jika didukung oleh permainan, Games Master bahkan mungkin mengizinkan Gairah dikurangi menggunakan Lemparan Pengalaman.
+Seperti yang dijelaskan di bawah [Gairah](0004_Alignment_and_Passions.md?id=Gairah), nilai suatu Gairah dapat ditingkatkan dengan Lemparan Pengalaman dengan cara yang sama seperti keahlian. Jika didukung oleh permainan, Games Master bahkan mungkin mengizinkan Gairah dikurangi menggunakan Lemparan Pengalaman.
 
 Sebagai contoh, penolakan terus-menerus dari cinta yang tak berbalas mungkin pada akhirnya akan mengikis Gairah bahkan dari kekasih yang paling bersemangat, terutama bagi seseorang yang ingin mengejar hubungan tanpa bayang-bayang masa lalu yang menghantuinya.
 
@@ -96,7 +96,7 @@ Dengan asumsi karakter memenuhi Peringkat dan tingkat keahlian yang diperlukan, 
 ---
 ## Jatuh
 
-Jumlah kerusakan yang diderita saat jatuh bergantung pada jarak jatuh. Poin Zirah tidak mengurangi kerusakan jatuh, tetapi Pengubah Kerusakan dari karakter atau makhluk yang jatuh berlaku untuk lemparan kerusakan.
+Jumlah kerusakan yang diderita saat jatuh bergantung pada jarak jatuh. Poin Armor tidak mengurangi kerusakan jatuh, tetapi Pengubah Kerusakan dari karakter atau makhluk yang jatuh berlaku untuk lemparan kerusakan.
 
 ##### Tabel Jarak Jatuh
 
@@ -118,17 +118,17 @@ Benda yang jatuh memberikan sejumlah kerusakan berdasarkan SIZ-nya dan jarak jat
 
 Kelelahan mengukur kelelahan dan efek inkrementalnya. Ini digunakan untuk melacak banyak hal yang berbeda, mulai dari aktivitas berat hingga efek penyakit yang melemahkan.
 
-Cara utama untuk mengakumulasi Kelelahan adalah dengan melakukan beberapa bentuk aktivitas fisik. Semakin berat latihan atau pekerjaan, semakin cepat karakter lelah. Atas kebijakan Games Master, karakter harus melakukan lemparan keahlian yang sesuai – baik Athletics, Brawn, atau Endurance – untuk menahan perolehan tingkat Kelelahan.
+Cara utama untuk mengakumulasi Kelelahan adalah dengan melakukan beberapa bentuk aktivitas fisik. Semakin berat latihan atau pekerjaan, semakin cepat karakter lelah. Atas kebijakan Games Master, karakter harus melakukan lemparan keahlian yang sesuai – baik Atletik, Berotot, atau Ketahanan – untuk menahan perolehan tingkat Kelelahan.
 
 Setiap lemparan yang Gagal mengakumulasi satu tingkat Kelelahan. Seperti yang ditunjukkan pada [Tabel Tingkat Kelelahan](0007_Game_System.md?id=Kelelahan-levels-table), setiap tingkat Kelelahan membawa penalti untuk penggunaan keahlian, pergerakan, Inisiatif, dan Poin Aksi. Asfiksia, Kehilangan Darah, dan efek lain yang bergantung pada pengaturan juga berkontribusi pada akumulasi Kelelahan.
 
-Bagi sebagian besar karakter, aktivitas dalam bentuk apa pun menjadi hampir mustahil ketika tingkat Incapacitated tercapai. Pada tahap ini, karakter masih sadar tetapi tidak mampu melakukan apa pun kecuali aktivitas yang paling mendesak.
+Bagi sebagian besar karakter, aktivitas dalam bentuk apa pun menjadi hampir mustahil ketika tingkat Tak Berdaya tercapai. Pada tahap ini, karakter masih sadar tetapi tidak mampu melakukan apa pun kecuali aktivitas yang paling mendesak.
 
-Di luar Incapacitated, karakter tidak dapat bertindak sama sekali. Tingkat Kelelahan – Semi-Conscious, Comatose, dan Dead – umumnya dicadangkan untuk mengukur efek paling ekstrem dari mati lemas, penyakit, kehilangan darah, kelaparan, paparan, dan sebagainya.
+Di luar Tak Berdaya, karakter tidak dapat bertindak sama sekali. Tingkat Kelelahan – Setengah Sadar, Koma, dan Tewas – umumnya dicadangkan untuk mengukur efek paling ekstrem dari mati lemas, penyakit, kehilangan darah, kelaparan, paparan, dan sebagainya.
 
 ### Pulih dari Kelelahan
 
-Karakter pulih dari Kelelahan tergantung pada Tingkat Penyembuhan (Healing Rate) mereka. Jumlah istirahat lengkap yang diperlukan untuk pulih dari setiap tingkat Kelelahan yang terakumulasi setara dengan Periode Pemulihan dibagi dengan Tingkat Penyembuhan karakter.
+Karakter pulih dari Kelelahan tergantung pada Tingkat Penyembuhan (Tingkat Sembuh) mereka. Jumlah istirahat lengkap yang diperlukan untuk pulih dari setiap tingkat Kelelahan yang terakumulasi setara dengan Periode Pemulihan dibagi dengan Tingkat Penyembuhan karakter.
 
 Perhatikan bahwa tabel tersebut mewakili pemulihan Kelelahan karena aktivitas fisik. Pemulihan Kelelahan bisa jauh lebih cepat saat pulih dari [Asfiksia](0007_Game_System.md?id=asphyxiation) atau lebih lambat jika memulihkan diri dari [Kehilangan Darah](0007_Game_System.md?id=blood-loss).
 
@@ -141,8 +141,8 @@ Perhatikan bahwa tabel tersebut mewakili pemulihan Kelelahan karena aktivitas fi
 | Lelah | Sulit | -5 kaki | Tanpa Penalti | Tanpa Penalti | 3 jam |
 | Capek | Menakutkan | -5 kaki | -2 | Tanpa Penalti | 6 jam |
 | Kelelahan | Menakutkan | Dibagi dua | -4 | -1 | 12 jam |
-| Lemah | Herculean | Dibagi dua | -6 | -2 | 18 jam |
-| Lumpuh | Herculean | Tidak Bergerak | -8 | -3 | 24 jam |
+| Lemah | Herkules | Dibagi dua | -6 | -2 | 18 jam |
+| Lumpuh | Herkules | Tidak Bergerak | -8 | -3 | 24 jam |
 | Setengah Sadar | Tanpa Harapan | Aktivitas Tidak Mungkin | Aktivitas Tidak Mungkin | Aktivitas Tidak Mungkin | 36 jam |
 | Koma | Aktivitas Tidak Mungkin | Aktivitas Tidak Mungkin | Aktivitas Tidak Mungkin | Aktivitas Tidak Mungkin | 48 jam |
 | Mati | Mati | – | – | – | Tidak Pernah |
@@ -150,7 +150,7 @@ Perhatikan bahwa tabel tersebut mewakili pemulihan Kelelahan karena aktivitas fi
 ---
 ## Api
 
-Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk di luar kendali. [Tabel Intensitas Api](0007_Game_System.md?id=fire-intensity-table) di bawah ini memberikan lima intensitas berbeda untuk kerusakan panas, dengan beberapa contoh. Kerusakan yang ditimbulkan per Ronde diberikan dalam kolom Kerusakan. Karena relatif kecil, sumber Intensitas 1 dan 2 menerapkan kerusakannya ke satu Lokasi Sasaran, biasanya yang menyentuh sumbernya. Sumber Intensitas 3 dan 4 lebih besar, menerapkan kerusakan ke 1d4+1 Lokasi Sasaran terdekat, yang menunjukkan tingkat panas radiasi. Sumber Intensitas 5 memengaruhi semua Lokasi Sasaran secara bersamaan. Api dapat menyalakan bahan yang mudah terbakar. Jika tidak segera dipadamkan, bahan tersebut terbakar dalam sejumlah Ronde seperti yang ditunjukkan oleh Intensitas api. Setelah terbakar, bahan yang mudah terbakar akan terbakar sampai dipadamkan secara fisik. Kerusakan diterapkan langsung ke Poin Hit bahan tersebut, mengabaikan Poin Zirah, dan ke daging apa pun di bawahnya. Jika dibiarkan tidak terkendali, api menyebar ke sejumlah Lokasi Sasaran, per Ronde, setara dengan Intensitasnya.
+Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk di luar kendali. [Tabel Intensitas Api](0007_Game_System.md?id=fire-intensity-table) di bawah ini memberikan lima intensitas berbeda untuk kerusakan panas, dengan beberapa contoh. Kerusakan yang ditimbulkan per Ronde diberikan dalam kolom Kerusakan. Karena relatif kecil, sumber Intensitas 1 dan 2 menerapkan kerusakannya ke satu Lokasi Sasaran, biasanya yang menyentuh sumbernya. Sumber Intensitas 3 dan 4 lebih besar, menerapkan kerusakan ke 1d4+1 Lokasi Sasaran terdekat, yang menunjukkan tingkat panas radiasi. Sumber Intensitas 5 memengaruhi semua Lokasi Sasaran secara bersamaan. Api dapat menyalakan bahan yang mudah terbakar. Jika tidak segera dipadamkan, bahan tersebut terbakar dalam sejumlah Ronde seperti yang ditunjukkan oleh Intensitas api. Setelah terbakar, bahan yang mudah terbakar akan terbakar sampai dipadamkan secara fisik. Kerusakan diterapkan langsung ke Poin Hit bahan tersebut, mengabaikan Poin Armor, dan ke daging apa pun di bawahnya. Jika dibiarkan tidak terkendali, api menyebar ke sejumlah Lokasi Sasaran, per Ronde, setara dengan Intensitasnya.
 
 ##### Tabel Intensitas Api
 
@@ -164,7 +164,7 @@ Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk 
 
 #### Serangan Berbasis Api
  
-Serangan berbasis api biasanya memiliki peluang persentase untuk menyalakan bahan yang mudah terbakar karena biasanya serangan ini berakhir dalam satu Ronde. Kecuali dinyatakan lain, peluang ini adalah kerusakan yang dilempar x5% untuk serangan berbasis api, dan kerusakan yang dilempar x1% untuk listrik. Setelah terbakar, bahan yang mudah terbakar akan membakar untuk 1d3-1 kerusakan setiap Ronde sampai dipadamkan secara fisik. Terapkan kerusakan ini langsung ke Poin Hit bahan tersebut, mengabaikan Poin Zirah, dan ke daging apa pun di bawahnya. Namun, Zirah alami makhluk menawarkan perlindungan normalnya. Korban dapat mencoba memadamkan api dengan menjatuhkan diri dalam posisi telungkup (prone) dan melakukan lemparan Athletics yang berhasil, yang memerlukan Poin Aksi dan dapat dicoba setiap Giliran. Jika orang lain membantu memadamkan api dengan cara tertentu, lemparan tersebut satu Tingkat Kesulitan lebih mudah. Jika lemparan kerusakan menghasilkan nol kerusakan, api telah padam dengan sendirinya di satu lokasi tersebut. Untuk setiap lokasi yang telah padam dengan sendirinya, lemparan untuk memadamkan api juga satu Tingkat Kesulitan lebih mudah.
+Serangan berbasis api biasanya memiliki peluang persentase untuk menyalakan bahan yang mudah terbakar karena biasanya serangan ini berakhir dalam satu Ronde. Kecuali dinyatakan lain, peluang ini adalah kerusakan yang dilempar x5% untuk serangan berbasis api, dan kerusakan yang dilempar x1% untuk listrik. Setelah terbakar, bahan yang mudah terbakar akan membakar untuk 1d3-1 kerusakan setiap Ronde sampai dipadamkan secara fisik. Terapkan kerusakan ini langsung ke Poin Hit bahan tersebut, mengabaikan Poin Armor, dan ke daging apa pun di bawahnya. Namun, Armor alami makhluk menawarkan perlindungan normalnya. Korban dapat mencoba memadamkan api dengan menjatuhkan diri dalam posisi telungkup (prone) dan melakukan lemparan Atletik yang berhasil, yang memerlukan Poin Aksi dan dapat dicoba setiap Giliran. Jika orang lain membantu memadamkan api dengan cara tertentu, lemparan tersebut satu Tingkat Kesulitan lebih mudah. Jika lemparan kerusakan menghasilkan nol kerusakan, api telah padam dengan sendirinya di satu lokasi tersebut. Untuk setiap lokasi yang telah padam dengan sendirinya, lemparan untuk memadamkan api juga satu Tingkat Kesulitan lebih mudah.
 
 ---
 ## Waktu Permainan
@@ -181,7 +181,7 @@ Ronde Pertarungan mewakili lima detik waktu nyata. Ronde digunakan untuk menguku
 
 #### Ronde Penjelajahan
 
-Ronde Penjelajahan mewakili lima menit waktu nyata dan memungkinkan kelompok untuk bergerak pada tiga kali Tingkat Pergerakan Dasar mereka (60 kaki untuk manusia dan demi-human seukuran manusia, 45 kaki untuk ras demi-human yang lebih kecil). Ronde Penjelajahan biasanya digunakan untuk mengukur pergerakan di penjara bawah tanah, di mana penting untuk menjaga tingkat kewaspadaan yang tinggi. Karakter bergerak lambat, waspada terhadap jebakan dan penyergapan, dan berusaha menjaga siluman. Ini juga mengasumsikan seseorang dalam kelompok sedang memetakan. Jika tidak ada yang memetakan, Ronde Penjelajahan dapat dianggap berlangsung satu menit. Menggunakan Ronde Penjelajahan memungkinkan lemparan Perception Anda dilakukan tanpa penalti, namun, seperti biasa, penalti lain mungkin berlaku. Musuh merasa satu tingkat lebih sulit untuk mendeteksi kelompok pada kecepatan penjelajahan kecuali Anda menggunakan sumber cahaya di area gelap (seperti obor atau lentera), yang akan membongkar posisi Anda. Jika karakter memutuskan untuk membuang kehati-hatian, Anda dapat bergerak melalui penjara bawah tanah menggunakan Ronde Pertarungan. Namun, dalam kasus ini, lemparan Perception satu tingkat lebih sulit, dan musuh tidak menderita Penalti Perception sehubungan dengan mendeteksi karakter. Perhatikan bahwa saat menggunakan alas pertempuran (battle mat) yang mengungkapkan seluruh penjara bawah tanah kepada pemain, atau saat Games Master menggambar penjara bawah tanah untuk mereka, **selalu** harus diasumsikan bahwa kelompok sedang memetakan, dan karena itu bergerak dengan kecepatan penjelajahan.
+Ronde Penjelajahan mewakili lima menit waktu nyata dan memungkinkan kelompok untuk bergerak pada tiga kali Tingkat Pergerakan Dasar mereka (60 kaki untuk manusia dan demi-human seukuran manusia, 45 kaki untuk ras demi-human yang lebih kecil). Ronde Penjelajahan biasanya digunakan untuk mengukur pergerakan di penjara bawah tanah, di mana penting untuk menjaga tingkat kewaspadaan yang tinggi. Karakter bergerak lambat, waspada terhadap jebakan dan penyergapan, dan berusaha menjaga siluman. Ini juga mengasumsikan seseorang dalam kelompok sedang memetakan. Jika tidak ada yang memetakan, Ronde Penjelajahan dapat dianggap berlangsung satu menit. Menggunakan Ronde Penjelajahan memungkinkan lemparan Persepsi Anda dilakukan tanpa penalti, namun, seperti biasa, penalti lain mungkin berlaku. Musuh merasa satu tingkat lebih sulit untuk mendeteksi kelompok pada kecepatan penjelajahan kecuali Anda menggunakan sumber cahaya di area gelap (seperti obor atau lentera), yang akan membongkar posisi Anda. Jika karakter memutuskan untuk membuang kehati-hatian, Anda dapat bergerak melalui penjara bawah tanah menggunakan Ronde Pertarungan. Namun, dalam kasus ini, lemparan Persepsi satu tingkat lebih sulit, dan musuh tidak menderita Penalti Persepsi sehubungan dengan mendeteksi karakter. Perhatikan bahwa saat menggunakan alas pertempuran (battle mat) yang mengungkapkan seluruh penjara bawah tanah kepada pemain, atau saat Games Master menggambar penjara bawah tanah untuk mereka, **selalu** harus diasumsikan bahwa kelompok sedang memetakan, dan karena itu bergerak dengan kecepatan penjelajahan.
 
 #### Waktu Keahlian
 
@@ -195,15 +195,15 @@ Ini adalah jumlah waktu yang diambil ketika Games Master sedang menarasikan kepa
 
 Istirahat Singkat mewakili periode sekitar 15 menit di mana para petualang berhenti untuk mengatur napas, tidak melakukan apa pun yang lebih berat daripada membaca, makan, minum, berdoa, dan merawat luka. Kelompok memutuskan berapa lama untuk beristirahat, dan kemudian melakukan tindakan 15 menit yang relevan, dengan setiap pemain melakukan satu tindakan sebelum melanjutkan ke yang berikutnya. Tidak ada batasan jumlah Istirahat Singkat yang dapat dilakukan kelompok dalam sehari, dan biasanya beberapa tindakan istirahat dilakukan setelah mendirikan kemah, serta di pagi hari sebelum berangkat. Setiap Tindakan Istirahat 15 menit dirinci di bawah dan dapat diambil lebih dari sekali kecuali dinyatakan lain.
 
-- **Makan Ransum:** Tindakan Istirahat 15 menit ini hanya boleh dilakukan sekali sehari karena ransum dilacak sebagai barang harian dan menghapus **setiap** satu tingkat Kelelahan yang tidak lebih besar dari Exhausted, serta meredakan rasa lapar apa pun. Karakter dapat mengurangi Kelelahan mereka satu tingkat lagi setelah makan jika tidak lebih besar dari Winded, karena ini merupakan aktivitas yang tidak berat.
-- **Berdoa kepada Dewa atau Mempelajari buku mantra:** Memulihkan 1 Poin Sihir per Tindakan Istirahat 15 menit yang dihabiskan dalam doa atau studi. Karakter dapat mengurangi Kelelahan mereka satu tingkat jika tidak lebih besar dari Winded karena ini merupakan aktivitas yang tidak berat.
-- **Merawat luka:** Habiskan Tindakan Istirahat 15 menit menggunakan keahlian First Aid, atau empat tindakan istirahat 15 menit (satu jam) menggunakan keahlian Healing.
+- **Makan Ransum:** Tindakan Istirahat 15 menit ini hanya boleh dilakukan sekali sehari karena ransum dilacak sebagai barang harian dan menghapus **setiap** satu tingkat Kelelahan yang tidak lebih besar dari Kehabisan Tenaga, serta meredakan rasa lapar apa pun. Karakter dapat mengurangi Kelelahan mereka satu tingkat lagi setelah makan jika tidak lebih besar dari Capek, karena ini merupakan aktivitas yang tidak berat.
+- **Berdoa kepada Dewa atau Mempelajari buku mantra:** Memulihkan 1 Poin Sihir per Tindakan Istirahat 15 menit yang dihabiskan dalam doa atau studi. Karakter dapat mengurangi Kelelahan mereka satu tingkat jika tidak lebih besar dari Capek karena ini merupakan aktivitas yang tidak berat.
+- **Merawat luka:** Habiskan Tindakan Istirahat 15 menit menggunakan keahlian Pertolongan Pertama, atau empat tindakan istirahat 15 menit (satu jam) menggunakan keahlian Healing.
 - **Merapal satu atau lebih mantra:** Sejumlah mantra dapat dirapal untuk menyembuhkan atau memperkuat anggota kelompok selama Tindakan Istirahat 15 menit, terbatas pada Poin Sihir yang tersedia.
 - **Mempersiapkan mantra baru:** Setelah periode tidur setidaknya 8 jam, perapal mantra dapat menggunakan Tindakan Istirahat 15 menit untuk menghafal, atau melupakan, mantra Arcane atau Divine, tergantung pada batasan yang dirinci di bawah [Menghafal Mantra](0009_Magic.md?id=memorizing-spells).
-- **Berleha-leha (Dither):** Ini adalah Tindakan Istirahat 15 menit default kecuali Tindakan lain dipilih. Karakter hanya membuang 15 menit tanpa melakukan apa pun yang berguna. Tindakan Istirahat ini biasanya dilakukan jika anggota kelompok lain masih melakukan tindakan istirahat dan Anda tidak memiliki apa pun untuk dilakukan. Karakter dapat mengurangi Kelelahan mereka satu tingkat jika tidak lebih besar dari Winded karena ini merupakan aktivitas yang tidak berat.
+- **Berleha-leha (Dither):** Ini adalah Tindakan Istirahat 15 menit default kecuali Tindakan lain dipilih. Karakter hanya membuang 15 menit tanpa melakukan apa pun yang berguna. Tindakan Istirahat ini biasanya dilakukan jika anggota kelompok lain masih melakukan tindakan istirahat dan Anda tidak memiliki apa pun untuk dilakukan. Karakter dapat mengurangi Kelelahan mereka satu tingkat jika tidak lebih besar dari Capek karena ini merupakan aktivitas yang tidak berat.
 
 ---
-## Lokasi Sasaran (Hit Locations)
+## Lokasi Sasaran (Lokasi Bentur)
 
 Sebagian besar serangan (senjata) yang berhasil mengenai Lokasi Sasaran tertentu. Ini dapat ditentukan secara acak atau dalam beberapa keadaan dipilih oleh Efek Khusus seperti Pilih Lokasi. Untuk menghitung secara acak lokasi mana yang telah terkena, lempar 1d20 dan bandingkan angka yang dilempar dengan tabel Lokasi Sasaran humanoid atau makhluk yang relevan.
 
@@ -223,18 +223,18 @@ Tabel Lokasi Sasaran humanoid diulang di sini untuk kemudahan referensi.
 | 16-18 | Lengan Kiri |
 | 19-20 | Kepala |
 
-Perhatikan bahwa beberapa serangan, terutama yang magis, atau yang dihasilkan oleh monster tertentu (misalnya napas api naga merah), mungkin mengenai beberapa Lokasi Sasaran secara bersamaan. Lokasi Sasaran individu mungkin dilengkapi Zirah, baik dari perlindungan yang dikenakan atau ketangguhan alami permukaan luar makhluk tersebut. Ini penting ketika mempertimbangkan Kerusakan dan Tingkat Luka di bawah.
+Perhatikan bahwa beberapa serangan, terutama yang magis, atau yang dihasilkan oleh monster tertentu (misalnya napas api naga merah), mungkin mengenai beberapa Lokasi Sasaran secara bersamaan. Lokasi Sasaran individu mungkin dilengkapi Armor, baik dari perlindungan yang dikenakan atau ketangguhan alami permukaan luar makhluk tersebut. Ini penting ketika mempertimbangkan Kerusakan dan Tingkat Luka di bawah.
 
 ### Tingkat Kerusakan dan Luka
 
-Jika serangan mengenai dengan sukses, itu menyebabkan kerusakan sesuai dengan peringkat kerusakan untuk senjata (lihat entri tabel untuk [Senjata jarak dekat](0006_Money_and_Equipment.md?id=basic-melee-weapons) dan [Senjata jarak jauh](0006_Money_and_Equipment.md?id=basic-ranged-weapons) di bab [Uang & Peralatan](0006_Money_and_Equipment.md?)). Sebagai contoh, pedang pendek memberikan 1d6 kerusakan.
+Jika serangan mengenai dengan sukses, itu menyebabkan kerusakan sesuai dengan peringkat kerusakan untuk senjata (lihat entri tabel untuk [Senjata jarak dekat](0006_Money_and_Equipment.md?id=basic-melee-Senjata) dan [Senjata jarak jauh](0006_Money_and_Equipment.md?id=basic-ranged-Senjata) di bab [Uang & Peralatan](0006_Money_and_Equipment.md?)). Sebagai contoh, pedang pendek memberikan 1d6 kerusakan.
 
 Kerusakan yang dilempar untuk senjata atau serangan dimodifikasi oleh kondisi tertentu dalam urutan berikut:
 
 - Terapkan Pengubah Kerusakan untuk karakter yang melakukan serangan.
 - Modifikasi kerusakan dari sihir peningkat (atau pengurang) senjata apa pun.
 - Jika ditangkis (parried), kurangi kerusakan dengan tepat sesuai dengan ukuran senjata komparatif.
-- Jika Lokasi Sasaran dilengkapi Zirah, kurangi kerusakan sebesar nilai Poin Zirah.
+- Jika Lokasi Sasaran dilengkapi Armor, kurangi kerusakan sebesar nilai Poin Armor.
 
 Jika kerusakan yang ditimbulkan oleh serangan di atas nol, maka Lokasi Sasaran menderita jumlah kerusakan tersebut, dengan total kerusakan segera dikurangi dari Poin Hit lokasi tersebut. Perhatikan berapa banyak Poin Hit yang tersisa di lokasi tersebut, dan kategori luka yang dihasilkan.
 
@@ -242,7 +242,7 @@ Jika kerusakan yang ditimbulkan oleh serangan di atas nol, maka Lokasi Sasaran m
 - **Luka Serius:** Lokasi Sasaran berkurang menjadi nol Poin Hit atau di bawahnya.
 - **Luka Besar:** Lokasi Sasaran berkurang menjadi skor negatif yang sama dengan atau lebih besar dari Poin Hit awalnya.
 
-Gunakan aturan berikut jika suatu lokasi menerima Luka Serius atau Besar. Perhatikan bahwa luka yang memerlukan pemeriksaan Endurance mengujinya dalam Lemparan Berlawanan (Opposed Roll) terhadap nilai lemparan serangan awal. Ini mencerminkan kemampuan pejuang yang sangat terampil untuk melakukan serangan yang lebih mematikan. Lemparan Endurance tidak diulang kecuali lokasi tersebut terluka lagi.
+Gunakan aturan berikut jika suatu lokasi menerima Luka Serius atau Besar. Perhatikan bahwa luka yang memerlukan pemeriksaan Ketahanan mengujinya dalam Lemparan Berlawanan (Opposed Roll) terhadap nilai lemparan serangan awal. Ini mencerminkan kemampuan pejuang yang sangat terampil untuk melakukan serangan yang lebih mematikan. Lemparan Ketahanan tidak diulang kecuali lokasi tersebut terluka lagi.
 
 #### Luka Ringan
 
@@ -252,17 +252,17 @@ Luka ringan adalah sayatan, goresan, memar, dan terkilir. Luka ini menyakitkan d
 
 Jika suatu lokasi berkurang menjadi nol Poin Hit atau di bawahnya, korban menerima Luka Serius. Lokasi tersebut terluka secara permanen, dan korban tidak dapat menyerang atau mulai merapal mantra (tetapi masih dapat Menangkis atau Menghindar) selama 1d3 Ronde berikutnya karena terkejut atau terganggu oleh rasa sakit dari luka tersebut.
 
-Karakter yang menderita Luka Serius pada anggota tubuh harus segera melakukan Lemparan Berlawanan dari Endurance miliknya melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan anggota tubuh tersebut tidak berguna, sampai lokasi tersebut dipulihkan ke Poin Hit positif. Jika kaki, korban jatuh telungkup. Jika lengan, apa pun yang dipegang akan jatuh, kecuali benda tersebut diikat (gunakan akal sehat di sini).
+Karakter yang menderita Luka Serius pada anggota tubuh harus segera melakukan Lemparan Berlawanan dari Ketahanan miliknya melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan anggota tubuh tersebut tidak berguna, sampai lokasi tersebut dipulihkan ke Poin Hit positif. Jika kaki, korban jatuh telungkup. Jika lengan, apa pun yang dipegang akan jatuh, kecuali benda tersebut diikat (gunakan akal sehat di sini).
 
-Karakter yang menderita Luka Serius pada perut, dada, atau kepala harus segera melakukan Lemparan Berlawanan dari Endurance miliknya melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan ketidaksadaran selama sejumlah menit setara dengan jumlah kerusakan yang diderita dalam serangan yang menyebabkan Luka Serius. Keahlian First Aid atau Healing dapat digunakan untuk membantu korban yang tidak sadar mendapatkan penyembuhan lebih lanjut ke lokasi yang Luka Serius.
+Karakter yang menderita Luka Serius pada perut, dada, atau kepala harus segera melakukan Lemparan Berlawanan dari Ketahanan miliknya melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan ketidaksadaran selama sejumlah menit setara dengan jumlah kerusakan yang diderita dalam serangan yang menyebabkan Luka Serius. Keahlian Pertolongan Pertama atau Healing dapat digunakan untuk membantu korban yang tidak sadar mendapatkan penyembuhan lebih lanjut ke lokasi yang Luka Serius.
 
 Atas kebijakan Games Master, bahkan jika karakter tetap berfungsi, semua tugas yang memerlukan penggunaan Lokasi Sasaran tersebut akan menderita penalti berkelanjutan sebesar satu Tingkat Kesulitan, sampai cedera tersebut berkurang menjadi Luka Ringan.
 
 #### Luka Besar
 
-Jika suatu lokasi berkurang menjadi skor negatif yang sama dengan atau lebih besar dari Poin Hit awalnya, karakter menerima Luka Besar. Karakter segera menjadi Lumpuh (Incapacitated), tidak dapat melanjutkan pertarungan. Anggota tubuh terputus, tertusuk, hancur, atau tercabik oleh Luka Besar. Karakter jatuh telungkup, Lumpuh secara fisik, dan harus segera melakukan Lemparan Berlawanan dari Endurance melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan ketidaksadaran karena penderitaan. Jika lokasi yang terputus, tertusuk, atau tercabik tidak dirawat dalam sejumlah menit setara dengan lima kali Tingkat Penyembuhannya, karakter mati karena kehilangan darah dan syok.
+Jika suatu lokasi berkurang menjadi skor negatif yang sama dengan atau lebih besar dari Poin Hit awalnya, karakter menerima Luka Besar. Karakter segera menjadi Lumpuh (Tak Berdaya), tidak dapat melanjutkan pertarungan. Anggota tubuh terputus, tertusuk, hancur, atau tercabik oleh Luka Besar. Karakter jatuh telungkup, Lumpuh secara fisik, dan harus segera melakukan Lemparan Berlawanan dari Ketahanan melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan ketidaksadaran karena penderitaan. Jika lokasi yang terputus, tertusuk, atau tercabik tidak dirawat dalam sejumlah menit setara dengan lima kali Tingkat Penyembuhannya, karakter mati karena kehilangan darah dan syok.
 
-Korban Luka Besar pada perut, dada, atau kepala jatuh pingsan, Lumpuh total, dan harus segera melakukan Lemparan Berlawanan dari Endurance melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan kematian instan dan tragis (terpenggal, terbelah dua, tertusuk jantungnya, tercabik-cabik, dan sebagainya). Jika mereka selamat, dan lokasi tersebut tidak dirawat dalam sejumlah Ronde Pertarungan setara dengan dua kali Tingkat Penyembuhan karakter, mereka tetap mati karena kehilangan darah dan syok.
+Korban Luka Besar pada perut, dada, atau kepala jatuh pingsan, Lumpuh total, dan harus segera melakukan Lemparan Berlawanan dari Ketahanan melawan lemparan serangan yang berhasil dari musuhnya. Kegagalan mengakibatkan kematian instan dan tragis (terpenggal, terbelah dua, tertusuk jantungnya, tercabik-cabik, dan sebagainya). Jika mereka selamat, dan lokasi tersebut tidak dirawat dalam sejumlah Ronde Pertarungan setara dengan dua kali Tingkat Penyembuhan karakter, mereka tetap mati karena kehilangan darah dan syok.
 
 Karena sebagian besar Luka Besar memerlukan semacam pembedahan atau sihir besar untuk disembuhkan, penderita akan sangat kecil kemungkinannya untuk pulih dari Luka Besar tepat waktu untuk bergabung kembali dalam pertarungan. Tergantung pada perawatan yang tersedia, lokasi yang terluka kemungkinan akan cacat (lihat [Penyembuhan dari Cedera](0007_Game_System.md?id=healing-from-injury)).
 
@@ -297,7 +297,7 @@ Beberapa sihir dapat menyembuhkan luka yang diderita oleh korban. Namun, ada bat
 Tidak peduli seberapa kecil mantra penyembuhannya, aplikasinya selalu cukup untuk menstabilkan jenis luka apa pun, mencegah pendarahan dan kematian segera bahkan jika itu tidak benar-benar menyembuhkan cedera yang mendasarinya. Perhatikan bahwa ini hanya berlaku untuk trauma fisik yang nyata, bukan untuk kondisi yang disebabkan oleh mati lemas, racun, dan sejenisnya.
 
 ---
-## Poin Keberuntungan (Luck Points)
+## Poin Keberuntungan (Poin Hoki)
 
 Poin Keberuntungan membantu membedakan pahlawan dari prajurit biasa. Mereka mewakili kemampuan karakter untuk berpotensi mengubah kegagalan menjadi kesuksesan dan bahkan menipu kematian.
 
@@ -317,7 +317,7 @@ Karakter dapat menggunakan Poin Keberuntungan untuk melempar ulang atau menukar 
 
 Jika karakter telah menghabiskan Poin Aksi mereka selama pertarungan dan perlu menemukan ledakan energi putus asa terakhir untuk mungkin menghindari kematian yang berantakan, mereka dapat menghabiskan Poin Keberuntungan untuk mendapatkan Poin Aksi tambahan.
 
-#### Mengurangi Kerusakan (Mitigate Damage)
+#### Mengurangi Kerusakan (Mitigate Daya Rusak)
 
 Karakter yang menderita Luka Besar dapat menghabiskan Poin Keberuntungan untuk menurunkan cedera tersebut menjadi Luka Serius. Ini mengurangi kerusakan yang diterima menjadi satu Poin Hit kurang dari apa yang diperlukan untuk menimbulkan Luka Besar.
 
@@ -357,7 +357,7 @@ Peringkat tantangan jebakan, yang setara dengan nilai keahlian Mechanisms atau E
 
 #### Resistensi
 
-Bagaimana jebakan dilawan – biasanya menggunakan Brawn, Evade, atau menangkis (Parrying) dengan Keahlian Pertarungan yang menggabungkan perisai. Resistensi dilempar saat jebakan dipicu.
+Bagaimana jebakan dilawan – biasanya menggunakan Berotot, Menghindar, atau menangkis (Parrying) dengan Keahlian Pertarungan yang menggabungkan perisai. Resistensi dilempar saat jebakan dipicu.
 
 #### Efek
 
@@ -391,8 +391,8 @@ Jebakan lubang tidak harus terlalu dalam. Jika dirancang untuk penangkapan, bent
 - **Tujuan:** Penjerat atau Maut
 - **Pemicu:** Berjalan melintasi permukaan palsu yang menutupi lubang
 - **Kesulitan:** 60%
-- **Resistensi:** Baik Evade untuk melompat bebas atau lemparan Athletics Sulit untuk menangkap tepi saat mereka jatuh.
-- **Efek:** Jatuh ke dalam lubang menimbulkan 2d6 kerusakan pada Lokasi Sasaran acak, Zirah tidak melindungi. Efek sekunder diserahkan pada imajinasi Games Master.
+- **Resistensi:** Baik Menghindar untuk melompat bebas atau lemparan Atletik Sulit untuk menangkap tepi saat mereka jatuh.
+- **Efek:** Jatuh ke dalam lubang menimbulkan 2d6 kerusakan pada Lokasi Sasaran acak, Armor tidak melindungi. Efek sekunder diserahkan pada imajinasi Games Master.
 
 #### Jebakan Jarum Beracun
 
@@ -401,7 +401,7 @@ Ini adalah jebakan umum lainnya yang ditemukan di mana saja mulai dari ruang raj
 - **Tujuan:** Penjerat atau Maut
 - **Pemicu:** Mencoba memilih kunci dari objek yang terperangkap.
 - **Kesulitan:** 60%
-- **Resistensi:** Endurance
+- **Resistensi:** Ketahanan
 - **Efek:** Saat dipicu, jarum beracun kecil muncul dan menusuk tangan siapa pun yang mencoba memilih kunci. Racun apa pun dapat digunakan untuk melapisi jarum. Game Master dapat memutuskan spesifikasi racun apa pun - yang dibahas secara mendetail dalam aturan utama _Classic Fantasy_.
 
 <details>

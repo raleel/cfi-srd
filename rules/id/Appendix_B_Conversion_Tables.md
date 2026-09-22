@@ -85,14 +85,14 @@ Untuk memberikan presentasi yang lebih rapi pada _Classic Fantasy Imperative_, a
 | 0-10 | Tenang | Tidak ada | Tidak ada |
 | 11-20 | Angin Sepoi | Tidak ada | Tidak ada |
 | 21-30 | Angin Kencang | Tidak ada | Dua pertiga |
-| 31-40 | Angin Badai Ringan | Sukar (Hard) | Dua pertiga |
-| 41-50 | Angin Badai Sedang | Sukar (Hard) | Setengah |
-| 51-60 | Angin Badai Kuat | Sulit (Formidable) | Setengah |
-| 60+ | Badai/Topan | Sulit (Formidable) | Sepertiga |
+| 31-40 | Angin Badai Ringan | Sukar (Sulit) | Dua pertiga |
+| 41-50 | Angin Badai Sedang | Sukar (Sulit) | Setengah |
+| 51-60 | Angin Badai Kuat | Sulit (Tangguh) | Setengah |
+| 60+ | Badai/Topan | Sulit (Tangguh) | Sepertiga |
 
-Angin, terutama angin yang sangat kencang, dapat memberikan dampak buruk pada aktivitas. Kekuatan (STR) angin dinyatakan dalam kecepatan mil per jam. Efeknya pada skill fisik – yang melibatkan STR atau DEX – dirinci dalam kolom Skill; efek pada Laju Pergerakan ada di kolom Laju Pergerakan.
+Angin, terutama angin yang sangat kencang, dapat memberikan dampak buruk pada aktivitas. Kekuatan (STR) angin dinyatakan dalam kecepatan mil per jam. Efeknya pada Skill fisik – yang melibatkan STR atau DEX – dirinci dalam kolom Skill; efek pada Laju Pergerakan ada di kolom Laju Pergerakan.
  
-_Sebagai contoh, Angin Badai Ringan dengan STR 40 mengurangi kecepatan berjalan manusia menjadi dua pertiga dan skill digulirkan dengan tingkat kesulitan Sukar (Hard)._
+_Sebagai contoh, Angin Badai Ringan dengan STR 40 mengurangi kecepatan berjalan manusia menjadi dua pertiga dan Skill digulirkan dengan tingkat kesulitan Sukar (Sulit)._
 
 ---
 #### Tabel Suhu

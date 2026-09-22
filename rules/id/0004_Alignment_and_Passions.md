@@ -1,6 +1,6 @@
 # Bab 4: Penyelarasan & Hasrat
 
-Menggunakan Penyelarasan (*Alignment*) dan Hasrat (*Passions*) dalam _Classic Fantasy Imperative_ dapat sangat membantu pemain dan Game Master dalam memperdalam sifat karakter, memperkenalkan kaitan plot berdasarkan keinginan atau prasangka karakter, serta membantu pemain memahami siapa karakternya, apa yang mendorongnya, dan sebagainya. Meskipun pilihan khusus Penyelarasan dan Hasrat yang ditemukan dalam bab ini terserah kepada pemain, beberapa yang ditemukan di bab sebelumnya yang berkaitan dengan [Kelas](0003_Classes.md) karakter diperlukan untuk memainkan karakter tersebut. Tidak ada Kelas dalam dokumen ini yang mewajibkan Penyelarasan atau Hasrat tertentu, tetapi beberapa seperti klerik dan perompak (*rogue*) (yang bergabung dengan serikat pencuri), memerlukan Sumpah kepada ordo atau serikat mereka. Sumpah dapat diperlakukan seperti Hasrat dalam hal mekanik permainannya.
+Menggunakan Penyelarasan (*Alignment*) dan Hasrat (*Gairah*) dalam _Classic Fantasy Imperative_ dapat sangat membantu pemain dan Game Master dalam memperdalam sifat karakter, memperkenalkan kaitan plot berdasarkan keinginan atau prasangka karakter, serta membantu pemain memahami siapa karakternya, apa yang mendorongnya, dan sebagainya. Meskipun pilihan khusus Penyelarasan dan Hasrat yang ditemukan dalam bab ini terserah kepada pemain, beberapa yang ditemukan di bab sebelumnya yang berkaitan dengan [Kelas](0003_Classes.md) karakter diperlukan untuk memainkan karakter tersebut. Tidak ada Kelas dalam dokumen ini yang mewajibkan Penyelarasan atau Hasrat tertentu, tetapi beberapa seperti klerik dan perompak (*rogue*) (yang bergabung dengan serikat pencuri), memerlukan Sumpah kepada ordo atau serikat mereka. Sumpah dapat diperlakukan seperti Hasrat dalam hal mekanik permainannya.
 
 ---
 ## Penyelarasan (Alignment)
@@ -30,7 +30,7 @@ Netral Sejati dimulai pada Tingkat Dasar INT+POW+30.
 - **Netral Sejati**: Sebagai alternatif, pilih satu atau dua elemen penentu yang paling menggambarkan kurangnya Kode Moral dan Etik Anda: _Ambivalen; Berhati-hati; Berkomitmen kepada orang lain melalui hubungan pribadi; Fleksibel; Kebebasan bertindak; Berpikiran terbuka; Pragmatis; Menghargai Alam; Berjuang demi keseimbangan._
 
 ---
-## Hasrat (Passions)
+## Hasrat (Gairah)
 
 Hasrat digunakan untuk membantu pemain dan Game Master dalam memperdalam sifat karakter, memperkenalkan kaitan plot berdasarkan keinginan atau prasangka karakter, serta membantu pemain memahami siapa karakternya, apa yang mendorongnya, dan sebagainya.
 
@@ -66,7 +66,7 @@ Singkatnya, Penyelarasan dan Hasrat dapat digunakan sebagai berikut:
 - Sebagai Kemampuan untuk mendorong pilihan, keinginan, dan tindakan serta respons emosional. Jika digunakan dengan cara ini, lemparan Standar dilakukan terhadap Penyelarasan atau Hasrat untuk menentukan seberapa kuat karakter berpikir dan merasakan sesuatu. Jika lemparan Berhasil, maka karakter bertindak sejalan dengan apa yang didiktekan oleh Penyelarasan atau Hasrat tersebut. Jika lemparan Gagal, maka karakter dapat bertindak bebas tanpa merasa terkekang oleh dorongan Hasrat tersebut.
 - Untuk menentang Penyelarasan atau Hasrat lain – bahkan yang dimiliki oleh karakter yang sama. Ini biasanya digunakan di mana suatu Penyelarasan bertentangan dengan Hasrat, atau bahkan ketika dua Hasrat bertentangan. Misalnya, cinta pribadi mungkin mendikte tindakan yang bertentangan dengan Sumpah atau kesetiaan. Di sini, gunakan Lemparan Berlawanan antara Penyelarasan dan Hasrat, atau dua Hasrat, dengan yang paling berhasil menentukan bagaimana karakter bertindak.
 - Sebagai ukuran umum kedalaman komitmen, keyakinan, dan kesetiaan pada suatu tujuan. Semakin tinggi nilai Penyelarasan atau Hasrat, semakin berkomitmen karakter tersebut. Karakter dengan Penyelarasan atau Hasrat serupa dapat membandingkan nilai mereka untuk menentukan siapa yang menunjukkan komitmen lebih dalam.
-- Untuk melawan beberapa bentuk manipulasi psikologis atau dominasi magis. Dalam kasus tertentu di mana karakter dipaksa melakukan tindakan yang bertentangan dengan Penyelarasan atau Hasrat mereka, mereka dapat mengganti Willpower dengan salah satunya dalam Lemparan Berlawanan.
+- Untuk melawan beberapa bentuk manipulasi psikologis atau dominasi magis. Dalam kasus tertentu di mana karakter dipaksa melakukan tindakan yang bertentangan dengan Penyelarasan atau Hasrat mereka, mereka dapat mengganti Tekad dengan salah satunya dalam Lemparan Berlawanan.
 
 Skor Penyelarasan karakter dapat turun selama permainan jika karakter terus-menerus mengabaikan moralitas dan/atau etika yang mereka pilih. Jika turun lebih rendah dari Tingkat Dasar karakter, maka akan berubah menjadi Penyelarasan yang berlawanan, misalnya Baik menjadi Netral atau Jahat. Game Master harus menentukan Penyelarasan dan Tingkat yang baru, tergantung pada keadaannya. Perubahan Penyelarasan dapat mengakibatkan hilangnya akses ke Kemampuan Kelas. Lihat deskripsi Kelas yang relevan untuk perinciannya.
 

@@ -22,8 +22,8 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 20' |
 | Kemampuan | Tidak ada |
 | Penyelarasan | Biasanya, Jahat 54% |
-| Zirah | Dada, perut, dan anggota tubuh 3 (kulit bertabur), kepala 8 (helm baja) |
-| Keterampilan | Atletik 52%, Kekuatan (Brawn) 54%, Bahasa (Bahasa Umum) 64%, Adat Istiadat 46%, Penipuan 44%, Ketahanan 52%, Menghindar 52%, Wawasan 54%, Pengetahuan Lokal 66%, Persepsi 44%, Siluman 44%, Bertahan Hidup 52%, Tanpa Senjata 42%, Kekuatan Kehendak 42% |
+| Armor | Dada, perut, dan anggota tubuh 3 (kulit bertabur), kepala 8 (helm baja) |
+| Keterampilan | Atletik 52%, Kekuatan (Berotot) 54%, Bahasa (Bahasa Umum) 64%, Adat Istiadat 46%, Penipuan 44%, Ketahanan 52%, Menghindar 52%, Wawasan 54%, Pengetahuan Lokal 66%, Persepsi 44%, Siluman 44%, Bertahan Hidup 52%, Tanpa Senjata 42%, Kekuatan Kehendak 42% |
 | Keterampilan Tempur | 56% - Kapak Pertempuran, Perisai Target, Busur Pendek |
   
 #### Detail Senjata
@@ -34,7 +34,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Perisai Target | L | 1d4+1d2 | 4/9 | Hantam (Dorong), Menusuk, Tangkis Jarak Jauh, Blok Pasif (3) |
 | Busur Pendek | L | 1d6+1d2 | 4/4 | Menusuk, Jarak 45'/300'/600' |
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -62,7 +62,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 20' |
 | Kemampuan | [Penglihatan Gelap](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Pelompat](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
 | Penyelarasan | NA |
-| Zirah | Tidak ada |
+| Armor | Tidak ada |
 | Keterampilan | Atletik 40%, Kekuatan 22%, Ketahanan 52%, Menghindar 56%, Persepsi 50%, Siluman 56%, Berenang 58%, Kekuatan Kehendak 34% |
 | Keterampilan Tempur | 50% - Cakar, Gigitan |
 
@@ -74,7 +74,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Cakar | T | 1d3-1d4 | Sesuai lokasi | |
 | Gigitan | S | 1d6-1d4 | Sesuai lokasi | |
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -102,7 +102,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 15' |
 | Kemampuan | [Penglihatan Gelap](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Sensitif Cahaya](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Penyelarasan | Jahat 52% |
-| Zirah | Dada, perut, dan kepala 3 (kulit bertabur), anggota tubuh 0 |
+| Armor | Dada, perut, dan kepala 3 (kulit bertabur), anggota tubuh 0 |
 | Keterampilan | Atletik 42%, Kekuatan 36%, Penipuan 49%, Ketahanan 42%, Menghindar 58%, Bahasa (Goblin, Hobgoblin, Kobold, Orcish) 59%, Persepsi 63%, Berkuda 55%, Siluman 56%, Tanpa Senjata 42%, Kekuatan Kehendak 42% |
 | Keterampilan Tempur | 52% - Pedang Pendek, Perisai Target, Ketapel |
 
@@ -115,7 +115,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Ketapel | L | 1d8-1d2 | 1/2 | Hantam, Melumpuhkan Lokasi, Jarak 30'/450'/900' |
 
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -143,7 +143,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 20' |
 | Kemampuan | [Menginjak](Appendix_A_Monsters_And_Treasures.md?id=trample) |
 | Penyelarasan | Jahat 52%, Benci sihir dan perapal mantra 57% |
-| Zirah | Dada dan perut 3 (kulit bulu dan kulit tebal), kepala dan anggota tubuh 2 (kulit tebal) |
+| Armor | Dada dan perut 3 (kulit bulu dan kulit tebal), kepala dan anggota tubuh 2 (kulit tebal) |
 | Keterampilan | Atletik 66%, Kekuatan 87%, Ketahanan 80%, Menghindar 42%, Bahasa (Raksasa) 47%, Pengetahuan Lokal 50%, Persepsi 51%, Tanpa Senjata 66%, Kekuatan Kehendak 42% |
 | Keterampilan Tempur | 76% - Pentungan ukuran Raksasa, Batu Lempar (SIZ 8)<br> 66% - Menginjak |
 
@@ -156,7 +156,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Menginjak | - | 2d12 | Sesuai lokasi | Hantam, Melumpuhkan Lokasi |
 
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -183,7 +183,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 15' |
 | Kemampuan | [Berdarah Dingin](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Penglihatan Gelap](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Sensitif Cahaya](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Penyelarasan | Jahat 52%, Membenci Semua Orang 62% |
-| Zirah | Dada, perut, dan kepala 3 (kulit dan kulit bersisik), anggota tubuh 1 (kulit bersisik) |
+| Armor | Dada, perut, dan kepala 3 (kulit dan kulit bersisik), anggota tubuh 1 (kulit bersisik) |
 | Keterampilan | Atletik 40%, Kekuatan 31%, Penipuan 57%, Ketahanan 42%, Menghindar 66%, Bahasa (Kobold, Goblin dan Orcish) 57%, Mekanisme 66%, Persepsi 64%, Siluman 66%, Tanpa Senjata 39%, Kekuatan Kehendak 42% |
 | Keterampilan Tempur | 49% - Pedang Pendek, Perisai Target, Lembing |
 
@@ -196,7 +196,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Lembing | S | 1d8+1-1d4 | 4/5 | Menusuk, Jarak 30'/60'/150' |
 
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -225,7 +225,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 20' |
 | Kemampuan | [Penglihatan Gelap](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Sensitif Cahaya](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Penyelarasan | Jahat 52%, Benci Elf dan Dwarf 57% |
-| Zirah | Dada dan perut 5 (baju zirah rantai), kepala 8 (helm baja), lengan 0, kaki 3 (kulit bertabur) |
+| Armor | Dada dan perut 5 (baju Armor rantai), kepala 8 (helm baja), lengan 0, kaki 3 (kulit bertabur) |
 | Keterampilan | Atletik 55%, Kekuatan 48%, Penipuan 48%, Ketahanan 56%, Menghindar 52%, Bahasa (Orcish dan Umum, beberapa bisa berbicara Goblin, Hobgoblin, dan Ogre) 58%, Persepsi 52%, Tanpa Senjata 55%, Kekuatan Kehendak 52% |
 | Keterampilan Tempur | 55% - Kapak Pertempuran, Perisai Target, Busur Panjang |
 
@@ -238,7 +238,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Busur Panjang | L | 1d8+1d2 | 4/7 | Menusuk, Jarak 45'/375'/750' |
 
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -268,7 +268,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 15' |
 | Kemampuan | [Menginjak](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
 | Penyelarasan | Jahat 71%, Berperilaku buruk dan cepat marah 48% |
-| Zirah | Dada dan perut 3 (potongan bulu dan kulit di atas kulit tebal), kepala dan anggota tubuh 2 (kulit tebal) |
+| Armor | Dada dan perut 3 (potongan bulu dan kulit di atas kulit tebal), kepala dan anggota tubuh 2 (kulit tebal) |
 | Keterampilan | Atletik 61%, Kekuatan 88%, Ketahanan 76%, Menghindar 52%, Bahasa (Ogre) 57%, Pengetahuan Lokal 40%, Persepsi 41%, Bertahan Hidup 59%, Melacak 58%, Tanpa Senjata 61%, Kekuatan Kehendak 42% |
 | Keterampilan Tempur | 71% - Pentungan Ogre<br> 61% - Menginjak |
 
@@ -279,7 +279,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Pentungan Ogre | L | 1d10+1d10 | 8/12 | Hantam, Melumpuhkan Lokasi |
 | Menginjak | - | 2d10 | - | Hantam, Melumpuhkan Lokasi |
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -310,7 +310,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 15', 50' (Terbang) |
 | Kemampuan | [Napas Api](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Imunitas (Api)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Menginjak](Appendix_A_Monsters_And_Treasures.md?id=trample);[Kepakan Sayap](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet), |
 | Penyelarasan | Jahat 95%, Cepat marah, curiga, dan benci naga perak 88% |
-| Zirah | 8 (sisik tebal) |
+| Armor | 8 (sisik tebal) |
 | Keterampilan | Pengetahuan Arkana 92%, Atletik 77%, Kekuatan 120%, Penipuan 95%, Ketahanan 92%, Menghindar 52%, Terbang 87%, Pengaruh 78%, Wawasan 95%, Bahasa (Naga Kromatik) 95%, Pengetahuan Lokal 92%, Pengetahuan (Naga) 92%, Persepsi 98%, Mengajar 95%, Kekuatan Kehendak 78%, Berbicara (peluang 75% memiliki kemampuan untuk berbicara) |
 | Keterampilan Tempur | 100% - Kerucut Api<br> 87% - Cakar, Ekor, Gigi, Kepakan Sayap <br> 77% - Menginjak |
 
@@ -325,7 +325,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Kepakan Sayap | E | 1d10 | 8/12 | Hantam, Jarak 10' di kedua sisi |
 | Kerucut Api | - | 4d6 | - | Jarak 125' |
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -358,7 +358,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 20' |
 | Kemampuan | [Imunitas (Ketakutan, Tidur, dan Pesona)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Mayat Hidup (Intensitas vs. Putaran: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
 | Penyelarasan | NA |
-| Zirah | Dada dan perut 5 (baju zirah rantai), kepala dan anggota tubuh 0 |
+| Armor | Dada dan perut 5 (baju Armor rantai), kepala dan anggota tubuh 0 |
 | Keterampilan | Atletik 54%, Kekuatan 53%, Ketahanan 50%, Menghindar 68%, Persepsi 44%, Tanpa Senjata 54%, Kekuatan Kehendak 42% |
 | Keterampilan Tempur | 54% - Kapak Pertempuran, Perisai Bulat, Busur Panjang |
 
@@ -370,7 +370,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Perisai Bulat | L | 1d4+1d2 | 4/9 | Hantam, Tangkis Jarak Jauh, Blok Pasif (3) |
 | Busur Panjang | L | 1d8+1d2 | 4/7 | Menusuk, Jarak 45'/375'/750' |
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -400,7 +400,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 20' |
 | Kemampuan | [Penglihatan Gelap](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regenerasi (1 HP/Putaran)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Mengerikan](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
 | Penyelarasan | Jahat 52%, Benci Raksasa Baik 57% |
-| Zirah | 3 (Kulit tebal dan kenyal) |
+| Armor | 3 (Kulit tebal dan kenyal) |
 | Keterampilan | Atletik 68%, Kekuatan 90%, Ketahanan 90%, Menghindar 62%, Bahasa (Troll) 53%, Pengetahuan Lokal 48%, Persepsi 60% (penglihatan dan penciuman), Bertahan Hidup 66%, Melacak 64%, Kekuatan Kehendak 52% |
 | Keterampilan Tempur | 78% - Gigitan, Cakar |
 
@@ -412,7 +412,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gigi | L | 1d6+1d10 | Sesuai lokasi | |
 
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -443,7 +443,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Gerakan | 15' |
 | Kemampuan | [Imunitas (Ketakutan, Tidur, dan Pesona)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Mayat Hidup (Intensitas vs. Putaran: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
 | Penyelarasan | Tidak ada |
-| Zirah | Dada dan perut 5 (baju zirah rantai), kepala dan anggota tubuh 0 |
+| Armor | Dada dan perut 5 (baju Armor rantai), kepala dan anggota tubuh 0 |
 | Keterampilan | Atletik 53%, Kekuatan 57%, Ketahanan 58%, Menghindar 48%, Persepsi 44%, Tanpa Senjata 53%, Kekuatan Kehendak 42% |
 | Keterampilan Tempur | 53% - Tinju, Pentungan |
 
@@ -455,7 +455,7 @@ Peringkat menunjukkan perkiraan tantangan dari makhluk yang dimaksud dan serupa,
 | Tinju | S | 1d3+1d2 | Sesuai lokasi | Rentetan |
 | Pentungan | M | 1d6+1d2 | 4/5 | Hantam, Melumpuhkan Lokasi |
 
-#### Lokasi Hit & Zirah
+#### Lokasi Hit & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -490,7 +490,7 @@ Memungkinkan makhluk untuk mendeteksi darah dari jarak jauh, baik yang terbawa o
 
 #### Napas Api (Breathe Flame)
 
-Makhluk mengembuskan api ke suatu area sebagai Aksi Tempur. Api menutupi kerucut di depan makhluk, yang membentang sejauh CON x5 kaki. Pada tingkat terjauh, lebar kerucut setara dengan panjangnya. Makhluk apa pun yang terjebak dalam api menderita kerusakan berbasis api pada semua lokasi hit, meskipun karakter dapat mencoba Menghindar untuk mengurangi kerusakan ini menjadi setengahnya. Poin Zirah dihitung seperti biasa kecuali dinyatakan lain.
+Makhluk mengembuskan api ke suatu area sebagai Aksi Tempur. Api menutupi kerucut di depan makhluk, yang membentang sejauh CON x5 kaki. Pada tingkat terjauh, lebar kerucut setara dengan panjangnya. Makhluk apa pun yang terjebak dalam api menderita kerusakan berbasis api pada semua lokasi hit, meskipun karakter dapat mencoba Menghindar untuk mengurangi kerusakan ini menjadi setengahnya. Poin Armor dihitung seperti biasa kecuali dinyatakan lain.
 
 Makhluk hanya bisa mengembuskan api sekali dalam periode waktu tertentu (biasanya sekali per jam atau sekali per hari). Upaya lebih lanjut untuk mengembuskan api dalam periode ini mengharuskan makhluk untuk lulus lemparan Ketahanan dengan setiap lemparan menjadi satu tingkat lebih sulit atau menderita tingkat Kelelahan.
 
@@ -542,13 +542,13 @@ Makhluk memiliki lubang yang dapat menelan target bulat-bulat. Ukuran maksimum k
 
 Makhluk secara otomatis berhasil dalam bergerak dan bermanuver sehari-hari saat terbang dan tidak perlu melempar keterampilan Terbang mereka kecuali mencoba tugas yang sangat sulit, seperti terbang melawan angin kencang, menghindari serangan jarak jauh di udara, atau mengakali musuh di udara. Seorang penerbang dapat mengganti keterampilan Terbang (dasar STR+DEX) untuk Menghindar saat bertarung di ketinggian.
 
-#### Senjata Alami yang Tangguh (Formidable Natural Weapons)
+#### Senjata Alami yang Tangguh (Tangguh Natural Senjata)
 
-Makhluk ini dapat secara aktif menangkis atau membelokkan serangan menggunakan senjata alaminya. Ini karena kombinasi gaya bertarung dan memiliki persenjataan alami yang dibentuk dari zat tangguh seperti tanduk, kitin, atau tulang yang dapat menahan kerusakan dari senjata buatan. Perhatikan bahwa makhluk yang tidak memiliki sifat ini mengandalkan zirah alami mereka untuk membelokkan pukulan atau menggunakan Menghindar.
+Makhluk ini dapat secara aktif menangkis atau membelokkan serangan menggunakan senjata alaminya. Ini karena kombinasi gaya bertarung dan memiliki persenjataan alami yang dibentuk dari zat tangguh seperti tanduk, kitin, atau tulang yang dapat menahan kerusakan dari senjata buatan. Perhatikan bahwa makhluk yang tidak memiliki sifat ini mengandalkan Armor alami mereka untuk membelokkan pukulan atau menggunakan Menghindar.
 
 #### Mengamuk (Frenzy)
 
-Saat terluka atau terpapar zat tertentu - darah misalnya - makhluk harus berhasil dalam lemparan Kekuatan Kehendak atau memasuki keadaan mengamuk. Mengamuk berlangsung selama jumlah putaran yang setara dengan CON makhluk. Selama mengamuk, mereka hanya boleh menghabiskan Aksi Tempur untuk menyerang atau bergerak menuju pertempuran. Perapalan mantra, menangkis, menghindar, dan apa pun dilarang; semua pikiran tentang pertahanan diri tersapu dalam kabut merah. Sebagai imbalannya, makhluk tersebut tidak lagi menderita rasa sakit atau kelelahan, dan kebal terhadap kendali mental. Selama waktu ini, ia kebal terhadap semua efek merugikan dari Luka Serius, meskipun Luka Utama tetap akan melumpuhkan. Jika masih hidup, setelah mengamuk selesai, makhluk tersebut secara otomatis mendapatkan tingkat kelelahan Kelelahan (Exhausted).
+Saat terluka atau terpapar zat tertentu - darah misalnya - makhluk harus berhasil dalam lemparan Kekuatan Kehendak atau memasuki keadaan mengamuk. Mengamuk berlangsung selama jumlah putaran yang setara dengan CON makhluk. Selama mengamuk, mereka hanya boleh menghabiskan Aksi Tempur untuk menyerang atau bergerak menuju pertempuran. Perapalan mantra, menangkis, menghindar, dan apa pun dilarang; semua pikiran tentang pertahanan diri tersapu dalam kabut merah. Sebagai imbalannya, makhluk tersebut tidak lagi menderita rasa sakit atau kelelahan, dan kebal terhadap kendali mental. Selama waktu ini, ia kebal terhadap semua efek merugikan dari Luka Serius, meskipun Luka Utama tetap akan melumpuhkan. Jika masih hidup, setelah mengamuk selesai, makhluk tersebut secara otomatis mendapatkan tingkat kelelahan Kelelahan (Kehabisan Tenaga).
 
 #### Serangan Tatapan (Gaze Attack)
 
@@ -556,7 +556,7 @@ Makhluk memiliki serangan tatapan. Serangan ini mungkin aktif (makhluk harus sec
 
 #### Pemegang (Grappler)
 
-Jika makhluk berhasil menyerang dalam pertempuran, ia dapat langsung Melilit (Grapple) di samping memberikan kerusakan. Jika serangan makhluk ditangkis (atau makhluk itu sendiri sedang menangkis), maka makhluk tersebut diberikan efek Cengkeraman (Grip) terhadap anggota tubuh lawan atau efek Sematkan Senjata (Pin Weapon) terhadap senjatanya. Makhluk selalu menggunakan keterampilan Kekuatan (Brawn) untuk melawan korban yang melepaskan diri.
+Jika makhluk berhasil menyerang dalam pertempuran, ia dapat langsung Melilit (Grapple) di samping memberikan kerusakan. Jika serangan makhluk ditangkis (atau makhluk itu sendiri sedang menangkis), maka makhluk tersebut diberikan efek Cengkeraman (Grip) terhadap anggota tubuh lawan atau efek Sematkan Senjata (Pin Weapon) terhadap senjatanya. Makhluk selalu menggunakan keterampilan Kekuatan (Berotot) untuk melawan korban yang melepaskan diri.
 
 #### Menahan Napas (Hold Breath)
 
@@ -637,15 +637,15 @@ Makhluk itu begitu besar sehingga dapat melukai lawan dengan mengepakkan sayapny
 ---
 ## Contoh Barang Sihir Dasar
 
-Ini hanyalah sampel kecil dari beberapa barang sihir _Classic Fantasy Imperative_ yang lebih umum. Mereka yang memiliki harga termasuk \* perlu memasukkan biaya senjata atau zirah ke dalam totalnya.
+Ini hanyalah sampel kecil dari beberapa barang sihir _Classic Fantasy Imperative_ yang lebih umum. Mereka yang memiliki harga termasuk \* perlu memasukkan biaya senjata atau Armor ke dalam totalnya.
 
 #### +1 atau +2 Jimat Magika (250 GP atau 500 GP)
 
 Jimat ini memberi pemakainya Poin Sihir tambahan, yang dapat diambil untuk merapalkan mantra. Karakter hanya dapat menarik dari satu barang yang menyediakan Poin Sihir pada satu waktu. Poin yang dihabiskan tidak beregenerasi secara alami dan harus disediakan oleh perapal mantra, belum tentu pemilik jimat.
 
-#### +1 Zirah (500 GP\*)
+#### +1 Armor (500 GP\*)
 
-Zirah ini telah disihir untuk meniadakan satu poin kerusakan tambahan.
+Armor ini telah disihir untuk meniadakan satu poin kerusakan tambahan.
 
 #### +1 atau +2 Cincin Magika (250 GP atau 500 GP)
 
@@ -653,23 +653,23 @@ Cincin ini berfungsi dalam segala hal sebagai Jimat Magika seperti yang dirinci 
 
 #### +1 Cincin Perlindungan (500 GP)
 
-Cincin Perlindungan memberikan +1 poin zirah saat dikenakan. Selain itu, tambahkan bonus +5% untuk lemparan Perlawanan. Jika dikenakan dengan zirah sihir, hanya bonus yang diberikan oleh zirah yang berlaku. Bonus yang diberikan untuk lemparan Perlawanan tidak terpengaruh secara merugikan, bagaimanapun. Cincin Perlindungan dapat dikenakan dengan zirah non-sihir tanpa penalti. Beberapa Cincin Perlindungan tidak menumpuk, dengan hanya bonus terbesar yang berlaku.
+Cincin Perlindungan memberikan +1 poin Armor saat dikenakan. Selain itu, tambahkan bonus +5% untuk lemparan Perlawanan. Jika dikenakan dengan Armor sihir, hanya bonus yang diberikan oleh Armor yang berlaku. Bonus yang diberikan untuk lemparan Perlawanan tidak terpengaruh secara merugikan, bagaimanapun. Cincin Perlindungan dapat dikenakan dengan Armor non-sihir tanpa penalti. Beberapa Cincin Perlindungan tidak menumpuk, dengan hanya bonus terbesar yang berlaku.
 
 #### +5% Perisai (250 GP\*)
 
-Perisai ini telah diperkuat melalui Sihir, dengan bonus +5% untuk Keterampilan Tempur saat Menangkis. Perisai ini memiliki +5 Poin Zirah dan +2 Poin Hit untuk perisai jenisnya.
+Perisai ini telah diperkuat melalui Sihir, dengan bonus +5% untuk Keterampilan Tempur saat Menangkis. Perisai ini memiliki +5 Poin Armor dan +2 Poin Hit untuk perisai jenisnya.
 
 #### +5% Perisai, +20% vs. Proyektil (500 GP\*)
 
-Perisai ini telah diperkuat melalui Sihir, dengan bonus +5% untuk Keterampilan Tempur saat Menangkis serangan jarak dekat dan +20% saat Menangkis proyektil. Perisai ini memiliki +5 Poin Zirah dan +2 Poin Hit untuk perisai jenisnya.
+Perisai ini telah diperkuat melalui Sihir, dengan bonus +5% untuk Keterampilan Tempur saat Menangkis serangan jarak dekat dan +20% saat Menangkis proyektil. Perisai ini memiliki +5 Poin Armor dan +2 Poin Hit untuk perisai jenisnya.
 
 #### +10% Perisai (500 GP\*)
 
-Perisai ini telah diperkuat melalui Sihir, dengan bonus +10% untuk Keterampilan Tempur saat Menangkis. Perisai ini memiliki +10 Poin Zirah dan +4 Poin Hit untuk perisai jenisnya.
+Perisai ini telah diperkuat melalui Sihir, dengan bonus +10% untuk Keterampilan Tempur saat Menangkis. Perisai ini memiliki +10 Poin Armor dan +4 Poin Hit untuk perisai jenisnya.
 
 #### +1 Senjata (jarak dekat 400 GP\*, jarak jauh 500 GP\*)
 
-Senjata ini telah disihir untuk melakukan +1 kerusakan dan memiliki +10 Poin Zirah dan +4 Poin Hit.
+Senjata ini telah disihir untuk melakukan +1 kerusakan dan memiliki +10 Poin Armor dan +4 Poin Hit.
 
 #### Tas Penyimpanan (500 GP)
 

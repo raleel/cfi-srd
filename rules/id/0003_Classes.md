@@ -29,8 +29,8 @@ Sebagian besar, jika karakter memiliki kedudukan yang baik dengan Sumpah apa pun
 - **Peningkatan:** Jumlah keterampilan kelas dan level keterampilan yang diperlukan untuk mendapatkan Peringkat yang relevan. Ini dapat dipilih dari keterampilan kelas mana pun yang terdaftar. Tidak perlu memilihnya sebelumnya. Keterampilan yang menerima bonus +40, seperti Adat Istiadat dan Bahasa Asli, tidak pernah dihitung untuk peningkatan.
 - **Mantra dalam Memori:** Jika berlaku, ini menunjukkan berapa banyak mantra dari setiap Peringkat yang mungkin telah Anda hafal.
 - **Poin Darah (Hit Points):** Peringkat tertentu memberikan Poin Darah tambahan, yang ditambahkan ke semua lokasi tubuh. Nilai yang dicatat mencakup semua bonus sebelumnya.
-- **Poin Keberuntungan (Luck Points):** Setiap Peringkat setelah yang pertama memberikan karakter 1 Poin Keberuntungan tambahan. Nilai yang dicatat mencakup semua bonus sebelumnya.
-- **Poin Aksi (Action Points):** Peringkat tertentu memberikan Poin Aksi tambahan. Nilai yang dicatat mencakup semua bonus sebelumnya.
+- **Poin Keberuntungan (Poin Hoki):** Setiap Peringkat setelah yang pertama memberikan karakter 1 Poin Keberuntungan tambahan. Nilai yang dicatat mencakup semua bonus sebelumnya.
+- **Poin Aksi (Poin Aksi):** Peringkat tertentu memberikan Poin Aksi tambahan. Nilai yang dicatat mencakup semua bonus sebelumnya.
 
 ---
 ## Klerik
@@ -59,9 +59,9 @@ Selain Penyelarasan dan Hasrat rasial/budaya, semua klerik mengucapkan Sumpah Pe
 - **Keterampilan Standar:** Keterampilan Tempur (Klerik), Pertolongan Pertama, Pengaruh, Wawasan, Lokasi, Bernyanyi, Kekuatan Kehendak.
 - **Keterampilan Profesional:** Seorang klerik secara otomatis menerima Penyaluran (*Channel*) dan Pengabdian (*Devotion*) (panteon atau dewa tertentu), ditambah 3 keterampilan tambahan dari berikut ini: Birokrasi, Kesopanan, Budaya (apa saja), Penyembuhan, Pengetahuan (Alkimia), Pengetahuan (Agama), Bahasa (apa saja) atau Pengetahuan (apa saja), dan Orasi.
 
-#### Kecakapan Zirah dan Senjata Klerik
+#### Kecakapan Armor dan Senjata Klerik
 
-Klerik cakap dengan semua jenis Zirah (ringan dan berat), dan dengan semua perisai (kecuali perisai menara). Perapalan mantra Ilahi klerik tidak terhambat oleh pemakaian Zirah. Keterampilan Tempur mereka mencakup penggunaan semua senjata dasar. Klerik khusus mungkin memiliki akses ke senjata yang berbeda sebagai bagian dari Keterampilan Tempur mereka. Namun, ini di luar cakupan dokumen ini, meskipun Games Master dapat menerapkan informasi ini jika mereka memutuskan untuk melakukannya.
+Klerik cakap dengan semua jenis Armor (ringan dan berat), dan dengan semua perisai (kecuali perisai menara). Perapalan mantra Ilahi klerik tidak terhambat oleh pemakaian Armor. Keterampilan Tempur mereka mencakup penggunaan semua senjata dasar. Klerik khusus mungkin memiliki akses ke senjata yang berbeda sebagai bagian dari Keterampilan Tempur mereka. Namun, ini di luar cakupan dokumen ini, meskipun Games Master dapat menerapkan informasi ini jika mereka memutuskan untuk melakukannya.
 
 ### Struktur Peringkat
 
@@ -82,7 +82,7 @@ Semua klerik dinilai berdasarkan Peringkat, yang merupakan peringkat kekuatan da
 
 Klerik mengetahui semua Kemampuan berikut pada Peringkat 1. Selain itu, selama pembuatan karakter, Anda dapat memilih satu Kemampuan Peringkat 1 secara gratis dengan asumsi Anda memenuhi persyaratannya.
 
-- **Perapal Mantra (Spellcaster):** Klerik adalah ahli sihir Ilahi, mampu merapalkan mantra penyembuhan, pertahanan, dan perlindungan untuk membantu sekutu mereka. Namun, mereka juga memiliki mantra ofensif yang kuat untuk memukul mereka yang menentang cita-cita mereka. Tidak seperti pengguna sihir, klerik tidak memerlukan buku mantra, memiliki akses ke semua mantra sesuai Peringkat mereka atau di bawahnya. Merapalkan mantra memerlukan 1 atau lebih Aksi Perapalan Sihir yang terdiri dari beberapa doa singkat, gerakan somatik dengan simbol suci mereka, dan lemparan Penyaluran yang berhasil. Jumlah mantra dari Peringkat mereka saat ini yang dapat diingat oleh seorang klerik ditemukan pada [Tabel Peringkat Klerik](0003_Classes.md?id=cleric-rank-table) di atas di bawah Mantra dalam Memori.
+- **Perapal Mantra (Spellcaster):** Klerik adalah ahli sihir Ilahi, mampu merapalkan mantra penyembuhan, pertahanan, dan perlindungan untuk membantu sekutu mereka. Namun, mereka juga memiliki mantra ofensif yang kuat untuk memukul mereka yang menentang cita-cita mereka. Tidak seperti pengguna sihir, klerik tidak memerlukan buku mantra, memiliki akses ke semua mantra sesuai Peringkat mereka atau di bawahnya. Merapalkan mantra memerlukan 1 atau lebih Aksi Perapalan Sihir yang terdiri dari beberapa doa singkat, gerakan somatik dengan simbol suci mereka, dan lemparan Penyaluran yang berhasil. Jumlah mantra dari Peringkat mereka saat ini yang dapat diingat oleh seorang klerik ditemukan pada [Tabel Peringkat Klerik](0003_Classes.md?id=cleric-Pangkat-table) di atas di bawah Mantra dalam Memori.
 - **Mantra Awal:** Seorang klerik memulai dengan akses ke semua mantra klerik Peringkat 0 dan semua mantra lain dengan Peringkat yang sama atau lebih rendah. Lihat [Daftar Mantra Klerik](0003_Classes.md?id=cleric-spell-list). Mereka tidak benar-benar "mengetahui" mantra tersebut seperti seorang pengguna sihir "mengetahui" mantra, tetapi dapat berdoa untuk mantra mana pun saat memilih mantra mana yang akan dihafal. Jumlah mantra yang dapat dihafal klerik pada setiap Peringkat ditemukan pada Tabel Peringkat Klerik di atas. Lihat [Menghafal Mantra](0009_Magic.md?id=memorizing-spells) untuk detail selengkapnya.
 - **Mengusir Undead (Turn Undead):** Klerik dapat mengusir *undead*, mendorong mereka pergi hanya dengan kekuatan iman. [Mengusir Undead](0003_Classes.md?id=turning-undead) dibahas secara rinci di bawah ini.
 
@@ -105,7 +105,7 @@ Untuk setiap pengeluaran 1 *Experience Roll*, Anda dapat memperoleh satu dari Ke
 Untuk setiap pengeluaran 2 *Experience Roll*, Anda dapat memperoleh satu dari Kemampuan berikut (masing-masing hanya boleh diambil sekali):
 
 - **Peningkatan Karakteristik:** Anda dapat menambahkan +1 pada Karakteristik pilihan Anda. Ini tidak boleh melebihi batas maksimum ras.
-- **Refleks Defensif I:** Refleks Defensif mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Zirah ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan.
+- **Refleks Defensif I:** Refleks Defensif mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Armor ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan.
 - **Pengusiran Ekstra:** Memerlukan Pengabdian dan Kekuatan Kehendak 80% atau lebih tinggi. Klerik dapat menggandakan jumlah waktu antara istirahat saat mereka dapat Mengusir. Dua kali pada Peringkat 1, empat kali pada Peringkat 3, dan enam kali pada Peringkat 5.
 - **Kekuatan Mental II:** Memerlukan Kekuatan Mental I dan Pengabdian 80% atau lebih tinggi. Seperti Kekuatan Mental I, tetapi dapat digunakan dua kali sehari.
 - **Sentuhan Jarak Jauh (X):** Memerlukan Kekuatan Kehendak 80% atau lebih tinggi. Kemampuan ini memungkinkan perapal mantra untuk memberikan mantra dengan Jarak "Sentuh", Jarak 30 kaki sebagai gantinya. Mantra dianggap satu Peringkat lebih tinggi sehubungan dengan penghafalan dan harus dicatat sebagai jarak jauh saat dihafal. Misalnya, *Cure Minor Wounds* (Jarak Jauh) akan dihitung sebagai mantra Peringkat 2.
@@ -142,7 +142,7 @@ Setiap baris dihitung sebagai 1 'Barang' untuk tujuan Beban kecuali dinyatakan l
 - Perisai *Heater* (dihitung sebagai 2 Barang)
 - Busur silang ringan
 - Tempat anak panah dengan 20 baut busur silang
-- Set lengkap Zirah skala, 4 Poin Zirah (0 Barang saat dipakai, 7 Barang jika dibawa)
+- Set lengkap Armor skala, 4 Poin Armor (0 Barang saat dipakai, 7 Barang jika dibawa)
 - Simbol suci kayu dari dewa (½ Barang)
 - Ransel (kapasitas 10 Barang); kantong air, ransum perjalanan satu minggu, kantong tidur, karung kosong kecil\*, batu api dan baja\*\*, 2 obor enam jam (5½ Barang di dalamnya)
 - Kantong pinggang dengan 1d4 keping emas
@@ -188,7 +188,7 @@ Klerik jahat dapat memerintahkan Kekuatan Pengusiran mereka dalam Intensitas *un
 | [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
 | [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
 | [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
-| [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
+| [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Tewas \(R\)](0010_Spells.md?id=raise-Tewas-r) |
 | [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
 | [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
 | [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -219,18 +219,18 @@ Lihat [Bab 4: Penyelarasan dan Hasrat](0004_Alignment_and_Passions.md).
 
 #### Keterampilan Kelas
 
-- **Keterampilan Standar:** Atletik, Berperahu atau Menunggang, Kekuatan Fisik (Brawn), Keterampilan Tempur (Petarung)\*, Daya Tahan, Menghindar, Tanpa Senjata\*
+- **Keterampilan Standar:** Atletik, Berperahu atau Menunggang, Kekuatan Fisik (Berotot), Keterampilan Tempur (Petarung)\*, Daya Tahan, Menghindar, Tanpa Senjata\*
 - **Keterampilan Profesional:** Kerajinan (apa saja), Teknik, Perjudian, Intimidasi, Pengetahuan (Sejarah Militer), Pengetahuan (Strategi dan Taktik), Orasi, Bertahan Hidup atau Navigasi
 
 _\* Menerima bonus +5 dari Kecakapan Tempur_
 
-#### Kecakapan Zirah dan Senjata Petarung
+#### Kecakapan Armor dan Senjata Petarung
 
-Petarung cakap dengan semua jenis Zirah (ringan dan berat), dan dengan semua perisai. Keterampilan Tempur mereka mencakup penggunaan semua senjata dasar dan bela diri.
+Petarung cakap dengan semua jenis Armor (ringan dan berat), dan dengan semua perisai. Keterampilan Tempur mereka mencakup penggunaan semua senjata dasar dan bela diri.
 
 ### Struktur Peringkat
 
-Semua petarung dinilai berdasarkan Peringkat, yang merupakan peringkat kekuatan dan keterampilan. Ketika tingkat penguasaan tertentu dicapai dalam jumlah terbatas keterampilan Kelas, petarung dapat meningkatkan Peringkat mereka karena mereka telah menunjukkan tingkat kecakapan yang diperlukan. Ketika tingkat kecakapan ini tercapai, Poin Keberuntungan tambahan diperoleh, dan Kemampuan baru dapat diperoleh. Informasi ini terdapat pada [Tabel Peringkat Petarung](0003_Classes.md?id=fighter-rank-table) di bawah Peningkatan. Dengan asumsi Anda memenuhi prasyarat, karakter Anda memulai sebagai Petarung Peringkat 1 dengan Kemampuan Berperingkat yang sesuai dicatat di bawah ini; jika tidak, Anda memulai sebagai Pejuang Peringkat 0 tanpa Kemampuan saat ini.
+Semua petarung dinilai berdasarkan Peringkat, yang merupakan peringkat kekuatan dan keterampilan. Ketika tingkat penguasaan tertentu dicapai dalam jumlah terbatas keterampilan Kelas, petarung dapat meningkatkan Peringkat mereka karena mereka telah menunjukkan tingkat kecakapan yang diperlukan. Ketika tingkat kecakapan ini tercapai, Poin Keberuntungan tambahan diperoleh, dan Kemampuan baru dapat diperoleh. Informasi ini terdapat pada [Tabel Peringkat Petarung](0003_Classes.md?id=fighter-Pangkat-table) di bawah Peningkatan. Dengan asumsi Anda memenuhi prasyarat, karakter Anda memulai sebagai Petarung Peringkat 1 dengan Kemampuan Berperingkat yang sesuai dicatat di bawah ini; jika tidak, Anda memulai sebagai Pejuang Peringkat 0 tanpa Kemampuan saat ini.
 
 ##### Tabel Peringkat Petarung
 
@@ -268,7 +268,7 @@ Seperti namanya, Kemampuan Berperingkat hanya dapat dipilih oleh karakter dengan
 
 Untuk setiap pengeluaran 1 *Experience Roll*, Anda dapat memperoleh satu dari Kemampuan berikut (satu Kemampuan per sesi, masing-masing hanya boleh diambil sekali):
 
-- **Pukulan Kuat:** Memerlukan Kekuatan Fisik (Brawn) dan Keterampilan Tempur 50% atau lebih tinggi. Dengan mengurangi keterampilan Anda satu tingkat pada serangan jarak dekat berikutnya, Anda dapat meningkatkan Pengubah Kerusakan Anda dua tingkat.
+- **Pukulan Kuat:** Memerlukan Kekuatan Fisik (Berotot) dan Keterampilan Tempur 50% atau lebih tinggi. Dengan mengurangi keterampilan Anda satu tingkat pada serangan jarak dekat berikutnya, Anda dapat meningkatkan Pengubah Kerusakan Anda dua tingkat.
 - **Hanya Goresan:** Memerlukan Daya Tahan 50% atau lebih tinggi. Sekali sehari, setelah beristirahat sejenak setidaknya selama satu jam dan memeriksa luka Anda, Anda dapat memulihkan sejumlah Poin Darah di satu Lokasi Tubuh yang setara dengan Tingkat Penyembuhan Anda. Tidak berpengaruh pada Luka Berat.
 - **Pertempuran Berkuda:** Memerlukan Keterampilan Menunggang 50% atau lebih tinggi. Anda telah berlatih untuk bertarung dari punggung tunggangan dan dapat memperoleh manfaat dari hal berikut saat berkuda. Di mana biasanya keterampilan tempur pengendara tidak boleh melebihi keterampilan Menunggang mereka, ketentuan ini tidak berlaku untuk Anda. Selain itu, melakukan serangan berkuda tidak menimbulkan penalti kesulitan satu langkah untuk mengenai target. Akhirnya, Anda dapat mengabaikan tingkat penalti pertama dari lemparan Menunggang apa pun yang diperlukan saat dalam pertempuran. Perhatikan bahwa nomaden manusia dan pengendara elf dapat menerapkan bonus di atas saat menggunakan busur pendek dari punggung tunggangan.
 - **Napas Kedua:** Memerlukan Daya Tahan 50% atau lebih tinggi. Sekali sehari, setelah sempat beristirahat sejenak setidaknya selama satu jam, Anda dapat langsung memulihkan hingga 3 tingkat Kelelahan yang hilang di atas apa pun yang diperoleh kembali secara normal.
@@ -284,7 +284,7 @@ Setelah mencapai Peringkat 2, Anda secara otomatis maju ke Master Senjata jika A
 
 Selain itu, untuk setiap pengeluaran 2 *Experience Roll*, Anda dapat memperoleh satu dari Kemampuan berikut (masing-masing hanya boleh diambil sekali):
 
-- **Kekuatan Brutal:** Sekali sehari, keterampilan Kekuatan Fisik (Brawn) Anda menjadi satu tingkat lebih mudah untuk melakukan satu Aksi. Anda menderita hilangnya satu tingkat Kelelahan setelahnya.
+- **Kekuatan Brutal:** Sekali sehari, keterampilan Kekuatan Fisik (Berotot) Anda menjadi satu tingkat lebih mudah untuk melakukan satu Aksi. Anda menderita hilangnya satu tingkat Kelelahan setelahnya.
 - **Peningkatan Karakteristik:** Anda dapat menambahkan +1 pada Karakteristik pilihan Anda. Ini tidak boleh melebihi batas maksimum ras.
 - **Serangan Sapuan (Sweeping Strike):** Memerlukan Pukulan Kuat dan Keterampilan Tempur 70% atau lebih tinggi. Serangan Sapuan dilakukan dengan menerapkan satu lemparan serangan jarak dekat ke dua target dalam jangkauan dan dalam garis pandang Anda. Setiap bek harus menyelesaikan efek serangan secara terpisah dan Efek Khusus apa pun yang diberlakukan oleh penyerang diperlakukan seolah-olah terjadi secara bersamaan. Serangan tidak boleh melewati unit ramah yang ditempatkan di antara dua lawan. Hanya satu Serangan Sapuan yang dapat dilakukan per Ronde.
 - **Spesialisasi Senjata:** Memerlukan Keterampilan Tempur 70% atau lebih tinggi. Anda dapat memilih Spesialisasi Senjata lainnya.
@@ -300,7 +300,7 @@ Setelah mencapai Peringkat 3, Anda secara otomatis maju ke Master Tinggi (High M
 Selain itu, untuk setiap pengeluaran 3 *Experience Roll*, Anda dapat memperoleh satu dari Kemampuan berikut (masing-masing hanya boleh diambil sekali kecuali ditentukan lain):
 
 - **Peningkatan Karakteristik:** Anda dapat menambahkan +1 pada Karakteristik pilihan Anda. Ini tidak boleh melebihi batas maksimum ras.
-- **Refleks Defensif:** Kemampuan ini mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Zirah ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan. Namun, Anda tidak boleh melempar ulang terhadap serangan yang sama lebih dari sekali, atau menggabungkannya dengan Poin Keberuntungan.
+- **Refleks Defensif:** Kemampuan ini mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Armor ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan. Namun, Anda tidak boleh melempar ulang terhadap serangan yang sama lebih dari sekali, atau menggabungkannya dengan Poin Keberuntungan.
 - **Serangan Sapuan Lebih Besar:** Memerlukan Serangan Sapuan dan Keterampilan Tempur 90% atau lebih tinggi. Seperti Serangan Sapuan, tetapi dapat dilakukan terhadap semua musuh dalam jangkauan dan dalam garis pandang. Serangan tidak boleh melewati unit ramah yang ditempatkan di antara dua lawan. Hanya satu Serangan Sapuan yang dapat dilakukan per Ronde.
 - **Spesialisasi Senjata:** Memerlukan Keterampilan Tempur 90% atau lebih tinggi. Anda dapat memilih Spesialisasi Senjata lainnya.
 
@@ -342,7 +342,7 @@ Setiap baris dihitung sebagai 1 'Barang' untuk tujuan Beban kecuali dinyatakan l
 - Perisai bulat (dihitung sebagai 2 Barang)
 - Busur pendek
 - Tempat anak panah dengan 20 anak panah
-- Set lengkap Zirah rantai, 5 Poin Zirah (0 Barang saat dipakai, 14 Barang jika dibawa)
+- Set lengkap Armor rantai, 5 Poin Armor (0 Barang saat dipakai, 14 Barang jika dibawa)
 - Ransel (kapasitas 10 Barang); kantong air, ransum perjalanan satu minggu, kantong tidur, karung kosong kecil\*, batu api dan baja\*\*, 2 obor enam jam (5½ Barang di dalamnya)
 - Kantong pinggang dengan 2d4 keping emas
 
@@ -376,13 +376,13 @@ Lihat [Bab 4: Penyelarasan dan Hasrat](0004_Alignment_and_Passions.md).
 - **Keterampilan Standar:** Menghindar, Pertolongan Pertama, Pengaruh, Wawasan, Lokasi, Persepsi, Kekuatan Kehendak.
 - **Keterampilan Profesional:** Seorang penyihir secara otomatis menerima Perapalan Arcane dan Pengetahuan Arcane, ditambah 3 keterampilan tambahan dari berikut ini: Budaya (apa saja), Bahasa (apa saja), Pengetahuan (Alkimia), Pengetahuan (apa saja).
 
-#### Kecakapan Zirah dan Senjata Penyihir
+#### Kecakapan Armor dan Senjata Penyihir
 
-Penyihir tidak cakap dengan jenis Zirah atau perisai apa pun, karena mantra Arcane memerlukan gerakan dan gerak tubuh yang tepat selama perapalan, yang terhambat oleh pemakaian Zirah. Mereka biasanya tidak dilatih dalam pertempuran fisik; oleh karena itu, Keterampilan Tempur penyihir hanya dapat dikembangkan dengan Poin Keterampilan Bonus. Ini mencakup penggunaan belati, anak panah, ketapel, tongkat kayu, dan busur silang ringan, senjata sederhana yang sering ditemukan di sekitar tempat tinggal tuan mereka atau yang relatif mudah untuk diambil dan dipelajari.
+Penyihir tidak cakap dengan jenis Armor atau perisai apa pun, karena mantra Arcane memerlukan gerakan dan gerak tubuh yang tepat selama perapalan, yang terhambat oleh pemakaian Armor. Mereka biasanya tidak dilatih dalam pertempuran fisik; oleh karena itu, Keterampilan Tempur penyihir hanya dapat dikembangkan dengan Poin Keterampilan Bonus. Ini mencakup penggunaan belati, anak panah, ketapel, tongkat kayu, dan busur silang ringan, senjata sederhana yang sering ditemukan di sekitar tempat tinggal tuan mereka atau yang relatif mudah untuk diambil dan dipelajari.
 
 ### Struktur Peringkat
 
-Semua penyihir dinilai berdasarkan Peringkat, yang merupakan peringkat kekuatan dan keterampilan. Ketika tingkat penguasaan tertentu dicapai dalam jumlah terbatas keterampilan Kelas, penyihir dapat meningkatkan Peringkat mereka karena mereka telah menunjukkan tingkat kecakapan yang diperlukan. Ketika tingkat kecakapan ini tercapai, Poin Keberuntungan tambahan diperoleh dan Kemampuan baru dapat diperoleh. Informasi ini ditemukan di bawah ini pada [Tabel Peringkat Penyihir](0003_Classes.md?id=mage-rank-table) di bawah Peningkatan. Dengan asumsi Anda memenuhi prasyarat, karakter Anda memulai sebagai *Journeyman* Peringkat 1 dengan Kemampuan yang sesuai dicatat di bawah ini; jika tidak, Anda memulai sebagai Magang Peringkat 0 dengan Kemampuan untuk merapalkan mantra Peringkat 0, dan tidak ada Kemampuan lainnya.
+Semua penyihir dinilai berdasarkan Peringkat, yang merupakan peringkat kekuatan dan keterampilan. Ketika tingkat penguasaan tertentu dicapai dalam jumlah terbatas keterampilan Kelas, penyihir dapat meningkatkan Peringkat mereka karena mereka telah menunjukkan tingkat kecakapan yang diperlukan. Ketika tingkat kecakapan ini tercapai, Poin Keberuntungan tambahan diperoleh dan Kemampuan baru dapat diperoleh. Informasi ini ditemukan di bawah ini pada [Tabel Peringkat Penyihir](0003_Classes.md?id=mage-Pangkat-table) di bawah Peningkatan. Dengan asumsi Anda memenuhi prasyarat, karakter Anda memulai sebagai *Journeyman* Peringkat 1 dengan Kemampuan yang sesuai dicatat di bawah ini; jika tidak, Anda memulai sebagai Magang Peringkat 0 dengan Kemampuan untuk merapalkan mantra Peringkat 0, dan tidak ada Kemampuan lainnya.
 
 ##### Tabel Peringkat Penyihir
 
@@ -399,8 +399,8 @@ Semua penyihir dinilai berdasarkan Peringkat, yang merupakan peringkat kekuatan 
 
 Penyihir mengetahui Kemampuan berikut pada Peringkat 1. Selain itu, selama pembuatan karakter, Anda dapat memilih satu Kemampuan Peringkat 1 secara gratis dengan asumsi Anda memenuhi persyaratannya.
 
-- **Perapal Mantra (Spellcaster):** Meskipun penyihir sangat lemah di awal karier mereka, di sisi lain, mereka dapat merapalkan mantra yang paling spektakuler dan kuat, mampu membakar pasukan, dan meruntuhkan kastil tanpa impunitas. Semua mantra Arcane memerlukan gerakan dan gerak tubuh yang tepat (komponen somatik mantra) selama perapalan, yang terhambat oleh pemakaian Zirah. Lihat bagian [Merapalkan dalam Zirah](0009_Magic.md?id=casting-in-Zirah) untuk informasi spesifik. Jumlah mantra dari Peringkat mereka saat ini yang dapat diingat oleh seorang penyihir ditemukan pada [Tabel Peringkat Penyihir](0003_Classes.md?id=mage-rank-table), di atas, di bawah Mantra dalam Memori.
-- **Mantra Awal:** *Cantrip* adalah kemampuan sihir pertama yang diajarkan kepada magang penyihir dan sepenuhnya didefinisikan dalam bab [Mantra](0010_Spells.md). Seorang penyihir memulai dengan pengetahuan tentang *cantrip* Peringkat 0 *Read Magic*, serta dua *cantrip* (Peringkat 0) untuk setiap 1/10th Pengetahuan Arcane (keterampilan x 0.1). Jika penyihir memenuhi syarat sebagai Peringkat 1, mereka juga mengetahui satu mantra Peringkat 1 untuk setiap 1/10th Pengetahuan Arcane. Jumlah mantra yang dapat disiapkan penyihir pada setiap Peringkat ditemukan di atas pada [Tabel Peringkat Penyihir](0003_Classes.md?id=mage-rank-table) di bawah Mantra dalam Memori. Lihat [Daftar Mantra Penyihir](0003_Classes.md?id=mage-spell-list) di bawah dan bagian tentang [Menghafal Mantra](0009_Magic.md?id=memorizing-spells).
+- **Perapal Mantra (Spellcaster):** Meskipun penyihir sangat lemah di awal karier mereka, di sisi lain, mereka dapat merapalkan mantra yang paling spektakuler dan kuat, mampu membakar pasukan, dan meruntuhkan kastil tanpa impunitas. Semua mantra Arcane memerlukan gerakan dan gerak tubuh yang tepat (komponen somatik mantra) selama perapalan, yang terhambat oleh pemakaian Armor. Lihat bagian [Merapalkan dalam Armor](0009_Magic.md?id=casting-in-Armor) untuk informasi spesifik. Jumlah mantra dari Peringkat mereka saat ini yang dapat diingat oleh seorang penyihir ditemukan pada [Tabel Peringkat Penyihir](0003_Classes.md?id=mage-Pangkat-table), di atas, di bawah Mantra dalam Memori.
+- **Mantra Awal:** *Cantrip* adalah kemampuan sihir pertama yang diajarkan kepada magang penyihir dan sepenuhnya didefinisikan dalam bab [Mantra](0010_Spells.md). Seorang penyihir memulai dengan pengetahuan tentang *cantrip* Peringkat 0 *Read Magic*, serta dua *cantrip* (Peringkat 0) untuk setiap 1/10th Pengetahuan Arcane (keterampilan x 0.1). Jika penyihir memenuhi syarat sebagai Peringkat 1, mereka juga mengetahui satu mantra Peringkat 1 untuk setiap 1/10th Pengetahuan Arcane. Jumlah mantra yang dapat disiapkan penyihir pada setiap Peringkat ditemukan di atas pada [Tabel Peringkat Penyihir](0003_Classes.md?id=mage-Pangkat-table) di bawah Mantra dalam Memori. Lihat [Daftar Mantra Penyihir](0003_Classes.md?id=mage-spell-list) di bawah dan bagian tentang [Menghafal Mantra](0009_Magic.md?id=memorizing-spells).
 
 #### Kemampuan Berperingkat
 
@@ -427,7 +427,7 @@ Untuk setiap pengeluaran 2 *Experience Roll*, Anda dapat memperoleh satu dari Ke
 Untuk setiap pengeluaran 3 *Experience Roll*, Anda dapat memperoleh satu dari Kemampuan berikut (masing-masing hanya boleh diambil sekali):
 
 - **Peningkatan Karakteristik:** Tambahkan +1 pada Karakteristik pilihan Anda. Ini tidak boleh melebihi batas maksimum ras.
-- **Refleks Defensif:** Refleks Defensif mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Zirah ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan. Namun, Anda tidak boleh melempar ulang terhadap serangan yang sama lebih dari sekali, atau menggabungkannya dengan Poin Keberuntungan.
+- **Refleks Defensif:** Refleks Defensif mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Armor ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan. Namun, Anda tidak boleh melempar ulang terhadap serangan yang sama lebih dari sekali, atau menggabungkannya dengan Poin Keberuntungan.
 - **Kekuatan Mental III:** Memerlukan Kekuatan Mental II dan Pengetahuan Arcane 100% atau lebih tinggi. Seperti Kekuatan Mental, tetapi dapat digunakan tiga kali sehari.
 
 #### Peringkat 4:
@@ -451,7 +451,7 @@ Setiap baris dihitung sebagai 1 'Barang' untuk tujuan Beban kecuali dinyatakan l
 
 - Tongkat (dihitung sebagai 2 Barang)
 - 3 anak panah (½ Barang masing-masing)
-- Pakaian biasa tanpa hiasan, 0 Poin Zirah (0 Barang saat dipakai, 1 Barang jika dibawa)
+- Pakaian biasa tanpa hiasan, 0 Poin Armor (0 Barang saat dipakai, 1 Barang jika dibawa)
 - Buku mantra
 - Kantong komponen mantra
 - Ransel (kapasitas 10 Barang); kantong air, ransum perjalanan satu minggu, kantong tidur, karung kosong kecil\*, batu api dan baja\*\*, 10 lilin dua jam\*\*, 10 halaman perkamen\*\*, pena bulu dan botol tinta\*\* (6 barang di dalamnya)
@@ -467,7 +467,7 @@ _\*\* Dihitung sebagai ½ Barang._
 
 | Peringkat 0 | Peringkat 1 | Peringkat 2 | Peringkat 3 | Peringkat 4 | Peringkat 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Appraise](0010_Spells.md?id=appraise) | [Zirah](0010_Spells.md?id=Zirah) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
+| [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=Armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
@@ -513,7 +513,7 @@ DEX, INT, dan CHA.
 
 Lihat [Bab 4: Penyelarasan dan Hasrat](0004_Alignment_and_Passions.md).
 
-Selain Penyelarasan dan Hasrat rasial/budaya, rogue yang memilih untuk bergabung dengan serikat pencuri harus mengucapkan Sumpah dan mengikuti semua aturan normal yang ditetapkan dalam [Menggunakan Penyelarasan dan Hasrat](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Selain itu, mereka harus mematuhi aturan ketat berikut: tunjukkan kesetiaan kepada anggota lain, patuhi semua aturan serikat, bertindak demi kepentingan terbaik serikat (mendahulukan kepentingan serikat di atas kepentingan pribadi), menjaga rahasia serikat, membayar iuran serikat, dan membayar potongan dari pekerjaan apa pun yang 'disetujui' oleh serikat.
+Selain Penyelarasan dan Hasrat rasial/budaya, rogue yang memilih untuk bergabung dengan serikat pencuri harus mengucapkan Sumpah dan mengikuti semua aturan normal yang ditetapkan dalam [Menggunakan Penyelarasan dan Hasrat](0004_Alignment_and_Passions.md?id=using-alignment-and-Gairah). Selain itu, mereka harus mematuhi aturan ketat berikut: tunjukkan kesetiaan kepada anggota lain, patuhi semua aturan serikat, bertindak demi kepentingan terbaik serikat (mendahulukan kepentingan serikat di atas kepentingan pribadi), menjaga rahasia serikat, membayar iuran serikat, dan membayar potongan dari pekerjaan apa pun yang 'disetujui' oleh serikat.
 
 Iuran bervariasi menurut lokasi dan ukuran serikat, tetapi sekitar 100 emas per tahun adalah standar. Selain iuran tahunan, anggota diharuskan membayar potongan dari pekerjaan apa pun di mana serikat membantu dalam bentuk kontak, bocoran, peta, informasi umum, dan sebagainya. Jumlah spesifik potongan harus ditentukan berdasarkan kasus per kasus, tergantung pada bantuan yang diberikan, tetapi rata-rata 20%, disesuaikan naik atau turun sudah cukup. Sebagai imbalannya, serikat menyediakan tempat penampungan sementara bagi anggota dan sekutu mereka, serta layanan lain yang dianggap pantas oleh Games Master. Penadah tersedia untuk membantu memindahkan barang curian, dan melalui kontak ini, seorang pencuri dapat diperkirakan mendapatkan sekitar ¼ dari nilai jual barang tersebut. Sebagian besar serikat pencuri hadir di sebagian besar kota besar dan bahkan beberapa kota kecil.
 
@@ -526,9 +526,9 @@ Karena sifatnya yang beragam, rogue memiliki pilihan keterampilan yang lebih ban
 - **Keterampilan Standar:** Atletik, Keterampilan Tempur (Rogue), Tipu Daya, Menghindar, Wawasan, Persepsi, Siluman.
 - **Keterampilan Profesional:** Seorang rogue secara otomatis menerima Membuka Kunci (*Lockpicking*) dan Mekanisme, ditambah dua keterampilan tambahan dari berikut ini: Akrobatik, Akting, Perdagangan, Menyamar, Intimidasi, Rayuan, Kelincahan (*Sleight*), atau Pengetahuan Jalanan (*Streetwise*). Saat pembuatan karakter, anggota Serikat Pencuri juga menerima Bahasa (Bahasa Pencuri/Thieves' Cant) pada +40. Jika mereka mengambilnya nanti, mereka tidak menerima bonus +40.
 
-#### Kecakapan Zirah dan Senjata Rogue
+#### Kecakapan Armor dan Senjata Rogue
 
-Rogue cakap dengan semua jenis Zirah (ringan dan berat), dan dengan semua perisai (kecuali perisai menara). Namun, mereka menderita penalti pada banyak Kemampuan rogue saat mengenakan Zirah berat atau saat terbebani. Keterampilan Tempur mereka mencakup penggunaan semua senjata dasar, ditambah busur silang tangan, pedang panjang, *rapier*, dan pedang pendek.
+Rogue cakap dengan semua jenis Armor (ringan dan berat), dan dengan semua perisai (kecuali perisai menara). Namun, mereka menderita penalti pada banyak Kemampuan rogue saat mengenakan Armor berat atau saat terbebani. Keterampilan Tempur mereka mencakup penggunaan semua senjata dasar, ditambah busur silang tangan, pedang panjang, *rapier*, dan pedang pendek.
 
 ### Struktur Peringkat
 
@@ -549,10 +549,10 @@ Semua rogue dinilai berdasarkan Peringkat, yang merupakan peringkat kekuatan dan
 
 Rogue mengetahui semua Kemampuan berikut pada Peringkat 1. Selain itu, selama pembuatan karakter, Anda dapat memilih satu Kemampuan Peringkat 1 secara gratis dengan asumsi Anda memenuhi persyaratannya.
 
-- **Memanjat Dinding:** Anda sangat pandai memanjat apa pun hingga permukaan yang curam. Jika Anda Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), dan mengenakan pakaian yang tidak lebih ketat dari Zirah ringan, Anda dapat mengabaikan 1 Tingkat Kesulitan pada lemparan Atletik Anda saat melakukan upaya memanjat. Selain itu, Penalti Zirah pada Gerakan Dasar saat memanjat dapat diabaikan.
+- **Memanjat Dinding:** Anda sangat pandai memanjat apa pun hingga permukaan yang curam. Jika Anda Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), dan mengenakan pakaian yang tidak lebih ketat dari Armor ringan, Anda dapat mengabaikan 1 Tingkat Kesulitan pada lemparan Atletik Anda saat melakukan upaya memanjat. Selain itu, Penalti Armor pada Gerakan Dasar saat memanjat dapat diabaikan.
 - **Bersembunyi dalam Bayangan:** Anda ahli dalam siluman dan telah menyempurnakan seni bersembunyi dalam bayangan. Jika Anda dapat memposisikan diri di area yang diselimuti bayangan, semua lemparan Persepsi untuk melihat Anda menjadi 1 Tingkat Kesulitan lebih sulit.
 - **Serangan Mengendap (Sneak Attack):** Rogue dapat mencoba menetralisir korban dari posisi yang menguntungkan jika dipersenjatai dengan senjata jarak dekat kecil atau menengah atau menggunakan Senjata Jarak Jauh dalam jarak 30 kaki dari korban. Target harus berbentuk humanoid secara umum dan memiliki organ vital. Tidak berpengaruh pada naga atau massa agar-agar, misalnya. Karena penyerang biasanya mampu menyerang tanpa halangan, mereka mendapatkan Pilih Lokasi sebagai Efek Khusus bonus jika berhasil. Namun, lokasi yang dipilih harus kepala, dada, atau perut target untuk mendapatkan keuntungan tambahan berikut.
-  - Penyerang dapat mengabaikan Pengubah Kerusakan negatif apa pun yang biasanya berlaku, Efek Khusus Melewati Zirah dan Memaksimalkan Kerusakan tidak memerlukan Keberhasilan Kritis.
+  - Penyerang dapat mengabaikan Pengubah Kerusakan negatif apa pun yang biasanya berlaku, Efek Khusus Melewati Armor dan Memaksimalkan Kerusakan tidak memerlukan Keberhasilan Kritis.
   - Rogue tidak perlu mendapatkan kejutan pada korban; namun, serangan harus dilakukan dari luar bidang pandang korban. Oleh karena itu, banyak rogue menunggu lawan terlibat dengan sekutu dan kemudian memanfaatkan gangguan untuk menyerang dari belakang. Menangkis atau Menghindar Serangan Mengendap pertama-tama memerlukan lemparan Persepsi, lemparan Persepsi Sulit jika korban sudah terganggu. Jika berhasil, bertahan melawan serangan yang datang dari samping adalah Sulit, sementara bertahan melawan serangan dari belakang adalah tugas yang sangat berat! Serangan Mengendap hanya dapat digunakan pada target yang sama lebih dari sekali jika mereka tetap terganggu atau tidak menyadari penyerang mereka.
 - **Tipu Muslihat:** Karena rogue adalah ahli infiltrasi, keterampilan Membuka Kunci, Mekanisme, dan Kelincahan menjadi satu Tingkat Kesulitan lebih mudah.
 
@@ -564,13 +564,13 @@ Seperti namanya, Kemampuan Berperingkat hanya dapat dipilih oleh karakter dengan
 
 Untuk setiap pengeluaran 1 *Experience Roll*, Rogue dapat memperoleh satu dari Kemampuan berikut (masing-masing hanya boleh diambil sekali):
 
-- **Lincah (Agile):** Memerlukan Menghindar atau Akrobatik 60% atau lebih tinggi. Dengan asumsi Anda Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan pakaian yang tidak lebih ketat dari Zirah ringan, Anda dapat memanfaatkan refleks luar biasa Anda dalam pertempuran. Saat menghitung Inisiatif, Anda dapat menambahkan +4 pada totalnya.
-- **Penyelamat Cerdik (Artful Dodger):** Memerlukan Menghindar 50% atau lebih tinggi. Bakat ini mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan pakaian yang tidak lebih ketat dari Zirah ringan. Anda memiliki refleks cepat dan dapat menggunakan keterampilan Menghindar untuk menghindari serangan jarak dekat tanpa terjatuh. Terhadap serangan jarak jauh, Anda hanya berakhir tertelungkup jika Anda Gagal dalam lemparan tersebut.
+- **Lincah (Agile):** Memerlukan Menghindar atau Akrobatik 60% atau lebih tinggi. Dengan asumsi Anda Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan pakaian yang tidak lebih ketat dari Armor ringan, Anda dapat memanfaatkan refleks luar biasa Anda dalam pertempuran. Saat menghitung Inisiatif, Anda dapat menambahkan +4 pada totalnya.
+- **Penyelamat Cerdik (Artful Dodger):** Memerlukan Menghindar 50% atau lebih tinggi. Bakat ini mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan pakaian yang tidak lebih ketat dari Armor ringan. Anda memiliki refleks cepat dan dapat menggunakan keterampilan Menghindar untuk menghindari serangan jarak dekat tanpa terjatuh. Terhadap serangan jarak jauh, Anda hanya berakhir tertelungkup jika Anda Gagal dalam lemparan tersebut.
 - **Pendengaran Hebat:** Memerlukan Persepsi 50% atau lebih tinggi. Pendengaran tajam Anda membuat semua lemparan Persepsi yang berkaitan dengan pendengaran menjadi satu Tingkat Kesulitan lebih mudah.
 - **Mata Tajam:** Memerlukan Persepsi 50% atau lebih tinggi. Penglihatan tajam Anda membuat semua lemparan Persepsi yang berkaitan dengan penglihatan menjadi satu Tingkat Kesulitan lebih mudah.
 - **Skirmishing:** Memerlukan Atletik dan Keterampilan Tempur 50% atau lebih tinggi. Kemampuan ini memungkinkan peluncuran serangan jarak jauh di Ronde yang sama saat Anda lari (tetapi tidak saat sprint). Namun, persentase serangan penyerang tidak boleh melebihi keterampilan Atletiknya.
-- **Swashbuckling:** Memerlukan Keterampilan Tempur 50% atau lebih tinggi. Dengan asumsi karakter Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan pakaian yang tidak lebih ketat dari Zirah ringan, mereka dapat terlibat dalam serangan dan menghindar yang dilakukan saat melompat atau berayun ke dalam (atau melepaskan diri dari) pertempuran, mengabaikan batasan keterampilan apa pun yang ditempatkan oleh keterampilan Atletik.
-- **Pertahanan Tanpa Zirah:** Memerlukan Kemampuan Penyelamat Cerdik dan baik Menghindar atau Akrobatik 50% atau lebih tinggi. Karakter Anda sangat sulit dipukul saat tidak terhambat oleh Zirah. Saat Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan TIDAK ADA Zirah, lemparan Menghindar Anda menjadi satu Tingkat Kesulitan lebih mudah.
+- **Swashbuckling:** Memerlukan Keterampilan Tempur 50% atau lebih tinggi. Dengan asumsi karakter Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan pakaian yang tidak lebih ketat dari Armor ringan, mereka dapat terlibat dalam serangan dan menghindar yang dilakukan saat melompat atau berayun ke dalam (atau melepaskan diri dari) pertempuran, mengabaikan batasan keterampilan apa pun yang ditempatkan oleh keterampilan Atletik.
+- **Pertahanan Tanpa Armor:** Memerlukan Kemampuan Penyelamat Cerdik dan baik Menghindar atau Akrobatik 50% atau lebih tinggi. Karakter Anda sangat sulit dipukul saat tidak terhambat oleh Armor. Saat Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR) dan mengenakan TIDAK ADA Armor, lemparan Menghindar Anda menjadi satu Tingkat Kesulitan lebih mudah.
 - **Vaulting (memerlukan Akrobatik):** Memerlukan Akrobatik 50% atau lebih tinggi. Saat Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), Anda dapat menggunakan keterampilan Akrobatik Anda untuk lompat galah sesuai dengan aturan berikut. Menggunakan galah sepanjang minimal tongkat kayu dan bergerak setidaknya pada kecepatan lari atau sprint, Anda dapat melompati rintangan atau naik ke lokasi yang sulit dijangkau. Ini memerlukan lemparan Akrobatik Mudah yang berhasil, dan jika berhasil, akan memungkinkan Anda melompat secara horizontal hingga dua kali tinggi badan Anda +1d4+6 kaki. Lompatan vertikal yang berhasil akan memungkinkan Anda mencapai ketinggian yang setara dengan panjang tongkat kayu (6 hingga 9 kaki); namun, melompat secara vertikal menyebabkan Anda berakhir tertelungkup. Karakter tanpa Kemampuan ini yang memiliki keterampilan Akrobatik dapat mencoba prestasi ini pada kesulitan normal. Pada Keberhasilan Kritis dengan lompatan horizontal, jarak lompatan dapat ditingkatkan hingga setengahnya lagi. Keberhasilan Kritis saat melompat secara vertikal memungkinkan Anda mendarat dengan kaki Anda.
 - **Presisi Senjata:** Anda mahir menggunakan senjata kecil yang dapat disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan efektif. Ini memungkinkan Anda menghitung Pengubah Kerusakan dengan senjata-senjata ini berdasarkan STR+DEX alih-alih STR+SIZ, mana pun yang menghasilkan hasil lebih baik. Pengubah Kerusakan tidak boleh melebihi dua kali dadu kerusakan normal senjata. Misalnya, belati dengan kerusakan 1d4+1, akan dibatasi pada Pengubah Kerusakan sebesar +1d4, menjadikannya 1d4+1+1d4. Kemampuan ini mencakup pentungan, belati, garrote, pisau, pedang pendek, *main gauche*, dan *rapier*. Serta serangan tanpa senjata. Anak panah, ketapel, busur pendek, dan lembing juga termasuk dalam kategori ini.
 
@@ -579,7 +579,7 @@ Untuk setiap pengeluaran 1 *Experience Roll*, Rogue dapat memperoleh satu dari K
 Kemampuan Serangan Mengendap rogue sekarang melakukan kerusakan +1d2 dengan senjata jarak dekat, tidak ada kerusakan tambahan dengan senjata jarak jauh. Selain itu, mereka dapat mengambil Kemampuan berikut dengan biaya 2 EXP masing-masing (masing-masing hanya boleh diambil sekali):
 
 - **Peningkatan Karakteristik:** Anda dapat menambahkan +1 pada Karakteristik pilihan Anda. Ini tidak boleh melebihi batas maksimum ras.
-- **Refleks Defensif:** Refleks Defensif mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Zirah ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan. Namun, Anda tidak boleh melempar ulang terhadap serangan yang sama lebih dari sekali, atau menggabungkannya dengan Poin Keberuntungan.
+- **Refleks Defensif:** Refleks Defensif mengharuskan Anda untuk Tidak Terbebani (Lebih sedikit 'Barang' yang dibawa daripada STR), mengenakan pakaian yang tidak lebih ketat dari Armor ringan. Sekali per pertempuran, Anda dapat melempar ulang lemparan Tangkisan atau Menghindar yang Gagal tanpa menghabiskan Poin Keberuntungan. Namun, Anda tidak boleh melempar ulang terhadap serangan yang sama lebih dari sekali, atau menggabungkannya dengan Poin Keberuntungan.
 - **Membaca Bahasa:** Memerlukan Sumpah 70% atau lebih tinggi dan satu bulan pelatihan dengan serikat pencuri. Hanya Anggota serikat pencuri yang dapat mengambil Kemampuan ini. Anda telah belajar membaca bahasa apa pun, bahkan yang biasanya tidak Anda ketahui. Ini bukan pemahaman lengkap tentang semua bahasa, tetapi kesempatan untuk mengambil kata di sana atau frasa di sini dan menyatukannya. Kegunaan utama dari keterampilan ini adalah pemahaman catatan, instruksi, dan peta harta karun, tetapi dapat digunakan untuk mencoba menguraikan bahasa apa pun yang tidak diketahui. Membaca Bahasa adalah Keterampilan Profesional dan dimulai pada Level Dasar INTx2. Games Master harus melakukan pemeriksaan keterampilan ini, menjaga kerahasiaan hasilnya, karena Anda tidak akan tahu apakah Anda telah berhasil menerjemahkan teks tersebut, atau hanya berpikir bahwa Anda telah melakukannya. Keberhasilan akan mengungkapkan beberapa informasi berguna yang setara dengan (INT/4) Anda sementara Keberhasilan Kritis akan mengungkapkan beberapa informasi yang setara dengan INT/2 Anda. Pada lemparan Gagal, Anda tidak mempelajari informasi sama sekali. Akhirnya, pada Kegagalan Mutlak, Anda hanya percaya bahwa Anda mengetahui materi pelajaran yang benar dan Games Master dapat memberikan informasi palsu kepada Anda.
 
 #### Peringkat 3:
@@ -610,7 +610,7 @@ Setiap baris dihitung sebagai 1 'Barang' untuk tujuan Beban kecuali dinyatakan l
 
 - Pedang pendek
 - Baik 3 belati atau satu ketapel dan 10 peluru ketapel timah (1½ Barang)
-- Set lengkap Zirah kulit (0 Barang saat dipakai, 7 Barang jika dibawa)
+- Set lengkap Armor kulit (0 Barang saat dipakai, 7 Barang jika dibawa)
 - Pembuka kunci dan peralatan pencuri
 - Ransel (kapasitas 10 Barang), kantong air, ransum perjalanan satu minggu, kantong tidur, karung kosong kecil\*, batu api dan baja\*\*, lentera, 2 botol minyak (6½ Barang di dalamnya)
 - Kantong pinggang dengan 4d4 keping emas

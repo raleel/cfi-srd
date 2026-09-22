@@ -2,7 +2,7 @@
 
 Deskripsi untuk setiap latar belakang ras berikut ini menyertakan daftar bonus keterampilan yang sesuai. Pemain yang memilih karakter manusia perlu menentukan lebih lanjut karakter mereka dengan budaya yang tepat. Pemain harus segera menerapkan bonus keterampilan tersebut ke Keterampilan Standar pada Lembar Karakter mereka dan menambahkan keterampilan baru tambahan, yang dikenal sebagai Keterampilan Profesional (diperkenalkan pada bab berikutnya), ke bagian yang sesuai pada lembar tersebut. Dalam banyak kasus, sebuah ras mencantumkan serangkaian keterampilan dan mengundang pemain untuk memilih satu atau lebih yang akan mendapatkan bonus: dengan cara ini, pemain dari latar belakang ras yang sama dapat memastikan bahwa petualang mereka berbeda dalam bidang yang telah mereka kembangkan.
 
-Perhatikan juga bahwa setiap ras dilengkapi dengan Penyelarasan (Alignment) yang khas dan beberapa Hasrat (Passions) (lihat [Bab 4: Penyelarasan dan Hasrat](0004_Alignment_and_Passions.md)). Penyelarasan dan Hasrat dapat memberikan kedalaman dan karakterisasi yang luar biasa pada petualang yang Anda buat, menentukan preferensi dan prasangka yang tertanam serta mendefinisikan nilai-nilai moral karakter.
+Perhatikan juga bahwa setiap ras dilengkapi dengan Penyelarasan (Alignment) yang khas dan beberapa Hasrat (Gairah) (lihat [Bab 4: Penyelarasan dan Hasrat](0004_Alignment_and_Passions.md)). Penyelarasan dan Hasrat dapat memberikan kedalaman dan karakterisasi yang luar biasa pada petualang yang Anda buat, menentukan preferensi dan prasangka yang tertanam serta mendefinisikan nilai-nilai moral karakter.
 
 ---
 ## Manusia
@@ -21,7 +21,7 @@ Bersifat kesukuan, kaum barbar cenderung menghindari peradaban, memandang mereka
 #### Keterampilan
 
 - **Keterampilan Bebas:** Adat Istiadat +40, Bahasa (Umum) +40
-- **Keterampilan Standar:** Atletik, Kekuatan Fisik (Brawn), Ketahanan, Pertolongan Pertama, Lokasi, Persepsi; dan salah satu dari Berperahu atau Menunggang
+- **Keterampilan Standar:** Atletik, Kekuatan Fisik (Berotot), Ketahanan, Pertolongan Pertama, Lokasi, Persepsi; dan salah satu dari Berperahu atau Menunggang
 - **Keterampilan Profesional:** Kerajinan (apa saja), Penyembuhan, Bahasa (Apa saja*), Pengetahuan (apa saja), Bermusik, Navigasi, Pelayaran, Kelangsungan Hidup, Melacak
 
 _* Manusia tidak dibatasi dalam pemilihan bahasa selama pembuatan karakter jika mereka dapat membenarkan pilihan tersebut._
@@ -50,7 +50,7 @@ Budaya Beradab dicirikan oleh kemiripan dengan hukum dan ketertiban, yang diduku
 #### Keterampilan
 
 - **Keterampilan Bebas:** Adat Istiadat +40, Bahasa (Umum) +40
-- **Keterampilan Standar:** Menyembunyikan, Penipuan, Mengemudi, Pengaruh, Wawasan, Lokasi, Kemauan (Willpower)
+- **Keterampilan Standar:** Menyembunyikan, Penipuan, Mengemudi, Pengaruh, Wawasan, Lokasi, Kemauan (Tekad)
 - **Keterampilan Profesional:** Seni (apa saja), Perdagangan, Kerajinan (apa saja), Kesopanan, Bahasa (apa saja*), Pengetahuan (apa saja), Bermusik, Pengetahuan Jalanan.
 
 _* Manusia tidak dibatasi dalam pemilihan bahasa selama pembuatan karakter jika mereka dapat membenarkan pilihan tersebut._
@@ -77,7 +77,7 @@ Orang-orang nomaden terus bergerak, tanpa rumah dan tempat tinggal yang bisa dis
 #### Keterampilan
 
 - **Keterampilan Bebas:** Adat Istiadat +40, Bahasa (Umum) +40.
-- **Keterampilan Standar:** Ketahanan, Pertolongan Pertama, Lokasi, Persepsi, Siluman (Stealth); dan dua dari berikut ini: Atletik, Berperahu, Berenang, Mengemudi, atau Menunggang, tergantung pada moda perjalanan utama.
+- **Keterampilan Standar:** Ketahanan, Pertolongan Pertama, Lokasi, Persepsi, Siluman (Senyap); dan dua dari berikut ini: Atletik, Berperahu, Berenang, Mengemudi, atau Menunggang, tergantung pada moda perjalanan utama.
 - **Keterampilan Profesional:** Kerajinan (apa saja), Budaya (apa saja), Penyembuhan, Bahasa (apa saja*), Pengetahuan (apa saja), Bermusik, Navigasi, Kelangsungan Hidup, Melacak.
 
 _* Manusia tidak dibatasi dalam pemilihan bahasa selama pembuatan karakter jika mereka dapat membenarkan pilihan tersebut._
@@ -107,7 +107,7 @@ Namun, kepercayaan budaya tertentu, yang sering kali didasarkan pada takhayul, d
 #### Keterampilan
 
 - **Keterampilan Bebas:** Adat Istiadat +40, Bahasa (Umum) +40.
-- **Keterampilan Standar:** Kekuatan Fisik (Brawn), Ketahanan, Menghindar, Lokasi, Persepsi, Siluman; dan salah satu dari Atletik, Berperahu, Pertolongan Pertama, atau Berenang.
+- **Keterampilan Standar:** Kekuatan Fisik (Berotot), Ketahanan, Menghindar, Lokasi, Persepsi, Siluman; dan salah satu dari Atletik, Berperahu, Pertolongan Pertama, atau Berenang.
 - **Keterampilan Profesional:** Kerajinan (apa saja), Penyembuhan, Pengetahuan (apa saja), Bahasa (apa saja*), Bermusik, Navigasi, Kelangsungan Hidup, Melacak.
 
 _* Manusia tidak dibatasi dalam pemilihan bahasa selama pembuatan karakter jika mereka dapat membenarkan pilihan tersebut._
@@ -145,14 +145,14 @@ Kurcaci berumur panjang dan dapat mencapai usia sekitar 450 tahun. Mereka memili
 
 #### Budaya Kurcaci
 
-Kurcaci adalah makhluk sosial yang terikat dalam klan dan suku yang berbagi aula dan kota bawah tanah yang besar. Dalam hal ini, mereka paling mirip dengan budaya Barbar, meskipun ada beberapa perbedaan utama. Pertama, gender tidak masalah dalam masyarakat kurcaci: pria dan wanita berbagi tugas dan tanggung jawab secara setara. Ini termasuk mengasuh anak, kerja manual, berburu, dan perang. Kedua, kurcaci cenderung meremehkan individu demi masyarakat.
+Kurcaci adalah makhluk sosial yang terikat dalam klan dan suku yang berbagi aula dan kota bawah tanah yang besar. Dalam hal ini, mereka paling mirip dengan budaya Barbar, meskipun ada beberapa perbedaan utama. Pertama, Kelamin tidak masalah dalam masyarakat kurcaci: pria dan wanita berbagi tugas dan tanggung jawab secara setara. Ini termasuk mengasuh anak, kerja manual, berburu, dan perang. Kedua, kurcaci cenderung meremehkan individu demi masyarakat.
 
 Kurcaci tahu bahwa kekuatan berasal dari jumlah dan bahwa keinginan serta kebutuhan individu selalu dikalahkan oleh orang banyak. Namun, mereka adalah masyarakat yang akuisitif dan materialistik, dengan cemburu menjaga penemuan dan pencapaian mereka. Kurcaci menyukai barang-barang, dan ketika dipisahkan dari klan, seorang kurcaci dapat menjadi egois dan individualistis dengan sangat cepat, karena budaya kurcaci secara keseluruhan tidak ada untuk membimbing dan mengendalikan naluri dasar.
 
 #### Keterampilan
 
 - **Keterampilan Bebas:** Adat Istiadat +40, Bahasa (Umum) +40, Bahasa (Kurcaci) +40
-- **Keterampilan Standar:** Atletik, Kekuatan Fisik (Brawn), Ketahanan, Menghindar, Lokasi, Persepsi, Kemauan
+- **Keterampilan Standar:** Atletik, Kekuatan Fisik (Berotot), Ketahanan, Menghindar, Lokasi, Persepsi, Kemauan
 - **Keterampilan Profesional:** Perdagangan, Kerajinan (apa saja), Teknik, Bahasa (apa saja*), Pengetahuan (apa saja), Mekanisme, Orasi, Kelangsungan Hidup.
 
 _* Selama pembuatan karakter, bahasa tambahan terbatas pada gnome, goblin, kobold, dan orc._
@@ -213,7 +213,7 @@ _* Selama pembuatan karakter, bahasa tambahan terbatas pada gnome, halfling, gob
 - **Melek Huruf:** Elf biasanya dapat membaca dan menulis bahasa apa pun yang dapat mereka gunakan.
 - **Ketahanan terhadap Tidur dan Pesona:** Elf menganggap lemparan Kemauan untuk melawan mantra *Tidur* dan *Pesona* 2 tingkat lebih mudah. Ini termasuk semua mantra dari Sekolah *Enchantment (Pesona)* (*Charm Person, Friendship, Hypnotism*, dan sebagainya). Mereka dapat melepaskan ketahanan ini dan menerima efek sihir jika mereka mau.
 - **Penglihatan Tajam:** Karena ketajaman visual mereka, elf menganggap semua lemparan Persepsi untuk melihat sesuatu satu tingkat lebih mudah.
-- **Siluman:** Elf yang tidak mengenakan pakaian yang lebih ketat daripada zirah ringan menganggap tes Siluman 1 tingkat lebih mudah.
+- **Siluman:** Elf yang tidak mengenakan pakaian yang lebih ketat daripada Armor ringan menganggap tes Siluman 1 tingkat lebih mudah.
 
 ---
 ### Gnome
@@ -290,7 +290,7 @@ Pilih dari budaya manusia atau dari Hasrat elf berikut:
 - **Melek Huruf** : Half-elf biasanya dapat membaca dan menulis bahasa apa pun yang dapat mereka gunakan.
 - **Ketahanan terhadap Tidur dan Pesona** : Half-elf menganggap lemparan Kemauan untuk melawan mantra *Tidur* dan *Pesona* satu tingkat lebih mudah. Ini termasuk semua mantra dari Sekolah *Enchantment (Pesona)* (*Charm Person, Friendship, Hypnotism*, dan sebagainya). Mereka dapat melepaskan ketahanan ini dan menerima efek sihir jika mereka mau.
 - **Penglihatan Tajam** : Karena ketajaman visual mereka, half-elf menganggap semua lemparan Persepsi untuk melihat sesuatu satu tingkat lebih mudah.
-- **Siluman** : Half-elf yang tidak mengenakan pakaian yang lebih ketat daripada zirah ringan menganggap tes Siluman 1 tingkat lebih mudah.
+- **Siluman** : Half-elf yang tidak mengenakan pakaian yang lebih ketat daripada Armor ringan menganggap tes Siluman 1 tingkat lebih mudah.
 
 ---
 ### Half-Orc
@@ -304,7 +304,7 @@ Seperti half-elf, half-orc tidak memiliki tanah asal, paling sering tinggal di a
 #### Keterampilan
 
 - **Keterampilan Bebas:** Adat Istiadat +40, Bahasa (Umum) +40, Bahasa (Orc) +40.
-- **Keterampilan Standar:** Pilih dari budaya manusia atau dari daftar keterampilan orc berikut: Atletik, Kekuatan Fisik (Brawn), Ketahanan, Pertolongan Pertama, Lokasi, Persepsi; dan salah satu dari Berperahu, Menghindar, atau Menunggang.
+- **Keterampilan Standar:** Pilih dari budaya manusia atau dari daftar keterampilan orc berikut: Atletik, Kekuatan Fisik (Berotot), Ketahanan, Pertolongan Pertama, Lokasi, Persepsi; dan salah satu dari Berperahu, Menghindar, atau Menunggang.
 - **Keterampilan Profesional:** Pilih dari budaya manusia atau dari daftar keterampilan orc berikut: Kerajinan (apa saja), Penyembuhan, Intimidasi, Pengetahuan (apa saja), Bermusik, Navigasi, Kelangsungan Hidup, Melacak.
 
 _* Selama pembuatan karakter, jika dibesarkan oleh orc, bahasa tambahan terbatas pada goblin, hobgoblin, orc, dan gnoll. Jika dibesarkan oleh manusia, Anda tidak dibatasi dalam pemilihan bahasa jika Anda dapat membenarkan pilihan tersebut._
@@ -344,7 +344,7 @@ Meskipun secara fisik lebih kecil dan lebih lemah daripada kebanyakan spesies be
 
 #### Budaya
 
-Budaya halfling mirip dengan Beradab. Mereka tinggal di komunitas kecil yang disebut shire, desa dan kota kecil yang erat dengan beberapa keluarga besar yang membentuk dasar komunitas. Industri mereka dasar: pertanian terutama, tetapi juga kerajinan tangan seperti tembikar, menenun, pengolahan kulit, dan tekstil. Mereka memang mengerjakan logam tetapi sangat jarang untuk senjata dan zirah. Seperti elf, sebagian besar halfling tidak akan pernah meninggalkan komunitas mereka. Sebaliknya, mereka lebih suka tinggal di rumah, makan dua belas kali sehari, mengisap pipa, dan minum sambil bersosialisasi dengan teman dan orang yang dicintai. Namun sesekali, halfling muncul yang mendapatkan dorongan untuk berpetualang. Unit budaya umum untuk halfling adalah Riding; area yang dibatasi oleh tiga shire yang membuat ukuran setiap riding sangat bervariasi. Borough dibentuk dari tiga Riding.
+Budaya halfling mirip dengan Beradab. Mereka tinggal di komunitas kecil yang disebut shire, desa dan kota kecil yang erat dengan beberapa keluarga besar yang membentuk dasar komunitas. Industri mereka dasar: pertanian terutama, tetapi juga kerajinan tangan seperti tembikar, menenun, pengolahan kulit, dan tekstil. Mereka memang mengerjakan logam tetapi sangat jarang untuk senjata dan Armor. Seperti elf, sebagian besar halfling tidak akan pernah meninggalkan komunitas mereka. Sebaliknya, mereka lebih suka tinggal di rumah, makan dua belas kali sehari, mengisap pipa, dan minum sambil bersosialisasi dengan teman dan orang yang dicintai. Namun sesekali, halfling muncul yang mendapatkan dorongan untuk berpetualang. Unit budaya umum untuk halfling adalah Riding; area yang dibatasi oleh tiga shire yang membuat ukuran setiap riding sangat bervariasi. Borough dibentuk dari tiga Riding.
 
 #### Keterampilan
 
@@ -370,5 +370,5 @@ _* Selama pembuatan karakter, bahasa tambahan terbatas pada kurcaci, elf, gnome,
 - **Melek Huruf:** Halfling biasanya dapat membaca dan menulis bahasa apa pun yang dapat mereka gunakan.
 - **Ketahanan Sihir:** Seperti kurcaci, halfling sangat tahan terhadap Sihir Arcane dengan Pemeriksaan Kemauan menjadi satu tingkat lebih mudah saat digunakan untuk melawan. Ketahanan ini tidak berpengaruh pada sihir Divine.
 - **Ketahanan Racun:** Halfling juga sangat tahan terhadap racun, dengan lemparan Ketahanan yang berkaitan dengan keracunan menjadi satu tingkat lebih mudah.
-- **Siluman:** Halfling yang tidak mengenakan pakaian yang lebih ketat daripada zirah ringan menganggap tes Siluman 1 tingkat lebih mudah.
+- **Siluman:** Halfling yang tidak mengenakan pakaian yang lebih ketat daripada Armor ringan menganggap tes Siluman 1 tingkat lebih mudah.
 - **Toleransi Paparan (Kaki):** Halfling tidak mengalami efek buruk dari paparan saat bertelanjang kaki terlepas dari suhu. Mereka mengalami paparan secara normal sejauh bagian tubuh lainnya.
