@@ -1,106 +1,106 @@
-# Chương 7: Hệ thống Trò chơi
+# Chương 7: Hệ Thống Trò Chơi
 
-Nhiều sự kiện khác nhau có thể xảy ra trong một ván game _Classic Fantasy Imperative_. Một số được giải quyết thông qua việc sử dụng kỹ năng hoặc một trong các cơ chế trò chơi chính như chiến đấu hoặc phép thuật; những sự kiện khác yêu cầu các quy tắc riêng để phán quyết. Chương này cung cấp các quy tắc và hướng dẫn cho nhiều tình huống khác nhau mà người chơi sẽ gặp phải trong khi chơi trò chơi.
+Nhiều sự kiện khác nhau có thể xảy ra trong một trò chơi _Classic Fantasy Imperative_. Một số được giải quyết thông qua việc sử dụng kỹ năng hoặc một trong các cơ chế trò chơi chính như chiến đấu hoặc phép thuật; những sự kiện khác yêu cầu các quy tắc riêng để phán quyết. Chương này cung cấp các quy tắc và hướng dẫn cho nhiều tình huống khác nhau mà người chơi sẽ gặp phải khi chơi trò chơi.
 
-Danh sách này không đầy đủ nhưng sẽ đại diện cho những tình huống phổ biến nhất. Nếu Quản trò (Games Master) thấy có những tình huống khác cần một hình thức phán quyết của hệ thống trò chơi và những tình huống này dường như xảy ra thường xuyên, họ được khuyến khích phát triển các quy tắc riêng của mình để bao quát các trường hợp đặc biệt này, sử dụng các quy tắc được đưa ra trong chương này làm cơ sở để sao chép hoặc phát triển.
+Danh sách này không đầy đủ nhưng đại diện cho các tình huống phổ biến nhất. Nếu các Quản Trò thấy có những tình huống khác cần một hình thức phán quyết theo hệ thống trò chơi, và những tình huống này dường như xảy ra thường xuyên, họ được khuyến khích phát triển các quy tắc của riêng mình để bao quát những trường hợp đặc biệt này, sử dụng những quy tắc được đưa ra trong chương này làm cơ sở để sao chép hoặc phát triển.
 
 ---
-## Lão hóa
+## Lão Hóa
 
-Tất cả các nhân vật đều già đi, và theo tuổi tác sẽ có những hậu quả nhất định. Các dấu hiệu của Lão hóa bắt đầu ở độ tuổi Trung niên sớm (40 tuổi đối với con người – các loài khác già đi với tốc độ nhanh hơn hoặc chậm hơn như được hiển thị bên dưới). Khi một nhân vật bước vào một Nhóm tuổi (Aging Band) mới, họ phải thực hiện cả hai lượt tung xúc xắc Endurance (Sức bền) và Willpower (Ý chí) ở các Cấp độ Khó được ghi chú. Nếu lượt tung xúc xắc thất bại, nhân vật đó sẽ gặp phải các Hiệu ứng Lão hóa như được hiển thị trong bảng Hiệu ứng Lão hóa.
+Tất cả các Nhân Vật đều già đi, và cùng với tuổi tác là những hệ quả nhất định. Các dấu hiệu Lão Hóa bắt đầu ở độ tuổi Trung Niên Sớm (40 tuổi đối với TC người – các loài khác già đi với tốc độ nhanh hơn hoặc chậm hơn như được hiển thị bên dưới). Khi một Nhân Vật bước sang một Dải Tuổi Lão Hóa mới, họ phải thực hiện cả một lần đổ xúc xắc Sức Bền và một lần đổ xúc xắc Ý Chí ở Cấp Độ Khó được ghi chú. Nếu một lần đổ xúc xắc Thất Bại, thì họ sẽ chịu các Hiệu Ứng Lão Hóa như được hiển thị trong bảng Hiệu Ứng Lão Hóa.
 
-Mỗi Đặc tính bị ảnh hưởng bởi Lão hóa sẽ giảm 1d3 điểm. Những điểm này có thể được phục hồi hoặc ít nhất là bù đắp một phần thông qua việc cải thiện Đặc tính, thể hiện những nỗ lực giữ cho bản thân gọn gàng và tỉnh táo khi họ già đi. Nếu bất kỳ Đặc tính nào bị giảm xuống bằng không do Lão hóa, nhân vật sẽ chết vì sự yếu ớt cuối đời của mình. Khi một nhân vật đạt đến Nhóm tuổi Lú lẫn (Dotage), các lượt tung xúc xắc Lão hóa sẽ được thực hiện hàng năm bất kể chủng tộc nào.
+Mỗi Thuộc Tính bị ảnh hưởng bởi Lão Hóa sẽ giảm 1d3 điểm. Những điểm này có thể được hồi phục hoặc ít nhất là bù đắp một phần thông qua việc cải thiện Thuộc Tính, thể hiện những nỗ lực giữ cho bản thân cân đối và tỉnh táo khi họ già đi. Nếu bất kỳ Thuộc Tính nào bị giảm xuống bằng không do Lão Hóa, Nhân Vật sẽ Chết do sự suy nhược cuối cùng của họ. Khi một Nhân Vật đạt đến Dải Tuổi Lẩm Cẩm, các lần đổ xúc xắc Lão Hóa sẽ được thực hiện hàng năm bất kể chủng tộc.
 
-Những hiệu ứng suy nhược cụ thể nào nảy sinh như một phần của quá trình Lão hóa là tùy thuộc vào Quản trò xác định. Ví dụ, việc giảm STR (Sức mạnh), CON (Thể chất) hoặc DEX (Sự khéo léo) thể hiện sự hao mòn chung của cơ thể, với các khớp xương kêu răng rắc và sự mất dần khả năng vận động. Việc giảm INT (Trí tuệ) cho thấy tuổi tác đang bắt đầu đánh lừa tâm trí và trí nhớ, trong khi giảm CHA (Sức hút) cho thấy nhân vật ngày càng trở nên cộc cằn hơn, và có lẽ nóng tính hơn khi họ già đi.
+Những hiệu ứng suy nhược cụ thể nào phát sinh như một phần của quá trình Lão Hóa là tùy thuộc vào Quản Trò xác định. Ví dụ, việc giảm SM, TC, hoặc KL đại diện cho sự hao mòn chung trên cơ thể, với các khớp xương kêu răng rắc và sự mất dần khả năng vận động. Việc giảm TT cho thấy tuổi tác bắt đầu ảnh hưởng đến trí tuệ và trí nhớ, trong khi giảm SH cho thấy Nhân Vật đang trở nên khắc khổ hơn, và có lẽ nóng tính hơn, khi họ già đi.
 
-##### Các Nhóm tuổi
+##### Bảng Dải Tuổi
 
-| **Nhóm tuổi** | **Con người** | **Người lùn** | **Tiên** | **Gnome** | **½ Tiên** | **½ Orc** | **Người tí hon** | **Cấp độ lượt tung Endurance và Willpower** |
+| **Dải Tuổi** | **TC người** | **Người lùn** | **Yêu tinh** | **Người lùn Gnome** | **½ Yêu tinh** | **½ Orc** | **Người Halfling** | **Cấp Độ Đổ Xúc Xắc Sức Bền và Ý Chí** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
-| Trung niên sớm | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Dễ |
-| Trung niên | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Tiêu chuẩn |
-| Trung niên muộn | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Khó |
-| Tuổi già | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Đáng gờm |
-| Tuổi già cao | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Khổng lồ |
-| Lú lẫn | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Vô vọng |
+| Trung Niên Sớm | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Dễ |
+| Trung Niên | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Tiêu Chuẩn |
+| Trung Niên Muộn | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Khó |
+| Tuổi Già | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Ghê Gớm |
+| Tuổi Già Nâng Cao | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Phi Thường |
+| Lẩm Cẩm | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Vô Vọng |
 
-##### Bảng Hiệu ứng Lão hóa
+##### Bảng Hiệu Ứng Lão Hóa
 
-| **1d6** | **Lão hóa Thể chất (Thất bại Endurance)** | **Lão hóa Tâm thần (Thất bại Willpower)** |
+| **1d6** | **Lão Hóa Thể Chất (Thất Bại Sức Bền)** | **Lão Hóa Tinh Thần (Thất Bại Ý Chí)** |
 | :-: | :-- | :-- |
-| 1-2 | STR | INT |
-| 3-4 | CON | POW |
-| 5-6 | DEX | CHA |
+| 1-2 | SM | TT |
+| 3-4 | TC | NL |
+| 5-6 | KL | SH |
 
 ---
-## Ngạt thở
+## Ngạt Thở
 
-Nhân vật có thể nín thở trong một số giây bằng với kỹ năng Endurance của họ. Tuy nhiên, nhân vật phải được chuẩn bị (lấp đầy phổi với càng nhiều không khí càng tốt); nếu không, khoảng thời gian đó sẽ bị giảm một nửa nếu nhân vật đang ở trong tình huống thụ động, hoặc giảm xuống còn một phần năm nếu nhân vật đang tham gia vào các hoạt động gắng sức.
+Nhân Vật có thể nín thở trong một số giây bằng với kỹ năng Sức Bền của họ. Tuy nhiên, Nhân Vật phải được chuẩn bị (lấp đầy phổi bằng nhiều không khí nhất có thể); nếu không, thời gian này sẽ giảm một nửa nếu Nhân Vật đang ở trong tình huống thụ động, hoặc giảm xuống còn một phần năm nếu Nhân Vật đang tham gia vào hoạt động gắng sức.
 
-Khi khoảng thời gian nín thở kết thúc, các nhân vật phải thực hiện một lượt tung xúc xắc Endurance:
+Khi thời gian nín thở kết thúc, Nhân Vật phải thực hiện một lần đổ xúc xắc Sức Bền:
 
-- Nếu lượt tung là Thành công Phê bình (Critical Success), không có sự suy giảm nào thêm xảy ra.
-- Nếu lượt tung Thành công, nhân vật nhận thêm một cấp độ Mệt mỏi (Fatigue).
-- Nếu lượt tung Thất bại, nhân vật phải chịu thêm 1d2 cấp độ Mệt mỏi trong Vòng đấu đó.
-- Nếu lượt tung là Thất bại hoàn toàn (Fumble), nhân vật phải chịu thêm 1d3 cấp độ Mệt mỏi trong Vòng đấu đó.
+- Nếu lần đổ là Thành Công Quyết Định, không có sự suy giảm nào thêm xảy ra.
+- Nếu lần đổ Thành Công, Nhân Vật tích lũy thêm một cấp độ Mệt Mỏi.
+- Nếu lần đổ Thất Bại, Nhân Vật phải chịu 1d2 cấp độ Mệt Mỏi thêm trong Vòng đó.
+- Nếu lần đổ là Thất Bại Thảm Hại, Nhân Vật phải chịu 1d3 cấp độ Mệt Mỏi thêm trong Vòng đó.
 
-Nếu không có sự trợ giúp, cái chết do Ngạt thở thường diễn ra rất nhanh. Nếu tình trạng Ngạt thở kết thúc trước khi nhân vật chết, họ sẽ hồi phục các cấp độ Mệt mỏi mất đi do ngạt thở tương đối nhanh, hồi phục một cấp độ mỗi phút.
+Nếu không có sự trợ giúp, cái chết do Ngạt Thở thường xảy ra rất nhanh. Nếu tình trạng Ngạt Thở kết thúc trước khi Nhân Vật chết, họ sẽ phục hồi các cấp độ Mệt Mỏi đã mất do thiếu oxy tương đối nhanh, hồi phục một cấp độ mỗi phút.
 
-Tùy thuộc vào phương pháp Ngạt thở, Quản trò có thể muốn ngăn chặn sự phục hồi hoàn toàn, áp đặt một cấp độ Mệt mỏi kéo dài để thể hiện tổn thương phổi do hít phải khói hoặc nước.
+Tùy thuộc vào phương thức Ngạt Thở, Quản Trò có thể muốn ngăn chặn sự hồi phục hoàn toàn, áp đặt một cấp độ Mệt Mỏi kéo dài để thể hiện tổn thương phổi do hít phải khói hoặc nước.
 
 ---
-## Cải thiện Nhân vật
+## Cải Thiện Nhân Vật
 
-Mỗi nhân vật trong _Classic Fantasy Imperative_ đều có thể cải thiện theo thời gian và kinh nghiệm. Sự cải thiện có thể được thực hiện trong một số lĩnh vực:
+Mỗi Nhân Vật trong _Classic Fantasy Imperative_ có thể cải thiện theo thời gian và kinh nghiệm. Việc cải thiện có thể được thực hiện trong một số lĩnh vực:
 
 - Tăng các kỹ năng hiện có
-- Tăng cường Đam mê (Passions)
-- Học các kỹ năng mới
-- Học các Khả năng mới
+- Tăng Đam Mê
+- Học kỹ năng mới
+- Học các Năng Lực mới
 
-#### Lượt tung Kinh nghiệm (Experience Rolls)
+#### Đổ Xúc Xắc Kinh Nghiệm
 
-Cơ chế cho hầu hết việc cải thiện nhân vật là Lượt tung Kinh nghiệm. Quản trò sẽ cấp các Lượt tung Kinh nghiệm vào thời điểm thích hợp trong chiến dịch: vào cuối mỗi kịch bản hoặc cốt truyện thành công; hoặc sau khoảng hai hoặc ba phiên chơi nếu đó là một câu chuyện dài cần nhiều thời gian để hoàn thành. Tần suất là tùy thuộc vào quyết định của Quản trò. Tần suất Lượt tung Kinh nghiệm cao sẽ dẫn đến việc các nhân vật phát triển với tốc độ nhanh hơn.
+Cơ chế cho hầu hết việc cải thiện Nhân Vật là Đổ Xúc Xắc Kinh Nghiệm. Quản Trò phân phát các lần Đổ Xúc Xắc Kinh Nghiệm vào thời điểm thích hợp trong chiến dịch: vào cuối mỗi kịch bản hoặc mạch truyện thành công; hoặc sau khoảng hai hoặc ba phiên chơi nếu đó là một câu chuyện dài cần thời gian để hoàn thành. Tần suất là tùy theo quyết định của Quản Trò. Tần suất Đổ Xúc Xắc Kinh Nghiệm cao sẽ khiến các Nhân Vật phát triển với tốc độ nhanh hơn.
 
-Không có thời điểm đúng hay sai để đưa ra các Lượt tung Kinh nghiệm, nhưng những khoảng nghỉ tự nhiên trong câu chuyện có thể gợi ý những thời điểm thích hợp. Tuy nhiên, Quản trò luôn là người quyết định ở đây. Mặc dù người chơi không thể yêu cầu các Lượt tung Kinh nghiệm, họ có quyền mong đợi chúng vào những thời điểm nhất định – vì nhân vật của họ sẽ không thể phát triển nếu thiếu chúng.
+Không có thời điểm đúng hay sai để đưa ra các lần Đổ Xúc Xắc Kinh Nghiệm, nhưng những khoảng nghỉ tự nhiên trong câu chuyện có thể gợi ý những thời điểm thích hợp. Tuy nhiên, Quản Trò luôn là người ra quyết định ở đây. Mặc dù người chơi không thể yêu cầu các lần Đổ Xúc Xắc Kinh Nghiệm, họ có quyền mong đợi chúng vào những thời điểm nhất định – vì các Nhân Vật của họ sẽ không thể phát triển nếu thiếu chúng.
 
-Số lượng Lượt tung Kinh nghiệm được trao cũng do Quản trò quyết định. Tuy nhiên, một quy tắc chung tốt là 1-3 Lượt tung Kinh nghiệm cho mỗi phiên kể từ lần cuối chúng được trao.
+Số lượng Đổ Xúc Xắc Kinh Nghiệm được trao cũng do Quản Trò quyết định. Tuy nhiên, một quy tắc chung tốt là 1-3 lần Đổ Xúc Xắc Kinh Nghiệm mỗi phiên kể từ lần cuối cùng chúng được trao.
 
-#### Tăng các Kỹ năng Hiện có
+#### Tăng Các Kỹ Năng Hiện Có
 
-Bất kỳ kỹ năng nào trên Bảng Nhân vật, dù là Tiêu chuẩn hay Chuyên nghiệp, đều có thể được tăng bằng cách sử dụng một Lượt tung Kinh nghiệm. Người chơi có thể chọn *không* sử dụng các Lượt tung Kinh nghiệm để tăng kỹ năng, thay vào đó tích lũy để sử dụng cho việc tăng các thứ khác – chẳng hạn như các khả năng của Lớp nhân vật (xem bên dưới).
+Bất kỳ kỹ năng nào trên Bảng Nhân Vật, Tiêu Chuẩn hoặc Chuyên Nghiệp, đều có thể được tăng lên bằng cách tiêu tốn một lần Đổ Xúc Xắc Kinh Nghiệm. Người chơi có thể chọn _không_ tiêu tốn Đổ Xúc Xắc Kinh Nghiệm để tăng kỹ năng, thay vào đó tích trữ để sử dụng cho việc tăng các thứ khác – chẳng hạn như các Năng Lực Giai Cấp (xem bên dưới).
 
-- Người chơi tung 1d100 và so sánh với kỹ năng đang được tăng. Đặc tính INT của nhân vật được cộng vào kết quả tung.
-- Nếu số được tung **bằng hoặc lớn hơn** kỹ năng đang được cải thiện, nó sẽ tăng thêm 1d4+1%.
-- Nếu số được tung **nhỏ hơn** kỹ năng đã chọn, kỹ năng đó vẫn tăng, nhưng chỉ thêm 1%.
-- Nếu một nhân vật đã Thất bại hoàn toàn (Fumble) bất kỳ kỹ năng nào trong (các) phiên trước đó – tức là giữa lần cuối cùng nhận Lượt tung Kinh nghiệm và lần hiện tại – kỹ năng bị Thất bại đó sẽ nhận được một lần tăng miễn phí 1%. Một sự thật hiển nhiên là chúng ta học hỏi được nhiều hơn từ những sai lầm của mình so với những thành công, và điều này thể hiện sự chiêm nghiệm mà một nhân vật trải qua sau một thất bại thảm hại. Nhiều lần Fumble của cùng một kỹ năng không cộng dồn. Trong trường hợp kỹ năng bị Fumble cũng đang được tăng bằng Lượt tung Kinh nghiệm, mức tăng 1% từ Fumble được áp dụng trước khi lượt tung được thực hiện để cải thiện nó.
+- Người chơi đổ 1d100 và so sánh nó với kỹ năng đang được tăng lên. TT của Nhân Vật được thêm vào kết quả đổ.
+- Nếu số đổ được **bằng hoặc lớn hơn** kỹ năng đang được cải thiện, nó sẽ tăng thêm 1d4+1%.
+- Nếu số đổ được **nhỏ hơn** kỹ năng đã chọn, kỹ năng đó vẫn tăng, nhưng chỉ thêm 1%.
+- Nếu một Nhân Vật Thất Bại Thảm Hại ở bất kỳ kỹ năng nào trong phiên (các phiên) trước đó – tức là giữa lần Đổ Xúc Xắc Kinh Nghiệm cuối cùng và hiện tại – kỹ năng bị Thất Bại Thảm Hại sẽ được tăng miễn phí 1%. Một chân lý là chúng ta học được nhiều từ sai lầm của mình hơn là từ những thành công, và điều này đại diện cho sự phản tư mà một Nhân Vật trải qua sau một thất bại thảm hại. Nhiều lần Thất Bại Thảm Hại trên cùng một kỹ năng sẽ không cộng dồn. Trong trường hợp kỹ năng bị Thất Bại Thảm Hại cũng đang được nâng lên bằng Đổ Xúc Xắc Kinh Nghiệm, 1% từ lần Thất Bại Thảm Hại sẽ được áp dụng trước khi thực hiện lần đổ để cải thiện nó.
 
-Cùng một kỹ năng không được nhận lợi ích từ nhiều hơn một Lượt tung Kinh nghiệm mỗi phiên.
+Cùng một kỹ năng không được hưởng lợi từ nhiều hơn một lần Đổ Xúc Xắc Kinh Nghiệm mỗi phiên.
 
-#### Tăng cường Đam mê
+#### Tăng Đam Mê
 
-Như đã mô tả trong mục [Đam mê](0004_Alignment_and_Passions.md?id=passions), giá trị của một Đam mê có thể được tăng lên bằng các Lượt tung Kinh nghiệm theo cách tương tự như một kỹ năng. Nếu được hỗ trợ bởi lối chơi, Quản trò thậm chí có thể cho phép một Đam mê bị giảm đi bằng cách sử dụng một Lượt tung Kinh nghiệm.
+Như đã mô tả trong mục [Đam Mê](0004_Alignment_and_Passions.md?id=passions), giá trị của một Đam Mê có thể được tăng lên bằng các lần Đổ Xúc Xắc Kinh Nghiệm theo cách giống như một kỹ năng. Nếu được hỗ trợ bởi quá trình chơi, Quản Trò thậm chí có thể cho phép giảm một Đam Mê bằng cách sử dụng một lần Đổ Xúc Xắc Kinh Nghiệm.
 
-Ví dụ, sự từ chối liên tục từ một tình yêu đơn phương có thể làm mòn mỏi Đam mê của ngay cả người yêu nồng nàn nhất, đặc biệt là người muốn theo đuổi một mối quan hệ mới mà không bị những bóng ma quá khứ ám ảnh.
+Ví dụ, việc liên tục bị khước từ trong một tình yêu đơn phương có thể làm mòn mỏi Đam Mê của ngay cả người yêu cuồng nhiệt nhất, đặc biệt là người muốn theo đuổi một mối quan hệ mà không để bóng ma quá khứ ám ảnh họ.
 
-#### Học Kỹ năng Mới
+#### Học Kỹ Năng Mới
 
-Một số nhân vật có thể muốn học các Kỹ năng Chuyên nghiệp mới mà họ chưa bao giờ có cơ hội học từ văn hóa hoặc Lớp nhân vật của mình. Trước khi họ có thể bắt đầu đầu tư các Lượt tung Kinh nghiệm, trước tiên họ phải tìm một nguồn kiến thức để học hỏi. Đây có thể là một gia sư chuyên nghiệp như những người được cung cấp bởi các hội nhóm hoặc bang hội. Thay vào đó, đó có thể là một nguồn giáo dục kỳ lạ hơn như một cuộn giấy đào tạo cổ xưa và mục nát.
+Một số Nhân Vật có thể muốn học các Kỹ Năng Chuyên Nghiệp mới mà họ chưa từng có cơ hội học từ Văn Hóa hoặc Giai Cấp của mình. Trước khi họ có thể bắt đầu đầu tư các lần Đổ Xúc Xắc Kinh Nghiệm, trước tiên họ phải tìm được một nguồn kiến thức để học hỏi. Điều này có thể đơn giản như một gia sư chuyên nghiệp giống như những người được cung cấp bởi các tổ chức hoặc bang hội. Thay vào đó, đó có thể là một nguồn giáo dục kỳ lạ hơn như một cuộn giấy đào tạo cổ xưa và mục nát.
 
-Khi tìm được nguồn giáo dục, nhân vật phải dành trọn một tháng học tập và thực hành để có được nền tảng cơ bản về kỹ năng đó (học ở Cấp độ Cơ bản). Việc này tốn 3 Lượt tung Kinh nghiệm cộng với bất kỳ chi phí nào trong trò chơi cần thiết để trả cho giáo viên (nếu có) và mua (hoặc thuê) bất kỳ thiết bị và công cụ nào cần thiết.
+Khi đã tìm thấy một nguồn giáo dục, Nhân Vật phải dành trọn một tháng học tập và thực hành để có được nền tảng cơ bản về kỹ năng đó (học ở Cấp Độ Cơ Bản). Việc này tốn 3 lần Đổ Xúc Xắc Kinh Nghiệm cộng với bất kỳ chi phí nào trong trò chơi cần thiết để trả cho giáo viên (nếu có) và mua (hoặc thuê) bất kỳ thiết bị và công cụ nào có thể cần thiết.
 
-#### Học Khả năng Lớp nhân vật Mới
+#### Học Năng Lực Giai Cấp Mới
 
-Giả sử nhân vật đáp ứng Hạng và cấp độ kỹ năng cần thiết, nếu có, một hoặc nhiều Lượt tung Kinh nghiệm có thể được chi tiêu để đạt được hoặc cải thiện các Khả năng Lớp nhân vật. Điều này được trình bày chi tiết trong [Chương 3: Các lớp nhân vật](0003_Classes.md) dưới các phần mô tả Lớp nhân vật có liên quan. Không giống như các kỹ năng, việc này thường không yêu cầu tìm kiếm nguồn kiến thức để học Khả năng có liên quan, vì nó giả định việc đạt được các kỹ thuật nâng cao thông qua việc sử dụng lặp đi lặp lại bất kỳ kỹ năng cần thiết nào. Chi phí bằng Lượt tung Kinh nghiệm bằng với Hạng hiện tại của nhân vật và nhiều Khả năng bị khóa cho đến khi đạt được một Hạng cụ thể.
+Giả sử Nhân Vật đáp ứng Cấp Bậc và cấp độ kỹ năng cần thiết, nếu có, một hoặc nhiều lần Đổ Xúc Xắc Kinh Nghiệm có thể được tiêu tốn để đạt được hoặc cải thiện các Năng Lực Giai Cấp. Điều này được trình bày chi tiết trong [Chương 3: Giai Cấp](0003_Classes.md) trong các phần viết về Giai Cấp liên quan. Không giống như kỹ năng, điều này thường không yêu cầu tìm kiếm một nguồn kiến thức để học Năng Lực liên quan, vì nó giả định đạt được các kỹ thuật nâng cao thông qua việc sử dụng lặp đi lặp lại bất kỳ kỹ năng cần thiết nào. Chi phí tính bằng Đổ Xúc Xắc Kinh Nghiệm bằng với Cấp Bậc hiện tại của Nhân Vật và nhiều Năng Lực bị khóa cho đến khi đạt được một Cấp Bậc cụ thể.
 
 ---
 ## Ngã
 
-Lượng sát thương phải chịu khi ngã phụ thuộc vào khoảng cách rơi. Điểm Giáp (Armor Points) không làm giảm sát thương do ngã, nhưng Công cụ sửa đổi Sát thương (Damage Modifier) của nhân vật hoặc sinh vật đang rơi sẽ được áp dụng vào các lượt tung sát thương.
+Lượng Sát Thương phải chịu khi ngã phụ thuộc vào khoảng cách rơi. Điểm Giáp không làm giảm Sát Thương do ngã, nhưng Hệ Số Sát Thương của Nhân Vật hoặc sinh vật bị ngã sẽ được áp dụng cho các lần đổ sát thương.
 
-##### Bảng Khoảng cách Ngã
+##### Bảng Khoảng Cách Ngã
 
-| **Chiều cao rơi** | **Sát thương** |
+| **Chiều Cao Ngã** | **Sát Thương** |
 | :-- | :-- |
 | 5 feet hoặc ít hơn | Không sát thương |
 | 6 đến 15 feet | 1d6 điểm sát thương vào một vị trí ngẫu nhiên |
@@ -109,111 +109,109 @@ Lượng sát thương phải chịu khi ngã phụ thuộc vào khoảng cách 
 | 46 đến 60 feet | 4d6 điểm sát thương vào bốn vị trí ngẫu nhiên |
 | Mỗi +15 feet | +1d6 sát thương |
 
-#### Vật thể Rơi
+#### Vật Thể Rơi
 
-Một vật thể rơi sẽ gây ra một lượng sát thương dựa trên chỉ số SIZ của nó và khoảng cách rơi. Một vật thể gây ra 1d6 sát thương cho mỗi 6 điểm SIZ (hoặc phần lẻ của nó), cộng với lượng sát thương bằng với cột Sát thương Phải chịu của Bảng Khoảng cách Ngã – bao gồm cả bất kỳ sự giảm sát thương nào cho các vật thể có kích thước nhỏ hơn.
+Một vật thể rơi truyền một lượng Sát Thương dựa trên KT của nó và khoảng cách rơi. Một vật thể truyền 1d6 sát thương cho mỗi 6 điểm KT (hoặc phần nhỏ của nó), cộng với một lượng sát thương bằng với cột Sát Thương Phải Chịu của Bảng Khoảng Cách Ngã – bao gồm bất kỳ mức giảm nào cho các vật thể có kích thước nhỏ hơn.
 
 ---
-## Mệt mỏi
+## Mệt Mỏi
 
-Mệt mỏi đo lường sự mệt nhọc và các hiệu ứng tăng dần của nó. Nó được sử dụng để theo dõi nhiều thứ khác nhau, từ hoạt động gắng sức đến các hiệu ứng suy nhược của bệnh tật.
+Mệt Mỏi đo lường sự mệt nhọc và các tác động gia tăng của nó. Nó được sử dụng để theo dõi nhiều thứ khác nhau, từ hoạt động gắng sức đến tác động suy nhược của bệnh tật.
 
-Cách chính để tích lũy Mệt mỏi là tham gia vào một số hình thức hoạt động thể chất. Bài tập hoặc công việc càng gian khổ thì nhân vật càng nhanh mệt. Theo quyết định của Quản trò, các nhân vật phải thực hiện một lượt tung kỹ năng thích hợp – Athletics (Điền kinh), Brawn (Sức vóc), hoặc Endurance (Sức bền) – để chống lại việc tích lũy một cấp độ Mệt mỏi.
+Cách chính để tích lũy Mệt Mỏi là tham gia vào một số hình thức hoạt động thể chất. Bài tập hoặc công việc càng gian khổ, nó càng khiến Nhân Vật mệt mỏi nhanh chóng. Theo quyết định của Quản Trò, các Nhân Vật phải thực hiện một lần đổ xúc xắc kỹ năng thích hợp – Điền Kinh, Cơ Bắp, hoặc Sức Bền – để chống lại việc tích lũy một cấp độ Mệt Mỏi.
 
-Mỗi lượt tung Thất bại sẽ tích lũy một cấp độ Mệt mỏi. Như được hiển thị trên [Bảng Cấp độ Mệt mỏi](0007_Game_System.md?id=fatigue-levels-table), mỗi cấp độ Mệt mỏi mang lại các hình phạt cho việc sử dụng kỹ năng, di chuyển, Sáng kiến (Initiative) và Điểm Hành động (Action Points). Ngạt thở, Mất máu và các hiệu ứng phụ thuộc vào bối cảnh khác cũng góp phần vào việc tích lũy Mệt mỏi.
+Mỗi lần đổ Thất Bại sẽ tích lũy một cấp độ Mệt Mỏi. Như được hiển thị trên [Bảng Cấp Độ Mệt Mỏi](0007_Game_System.md?id=fatigue-levels-table), mỗi cấp độ Mệt Mỏi mang lại các hình phạt cho việc sử dụng kỹ năng, tốc độ di chuyển, Tiên Cơ, và Điểm Hành Động. Ngạt Thở, Mất Máu, và các hiệu ứng phụ thuộc vào bối cảnh khác cũng góp phần vào việc tích lũy Mệt Mỏi.
 
-Đối với hầu hết các nhân vật, mọi hoạt động đều trở nên gần như không thể thực hiện được khi đạt đến cấp độ Mất khả năng (Incapacitated). Ở giai đoạn này, nhân vật vẫn tỉnh táo nhưng không có khả năng thực hiện bất cứ điều gì ngoại trừ những hoạt động tuyệt vọng nhất.
+Đối với hầu hết các Nhân Vật, mọi hoạt động đều trở nên gần như không thể khi đạt đến cấp độ Mất Khả Năng Hành Động. Ở giai đoạn này, Nhân Vật vẫn tỉnh táo nhưng không thể làm gì ngoài những hoạt động tuyệt vọng nhất.
 
-Ngoài cấp độ Mất khả năng, nhân vật hoàn toàn không thể hành động. Các cấp độ Mệt mỏi – Bán tỉnh táo (Semi-Conscious), Hôn mê (Comatose), và Chết (Dead) – thường được dành riêng để đo lường các hiệu ứng cực đoan nhất của ngạt thở, bệnh tật, mất máu, đói, phơi nhiễm, v.v.
+Vượt quá Mất Khả Năng Hành Động, các Nhân Vật không thể thực hiện bất kỳ hoạt động nào. Các cấp độ Mệt Mỏi – Nửa Tỉnh Nửa Mê, Hôn Mê, và Chết – thường dành riêng để đo lường các tác động cực đoan nhất của tình trạng thiếu oxy, bệnh tật, mất máu, đói, tiếp xúc với môi trường, v.v.
 
-### Phục hồi sau Mệt mỏi
+### Hồi Phục Sau Mệt Mỏi
 
-Nhân vật phục hồi sau Mệt mỏi tùy thuộc vào Tỷ lệ Hồi phục (Healing Rate) của họ. Lượng nghỉ ngơi hoàn toàn cần thiết để phục hồi sau mỗi cấp độ Mệt mỏi đã tích lũy bằng với Thời kỳ Phục hồi chia cho Tỷ lệ Hồi phục của nhân vật.
+Các Nhân Vật hồi phục sau Mệt Mỏi tùy thuộc vào Tốc Độ Hồi Phục của họ. Lượng nghỉ ngơi hoàn toàn cần thiết để hồi phục sau mỗi cấp độ Mệt Mỏi tích lũy bằng với Thời Gian Hồi Phục chia cho Tốc Độ Hồi Phục của Nhân Vật.
 
-Lưu ý rằng bảng đại diện cho việc phục hồi Mệt mỏi do gắng sức thể chất. Việc phục hồi Mệt mỏi có thể nhanh hơn nhiều khi phục hồi sau [Ngạt thở](0007_Game_System.md?id=asphyxiation) hoặc chậm hơn nếu đang dưỡng bệnh sau khi [Mất máu](0007_Game_System.md?id=blood-loss).
+Lưu ý rằng bảng đại diện cho sự hồi phục Mệt Mỏi do gắng sức thể chất. Sự hồi phục Mệt Mỏi có thể nhanh hơn nhiều khi hồi phục sau [Ngạt Thở](0007_Game_System.md?id=f) hoặc chậm hơn nếu đang hồi phục sau [Mất Máu](0007_Game_System.md?id=blood-loss).
 
-### Bảng Cấp độ Mệt mỏi
+### Bảng Cấp Độ Mệt Mỏi
 
-| **Cấp độ Mệt mỏi** | **Cấp độ Kỹ năng** | **Di chuyển** | **Sáng kiến** | **Điểm Hành động** | **Thời kỳ Phục hồi** |
+| **Cấp Độ Mệt Mỏi** | **Cấp Bậc Kỹ Năng** | **Tốc Độ Di Chuyển** | **Tiên Cơ** | **Điểm Hành Động** | **Thời Gian Hồi Phục** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Tươi tỉnh | – | – | Không Hình phạt | – | – |
-| Hụt hơi | Khó | Không Hình phạt | Không Hình phạt | Không Hình phạt | 15 phút |
-| Mệt mỏi | Khó | -5 feet | Không Hình phạt | Không Hình phạt | 3 giờ |
-| Mệt nhọc | Đáng gờm | -5 feet | -2 | Không Hình phạt | 6 giờ |
-| Kiệt sức | Đáng gờm | Giảm một nửa | -4 | -1 | 12 giờ |
-| Suy nhược | Khổng lồ | Giảm một nửa | -6 | -2 | 18 giờ |
-| Mất khả năng | Khổng lồ | Bất động | -8 | -3 | 24 giờ |
-| Bán tỉnh táo | Vô vọng | Không thể hoạt động | Không thể hoạt động | Không thể hoạt động | 36 giờ |
-| Hôn mê | Không thể hoạt động | Không thể hoạt động | Không thể hoạt động | Không thể hoạt động | 48 giờ |
-| Chết | Chết | – | – | – | Không bao giờ |
+| Sung Sức | – | – | Không Hình Phạt | – | – |
+| Hụt Hơi | Khó | Không Hình Phạt | Không Hình Phạt | Không Hình Phạt | 15 phút |
+| Mệt | Khó | -5 feet | Không Hình Phạt | Không Hình Phạt | 3 giờ |
+| Rã Rời | Ghê Gớm | -5 feet | -2 | Không Hình Phạt | 6 giờ |
+| Kiệt Sức | Ghê Gớm | Giảm một nửa | -4 | -1 | 12 giờ |
+| Suy Nhược | Phi Thường | Giảm một nửa | -6 | -2 | 18 giờ |
+| Mất Khả Năng Hành Động | Phi Thường | Bất động | -8 | -3 | 24 giờ |
+| Nửa Tỉnh Nửa Mê | Vô Vọng | Không Thể Thực Hiện Hoạt Động | Không Thể Thực Hiện Hoạt Động | Không Thể Thực Hiện Hoạt Động | 36 giờ |
+| Hôn Mê | Không Thể Thực Hiện Hoạt Động | Không Thể Thực Hiện Hoạt Động | Không Thể Thực Hiện Hoạt Động | Không Thể Thực Hiện Hoạt Động | 48 giờ |
+| Chết | Chết | – | – | – | Không Bao Giờ |
 
 ---
-## Lửa
+## Hỏa Hoạn
 
-Lửa luôn là nguồn nguy hiểm khi được sử dụng làm vũ khí hoặc cháy ngoài tầm kiểm soát. [Bảng Cường độ Lửa](0007_Game_System.md?id=fire-intensity-table) bên dưới đưa ra năm cường độ khác nhau cho sát thương nhiệt, với một số ví dụ. Sát thương gây ra mỗi Vòng đấu được ghi trong cột Sát thương. Vì tương đối nhỏ, các nguồn Cường độ 1 và 2 áp dụng sát thương của chúng vào một Vị trí Trúng đòn (Hit Location) duy nhất, thường là vị trí chạm vào nguồn. Các nguồn Cường độ 3 và 4 lớn hơn, áp dụng sát thương vào 1d4+1 Vị trí Trúng đòn gần nhất, cho thấy mức độ nhiệt bức xạ. Các nguồn Cường độ 5 ảnh hưởng đến tất cả các Vị trí Trúng đòn cùng một lúc. Lửa có thể đốt cháy các vật liệu dễ cháy. Nếu không được dập tắt ngay lập tức, các vật liệu như vậy sẽ bốc cháy trong một số Vòng đấu như được chỉ định bởi Cường độ của ngọn lửa. Khi đã bốc cháy, các vật liệu dễ cháy sẽ cháy cho đến khi bị dập tắt vật lý. Sát thương được áp dụng trực tiếp vào Điểm máu (Hit Points) của vật liệu, bỏ qua Điểm Giáp, và vào bất kỳ phần thịt nào bên dưới. Nếu không được kiểm soát, nó sẽ lan sang một số Vị trí Trúng đòn, mỗi Vòng đấu, bằng với cường độ của nó.
+Lửa luôn là nguồn nguy hiểm khi được sử dụng làm vũ khí hoặc cháy ngoài tầm kiểm soát. [Bảng Cường Độ Lửa](0007_Game_System.md?id=fire-intensity-table) bên dưới cung cấp năm cường độ khác nhau cho sát thương do nhiệt, cùng với một số ví dụ. Sát thương gây ra mỗi Vòng được đưa ra trong cột Sát Thương. Vì tương đối nhỏ, các nguồn Cường Độ 1 và 2 áp dụng sát thương của chúng vào một Vị Trí Trúng Đòn duy nhất, thường là nơi chạm vào nguồn. Các nguồn Cường Độ 3 và 4 lớn hơn, áp dụng sát thương cho 1d4+1 Vị Trí Trúng Đòn gần nhất, cho biết mức độ của nhiệt bức xạ. Các nguồn Cường Độ 5 ảnh hưởng đến tất cả các Vị Trí Trúng Đòn cùng một lúc. Lửa có thể làm bén các vật liệu dễ cháy. Nếu không được dập tắt ngay lập tức, những vật liệu đó sẽ bốc cháy trong một số Vòng như được chỉ ra bởi Cường Độ của ngọn lửa. Sau khi bắt lửa, các vật liệu dễ cháy sẽ cháy cho đến khi bị dập tắt về mặt vật lý. Sát thương được áp dụng trực tiếp vào Điểm Máu của vật liệu, bỏ qua Điểm Giáp, và vào bất kỳ phần thịt nào bên dưới. Nếu không được kiểm soát, nó lan sang một số Vị Trí Trúng Đòn, mỗi Vòng, bằng với Cường Độ của nó.
 
-##### Bảng Cường độ Lửa
+##### Bảng Cường Độ Lửa
 
-| **Cường độ** | **Ví dụ** | **Thời gian bốc cháy** | **Sát thương** |
-| :-: | :-- | :-: | :-: |
+| **Cường Độ** | **Ví Dụ** | **Thời Gian Bén Lửa** | **Sát Thương** |
+| :-: | :-- | :-: | :-: | :-: |
 | 1 | Nến | 1d4 | 1d2 |
 | 2 | Đuốc | 1d3 | 1d4 |
 | 3 | Lửa trại | 1d2 | 1d6 |
-| 4 | Đám cháy đầy phòng | 1d2 | 2d6 |
+| 4 | Lửa cháy đầy phòng | 1d2 | 2d6 |
 | 5 | Dung nham núi lửa | Ngay lập tức | 3d6 |
 
-#### Tấn công dựa trên Lửa
-
-Các đòn tấn công dựa trên lửa thường có tỷ lệ phần trăm cơ hội đốt cháy các vật liệu dễ cháy vì chúng thường kết thúc trong một Vòng đấu duy nhất. Trừ khi có lưu ý khác, cơ hội này là sát thương tung được x5% đối với các đòn tấn công dựa trên lửa, và sát thương tung được x1% đối với điện. Khi đã bốc cháy, các vật liệu dễ cháy sẽ cháy gây 1d3-1 sát thương mỗi Vòng đấu cho đến khi bị dập tắt vật lý. Áp dụng sát thương này trực tiếp vào Điểm máu của vật liệu, bỏ qua Điểm Giáp, và vào bất kỳ phần thịt nào bên dưới. Tuy nhiên, giáp tự nhiên của sinh vật vẫn cung cấp sự bảo vệ bình thường. Nạn nhân có thể cố gắng dập tắt ngọn lửa bằng cách nằm sấp và thực hiện lượt tung kỹ năng Athletics thành công, yêu cầu một Điểm Hành động và có thể thực hiện mỗi Lượt. Nếu những người khác hỗ trợ dập tắt ngọn lửa theo cách nào đó, lượt tung sẽ dễ hơn một Cấp độ Khó. Nếu lượt tung sát thương dẫn đến bằng không, ngọn lửa đã tự tắt ở vị trí đó. Đối với mỗi vị trí đã tự tắt, lượt tung để dập tắt ngọn lửa cũng dễ hơn một Cấp độ Khó.
-
----
-## Thời gian trong Trò chơi
-
-Trong _Classic Fantasy Imperative_, thời gian là một yếu tố quan trọng, chủ yếu để xác định điều gì xảy ra theo thứ tự nào, để các cơ chế trò chơi được áp dụng khi cần thiết. Hãy nhớ rằng thời gian trong trò chơi thường không tương đương với thời gian dành để chơi. Đôi khi, Quản trò có thể cần tóm tắt các sự kiện của nhiều ngày chỉ trong một câu, chẳng hạn như 'Bạn mất một tuần để đến Lâu đài Greymyr,' trong khi những lúc khác, đặc biệt là trong chiến đấu, các hành động chỉ trong vài giây có thể mất vài phút hoặc lâu hơn để giải quyết.
-
-Một lưu ý liên quan: Một số phép thuật, vật phẩm hoặc hiệu ứng được ghi chú là có thể sử dụng một hoặc nhiều lần mỗi ngày. Một cách dễ dàng để theo dõi điều này thay vì ghi nhật ký xem mỗi hành động đó diễn ra khi nào, là giả định đồng hồ đặt lại sau khi nhân vật đã có một đêm ngủ đầy đủ. Do đó, việc sử dụng một vật phẩm ma thuật hai lần trong khi nó có thể sử dụng ba lần mỗi ngày, sẽ khôi phục tất cả các lần sử dụng khi nhân vật thức dậy vào lần tiếp theo, ngay cả khi nó vừa được sử dụng ngay trước khi họ đi ngủ đêm hôm trước.
-
-Sau đây là những điểm khác biệt quan trọng của thời gian trong trò chơi:
-
-#### Vòng đấu Chiến đấu (Combat Rounds)
-
-Một Vòng đấu Chiến đấu đại diện cho năm giây thời gian thực. Chúng được sử dụng để đo lường những đợt hoạt động ngắn, điên cuồng mất vài khoảnh khắc để hoàn thành hoặc đo lường các hoạt động rất chi tiết đòi hỏi sự phân giải từng đòn đánh. Ví dụ, một cuộc rượt đuổi giữa thợ săn và con mồi nơi mỗi Vòng đấu xác định các khúc quanh của cuộc truy đuổi.
-
-#### Vòng đấu Khám phá (Exploration Rounds)
-
-Một Vòng đấu Khám phá đại diện cho năm phút thời gian thực và cho phép nhóm di chuyển với tốc độ gấp ba lần Tốc độ Di chuyển Cơ bản của họ (60 feet cho con người và các á nhân có kích thước con người, 45 feet cho các chủng tộc á nhân nhỏ hơn). Các Vòng đấu Khám phá thường được sử dụng để đo lường chuyển động trong ngục tối, nơi điều quan trọng là phải duy trì mức độ thận trọng cao. Các nhân vật đang di chuyển chậm, cảnh giác với cạm bẫy và phục kích, và cố gắng duy trì sự tàng hình. Điều này cũng giả định rằng có ai đó trong nhóm đang lập bản đồ. Nếu không ai lập bản đồ, các Vòng đấu Khám phá có thể được coi là dài một phút. Sử dụng các Vòng đấu Khám phá cho phép các lượt tung Perception (Nhận thức) của bạn được thực hiện mà không bị phạt, tuy nhiên, như bình thường, các hình phạt khác có thể áp dụng. Kẻ thù thấy việc phát hiện một nhóm ở tốc độ khám phá khó hơn một cấp độ trừ khi bạn đang sử dụng các nguồn sáng trong các khu vực tối (chẳng hạn như đuốc hoặc đèn lồng), điều này sẽ làm lộ vị trí của bạn. Nếu các nhân vật quyết định từ bỏ sự thận trọng, bạn có thể di chuyển qua ngục tối bằng các Vòng đấu Chiến đấu. Tuy nhiên, trong trường hợp này, các lượt tung Perception khó hơn một cấp độ, và kẻ thù không phải chịu Hình phạt Nhận thức khi phát hiện các nhân vật. Lưu ý rằng khi sử dụng thảm chiến đấu tiết lộ toàn bộ ngục tối cho người chơi, hoặc khi Quản trò đang vẽ bản đồ ngục tối cho họ, thì **luôn luôn** phải giả định rằng nhóm đang lập bản đồ, và do đó đang di chuyển ở tốc độ khám phá.
-
-#### Thời gian Kỹ năng (Skill Time)
-
-Thời gian Kỹ năng đại diện cho vài phút đến vài giờ và được sử dụng để đo lường các hoạt động không yêu cầu sự chú ý chi tiết của một Vòng đấu Chiến đấu nhưng yêu cầu một sự cân nhắc cụ thể về nỗ lực với kết quả xác định. Việc mở khóa có thể mất năm phút, trong khi quan sát các đội tuần tra của lính canh xung quanh các bức tường lâu đài có thể mất vài giờ. Cả hai đều là ví dụ về Thời gian Kỹ năng.
-
-#### Thời gian Tường thuật (Narrative Time)
-
-Đây là khoảng thời gian cần thiết khi Quản trò đang tường thuật cho người chơi, hoặc khi người chơi đang thảo luận. Trừ khi có lý do cụ thể, hầu hết quá trình nhập vai thực tế đều diễn ra trong thời gian tường thuật. Khi nhập vai, thời gian tường thuật giống với thời gian thực, nơi một cuộc trò chuyện mất bao lâu để diễn ra thì cũng mất bấy nhiêu thời gian để chơi. Nếu một phiên trò chơi bao gồm việc di chuyển dài, hoặc các khoảng thời gian hoạt động mà thời gian chính xác không phải là yếu tố cốt yếu, thì thời gian được nén lại đáng kể thành vài khoảnh khắc trong trò chơi.
-
-### Nghỉ ngơi Ngắn (Short Rests)
-
-Một Nghỉ ngơi Ngắn đại diện cho khoảng thời gian khoảng 15 phút nơi các nhà thám hiểm dừng lại để lấy hơi, không làm gì vất vả hơn ngoài việc đọc, ăn, uống, cầu nguyện và chăm sóc vết thương. Nhóm quyết định nghỉ ngơi bao lâu, và sau đó thực hiện các hành động 15 phút có liên quan, với mỗi người chơi thực hiện một hành động trước khi chuyển sang hành động tiếp theo. Không có giới hạn về số lần Nghỉ ngơi Ngắn mà nhóm có thể thực hiện trong một ngày, và thông thường, một số hành động nghỉ ngơi được thực hiện sau khi dựng trại, cũng như vào buổi sáng trước khi lên đường. Mỗi Hành động Nghỉ ngơi 15 phút được trình bày chi tiết bên dưới và có thể được thực hiện nhiều lần trừ khi có quy định khác.
-
-- **Ăn Khẩu phần:** Hành động Nghỉ ngơi 15 phút này chỉ có thể được thực hiện một lần mỗi ngày vì khẩu phần ăn được theo dõi như một vật phẩm hàng ngày và loại bỏ **bất kỳ** một cấp độ Mệt mỏi nào không cao hơn Kiệt sức, cũng như làm dịu cơn đói. Nhân vật có thể giảm Mệt mỏi thêm một cấp độ sau khi ăn nếu không cao hơn Hụt hơi, do đây là hoạt động không vất vả.
-- **Cầu nguyện với Thần linh hoặc Học sách phép:** Hồi phục 1 Điểm Ma thuật (Magic Point) mỗi Hành động Nghỉ ngơi 15 phút dành cho việc cầu nguyện hoặc học tập. Nhân vật có thể giảm Mệt mỏi một cấp độ nếu không cao hơn Hụt hơi do đây là hoạt động không vất vả.
-- **Chăm sóc vết thương:** Dành một Hành động Nghỉ ngơi 15 phút sử dụng kỹ năng First Aid (Sơ cứu), hoặc bốn hành động nghỉ ngơi 15 phút (một giờ) sử dụng kỹ năng Healing (Chữa trị).
-- **Niệm một hoặc nhiều phép:** Bất kỳ số lượng phép thuật nào cũng có thể được niệm để chữa lành hoặc tăng cường cho các thành viên trong nhóm trong một Hành động Nghỉ ngơi 15 phút, giới hạn bởi Điểm Ma thuật hiện có.
-- **Chuẩn bị một phép mới:** Sau thời gian ngủ ít nhất 8 giờ, một người sử dụng phép thuật có thể sử dụng một Hành động Nghỉ ngơi 15 phút để ghi nhớ, hoặc quên, một phép thuật Bí thuật (Arcane) hoặc Thần thánh (Divine), tuân theo các hạn chế được trình bày chi tiết trong mục [Ghi nhớ Phép thuật](0009_Magic.md?id=memorizing-spells).
-- **Lưỡng lự (Dither):** Đây là Hành động Nghỉ ngơi 15 phút mặc định trừ khi Hành động khác được chọn. Nhân vật chỉ đơn giản lãng phí 15 phút để không làm gì hữu ích. Hành động Nghỉ ngơi này thường được thực hiện nếu các thành viên khác trong nhóm vẫn đang thực hiện các hành động nghỉ ngơi và bạn không có gì để làm. Nhân vật có thể giảm Mệt mỏi một cấp độ nếu không cao hơn Hụt hơi do đây là hoạt động không vất vả.
+#### Các đòn tấn công dựa trên lửa
+ 
+Các đòn tấn công dựa trên lửa thường có tỷ lệ phần trăm cơ hội làm bén các vật liệu dễ cháy vì chúng thường kết thúc trong một Vòng duy nhất. Trừ khi có lưu ý khác, cơ hội này là sát thương đổ được x5% đối với các đòn tấn công dựa trên lửa, và sát thương đổ được x1% đối với điện. Sau khi bắt lửa, các vật liệu dễ cháy sẽ cháy gây 1d3-1 sát thương mỗi Vòng cho đến khi bị dập tắt về mặt vật lý. Áp dụng sát thương này trực tiếp vào Điểm Máu của vật liệu, bỏ qua Điểm Giáp, và vào bất kỳ phần thịt nào bên dưới. Tuy nhiên, giáp tự nhiên của một sinh vật cung cấp sự bảo vệ bình thường của nó. Nạn nhân có thể cố gắng dập tắt ngọn lửa bằng cách nằm sấp và thực hiện một lần đổ xúc xắc Điền Kinh thành công, đòi hỏi một Điểm Hành Động và có thể thực hiện mỗi Lượt. Nếu những người khác hỗ trợ dập tắt ngọn lửa theo cách nào đó, lần đổ xúc xắc sẽ dễ hơn một Cấp Độ Khó. Nếu kết quả đổ sát thương bằng không, ngọn lửa đã tự tắt tại vị trí đó. Đối với mỗi vị trí đã tự tắt, lần đổ xúc xắc để dập tắt ngọn lửa cũng dễ hơn một Cấp Độ Khó.
 
 ---
-## Các Vị trí Trúng đòn (Hit Locations)
+## Thời Gian Trò Chơi
 
-Hầu hết các đòn tấn công (vũ khí) thành công sẽ trúng vào một Vị trí Trúng đòn cụ thể. Điều này có thể được xác định ngẫu nhiên hoặc trong một số trường hợp được chọn bởi các Hiệu ứng Đặc biệt như Chọn Vị trí. Để tính toán ngẫu nhiên vị trí nào đã bị trúng, hãy tung 1d20 và so sánh số tung được với bảng Vị trí Trúng đòn của con người hoặc sinh vật có liên quan.
+Trong _Classic Fantasy Imperative_, thời gian là một yếu tố quan trọng, chủ yếu để xác định điều gì xảy ra theo thứ tự nào, để các cơ chế trò chơi được áp dụng khi cần thiết. Hãy nhớ rằng thời gian trong trò chơi thường không tương đương với thời gian dành cho việc chơi. Đôi khi, Quản Trò có thể cần tóm tắt các sự kiện của nhiều ngày trong một câu duy nhất, chẳng hạn như 'Bạn mất một tuần để đến Lâu đài Greymyr,' trong khi những lúc khác, đặc biệt là trong chiến đấu, các hành động chỉ trong vài giây của thời gian có thể mất vài phút hoặc lâu hơn để giải quyết.
 
-Động vật và quái vật thường có các bảng Vị trí Trúng đòn hơi khác so với con người để phản ánh sinh lý độc đáo của chúng. Những bảng này được liệt kê là một phần trong phần mô tả của mỗi sinh vật và thường chỉ hữu ích cho Quản trò.
+Một lưu ý liên quan: Một số phép thuật, vật phẩm, hoặc hiệu ứng được ghi chú là có thể sử dụng một hoặc nhiều lần mỗi ngày. Một cách dễ dàng để theo dõi điều này thay vì giữ nhật ký về thời điểm mỗi hành động như vậy diễn ra, là giả định đồng hồ đặt lại sau khi Nhân Vật đã có một giấc ngủ ngon đầy đủ. Do đó, việc sử dụng một vật phẩm ma thuật hai lần trong số ba lần có thể sử dụng mỗi ngày, sẽ được khôi phục tất cả số lần sử dụng khi Nhân Vật thức dậy tiếp theo, ngay cả khi nó đã được sử dụng ngay trước khi họ đi ngủ đêm hôm trước.
 
-Bảng Vị trí Trúng đòn của con người được lặp lại ở đây để dễ tham khảo.
+Sau đây là những phân biệt quan trọng về thời gian trò chơi:
 
-### Các Vị trí Trúng đòn của Con người
+#### Vòng Chiến Đấu
 
-| **1d20** | **Vị trí Trúng đòn** |
+Một Vòng Chiến Đấu đại diện cho năm giây thời gian thực. Chúng được sử dụng để đo lường các đợt hoạt động ngắn, cuồng nhiệt mất vài khoảnh khắc để hoàn thành hoặc đo lường các hoạt động rất chi tiết đòi hỏi sự giải quyết từng đòn một. Ví dụ, một cuộc rượt đuổi giữa thợ săn và TC mồi mà mỗi Vòng xác định những khúc quanh của cuộc truy đuổi.
+
+#### Vòng Khám Phá
+
+Một Vòng Khám Phá đại diện cho năm phút thời gian thực và cho phép nhóm di chuyển với tốc độ gấp ba lần Tốc Độ Di Chuyển Cơ Bản của họ (60 feet đối với TC người và á nhân kích thước TC người, 45 feet đối với các chủng tộc á nhân nhỏ hơn). Các Vòng Khám Phá thường được sử dụng để đo lường sự di chuyển trong hầm ngục, nơi điều quan trọng là phải duy trì mức độ thận trọng cao. Các Nhân Vật đang di chuyển chậm, cảnh giác với bẫy và phục kích, và cố gắng duy trì việc ẩn nấp. Điều này cũng giả định rằng ai đó trong nhóm đang lập bản đồ. Nếu không có ai lập bản đồ, các Vòng Khám Phá có thể được coi là kéo dài một phút. Sử dụng các Vòng Khám Phá cho phép các lần đổ xúc xắc Nhận Thức của bạn được thực hiện mà không bị phạt, tuy nhiên, như bình thường, các hình phạt khác có thể được áp dụng. Kẻ thù thấy việc phát hiện một nhóm ở tốc độ khám phá khó hơn một cấp độ trừ khi bạn sử dụng các nguồn sáng ở những khu vực tối tăm (chẳng hạn như đuốc hoặc đèn lồng), điều này sẽ làm lộ vị trí của bạn. Nếu các Nhân Vật quyết định vứt bỏ sự thận trọng, bạn có thể di chuyển qua hầm ngục bằng cách sử dụng các Vòng Chiến Đấu. Tuy nhiên, trong trường hợp này, các lần đổ xúc xắc Nhận Thức khó hơn một cấp độ, và kẻ thù không chịu Hình Phạt Nhận Thức liên quan đến việc phát hiện các Nhân Vật. Lưu ý rằng khi sử dụng thảm chiến đấu tiết lộ toàn bộ hầm ngục cho người chơi, hoặc khi Quản Trò đang vẽ hầm ngục ra cho họ, nó **luôn** nên được giả định rằng nhóm đang lập bản đồ, và do đó đang di chuyển ở tốc độ khám phá.
+
+#### Thời Gian Kỹ Năng
+
+Thời Gian Kỹ Năng đại diện cho vài phút đến vài giờ và được sử dụng để đo lường các hoạt động không đòi hỏi sự chú ý chi tiết của một Vòng Chiến Đấu nhưng đòi hỏi một sự cân nhắc cụ thể về nỗ lực với một kết quả xác định. Việc mở một ổ khóa có thể mất năm phút, trong khi quan sát các cuộc tuần tra được thực hiện bởi các đội lính gác xung quanh tường thành của một lâu đài có thể đòi hỏi vài giờ. Cả hai đều là ví dụ về Thời Gian Kỹ Năng.#### Thời gian Tường thuật
+
+Đây là khoảng thời gian cần thiết khi Quản trò kể chuyện cho người chơi, hoặc khi người chơi đang thảo luận. Trừ khi có lý do cụ thể, hầu hết quá trình nhập vai diễn ra trong thời gian tường thuật. Khi nhập vai, thời gian tường thuật tương tự như thời gian thực, nơi một cuộc đối thoại kéo dài bao lâu tùy thuộc vào thời gian chơi. Nếu một phiên trò chơi bao gồm việc di chuyển dài, hoặc các khoảng thời gian hoạt động mà thời gian chính xác không quá quan trọng, thì thời gian sẽ được nén lại đáng kể thành một vài khoảnh khắc trong trò chơi.
+
+### Nghỉ Ngơi Ngắn
+
+Một lần Nghỉ Ngơi Ngắn đại diện cho khoảng thời gian 15 phút mà các nhà thám hiểm dừng lại để lấy hơi, không làm gì vất vả hơn việc đọc sách, ăn uống, cầu nguyện và chăm sóc vết thương. Nhóm sẽ quyết định thời gian nghỉ ngơi, sau đó thực hiện các hành động 15 phút có liên quan, với mỗi người chơi thực hiện một hành động trước khi chuyển sang người tiếp theo. Không có giới hạn về số lần Nghỉ Ngơi Ngắn mà nhóm có thể thực hiện trong một ngày, và thường thì một vài hành động nghỉ ngơi được thực hiện sau khi dựng trại, cũng như vào buổi sáng trước khi xuất phát. Mỗi Hành động Nghỉ Ngơi 15 phút được chi tiết bên dưới và có thể thực hiện nhiều hơn một lần trừ khi có quy định khác.
+
+- **Ăn Khẩu Phần:** Hành động Nghỉ Ngơi 15 phút này chỉ có thể được thực hiện một lần mỗi ngày vì khẩu phần được tính là vật phẩm hằng ngày và loại bỏ **bất kỳ** cấp độ Mệt Mỏi nào không vượt quá Kiệt Sức, cũng như dập tắt cơn đói. Nhân vật có thể giảm Mệt Mỏi thêm một cấp sau khi ăn nếu không vượt quá Hụt Hơi, vì đây là hoạt động không đòi hỏi nhiều sức lực.
+- **Cầu nguyện Thần Linh hoặc Học phép thuật:** Hồi phục 1 Điểm Phép Thuật cho mỗi Hành động Nghỉ Ngơi 15 phút dành cho việc cầu nguyện hoặc học tập. Nhân vật có thể giảm Mệt Mỏi một cấp nếu không vượt quá Hụt Hơi vì đây là hoạt động không đòi hỏi nhiều sức lực.
+- **Chăm sóc vết thương:** Dành một Hành động Nghỉ Ngơi 15 phút sử dụng kỹ năng Sơ Cứu, hoặc bốn hành động nghỉ ngơi 15 phút (một giờ) sử dụng kỹ năng Chữa Trị.
+- **Thi triển một hoặc nhiều phép thuật:** Bất kỳ số lượng phép thuật nào cũng có thể được thi triển để chữa trị hoặc bổ trợ cho các thành viên trong nhóm trong một Hành động Nghỉ Ngơi 15 phút, giới hạn bởi Điểm Phép Thuật hiện có.
+- **Chuẩn bị phép thuật mới:** Sau một khoảng thời gian ngủ ít nhất 8 giờ, một người sử dụng phép thuật có thể sử dụng Hành động Nghỉ Ngơi 15 phút để ghi nhớ, hoặc quên, một phép thuật Bí thuật hoặc Thần thánh, tùy thuộc vào các hạn chế được chi tiết trong mục [Ghi nhớ Phép thuật](0009_Magic.md?id=memorizing-spells).
+- **Phân vân:** Đây là Hành động Nghỉ Ngơi 15 phút mặc định trừ khi một Hành động khác được chọn. Nhân vật chỉ đơn giản lãng phí 15 phút mà không làm gì có ích. Hành động Nghỉ Ngơi này thường được thực hiện nếu các thành viên khác trong nhóm vẫn đang thực hiện các hành động nghỉ ngơi và bạn không có việc gì để làm. Nhân vật có thể giảm Mệt Mỏi một cấp nếu không vượt quá Hụt Hơi vì đây là hoạt động không đòi hỏi nhiều sức lực.
+
+---
+## Vị Trí Trúng Đòn
+
+Hầu hết các đòn tấn công (vũ khí) thành công đều trúng vào một Vị Trí Trúng Đòn cụ thể. Điều này có thể được xác định ngẫu nhiên hoặc trong một số trường hợp được chọn bởi các Hiệu Ứng Đặc Biệt như Chọn Vị Trí. Để tính toán ngẫu nhiên vị trí bị trúng đòn, hãy đổ 1d20 và so sánh TC số đổ được với bảng Vị Trí Trúng Đòn của sinh vật hoặc nhân vật hình người có liên quan.
+
+Động vật và quái vật thường có bảng Vị Trí Trúng Đòn hơi khác so với nhân vật hình người để phản ánh sinh lý độc đáo của chúng. Những bảng này được liệt kê là một phần trong mô tả của mỗi sinh vật và thường chỉ hữu ích cho Quản trò.
+
+Bảng Vị Trí Trúng Đòn của nhân vật hình người được lặp lại ở đây để dễ dàng tham khảo.
+
+### Vị Trí Trúng Đòn của Nhân Vật Hình Người
+
+| **1d20** | **Vị Trí Trúng Đòn** |
 | :-: | :-- |
 | 1-3 | Chân Phải |
 | 4-6 | Chân Trái |
@@ -223,149 +221,149 @@ Bảng Vị trí Trúng đòn của con người được lặp lại ở đây 
 | 16-18 | Tay Trái |
 | 19-20 | Đầu |
 
-Lưu ý rằng một số đòn tấn công, đặc biệt là các đòn tấn công ma thuật, hoặc những đòn được tạo ra bởi các quái vật cụ thể (ví dụ như hơi thở rực lửa của rồng đỏ), có thể đánh trúng nhiều Vị trí Trúng đòn cùng một lúc. Các Vị trí Trúng đòn riêng lẻ có thể được bọc giáp, từ lớp bảo vệ được mặc hoặc độ cứng tự nhiên của bề mặt ngoài của sinh vật. Điều này rất quan trọng khi xem xét Sát thương và Cấp độ Vết thương bên dưới.
+Lưu ý rằng một số đòn tấn công, đặc biệt là các đòn phép thuật, hoặc những đòn do quái vật cụ thể tạo ra (ví dụ như hơi thở rực lửa của rồng đỏ), có thể trúng nhiều Vị Trí Trúng Đòn cùng lúc. Các Vị Trí Trúng Đòn riêng lẻ có thể được bọc Giáp, từ sự bảo vệ được trang bị hoặc từ độ cứng tự nhiên của bề mặt bên ngoài sinh vật. Điều này rất quan trọng khi xem xét Sát Thương và Cấp Độ Vết Thương dưới đây.
 
-### Sát thương và Cấp độ Vết thương
+### Sát Thương và Cấp Độ Vết Thương
 
-Nếu một đòn tấn công thành công, nó gây sát thương theo xếp hạng sát thương của vũ khí (xem các mục trong bảng [Vũ khí cận chiến](0006_Money_and_Equipment.md?id=basic-melee-weapons) và [Vũ khí tầm xa](0006_Money_and_Equipment.md?id=basic-ranged-weapons) trong chương [Tiền bạc & Trang bị](0006_Money_and_Equipment.md?)). Ví dụ, một thanh đoản kiếm gây 1d6 sát thương.
+Nếu một đòn tấn công trúng đích, nó gây sát thương theo hệ số sát thương của vũ khí (xem các mục bảng cho [Vũ khí Cận chiến](0006_Money_and_Equipment.md?id=basic-melee-weapons) và [Vũ khí Tầm xa](0006_Money_and_Equipment.md?id=basic-ranged-weapons) trong chương [Tiền tệ & Thiết bị](0006_Money_and_Equipment.md?)). Ví dụ, một thanh kiếm ngắn gây 1d6 sát thương.
 
-Sát thương đã tung cho vũ khí hoặc đòn tấn công được sửa đổi bởi các điều kiện nhất định theo thứ tự cụ thể sau:
+Sát thương đổ được cho vũ khí hoặc đòn tấn công được thay đổi bởi các điều kiện nhất định theo thứ tự cụ thể sau:
 
-- Áp dụng Công cụ sửa đổi Sát thương cho nhân vật thực hiện đòn tấn công.
-- Sửa đổi sát thương từ bất kỳ phép thuật tăng cường (hoặc giảm bớt) vũ khí nào.
-- Nếu được đỡ, giảm sát thương phù hợp theo kích thước vũ khí tương ứng.
-- Nếu Vị trí Trúng đòn có giáp, giảm sát thương theo giá trị Điểm Giáp.
+- Áp dụng Hệ Số Sát Thương cho nhân vật thực hiện đòn tấn công.
+- Thay đổi sát thương từ bất kỳ phép thuật tăng cường (hoặc giảm bớt) vũ khí nào.
+- Nếu bị đỡ, hãy giảm sát thương một cách thích hợp theo kích thước tương đối của vũ khí.
+- Nếu Vị Trí Trúng Đòn có bọc Giáp, hãy giảm sát thương theo giá trị Điểm Giáp.
 
-Nếu sát thương gây ra bởi đòn tấn công lớn hơn không, thì Vị trí Trúng đòn sẽ chịu lượng sát thương đó, với tổng sát thương bị loại bỏ ngay lập tức khỏi Điểm máu của vị trí đó. Lưu ý bao nhiêu Điểm máu vị trí đó còn lại, và cấp độ vết thương kết quả.
+Nếu sát thương gây ra bởi đòn tấn công lớn hơn không, thì Vị Trí Trúng Đòn đó phải chịu lượng sát thương đó, với tổng sát thương bị trừ đi ngay lập tức khỏi Điểm Sinh Lực của vị trí đó. Ghi chú lại xem vị trí đó còn lại bao nhiêu Điểm Sinh Lực và hạng mục vết thương kết quả.
 
-- **Vết thương Nhẹ (Minor Wound):** Vị trí Trúng đòn vẫn có Điểm máu dương.
-- **Vết thương Nghiêm trọng (Serious Wound):** Vị trí Trúng đòn bị giảm xuống bằng không hoặc thấp hơn.
-- **Vết thương Nặng (Major Wound):** Vị trí Trúng đòn bị giảm xuống một điểm số âm bằng hoặc lớn hơn Điểm máu ban đầu của nó.
+- **Vết Thương Nhẹ:** Vị Trí Trúng Đòn vẫn còn Điểm Sinh Lực dương.
+- **Vết Thương Nghiêm Trọng:** Vị Trí Trúng Đòn bị giảm xuống còn bằng hoặc dưới 0 Điểm Sinh Lực.
+- **Vết Thương Nặng:** Vị Trí Trúng Đòn bị giảm xuống mức âm bằng hoặc lớn hơn Điểm Sinh Lực khởi đầu của nó.
 
-Sử dụng các quy tắc sau nếu một vị trí nhận Vết thương Nghiêm trọng hoặc Nặng. Lưu ý rằng các vết thương yêu cầu kiểm tra Endurance sẽ kiểm tra chúng trong một lượt tung Đối kháng (Opposed Roll) so với giá trị của lượt tung tấn công ban đầu. Điều này phản ánh khả năng của các chiến binh có kỹ năng cao để thực hiện những đòn đánh chết người hơn. Các lượt tung Endurance không được lặp lại trừ khi vị trí đó bị thương lần nữa.
+Sử dụng các quy tắc sau nếu một vị trí chịu Vết Thương Nghiêm Trọng hoặc Nặng. Lưu ý rằng các vết thương yêu cầu kiểm tra Sức Bền sẽ thực hiện trong một lần Đổ Xúc Xắc Đối Kháng so với giá trị của kết quả đổ xúc xắc tấn công ban đầu. Điều này phản ánh khả năng của các chiến binh kỹ năng cao trong việc thực hiện các cú đánh chết người hơn. Các lần đổ Sức Bền không được lặp lại trừ khi vị trí đó bị thương một lần nữa.
 
-#### Vết thương Nhẹ
+#### Vết Thương Nhẹ
 
-Vết thương nhẹ là các vết cắt, trầy xước, vết bầm tím và bong gân. Chúng đau và có thể chảy máu, nhưng không đủ nghiêm trọng để làm chậm hoặc gây cản trở cho nạn nhân.
+Vết thương nhẹ là các vết cắt, vết xước, vết bầm tím và bong gân. Chúng đau và có thể chảy máu, nhưng không đủ nghiêm trọng để làm chậm hoặc gây cản trở nạn nhân.
 
-#### Vết thương Nghiêm trọng
+#### Vết Thương Nghiêm Trọng
 
-Nếu một vị trí bị giảm xuống bằng không hoặc thấp hơn, nạn nhân sẽ nhận Vết thương Nghiêm trọng. Vị trí này sẽ để lại sẹo vĩnh viễn, và nạn nhân không thể tấn công hoặc bắt đầu niệm phép (nhưng vẫn có thể Đỡ hoặc Né) trong 1d3 Lượt tiếp theo do bị choáng hoặc xao nhãng bởi nỗi đau của vết thương.
+Nếu một vị trí bị giảm xuống mức bằng hoặc dưới 0 Điểm Sinh Lực, nạn nhân phải chịu một Vết Thương Nghiêm Trọng. Vị trí đó để lại sẹo vĩnh viễn, và nạn nhân không thể tấn công hoặc bắt đầu thi triển phép thuật (nhưng vẫn có thể Đỡ hoặc Né Tránh) trong 1d3 Lượt tiếp theo do bị choáng hoặc mất tập trung bởi cơn đau của vết thương.
 
-Một nhân vật bị Vết thương Nghiêm trọng vào chi phải ngay lập tức thực hiện một lượt tung Đối kháng Endurance so với lượt tung tấn công thành công của kẻ thù. Thất bại dẫn đến việc chi đó trở nên vô dụng, cho đến khi vị trí đó được hồi phục về Điểm máu dương. Nếu là chân, nạn nhân sẽ ngã sấp. Nếu là tay, bất cứ thứ gì đang cầm đều rơi xuống, trừ khi vật đó được buộc chặt (hãy sử dụng lẽ thường ở đây).
+Một nhân vật chịu Vết Thương Nghiêm Trọng ở tay hoặc chân phải lập tức thực hiện Đổ Xúc Xắc Đối Kháng Sức Bền của mình so với kết quả đổ xúc xắc tấn công thành công của kẻ địch. Thất bại dẫn đến việc chi đó bị vô hiệu hóa, cho đến khi vị trí đó được hồi phục về mức Điểm Sinh Lực dương. Nếu là chân, nạn nhân sẽ ngã sấp. Nếu là tay, bất cứ thứ gì đang cầm đều sẽ rơi xuống, trừ khi vật đó được buộc chặt (hãy sử dụng lẽ thường ở đây).
 
-Một nhân vật bị Vết thương Nghiêm trọng vào bụng, ngực hoặc đầu phải ngay lập tức thực hiện một lượt tung Đối kháng Endurance so với lượt tung tấn công thành công của kẻ thù. Thất bại dẫn đến bất tỉnh trong số phút bằng với lượng sát thương phải chịu trong đòn tấn công gây ra Vết thương Nghiêm trọng. Các kỹ năng Sơ cứu hoặc Chữa trị có thể được sử dụng để giúp nạn nhân bất tỉnh hồi phục thêm Điểm máu cho vị trí bị Vết thương Nghiêm trọng.
+Một nhân vật chịu Vết Thương Nghiêm Trọng ở bụng, ngực hoặc đầu phải lập tức thực hiện Đổ Xúc Xắc Đối Kháng Sức Bền của mình so với kết quả đổ xúc xắc tấn công thành công của kẻ địch. Thất bại dẫn đến bất tỉnh trong số phút bằng với lượng sát thương phải chịu trong đòn tấn công gây ra Vết Thương Nghiêm Trọng. Kỹ năng Sơ Cứu hoặc Chữa Trị có thể được sử dụng để giúp nạn nhân bất tỉnh hồi phục thêm Điểm Sinh Lực cho vị trí bị Vết Thương Nghiêm Trọng.
 
-Theo quyết định của Quản trò, ngay cả khi nhân vật vẫn hoạt động được, tất cả các nhiệm vụ yêu cầu sử dụng Vị trí Trúng đòn đó sẽ phải chịu hình phạt liên tục là một Cấp độ Khó, cho đến khi vết thương được giảm xuống thành Vết thương Nhẹ.
+Theo quyết định của Quản trò, ngay cả khi nhân vật vẫn còn khả năng hoạt động, tất cả các nhiệm vụ yêu cầu sử dụng Vị Trí Trúng Đòn đó sẽ chịu hình phạt liên tục là một Cấp Độ Khó, cho đến khi chấn thương giảm xuống còn Vết Thương Nhẹ.
 
-#### Vết thương Nặng
+#### Vết Thương Nặng
 
-Nếu một vị trí bị giảm xuống một điểm số âm bằng hoặc lớn hơn Điểm máu ban đầu của nó, nhân vật sẽ nhận Vết thương Nặng. Nhân vật ngay lập tức rơi vào trạng thái Mất khả năng, không thể tiếp tục chiến đấu. Một chi bị chặt đứt, bị xuyên thủng, bị vỡ nát, hoặc bị giật đứt bởi Vết thương Nặng. Nhân vật ngã sấp, mất khả năng về thể chất, và phải ngay lập tức thực hiện một lượt tung Đối kháng Endurance so với lượt tung tấn công thành công của kẻ thù. Thất bại dẫn đến bất tỉnh vì đau đớn. Nếu một vị trí bị chặt đứt, bị thủng hoặc bị giật đứt không được điều trị trong số phút bằng năm lần Tỷ lệ Hồi phục của mình, nhân vật sẽ chết vì mất máu và sốc.
+Nếu một vị trí bị giảm xuống mức âm bằng hoặc lớn hơn Điểm Sinh Lực khởi đầu của nó, nhân vật phải chịu một Vết Thương Nặng. Nhân vật ngay lập tức bị Mất Khả Năng Hành Động, không thể tiếp tục chiến đấu. Một chi bị đứt rời, bị xuyên thấu, bị nát hoặc bị xé toạc bởi một Vết Thương Nặng. Nhân vật ngã sấp, bị Mất Khả Năng Hành Động về mặt thể chất, và phải lập tức thực hiện Đổ Xúc Xắc Đối Kháng Sức Bền so với kết quả đổ xúc xắc tấn công thành công của kẻ địch. Thất bại dẫn đến bất tỉnh vì đau đớn tột cùng. Nếu vị trí bị đứt rời, đâm thủng hoặc xé toạc không được xử lý trong số phút bằng năm lần Tốc Độ Hồi Phục của họ, nhân vật sẽ chết vì mất máu và sốc.
 
-Nạn nhân bị Vết thương Nặng vào bụng, ngực hoặc đầu sẽ ngã bất tỉnh, hoàn toàn Mất khả năng, và phải ngay lập tức thực hiện một lượt tung Đối kháng Endurance so với lượt tung tấn công thành công của kẻ thù. Thất bại dẫn đến cái chết tức thì và tàn khốc (bị chặt đầu, bị chém làm đôi, bị xuyên tim, bị xé xác, v.v.). Nếu họ sống sót, và vị trí đó không được điều trị trong số Vòng đấu Chiến đấu bằng hai lần Tỷ lệ Hồi phục của nhân vật, họ vẫn sẽ chết vì mất máu và sốc.
+Nạn nhân bị Vết Thương Nặng ở bụng, ngực hoặc đầu sẽ bất tỉnh, hoàn toàn Mất Khả Năng Hành Động, và phải lập tức thực hiện Đổ Xúc Xắc Đối Kháng Sức Bền so với kết quả đổ xúc xắc tấn công thành công của kẻ địch. Thất bại dẫn đến cái chết tức thì và tàn khốc (bị chặt đầu, bị chém đôi, bị đâm xuyên tim, bị xé xác, vân vân). Nếu họ sống sót, và vị trí đó không được xử lý trong số Lượt Chiến Đấu bằng hai lần Tốc Độ Hồi Phục của nhân vật, họ vẫn sẽ chết vì mất máu và sốc.
 
-Vì hầu hết các Vết thương Nặng yêu cầu một số hình thức phẫu thuật hoặc ma thuật mạnh để chữa lành, người bị thương sẽ rất khó hồi phục sau Vết thương Nặng kịp thời để tham gia chiến đấu trở lại. Tùy thuộc vào phương pháp điều trị sẵn có, vị trí bị thương sẽ có khả năng bị tàn tật (xem [Chữa trị sau Chấn thương](0007_Game_System.md?id=healing-from-injury)).
+Vì hầu hết các Vết Thương Nặng đều cần một hình thức phẫu thuật hoặc phép thuật mạnh để chữa lành, người bị thương sẽ rất khó phục hồi kịp thời để tham gia lại trận chiến. Tùy thuộc vào phương pháp điều trị sẵn có, vị trí bị thương có khả năng sẽ bị tàn tật (xem [Hồi phục sau Chấn thương](0007_Game_System.md?id=healing-from-injury)).
 
-### Mất máu
+### Mất Máu
 
-Mất máu do các vết thương bên ngoài và bên trong, thường xảy ra trong chiến đấu, có thể làm nhân vật kiệt sức rất nhanh. Các hiệu ứng của nó được đo lường bằng việc tích lũy các cấp độ Mệt mỏi, giống như [Ngạt thở](0007_Game_System.md?id=asphyxiation). Mất máu không được kiểm soát thường dẫn đến cái chết nếu không có một hình thức chăm sóc y tế nào đó. Không giống như Ngạt thở, các hiệu ứng của Mất máu nghiêm trọng đối với Mệt mỏi là kéo dài. Một nhân vật phục hồi Mệt mỏi do chảy máu với tốc độ một cấp độ mỗi ngày, bắt đầu từ ngày sau khi quá trình mất máu của họ kết thúc.
+Mất Máu do các vết thương bên ngoài và bên trong, thường xảy ra trong chiến đấu, có thể làm nhân vật kiệt quệ rất nhanh. Tác động của nó được đo bằng sự tích tụ của các cấp độ Mệt Mỏi, giống như [Ngạt Thở](0007_Game_System.md?id=asphyxiation). Mất Máu không được kiểm soát thường dẫn đến cái chết nếu không có sự chăm sóc y tế. Không giống như Ngạt Thở, tác động của việc Mất Máu nghiêm trọng lên Mệt Mỏi là kéo dài. Một nhân vật phục hồi Mệt Mỏi do chảy máu với tốc độ một cấp mỗi ngày, bắt đầu từ ngày sau khi việc mất máu chấm dứt.
 
-#### Hành động Cuối cùng Anh hùng (Heroic Last Actions)
+#### Hành Động Anh Hùng Cuối Cùng
 
-Trong những trường hợp đặc biệt khi các nhân vật quan trọng nhận Vết thương Nặng, Quản trò có thể cho phép một Hành động cuối cùng anh hùng - chẳng hạn như niệm một phép cuối cùng, cố gắng hạ gục kẻ giết mình, bò đi trốn, hoặc cố gắng tự băng bó vết thương của mình. Họ phải có các chi hoạt động được áp dụng cho Hành động đó và tiêu tốn một Điểm May mắn (Luck Point). Họ có một cơ hội duy nhất để thực hiện Hành động của mình, và sau đó ngay lập tức gục xuống bất tỉnh, và có khả năng là cái chết.
-
----
-## Chữa trị sau Chấn thương
-
-Việc chữa lành tự nhiên từ các vết thương và chấn thương dựa trên Tỷ lệ Hồi phục của nhân vật. Tỷ lệ Hồi phục quy định bao nhiêu Điểm máu được phục hồi ở một vị trí trong một khoảng thời gian phụ thuộc vào bản chất của chấn thương:
-
-- Vết thương Nhẹ: Ngày
-- Vết thương Nghiêm trọng: Tuần
-- Vết thương Nặng: Tháng
-
-Do đó, một nhân vật có Tỷ lệ Hồi phục là 3 bị sát thương đưa anh ta về –3 tại một Vị trí Trúng đòn, một Vết thương Nghiêm trọng, sẽ chữa lành tự nhiên với tốc độ 3 Điểm máu mỗi tuần cho đến khi vết thương của anh ta vượt quá không, và sau đó hồi phục 3 Điểm máu mỗi ngày cho đến khi hồi phục hoàn toàn.
-
-Có những hạn chế nhất định đối với việc chữa lành tự nhiên:
-
-- Nhân vật đang hồi phục không được tham gia vào các hoạt động vất vả: nếu không, Tỷ lệ Hồi phục sẽ bị giảm đi 1d3. Do đó, một nhân vật đang hồi phục từ một Vết thương Nhẹ cũng có thể thấy sự tiến triển của mình bị dừng lại nếu họ quyết định tham gia vào bất kỳ nhiệm vụ thể chất nào có thể làm trầm trọng thêm chấn thương.
-- Việc chữa lành tự nhiên sẽ không bắt đầu chữa lành một Vết thương Nặng cho đến khi nạn nhân đã được điều trị bằng việc sử dụng thành công kỹ năng [Chữa trị](0005_Skills.md?id=healing-intpow), hoặc việc niệm một trong các phép Cure Wounds (Chữa Vết thương). Các Vết thương Nặng không gây cắt rời không được điều trị trong số ngày bằng một phần hai mươi kỹ năng Chữa trị sẽ trở thành tàn tật, làm giảm vĩnh viễn Điểm máu của vị trí đó.
-
-### Chữa trị bằng Ma thuật
-
-Một số ma thuật có thể chữa lành các vết thương mà nạn nhân phải chịu. Tuy nhiên, có những hạn chế cụ thể về mức độ vết thương có thể được điều trị bằng mỗi phép thuật. Ví dụ, phép thuật Thần thánh Cure Minor Wounds hiệu quả nhất đối với các Vết thương Nhẹ, như tên gọi của nó, trong khi phép thuật Cure Serious Wounds hiệu quả nhất đối với cả Vết thương Nhẹ và Vết thương Nghiêm trọng. Chỉ có những phép thuật mạnh nhất mới có thể đảo ngược ngay lập tức các chấn thương nghiêm trọng của một Vết thương Nặng.
-
-Cho dù phép thuật chữa trị có tầm thường đến đâu, việc áp dụng nó luôn đủ để ổn định bất kỳ loại vết thương nào, ngăn ngừa chảy máu và cái chết tức thì ngay cả khi nó không thực sự chữa khỏi chấn thương cơ bản. Lưu ý rằng điều này chỉ áp dụng cho chấn thương thể chất thô bạo, không áp dụng cho các tình trạng do ngạt thở, độc dược và tương tự.
+Trong các trường hợp đặc biệt khi các nhân vật chủ chốt phải chịu Vết Thương Nặng, Quản trò có thể cho phép một Hành động anh hùng cuối cùng - chẳng hạn như tung ra một phép thuật cuối cùng, cố gắng hạ gục kẻ sát nhân của họ, bò đi ẩn nấp, hoặc cố gắng tự băng bó vết thương cho chính mình. Họ phải có các chi hoạt động được áp dụng cho Hành động đó và tiêu tốn một Điểm May Mắn. Họ có một cơ hội duy nhất để thử Hành động của mình, và sau đó ngay lập tức gục ngã vào tình trạng bất tỉnh, và có khả năng tử vong.
 
 ---
-## Điểm May mắn (Luck Points)
+## Hồi phục sau Chấn thương
 
-Các Điểm May mắn giúp phân biệt các anh hùng với những người bình thường. Chúng đại diện cho khả năng của một nhân vật trong việc tiềm tàng biến thất bại thành thành công và thậm chí đánh lừa cái chết.
+Quá trình hồi phục tự nhiên sau các vết thương và chấn thương dựa trên Tốc Độ Hồi Phục của nhân vật. Tốc Độ Hồi Phục quy định bao nhiêu Điểm Sinh Lực được hồi phục ở một vị trí trong một khoảng thời gian tùy thuộc vào bản chất của chấn thương:
 
-Khi đạt đến Hạng 2, và mỗi Hạng sau đó, tất cả các nhân vật đều nhận được một Điểm May mắn tiền thưởng. Điều này mô phỏng phần nào việc đạt được thêm Điểm máu trong các trò chơi dựa trên Cấp độ, cho phép các nhân vật có Hạng cao hơn xử lý tốt hơn trước những thứ như rồng, quỷ dữ, v.v., mà không cho phép họ chịu đựng nhiều sự trừng phạt hơn một con voi đực châu Phi.
+- Vết Thương Nhẹ: Ngày
+- Vết Thương Nghiêm Trọng: Tuần
+- Vết Thương Nặng: Tháng
 
-Các Điểm May mắn có thể được sử dụng trong khi chơi và, vào đầu phiên tiếp theo, sẽ bổ sung lại giá trị thông thường của chúng.
+Do đó, một nhân vật có Tốc Độ Hồi Phục là 3 chịu sát thương khiến anh ta còn –3 ở một Vị Trí Trúng Đòn, một Vết Thương Nghiêm Trọng, sẽ hồi phục tự nhiên với tốc độ 3 Điểm Sinh Lực mỗi tuần cho đến khi vết thương của anh ta vượt quá không, và sau đó hồi phục 3 Điểm Sinh Lực mỗi ngày cho đến khi hồi phục hoàn toàn.
 
-#### Sử dụng Điểm May mắn
+Có những hạn chế nhất định đối với việc hồi phục tự nhiên:
 
-Các Điểm May mắn có thể được sử dụng theo nhiều cách khác nhau. Chỉ một Điểm May mắn có thể được sử dụng để hỗ trợ một Hành động cụ thể. Các Điểm May mắn không thể được chi tiêu cho các lượt tung Kinh nghiệm hoặc Đào tạo. Mỗi tùy chọn sau đây có giá một Điểm May mắn.
+- Nhân vật đang hồi phục không thể tham gia vào hoạt động vất vả: nếu không, Tốc Độ Hồi Phục bị giảm đi 1d3. Do đó, một nhân vật đang hồi phục ngay cả một Vết Thương Nhẹ cũng có thể thấy sự tiến triển của mình bị đình trệ nếu họ quyết định tham gia vào bất kỳ nhiệm vụ thể chất nào có thể làm trầm trọng thêm chấn thương.
+- Hồi phục tự nhiên sẽ không bắt đầu chữa lành Vết Thương Nặng cho đến khi nạn nhân đã được điều trị bằng việc sử dụng thành công kỹ năng [Chữa Trị](0005_Skills.md?id=healing-intpow), hoặc thi triển một trong các phép thuật Chữa Lành Vết Thương. Các Vết Thương Nặng không phải cắt rời chi nếu không được điều trị trong số ngày bằng một phần hai mươi của kỹ năng Chữa Trị sẽ trở thành tàn tật, làm giảm vĩnh viễn Điểm Sinh Lực của vị trí đó.
 
-#### Đánh lừa Định mệnh (Cheat Fate)
+### Chữa Lành bằng Phép Thuật
 
-Các nhân vật có thể sử dụng một Điểm May mắn để tung lại hoặc đổi chỗ (ví dụ: 75 sẽ trở thành 57) bất kỳ lượt tung xúc xắc nào họ thực hiện. Đây có thể là lượt tung kỹ năng, lượt tung sát thương hoặc bất cứ thứ gì khác có tác dụng. Các nhân vật thậm chí có thể buộc đối thủ phải tung lại một đòn tấn công hoặc lượt tung sát thương thực hiện chống lại họ.
+Một số phép thuật có thể chữa lành các vết thương mà nạn nhân phải chịu. Tuy nhiên, có những hạn chế cụ thể về cấp độ vết thương nào có thể được điều trị bởi mỗi phép thuật. Ví dụ, phép thuật Thần thánh Chữa Lành Vết Thương Nhẹ hiệu quả nhất đối với Vết Thương Nhẹ, như tên gọi của nó, trong khi phép thuật Chữa Lành Vết Thương Nghiêm Trọng hiệu quả nhất đối với cả Vết Thương Nhẹ và Vết Thương Nghiêm Trọng. Chỉ những phép thuật mạnh nhất mới có thể ngay lập tức đảo ngược các chấn thương tâm lý của một Vết Thương Nặng.
 
-#### Nỗ lực Tuyệt vọng (Desperate Effort)
-
-Nếu một nhân vật đã cạn kiệt các Điểm Hành động của mình trong một trận chiến và cần tìm kiếm sự bùng nổ năng lượng tuyệt vọng cuối cùng để có thể tránh một cái chết bừa bãi, họ có thể chi tiêu một Điểm May mắn để đạt được một Điểm Hành động bổ sung.
-
-#### Giảm thiểu Sát thương (Mitigate Damage)
-
-Một nhân vật bị Vết thương Nặng có thể chi tiêu một Điểm May mắn để hạ cấp chấn thương xuống thành Vết thương Nghiêm trọng. Điều này làm giảm sát thương phải chịu xuống ít hơn một Điểm máu so với những gì cần thiết để gây ra một Vết thương Nặng.
+Cho dù phép thuật chữa lành có tầm thường đến đâu, việc áp dụng nó luôn đủ để ổn định bất kỳ loại vết thương nào, ngăn ngừa chảy máu và cái chết tức thì ngay cả khi nó không thực sự chữa lành chấn thương gốc. Lưu ý rằng điều này chỉ áp dụng cho chấn thương thể chất tổng quát, không áp dụng cho các tình trạng do ngạt thở, chất độc và những thứ tương tự.
 
 ---
-## Cạm bẫy
+## Điểm May Mắn
 
-Cạm bẫy là những thiết bị phổ biến được sử dụng bởi mọi nền văn hóa, từ việc đào hố bẫy để bắt động vật, đến các bẫy chết người canh giữ lăng mộ muôn đời. Những thiết bị này được xây dựng cho nhiều mục đích, mỗi thiết bị được tùy chỉnh cụ thể để báo động, bắt giữ kẻ xâm nhập, hoặc gây thương tích và giết chết những tên trộm ngay lập tức.
+Điểm May Mắn giúp phân biệt những anh hùng với những người bình thường. Chúng đại diện cho khả năng của một nhân vật có thể biến thất bại thành thành công và thậm chí là đánh lừa cái chết.
 
-Việc xây dựng các cạm bẫy yêu cầu người xây dựng phải biết kỹ năng Mechanisms (Cơ chế) hoặc Engineering (Kỹ thuật). Các cạm bẫy nhỏ như bẫy gấu hoặc khóa bị cài bẫy yêu cầu Mechanisms, trong khi các công trình quy mô lớn như hố chông hoặc đá lăn cần Engineering.
+Khi đạt đến Cấp Bậc 2, và mỗi Cấp Bậc sau đó, tất cả các nhân vật đều nhận được một Điểm May Mắn thưởng. Điều này mô phỏng phần nào việc đạt được thêm Điểm Sinh Lực trong các trò chơi dựa trên Cấp Độ, cho phép các nhân vật có Cấp Bậc cao hơn xử lý bản thân tốt hơn trước những thứ như rồng, quỷ, ác quỷ, vân vân, mà không cho phép họ chịu đựng nhiều sự trừng phạt hơn một TC voi đực Châu Phi.
 
-Ngoài việc thuê một thợ thủ công lành nghề, các cạm bẫy thường có các thành phần rất đắt tiền hoặc chi phí lao động thủ công. Theo hướng dẫn chung, cạm bẫy báo động có giá trị bằng kỹ năng của người tạo ra tính bằng đồng, bẫy bắt giữ có giá tương đương bằng bạc, và bẫy chết người yêu cầu thanh toán bằng vàng.
+Điểm May Mắn có thể được sử dụng trong khi chơi và, vào đầu phiên trò chơi tiếp theo, sẽ được bổ sung về giá trị thông thường của chúng.
 
-Tất cả các cạm bẫy đều có xếp hạng Độ khó (Difficulty) đại diện cho mức độ khó để nhận biết, vô hiệu hóa hoặc tránh né. Giá trị này được coi là kỹ năng của nó khi bị kháng cự trong một lượt tung Đối kháng.
+#### Sử dụng Điểm May Mắn
 
-Bất chấp nhiều câu chuyện thú vị được kể bởi những người kể chuyện, các cạm bẫy – đặc biệt là những cạm bẫy nhằm mục đích giết người – hiếm khi có phương pháp tránh né hoặc đảo ngược hiệu ứng của chúng một cách khéo léo sau khi đã hoạt động. Nếu không có ma thuật hoặc sự may mắn, những người mắc bẫy chết người thường phải chịu khuất phục trước mục đích cực kỳ hiệu quả của nó. Tóm lại, chúng không có ý định để có thể sống sót. Trừ khi cạm bẫy có thiết kế xảo quyệt hoặc là một loại phép thuật kéo dài, một khi nó đã được kích hoạt, nó phải được thiết lập lại bằng tay.
+Điểm may mắn có thể được sử dụng theo nhiều cách khác nhau. Chỉ một Điểm May Mắn có thể được sử dụng để hỗ trợ một Hành động cụ thể. Điểm May Mắn không thể được chi tiêu cho các lần đổ xúc xắc Kinh Nghiệm hoặc Huấn Luyện. Mỗi tùy chọn sau đây tiêu tốn một Điểm May Mắn duy nhất.
 
-### Các Đặc điểm của Cạm bẫy
+#### Đánh Lừa Định Mệnh
 
-Các cạm bẫy được mô tả bằng các đặc điểm sau.
+Các nhân vật có thể sử dụng một Điểm May Mắn để đổ lại hoặc hoán đổi (ví dụ 75 sẽ trở thành 57) bất kỳ kết quả đổ xúc xắc nào họ thực hiện. Đây có thể là một lần đổ kỹ năng, đổ sát thương, hoặc bất cứ thứ gì khác có hiệu ứng. Các nhân vật thậm chí có thể buộc đối thủ phải đổ lại một đòn tấn công hoặc đổ sát thương thực hiện chống lại họ.
 
-#### Mục đích (Purpose)
+#### Nỗ Lực Tuyệt Vọng
 
-Mục đích của cạm bẫy. Có bốn loại chính:
+Nếu một nhân vật đã cạn kiệt Điểm Hành Động trong một cuộc chiến và cần tìm kiếm nguồn năng lượng tuyệt vọng cuối cùng đó để có thể tránh khỏi một cái chết bừa bãi, họ có thể tiêu một Điểm May Mắn để có thêm một Điểm Hành Động.
 
-- **Báo động (Alarm):** Cạm bẫy gửi tín hiệu im lặng hoặc có âm thanh cho biết nó đã được kích hoạt.
-- **Bắt giữ (Ensnaring):** Cạm bẫy được thiết kế để bắt bất kỳ ai kích hoạt hoặc đi vào nó.
-- **Gây thương tích (Maiming):** Cạm bẫy nhằm mục đích gây thương tích nghiêm trọng cho bất kỳ ai kích hoạt nó.
-- **Chết người (Death):** Cạm bẫy nhằm mục đích giết chết những người kích hoạt các thiết bị gây chết người của nó.
+#### Giảm Thiểu Sát Thương
 
-#### Kích hoạt (Trigger)
+Một nhân vật chịu Vết Thương Nặng có thể tiêu một Điểm May Mắn để hạ cấp chấn thương xuống Vết Thương Nghiêm Trọng. Điều này làm giảm sát thương phải chịu xuống ít hơn một Điểm Sinh Lực so với mức cần thiết để gây ra một Vết Thương Nặng.
 
-Cách thức cạm bẫy được thiết lập để kích hoạt.
+---
+## Bẫy
 
-#### Độ khó (Difficulty)
+Bẫy là những thiết bị phổ biến được sử dụng bởi mọi nền văn hóa, từ việc đào hố bẫy để bắt động vật, cho đến những cái bẫy chết người bảo vệ các ngôi mộ trong suốt vĩnh hằng. Những thiết bị này được chế tạo cho nhiều mục đích, mỗi cái được thiết kế đặc biệt để báo động, bắt giữ kẻ xâm nhập, hoặc làm bị thương và giết chết những tên trộm ngay lập tức.
 
-Xếp hạng thử thách của cạm bẫy, bằng với giá trị của kỹ năng Mechanisms hoặc Engineering đã tạo ra nó. Ví dụ, một cái bẫy lưỡi dao được xây dựng vào đáy của một chiếc rương kho báu bởi một thợ thủ công có kỹ năng Mechanisms 70% mang lại cho cạm bẫy Độ khó là 70%. Sau đó, cạm bẫy sẽ sử dụng giá trị này trong các lượt tung Đối kháng để xem liệu lưỡi dao có thể được phát hiện, né tránh hoặc vô hiệu hóa hay không.
+Việc xây dựng bẫy đòi hỏi người xây dựng phải biết kỹ năng Cơ Chế hoặc Kỹ Thuật. Những cái bẫy nhỏ như bẫy gấu hoặc khóa bị bẫy đòi hỏi Cơ Chế, trong khi các công trình quy mô lớn như hố chông hoặc đá lăn cần Kỹ Thuật.
 
-#### Kháng cự (Resistance)
+Ngoài việc thuê một thợ thủ công lành nghề, bẫy thường có các thành phần rất đắt tiền hoặc chi phí lao động thủ công. Theo hướng dẫn chung, báo động có giá bằng kỹ năng của người tạo ra tính bằng đồng, bẫy bắt giữ có giá bằng đồng bạc, và bẫy chết người đòi hỏi thanh toán bằng vàng.
 
-Cách cạm bẫy bị kháng cự – thường sử dụng Brawn, Evade (Né tránh), hoặc Parrying (Đỡ đòn) với một Kỹ năng Chiến đấu kết hợp với khiên. Kháng cự được tung khi cạm bẫy được kích hoạt.
+Tất cả các bẫy đều có xếp hạng Độ Khó đại diện cho mức độ khó để nhận biết, gỡ bỏ hoặc tránh né. Giá trị này được coi là kỹ năng của nó khi bị kháng cự trong một lần Đổ Xúc Xắc Đối Kháng.
 
-#### Hiệu ứng (Effect)
+Bất chấp nhiều câu chuyện thú vị được kể bởi những người kể chuyện, bẫy – đặc biệt là những cái nhằm mục đích giết người – hiếm khi có phương pháp tránh né hoặc đảo ngược hiệu ứng của chúng một cách thông minh sau khi đã kích hoạt. Không có phép thuật hoặc vận may, những kẻ mắc vào bẫy chết người thường khuất phục trước mục đích cực kỳ hiệu quả của nó. Tóm lại, chúng không có ý định để có thể sống sót. Trừ khi cái bẫy có thiết kế xảo quyệt hoặc là một loại bùa chú ma thuật lâu bền nào đó, một khi nó đã được kích hoạt thì nó phải được đặt lại bằng tay.
 
-Điều gì sẽ xảy ra khi cạm bẫy được kích hoạt, và (các) nạn nhân thất bại trong việc kháng cự? Thông thường, điều này dẫn đến việc báo động cho kẻ thù nếu là bẫy báo động, hoặc bắt giữ nạn nhân nếu được thiết kế để bắt giữ. Bẫy gây thương tích và bẫy chết người rõ ràng gây thương tích cho nạn nhân, mặc dù một số bẫy chết người sử dụng các phương tiện khác ngoài sát thương trực tiếp để gây hại, chẳng hạn như đuối nước hoặc độc dược. Để hạn chế các cạm bẫy quá chết người, sát thương gây ra bởi hầu hết các thiết bị cơ khí bị giới hạn bởi kỹ năng của người tạo ra nó. Tuy nhiên, những thiết bị khác như cạm bẫy khiến nạn nhân bị nhiễm độc không xem xét kỹ năng thực tế của người chế tạo. Điều này thường được cân bằng bởi chi phí của chất độc được sử dụng. Ngoại lệ duy nhất cho điều này là Hố bẫy (Pit Trap), nơi sát thương chỉ dựa trên độ sâu của hố. Trong những trường hợp này, kỹ năng của người chế tạo được sử dụng để xác định cơ hội phát hiện, né tránh và vô hiệu hóa cạm bẫy; sát thương được xác định theo loại chất độc, hoặc khoảng cách rơi, khi thích hợp. Lực (Force) được ghi chú cho những cạm bẫy bắn ra các vật thể có thể bị đỡ.
+### Đặc Điểm của Bẫy
 
-##### Giới hạn Sát thương Bẫy chết người
+Bẫy được mô tả bằng cách sử dụng các đặc điểm sau.
 
-| **Kỹ năng của Người tạo** | **Sát thương** | **Kích thước/Lực** |
+#### Mục Đích
+
+Mục đích của bẫy. Có bốn loại chính:
+
+- **Báo Động:** Bẫy gửi một tín hiệu im lặng hoặc âm thanh rằng nó đã được kích hoạt.
+- **Bắt Giữ:** Bẫy được thiết kế để bắt bất kỳ ai kích hoạt hoặc bước vào nó.
+- **Làm Bị Thương:** Bẫy nhằm mục đích gây thương tích nghiêm trọng cho bất kỳ ai kích hoạt nó.
+- **Cái Chết:** Bẫy nhằm mục đích giết chết những kẻ kích hoạt thiết bị gây chết người của nó.
+
+#### Kích Hoạt
+
+Cách thức bẫy được kích hoạt.
+
+#### Độ Khó
+
+Xếp hạng thử thách của bẫy, bằng với giá trị của kỹ năng Cơ Chế hoặc Kỹ Thuật đã tạo ra nó. Ví dụ, một cái bẫy lưỡi kiếm được xây dựng vào đế của một chiếc rương kho báu bởi một thợ thủ công với Cơ Chế 70% mang lại cho cái bẫy Độ Khó là 70%. Bẫy đó sau đó sẽ sử dụng giá trị này trong các lần Đổ Xúc Xắc Đối Kháng để xem lưỡi kiếm có thể được phát hiện, né tránh hoặc gỡ bỏ hay không.
+
+#### Kháng Cự
+
+Cách bẫy bị kháng cự – thường sử dụng Cơ Bắp, Né Tránh, hoặc Đỡ bằng Kỹ Năng Chiến Đấu có bao gồm khiên. Kháng cự được đổ khi bẫy được kích hoạt.
+
+#### Hiệu Ứng
+
+Điều gì xảy ra khi bẫy được bung ra, và (các) nạn nhân không kháng cự được? Thông thường điều này dẫn đến việc báo động cho đối thủ nếu là báo động, hoặc bắt giữ nạn nhân nếu được thiết kế để bắt giữ. Bẫy làm bị thương và bẫy chết người rõ ràng gây thương tích cho nạn nhân, mặc dù một số bẫy chết người sử dụng các phương tiện khác ngoài sát thương trực tiếp để gây hại, chẳng hạn như chết đuối hoặc chất độc. Để hạn chế những cái bẫy quá chết người, sát thương gây ra bởi hầu hết các thiết bị cơ khí bị giới hạn bởi kỹ năng của người tạo ra nó. Tuy nhiên, những thứ khác như bẫy làm nạn nhân nhiễm độc không xem xét kỹ năng thực tế của người chế tạo. Điều này thường được cân bằng bởi chi phí của chất độc được sử dụng. Ngoại lệ khác cho điều này là Hố Bẫy, nơi sát thương chỉ dựa trên độ sâu của hố. Trong những trường hợp này, kỹ năng của người chế tạo được sử dụng để xác định cơ hội phát hiện, né tránh và gỡ bỏ bẫy; sát thương được xác định theo loại chất độc, hoặc khoảng cách rơi, tùy trường hợp. Lực được ghi chú cho những cái bẫy bắn đạn có thể bị đỡ.
+
+##### Giới Hạn Sát Thương của Bẫy Chết Người
+
+| **Kỹ Năng Người Tạo** | **Sát Thương** | **Kích Thước (Siêu Năng Lực)** |
 | :-: | :-: | :-: |
 | 1-10% | 1d2 | Nhỏ |
 | 11-20% | 1d4 | Nhỏ |
@@ -373,46 +371,44 @@ Cách cạm bẫy bị kháng cự – thường sử dụng Brawn, Evade (Né t
 | 31-40% | 1d8 | Trung bình |
 | 41-50% | 1d10 | Lớn |
 | 51-60% | 2d6 | Lớn |
-| 61-70% | 1d8+1d6 | Rất lớn |
-| 71-80% | 2d8 | Rất lớn |
-| 81-90% | 1d10+1d8 | Khổng lồ |
-| 91-100% | 2d10 | Khổng lồ |
+| 61-70% | 1d8+1d6 | Khổng lồ |
+| 71-80% | 2d8 | Khổng lồ |
+| 81-90% | 1d10+1d8 | Cực lớn |
+| 91-100% | 2d10 | Cực lớn |
 
-Sát thương có thể ảnh hưởng đến nhiều Vị trí Trúng đòn ngẫu nhiên, với mỗi vị trí bổ sung sẽ giảm sát thương đi một cấp trên bảng Giới hạn Sát thương Bẫy chết người. Ví dụ, một nhà thiết kế cạm bẫy với kỹ năng 50% có thể thiết kế một cái bẫy gây 1d10 sát thương vào một vị trí duy nhất, 1d8 sát thương vào 1d2 Vị trí Trúng đòn, 1d6 sát thương vào 1d3 vị trí, v.v. Số lượng vị trí tiềm năng được thiết lập khi cạm bẫy được thiết kế và không thể thay đổi. Vì số lượng Vị trí Trúng đòn bổ sung là ngẫu nhiên, có khả năng gây ra ít sát thương hơn nhìn chung.
+Sát thương có thể ảnh hưởng đến nhiều Vị Trí Trúng Đòn ngẫu nhiên, với mỗi vị trí bổ sung sẽ giảm sát thương đi một cấp trên bảng Giới Hạn Sát Thương của Bẫy Chết Người. Ví dụ, một người thiết kế bẫy với kỹ năng 50% có thể thiết kế một cái bẫy gây 1d10 sát thương cho một vị trí duy nhất, 1d8 sát thương cho 1d2 Vị Trí Trúng Đòn, 1d6 sát thương cho 1d3 vị trí, vân vân. Số lượng vị trí tiềm năng được đặt khi bẫy được thiết kế và không thể thay đổi. Vì số lượng Vị Trí Trúng Đòn bổ sung là ngẫu nhiên, nên có khả năng tổng sát thương gây ra sẽ ít hơn.
 
-### Các Cạm bẫy Mẫu
+### Bẫy Mẫu
 
-#### Hố bẫy (Pitfall)
+#### Hố Bẫy
 
-Hố bẫy là một loại cạm bẫy nguyên mẫu được sử dụng bởi mọi nền văn hóa. Nó có thể ở dạng một cái hố đào đơn giản, được phủ bởi cành cây và lá, hoặc đạt đến sự tinh vi của các hố chứa có tường đá bên dưới các sàn giả có bản lề, được đối trọng để quay trở lại vị trí cũ sau khi nạn nhân rơi xuống.
+Hố bẫy là một loại bẫy nguyên mẫu được sử dụng bởi mọi nền văn hóa. Nó có thể ở dạng một cái hố đào đơn giản, được che phủ bởi cành cây và lá, hoặc đạt đến độ tinh vi của các bể chứa có tường đá bên dưới các sàn giả có bản lề, được đối trọng để tự động đóng lại sau khi nạn nhân rơi vào.
 
-Hố bẫy không nhất thiết phải đặc biệt sâu. Nếu được thiết kế để bắt giữ, hình dạng giống như một chiếc vò hai quai hoặc bẫy tôm hùm đơn giản sẽ ngăn cản việc trốn thoát bằng cách leo lên, cũng như các bức tường được đục đẽo nhẵn hoặc làm từ vật liệu vụn dễ vỡ dưới trọng lượng của nhân vật. Các hố được thiết kế để giết người thường lót đáy bằng hàng chục cái cọc, được cắm dày đặc để một nhân vật rơi xuống sẽ chắc chắn bị đâm xuyên qua. Các tùy chọn khác có thể bao gồm lấp đầy đáy bằng một loại axit yếu, nước đủ sâu để chết đuối, hoặc lũ chuột đói.
+Hố bẫy không cần phải quá sâu. Nếu được thiết kế để bắt giữ, hình dạng giống như một cái bình amphora hoặc bẫy tôm hùm đơn giản sẽ ngăn cản việc trốn thoát bằng cách leo trèo, tương tự như các bức tường được đục đẽo nhẵn hoặc làm từ vật liệu dễ vỡ vụn dưới sức nặng của nhân vật. Những cái hố được dự định để giết người thường lót sàn bằng hàng chục cọc, được cắm dày đặc để một nhân vật rơi xuống chắc chắn sẽ bị xuyên thấu. Các tùy chọn khác có thể bao gồm đổ đầy đáy hố bằng một loại axit yếu, nước đủ sâu để chết đuối, hoặc lũ chuột đang chết đói.
 
-- **Mục đích:** Bắt giữ hoặc Chết người
-- **Kích hoạt:** Đi ngang qua bề mặt giả bao phủ cái hố
-- **Độ khó:** 60%
-- **Kháng cự:** Hoặc là Evade để nhảy tránh hoặc lượt tung Athletics Khó để nắm lấy mép khi họ rơi xuống.
-- **Hiệu ứng:** Cú rơi xuống hố gây 2d6 sát thương vào một Vị trí Trúng đòn ngẫu nhiên, giáp không bảo vệ được. Các hiệu ứng phụ thuộc vào trí tưởng tượng của Quản trò.
+- **Mục Đích:** Bắt Giữ hoặc Cái Chết
+- **Kích Hoạt:** Đi bộ qua bề mặt giả che phủ cái hố
+- **Độ Khó:** 60%
+- **Kháng Cự:** Hoặc Né Tránh để nhảy ra ngoài hoặc một lần đổ Điền Kinh Khó để nắm lấy mép khi họ rơi xuống.
+- **Hiệu Ứng:** Cú rơi xuống hố gây 2d6 sát thương vào một Vị Trí Trúng Đòn ngẫu nhiên, giáp không bảo vệ được. Các hiệu ứng phụ được để lại cho trí tưởng tượng của Quản trò.#### Bẫy Kim Độc
 
-#### Bẫy Kim độc (Poison Needle Trap)
+Đây là một loại bẫy phổ biến khác được tìm thấy ở khắp mọi nơi, từ căn phòng của nhà vua cho đến một ngôi mộ bị lãng quên. Loại bẫy này thường được đặt trên một chiếc rương nhưng cũng có thể được tìm thấy để bảo vệ các ổ khóa cửa. Trừ khi được mở bằng chìa khóa phù hợp, chiếc bẫy sẽ phóng một cây kim độc nhỏ vào tay bất kỳ ai cố gắng phá khóa.
 
-Đây là một loại cạm bẫy phổ biến khác được tìm thấy ở khắp mọi nơi từ phòng của nhà vua đến một lăng mộ bị lãng quên. Cạm bẫy này thường được đặt trên một cái rương nhưng cũng có thể được tìm thấy để bảo vệ các ổ khóa cửa. Trừ khi được mở bằng chìa khóa thích hợp, cạm bẫy sẽ phóng một cây kim độc nhỏ vào tay của bất kỳ ai cố gắng mở khóa.
-
-- **Mục đích:** Bắt giữ hoặc Chết người
-- **Kích hoạt:** Cố gắng mở khóa vật phẩm bị cài bẫy.
-- **Độ khó:** 60%
-- **Kháng cự:** Endurance
-- **Hiệu ứng:** Khi được kích hoạt, một cây kim độc nhỏ phóng ra và găm vào tay của bất kỳ ai cố gắng mở khóa. Bất kỳ loại chất độc nào cũng có thể được sử dụng để phủ lên cây kim. Quản trò có thể quyết định các chi tiết cụ thể về bất kỳ chất độc nào - được bao phủ chi tiết trong các quy tắc _Classic Fantasy_ chính.
+- **Mục đích:** Bẫy giữ hoặc Gây tử vong
+- **Kích hoạt:** Cố gắng phá khóa của vật phẩm bị đặt bẫy.
+- **Cấp Độ Khó:** 60%
+- **Kháng cự:** Sức Bền
+- **Hiệu ứng:** Khi được kích hoạt, một cây kim độc nhỏ sẽ bật ra và đâm vào tay bất kỳ ai cố gắng phá khóa. Bất kỳ loại thuốc độc nào cũng có thể được dùng để bôi lên kim. Người Dẫn Trò có thể quyết định các chi tiết cụ thể của bất kỳ loại thuốc độc nào - những loại này được trình bày chi tiết trong bộ luật chính của *Classic Fantasy*.
 
 <details>
 
-<summary>* Đính chính Cộng đồng (Community Errata)</summary>
+<summary>* Đính chính từ Cộng đồng</summary>
 
 ---
 
-#### Bẫy Kim độc
+#### Bẫy Kim Độc
 
-_Văn bản gốc bao gồm "Nếu chất độc gây chết người, hãy sử dụng các hiệu ứng được trình bày chi tiết cho Bẫy Khí độc ở trên, tuy nhiên chỉ áp dụng cho người mở khóa không may mắn."_
+_Văn bản gốc bao gồm "Nếu thuốc độc gây tử vong, hãy sử dụng các hiệu ứng được trình bày chi tiết cho Bẫy Khí Độc ở trên, tuy nhiên chỉ áp dụng cho người phá khóa không may mắn."_
 
 _Điều này gây ra vấn đề vì bẫy khí độc không được đề cập trong Classic Fantasy Imperative. Do đó có sự thay đổi ở trên._
 
