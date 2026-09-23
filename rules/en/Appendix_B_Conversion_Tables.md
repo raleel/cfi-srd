@@ -22,7 +22,7 @@ To give _Classic Fantasy Imperative_ a cleaner presentation, make it easier to r
 | 40' | 12m | 8 battlemat squares |
 | 45' | 14m | 9 battlemat squares |
 | 50' | 15m | 10 battlemat squares; typical dragon flight speed |
-| 60' | 18m | 12 battlemat squares; typical Infravision |
+| 60' | 18m | 12 battlemat squares; typical Darkvision |
 | 65' | 20m | 13 battlemat squares |
 | 100' | 30m | 20 battlemat squares |
 | 120' | 36m | |

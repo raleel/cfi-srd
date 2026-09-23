@@ -130,7 +130,7 @@ Beyond Incapacitated, characters cannot act at all. The Fatigue levels – Semi-
 
 Characters recover from Fatigue depending on their Healing Rate. The amount of complete rest needed to recover from each level of accrued Fatigue is equal to the Recovery Period divided by the character's Healing Rate.
 
-Note that the table represents Fatigue recovery for physical exertion. Fatigue recovery can be much faster when recovering from [Asphyxiation](0007_Game_System.md?id=f) or slower if recuperating from [Blood Loss](0007_Game_System.md?id=blood-loss).
+Note that the table represents Fatigue recovery for physical exertion. Fatigue recovery can be much faster when recovering from [Asphyxiation](0007_Game_System.md?id=asphyxiation) or slower if recuperating from [Blood Loss](0007_Game_System.md?id=blood-loss).
 
 ### Fatigue Levels Table
 
@@ -216,18 +216,18 @@ The humanoid Hit Locations table is repeated here for ease of reference.
 | **1d20** | **Hit Location** |
 | :-: | :-- |
 | 1-3 | Right Leg |
-| 4-6 | Left. Leg |
+| 4-6 | Left Leg |
 | 7-9 | Abdomen |
 | 10-12 | Chest |
 | 13-15 | Right Arm |
-| 16-18 | Left. Arm |
+| 16-18 | Left Arm |
 | 19-20 | Head |
 
 Note that some attacks, especially magical ones, or those produced by particular monsters (a red dragon's fiery breath for example), may strike several Hit Locations simultaneously. Individual Hit Locations may be armored, either from worn protection or the natural toughness of the creature's outer surface. This is important when considering Damage and Wound Levels below.
 
 ### Damage and Wound Levels
 
-If an attack strikes successfully, it causes damage according to the damage rating for the weapon (see the table entries for [Melee weapons](0006_Money_and_Equipment.md?id=basic-melee-weapons) and [Ranged weapons](0006_Money_and_Equipment.md?id=basic-ranged-weapons) in the [Money & Equipment](0006_Money_and_Equipment.md?) chapter). A shortsword, for instance, inflicts 1d6 damage.
+If an attack strikes successfully, it causes damage according to the damage rating for the weapon (see the table entries for [Melee weapons](0006_Money_and_Equipment.md?id=basic-melee-weapons) and [Ranged weapons](0006_Money_and_Equipment.md?id=basic-ranged-weapons) in the [Money & Equipment](0006_Money_and_Equipment.md) chapter). A shortsword, for instance, inflicts 1d6 damage.
 
 The rolled damage for the weapon or attack is modified by the certain conditions in the specific following order:
 

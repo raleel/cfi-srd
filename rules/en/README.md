@@ -1,10 +1,10 @@
-# Classic Fantasy Imperative System Resource Document
+# Classic Fantasy Imperative System Reference Document
 
 Version 1.0, September 2023
 
 _Classic Fantasy Imperative_ is an Open, ORC Licensed, version of the _Mythras_ ruleset, focusing on dungeon exploration, high adventure, and tense encounters involving treasure, magic, and deadly foes. _Classic Fantasy Imperative_ emulates the original thrill of the very first roleplaying game in the hobby but approaches it through the lens of the _Mythras_ game system, which is 1d100 (or percentile) based, rather than using a d20.
 
-This document offers a comprehensive, but not exhaustive, set of rules, including character creation, character races and classes, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Classic Fantasy Imperative_ is completely compatible with _Classic Fantasy Imperative_, the _Mythras_ core rules, and _Mythras Imperative_. Plus, it is also compatible with other ORC licensed percentile gaming systems.
+This document offers a comprehensive, but not exhaustive, set of rules, including character creation, character races and classes, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Classic Fantasy_ is completely compatible with _Classic Fantasy Imperative_, the _Mythras_ core rules, and _Mythras Imperative_. Plus, it is also compatible with other ORC licensed percentile gaming systems.
 
 ---
 ## ORC Licensing
@@ -59,7 +59,7 @@ The following are also considered Reserved Material, as follows:
 - _Lorissa of Stormholm_
 - _Miranda Drake_
 - _Mystamyr_
-- _Mystamyr and the Boarderlands_
+- _Mystamyr and the Borderlands_
 - _Rengarth Hightower_
 - _Runewood Forest_
 - _Sorack Blackwolf_
@@ -100,7 +100,7 @@ On some occasions you will be required to divide numbers - typically the rating 
 ---
 ## Dice Used in the Game
 
-_Classic Fantasy Imperative_ uses the standard polyhedral dice set: d4, d6, d8, d10 d12, d20 and d100. Additionally, the following dice are call for:
+_Classic Fantasy Imperative_ uses the standard polyhedral dice set: d4, d6, d8, d10, d12, d20 and d100. Additionally, the following dice are call for:
 
 - **d2:** Roll any die. An odds number equals 1 and evens equals 2. Or flip a coin.
 

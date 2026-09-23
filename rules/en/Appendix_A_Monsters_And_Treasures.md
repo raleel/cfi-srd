@@ -60,7 +60,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | -1d4 |
 | Initiative | +13 |
 | Move | 20' |
-| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Leaper](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
+| Abilities | [Darkvision](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Leaper](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
 | Alignment | NA |
 | Armor | None |
 | Skills | Athletics 40%, Brawn 22%, Endurance 52%, Evade 56%, Perception 50%, Stealth 56%, Swim 58%, Willpower 34% |
@@ -100,7 +100,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | -1d2 |
 | Initiative | +11 |
 | Move | 15' |
-| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Abilities | [Darkvision](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Alignment | Evil 52% |
 | Armor | Chest, abdomen, and head 3 (studded leather), limbs 0 |
 | Skills | Athletics 42%, Brawn 36%, Deceit 49%, Endurance 42%, Evade 58%, Languages (Goblin, Hobgoblin, Kobold, Orcish) 59%, Perception 63%, Ride 55%, Stealth 56%, Unarmed 42%, Willpower 42% |
@@ -181,7 +181,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | -1d4 |
 | Initiative | +13 (14) |
 | Move | 15' |
-| Abilities | [Cold-blooded](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Abilities | [Cold-blooded](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Darkvision](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Alignment | Evil 52%, Hates Everyone 62% |
 | Armor | Chest, abdomen, and head 3 (leather and scaly hide), limbs 1 (scaly hide) |
 | Skills | Athletics 40%, Brawn 31%, Deceit 57%, Endurance 42%, Evade 66%, Languages (Kobold, Goblin and Orcish) 57%, Mechanisms 66%, Perception 64%, Stealth 66%, Unarmed 39%, Willpower 42% |
@@ -223,7 +223,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d2 |
 | Initiative | +10 (14) |
 | Move | 20' |
-| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Abilities | [Darkvision](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Alignment | Evil 52%, Hate Elves and Dwarves 57% |
 | Armor | Chest and abdomen 5 (chain mail), head 8 (steel helm), arms 0, legs 3 (studded leather) |
 | Skills | Athletics 55%, Brawn 48%, Deceit 48%, Endurance 56%, Evade 52%, Languages (Orcish and Common, some can speak Goblin, Hobgoblin, and Ogre) 58%, Perception 52%, Unarmed 55%, Willpower 52% |
@@ -266,7 +266,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d10 |
 | Initiative | +11 |
 | Move | 15' |
-| Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
+| Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=trample) |
 | Alignment | Evil 71%, Bad mannered and quick to anger 48% |
 | Armor | Chest and abdomen 3 (scraps of fur and leather over tough skin), head and limbs 2 (tough skin) |
 | Skills | Athletics 61%, Brawn 88%, Endurance 76%, Evade 52%, Language (Ogre) 57%, Locale 40%, Perception 41%, Survival 59%, Track 58%, Unarmed 61%, Willpower 42% |
@@ -398,7 +398,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Damage Modifier | +1d10 |
 | Initiative | +13 |
 | Move | 20' |
-| Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneration (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Terrifying](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
+| Abilities | [Darkvision](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Regeneration (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Terrifying](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
 | Alignment | Evil 52%, Hate Good Giants 57% |
 | Armor | 3 (Thick, rubbery skin) |
 | Skills | Athletics 68%, Brawn 90%, Endurance 90%, Evade 62%, Languages (Troll) 53%, Locale 48%, Perception 60% (sight and smell), Survival 66%, Track 64%, Willpower 52% |
@@ -510,7 +510,7 @@ The creature has the innate ability to drain temporary Characteristic points fro
 
 The creature does not need to eat frequently. One meal a week is sufficient to keep it healthy and well fed, and gorging itself on a large amount of meat will remove the need to eat for a month. Conversely, when exposed to temperatures below 60 degrees Fahrenheit, its reflexes become muted, suffering a penalty of -6 to Initiative, and the loss of one Combat Action per round. Below 40 degrees Fahrenheit cold-blooded creatures become completely torpid, entering a helpless catatonic state.
 
-#### Dark Vision
+#### Darkvision
 
 Allows the creature to see normally in the complete absence of light.
 

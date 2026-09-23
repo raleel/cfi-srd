@@ -66,7 +66,7 @@ Clerics are proficient with all types of armor (light and heavy), and with all s
 
 ### Rank Structure
 
-All clerics are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, clerics may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Initiate with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Lay Member with the Ability to cast Rank 0 spells, but no other Abilities.
+All clerics are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, clerics may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an additional Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Initiate with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Lay Member with the Ability to cast Rank 0 spells, but no other Abilities.
 
 ##### Cleric Rank Table
 
@@ -530,7 +530,7 @@ A rogue may choose to join a thieves' guild after character creation if the Game
 Because of their diverse nature, rogues possess more skill choices than the standard allotment. However, they do not receive any extra Skill Points.
 
 - **Standard Skills:** Athletics, Combat Skill (Rogue), Deceit, Evade, Insight, Perception, Stealth
-- **Professional Skills:** A rogue automatically receives Lockpicking and Mechanisms, plus two additional skills from the following: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise. At character creation, members of the Thieves' Guild also receive Language (Thieves' Cant) at +40. If they take it later, they do not receive the +40 bonus.
+- **Professional Skills:** A rogue automatically receives Lockpicking and Mechanisms, plus two additional skills from the following: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Sleight, or Streetwise. At character creation, members of the Thieves' Guild also receive Language (Thieves' Cant) at +40. If they take it later, they do not receive the +40 bonus.
 
 #### Rogue Armor and Weapon Proficiency
 
@@ -538,7 +538,7 @@ Rogues are proficient with all types of armor (light and heavy), and with all sh
 
 ### Rank Structure
 
-All rogues are rated by Rank, which is a rating of power and skill. You may choose either the rogue or thief titles, depending on whichever is more relevant to your relationship with the thieves' guild. When a specific degree of mastery is gained in a limited number of Class skills, rogues may increase their Rank, as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Scoundrel or Burglar with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Scamp or Cutpurse with no other Abilities.
+All rogues are rated by Rank, which is a rating of power and skill. You may choose either the rogue or thief titles, depending on whichever is more relevant to your relationship with the thieves' guild. When a specific degree of mastery is gained in a limited number of Class skills, rogues may increase their Rank, as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an additional Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Scoundrel or Burglar with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Scamp or Cutpurse with no other Abilities.
 
 ##### Rogue Rank Table
 

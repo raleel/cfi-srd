@@ -22,7 +22,7 @@ There are certain special cases concerning Success and Failure that should be no
 Criticals and Fumbles represent spectacular successes and failures; those cases where a character has either excelled in his attempt or failed miserably and utterly.
 
 - A **Critical Success** is equal to one-tenth of the skill's value (and this includes skills that receive a modifier – so modified skills may have a greater or lesser chance of a Critical outcome). Round fractions up when calculating a Critical Success's range. For example, if a skill is modified to twice its normal value – from 40% to 80% say, then its Critical range would be a roll of 08 or less.
-- A **Fumble** is roll of 99 or 00. Skills with a value of more than 100% Fumble only on a roll of 00.
+- A **Fumble** is a roll of 99 or 00. Skills with a value of more than 100% Fumble only on a roll of 00.
 
 The precise nature of a Critical or Fumble result is left to the Games Master to determine. The consequences could be wondrous or dire, depending on the circumstances.
 
@@ -58,8 +58,7 @@ Outside of combat, _Classic Fantasy Imperative_ does not provide a definitive li
 
 #### Athletics (STR+DEX)
 
-Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a single roll against the Athletics skill. See the [Movement](0008_Combat.md?id=movement
-) section for more information on climbing, jumping, and running.
+Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skill rolls for any of these activities are handled by a single roll against the Athletics skill. See the [Movement](0008_Combat.md?id=movement) section for more information on climbing, jumping, and running.
 
 #### Boating (STR+CON)
 

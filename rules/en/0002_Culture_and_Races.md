@@ -72,7 +72,7 @@ _\* Humans are not limited in selection of languages during character creation i
 ---
 ### Nomadic
 
-Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift. across the oceans on great floating rafts.
+Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift across the oceans on great floating rafts.
 
 ####  Skills
 
@@ -256,7 +256,7 @@ _\* Either Respectful of nature or Loves nature, not both._
 ---
 ### Half-Elf
 
-Half-elves are the offspring of an elf and a human, granting them a mixture of traits from both parents. Their appearance is closer to their elven heritage; they tend to possess attractive features. Half-elves lose some of the Abilities of elven heritage and do not have the same lucky or gifted nature as humanity; instead, they fall somewhere in-between. Half-elves possess their human parent's wanderlust and the love of nature of their elven heritage. They are also long-lived, reaching ages of around 300 years. In some parts of world, half-elves are regarded with suspicion due to their mixed heritage, but they are generally accepted everywhere elves and humans are, though they tend to receive the greatest amount of bigotry from the elven people.
+Half-elves are the offspring of an elf and a human, granting them a mixture of traits from both parents. Their appearance is closer to their elven heritage; they tend to possess attractive features. Half-elves lose some of the Abilities of elven heritage and do not have the same lucky or gifted nature as humanity; instead, they fall somewhere in-between. Half-elves possess their human parent's wanderlust and the love of nature of their elven heritage. They are also long-lived, reaching ages of around 300 years. In some parts of the world, half-elves are regarded with suspicion due to their mixed heritage, but they are generally accepted everywhere elves and humans are, though they tend to receive the greatest amount of bigotry from the elven people.
 
 #### Culture
 
@@ -286,7 +286,7 @@ Choose from a human culture or from the following elf Passions:
 #### Special Rules
 
 - **Movement** : 20 feet.
-- **Elven Chain** : Elves are adept at casting Arcane Magic spells while wearing elven chain and may cast such spells at one level of difficulty.
+- **Elven Chain** : Half-elves are adept at casting Arcane Magic spells while wearing elven chain and may cast such spells at one level of difficulty.
 - **Literate** : Half-elves are typically able to read and write any language they can speak.
 - **Resistance to Sleep and Charm** : Half-elves find Willpower rolls to resist _Sleep_ and _Charm_ spells one grade easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
 - **Sharp Vision** : Due to their acute visual acuity, half-elves find all Perception rolls to spot something one grade easier.
@@ -295,7 +295,7 @@ Choose from a human culture or from the following elf Passions:
 ---
 ### Half-Orc
 
-Originating in the wilder frontiers of world, where orcs and humans come into conflict, half-orcs are the result of the unlikely union between these two races. Genetically, half-orcs exhibit more orcish traits than human ones, standing taller than a human on average, with large prominent teeth, an extended lower jaw, and greenish skin covered with coarse dark hair. They are warlike by nature and have no interest in the more refined of pursuits. Half-orcs are on poor terms with the other races due to their orcish blood, enmity with the elves and dwarves being the greatest; but given time, a trust can develop even with these unlikely races. Of all the races the half-elves tend to be the most sympathetic, understanding the life of the outcast all too well. Strangely enough, gnomes and halflings tend to be generally accepting of half-orcs, the former because half-orcs tend to be able to take a joke, and the latter due to their curious and accepting natures. Half-orcs have natural lifespans of around 80 years.
+Originating in the wilder frontiers of the world, where orcs and humans come into conflict, half-orcs are the result of the unlikely union between these two races. Genetically, half-orcs exhibit more orcish traits than human ones, standing taller than a human on average, with large prominent teeth, an extended lower jaw, and greenish skin covered with coarse dark hair. They are warlike by nature and have no interest in the more refined of pursuits. Half-orcs are on poor terms with the other races due to their orcish blood, enmity with the elves and dwarves being the greatest; but given time, a trust can develop even with these unlikely races. Of all the races the half-elves tend to be the most sympathetic, understanding the life of the outcast all too well. Strangely enough, gnomes and halflings tend to be generally accepting of half-orcs, the former because half-orcs tend to be able to take a joke, and the latter due to their curious and accepting natures. Half-orcs have natural lifespans of around 80 years.
 
 #### Culture
 
@@ -332,7 +332,7 @@ Choose from a human culture or from the following orc Passions if raised in orci
 ---
 ### Halfling
 
-Peaceful, civilized folk who live a largely agrarian existence, halflings are diminutive humanoids who standing an average of 4'0" to 4'3" tall are shorter than dwarves, but taller than gnomes. Their homes are farms and steads with villages forming close-knit communities. Halflings are the least adventurous of the races and can go largely unnoticed as they pose no kind of threat to anyone.
+Peaceful, civilized folk who live a largely agrarian existence, halflings are diminutive humanoids who, standing an average of 4'0" to 4'3" tall, are shorter than dwarves, but taller than gnomes. Their homes are farms and steads with villages forming close-knit communities. Halflings are the least adventurous of the races and can go largely unnoticed as they pose no kind of threat to anyone.
 
 At first glance halflings might be mistaken for children, but the differences are obvious upon close inspection. Halflings have pointed ears, and skin, hair, and eye colors that run the normal range. They have large, rugged feet that are oversized for the body, and typically quite hairy. Shoes and boots are shunned; the soles of the feet are extremely thick, providing more than adequate protection against rocks and stones.
 

@@ -34,15 +34,15 @@ _\(R\) indicates a reversible spell._
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
+| [Cleanse \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word - Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
 | [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Ignite \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word - Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -709,7 +709,7 @@ When this spell is cast, the magic-user can create one of the following effects:
 | **Cost:** 1/Intensity | **Range:** 30 ft./Intensity |
 | **Area:** 10 ft. Radius | **Resist:** N/A |
 
-This spell creates an area of total magical darkness in a 10-foot radius, blocking normal vision as well as special racial sight like Infravision. All forms of mundane light are nullified by this spell, from sunlight to candlelight. It may be countered by the casting of Light and vice versa; however, other forms of magical light such as Dancing Lights, Fairy Fire, and even the glow given off by Detection spells are nullified by Darkness. A Light spell with an already ongoing Duration has no effect on Darkness and vice versa.
+This spell creates an area of total magical darkness in a 10-foot radius, blocking normal vision as well as special racial sight like Darkvision. All forms of mundane light are nullified by this spell, from sunlight to candlelight. It may be countered by the casting of Light and vice versa; however, other forms of magical light such as Dancing Lights, Fairy Fire, and even the glow given off by Detection spells are nullified by Darkness. A Light spell with an already ongoing Duration has no effect on Darkness and vice versa.
 
 | Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
@@ -930,7 +930,7 @@ Dry removes all extraneous moisture from an object or person, either slicking of
 
 | | |
 | :-- | :-- |
-| **Rank:** Cleric 5, Mage 5 | **Casting Time:** 10 Minutes1 Action |
+| **Rank:** Cleric 5, Mage 5 | **Casting Time:** 1 Action |
 | **Sphere:** Elemental (Earth) | **Duration:** 1 Minute |
 | **Cost:** 3+1/additional Intensity | **Range:** 50 ft./Intensity |
 | **Area:** 10 ft. Radius/Intensity | **Resist:** Evade |
@@ -2191,7 +2191,7 @@ _\* This category includes characters that do not possess a Class._
 Creatures larger than SIZ 60 are unaffected, as are characters of Rank 4 and up. Unlike the Death Spell, Power Word - Kill will kill anything within the above-mentioned limits, however, it is possible to bring victims back to life through the casting of Wish, Raise Dead, Resurrection, and Reincarnation as normal.
 
 ---
-#### Power Word – Stun
+#### Power Word - Stun
 
 (Conjuration)
 
@@ -2513,7 +2513,7 @@ Roll on the following table to determine the new form.
 |  |  |
 | :-- | :-- |
 | **Rank:** Cleric 2, Mage 3 | **Casting Time:** 2 Actions |
-| **Sphere:** ?? | **Duration:** Permanent |
+| **Sphere:** Protection | **Duration:** Permanent |
 | **Cost:** 3, +1/additional Intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** NA |
 
@@ -2558,7 +2558,7 @@ The reverse of this spell, Cause Fear, requires touching the victim in combat. T
 | | |
 | :-- | :-- |
 | **Rank:** Cleric 1, Mage 0 | **Casting Time:** 1 Action |
-| **Sphere:** ?? | **Duration:** 24 Hours |
+| **Sphere:** Creation | **Duration:** 24 Hours |
 | **Cost:** 1 | **Range:** Touch |
 | **Area:** 1 Item | **Resist:** NA |
 
@@ -2828,7 +2828,7 @@ Upon casting this spell, a hammer-like force of spiritual energy appears, which 
 | **Cost:** 3/Intensity | **Range:** 30 ft/Intensity |
 | **Area:** 5 ft. Radius | **Resist:** See Below |
 
-When cast, the cleric may summon a brilliant beam of holy light using a Cast Magic Action at any point during the spell's Duration. The beam is natural sunlight and has a five-foot radius. Those in the Area of Effect must Evade to attempt to shield their eyes or become blinded for 1d3 Minutes. If they fail their Resistance roll, the Sun Ray blinds creatures using Dark Vision for 2d4 Minutes and they lose their Dark Vision capability for 1d4+1 Minutes out to 20 feet beyond the Area of Effect. Creatures that find natural sunlight harmful to their vision are blinded permanently on a failed Resistance roll or blinded for 2d6 Rounds if the roll is successful.
+When cast, the cleric may summon a brilliant beam of holy light using a Cast Magic Action at any point during the spell's Duration. The beam is natural sunlight and has a five-foot radius. Those in the Area of Effect must Evade to attempt to shield their eyes or become blinded for 1d3 Minutes. If they fail their Resistance roll, the Sun Ray blinds creatures using Darkvision for 2d4 Minutes and they lose their Darkvision capability for 1d4+1 Minutes out to 20 feet beyond the Area of Effect. Creatures that find natural sunlight harmful to their vision are blinded permanently on a failed Resistance roll or blinded for 2d6 Rounds if the roll is successful.
 
 Undead in the Area of Effect take 2d6 points of damage to each Hit Location. Armor, natural or otherwise, offers no protection, but magical Armor Points reduce damage as normal. Those within five feet of the edge of the Area of Effect may Evade to take no damage. Undead within 20 feet of the Area of Effect still take 1d6+1 points of damage but suffer no damage on a successful Resistance roll. Undead specifically harmed by sunlight, such as vampires, are destroyed if they fail to Evade. Fungoid creatures as well as all forms of subterranean fungi suffer the same effects as undead but cannot make a Resistance roll.
 
@@ -2882,7 +2882,7 @@ Voice amplifies the recipient's intonation and delivery so that it becomes compe
 | | |
 | :-- | :-- |
 | **Rank:** Cleric 3, Mage 3 | **Casting Time:** 2 Actions |
-| **Sphere:** ?? | **Duration:** See Below |
+| **Sphere:** Combat, Elemental (Fire) | **Duration:** See Below |
 | **Cost:** 3, +1/additional Intensity | **Range:** See Below |
 | **Area:** See Below | **Resist:** See Below |
 
@@ -3008,7 +3008,7 @@ _\*\*\* This requires a Willpower vs. Willpower Resistance roll against that of 
 | **Cost:** 1/Intensity | **Range:** 0 |
 | **Area:** See Below | **Resist:** NA |
 
-This spell creates a small invisible 'eye' that the magic-user may see through for the Duration of the spell. This eye may be moved ahead of the party or sent to look around corners and into rooms having a Movement Rate of 20 ft. per Round (240 ft. per minute), if only scanning for 'obvious' threats or items of interest. This will typically only extend to the floor and lower walls. If attempting to be more thorough (examining the full walls and ceiling as well), its Movement Rate is reduced to 10 ft. per Round (120 feet per minute). The Games Master should feel free to allow Perception rolls on the part of the caster, where necessary, with regards to spotting visual anomalies. The eye is corporeal, unable to pass through solid matter, and possesses normal vision out to 60 ft, and Infravision out to 10 ft. The caster must maintain Concentration on the eye throughout the Duration, or it will remain inert until Concentration is once again established. Any gaze attacks that would normally affect the caster still affect the caster as normal; however, the eye is considered independent of the caster with respect to blindness, darkness spells, and so forth. For the purposes of fitting through small openings, the eye is no bigger than 1 inch, and has a SIZ of 1.
+This spell creates a small invisible 'eye' that the magic-user may see through for the Duration of the spell. This eye may be moved ahead of the party or sent to look around corners and into rooms having a Movement Rate of 20 ft. per Round (240 ft. per minute), if only scanning for 'obvious' threats or items of interest. This will typically only extend to the floor and lower walls. If attempting to be more thorough (examining the full walls and ceiling as well), its Movement Rate is reduced to 10 ft. per Round (120 feet per minute). The Games Master should feel free to allow Perception rolls on the part of the caster, where necessary, with regards to spotting visual anomalies. The eye is corporeal, unable to pass through solid matter, and possesses normal vision out to 60 ft, and Darkvision out to 10 ft. The caster must maintain Concentration on the eye throughout the Duration, or it will remain inert until Concentration is once again established. Any gaze attacks that would normally affect the caster still affect the caster as normal; however, the eye is considered independent of the caster with respect to blindness, darkness spells, and so forth. For the purposes of fitting through small openings, the eye is no bigger than 1 inch, and has a SIZ of 1.
 
 ---
 #### Word of Recall

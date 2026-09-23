@@ -348,7 +348,7 @@ Allows the defender to use a momentary opening to roll back up to their feet.
 
 #### Bash
 
-The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back 5 feet per for every 3 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back 5 feet per for every 5 points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make an Acrobatics skill roll or Athletics roll at Hard difficulty to avoid falling or tripping over.
+The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back 5 feet for every 3 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back 5 feet for every 5 points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make an Acrobatics skill roll or Athletics roll at Hard difficulty to avoid falling or tripping over.
 
 
 #### Bleed
@@ -377,7 +377,7 @@ Permits the character to damage his opponent's weapon as part of an attack or Pa
 
 #### Disarm Opponent
 
-The character knocks, yanks, or twists the opponent's weapon out of his hand. The opponent must make an Opposed Roll of his Combat Style against the character's original roll. If the recipient of the disarm loses, his weapon is flung a distance equal to the roll of the disarmer's Damage Modifier x3 feet. If there is no Damage Modifier, then the weapon drops at the disarmed person's feet. The comparative size of the weapons affects the roll. Each step that the disarming character's weapon is larger increases the difficulty of the opponent's roll by one grade. Conversely, each step the disarming character's weapon is smaller makes the difficulty one grade easier. Disarming works only on creatures of up to twice the attacker's STR.
+The character knocks, yanks, or twists the opponent's weapon out of his hand. The opponent must make an Opposed Roll of his Combat Skill against the character's original roll. If the recipient of the disarm loses, his weapon is flung a distance equal to the roll of the disarmer's Damage Modifier x3 feet. If there is no Damage Modifier, then the weapon drops at the disarmed person's feet. The comparative size of the weapons affects the roll. Each step that the disarming character's weapon is larger increases the difficulty of the opponent's roll by one grade. Conversely, each step the disarming character's weapon is smaller makes the difficulty one grade easier. Disarming works only on creatures of up to twice the attacker's STR.
 
 #### Enhance Parry
 
@@ -553,7 +553,7 @@ A sweep attack is made by applying a single attack roll of the weapon or creatur
 ---
 ## Ranged Combat
 
-Ranged combat incorporates all forms of weaponry which require to be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged weapons can normally only be parried with shields; those without must rely on natural cover or use Evade to dive out of the line of fire. Thus, against lightly armored foes, Ranged weapons can be formidable deterrents.
+Ranged combat incorporates all forms of weaponry which must be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged weapons can normally only be parried with shields; those without must rely on natural cover or use Evade to dive out of the line of fire. Thus, against lightly armored foes, Ranged weapons can be formidable deterrents.
 
 Each Ranged weapon has several specific attributes which determine its effectiveness. The ones which have a key bearing on combat are as follows:
 
@@ -593,11 +593,11 @@ _\*\*\* Penalty can be negated if using a crossbow from a prepared position._
 
 ### Aiming
 
-By spending additional time aiming a Ranged weapon, a character can potentially increase his chance of hitting. Aiming requires an entire Combat Round steadying the weapon and waiting for the best opportunity to release, for example withholding a bowshot for a momentary lull in the wind or until a target moves between two obstructions. By aiming, the character may reduce the difficulty of a Ranged or Situational Modifier by one grade. Additional Rounds spend aiming grant no further advantage.
+By spending additional time aiming a Ranged weapon, a character can potentially increase his chance of hitting. Aiming requires an entire Combat Round steadying the weapon and waiting for the best opportunity to release, for example withholding a bowshot for a momentary lull in the wind or until a target moves between two obstructions. By aiming, the character may reduce the difficulty of a Ranged or Situational Modifier by one grade. Additional Rounds spent aiming grant no further advantage.
 
 ### Firing into a Crowd
 
-Firing into the swirling ebb and flow of a melee can be a risky business, thus there is always a risk of accidentally striking someone other than the original target being aimed at. When firing at a specific target at the edge of a crowd or melee, the attack suffers a Difficulty Grade of Hard. If trying to fire through it should be raised to Formidable. Aiming is still permitted to help mitigate the danger.
+Firing into the swirling ebb and flow of a melee can be a risky business, thus there is always a risk of accidentally striking someone other than the original target being aimed at. When firing at a specific target at the edge of a crowd or melee, the attack suffers a Difficulty Grade of Hard. If trying to fire into the melee itself, the difficulty should be raised to Formidable. Aiming is still permitted to help mitigate the danger.
 
 A sharpshooter who passes his attack roll despite the difficulty penalty has aimed true and will hit his intended target. If, however, the sharpshooter Fails the roll, but would have succeeded if not for the 'firing into a crowd' penalty, then an adjacent victim is struck instead (who is free to Evade or Parry as normal).
 

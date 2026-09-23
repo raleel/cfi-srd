@@ -170,7 +170,7 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 
 #### Initiative
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
+The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
@@ -281,7 +281,7 @@ _\* Includes a static bonus of +40% for both Customs and the character's Native 
 ---
 ## Step 5: Race/Culture
 
-In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [Chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
+In _Classic Fantasy Imperative_, players may typically choose from one of seven races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of four cultural backgrounds: Barbarian, Civilized, Nomadic, or Primitive. For humans, culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [Chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
 
 All characters have an Alignment, which consists of one Ethical and one Moral Code, as well as two or three Passions. Some will have an Oath to a religious order, guild, or organization. Each Class write-up notes any required Alignment or Oaths. Before continuing, look up your race in [Chapter 2](0002_Culture_and_Races.md) and note the suggested Alignment and Passions, and check the [Classes](0003_Classes.md) section and see if there are any Alignment or Oath requirements. See [Chapter 4, Alignment & Passions](0004_Alignment_and_Passions.md) to determine any specifics regarding your Alignment, Passions, and Oaths, if any.
 
@@ -348,7 +348,7 @@ Choose a Class Quick Pick for an average selection of skills useful to the Class
 | Cleric | Combat Skill (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (deity) +15; Lore (Religion) +5 and one of the following at +5: Language (any), Lore (any), or Oratory |
 | Fighter | Athletics +10; Boating or Ride +5; Brawn +15; Combat Skill (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; and two of the following at +5: Gambling, Survival or Navigation |
 | Magic-User | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Language (any) +5; Language (any) or Lore (any) +5; Lore (Alchemy) +10 |
-| Rogue | Athletics +15; Combat Skill (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Language (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; and two of the following at +5: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise |
+| Rogue | Athletics +15; Combat Skill (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Language (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; and two of the following at +5: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Sleight, or Streetwise |
 
 _\* Acquired at the Base Level._
 

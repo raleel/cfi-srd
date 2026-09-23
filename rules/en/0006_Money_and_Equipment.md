@@ -97,7 +97,7 @@ All weapons are governed by a series of Characteristics which are as follows:
 | Mace, heavy\*\* | 2H | 1d8+2 | M | Bash, Stun Location | 6/10 | — | 20GP |
 | Morning star | 1H | 2d4 | M | Bash, Stun Location | 4/10 | — | 15GP |
 | Quarterstaff\*\* | 2H | 1d8 | M | Stun Location | 4/8 | — | 2GP |
-| Shortspear | 1H | 1d8+1 | M | Impale | 4/5 | Throw, Set | 2GP |
+| Shortspear | 1H | 1d8+1 | M | Impale | 4/5 | Thrown, Set | 2GP |
 | Sickle | 1H | 1d6 | M | Bleed, Impale | 3/8 | — | 7GP |
 
 _\* Counts as ½ of a Thing with regards to ENC_
@@ -190,7 +190,7 @@ Ranged weapons have similar characteristics to Melee weapons, although there are
 | Crossbow, light | 1d8 | N | L | 60/300/600 | 3 | Impale | S | 4/5 | 15GP |
 | Dagger\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 4/6 | 3GP |
 | Dart\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 2/1 | 1GP |
-| Short Spear | 1d8 | Y | L | 30/45/90 | — | Impale | M | 4/5 | 2GP |
+| Shortspear | 1d8 | Y | L | 30/45/90 | — | Impale | M | 4/5 | 2GP |
 | Sling\* | 1d8 | N | L | 30/450/900 | 3 | Stun Location | — | 1/2 | 5SP |
 | Stone or Rock | 1d3 | Y | S | 15/75/150 | — | Stun Location | — | — | — |
 
@@ -217,7 +217,7 @@ _\*\*\* Counts as 2 'Things' with regards to ENC, has the Dwarf and Repeating tr
 
 ### Ranged Weapon Ammunition
 
-Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bolts, darts, and bullets can be made by anyone with the appropriate craft. skill, for example Craft. (Fletcher) for arrows, if the appropriate raw materials and a suitable work area or workshop are available for the task. All ammunition is sold in quantities totaling 1 'Thing.'
+Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bolts, darts, and bullets can be made by anyone with the appropriate craft skill, for example Craft (Fletcher) for arrows, if the appropriate raw materials and a suitable work area or workshop are available for the task. All ammunition is sold in quantities totaling 1 'Thing.'
 
 ##### Ranged Weapon Ammunition
 

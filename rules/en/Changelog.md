@@ -14,7 +14,8 @@
 
 ---
 
-*23th Oct 23*
+## V0.2.0
+*23rd Oct 23*
 
 ### Features
 
@@ -57,7 +58,7 @@
 
 ### Features
 
-- Added Light/Dark mode toggle fucnitonality (From )
+- Added Light/Dark mode toggle functionality
 - Improved Navigation: Hamburger moved to top left on screen (from bottom left)
 - Improved readability: Added Open Sans & Orbitron Fonts
 
