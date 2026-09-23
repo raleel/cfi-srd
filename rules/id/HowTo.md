@@ -1,12 +1,12 @@
 # Prasyarat
 
-1. Pemahaman dasar tentang [bahasa markdown](https://www.markdownguide.org/basic-syntax/).
+1. Pemahaman dasar mengenai [bahasa markdown](https://www.markdownguide.org/basic-syntax/).
 
 2. Anda perlu membuat akun [github](https://github.com/) gratis jika belum memilikinya. Disarankan untuk menggunakan nama RPG Anda karena ini akan menjadi bagian dari URL yang digunakan orang untuk mengakses SRD Anda. 
 
-3. Anda bisa melakukan seluruh proses ini melalui browser tanpa perlu tahu git. Meskipun mempelajari github desktop akan memungkinkan Anda untuk menguji perubahan apa pun secara lokal sebelum menerbitkannya agar dilihat dunia.
+3. Anda dapat melakukan seluruh proses ini melalui peramban tanpa harus mengetahui git. Meskipun mempelajari github desktop akan memungkinkan Anda untuk menguji perubahan apa pun secara lokal sebelum menerbitkannya secara langsung untuk dilihat dunia.
 
-> Jika Anda memiliki nama domain yang terdaftar, Anda bisa menggunakannya dengan proses ini untuk membuat SRD seperti yang saya miliki https://srd.7thextinctionrpg.com
+> Jika Anda memiliki nama domain yang terdaftar, Anda dapat menggunakannya dengan proses ini untuk membuat SRD seperti yang saya miliki https://srd.7thextinctionrpg.com
 
 # Prosesnya
 
@@ -14,7 +14,7 @@
 
 1. Masuk ke Github
 
-2. Navigasikan ke templat publik https://github.com/7thExtinctionrpg/RPG_SRD_Template
+2. Arahkan ke templat publik https://github.com/7thExtinctionrpg/RPG_SRD_Template
 
 3. Klik "Use this template"
 
@@ -30,37 +30,37 @@
 
 7. Pilih 'Create repository'
 
-Dibutuhkan 5-30 detik untuk menyalin templat tersebut, setelah itu Anda akan memiliki salinan sendiri.
+Dibutuhkan waktu 5-30 detik untuk menyalin templat, kemudian Anda akan memiliki salinan milik Anda sendiri.
 
-8. Pastikan Anda memiliki file ".nojekyll", ini adalah file kosong yang diperlukan saat menhosting situs web di Github agar SRD ditampilkan dengan benar. *(Memberitahu GitHub Pages untuk tidak menjalankan file yang diterbitkan melalui Jekyll).*
+8. Pastikan Anda memiliki berkas ".nojekyll", ini adalah berkas kosong yang diperlukan saat menghosting situs web di Github, jika tidak, SRD tidak akan ditampilkan dengan benar. *(Memberitahu GitHub Pages untuk tidak menjalankan berkas yang diterbitkan melalui Jekyll).*
 
 
 ## Menambahkan Konten Anda
 
-### File *.md
+### Berkas *.md
 
-File .md adalah file markdown, Markdown adalah bahasa markup ringan yang bisa Anda gunakan untuk menambahkan elemen pemformatan ke dokumen teks biasa. Tergantung pada ukuran konten Anda, Anda bisa menempatkan semua informasi game Anda dalam satu file *.md, atau seperti yang saya lakukan di [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) membuat file terpisah untuk setiap bab. "sample.md" menyediakan beberapa contoh pemformatan. 
+Berkas .md adalah berkas markdown, Markdown adalah bahasa markup ringan yang dapat Anda gunakan untuk menambahkan elemen pemformatan ke dokumen teks biasa. Tergantung pada ukuran konten Anda, Anda dapat menempatkan semua informasi game Anda dalam satu berkas *.md, atau seperti yang saya lakukan di [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), buat berkas terpisah untuk setiap bab. "sample.md" menyediakan beberapa contoh pemformatan. 
 
-Bahasa Markdown sangat mudah dipelajari, gunakan tautan yang disediakan pada poin 2 di bawah Prasyarat di atas untuk daftar lengkap sintaksnya. 
+Bahasa Markdown sangat mudah dipelajari, gunakan tautan yang disediakan pada poin 2 di bawah Prasyarat di atas untuk daftar sintaks lengkap. 
 
 ### _Sidebar.md
 
-Ini adalah menu Anda, panel navigasi di sisi kiri situs web. Setelah Anda menambahkan file markdown ke repositori Anda, Anda perlu menambahkan filenya di sini agar isinya disertakan. Ikuti pemformatan yang sudah ada.
+Ini adalah menu Anda, panel navigasi di sisi kiri situs web. Setelah Anda menambahkan berkas markdown ke repositori Anda, Anda perlu menambahkan berkas tersebut di sini agar isinya disertakan. Ikuti pemformatan yang ada.
 
 
-## Mengaktifkan Github Pages untuk Mengubah Repositori Menjadi Situs Web
+## Mengaktifkan Github Pages untuk Mengubah Repositori menjadi Situs Web
 
 1. Di repositori Anda, klik 'Settings'
 
 ![Website-Step1](/_media/Website-Step1.png)
 
-2. Pilih 'Pages' di menu sebelah kiri
+2. Pilih 'Pages' pada menu sisi kiri
 
 ![Website-Step2](/_media/Website-Step2.png)
 
-3. Jika Anda belum membuat repositori 'public', Anda memiliki dua pilihan
-    a. Jadikan repositori publik yang kemudian akan memungkinkan Anda menggunakan Github pages untuk menghosting Situs Web SRD Anda secara gratis
-    b. Tingkatkan akun Github Anda (pada saat penulisan ini biayanya $4 per bulan atau biaya tahunan $48)
+3. Jika Anda belum menjadikan repositori 'public', Anda memiliki dua pilihan
+    a. Jadikan repositori publik yang kemudian memungkinkan Anda menggunakan Github pages untuk menghosting Situs Web SRD Anda secara gratis
+    b. Tingkatkan akun Github Anda (pada saat penulisan ini, biayanya $4 sebulan atau biaya tahunan $48)
 
 4. Di bawah 'Branch' pilih 'main' dan klik save
 
@@ -73,9 +73,9 @@ Ini adalah menu Anda, panel navigasi di sisi kiri situs web. Setelah Anda menamb
 
 ## Mengubah Font
 
-1. Edit file /_assets/Gaya.css 
+1. Edit berkas /_assets/Gaya.css 
 
-2. Di bawah 'bagian body' Anda akan menemukan siteFont & headingFont
+2. Di bawah 'body section', Anda akan menemukan siteFont & headingFont
 
 3. Ubah ini menjadi font yang ingin Anda gunakan
 
@@ -84,17 +84,17 @@ Ini adalah menu Anda, panel navigasi di sisi kiri situs web. Setelah Anda menamb
 
 ### Fontawesome
 
-Gunakan Fontawesome untuk mendapatkan ikon gratis dan ikon animasi. Pengguna yang berlangganan dapat menggunakan Pro Icons
+Gunakan Fontawesome untuk mendapatkan ikon gratis dan ikon animasi. Pengguna berlangganan dapat menggunakan Pro Icons
 
 1. Temukan ikon di [Fontawesome](https://fontawesome.com/icons)
-2. Pilih ikonnya
-3. Di jendela pop-up, di bawah tab HTML salin semua yang ada di antara " "
+2. Pilih ikon tersebut
+3. Di jendela pop-up, di bawah tab HTML, salin semua yang ada di antara " "
 
 ```EXAMPLE
 <i Kelas="fa-solid fa-dice-d20"></i>
 ```
 
-4. Letakkan teks yang disalin di antara `:` tanpa spasi
+4. Tempatkan teks yang disalin di antara `:` tanpa spasi
 
 ```EXAMPLE
 fa-solid fa-dice-d20
@@ -102,10 +102,10 @@ fa-solid fa-dice-d20
 
 ### Material Icons
 
-Gunakan Material Icons untuk lebih banyak ikon gratis
+Gunakan Material Icons untuk mendapatkan lebih banyak ikon gratis
 
 1. Temukan ikon di [Material Icons](https://fonts.google.com/icons)
-2. Salin & masukkan tautan span web langsung ke dalam file markdown Anda
+2. Salin & masukkan tautan web span langsung ke dalam berkas markdown Anda
 
 ```markup
 <span Kelas="material-icons">face</span>
