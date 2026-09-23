@@ -1,370 +1,368 @@
-# Chương 5: Kỹ năng
+# Chương 5: Kỹ Năng
 
-Kỹ năng được chia thành hai loại: Tiêu chuẩn và Chuyên môn. Tất cả các nhân vật đều có cùng một bộ Kỹ năng Tiêu chuẩn. Kỹ năng Chuyên môn khác biệt giữa từng cá nhân và phản ánh chuyên môn được phát triển trong sự nghiệp và, ở một mức độ nào đó, là văn hóa của họ. Mặc dù có những khác biệt này, Kỹ năng Tiêu chuẩn và Chuyên môn hoạt động theo cùng một cách.
+Kỹ năng được chia thành hai loại: Tiêu Chuẩn và Chuyên Nghiệp. Tất cả Nhân Vật đều có cùng một bộ Kỹ Năng Tiêu Chuẩn. Kỹ Năng Chuyên Nghiệp khác nhau giữa các Nhân Vật và phản ánh kiến thức chuyên môn được phát triển trong sự nghiệp và, ở một mức độ nào đó, là văn hóa của họ. Mặc dù có những điểm khác biệt này, Kỹ Năng Tiêu Chuẩn và Chuyên Nghiệp hoạt động theo cùng một cách.
 
 ---
-## Cách thức hoạt động của Kỹ năng
+## Cách Thức Hoạt Động Của Kỹ Năng
 
-Một kỹ năng có Giá trị Cơ bản được xây dựng dựa trên hai Đặc điểm; hoặc một Đặc điểm nhân với hai. Không có giới hạn trên cho giá trị của một kỹ năng; nó có thể vượt quá 100 và trong khi chơi, các nhân vật có thể thấy kỹ năng của mình đạt đến những tầm cao như vậy.
+Một kỹ năng có Giá Trị Cơ Bản dựa trên hai Chỉ Số; hoặc một Chỉ Số nhân với hai. Không có giới hạn tối đa cho giá trị của một kỹ năng; nó có thể vượt quá 100 và, trong khi chơi, các Nhân Vật có thể mong đợi thấy các kỹ năng của mình đạt đến những tầm cao đó.
 
-Bất cứ khi nào một nhân vật được yêu cầu giải quyết một hình thức kiểm tra, thử thách hoặc khả năng chuyên môn nào đó, 1d100 sẽ được tung và so sánh với giá trị của kỹ năng đó:
+Bất cứ khi nào một Nhân Vật được yêu cầu giải quyết một hình thức kiểm tra, thử thách hoặc khả năng chuyên môn nào đó, 1d100 sẽ được đổ và so sánh với giá trị của kỹ năng đó:
 
-- Bằng hoặc thấp hơn giá trị kỹ năng biểu thị một Thành công.
-- Lớn hơn giá trị kỹ năng biểu thị một Thất bại.
+- Bằng hoặc nhỏ hơn giá trị kỹ năng biểu thị một sự Thành Công.
+- Lớn hơn giá trị kỹ năng biểu thị một sự Thất Bại.
 
-Có một số trường hợp đặc biệt liên quan đến Thành công và Thất bại cần lưu ý.
+Có một số trường hợp đặc biệt liên quan đến Thành Công và Thất Bại cần được lưu ý.
 
-- Mọi kết quả tung từ 01-05 luôn là một Thành công.
-- Mọi kết quả tung từ 96-00 luôn là một Thất bại, bất kể giá trị kỹ năng cao đến đâu.
+- Bất kỳ kết quả đổ xúc xắc nào từ 01-05 đều luôn là Thành Công.
+- Bất kỳ kết quả đổ xúc xắc nào từ 96-00 đều luôn là Thất Bại, bất kể giá trị của kỹ năng cao đến mức nào.
 
-#### Chí mạng và Sai lầm (Criticals và Fumbles)
+#### Đòn Chí Mạng và Thất Bại Thảm Hại
 
-Chí mạng và Sai lầm đại diện cho những thành công và thất bại ngoạn mục; những trường hợp mà một nhân vật hoặc đã xuất sắc trong nỗ lực của mình hoặc thất bại một cách thảm hại và hoàn toàn.
+Đòn Chí Mạng và Thất Bại Thảm Hại đại diện cho những thành công và thất bại ngoạn mục; những trường hợp mà một Nhân Vật đã vượt trội trong nỗ lực của mình hoặc thất bại một cách thảm hại và hoàn toàn.
 
-- Một **Thành công Chí mạng** bằng một phần mười giá trị kỹ năng (và điều này bao gồm các kỹ năng nhận được sửa đổi – vì vậy các kỹ năng đã được sửa đổi có thể có cơ hội xảy ra Chí mạng cao hơn hoặc thấp hơn). Làm tròn các phân số lên khi tính phạm vi Thành công Chí mạng. Ví dụ, nếu một kỹ năng được sửa đổi thành gấp đôi giá trị bình thường – giả sử từ 40% lên 80%, thì phạm vi Chí mạng của nó sẽ là kết quả tung từ 08 trở xuống.
-- Một **Sai lầm** là kết quả tung 99 hoặc 00. Các kỹ năng có giá trị hơn 100% chỉ bị Sai lầm khi tung kết quả 00.
+- Một **Thành Công Chí Mạng** bằng một phần mười giá trị của kỹ năng (và điều này bao gồm cả các kỹ năng nhận được hệ số – vì vậy các kỹ năng đã được điều chỉnh có thể có cơ hội xảy ra kết quả Chí Mạng cao hơn hoặc thấp hơn). Làm tròn lên các phân số khi tính phạm vi của một Thành Công Chí Mạng. Ví dụ, nếu một kỹ năng được điều chỉnh thành gấp đôi giá trị bình thường – giả sử từ 40% lên 80%, thì phạm vi Chí Mạng của nó sẽ là kết quả đổ xúc xắc từ 08 trở xuống.
+- Một **Thất Bại Thảm Hại** là kết quả đổ xúc xắc 99 hoặc 00. Các kỹ năng có giá trị hơn 100% chỉ Thất Bại Thảm Hại khi đổ ra 00.
 
-Bản chất chính xác của kết quả Chí mạng hoặc Sai lầm được để cho Người quản trò (Games Master) quyết định. Hậu quả có thể rất kỳ diệu hoặc tồi tệ, tùy thuộc vào hoàn cảnh.
+Bản chất chính xác của một kết quả Chí Mạng hoặc Thất Bại Thảm Hại được để cho Người Dẫn Trò quyết định. Hậu quả có thể rất tuyệt vời hoặc tồi tệ, tùy thuộc vào hoàn cảnh.
 
-#### Thành công Tự động
+#### Thành Công Tự Động
 
-Sẽ có một số dịp mà việc tung xúc xắc cho một kỹ năng cụ thể là không cần thiết – hoặc vì nhiệm vụ trước mắt dễ dàng hoàn thành, hoặc vì với đủ thời gian và sự tập trung, thành công là điều được đảm bảo. Cưỡi ngựa chạy nước kiệu nhẹ nhàng trên một đồng cỏ mở là một ví dụ về Thành công Tự động, nơi mà việc chỉ cần có kỹ năng trong hoạt động đó có nghĩa là các hành động đơn giản không yêu cầu bất kỳ lần tung kỹ năng nào để giải quyết. Một thợ thủ công chạm khắc một miếng gỗ thành chân ghế là một ví dụ khác mà việc tung kỹ năng là không cần thiết; cần có thời gian để hoàn thành, nhưng người thợ thủ công biết cách thực hiện công việc và nếu không vội vàng, thành công là điều chắc chắn. Một kẻ trộm, không bị quấy rầy, với một bộ dụng cụ mở khóa, có thể mở thành công chiếc khóa đơn giản của một rương kho báu nếu có đủ thời gian để làm như vậy.
+Sẽ có một số dịp mà việc đổ xúc xắc cho một kỹ năng cụ thể là không cần thiết – hoặc vì nhiệm vụ hiện tại dễ dàng hoàn thành, hoặc vì, với đủ thời gian và sự tập trung, thành công là được đảm bảo. Cưỡi ngựa phi nước đại nhẹ nhàng băng qua một đồng cỏ là một ví dụ về Thành Công Tự Động, nơi việc đơn giản là có kỹ năng trong hoạt động đó có nghĩa là các hành động thẳng thắn không yêu cầu bất kỳ lần đổ xúc xắc kỹ năng nào để giải quyết chúng. Một thợ thủ công đẽo một miếng gỗ thành chân ghế là một ví dụ khác mà việc đổ xúc xắc kỹ năng là không cần thiết; cần có thời gian để hoàn thành, nhưng người thợ thủ công biết cách thực hiện công việc và, nếu không vội vàng, thành công là điều chắc chắn. Một tên trộm, không bị quấy rầy, với một bộ dụng cụ mở khóa, có thể mở khóa thành công chiếc ổ khóa đơn giản của một rương kho báu nếu có đủ thời gian để làm như vậy.
 
-#### Sửa đổi Kỹ năng
+#### Điều Chỉnh Kỹ Năng
 
-Có một số dịp mà việc tung kỹ năng là bắt buộc, nhưng cơ hội thành công cần được điều chỉnh để phản ánh các điều kiện hiện tại. Ví dụ, việc chạy trốn khỏi những tên cướp có thể yêu cầu một lần tung kỹ năng Điền kinh (Athletics). Nhưng nếu nhân vật đang chạy trốn trong bóng tối hoặc qua bụi rậm nguy hiểm thì sao? Trong trường hợp đó, Người quản trò có thể yêu cầu sửa đổi kỹ năng của nhân vật để phản ánh hoàn cảnh.
+Có một số dịp mà việc đổ xúc xắc kỹ năng là cần thiết, nhưng cơ hội thành công cần được điều chỉnh để phản ánh các điều kiện hiện tại. Ví dụ, chạy trốn bọn cướp có thể yêu cầu một lần đổ Điền Kinh. Nhưng nếu Nhân Vật đang chạy trốn trong bóng tối hoặc qua những bụi rậm nguy hiểm thì sao? Trong trường hợp đó, Người Dẫn Trò có thể yêu cầu điều chỉnh kỹ năng của Nhân Vật để phản ánh hoàn cảnh.
 
-_Classic Fantasy Imperative_ sử dụng một loạt các cấp độ để xác định cách sửa đổi kỹ năng. Các cấp độ này như sau. Lưu ý rằng có hai loại sửa đổi được cung cấp: phương pháp đầu tiên là phương pháp mặc định, bao gồm một chút toán học nhưng mang lại khả năng mô phỏng tốt hơn để mở rộng quy mô, đặc biệt là khi các tỷ lệ phần trăm kỹ năng cao hơn. Sửa đổi Kỹ năng Đơn giản hóa là phép cộng hoặc trừ đơn giản và dễ thực hiện hơn. Hãy chọn phương pháp phù hợp nhất với trò chơi nhưng đảm bảo rằng cùng một hệ thống sửa đổi được áp dụng nhất quán.
+_Classic Fantasy Imperative_ sử dụng một loạt các cấp độ để xác định cách điều chỉnh một kỹ năng. Chúng như sau. Lưu ý rằng hai loại hệ số được cung cấp: phương pháp đầu tiên là phương pháp mặc định, và bao gồm một chút toán học, nhưng cung cấp mô phỏng tốt hơn để mở rộng quy mô, đặc biệt là khi các tỷ lệ phần trăm kỹ năng cao hơn. Hệ Số Kỹ Năng Đơn Giản là một phép cộng hoặc trừ đơn giản, và dễ thực hiện hơn. Hãy chọn phương pháp nào phù hợp nhất với trò chơi nhưng đảm bảo rằng cùng một hệ thống sửa đổi được áp dụng một cách nhất quán.
 
-##### Bảng Cấp độ Khó khăn
+##### Bảng Cấp Độ Khó
 
-| Cấp độ Khó khăn | Sửa đổi Kỹ năng | Sửa đổi Kỹ năng Đơn giản hóa |
+| Cấp Độ Khó | Hệ Số Kỹ Năng | Hệ Số Kỹ Năng Đơn Giản |
 | :-- | :-- | :-- |
-| Tự động | Không cần tung | Không cần tung |
-| Rất dễ | Gấp đôi giá trị kỹ năng | +40% |
+| Tự Động | Không cần đổ xúc xắc | Không cần đổ xúc xắc |
+| Very Dễ | Gấp đôi giá trị kỹ năng | +40% |
 | Dễ | Thêm một nửa giá trị kỹ năng | +20% |
-| Tiêu chuẩn | Không điều chỉnh | Không |
-| Khó | Giảm một phần ba giá trị kỹ năng | -20% |
-| Đáng gờm | Giảm một nửa giá trị kỹ năng | -40% |
-| Phi thường | Giảm giá trị kỹ năng xuống một phần năm | -80% |
-| Tuyệt vọng | Không thể thực hiện | Không thể thực hiện |
+| Tiêu Chuẩn | Không điều chỉnh | None |
+| Khó | Giảm giá trị kỹ năng một phần ba | -20% |
+| Ghê Gớm | Giảm giá trị kỹ năng xuống một nửa | -40% |
+| Phi Thường | Giảm giá trị kỹ năng xuống một phần năm | -80% |
+| Vô Vọng | Không thể thực hiện nỗ lực | Không thể thực hiện nỗ lực |
 
-Khi một nhân vật đã phải chịu hình phạt từ các tình huống khác, Cấp độ Khó khăn khó nhất sẽ được ưu tiên.
+Khi một Nhân Vật đã phải chịu hình phạt từ các hoàn cảnh khác, Cấp Độ Khó cao nhất sẽ được ưu tiên.
 
-Bên ngoài chiến đấu, _Classic Fantasy Imperative_ không cung cấp một danh sách xác định về các tình huống và thử thách có thể dẫn đến việc sửa đổi kỹ năng. Loại sửa đổi nào được yêu cầu cho bất kỳ kỹ năng hoặc ngữ cảnh cụ thể nào cuối cùng đều tùy thuộc vào quyết định của Người quản trò, dựa trên khả năng của nhân vật, nhận thức của người đó về mức độ khó của tình huống và căng thẳng kịch tính tại thời điểm đó.
-
----
-## Kỹ năng Tiêu chuẩn
-
-#### Điền kinh (Athletics) (STR+DEX)
-
-Điền kinh bao gồm một loạt các hoạt động thể chất, bao gồm leo trèo, nhảy, ném và chạy. Các lần tung kỹ năng cho bất kỳ hoạt động nào trong số này đều được xử lý bằng một lần tung duy nhất dựa trên kỹ năng Điền kinh. Xem phần [Di chuyển](0008_Combat.md?id=movement) để biết thêm thông tin về leo trèo, nhảy và chạy.
-
-#### Chèo thuyền (Boating) (STR+CON)
-
-Kỹ năng Chèo thuyền bao gồm việc vận hành các loại thuyền nhỏ trên sông, hồ và gần bờ. Các loại tàu thuyền phù hợp thường là thuyền, ca nô hoặc bè, di chuyển quãng đường ngắn và không phù hợp với sự khắc nghiệt của biển khơi. Hầu hết được đẩy bằng mái chèo, sào hoặc buồm đơn giản; hoặc thậm chí có thể được kéo bởi động vật. Các con tàu có thủy thủ đoàn lớn hoặc được thiết kế cho những chuyến đi dài trên biển được bao gồm trong Kỹ năng Chuyên môn [Đi biển](0005_Skills.md?id=seamanship-intcon).
-
-#### Sức mạnh thể chất (Brawn) (STR+SIZ)
-
-Sức mạnh thể chất là việc áp dụng hiệu quả kỹ thuật khi sử dụng lực vật lý thô. Kỹ năng này bao gồm các hành động áp dụng sức mạnh, bao gồm nâng vật nặng, phá cửa và các cuộc thi đấu sức mạnh.
-
-#### Che giấu (Conceal) (DEX+POW)
-
-Che giấu là đối trọng với [Lén lút](0005_Skills.md?id=stealth-dexint), đó là việc che giấu các vật thể lớn thay vì chính nhân vật. Ví dụ, Che giấu có thể được sử dụng để giấu một cỗ xe phía sau một số tảng đá, hoặc quét sạch các vết bánh xe của cỗ xe để không thể theo dõi đường đi của nó. Kỹ năng này rất linh hoạt trong ứng dụng, từ việc giấu một cuộn giấy trong thư viện đến việc ngụy trang sự hiện diện của một cái bẫy hoặc lối đi bí mật.
-
-#### Phong tục (Customs) (INT x2+40)
-
-Phong tục đại diện cho kiến thức của nhân vật về cộng đồng của chính mình, các quy tắc xã hội, nghi lễ, tập quán, điều cấm kỵ, v.v. Kỹ năng này được sử dụng khi cần thiết để giải thích chính xác hoặc thực hiện bất kỳ phong tục quan trọng nào về mặt xã hội hoặc để cư xử theo một cách cụ thể.
-
-#### Khiêu vũ (Dance) (DEX+CHA)
-
-Hầu như mọi nền văn hóa đều sử dụng khiêu vũ theo một cách nào đó – hoặc như một hình thức giải trí hoặc như một phần của các nghi lễ quan trọng. Đó có thể là một điệu nhảy cung đình, một điệu nhảy chiến tranh, hoặc một chuỗi các chuyển động đơn giản kèm theo một lời cầu nguyện hoặc bài tụng nghi lễ. Kỹ năng Khiêu vũ đo lường khả năng di chuyển nhịp nhàng và chính xác (ở một mức độ hợp lý) của nhân vật khi được yêu cầu.
-
-#### Lừa dối (Deceit) (INT+CHA)
-
-Lừa dối bao gồm tất cả các trường hợp mà một nhân vật cố gắng che giấu sự thật và đưa ra một sự đánh lừa nào đó; nói dối trắng trợn, lừa gạt lính canh, hoặc thậm chí là chơi khăm (hoặc gian lận) trong một trò chơi bài. Kỹ năng này cũng bao gồm các trường hợp cần thiết phải che giấu cảm xúc hoặc động cơ thực sự (có lẽ là giả vờ vui vẻ khi một người đang vô cùng thất vọng, hoặc cố gắng tỏ ra chào đón và cởi mở khi điều ngược lại là đúng). Lừa dối tạo thành một đối trọng với kỹ năng [Sáng suốt](0005_Skills.md?id=insight-intpow) và có thể được sử dụng để đối kháng với các lần tung Sáng suốt khi những người khác đang cố gắng phân biệt sự thật hoặc động cơ.
-
-#### Điều khiển (Drive) (DEX+POW)
-
-Điều khiển bao gồm việc kiểm soát các phương tiện có bánh xe hoặc xe kéo, dù là bằng một hoặc nhiều súc vật thồ hàng hay các phương tiện bí truyền hơn: chẳng hạn như xe đẩy, xe ngựa, cỗ xe hoặc xe trượt tuyết. Các lần tung kỹ năng Điều khiển là cần thiết khi một nhân vật muốn thực hiện điều gì đó khác thường với phương tiện – băng qua địa hình hiểm trở, nhảy qua chướng ngại vật, v.v. Một lần tung cũng cần thiết nếu phương tiện được điều khiển bởi các loài thú khác với loài mà người lái đã quen thuộc (ví dụ như ngựa thay vì bò) hoặc có nhiều hơn hoặc ít hơn các con thú được ghép lại với nhau để kéo phương tiện.
-
-#### Sức bền (Endurance) (CON x2)
-
-Sức bền là khả năng của một nhân vật để chịu đựng căng thẳng thể chất, đau đớn và mệt mỏi. Nó đo lường khả năng của cơ thể trong việc đối phó với các điều kiện có khả năng gây tổn hại hoặc suy nhược và là một thước đo chung về khả năng phục hồi, sức chịu đựng và quá trình trao đổi chất. Sức bền, giống như đối trọng của nó là [Ý chí](0005_Skills.md?id=willpower-pow-x2), được sử dụng theo nhiều cách, nhưng cụ thể nhất là để chống lại các tác động có thể xảy ra của thương tích, bao gồm cả chất độc và bệnh tật gây hại.
-
-#### Né tránh (Evade) (DEX x2)
-
-Né tránh được sử dụng để thoát khỏi sự nguy hiểm sắp xảy ra mà mắt thường có thể quan sát được và có thể được sử dụng để chống lại Vũ khí Tầm xa (ví dụ: bằng cách lao vào chỗ ẩn nấp), tránh bẫy, thay đổi khoảng cách giao tranh trong chiến đấu và nói chung là tránh xa khỏi một mối nguy hiểm vật lý tiềm ẩn. Nó cũng có thể được sử dụng như một lần tung kháng cự cho một số loại phép thuật. Những người có Khả năng "Artful Dodger" có thể sử dụng Né tránh để né một đòn tấn công cận chiến mà không bị ngã. Chống lại một đòn tấn công tầm xa, họ chỉ bị ngã nếu họ Thất bại trong lần tung.
-
-#### Sơ cứu (First Aid) (DEX+INT)
-
-Kỹ năng Sơ cứu đo lường khả năng của một nhân vật trong việc điều trị các vết thương nhẹ và ổn định các vết thương nghiêm trọng hơn. Sơ cứu chỉ có thể được áp dụng một lần cho mỗi vết thương cụ thể và hồi phục 1d3 điểm sát thương.
-
-#### Ảnh hưởng (Influence) (CHA x2)
-
-Đây là thước đo khả năng của một nhân vật trong việc thuyết phục người khác, thông qua sức hút cá nhân, thực hiện hành vi mong muốn. Nó được sử dụng trong nhiều tình huống khác nhau; từ thay đổi ý định của ai đó, đến hối lộ một quan chức hoặc lính canh. Các lần tung kỹ năng Ảnh hưởng thường bị đối kháng bởi các kỹ năng Quan sát, Ý chí, hoặc một kỹ năng Ảnh hưởng khác, tùy thuộc vào hoàn cảnh, và được sửa đổi tùy theo mức độ nhân vật đang cố gắng ảnh hưởng đến hành vi. Việc cố gắng thuyết phục một người bạn thân cho bạn mượn ngựa của họ có thể tương đối dễ dàng. Việc khiến một quan chức thường không thể mua chuộc chấp nhận hối lộ là khó khăn hơn.
-
-#### Sáng suốt (Insight) (INT+POW)
-
-Sáng suốt là khả năng đọc hoặc định nghĩa một cách trực giác hành vi bằng lời và không bằng lời của người khác (chẳng hạn như ngôn ngữ cơ thể hoặc cách nói chuyện) để xác định động cơ và trạng thái tâm trí của họ. Sáng suốt được sử dụng để xác định xem ai đó có đang nói dối hay không (và nó có thể bị đối kháng bởi kỹ năng Lừa dối của người kia), hoặc để dự đoán cảm xúc của ai đó về một tình huống cụ thể. Sáng suốt cũng có thể áp dụng cho các tình huống cũng như những người khác: quán rượu đó có phải là nơi ẩn náu của rắc rối? Liệu những tên cướp có đang lên kế hoạch phục kích ở những ngọn đồi gần đó không?
-
-#### Bản địa (Locale) (INT x2)
-
-Bản địa đo lường sự hiểu biết của nhân vật về hệ thực vật, động vật, địa hình và thời tiết tại địa phương nơi họ đã dành phần lớn cuộc đời, thường là trong cộng đồng của họ. Nhân vật biết các loại cây, động vật phổ biến, đặc tính và hành vi của chúng: nơi có thể tìm thấy cá tốt nhất; sự di chuyển của các loài thú săn; nơi tìm nơi trú ẩn; thời tiết có khả năng xảy ra trong mùa và các mối nguy hiểm phổ biến nhất trong khu vực. Ở các địa điểm lân cận nhưng xa lạ, Bản địa sẽ trở nên khó hơn một hoặc nhiều cấp độ.
-
-#### Tiếng mẹ đẻ (Native Tongue) (INT+CHA+40)
-
-Tiếng mẹ đẻ là khả năng nói và đọc ngôn ngữ của chính mình, ngôn ngữ được học khi lớn lên trong nền văn hóa của mình. Đối với con người, đây là Tiếng thông dụng (Common Tongue), trong khi các chủng tộc bán nhân loại và các chủng tộc khác đều có ngôn ngữ mẹ đẻ riêng. Tiếng mẹ đẻ đo lường khả năng diễn đạt, sự hùng biện và độ sâu của vốn từ vựng của người nói.
-
-Không giống như các kỹ năng khác, Tiếng mẹ đẻ không được tung xúc xắc trực tiếp. Thay vào đó, nó được coi là một đại diện tĩnh về sự trôi chảy tổng thể, giới hạn mức độ tương tác hội thoại. Điều này được mô tả chi tiết hơn trong kỹ năng [Ngôn ngữ](0005_Skills.md?id=language-intcha), nhưng các nhân vật bắt đầu trò chơi thường hoàn toàn trôi chảy trong ngôn ngữ mẹ đẻ của họ.
-
-Kỹ năng này có thể được sử dụng theo hai cách. Thứ nhất, nó có thể giúp hiểu các phương ngữ của các dân tộc láng giềng có chung nền tảng hoặc nguồn gốc ngôn ngữ. Trong những trường hợp như vậy, kỹ năng này được coi là khó hơn ít nhất một cấp độ, có khả năng ảnh hưởng đến sự trôi chảy của nhân vật. Thứ hai, nó có thể được sử dụng làm giới hạn cho các kỹ năng bằng lời nói đòi hỏi sự hiểu biết tốt về ngôn ngữ.
-
-#### Quan sát (Perception) (INT+POW)
-
-Quan sát được sử dụng cho cả việc quan sát thụ động và phát hiện tập trung; cho dù là săn tìm một thứ cụ thể, quét chung một khu vực, hay nhận thức đơn giản về môi trường xung quanh. Các điều kiện cụ thể – ví dụ như bóng tối – có thể ảnh hưởng đến Cấp độ Khó khăn của lần tung kỹ năng tùy thuộc vào các giác quan chính đang được sử dụng. Mùi hương nồng có thể làm cho lần tung kỹ năng Quan sát khứu giác trở nên Dễ thay vì Tiêu chuẩn, trong khi cố gắng nghe lén một cuộc trò chuyện trong một quán rượu đông đúc và ồn ào sẽ làm cho lần tung trở nên Khó.
-
-#### Cưỡi ngựa (Ride) (DEX+POW)
-
-Cưỡi ngựa bao gồm khả năng kiểm soát và giữ mình trên lưng những sinh vật được huấn luyện để cưỡi. Kỹ năng này có thể áp dụng cho nhiều loại thú khác nhau, từ la đến voi; thậm chí cả các sinh vật biết bay hoặc bơi như đại bàng khổng lồ hoặc cá heo. Cưỡi một loài xa lạ luôn khó hơn một Cấp độ Khó khăn; trong khi cưỡi một loài ở môi trường khác (ví dụ như một kỵ sĩ cưỡi rồng) sẽ khó hơn hai cấp độ. Những sinh vật hoang dã, chưa được thuần hóa không thể được cưỡi một cách hiệu quả cho đến khi chúng đã được thuần hóa và huấn luyện để trở thành thú cưỡi.
-
-#### Ca hát (Sing) (POW+CHA)
-
-Việc hát một giai điệu được bao gồm trong Ca hát, từ những bài tụng đơn điệu cho đến những bản aria phức tạp. Ca hát là một phần vốn có của hầu hết các nền văn hóa, là nguồn giải trí chính và có lẽ được sử dụng trong các nghi lễ của nó. Những bài hát quan trọng có thể được sử dụng để tán tỉnh, truyền cảm hứng cho binh lính trước trận chiến, hoặc đơn giản là kể lại một chiến công lịch sử. Kỹ năng này phản ánh khả năng duy trì nhịp điệu, giữ đúng tông và nhớ lời bài hát chính xác của người dùng.
-
-#### Lén lút (Stealth) (DEX+INT)
-
-Ẩn nấp khỏi tầm nhìn hoặc di chuyển với âm thanh tối thiểu được bao gồm trong kỹ năng Lén lút. Nơi ẩn nấp và các điều kiện, chẳng hạn như bóng tối hoặc tiếng ồn nền lớn, sẽ cải thiện cấp độ của kỹ năng theo các đặc thù của môi trường. Tương tự, các điều kiện bất lợi, chẳng hạn như thiếu nơi ẩn nấp hoặc một đêm yên tĩnh sẽ làm giảm cấp độ của kỹ năng. Hoàn cảnh cũng ảnh hưởng đến độ khó của nỗ lực. Ví dụ, một chiến binh mặc áo giáp nặng có thể dễ dàng che giấu bản thân sau một bức tường, miễn là họ đứng yên hoặc di chuyển rất chậm, trong khi di chuyển nhanh có thể khiến áo giáp của họ kêu leng keng.
-
-#### Bơi (Swim) (STR+CON)
-
-Nếu không được phát triển, khả năng bơi lội bị giới hạn ở việc chỉ có thể vùng vẫy và giữ đầu trên mặt nước trong một thời gian ngắn. Tỷ lệ phần trăm Bơi cao hơn cho thấy khả năng vượt qua các vùng nước sâu và mạnh hơn, với ít nguy cơ chết đuối hơn. Do đó, việc thực hiện một lần tung Bơi hoàn toàn phụ thuộc vào các điều kiện. Biển động, dòng chảy mạnh, thác nước và dòng chảy ngược đều làm giảm cấp độ của kỹ năng bất kể nhân vật có khả năng bơi lội như thế nào. Xem phần [Di chuyển](0008_Combat.md?id=movement) để biết thêm thông tin về bơi lội, bao gồm cả việc tính toán tốc độ bơi.
-
-#### Tay không (Unarmed) (STR+DEX)
-
-Tay không là một Kỹ năng Chiến đấu phổ biến cho tất cả các nhân vật, đo lường khả năng tự vệ mà không cần sự trợ giúp của vũ khí. Kỹ năng Tay không bao gồm các kỹ thuật đánh đấm và vật lộn được biết đến bởi nền văn hóa đó.
-
-Vì Tay không là một Kỹ năng Chiến đấu nên các hiệu ứng Chí mạng và Sai lầm của nó được bao gồm trong các quy tắc chiến đấu, như chi tiết trong chương [Chiến đấu](0008_Combat.md).
-
-#### Ý chí (Willpower) (POW x2)
-
-Ý chí là thước đo khả năng của một nhân vật trong việc tập trung, điều hướng sức mạnh ý chí của mình theo một hướng cụ thể, hoặc làm cứng tâm trí trước những cú sốc tinh thần có thể xảy ra. Nó cũng là một thước đo về quyết tâm cá nhân. Kỹ năng này được sử dụng trong tất cả các tình huống cần sự kiên cường về tinh thần, và điều này bao gồm cả việc chống lại phép thuật. Mặc dù không phải là thước đo về sự tỉnh táo, nó có thể được sử dụng để chịu đựng những sự kiện đau thương có thể làm lung lay cả tâm trí tỉnh táo và ổn định nhất. Ý chí là đối trọng tinh thần của [Sức bền](0005_Skills.md?id=endurance-con-x2).
-
-Một lần nữa, giống như Sức bền và Né tránh, Ý chí thường được sử dụng nhất trong các Bài kiểm tra Đối kháng. Khi được sử dụng như một bài kiểm tra Tiêu chuẩn, một lần tung Ý chí Chí mạng cho thấy rằng nhân vật đã rèn luyện tâm trí và tinh thần của mình đến mức không có nỗ lực nào khác để gây ảnh hưởng đến họ, hoặc làm lung lay quyết tâm của họ, sẽ có tác dụng. Trong trường hợp chống lại phép thuật, một Thành công Chí mạng có nghĩa là không có phép thuật gây ảnh hưởng tinh thần nào khác do đối thủ tung ra có bất kỳ tác dụng nào đối với nhân vật trong phần còn lại của cuộc chạm trán đó.
+Bên ngoài chiến đấu, _Classic Fantasy Imperative_ không cung cấp một danh sách dứt khoát các tình huống và thử thách có thể dẫn đến việc điều chỉnh kỹ năng. Loại điều chỉnh nào là cần thiết cho bất kỳ kỹ năng hoặc ngữ cảnh cụ thể nào cuối cùng là do Người Dẫn Trò quyết định, dựa trên khả năng của các Nhân Vật, nhận thức của ông về mức độ khó của tình huống và sự căng thẳng kịch tính tại thời điểm cụ thể đó.
 
 ---
-## Kỹ năng Chuyên môn
+## Kỹ Năng Tiêu Chuẩn
 
-Kỹ năng Chuyên môn khác biệt giữa các nhân vật và đại diện cho các hình thức đào tạo và kinh nghiệm chuyên biệt hơn. Một số Kỹ năng Chuyên môn được thu thập thông qua nền tảng văn hóa và Lớp nhân vật, đúng như tên gọi của nó. Mặc dù chúng khác nhau giữa các nhân vật nhưng chúng hoạt động theo cùng một cách như Kỹ năng Tiêu chuẩn.
+#### Điền Kinh (SM+KL)
 
-Một số kỹ năng phép thuật cũng được phân loại là Kỹ năng Chuyên môn: Ví dụ, Điều hướng (Channeling) và Tận tụy (Devotion) là hai kỹ năng liên quan đến phép thuật Thần thánh. Chúng chỉ được mô tả ngắn gọn ở đây. Để biết thêm chi tiết, hãy tham khảo phần liên quan của chương [Phép thuật](0009_Magic.md).
+Điền Kinh bao gồm một loạt các hoạt động thể chất, bao gồm leo trèo, nhảy, ném và chạy. Các lần đổ kỹ năng cho bất kỳ hoạt động nào trong số này được xử lý bằng một lần đổ duy nhất so với kỹ năng Điền Kinh. Xem phần [Di Chuyển](0008_Combat.md?id=movement) để biết thêm thông tin về leo trèo, nhảy và chạy.
 
-#### Diễn xuất (Acting) (CHA x2)
+#### Chèo Thuyền (SM+TC)
 
-Diễn xuất quản lý nghệ thuật có thể đóng giả và truyền tải một nhân vật hoàn toàn khác, cho dù là trong một buổi biểu diễn trên sân khấu hay trong một tình huống xã hội. Diễn viên khắc họa một tính cách và phong thái khác với chính mình một cách thuyết phục. Kết hợp với các kỹ năng Ngụy trang và Lừa dối, đây là một cách mạnh mẽ để trở thành một người hoàn toàn khác.
+Kỹ năng Chèo Thuyền bao gồm việc vận hành các phương tiện nổi nhỏ trên sông, hồ và gần bờ biển. Các phương tiện phù hợp thường là thuyền, ca nô hoặc bè di chuyển những quãng đường ngắn và không phù hợp với sự khắc nghiệt của biển khơi. Hầu hết được đẩy bằng mái chèo, chèo thuyền, sào hoặc buồm đơn giản; hoặc thậm chí có thể được kéo bởi động vật. Các TC tàu có thủy thủ đoàn lớn hoặc được thiết kế cho các hành trình dài xuyên đại dương được bao gồm trong Kỹ Năng Chuyên Nghiệp [Hàng Hải](0005_Skills.md?id=seamanship-intcon).
 
-#### Nhào lộn (Acrobatics) (STR+DEX)
+#### Cơ Bắp (SM+KT)
 
-Nhào lộn bao gồm các hành động giữ thăng bằng, thể dục dụng cụ, tung hứng và nhào lộn. Kỹ năng này có thể được sử dụng để gây ấn tượng với khán giả, nhưng cũng giúp giảm thiểu sát thương từ các cú ngã. Với một lần tung thành công, một nhân vật có thể di chuyển với tốc độ tối đa và vững vàng trên một bề mặt không ổn định hoặc hẹp. Nếu cố gắng giảm thiểu sát thương từ một cú ngã bất ngờ, một lần tung Nhào lộn thành công sẽ giảm một nửa mọi sát thương phải chịu. Ngoài ra, nếu lần tung thành công và nhân vật không phải chịu Vết thương Nghiêm trọng hoặc Vết thương Lớn do cú ngã, nhân vật sẽ tiếp đất tương đối an toàn và không bị ngã.
+Cơ Bắp là việc áp dụng kỹ thuật hiệu quả khi sử dụng sức mạnh thể chất thuần túy. Kỹ năng này bao gồm các hành động thể hiện sức mạnh, bao gồm nâng vác, phá cửa và các cuộc thi về sức mạnh.
 
-Nhào lộn có thể được thay thế cho Né tránh nếu tình huống yêu cầu. Lợi ích của việc này là nhân vật tự động lấy lại tư thế đứng thay vì bị ngã.
+#### Che Giấu (KL+NL)
 
-Nhào lộn cũng phục vụ như cơ sở cho khả năng [Nhảy vọt](0003_Classes.md?id=rank-1-3) Cấp 1 của Rogue.
+Che Giấu là đối trọng với [Ẩn Nấp](0005_Skills.md?id=stealth-dexint), đó là việc che giấu các vật thể lớn thay vì chính Nhân Vật đó. Ví dụ, Che Giấu có thể được sử dụng để giấu một cỗ xe ngựa sau những tảng đá, hoặc quét sạch các vết bánh xe của cỗ xe để không thể theo dõi đường đi của nó. Kỹ năng này linh hoạt trong ứng dụng, từ việc giấu một cuộn giấy trong thư viện đến ngụy trang sự hiện diện của một cái bẫy hoặc lối đi bí mật.
 
-#### Xử lý Động vật (Animal Handling) (POW+CHA)
+#### Phong Tục (TT x2+40)
 
-Kỹ năng này phục vụ một số chức năng, bao gồm cố gắng làm dịu một con vật thù địch hoặc huấn luyện một con vật nuôi thực hiện các thủ thuật nhất định, chẳng hạn như dạy chó ngồi, bắt bóng, nằm yên, hoặc đi theo; ngựa có thể được thuần hóa cho người cưỡi, v.v. Nếu được sử dụng để cố gắng làm dịu một con vật hoang dã hoặc thù địch, một sự thành công sẽ xua đuổi nó đi. Tuy nhiên, nếu nó đang đói hoặc có con nhỏ, lần tung này sẽ khó hơn hai cấp độ. Việc cung cấp thức ăn cho một con vật đói có thể làm cho lần tung dễ hơn một hoặc hai Cấp độ Khó khăn hoặc có thể khiến con vật bắt đầu đi theo nhân vật để lấy thêm, tùy thuộc vào hoàn cảnh.
+Phong Tục đại diện cho kiến thức của Nhân Vật về cộng đồng của chính mình, các quy tắc xã hội, nghi lễ, tục lệ, điều cấm kỵ, v.v. Kỹ năng này được sử dụng khi điều cần thiết là giải thích chính xác hoặc thực hiện bất kỳ phong tục quan trọng nào về mặt xã hội hoặc hành xử theo một cách cụ thể.
 
-#### Thi triển Phép thuật Bí ẩn (Arcane Casting) (INT+POW)
+#### Khiêu Vũ (KL+SH)
 
-Thi triển Phép thuật Bí ẩn là một kỹ năng phép thuật thiết yếu đối với Phép thuật Bí ẩn. Đó là khả năng của người sử dụng phép thuật để thực hiện thành công các phép thuật đã ghi nhớ trước đó từ sách phép hoặc cuộn giấy. Nó cũng đại diện cho việc người thi triển tìm thấy trạng thái tinh thần chính xác để thi triển một phép thuật, kèm theo các cử chỉ và bài tụng, v.v. Tăng năng lực trong kỹ năng này cũng cải thiện Cường độ cuối cùng của bất kỳ phép thuật nào được thi triển với nó.
+Hầu hết mọi nền văn hóa đều sử dụng khiêu vũ theo một cách nào đó – hoặc để giải trí hoặc như một phần của các nghi lễ quan trọng. Đó có thể là một điệu nhảy cung đình, một điệu nhảy chiến tranh, hoặc một tập hợp các chuyển động đơn giản đi kèm với lời cầu nguyện hoặc bài tụng nghi lễ. Kỹ năng Khiêu Vũ đo lường khả năng di chuyển nhịp nhàng và chính xác (ở mức độ hợp lý) của Nhân Vật khi được yêu cầu làm như vậy.
 
-#### Kiến thức Bí ẩn (Arcane Knowledge) (INT x2)
+#### Lừa Dối (TT+SH)
 
-Giống như Thi triển Phép thuật Bí ẩn, kỹ năng phép thuật này là thiết yếu đối với Phép thuật Bí ẩn. Nó đại diện cho kiến thức phép thuật thực sự tích lũy được của một pháp sư, và được sử dụng khi cố gắng học các phép thuật mới, sao chép chúng vào sách phép, tạo cuộn giấy, xác định một phép thuật khi nó đang được thi triển, v.v. Nó cũng xác định số lượng phép thuật bắt đầu mà người thi triển có thể có - được đề cập chi tiết hơn trong phần [Cấu trúc Cấp bậc](0003_Classes.md?id=rank-structure-2) của lớp Pháp sư.
+Lừa Dối bao gồm tất cả các trường hợp mà một Nhân Vật cố gắng che đậy sự thật và đưa ra một sự lừa dối dưới bất kỳ hình thức nào; nói dối trắng trợn, đánh lừa lính gác, hoặc thậm chí là chơi khăm (hoặc gian lận) trong một trò chơi bài. Kỹ năng này cũng bao gồm các trường hợp cần thiết để che giấu cảm xúc hoặc động cơ thực sự (có lẽ là giả vờ vui vẻ khi một người thất vọng cay đắng, hoặc cố gắng tỏ ra chào đón và cởi mở khi điều ngược lại mới là sự thật). Lừa Dối tạo thành đối trọng với kỹ năng [Trực Giác](0005_Skills.md?id=insight-intpow) và có thể được sử dụng để chống lại các lần đổ Trực Giác khi những người khác đang cố gắng phân biệt sự thật hoặc động cơ.
 
-Kiến thức Bí ẩn không chỉ giới hạn ở những người thi triển Phép thuật Bí ẩn. Nó có thể được áp dụng bởi những người chỉ đơn giản muốn nghiên cứu về những điều bí truyền ngay cả khi họ không tích cực thực hành Phép thuật Bí ẩn.
+#### Lái Xe (KL+NL)
 
-#### Nghệ thuật (Art) (POW+CHA)
+Lái Xe bao gồm việc điều khiển các loại xe có bánh hoặc xe kéo, cho dù bằng một hoặc nhiều súc vật hoặc các phương tiện huyền bí hơn: chẳng hạn như xe kéo, xe ngựa, xe chiến hoặc xe trượt tuyết. Các lần đổ Lái Xe là cần thiết khi một Nhân Vật muốn làm điều gì đó khác thường với một phương tiện – vượt qua địa hình nguy hiểm, nhảy qua chướng ngại vật, v.v. Một lần đổ xúc xắc cũng là cần thiết nếu phương tiện đang được điều khiển được kéo bởi những TC vật khác với những TC vật mà người lái xe quen dùng (ví dụ như ngựa thay vì bò) hoặc có nhiều hoặc ít súc vật hơn được kết hợp cùng nhau để kéo phương tiện.
 
-Có rất nhiều loại hình nghệ thuật cụ thể. Từ hội họa đến thơ ca; từ văn học đến điêu khắc. Một nhân vật chọn một chuyên ngành Nghệ thuật khi thực hiện kỹ năng này - ví dụ: Nghệ thuật (Hội họa). Các loại hình Nghệ thuật sau đó được nâng cao riêng biệt. Một lần tung được thực hiện bất cứ khi nào một nhân vật phải gây ấn tượng hoặc thuyết phục thông qua phương tiện nghệ thuật của mình.
+#### Sức Bền (TC x2)
 
-#### Quan liêu (Bureaucracy) (INT x2)
+Sức Bền là khả năng của Nhân Vật để chịu đựng căng thẳng thể chất, đau đớn và mệt mỏi. Nó đo lường khả năng của cơ thể trong việc đối phó với các điều kiện có khả năng gây hại hoặc suy nhược và là một thước đo chung về sự kiên cường, thể lực và quá trình trao đổi chất. Sức Bền, giống như đối trọng của nó là [Ý Chí](0005_Skills.md?id=willpower-pow-x2), được sử dụng theo nhiều cách khác nhau, nhưng đặc biệt nhất là để chống lại các tác động có thể xảy ra của thương tích, bao gồm các chất độc có hại và bệnh tật.
 
-Hiểu các quy trình hành chính, hồ sơ và các quy ước bất thành văn được bao gồm trong kỹ năng Quan liêu. Nó được sử dụng để tương tác với các quan chức hoặc khám phá thông tin dân sự liên quan. Tùy thuộc vào sự tinh vi của nền văn hóa của họ, các quan chức không nhất thiết phải biết chữ. Tuy nhiên, kỹ năng Quan liêu của họ không thể vượt quá điểm số của kỹ năng Ngôn ngữ hoặc Biết chữ mà họ đang làm việc. Bất cứ khi nào cần phải giải quyết các thủ tục quan liêu hoặc các vấn đề hành chính, một lần tung Quan liêu là cần thiết.
+#### Né Tránh (KL x2)
 
-#### Kênh dẫn (Channel) (INT+CHA)
+Né Tránh được sử dụng để thoát khỏi nguy hiểm sắp xảy ra đã được quan sát và có thể được sử dụng để chống lại Vũ Khí Tầm Xa (ví dụ bằng cách lao vào chỗ ẩn nấp), tránh bẫy, thay đổi khoảng cách giao tranh trong chiến đấu và nói chung là tránh xa các mối nguy hiểm thể chất tiềm tàng. Nó cũng có thể được sử dụng như một lần đổ kháng cự cho một số loại phép thuật. Những người có Khả năng Artful Dodger có thể sử dụng Né Tránh để tránh một đòn tấn công cận chiến mà không bị ngã. Chống lại một đòn tấn công tầm xa, họ chỉ kết thúc trong tư thế nằm sấp nếu họ Thất Bại trong lần đổ xúc xắc.
 
-Kênh dẫn là kỹ năng phép thuật được sử dụng để kêu gọi và dẫn truyền sức mạnh của các vị thần. Tăng năng lực trong kỹ năng này cũng cải thiện Cường độ cuối cùng của bất kỳ phép thuật nào được thi triển với nó.
+#### Sơ Cứu (KL+TT)
 
-#### Thương mại (Commerce) (INT+CHA)
+Kỹ năng Sơ Cứu đo lường khả năng của Nhân Vật trong việc điều trị các vết thương nhẹ và ổn định các vết thương nghiêm trọng hơn. Sơ Cứu chỉ có thể được áp dụng một lần cho mỗi vết thương cụ thể và hồi phục 1d3 điểm Sát Thương.
 
-Thương mại được sử dụng để đánh giá giá trị của hàng hóa và vật phẩm và trao đổi chúng với mức giá tốt nhất có thể. Nó cũng được sử dụng để hiểu sự phức tạp của các giao dịch kinh doanh bên cạnh việc đảm bảo lợi nhuận. Một công dụng khác là tìm cách tốt nhất để tiêu thụ hàng hóa bị đánh cắp và bất hợp pháp – một lần nữa với mức giá tốt nhất có thể. Thương mại rõ ràng được sử dụng khi giao dịch và nó có thể bị đối kháng bởi kỹ năng Thương mại hoặc Ý chí của đối thủ, phản ánh nỗ lực của phía đối phương nhằm thúc đẩy thỏa thuận theo hướng có lợi cho họ. Nó cũng được sử dụng để đánh giá giá trị thị trường của hàng hóa, hiểu rõ về giá cả và nơi giao dịch tốt nhất.
+#### Ảnh Hưởng (SH x2)
 
-#### Lịch sự (Courtesy) (INT+CHA)
+Đây là thước đo khả năng của một Nhân Vật trong việc thuyết phục người khác, thông qua sức hút cá nhân, thực hiện một cách hành xử mong muốn. Nó được sử dụng trong nhiều tình huống; từ thay đổi ý kiến của ai đó, đến hối lộ một quan chức hoặc lính gác. Các lần đổ Ảnh Hưởng thường bị đối trọng bởi Nhận Thức, Ý Chí hoặc một kỹ năng Ảnh Hưởng khác, tùy thuộc vào hoàn cảnh, và được điều chỉnh bởi mức độ mà một Nhân Vật đang cố gắng ảnh hưởng đến hành vi. Cố gắng thuyết phục một người bạn thân cho bạn mượn ngựa của họ có thể tương đối dễ dàng. Khiến một công chức thường không thể bị mua chuộc nhận hối lộ là khó khăn hơn.
 
-Kỹ năng này bao gồm việc hiểu cách hành động phù hợp trong một tình huống xã hội hoặc trang trọng: cách xưng hô, nghi lễ và các quy ước về hành vi, v.v. Nó bao gồm mọi thứ từ việc cúi chào ai và khi nào, cúi thấp như thế nào; từ khi nào nên sử dụng một danh hiệu cụ thể đến khi nào thì phù hợp để hành động không trang trọng.
+#### Trực Giác (TT+NL)
 
-#### Thủ công (Craft) (DEX+INT)
+Trực Giác là khả năng đọc hoặc xác định một cách trực quan hành vi bằng lời nói và phi ngôn ngữ của người khác (chẳng hạn như ngôn ngữ cơ thể hoặc cách nói chuyện) để thiết lập động cơ và trạng thái tinh thần của họ. Trực Giác được sử dụng để xác định xem ai đó có đang nói dối hay không (và nó có thể bị đối trọng bởi kỹ năng Lừa Dối của người khác), hoặc để dự đoán cảm giác của ai đó về một tình huống cụ thể. Trực Giác có thể được áp dụng tương đương cho các tình huống cũng như những người khác: quán rượu đó có phải là nơi ẩn náu của rắc rối không? Liệu bọn cướp có thể đang lên kế hoạch phục kích ở những ngọn đồi gần đó không?
 
-Mỗi Thủ công là một hình thức chuyên biệt, ví dụ: Thủ công (Làm gốm), và có nhiều thủ công như các ngành nghề cho chúng. Giống như Nghệ thuật, Thủ công được sử dụng để tạo ra vật phẩm chủ đề. Thời gian thực hiện phụ thuộc hoàn toàn vào bản chất của sản phẩm: ví dụ, dệt một tấm thảm mất nhiều thời gian hơn là làm một chiếc bình, nhưng thời gian không nhất thiết là yếu tố quan trọng nhất: đó là kỹ năng của người thợ thủ công, chất lượng của các nguồn lực và sự chú ý đến từng chi tiết.
+#### Khu Vực (TT x2)
 
-#### Văn hóa (Culture) (INT x2)
+Khu Vực đo lường sự hiểu biết của Nhân Vật về hệ thực vật, động vật, địa hình và thời tiết địa phương trong khu vực mà anh ta hoặc cô ta đã dành phần lớn cuộc đời mình, thường là trong cộng đồng của họ. Nhân Vật biết các loài thực vật, cây cối và động vật phổ biến, đặc tính và hành vi của chúng: nơi có thể tìm thấy cá tốt nhất; sự di chuyển của các sinh vật trò chơi; nơi để tìm nơi trú ẩn; thời tiết có khả năng xảy ra trong mùa, và những mối nguy hiểm khu vực phổ biến nhất. Ở những địa điểm lân cận nhưng xa lạ, Khu Vực nên được thực hiện khó hơn một hoặc nhiều cấp độ.
 
-Văn hóa là hình thức cụ thể hơn của Kỹ năng Tiêu chuẩn Phong tục, liên quan thay vào đó là các xã hội xa lạ với xã hội của nhân vật. Mỗi kỹ năng Văn hóa phải được gán cho một quốc gia hoặc xã hội cụ thể mà nó áp dụng. Về mặt cơ học, nó hoạt động theo cùng một cách như kỹ năng Phong tục.
+#### Tiếng Mẹ Đẻ (TT+SH+40)
 
-#### Tận tụy (Devotion) (POW+CHA)
+Tiếng Mẹ Đẻ là khả năng nói và đọc ngôn ngữ của chính mình, ngôn ngữ được học trong khi lớn lên trong nền văn hóa quê hương của mình. Đối với TC người, đây là Ngôn Ngữ Chung, trong khi các chủng tộc bán nhân và các chủng tộc khác đều có ngôn ngữ mẹ đẻ riêng. Tiếng Mẹ Đẻ đo lường khả năng diễn đạt, sự hùng biện và độ sâu của vốn từ vựng của người nói.
 
-Tận tụy là một kỹ năng phép thuật phản ánh cam kết của một giáo sĩ đối với sự phục vụ của một vị thần. Nó không chỉ đo lường chiều sâu của sự tận tụy đối với một vị thần, mà còn quản lý Độ lớn của bất kỳ phép thuật Thần thánh nào được nhân vật kêu gọi. Ngoài ra, kỹ năng này có thể chỉ ra vị thế của một người thi triển phép thuật Thần thánh trong một tổ chức tôn giáo.
+Không giống như các kỹ năng khác, Tiếng Mẹ Đẻ không được đổ xúc xắc trực tiếp. Thay vào đó, nó được coi là một đại diện tĩnh cho sự lưu loát tổng thể, hạn chế mức độ tương tác trong hội thoại. Điều này được mô tả chi tiết hơn trong kỹ năng [Ngôn Ngữ](0005_Skills.md?id=language-intcha), nhưng các Nhân Vật mới bắt đầu thường bắt đầu trò chơi với sự thông thạo hoàn toàn ngôn ngữ mẹ đẻ của họ.
 
-Tận tụy không chỉ giới hạn ở những người thi triển phép thuật Thần thánh. Nó có thể được áp dụng bởi những người chỉ đơn giản muốn thể hiện sự tôn trọng đối với các vị thần ngay cả khi họ không tích cực thực hành phép thuật Thần thánh.
+Kỹ năng này có thể được sử dụng theo hai cách. Thứ nhất, nó có thể giúp hiểu các phương ngữ của các dân tộc lân cận chia sẻ một cơ sở hoặc nguồn gốc ngôn ngữ chung. Trong những trường hợp như vậy, kỹ năng được coi là khó hơn ít nhất một cấp độ, có khả năng ảnh hưởng đến sự lưu loát của Nhân Vật. Thứ hai, nó có thể được sử dụng như một giới hạn cho các kỹ năng ngôn ngữ đòi hỏi sự nắm bắt tốt về ngôn ngữ.
 
-#### Ngụy trang (Disguise) (INT+CHA)
+#### Nhận Thức (TT+NL)
 
-Việc thực hiện một lớp ngụy trang thuyết phục, sử dụng các vật liệu phù hợp (trang phục, mỹ phẩm, tóc giả, hoặc đồ giả), được bao gồm trong kỹ năng Ngụy trang. Việc tạo ra lớp ngụy trang đòi hỏi thời gian và sự chú ý đến từng chi tiết, cũng như quyền truy cập vào các vật liệu phù hợp để làm cho nó thuyết phục. Nếu một số hoặc tất cả các yếu tố này không có mặt thì Cấp độ Khó khăn của lần tung Ngụy trang sẽ trở nên khó hơn một hoặc nhiều bước.
+Nhận Thức được sử dụng cho cả việc quan sát thụ động và phát hiện tập trung; cho dù là săn lùng một thứ gì đó cụ thể, quét chung một khu vực, hay nhận thức đơn giản về môi trường xung quanh. Các điều kiện cụ thể – ví dụ như bóng tối – có thể ảnh hưởng đến Cấp Độ Khó của lần đổ kỹ năng tùy thuộc vào các giác quan chính đang được sử dụng. Mùi hương mạnh có thể làm cho lần đổ Nhận Thức khứu giác trở nên Dễ hơn là Tiêu Chuẩn, trong khi cố gắng nghe lén một cuộc trò chuyện trong một quán rượu đông đúc và ồn ào sẽ làm cho lần đổ xúc xắc trở nên Khó.
 
-#### Kỹ thuật (Engineering) (INT x2)
+#### Cưỡi (KL+NL)
 
-Việc thiết kế và xây dựng các cấu trúc quy mô lớn, từ nhà cửa đến cầu cống, cổng thành đến các loại máy công thành, nằm trong phạm vi của kỹ năng Kỹ thuật. Các lần tung xúc xắc là cần thiết khi lập kế hoạch cho các dự án quy mô lớn để đảm bảo xây dựng chính xác nhưng cũng được thực hiện khi một kỹ sư muốn đánh giá tính toàn vẹn của một cấu trúc vì bất kỳ lý do gì (ví dụ: tình trạng hư hỏng hoặc các điểm yếu).
+Cưỡi bao gồm khả năng điều khiển và giữ vị trí ngồi trên lưng những sinh vật được huấn luyện để cưỡi. Kỹ năng này có thể được áp dụng cho nhiều loại súc vật, từ la đến voi; thậm chí cả các sinh vật bay hoặc bơi như đại bàng khổng lồ hoặc cá heo. Cưỡi một loài xa lạ luôn khó hơn một Cấp Độ Khó; trong khi cưỡi một loài ở môi trường khác (ví dụ như một người cưỡi ngựa trên lưng rồng) sẽ khó hơn hai cấp độ. Các sinh vật hoang dã, chưa được thuần hóa không thể được cưỡi một cách hiệu quả cho đến khi chúng đã được thuần hóa và huấn luyện thành thú cưỡi.
 
-#### Đánh bạc (Gambling) (INT+POW)
+#### Ca Hát (NL+SH)
 
-Kỹ năng Đánh bạc đo lường năng lực của một nhân vật trong các trò chơi may rủi và đặc biệt là nơi tiền bạc được đặt cược vào kết quả. Nó được sử dụng để đánh giá tỷ lệ thành công hoặc thất bại hoặc phát hiện khi ai đó đang gian lận. Kỹ năng này có thể được sử dụng theo cách đối kháng hoặc không đối kháng, tùy thuộc vào tình huống. Việc dành cả đêm trong một sòng bạc ẩn danh có thể chỉ cần một bài kiểm tra thẳng, trong khi một trò chơi xúc xắc đặt cược cao liên quan đến những nhân vật nổi tiếng có thể cần một vài Vòng tung xúc xắc Đối kháng.
+Việc hát một giai điệu được bao gồm trong Ca Hát, từ những bài tụng đơn điệu cho đến những bản aria phức tạp. Ca hát là một phần vốn có của hầu hết các nền văn hóa, là nguồn giải trí chính và có lẽ được sử dụng trong các nghi lễ của nó. Các bài hát quan trọng có thể được sử dụng để tán tỉnh, truyền cảm hứng cho binh lính trước trận chiến, hoặc chỉ đơn giản là kể lại một chiến công lịch sử. Kỹ năng này phản ánh khả năng của người dùng trong việc duy trì nhịp điệu, giữ đúng cao độ và ghi nhớ các từ ngữ chính xác.
 
-#### Chữa bệnh (Healing) (INT+POW)
+#### Ẩn Nấp (KL+TT)
 
-Chữa bệnh là kiến thức chuyên sâu về các thủ tục y tế, dựa trên các thực tiễn văn hóa. Ví dụ, trong một nền văn hóa Nguyên thủy hoặc Dã man, Chữa bệnh sẽ dựa trên kiến thức về thảo mộc và các phương pháp chữa trị tự nhiên. Trong một nền văn hóa Văn minh, thuốc và các phương pháp điều trị tiên tiến hơn sẽ phổ biến hơn. Trong tất cả các nền văn hóa, Chữa bệnh bao gồm khả năng nắn xương, khâu vết thương, v.v. Rõ ràng, việc áp dụng Chữa bệnh đòi hỏi các nguồn lực phù hợp, và hầu hết những người chữa bệnh có kinh nghiệm sẽ có sẵn những thứ đó (kim, chỉ khâu, thảo mộc đắp vết thương, v.v.).
+Ẩn nấp khỏi tầm nhìn rõ ràng hoặc di chuyển với tiếng động tối thiểu được bao gồm trong kỹ năng Ẩn Nấp. Vỏ bọc và các điều kiện, chẳng hạn như bóng tối hoặc tiếng ồn nền lớn, cải thiện cấp độ của kỹ năng tùy theo các đặc thù của môi trường. Tương tự như vậy, các điều kiện bất lợi, chẳng hạn như thiếu vỏ bọc hoặc một đêm yên tĩnh sẽ làm giảm cấp độ của kỹ năng. Các hoàn cảnh cũng ảnh hưởng đến mức độ khó của nỗ lực. Ví dụ, một chiến binh mặc Giáp nặng có thể dễ dàng che giấu bản thân sau một bức tường, với điều kiện họ đứng yên hoặc di chuyển rất chậm, trong khi di chuyển nhanh có thể khiến Giáp của họ kêu leng keng.
 
-#### Đe dọa (Intimidation) (INT+CHA)
+#### Bơi Lội (SM+TC)
 
-Kỹ năng này được sử dụng để đe dọa một cá nhân thực hiện một hành động mà họ có thể không muốn thực hiện. Nó thường được sử dụng để lấy thông tin từ người khác, hoặc để khiến đối thủ rút lui thông qua mối đe dọa bạo lực thể chất. Các bài kiểm tra Đe dọa có thể được sửa đổi dựa trên phương pháp được sử dụng và mức độ nguy hiểm cảm nhận được của đối thủ. Đe dọa thường bị đối kháng bởi Ý chí của nạn nhân, tuy nhiên, nếu được sử dụng với tra tấn, Sức bền có thể được áp dụng.
+Nếu không được rèn luyện, khả năng bơi lội bị giới hạn ở việc chỉ có thể vùng vẫy và giữ đầu trên mặt nước trong một thời gian ngắn. Tỷ lệ phần trăm Bơi Lội cao hơn cho thấy khả năng vượt qua các vùng nước sâu và mạnh hơn, với ít nguy cơ chết đuối hơn. Do đó, thực hiện một lần đổ Bơi Lội hoàn toàn phụ thuộc vào các điều kiện. Biển động, dòng chảy mạnh, nước chảy xiết và thủy triều rút đều làm giảm cấp độ của kỹ năng bất kể người đó có yêu thích nước đến đâu. Xem phần [Di Chuyển](0008_Combat.md?id=movement) để biết thêm thông tin về bơi lội, bao gồm cả việc tính toán tốc độ bơi.
 
-#### Ngôn ngữ (Language) (INT+CHA)
+#### Tay Không (SM+KL)
 
-Kỹ năng này bao gồm việc nói và hiểu các ngôn ngữ khác ngoài ngôn ngữ của chính nhân vật. Kỹ năng Ngôn ngữ không được tung xúc xắc trực tiếp mà được coi là một đại diện tĩnh về sự trôi chảy tổng thể. Giá trị của nó được Người quản trò sử dụng để giới hạn mức độ tương tác bằng lời nói khi người chơi trò chuyện với các nhân vật trong trò chơi. Sử dụng [Bảng trôi chảy ngôn ngữ](0005_Skills.md?id=linguistic-fluency-table) như một hướng dẫn.
+Tay Không là một Kỹ Năng Chiến Đấu phổ quát chung cho tất cả các Nhân Vật, đo lường khả năng tự vệ mà không cần sự hỗ trợ của Vũ Khí. Kỹ năng Tay Không bao gồm các kỹ thuật ẩu đả và vật lộn được biết đến bởi nền văn hóa đó.
 
-##### Bảng trôi chảy ngôn ngữ
+Vì Tay Không là một Kỹ Năng Chiến Đấu, các hiệu ứng Chí Mạng và Thất Bại Thảm Hại của nó được bao gồm trong các quy tắc chiến đấu, như được trình bày chi tiết trong chương [Chiến Đấu](0008_Combat.md).
 
-| Ngôn ngữ% | Trôi chảy hội thoại |
+#### Ý Chí (NL x2)
+
+Ý Chí là thước đo khả năng của một Nhân Vật để tập trung, điều hướng sức mạnh ý chí của mình theo một hướng cụ thể, hoặc làm cứng tâm trí của mình trước những cú sốc tinh thần có thể xảy ra. Nó cũng là thước đo sự kiên quyết cá nhân. Kỹ năng này được sử dụng trong tất cả các tình huống mà sự kiên cường về tinh thần là cần thiết, và điều này bao gồm cả việc chống lại phép thuật. Mặc dù không phải là thước đo sự tỉnh táo, nhưng nó có thể được sử dụng để chịu đựng những sự kiện đau buồn có thể làm rung chuyển ngay cả tâm trí tỉnh táo, ổn định nhất. Ý Chí là đối trọng tinh thần của [Sức Bền](0005_Skills.md?id=endurance-con-x2).
+
+Một lần nữa, giống như Sức Bền và Né Tránh, Ý Chí thường được sử dụng nhất trong các Kiểm Tra Đối Kháng. Khi được sử dụng như một kiểm tra Tiêu Chuẩn, một lần đổ Ý Chí Chí Mạng cho thấy rằng Nhân Vật đã làm cứng tâm trí và tinh thần của mình đến mức không có thêm nỗ lực nào để gây ảnh hưởng đến anh ta, hoặc làm lung lay sự kiên quyết của anh ta, sẽ có tác dụng. Trong trường hợp chống lại phép thuật, một Thành Công Chí Mạng có nghĩa là không có thêm các phép thuật gây đau khổ về tinh thần nào do đối thủ tung ra có bất kỳ ảnh hưởng nào đến Nhân Vật trong phần còn lại của cuộc chạm trán đó.
+
+---
+## Kỹ Năng Chuyên Nghiệp
+
+Các Kỹ Năng Chuyên Nghiệp khác nhau giữa các Nhân Vật và đại diện cho các hình thức đào tạo và kinh nghiệm chuyên biệt hơn. Một số Kỹ Năng Chuyên Nghiệp được thu thập thông qua nền tảng văn hóa và Giai Cấp của Nhân Vật, đúng như tên gọi của nó. Mặc dù chúng khác nhau giữa các Nhân Vật, chúng hoạt động theo cùng một cách với Kỹ Năng Tiêu Chuẩn.
+
+Một số kỹ năng phép thuật cũng được xếp loại là Kỹ Năng Chuyên Nghiệp: ví dụ, Điều Khiển và Tín Ngưỡng là hai kỹ năng liên quan đến phép thuật Thần Linh. Chúng chỉ được mô tả ngắn gọn ở đây. Để biết thêm chi tiết, hãy tham khảo phần liên quan của chương [Phép Thuật](0009_Magic.md).
+
+#### Diễn Xuất (SH x2)
+
+Diễn Xuất quản lý nghệ thuật có thể đóng giả và truyền tải một tính cách hoàn toàn khác, cho dù trong một buổi biểu diễn trên sân khấu hay trong một tình huống xã hội. Người diễn viên miêu tả một tính cách và phong thái khác với bản thân mình một cách thuyết phục. Kết hợp với các kỹ năng Ngụy Trang và Lừa Dối, đây là một cách mạnh mẽ để trở thành một người hoàn toàn khác.
+
+#### Nhào Lộn (SM+KL)
+
+Nhào Lộn bao gồm các hành động giữ thăng bằng, thể dục dụng cụ, tung hứng và nhào lộn. Kỹ năng này có thể được sử dụng để gây ấn tượng với khán giả, nhưng cũng để giúp giảm bớt sát thương từ các cú ngã. Với một lần đổ thành công, một Nhân Vật có thể di chuyển ở tốc độ tối đa và vững chãi trên một bề mặt không ổn định hoặc hẹp. Nếu cố gắng giảm sát thương từ một cú ngã bất ngờ, một lần đổ Nhào Lộn thành công sẽ giảm một nửa bất kỳ sát thương nào phải chịu. Ngoài ra, nếu lần đổ xúc xắc thành công và Nhân Vật không bị Vết Thương Nghiêm Trọng hoặc Chính do cú ngã, Nhân Vật sẽ tiếp đất tương đối an toàn và không bị ngã.
+
+Nhào Lộn có thể được thay thế cho Né Tránh nếu tình huống cho phép. Lợi ích của việc này là Nhân Vật sẽ tự động lấy lại chỗ đứng thay vì bị ngã.
+
+Nhào Lộn cũng đóng vai trò là cơ sở cho khả năng [Nhảy Qua](0003_Classes.md?id=rank-1-3) Cấp Bậc 1 của Kẻ Trộm.
+
+#### Huấn Luyện Động Vật (NL+SH)
+
+Kỹ năng này phục vụ một số chức năng, bao gồm cố gắng làm dịu một TC vật thù địch hoặc huấn luyện một TC vật nuôi thực hiện các thủ thuật nhất định, chẳng hạn như dạy một TC chó ngồi, nhặt đồ, ở yên hoặc đi theo sát; ngựa có thể được thuần hóa để cho người cưỡi và vân vân. Nếu được sử dụng để cố gắng làm dịu một TC vật hoang dã hoặc thù địch, một sự thành công sẽ xua đuổi nó. Tuy nhiên, nếu nó đang đói hoặc đang có TC non, lần đổ xúc xắc này sẽ khó hơn hai cấp độ. Việc cung cấp thức ăn cho một TC vật đang đói có thể làm cho lần đổ xúc xắc dễ hơn một hoặc hai Cấp Độ Khó hoặc có thể làm cho TC vật bắt đầu đi theo Nhân Vật để lấy thêm thức ăn, tùy thuộc vào hoàn cảnh.
+
+#### Thi Triển Phép Thuật (TT+NL)
+
+Thi Triển Phép Thuật là một kỹ năng phép thuật cần thiết đối với Phép Thuật Huyền Bí. Đó là khả năng của người sử dụng phép thuật để thi triển thành công các phép thuật đã được ghi nhớ trước đó từ sách phép hoặc cuộn giấy. Nó cũng đại diện cho việc người thi triển tìm thấy trạng thái tinh thần chính xác để thi triển một phép thuật, các cử chỉ và câu thần chú đi kèm, v.v. Năng lực tăng dần trong kỹ năng này cũng cải thiện Cường Độ cuối cùng của bất kỳ phép thuật nào được thi triển với nó.#### Kiến Thức Bí Thuật (TT x2)
+
+Giống như Thi Triển Bí Thuật, kỹ năng ma thuật này là thiết yếu đối với Ma thuật Bí thuật. Nó đại diện cho kiến thức phép thuật tích lũy thực tế của một pháp sư, và được sử dụng khi cố gắng học các phép thuật mới, chép chúng vào sách phép, tạo cuộn giấy, xác định một phép thuật khi nó đang được thi triển, v.v. Nó cũng xác định số lượng phép thuật khởi đầu mà người thi triển có thể có - được đề cập chi tiết hơn trong phần [Cấu Trúc Cấp Bậc](0003_Classes.md?id=rank-structure-2) của Giai Cấp Pháp Sư.
+
+Kiến Thức Bí Thuật không chỉ giới hạn ở những người thi triển Bí Thuật. Nó có thể được tiếp nhận bởi những người chỉ đơn giản muốn nghiên cứu các lĩnh vực bí truyền ngay cả khi họ không tích cực thực hành Ma thuật Bí thuật.
+
+#### Nghệ Thuật (NL+SH)
+
+Có rất nhiều loại hình nghệ thuật cụ thể. Từ hội họa đến thơ ca; từ văn học đến điêu khắc. Một Nhân Vật chọn một chuyên môn Nghệ thuật khi chọn kỹ năng này - ví dụ: Nghệ Thuật (Hội Họa). Các loại hình Nghệ thuật tiếp theo được nâng cao riêng biệt. Một lần đổ xúc xắc được thực hiện bất cứ khi nào một Nhân Vật cần gây ấn tượng hoặc thuyết phục thông qua phương tiện nghệ thuật của mình.
+
+#### Quan Liêu (TT x2)
+
+Hiểu biết về các thủ tục hành chính, hồ sơ và các quy ước bất thành văn được bao gồm trong kỹ năng Quan Liêu. Nó được sử dụng để tương tác với các quan chức hoặc khám phá thông tin dân sự liên quan. Tùy thuộc vào mức độ tinh vi của nền Văn Hóa của họ, các quan chức không nhất thiết phải biết chữ. Tuy nhiên, kỹ năng Quan Liêu của họ không được vượt quá điểm số của kỹ năng Ngôn Ngữ hoặc Biết Chữ mà họ đang làm việc. Bất cứ khi nào cần phải điều hướng qua các thủ tục rườm rà hoặc bối cảnh hành chính, một lần đổ xúc xắc Quan Liêu là cần thiết.
+
+#### Dẫn Truyền (TT+SH)
+
+Dẫn Truyền là kỹ năng ma thuật được sử dụng để kêu gọi và điều khiển sức mạnh của các vị thần. Năng lực ngày càng tăng trong kỹ năng này cũng cải thiện Cường Độ cuối cùng của bất kỳ phép thuật nào được thi triển với nó.
+
+#### Thương Mại (TT+SH)
+
+Thương Mại được sử dụng để đánh giá giá trị của hàng hóa và vật phẩm và trao đổi chúng với mức giá tốt nhất có thể. Nó cũng được sử dụng để hiểu sự phức tạp của các giao dịch kinh doanh bên cạnh việc đảm bảo lợi nhuận. Một công dụng khác là tìm cách tốt nhất để tiêu thụ hàng hóa bị đánh cắp và bất hợp pháp - một lần nữa với mức giá tốt nhất có thể. Thương Mại rõ ràng được sử dụng khi giao dịch và nó có thể bị Đối Kháng bởi kỹ năng Thương Mại hoặc Ý Chí của đối thủ, phản ánh những nỗ lực của phía đối phương nhằm thúc đẩy thỏa thuận theo hướng có lợi cho họ. Nó cũng được sử dụng để đánh giá giá trị thị trường của hàng hóa, hiểu rõ về giá cả và nơi giao dịch tốt nhất.
+
+#### Lễ Nghi (TT+SH)
+
+Kỹ năng này bao gồm sự hiểu biết về cách hành xử phù hợp trong một tình huống xã hội hoặc trang trọng: cách xưng hô, nghi lễ và các quy ước ứng xử, v.v. Nó bao gồm mọi thứ từ việc cúi chào ai và khi nào, cúi thấp đến mức nào; từ khi nào nên sử dụng một danh hiệu cụ thể đến khi nào thích hợp để hành động một cách thân mật.
+
+#### Thủ Công (KL+TT)
+
+Mỗi Thủ Công là một hình thức chuyên biệt, ví dụ: Thủ Công (Đồ Gốm), và có nhiều nghề thủ công như số lượng nghề nghiệp dành cho chúng. Giống như Nghệ Thuật, Thủ Công được sử dụng để tạo ra vật phẩm mục tiêu. Mất bao lâu phụ thuộc hoàn toàn vào bản chất của sản phẩm: ví dụ, dệt một tấm thảm tốn nhiều thời gian hơn làm một chiếc bình, nhưng thời gian không nhất thiết là yếu tố quan trọng nhất: đó là kỹ năng của người thợ thủ công, chất lượng tài nguyên và sự chú ý đến từng chi tiết.
+
+#### Văn Hóa (TT x2)
+
+Văn Hóa là hình thức cụ thể hơn của Kỹ Năng Tiêu Chuẩn về Phong Tục, liên quan đến các xã hội xa lạ với xã hội của chính Nhân Vật đó. Mỗi kỹ năng Văn Hóa phải được gắn với một quốc gia hoặc xã hội cụ thể mà nó áp dụng. Về mặt cơ chế, nó hoạt động theo cách tương tự như kỹ năng Phong Tục.
+
+#### Sùng Bái (NL+SH)
+
+Sùng Bái là một kỹ năng ma thuật phản ánh sự cam kết của một giáo sĩ đối với việc phục vụ một thần linh. Nó không chỉ đo lường mức độ sùng bái đối với một vị thần, mà còn chi phối Độ Lớn của bất kỳ phép thuật Thần Linh nào được Nhân Vật kêu gọi. Ngoài ra, kỹ năng này có thể cho biết vị thế của một người thi triển Thần Linh trong một tổ chức tôn giáo.
+
+Sùng Bái không chỉ giới hạn ở những người thi triển Thần Linh. Nó có thể được tiếp nhận bởi những người chỉ đơn giản muốn tỏ lòng tôn kính với các vị thần ngay cả khi họ không tích cực thực hành ma thuật Thần Linh.
+
+#### Ngụy Trang (TT+SH)
+
+Việc thực hiện một sự ngụy trang thuyết phục, sử dụng các vật liệu phù hợp (trang phục, mỹ phẩm, tóc giả hoặc các mảnh tóc giả), được bao gồm trong kỹ năng Ngụy Trang. Tạo ra sự ngụy trang đòi hỏi thời gian và sự chú ý đến chi tiết, cũng như quyền truy cập vào các vật liệu phù hợp để làm cho nó trở nên thuyết phục. Nếu một số, hoặc tất cả các yếu tố này không có mặt thì Cấp Độ Khó của lần đổ xúc xắc Ngụy Trang sẽ trở nên khó hơn một hoặc nhiều bậc.
+
+#### Kỹ Thuật (TT x2)
+
+Việc thiết kế và xây dựng các cấu trúc quy mô lớn, từ nhà ở đến cầu cống, cổng thành đến các loại máy công thành, nằm trong phạm vi của kỹ năng Kỹ Thuật. Việc đổ xúc xắc là cần thiết khi lập kế hoạch cho các dự án quy mô lớn để đảm bảo việc xây dựng chính xác nhưng cũng được thực hiện khi một kỹ sư muốn đánh giá tính toàn vẹn của một cấu trúc vì bất kỳ lý do gì (ví dụ: tình trạng hư hỏng hoặc các điểm yếu).
+
+#### Đánh Bạc (TT+NL)
+
+Kỹ năng Đánh Bạc đo lường năng lực của một Nhân Vật trong các trò chơi may rủi và đặc biệt là nơi tiền bạc được đặt cược vào kết quả. Nó được sử dụng để đánh giá tỷ lệ thành công hay thất bại hoặc phát hiện khi ai đó đang gian lận. Kỹ năng có thể được sử dụng theo cách đối kháng hoặc không đối kháng, tùy thuộc vào tình huống. Trải qua một đêm trong một sòng bạc ẩn danh có thể chỉ cần một bài kiểm tra thẳng, trong khi một trò chơi xúc xắc đặt cược cao liên quan đến những nhân vật nổi tiếng có thể cần một vài Vòng Đổ Xúc Xắc Đối Kháng.
+
+#### Chữa Trị (TT+NL)
+
+Chữa Trị là kiến thức chuyên sâu về các thủ tục y tế, dựa trên các thực hành văn hóa. Ví dụ, trong một nền văn hóa Nguyên Thủy hoặc Man Di, Chữa Trị sẽ dựa trên kiến thức về thảo dược và các phương pháp chữa bệnh tự nhiên. Trong một nền văn hóa Văn Minh, thuốc men và các phương pháp điều trị tiên tiến hơn sẽ phổ biến hơn. Trong tất cả các nền văn hóa, Chữa Trị bao gồm khả năng nắn xương, khâu vết thương, v.v. Rõ ràng, việc áp dụng Chữa Trị đòi hỏi các nguồn lực phù hợp, và hầu hết các thầy thuốc thực hành sẽ có những thứ đó trong tầm tay (kim, chỉ khâu, thảo dược đắp vết thương, v.v.).
+
+#### Đe Dọa (TT+SH)
+
+Kỹ năng này được sử dụng để đe dọa một cá nhân vào một quá trình hành động mà họ sẽ không muốn thực hiện. Nó thường được sử dụng để lấy thông tin từ người khác, hoặc để khiến đối thủ lùi bước thông qua việc đe dọa bạo lực thể xác. Các bài kiểm tra Đe Dọa có thể được điều chỉnh dựa trên phương pháp được sử dụng và mức độ nguy hiểm mà đối thủ cảm nhận được. Đe Dọa thường bị Đối Kháng bởi Ý Chí của nạn nhân, tuy nhiên, nếu được sử dụng với tra tấn, Sức Bền có thể được áp dụng.
+
+#### Ngôn Ngữ (TT+SH)
+
+Kỹ năng này bao gồm việc nói và hiểu các ngôn ngữ khác ngoài ngôn ngữ của chính Nhân Vật. Kỹ năng Ngôn Ngữ không được đổ xúc xắc trực tiếp mà được coi là một đại diện tĩnh cho sự lưu loát tổng thể. Giá trị của nó được Quản Trò sử dụng để giới hạn mức độ tương tác nói khi người chơi trò chuyện với các tính cách trong trò chơi. Sử dụng [bảng Sự Lưu Loát Ngôn Ngữ](0005_Skills.md?id=linguistic-fluency-table) như một hướng dẫn.
+
+##### Bảng Sự Lưu Loát Ngôn Ngữ
+
+| Ngôn ngữ% | Sự Lưu Loát trong Trò Chuyện |
 | :-: | :-- |
-| 01-25% | Chỉ có thể hiểu một vài từ đơn giản, không thể đặt câu, hoặc đọc |
-| 26-50% | Có thể hiểu và giao tiếp bằng những câu rời rạc, đơn giản, chẳng hạn như "Đền ở đâu?" hoặc "Bao nhiêu thức ăn?" Có thể đọc ở trình độ tiểu học |
-| 51-75% | Đủ trôi chảy cho cuộc trò chuyện chung và có thể đọc ở trình độ trung học |
-| 76%+ | Có khả năng diễn đạt trôi chảy và có thể đọc ở trình độ đại học |
+| 01-25% | Chỉ có thể hiểu một vài từ đơn giản, không thể diễn đạt thành câu, hoặc đọc |
+| 26-50% | Có thể hiểu và giao tiếp bằng các câu đơn giản, rời rạc, chẳng hạn như "Đền thờ ở đâu?" hoặc "Bao nhiêu thức ăn?" Có thể đọc ở trình độ tiểu học |
+| 51-75% | Đủ lưu loát cho cuộc trò chuyện thông thường và có thể đọc ở trình độ trung học |
+| 76%+ | Có khả năng diễn đạt bản thân một cách hùng hồn và có thể đọc ở trình độ đại học |
 
-Mỗi kỹ năng Ngôn ngữ dành riêng cho một ngôn ngữ chủng tộc, quốc gia hoặc khu vực cụ thể, phải được chọn tại thời điểm học. Nó cũng có thể giúp hiểu các phương ngữ tương tự có chung nền tảng hoặc nguồn gốc ngôn ngữ. Tùy thuộc vào sự khác biệt, lần tung kỹ năng nên được coi là khó hơn ít nhất một Cấp độ Khó khăn, có khả năng làm giảm sự trôi chảy của nhân vật.
+Mỗi kỹ năng Ngôn Ngữ dành riêng cho một ngôn ngữ chủng tộc, quốc gia hoặc khu vực cụ thể, phải được chọn tại thời điểm học. Nó cũng có thể giúp hiểu các phương ngữ tương tự có chung cơ sở hoặc nguồn gốc ngôn ngữ. Tùy thuộc vào sự khác biệt, lần đổ xúc xắc kỹ năng nên được xử lý khó hơn ít nhất một Cấp Độ Khó, có thể làm giảm sự lưu loát của Nhân Vật.
 
-Kỹ năng Ngôn ngữ bao gồm cả biết đọc viết. Biết đọc viết không nhất thiết có nghĩa là biết viết, vì có vô số cách để ghi lại thông tin. Một số nền văn hóa có thể khắc các biểu tượng lên cây hoặc xương, trong khi những nền văn hóa khác ghi lại lịch sử bằng các kiểu thắt nút phức tạp trên tấm thảm. Cũng không phải tất cả các hình thức biết đọc viết đều dựa trên bảng chữ cái ngữ âm; chữ tượng hình và chữ biểu ý cũng rất phổ biến.
+Kỹ năng Ngôn Ngữ bao gồm biết chữ. Biết chữ không nhất thiết ngụ ý là viết, vì có vô số cách để ghi lại thông tin. Một số nền văn hóa có thể khắc các biểu tượng vào cây hoặc các mảnh xương, trong khi những nền văn hóa khác ghi lại lịch sử bằng các mẫu nút thắt phức tạp trong một tấm thảm. Cũng không phải tất cả các hình thức biết chữ đều dựa trên bảng chữ cái ngữ âm; chữ tượng hình và chữ biểu ý cũng rất phổ biến.
 
-#### Ngôn ngữ (Tiếng lóng của kẻ trộm) (Thieves' Cant) (INT+CHA)
+#### Ngôn Ngữ (Tiếng Lóng Trộm Cướp) (TT+SH)
 
-_(Chỉ dành cho Rogue)_: Yêu cầu Lời thề với Hội Kẻ trộm để học loại tiếng lóng này ở Cấp độ Cơ bản. Kỹ năng 'Ngôn ngữ' này bao gồm tiếng lóng và các ý nghĩa ngụ ý và được sử dụng giữa những tên trộm để thảo luận về các hoạt động bất hợp pháp ở nơi công cộng, mà không tiết lộ thông tin cho các bên quan tâm khác. Giao tiếp này chỉ giới hạn trong các cuộc thảo luận về đột nhập và trộm cắp. Những Rogue là thành viên lâu năm của Hội Kẻ trộm sẽ tự động biết kỹ năng này ở Cấp độ Cơ bản +40%. Những người học nó trong khi chơi bắt đầu ở Cấp độ Cơ bản.
+_(Chỉ dành cho Kẻ Trộm)_: Yêu cầu Lời Thề với Bang Hội Trộm Cướp để học phương ngữ này ở Cấp Độ Cơ Bản. Kỹ năng 'Ngôn Ngữ' này bao gồm tiếng lóng và các ý nghĩa ngụ ý, được những kẻ trộm sử dụng để thảo luận về các mục đích bất hợp pháp ở nơi công cộng mà không tiết lộ thông tin cho các bên quan tâm khác. Sự giao tiếp này chỉ giới hạn trong các cuộc thảo luận về đột nhập và xâm nhập. Những kẻ trộm là thành viên lâu năm của Bang Hội Trộm Cướp sẽ tự động biết kỹ năng này ở Cấp Độ Cơ Bản +40%. Những người học nó trong quá trình chơi bắt đầu ở Cấp Độ Cơ Bản.
 
-#### Mở khóa (Lockpicking) (DEX x2)
+#### Mở Khóa (KL x2)
 
-Mở khóa là khả năng mở một hệ thống khóa cơ học mà không cần sự trợ giúp của chìa khóa hoặc thiết bị khác được tạo ra dành riêng cho ổ khóa đó. Nó bao gồm các kỹ thuật mở các cửa và cửa sổ bị chốt hoặc rào mà không gây hư hại. Mở khóa cũng có thể được sử dụng để 'khóa ngược ổ khóa'; nghĩa là khóa cửa, rương, v.v., khi không có chìa khóa.
+Mở Khóa là khả năng mở một hệ thống khóa cơ học mà không cần sự trợ giúp của chìa khóa hoặc thiết bị khác được tạo riêng cho ổ khóa đó. Nó bao gồm các kỹ thuật bẩy mở các cửa và cửa sổ có chốt hoặc thanh chắn mà không gây hư hại. Mở Khóa cũng có thể được sử dụng để 'khóa ngược ổ khóa'; nghĩa là khóa cửa, rương, v.v. khi không có chìa khóa.
 
-#### Kiến thức (Lore) (INT x2)
+#### Kiến Thức (TT x2)
 
-Kiến thức bao gồm một khối kiến thức cụ thể phải được chọn khi kỹ năng được học lần đầu: ví dụ: Kiến thức (Giả kim thuật). Giả kim thuật, Chiêm tinh học, Thiên văn học, Địa lý, Huy hiệu học, Lịch sử, Hộ sinh, Khoáng vật, Quái vật, Chính trị, Tôn giáo, Chiến lược và Chiến thuật: đây đều là những ví dụ điển hình về các kỹ năng Kiến thức. Có kỹ năng trong Kiến thức có nghĩa là nhân vật hiểu các nguyên tắc cơ bản của nó, cách nó có thể được áp dụng cho các thử thách và vấn đề tức thời và có thể sử dụng kỹ năng Kiến thức (Chủ đề) để ghi nhớ thông tin hữu ích.
+Kiến Thức bao gồm một khối kiến thức cụ thể phải được chọn khi kỹ năng được học lần đầu tiên: ví dụ: Kiến Thức (Giả Kim Thuật). Giả Kim Thuật, Chiêm Tinh Học, Thiên Văn Học, Địa Lý, Huy Hiệu Học, Lịch Sử, Hộ Sinh, Khoáng Vật, Quái Vật, Chính Trị, Tôn Giáo, Chiến Lược và Chiến Thuật: đây đều là những ví dụ điển hình của các kỹ năng Kiến Thức. Kỹ năng trong một Kiến Thức có nghĩa là Nhân Vật hiểu các nguyên tắc cơ bản của nó, cách nó có thể được áp dụng cho các thách thức và vấn đề tức thời và có thể sử dụng kỹ năng Kiến Thức (Chủ Đề) để nhớ lại thông tin hữu ích.
 
-#### Cơ khí (Mechanisms) (DEX+INT)
+#### Cơ Chế (KL+TT)
 
-Cơ khí đại diện cho kiến thức và kỹ năng để lắp ráp và tháo rời các thiết bị cơ học, chẳng hạn như bẫy. Kỹ năng Cơ khí thường liên quan đến việc tạo ra các thiết bị tinh xảo với các bộ phận hoạt động nhỏ, trái ngược với Kỹ thuật, vốn xử lý các công trình đồ sộ. Đây là một bộ môn riêng biệt với Mở khóa và không thể thay thế cho kỹ năng đó.
+Cơ Chế đại diện cho kiến thức và kỹ năng để lắp ráp và tháo rời các thiết bị cơ học, chẳng hạn như bẫy. Kỹ năng Cơ Chế thường liên quan đến việc tạo ra các thiết bị tinh xảo với các bộ phận hoạt động nhỏ, trái ngược với Kỹ Thuật, xử lý các cấu trúc khổng lồ. Đây là một bộ môn riêng biệt với Mở Khóa và không thể thay thế cho kỹ năng đó.
 
-#### Âm nhạc (Musicianship) (DEX+CHA)
+#### Nhạc Công (KL+SH)
 
-Âm nhạc bao gồm việc chơi các nhạc cụ; từ một ống sậy đơn giản đến một nhạc cụ dây phức tạp như đàn hạc, và mỗi lần lặp lại của Âm nhạc được áp dụng cho một nhóm các nhạc cụ tương tự. Một nhạc sĩ với Âm nhạc (Sáo) có thể chơi ống sậy nhưng cũng có thể chơi sáo ngang, sáo pan, hoặc sáo dọc vì các nguyên tắc cơ bản là giống nhau. Tuy nhiên, họ không thể chơi đàn hạc hoặc đàn lute.
+Nhạc Công bao gồm việc chơi các nhạc cụ; từ một ống sậy đơn giản đến một nhạc cụ dây phức tạp như đàn hạc, và mỗi lần lặp lại của Nhạc Công được áp dụng cho một nhóm các nhạc cụ tương tự. Một nhạc sĩ với Âm Nhạc (Sáo) có thể chơi ống sậy nhưng cũng có thể chơi sáo ngang, sáo pan hoặc sáo dọc vì các nguyên tắc cơ bản là giống nhau. Tuy nhiên, họ không thể chơi đàn hạc hoặc đàn lute.
 
-#### Điều hướng (Navigation) (INT+POW)
+#### Điều Hướng (TT+NL)
 
-Cho dù sử dụng các địa danh nổi bật, các vì sao hay mùi vị khác nhau của nước biển, khả năng định hướng di chuyển chính xác đều được bao gồm trong kỹ năng Điều hướng. Mỗi kỹ năng Điều hướng bao gồm một khu vực hoặc môi trường cụ thể, ví dụ như Biển khơi hoặc Dưới lòng đất. Nó nên được thực hiện trong các chuyến đi bất thường hoặc khi ở trong lãnh thổ hoàn toàn xa lạ.
+Cho dù sử dụng các địa danh nổi bật, các vì sao, hay hương vị khác nhau của nước biển, khả năng chỉ dẫn hành trình chính xác được bao gồm trong kỹ năng Điều Hướng. Mỗi kỹ năng Điều Hướng bao gồm một khu vực hoặc môi trường cụ thể, ví dụ như Biển Khơi hoặc Dưới Lòng Đất. Nó nên được thực hiện trong các chuyến đi bất thường hoặc khi ở trong lãnh thổ hoàn toàn xa lạ.
 
-#### Hùng biện (Oratory) (POW+CHA)
+#### Hùng Biện (NL+SH)
 
-Hùng biện là nghệ thuật thực hiện một bài phát biểu trước một nhóm đông người với mục đích truyền tải hoặc xoay chuyển quan điểm. Đây là một kỹ năng thường được các chính trị gia sử dụng để thúc đẩy một chính sách nhưng cũng được các chỉ huy sử dụng để truyền cảm hứng cho quân đội và thiết lập kỷ luật trên chiến trường. Bất cứ nơi nào cần sự thuyết phục đám đông, Hùng biện, thay vì Ảnh hưởng, được sử dụng.
+Hùng Biện là nghệ thuật diễn thuyết trước một nhóm đông người với mục đích truyền đạt hoặc làm lung lay quan điểm. Đây là một kỹ năng thường được các chính trị gia sử dụng để củng cố chính sách nhưng cũng được các chỉ huy sử dụng để truyền cảm hứng cho quân đội và áp đặt kỷ luật trên chiến trường. Bất cứ nơi nào cần thuyết phục đám đông, Hùng Biện, thay vì Ảnh Hưởng, sẽ được sử dụng.
 
-#### Đi biển (Seamanship) (INT+CON)
+#### Kỹ Năng Hàng Hải (TT+TC)
 
-Kỹ năng này được sử dụng theo cùng một cách như [Chèo thuyền](0005_Skills.md?id=boating-strcon) nhưng thay vào đó được áp dụng cho các tàu thủy lớn chạy bằng buồm hoặc giàn mái chèo. Nó cũng bao gồm việc bảo trì và duy trì con tàu: đánh giá khi nào cần sửa chữa, nơi an toàn để neo đậu, sự nguy hiểm của thời tiết dữ dội, v.v.
+Kỹ năng này được sử dụng theo cách tương tự như [Chèo Thuyền](0005_Skills.md?id=boating-strcon) nhưng thay vào đó được áp dụng cho các tàu thủy lớn chạy bằng buồm hoặc hàng mái chèo. Nó cũng bao gồm việc bảo trì và bảo dưỡng tàu: đánh giá khi nào cần sửa chữa, nơi nào an toàn để neo đậu, những nguy hiểm của thời tiết dữ dội, v.v.
 
-#### Tán tỉnh (Seduction) (INT+CHA)
+#### Quyến Rũ (TT+SH)
 
-Tán tỉnh là sự thuyết phục lãng mạn hoặc tình dục đối với người khác, một kỹ năng rất khác với Ảnh hưởng. Nó sử dụng các tín hiệu rõ ràng – bằng lời và không bằng lời – để gợi ra một phản ứng tình dục tích cực. Nó cũng mất một khoảng thời gian đáng kể: việc Tán tỉnh thành công có thể mất hàng giờ, hàng ngày hoặc hàng tuần để đạt được tùy thuộc vào đạo đức của mục tiêu, những người luôn có thể cố gắng chống lại sự Tán tỉnh bằng Ý chí.
+Quyến Rũ là sự thuyết phục lãng mạn hoặc tình dục của người khác, một kỹ năng rất khác với Ảnh Hưởng. Nó sử dụng các tín hiệu rõ ràng - bằng lời nói và không lời - để gợi ra một phản ứng tình dục tích cực. Nó cũng mất một lượng thời gian đáng kể: sự Quyến Rũ thành công có thể mất hàng giờ, hàng ngày hoặc hàng tuần để đạt được tùy thuộc vào đạo đức của mục tiêu, những người luôn có thể cố gắng chống lại sự Quyến Rũ bằng Ý Chí.
 
-#### Chuyển đồ (Sleight) (DEX+CHA)
+#### Khéo Léo (KL+SH)
 
-Chuyển đồ bao gồm các nỗ lực lòng bàn tay hoặc che giấu các vật thể nhỏ (ảo thuật và sự nhanh tay) và bao gồm các nỗ lực móc túi, cắt túi, hoặc gây ra sự phân tâm về thị giác. Đương nhiên, đó là một kỹ năng thiết yếu của những tên trộm.
+Khéo Léo bao gồm các nỗ lực để giấu hoặc che đậy các vật nhỏ (ảo thuật tay và các thủ thuật nhanh tay) và bao gồm các nỗ lực móc túi, cắt túi, hoặc gây xao nhãng bằng thị giác. Đương nhiên, đó là một kỹ năng thiết yếu của kẻ trộm.
 
-#### Hiểu biết đường phố (Streetwise) (POW+CHA)
+#### Thông Thạo Đường Phố (NL+SH)
 
-Hiểu biết đường phố đại diện cho kiến thức về các địa điểm và các mối quan hệ xã hội trong một khu định cư. Nó bao gồm mọi thứ từ việc xác định các khu vực lân cận có khả năng nguy hiểm, đến tìm kiếm các dịch vụ địa phương – hợp pháp hoặc bất hợp pháp. Thời gian một nỗ lực Hiểu biết đường phố mất bao lâu phụ thuộc vào những gì được tìm kiếm. Tìm một quán trọ tốt sẽ mất ít thời gian hơn là tìm một nơi tiêu thụ hàng ăn cắp hoặc giấy phép giao dịch giả.
+Thông Thạo Đường Phố đại diện cho kiến thức về các địa điểm và các mối quan hệ xã hội trong một khu định cư. Nó bao gồm mọi thứ từ việc xác định các khu phố có khả năng nguy hiểm, đến việc tìm kiếm các dịch vụ địa phương - hợp pháp hoặc bất hợp pháp. Một nỗ lực Thông Thạo Đường Phố mất bao lâu phụ thuộc vào những gì được tìm kiếm. Tìm một quán trọ tốt sẽ tốn ít thời gian hơn là xác định vị trí một kẻ tiêu thụ hàng trộm cắp hoặc một giấy phép kinh doanh giả mạo.
 
-#### Sinh tồn (Survival) (CON+POW)
+#### Sinh Tồn (TC+NL)
 
-Kỹ năng này bao gồm việc sinh tồn trong môi trường nông thôn hoặc hoang dã, nơi không có lợi ích của văn minh: tìm kiếm thức ăn, đốt lửa, tìm nơi trú ẩn hoặc nơi ngủ an toàn. Khi được trang bị đầy đủ, các lần tung xúc xắc thường không cần thiết vì nhân vật có thể mang theo lều, nguồn cung cấp thực phẩm, v.v. Chỉ khi bị tách khỏi thiết bị của họ hoặc khi điều kiện môi trường trở nên xấu đi thì việc sử dụng kỹ năng này mới trở nên cần thiết. Một lần tung thường được thực hiện mỗi ngày trong những điều kiện như vậy.
+Kỹ năng này bao gồm việc sinh tồn trong môi trường nông thôn hoặc hoang dã nơi thiếu vắng các lợi ích của nền văn minh: tìm kiếm thức ăn, nhóm lửa, tìm nơi trú ẩn hoặc nơi an toàn để ngủ. Khi được trang bị đầy đủ, việc đổ xúc xắc thường không cần thiết vì Nhân Vật có thể đang mang theo lều, nguồn cung cấp thực phẩm, v.v. Chỉ khi bị tách khỏi thiết bị của họ hoặc khi điều kiện môi trường trở nên xấu thì việc sử dụng kỹ năng này mới trở nên thiết yếu. Một lần đổ xúc xắc thường được thực hiện mỗi ngày trong những điều kiện như vậy.
 
-#### Theo dấu (Track) (INT+CON)
+#### Theo Dấu (TT+TC)
 
-Kỹ năng Theo dấu được sử dụng để theo dõi bất kỳ hình thức thú săn hoặc con mồi nào. Nó sử dụng cả những dấu hiệu rõ ràng và mơ hồ về việc đi qua để duy trì trên đường mòn của con mồi, bao gồm dấu chân, lá bị dập, phấn hoa bị phân tán, đá bị xê dịch, v.v.; những dấu hiệu nhỏ, mách bảo mà mắt thường không thể thấy được. Các lần tung Theo dấu cần được thực hiện định kỳ, đặc biệt nếu các điều kiện thay đổi đột ngột (ví dụ, một trận mưa sẽ làm xáo trộn các dấu hiệu nhất định). Tần suất phụ thuộc vào mức độ xảo quyệt của con mồi. Các lần tung Che giấu có thể được sử dụng để đối kháng một lần tung Theo dấu.
+Kỹ năng Theo Dấu được sử dụng để theo dõi bất kỳ hình thức thú săn hoặc TC mồi nào. Nó sử dụng cả những dấu hiệu rõ ràng và mơ hồ để giữ trên dấu vết của TC mồi, bao gồm dấu chân, lá bị dập, phấn hoa bị tán xạ, đá bị xê dịch, v.v.; những dấu hiệu nhỏ, mách nước vô hình đối với người không có kỹ năng. Các lần đổ xúc xắc Theo Dấu cần được thực hiện định kỳ, đặc biệt nếu điều kiện thay đổi đột ngột (ví dụ: một trận mưa sẽ làm xáo trộn một số dấu hiệu). Tần suất phụ thuộc vào việc TC mồi đã xảo quyệt như thế nào. Các lần đổ xúc xắc Che Giấu có thể được sử dụng để đối kháng với một lần đổ xúc xắc Theo Dấu.
 
 ---
-## Quy tắc Kỹ năng cho các Hoàn cảnh và Tình huống khác nhau
+## Quy Tắc Kỹ Năng Cho Các Hoàn Cảnh và Tình Huống Khác Nhau
 
-Mặc dù các quy tắc cơ bản để sử dụng kỹ năng trong _Classic Fantasy Imperative_ rất đơn giản, nhưng có vô số hoàn cảnh khác nhau phát sinh trong quá trình chơi đòi hỏi các kỹ năng phải được xử lý theo một cách hơi khác. Các phần sau đây xem xét các hoàn cảnh và tình huống này và chỉ ra cách xử lý chúng.
+Mặc dù các quy tắc cơ bản để sử dụng kỹ năng trong _Classic Fantasy Imperative_ rất đơn giản, nhưng có vô số tình huống khác nhau nảy sinh trong quá trình chơi đòi hỏi các kỹ năng phải được xử lý theo cách hơi khác một chút. Các phần sau đây xem xét các hoàn cảnh và tình huống này và chỉ ra cách xử lý chúng.
 
-#### Thử lại Kỹ năng
+#### Thử Lại Kỹ Năng
 
-Trong một số tình huống, một nhân vật sẽ Thất bại trong một lần thử kỹ năng nhưng lại bị rơi vào tình huống mà họ có thể thử lại. Các trường hợp ví dụ có thể là mở khóa hoặc cố gắng leo lên một bức tường thẳng đứng. Thay vì chỉ đơn giản là từ chối bất kỳ nỗ lực nào nữa, những Người quản trò tốt bụng có thể cho phép một nỗ lực theo sau, nỗ lực cuối cùng. Tuy nhiên, nhân vật sẽ phải chịu một chút lo lắng hoặc thiếu tự tin, làm tăng Cấp độ Khó khăn của lần tung kỹ năng lên một mức.
+Trong một số tình huống, một Nhân Vật sẽ Thất Bại trong một lần thử kỹ năng nhưng lại bị bỏ lại trong tình huống mà họ có khả năng thử lại. Các trường hợp ví dụ có thể là mở một ổ khóa hoặc cố gắng leo lên một bức tường thẳng đứng. Thay vì chỉ đơn giản từ chối bất kỳ nỗ lực nào thêm, các Quản Trò tốt bụng có thể cho phép một nỗ lực cuối cùng, theo sau. Tuy nhiên, Nhân Vật sẽ phải chịu một chút lo lắng hoặc thiếu tự tin làm tăng Cấp Độ Khó của lần đổ xúc xắc kỹ năng lên một bậc.
 
-Nếu nỗ lực thứ hai này cũng kết thúc trong thất bại, nhân vật được coi là đã thực hiện 'cú bắn tốt nhất' của mình và không thể thực hiện thêm bất kỳ nỗ lực nào nữa trong tương lai gần.
+Nếu nỗ lực thứ hai này cũng kết thúc trong thất bại, Nhân Vật được coi là đã nỗ lực 'hết sức' của mình và không thể thực hiện thêm bất kỳ nỗ lực nào nữa trong tương lai gần.
 
-### Các lần tung Đối kháng
+### Đổ Xúc Xắc Đối Kháng
 
-Các kỹ năng thường được sử dụng để chống lại các kỹ năng khác – ví dụ: Lén lút đối đầu với Quan sát khi một tên trộm cố gắng cắt túi của một quý tộc; hoặc Lừa dối đối đầu với Sáng suốt khi cùng một tên trộm đó cố gắng phủ nhận nỗ lực khi cô ta bị bắt quả tang. Đây là những ví dụ tốt về những thời điểm mà các kỹ năng được so sánh với nhau. Những lần tung này được gọi là Các lần tung Đối kháng và được sử dụng ở nơi mà một thử thách sẽ dẫn đến kết quả thắng hoặc thua, vượt qua hoặc thất bại.
+Các kỹ năng thường được sử dụng để chống lại các kỹ năng khác - Ẩn Nấp đối với Nhận Thức khi một kẻ trộm cố gắng cắt túi của một quý tộc, chẳng hạn; hoặc Lừa Dối đối với Trực Giác khi chính kẻ trộm đó cố gắng phủ nhận nỗ lực khi cô ấy bị bắt quả tang. Đây là những ví dụ tốt về những thời điểm mà các kỹ năng được đặt đối đầu với nhau. Chúng được gọi là Đổ Xúc Xắc Đối Kháng và được sử dụng khi một thử thách sẽ dẫn đến kết quả thắng hoặc thua, vượt qua hoặc thất bại.
 
-- Một lần tung Đối kháng được xác định như sau: cả hai người tham gia đều tung các kỹ năng tương ứng của họ. Người chiến thắng là người đạt được Mức độ Thành công tốt hơn. Nếu những người tham gia đạt cùng một Mức độ Thành công (một Thành công Tiêu chuẩn mỗi người, hoặc một Chí mạng mỗi người), thì người chiến thắng là người có kết quả tung xúc xắc cao nhất vẫn nằm trong phạm vi thành công của kỹ năng.
+- Một lần Đổ Xúc Xắc Đối Kháng được xác định như sau: cả hai người tham gia đều đổ xúc xắc cho các kỹ năng tương ứng của họ. Người chiến thắng là người đạt được Cấp Độ Thành Công tốt hơn. Nếu những người tham gia đạt được cùng một Cấp Độ Thành Công (mỗi người một Thành Công Tiêu Chuẩn, hoặc mỗi người một Chí Mạng), thì người chiến thắng là người có lần đổ xúc xắc cao nhất nhưng vẫn nằm trong phạm vi thành công của kỹ năng.
 
-Nếu cả hai người tham gia đều Thất bại trong một lần tung Đối kháng, thì hoặc là:
+Nếu cả hai người tham gia đều Thất Bại trong một lần Đổ Xúc Xắc Đối Kháng, thì hoặc là:
 
-- Mô tả tình huống, để cả hai bên treo lơ lửng trong sự căng thẳng kịch tính, sau đó tung lại cuộc thi để xác định người chiến thắng.
-- Người quản trò nên đưa ra một lời giải thích hoặc hoàn cảnh phù hợp với bản chất của sự thất bại.
+- Mô tả tình huống, để cả hai bên trong trạng thái căng thẳng kịch tính, sau đó đổ lại cuộc thi để xác định người chiến thắng.
+- Quản Trò nên đưa ra một số lời giải thích hoặc hoàn cảnh phù hợp với bản chất của sự thất bại.
 
-Các lần tung Đối kháng thường được sử dụng trong một số tình huống chiến đấu để vượt qua tác động của vết thương hoặc đối kháng lại một Hiệu ứng Đặc biệt trong chiến đấu. Chúng cũng được sử dụng để chống lại chất độc và bệnh tật hoặc gạt bỏ tác động của phép thuật độc ác.
+Đổ Xúc Xắc Đối Kháng thường được sử dụng trong các tình huống chiến đấu nhất định để vượt qua tác động của vết thương hoặc đối kháng với một Hiệu Ứng Đặc Biệt chiến đấu. Chúng cũng được sử dụng để chống lại chất độc và bệnh tật hoặc rũ bỏ tác động của ma thuật độc hại.
 
-##### Bảng Ví dụ về lần tung Đối kháng
+##### Bảng Ví Dụ Đổ Xúc Xắc Đối Kháng
 
-| Hoạt động | Ví dụ kỹ năng Đối kháng |
+| Hoạt động | Ví dụ Kỹ Năng Đối Kháng |
 | :-- | :-- |
-| Thương lượng/Mặc cả | Thương mại vs. Thương mại, Ảnh hưởng vs. Thương mại |
-| Đuổi bắt/Đua | Điền kinh vs. Điền kinh, Điền kinh vs. Sức bền, Cưỡi ngựa vs. Cưỡi ngựa |
-| Lừa dối hoặc Nói dối | Lừa dối vs. Sáng suốt, Chuyển đồ vs. Quan sát |
-| Thể hiện lòng trung thành | Đam mê vs. Đam mê, Đam mê vs. Sáng suốt, Đam mê vs. Ảnh hưởng |
-| Tránh sang một bên | Né tránh vs. Điền kinh, Né tránh vs. Cơ khí, Né tránh vs. Cưỡi ngựa |
-| Ẩn nấp hoặc Lén lút | Lén lút vs. Quan sát; Lén lút vs. Theo dấu |
-| Cậy quyền | Ảnh hưởng vs. Ý chí, Lừa dối vs. Ý chí |
-| Giữ vững lộ trình | Sức bền vs. Sức bền, Sức bền vs. Sức mạnh thể chất |
-| Lay chuyển đám đông | Hùng biện vs. Ý chí |
-| Kiểm tra sức mạnh | Sức mạnh thể chất vs. Sức mạnh thể chất, Sức mạnh thể chất vs. Sức bền |
-| Kiểm tra ý chí | Ý chí vs. Ý chí, Tán tỉnh vs. Ý chí |
+| Thương lượng/Mặc cả | Thương Mại vs. Thương Mại, Ảnh Hưởng vs. Thương Mại |
+| Đuổi bắt/Đua | Điền Kinh vs. Điền Kinh, Điền Kinh vs. Sức Bền, Cưỡi vs. Cưỡi |
+| Lừa dối hoặc Nói dối | Lừa Dối vs. Trực Giác, Khéo Léo vs. Nhận Thức |
+| Thể hiện lòng trung thành | Đam Mê vs. Đam Mê, Đam Mê vs. Trực Giác, Đam Mê vs. Ảnh Hưởng |
+| Né tránh | Né Tránh vs. Điền Kinh, Né Tránh vs. Cơ Chế, Né Tránh vs. Cưỡi |
+| Ẩn nấp hoặc Lén lút | Ẩn Nấp vs. Nhận Thức; Ẩn Nấp vs. Theo Dấu |
+| Cậy quyền lực | Ảnh Hưởng vs. Ý Chí, Lừa Dối vs. Ý Chí |
+| Giữ vững lộ trình | Sức Bền vs. Sức Bền, Sức Bền vs. Cơ Bắp |
+| Thuyết phục đám đông | Hùng Biện vs. Ý Chí |
+| Kiểm tra sức mạnh | Cơ Bắp vs. Cơ Bắp, Cơ Bắp vs. Sức Bền |
+| Kiểm tra ý chí | Ý Chí vs. Ý Chí, Quyến Rũ vs. Ý Chí |
 
-### Các lần tung Chênh lệch
+### Đổ Xúc Xắc Vi Phân
 
-Các lần tung Chênh lệch giống như các lần tung Đối kháng ngoại trừ việc thay vì kết quả thắng hoặc thua đơn giản, sự khác biệt về các Mức độ Thành công được tính toán. Chủ yếu được sử dụng để giải quyết chiến đấu, các lần tung Chênh lệch cũng có thể được sử dụng trong các tình huống khác mà Người quản trò muốn tăng kết quả chi tiết của một cuộc thi.
+Đổ Xúc Xắc Vi Phân giống như Đổ Xúc Xắc Đối Kháng ngoại trừ việc thay vì kết quả thắng hoặc thua đơn giản, sự khác biệt về Cấp Độ Thành Công sẽ được tính toán. Chủ yếu được sử dụng để giải quyết chiến đấu, Đổ Xúc Xắc Vi Phân cũng có thể được sử dụng trong các tình huống khác mà Quản Trò muốn tăng kết quả chi tiết của một cuộc thi.
 
-Một lần tung Chênh lệch được xác định theo cách sau: Cả hai người tham gia đều tung chống lại các kỹ năng tương ứng của họ và chịu kết quả của lần tung đó như thể được kiểm tra riêng lẻ. Không có một 'người chiến thắng' tuyệt đối, nhưng bất kỳ ai đạt được Mức độ Thành công cao hơn sẽ đạt được một lợi thế bằng với sự khác biệt về cấp độ thành công giữa họ (giả sử một người tham gia đạt được ít nhất một thành công Tiêu chuẩn trở lên). Nếu cả hai người tham gia đạt cùng một Mức độ Thành công (một thành công Tiêu chuẩn mỗi người, hoặc một Chí mạng mỗi người), thì không có tác động bổ sung nào.
+Một lần Đổ Xúc Xắc Vi Phân được xác định theo cách sau: Cả hai người tham gia đều đổ xúc xắc chống lại các kỹ năng tương ứng của họ và chịu kết quả của lần đổ xúc xắc như khi được kiểm tra độc lập. Không có một 'người chiến thắng' hoàn toàn nào, nhưng bất cứ ai đạt được Cấp Độ Thành Công cao hơn sẽ đạt được lợi thế bằng với sự khác biệt về cấp độ thành công giữa họ (giả sử một người tham gia đạt được ít nhất một thành công Tiêu Chuẩn trở lên). Nếu cả hai người tham gia đạt được cùng một Cấp Độ Thành Công (mỗi người một thành công Tiêu Chuẩn, hoặc mỗi người một Chí Mạng), thì không có hiệu ứng bổ sung nào.
 
-##### Bảng Kết quả lần tung Chênh lệch
+##### Bảng Kết Quả Đổ Xúc Xắc Vi Phân
 
-| Kết quả lần tung | Đối thủ Chí mạng | Đối thủ Thành công | Đối thủ Thất bại | Đối thủ Sai lầm |
+| Kết quả Đổ Xúc Xắc | Đối thủ Chí Mạng | Đối thủ Thành Công | Đối thủ Thất Bại | Đối thủ Thất Bại Thảm Hại |
 | :-- | :-- | :-- | :-- | :-- |
-| Nhân vật chính Chí mạng | Không lợi ích | Nhân vật chính thắng 1 cấp thành công | Nhân vật chính thắng 2 cấp thành công | Nhân vật chính thắng 3 cấp thành công |
-| Nhân vật chính Thành công | Đối thủ thắng 1 cấp thành công | Không lợi ích | Nhân vật chính thắng 1 cấp thành công | Nhân vật chính thắng 2 cấp thành công |
-| Nhân vật chính Thất bại | Đối thủ thắng 2 cấp thành công | Đối thủ thắng 1 cấp thành công | Không lợi ích | Không lợi ích |
-| Nhân vật chính Sai lầm | Đối thủ thắng 3 cấp thành công | Đối thủ thắng 2 cấp thành công | Không lợi ích | Không lợi ích |
+| Nhân Vật Chính Chí Mạng | Không Lợi Ích | Nhân Vật Chính Thắng 1 Cấp Độ Thành Công | Nhân Vật Chính Thắng 2 Cấp Độ Thành Công | Nhân Vật Chính Thắng 3 Cấp Độ Thành Công |
+| Nhân Vật Chính Thành Công | Đối thủ Thắng 1 Cấp Độ Thành Công | Không Lợi Ích | Nhân Vật Chính Thắng 1 Cấp Độ Thành Công | Nhân Vật Chính Thắng 2 Cấp Độ Thành Công |
+| Nhân Vật Chính Thất Bại | Đối thủ Thắng 2 Cấp Độ Thành Công | Đối thủ Thắng 1 Cấp Độ Thành Công | Không Lợi Ích | Không Lợi Ích |
+| Nhân Vật Chính Thất Bại Thảm Hại | Đối thủ Thắng 3 Cấp Độ Thành Công | Đối thủ Thắng 2 Cấp Độ Thành Công | Không Lợi Ích | Không Lợi Ích |
 
-### Các kỹ năng Đối kháng trên 100%
+### Kỹ Năng Đối Kháng Trên 100%
 
-Nếu người tham gia có kỹ năng cao nhất trong một lần tung Đối kháng hoặc Chênh lệch có kỹ năng hơn 100%, người tham gia đó trừ đi sự khác biệt giữa 100 và giá trị kỹ năng của mình từ kỹ năng của tất cả mọi người trong cuộc thi, bao gồm cả bản thân anh ta. Điều này làm giảm giá trị kỹ năng của đối thủ nhưng giúp anh ta giữ được lợi thế.
+Nếu người tham gia có kỹ năng cao nhất trong một lần Đổ Xúc Xắc Đối Kháng hoặc Vi Phân có kỹ năng hơn 100%, người tham gia đó trừ đi sự khác biệt giữa 100 và giá trị kỹ năng của mình khỏi kỹ năng của mọi người trong cuộc thi, bao gồm cả chính mình. Điều này làm giảm giá trị kỹ năng của các đối thủ nhưng khiến người đó vẫn giữ được lợi thế.
 
-Việc xác định ai có kỹ năng cao nhất phải được tính toán sau khi bất kỳ sửa đổi nào khác cho hoàn cảnh đã được áp dụng.
+Việc xác định ai có kỹ năng cao nhất phải được tính toán sau khi bất kỳ hệ số nào khác cho các hoàn cảnh đã được áp dụng.

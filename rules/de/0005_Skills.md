@@ -1,368 +1,368 @@
 # Kapitel 5: Fertigkeiten
 
-Fertigkeiten sind in zwei Kategorien unterteilt: Standard- und Berufsfertigkeiten. Alle Charaktere verfügen über denselben Satz an Standardfertigkeiten. Berufsfertigkeiten unterscheiden sich von Charakter zu Charakter und spiegeln die in einer Laufbahn sowie teilweise in der Kultur entwickelte Expertise wider. Ungeachtet dieser Unterscheidung funktionieren Standard- und Berufsfertigkeiten auf die gleiche Weise.
+Fertigkeiten sind in zwei Kategorien unterteilt: Standardfertigkeiten und Berufsfertigkeiten. Alle Charaktere verfügen über denselben Satz an Standardfertigkeiten. Berufsfertigkeiten unterscheiden sich je nach Charakter und spiegeln die Fachkenntnisse wider, die im Laufe einer Karriere und bis zu einem gewissen Grad durch die Kultur erworben wurden. Ungeachtet dieser Unterscheidungen funktionieren Standard- und Berufsfertigkeiten auf die gleiche Weise.
 
 ---
 ## Wie Fertigkeiten funktionieren
 
-Eine Fertigkeit hat einen Basiswert, der auf zwei Attributen basiert; oder auf einem Attribut, das mit zwei multipliziert wird. Es gibt keine Obergrenze für einen Fertigkeitswert; er kann 100 überschreiten, und im Spiel können Charaktere durchaus erleben, wie ihre Fertigkeiten solche Höhen erreichen.
+Eine Fertigkeit hat einen Basiswert, der auf zwei Eigenschaften basiert; oder einer Eigenschaft, die mit zwei multipliziert wird. Es gibt keine Obergrenze für den Wert einer Fertigkeit; er kann 100 überschreiten, und im Spiel können Charaktere erwarten, dass ihre Fertigkeiten solche Höhen erreichen.
 
-Wann immer ein Charakter aufgefordert wird, eine Probe, eine Herausforderung oder eine berufliche Fähigkeit einzusetzen, wird 1w100 geworfen und mit dem Fertigkeitswert verglichen:
+Wann immer ein Charakter aufgefordert wird, eine Form von Test, Herausforderung oder Berufsfertigkeit aufzulösen, wird 1W100 gewürfelt und mit dem Wert der Fertigkeit verglichen:
 
-- Ein Ergebnis, das gleich oder niedriger als der Fertigkeitswert ist, bedeutet einen Erfolg.
-- Ein Ergebnis, das höher als der Fertigkeitswert ist, bedeutet einen Misserfolg.
+- Gleich oder weniger als der Fertigkeitswert zeigt einen Erfolg an.
+- Höher als der Fertigkeitswert zeigt einen Misserfolg an.
 
-Es gibt einige Sonderfälle bezüglich Erfolg und Misserfolg, die beachtet werden sollten.
+Es gibt bestimmte Sonderfälle bezüglich Erfolg und Misserfolg, die beachtet werden sollten.
 
 - Jeder Wurf von 01-05 ist immer ein Erfolg.
-- Jeder Wurf von 96-00 ist immer ein Misserfolg, ungeachtet dessen, wie hoch der Fertigkeitswert ist.
+- Jeder Wurf von 96-00 ist immer ein Misserfolg, unabhängig davon, wie hoch der Wert der Fertigkeit ist.
 
 #### Kritische Erfolge und Patzer
 
-Kritische Erfolge und Patzer repräsentieren spektakuläre Erfolge und Misserfolge; jene Fälle, in denen ein Charakter bei seinem Versuch entweder über sich hinausgewachsen ist oder kläglich und vollständig versagt hat.
+Kritische Erfolge und Patzer repräsentieren spektakuläre Erfolge und Misserfolge; jene Fälle, in denen ein Charakter bei seinem Versuch entweder herausragte oder völlig kläglich versagte.
 
-- Ein **kritischer Erfolg** entspricht einem Zehntel des Fertigkeitswerts (dies schließt Fertigkeiten mit ein, die einen Modifikator erhalten – modifizierte Fertigkeiten können also eine größere oder geringere Chance auf ein kritisches Ergebnis haben). Runde Brüche bei der Berechnung des Bereichs für einen kritischen Erfolg auf. Wenn eine Fertigkeit beispielsweise auf das Doppelte ihres Normalwerts modifiziert wird – sagen wir von 40% auf 80% –, dann wäre ihr kritischer Bereich ein Wurf von 08 oder weniger.
-- Ein **Patzer** ist ein Wurf von 99 oder 00. Fertigkeiten mit einem Wert von mehr als 100% patzen nur bei einer 00.
+- Ein **Kritischer Erfolg** entspricht einem Zehntel des Fertigkeitswerts (dies schließt Fertigkeiten ein, die einen Modifikator erhalten – modifizierte Fertigkeiten können also eine höhere oder geringere Chance auf ein kritisches Ergebnis haben). Runden Sie Brüche bei der Berechnung des Bereichs für einen kritischen Erfolg auf. Wenn zum Beispiel eine Fertigkeit auf das Doppelte ihres Normalwerts modifiziert wird – sagen wir von 40 % auf 80 % –, dann wäre ihr kritischer Bereich ein Wurf von 08 oder weniger.
+- Ein **Patzer** ist ein Wurf von 99 oder 00. Fertigkeiten mit einem Wert von mehr als 100 % patzen nur bei einer 00.
 
-Die genaue Art eines kritischen Ergebnisses oder Patzers bleibt dem Spielleiter überlassen. Die Konsequenzen können je nach Umständen wunderbar oder verheerend sein.
+Die genaue Art eines kritischen Ergebnisses oder eines Patzers bleibt dem Spielleiter überlassen. Die Konsequenzen können je nach Umständen wunderbar oder verheerend sein.
 
 #### Automatische Erfolge
 
-Es wird Gelegenheiten geben, bei denen ein Wurf auf eine bestimmte Fertigkeit einfach nicht notwendig ist – entweder weil die anstehende Aufgabe leicht zu bewältigen ist oder weil Erfolg bei genügend Zeit und Konzentration garantiert ist. Ein Pferd im leichten Galopp über eine offene Wiese zu reiten, ist ein Beispiel für einen automatischen Erfolg, bei dem das einfache Beherrschen der Aktivität bedeutet, dass unkomplizierte Handlungen keine Fertigkeitswürfe erfordern. Ein Handwerker, der ein Stück Holz zu einem Stuhlbein schnitzt, ist ein weiteres Beispiel, bei dem ein Fertigkeitswurf nicht notwendig ist; es braucht Zeit, um es zu bewerkstelligen, aber der Handwerker weiß, wie die Arbeit zu verrichten ist, und wenn er sich nicht hetzt, ist der Erfolg sicher. Ein ungestörter Schurke mit einem Dietrichset kann ein einfaches Schloss einer Schatztruhe erfolgreich knacken, wenn er genug Zeit dafür hat.
+Es wird einige Gelegenheiten geben, bei denen ein Wurf auf eine bestimmte Fertigkeit einfach nicht notwendig ist – entweder weil die anstehende Aufgabe leicht zu bewältigen ist oder weil bei genügend Zeit und Konzentration der Erfolg garantiert ist. Ein Pferd in einem sanften Galopp über eine offene Wiese zu reiten, ist ein Beispiel für einen automatischen Erfolg, bei dem das bloße Beherrschen der Aktivität bedeutet, dass einfache Aktionen keine Fertigkeitswürfe erfordern, um sie aufzulösen. Ein Handwerker, der ein Stück Holz zu einem Stuhlbein schnitzt, ist ein weiteres Beispiel, bei dem ein Fertigkeitswurf nicht notwendig ist; es braucht Zeit, um es zu bewerkstelligen, aber der Handwerker weiß, wie die Arbeit zu verrichten ist, und wenn er sich nicht hetzt, ist der Erfolg sicher. Ein Schurke kann, ungestört und mit einem Satz Dietrich, das einfache Schloss einer Schatztruhe erfolgreich knacken, wenn er genügend Zeit dafür hat.
 
 #### Modifizieren von Fertigkeiten
 
-Es gibt Gelegenheiten, bei denen ein Fertigkeitswurf erforderlich ist, die Erfolgschancen aber angepasst werden müssen, um die bestehenden Bedingungen zu berücksichtigen. Die Flucht vor Banditen könnte zum Beispiel einen Athletik-Wurf erfordern. Aber was, wenn der Charakter durch Dunkelheit oder tückisches Unterholz flieht? In einem solchen Fall kann der Spielleiter darauf bestehen, die Fertigkeit des Charakters zu modifizieren, um die Umstände widerzuspiegeln.
+Es gibt einige Gelegenheiten, bei denen ein Fertigkeitswurf erforderlich ist, die Erfolgsaussichten aber angepasst werden müssen, um die bestehenden Bedingungen widerzuspiegeln. Vor Banditen zu fliehen, könnte zum Beispiel einen Athletik-Wurf erfordern. Aber was ist, wenn der Charakter durch Dunkelheit oder durch tückisches Unterholz flieht? In einem solchen Fall kann der Spielleiter darauf bestehen, die Fertigkeit des Charakters zu modifizieren, um die Umstände widerzuspiegeln.
 
-_Classic Fantasy Imperative_ verwendet eine Reihe von Graden, um zu bestimmen, wie eine Fertigkeit modifiziert wird. Diese sind wie folgt. Beachten Sie, dass zwei Arten von Modifikatoren bereitgestellt werden: Die erste ist die Standardmethode, die ein wenig Mathematik erfordert, aber eine bessere Simulation bei der Skalierung bietet, insbesondere bei höheren Fertigkeitsprozentsätzen. Der vereinfachte Fertigkeitsmodifikator ist eine einfache Addition oder Subtraktion und lässt sich leichter implementieren. Wählen Sie die Methode, die am besten zum Spiel passt, aber stellen Sie sicher, dass das gleiche Modifikationssystem konsistent angewendet wird.
+_Classic Fantasy Imperative_ verwendet eine Reihe von Graden, um zu bestimmen, wie eine Fertigkeit modifiziert wird. Diese sind wie folgt. Beachten Sie, dass zwei Arten von Modifikatoren bereitgestellt werden: Die erste ist die Standardmethode, die ein wenig Mathematik erfordert, aber eine bessere Simulation für die Skalierung bietet, insbesondere wenn es um höhere Fertigkeitsprozentsätze geht. Der vereinfachte Fertigkeitsmodifikator ist eine einfache Addition oder Subtraktion und leichter umzusetzen. Wählen Sie die Methode, die am besten zum Spiel passt, aber stellen Sie sicher, dass dasselbe Modifikationssystem konsistent angewendet wird.
 
 ##### Schwierigkeitsgrad-Tabelle
 
 | Schwierigkeitsgrad | Fertigkeitsmodifikator | Vereinfachter Fertigkeitsmodifikator |
 | :-- | :-- | :-- |
 | Automatisch | Kein Wurf nötig | Kein Wurf nötig |
-| Sehr einfach | Fertigkeitswert verdoppeln | +40% |
-| Einfach | Die Hälfte des Fertigkeitswerts addieren | +20% |
+| Sehr Leicht | Verdopple den Fertigkeitswert | +40 % |
+| Leicht | Addiere die Hälfte zum Fertigkeitswert | +20 % |
 | Standard | Keine Anpassung | Keine |
-| Schwierig | Fertigkeitswert um ein Drittel reduzieren | -20% |
-| Formidabel | Fertigkeitswert halbieren | -40% |
-| Herkulesartig | Fertigkeitswert auf ein Fünftel reduzieren | -80% |
+| Schwer | Reduziere den Fertigkeitswert um ein Drittel | -20 % |
+| Gewaltig | Reduziere den Fertigkeitswert um die Hälfte | -40 % |
+| Herkulisch | Reduziere den Fertigkeitswert auf ein Fünftel | -80 % |
 | Hoffnungslos | Kein Versuch möglich | Kein Versuch möglich |
 
-Wenn ein Charakter bereits unter einem Malus durch andere Umstände leidet, hat der schwerste Schwierigkeitsgrad Vorrang.
+Wo ein Charakter bereits unter einem Abzug durch andere Umstände leidet, hat der schwierigste Schwierigkeitsgrad Vorrang.
 
-Außerhalb des Kampfes bietet _Classic Fantasy Imperative_ keine definitive Liste von Situationen und Herausforderungen, die Fertigkeitsmodifikationen nach sich ziehen können. Welche Art von Modifikation für eine bestimmte Fertigkeit oder einen Kontext erforderlich ist, liegt letztlich im Ermessen des Spielleiters, basierend auf den Fähigkeiten der Charaktere, seiner Wahrnehmung der Schwierigkeit der Situation und der dramatischen Spannung in diesem spezifischen Moment.
+Außerhalb des Kampfes bietet _Classic Fantasy Imperative_ keine endgültige Liste von Situationen und Herausforderungen, die Fertigkeitsmodifikationen nach sich ziehen können. Welche Art von Modifikation für eine bestimmte Fertigkeit oder einen bestimmten Kontext erforderlich ist, liegt letztendlich im Ermessen des Spielleiters, basierend auf den Fähigkeiten der Charaktere, seiner Wahrnehmung der Schwierigkeit der Situation und der dramatischen Spannung in diesem speziellen Moment.
 
 ---
 ## Standardfertigkeiten
 
-#### Athletik (STR+GES)
+#### Athletik (STÄ+GES)
 
-Athletik deckt eine Reihe körperlicher Aktivitäten ab, einschließlich Klettern, Springen, Werfen und Laufen. Fertigkeitswürfe für jede dieser Aktivitäten werden mit einem einzigen Wurf auf die Athletik-Fertigkeit gehandhabt. Siehe den Abschnitt [Bewegung](0008_Combat.md?id=movement) für weitere Informationen zum Klettern, Springen und Laufen.
+Athletik deckt eine Reihe körperlicher Aktivitäten ab, einschließlich Klettern, Springen, Werfen und Rennen. Fertigkeitswürfe für jede dieser Aktivitäten werden durch einen einzigen Wurf auf die Fertigkeit Athletik gehandhabt. Siehe den Abschnitt [Bewegung](0008_Combat.md?id=movement) für weitere Informationen über Klettern, Springen und Rennen.
 
-#### Bootfahren (STR+KON)
+#### Bootfahren (STÄ+KON)
 
-Die Fertigkeit Bootfahren deckt die Bedienung kleiner Wasserfahrzeuge auf Flüssen, Seen und in Küstennähe ab. Geeignete Fahrzeuge sind im Allgemeinen Boote, Kanus oder Flöße, die kurze Strecken zurücklegen und für die Strapazen der offenen See ungeeignet sind. Die meisten werden mit Rudern, Paddeln, Stangen oder einfachen Segeln angetrieben; oder können sogar von Tieren gezogen werden. Schiffe mit großen Besatzungen oder solche, die für lange Überseereisen konzipiert sind, fallen unter die Berufsfertigkeit [Seemannschaft](0005_Skills.md?id=seamanship-intcon).
+Die Fertigkeit Bootfahren deckt den Betrieb kleiner schwimmender Fahrzeuge auf Flüssen, Seen und in Küstennähe ab. Geeignete Gefäße sind im Allgemeinen Boote, Kanus oder Flöße, die kurze Strecken zurücklegen und für die Strapazen der offenen See ungeeignet sind. Die meisten werden mit Rudern, Paddeln, Stangen oder einfachen Segeln angetrieben; oder können sogar von Tieren gezogen werden. Schiffe mit großen Besatzungen oder solche, die für lange Überseereisen konzipiert sind, fallen unter die Berufsfertigkeit [Seefahrt](0005_Skills.md?id=seamanship-intcon).
 
-#### Kraftakt (STR+GRÖ)
+#### Muskelkraft (STÄ+GRÖ)
 
-Kraftakt ist die effiziente Anwendung von Technik beim Einsatz roher körperlicher Gewalt. Die Fertigkeit deckt Akte angewandter Kraft ab, einschließlich Heben, Türen eintreten und Stärkewettbewerbe.
+Muskelkraft ist die effiziente Anwendung von Technik beim Einsatz roher körperlicher Gewalt. Die Fertigkeit deckt Akte angewandter Macht ab, einschließlich Heben, Aufbrechen von Türen und Kraftwettbewerbe.
 
-#### Verbergen (GES+WIL)
+#### Verbergen (GES+MAC)
 
-Verbergen ist das Gegenstück zu [Heimlichkeit](0005_Skills.md?id=stealth-dexint) und dient dem Verstecken großer Objekte anstelle des Charakters selbst. Zum Beispiel könnte Verbergen genutzt werden, um einen Streitwagen hinter einigen Felsen zu verstecken oder die Radspuren des Streitwagens zu verwischen, sodass sein Pfad nicht verfolgt werden kann. Die Fertigkeit ist vielseitig in der Anwendung, von der Aufbewahrung einer Schriftrolle in einer Bibliothek bis hin zur Verschleierung einer Falle oder eines Geheimgangs.
+Verbergen ist das Gegenstück zu [Heimlichkeit](0005_Skills.md?id=stealth-dexint), wobei es sich um das Verbergen großer Objekte handelt und nicht um den Charakter selbst. Zum Beispiel könnte Verbergen verwendet werden, um einen Streitwagen hinter einigen Felsen zu verstecken oder die Radspuren des Streitwagens wegzuwischen, damit sein Weg nicht verfolgt werden kann. Die Fertigkeit ist vielseitig in der Anwendung, von der Aufbewahrung einer Schriftrolle in einer Bibliothek bis hin zur Verschleierung des Vorhandenseins einer Falle oder eines Geheimgangs.
 
 #### Bräuche (INT x2+40)
 
-Bräuche repräsentieren das Wissen des Charakters über seine eigene Gemeinschaft, ihre sozialen Kodizes, Riten, Rituale, Tabus usw. Die Fertigkeit wird verwendet, wenn es unerlässlich ist, gesellschaftlich wichtige Bräuche akkurat zu interpretieren oder auszuführen oder sich auf eine bestimmte Weise zu verhalten.
+Bräuche repräsentieren das Wissen des Charakters über seine eigene Gemeinschaft, ihre sozialen Codes, Riten, Rituale, Tabus und so weiter. Die Fertigkeit wird verwendet, wenn es wesentlich ist, einen sozial wichtigen Brauch genau zu interpretieren oder auszuführen oder sich auf eine bestimmte Weise zu verhalten.
 
 #### Tanzen (GES+CHA)
 
-So gut wie jede Kultur nutzt Tanz auf irgendeine Weise – entweder als Freizeitbeschäftigung oder als Teil wichtiger Rituale. Es kann sich um einen höfischen Tanz, einen Kriegstanz oder eine einfache Abfolge von Bewegungen handeln, die ein Gebet oder einen zeremoniellen Gesang begleiten. Die Fertigkeit Tanzen misst die Fähigkeit eines Charakters, sich (bis zu einem gewissen Grad) rhythmisch und präzise zu bewegen, wenn er dazu aufgefordert wird.
+So gut wie jede Kultur nutzt Tanzen auf irgendeine Weise – sei es zur Erholung oder als Teil wichtiger Rituale. Es könnte ein Hoftanz, ein Kriegstanz oder eine einfache Abfolge von Bewegungen sein, die ein Gebet oder einen zeremoniellen Gesang begleiten. Die Fertigkeit Tanzen misst die Fähigkeit eines Charakters, sich rhythmisch und genau (bis zu einem vernünftigen Grad) zu bewegen, wenn er dazu aufgefordert wird.
 
-#### Betrug (INT+CHA)
+#### Täuschung (INT+CHA)
 
-Betrug deckt alle Fälle ab, in denen ein Charakter versucht, die Wahrheit zu maskieren und eine Täuschung irgendeiner Art zu bieten; unverfrorenes Lügen, Irreführung einer Wache oder sogar Bluffen (oder Schummeln) bei einem Kartenspiel. Die Fertigkeit deckt auch Fälle ab, in denen es notwendig ist, wahre Emotionen oder Motive zu verbergen (vielleicht Freude vorzutäuschen, wenn man bitter enttäuscht ist, oder zu versuchen, einladend und offen zu wirken, wenn das Gegenteil der Fall ist). Betrug bildet ein Gegenstück zur Fertigkeit [Einsicht](0005_Skills.md?id=insight-intpow) und kann verwendet werden, um Einsicht-Würfen entgegenzuwirken, wenn andere versuchen, Wahrheit oder Motive zu ergründen.
+Täuschung deckt alle Fälle ab, in denen ein Charakter versucht, die Wahrheit zu maskieren und eine Täuschung irgendeiner Art zu bieten; unverfrorenes Lügen, das Irreführen einer Wache oder sogar Bluffen (oder Betrügen) bei einem Kartenspiel. Die Fertigkeit deckt auch Fälle ab, in denen es notwendig ist, wahre Emotionen oder Motive zu verbergen (vielleicht Vergnügen vortäuschen, wenn man bitter enttäuscht ist, oder versuchen, einladend und offen zu erscheinen, wenn das Gegenteil der Fall ist). Täuschung bildet ein Gegenstück zur Fertigkeit [Einsicht](0005_Skills.md?id=insight-intpow) und kann verwendet werden, um Einsicht-Würfen entgegenzuwirken, wenn andere versuchen, entweder die Wahrheit oder das Motiv zu erkennen.
 
-#### Fahren (GES+WIL)
+#### Fahren (GES+MAC)
 
-Fahren deckt die Kontrolle von Rad- oder gezogenen Fahrzeugen ab, sei es durch ein oder mehrere Lasttiere oder esoterischere Mittel: wie Karren, Kutschen, Streitwagen oder Schlitten. Fahren-Würfe sind erforderlich, wenn ein Charakter etwas Ungewöhnliches mit einem Fahrzeug tun möchte – tückisches Gelände durchqueren, Hindernisse überspringen usw. Ein Wurf ist auch notwendig, wenn das gefahrene Fahrzeug von anderen Tieren gezogen wird, als der Fahrer gewohnt ist (zum Beispiel Pferde statt Ochsen), oder wenn mehr oder weniger Tiere zusammen eingespannt sind, um das Fahrzeug zu ziehen.
+Fahren deckt die Steuerung von Fahrzeugen mit Rädern oder Zugfahrzeugen ab, sei es durch ein oder mehrere Lasttiere oder esoterischere Mittel: wie Karren, Kutschen, Streitwagen oder Schlitten. Fahren-Würfe sind erforderlich, wenn ein Charakter etwas Ungewöhnliches mit einem Fahrzeug tun möchte – tückisches Gelände durchqueren, Hindernisse überspringen und so weiter. Ein Wurf ist auch notwendig, wenn das gefahrene Fahrzeug von anderen Tieren gezogen wird, als der Fahrer gewohnt ist (Pferde statt Ochsen zum Beispiel) oder wenn mehr oder weniger Tiere zusammengespannt sind, um das Fahrzeug zu ziehen.
 
 #### Ausdauer (KON x2)
 
-Ausdauer ist die Kapazität eines Charakters, physischen Stress, Schmerz und Ermüdung zu ertragen. Sie misst die Fähigkeit des Körpers, mit potenziell schädlichen oder schwächenden Bedingungen umzugehen, und ist ein allgemeiner Maßstab für Belastbarkeit, Durchhaltevermögen und Stoffwechsel. Ausdauer wird, wie ihr Gegenstück [Willenskraft](0005_Skills.md?id=willpower-pow-x2), auf viele Arten verwendet, aber am spezifischsten, um den möglichen Auswirkungen von Verletzungen zu widerstehen, einschließlich schädlicher Gifte und Krankheiten.
+Ausdauer ist die Fähigkeit eines Charakters, physischem Stress, Schmerzen und Ermüdung zu widerstehen. Sie misst die Fähigkeit des Körpers, mit potenziell schädlichen oder schwächenden Bedingungen umzugehen, und ist ein allgemeines Maß für Widerstandsfähigkeit, Durchhaltevermögen und Stoffwechsel. Ausdauer wird, wie ihr Gegenstück [Willenskraft](0005_Skills.md?id=willpower-pow-x2), auf vielfältige Weise eingesetzt, aber am spezifischsten, um den möglichen Auswirkungen von Verletzungen, einschließlich schädlicher Gifte und Krankheiten, zu widerstehen.
 
 #### Ausweichen (GES x2)
 
-Ausweichen wird verwendet, um beobachteter, drohender Gefahr zu entkommen, und kann gegen Fernkampfwaffen (durch Hechten in Deckung, zum Beispiel), zum Vermeiden von Fallen, zum Ändern der Kampfdistanz im Kampf und allgemein zum Entgehen eines potenziellen physischen Gefahrenbereichs eingesetzt werden. Es kann auch als Widerstandswurf für bestimmte Arten von Magie verwendet werden. Charaktere mit der Fähigkeit "Gewandter Ausweicher" können Ausweichen nutzen, um einem Nahkampfangriff auszuweichen, ohne zu Boden zu gehen. Gegen einen Fernkampfangriff landen sie nur dann liegend, wenn sie bei dem Wurf scheitern.
+Ausweichen wird verwendet, um drohender Gefahr zu entkommen, und kann gegen Fernkampfwaffen eingesetzt werden (z. B. durch Hechten in Deckung), um Fallen zu vermeiden, die Kampfdistanz zu verändern und generell einem potenziellen physischen Risiko auszuweichen. Es kann auch als Widerstandswurf für bestimmte Arten von Magie verwendet werden. Diejenigen mit der Fähigkeit „Gewiefter Ausweicher“ können Ausweichen verwenden, um einem Nahkampfangriff auszuweichen, ohne hinzustürzen. Gegen einen Fernkampfangriff landen sie nur dann liegend, wenn sie den Wurf nicht bestehen.
 
 #### Erste Hilfe (GES+INT)
 
-Die Fertigkeit Erste Hilfe misst die Fähigkeit eines Charakters, kleinere Verletzungen zu behandeln und schwerere zu stabilisieren. Erste Hilfe kann nur einmal pro spezifischer Verletzung angewendet werden und heilt 1w3 Schadenspunkte.
+Die Fertigkeit Erste Hilfe misst die Fähigkeit eines Charakters, kleinere Verletzungen zu behandeln und schwerere zu stabilisieren. Erste Hilfe kann nur einmal pro spezifischer Verletzung angewendet werden und heilt 1W3 Schadenspunkte.
 
 #### Einfluss (CHA x2)
 
-Dies ist ein Maß für die Fähigkeit eines Charakters, andere durch persönliches Charisma zu einem gewünschten Verhalten zu bewegen. Sie wird in einer Vielzahl von Situationen eingesetzt; vom Umstimmen einer Person bis hin zur Bestechung eines Beamten oder einer Wache. Einfluss-Würfe werden typischerweise durch Wahrnehmung, Willenskraft oder eine andere Einfluss-Fertigkeit erschwert (opposed), abhängig von den Umständen, und werden dadurch modifiziert, wie stark ein Charakter versucht, das Verhalten zu beeinflussen. Den Versuch zu unternehmen, einen engen Freund dazu zu bewegen, einem sein Pferd zu leihen, mag relativ einfach sein. Einen normalerweise unbestechlichen Bürokraten dazu zu bringen, ein Bestechungsgeld anzunehmen, ist schwieriger.
+Dies ist ein Maß für die Fähigkeit eines Charakters, andere durch persönliches Charisma zu einem gewünschten Verhalten zu bewegen. Sie wird in einer Vielzahl von Situationen eingesetzt; vom Ändern der Meinung von jemandem bis hin zum Bestechen eines Beamten oder einer Wache. Einfluss-Würfe werden typischerweise durch Wahrnehmung, Willenskraft oder eine andere Einfluss-Fertigkeit erschwert (opponiert), je nach Umständen, und werden dadurch modifiziert, wie stark ein Charakter versucht, das Verhalten zu beeinflussen. Den Versuch zu unternehmen, einen engen Freund dazu zu überreden, Ihnen sein Pferd zu leihen, mag relativ einfach sein. Einen normalerweise unbestechlichen Bürokraten dazu zu bringen, ein Bestechungsgeld anzunehmen, ist schwieriger.
 
-#### Einsicht (INT+WIL)
+#### Einsicht (INT+MAC)
 
-Einsicht ist die Fähigkeit, das verbale und nonverbale Verhalten einer anderen Person (wie Körpersprache oder die Art zu sprechen) zu lesen oder intuitiv zu definieren, um deren Motive und Geisteszustand festzustellen. Einsicht wird verwendet, um zu bestimmen, ob jemand lügt (und kann durch die Betrug-Fertigkeit der anderen Person erschwert werden), oder um vorherzusagen, wie sich jemand in einer bestimmten Situation fühlt. Einsicht kann ebenso auf Situationen wie auf andere Personen angewandt werden: Ist diese Taverne ein Hort des Ärgers? Könnten die Banditen einen Hinterhalt in den nahegelegenen Hügeln planen?
+Einsicht ist die Fähigkeit, das verbale und nonverbale Verhalten eines anderen (wie Körpersprache oder die Art zu sprechen) zu lesen oder intuitiv zu bestimmen, um deren Motive und Geisteszustand festzustellen. Einsicht wird verwendet, um zu bestimmen, ob jemand lügt (und es kann durch die Täuschung-Fertigkeit der anderen Person erschwert werden), oder um vorherzusagen, wie sich jemand über eine bestimmte Situation fühlt. Einsicht kann gleichermaßen auf Situationen wie auf andere Personen angewendet werden: Ist diese Taverne ein Hort für Ärger? Könnten die Banditen in den nahen Hügeln einen Hinterhalt planen?
 
-#### Lokalwissen (INT x2)
+#### Örtlichkeit (INT x2)
 
-Lokalwissen misst das Verständnis eines Charakters für die lokale Flora, Fauna, das Gelände und das Wetter in dem Gebiet, in dem er oder sie den Großteil seines/ihres Lebens verbracht hat, normalerweise innerhalb seiner/ihrer Gemeinschaft. Der Charakter kennt die gewöhnlichen Pflanzen, Bäume und Tiere, ihre Eigenschaften und ihr Verhalten: wo die besten Fische zu finden sind; die Bewegungen von Wildtieren; wo man Schutz findet; das wahrscheinliche Wetter für die Jahreszeit und die häufigsten regionalen Gefahren. In benachbarten, aber unbekannten Orten sollte Lokalwissen um einen oder mehrere Grade schwieriger gemacht werden.
+Örtlichkeit misst das Verständnis eines Charakters für die lokale Flora, Fauna, das Gelände und das Wetter in dem Gebiet, in dem er oder sie den Großteil seines Lebens verbracht hat, normalerweise innerhalb seiner Gemeinschaft. Der Charakter kennt die üblichen Pflanzen, Bäume und Tiere, ihre Eigenschaften und ihr Verhalten: wo die besten Fische zu finden sind; die Bewegungen von Wildtieren; wo man Schutz findet; das wahrscheinliche Wetter für die Jahreszeit und die häufigsten regionalen Gefahren. An benachbarten, aber ungewohnten Orten sollte Örtlichkeit um einen oder mehrere Grad schwieriger gemacht werden.
 
 #### Muttersprache (INT+CHA+40)
 
-Muttersprache ist die Fähigkeit, die eigene Sprache zu sprechen und zu lesen, die man während des Aufwachsens in der eigenen Kultur gelernt hat. Für Menschen ist dies die Gemeinsprache, während halbmenschliche und andere Völker jeweils ihre eigenen Muttersprachen haben. Muttersprache misst Artikulation, Beredsamkeit und die Tiefe des Wortschatzes des Sprechers.
+Muttersprache ist die Fähigkeit, die eigene Sprache zu sprechen und zu lesen, die während des Aufwachsens in der Heimatkultur erlernt wurde. Bei Menschen ist dies die Gemeinsprache, während Halbmenschen und andere Spezies jeweils ihre eigenen Muttersprachen haben. Muttersprache misst Artikulation, Eloquenz und den Umfang des Wortschatzes des Sprechers.
 
-Im Gegensatz zu anderen Fertigkeiten wird nicht direkt auf Muttersprache gewürfelt. Stattdessen wird sie als statische Repräsentation der allgemeinen Sprachgewandtheit behandelt, was das Niveau der konversationellen Interaktion begrenzt. Dies ist detaillierter unter der Fertigkeit [Sprache](0005_Skills.md?id=language-intcha) beschrieben, aber startende Charaktere beginnen das Spiel normalerweise vollkommen fließend in ihrer Muttersprache.
+Im Gegensatz zu anderen Fertigkeiten wird nicht direkt auf die Muttersprache gewürfelt. Stattdessen wird sie als statische Repräsentation der allgemeinen Sprachgewandtheit behandelt, was das Niveau der konversationellen Interaktion begrenzt. Dies wird im Detail unter der Fertigkeit [Sprache](0005_Skills.md?id=language-intcha) beschrieben, aber startende Charaktere beginnen das Spiel normalerweise vollkommen fließend in ihrer Muttersprache.
 
-Die Fertigkeit kann auf zwei Arten verwendet werden. Erstens kann sie helfen, die Dialekte benachbarter Völker zu verstehen, die eine gemeinsame sprachliche Basis oder einen gemeinsamen Ursprung teilen. In solchen Fällen wird die Fertigkeit mindestens einen Grad schwieriger behandelt, was potenziell die Sprachgewandtheit des Charakters beeinträchtigt. Zweitens kann sie als Obergrenze für verbale Fertigkeiten verwendet werden, die ein gutes Sprachverständnis erfordern.
+Die Fertigkeit kann auf zwei Arten verwendet werden. Erstens kann sie helfen, die Dialekte benachbarter Völker zu verstehen, die eine gemeinsame sprachliche Basis oder einen gemeinsamen Ursprung teilen. In solchen Fällen wird die Fertigkeit mindestens einen Grad schwieriger behandelt, was möglicherweise die Sprachgewandtheit des Charakters beeinträchtigt. Zweitens kann sie als Obergrenze für verbale Fertigkeiten verwendet werden, die ein gutes Sprachverständnis erfordern.
 
-#### Wahrnehmung (INT+WIL)
+#### Wahrnehmung (INT+MAC)
 
-Wahrnehmung wird sowohl für die passive Beobachtung als auch für die fokussierte Entdeckung verwendet; sei es bei der Suche nach etwas Spezifischem, beim allgemeinen Scannen eines Bereichs oder beim einfachen Bewusstsein der Umgebung. Spezifische Bedingungen – Dunkelheit zum Beispiel – können den Schwierigkeitsgrad des Fertigkeitswurfs beeinflussen, abhängig von den primären genutzten Sinnen. Starke Gerüche könnten einen olfaktorischen Wahrnehmungs-Wurf Einfach statt Standard machen, während der Versuch, ein Gespräch in einer überfüllten und lauten Taverne zu belauschen, den Wurf Schwierig machen würde.
+Wahrnehmung wird sowohl für die passive Beobachtung als auch für die fokussierte Detektion verwendet; sei es bei der Jagd nach etwas Spezifischem, einem allgemeinen Scan eines Bereichs oder dem einfachen Bewusstsein für die Umgebung. Spezifische Bedingungen – zum Beispiel Dunkelheit – können den Schwierigkeitsgrad des Fertigkeitswurfs beeinflussen, abhängig von den primären Sinnen, die eingesetzt werden. Starke Gerüche könnten einen olfaktorischen Wahrnehmungswurf Leicht statt Standard machen, während das Belauschen eines Gesprächs in einer überfüllten und lauten Taverne den Wurf Schwer machen würde.
 
-#### Reiten (GES+WIL)
+#### Reiten (GES+MAC)
 
-Reiten deckt die Fähigkeit ab, jene Kreaturen zu kontrollieren und auf ihnen sitzen zu bleiben, die darauf trainiert sind, geritten zu werden. Die Fertigkeit kann auf eine vielfältige Palette von Tieren angewendet werden, von Maultieren bis hin zu Elefanten; sogar auf fliegende oder schwimmende Kreaturen wie Riesenadler oder Delfine. Das Reiten einer ungewohnten Spezies ist immer einen Schwierigkeitsgrad schwieriger; während das Reiten einer Spezies eines anderen Mediums (ein Reiter auf einem Drachen, zum Beispiel) zwei Grade schwieriger ist. Wilde, ungezähmte Kreaturen können nicht auf konstruktive Weise geritten werden, bis sie eingeritten und zu Reittieren ausgebildet wurden.
+Reiten deckt die Fähigkeit ab, diejenigen Kreaturen zu kontrollieren und auf ihnen sitzen zu bleiben, die zum Reiten ausgebildet sind. Die Fertigkeit kann auf eine vielfältige Reihe von Tieren angewendet werden, von Maultieren bis hin zu Elefanten; sogar auf fliegende oder schwimmende Kreaturen wie Riesenadler oder Delfine. Das Reiten einer ungewohnten Spezies ist immer einen Schwierigkeitsgrad schwieriger; während das Reiten einer Spezies eines anderen Mediums (ein Reiter auf einem Drachen zum Beispiel) zwei Grad schwieriger ist. Wilde, ungezähmte Kreaturen können nicht konstruktiv geritten werden, bis sie gebrochen und zu Reittieren ausgebildet wurden.
 
-#### Singen (WIL+CHA)
+#### Singen (MAC+CHA)
 
-Das Treffen von Tönen wird durch Singen abgedeckt, alles von monotonen Gesängen bis hin zu komplexen Arien. Singen ist ein inhärenter Teil der meisten Kulturen, eine erstklassige Unterhaltungsquelle und wird vielleicht in ihren Ritualen verwendet. Wichtige Lieder könnten zum Werben, zur Inspiration von Soldaten vor der Schlacht oder einfach zum Erzählen einer historischen Tat verwendet werden. Die Fertigkeit spiegelt die Fähigkeit des Anwenders wider, den Rhythmus zu halten, den Ton zu treffen und sich an die richtigen Worte zu erinnern.
+Eine Melodie zu halten, wird durch Singen abgedeckt, von monotonen Gesängen bis hin zu komplexen Arien. Singen ist ein inhärenter Bestandteil der meisten Kulturen, eine Hauptquelle der Unterhaltung und vielleicht in ihren Ritualen verwendet. Wichtige Lieder könnten zum Werben, zur Inspiration von Soldaten vor der Schlacht oder einfach zum Erzählen einer historischen Tat verwendet werden. Die Fertigkeit spiegelt die Fähigkeit des Benutzers wider, den Rhythmus beizubehalten, in der Tonart zu bleiben und sich an die richtigen Worte zu erinnern.
 
 #### Heimlichkeit (GES+INT)
 
-Sich vor direktem Blick zu verstecken oder sich mit minimalem Geräusch zu bewegen, wird durch die Fertigkeit Heimlichkeit abgedeckt. Deckung und Bedingungen wie Dunkelheit oder laute Hintergrundgeräusche verbessern den Grad des Fertigkeitswurfs entsprechend den Besonderheiten der Umgebung. Ähnlich werden widrige Bedingungen wie mangelnde Deckung oder eine ruhige Nacht den Grad der Fertigkeit verringern. Die Umstände beeinflussen ebenfalls die Schwierigkeit des Versuchs. Zum Beispiel kann ein Krieger, der eine schwere Rüstung trägt, sich leicht hinter einer Mauer verbergen, sofern er stillsteht oder sich sehr langsam bewegt, während eine schnelle Bewegung dazu führen könnte, dass seine Rüstung klirrt.
+Sich außer Sichtweite zu verbergen oder sich mit minimalem Geräusch zu bewegen, wird durch die Fertigkeit Heimlichkeit abgedeckt. Deckung und Bedingungen, wie Dunkelheit oder laute Hintergrundgeräusche, verbessern den Grad der Fertigkeit entsprechend den Besonderheiten der Umgebung. Ebenso verringern widrige Bedingungen, wie ein Mangel an Deckung oder eine ruhige Nacht, den Grad der Fertigkeit. Umstände beeinflussen ebenfalls die Schwierigkeit des Versuchs. Zum Beispiel kann sich ein Krieger, der schwere Rüstung trägt, leicht hinter einer Mauer verbergen, vorausgesetzt, er steht still oder bewegt sich sehr langsam, während schnelles Bewegen dazu führen könnte, dass seine Rüstung klimpert.
 
-#### Schwimmen (STR+KON)
+#### Schwimmen (STÄ+KON)
 
-Ohne Entwicklung ist die Fähigkeit zu schwimmen darauf beschränkt, umherzupaddeln und den Kopf für kurze Zeit über Wasser zu halten. Höhere Schwimmen-Prozentsätze deuten darauf hin, dass man in der Lage ist, tiefere und stärkere Gewässer mit geringerem Risiko des Ertrinkens zu bewältigen. Ein Schwimmen-Wurf hängt daher vollständig von den Bedingungen ab. Raue See, starke Strömungen, Wildwasser und Brandungsströmungen reduzieren den Grad der Fertigkeit, ungeachtet dessen, welche Affinität der Charakter zum Wasser haben mag. Siehe den Abschnitt [Bewegung](0008_Combat.md?id=movement) für weitere Informationen zum Schwimmen, einschließlich der Berechnung von Schwimmgeschwindigkeiten.
+Ohne Entwicklung beschränkt sich die Fähigkeit zu schwimmen darauf, sich herumzuschlagen und den Kopf für kurze Zeit über Wasser zu halten. Höhere Schwimmprozentsätze zeigen an, dass man in der Lage ist, tieferes und stärkeres Gewässer zu bewältigen, mit geringerem Risiko zu ertrinken. Einen Schwimmwurf zu machen, hängt daher vollständig von den Bedingungen ab. Raue See, starke Strömungen, Wildwasser und Brandungsströmungen verringern den Grad der Fertigkeit, egal wie groß die Affinität des Charakters zum Wasser sein mag. Siehe den Abschnitt [Bewegung](0008_Combat.md?id=movement) für weitere Informationen über Schwimmen, einschließlich der Berechnung der Schwimmgeschwindigkeiten.
 
-#### Waffenlos (STR+GES)
+#### Unbewaffnet (STÄ+GES)
 
-Waffenlos ist eine universelle Kampffertigkeit, die allen Charakteren gemein ist und die Fähigkeit misst, sich ohne die Hilfe von Waffen zu verteidigen. Die Fertigkeit Waffenlos deckt die in dieser Kultur bekannten Rauf- und Ringtechniken ab.
+Unbewaffnet ist eine universelle Kampf-Fertigkeit, die allen Charakteren gemeinsam ist und die Fähigkeit misst, sich ohne die Hilfe von Waffen zu verteidigen. Die Fertigkeit Unbewaffnet deckt die Rauf- und Ringtechniken ab, die in dieser Kultur bekannt sind.
 
-Da Waffenlos eine Kampffertigkeit ist, werden ihre kritischen Erfolge und Patzer durch die Regeln für den Kampf abgedeckt, wie im Kapitel [Kampf](0008_Combat.md) detailliert beschrieben.
+Da Unbewaffnet eine Kampf-Fertigkeit ist, werden ihre kritischen Erfolge und Patzer durch die Regeln für den Kampf abgedeckt, wie im Kapitel [Kampf](0008_Combat.md) detailliert beschrieben.
 
-#### Willenskraft (WIL x2)
+#### Willenskraft (MAC x2)
 
-Willenskraft ist ein Maß für die Fähigkeit eines Charakters, sich zu konzentrieren, seine Willenskraft in eine bestimmte Richtung zu lenken oder seine Psyche gegen möglichen mentalen Schock zu stählen. Sie ist auch ein Maß für die persönliche Entschlossenheit. Die Fertigkeit wird in allen möglichen Situationen verwendet, in denen mentale Belastbarkeit erforderlich ist, und dazu gehört auch das Widerstehen von Magie. Obwohl kein Maß für die geistige Gesundheit, kann sie verwendet werden, um traumatische Ereignisse zu überstehen, die selbst den gesündesten, stabilsten Geist erschüttern würden. Willenskraft ist das mentale Gegenstück zu [Ausdauer](0005_Skills.md?id=endurance-con-x2).
+Willenskraft ist ein Maß für die Fähigkeit eines Charakters, sich zu konzentrieren, seine Willenskraft in eine bestimmte Richtung zu lenken oder seine Psyche gegen möglichen mentalen Schock zu stählen. Sie ist auch ein Maß für die persönliche Entschlossenheit. Die Fertigkeit wird in allen möglichen Situationen verwendet, in denen mentale Widerstandsfähigkeit erforderlich ist, und dies schließt das Widerstehen von Magie ein. Obwohl sie kein Maß für den Verstand ist, kann sie verwendet werden, um traumatische Ereignisse zu ertragen, die selbst den vernünftigsten, stabilsten Geist erschüttern würden. Willenskraft ist das mentale Gegenstück zu [Ausdauer](0005_Skills.md?id=endurance-con-x2).
 
-Auch hier wird Willenskraft, wie Ausdauer und Ausweichen, am häufigsten bei entgegengesetzten Proben (Opposed Tests) verwendet. Wenn sie als Standardprobe verwendet wird, deutet ein kritischer Willenskraft-Wurf darauf hin, dass der Charakter seinen Geist und seinen Geisteszustand so weit gestählt hat, dass keine weiteren Versuche, ihn zu beeinflussen oder seine Entschlossenheit zu erschüttern, funktionieren werden. Im Fall des Widerstehens von Magie bedeutet ein kritischer Erfolg, dass keine weiteren mental belastenden Zauber, die vom Gegner gewirkt werden, für den Rest dieser Begegnung irgendeinen Effekt auf den Charakter haben.
+Auch hier wird Willenskraft, wie Ausdauer und Ausweichen, am häufigsten bei Opponierten Tests verwendet. Wenn sie als Standardtest verwendet wird, zeigt ein kritischer Erfolg bei Willenskraft an, dass der Charakter seinen Geist und seine Seele so weit gestählt hat, dass keine weiteren Versuche, ihn zu beeinflussen oder seine Entschlossenheit zu erschüttern, funktionieren. Im Falle des Widerstehens von Magie bedeutet ein kritischer Erfolg, dass keine weiteren mentalen Zauber, die vom Gegner gewirkt werden, für den Rest dieser Begegnung einen Effekt auf den Charakter haben.
 
 ---
 ## Berufsfertigkeiten
 
-Berufsfertigkeiten unterscheiden sich zwischen Charakteren und repräsentieren spezialisiertere Formen der Ausbildung und Erfahrung. Einige Berufsfertigkeiten werden durch den kulturellen Hintergrund und die Klasse eines Charakters gesammelt, wie der Name andeutet. Obwohl sie sich zwischen Charakteren unterscheiden, funktionieren sie auf die gleiche Weise wie Standardfertigkeiten.
+Berufsfertigkeiten unterscheiden sich zwischen Charakteren und repräsentieren spezialisiertere Formen der Ausbildung und Erfahrung. Einige Berufsfertigkeiten werden durch den kulturellen Hintergrund und die Klasse eines Charakters gesammelt, wie der Name schon sagt. Obwohl sie sich zwischen den Charakteren unterscheiden, funktionieren sie auf die gleiche Weise wie Standardfertigkeiten.
 
-Bestimmte magische Fertigkeiten werden ebenfalls als Berufsfertigkeiten eingestuft: Kanalisieren und Hingabe sind beispielsweise die zwei Fertigkeiten, die mit göttlicher Magie assoziiert werden. Diese werden hier nur kurz beschrieben. Für weitere Details siehe den relevanten Abschnitt im Kapitel [Magie](0009_Magic.md).
+Bestimmte magische Fertigkeiten werden ebenfalls als Berufsfertigkeiten eingestuft: Kanalisieren und Hingabe sind zum Beispiel die zwei Fertigkeiten, die mit göttlicher Magie verbunden sind. Diese werden hier nur kurz beschrieben. Für weitere Details siehe den entsprechenden Abschnitt des Kapitels [Magie](0009_Magic.md).
 
 #### Schauspiel (CHA x2)
 
-Schauspiel regelt die Kunst, einen völlig anderen Charakter imitieren und vermitteln zu können, sei es in einer Bühnenaufführung oder in einer sozialen Situation. Der Schauspieler stellt eine Persönlichkeit und Manierismen dar, die sich von seinen eigenen unterscheiden, und zwar auf überzeugende Weise. Gepaart mit den Fertigkeiten Verkleiden und Betrug ist dies eine mächtige Art, jemand völlig anderes zu werden.
+Schauspiel regelt die Kunst, einen völlig anderen Charakter imitieren und vermitteln zu können, sei es in einer Bühnenaufführung oder in einer sozialen Situation. Der Schauspieler stellt eine Persönlichkeit und Manierismen dar, die sich auf überzeugende Weise von seinen eigenen unterscheiden. Gepaart mit den Fertigkeiten Verkleiden und Täuschung ist dies ein mächtiger Weg, jemand ganz anderes zu werden.
 
-#### Akrobatik (STR+GES)
+#### Akrobatik (STÄ+GES)
 
-Akrobatik deckt Akte des Gleichgewichts, der Gymnastik, des Jonglierens und des Turnens ab. Die Fertigkeit kann verwendet werden, um ein Publikum zu beeindrucken, aber auch um Schäden durch Stürze zu mindern. Mit einem erfolgreichen Wurf kann sich ein Charakter mit voller Geschwindigkeit und trittsicher über eine instabile oder schmale Oberfläche bewegen. Wenn versucht wird, den Schaden durch einen unerwarteten Sturz zu mindern, halbiert ein erfolgreicher Akrobatik-Wurf jeglichen erlittenen Schaden. Wenn der Wurf zusätzlich erfolgreich ist und der Charakter aufgrund des Sturzes keine ernste oder schwere Wunde erleidet, landet der Charakter relativ sicher und liegt nicht.
+Akrobatik deckt Akte des Gleichgewichts, der Gymnastik, des Jonglierens und des Turnens ab. Die Fertigkeit kann verwendet werden, um ein Publikum zu beeindrucken, aber auch um Schäden durch Stürze zu mindern. Mit einem erfolgreichen Wurf kann sich ein Charakter mit voller Geschwindigkeit und trittsicher über eine instabile oder schmale Oberfläche bewegen. Wenn man versucht, Schaden durch einen unerwarteten Sturz zu mindern, halbiert ein erfolgreicher Akrobatik-Wurf jeden erlittenen Schaden. Wenn der Wurf erfolgreich ist und der Charakter aufgrund des Sturzes keine schwere oder große Wunde erleidet, landet der Charakter zudem relativ sicher und stürzt nicht.
 
-Akrobatik kann anstelle von Ausweichen verwendet werden, wenn die Situation dies rechtfertigt. Der Vorteil dabei ist, dass der Charakter automatisch wieder auf die Beine kommt, anstatt liegend zu enden.
+Akrobatik kann durch Ausweichen ersetzt werden, wenn die Situation dies rechtfertigt. Der Vorteil dabei ist, dass der Charakter automatisch wieder auf die Beine kommt, anstatt zu stürzen.
 
-Akrobatik dient auch als Basis für die Rang-1-Fähigkeit [Gewölbe](0003_Classes.md?id=rank-1-3) des Schurken.
+Akrobatik dient auch als Basis für die Fertigkeit [Gewölbe](0003_Classes.md?id=rank-1-3) der Stufe 1 des Schurken.
 
-#### Tierführung (WIL+CHA)
+#### Tierführung (MAC+CHA)
 
-Diese Fertigkeit dient mehreren Funktionen, einschließlich des Versuchs, ein feindseliges Tier zu beruhigen oder ein Haustier in bestimmten Tricks auszubilden, wie zum Beispiel einem Hund das Sitzen, Apportieren, Bleiben oder Fuß-Gehen beizubringen; Pferde können eingeritten werden und so weiter. Wenn sie verwendet wird, um ein wildes oder feindseliges Tier zu beruhigen, wird ein Erfolg es vertreiben. Wenn es jedoch hungrig ist oder Junge vorhanden sind, ist dieser Wurf um zwei Grade schwieriger. Einem hungrigen Tier Futter anzubieten, kann den Wurf um einen oder zwei Schwierigkeitsgrade erleichtern oder dazu führen, dass das Tier anfängt, dem Charakter zu folgen, um mehr zu bekommen, je nach den Umständen.
+Diese Fertigkeit erfüllt mehrere Funktionen, einschließlich des Versuchs, ein feindseliges Tier zu beruhigen oder ein Haustier in bestimmten Tricks auszubilden, wie zum Beispiel einem Hund beizubringen, zu sitzen, zu apportieren, zu bleiben oder bei Fuß zu gehen; Pferde können an einen Reiter gewöhnt werden und so weiter. Wenn sie verwendet wird, um ein wildes oder feindseliges Tier zu beruhigen, wird ein Erfolg es vertreiben. Wenn es jedoch hungrig ist oder Junge dabei hat, ist dieser Wurf zwei Grad schwieriger. Einem hungrigen Tier Futter anzubieten, kann den Wurf um ein oder zwei Schwierigkeitsgrade erleichtern oder dazu führen, dass das Tier anfängt, dem Charakter zu folgen, um mehr zu bekommen, abhängig von den Umständen.
 
-#### Arkanes Wirken (INT+WIL)
+#### Arkane Zauberei (INT+MAC)
 
-Arkanes Wirken ist eine magische Fertigkeit, die für Arkane Magie unerlässlich ist. Es ist die Fähigkeit des Magiewirkers, zuvor aus einem Zauberbuch oder einer Schriftrolle auswendig gelernte Zauber erfolgreich zu wirken. Sie repräsentiert auch, dass der Wirker den korrekten mentalen Zustand findet, um einen Zauber zu wirken, begleitet von Gesten und Beschwörungen usw. Zunehmende Kompetenz in dieser Fertigkeit verbessert auch die endgültige Intensität aller damit gewirkten Zauber.#### Arkane Kunde (INT x2)
+Arkane Zauberei ist eine magische Fertigkeit, die für Arkane Magie wesentlich ist. Sie ist die Fähigkeit des Magienutzers, zuvor aus einem Zauberbuch oder einer Schriftrolle memorierte Zauber erfolgreich zu wirken. Sie repräsentiert auch, dass der Zaubernde den richtigen mentalen Zustand findet, um einen Zauber zu wirken, begleitet von Gesten und Beschwörungsformeln und so weiter. Eine zunehmende Kompetenz in dieser Fertigkeit verbessert auch die finale Intensität aller Zauber, die damit gewirkt werden.#### Arkane Kunde (INT x2)
 
-Wie Arkane Zauberei ist diese magische Fertigkeit essenziell für Arkane Magie. Sie repräsentiert das tatsächlich angesammelte Zauberwissen eines Magiers und wird verwendet, wenn er versucht, neue Zauber zu erlernen, sie in ein Zauberbuch zu kopieren, Schriftrollen zu erstellen, einen Zauber während des Wirkens zu identifizieren und so weiter. Sie bestimmt auch die Anzahl der Startzauber, über die der Zauberer verfügen darf – dies wird ausführlicher im Abschnitt [Rangstruktur](0003_Classes.md?id=rank-structure-2) der Magier-Klasse behandelt.
+Wie das Arkane Zaubern ist diese magische Fertigkeit wesentlich für Arkane Magie. Sie repräsentiert das tatsächlich angesammelte Zauberwissen eines Magiers und wird verwendet, wenn versucht wird, neue Zauber zu erlernen, sie in ein Zauberbuch zu kopieren, Schriftrollen zu erstellen, einen Zauber zu identifizieren, während er gewirkt wird, und so weiter. Sie bestimmt auch die Anzahl der Startzauber, die der Zaubernde haben darf – dies wird in der Klasse Magier im Abschnitt [Rangstruktur](0003_Classes.md?id=rank-structure-2) genauer behandelt.
 
-Arkane Kunde ist nicht nur auf arkane Zauberer beschränkt. Sie kann auch von denjenigen erlernt werden, die sich einfach mit dem Esoterischen befassen möchten, selbst wenn sie nicht aktiv Arkane Magie praktizieren.
+Arkane Kunde ist nicht nur auf Arkane Zauberer beschränkt. Sie kann von jenen übernommen werden, die einfach das Esoterische studieren möchten, auch wenn sie nicht aktiv Arkane Magie praktizieren.
 
-#### Kunst (POW+CHA)
+#### Kunst (MAC+CHA)
 
-Es gibt viele spezifische Kunstformen. Von Malerei bis Dichtung; von Literatur bis Bildhauerei. Ein Charakter wählt eine Kunst-Spezialisierung, wenn er diese Fertigkeit erlernt – z. B. Kunst (Malerei). Weitere Kunstformen werden separat gesteigert. Ein Wurf wird immer dann gemacht, wenn ein Charakter durch sein künstlerisches Medium beeindrucken oder überzeugen muss.
+Es gibt viele spezifische Kunstformen. Von Malerei bis Dichtung; Literatur bis Bildhauerei. Ein Charakter wählt eine Kunst-Spezialisierung, wenn er diese Fertigkeit erlernt – z. B. Kunst (Malerei). Nachfolgende Kunstformen werden separat gesteigert. Ein Wurf wird gemacht, wann immer ein Charakter durch sein künstlerisches Medium beeindrucken oder überzeugen muss.
 
 #### Bürokratie (INT x2)
 
-Das Verständnis administrativer Abläufe, Aufzeichnungen und unausgesprochener Konventionen wird durch die Fertigkeit Bürokratie abgedeckt. Sie wird verwendet, um mit Beamten zu interagieren oder relevante zivile Informationen zu finden. Je nach Komplexität ihrer Kultur müssen Bürokraten nicht unbedingt lesen und schreiben können. Ihre Bürokratie-Fertigkeit darf jedoch nicht den Wert der Sprach- oder Lesefertigkeit übersteigen, in der sie arbeiten. Wann immer bürokratische Hindernisse oder administrative Landschaften durchquert werden müssen, ist ein Bürokratie-Wurf erforderlich.
+Das Verständnis administrativer Abläufe, Aufzeichnungen und unausgesprochener Konventionen wird durch die Fertigkeit Bürokratie abgedeckt. Sie wird verwendet, um mit Beamten zu interagieren oder relevante bürgerliche Informationen zu entdecken. Abhängig von der Kultiviertheit ihrer Kultur müssen Bürokraten nicht notwendigerweise lesen und schreiben können. Ihre Bürokratie-Fertigkeit kann jedoch den Wert der Sprach- oder Lesefertigkeit, in der sie arbeiten, nicht überschreiten. Wann immer bürokratische Hürden überwunden oder administrative Landschaften navigiert werden müssen, ist ein Bürokratie-Wurf notwendig.
 
 #### Kanalisieren (INT+CHA)
 
-Kanalisieren ist die magische Fertigkeit, die verwendet wird, um die Macht der Götter anzurufen und zu leiten. Eine steigende Kompetenz in dieser Fertigkeit verbessert auch die endgültige Intensität aller damit gewirkten Zauber.
+Kanalisieren ist die magische Fertigkeit, die verwendet wird, um die Macht der Götter anzurufen und zu leiten. Eine höhere Kompetenz in dieser Fertigkeit verbessert auch die endgültige Intensität aller Zauber, die damit gewirkt werden.
 
 #### Handel (INT+CHA)
 
-Handel wird verwendet, um den Wert von Waren und Gütern zu beurteilen und sie zum bestmöglichen Preis zu handeln. Sie wird auch verwendet, um die Feinheiten von Geschäftsabschlüssen zu verstehen und einen Gewinn zu erzielen. Eine weitere Anwendung liegt darin, den besten Weg zu finden, um gestohlene oder illegale Waren abzusetzen – ebenfalls zum bestmöglichen Preis. Handel wird offensichtlich beim Handeln verwendet und kann durch die Handel-Fertigkeit des Gegners oder dessen Willenskraft erschwert werden, was die Versuche der Gegenseite widerspiegelt, den Deal zu ihren Gunsten zu beeinflussen. Sie wird auch verwendet, um den Marktwert von Waren zu beurteilen, ein Gefühl für den Preis zu bekommen und zu wissen, wo sie am besten gehandelt werden können.
+Handel wird verwendet, um den Wert von Waren und Gütern zu bewerten und sie zum bestmöglichen Preis zu tauschen. Es wird auch verwendet, um die Feinheiten von Geschäftsabwicklungen zu verstehen und einen Profit zu sichern. Eine weitere Verwendung liegt darin, den besten Weg zu finden, gestohlene und illegale Waren loszuwerden – ebenfalls zum bestmöglichen Preis. Handel wird offensichtlich beim Tauschen verwendet und kann durch die Fertigkeit Handel oder Willenskraft eines Gegners herausgefordert werden, was die Versuche der Gegenseite widerspiegelt, das Geschäft zu ihren Gunsten zu beeinflussen. Es wird auch verwendet, um den Marktwert von Waren zu beurteilen, um eine Vorstellung vom Preis zu bekommen und zu wissen, wo sie am besten gehandelt werden können.
 
-#### Etikette (INT+CHA)
+#### Höflichkeit (INT+CHA)
 
-Diese Fertigkeit umfasst das Verständnis, wie man sich in einer sozialen oder formellen Situation angemessen verhält: Anredeformen, Rituale, Verhaltenskonventionen und so weiter. Sie beinhaltet alles, von der Frage, wem man sich verbeugt und wann, bis hin dazu, wie tief; von der Frage, wann ein bestimmter Titel zu verwenden ist, bis hin dazu, wann es angemessen ist, sich informell zu verhalten.
+Diese Fertigkeit deckt das Verständnis ab, wie man sich in einer sozialen oder formellen Situation angemessen verhält: Anredeformen, Rituale, Verhaltenskonventionen und so weiter. Sie beinhaltet alles, von der Frage, wem man sich wie tief verbeugt, bis hin dazu, wann man einen bestimmten Titel verwendet oder wann es angemessen ist, informell zu handeln.
 
-#### Handwerk (DEX+INT)
+#### Handwerk (GES+INT)
 
-Jedes Handwerk ist eine spezialisierte Form, z. B. Handwerk (Töpfern), und es gibt so viele Handwerke, wie es Berufe dafür gibt. Wie bei Kunst wird Handwerk verwendet, um den Gegenstand herzustellen. Wie lange es dauert, hängt ganz von der Art des Produkts ab: Einen Teppich zu weben dauert länger als einen Topf zu töpfern, aber Zeit ist nicht unbedingt der wichtigste Faktor: Es ist die Geschicklichkeit des Handwerkers, die Qualität der Ressourcen und die Liebe zum Detail.
+Jedes Handwerk ist eine spezialisierte Form, z. B. Handwerk (Töpferei), und es gibt so viele Handwerke, wie es Berufe für sie gibt. Wie bei Kunst wird Handwerk verwendet, um den Gegenstand zu erschaffen. Wie lange es dauert, hängt vollständig von der Natur des Produkts ab: Einen Teppich zu weben dauert länger, als einen Topf zu töpfern, aber Zeit ist nicht notwendigerweise der wichtigste Faktor: Es ist das Können des Handwerkers, die Qualität der Ressourcen und die Liebe zum Detail.
 
 #### Kultur (INT x2)
 
-Kultur ist die spezifischere Form der Standardfertigkeit Bräuche und bezieht sich auf Gesellschaften, die dem Charakter fremd sind. Jeder Kultur-Fertigkeit muss eine bestimmte Nation oder Gesellschaft zugewiesen werden, auf die sie angewendet wird. Mechanisch funktioniert sie auf die gleiche Weise wie die Fertigkeit Bräuche.
+Kultur ist die spezifischere Form der Standardfertigkeit Bräuche, die sich stattdessen auf Gesellschaften bezieht, die dem Charakter fremd sind. Jeder Kultur-Fertigkeit muss eine bestimmte Nation oder Gesellschaft zugewiesen werden, auf die sie zutrifft. Mechanisch funktioniert sie auf die gleiche Weise wie die Fertigkeit Bräuche.
 
-#### Hingabe (POW+CHA)
+#### Hingabe (MAC+CHA)
 
-Hingabe ist eine magische Fertigkeit, die das Engagement eines Klerikers im Dienst einer Gottheit widerspiegelt. Sie misst nicht nur die Tiefe der Hingabe zu einem Gott, sondern bestimmt auch die Magnitude aller göttlichen Zauber, die der Charakter anruft. Zusätzlich kann die Fertigkeit den Status eines göttlichen Zauberers innerhalb einer religiösen Organisation anzeigen.
+Hingabe ist eine magische Fertigkeit, die das Engagement eines Klerikers im Dienst einer Gottheit widerspiegelt. Sie misst nicht nur die Tiefe der Hingabe an einen Gott, sondern bestimmt auch die Größe aller Göttlichen Zauber, die vom Charakter angerufen werden. Zusätzlich kann die Fertigkeit den Stand eines Göttlichen Zauberers innerhalb einer religiösen Organisation anzeigen.
 
-Hingabe ist nicht nur auf göttliche Zauberer beschränkt. Sie kann auch von denjenigen erlernt werden, die den Göttern einfach Respekt zollen möchten, selbst wenn sie nicht aktiv göttliche Magie praktizieren.
+Hingabe ist nicht nur auf Göttliche Zauberer beschränkt. Sie kann von jenen übernommen werden, die einfach Respekt vor den Göttern zeigen möchten, auch wenn sie nicht aktiv Göttliche Magie praktizieren.
 
 #### Verkleiden (INT+CHA)
 
-Eine überzeugende Verkleidung unter Verwendung geeigneter Materialien (Kostüme, Kosmetika, Perücken oder Haarteile) zu erstellen, wird durch die Fertigkeit Verkleiden abgedeckt. Die Erstellung der Verkleidung erfordert Zeit und Liebe zum Detail sowie den Zugang zu den richtigen Materialien, um sie überzeugend zu machen. Wenn einige oder alle dieser Elemente nicht vorhanden sind, wird der Schwierigkeitsgrad des Verkleiden-Wurfs um eine oder mehrere Stufen erhöht.
+Eine überzeugende Verkleidung unter Verwendung angemessener Materialien (Kostüme, Kosmetika, Perücken oder Haarteile) wird durch die Fertigkeit Verkleiden abgedeckt. Das Erstellen der Verkleidung erfordert Zeit und Liebe zum Detail sowie Zugang zu den richtigen Materialien, um sie überzeugend zu machen. Wenn einige oder alle dieser Elemente nicht vorhanden sind, wird der Schwierigkeitsgrad des Verkleiden-Wurfes um einen oder mehrere Schritte erschwert.
 
 #### Ingenieurwesen (INT x2)
 
-Der Entwurf und Bau von groß angelegten Strukturen, von Häusern bis zu Brücken, Toren bis zu Belagerungsmaschinen, fällt in den Aufgabenbereich der Ingenieurwesen-Fertigkeit. Würfe sind bei der Planung von Großprojekten erforderlich, um eine korrekte Konstruktion sicherzustellen, werden aber auch gemacht, wenn ein Ingenieur die Integrität einer Struktur aus irgendeinem Grund beurteilen möchte (z. B. Zustand der Reparatur oder Schwachstellen).
+Der Entwurf und Bau von groß angelegten Strukturen, von Häusern bis zu Brücken, Toren bis zu Belagerungsmaschinen, fällt in den Aufgabenbereich der Ingenieurwesen-Fertigkeit. Würfe sind notwendig, wenn groß angelegte Projekte geplant werden, um eine korrekte Konstruktion sicherzustellen, werden aber auch gemacht, wenn ein Ingenieur die Integrität einer Struktur aus irgendeinem Grund beurteilen möchte (z. B. Zustand der Instandhaltung oder Schwachstellen).
 
-#### Glücksspiel (INT+POW)
+#### Glücksspiel (INT+MAC)
 
-Die Fertigkeit Glücksspiel misst die Kompetenz eines Charakters bei Glücksspielen, insbesondere wenn Geld auf das Ergebnis gesetzt wird. Sie wird verwendet, um die Erfolgs- oder Misserfolgschancen einzuschätzen oder zu erkennen, wenn jemand schummelt. Die Fertigkeit kann je nach Situation in einer Opponierten oder nicht-opponierten Weise verwendet werden. Eine Nacht in einer gesichtslosen Spielhölle erfordert vielleicht nur einen direkten Test, während ein Würfelspiel mit hohen Einsätzen, an dem bedeutende Persönlichkeiten beteiligt sind, mehrere Runden an Opponierten Würfen erfordern kann.
+Die Fertigkeit Glücksspiel misst die Kompetenz eines Charakters in Glücksspielen, insbesondere dort, wo Geld auf das Ergebnis gesetzt wird. Sie wird verwendet, um die Erfolgs- oder Misserfolgschancen einzuschätzen oder um zu erkennen, wenn jemand betrügt. Die Fertigkeit kann in einer gegnerischen oder nicht-gegnerischen Weise verwendet werden, abhängig von der Situation. Eine Nacht in einer gesichtslosen Spielhölle könnte nur einen einfachen Test erfordern, während ein Würfelspiel mit hohen Einsätzen, an dem bedeutende Persönlichkeiten beteiligt sind, stattdessen mehrere Runden an Gegenwürfen erfordern könnte.
 
-#### Heilkunde (INT+POW)
+#### Erste Hilfe (INT+MAC)
 
-Heilkunde ist das fundierte Wissen über medizinische Verfahren, basierend auf kulturellen Praktiken. In einer primitiven oder barbarischen Kultur basiert Heilkunde beispielsweise auf dem Wissen über Kräuter und natürliche Heilmittel. In einer zivilisierten Kultur sind Medikamente und fortschrittlichere Behandlungen üblicher. In allen Kulturen beinhaltet Heilkunde die Fähigkeit, Knochen zu richten, Wunden zu nähen und so weiter. Natürlich erfordert die Anwendung von Heilkunde geeignete Ressourcen, und die meisten praktizierenden Heiler haben solche Dinge zur Hand (Nadeln, Darm- oder Nähgarn für Nähte, Kräuter für Umschläge und so weiter).
+Erste Hilfe ist das tiefgehende Wissen über medizinische Verfahren, basierend auf kulturellen Praktiken. In einer primitiven oder barbarischen Kultur wird Erste Hilfe beispielsweise auf dem Wissen über Kräuter und natürliche Heilmittel basieren. In einer zivilisierten Kultur werden Drogen und fortschrittlichere Behandlungen häufiger sein. In allen Kulturen beinhaltet Erste Hilfe die Fähigkeit, Knochen zu richten, Wunden zu nähen und so weiter. Offensichtlich erfordert die Anwendung von Erster Hilfe angemessene Ressourcen, und die meisten praktizierenden Heiler haben solche Dinge zur Hand (Nadeln, Darm- oder Fadenmaterial für Nähte, Kräuter für Umschläge und so weiter).
 
-#### Einschüchtern (INT+CHA)
+#### Einschüchterung (INT+CHA)
 
-Diese Fertigkeit wird verwendet, um eine Person dazu zu bringen, eine Handlung auszuführen, zu der sie sonst nicht bereit wäre. Sie wird oft verwendet, um Informationen von jemandem zu erhalten oder um einen Gegner durch die Androhung von körperlicher Gewalt zum Nachgeben zu bewegen. Einschüchtern-Proben können basierend auf der verwendeten Methode und dem wahrgenommenen Gefahrengrad des Gegners modifiziert werden. Einschüchtern wird typischerweise durch die Willenskraft des Opfers opponiert; wenn es jedoch mit Folter verwendet wird, kann Ausdauer anwendbar sein.
+Diese Fertigkeit wird verwendet, um eine Person zu einer Handlungsweise zu zwingen, zu der sie ansonsten nicht bereit wäre. Sie wird oft verwendet, um Informationen von anderen zu erhalten oder um einen Gegner durch die Androhung physischer Gewalt zum Einlenken zu bewegen. Einschüchterungs-Checks können basierend auf der verwendeten Methode und der wahrgenommenen Gefahr durch den Gegner modifiziert werden. Einschüchterung wird typischerweise durch die Willenskraft des Opfers herausgefordert, wenn sie jedoch in Verbindung mit Folter verwendet wird, kann Ausdauer anwendbar sein.
 
 #### Sprache (INT+CHA)
 
-Diese Fertigkeit deckt das Sprechen und Verstehen anderer Sprachen als der eigenen ab. Die Sprache-Fertigkeit wird nicht direkt gewürfelt, sondern als statische Darstellung der allgemeinen Geläufigkeit behandelt. Ihr Wert wird vom Spielleiter verwendet, um das Niveau der sprachlichen Interaktion zu begrenzen, wenn die Spieler mit Persönlichkeiten im Spiel sprechen. Verwenden Sie die [Tabelle der sprachlichen Geläufigkeit](0005_Skills.md?id=linguistic-fluency-table) als Richtlinie.
+Diese Fertigkeit umfasst das Sprechen und Verstehen von Sprachen, die nicht die eigene des Charakters sind. Der Sprach-Fertigkeit wird nicht direkt entgegengewürfelt, sondern sie wird als statische Repräsentation der allgemeinen Geläufigkeit behandelt. Ihr Wert wird vom Spielleiter verwendet, um das Niveau der gesprochenen Interaktion zu begrenzen, wenn die Spieler mit Persönlichkeiten im Spiel kommunizieren. Verwenden Sie die [Tabelle zur Sprachgeläufigkeit](0005_Skills.md?id=linguistic-fluency-table) als Richtlinie.
 
-##### Tabelle der sprachlichen Geläufigkeit
+##### Tabelle zur Sprachgeläufigkeit
 
-| Sprache% | Sprachliche Geläufigkeit |
+| Sprache% | Konversationsgeläufigkeit |
 | :-: | :-- |
-| 01-25% | Kann nur ein paar einfache Wörter verstehen, kann keine Sätze bilden oder lesen |
-| 26-50% | Kann in fragmentarischen, einfachen Sätzen verstehen und kommunizieren, wie z. B. „Wo ist Tempel?“ oder „Wie viel Essen?“. Kann auf Grundschulniveau lesen |
+| 01-25% | Kann nur einige einfache Wörter verstehen, kann keine Sätze bilden oder lesen |
+| 26-50% | Kann in fragmentarischen, einfachen Sätzen verstehen und kommunizieren, wie „Wo ist Tempel?“ oder „Wie viel Essen?“ Kann auf Grundschulniveau lesen |
 | 51-75% | Geläufig genug für allgemeine Konversation und kann auf Highschool-Niveau lesen |
 | 76%+ | In der Lage, sich eloquent auszudrücken und kann auf College-Niveau lesen |
 
-Jede Sprache-Fertigkeit ist spezifisch für eine bestimmte Rassen-, National- oder Regionalsprache, die zum Zeitpunkt des Erlernens gewählt werden muss. Sie kann auch helfen, ähnliche Dialekte zu verstehen, die eine gemeinsame sprachliche Basis oder einen gemeinsamen Ursprung haben. Je nach Abweichung sollte der Fertigkeitswurf als mindestens eine Schwierigkeitsstufe härter behandelt werden, was die Geläufigkeit des Charakters möglicherweise reduziert.
+Jede Sprach-Fertigkeit ist spezifisch für eine bestimmte rassische, nationale oder regionale Sprache, die zum Zeitpunkt des Lernens gewählt werden muss. Sie kann auch helfen, ähnliche Dialekte zu verstehen, die eine gemeinsame sprachliche Basis oder einen Ursprung teilen. Abhängig von der Divergenz sollte der Fertigkeitswurf um mindestens einen Schwierigkeitsgrad erschwert behandelt werden, was möglicherweise die Geläufigkeit des Charakters reduziert.
 
-Die Sprache-Fertigkeit beinhaltet Lese- und Schreibfähigkeit. Lese- und Schreibfähigkeit impliziert nicht notwendigerweise das Schreiben, da es eine unendliche Anzahl von Möglichkeiten gibt, Informationen aufzuzeichnen. Einige Kulturen könnten Symbole in Bäume oder Knochenstücke ritzen, während andere die Geschichte in komplexen Knotenmustern in einem Wandteppich aufzeichnen. Auch basieren nicht alle Formen der Schriftsprache auf phonetischen Alphabeten; Hieroglyphen und Ideogramme sind ebenfalls weit verbreitet.
+Die Sprach-Fertigkeit beinhaltet Lese- und Schreibfähigkeit. Lese- und Schreibfähigkeit impliziert nicht notwendigerweise Schreiben, da es eine unendliche Anzahl von Möglichkeiten gibt, Informationen aufzuzeichnen. Einige Kulturen könnten Symbole in Bäume oder Knochenstücke schnitzen, während andere die Geschichte in komplexen Knotenmustern in einem Wandteppich aufzeichnen. Auch basieren nicht alle Formen der Schriftsprache auf phonetischen Alphabeten; Hieroglyphen und Ideogramme sind ebenfalls gebräuchlich.
 
 #### Sprache (Diebessprache) (INT+CHA)
 
-_(Nur Schurken)_: Erfordert den Eid auf die Diebesgilde, um dieses Patois auf Basisstufe zu erlernen. Diese „Sprache“-Fertigkeit besteht aus Slang und impliziten Bedeutungen und wird unter Dieben verwendet, um in der Öffentlichkeit illegale Aktivitäten zu besprechen, ohne Informationen an andere interessierte Parteien preiszugeben. Diese Kommunikation ist auf Diskussionen über Einbrüche beschränkt. Schurken, die langjährige Mitglieder der Diebesgilde sind, beherrschen diese Fertigkeit automatisch auf Basisstufe +40%. Diejenigen, die sie während des Spiels erlernen, beginnen auf der Basisstufe.
+_(Nur Schurken)_: Erfordert den Eid bei der Diebesgilde, um diesen Dialekt auf Basisniveau zu erlernen. Diese 'Sprache'-Fertigkeit besteht aus Slang und implizierten Bedeutungen und wird unter Dieben verwendet, um illegale Unternehmungen in der Öffentlichkeit zu besprechen, ohne anderen interessierten Parteien Informationen preiszugeben. Diese Kommunikation ist auf Diskussionen über Einbrüche beschränkt. Schurken, die langjährige Mitglieder der Diebesgilde sind, beherrschen diese Fertigkeit automatisch auf Basisniveau +40%. Diejenigen, die sie im Spiel erlernen, beginnen auf Basisniveau.
 
-#### Schlösser knacken (DEX x2)
+#### Schlösserknacken (GES x2)
 
-Schlösser knacken ist die Fähigkeit, ein mechanisches Schließsystem ohne die Hilfe eines Schlüssels oder eines speziell für das Schloss hergestellten Geräts zu öffnen. Dazu gehören die Techniken, verschlossene oder verriegelte Türen und Fenster zu öffnen, ohne Schäden zu verursachen. Schlösser knacken kann auch verwendet werden, um ein Schloss „umgekehrt zu knacken“, d. h. eine Tür, eine Truhe usw. abzuschließen, wenn kein Schlüssel verfügbar ist.
+Schlösserknacken ist die Fähigkeit, ein mechanisches Schließsystem ohne die Hilfe eines Schlüssels oder eines anderen Geräts, das speziell für das Schloss hergestellt wurde, zu öffnen. Es beinhaltet die Techniken, verriegelte oder verriegelte Türen und Fenster zu öffnen, ohne Schaden zu verursachen. Schlösserknacken kann auch verwendet werden, um ein Schloss 'umgekehrt zu knacken'; d. h. eine Tür, eine Truhe und so weiter abzuschließen, wenn kein Schlüssel verfügbar ist.
 
-#### Wissen (INT x2)
+#### Überlieferung (INT x2)
 
-Wissen deckt einen spezifischen Wissensbereich ab, der bei der ersten Erlernung der Fertigkeit gewählt werden muss: z. B. Wissen (Alchemie). Alchemie, Astrologie, Astronomie, Geografie, Heraldik, Geschichte, Geburtshilfe, Mineralien, Monster, Politik, Religion, Strategie und Taktik: Dies sind alles typische Beispiele für Wissen-Fertigkeiten. Fertigkeit in einem Wissensgebiet bedeutet, dass der Charakter dessen Grundlagen versteht, weiß, wie sie auf unmittelbare Herausforderungen und Probleme angewendet werden können, und die Fertigkeit Wissen (Thema) verwenden kann, um nützliche Informationen abzurufen.
+Überlieferung deckt ein spezifisches Wissensgebiet ab, das gewählt werden muss, wenn die Fertigkeit zuerst erlernt wird: z. B. Überlieferung (Alchemie). Alchemie, Astrologie, Astronomie, Geografie, Heraldik, Geschichte, Geburtshilfe, Mineralogie, Monster, Politik, Religion, Strategie und Taktik: Dies sind alles typische Beispiele für Überlieferungs-Fertigkeiten. Fertigkeit in einer Überlieferung bedeutet, dass der Charakter deren Grundlagen versteht, wie sie auf unmittelbare Herausforderungen und Probleme angewendet werden kann, und die Fertigkeit Überlieferung (Thema) verwenden kann, um nützliche Informationen abzurufen.
 
-#### Mechanismen (DEX+INT)
+#### Mechanismen (GES+INT)
 
-Mechanismen repräsentiert das Wissen und die Fertigkeit, mechanische Vorrichtungen wie Fallen zusammen- und auseinanderzubauen. Die Fertigkeit Mechanismen beinhaltet im Allgemeinen die Erstellung filigraner Konstruktionen mit kleinen Funktionsteilen, im Gegensatz zum Ingenieurwesen, das sich mit massiven Konstruktionen befasst. Es ist eine eigenständige Disziplin im Vergleich zu Schlösser knacken und kann nicht mit dieser Fertigkeit ausgetauscht werden.
+Mechanismen repräsentiert das Wissen und die Fertigkeit, mechanische Geräte, wie Fallen, zusammen- und auseinanderzubauen. Die Fertigkeit Mechanismen beinhaltet im Allgemeinen die Erschaffung empfindlicher Apparaturen mit kleinen beweglichen Teilen, im Gegensatz zu Ingenieurwesen, das sich mit massiven Konstruktionen befasst. Es ist eine eigenständige Disziplin vom Schlösserknacken und kann nicht mit dieser Fertigkeit ausgetauscht werden.
 
-#### Musikalität (DEX+CHA)
+#### Musikalität (GES+CHA)
 
-Musikalität deckt das Spielen von Musikinstrumenten ab; von einer einfachen Rohrflöte bis zu einem komplexen Saiteninstrument wie einer Harfe, und jede Iteration von Musikalität wird auf eine Gruppe ähnlicher Instrumente angewendet. Ein Musiker mit Musik (Flöten) kann eine Rohrflöte spielen, aber auch eine Flöte, Panflöte oder Blockflöte, da die Grundlagen dieselben sind. Er könnte jedoch keine Harfe oder Laute spielen.
+Musikalität deckt das Spielen von Musikinstrumenten ab; von einer einfachen Rohrflöte bis zu einem komplexen Saiteninstrument wie einer Harfe, und jede Iteration von Musikalität wird auf eine Gruppe ähnlicher Instrumente angewendet. Ein Musiker mit Musik (Flöten) kann eine Rohrflöte spielen, kann aber auch eine Flöte, Panflöte oder Blockflöte spielen, weil die Grundlagen dieselben sind. Er könnte jedoch keine Harfe oder Laute spielen.
 
-#### Navigation (INT+POW)
+#### Navigation (INT+MAC)
 
-Ob unter Verwendung markanter Orientierungspunkte, der Sterne oder des unterschiedlichen Geschmacks von Meerwasser, die Fähigkeit, Reisen präzise zu lenken, wird durch die Navigation-Fertigkeit abgedeckt. Jede Navigation-Fertigkeit deckt eine bestimmte Region oder Umgebung ab, wie zum Beispiel Offenes Meer oder Untergrund. Sie sollte bei ungewöhnlichen Reisen oder in völlig unbekanntem Gebiet eingesetzt werden.
+Ob durch markante Orientierungspunkte, die Sterne oder den unterschiedlichen Geschmack von Meerwasser, die Fähigkeit, Reisen genau zu lenken, wird durch die Fertigkeit Navigation abgedeckt. Jede Navigations-Fertigkeit deckt eine bestimmte Region oder Umgebung ab, wie zum Beispiel Offene See oder Untergrund. Sie sollte bei ungewöhnlichen Reisen oder in völlig unbekanntem Gebiet eingesetzt werden.
 
-#### Rhetorik (POW+CHA)
+#### Oratorik (MAC+CHA)
 
-Rhetorik ist die Kunst, eine Rede vor einer großen Gruppe von Menschen zu halten, mit dem Ziel, einen Standpunkt zu vermitteln oder zu beeinflussen. Es ist eine Fertigkeit, die häufig von Politikern verwendet wird, um eine Politik voranzutreiben, aber auch von Befehlshabern, um Truppen zu inspirieren und Disziplin auf dem Schlachtfeld durchzusetzen. Überall dort, wo Massenüberzeugung erforderlich ist, wird Rhetorik anstelle von Einfluss verwendet.
+Oratorik ist die Kunst, eine Rede vor einer großen Gruppe von Menschen zu halten, mit dem Ziel, einen Standpunkt zu vermitteln oder zu beeinflussen. Es ist eine Fertigkeit, die häufig von Politikern verwendet wird, um eine Politik voranzutreiben, aber auch von Befehlshabern, um Truppen zu inspirieren und Disziplin auf dem Schlachtfeld durchzusetzen. Wo immer Massenbeeinflussung benötigt wird, wird Oratorik anstelle von Einfluss verwendet.
 
-#### Seemannschaft (INT+CON)
+#### Seemannschaft (INT+KON)
 
-Diese Fertigkeit wird auf die gleiche Weise wie [Bootfahren](0005_Skills.md?id=boating-strcon) verwendet, wird jedoch auf große Wasserfahrzeuge angewendet, die durch Segel oder Ruderbänke angetrieben werden. Sie umfasst auch die Wartung und Instandhaltung eines Schiffes: die Beurteilung, wann Reparaturen erforderlich sind, wo es sicher ist zu ankern, die Gefahren bei stürmischem Wetter und so weiter.
+Diese Fertigkeit wird auf die gleiche Weise wie [Bootfahren](0005_Skills.md?id=boating-strcon) verwendet, wird aber stattdessen auf große Wasserfahrzeuge angewendet, die durch Segel oder Ruderbänke angetrieben werden. Sie umfasst auch die Wartung und Instandhaltung eines Schiffes: Beurteilung, wann Reparaturen benötigt werden, wo es sicher ist zu ankern, die Gefahren von heftigem Wetter und so weiter.
 
 #### Verführung (INT+CHA)
 
-Verführung ist die romantische oder sexuelle Überzeugung einer anderen Person, eine Fertigkeit, die sich stark von Einfluss unterscheidet. Sie verwendet explizite verbale und nonverbale Signale, um eine sexuell positive Reaktion hervorzurufen. Sie nimmt auch eine beträchtliche Menge an Zeit in Anspruch: Eine erfolgreiche Verführung kann je nach Moral des Ziels Stunden, Tage oder Wochen dauern, wobei das Ziel immer versuchen kann, der Verführung mit Willenskraft zu widerstehen.
+Verführung ist die romantische oder sexuelle Überzeugung einer anderen Person, eine Fertigkeit, die sich sehr von Einfluss unterscheidet. Sie verwendet explizite Signale – verbale und non-verbale –, um eine sexuell positive Reaktion hervorzurufen. Es erfordert auch eine beträchtliche Menge an Zeit: Erfolgreiche Verführung kann Stunden, Tage oder Wochen dauern, abhängig von der Moral des Ziels, das immer versuchen kann, Verführung mit Willenskraft zu widerstehen.
 
-#### Fingerfertigkeit (DEX+CHA)
+#### Fingerfertigkeit (GES+CHA)
 
-Fingerfertigkeit deckt Versuche ab, kleine Gegenstände zu verstecken oder in der Handfläche zu verbergen (Taschenspielertricks und Prestidigitation), und beinhaltet Versuche, Taschen zu leeren, Geldbörsen zu schneiden oder eine visuelle Ablenkung zu verursachen. Natürlich ist es eine essenzielle Diebesfertigkeit.
+Fingerfertigkeit deckt Versuche ab, kleine Gegenstände zu verstecken oder zu entwenden (Taschenspielertricks und Prestidigitation) und beinhaltet Versuche, Taschen zu leeren, Geldbörsen aufzuschneiden oder eine visuelle Ablenkung zu verursachen. Natürlich ist es eine essentielle Fertigkeit für Diebe.
 
-#### Straßenwissen (POW+CHA)
+#### Straßenwissen (MAC+CHA)
 
-Straßenwissen repräsentiert das Wissen über Orte und soziale Kontakte innerhalb einer Siedlung. Es deckt alles ab, von der Identifizierung potenziell gefährlicher Viertel bis hin zur Suche nach lokalen Dienstleistungen – ob legal oder illegal. Wie lange ein Versuch von Straßenwissen dauert, hängt davon ab, was gesucht wird. Einen guten Gasthof zu finden, dauert weniger Zeit als einen Hehler für gestohlene Waren oder eine gefälschte Handelslizenz ausfindig zu machen.
+Straßenwissen repräsentiert das Wissen über Orte und soziale Kontakte innerhalb einer Siedlung. Es deckt alles ab, von der Identifizierung potenziell gefährlicher Viertel bis zum Finden lokaler Dienste – legal oder illegal. Wie lange ein Straßenwissen-Versuch dauert, hängt davon ab, was gesucht wird. Einen guten Gasthof zu finden, dauert weniger Zeit als einen Hehler für gestohlene Waren oder eine gefälschte Handelserlaubnis aufzuspüren.
 
-#### Überleben (CON+POW)
+#### Überleben (KON+MAC)
 
-Diese Fertigkeit deckt das Überleben in einer ländlichen oder Wildnisumgebung ab, in der die Vorteile der Zivilisation fehlen: Nahrungssuche, Feuer machen, Schutz finden oder ein sicherer Schlafplatz. Wenn man richtig ausgerüstet ist, sind Würfe normalerweise unnötig, da der Charakter ein Zelt, Lebensmittelvorräte usw. bei sich tragen könnte. Erst wenn man von seiner Ausrüstung getrennt ist oder die Umweltbedingungen schlecht werden, wird es essenziell, diese Fertigkeit einzusetzen. Ein Wurf wird unter solchen Bedingungen normalerweise einmal pro Tag gemacht.
+Diese Fertigkeit deckt das Überleben in einer ländlichen oder wilden Umgebung ab, in der die Vorteile der Zivilisation fehlen: Nahrungssuche, Feuermachen, Finden eines Unterschlupfes oder eines sicheren Schlafplatzes. Wenn man richtig ausgerüstet ist, sind Würfe normalerweise unnötig, da der Charakter ein Zelt, Nahrungsvorräte und so weiter bei sich haben könnte. Erst wenn sie von ihrer Ausrüstung getrennt sind oder wenn die Umweltbedingungen schlecht werden, wird es unerlässlich, diese Fertigkeit einzusetzen. Unter solchen Bedingungen wird normalerweise einmal pro Tag ein Wurf gemacht.
 
-#### Fährtenlesen (INT+CON)
+#### Fährtenlesen (INT+KON)
 
-Die Fährtenlesen-Fertigkeit wird verwendet, um jede Form von Wild oder Beute zu verfolgen. Sie nutzt sowohl offensichtliche als auch mehrdeutige Anzeichen des Vorbeiziehens, um auf der Spur der Beute zu bleiben, einschließlich Fußabdrücken, geprellter Blätter, verstreuter Pollen, verschobener Felsen und so weiter; kleine, verräterische Anzeichen, die für den Ungeübten unsichtbar sind. Fährtenlesen-Würfe müssen regelmäßig gemacht werden, besonders wenn sich die Bedingungen plötzlich ändern (ein Regenschauer stört zum Beispiel bestimmte Zeichen). Wie oft, hängt davon ab, wie gerissen die Beute war. Verbergen-Würfe können verwendet werden, um einem Fährtenlesen-Wurf entgegenzuwirken.
+Die Fertigkeit Fährtenlesen wird verwendet, um jede Form von Wild oder Beute zu verfolgen. Sie nutzt sowohl offensichtliche als auch mehrdeutige Anzeichen des Vorbeiziehens, um auf der Spur der Beute zu bleiben, einschließlich Fußabdrücken, zerdrückten Blättern, verstreuten Pollen, verschobenen Steinen und so weiter; kleine, verräterische Anzeichen, die für Nicht-Geübte unsichtbar sind. Fährtenlesen-Würfe müssen regelmäßig gemacht werden, besonders wenn sich die Bedingungen abrupt ändern (ein Regenschauer wird beispielsweise bestimmte Anzeichen stören). Wie oft, hängt davon ab, wie gerissen die Beute war. Heimlichkeit-Würfe können verwendet werden, um einem Fährtenlesen-Wurf entgegenzuwirken.
 
 ---
 ## Fertigkeitsregeln für verschiedene Umstände und Situationen
 
-Obwohl die Grundregeln für die Verwendung von Fertigkeiten in _Classic Fantasy Imperative_ sehr einfach sind, gibt es eine Vielzahl unterschiedlicher Umstände, die während des Spiels auftreten und erfordern, dass Fertigkeiten auf leicht unterschiedliche Weise gehandhabt werden. Die folgenden Abschnitte betrachten diese Umstände und Situationen und zeigen, wie man mit ihnen umgeht.
+Obwohl die grundlegenden Regeln für die Verwendung von Fertigkeiten in _Classic Fantasy Imperative_ sehr unkompliziert sind, gibt es eine Vielzahl unterschiedlicher Umstände, die während des Spiels auftreten und die erfordern, dass Fertigkeiten etwas anders gehandhabt werden. Die folgenden Abschnitte betrachten diese Umstände und Situationen und zeigen, wie man mit ihnen umgeht.
 
-#### Erneute Versuche von Fertigkeiten
+#### Erneute Fertigkeitsversuche
 
-In manchen Situationen scheitert ein Charakter bei einem Fertigkeitsversuch, befindet sich aber in einer Situation, in der er es potenziell erneut versuchen könnte. Beispielhafte Fälle könnten das Knacken eines Schlosses oder der Versuch sein, eine steile Wand zu erklimmen. Anstatt weitere Versuche einfach abzulehnen, können freundliche Spielleiter einen letzten, verzweifelten Versuch zulassen. Der Charakter leidet jedoch unter einer gewissen Unruhe oder mangelndem Selbstvertrauen, was den Schwierigkeitsgrad des Fertigkeitswurfs um eins erhöht.
+In einigen Situationen wird ein Charakter bei einem Fertigkeitsversuch scheitern, befindet sich aber in einer Situation, in der er potenziell erneut versuchen könnte. Beispielhafte Fälle könnten das Knacken eines Schlosses oder der Versuch sein, eine steile Wand zu erklimmen. Anstatt einfach weitere Versuche zu verweigern, können freundliche Spielleiter einen letzten verzweifelten Versuch zulassen. Der Charakter wird jedoch unter einer gewissen Ängstlichkeit oder einem Mangel an Selbstvertrauen leiden, was den Schwierigkeitsgrad des Fertigkeitswurfs um eins erhöht.
 
-Wenn auch dieser zweite Versuch mit einem Misserfolg endet, wird angenommen, dass der Charakter sein „Bestes gegeben“ hat und auf absehbare Zeit keine weiteren Versuche unternehmen kann.
+Wenn auch dieser zweite Versuch in einem Misserfolg endet, wird angenommen, dass der Charakter sein 'Bestes gegeben' hat und für absehbare Zeit keine weiteren Versuche unternehmen kann.
 
-### Opponierte Würfe
+### Gegenwürfe
 
-Fertigkeiten werden häufig gegen andere Fertigkeiten verwendet – Heimlichkeit gegen Wahrnehmung, wenn ein Schurke versucht, den Geldbeutel eines Adligen zu schneiden; oder Täuschen gegen Intuition, wenn derselbe Schurke versucht, den Versuch zu leugnen, während er erwischt wird. Dies sind gute Beispiele für Zeiten, in denen Fertigkeiten gegeneinander abgewogen werden. Diese werden als Opponierte Würfe bezeichnet und dort verwendet, wo eine Herausforderung entweder zu einem Sieg oder einer Niederlage, zum Bestehen oder Scheitern führt.
+Fertigkeiten werden häufig gegen andere Fertigkeiten verwendet – Heimlichkeit gegen Wahrnehmung, wenn ein Schurke versucht, die Geldbörse eines Adligen zu stehlen; oder Täuschung gegen Einsicht, wenn dieselbe Schurkin versucht, den Versuch zu leugnen, wenn sie erwischt wird. Dies sind gute Beispiele für Zeiten, in denen Fertigkeiten gegeneinander ausgespielt werden. Diese werden als Gegenwürfe bezeichnet und verwendet, wenn eine Herausforderung entweder in Gewinn oder Verlust, Bestehen oder Scheitern resultiert.
 
-- Ein Opponierter Wurf wird wie folgt bestimmt: Beide Teilnehmer würfeln ihre jeweiligen Fertigkeiten. Der Gewinner ist derjenige, der den besseren Erfolgstyp erzielt. Wenn die Teilnehmer denselben Erfolgstyp erzielen (beide einen Standard-Erfolg oder beide einen Kritischen Erfolg), dann ist der Gewinner derjenige, der das höchste Würfelergebnis innerhalb des Erfolgsbereichs der Fertigkeit erzielt hat.
+- Ein Gegenwurf wird wie folgt bestimmt: Beide Teilnehmer würfeln mit ihren jeweiligen Fertigkeiten. Der Gewinner ist derjenige, der den besseren Erfolgsgrad erzielt. Wenn die Teilnehmer denselben Erfolgsgrad erzielen (jeweils ein Standarderfolg oder jeweils ein Kritischer Erfolg), dann ist der Gewinner derjenige, der den höchsten Würfelwurf innerhalb des Erfolgsbereichs der Fertigkeit erzielt hat.
 
-Wenn beide Teilnehmer bei einem Opponierten Wurf scheitern, dann:
+Wenn beide Teilnehmer bei einem Gegenwurf scheitern, dann entweder:
 
-- Beschreiben Sie die Situation, lassen Sie beide Seiten in dramatischer Spannung hängen und würfeln Sie den Wettstreit erneut aus, um einen Gewinner zu ermitteln.
-- Der Spielleiter sollte eine Erklärung oder Umstände liefern, die der Art des Scheiterns entsprechen.
+- Beschreiben Sie die Situation, lassen Sie beide Seiten in dramatischer Spannung, und würfeln Sie dann den Wettbewerb erneut aus, um einen Gewinner zu ermitteln.
+- Der Spielleiter sollte eine Erklärung oder Umstände vorbringen, die zur Natur des Misserfolgs passen.
 
-Opponierte Würfe werden häufig in bestimmten Kampfsituationen verwendet, um die Auswirkungen von Wunden zu überwinden oder einem speziellen Kampfeffekt entgegenzuwirken. Sie werden auch verwendet, um Giften und Krankheiten zu widerstehen oder die Auswirkungen übler Magie abzuschütteln.
+Gegenwürfe werden häufig in bestimmten Kampfsituationen verwendet, um die Auswirkungen von Wunden zu überwinden oder einem Spezialeffekt im Kampf entgegenzuwirken. Sie werden auch verwendet, um Giften und Krankheiten zu widerstehen oder die Auswirkungen übler Magie abzuschütteln.
 
-##### Tabelle der Beispiele für Opponierte Würfe
+##### Tabelle für Gegenwurf-Beispiele
 
-| Aktivität | Beispiele für Opponierte Fertigkeiten |
+| Aktivität | Gegen-Fertigkeitsbeispiele |
 | :-- | :-- |
-| Feilschen/Handeln | Handel gegen Handel, Einfluss gegen Handel |
-| Jagen/Rennen | Athletik gegen Athletik, Athletik gegen Ausdauer, Reiten gegen Reiten |
-| Täuschen oder Lügen | Täuschen gegen Intuition, Fingerfertigkeit gegen Wahrnehmung |
-| Loyalität zeigen | Leidenschaft gegen Leidenschaft, Leidenschaft gegen Intuition, Leidenschaft gegen Einfluss |
-| Ausweichen | Ausweichen gegen Athletik, Ausweichen gegen Mechanismen, Ausweichen gegen Reiten |
-| Verstecken oder Schleichen | Heimlichkeit gegen Wahrnehmung; Heimlichkeit gegen Fährtenlesen |
-| Rang ausspielen | Einfluss gegen Willenskraft, Täuschen gegen Willenskraft |
-| Kurs halten | Ausdauer gegen Ausdauer, Ausdauer gegen Kraft |
-| Eine Menge beeinflussen | Rhetorik gegen Willenskraft |
-| Kraftprobe | Kraft gegen Kraft, Kraft gegen Ausdauer |
-| Willenskraftprobe | Willenskraft gegen Willenskraft, Verführung gegen Willenskraft |
+| Feilschen/Handeln | Handel vs. Handel, Einfluss vs. Handel |
+| Jagen/Rennen | Athletik vs. Athletik, Athletik vs. Ausdauer, Reiten vs. Reiten |
+| Täuschen oder Lügen | Täuschung vs. Einsicht, Fingerfertigkeit vs. Wahrnehmung |
+| Loyalität zeigen | Leidenschaften vs. Leidenschaften, Leidenschaften vs. Einsicht, Leidenschaften vs. Einfluss |
+| Aus dem Weg gehen | Ausweichen vs. Athletik, Ausweichen vs. Mechanismen, Ausweichen vs. Reiten |
+| Verstecken oder Schleichen | Heimlichkeit vs. Wahrnehmung; Heimlichkeit vs. Fährtenlesen |
+| Rang geltend machen | Einfluss vs. Willenskraft, Täuschung vs. Willenskraft |
+| Kurs halten | Ausdauer vs. Ausdauer, Ausdauer vs. Muskelkraft |
+| Eine Menge beeinflussen | Oratorik vs. Willenskraft |
+| Kraftprobe | Muskelkraft vs. Muskelkraft, Muskelkraft vs. Ausdauer |
+| Willensprobe | Willenskraft vs. Willenskraft, Verführung vs. Willenskraft |
 
-### Differenzielle Würfe
+### Differenzwürfe
 
-Differenzielle Würfe sind wie Opponierte Würfe, nur dass anstelle eines einfachen Sieg- oder Niederlage-Ergebnisses der Unterschied bei den Erfolgstypen berechnet wird. Differenzielle Würfe werden hauptsächlich zur Lösung von Kämpfen verwendet, können aber auch in anderen Situationen eingesetzt werden, in denen der Spielleiter detailliertere Ergebnisse eines Wettstreits wünscht.
+Differenzwürfe sind wie Gegenwürfe, nur dass anstelle eines einfachen Gewinn- oder Verlust-Ergebnisses die Differenz der Erfolgsgrade berechnet wird. Differenzwürfe werden primär zur Auflösung von Kämpfen verwendet und können auch in anderen Situationen genutzt werden, in denen der Spielleiter die detaillierten Ergebnisse eines Wettbewerbs erhöhen möchte.
 
-Ein Differenzieller Wurf wird auf folgende Weise bestimmt: Beide Teilnehmer würfeln gegen ihre jeweiligen Fertigkeiten und erleiden die Ergebnisse ihres Wurfs so, als ob sie isoliert getestet würden. Es gibt keinen direkten „Gewinner“ an sich, aber wer den höheren Erfolgstyp erzielt hat, gewinnt einen Vorteil in Höhe des Unterschieds der Erfolgstypen zwischen ihnen (vorausgesetzt, ein Teilnehmer erzielt mindestens einen Standarderfolg oder besser). Wenn beide Teilnehmer den gleichen Erfolgstyp erzielen (beide einen Standarderfolg oder beide einen Kritischen Erfolg), gibt es keinen zusätzlichen Effekt.
+Ein Differenzwurf wird auf folgende Weise bestimmt: Beide Teilnehmer würfeln gegen ihre jeweiligen Fertigkeiten und erleiden die Ergebnisse ihres Wurfs, als ob sie isoliert getestet würden. Es gibt keinen direkten 'Gewinner' an sich, aber wer den höheren Erfolgsgrad erzielt hat, gewinnt einen Vorteil in Höhe der Differenz der Erfolgsgrade zwischen ihnen (unter der Annahme, dass ein Teilnehmer mindestens einen Standarderfolg oder besser erzielt). Wenn beide Teilnehmer denselben Erfolgsgrad erzielen (jeweils einen Standarderfolg oder jeweils einen kritischen Erfolg), dann gibt es keinen zusätzlichen Effekt.
 
-##### Tabelle der Differenziellen Wurfergebnisse
+##### Tabelle für Differenzwurf-Ergebnisse
 
-| Ergebnis der Würfe | Antagonist Kritisch | Antagonist Erfolg | Antagonist Fehlschlag | Antagonist Patzer |
+| Ergebnis der Würfe | Antagonist Kritisch | Antagonist Erfolg | Antagonist Misserfolg | Antagonist Patzer |
 | :-- | :-- | :-- | :-- | :-- |
-| Protagonist Kritisch | Kein Vorteil | Protagonist gewinnt 1 Erfolgstyp | Protagonist gewinnt 2 Erfolgstypen | Protagonist gewinnt 3 Erfolgstypen |
-| Protagonist Erfolg | Antagonist gewinnt 1 Erfolgstyp | Kein Vorteil | Protagonist gewinnt 1 Erfolgstyp | Protagonist gewinnt 2 Erfolgstypen |
-| Protagonist Fehlschlag | Antagonist gewinnt 2 Erfolgstypen | Antagonist gewinnt 1 Erfolgstyp | Kein Vorteil | Kein Vorteil |
-| Protagonist Patzer | Antagonist gewinnt 3 Erfolgstypen | Antagonist gewinnt 2 Erfolgstypen | Kein Vorteil | Kein Vorteil |
+| Protagonist Kritisch | Kein Vorteil | Protagonist gewinnt 1 Erfolgsgrad | Protagonist gewinnt 2 Erfolgsgrade | Protagonist gewinnt 3 Erfolgsgrade |
+| Protagonist Erfolg | Antagonist gewinnt 1 Erfolgsgrad | Kein Vorteil | Protagonist gewinnt 1 Erfolgsgrad | Protagonist gewinnt 2 Erfolgsgrade |
+| Protagonist Misserfolg | Antagonist gewinnt 2 Erfolgsgrade | Antagonist gewinnt 1 Erfolgsgrad | Kein Vorteil | Kein Vorteil |
+| Protagonist Patzer | Antagonist gewinnt 3 Erfolgsgrade | Antagonist gewinnt 2 Erfolgsgrade | Kein Vorteil | Kein Vorteil |
 
-### Opponierte Fertigkeiten über 100%
+### Gegenwürfe bei Fertigkeiten über 100%
 
-Wenn der Teilnehmer mit der höchsten Fertigkeit bei einem Opponierten oder Differenziellen Wurf einen Fertigkeitswert von mehr als 100% hat, zieht dieser Teilnehmer die Differenz zwischen 100 und seinem Fertigkeitswert von der Fertigkeit jedes Teilnehmers des Wettstreits ab, einschließlich seiner selbst. Dies reduziert den Fertigkeitswert der Gegner, lässt ihn jedoch den Vorteil behalten.
+Wenn der Teilnehmer mit der höchsten Fertigkeit bei einem Gegen- oder Differenzwurf eine Fertigkeit von mehr als 100% hat, zieht dieser Teilnehmer die Differenz zwischen 100 und seinem Fertigkeitswert von der Fertigkeit aller am Wettbewerb Beteiligten ab, einschließlich seiner eigenen. Dies reduziert den Fertigkeitswert der Gegner, lässt ihn jedoch den Vorteil behalten.
 
-Die Identifizierung, wer die höchste Fertigkeit hat, muss berechnet werden, nachdem alle anderen Modifikatoren für Umstände angewendet wurden.
+Die Bestimmung, wer die höchste Fertigkeit hat, muss berechnet werden, nachdem alle anderen Modifikatoren für Umstände angewendet wurden.
