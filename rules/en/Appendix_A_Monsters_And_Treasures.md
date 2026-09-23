@@ -702,5 +702,3 @@ Unlike a Wand of Spell, the Rod of Spell contains 60 charges and has an Intensit
 #### Staff of (Spell), Rank 1 (2,000 GP)
 
 A Staff of Spell contains 30 charges and has an Intensity and Magnitude of 9. However, the staff may only be used by a character of a Class capable of casting the spell.
-
-<!-- retranslate-trigger -->

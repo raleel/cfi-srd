@@ -419,5 +419,3 @@ _This causes issues because the poison gas trap is not covered in Classic Fantas
 ---
 
 </details>
-
-<!-- retranslate-trigger -->

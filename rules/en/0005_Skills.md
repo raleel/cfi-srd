@@ -370,5 +370,3 @@ A Differential Roll is determined in the following manner: Both participants rol
 If the highest skilled participant in an Opposed or Differential Roll has a skill more than 100%, that participant subtracts the difference between 100 and his skill value from the skill of everyone in the contest, including himself. This reduces the skill value of the opponents but leaves him retaining the advantage.
 
 The identification of who has the highest skill must be calculated after any other modifiers for circumstances have been applied.
-
-<!-- retranslate-trigger -->

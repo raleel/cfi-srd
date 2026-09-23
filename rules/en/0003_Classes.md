@@ -626,5 +626,3 @@ Total ENC 5 Things
 _\* Contents count toward the backpack's contents as its volume is increased._
 
 _\*\* Counts as ½ a Thing._
-
-<!-- retranslate-trigger -->
