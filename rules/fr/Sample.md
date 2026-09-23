@@ -1,63 +1,63 @@
-# Titre d'exemple 1
+# Sample Heading 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## Titre 2
+## Heading 2
 
-### Titre 3
+### Heading 3
 
-#### Titre 4
+#### Heading 4
 
-##### Titre 5
+##### Heading 5
 
-###### Titre 6
+###### Heading 6
 
-**GRAS**
+**BOLD**
 
-*Italique*
+*Italics*
 
-## Tableau d'exemple
+## Sample Table
 
-| Colonne 1 | Colonne 2 |
+| Column 1 | Column 2 |
 | ----------- | ----------- |
 | 1 | Lorem ipsum dolor sit amet |
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Alertes flexibles
+## Flexible Alerts
 
 > [!Note]
-> Exemple de style de bloc Note
+> Sample Note Callout Style
 
 > [!Tip]
-> Exemple de style de bloc Astuce
+> Sample Tip Callout Style
 
 > [!Warning]
-> Exemple de style de bloc Avertissement
+> Sample Warning Callout Style
 
 > [!Attention]
-> Exemple de style de bloc Attention
+> Sample Attention Callout Style
 
-> [!Note|style:flat]
-> Exemple de style de bloc Note plat
+> [!Note|Style:flat]
+> Sample Note Flat Style
 
-> [!Tip|style:flat]
-> Exemple de style de bloc Astuce plat
+> [!Tip|Style:flat]
+> Sample Tip Flat Style
 
-> [!Warning|style:flat]
-> Exemple de style de bloc Avertissement plat
+> [!Warning|Style:flat]
+> Sample Warning Flat Style
 
-> [!Attention|style:flat]
-> Exemple de style de bloc Attention plat
+> [!Attention|Style:flat]
+> Sample Attention Flat Style
 
-## Icônes Fontawesome 
+## Fontawesome Icons 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 Statique :fa-solid fa-dice-d20 fa-lg:  
+D20 Static :fa-solid fa-dice-d20 fa-lg:  
 
-D20 Animé :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Icônes Material
+## Material Icons
 
-<span class="material-icons">face</span>
+<span Classe="material-icons">face</span>

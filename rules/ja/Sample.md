@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 *斜体*
 
-## サンプルテーブル
+## サンプル表
 
 | 列 1 | 列 2 |
 | ----------- | ----------- |
@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > サンプルノートのコールアウトスタイル
 
 > [!Tip]
-> サンプルのヒントのコールアウトスタイル
+> サンプルヒントのコールアウトスタイル
 
 > [!Warning]
 > サンプル警告のコールアウトスタイル
@@ -38,16 +38,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > [!Attention]
 > サンプル注意のコールアウトスタイル
 
-> [!Note|style:flat]
+> [!Note|スタイル:flat]
 > サンプルノートのフラットスタイル
 
-> [!Tip|style:flat]
-> サンプルのヒントのフラットスタイル
+> [!Tip|スタイル:flat]
+> サンプルヒントのフラットスタイル
 
-> [!Warning|style:flat]
+> [!Warning|スタイル:flat]
 > サンプル警告のフラットスタイル
 
-> [!Attention|style:flat]
+> [!Attention|スタイル:flat]
 > サンプル注意のフラットスタイル
 
 ## Fontawesome アイコン 
@@ -60,4 +60,4 @@ D20 アニメーション :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## Material アイコン
 
-<span class="material-icons">face</span>
+<span クラス="material-icons">face</span>

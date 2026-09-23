@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 ###### Tiêu đề 6
 
-**IN ĐẬM**
+**ĐẬM**
 
 *In nghiêng*
 
@@ -24,33 +24,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Cảnh báo Linh hoạt
+## Các Cảnh Báo Linh Hoạt
 
 > [!Note]
-> Kiểu Ghi chú Mẫu
+> Kiểu Ghi Chú Mẫu
 
 > [!Tip]
 > Kiểu Mẹo Mẫu
 
 > [!Warning]
-> Kiểu Cảnh báo Mẫu
+> Kiểu Cảnh Báo Mẫu
 
 > [!Attention]
-> Kiểu Chú ý Mẫu
+> Kiểu Lưu Ý Mẫu
 
-> [!Note|style:flat]
-> Kiểu Ghi chú Phẳng Mẫu
+> [!Note|Phong Cách:flat]
+> Kiểu Ghi Chú Phẳng Mẫu
 
-> [!Tip|style:flat]
+> [!Tip|Phong Cách:flat]
 > Kiểu Mẹo Phẳng Mẫu
 
-> [!Warning|style:flat]
-> Kiểu Cảnh báo Phẳng Mẫu
+> [!Warning|Phong Cách:flat]
+> Kiểu Cảnh Báo Phẳng Mẫu
 
-> [!Attention|style:flat]
-> Kiểu Chú ý Phẳng Mẫu
+> [!Attention|Phong Cách:flat]
+> Kiểu Lưu Ý Phẳng Mẫu
 
-## Biểu tượng Fontawesome 
+## Biểu Tượng Fontawesome 
 
 D6  :fa-solid fa-dice fa-xl:
 
@@ -58,6 +58,6 @@ D20 Tĩnh :fa-solid fa-dice-d20 fa-lg:
 
 D20 Động :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Biểu tượng Material
+## Biểu Tượng Material
 
-<span class="material-icons">face</span>
+<span Giai Cấp="material-icons">face</span>
