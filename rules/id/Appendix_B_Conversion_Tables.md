@@ -1,12 +1,12 @@
 # Lampiran: Tabel Konversi
 
 ---
-#### Konversi Bobot dan Ukuran Imperial ke Metrik
+#### Konversi Berat dan Ukuran Imperial ke Metrik
 
-Untuk memberikan _Classic Fantasy Imperative_ tampilan yang lebih bersih, memudahkan pembacaan, serta meringkas deskripsi dan tabel, lini _Classic Fantasy Imperative_ akan berfokus pada pengukuran Imperial dibandingkan dengan gabungan Imperial dan Metrik. Imperial dipilih untuk lebih memfasilitasi konversi materi yang sudah ada karena sebagian besar petualangan, battlemat, dan peta yang digunakan oleh permainan lain dalam genre ini menggunakan sistem Imperial. Namun, bagi mereka yang ingin menggunakan Sistem Metrik, bobot dan ukuran yang paling umum digunakan telah dikonversi menggunakan tabel berikut. Karena kita biasanya tidak berurusan dengan makhluk, mantra, dan sebagainya di dunia nyata, kita dapat memberikan sedikit kelonggaran dalam bobot dan ukuran yang telah kita buat untuk mereka. Daripada menggunakan konversi yang tepat, lebih mudah untuk menggunakan konversi yang mudah diingat, sehingga lebih memfasilitasi jalannya permainan.
+Untuk memberikan _Classic Fantasy Imperative_ penyajian yang lebih bersih, membuatnya lebih mudah dibaca, dan memadatkan deskripsi serta tabel, lini _Classic Fantasy Imperative_ akan berfokus pada pengukuran Imperial dibandingkan dengan kedua sistem Imperial dan Metrik. Imperial dipilih untuk lebih memfasilitasi konversi materi yang ada karena sebagian besar petualangan, battlemat, dan peta yang digunakan oleh game lain dalam genre ini menggunakan sistem Imperial. Namun, bagi mereka yang ingin menggunakan Sistem Metrik, bobot dan ukuran yang paling sering digunakan telah dikonversi menggunakan tabel berikut. Karena kita biasanya tidak berurusan dengan makhluk, mantra, dan sebagainya di dunia nyata, kita dapat memberikan sedikit kelonggaran dalam bobot dan ukuran yang telah kita buat untuk mereka. Daripada menggunakan konversi yang tepat, lebih mudah menggunakan konversi yang mudah diingat, sehingga lebih memfasilitasi jalannya permainan.
 
 ---
-#### Tabel Estimasi Konversi Imperial ke Metrik
+#### Tabel Konversi Perkiraan Imperial ke Metrik
 
 | Imperial | Metrik | Penggunaan Umum, Contoh, dan Konversi Battlemat |
 | :-: | :-: | :-- |
@@ -16,7 +16,7 @@ Untuk memberikan _Classic Fantasy Imperative_ tampilan yang lebih bersih, memuda
 | 7' | 2m | |
 | 10' | 3m | 2 kotak battlemat |
 | 15' | 4m | 3 kotak battlemat; kurcaci, gnome, dan halfling |
-| 20' | 6m | 4 kotak battlemat; manusia, elf, setengah-elf, dan setengah-orc |
+| 20' | 6m | 4 kotak battlemat; manusia, elf, half-elf, dan half-orc |
 | 25' | 8m | 5 kotak battlemat |
 | 30' | 10m | 6 kotak battlemat |
 | 40' | 12m | 8 kotak battlemat |
@@ -88,18 +88,18 @@ Untuk memberikan _Classic Fantasy Imperative_ tampilan yang lebih bersih, memuda
 | 31-40 | Badai Ringan | Sulit | Dua pertiga |
 | 41-50 | Badai Sedang | Sulit | Setengah |
 | 51-60 | Badai Kuat | Tangguh | Setengah |
-| 60+ | Badai/Topan | Tangguh | Sepertiga |
+| 60+ | Badai/Angin Topan | Tangguh | Sepertiga |
 
-Angin, terutama angin yang sangat kuat, dapat berdampak buruk pada aktivitas. Kekuatan (STR) angin dinyatakan dalam mil per jam kecepatan. Efeknya pada Skill fisik – yang melibatkan STR atau DEX – dirinci dalam kolom Skill; efek pada Tingkat Gerak dalam kolom Tingkat Gerak.
+Angin, terutama angin yang sangat kencang, dapat memiliki efek buruk pada aktivitas. Daya (KEK) angin dinyatakan dalam mil per jam kecepatan. Efeknya pada Skill fisik – yang melibatkan KEK atau KTG – dirinci di kolom Skill; efek pada Tingkat Gerak di kolom Tingkat Gerak.
  
-_Sebagai contoh, Badai Ringan dengan STR 40 mengurangi kecepatan berjalan manusia menjadi dua pertiga dan Skill dilempar dengan tanjakan Sulit._
+_Sebagai contoh, Badai Ringan dengan KEK 40 mengurangi kecepatan berjalan manusia menjadi dua pertiga dan Skill dilempar pada Tanjakan Sulit._
 
 ---
 #### Tabel Suhu
 
 | Suhu (ºF) | Tipe | Risiko |
 | :-: | :-: | :-- |
-| < 2º | Glasial | Segera cari kehangatan |
+| < 2º | Glasial | Segera Cari Kehangatan |
 | 3-14º | Membeku | 15 Menit |
 | 13-32º | Dingin | per jam |
 | 33-50º | Sejuk | per hari |
@@ -107,6 +107,6 @@ _Sebagai contoh, Badai Ringan dengan STR 40 mengurangi kecepatan berjalan manusi
 | 69-86º | Hangat | - |
 | > 86º | Panas | per jam |
 
-Suhu dapat bervariasi secara dramatis karena iklim, musim, dan ketinggian, tergantung pada dunia kampanye dan tempat skenario diatur. Tabel di atas memberikan panduan untuk efek suhu ekstrem pada Karakter.
+Suhu dapat bervariasi secara dramatis karena iklim, musim, dan ketinggian, tergantung pada dunia kampanye dan di mana skenario diatur. Tabel di atas memberikan pedoman untuk efek suhu ekstrem pada Karakter.
 
-Mengenakan pakaian yang sesuai memungkinkan Karakter mendapatkan masa tenggang sebesar CON mereka dalam jam sebelum paparan dimulai, seperti yang ditunjukkan dalam kolom Risiko. Setelah titik ini, mereka perlu mencari tempat berlindung atau mulai mengalami kehilangan Kelelahan. Karakter yang basah menggeser Tingkat Risiko satu tingkat lebih dingin. Angin badai ringan atau sedang juga menggeser Tingkat Risiko satu tingkat lebih dingin, sementara badai kuat dan angin topan menggesernya dua tingkat.
+Mengenakan pakaian yang sesuai memberikan Karakter masa tenggang sebesar KET mereka dalam jam sebelum paparan dimulai, seperti yang ditunjukkan pada kolom Risiko. Setelah titik ini, mereka perlu mencari tempat berlindung atau mulai menderita kehilangan Kelelahan. Karakter yang basah menggeser Tingkat Risiko satu langkah lebih dingin. Angin badai ringan atau sedang juga menggeser Tingkat Risiko satu langkah lebih dingin, sementara badai kuat dan angin topan menggesernya dua langkah.

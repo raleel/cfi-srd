@@ -1,28 +1,28 @@
-# Phụ lục: Bảng chuyển đổi
+# Phụ lục: Các Bảng Chuyển Đổi
 
 ---
-#### Chuyển đổi từ Hệ đo lường Anh sang Hệ mét
+#### Chuyển Đổi Đo Lường từ Hệ Đế Chế sang Hệ Mét
 
-Để mang lại cho _Classic Fantasy Imperative_ cách trình bày gọn gàng hơn, dễ đọc hơn và cô đọng các mô tả cùng bảng biểu, dòng sản phẩm _Classic Fantasy Imperative_ sẽ tập trung vào các đơn vị đo lường của Anh thay vì cả hệ Anh và hệ Mét. Hệ đo lường Anh được chọn để hỗ trợ tốt hơn cho việc chuyển đổi các tài liệu hiện có vì hầu hết các cuộc phiêu lưu, bản đồ chiến đấu và sơ đồ được các trò chơi khác trong cùng thể loại sử dụng đều áp dụng hệ thống này. Tuy nhiên, đối với những người muốn sử dụng Hệ mét, các đơn vị đo lường và khối lượng phổ biến nhất đã được chuyển đổi bằng các bảng dưới đây. Vì chúng ta thường không giải quyết các sinh vật, phép thuật, v.v. trong thế giới thực, nên chúng ta có thể nới lỏng đôi chút về khối lượng và số đo được tạo ra cho chúng. Thay vì sử dụng các phép chuyển đổi chính xác, việc sử dụng các con số dễ nhớ sẽ thuận tiện hơn, từ đó hỗ trợ lối chơi tốt hơn.
+Để mang lại cho _Classic Fantasy Imperative_ một cách trình bày gọn gàng hơn, dễ đọc hơn và rút gọn được các mô tả cũng như bảng biểu, dòng sản phẩm _Classic Fantasy Imperative_ sẽ tập trung vào các đơn vị đo lường của Hệ Đế Chế thay vì cả hai hệ đo lường Đế Chế và Mét. Hệ Đế Chế được chọn để hỗ trợ tốt hơn việc chuyển đổi các tài liệu hiện có vì hầu hết các cuộc phiêu lưu, bản đồ chiến đấu và sơ đồ được sử dụng bởi các trò chơi khác trong cùng thể loại đều tận dụng hệ thống này. Tuy nhiên, đối với những người muốn sử dụng Hệ Mét, các đơn vị trọng lượng và đo lường thông dụng nhất đã được chuyển đổi bằng cách sử dụng các bảng sau đây. Vì chúng ta thường không giải quyết các sinh vật, phép thuật, v.v. trong thế giới thực, chúng ta có thể nới lỏng một chút các đơn vị đo lường mà chúng ta đã tự tạo ra cho chúng. Thay vì sử dụng các phép chuyển đổi chính xác, việc sử dụng các TC số dễ nhớ sẽ thuận tiện hơn, từ đó tạo điều kiện thuận lợi hơn cho lối chơi.
 
 ---
-#### Bảng chuyển đổi ước tính từ Hệ Anh sang Hệ mét
+#### Bảng Chuyển Đổi Ước Tính từ Hệ Đế Chế sang Hệ Mét
 
-| Hệ Anh | Hệ mét | Công dụng chung, Ví dụ và Chuyển đổi trên bản đồ chiến đấu |
+| Hệ Đế Chế | Hệ Mét | Các Công Dụng Thông Thường, Ví Dụ, và Chuyển Đổi Bản Đồ Chiến Đấu |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
 | 5' | 1.5m | 1 ô bản đồ chiến đấu |
 | 7' | 2m | |
 | 10' | 3m | 2 ô bản đồ chiến đấu |
-| 15' | 4m | 3 ô bản đồ chiến đấu; người lùn, gnome, và halfling |
-| 20' | 6m | 4 ô bản đồ chiến đấu; con người, elf, half-elf, và half-orc |
+| 15' | 4m | 3 ô bản đồ chiến đấu; người lùn, gnome, và người halfling |
+| 20' | 6m | 4 ô bản đồ chiến đấu; TC người, elf, nửa elf, và nửa orc |
 | 25' | 8m | 5 ô bản đồ chiến đấu |
 | 30' | 10m | 6 ô bản đồ chiến đấu |
 | 40' | 12m | 8 ô bản đồ chiến đấu |
 | 45' | 14m | 9 ô bản đồ chiến đấu |
-| 50' | 15m | 10 ô bản đồ chiến đấu; tốc độ bay điển hình của rồng |
-| 60' | 18m | 12 ô bản đồ chiến đấu; tầm nhìn hồng ngoại điển hình |
+| 50' | 15m | 10 ô bản đồ chiến đấu; tốc độ bay thông thường của rồng |
+| 60' | 18m | 12 ô bản đồ chiến đấu; khả năng Nhìn Trong Bóng Tối thông thường |
 | 65' | 20m | 13 ô bản đồ chiến đấu |
 | 100' | 30m | 20 ô bản đồ chiến đấu |
 | 120' | 36m | |
@@ -48,7 +48,7 @@
 | 2.2lb | 1kg | |
 
 ---
-#### Các mốc bảng nhiệt độ
+#### Các Mốc Bảng Nhiệt Độ
 
 | Fahrenheit | Celsius | 
 | :-: | :-: |
@@ -78,35 +78,35 @@
 \*\* _Điểm sôi của nước_
 
 ---
-#### Bảng gió
+#### Bảng Gió
 
-| Dặm/giờ (MPH) | Loại | Ảnh hưởng đến Kỹ năng | Ảnh hưởng đến Di chuyển |
+| MPH | Loại | Ảnh Hưởng đến Kỹ Năng | Ảnh Hưởng đến Di Chuyển |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Lặng gió | Không | Không |
 | 11-20 | Gió nhẹ | Không | Không |
 | 21-30 | Gió mạnh | Không | Hai phần ba |
-| 31-40 | Gió giật nhẹ | Khó | Hai phần ba |
-| 41-50 | Gió giật vừa | Khó | Một nửa |
-| 51-60 | Gió giật mạnh | Đáng gờm | Một nửa |
-| 60+ | Bão/Cuồng phong | Đáng gờm | Một phần ba |
+| 31-40 | Gió bão nhẹ | Khó | Hai phần ba |
+| 41-50 | Gió bão vừa | Khó | Một nửa |
+| 51-60 | Gió bão mạnh | Ghê Gớm | Một nửa |
+| 60+ | Bão/Cuồng phong | Ghê Gớm | Một phần ba |
 
-Gió, đặc biệt là gió rất mạnh, có thể gây ảnh hưởng bất lợi đến các hoạt động. Cường độ (STR) của gió được tính bằng dặm trên giờ. Ảnh hưởng của nó đến các kỹ năng thể chất – những kỹ năng liên quan đến STR hoặc DEX – được liệt kê chi tiết trong cột Kỹ năng; các ảnh hưởng đến Tốc độ Di chuyển nằm trong cột Tốc độ Di chuyển.
+Gió, đặc biệt là những cơn gió rất mạnh, có thể có tác động bất lợi đến các hoạt động. Sức mạnh (SM) của gió được biểu thị bằng vận tốc dặm trên giờ. Ảnh hưởng của nó lên các kỹ năng thể chất – những kỹ năng liên quan đến SM hoặc KL – được chi tiết trong cột Kỹ Năng; ảnh hưởng đến Tốc Độ Di Chuyển trong cột Tốc Độ Di Chuyển.
  
-_Ví dụ, một cơn Gió giật nhẹ có cường độ STR 40 làm giảm tốc độ đi bộ của con người xuống còn hai phần ba và các kỹ năng được tung xúc xắc ở độ khó Khó._
+_Ví dụ, một cơn Gió bão nhẹ với SM 40 làm giảm tốc độ đi bộ của TC người xuống còn hai phần ba và các kỹ năng được đổ xúc xắc ở cấp độ Khó._
 
 ---
-#### Bảng nhiệt độ
+#### Bảng Nhiệt Độ
 
-| Nhiệt độ (ºF) | Loại | Rủi ro |
+| Nhiệt độ (ºF) | Loại | Rủi Ro |
 | :-: | :-: | :-- |
-| < 2º | Băng giá | Tìm chỗ ấm ngay lập tức |
+| < 2º | Băng giá | Tìm nơi giữ ấm ngay lập tức |
 | 3-14º | Đóng băng | 15 phút |
-| 13-32º | Lạnh | Hàng giờ |
-| 33-50º | Giá rét | Hàng ngày |
+| 13-32º | Lạnh | theo giờ |
+| 33-50º | Giá rét | theo ngày |
 | 51-68º | Mát mẻ | - |
 | 69-86º | Ấm áp | - |
-| > 86º | Nóng | Hàng giờ |
+| > 86º | Nóng | theo giờ |
 
-Nhiệt độ có thể thay đổi đáng kể do khí hậu, mùa và độ cao, tùy thuộc vào thế giới trong chiến dịch và nơi diễn ra các tình huống. Bảng trên cung cấp hướng dẫn về ảnh hưởng của nhiệt độ khắc nghiệt lên các nhân vật.
+Nhiệt độ có thể thay đổi đáng kể do khí hậu, mùa và độ cao, tùy thuộc vào thế giới chiến dịch và nơi các tình huống diễn ra. Bảng trên cung cấp hướng dẫn về ảnh hưởng của nhiệt độ khắc nghiệt lên các Nhân Vật.
 
-Việc mặc quần áo phù hợp cho phép nhân vật có một khoảng thời gian ân hạn bằng với chỉ số CON (theo giờ) trước khi tình trạng tiếp xúc thời tiết bắt đầu, như được hiển thị trong cột Rủi ro. Sau thời điểm này, họ cần tìm nơi trú ẩn hoặc bắt đầu chịu mất chỉ số Mệt mỏi (Fatigue). Nhân vật bị ướt sẽ làm Tỷ lệ Rủi ro chuyển sang mức lạnh hơn một bậc. Gió nhẹ hoặc gió giật vừa cũng làm tăng Tỷ lệ Rủi ro thêm một bậc lạnh hơn, trong khi gió giật mạnh và bão sẽ làm tăng hai bậc.
+Việc mặc trang phục phù hợp cho phép Nhân Vật có một khoảng thời gian ân hạn tính bằng giờ dựa trên TC của họ trước khi tình trạng phơi nhiễm bắt đầu, như được hiển thị trong cột Rủi Ro. Sau thời điểm này, họ cần tìm nơi trú ẩn hoặc bắt đầu chịu mất Mệt Mỏi. Những Nhân Vật bị ướt sẽ làm tăng mức Rủi Ro lên một cấp. Gió nhẹ hoặc gió bão vừa cũng làm tăng mức Rủi Ro lên một cấp, trong khi gió bão mạnh và cuồng phong làm tăng nó lên hai cấp.
