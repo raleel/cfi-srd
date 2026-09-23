@@ -321,3 +321,5 @@ Tools include all the items any self-respecting adventurer can be expected to ow
 | Torch, 6 hour (2) | As above, longer Duration. | 4SP |
 | Trail Rations (1 week) | Trail rations consist of food preserved for long life, such as dried and cured meats, cheese, bread (usually unleavened flatbread for ease of transport) and cereals, either nuts or grains. | 7SP |
 | Waterskin | Holds 2 quarts of liquid, enough water to sustain an adventurer for 2 days in average conditions. | 5CP |
+
+<!-- retranslate-trigger -->
