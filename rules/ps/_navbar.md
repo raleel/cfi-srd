@@ -1,0 +1,4 @@
+- [کور پاڼه](/)
+- [څنګه کار کوي](HowTo.md)
+- [د بدلونونو لیست](Changelog.md)
+- [GitHub](https://github.com/raleel/cfi-srd)
