@@ -1,4 +1,0 @@
-- [Destpêk](/)
-- [Çawa Bikar Bîne](HowTo.md)
-- [Lîsteya Guhertinan](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)

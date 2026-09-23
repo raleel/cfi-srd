@@ -1,4 +1,0 @@
-- [Gida](/)
-- [Yadda Ake Yi](HowTo.md)
-- [Jadawalin Canje-canje](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)
