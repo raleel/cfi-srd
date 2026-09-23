@@ -1,50 +1,50 @@
-# Classic Fantasy Imperative süsteemi ressursidokument
+# Classic Fantasy Imperative süsteemi teatmeteos
 
 Versioon 1.0, september 2023
 
-_Classic Fantasy Imperative_ on avatud ja ORC-litsentsiga versioon _Mythras_ reeglistikust, mis keskendub koopauurimisele, suurtele seiklustele ning pingelistele kohtumistele aarete, maagia ja surmavate vaenlastega. _Classic Fantasy Imperative_ emuleerib hobi esimese rollimängu algset põnevust, kuid läheneb sellele _Mythras_ mängusüsteemi prisma kaudu, mis põhineb 1d100 (ehk protsentuaalsel) süsteemil, mitte d20 kasutamisel.
+_Classic Fantasy Imperative_ on avatud, ORC-litsentsiga versioon _Mythras_ reeglistikust, mis keskendub koopauurimisele, suurtele seiklustele ja pingelistele kohtumistele, mis hõlmavad aardeid, maagiat ja surmavaid vaenlasi. _Classic Fantasy Imperative_ emuleerib hobi esimese rollimängu esialgset põnevust, kuid läheneb sellele _Mythras_ mängusüsteemi kaudu, mis põhineb 1d100 (ehk protsentuaalsel) süsteemil, mitte d20 kasutamisel.
 
-Käesolev dokument pakub põhjaliku, kuid mitte ammendava reeglistiku, sealhulgas tegelaste loomise, rassid ja klassid, oskused, reeglid teatud tüüpolukordadeks, võitluse ja maagia – sellest piisab, et aidata nii mängijatel kui ka mängujuhtidel (Games Masters) alustada ja luua kindel alus edasiseks arenguks. _Classic Fantasy Imperative_ ühildub täielikult _Classic Fantasy Imperative’i_, _Mythras_ põhireeglite ja _Mythras Imperative’iga_. Lisaks ühildub see teiste ORC-litsentsiga protsentuaalsete mängusüsteemidega.
+See dokument pakub põhjaliku, kuid mitte ammendava reeglistiku, sealhulgas tegelaste loomise, tegelaste rassid ja klassid, oskused, reeglid teatud tüüpiliste olukordade jaoks, võitluse ja maagia – enam kui piisavalt, et nii mängijad kui ka mängujuhid alustaksid ja looksid kindla aluse edasiseks arenguks. _Classic Fantasy_ ühildub täielikult _Classic Fantasy Imperative_'iga, _Mythras_ põhireeglitega ja _Mythras Imperative_'iga. Lisaks ühildub see ka teiste ORC-litsentsiga protsentuaalsete mängusüsteemidega.
 
 ---
-## ORC-litsents
+## ORC-litsentsimine
 
-_Classic Fantasy Imperative_ on avaldatud ORC-litsentsi alusel. ORC-litsents pakub mänguloojatele võimalust oma mängu mehaanikat avatult jagada ning võimaldab teistel kasutajatel neid mängumehaanika mugandusi vabalt kasutada, muuta ja edasi levitada.
+_Classic Fantasy Imperative_ on avaldatud ORC-litsentsi kasutades. ORC-litsents pakub mänguloojatele viisi oma mängu mehaanika avatult jagamiseks ja võimaldab järgnevatel kasutajatel neid mängumehaanika kohandusi vabalt kasutada, muuta ja jagada.
 
-Seda, mida ORC raames avalikult jagatakse, nimetatakse **litsentsitud materjaliks** (Licensed Material). See hõlmab mängu laiaulatuslikke funktsionaalseid elemente, nagu statistikaplokid, mängureeglid, tegelaste atribuudid ja mängimise meetodid/süsteemid, samuti kõike muud, mida litsentsiandja soovib selgesõnaliselt jagada. Litsents on lai ja võimaldab teil litsentsitud materjale globaalselt kasutada seoses trükitud raamatute, videomängude, taskuhäälingute, tehisintellekti või mis tahes muu tehnoloogiaga, mis võib tulevikus eksisteerida või loodud saada. Valdav osa _Classic Fantasy Imperative’i_ sisust moodustab litsentsitud materjal.
+Seda, mida ORC all avatult jagatakse, nimetatakse **litsentsitud materjaliks** (Licensed Material) ja see hõlmab mängu laialdasi funktsionaalseid elemente, nagu statistikaplokid, mängureeglid, tegelase atribuudid ning mängimisse sissekirjutatud meetodid ja süsteemid, aga ka kõike muud, mida litsentsiandja soovib selgesõnaliselt jagada. Litsents on lai ja võimaldab teil litsentsitud materjale globaalselt kasutada seoses trükitud raamatute, videomängude, taskuhäälingute, AI või muu tehnoloogiaga, mis võib eksisteerida või tulevikus loodud saada. Suur osa _Classic Fantasy Imperative_'i sisust kujutab endast litsentsitud materjali.
 
-Seda, mida ORC raames ei jagata, nimetatakse **reserveeritud materjaliks** (Reserved Material) ning see hõlmab kaubamärke, maailma taustalugu, süžeeliine, unikaalseid tegelasi ja visuaalset kunsti. Oleme reserveeritud materjalid loetlenud allpool toodud ORC-teatises.
+Seda, mida ORC all ei jagata, nimetatakse **reserveeritud materjaliks** (Reserved Material) ja see hõlmab kaubamärke, maailma taustalugu, süžeeliine, eristuvaid tegelasi ja visuaalset kunsti. Oleme reserveeritud materjali loetlenud allpool toodud ORC-teatises.
 
-ORC-litsentsi alusel võite litsentsitud materjali kasutada, jagada, kohandada ja sellele ehitada vastavalt oma soovile, kui annate oma avaldatud töös nõuetekohase viite. See teatis nii tunnustab algseid litsentsiandjaid ja nende panust teosesse kui ka pakub lihtsat viisi hilisematele kasutajatele viidata selle töö autorile, milles teatis ilmub. Kasutades ORC-litsentsi all olevat materjali, nõustute automaatselt oma mängumehaanika litsentsima avaldatud töös samadel tingimustel. Kui arendate välja oma reserveeritud materjali, on see teie ainuomand.
+ORC-litsentsi alusel saate litsentsitud materjali kasutada, jagada, kohandada ja sellele ehitada nii, nagu heaks arvate, eeldusel, et annate nõuetekohase viite oma avaldatud teoses. See viide nii tunnustab eelnevaid litsentsiandjaid ja nende panust teosesse kui ka pakub järgnevatele kasutajatele lihtsat viisi viidata selle teose autorile, milles viide ilmub. Kasutades ORC all litsentsitud materjali, nõustute automaatselt litsentsima oma mängumehaanika avaldatud teoses samadel tingimustel. Kui arendate oma reserveeritud materjali, on see teie ainuomand.
 
 #### ORC-teatis
 
-_Classic Fantasy Imperative_ on litsentsitud ORC-litsentsi alusel, mis asub Kongressi raamatukogus ja on kättesaadav võrgus erinevates asukohtades, sealhulgas [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico?ORC-License-The-Final-Version-is-Here) jt.
+_Classic Fantasy Imperative_ on litsentsitud ORC-litsentsi alusel, mis asub Kongressi raamatukogus ja on kättesaadav veebis mitmes kohas, sealhulgas [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico?ORC-License-The-Final-Version-is-Here) ja mujal.
 
-Kõik garantiid on välistatud, nagu seal sätestatud.
+Kõigist garantiidest on lahti öeldud vastavalt seal sätestatule.
 
 #### Viitamine (Attribution)
 
 See toode põhineb järgmisel reserveeritud materjalil:
 
-- _Mythras_, The Design Mechanism, autoriõigus 2016, kirjutanud Pete Nash ja Lawrence Whitaker
-- _Classic Fantasy Imperative_, The Design Mechanism, autoriõigus 2016, kirjutanud Rodney Leary, Pete Nash ja Lawrence Whitaker
+- _Mythras_, The Design Mechanism autoriõigus 2016, kirjutanud Pete Nash ja Lawrence Whitaker
+- _Classic Fantasy Imperative_, The Design Mechanism autoriõigus 2016, kirjutanud Rodney Leary, Pete Nash ja Lawrence Whitaker
 
-Kui kasutate meie litsentsitud materjali oma avaldatud töödes, palun viidake meile järgmiselt:
+Kui kasutate meie litsentsitud materjali oma avaldatud teostes, palun viidake meile järgmiselt:
 
 _**Based on Classic Fantasy Imperative, Written by Rodney Leary, Pete Nash and Lawrence Whitaker, and published by The Design Mechanism, Copyright 2023**_
 
 #### Reserveeritud materjal
 
-Pange tähele, et _Classic Fantasy Imperative’i_ lähtemängud, _Classic Fantasy_ ja _Mythras_, mida avaldab The Design Mechanism, on ORC-litsentsi alusel määratletud reserveeritud materjalina.
+Pange tähele, et _Classic Fantasy Imperative_'i lähtemängud _Classic Fantasy_ ja _Mythras_, mille on avaldanud The Design Mechanism, on ORC-litsentsi alusel määratud reserveeritud materjaliks.
 
-Kui soovite kasutada sisu, mida leidub kas _Classic Fantasy Imperative’is_ või _Mythras’es_, võtke ühendust The Design Mechanismiga seoses eraldiseisva Mythras Gateway litsentsiga, mis võimaldab reserveeritud materjalile ligi pääseda ilma litsentsitasudeta, kuid mõningate kinnituste ja viitamise tingimustega.
+Kui soovite kasutada sisu, mida leidub kas _Classic Fantasy Imperative_'is või _Mythras_'es, võtke palun ühendust The Design Mechanismiga seoses eraldiseisva Mythras Gateway litsentsiga, mis võimaldab ligipääsu reserveeritud materjalile ilma autoritasudeta, kuid mõningate heakskiitude ja viitamistega seotud tingimustega.
 
-Samuti loetakse reserveeritud materjaliks järgnev:
+Järgnev loetelu on samuti reserveeritud materjal:
 
-- _Classic Fantasy_ ja _Classic Fantasy Imperative_ – nimena, välja arvatud viitamisel, sealhulgas nende logod.
-- _Mythras_ ja _Mythras Imperative_ – nimedena, välja arvatud viitamisel, sealhulgas nende logod.
-- Kogu _Classic Fantasy Imperative’is_ leiduv kunstiteos
+- _Classic Fantasy_ ja _Classic Fantasy Imperative_ – nimena, välja arvatud viitamisel kasutatuna, sealhulgas nende logo.
+- _Mythras_ ja _Mythras Imperative_ – nimena, välja arvatud viitamisel kasutatuna, sealhulgas nende logod.
+- Kogu _Classic Fantasy Imperative_'is leiduv kunst.
 - _Alexandra the Pious_
 - _Barony of Ostwyn_
 - _Barony of Volstad_
@@ -59,7 +59,7 @@ Samuti loetakse reserveeritud materjaliks järgnev:
 - _Lorissa of Stormholm_
 - _Miranda Drake_
 - _Mystamyr_
-- _Mystamyr and the Boarderlands_
+- _Mystamyr and the Borderlands_
 - _Rengarth Hightower_
 - _Runewood Forest_
 - _Sorack Blackwolf_
@@ -83,25 +83,25 @@ Samuti loetakse reserveeritud materjaliks järgnev:
 - _Valamir Drake_
 
 ---
-## Uus d100 süsteemi ees?
+## Uus d100 süsteemiga?
 
-_Classic Fantasy Imperative_ on d100 ehk protsentuaalne süsteem. Protsenditäringutega täringuid ehk 1d100 kasutatakse võtmetoimingute lahendamiseks – oskuste kasutamine, võitlus, maagia loitsimine jne. See on "alla veeretamise" süsteem, mis tähendab, et sihtarv on väljendatud protsendina (näiteks Athletics 65%) ning nii mängujuht kui ka mängija soovivad 1d100 veeretades saada tulemuse, mis on sihtarvuga võrdne või sellest väiksem, et saavutada edukas tulemus (Success). Vajadusel on väga lihtne asendada 1d100 d20-ga; kõik protsendid saab jagada 5-ga (ümardades ülespoole), et saada d20 veeretamise sihtarv. Meie näites muutuks Athletics 65% väärtuseks Athletics 13. Kuid 1d100 pakub suurt paindlikkust ja nüansse, mis on kogu mängu aluseks, seega soovitame esmalt proovida 1d100 lähenemist. Kuigi võib tunduda ebaloogiline veeretada *vähem* (paljudes mängudes on suurem tulemus tavaliselt parem!), muudab sihtarvu väljendamine protsendivahemikuna, mille *sisse* tuleb veeretada, edukuse tõenäosuse hindamise lihtsaks. See võimaldab ka mitmeid "täringutrikke", nagu vastandatud veeretamised (Opposed Rolls), kriitilised õnnestumised (Criticals) ja äpardused (Fumbles), ning mõningaid teisi aspekte, mida nendes reeglites hiljem uuritakse. Protsentuaalne rollimäng on olnud kasutusel pikka aega ja see on kindlalt väljakujunenud mängusüsteem, mille tõestatud põhimehaanika on paindlik, intuitiivne ja kipub mängu ajal tagaplaanile jääma.
+_Classic Fantasy Imperative_ on d100 ehk protsentuaalne süsteem. Protsentuaalseid täringuid ehk 1d100 kasutatakse võtmetoimingute lahendamiseks – oskuste kasutamine, võitlus, maagia loitsimine jne. See on süsteem, kus veeretatakse sihtarvust vähem, mis tähendab, et sihtarv on väljendatud protsendina (näiteks Kergejõustik 65%) ning nii mängujuht kui ka mängija soovivad edu saavutamiseks veeretada 1d100-ga sihtarvuga võrdse või sellest väiksema tulemuse. Vajadusel on 1d100 üsna lihtne asendada d20-ga; kõik protsendid saab jagada 5-ga (ümardades ülespoole), et saada d20 veeremise sihtarv. Meie näites saaks Kergejõustik 65%-st Kergejõustik 13. Sellegipoolest pakub 1d100 palju paindlikkust ja nüansse, mis on kogu mängu aluseks, seega soovitame proovida esmalt 1d100 lähenemist. Kuigi võib tunduda ebaloogiline veeretada millestki *vähem* (paljudes mängudes on suurem tulemus tavaliselt parem!), muudab sihtarvu väljendamine protsendivahemikus, mille *sisse* tuleb veeretada, edukuse tõenäosuse nägemise lihtsaks ja selgeks. See võimaldab ka mitmeid „täringutrikke“, nagu vastandveeretused, kriitilised õnnestumised, äpardused ja mõned muud asjad, mida nendes reeglites hiljem uuritakse. Protsentuaalne rollimäng on eksisteerinud kaua ja see on kindlalt väljakujunenud mängusüsteem koos läbiproovitud tuumikmehaanikaga, mis on paindlik, intuitiivne ja kipub mängu ajal tagaplaanile jääma.
 
 ---
 ## Lihtsustamine
 
-_Mythras_ ja _Classic Fantasy_ pikaajalised omanikud märkavad, et mõnes kohas on _Classic Fantasy Imperative’i_ reegleid lihtsustatud. See on tehtud selleks, et mängujuht saaks mängu uutele mängijatele kiiremini ja võimalikult vähese vaevaga tutvustada. Teine valdkond, kus _Classic Fantasy Imperative_ erineb, on keiserlike mõõtühikute kasutamine meetriliste asemel. Mõlema kaasamine võtaks liiga palju ruumi ja nõuaks mitmeid tabeleid laskerelvade jms puhul. Keiserlik süsteem valiti lihtsalt selleks, et hõlbustada lugematute juba eksisteerivate lahingumattide kasutamist ja lihtsustada seikluste konverteerimist teistest mängusüsteemidest, mis kasutavad keiserlikke mõõtühikuid. Tegelase lehte täites kasutage julgelt lisas toodud konverteerimistabeleid ja seda mõõtühikute süsteemi, mida peate kõige kasulikumaks ja tuttavamaks.
+_Mythras_'e ja _Classic Fantasy_ pikaajalised omanikud märkavad, et kohati on _Classic Fantasy Imperative_'i reegleid lihtsustatud. Seda on tehtud selleks, et mängujuht saaks mängu uutele mängijatele kiiremini ja võimalikult vähese vaevaga tutvustada. Teine valdkond, kus _Classic Fantasy Imperative_ erineb, on keiserlike mõõtühikute (Imperial) kasutamine meetriliste asemel. Mõlema kaasamine võtab liiga palju ruumi ja nõuaks mitut tabelit näiteks kaugusmaa-relvade puhul. Keiserlik süsteem valiti lihtsalt selleks, et hõlbustada lugematute olemasolevate lahingumattide kasutamist ja lihtsustada seikluste konverteerimist teistest mängusüsteemidest, mis kasutavad keiserlikke mõõtühikuid. Oma tegelaslehte täites kasutage julgelt lisas toodud konverteerimistabeleid ja mis tahes mõõtühikute süsteemi, mis teile kõige kasulikum ja tuttavam tundub.
 
 ---
 ## Numbrite ja tulemuste ümardamine
 
-Mõnel juhul peate jagama numbreid – tavaliselt oskuse väärtust (näiteks kriitilise õnnestumise määramiseks, mis on 1/10 oskuse väärtusest). Kui jagamise tulemus tekitab murdosa, ümardage alati täisarvuni ülespoole. Näiteks 1/10 64%-st on 6,4; see ümardatakse 7-ni.
+Mõnel juhul peate numbreid jagama – tavaliselt oskuse taset (näiteks kriitilise õnnestumise määramiseks, mis on 1/10 oskuse väärtusest). Alati, kui jagamise tulemus tekitab murdarvu, ümardage see täisarvuni ülespoole. Nii on näiteks 1/10 64%-st 6,4; see ümardatakse 7-ni.
 
 ---
 ## Mängus kasutatavad täringud
 
 _Classic Fantasy Imperative_ kasutab standardset polüeedriliste täringute komplekti: d4, d6, d8, d10, d12, d20 ja d100. Lisaks on nõutud järgmised täringud:
 
-- **d2:** Veeretage mis tahes täringut. Paaritu arv on 1 ja paarisarv on 2. Või visake münti.
+- **d2:** Veeretage mis tahes täringut. Paaritu arv võrdub 1 ja paarisarv võrdub 2. Või visake münti.
 
 - **d3:** Veeretage kuueküljelist täringut; 1-2 = 1, 3-4 = 2, 5-6 = 3.

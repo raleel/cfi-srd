@@ -1,29 +1,29 @@
-# Classic Fantasy Imperative System Resource Document
+# Classic Fantasy Imperative System Reference Document
 
 Versjon 1.0, september 2023
 
-_Classic Fantasy Imperative_ er en åpen, ORC-lisensiert versjon av _Mythras_-regelverket, med fokus på utforsking av fangehull, storslåtte eventyr og intense møter med skatter, magi og dødelige fiender. _Classic Fantasy Imperative_ gjenskaper spenningen fra rollespillhobbyens tidlige dager, men nærmer seg dette gjennom linsen til _Mythras_-systemet, som er 1d100-basert (prosentbasert) fremfor å bruke en d20.
+_Classic Fantasy Imperative_ er en åpen, ORC-lisensiert versjon av _Mythras_-regelsettet, med fokus på utforskning av grotter, storslåtte eventyr og intense møter som involverer skatter, magi og dødelige fiender. _Classic Fantasy Imperative_ etterligner den opprinnelige spenningen fra rollespillhobbys aller første spill, men nærmer seg dette gjennom linsen til _Mythras_-spillsystemet, som er basert på 1d100 (eller prosent), i stedet for å bruke en d20.
 
-Dette dokumentet tilbyr et omfattende, men ikke uttømmende, sett med regler, inkludert karakteropprettelse, raser og klasser, ferdigheter, regler for typiske situasjoner, kamp og magi – mer enn nok til å få både spillere og spilledere i gang, og danne et solid grunnlag for videre utvikling. _Classic Fantasy Imperative_ er fullstendig kompatibelt med _Classic Fantasy Imperative_, _Mythras_-kjernereglene og _Mythras Imperative_. I tillegg er det kompatibelt med andre ORC-lisensierte prosentbaserte spillsystemer.
+Dette dokumentet tilbyr et omfattende, men ikke uttømmende, sett med regler, inkludert karakteropprettelse, karakterraser og klasser, ferdigheter, regler for visse typiske situasjoner, kamp og magi – mer enn nok til å få både spillere og spillmestere i gang, og danne et solid grunnlag for videre utvikling. _Classic Fantasy_ er fullstendig kompatibelt med _Classic Fantasy Imperative_, _Mythras_-kjernereglene og _Mythras Imperative_. I tillegg er det også kompatibelt med andre ORC-lisensierte prosentsystemer.
 
 ---
 ## ORC-lisensiering
 
-_Classic Fantasy Imperative_ er utgitt under ORC-lisensen. ORC-lisensen gir spillskapere en måte å dele spillmekanikker åpent på, og tillater brukere å fritt bruke, endre og videredele tilpasninger av disse spillmekanikkene.
+_Classic Fantasy Imperative_ er publisert under ORC-lisensen. ORC-lisensen gir spillskapere en måte å åpent dele spillmekanikken sin på, og lar brukere fritt bruke, endre og videredistribuere tilpasninger av denne spillmekanikken.
 
-Det som deles åpent under ORC er kjent som **Lisensiert materiale** (Licensed Material), og inkluderer de brede funksjonelle elementene i spillet, slik som statblokker, spillregler, karakteregenskaper og metodene og systemene som er iboende i å spille spillet, samt alt annet lisensgiveren eksplisitt ønsker å dele. Lisensen er bred og lar deg bruke det lisensierte materialet globalt i forbindelse med trykte bøker, videospill, podcaster, KI eller annen teknologi som måtte eksistere eller skapes i fremtiden. Hoveddelen av innholdet i _Classic Fantasy Imperative_ utgjør lisensiert materiale.
+Det som deles åpent under ORC er kjent som **lisensiert materiale** (Licensed Material), og inkluderer spillets brede funksjonelle elementer, som statistikkblokker, spillregler, karakteregenskaper og metodene og systemene som er iboende i å spille spillet, samt alt annet lisensgiveren eksplisitt ønsker å dele. Lisensen er bred og lar deg bruke det lisensierte materialet globalt i forbindelse med trykte bøker, videospill, podcaster, KI eller annen teknologi som måtte eksistere eller skapes i fremtiden. Hoveddelen av innholdet i _Classic Fantasy Imperative_ utgjør lisensiert materiale.
 
-Det som ikke deles under ORC er kjent som **Reservert materiale** (Reserved Material) og inkluderer varemerker, verdenshistorie (lore), historiebuer, karakteristiske figurer og visuell kunst. Vi har listet opp reservert materiale i ORC-merknaden nedenfor.
+Det som ikke deles under ORC er kjent som **reservert materiale** (Reserved Material) og inkluderer varemerker, verdenens bakgrunnshistorie, historiebuer, karakteristiske figurer og visuell kunst. Vi har listet reservert materiale i ORC-merknaden nedenfor.
 
-Under ORC-lisensen kan du bruke, dele, tilpasse og bygge videre på det lisensierte materialet slik du selv ønsker, så lenge du gir korrekt kreditering i form av en merknad i det publiserte verket ditt. Denne merknaden krediterer både de opprinnelige lisensgiverne og deres bidrag til verket, samtidig som den gir en enkel måte for brukere å kreditere forfatteren av verket hvor merknaden vises. Ved å bruke materiale lisensiert under ORC, samtykker du automatisk til å lisensiere ut dine egne spillmekanikker i ditt publiserte verk under de samme vilkårene. Hvis du utvikler ditt eget reserverte materiale, er dette din eksklusive eiendom.
+Under ORC-lisensen kan du bruke, dele, tilpasse og bygge videre på det lisensierte materialet slik du selv ønsker, så lenge du gir riktig attribusjon i form av en merknad i ditt publiserte verk. Denne merknaden krediterer både de opprinnelige lisensgiverne og deres bidrag til verket, samt gir en enkel måte for brukere å kreditere forfatteren av verket der merknaden vises. Ved å bruke materiale lisensiert under ORC, godtar du automatisk å lisensiere ut din spillmekanikk i ditt publiserte verk under de samme vilkårene. Hvis du utvikler ditt eget reserverte materiale, er dette din eksklusive eiendom.
 
 #### ORC-merknad
 
-_Classic Fantasy Imperative_ er lisensiert under ORC-lisensen som befinner seg hos Library of Congress og er tilgjengelig på nett på diverse steder, inkludert [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico?ORC-License-The-Final-Version-is-Here) og andre.
+_Classic Fantasy Imperative_ er lisensiert under ORC-lisensen som befinner seg hos Library of Congress og er tilgjengelig på nettet på ulike steder, inkludert [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico?ORC-License-The-Final-Version-is-Here) og andre.
 
-Alle garantier fraskrives slik det er angitt deri.
+Alle garantier fraskrives som angitt deri.
 
-#### Kreditering
+#### Attribusjon
 
 Dette produktet er basert på følgende reserverte materiale:
 
@@ -32,19 +32,19 @@ Dette produktet er basert på følgende reserverte materiale:
 
 Hvis du bruker vårt lisensierte materiale i dine egne publiserte verk, vennligst krediter oss som følger:
 
-_**Basert på Classic Fantasy Imperative, skrevet av Rodney Leary, Pete Nash og Lawrence Whitaker, og utgitt av The Design Mechanism, Copyright 2023**_
+_**Basert på Classic Fantasy Imperative, skrevet av Rodney Leary, Pete Nash og Lawrence Whitaker, og publisert av The Design Mechanism, Copyright 2023**_
 
 #### Reservert materiale
 
-Merk at _Classic Fantasy Imperative_ sine opprinnelige spill, _Classic Fantasy_ og _Mythras_, utgitt av The Design Mechanism, er utpekt som reservert materiale under ORC-lisensen.
+Merk at _Classic Fantasy Imperative_ sine opprinnelsesspill, _Classic Fantasy_ og _Mythras_, utgitt av The Design Mechanism, er utpekt som reservert materiale under ORC-lisensen.
 
-Hvis du ønsker å benytte innhold fra enten _Classic Fantasy Imperative_ eller _Mythras_, vennligst kontakt The Design Mechanism angående den separate Mythras Gateway-lisensen, som tillater tilgang til reservert materiale, gebyrfritt, men med visse betingelser angående godkjenning og kreditering.
+Hvis du ønsker å bruke innhold fra enten _Classic Fantasy Imperative_ eller _Mythras_, vennligst kontakt The Design Mechanism angående den separate Mythras Gateway-lisensen, som tillater tilgang til reservert materiale uten royalties, men med visse betingelser angående godkjenninger og attribusjon.
 
-Følgende anses også som reservert materiale:
+Følgende regnes også som reservert materiale:
 
-- _Classic Fantasy_ og _Classic Fantasy Imperative_ – som navn, unntatt når det brukes i kreditering, inkludert logoer.
-- _Mythras_ og _Mythras Imperative_ – som navn, unntatt når det brukes i kreditering, inkludert logoer.
-- Alt kunstverk funnet i _Classic Fantasy Imperative_
+- _Classic Fantasy_ og _Classic Fantasy Imperative_ – som navn, unntatt når de brukes i attribusjon, inkludert logoene.
+- _Mythras_ og _Mythras Imperative_ – som navn, unntatt når de brukes i attribusjon, inkludert logoene.
+- All illustrasjonskunst i _Classic Fantasy Imperative_
 - _Alexandra the Pious_
 - _Barony of Ostwyn_
 - _Barony of Volstad_
@@ -59,7 +59,7 @@ Følgende anses også som reservert materiale:
 - _Lorissa of Stormholm_
 - _Miranda Drake_
 - _Mystamyr_
-- _Mystamyr and the Boarderlands_
+- _Mystamyr and the Borderlands_
 - _Rengarth Hightower_
 - _Runewood Forest_
 - _Sorack Blackwolf_
@@ -85,23 +85,23 @@ Følgende anses også som reservert materiale:
 ---
 ## Ny til d100?
 
-_Classic Fantasy Imperative_ er et d100- eller prosentbasert system. Prosentterninger, eller 1d100, brukes for å løse nøkkelhandlinger – ferdighetsbruk, kamp, magiske trylleformler og så videre. Det er et "roll-under"-system, som betyr at måltallet uttrykkes som en prosent (for eksempel Atletikk 65%), og både spillederen og spilleren forsøker å trille likt eller lavere enn dette måltallet med 1d100 for å oppnå en suksess. Det er ganske enkelt å erstatte 1d100 med en d20 hvis man foretrekker det; alle prosenter kan deles på 5 (rund opp) for å få måltallet for et d20-kast. Atletikk 65% ville for eksempel blitt Atletikk 13. Imidlertid gir 1d100 stor fleksibilitet og nyanse som underbygger hele spillet, så vår anbefaling er å prøve 1d100-tilnærmingen først. Selv om det kan virke kontraintuitivt å måtte trille _lavere_ enn noe (i mange spill er høyere vanligvis bedre!), gjør det å ha et måltall uttrykt som et prosentområde det enkelt og oversiktlig å se vinnersjansene sine, og det muliggjør en del "terningtriks" som motståtte kast, kritiske treff, fumlinger og andre elementer som utforskes senere i disse reglene. Prosentbasert rollespill har eksistert lenge og er et etablert system med en utprøvd kjernemekanikk som er fleksibel, intuitiv og har en tendens til å gli inn i bakgrunnen under spilling.
+_Classic Fantasy Imperative_ er et d100- eller prosentsystem. Prosentterninger, eller 1d100, brukes for å avgjøre sentrale handlinger – bruk av ferdigheter, kamp, magi og så videre. Det er et "roll-under"-system, som betyr at måltallet er uttrykt som en prosentandel (f.eks. Friidrett 65%), og både spillmesteren og spilleren prøver å kaste 1d100 og få et resultat som er lik eller lavere enn dette måltallet for å oppnå en suksess. Det er ganske enkelt å bytte ut 1d100 med en d20 hvis man foretrekker det, og alle prosentandeler kan deles på 5 (rund opp) for å få måltallet for et d20-kast. Friidrett 65% ville i vårt eksempel blitt Friidrett 13. 1d100 tilbyr imidlertid en stor grad av fleksibilitet og nyanse som underbygger hele spillet, så vår anbefaling er å prøve d100-tilnærmingen først. Selv om det kan virke kontraintuitivt å måtte trille _lavere_ enn noe (i mange spill er høyere vanligvis bedre!), gjør det å ha et måltall uttrykt som en prosentandel man må trille _innenfor_, det enkelt og greit å se sjansene for suksess, og det åpner for en del "terningtriks" som motstridende kast, kritiske suksesser, fumblings og et par andre ting som utforskes senere i disse reglene. Prosentbaserte rollespill har eksistert lenge og er et etablert spillsystem med en utprøvd kjernemekanikk som er fleksibel, intuitiv og som har en tendens til å gli inn i bakgrunnen under spillingen.
 
 ---
 ## Forenkling
 
-Langvarige eiere av _Mythras_ og _Classic Fantasy_ vil legge merke til at _Classic Fantasy Imperative_-reglene enkelte steder har blitt forenklet. Dette er gjort slik at en spilleder raskere skal kunne introdusere spillet til nye spillere med et minimum av styr. Et annet område hvor _Classic Fantasy Imperative_ skiller seg ut er ved å inkludere imperiale måleenheter i stedet for metriske. Å inkludere begge tar for mye plass og ville kreve flere tabeller når man håndterer avstandsvåpen og lignende. Det imperiale systemet ble valgt ganske enkelt for å gjøre det lettere å bruke de utallige kampmattene som allerede eksisterer, og for å forenkle konvertering av eventyr fra andre spillsystemer som bruker imperiale måleenheter. Når du fyller ut karakterarket ditt, kan du gjerne bruke konverteringstabellene i vedlegget, og hvilket målesystem du selv finner mest nyttig og kjent.
+Langtidsbrukere av _Mythras_ og _Classic Fantasy_ vil legge merke til at reglene i _Classic Fantasy Imperative_ enkelte steder er forenklet. Dette er gjort slik at en spillmester raskere kan introdusere spillet for nye spillere med minst mulig styr. Et annet område hvor _Classic Fantasy Imperative_ skiller seg ut, er ved bruk av britiske måleenheter (Imperial) i stedet for det metriske systemet. Å inkludere begge tar for mye plass og ville kreve flere tabeller når man håndterer avstandsvåpen og lignende. Det britiske systemet ble valgt ganske enkelt for å legge til rette for enklere bruk av de utallige kampmattene som allerede finnes, og for å gjøre konvertering av eventyr fra andre spillsystemer som bruker britiske måleenheter enklere. Når du fyller ut karakterarket ditt, står du fritt til å bruke konverteringstabellene i vedlegget, og hvilket målesystem du finner mest nyttig og kjent.
 
 ---
 ## Avrunding av tall og resultater
 
-Ved noen anledninger må du dele tall – typisk ferdighetsverdien (for eksempel for å bestemme en kritisk suksess, som er 1/10 av ferdighetens verdi). Når en divisjon skaper en brøk, rund alltid opp til nærmeste hele tall. For eksempel er 1/10 av 64% lik 6,4; dette rundes opp til 7.
+Ved enkelte anledninger må du dele tall – vanligvis verdien i en ferdighet (som for å avgjøre en kritisk suksess, som er 1/10 av ferdighetens verdi). Når en divisjon skaper en brøk, rund alltid opp til nærmeste hele tall. For eksempel er 1/10 av 64% lik 6,4; dette rundes opp til 7.
 
 ---
 ## Terninger brukt i spillet
 
-_Classic Fantasy Imperative_ bruker det standard polyhedrale terningsettet: d4, d6, d8, d10, d12, d20 og d100. I tillegg kreves følgende terninger:
+_Classic Fantasy Imperative_ bruker standard sett med polyedriske terninger: d4, d6, d8, d10, d12, d20 og d100. I tillegg kreves følgende terninger:
 
-- **d2:** Trill en hvilken som helst terning. Et oddetall er lik 1, og et partall er lik 2. Eller bruk en mynt.
+- **d2:** Kast hvilken som helst terning. Et oddetall tilsvarer 1 og partall tilsvarer 2. Eller flipp en mynt.
 
-- **d3:** Trill en sekssidet terning; 1-2 = 1, 3-4 = 2, 5-6 = 3.
+- **d3:** Kast en sekssidet terning; 1-2 = 1, 3-4 = 2, 5-6 = 3.
