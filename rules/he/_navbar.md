@@ -1,4 +1,4 @@
-- [דף הבית](README.md)
-- [מדריכים](HowTo.md)
+- [דף הבית](/)
+- [מדריך](HowTo.md)
 - [יומן שינויים](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

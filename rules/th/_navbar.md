@@ -1,4 +1,4 @@
-- [หน้าแรก](README.md)
-- [วิธีใช้งาน](HowTo.md)
+- [หน้าหลัก](/)
+- [วิธีการเล่น](HowTo.md)
 - [บันทึกการเปลี่ยนแปลง](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

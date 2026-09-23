@@ -1,4 +1,4 @@
-- [Home](/)
-- [How To](HowTo.md)
-- [Changelog](Changelog.md)
+- [Beranda](/)
+- [Cara Bermain](HowTo.md)
+- [Catatan Perubahan](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
