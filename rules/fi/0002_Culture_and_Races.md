@@ -1,331 +1,372 @@
 # Luku 2: Kulttuuri ja rodut
 
-Seuraavassa on kuvaus jokaisesta rodullisesta taustasta sekä lista niihin sopivista taitobonuksista. Pelaajien, jotka valitsevat ihmishahmon, on määriteltävä hahmonsa tarkemmin sopivalla kulttuurilla. Pelaajien tulee lisätä taitobonukset välittömästi hahmolomakkeen vakiotaitoihin (Standard Skills) ja lisätä uudet taidot, eli ammattitaidot (Professional Skills, esitellään seuraavassa luvussa), lomakkeen vastaavaan osioon. Monissa tapauksissa rotu antaa valikoiman taitoja ja kehottaa pelaajaa valitsemaan yhden tai useamman, joihin saa bonuksen: näin samanrotuisetkin pelaajat voivat varmistaa, että heidän seikkailijansa eroavat toisistaan kehittämiensä osa-alueiden osalta.
+Seuraavassa on kuvaus jokaisesta rodullisesta taustasta sekä lista sopivista taitobonuksista. Ihmishahmon valitsevien pelaajien on määriteltävä hahmonsa tarkemmin sopivalla kulttuurilla. Pelaajien tulee lisätä taitobonukset välittömästi hahmolomakkeen vakiotaitoihin ja lisätä uudet lisätaidot, jotka tunnetaan ammattitaitoina (esitellään seuraavassa luvussa), lomakkeen asianmukaiseen osioon. Monessa tapauksessa rotu listaa valikoiman taitoja ja kehottaa pelaajaa valitsemaan yhden tai useamman, jotka saavat bonuksen: näin samasta rodullisesta taustasta tulevat pelaajat voivat varmistaa, että heidän seikkailijansa eroavat toisistaan kehittämillään osa-alueilla.
 
-Huomioi myös, että jokaisella rodulla on tyypillinen arvomaailma (Alignment) ja useita intohimoja (Passions) (katso [Luku 4: Arvomaailma ja intohimot](0004_Alignment_and_Passions.md)). Arvomaailma ja intohimot voivat tuoda luomaasi seikkailijaan paljon syvyyttä ja luonnetta, määritellen juurtuneita mieltymyksiä ja ennakkoluuloja sekä hahmon moraalisia arvoja.
+Huomaa myös, että jokaisella rodulla on tyypillinen suuntaus ja useita intohimoja (katso [Luku 4: Suuntaus ja intohimot](0004_Alignment_and_Passions.md)). Suuntaus ja intohimot voivat tuoda paljon syvyyttä ja luonnetta luomaasi seikkailijaan, määritellen juurtuneita mieltymyksiä ja ennakkoluuloja sekä hahmon moraalisia arvoja.
 
 ---
 ## Ihmiset
 
-Ihmiset voivat asuttaa lähes mitä tahansa paikkaa fantasiamaailmassa ja heillä voi olla yhteys mihin tahansa lajiin jossain vaiheessa. Jotkut puolihaltijat ja humanoidirodut pitävät ihmisiä vankkumattomina liittolaisinaan; toiset taas pitävät heitä mitä kostonhimoisimpina vihollisina. He voivat elää lähes 100-vuotiaiksi, joskus jopa pidempään, vaikka luonnollinen kuolema tässä iässä on harvinaista. Ihmiset oppivat yleensä nopeasti ja sopeutuvat muutoksiin paremmin kuin mikään muu rotu. Monet uskovat, että ihmiset ovat jumalten valittu kansa – uskomus, jossa on jotain perääkin, sillä puolirotujen määrä tuntuu olevan laskussa ihmisiin verrattuna. Tietenkin jotkut puolirodut selittävät tämän ihmisten laajentumisen ahneella luonteella.
+Ihmiset voivat asua lähes missä tahansa fantasiamaailman kolkassa ja olla kosketuksissa minkä tahansa lajin kanssa jossain vaiheessa. Jotkut puolihaltijat ja humanoidirodut pitävät ihmisiä vankkumattomina liittolaisinaan; toiset pitävät heitä kostonhimoisimpina vihollisinaan. He voivat saavuttaa lähes 100 vuoden iän, joskus jopa ylittää sen, vaikka harvoin luonnollisesti. Ihmiset oppivat yleensä nopeasti ja mukautuvat muutoksiin paremmin kuin mikään muu rotu. Monet uskovat, että ihmiset ovat jumalten valittu rotu, mikä uskomus ei ole täysin perusteeton, sillä puolihaltijarodut näyttävät olevan taantumassa ihmisiin verrattuna. Jotkut puolihaltijarodut tietysti selittävät tämän ihmisten laajentumisen ahneella luonteella.
 
-### Ihmisten kulttuuri
+### Ihmiskulttuuri
 
-Kaikista pelattavista roduista vain ihmiset valitsevat erillisen kulttuurin, mikä auttaa heitä määrittelemään itsensä tarkemmin. Huomioi, että jokainen kulttuuri voi olla vieläkin yksityiskohtaisempi ja sitä voidaan muokata aluekohtaisesti. Puolirodut ovat verrattain vähemmän levinneitä, ja siksi heidän kulttuurinsa on yhtenäisempää ja täysin sidoksissa heidän rotuunsa. Seuraavat tiedot kattavat neljä ihmiskulttuurin tyyppiä.
+Kaikista pelattavista roduista vain ihmiset valitsevat erillisen kulttuurin, mikä auttaa heitä määrittelemään itsensä tarkemmin. Huomaa, että jokainen kulttuuri voi olla vieläkin yksityiskohtaisempi ja sitä voidaan muokata aluekohtaiseksi. Puolihaltijat ovat verrattain vähemmän laajalle levinneitä, ja siksi heidän kulttuurinsa on homogeenisempi ja täysin rodun alle sulautunut. Seuraava tieto yksilöi neljä ihmiskulttuurityyppiä.
 
 ---
 ### Barbaari
 
-Luonteeltaan heimomaiset barbaarit karttavat usein sivilisaatiota ja pitävät suurissa kaupungeissa asuvia heikkoina ja korruptoituneina. Vaikka heidän omat asutuksensa ovat myös pysyviä, ne ovat yleensä paljon pienempiä ja lähempänä luontoa. Barbaaritribaalit asuttavat selkeitä alueita, usein puolittain kesyttämätöntä erämaata, jota he pitävät omana metsästys-, laidun- ja viljelymaanaan. Useimmat ovat taitavia aseiden käytössä, sillä heidän on kohdattava elämänsä aikana monia vaaroja – taisteltava erämaan olentoja vastaan tai puolustettava maitaan kilpailevia heimoja vastaan. Koska he elävät pienissä yhteisöissä, sukulaisuussuhteet ja klaani ovat heidän yhteiskuntansa vahvoja elementtejä.
+Heimoluonteeltaan barbaarit yleensä karttavat sivilisaatiota ja pitävät suurissa kaupungeissa asuvia heikkoina ja korruptoituneina. Vaikka heidän omat asutuksensa ovat myös pysyviä, ne ovat yleensä paljon pienempiä ja lähempänä luontoa. Barbaariheimot hallitsevat erillisiä alueita, usein puoliksi kesytettyä erämaata, jota he pitävät omana metsästys-, laidunnus- ja viljelyalueenaan. Useimmat ovat taitavia aseiden käytössä, sillä heidän on voitettava monia vaaroja koko elämänsä ajan – kohdattava erämaan olentoja tai kokoonnuttava puolustamaan maitaan kilpailevia heimoja vastaan. Koska he elävät pienissä yhteisöissä, sukulaisuuden ja klaanin siteet ovat yhteiskuntansa vahvoja elementtejä.
 
 #### Taidot
 
 - **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40
-- **Vakiotaidot:** Yleisurheilu, Voima, Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi; sekä joko Veneily tai Ratsastus
-- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Kieli (mikä tahansa\*), Tieto (mikä tahansa), Musisointi, Navigointi, Merenkulku, Selviytyminen, Jäljittäminen
+- **Vakiotaidot:** Yleisurheilu, Voimankäyttö, Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi; sekä joko Veneily tai Ratsastus
+- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Kieli (mikä tahansa*), Tieto (mikä tahansa), Musisointi, Navigointi, Merenkulku, Selviytyminen, Jäljitys
 
-_\* Ihmisiä ei ole rajoitettu kielivalinnoissa hahmon luonnin aikana, jos he voivat perustella valinnan._
+_* Ihmisiä ei rajoiteta kielivalinnoissa hahmonluonnin aikana, jos he voivat perustella valinnan._
 
-#### Arvomaailma ja intohimot
+#### Suuntaus ja intohimot
 
-- **Arvomaailma:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta (Lakihenkinen, Neutraali tai Kaaoshenkinen) ja yksi tai kaksi moraalisesta koodistosta (Hyvä, Neutraali tai Paha). Vaihtoehtoisesti valitse yksi tai kaksi True Neutral -koodistosta.
-- **Intohimo:** Mikä tahansa, mutta tyypillisesti yksi tai kaksi seuraavista:
+- **Suuntaus:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta (Lainkuuliainen, Neutraali tai Kaaottinen) ja yksi tai kaksi moraalisesta koodistosta (Hyvä, Neutraali tai Paha). Vaihtoehtoisesti valitse yksi tai kaksi Aidosti neutraalista.
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
   - Uskollisuus klaanin päällikölle
-  - Rakkaus (ystävään, sisarukseen tai romanttiseen kumppaniin)
-  - Viha (taikuutta, olentoa, kilpailijaa tai klaania kohtaan)
+  - Rakkaus (ystävä, sisarus tai romanttinen kumppani)
+  - Viha (taikuus, olento, kilpailija tai klaani)
 
 #### Erikoissäännöt
 
 - **Liike:** 20 jalkaa.
-- **Selviytymisbonus (erityinen):** Barbaareille kaikki alkuperäiseen ympäristöönsä liittyvät Selviytymisheitot ovat yhden asteen helpompia.
-- **Sietokyky:** Barbaarien kärsivät vähemmän alkuperäisalueensa äärilämpötiloista. Esimerkiksi kylmästä ilmastosta kotoisin olevat, kevyestikin varustetut barbaarit saavat armoaikaa (tunteina) oman Kestävyysarvonsa (CON) verran ennen altistumista. Sopiva vaatetus tuplaa tämän ajan. Tämän jälkeen heidän on etsittävä suojaa tai alettava kärsiä uupumusta (Fatigue). Katso lisätiedot säätaulukoista sivulta XX.
-- **Lukutaidottomuus:** Barbaarit eivät yleensä osaa lukea tai kirjoittaa. He voivat oppia lukutaidon käyttämällä 1 kokemuspisteen (Experience Roll) ja kuukauden harjoittelun lukutaitoisen opettajan johdolla. Tämä antaa heille lukutaidon, joka vastaa puolta taitotasosta yhdessä heidän tuntemassaan kielessä. Toinen kokemuspiste ja kuukauden harjoittelu antavat täyden lukutaidon. Pelin aikana uusia kieliä opetellessa heidän oletetaan oppivan ne täydellä lukutaidolla.
-- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä onnenpisteellä (Luck Point).
+- **Selviytymisbonus (erityinen):** Barbaarit saavat kaikki alkuperäalueeseensa liittyvät Selviytymisheitot yhtä astetta helpommin.
+- **Sietokyky altistumiselle:** Barbaarit kärsivät vähemmän alkuperäalueensa äärimmäisistä lämpötiloista. Esimerkiksi kylmistä ilmastoista kotoisin oleville, jopa kevyesti varustetuille barbaareille sallitaan armonaika, joka on yhtä suuri kuin heidän KES tunneissa ennen altistumisen alkamista. Sopivan vaatetuksen käyttö pidentäisi tämän heidän KES:n tuplaksi tunneissa. Tämän jälkeen heidän on etsittävä suojaa tai alettava kärsiä uupumuksesta. Katso lisätietoja sivun XX säätaulukoista.
+- **Lukutaidoton:** Barbaarit eivät yleensä osaa lukea tai kirjoittaa. He voivat oppia lukutaidon käyttämällä 1 kokemuspisteen ja kuukauden koulutusta hahmolta, joka on lukutaitoinen halutussa kielessä. Tämä antaa heille perustason lukutaidon, joka on puolet taitotasosta yhdessä hahmon osaamassa kielessä. Haluttaessa toinen 1 kokemuspiste ja kuukauden koulutus antaa täyden lukutaidon. Kun uusia kieliä opetellaan pelin aikana, voidaan olettaa, että he opettelevat ne täydellä lukutaidolla.
+- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä Onnipisteellä.
 
 ---
 ### Sivistynyt
 
-Sivistynyttä kulttuuria kuvastaa lain ja järjestyksen tuntu, monimutkaiset sosiaaliset koodistot ja byrokratia. Sivistyneet ihmiset pitävät itseään parempina kuin muita kulttuureja, koska heidän saavutuksensa pyrkivät pysyvyyteen: laajat kaupungit, vaikuttavat temppelit, muistomerkit sekä historian ja tapahtumien kirjaaminen kirjoihin, niteisiin ja kääröihin. Tämä on tietenkin ohut julkisivu. Sivistyneimmätkin kaupungit voivat olla laittomampia kuin mikään barbaarien raja-asutus; ja sosiaaliset koodistot voivat olla karkeampia kuin paimentolaisten vieraanvaraisuusrituaalit. Sivistynyt kulttuuri ylpeilee kuitenkin saavutuksillaan, infrastruktuurillaan, ammattimaisilla käsityöläisillään ja kyvyllään laajentaa vaikutusvaltaansa helposti minne haluaa.
+Sivistynyttä kulttuuria kuvastaa lain ja järjestyksen olemus, jota tukevat monimutkaiset sosiaaliset koodistot ja byrokratia. Sivistyneet ihmiset pitävät itseään muita kulttuureja parempina, koska heidän saavutuksensa ovat taipuvaisia pysyvyyteen: laajat kaupungit, vaikuttavat temppelit, juhlalliset monumentit sekä historian ja tapahtumien tallentaminen kirjoihin, niteisiin ja kääröihin. Tämä on tietenkin ohut julkisivu. Sivistyneimmät kaupungit voivat olla lainvastaisempia kuin yksikään barbaarien rajaseudun asutus; ja sosiaaliset koodistot voivat olla karkeampia kuin paimentolaisten vieraanvaraisuusrituaalit. Mutta sivistynyt kulttuuri ylpeilee saavutuksillaan, infrastruktuurillaan, ammattimaisilla käsityöläisillään ja kyvyllään laajentaa ulottuvuuttaan helposti minne haluaa.
 
 #### Taidot
 
 - **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40
-- **Vakiotaidot:** Piiloutuminen, Petkuttaminen, Ajaminen, Vaikuttaminen, Tarkkaavaisuus, Paikallistuntemus, Tahdonvoima
-- **Ammattitaidot:** Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Kohteliaisuus, Kieli (mikä tahansa\*), Tieto (mikä tahansa), Musisointi, Katutuntemus.
+- **Vakiotaidot:** Piiloutuminen, Petos, Ajaminen, Vaikuttaminen, Tarkkanäköisyys, Paikallistuntemus, Tahdonvoima
+- **Ammattitaidot:** Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Kohteliaisuus, Kieli (mikä tahansa*), Tieto (mikä tahansa), Musisointi, Katuslangi.
 
-_\* Ihmisiä ei ole rajoitettu kielivalinnoissa hahmon luonnin aikana, jos he voivat perustella valinnan._
+_* Ihmisiä ei rajoiteta kielivalinnoissa hahmonluonnin aikana, jos he voivat perustella valinnan._
 
-#### Arvomaailma ja intohimot
+#### Suuntaus ja intohimot
 
-- **Arvomaailma:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta ja yksi tai kaksi moraalisesta koodistosta. Vaihtoehtoisesti True Neutral.
-- **Intohimo:** Mikä tahansa, mutta tyypillisesti yksi tai kaksi seuraavista:
+- **Suuntaus:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta (Lainkuuliainen, Neutraali tai Kaaottinen) ja yksi tai kaksi moraalisesta koodistosta (Hyvä, Neutraali tai Paha). Vaihtoehtoisesti valitse yksi tai kaksi Aidosti neutraalista.
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
   - Uskollisuus kaupungille
-  - Rakkaus (ystävään, sisarukseen tai romanttiseen kumppaniin)
-  - Viha (kilpailijaa, jengiä, kaupunginosaa tai kaupunkia kohtaan)
+  - Rakkaus (ystävä, sisarus tai romanttinen kumppani)
+  - Viha (kilpailija, jengi, kaupunginosa tai kaupunki)
 
 #### Erikoissäännöt
 
 - **Liike:** 20 jalkaa.
-- **Lukutaito:** Sivistyneiltä alueilta tulevat osaavat yleensä lukea ja kirjoittaa kaikkia kieliä, joita he puhuvat.
-- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä onnenpisteellä.
+- **Lukutaitoinen:** Sivistyneiltä alueilta kotoisin olevat osaavat yleensä lukea ja kirjoittaa mitä tahansa kieltä, jota he osaavat puhua.
+- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä Onnipisteellä.
 
 ---
 ### Paimentolainen
 
-Paimentolaiset ovat jatkuvasti liikkeellä, eikä heillä ole kotia tai liettä, jota kutsua omakseen. He voivat vaeltaa päämäärättömästi tai heillä voi olla useita leirejä, joiden välillä he liikkuvat vuoden ympäri. He viljelevät vähän, vaan seuraavat eläinten tai kalojen vaelluksia, tai paimentavat omia kotieläimiään. Paimentolaiset ovat taitavia selviytymään siitä, mitä he saavat nopeasti ja helposti ympäristöstään, eivätkä he hukkaa mitään. Paimentolaiskulttuurin taidot tulisi räätälöidä ympäristöön. Jotkut matkaavat pitkiä matkoja jalkaisin, toiset elävät karavaaneissa tai ratsastavat erikoisilla eläimillä, ja jotkut ajelehtivat valtamerillä suurilla lautoilla.
+Paimentolaiset ovat jatkuvasti liikkeellä, eikä heillä ole kotia tai liettä, jota kutsua omakseen. He saattavat vaeltaa päämäärättömästi tai heillä saattaa olla useita leirejä, joiden välillä he liikkuvat vuoden aikana. He viljelevät vähän, vaan seuraavat eläinten tai kalojen vaelluksia, kenties jopa paimentavat omia kotieläimiään. Paimentolaiset osaavat elää siitä, mitä voivat nopeasti ja helposti kerätä ympäristöstään, tuhlaamatta mitään. Paimentolaiskulttuurin taidot tulisi räätälöidä heidän ympäristöönsä. Jotkut kulkevat valtavia matkoja jalan, toiset asuvat karavaaneissa tai ratsastavat oudoilla olennoilla, ja jotkut ajelehtivat valtamerillä suurilla kelluvilla lautoilla.
 
 #### Taidot
 
 - **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40.
-- **Vakiotaidot:** Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi, Hiipiminen; ja kaksi seuraavista: Yleisurheilu, Veneily, Uiminen, Ajaminen tai Ratsastus matkustustavan mukaan.
-- **Ammattitaidot:** Käsityö (mikä tahansa), Kulttuuri (mikä tahansa), Parantaminen, Kieli (mikä tahansa\*), Tieto (mikä tahansa), Musisointi, Navigointi, Selviytyminen, Jäljittäminen.
+- **Vakiotaidot:** Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi, Hiipiminen; sekä kaksi seuraavista: Yleisurheilu, Veneily, Uiminen, Ajaminen tai Ratsastus riippuen ensisijaisesta matkustustavasta.
+- **Ammattitaidot:** Käsityö (mikä tahansa), Kulttuuri (mikä tahansa), Parantaminen, Kieli (mikä tahansa*), Tieto (mikä tahansa), Musisointi, Navigointi, Selviytyminen, Jäljitys.
 
-_\* Ihmisiä ei ole rajoitettu kielivalinnoissa hahmon luonnin aikana, jos he voivat perustella valinnan._
+_* Ihmisiä ei rajoiteta kielivalinnoissa hahmonluonnin aikana, jos he voivat perustella valinnan._
 
-#### Arvomaailma ja intohimot
+#### Suuntaus ja intohimot
 
-- **Arvomaailma:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta ja yksi tai kaksi moraalisesta koodistosta. Vaihtoehtoisesti True Neutral.
-- **Intohimo:** Mikä tahansa, mutta tyypillisesti yksi tai kaksi seuraavista:
+- **Suuntaus:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta (Lainkuuliainen, Neutraali tai Kaaottinen) ja yksi tai kaksi moraalisesta koodistosta (Hyvä, Neutraali tai Paha). Vaihtoehtoisesti valitse yksi tai kaksi Aidosti neutraalista.
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
   - Uskollisuus heimon päällikölle/kaanille
-  - Rakkaus (ystävään, sisarukseen tai romanttiseen kumppaniin)
-  - Viha (olentoa, kilpailijaa tai heimoa kohtaan)
+  - Rakkaus (ystävä, sisarus tai romanttinen kumppani)
+  - Viha (olento, kilpailija tai heimo)
 
 #### Erikoissäännöt
 
 - **Liike:** 20 jalkaa.
-- **Selviytymisbonus (erityinen):** Paimentolaisille kaikki alkuperäiseen ympäristöönsä liittyvät Selviytymisheitot ovat yhden asteen helpompia.
-- **Lukutaito:** Koska he ovat tekemisissä monien muiden rotujen ja kulttuurien kanssa, paimentolaiset osaavat yleensä lukea ja kirjoittaa kieliä, joita he puhuvat.
-- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä onnenpisteellä.
+- **Selviytymisbonus (erityinen):** Paimentolaiset saavat kaikki alkuperäalueeseensa liittyvät Selviytymisheitot yhtä astetta helpommin.
+- **Lukutaitoinen:** Koska he ovat vuorovaikutuksessa monien muiden rotujen ja kulttuurien kanssa, paimentolaiskulttuureista tulevat osaavat yleensä lukea ja kirjoittaa mitä tahansa kieltä, jota he osaavat puhua.
+- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä Onnipisteellä.
 
 ---
 ### Primitiivinen
 
-Kaikista kansoista primitiiviset elävät läheisimmässä yhteydessä maan kanssa, virittäytyneinä sen salaisuuksiin. Laajoissa perheryhmissä elävät primitiiviset kulttuurit kokoontuvat hyvin yksinkertaisten asumusten ympärille, jotka voivat vaihdella luolista ja luonnon tarjoamista suojapaikoista laavuihin tai hyvin alkeellisiin majoihin. Primitiiviset ovat tyypillisesti metsästäjä-keräilijöitä, joilla on joko vähän tai huonosti kehittyneitä maanviljely- ja karjanhoitojärjestelmiä.
+Kaikista kansoista primitiiviset elävät lähinnä maata, virittyneenä sen salaisuuksiin. Laajennetuissa perheryhmissä elävät primitiiviset kulttuurit kerääntyvät hyvin yksinkertaisten asumusten ympärille, jotka voivat vaihdella luolista ja luonnollisista suojista vajoihin tai hyvin perusluonteisiin majoihin. Primitiiviset ovat yleensä metsästäjä-keräilijöitä, joilla on vähän tai huonosti kehittyneitä järjestelmiä maanviljelyyn ja karjanhoitoon.
 
-Tietyt kulttuuriset uskomukset, jotka perustuvat usein taikauskoon, voivat kuitenkin olla hyvin määriteltyjä. Harvat primitiiviset kulttuurit ovat kehittäneet kirjoitettua kieltä, vaikka maalaukset ja muut kuvalliset symbolit toimivat viestinnän välineinä.
+Kuitenkin tietyt kulttuuriset uskomukset, jotka perustuvat usein taikauskoon, voivat olla hyvin tarkasti määriteltyjä. Harvat primitiiviset kulttuurit ovat kehittäneet mitään kirjoitettuun kieleen viittaavaa, vaikka maalaukset ja muut kuvasymbolit palvelevat viestinnän välineinä.
 
 #### Taidot
 
 - **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40.
-- **Vakiotaidot:** Voima, Kestävyys, Väistäminen, Paikallistuntemus, Havainnointi, Hiipiminen; ja yksi seuraavista: Yleisurheilu, Veneily, Ensiapu tai Uiminen.
-- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Tieto (mikä tahansa), Kieli (mikä tahansa\*), Musisointi, Navigointi, Selviytyminen, Jäljittäminen.
+- **Vakiotaidot:** Voimankäyttö, Kestävyys, Väistäminen, Paikallistuntemus, Havainnointi, Hiipiminen; sekä yksi seuraavista: Yleisurheilu, Veneily, Ensiapu tai Uiminen.
+- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Tieto (mikä tahansa), Kieli (mikä tahansa*), Musisointi, Navigointi, Selviytyminen, Jäljitys.
 
-_\* Ihmisiä ei ole rajoitettu kielivalinnoissa hahmon luonnin aikana, jos he voivat perustella valinnan._
+_* Ihmisiä ei rajoiteta kielivalinnoissa hahmonluonnin aikana, jos he voivat perustella valinnan._
 
-#### Arvomaailma ja intohimot
+#### Suuntaus ja intohimot
 
-- **Arvomaailma:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta ja yksi tai kaksi moraalisesta koodistosta. Vaihtoehtoisesti True Neutral.
-- **Intohimo:** Mikä tahansa, mutta tyypillisesti yksi tai kaksi seuraavista:
-  - Uskollisuus päällikölle
-  - Rakkaus (ystävään, sisarukseen tai romanttiseen kumppaniin)
-  - Viha (jotain pelottavaa tai uhkaavaa kohtaan)
+- **Suuntaus:** Mikä tahansa, valitse yksi tai kaksi eettisestä koodistosta (Lainkuuliainen, Neutraali tai Kaaottinen) ja yksi tai kaksi moraalisesta koodistosta (Hyvä, Neutraali tai Paha). Vaihtoehtoisesti valitse yksi tai kaksi Aidosti neutraalista.
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
+  - Uskollisuus päällikölle/johtajalle
+  - Rakkaus (ystävä, sisarus tai romanttinen kumppani)
+  - Viha (jokin sinua pelottava tai pelotteleva asia)
 
 #### Erikoissäännöt
 
 - **Liike:** 20 jalkaa.
-- **Selviytymisbonus (erityinen):** Primitiivisille kulttuureille kaikki alkuperäiseen ympäristöönsä liittyvät Selviytymisheitot ovat yhden asteen helpompia.
-- **Lukutaidottomuus:** Primitiiviset eivät yleensä osaa lukea tai kirjoittaa. He voivat oppia lukutaidon käyttämällä 1 kokemuspisteen ja kuukauden harjoittelun. (Ks. Barbaarin lukutaidon säännöt).
-- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä onnenpisteellä.
+- **Selviytymisbonus (erityinen):** Primitiiviset kulttuurit saavat kaikki alkuperäalueeseensa liittyvät Selviytymisheitot yhtä astetta helpommin.
+- **Lukutaidoton:** Primitiiviset eivät yleensä osaa lukea tai kirjoittaa. He voivat oppia lukutaidon käyttämällä 1 kokemuspisteen ja kuukauden koulutusta hahmolta, joka on lukutaitoinen halutussa kielessä. Tämä antaa heille perustason lukutaidon, joka on puolet taitotasosta yhdessä hahmon osaamassa kielessä. Haluttaessa toinen 1 kokemuspiste ja kuukauden koulutus antaa täyden lukutaidon. Kun uusia kieliä opetellaan pelin aikana, voidaan olettaa, että he opettelevat ne täydellä lukutaidolla.
+- **Onnekas:** Ihmiset aloittavat yhdellä ylimääräisellä Onnipisteellä.
 
 ---
-## Puolirodut
+## Puolihaltijarodut
 
-Puolirotujen hahmot luodaan lähes samalla tavalla kuin ihmiset. Ominaisuudet määritetään kyseisen lajin ominaisuusnopilla, mikä johtaa erilaisiin arvoihin ja vaihteluväleihin, mutta muilta osin kaikki muut elementit: atribuutit, kulttuuri, luokka jne., lasketaan normaalisti.
+Puolihaltijahahmot luodaan lähes samalla tavalla kuin ihmiset. Ominaisuudet määritetään kyseisen lajin ominaisuusnopilla, mikä johtaa erilaisiin ominaisuusarvoihin ja -alueisiin, mutta muuten kaikki muut elementit: atribuutit, kulttuuri, luokka ja niin edelleen, lasketaan normaalisti.
 
 ---
 ### Kääpiö
 
-Kääpiöt rakentavat kotinsa syvälle vuorten linnoituksiin, missä laajat tunnelit porautuvat syvälle maahan. Keskimääräinen kääpiö on vahva, sitkeä ja väsymätön taistelussa. Luonnostaan he ovat erinomaisia käsityöläisiä, joilla on usein taipumusta kaivostoimintaan ja metallurgiaan, sekä niihin liittyvä rakkaus aarteisiin ja kaikkeen materiaaliseen. Heidän tavaransa ovat kaikkien haluamia.
+Kääpiöt rakentavat kotinsa syvälle vuorten linnoituksiin, missä laajat tunnelit kaivautuvat syvälle maahan. Keskimääräinen kääpiö on vahva, sitkeä ja väsymätön taistelussa. Luonnostaan he ovat erinomaisia käsityöläisiä, joilla on usein taipumus kaivostoimintaan ja metallurgiaan, sekä niihin liittyvä rakkaus aarteisiin ja kaikkeen materiaaliseen. Kaikki tavoittelevat heidän tuotteitaan.
 
-Kääpiöt ovat lyhyitä ja hieman tanakoita, keskimäärin 142–147 cm pitkiä. Hiusten väri on yleensä musta, harmaa tai tummanruskea, mutta joillakin on punertavat hiukset. Iho on punakka tai maanvärinen. Kaikki mieskääpiöt suosivat pitkiä partoja, jotka ovat usein piikikkäitä, letitettyjä tai haarautuvia. Jotkut naiskääpiöt kasvattavat myös partaa, mutta useimmat pitävät kasvonsa mieluummin ajeltuina.
+Kääpiöt ovat lyhyitä ja hieman tanakoita, keskimäärin 4' 8" – 4' 10" pitkiä. Hiusten väri on yleensä musta, harmaa tai tummanruskea, mutta muutamilla tiedetään olevan punertavat hiukset. Heidän ihonsa on punakka tai maanvärinen. Kaikki mieskääpiöt suosivat pitkiä partoja, jotka ovat usein piikikkäitä, letitettyjä tai haarautuneita. Jotkut kääpiönaiset kasvattavat myös partaa; useimmat kuitenkin pitävät kasvonsa mieluiten ajeltuina.
 
-Kääpiöt ovat luonnostaan epäluuloisia ketä tahansa kohtaan, joka elää toisin kuin he, mutta he eivät välttämättä ole vihamielisiä. He tulevat parhaiten toimeen tonttujen (gnomes) kanssa, joiden kanssa heillä on kaukainen sukulaisuussuhde. Lisäksi kääpiöt tulevat yleensä hyvin toimeen ihmisten kanssa; heillä on kuitenkin alhainen sietokyky haltioita kohtaan muinaisten sotien ja pitkien muistojen vuoksi. Kääpiöt eivät yleensä pidä puolituiseista, joiden huoleton elämäntapa riitelee heidän oman karkean ja jämäkän luonteensa kanssa. Heidän vihansa örkkejä kohtaan, joita he pitävät saastaisina ja eläimellisinä, on legendaarinen.
+Kääpiöt ovat luonnostaan epäluuloisia ketä tahansa kohtaan, joka noudattaa erilaista elämäntapaa kuin he itse, mutta eivät välttämättä ole heitä kohtaan vihamielisiä. He tulevat parhaiten toimeen maahisten kanssa, joiden kanssa heillä on kaukainen sukulaisuussuhde, huolimatta näiden ärsyttävästä huumorintajusta ja taipumuksesta käytännön piloihin. Lisäksi kääpiöt tulevat yleensä hyvin toimeen ihmisten kanssa; heillä on kuitenkin alhainen sietokyky haltijoita kohtaan muinaisten sotien ja pitkien muistojen vuoksi. Kääpiöt yleensä inhoavat puolituisia, joiden huoleton elämäntapa sotii heidän karua, ankaraa luontoaan vastaan. Heidän vihansa örkkejä kohtaan, joita he pitävät likaisina ja eläimellisinä, on legendaarinen.
 
-Kääpiöt ovat pitkäikäisiä ja voivat elää noin 450-vuotiaiksi. Heillä on selkeä vastenmielisyys taikuutta kohtaan ja he ovat luonnostaan vastustuskykyisiä arkaanisille loitsuille; jumalalliset loitsut vaikuttavat heihin normaalisti. Tämän vuoksi kääpiö-taikureita ei ole olemassa.
+Kääpiöt ovat pitkäikäisiä ja voivat saavuttaa noin 450 vuoden iän. Heillä on selkeä vastenmielisyys taikuutta kohtaan ja siksi he ovat luonnostaan vastustuskykyisiä arkaanisille loitsuille; jumalalliset loitsut vaikuttavat heihin normaalisti. Tämän vuoksi kääpiötaikuuden käyttäjiä ei ole olemassa.
 
 #### Kääpiökulttuuri
 
-Kääpiöt ovat sosiaalisia olentoja, jotka ovat sitoutuneet klaaneihin ja heimoihin, jotka jakavat suuret maanalaiset hallit ja kaupungit. Tässä suhteessa he muistuttavat eniten barbaarikulttuuria, vaikka on olemassa tärkeitä eroja. Ensinnäkin, sukupuolella ei ole väliä kääpiöyhteiskunnassa: miehet ja naiset jakavat velvollisuudet tasan. Tämä sisältää lastenhoidon, fyysisen työn, metsästyksen ja sodan. Toiseksi, kääpiöt vähättelevät yksilöä yhteiskunnan hyväksi.
+Kääpiöt ovat sosiaalisia olentoja, jotka ovat sitoutuneet klaaneihin ja heimoihin, jotka jakavat suuret maanalaiset hallit ja kaupungit. Tässä suhteessa he muistuttavat eniten barbaarikulttuuria, vaikka on olemassa tiettyjä keskeisiä eroja. Ensinnäkin sukupuolella ei ole merkitystä kääpiöyhteiskunnassa: miehet ja naiset jakavat velvollisuudet ja vastuut tasan. Tämä sisältää lastenhoidon, ruumiillisen työn, metsästyksen ja sodan. Toiseksi kääpiöt pyrkivät vähentämään yksilön merkitystä yhteiskunnan eduksi.
 
-Kääpiöt tietävät, että voima tulee joukosta ja että yksilön tarpeet jäävät aina yhteisön tarpeiden varjoon. He ovat kuitenkin omistushaluinen ja materialistinen yhteiskunta, joka vartioi kateellisesti löytöjään ja saavutuksiaan. Kääpiöt pitävät esineistä, ja kun klaanista erotettu kääpiö joutuu yksin, hänestä voi tulla hyvin itsekäs ja individualistinen, koska koko kääpiökulttuuri puuttuu ohjaamasta ja hillitsemästä heikompia vaistoja.
+Kääpiöt tietävät, että voima tulee lukumäärästä ja että yksilön halut ja tarpeet ovat aina toissijaisia enemmistöön nähden. He ovat kuitenkin hankinta- ja materialistinen yhteiskunta, joka vartioi kateellisesti löytöjään ja saavutuksiaan. Kääpiöt pitävät tavaroista, ja kun yksittäinen kääpiö otetaan pois klaanista, hänestä voi tulla hyvin nopeasti itsekäs ja individualistinen, koska yleinen kääpiökulttuuri puuttuu ohjaamasta ja hallitsemasta alhaisempia vaistoja.
 
 #### Taidot
 
 - **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40, Kieli (kääpiö) +40
-- **Vakiotaidot:** Yleisurheilu, Voima, Kestävyys, Väistäminen, Paikallistuntemus, Havainnointi, Tahdonvoima
-- **Ammattitaidot:** Kaupankäynti, Käsityö (mikä tahansa), Insinööritaito, Kieli (mikä tahansa\*), Tieto (mikä tahansa), Mekanismit, Puhetaito, Selviytyminen.
+- **Vakiotaidot:** Yleisurheilu, Voimankäyttö, Kestävyys, Väistäminen, Paikallistuntemus, Havainnointi, Tahdonvoima
+- **Ammattitaidot:** Kaupankäynti, Käsityö (mikä tahansa), Insinööritaito, Kieli (mikä tahansa*), Tieto (mikä tahansa), Mekanismit, Puhetaito, Selviytyminen.
 
-_\* Hahmon luonnin aikana lisäkielet rajoittuvat tonttuun, peikkoon (goblin), kobolttiin ja örkkiin._
+_* Hahmonluonnin aikana lisäkielet rajoittuvat maahiseen, gobliniin, koboldiini ja örkkiin._
 
-#### Arvomaailma ja intohimot
+#### Suuntaus ja intohimot
 
-- **Arvomaailma:** Mikä tahansa, mutta tyypillisesti Lawful Good (Lakihenkinen Hyvä), valitse yksi tai kaksi kummastakin tai valitse muu arvomaailma.
-- **Intohimo:** Mikä tahansa, mutta tyypillisesti yksi tai kaksi seuraavista:
+- **Suuntaus:** Mikä tahansa, mutta yleensä Lainkuuliainen Hyvä, valitse yksi tai kaksi kummastakin tai valitse muu suuntaus.
+  - **Lainkuuliainen** (Sulkeutunut, Vihaa kaaosta, Rehellinen, Kunniallinen, Tuomitseva, Ei huumorintajua, Kuuliaisuus lailliselle vallalle, Järjestäytynyt, Ennustettava, Luotettava, Luottavainen)
+  - **Hyvä** (Iailtava, Omatuntokysymykset viattomien vahingoittamisesta, Säädyllinen, Eettinen, Ystävällinen, Vihaa pahaa, Avulias, Ystävällinen, Optimistinen, Positiivinen)
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
   - Uskollisuus klaanille
-  - Rakkaus (johonkin materiaaliseen)
-  - Kukkulakääpiöt: Viha (örkit, puoliorckit, peikot ja hobgoblin-peikot)
-  - Vuorikääpiöt: Viha (örkit, peikot, pahat jättiläiset ja pimeyden haltiat)
+  - Rakkaus (Jokin materialistinen)
+  - Vuoristokääpiöt: Viha (Örkit, puolörkit, goblin-heimolaiset ja hobgoblin-heimolaiset)
+  - Vuorikääpiöt: Viha (Örkit, goblin-heimolaiset, pahat jättiläiset ja pimeähaltijat)
 
 #### Erikoissäännöt
 
 - **Liike:** 15 jalkaa.
-- **Pimeänäkö:** Kääpiöiden pimeänäkö mahdollistaa näkemisen 60 jalkaan hämärässä kuin kirkkaassa valossa (normaalit havainnointiheitot) ja pimeässä kuin hämärässä (havainnointiheitot ovat "Vaikeita"). Pimeydessä he näkevät värit vain harmaan sävyinä. Pimeänäkö ei toimi maagisessa pimeydessä.
-- **Lukutaito:** Kääpiöt osaavat yleensä lukea ja kirjoittaa kieliä, joita he puhuvat.
-- **Taikuuden vastustus:** Kääpiöt ovat erittäin vastustuskykyisiä arkaaniselle taikuudelle; heidän Tahdonvoima-heitot ovat yhden asteen helpompia vastustettaessa. Tällä ei ole vaikutusta jumalalliseen taikuuteen.
-- **Myrkynvastustus:** Kääpiöt ovat erittäin vastustuskykyisiä myrkyille, ja myrkkyihin liittyvät Kestävyysheitot ovat yhden asteen helpompia.
-- **Tunneliaisti:** Maanalaisen elämäntavan ansiosta kääpiöt voivat havaita maanalaisia ilmiöitä onnistuneella "Helpolla" Havainnointiheitolla. Tunneliaistia voidaan käyttää kivikuilujen, ansojen, rinteiden, syvyyden, tunnelin rakenteen tai liikkuvien seinien havaitsemiseen. Kantama on 10 jalkaa.
+- **Pimeänäkö:** Kääpiöiden pimeänäkö mahdollistaa näkemisen jopa 60 jalkaan hämärässä valossa ikään kuin se olisi kirkasta valoa (tavanomaiset Havainnointi-heitot kohteen näkemiseksi) ja pimeydessä ikään kuin se olisi hämärää valoa (Havainnointi-heitot kohteen näkemiseksi ovat Vaikeita). Tässä pimeydessä he erottavat värit vain harmaan sävyinä. Pimeänäkö ei salli näkemistä maagisessa pimeydessä.
+- **Lukutaitoinen:** Kääpiöt osaavat yleensä lukea ja kirjoittaa mitä tahansa kieltä, jota he osaavat puhua.
+- **Taikuuden vastustus:** Kääpiöt ovat erittäin vastustuskykyisiä arkaaniselle taikuudelle; heidän Tahdonvoima-tarkistuksensa ovat yhtä astetta helpompia, kun niitä käytetään vastustamiseen. Tällä vastustuksella ei ole vaikutusta jumalalliseen taikuuteen.
+- **Myrkyn vastustus:** Kääpiöt ovat myös erittäin vastustuskykyisiä myrkylle, ja myrkytykseen liittyvät Kestävyys-heitot ovat yhtä astetta helpompia.
+- **Tunneliaisti:** Maanalaisen luonteensa vuoksi kääpiöt voivat havaita tiettyjä maanalaisia ilmiöitä onnistumalla Helpossa Havainnointi-taitotarkistuksessa. Tunneliaistia voidaan käyttää kivisten kuoppien, ansojen; kaltevuuden tai rinteen; arvioidun syvyyden maan alla; uuden tunnelin tai käytävän rakenteen; sekä liikkuvien tai liukuvien seinien tai huoneiden havaitsemiseen. Tämän havaitsemisen kantama on rajoitettu 10 jalkaan.
 
 ---
-### Haltia
+### Haltija
 
-Haltiat ovat suunnilleen samanpituisia kuin ihmiset, mutta heillä on siro ja hoikka ruumiinrakenne. Vain harvat haltiat jättävät metsäisen valtakuntansa seikkaillakseen, suosien sen sijaan rauhallista elämää. Ne, jotka lähtevät, ovat mysteeri jopa omalle kansalleen. Vaikka haltiat tulevat toimeen puolituisten ja tonttujen kanssa, he eivät sovi hyvin yhteen kääpiöiden kanssa näiden karkean luonteen vuoksi. Jopa ihmisiin suhtaudutaan epäluulolla. Kaikista roduista örkit ja peikot ovat vihatuimpia pitkäaikaisen vihan vuoksi. Kuten kääpiöt, haltiat ovat erittäin pitkäikäisiä, jopa 1 100-vuotiaiksi. Kauan ennen tätä haltiat tuntevat kuitenkin usein tarvetta lähteä ihmisten maailmasta. Minne he menevät, on mysteeri kaikille muille paitsi heille itselleen.
+Haltijat ovat suunnilleen samanpituisia kuin ihmiset, ja heillä on siro ja hoikka ruumiinrakenne. Hyvin harvat haltijat jättävät metsäisen valtakuntansa ja aloittavat seikkailijan elämän, vaan he suosivat rauhallista metsäeloa. Ne, jotka tekevät niin, ovat mysteeri jopa omilleen. Vaikka haltijat tulevat melko hyvin toimeen puolituisten ja maahisten kanssa, he eivät sovi hyvin yhteen kääpiöiden kanssa näiden varsin karun luonteen vuoksi. Jopa ihmisiin suhtaudutaan epäluuloisesti. Kaikista roduista örkkejä ja goblini-heimolaisia halveksitaan eniten pitkäaikaisen vihan vuoksi, joka perustuu loputtomiin sotiin ja pieniin kahakoihin. Kuten kääpiöt, haltijat ovat hyvin pitkäikäisiä, mutta jopa enemmän, saavuttaen noin 1 100 vuoden iän. Kuitenkin kauan ennen tätä haltijat tuntevat usein tarvetta lähteä ihmisten valtakunnista. Minne he menevät, on mysteeri kaikille muille paitsi heille itselleen.
 
-Haltiat erottuvat edukseen hienolla luustolla, kapeilla kalloilla ja terävillä korvilla. Silmien värit vaihtelevat ihmisten sävyistä loistavien jalokivien väreihin. Haltioiden yhteiskunta on usein monarkistinen. Luonto on haltioille erittäin tärkeä, joten he huolehtivat ympäristönsä säilyttämisestä. Pitkäikäisinä he eivät koe aikaa samalla tavalla kuin ihmiset.
+Haltijat ovat erottuvia hienon luustonsa, kapeiden, kapenevien kalloittensa ja kapeiden, suippojen korviensa ansiosta. Silmien värit vaihtelevat kirjon mukaan, ihmisten sävyistä loistavien jalokivien väreihin. Haltijayhteiskunta on usein monarkistinen, yleensä kuninkaan, kuningattaren tai molempien hallitsema. Haltijat ovat toismaailmallisia. He vaikuttavat usein etäisiltä arkisista tapahtumista, mutta osoittavat ymmärrystä niistä, mikä osoittautuu ihmisille hämmentäväksi ymmärtää. Luonto on haltijoille erittäin tärkeää, joten he huolehtivat ympäristönsä säilyttämisestä. Pitkäikäisenä lajina he eivät hyväksy tai arvosta aikaa samalla tavalla kuin ihmiskunta ja ovat usein tiedostamattomia lyhyiden aikajaksojen kulumisesta.
 
-#### Haltiakulttuuri
+#### Haltijakulttuuri
 
-Haltiakulttuuri on samankaltainen kuin Sivistynyt. Oppimista ja ymmärrystä arvostetaan suuresti. Arvokkaat käytöstavat ovat odotettuja, ja moukkamainen käytös nähdään halveksittavana. Uskollisuus kuninkaalle tai kuningattarelle on ensisijaista. Haltioiden on vaikea ymmärtää yhteiskuntia, joista tällaiset rakenteet puuttuvat.
+Haltijakulttuuri muistuttaa sivistynyttä. Suuri arvo asetetaan oppimiselle ja ymmärtämiselle. Teot, käytös ja rehellisyys ovat tärkeitä ja haluttuja ominaisuuksia haltioiden keskuudessa ja muissa. Arvokkaita tapoja odotetaan, ja rahvamaista, moukkamaista käytöstä katsotaan halveksuen ja epäillen. Useimmissa haltijayhteiskunnissa on kuningas tai kuningatar, joten uskollisuus monarkille on ensisijaisen tärkeää. Haltijoiden on vaikea ymmärtää yhteiskuntia, joista puuttuu tällaiset rakenteet, ja he ihmettelevät, kuinka ihmiset voivat olla oikein järjestettyjä ilman selkeää, kuninkaallista johtajaa ohjaamaan ja edustamaan heitä.
 
 #### Taidot
 
-- **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40, Kieli (haltia) +40
-- **Vakiotaidot:** Piiloutuminen, Vaikuttaminen, Tarkkaavaisuus, Paikallistuntemus, Havainnointi, Hiipiminen, Tahdonvoima
-- **Ammattitaidot:** Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Kohteliaisuus, Kieli (mikä tahansa\*), Tieto (mikä tahansa), Musisointi, Selviytyminen.
+- **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40, Kieli (haltija) +40
+- **Vakiotaidot:** Piiloutuminen, Vaikuttaminen, Tarkkanäköisyys, Paikallistuntemus, Havainnointi, Hiipiminen, Tahdonvoima
+- **Ammattitaidot:** Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Kohteliaisuus, Kieli (mikä tahansa*), Tieto (mikä tahansa), Musisointi, Selviytyminen.
 
-_\* Hahmon luonnin aikana lisäkielet rajoittuvat tonttuun, puolituiseen, peikkoon, hobgoblin-peikkoon, örkkiin ja gnolliin._
+_* Hahmonluonnin aikana lisäkielet rajoittuvat maahiseen, puolituiseen, gobliniin, hobgoblin-heimolaiseen, örkkiin ja gnolliin._
 
-#### Arvomaailma ja intohimot
+#### Suuntaus ja intohimot
 
-- **Arvomaailma:** Mikä tahansa, mutta tyypillisesti Chaotic Good (Kaaoshenkinen Hyvä), valitse yksi tai kaksi kummastakin.
-- **Intohimo:** Mikä tahansa, mutta tyypillisesti yksi tai kaksi seuraavista:
+- **Suuntaus:** Mikä tahansa, mutta yleensä Kaaottinen Hyvä, valitse yksi tai kaksi kummastakin tai valitse muu suuntaus.
+  - **Kaaottinen** (Utelias, Vapaus, Epäluuloinen)
+  - **Hyvä** (Iailtava, Altruistinen, Enkelimäinen, Hyväntekeväinen, Omatuntokysymykset viattomien vahingoittamisesta, Säädyllinen, Eettinen, Anteeksiantava, Ystävällinen, Vihaa pahaa, Avulias, Ystävällinen, Rakastaa luontoa, Armollinen, Optimistinen, Positiivinen, Kasvissyöjä)
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
   - Uskollisuus kuninkaalle/kuningattarelle
-  - Rakkaus (johonkin emotionaaliseen)
-  - Viha (kauneuden ja armon viholliset)
+  - Rakkaus (Jokin emotionaalinen)
+  - Viha (mikä tahansa armon ja kauneuden vihollinen)#### Erityissäännöt
 
-#### Erikoissäännöt
-
-- **Liike:** 20 jalkaa.
-- **Haltiaketju:** Haltiat osaavat käyttää arkaaneja taikoja kantaessaan haltiaketjupanssaria yhdellä vaikeustasolla.
-- **Lukutaito:** Haltiat osaavat lukea ja kirjoittaa kieliä, joita he puhuvat.
-- **Uni- ja lumousvastustus:** Haltioiden Tahdonvoima-heitot *Unta* ja *Lumousta* vastaan ovat kaksi astetta helpompia. He voivat halutessaan luopua tästä vastustuksesta.
-- **Tarkka näkö:** Haltioiden Havainnointi-heitot kohteiden löytämiseksi ovat yhden asteen helpompia.
-- **Hiipijä:** Kevyesti panssaroidut haltiat saavat +1 asteen bonuksen Hiipiminen-testiin.
+- **Liikkuminen:** 20 jalkaa.
+- **Haltijoiden rengaspaita:** Haltijat ovat taitavia loitsimaan arkaanisia taikoja käyttäessään haltijoiden rengaspaitaa, ja he voivat loitsia tällaisia loitsuja yhden vaikeustason helpommin.
+- **Lukutaito:** Haltijat osaavat yleensä lukea ja kirjoittaa kaikkia kieliä, joita he puhuvat.
+- **Vastustuskyky unelle ja lumoukselle:** Haltijoiden on 2 astetta helpompi tehdä tahdonvoimaheittoja vastustaakseen _Unta_ ja _Lumousta_ -loitsuja. Tämä sisältää kaikki _lumous (lumous)_ -koulukunnan loitsut (_ihmisen lumoaminen, ystävyys, hypnotismi_ ja niin edelleen). He voivat halutessaan luopua tästä vastustuskyvystä ja hyväksyä taian vaikutukset.
+- **Tarkka näkö:** Terävän näkökykynsä ansiosta haltijoiden on yhden asteen helpompaa tehdä havaintoheittoja huomatakseen jotain.
+- **Hiiviskely:** Haltijoiden, jotka käyttävät vain kevyttä haarniskaa, on 1 asteen helpompaa tehdä hiiviskelytestejä.
 
 ---
-### Tonttu (Gnome)
+### Maahinen
 
-97–109 cm pitkinä tontut ovat jopa kääpiöitä pienempiä. Ruskea tai ruskehtava iho, valkoiset hiukset ja huomattavan suuret nenät ovat heidän tunnusmerkkejään. Heillä on lähes hallitsematon taipumus käytännön piloihin. Tätä tasapainottaa haltioiden kaltainen luonnonrakkaus. Kuten kääpiöt, tontut rakastavat jalokiviä. He asuvat kaivoksissa ja onkaloissa kumpuilevilla kukkuloilla. Tontut ovat epäluuloisia itseään suurempia rotuja kohtaan. He ovat mestarillisia tarinankertojia. He elävät noin 700-vuotiaiksi.
+Maahiset ovat 3'4" – 3'7" (n. 102–109 cm) pitkinä jopa pienempiä kuin kääpiösukuiset lajitoverinsa. Heillä on ruskea tai parkittu iho, valkoiset hiukset ja huomattavasti suuremmat nenät, mutta he ovat kokonaisuutena vähemmän pyöreitä. Maahisilla on lähes hallitsematon taipumus käytännön piloihin ja huumorintaju, joka voisi koitua heidän kohtalokseen maailman hämärimmissä kolkissa. He tasapainottavat näitä ongelmallisia piirteitä luonnonrakkaudella, joka vastaa lähes haltijoiden vastaavaa. Kuten kääpiöt, maahiset rakastavat erityisesti jalokiviä ja koruja, ja monet heistä ovat jalokivien hionnan mestareita. He asuvat kaivoksissa ja onkaloissa, joita löytyy ihmisiltä suojassa olevilta kumpuilevilta kukkuloilta ja metsäalueilta. Maahiset suhtautuvat epäluuloisesti itseään paljon suurempiin rotuihin, ja kääpiöitä ja puolituisia lukuun ottamatta se tarkoittaa lähes kaikkia. Heillä on tapana arvioida henkilön todellisia aikeita huumorintajutestillä; se ei varmasti ole viisain menetelmä, mutta se näyttää toimivan heillä. Maahiset ovat taitavia valehtelijoita ja hurjien tarinoiden kertojia. Kaikista roduista he tulevat parhaiten toimeen kääpiöiden kanssa, mutta yleisesti ottaen he hyväksyvät muita rotuja herkemmin. Tyypillisesti maahiset elävät noin 700-vuotiaiksi.
 
 #### Kulttuuri
 
-Tonttujen kulttuuri on klaanipohjainen. Elämä on hyvin organisoitua, ja johtajuus huipentuu päällikköön. Heidän rakkautensa luontoon tarkoittaa, että he tulevat hyvin toimeen haltioiden ja muiden metsänolentojen kanssa.
+Maahiskulttuuri on klaanipohjainen yhteiskunta, joka viettää suuren osan ajastaan kaivostoiminnassa ja hienojen korujen valmistuksessa. Heidän elämänsä on hyvin järjestäytynyttä, ja johtajuus huipentuu päällikköön, kun taas uskonnolliset asiat hoitavat päällikön pappisneuvonantajat. Tällä tavoin heidän kulttuurinsa muistuttaa kääpiöiden kulttuuria, mutta he todellakin rakastavat pelejä ja käytännön piloja enemmän kuin tanakat serkkunsa. Heidän eläinten- ja luonnonrakkautensa tarkoittaa, että kääpiöiden lisäksi he tulevat hyvin toimeen haltijoiden ja muiden metsän olentojen kanssa.
 
 #### Taidot
 
-- **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40, Kieli (tonttu) +40
-- **Vakiotaidot:** Petkuttaminen, Väistäminen, Tarkkaavaisuus, Paikallistuntemus, Havainnointi, Hiipiminen, Tahdonvoima
-- **Ammattitaidot:** Kaupankäynti, Käsityö (mikä tahansa), Insinööritaito, Kieli (mikä tahansa\*), Tieto (mikä tahansa), Mekanismit, Puhetaito, Selviytyminen.
+- **Ilmaiset taidot:** Tavat +40, Kieli (Yleiskieli) +40, Kieli (Maahinen) +40
+- **Perustaidot:** Petos, Väistö, Oivallus, Paikallistuntemus, Havainnointi, Hiiviskely, Tahdonvoima
+- **Ammattitaidot:** Kaupankäynti, Käsityö (mikä tahansa), Insinööritaito, Kieli (mikä tahansa*), Tieto (mikä tahansa), Mekanismit, Puhetaito, Selviytyminen.
 
-_\* Hahmon luonnin aikana lisäkielet rajoittuvat kääpiöön, puolituiseen, peikkoon ja kobolttiin._
+_\* Hahmon luonnin aikana lisäkielet rajoittuvat kääpiöiden, puolituisten, hiisien ja koboldien kieliin._
 
-#### Arvomaailma ja intohimot
+#### Suuntautuminen ja intohimot
 
-- **Arvomaailma:** Mikä tahansa, tyypillisesti Neutral Good (Neutraali Hyvä).
-- **Intohimo:** Mikä tahansa, mutta tyypillisesti yksi tai kaksi seuraavista:
+- **Suuntautuminen:** Mikä tahansa, mutta yleensä Neutraali Hyvä. Valitse yksi tai kaksi kultakin listalta tai valitse eri suuntautuminen.
+  - **Neutraali** (Ei tunne vahvasti suuntaan tai toiseen lain ja kaaoksen suhteen, joustava, toiminnan vapaus, ei vakiintunutta eettistä koodistoa, kunnioittaa luontoa*)
+  - **Hyvä** (Ihaillun arvoinen, epäitsekäs, enkelimäinen, hyväntekeväinen, omatunnontarkka viattomien vahingoittamisen suhteen, säädyllinen, eettinen, anteeksiantava, ystävällinen, vihaa pahuutta, avulias, ystävällinen, rakastaa luontoa*, armollinen, optimistinen, positiivinen, kasvissyöjä)
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
   - Uskollisuus klaanille
-  - Rakkaus (materiaalinen)
-  - Viha (koboltteja ja peikkoja kohtaan)
+  - Rakkaus (jokin aineellinen)
+  - Viha (yleensä koboldit ja hiidet)
 
-#### Erikoissäännöt
+_\* Joko kunnioittaa luontoa tai rakastaa luontoa, ei molempia._
 
-- **Liike:** 15 jalkaa.
-- **Lukutaito:** Tontut osaavat yleensä lukea ja kirjoittaa kieliä, joita he puhuvat.
-- **Pimeänäkö:** Tonttujen pimeänäkö toimii kuten kääpiöillä.
-- **Taikuuden vastustus:** Kuten kääpiöillä, mutta illuusioita vastaan kahden asteen helpompi.
-- **Myrkynvastustus:** Kuten kääpiöillä.
-- **Tunneliaisti:** Kuten kääpiöillä.
+#### Erityissäännöt
+
+- **Liikkuminen:** 15 jalkaa.
+- **Lukutaito:** Maahiset osaavat yleensä lukea ja kirjoittaa kaikkia kieliä, joita he puhuvat.
+- **Pimeänäkö:** Maahisten pimeänäkö mahdollistaa näkemisen 60 jalkaan asti hämärässä valossa kuin se olisi kirkasta valoa (tavanomaiset havaintoheitot jonkin havaitsemiseksi) ja pimeydessä kuin se olisi hämärää valoa (havaintoheitot jonkin havaitsemiseksi ovat vaikeita). Pimeyden sisällä he erottavat värit vain harmaan sävyinä. Pimeänäkö ei mahdollista näkemistä taianomaisessa pimeydessä.
+- **Magian vastustuskyky:** Kuten kääpiöt, maahiset ovat erittäin vastustuskykyisiä arkaaniselle magialle; tahdonvoimatarkistukset ovat yhden asteen helpompia, kun niitä käytetään vastustamiseen, ja kahden asteen helpompia illuusioiden kohdalla. Tällä vastustuskyvyllä ei ole vaikutusta jumalalliseen magiaan. Monet maahiset, joista tulee taikuuden käyttäjiä, erikoistuvat illuusioiden kouluun.
+- **Myrkkyjen vastustuskyky:** Maahiset ovat myös erittäin vastustuskykyisiä myrkylle, ja myrkkyihin liittyvät kestävyysheitot ovat 1 asteen helpompia.
+- **Tunneliaisti:** Maanalaisen luontonsa ansiosta maahiset voivat havaita tiettyjä maanalaisia ilmiöitä onnistumalla helpossa havaintoheitossa. Tunneliaistia voidaan käyttää kivisten kuoppien, ansojen, rinteiden tai kaltevuuksien, maanalaisen syvyyden, uusien tunnelien tai käytävien rakenteiden sekä liikkuvien seinien tai huoneiden havaitsemiseen. Tämän havainnon kantama on rajoitettu 10 jalkaan.
 
 ---
-### Puolihaltia
+### Puolihaltija
 
-Puolihaltiat ovat haltian ja ihmisen jälkeläisiä. Heidän ulkonäkönsä on lähempänä haltioita. Heillä on ihmisen seikkailunhalu ja haltian luonnonrakkaus. He elävät noin 300-vuotiaiksi. Joissakin osissa maailmaa heihin suhtaudutaan epäluulolla, mutta yleisesti heidät hyväksytään.
+Puolihaltijat ovat haltijan ja ihmisen jälkeläisiä, mikä antaa heille sekoituksen molempien vanhempien piirteitä. Heidän ulkonäkönsä on lähempänä haltijaperintöä; heillä on yleensä viehättäviä piirteitä. Puolihaltijat menettävät osan haltijaperinnön kyvyistä eivätkä heillä ole samaa onnekasta tai lahjakasta luonnetta kuin ihmisillä; sen sijaan he sijoittuvat johonkin siltä väliltä. Puolihaltijoilla on ihmisvanhempansa vaellushalu ja haltijaperintönsä luonnonrakkaus. He ovat myös pitkäikäisiä, saavuttaen noin 300 vuoden iän. Joissakin osissa maailmaa puolihaltijoihin suhtaudutaan epäluuloisesti heidän sekarotuisen perintönsä vuoksi, mutta heidät hyväksytään yleisesti kaikkialla, missä haltijat ja ihmiset asuvat, vaikka he yleensä kohtaavat eniten ennakkoluuloja haltijoiden taholta.
 
 #### Kulttuuri
 
-Puolihaltioilla ei ole omia yhteisöjä; he jakavat sen rodun kulttuurin, joka heidät kasvatti.
+Puolihaltijoilla ei ole omia yhteisöjä, mutta heitä löytyy kaikkialta, missä ihmiset ja haltijat ovat tekemisissä keskenään, ja he jakavat yleensä sen rodun kulttuurin, joka heidät on kasvattanut. Esimerkiksi, jos heidät on kasvatettu ihmisten keskuudessa, he jakavat ihmisvanhempansa kulttuurin (yksi ihmisten kohdalla yksityiskohtaisesti käsitellyistä neljästä), ja jos heidät on kasvatettu haltijoiden keskuudessa, he jakavat haltijavanhempansa kulttuurin.
 
 #### Taidot
 
-- **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40, Kieli (haltia) +40
-- **Vakiotaidot:** Valitse ihmiskulttuurista tai haltioiden listasta.
-- **Ammattitaidot:** Valitse ihmiskulttuurista tai haltioiden listasta.
+- **Ilmaiset taidot:** Tavat +40, Kieli (Yleiskieli) +40, Kieli (Haltija) +40
+- **Perustaidot:** Valitse ihmiskulttuurista tai seuraavalta haltijoiden taitolistalta: Kätkeminen, Vaikuttaminen, Oivallus, Paikallistuntemus, Havainnointi, Hiiviskely, Tahdonvoima
+- **Ammattitaidot:** Valitse ihmiskulttuurista tai seuraavalta haltijoiden taitolistalta: Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Kohteliaisuus, Kieli (mikä tahansa*), Tieto (mikä tahansa), Musisointi, Selviytyminen.
 
-#### Arvomaailma ja intohimot
+_\* Hahmon luonnin aikana, jos kasvatettu haltijoiden toimesta, lisäkielet rajoittuvat maahisen, puolituisten, hiiden, hobhiiden, örkkien ja gnollien kieliin. Jos kasvatettu ihmisten toimesta, kielivalinnat ovat rajoittamattomia._
 
-Valitse ihmiskulttuurista tai haltioiden listasta.
+#### Suuntautuminen ja intohimot
 
-#### Erikoissäännöt
+Valitse ihmiskulttuurista tai seuraavista haltijoiden intohimoista:
 
-- **Liike:** 20 jalkaa.
-- **Haltiaketju:** Kuten haltioilla.
-- **Lukutaito:** Kuten haltioilla.
-- **Uni- ja lumousvastustus:** Kuten haltioilla (yhden asteen helpompi).
-- **Tarkka näkö:** Kuten haltioilla.
-- **Hiipijä:** Kuten haltioilla.
+- **Suuntautuminen:** Mikä tahansa, mutta yleensä Kaaottinen Hyvä, jos kasvatettu haltijoiden toimesta. Valitse yksi tai kaksi kultakin listalta tai valitse eri suuntautuminen. Tai ihmisvanhemman mukaan.
+  - **Kaaottinen** (Utelias, vapaus, epäluuloinen)
+  - **Hyvä** (Ihaillun arvoinen, epäitsekäs, enkelimäinen, hyväntekeväinen, omatunnontarkka viattomien vahingoittamisen suhteen, säädyllinen, eettinen, anteeksiantava, ystävällinen, vihaa pahuutta, avulias, ystävällinen, rakastaa luontoa, armollinen, optimistinen, positiivinen, kasvissyöjä)
+- **Intohimo (Kasvatettu haltijana):** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
+  - Uskollisuus kuninkaalle/kuningattarelle
+  - Rakkaus (jokin tunteellinen)
+  - Viha (mikä tahansa armon ja kauneuden vihollinen)
+- **Intohimo (Kasvatettu ihmisenä):** Valitse sopivalta ihmisten listalta.
+
+#### Erityissäännöt
+
+- **Liikkuminen:** 20 jalkaa.
+- **Haltijoiden rengaspaita:** Puolihaltijat ovat taitavia loitsimaan arkaanisia taikoja käyttäessään haltijoiden rengaspaitaa, ja he voivat loitsia tällaisia loitsuja yhden vaikeustason helpommin.
+- **Lukutaito:** Puolihaltijat osaavat yleensä lukea ja kirjoittaa kaikkia kieliä, joita he puhuvat.
+- **Vastustuskyky unelle ja lumoukselle:** Puolihaltijoiden on yhden asteen helpompaa tehdä tahdonvoimaheittoja vastustaakseen _Unta_ ja _Lumousta_ -loitsuja. Tämä sisältää kaikki _lumous (lumous)_ -koulukunnan loitsut (_ihmisen lumoaminen, ystävyys, hypnotismi_ ja niin edelleen). He voivat halutessaan luopua tästä vastustuskyvystä ja hyväksyä taian vaikutukset.
+- **Tarkka näkö:** Terävän näkökykynsä ansiosta puolihaltijoiden on yhden asteen helpompaa tehdä havaintoheittoja huomatakseen jotain.
+- **Hiiviskely:** Puolihaltijoiden, jotka käyttävät vain kevyttä haarniskaa, on 1 asteen helpompaa tehdä hiiviskelytestejä.
 
 ---
 ### Puoliörkki
 
-Maailman villimmillä rajaseuduilla örkkien ja ihmisten väliset konfliktit johtavat puoliörkkeihin. Geneettisesti heillä on enemmän örkkipiirteitä: he ovat ihmistä pidempiä, heillä on suuret hampaat, ulkoneva leuka ja vihertävä iho. He ovat luonnostaan sotaisia. Muut rodut suhtautuvat heihin epäluuloisesti, paitsi usein puolihaltiat, jotka ymmärtävät hyljeksityn elämää. Puoliörkit elävät noin 80-vuotiaiksi.
+Maailman villimmillä rajaseuduilla, missä örkit ja ihmiset joutuvat ristiriitoihin, syntyvät puoliörkit tämän kahden rodun epätodennäköisen liiton seurauksena. Geneettisesti puoliörkeillä on enemmän örkkipiirteitä kuin ihmispiirteitä; he ovat keskimäärin pidempiä kuin ihmiset, heillä on suuret, näkyvät hampaat, ulkoneva alaleuka ja vihertävä iho, jota peittävät karkeat tummat karvat. He ovat luonnostaan sotaisia, eivätkä he ole kiinnostuneita hienostuneemmista harrastuksista. Puoliörkit ovat huonoissa väleissä muiden rotujen kanssa örkkiverensä vuoksi, ja vihamielisyys haltijoita ja kääpiöitä kohtaan on suurinta; mutta ajan myötä luottamus voi kehittyä jopa näiden epätodennäköisten rotujen kanssa. Kaikista roduista puolihaltijat ovat yleensä myötätuntoisimpia, ymmärtäen hyljeksityn elämän liiankin hyvin. Kumma kyllä, maahiset ja puolituiset ovat yleensä hyväksyviä puoliörkkejä kohtaan – ensimmäiset siksi, että puoliörkit ymmärtävät vitsejä, ja jälkimmäiset uteliaan ja hyväksyvän luonteensa vuoksi. Puoliörkkien luonnollinen elinikä on noin 80 vuotta.
 
 #### Kulttuuri
 
-Puoliörkeillä ei ole kotimaata. He kasvavat yleensä örkkiheimoissa tai ihmisten keskuudessa. He jakavat kasvattajansa kulttuurin.
+Kuten puolihaltijoilla, puoliörkeillä ei ole kotimaata, ja he asuvat useimmiten örkkiheimoissa. Ne, jotka eivät asu örkkien keskuudessa, suuntautuvat ihmisten maille. Koska yhteiskunta ei usein hyväksy heitä, puoliörkit ajautuvat yleensä väkivaltaisiin ammatteihin, jotka sopivat heidän suureen voimaansa ja luonteeseensa, löytäen usein kumppanuutta seikkailijoiden keskuudesta, joista monet ovat itsekin vaeltajia ja ulkopuolisia. Puoliörkit jakavat yleensä sen rodun kulttuurin, joka heidät kasvatti. Esimerkiksi, jos heidät kasvatettiin ihmisten keskuudessa, he jakavat ihmisvanhempansa kulttuurin; jos örkkien keskuudessa, he jakavat örkkivanhempansa kulttuurin.
 
 #### Taidot
 
-- **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40, Kieli (örkki) +40.
-- **Vakiotaidot:** Valitse ihmiskulttuurista tai örkkien listasta: Yleisurheilu, Voima, Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi; ja joko Veneily, Väistäminen tai Ratsastus.
-- **Ammattitaidot:** Valitse ihmiskulttuurista tai örkkien listasta: Käsityö, Parantaminen, Pelottelu, Tieto, Musisointi, Navigointi, Selviytyminen, Jäljittäminen.
+- **Ilmaiset taidot:** Tavat +40, Kieli (Yleiskieli) +40, Kieli (Örkki) +40.
+- **Perustaidot:** Valitse ihmiskulttuurista tai seuraavalta örkkien taitolistalta: Urheilu, Voima, Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi; sekä joko Veneily, Väistö tai Ratsastus.
+- **Ammattitaidot:** Valitse ihmiskulttuurista tai seuraavalta örkkien taitolistalta: Käsityö (mikä tahansa), Parantaminen, Pelottelu, Tieto (mikä tahansa), Musisointi, Navigointi, Selviytyminen, Jäljittäminen.
 
-#### Arvomaailma ja intohimot
+_\* Hahmon luonnin aikana, jos kasvatettu örkkien toimesta, lisäkielet rajoittuvat hiiden, hobhiiden, örkkien ja gnollien kieliin. Jos kasvatettu ihmisten toimesta, kielivalinnat ovat rajoittamattomia, jos osaat perustella valinnan._
 
-Valitse ihmiskulttuurista tai örkkien listasta (jos kasvatettu örkkiyhteisössä). Tyypillisesti Lawful Evil (Lakihenkinen Paha).
+#### Suuntautuminen ja intohimot
 
-#### Erikoissäännöt
+Valitse ihmiskulttuurista tai seuraavista örkkien intohimoista, jos kasvatettu örkkiyhteiskunnassa:
 
-- **Liike:** 20 jalkaa.
-- **Pimeänäkö:** Kuten tontuilla/kääpiöillä.
-- **Lukutaidottomuus:** Jos kasvatettu örkkien keskuudessa, lukutaito on opeteltava erikseen.
-- **Selviytymisbonus:** Jos kasvatettu örkkien keskuudessa, Selviytymisheitot ovat yhden asteen helpompia alkuperäisalueella.
+- **Suuntautuminen:** Mikä tahansa, mutta yleensä Laillinen Paha, jos kasvatettu örkkien toimesta. Valitse yksi tai kaksi kultakin listalta tai valitse eri suuntautuminen. Tai ihmisvanhemman mukaan.
+  - **Laillinen** (Perinteiden noudattaminen, laskelmoiva, ennakkoluuloinen, heikko mukautuvaisuus)
+  - **Paha** (Kaltoinkohteleva, julma, hallitseva, nauttii viattomien vahingoittamisesta, vihaa hyvää, armoton, sadistinen, orjakauppias, ilkeä)
+- **Intohimo (Kasvatettu örkkinä):** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
+  - Uskollisuus klaanin päällikölle
+  - Rakkaus (ystävä, sisarus tai romanttinen kumppani)
+  - Viha (magia, olento, kilpailija tai klaani)
+- **Intohimo (Kasvatettu ihmisenä):** Valitse sopivalta ihmisten listalta.
+
+#### Erityissäännöt
+
+- **Liikkuminen:** 20 jalkaa.
+- **Pimeänäkö:** Puoliörkkien pimeänäkö mahdollistaa näkemisen 60 jalkaan asti hämärässä valossa kuin se olisi kirkasta valoa (tavanomaiset havaintoheitot jonkin havaitsemiseksi) ja pimeydessä kuin se olisi hämärää valoa (havaintoheitot jonkin havaitsemiseksi ovat vaikeita). Pimeyden sisällä he erottavat värit vain harmaan sävyinä. Pimeänäkö ei mahdollista näkemistä taianomaisessa pimeydessä.
+- **Lukutaidottomuus:** Jos kasvatettu örkkien toimesta, puoliörkit ovat yleensä lukutaidottomia. He voivat oppia lukemaan käyttämällä 1 kokemusheiton ja kuukauden koulutuksen hahmolta, joka on lukutaitoinen halutussa kielessä. Tämä antaa heille peruslukutaidon, joka vastaa puolta taitotasoa yhdessä hahmon tuntemassa kielessä. Haluttaessa toinen kokemusheitto ja kuukauden koulutus antavat täyden lukutaidon. Pelin aikana uusia kieliä opittaessa voidaan olettaa, että he oppivat ne täydellä lukutaidolla. Toisessa kulttuurissa kasvatetut puoliörkit ovat lukutaitoisia, jos kyseinen kulttuuri on lukutaitoinen.
+- **Selviytymisbonus (Erityinen):** Jos kasvatettu örkkien toimesta, puoliörkkien on yhden asteen helpompaa tehdä kaikki alkuperäiseen ympäristöönsä liittyvät selviytymisheitot.
 
 ---
-### Puolituiset (Halfling)
+### Puolituinen
 
-Rauhallisia, sivistyneitä kansoja, jotka elävät maanviljelyksellä. 120–130 cm pitkinä he ovat lyhyempiä kuin kääpiöt, mutta pidempiä kuin tontut. He ovat vähiten seikkailunhaluisia. Heidät voidaan sekoittaa lapsiin, mutta heillä on terävät korvat ja suuret, karvaiset jalat. He eivät käytä kenkiä.
+Rauhalliset, sivistyneet ihmiset, jotka elävät pääosin maataloudessa, ovat pienikokoisia humanoideja, jotka ovat keskimäärin 4'0" – 4'3" (n. 122–130 cm) pitkiä, eli lyhyempiä kuin kääpiöt, mutta pidempiä kuin maahiset. Heidän kotinsa ovat maatiloja ja tiloja, ja kylät muodostavat tiiviitä yhteisöjä. Puolituiset ovat vähiten seikkailunhaluisia roduista ja he voivat jäädä suurelta osin huomaamatta, sillä he eivät muodosta uhkaa kenellekään.
 
-Puolituiset ovat uteliaita, he rakastavat salaisuuksia ja tarinoita. Vaikka he ovat varovaisia, he eivät ole pelkureita. He ovat pitkäikäisiä, eläen noin 170-vuotiaiksi.
+Ensi silmäyksellä puolituiset saattavat sekoittua lapsiin, mutta erot ovat ilmeisiä tarkemmin tarkasteltaessa. Puolituistilla on terävät korvat, ja ihon, hiusten ja silmien värit vaihtelevat normaalisti. Heillä on suuret, rosoiset jalat, jotka ovat ylisuuret vartaloon nähden ja yleensä melko karvaiset. Kengät ja saappaat vältetään; jalkapohjat ovat erittäin paksut, mikä antaa enemmän kuin riittävän suojan kiviä ja soraa vastaan.
+
+Vaikka he ovat yleisesti ottaen seikkailunhaluttomia, puolituiset ovat uteliaita. He haluavat tietää ja jakaa salaisuuksia. He rakastavat tarinoita, myyttejä ja faabeleita ja heillä on tutkiva mieli. Tämä tarkoittaa, että maailma on ulkomailla ollessa kiehtova paikka, jota tutkia ja kokea – ja tämä voi johtaa puolituistia vaikeuksiin. Muuten puolituiset ovat varsin proosallinen, tyytyväinen rotu, joka pysyy omana itsenään ja ei halua puuttua laajempaan maailmaan eikä antaa sen puuttua itseensä.
+
+Useimmille muille roduille puolituiset ovat lyhyitä, karvajalkaisia kleptomaaneja – näkemys ei ole täysin perusteeton, sillä useimmat seikkailuun lähtevät voivat helposti sisällyttää pienen hiiviskelyn ja juonittelun pieneen kokoonsa ja nopeisiin sormiinsa, mutta muitakin luokkia voi ja on olemassa. On olemassa vanha kääpiöiden sanonta: "Jos puolituinen on seurueessasi, tarkista rahakukkaro; jos se puuttuu, tarkista hänen omansa."
+
+Vaikka he ovat fyysisesti pienempiä ja heikompia kuin useimmat muut älykkäät lajit, puolituiset kompensoivat sen tietynlaisella näppäryydellä, joka palvelee heitä kiperissä tilanteissa. Vaikka he ovat varovaisia, he eivät ole pelkureita: puolituiset saattavat sanoa olevansa, mutta kun on kyse kotiensa ja elämäntapansa puolustamisesta, he pystyvät kutsumaan esiin valtavia rohkeuden varastoja. Lyhyesti sanottuna puolituiset ovat hyviä pelaajahahmoja, erityisesti niille pelaajille, jotka suosivat hiiviskelyä rohkeasti nummilla kulkemisen sijaan. He ovat pitkäikäisiä, eliniän ollessa noin 170 vuotta.
 
 #### Kulttuuri
 
-Puolituisten kulttuuri on samankaltainen kuin Sivistynyt. He elävät pienissä yhteisöissä (shires). He eivät yleensä lähde kotoaan, vaan nauttivat rauhallisesta elämästä.
+Puolituisten kulttuuri on samankaltainen kuin Sivistynyt. He asuvat pienissä yhteisöissä nimeltä kreivikunnat (shires), tiiviissä kylissä ja pienissä kaupungeissa, joissa useat laajennetut perheet muodostavat yhteisön perustan. Heidän teollisuutensa on perusmuotoista: ensisijaisesti maataloutta, mutta myös käsitöitä, kuten keramiikkaa, kudontaa, nahanmuokkausta ja tekstiilejä. He työstävät metalleja, mutta hyvin harvoin aseita ja haarniskoja varten. Kuten haltijat, useimmat puolituiset eivät koskaan jätä yhteisöjään. Sen sijaan he viettävät mieluummin aikaa kotona syöden kaksitoista ateriaa päivässä, polttaen piippua ja juoden samalla seurustellen ystävien ja läheisten kanssa. Mutta silloin tällöin tulee puolituinen, joka saa seikkailunhalun. Yleinen kulttuuriyksikkö puolituistille on "Riding" (ratsastusalue); alue, jota rajaa kolme kreivikuntaa, mikä tekee jokaisen ratsastusalueen koosta huomattavasti vaihtelevan. "Borough" (kaupunginosa) muodostuu kolmesta ratsastusalueesta.
 
 #### Taidot
 
-- **Ilmaiset taidot:** Tavat +40, Kieli (yhteiskieli) +40, Kieli (puolituisen kieli) +40
-- **Vakiotaidot:** Tanssi tai Laulu, Väistäminen, Tarkkaavaisuus, Paikallistuntemus, Havainnointi, Hiipiminen, Tahdonvoima
-- **Ammattitaidot:** Taide, Kaupankäynti, Käsityö, Kohteliaisuus, Kieli (mikä tahansa\*), Tieto, Musisointi, Katutuntemus.
+- **Ilmaiset taidot:** Tavat +40, Kieli (Yleiskieli) +40, Kieli (Puolituinen) +40
+- **Perustaidot:** Tanssi tai Laulu, Väistö, Oivallus, Paikallistuntemus, Havainnointi, Hiiviskely, Tahdonvoima
+- **Ammattitaidot:** Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Kohteliaisuus, Kieli (mikä tahansa*), Tieto (mikä tahansa), Musisointi, Kaduntuntemus.
 
-#### Arvomaailma ja intohimot
+_\* Hahmon luonnin aikana lisäkielet rajoittuvat kääpiöiden, haltijoiden, maahisten, hiisien ja örkkien kieliin._
 
-- **Arvomaailma:** Mikä tahansa, tyypillisesti Lawful Good (Lakihenkinen Hyvä).
-- **Intohimo:** Mikä tahansa, tyypillisesti uskollisuus kotiseudulle, rakkaus johonkin tunteelliseen tai viha raskasta teollisuutta kohtaan.
+#### Suuntautuminen ja intohimot
 
-#### Erikoissäännöt
+- **Suuntautuminen:** Mikä tahansa, mutta yleensä Laillinen Hyvä. Valitse yksi tai kaksi kultakin listalta tai valitse eri suuntautuminen.
+  - **Laillinen** (Rehellinen, kunniallinen, luotettava, luottavainen, hyväkäytöksinen)
+  - **Hyvä** (Ihaillun arvoinen, epäitsekäs, hyväntekeväinen, omatunnontarkka viattomien vahingoittamisen suhteen, säädyllinen, eettinen, anteeksiantava, ystävällinen, vihaa pahuutta, avulias, ystävällinen, rakastaa luontoa, armollinen, optimistinen, positiivinen, kasvissyöjä)
+- **Intohimo:** Mikä tahansa, mutta yleensä yksi tai kaksi seuraavista:
+  - Uskollisuus (kreivikunnalle, ratsastusalueelle tai kaupunginosalle)
+  - Rakkaus (jokin tunteellinen)
+  - Viha (raskas teollisuus)
 
-- **Liike:** 15 jalkaa.
-- **Lukutaito:** Osaavat lukea ja kirjoittaa kieliä, joita he puhuvat.
-- **Taikuuden vastustus:** Kuten kääpiöillä (Tahdonvoima-heitot yhden asteen helpompia).
-- **Myrkynvastustus:** Kuten kääpiöillä (yhden asteen helpompi).
-- **Hiipijä:** Kuten haltioilla (Hiipiminen yhden asteen helpompaa).
-- **Sietokyky (jalat):** Puolituiset eivät kärsi paljain jaloin kulkemisesta lämpötilavaihteluista riippumatta. Muualle kehoon altistuminen vaikuttaa normaalisti.
+#### Erityissäännöt
+
+- **Liikkuminen:** 15 jalkaa.
+- **Lukutaito:** Puolituiset osaavat yleensä lukea ja kirjoittaa kaikkia kieliä, joita he puhuvat.
+- **Magian vastustuskyky:** Kuten kääpiöt, puolituiset ovat erittäin vastustuskykyisiä arkaaniselle magialle, ja tahdonvoimatarkistukset ovat yhden asteen helpompia, kun niitä käytetään vastustamiseen. Tällä vastustuskyvyllä ei ole vaikutusta jumalalliseen magiaan.
+- **Myrkkyjen vastustuskyky:** Puolituiset ovat myös erittäin vastustuskykyisiä myrkylle, ja myrkkyihin liittyvät kestävyysheitot ovat yhden asteen helpompia.
+- **Hiiviskely:** Puolituisten, jotka käyttävät vain kevyttä haarniskaa, on 1 asteen helpompaa tehdä hiiviskelytestejä.
+- **Altistumisen sietokyky (Jalat):** Puolituinen ei kärsi haitallisista vaikutuksista altistuessaan kulkiessaan paljain jaloin lämpötilasta riippumatta. Muun kehon osalta he kärsivät altistumisesta normaalisti.

@@ -1,374 +1,372 @@
 # 2 skyrius: Kultūra ir rasės
 
-Toliau pateikiamas kiekvienos rasinės kilmės aprašymas, įtraukiant atitinkamų įgūdžių premijų sąrašą. Žaidėjai, pasirinkę žmogaus personažą, privalo detaliau apibrėžti savo veikėją pasirinkdami tinkamą kultūrą. Žaidėjai turėtų nedelsdami pritaikyti įgūdžių premijas standartiniams savo veikėjo lapo įgūdžiams ir į atitinkamą lapo skiltį įrašyti papildomus naujus įgūdžius, vadinamus profesiniais įgūdžiais (pristatomi kitame skyriuje). Daugeliu atvejų rasė pateikia įgūdžių sąrašą ir kviečia žaidėją pasirinkti vieną ar kelis iš jų, kurie gaus premiją: tokiu būdu žaidėjai iš identiškos rasinės kilmės gali užtikrinti, kad jų nuotykių ieškotojai bus skirtingi tose srityse, kurias jie lavino.
+Toliau pateikiamas kiekvienos rasinės kilmės aprašymas, įtraukiantis tinkamų įgūdžių premijų sąrašą. Žaidėjai, pasirinkę žmogaus personažą, turi papildomai apibrėžti savo personažą pagal atitinkamą kultūrą. Žaidėjai turėtų nedelsdami pritaikyti įgūdžių premijas standartiniams įgūdžiams savo personažo lape ir į atitinkamą lapo skiltį įrašyti papildomus naujus įgūdžius, vadinamus profesiniais įgūdžiais (pristatomais kitame skyriuje). Daugeliu atvejų rasė pateikia įgūdžių sąrašą ir kviečia žaidėją pasirinkti vieną ar kelis, kurie gaus premiją: tokiu būdu žaidėjai iš identiškos rasinės kilmės gali užtikrinti, kad jų nuotykių ieškotojai skiriasi tose srityse, kurias jie lavino.
 
-Taip pat atkreipkite dėmesį, kad kiekviena rasė turi tipinę pasaulėžiūrą (Alignment) ir keletą aistrų (Passions) (žr. [4 skyrių: Pasaulėžiūra ir aistros](0004_Alignment_and_Passions.md)). Pasaulėžiūra ir aistros gali suteikti daug gylio ir charakteristikos jūsų kuriamam nuotykių ieškotojui, apibrėžiant įsišaknijusius polinkius ir išankstinius nusistatymus, taip pat nustatant veikėjo moralines vertybes.
+Taip pat atkreipkite dėmesį, kad kiekviena rasė turi būdingą pasaulėžiūrą ir keletą aistrų (žr. [4 skyrius: Pasaulėžiūra ir aistros](0004_Alignment_and_Passions.md)). Pasaulėžiūra ir aistros gali suteikti daug gylio ir charakteristikos kuriamam nuotykių ieškotojui, apibrėžiant įsišaknijusius polinkius ir išankstines nuostatas, taip pat personažo moralines vertybes.
 
 ---
 ## Žmonės
 
-Žmonės gali gyventi beveik bet kurioje fantazijų pasaulio vietoje ir tam tikru metu gali turėti kontaktų su bet kuria rūšimi. Kai kurios pusiau žmonių ir humanoidų rasės laiko žmones ištikimiausiais sąjungininkais; kitos vertina juos kaip pačius kerštingiausius priešus. Jie gali sulaukti beveik 100 metų amžiaus, kartais net viršyti jį, nors natūraliai tai pasitaiko retai. Žmonės linkę greitai mokytis ir yra labiau prisitaikantys prie pokyčių nei bet kuri kita rasė. Daugelis tiki, kad žmonės yra dievų išrinktoji rasė – šis tikėjimas turi pagrindo, nes panašu, kad pusiau žmonių rasės nyksta, palyginus su žmonėmis. Žinoma, kai kurios pusiau žmonių rasės tai priskiria godžiai žmonių ekspansijos prigimčiai.
+Žmonės gali gyventi beveik bet kurioje fantazijų pasaulio vietoje ir vienaip ar kitaip bendrauti su bet kuria rūšimi. Kai kurios pusiau žmonių ir humanoidų rasės laiko žmones savo ištikimiausiais sąjungininkais; kitos mato juos kaip pačius kerštingiausius priešus. Jie gali pasiekti beveik 100 metų amžių, kartais net viršyti jį, nors natūraliai tai nutinka retai. Žmonės linkę greitai mokytis ir yra labiau prisitaikantys prie pokyčių nei bet kuri kita rasė. Daugelis tiki, kad žmonės yra dievų išrinktoji rasė – tikėjimas, kuris nėra be pagrindo, nes pusiau žmonių rasės, palyginus su žmonėmis, atrodo, nyksta. Žinoma, kai kurios pusiau žmonių rasės tai priskiria godžiai žmogaus plėtros prigimčiai.
 
 ### Žmonių kultūra
 
-Iš visų žaidžiamų rasių tik žmonės renkasi atskirą kultūrą, kuri padeda jiems geriau save apibrėžti. Atkreipkite dėmesį, kad kiekviena kultūra gali būti dar detalesnė ir pritaikyta tam tikram regionui. Pusiau žmonės, palyginus, yra mažiau paplitę, todėl jų kultūra yra vienalytė ir visiškai integruota į jų rasę. Toliau pateikta informacija detaliai aprašo keturis žmonių kultūrų tipus.
+Iš visų žaidžiamų rasių tik žmonės renkasi atskirą kultūrą, kuri padeda jiems geriau save apibrėžti. Atkreipkite dėmesį, kad kiekviena kultūra gali būti dar detalesnė ir gali būti pakoreguota taip, kad būtų labai specifinė regionui. Pusiau žmonės, palyginus, yra mažiau paplitę, todėl jų kultūra yra homogeniškesnė ir visiškai įtraukta į jų rasę. Toliau pateiktoje informacijoje išsamiai aprašomi keturi žmonių kultūrų tipai.
 
 ---
 ### Barbariška
 
-Gentinės prigimties barbarai linkę vengti civilizacijos, laikydami dideliuose miestuose gyvenančius žmones silpnais ir sugadintais. Nors jų pačių gyvenvietės taip pat sėslios, jos paprastai yra daug mažesnės ir artimesnės gamtai. Barbarų gentys užima atskiras teritorijas, dažnai pusiau prijaukintą laukinę gamtą, kurią laiko sava medžioklės, ganymo ir žemdirbystės tikslais. Dauguma yra įgudę naudotis ginklais, nes per savo gyvenimą turi įveikti daugybę pavojų – susidurti su laukinės gamtos padarais arba susirinkti ginti savo žemių nuo konkuruojančių genčių. Kadangi jie gyvena mažose bendruomenėse, giminystės ir klano ryšiai yra stiprūs jų visuomenės elementai.
+Barbariškos kultūros žmonės yra gentinės prigimties ir dažniausiai vengia civilizacijos, laikydami dideliuose miestuose gyvenančius žmones silpnais ir korumpuotais. Nors jų pačių gyvenvietės taip pat yra sėslios, jos dažniausiai yra daug mažesnės ir arčiau gamtos. Barbarų gentys užima atskiras teritorijas, dažnai pusiau sutramdytą laukinę gamtą, kurią jie laiko sava medžioklės, ganyklų ir ūkininkavimo tikslais. Dauguma yra įgudę naudotis ginklais, nes per savo gyvenimą turi įveikti daugybę pavojų – susidurti su laukinių gyvūnų padarais arba susirinkti ginti savo žemių nuo varžovų genčių. Kadangi jie gyvena mažose bendruomenėse, giminystės ir klano ryšiai yra stiprūs jų visuomenės elementai.
 
 #### Įgūdžiai
 
 - **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40
-- **Standartiniai įgūdžiai:** Atletika, Jėga, Ištvermė, Pirmoji pagalba, Vietovės išmanymas, Suvokimas; ir plaukiojimas valtimi arba jojimas
-- **Profesiniai įgūdžiai:** Amatas (bet koks), Gydymas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Navigacija, Jūreivystė, Išgyvenimas, Pėdsekystė
+- **Standartiniai įgūdžiai:** Atletika, Jėga, Ištvermė, Pirmoji pagalba, Vietovė, Suvokimas; ir Plaukiojimas arba Jojimas
+- **Profesiniai įgūdžiai:** Amatas (bet koks), Gydymas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Navigacija, Jūrininkystė, Išgyvenimas, Pėdsakų sekimas
 
-_\* Kuriant veikėją, žmonės nėra ribojami kalbų pasirinkime, jei gali pagrįsti šį pasirinkimą._
+_\* Žmonės, kurdami personažą, nėra ribojami kalbų pasirinkimo, jei gali pateisinti pasirinkimą._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar du iš etikos kodekso (Įstatymiškas, Neutralus arba Chaotiškas) ir vieną ar du iš moralės kodekso (Geras, Neutralus arba Blogas). Arba pasirinkite vieną ar du iš Visiškai neutralaus.
-- **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
-  - Lojalumas klano vadui
-  - Meilė (draugui, broliui/seseriai ar romantiniam partneriui)
-  - Neapykanta (magijai, padarui, konkurentui ar klanui)
+- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar dvi iš etikos kodekso (Įstatymiška, Neutrali arba Chaotiška) ir vieną ar dvi iš moralės kodekso (Gera, Neutrali arba Bloga). Arba pasirinkite vieną ar dvi iš Visiškai neutralios.
+- **Aistra:** Bet kokia, bet dažniausiai viena ar dvi iš šių:
+  - Lojalumas klanų vadui
+  - Meilė (draugui, broliui/seseriai arba romantiniam partneriui)
+  - Neapykanta (magijai, padarui, varžovui ar klanui)
 
-#### Specialios taisyklės
+#### Specialiosios taisyklės
 
-- **Judesys:** 20 pėdų.
-- **Išgyvenimo premija (specifinė):** Barbarams visi išgyvenimo (Survival) metimai, susiję su jų kilmės vieta, yra vienu laipsniu lengvesni.
-- **Pakantumas sąlygoms:** Barbarai patiria mažesnį neigiamą poveikį dėl temperatūros kraštutinumų, susijusių su jų kilmės vieta. Pavyzdžiui, jei jie kilę iš šalto klimato, net lengvai apsirengusiems barbarams suteikiamas malonės laikotarpis, lygus jų KON valandomis, prieš pasireiškiant poveikiui. Tinkami drabužiai šį laiką pailgintų iki dvigubo jų KON valandomis. Po šio taško jie turi ieškoti prieglobsčio arba pradėti patirti nuovargio (Fatigue) nuostolį. Dėl papildomos informacijos žr. Oro sąlygų lenteles XX puslapyje.
-- **Neraštingi:** Barbarai paprastai nemoka skaityti ir rašyti. Jie gali išmokti raštingumo išleisdami 1 patirties metimą (Experience Roll) ir mėnesį mokydamiesi pas veikėją, kuris moka skaityti pageidaujama kalba. Tai suteikia jiems pagrindinį raštingumą, lygų pusei įgūdžio lygio viena iš veikėjo žinomų kalbų. Jei pageidaujama, dar 1 patirties metimas ir mėnesio treniruotės suteiks visišką raštingumą. Mokantis naujų kalbų žaidimo metu, galima daryti prielaidą, kad jie mokosi jų visišku raštingumo lygiu.
-- **Sėkmingi:** Žmonės pradeda turėdami vieną papildomą Sėkmės tašką (Luck Point).
+- **Judėjimas:** 20 pėdų.
+- **Išgyvenimo premija (specifinė):** Barbarams visi Išgyvenimo (Survival) metimai, susiję su jų kilmės vietove, yra vienu laipsniu lengvesni.
+- **Tolerancija aplinkos poveikiui:** Barbarai patiria sumažintą poveikį dėl temperatūros kraštutinumų, susijusių su jų kilmės vietove. Pavyzdžiui, jei jie kilę iš šalto klimato, net lengvai apsirengusiems barbarams būtų suteiktas malonės laikotarpis, lygus jų IŠT valandomis, prieš prasidedant poveikiui. Dėvint tinkamus drabužius, šis laikas pailgėtų iki dvigubai jų IŠT valandomis. Po to jiems reikia ieškoti prieglobsčio arba pradėti patirti nuovargio (Fatigue) praradimą. Daugiau informacijos rasite Orų lentelėse XX puslapyje.
+- **Neraštingumas:** Barbarai paprastai nemoka skaityti ir rašyti. Jie gali išmokti raštingumo praleidę 1 patirties metimą ir mėnesį mokymų pas personažą, kuris yra raštingas pageidaujama kalba. Tai suteikia jiems pagrindinį raštingumą, lygų pusei įgūdžio lygio viena kalba, kurią personažas moka. Jei pageidaujama, dar 1 patirties metimas ir mėnesį mokymų suteiks jiems visišką raštingumą. Mokantis naujų kalbų žaidimo metu, galima daryti prielaidą, kad jie mokosi jas visiškai raštingu lygiu.
+- **Sėkmingas:** Žmonės pradeda su vienu papildomu Sėkmės tašku.
 
 ---
-### Civilizuoti
+### Civilizuota
 
-Civilizuotą kultūrą geriausiai apibūdina įstatymo ir tvarkos regimybė, paremta sudėtingais socialiniais kodeksais ir palaikoma biurokratijos. Civilizuoti žmonės laiko save pranašesniais už visas kitas kultūras, nes jų pasiekimai linkę būti ilgalaikiai: besidriekiantys miestai, įspūdingos šventyklos, šventiniai paminklai ir istorijos bei įvykių fiksavimas knygose, tomuose ir ritiniuose. Žinoma, tai tik plonas sluoksnis. Patys civilizuočiausi miestai gali būti labiau netvarkingi nei bet kuri barbarų pasienio gyvenvietė; o socialiniai kodeksai gali būti primityvesni nei klajoklių svetingumo ritualai. Tačiau civilizuota kultūra didžiuojasi savo pasiekimais, infrastruktūra, profesionaliais amatininkais ir gebėjimu lengvai plėsti savo įtaką visur, kur tik nori.
+Civilizuota kultūra pasižymi įstatymų ir tvarkos išvaizda, paremta sudėtingais socialiniais kodeksais ir palaikoma biurokratijos. Civilizuoti žmonės laiko save pranašesniais už visas kitas kultūras, nes jų pasiekimai linkę išlikti ilgam: besidriekiantys miestai, įspūdingos šventyklos, šventiniai paminklai ir istorijos bei įvykių fiksavimas knygose, tomuose ir ritiniuose. Žinoma, tai tik plonas sluoksnis. Patys civilizuočiausi miestai gali būti labiau netvarkingi nei bet kuri barbarų pasienio gyvenvietė; o socialiniai kodeksai gali būti grubesni nei klajoklių svetingumo ritualai. Tačiau civilizuota kultūra didžiuojasi savo pasiekimais, infrastruktūra, profesionaliais amatininkais ir galimybe lengvai išplėsti savo įtaką ten, kur tik nori.
 
 #### Įgūdžiai
 
 - **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40
-- **Standartiniai įgūdžiai:** Slėpimas, Apgaulė, Vairavimas, Įtaka, Įžvalga, Vietovės išmanymas, Valia
-- **Profesiniai įgūdžiai:** Menas (bet koks), Prekyba, Amatas (bet koks), Mandagumas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Gatvės išmanymas.
+- **Standartiniai įgūdžiai:** Slėpimasis, Apgaulė, Vežimėlio valdymas, Įtaka, Įžvalga, Vietovė, Valia
+- **Profesiniai įgūdžiai:** Menas (bet koks), Prekyba, Amatas (bet koks), Mandagumas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Gatvės išmintis.
 
-_\* Kuriant veikėją, žmonės nėra ribojami kalbų pasirinkime, jei gali pagrįsti šį pasirinkimą._
+_\* Žmonės, kurdami personažą, nėra ribojami kalbų pasirinkimo, jei gali pateisinti pasirinkimą._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar du iš etikos kodekso (Įstatymiškas, Neutralus arba Chaotiškas) ir vieną ar du iš moralės kodekso (Geras, Neutralus arba Blogas). Arba pasirinkite vieną ar du iš Visiškai neutralaus.
-- **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
+- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar dvi iš etikos kodekso (Įstatymiška, Neutrali arba Chaotiška) ir vieną ar dvi iš moralės kodekso (Gera, Neutrali arba Bloga). Arba pasirinkite vieną ar dvi iš Visiškai neutralios.
+- **Aistra:** Bet kokia, bet dažniausiai viena ar dvi iš šių:
   - Lojalumas miestui
-  - Meilė (draugui, broliui/seseriai ar romantiniam partneriui)
-  - Neapykanta (konkurentui, gaujai, rajonui ar miestui)
+  - Meilė (draugui, broliui/seseriai arba romantiniam partneriui)
+  - Neapykanta (varžovui, gaujai, rajonui ar miestui)
 
-#### Specialios taisyklės
+#### Specialiosios taisyklės
 
-- **Judesys:** 20 pėdų.
-- **Raštingi:** Tie, kurie kilę iš civilizuotų regionų, paprastai moka skaityti ir rašyti bet kokia kalba, kuria šneka.
-- **Sėkmingi:** Žmonės pradeda turėdami vieną papildomą Sėkmės tašką.
+- **Judėjimas:** 20 pėdų.
+- **Raštingumas:** Civilizuotų regionų gyventojai paprastai moka skaityti ir rašyti bet kokia kalba, kuria gali kalbėti.
+- **Sėkmingas:** Žmonės pradeda su vienu papildomu Sėkmės tašku.
 
 ---
-### Klajokliai
+### Klajokliška
 
-Klajokliai nuolat juda, neturėdami nuosavų namų ir židinio. Jie gali klaidžioti be tikslo arba turėti keletą stovyklų, tarp kurių juda ištisus metus. Jie augina mažai pasėlių, o vietoj to seka gyvūnų ar žuvų migraciją, galbūt net gano savo prijaukintus gyvulius. Klajokliai yra įgudę išgyventi iš to, ką gali greitai ir lengvai surinkti iš aplinkos, neleisdami niekam nueiti veltui. Klajoklių kultūros įgūdžiai turėtų būti pritaikyti jų aplinkai. Vieni pėsčiomis nukeliauja didžiulius atstumus, kiti gyvena karavanuose ar joja ant keistų būtybių, o treti dreifuoja vandenynais didžiuliais plaukiojančiais plaustais.
+Klajokliai yra nuolat kelyje, neturintys savo namų ir židinio. Jie gali klaidžioti be tikslo arba turėti keletą stovyklų, į kurias keliauja ištisus metus. Jie augina mažai kultūrų ir vietoj to seka gyvūnų ar žuvų migraciją, galbūt net gano savo prijaukintus gyvulius. Klajokliai yra įgudę išgyventi iš to, ką gali greitai ir lengvai surinkti iš aplinkos, nieko neišmesdami veltui. Klajoklių kultūros įgūdžiai turėtų būti pritaikyti jų aplinkai. Vieni keliauja didelius atstumus pėsčiomis, kiti gyvena karavanuose arba joja keistais padarais, o kai kurie plaukioja vandenynais dideliais plūduriuojančiais plaustais.
 
 #### Įgūdžiai
 
 - **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40.
-- **Standartiniai įgūdžiai:** Ištvermė, Pirmoji pagalba, Vietovės išmanymas, Suvokimas, Slapstymasis; ir du iš šių: Atletika, Plaukiojimas valtimi, Plaukimas, Vairavimas arba Jojimas (priklausomai nuo pagrindinio keliavimo būdo).
-- **Profesiniai įgūdžiai:** Amatas (bet koks), Kultūra (bet kokia), Gydymas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Navigacija, Išgyvenimas, Pėdsekystė.
+- **Standartiniai įgūdžiai:** Ištvermė, Pirmoji pagalba, Vietovė, Suvokimas, Slaptumas; ir du iš šių: Atletika, Plaukiojimas, Plaukimas, Vežimėlio valdymas arba Jojimas, priklausomai nuo pagrindinio keliavimo būdo.
+- **Profesiniai įgūdžiai:** Amatas (bet koks), Kultūra (bet kokia), Gydymas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Navigacija, Išgyvenimas, Pėdsakų sekimas.
 
-_\* Kuriant veikėją, žmonės nėra ribojami kalbų pasirinkime, jei gali pagrįsti šį pasirinkimą._
+_\* Žmonės, kurdami personažą, nėra ribojami kalbų pasirinkimo, jei gali pateisinti pasirinkimą._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar du iš etikos kodekso (Įstatymiškas, Neutralus arba Chaotiškas) ir vieną ar du iš moralės kodekso (Geras, Neutralus arba Blogas). Arba pasirinkite vieną ar du iš Visiškai neutralaus.
-- **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
-  - Lojalumas genčių vadui/chanui
-  - Meilė (draugui, broliui/seseriai ar romantiniam partneriui)
-  - Neapykanta (padarui, konkurentui ar genčiai)
+- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar dvi iš etikos kodekso (Įstatymiška, Neutrali arba Chaotiška) ir vieną ar dvi iš moralės kodekso (Gera, Neutrali arba Bloga). Arba pasirinkite vieną ar dvi iš Visiškai neutralios.
+- **Aistra:** Bet kokia, bet dažniausiai viena ar dvi iš šių:
+  - Lojalumas genties vadui/chanui
+  - Meilė (draugui, broliui/seseriai arba romantiniam partneriui)
+  - Neapykanta (padarui, varžovui ar genčiai)
 
-#### Specialios taisyklės
+#### Specialiosios taisyklės
 
-- **Judesys:** 20 pėdų.
-- **Išgyvenimo premija (specifinė):** Klajokliams visi išgyvenimo metimai, susiję su jų kilmės vieta, yra vienu laipsniu lengvesni.
-- **Raštingi:** Kadangi jie bendrauja su daugeliu kitų rasių ir kultūrų, klajoklių kultūrų atstovai paprastai moka skaityti ir rašyti bet kokia kalba, kuria šneka.
-- **Sėkmingi:** Žmonės pradeda turėdami vieną papildomą Sėkmės tašką.
+- **Judėjimas:** 20 pėdų.
+- **Išgyvenimo premija (specifinė):** Klajokliams visi Išgyvenimo metimai, susiję su jų kilmės vietove, yra vienu laipsniu lengvesni.
+- **Raštingumas:** Kadangi jie bendrauja su daugeliu kitų rasių ir kultūrų, klajokliškų kultūrų atstovai paprastai moka skaityti ir rašyti bet kokia kalba, kuria gali kalbėti.
+- **Sėkmingas:** Žmonės pradeda su vienu papildomu Sėkmės tašku.
 
 ---
-### Primityvūs
+### Primityvioji
 
-Iš visų žmonių, primityvūs yra tie, kurie gyvena arčiausiai žemės, suderinę su jos paslaptimis. Gyvendami išplėstinėse šeimų grupėse, primityvios kultūros telkiasi aplink labai paprastus būstus, kurie gali svyruoti nuo urvų ir natūralių prieglobsčių iki pašiūrių ar labai paprastų trobelių. Primityvūs žmonės dažniausiai yra medžiotojai-rinkėjai su mažai išvystytomis arba visai neišvystytomis žemdirbystės ir gyvulininkystės sistemomis.
+Iš visų žmonių, primityviausi gyvena arčiausiai žemės, derindamiesi prie jos paslėptų paslapčių. Gyvendami didelėse šeimų grupėse, primityvios kultūros telkiasi aplink labai paprastus būstus, kurie gali būti nuo urvų ir natūralių prieglobsčių iki stoginių ar labai paprastų trobelių. Primityvūs žmonės paprastai yra medžiotojai-rinkėjai, turintys mažai arba prastai išvystytas ūkininkavimo ir gyvulininkystės sistemas.
 
-Tačiau tam tikri kultūriniai įsitikinimai, dažnai pagrįsti prietarais, gali būti labai aiškiai apibrėžti. Nedaug primityvių kultūrų išvystė ką nors panašaus į rašytinę kalbą, nors paveikslai ir kiti piktograminiai simboliai tarnauja kaip bendravimo priemonė.
+Tačiau tam tikri kultūriniai įsitikinimai, dažnai pagrįsti prietarais, gali būti labai aiškiai apibrėžti. Nedaugelis primityvių kultūrų sukūrė kažką panašaus į rašytinę kalbą, nors paveikslai ir kiti vaizdiniai simboliai tarnauja kaip bendravimo priemonė.
 
 #### Įgūdžiai
 
 - **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40.
-- **Standartiniai įgūdžiai:** Jėga, Ištvermė, Išsisukimas, Vietovės išmanymas, Suvokimas, Slapstymasis; ir vienas iš šių: Atletika, Plaukiojimas valtimi, Pirmoji pagalba arba Plaukimas.
-- **Profesiniai įgūdžiai:** Amatas (bet koks), Gydymas, Žinios (bet kokios), Kalba (bet kokia\*), Muzikavimas, Navigacija, Išgyvenimas, Pėdsekystė.
+- **Standartiniai įgūdžiai:** Jėga, Ištvermė, Evasija, Vietovė, Suvokimas, Slaptumas; ir vienas iš šių: Atletika, Plaukiojimas, Pirmoji pagalba arba Plaukimas.
+- **Profesiniai įgūdžiai:** Amatas (bet koks), Gydymas, Žinios (bet kokios), Kalba (bet kokia\*), Muzikavimas, Navigacija, Išgyvenimas, Pėdsakų sekimas.
 
-_\* Kuriant veikėją, žmonės nėra ribojami kalbų pasirinkime, jei gali pagrįsti šį pasirinkimą._
+_\* Žmonės, kurdami personažą, nėra ribojami kalbų pasirinkimo, jei gali pateisinti pasirinkimą._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar du iš etikos kodekso (Įstatymiškas, Neutralus arba Chaotiškas) ir vieną ar du iš moralės kodekso (Geras, Neutralus arba Blogas). Arba pasirinkite vieną ar du iš Visiškai neutralaus.
-- **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
-  - Lojalumas vadui/seniūnui
-  - Meilė (draugui, broliui/seseriai ar romantiniam partneriui)
-  - Neapykanta (kažkam, kas jus gąsdina ar baugina)
+- **Pasaulėžiūra:** Bet kokia, pasirinkite vieną ar dvi iš etikos kodekso (Įstatymiška, Neutrali arba Chaotiška) ir vieną ar dvi iš moralės kodekso (Gera, Neutrali arba Bloga). Arba pasirinkite vieną ar dvi iš Visiškai neutralios.
+- **Aistra:** Bet kokia, bet dažniausiai viena ar dvi iš šių:
+  - Lojalumas vadui/vyresniajam
+  - Meilė (draugui, broliui/seseriai arba romantiniam partneriui)
+  - Neapykanta (kažkam, kas jus gąsdina arba baugina)
 
-#### Specialios taisyklės
+#### Specialiosios taisyklės
 
-- **Judesys:** 20 pėdų.
-- **Išgyvenimo premija (specifinė):** Primityvioms kultūroms visi išgyvenimo metimai, susiję su jų kilmės vieta, yra vienu laipsniu lengvesni.
-- **Neraštingi:** Primityvūs žmonės paprastai nemoka skaityti ir rašyti. Jie gali išmokti raštingumo išleisdami 1 patirties metimą ir mėnesį mokydamiesi pas veikėją, kuris moka skaityti pageidaujama kalba. Tai suteikia jiems pagrindinį raštingumą, lygų pusei įgūdžio lygio viena iš veikėjo žinomų kalbų. Jei pageidaujama, dar 1 patirties metimas ir mėnesio treniruotės suteiks visišką raštingumą. Mokantis naujų kalbų žaidimo metu, galima daryti prielaidą, kad jie mokosi jų visišku raštingumo lygiu.
-- **Sėkmingi:** Žmonės pradeda turėdami vieną papildomą Sėkmės tašką.
+- **Judėjimas:** 20 pėdų.
+- **Išgyvenimo premija (specifinė):** Primityvioms kultūroms visi Išgyvenimo metimai, susiję su jų kilmės vietove, yra vienu laipsniu lengvesni.
+- **Neraštingumas:** Primityvūs žmonės paprastai nemoka skaityti ir rašyti. Jie gali išmokti raštingumo praleidę 1 patirties metimą ir mėnesį mokymų pas personažą, kuris yra raštingas pageidaujama kalba. Tai suteikia jiems pagrindinį raštingumą, lygų pusei įgūdžio lygio viena kalba, kurią personažas moka. Jei pageidaujama, dar 1 patirties metimas ir mėnesį mokymų suteiks jiems visišką raštingumą. Mokantis naujų kalbų žaidimo metu, galima daryti prielaidą, kad jie mokosi jas visiškai raštingu lygiu.
+- **Sėkmingas:** Žmonės pradeda su vienu papildomu Sėkmės tašku.
 
 ---
 ## Pusiau žmonių rasės
 
-Pusiau žmonių (demi-human) rasės personažai kuriami beveik taip pat kaip ir žmonės. Charakteristikos nustatomos naudojant tos rūšies charakteristikų kauliukus, o tai lemia skirtingas charakteristikų vertes ir diapazonus, tačiau visi kiti elementai: atributai, kultūra, klasė ir pan., apskaičiuojami įprastai.
+Pusiau žmonių personažai kuriami beveik taip pat, kaip ir žmonės. Charakteristikos nustatomos naudojant tos rūšies charakteristikų kauliukus, o tai lemia skirtingas charakteristikų vertes ir diapazonus, tačiau visi kiti elementai: Atributai, Kultūra, Klasė ir t. t., apskaičiuojami įprastai.
 
 ---
 ### Nykštukas
 
-Nykštukai įsikuria giliai kalnų tvirtovėse, kur į žemę įsiręžę platūs tuneliai. Vidutinis nykštukas yra stiprus, ištvermingas ir nenuilstantis mūšyje. Pagal prigimtį jie yra puikūs amatininkai, dažnai turintys polinkį į kalnakasybą ir metalurgiją, kartu su meile turtams ir visiems materialiems dalykams. Jų prekės yra labai paklausios visų.
+Nykštukai įsikuria giliai kalnų tvirtovėse, kur platūs tuneliai rausiasi giliai į žemę. Vidutinis nykštukas yra stiprus, ištvermingas ir nenuilstantis mūšyje. Iš prigimties jie yra puikūs amatininkai, dažnai turintys polinkį kasybai ir metalurgijai, kartu su meile turtams ir visiems materialiems dalykams. Jų gaminiai yra labai vertinami visų.
 
-Nykštukai yra žemo ūgio ir gana kresni, vidutiniškai 4'8" (apie 142 cm) – 4'10" (apie 147 cm) ūgio. Plaukų spalva dažniausiai juoda, pilka arba tamsiai ruda, tačiau kai kurie pasižymi rausvais plaukais. Jų oda rudos arba žemės spalvos. Visi vyriškos lyties nykštukai mėgsta ilgas barzdas, kurias dažnai smaigo, pina ar skiria į dalis. Kai kurios nykštukės taip pat augina barzdas; tačiau dauguma labiau mėgsta švariai skustą veidą.
+Nykštukai yra žemo ūgio ir gana stambūs, vidutiniškai 4' 8" – 4' 10" ūgio. Plaukų spalva paprastai yra juoda, pilka arba tamsiai ruda, tačiau žinoma, kad kai kurie turi rausvus plaukus. Jų oda yra rausva arba žemės spalvos. Visi vyriškos lyties nykštukai mėgsta ilgas barzdas, dažnai smailias, pintas arba skeltas. Kai kurios nykštukų moterys taip pat augina barzdas; tačiau dauguma labiau mėgsta švariai skustis veidą.
 
-Nykštukai natūraliai įtariai žiūri į visus, kurie propaguoja kitokį gyvenimo būdą nei jų pačių, bet nebūtinai yra jiems priešiški. Jie geriausiai sutaria su gnomais, su kuriais dalijasi tolima giminyste, nepaisant jų erzinančio humoro jausmo ir polinkio į praktinius juokus. Be to, nykštukai linkę gerai sutarti su žmonėmis; tačiau jie turi mažą pakantumą elfams dėl senovės karų ir ilgų prisiminimų. Nykštukai nemėgsta pusūgių (halflings), kurių nerūpestingas gyvenimo būdas prieštarauja jų šiurkščiai, griežtai prigimčiai. Jų neapykanta orkams, kuriuos jie laiko purvinais ir gyvuliškais, yra legendinė.
+Nykštukai natūraliai įtariai žiūri į visus, kurie propaguoja kitokį gyvenimo būdą nei jų pačių, bet nebūtinai yra nusiteikę priešiškai jų atžvilgiu. Jie geriausiai sutaria su gnomais, kurie yra tolimi giminaičiai, nepaisant jų erzinančio humoro jausmo ir polinkio į praktinius pokštus. Be to, nykštukai paprastai gerai sutaria su žmonėmis; tačiau jie turi mažą pakantumą elfams dėl senovės karų ir ilgų prisiminimų. Nykštukai linkę nemėgti pusūgių (halflings), kurių nerūpestingas gyvenimo būdas prieštarauja jų šiurkščiai, griežtai prigimčiai. Jų neapykanta orkams, kuriuos jie laiko purvinais ir gyvuliškais, yra legendinė.
 
-Nykštukai gyvena ilgai ir gali sulaukti apie 450 metų amžiaus. Jie turi aiškią aversioniją magijai ir dėl to yra natūraliai atsparūs arkaniniams burtams; dieviškieji burtai veikia juos įprastai. Dėl šios priežasties apie nykštukus magijos naudotojus nėra girdėta.
+Nykštukai gyvena ilgai ir gali pasiekti apie 450 metų amžių. Jie turi aiškią neapykantą magijai ir todėl yra natūraliai atsparūs arkaniniams burtams; dieviški burtai juos veikia normaliai. Dėl šios priežasties nykštukų magijos vartotojai yra negirdėtas dalykas.
 
 #### Nykštukų kultūra
 
-Nykštukai yra socialios būtybės, susietos į klanus ir gentis, kurios dalijasi didžiulėmis požeminėmis salėmis ir miestais. Šiuo atžvilgiu jie labiausiai primena barbarišką kultūrą, nors yra keletas esminių skirtumų. Pirma, lytis nykštukų visuomenėje nesvarbi: vyrai ir moterys lygiai dalijasi pareigomis ir atsakomybėmis. Tai apima vaikų auginimą, fizinį darbą, medžioklę ir karą. Antra, nykštukai linkę nuvertinti individą visuomenės labui.
+Nykštukai yra socialios būtybės, susijungusios į klanus ir gentis, kurios dalijasi didžiulėmis požeminėmis salėmis ir miestais. Šiuo atžvilgiu jie labiausiai primena barbarų kultūrą, nors yra keletas esminių skirtumų. Pirma, lytis nykštukų visuomenėje neturi reikšmės: vyrai ir moterys vienodai dalijasi pareigomis ir atsakomybėmis. Tai apima vaikų auklėjimą, fizinį darbą, medžioklę ir karą. Antra, nykštukai linkę nuvertinti individą visuomenės labui.
 
-Nykštukai žino, kad jėga kyla iš skaičiaus ir kad individo norai bei poreikiai visada nusileidžia daugumos poreikiams. Tačiau jie yra godi ir materialistinė visuomenė, pavydžiai sauganti savo atradimus ir pasiekimus. Nykštukai mėgsta daiktus, ir kai pašalinamas iš klano, vienišas nykštukas gali labai greitai tapti savanaudžiu ir individualistu, nes nėra bendros nykštukų kultūros, kuri nukreiptų ir valdytų žemesnius instinktus.
+Nykštukai žino, kad jėga kyla iš skaičiaus ir kad individo norai bei poreikiai visada yra nusveriami daugelio. Tačiau jie yra įsigyjanti ir materialistinė visuomenė, pavydžiai sauganti savo atradimus ir pasiekimus. Nykštukai mėgsta daiktus, ir kai pašalinamas iš kano, vienišas nykštukas gali labai greitai tapti savanaudiškas ir individualistiškas, nes bendra nykštukų kultūra nėra šalia, kad nukreiptų ir suvaldytų žemesnius instinktus.
 
 #### Įgūdžiai
 
 - **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40, Kalba (Nykštukų) +40
-- **Standartiniai įgūdžiai:** Atletika, Jėga, Ištvermė, Išsisukimas, Vietovės išmanymas, Suvokimas, Valia
+- **Standartiniai įgūdžiai:** Atletika, Jėga, Ištvermė, Evasija, Vietovė, Suvokimas, Valia
 - **Profesiniai įgūdžiai:** Prekyba, Amatas (bet koks), Inžinerija, Kalba (bet kokia\*), Žinios (bet kokios), Mechanizmai, Oratorystė, Išgyvenimas.
 
-_\* Kuriant veikėją, papildomos kalbos apsiriboja gnomų, goblinų, koboldų ir orkų kalbomis._
+_\* Personažo kūrimo metu papildomos kalbos ribojamos iki gnomų, goblinų, koboldų ir orkų._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, bet paprastai įstatymiškai gera (Lawful Good), pasirinkite vieną ar du iš kiekvienos, arba pasirinkite kitokią pasaulėžiūrą.
-  - **Įstatymiška** (Užsispyręs, nekenčia chaoso, sąžiningas, garbingas, teisiantis, neturi humoro jausmo, paklusnumas teisėtai valdžiai, organizuotas, nuspėjamas, patikimas)
-  - **Gera** (Žavus, turi skrupulų prieš kenkimą nekaltiesiems, padorus, etiškas, draugiškas, nekenčia blogio, paslaugus, malonus, optimistiškas, pozityvus)
-- **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
+- **Pasaulėžiūra:** Bet kokia, bet dažniausiai Įstatymiška Gera, pasirinkite vieną ar dvi iš kiekvienos arba pasirinkite kitokią pasaulėžiūrą.
+  - **Įstatymiška** (Užsispyręs, nekenčia chaoso, sąžiningas, garbingas, teisiantis, be humoro jausmo, paklusnumas teisėtai valdžiai, organizuotas, nuspėjamas, patikimas, patikimas)
+  - **Gera** (Žavus, turi sąžinės graužatį kenkiant nekaltiems, padorus, etiškas, draugiškas, nekenčia blogio, paslaugus, malonus, optimistiškas, pozityvus)
+- **Aistra:** Bet kokia, bet dažniausiai viena ar dvi iš šių:
   - Lojalumas klanui
   - Meilė (kažkam materialiam)
   - Kalnų nykštukai: Neapykanta (orkams, pusiau orkams, goblinams ir hobgoblinams)
-  - Urvų nykštukai: Neapykanta (orkams, goblinams, piktoms milžinams ir tamsos elfams)
+  - Aukštumų nykštukai: Neapykanta (orkams, goblinams, piktoms milžinams ir tamsiesiems elfams)
 
-#### Specialios taisyklės
+#### Specialiosios taisyklės
 
-- **Judesys:** 15 pėdų.
-- **Tamsos rega (Darkvision):** Nykštukų tamsos rega leidžia jiems matyti iki 60 pėdų tamsoje lyg tai būtų ryški šviesa (standartiniai suvokimo metimai pastebėti kažką), o visiškoje tamsoje – lyg tai būtų blanki šviesa (suvokimo metimai pastebėti kažką yra Sunkūs). Toje tamsoje jie skiria spalvas tik pilkos spalvos atspalviais. Tamsos rega neleidžia matyti magiškoje tamsoje.
-- **Raštingi:** Nykštukai paprastai moka skaityti ir rašyti bet kokia kalba, kuria šneka.
-- **Atsparumas magijai:** Nykštukai yra labai atsparūs arkaninei magijai; jų Valios patikrinimai yra vienu laipsniu lengvesni, kai naudojami pasipriešinti. Šis atsparumas neturi įtakos dieviškajai magijai.
-- **Atsparumas nuodams:** Nykštukai taip pat yra labai atsparūs nuodams, o ištvermės metimai, susiję su apsinuodijimu, yra vienu laipsniu lengvesni.
-- **Tunelių pojūtis:** Dėl savo požeminės prigimties nykštukai gali aptikti tam tikrus požeminius fenomenus sėkmingai atlikę Lengvą suvokimo įgūdžio metimą. Tunelių pojūtis gali būti naudojamas aptikti akmenines duobes, spąstus; šlaitą ar nuolydį; apytikslį gylį po žeme; naujų tunelių ar perėjų konstrukciją; ir judančias sienas ar kambarius. Šio aptikimo diapazonas ribojamas iki 10 pėdų.
+- **Judėjimas:** 15 pėdų.
+- **Tamsos regėjimas:** Nykštukų tamsos regėjimas leidžia jiems matyti iki 60 pėdų tamsoje lyg ryškioje šviesoje (standartiniai Suvokimo metimai ką nors pastebėti) ir tamsoje lyg prieblandoje (Suvokimo metimai ką nors pastebėti yra sunkūs). Toje tamsoje jie skiria spalvas tik pilkos spalvos atspalviais. Tamsos regėjimas neleidžia matyti magiškoje tamsoje.
+- **Raštingumas:** Nykštukai paprastai moka skaityti ir rašyti bet kokia kalba, kuria gali kalbėti.
+- **Magijos atsparumas:** Nykštukai yra labai atsparūs arkaninei magijai; jų Valios patikrinimai yra vienu laipsniu lengvesni, kai naudojami pasipriešinti. Šis atsparumas neturi įtakos dieviškai magijai.
+- **Nuodų atsparumas:** Nykštukai taip pat yra labai atsparūs nuodams, o Ištvermės metimai, susiję su apsinuodijimu, yra vienu laipsniu lengvesni.
+- **Tunelio pojūtis:** Dėl savo požeminės prigimties nykštukai gali aptikti tam tikrus požeminius reiškinius sėkmingai atlikę lengvą Suvokimo įgūdžio metimą. Tunelio pojūtis gali būti naudojamas aptikti akmenines duobes, spąstus; nuolydį; apytikslį gylį po žeme; naujų tunelių ar perėjų konstrukciją; ir slenkančias sienas ar kambarius. Šis aptikimas ribojamas iki 10 pėdų.
 
 ---
 ### Elfas
 
-Elfai yra maždaug tokio pat ūgio kaip žmonės ir pasižymi grakščiu bei lieknu kūno sudėjimu. Labai mažai elfų palieka savo miškų sritį ir pradeda nuotykių ieškotojo gyvenimą, vietoj to pirmenybę teikdami taikiam miško egzistavimui. Tie, kurie tai padaro, yra paslaptis net jų pačių rūšiai. Nors elfai gana gerai sutaria su pusūgiais ir gnomais, jie nesutaria su nykštukais dėl jų gana šiurkščios prigimties. Net į žmones žiūrima su įtarimu. Iš visų rasių, orkai ir goblinai yra labiausiai niekinami dėl ilgalaikio priešiškumo, pagrįsto begaliniais karais ir smulkiais susirėmimais. Kaip ir nykštukai, elfai gyvena labai ilgai, bet dar ilgiau, sulaukdami apie 1100 metų amžiaus. Tačiau gerokai prieš tai elfai dažnai jaučia poreikį palikti žmonių sritis. Kur jie išvyksta – paslaptis visiems, išskyrus juos pačius.
+Elfai yra maždaug tokio pat ūgio kaip žmonės ir pasižymi grakščiu bei lieknu kūno sudėjimu. Labai mažai elfų palieka savo miškų karalystę ir imasi nuotykių ieškotojų gyvenimo, vietoj to pirmenybę teikdami taikiam miško gyvenimui. Tie, kurie tai padaro, yra paslaptis net jų pačių rūšiai. Nors elfai gana gerai sutaria su pusūgiais ir gnomais, jie nesutaria su nykštukais dėl jų gana šiurkščios prigimties. Net žmonės vertinami įtariai. Iš visų rasių orkai ir goblinai yra niekinami labiausiai dėl ilgalaikio priešiškumo, pagrįsto nesibaigiančiais karais ir smulkiais susirėmimais. Kaip ir nykštukai, elfai gyvena labai ilgai, bet dar ilgiau – pasiekdami apie 1100 metų amžių. Tačiau gerokai anksčiau elfai dažnai pajunta poreikį palikti žmonių karalystes. Kur jie išeina, yra paslaptis visiems, išskyrus juos pačius.
 
-Elfai yra išskirtiniai dėl savo smulkių kaulų struktūros, siaurų smailių kaukolių ir siaurų smailių ausų. Akių spalvos varijuoja per visą spektrą, nuo žmonių tonų iki spindinčių brangakmenių spalvų. Elfų visuomenė dažnai yra monarchinė, paprastai valdoma karaliaus, karalienės arba abiejų. Elfai yra tarsi iš kito pasaulio. Jie dažnai atrodo nutolę nuo kasdienių įvykių, tačiau demonstruoja jų supratimą, kuris žmonėms atrodo gluminantis. Gamta elfams yra labai svarbi, todėl jie labai rūpinasi savo aplinkos išsaugojimu. Būdami ilgai gyvenanti rūšis, jie nepriima ir nevertina laiko taip, kaip žmonija, ir dažnai nesuvokia trumpų laiko intervalų praėjimo.
+Elfai yra išskirtiniai dėl savo smulkios kaulų struktūros, siaurų smailėjančių kaukolių ir siaurų smailių ausų. Akių spalvos varijuoja per visą spektrą – nuo žmogaus tonų iki brangiųjų akmenų spalvų. Elfų visuomenė dažnai yra monarchinė, dažniausiai valdoma karaliaus, karalienės arba abiejų. Elfai yra nežemiški. Jie dažnai atrodo nutolę nuo žemiškų įvykių, tačiau demonstruoja jų supratimą, kuris žmonėms atrodo nesuprantamas. Gamta elfams yra labai svarbi, todėl jie labai rūpinasi savo aplinkos išsaugojimu. Kaip ilgai gyvenanti rūšis, jie nepriima ir nevertina laiko taip, kaip žmonija, ir dažnai nesuvokia trumpų laiko intervalų bėgimo.
 
 #### Elfų kultūra
 
-Elfų kultūra yra panaši į civilizuotą. Didelis dėmesys skiriamas mokymuisi ir supratimui. Darbai, elgesys ir vientisumas yra svarbios ir pageidaujamos savybės tarp elfų ir kitų. Tikimasi oraus elgesio, o grubus, nemandagus elgesys vertinamas su panieka ir įtarimu. Dauguma elfų visuomenių turi karalių ar karalienę, todėl lojalumas monarchui yra svarbiausias. Elfams sunku suprasti visuomenes, kurioms trūksta tokių struktūrų, nes jie stebisi, kaip žmonės gali būti tinkamai sutvarkyti be aiškaus, karališko vadovo, kuris juos vestų ir atstovautų.
+Elfų kultūra yra panaši į civilizuotą. Didelė svarba teikiama mokymuisi ir supratimui. Darbai, elgesys ir sąžiningumas yra svarbios ir pageidaujamos savybės tarp elfų ir kitų. Tikimasi oraus elgesio, o grubus, necivilizuotas elgesys vertinamas su panieka ir įtarimu. Dauguma elfų visuomenių turi karalių ar karalienę, todėl lojalumas monarchui yra svarbiausias. Elfams sunku suprasti visuomenes, kurioms trūksta tokių struktūrų, stebintis, kaip žmonės gali būti tinkamai tvarkomi be aiškaus, karališko lyderio, kuris jiems vadovautų ir juos atstovautų.
 
 #### Įgūdžiai
 
 - **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40, Kalba (Elfų) +40
-- **Standartiniai įgūdžiai:** Slėpimas, Įtaka, Įžvalga, Vietovės išmanymas, Suvokimas, Slapstymasis, Valia
+- **Standartiniai įgūdžiai:** Slėpimasis, Įtaka, Įžvalga, Vietovė, Suvokimas, Slaptumas, Valia
 - **Profesiniai įgūdžiai:** Menas (bet koks), Prekyba, Amatas (bet koks), Mandagumas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Išgyvenimas.
 
-_\* Kuriant veikėją, papildomos kalbos apsiriboja gnomų, pusūgių, goblinų, hobgoblinų, orkų ir gnolių kalbomis._
+_\* Personažo kūrimo metu papildomos kalbos ribojamos iki gnomų, pusūgių, goblinų, hobgoblinų, orkų ir gnolių._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, bet paprastai chaotiškai gera (Chaotic Good), pasirinkite vieną ar du iš kiekvienos, arba pasirinkite kitokią pasaulėžiūrą.
+- **Pasaulėžiūra:** Bet kokia, bet dažniausiai Chaotiška Gera, pasirinkite vieną ar dvi iš kiekvienos arba pasirinkite kitokią pasaulėžiūrą.
   - **Chaotiška** (Smalsus, laisvė, įtarus)
-  - **Gera** (Žavus, altruistiškas, angeliškas, labdaringas, turi skrupulų prieš kenkimą nekaltiesiems, padorus, etiškas, atlaidus, draugiškas, nekenčia blogio, paslaugus, malonus, myli gamtą, gailestingas, optimistiškas, pozityvus, vegetaras)
-- **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
+  - **Gera** (Žavus, altruistiškas, angeliškas, labdaringas, turi sąžinės graužatį kenkiant nekaltiems, padorus, etiškas, atlaidus, draugiškas, nekenčia blogio, paslaugus, malonus, myli gamtą, gailestingas, optimistiškas, pozityvus, vegetaras)
+- **Aistra:** Bet kokia, bet dažniausiai viena ar dvi iš šių:
   - Lojalumas karaliui/karalienei
-  - Meilė (kažkam emocionalaus)
-  - Neapykanta (bet kokiam grakštumo ir grožio priešui)
+  - Meilė (kažkam emocingo)
+  - Neapykanta (bet kokiam grakštumo ir grožio priešui)#### Special Rules
 
-#### Specialios taisyklės
-
-- **Judesys:** 20 pėdų.
-- **Elfų grandinėlė (šarvai):** Elfai yra įgudę burti arkaninės magijos burtus vilkėdami elfų grandininius šarvus ir gali tokius burtus burti vienu sunkumo lygiu lengviau.
-- **Raštingi:** Elfai paprastai moka skaityti ir rašyti bet kokia kalba, kuria šneka.
-- **Atsparumas miegui ir žavesiui:** Elfai randa Valios metimus pasipriešinti *Miego* ir *Žavesio* burtams 2 laipsniais lengvesnius. Tai apima visus *Kerėjimo (Žavesio)* mokyklos burtus (*Žavesio asmuo, Draugystė, Hipnotizmas* ir kt.). Jie gali atsisakyti šio atsparumo ir priimti magijos poveikį, jei nusprendžia.
-- **Aštri rega:** Dėl savo aštraus regėjimo, elfai randa visus Suvokimo metimus pastebėti kažką vienu laipsniu lengvesnius.
-- **Slapstymasis:** Elfai, dėvintys ne daugiau kaip lengvus šarvus, randa slapstymosi testus 1 laipsniu lengvesnius.
+- **Judėjimas:** 20 pėdų.
+- **Elfų šarvai:** Elfai yra įgudę naudoti „Arcane Magic“ burtus vilkėdami elfų šarvus ir gali juos mesti vienu sudėtingumo lygiu lengviau.
+- **Raštingumas:** Elfai paprastai moka skaityti ir rašyti bet kuria kalba, kuria šneka.
+- **Atsparumas miegui ir žavesiui:** Elfams „Willpower“ metimai siekiant pasipriešinti „Sleep“ ir „Charm“ burtams yra 2 pakopomis lengvesni. Tai apima visus „Enchantment (Charm)“ mokyklos burtus („Charm Person“, „Friendship“, „Hypnotism“ ir t. t.). Jie gali atsisakyti šio atsparumo ir priimti magijos poveikį, jei to nori.
+- **Aštrus regėjimas:** Dėl savo aštraus regėjimo elfams visi „Perception“ metimai ką nors pastebėti yra viena pakopa lengvesni.
+- **Slaptumas:** Elfai, dėvintys ne sunkesnius nei lengvi šarvai drabužius, „Stealth“ testus atlieka 1 pakopa lengviau.
 
 ---
-### Gnomas
+### Gnomai
 
-Būdami 3'4" (apie 102 cm) – 3'7" (apie 109 cm) ūgio, gnomai yra dar mažesni už savo nykštukų giminaičius. Pasižymintys ruda ar įdegusia oda, baltais plaukais ir žymiai didesnėmis nosimis, jie vis dėlto yra mažiau kresni. Turėdami beveik nevaldomą polinkį į praktinius juokus ir humoro jausmą, kuris galėtų juos nužudyti tamsesnėse pasaulio vietose, gnomai subalansuoja šiuos probleminius bruožus su aštria gamtos meile, beveik prilygstančia elfams. Kaip ir nykštukai, gnomai ypač mėgsta brangakmenius ir papuošalus, o daugelis yra brangakmenių pjovimo amato ekspertai. Jie gyvena kasyklose ir urvuose, esančiuose kalvotuose ir miškinguose rajonuose, atokiau nuo žmonių. Gnomai įtariai žiūri į rases, daug didesnes už save, ir apart nykštukų bei pusūgių, tai yra beveik visi. Jie linkę matuoti žmogaus tikruosius ketinimus humorui skirtu testu, tikrai ne pačiu išmintingiausiu metodu, bet panašu, kad jiems tai veikia. Gnomai yra puikūs neįtikėtinų istorijų pasakotojai. Iš visų rasių jie geriausiai sutaria su nykštukais, bet apskritai yra labiau linkę priimti kitus. Paprastai gnomai gali gyventi apie 700 metų.
+Būdami 3 pėdų 4 colių – 3 pėdų 7 colių ūgio, gnomai yra dar mažesni už savo giminaičius nykštukus. Turintys rudą arba įdegusį odos atspalvį, baltus plaukus ir žymiai didesnes nosis, jie visgi yra mažiau apkūnūs. Pasižymintys beveik nevaldomu polinkiu į pokštus ir humoro jausmu, kuris tamsesnėse pasaulio vietose galėtų jiems kainuoti gyvybę, gnomai šiuos problemiškus bruožus atsveria aistra gamtai, beveik prilygstančia elfų aistrai. Kaip ir nykštukai, gnomai ypač mėgsta brangakmenius bei papuošalus, ir daugelis jų yra brangakmenių šlifavimo meistrai. Jie gyvena kasyklose ir urvuose, esančiuose kalvotose vietovėse ir miškuose, atokiau nuo žmonių. Gnomai įtariai žiūri į daug didesnes už save rases, o be nykštukų ir pusūgių, tai yra beveik visi kiti. Jie linkę vertinti tikruosius asmens ketinimus pagal jo humoro jausmą – žinoma, ne pats išmintingiausias metodas, bet panašu, kad jiems tai veikia. Gnomai yra puikūs išgalvotų istorijų ir keistų pasakojimų pasakotojai. Iš visų rasių geriausiai jie sutaria su nykštukais, tačiau apskritai yra labiau linkę priimti kitus. Paprastai gnomai išgyvena iki 700 metų.
 
 #### Kultūra
 
-Gnomų kultūra yra klaninė visuomenė, kuri didžiąją laiko dalį praleidžia kasant ir dirbant papuošalus. Jų gyvenimas yra gerai organizuotas, vadovaujamas vado, o religinius klausimus sprendžia vado dvasininkų patarėjai. Šiuo atžvilgiu jų kultūra panaši į jų nykštukų giminaičių kultūrą, tačiau jie visgi labiau mėgsta žaidimus ir praktinius juokus nei jų kresni pusbroliai. Jų meilė gyvūnams ir gamtai reiškia, kad be nykštukų, jie gerai sutaria su elfais ir kitomis miško būtybėmis.
+Gnomų kultūra – tai klaninė visuomenė, didžiąją laiko dalį praleidžianti kasant ir kuriant puikius papuošalus. Jų gyvenimas gerai organizuotas, vadovauja vadas, o religiniais reikalais rūpinasi vado patarėjai – dvasininkai. Šiuo atžvilgiu jų kultūra panaši į jų giminaičių nykštukų kultūrą, tačiau jie visgi labiau mėgsta žaidimus ir pokštus nei jų kresni pusbroliai. Jų meilė gyvūnams ir gamtai reiškia, kad be nykštukų, jie gerai sutaria su elfais ir kitomis miško būtybėmis.
 
 #### Įgūdžiai
 
-- **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40, Kalba (Gnomų) +40
-- **Standartiniai įgūdžiai:** Apgaulė, Išsisukimas, Įžvalga, Vietovės išmanymas, Suvokimas, Slapstymasis, Valia
-- **Profesiniai įgūdžiai:** Prekyba, Amatas (bet koks), Inžinerija, Kalba (bet kokia\*), Žinios (bet kokios), Mechanizmai, Oratorystė, Išgyvenimas.
+- **Laisvi įgūdžiai:** „Customs“ +40, „Language (Common)“ +40, „Language (Gnome)“ +40
+- **Standartiniai įgūdžiai:** „Deceit“, „Evade“, „Insight“, „Locale“, „Perception“, „Stealth“, „Willpower“
+- **Profesiniai įgūdžiai:** „Commerce“, „Craft (any)“, „Engineering“, „Language (any*)“, „Lore (any)“, „Mechanisms“, „Oratory“, „Survival“.
 
-_\* Kuriant veikėją, papildomos kalbos apsiriboja nykštukų, pusūgių, goblinų ir koboldų kalbomis._
+_\* Kuriant veikėją, papildomos kalbos ribojamos iki nykštukų, pusūgių, goblinų ir koboldų._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, bet paprastai neutraliai gera (Neutral Good), pasirinkite vieną ar du iš kiekvienos, arba pasirinkite kitokią pasaulėžiūrą.
-  - **Neutrali** (Nėra stipraus jausmo dėl Įstatymo ar Chaoso, lankstus, veiksmų laisvė, neturi nustatyto etikos kodekso, pagarbus gamtai\*)
-  - **Gera** (Žavus, altruistiškas, angeliškas, labdaringas, turi skrupulų prieš kenkimą nekaltiesiems, padorus, etiškas, atlaidus, draugiškas, nekenčia blogio, paslaugus, malonus, myli gamtą\*, gailestingas, optimistiškas, pozityvus, vegetaras)
+- **Pasaulėžiūra:** Bet kokia, bet paprastai „Neutral Good“; pasirinkite vieną ar du iš kiekvieno arba pasirinkite kitą pasaulėžiūrą.
+  - **Neutrali** (Neturi stiprios nuomonės apie įstatymus ar chaosą, lanksti, veiksmo laisvė, neturi nustatyto etikos kodekso, gerbianti gamtą*)
+  - **Gera** (Žavinti, altruistiška, angeliška, labdaringa, jaučianti sąžinės graužatį dėl žalos nekaltiesiems, padori, etiška, atlaidi, draugiška, nekenčianti blogio, paslaugi, maloni, mylinti gamtą*, gailestinga, optimistiška, pozityvi, vegetariška)
 - **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
   - Lojalumas klanui
   - Meilė (kažkam materialiam)
   - Neapykanta (paprastai koboldams ir goblinams)
 
-_\* Arba pagarbus gamtai, arba myli gamtą, ne abu._
+_\* Arba gerbianti gamtą, arba mylinti gamtą, ne abu._
 
 #### Specialios taisyklės
 
-- **Judesys:** 15 pėdų.
-- **Raštingi:** Gnomai paprastai moka skaityti ir rašyti bet kokia kalba, kuria šneka.
-- **Tamsos rega:** Gnomų tamsos rega leidžia jiems matyti iki 60 pėdų tamsoje lyg tai būtų ryški šviesa (standartiniai suvokimo metimai pastebėti kažką), o visiškoje tamsoje – lyg tai būtų blanki šviesa (suvokimo metimai pastebėti kažką yra Sunkūs). Toje tamsoje jie skiria spalvas tik pilkos spalvos atspalviais. Tamsos rega neleidžia matyti magiškoje tamsoje.
-- **Atsparumas magijai:** Kaip ir nykštukai, gnomai yra labai atsparūs arkaninei magijai; Valios patikrinimai yra vienu laipsniu lengvesni, kai naudojami pasipriešinti, dviem laipsniais lengvesni dėl iliuzijų. Šis atsparumas neturi įtakos dieviškajai magijai. Daugelis gnomų, tampančių magijos naudotojais, specializuojasi iliuzijų mokykloje.
-- **Atsparumas nuodams:** Gnomai taip pat yra labai atsparūs nuodams, o ištvermės metimai, susiję su apsinuodijimu, yra 1 laipsniu lengvesni.
-- **Tunelių pojūtis:** Dėl savo požeminės prigimties gnomai gali aptikti tam tikrus požeminius fenomenus sėkmingai atlikę Lengvą suvokimo įgūdžio metimą. Tunelių pojūtis gali būti naudojamas aptikti akmenines duobes, spąstus; šlaitą ar nuolydį; apytikslį gylį po žeme; naujų tunelių ar perėjų konstrukciją; ir judančias sienas ar kambarius. Šio aptikimo diapazonas ribojamas iki 10 pėdų.
+- **Judėjimas:** 15 pėdų.
+- **Raštingumas:** Gnomai paprastai moka skaityti ir rašyti bet kuria kalba, kuria šneka.
+- **Tamsos regėjimas:** Gnomų „Darkvision“ leidžia jiems matyti iki 60 pėdų prieblandoje taip, lyg tai būtų ryški šviesa (standartiniai „Perception“ metimai kažką pastebėti), o tamsoje – lyg prieblandoje („Perception“ metimai kažką pastebėti yra „Hard“). Toje tamsoje jie skiria tik pilkos spalvos atspalvius. „Darkvision“ neleidžia matyti magiškoje tamsoje.
+- **Atsparumas magijai:** Kaip ir nykštukai, gnomai yra labai atsparūs „Arcane Magic“; „Willpower“ tikrinimai yra viena pakopa lengvesni, kai naudojami pasipriešinimui, ir dviem pakopomis lengvesni, kai kalbama apie iliuzijas. Šis atsparumas neturi įtakos dieviškajai magijai. Daugelis gnomų, tapusių magijos vartotojais, specializuojasi iliuzijų mokykloje.
+- **Atsparumas nuodams:** Gnomai taip pat yra labai atsparūs nuodams, todėl „Endurance“ metimai, susiję su apsinuodijimu, yra 1 pakopa lengvesni.
+- **Tunelio pojūtis:** Dėl savo požeminio gyvenimo būdo gnomai gali aptikti tam tikrus požeminius reiškinius sėkmingai atlikę „Easy Perception“ įgūdžio metimą. „Tunnel Sense“ galima naudoti norint aptikti akmenines duobes, spąstus; nuolydį; apytikslį gylį po žeme; naujų tunelių ar perėjų statybą; slenkančias sienas ar kambarius. Šio aptikimo nuotolis ribojamas iki 10 pėdų.
 
 ---
-### Pusiau elfas
+### Puselfiai
 
-Pusiau elfai yra elfo ir žmogaus palikuonys, suteikiantys jiems abiejų tėvų bruožų mišinį. Jų išvaizda artimesnė elfų paveldui; jie linkę turėti patrauklių bruožų. Pusiau elfai praranda kai kuriuos elfų paveldo gebėjimus ir neturi tokios sėkmingos ar talentingos prigimties kaip žmonija; vietoj to jie yra kažkur per vidurį. Pusiau elfai turi savo žmogaus tėvų kelionių troškulį ir elfo tėvų meilę gamtai. Jie taip pat gyvena ilgai, sulaukdami apie 300 metų amžiaus. Kai kuriose pasaulio dalyse pusiau elfai yra vertinami su įtarimu dėl savo mišraus paveldo, tačiau jie yra visuotinai priimami visur, kur priimami elfai ir žmonės, nors jie linkę sulaukti daugiausia fanatizmo iš elfų tautos.
+Puselfiai yra elfo ir žmogaus palikuonys, gaunantys abiejų tėvų bruožų mišinį. Jų išvaizda artimesnė elfų paveldui; jie dažniausiai turi patrauklius bruožus. Puselfiai praranda kai kuriuos elfų paveldo sugebėjimus ir neturi tokios sėkmės ar talentų kaip žmonės; jie atsiduria kažkur per vidurį. Puselfiai pasižymi žmogaus tėvo klajonių troškimu ir elfų motinos meile gamtai. Jie taip pat ilgaamžiai, sulaukiantys apie 300 metų amžiaus. Kai kuriose pasaulio vietose puselfiai dėl savo mišraus paveldo vertinami įtariai, tačiau apskritai jie priimami visur, kur priimami elfai ir žmonės, nors didžiausio neigiamo nusistatymo jie dažniausiai sulaukia iš pačių elfų.
 
 #### Kultūra
 
-Pusiau elfai neturi savo bendruomenių, bet juos galima rasti gyvenančius visur, kur žmonės ir elfai bendrauja, ir jie paprastai dalijasi tos rasės, kuri juos užaugino, kultūra. Pavyzdžiui, jei augo tarp žmonių, jie dalinsis savo žmogaus tėvų kultūra (viena iš keturių, išsamiai aprašytų žmonių skyriuje); jei augo tarp elfų, jie dalinsis savo elfo tėvų kultūra.
+Puselfiai neturi savo bendruomenių, tačiau juos galima rasti gyvenančius ten, kur susimaišo žmonės ir elfai, ir jie paprastai dalijasi tos rasės, kuri juos užaugino, kultūra. Pavyzdžiui, jei užaugo tarp žmonių, jie dalinsis savo žmogaus tėvų kultūra (viena iš keturių, išsamiai aprašytų prie žmonių), jei užaugo tarp elfų – savo elfų tėvų kultūra.
 
 #### Įgūdžiai
 
-- **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40, Kalba (Elfų) +40
-- **Standartiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio elfų įgūdžių sąrašo: Slėpimas, Įtaka, Įžvalga, Vietovės išmanymas, Suvokimas, Slapstymasis, Valia
-- **Profesiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio elfų įgūdžių sąrašo: Menas (bet koks), Prekyba, Amatas (bet koks), Mandagumas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Išgyvenimas.
+- **Laisvi įgūdžiai:** „Customs“ +40, „Language (Common)“ +40, „Language (Elf)“ +40
+- **Standartiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio elfų įgūdžių sąrašo: „Conceal“, „Influence“, „Insight“, „Locale“, „Perception“, „Stealth“, „Willpower“
+- **Profesiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio elfų įgūdžių sąrašo: „Art (any)“, „Commerce“, „Craft (any)“, „Courtesy“, „Language (any*)“, „Lore (any)“, „Musicianship“, „Survival“.
 
-_\* Kuriant veikėją, jei užaugino elfai, papildomos kalbos apsiriboja gnomų, pusūgių, goblinų, hobgoblinų, orkų ir gnolių kalbomis. Jei užaugino žmonės, kalbų pasirinkimas neribotas._
+_\* Kuriant veikėją, jei užaugino elfai, papildomos kalbos ribojamos iki gnomų, pusūgių, goblinų, hobgoblinų, orkų ir gnolių. Jei užaugino žmonės, kalbų pasirinkimas neribojamas._
 
 #### Pasaulėžiūra ir aistros
 
 Pasirinkite iš žmogaus kultūros arba iš šių elfų aistrų:
 
-- **Pasaulėžiūra:** Bet kokia, bet paprastai chaotiškai gera (Chaotic Good), jei užaugino elfai, pasirinkite vieną ar du iš kiekvienos, arba pasirinkite kitokią pasaulėžiūrą. Arba kaip žmogaus tėvų.
-  - **Chaotiška** (Smalsus, laisvė, įtarus)
-  - **Gera** (Žavus, altruistiškas, angeliškas, labdaringas, turi skrupulų prieš kenkimą nekaltiesiems, padorus, etiškas, atlaidus, draugiškas, nekenčia blogio, paslaugus, malonus, myli gamtą, gailestingas, optimistiškas, pozityvus, vegetaras)
-- **Aistra (užaugintas kaip elfas):** Bet kokia, bet paprastai viena ar dvi iš šių:
+- **Pasaulėžiūra:** Bet kokia, bet paprastai „Chaotic Good“, jei užaugino elfai; pasirinkite vieną ar du iš kiekvieno arba pasirinkite kitą pasaulėžiūrą. Arba kaip nurodyta žmogaus tėvų kultūroje.
+  - **Chaotiška** (Smalsi, laisvė, įtari)
+  - **Gera** (Žavinti, altruistiška, angeliška, labdaringa, jaučianti sąžinės graužatį dėl žalos nekaltiesiems, padori, etiška, atlaidi, draugiška, nekenčianti blogio, paslaugi, maloni, mylinti gamtą, gailestinga, optimistiška, pozityvi, vegetariška)
+- **Aistra (Užauginti elfų):** Bet kokia, bet paprastai viena ar dvi iš šių:
   - Lojalumas karaliui/karalienei
-  - Meilė (kažkam emocionalaus)
+  - Meilė (kažkam emocingam)
   - Neapykanta (bet kokiam grakštumo ir grožio priešui)
-- **Aistra (užaugintas kaip žmogus):** Pasirinkite iš atitinkamo žmonių sąrašo.
+- **Aistra (Užauginti žmonių):** Pasirinkite iš tinkamo žmonių sąrašo.
 
 #### Specialios taisyklės
 
-- **Judesys:** 20 pėdų.
-- **Elfų grandinėlė:** Elfai yra įgudę burti arkaninės magijos burtus vilkėdami elfų grandininius šarvus ir gali tokius burtus burti vienu sunkumo lygiu lengviau.
-- **Raštingi:** Pusiau elfai paprastai moka skaityti ir rašyti bet kokia kalba, kuria šneka.
-- **Atsparumas miegui ir žavesiui:** Pusiau elfai randa Valios metimus pasipriešinti *Miego* ir *Žavesio* burtams vienu laipsniu lengvesnius. Tai apima visus *Kerėjimo (Žavesio)* mokyklos burtus (*Žavesio asmuo, Draugystė, Hipnotizmas* ir kt.). Jie gali atsisakyti šio atsparumo ir priimti magijos poveikį, jei nusprendžia.
-- **Aštri rega:** Dėl savo aštraus regėjimo, pusiau elfai randa visus Suvokimo metimus pastebėti kažką vienu laipsniu lengvesnius.
-- **Slapstymasis:** Pusiau elfai, dėvintys ne daugiau kaip lengvus šarvus, randa slapstymosi testus 1 laipsniu lengvesnius.
+- **Judėjimas:** 20 pėdų.
+- **Elfų šarvai:** Puselfiai yra įgudę naudoti „Arcane Magic“ burtus vilkėdami elfų šarvus ir gali juos mesti vienu sudėtingumo lygiu lengviau.
+- **Raštingumas:** Puselfiai paprastai moka skaityti ir rašyti bet kuria kalba, kuria šneka.
+- **Atsparumas miegui ir žavesiui:** Puselfiams „Willpower“ metimai siekiant pasipriešinti „Sleep“ ir „Charm“ burtams yra viena pakopa lengvesni. Tai apima visus „Enchantment (Charm)“ mokyklos burtus („Charm Person“, „Friendship“, „Hypnotism“ ir t. t.). Jie gali atsisakyti šio atsparumo ir priimti magijos poveikį, jei to nori.
+- **Aštrus regėjimas:** Dėl savo aštraus regėjimo puselfiams visi „Perception“ metimai ką nors pastebėti yra viena pakopa lengvesni.
+- **Slaptumas:** Puselfiai, dėvintys ne sunkesnius nei lengvi šarvai drabužius, „Stealth“ testus atlieka 1 pakopa lengviau.
 
 ---
-### Pusiau orkas
+### Pusorkiai
 
-Kilę iš laukinių pasaulio pakraščių, kur orkai ir žmonės susiduria, pusiau orkai yra šių dviejų rasių mažai tikėtinos sąjungos rezultatas. Genetiškai pusiau orkai demonstruoja daugiau orkų bruožų nei žmonių, vidutiniškai būdami aukštesni už žmogų, su dideliais ryškiais dantimis, išsikišusiu apatiniu žandikauliu ir žalsva oda, padengta šiurkščiais tamsiais plaukais. Jie yra karingi pagal prigimtį ir neturi susidomėjimo rafinuotesniais užsiėmimais. Pusiau orkai yra prastose santykiuose su kitomis rasėmis dėl savo orkų kraujo, didžiausias priešiškumas jaučiamas su elfais ir nykštukais; bet laikui bėgant, gali susiformuoti pasitikėjimas net su šiomis mažai tikėtinomis rasėmis. Iš visų rasių pusiau elfai linkę būti labiausiai supratingi, puikiai suprantantys atstumtojo gyvenimą. Keista, bet gnomai ir pusūgiai linkę būti gana priimantys pusiau orkus – pirmieji todėl, kad pusiau orkai linkę suprasti juoką, o antrieji dėl savo smalsios ir priimančios prigimties. Pusiau orkai turi natūralią gyvenimo trukmę apie 80 metų.
+Kilę iš laukinių pasaulio pakraščių, kur orkai ir žmonės dažnai susiduria, pusorkiai yra netikėtos šių dviejų rasių sąjungos rezultatas. Genetiškai pusorkiai pasižymi daugiau orkiškais nei žmogiškais bruožais: jie aukštesni už vidutinį žmogų, turi didelius, išsikišusius dantis, pailgą apatinį žandikaulį ir žalsvą odą, padengtą šiurkščiais tamsiais plaukais. Jie iš prigimties karingi ir neturi jokio susidomėjimo rafinuotesne veikla. Pusorkių santykiai su kitomis rasėmis prasti dėl jų orkiško kraujo, ypač didelė nesantaika tvyro su elfais ir nykštukais; tačiau laikui bėgant, pasitikėjimas gali atsirasti net ir su šiomis rasėmis. Iš visų rasių puselfiai dažniausiai būna supratingiausi, nes pernelyg gerai pažįsta atstumtųjų gyvenimą. Keista, bet gnomai ir pusūgiai dažniausiai priima pusorkius – pirmieji todėl, kad pusorkiai moka priimti pokštus, o antrieji dėl savo smalsios ir atviros prigimties. Pusorkiai gyvena apie 80 metų.
 
 #### Kultūra
 
-Kaip ir pusiau elfai, pusiau orkai neturi gimtųjų žemių, dažniausiai gyvendami tarp orkų genčių. Tie, kurie negyvena tarp kitų orkų, linksta į žmonių žemes. Kadangi visuomenė jų dažnai nepriima, pusiau orkai dažniausiai traukiami į smurtines karjeras, atitinkančias jų didelę jėgą ir temperamentą, paprastai randant draugiją tarp nuotykių ieškotojų, kurių daugelis yra klajokliai ir atstumtieji. Pusiau orkai paprastai dalijasi tos rasės, kuri juos užaugino, kultūra. Pavyzdžiui, jei augo tarp žmonių, jie dalinsis savo žmogaus tėvų kultūra; jei augo tarp orkų, jie dalinsis savo orkų tėvų kultūra.
+Kaip ir puselfiai, pusorkiai neturi savo gimtųjų žemių, dažniausiai gyvena tarp orkų genčių. Tie, kurie negyvena tarp kitų orkų, patraukia į žmonių žemes. Kadangi visuomenė jų dažnai nepriima, pusorkiai paprastai pasuka į smurtines karjeras, tinkančias jų didelei jėgai ir temperamentui, dažniausiai draugiją rasdami tarp nuotykių ieškotojų – daugelis jų taip pat yra klajūnai ir atstumtieji. Pusorkiai paprastai dalijasi tos rasės, kuri juos užaugino, kultūra. Pavyzdžiui, jei užaugo tarp žmonių, jie dalinsis savo žmogaus tėvų kultūra; jei užaugo tarp orkų – savo orkų tėvų kultūra.
 
 #### Įgūdžiai
 
-- **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40, Kalba (Orkų) +40.
-- **Standartiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio orkų įgūdžių sąrašo: Atletika, Jėga, Ištvermė, Pirmoji pagalba, Vietovės išmanymas, Suvokimas; ir arba plaukiojimas valtimi, išsisukimas arba jojimas.
-- **Profesiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio orkų įgūdžių sąrašo: Amatas (bet koks), Gydymas, Bauginimas, Žinios (bet kokios), Muzikavimas, Navigacija, Išgyvenimas, Pėdsekystė.
+- **Laisvi įgūdžiai:** „Customs“ +40, „Language (Common)“ +40, „Language (Orc)“ +40.
+- **Standartiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio orkų įgūdžių sąrašo: „Athletics“, „Brawn“, „Endurance“, „First Aid“, „Locale“, „Perception“; bei „Boating“, „Evade“ arba „Ride“.
+- **Profesiniai įgūdžiai:** Pasirinkite iš žmogaus kultūros arba iš šio orkų įgūdžių sąrašo: „Craft (any)“, „Healing“, „Intimidation“, „Lore (any)“, „Musicianship“, „Navigate“, „Survival“, „Track“.
 
-_\* Kuriant veikėją, jei užaugino orkai, papildomos kalbos apsiriboja goblinų, hobgoblinų, orkų ir gnolių kalbomis. Jei užaugino žmonės, kalbų pasirinkimas neribotas, jei galite pagrįsti šį pasirinkimą._
+_\* Kuriant veikėją, jei užaugino orkai, papildomos kalbos ribojamos iki goblinų, hobgoblinų, orkų ir gnolių. Jei užaugino žmonės, kalbų pasirinkimas neribojamas, jei galite pagrįsti savo pasirinkimą._
 
 #### Pasaulėžiūra ir aistros
 
-Pasirinkite iš žmogaus kultūros arba iš šių orkų aistrų, jei užauginti orkų visuomenėje:
+Pasirinkite iš žmogaus kultūros arba iš šių orkų aistrų, jei užaugote orkų visuomenėje:
 
-- **Pasaulėžiūra:** Bet kokia, bet paprastai įstatymiškai bloga (Lawful Evil), jei užaugino orkai, pasirinkite vieną ar du iš kiekvienos, arba pasirinkite kitokią pasaulėžiūrą. Arba kaip žmogaus tėvų.
-  - **Įstatymiška** (Tradicijų laikymasis, skaičiuojantis, užsispyręs, prisitaikymo trūkumas)
-  - **Bloga** (Priekabiaujantis, žiaurus, dominuojantis, mėgaujasi kenkdamas nekaltiesiems, nekenčia gėrio, negailestingas, sadistiškas, vergovininkas, piktas)
-- **Aistra (užaugintas kaip orkas):** Bet kokia, bet paprastai viena ar dvi iš šių:
-  - Lojalumas klano vadui
-  - Meilė (draugui, broliui/seseriai ar romantiniam partneriui)
-  - Neapykanta (magijai, padarui, konkurentui ar klanui)
-- **Aistra (užaugintas kaip žmogus):** Pasirinkite iš atitinkamo žmonių sąrašo.
+- **Pasaulėžiūra:** Bet kokia, bet paprastai „Lawful Evil“, jei užaugino orkai; pasirinkite vieną ar du iš kiekvieno arba pasirinkite kitą pasaulėžiūrą. Arba kaip nurodyta žmogaus tėvų kultūroje.
+  - **Įstatymiška** (Tradicijų laikymasis, apskaičiuotas elgesys, uždarumas, nesugebėjimas prisitaikyti)
+  - **Bloga** (Piktnaudžiaujanti, žiauri, dominuojanti, mėgaujanti žala nekaltiesiems, nekenčianti gėrio, negailestinga, sadistiška, vergvaldė, kerštinga)
+- **Aistra (Užauginti orkų):** Bet kokia, bet paprastai viena ar dvi iš šių:
+  - Lojalumas klanų vadui
+  - Meilė (draugui, broliui/seseriai ar romantiškam partneriui)
+  - Neapykanta (magijai, būtybei, varžovui ar klanui)
+- **Aistra (Užauginti žmonių):** Pasirinkite iš tinkamo žmonių sąrašo.
 
 #### Specialios taisyklės
 
-- **Judesys:** 20 pėdų.
-- **Tamsos rega:** Pusiau orkų tamsos rega leidžia jiems matyti iki 60 pėdų tamsoje lyg tai būtų ryški šviesa (standartiniai suvokimo metimai pastebėti kažką), o visiškoje tamsoje – lyg tai būtų blanki šviesa (suvokimo metimai pastebėti kažką yra Sunkūs). Toje tamsoje jie skiria spalvas tik pilkos spalvos atspalviais. Tamsos rega neleidžia matyti magiškoje tamsoje.
-- **Neraštingi:** Jei užaugino orkai, pusiau orkai paprastai nemoka skaityti ir rašyti. Jie gali išmokti raštingumo išleisdami 1 patirties metimą ir mėnesį mokydamiesi pas veikėją, kuris moka skaityti pageidaujama kalba. Tai suteikia jiems pagrindinį raštingumą, lygų pusei įgūdžio lygio viena iš veikėjo žinomų kalbų. Jei pageidaujama, dar 1 patirties metimas ir mėnesio treniruotės suteiks visišką raštingumą. Mokantis naujų kalbų žaidimo metu, galima daryti prielaidą, kad jie mokosi jų visišku raštingumo lygiu. Pusiau orkai, užauginti kitos kultūros, bus raštingi, jei ta kultūra taip pat yra raštinga.
-- **Išgyvenimo premija (specifinė):** Jei užaugino orkai, pusiau orkams visi išgyvenimo metimai, susiję su jų kilmės vieta, yra vienu laipsniu lengvesni.
+- **Judėjimas:** 20 pėdų.
+- **Tamsos regėjimas:** Pusorkių „Darkvision“ leidžia jiems matyti iki 60 pėdų prieblandoje taip, lyg tai būtų ryški šviesa (standartiniai „Perception“ metimai kažką pastebėti), o tamsoje – lyg prieblandoje („Perception“ metimai kažką pastebėti yra „Hard“). Toje tamsoje jie skiria tik pilkos spalvos atspalvius. „Darkvision“ neleidžia matyti magiškoje tamsoje.
+- ** neraštingumas:** Jei užauginti orkų, pusorkiai paprastai nemoka skaityti ir rašyti. Jie gali išmokti raštingumo praleidę 1 „Experience Roll“ ir mėnesį mokymų pas veikėją, kuris moka raštingą norimą kalbą. Tai suteikia jiems pagrindinį raštingumą, lygų pusei įgūdžio lygio viena kalba, kurią veikėjas moka. Jei pageidaujama, dar 1 „Experience Roll“ ir mėnesis mokymų suteiks visą raštingumą. Mokantis naujų kalbų žaidimo metu, galima daryti prielaidą, kad jie mokosi visu raštingumo lygiu. Pusorkiai, užauginti kitos kultūros, bus raštingi, jei ta kultūra taip pat yra raštinga.
+- **Išgyvenimo premija (specifinė):** Jei užauginti orkų, pusorkiai visas „Survival“ užduotis, susijusias su jų kilmės vietove, atlieka viena pakopa lengviau.
 
 ---
-### Pusūgis (Halfling)
+### Pusūgiai
 
-Taikūs, civilizuoti žmonės, gyvenantys daugiausia žemdirbišką gyvenimą, pusūgiai yra smulkūs humanoidai, kurie, stovėdami vidutiniškai 4'0" (apie 122 cm) – 4'3" (apie 130 cm) ūgio, yra žemesni už nykštukus, bet aukštesni už gnomus. Jų namai – ūkiai ir sodybos, o kaimai sudaro glaudžias bendruomenes. Pusūgiai yra mažiausiai nuotykius mėgstanti rasė ir gali būti didžiąja dalimi nepastebimi, nes niekam nekelia jokios grėsmės.
+Taikūs, civilizuoti žmonės, gyvenantys daugiausia agrarinį gyvenimą – pusūgiai yra smulkūs humanoidai, kurių ūgis vidutiniškai 4 pėdos – 4 pėdos 3 coliai; jie žemesni už nykštukus, bet aukštesni už gnomus. Jų namai – ūkiai ir sodybos, o kaimai sudaro glaudžias bendruomenes. Pusūgiai yra mažiausiai nuotykių ieškantys iš visų rasių ir dažnai lieka nepastebėti, nes niekam nekelia jokios grėsmės.
 
-Iš pirmo žvilgsnio pusūgius galima supainioti su vaikais, tačiau atidžiau patyrinėjus skirtumai akivaizdūs. Pusūgiai turi smailias ausis, o oda, plaukai ir akių spalvos atitinka įprastą diapazoną. Jie turi dideles, tvirtas pėdas, kurios yra per didelės kūnui ir paprastai gana plaukuotos. Batų ir aulinukų vengiama; pėdų padai yra itin stori, suteikiantys daugiau nei pakankamą apsaugą nuo akmenų ir uolų.
+Iš pirmo žvilgsnio pusūgiai gali būti palaikyti vaikais, tačiau atidžiau patyrinėjus skirtumai akivaizdūs. Pusūgiai turi smailias ausis, o jų odos, plaukų ir akių spalvos atitinka įprastą spektrą. Jie turi dideles, tvirtas pėdas, kurios yra per didelės kūnui ir paprastai gana plaukuotos. Batų ir aulinukų jie vengia; pėdų padai itin stori, todėl suteikia daugiau nei pakankamą apsaugą nuo akmenų ir uolienų.
 
-Nors jie paprastai nemėgsta nuotykių, pusūgiai yra smalsūs. Jie mėgsta žinoti ir dalytis paslaptimis. Jie dievina istorijas, mitus ir pasakėčias bei turi klausinėjančius protus. Tai reiškia, kad būnant užsienyje, pasaulis yra žavi vieta, kurią reikia tirti ir priimti – ir tai gali įtraukti pusūgius į bėdą. Kitu atveju, pusūgiai yra gana proziška, patenkinta rasė, kuri laikosi savęs ir nenori nei kištis į platesnį pasaulį, nei leisti jam kištis į juos.
+Nors jie apskritai ne linkę į nuotykius, pusūgiai yra smalsūs. Jiems patinka žinoti ir dalintis paslaptimis. Jie dievina istorijas, mitus bei pasakėčias ir pasižymi tyrinėjančiu protu. Tai reiškia, kad būdami svetur, jie randa pasaulį žavinga vieta, kurią verta išklausinėti ir pažinti – ir tai gali įvelti pusūgius į bėdą. Šiaip pusūgiai yra gana proziška, patenkinta rasė, kuri laikosi nuošalyje ir nenori nei kištis į platesnį pasaulį, nei kad jis kištųsi į jų gyvenimą.
 
-Daugumai kitų rasių pusūgiai yra trumpakojai plaukuotapėdžiai kleptomanai – ne visai nepagrįstas požiūris, nes dauguma tų, kurie pasirenka nuotykių gyvenimą, gali lengvai įtraukti šiek tiek slapstymosi ir apgaulės dėl savo mažo dydžio ir greitų pirštų, bet gali egzistuoti ir kitos klasės. Yra senas nykštukų posakis: „jei jūsų kompanijoje yra pusūgis, patikrinkite savo piniginę, jei jos trūksta – patikrinkite jo“.
+Daugumai kitų rasių pusūgiai yra žemi, plaukuotomis pėdomis vagys – ne visai nepagrįstas požiūris, nes daugelis tų, kurie pasirenka nuotykių kelią, dėl savo mažo ūgio ir greitų pirštų lengvai gali pasinaudoti šiek tiek slapumo bei apgaulės, tačiau egzistuoja ir kitų klasių atstovų. Yra senas nykštukų posakis: „jei tavo būryje yra pusūgis, pasitikrink piniginę; jei jos nėra – pasitikrink jį.“
 
-Nepaisant to, kad yra fiziškai mažesni ir silpnesni už daugumą kitų protingų rūšių, pusūgiai kompensuoja tai tam tikru grakštumu, kuris jiems gerai pasitarnauja kebliose situacijose. Nors ir atsargūs, jie nėra bailiai: pusūgiai gali sakyti, kad tokie yra, bet kai reikia kovoti už savo namus ir gyvenimo būdą, jie gali sukaupti didžiules drąsos atsargas. Trumpai tariant, pusūgiai yra geri žaidėjų veikėjai, ypač tiems žaidėjams, kurie renkasi slapstytis, o ne drąsiai vaikščioti per pelkes. Jie gyvena ilgai, jų gyvenimo trukmė apie 170 metų.
+Nors fiziškai jie mažesni ir silpnesni už daugelį kitų protingų rūšių, pusūgiai tai kompensuoja savotišku vikrumu, kuris jiems gerai pasitarnauja kebliose situacijose. Nors ir atsargūs, jie nėra bailiai: pusūgiai gali sakyti, kad tokie yra, bet kai reikia kovoti už savo namus ir gyvenimo būdą, jie gali sutelkti milžiniškas drąsos atsargas. Trumpai tariant, pusūgiai yra geri veikėjai žaidėjams, ypač tiems, kurie mieliau renkasi slaptą judėjimą nei drąsų žygiavimą per numylėtą vietovę. Jie ilgaamžiai, gyvena apie 170 metų.
 
 #### Kultūra
 
-Pusūgių kultūra yra panaši į civilizuotą. Jie gyvena mažose bendruomenėse, vadinamose grafystėmis (shires), glaudžiai susijusiuose kaimuose ir mažuose miesteliuose, kurių pagrindą sudaro kelios išplėstinės šeimos. Jų pramonė paprasta: daugiausia žemdirbystė, bet taip pat amatai, tokie kaip keramika, audimas, odos apdirbimas ir tekstilė. Jie dirba su metalais, bet labai retai ginklams ir šarvams. Kaip ir elfai, dauguma pusūgių niekada nepaliks savo bendruomenių. Vietoj to, jie mieliau lieka namuose, valgo savo dvylika valgių per dieną, rūko pypkes ir geria bendraudami su draugais bei artimaisiais. Tačiau kartais pasitaiko pusūgis, kuriam kyla nuotykių troškulys. Bendras kultūrinis vienetas pusūgiams yra „Riding“; sritis, apribota trijų grafysčių, todėl kiekvieno „Riding“ dydis smarkiai skiriasi. „Borough“ (miestelis) suformuojamas iš trijų „Riding“.
+Pusūgių kultūra artima civilizuotai. Jie gyvena mažose bendruomenėse, vadinamose grafystėmis (shires), glaudžiai susijusiuose kaimuose ir mažuose miesteliuose, kurių pagrindą sudaro kelios išplėstinės šeimos. Jų pramonė paprasta: daugiausia žemdirbystė, bet taip pat amatai, tokie kaip keramika, audimas, odos apdirbimas ir tekstilė. Jie apdoroja metalus, bet labai retai ginklams ir šarvams. Kaip ir elfai, dauguma pusūgių niekada neišvyksta iš savo bendruomenių. Vietoj to jie mieliau lieka namuose, valgo savo dvylika kartų per dieną, rūko pypkes ir geria bendraudami su draugais bei artimaisiais. Tačiau retkarčiais atsiranda pusūgis, kurį apima nuotykių troškulys. Bendras pusūgių kultūrinis vienetas yra „Riding“; tai teritorija, apribota trijų grafysčių, todėl kiekvieno „Riding“ dydis gerokai skiriasi. „Borough“ sudaro trys „Riding“.
 
 #### Įgūdžiai
 
-- **Laisvi įgūdžiai:** Papročiai +40, Kalba (Bendroji) +40, Kalba (Pusūgių) +40
-- **Standartiniai įgūdžiai:** Šokis arba Dainavimas, Išsisukimas, Įžvalga, Vietovės išmanymas, Suvokimas, Slapstymasis, Valia
-- **Profesiniai įgūdžiai:** Menas (bet koks), Prekyba, Amatas (bet koks), Mandagumas, Kalba (bet kokia\*), Žinios (bet kokios), Muzikavimas, Gatvės išmanymas.
+- **Laisvi įgūdžiai:** „Customs“ +40, „Language (Common)“ +40, „Language (Halfling)“ +40
+- **Standartiniai įgūdžiai:** „Dance“ arba „Sing“, „Evade“, „Insight“, „Locale“, „Perception“, „Stealth“, „Willpower“
+- **Profesiniai įgūdžiai:** „Art (any)“, „Commerce“, „Craft (any)“, „Courtesy“, „Language (any*)“, „Lore (any)“, „Musicianship“, „Streetwise“.
 
-_\* Kuriant veikėją, papildomos kalbos apsiriboja nykštukų, elfų, gnomų, goblinų ir orkų kalbomis._
+_\* Kuriant veikėją, papildomos kalbos ribojamos iki nykštukų, elfų, gnomų, goblinų ir orkų._
 
 #### Pasaulėžiūra ir aistros
 
-- **Pasaulėžiūra:** Bet kokia, bet paprastai įstatymiškai gera (Lawful Good), pasirinkite vieną ar du iš kiekvienos, arba pasirinkite kitokią pasaulėžiūrą.
-  - **Įstatymiška** (Sąžiningas, garbingas, patikimas, pasitikintis, patikimas, gerų manierų)
-  - **Gera** (Žavus, altruistiškas, labdaringas, turi skrupulų prieš kenkimą nekaltiesiems, padorus, etiškas, atlaidus, draugiškas, nekenčia blogio, paslaugus, malonus, myli gamtą, gailestingas, optimistiškas, pozityvus, vegetaras)
+- **Pasaulėžiūra:** Bet kokia, bet paprastai „Lawful Good“; pasirinkite vieną ar du iš kiekvieno arba pasirinkite kitą pasaulėžiūrą.
+  - **Įstatymiška** (Sąžiningumas, garbė, patikimumas, pasitikėjimas, padorumas, geras elgesys)
+  - **Gera** (Žavinti, altruistiška, labdaringa, jaučianti sąžinės graužatį dėl žalos nekaltiesiems, padori, etiška, atlaidi, draugiška, nekenčianti blogio, paslaugi, maloni, mylinti gamtą, gailestinga, optimistiška, pozityvi, vegetariška)
 - **Aistra:** Bet kokia, bet paprastai viena ar dvi iš šių:
-  - Lojalumas (grafystei, „Riding“ ar „Borough“)
-  - Meilė (kažkam emocionalaus)
+  - Lojalumas (grafystei, „Riding“ arba „Borough“)
+  - Meilė (kažkam emocingam)
   - Neapykanta (sunkiajai pramonei)
 
 #### Specialios taisyklės
 
-- **Judesys:** 15 pėdų.
-- **Raštingi:** Pusūgiai paprastai moka skaityti ir rašyti bet kokia kalba, kuria šneka.
-- **Atsparumas magijai:** Kaip ir nykštukai, pusūgiai yra labai atsparūs arkaninei magijai, o Valios patikrinimai yra vienu laipsniu lengvesni, kai naudojami pasipriešinti. Šis atsparumas neturi įtakos dieviškajai magijai.
-- **Atsparumas nuodams:** Pusūgiai taip pat yra labai atsparūs nuodams, o ištvermės metimai, susiję su apsinuodijimu, yra vienu laipsniu lengvesni.
-- **Slapstymasis:** Pusūgiai, dėvintys ne daugiau kaip lengvus šarvus, randa slapstymosi testus 1 laipsniu lengvesnius.
-- **Pakantumas sąlygoms (Pėdos):** Pusūgiai nepatiria jokių neigiamų poveikių dėl sąlygų vaikščiodami basomis, nepaisant temperatūros. Jie patiria sąlygų poveikį įprastai likusiai kūno daliai.
+- **Judėjimas:** 15 pėdų.
+- **Raštingumas:** Pusūgiai paprastai moka skaityti ir rašyti bet kuria kalba, kuria šneka.
+- **Atsparumas magijai:** Kaip ir nykštukai, pusūgiai yra labai atsparūs „Arcane Magic“; „Willpower“ tikrinimai yra viena pakopa lengvesni, kai naudojami pasipriešinimui. Šis atsparumas neturi įtakos dieviškajai magijai.
+- **Atsparumas nuodams:** Pusūgiai taip pat yra labai atsparūs nuodams, todėl „Endurance“ metimai, susiję su apsinuodijimu, yra viena pakopa lengvesni.
+- **Slaptumas:** Pusūgiai, dėvintys ne sunkesnius nei lengvi šarvai drabužius, „Stealth“ testus atlieka 1 pakopa lengviau.
+- **Tolerancija aplinkos poveikiui (pėdos):** Pusūgiai nepatiria neigiamo poveikio vaikščiodami basomis, nepriklausomai nuo temperatūros. Tačiau likusios kūno dalies atžvilgiu jie patiria poveikį įprastai.

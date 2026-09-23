@@ -1,374 +1,372 @@
-# Kafli 2: Menning og kynþættir
+# Kafli 2: Menning & Kynþættir
 
-Hér á eftir fylgir lýsing á hverjum kynþætti ásamt lista yfir viðeigandi færni-bónusa. Leikmenn sem velja mannlegan karakter þurfa að skilgreina karakterinn sinn nánar með viðeigandi menningu. Leikmenn ættu að bæta færni-bónusunum strax við staðlaða færni (Standard Skills) á persónublaðinu sínu og bæta viðbótarfærni, sem kallast atvinnufærni (Professional Skills, kynnt í næsta kafla), við viðeigandi hluta blaðsins. Í mörgum tilfellum listar kynþáttur upp úrval færni og hvetur leikmanninn til að velja eina eða fleiri sem fá bónus: á þennan hátt geta leikmenn af sama kynþætti tryggt að ævintýramenn þeirra séu ólíkir á þeim sviðum sem þeir hafa þróað með sér.
+Hér á eftir fylgir lýsing á hverjum kynþætti ásamt lista yfir viðeigandi færni-bónusa. Leikmenn sem velja mannlegan karakter þurfa að skilgreina karakterinn sinn nánar með viðeigandi menningu. Leikmenn ættu að bæta færni-bónusum strax við staðlaða færni (Standard Skills) á karakterblaðinu sínu og bæta viðbótar-færni, sem kallast atvinnufærni (Professional Skills, kynnt í næsta kafla), við viðeigandi hluta blaðsins. Í mörgum tilfellum listar kynþáttur upp úrval af færni og býður leikmanninum að velja eina eða fleiri sem fá bónus: á þennan hátt geta leikmenn með sama kynþáttabakgrunn tryggt að ævintýramenn þeirra séu ólíkir á þeim sviðum sem þeir hafa þróað.
 
-Athugið einnig að hver kynþáttur kemur með dæmigerðri lífsskoðun (Alignment) og nokkrum ástríðum (Passions) (sjá [Kafli 4: Lífsskoðun og ástríður](0004_Alignment_and_Passions.md)). Lífsskoðun og ástríður geta bætt mikilli dýpt og persónusköpun við þann ævintýramann sem þú ert að skapa, skilgreint rótgrónar óskir og fordóma auk þess að skilgreina siðferðisgildi karakterins.
+Athugaðu einnig að hver kynþáttur kemur með dæmigerða lífsskoðun (Alignment) og nokkrar ástríður (sjá [Kafli 4: Lífsskoðun og ástríður](0004_Alignment_and_Passions.md)). Lífsskoðun og ástríður geta bætt mikilli dýpt og persónusköpun við þann ævintýramann sem þú ert að skapa, skilgreint rótgrónar óskir og fordóma sem og siðferðisgildi karaktersins.
 
 ---
 ## Menn
 
-Menn geta búið á nær hvaða stað sem er í fantasíuheimi og geta átt samskipti við hvaða tegund sem er á einum tímapunkti eða öðrum. Sumir af hálf-mannlegum og mannlegum kynþáttum líta á menn sem sína traustustu bandamenn; aðrir líta á þá sem sína hefnigjörnustu óvini. Þeir geta náð um 100 ára aldri, stundum jafnvel meira, þó sjaldan náttúrulega. Menn hafa tilhneigingu til að vera fljótir að læra og eru aðlögunarhæfari að breytingum en nokkur hinna kynþáttanna. Margir trúa því að menn séu útvalin þjóð guðanna, trú sem er ekki án nokkurs sannleikskorns, þar sem hálf-mannlegir kynþættir virðast vera á undanhaldi í samanburði við menn. Auðvitað rekja sumir hálf-mannlegir kynþættir þetta til gráðugs eðlis mannkynsins við landvinninga.
+Menn geta búið á nær hvaða stað sem er í fantasíuheimi og geta átt samskipti við hvaða tegund sem er á einhverjum tímapunkti. Sumir af hálf-mannlegum og mannlegum kynþáttum líta á menn sem sína traustustu bandamenn; aðrir líta á þá sem hefnigjarnustu óvini. Þeir geta náð nálægt 100 ára aldri, stundum jafnvel farið yfir það, þó sjaldan á náttúrulegan hátt. Menn eiga það til að vera fljótir að læra og eru aðlögunarhæfari að breytingum en nokkur hinna kynþáttanna. Margir trúa því að menn séu valinn kynþáttur guðanna, trú sem er ekki án nokkurs sannleikskorns, þar sem hálf-mannlegir kynþættir virðast vera á undanhaldi í samanburði við menn. Að sjálfsögðu rekja sumir hálf-mannlegir kynþættir þetta til gráðugs eðlis mannlegrar útþenslu.
 
 ### Mannleg menning
 
-Af öllum spilanlegum kynþáttum velja aðeins menn sérstaka menningu, sem hjálpar þeim að skilgreina sig enn frekar. Athugið að hver menning getur verið enn nákvæmari og hægt er að breyta henni þannig að hún sé mjög svæðisbundin. Hálf-mannlegir kynþættir eru síður útbreiddir og þar af leiðandi er menning þeirra einsleitari og að öllu leyti innifalin í kynþætti þeirra. Eftirfarandi upplýsingar greina frá fjórum tegundum mannlegrar menningar.
+Af öllum spilanlegum kynþáttum velja aðeins menn sérstaka menningu, sem hjálpar þeim að skilgreina sig enn frekar. Athugaðu að hver menning getur verið enn nákvæmari og hægt er að breyta henni til að vera mjög svæðisbundin. Hálf-mennskir kynþættir eru síður útbreiddir í samanburði, og afleiðingin er sú að menning þeirra er einsleitari og algjörlega innifalin í kynþætti þeirra. Eftirfarandi upplýsingar útskýra fjórar tegundir mannlegrar menningar.
 
 ---
-### Barbarar
+### Barbari
 
-Barbarar eru ættbálkamenning og hafa tilhneigingu til að forðast siðmenningu og líta á þá sem búa í stórum bæjum og borgum sem veika og spillta. Þótt þeirra eigin búsetur séu einnig fastar í sessi, eru þær yfirleitt mun smærri og nær náttúrunni. Barbarabálkar hernema afmörkuð landsvæði, oft hálf-tamda óbyggð, sem þeir telja vera sína eigin til veiða, beitar og búskapar. Flestir eru leiknir í notkun vopna þar sem þeir verða að yfirstíga margar hættur í lífi sínu – glíma við verur í óbyggðum eða safnast saman til að verja lönd sín gegn keppinautum. Þar sem þeir búa í litlum samfélögum eru bönd ættartengsla og klana sterkur þáttur í samfélagi þeirra.
+Barbarar eru ættbálkamenning og hafa tilhneigingu til að forðast siðmenningu, og líta á þá sem búa í stórum bæjum og borgum sem veika og spillta. Þótt þeirra eigin búsetur séu einnig fastar, eru þær yfirleitt mun minni og nær náttúrunni. Barbaraættbálkar hernema sérstök landsvæði, oft hálf-tamda óbyggð, sem þeir telja vera sína eigin fyrir veiðar, beit og landbúnað. Flestir eru leiknir í notkun vopna þar sem þeir verða að yfirstíga margar hættur á lífsleiðinni – mæta ókindum í óbyggðum eða safnast saman til að verja lönd sín gegn keppinautum. Þar sem þeir búa í litlum samfélögum eru ættartengsl og klantengsl sterkir þættir í samfélagi þeirra.
 
 #### Færni
 
-- **Frjáls færni:** Siðir (Customs) +40, Tungumál (Algengt) +40
-- **Staðlað færni:** Íþróttir (Athletics), Afl (Brawn), Þrek (Endurance), Skyndihjálp (First Aid), Staðkunnátta (Locale), Skynjun (Perception); og annaðhvort Bátsferðir (Boating) eða Ríðandi (Ride)
-- **Atvinnufærni:** Iðn (hver sem er), Lækningar, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Tónlist, Leiðsögn (Navigate), Sjómennska, Lifun (Survival), Rakning (Track)
+- **Frjáls færni:** Venjur +40, Tungumál (Sameiginlegt) +40
+- **Staðlað færni:** Íþróttir, Kraftur, ÞOL, Fyrsta hjálp, Staðkunnátta, Skynjun; og annaðhvort Bátastjórn eða Ríðandi
+- **Atvinnufærni:** Handverk (hvaða sem er), Græðsla, Tungumál (hvaða sem er*), Fræði (hvaða sem er), Tónlistarhæfileikar, Leiðsögn, Sjómennska, Lifun, Rekja
 
-_\* Menn eru ekki takmarkaðir í vali á tungumálum við sköpun karakters ef þeir geta rökstutt valið._
+_\* Menn eru ekki takmarkaðir við val á tungumálum við sköpun karakters ef þeir geta réttlætt valið._
 
 #### Lífsskoðun og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, veljið eina eða tvær úr siðareglum (Lögmætt, Hlutlaust eða Óreiðukennt), og eina eða tvær úr siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veljið eina eða tvær úr Algerlega hlutlaust.
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við ættbálkahöfðingja
-  - Ást (vinur, systkini eða ástvinur)
-  - Hatur (galdrar, vera, keppinautur eða klan)
+- **Lífsskoðun:** Hvaða sem er, veldu eina eða tvær úr Siðareglum (Lögmætt, Hlutlaust eða Kaótískt), og eina eða tvær úr Siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veldu eina eða tvær úr Alveg Hlutlaust.
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Hollusta við ættbálkahöfðingja
+  - Ást (vinur, systkini, eða rómantískur elskhugi)
+  - Hatur (töfrar, skepna, keppinautur, eða ættbálkur)
 
-#### Sérreglur
+#### Sérstakar reglur
 
 - **Hreyfing:** 20 fet.
-- **Lifunarbónus (sérstakur):** Barbarar finna að allar lifunarkast (Survival rolls) sem tengjast upprunasvæði þeirra eru einu stigi auðveldari.
-- **Þol gegn útsetningu:** Barbarar þjást af minni áhrifum vegna útsetningar fyrir miklum hitabreytingum sem tengjast upprunasvæði þeirra. Til dæmis, ef þeir koma frá köldu loftslagi, fengju jafnvel léttklæddir barbarar frest sem jafngildir CON-gildi þeirra í klukkustundum áður en útsetning hefst. Að klæðast viðeigandi fatnaði myndi lengja þetta í tvöfalt CON-gildi þeirra í klukkustundum. Eftir þann tíma þurfa þeir að leita skjóls eða byrja að þjást af þreytutapi (Fatigue loss). Sjá veðurtöflurnar á síðu XX fyrir frekari upplýsingar.
-- **Ólæsir:** Barbarar eru yfirleitt ófærir um að lesa eða skrifa. Þeir geta lært læsi með því að eyða 1 reynslukasti (Experience Roll) og mánaðarþjálfun undir stjórn karakters sem er læs á viðkomandi tungumál. Þetta gefur þeim grunnlæsi sem jafngildir hálfu færnistigi í einu tungumáli sem karakterinn kann. Ef óskað er, munu önnur 1 reynslukast og mánaðarþjálfun gefa þeim fullt læsi. Þegar ný tungumál eru lærð í leik má gera ráð fyrir að þeir læri þau á fullu læsisstigi.
-- **Heppnir:** Menn byrja með eitt auka heppnispunkt (Luck Point).
+- **Lifunarbónus (Sérstakur):** Barbarar finna að öll Lifunarkast sem tengjast upprunasvæði þeirra eru einum gráðu auðveldari.
+- **Þol gagnvart útsetningu:** Barbarar þjást af minni áhrifum frá útsetningu fyrir öfgafullum hita sem tengist upprunasvæði þeirra. Til dæmis, ef þeir koma frá köldum loftslagi, fengju jafnvel léttklæddir barbarar frest sem samsvarar ÞOL þeirra í klukkustundum áður en útsetning hefst. Að klæðast viðeigandi fatnaði myndi lengja þetta í tvöfalt ÞOL þeirra í klukkustundum. Eftir þann tímapunkt þurfa þeir að leita skjóls eða byrja að þjást af þreytutapi. Sjá Veðurtöflur á blaðsíðu XX fyrir frekari upplýsingar.
+- **Læsir ekki:** Barbarar eru venjulega ófærir um að lesa eða skrifa. Þeir geta lært læsi með því að eyða 1 reynslukasti og mánuði í þjálfun undir stjórn karakters sem er læs á viðkomandi tungumál. Þetta gefur þeim grunnlæsi sem jafngildir hálfu færnistigi í einu tungumáli sem karakterinn kann. Ef óskað er, munu annað reynslukast og mánuður í þjálfun gefa þeim fullt læsi. Þegar ný tungumál eru lærð í leik má gera ráð fyrir að þeir séu að læra þau á fullu læsisstigi.
+- **Heppinn:** Menn byrja með einn viðbótar Heppnispunkt.
 
 ---
-### Siðmenntaðir
+### Siðmenntaður
 
-Siðmenntuð menning einkennist af ásýnd laga og reglu, studd af flóknum félagslegum reglum og studd af skriffinnsku. Siðmenntað fólk telur sig æðra öllum öðrum menningarheimum vegna þess að afrek þeirra stefna að varanleika: útbreiddar borgir, tignarleg hof, hátíðleg minnismerki og skráning sögu og atburða í bækur, rit og fletti. Auðvitað er þetta þunnur fernis. Siðmenntuðustu borgir geta verið ólöglegri en nokkur barbaralandamærabyggð; og félagslegar reglur gætu verið grófari en gestrisniritúöl hirðingja. En siðmenntuð menning stærir sig af afrekum sínum, innviðum, faglegum iðnaðarmönnum og getu sinni til að teygja sig auðveldlega hvert sem hún vill fara.
+Siðmenntuð menning einkennist af skinni af lögum og reglu, studd af flóknum félagslegum reglum og studd af skrifræði. Siðmenntað fólk telur sig æðra öllum öðrum menningarheimum vegna þess að afrek þeirra hafa tilhneigingu til varanleika: víðáttumiklar borgir, tignarleg musteri, hátíðleg minnismerki og skráning sögu og atburða í bækur, rit og flettingar. Að sjálfsögðu er þetta þunn skel. Þær siðmenntuðustu borgir geta verið laglausari en nokkur barbara-landamærabyggð; og félagslegar reglur geta verið grófari en gestrisnisiðir hirðingja. En siðmenntuð menning stærir sig af afrekum sínum, innviðum, faglegum handverksmönnum og getu sinni til að auðveldlega útvíkka áhrifasvið sitt hvert sem þeir vilja fara.
 
 #### Færni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40
-- **Staðlað færni:** Fela (Conceal), Svik (Deceit), Akstur (Drive), Áhrif (Influence), Innsæi (Insight), Staðkunnátta, Viljastyrkur (Willpower)
-- **Atvinnufærni:** List (hver sem er), Viðskipti, Iðn (hver sem er), Kurteisi, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Tónlist, Streetwise.
+- **Frjáls færni:** Venjur +40, Tungumál (Sameiginlegt) +40
+- **Staðlað færni:** Fela, Svik, Keyrsla, Áhrif, Innsæi, Staðkunnátta, Viljastyrkur
+- **Atvinnufærni:** List (hvaða sem er), Verslun, Handverk (hvaða sem er), Kurteisi, Tungumál (hvaða sem er*), Fræði (hvaða sem er), Tónlistarhæfileikar, Götukunnátta.
 
-_\* Menn eru ekki takmarkaðir í vali á tungumálum við sköpun karakters ef þeir geta rökstutt valið._
+_\* Menn eru ekki takmarkaðir við val á tungumálum við sköpun karakters ef þeir geta réttlætt valið._
 
 #### Lífsskoðun og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, veljið eina eða tvær úr siðareglum (Lögmætt, Hlutlaust eða Óreiðukennt), og eina eða tvær úr siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veljið eina eða tvær úr Algerlega hlutlaust.
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við bæ/borg
-  - Ást (vinur, systkini eða ástvinur)
-  - Hatur (keppinautur, gengi, hverfi eða borg)
+- **Lífsskoðun:** Hvaða sem er, veldu eina eða tvær úr Siðareglum (Lögmætt, Hlutlaust eða Kaótískt), og eina eða tvær úr Siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veldu eina eða tvær úr Alveg Hlutlaust.
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Hollusta við Bæ/Borg
+  - Ást (vinur, systkini, eða rómantískur elskhugi)
+  - Hatur (keppinautur, gengi, hverfi, eða borg)
 
-#### Sérreglur
+#### Sérstakar reglur
 
 - **Hreyfing:** 20 fet.
-- **Læs:** Þeir sem koma frá siðmenntuðum svæðum eru yfirleitt færir um að lesa og skrifa öll tungumál sem þeir geta talað.
-- **Heppnir:** Menn byrja með eitt auka heppnispunkt.
+- **Læsir:** Þeir sem koma frá siðmenntuðum svæðum eru venjulega færir um að lesa og skrifa öll tungumál sem þeir geta talað.
+- **Heppinn:** Menn byrja með einn viðbótar Heppnispunkt.
 
 ---
-### Hirðingjar
+### Hirðingi
 
-Hirðingjar eru stöðugt á ferðinni, án heimilis til að kalla sitt. Þeir gætu flakkað stefnulaust um eða átt nokkrar búðir sem þeir flytja á milli allt árið um kring. Þeir rækta fáar nytjajurtir og fylgja í staðinn dýraflutningum eða fiski, kannski jafnvel gæta eigin húsdýra. Hirðingjar eru leiknir í að lifa af því sem þeir geta fljótt og auðveldlega hirt úr umhverfi sínu, án þess að láta neitt fara til spillis. Færni hirðingjamenningar ætti að vera sniðin að umhverfi þeirra. Sumir ferðast langar vegalengdir fótgangandi, aðrir búa í hjólhýsum eða ríða undarlegum verum, og sumir reka um höfin á stórum flotum.
+Hirðingjar eru stöðugt á ferðinni, án heimilis og arins til að kalla sinn eigin. Þeir kunna að reika stefnulaust um eða kunna að hafa nokkrar búðir sem þeir flytja sig á milli yfir árið. Þeir rækta fáar uppskerur og elta frekar göngur dýra eða fiska, kannski jafnvel gæta eigin húsdýra. Hirðingjar eru leiknir í að lifa á því sem þeir geta fljótt og auðveldlega sótt í umhverfi sitt, láta ekkert til spillis fara. Færni hirðingjamenningarinnar ætti að vera sniðin að umhverfi þeirra. Sumir ferðast langar vegalengdir fótgangandi, aðrir búa í hjólhýsum eða ríða undarlegum skepnum, og sumir reka um höfin á miklum fljótandi flekum.
 
 #### Færni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40.
-- **Staðlað færni:** Þrek, Skyndihjálp, Staðkunnátta, Skynjun, Læðupör (Stealth); og tvö af eftirfarandi: Íþróttir, Bátsferðir, Sund, Akstur eða Ríðandi eftir aðalferðamáta.
-- **Atvinnufærni:** Iðn (hver sem er), Menning (hvaða sem er), Lækningar, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Tónlist, Leiðsögn, Lifun, Rakning.
+- **Frjáls færni:** Venjur +40, Tungumál (Sameiginlegt) +40.
+- **Staðlað færni:** ÞOL, Fyrsta hjálp, Staðkunnátta, Skynjun, Laumuspil; og tvö af eftirfarandi: Íþróttir, Bátastjórn, Sund, Keyrsla eða Ríðandi eftir aðalferðamáta.
+- **Atvinnufærni:** Handverk (hvaða sem er), Menning (hvaða sem er), Græðsla, Tungumál (hvaða sem er*), Fræði (hvaða sem er), Tónlistarhæfileikar, Leiðsögn, Lifun, Rekja.
 
-_\* Menn eru ekki takmarkaðir í vali á tungumálum við sköpun karakters ef þeir geta rökstutt valið._
+_\* Menn eru ekki takmarkaðir við val á tungumálum við sköpun karakters ef þeir geta réttlætt valið._
 
 #### Lífsskoðun og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, veljið eina eða tvær úr siðareglum (Lögmætt, Hlutlaust eða Óreiðukennt), og eina eða tvær úr siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veljið eina eða tvær úr Algerlega hlutlaust.
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við ættbálkahöfðingja/Khan
-  - Ást (vinur, systkini eða ástvinur)
-  - Hatur (vera, keppinautur eða ættbálkur)
+- **Lífsskoðun:** Hvaða sem er, veldu eina eða tvær úr Siðareglum (Lögmætt, Hlutlaust eða Kaótískt), og eina eða tvær úr Siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veldu eina eða tvær úr Alveg Hlutlaust.
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Hollusta við Ættbálkahöfðingja/Khan
+  - Ást (vinur, systkini, eða rómantískur elskhugi)
+  - Hatur (skepna, keppinautur, eða ættbálkur)
 
-#### Sérreglur
+#### Sérstakar reglur
 
 - **Hreyfing:** 20 fet.
-- **Lifunarbónus (sérstakur):** Hirðingjar finna að allar lifunarkast sem tengjast upprunasvæði þeirra eru einu stigi auðveldari.
-- **Læs:** Vegna þess að þeir hafa samskipti við marga aðra kynþætti og menningarheima eru þeir frá hirðingjamenningu yfirleitt færir um að lesa og skrifa öll tungumál sem þeir geta talað.
-- **Heppnir:** Menn byrja með eitt auka heppnispunkt.
+- **Lifunarbónus (Sérstakur):** Hirðingjar finna að öll Lifunarkast sem tengjast upprunasvæði þeirra eru einum gráðu auðveldari.
+- **Læsir:** Vegna þess að þeir hafa samskipti við marga aðra kynþætti og menningarheima, eru þeir frá hirðingjamenningu venjulega færir um að lesa og skrifa öll tungumál sem þeir geta talað.
+- **Heppinn:** Menn byrja með einn viðbótar Heppnispunkt.
 
 ---
-### Frumstæðir
+### Frumstæður
 
-Af öllu fólki eru þeir frumstæðustu þeir sem lifa næst landinu, í takt við leyndarmál þess. Frumstæð menning lifir í stórum fjölskylduhópum og safnast um mjög einföld híbýli sem geta verið allt frá hellum og náttúrulegum skjólum yfir í einföld skýli eða mjög frumstæða kofa. Frumstæðir eru yfirleitt safnarar og veiðimenn með annaðhvort engin eða illa þróuð kerfi fyrir landbúnað og búfjárrækt.
+Af öllum þjóðum eru frumstæðir þeir sem lifa næst landinu, í takt við földu leyndarmál þess. Frumstæðar menningar lifa í stórum fjölskylduhópum og safnast saman í kringum mjög einfaldar búsetur sem geta verið allt frá hellum og svæðum með náttúrulegu skjóli til tjaldskipana eða mjög einfaldra kofa. Frumstæðir eru venjulega veiðimenn-safnarar með annaðhvort fá, eða illa þróuð, kerfi fyrir búskap og húsdýrahald.
 
-Hins vegar geta ákveðnar menningarlegar skoðanir, oft byggðar á hjátrú, verið mjög vel skilgreindar. Fáar frumstæðar menningar hafa þróað eitthvað sem líkist ritmáli þótt málverk og önnur myndræn tákn þjóni sem samskiptaleið.
+Hins vegar geta ákveðnar menningarlegar skoðanir, oft byggðar á hjátrú, verið mjög vel skilgreindar. Fáar frumstæðar menningar hafa þróað nokkuð sem nálgast skrifað tungumál, þótt málverk og önnur myndræn tákn þjóni sem samskiptaleið.
 
 #### Færni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40.
-- **Staðlað færni:** Afl, Þrek, Undankoma (Evade), Staðkunnátta, Skynjun, Læðupör; og eitt af eftirfarandi: Íþróttir, Bátsferðir, Skyndihjálp eða Sund.
-- **Atvinnufærni:** Iðn (hver sem er), Lækningar, Fræði (hvaða sem er), Tungumál (hvaða sem er\*), Tónlist, Leiðsögn, Lifun, Rakning.
+- **Frjáls færni:** Venjur +40, Tungumál (Sameiginlegt) +40.
+- **Staðlað færni:** Kraftur, ÞOL, Forðast, Staðkunnátta, Skynjun, Laumuspil; og eitt af annaðhvort Íþróttir, Bátastjórn, Fyrsta hjálp, eða Sund.
+- **Atvinnufærni:** Handverk (hvaða sem er), Græðsla, Fræði (hvaða sem er), Tungumál (hvaða sem er*), Tónlistarhæfileikar, Leiðsögn, Lifun, Rekja.
 
-_\* Menn eru ekki takmarkaðir í vali á tungumálum við sköpun karakters ef þeir geta rökstutt valið._
+_\* Menn eru ekki takmarkaðir við val á tungumálum við sköpun karakters ef þeir geta réttlætt valið._
 
 #### Lífsskoðun og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, veljið eina eða tvær úr siðareglum (Lögmætt, Hlutlaust eða Óreiðukennt), og eina eða tvær úr siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veljið eina eða tvær úr Algerlega hlutlaust.
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við höfðingja
-  - Ást (vinur, systkini eða ástvinur)
-  - Hatur (eitthvað sem hræðir þig eða ógnar þér)
+- **Lífsskoðun:** Hvaða sem er, veldu eina eða tvær úr Siðareglum (Lögmætt, Hlutlaust eða Kaótískt), og eina eða tvær úr Siðferðisreglum (Gott, Hlutlaust eða Illt). Að öðrum kosti, veldu eina eða tvær úr Alveg Hlutlaust.
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Hollusta við Höfðingja/Formann
+  - Ást (vinur, systkini, eða rómantískur elskhugi)
+  - Hatur (eitthvað sem hræðir eða ógnar þér)
 
-#### Sérreglur
+#### Sérstakar reglur
 
 - **Hreyfing:** 20 fet.
-- **Lifunarbónus (sérstakur):** Frumstæð menning finnur að allar lifunarkast sem tengjast upprunasvæði þeirra eru einu stigi auðveldari.
-- **Ólæsir:** Frumstæðir eru yfirleitt ófærir um að lesa eða skrifa. Þeir geta lært læsi með því að eyða 1 reynslukasti og mánaðarþjálfun undir stjórn karakters sem er læs á viðkomandi tungumál. Þetta gefur þeim grunnlæsi sem jafngildir hálfu færnistigi í einu tungumáli sem karakterinn kann. Ef óskað er, munu önnur 1 reynslukast og mánaðarþjálfun gefa þeim fullt læsi. Þegar ný tungumál eru lærð í leik má gera ráð fyrir að þeir læri þau á fullu læsisstigi.
-- **Heppnir:** Menn byrja með eitt auka heppnispunkt.
+- **Lifunarbónus (Sérstakur):** Frumstæðar menningar finna að öll Lifunarkast sem tengjast upprunasvæði þeirra eru einum gráðu auðveldari.
+- **Læsir ekki:** Frumstæðir eru venjulega ófærir um að lesa eða skrifa. Þeir geta lært læsi með því að eyða 1 reynslukasti og mánuði í þjálfun undir stjórn karakters sem er læs á viðkomandi tungumál. Þetta gefur þeim grunnlæsi sem jafngildir hálfu færnistigi í einu tungumáli sem karakterinn kann. Ef óskað er, munu annað reynslukast og mánuður í þjálfun gefa þeim fullt læsi. Þegar ný tungumál eru lærð í leik má gera ráð fyrir að þeir séu að læra þau á fullu læsisstigi.
+- **Heppinn:** Menn byrja með einn viðbótar Heppnispunkt.
 
 ---
 ## Hálf-mannlegir kynþættir
 
-Hálf-mannlegir karakterar eru skapaðir á næstum sama hátt og menn. Einkenni (Characteristics) eru ákvörðuð með því að nota einkennakastið fyrir þá tegund, sem mun leiða til mismunandi gilda og sviða, en annars eru allir aðrir þættir: Eiginleikar, Menning, Stétt og svo framvegis, reiknaðir eðlilega.
+Hálf-mannlegir karakterar eru skapaðir á næstum sama hátt og menn. Einkenni eru ákvörðuð með því að nota Einkennaköst fyrir þá tegund, sem mun leiða til mismunandi Einkennagilda og sviða, en að öðru leyti eru allir aðrir þættir: Eiginleikar, Menning, Flokkur og svo framvegis, reiknaðir sem venjulega.
 
 ---
-### Dvergar
+### Dvergur
 
-Dvergar eiga heimili sín djúpt inni í fjallavirkjum, þar sem víðfeðmir göng grafast djúpt í jörðina. Meðaldvergurinn er sterkur, harðgerður og óþreytandi í bardaga. Að eðlisfari eru þeir frábærir handverksmenn, hafa oft tilhneigingu til námuvinnslu og málmvinnslu, með tilheyrandi ást á fjársjóðum og öllu efnislegu. Vörur þeirra eru mjög eftirsóttar af öllum.
+Dvergar gera heimili sín djúpt inni í fjallavirkjum, þar sem víðfeðmir göng grafa djúpt inn í jörðina. Meðaldvergurinn er sterkur, harðgerður og óþreytandi í bardaga. Að eðlisfari eru þeir framúrskarandi handverksmenn, hafa oft tilhneigingu til námuvinnslu og málmvinnslu, með meðfylgjandi ást á fjársjóðum og öllu veraldlegu. Vörur þeirra eru mjög eftirsóttar af öllum.
 
-Dvergar eru lágvaxnir og nokkuð þéttvaxnir, að meðaltali á milli 4' 8" og 4'10" á hæð. Hárlitur er yfirleitt svartur, grár eða dökkbrúnn, en sumir bera rauðleitt hár. Húð þeirra er rjóð eða jarðlit. Allir karlkyns dvergar kjósa sítt skegg, oft með fléttum eða tvískipt. Sumar dvergakonur rækta einnig skegg; þó kjósa flestar að hafa andlit sín hreinrakin.
+Dvergar eru lágvaxnir og nokkuð þéttvaxnir, að meðaltali á milli 4' 8" og 4' 10" á hæð. Hárlitur er yfirleitt svartur, grár, eða dökkbrúnn, en vitað er að örfáir sýna rauðleitt hár. Húð þeirra er rjóð eða jarðarlituð. Allir karlkyns dvergar kjósa löng skegg, oft broddótt, fléttuð, eða klofin. Sumar dvergakonur rækta líka skegg; hins vegar kjósa flestar að halda andlitum sínum sléttum.
 
-Dvergar eru af eðlisfari tortryggnir gagnvart öllum sem boða annan lífsstíl en þeirra eigin en eru ekki endilega fjandsamlegir gagnvart þeim. Þeir komast best af með gnomum, sem deila fjarlægum skyldleika, þrátt fyrir pirrandi húmor þeirra og tilhneigingu til prakkarastrika. Að auki eiga dvergar oft gott með mönnum; þeir hafa hins vegar litla þolinmæði gagnvart álfum vegna fornra stríða og langra minninga. Dvergar hafa tilhneigingu til að líka illa við halflinga, en áhyggjulaus lífsstíll þeirra stangast á við gróft og strangt eðli þeirra. Hatur þeirra á orkum, sem þeir líta á sem óhreinar og dýrslegar, er goðsagnakennt.
+Dvergar eru náttúrulega tortryggnir gagnvart hverjum þeim sem boðar annan lífsstíl en þeirra eigin en eru ekki endilega fjandsamlegir gagnvart þeim. Þeir ná best saman við dverga (gnomes), sem deila fjarlægum skyldleika, þrátt fyrir pirrandi húmor og tilhneigingu til prakkarastrika. Að auki ná dvergar venjulega vel saman við menn; hins vegar hafa þeir lítið þol fyrir álfum vegna fornra stríða og langra minninga. Dvergar hafa tilhneigingu til að líka illa við hálfmenn (halflings), en áhyggjulaus lífsstíll þeirra stangast á við gróft, strangt eðli þeirra. Hatur þeirra á orkum, sem þeir líta á sem óhreina og dýrslega, er goðsagnakennt.
 
-Dvergar eru langlífir og geta náð um 450 ára aldri. Þeir hafa ákveðna andúð á galdrum og finna sig því náttúrulega ónæma fyrir leyndardómsfullum göldrum (Arcane spells); guðlegir galdrar (Divine spells) hafa eðlileg áhrif á þá. Vegna þessa eru dvergagaldramenn óþekktir.
+Dvergar eru langlífir og geta náð um 450 ára aldri. Þeir hafa skýra andúð á töfrum og finna sig því náttúrulega ónæma fyrir dularfullum (Arcane) göldrum; guðlegir (Divine) galdrar hafa eðlileg áhrif á þá. Vegna þessa eru dverg-galdranotendur óþekktir.
 
 #### Dvergamenning
 
-Dvergar eru félagsverur bundnar í klan og ættbálka sem deila stóru neðanjarðarsölunum og borgunum. Að þessu leyti líkjast þeir mest barbaramenningu, þótt vissir lykilmunir séu til staðar. Í fyrsta lagi skiptir kyn ekki máli í dvergasamfélaginu: karlar og konur deila skyldum og ábyrgð jafnt. Þetta felur í sér barnauppeldi, handavinnu, veiðar og stríð. Í öðru lagi hafa dvergar tilhneigingu til að gera lítið úr einstaklingnum í þágu samfélagsins.
+Dvergar eru félagslyndar verur bundnar í ættir og ættbálka sem deila hinum miklu neðanjarðarsölum og borgum. Að þessu leyti líkjast þeir mest Barbara-menningunni, þótt það séu vissir lykilmunir. Í fyrsta lagi skiptir kyn ekki máli í dvergasamfélagi: karlar og konur deila skyldum og ábyrgð jafnt. Þetta felur í sér uppeldi barna, handavinnu, veiðar og stríð. Í öðru lagi hafa dvergar tilhneigingu til að gera lítið úr einstaklingnum í þágu samfélagsins.
 
-Dvergar vita að styrkur kemur frá fjöldanum og að óskir og þarfir einstaklingsins eru alltaf minni virði en fjöldans. Þeir eru hins vegar fjársöfnunar- og efnishyggjusamfélag, sem gætir afbrýðisamlega uppgötvana sinna og afreka. Dvergar elska hluti, og þegar þeir eru teknir úr klaninu getur einmana dvergur orðið eigingjarn og einstaklingshygginn mjög fljótt, vegna þess að heildardvergamenningin vantar til að leiðbeina og stjórna lágneðlis-hvatunum.
+Dvergar vita að styrkur kemur frá fjöldanum og að óskir og þarfir einstaklingsins eru alltaf vegnar þyngra af fjöldanum. Þeir eru hins vegar eignasamt og efnislegt samfélag, sem verja afrek sín og uppgötvanir afbrýðisamt. Dvergar vilja hluti, og þegar einmana dvergur er fjarlægður úr ættinni getur hann orðið eigingjarn og einstaklingshyggjusamur mjög fljótt, vegna þess að dvergamenningin í heild sinni er fjarverandi til að leiðbeina og stjórna þeim lægri eðlishvötum.
 
 #### Færni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Dverg) +40
-- **Staðlað færni:** Íþróttir, Afl, Þrek, Undankoma, Staðkunnátta, Skynjun, Viljastyrkur
-- **Atvinnufærni:** Viðskipti, Iðn (hver sem er), Verkfræði, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Vélbúnaður, Ræðumennska, Lifun.
+- **Frjáls færni:** Venjur +40, Tungumál (Sameiginlegt) +40, Tungumál (Dverg) +40
+- **Staðlað færni:** Íþróttir, Kraftur, ÞOL, Forðast, Staðkunnátta, Skynjun, Viljastyrkur
+- **Atvinnufærni:** Verslun, Handverk (hvaða sem er), Verkfræði, Tungumál (hvaða sem er*), Fræði (hvaða sem er), Búnaður, Ræðumennska, Lifun.
 
-_\* Við sköpun karakters eru viðbótartungumál takmörkuð við gnom, goblin, kobold og orc._
+_\* Við sköpun karakters eru viðbótar tungumál takmörkuð við dverga-gnome, tröll, kobold, og orka._
 
 #### Lífsskoðun og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, en venjulega Lögmætt gott (Lawful Good), veljið eina eða tvær úr hverri, eða veljið aðra lífsskoðun.
-  - **Lögmætt** (Lokaður, Hatast við óreiðu, Heiðarlegur, Virðulegur, Dómgjarn, Enginn húmor, Hlýðni við lögmæt yfirvöld, Skipulagður, Fyrirsjáanlegur, Áreiðanlegur, Traustur)
-  - **Gott** (Aðdáunarverður, Samviskubit við að skaða saklausa, Sæmilegur, Siðferðilegur, Vinalegur, Hatast við illsku, Hjálpsamur, Góðlegur, Bjartsýnn, Jákvæður)
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við klan
-  - Ást (eitthvað efnislegt)
-  - Hálfdvergar (Hill Dwarves): Hatur (Orcs, hálf-orkar, goblins og hobgoblins)
-  - Fjalladvergar (Mountain Dwarves): Hatur (Orcs, goblins, illir risar og dökkálfar)
+- **Lífsskoðun:** Hvaða sem er, en venjulega Lögmætt Gott, veldu eina eða tvær úr hvoru, eða veldu aðra lífsskoðun.
+  - **Lögmætt** (Þröngsýnt, Hatast við Kaos, Heiðarlegt, Virðulegt, Dómharðir, Engin húmor, Hlýðni við lögmæt yfirvöld, Skipulagt, Fyrirsjáanlegt, Áreiðanlegt, Traust)
+  - **Gott** (Aðdáunarvert, Samviskusemi við að skaða saklausa, Sómasamlegt, Siðferðilegt, Vingjarnlegt, Hatast við Illsku, Hjálplegt, Góðhjartað, Bjartsýnt, Jákvætt)
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Hollusta við Ætt
+  - Ást (Eitthvað Veraldlegt)
+  - Hálfdvergar: Hatur (Orkar, hálf-orkar, tröll, og hobgoblins)
+  - Fjalladvergar: Hatur (Orkar, tröll, illir risar, og dökkálfar)
 
-#### Sérreglur
+#### Sérstakar reglur
 
 - **Hreyfing:** 15 fet.
-- **Darkvision (Myrkrarsýn):** Dvergamyrkrarsýn gerir þeim kleift að sjá allt að 60 fet í daufu ljósi eins og það væri bjart ljós (staðlað Skynjunarkast til að koma auga á eitthvað) og í myrkri eins og það væri daufu ljósi (Skynjunarkast til að koma auga á eitthvað eru erfið). Innan þess myrkurs greina þeir liti aðeins í gráum tónum. Myrkrarsýn leyfir ekki sjón í töfrandi myrkri.
-- **Læs:** Dvergar eru yfirleitt færir um að lesa og skrifa öll tungumál sem þeir geta talað.
-- **Galdraónæmi:** Dvergar eru mjög ónæmir fyrir leyndardómsfullum göldrum; Viljastyrkspróf þeirra eru einu stigi auðveldari þegar þau eru notuð til að standast. Þetta ónæmi hefur engin áhrif á guðlega galdra.
-- **Eiturónæmi:** Dvergar eru einnig mjög ónæmir fyrir eitri, þar sem Þrekpróf sem tengjast eitrun eru einu stigi auðveldari.
-- **Gangnaskyn (Tunnel Sense):** Vegna neðanjarðareðlis síns geta dvergar greint ákveðin neðanjarðarfyrirbæri með því að standast auðvelt Skynjunarkast. Gangnaskyn má nota til að greina steinholur, gildrur; halla eða stig; áætlaða dýpt neðanjarðar; nýja ganga eða byggingu; og hreyfanlega veggi eða herbergi. Drægi þessarar uppgötvunar er takmarkað við 10 fet.
+- **Myrkursjón:** Dverg-myrkursjón gerir þeim kleift að sjá allt að 60 fet í daufu ljósi eins og það væri bjart ljós (staðlað skynjunarkast til að koma auga á eitthvað) og í myrkri eins og það væri daufu ljósi (skynjunarkast til að koma auga á eitthvað eru Erfið). Innan þess myrkurs greina þeir liti aðeins í grátónum. Myrkursjón leyfir ekki sjón í töfrandi myrkri.
+- **Læsir:** Dvergar eru venjulega færir um að lesa og skrifa öll tungumál sem þeir geta talað.
+- **Töfraónæmi:** Dvergar eru mjög ónæmir fyrir Dularfullum töfrum; Viljastyrks-athuganir þeirra eru einum gráðu auðveldari þegar þær eru notaðar til að standast. Þetta ónæmi hefur engin áhrif á Guðlega galdra.
+- **Eiturónæmi:** Dvergar eru líka mjög ónæmir fyrir eitri, þar sem ÞOL-köst sem tengjast eitrun eru einum gráðu auðveldari.
+- **Gangaskyn:** Vegna eðlis þeirra neðanjarðar geta dvergar greint ákveðin neðanjarðarfyrirbæri með því að standast Auðvelt skynjunarkast. Gangaskyn má nota til að greina steinlagðar gryfjur, fallgildrur; halla eða stig; áætlaða dýpt neðanjarðar; nýja ganga eða byggingu ganga; og hreyfanlega eða rennandi veggi eða herbergi. Drægni þessarar greiningar er takmörkuð við 10 fet.
 
 ---
-### Álfar
+### Álfur
 
-Álfar eru um það bil á sömu hæð og menn og búa yfir granni og tignarlegri líkamsbyggingu. Mjög fáir álfar yfirgefa skóglendi sitt og taka upp líf ævintýramannsins, heldur kjósa frekar friðsæla skógarvist. Þeir sem gera það eru ráðgáta jafnvel fyrir sína eigin tegund. Þótt álfar komist ágætlega af með halflingum og gnomum, passa þeir illa með dvergum vegna grófs eðlis þeirra. Jafnvel menn eru skoðaðir með tortryggni. Af öllum kynþáttum er orkum og goblinum fyrirlitið mest vegna langvarandi andúðar sem byggist á endalausum stríðum og smádeilum. Eins og dvergar eru álfar mjög langlífir, en enn meira, og ná um 1,100 ára aldri. Hins vegar, löngu fyrir það, finna álfar oft þörf fyrir að yfirgefa ríki manna. Hvert þeir fara er ráðgáta fyrir alla nema þá sjálfa.
+Álfar eru um það bil sömu hæð og menn og búa yfir þokkafullum og grönnum líkamsbyggingum. Mjög fáir álfar yfirgefa skóglendi sitt og taka upp ævintýralífið, en kjósa frekar friðsæla tilveru í skóginum. Þeir sem gera það eru ráðgáta jafnvel fyrir sitt eigið fólk. Þótt álfar nái nokkuð vel saman við hálfmenn (halflings) og dverga (gnomes), passa þeir ekki vel saman við dverga (dwarves) vegna nokkuð grófs eðlis þeirra. Jafnvel menn eru skoðaðir með tortryggni. Af öllum kynþáttum er orkum og tröllum fyrirlitið umfram allt vegna langvarandi fjandskapar sem byggist á endalausum stríðum og smádeilum. Eins og dvergar eru álfar mjög langlífir, en jafnvel enn meira, og ná um 1.100 ára aldri. Hins vegar, löngu fyrir þetta, finna álfar oft þörf fyrir að yfirgefa ríki manna. Hvert þeir fara er ráðgáta fyrir alla nema þá sjálfa.
 
-Álfar eru áberandi með fína beinstruktúr, mjótt höfuðkúpu og mjó eyru. Augnlitir eru mismunandi í litrófinu, frá mannlegum tónum til lita skínandi gimsteina. Álfasamfélag er oft konungsveldi, venjulega stjórnað af konungi, drottningu eða báðum. Álfar eru yfirnáttúrulegir. Þeir virðast oft fjarlægir veraldlegum atburðum en sýna samt skilning á þeim sem reynist mönnum erfitt að skilja. Náttúran er mjög mikilvæg álfum og því gæta þeir þess vel að varðveita umhverfi sitt. Sem langlíf tegund viðurkenna þeir ekki eða meta tíma á sama hátt og mannkynið og eru oft ómeðvitaðir um líðandi stund.
+Álfar eru áberandi með fína beinstærð, þröngar mjókandi hauskúpur og mjó, oddmjó eyru. Augnlitir eru mismunandi í gegnum litrófið, frá mannlegum tónum til litar bjartra gimsteina. Álfasamfélag er oft konunglegt, venjulega stjórnað af konungi, drottningu, eða báðum. Álfar eru yfirnáttúrulegir. Þeir virðast oft fjarlægir veraldlegum atburðum en sýna samt skilning á þeim sem reynist mönnum erfitt að skilja. Náttúran skiptir álfana miklu máli og því vanda þeir sig mjög við að varðveita umhverfi sitt. Sem langlíf tegund sætta þeir sig ekki við eða kunna að meta tíma á sama hátt og mannkynið og eru oft ómeðvitaðir um líðandi stuttar tímaeiningar.
 
 #### Álfamenning
 
-Álfamenning er svipuð siðmenntaðri menningu. Mikil áhersla er lögð á lærdóm og skilning. Verk, framkoma og heilindi eru mikilvægir og eftirsóknarverðir eiginleikar meðal álfa og hjá öðrum. Kurteislegir siðir eru væntanlegir og dónaleg, ókurteis hegðun skoðuð með fyrirlitningu og tortryggni. Flest álfasamfélög hafa konung eða drottningu og því er tryggð við þjóðhöfðingjann í fyrirrúmi. Álfar eiga erfitt með að skilja samfélög sem skortir slíka uppbyggingu, velta því fyrir sér hvernig fólk geti verið skipulagt án skýrs, konunglegs leiðtoga til að leiðbeina og tákna þá.
+Álfamenning er svipuð Siðmenntaðri. Mikil áhersla er lögð á nám og skilning. Verk, hegðun og heiðarleiki eru mikilvægir og eftirsóknarverðir eiginleikar meðal álfa og annarra. Virðulegir siðir eru væntanlegir, og ósmekkleg, óvönduð hegðun skoðuð með fyrirlitningu og tortryggni. Flest álfasamfélög hafa konung eða drottningu og því er hollusta við einvaldinn í fyrirrúmi. Álfar eiga erfitt með að skilja samfélög sem skortir slíka uppbyggingu, velta því fyrir sér hvernig fólki geti verið rétt raðað án skýrs, konunglegs leiðtoga til að leiðbeina og tákna þá.
 
 #### Færni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Álfa) +40
-- **Staðlað færni:** Fela, Áhrif, Innsæi, Staðkunnátta, Skynjun, Læðupör, Viljastyrkur
-- **Atvinnufærni:** List (hver sem er), Viðskipti, Iðn (hver sem er), Kurteisi, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Tónlist, Lifun.
+- **Frjáls færni:** Venjur +40, Tungumál (Sameiginlegt) +40, Tungumál (Álf) +40
+- **Staðlað færni:** Fela, Áhrif, Innsæi, Staðkunnátta, Skynjun, Laumuspil, Viljastyrkur
+- **Atvinnufærni:** List (hvaða sem er), Verslun, Handverk (hvaða sem er), Kurteisi, Tungumál (hvaða sem er*), Fræði (hvaða sem er), Tónlistarhæfileikar, Lifun.
 
-_\* Við sköpun karakters eru viðbótartungumál takmörkuð við gnome, halfling, goblin, hobgoblin, orc og gnoll._
+_\* Við sköpun karakters eru viðbótar tungumál takmörkuð við gnome, halfling, tröll, hobgoblin, ork, og gnoll._
 
 #### Lífsskoðun og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, en venjulega Óreiðukennt gott (Chaotic Good), veljið eina eða tvær úr hverri, eða veljið aðra lífsskoðun.
-  - **Óreiðukennt** (Forvitinn, Frelsi, Tortrygginn)
-  - **Gott** (Aðdáunarverður, Óeigingjarn, Englalegur, Kærleiksríkur, Samviskubit við að skaða saklausa, Sæmilegur, Siðferðilegur, Fyrirgefandi, Vinalegur, Hatast við illsku, Hjálpsamur, Góðlegur, Elskar náttúruna, Miskunnsamur, Bjartsýnn, Jákvæður, Grænmetisæta)
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við konung/drottningu
-  - Ást (eitthvað tilfinningalegt)
-  - Hatur (hver óvinur náðar og fegurðar)
-
-#### Sérreglur
+- **Lífsskoðun:** Hvaða sem er, en venjulega Kaótískt Gott, veldu eina eða tvær úr hvoru, eða veldu aðra lífsskoðun.
+  - **Kaótískt** (Forvitið, Frelsi, Tortryggt)
+  - **Gott** (Aðdáunarvert, Óeigingjarnt, Englalegt, Kærleiksríkt, Samviskusemi við að skaða saklausa, Sómasamlegt, Siðferðilegt, Fyrirgefið, Vingjarnlegt, Hatast við Illsku, Hjálplegt, Góðhjartað, Elskar náttúruna, Miskunnsamt, Bjartsýnt, Jákvætt, Grænmetisæta)
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Hollusta við Konung/Drottningu
+  - Ást (Eitthvað tilfinningalegt)
+  - Hatur (hvaða óvin sem er af þokka og fegurð)#### Sérreglur
 
 - **Hreyfing:** 20 fet.
-- **Álfakeðja (Elven Chain):** Álfar eru leiknir í að kasta leyndardómsfullum galdraþulum á meðan þeir klæðast álfakeðju og geta kastað slíkum þulum á einu stigi erfiðleika.
-- **Læs:** Álfar eru yfirleitt færir um að lesa og skrifa öll tungumál sem þeir geta talað.
-- **Ónæmi fyrir svefni og heillun:** Álfar finna að Viljastyrkskast til að standast *Svefn* og *Heillun* eru 2 stigum auðveldari. Þetta felur í sér allar þulur úr *Heillunarskólanum* (*Charm Person, Friendship, Hypnotism*, og svo framvegis). Þeir geta sleppt þessu ónæmi og tekið við áhrifum galdranna ef þeir kjósa.
-- **Skarp sjón:** Vegna skarpra sjónar sinna finna álfar að öll Skynjunarkast til að koma auga á eitthvað eru einu stigi auðveldari.
-- **Læðupör:** Álfar sem klæðast ekkert þrengra en léttum herklæðum finna Læðupör-próf einu stigi auðveldari.
+- **Álfabrynja:** Álfar eru leiknir í að kasta galdraformælum (Arcane Magic) á meðan þeir klæðast álfabrynju og mega kasta slíkum formælum með einu erfiðleikastigi minna.
+- **Læsir:** Álfar eru yfirleitt færir um að lesa og skrifa hvert það tungumál sem þeir geta talað.
+- **Viðnám gegn svefni og heilladýrkun:** Álfar finna að Mát-köst (Willpower) til að standast _Svefn_ (_Sleep_) og _Heilladýrkun_ (_Charm_) galdra eru 2 stigum auðveldari. Þetta nær yfir alla galdra úr _Galdraskóla heilladýrkunar (Charm)_ (_Heilladýrkun manneskju (Charm Person), Vinátta (Friendship), Dáleiðsla (Hypnotism)_, og svo framvegis). Þeir mega fella þetta viðnám niður og samþykkja áhrif galdranna ef þeir kjósa svo.
+- **Skörp sjón:** Vegna mikillar sjónskerpu sinnar finna álfar öll Skynjunarköst (Perception) til að koma auga á eitthvað vera einu stigi auðveldari.
+- **Laumulegir:** Álfar sem klæðast engu sem er takmarkandi en léttbrynju finna Laumuköst (Stealth) vera einu stigi auðveldari.
 
 ---
-### Gnomar
+### Dverghrollur (Gnome)
 
-Í 3'4" til 3'7" hæð eru gnomar jafnvel minni en dvergafrændur þeirra. Þeir hafa brúna eða tan-lita húð, hvítt hár og töluvert stærri nef, en þeir eru þó minna þéttvaxnir í heildina. Þeir búa yfir næstum óstjórnlegri tilhneigingu til prakkarastrika og húmor sem gæti komið þeim í vandræði á skyggnari stöðum heimsins, en gnomar vega upp á móti þessum erfiðu eiginleikum með mikilli ást á náttúrunni sem jafnast næstum á við álfana. Eins og dvergar elska gnomar sérstaklega gimsteina og skartgripi, og margir eru sérfræðingar í gimsteinaslípun. Þeir búa í námum og holum sem finnast á svæðum með öldóttum hæðum og skóglendi sem er einangrað frá mönnum. Gnomar eru tortryggnir gagnvart kynþáttum sem eru miklu stærri en þeir sjálfir, og fyrir utan dverga og halflingra, eru það næstum allir. Þeir hafa tilhneigingu til að meta raunverulegan ásetning manneskju með húmorprófi, sem er kannski ekki vitrasta aðferðin, en hún virðist virka fyrir þá. Gnomar eru sérfræðingar í að segja ýktar sögur og villtar sögur. Af öllum kynþáttum koma þeir best saman við dverga, en almennt eru þeir viljugri til að samþykkja aðra. Venjulega geta gnomar lifað í um 700 ár.
+Dverghrollur eru 3'4" til 3'7" á hæð og eru enn smærri en dvergfrændur sínir. Þeir eru með brúna eða tan-lita húð, hvítt hár og talsvert stærri nef, en þeir eru þó minna hringlaga í heildina. Dverghrollur búa yfir næstum óviðráðanlegri tilhneigingu til prakkarastrika og húmor sem gæti komið þeim í koll í skuggalegri hlutum heimsins, en þeir vega upp á móti þessum erfiðu eiginleikum með mikilli ást á náttúrunni sem jafnast næstum á við álfana. Líkt og dvergar, elska dverghrollur gimsteina og skartgripi sérstaklega, og margir eru sérfræðingar í gimsteinaslípun. Þeir búa í námum og holum í hæðóttum og skógi vöxnum landsvæðum fjarri mönnum. Dverghrollur eru tortryggnir gagnvart kynþáttum sem eru mun stærri en þeir sjálfir, og fyrir utan dverga og hálfmennska (halflings), þá er það nokkurn veginn allir. Þeir hafa tilhneigingu til að meta raunverulegan ásetning manneskju með húmorprófi, sem er vissulega ekki vitrasta aðferðin, en hún virðist virka fyrir þá. Dverghrollur eru sérfræðingar í að segja ýktar sögur og ævintýralegar frásagnir. Af öllum kynþáttum eiga þeir best með dvergum, en eru almennt viljugri til að sætta sig við aðra. Dverghrollur geta yfirleitt lifað í um 700 ár.
 
 #### Menning
 
-Gnomísk menning er klansamfélag sem eyðir miklum tíma í námuvinnslu og föndur fínna skartgripa. Líf þeirra er vel skipulagt með forystu sem nær hámarki hjá höfðingja, og trúmálum er stjórnað af klerkaráðgjöfum höfðingjans. Á þennan hátt er menning þeirra svipuð og dvergafrænda þeirra, þótt þeir hafi tilhneigingu til að elska leiki og prakkarastrik meira en hnéháir frændur þeirra. Ást þeirra á dýrum og náttúrunni þýðir að auk dverga eiga þeir vel með álfum og öðrum skógarverum.
+Menning dverghrolla er ættbundið samfélag sem eyðir miklum tíma í námavinnslu og smíði á fínum skartgripum. Líf þeirra er vel skipulagt og forysta þeirra nær hámarki hjá höfðingja, og trúmálum er stjórnað af klerkaráðgjöfum höfðingjans. Á þennan hátt er menning þeirra lík menningu dverga, þó þeir hafi tilhneigingu til að elska leiki og prakkarastrik meira en hústubbar frændur sínir. Ást þeirra á dýrum og náttúru þýðir að auk dverga eiga þeir vel með álfum og öðrum skógarverum.
 
-#### Færni
+#### Hæfni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Gnome) +40
-- **Staðlað færni:** Svik, Undankoma, Innsæi, Staðkunnátta, Skynjun, Læðupör, Viljastyrkur
-- **Atvinnufærni:** Viðskipti, Iðn (hver sem er), Verkfræði, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Vélbúnaður, Ræðumennska, Lifun.
+- **Frjáls hæfni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Dverghrolla) +40
+- **Staðlað hæfni:** Svik, Undankoma, Innsæi, Staðþekking, Skynjun, Laumur, Mát
+- **Faghæfni:** Verslun, Smíði (hvaða sem er), Verkfræði, Tungumál (hvaða sem er\*), Fróðleikur (hvaða sem er), Vélbúnaður, Ræðumennska, Lifun.
 
-_\* Við sköpun karakters eru viðbótartungumál takmörkuð við dverg, halfling, goblin og kobold._
+_\* Við sköpun persónu eru viðbótartungumál takmörkuð við dverg, hálfmennskt, púka og kóbold._
 
-#### Lífsskoðun og ástríður
+#### Fylgi og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, en venjulega Hlutlaust gott (Neutral Good), veljið eina eða tvær úr hverri, eða veljið aðra lífsskoðun.
-  - **Hlutlaust** (Finnur ekki sterkt fyrir einu eða öðru þegar kemur að lögum og óreiðu, Sveigjanlegur, Frelsi til athafna, Hefur engar fastar siðareglur, Virðir náttúruna\*)
-  - **Gott** (Aðdáunarverður, Óeigingjarn, Englalegur, Kærleiksríkur, Samviskubit við að skaða saklausa, Sæmilegur, Siðferðilegur, Fyrirgefandi, Vinalegur, Hatast við illsku, Hjálpsamur, Góðlegur, Elskar náttúruna\*, Miskunnsamur, Bjartsýnn, Jákvæður, Grænmetisæta)
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við klan
-  - Ást (eitthvað efnislegt)
-  - Hatur (Venjulega kobolds og goblins)
+- **Fylgi:** Hvaða sem er, en venjulega Hlutlaust gott (Neutral Good), veldu eitt eða tvö úr hvoru, eða veldu annað Fylgi.
+  - **Hlutlaust** (Einstaklingurinn hefur ekki sterkar skoðanir á lögum eða glundroða, Sveigjanlegur, Frelsi til athafna, Hefur engan fastan siðareglukóða, Virðir náttúruna\*)
+  - **Gott** (Aðdáunarverður, Altrúískur, Englalíkur, Örlátur, Samviskusamur gagnvart því að skaða saklausa, Sómasamlegur, Siðferðilegur, Fyrirgefandi, Vingjarnlegur, Hatar illsku, Hjálpsamur, Góður, Elskar náttúruna\*, Miskunnsamur, Bjartsýnn, Jákvæður, Grænmetisæta)
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Tryggð við ætt
+  - Ást (Eitthvað efnislegt)
+  - Hatur (Venjulega kóboldar og púkar)
 
-_\* Annaðhvort Virðir náttúruna eða Elskar náttúruna, ekki bæði._
+_\* Annað hvort Virðir náttúruna eða Elskar náttúruna, ekki hvort tveggja._
 
 #### Sérreglur
 
 - **Hreyfing:** 15 fet.
-- **Læs:** Gnomar eru yfirleitt færir um að lesa og skrifa öll tungumál sem þeir geta talað.
-- **Myrkrarsýn:** Gnomamyrkrarsýn gerir þeim kleift að sjá allt að 60 fet í daufu ljósi eins og það væri bjart ljós (staðlað Skynjunarkast til að koma auga á eitthvað) og í myrkri eins og það væri daufu ljósi (Skynjunarkast til að koma auga á eitthvað eru erfið). Innan þess myrkurs greina þeir liti aðeins í gráum tónum. Myrkrarsýn leyfir ekki sjón í töfrandi myrkri.
-- **Galdraónæmi:** Eins og dvergar eru gnomar mjög ónæmir fyrir leyndardómsfullum göldrum; Viljastyrkspróf eru einu stigi auðveldari þegar þau eru notuð til að standast, tvö stigum auðveldari varðandi blekkingar (illusions). Þetta ónæmi hefur engin áhrif á guðlega galdra. Margir gnomar sem verða galdramenn sérhæfa sig í blekkingarskólanum.
-- **Eiturónæmi:** Gnomar eru einnig mjög ónæmir fyrir eitri, þar sem Þrekpróf sem tengjast eitrun eru 1 stigi auðveldari.
-- **Gangnaskyn:** Vegna neðanjarðareðlis síns geta gnomar greint ákveðin neðanjarðarfyrirbæri með því að standast auðvelt Skynjunarkast. Gangnaskyn má nota til að greina steinholur, gildrur; halla eða stig; áætlaða dýpt neðanjarðar; nýja ganga eða byggingu; og hreyfanlega veggi eða herbergi. Drægi þessarar uppgötvunar er takmarkað við 10 fet.
+- **Læsir:** Dverghrollur eru yfirleitt færir um að lesa og skrifa hvert það tungumál sem þeir geta talað.
+- **Myrksýn:** Myrksýn dverghrolla gerir þeim kleift að sjá allt að 60 fet í daufu ljósi eins og það væri bjart ljós (staðlað Skynjunarkast til að koma auga á eitthvað) og í myrkri eins og það væri dauf ljós (Skynjunarköst til að koma auga á eitthvað eru Erfið). Innan þess myrkurs greina þeir liti aðeins í grátónum. Myrksýn leyfir ekki sjón í töfrum myrkri.
+- **Töfraviðnám:** Líkt og dvergar eru dverghrollur mjög ónæmir fyrir galdraformælum (Arcane Magic); Mát-próf eru einu stigi auðveldari þegar þau eru notuð til að standast, tvö stigum auðveldari varðandi blekkingar. Þetta viðnám hefur engin áhrif á guðlega galdra. Margir dverghrollur sem verða galdranotendur sérhæfa sig í Blekkingarskólanum (School of Illusion).
+- **Eiturviðnám:** Dverghrollur eru einnig mjög ónæmir fyrir eitri, þar sem Þol-köst (Endurance) sem tengjast eitrun eru 1 stigi auðveldari.
+- **Gangnaskyn:** Vegna neðanjarðareðlis síns geta dverghrollur greint ákveðin fyrirbæri neðanjarðar með því að standast auðvelt Skynjunarkast. Gangnaskyn má nota til að greina grjóthólf, fallgildrur og gildrur; halla eða stiga; áætlaða dýpt neðanjarðar; nýjar gangna- eða gönguframkvæmdir; og hreyfanlega eða rennandi veggi eða herbergi. Drægni þessarar greiningar er takmörkuð við 10 fet.
 
 ---
-### Hálf-álfar
+### Hálfálfur
 
-Hálf-álfar eru afkvæmi álfs og manns, sem gefur þeim blöndu af eiginleikum frá báðum foreldrum. Útlit þeirra er nær álfagerðinni; þeir hafa tilhneigingu til að hafa aðlaðandi eiginleika. Hálf-álfar missa suma eiginleika álfagerðarinnar og hafa ekki sömu heppnu eða gjöfulu náttúru og mannkynið; í staðinn lenda þeir einhvers staðar á milli. Hálf-álfar búa yfir ferðalöngun mannlegs foreldris síns og ást á náttúrunni frá álfagerð sinni. Þeir eru einnig langlífir og ná um 300 ára aldri. Í sumum hlutum heimsins er litið á hálf-álfa með tortryggni vegna blandaðs uppruna þeirra, en þeir eru almennt samþykktir alls staðar þar sem álfar og menn eru, þótt þeir hafi tilhneigingu til að fá mestu fordómana frá álfþjóðinni sjálfri.
+Hálfálfar eru afkvæmi álfs og manns, sem gefur þeim blöndu af eiginleikum frá báðum foreldrum. Útlit þeirra er nær álfauppruna þeirra; þeir hafa tilhneigingu til að vera með aðlaðandi andlitsdrætti. Hálfálfar missa suma af hæfileikum álfaupprunans og hafa ekki sama heppna eða hæfileikaríka eðli og mannkynið; í staðinn lenda þeir einhvers staðar þar á milli. Hálfálfar búa yfir flökkuhvöt mannsforeldris síns og ást á náttúrunni frá álfauppruna sínum. Þeir eru einnig langlífir og ná um 300 ára aldri. Í sumum heimshlutum er hálfálfum mætt með tortryggni vegna blandaðs uppruna þeirra, en þeir eru almennt samþykktir alls staðar þar sem álfar og menn eru, þó þeir hafi tilhneigingu til að fá mestu fordómana frá álfafólkinu sjálfu.
 
 #### Menning
 
-Hálf-álfar hafa engin eigin samfélög en má finna þá þar sem menn og álfar blandast saman, og þeir munu venjulega deila menningu þeirrar tegundar sem ól þá upp. Til dæmis, ef þeir eru aldir upp meðal manna munu þeir deila menningu mannlegs foreldris síns (einnar af fjórum sem nánar er greint frá hjá mönnum), ef þeir eru aldir upp meðal álfa munu þeir deila menningu álf-foreldris síns.
+Hálfálfar eiga engar eigin byggðir en má finna þar sem menn og álfar blandast saman, og þeir deila yfirleitt menningu kynþáttarins sem ól þá upp. Til dæmis, ef þeir eru uppaldir meðal manna munu þeir deila menningu mannsforeldris síns (ein af fjórum sem lýst er undir mönnum), ef þeir eru uppaldir meðal álfa munu þeir deila menningu álfforeldris síns.
 
-#### Færni
+#### Hæfni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Álfa) +40
-- **Staðlað færni:** Veljið úr mannlegri menningu eða úr eftirfarandi álfafærnilista: Fela, Áhrif, Innsæi, Staðkunnátta, Skynjun, Læðupör, Viljastyrkur
-- **Atvinnufærni:** Veljið úr mannlegri menningu eða úr eftirfarandi álfafærnilista: List (hver sem er), Viðskipti, Iðn (hver sem er), Kurteisi, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Tónlist, Lifun.
+- **Frjáls hæfni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Álfa) +40
+- **Staðlað hæfni:** Veldu úr mannlegri menningu eða úr eftirfarandi álfahæfnilista: Fela, Áhrif, Innsæi, Staðþekking, Skynjun, Laumur, Mát
+- **Faghæfni:** Veldu úr mannlegri menningu eða úr eftirfarandi álfahæfnilista: List (hvaða sem er), Verslun, Smíði (hvaða sem er), Kurteisi, Tungumál (hvaða sem er\*), Fróðleikur (hvaða sem er), Tónlistarhæfni, Lifun.
 
-_\* Við sköpun karakters, ef þeir eru aldir upp af álfum, eru viðbótartungumál takmörkuð við gnome, halfling, goblin, hobgoblin, orc og gnoll. Ef þeir eru aldir upp af mönnum, eru þeir ótakmarkaðir í vali á tungumáli._
+_\* Við sköpun persónu, ef uppaldir af álfum, eru viðbótartungumál takmörkuð við dverghroll, hálfmennskt, púka, hobgoblín, orka og gnoll. Ef uppaldir af mönnum eru þeir ótakmarkaðir í vali á tungumálum._
 
-#### Lífsskoðun og ástríður
+#### Fylgi og ástríður
 
-Veljið úr mannlegri menningu eða úr eftirfarandi álfarástríðum:
+Veldu úr mannlegri menningu eða úr eftirfarandi álfahæfni:
 
-- **Lífsskoðun:** Hvaða sem er, en venjulega Óreiðukennt gott (Chaotic Good) ef alið upp af álfum, veljið eina eða tvær úr hverri, eða veljið aðra lífsskoðun. Eða eins og hjá mannlegu foreldri.
-  - **Óreiðukennt** (Forvitinn, Frelsi, Tortrygginn)
-  - **Gott** (Aðdáunarverður, Óeigingjarn, Englalegur, Kærleiksríkur, Samviskubit við að skaða saklausa, Sæmilegur, Siðferðilegur, Fyrirgefandi, Vinalegur, Hatast við illsku, Hjálpsamur, Góðlegur, Elskar náttúruna, Miskunnsamur, Bjartsýnn, Jákvæður, Grænmetisæta)
-- **Ástríða (alið upp sem álfur):** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
+- **Fylgi:** Hvaða sem er, en venjulega Glundroðakennt gott (Chaotic Good) ef uppaldir af álfum, veldu eitt eða tvö úr hvoru, eða veldu annað Fylgi. Eða samkvæmt mannsforeldri.
+  - **Glundroðakennt** (Forvitinn, Frelsi, Tortrygginn)
+  - **Gott** (Aðdáunarverður, Altrúískur, Englalíkur, Örlátur, Samviskusamur gagnvart því að skaða saklausa, Sómasamlegur, Siðferðilegur, Fyrirgefandi, Vingjarnlegur, Hatar illsku, Hjálpsamur, Góður, Elskar náttúruna, Miskunnsamur, Bjartsýnn, Jákvæður, Grænmetisæta)
+- **Ástríða (Uppaldir sem álfar):** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
   - Tryggð við konung/drottningu
-  - Ást (eitthvað tilfinningalegt)
-  - Hatur (hver óvinur náðar og fegurðar)
-- **Ástríða (alið upp sem maður):** Veljið úr viðeigandi mannlegum lista.
+  - Ást (Eitthvað tilfinningalegt)
+  - Hatur (hvaða óvin sem er af tign og fegurð)
+- **Ástríða (Uppaldir sem menn):** Veldu úr viðeigandi mannlista.
 
 #### Sérreglur
 
-- **Hreyfing:** 20 fet.
-- **Álfakeðja:** Álfar eru leiknir í að kasta leyndardómsfullum galdraþulum á meðan þeir klæðast álfakeðju og geta kastað slíkum þulum á einu stigi erfiðleika.
-- **Læs:** Hálf-álfar eru yfirleitt færir um að lesa og skrifa öll tungumál sem þeir geta talað.
-- **Ónæmi fyrir svefni og heillun:** Hálf-álfar finna að Viljastyrkskast til að standast *Svefn* og *Heillun* eru einu stigi auðveldari. Þetta felur í sér allar þulur úr *Heillunarskólanum* (*Charm Person, Friendship, Hypnotism*, og svo framvegis). Þeir geta sleppt þessu ónæmi og tekið við áhrifum galdranna ef þeir kjósa.
-- **Skarp sjón:** Vegna skarpra sjónar sinna finna hálf-álfar að öll Skynjunarkast til að koma auga á eitthvað eru einu stigi auðveldari.
-- **Læðupör:** Hálf-álfar sem klæðast ekkert þrengra en léttum herklæðum finna Læðupör-próf 1 stigi auðveldari.
+- **Hreyfing** : 20 fet.
+- **Álfabrynja** : Hálfálfar eru leiknir í að kasta galdraformælum á meðan þeir klæðast álfabrynju og mega kasta slíkum formælum með einu erfiðleikastigi minna.
+- **Læsir** : Hálfálfar eru yfirleitt færir um að lesa og skrifa hvert það tungumál sem þeir geta talað.
+- **Viðnám gegn svefni og heilladýrkun** : Hálfálfar finna Mát-köst til að standast _Svefn_ og _Heilladýrkun_ galdra vera einu stigi auðveldari. Þetta nær yfir alla galdra úr _Galdraskóla heilladýrkunar (Charm)_ (_Heilladýrkun manneskju (Charm Person), Vinátta (Friendship), Dáleiðsla (Hypnotism)_, og svo framvegis). Þeir mega fella þetta viðnám niður og samþykkja áhrif galdranna ef þeir kjósa svo.
+- **Skörp sjón** : Vegna mikillar sjónskerpu sinnar finna hálfálfar öll Skynjunarköst til að koma auga á eitthvað vera einu stigi auðveldari.
+- **Laumulegir** : Hálfálfar sem klæðast engu sem er takmarkandi en léttbrynju finna Laumuköst vera einu stigi auðveldari.
 
 ---
-### Hálf-orkar
+### Hálforki
 
-Hálf-orkar, sem eiga uppruna sinn í villtari landamærum heimsins þar sem orkar og menn lenda í átökum, eru afrakstur hins ólíklega sambands þessara tveggja kynþátta. Erfðafræðilega sýna hálf-orkar fleiri orkueinkenni en mannleg, standa hærra en maður að meðaltali, með stórar, áberandi tennur, framstæðan neðri kjálka og grænleita húð þakta grófu dökku hári. Þeir eru stríðnir að eðlisfari og hafa engan áhuga á fínni iðkunum. Hálf-orkar eiga í erfiðleikum með aðra kynþætti vegna orkublóðs síns, og fjandskapur við álfa og dverga er mestur; en gefist tími getur traust myndast jafnvel með þessum ólíklegu kynþáttum. Af öllum kynþáttum hafa hálf-álfar tilhneigingu til að vera skilningsríkastir, þar sem þeir skilja líf útskúfuðu manneskjunnar of vel. Skrítið nokkuð, gnomar og halflingar hafa tilhneigingu til að vera almennt samþykkjandi gagnvart hálf-orkum, hinir fyrrnefndu vegna þess að hálf-orkar hafa tilhneigingu til að geta tekið gríni, og þeir síðarnefndu vegna forvitins og samþykkjandi eðlis þeirra. Hálf-orkar hafa náttúrulegan líftíma í kringum 80 ár.
+Hálforkar eiga uppruna sinn í villtari landamærum heimsins, þar sem orkar og menn lenda í átökum, og eru afleiðing ólíklegs sambands milli þessara tveggja kynþátta. Líffræðilega sýna hálforkar fleiri orka-einkenni en mannleg, þeir eru að meðaltali hærri en maður, með stórar áberandi tennur, framstæðan neðri kjálka og grænleita húð þakta grófu dökku hári. Þeir eru stríðnir í eðli sínu og hafa engan áhuga á fínni iðkunum. Hálforkar eiga í erfiðum samskiptum við aðra kynþætti vegna orka-blóðs síns, þar sem fjandskapur við álfa og dverga er mestur; en með tímanum getur traust myndast jafnvel við þessa ólíklegu kynþætti. Af öllum kynþáttum hafa hálfálfar tilhneigingu til að vera samúðarfyllstir, þar sem þeir skilja líf utangarðsmannsins of vel. Einkennilegt er að dverghrollur og hálfmennskt fólk hafa tilhneigingu til að vera almennt samþykkandi fyrir hálforkum, hinir fyrrnefndu vegna þess að hálforkar geta yfirleitt tekið gríni, og hinir síðarnefndu vegna forvitins og opins eðlis síns. Hálforkar hafa náttúrulegan líftíma í kringum 80 ár.
 
 #### Menning
 
-Eins og hálf-álfar hafa hálf-orkar engin innfædd lönd, og búa oftast meðal orkaættbálka. Þeir sem ekki búa meðal annarra orka, flakka yfir í mannleg lönd. Vegna þess að samfélagið samþykkir þá oft ekki, dregst hálf-orkar venjulega að ofbeldisfullum störfum sem hæfa miklum styrk þeirra og lundarfari, og finna venjulega félagsskap meðal ævintýramanna, sem margir eru samferðamenn og utangarðsmenn. Hálf-orkar deila venjulega menningu þeirrar tegundar sem ól þá upp. Til dæmis, ef þeir eru aldir upp meðal manna munu þeir deila menningu mannlegs foreldris síns; ef þeir eru aldir upp meðal orka munu þeir deila menningu orka-foreldris síns.
+Líkt og hálfálfar eiga hálforkar engin heimalönd og búa oftast meðal orkaættbálka. Þeir sem ekki búa meðal annarra orka leita í átt að mannalöndum. Vegna þess að samfélagið samþykkir þá oft ekki, leitast hálforkar venjulega í átt að ofbeldisfullum störfum sem hæfa miklum styrk þeirra og skapi, og finna venjulega félagsskap meðal ævintýramanna, sem margir hverjir eru flakkarar og utangarðsmenn. Hálforkar deila yfirleitt menningu kynþáttarins sem ól þá upp. Til dæmis, ef þeir eru uppaldir meðal manna, deila þeir menningu mannsforeldris síns; ef þeir eru uppaldir meðal orka, deila þeir menningu orkaforeldris síns.
 
-#### Færni
+#### Hæfni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Orc) +40.
-- **Staðlað færni:** Veljið úr mannlegri menningu eða úr eftirfarandi orkafærnilista: Íþróttir, Afl, Þrek, Skyndihjálp, Staðkunnátta, Skynjun; og annaðhvort Bátsferðir, Undankoma eða Ríðandi.
-- **Atvinnufærni:** Veljið úr mannlegri menningu eða úr eftirfarandi orkafærnilista: Iðn (hver sem er), Lækningar, Hótun (Intimidation), Fræði (hvaða sem er), Tónlist, Leiðsögn, Lifun, Rakning.
+- **Frjáls hæfni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Orka) +40.
+- **Staðlað hæfni:** Veldu úr mannlegri menningu eða úr eftirfarandi orkahæfnilista: Íþróttir, Vöðvastyrkur, Þol, Skyndihjálp, Staðþekking, Skynjun; og annað hvort Bátaferðir, Undankoma eða Reiðmennska.
+- **Faghæfni:** Veldu úr mannlegri menningu eða úr eftirfarandi orkahæfnilista: Smíði (hvaða sem er), Græðsla, Ógnun, Fróðleikur (hvaða sem er), Tónlistarhæfni, Sigling, Lifun, Sporrekning.
 
-_\* Við sköpun karakters, ef þeir eru aldir upp af orkum, eru viðbótartungumál takmörkuð við goblin, hobgoblin, orc og gnoll. Ef þeir eru aldir upp af mönnum, ertu ekki takmarkaður í vali á tungumálum ef þú getur rökstutt valið._
+_\* Við sköpun persónu, ef uppaldir af orkum, eru viðbótartungumál takmörkuð við púka, hobgoblín, orka og gnoll. Ef uppaldir af mönnum ertu ekki takmarkaður í vali á tungumálum ef þú getur réttlætt valið._
 
-#### Lífsskoðun og ástríður
+#### Fylgi og ástríður
 
-Veljið úr mannlegri menningu eða úr eftirfarandi orka-ástríðum ef alið upp í orkasamfélagi:
+Veldu úr mannlegri menningu eða úr eftirfarandi orka-ástríðum ef uppalinn í orkasamfélagi:
 
-- **Lífsskoðun:** Hvaða sem er, en venjulega Lögmætt illt (Lawful Evil) ef alið upp af orkum, veljið eina eða tvær úr hverri eða veljið aðra lífsskoðun. Eða eins og hjá mannlegu foreldri.
-  - **Lögmætt** (Fylgni við hefðir, Útreiknaður, Lokaður, Skortur á aðlögunarhæfni)
-  - **Illt** (Misnotaður, Grimmur, Drottnandi, Hefur gaman af að skaða saklausa, Hatast við gott, Miskunnarlaus, Sadískur, Þrælahaldari, Illgjarn)
-- **Ástríða (alið upp sem orkur):** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
+- **Fylgi:** Hvaða sem er, en venjulega Lögmæt illska (Lawful Evil) ef uppalinn af orkum, veldu eitt eða tvö úr hvoru eða veldu annað Fylgi. Eða samkvæmt mannsforeldri.
+  - **Lögmæt** (Fylgni við hefðir, Útreiknandi, Þröngsýnn, Skortur á aðlögunarhæfni)
+  - **Illska** (Misnotandi, Grimmur, Drottnandi, Hefur gaman af að skaða saklausa, Hatar gott, Miskunnarlaus, Sadískur, Þrælahaldari, Illgjarn)
+- **Ástríða (Uppaldir sem orkar):** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
   - Tryggð við ættbálkahöfðingja
-  - Ást (vinur, systkini eða ástvinur)
-  - Hatur (galdrar, vera, keppinautur eða klan)
-- **Ástríða (alið upp sem maður):** Veljið úr viðeigandi mannlegum lista.
+  - Ást (vinur, systkini eða rómantískur maki)
+  - Hatur (töfrar, skepna, keppinautur eða ættbálkur)
+- **Ástríða (Uppaldir sem menn):** Veldu úr viðeigandi mannlista.
 
 #### Sérreglur
 
 - **Hreyfing:** 20 fet.
-- **Myrkrarsýn:** Hálf-orkamyrkrarsýn gerir þeim kleift að sjá allt að 60 fet í daufu ljósi eins og það væri bjart ljós (staðlað Skynjunarkast til að koma auga á eitthvað) og í myrkri eins og það væri daufu ljósi (Skynjunarkast til að koma auga á eitthvað eru erfið). Innan þess myrkurs greina þeir liti aðeins í gráum tónum. Myrkrarsýn leyfir ekki sjón í töfrandi myrkri.
-- **Ólæsir:** Ef þeir eru aldir upp af orkum eru hálf-orkar yfirleitt ófærir um að lesa eða skrifa. Þeir geta lært læsi með því að eyða 1 reynslukasti og mánaðarþjálfun undir stjórn karakters sem er læs á viðkomandi tungumál. Þetta gefur þeim grunnlæsi sem jafngildir hálfu færnistigi í einu tungumáli sem karakterinn kann. Ef óskað er, munu önnur 1 reynslukast og mánaðarþjálfun gefa þeim fullt læsi. Þegar ný tungumál eru lærð í leik má gera ráð fyrir að þeir læri þau á fullu læsisstigi. Hálf-orkar aldir upp af annarri menningu munu vera læsir ef sú menning er einnig læs.
-- **Lifunarbónus (sérstakur):** Ef aldir upp af orkum, finna hálf-orkar að allar lifunarkast sem tengjast upprunasvæði þeirra eru einu stigi auðveldari.
+- **Myrksýn:** Myrksýn hálforka gerir þeim kleift að sjá allt að 60 fet í daufu ljósi eins og það væri bjart ljós (staðlað Skynjunarkast til að koma auga á eitthvað) og í myrkri eins og það væri dauf ljós (Skynjunarköst til að koma auga á eitthvað eru Erfið). Innan þess myrkurs greina þeir liti aðeins í grátónum. Myrksýn leyfir ekki sjón í töfrum myrkri.
+- **Ólæsir:** Ef uppaldir af orkum eru hálforkar yfirleitt ófærir um að lesa eða skrifa. Þeir mega læra læsi með því að eyða 1 reynslukasti og mánuði í þjálfun undir stjórn persónu sem er læs á viðkomandi tungumál. Þetta gefur þeim grunnlæsi sem jafngildir hálfu hæfnistigi í einu tungumáli sem persónan kann. Ef óskað er, munu annað reynslukast og mánuður í þjálfun gefa þeim fullt læsi. Þegar ný tungumál eru lærð í leik má gera ráð fyrir að þeir læri þau á fullu læsistigi. Hálforkar sem eru uppaldir af annarri menningu verða læsir ef sú menning er einnig læs.
+- **Lifunarbónus (Sérstakur):** Ef uppaldir af orkum finna hálforkar öll Lifunarköst sem tengjast upprunasvæði þeirra vera einu stigi auðveldari.
 
 ---
-### Halfling
+### Hálfmennskt (Halfling)
 
-Friðsælt, siðmenntað fólk sem lifir að mestu landbúnaðarlífi, halflingar eru litlir mannverur sem standa að meðaltali 4'0" til 4'3" á hæð, lægri en dvergar, en hærri en gnomar. Heimili þeirra eru bæir og býli þar sem þorp mynda náin samfélög. Halflingar eru þeir minnst ævintýragjörnu af kynþáttunum og geta farið að mestu leyti óséðir þar sem þeir stafa engri ógn af neinum.
+Friðsamt, siðmenntað fólk sem lifir að mestu landbúnaðarlífi, hálfmennskt fólk eru smágerðar mannverur sem, standandi að meðaltali 4'0" til 4'3" á hæð, eru styttri en dvergar, en hærri en dverghrollur. Heimili þeirra eru bæir og býli með þorp sem mynda samheldin samfélög. Hálfmennskt fólk er minnst ævintýragjarnt allra kynþátta og getur farið algjörlega óáreitt þar sem þeir stafa engri ógn af neinum.
 
-Við fyrstu sýn gætu halflingar verið teknir fyrir börn, en munurinn er augljós við nánari athugun. Halflingar hafa oddhvöss eyru, og húð-, hár- og augnlitir sem ná eðlilegu sviði. Þeir hafa stóra, grófa fætur sem eru í yfirstærð miðað við líkamann, og venjulega frekar hærðir. Skór og stígvélum er forðast; iljar fótanna eru mjög þykkar, sem veita meira en fullnægjandi vörn gegn steinum og klöppum.
+Við fyrstu sýn má rugla hálfmennsku fólki saman við börn, en munurinn er augljós við nána skoðun. Hálfmennskt fólk hefur oddmjó eyru, og húð-, hár- og augnlitir falla innan venjulegs sviðs. Þeir hafa stóra, harðgerða fætur sem eru of stórir fyrir líkamann, og venjulega frekar loðnir. Skór og stígvél eru forðast; iljar fótanna eru ákaflega þykkar, sem veitir meira en nægilega vörn gegn klettum og steinum.
 
-Þótt þeir séu almennt ekki ævintýragjarnir, eru halflingar forvitnir. Þeir vilja vita, og deila, leyndarmálum. Þeir dýrka sögur, goðsagnir og ævintýri og hafa spyrjandi huga. Þetta þýðir að þegar þeir eru á ferðalagi er heimurinn heillandi staður til að spyrja um og taka inn – og þetta getur leitt halflingra í vandræði. Að öðru leyti eru halflingar frekar hversdagslegur, ánægður kynþáttur sem heldur sig við sitt og kýs hvorki að skipta sér af víðari heiminum né láta hann skipta sér af þeim.
+Þótt þeir séu almennt ekki ævintýragjarnir, er hálfmennskt fólk forvitið. Þeir vilja vita, og deila, leyndarmálum. Þeir dýrka sögur, goðsagnir og ævintýri og hafa forvitna huga. Þetta þýðir að þegar þeir eru á ferðalagi, þá er heimurinn heillandi staður sem verður að spyrja út í og skoða – og þetta getur leitt hálfmennskt fólk í vandræði. Annars er hálfmennskt fólk frekar hversdagslegur, sáttur kynþáttur sem heldur sig við sitt og kýs hvorki að skipta sér af víðari heiminum né láta hann skipta sér af þeim.
 
-Fyrir flesta aðra kynþætti eru halflingar stuttir, hærðir-fættir kleptómanar, skoðun sem er ekki alveg ástæðulaus, þar sem flestir sem taka upp ævintýralíf geta auðveldlega fellt inn smá læðupör og brögð vegna smæðar sinnar og fljótlegra fingra, en aðrar stéttir geta og eru til. Það er gamalt dvergamál sem segir, "ef það er halfling í hópnum þínum athugaðu peningaveskið þitt, ef það vantar athugaðu hans."
+Fyrir flesta aðra kynþætti er hálfmennskt fólk stuttfættir, loðfóta kleptómanar, skoðun sem á ekki alveg óstuddan grunn, þar sem flestir sem hefja ævintýralíf geta auðveldlega tileinkað sér smá laumuspil og undirferli vegna smæðar sinnar og kvikra fingra, en aðrir Flokkar geta og eru til. Það er gamalt dvergamálsháttur sem segir: "ef hálfmennskur er í föruneyti þínu, athugaðu peningaveskið þitt; ef það vantar, athugaðu hans."
 
-Þrátt fyrir að vera líkamlega minni og veikari en flestar aðrar skynsamar tegundir, bæta halflingar upp með ákveðinni fimleika sem þjónar þeim vel í erfiðum aðstæðum. Þótt þeir séu varkárir, eru þeir ekki huglausir: halflingar gætu sagt að þeir séu það, en þegar kemur að því að berjast fyrir heimili sínum og lífsháttum geta þeir kallað fram mikla hugrekki. Í stuttu máli eru halflingar góðir spilakarakterar, sérstaklega fyrir þá leikmenn sem kjósa að læðast um fremur en að stalka djarflega yfir heiðina. Þeir eru langlífir, með líftíma í kringum 170 ár.
+Þrátt fyrir að vera líkamlega minni og veikari en flestar aðrar vitsmunaverur, bætir hálfmennskt fólk það upp með ákveðnum lipurleika sem nýtist þeim vel í erfiðum aðstæðum. Þótt þeir séu varkárir, eru þeir ekki hugleysingjar: hálfmennskt fólk gæti sagt að þeir séu það, en þegar kemur að því að berjast fyrir heimilum sínum og lífsháttum, geta þeir kallað fram gríðarlega forða hugrekkis. Í stuttu máli er hálfmennskt fólk góðar persónur fyrir leikmenn, sérstaklega fyrir þá leikmenn sem kjósa að læðast um fremur en að stalka djarflega yfir heiðarnar. Þeir eru langlífir, með líftíma í kringum 170 ár.
 
 #### Menning
 
-Halflingamenning er svipuð siðmenntaðri menningu. Þeir búa í litlum samfélögum sem kallast shires, náin þorp og litlir bæir með nokkrum stórfjölskyldum sem mynda grunn samfélagsins. Iðnaður þeirra er einfaldur: landbúnaður fyrst og fremst, en einnig handverk eins og leirvinnsla, vefnaður, leðurvinnsla og textíll. Þeir vinna málma en mjög sjaldan fyrir vopn og herklæði. Eins og álfar munu flestir halflingar aldrei yfirgefa samfélög sín. Í staðinn kjósa þeir að vera heima, borða tólf máltíðir á dag, reykja píputóbak og drekka á meðan þeir umgangast vini og ástvini. En stundum kemur halflingur sem fær löngun í ævintýri. Sameiginleg menningareining fyrir halflingra er Riding; svæði afmarkað af þremur shires sem gerir stærð hvers riding mjög mismunandi. Borough myndast af þremur Ridings.
+Menning hálfmennsks fólks er svipuð Siðmenningu. Þeir búa í litlum samfélögum sem kallast skíri (shires), samheldin þorp og smábæir þar sem nokkrar stórfjölskyldur mynda grunn samfélagsins. Iðnaður þeirra er einfaldur: aðallega landbúnaður, en einnig handverk eins og leirvinnsla, vefnaður, leðurvinnsla og vefnaðarvara. Þeir vinna málma en mjög sjaldan fyrir vopn og brynjar. Eins og álfar munu flestir hálfmennskir aldrei yfirgefa samfélög sín. Þess í stað kjósa þeir að vera heima, borða tólf máltíðir á dag, reykja píputóbak og drekka á meðan þeir umgangast vini og ástvini. En stundum kemur hálfmennskur sem fær löngun í ævintýri. Algeng menningareining fyrir hálfmennskt fólk er Reiðin (Riding); svæði afmarkað af þremur skírum sem gerir stærð hverrar reiðar mjög breytilega. Borough er myndað úr þremur Reiðum.
 
-#### Færni
+#### Hæfni
 
-- **Frjáls færni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Halfling) +40
-- **Staðlað færni:** Dansa eða Syngja, Undankoma, Innsæi, Staðkunnátta, Skynjun, Læðupör, Viljastyrkur
-- **Atvinnufærni:** List (hver sem er), Viðskipti, Iðn (hver sem er), Kurteisi, Tungumál (hvaða sem er\*), Fræði (hvaða sem er), Tónlist, Streetwise.
+- **Frjáls hæfni:** Siðir +40, Tungumál (Algengt) +40, Tungumál (Hálfmennskt) +40
+- **Staðlað hæfni:** Dans eða Söngur, Undankoma, Innsæi, Staðþekking, Skynjun, Laumur, Mát
+- **Faghæfni:** List (hvaða sem er), Verslun, Smíði (hvaða sem er), Kurteisi, Tungumál (hvaða sem er\*), Fróðleikur (hvaða sem er), Tónlistarhæfni, Götuvit.
 
-_\* Við sköpun karakters eru viðbótartungumál takmörkuð við dverg, álf, gnome, goblin og orc._
+_\* Við sköpun persónu eru viðbótartungumál takmörkuð við dverg, álf, dverghroll, púka og orka._
 
-#### Lífsskoðun og ástríður
+#### Fylgi og ástríður
 
-- **Lífsskoðun:** Hvaða sem er, en venjulega Lögmætt gott (Lawful Good), veljið eina eða tvær úr hverri, eða veljið aðra lífsskoðun.
-  - **Lögmætt** (Heiðarlegur, Virðulegur, Áreiðanlegur, Traustur, Traustvekjandi, Vel siðaður)
-  - **Gott** (Aðdáunarverður, Óeigingjarn, Kærleiksríkur, Samviskubit við að skaða saklausa, Sæmilegur, Siðferðilegur, Fyrirgefandi, Vinalegur, Hatast við illsku, Hjálpsamur, Góðlegur, Elskar náttúruna, Miskunnsamur, Bjartsýnn, Jákvæður, Grænmetisæta)
-- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær úr eftirfarandi:
-  - Tryggð við (Shire, Riding, eða Borough)
-  - Ást (eitthvað tilfinningalegt)
-  - Hatur (þungaiðnaður)
+- **Fylgi:** Hvaða sem er, en venjulega Lögmæt gott (Lawful Good), veldu eitt eða tvö úr hvoru, eða veldu annað Fylgi.
+  - **Lögmæt** (Heiðarlegur, Heiðursmaður, Áreiðanlegur, Traustvekjandi, Trúverðugur, Vel siðaður)
+  - **Gott** (Aðdáunarverður, Altrúískur, Örlátur, Samviskusamur gagnvart því að skaða saklausa, Sómasamlegur, Siðferðilegur, Fyrirgefandi, Vingjarnlegur, Hatar illsku, Hjálpsamur, Góður, Elskar náttúruna, Miskunnsamur, Bjartsýnn, Jákvæður, Grænmetisæta)
+- **Ástríða:** Hvaða sem er, en venjulega ein eða tvær af eftirfarandi:
+  - Tryggð við (Skír, Reið, eða Borough)
+  - Ást (Eitthvað tilfinningalegt)
+  - Hatur (Stóriðja)
 
 #### Sérreglur
 
 - **Hreyfing:** 15 fet.
-- **Læs:** Halflingar eru yfirleitt færir um að lesa og skrifa öll tungumál sem þeir geta talað.
-- **Galdraónæmi:** Eins og dvergar eru halflingar mjög ónæmir fyrir leyndardómsfullum göldrum með Viljastyrksprófum sem eru einu stigi auðveldari þegar þau eru notuð til að standast. Þetta ónæmi hefur engin áhrif á guðlega galdra.
-- **Eiturónæmi:** Halflingar eru einnig mjög ónæmir fyrir eitri, þar sem Þrekpróf sem tengjast eitrun eru einu stigi auðveldari.
-- **Læðupör:** Halflingar sem klæðast ekkert þrengra en léttum herklæðum finna Læðupör-próf 1 stigi auðveldari.
-- **Þol gegn útsetningu (fætur):** Halflingar þjást af engum neikvæðum áhrifum af útsetningu þegar þeir ganga berfættir óháð hitastigi. Þeir þjást af útsetningu venjulega eins og restin af líkamanum varðar.
+- **Læsir:** Hálfmennskt fólk er yfirleitt fært um að lesa og skrifa hvert það tungumál sem þeir geta talað.
+- **Töfraviðnám:** Líkt og dvergar eru hálfmennskir mjög ónæmir fyrir galdraformælum (Arcane Magic) með Mát-prófum sem eru einu stigi auðveldari þegar þau eru notuð til að standast. Þetta viðnám hefur engin áhrif á guðlega galdra.
+- **Eiturviðnám:** Hálfmennskir eru einnig mjög ónæmir fyrir eitri, þar sem Þol-köst sem tengjast eitrun eru einu stigi auðveldari.
+- **Laumulegir:** Hálfmennskir sem klæðast engu sem er takmarkandi en léttbrynju finna Laumuköst vera einu stigi auðveldari.
+- **Þol gagnvart útsetningu (Fætur):** Hálfmennskir verða fyrir engum neikvæðum áhrifum af útsetningu þegar þeir ganga berfættir óháð hitastigi. Þeir þjást af útsetningu á eðlilegan hátt að því er varðar restina af líkamanum.

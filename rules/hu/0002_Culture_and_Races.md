@@ -1,374 +1,372 @@
 # 2. fejezet: Kultúra és fajok
 
-Minden faji háttér leírása tartalmazza a megfelelő képességbónuszok listáját. Az ember karaktert választó játékosoknak tovább kell pontosítaniuk karakterüket egy megfelelő kultúra kiválasztásával. A játékosoknak a képességbónuszokat azonnal alkalmazniuk kell a karakterlapon található Alapképességekre, a további új képességeket – az ún. Szakmai képességeket (amelyeket a következő fejezet mutat be) – pedig a lap megfelelő részéhez kell hozzáadniuk. Sok esetben a fajok listája képességek szélesebb körét kínálja, és a játékos választhat közülük egyet vagy többet, amelyekre bónuszt kap: így az azonos faji háttérrel rendelkező kalandozók is biztosíthatják, hogy karakterük eltérő területeken fejlődjön.
+Minden faji háttér leírása tartalmazza a megfelelő képességbónuszok listáját. Azoknak a játékosoknak, akik ember karaktert választanak, meg kell határozniuk karakterük megfelelő kultúráját. A játékosoknak a képességbónuszokat azonnal alkalmazniuk kell a karakterlapon található Alapkészségekre, és az újonnan megszerzett, Szakértői Készségeknek nevezett képességeket (amelyeket a következő fejezet mutat be) fel kell vezetniük a lap megfelelő részére. Sok esetben a fajok különféle képességek listáját kínálják, és arra ösztönzik a játékost, hogy válasszon ki egyet vagy többet, amely bónuszt kap: így az azonos faji háttérrel rendelkező játékosok biztosíthatják, hogy kalandozóik különböző területeken fejlődjenek.
 
-Ne feledd, hogy minden faj rendelkezik egy jellemző Világnézettel (Alignment) és néhány Szenvedéllyel (Passion) (lásd: [4. fejezet: Világnézet és Szenvedélyek](0004_Alignment_and_Passions.md)). A Világnézet és a Szenvedélyek mélységet és karaktert adnak az általad létrehozott kalandozónak, meghatározva a beidegződött preferenciákat és előítéleteket, valamint a karakter erkölcsi értékeit.
+Vedd figyelembe azt is, hogy minden fajhoz tartozik egy jellemző Beállítottság és több Szenvedély (lásd [4. fejezet: Beállítottság és szenvedélyek](0004_Alignment_and_Passions.md)). A beállítottság és a szenvedélyek nagy mélységet és karakterizációt adhatnak az általad létrehozott kalandozónak, meghatározva a berögzült preferenciákat és előítéleteket, valamint a karakter erkölcsi értékeit.
 
 ---
 ## Emberek
 
-Az emberek egy fantasy világ szinte bármely pontján megélnek, és előbb-utóbb minden fajjal kapcsolatba kerülnek. Egyes fél-emberi és humanoid fajok az emberekre a legszilárdabb szövetségeseikként tekintenek; mások a legbosszúszomjasabb ellenségeiknek látják őket. Közel 100 évig, néha azon túl is élhetnek, bár természetes úton ritkán. Az emberek általában gyorsan tanulnak, és minden más fajnál jobban alkalmazkodnak a változásokhoz. Sokan úgy vélik, hogy az emberek az istenek választott népe – egy olyan hit, amely nem nélkülözi az alapot, mivel a fél-emberi fajok az emberiséghez képest hanyatlóban vannak. Természetesen egyes fél-emberi fajok ezt az emberi terjeszkedés mohó természetének tulajdonítják.
+Az emberek a fantasy világ szinte bármely pontján letelepedhetnek, és előbb-utóbb kapcsolatba kerülhetnek minden egyes fajjal. Egyes fél-emberi és humanoid fajok az embereket leghűségesebb szövetségeseiknek tartják; mások a legbosszúszomjasabb ellenségeiknek. Közel 100 éves kort érhetnek meg, néha még többet is, bár természetes úton ritkán. Az emberek általában gyorsan tanulnak, és minden más fajnál jobban alkalmazkodnak a változásokhoz. Sokan úgy vélik, hogy az emberek az istenek választott népe, ami nem minden alap nélküli hiedelem, mivel a fél-emberi fajok az emberekhez képest hanyatlónak tűnnek. Persze egyes fél-emberi fajok ezt az emberi terjeszkedés falánk természetének tulajdonítják.
 
 ### Emberi kultúra
 
-Az összes játszható faj közül csak az emberek választhatnak külön kultúrát, ami segít őket tovább definiálni. Megjegyzendő, hogy minden kultúra még részletesebb lehet, és módosítható úgy, hogy kifejezetten régióspecifikus legyen. A fél-emberek ezzel szemben kevésbé elterjedtek, ezért kultúrájuk homogénebb, és teljes egészében a fajukba olvad. Az alábbi információk részletezik a négyféle emberi kultúrát.
+Az összes játszható faj közül csak az emberek választhatnak külön kultúrát, ami segít nekik tovább meghatározni önmagukat. Megjegyzendő, hogy minden kultúra még részletesebb lehet, és módosítható úgy, hogy nagyon is régióspecifikus legyen. A fél-emberek ezzel szemben kevésbé elterjedtek, ezért kultúrájuk homogénebb, és teljes egészében a fajukba olvad. Az alábbi információk az emberi kultúrák négy típusát részletezik.
 
 ---
 ### Barbár
 
-Törzsi természetüknél fogva a barbárok kerülik a civilizációt, a nagyvárosokban élőket gyengének és romlottnak tartják. Bár saját településeik is állandóak, általában jóval kisebbek és közelebb állnak a természethez. A barbár törzsek meghatározott területeket foglalnak el – gyakran félig szelíd vadont –, amelyet sajátjuknak tekintenek vadászati, legeltetési és földművelési célokra. Legtöbbjük jártas a fegyverforgatásban, mivel életük során sok veszéllyel kell szembenézniük – vadon élő lényekkel harcolnak, vagy összegyűlnek, hogy megvédjék földjeiket a rivális törzsektől. Mivel kis közösségekben élnek, a rokonsági és klánkapcsolatok társadalmuk erős elemei.
+A barbárok törzsi természetűek, és hajlamosak kerülni a civilizációt, a nagyvárosokban élőket gyengének és romlottnak tekintik. Bár saját településeik is állandóak, általában sokkal kisebbek és közelebb állnak a természethez. A barbár törzsek meghatározott területeket foglalnak el – gyakran félig szelíd vadont –, amelyeket vadászat, legeltetés és földművelés céljából a sajátjuknak tekintenek. Többségük jártas a fegyverforgatásban, mivel életük során számos veszélyt kell leküzdeniük – vadon élő lényekkel néznek farkasszemet, vagy csatarendbe állnak, hogy megvédjék földjeiket a rivális törzsekkel szemben. Mivel kis közösségekben élnek, a rokonsági és klánkapcsolatok társadalmuk erős elemei.
 
-#### Képességek
+#### Készségek
 
-- **Szabad képességek:** Szokások (Customs) +40, Nyelv (Közös) +40
-- **Alapképességek:** Atlétika, Erőnlét (Brawn), Kitartás (Endurance), Elsősegély, Helyismeret, Észlelés (Perception); valamint Csónakázás vagy Lovaglás
-- **Szakmai képességek:** Kézművesség (bármilyen), Gyógyítás, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Navigáció, Hajózás, Túlélés, Nyomkövetés
+- **Szabadkészségek:** Szokások +40, Nyelv (Közös) +40
+- **Alapkészségek:** Atlétika, Erőnlét, Állóképesség, Elsősegély, Helyismeret, Észlelés; valamint Csónakázás vagy Lovaglás
+- **Szakértői Készségek:** Kézművesség (bármely), Gyógyítás, Nyelv (bármely\*), Ismeret (bármely), Zenélés, Navigáció, Tengerészet, Túlélés, Nyomkövetés
 
-_\* Az emberek nyelvválasztása nincs korlátozva a karakteralkotás során, ha meg tudják indokolni a választást._
+_\* Az emberek választása a karakteralkotás során nem korlátozott a nyelvek tekintetében, ha indokolni tudják a választást._
 
-#### Világnézet és Szenvedélyek
+#### Beállítottság és szenvedélyek
 
-- **Világnézet:** Bármilyen; válassz egyet-kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet-kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatívaként válassz egyet-kettőt a "Teljesen Semleges" (True Neutral) közül.
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
+- **Beállítottság:** Bármilyen, válassz egyet vagy kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet vagy kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatív megoldásként válassz egyet vagy kettőt a Teljesen Semleges közül.
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
   - Hűség a klánfőnökhöz
-  - Szeretet (barát, testvér vagy szerelmi partner iránt)
-  - Gyűlölet (mágia, lény, rivális vagy klán iránt)
+  - Szeretet (barát, testvér vagy szerető)
+  - Gyűlölet (mágia, lény, rivális vagy klán)
 
-#### Speciális szabályok
+#### Különleges szabályok
 
 - **Mozgás:** 20 láb.
-- **Túlélési bónusz (Speciális):** A barbárok a származási területükre vonatkozó minden Túlélés dobást egy fokozattal könnyebbnek tekintenek.
-- **Tolerancia a környezeti hatásokkal szemben:** A barbárok csökkentett hatást szenvednek el a származási területük szélsőséges hőmérsékleti viszonyai miatt. Például, ha hideg éghajlatról származnak, még a gyengén felszerelt barbárok is kapnak egy, a KON-jukkal megegyező óraszámú türelmi időt, mielőtt a kitettség hatni kezdene. A megfelelő ruházat viselése ezt a KON-juk duplájára növeli órában. Ezen pont után menedéket kell keresniük, különben elkezdenek Fáradtságot (Fatigue) veszíteni. További információkért lásd az Időjárási táblázatokat a XX. oldalon.
-- **Írástudatlan:** A barbárok általában nem tudnak írni-olvasni. Az írástudást 1 Tapasztalati Dobás (Experience Roll) és egy hónapos, írástudó karakter általi képzés elköltésével sajátíthatják el. Ez alapvető írástudást biztosít a karakter által ismert egyik nyelvben a képzettségszint felével. Igény esetén további 1 Tapasztalati Dobás és egy hónapos képzés teljes írástudást ad. Játék közben új nyelvek tanulásakor feltételezhető, hogy azokat teljes írástudási szinten tanulják meg.
-- **Szerencsés:** Az emberek egy további Szerencseponttal (Luck Point) indulnak.
+- **Túlélési bónusz (specifikus):** A barbárok minden, a származási területükre vonatkozó Túlélés dobást egy fokozattal könnyebben hajtanak végre.
+- **Tűréshatár:** A barbárok a származási területükhöz kapcsolódó szélsőséges hőmérsékleti viszonyok miatt csökkentett hatásokat szenvednek el. Például, ha hideg éghajlatról származnak, még a könnyű öltözetű barbároknak is megengedett egy türelmi időszak, amely órákban mérve megegyezik az ÁLL értékükkel, mielőtt a kitettség hatásai érvényesülnének. A megfelelő ruházat viselése ezt az időt az ÁLL értékük duplájára növelné. Ezt követően menedéket kell keresniük, különben elkezdenek Fáradtságot veszíteni. További információkért lásd az Időjárási táblázatokat a XX. oldalon.
+- **Írástudatlan:** A barbárok általában nem tudnak írni-olvasni. Az írástudást 1 Tapasztalatpont elköltésével és egy hónapos, írástudó karakter melletti képzéssel sajátíthatják el. Ez alapvető írástudást biztosít számukra, amely megegyezik az általuk ismert nyelv szakértelmének felével. Ha kívánják, újabb 1 Tapasztalatponttal és egy hónapos képzéssel teljes írástudásra tehetnek szert. Amikor játék közben új nyelveket tanulnak, feltételezhető, hogy teljes írástudási szinten sajátítják el azokat.
+- **Szerencsés:** Az emberek egy további Szerencseponttal kezdik a játékot.
 
 ---
 ### Civilizált
 
-A Civilizált kultúrát a törvény és a rend látszata jellemzi, amelyet összetett társadalmi kódexek alapoznak meg és bürokrácia támogat. A civilizált emberek felsőbbrendűnek tartják magukat minden más kultúránál, mert eredményeik az állandóságra törekszenek: terjeszkedő városok, impozáns templomok, ünnepi emlékművek, valamint a történelem és az események könyvekben, kötetekben és tekercsekben való rögzítése. Természetesen ez csak egy vékony máz. A legcivilizáltabb városok is lehetnek törvénytelenebbek, mint bármely barbár határvidéki település; és a társadalmi kódexek nyersebbek lehetnek, mint a nomádok vendéglátási rituáléi. A Civilizált kultúra azonban büszke eredményeire, infrastruktúrájára, hivatásos kézműveseire és arra a képességére, hogy könnyen kiterjessze hatókörét bárhová, ahová csak akarja.
+A civilizált kultúrát a törvény és a rend látszata jellemzi, amelyet összetett társadalmi kódexek támasztanak alá, és bürokrácia támogat. A civilizált emberek felsőbbrendűnek tartják magukat minden más kultúránál, mert eredményeik hajlamosak az állandóságra: hatalmas városok, impozáns templomok, ünnepi emlékművek, valamint a történelem és az események könyvekben, kötetekben és tekercsekben való rögzítése. Természetesen ez csak egy vékony máz. A legcivilizáltabb városok is törvénytelenebbek lehetnek, mint bármely barbár határvidéki település; és a társadalmi kódexek durvábbak lehetnek, mint a nomádok vendéglátási rituáléi. De a civilizált kultúra büszke eredményeire, infrastruktúrájára, hivatásos kézműveseire és arra, hogy könnyedén kiterjesztheti hatókörét bárhová, ahová csak akarja.
 
-#### Képességek
+#### Készségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40
-- **Alapképességek:** Rejtőzés (Conceal), Megtévesztés (Deceit), Vezetés (Drive), Befolyásolás (Influence), Belátás (Insight), Helyismeret, Akaraterő (Willpower)
-- **Szakmai képességek:** Művészet (bármilyen), Kereskedelem, Kézművesség (bármilyen), Udvariasság, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Utcai forgatag (Streetwise).
+- **Szabadkészségek:** Szokások +40, Nyelv (Közös) +40
+- **Alapkészségek:** Rejtőzés, Megtévesztés, Hajtás, Befolyásolás, Beleérzés, Helyismeret, Akaraterő
+- **Szakértői Készségek:** Művészet (bármely), Kereskedelem, Kézművesség (bármely), Udvariasság, Nyelv (bármely\*), Ismeret (bármely), Zenélés, Utcai tájékozottság.
 
-_\* Az emberek nyelvválasztása nincs korlátozva a karakteralkotás során, ha meg tudják indokolni a választást._
+_\* Az emberek választása a karakteralkotás során nem korlátozott a nyelvek tekintetében, ha indokolni tudják a választást._
 
-#### Világnézet és Szenvedélyek
+#### Beállítottság és szenvedélyek
 
-- **Világnézet:** Bármilyen; válassz egyet-kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet-kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatívaként válassz egyet-kettőt a "Teljesen Semleges" közül.
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
+- **Beállítottság:** Bármilyen, válassz egyet vagy kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet vagy kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatív megoldásként válassz egyet vagy kettőt a Teljesen Semleges közül.
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
   - Hűség a városhoz
-  - Szeretet (barát, testvér vagy szerelmi partner iránt)
-  - Gyűlölet (rivális, banda, körzet vagy város iránt)
+  - Szeretet (barát, testvér vagy szerető)
+  - Gyűlölet (rivális, banda, körzet vagy város)
 
-#### Speciális szabályok
+#### Különleges szabályok
 
 - **Mozgás:** 20 láb.
-- **Írástudó:** A civilizált régiókból származók általában tudnak írni és olvasni minden olyan nyelven, amelyet beszélnek.
-- **Szerencsés:** Az emberek egy további Szerencseponttal indulnak.
+- **Írástudó:** A civilizált régiókból származók általában képesek írni és olvasni minden általuk beszélt nyelven.
+- **Szerencsés:** Az emberek egy további Szerencseponttal kezdik a játékot.
 
 ---
 ### Nomád
 
-A nomádok folyamatosan mozgásban vannak, nincs saját otthonuk és tűzhelyük. Céltalanul vándorolhatnak, vagy több táborhelyük is lehet, amelyek között az év során mozognak. Kevés terményt termesztenek, helyette az állatok vagy halak vándorlását követik, esetleg saját háziasított állataikat terelik. A nomádok ügyesen élnek meg abból, amit gyorsan és könnyen össze tudnak gyűjteni a környezetükből, semmit sem pazarolva. A nomád kultúra képességeit a környezetükhöz kell igazítani. Egyesek hatalmas távolságokat tesznek meg gyalog, mások karavánokban élnek vagy különös lényeket lovagolnak meg, mások pedig nagy úszó tutajokon sodródnak az óceánokon.
+A nomád népek állandó mozgásban vannak, nincs saját otthonuk és tűzhelyük. Céltalanul vándorolhatnak, vagy lehet több táborhelyük, amelyek között egész évben mozognak. Kevés növényt termesztenek, inkább követik az állatok vagy halak vándorlását, vagy akár saját háziasított állataikat terelik. A nomádok ügyesen élnek meg abból, amit gyorsan és könnyen begyűjthetnek környezetükből, semmit sem pazarolva el. A nomád kultúra készségeit a környezetükhöz kell igazítani. Vannak, akik gyalogosan tesznek meg nagy távolságokat, mások lakókocsikban élnek vagy különös lényeket lovagolnak meg, és vannak, akik nagy úszó tutajokon sodródnak az óceánokon.
 
-#### Képességek
+#### Készségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40.
-- **Alapképességek:** Kitartás, Elsősegély, Helyismeret, Észlelés, Lopakodás; valamint kettő az alábbiak közül: Atlétika, Csónakázás, Úszás, Vezetés vagy Lovaglás, az elsődleges közlekedési módtól függően.
-- **Szakmai képességek:** Kézművesség (bármilyen), Kultúra (bármilyen), Gyógyítás, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Navigáció, Túlélés, Nyomkövetés.
+- **Szabadkészségek:** Szokások +40, Nyelv (Közös) +40.
+- **Alapkészségek:** Állóképesség, Elsősegély, Helyismeret, Észlelés, Lopakodás; és kettő a következőkből: Atlétika, Csónakázás, Úszás, Hajtás vagy Lovaglás a fő utazási módtól függően.
+- **Szakértői Készségek:** Kézművesség (bármely), Kultúra (bármely), Gyógyítás, Nyelv (bármely\*), Ismeret (bármely), Zenélés, Navigáció, Túlélés, Nyomkövetés.
 
-_\* Az emberek nyelvválasztása nincs korlátozva a karakteralkotás során, ha meg tudják indokolni a választást._
+_\* Az emberek választása a karakteralkotás során nem korlátozott a nyelvek tekintetében, ha indokolni tudják a választást._
 
-#### Világnézet és Szenvedélyek
+#### Beállítottság és szenvedélyek
 
-- **Világnézet:** Bármilyen; válassz egyet-kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet-kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatívaként válassz egyet-kettőt a "Teljesen Semleges" közül.
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
-  - Hűség a törzsfőnökhöz/Kánhoz
-  - Szeretet (barát, testvér vagy szerelmi partner iránt)
-  - Gyűlölet (lény, rivális vagy törzs iránt)
+- **Beállítottság:** Bármilyen, válassz egyet vagy kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet vagy kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatív megoldásként válassz egyet vagy kettőt a Teljesen Semleges közül.
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
+  - Hűség a törzsfőnökhöz/kánhoz
+  - Szeretet (barát, testvér vagy szerető)
+  - Gyűlölet (lény, rivális vagy törzs)
 
-#### Speciális szabályok
+#### Különleges szabályok
 
 - **Mozgás:** 20 láb.
-- **Túlélési bónusz (Speciális):** A nomádok a származási területükre vonatkozó minden Túlélés dobást egy fokozattal könnyebbnek tekintenek.
-- **Írástudó:** Mivel sok más fajjal és kultúrával érintkeznek, a nomád kultúrából származók általában tudnak írni és olvasni minden olyan nyelven, amelyet beszélnek.
-- **Szerencsés:** Az emberek egy további Szerencseponttal indulnak.
+- **Túlélési bónusz (specifikus):** A nomádok minden, a származási területükre vonatkozó Túlélés dobást egy fokozattal könnyebben hajtanak végre.
+- **Írástudó:** Mivel sok más fajjal és kultúrával lépnek kapcsolatba, a nomád kultúrából származók általában képesek írni és olvasni minden általuk beszélt nyelven.
+- **Szerencsés:** Az emberek egy további Szerencseponttal kezdik a játékot.
 
 ---
 ### Primitív
 
-Minden nép közül a primitívek élnek a legközelebb a földhöz, összhangban annak rejtett titkaival. A kiterjesztett családi csoportokban élő primitív kultúrák nagyon egyszerű lakhelyek köré szerveződnek, amelyek a barlangoktól és a természeti menedékhelyektől kezdve az ideiglenes tákolmányokig vagy nagyon alapvető kunyhókig terjedhetnek. A primitívek általában vadászó-gyűjtögetők, kevés vagy rosszul fejlett földművelési és állattenyésztési rendszerrel.
+Minden nép közül a primitívek élnek a legközelebb a földhöz, összhangban annak rejtett titkaival. Kiterjedt családi csoportokban élve a primitív kultúrák nagyon egyszerű lakhelyek köré gyűlnek, amelyek a barlangoktól és a természetes menedékhelyektől kezdve a tákolmányokon át az alapvető kunyhókig terjedhetnek. A primitívek általában vadászó-gyűjtögetők, akik kevés vagy rosszul fejlett mezőgazdasági és állattartási rendszerrel rendelkeznek.
 
-Azonban bizonyos kulturális hiedelmek, amelyek gyakran babonákon alapulnak, nagyon jól meghatározottak lehetnek. Kevés primitív kultúra fejlesztett ki írott nyelvnek nevezhető dolgot, bár a festmények és más képi szimbólumok a kommunikáció eszközeként szolgálnak.
+Azonban bizonyos, gyakran babonákon alapuló kulturális hiedelmek nagyon jól körülhatároltak lehetnek. Kevés primitív kultúra fejlesztett ki írott nyelvhez hasonlót, bár a festmények és más képi szimbólumok kommunikációs eszközként szolgálnak.
 
-#### Képességek
+#### Készségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40.
-- **Alapképességek:** Erőnlét, Kitartás, Kitérés (Evade), Helyismeret, Észlelés, Lopakodás; valamint egy az alábbiak közül: Atlétika, Csónakázás, Elsősegély vagy Úszás.
-- **Szakmai képességek:** Kézművesség (bármilyen), Gyógyítás, Tudás (bármilyen), Nyelv (bármilyen\*), Zenélés, Navigáció, Túlélés, Nyomkövetés.
+- **Szabadkészségek:** Szokások +40, Nyelv (Közös) +40.
+- **Alapkészségek:** Erő, Állóképesség, Kitérés, Helyismeret, Észlelés, Lopakodás; és egy az alábbiak közül: Atlétika, Csónakázás, Elsősegély vagy Úszás.
+- **Szakértői Készségek:** Kézművesség (bármely), Gyógyítás, Ismeret (bármely), Nyelv (bármely\*), Zenélés, Navigáció, Túlélés, Nyomkövetés.
 
-_\* Az emberek nyelvválasztása nincs korlátozva a karakteralkotás során, ha meg tudják indokolni a választást._
+_\* Az emberek választása a karakteralkotás során nem korlátozott a nyelvek tekintetében, ha indokolni tudják a választást._
 
-#### Világnézet és Szenvedélyek
+#### Beállítottság és szenvedélyek
 
-- **Világnézet:** Bármilyen; válassz egyet-kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet-kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatívaként válassz egyet-kettőt a "Teljesen Semleges" közül.
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
+- **Beállítottság:** Bármilyen, válassz egyet vagy kettőt egy Etikai Kódexből (Törvényes, Semleges vagy Kaotikus), és egyet vagy kettőt egy Erkölcsi Kódexből (Jó, Semleges vagy Gonosz). Alternatív megoldásként válassz egyet vagy kettőt a Teljesen Semleges közül.
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
   - Hűség a főnökhöz/vezetőhöz
-  - Szeretet (barát, testvér vagy szerelmi partner iránt)
+  - Szeretet (barát, testvér vagy szerető)
   - Gyűlölet (valami, ami megijeszt vagy megfélemlít)
 
-#### Speciális szabályok
+#### Különleges szabályok
 
 - **Mozgás:** 20 láb.
-- **Túlélési bónusz (Speciális):** A primitív kultúrák a származási területükre vonatkozó minden Túlélés dobást egy fokozattal könnyebbnek tekintenek.
-- **Írástudatlan:** A primitívek általában nem tudnak írni-olvasni. Az írástudást 1 Tapasztalati Dobás és egy hónapos, írástudó karakter általi képzés elköltésével sajátíthatják el. Ez alapvető írástudást biztosít a karakter által ismert egyik nyelvben a képzettségszint felével. Igény esetén további 1 Tapasztalati Dobás és egy hónapos képzés teljes írástudást ad. Játék közben új nyelvek tanulásakor feltételezhető, hogy azokat teljes írástudási szinten tanulják meg.
-- **Szerencsés:** Az emberek egy további Szerencseponttal indulnak.
+- **Túlélési bónusz (specifikus):** A primitív kultúrák minden, a származási területükre vonatkozó Túlélés dobást egy fokozattal könnyebben hajtanak végre.
+- **Írástudatlan:** A primitívek általában nem tudnak írni-olvasni. Az írástudást 1 Tapasztalatpont elköltésével és egy hónapos, írástudó karakter melletti képzéssel sajátíthatják el. Ez alapvető írástudást biztosít számukra, amely megegyezik az általuk ismert nyelv szakértelmének felével. Ha kívánják, újabb 1 Tapasztalatponttal és egy hónapos képzéssel teljes írástudásra tehetnek szert. Amikor játék közben új nyelveket tanulnak, feltételezhető, hogy teljes írástudási szinten sajátítják el azokat.
+- **Szerencsés:** Az emberek egy további Szerencseponttal kezdik a játékot.
 
 ---
 ## Fél-emberi fajok
 
-A fél-emberi karakterek létrehozása majdnem ugyanúgy történik, mint az embereké. A tulajdonságokat az adott fajra vonatkozó tulajdonság-kockákkal határozzák meg, ami eltérő tulajdonságértékeket és tartományokat eredményez, de egyébként minden más elem: Attribútumok, Kultúra, Osztály stb. a szokásos módon kerül kiszámításra.
+A fél-emberi karakterek létrehozása szinte ugyanúgy történik, mint az embereké. A Jellemzőket az adott fajra vonatkozó Jellemzőkockák használatával határozzák meg, ami eltérő Jellemző értékeket és tartományokat eredményez, de egyébként minden más elemet – Tulajdonságok, Kultúra, Osztály stb. – a szokásos módon számítanak ki.
 
 ---
 ### Törpe
 
-A törpék otthonukat mélyen a hegyi erődítmények belsejében építik, ahol kiterjedt alagutak fúródnak mélyen a földbe. Az átlagos törpe erős, szívós és fáradhatatlan a csatában. Természetüknél fogva kiváló kézművesek, gyakran hajlamuk van a bányászatra és a kohászatra, amit a kincsek és minden anyagi dolog iránti szeretet kísér. Áruikat mindenki nagyra értékeli.
+A törpék a hegyek mélyén, erődítményekben élnek, ahol kiterjedt alagutakat vájnak mélyen a földbe. Az átlagos törpe erős, kemény és fáradhatatlan a csatában. Természetüknél fogva kiváló kézművesek, gyakran hajlamosak a bányászatra és a kohászatra, és ehhez társul a kincsek és minden anyagi dolog szeretete. Áruikat mindenki keresi.
 
-A törpék alacsony termetűek és kissé zömökek, átlagos magasságuk 4 láb 8 hüvelyk és 4 láb 10 hüvelyk között van. A hajszín általában fekete, szürke vagy sötétbarna, de néhányan vöröses hajról ismertek. Bőrük vöröses vagy földszínű. Minden törpe férfi hosszú szakállt növeszt, amelyet gyakran tüskeznek, fonnak vagy elágaztatnak. Néhány törpe nő is növeszt szakállt, azonban többségük inkább tisztára borotvált arccal él.
+A törpék alacsony termetűek és kissé zömökek, átlagosan 4' 8" és 4'10" közötti magasságúak. A hajszín általában fekete, szürke vagy sötétbarna, de néhányan vöröses hajról ismertek. Bőrük vöröses vagy földszínű. Az összes férfi törpe szereti a hosszú szakállt, gyakran tüskés, fonott vagy villás. Néhány törpe nő is növeszt szakállt; azonban a legtöbben inkább borotvált arccal szeretik viselni.
 
-A törpék természetüknél fogva gyanakvóak mindenkivel szemben, aki a sajátjuktól eltérő életmódot folytat, de nem feltétlenül ellenségesek velük. A legjobban a gnómokkal jönnek ki, akikkel távoli rokonságban állnak, humorérzékük és a csínytevések iránti hajlamuk ellenére. Emellett a törpék jól kijönnek az emberekkel, azonban az elfek iránt alacsony a toleranciájuk az ősi háborúk és a hosszú emlékek miatt. A törpék hajlamosak nem kedvelni a félszerzeteket, akik gondtalan életmódja összeütközik goromba, szigorú természetükkel. Az orkok iránt érzett gyűlöletük, akiket piszkosnak és állatiasnak tartanak, legendás.
+A törpék természetüknél fogva gyanakvóak mindenkivel szemben, aki a sajátjuktól eltérő életmódot folytat, de nem feltétlenül ellenségesek velük. A legjobban a gnómokkal jönnek ki, akikkel távoli rokonságban állnak, bosszantó humorérzékük és a csínytevések iránti hajlamuk ellenére is. Emellett a törpék általában jól kijönnek az emberekkel; azonban alacsony a tűrőképességük az elfekkel szemben a régi háborúk és a hosszú emlékek miatt. A törpék hajlamosak nem kedvelni a félszerzeteket, akiknek gondtalan életmódja ütközik mogorva, szigorú természetükkel. Az orkok iránti gyűlöletük, akiket piszkosnak és bestiálisnak tartanak, legendás.
 
-A törpék hosszú életűek, körülbelül 450 évig élhetnek. Határozottan irtóznak a mágiától, ezért természetüknél fogva ellenállóak az Arkán varázslatokkal szemben; az Isteni varázslatok a szokásos módon hatnak rájuk. Emiatt a törpe mágiahasználók nem ismertek.
+A törpék hosszú életűek, körülbelül 450 éves kort érhetnek meg. Kifejezett irtózással viseltetnek a mágia iránt, ezért természetüknél fogva ellenállóak az Arkán varázslatokkal szemben; az Isteni varázslatok rendesen hatnak rájuk. Emiatt a törpe mágiahasználók ismeretlenek.
 
 #### Törpe kultúra
 
-A törpék klánokba és törzsekbe tömörült társas lények, akik megosztják a földalatti nagy csarnokokat és városokat. Ebből a szempontból leginkább a Barbár kultúrára hasonlítanak, bár vannak bizonyos kulcsfontosságú különbségek. Először is, a nem nem számít a törpe társadalomban: a férfiak és nők egyenlően osztoznak a feladatokon és a felelősségeken. Ide tartozik a gyermeknevelés, a fizikai munka, a vadászat és a háború. Másodszor, a törpék hajlamosak az egyén háttérbe szorítására a társadalom javára.
+A törpék klánokba és törzsekbe tömörült társas lények, akik osztoznak a hatalmas földalatti csarnokokon és városokon. E tekintetben legjobban a Barbár kultúrára hasonlítanak, bár vannak bizonyos kulcsfontosságú különbségek. Először is, a törpe társadalomban a nem nem számít: férfiak és nők egyaránt osztoznak a feladatokon és felelősségeken. Ez magában foglalja a gyermeknevelést, a fizikai munkát, a vadászatot és a háborút. Másodszor, a törpék hajlamosak az egyént a társadalom javára háttérbe szorítani.
 
-A törpék tudják, hogy az erő a létszámban rejlik, és az egyén akarata és szükségletei mindig alárendeltek a közösségének. Azonban anyagias társadalom, amely féltékenyen őrzi felfedezéseit és eredményeit. A törpék szeretik a tárgyakat, és amikor egy magányos törpe kikerül a klánból, nagyon gyorsan önzővé és individualistává válhat, mert a teljes törpe kultúra hiányzik, hogy irányítsa és ellenőrizze az alapvető ösztönöket.
+A törpék tudják, hogy az erő a számokban rejlik, és hogy az egyén vágyai és szükségletei mindig alábbvalók a közösségénél. Azonban anyagias társadalom az övék, féltékenyen őrzik felfedezéseiket és eredményeiket. A törpék szeretik a dolgokat, és amikor kikerülnek a klánból, egy magányos törpe nagyon gyorsan önzővé és individualistává válhat, mert hiányzik az általános törpe kultúra, hogy irányítsa és ellenőrizze az alapvető ösztönöket.
 
-#### Képességek
+#### Készségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Törpe) +40
-- **Alapképességek:** Atlétika, Erőnlét, Kitartás, Kitérés, Helyismeret, Észlelés, Akaraterő
-- **Szakmai képességek:** Kereskedelem, Kézművesség (bármilyen), Mérnöki tudomány, Nyelv (bármilyen\*), Tudás (bármilyen), Mechanizmusok, Szónoklat, Túlélés.
+- **Szabadkészségek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Törpe) +40
+- **Alapkészségek:** Atlétika, Erő, Állóképesség, Kitérés, Helyismeret, Észlelés, Akaraterő
+- **Szakértői Készségek:** Kereskedelem, Kézművesség (bármely), Mérnöki tudomány, Nyelv (bármely\*), Ismeret (bármely), Mechanizmusok, Szónoklás, Túlélés.
 
-_\* Karakteralkotás során a további nyelvek a gnóm, kobold, goblin és ork nyelvre korlátozódnak._
+_\* A karakteralkotás során a további nyelvek a gnóm, goblin, kobold és ork nyelvre korlátozódnak._
 
-#### Világnézet és Szenvedélyek
+#### Beállítottság és szenvedélyek
 
-- **Világnézet:** Bármilyen, de jellemzően Törvényes Jó; válassz egyet-kettőt mindegyikből, vagy válassz más Világnézetet.
-  - **Törvényes** (Szűk látókörű, Gyűlöli a Káoszt, Becsületes, Tisztességes, Ítélkező, Nincs humorérzéke, Engedelmesség a törvényes hatóságnak, Szervezett, Kiszámítható, Megbízható)
-  - **Jó** (Csodálatra méltó, Lelkiismeretes az ártatlanok bántalmazásával szemben, Tisztességes, Etikus, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Optimista, Pozitív)
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
-  - Hűség a Klánhoz
-  - Szeretet (Valami anyagi dolog iránt)
+- **Beállítottság:** Bármilyen, de jellemzően Törvényes Jó, válassz egyet vagy kettőt mindegyikből, vagy válassz más beállítottságot.
+  - **Törvényes** (Zárt gondolkodású, Gyűlöli a káoszt, Becsületes, Tisztességes, Ítélkező, Nincs humorérzéke, Engedelmesség a törvényes hatóságnak, Szervezett, Kiszámítható, Megbízható, Szavahihető)
+  - **Jó** (Csodálatra méltó, Lelkiismeretes ártatlanok bántalmazása ellen, Tisztességes, Etikus, Barátságos, Gyűlöli a gonoszt, Segítőkész, Kedves, Optimizmus, Pozitív)
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
+  - Hűség a klánhoz
+  - Szeretet (Valami anyagias dolog)
   - Hegyitörpék: Gyűlölet (Orkok, fél-orkok, goblinok és hobgoblinok)
-  - Hegyi törpék (más típusú): Gyűlölet (Orkok, goblinok, gonosz óriások és sötét elfek)
+  - Hegyvidéki törpék: Gyűlölet (Orkok, goblinok, gonosz óriások és sötét elfek)
 
-#### Speciális szabályok
+#### Különleges szabályok
 
 - **Mozgás:** 15 láb.
-- **Sötétlátás (Darkvision):** A törpe sötétlátás lehetővé teszi számukra, hogy gyenge fényviszonyok között akár 60 láb távolságra is úgy lássanak, mintha erős fény lenne (szabványos Észlelés dobások valami észrevételére), sötétben pedig úgy, mintha gyenge fény lenne (Észlelés dobások valami észrevételére Nehezek). A sötétségben a színeket csak szürke árnyalatokban látják. A sötétlátás nem teszi lehetővé a látást mágikus sötétségben.
-- **Írástudó:** A törpék általában tudnak írni és olvasni minden olyan nyelven, amelyet beszélnek.
-- **Mágiaellenállás:** A törpék erősen ellenállnak az Arkán mágiának; az Akaraterő dobások egy fokozattal könnyebbek, ha az ellenállásra használják őket. Ez az ellenállás nincs hatással az Isteni mágiára.
-- **Méregellenállás:** A törpék szintén erősen ellenállnak a méregnek, a mérgezéssel kapcsolatos Kitartás dobások egy fokozattal könnyebbek.
-- **Alagútérzék (Tunnel Sense):** Földalatti természetük miatt a törpék bizonyos földalatti jelenségeket egy Könnyű Észlelés dobással észlelhetnek. Az alagútérzék használható kőzetgödrök, csapdák; lejtők vagy emelkedők; a föld alatti hozzávetőleges mélység; új alagút- vagy átjáróépítés; valamint eltolódó vagy csúszó falak vagy szobák észlelésére. Az észlelés hatótávolsága 10 láb.
+- **Sötétlátás:** A törpe Sötétlátás lehetővé teszi számukra, hogy gyenge fényben akár 60 láb távolságra is lássanak, mintha erős fény lenne (standard Észlelés dobások valami észrevételéhez), sötétben pedig úgy, mintha gyenge fény lenne (az Észlelés dobások valami észrevételéhez Nehezek). Azon a sötétségen belül a színeket csak szürke árnyalatokban érzékelik. A Sötétlátás nem teszi lehetővé a látást mágikus sötétségben.
+- **Írástudó:** A törpék általában képesek írni és olvasni minden általuk beszélt nyelven.
+- **Mágiaellenállás:** A törpék rendkívül ellenállóak az Arkán mágiával szemben; az Akaraterő dobásaik egy fokozattal könnyebbek, amikor mágikus ellenállásra használják. Ennek az ellenállásnak nincs hatása az Isteni mágiára.
+- **Méregellenállás:** A törpék a méregre is rendkívül ellenállóak, a mérgezéssel kapcsolatos Állóképesség dobások egy fokozattal könnyebbek.
+- **Alagútérzék:** Földalatti természetüknek köszönhetően a törpék bizonyos földalatti jelenségeket észlelhetnek, ha sikeres Könnyű Észlelés dobást hajtanak végre. Az Alagútérzék kőzetbe vájt gödrök, csapóajtók és csapdák; lejtők vagy emelkedők; hozzávetőleges földalatti mélység; új alagút- vagy átjáróépítés; valamint elmozduló vagy csúszó falak vagy helyiségek észlelésére használható. Ennek az észlelésnek a hatótávolsága 10 láb.
 
 ---
 ### Elf
 
-Az elfek körülbelül olyan magasak, mint az emberek, kecses és karcsú testalkattal rendelkeznek. Nagyon kevés elf hagyja el erdei birodalmát, hogy kalandozó életmódba kezdjen, inkább a békés erdei létezést részesítik előnyben. Akik mégis így tesznek, azok még a saját fajtájuk számára is rejtélyt jelentenek. Bár az elfek meglehetősen jól kijönnek a félszerzetekkel és a gnómokkal, goromba természetük miatt nem illeszkednek jól a törpékhez. Még az emberekre is gyanakvással tekintenek. Minden faj közül az orkokat és a goblinokat gyűlölik a legjobban, a végtelen háborúkon és apró összecsapásokon alapuló hosszan tartó ellenségeskedés miatt. A törpékhez hasonlóan az elfek is nagyon hosszú életűek, sőt még inkább, körülbelül 1100 évig élnek. Azonban jóval előtte az elfek gyakran érzik a késztetést, hogy elhagyják az emberek birodalmát. Hogy hová mennek, az mindenki más számára rejtély.
+Az elfek körülbelül ugyanolyan magasak, mint az emberek, és kecses, karcsú testalkatúak. Nagyon kevés elf hagyja el erdei birodalmát és kezdi el a kalandozó életet, inkább a békés erdei létet részesítik előnyben. Azok, akik mégis megteszik, még a saját fajuk számára is rejtélyek. Bár az elfek meglehetősen jól kijönnek a félszerzetekkel és a gnómokkal, a törpékkel nem igazán jönnek ki a meglehetősen mogorva természetük miatt. Még az embereket is gyanakvással kezelik. Az összes faj közül az orkokat és a goblinokat gyűlölik a legjobban, a végtelen háborúkon és kisebb összecsapásokon alapuló hosszú távú ellenségeskedés miatt. A törpékhez hasonlóan az elfek is nagyon hosszú életűek, sőt még inkább, körülbelül 1100 éves kort is elérhetnek. Azonban jóval ez előtt az elfek gyakran érzik a késztetést, hogy elhagyják az emberek birodalmát. Hogy hová mennek, az mindenki számára rejtély, kivéve őket magukat.
 
-Az elfek jellegzetesek finom csontozatukkal, keskeny, elvékonyodó koponyájukkal és keskeny, hegyes fülükkel. A szemszín a spektrumon keresztül változik, az emberi tónusoktól a ragyogó drágakövek színéig. Az elf társadalom gyakran monarchikus, általában egy király, királynő vagy mindkettő kormányozza. Az elfek másvilágiak. Gyakran távolinak tűnnek a hétköznapi eseményektől, mégis olyan megértésről tesznek tanúbizonyságot, amelyet az emberek számára nehéz felfogni. A természetnek nagy jelentősége van az elfek számára, ezért nagy gondot fordítanak környezetük megőrzésére. Hosszú életű fajként nem úgy fogadják el vagy értékelik az időt, mint az emberiség, és gyakran nincsenek tudatában a rövid időtartamok múlásának.
+Az elfek finom csontozatukról, keskeny, elvékonyodó koponyájukról és keskeny hegyes fülükről ismerhetők fel. A szemszín a spektrumon keresztül változik, az emberi tónusoktól a ragyogó drágakövek színéig. Az elfi társadalom gyakran monarchikus, általában király, királynő vagy mindkettő kormányozza. Az elfek másvilágiak. Gyakran távolinak tűnnek a mindennapi eseményektől, mégis olyan megértésről tesznek tanúbizonyságot, amely az emberek számára érthetetlen. A természet nagy jelentőséggel bír az elfek számára, ezért nagy gondot fordítanak környezetük megóvására. Hosszú életű fajként nem ugyanúgy fogadják el vagy értékelik az időt, mint az emberiség, és gyakran nincsenek tudatában a rövid időintervallumok múlásának.
 
-#### Elf kultúra
+#### Elfi kultúra
 
-Az elf kultúra a Civilizált kultúrához hasonlít. Nagy hangsúlyt fektetnek a tanulásra és a megértésre. A tettek, a magatartás és az integritás fontos és kívánatos tulajdonságok az elfek között és másokban is. Méltóságteljes modort várnak el, és a durva, modortalan viselkedést megvetéssel és gyanakvással szemlélik. A legtöbb elf társadalomnak van királya vagy királynője, ezért az uralkodó iránti hűség a legfontosabb. Az elfek nehezen értik meg azokat a társadalmakat, amelyekből hiányoznak az ilyen struktúrák, csodálkozva, hogyan lehetnek az emberek megfelelően rendezettek egy világos, királyi vezető nélkül, aki irányítja és képviseli őket.
+Az elfi kultúra a civilizáltra hasonlít. Nagy hangsúlyt fektetnek a tanulásra és a megértésre. A tettek, a viselkedés és az integritás fontos és kívánatos tulajdonságok az elfek körében és másokban is. Méltóságteljes modort várnak el, a durva, műveletlen viselkedést pedig megvetéssel és gyanakvással kezelik. A legtöbb elfi társadalomnak van királya vagy királynője, ezért a monarchia iránti hűség a legfontosabb. Az elfek nehezen értik meg azokat a társadalmakat, amelyekből hiányoznak az ilyen struktúrák, csodálkozva, hogyan lehet az embereket megfelelően rendezni egy világos, királyi vezető nélkül, aki irányítaná és képviselné őket.
 
-#### Képességek
+#### Készségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Elf) +40
-- **Alapképességek:** Rejtőzés, Befolyásolás, Belátás, Helyismeret, Észlelés, Lopakodás, Akaraterő
-- **Szakmai képességek:** Művészet (bármilyen), Kereskedelem, Kézművesség (bármilyen), Udvariasság, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Túlélés.
+- **Szabadkészségek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Elf) +40
+- **Alapkészségek:** Rejtőzés, Befolyásolás, Beleérzés, Helyismeret, Észlelés, Lopakodás, Akaraterő
+- **Szakértői Készségek:** Művészet (bármely), Kereskedelem, Kézművesség (bármely), Udvariasság, Nyelv (bármely\*), Ismeret (bármely), Zenélés, Túlélés.
 
-_\* Karakteralkotás során a további nyelvek a gnóm, félszerzet, goblin, hobgoblin, ork és gnoll nyelvre korlátozódnak._
+_\* A karakteralkotás során a további nyelvek a gnóm, félszerzet, goblin, hobgoblin, ork és gnoll nyelvre korlátozódnak._
 
-#### Világnézet és Szenvedélyek
+#### Beállítottság és szenvedélyek
 
-- **Világnézet:** Bármilyen, de jellemzően Kaotikus Jó; válassz egyet-kettőt mindegyikből, vagy válassz más Világnézetet.
+- **Beállítottság:** Bármilyen, de jellemzően Kaotikus Jó, válassz egyet vagy kettőt mindegyikből, vagy válassz más beállítottságot.
   - **Kaotikus** (Kíváncsi, Szabadság, Gyanakvó)
-  - **Jó** (Csodálatra méltó, Önzetlen, Angyali, Jótékony, Lelkiismeretes az ártatlanok bántalmazásával szemben, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Szereti a természetet, Irgalmas, Optimista, Pozitív, Vegetáriánus)
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
-  - Hűség a Királyhoz/Királynőhöz
-  - Szeretet (Valami érzelmi dolog iránt)
-  - Gyűlölet (a kegyelem és szépség bármely ellensége iránt)
-
-#### Speciális szabályok
+  - **Jó** (Csodálatra méltó, Altruista, Angyali, Jótékony, Lelkiismeretes ártatlanok bántalmazása ellen, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a gonoszt, Segítőkész, Kedves, Szereti a természetet, Irgalmas, Optimizmus, Pozitív, Vegetáriánus)
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
+  - Hűség a királyhoz/királynőhöz
+  - Szeretet (Valami érzelmi dolog)
+  - Gyűlölet (a kegyelem és szépség bármely ellensége)#### Speciális szabályok
 
 - **Mozgás:** 20 láb.
-- **Elf láncing:** Az elfek jártasak az Arkán varázslatok használatában elf láncinget viselve, és ezeket a varázslatokat egy nehézségi fokozattal könnyebben varázsolhatják.
-- **Írástudó:** Az elfek általában tudnak írni és olvasni minden olyan nyelven, amelyet beszélnek.
-- **Ellenállás az Alvással és Bűbájjal szemben:** Az elfek az *Alvás* és *Bűbáj* varázslatokkal szembeni Akaraterő dobásokat 2 fokozattal könnyebbnek találják. Ez magában foglalja az *Igézet (Bűbáj)* Iskola minden varázslatát (*Bűbáj, Barátság, Hipnózis* stb.). Dönthetnek úgy, hogy elhagyják ezt az ellenállást és elfogadják a mágia hatásait.
-- **Éles látás:** Éles vizuális érzékelésük miatt az elfek minden Észlelés dobást valami észrevételére egy fokozattal könnyebbnek találnak.
-- **Lopakodó:** Az elfek, ha nem viselnek a könnyű vértnél korlátozóbbat, a Lopakodás teszteket 1 fokozattal könnyebbnek találják.
+- **Tünde láncing:** A tündék jártasak az Arkán mágia varázslatok használatában tünde láncing viselése közben, és az ilyen varázslatokat egy nehézségi szinttel könnyebben castolhatják.
+- **Írástudás:** A tündék általában képesek elolvasni és leírni minden olyan nyelvet, amelyet beszélni tudnak.
+- **Ellenállás az álommal és bűbájjal szemben:** A tündék számára az elme elleni dobások az *Álom* és *Bűbáj* varázslatok kivédésére 2 fokozattal könnyebbek. Ez magában foglalja az összes *Elvarázslás (Bűbáj)* iskolájába tartozó varázslatot (*Bűbáj: Ember, Barátság, Hipnózis* stb.). Dönthetnek úgy, hogy lemondanak erről az ellenállásról, és elfogadják a mágia hatásait.
+- **Éles látás:** Éles látásuknak köszönhetően a tündék számára minden észlelést próbáló dobás valaminek a kiszúrására egy fokozattal könnyebb.
+- **Lopakodó:** A könnyű páncélnál nem korlátozóbb ruházatot viselő tündék számára a lopakodási tesztek 1 fokozattal könnyebbek.
 
 ---
 ### Gnóm
 
-3 láb 4 hüvelyk és 3 láb 7 hüvelyk közötti magasságukkal a gnómok még kisebbek, mint törpe rokonaik. Barna vagy napbarnított bőrrel, fehér hajjal és lényegesen nagyobb orral rendelkeznek, összességében azonban kevésbé zömökek. A gyakorlati tréfák iránti szinte kontrollálhatatlan hajlammal és olyan humorérzékkel rendelkeznek, amely a világ sötétebb részein az életükbe kerülhet, a gnómok ezeket a problémás tulajdonságokat a természet iránti, az elfekével szinte egyenlő szeretettel egyensúlyozzák ki. A törpékhez hasonlóan a gnómok is különösen szeretik a drágaköveket és az ékszereket, és sokan közülük szakértők a drágakő-csiszolásban. Hegyvidéki és erdős területeken található bányákban és üregekben laknak, távol az emberektől. A gnómok gyanakvóak az önmaguknál jóval nagyobb fajokkal szemben, és a törpéken és félszerzeteken kívül ez nagyjából mindenki más. Hajlamosak egy személy valódi szándékát a humorérzékük próbájával felmérni, ami biztosan nem a legbölcsebb módszer, de úgy tűnik, nekik beválik. A gnómok kiváló történetmesélők és vad mesék kitalálói. Minden faj közül a törpékkel jönnek ki a legjobban, de általában hajlamosabbak elfogadni másokat is. A gnómok általában körülbelül 700 évig élnek.
+3 láb 4 hüvelyk és 3 láb 7 hüvelyk közötti magasságukkal a gnómok még a törpe rokonaiknál is kisebbek. Barna vagy napbarnított bőrrel, fehér hajjal és lényegesen nagyobb orral rendelkeznek, viszont összességében kevésbé zömökek. A csínytevésekre való szinte leküzdhetetlen hajlamukkal és olyan humorérzékükkel, amely a világ sötétebb részein az életükbe kerülhet, a gnómok ezeket a problémás vonásokat a természet iránti, a tündékével szinte egyenértékű, éles szeretettel egyensúlyozzák. A törpékhez hasonlóan a gnómok is különösen szeretik a drágaköveket és az ékszereket, és sokan közülük szakértői a kőcsiszolás mesterségének. Dombvidékeken és az emberektől elszigetelt erdős területeken található bányákban és üregekben laknak. A gnómok gyanakvással viszonyulnak a náluk jóval nagyobb fajokhoz, és a törpéket és félszerzeteket leszámítva ez nagyjából mindenkit jelent. Hajlamosak egy személy valódi szándékát a humorérzékének próbájával felmérni – ami biztosan nem a legbölcsebb módszer, de úgy tűnik, nekik beválik. A gnómok a "magasröptű" mesék és vad történetek szakértő mesélői. Az összes faj közül a törpékkel jönnek ki a legjobban, de általában hajlandóbbak elfogadni másokat. A gnómok jellemzően 700 évig élnek.
 
 #### Kultúra
 
-A gnóm kultúra klánszerű társadalom, amely idejének nagy részét bányászattal és finom ékszerek készítésével tölti. Életük jól szervezett, vezetésük egy főnökben csúcsosodik ki, a vallási ügyeket pedig a főnök klerikus tanácsadói intézik. Ilyen módon kultúrájuk olyan, mint törpe rokonaiké, bár ők hajlamosabbak a játékokra és a csínytevésekre, mint guggoló unokatestvéreik. Az állatok és a természet iránti szeretetük azt jelenti, hogy a törpéken kívül jól kijönnek az elfekkel és más erdei lényekkel is.
+A gnóm kultúra klán alapú társadalom, amely idejének nagy részét bányászattal és finom ékszerek készítésével tölti. Életük jól szervezett, vezetésük a főnökben csúcsosodik ki, a vallási ügyeket pedig a főnök papi tanácsadói kezelik. Ebben a tekintetben kultúrájuk hasonlít törpe rokonaikéhoz, azonban ők hajlamosabbak a játékokat és a csínytevéseket jobban kedvelni, mint zömök unokatestvéreik. Az állatok és a természet iránti szeretetük azt jelenti, hogy a törpéken kívül jól megértik magukat a tündékkel és más erdei lényekkel.
 
-#### Képességek
+#### Képzettségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Gnóm) +40
-- **Alapképességek:** Megtévesztés, Kitérés, Belátás, Helyismeret, Észlelés, Lopakodás, Akaraterő
-- **Szakmai képességek:** Kereskedelem, Kézművesség (bármilyen), Mérnöki tudomány, Nyelv (bármilyen\*), Tudás (bármilyen), Mechanizmusok, Szónoklat, Túlélés.
+- **Szabad képzettségek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Gnóm) +40
+- **Alap képzettségek:** Megtévesztés, Kitérés, Belátás, Helyismeret, Észlelés, Lopakodás, Akaraterő
+- **Szakmai képzettségek:** Kereskedelem, Kézművesség (bármilyen), Mérnöki munka, Nyelv (bármilyen\*), Tudás (bármilyen), Mechanizmusok, Szónoklattan, Túlélés.
 
-_\* Karakteralkotás során a további nyelvek a törpe, félszerzet, goblin és kobold nyelvre korlátozódnak._
+_\* Karakteralkotás közben a további nyelvek a törpe, félszerzet, goblin és kobold nyelvekre korlátozódnak._
 
-#### Világnézet és Szenvedélyek
+#### Jellem és szenvedélyek
 
-- **Világnézet:** Bármilyen, de jellemzően Semleges Jó; válassz egyet-kettőt mindegyikből, vagy válassz más Világnézetet.
-  - **Semleges** (Nem érez erősen sem pro, sem kontra a Törvény és Káosz terén, Rugalmas, Szabadság, Nincs kialakult Etikai Kódexe, Tiszteletben tartja a természetet\*)
-  - **Jó** (Csodálatra méltó, Önzetlen, Angyali, Jótékony, Lelkiismeretes az ártatlanok bántalmazásával szemben, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Szereti a természetet\*, Irgalmas, Optimista, Pozitív, Vegetáriánus)
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
-  - Hűség a Klánhoz
-  - Szeretet (Valami anyagi dolog iránt)
-  - Gyűlölet (Jellemzően koboldok és goblinok iránt)
+- **Jellem:** Bármilyen, de jellemzően Semleges Jó, válassz egyet-egyet mindkettőből, vagy válassz más Jellemet.
+  - **Semleges** (Nem érez határozottan egyik irányba sem, amikor Törvényről és Káoszról van szó, Rugalmas, Cselekvési szabadság, Nincs kialakult Etikai Kódexe, Tiszteli a természetet\*)
+  - **Jó** (Csodálatra méltó, Önzetlen, Angyali, Jótékony, Lelkiismeretes az ártatlanok bántásával szemben, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Szereti a természetet\*, Irgalmas, Optimizmus, Pozitív, Vegetáriánus)
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
+  - Hűség a klánhoz
+  - Szerelem (Valami materialista dolog)
+  - Gyűlölet (Jellemzően a koboldok és goblinok iránt)
 
-_\* Vagy Tiszteletben tartja a természetet, vagy Szereti a természetet, de nem mindkettő._
+_\* Vagy Tiszteli a természetet, vagy Szereti a természetet, de nem mindkettő._
 
 #### Speciális szabályok
 
 - **Mozgás:** 15 láb.
-- **Írástudó:** A gnómok általában tudnak írni és olvasni minden olyan nyelven, amelyet beszélnek.
-- **Sötétlátás:** A gnóm sötétlátás lehetővé teszi számukra, hogy gyenge fényviszonyok között akár 60 láb távolságra is úgy lássanak, mintha erős fény lenne (szabványos Észlelés dobások valami észrevételére), sötétben pedig úgy, mintha gyenge fény lenne (Észlelés dobások valami észrevételére Nehezek). A sötétségben a színeket csak szürke árnyalatokban látják. A sötétlátás nem teszi lehetővé a látást mágikus sötétségben.
-- **Mágiaellenállás:** A törpékhez hasonlóan a gnómok is erősen ellenállnak az Arkán mágiának; az Akaraterő dobások egy fokozattal könnyebbek, ha az ellenállásra használják őket, két fokozattal könnyebbek az illúziókkal kapcsolatban. Ez az ellenállás nincs hatással az Isteni mágiára. Sok gnóm, aki mágiahasználóvá válik, az Illúzió Iskolájára specializálódik.
-- **Méregellenállás:** A gnómok szintén erősen ellenállnak a méregnek, a mérgezéssel kapcsolatos Kitartás dobások 1 fokozattal könnyebbek.
-- **Alagútérzék:** Földalatti természetük miatt a gnómok bizonyos földalatti jelenségeket egy Könnyű Észlelés dobással észlelhetnek. Az alagútérzék használható kőzetgödrök, csapdák; lejtők vagy emelkedők; a föld alatti hozzávetőleges mélység; új alagút- vagy átjáróépítés; valamint eltolódó vagy csúszó falak vagy szobák észlelésére. Az észlelés hatótávolsága 10 láb.
+- **Írástudás:** A gnómok általában képesek elolvasni és leírni minden olyan nyelvet, amelyet beszélni tudnak.
+- **Sötétlátás:** A gnóm Sötétlátás lehetővé teszi számukra, hogy akár 60 láb távolságig is lássanak gyenge fényben, mintha az erős fény lenne (szabványos Észlelés dobások valaminek a kiszúrására), és sötétségben, mintha az gyenge fény lenne (az Észlelés dobások valaminek a kiszúrására Nehezek). A sötétségben a színeket csak szürke árnyalatokban érzékelik. A Sötétlátás nem teszi lehetővé a látást mágikus sötétségben.
+- **Mágiaellenállás:** A törpékhez hasonlóan a gnómok is erősen ellenállnak az Arkán mágiának; az Akaraterő próbák egy fokozattal könnyebbek, ha az ellenállásra használják, és két fokozattal könnyebbek az illúziókkal kapcsolatban. Ez az ellenállás nincs hatással az Isteni mágiára. Sok gnóm, aki mágiahasználóvá válik, az Illúzió Iskolájára specializálódik.
+- **Méregellenállás:** A gnómok a méreggel szemben is erősen ellenállóak, az Állóképesség dobások, amelyek a mérgezésre vonatkoznak, 1 fokozattal könnyebbek.
+- **Alagútérzék:** Földalatti természetük miatt a gnómok képesek érzékelni bizonyos földalatti jelenségeket, ha sikerül egy Könnyű Észlelés képzettségpróbájuk. Az Alagútérzék használható kőből készült gödrök, csapóajtók és csapdák; lejtő vagy emelkedő; a föld alatti hozzávetőleges mélység; új alagút vagy átjáró építése; valamint elmozduló vagy csúszó falak vagy helyiségek érzékelésére. Ennek az érzékelésnek a hatótávolsága 10 láb.
 
 ---
-### Fél-elf
+### Félelf
 
-A fél-elfek egy elf és egy ember utódai, ami mindkét szülő tulajdonságainak keverékét biztosítja számukra. Megjelenésük közelebb áll az elf örökségükhöz; általában vonzó vonásokkal rendelkeznek. A fél-elfek elveszítik az elf örökség bizonyos Képességeit, és nem rendelkeznek az emberiség szerencsés vagy tehetséges természetével; helyette valahol a kettő között helyezkednek el. A fél-elfek rendelkeznek emberi szülőjük vándorlási vágyával és elf örökségük természet iránti szeretetével. Hosszú életűek is, körülbelül 300 évig élnek. A világ egyes részein a fél-elfeket gyanakvással kezelik vegyes származásuk miatt, de általában mindenhol elfogadják őket, ahol az elfek és emberek élnek, bár a legnagyobb mértékű bigottságot általában az elf nép részéről kapják.
+A félelfek egy tünde és egy ember utódai, ami mindkét szülőtől származó vonások keverékét biztosítja számukra. Megjelenésük közelebb áll tünde örökségükhöz; hajlamosak vonzó vonásokkal rendelkezni. A félelfek elveszítik a tünde örökség bizonyos képességeit, és nincs meg bennük az emberiség szerencsés vagy tehetséges természete; ehelyett valahol a kettő között helyezkednek el. A félelfek rendelkeznek emberi szülőjük vándorlási kedvével és tünde örökségük természet iránti szeretetével. Hosszú életűek is, körülbelül 300 éves kort érnek meg. A világ egyes részein a félelfeket gyanakvással kezelik vegyes származásuk miatt, de általában mindenhol elfogadják őket, ahol a tündék és emberek is megélnek, bár a legnagyobb mértékű bigottságot hajlamosak a tünde néptől kapni.
 
 #### Kultúra
 
-A fél-elfeknek nincsenek saját közösségeik, de megtalálhatóak bárhol, ahol az emberek és elfek keverednek, és általában az őket felnevelő faj kultúráját osztják. Például, ha emberek között nevelkedtek, emberi szülőjük kultúráját osztják (az emberek alatt részletezett négy közül), ha elfek között nevelkedtek, elf szülőjük kultúráját osztják.
+A félelfeknek nincsenek saját közösségeik, de mindenhol megtalálhatók, ahol emberek és tündék együtt élnek, és általában annak a fajnak a kultúráját osztják, amely felnevelte őket. Például, ha emberek között nevelkedtek, akkor emberi szülőjük kultúráját osztják (az emberek alatt részletezett négy közül), ha tündék között nevelkedtek, akkor tünde szülőjük kultúráját.
 
-#### Képességek
+#### Képzettségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Elf) +40
-- **Alapképességek:** Válassz egy emberi kultúrából vagy az alábbi elf képességlistából: Rejtőzés, Befolyásolás, Belátás, Helyismeret, Észlelés, Lopakodás, Akaraterő
-- **Szakmai képességek:** Válassz egy emberi kultúrából vagy az alábbi elf képességlistából: Művészet (bármilyen), Kereskedelem, Kézművesség (bármilyen), Udvariasság, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Túlélés.
+- **Szabad képzettségek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Tünde) +40
+- **Alap képzettségek:** Választás egy emberi kultúrából vagy a következő tünde képzettséglistából: Rejtőzés, Befolyásolás, Belátás, Helyismeret, Észlelés, Lopakodás, Akaraterő
+- **Szakmai képzettségek:** Választás egy emberi kultúrából vagy a következő tünde képzettséglistából: Művészet (bármilyen), Kereskedelem, Kézművesség (bármilyen), Udvariasság, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Túlélés.
 
-_\* Karakteralkotás során, ha elfek nevelték fel, a további nyelvek a gnóm, félszerzet, goblin, hobgoblin, ork és gnoll nyelvre korlátozódnak. Ha emberek nevelték fel, a nyelvválasztás korlátlan._
+_\* Karakteralkotás közben, ha tündék nevelték fel, a további nyelvek a gnóm, félszerzet, goblin, hobgoblin, ork és gnoll nyelvekre korlátozódnak. Ha emberek nevelték fel, a nyelvválasztásban korlátlanok._
 
-#### Világnézet és Szenvedélyek
+#### Jellem és szenvedélyek
 
-Válassz egy emberi kultúrából vagy az alábbi elf Szenvedélyekből:
+Válassz egy emberi kultúrából vagy a következő tünde Szenvedélyek közül:
 
-- **Világnézet:** Bármilyen, de jellemzően Kaotikus Jó, ha elfek nevelték fel; válassz egyet-kettőt mindegyikből, vagy válassz más Világnézetet. Vagy az emberi szülő szerint.
-  - **Kaotikus** (Kíváncsi, Szabadság, Gyanakvó)
-  - **Jó** (Csodálatra méltó, Önzetlen, Angyali, Jótékony, Lelkiismeretes az ártatlanok bántalmazásával szemben, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Szereti a természetet, Irgalmas, Optimista, Pozitív, Vegetáriánus)
-- **Szenvedély (Elfként nevelve):** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
+- **Jellem:** Bármilyen, de jellemzően Káosz Jó, ha tündék nevelték fel, válassz egyet-egyet mindkettőből, vagy válassz más Jellemet. Vagy az emberi szülő szerint.
+  - **Káosz** (Kíváncsi, Szabadság, Gyanakvó)
+  - **Jó** (Csodálatra méltó, Önzetlen, Angyali, Jótékony, Lelkiismeretes az ártatlanok bántásával szemben, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Szereti a természetet, Irgalmas, Optimizmus, Pozitív, Vegetáriánus)
+- **Szenvedély (Tündeként felnevelve):** Bármilyen, de jellemzően egy vagy kettő a következőkből:
   - Hűség a Királyhoz/Királynőhöz
-  - Szeretet (Valami érzelmi dolog iránt)
-  - Gyűlölet (a kegyelem és szépség bármely ellensége iránt)
-- **Szenvedély (Emberként nevelve):** Válassz egy megfelelő emberi listából.
+  - Szerelem (Valami érzelmi dolog)
+  - Gyűlölet (A kegyelem és szépség minden ellensége)
+- **Szenvedély (Emberként felnevelve):** Válassz egy megfelelő emberi listából.
 
 #### Speciális szabályok
 
-- **Mozgás:** 20 láb.
-- **Elf láncing:** Az elfek jártasak az Arkán varázslatok használatában elf láncinget viselve, és ezeket a varázslatokat egy nehézségi fokozattal könnyebben varázsolhatják.
-- **Írástudó:** A fél-elfek általában tudnak írni és olvasni minden olyan nyelven, amelyet beszélnek.
-- **Ellenállás az Alvással és Bűbájjal szemben:** A fél-elfek az *Alvás* és *Bűbáj* varázslatokkal szembeni Akaraterő dobásokat egy fokozattal könnyebbnek találják. Ez magában foglalja az *Igézet (Bűbáj)* Iskola minden varázslatát (*Bűbáj, Barátság, Hipnózis* stb.). Dönthetnek úgy, hogy elhagyják ezt az ellenállást és elfogadják a mágia hatásait.
-- **Éles látás:** Éles vizuális érzékelésük miatt a fél-elfek minden Észlelés dobást valami észrevételére egy fokozattal könnyebbnek találnak.
-- **Lopakodó:** A fél-elfek, ha nem viselnek a könnyű vértnél korlátozóbbat, a Lopakodás teszteket 1 fokozattal könnyebbnek találják.
+- **Mozgás** : 20 láb.
+- **Tünde láncing** : A félelfek jártasak az Arkán mágia varázslatok használatában tünde láncing viselése közben, és az ilyen varázslatokat egy nehézségi szinttel könnyebben castolhatják.
+- **Írástudás** : A félelfek általában képesek elolvasni és leírni minden olyan nyelvet, amelyet beszélni tudnak.
+- **Ellenállás az álommal és bűbájjal szemben** : A félelfek számára az elme elleni dobások az *Álom* és *Bűbáj* varázslatok kivédésére egy fokozattal könnyebbek. Ez magában foglalja az összes *Elvarázslás (Bűbáj)* iskolájába tartozó varázslatot (*Bűbáj: Ember, Barátság, Hipnózis* stb.). Dönthetnek úgy, hogy lemondanak erről az ellenállásról, és elfogadják a mágia hatásait.
+- **Éles látás** : Éles látásuknak köszönhetően a félelfek számára minden észlelést próbáló dobás valaminek a kiszúrására egy fokozattal könnyebb.
+- **Lopakodó** : A könnyű páncélnál nem korlátozóbb ruházatot viselő félelfek számára a lopakodási tesztek 1 fokozattal könnyebbek.
 
 ---
-### Fél-ork
+### Félork
 
-A világ vadabb határvidékeiről származnak, ahol az orkok és emberek konfliktusba kerülnek; a fél-orkok e két faj valószínűtlen egyesülésének eredményei. Genetikai szempontból a fél-orkok több orki tulajdonságot mutatnak, mint emberit, átlagosan magasabbak az embernél, nagy, kiemelkedő fogakkal, megnyúlt alsó állkapoccsal és durva, sötét szőrrel borított zöldes bőrrel. Természetüknél fogva harciasak, és nem érdeklik őket a kifinomultabb törekvések. A fél-orkok rossz viszonyban vannak más fajokkal orki vérük miatt; az elfekkel és törpékkel való ellenségeskedés a legnagyobb; de idővel bizalom alakulhat ki még ezekkel a valószínűtlen fajokkal is. Minden faj közül a fél-elfek a leginkább együttérzőek, túlságosan is jól megértve a kívülálló életét. Furcsa módon a gnómok és félszerzetek általában elfogadják a fél-orkokat: az előbbiek azért, mert a fél-orkok hajlamosak venni a tréfát, az utóbbiak pedig kíváncsi és elfogadó természetük miatt. A fél-orkok természetes élettartama körülbelül 80 év.
+A világ vadabb határvidékeiről származnak, ahol az orkok és emberek konfliktusba kerülnek; a félorkok e két faj valószínűtlen egyesülésének eredményei. Genetikai szempontból a félorkok több ork vonást mutatnak, mint emberit, átlagosan magasabbak egy embernél, nagy, kiálló fogakkal, kinyújtott alsó állkapoccsal és durva, sötét szőrrel borított zöldes bőrrel. Természetükből adódóan harciasak, és nem érdeklődnek a kifinomultabb törekvések iránt. A félorkok rossz viszonyban vannak a többi fajjal ork vérük miatt; a legnagyobb ellenségeskedés a tündékkel és törpékkel áll fenn, de idővel bizalom alakulhat ki még ezekkel a valószínűtlen fajokkal is. Az összes faj közül a félelfek hajlamosak a leginkább együttérzők lenni, túlságosan is jól megértve a kitaszított életét. Furcsa módon a gnómok és a félszerzetek általában elfogadják a félorkokat; az előbbiek azért, mert a félorkok általában jól tűrik a vicceket, az utóbbiak pedig kíváncsi és befogadó természetük miatt. A félorkok természetes élettartama körülbelül 80 év.
 
 #### Kultúra
 
-A fél-elfekhez hasonlóan a fél-orkoknak sincsenek őshonos földjeik, leggyakrabban ork törzsek között élnek. Azok, akik nem más orkok között élnek, az emberi földek felé húznak. Mivel a társadalom gyakran nem fogadja el őket, a fél-orkokat általában a nagy erejüknek és temperamentumuknak megfelelő erőszakos pályák felé vonzzák, általában a kalandozók között találnak társaságot, akik közül sokan maguk is vándorok és kívülállók. A fél-orkok általában az őket felnevelő faj kultúráját osztják. Például, ha emberek között nevelkedtek, emberi szülőjük kultúráját osztják; ha orkok között nevelkedtek, ork szülőjük kultúráját osztják.
+A félelfekhez hasonlóan a félorkoknak sincsenek őshonos földjeik, leggyakrabban ork törzsek között élnek. Azok, akik nem más orkok között élnek, az emberi földek felé vándorolnak. Mivel a társadalom gyakran nem fogadja el őket, a félorkokat általában a nagy erejükhöz és vérmérsékletükhöz illő erőszakos karrierek vonzzák, általában kalandozók között találva társaságot, akik közül sokan vándorok és kívülállók. A félorkok általában annak a fajnak a kultúráját osztják, amely felnevelte őket. Például, ha emberek között nevelkedtek, akkor emberi szülőjük kultúráját osztják; ha orkok között nevelkedtek, akkor ork szülőjük kultúráját.
 
-#### Képességek
+#### Képzettségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Ork) +40.
-- **Alapképességek:** Válassz egy emberi kultúrából vagy az alábbi ork képességlistából: Atlétika, Erőnlét, Kitartás, Elsősegély, Helyismeret, Észlelés; és Csónakázás, Kitérés vagy Lovaglás.
-- **Szakmai képességek:** Válassz egy emberi kultúrából vagy az alábbi ork képességlistából: Kézművesség (bármilyen), Gyógyítás, Megfélemlítés, Tudás (bármilyen), Zenélés, Navigáció, Túlélés, Nyomkövetés.
+- **Szabad képzettségek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Ork) +40.
+- **Alap képzettségek:** Választás egy emberi kultúrából vagy a következő ork képzettséglistából: Atlétika, Izomerő, Állóképesség, Elsősegély, Helyismeret, Észlelés; valamint Csónakázás, Kitérés vagy Lovaglás.
+- **Szakmai képzettségek:** Választás egy emberi kultúrából vagy a következő ork képzettséglistából: Kézművesség (bármilyen), Gyógyítás, Megfélemlítés, Tudás (bármilyen), Zenélés, Navigáció, Túlélés, Nyomkövetés.
 
-_\* Karakteralkotás során, ha orkok nevelték fel, a további nyelvek a goblin, hobgoblin, ork és gnoll nyelvre korlátozódnak. Ha emberek nevelték fel, a nyelvválasztás korlátlan, ha meg tudod indokolni a választást._
+_\* Karakteralkotás közben, ha orkok nevelték fel, a további nyelvek a goblin, hobgoblin, ork és gnoll nyelvekre korlátozódnak. Ha emberek nevelték fel, a nyelvválasztásban nem vagy korlátozva, ha indokolni tudod a választást._
 
-#### Világnézet és Szenvedélyek
+#### Jellem és szenvedélyek
 
-Válassz egy emberi kultúrából vagy az alábbi ork Szenvedélyekből, ha ork társadalomban nevelkedtél:
+Válassz egy emberi kultúrából vagy a következő ork Szenvedélyek közül, ha ork társadalomban nevelkedtél:
 
-- **Világnézet:** Bármilyen, de jellemzően Törvényes Gonosz, ha orkok nevelték fel; válassz egyet-kettőt mindegyikből, vagy válassz más Világnézetet. Vagy az emberi szülő szerint.
-  - **Törvényes** (Hagyományok betartása, Számító, Szűk látókörű, Alkalmazkodóképesség hiánya)
-  - **Gonosz** (Bántalmazó, Kegyetlen, Uralkodó, Élvezi az ártatlanok bántalmazását, Gyűlöli a Jót, Irgalmatlan, Szadista, Rabszolgatartó, Rosszindulatú)
-- **Szenvedély (Orkként nevelve):** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
-  - Hűség a klánfőnökhöz
-  - Szeretet (barát, testvér vagy szerelmi partner iránt)
-  - Gyűlölet (mágia, lény, rivális vagy klán iránt)
-- **Szenvedély (Emberként nevelve):** Válassz egy megfelelő emberi listából.
+- **Jellem:** Bármilyen, de jellemzően Törvényes Gonosz, ha orkok nevelték fel, válassz egyet-egyet mindkettőből, vagy válassz más Jellemet. Vagy az emberi szülő szerint.
+  - **Törvényes** (Hagyománytisztelet, Számító, Szűklátókörű, Alkalmazkodóképesség hiánya)
+  - **Gonosz** (Bántalmazó, Kegyetlen, Uralkodó, Élvezi az ártatlanok bántását, Gyűlöli a Jót, Irgalmatlan, Szadista, Rabszolgatartó, Rosszindulatú)
+- **Szenvedély (Orkként felnevelve):** Bármilyen, de jellemzően egy vagy kettő a következőkből:
+  - Hűség a Klánfőnökhöz
+  - Szerelem (barát, testvér vagy romantikus szerető)
+  - Gyűlölet (mágia, lény, rivális vagy klán)
+- **Szenvedély (Emberként felnevelve):** Válassz egy megfelelő emberi listából.
 
 #### Speciális szabályok
 
 - **Mozgás:** 20 láb.
-- **Sötétlátás:** A fél-ork sötétlátás lehetővé teszi számukra, hogy gyenge fényviszonyok között akár 60 láb távolságra is úgy lássanak, mintha erős fény lenne (szabványos Észlelés dobások valami észrevételére), sötétben pedig úgy, mintha gyenge fény lenne (Észlelés dobások valami észrevételére Nehezek). A sötétségben a színeket csak szürke árnyalatokban látják. A sötétlátás nem teszi lehetővé a látást mágikus sötétségben.
-- **Írástudatlan:** Ha orkok nevelték fel, a fél-orkok általában nem tudnak írni-olvasni. Az írástudást 1 Tapasztalati Dobás és egy hónapos, írástudó karakter általi képzés elköltésével sajátíthatják el. Ez alapvető írástudást biztosít a karakter által ismert egyik nyelvben a képzettségszint felével. Igény esetén további 1 Tapasztalati Dobás és egy hónapos képzés teljes írástudást ad. Játék közben új nyelvek tanulásakor feltételezhető, hogy azokat teljes írástudási szinten tanulják meg. Más kultúra által felnevelt fél-orkok írástudók lesznek, ha az a kultúra is írástudó.
-- **Túlélési bónusz (Speciális):** Ha orkok nevelték fel, a fél-orkok a származási területükre vonatkozó minden Túlélés dobást egy fokozattal könnyebbnek tekintenek.
+- **Sötétlátás:** A félork Sötétlátás lehetővé teszi számukra, hogy akár 60 láb távolságig is lássanak gyenge fényben, mintha az erős fény lenne (szabványos Észlelés dobások valaminek a kiszúrására), és sötétségben, mintha az gyenge fény lenne (az Észlelés dobások valaminek a kiszúrására Nehezek). A sötétségben a színeket csak szürke árnyalatokban érzékelik. A Sötétlátás nem teszi lehetővé a látást mágikus sötétségben.
+- **Írástudatlan:** Ha orkok nevelték fel, a félorkok általában nem tudnak írni vagy olvasni. Írástudást 1 Tapasztalatdobás elköltésével és egy hónapos képzéssel tanulhatnak egy olyan karaktertől, aki írástudó a kívánt nyelvben. Ez alapvető írástudást ad nekik, amely a karakter által ismert egyik nyelv képzettségszintjének fele. Ha kívánatos, egy újabb 1 Tapasztalatdobás és egy hónapos képzés teljes írástudást ad nekik. Amikor játék közben új nyelveket tanulnak, feltételezhető, hogy teljes írástudási szinten tanulják meg őket. A más kultúrában nevelkedett félorkok írástudók lesznek, ha az a kultúra is írástudó.
+- **Túlélés bónusz (Specifikus):** Ha orkok nevelték fel, a félorkok számára minden, a származási területükre vonatkozó Túlélés dobás egy fokozattal könnyebb.
 
 ---
 ### Félszerzet
 
-Békés, civilizált nép, amely nagyrészt mezőgazdasági életet él; a félszerzetek apró humanoidok, akik átlagosan 4 láb 0 hüvelyk és 4 láb 3 hüvelyk magasak – alacsonyabbak a törpéknél, de magasabbak a gnómoknál. Otthonaik farmok és tanyák, falvaik szorosan összetartó közösségeket alkotnak. A félszerzetek a legkevésbé kalandvágyó faj, és nagyrészt észrevétlenek maradhatnak, mivel senkire sem jelentenek semmiféle fenyegetést.
+Békés, civilizált nép, amely nagyrészt agrár életmódot folytat, a félszerzetek apró humanoidok, akik átlagosan 4 láb 0 hüvelyk és 4 láb 3 hüvelyk magasak; alacsonyabbak a törpéknél, de magasabbak a gnómoknál. Otthonaik farmok és tanyák, a falvak pedig szoros közösségeket alkotnak. A félszerzetek a legkevésbé kalandvágyóak a fajok közül, és nagyrészt észrevétlenek maradhatnak, mivel senkire sem jelentenek veszélyt.
 
-Első pillantásra a félszerzetek gyerekeknek tűnhetnek, de a különbségek szorosabb vizsgálat után nyilvánvalóak. A félszerzeteknek hegyes a fülük, bőrük, hajuk és szemszínük a normál tartományban mozog. Nagy, robusztus lábfejük van, amely a testükhöz képest túlméretezett, és általában elég szőrös. A cipőt és a csizmát kerülik; a lábfejük talpa rendkívül vastag, ami több mint megfelelő védelmet nyújt a kövek és kavicsok ellen.
+Első pillantásra a félszerzetek gyermekeknek tűnhetnek, de a különbségek szorosabb vizsgálat során nyilvánvalóak. A félszerzeteknek hegyes füle van, bőrük, hajuk és szemszínük pedig a normál tartományba esik. Nagy, robusztus lábfejük van, amely a testükhöz képest túlméretezett, és általában elég szőrös. A cipőket és csizmákat kerülik; a lábfejük talpa rendkívül vastag, ami több mint elegendő védelmet nyújt a sziklák és kövek ellen.
 
-Bár általában nem kalandvágyóak, a félszerzetek kíváncsiak. Szeretik tudni és megosztani a titkokat. Rajonganak a történetekért, mítoszokért és mesékért, és kutató elméjük van. Ez azt jelenti, hogy külföldön a világ egy lenyűgöző hely, amelyet meg kell kérdőjelezni és be kell fogadni – és ez bajba sodorhatja a félszerzeteket. Egyébként a félszerzetek meglehetősen prózai, elégedett faj, amely magának való, és inkább nem akar beleavatkozni a tágabb világba, sem azt hagyni, hogy az beleavatkozzon az életükbe.
+Bár általában nem kalandvágyóak, a félszerzetek kíváncsiak. Szeretik tudni és megosztani a titkokat. Rajonganak a történetekért, mítoszokért és mesékért, és érdeklődő elméjük van. Ez azt jelenti, hogy külföldön a világ egy lenyűgöző hely, amelyet meg kell kérdőjelezni és be kell fogadni – és ez bajba sodorhatja a félszerzeteket. Egyébként a félszerzetek meglehetősen prózai, elégedett faj, amely magának való, és inkább nem avatkozik bele a szélesebb világba, és azt sem szeretné, ha az beleavatkozna az életükbe.
 
-A legtöbb más faj számára a félszerzetek rövid, szőrös lábú kleptomániások – nem teljesen megalapozatlan nézet, mivel legtöbbjük, aki a kalandozó életet választja, könnyen alkalmazhat egy kis lopakodást és cselvetést kis méretük és gyors ujjaik miatt, de más Osztályok is létezhetnek. Van egy régi törpe mondás: "ha van egy félszerzet a csapatodban, ellenőrizd a pénztárcádat, ha hiányzik, ellenőrizd az övét."
+A legtöbb más faj számára a félszerzetek rövid, szőrös lábú kleptomániások; ez a nézet nem teljesen alaptalan, mivel a legtöbbjük, aki a kalandozás életmódját választja, kis mérete és gyors ujjai miatt könnyen beépíthet egy kis lopakodást és cselvetést, de más Osztályok is létezhetnek és léteznek is. Van egy régi törpe mondás, amely így szól: „ha van egy félszerzet a csapatodban, ellenőrizd a pénztárcádat, ha hiányzik, ellenőrizd az övét.”
 
-Annak ellenére, hogy fizikailag kisebbek és gyengébbek a legtöbb más értelmes fajnál, a félszerzetek ezt egy bizonyos fürgeséggel kompenzálják, ami jól szolgálja őket a ragacsos helyzetekben. Bár óvatosak, nem gyávák: a félszerzetek mondhatják, hogy azok, de amikor az otthonukért és életmódjukért kell harcolni, hatalmas bátorságtartalékokat képesek mozgósítani. Röviden, a félszerzetek jó karakterek, különösen azoknak a játékosoknak, akik jobban szeretik a lopakodást a lápvidéken való bátor gázolásnál. Hosszú életűek, élettartamuk körülbelül 170 év.
+Annak ellenére, hogy fizikailag kisebbek és gyengébbek a legtöbb más értelmes fajnál, a félszerzetek egy bizonyos fürgeséggel kompenzálnak, ami jól szolgálja őket a ragacsos helyzetekben. Bár óvatosak, nem gyávák: a félszerzetek azt mondhatják, hogy azok, de amikor az otthonukért és életmódjukért való harcról van szó, hatalmas bátorságot képesek mozgósítani. Röviden, a félszerzetek jó játékos karakterek, különösen azoknak a játékosoknak, akik jobban szeretik a lopakodást, mint a lápi területeken való bátrabb stalkingot. Hosszú életűek, élettartamuk körülbelül 170 év.
 
 #### Kultúra
 
-A félszerzet kultúra a Civilizált kultúrához hasonlít. "Shire"-nek nevezett kis közösségekben élnek, szorosan összetartó falvakban és kisvárosokban, ahol több kiterjesztett család alkotja a közösség alapját. Iparaik alapvetőek: elsősorban mezőgazdaság, de olyan kézművesség is, mint fazekasság, szövés, bőrművesség és textilgyártás. Megmunkálják a fémeket, de nagyon ritkán fegyverek és páncélok számára. Az elfekhez hasonlóan a legtöbb félszerzet soha nem hagyja el közösségét. Helyette inkább otthon maradnak, napi tizenkétszer étkeznek, pipafüvet szívnak, és isznak, miközben barátaikkal és szeretteikkel társalognak. De néha megjelenik egy félszerzet, akit elkap a kalandvágy. A félszerzetek közös kulturális egysége a "Riding"; egy három shire által határolt terület, ami miatt az egyes ridingok mérete jelentősen eltérő. Egy "Borough" három Ridingból tevődik össze.
+A félszerzet kultúra a civilizáltra hasonlít. Shire-nek nevezett kis közösségekben élnek, szorosan összetartó falvakban és kisvárosokban, ahol több kiterjesztett család alkotja a közösség alapját. Iparaik alapvetőek: elsősorban mezőgazdaság, de kézművesség is, mint például fazekasság, szövés, bőrművesség és textilipar. Munkálják a fémeket, de nagyon ritkán fegyverek és páncélok számára. A tündékhez hasonlóan a legtöbb félszerzet soha nem hagyja el a közösségét. Ehelyett inkább otthon maradnak, napi tizenkétszer étkeznek, pipafüvet szívnak, és isznak, miközben barátaikkal és szeretteikkel szocializálódnak. De időnként megjelenik egy félszerzet, akit elkap a kalandvágy. A félszerzetek közös kulturális egysége a Lovasvidék (Riding); egy három shire által határolt terület, ami miatt az egyes lovasvidékek mérete jelentősen változik. A Kerület (Borough) három Lovasvidékből tevődik össze.
 
-#### Képességek
+#### Képzettségek
 
-- **Szabad képességek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Félszerzet) +40
-- **Alapképességek:** Tánc vagy Ének, Kitérés, Belátás, Helyismeret, Észlelés, Lopakodás, Akaraterő
-- **Szakmai képességek:** Művészet (bármilyen), Kereskedelem, Kézművesség (bármilyen), Udvariasság, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Utcai forgatag.
+- **Szabad képzettségek:** Szokások +40, Nyelv (Közös) +40, Nyelv (Félszerzet) +40
+- **Alap képzettségek:** Tánc vagy Éneklés, Kitérés, Belátás, Helyismeret, Észlelés, Lopakodás, Akaraterő
+- **Szakmai képzettségek:** Művészet (bármilyen), Kereskedelem, Kézművesség (bármilyen), Udvariasság, Nyelv (bármilyen\*), Tudás (bármilyen), Zenélés, Utcai ismeretek.
 
-_\* Karakteralkotás során a további nyelvek a törpe, elf, gnóm, goblin és ork nyelvre korlátozódnak._
+_\* Karakteralkotás közben a további nyelvek a törpe, tünde, gnóm, goblin és ork nyelvekre korlátozódnak._
 
-#### Világnézet és Szenvedélyek
+#### Jellem és szenvedélyek
 
-- **Világnézet:** Bármilyen, de jellemzően Törvényes Jó; válassz egyet-kettőt mindegyikből, vagy válassz más Világnézetet.
-  - **Törvényes** (Becsületes, Tisztességes, Megbízható, Bizalomgerjesztő, Megbízható, Udvarias)
-  - **Jó** (Csodálatra méltó, Önzetlen, Jótékony, Lelkiismeretes az ártatlanok bántalmazásával szemben, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Szereti a természetet, Irgalmas, Optimista, Pozitív, Vegetáriánus)
-- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő az alábbiak közül:
-  - Hűség (Shire, Riding vagy Borough iránt)
-  - Szeretet (Valami érzelmi dolog iránt)
-  - Gyűlölet (Nehézipar iránt)
+- **Jellem:** Bármilyen, de jellemzően Törvényes Jó, válassz egyet-egyet mindkettőből, vagy válassz más Jellemet.
+  - **Törvényes** (Becsületes, Tisztességes, Megbízható, Bizakodó, Szavahihető, Jó modorú)
+  - **Jó** (Csodálatra méltó, Önzetlen, Jótékony, Lelkiismeretes az ártatlanok bántásával szemben, Tisztességes, Etikus, Megbocsátó, Barátságos, Gyűlöli a Gonoszt, Segítőkész, Kedves, Szereti a természetet, Irgalmas, Optimizmus, Pozitív, Vegetáriánus)
+- **Szenvedély:** Bármilyen, de jellemzően egy vagy kettő a következőkből:
+  - Hűség (Shire, Lovasvidék vagy Kerület iránt)
+  - Szerelem (Valami érzelmi dolog)
+  - Gyűlölet (Nehézipar)
 
 #### Speciális szabályok
 
 - **Mozgás:** 15 láb.
-- **Írástudó:** A félszerzetek általában tudnak írni és olvasni minden olyan nyelven, amelyet beszélnek.
-- **Mágiaellenállás:** A törpékhez hasonlóan a félszerzetek is erősen ellenállnak az Arkán mágiának, az Akaraterő dobások egy fokozattal könnyebbek, ha az ellenállásra használják őket. Ez az ellenállás nincs hatással az Isteni mágiára.
-- **Méregellenállás:** A félszerzetek szintén erősen ellenállnak a méregnek, a mérgezéssel kapcsolatos Kitartás dobások egy fokozattal könnyebbek.
-- **Lopakodó:** A félszerzetek, ha nem viselnek a könnyű vértnél korlátozóbbat, a Lopakodás teszteket 1 fokozattal könnyebbnek találják.
-- **Tolerancia a környezeti hatásokkal szemben (Lábak):** A félszerzetek nem szenvednek el semmilyen káros hatást a környezeti kitettségtől, ha mezítláb járnak, függetlenül a hőmérséklettől. A testük többi részét érintő környezeti hatások ugyanúgy érintik őket, mint másokat.
+- **Írástudás:** A félszerzetek általában képesek elolvasni és leírni minden olyan nyelvet, amelyet beszélni tudnak.
+- **Mágiaellenállás:** A törpékhez hasonlóan a félszerzetek is erősen ellenállnak az Arkán mágiának, az Akaraterő próbák egy fokozattal könnyebbek, ha az ellenállásra használják. Ez az ellenállás nincs hatással az Isteni mágiára.
+- **Méregellenállás:** A félszerzetek a méreggel szemben is erősen ellenállóak, az Állóképesség dobások, amelyek a mérgezésre vonatkoznak, egy fokozattal könnyebbek.
+- **Lopakodó:** A könnyű páncélnál nem korlátozóbb ruházatot viselő félszerzetek számára a lopakodási tesztek 1 fokozattal könnyebbek.
+- **Kitettség tűrése (Láb):** A félszerzetek nem szenvednek semmilyen káros hatást az időjárási kitettségtől, ha mezítláb járnak, függetlenül a hőmérséklettől. A testük többi részét tekintve normálisan szenvednek a kitettségtől.

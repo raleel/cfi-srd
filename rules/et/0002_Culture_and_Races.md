@@ -1,374 +1,362 @@
 # 2. peatükk: Kultuur ja rassid
 
-Järgneb iga rassilise tausta kirjeldus koos vastavate oskusboonuste loendiga. Inimkarakteri valinud mängijad peavad oma tegelase täpsemalt määratlema sobiva kultuuriga. Mängijad peaksid oskusboonused koheselt oma karakterilehe tavaoskustele (Standard Skills) lisama ja lisama täiendavad uued oskused, mida tuntakse elukutseoskustena (Professional Skills, mida tutvustatakse järgmises peatükis), lehe vastavasse sektsiooni. Mitmel juhul loetleb rass oskuste valiku ja kutsub mängijat üles valima ühe või mitu, mis saavad boonuse: sel viisil saavad ühesuguse rassilise taustaga mängijad tagada, et nende seiklejad on oma arendatud valdkondades erinevad.
+Järgneb iga rassilise tausta kirjeldus koos vastavate oskusboonuste loendiga. Inimestest karakteri valivad mängijad peavad oma karakteri veelgi täpsustama sobiva kultuuriga. Mängijad peaksid oskusboonused kohe oma karakterilehe tavaoskustele (Standard Skills) lisama ning uued oskused, mida nimetatakse erialaoskusteks (Professional Skills, tutvustatakse järgmises peatükis), lisama lehe vastavasse sektsiooni. Paljudel juhtudel on rassi juures loetletud rida oskusi ja mängijal palutakse valida üks või mitu, mis saavad boonuse: sel viisil saavad sarnase rassilise taustaga mängijad tagada, et nende seiklejad on erinevates arendatud valdkondades erinevad.
 
-Pane tähele, et iga rassiga kaasneb tüüpiline maailmavaade (Alignment) ja mitmed kired (Passions) (vaata [4. peatükk: Maailmavaade ja kired](0004_Alignment_and_Passions.md)). Maailmavaade ja kired võivad lisada loodavale seiklejale palju sügavust ja isikupära, määratledes juurdunud eelistusi ja eelarvamusi, aga ka tegelase moraalseid väärtusi.
+Pange tähele ka seda, et iga rassiga kaasneb tüüpiline maailmavaade (Alignment) ja mitmed kired (Passions) (vt [4. peatükk: Maailmavaade ja kired](0004_Alignment_and_Passions.md)). Maailmavaade ja kired võivad lisada teie loodavale seiklejale palju sügavust ja karakteriseeringut, määratledes juurdunud eelistused ja eelarvamused, samuti karakteri moraalsed väärtused.
 
 ---
 ## Inimesed
 
-Inimesed võivad elada peaaegu igas fantaasiamaailma paigas ja neil võib ühel või teisel hetkel olla kokkupuuteid iga liigiga. Mõned poolinimlikud ja humanoidsed rassid peavad inimesi oma kõige kindlamateks liitlasteks; teised peavad neid kõige kättemaksuhimulisemateks vaenlasteks. Nad võivad elada ligi 100-aastaseks, mõnikord isegi kauem, kuigi harva loomulikul teel. Inimesed kipuvad olema kiired õppijad ja on teistest rassidest kohanemisvõimelisemad. Paljud usuvad, et inimesed on jumalate valitud rass – uskumus, mis pole täiesti alusetu, kuna näib, et poolinimlike rasside arvukus on võrreldes inimestega vähenemas. Muidugi omistavad mõned poolinimlikud rassid selle inimeste laienemise ahnele loomusele.
+Inimesed võivad asustada peaaegu kõiki fantaasiamaailma paiku ning võivad ühel või teisel ajal kokku puutuda iga liigiga. Mõned pool-inimesed ja humanoidrassid peavad inimesi oma kõige kindlamateks liitlasteks; teised peavad neid kõige kättemaksuhimulisemateks vaenlasteks. Nad võivad elada ligi 100-aastaseks, mõnikord isegi kauem, kuigi harva loomulikul teel. Inimesed kipuvad olema kiired õppijad ja on muutustele vastuvõtlikumad kui ükski teine rass. Paljud usuvad, et inimesed on jumalate valitud rass, usk, mis pole päris alusetu, kuna pool-inimeste rassid näivad olevat inimestega võrreldes hääbumas. Muidugi omistavad mõned pool-inimeste rassid seda inimeste ekspansiooni ahnele loomusele.
 
 ### Inimeste kultuur
 
-Kõigist mängitavatest rassidest valivad ainult inimesed eraldi kultuuri, mis aitab neil end täpsemalt määratleda. Pane tähele, et iga kultuur võib olla veelgi detailsem ja seda saab muuta väga piirkonnaspetsiifiliseks. Poolinimesed on võrdluseks vähem levinud ja seetõttu on nende kultuur homogeensem ja täielikult nende rassi alla koondunud. Järgnev teave kirjeldab nelja tüüpi inimkultuure.
+Kõigist mängitavatest rassidest valivad ainult inimesed eraldi kultuuri, mis aitab neil end veelgi täpsemalt määratleda. Pange tähele, et iga kultuur võib olla veelgi detailsem ja seda saab muuta väga piirkonnaspetsiifiliseks. Pool-inimesed on võrdluseks vähem levinud ja seetõttu on nende kultuur homogeensem ja täielikult nende rassi alla koondunud. Järgnev teave kirjeldab nelja tüüpi inimkultuure.
 
 ---
-### Barbaarne
+### Barbaarsus
 
-Hõimulise olemusega barbarid kipuvad tsivilisatsiooni vältima, pidades suurlinnades elavaid inimesi nõrkadeks ja korrumpeerunuks. Ehkki ka nende endi asulad on paiksed, kipuvad need olema palju väiksemad ja looduslähedasemad. Barbarite hõimud hõivavad kindlaid territooriume, sageli poolmetsikut loodust, mida nad peavad oma jahipidamis-, karjatamis- ja põlluharimisalaks. Enamik on osavad relvade kasutamises, kuna nad peavad oma elu jooksul ületama palju ohte – seisma silmitsi metsiku looduse olenditega või kogunema oma maade kaitsmiseks rivaalitsevate hõimude eest. Kuna nad elavad väikestes kogukondades, on sugulussidemed ja klannitunne nende ühiskonna tugevad elemendid.
+Olemuselt hõimulised barbaarid kalduvad tsivilisatsiooni vältima, pidades suurlinnades elavaid inimesi nõrkadeks ja korrumpeerunuteks. Kuigi ka nende endi asulad on paiksed, kipuvad need olema palju väiksemad ja looduslähedasemad. Barbaaride hõimud hõivavad kindlaid territooriume, sageli pooltalgatut loodust, mida nad peavad enda omaks jahipidamise, karjatamise ja põlluharimise eesmärgil. Enamik neist on osavad relvade kasutamises, kuna nad peavad oma elu jooksul ületama paljusid ohte – astuma vastu looduse olenditele või kogunema, et kaitsta oma maid rivaalitsevate hõimude eest. Kuna nad elavad väikestes kogukondades, on suguluse ja klanni sidemed nende ühiskonna tugevad elemendid.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed (Customs) +40, Keel (Üldkeel) +40
-- **Tavaoskused:** Kergejõustik (Athletics), Jõud (Brawn), Vastupidavus (Endurance), Esmaabi (First Aid), Kohaliku olu tundmine (Locale), Taju (Perception); ning kas Paadisõit (Boating) või Ratsutamine (Ride)
-- **Elukutseoskused:** Käsitöö (Craft, mis tahes), Tervendamine (Healing), Keel (mis tahes\*), Pärimus (Lore, mis tahes), Muusikaline oskus (Musicianship), Navigeerimine (Navigate), Meresõit (Seamanship), Ellujäämine (Survival), Jälitamine (Track)
+- **Vabaoskused:** Kombed (Customs) +40, Keel (tavakeel) +40
+- **Tavaoskused:** Kergejõustik, Jõumeetodid (Brawn), Vastupidavus (Endurance), Esmaabi, Kohalikud olud (Locale), Tajumisvõime (Perception); ja kas Paadisõit või Ratsutamine
+- **Erialaoskused:** Käsitöö (valikuline), Tervendamine, Keel (valikuline\*), Pärimus (valikuline), Muusikategemine, Navigeerimine, Meresõit, Ellujäämine, Jälitamine
 
-_\* Inimeste keelevalik pole tegelase loomisel piiratud, kui nad suudavad valikut põhjendada._
+_\* Inimeste keelevalik ei ole karakteri loomisel piiratud, kui nad suudavad valikut põhjendada._
 
 #### Maailmavaade ja kired
 
-- **Maailmavaade:** Mis tahes; vali üks või kaks eetikakoodeksist (Seaduskuulekas, Neutraalne või Kaootiline) ja üks või kaks moraalikoodeksist (Hea, Neutraalne või Paha). Alternatiivina vali üks või kaks Tõeliselt Neutraalsest.
-- **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
-  - Lojaalsus klannipealikule
+- **Maailmavaade:** Suvaline, vali üks või kaks eetikakoodeksist (Seaduskuulekas, Neutraalne või Kaootiline) ja üks või kaks moraalikoodeksist (Hea, Neutraalne või Kurja). Alternatiivina vali üks või kaks "Täiesti neutraalsest".
+- **Kirg:** Suvaline, kuid tavaliselt üks või kaks järgmistest:
+  - Lojaalsus hõimupealikule
   - Armastus (sõber, õde-vend või romantiline partner)
   - Viha (maagia, olend, rivaal või klann)
 
 #### Erireeglid
 
-- **Liikumine:** 20 jalga.
-- **Ellujäämisboonus (spetsiifiline):** Barbarite jaoks on kõik nende päritolupiirkonnaga seotud ellujäämisvisked ühe astme võrra lihtsamad.
-- **Taluvus äärmuslikes oludes:** Barbarid kannatavad oma päritolupiirkonnaga seotud äärmuslike temperatuuride all vähem. Näiteks kui nad on pärit külmast kliimast, antakse isegi kergelt riietatud barbaritele armuaeg, mis võrdub tundides nende CON-väärtusega, enne kui külmumine algab. Sobiv riietus pikendab seda aega kahekordse CON-väärtuseni tundides. Pärast seda peavad nad otsima varju või hakkavad kaotama väsimuspunkte (Fatigue loss). Lisateavet vaata lk XX olevatest ilmastikutabelitest.
-- **Kirjaoskamatu:** Barbarid ei oska tavaliselt lugeda ega kirjutada. Nad võivad kirjaoskuse omandada, kulutades 1 kogemuspunkti (Experience Roll) ja kuu aega treeningut sellise tegelase juhendamisel, kes oskab soovitud keelt lugeda. See annab neile algelise kirjaoskuse, mis võrdub poolega oskustasemest ühes tegelasele tuntud keeles. Soovi korral annab veel 1 kogemuspunkt ja kuuajaline treening täieliku kirjaoskuse. Mängu käigus uusi keeli õppides võib eeldada, et nad õpivad neid täieliku kirjaoskuse tasemel.
-- **Õnnelik:** Inimesed alustavad ühe täiendava õnne punktiga (Luck Point).
+- **Liikumiskiirus:** 20 jalga.
+- **Ellujäämisboonus (spetsiifiline):** Barbaarid leiavad, et kõik nende päritolupiirkonnaga seotud ellujäämisvisked on ühe astme võrra lihtsamad.
+- **Taluvus äärmuslike olude suhtes:** Barbaarid kannatavad oma päritolupiirkonna temperatuuriäärmuste käes vähem. Näiteks kui nad on pärit külmast kliimast, lubatakse isegi kergelt riietatud barbaaridele armuaeg, mis võrdub nende VAS-iga tundides, enne kui külma mõju hakkab ilmnema. Sobivate riiete kandmine pikendab seda aega nende VAS-i kahekordse väärtuseni tundides. Pärast seda punkti peavad nad otsima peavarju või hakkavad kaotama väsimuspunkte (Fatigue loss). Lisateabe saamiseks vaadake lk XX toimuvaid ilmatabeleid.
+- **Kirjaoskamatu:** Barbaarid ei oska tavaliselt lugeda ega kirjutada. Nad võivad kirjaoskuse omandada, kulutades 1 kogemusviske (Experience Roll) ja kuu aega treeningut kirjaoskliku tegelase juhendamisel. See annab neile põhiteadmised lugemisest ja kirjutamisest, mis võrdub poolega nende keeleoskusest ühes teadaolevas keeles. Soovi korral annab veel 1 kogemusvise ja kuu aega treeningut täieliku kirjaoskuse. Mängu käigus uusi keeli õppides eeldatakse, et nad õpivad need selgeks täieliku kirjaoskuse tasemel.
+- **Õnnega koos:** Inimestel on karakteri loomisel üks lisapunkt Õnnepunkte (Luck Point).
 
 ---
 ### Tsiviliseeritud
 
-Tsiviliseeritud kultuuri iseloomustab seaduse ja korra näivus, mida toetavad keerulised sotsiaalsed koodeksid ja bürokraatia. Tsiviliseeritud inimesed peavad end kõigist teistest kultuuridest paremaks, sest nende saavutused kipuvad olema püsivad: laialivalguvad linnad, imposantsed templid, mälestusmärgid ning ajaloo ja sündmuste kirjapanek raamatutesse, köidetesse ja kirjarullidesse. Muidugi on see õhuke kiht. Kõige tsiviliseeritumad linnad võivad olla seadusetumad kui ükski barbarite piiriasula; ja sotsiaalsed koodeksid võivad olla tooremad kui nomaadide külalislahkuse rituaalid. Kuid tsiviliseeritud kultuur on uhke oma saavutuste, infrastruktuuri, professionaalsete käsitööliste ja võime üle hõlpsasti oma haaret laiendada, kuhu iganes nad soovivad.
+Tsiviliseeritud kultuuri iseloomustab seaduse ja korra näivus, mida toetavad keerulised sotsiaalsed koodeksid ja bürokraatia. Tsiviliseeritud inimesed peavad end kõigist teistest kultuuridest paremaks, sest nende saavutused kipuvad olema püsivad: laiuvad linnad, imposantsed templid, pidulikud monumendid ning ajaloo ja sündmuste kirjapanek raamatutesse, köidetesse ja keridesse. Muidugi on see vaid õhuke kiht. Kõige tsiviliseeritumad linnad võivad olla seadusetumad kui ükski barbaarne piiriasula; ja sotsiaalsed koodeksid võivad olla tooremad kui nomaadide külalislahkuse rituaalid. Kuid tsiviliseeritud kultuur on uhke oma saavutuste, infrastruktuuri, professionaalsete käsitööliste ja võime üle hõlpsasti laiendada oma haaret kõikjale, kuhu nad soovivad minna.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40
-- **Tavaoskused:** Varjamine (Conceal), Pettus (Deceit), Sõiduki juhtimine (Drive), Mõjutamine (Influence), Taiplikkus (Insight), Kohaliku olu tundmine, Tahtejõud (Willpower)
-- **Elukutseoskused:** Kunst (Art, mis tahes), Kaubandus (Commerce), Käsitöö, Viisakus (Courtesy), Keel (mis tahes\*), Pärimus, Muusikaline oskus, Tänavatarkus (Streetwise).
+- **Vabaoskused:** Kombed +40, Keel (tavakeel) +40
+- **Tavaoskused:** Varjamine (Conceal), Petmine, Sõiduki juhtimine, Mõjutamine, Sisevaatlus (Insight), Kohalikud olud, Tahtejõud (Willpower)
+- **Erialaoskused:** Kunst (valikuline), Kaubandus, Käsitöö (valikuline), Viisakus, Keel (valikuline\*), Pärimus (valikuline), Muusikategemine, Tänavatarkus (Streetwise).
 
-_\* Inimeste keelevalik pole tegelase loomisel piiratud, kui nad suudavad valikut põhjendada._
+_\* Inimeste keelevalik ei ole karakteri loomisel piiratud, kui nad suudavad valikut põhjendada._
 
 #### Maailmavaade ja kired
 
-- **Maailmavaade:** Mis tahes; vali üks või kaks eetikakoodeksist ja üks või kaks moraalikoodeksist. Alternatiivina vali üks või kaks Tõeliselt Neutraalsest.
-- **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
+- **Maailmavaade:** Suvaline, vali üks või kaks eetikakoodeksist (Seaduskuulekas, Neutraalne või Kaootiline) ja üks või kaks moraalikoodeksist (Hea, Neutraalne või Kurja). Alternatiivina vali üks või kaks "Täiesti neutraalsest".
+- **Kirg:** Suvaline, kuid tavaliselt üks või kaks järgmistest:
   - Lojaalsus linnale
   - Armastus (sõber, õde-vend või romantiline partner)
   - Viha (rivaal, jõuk, linnaosa või linn)
 
 #### Erireeglid
 
-- **Liikumine:** 20 jalga.
+- **Liikumiskiirus:** 20 jalga.
 - **Kirjaoskaja:** Tsiviliseeritud piirkondadest pärit inimesed oskavad tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
-- **Õnnelik:** Inimesed alustavad ühe täiendava õnne punktiga.
+- **Õnnega koos:** Inimestel on karakteri loomisel üks lisapunkt Õnnepunkte.
 
 ---
 ### Nomaadlik
 
-Nomaadid on pidevalt liikvel, neil pole kodu ega kollet, mida oma omaks pidada. Nad võivad sihitult ringi rännata või neil võib olla mitu laagripaika, kuhu nad aasta jooksul liiguvad. Nad kasvatavad vähe põllukultuure ja järgivad selle asemel loomade või kalade rännet, võib-olla isegi karjatades oma kodustatud loomi. Nomaadid on osavad toimetulema sellega, mida nad saavad kiiresti ja hõlpsasti ümbruskonnast hankida, lastes mitte millelgi raisku minna. Nomaadikultuuri oskused peaksid olema kohandatud nende keskkonnaga. Mõned rändavad jalgsi tohutuid vahemaid, teised elavad karavanides või ratsutavad kummaliste olenditega ja mõned triivivad üle ookeanide suurte ujuvate parvedega.
+Nomaadlikud rahvad on pidevas liikumises, neil pole kodu ega kollet, mida oma omaks kutsuda. Nad võivad sihitult ringi rännata või neil võib olla mitu laagripaika, kuhu nad aasta jooksul liiguvad. Nad kasvatavad vähe põllukultuure ja järgivad selle asemel loomade või kalade rännet, võib-olla isegi karjatades oma kodustatud loomi. Nomaadid on osavad toime tulema sellega, mida nad suudavad oma ümbrusest kiiresti ja hõlpsasti hankida, lastes mitte millelgi raisku minna. Nomaadide kultuuri oskused tuleks kohandada vastavalt nende keskkonnale. Mõned rändavad jalgsi pikki vahemaid, teised elavad haagissuvilates või ratsutavad kummaliste olenditega ja mõned triivivad üle ookeanide suurte ujuvate parvedega.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40.
-- **Tavaoskused:** Vastupidavus, Esmaabi, Kohaliku olu tundmine, Taju, Hiilimine (Stealth); ja kaks järgmistest: Kergejõustik, Paadisõit, Ujumine (Swim), Sõiduki juhtimine või Ratsutamine, sõltuvalt peamisest liikumisviisist.
-- **Elukutseoskused:** Käsitöö, Kultuur (Culture, mis tahes), Tervendamine, Keel (mis tahes\*), Pärimus, Muusikaline oskus, Navigeerimine, Ellujäämine, Jälitamine.
+- **Vabaoskused:** Kombed +40, Keel (tavakeel) +40.
+- **Tavaoskused:** Vastupidavus, Esmaabi, Kohalikud olud, Tajumisvõime, Hiilimine; ja kaks järgmistest: Kergejõustik, Paadisõit, Ujumine, Sõiduki juhtimine või Ratsutamine, sõltuvalt peamisest liikumisviisist.
+- **Erialaoskused:** Käsitöö (valikuline), Kultuur (valikuline), Tervendamine, Keel (valikuline\*), Pärimus (valikuline), Muusikategemine, Navigeerimine, Ellujäämine, Jälitamine.
 
-_\* Inimeste keelevalik pole tegelase loomisel piiratud, kui nad suudavad valikut põhjendada._
+_\* Inimeste keelevalik ei ole karakteri loomisel piiratud, kui nad suudavad valikut põhjendada._
 
 #### Maailmavaade ja kired
 
-- **Maailmavaade:** Mis tahes; vali üks või kaks eetikakoodeksist ja üks või kaks moraalikoodeksist. Alternatiivina vali üks või kaks Tõeliselt Neutraalsest.
-- **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
-  - Lojaalsus hõimupealikule/Khaanile
+- **Maailmavaade:** Suvaline, vali üks või kaks eetikakoodeksist (Seaduskuulekas, Neutraalne või Kaootiline) ja üks või kaks moraalikoodeksist (Hea, Neutraalne või Kurja). Alternatiivina vali üks või kaks "Täiesti neutraalsest".
+- **Kirg:** Suvaline, kuid tavaliselt üks või kaks järgmistest:
+  - Lojaalsus hõimupealikule/khaanile
   - Armastus (sõber, õde-vend või romantiline partner)
   - Viha (olend, rivaal või hõim)
 
 #### Erireeglid
 
-- **Liikumine:** 20 jalga.
-- **Ellujäämisboonus (spetsiifiline):** Nomaadide jaoks on kõik nende päritolupiirkonnaga seotud ellujäämisvisked ühe astme võrra lihtsamad.
-- **Kirjaoskaja:** Kuna nad suhtlevad paljude teiste rasside ja kultuuridega, oskavad nomaadikultuurist pärit inimesed tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
-- **Õnnelik:** Inimesed alustavad ühe täiendava õnne punktiga.
+- **Liikumiskiirus:** 20 jalga.
+- **Ellujäämisboonus (spetsiifiline):** Nomaadid leiavad, et kõik nende päritolupiirkonnaga seotud ellujäämisvisked on ühe astme võrra lihtsamad.
+- **Kirjaoskaja:** Kuna nad suhtlevad paljude teiste rasside ja kultuuridega, oskavad nomaadi kultuurist pärit inimesed tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
+- **Õnnega koos:** Inimestel on karakteri loomisel üks lisapunkt Õnnepunkte.
 
 ---
-### Primitivne
+### Primitiivne
 
-Kõigist rahvastest elavad primitiivsed inimesed kõige lähedasemalt loodusega, olles kooskõlas selle varjatud saladustega. Elades laiendatud pererühmades, koonduvad primitiivsed kultuurid väga lihtsate eluasemete ümber, mis võivad ulatuda koobastest ja looduslikest varjupaikadest kuni onnideni või väga lihtsate hütideni. Primitivsed on tavaliselt kütt-korilased, kellel on vähe või halvasti arenenud põllumajandus- ja loomakasvatussüsteemid.
+Kõigist rahvastest elavad primitiivsed inimesed kõige tihedamalt koos maaga, olles kooskõlas selle varjatud saladustega. Elades laiendatud pererühmades, koonduvad primitiivsed kultuurid väga lihtsate eluasemete ümber, mis võivad ulatuda koobastest ja looduslikest peavarjudest kuni onnide või väga primitiivsete hütideni. Primitiivsed inimesed on tavaliselt kütid-korilased, kellel on vähe või halvasti arenenud põllumajandus- ja loomakasvatussüsteemid.
 
-Siiski võivad teatud kultuurilised uskumused, mis sageli põhinevad ebausul, olla väga hästi määratletud. Vähestel primitiivsetel kultuuridel on välja kujunenud midagi ligilähedast kirjalikule keelele, kuigi maalingud ja muud piktograafilised sümbolid toimivad suhtlusvahendina.
+Siiski võivad teatud kultuurilised uskumused, mis põhinevad sageli ebausul, olla väga hästi määratletud. Vähesed primitiivsed kultuurid on arendanud midagi ligilähedastki kirjalikule keelele, ehkki maalingud ja muud piltmärgid toimivad suhtlusvahenditena.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40.
-- **Tavaoskused:** Jõud, Vastupidavus, Kõrvalehoidumine (Evade), Kohaliku olu tundmine, Taju, Hiilimine; ja üks järgmistest: Kergejõustik, Paadisõit, Esmaabi või Ujumine.
-- **Elukutseoskused:** Käsitöö, Tervendamine, Pärimus, Keel (mis tahes\*), Muusikaline oskus, Navigeerimine, Ellujäämine, Jälitamine.
+- **Vabaoskused:** Kombed +40, Keel (tavakeel) +40.
+- **Tavaoskused:** Jõumeetodid, Vastupidavus, Kõrvalehoidmine (Evade), Kohalikud olud, Tajumisvõime, Hiilimine; ja üks järgmistest: Kergejõustik, Paadisõit, Esmaabi või Ujumine.
+- **Erialaoskused:** Käsitöö (valikuline), Tervendamine, Pärimus (valikuline), Keel (valikuline\*), Muusikategemine, Navigeerimine, Ellujäämine, Jälitamine.
 
-_\* Inimeste keelevalik pole tegelase loomisel piiratud, kui nad suudavad valikut põhjendada._
+_\* Inimeste keelevalik ei ole karakteri loomisel piiratud, kui nad suudavad valikut põhjendada._
 
 #### Maailmavaade ja kired
 
-- **Maailmavaade:** Mis tahes; vali üks või kaks eetikakoodeksist ja üks või kaks moraalikoodeksist. Alternatiivina vali üks või kaks Tõeliselt Neutraalsest.
-- **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
-  - Lojaalsus pealikule/külavanemale
+- **Maailmavaade:** Suvaline, vali üks või kaks eetikakoodeksist (Seaduskuulekas, Neutraalne või Kaootiline) ja üks või kaks moraalikoodeksist (Hea, Neutraalne või Kurja). Alternatiivina vali üks või kaks "Täiesti neutraalsest".
+- **Kirg:** Suvaline, kuid tavaliselt üks või kaks järgmistest:
+  - Lojaalsus pealikule/vanemale
   - Armastus (sõber, õde-vend või romantiline partner)
-  - Viha (midagi, mis sind hirmutab või kohutab)
+  - Viha (midagi, mis teid hirmutab või kohutab)
 
 #### Erireeglid
 
-- **Liikumine:** 20 jalga.
-- **Ellujäämisboonus (spetsiifiline):** Primitiivsete kultuuride jaoks on kõik nende päritolupiirkonnaga seotud ellujäämisvisked ühe astme võrra lihtsamad.
-- **Kirjaoskamatu:** Primitiivsed inimesed ei oska tavaliselt lugeda ega kirjutada. Nad võivad kirjaoskuse omandada, kulutades 1 kogemuspunkti ja kuu aega treeningut sellise tegelase juhendamisel, kes oskab soovitud keelt lugeda. See annab neile algelise kirjaoskuse, mis võrdub poolega oskustasemest ühes tegelasele tuntud keeles. Soovi korral annab veel 1 kogemuspunkt ja kuuajaline treening täieliku kirjaoskuse. Mängu käigus uusi keeli õppides võib eeldada, et nad õpivad neid täieliku kirjaoskuse tasemel.
-- **Õnnelik:** Inimesed alustavad ühe täiendava õnne punktiga.
+- **Liikumiskiirus:** 20 jalga.
+- **Ellujäämisboonus (spetsiifiline):** Primitiivsed kultuurid leiavad, et kõik nende päritolupiirkonnaga seotud ellujäämisvisked on ühe astme võrra lihtsamad.
+- **Kirjaoskamatu:** Primitiivsed inimesed ei oska tavaliselt lugeda ega kirjutada. Nad võivad kirjaoskuse omandada, kulutades 1 kogemusviske ja kuu aega treeningut kirjaoskliku tegelase juhendamisel. See annab neile põhiteadmised lugemisest ja kirjutamisest, mis võrdub poolega nende keeleoskusest ühes teadaolevas keeles. Soovi korral annab veel 1 kogemusvise ja kuu aega treeningut täieliku kirjaoskuse. Mängu käigus uusi keeli õppides eeldatakse, et nad õpivad need selgeks täieliku kirjaoskuse tasemel.
+- **Õnnega koos:** Inimestel on karakteri loomisel üks lisapunkt Õnnepunkte.
 
 ---
-## Poolinimlikud rassid
+## Pool-inimeste rassid
 
-Poolinimlikud tegelased luuakse peaaegu samamoodi kui inimesed. Omadused määratakse selle liigi omaduste täringutega, mille tulemuseks on erinevad omaduste väärtused ja vahemikud, kuid muus osas võetakse kõik muud elemendid: atribuudid, kultuur, klass ja nii edasi, arvesse normaalselt.
+Pool-inimestest tegelased luuakse peaaegu samamoodi kui inimesed. Karakteristikud määratakse vastava liigi karakteristikute täringutega, mis annab erinevad karakteristikute väärtused ja vahemikud, kuid muidu võetakse kõik muud elemendid: atribuudid, kultuur, klass ja nii edasi, arvesse tavapäraselt.
 
 ---
 ### Päkapikk
 
-Päkapikud rajavad oma kodud sügavale mägede kindlustesse, kus ulatuslikud tunnelid ulatuvad sügavale maa sisse. Keskmine päkapikk on tugev, sitke ja väsimatu lahingus. Oma olemuselt on nad suurepärased käsitöölised, kellel on sageli kalduvus kaevandamisele ja metallurgiale ning sellega kaasnev armastus varanduse ja kõige materiaalse vastu. Nende kaupu otsivad kõik kõrgelt.
+Päkapikud rajavad oma kodud sügavale mägikindlustustesse, kus ulatuslikud tunnelid urgitsevad sügavale maa sisse. Keskmine päkapikk on lahingus tugev, vastupidav ja väsimatu. Oma olemuselt on nad suurepärased käsitöölised, kellel on sageli kalduvus kaevandamisele ja metallurgiale, koos kaasneva armastusega aardete ja kõigi materiaalsete asjade vastu. Nende kaupu otsivad kõik taga.
 
-Päkapikud on lühikest kasvu ja veidi jässakad, olles keskmiselt 4'8" kuni 4'10" pikad. Juuksevärv on üldiselt must, hall või tumepruun, kuid mõnel on teadaolevalt punakad juuksed. Nende nahk on jumekas või maavärvi. Kõik meespäkapikud eelistavad pikki habemeid, sageli teravatipulisi, punutud või hargnevaid. Mõned päkapikunaised kasvatavad samuti habet; enamik eelistab siiski hoida oma nägu puhtaks raseerituna.
+Päkapikud on lühikest kasvu ja üsna jässakad, olles keskmiselt 4' 8" kuni 4' 10" pikad. Juuksevärv on üldiselt must, hall või tumepruun, kuid on teada, et mõnedel esineb punakaid juukseid. Nende nahk on jumekas või maa värvi. Kõik meespäkapikud eelistavad pikki habemeid, sageli torkivaid, punutud või harkis. Mõned päkapikunaised kasvatavad samuti habet; enamik eelistab siiski nägu puhtaks raseerituna hoida.
 
-Päkapikud on loomupäraselt umbusklikud igaühe suhtes, kes pooldab nende omast erinevat eluviisi, kuid nad ei ole tingimata nende vastu vaenulikud. Nad saavad kõige paremini läbi gnoomidega, kellega nad jagavad kaugeid sugulussidemeid, hoolimata nende tüütust huumorimeelest ja kalduvusest teha vigureid. Lisaks saavad päkapikud inimestega hästi läbi; neil on aga madal tolerants päkapikkude suhtes iidsete sõdade ja pikkade mälestuste tõttu. Päkapikud kipuvad mitte sallima poolpikkasid (halflings), kelle muretu elustiil põrkub nende karmile ja rangele loomusele. Nende viha orkide vastu, keda nad peavad räpasteks ja elajalikeks, on legendaarne.
+Päkapikud on loomult umbusklikud kõigi suhtes, kes pooldavad neist erinevat eluviisi, kuid nad ei ole tingimata nende vastu vaenulikud. Nad saavad kõige paremini läbi gnoomidega, kellega nad jagavad kaugeid sugulussidemeid, hoolimata nende tüütust huumorimeelest ja kalduvusest teha vigureid. Lisaks saavad päkapikud inimestega hästi läbi; neil on aga väike taluvus päkapikkude suhtes mineviku sõdade ja pikkade mälestuste tõttu. Päkapikud ei salli eriti poolikuid (halflings), kelle muretu elustiil põrkub nende töntsi ja karmi loomuga. Nende viha orkide vastu, keda nad peavad räpasteks ja elajalikeks, on legendaarne.
 
-Päkapikud elavad kaua ja võivad elada umbes 450-aastaseks. Neil on selge vastumeelsus maagia vastu ja seetõttu on nad loomupäraselt vastupidavad arkaanilistele loitsudele; jumalikud loitsud mõjutavad neid normaalselt. Seetõttu on päkapikkudest maagia kasutajad kuulmatud.
+Päkapikud on pikaealised ja võivad elada umbes 450-aastaseks. Neil on selge vastumeelsus maagia vastu ja seetõttu on nad loomult vastupidavad Arkaan-loitsudele; jumalikud loitsud mõjutavad neid tavapäraselt. Seetõttu on päkapikkudest maagia kasutajad kuulmatud.
 
 #### Päkapikkude kultuur
 
-Päkapikud on sotsiaalsed olendid, kes on seotud klannide ja hõimudega, mis jagavad suurepäraseid maa-aluseid saale ja linnu. Selles suhtes sarnanevad nad kõige enam barbaarsete kultuuridega, ehkki on teatud võtmeerinimevusi. Esiteks ei ole päkapikkude ühiskonnas sugu oluline: mehed ja naised jagavad kohustusi ja vastutust võrdselt. See hõlmab lastekasvatust, füüsilist tööd, jahipidamist ja sõda. Teiseks kipuvad päkapikud vähendama üksikisiku tähtsust ühiskonna kasuks.
+Päkapikud on sotsiaalsed olendid, kes on seotud klannide ja hõimudega, mis jagavad suuri maa-aluseid saale ja linnu. Selles osas meenutavad nad kõige enam barbaari kultuuri, kuigi on teatud olulisi erinevusi. Esiteks ei ole päkapikkude ühiskonnas sugu tähtis: mehed ja naised jagavad kohustusi ja vastutust võrdselt. See hõlmab lastekasvatamist, füüsilist tööd, jahipidamist ja sõda. Teiseks kipuvad päkapikud alahindama üksikisikut ühiskonna kasuks.
 
-Päkapikud teavad, et jõud tuleb arvukusest ja et üksikisiku soovid ja vajadused on alati vähem tähtsad kui paljude omad. Nad on siiski omandihimuline ja materialistlik ühiskond, valvates kadedalt oma avastusi ja saavutusi. Päkapikkudele meeldivad asjad ja klannist eemaldatuna võib üksik päkapikk väga kiiresti muutuda isekaks ja individualistlikuks, sest üldine päkapikkude kultuur puudub, et suunata ja kontrollida nende madalamaid instinkte.
+Päkapikud teavad, et jõud tuleb arvukusest ja et üksikisiku soovid ja vajadused jäävad alati alla paljude omadele. Nad on siiski omandihimuline ja materialistlik ühiskond, kaitstes kadedalt oma avastusi ja saavutusi. Päkapikud armastavad asju ja kui üksik päkapikk klannist eemaldatakse, võib ta väga kiiresti muutuda isekaks ja individualistlikuks, sest üldine päkapikkude kultuur puudub, et juhtida ja kontrollida madalamaid instinkte.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40, Keel (Päkapikk) +40
-- **Tavaoskused:** Kergejõustik, Jõud, Vastupidavus, Kõrvalehoidumine, Kohaliku olu tundmine, Taju, Tahtejõud
-- **Elukutseoskused:** Kaubandus, Käsitöö, Inseneritöö (Engineering), Keel (mis tahes\*), Pärimus, Mehhanismid (Mechanisms), Oratoorika (Oratory), Ellujäämine.
+- **Vabaoskused:** Kombed +40, Keel (tavakeel) +40, Keel (päkapikk) +40
+- **Tavaoskused:** Kergejõustik, Jõumeetodid, Vastupidavus, Kõrvalehoidmine, Kohalikud olud, Tajumisvõime, Tahtejõud
+- **Erialaoskused:** Kaubandus, Käsitöö (valikuline), Tehnika (Engineering), Keel (valikuline\*), Pärimus (valikuline), Mehhanismid, Oratoorika, Ellujäämine.
 
-_\* Tegelase loomise ajal on täiendavad keeled piiratud gnoomi, goblini, koboldi ja orki keelega._
+_\* Karakteri loomise ajal on lisakeeled piiratud gnoomi, goblini, koboldi ja orki keelega._
 
 #### Maailmavaade ja kired
 
-- **Maailmavaade:** Mis tahes, kuid tavaliselt Seaduskuulekas Hea; vali üks või kaks kummastki või vali mõni muu maailmavaade.
-  - **Seaduskuulekas** (suletud mõtlemisega, vihkab kaost, aus, auväärne, kriitiline, puudub huumorimeel, kuulekus seaduslikule võimule, organiseeritud, etteaimatav, usaldusväärne)
-  - **Hea** (imetlusväärne, südametunnistus süütute kahjustamise vastu, korralik, eetiline, sõbralik, vihkab kurjust, abivalmis, lahke, optimistlik, positiivne)
-- **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
+- **Maailmavaade:** Suvaline, kuid tavaliselt Seaduskuulekas Hea, vali üks või kaks mõlemast või vali teistsugune maailmavaade.
+  - **Seaduskuulekas** (Suletud mõtlemisega, vihkab kaost, aus, auväärne, kohtumõistev, huumorimeele puudumine, kuulekus seaduslikule autoriteedile, organiseeritud, etteaimatav, usaldusväärne, usaldusväärne)
+  - **Hea** (Imetlusväärne, südametunnistus süütute kahjustamise vastu, korralik, eetiline, sõbralik, vihkab kurja, abivalmis, lahke, optimistlik, positiivne)
+- **Kirg:** Suvaline, kuid tavaliselt üks või kaks järgmistest:
   - Lojaalsus klannile
   - Armastus (midagi materialistlikku)
-  - Mäepäkapikud: Viha (orkid, poolorkid, goblinid ja hobgoblinid)
-  - Mäestikupäkapikud: Viha (orkid, goblinid, kurjad hiiglased ja tumehaldjad)
+  - Mäepäkapikud: Viha (orkid, pool-orkid, goblinid ja hobgoblinid)
+  - Mäestikupäkapikud: Viha (orkid, goblinid, kurjad hiiglased ja tume-päkapikud)
 
 #### Erireeglid
 
-- **Liikumine:** 15 jalga.
-- **Pimeduses nägemine (Darkvision):** Päkapikkude pimeduses nägemine võimaldab neil näha kuni 60 jala kaugusele hämaras valguses nagu oleks see ere valgus (tavalised tajuvisked märkamiseks) ja pimeduses nagu oleks see hämar valgus (tajuvisked märkamiseks on rasked). Selles pimeduses eristavad nad värve ainult halli varjunditena. Pimeduses nägemine ei võimalda nägemist maagilises pimeduses.
+- **Liikumiskiirus:** 15 jalga.
+- **Pimeduses nägemine:** Päkapikkude pimeduses nägemine võimaldab neil näha kuni 60 jala kaugusele hämaras valguses, nagu oleks see ere valgus (tavalised tajumisvisked millegi märkamiseks) ja pimeduses, nagu oleks see hämar valgus (tajumisvisked millegi märkamiseks on rasked). Selles pimeduses eristavad nad värve vaid halli varjunditena. Pimeduses nägemine ei võimalda nägemist maagilises pimeduses.
 - **Kirjaoskaja:** Päkapikud oskavad tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
-- **Maagia vastupanu:** Päkapikud on väga vastupidavad arkaanilisele maagiale; nende Tahtejõu-testid (Willpower Checks) on ühe astme võrra lihtsamad, kui neid kasutatakse vastupanu osutamiseks. See vastupanu ei mõjuta jumalikku maagiat.
-- **Mürgi vastupanu:** Päkapikud on samuti väga vastupidavad mürgile, kusjuures Vastupidavuse visked, mis on seotud mürgitamisega, on ühe astme võrra lihtsamad.
-- **Tunnelitaju (Tunnel Sense):** Oma maa-aluse olemuse tõttu suudavad päkapikud tuvastada teatud maa-aluseid nähtusi, sooritades lihtsa Taju-oskuse viske. Tunnelitaju võib kasutada kivipõrandate, lõksude, nõlvade, ligikaudse sügavuse, uute tunnelite või käikude konstruktsiooni ning nihkuvate seinte või ruumide tuvastamiseks. See tuvastusulatus on piiratud 10 jalaga.
+- **Maagiatakistus:** Päkapikud on väga vastupidavad Arkaan-maagiale; nende Tahtejõu visked on ühe astme võrra lihtsamad, kui neid kasutatakse vastupanu osutamiseks. Sellel vastupanul ei ole mõju jumalikule maagiale.
+- **Mürgitakistus:** Päkapikud on ka väga mürgikindlad, kusjuures mürgitamisega seotud Vastupidavuse visked on ühe astme võrra lihtsamad.
+- **Tunnelitaju:** Oma maa-aluse olemuse tõttu suudavad päkapikud tuvastada teatud maa-aluseid nähtusi, sooritades eduka lihtsa Tajumisvõime viske. Tunnelitaju saab kasutada kivist kaevude, lõksude, nõlvade või kallakute, ligikaudse maa-aluse sügavuse, uute tunnelite või käikude ehituse ning nihkuvate või libisevate seinte või ruumide tuvastamiseks. See tuvastamisulatus on piiratud 10 jalaga.
 
 ---
-### Haldjas
+### Päkapikk (Elf)
 
-Haldjad on umbes sama pikad kui inimesed ja neil on graatsiline ja sale kehaehitus. Väga vähesed haldjad lahkuvad oma metsasest valdusest ja asuvad seikleja elule, eelistades selle asemel rahulikku metsaelu. Need, kes seda teevad, on mõistatuseks isegi nende oma liigile. Kuigi haldjad saavad poolpikkade ja gnoomidega üsna hästi läbi, ei sobi nad päkapikkudega hästi kokku nende üsna karmi loomuse tõttu. Isegi inimesi vaadatakse umbusuga. Kõigist rassidest põlatakse orke ja goblini kõige enam tänu pikaajalisele vaenule, mis põhineb lõpututel sõdadel ja pisikestel kokkupõrgetel. Nagu päkapikud, on ka haldjad väga pikaealised, kuid veelgi enam, elades umbes 1100-aastaseks. Kuid ammu enne seda tunnevad haldjad sageli vajadust lahkuda inimeste valdustest. Kuhu nad lähevad, on mõistatus kõigile peale nende endi.
+Päkapikud (elftid) on umbes sama pikkusega kui inimesed ning neil on graatsiline ja sale kehaehitus. Väga vähesed päkapikud lahkuvad oma metsaaladest ja alustavad seiklusrikast elu, eelistades selle asemel rahulikku metsaelu. Need, kes seda teevad, on mõistatuseks isegi oma liigikaaslastele. Kuigi päkapikud saavad poolikutega ja gnoomidega üsna hästi läbi, ei klapi nad oma üsna karmi olemuse tõttu päkapikkudega (dwarves). Isegi inimesi vaadatakse umbusuga. Kõigist rassidest põlatakse orke ja goblini kõige enam tänu pikaajalisele vaenule, mis põhineb lõpututel sõdade ja tühistel kokkupõrgetel. Nagu päkapikud (dwarves), on ka päkapikud (elftid) väga pikaealised, kuid veelgi enam, elades umbes 1100-aastaseks. Siiski tunnevad päkapikud sageli ammu enne seda vajadust inimeste valdused jätta. Kuhu nad lähevad, on mõistatuseks kõigile peale nende endi.
 
-Haldjad on eristuvad oma peene luustiku, kitsa kitseneva kolju ja kitsaste teravate kõrvadega. Silmavärvid varieeruvad läbi spektri, alates inimtoonidest kuni säravate kalliskivide värvideni. Haldjate ühiskond on sageli monarhiline, mida tavaliselt valitseb kuningas, kuninganna või mõlemad. Haldjad on teisest maailmast pärit. Nad tunduvad sageli maisetest sündmustest kaugel, kuid ilmutavad neist arusaamist, mis on inimestele mõistmiseks segadusttekitav. Loodus on haldjatele väga oluline ja seetõttu hoolitsevad nad oma keskkonna säilitamise eest väga. Pikaealise liigina ei aktsepteeri ega hinda nad aega samamoodi nagu inimkond ja on sageli teadmatud lühikeste ajaühikute möödumisest.
+Päkapikud (elftid) on eristatavad oma peene luustiku, kitsaste ahenevate koljude ja kitsaste teravate kõrvade poolest. Silmavärvid varieeruvad spektris, alates inimese toonidest kuni säravate kalliskivide värvideni. Päkapikkude ühiskond on sageli monarhiline, tavaliselt valitsetud kuninga, kuninganna või mõlema poolt. Päkapikud on teispoolsest maailmast. Nad näivad sageli olevat kauged argistest sündmustest, kuid ilmutavad nende mõistmist, mis osutub inimestele arusaamatuks. Loodus on päkapikkudele väga oluline ja seetõttu hoolitsevad nad väga oma keskkonna säilitamise eest. Pikaealise liigina ei aktsepteeri ega hinda nad aega samamoodi nagu inimkond ja on sageli teadvuseta lühikeste ajavahemike möödumisest.
 
-#### Haldjate kultuur
+#### Päkapikkude (Elven) kultuur
 
-Haldjate kultuur on sarnane tsiviliseeritud kultuuriga. Õppimisele ja mõistmisele pannakse suurt rõhku. Teod, käitumine ja ausameelsus on haldjate ja teiste seas olulised ja ihaldatud omadused. Väärikas käitumine on oodatud ja labast, ebaviisakat käitumist vaadatakse põlguse ja umbusuga. Enamikul haldjate ühiskondadest on kuningas või kuninganna, mistõttu on lojaalsus monarhile ülim. Haldjatel on raske mõista ühiskondi, millel sellised struktuurid puuduvad, imestades, kuidas saab inimesi korralikult järjestada ilma selge kuningliku juhita, kes neid juhendaks ja esindaks.
+Päkapikkude kultuur on sarnane tsiviliseeritud kultuuriga. Õppimisele ja mõistmisele pannakse suurt rõhku. Teod, käitumine ja ausus on olulised ja ihaldatud omadused päkapikkude seas ja ka teistes. Väärikas käitumine on ootuspärane ning matslikku, kultuuritut käitumist vaadatakse põlguse ja umbusuga. Enamikul päkapikkude ühiskondadel on kuningas või kuninganna, seega on lojaalsus monarhile ülimalt tähtis. Päkapikkudel on raskusi selliste ühiskondade mõistmisega, millel puuduvad sellised struktuurid, imestades, kuidas inimesi saab korralikult korrastada ilma selge kuningliku juhita, kes neid juhendaks ja esindaks.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40, Keel (Haldjas) +40
-- **Tavaoskused:** Varjamine, Mõjutamine, Taiplikkus, Kohaliku olu tundmine, Taju, Hiilimine, Tahtejõud
-- **Elukutseoskused:** Kunst, Kaubandus, Käsitöö, Viisakus, Keel (mis tahes\*), Pärimus, Muusikaline oskus, Ellujäämine.
+- **Vabaoskused:** Kombed +40, Keel (tavakeel) +40, Keel (päkapikk/elf) +40
+- **Tavaoskused:** Varjamine, Mõjutamine, Sisevaatlus, Kohalikud olud, Tajumisvõime, Hiilimine, Tahtejõud
+- **Erialaoskused:** Kunst (valikuline), Kaubandus, Käsitöö (valikuline), Viisakus, Keel (valikuline\*), Pärimus (valikuline), Muusikategemine, Ellujäämine.
 
-_\* Tegelase loomise ajal on täiendavad keeled piiratud gnoomi, poolpikkade, goblini, hobgoblini, orki ja gnolli keelega._
+_\* Karakteri loomise ajal on lisakeeled piiratud gnoomi, pooliku (halfling), goblini, hobgoblini, orki ja gnolli keelega._
 
 #### Maailmavaade ja kired
 
-- **Maailmavaade:** Mis tahes, kuid tavaliselt Kaootiline Hea; vali üks või kaks kummastki või vali mõni muu maailmavaade.
-  - **Kaootiline** (uudishimulik, vabadus, kahtlustav)
-  - **Hea** (imetlusväärne, altruistlik, ingellik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurjust, abivalmis, lahke, armastab loodust, halastav, optimistlik, positiivne, taimetoitlane)
-- **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
+- **Maailmavaade:** Suvaline, kuid tavaliselt Kaootiline Hea, vali üks või kaks mõlemast või vali teistsugune maailmavaade.
+  - **Kaootiline** (Uudishimulik, vabadus, umbusklik)
+  - **Hea** (Imetlusväärne, altruistlik, ingellik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurja, abivalmis, lahke, armastab loodust, halastav, optimistlik, positiivne, taimetoitlane)
+- **Kirg:** Suvaline, kuid tavaliselt üks või kaks järgmistest:
   - Lojaalsus kuningale/kuningannale
   - Armastus (midagi emotsionaalset)
-  - Viha (iga graatsia ja ilu vaenlane)
+  - Viha (kõik, mis on armu ja ilu vaenlane)### Päkapikk
 
-#### Erireeglid
-
-- **Liikumine:** 20 jalga.
-- **Haldjate kettsoomusrüü:** Haldjad on osavad arkaanilise maagia loitsude heitmisel, kandes haldjate kettsoomusrüüd, ja võivad selliseid loitse heita ühe raskusastme võrra kergemalt.
-- **Kirjaoskaja:** Haldjad oskavad tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
-- **Vastupanu unele ja võlule:** Haldjad leiavad, et Tahtejõu-visked, et seista vastu *Une-* ja *Võluloitsudele* (Sleep, Charm), on 2 astme võrra lihtsamad. See hõlmab kõiki *Nõiduse (Võlu)* koolkonna loitse (*Charm Person, Friendship, Hypnotism* jne). Nad võivad sellest vastupanust loobuda ja aktsepteerida maagia mõju, kui nad seda soovivad.
-- **Terav nägemine:** Tänu oma teravale nägemisele leiavad haldjad, et kõik tajuvisked märkamiseks on ühe astme võrra lihtsamad.
-- **Hiiliv:** Haldjad, kes kannavad vaid kerget soomusrüüd, leiavad, et hiilimistestid on 1 astme võrra lihtsamad.
-
----
-### Gnoom
-
-3'4" kuni 3'7" pikkusena on gnoomid veelgi väiksemad kui nende päkapikkudest sugulased. Pruuni või päevitunud nahaga, valgete juustega ja tunduvalt suuremate ninadega on nad üldiselt vähem jässakad. Omades peaaegu kontrollimatut kalduvust praktiliste naljade järele ja huumorimeelt, mis võib nad maailma hämaramates osades tappa, tasakaalustavad gnoomid neid problemaatilisi jooni terava loodusearmastusega, mis peaaegu võrdub haldjate omaga. Nagu päkapikud, armastavad gnoomid eriti kalliskive ja ehteid ning paljud on gemmide lõikamise käsitöö eksperdid. Nad elavad mägedes ja urgudes, mis asuvad inimestest eraldatud künklikel ja metsasel aladel. Gnoomid on umbusklikud rasside suhtes, mis on neist palju suuremad, ja peale päkapikkude ja poolpikkade on see peaaegu igaüks. Nad kipuvad inimese tõelisi kavatsusi hindama tema huumorimeele testi abil, mis pole kindlasti kõige targem meetod, kuid näib neile töötavat. Gnoomid on osavad pikkade juttude ja metsikute lugude jutustajad. Kõigist rassidest saavad nad kõige paremini läbi päkapikkudega, kuid üldiselt on nad valmis teisi aktsepteerima. Tavaliselt võivad gnoomid elada umbes 700-aastaseks.
+Olles 3 jalga 4 tolli kuni 3 jalga 7 tolli pikad, on päkapikud isegi väiksemad kui nende kääbustest sugulased. Pruuni või päevitunud naha, valgete juuste ja märgatavalt suuremate ninadega on nad üldiselt siiski vähem jässakad. Omades peaaegu kontrollimatut kalduvust praktiliste naljade ja huumorimeele vastu, mis võiks nad maailma varjulisemates paikades surma viia, tasakaalustavad päkapikud neid problemaatilisi jooni sügava loodusearmastusega, mis peaaegu võrdub päkapikkude omaga. Nagu kääbused, armastavad ka päkapikud eriti vääriskive ja ehteid ning paljud neist on gemmide lihvimise meistrid. Nad elavad kaevandustes ja urgudes, mida leidub inimestest eraldatud lainjatel künklikel aladel ja metsamaadel. Päkapikud on umbusklikud endast palju suuremate rasside suhtes ja kui kääbused ja poolpikad välja arvata, on see peaaegu igaüks. Neil on kalduvus hinnata inimese tegelikke kavatsusi tema huumorimeele katsetamisega, mis pole kindlasti just kõige targem meetod, kuid nende puhul näib see toimivat. Päkapikud on suurepärased pajatajad ja ulmeliste lugude jutustajad. Kõigist rassidest saavad nad kõige paremini läbi kääbustega, kuid on üldiselt valmis teisi aktsepteerima. Tavaliselt elavad päkapikud umbes 700-aastaseks.
 
 #### Kultuur
 
-Gnoomide kultuur on klanniline ühiskond, mis veedab suure osa ajast kaevandades ja valmistades peeneid ehteid. Nende elu on hästi organiseeritud, nende juhtimine kulmineerub pealikuga ja religioossete küsimustega tegelevad pealiku vaimulikud nõuandjad. Selles suhtes on nende kultuur sarnane nende päkapikkudest sugulaste omaga, kuid nad kipuvad mänge ja praktilisi nalju rohkem armastama kui nende jässakad nõod. Nende armastus loomade ja looduse vastu tähendab, et lisaks päkapikkudele saavad nad hästi läbi haldjate ja teiste metsade olenditega.
+Päkapikkude kultuur on klannipõhine ühiskond, mis veedab suurema osa ajast kaevandades ja peeneid ehteid valmistades. Nende elu on hästi organiseeritud, juhtimine kulmineerub pealikuga ja religioossete küsimustega tegelevad pealiku vaimulikest nõuandjad. Selles suhtes on nende kultuur sarnane nende kääbustest sugulaste omaga, kuid nad kipuvad mänge ja praktilisi nalju rohkem armastama kui oma jässakad nõod. Nende armastus loomade ja looduse vastu tähendab, et lisaks kääbustele on nad lähedased ka päkapikkude ja teiste metsaolenditega.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40, Keel (Gnoom) +40
-- **Tavaoskused:** Pettus, Kõrvalehoidumine, Taiplikkus, Kohaliku olu tundmine, Taju, Hiilimine, Tahtejõud
-- **Elukutseoskused:** Kaubandus, Käsitöö, Inseneritöö, Keel (mis tahes\*), Pärimus, Mehhanismid, Oratoorika, Ellujäämine.
+- **Vabad oskused:** Tavad +40, Keel (üldkeel) +40, Keel (päkapiku) +40
+- **Tavaoskused:** Pettus, Põiklemine, Taiplikkus, Paikkond, Tajumine, Hiilimine, Tahtejõud
+- **Erialaoskused:** Kaubandus, Käsitöö (mis tahes), Inseneriasjandus, Keel (mis tahes*), Teadmised (mis tahes), Mehhanismid, Oraatorlus, Ellujäämine.
 
-_\* Tegelase loomise ajal on täiendavad keeled piiratud päkapiku, poolpika, goblini ja koboldi keelega._
+_\* Tegelase loomisel on lisakeeled piiratud kääbus-, poolpika-, goblini- ja koboldikeelega._
 
-#### Maailmavaade ja kired
+#### Ilmavaade ja kired
 
-- **Maailmavaade:** Mis tahes, kuid tavaliselt Neutraalne Hea; vali üks või kaks kummastki või vali mõni muu maailmavaade.
-  - **Neutraalne** (ei tunne tugevat poolehoidu seaduse või kaose osas, paindlik, vabadus tegutseda, puudub väljakujunenud eetikakoodeks, loodust austav\*)
-  - **Hea** (imetlusväärne, altruistlik, ingellik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurjust, abivalmis, lahke, armastab loodust\*, halastav, optimistlik, positiivne, taimetoitlane)
+- **Ilmavaade:** Mis tahes, kuid tavaliselt Neutraalne Hea, vali üks või kaks igast või vali erinev ilmavaade.
+  - **Neutraalne** (Ei tunne tugevat poolehoidu ühegi suuna suhtes, kui tegemist on Seaduse ja Kaosega, paindlik, tegevusvabadus, puudub kindel eetikakoodeks, loodust austav*)
+  - **Hea** (Imetlusväärne, altruistlik, ingellik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurjust, abivalmis, lahke, loodust armastav*, halastav, optimistlik, positiivne, taimetoitlane)
 - **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
   - Lojaalsus klannile
-  - Armastus (midagi materialistlikku)
-  - Viha (tavaliselt koboldid ja goblinid)
+  - Armastus (materiaalne asi)
+  - Vihkamine (tavaliselt koboldid ja goblinid)
 
-_\* Kas loodust austav või armastab loodust, mitte mõlemat._
+_\* Kas loodust austav või loodust armastav, mitte mõlemad._
 
 #### Erireeglid
 
 - **Liikumine:** 15 jalga.
-- **Kirjaoskaja:** Gnoomid oskavad tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
-- **Pimeduses nägemine:** Gnoomide pimeduses nägemine võimaldab neil näha kuni 60 jala kaugusele hämaras valguses nagu oleks see ere valgus (tavalised tajuvisked märkamiseks) ja pimeduses nagu oleks see hämar valgus (tajuvisked märkamiseks on rasked). Selles pimeduses eristavad nad värve ainult halli varjunditena. Pimeduses nägemine ei võimalda nägemist maagilises pimeduses.
-- **Maagia vastupanu:** Nagu päkapikud, on gnoomid väga vastupidavad arkaanilisele maagiale; Tahtejõu-testid on ühe astme võrra lihtsamad, kui neid kasutatakse vastupanu osutamiseks, illusioonide suhtes kaks astet lihtsamad. See vastupanu ei mõjuta jumalikku maagiat. Paljud gnoomid, kes saavad maagia kasutajateks, spetsialiseeruvad Illusioonide koolkonnale.
-- **Mürgi vastupanu:** Gnoomid on samuti väga vastupidavad mürgile, kusjuures Vastupidavuse visked, mis on seotud mürgitamisega, on 1 astme võrra lihtsamad.
-- **Tunnelitaju:** Oma maa-aluse olemuse tõttu suudavad gnoomid tuvastada teatud maa-aluseid nähtusi, sooritades lihtsa Taju-oskuse viske. Tunnelitaju võib kasutada kivipõrandate, lõksude, nõlvade, ligikaudse sügavuse, uute tunnelite või käikude konstruktsiooni ning nihkuvate seinte või ruumide tuvastamiseks. See tuvastusulatus on piiratud 10 jalaga.
+- **Kirjaoskus:** Päkapikud on tavaliselt võimelised lugema ja kirjutama mis tahes keelt, mida nad räägivad.
+- **Hämarikunägemine:** Päkapikkude hämarikunägemine võimaldab neil näha kuni 60 jala kaugusele hämaras valguses nii, nagu oleks see ere valgus (tavalised Tajumise täringuvisked millegi märkamiseks) ja pimeduses nii, nagu oleks see hämar valgus (Tajumise täringuvisked millegi märkamiseks on rasked). Selles pimeduses eristavad nad värve vaid halli varjunditena. Hämarikunägemine ei võimalda nägemist maagilises pimeduses.
+- **Maagiatõrje:** Nagu kääbused, on ka päkapikud väga vastupidavad Arkaansele maagiale; Tahtejõu kontrollvisked on 1 astme võrra lihtsamad, kui neid kasutatakse tõrjumiseks, ja 2 astme võrra lihtsamad illusioonide puhul. See tõrje ei mõjuta jumalikku maagiat. Paljud maagiat kasutavad päkapikud spetsialiseeruvad Illusioonikoolile.
+- **Mürgitustõrje:** Päkapikud on ka väga vastupidavad mürgile, kusjuures Vastupidavuse täringuvisked, mis on seotud mürgitusega, on 1 astme võrra lihtsamad.
+- **Tunnelitaju:** Tänu oma maa-alusele olemusele suudavad päkapikud tuvastada teatud maa-aluseid nähtusi, sooritades eduka Kerge Tajumise oskuse täringuviske. Tunnelitaju saab kasutada kivist kaevude, lõksude, nõlvade või kallakute, ligikaudse sügavuse maa all, uute tunnelite või käikude ehituse ning nihkuvate seinte või ruumide tuvastamiseks. See tuvastamisulatus on piiratud 10 jalaga.
 
 ---
-### Poolhaldjas
+### Poolpäkapikk
 
-Poolhaldjad on haldja ja inimese järglased, andes neile segu mõlema vanema joontest. Nende välimus on lähemal nende haldjapärandile; nad kipuvad omama atraktiivseid jooni. Poolhaldjad kaotavad mõned haldjapärandi võimed ja neil ei ole sama õnnelikku või andekat olemust kui inimkonnal; selle asemel jäävad nad kuhugi vahepeale. Poolhaldjatel on nende inimvanema rännuhimu ja haldjapärandi loodusearmastus. Nad on ka pikaealised, elades umbes 300-aastaseks. Mõnel pool maailmas vaadatakse poolhaldjaid nende segapärandi tõttu umbusuga, kuid üldiselt aktsepteeritakse neid kõikjal, kus haldjaid ja inimesi, kuigi haldjate poolt kipuvad nad saama kõige rohkem fanatismi osaliseks.
+Poolpäkapikud on päkapiku ja inimese järglased, mis annab neile mõlema vanema joonte segu. Nende välimus on lähemal nende päkapiku pärandile; nad kipuvad omama atraktiivseid jooni. Poolpäkapikud kaotavad osa päkapikkude pärandi võimetest ja neil ei ole sama õnnelikku või andekat loomust kui inimkonnal; selle asemel jäävad nad kuhugi vahepeale. Poolpäkapikkudel on inimesest vanema rännukirg ja päkapiku pärandi loodusearmastus. Nad on ka pikaealised, elades umbes 300-aastaseks. Mõnes maailma osas suhtutakse poolpäkapikkudesse nende segapärandi tõttu umbusuga, kuid üldiselt aktsepteeritakse neid kõikjal, kus on päkapikke ja inimesi, ehkki nad kipuvad saama kõige enam fanatismi päkapikkude endi poolt.
 
 #### Kultuur
 
-Poolhaldjatel ei ole oma kogukondi, kuid neid võib leida elamas kõikjal, kus inimesed ja haldjad koos elavad, ning nad jagavad tavaliselt selle rassi kultuuri, kes nad üles kasvatas. Näiteks kui nad on üles kasvanud inimeste seas, jagavad nad oma inimvanema kultuuri (ühte neljast, mida inimeste puhul kirjeldatakse), kui nad on üles kasvanud haldjate seas, jagavad nad oma haldjavanema kultuuri.
+Poolpäkapikkudel ei ole oma kogukondi, kuid neid võib leida elamas kõikjal, kus inimesed ja päkapikud koos tegutsevad, ning nad jagavad tavaliselt selle rassi kultuuri, kes nad üles kasvatas. Näiteks kui nad on kasvanud inimeste seas, jagavad nad oma inimestest vanema kultuuri, kui aga päkapikkude seas, jagavad nad oma päkapikkudest vanema kultuuri.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40, Keel (Haldjas) +40
-- **Tavaoskused:** Vali inimkultuurist või järgmisest haldjate oskuste loendist: Varjamine, Mõjutamine, Taiplikkus, Kohaliku olu tundmine, Taju, Hiilimine, Tahtejõud
-- **Elukutseoskused:** Vali inimkultuurist või järgmisest haldjate oskuste loendist: Kunst, Kaubandus, Käsitöö, Viisakus, Keel (mis tahes\*), Pärimus, Muusikaline oskus, Ellujäämine.
+- **Vabad oskused:** Tavad +40, Keel (üldkeel) +40, Keel (päkapiku) +40
+- **Tavaoskused:** Vali inimkultuurist või järgnevast päkapiku oskuste loendist: Varjamine, Mõjutamine, Taiplikkus, Paikkond, Tajumine, Hiilimine, Tahtejõud
+- **Erialaoskused:** Vali inimkultuurist või järgnevast päkapiku oskuste loendist: Kunst (mis tahes), Kaubandus, Käsitöö (mis tahes), Viisakus, Keel (mis tahes*), Teadmised (mis tahes), Muusikategemine, Ellujäämine.
 
-_\* Tegelase loomise ajal, kui on üles kasvatatud haldjate poolt, on täiendavad keeled piiratud gnoomi, poolpika, goblini, hobgoblini, orki ja gnolli keelega. Kui on üles kasvatatud inimeste poolt, ei ole keelevalik piiratud._
+_\* Tegelase loomisel, kui nad on üles kasvanud päkapikkude poolt, on lisakeeled piiratud päkapiku, poolpika, goblini, hobgoblini, orgi ja gnolliga. Kui nad on kasvanud inimeste poolt, on keelevalik piiramatu._
 
-#### Maailmavaade ja kired
+#### Ilmavaade ja kired
 
-Vali inimkultuurist või järgmistest haldjate kirgedest:
+Vali inimkultuurist või järgnevast päkapiku kirgede loendist:
 
-- **Maailmavaade:** Mis tahes, kuid tavaliselt Kaootiline Hea, kui on üles kasvatatud haldjate poolt; vali üks või kaks kummastki või vali mõni muu maailmavaade. Või vastavalt inimvanemale.
-  - **Kaootiline** (uudishimulik, vabadus, kahtlustav)
-  - **Hea** (imetlusväärne, altruistlik, ingellik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurjust, abivalmis, lahke, armastab loodust, halastav, optimistlik, positiivne, taimetoitlane)
-- **Kirg (Kasvatatud haldjana):** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
+- **Ilmavaade:** Mis tahes, kuid tavaliselt Kaootiline Hea, kui päkapikud on nad üles kasvatanud; vali üks või kaks igast või vali erinev ilmavaade. Või vastavalt inimestest vanemale.
+  - **Kaootiline** (Uudishimulik, vabadus, kahtlustav)
+  - **Hea** (Imetlusväärne, altruistlik, ingellik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurjust, abivalmis, lahke, loodust armastav, halastav, optimistlik, positiivne, taimetoitlane)
+- **Kirg (Kasvanud päkapikuna):** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
   - Lojaalsus kuningale/kuningannale
-  - Armastus (midagi emotsionaalset)
-  - Viha (iga graatsia ja ilu vaenlane)
-- **Kirg (Kasvatatud inimesena):** Vali sobivast inimeste loendist.
+  - Armastus (emotsionaalne asi)
+  - Vihkamine (mis tahes ilu ja graatsia vaenlane)
+- **Kirg (Kasvanud inimesena):** Vali sobivast inimeste loendist.
 
 #### Erireeglid
 
 - **Liikumine:** 20 jalga.
-- **Haldjate kettsoomusrüü:** Haldjad on osavad arkaanilise maagia loitsude heitmisel, kandes haldjate kettsoomusrüüd, ja võivad selliseid loitse heita ühe raskusastme võrra kergemalt.
-- **Kirjaoskaja:** Poolhaldjad oskavad tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
-- **Vastupanu unele ja võlule:** Poolhaldjad leiavad, et Tahtejõu-visked, et seista vastu *Une-* ja *Võluloitsudele*, on ühe astme võrra lihtsamad. See hõlmab kõiki *Nõiduse (Võlu)* koolkonna loitse. Nad võivad sellest vastupanust loobuda ja aktsepteerida maagia mõju, kui nad seda soovivad.
-- **Terav nägemine:** Tänu oma teravale nägemisele leiavad poolhaldjad, et kõik tajuvisked märkamiseks on ühe astme võrra lihtsamad.
-- **Hiiliv:** Poolhaldjad, kes kannavad vaid kerget soomusrüüd, leiavad, et hiilimistestid on 1 astme võrra lihtsamad.
+- **Päkapikukett:** Poolpäkapikud on osavad Arkaanse maagia loitsude kasutamises, kandes päkapikuketti, ja võivad selliseid loitse kasutada ühe raskusastme võrra lihtsamalt.
+- **Kirjaoskus:** Poolpäkapikud on tavaliselt võimelised lugema ja kirjutama mis tahes keelt, mida nad räägivad.
+- **Tõrje une ja lummuse vastu:** Poolpäkapikud leiavad, et Tahtejõu täringuvisked _Une_ ja _Lummuse_ loitsude tõrjumiseks on ühe astme võrra lihtsamad. See hõlmab kõiki _Lummuse_ koolkonna loitse (_Inimese lummamine, Sõprus, Hüpnotism_ jne). Nad võivad sellest tõrjest loobuda ja nõustuda maagia mõjuga, kui nad seda soovivad.
+- **Terav nägemine:** Tänu oma teravale nägemisele leiavad poolpäkapikud, et kõik Tajumise täringuvisked millegi märkamiseks on ühe astme võrra lihtsamad.
+- **Hiilimine:** Poolpäkapikud, kes ei kanna kergest turvisest piiravamat varustust, leiavad, et Hiilimise testid on 1 astme võrra lihtsamad.
 
 ---
-### Poolork
+### Poolorg
 
-Pärit maailma metsikumatelt aladelt, kus orkid ja inimesed satuvad konflikti, on poolorkid nende kahe rassi ebatõenäolise liidu tulemus. Geneetiliselt ilmutavad poolorkid rohkem orkilikke jooni kui inimlikke, olles keskmiselt pikemad kui inimesed, suurte silmatorkavate hammaste, pikendatud alalõua ja jämedate tumedate juustega kaetud roheka nahaga. Nad on oma olemuselt sõjakad ega tunne huvi peenemate püüdluste vastu. Poolorkid on teiste rassidega halvates suhetes tänu oma orkilikule verele, kõige suurem on vaen haldjate ja päkapikkudega; kuid ajaga võib usaldus tekkida isegi nende ebatõenäoliste rassidega. Kõigist rassidest kipuvad poolhaldjad olema kõige mõistvamad, mõistes tõrjutute elu väga hästi. Imelikul kombel kipuvad gnoomid ja poolpikad poolorke üldiselt aktsepteerima – esimesed seetõttu, et poolorkid suudavad nalja mõista, ja teised nende uudishimuliku ja vastuvõtliku loomuse tõttu. Poolorkide loomulik eluiga on umbes 80 aastat.
+Maailma metsikumatel äärealadel, kus orgid ja inimesed konflikti satuvad, on poolorgid nende kahe rassi ebatõenäolise liidu tulemus. Geneetiliselt ilmutavad poolorgid rohkem orgilikke kui inimlikke jooni, olles keskmiselt inimestest pikemad, suurte silmapaistvate hammaste, pikendatud alalõua ja roheka nahaga, mida katavad jämedad tumedad karvad. Nad on oma olemuselt sõjakad ega tunne huvi peenemate püüdluste vastu. Poolorgid on teiste rassidega halval järjel oma orgi vere tõttu, kusjuures kõige suurem vaen on päkapikkude ja kääbustega; kuid ajapikku võib tekkida usaldus isegi nende ebatõenäoliste rassidega. Kõigist rassidest on poolpäkapikud tavaliselt kõige kaastundlikumad, mõistes tõrjutute elu liigagi hästi. Kummalisel kombel on päkapikud ja poolpikad üldiselt poolorgide suhtes aktsepteerivad, esimesed seetõttu, et poolorgid suudavad nalja mõista, ja teised nende uudishimuliku ja vastuvõtliku loomuse tõttu. Poolorgide loomulik eluiga on umbes 80 aastat.
 
 #### Kultuur
 
-Nagu poolhaldjatel, pole ka poolorkidel põlismaid, elades kõige sagedamini orkihõimude seas. Need, kes teiste orkide seas ei ela, kipuvad inimeste maade poole. Kuna ühiskond neid sageli ei aktsepteeri, tõmbuvad poolorkid tavaliselt vägivaldsete karjääride poole, mis sobivad nende suure jõu ja temperamendiga, leides tavaliselt seltsiks seiklejaid, kellest paljud on kaasrändurid ja autsaiderid. Poolorkid jagavad tavaliselt selle rassi kultuuri, kes nad üles kasvatas. Näiteks kui nad on üles kasvanud inimeste seas, jagavad nad oma inimvanema kultuuri; kui nad on üles kasvanud orkide seas, jagavad nad oma orkivanema kultuuri.
+Nagu poolpäkapikkudel, ei ole ka poolorgidel oma kodumaad, nad elavad kõige sagedamini orgide hõimude seas. Need, kes teiste orgide seas ei ela, liiguvad inimeste maade poole. Kuna ühiskond neid sageli ei aktsepteeri, tõmbuvad poolorgid tavaliselt vägivaldsete elukutsete poole, mis sobivad nende suure jõu ja temperamendiga, leides tavaliselt kaaslasi seiklejate hulgast, kellest paljud on rändurid ja autsaiderid. Poolorgid jagavad tavaliselt selle rassi kultuuri, kes nad üles kasvatas. Näiteks kui nad on kasvanud inimeste seas, jagavad nad oma inimestest vanema kultuuri; kui aga orgide seas, jagavad nad oma orgidest vanema kultuuri.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40, Keel (Ork) +40.
-- **Tavaoskused:** Vali inimkultuurist või järgmisest orkide oskuste loendist: Kergejõustik, Jõud, Vastupidavus, Esmaabi, Kohaliku olu tundmine, Taju; ja kas Paadisõit, Kõrvalehoidumine või Ratsutamine.
-- **Elukutseoskused:** Vali inimkultuurist või järgmisest orkide oskuste loendist: Käsitöö, Tervendamine, Hirmutamine (Intimidation), Pärimus, Muusikaline oskus, Navigeerimine, Ellujäämine, Jälitamine.
+- **Vabad oskused:** Tavad +40, Keel (üldkeel) +40, Keel (orgi) +40.
+- **Tavaoskused:** Vali inimkultuurist või järgnevast orgi oskuste loendist: Kergejõustik, Jõud, Vastupidavus, Esmaabi, Paikkond, Tajumine; ning kas Paadisõit, Põiklemine või Ratsutamine.
+- **Erialaoskused:** Vali inimkultuurist või järgnevast orgi oskuste loendist: Käsitöö (mis tahes), Tervendamine, Hirmutamine, Teadmised (mis tahes), Muusikategemine, Navigeerimine, Ellujäämine, Jälitamine.
 
-_\* Tegelase loomise ajal, kui on üles kasvatatud orkide poolt, on täiendavad keeled piiratud goblini, hobgoblini, orki ja gnolli keelega. Kui on üles kasvatatud inimeste poolt, ei ole keelevalik piiratud, kui suudate valikut põhjendada._
+_\* Tegelase loomisel, kui nad on üles kasvanud orgide poolt, on lisakeeled piiratud goblini, hobgoblini, orgi ja gnolliga. Kui nad on kasvanud inimeste poolt, ei ole keelevalik piiratud, kui suudate valikut põhjendada._
 
-#### Maailmavaade ja kired
+#### Ilmavaade ja kired
 
-Vali inimkultuurist või järgmistest orkide kirgedest, kui olete kasvanud orkide ühiskonnas:
+Vali inimkultuurist või järgnevast orgi kirgede loendist, kui oled üles kasvanud orgi ühiskonnas:
 
-- **Maailmavaade:** Mis tahes, kuid tavaliselt Seaduskuulekas Paha, kui on üles kasvatatud orkide poolt; vali üks või kaks kummastki või vali mõni muu maailmavaade. Või vastavalt inimvanemale.
-  - **Seaduskuulekas** (traditsioonidest kinnipidamine, kalkuleeriv, suletud mõtlemisega, kohanemisvõime puudumine)
-  - **Paha** (kuritahtlik, julm, domineeriv, naudib süütute kahjustamist, vihkab head, halastamatu, sadistlik, orjapidaja, pahatahtlik)
-- **Kirg (Kasvatatud orkina):** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
-  - Lojaalsus klannipealikule
-  - Armastus (sõber, õde-vend või romantiline partner)
-  - Viha (maagia, olend, rivaal või klann)
-- **Kirg (Kasvatatud inimesena):** Vali sobivast inimeste loendist.
+- **Ilmavaade:** Mis tahes, kuid tavaliselt Seaduskuulekas Kurja, kui orgid on nad üles kasvatanud; vali üks või kaks igast või vali erinev ilmavaade. Või vastavalt inimestest vanemale.
+  - **Seaduskuulekas** (Traditsioonide järgimine, kalkuleeriv, kitsarinnaline, kohanemisvõime puudumine)
+  - **Kurja** (Vägivaldne, julm, domineeriv, naudib süütute kahjustamist, vihkab head, halastamatu, sadistlik, orjapidaja, pahatahtlik)
+- **Kirg (Kasvanud orgina):** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
+  - Lojaalsus klanni pealikule
+  - Armastus (sõber, õde-vend või romantiline armastatu)
+  - Vihkamine (maagia, olend, rivaal või klann)
+- **Kirg (Kasvanud inimesena):** Vali sobivast inimeste loendist.
 
 #### Erireeglid
 
 - **Liikumine:** 20 jalga.
-- **Pimeduses nägemine:** Poolorkide pimeduses nägemine võimaldab neil näha kuni 60 jala kaugusele hämaras valguses nagu oleks see ere valgus (tavalised tajuvisked märkamiseks) ja pimeduses nagu oleks see hämar valgus (tajuvisked märkamiseks on rasked). Selles pimeduses eristavad nad värve ainult halli varjunditena. Pimeduses nägemine ei võimalda nägemist maagilises pimeduses.
-- **Kirjaoskamatu:** Kui on üles kasvatatud orkide poolt, ei oska poolorkid tavaliselt lugeda ega kirjutada. Nad võivad kirjaoskuse omandada, kulutades 1 kogemuspunkti ja kuu aega treeningut sellise tegelase juhendamisel, kes oskab soovitud keelt lugeda. See annab neile algelise kirjaoskuse, mis võrdub poolega oskustasemest ühes tegelasele tuntud keeles. Soovi korral annab veel 1 kogemuspunkt ja kuuajaline treening täieliku kirjaoskuse. Mängu käigus uusi keeli õppides võib eeldada, et nad õpivad neid täieliku kirjaoskuse tasemel. Teises kultuuris üles kasvanud poolorkid on kirjaoskajad, kui see kultuur on samuti kirjaoskaja.
-- **Ellujäämisboonus (spetsiifiline):** Kui on üles kasvatatud orkide poolt, leiavad poolorkid, et kõik nende päritolupiirkonnaga seotud ellujäämisvisked on ühe astme võrra lihtsamad.
+- **Hämarikunägemine:** Poolorgide hämarikunägemine võimaldab neil näha kuni 60 jala kaugusele hämaras valguses nii, nagu oleks see ere valgus (tavalised Tajumise täringuvisked millegi märkamiseks) ja pimeduses nii, nagu oleks see hämar valgus (Tajumise täringuvisked millegi märkamiseks on rasked). Selles pimeduses eristavad nad värve vaid halli varjunditena. Hämarikunägemine ei võimalda nägemist maagilises pimeduses.
+- **Kirjaoskamatus:** Kui poolorg on üles kasvanud orgide seas, on ta tavaliselt lugemis- ja kirjaoskamatu. Ta võib õppida lugema-kirjutama, kulutades 1 kogemuspunkti ja kuu aega kestva väljaõppe tegelase juures, kes on soovitud keeles kirjaoskaja. See annab neile põhilise kirjaoskuse, mis on pool tegelase oskustasemest ühes teadaolevas keeles. Soovi korral annab veel 1 kogemuspunkt ja kuu aega väljaõpet neile täieliku kirjaoskuse. Mängus uusi keeli õppides võib eeldada, et nad õpivad neid täieliku kirjaoskuse tasemel. Teises kultuuris üles kasvanud poolorgid on kirjaoskajad, kui see kultuur on samuti kirjaoskaja.
+- **Ellujäämise boonus (spetsiifiline):** Kui poolorg on üles kasvanud orgide seas, leiab ta, et kõik tema päritolupiirkonnaga seotud Ellujäämise täringuvisked on ühe astme võrra lihtsamad.
 
 ---
-### Poolpikk (Halfling)
+### Poolpikk
 
-Rahulikud, tsiviliseeritud inimesed, kes elavad suures osas põllumajanduslikku elu, on poolpikad väikesekasvulised humanoidid, kes on keskmiselt 4'0" kuni 4'3" pikad – lühemad kui päkapikud, kuid pikemad kui gnoomid. Nende kodud on talud ja maad, kus külad moodustavad tihedalt seotud kogukondi. Poolpikad on kõige vähem seiklushimulised rassid ja võivad jääda suuresti tähelepanuta, kuna nad ei kujuta kellelegi mingit ohtu.
+Rahumeelsed, tsiviliseeritud inimesed, kes elavad peamiselt agraarset elu, on poolpikad väikesed humanoidid, kes, olles keskmiselt 4 jala kuni 4 jala 3 tolli pikkused, on lühemad kui kääbused, kuid pikemad kui päkapikud. Nende kodud on farmid ja talud, kus külad moodustavad tihedalt seotud kogukondi. Poolpikad on kõige vähem seiklushimulised rassid ja võivad jääda suuresti märkamata, kuna nad ei kujuta kellelegi mingit ohtu.
 
-Esmapilgul võib poolpikke pidada lasteks, kuid erinevused on lähemal vaatlusel ilmsed. Poolpikkadel on teravad kõrvad ning naha, juuste ja silmade värvid, mis jäävad tavapärasesse vahemikku. Neil on suured, robustsed jalad, mis on keha jaoks liiga suured ja tavaliselt üsna karvased. Kingadest ja saabastest loobutakse; jalatald on äärmiselt paks, pakkudes enam kui piisavat kaitset kivide vastu.
+Esmapilgul võib poolpikad segi ajada lastega, kuid erinevused on tähelepanelikul vaatlusel ilmsed. Poolpikkadel on teravatipulised kõrvad ning naha-, juuste- ja silmavärvid, mis jäävad normaalsesse vahemikku. Neil on suured, vastupidavad jalad, mis on keha kohta liiga suured ja tavaliselt üsna karvased. Kingi ja saapaid välditakse; jalatald on äärmiselt paks, pakkudes enam kui piisavat kaitset kivide ja klibu eest.
 
-Kuigi nad on üldiselt seiklushimuta, on poolpikad uudishimulikud. Nad tahavad teada ja jagada saladusi. Nad jumaldavad lugusid, müüte ja muinasjutte ning neil on uurivad meeled. See tähendab, et välismaal olles on maailm põnev paik, mida küsitleda ja endasse võtta – ja see võib poolpikad hätta viia. Muus osas on poolpikad üsna proosalised, rahulolevad rassid, kes hoiavad omaette ja eelistavad mitte sekkuda laiemasse maailma ega lasta sel endasse sekkuda.
+Kuigi nad on üldiselt seiklusvaenulikud, on poolpikad uudishimulikud. Neile meeldib teada ja jagada saladusi. Nad jumaldavad lugusid, müüte ja valme ning neil on uuriv mõttelaad. See tähendab, et välismaal olles on maailm põnev paik, mida küsitleda ja omaks võtta – ja see võib poolpikad pahandustesse viia. Muus osas on poolpikad üsna proosalised, rahulolevad rassid, kes hoiavad omaette ega soovi ei laiemasse maailma sekkuda ega lase sellel endasse sekkuda.
 
-Enamiku teiste rasside jaoks on poolpikad lühikesed karvajalgsed kleptomaanid, mis pole täiesti alusetu vaade, kuna enamik, kes seiklushimulise elu valivad, suudavad kergesti lisada natuke hiilimist ja pettust tänu oma väikesele suurusele ja kiiretele sõrmedele, kuid ka teised klassid võivad ja on olemas. On olemas vana päkapikkude ütlus, mis kõlab: "kui teie seltskonnas on poolpikk, kontrollige oma rahakotti, kui see on kadunud, kontrollige tema oma."
+Enamiku teiste rasside jaoks on poolpikad lühikesed karvajalgsed kleptomaanid, mis pole täiesti alusetu vaade, kuna enamik neist, kes seiklushimulise elu valivad, suudavad tänu oma väikesele suurusele ja kiiretele sõrmedele kergesti hiilimist ja pettust rakendada, kuid teisi klasse võib ja leidubki. On vana kääbustest vanasõna, mis ütleb: "kui su seltskonnas on poolpikk, kontrolli oma rahakotti, kui see on kadunud, kontrolli tema oma."
 
-Vaatamata sellele, et nad on füüsiliselt väiksemad ja nõrgemad kui enamik teisi mõistuslikke liike, kompenseerivad poolpikad seda teatud nobedusega, mis teenib neid hästi keerulistes olukordades. Kuigi nad on ettevaatlikud, ei ole nad argpüksid: poolpikad võivad öelda, et nad on, kuid kui on vaja võidelda oma kodude ja eluviisi eest, suudavad nad kokku koguda tohutud julgusvarud. Lühidalt öeldes on poolpikad head tegelaskujud, eriti neile mängijatele, kes eelistavad ümber hiilimist jõulisele mööda nõmme kõndimisele. Nad on pikaealised, elades umbes 170-aastaseks.
+Vaatamata sellele, et nad on füüsiliselt väiksemad ja nõrgemad kui enamik teisi mõistuslikke liike, kompenseerivad poolpikad seda teatud väledusega, mis teenib neid hästi keerulistes olukordades. Kuigi nad on ettevaatlikud, ei ole nad argpüksid: poolpikad võivad küll öelda, et on, kuid kui tuleb võidelda oma kodu ja eluviisi eest, suudavad nad kokku kutsuda tohutud vapruse varud. Lühidalt öeldes on poolpikad head tegelased, eriti neile mängijatele, kes eelistavad hiilimist üle nõmme julgelt sammumisele. Nad on pikaealised, eluiga on umbes 170 aastat.
 
 #### Kultuur
 
-Poolpikkade kultuur on sarnane tsiviliseeritud kultuuriga. Nad elavad väikestes kogukondades, mida nimetatakse shire'ideks, tihedalt seotud külad ja väikelinnad, kus mitmed laiendatud perekonnad moodustavad kogukonna aluse. Nende tööstusharud on algelised: peamiselt põllumajandus, aga ka käsitöö nagu keraamika, kudumine, nahatöö ja tekstiilid. Nad töötlevad metalli, kuid väga harva relvade ja soomusrüüde jaoks. Nagu haldjad, ei lahku enamik poolpikke kunagi oma kogukondadest. Selle asemel eelistavad nad jääda koju, süües oma kaksteist toidukorda päevas, suitsetades piipu ja juues, suheldes sõprade ja lähedastega. Kuid aeg-ajalt tuleb ette poolpikk, kes saab seiklustungi. Poolpikkade tavaline kultuuriüksus on Riding (Ratsastus); piirkond, mida piiravad kolm shire'i, mis muudab iga ridingu suuruse märkimisväärselt erinevaks. Borough (Vald) koosneb kolmest Ridingust.
+Poolpikkade kultuur on sarnane tsiviliseeritud ühiskonnaga. Nad elavad väikestes kogukondades, mida nimetatakse shire'ideks, tihedalt seotud külades ja väikelinnades, kus kogukonna aluseks on mitu laiendatud perekonda. Nende tööstus on lihtne: peamiselt põllumajandus, aga ka käsitöö nagu keraamika, kudumine, nahatöö ja tekstiilid. Nad töötlevad metalle, kuid väga harva relvade ja turviste jaoks. Nagu päkapikud, ei lahku enamik poolpikad kunagi oma kogukondadest. Selle asemel eelistavad nad kodus püsida, süüa oma kaksteist toidukorda päevas, suitsetada piibutubakat ja juua, suheldes samal ajal sõprade ja lähedastega. Kuid aeg-ajalt tuleb ette poolpikk, keda valdab seiklushimu. Levinud kultuuriüksus poolpikkade jaoks on Riding; ala, mida piiravad kolm shire'i, mis muudab iga riding'u suuruse märkimisväärselt erinevaks. Borough moodustub kolmest riding'ust.
 
 #### Oskused
 
-- **Vabaoskused:** Kombed +40, Keel (Üldkeel) +40, Keel (Poolpikk) +40
-- **Tavaoskused:** Tantsimine või Laulmine, Kõrvalehoidumine, Taiplikkus, Kohaliku olu tundmine, Taju, Hiilimine, Tahtejõud
-- **Elukutseoskused:** Kunst, Kaubandus, Käsitöö, Viisakus, Keel (mis tahes\*), Pärimus, Muusikaline oskus, Tänavatarkus.
+- **Vabad oskused:** Tavad +40, Keel (üldkeel) +40, Keel (poolpika) +40
+- **Tavaoskused:** Tantsimine või Laulmine, Põiklemine, Taiplikkus, Paikkond, Tajumine, Hiilimine, Tahtejõud
+- **Erialaoskused:** Kunst (mis tahes), Kaubandus, Käsitöö (mis tahes), Viisakus, Keel (mis tahes*), Teadmised (mis tahes), Muusikategemine, Tänavatarkus.
 
-_\* Tegelase loomise ajal on täiendavad keeled piiratud päkapiku, haldja, gnoomi, goblini ja orki keelega._
+_\* Tegelase loomisel on lisakeeled piiratud kääbus-, päkapiku-, päkapiku-, goblini- ja orgikeelega._
 
-#### Maailmavaade ja kired
+#### Ilmavaade ja kired
 
-- **Maailmavaade:** Mis tahes, kuid tavaliselt Seaduskuulekas Hea; vali üks või kaks kummastki või vali mõni muu maailmavaade.
-  - **Seaduskuulekas** (aus, auväärne, usaldusväärne, usaldav, viisakas)
-  - **Hea** (imetlusväärne, altruistlik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurjust, abivalmis, lahke, armastab loodust, halastav, optimistlik, positiivne, taimetoitlane)
+- **Ilmavaade:** Mis tahes, kuid tavaliselt Seaduskuulekas Hea, vali üks või kaks igast või vali erinev ilmavaade.
+  - **Seaduskuulekas** (Aus, auväärne, usaldusväärne, usaldav, usaldusväärne, viisakas)
+  - **Hea** (Imetlusväärne, altruistlik, heategevuslik, südametunnistus süütute kahjustamise vastu, korralik, eetiline, andestav, sõbralik, vihkab kurjust, abivalmis, lahke, loodust armastav, halastav, optimistlik, positiivne, taimetoitlane)
 - **Kirg:** Mis tahes, kuid tavaliselt üks või kaks järgmistest:
   - Lojaalsus (Shire, Riding või Borough)
-  - Armastus (midagi emotsionaalset)
-  - Viha (rasketööstus)
+  - Armastus (emotsionaalne asi)
+  - Vihkamine (rasketööstus)
 
 #### Erireeglid
 
 - **Liikumine:** 15 jalga.
-- **Kirjaoskaja:** Poolpikad oskavad tavaliselt lugeda ja kirjutada kõiki keeli, mida nad räägivad.
-- **Maagia vastupanu:** Nagu päkapikud, on poolpikad väga vastupidavad arkaanilisele maagiale, kusjuures Tahtejõu-testid on ühe astme võrra lihtsamad, kui neid kasutatakse vastupanu osutamiseks. See vastupanu ei mõjuta jumalikku maagiat.
-- **Mürgi vastupanu:** Poolpikad on samuti väga vastupidavad mürgile, kusjuures Vastupidavuse visked, mis on seotud mürgitamisega, on ühe astme võrra lihtsamad.
-- **Hiiliv:** Poolpikad, kes kannavad vaid kerget soomusrüüd, leiavad, et hiilimistestid on 1 astme võrra lihtsamad.
-- **Taluvus äärmuslikes oludes (jalad):** Poolpikad ei kannata mingit negatiivset mõju paljajalu käimisest, olenemata temperatuurist. Nad kannatavad äärmuslike olude all normaalselt, mis puudutab nende keha muud osa.
+- **Kirjaoskus:** Poolpikad on tavaliselt võimelised lugema ja kirjutama mis tahes keelt, mida nad räägivad.
+- **Maagiatõrje:** Nagu kääbused, on ka poolpikad väga vastupidavad Arkaansele maagiale; Tahtejõu kontrollvisked on 1 astme võrra lihtsamad, kui neid kasutatakse tõrjumiseks. See tõrje ei mõjuta jumalikku maagiat.
+- **Mürgitustõrje:** Poolpikad on ka väga vastupidavad mürgile, kusjuures Vastupidavuse täringuvisked, mis on seotud mürgitusega, on 1 astme võrra lihtsamad.
+- **Hiilimine:** Poolpikad, kes ei kanna kergest turvisest piiravamat varustust, leiavad, et Hiilimise testid on 1 astme võrra lihtsamad.
+- **Taluvus välistingimuste suhtes (jalad):** Poolpikad ei kannata mingit negatiivset mõju välistingimustest, kui nad käivad paljajalu, sõltumata temperatuurist. Ülejäänud kehaosa suhtes kannatavad nad välistingimuste mõju all tavapäraselt.
