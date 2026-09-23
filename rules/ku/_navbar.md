@@ -1,4 +1,0 @@
-- [پەڕەی سەرەکی](README.md)
-- [چۆنیەتی](HowTo.md)
-- [گۆڕانکارییەکان](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)

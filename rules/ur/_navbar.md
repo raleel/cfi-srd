@@ -1,4 +1,0 @@
-- [ہوم](README.md)
-- [طریقہ کار](HowTo.md)
-- [تبدیلیوں کی فہرست](Changelog.md)
-- [گٹ ہب](https://github.com/raleel/cfi-srd)
