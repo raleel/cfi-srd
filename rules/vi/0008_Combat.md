@@ -1,606 +1,578 @@
-# Chương 8: Chiến đấu
+# Chương 8: Chiến Đấu
 
-Chiến đấu là một tính năng quan trọng trong các trò chơi nhập vai. Đối đầu bạo lực luôn là một cách để giải quyết vấn đề, từ những cuộc chiến trả thù giữa các kẻ thù không đội trời chung, cho đến sự va chạm của các đội quân trong thời chiến. Tuy nhiên, chiến đấu không nhất thiết phải là một trận chiến tàn khốc đến chết. Một số cuộc chạm trán chiến đấu có thể là những màn đấu kiếm đầy kịch tính kết thúc mà không gây thương tích, hoặc có thể là những cuộc ẩu đả nhẹ nhàng trong quán rượu. _Classic Fantasy Imperative_ sử dụng một số thuật ngữ để giải thích các yếu tố cốt lõi của chiến đấu. Những thuật ngữ này được giải thích trong các phần dưới đây, nhưng nhìn chung bao gồm:
+Chiến đấu là một tính năng quan trọng của các trò chơi nhập vai. Đối đầu bạo lực từ lâu đã là một cách giải quyết vấn đề, từ những cuộc chiến báo thù giữa kẻ thù không đội trời chung, cho đến sự va chạm của các đội quân trong thời chiến. Tuy nhiên, chiến đấu không nhất thiết phải là một trận chiến tàn khốc đến chết. Một số cuộc chạm trán chiến đấu có thể là những màn đấu kiếm đầy tính sử thi kết thúc mà không gây thương tích, hoặc có thể là những cuộc ẩu đả nhẹ nhàng trong quán rượu. _Classic Fantasy Imperative_ sử dụng một vài thuật ngữ để giải thích các yếu tố cốt lõi của chiến đấu. Những thuật ngữ này được giải thích trong các phần sau, nhưng nhìn chung, đó là:
 
-- **Kỹ năng Chiến đấu (Combat Skill):** Kỹ năng sử dụng một nhóm vũ khí được học như một phần của văn hóa hoặc nghề nghiệp.
-- **Hiệp Chiến đấu (Combat Rounds):** Các phân đoạn thời gian kế toán, mỗi hiệp dài năm giây.
-- **Hành động Chiến đấu (Combat Actions):** Các hành động mà một nhân vật có thể thực hiện trong một Hiệp bằng cách tiêu tốn Điểm Hành động.
-- **Kích thước Vũ khí (Weapon Size):** Độ khó để Đỡ đòn (Parry) một loại vũ khí cụ thể.
-- **Giao chiến (Engagement):** Khi các chiến binh có thể đánh hoặc bị đánh trực tiếp bởi đối thủ, tùy thuộc vào hoàn cảnh.
-- **Hiệu ứng Đặc biệt (Special Effects):** Các kỹ thuật chiến đấu có thể được thực hiện nếu một chiến binh chiếm thế thượng phong.
-
----
-## Kỹ năng Chiến đấu
-
-Kỹ năng chiến đấu đại diện cho một 'gói' gồm nhiều vũ khí liên quan theo Loại (Class), giúp tránh việc phải học từng loại vũ khí riêng lẻ.
-
-Khía cạnh quan trọng nhất của Kỹ năng Chiến đấu là nhân vật học cách sử dụng từng loại vũ khí trong kỹ năng đó, cả đơn lẻ và kết hợp để chúng có thể thay thế cho nhau khi cần thiết. Huấn luyện chiến đấu không chỉ tập trung vào việc sử dụng một loại vũ khí cụ thể trong điều kiện tốt nhất, mà còn bao gồm những việc cần làm khi rơi vào thế bất lợi nghiêm trọng. Việc huấn luyện chéo như vậy là một phần chính yếu trong việc chuẩn bị cho một chiến binh trước những sự kiện khó lường trên chiến trường, nơi mà việc vũ khí bị gãy hoặc bị tước vũ khí luôn là một khả năng tiềm tàng.
-
-Tất cả các Loại nhân vật đều cung cấp chương trình đào tạo về Kỹ năng Chiến đấu của họ. Điều này có thể chỉ là một vài loại vũ khí như trong trường hợp của pháp sư, hoặc bao gồm tất cả các loại vũ khí và khiên như ở chiến binh.
+- **Kỹ Năng Chiến Đấu:** Kỹ năng sử dụng một nhóm vũ khí được học như một phần của văn hóa hoặc nghề nghiệp.
+- **Vòng Chiến Đấu:** Các phân đoạn thời gian ghi chép, mỗi vòng dài năm giây.
+- **Điểm Hành Động:** Các hành động có thể mà một nhân vật có thể thực hiện trong một Vòng bằng cách tiêu tốn Điểm Hành Động.
+- **Kích Thước Vũ Khí:** Độ khó khi thực hiện Đỡ Đòn (Parry) đối với một vũ khí cụ thể.
+- **Giao Chiến:** Khi các chiến binh có thể đánh hoặc bị đánh trực tiếp bởi đối thủ, tùy thuộc vào hoàn cảnh.
+- **Hiệu Ứng Đặc Biệt:** Các chiến thuật chiến đấu có thể được thực hiện nếu một chiến binh giành được ưu thế.
 
 ---
-## Tiến hành Chiến đấu
+## Kỹ Năng Chiến Đấu
 
-Để nhấn mạnh bản chất chân thực của nó, chiến đấu được theo dõi trên cơ sở từng đòn đánh. Để dễ dàng quản lý, các cuộc chiến được chia thành các Hiệp Chiến đấu, mỗi hiệp dài năm giây. Trong thời gian này, các chiến binh có thể thực hiện các cuộc tấn công cận chiến hoặc phòng thủ trước chúng, di chuyển vào và ra khỏi vùng chiến đấu, bắn hoặc ném vũ khí Tầm xa, v.v. Giống như cuộc sống thực, hầu hết các cuộc giao tranh – một khi đã bắt đầu – đều kết thúc trong vài giây thay vì vài phút. Theo thuật ngữ trò chơi, điều này có nghĩa là một vài Hiệp Chiến đấu (thường là ba hoặc ít hơn), trừ khi những người tham gia rút lui để thiết lập lại Sáng kiến (Initiative), đánh giá lại tình hình chiến thuật hoặc chỉ đơn giản là nghỉ ngơi trong giây lát trước khi giao chiến trở lại. Chỉ những cuộc chiến giữa các đối thủ ngang tài ngang sức hoặc các chuỗi đối thủ mới có xu hướng kéo dài hơn.
+Kỹ năng chiến đấu đại diện cho một 'gói' gồm nhiều vũ khí liên quan theo Giai Cấp, giúp tránh việc phải học từng loại vũ khí riêng biệt.
 
-Các Hiệp Chiến đấu sử dụng một số thuật ngữ quan trọng:
+Khía cạnh quan trọng nhất của Kỹ Năng Chiến Đấu là nhân vật học cách sử dụng từng vũ khí trong kỹ năng đó, cả đơn lẻ và kết hợp để có thể thay đổi tùy ý khi cần thiết. Huấn luyện chiến đấu không chỉ tập trung vào việc sử dụng một vũ khí cụ thể hoặc các vũ khí trong điều kiện tốt nhất, mà còn bao gồm những việc cần làm khi bị đặt vào thế bất lợi nghiêm trọng. Việc huấn luyện chéo như vậy là một phần quan trọng trong việc chuẩn bị cho một chiến binh trước những sự kiện không thể đoán trước trên chiến trường, nơi mà khả năng vũ khí bị gãy hoặc bị tước vũ khí luôn là một khả năng tiềm ẩn.
 
-- **Sáng kiến (Initiative):** Thứ tự của các Lượt cho biết ai hành động khi nào trong một Hiệp Chiến đấu. Quản trò (Games Master) đếm ngược các giá trị Sáng kiến từ cao nhất đến thấp nhất, để mỗi người tham gia có cơ hội thực hiện Lượt của mình khi đến số của họ.
-- **Lượt (Turns):** Trong mỗi Hiệp Chiến đấu 5 giây, mỗi người tham gia có cơ hội thực hiện một hoặc nhiều Lượt, tùy thuộc vào số Điểm Hành động mà họ sở hữu và cách họ sử dụng chúng. Khi đến Lượt của mình, người tham gia thực hiện một Hành động Chiến đấu, bao gồm việc tuyên bố, di chuyển có thể có, bất kỳ lần tung xúc xắc cần thiết nào (bao gồm Phản ứng) và giải quyết Hành động đó. Nếu bất kỳ người tham gia nào còn Điểm Hành động, người chơi có thể thực hiện thêm một Lượt nữa theo thứ tự Sáng kiến. Khi không còn Điểm Hành động, hoặc bất kỳ điểm nào còn lại đang được giữ lại cho các Phản ứng, trò chơi sẽ chuyển sang Hiệp Chiến đấu tiếp theo.
-
-Mỗi thuật ngữ được mô tả chi tiết hơn dưới đây.
-
-### Sáng kiến
-
-Sáng kiến xác định thứ tự Hành động của những người tham gia trong một Hiệp Chiến đấu. Nó được tung xúc xắc khi bắt đầu trận chiến và xác định thời điểm mỗi nhân vật hành động. Trừ khi có điều gì đó xảy ra làm thay đổi tình hình, chẳng hạn như một số Hành động Chiến đấu hoặc Hiệu ứng Đặc biệt nhất định, Sáng kiến vẫn giữ nguyên cho đến khi buộc phải tung lại.
-
-Sáng kiến được tính bằng cách mỗi người tham gia tung 1d10 và cộng thêm Bộ điều chỉnh Sáng kiến của họ. Ai có kết quả cao nhất sẽ hành động trước, tiếp theo là người cao thứ hai, v.v. Khi hai hoặc nhiều người tham gia có điểm bằng nhau, người có DEX cao hơn sẽ hành động trước. Nếu vẫn bằng nhau, hãy để mỗi người tung một viên xúc xắc, người tung ra kết quả cao hơn sẽ đi trước.
-
-### Các hành động trong Chiến đấu
-
-Khi đã xác định được Sáng kiến, những người tham gia có khả năng thực hiện một vài Hành động Chiến đấu trong mỗi Hiệp Chiến đấu. Tất cả các nhân vật mới bắt đầu đều có 2 Điểm Hành động mỗi Hiệp, và sẽ nhận thêm nhiều hơn khi lên Cấp bậc, nhưng thời điểm họ có thể hành động bị giới hạn bởi việc Hành động đó là Chủ động (Proactive) hay Phản ứng (Reactive). Các Hành động Chủ động chỉ có thể thực hiện trong Lượt của chính nhân vật đó; nghĩa là, trong khi đến lượt Sáng kiến của anh ta. Các Hành động Chủ động là những hành động mà nhân vật là người khởi xướng, chẳng hạn như thực hiện một cuộc tấn công bằng vũ khí.
-
-Các Hành động Phản ứng là những hành động được nhân vật thực hiện để chống lại hoặc kháng cự một hành động được thực hiện chống lại họ. Chỉ được phép thực hiện một nỗ lực phản ứng cho mỗi mối đe dọa, một ví dụ là cố gắng Đỡ đòn (Parry) một cuộc tấn công.
-
-Các Điểm Hành động không sử dụng sẽ không được chuyển từ Hiệp này sang Hiệp tiếp theo.
+Tất cả các Giai Cấp nhân vật đều cung cấp đào tạo về Kỹ Năng Chiến Đấu của họ. Đây có thể là một vài loại vũ khí như trong trường hợp của pháp sư, hoặc bao trùm tất cả và bao gồm mọi vũ khí và khiên, như trong trường hợp của chiến binh.
 
 ---
-## Hành động Chiến đấu
+## Điều Hành Chiến Đấu
 
-Hành động Chiến đấu là những hành động có thể được thực hiện trong trận chiến. Rút vũ khí, niệm phép hoặc lộn vòng tránh một cuộc tấn công đều là những ví dụ về Hành động Chiến đấu. Hầu hết liên quan đến các yếu tố của bản thân cuộc chiến, nhưng một số liên quan đến các hoạt động nằm ngoài phạm vi phép thuật và vũ khí.
+Để nhấn mạnh bản chất chân thực của nó, chiến đấu được theo dõi trên cơ sở từng đòn đánh. Để giảm bớt việc ghi chép, các cuộc chiến được chia thành các Vòng Chiến Đấu, mỗi vòng dài năm giây. Trong thời gian này, các chiến binh có thể thực hiện các đòn tấn công cận chiến hoặc phòng thủ trước chúng, di chuyển vào và ra khỏi trận chiến, bắn hoặc ném vũ khí Tầm Bắn, v.v. Tương tự như cuộc sống thực, hầu hết các cuộc giao tranh chiến đấu – một khi đã bắt đầu – đều kết thúc trong vài giây thay vì vài phút. Theo thuật ngữ trò chơi, điều này có nghĩa là vài Vòng Chiến Đấu (thường là ba vòng hoặc ít hơn), trừ khi những người tham gia rút lui để có thể đặt lại Tiên Cơ, đánh giá lại tình hình chiến thuật của họ, hoặc đơn giản là để tạm nghỉ một chút trước khi quay lại giao chiến. Chỉ những cuộc chiến giữa các đối thủ ngang tài ngang sức hoặc các nhóm đối thủ liên tiếp mới có xu hướng kéo dài hơn.
 
-Như đã đề cập trước đó, tần suất một nhân vật có thể hành động mỗi Hiệp bị giới hạn bởi Điểm Hành động sẵn có của họ. Chúng được tiêu tốn trong suốt mỗi Hiệp Chiến đấu để thực hiện các Hành động Chiến đấu khác nhau. Khi đã tiêu hết Điểm Hành động của một chiến binh, họ không thể hành động trong phần còn lại của Hiệp đó và phải đợi cho đến khi điểm của họ đặt lại vào đầu Hiệp tiếp theo.
+Các Vòng Chiến Đấu sử dụng một vài thuật ngữ quan trọng:
 
-Trừ khi được chỉ định khác, bất kỳ Hành động Chiến đấu nào (ngoại trừ các Hành động "Miễn phí") đều tiêu tốn một Điểm Hành động. Vì vậy, các chiến binh cần cân nhắc kỹ lưỡng cách thức và thời điểm sử dụng Điểm Hành động của mình. Họ có thể hành động tích cực hoặc phòng thủ tùy ý, phản ứng linh hoạt trước tình huống chiến đấu đang thay đổi.
+- **Tiên Cơ:** Thứ tự của các Lượt cho biết ai hành động khi nào trong một Vòng Chiến Đấu. Quản Trò đếm ngược các giá trị Tiên Cơ từ cao nhất đến thấp nhất, để mỗi người tham gia đều có cơ hội thực hiện Lượt của mình khi đến số của họ.
+- **Lượt:** Trong mỗi Vòng Chiến Đấu 5 giây, mỗi người tham gia có cơ hội thực hiện một hoặc nhiều Lượt, phụ thuộc vào số Điểm Hành Động họ sở hữu và cách họ sử dụng chúng. Vào Lượt của mình, những người tham gia thực hiện một Hành Động Chiến Đấu, bao gồm tuyên bố, di chuyển có thể, bất kỳ lần đổ xúc xắc cần thiết nào (bao gồm các Phản Ứng), và giải quyết Hành Động. Nếu bất kỳ người tham gia nào còn Điểm Hành Động, những người chơi có thể thực hiện thêm một Lượt nữa theo thứ tự Tiên Cơ. Khi không còn Điểm Hành Động, hoặc bất kỳ điểm nào còn lại đang được giữ lại cho các Phản Ứng, trò chơi sẽ chuyển sang Vòng Chiến Đấu tiếp theo.
 
----
-### Hành động Chủ động
+Mỗi thuật ngữ được mô tả chi tiết hơn bên dưới.
 
-Dưới đây là các hoạt động mà một nhân vật có thể thử trong Lượt của mình bằng cách tiêu tốn một Điểm Hành động. Lưu ý rằng một số Hành động như niệm phép hoặc nạp đạn có thể mất vài Lượt để hoàn thành; mỗi Lượt sẽ tiêu tốn Điểm Hành động của riêng nó.
+### Tiên Cơ
 
-#### Tấn công (Attack)
+Tiên Cơ xác định thứ tự các Hành Động của những người tham gia trong một Vòng Chiến Đấu. Nó được đổ xúc xắc vào lúc bắt đầu cuộc chiến và xác định thời điểm mỗi nhân vật hành động. Trừ khi có điều gì đó xảy ra làm thay đổi tình hình, chẳng hạn như một số Hành Động Chiến Đấu hoặc Hiệu Ứng Đặc Biệt, Tiên Cơ vẫn giữ nguyên cho đến khi buộc phải đổ xúc xắc lại.
 
-Nhân vật có thể cố gắng đánh bằng vũ khí cận chiến hoặc sử dụng vũ khí Tầm xa.
+Tiên Cơ được tính bằng cách mỗi người tham gia đổ 1d10 và cộng thêm Hệ Số Tiên Cơ của họ. Người nào đạt kết quả cao nhất sẽ hành động trước, tiếp theo là người cao thứ hai, v.v. Khi hai hoặc nhiều người tham gia có điểm bằng nhau, người có KL cao hơn sẽ hành động trước. Nếu vẫn tiếp tục hòa, hãy yêu cầu mỗi người đổ xúc xắc, người có kết quả cao hơn sẽ đi trước người kia.
 
-#### Thủ thế (Brace)
+### Hành Động trong Chiến Đấu
 
-Nhân vật thủ thế bằng cách đứng vững và nghiêng người theo hướng của đòn tấn công sắp tới. Với mục đích chống lại Đẩy lùi (Knockback) hoặc Nhảy tấn công, SIZ của nhân vật được coi là lớn hơn 50%. Chống lại Hiệu ứng Đặc biệt Bash, SIZ được nhân đôi.
+Khi Tiên Cơ đã được xác định, những người tham gia có tiềm năng thực hiện một vài Hành Động Chiến Đấu trong mỗi Vòng Chiến Đấu. Tất cả các nhân vật mới bắt đầu đều nhận được 2 Điểm Hành Động mỗi Vòng, với nhiều hơn được nhận khi họ tăng Cấp Bậc, nhưng thời điểm họ có thể hành động bị giới hạn bởi việc Hành Động đó là Chủ Động hay Phản Ứng. Các Hành Động Chủ Động chỉ có thể được cố gắng thực hiện vào Lượt của chính nhân vật; nghĩa là, trong thời gian Tiên Cơ của họ. Hành Động Chủ Động là những hành động mà nhân vật là người khởi xướng, chẳng hạn như thực hiện một đòn tấn công bằng vũ khí.
 
-#### Niệm phép (Cast Magic)
+Các Hành Động Phản Ứng là những hành động được nhân vật thực hiện để chống lại hoặc kháng cự một hành động nhắm vào họ. Chỉ một nỗ lực phản ứng được cho phép cho mỗi mối đe dọa, một ví dụ là cố gắng Đỡ Đòn một đòn tấn công.
 
-Nhân vật có thể cố gắng niệm một phép thuật, kích hoạt các khả năng chủng tộc hoặc lớp nhân vật nhất định, hoặc tạo ra một hiệu ứng ma thuật khác. Các phép thuật phức tạp có thể yêu cầu vài Hành động để hoàn thành việc niệm. Sau khi kết thúc, ma thuật có thể được giải phóng vào bất kỳ lúc nào cho đến Lượt tiếp theo của người niệm – tại thời điểm đó, nó có thể được giữ lại để sử dụng sau, nhưng điều này đòi hỏi Hành động [Giữ Ma thuật](0008_Combat.md?id=hold-magic) (xem bên dưới) để duy trì sự chuẩn bị cho việc giải phóng sau này.
-
-#### Thay đổi Tầm xa (Change Range)
-
-Nhân vật có thể cố gắng áp sát hoặc rút lui khỏi đối thủ.
-
-#### Xung phong (Charge)
-
-Hành động Xung phong cho phép nhân vật di chuyển vào tầm giao chiến với tốc độ chạy hoặc chạy nước rút, sử dụng động năng của cú xung phong để thực hiện một cuộc tấn công cận chiến mạnh mẽ hơn. [Xung phong](0008_Combat.md?id=charging) được đề cập chi tiết hơn bên dưới.
-
-#### Trì hoãn (Delay)
-
-Nhân vật bảo toàn một hoặc nhiều Hành động để thực hiện các Hành động Phản ứng sau đó, chẳng hạn như Ngắt quãng (Interrupt) hoặc Đỡ đòn (Parry). Chi phí Điểm Hành động của việc trì hoãn được bao gồm bởi bất kỳ hành động nào cuối cùng được thực hiện. Nếu các Hành động bị trì hoãn không được thực hiện trước Lượt của nhân vật trong Hiệp tiếp theo, thì nhân vật đó được coi là đã Bỏ qua và Điểm Hành động sẽ bị mất.
-
-#### Do dự (Dither)
-
-Lựa chọn mặc định trừ khi một Hành động khác được chọn, nhân vật đơn giản là lãng phí lượt của mình mà không làm gì có ích.
-
-#### Giữ Ma thuật (Hold Magic)
-
-Sau khi niệm xong, nhân vật có thể tạm thời giữ phép thuật, chờ đợi thời điểm tốt nhất để giải phóng nó. Ma thuật có thể được giữ lại chừng nào nhân vật tiếp tục thực hiện Hành động này trong các Lượt tiếp theo, nhưng điều này cho phép kẻ địch sử dụng miễn phí phản ứng Phản phép (Counter Spell) nếu phù hợp với phép thuật. Lần tung xúc xắc kỹ năng thực tế để niệm phép đã giữ không được thực hiện cho đến khi nó được giải phóng.
-
-#### Hối hả (Hustle)
-
-Miễn là không Giao chiến với đối thủ, nhân vật có thể di chuyển theo Tốc độ Chạy (lên đến 3x Tốc độ Di chuyển Cơ bản) hoặc Chạy nước rút (lên đến 5x Tốc độ Di chuyển). Tuy nhiên, nhân vật không thể thực hiện hoặc đã thực hiện bất kỳ Hành động Chủ động nào khác trong lượt này, bao gồm cả các di chuyển khác.
-
-#### Cưỡi (Mount)
-
-Nhân vật có thể cưỡi hoặc xuống thú cưỡi hoặc phương tiện. Các loại thú cưỡi đặc biệt lớn có thể yêu cầu vài Lượt để hoàn thành.
-
-#### Di chuyển (Move)
-
-Miễn là không Giao chiến với đối thủ; nhân vật có thể di chuyển lên đến Tốc độ Di chuyển Cơ bản. Nếu điều này đưa họ vào vị trí tiếp xúc với kẻ thù, họ có thể thực hiện một cuộc tấn công cận chiến mà không cần tiêu tốn thêm Hành động để làm như vậy, dù thế nào đi nữa, nhân vật sau đó được coi là đang Giao chiến. Không giống như Hành động Hối hả, Hành động Di chuyển có thể được thực hiện nhiều lần trong một Hiệp Chiến đấu.
-
-#### Vượt mặt (Outmaneuver)
-
-Nhân vật có thể đối phó với nhiều đối thủ trong một lần Tung xúc xắc Đối lập của các kỹ năng Né tránh. Những kẻ không vượt qua được lần tung xúc xắc của anh ta sẽ không thể tấn công anh ta trong Hiệp Chiến đấu đó. Xem phần [Vượt mặt](0008_Combat.md?id=outmaneuvering).
-
-#### Chuẩn bị (Ready)
-
-Nhân vật có thể lấy, rút, bao, thu hồi hoặc nạp lại vũ khí hoặc đồ vật khác. Việc lấy lại một đồ vật bị rơi gần đó yêu cầu 2 Hành động: một để di chuyển và cúi xuống lấy đồ vật và hai là để trở lại tư thế sẵn sàng. Một số vũ khí tầm xa yêu cầu vài Hành động để nạp đạn.
-
-#### Lấy lại tư thế (Regain Footing)
-
-Nếu không giao chiến với đối thủ, nhân vật có thể tự động lấy lại tư thế sau khi bị vấp hoặc bị đánh ngã. Nếu đang Giao chiến, nhân vật phải thắng trong Bài kiểm tra Đối lập về Sức mạnh (Brawn) hoặc Thể thao (Athletics) với đối thủ trước khi đứng dậy.
-
-#### Vùng vẫy (Struggle)
-
-Nếu nhân vật là nạn nhân của các loại tấn công hoặc Hiệu ứng Đặc biệt nhất định, họ có thể cố gắng thoát khỏi tình huống đó. Ví dụ, thoát khỏi một cú Vật (Grapple).
-
-#### Tìm chỗ nấp (Take Cover)
-
-Tìm chỗ nấp là một Hành động Chủ động cho phép nhân vật ẩn nấp sau vật che chắn gần đó, từ đó đạt được một mức độ bảo vệ nhất định chống lại các đòn tấn công tầm xa và phép thuật. Không giống như Né tránh, nó không khiến người dùng nằm sấp nhưng dựa vào việc có vật che chắn sẵn có; ví dụ, lùi lại sau góc tường trong hành lang hoặc cúi xuống sau cái bàn trong quán rượu.
+Các Điểm Hành Động không sử dụng không được chuyển sang Vòng tiếp theo.
 
 ---
-### Hành động Phản ứng
+## Hành Động Chiến Đấu
 
-Danh sách này chỉ định các phản ứng có thể được sử dụng bất cứ lúc nào trong Hiệp Chiến đấu như một phản ứng trước mối đe dọa sắp xảy ra. Như trong danh sách trước, một phản ứng tiêu tốn một Điểm Hành động để thực hiện.
+Hành Động Chiến Đấu là những hành động có thể được thực hiện trong trận chiến. Rút vũ khí, thi triển phép thuật, hoặc né tránh một đòn tấn công đều là những ví dụ về Hành Động Chiến Đấu. Hầu hết đều liên quan đến các yếu tố của chính trận chiến, nhưng một số liên quan đến các hoạt động nằm ngoài lĩnh vực phép thuật và vũ khí.
 
-#### Phản phép (Counter Spell)
+Như đã đề cập trước đó, tần suất một nhân vật có thể hành động mỗi Vòng bị giới hạn bởi Điểm Hành Động sẵn có của họ. Những điểm này được tiêu tốn trong suốt mỗi Vòng Chiến Đấu để thực hiện các Hành Động Chiến Đấu khác nhau. Khi các Điểm Hành Động của một chiến binh đã cạn kiệt, họ không thể hành động thêm trong phần còn lại của Vòng đó và phải đợi cho đến khi điểm của họ được đặt lại vào đầu Vòng tiếp theo.
 
-Nhân vật có thể cố gắng hủy bỏ hoặc chống lại một phép thuật đang nhắm vào mình. Điều này giả định rằng ma thuật phản công có Thời gian Niệm là một Lượt, nếu không nó phải được chuẩn bị trước và tạm thời giữ lại bằng Hành động Giữ Ma thuật. Việc chặn ma thuật thành công theo cách này được coi là vô hiệu hóa toàn bộ phép thuật, ngay cả những phép thuật có nhiều mục tiêu hoặc vùng ảnh hưởng.
-
-#### Né tránh (Evade)
-
-Nhân vật có thể sử dụng kỹ năng Né tránh để cố gắng lặn tránh các mối đe dọa như tên bay hoặc đòn tấn công xung phong. Điều này khiến nhân vật nằm sấp trừ khi được giảm thiểu bởi một Khả năng hoặc hoàn cảnh đặc biệt. Do đó, lượt tiếp theo của nhân vật thường dành để thực hiện Hành động Lấy lại tư thế để đứng lên. Khi Né tránh các đòn tấn công bằng hơi thở hoặc các đòn tấn công vùng ảnh hưởng khác, nếu cách rìa vùng ảnh hưởng trong vòng 10 feet, một cú Né tránh thành công sẽ cho phép bạn lặn vào nơi an toàn và không nhận sát thương thay vì nhận một nửa. Điều này vẫn sẽ khiến bạn nằm sấp, bất kể bất kỳ hậu quả đặc biệt nào có thể xóa bỏ hình phạt đó. Xem [Né tránh](0008_Combat.md?id=evading) để biết thêm chi tiết.
-
-#### Ngắt quãng (Interrupt)
-
-Chỉ dành cho các nhân vật đang Trì hoãn. Hành động Phản ứng này tạm dừng Lượt của đối thủ tại bất kỳ điểm nào để thực hiện một Hành động Lượt bị trì hoãn. Giả sử không có thay đổi trong tình hình chiến thuật, đối thủ tiếp tục Lượt sau khi Lượt của nhân vật kết thúc. Nếu không thể đạt được tuyên bố ban đầu, Điểm Hành động của đối thủ sẽ bị lãng phí. Một cú ngắt quãng cũng có thể được sử dụng để thực hiện một cuộc tấn công cơ hội chống lại bất kỳ ai đi ngang qua nhân vật đang trì hoãn và nằm trong tầm với của vũ khí.
-
-#### Đỡ đòn (Parry)
-
-Nhân vật có thể cố gắng phòng thủ trước một đòn tấn công sắp tới bằng cách kết hợp Đỡ đòn, nghiêng người, cúi thấp và di chuyển bước chân để giảm thiểu tác động của đòn đánh.
+Trừ khi có quy định khác, bất kỳ Hành Động Chiến Đấu nào (ngoại trừ các Hành Động "Miễn Phí") đều tiêu tốn một Điểm Hành Động. Do đó, các chiến binh cần cân nhắc kỹ cách thức và thời điểm sử dụng Điểm Hành Động của mình. Họ có thể hành động hung hăng hoặc phòng thủ tùy ý, phản ứng linh hoạt với hoàn cảnh đang diễn biến của trận chiến.
 
 ---
-### Hành động Miễn phí
+### Hành Động Chủ Động
 
-Các Hành động Miễn phí (được liệt kê bên dưới) có thể được thực hiện bất cứ lúc nào trong Hiệp Chiến đấu và không tốn Điểm Hành động.
+Dưới đây là các hoạt động mà một nhân vật có thể cố gắng thực hiện vào Lượt của mình bằng cách tiêu tốn một Điểm Hành Động. Lưu ý rằng một số Hành Động như thi triển phép thuật hoặc nạp đạn có thể mất vài Lượt để hoàn thành; mỗi Lượt tiêu tốn Điểm Hành Động riêng của nó.
 
-#### Đánh giá tình hình (Assess Situation)
+#### Tấn Công
 
-Nếu không giao chiến, nhân vật có thể thực hiện một lần tung xúc xắc Nhận thức (Perception) mà không tốn Điểm Hành động. Thành công sẽ tiết lộ bất kỳ thay đổi nào liên quan trong tình hình chiến thuật (chẳng hạn như phát hiện kẻ thù bắt đầu xung phong). Đánh giá trong khi Đang chạy dẫn đến một lần tung xúc xắc Nhận thức Khó, Chạy nước rút dẫn đến mức độ Đáng gờm.
+Nhân vật có thể cố gắng đánh bằng vũ khí cận chiến hoặc sử dụng vũ khí Tầm Bắn.
 
-#### Thả vật phẩm (Drop Item)
+#### Đỡ Bằng Thân (Brace)
 
-Thả một vật phẩm là một Hành động Miễn phí.
+Nhân vật thực hiện Đỡ Bằng Thân bằng cách đứng vững và nghiêng người theo hướng của đòn tấn công sắp tới. Với mục đích kháng cự Đẩy Lùi hoặc Tấn Công Nhảy, KT của nhân vật được coi là lớn hơn 50%. Chống lại Hiệu Ứng Đặc Biệt Đập Mạnh, KT được nhân đôi.
 
-#### Ra tín hiệu (Signal)
+#### Thi Triển Phép Thuật
 
-Nếu không giao chiến, việc ra dấu hoặc ra tín hiệu cho một hoặc nhiều người tham gia (nếu họ có thể nhận thức được dấu hiệu) là một Hành động Miễn phí.
+Nhân vật có thể cố gắng thi triển một phép thuật, gọi các khả năng chủng tộc hoặc giai cấp nhất định, hoặc tạo ra một hiệu ứng ma thuật khác. Các loại ma thuật phức tạp có thể yêu cầu vài Hành Động để hoàn thành việc thi triển. Sau khi hoàn thành, ma thuật có thể được giải phóng bất cứ lúc nào cho đến Lượt tiếp theo của người thi triển – tại thời điểm đó, nó có thể được giữ lại để tạo hiệu ứng sau này, nhưng điều này yêu cầu Hành Động [Giữ Phép Thuật](0008_Combat.md?id=hold-magic) (xem bên dưới) để duy trì nó trong quá trình chuẩn bị cho lần giải phóng sau.
 
-#### Nói (Speak)
+#### Thay Đổi Tầm Bắn
 
-Nhân vật có thể nói bất cứ lúc nào trong trận chiến, nhưng nội dung nói nên giới hạn ở những cụm từ ngắn có thể thốt ra trong năm giây hoặc ít hơn; ví dụ: 'Cẩn thận phía sau kìa!' hoặc 'Chết tiệt!'
+Nhân vật có thể cố gắng áp sát hoặc rút lui khỏi một đối thủ.
 
-#### Sử dụng Điểm May mắn (Use Luck Point)
+#### Xung Phong
 
-Sử dụng Điểm May mắn – chẳng hạn như để tung lại một kết quả cụ thể – là một Hành động Miễn phí.
+Hành Động Xung Phong cho phép nhân vật di chuyển vào tầm giao chiến ở tốc độ chạy hoặc nước rút, sử dụng đà của cú xung phong để thực hiện một đòn tấn công cận chiến mạnh mẽ hơn. [Xung Phong](0008_Combat.md?id=charging) được đề cập chi tiết hơn bên dưới.
 
-#### Bảo vệ Vị trí (Ward Location)
+#### Trì Hoãn
 
-Nhân vật bảo vệ một Vị trí Trúng đòn (Hit Location) cụ thể khỏi bị đánh bằng cách dành một trong các vũ khí của mình để chặn thụ động khu vực đó. Mọi đòn đánh trúng vị trí đó sẽ tự động bị giảm sát thương như bình thường đối với một vũ khí Đỡ đòn cùng Kích thước. Sự che chắn này tiếp tục cho đến khi vũ khí được chỉ định được sử dụng để tấn công hoặc Đỡ đòn chủ động. Việc thiết lập hoặc thay đổi Vị trí Trúng đòn được bảo vệ phải được thực hiện trước khi đối thủ tung xúc xắc để tấn công nhân vật. Do thiết kế, khiên có thể che chắn nhiều khu vực.
+Nhân vật bảo toàn một hoặc nhiều Hành Động để thực hiện các Hành Động Phản Ứng sau này, chẳng hạn như Ngắt Quãng hoặc Đỡ Đòn. Chi phí Điểm Hành Động của việc trì hoãn được bao gồm bởi bất cứ hành động nào cuối cùng được thực hiện. Nếu các Hành Động bị trì hoãn không được thực hiện trước Lượt của nhân vật trong Vòng tiếp theo, thì nhân vật đó được coi là đã Bỏ Qua và Điểm Hành Động bị mất.
 
-Để biết thêm giải thích, xem [Chặn thụ động](0008_Combat.md?id=passive-blocking).
+#### Do Dự
+
+Tùy chọn mặc định trừ khi một Hành Động khác được chọn, nhân vật chỉ đơn giản lãng phí lượt của mình mà không làm gì hữu ích.
+
+#### Giữ Phép Thuật
+
+Sau khi hoàn tất việc thi triển, nhân vật có thể giữ một phép thuật trong tầm kiểm soát tạm thời, chờ đợi thời điểm tốt nhất để giải phóng nó. Ma thuật có thể được giữ lại chừng nào nhân vật còn tiếp tục thực hiện Hành Động này trong các Lượt tiếp theo, nhưng điều này cho phép kẻ thù sử dụng miễn phí phản ứng Phản Phép nếu có liên quan đến phép thuật đó. Việc đổ xúc xắc kỹ năng thực tế để thi triển phép thuật được giữ lại sẽ không được thực hiện cho đến khi nó được thi triển.
+
+#### Hối Hả
+
+Miễn là họ không Giao Chiến với đối thủ, nhân vật có thể di chuyển ở tốc độ Chạy (lên đến 3x Tốc Độ Di Chuyển Cơ Bản) hoặc Nước Rút (lên đến 5x Tốc Độ Di Chuyển). Tuy nhiên, người chơi không thể thực hiện hoặc đã thực hiện bất kỳ Hành Động Chủ Động nào khác trong lượt này, bao gồm cả các di chuyển khác.
+
+#### Cưỡi
+
+Nhân vật có thể cưỡi hoặc xuống khỏi một TC thú cưỡi hoặc phương tiện. Các loại thú cưỡi đặc biệt lớn có thể yêu cầu vài Lượt để hoàn thành.
+
+#### Di Chuyển
+
+Miễn là không Giao Chiến với đối thủ; nhân vật có thể di chuyển tối đa Tốc Độ Di Chuyển Cơ Bản. Nếu điều này đưa họ tiếp xúc với kẻ thù, họ có thể thực hiện một đòn tấn công cận chiến mà không cần tiêu tốn thêm Hành Động để thực hiện, dù thế nào đi nữa, nhân vật đó sau đó được coi là đang Giao Chiến. Không giống như Hành Động Hối Hả, Hành Động Di Chuyển có thể được thực hiện nhiều lần trong một Vòng Chiến Đấu.
+
+#### Cơ Động
+
+Nhân vật có thể giao chiến với nhiều đối thủ trong một lần Đổ Xúc Xắc Đối Kháng kỹ năng Né Tránh của cả nhóm. Những kẻ không vượt qua được lần đổ xúc xắc của anh ta sẽ không thể tấn công anh ta trong Vòng Chiến Đấu đó. Xem phần về [Cơ Động](0008_Combat.md?id=outmaneuvering).
+
+#### Chuẩn Bị
+
+Nhân vật có thể lấy, rút, cất, thu hồi, hoặc nạp đạn vũ khí hoặc vật phẩm khác. Việc lấy một vật phẩm rơi gần đó yêu cầu 2 Hành Động: một để di chuyển và cúi xuống lấy vật phẩm và thứ hai để trở lại tư thế sẵn sàng. Một số vũ khí tầm xa yêu cầu vài Hành Động để nạp đạn.
+
+#### Lấy Lại Thế Đứng
+
+Nếu không giao chiến với đối thủ, nhân vật có thể tự động lấy lại thế đứng sau khi bị vấp hoặc bị đánh ngã. Nếu đang Giao Chiến, nhân vật phải thắng một Bài Kiểm Tra Đối Kháng về Cơ Bắp hoặc Điền Kinh với đối thủ trước khi đứng dậy.
+
+#### Vật Lộn
+
+Nếu nhân vật là nạn nhân của các loại tấn công hoặc Hiệu Ứng Đặc Biệt nhất định, họ có thể cố gắng thoát khỏi tình huống đó. Ví dụ, thoát khỏi một đòn Khống Chế.
+
+#### Tìm Chỗ Nấp
+
+Tìm Chỗ Nấp là một Hành Động Chủ Động cho phép nhân vật cúi xuống phía sau chỗ nấp sẵn có trong vùng lân cận ngay lập tức của họ, từ đó đạt được một mức độ bảo vệ nhất định trước các đòn tấn công tầm xa và phép thuật. Không giống như Né Tránh, nó không để người dùng ở tư thế nằm sấp nhưng dựa vào một hình thức chỗ nấp nào đó có sẵn; ví dụ, lùi lại quanh một góc trong hành lang hoặc cúi xuống sau một cái bàn trong quán rượu.
 
 ---
-## Di chuyển
+### Hành Động Phản Ứng
 
-Các quy tắc sau đây quản lý việc tham gia chiến đấu:
+Danh sách này chỉ định các phản ứng có thể được sử dụng bất cứ lúc nào trong Vòng Chiến Đấu như một phản hồi đối với một mối đe dọa sắp xảy ra. Như trong danh sách trước, một phản ứng tiêu tốn một Điểm Hành Động để thực hiện.
 
-- Di chuyển được thực hiện bằng Hành động Di chuyển, Hối hả hoặc Xung phong.
-- Hành động Di chuyển cho phép nhân vật di chuyển một khoảng cách bằng Tốc độ Di chuyển Cơ bản của họ.
-- Hành động Hối hả cho phép nhân vật Chạy một khoảng cách bằng 3x Tốc độ Di chuyển, hoặc Chạy nước rút ở mức 5x Tốc độ Di chuyển.
-- Di chuyển chỉ có thể được thực hiện bởi các nhân vật không giao chiến (trừ các trường hợp đặc biệt như Vượt mặt).
-- Ngoại trừ trong một số trường hợp nhất định (như Xung phong), mọi chuyển động đáng kể đều dừng lại khi nhân vật tiến vào tầm giao chiến của đối thủ dự định.
-- Ngoại trừ trong một số trường hợp nhất định (như Xung phong xuyên qua Tiếp xúc), việc di chuyển vào vùng giao chiến của đối thủ đặt mỗi chiến binh vào trạng thái giao chiến với người kia.
-- Khi đã Giao chiến, các nhân vật không thể di chuyển ra xa đối thủ trừ khi thực hiện Rút lui khỏi cận chiến trước.
-- Cố gắng di chuyển qua một kẻ thù không giao chiến đang sử dụng Hành động Trì hoãn, cho phép (như một ngoại lệ cụ thể) đối thủ đó tấn công các nhân vật đang di chuyển khi họ đi ngang qua hoặc chặn tiến độ của nhân vật, dẫn đến cận chiến vào Lượt hoặc Hiệp tiếp theo.
+#### Phản Phép
 
-### Tốc độ Di chuyển theo tình huống
+Nhân vật có thể cố gắng bác bỏ hoặc phản lại một phép thuật sắp tới. Điều này giả định rằng ma thuật phản lại có Thời Gian Thi Triển là một Lượt, nếu không nó phải được chuẩn bị trước và tạm thời giữ lại bằng cách sử dụng Hành Động Giữ Phép Thuật. Việc chặn ma thuật thành công theo cách này được coi là vô hiệu hóa toàn bộ phép thuật, ngay cả những phép thuật có nhiều mục tiêu hoặc vùng ảnh hưởng.
 
-Các tốc độ di chuyển này mang tính tình huống và không phải lúc nào cũng là một lựa chọn. Nhiều thông tin chi tiết được đề cập ở nơi khác nhưng được đưa vào đây để thuận tiện. Hầu hết các tốc độ tình huống này có thể được sử dụng bổ sung vào Tốc độ Di chuyển bình thường theo các hạn chế đã đặt ra. Thông tin như vậy được chi tiết trong các mô tả cụ thể bên dưới.
+#### Né Tránh
 
-#### Leo trèo (Climb)
+Nhân vật có thể sử dụng kỹ năng Né Tránh của họ trong một nỗ lực để né tránh các mối đe dọa như tên lửa bay tới hoặc một đòn tấn công xung phong. Điều này khiến nhân vật ở tư thế nằm sấp trừ khi được giảm bớt bởi một Khả Năng hoặc hoàn cảnh đặc biệt. Do đó, lượt tiếp theo của nhân vật thường được dành để thực hiện Hành Động Lấy Lại Thế Đứng để đứng dậy lần nữa. Khi Né Tránh các vũ khí hơi thở hoặc các đòn tấn công Vùng Ảnh Hưởng khác, nếu trong phạm vi 10 feet tính từ mép của hiệu ứng, một lần Né Tránh thành công sẽ cho phép bạn né sang nơi an toàn và không chịu sát thương thay vì một nửa. Điều này vẫn sẽ khiến bạn nằm sấp, bất kể hậu quả đặc biệt nào có thể làm mất hiệu lực hình phạt đó. Xem [Né Tránh](0008_Combat.md?id=evading) để biết thêm chi tiết.
 
-Một nhân vật di chuyển sát hoặc bắt đầu Lượt cạnh một bề mặt hoặc vật thể có thể leo trèo có thể leo với tốc độ bằng Tốc độ Di chuyển Cơ bản. Nhân vật không được di chuyển nhanh hơn Đi bộ và phải còn dư quãng đường di chuyển, với khoảng cách leo được giảm đi bởi bất kỳ chuyển động nào đã sử dụng trước đó. Giáp mặc cản trở người leo trèo, với mỗi vị trí được che bởi giáp nhẹ tính là thêm 1 'Thứ' mang theo, và mỗi vị trí được che bởi giáp nặng tính là thêm 2 'Thứ' mang theo.
+#### Ngắt Quãng
 
-#### Bò (Crawl)
+Chỉ dành cho các nhân vật đang Trì Hoãn. Hành Động Phản Ứng này dừng Lượt của đối thủ tại bất kỳ thời điểm nào để thực hiện một Hành Động Lượt bị trì hoãn. Giả sử không có thay đổi trong tình hình chiến thuật, đối thủ tiếp tục Lượt sau khi Lượt của nhân vật hoàn tất. Nếu không thể đạt được tuyên bố ban đầu, Điểm Hành Động của đối thủ sẽ bị lãng phí. Một sự ngắt quãng cũng có thể được sử dụng để thực hiện một đòn tấn công cơ hội chống lại bất kỳ ai đi qua gần nhân vật đang trì hoãn và nằm trong tầm với của vũ khí.
 
-Một nhân vật bắt đầu Lượt ở tư thế nằm sấp có thể bò với tốc độ tối đa 5 feet mỗi Lượt thay cho Di chuyển bình thường. Các sinh vật bò tự nhiên làm phương thức di chuyển bình thường của chúng sẽ sử dụng các quy tắc cho Đi bộ, Chạy và Chạy nước rút được đặt ra ở trên.
+#### Đỡ Đòn
 
-#### Nhảy (Jump)
+Nhân vật có thể cố gắng phòng thủ trước một đòn tấn công sắp tới bằng cách sử dụng kết hợp Đỡ Đòn, nghiêng người, cúi thấp và né tránh bằng cách di chuyển chân để giảm thiểu cú đánh.
 
-Một nhân vật di chuyển sát hoặc bắt đầu Lượt cạnh một chướng ngại vật có thể nhảy qua có thể thử nhảy qua nó. Nhân vật có thể đang di chuyển ở bất kỳ tốc độ nào cho đến điểm nhảy. Một lần tung xúc xắc Thể thao thành công cho phép nhảy xa theo chiều ngang lên đến gấp đôi chiều cao của bản thân hoặc theo chiều dọc lên đến một nửa chiều cao của bản thân (nếu nhân vật có ít nhất 15 feet đà chạy). Nếu nhảy từ tư thế đứng yên, thì các khoảng cách này sẽ bị giảm một nửa. Giảm khoảng cách nhảy tính bằng feet đi một nửa tổng số 'Thứ' mang theo. Giáp mặc cản trở người nhảy, với mỗi vị trí được che bởi giáp nhẹ tính là 1 'Thứ' trong công thức tính toán nêu trên, và giáp nặng tính là 2 'Thứ.'
+---
+### Hành Động Miễn Phí
 
-Xem mô tả kỹ năng [Thể thao](0005_Skills.md?id=athletics-strdex) để biết thêm thông tin.
+Các Hành Động Miễn Phí (được liệt kê bên dưới) có thể được thực hiện bất cứ lúc nào trong Vòng Chiến Đấu và không tốn Điểm Hành Động để thực hiện.
 
-Khi Thành công Quan trọng (Critical Success), nhân vật cộng thêm 5 feet vào tổng khoảng cách của mình và vẫn đứng thẳng khi hạ cánh.
+#### Đánh Giá Tình Hình
 
-Một lần Vụng về (Fumble) cho thấy nhân vật đã hạ cánh không đúng cách. Anh ta phải thực hiện ngay một lần tung xúc xắc Sức bền (Endurance). Nếu lần tung Sức bền thành công, 1 điểm sát thương sẽ bị gây ra cho một chân. Nếu bài kiểm tra Sức bền thất bại, thì 1d4 điểm sát thương sẽ được gây ra thay thế.
+Nếu không giao chiến, nhân vật có thể thực hiện một lần đổ xúc xắc Nhận Thức mà không tốn Điểm Hành Động. Một Thành Công sẽ tiết lộ bất kỳ thay đổi phù hợp nào trong tình hình chiến thuật (chẳng hạn như phát hiện kẻ thù bắt đầu xung phong). Đánh giá trong khi Chạy dẫn đến lần đổ xúc xắc Nhận Thức Khó, Nước Rút là Ghê Gớm.
 
-#### Bơi (Swim)
+#### Thả Vật Phẩm
 
-Một nhân vật di chuyển sát hoặc bắt đầu Lượt cạnh một vùng nước có thể bơi với tốc độ bằng Tốc độ Di chuyển Cơ bản, trừ đi bất kỳ chuyển động nào đã sử dụng trước đó. Xem mô tả kỹ năng [Bơi](0005_Skills.md?id=swim-strcon) để biết thêm thông tin. Trong điều kiện bình thường, tốc độ bơi tối đa của nhân vật mỗi Hiệp bằng Tốc độ Di chuyển, -1 cho mỗi 'Thứ' mang theo nhiều hơn STR của nhân vật. Giáp mặc cản trở người bơi, với mỗi vị trí được che bởi giáp nhẹ tính là thêm 1 'Thứ' mang theo, và mỗi vị trí được che bởi giáp nặng tính là thêm 2 'Thứ' mang theo. Nếu tổng ENC làm giảm khoảng cách bơi xuống 0 hoặc ít hơn, nhân vật sẽ tự động bắt đầu chết đuối (tham khảo các quy tắc về [Ngạt thở](0007_Game_System.md?id=asphyxiation)).
+Thả vật phẩm là một Hành Động Miễn Phí.
 
-### Mô hình thu nhỏ (Miniatures) và Di chuyển
+#### Ra Hiệu
 
-Chiến đấu bằng mô hình thu nhỏ giả định việc sử dụng các thảm chiến đấu có lưới vuông 1 inch.
+Nếu không giao chiến, việc ra dấu hoặc ra hiệu cho một hoặc nhiều người tham gia (nếu họ có thể nhận thức được dấu hiệu) là một Hành Động Miễn Phí.
 
-#### Tỷ lệ (Scale)
+#### Nói
 
-Các quy tắc này hoạt động tốt nhất khi 1 inch tương đương với 5 feet hoặc 10 feet.
+Một nhân vật có thể nói bất cứ lúc nào trong khi chiến đấu, nhưng những gì được nói nên giới hạn trong các cụm từ ngắn có thể được thốt ra trong năm giây hoặc ít hơn; ví dụ, 'Cẩn thận phía sau kìa!' hoặc 'Chết tiệt!'
 
-#### Hướng đối diện (Facing)
+#### Sử Dụng Điểm May Mắn
 
-Hướng đối diện của nhân vật là một trong những cân nhắc quan trọng nhất trên chiến trường. Để hở một bên hoặc phía sau của bạn để bị tấn công là cách nhanh nhất để gặp phải cái chết sớm. Sau đây là hai sơ đồ hướng đối diện. Khi kết thúc di chuyển, một mô hình phải đối diện với một trong các cạnh của ô vuông đang chiếm giữ, hoặc tùy chọn, đối diện vào một đường chéo, như hình dưới đây.
+Sử dụng Điểm May Mắn – để đổ xúc xắc lại một kết quả cụ thể chẳng hạn – là một Hành Động Miễn Phí.
+
+#### Bảo Vệ Vị Trí
+
+Nhân vật canh giữ một Vị Trí Trúng Đòn cụ thể để không bị đánh trúng bằng cách dành một trong các vũ khí của mình để chặn thụ động khu vực đó. Bất kỳ cú đánh nào rơi vào vị trí đó đều có sát thương bị hạ cấp tự động theo quy định thông thường cho một vũ khí Đỡ Đòn có Kích Thước tương ứng. Việc che chắn tiếp tục cho đến khi vũ khí được chỉ định được sử dụng để tấn công hoặc Đỡ Đòn chủ động. Việc thiết lập hoặc thay đổi Vị Trí Trúng Đòn được bảo vệ phải được thực hiện trước khi đối thủ đổ xúc xắc tấn công nhân vật. Do thiết kế của chúng, khiên có thể bảo vệ nhiều khu vực.
+
+Để giải thích thêm, xem [Chặn Thụ Động](0008_Combat.md?id=passive-blocking).
+
+---
+## Di Chuyển
+
+Các quy tắc sau đây quản lý việc giao chiến trong chiến đấu:
+
+- Di chuyển được thực hiện bằng Hành Động Di Chuyển, Hối Hả, hoặc Xung Phong.
+- Hành Động Di Chuyển cho phép nhân vật di chuyển một khoảng cách bằng Tốc Độ Di Chuyển Cơ Bản của họ.
+- Hành Động Hối Hả cho phép nhân vật Chạy một khoảng cách bằng 3x Tốc Độ Di Chuyển, hoặc Nước Rút ở 5x Tốc Độ Di Chuyển.
+- Di chuyển chỉ có thể được thực hiện bởi các nhân vật không giao chiến (ngoại trừ các trường hợp đặc biệt như Cơ Động).
+- Ngoại trừ trong các trường hợp nhất định (chẳng hạn như Xung Phong), tất cả các di chuyển đáng kể sẽ ngừng lại khi một nhân vật đi vào tầm giao chiến của đối thủ dự kiến.
+- Ngoại trừ trong các trường hợp nhất định (chẳng hạn như Xung Phong xuyên qua Tiếp Xúc), việc di chuyển vào vùng giao chiến của đối thủ đặt mỗi chiến binh vào trạng thái giao chiến với người kia.
+- Khi đã Giao Chiến, các nhân vật không thể di chuyển ra xa đối thủ trừ khi trước tiên Rút Lui khỏi chiến đấu cận chiến.
+- Cố gắng di chuyển vượt qua một kẻ thù không giao chiến đang sử dụng Hành Động Trì Hoãn, cho phép (như một ngoại lệ cụ thể) đối thủ đó tấn công các nhân vật đang di chuyển khi họ đi qua hoặc chặn tiến độ của nhân vật, thúc đẩy chiến đấu cận chiến vào Lượt hoặc Vòng tiếp theo.
+
+### Tốc Độ Di Chuyển Theo Hoàn Cảnh
+
+Các tốc độ di chuyển này là theo hoàn cảnh và không phải lúc nào cũng là một tùy chọn. Nhiều cái được chi tiết ở những nơi khác nhưng được bao gồm ở đây để thuận tiện. Hầu hết các tốc độ theo hoàn cảnh này có thể được sử dụng bổ sung cho Tốc Độ Di Chuyển bình thường theo các hạn chế đã đặt ra. Thông tin như vậy được chi tiết trong các mô tả cụ thể bên dưới.
+
+#### Leo Trèo
+
+Một nhân vật di chuyển liền kề hoặc bắt đầu Lượt bên cạnh một bề mặt hoặc vật thể có thể leo trèo có thể leo với tốc độ bằng Tốc Độ Di Chuyển Cơ Bản. Nhân vật không thể di chuyển nhanh hơn Đi bộ và phải còn lại khả năng di chuyển, với khoảng cách leo trèo bị giảm bởi bất kỳ sự di chuyển nào đã sử dụng. Giáp mặc trên người cản trở người leo, với mỗi vị trí được bảo vệ bởi giáp nhẹ tính là 1 'Thứ' bổ sung được mang theo, và mỗi vị trí được bảo vệ bởi giáp nặng tính là 2 'Thứ' bổ sung được mang theo.
+
+#### Bò
+
+Một nhân vật bắt đầu Lượt ở tư thế nằm sấp có thể bò với tốc độ tối đa là 5 feet mỗi Lượt thay cho việc Di Chuyển bình thường. Các sinh vật tự nhiên bò như chế độ di chuyển bình thường của chúng thay vào đó sử dụng các quy tắc cho Đi bộ, Chạy, và Nước Rút được nêu ở trên.
+
+#### Nhảy
+
+Một nhân vật di chuyển liền kề hoặc bắt đầu Lượt bên cạnh một chướng ngại vật có thể nhảy qua có thể cố gắng nhảy qua nó. Nhân vật có thể đang di chuyển ở bất kỳ tốc độ nào cho đến điểm nhảy. Một lần đổ xúc xắc Điền Kinh thành công cho phép người chơi nhảy xa gấp đôi chiều cao của chính mình theo chiều ngang hoặc tối đa bằng một nửa chiều cao của chính mình theo chiều dọc (nếu nhân vật có ít nhất 15 feet để chạy đà). Nếu nhảy từ tư thế đứng, thì các khoảng cách này sẽ bị giảm một nửa. Giảm khoảng cách nhảy tính bằng feet đi một nửa tổng số 'Thứ' mang theo. Giáp mặc trên người cản trở người nhảy, với mỗi vị trí được bảo vệ bởi giáp nhẹ tính là 1 'Thứ' trong phép tính đã đề cập ở trên, và giáp nặng tính là 2 'Thứ.'
+
+Xem mô tả kỹ năng [Điền Kinh](0005_Skills.md?id=athletics-strdex) để biết thêm thông tin.
+
+Khi có một Thành Công Chí Mạng, nhân vật cộng thêm 5 feet vào tổng khoảng cách của mình và vẫn đứng thẳng khi hạ cánh.
+
+Một Thất Bại Thảm Hại cho thấy nhân vật đã hạ cánh một cách vụng về. Anh ta phải ngay lập tức thực hiện một lần đổ xúc xắc Sức Bền. Nếu lần đổ xúc xắc Sức Bền là một Thành Công, 1 điểm sát thương sẽ gây ra cho một chân. Nếu bài kiểm tra Sức Bền Thất Bại, thì 1d4 điểm sát thương sẽ được gây ra thay vào đó.
+
+#### Bơi
+
+Một nhân vật di chuyển liền kề hoặc bắt đầu Lượt bên cạnh một vùng nước có thể bơi với tốc độ bằng Tốc Độ Di Chuyển Cơ Bản, trừ đi bất kỳ sự di chuyển nào đã sử dụng. Xem mô tả kỹ năng [Bơi Lội](0005_Skills.md?id=swim-strcon) để biết thêm thông tin. Trong điều kiện bình thường, tốc độ bơi tối đa của nhân vật mỗi Vòng bằng Tốc Độ Di Chuyển của họ, -1 cho mỗi 'Thứ' mang theo nhiều hơn SM của nhân vật. Giáp mặc trên người cản trở người bơi, với mỗi vị trí được bảo vệ bởi giáp nhẹ tính là 1 'Thứ' bổ sung được mang theo, và mỗi vị trí được bảo vệ bởi giáp nặng tính là 2 'Thứ' bổ sung được mang theo. Nếu tổng ENC làm giảm khoảng cách bơi xuống còn 0 hoặc ít hơn, nhân vật sẽ tự động bắt đầu bị đuối nước (tham khảo các quy tắc về [Ngạt Thở](0007_Game_System.md?id=asphyxiation)).
+
+### Mô Hình Thu Nhỏ và Di Chuyển
+
+Chiến đấu bằng mô hình thu nhỏ giả định việc sử dụng thảm chiến đấu với lưới ô vuông 1 inch.
+
+#### Tỷ Lệ
+
+Các quy tắc này hoạt động tốt nhất khi 1 inch bằng 5 feet hoặc 10 feet.#### Hướng Đối Diện
+
+Hướng đối diện của nhân vật là một trong những cân nhắc quan trọng nhất trên chiến trường. Việc để hở một bên hoặc sau lưng để đối phương tấn công là cách nhanh nhất dẫn đến cái chết bất ngờ. Dưới đây là hai sơ đồ hướng đối diện. Sau khi kết thúc di chuyển, một hình đại diện phải đối mặt với một trong các cạnh của ô vuông đang chiếm giữ, hoặc tùy chọn, đối mặt theo đường chéo, như hình dưới đây.
 
 ![](_media/CFI_8_Combat_Mini_Facing_Has.png)
 
-**Tấn công** có thể được thực hiện vào bất kỳ ô vuông phía trước hoặc bên cạnh nào của nhân vật.
+**Tấn Công** có thể được thực hiện vào bất kỳ ô vuông nào ở phía trước hoặc bên cạnh nhân vật.
 
-**Né tránh** luôn ở Độ khó Tiêu chuẩn đối với bất kỳ đòn tấn công nào ngoại trừ những đòn từ ô vuông phía sau, vốn ở mức Đáng gờm và đòi hỏi một lần tung xúc xắc Nhận thức thành công để biết đòn tấn công đang đến.
+**Né Tránh** luôn ở Cấp Độ Khó Tiêu Chuẩn đối với bất kỳ đòn tấn công nào, trừ những đòn từ ô vuông phía sau, vốn là Cấp Độ Khó Ghê Gớm và yêu cầu một lượt đổ xúc xắc Nhận Thức thành công mới có thể biết đòn tấn công đang tới.
 
-### Ảnh hưởng của Địa hình đối với Di chuyển
+### Ảnh Hưởng của Địa Hình lên Di Chuyển
 
-Chiến trường thường sẽ có địa hình thuộc loại nào đó cản trở di chuyển, được thể hiện là Chướng ngại vật hoặc Địa hình khó khăn.
+Chiến trường thường sẽ có địa hình thuộc loại nào đó cản trở việc di chuyển, được đại diện là Vật Cản hoặc Địa Hình Khó.
 
-Chướng ngại vật có thể là bất cứ thứ gì từ cây lớn, tường, hàng rào cao, hố, v.v. Một Chướng ngại vật chặn hoàn toàn việc di chuyển, buộc đối thủ phải đi đường vòng; tuy nhiên, một số sinh vật, như ma hoặc những kẻ bay được, không bị ảnh hưởng bởi Chướng ngại vật. Nếu một vật thể không chặn hoàn toàn một ô vuông, như ghế, cây nhỏ hoặc bụi cây, nó được coi là Địa hình khó khăn.
+Vật Cản có thể là bất cứ thứ gì từ cây lớn, tường, hàng rào cao, cửa, hố, v.v. Một Vật Cản chặn hoàn toàn việc di chuyển, buộc đối thủ phải đi vòng qua; tuy nhiên, một số sinh vật, như hồn ma hoặc những sinh vật biết bay, không bị ảnh hưởng bởi Vật Cản. Nếu một vật thể không chặn hoàn toàn một ô vuông, như ghế, cây nhỏ, hoặc bụi rậm, nó được coi là Địa Hình Khó.
 
-Địa hình khó khăn tiêu tốn gấp đôi mức di chuyển bình thường để tiến vào. Do đó, việc di chuyển vào một khu vực Địa hình khó khăn trong một ô vuông 5 feet sẽ được tính là 10 feet di chuyển. Một sinh vật chậm chạp bị cản trở bởi Địa hình khó khăn luôn có thể di chuyển tối thiểu 5 feet. Một số ví dụ về Địa hình khó khăn là các vũng nước nông, đống đổ nát, hàng rào thấp, bụi cây, cỏ/cây dại cao và thi thể. Một số sinh vật, như ma hoặc những kẻ bay được, không bị ảnh hưởng bởi Địa hình khó khăn. Đi qua Địa hình khó khăn với tốc độ nhanh hơn Tốc độ Di chuyển Cơ bản đòi hỏi một lần tung xúc xắc Thể thao Đáng gờm hoặc Nhào lộn Tiêu chuẩn để tránh vấp ngã.
+Địa Hình Khó tốn gấp đôi tốc độ di chuyển bình thường để tiến vào. Do đó, di chuyển vào một khu vực Địa Hình Khó trong ô vuông 5 feet sẽ tính là 10 feet di chuyển. Một sinh vật chậm chạp bị cản trở bởi Địa Hình Khó luôn có thể di chuyển tối thiểu 5 feet. Một vài ví dụ về Địa Hình Khó là vũng nước nông, đống đổ nát, hàng rào thấp, bụi rậm, cỏ/cây dại cao, và thi thể. Một số sinh vật, như hồn ma hoặc những sinh vật biết bay không bị ảnh hưởng bởi Địa Hình Khó. Việc đi qua Địa Hình Khó với tốc độ nhanh hơn Tốc Độ Di Chuyển Cơ Bản đòi hỏi một lượt đổ xúc xắc Điền Kinh ở Cấp Độ Ghê Gớm hoặc Nhào Lộn ở Cấp Độ Tiêu Chuẩn để tránh vấp ngã.
 
 ---
-## Chiến đấu hoạt động như thế nào
+## Cách Thức Chiến Đấu Hoạt Động
 
-Chiến đấu trong _Classic Fantasy Imperative_ được giải quyết với mỗi lần tấn công hoặc Đỡ đòn đại diện cho một cú đâm, vung, niệm phép hoặc bắn vũ khí duy nhất. Bất kỳ Hành động tấn công nào cũng cho phép có cơ hội bị kháng cự bởi một phản ứng. Do đó, ngay cả khi một nhân vật đánh trúng đối thủ, kẻ thù vẫn được phép tung xúc xắc của riêng mình để xem liệu họ có thể Đỡ đòn hay không trước khi nó gây sát thương. Cùng một triết lý được sử dụng cho dù các cuộc tấn công là vũ khí tên lửa nhắm vào các mục tiêu đang lặn tránh hay cố gắng thoát khỏi sự kìm kẹp của một con bạch tuộc khổng lồ.
+Chiến đấu trong _Classic Fantasy Imperative_ được giải quyết với mỗi đòn Tấn công hoặc Đỡ Đòn đại diện cho một cú đâm, vung, niệm phép, hoặc bắn vũ khí đơn lẻ. Bất kỳ Hành Động tấn công nào cũng cho phép cơ hội được chống trả bằng một phản ứng. Do đó, ngay cả khi một nhân vật xoay sở để đánh trúng đối thủ, kẻ địch vẫn được phép thực hiện lượt đổ xúc xắc của riêng mình để xem liệu chúng có thể Đỡ Đòn trước khi đòn đánh trúng mục tiêu hay không. Triết lý tương tự cũng được sử dụng cho dù đó là các đòn tấn công bằng vũ khí tầm xa nhắm vào các mục tiêu đang lao vào chỗ nấp hay đang cố gắng thoát khỏi sự kìm kẹp sắt đá của một TC bạch tuộc khổng lồ.
 
-### Tấn công và Đỡ đòn
+### Tấn Công và Đỡ Đòn
 
-Cận chiến được xử lý theo cách từng bước như sau:
+Cận chiến được xử lý theo từng bước như sau:
 
-1. Đến lượt mình, kẻ tấn công tiêu tốn một Điểm Hành động, tung xúc xắc dựa trên Kỹ năng Chiến đấu của mình và ghi lại kết quả.
-2. Nếu muốn, người phòng thủ tiêu tốn một Điểm Hành động, tung xúc xắc dựa trên Kỹ năng Chiến đấu của mình và ghi lại kết quả.
-3. Mức độ thành công của các kết quả được so sánh theo [Tung xúc xắc vi sai](0005_Skills.md?id=differential-rolls).
-4. Bất kỳ sự khác biệt nào cũng mang lại cho chiến binh thành công với kết quả cao hơn một hoặc nhiều Hiệu ứng Đặc biệt.
-5. Nếu kẻ tấn công đạt được Thành công hoặc Thành công Quan trọng, họ có thể tung sát thương vũ khí và áp dụng Bộ điều chỉnh Sát thương của mình (nếu có). Nếu áp dụng, một Vị trí Trúng đòn sẽ được xác định cho đòn đánh.
-6. Nếu người phòng thủ đạt được Thành công hoặc Thành công Quan trọng, giảm bất kỳ sát thương nào gây ra theo kích thước so sánh của các vũ khí liên quan.
-7. Giảm bất kỳ sát thương còn lại nào bằng Điểm Giáp của bảo vệ tự nhiên hoặc trang bị.
+1. Đến lượt mình, kẻ tấn công tiêu tốn một Điểm Hành Động, đổ xúc xắc Kỹ Năng Chiến Đấu của mình và ghi lại kết quả.
+2. Nếu muốn, người phòng thủ tiêu tốn một Điểm Hành Động, đổ xúc xắc Kỹ Năng Chiến Đấu của mình và ghi lại kết quả.
+3. Cấp độ thành công của các kết quả được so sánh theo [Đổ Xúc Xắc Chênh Lệch](0005_Skills.md?id=differential-rolls).
+4. Bất kỳ sự khác biệt nào cũng mang lại cho chiến binh thành công với lượt đổ xúc xắc vượt trội một hoặc nhiều Hiệu Ứng Đặc Biệt.
+5. Nếu kẻ tấn công đạt được Thành Công hoặc Thành Công Chí Mạng, họ có thể đổ xúc xắc sát thương vũ khí và áp dụng Hệ Số Sát Thương (nếu có). Nếu có thể, Vị Trí Trúng Đòn của cú đánh sẽ được xác định.
+6. Nếu người phòng thủ đạt được Thành Công hoặc Thành Công Chí Mạng, giảm bất kỳ sát thương nào gây ra theo kích thước tương đối của các loại vũ khí liên quan.
+7. Giảm bất kỳ sát thương còn lại bằng Điểm Giáp của lớp bảo vệ tự nhiên hoặc trang bị.
 
-Lưu ý rằng bất kỳ Hiệu ứng Đặc biệt nào được tạo ra từ cuộc trao đổi đều độc lập với việc sát thương có được gây ra hay không. Rất có khả năng một người phòng thủ giành được mức độ thành công cao hơn nhưng vẫn bị thương.
+Lưu ý rằng bất kỳ Hiệu Ứng Đặc Biệt nào phát sinh từ cuộc trao đổi đều độc lập với việc sát thương có gây ra hay không. Rất có khả năng người phòng thủ đạt được cấp độ thành công cao hơn, nhưng vẫn phải chịu thương tích.
 
-### Kích thước Vũ khí
+### Kích Thước Vũ Khí
 
-Mỗi vũ khí trong _Classic Fantasy Imperative_ sở hữu một số thuộc tính khác nhau từ sát thương nó gây ra đến số tay cần thiết để sử dụng. Kích thước là sự kết hợp giữa khối lượng, đòn bẩy và độ ổn định của vũ khí, và được sử dụng để xác định khả năng áp đặt và Đỡ đòn của vũ khí. Các danh mục Kích thước là _Nhỏ, Trung bình, Lớn, Khổng lồ,_ và _Vĩ đại_. Các đòn tấn công không vũ khí của sinh vật được gán các danh mục tương tự theo đặc điểm vật lý của chúng.
+Mỗi vũ khí trong _Classic Fantasy Imperative_ sở hữu một vài chỉ số khác nhau từ sát thương gây ra cho đến số tay cần thiết để sử dụng nó. Kích thước là sự kết hợp giữa khối lượng, đòn bẩy và độ ổn định của vũ khí, và được sử dụng để xác định khả năng gây và Đỡ Đòn sát thương của vũ khí. Các hạng kích thước là _Nhỏ, Trung Bình, Lớn, Khổng Lồ,_ và _To Lớn_. Các đòn tấn công tay không của sinh vật được gán các hạng tương tự theo đặc điểm thể chất của chúng.
 
-### Giảm sát thương
+### Giảm Sát Thương
 
-Nếu người phòng thủ Đỡ đòn thành công, họ có thể giảm sát thương của kẻ tấn công, nếu có, theo Kích thước so sánh của các vũ khí được sử dụng.
+Nếu người phòng thủ Đỡ Đòn thành công, họ có thể giảm sát thương của kẻ tấn công, nếu có, theo Kích Thước tương đối của các loại vũ khí được sử dụng.
 
-- Đỡ đòn bằng vũ khí hoặc khiên có Kích thước _bằng hoặc lớn hơn_ sẽ làm lệch _toàn bộ_ sát thương.
-- Đỡ đòn bằng vũ khí hoặc khiên có Kích thước _nhỏ hơn một bậc_ chỉ làm lệch _một nửa_ sát thương.
-- Đỡ đòn bằng vũ khí hoặc khiên có Kích thước _nhỏ hơn hai bậc trở lên_ sẽ không làm lệch _bất kỳ_ sát thương nào.
+- Đỡ Đòn một cuộc tấn công bằng vũ khí hoặc khiên có Kích Thước _bằng hoặc lớn hơn_ sẽ làm chệch hướng _toàn bộ_ sát thương.
+- Đỡ Đòn bằng vũ khí hoặc khiên có Kích Thước _nhỏ hơn một bậc_ chỉ làm chệch hướng _một nửa_ sát thương.
+- Đỡ Đòn bằng vũ khí hoặc khiên có Kích Thước _nhỏ hơn hai bậc trở lên_ không làm chệch hướng _bất kỳ_ sát thương nào.
 
-Ví dụ, Đỡ đòn một chiếc rìu lớn (Khổng lồ) bằng khiên kite (cũng Khổng lồ) sẽ chặn toàn bộ sát thương; Đỡ đòn bằng một ngọn giáo dài (Lớn) sẽ giảm một nửa sát thương, và Đỡ đòn bằng một thanh đoản kiếm (Trung bình) sẽ không chặn được chút sát thương nào.
+Ví dụ, Đỡ Đòn một chiếc rìu lớn (Khổng Lồ) bằng một chiếc khiên diều (cũng Khổng Lồ) sẽ chặn toàn bộ sát thương; Đỡ Đòn nó bằng một ngọn giáo dài (Lớn) sẽ giảm một nửa sát thương, và Đỡ Đòn nó bằng một thanh kiếm ngắn (Trung Bình) sẽ không chặn được chút sát thương nào.
 
 ### Giáp
 
-Bất kỳ sát thương nào xuyên qua đòn Đỡ đòn của người phòng thủ sẽ bị giảm thêm bởi Điểm Giáp của bất kỳ bảo vệ tự nhiên (như vảy hoặc vỏ) hoặc giáp mặc mà họ sở hữu. Nếu người phòng thủ có cả hai, thì hai loại sẽ cộng dồn với nhau để giảm sát thương.
+Bất kỳ sát thương nào xuyên qua đòn Đỡ Đòn của người phòng thủ sẽ bị giảm thêm bởi Điểm Giáp của bất kỳ lớp bảo vệ tự nhiên nào (như vảy hoặc vỏ) hoặc giáp trang bị mà họ sở hữu. Nếu người phòng thủ có cả hai, thì cả hai sẽ cộng dồn để giảm sát thương.
 
-Do khối lượng và sự hạn chế di chuyển, giá trị Điểm Giáp cao nhất của giáp _mặc_ trên người nhân vật đóng vai trò là một hình phạt đối với lần tung xúc xắc Sáng kiến của họ.
+Do khối lượng và sự hạn chế chuyển động, giá trị Điểm Giáp cao nhất của bộ giáp _được trang bị_ bởi một nhân vật sẽ đóng vai trò là hình phạt cho lượt đổ xúc xắc Tiên Cơ của họ.
 
-### Đỡ đòn một cuộc tấn công trượt
+### Đỡ Đòn một Đòn Tấn Công Hụt
 
-Nếu kẻ tấn công trượt lần tung xúc xắc tấn công ban đầu, người phòng thủ vẫn có tùy chọn tiêu tốn một Điểm Hành động để Đỡ đòn. Mặc dù có vẻ vô lý khi Đỡ đòn một đòn tấn công dù sao cũng sẽ trượt, một người phòng thủ lành nghề có thể sử dụng điều này để giành lợi thế nhằm nhận một hoặc nhiều Hiệu ứng Đặc biệt, có khả năng làm suy yếu hoặc làm mất khả năng của kẻ thù và giữ lượt tiếp theo của họ cho một Hành động khác.
+Nếu kẻ tấn công trượt lượt đổ xúc xắc tấn công ban đầu của mình, người phòng thủ vẫn có tùy chọn tiêu tốn một Điểm Hành Động để Đỡ Đòn. Mặc dù có vẻ vô lý khi Đỡ Đòn một đòn tấn công vốn đã hụt, một người phòng thủ lành nghề có thể tận dụng điều này để đạt được một hoặc nhiều Hiệu Ứng Đặc Biệt, có khả năng làm suy yếu hoặc khiến kẻ địch mất khả năng chiến đấu và giữ lại lượt sau cho một Hành Động khác.
 
-### Không thể hoặc không muốn Đỡ đòn
+### Không Thể hoặc Không Muốn Đỡ Đòn
 
-Trong tình huống người phòng thủ không thể Đỡ đòn do không còn Điểm Hành động, hoặc tự tin vào khả năng chịu đựng đòn đánh của mình nên chọn không Đỡ đòn, họ được coi là đã tự động tung ra một lần Thất bại. Điều này dẫn đến hậu quả là trao cho kẻ tấn công thành công một hoặc nhiều Hiệu ứng Đặc biệt.
+Trong tình huống người phòng thủ không thể Đỡ Đòn do không còn Điểm Hành Động, hoặc tự tin vào khả năng chịu đựng cú đánh của mình và chọn không Đỡ Đòn, họ được coi là đã tự động đổ xúc xắc Thất Bại. Điều này dẫn đến kết quả là cho phép kẻ tấn công thành công đạt được một hoặc nhiều Hiệu Ứng Đặc Biệt.
 
-### Tung xúc xắc không thành công và Vụng về
+### Đổ Xúc Xắc Thất Bại và Thất Bại Thảm Hại
 
-Nếu cả hai chiến binh đều Thất bại trong lần tung xúc xắc của mình, hoặc người phòng thủ quyết định không tận dụng một cuộc tấn công trượt, thì chuỗi Tấn công / Đỡ đòn kết thúc, và chiến đấu tiếp tục đến người tham gia có Sáng kiến cao tiếp theo.
+Nếu cả hai chiến binh đều Thất Bại trong lượt đổ xúc xắc của mình, hoặc người phòng thủ quyết định không tận dụng đòn tấn công hụt, thì chuỗi Tấn công / Đỡ Đòn kết thúc, và trận chiến tiếp tục với người tham gia có chỉ số Tiên Cơ cao kế tiếp.
 
 ---
-## Hiệu ứng Đặc biệt
+## Hiệu Ứng Đặc Biệt
 
-Chiến đấu không chỉ đơn thuần là làm bị thương hoặc giết chết đối thủ. Nghệ thuật chiến đấu dạy nhiều phương pháp _đánh bại_ kẻ thù, có thể khiến họ bất lực hoặc buộc họ vào những tình huống mà họ phải đầu hàng, mà không nhất thiết phải gây hại cho họ. Các Hiệu ứng Đặc biệt đại diện cho những kỹ thuật này và kiểm soát cách chúng xảy ra trong trò chơi.
+Chiến đấu còn hơn cả việc đơn thuần làm bị thương hoặc giết chết đối thủ. Nghệ thuật chiến đấu dạy nhiều phương pháp để _đánh bại_ một kẻ địch, có lẽ là khiến chúng bất lực hoặc ép chúng vào những tình huống mà chúng phải đầu hàng, mà không nhất thiết phải gây hại cho chúng. Hiệu Ứng Đặc Biệt đại diện cho các kỹ thuật này và kiểm soát cách chúng xảy ra trong lối chơi.
 
-Bất cứ khi nào đối thủ tham gia vào một lần Tung xúc xắc Đối lập của các kỹ năng chiến đấu tương ứng của họ, bất kỳ sự khác biệt nào về mức độ thành công đều cho thấy cơ hội để các Hiệu ứng Đặc biệt xảy ra. Điều này phản ánh một chiến binh đang điều khiển đối thủ của mình vào một tình huống bất lợi mà có thể bị khai thác bằng cách sử dụng một thủ thuật hoặc chiến thuật khôn ngoan.
+Bất cứ khi nào các đối thủ tham gia vào một Đổ Xúc Xắc Chênh Lệch của kỹ năng chiến đấu tương ứng, bất kỳ sự khác biệt nào về cấp độ thành công đều cho thấy cơ hội để các Hiệu Ứng Đặc Biệt xảy ra. Điều này phản ánh việc một chiến binh điều khiển đối thủ của mình vào một tình huống bất lợi mà có thể khai thác bằng các thủ thuật hoặc chiến thuật khôn ngoan.
 
-Số lượng Hiệu ứng Đặc biệt nhận được phụ thuộc vào sự khác biệt giữa các Mức độ Thành công, như được minh họa trên [Bảng kết quả Tung xúc xắc đối lập](0005_Skills.md?id=differential-roll-results-table).
+Số lượng Hiệu Ứng Đặc Biệt nhận được phụ thuộc vào sự khác biệt giữa các Cấp Độ Thành Công, như được minh họa trong [Bảng Kết Quả Đổ Xúc Xắc Chênh Lệch](0005_Skills.md?id=differential-roll-results-table).
 
-Nếu bất kỳ Hiệu ứng Đặc biệt nào giành được trong quá trình trao đổi, chúng phải được chọn trước khi Sát thương và Vị trí Trúng đòn (nếu có) được tung xúc xắc. Trong trường hợp người nhận bị thương nặng ngoài việc nhận Hiệu ứng Đặc biệt, các lần tung Sức bền sẽ được giải quyết sau khi áp dụng hiệu ứng.
+Nếu bất kỳ Hiệu Ứng Đặc Biệt nào giành được trong một cuộc trao đổi, chúng phải được chọn trước khi Sát Thương và Vị Trí Trúng Đòn, nếu có, được đổ xúc xắc. Trong những trường hợp người nhận bị thương nặng ngoài việc nhận Hiệu Ứng Đặc Biệt, các lượt đổ xúc xắc Sức Bền sẽ được giải quyết sau khi áp dụng hiệu ứng.
 
-Các Hiệu ứng Đặc biệt bao gồm nhiều tình huống và kỹ thuật đa dạng. Một số được thiết kế dành riêng cho tấn công, trong khi những số khác dành cho phòng thủ, và một vài loại có thể thích nghi cho cả hai trường hợp. Một số Hiệu ứng Đặc biệt cũng có thể bị giới hạn trong các loại vũ khí cụ thể hoặc các lần tung xúc xắc cụ thể, chẳng hạn như đòi hỏi kết quả Thành công Quan trọng hoặc Vụng về trên lần kiểm tra kỹ năng của họ.
+Hiệu Ứng Đặc Biệt bao gồm một loạt các tình huống và kỹ thuật đa dạng. Một số được thiết kế dành riêng cho tấn công, trong khi những số khác dành cho phòng thủ, và một vài có thể thích ứng cho cả hai hoàn cảnh. Một số Hiệu Ứng Đặc Biệt nhất định cũng có thể bị giới hạn trong các loại vũ khí cụ thể hoặc các lượt đổ xúc xắc cụ thể, ví dụ như yêu cầu kết quả Thành Công Chí Mạng hoặc Thất Bại Thảm Hại trên lượt kiểm tra kỹ năng của họ.
 
-Khi hai hoặc nhiều Hiệu ứng Đặc biệt giành được, chiến binh có thể tự do trộn lẫn và lựa chọn các hiệu ứng, miễn là đáp ứng các điều kiện tiên quyết cho mỗi hiệu ứng. Một số hiệu ứng có thể cộng dồn. Ví dụ, một kẻ tấn công tung ra Thành công Quan trọng và giành được hai Hiệu ứng Đặc biệt có thể chọn Tối đa hóa Sát thương hai lần thay vì chọn hai chiến thuật tấn công riêng biệt.
+Khi đạt được hai hoặc nhiều Hiệu Ứng Đặc Biệt, chiến binh có thể thoải mái trộn và chọn những hiệu ứng nào sẽ được lựa chọn, miễn là đáp ứng được các điều kiện tiên quyết cho mỗi hiệu ứng. Một số hiệu ứng có thể cộng dồn. Ví dụ, một kẻ tấn công đổ được Thành Công Chí Mạng và giành được hai Hiệu Ứng Đặc Biệt có thể chọn Tối Đa Hóa Sát Thương hai lần thay vì chọn hai chiến thuật tấn công riêng biệt.
 
-### Bảng Hiệu ứng Đặc biệt
+### Bảng Hiệu Ứng Đặc Biệt
 
-| Hiệu ứng Đặc biệt | Tấn công | Phòng thủ | Loại vũ khí đặc biệt | Tung xúc xắc cụ thể | Cộng dồn |
+| Hiệu Ứng Đặc Biệt | Tấn Công | Phòng Thủ | Loại Vũ Khí Đặc Biệt | Đổ Xúc Xắc Cụ Thể | Cộng Dồn |
 | :-- | :-: | :-: | :-- | :-: | :-: |
-| [Accidental Injury](0008_Combat.md?id=accidental-injury) | | X | | Attacker Fumbles | |
+| [Accidental Injury](0008_Combat.md?id=accidental-injury) | | X | | Kẻ tấn công Thất Bại Thảm Hại | |
 | [Arise](0008_Combat.md?id=arise) | | X | | | |
-| [Bash](0008_Combat.md?id=bash) | X | | Shields or Bludgeoning | | |
-| [Bleed](0008_Combat.md?id=bleed) | X | | Cutting Weapons | | |
-| [Blind Opponent](0008_Combat.md?id=blind-opponent) | | X | | Defender Criticals | |
-| [Bypass Armor](0008_Combat.md?id=bypass-armor) | X | | | Attacker Criticals | X |
-| [Choose Location](0008_Combat.md?id=choose-location) | X | | | See Description | |
-| [Circumvent Parry](0008_Combat.md?id=circumvent-parry) | X | | | Attacker Criticals | |
-| [Damage Weapon](0008_Combat.md?id=damage-weapon) | X | X | | | |
+| [Đập Mạnh](0008_Combat.md?id=bash) | X | | Khiên hoặc Vũ khí Đập Mạnh | | |
+| [Bleed](0008_Combat.md?id=bleed) | X | | Vũ khí cắt | | |
+| [Blind Opponent](0008_Combat.md?id=blind-opponent) | | X | | Người phòng thủ Chí Mạng | |
+| [Bypass Giáp](0008_Combat.md?id=bypass-armor) | X | | | Kẻ tấn công Chí Mạng | X |
+| [Choose Vị Trí](0008_Combat.md?id=choose-location) | X | | | Xem Mô Tả | |
+| [Circumvent Parry](0008_Combat.md?id=circumvent-parry) | X | | | Kẻ tấn công Chí Mạng | |
+| [Sát Thương Weapon](0008_Combat.md?id=damage-weapon) | X | X | | | |
 | [Disarm Opponent](0008_Combat.md?id=disarm-opponent) | X | X | | | |
-| [Enhance Parry](0008_Combat.md?id=enhance-parry) | | X | | Defender Criticals | |
-| [Entangle](0008_Combat.md?id=entangle) | X | X | Entangling Weapons | | |
-| [Force Failure](0008_Combat.md?id=force-failure) | X | X | | Opponent Fumbles | |
-| [Grip](0008_Combat.md?id=grip) | X | | Unarmed | | |
-| [Impale](0008_Combat.md?id=impale) | X | | Impaling Weapons | | |
-| [Sharpshooter](0008_Combat.md?id=sharpshooter) | X | | Ranged Weapons | | |
-| [Maximize Damage](0008_Combat.md?id=maximize-damage) | X | | | Attacker Criticals | X |
+| [Enhance Parry](0008_Combat.md?id=enhance-parry) | | X | | Người phòng thủ Chí Mạng | |
+| [Entangle](0008_Combat.md?id=entangle) | X | X | Vũ khí quấn | | |
+| [Force Failure](0008_Combat.md?id=force-failure) | X | X | | Đối thủ Thất Bại Thảm Hại | |
+| [Grip](0008_Combat.md?id=grip) | X | | Tay Không | | |
+| [Impale](0008_Combat.md?id=impale) | X | | Vũ khí đâm | | |
+| [Sharpshooter](0008_Combat.md?id=sharpshooter) | X | | Vũ khí tầm xa | | |
+| [Maximize Sát Thương](0008_Combat.md?id=maximize-damage) | X | | | Kẻ tấn công Chí Mạng | X |
 | [Prepare Counter](0008_Combat.md?id=prepare-counter) | | X | | | X |
-| [Rapid Reload](0008_Combat.md?id=rapid-reload) | X | | | | X |
+| [Rapid Nạp Đạn](0008_Combat.md?id=rapid-reload) | X | | | | X |
 | [Scar Foe](0008_Combat.md?id=scar-foe) | X | X | | | |
-| [Select Target](0008_Combat.md?id=select-target) | | X | | Attacker Fumbles | |
-| [Slip Free](0008_Combat.md?id=slip-free) | | X | | Defender Criticals | |
-| [Stun Location](0008_Combat.md?id=stun-location) | X | | Bludgeoning Weapons | | |
-| [Sunder](0008_Combat.md?id=sunder) | X | | Two Handed Weapons | | |
+| [Select Target](0008_Combat.md?id=select-target) | | X | | Kẻ tấn công Thất Bại Thảm Hại | |
+| [Slip Free](0008_Combat.md?id=slip-free) | | X | | Người phòng thủ Chí Mạng | |
+| [Stun Vị Trí](0008_Combat.md?id=stun-location) | X | | Vũ khí Đập Mạnh | | |
+| [Sunder](0008_Combat.md?id=sunder) | X | | Vũ khí hai tay | | |
 | [Trip Opponent](0008_Combat.md?id=trip-opponent) | X | X | | | |
 | [Withdraw](0008_Combat.md?id=withdraw) | | X | | | |
-### Mô tả Hiệu ứng Đặc biệt
 
-#### Accidental Injury (Chấn thương ngoài ý muốn)
+### Mô Tả Hiệu Ứng Đặc Biệt
 
-Người phòng thủ làm lệch hoặc vặn đòn tấn công của đối thủ theo cách khiến kẻ tấn công lúng túng, tự làm bị thương chính mình. Kẻ tấn công phải tung sát thương lên chính mình ở một Vị trí Trúng đòn ngẫu nhiên bằng cách sử dụng vũ khí dùng để tấn công. Nếu không có vũ khí, kẻ tấn công tự làm rách hoặc vỡ thứ gì đó bên trong, lần tung sát thương bỏ qua mọi loại giáp.
+#### Accidental Injury
+Người phòng thủ làm chệch hướng hoặc xoay cú tấn công của đối thủ theo cách khiến kẻ tấn công thất bại thảm hại, tự gây thương tích cho chính mình. Kẻ tấn công phải đổ xúc xắc sát thương lên bản thân tại một Vị Trí Trúng Đòn ngẫu nhiên bằng cách sử dụng vũ khí đã dùng để tấn công. Nếu tay không, kẻ tấn công làm rách hoặc gãy thứ gì đó bên trong, lượt đổ xúc xắc sát thương bỏ qua mọi loại giáp.
 
-#### Arise (Đứng dậy)
+#### Arise
+Cho phép người phòng thủ tận dụng một khoảng hở tạm thời để đứng dậy.
 
-Cho phép người phòng thủ tận dụng cơ hội trong chốc lát để đứng dậy trở lại.
+#### Đập Mạnh
+Kẻ tấn công cố tình đập mạnh khiến đối thủ mất thăng bằng. Đối thủ loạng choạng lùi lại hoặc sang ngang bao xa phụ thuộc vào vũ khí đang được sử dụng. Khiên hất đối thủ lùi lại 5 feet cho mỗi 3 điểm sát thương đổ được (trước bất kỳ phép trừ nào do giáp, đỡ đòn, v.v.), trong khi vũ khí đập mạnh hất lùi 5 feet cho mỗi 5 điểm. Đập Mạnh chỉ có tác dụng lên các sinh vật có KT lên đến gấp đôi kẻ tấn công. Nếu người nhận bị ép lùi vào một vật cản, thì họ phải thực hiện lượt đổ xúc xắc kỹ năng Nhào Lộn hoặc Điền Kinh ở Cấp Độ Khó để tránh bị ngã hoặc vấp.
 
-#### Bash (Húc)
+#### Bleed
+Đòn tấn công cắt đứt một mạch máu lớn. Nếu cú đánh vượt qua Điểm Giáp và làm mục tiêu bị thương, người phòng thủ phải thực hiện Đổ Xúc Xắc Đối Kháng Sức Bền chống lại lượt đổ xúc xắc tấn công ban đầu. Nếu người phòng thủ Thất Bại, họ bắt đầu chảy máu nhiều. Vào đầu mỗi Vòng Chiến Đấu, người nhận mất một cấp độ Mệt Mỏi, cho đến khi họ gục ngã và có thể chết. Các vết thương chảy máu có thể được cầm máu bằng cách vượt qua lượt đổ xúc xắc kỹ năng Sơ Cứu, nhưng người nhận không thể thực hiện bất kỳ hành động gắng sức hoặc bạo lực nào mà không làm vết thương hở lại. Xem [Mất Máu](0007_Game_System.md?id=blood-loss).
 
-Kẻ tấn công cố tình húc đối thủ mất thăng bằng. Đối thủ loạng choạng lùi lại hoặc sang ngang bao xa tùy thuộc vào vũ khí được sử dụng. Khiên hất đối thủ lùi lại 5 feet cho mỗi 3 điểm sát thương được tung ra (trước khi trừ đi bất kỳ sát thương nào do giáp, đỡ đòn, v.v.), trong khi vũ khí đập hất lùi 5 feet cho mỗi 5 điểm. Húc chỉ hoạt động trên các sinh vật có SIZ lên đến gấp đôi SIZ của kẻ tấn công. Nếu người nhận bị ép lùi vào chướng ngại vật, họ phải thực hiện lần tung xúc xắc kỹ năng Nhào lộn hoặc Thể thao ở độ khó Khó để tránh bị ngã hoặc vấp ngã.
+#### Blind Opponent
+Khi đạt kết quả Chí Mạng, người phòng thủ tạm thời làm mù đối thủ bằng cách ném cát, phản chiếu ánh sáng mặt trời khỏi khiên, hoặc một chiến thuật khác gây cản trở tầm nhìn của kẻ tấn công trong giây lát. Kẻ tấn công phải thực hiện Đổ Xúc Xắc Đối Kháng kỹ năng Né Tránh (hoặc kỹ năng Vũ Khí nếu sử dụng khiên) chống lại lượt đổ xúc xắc Đỡ Đòn ban đầu của người phòng thủ. Nếu kẻ tấn công Thất Bại, họ phải chịu hệ số tình huống là Khó hoặc Ghê Gớm trong 1d3 Lượt kế tiếp, tùy thuộc vào phương pháp gây mù.
 
+#### Bypass Giáp
+Khi đạt kết quả Chí Mạng, kẻ tấn công tìm thấy một lỗ hổng trong lớp giáp tự nhiên hoặc trang bị của người phòng thủ. Nếu người phòng thủ đang mặc giáp trên lớp bảo vệ tự nhiên, thì kẻ tấn công phải quyết định loại nào trong hai loại bị bỏ qua. Hiệu ứng này có thể cộng dồn để bỏ qua cả hai. Với mục đích của hiệu ứng này, lớp bảo vệ vật lý đạt được từ phép thuật được coi là giáp trang bị.
 
-#### Bleed (Chảy máu)
+#### Choose Vị Trí
+Khi sử dụng vũ khí cận chiến tay đôi, kẻ tấn công có thể tự do chọn vị trí mà cú đánh rơi vào, miễn là vị trí đó nằm trong tầm với. Nếu sử dụng vũ khí Tầm Xa, Chọn Vị Trí chỉ dành cho Thành Công Chí Mạng, trừ khi mục tiêu ở trong Tầm Gần và đang đứng yên hoặc không biết về sự hiện diện của kẻ tấn công.
 
-Đòn tấn công cắt mở một mạch máu lớn. Nếu đòn đánh vượt qua Điểm Giáp và làm bị thương mục tiêu, người phòng thủ phải thực hiện một lần Tung xúc xắc Đối lập về Sức bền chống lại lần tung xúc xắc tấn công ban đầu. Nếu người phòng thủ Thất bại, họ bắt đầu chảy máu xối xả. Vào đầu mỗi Hiệp Chiến đấu, người nhận mất một mức Độ mệt mỏi, cho đến khi họ gục ngã và có khả năng tử vong. Các vết thương chảy máu có thể được cầm máu bằng cách vượt qua lần tung xúc xắc kỹ năng Sơ cứu, nhưng người nhận không thể thực hiện bất kỳ hành động gắng sức hoặc bạo lực nào mà không làm mở lại vết thương. Xem [Mất máu](0007_Game_System.md?id=blood-loss).
+#### Circumvent Parry
+Khi đạt kết quả Chí Mạng, kẻ tấn công có thể hoàn toàn vượt qua đòn Đỡ Đòn vốn đã thành công.
 
-#### Blind Opponent (Làm mù đối thủ)
+#### Sát Thương Weapon
+Cho phép nhân vật làm hỏng vũ khí của đối thủ như một phần của cuộc tấn công hoặc Đỡ Đòn. Nếu tấn công, nhân vật nhắm mục tiêu cụ thể vào vũ khí Đỡ Đòn của đối thủ và áp dụng kết quả đổ xúc xắc sát thương của mình lên vũ khí đó, thay vì người sử dụng. Vũ khí mục tiêu sử dụng Điểm Giáp của chính nó để chống lại sát thương. Nếu bị giảm xuống không Điểm Sinh Lực, vũ khí sẽ bị vỡ.
 
-Khi đạt Thành công Quan trọng, người phòng thủ làm mù đối thủ trong giây lát bằng cách ném cát, phản chiếu ánh sáng mặt trời khỏi khiên hoặc một chiến thuật khác gây nhiễu tầm nhìn của kẻ tấn công trong chốc lát. Kẻ tấn công phải thực hiện lần Tung xúc xắc Đối lập kỹ năng Né tránh của mình (hoặc kỹ năng Vũ khí nếu sử dụng khiên) chống lại lần tung xúc xắc Đỡ đòn ban đầu của người phòng thủ. Nếu kẻ tấn công Thất bại, họ chịu một bộ điều chỉnh tình huống là Khó hoặc Đáng gờm trong 1d3 Lượt tiếp theo, tùy thuộc vào phương pháp làm mù.
+#### Disarm Opponent
+Nhân vật đánh, giật hoặc xoay vũ khí của đối thủ ra khỏi tay họ. Đối thủ phải thực hiện Đổ Xúc Xắc Đối Kháng kỹ năng Phong Cách Chiến Đấu của mình chống lại lượt đổ xúc xắc ban đầu của nhân vật. Nếu người nhận đòn tước vũ khí thua, vũ khí của anh ta bị văng đi một khoảng cách bằng kết quả đổ xúc xắc Hệ Số Sát Thương của kẻ tước vũ khí x3 feet. Nếu không có Hệ Số Sát Thương, vũ khí rơi xuống ngay chân người bị tước. Kích thước tương đối của các loại vũ khí ảnh hưởng đến lượt đổ xúc xắc. Mỗi bậc mà vũ khí của nhân vật tước vũ khí lớn hơn sẽ làm tăng độ khó của lượt đổ xúc xắc đối thủ lên một cấp độ. Ngược lại, mỗi bậc vũ khí của nhân vật tước vũ khí nhỏ hơn sẽ làm độ khó dễ hơn một cấp độ. Tước vũ khí chỉ có tác dụng lên các sinh vật có chỉ số SM lên đến gấp đôi kẻ tấn công.
 
-#### Bypass Armor (Vượt qua Giáp)
+#### Enhance Parry
+Khi đạt kết quả Chí Mạng, người phòng thủ xoay sở để làm chệch hướng toàn bộ lực của một cuộc tấn công, bất kể Kích Thước vũ khí của anh ta.
 
-Khi đạt Thành công Quan trọng, kẻ tấn công tìm thấy một khoảng hở trong giáp tự nhiên hoặc giáp mặc của người phòng thủ. Nếu người phòng thủ đang mặc giáp trên mức bảo vệ tự nhiên, kẻ tấn công phải quyết định loại giáp nào bị vượt qua. Hiệu ứng này có thể được cộng dồn để vượt qua cả hai. Với mục đích của hiệu ứng này, bảo vệ vật lý có được từ ma thuật được coi là giáp mặc.
+#### Entangle
+Cho phép một nhân vật sử dụng vũ khí quấn, như roi hoặc lưới, để làm tê liệt vị trí bị đánh trúng. Một cánh tay bị quấn không thể sử dụng bất cứ thứ gì đang cầm; một cái chân bị mắc bẫy ngăn mục tiêu di chuyển; trong khi đầu, ngực hoặc bụng bị quấn khiến tất cả các lượt đổ xúc xắc kỹ năng khó hơn một cấp độ. Đến lượt tiếp theo của mình, người sử dụng có thể tiêu tốn một Điểm Hành Động để thực hiện một nỗ lực Tước Vũ Khí/Trip Opponent tự động. Nạn nhân bị quấn có thể cố gắng tự giải thoát vào lượt của mình bằng cách thực hiện Đổ Xúc Xắc Đối Kháng sử dụng Cơ Bắp để giật mạnh, hoặc giành được một Hiệu Ứng Đặc Biệt và chọn Sát Thương Weapon, Disarm Opponent, hoặc Slip Free.
 
-#### Choose Location (Chọn Vị trí)
+#### Force Failure
+Được sử dụng khi đối thủ Thất Bại Thảm Hại, nhân vật có thể kết hợp Force Failure với bất kỳ Hiệu Ứng Đặc Biệt nào khác yêu cầu Đổ Xúc Xắc Đối Kháng để hoạt động. Force Failure khiến đối thủ Thất Bại trong lượt đổ xúc xắc kháng cự theo mặc định – qua đó tự động bị tước vũ khí, ngã, v.v.
 
-Khi sử dụng vũ khí cận chiến, kẻ tấn công có thể tự do chọn vị trí đòn đánh rơi vào, miễn là vị trí đó thường nằm trong tầm với. Nếu sử dụng vũ khí Tầm xa, Chọn Vị trí chỉ đạt được với Thành công Quan trọng, trừ khi mục tiêu nằm trong Tầm gần và đang đứng yên hoặc không biết về sự hiện diện của kẻ tấn công.
+#### Grip
+Với điều kiện đối thủ nằm trong tầm với của Kỹ năng Tay Không của kẻ tấn công, họ có thể sử dụng một bàn tay trống (hoặc chi tương tự có khả năng cầm nắm) để giữ lấy đối thủ, ngăn họ không thể rút lui khỏi trận chiến. Đối thủ có thể cố gắng thoát ra vào lượt của mình, yêu cầu một Đổ Xúc Xắc Đối Kháng Cơ Bắp hoặc Tay Không chống lại kỹ năng nào trong hai kỹ năng mà kẻ giữ muốn.
 
-#### Circumvent Parry (Vượt qua Đỡ đòn)
+#### Impale
+Đổ xúc xắc sát thương vũ khí hai lần, với kẻ tấn công chọn một trong hai kết quả để sử dụng cho cuộc tấn công. Giả sử vũ khí là vũ khí cận chiến, nếu giáp bị xuyên thủng và gây ra vết thương, kẻ tấn công có tùy chọn để vũ khí lại trong vết thương hoặc giật nó ra vào lượt tiếp theo. Để vũ khí lại trong vết thương gây ra một Cấp Độ Khó cho các nỗ lực kỹ năng tương lai của nạn nhân. Mức độ nghiêm trọng của hình phạt phụ thuộc vào kích thước của cả sinh vật và vũ khí đâm, như được liệt kê trong Bảng Hiệu Ứng Đâm bên dưới. Để đơn giản, các cú đâm tiếp theo bằng cùng một loại vũ khí có kích thước tương tự sẽ không gây thêm hình phạt. Để rút một vũ khí đang đâm trong cận chiến đòi hỏi sử dụng Hành Động Chiến Đấu Ready Weapon. Người sử dụng phải vượt qua lượt đổ xúc xắc Cơ Bắp không đối kháng (hoặc thắng một lượt Đổ Xúc Xắc Đối Kháng Cơ Bắp nếu đối thủ kháng cự). Thành công sẽ kéo vũ khí ra, gây thêm thương tích cho cùng vị trí đó bằng một nửa kết quả đổ xúc xắc sát thương bình thường của vũ khí đó, nhưng không có bất kỳ Hệ Số Sát Thương nào. Thất bại có nghĩa là vũ khí vẫn bị kẹt trong vết thương mà không có thêm hiệu ứng nào, mặc dù người sử dụng có thể thử lại vào lượt tiếp theo của họ. Đặc biệt là các loại vũ khí có gai (như lao móc) gây sát thương bình thường. Giáp không làm giảm sát thương khi rút vũ khí. Trong khi nó vẫn bị đâm, kẻ tấn công không thể sử dụng vũ khí đâm của mình để Đỡ Đòn.
 
-Khi đạt Thành công Quan trọng, kẻ tấn công có thể vượt qua hoàn toàn một cú Đỡ đòn vốn dĩ thành công.
+##### Bảng Hiệu Ứng Đâm
 
-#### Damage Weapon (Làm hỏng vũ khí)
-
-Cho phép nhân vật làm hỏng vũ khí của đối thủ như một phần của cuộc tấn công hoặc Đỡ đòn. Nếu tấn công, nhân vật nhắm cụ thể vào vũ khí Đỡ đòn của đối thủ và áp dụng lần tung sát thương của mình lên đó, thay vì lên người sử dụng. Vũ khí mục tiêu sử dụng Điểm Giáp của chính nó để chống lại sát thương. Nếu giảm xuống không Điểm Sinh lực, vũ khí sẽ bị gãy.
-
-#### Disarm Opponent (Tước vũ khí đối thủ)
-
-Nhân vật hất, giật hoặc vặn vũ khí của đối thủ khỏi tay họ. Đối thủ phải thực hiện lần Tung xúc xắc Đối lập Phong cách Chiến đấu của mình chống lại lần tung xúc xắc ban đầu của nhân vật. Nếu người nhận bị tước vũ khí thua, vũ khí của họ bị văng ra một khoảng cách bằng kết quả tung Bộ điều chỉnh Sát thương của người tước vũ khí x3 feet. Nếu không có Bộ điều chỉnh Sát thương, vũ khí sẽ rơi ngay dưới chân người bị tước vũ khí. Kích thước so sánh của vũ khí ảnh hưởng đến lần tung xúc xắc. Mỗi bậc mà vũ khí của nhân vật tước vũ khí lớn hơn sẽ làm tăng độ khó của lần tung xúc xắc của đối thủ lên một cấp. Ngược lại, mỗi bậc vũ khí của nhân vật nhỏ hơn sẽ làm cho độ khó dễ hơn một cấp. Tước vũ khí chỉ hoạt động trên các sinh vật có STR lên đến gấp đôi.
-
-#### Enhance Parry (Tăng cường Đỡ đòn)
-
-Khi đạt Thành công Quan trọng, người phòng thủ xoay xở làm lệch toàn bộ lực của một cuộc tấn công, bất kể Kích thước vũ khí của họ.
-
-#### Entangle (Vướng mắc)
-
-Cho phép một nhân vật cầm vũ khí vướng mắc, chẳng hạn như roi hoặc lưới, làm bất động vị trí bị trúng đòn. Một cánh tay bị vướng không thể sử dụng bất cứ thứ gì đang cầm; một chân bị vướng ngăn cản mục tiêu di chuyển; trong khi đầu, ngực hoặc bụng bị vướng khiến tất cả các lần tung xúc xắc kỹ năng khó hơn một cấp. Trong lượt tiếp theo của mình, người cầm vũ khí có thể tiêu tốn một Điểm Hành động để thực hiện nỗ lực Trip Opponent tự động. Nạn nhân bị vướng có thể cố gắng tự giải thoát trong lượt của mình bằng cách cố gắng thực hiện lần Tung xúc xắc Đối lập sử dụng Sức mạnh để giật mạnh, hoặc giành một Hiệu ứng Đặc biệt và chọn Làm hỏng Vũ khí, Tước vũ khí đối thủ hoặc Slip Free.
-
-#### Force Failure (Buộc thất bại)
-
-Được sử dụng khi đối thủ Vụng về, nhân vật có thể kết hợp Force Failure với bất kỳ Hiệu ứng Đặc biệt nào khác đòi hỏi một lần Tung xúc xắc Đối lập để hoạt động. Force Failure khiến đối thủ Thất bại trong lần tung xúc xắc kháng cự theo mặc định – từ đó tự động bị tước vũ khí, vấp ngã, v.v.
-
-#### Grip (Nắm giữ)
-
-Miễn là đối thủ nằm trong tầm tay cận chiến không vũ khí của kẻ tấn công, họ có thể sử dụng một bàn tay trống (hoặc chi tương tự có khả năng nắm giữ) để giữ đối thủ, ngăn họ không thể rút lui khỏi chiến đấu. Đối thủ có thể cố gắng thoát khỏi trong lượt của mình, đòi hỏi một lần Tung xúc xắc Đối lập về Sức mạnh hoặc Không vũ khí chống lại kỹ năng nào trong hai kỹ năng mà người nắm giữ ưu tiên.
-
-#### Impale (Xuyên thủng)
-
-Tung sát thương vũ khí hai lần, kẻ tấn công chọn một trong hai kết quả để sử dụng cho cuộc tấn công. Giả sử vũ khí là vũ khí cận chiến, nếu xuyên thủng giáp và gây ra vết thương, kẻ tấn công có tùy chọn để lại vũ khí trong vết thương hoặc giật nó ra trong lượt tiếp theo của họ. Để lại vũ khí trong vết thương gây ra một Cấp độ Khó cho các lần tung xúc xắc kỹ năng trong tương lai của nạn nhân. Mức độ nghiêm trọng của hình phạt phụ thuộc vào kích thước của cả sinh vật và vũ khí xuyên thủng, như được liệt kê trong Bảng Hiệu ứng Xuyên thủng bên dưới. Để đơn giản hóa, các lần xuyên thủng tiếp theo với cùng loại vũ khí kích thước đó không gây thêm hình phạt. Để rút vũ khí bị xuyên thủng trong khi cận chiến đòi hỏi phải sử dụng Hành động Chiến đấu Chuẩn bị Vũ khí. Người cầm vũ khí phải vượt qua lần tung xúc xắc Sức mạnh không bị đối lập (hoặc thắng lần tung xúc xắc Sức mạnh Đối lập nếu đối thủ chống cự). Thành công kéo vũ khí ra, gây thêm chấn thương cho cùng một vị trí bằng một nửa lần tung sát thương bình thường cho loại vũ khí đó, nhưng không có bất kỳ Bộ điều chỉnh Sát thương nào. Thất bại có nghĩa là vũ khí vẫn bị mắc kẹt trong vết thương mà không có hiệu ứng nào khác, mặc dù người cầm vũ khí có thể thử lại trong lượt tiếp theo. Đặc biệt, các loại vũ khí có ngạnh (như lao móc) gây sát thương bình thường. Giáp không làm giảm sát thương rút vũ khí. Trong khi nó vẫn bị xuyên thủng, kẻ tấn công không thể sử dụng vũ khí xuyên thủng của mình để Đỡ đòn.
-
-##### Bảng Hiệu ứng Xuyên thủng
-
-| Kích thước sinh vật | Vũ khí nhỏ | Vũ khí trung bình | Vũ khí lớn | Vũ khí khổng lồ | Vũ khí vĩ đại |
+| KT Sinh Vật | Vũ Khí Nhỏ | Vũ Khí Trung Bình | Vũ Khí Lớn | Vũ Khí Khổng Lồ | Vũ Khí To Lớn |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 1-10 | Đáng gờm | Herculean | Bất lực | Bất lực | Bất lực |
-| 11-20 | Khó | Đáng gờm | Herculean | Bất lực | Bất lực |
-| 21-30 | Không ảnh hưởng | Khó | Đáng gờm | Herculean | Bất lực |
-| 31-40 | Không ảnh hưởng | Không ảnh hưởng | Khó | Đáng gờm | Herculean |
-| 41-50 | Không ảnh hưởng | Không ảnh hưởng | Không ảnh hưởng | Khó | Đáng gờm |
-| Mỗi +10 | Theo tiến trình của bảng |
+| 1-10 | Ghê Gớm | Phi Thường | Mất Khả Năng Hành Động | Mất Khả Năng Hành Động | Mất Khả Năng Hành Động |
+| 11-20 | Khó | Ghê Gớm | Phi Thường | Mất Khả Năng Hành Động | Mất Khả Năng Hành Động |
+| 21-30 | Không Hiệu Quả | Khó | Ghê Gớm | Phi Thường | Mất Khả Năng Hành Động |
+| 31-40 | Không Hiệu Quả | Không Hiệu Quả | Khó | Ghê Gớm | Phi Thường |
+| 41-50 | Không Hiệu Quả | Không Hiệu Quả | Không Hiệu Quả | Khó | Ghê Gớm |
+| Mỗi +10 | Theo thứ tự bảng |
 
-#### Sharpshooter (Xạ thủ)
+#### Sharpshooter
+Cho phép người bắn di chuyển Vị Trí Trúng Đòn do phát bắn của mình một bậc, đến khu vực cơ thể liền kề ngay lập tức. Sinh lý học có ảnh hưởng đến những gì có thể nhắm mục tiêu lại và nên áp dụng lẽ thường. Do đó, việc sử dụng Hiệu Ứng Đặc Biệt này trên một hình người sẽ cho phép kẻ tấn công đã đổ trúng phát bắn vào chân, di chuyển nó lên bụng thay thế. Ngược lại, bắn một TC griffin vào ngực sẽ cho phép chọn chân trước, cánh hoặc đầu.
 
-Cho phép người bắn di chuyển Vị trí Trúng đòn bị bắn trúng thêm một bước, đến một vùng cơ thể liền kề ngay lập tức. Sinh lý học có ảnh hưởng đến những gì có thể nhắm mục tiêu lại và nên sử dụng lẽ thường. Do đó, việc sử dụng Hiệu ứng Đặc biệt này trên một sinh vật hình người sẽ cho phép một kẻ tấn công đã tung trúng chân, di chuyển nó lên bụng thay thế. Ngược lại, bắn một con griffin vào ngực sẽ cho phép chọn chân trước, cánh hoặc đầu.
+#### Maximize Sát Thương
+Khi đạt kết quả Chí Mạng, nhân vật có thể thay thế một trong những viên xúc xắc sát thương vũ khí của mình bằng giá trị đầy đủ của nó. Ví dụ, một cây Rìu Tay thường gây 1d6 sát thương sẽ thay vào đó được coi là 6, trong khi một cây gậy lớn với sát thương 2d6 sẽ gây 1d6+6 sát thương. Hiệu Ứng Đặc Biệt này có thể được cộng dồn. Mặc dù nó cũng có thể được sử dụng cho vũ khí tự nhiên, Maximize Sát Thương không ảnh hưởng đến Hệ Số Sát Thương của kẻ tấn công, vốn phải được đổ xúc xắc bình thường.
 
-#### Maximize Damage (Tối đa hóa sát thương)
+#### Prepare Counter
+Người phòng thủ đọc các kiểu đánh của kẻ thù và chuẩn bị một đòn phản công chống lại một Hiệu Ứng Đặc Biệt cụ thể (cần được ghi chú bí mật). Nếu đối thủ của anh ta cố gắng gây ra Hiệu Ứng Đặc Biệt đã chọn lên anh ta trong trận chiến, người phòng thủ lập tức thay thế hiệu ứng của kẻ tấn công bằng một hiệu ứng của riêng mình, vốn sẽ thành công tự động.
 
-Khi đạt Thành công Quan trọng, nhân vật có thể thay thế một trong các viên xúc xắc sát thương của vũ khí của mình bằng giá trị đầy đủ của nó. Ví dụ, một cái rìu cầm tay thường gây 1d6 sát thương sẽ được coi là 6, trong khi một cái gậy lớn với 2d6 sát thương sẽ thay vào đó gây 1d6+6 sát thương. Hiệu ứng Đặc biệt này có thể được cộng dồn. Mặc dù nó cũng có thể được sử dụng cho các vũ khí tự nhiên, Tối đa hóa Sát thương không ảnh hưởng đến Bộ điều chỉnh Sát thương của kẻ tấn công, vốn phải được tung xúc xắc bình thường.
+#### Rapid Nạp Đạn
+Khi sử dụng vũ khí Tầm Xa, kẻ tấn công giảm thời gian nạp đạn cho phát bắn tiếp theo đi một. Hiệu ứng này có thể được cộng dồn.
 
-#### Prepare Counter (Chuẩn bị phản công)
+#### Scar Foe
+Chiến binh để lại cho đối thủ của mình một vết sẹo sẽ là chủ đề bàn tán của tất cả mọi người trong phần đời còn lại của anh ta hoặc cô ta - chẳng hạn như một vết cắt gần đứt cổ họng, hoặc chữ 'Z' được khắc nghệ thuật trên ngực.
 
-Người phòng thủ đọc được các kiểu di chuyển của kẻ thù và chuẩn bị một đòn phản công chống lại một Hiệu ứng Đặc biệt cụ thể (nên được ghi chú bí mật). Nếu đối thủ của anh ta cố gắng gây ra Hiệu ứng Đặc biệt đã chọn lên anh ta trong trận chiến, người phòng thủ sẽ ngay lập tức thay thế hiệu ứng của kẻ tấn công bằng một trong những hiệu ứng của riêng mình, vốn sẽ thành công tự động.
+#### Select Target
+Khi kẻ tấn công Thất Bại Thảm Hại, người phòng thủ có thể điều động hoặc làm chệch hướng cú đánh theo cách để nó trúng một người đứng gần đó thay thế. Điều này yêu cầu mục tiêu mới nằm trong tầm với của vũ khí cận chiến của kẻ tấn công, hoặc trong trường hợp tấn công tầm xa, đang đứng dọc theo đường đạn. Nạn nhân mới hoàn toàn bị bất ngờ bởi tai nạn không mong muốn và không có cơ hội để tránh cuộc tấn công vốn tự động trúng đích. Tuy nhiên, để bù lại, họ không phải chịu Hiệu Ứng Đặc Biệt nào.
 
-#### Rapid Reload (Nạp đạn nhanh)
+#### Slip Free
+Khi đạt kết quả Chí Mạng, người phòng thủ có thể tự động thoát khỏi việc bị Quấn, Giữ chặt hoặc Ghim.#### Vị Trí Trúng Đòn Làm Choáng
 
-Khi sử dụng vũ khí Tầm xa, kẻ tấn công giảm thời gian nạp đạn cho lần bắn tiếp theo đi một. Hiệu ứng này có thể được cộng dồn.
+Kẻ tấn công có thể sử dụng vũ khí dạng đập để làm choáng tạm thời bộ phận cơ thể bị đánh trúng. Nếu cú đánh vượt qua được các Điểm Giáp và gây thương tích cho mục tiêu, người phòng thủ phải thực hiện một Đổ Xúc Xắc Đối Đầu giữa Sức Bền so với kết quả đổ xúc xắc tấn công ban đầu. Nếu người phòng thủ Thất Bại, thì Vị Trí Trúng Đòn đó sẽ bị Mất Khả Năng Hành Động trong một số lượt bằng với sát thương gây ra. Một cú đánh vào phần thân khiến người phòng thủ loạng choạng và Hụt Hơi, chỉ có thể phòng thủ. Một cú đánh vào đầu khiến đối thủ mất ý thức trong giây lát và Không Thể Hành Động.
 
-#### Scar Foe (Để lại sẹo cho kẻ thù)
+#### Chia Cắt
 
-Chiến binh để lại cho đối thủ của mình một vết sẹo sẽ là chủ đề bàn tán của mọi người trong suốt phần đời còn lại của anh ta hoặc cô ta - chẳng hạn như một vết cứa gần đứt cổ, hoặc chữ 'Z' được chạm khắc nghệ thuật trên ngực.
+Kẻ tấn công có thể sử dụng vũ khí phù hợp, chẳng hạn như rìu, để làm hư hại giáp hoặc vật bảo vệ tự nhiên của đối thủ. Mọi sát thương từ vũ khí, sau khi đã giảm trừ do Đỡ Đòn hoặc phép thuật, sẽ được áp dụng vào giá trị Điểm Giáp của vật bảo vệ. Sát thương dư thừa sau khi trừ đi các Điểm Giáp sẽ được dùng để làm giảm giá trị AP của vị trí được bọc giáp đó – làm đứt dây đeo, làm vỡ vòng khoen, làm biến dạng tấm giáp, hoặc xé rách da, vảy, hay lớp vỏ chitin của quái vật. Nếu vẫn còn sát thương sau khi vật bảo vệ bị giảm xuống còn 0 AP, sát thương đó sẽ được chuyển vào các Điểm Máu của vị trí bị đánh trúng.
 
-#### Select Target (Chọn mục tiêu)
+#### Quật Ngã Đối Thủ
 
-Khi kẻ tấn công Vụng về, người phòng thủ có thể điều khiển hoặc làm lệch đòn đánh theo cách mà nó trúng vào một người ngoài cuộc gần đó thay thế. Điều này đòi hỏi mục tiêu mới phải nằm trong tầm với của vũ khí cận chiến của kẻ tấn công, hoặc trong trường hợp tấn công tầm xa, đang đứng trên đường bắn. Nạn nhân mới hoàn toàn bất ngờ trước tai nạn bất ngờ và không có cơ hội tránh đòn vốn tự động trúng đích. Tuy nhiên, để bù lại, họ không phải chịu Hiệu ứng Đặc biệt nào.
+Nhân Vật cố gắng làm mất thăng bằng hoặc ném đối thủ xuống đất. Đối thủ phải thực hiện một Đổ Xúc Xắc Đối Đầu giữa Cơ Bắp, Né Tránh hoặc Điền Kinh của mình so với kết quả đổ xúc xắc ban đầu của Nhân Vật. Nếu mục tiêu Thất Bại, họ sẽ bị ngã sấp. Các đối thủ bốn chân (hoặc sinh vật có nhiều chân hơn) có thể thay thế kỹ năng Điền Kinh cho Né Tránh và coi như lần đổ xúc xắc đó dễ hơn một Cấp Độ Khó.
 
-#### Slip Free (Trượt thoát)
+#### Rút Lui
 
-Khi đạt Thành công Quan trọng, người phòng thủ có thể tự động thoát khỏi việc bị Vướng, Nắm giữ hoặc Ghim.
-
-#### Stun Location (Làm choáng vị trí)
-
-Kẻ tấn công có thể sử dụng vũ khí đập để tạm thời làm choáng bộ phận cơ thể bị trúng đòn. Nếu đòn đánh vượt qua Điểm Giáp và làm bị thương mục tiêu, người phòng thủ phải thực hiện một lần Tung xúc xắc Đối lập về Sức bền so với lần tung xúc xắc tấn công ban đầu. Nếu người phòng thủ Thất bại, thì Vị trí Trúng đòn sẽ bị Bất lực trong một số Lượt bằng với sát thương gây ra. Một đòn đánh vào thân người khiến người phòng thủ loạng choạng, mất hơi, chỉ có thể phòng thủ. Một cú đánh vào đầu khiến kẻ thù bất tỉnh trong chốc lát và không thể hành động.
-
-#### Sunder (Phá hủy)
-
-Kẻ tấn công có thể sử dụng vũ khí phù hợp, chẳng hạn như rìu, để làm hỏng giáp hoặc bảo vệ tự nhiên của đối thủ. Bất kỳ sát thương vũ khí nào, sau khi giảm do Đỡ đòn hoặc ma thuật, được áp dụng vào giá trị Điểm Giáp của sự bảo vệ. Sát thương dư thừa trên Điểm Giáp sau đó được sử dụng để giảm giá trị AP của vị trí giáp đó – xé dây đai, làm vỡ vòng, làm biến dạng các tấm giáp, hoặc xé bỏ lớp da, vảy hoặc vỏ chitin của quái vật. Nếu bất kỳ sát thương nào còn lại sau khi sự bảo vệ đã giảm xuống 0 AP, nó sẽ chuyển sang Điểm Sinh lực của vị trí bị trúng đòn.
-
-#### Trip Opponent (Vấp ngã đối thủ)
-
-Nhân vật cố gắng làm mất thăng bằng hoặc quật ngã đối thủ của mình xuống đất. Đối thủ phải thực hiện một lần Tung xúc xắc Đối lập về Sức mạnh, Né tránh hoặc Nhào lộn so với lần tung xúc xắc ban đầu của nhân vật. Nếu mục tiêu Thất bại, họ sẽ nằm sấp. Đối thủ bốn chân (hoặc các sinh vật có nhiều chân hơn) có thể thay thế kỹ năng Thể thao cho Né tránh và coi lần tung xúc xắc dễ hơn một Cấp độ Khó.
-
-#### Withdraw (Rút lui)
-
-Người phòng thủ có thể tự động rút lui khỏi tầm với, phá vỡ giao chiến với đối thủ cụ thể đó.
+Người phòng thủ có thể tự động rút lui ra ngoài tầm với, kết thúc giao tranh với đối thủ cụ thể đó.
 
 ---
-## Cận chiến
+## Cận Chiến
 
-Cận chiến là chiến đấu tay đôi theo nghĩa cổ điển khi các chiến binh đánh nhau bằng vũ khí cầm tay hoặc vũ khí tự nhiên. Các hướng dẫn sau đây cung cấp các cách làm cho cận chiến trở nên thú vị hơn và giúp giải thích thêm một số khái niệm đã được gợi ý trước đó trong chương này.
+Cận chiến là lối đánh tay đôi theo nghĩa cổ điển khi các chiến binh tấn công lẫn nhau bằng vũ khí cầm tay hoặc vũ khí tự nhiên. Những hướng dẫn sau đây cung cấp các cách để làm cho cận chiến trở nên thú vị hơn và giúp giải thích sâu hơn một số khái niệm đã được gợi ý trước đó trong chương này.
 
-### Các bộ điều chỉnh tình huống
+### Hệ Số Tình Huống
 
-Các bộ điều chỉnh tình huống có thể được áp dụng khi chiến đấu trong các điều kiện cụ thể, hoặc là kết quả của một Hiệu ứng Đặc biệt. Ví dụ, chiến đấu trong bóng tối có thể phải chịu một Cấp độ Khó là Herculean. Trừ khi có quy định khác, các bộ điều chỉnh được quyết định bởi Quản trò. Khi hai hoặc nhiều tình huống liên quan đến nhân vật, hãy sử dụng tình huống nghiêm trọng nhất.
+Các hệ số tình huống có thể được áp dụng khi chiến đấu trong các điều kiện cụ thể, hoặc là kết quả của một Hiệu Ứng Đặc Biệt. Ví dụ, chiến đấu trong bóng tối có thể phải chịu một Cấp Độ Khó là Phi Thường. Trừ khi có quy định khác, các hệ số này do Quản Trò quyết định. Khi có hai hoặc nhiều tình huống áp dụng cho Nhân Vật, hãy sử dụng tình huống nghiêm trọng nhất.
 
-Một số bộ điều chỉnh phụ thuộc vào hoàn cảnh, nhưng thay vì áp dụng một Cấp độ Khó, Kỹ năng Chiến đấu bị giới hạn bởi một kỹ năng liên quan. Ví dụ, chiến đấu trên lưng ngựa sẽ giới hạn Kỹ năng Chiến đấu của chiến binh bằng kỹ năng Cưỡi ngựa của họ, trong khi chiến đấu dưới nước có thể giới hạn nó bằng giá trị kỹ năng Bơi của nhân vật.
+Một số hệ số phụ thuộc vào hoàn cảnh, nhưng thay vì áp dụng một Cấp Độ Khó, Kỹ Năng Chiến Đấu sẽ bị giới hạn bởi một kỹ năng liên quan. Ví dụ, chiến đấu trên lưng ngựa có thể giới hạn Kỹ Năng Chiến Đấu của người chiến đấu bởi kỹ năng Cưỡi của họ, trong khi chiến đấu dưới nước có thể giới hạn nó ở giá trị kỹ năng Bơi Lội của Nhân Vật.
 
-##### Các bộ điều chỉnh tình huống cận chiến
+##### Hệ Số Tình Huống Cận Chiến
 
-| Tình huống | Cấp độ khó |
+| Tình huống | Cấp Độ Khó |
 | --- | --- |
-| Tấn công một mục tiêu bất lực | Tự động |
-| Tấn công trong tình huống hạn chế | Khó |
-| Phòng thủ khi ở vùng đất thấp hơn hoặc chống lại kẻ thù cưỡi ngựa | Khó |
-| Chiến đấu trên mặt đất không ổn định | Khó |
-| Chiến đấu khi cúi người hoặc từ một đầu gối | Khó |
+| Tấn công một mục tiêu Bất Lực | Tự Động |
+| Tấn công trong tình huống bị giới hạn không gian | Khó |
+| Phòng thủ khi đang ở nền đất thấp hơn hoặc chống lại kẻ thù cưỡi thú | Khó |
+| Chiến đấu trên nền đất không ổn định | Khó |
+| Chiến đấu khi đang cúi người hoặc từ một đầu gối | Khó |
 | Chiến đấu trong điều kiện tầm nhìn kém (sương mù dày đặc, bão tuyết) | Khó |
-| Phòng thủ chống lại một cuộc tấn công từ phía sau | Đáng gờm |
-| Chiến đấu khi nằm sấp | Đáng gờm |
-| Chiến đấu trong điều kiện ánh sáng yếu (chiếu sáng mờ) | Đáng gờm |
-| Chiến đấu trong điều kiện tối tăm hoàn toàn (không có ánh sáng) | Herculean |
-| Bị mù hoặc mất cảm giác nhận thức chính | Herculean |
+| Phòng thủ trước một đòn tấn công từ phía sau | Ghê Gớm |
+| Chiến đấu khi đang nằm sấp | Ghê Gớm |
+| Chiến đấu trong điều kiện ánh sáng một phần (chiếu sáng mờ) | Ghê Gớm |
+| Chiến đấu trong điều kiện tối đen (hoàn toàn không có ánh sáng) | Phi Thường |
+| Bị mù hoặc mất khả năng nhận thức chính | Phi Thường |
 
-### Giao chiến (Engagement)
+### Giao Chiến
 
-Một nhân vật được coi là đang Giao chiến nếu nằm trong tầm vũ khí cận chiến của đối thủ. Điều này không nhất thiết đòi hỏi cả hai chiến binh đều có thể với tới nhau; chỉ cần một trong số họ có khả năng bị đánh trúng bởi người kia. Khi một nhân vật đã Giao chiến với đối thủ, họ không thể tự do rời bỏ trận chiến đó (xung phong lướt qua là một ngoại lệ đặc biệt). Cần phải có một số hình thức hành động cố ý để phá vỡ liên lạc với kẻ thù, thường được thực hiện thông qua Hành động Chiến đấu như Vượt mặt, hoặc sử dụng Hiệu ứng Đặc biệt Rút lui.
+Một Nhân Vật được coi là Giao Chiến nếu nằm trong tầm với của vũ khí cận chiến của đối thủ. Điều này không nhất thiết đòi hỏi cả hai chiến binh đều có thể chạm tới nhau; mà chỉ cần một trong số họ có khả năng bị người kia đánh trúng. Một khi Nhân Vật đã Giao Chiến với một đối thủ, họ không thể tự do rời bỏ trận chiến đó (lao qua là một ngoại lệ đặc biệt). Cần phải có một hình thức hành động có chủ đích để phá vỡ tiếp xúc với kẻ thù, thường được thực hiện thông qua một Hành Động Chiến Đấu như Di Chuyển Chiến Thuật, hoặc sử dụng Hiệu Ứng Đặc Biệt Rút Lui.
 
-### Xung phong (Charging)
+### Lao Đến
 
-Hành động Xung phong là hành động di chuyển nhanh để tăng lực và tác động của một cuộc tấn công. Một đòn xung phong đòi hỏi kẻ tấn công chọn một Hành động Xung phong, di chuyển theo kiểu Chạy hoặc Chạy nước rút. Nếu điều này đưa họ vào vị trí tiếp xúc với đối thủ, họ phải dừng lại ở đó và thực hiện Hành động Tấn công, được điều chỉnh cho đòn xung phong. Không có khoảng cách tối thiểu phải vượt qua trước khi một đòn xung phong có thể diễn ra, vì khoảng cách di chuyển là một yếu tố ít quan trọng hơn động năng đạt được. Do đó, việc chạy hoặc chạy nước rút là yếu tố chính.
+Hành Động Lao Đến là hành động di chuyển nhanh để tăng cường lực và tác động của một đòn tấn công. Một đòn lao đến yêu cầu kẻ tấn công chọn một Hành Động Lao Đến, di chuyển với tốc độ Chạy hoặc Nước Rút. Nếu điều này đưa họ vào vị trí tiếp xúc với đối thủ, họ phải dừng lại ở đó và thực hiện Hành Động Tấn Công, theo cách đã được điều chỉnh cho cú lao đến. Không có khoảng cách tối thiểu phải vượt qua trước khi một cú lao đến có thể diễn ra, vì khoảng cách di chuyển là một yếu tố ít quan trọng hơn so với động lượng đạt được. Do đó, việc chạy hoặc nước rút là cần thiết.
 
-Trong khi xung phong, lần tung xúc xắc tấn công chịu một Cấp độ Khó là Khó. Đổi lại, đòn xung phong làm tăng Kích thước của vũ khí tấn công lên một bậc và Bộ điều chỉnh Sát thương của một kẻ tấn công hai chân lên một bậc; hoặc hai bậc nếu là động vật bốn chân (hoặc nhiều chân hơn). Các nhân vật cưỡi ngựa có thể thay thế Bộ điều chỉnh Sát thương của mình bằng bộ điều chỉnh của thú cưỡi. Vị trí cuối cùng của nhân vật xung phong phụ thuộc vào kết quả của cuộc trao đổi và liệu kẻ tấn công có muốn dừng lại hay tiếp tục lướt qua, phá vỡ giao chiến ngay lập tức hay không.
+Trong khi lao đến, kết quả đổ xúc xắc tấn công phải chịu một Cấp Độ Khó là Khó. Đổi lại, cú lao đến làm tăng Kích Thước (Siêu Năng Lực) của vũ khí tấn công lên một bậc và Hệ Số Sát Thương của kẻ tấn công hai chân lên một bậc; hoặc hai bậc nếu là sinh vật bốn chân (hoặc nhiều chân hơn). Nhân Vật đang cưỡi thú có thể thay thế Hệ Số Sát Thương của mình bằng Hệ Số Sát Thương của thú cưỡi. Vị trí cuối cùng của Nhân Vật đang lao đến phụ thuộc vào kết quả của cuộc trao đổi chiêu thức và liệu kẻ tấn công có muốn dừng lại hay tiếp tục lướt qua, phá vỡ giao chiến ngay lập tức hay không.
 
-Thay vì Đỡ đòn hoặc Né tránh, người nhận đòn xung phong có thể đồng thời phản công lại kẻ tấn công đang xung phong. Trong trường hợp này, người cầm vũ khí dài hơn sẽ đánh trước. Nếu vũ khí có thể được thiết lập để nhận một đòn xung phong (như giáo), người nhận có thể sử dụng Bộ điều chỉnh Sát thương của kẻ xung phong thay vì của riêng mình.
+Thay vì Đỡ Đòn hoặc Né Tránh, người nhận cú lao đến có thể đồng thời phản công lại kẻ tấn công đang lao tới. Trong trường hợp này, người cầm vũ khí dài hơn sẽ ra đòn trước. Nếu vũ khí có thể được đặt ở tư thế đón một cú lao đến (chẳng hạn như giáo), người nhận có thể sử dụng Hệ Số Sát Thương của kẻ lao đến thay vì của chính mình.
 
-### Che chắn (Cover)
+### Che Chắn
 
-Đối thủ sử dụng vật Che chắn để cản trở các cuộc tấn công nhắm vào họ, bằng cách vật lý chặn một đòn đánh do độ bền của vật liệu xen vào, hoặc bằng cách che khuất chính xác vị trí của kẻ thù. Giá trị chính xác của sự che chắn phụ thuộc vào độ dày của sự bảo vệ và phạm vi che chắn của nó.
+Đối thủ sử dụng Che Chắn để cản trở các đòn tấn công nhắm vào họ, bằng cách chặn đòn đánh nhờ độ cứng của vật trung gian, hoặc bằng cách làm khuất vị trí chính xác của kẻ thù. Giá trị chính xác của việc che chắn phụ thuộc vào độ dày của vật bảo vệ và mức độ che phủ của nó.
 
-Một cuộc tấn công vào mục tiêu rơi vào Vị trí Trúng đòn bị che khuất sẽ bị chặn lại ở mức độ bảo vệ vốn có của vật che chắn. Sự che chắn có thể bị vô hiệu hóa một phần bằng cách sử dụng Hiệu ứng Đặc biệt Chọn Vị trí để nhắm vào các bộ phận nhìn thấy được của mục tiêu, hoặc đánh xuyên qua vật che chắn nếu vũ khí có khả năng xuyên thủng nó.
+Một đòn tấn công nhắm vào mục tiêu trúng vào Vị Trí Trúng Đòn bị che khuất sẽ bị chặn lại tùy theo mức độ bảo vệ vốn có của vật che chắn. Việc che chắn có thể bị vô hiệu hóa một phần bằng cách sử dụng Hiệu Ứng Đặc Biệt Chọn Vị Trí để nhắm vào các bộ phận có thể nhìn thấy của mục tiêu, hoặc đánh xuyên qua vật che chắn nếu vũ khí có khả năng xuyên thấu.
 
-Trong các tình huống mà sự che chắn là tổng thể, nhưng kẻ tấn công tin rằng đòn tấn công của mình sẽ xuyên thủng, họ có thể tấn công mù quáng vào mục tiêu ẩn nấp. Trong những trường hợp như vậy, lần tung xúc xắc tấn công khó hơn một cấp, và không được chọn Chọn Vị trí nếu giành được Hiệu ứng Đặc biệt. Điều này giả định rằng kẻ tấn công biết khá chính xác vị trí của mục tiêu sau vật che chắn.
+Trong các tình huống mà sự che chắn là tuyệt đối, nhưng kẻ tấn công tin rằng đòn tấn công của mình sẽ xuyên thấu, họ có thể tấn công mù quáng vào mục tiêu ẩn nấp. Trong trường hợp như vậy, kết quả đổ xúc xắc tấn công sẽ khó hơn một cấp và không được phép chọn Hiệu Ứng Đặc Biệt Chọn Vị Trí nếu thắng. Điều này giả định rằng kẻ tấn công biết khá chính xác vị trí của mục tiêu đằng sau vật che chắn.
 
-### Né tránh (Evading)
+### Né Tránh
 
-Né tránh trong chiến đấu là tự ném mình ra khỏi một cuộc tấn công áp đảo. Điều này đòi hỏi một Bài kiểm tra Đối lập của kỹ năng Né tránh của người phòng thủ so với lần tung xúc xắc liên quan của kẻ tấn công. Đây có thể là bất cứ thứ gì từ kỹ năng Lái xe của một chiếc xe tăng chiến đấu đang lao đến cho đến kỹ năng niệm phép của một pháp sư. Nếu kẻ tấn công thắng thì họ gây sát thương như bình thường. Nếu người phòng thủ thắng, sát thương được tránh hoàn toàn.
+Né Tránh trong chiến đấu là tự ném mình ra khỏi một đòn tấn công áp đảo. Điều này đòi hỏi một Bài Kiểm Tra Đối Đầu giữa kỹ năng Né Tránh của người phòng thủ so với kỹ năng liên quan của kẻ tấn công. Đây có thể là bất cứ thứ gì từ kỹ năng Lái Xe của một cỗ xe tăng chiến đấu đang lao tới cho đến kỹ năng thi triển phép thuật của một pháp sư. Nếu kẻ tấn công thắng, họ gây sát thương như bình thường. Nếu người phòng thủ thắng, sát thương hoàn toàn bị tránh khỏi.
 
-Nếu người chiến thắng trong lần Tung xúc xắc Đối lập đạt được một hoặc nhiều Mức độ Thành công so với đối thủ của mình, họ có thể chọn các Hiệu ứng Đặc biệt phù hợp như chiến đấu bình thường. Bất kể kết quả thế nào, chiến thuật lặn tránh khiến người phòng thủ nằm sấp - thường đòi hỏi nhân vật phải lấy lại tư thế trong lượt tiếp theo của họ - trừ khi họ có thể sử dụng Hiệu ứng Đặc biệt _Arise_.
+Nếu người chiến thắng trong Đổ Xúc Xắc Đối Đầu đạt được một hoặc nhiều Cấp Độ Thành Công so với đối thủ của mình, họ có thể chọn các Hiệu Ứng Đặc Biệt phù hợp như trong chiến đấu thông thường. Dù kết quả thế nào, nước đi né tránh này khiến người phòng thủ bị ngã sấp - thường đòi hỏi Nhân Vật phải lấy lại thế đứng của mình trong lượt tiếp theo - trừ khi họ có thể sử dụng Hiệu Ứng Đặc Biệt _Đứng Dậy_.
 
-### Đẩy lùi (Knockback)
+### Đẩy Lùi
 
-Một cuộc tấn công mang lại nhiều sát thương hơn SIZ của người nhận, theo mặc định, sẽ khiến nhân vật bị đẩy lùi. Sát thương trong trường hợp này là trước bất kỳ sự giảm trừ nào do Đỡ đòn hoặc giáp. Khi nhận một đòn như vậy, người nhận phải vượt qua lần tung xúc xắc Nhào lộn Dễ hoặc Thể thao Tiêu chuẩn để tránh ngã sấp. Họ cũng bị đẩy lùi 5 feet cho mỗi 8 điểm sát thương (hoặc phần nhỏ) vượt quá SIZ của họ. Việc chủ động sử dụng Hành động Chiến đấu Thủ thế có thể giảm hoặc thậm chí vô hiệu hóa các hiệu ứng của việc đẩy lùi.
+Một đòn tấn công mang lại sát thương nhiều hơn Kích Thước (Siêu Năng Lực) của người nhận sẽ, theo mặc định, khiến Nhân Vật bị đẩy lùi. Sát thương trong trường hợp này được tính trước khi có bất kỳ sự giảm trừ nào do Đỡ Đòn hoặc giáp. Khi nhận một cú đánh như vậy, người nhận phải vượt qua một lần đổ xúc xắc Điền Kinh Dễ hoặc Điền Kinh Tiêu Chuẩn để tránh bị ngã sấp. Họ cũng bị đẩy lùi 5 feet cho mỗi 8 điểm sát thương (hoặc phần lẻ của nó) vượt quá Kích Thước (Siêu Năng Lực) của họ. Việc chủ động sử dụng Hành Động Chiến Đấu Cố Định có thể làm giảm hoặc thậm chí vô hiệu hóa các hiệu ứng của việc đẩy lùi.
 
-### Nhảy tấn công (Leaping Attacks)
+### Tấn Công Nhảy
 
-Các đòn nhảy tấn công có thể được thực hiện từ nhiều tình huống khác nhau, hầu hết được kích hoạt như một phần của cuộc phục kích hoặc khi kết thúc một cú xung phong, nhưng một số sinh vật có thể nhảy lên trên đối thủ mà không cần đà chạy hoặc chiều cao vượt trội.
+Các đòn tấn công nhảy có thể được tung ra từ nhiều tình huống, hầu hết được kích hoạt như một phần của cuộc phục kích hoặc khi kết thúc một cú lao đến, nhưng một số sinh vật có thể nhảy lên trên đối thủ mà không cần đà chạy hoặc lợi thế về chiều cao.
 
-Một cú nhảy tấn công được giải quyết bằng một lần Tung xúc xắc Đối lập của kỹ năng Thể thao của người nhảy so với kỹ năng Sức mạnh hoặc Né tránh của người phòng thủ. Các mục tiêu bốn chân làm cho lần tung xúc xắc tấn công khó hơn một Cấp độ Khó. Nếu người nhảy thắng thì người phòng thủ tự động bị quật ngã, với kẻ tấn công ngồi trên họ. Thất bại có nghĩa là người phòng thủ đã chịu đựng hoặc né tránh cú va chạm. Nếu người chiến thắng trong lần Tung xúc xắc Đối lập đạt được một hoặc nhiều Mức độ Thành công so với đối thủ của mình, họ có thể chọn các Hiệu ứng Đặc biệt phù hợp như chiến đấu bình thường.
+Một đòn tấn công nhảy được giải quyết bằng một Đổ Xúc Xắc Đối Đầu giữa kỹ năng Điền Kinh của kẻ nhảy so với kỹ năng Cơ Bắp hoặc Né Tránh của người phòng thủ. Mục tiêu bốn chân làm cho kết quả đổ xúc xắc tấn công khó hơn một Cấp Độ Khó. Nếu kẻ nhảy thắng thì người phòng thủ tự động bị ngã sấp, với kẻ tấn công ngồi đè lên trên. Thất bại có nghĩa là người phòng thủ đã chịu đựng hoặc né tránh được cú va chạm. Nếu người chiến thắng trong Đổ Xúc Xắc Đối Đầu đạt được một hoặc nhiều Cấp Độ Thành Công so với đối thủ của mình, họ có thể chọn các Hiệu Ứng Đặc Biệt phù hợp như trong chiến đấu thông thường.
 
-Không có sát thương nào được gây ra như một phần của cú nhảy; tuy nhiên, nạn nhân bị quật ngã sau đó không thể lấy lại tư thế cho đến khi kẻ tấn công rời đi, hoặc họ cuối cùng giành được một Hiệu ứng Đặc biệt cho phép họ Đứng dậy. Ngoài ra, các đòn nhảy tấn công chỉ hoạt động chống lại các đối thủ có SIZ lên đến gấp đôi. Một mục tiêu có thể làm cho bản thân khó bị đánh ngã hơn bằng cách chủ động sử dụng Hành động Chiến đấu Thủ thế, miễn là họ biết về đòn nhảy tấn công sắp tới.
+Không có sát thương nào được gây ra như một phần của cú nhảy; tuy nhiên, nạn nhân bị ngã sấp sau đó không thể lấy lại thế đứng cho đến khi kẻ tấn công rời đi, hoặc họ cuối cùng thắng một Hiệu Ứng Đặc Biệt cho phép họ Đứng Dậy. Ngoài ra, các đòn tấn công nhảy chỉ có tác dụng đối với các đối thủ có Kích Thước (Siêu Năng Lực) lên đến gấp đôi kẻ tấn công. Một mục tiêu có thể tự làm mình khó bị đánh ngã hơn bằng cách chủ động sử dụng Hành Động Chiến Đấu Cố Định, miễn là họ nhận thức được đòn tấn công nhảy sắp tới.
 
-### Vượt mặt (Outmaneuvering)
+### Di Chuyển Chiến Thuật
 
-Một nhân vật đối mặt với nhiều đối thủ có thể sử dụng di chuyển để giới hạn số lượng kẻ thù có thể tấn công mình bất cứ lúc nào, liên tục thay đổi vị trí, buộc kẻ thù phải cản trở lẫn nhau. Vượt mặt đòi hỏi nhân vật phải có không gian để di chuyển và không bị ghim chặt trong một khu vực hạn chế.
+Một Nhân Vật đối mặt với nhiều đối thủ có thể sử dụng sự di chuyển để giới hạn số lượng kẻ thù có thể tấn công mình tại bất kỳ thời điểm nào, liên tục thay đổi vị trí, buộc kẻ thù phải cản trở lẫn nhau. Di Chuyển Chiến Thuật đòi hỏi Nhân Vật có không gian để di chuyển và không bị ghim chặt trong một khu vực hạn chế.
 
-Vượt mặt đòi hỏi nhân vật phải đối phó với các đối thủ của mình trong một lần Tung xúc xắc Đối lập nhóm của các kỹ năng Né tránh. Mỗi người tham gia, cả nhân vật vượt mặt và những kẻ thù muốn dồn anh ta vào đường cùng, đều phải tiêu tốn một Điểm Hành động. Sau đó, mỗi người tung xúc xắc một lần và những kẻ không vượt qua được lần tung xúc xắc của nhân vật vượt mặt sẽ không thể tấn công anh ta trong phần còn lại của Hiệp Chiến đấu đó, bị chặn bởi đồng minh hoặc các đặc điểm địa hình của chúng.
+Di Chuyển Chiến Thuật đòi hỏi Nhân Vật tham gia cùng các đối thủ của mình trong một Bài Kiểm Tra Đối Đầu theo nhóm về kỹ năng Né Tránh. Mọi người tham gia, cả Nhân Vật đang di chuyển và những kẻ thù muốn dồn ép anh ta, đều phải tiêu tốn một Điểm Hành Động. Sau đó, mỗi người đổ xúc xắc một lần và những ai không vượt qua được kết quả đổ xúc xắc của Nhân Vật đang di chuyển sẽ không thể tấn công anh ta trong phần còn lại của Vòng Chiến Đấu đó, do bị chặn bởi đồng minh hoặc các đặc điểm địa hình của họ.
 
-Nếu nhân vật vượt mặt đánh bại tất cả đối thủ của mình, người đó có quyền lựa chọn giao chiến an toàn với một kẻ thù duy nhất trong phần còn lại của Hiệp hoặc Rút lui hoàn toàn khỏi cuộc chiến.
+Nếu Nhân Vật đang di chuyển đánh bại tất cả đối thủ của mình, người đó có quyền chọn giao chiến an toàn với một kẻ thù duy nhất trong phần còn lại của Vòng hoặc Rút Lui hoàn toàn khỏi cuộc chiến.
 
-### Chặn thụ động (Passive Blocking)
+### Chặn Đòn Bị Động
 
-Chặn thụ động cho phép một nhân vật cầm vũ khí giữ nó theo cách bảo vệ một vị trí đã chọn (hoặc nhiều vị trí khi sử dụng khiên), nhưng phải trả giá bằng việc không thể Đỡ đòn chủ động bằng nó (xem [Bảo vệ Vị trí](0008_Combat.md?id=ward-location)). Bất kỳ cuộc tấn công nào trúng các vị trí đó sẽ tự động nhận được lợi ích của vũ khí hoặc khiên, giảm sát thương như bình thường. Kỹ thuật này thường được sử dụng khi một chiến binh muốn bảo vệ một điểm yếu hoặc vị trí bị thương. Không có gì ngăn cản một chiến binh sử dụng hai vũ khí, hoặc vũ khí và khiên sử dụng vũ khí kia của mình để Đỡ đòn chủ động.
+Chặn Đòn Bị Động cho phép một Nhân Vật được trang bị vũ khí giữ nó ở tư thế sao cho nó che chắn một vị trí đã chọn (hoặc nhiều vị trí khi sử dụng khiên), nhưng phải trả giá bằng việc không thể chủ động Đỡ Đòn bằng vũ khí đó (xem [Bảo Vệ Vị Trí](0008_Combat.md?id=ward-location)). Bất kỳ đòn tấn công nào trúng vào các vị trí đó sẽ tự động nhận được lợi ích từ vũ khí hoặc khiên, giúp giảm sát thương như bình thường. Kỹ thuật này thường được sử dụng khi một chiến binh muốn bảo vệ một điểm yếu hoặc vị trí bị thương. Không có gì ngăn cản một chiến binh dùng vũ khí kép, hoặc vũ khí và khiên, sử dụng vũ khí còn lại của mình để chủ động Đỡ Đòn.
 
-Vì Chặn thụ động hoạt động theo cùng cách với vật che chắn, Hiệu ứng Đặc biệt Chọn Vị trí không thể được sử dụng để vượt qua sự chặn đứng trong cận chiến, mặc dù đối thủ vẫn có thể sử dụng hiệu ứng này để đánh vào các khu vực không bị chặn khác. Cúi xuống sau khiên cho phép nhân vật tăng gấp đôi số lượng vị trí được bảo vệ trong khi Chặn thụ động.
+Vì Chặn Đòn Bị Động hoạt động giống như che chắn, Hiệu Ứng Đặc Biệt Chọn Vị Trí không thể được sử dụng để vượt qua sự chặn đòn trong cận chiến, mặc dù đối thủ vẫn có thể sử dụng hiệu ứng này để tấn công các khu vực không bị chặn khác. Cúi người xuống sau khiên cho phép Nhân Vật nhân đôi số vị trí được bảo vệ trong khi Chặn Đòn Bị Động.
 
-### Bất ngờ (Surprise)
+### Bất Ngờ
 
-Bất ngờ xảy ra khi một cuộc tấn công bất ngờ được tung ra chống lại các đối thủ không biết về sự hiện diện hoặc ý định của kẻ tấn công. Một cuộc phục kích sẽ là ví dụ của trường hợp đầu tiên, trong khi phản bội đồng minh không nghi ngờ trong cuộc trò chuyện thân thiện minh họa cho trường hợp thứ hai.
+Sự bất ngờ xảy ra khi một đòn tấn công không mong đợi được tung ra nhắm vào các đối thủ không biết về sự hiện diện hoặc ý định của kẻ tấn công. Một cuộc phục kích là ví dụ về trường hợp thứ nhất, trong khi việc phản bội một đồng minh không nghi ngờ trong cuộc trò chuyện thân mật minh họa cho trường hợp thứ hai.
 
-Ảnh hưởng của sự bất ngờ lên mục tiêu rất mạnh mẽ:
+Ảnh hưởng của sự bất ngờ lên mục tiêu là rất mạnh mẽ:
 
-- Mục tiêu chịu hình phạt -10 cho Sáng kiến.
-- Cho đến khi đến lượt Sáng kiến của họ, họ được coi là chưa chuẩn bị và không thể tự vệ.
-- Cuộc tấn công đầu tiên vào mục tiêu, nếu thành công, giành được một Hiệu ứng Đặc biệt thưởng.
-- Trong phần còn lại của Hiệp, họ không thể thực hiện bất kỳ Hành động tấn công nào.
+- Mục tiêu phải chịu hình phạt -10 cho Tiên Cơ.
+- Cho đến khi Tiên Cơ của họ đến lượt, họ được coi là mất cảnh giác và không thể tự vệ.
+- Đòn tấn công đầu tiên vào mục tiêu, nếu thành công, sẽ nhận được một Hiệu Ứng Đặc Biệt thưởng.
+- Trong phần còn lại của Vòng, họ không được thực hiện bất kỳ Hành Động tấn công nào.
 
-### Tấn công quét (Sweep Attacks)
+### Tấn Công Quét
 
-Các đòn tấn công quét xảy ra theo quyết định của Quản trò, khi vũ khí hoặc sinh vật có kích thước bất thường tấn công một nhóm đối thủ tập trung chặt chẽ – ví dụ như cái đuôi quét của một con rồng khổng lồ hoặc cú xung phong không thể ngăn cản của một con triceratops khổng lồ – đánh trúng nhiều kẻ thù cùng một lúc.
+Các đòn tấn công quét xảy ra theo quyết định của Quản Trò, khi các loại vũ khí hoặc sinh vật có kích thước bất thường tấn công một nhóm đối thủ tụ tập chặt chẽ – ví dụ như cái đuôi quét ngang của một TC rồng khổng lồ hoặc cú lao không thể cản phá của một TC triceratops khổng lồ – tấn công nhiều kẻ thù cùng một lúc.
 
-Một đòn tấn công quét được thực hiện bằng cách áp dụng một lần tung xúc xắc tấn công của vũ khí hoặc sinh vật cho tất cả các mục tiêu trên đường đi của nó. Mỗi người phòng thủ phải giải quyết ảnh hưởng của cuộc tấn công riêng biệt và bất kỳ Hiệu ứng Đặc biệt nào áp đặt lên kẻ tấn công được coi là đã xảy ra đồng thời.
+Một đòn tấn công quét được thực hiện bằng cách áp dụng một kết quả đổ xúc xắc tấn công duy nhất của vũ khí hoặc sinh vật đó cho tất cả các mục tiêu trên đường đi của nó. Mỗi người phòng thủ phải giải quyết các hiệu ứng của đòn tấn công một cách riêng biệt và bất kỳ Hiệu Ứng Đặc Biệt nào áp dụng cho kẻ tấn công đều được coi là xảy ra đồng thời.
 
 ---
-## Chiến đấu Tầm xa
+## Tầm Xa
 
-Chiến đấu tầm xa kết hợp tất cả các dạng vũ khí yêu cầu phải bắn, ném hoặc dùng dây để đánh trúng mục tiêu. Các cuộc tấn công tầm xa được giải quyết theo cách giống hệt như cận chiến. Tuy nhiên, vũ khí tầm xa thông thường chỉ có thể được đỡ bằng khiên; những người không có phải dựa vào vật che chắn tự nhiên hoặc sử dụng Né tránh để lặn tránh khỏi đường đạn. Do đó, chống lại những kẻ thù giáp nhẹ, vũ khí tầm xa có thể là những yếu tố ngăn chặn đáng gờm.
+Chiến đấu tầm xa kết hợp tất cả các hình thức vũ khí cần phải bắn, ném hoặc dùng dây ném để trúng mục tiêu. Các đòn tấn công tầm xa được giải quyết theo cách tương tự như cận chiến. Tuy nhiên, các vũ khí Tầm Xa thường chỉ có thể bị đỡ bằng khiên; những người không có khiên phải dựa vào vật che chắn tự nhiên hoặc sử dụng Né Tránh để lặn ra khỏi đường đạn. Do đó, chống lại các đối thủ giáp nhẹ, các vũ khí Tầm Xa có thể là những yếu tố răn đe đáng gờm.
 
-Mỗi vũ khí Tầm xa có một số thuộc tính cụ thể xác định hiệu quả của nó. Những thuộc tính có ảnh hưởng chính đến chiến đấu như sau:
+Mỗi vũ khí Tầm Xa có một số Thuộc Tính cụ thể xác định hiệu quả của nó. Những yếu tố có ảnh hưởng chính đến chiến đấu bao gồm:
 
-- **Lực (Force):** Tương đương với Kích thước của vũ khí Tầm xa. Nó là một thước đo trừu tượng về sức xuyên thủng của vũ khí hoặc đạn dược để xác định xem đòn đánh có vượt qua được cú Đỡ đòn (khiên) hay không.
-- **Bộ điều chỉnh Sát thương (Damage Modifier):** Thuộc tính này cho biết liệu Bộ điều chỉnh Sát thương của kẻ tấn công có thể được sử dụng để tăng lần tung sát thương của vũ khí Tầm xa hay không. Nói chung, chỉ có cung tự kéo và vũ khí ném cho phép người dùng áp dụng Bộ điều chỉnh Sát thương của mình.
-- **Tầm xa (Range):** Ba số được phân cách bằng dấu gạch chéo, đại diện cho phạm vi Tầm gần, Hiệu quả và Tầm xa tối đa của vũ khí hoặc đạn dược của nó. Tầm gần là khoảng cách mà Hiệu ứng Đặc biệt Chọn Vị trí có thể được sử dụng, miễn là mục tiêu đang đứng yên hoặc không biết về cuộc tấn công sắp tới. Tầm Hiệu quả không có bộ điều chỉnh đáng kể nào. Tại Tầm xa, vũ khí vẫn có thể gây hại, nhưng lượng sát thương bị giảm một nửa, và Lực bị giảm một bậc.
-- **Tải (Load):** Thời gian tính bằng Lượt để nạp hoặc nạp lại vũ khí bắn đạn. Một nhân vật có thể giảm thời gian nạp hoặc chuẩn bị bằng cách sử dụng Hiệu ứng Đặc biệt Nạp đạn nhanh.
-- **Kích thước xuyên thủng (Impale Size):** Kích thước của một vũ khí xuyên thủng khác với Lực nó đánh trúng. Các vũ khí xuyên thủng Tầm xa có một cột đặc biệt biểu thị kích thước thực tế của chúng khi cân nhắc các trở ngại do Hiệu ứng Đặc biệt Xuyên thủng gây ra.
+- **Năng Lực:** Tương đương với Kích Thước (Siêu Năng Lực) đối với vũ khí Tầm Xa. Đây là một phép đo trừu tượng về khả năng xuyên thấu của vũ khí hoặc đạn dược của nó để xác định xem đòn đánh có vượt qua được sự Đỡ Đòn (của khiên) hay không.
+- **Hệ Số Sát Thương:** Thuộc Tính này cho thấy liệu Hệ Số Sát Thương của kẻ tấn công có thể được sử dụng để tăng kết quả đổ xúc xắc sát thương của vũ khí Tầm Xa hay không. Nhìn chung, chỉ các loại cung tự kéo và vũ khí ném mới cho phép người dùng áp dụng Hệ Số Sát Thương của mình.
+- **Tầm Bắn:** Ba TC số được phân cách bằng dấu gạch chéo, đại diện cho các phạm vi Tầm Gần, Hiệu Quả và Xa của vũ khí hoặc đạn dược của nó. Tầm Gần là khoảng cách mà Hiệu Ứng Đặc Biệt Chọn Vị Trí có thể được sử dụng, miễn là mục tiêu đứng yên hoặc không biết về đòn tấn công sắp tới. Tầm Hiệu Quả không có các hệ số đáng kể. Ở Tầm Xa, vũ khí vẫn có thể gây hại, nhưng lượng sát thương bị giảm một nửa, và Năng Lực bị giảm đi một bậc.
+- **Nạp Đạn:** Thời gian tính bằng Lượt để nạp hoặc nạp lại vũ khí bắn đạn. Nhân Vật có thể giảm thời gian nạp hoặc sẵn sàng bằng cách sử dụng Hiệu Ứng Đặc Biệt Nạp Đạn Nhanh.
+- **Kích Thước Xuyên Thấu:** Kích Thước (Siêu Năng Lực) của một vũ khí xuyên thấu khác với Năng Lực mà nó đánh trúng. Các vũ khí xuyên thấu tầm xa có một cột đặc biệt biểu thị kích thước thực của chúng khi xem xét các trở ngại do Hiệu Ứng Đặc Biệt Xuyên Thấu gây ra.
 
-### Các bộ điều chỉnh tình huống
+### Hệ Số Tình Huống
 
-Như với cận chiến, các bộ điều chỉnh tình huống có thể được áp dụng khi sử dụng vũ khí Tầm xa trong các điều kiện cụ thể. Kỹ năng Chiến đấu của nhân vật có thể bị giới hạn khi sử dụng vũ khí trong hoàn cảnh khó khăn, chẳng hạn như ném giáo trong khi cưỡi ngựa.
+Cũng giống như cận chiến, các hệ số tình huống có thể được áp dụng khi sử dụng vũ khí Tầm Xa trong các điều kiện cụ thể. Kỹ Năng Chiến Đấu của một Nhân Vật có thể bị giới hạn khi sử dụng vũ khí trong các hoàn cảnh khó khăn, chẳng hạn như ném giáo khi đang cưỡi ngựa.
 
-##### Các bộ điều chỉnh tình huống chiến đấu tầm xa
+##### Hệ Số Tình Huống Tầm Xa
 
-| Tình huống | Cấp độ khó |
+| Tình huống | Cấp Độ Khó |
 | :-- | :-- |
 | Gió nhẹ\* | Khó |
-| Gió vừa phải\* | Đáng gờm |
-| Gió mạnh\* | Herculean |
-| Gió bão, bão, hoặc tồi tệ hơn\* | Vô vọng |
+| Gió trung bình\* | Ghê Gớm |
+| Gió mạnh\* | Phi Thường |
+| Gió lớn, bão, hoặc tệ hơn\* | Vô Vọng |
 | Mục tiêu đang Chạy | Khó |
-| Mục tiêu đang Chạy nước rút | Đáng gờm |
-| Mục tiêu bị che khuất bởi sương mù hoặc đang trong ánh sáng yếu | Khó |
-| Mục tiêu bị che khuất bởi khói dày hoặc đang trong bóng tối | Đáng gờm |
-| Mục tiêu bị che khuất hoàn toàn | Herculean |
-| Mục tiêu hoàn toàn vô hình | Bất khả thi\*\* |
-| Mục tiêu nằm sấp | Đáng gờm |
-| Kẻ tấn công nằm sấp\*\*\* | Herculean |
-| Kẻ tấn công ở trên mặt đất không ổn định | Khó |
+| Mục tiêu đang Nước Rút | Ghê Gớm |
+| Mục tiêu bị che khuất bởi sương mù hoặc trong bóng tối một phần | Khó |
+| Mục tiêu bị che khuất bởi khói dày hoặc trong bóng tối | Ghê Gớm |
+| Mục tiêu bị che khuất hoàn toàn | Phi Thường |
+| Mục tiêu hoàn toàn vô hình | Không Thể\*\* |
+| Mục tiêu đang nằm sấp | Ghê Gớm |
+| Kẻ tấn công đang nằm sấp\*\*\* | Phi Thường |
+| Kẻ tấn công ở trên nền đất không ổn định | Khó |
 
-_\* Giả định vũ khí ném hoặc đạn dược dễ bị gió ngang, và thay thế hình phạt thông thường do gió áp đặt lên các kỹ năng bình thường._
+_\* Giả định vũ khí ném hoặc đạn dược dễ bị ảnh hưởng bởi gió ngang, và thay thế hình phạt thông thường do gió gây ra đối với các kỹ năng thông thường._
 
-_\*\* Trừ khi vị trí chung của mục tiêu được tiết lộ hoặc được biết, thì coi như Herculean._
+_\*\* Trừ khi vị trí chung của mục tiêu được tiết lộ hoặc đã biết, khi đó coi như là Phi Thường._
 
-_\*\*\* Hình phạt có thể bị xóa bỏ nếu sử dụng nỏ từ một vị trí đã chuẩn bị._
+_\*\*\* Hình phạt có thể bị vô hiệu hóa nếu sử dụng nỏ từ vị trí đã chuẩn bị sẵn._
 
-### Nhắm (Aiming)
+### Nhắm Bắn
 
-Bằng cách dành thêm thời gian nhắm vũ khí Tầm xa, nhân vật có thể tăng khả năng trúng đích. Nhắm đòi hỏi toàn bộ một Hiệp Chiến đấu để giữ vũ khí ổn định và chờ đợi cơ hội tốt nhất để giải phóng, ví dụ như giữ lại một phát bắn cung cho đến khi gió lặng trong chốc lát hoặc cho đến khi mục tiêu di chuyển giữa hai vật cản. Bằng cách nhắm, nhân vật có thể giảm độ khó của một Bộ điều chỉnh Tầm xa hoặc Tình huống đi một cấp. Các Hiệp bổ sung dành ra để nhắm không mang lại lợi thế gì thêm.
+Bằng cách dành thêm thời gian nhắm vào một vũ khí Tầm Xa, một Nhân Vật có khả năng tăng cơ hội đánh trúng của mình. Nhắm bắn đòi hỏi toàn bộ một Vòng Chiến Đấu để giữ vững vũ khí và chờ đợi cơ hội tốt nhất để giải phóng, ví dụ như giữ lại phát bắn cung cho một khoảng lặng tạm thời trong gió hoặc cho đến khi mục tiêu di chuyển giữa hai vật cản. Bằng cách nhắm bắn, Nhân Vật có thể giảm độ khó của một Hệ Số Tầm Xa hoặc Tình Huống đi một bậc. Các Vòng bổ sung dành cho việc nhắm bắn không mang lại lợi thế nào thêm.
 
-### Bắn vào đám đông
+### Bắn Vào Đám Đông
 
-Bắn vào sự trào dâng và suy yếu của một trận cận chiến có thể là một công việc mạo hiểm, do đó luôn có nguy cơ vô tình bắn trúng người khác ngoài mục tiêu ban đầu đang nhắm tới. Khi bắn vào một mục tiêu cụ thể ở rìa của đám đông hoặc cận chiến, cuộc tấn công chịu một Cấp độ Khó là Khó. Nếu cố gắng bắn xuyên qua nó, nó nên được nâng lên thành Đáng gờm. Nhắm vẫn được cho phép để giúp giảm thiểu nguy hiểm.
+Bắn vào dòng chảy hỗn loạn của một cuộc cận chiến có thể là một công việc mạo hiểm, do đó luôn có nguy cơ vô tình đánh trúng người khác ngoài mục tiêu ban đầu đang nhắm tới. Khi bắn vào một mục tiêu cụ thể ở rìa đám đông hoặc cận chiến, đòn tấn công phải chịu một Cấp Độ Khó là Khó. Nếu cố gắng bắn xuyên qua nó, độ khó nên được nâng lên Ghê Gớm. Việc nhắm bắn vẫn được phép để giúp giảm bớt nguy hiểm.
 
-Một xạ thủ vượt qua lần tung xúc xắc tấn công của mình bất chấp hình phạt độ khó đã nhắm chính xác và sẽ trúng mục tiêu dự định của mình. Tuy nhiên, nếu xạ thủ Thất bại trong lần tung xúc xắc, nhưng sẽ thành công nếu không có hình phạt 'bắn vào đám đông', thì một nạn nhân gần đó sẽ bị trúng đạn (người này được tự do Né tránh hoặc Đỡ đòn như bình thường).
+Một tay súng thiện xạ vượt qua kết quả đổ xúc xắc tấn công bất chấp hình phạt độ khó đã nhắm bắn chính xác và sẽ trúng mục tiêu dự định. Tuy nhiên, nếu tay thiện xạ Thất Bại trong việc đổ xúc xắc, nhưng đáng lẽ đã thành công nếu không có hình phạt 'bắn vào đám đông', thì một nạn nhân lân cận sẽ bị trúng đòn (người đó được tự do Né Tránh hoặc Đỡ Đòn như bình thường).
 
-Nếu có nhiều hơn một mục tiêu trên đường bắn, Quản trò nên xác định nạn nhân một cách ngẫu nhiên. Bất kỳ Hiệu ứng Đặc biệt nào giành được như một phần của cuộc tấn công chỉ áp dụng cho mục tiêu ban đầu, không áp dụng cho bất kỳ người ngoài cuộc nào vô tình bị bắn trúng.
-
---- DOCUMENT END ---
+Nếu có nhiều hơn một mục tiêu trên đường đạn, Quản Trò nên xác định nạn nhân một cách ngẫu nhiên. Bất kỳ Hiệu Ứng Đặc Biệt nào giành được như một phần của đòn tấn công chỉ áp dụng cho mục tiêu ban đầu, không áp dụng cho bất kỳ người đứng ngoài nào bị đánh trúng vô tình.
