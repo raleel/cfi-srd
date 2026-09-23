@@ -1,6 +1,6 @@
 - [Einführung](README.md)
 - [Charaktere](0001_Characters.md)
-- [Kulturen & Völker](0002_Culture_and_Races.md)
+- [Kulturen & Spezies](0002_Culture_and_Races.md)
 - [Klassen](0003_Classes.md)
 - [Gesinnung & Leidenschaften](0004_Alignment_and_Passions.md)
 - [Fertigkeiten](0005_Skills.md)
