@@ -1,4 +1,0 @@
-- [ပင်မစာမျက်နှာ](README.md)
-- [ပြုလုပ်နည်း](HowTo.md)
-- [ပြောင်းလဲမှုမှတ်တမ်း](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)

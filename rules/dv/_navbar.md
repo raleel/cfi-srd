@@ -1,4 +1,0 @@
-- [މައި ޞަފްޙާ](README.md)
-- [ކުރާނެ ގޮތް](HowTo.md)
-- [ބަދަލުތައް](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)

@@ -1,4 +1,0 @@
-- [کور](README.md)
-- [څنګه](HowTo.md)
-- [د بدلونونو لیست](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)
