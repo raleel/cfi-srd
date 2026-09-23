@@ -1,7 +1,7 @@
 # Changelog
 
 ## V0.3.0
-*26 Okt 23*
+*26 Oktober 23*
 
 ### Fitur
 
@@ -14,7 +14,7 @@
 
 ---
 
-*23 Okt 23*
+*23 Oktober 23*
 
 ### Fitur
 
@@ -29,7 +29,7 @@
 ---
 
 ## V0.1.2
-*20 Okt 23*
+*20 Oktober 23*
 
 ### Fitur
 
@@ -59,7 +59,7 @@
 
 - Menambahkan fungsionalitas tombol mode Terang/Gelap (Dari )
 - Navigasi yang ditingkatkan: Hamburger dipindahkan ke kiri atas layar (dari kiri bawah)
-- Keterbacaan yang ditingkatkan: Menambahkan Font Open Sans & Orbitron
+- Keterbacaan ditingkatkan: Menambahkan Font Open Sans & Orbitron
 
 ### Perbaikan Bug
 
