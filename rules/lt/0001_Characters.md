@@ -1,124 +1,124 @@
 # 1 skyrius: Veikėjai
 
-Pagrindinį veikėją apibrėžia keletas skirtingų elementų, nusakančių jo gebėjimus. Šie elementai yra:
+Pagrindinis veikėjas apibrėžiamas įvairių elementų, apibūdinančių jo gebėjimus, serija. Šie elementai yra:
 
-- Charakteristikos: pavyzdžiui, Jėga arba Charizma
-- Atributai: tokie dalykai kaip Ūgis arba Judėjimas
-- Įgūdžiai: patirtis fundamentaliose srityse
+- Charakteristikos: pavyzdžiui, JĖG ar CHA
+- Atributai: dalykai, tokie kaip ūgis arba judėjimas
+- Įgūdžiai: pagrindinių gebėjimų išmanymas
 
-Dauguma šių elementų yra aprašomi skaičiais, kai kurie priklauso nuo kitų arba yra jų apskaičiuojami. Ką reiškia kiekvienas elementas ir kaip jie nustatomi, aprašyta tolesniuose skirsniuose.
+Dauguma šių elementų aprašomi skaičiais, o kai kurie priklauso nuo kitų arba yra jų apskaičiuojami. Ką reiškia kiekvienas elementas ir kaip jie nustatomi, aprašyta tolesniuose skyriuose.
 
 ---
 ## 1 žingsnis: Veikėjo koncepcija
 
-Geras atspirties taškas yra turėti idėją, kokio tipo veikėją norite žaisti; pavyzdžiui, užsigrūdinusį kovotoją arba klastingą piktadarį. Šiame etape jūsų veikėjo koncepcija neturi būti detali; pakanka idėjos, kuri padės nukreipti tam tikrus pasirinkimus, tokius kaip Rasė ir Klasė. Žemiau pateikiamos kelios idėjos jūsų vaizduotei sužadinti.
+Gera pradžia – turėti supratimą, kokį veikėją norite vaidinti; pavyzdžiui, užgrūdintą kovotoją arba klastingą niekšą. Šiame etape jūsų veikėjo koncepcija neturi būti sudėtinga; užtenka idėjos, kuri padės vadovautis tam tikrais pasirinkimais, tokiais kaip rasė ir klasė. Pateikiame keletą veikėjų idėjų, kad pažadintume jūsų vaizduotę.
 
-- Jaunas, naivus magijos vartotojas
+- Jaunas, naivus magijos naudotojas
 - Piktas pusiau orkas kovotojas
-- Pernelyg pasitikintis pusūgis piktadarys
+- Pernelyg pasitikintis savimi pusūgis niekšas
 - Pamaldus nykštukas dvasininkas
 
 ---
 ## 2 žingsnis: Charakteristikos
 
-Kiekvienas veikėjas apibrėžiamas septyniomis Charakteristikomis, kurios pasako kažką apie jį: koks jis stiprus ar greitas, koks protingas ar sveikas. Charakteristikos yra kiekvieno _Classic Fantasy Imperative_ veikėjo pagrindas ir sudaro daugumos kitų elementų, tokių kaip Atributai ir Įgūdžiai, pagrindą. Septynios Charakteristikos yra:
+Kiekvienas žmogus apibrėžiamas septyniomis Charakteristikomis, kurios pasako šį tą apie jūsų veikėją; koks jis stiprus ar greitas; koks sumanus ar sveikas. Charakteristikos yra kiekvieno „Classic Fantasy Imperative“ veikėjo pagrindas ir daugumos kitų elementų, tokių kaip atributai ir įgūdžiai, pamatas. Septynios Charakteristikos yra:
 
-- Jėga (STR)
-- Konstitucija (CON)
-- Dydis (SIZ)
-- Vikrumas (DEX)
+- Jėga (JĖG)
+- Ištvermė (IŠT)
+- Dydis (DYD)
+- Vikrumas (VIK)
 - Intelektas (INT)
-- Galia (POW)
+- Galia (GAL)
 - Charizma (CHA)
 
-Prieš skaičiuojant Charakteristikas, kitame skirsnyje paaiškinama, ką kiekviena iš jų reiškia.
+Prieš skaičiuojant charakteristikas, tolesniame skyriuje paaiškinama, ką kiekviena iš jų reiškia.
 
-#### Jėga (STR)
+#### Jėga (JĖG)
 
-STR atspindi fizinę jėgą: kiek asmuo gali pakelti, kaip stipriai gali smogti ir t. t. STR yra [Žalos modifikatoriaus](0001_Characters.md?id=damage-modifier) komponentas (žr. [Atributų](0001_Characters.md?id=step-3-attributes) skirsnį žemiau). Jei veikėjo STR sumažėja iki nulio, jis praranda gebėjimą judėti ar kelti daiktus.
+JĖG reiškia fizinę jėgą: kiek žmogus gali pakelti, kaip stipriai gali smogti ir t.t. JĖG yra [Žalos modifikatoriaus](0001_Characters.md?id=damage-modifier) sudedamoji dalis (žr. [Atributų](0001_Characters.md?id=step-3-attributes) skyrių žemiau). Jei veikėjo JĖG sumažėja iki nulio, jis nebegali judėti ar kelti daiktų.
 
-#### Konstitucija (CON)
+#### Ištvermė (IŠT)
 
-CON yra sveikatos ir ištvermės matas. CON yra komponentas nustatant [Gyvybės taškus](0001_Characters.md?id=hit-points) ir [Gijimo greitį](0001_Characters.md?id=healing-rate) (žr. žemiau). Jei CON dėl kokių nors priežasčių nukrenta iki nulio, veikėjas miršta.
+IŠT yra sveikatos ir atsparumo matas. IŠT yra sudedamoji dalis nustatant [Gyvybės taškus](0001_Characters.md?id=hit-points) ir [Gijimo greitį](0001_Characters.md?id=healing-rate) (žr. žemiau). Jei dėl bet kokios priežasties IŠT nukrenta iki nulio, veikėjas miršta.
 
-#### Dydis (SIZ)
+#### Dydis (DYD)
 
-SIZ matuoja masę ir padeda nurodyti Ūgį bei Svorį. SIZ naudojamas nustatant [Gyvybės taškus](0001_Characters.md?id=hit-points), nes didesni, sunkesni padarai paprastai turi didesnę ištvermę žalai. SIZ taip pat gali būti naudojamas nustatant veikėjo Žalos modifikatorių, nes masė padeda padidinti smūgio jėgą.
+DYD matuoja masę ir padeda nurodyti ūgį bei svorį. DYD naudojamas padedant apskaičiuoti [Gyvybės taškus](0001_Characters.md?id=hit-points), nes didesni, sunkesni padarai paprastai yra atsparesni žalai. DYD taip pat gali būti naudojamas nustatant veikėjo žalos modifikatorių, nes masė padeda padidinti smūgio jėgą.
 
-#### Vikrumas (DEX)
+#### Vikrumas (VIK)
 
-Judrumas, pusiausvyra ir refleksai matuojami DEX. Tai svarbus [Iniciatyvos](0001_Characters.md?id=initiative) aspektas. Jei veikėjo DEX sumažėja iki nulio, jį ištinka funkcinis paralyžius.
+Vikrumas, pusiausvyra ir refleksai matuojami VIK. Tai svarbus [Iniciatyvos](0001_Characters.md?id=initiative) aspektas. Jei veikėjo VIK sumažėja iki nulio, jį ištinka funkcinis paralyžius.
 
 #### Intelektas (INT)
 
-INT yra kognityvinių gebėjimų matas. Tie, kurių INT balas žemesnis, nebūtinai yra kvaili, tačiau tikėtina, kad jie bus riboti savo kūrybiškume. INT yra veiksnys skaičiuojant [Iniciatyvą](0001_Characters.md?id=initiative). Jei INT sumažėja iki nulio, veikėjas tampa visiškai beprotis.
+INT yra kognityvinių gebėjimų matas. Tie, kurie turi mažesnį INT balą, nebūtinai yra kvaili, tačiau tikėtina, kad jie bus riboti kūrybiškai naudojant savo protą. INT yra veiksnys skaičiuojant [Iniciatyvą](0001_Characters.md?id=initiative). Jei INT sumažėja iki nulio, veikėjas tampa visiškai beprotis.
 
-#### Galia (POW)
+#### Galia (GAL)
 
-POW yra veikėjo sielos, dvasios, vidinio polėkio ar gebėjimo naudotis magija matas. POW reguliuoja veikėjo [Magijos taškus](0001_Characters.md?id=magic-points) ir [Sėkmės taškus](0001_Characters.md?id=luck-points). Jei veikėjo POW kada nors nukrenta iki nulio, jis praranda visą savarankišką valią.
+GAL yra veikėjo sielos, dvasios, vidinės varomosios jėgos arba magijos talpos matas. GAL valdo veikėjo [Magijos taškus](0001_Characters.md?id=magic-points) ir [Sėkmės taškus](0001_Characters.md?id=luck-points). Jei veikėjo GAL kada nors nukrenta iki nulio, jis praranda visą savarankišką valią.
 
 #### Charizma (CHA)
 
-Charizma matuoja asmenybę ir nepriklauso nuo fizinės išvaizdos. CHA veikia veikėjo [Patirties modifikatorių](0001_Characters.md?id=experience-modifier). Jei CHA kada nors nukrenta iki nulio, veikėjas nebegali socialiai bendrauti su kitais, tapdamas toks skausmingai drovus ar asocialus, kad yra ignoruojamas arba net išvaromas.
+Charizma matuoja asmenybę ir nepriklauso nuo fizinės išvaizdos. CHA veikia veikėjo [Patirties modifikatorių](0001_Characters.md?id=experience-modifier). Jei CHA kada nors nukrenta iki nulio, veikėjas nebegali socialiai bendrauti su kitais, tapdamas toks skausmingai drovus ar asocialus, kad yra ignoruojamas arba net išvejamas.
 
 ---
 ### Charakteristikų skaičiavimas
 
-Kiekviena Charakteristika turi skaitinę vertę, nusakančią jos stiprumą. Skaičius skliausteliuose po kiekvieno kauliukų metimo rezultato yra rasės vidurkis, naudojamas kaip etalonas jūsų veikėjo rezultatams palyginti su kitais savo rūšies atstovais. Charakteristikų nustatymo būdai:
+Kiekviena Charakteristika turi skaitinę vertę, nustatančią jos stiprumą. Skaičius skliausteliuose po kiekvieno kauliukų metimo rezultato yra rasės vidurkis ir naudojamas kaip rodiklis jūsų veikėjo rezultatams įvertinti, lyginant su kitais savo rūšies atstovais. Charakteristikų nustatymo pasiūlymai apima:
 
-- **Kauliukų metimas:** Ridenkite kauliukus, nurodytus Rasės charakteristikų lentelėje (STR, CON, SIZ, DEX, INT, POW ir CHA), ir priimkite kiekvieną rezultatą tokį, koks jis yra. Kadangi šių metimų rezultatai gali būti gana atsitiktiniai, dažnai geriau nuspręsti dėl veikėjo koncepcijos jau po to, kai kauliukai išridenti. Priešingu atveju, galutinės Charakteristikos gali užkirsti kelią iš anksto sumanytam vaidmeniui. Ridenkite 3d6 STR, CON, DEX, POW ir CHA; tada 2d6+6 SIZ ir INT.
-- **Kauliukų metimas, paskirstymas:** Kaip ir aukščiau, išskyrus tai, kad žaidėjas gali keisti vertes tarp Charakteristikų, turinčių tą patį kauliukų diapazoną. Pavyzdžiui, kurdamas žmogų, žaidėjas gali sukeisti vertes tarp STR, CON, DEX, POW ir CHA, nes jie dalijasi 3d6 diapazonu, arba tarp SIZ ir INT, kurie dalijasi 2d6+6 diapazonu — bet jie visada turi priklausyti tai pačiai kauliukų grupei; negalima perkelti rezultatų iš vienos grupės į kitą.
-- **Kauliukų metimas, aukščiausias:** Ridenkite vieną papildomą kauliuką, kaip nurodyta STR, CON, SIZ, DEX, INT, POW ir CHA, ir atmeskite žemiausią kiekvieno metimo rezultatą.
-- **Taškų pirkimas:** Vietoj kauliukų metimo, žaidėjai kuria veikėją iš iš anksto nustatyto taškų fondo, kurio dydį lemia veikėjo rasė. Šis metodas geriausiai tinka grupėms, kurios žino, ką nori žaisti, ir nori pritaikyti savo veikėją konkrečiai Klasei. Taškų pirkimo parinkčiai taikomos tam tikros taisyklės:
-  - Pradėkite nuo rasės vidurkio kiekvienai iš septynių Charakteristikų, kaip nurodyta skliausteliuose po kiekvienu kauliukų diapazonu žemiau.
-  - Išleiskite dar 10 taškų (žmonėms) arba 6 taškus (pusiau rasėms), kad padidintumėte Charakteristikas.
-  - Taip pat galite sumažinti Charakteristiką, kad gautumėte papildomų taškų. Pavyzdžiui, sumažinkite STR nuo 11 iki 9, kad gautumėte 2 taškus.
-  - Charakteristikos negali būti _žemesnės_ nei minimalios arba _aukštesnės_ nei maksimalios galimos tai Charakteristikai, kaip nustatyta pagal jos potencialų kauliukų metimą.
+- **Kauliukų metimas:** Metate nurodytus kauliukus Rasinių charakteristikų lentelėje JĖG, IŠT, DYD, VIK, INT, GAL ir CHA charakteristikoms, priimdami kiekvieną gautą rezultatą. Kadangi šių metimų rezultatai gali būti gana atsitiktiniai, dažnai geriau apsispręsti dėl veikėjo koncepcijos jau išmetus kauliukus. Priešingu atveju galutinės charakteristikos gali trukdyti iš anksto numatytam vaidmeniui. JĖG, IŠT, VIK, GAL ir CHA charakteristikoms metate 3d6; o DYD ir INT – 2d6+6.
+- **Kauliukų metimas, paskirstymas:** Kaip ir aukščiau, išskyrus tai, kad žaidėjas gali keisti vertes tarp charakteristikų su tuo pačiu kauliukų diapazonu. Pavyzdžiui, kuriant žmogų, žaidėjas galėtų sukeisti vertes tarp JĖG, IŠT, VIK, GAL ir CHA, nes jos turi 3d6 diapazoną, arba tarp DYD ir INT, kurios turi 2d6+6 diapazoną – tačiau jos visada turi būti iš tos pačios kauliukų diapazono grupės; negalima perkelti metimų iš vienos grupės į kitą.
+- **Kauliukų metimas, didžiausias:** Metate vieną papildomą kauliuką, kaip nurodyta JĖG, IŠT, DYD, VIK, INT, GAL ir CHA charakteristikoms, ir atmetate mažiausią kiekvienos charakteristikos rezultatą.
+- **Taškų pirkimas:** Užuot metę kauliukus charakteristikoms nustatyti, žaidėjai kuria savo veikėją iš iš anksto nustatyto taškų fondo, kurio dydis priklauso nuo veikėjo rūšies. Šis metodas geriausiai tinka grupėms, kurios žino, ką nori vaidinti, ir nori pritaikyti savo kūrimą konkrečiai klasei. Taškų pirkimo parinkčiai taikomos tam tikros taisyklės:
+  - Pradėkite nuo rasės vidurkio kiekvienai iš septynių charakteristikų, kaip nurodyta skliausteliuose po kiekvienu kauliukų diapazonu žemiau.
+  - Išleiskite dar 10 taškų (žmonėms) arba 6 taškus (pusžmogiams), kad padidintumėte charakteristikas.
+  - Taip pat galite sumažinti charakteristiką, kad gautumėte papildomų taškų. Pavyzdžiui, sumažinkite JĖG nuo 11 iki 9, kad gautumėte 2 taškus.
+  - Charakteristikos negali būti *mažesnės* nei minimaliai įmanoma arba *didesnės* nei maksimaliai įmanoma tai charakteristikai, kaip nustatyta jos potencialaus kauliukų metimo.
 
-Žaidimų vedėjai gali laisvai sugalvoti savo metodus ar taškų vertes.
+Žaidimo vedliai gali laisvai sugalvoti savo metodus ar taškų vertes.
 
-Šioje lentelėje apibendrinta informacija, reikalinga kiekvienam iš aukščiau paminėtų metodų. Kauliukų diapazonai naudojami abiejuose "Kauliukų metimo" metoduose, o skaičiai skliausteliuose naudojami "Taškų pirkimo" metode.
+Toliau pateiktoje lentelėje apibendrinta informacija, reikalinga kiekvienam iš aukščiau paminėtų metodų. Kauliukų diapazonai naudojami bet kuriame iš kauliukų metimo metodų, o skaičiai skliausteliuose naudojami taškų pirkimo metode.
 
-##### Rasės charakteristikų lentelė
+##### Rasinių charakteristikų lentelė
 
 | Rasė | Nykštukas | Elfas | Nykštukas (gnomas) |
 | --- | --- | --- | --- |
-| STR | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
-| CON | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
-| SIZ | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
-| DEX | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
+| JĖG | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
+| IŠT | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
+| DYD | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
+| VIK | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
 | INT | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
-| POW | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
+| GAL | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
 | CHA | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
 
-| Rasė | Pusiau elfas | Pusiau orkas | Pusūgis | Žmogus |
+| Rasė | Puselfis | Pusorcys | Pusūgis | Žmogus |
 | --- | --- | --- | --- | --- |
-| STR | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
-| CON | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
-| SIZ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
-| DEX | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
+| JĖG | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
+| IŠT | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
+| DYD | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
+| VIK | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
 | INT | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
-| POW | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
+| GAL | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
 | CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
 ## 3 žingsnis: Atributai
 
-Kiekvienas veikėjas taip pat turi atributų rinkinį. Tai gebėjimai, kildinami iš Charakteristikų arba jų nustatomi, kurie naudojami valdyti tam tikrus žaidimo veiksnius.
+Kiekvienas veikėjas taip pat turi atributų rinkinį. Tai yra gebėjimai, išvesti iš charakteristikų arba jų nustatyti, kurie naudojami valdyti tam tikrus žaidimo veiksnius.
 
-#### Veiksmų taškai
+#### Veiksmo taškai
 
-Kaip dažnai veikėjas gali veikti [Kovos raundo](0008_Combat.md?id=combat-rounds) metu, nustatoma pagal Veiksmų taškus. Pradedantys veikėjai pradeda su 2 Veiksmų taškais, bet jų daugėja kylant Ranguose. Išsamią informaciją žr. atitinkamose Klasių pažangos lentelėse [Klasės](0003_Classes.md).
+Tai, kaip dažnai veikėjas gali veikti [Kovos raundo](0008_Combat.md?id=combat-rounds) metu, nustatoma pagal veiksmo taškus. Pradedantys veikėjai pradeda su 2 veiksmo taškais, bet jų daugėja kylant rangui. Daugiau informacijos rasite atitinkamose klasės pažangos lentelėse skiltyje [Klasės](0003_Classes.md).
 
 #### Žalos modifikatorius
 
-Papildomas žalos kiekis, kurį veikėjas padaro fiziškai smūgiuodamas ar naudodamas jėgą. Jis dažniausiai naudojamas kovinėse situacijose, bet taip pat gali būti pritaikytas bandant laužyti daiktus. Žalos modifikatorius yra papildomas kauliuko metimas, kuris pridedamas prie arba atimamas iš ginklo ar įrankio padarytos žalos. Jei neigiamas Žalos modifikatorius sumažina ginklo žalą iki nulio ar mažiau, tada žala iš viso nepadaroma.
+Papildoma žala, kurią veikėjas padaro fiziškai smogdamas ar panaudodamas jėgą. Jis paprastai naudojamas kovinėse situacijose, bet taip pat gali būti pritaikytas bandant laužyti daiktus. Žalos modifikatorius yra papildomas kauliuko metimas, kuris pridedamas prie ginklo ar įrankio padarytos žalos arba iš jos atimamas. Jei neigiamas žalos modifikatorius sumažina ginklo žalą iki nulio ar mažiau, tuomet žalos išvis nepadaroma.
 
-Sudėkite STR ir SIZ ir peržiūrėkite Žalos modifikatoriaus lentelę:
+Sudėkite JĖG ir DYD bei pasinaudokite žalos modifikatoriaus lentele:
 
 ##### Žalos modifikatoriaus lentelė
 
-| STR+SIZ | Žalos modifikatorius |
+| JĖG+DYD | Žalos modifikatorius |
 | :-: | :-: |
 | 5 ar mažiau | –1d8 |
 | 6–10 | –1d6 |
@@ -138,13 +138,13 @@ Sudėkite STR ir SIZ ir peržiūrėkite Žalos modifikatoriaus lentelę:
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
 | 121–130 | +2d10+1d4 |
-| Kiekvieni 10 taškų | Tęsti progresiją |
+| Kas 10 taškų | Tęsti progresiją |
 
 #### Patirties modifikatorius
 
-Žaidimo eigoje veikėjai tobulina savo įgūdžius ir gebėjimus. Tai pasiekiama naudojant Patirties metimus, kurie išsamiau paaiškinti [Žaidimo sistemos](0007_Game_System.md?id=experience-rolls) skirsnyje.
+Žaidimo eigoje veikėjai tobulina savo įgūdžius ir gebėjimus. Tai pasiekiama naudojant patirties metimus, kurie išsamiau paaiškinti skyriuje [Žaidimo sistema](0007_Game_System.md?id=experience-rolls).
 
-Veikėjo CHA balas gali pakoreguoti veikėjo Patirties metimų skaičių, atspindėdamas jo santykius su bendraamžiais ir reputaciją bendruomenėje. Jei CHA aukšta, žmonės noriai padeda apmokyti arba paremti veikėją jam mokantis. Atvirkščiai, jei CHA ypač žema, gali būti sunku tobulinti savo gebėjimus be kitų pagalbos; pavyzdžiui, sunku rasti ką nors sparringui.
+Veikėjo CHA balas gali pakoreguoti patirties metimų skaičių, atspindėdamas santykius su bendraamžiais ir reputaciją bendruomenėje. Jei CHA aukšta, žmonės noriai padeda apmokyti ar paremti veikėją jam mokantis. Priešingai, jei CHA ypač žema, gali kilti sunkumų tobulinant savo gebėjimus be kitų pagalbos; pavyzdžiui, ieškant su kuo pasitreniruoti.
 
 ##### Patirties modifikatoriaus lentelė
 
@@ -153,85 +153,83 @@ Veikėjo CHA balas gali pakoreguoti veikėjo Patirties metimų skaičių, atspin
 | 6 ar mažiau | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
-| Kiekvieni 6 taškai | +1 |
+| Kas 6 taškus | +1 |
 
 #### Gijimo greitis
 
-Patyręs sužalojimų, veikėjas turi atsigauti. Gijimo greitis nustato, kaip greitai jis natūraliai atsigauna nuo žaizdų. Priklausomai nuo sužalojimo sunkumo (žr. skirsnį apie [Žalą ir žaizdas](0007_Game_System.md?id=damage-and-wound-levels)), Gijimo greitis nurodo, kiek Gyvybės taškų atstatoma per dieną, savaitę ar mėnesį.
+Patyręs sužalojimus, veikėjas turi atsigauti. Gijimo greitis nustato, kaip greitai jis natūraliai atsigauna nuo žaizdų. Priklausomai nuo sužalojimo sunkumo (žr. skyrių [Žala ir žaizdos](0007_Game_System.md?id=damage-and-wound-levels)), gijimo greitis nurodo, kiek gyvybės taškų atstatoma per dieną, savaitę ar mėnesį.
 
 ##### Gijimo greičio lentelė
 
-| CON | Gijimo greitis |
+| IŠT | Gijimo greitis |
 | :-: | :-: |
 | 6 ar mažiau | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| Kiekvieni 6 taškai | +1 |
+| Kas 6 taškus | +1 |
 
 #### Iniciatyva
 
-Akimirka, kada kas nors reaguoja kovoje, valdoma Iniciatyvos. Iniciatyva veikia kaip Iniciatyvos metimų modifikatorius; kuo aukštesnė Iniciatyva, tuo greičiau reaguojate kovinėje situacijoje, nustatant, kada galite veikti. Papildomi veiksniai – pavyzdžiui, šarvai – ją modifikuoja. [Kovos](0008_Combat.md?) skyriuje išsamiau aprašoma, kaip naudojama [Iniciatyva](0008_Combat.md?id=initiative).
+Momentas, kada kas nors reaguoja kovoje, valdomas iniciatyvos. Iniciatyva veikia kaip iniciatyvos metimų modifikatorius; kuo aukštesnė iniciatyva, tuo greičiau reaguojama kovinėje situacijoje, nustatant, kada galite veikti. Kiti veiksniai – pavyzdžiui, šarvai – ją modifikuoja. [Kovos](0008_Combat.md) skyriuje išsamiau aprašoma, kaip naudojama [Iniciatyva](0008_Combat.md?id=initiative).
 
-Iniciatyva yra DEX ir INT Charakteristikų vidurkis.
+Iniciatyva yra VIK ir INT charakteristikų vidurkis.
 
 #### Sėkmės taškai
 
-Sėkmės taškai atspindi tą keistą jėgą, skiriančią nuotykių ieškančius didvyrius nuo paprastų žmonių. Vadinkite tai likimu, karma ar tiesiog gera sėkme. Sėkmės taškus galima panaudoti:
+Sėkmės taškai atstovauja tą keistą jėgą, skiriančią nuotykių ieškotojus nuo paprastų žmonių. Vadinkite tai likimu, karma ar tiesiog sėkme. Sėkmės taškus galima naudoti:
 
-- Iš naujo ridenti kauliukus, jei rezultatas nepalankus.
-- Sušvelninti fizinę žalą ar kitas nelaimingas aplinkybes.
-- Įgyti pranašumą svarbiu kovos momentu.
+- Permesti kauliukus, jei rezultatai nepalankūs.
+- Sušvelninti fizinę žalą ar kitas nemalonias aplinkybes.
+- Įgyti pranašumą svarbią kovos akimirką.
 
-Tiksliai kaip ir kada jie naudojami, aprašyta skirsnyje [Sėkmės taškų naudojimas](0007_Game_System.md?id=using-luck-points). Kai Sėkmės taškas išleidžiamas, fondas mažėja; kai Sėkmės taškų nelieka, jų nebėra – nebent Žaidimų vedėjas skiria neplanuotą apdovanojimą – iki kito žaidimo seanso, kai jie vėl atsinaujina iki įprastos vertės.
+Kaip tiksliai ir kada jie naudojami, aprašyta skyriuje [Sėkmės taškų naudojimas](0007_Game_System.md?id=using-luck-points). Panaudojus sėkmės tašką, fondas mažėja; kai sėkmės taškų nebelieka, daugiau jų nėra – nebent žaidimo vedėjas suteikia papildomų – iki kito žaidimo seanso, kai jie atsinaujina iki įprastos vertės.
 
 ##### Sėkmės taškų lentelė
 
-| POW | Sėkmės taškai |
+| GAL | Sėkmės taškai |
 | :-: | :-: |
 | 6 ar mažiau | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| Kiekvieni 6 taškai | +1 |
+| Kas 6 taškus | +1 |
 
-_\* Žmonės pradeda su vienu papildomu Sėkmės tašku daugiau, nei nurodyta aukščiau._
+*\* Žmonės pradeda su vienu papildomu sėkmės tašku, viršijančiu aukščiau nurodytą kiekį.*
 
-_\*\* Visi veikėjai įgauna papildomą Sėkmės tašką pasiekę kiekvieną naują Rangą._
+*\*\* Visi veikėjai įgyja papildomą sėkmės tašką pasiekę kiekvieną naują rangą.*
 
 #### Magijos taškai
 
-Mistiniai gebėjimai ir _Classic Fantasy Imperative_ užkeikimai dažniausiai remiasi Magijos taškais. Kadangi magijos prieinamumas kampanijos nustatymuose gali būti ribotas arba priklausyti tik nuo konkrečių magiškų profesijų, kai kuriems veikėjams šis Atributas bus nereikalingas.
+Mistiški gebėjimai ir burtai, naudojami „Classic Fantasy Imperative“, dažniausiai remiasi magijos taškais. Kadangi magijos prieinamumas gali būti ribotas kampanijos nustatymų arba konkrečių magiškų profesijų, kai kuriems veikėjams šis atributas bus nereikalingas.
 
-Tiems, kurie gali naudotis tokiomis galiomis, veikėjo Magijos taškai yra lygūs jo POW. Šie taškai naudojami užkeikimams, kurių kaina priklauso nuo naudojamos magijos tipo. Kai magams pritrūksta Magijos taškų, jie išnaudoja savo gebėjimą burti, kol Magijos taškai vėl atstatomi.
+Tiems, kurie gali naudotis tokiomis galiomis, veikėjo magijos taškai yra lygūs jo GAL. Šie taškai naudojami burtams, kurių kaina priklauso nuo naudojamos magijos tipo. Kai burtininkams pasibaigia magijos taškai, jie išnaudoja savo gebėjimą burti, kol magijos taškai vėl atsistato.
 
 #### Judėjimo greitis
 
-Kiekvienas padaras turi Judėjimo greitį – pėdų skaičių, kurį galima įveikti per tam tikrą laikotarpį. Judėjimas nėra skaičiuojamas iš Charakteristikų, tai numatytoji vertė, besiskirianti priklausomai nuo rūšies. Bazinis Judėjimo greitis žmonėms yra 20 pėdų, nors tam tikri įgūdžiai gali jį padidinti. Skirsnyje apie [Judėjimą](0008_Combat.md?id=movement) pateikiama daugiau detalių.
+Kiekvienas padaras turi judėjimo greitį – pėdų skaičių, kurį galima įveikti per tam tikrą laikotarpį. Judėjimas nėra skaičiuojamas pagal charakteristikas, tai numatytoji vertė, kuri skiriasi priklausomai nuo rūšies. Bazinis judėjimo greitis žmonėms yra 20 pėdų, nors tam tikri įgūdžiai gali jį pagerinti. Skyriuje [Judėjimas](0008_Combat.md?id=movement) pateikiama daugiau informacijos.
 
-##### Judėjimo greičio pagal rasę lentelė
+##### Judėjimo greičio pagal rūšį lentelė
 
 | Rūšis | Pėdos | Metrai |
 | :-- | :-: | :-: |
-| Nykštukas | 15 | 4,5 |
+| Nykštukas | 15 | 4.5 |
 | Elfas | 20 | 6 |
-| Nykštukas (gnomas) | 15 | 4,5 |
-| Pusiau elfas | 20 | 6 |
-| Pusiau orkas | 20 | 6 |
-| Pusūgis | 15 | 4,5 |
-| Žmogus | 20 | 6 |
+| Nykštukas (gnomas) | 15 | 4.5 |
+| Puselfis | 20 | 6 |
+| Pusorcys | 20 | 6 |
+| Pusūgis | 15 | 4.5 |
+| Žmogus | 20 | 6 |#### Hit Points
 
-#### Gyvybės taškai
+Hit Points (Gyvybės taškai) nurodo, kiek sužeidimų gali atlaikyti kūno sritis, kol ji tampa nenaudinga, o tai gali sukelti negalią ir galiausiai personažo mirtį. Kiekvienos būtybės kūnas yra padalintas į atskiras zonas – pavyzdžiui, žmonės turi septynias: galvą, krūtinę, pilvą, rankas ir kojas – kiekviena zona turi savo Hit Points.
 
-Gyvybės taškai atspindi, kiek žalos kūno vieta gali atlaikyti, prieš tapdama nenaudinga, kas gali sukelti neveiksnumą ir galiausiai veikėjo mirtį. Kiekvieno padaro kūnas padalintas į atskiras vietas – žmonės, pavyzdžiui, turi septynias: galvą, krūtinę, pilvą, rankas ir kojas – kiekviena vieta turi savo Gyvybės taškus.
+Kai kurios būtybės, pavyzdžiui, monstrai ar įvairių rūšių gyvūnai, iš prigimties dažnai turi radikaliai skirtingas kūno struktūras, tačiau kiekviena jų turima zona vis tiek turi Hit Points. Kai zonos Hit Points sumažėja iki tam tikro lygio dėl bet kokios žalos, personažas patiria tam tikras pasekmes, atspindinčias sužeidimo sunkumą. Daugiau informacijos apie žaizdas rasite skyriuje [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels).
 
-Kai kurie padarai, pavyzdžiui, monstrai ar įvairios gyvūnų rūšys, dėl savo prigimties dažnai turi radikaliai skirtingas kūno struktūras, tačiau kiekviena jų kūno vieta vis tiek turi Gyvybės taškus. Kai vietos Gyvybės taškai sumažėja iki tam tikro lygio dėl bet kokios žalos, veikėjas patiria tam tikras pasekmes, atspindinčias sužalojimo sunkumą. Dėl tolimesnės informacijos apie žaizdas žr. skirsnį [Žala ir žaizdos](0007_Game_System.md?id=damage-and-wound-levels).
+Norėdami apskaičiuoti kiekvienos zonos Hit Points, sudėkite IŠT ir DYD ir patikrinkite rezultatą Hit Points lentelėje. Visi personažai gauna po 1 papildomą Hit Point kiekvienoje zonoje 2-ame ir 4-ame rangais.
 
-Norėdami apskaičiuoti kiekvienos vietos Gyvybės taškus, sudėkite CON ir SIZ ir peržiūrėkite rezultatą Gyvybės taškų lentelėje. Visi veikėjai įgauna 1 papildomą Gyvybės tašką kiekvienoje vietoje pasiekę 2 ir 4 Rangą.
+##### Hit Points pagal zoną lentelė
 
-##### Gyvybės taškų pagal vietą lentelė
-
-| Vieta | CON+SIZ |  |  |  |  |  |  |  |  |
+| Zona | IŠT+DYD | | | | | | | | |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
+| | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Galva | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Krūtinė | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Pilvas | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
@@ -241,197 +239,195 @@ Norėdami apskaičiuoti kiekvienos vietos Gyvybės taškus, sudėkite CON ir SIZ
 ---
 ## 4 žingsnis: Įgūdžiai
 
-Pagal nutylėjimą, kiekvienas veikėjas turi Standartinių įgūdžių spektrą, leidžiantį jam atlikti įvairius veiksmus su skirtingu patirties laipsniu. Šie įgūdžiai detaliau aprašyti [Įgūdžių](0005_Skills.md) skyriuje, tačiau jie apima kasdienės veiklos ir vietos žinių spektrą, kurį gali naudoti bet kas be specialaus mokymo. Šiame veikėjo kūrimo etape žaidėjams tereikia žinoti kiekvieno Standartinio įgūdžio Bazinius lygius.
+Pagal nutylėjimą kiekvienas personažas turi Standartinių įgūdžių rinkinį, leidžiantį atlikti įvairius veiksmus su skirtingu meistriškumo lygiu. Šie įgūdžiai išsamiau aprašyti skyriuje [Skills](0005_Skills.md), jie apima daugybę kasdienių veiklų ir vietinių žinių, kurias gali naudoti bet kas be specialaus mokymo. Šiame personažo kūrimo etape žaidėjams tereikia žinoti bazinius kiekvieno Standartinio įgūdžio lygius.
 
-Pagrindinis kiekvieno Standartinio įgūdžio balas nustatomas pagal dviejų Charakteristikų sumą arba vienos Charakteristikos kartotinį. Vertė atspindi veikėjo įgimtą kompetenciją kiekvienoje srityje, iš esmės – jo talentą prieš bet kokį formuojamąjį mokymą, gautą kultūros ir profesijos rėmuose.
+Bazinis kiekvieno Standartinio įgūdžio balas nustatomas sudėjus dvi Charakteristikas arba padauginus vieną Charakteristiką. Ši vertė atspindi personažo įgimtą kompetenciją kiekvienoje srityje, iš esmės – jų pradinį talentą prieš bet kokius formalius mokymus, gautus kultūros ar profesijos kontekste.
 
-Standartinių įgūdžių lentelė rodo, kaip apskaičiuojamos bazinės vertės, kartu su trumpu įgūdžio aprašymu. Balas atspindi procentinę sėkmės tikimybę įgūdžiui; taigi, Atletikos balas 25 išreiškiamas kaip 25%. Kaip veikia įgūdžių procentai ir išsamesni įgūdžių aprašymai pateikti [Įgūdžių](0005_Skills.md) skyriuje.
+Standartinių įgūdžių lentelėje parodyta, kaip apskaičiuojamos bazinės vertės, taip pat pateikiamas trumpas įgūdžio aprašymas. Balas nurodo procentinę sėkmės tikimybę; taigi, Atletikos balas 25 išreiškiamas kaip 25%. Kaip veikia įgūdžių procentai ir išsamesni įgūdžių aprašymai pateikiami skyriuje [Skills](0005_Skills.md).
 
-Atkreipkite dėmesį, kad bazinius kai kurių įgūdžių procentus modifikuos tiek kultūra, tiek profesija, todėl šios pradinės vertės keisis veikėjo kūrimo eigoje.
+Atkreipkite dėmesį, kad bazines kai kurių įgūdžių procentines vertes modifikuos kultūra ir profesija, todėl šios pradinės vertės keisis personažo kūrimo procese.
 
 ##### Standartinių įgūdžių lentelė
 
-| Įgūdis | Bazinis procentas |
-| :-- | :-: |
-| Atletika | STR+DEX |
-| Plaukiojimas laivu | STR+CON |
-| Jėga | STR+SIZ |
-| Slėpimasis | DEX+POW |
+| Įgūdis | Bazinė procentinė vertė |
+| :-- | :--: |
+| Atletika | JĖG+VIK |
+| Plaukiojimas laivu | JĖG+IŠT |
+| Jėgos naudojimas | JĖG+DYD |
+| Slėpimasis | VIK+GAL |
 | Papročiai | INT x2, +40\* |
-| Šokis | DEX+CHA |
+| Šokis | VIK+CHA |
 | Apgaulė | INT+CHA |
-| Vairavimas | DEX+POW |
-| Ištvermė | CON x2 |
-| Išsisukimas | DEX x2 |
-| Pirmoji pagalba | INT+DEX |
+| Vairavimas | VIK+GAL |
+| Ištvermė | IŠT x2 |
+| Išsisukimas | VIK x2 |
+| Pirmoji pagalba | INT+VIK |
 | Įtaka | CHA x2 |
-| Įžvalga | INT+POW |
-| Vietovės išmanymas | INT x2 |
+| Įžvalga | INT+GAL |
+| Vietovė | INT x2 |
 | Gimtoji kalba | INT+CHA, +40\* |
-| Suvokimas | INT+POW |
-| Jodinėjimas | DEX+POW |
-| Dainavimas | CHA+POW |
-| Slaptumas | DEX+INT |
-| Plaukimas | STR+CON |
-| Kova be ginklo | STR+DEX |
-| Valia | POW x2 |
+| Suvokimas | INT+GAL |
+| Jojimas | VIK+GAL |
+| Dainavimas | CHA+GAL |
+| Slapstymasis | VIK+INT |
+| Plaukimas | JĖG+IŠT |
+| Kova be ginklo | JĖG+VIK |
+| Valia | GAL x2 |
 
-_\* Įskaitant statinį +40% premiją tiek Papročiams, tiek veikėjo Gimtajai kalbai (žmonėms – bendrinė kalba). Kiekviena pusiau rasė gali kalbėti Bendrine kalba su +40% premija, be savo Gimtosios kalbos su +40% premija, kaip detaliai aprašyta jų aprašymuose._
+_\* Apima statinį +40% premiją tiek Papročiams, tiek personažo Gimtajai kalbai (bendra žmonėms). Kiekviena pusžmogių rasė gali kalbėti Bendrąja kalba su +40% premija, be savo Gimtosios kalbos su +40%, kaip detaliai aprašyta jų atitinkamuose aprašymuose._
 
 ---
 ## 5 žingsnis: Rasė/Kultūra
 
-_Classic Fantasy Imperative_ žaidime žaidėjai dažniausiai gali rinktis iš šešių rasių: Žmogaus arba vienos iš pusiau rasių (Nykštukas, Elfas, Nykštukas(gnomas), Pusiau elfas, Pusiau orkas arba Pusūgis). Jei pasirenkamas žmogus, jie turi toliau apibrėžti savo veikėją per vieną iš trijų kultūrinių fonų: Barbarų, Civilizuotų arba Klajoklių. Žmonėms kultūra nustato visuomenę, kurioje veikėjas augo, ir todėl nurodo tam tikras pažiūras bei filosofijas. Praktiškiau, kultūra padeda apibrėžti įvairių įgūdžių vertes, kurios formuoja bendrus veikėjo gebėjimus. Pusiau rasės paprastai kyla iš rasinės kultūros, kuri yra daug labiau stereotipinė tai rasei. Daugiau informacijos žr. [2 skyriaus](0002_Culture_and_Races.md) rasių ir kultūrų aprašymuose.
+Žaidime _Classic Fantasy Imperative_ žaidėjai dažniausiai gali rinktis vieną iš septynių rasių: Žmogų arba vieną iš pusžmogių rasių (Nykštuką, Elfą, Gnomą, Puselfį, Pusorcį arba Pusūgį). Jei pasirinktas žmogus, jie turi toliau apibrėžti savo personažą per vieną iš keturių kultūrinių pagrindų: Barbaras, Civilizuotas, Klajoklis arba Primityvus. Žmonėms kultūra nusako visuomenę, kurioje personažas užaugo, ir todėl nustato tam tikrą požiūrį bei filosofiją. Praktiškesniu požiūriu kultūra padeda nustatyti įvairių įgūdžių, kurie formuoja bendrus personažo sugebėjimus, vertes. Pusžmogių rasės paprastai kyla iš rasinės kultūros, kuri yra daug stereotipiškesnė pačiai rasei. Daugiau informacijos rasite [2 skyriuje](0002_Culture_and_Races.md) esančiuose rasės ir kultūros aprašymuose.
 
-Visi veikėjai turi Pasaulėžiūrą, kurią sudaro vienas Etikos ir vienas Moralės kodeksas, taip pat dvi ar trys Aistros. Kai kurie turės Priesaiką religiniam ordinui, gildijai ar organizacijai. Kiekvienos Klasės aprašyme nurodomi reikalaujami Pasaulėžiūros ar Priesaikos aspektai. Prieš tęsdami, suraskite savo rasę [2 skyriuje](0002_Culture_and_Races.md) ir pasižymėkite siūlomą Pasaulėžiūrą bei Aistras, taip pat patikrinkite [Klasių](0003_Classes.md) skyrių, ar yra kokių nors Pasaulėžiūros ar Priesaikos reikalavimų. Žr. [4 skyrių, Pasaulėžiūra ir Aistros](0004_Alignment_and_Passions.md), kad nustatytumėte bet kokias detales dėl savo Pasaulėžiūros, Aistrų ir Priesaikų.
+Visi personažai turi pasaulėžiūrą (Alignment), kurią sudaro vienas etikos ir vienas moralės kodeksas, bei dvi ar tris aistras. Kai kurie turės priesaiką religiniam ordinui, gildijai ar organizacijai. Kiekviename Klasės aprašyme nurodoma bet kokia reikalaujama pasaulėžiūra ar priesaika. Prieš tęsdami, susiraskite savo rasę [2 skyriuje](0002_Culture_and_Races.md) ir pasižymėkite siūlomą pasaulėžiūrą bei aistras, taip pat patikrinkite skyrių [Classes](0003_Classes.md) ir sužinokite, ar yra kokių nors pasaulėžiūros ar priesaikos reikalavimų. Žr. [4 skyrių, Pasaulėžiūra ir Aistros](0004_Alignment_and_Passions.md), kad nustatytumėte bet kokias detales dėl savo pasaulėžiūros, aistrų ir priesaikų (jei tokių yra).
 
-Kiekviena rasė ir kultūra išvardija daugybę Standartinių įgūdžių, kuriuos veikėjas išmoksta kaip savo formuojamojo vystymosi tos visuomenės rėmuose dalį. Tai pagrindiniai gebėjimai, kuriuos visi veikėjai iš tos pačios kultūros tam tikru mastu patobulina. Veikėjai taip pat išmoksta keletą specializuotų arba ezoterinių Profesinių įgūdžių pagal savo asmeninius interesus.
+Kiekviena rasė ir kultūra išvardija įvairius Standartinius įgūdžius, kuriuos personažas išmoksta kaip savo formavimosi toje visuomenėje dalį. Tai pagrindiniai gebėjimai, kuriuos visi tos pačios kultūros personažai tam tikru mastu patobulina. Personažai taip pat išmoksta keletą specializuotų arba ezoterinių Profesinių įgūdžių, atsižvelgiant į savo asmeninius interesus.
 
-Profesiniai įgūdžiai toliau paaiškinti [Įgūdžių](0005_Skills.md) skyriuje, tačiau trumpai tariant, jie atstovauja tiems įgūdžiams, kurių negalima bandyti atlikti be metų metus trukusių studijų ir specializuoto mokymo. Nors veikėjas turi bazinį gebėjimą visuose Standartiniuose įgūdžiuose, jis neturi jokio gebėjimo jokiuose Profesiniuose įgūdžiuose, nebent jie pasirinkti kaip dalis kultūrinio auklėjimo ar Klasės.
+Profesiniai įgūdžiai išsamiau paaiškinti [Skills](0005_Skills.md) skyriuje, tačiau trumpai tariant, jie atspindi tuos įgūdžius, kurių negalima bandyti atlikti be metų metus trukusių griežtų studijų ir specializuotų mokymų. Tuo tarpu personažas turi bazinius gebėjimus visuose Standartiniuose įgūdžiuose, tačiau neturi jokių gebėjimų Profesiniuose įgūdžiuose, nebent jie buvo pasirinkti kaip kultūrinio auklėjimo ar Klasės dalis.
 
-Pasirinkti Profesiniai įgūdžiai prasideda nuo jų Baziniame lygyje nustatytos Charakteristikos vertės, kaip ir Standartinių įgūdžių atveju. Kai kurie Profesiniai įgūdžiai, tokie kaip Amatai, Kalbos arba Žinios, siūlo pasirinkti specializaciją. Tokiais atvejais pasirinkta specialybė turėtų būti tinkama tai kultūrai.
+Pasirinkti Profesiniai įgūdžiai prasideda nuo jų bazinės Charakteristikos vertės, kaip ir Standartiniai įgūdžiai. Kai kurie Profesiniai įgūdžiai, tokie kaip Amatai, Kalbos ar Žinios, siūlo pasirinkti specializaciją. Tokiais atvejais pasirinkta specialybė turėtų būti tinkama tai kultūrai.
 
-### Rasės įgūdžių greitieji pasirinkimai
+### Rasinių įgūdžių greitasis pasirinkimas
 
-Greitieji pasirinkimai suteikia vidutinį įgūdžių rinkinį, leidžiantį greitai sukurti veikėją. Jauskitės laisvai keisdami taškus, jei pageidaujate; tačiau joks įgūdis negali turėti mažiau nei +5 arba daugiau nei +15 premijos.
+Greitieji pasirinkimai pateikia vidutinę įgūdžių atranką, leidžiančią greitai sukurti personažą. Jei pageidaujate, galite laisvai keisti taškus; tačiau joks įgūdis negali turėti mažesnės nei +5 arba didesnės nei +15 premijos.
 
-##### Rasės greitųjų pasirinkimų lentelė
+##### Rasinių greitųjų pasirinkimų lentelė
 
 | Rasė/Kultūra | Standartiniai įgūdžiai | Profesiniai įgūdžiai |
 | :-- | :-- | :-- |
-| Žmogus (Barbaras, Kario tipas) | Atletika +10, Jėga +10, Ištvermė +15, Pirmoji pagalba +5, Vietovės išmanymas +10, Suvokimas +10 ir arba Plaukiojimas laivu arba Jodinėjimas +10 | Navigacija +10, Jūreivystė arba Išgyvenimas +10, Pėdsakų sekimas +10 |
-| Žmogus (Barbaras, Išminčius) | Atletika +5, Ištvermė +5, Pirmoji pagalba +15, Vietovės išmanymas +15, Suvokimas +15 ir arba Plaukiojimas laivu arba Jodinėjimas +10 | Gydymas +10, Kalba (bet kokia*) +10, Žinios (bet kokios) +15 |
-| Žmogus (Civilizuotas, Gatvės išmanymas) | Slėpimasis +10, Apgaulė +15, Vairavimas +5, Įtaka +10, Įžvalga +10, Vietovės išmanymas +10, Valia +10 | Amatai (bet kokie) +5, Prekyba +10, Gatvės išmanymas +15 |
-| Žmogus (Civilizuotas, Knygų išmanymas) | Slėpimasis +5, Apgaulė +5, Vairavimas +5, Įtaka +10, Įžvalga +15, Vietovės išmanymas +15, Valia +10 | Prekyba +10, Kalba (bet kokia*) arba Žinios (bet kokios) +10, Žinios (bet kokios) arba Muzikavimas +15 |
-| Žmogus (Klajoklis, Kario tipas) | Ištvermė +10, Pirmoji pagalba +5, Vietovės išmanymas +5, Suvokimas +10, Slaptumas +10 ir du iš šių, po +15 kiekvienas: Atletika, Plaukiojimas laivu, Vairavimas, Jodinėjimas arba Plaukimas (priklausomai nuo pagrindinio keliavimo būdo) | Navigacija +10, Išgyvenimas +10, Pėdsakų sekimas +10 |
-| Žmogus (Klajoklis, Išminčius) | Ištvermė +5, Pirmoji pagalba +15, Vietovės išmanymas +10, Žinios (bet kokios) +15, Suvokimas +10, Slaptumas +5 ir du iš šių, po +5 kiekvienas: Atletika, Plaukiojimas laivu, Vairavimas, Jodinėjimas arba Plaukimas (priklausomai nuo pagrindinio keliavimo būdo) | Gydymas +10, Kalba (bet kokia*) +10, Žinios (bet kokios) +10 |
-| Žmogus (Primityvus, Kario tipas) | Jėga +10, Ištvermė +10, Išsisukimas +10, Vietovės išmanymas +5, Suvokimas +10, Slaptumas +15 ir vienas iš: Atletika, Plaukiojimas laivu, Pirmoji pagalba arba Plaukimas +10 | Išgyvenimas +10, Pėdsakų sekimas +10; ir vienas iš: Atletika, Plaukiojimas laivu, Pirmoji pagalba, Navigacija arba Plaukimas +10 |
-| Žmogus (Primityvus, Išminčius) | Ištvermė +5, Išsisukimas +5, Pirmoji pagalba +15, Vietovės išmanymas +15, Suvokimas +15, Slaptumas +5 ir vienas iš: Atletika, Plaukiojimas laivu arba Plaukimas +5 | Gydymas +10, Kalba (bet kokia*) +10, Žinios (bet kokios) +15 |
-| Nykštukas | Atletika +10, Jėga +15, Ištvermė +10, Išsisukimas +10, Vietovės išmanymas +10, Suvokimas +5, Valia +10 | Prekyba arba Mechanizmai +10, Amatai (bet kokie) +10, Išgyvenimas +10 |
-| Elfas | Slėpimasis +5, Įtaka +10, Įžvalga +10, Vietovės išmanymas +10, Suvokimas +15, Slaptumas +10, Valia +10 | Išgyvenimas +10 ir du iš šių, po +10 kiekvienas: Kalba (bet kokia**), Žinios (bet kokios) arba Muzikavimas |
-| Nykštukas (gnomas) | Apgaulė +10, Išsisukimas +15, Įžvalga +10, Vietovės išmanymas +10, Suvokimas +5, Slaptumas +10, Valia +10 | Prekyba +10, Amatai (bet kokie) +10, Mechanizmai arba Išgyvenimas +10 |
-| Pusiau elfas (užaugintas elfu) | Slėpimasis +10, Įtaka +10, Įžvalga +10, Vietovės išmanymas +10, Suvokimas +10, Slaptumas +10, Valia +10 | Kalba (bet kokia**) +10, Žinios (bet kokios) +10, Muzikavimas arba Išgyvenimas +10 |
-| Pusiau elfas (užaugintas žmogumi) | Pasirinkite tinkamą žmogaus greitąjį pasirinkimą |
-| Pusiau orkas (užaugintas orku) | Atletika +15, Jėga +15, Ištvermė +15, Išsisukimas +10, Pirmoji pagalba +5, Vietovės išmanymas +5, Suvokimas +5 | Navigacija +10, Išgyvenimas +10, Pėdsakų sekimas +10 |
-| Pusiau orkas (užaugintas žmogumi) | Pasirinkite tinkamą žmogaus greitąjį pasirinkimą |
-| Pusūgis | Šokis arba Dainavimas +5, Išsisukimas +15, Įžvalga +5, Vietovės išmanymas +5, Suvokimas +15, Slaptumas +15, Valia +15 | Amatai (bet kokie) +10, Muzikavimas +5, Gatvės išmanymas +10 |
+| Žmogus (Barbaras, Kario tipas) | Atletika +10, Jėgos naudojimas +10, Ištvermė +15, Pirmoji pagalba +5, Vietovė +10, Suvokimas +10, ir arba Plaukiojimas laivu arba Jojimas +10 | Navigacija +10, Jūreivystė arba Išgyvenimas +10, Pėdsakų sekimas +10 |
+| Žmogus (Barbaras, Išminčius) | Atletika +5, Ištvermė +5, Pirmoji pagalba +15, Vietovė +15, Suvokimas +15, ir arba Plaukiojimas laivu arba Jojimas +10 | Gydymas +10, Kalba (bet kokia\*) +10, Žinios (bet kokios) +15 |
+| Žmogus (Civilizuotas, Gatvės išminčius) | Slėpimasis +10, Apgaulė +15, Vairavimas +5, Įtaka +10, Įžvalga +10, Vietovė +10, Valia +10 | Amatai (bet kokie) +5, Prekyba +10, Gatvės išmanymas +15 |
+| Žmogus (Civilizuotas, Knygų išminčius) | Slėpimasis +5, Apgaulė +5, Vairavimas +5, Įtaka +10, Įžvalga +15, Vietovė +15, Valia +10 | Prekyba +10, Kalba (bet kokia\*) arba Žinios (bet kokios) +10, Žinios (bet kokios) arba Muzikalumas +15 |
+| Žmogus (Klajoklis, Kario tipas) | Ištvermė +10, Pirmoji pagalba +5, Vietovė +5, Suvokimas +10, Slapstymasis +10, ir du iš šių, po +15 kiekvienas: Atletika, Plaukiojimas laivu, Vairavimas, Jojimas arba Plaukimas (priklausomai nuo pagrindinio keliavimo būdo) | Navigacija +10, Išgyvenimas +10, Pėdsakų sekimas +10 |
+| Žmogus (Klajoklis, Išminčius) | Ištvermė +5, Pirmoji pagalba +15, Vietovė +10, Žinios (bet kokios) +15, Suvokimas +10, Slapstymasis +5, ir du iš šių, po +5 kiekvienas: Atletika, Plaukiojimas laivu, Vairavimas, Jojimas arba Plaukimas (priklausomai nuo pagrindinio keliavimo būdo) | Gydymas +10, Kalba (bet kokia\*) +10, Žinios (bet kokios) +10 |
+| Žmogus (Primityvus, Kario tipas) | Jėgos naudojimas +10, Ištvermė +10, Išsisukimas +10, Vietovė +5, Suvokimas +10, Slapstymasis +15, ir vienas iš: Atletika, Plaukiojimas laivu, Pirmoji pagalba arba Plaukimas +10 | Išgyvenimas +10, Pėdsakų sekimas +10; ir vienas iš: Atletika, Plaukiojimas laivu, Pirmoji pagalba, Navigacija arba Plaukimas +10 |
+| Žmogus (Primityvus, Išminčius) | Ištvermė +5, Išsisukimas +5, Pirmoji pagalba +15, Vietovė +15, Suvokimas +15, Slapstymasis +5, ir vienas iš: Atletika, Plaukiojimas laivu arba Plaukimas +5 | Gydymas +10, Kalba (bet kokia\*) +10, Žinios (bet kokios) +15 |
+| Nykštukas | Atletika +10, Jėgos naudojimas +15, Ištvermė +10, Išsisukimas +10, Vietovė +10, Suvokimas +5, Valia +10 | Prekyba arba Mechanizmai +10, Amatai (bet kokie) +10, Išgyvenimas +10 |
+| Elfas | Slėpimasis +5, Įtaka +10, Įžvalga +10, Vietovė +10, Suvokimas +15, Slapstymasis +10, Valia +10 | Išgyvenimas +10, ir du iš šių, po +10 kiekvienas: Kalba (bet kokia\*\*), Žinios (bet kokios) arba Muzikalumas |
+| Gnomas | Apgaulė +10, Išsisukimas +15, Įžvalga +10, Vietovė +10, Suvokimas +5, Slapstymasis +10, Valia +10 | Prekyba +10, Amatai (bet kokie) +10, Mechanizmai arba Išgyvenimas +10 |
+| Puselfis (Užaugintas elfo) | Slėpimasis +10, Įtaka +10, Įžvalga +10, Vietovė +10, Suvokimas +10, Slapstymasis +10, Valia +10 | Kalba (bet kokia\*\*) +10, Žinios (bet kokios) +10, Muzikalumas arba Išgyvenimas +10 |
+| Puselfis (Užaugintas žmogaus) | Pasirinkite tinkamą Žmogaus greitąjį pasirinkimą | |
+| Pusorcis (Užaugintas orko) | Atletika +15, Jėgos naudojimas +15, Ištvermė +15, Išsisukimas +10, Pirmoji pagalba +5, Vietovė +5, Suvokimas +5 | Navigacija +10, Išgyvenimas +10, Pėdsakų sekimas +10 |
+| Pusorcis (Užaugintas žmogaus) | Pasirinkite tinkamą Žmogaus greitąjį pasirinkimą | |
+| Pusūgis | Šokis arba Dainavimas +5, Išsisukimas +15, Įžvalga +5, Vietovė +5, Suvokimas +15, Slapstymasis +15, Valia +15 | Amatai (bet kokie) +10, Muzikalumas +5, Gatvės išmanymas +10 |
 
-_\* Žmonės nėra ribojami kalbų pasirinkime kuriant veikėją, jei gali pateisinti pasirinkimą._
+_\* Žmonės nėra ribojami kalbų pasirinkimu personažo kūrimo metu, jei gali pagrįsti pasirinkimą._
 
-_\*\* Kuriant veikėją, papildomos kalbos apsiriboja nykštukų, pusūgių, goblinų, hobgoblinų, orkų ir gnolių kalbomis._
+_\*\* Personažo kūrimo metu papildomos kalbos ribojamos iki gnomų, pusūgių, goblinų, hobgoblinų, orkų ir gnolių kalbų._
 
 
-### Rasės įgūdžių taškų pirkimas
+### Rasinių įgūdžių taškų pirkimas
 
-Pasirinktinai galite išleisti taškus, kad pritaikytumėte konkretų veikėjo konceptą. Tai leidžia sukurti labiau pritaikytą veikėją, laiko sąskaita. Taikydami įgūdžius atlikite šiuos veiksmus:
+Pasirinktinai galite skirti taškus, kad pritaikytumėte konkretų personažo konceptą. Tai leidžia sukurti labiau pritaikytą personažą laiko sąskaita. Taikydami įgūdžius atlikite šiuos veiksmus:
 
-- Pasirinkite tris Profesinius įgūdžius iš siūlomų parinkčių (žr. [2 skyrių](0002_Culture_and_Races.md) dėl rasių aprašymų).
-- Paskirstykite 100 taškų tarp nurodytų Standartinių įgūdžių ir pasirinktų Profesinių įgūdžių, padidindami įgūdį 1% už kiekvieną jam skirtą tašką. Žaidėjai laisvai pasirenka, kiek kiekvienas įgūdis tobulinamas, tačiau kiekvienas įgūdis turi gauti mažiausiai 5% ir negali gauti daugiau nei 15%.
+- Pasirinkite tris Profesinius įgūdžius iš siūlomų variantų (žr. [2 skyrių](0002_Culture_and_Races.md) dėl rasių aprašymų).
+- Paskirstykite 100 taškų tarp išvardytų Standartinių įgūdžių ir pasirinktų Profesinių įgūdžių, padidindami įgūdį 1% už kiekvieną skirtą tašką. Žaidėjai laisvai renkasi, kiek kiekvienas įgūdis tobulinamas, tačiau kiekvienas įgūdis turi gauti mažiausiai 5% ir negali gauti daugiau nei 15%.
 
 ---
 ## 6 žingsnis: Klasė
 
-Klasė atstovauja karjerai, kurios veikėjas ėmėsi pereinamajame į suaugusiojo gyvenimą laikotarpyje, ir ji toliau apibrėžia veikėjo įgūdžių tobulinimą.
+Klasė atstovauja karjerai, kurios personažas ėmėsi pereinamuoju į pilnametystę laikotarpiu, ir ji toliau apibrėžia personažo įgūdžių tobulinimą.
 
-Žaidėjai paprastai gali laisvai pasirinkti, kokią Klasę nori žaisti, jei Žaidimų vedėjas mano, kad tai tinkama. Klasių aprašymuose pateikiamos gairės dėl dažnų Klasių, prieinamų kiekvienam rasės/kultūros tipui. Tai turėtų būti vertinama kaip dažnos reprezentacijos, o ne apribojimai. Žaidėjai turėtų jaustis laisvai žaisdami bet kokį Klasės/Rasės derinį, kuris geriausiai atitinka jų viziją.
+Žaidėjai paprastai laisvai renkasi, kokią Klasę nori žaisti, jei Žaidimų Vedėjas tai laiko tinkamu. Klasės aprašymai pateikia šiek tiek nurodymų, kokios dažnos Klasės prieinamos kiekvienam rasiniam/kultūriniam tipui. Tai turėtų būti vertinama kaip įprasti atstovavimai, o ne apribojimai. Žaidėjai turėtų laisvai rinktis bet kokį Klasės/Rasės derinį, kuris geriausiai atitinka jų viziją.
 
-Kaip ir rasės/kultūriniai fonai, kiekviena Klasė suteikia galimybę patobulinti Standartinių ir Profesinių įgūdžių spektrą, dažniausiai naudojamą toje profesijoje. Priešingai nei kultūriniai fonai, veikėjai neprivalo investuoti savo taškų į visus prieinamus įgūdžius, o gali rinktis tuos, kurie tinka jų konkrečiam vaidmeniui ar Kultūrai.
+Kaip ir Rasės/Kultūriniai pagrindai, kiekviena Klasė suteikia galimybę tobulinti Standartinių ir Profesinių įgūdžių spektrą, dažniausiai naudojamą toje profesijoje. Skirtingai nuo kultūrinių pagrindų, personažams nereikia investuoti taškų į visus prieinamus įgūdžius, jie gali pritaikyti, kurie iš jų bus pasirinkti kaip tinkami jų specifiniam vaidmeniui ar Kultūrai.
 
-### Klasės įgūdžių greitieji pasirinkimai
+### Klasės įgūdžių greitasis pasirinkimas
 
-Pasirinkite Klasės greitąjį pasirinkimą vidutiniam įgūdžių rinkiniui, naudingam atitinkamai Klasei. Jauskitės laisvai keisdami taškus, jei pageidaujate; tačiau, nors įgūdį galima sumažinti iki +0, veikiant Baziniame lygyje (įskaitant Profesinius įgūdžius), joks įgūdis negali turėti daugiau nei +15 premijos. Šiuose įgūdžiuose jau įtrauktos bet kokios Klasės įgūdžių premijos iš Gebėjimų.
+Pasirinkite Klasės greitąjį pasirinkimą vidutinei įgūdžių atrankai, naudingai konkrečiai Klasei. Jei pageidaujate, galite laisvai keisti taškus; tačiau nors įgūdį galima sumažinti iki +0, veikiant baziniu lygiu (įskaitant Profesinius įgūdžius), joks įgūdis negali turėti didesnės nei +15 premijos. Šiuose įgūdžiuose jau įtrauktos bet kokios Klasės įgūdžių premijos iš Gebėjimų.
 
 ##### Klasės greitųjų pasirinkimų lentelė
 
 | Klasė | Standartiniai įgūdžiai | Profesiniai įgūdžiai |
 | :-- | :-- | :-- |
-| Dvasininkas | Kovos įgūdis (Dvasininkas) +15; Pirmoji pagalba +5; Įtaka +5; Įžvalga +10; Valia +15 | Kanalizavimas +15; Mandagumas +10; Atsidavimas (dievybei) +15; Žinios (Religija) +5 ir vienas iš šių po +5: Kalba (bet kokia), Žinios (bet kokios) arba Oratorystė |
-| Kovotojas | Atletika +10; Plaukiojimas laivu arba Jodinėjimas +5; Jėga +15; Kovos įgūdis (Kovotojas) +20\*\*; Ištvermė +15; Išsisukimas +10; Kova be ginklo +15\*\* | Gąsdinimas +10; ir du iš šių po +5: Azartiniai žaidimai, Išgyvenimas arba Navigacija |
-| Magijos vartotojas | Išsisukimas +10; Pirmoji pagalba +5; Įtaka +5; Įžvalga +5; Vietovės išmanymas +5; Suvokimas +5; Valia +15 | Arkaninis burtų liejimas +15; Arkaninės žinios +15; Kalba (bet kokia) +5; Kalba (bet kokia) arba Žinios (bet kokios) +5; Žinios (Alchemija) +10 |
-| Piktadarys | Atletika +15; Kovos įgūdis (Piktadarys) +10; Apgaulė +5; Išsisukimas +15; Įžvalga +5; Suvokimas +5; Slaptumas +15 | Kalba (Piktadarių šneka) +40\*\*\*; Spynų laužymas +10; Mechanizmai +10; ir du iš šių po +5: Akrobatika, Vaidyba, Prekyba, Persirengimas, Gąsdinimas, Suvedžiojimas, Vikrumas arba Gatvės išmanymas |
+| Klerikas | Kovos įgūdis (Klerikas) +15; Pirmoji pagalba +5; Įtaka +5; Įžvalga +10; Valia +15 | Kanalizavimas +15; Mandagumas +10; Atsidavimas (dievybei) +15; Žinios (Religija) +5 ir vienas iš šių +5: Kalba (bet kokia), Žinios (bet kokios) arba Oratorystė |
+| Kovotojas | Atletika +10; Plaukiojimas laivu arba Jojimas +5; Jėgos naudojimas +15; Kovos įgūdis (Kovotojas) +20\*\*; Ištvermė +15; Išsisukimas +10; Kova be ginklo +15\*\* | Intimidacija +10; ir du iš šių +5: Azartiniai lošimai, Išgyvenimas arba Navigacija |
+| Magijos naudotojas | Išsisukimas +10; Pirmoji pagalba +5; Įtaka +5; Įžvalga +5; Vietovė +5; Suvokimas +5; Valia +15 | Arkaninis liejimas +15; Arkaninės žinios +15; Kalba (bet kokia) +5; Kalba (bet kokia) arba Žinios (bet kokios) +5; Žinios (Alchemija) +10 |
+| Piktadarys | Atletika +15; Kovos įgūdis (Piktadarys) +10; Apgaulė +5; Išsisukimas +15; Įžvalga +5; Suvokimas +5; Slapstymasis +15 | Kalba (Piktadarių šnekta) +40\*\*\*; Spynų laužymas +10; Mechanizmai +10; ir du iš šių +5: Akrobatika, Vaidyba, Prekyba, Persirengimas, Intimidacija, Gundymai, Vikrumas arba Gatvės išmanymas |
 
-_\* Įgyjama Baziniame lygyje._
+_\* Įgyjama baziniu lygiu._
 
-_\*\* Įskaitant +5 Kovos meistriškumo premiją._
+_\*\* Apima +5 Kovos meistriškumo premiją._
 
-_\*\*\* Įgyjama Baziniame lygyje, pritaikyta +40% premija._
+_\*\*\* Įgyjama baziniu lygiu, taikoma +40% premija._
 
 ### Klasės įgūdžių taškų pirkimas
 
-Pasirinktinai galite išleisti taškus, kad pritaikytumėte konkretų veikėjo konceptą. Kaip ir aukščiau, tai leidžia sukurti labiau pritaikytą veikėją, laiko sąskaita. Veikėjai, naudojantys šį metodą, plėtoja savo Klasės įgūdžius tokiu būdu:
+Pasirinktinai galite skirti taškus, kad pritaikytumėte konkretų personažo konceptą. Kaip ir aukščiau, tai leidžia sukurti labiau pritaikytą personažą laiko sąskaita. Šį metodą naudojantys personažai savo Klasės įgūdžius ugdo šiuo būdu:
 
-- Pasirinkite iki 3 įgūdžių iš Profesinių įgūdžių, prieinamų tai Klasei.
-- Paskirstykite 100 taškų tarp Klasės nurodytų Standartinių įgūdžių ir pasirinktų Profesinių įgūdžių, didindami kiekvieną įgūdį 1% už kiekvieną jam skirtą tašką. Nebūtina patobulinti visų prieinamų įgūdžių, tačiau joks individualus įgūdis negali gauti daugiau nei 15% padidėjimo. Kai kurios Klasės suteikia daugiau nei 3 Profesinius įgūdžius, bet niekada daugiau taškų.
-- Visos Klasės apima Kovos įgūdį, kuris apima ginklus, kuriuos Klasė yra tipiška mokoma naudoti. Tai gali būti vos 4 ar 5 paprasti ginklai (magijos vartotojo atveju) arba visi ginklai ir skydai (kovotojo atveju). Kai Kovos įgūdis įtrauktas į Standartinių įgūdžių sąrašą, jis traktuojamas kaip toks ir gali būti tobulinamas naudojant Klasės įgūdžių taškus. Kai Kovos įgūdis praleistas (magijos vartotojo atveju), jį galima tobulinti tik naudojant Papildomus įgūdžių taškus 7 veikėjo kūrimo žingsnyje.
+- Pasirinkite iki 3 įgūdžių iš tos Klasės Profesinių įgūdžių.
+- Paskirstykite 100 taškų tarp Klasės išvardytų Standartinių įgūdžių ir pasirinktų Profesinių įgūdžių, didindami kiekvieną įgūdį 1% už kiekvieną skirtą tašką. Nebūtina tobulinti visų prieinamų įgūdžių, tačiau joks atskiras įgūdis negali gauti didesnio nei 15% padidėjimo. Kai kurios Klasės suteikia daugiau nei 3 Profesinius įgūdžius, bet niekada daugiau taškų.
+- Visos Klasės apima Kovos įgūdį, apimantį ginklus, kuriuos naudoti ta Klasė paprastai yra apmokyta. Tai gali būti vos 4 ar 5 paprasti ginklai (kaip magijos naudotojo atveju) arba visi ginklai ir skydai (kaip kovotojo atveju). Kai Kovos įgūdis įtrauktas į Standartinių įgūdžių sąrašą, jis laikomas tokiu ir gali būti tobulinamas Klasės įgūdžių taškais. Kai Kovos įgūdis praleistas (kaip magijos naudotojo atveju), jį galima tobulinti tik naudojant Papildomus įgūdžių taškus 7-ame personažo kūrimo žingsnyje.
 
-Naujai pasirinkti Profesiniai įgūdžiai ir Klasės Kovos įgūdis prasideda nuo jų Baziniame lygyje nustatytos Charakteristikos vertės. Profesinio įgūdžio, anksčiau įgyto per kultūrinį foną, pasirinkimas tiesiog leidžia veikėjui toliau panaudoti kai kuriuos savo Klasės įgūdžių taškus šiame etape. Kai kurie iš šių įgūdžių, tokie kaip Amatai, Kalba arba Žinios, siūlo specializacijos pasirinkimą. Tokiais atvejais pasirinkta specialybė turėtų būti tinkama veikėjo kultūrai.
+Naujai pasirinkti Profesiniai įgūdžiai ir Klasės Kovos įgūdis prasideda nuo jų bazinės Charakteristikos vertės. Profesinio įgūdžio, anksčiau įgyto per kultūrinį pagrindą, pasirinkimas tiesiog leidžia personažui šiame etape toliau taikyti kai kuriuos savo Klasės įgūdžių taškus. Kai kurie iš šių įgūdžių, tokie kaip Amatai, Kalba ar Žinios, siūlo pasirinkti specializaciją. Tokiais atvejais pasirinkta specialybė turėtų būti tinkama personažo kultūrai.
 
-Tam tikros Klasės gali turėti daugiau įgūdžių, iš kurių galima rinktis, arba gali pasirinkti daugiau įgūdžių nei kitos. Tai subalansuota faktu, kad visi veikėjai vis tiek kuriami su tais pačiais 100 taškų. Taigi, veikėjas su daugiau įgūdžių turės paskirstyti savo taškus ploniau, žinodamas šiek tiek apie daug ką, o veikėjas, turintis mažiau įgūdžių rinktis, taps labiau specializuotas.
+Tam tikros Klasės gali turėti daugiau įgūdžių, iš kurių galima rinktis, arba gali pasirinkti daugiau įgūdžių nei kitos. Tai subalansuota tuo, kad visi personažai vis tiek kuriami su 100 taškų. Taigi, personažas su daugiau įgūdžių galiausiai turės išskirstyti taškus menkiau, žinodamas šiek tiek apie daug ką, o personažas, turintis mažiau įgūdžių rinktis, galiausiai bus labiau specializuotas.
 
-#### Pastaba apie Klasės Gebėjimus ir Rangą
+#### Pastaba dėl Klasės gebėjimų ir Rango
 
-Turėkite omenyje, kad visoms Klasėms reikia bent _**40% įgūdžių lygio bet kuriuose penkiuose Klasės įgūdžiuose**_, kad būtų galima panaudoti tos Klasės specialius Gebėjimus ar burti užkeikimus. Jūs laikomi kompetentingais įgūdyje esant 50% ar daugiau. Taigi, norint kvalifikuotis 1 Rangui, veikėjas turi turėti bet kuriuos penkis Klasės įgūdžius bent 40%. 2 Rangas reikalauja penkių Klasės įgūdžių bent 70%, 3 Rangas reikalauja keturių Klasės įgūdžių bent 90% ir t. t.
+Turėkite omenyje, kad visoms Klasėms reikia bent _**40% lygio bet kuriuose penkiuose Klasės įgūdžiuose**_, kad būtų galima naudoti tos Klasės specialius Gebėjimus ar burti burtus. Kompetentingi įgūdžiu laikomi tada, kai jo lygis yra 50% ar aukštesnis. Taigi, norint kvalifikuotis 1-am rangui, personažas turi turėti penkis Klasės įgūdžius, kurių lygis 40% ar aukštesnis. 2-am rangui reikia bet kokių penkių Klasės įgūdžių su 70%, 3-iam rangui reikia bet kokių keturių Klasės įgūdžių su 90% ir t.t.
 
-Veikėjas gali pasirinkti pradėti nuo 0 Rango, jei neturi pakankamo įgūdžių lygio, ir pasiekti 1 Rangą žaidimo metu, jei nori, tačiau norint naudotis gebėjimais ar burti, šios būtinosios sąlygos turi būti įvykdytos.
+Personažas gali pasirinkti pradėti nuo 0 rango, jei neturi pakankamo įgūdžių lygio, ir pasiekti 1 rangą žaidimo metu, jei pageidauja, tačiau norint naudoti ar burti burtus, šie privalomi reikalavimai turi būti įvykdyti.#### Kovos įgūdis (JĖG+VIK)
 
-#### Kovos įgūdis (STR+DEX)
+Kovos įgūdis yra įgūdis, susijęs su kova ir ginklų naudojimu. Tai įvairiapusis įgūdis su daugybe specializacijų, priklausančių nuo atitinkamos veikėjo Klasės. Dauguma kovos tradicijų apima treniruotes su keliais to paties tipo ginklais, taip pat metodus, reikalingus jiems visiems efektyviai naudoti. Todėl Kovos įgūdis yra skėtinė sąvoka, sujungianti daugelį susijusių kovos aspektų į vieną gebėjimą, pašalinant poreikį įsigyti kelis sub-įgūdžius.
 
-Kovos įgūdis yra įgūdis, susijęs su kovomis ir ginklų naudojimu. Tai įvairiapusis įgūdis su daugybe specializacijų, susijusių su atitinkama veikėjo Klase. Dauguma kovos tradicijų apima mokymą naudotis keliais to paties tipo ginklais, kartu su technikomis, reikalingomis efektyviai juos visus naudoti. Todėl Kovos įgūdis yra skėtis, sujungiantis daugybę susijusių kovos aspektų po vienu gebėjimu, pašalinant poreikį pirkti kelis sub-įgūdžius.
+Kovos įgūdis turi bazinį procentinį dydį, lygų JĖG+VIK.
 
-Kovos įgūdis turi Bazinį procentą, lygų STR+DEX.
+Kadangi dauguma žmonių gali paimti ginklą ir instinktyviai juo mojuoti, mesti ar šaudyti, Kovos įgūdis laikomas Standartiniu įgūdžiu. Tačiau dėl savo potencialiai įvairiapusio pobūdžio jie yra klasifikuojami ir apibrėžiami atskirai.
 
-Kadangi dauguma žmonių gali paimti ginklą ir instinktyviai mojuoti, mesti ar šaudyti juo, Kovos įgūdis laikomas Standartiniu įgūdžiu. Tačiau dėl jų potencialiai įvairiapusės prigimties, jie yra kategorizuojami ir apibrėžiami atskirai.
-
-Visi veikėjai mokosi savo Kovos įgūdį kaip pasirinktos Klasės dalį, kaip aprašyta [3 skyriuje](0003_Classes.md).
+Visi veikėjai savo Kovos įgūdį išmoksta kaip dalį pasirinktos Klasės, kaip aprašyta [3 skyriuje](0003_Classes.md).
 
 ---
 ## 7 žingsnis: Papildomi įgūdžių taškai
 
-Šiame etape kiekvienas veikėjas įgauna papildomą "laisvų" Įgūdžių taškų fondą, pagrįstą Patirties lygiu, kuriuos galima paskirstyti tarp esamų įgūdžių. Jie pateikiami veikėjui papildyti, pridedant interesų ar patirties sričių. Numatytasis kiekis pradedantiesiems veikėjams yra 100 taškų fondas, su limitu priskirti ne daugiau kaip 10 taškų vienam įgūdžiui. Jei veikėjai yra labiau patyrę, Įgūdžių taškų skaičius ir apribojimai skirsis, kaip nurodyta Patirties lentelėje.
+Šiame etape kiekvienas veikėjas gauna papildomą „laisvų“ įgūdžių taškų rezervą, pagrįstą Patirties lygiu, kuriuos galima paskirstyti turimiems įgūdžiams. Jie skiriami tam, kad veikėjas taptų visapusiškesnis, pridedant pomėgių ar ekspertizės sričių. Numatytoji reikšmė pradedantiesiems veikėjams yra 100 taškų rezervas, su apribojimu skirti ne daugiau kaip 10 taškų vienam įgūdžiui. Jei veikėjai yra patyrę, įgūdžių taškų skaičius ir apribojimai skirsis, kaip nurodyta Patirties lentelėje.
 
 Papildomi įgūdžių taškai naudojami šiais būdais:
 
-- Leidžia veikėjui pasirinkti vieną galutinį naują Profesinį įgūdį nemokamai, atspindint asmeninį hobį ar interesą.
+- Suteikia veikėjui galimybę nemokamai pasirinkti vieną galutinį naują Profesinį įgūdį, atspindintį asmeninį pomėgį ar interesą.
 - Arba veikėjas gali pridėti naują ginklo tipą prie savo Kovos įgūdžio.
-- Pridėti +10 premiją dešimčiai skirtingų įgūdžių arba paskirstyti taškus tarp jų, didinant kiekvieną įgūdį 1% už kiekvieną jam tobulinti skirtą tašką. Joks individualus įgūdis negali gauti daugiau taškų nei nurodyta jų Patirties lygyje. Jei pasirenkate naują Profesinį įgūdį, turite pridėti taškų jam.
-- Išskyrus pasirenkamą hobio specialybę, jokie taškai negali būti priskirti Profesiniams įgūdžiams, neišmoktiems kaip kultūros ar Klasės dalis.
+- Arba pridėti +10 premiją dešimčiai skirtingų įgūdžių, arba paskirstyti taškus tarp jų, padidinant kiekvieną įgūdį 1 % už kiekvieną jam tobulinti išleistą tašką. Joks atskiras įgūdis negali gauti daugiau taškų, nei nurodyta pagal jų Patirties lygį. Jei pasirenkate naują Profesinį įgūdį, turite pridėti jam taškų.
+- Išskyrus pasirenkamą pomėgio specializaciją, jokie taškai negali būti skirti Profesiniams įgūdžiams, kurių nebuvo išmokta kaip veikėjo kultūros ar Klasės dalies.
 
 ### Patyrusių veikėjų kūrimas
 
-Rekomenduojama, kad pradedantieji veikėjai pradėtų "švieži", 1 Rango, su maža arba jokia praktine patirtimi. Žinoma, veikėjų lygis labai priklausys nuo nustatymų ir nuo to, ar žaidimas bus trumpas vienkartinis nuotykis, ar ilgai trunkanti kampanija. Taip pat įprasta, kad žaidėjas sukuria labiau patyrusį veikėją, jei keičia žaidime žuvusį arba prisijungdamas prie jau vykstančios kampanijos.
+Rekomenduojama, kad pradedantieji veikėjai pradėtų nuo nulio, 1 rangas, turėdami mažai arba visai neturėdami praktinės patirties. Žinoma, veikėjų lygis labai priklausys nuo nustatymų ir to, ar žaidimas bus trumpas vienkartinis nuotykis, ar ilgalaikė kampanija. Taip pat įprasta, kad žaidėjas sukuria labiau patyrusį veikėją, jei pakeičia žaidimo metu mirusį veikėją arba prisijungia prie jau vykstančios kampanijos.
 
-Pateikiama lentelė, suskirstanti patirtį į Patirties kategorijas. Veikėjo patirtis turi tiesioginę koreliaciją su amžiumi ir įgūdžių kompetencija; labiau patyrę veikėjai natūraliai turi daugiau gyvenimiškos patirties nei jų jaunesni bendražygiai. Tačiau nurodyta Amžiaus premija turėtų būti traktuojama kaip apytikslė, nes kampanijos pažengia skirtingu greičiu – kai kuriose kampanijose tarp nuotykių praeina daug žaidimo laiko, o kitos yra viena ilga nenutrūkstamų nuotykių serija. Konvertuodami esamą veikėją, tiesiog pakeiskite faktinį amžių į žemiau nurodytą.
+Pateikiama lentelė, suskirstanti patirtį į Patirties kategorijas. Veikėjo patirtis turi tiesioginį ryšį su amžiumi ir įgūdžių kompetencija; labiau patyrę veikėjai natūraliai turi daugiau gyvenimiškos patirties nei jų jaunesni bendražygiai. Tačiau nurodyta Amžiaus premija turėtų būti laikoma apytiksle, nes kampanijos vystosi skirtingu greičiu — kai kuriose kampanijose tarp nuotykių praeina daug žaidimo laiko, o kitos yra viena ilga nenutrūkstamų nuotykių serija. Konvertuodami esamą veikėją, tiesiog pakeiskite faktinį amžių į žemiau nurodytą.
 
-Ši lentelė taip pat gali būti naudojama NPC, nesvarbu, ar jie sukurti naudojant Klasę ar karjerą, ir seka tomis pačiomis taisyklėmis. Yra viena išimtis: Ne žaidėjų veikėjai (NPC), sukurti kaip karjeros dalis, neturi specialių Gebėjimų, įskaitant papildomus Sėkmės taškus, kurie skirti tik žaidėjų veikėjams ir reikšmingiems NPC. Atkreipkite dėmesį, kad pradedantis NPC, sukurtas kaip karjera, pagal nutylėjimą yra 1 Rango.
+Ši lentelė taip pat gali būti naudojama ne žaidėjų veikėjams (NPC), nesvarbu, ar jie sukurti naudojant Klasę ar karjerą, ir jai taikomos tos pačios taisyklės. Yra viena išimtis: ne žaidėjų veikėjai, sukurti kaip karjeros dalis, neturi jokių specialių Gebėjimų, įskaitant papildomus Sėkmės taškus, kurie yra skirti tik žaidėjų veikėjams ir svarbiems ne žaidėjų veikėjams. Atkreipkite dėmesį, kad pradedantis NPC, sukurtas kaip karjera, pagal numatymą yra 1 rango.
 
 ##### Patirties lentelė
 
-| Rangas (Lygis\*) | Amžius | Papildomi įgūdžių taškai | Maksimalus įgūdžio padidinimas | Vidutinis įgūdžių lygis\*\* | Pažanga |
+| Rangas (Lygis\*) | Amžius | Papildomi įgūdžių taškai | Didžiausias įgūdžių padidėjimas | Vidutinis įgūdžių lygis\*\* | Pažanga |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| 1 R. (1-4): _Šviežias_ | Pagal rasę | 100 | +10 | 40-60 | Bet kurie 5 Klasės įgūdžiai ties 40% |
-| 2 R. (5-9): _Žemas lygis_ | +1d6 | 300 | +30 | 65-75 | Bet kurie 5 Klasės įgūdžiai ties 70% |
-| 3 R. (10-14): _Vidutinis lygis_ | +1d6+5 | 500 | +50 | 85-95 | Bet kurie 4 Klasės įgūdžiai ties 90% |
-| 4 R. (15-19): _Aukštas lygis_ | +1d6+10 | 700 | +70 | 105-115 | Bet kurie 3 Klasės įgūdžiai ties 110% |
-| 5 R. (20+): _Epinis lygis_ | +1d6+20 | 900 | +90 | 125-135 | Bet kurie 2 Klasės įgūdžiai ties 130% |
+| 1 rangas (1–4): _Naujokas_ | Pagal rūšį | 100 | +10 | 40–60 | Bet kurie 5 Klasės įgūdžiai ties 40% |
+| 2 rangas (5–9): _Žemas lygis_ | +1d6 | 300 | +30 | 65–75 | Bet kurie 5 Klasės įgūdžiai ties 70% |
+| 3 rangas (10–14): _Vidutinis lygis_ | +1d6+5 | 500 | +50 | 85–95 | Bet kurie 4 Klasės įgūdžiai ties 90% |
+| 4 rangas (15–19): _Aukštas lygis_ | +1d6+10 | 700 | +70 | 105–115 | Bet kurie 3 Klasės įgūdžiai ties 110% |
+| 5 rangas (20+): _Epinis lygis_ | +1d6+20 | 900 | +90 | 125–135 | Bet kurie 2 Klasės įgūdžiai ties 130% |
 
-_\* Skaičius skliausteliuose gali būti naudojamas kaip gairė konvertuojant esamus veikėjus iš lygiais paremtų žaidimų._
+_\* Skliausteliuose esantis skaičius gali būti naudojamas kaip orientyras konvertuojant esamus veikėjus iš į lygį orientuotų žaidimų._
 
-_\*\* Tai vidutinis bet kokių Klasės atžvilgiu svarbių įgūdžių lygis._
+_\*\* Tai yra vidutinis įgūdžių lygis bet kokių įgūdžių, kurie yra ypač svarbūs atitinkamai Klasėi._
 
-**Patirties lentelės pastabos**
+**Pastabos apie Patirties lentelę**
 
-- Rangas yra apytikslis aprašomasis vadovas palyginti skirtingų įgūdžių lygių veikėjus.
-- Amžius nustatomas skaičiuojant pagal rasę ir pridedant bet kokią nurodytą premiją. Tai labiau gairė nei griežta taisyklė, nes laikas kampanijose bėga skirtingai.
-- Papildomi įgūdžių taškai nustato, kiek taškų veikėjas turi išleisti įgūdžių plėtrai. Tai NĖRA sumuojama su ankstesnių rangų taškais. Pavyzdžiui, 2 Rango veikėjas kuriamas su 300 taškų, o ne 300 taškų plius 100 iš 1 Rango.
-- Maksimalus įgūdžio padidinimas riboja, kiek Papildomų taškų gali būti pritaikyta vienam Įgūdžiui.
-- Vidutinis įgūdžių lygis rodo tipinį diapazoną veikėjo svarbiausiems su Klase susijusiems įgūdžiams kiekviename Patirties lygyje. Jis įtrauktas informaciniais tikslais ir daro prielaidą apie 16 Bazinių Charakteristikų vertes, su maksimaliais išleistais Įgūdžių taškais kiekviename žingsnyje. Faktiniai rezultatai skirsis.
-- Pažanga: Tai nurodo Klasės įgūdžių skaičių, reikalingą pasiekti nurodytą Rangą. Pavyzdžiui, norint pasiekti 3 Rangą, bet kurie keturi iš atitinkamame Klasės aprašyme nurodytų Klasės įgūdžių turi būti bent 90%.
+- Rangas yra apytikslis aprašomasis vadovas, skirtas palyginti skirtingo įgūdžių lygio veikėjus.
+- Amžius nustatomas skaičiuojant amžių pagal rūšį ir pridedant bet kokią nurodytą premiją. Tai labiau gairė nei griežta taisyklė, nes laikas kampanijose bėga skirtingai.
+- Papildomi įgūdžių taškai nustato, kiek taškų veikėjas turi išleisti įgūdžių tobulinimui. Tai NĖRA sumuojama su ankstesnių rangų taškais. Pavyzdžiui, 2 rango veikėjas kuriamas su 300 taškų, o ne 300 taškų plius 100 iš 1 rango.
+- Didžiausias įgūdžių padidėjimas riboja, kiek papildomų taškų galima pritaikyti vienam įgūdžiui.
+- Vidutinis įgūdžių lygis rodo tipinį veikėjo svarbiausių su Klase susijusių įgūdžių diapazoną kiekviename Patirties lygyje. Jis įtrauktas informaciniais tikslais ir daro prielaidą, kad bazinio lygio charakteristikos yra 16, o kiekviename žingsnyje išnaudojami maksimalūs įgūdžių taškai. Faktiniai rezultatai skirsis.
+- Pažanga: Tai nurodo Klasės įgūdžių skaičių, reikalingą nurodytam Rangui pasiekti. Pavyzdžiui, norint pasiekti 3 rangą, bet kurie keturi iš atitinkamos Klasės aprašyme nurodytų Klasės įgūdžių turi būti bent 90 %.
 
 ---
-## 8 žingsnis: Pabaigai...
+## 8 žingsnis: Galiausiai…
 
-- Nustatykite savo Pasaulėžiūrą ir Aistras remdamiesi pasirinkta Kultūra/Rase ir Klase. Žr. [4 skyrių](0004_Alignment_and_Passions.md).
-- Pasižymėkite pradinius Gebėjimus iš savo Rasės ir Klasės.
-- Tarp Ranguotų gebėjimų pasirinkite vieną 1 Rango Klasės gebėjimą, kurio reikalavimus atitinkate, be jokių EXP metimų kainos.
+- Nustatykite savo Pasaulėžiūrą ir Aistras, remdamiesi pasirinkta Kultūra / Rase ir Klase. Žr. [4 skyrių](0004_Alignment_and_Passions.md).
+- Pasižymėkite bet kokius pradinius Gebėjimus iš savo Rasės ir Klasės.
+- Pagal Ranginius gebėjimus pasirinkite vieną 1 rango Klasės gebėjimą, kurio reikalavimus atitinkate, be jokių PAT metimų sąnaudų.
 - Nusirašykite pradinę įrangą, kaip nurodyta jūsų Klasės aprašymo pabaigoje.
-- Nepamirškite suteikti savo veikėjui vardo. Taip pat ieškokite būdų užmegzti ryšius su kitais veikėjais, jei pageidaujate.
+- Nepamirškite duoti savo veikėjui vardo. Taip pat, jei pageidaujate, ieškokite būdų užmegzti ryšius su kitais veikėjais.

@@ -1,124 +1,124 @@
 # Sura ya 1: Wahusika
 
-Mhusika wa msingi hufafanuliwa na mfululizo wa vipengele tofauti vinavyoelezea uwezo wa mhusika huyo. Vipengele hivi ni:
+Mhusika wa kimsingi anafafanuliwa na mfululizo wa vipengele tofauti vinavyoelezea uwezo wa mhusika. Vipengele hivi ni:
 
-- Tabia (Characteristics): kama vile Nguvu (Strength) au Haiba (Charisma)
-- Sifa (Attributes): vitu kama Urefu au Mwendo
-- Ustadi (Skills): utaalamu katika uwezo wa kimsingi
+- Sifa (Characteristics): kama vile Nguvu (NGU) au MVU
+- Sifa za ziada (Attributes): mambo kama vile Kimo au Mwendo
+- Ujuzi (Skills): utaalamu katika uwezo wa kimsingi
 
-Vipengele vingi kati ya hivi vinaelezwa kwa namba, na vingine vinategemea au kuhesabiwa na vingine. Kile ambacho kila kipengele kinamaanisha, na jinsi vinavyoamuliwa, vinaelezwa katika sehemu zifuatazo.
+Vipengele vingi kati ya hivi vinaelezewa kwa namba, na vingine vinategemea au vinahesabiwa kwa kutumia vingine. Kila kipengele kinamaanisha nini, na jinsi vinavyoamuliwa, vimefafanuliwa katika sehemu zifuatazo.
 
 ---
 ## Hatua ya 1: Dhana ya Mhusika
 
-Mahali pazuri pa kuanzia ni kuwa na wazo la aina ya mhusika unayetaka kucheza; mpiganaji mkongwe kwa mfano, au mwizi mjanja. Dhana yako ya mhusika haihitaji kuwa tata katika hatua hii; wazo tu litakalosaidia kuongoza chaguzi fulani kama vile Kabila na Daraja. Baadhi ya mawazo ya wahusika yameorodheshwa ili kuchochea mawazo yako.
+Mahali pazuri pa kuanzia ni kuwa na wazo la aina ya mhusika unayetaka kucheza; kwa mfano, mpiganaji mkongwe, au mwizi mjanja. Dhana yako ya mhusika haihitaji kuwa tata katika hatua hii; wazo rahisi tu litakalosaidia kuongoza chaguzi fulani kama vile Mbio (Race) na Daraja (Class). Mawazo machache ya wahusika yameorodheshwa ili kuchochea mawazo yako.
 
-- Mchawi kijana, asiye na hatia
-- Mpiganaji wa nusu-orc mwenye hasira
-- Mwizi wa halfling aliyejiamini kupita kiasi
-- Kasisi wa dwarf mwenye uchaji Mungu
-
----
-## Hatua ya 2: Tabia (Characteristics)
-
-Kila mtu anafafanuliwa na Tabia saba zinazokuambia kitu fulani kuhusu mhusika wako; jinsi alivyo na nguvu au kasi; jinsi alivyo na akili au afya. Tabia ndizo msingi wa kila mhusika wa _Classic Fantasy Imperative_ na kuunda msingi kwa vipengele vingine vingi kama vile Sifa na Ustadi. Tabia hizo saba ni:
-
-- Nguvu (STR)
-- Katiba/Afya (CON)
-- Ukubwa (SIZ)
-- wepesi (DEX)
-- Akili (INT)
-- Nguvu ya Ndani (POW)
-- Haiba (CHA)
-
-Kabla ya kuhesabu Tabia, sehemu ifuatayo inaelezea kile kila moja inawakilisha.
-
-#### Nguvu (STR)
-
-STR inawakilisha nguvu ya kimwili: kiasi ambacho mtu anaweza kunyanyua, jinsi anavyoweza kupiga kwa nguvu, na kadhalika. STR ni sehemu ya [Kirekebishi cha Uharibifu](0001_Characters.md?id=damage-modifier) (tazama sehemu ya [Sifa](0001_Characters.md?id=step-3-attributes) hapa chini). Ikiwa mhusika atapunguziwa STR hadi sifuri, anakosa uwezo wa kusonga au kunyanyua vitu.
-
-#### Katiba/Afya (CON)
-
-CON ni kipimo cha afya na ustahimilivu. CON ni sehemu katika kuamua [Pointi za Afya (Hit Points)](0001_Characters.md?id=hit-points) na [Kiwango cha Kupona](0001_Characters.md?id=healing-rate) (tazama hapa chini). Ikiwa CON itashuka hadi sifuri kwa sababu yoyote, mhusika hufa.
-
-#### Ukubwa (SIZ)
-
-SIZ hupima masi na kusaidia kuashiria Urefu na Uzito. SIZ hutumika kusaidia kujua [Pointi za Afya](0001_Characters.md?id=hit-points), kwani viumbe wakubwa na wazito huwa na ustahimilivu mkubwa dhidi ya uharibifu. SIZ inaweza pia kutumika kuamua Kirekebishi cha Uharibifu cha mhusika, kwani masi husaidia kuongeza nguvu ya pigo.
-
-#### Wepesi (DEX)
-
-Unyumbulifu, usawaziko, na reflexes hupimwa na DEX. Ni kipengele muhimu cha [Hatua ya Kwanza (Initiative)](0001_Characters.md?id=initiative). Ikiwa mhusika atapunguziwa DEX hadi sifuri, anapata kupooza kiutendaji.
-
-#### Akili (INT)
-
-INT ni kipimo cha uwezo wa utambuzi. Wale walio na alama ya chini ya INT si lazima wawe wajinga, lakini wana uwezekano wa kuzuiliwa katika jinsi wanavyoweza kutumia akili zao kwa ubunifu. INT ni kigezo katika kuhesabu [Hatua ya Kwanza](0001_Characters.md?id=initiative). Ikiwa INT itapunguzwa hadi sifuri, mhusika anakuwa hana akili kabisa.
-
-#### Nguvu ya Ndani (POW)
-
-POW ni kipimo cha nafsi, roho, msukumo wa ndani, au uwezo wa uchawi wa mhusika. POW hudhibiti [Pointi za Uchawi](0001_Characters.md?id=magic-points) na [Pointi za Bahati](0001_Characters.md?id=luck-points) za mhusika. Ikiwa POW ya mhusika itashuka hadi sifuri, anapoteza utashi wote wa kujitegemea.
-
-#### Haiba (CHA)
-
-Haiba hupima utu na inajitegemea kutoka kwa mwonekano wa kimwili. CHA huathiri [Kirekebishi cha Uzoefu](0001_Characters.md?id=experience-modifier) cha mhusika. Ikiwa CHA itashuka hadi sifuri, mhusika hawezi tena kushirikiana kijamii na wengine, akawa mwenye aibu sana au asiyependa watu kiasi cha kupuuza au hata kufukuzwa.
+- Mtumiaji wa uchawi kijana, asiye na uzoefu
+- Mpiganaji nusu-orc mwenye hasira mbaya
+- Mwizi halfling mwenye majivuno
+- Kasisi dwarf mcha Mungu
 
 ---
-### Kuhesabu Tabia
+## Hatua ya 2: Sifa (Characteristics)
 
-Kila Tabia ina thamani ya namba ili kuamua jinsi ilivyo na nguvu. Namba iliyo kwenye mabano baada ya kila alama ya kete ni wastani wa kikabila na hutumika kama kipimo cha kukadiria matokeo ya mhusika wako ikilinganishwa na washiriki wengine wa spishi zao. Mapendekezo ya kuamua Tabia zako ni pamoja na:
+Kila mtu anafafanuliwa na Sifa saba zinazokuambia kitu kuhusu mhusika wako; jinsi walivyo na nguvu au kasi; jinsi walivyo werevu au wazima. Sifa ndizo msingi wa kila mhusika wa _Classic Fantasy Imperative_ na hutengeneza msingi wa vipengele vingine vingi kama vile Sifa za ziada (Attributes) na Ujuzi (Skills). Sifa saba hizo ni:
 
-- **Roli ya Kete:** Rola kete zilizoonyeshwa kwenye Jedwali la Tabia za Kikabila kwa STR, CON, SIZ, DEX, INT, POW, na CHA ukichukua kila alama iliyoroliwa vile ilivyo. Kwa kuwa matokeo ya roli hizi yanaweza kuwa ya kubahatisha, mara nyingi ni bora kuamua dhana ya mhusika baada ya kete kuroliwa. Vinginevyo, Tabia za mwisho zinaweza kuzuia jukumu lililokusudiwa. Rola 3d6 kwa STR, CON, DEX, POW, na CHA; kisha 2d6+6 kwa SIZ na INT.
-- **Roli ya Kete, Pangia:** Kama ilivyo hapo juu, isipokuwa mchezaji anaweza kubadilishana thamani kati ya Tabia zenye safu sawa ya kete. Kwa mfano, wakati wa kuunda binadamu, mchezaji anaweza kubadilishana thamani kati ya STR, CON, DEX, POW, na CHA, kwani zote zinashiriki safu ya 3d6, au kati ya SIZ na INT, ambazo zinashiriki safu ya 2d6+6 —lakini lazima kila mara ziwe kutoka kundi moja la safu ya kete; huwezi kubadilisha roli kutoka kundi moja kwenda jingine.
-- **Roli ya Kete, Juu:** Rola kete moja ya ziada kama ilivyoonyeshwa kwa STR, CON, SIZ, DEX, INT, POW, na CHA, na uondoe matokeo ya chini kabisa kutoka kwa kila moja.
-- **Ujenzi wa Pointi:** Badala ya kuroli kete ili kuamua Tabia, wachezaji huunda mhusika wao kutoka kwa hifadhi ya pointi zilizopangwa awali, ambazo kiasi chake huamuliwa na spishi ya mhusika. Njia hii ni bora kwa vikundi vinavyojua wanataka kucheza nini na wanataka kurekebisha ujenzi wao kwa Daraja maalum. Sheria fulani zinatumika kwa chaguo la Ujenzi wa Pointi:
-  - Anza na wastani wa kikabila kwa kila moja ya Tabia saba kama ilivyoainishwa kwenye mabano baada ya kila safu ya kete hapa chini.
-  - Tumia pointi nyingine 10 (binadamu) au 6 (nusu-binadamu) ili kuongeza Tabia.
-  - Unaweza pia kupunguza Tabia ili kupata pointi za ziada. Kwa mfano, punguza STR 11 hadi 9 ili kupata pointi 2.
-  - Tabia haziwezi kuwa _chini_ kuliko kiwango cha chini kabisa kinachowezekana au _zaidi_ kuliko kiwango cha juu kinachowezekana kwa Tabia hiyo kama inavyoamuliwa na roli yake ya kete inayowezekana.
+- Nguvu (NGU)
+- UVU (UVU)
+- UKU (UKU)
+- UST (UST)
+- AKI (AKI)
+- UWE (UWE)
+- MVU (MVU)
+
+Kabla ya kuhesabu Sifa, sehemu inayofuata inaelezea kile ambacho kila moja inawakilisha.
+
+#### Nguvu (NGU)
+
+NGU inawakilisha nguvu za kimwili: kiasi ambacho mtu anaweza kunyanyua, jinsi anavyoweza kupiga kwa nguvu, na kadhalika. NGU ni sehemu ya [Kidhibiti Uharibifu](0001_Characters.md?id=damage-modifier) (tazama sehemu ya [Sifa za Ziada](0001_Characters.md?id=step-3-attributes) hapa chini). Ikiwa mhusika atapunguziwa NGU hadi sufuri, anakosa uwezo wa kusonga au kunyanyua vitu.
+
+#### UVU (UVU)
+
+UVU ni kipimo MVU afya na uvumilivu. UVU ni sehemu ya kuamua [Pointi za Afya](0001_Characters.md?id=hit-points) na [Kiwango MVU Kupona](0001_Characters.md?id=healing-rate) (tazama hapa chini). Ikiwa UVU itashuka hadi sufuri kwa sababu yoyote ile, mhusika hufariki.
+
+#### UKU (UKU)
+
+UKU hupima uzito na inasaidia kuonyesha Kimo na Uzito. UKU hutumika kusaidia kukokotoa [Pointi za Afya](0001_Characters.md?id=hit-points), kwa kuwa viumbe wakubwa na wazito zaidi huwa na uvumilivu mkubwa dhidi ya uharibifu. UKU pia inaweza kutumika kuamua Kidhibiti Uharibifu MVU mhusika, kwa kuwa uzito husaidia kuongeza nguvu ya pigo.
+
+#### UST (UST)
+
+Wepesi, uwiano, na mwitikio hupimwa na UST. Ni kipengele muhimu MVU [Mwitikio wa Mapema](0001_Characters.md?id=initiative). Ikiwa mhusika atapunguziwa UST hadi sufuri, anapata ulemavu wa viungo.
+
+#### AKI (AKI)
+
+AKI ni kipimo MVU uwezo wa utambuzi. Wale walio na alama ya chini ya AKI si lazima wawe wajinga, lakini wanaweza kuwa na ukomo katika jinsi wanavyoweza kutumia akili zao kwa ubunifu. AKI ni kigezo katika kukokotoa [Mwitikio wa Mapema](0001_Characters.md?id=initiative). Ikiwa AKI itapunguzwa hadi sufuri, mhusika anakuwa hana akili kabisa.
+
+#### UWE (UWE)
+
+UWE ni kipimo MVU nafsi, roho, msukumo wa ndani, au uwezo wa mhusika wa uchawi. UWE hudhibiti [Pointi za Uchawi](0001_Characters.md?id=magic-points) na [Pointi za Bahati](0001_Characters.md?id=luck-points) za mhusika. Ikiwa UWE ya mhusika itashuka hadi sufuri, anapoteza utashi wote wa kujitegemea.
+
+#### MVU (MVU)
+
+MVU hupima utu na haitegemei mwonekano wa kimwili. MVU huathiri [Kidhibiti Uzoefu](0001_Characters.md?id=experience-modifier) MVU mhusika. Ikiwa MVU itashuka hadi sufuri, mhusika hawezi tena kushirikiana kijamii na wengine, akawa mwenye haya kupita kiasi au asiyependa watu kiasi MVU kupuuzwa au hata kufukuzwa.
+
+---
+### Kukokotoa Sifa
+
+Kila Sifa ina thamani ya namba ili kuamua nguvu yake. Namba iliyo kwenye mabano baada ya kila matokeo ya kete ni wastani wa mbio husika na hutumika kama kipimo MVU kutathmini matokeo ya mhusika wako ikilinganishwa na wanachama wengine wa spishi zao. Mapendekezo ya kuamua Sifa zako ni pamoja na:
+
+- **Kuviringisha Kete:** Viringisha kete zilizoonyeshwa kwenye Jedwali la Sifa za Mbio kwa NGU, UVU, UKU, UST, AKI, UWE, na MVU, ukichukua kila alama iliyoviringishwa kama ilivyo. Kwa kuwa matokeo ya viringisho hivi yanaweza kuwa ya kubahatisha, mara nyingi ni bora kuamua dhana ya mhusika baada ya kete kuviringishwa. Vinginevyo, Sifa za mwisho zinaweza kuzuia jukumu lililopangwa awali. Viringisha 3d6 kwa NGU, UVU, UST, UWE, na MVU; kisha 2d6+6 kwa UKU na AKI.
+- **Kuviringisha Kete, Kugawa:** Kama ilivyo hapo juu, isipokuwa mchezaji anaweza kubadilishana thamani kati ya Sifa zenye masafa sawa ya kete. Kwa mfano, wakati wa kutengeneza binadamu, mchezaji anaweza kubadilishana thamani kati ya NGU, UVU, UST, UWE, na MVU, kwa kuwa zinashiriki masafa ya 3d6, au kati ya UKU na AKI, zinazoshiriki masafa ya 2d6+6 —lakini lazima ziwe kutoka kundi moja la masafa ya kete; huwezi kubadilisha viringisho kutoka kundi moja kwenda jingine.
+- **Kuviringisha Kete, Juu:** Viringisha kete moja ya ziada kama ilivyoonyeshwa kwa NGU, UVU, UKU, UST, AKI, UWE, na MVU, na uondoe matokeo ya chini kabisa kutoka kwa kila moja.
+- **Kujenga kwa Pointi:** Badala ya kuviringisha kete ili kuamua Sifa, wachezaji hujenga mhusika wao kutoka kwenye hifadhi ya pointi zilizopangwa awali, kiasi ambacho huamuliwa na spishi ya mhusika. Mbinu hii ni bora kwa makundi yanayojua wanachotaka kucheza na wanataka kurekebisha ujenzi wao kwa Daraja maalum. Sheria fulani hutumika kwa chaguo la Kujenga kwa Pointi:
+  - Anza na wastani wa mbio husika kwa kila moja ya Sifa saba kama ilivyoandikwa kwenye mabano baada ya kila masafa ya kete hapa chini.
+  - Tumia pointi nyingine 10 (binadamu) au 6 (nusu-binadamu) ili kuongeza Sifa.
+  - Unaweza pia kupunguza Sifa ili kupata pointi za ziada. Kwa mfano, punguza NGU kutoka 11 hadi 9 ili kupata pointi 2.
+  - Sifa haziwezi kuwa _chini_ ya kiwango MVU chini kinachowezekana au _zaidi_ ya kiwango MVU juu kinachowezekana kwa Sifa hiyo kama ilivyoamuliwa na viringisho vyake vya kete.
 
 Watawala wa Michezo (Games Masters) wako huru kuja na mbinu zao wenyewe au thamani za pointi inavyotakiwa.
 
-Jedwali lifuatalo linatoa muhtasari wa maelezo yanayohitajika kwa kila mojawapo ya mbinu zilizo hapo juu. Safu za kete hutumika katika mojawapo ya mbinu za Roli ya Kete, wakati namba kwenye mabano hutumika katika Ujenzi wa Pointi.
+Jedwali lifuatalo linatoa muhtasari wa maelezo yanayohitajika kwa kila moja ya mbinu hapo juu. Masafa ya kete hutumika katika mojawapo ya mbinu za Kuviringisha Kete, wakati namba kwenye mabano hutumika katika Kujenga kwa Pointi.
 
-##### Jedwali la Tabia za Kikabila
+##### Jedwali la Sifa za Mbio
 
-| Kabila | Dwarf | Elf | Gnome |
+| Mbio | Dwarf | Elf | Gnome |
 | --- | --- | --- | --- |
-| STR | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
-| CON | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
-| SIZ | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
-| DEX | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
-| INT | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
-| POW | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
-| CHA | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
+| NGU | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
+| UVU | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
+| UKU | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
+| UST | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
+| AKI | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
+| UWE | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
+| MVU | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
 
-| Kabila | Half-Elf | Half-Orc | Halfling | Human |
+| Mbio | Half-Elf | Half-Orc | Halfling | Human |
 | --- | --- | --- | --- | --- |
-| STR | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
-| CON | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
-| SIZ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
-| DEX | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
-| INT | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
-| POW | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
-| CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
+| NGU | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
+| UVU | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
+| UKU | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
+| UST | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
+| AKI | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
+| UWE | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
+| MVU | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
-## Hatua ya 3: Sifa (Attributes)
+## Step 3: Sifa za Ziada (Attributes)
 
-Kila mhusika pia ana seti ya sifa. Hizi ni uwezo unaotokana na Tabia au unaoamuliwa nazo ambao hutumika kudhibiti vipengele fulani vya mchezo.
+Kila mhusika pia ana seti ya sifa za ziada. Hizi ni uwezo unaotokana na Sifa za msingi au kuamuliwa nazo ambazo hutumika kudhibiti mambo fulani ya uchezaji wa mchezo.
 
 #### Pointi za Vitendo (Action Points)
 
-Mara ngapi mhusika anaweza kuchukua hatua katika [Mzunguko wa Mapigano](0008_Combat.md?id=combat-rounds) huamuliwa na Pointi za Vitendo. Wahusika wanaoanza wana Pointi 2 za Vitendo lakini hupata zaidi kadiri wanavyopanda daraja. Tazama Jedwali husika la Uendelezaji wa Daraja chini ya [Madaraja](0003_Classes.md) kwa maelezo zaidi.
+Ni mara ngapi mhusika anaweza kuchukua hatua katika [Mzunguko wa Mapigano](0008_Combat.md?id=combat-rounds) huamuliwa na Pointi za Vitendo. Wahusika wanaoanza huanza na Pointi 2 za Vitendo lakini hupata zaidi kadiri wanavyopanda katika Rank. Tazama Majedwali ya Maendeleo ya Daraja husika chini ya [Madaraja](0003_Classes.md) kwa maelezo zaidi.
 
-#### Kirekebishi cha Uharibifu (Damage Modifier)
+#### Kidhibiti Uharibifu (Damage Modifier)
 
-Kiasi cha ziada cha uharibifu ambacho mhusika husababisha anapopiga kimwili au kutumia nguvu. Kwa ujumla hutumika katika hali za mapigano lakini pia inaweza kutumika wakati wa kujaribu kuvunja vitu. Kirekebishi cha Uharibifu ni roli ya kete ya ziada ambayo ama huongezwa kwa, au kutolewa kutoka kwa, uharibifu uliosababishwa na silaha au kifaa. Ikiwa Kirekebishi cha Uharibifu hasi kitafanya uharibifu wa silaha kufika sifuri au chini, basi hakuna uharibifu uliosababishwa hata kidogo.
+Kiasi MVU ziada MVU uharibifu ambacho mhusika husababisha anapopiga kimwili au kutumia nguvu. Kwa ujumla hutumika katika hali za mapigano lakini pia inaweza kutumika wakati wa kujaribu kuvunja vitu. Kidhibiti Uharibifu ni viringisho vya ziada vya kete ambavyo huongezwa kwa, au kutolewa kutoka kwa, uharibifu uliosababishwa na silaha au chombo. Ikiwa Kidhibiti Uharibifu hasi kitafanya uharibifu wa silaha kuwa sufuri au chini ya hapo, basi hakuna uharibifu wowote uliosababishwa.
 
-Jumlisha STR na SIZ na uone jedwali la Kirekebishi cha Uharibifu:
+Jumlisha NGU na UKU kisha angalia jedwali la Kidhibiti Uharibifu:
 
-##### Jedwali la Kirekebishi cha Uharibifu
+##### Jedwali la Kidhibiti Uharibifu
 
-| STR+SIZ | Kirekebishi cha Uharibifu |
+| NGU+UKU | Kidhibiti Uharibifu |
 | :-: | :-: |
 | 5 au chini | –1d8 |
 | 6–10 | –1d6 |
@@ -138,55 +138,55 @@ Jumlisha STR na SIZ na uone jedwali la Kirekebishi cha Uharibifu:
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
 | 121–130 | +2d10+1d4 |
-| Kila pointi 10 | Endeleza Mfululizo |
+| Kila pointi 10 | Endeleza Maendeleo |
 
-#### Kirekebishi cha Uzoefu (Experience Modifier)
+#### Kidhibiti Uzoefu (Experience Modifier)
 
-Katika kipindi cha mchezo, wahusika huboresha ustadi na uwezo wao. Hili hufanikiwa kwa kutumia Roli za Uzoefu ambazo zinaelezwa kwa kina zaidi katika sehemu ya [Mfumo wa Mchezo](0007_Game_System.md?id=experience-rolls).
+Katika kipindi MVU mchezo wahusika huboresha ujuzi na uwezo wao. Hii hufikiwa kwa kutumia Viringisho vya Uzoefu ambavyo vinafafanuliwa kwa kina zaidi katika sehemu ya [Mfumo wa Mchezo](0007_Game_System.md?id=experience-rolls).
 
-Alama ya CHA ya mhusika inaweza kurekebisha idadi ya Roli za Uzoefu ambazo mhusika anazo, ikionyesha uhusiano alionao na wenzake na sifa yake katika jamii. Ikiwa CHA ni kubwa, watu wako tayari kujitolea kusaidia kutoa mafunzo au kuunga mkono mhusika wakati anapopitia mafunzo. Kinyume chake, ikiwa CHA ni ndogo sana, kunaweza kuwa na ugumu wa kuboresha uwezo wa mtu bila msaada wa wengine; kutafuta mtu wa kufanya naye mazoezi ya mapigano kwa mfano.
+Alama ya MVU ya mhusika inaweza kurekebisha idadi ya Viringisho vya Uzoefu ambavyo mhusika anavyo, ikionyesha uhusiano alionao na wenzao na sifa yake katika jamii. Ikiwa MVU ni ya juu watu wako tayari kujitolea kusaidia kutoa mafunzo au kuunga mkono mhusika wakati anapopata masomo. Kinyume chake, ikiwa MVU ni ya chini sana, kunaweza kuwa na ugumu fulani katika kuboresha uwezo wa mtu bila msaada wa wengine; kwa mfano, kutafuta mtu wa kufanya mazoezi ya mapigano dhidi yake.
 
-##### Jedwali la Kirekebishi cha Uzoefu
+##### Jedwali la Kidhibiti Uzoefu
 
-| CHA | Kirekebishi cha Uzoefu |
+| MVU | Kidhibiti Uzoefu |
 | :-: | :-: |
 | 6 au chini | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Kila pointi 6 | +1 |
 
-#### Kiwango cha Kupona (Healing Rate)
+#### Kiwango MVU Kupona (Healing Rate)
 
-Baada ya kupata majeraha, mhusika anahitaji kupona. Kiwango cha Kupona huamua jinsi anavyopona majeraha kiasili. Kulingana na ukali wa jeraha (tazama sehemu ya [Uharibifu na Majeraha](0007_Game_System.md?id=damage-and-wound-levels)), Kiwango cha Kupona kinaashiria ni Pointi ngapi za Afya zinazorejeshwa kwa siku, wiki, au mwezi.
+Baada ya kupata majeraha, mhusika anahitaji kupata nafuu. Kiwango MVU Kupona huamua jinsi anavyopona majeraha kiasili haraka. Kulingana na ukubwa wa jeraha (tazama sehemu ya [Uharibifu na Viwango vya Jeraha](0007_Game_System.md?id=damage-and-wound-levels)), Kiwango MVU Kupona kinaonyesha ni Pointi ngapi za Afya zinazopatikana kwa siku, wiki, au mwezi.
 
-##### Jedwali la Kiwango cha Kupona
+##### Jedwali la Kiwango MVU Kupona
 
-| CON | Kiwango cha Kupona |
+| UVU | Kiwango MVU Kupona |
 | :-: | :-: |
 | 6 au chini | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Kila pointi 6 | +1 |
 
-#### Hatua ya Kwanza (Initiative)
+#### Mwitikio wa Mapema (Initiative)
 
-Wakati ambapo mtu anaitikia katika mapigano hudhibitiwa na Hatua ya Kwanza. Hatua ya Kwanza hufanya kazi kama kirekebishi kwa roli za Hatua ya Kwanza; kadiri Hatua ya Kwanza inavyokuwa kubwa, ndivyo mtu anavyoitikia haraka katika hali ya mapigano, akiamua wakati unaweza kuchukua hatua. Sababu nyingine – silaha kwa mfano – huibadilisha. Sura ya [Mapigano](0008_Combat.md?) inaingia kwa kina zaidi kuhusu jinsi [Hatua ya Kwanza](0008_Combat.md?id=initiative) inavyotumika.
+Wakati ambao mtu humwitikia katika mapigano hudhibitiwa na Mwitikio wa Mapema. Mwitikio wa Mapema hufanya kazi kama kidhibiti kwa viringisho vya Mwitikio wa Mapema; kadiri Mwitikio wa Mapema ulivyo juu, ndivyo mtu anavyoitikia haraka katika hali ya mapigano, ikiamua ni lini unaweza kuchukua hatua. Mambo mengine – kama silaha – huirekebisha. Sura ya [Mapigano](0008_Combat.md) inaingia kwa kina zaidi kuhusu jinsi [Mwitikio wa Mapema](0008_Combat.md?id=initiative) unavyotumika.
 
-Hatua ya Kwanza ni wastani wa Tabia za DEX na INT.
+Mwitikio wa Mapema ni wastani wa Sifa za UST na AKI.
 
 #### Pointi za Bahati (Luck Points)
 
-Pointi za Bahati zinawakilisha ile nguvu ya ajabu inayotofautisha mashujaa wa kusisimua na watu wa kawaida. Iite hatima, karma, au bahati nzuri tu. Pointi za Bahati zinaweza kutumika:
+Pointi za Bahati zinawakilisha nguvu hiyo ya ajabu inayotofautisha mashujaa wanaoanza safari kutoka kwa watu wa kawaida. Iite hatima, karma, au bahati njema tu. Pointi za Bahati zinaweza kutumika ili:
 
-- Kuroli tena kete ikiwa hazifai.
-- Kupunguza uharibifu wa kimwili au hali nyingine zisizofaa.
+- Kuviringisha kete tena ikiwa hazikupendezi.
+- Kupunguza uharibifu wa kimwili au hali nyingine mbaya.
 - Kupata faida katika wakati muhimu wa mapigano.
 
-Jinsi zinavyotumika hasa, na wakati gani, inaelezwa katika sehemu ya, [Kutumia Pointi za Bahati](0007_Game_System.md?id=using-luck-points). Mara tu Pointi ya Bahati inapotumika, hifadhi hupungua; wakati mtu hana Pointi za Bahati, hakuna nyingine inayopatikana – isipokuwa ikiwa Mtawala wa Mchezo atatoa tuzo ya dharura – hadi kikao kijacho cha mchezo ambapo hujijaza tena hadi thamani yao ya kawaida.
+Jinsi hasa zinavyotumika, na lini, vimefafanuliwa katika sehemu ya, [Kutumia Pointi za Bahati](0007_Game_System.md?id=using-luck-points). Mara tu Pointi ya Bahati inapotumika, hifadhi hupungua; wakati mtu anapomaliza Pointi za Bahati, hakuna nyingine inayopatikana – isipokuwa Mtawala wa Michezo atoe tuzo ya ghafla – hadi kipindi kijacho MVU mchezo wakati zinapojaza tena thamani yake ya kawaida.
 
 ##### Jedwali la Pointi za Bahati
 
-| POW | Pointi za Bahati |
+| UWE | Pointi za Bahati |
 | :-: | :-: |
 | 6 au chini | 1 |
 | 7-12 | 2 |
@@ -195,21 +195,21 @@ Jinsi zinavyotumika hasa, na wakati gani, inaelezwa katika sehemu ya, [Kutumia P
 
 _\* Binadamu huanza na Pointi moja ya ziada ya Bahati zaidi ya ile iliyoonyeshwa hapo juu._
 
-_\*\* Wahusika wote hupata Pointi moja ya ziada ya Bahati kila wanapofikia Daraja mpya._
+_\*\* Wahusika wote hupata Pointi moja ya ziada ya Bahati kila Rank mpya inapofikiwa._
 
 #### Pointi za Uchawi (Magic Points)
 
-Uwezo wa fumbo na ina (spells) zinazotupwa katika _Classic Fantasy Imperative_ kwa kawaida hutegemea Pointi za Uchawi. Kwa kuwa upatikanaji wa uchawi unaweza kuwa na kikomo na mpangilio wa kampeni au kwa taaluma maalum za uchawi, baadhi ya wahusika wataona Sifa hii haina maana.
+Uwezo wa kimizimu na tahajia zinazotupwa katika _Classic Fantasy Imperative_ kwa kawaida hutegemea Pointi za Uchawi. Kwa kuwa upatikanaji wa uchawi unaweza kuwa na ukomo na mazingira ya kampeni au kwa taaluma maalum za kichawi, wahusika wengine wataona Sifa hii ya ziada kuwa haina maana.
 
-Kwa wale wanaoweza kutumia uwezo kama huo, Pointi za Uchawi za mhusika ni sawa na POW yao. Pointi hizi hutumika kutupa ina, gharama yake inategemea aina ya uchawi unaotumika. Wakati watupaji ina wanapoishiwa na Pointi za Uchawi wamechoka uwezo wao wa kutupa ina yoyote hadi Pointi za Uchawi zitakapojazwa tena.
+Kwa wale wanaoweza kutumia nguvu hizo, Pointi za Uchawi za mhusika ni sawa na UWE yao. Pointi hizi hutumika kutupa tahajia, ambazo gharama yake inategemea aina ya uchawi uliotumika. Wakati watupaji wa tahajia wanapoishiwa na Pointi za Uchawi wamechoka uwezo wao wa kutupa tahajia zozote hadi Pointi za Uchawi zitakapojazwa tena.
 
-#### Kiwango cha Mwendo (Movement Rate)
+#### Kiwango MVU Mwendo (Movement Rate)
 
-Kila kiumbe kina Kiwango cha Mwendo – miguu kadhaa ambayo inaweza kusafiriwa wakati wa kipindi maalum. Mwendo hauhesabiwi kutoka kwa Tabia bali ni thamani ya kawaida inayotofautiana kutoka spishi hadi spishi. Kiwango cha Msingi cha Mwendo kwa binadamu ni futi 20, ingawa ustadi fulani unaweza kuboresha hili. Sehemu ya [Mwendo](0008_Combat.md?id=movement) inatoa maelezo zaidi.
+Kila kiumbe kina Kiwango MVU Mwendo – futi kadhaa zinazoweza kusafiriwa katika kipindi maalum. Mwendo haukokotolewa kutoka kwa Sifa bali ni thamani ya kawaida inayotofautiana kutoka spishi moja hadi nyingine. Kiwango MVU Msingi MVU Mwendo kwa binadamu ni futi 20, ingawa ujuzi fulani unaweza kuboresha hili. Sehemu ya [Mwendo](0008_Combat.md?id=movement) inatoa maelezo zaidi.
 
-##### Jedwali la Kiwango cha Mwendo kwa Kabila
+##### Jedwali la Kiwango MVU Mwendo kwa Mbio
 
-| Spishi | Futi | Metre |
+| Spishi | Futi | Mita |
 | :-- | :-: | :-: |
 | Dwarf | 15 | 4.5 |
 | Elf | 20 | 6 |
@@ -217,21 +217,19 @@ Kila kiumbe kina Kiwango cha Mwendo – miguu kadhaa ambayo inaweza kusafiriwa w
 | Half-Elf | 20 | 6 |
 | Half-Orc | 20 | 6 |
 | Halfling | 15 | 4.5 |
-| Human | 20 | 6 |
+| Human | 20 | 6 |#### Pointi za Afya
 
-#### Pointi za Afya (Hit Points)
+Pointi za Afya zinawakilisha kiasi MVU jeraha ambacho sehemu ya mwili inaweza kuhimili kabla ya kuwa haina manufaa, jambo ambalo linaweza kusababisha kutokuwa na uwezo na hatimaye kifo MVU mhusika. Mwili wa kila kiumbe umegawanywa katika maeneo tofauti – wanadamu, kwa mfano, wana saba; kichwa, kifua, tumbo, mikono, na miguu – kila eneo likiwa na Pointi zake za Afya.
 
-Pointi za Afya zinawakilisha jeraha kiasi gani eneo la mwili linaweza kuhimili kabla halijawa halitumiki, ikiwezekana kusababisha kutoweza kufanya kazi na hatimaye kifo cha mhusika. Mwili wa kila kiumbe umegawanywa katika maeneo tofauti – binadamu, kwa mfano, wana saba; kichwa, kifua, tumbo, mikono, na miguu – kila eneo likiwa na Pointi zake za Afya.
+Baadhi ya viumbe, kama vile wanyama wakubwa au aina tofauti za wanyama, kwa asili yao mara nyingi huwa na miundo ya mwili tofauti kabisa, ingawa kila eneo walilonalo bado lina Pointi za Afya. Wakati Pointi za Afya za eneo fulani zinapopunguzwa hadi kiwango fulani kupitia uharibifu wa aina yoyote, basi mhusika hupata matokeo fulani yanayoakisi ukali wa jeraha. Kwa habari zaidi kuhusu majeraha angalia sehemu ya [Uharibifu na Majeraha](0007_Game_System.md?id=damage-and-wound-levels).
 
-Baadhi ya viumbe, kama vile monsters au madarasa tofauti ya wanyama, kwa asili yao mara nyingi huwa na miundo tofauti ya mwili, lakini kila eneo walilo nalo bado lina Pointi za Afya. Wakati Pointi za Afya za eneo zinapopunguzwa hadi kiwango fulani kupitia uharibifu wa aina yoyote, basi mhusika hupata matokeo fulani yanayoakisi ukali wa jeraha. Kwa maelezo zaidi kuhusu majeraha tazama sehemu ya [Uharibifu na Majeraha](0007_Game_System.md?id=damage-and-wound-levels).
+Ili kukokotoa Pointi za Afya za kila eneo, jumlisha UVU na UKU pamoja na ulinganishe matokeo hayo kwenye jedwali la Pointi za Afya. Wahusika wote hupata Pointi 1 ya ziada ya Afya katika kila eneo wakiwa katika Daraja la 2 na 4.
 
-Ili kuhesabu Pointi za Afya za kila eneo, jumlisha CON na SIZ pamoja na uone matokeo kwenye jedwali la Pointi za Afya. Wahusika wote hupata Pointi 1 ya ziada ya Afya katika kila eneo katika Daraja la 2 na 4.
+##### Jedwali la Pointi za Afya kwa Kila Eneo
 
-##### Jedwali la Pointi za Afya kwa Eneo
-
-| Eneo | CON+SIZ |  |  |  |  |  |  |  |  |
+| Eneo | UVU+UKU | | | | | | | | |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
+| | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Kichwa | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Kifua | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Tumbo | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
@@ -239,201 +237,197 @@ Ili kuhesabu Pointi za Afya za kila eneo, jumlisha CON na SIZ pamoja na uone mat
 | Kila Mguu | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 ---
-## Hatua ya 4: Ustadi (Skills)
+## Hatua ya 4: Ujuzi
 
-Kwa chaguomsingi, kila mhusika ana safu ya Ustadi wa Kawaida inayomruhusu kutekeleza vitendo mbalimbali na viwango tofauti vya utaalamu. Ustadi huu unaelezwa kwa kina zaidi katika sura ya [Ustadi](0005_Skills.md) lakini unashughulikia safu ya shughuli za kila siku na ujuzi wa ndani ambao yeyote anaweza kutumia bila mafunzo maalum. Katika hatua hii ya uundaji wa mhusika, wachezaji watahitaji tu kujua Viwango vya Msingi vya kila Ustadi wa Kawaida.
+Kwa chaguo-msingi, kila mhusika ana safu ya Ujuzi wa Kawaida inayomruhusu kutekeleza shughuli mbalimbali kwa viwango tofauti vya utaalamu. Ujuzi huu umeelezwa kwa kina zaidi katika sura ya [Ujuzi](0005_Skills.md) lakini unashughulikia shughuli za kila siku na maarifa ya mahali ambapo yeyote anaweza kutumia bila mafunzo maalum. Katika hatua hii ya uundaji wa mhusika, wachezaji watahitaji tu kujua Viwango vya Msingi vya kila Ujuzi wa Kawaida.
 
-Alama ya msingi ya kila Ustadi wa Kawaida huamuliwa na jumla ya Tabia mbili au namba inayozidishwa ya Tabia moja. Thamani hiyo inawakilisha uwezo wa asili wa mhusika katika kila eneo, kwa hakika kipaji chao ghafi kabla ya mafunzo yoyote ya malezi yaliyopokelewa kama sehemu ya utamaduni na taaluma yake.
+Alama ya msingi ya kila Ujuzi wa Kawaida imedhamiriwa na jumla ya Sifa mbili au kuzidisha Sifa moja. Thamani hiyo inawakilisha uwezo wa asili wa mhusika katika kila eneo, kwa kweli kipaji chao MVU asili kabla ya mafunzo yoyote ya kimsingi yaliyopokelewa kama sehemu ya utamaduni na taaluma yake.
 
-Jedwali la Ustadi wa Kawaida linaonyesha jinsi thamani za msingi zinavyohesabiwa, pamoja na maelezo mafupi ya kile ustadi huo ni na unaofanya. Alama inawakilisha nafasi ya asilimia ya kufanikiwa kwa ustadi; kwa hivyo, alama ya Athletics ya 25 inaelezwa kama 25%. Jinsi asilimia za ustadi zinavyofanya kazi na maelezo ya kina zaidi ya ustadi yametolewa katika sura ya [Ustadi](0005_Skills.md).
+Jedwali la Ujuzi wa Kawaida linaonyesha jinsi thamani za msingi zinavyokokotolewa, pamoja na maelezo mafupi ya kile ambacho ujuzi huo ni nini na unachofanya. Alama hiyo inawakilisha asilimia ya nafasi ya kufanikiwa kwa ujuzi; kwa hivyo, alama ya Athletics ya 25 inaonyeshwa kama 25%. Jinsi asilimia za ujuzi zinavyofanya kazi na maelezo ya kina ya ujuzi yametolewa katika sura ya [Ujuzi](0005_Skills.md).
 
-Kumbuka kuwa asilimia za msingi kwa baadhi ya ustadi zitarekebishwa na utamaduni na taaluma, kwa hivyo thamani hizi za kuanzia zitabadilika kadiri uundaji wa mhusika unavyoendelea.
+Kumbuka kuwa asilimia za msingi za baadhi ya ujuzi zitarekebishwa na utamaduni na taaluma, hivyo thamani hizi za kuanzia zitabadilika uundaji wa mhusika unavyoendelea.
 
-##### Jedwali la Ustadi wa Kawaida
+##### Jedwali la Ujuzi wa Kawaida
 
-| Ustadi | Asilimia ya Msingi |
-| :-- | :-: |
-| Athletics | STR+DEX |
-| Boating | STR+CON |
-| Brawn | STR+SIZ |
-| Conceal | DEX+POW |
-| Customs | INT x2, +40\* |
-| Dance | DEX+CHA |
-| Deceit | INT+CHA |
-| Drive | DEX+POW |
-| Endurance | CON x2 |
-| Evade | DEX x2 |
-| First Aid | INT+DEX |
-| Influence | CHA x2 |
-| Insight | INT+POW |
-| Locale | INT x2 |
-| Native Tongue | INT+CHA, +40\* |
-| Perception | INT+POW |
-| Ride | DEX+POW |
-| Sing | CHA+POW |
-| Stealth | DEX+INT |
-| Swim | STR+CON |
-| Unarmed | STR+DEX |
-| Willpower | POW x2 |
+| Ujuzi | Asilimia ya Msingi |
+| :-- | :--: |
+| Athletics | NGU+UST |
+| Boating | NGU+UVU |
+| Brawn | NGU+UKU |
+| Conceal | UST+UWE |
+| Customs | AKI x2, +40\* |
+| Dance | UST+MVU |
+| Deceit | AKI+MVU |
+| Drive | UST+UWE |
+| Endurance | UVU x2 |
+| Evade | UST x2 |
+| First Aid | AKI+UST |
+| Influence | MVU x2 |
+| Insight | AKI+UWE |
+| Locale | AKI x2 |
+| Native Tongue | AKI+MVU, +40\* |
+| Perception | AKI+UWE |
+| Ride | UST+UWE |
+| Sing | MVU+UWE |
+| Stealth | UST+AKI |
+| Swim | NGU+UVU |
+| Unarmed | NGU+UST |
+| Willpower | UWE x2 |
 
-_\* Inajumuisha bonasi tuli ya +40% kwa Customs na Lugha ya Asili ya mhusika (Ya kawaida kwa binadamu). Kila kabila la nusu-binadamu linaweza kuzungumza Lugha ya Kawaida kwa +40%, pamoja na Lugha yao ya Asili kwa +40%, kama ilivyoainishwa katika maandishi yao husika._
+_\* Inajumuisha bonasi tuli ya +40% kwa ajili ya Customs na Lugha ya Asili ya mhusika (ya kawaida kwa binadamu). Kila jamii ya nusu-binadamu inaweza kuzungumza Lugha ya Kawaida kwa +40%, pamoja na Lugha yao ya Asili kwa +40%, kama ilivyoelezwa katika maelezo yao husika._
 
 ---
-## Hatua ya 5: Kabila/Utamaduni
+## Hatua ya 5: Jamii/Utamaduni
 
-Katika _Classic Fantasy Imperative_, wachezaji wanaweza kuchagua kutoka kwa moja ya makabila sita kwa wahusika wao: Binadamu, au moja ya makabila ya nusu-binadamu (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, au Halfling). Ikiwa binadamu, lazima wafafanue zaidi mhusika wao kupitia moja ya asili tatu za kitamaduni; Barbarian, Civilized, na Nomadic. Kwa binadamu, utamaduni huamua aina ya jamii ambayo mhusika alilelewa, na kwa hivyo huagiza mitazamo na falsafa fulani ambazo wanaweza kuwa nazo. Kwa vitendo zaidi, utamaduni husaidia kufafanua thamani za ustadi mbalimbali unaounda uwezo wa jumla wa mhusika wako. Makabila ya nusu-binadamu kwa ujumla hutoka kwa utamaduni wa kikabila ambao ni wa kawaida zaidi wa kabila hilo kwa ujumla. Tazama maandishi ya kabila na utamaduni ya [Sura ya 2](0002_Culture_and_Races.md) kwa maelezo zaidi.
+Katika _Classic Fantasy Imperative_, wachezaji wanaweza kuchagua kutoka moja ya jamii saba kwa wahusika wao: Binadamu, au moja ya jamii za nusu-binadamu (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, au Halfling). Ikiwa ni binadamu, lazima wafafanue zaidi mhusika wao kupitia moja ya asili nne za kitamaduni: Barbarian, Civilized, Nomadic, au Primitive. Kwa binadamu, utamaduni huamua aina ya jamii ambayo mhusika alikulia, na hivyo huagiza mitazamo na falsafa fulani ambazo wanaweza kuwa nazo. Kwa vitendo zaidi, utamaduni husaidia kufafanua thamani za ujuzi mbalimbali zinazounda uwezo wa jumla wa mhusika wako. Jamii za nusu-binadamu kwa ujumla hutoka katika utamaduni wa kijamii ambao ni wa kimasihara zaidi wa jamii hiyo kwa ujumla. Tazama maelezo ya jamii na utamaduni ya [Sura ya 2](0002_Culture_and_Races.md) kwa habari zaidi.
 
-Wahusika wote wana Mwelekeo (Alignment), unaojumuisha Kanuni moja ya Kimaadili na moja ya Kimaadili, pamoja na Matamanio mawili au matatu. Wengine watakuwa na Kiapo kwa utaratibu wa kidini, chama, au shirika. Kila maandishi ya Daraja yanaelezea Mwelekeo wowote unaohitajika au Viapo. Kabla ya kuendelea, tafuta kabila lako katika [Sura ya 2](0002_Culture_and_Races.md) na uandike Mwelekeo na Matamanio yaliyopendekezwa, na uangalie sehemu ya [Madaraja](0003_Classes.md) na uone ikiwa kuna mahitaji yoyote ya Mwelekeo au Kiapo. Tazama [Sura ya 4, Mwelekeo & Matamanio](0004_Alignment_and_Passions.md) ili kuamua maelezo yoyote kuhusu Mwelekeo, Matamanio, na Viapo vyako, ikiwa vipo.
+Wahusika wote wana Mwelekeo (Alignment), unaojumuisha Kanuni moja ya Kimaadili na moja ya Kiutu, pamoja na Tamaa (Passions) mbili au tatu. Wengine watakuwa na Kiapo kwa utaratibu wa kidini, chama, au shirika. Kila maelezo ya Darasa (Class) yanabainisha Mwelekeo wowote unaohitajika au Viapo. Kabla ya kuendelea, tafuta jamii yako katika [Sura ya 2](0002_Culture_and_Races.md) na uweke alama ya Mwelekeo na Tamaa zilizopendekezwa, na uangalie sehemu ya [Madarasa](0003_Classes.md) na uone ikiwa kuna mahitaji yoyote ya Mwelekeo au Kiapo. Tazama [Sura ya 4, Mwelekeo & Tamaa](0004_Alignment_and_Passions.md) ili kubainisha maelezo yoyote kuhusu Mwelekeo wako, Tamaa, na Viapo, kama vipo.
 
-Kila kabila na utamaduni huorodhesha anuwai ya Ustadi wa Kawaida ambao mhusika hujifunza kama sehemu ya maendeleo yake ya malezi ndani ya jamii hiyo. Hizi ni uwezo wa msingi ambao wahusika wote kutoka utamaduni huo maalum huboresha kwa kiwango fulani. Wahusika pia hujifunza Ustadi maalum au wa kitaalamu wa Kitalaamu (Professional Skills) kulingana na maslahi yao ya kibinafsi.
+Kila jamii na utamaduni huorodhesha aina mbalimbali za Ujuzi wa Kawaida ambao mhusika hujifunza kama sehemu ya maendeleo yake ya malezi ndani ya jamii hiyo. Hizi ni uwezo mkuu ambao wahusika wote kutoka utamaduni huo maalum huboresha kwa kiwango fulani. Wahusika pia hujifunza Ujuzi wa Kitaalamu chache maalum au wa kipekee kulingana na maslahi yao binafsi.
 
-Ustadi wa Kitaalamu unaelezwa zaidi katika sura ya [Ustadi](0005_Skills.md), lakini kwa ufupi unawakilisha ustadi ule ambao hauwezi kujaribiwa bila miaka ya kusoma kwa bidii na mafunzo maalum. Wakati mhusika ana uwezo wa msingi katika Ustadi wote wa Kawaida, wana uwezo wa sifuri katika Ustadi wowote wa Kitaalamu isipokuwa uliachaguliwa kama sehemu ya malezi yao ya kitamaduni au Daraja.
+Ujuzi wa Kitaalamu unafafanuliwa zaidi katika sura ya [Ujuzi](0005_Skills.md), lakini kwa ufupi unawakilisha ujuzi huo ambao hauwezi kujaribiwa bila miaka ya kusoma kwa bidii na mafunzo maalum. Wakati mhusika ana uwezo wa msingi katika Ujuzi wote wa Kawaida, hana uwezo wowote katika Ujuzi wowote wa Kitaalamu isipokuwa ukiwa umechaguliwa kama sehemu ya malezi yake ya kitamaduni au Darasa.
 
-Ustadi wa Kitaalamu uliochaguliwa huanza katika thamani yao ya Tabia ya Kiwango cha Msingi kulingana na Ustadi wa Kawaida. Baadhi ya Ustadi wa Kitaalamu kama vile Ufundi, Lugha, au Elimu hutoa chaguo la utaalamu. Katika visa hivi, utaalamu uliochaguliwa unapaswa kuwa ule unaofaa utamaduni huo.
+Ujuzi wa Kitaalamu uliochaguliwa huanza katika thamani yao ya Sifa ya Kiwango MVU Msingi kama ilivyo kwa Ujuzi wa Kawaida. Baadhi ya Ujuzi wa Kitaalamu kama vile Craft, Lugha, au Lore hutoa chaguo la utaalamu. Katika hali hizi, utaalamu uliochaguliwa unapaswa kuwa ule unaofaa utamaduni huo.
 
-### Chaguzi za Haraka za Ustadi wa Kikabila
+### Uteuzi wa Haraka wa Ujuzi wa Jamii
 
-Chaguzi za Haraka hutoa uteuzi wa wastani wa ustadi, kuwezesha uundaji wa haraka wa mhusika. Jisikie huru kubadilishana pointi, ikiwa inataka; hata hivyo, hakuna ustadi unaoweza kuwa na chini ya bonasi ya +5 au zaidi ya +15.
+Uteuzi wa Haraka hutoa uteuzi wa wastani wa ujuzi, kuwezesha uundaji wa haraka wa mhusika. Jisikie huru kubadilisha pointi, ukipenda; hata hivyo, hakuna ujuzi unaoweza kuwa na bonasi ndogo kuliko +5 au kubwa kuliko +15.
 
-##### Jedwali la Chaguzi za Haraka za Kikabila
+##### Jedwali la Uteuzi wa Haraka wa Jamii
 
-| Kabila/Utamaduni | Ustadi wa Kawaida | Ustadi wa Kitaalamu |
+| Jamii/Utamaduni | Ujuzi wa Kawaida | Ujuzi wa Kitaalamu |
 | :-- | :-- | :-- |
-| Binadamu (Barbarian, Aina ya Mpiganaji) | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, na ama Boating au Ride kwa +10 | Navigation +10, Seamanship au Survival +10, Track +10 |
-| Binadamu (Barbarian, Mtu Mwenye Hekima) | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, na ama Boating au Ride kwa +10 | Healing +10, Lugha (yoyote\*) +10, Elimu (yoyote) +15 |
-| Binadamu (Civilized, Mjanja wa Mitaani) | Conceal +10, Deceit +15, Drive +5, Influence +10, Insight +10, Locale +10, Willpower +10 | Ufundi (yoyote) +5, Biashara +10, Streetwise +15 |
-| Binadamu (Civilized, Mjanja wa Vitabu) | Conceal +5, Deceit +5, Drive +5, Influence +10, Insight +15, Locale +15, Willpower +10 | Biashara +10, Lugha (yoyote\*) au Elimu (yoyote) +10, Elimu (yoyote) au Muziki +15 |
-| Binadamu (Nomad, Aina ya Mpiganaji) | Endurance +10, First Aid +5, Locale +5, Perception +10, Stealth +10, na mbili kati ya zifuatazo, kwa +15 kila moja: Athletics, Boating, Drive, Ride, au Swim (kulingana na njia kuu ya kusafiri) | Navigation +10, Survival +10, Track +10 |
-| Binadamu (Nomad, Mtu Mwenye Hekima) | Endurance +5, First Aid +15, Locale +10, Elimu (yoyote), +15, Perception +10, Stealth +5, na mbili kati ya zifuatazo, moja kwa +5 kila moja: Athletics, Boating, Drive, Ride, au Swim (kulingana na njia kuu ya kusafiri) | Healing +10, Lugha (yoyote\*) +10, Elimu (yoyote) +10 |
-| Binadamu (Primitive, Aina ya Mpiganaji) | Brawn +10, Endurance +10, Evade +10, Locale +5, Perception +10, Stealth +15, na moja kati ya Athletics, Boating, First Aid, au Swim kwa +10 | Survival +10, Track +10; na moja kati ya Athletics, Boating, First Aid, Navigation, au Swim kwa +10 |
-| Binadamu (Primitive, Mtu Mwenye Hekima) | Endurance +5, Evade +5, First Aid +15, Locale +15, Perception +15, Stealth +5, na moja kati ya Athletics, Boating, au Swim kwa +5 | Healing +10, Lugha (yoyote\*) +10, Elimu (yoyote), +15 |
-| Dwarf | Athletics +10, Brawn +15, Endurance +10, Evade +10, Locale +10, Perception +5, Willpower +10 | Biashara au Mechanisms +10, Ufundi (yoyote) +10, Survival +10 |
-| Elf | Conceal +5, Influence +10, Insight +10, Locale +10, Perception +15, Stealth +10, Willpower +10 | Survival +10, na mbili kati ya zifuatazo, kwa +10 kila moja: Lugha (yoyote\*\*), Elimu (yoyote), au Muziki |
-| Gnome | Deceit +10, Evade +15, Insight +10, Locale +10, Perception +5, Stealth +10, Willpower +10 | Biashara +10, Ufundi (yoyote) +10, Mechanisms au Survival +10 |
-| Half-Elf (Alielelewa kama Elf) | Conceal +10, Influence +10, Insight +10, Locale +10, Perception +10, Stealth +10, Willpower +10 | Lugha (yoyote\*\*) +10, Elimu (yoyote) +10, Muziki au Survival +10 |
-| Half-Elf (Alielelewa kama Binadamu) | Chagua Chaguo la Haraka la Binadamu linalofaa |
-| Half-Orc (Alielelewa kama Orc) | Athletics +15, Brawn +15, Endurance +15, Evade +10, First Aid +5, Locale +5, Perception +5 | Navigate +10, Survival +10, Track +10 |
-| Half-Orc (Alielelewa kama Binadamu) | Chagua Chaguo la Haraka la Binadamu linalofaa |
-| Halfling | Dance au Sing +5, Evade +15, Insight +5, Locale +5, Perception +15, Stealth +15, Willpower +15 | Ufundi (yoyote) +10, Muziki +5, Streetwise +10 |
+| Binadamu (Barbarian, Aina ya Shujaa) | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, na ama Boating au Ride kwa +10 | Navigation +10, Seamanship au Survival +10, Track +10 |
+| Binadamu (Barbarian, Mtu Mwenye Hekima) | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, na ama Boating au Ride kwa +10 | Healing +10, Lugha (yoyote*) +10, Lore (yoyote) +15 |
+| Binadamu (Civilized, Mjanja wa Mtaani) | Conceal +10, Deceit +15, Drive +5, Influence +10, Insight +10, Locale +10, Willpower +10 | Craft. (yoyote) +5, Commerce +10, Streetwise +15 |
+| Binadamu (Civilized, Mwenye Maarifa ya Vitabu) | Conceal +5, Deceit +5, Drive +5, Influence +10, Insight +15, Locale +15, Willpower +10 | Commerce +10, Lugha (yoyote*) au Lore (yoyote) +10, Lore (yoyote) au Musicianship +15 |
+| Binadamu (Nomad, Aina ya Shujaa) | Endurance +10, First Aid +5, Locale +5, Perception +10, Stealth +10, na mbili kati ya zifuatazo, kwa +15 kila moja: Athletics, Boating, Drive, Ride, au Swim (kulingana na njia kuu ya usafiri) | Navigation +10, Survival +10, Track +10 |
+| Binadamu (Nomad, Mtu Mwenye Hekima) | Endurance +5, First Aid +15, Locale +10, Lore (yoyote), +15, Perception +10, Stealth +5, na mbili kati ya zifuatazo, moja kwa +5 kila moja: Athletics, Boating, Drive, Ride, au Swim (kulingana na njia kuu ya usafiri) | Healing +10, Lugha (yoyote*) +10, Lore (yoyote) +10 |
+| Binadamu (Primitive, Aina ya Shujaa) | Brawn +10, Endurance +10, Evade +10, Locale +5, Perception +10, Stealth +15, na moja ya ama Athletics, Boating, First Aid, au Swim kwa +10 | Survival +10, Track +10; na moja ya ama Athletics, Boating, First Aid, Navigation, au Swim kwa +10 |
+| Binadamu (Primitive, Mtu Mwenye Hekima) | Endurance +5, Evade +5, First Aid +15, Locale +15, Perception +15, Stealth +5, na moja ya ama Athletics, Boating, au Swim kwa +5 | Healing +10, Lugha (yoyote*) +10, Lore (yoyote), +15 |
+| Dwarf | Athletics +10, Brawn +15, Endurance +10, Evade +10, Locale +10, Perception +5, Willpower +10 | Commerce au Mechanisms +10, Craft. (yoyote) +10, Survival +10 |
+| Elf | Conceal +5, Influence +10, Insight +10, Locale +10, Perception +15, Stealth +10, Willpower +10 | Survival +10, na mbili kati ya zifuatazo, kwa +10 kila moja: Lugha (yoyote**), Lore (yoyote), au Musicianship |
+| Gnome | Deceit +10, Evade +15, Insight +10, Locale +10, Perception +5, Stealth +10, Willpower +10 | Commerce +10, Craft. (yoyote) +10, Mechanisms au Survival +10 |
+| Half-Elf (Aliyekuzwa kama Elf) | Conceal +10, Influence +10, Insight +10, Locale +10, Perception +10, Stealth +10, Willpower +10 | Lugha (yoyote**) +10, Lore (yoyote) +10, Musicianship au Survival +10 |
+| Half-Elf (Aliyekuzwa kama Binadamu) | Chagua Uteuzi wa Haraka wa Binadamu unaofaa |
+| Half-Orc(Aliyekuzwa kama Orc) | Athletics +15, Brawn +15, Endurance +15, Evade +10, First Aid +5, Locale +5, Perception +5 | Navigate +10, Survival +10, Track +10 |
+| Half-Orc (Aliyekuzwa kama Binadamu) | Chagua Uteuzi wa Haraka wa Binadamu unaofaa |
+| Halfling | Dance au Sing +5, Evade +15, Insight +5, Locale +5, Perception +15, Stealth +15, Willpower +15 | Craft. (yoyote) +10, Musicianship +5, Streetwise +10 |
 
 _\* Binadamu hawana kikomo katika uteuzi wa lugha wakati wa uundaji wa mhusika ikiwa wanaweza kuhalalisha chaguo hilo._
 
-_\*\* Wakati wa uundaji wa mhusika, lugha za ziada zimepunguzwa kwa gnome, halfling, goblin, hobgoblin, orc, na gnoll._
+_\*\* Wakati wa uundaji wa mhusika, lugha za ziada ni ndogo kwa gnome, halfling, goblin, hobgoblin, orc, na gnoll._
 
 
-### Ununuzi wa Pointi za Ustadi wa Kikabila
+### Ununuzi wa Pointi za Ujuzi wa Jamii
 
-Hiari, unaweza kutumia pointi kubinafsisha dhana maalum ya mhusika. Hii inaruhusu mhusika aliyerekebishwa zaidi kwa gharama ya muda. Unapotumia Ustadi fanya hatua zifuatazo:
+Kwa hiari, unaweza kutumia pointi ili kubinafsisha dhana mahususi ya mhusika. Hii inaruhusu mhusika aliyebinafsishwa zaidi kwa gharama ya muda. Unapotumia Ujuzi fanya hatua zifuatazo:
 
-- Chagua Ustadi wa Kitaalamu watatu kutoka kwa chaguzi zinazotolewa (Tazama [Sura ya 2](0002_Culture_and_Races.md) kwa maelezo ya kabila).
-- Sambaza pointi 100 kati ya Ustadi wa Kawaida ulioorodheshwa na Ustadi wa Kitaalamu uliochaguliwa, ukiongeza ustadi huo kwa 1% kwa kila pointi inayotumika kuuboresha. Wachezaji wako huru kuchagua jinsi kila ustadi unavyoboreshwa, lakini kila ustadi lazima upokee kiwango cha chini cha 5% na hauwezi kupokea zaidi ya 15%.
+- Chagua Ujuzi tatu wa Kitaalamu kutoka kwa chaguzi zinazotolewa (Tazama [Sura ya 2](0002_Culture_and_Races.md) kwa maelezo ya jamii).
+- Gawanya pointi 100 kati ya Ujuzi wa Kawaida ulioorodheshwa na Ujuzi wa Kitaalamu uliochaguliwa, ukiongeza ujuzi huo kwa 1% kwa kila pointi inayotumika kuuboresha. Wachezaji wako huru kuchagua kiasi ambacho kila ujuzi unaboreshwa, lakini kila ujuzi lazima upokee angalau 5% na hauwezi kupokea zaidi ya 15%.
 
 ---
-## Hatua ya 6: Daraja (Class)
+## Hatua ya 6: Darasa
 
-Daraja linawakilisha kazi ambayo mhusika amejihusisha nayo kama sehemu ya mpito kwenda utu uzima, na inafafanua zaidi ukuzaji wa ustadi wa mhusika.
+Darasa linawakilisha kazi ambayo mhusika ameanza kama sehemu ya mpito kuelekea utu uzima, na inafafanua zaidi maendeleo ya ujuzi wa mhusika.
 
-Wachezaji kwa kawaida wako huru kuchagua Daraja wanalotaka mhusika wao acheze wakidhani kuwa Mtawala wa Mchezo anaona inafaa. Maandishi ya Daraja yanatoa mwongozo fulani kuhusu Madaraja ya kawaida yanayopatikana kwa kila aina ya kikabila/kitamaduni. Hii inapaswa kuonekana kama uwakilishi wa kawaida, na si vizuizi. Wachezaji wanapaswa kujisikia huru kucheza kama mchanganyiko wowote wa Daraja/Kabila unaofaa zaidi maono yao.
+Wachezaji kwa kawaida wako huru kuchagua Darasa wanalotaka mhusika wao acheze ikizingatiwa kuwa Mwalimu wa Mchezo (Games Master) anaona inafaa. Maelezo ya Darasa yanatoa mwongozo fulani kuhusu Madarasa ya kawaida yanayopatikana kwa kila aina ya jamii/utamaduni. Hii inapaswa kuonekana kama uwakilishi wa kawaida, na si vizuizi. Wachezaji wanapaswa kujisikia huru kucheza kama mchanganyiko wowote wa Darasa/Jamii unaofaa maono yao.
 
-Kama asili za Kabila/Utamaduni, kila Daraja hutoa nafasi ya kuboresha safu ya Ustadi wa Kawaida na wa Kitaalamu unaotumiwa sana na taaluma hiyo. Tofauti na asili za kitamaduni, wahusika hawahitaji kuwekeza pointi zao katika kila ustadi unaopatikana bali wanaweza kurekebisha yale yatakayochukuliwa kama yanayofaa kwa jukumu lao maalum au Utamaduni.
+Kama asili za Jamii/Kitamaduni, kila Darasa hutoa nafasi ya kuboresha safu ya Ujuzi wa Kawaida na Kitaalamu unaotumiwa sana na kazi hiyo. Tofauti na asili za kitamaduni, wahusika hawahitaji kuwekeza pointi zao katika kila ujuzi unaopatikana bali wanaweza kubinafsisha yale yanayochukuliwa kama yanayofaa kwa jukumu lao maalum au Utamaduni.
 
-### Chaguzi za Haraka za Ustadi wa Daraja
+### Uteuzi wa Haraka wa Ujuzi wa Darasa
 
-Chagua Chaguo la Haraka la Daraja kwa uteuzi wa wastani wa ustadi unaofaa kwa Daraja husika. Jisikie huru kubadilishana pointi, ikiwa inataka; hata hivyo, wakati ustadi unaweza kupunguzwa hadi +0, ukifanya kazi katika Kiwango cha Msingi (pamoja na Ustadi wa Kitaalamu), hakuna ustadi unaoweza kuwa na bonasi zaidi ya +15. Ustadi huu tayari unajumuisha Bonasi zozote za Ustadi wa Daraja kutoka kwa Uwezo.
+Chagua Uteuzi wa Haraka wa Darasa kwa uteuzi wa wastani wa ujuzi muhimu kwa Darasa husika. Jisikie huru kubadilisha pointi, ukipenda; hata hivyo, wakati ujuzi unaweza kupunguzwa hadi +0, ukifanya kazi katika Kiwango MVU Msingi (ikiwa ni pamoja na Ujuzi wa Kitaalamu), hakuna ujuzi unaoweza kuwa na bonasi kubwa kuliko +15. Ujuzi huu tayari unajumuisha Bonasi zozote za Ujuzi wa Darasa kutoka kwa Uwezo.
 
-##### Jedwali la Chaguzi za Haraka za Daraja
+##### Jedwali la Uteuzi wa Haraka wa Darasa
 
-| Daraja | Ustadi wa Kawaida | Ustadi wa Kitaalamu |
+| Darasa | Ujuzi wa Kawaida | Ujuzi wa Kitaalamu |
 | :-- | :-- | :-- |
-| Cleric | Ustadi wa Mapigano (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (mungu) +15; Elimu (Dini) +5 na moja ya zifuatazo kwa +5: Lugha (yoyote), Elimu (yoyote), au Oratory |
-| Fighter | Athletics +10; Boating au Ride +5; Brawn +15; Ustadi wa Mapigano (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; na mbili za zifuatazo kwa +5: Gambling, Survival au Navigation |
-| Magic-User | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Lugha (yoyote) +5; Lugha (yoyote) au Elimu (yoyote) +5; Elimu (Alchemy) +10 |
-| Rogue | Athletics +15; Ustadi wa Mapigano (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Lugha (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; na mbili za zifuatazo kwa +5: Acrobatics, Acting, Biashara, Disguise, Intimidation, Seduction, Slight, au Streetwise |
+| Cleric | Ujuzi wa Kupambana (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (uungu) +15; Lore (Dini) +5 na moja ya zifuatazo kwa +5: Lugha (yoyote), Lore (yoyote), au Oratory |
+| Fighter | Athletics +10; Boating au Ride +5; Brawn +15; Ujuzi wa Kupambana (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; na mbili kati ya zifuatazo kwa +5: Gambling, Survival au Navigation |
+| Magic-User | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Lugha (yoyote) +5; Lugha (yoyote) au Lore (yoyote) +5; Lore (Alchemy) +10 |
+| Rogue | Athletics +15; Ujuzi wa Kupambana (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Lugha (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; na mbili kati ya zifuatazo kwa +5: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Sleight, au Streetwise |
 
-_\* Iliyopatikana katika Kiwango cha Msingi._
+_\* Imepatikana katika Kiwango MVU Msingi._
 
-_\*\* Inajumuisha bonasi ya +5 ya Umahiri wa Mapigano._
+_\*\* Inajumuisha bonasi ya Umahiri wa Kupambana ya +5._
 
-_\*\*\* Iliyopatikana katika Kiwango cha Msingi, bonasi ya +40% ilitumika._
+_\*\*\* Imepatikana katika Kiwango MVU Msingi, bonasi ya +40% imetumika._
 
-### Ununuzi wa Pointi za Ustadi wa Daraja
+### Ununuzi wa Pointi za Ujuzi wa Darasa
 
-Hiari, unaweza kutumia pointi kubinafsisha dhana maalum ya mhusika. Kama ilivyo hapo juu, hii inaruhusu mhusika aliyerekebishwa zaidi kwa gharama ya muda. Wahusika wanaotumia mbinu hii, hukuza ustadi wao wa Daraja kwa njia ifuatayo:
+Kwa hiari, unaweza kutumia pointi ili kubinafsisha dhana mahususi ya mhusika. Kama ilivyo hapo juu, hii inaruhusu mhusika aliyebinafsishwa zaidi kwa gharama ya muda. Wahusika wanaotumia njia hii, hukuza ujuzi wao wa Darasa kwa njia ifuatayo:
 
-- Chagua hadi ustadi 3 kutoka kwa Ustadi wa Kitaalamu unaopatikana kwa Daraja hilo.
-- Sambaza pointi 100 kati ya Ustadi wa Kawaida wa Daraja ulioorodheshwa na Ustadi wowote wa Kitaalamu uliochaguliwa, ukiongeza kila ustadi kwa 1% kwa kila pointi inayotumika kuuboresha. Si lazima ustadi wote unaopatikana uboreshwe, lakini hakuna ustadi binafsi unaoweza kupokea ongezeko la zaidi ya 15%. Baadhi ya Madaraja hutoa Ustadi wa Kitaalamu zaidi ya 3, lakini kamwe si zaidi ya pointi.
-- Madaraja yote yanajumuisha Ustadi wa Mapigano unaojumuisha silaha ambazo Daraja hilo hufunzwa kuzitumia. Hii inaweza kuwa silaha rahisi 4 au 5 kama ilivyo kwa magic-user, hadi silaha zote na ngao kama ilivyo kwa fighter. Ambapo Ustadi wa Mapigano umejumuishwa katika orodha ya Ustadi wa Kawaida, inachukuliwa kama hivyo na inaweza kuboreshwa kwa Pointi za Ustadi wa Daraja. Ambapo Ustadi wa Mapigano umeachwa, kama ilivyo kwa magic-user, inaweza kuboreshwa tu kwa kutumia Pointi za Bonasi za Ustadi wakati wa Hatua ya 7 ya uundaji wa mhusika.
+- Chagua hadi ujuzi 3 kutoka kwa Ujuzi wa Kitaalamu unaopatikana kwa Darasa hilo.
+- Gawanya pointi 100 kati ya Ujuzi wa Kawaida wa Darasa ulioorodheshwa na Ujuzi wowote wa Kitaalamu uliochaguliwa, ukiongeza kila ujuzi kwa 1% kwa kila pointi inayotumika kuuboresha. Sio ujuzi wote unaopatikana unahitaji kuboreshwa, lakini hakuna ujuzi mmoja mmoja unaoweza kupokea ongezeko la zaidi ya 15%. Baadhi ya Madarasa hutoa zaidi ya Ujuzi 3 wa Kitaalamu, lakini kamwe si zaidi ya pointi.
+- Madarasa yote yanajumuisha Ujuzi wa Kupambana unaojumuisha silaha ambazo Darasa hilo kwa kawaida hufunzwa kuzitumia. Hii inaweza kuwa silaha rahisi 4 au 5 kama ilivyo kwa magic-user, hadi silaha na ngao zote kama ilivyo kwa fighter. Ambapo Ujuzi wa Kupambana umejumuishwa katika orodha ya Ujuzi wa Kawaida, inachukuliwa kama hivyo na inaweza kuboreshwa na Pointi za Ujuzi wa Darasa. Ambapo Ujuzi wa Kupambana umeachwa, kama ilivyo kwa magic-user, inaweza tu kuboreshwa kwa kutumia Pointi za Bonasi za Ujuzi wakati wa Hatua ya 7 ya uundaji wa mhusika.
 
-Ustadi wa Kitaalamu uliochaguliwa upya na Ustadi wa Mapigano wa Daraja huanza katika thamani yao ya Tabia ya Kiwango cha Msingi. Kuchagua Ustadi wa Kitaalamu uliopatikana hapo awali kupitia asili ya kitamaduni kunamruhusu mhusika kutumia zaidi baadhi ya Pointi zao za Ustadi wa Daraja katika hatua hii. Baadhi ya ustadi huu, kama vile Ufundi, Lugha, au Elimu, hutoa chaguo la utaalamu. Katika visa hivi, utaalamu uliochaguliwa unapaswa kuwa ule unaofaa utamaduni wa mhusika.
+Ujuzi wa Kitaalamu uliochaguliwa hivi karibuni na Ujuzi wa Kupambana wa Darasa huanza katika thamani yao ya Sifa ya Kiwango MVU Msingi. Kuchagua Ujuzi wa Kitaalamu uliopatikana hapo awali kupitia asili ya kitamaduni kunamruhusu mhusika kutumia zaidi baadhi ya Pointi zao za Ujuzi wa Darasa katika hatua hii. Baadhi ya ujuzi huu, kama vile Craft, Lugha, au Lore, hutoa chaguo la utaalamu. Katika hali hizi, utaalamu uliochaguliwa unapaswa kuwa ule unaofaa utamaduni wa mhusika.
 
-Madaraja fulani yanaweza kuwa na ustadi zaidi wa kuchagua au yanaweza kuchagua ustadi zaidi kuliko wengine. Hii inasawazishwa na ukweli kwamba wahusika wote bado wamejengwa na pointi 100 zilezile. Kwa hivyo, mhusika mwenye ustadi zaidi ataishia kulazimika kusambaza pointi zake kwa upana zaidi akijua kidogo kuhusu mengi, na mhusika aliye na ustadi mdogo wa kuchagua ataishia kuwa mtaalamu zaidi.
+Madarasa fulani yanaweza kuwa na ujuzi zaidi wa kuchagua au wanaweza kuchagua ujuzi zaidi kuliko wengine. Hii inasawazishwa na ukweli kwamba wahusika wote bado wamejengwa kwa pointi 100 zilezile. Kwa hivyo, mhusika mwenye ujuzi zaidi atalazimika kusambaza pointi zake kwa kiasi kidogo akijua kidogo kuhusu mengi, na mhusika ambaye ana ujuzi mdogo wa kuchagua ataishia kuwa na utaalamu zaidi.
 
-#### Ujumbe kuhusu Uwezo wa Daraja na Daraja (Rank)
+#### Ujumbe kuhusu Uwezo wa Darasa na Daraja
 
-Kumbuka kwamba Madaraja yote yanahitaji kiwango cha ustadi cha angalau _**40% katika ustadi wowote wa Daraja tano**_ ili kutumia Uwezo maalum wa Daraja hilo au kutupa ina. Unachukuliwa kuwa na uwezo katika ustadi kwa 50% au zaidi. Kwa hivyo, ili kuhitimu kwa Daraja la 1, mhusika lazima awe na ustadi wowote wa Daraja tano kwa 40% au zaidi. Daraja la 2 linahitaji ustadi wowote wa Daraja tano kwa 70%, Daraja la 3 linahitaji ustadi wowote wa Daraja nne kwa 90%, na kadhalika.
+Kumbuka kuwa Madarasa yote yanahitaji kiwango MVU ujuzi MVU angalau _**40% katika ujuzi wowote wa Darasa tano**_ ili kutumia Uwezo maalum wa Darasa hilo au kupiga taharuki. Unachukuliwa kuwa na uwezo katika ujuzi kwa 50% au zaidi. Kwa hivyo, ili kuhitimu kwa Daraja la 1, mhusika lazima awe na ujuzi wowote wa Darasa tano kwa 40% au zaidi. Daraja la 2 linahitaji ujuzi wowote wa Darasa tano kwa 70%, Daraja la 3 linahitaji ujuzi wowote wa Darasa nne kwa 90%, na kadhalika.
 
-Mhusika anaweza kuchagua kuanza katika Daraja la 0 ikiwa hana viwango vya kutosha vya ustadi na kufikia Daraja la 1 katika mchezo ikiwa anataka, lakini ili kuweza kutumia au kutupa ina, sharti hizi lazima zikamilishwe.
+Mhusika anaweza kuchagua kuanza katika Daraja la 0 ikiwa hana viwango vya kutosha vya ujuzi na kufikia Daraja la 1 katika mchezo akitaka, lakini ili kuweza kutumia au kupiga taharuki, mahitaji haya ya awali lazima yatimizwe.#### Ustadi wa Mapambano (NGU+UST)
 
-#### Ustadi wa Mapigano (STR+DEX)
+Ustadi wa Mapambano ni ustadi unaohusiana na kupigana na matumizi ya silaha. Huu ni ustadi tofauti-tofauti wenye utaalamu mwingi unaohusiana na Darasa la mhusika husika. Mapokeo mengi ya mapigano yanahusisha mafunzo ya silaha nyingi za aina moja, pamoja na mbinu zinazohitajika ili kuzitumia zote kwa ufanisi. Kwa hivyo, Ustadi wa Mapambano ni mwamvuli unaounganisha nyanja nyingi zinazohusiana za mapigano chini ya uwezo mmoja, ukiondoa hitaji la kununua ustadi mdogo mingi.
 
-Ustadi wa Mapigano ni ustadi unaohusiana na kupigana na matumizi ya silaha. Ni ustadi tofauti na utaalamu mwingi unaohusiana na Daraja la mhusika husika. Mapokeo mengi ya mapigano yanajumuisha mafunzo katika silaha nyingi za aina moja, pamoja na mbinu zinazohitajika kuzitumia zote kwa ufanisi. Kwa hivyo, Ustadi wa Mapigano ni mwavuli unaounganisha vipengele vingi vinavyohusiana vya mapigano chini ya uwezo mmoja, kuondoa haja ya kununua ustadi mdogo mwingi.
+Ustadi wa Mapambano una Asilimia ya Msingi iliyo sawa na NGU+UST.
 
-Ustadi wa Mapigano una Asilimia ya Msingi sawa na STR+DEX.
+Kwa kuwa watu wengi wanaweza kuchukua silaha na kwa silika kuipunga, kuitupa, au kuifyatua, Ustadi wa Mapambano unachukuliwa kuwa Ustadi wa Kawaida. Hata hivyo, kutokana na hali yao ya kuwa tofauti-tofauti, wameainishwa na kufafanuliwa kando.
 
-Kwa kuwa watu wengi wanaweza kuchukua silaha na kwa silika aidha kuipiga, kuitupa, au kuifyatua, Ustadi wa Mapigano unachukuliwa kuwa Ustadi wa Kawaida. Hata hivyo kutokana na asili yao inayoweza kuwa tofauti, yanaainishwa na kufafanuliwa tofauti.
-
-Wahusika wote hujifunza Ustadi wao wa Mapigano kama sehemu ya Daraja lao walilochagua, kama ilivyoelezwa katika [Sura ya 3](0003_Classes.md).
+Wahusika wote hujifunza Ustadi wao wa Mapambano kama sehemu ya Darasa walilochagua, kama ilivyoelezwa katika [Sura ya 3](0003_Classes.md).
 
 ---
-## Hatua ya 7: Pointi za Bonasi za Ustadi
+## Hatua ya 7: Pointi za Ustadi za Ziada
 
-Katika hatua hii, kila mhusika hupata hifadhi ya ziada ya Pointi za Ustadi 'bila malipo' kulingana na Kiwango cha Uzoefu, ambazo zinaweza kusambazwa kati ya ustadi uliopo. Hizi zinatolewa ili kukamilisha mhusika, kuongeza maslahi au maeneo ya utaalamu. Chaguomsingi kwa wahusika wanaoanza ni hifadhi ya pointi 100, na kikomo cha kutotenga zaidi ya pointi 10 kwa kila ustadi. Ikiwa wahusika wana uzoefu zaidi, basi idadi ya Pointi za Ustadi na vizuizi vitatofautiana, kama inavyoonyeshwa kwenye Jedwali la Uzoefu.
+Katika hatua hii, kila mhusika hupata kundi la ziada la Pointi za Ustadi 'huru' kulingana na Kiwango MVU Uzoefu, ambazo zinaweza kusambazwa kati ya ustadi uliopo. Hizi hutolewa ili kukamilisha mhusika, kuongeza maslahi au nyanja za utaalamu. Kiwango chaguo-msingi kwa wahusika wapya wanaoanza ni pointi 100, na kikomo MVU kutotenga zaidi ya pointi 10 kwa kila ustadi. Ikiwa wahusika wana uzoefu zaidi, basi idadi ya Pointi za Ustadi na vikwazo vitatofautiana, kama inavyoonyeshwa kwenye Jedwali la Uzoefu.
 
-Pointi za Bonasi za Ustadi hutumika kwa njia zifuatazo:
+Pointi za Ustadi za Ziada hutumika kwa njia zifuatazo:
 
-- Kuruhusu mhusika chaguo la kuchagua moja ya mwisho ya Ustadi wa Kitaalamu mpya bila malipo, ikionyesha hobby au maslahi ya kibinafsi.
-- Mbadala, mhusika anaweza kuongeza aina mpya ya silaha kwenye Ustadi wao wa Mapigano.
-- Aidha ongeza bonasi ya +10 kwa ustadi kumi tofauti, au sambaza pointi kati yao, ukiongeza kila ustadi kwa 1% kwa kila pointi inayotumika kuuboresha. Hakuna ustadi binafsi unaoweza kupokea pointi zaidi ya zilizoonyeshwa na Kiwango cha Uzoefu wao. Ikiwa utachagua Ustadi mpya wa Kitaalamu, lazima uongeze pointi kwake.
-- Ila kwa utaalamu wa hobby wa hiari, hakuna pointi zinazoweza kutengwa kwa Ustadi wa Kitaalamu ambao haukujifunza kama sehemu ya utamaduni au Daraja lao.
+- Kuruhusu mhusika chaguo la kuchagua Ustadi mmoja mpya wa Kitaalamu wa mwisho bila malipo, kuakisi hobby au maslahi ya kibinafsi.
+- Vinginevyo, mhusika anaweza kuongeza aina mpya ya silaha kwenye Ustadi wao wa Mapambano.
+- Aidha ongeza bonasi ya +10 kwa ustadi kumi tofauti, au usambaze pointi kati yao, ukiongeza kila ustadi kwa 1% kwa kila pointi iliyotumika kuuboresha. Hakuna ustadi wowote binafsi unaoweza kupokea pointi nyingi kuliko ilivyoonyeshwa na Kiwango chao MVU Uzoefu. Ukichagua Ustadi mpya wa Kitaalamu, lazima uongeze pointi humo.
+- Isipokuwa kwa utaalamu wa hiari wa hobby, hakuna pointi zinazoweza kutengwa kwa Ustadi wa Kitaalamu ambao haukujifunza kama sehemu ya utamaduni au Darasa lao.
 
 ### Kuunda Wahusika Wenye Uzoefu
 
-Inapendekezwa kuwa wahusika wanaoanza waanze upya, katika Daraja la 1, wakiwa na uzoefu mdogo au bila uzoefu wowote wa vitendo. Bila shaka, kiwango cha wahusika kitategemea sana mpangilio na ikiwa mchezo utakuwa wa tukio moja fupi au kampeni ya muda mrefu. Pia ni kawaida kwa mchezaji kuunda mhusika mwenye uzoefu zaidi ikiwa anachukua nafasi ya yule aliyekufa katika mchezo au wakati wa kujiunga na kampeni iliyopo.
+Inapendekezwa kuwa wahusika wanaoanza waanze wakiwa wabichi, katika Nafasi ya 1, wakiwa na uzoefu mdogo au bila uzoefu wowote wa kivitendo. Bila shaka, kiwango MVU wahusika kitategemea sana mazingira na kama mchezo utakuwa tukio fupi la mara moja au kampeni ya muda mrefu. Pia ni kawaida kwa mchezaji kuunda mhusika mwenye uzoefu zaidi ikiwa anachukua nafasi ya mhusika aliyekufa katika mchezo au wakati wa kujiunga na kampeni iliyopo.
 
-Jedwali limetolewa, likigawanya uzoefu katika kategoria za Uzoefu. Uzoefu wa mhusika una uhusiano wa moja kwa moja na umri na uwezo wa ustadi; wahusika wenye uzoefu zaidi kiasili wana uzoefu wa maisha zaidi kuliko wenzao wadogo. Hata hivyo, Bonasi ya Umri iliyoainishwa inapaswa kuchukuliwa kama takriban, kwani kampeni huendelea kwa viwango tofauti – baadhi ya kampeni huwa na muda mwingi wa mchezo kupita kati ya matukio wakati zingine ni mfululizo mmoja mrefu wa matukio yasiyokatika. Wakati wa kubadilisha mhusika aliyepo, badilisha tu umri halisi na ule uliyoainishwa hapa chini.
+Jedwali limetolewa, likigawanya uzoefu katika kategoria za Uzoefu. Uzoefu wa mhusika una uhusiano wa moja kwa moja na umri na uwezo wa ustadi; wahusika wenye uzoefu zaidi kiasili wana uzoefu wa maisha zaidi kuliko wenzao wadogo. Hata hivyo, Bonasi ya Umri iliyoandikwa inapaswa kuchukuliwa kuwa ya makadirio, kwa kuwa kampeni husonga mbele kwa viwango tofauti — baadhi ya kampeni huwa na muda mwingi wa mchezo kupita kati ya matukio wakati zingine ni mfululizo mmoja mrefu wa matukio yasiyokatizwa. Unapobadilisha mhusika aliyepo, badilisha tu umri halisi na ule ulioandikwa hapa chini.
 
-Jedwali hili linaweza pia kutumika kwa NPCs, ikiwa imeundwa kwa kutumia Daraja au taaluma, na inafuata sheria zilezile. Kuna ubaguzi mmoja: Wahusika Wasio Wachezaji waliojengwa kama sehemu ya taaluma hawana Uwezo maalum, ikiwa ni pamoja na Pointi za ziada za Bahati, ambazo zimetengwa kwa ajili ya wahusika wa wachezaji na Wahusika Wasio Wachezaji muhimu pekee. Kumbuka kuwa NPC anayeanza aliyejengwa kama taaluma ni Daraja la 1 kwa chaguomsingi.
+Jedwali hili linaweza pia kutumika kwa NPC, iwe wamejengwa kwa kutumia Darasa au kazi, na hufuata sheria zilezile. Kuna ubaguzi mmoja: Wahusika Wasio Wachezaji (NPC) waliojengwa kama sehemu ya kazi hawana Uwezo wowote maalum, ikiwa ni pamoja na Pointi za Bahati za ziada, ambazo zimetengwa kwa ajili ya wahusika wa wachezaji na Wahusika Wasio Wachezaji muhimu pekee. Kumbuka kuwa NPC anayeanza aliyejengwa kama kazi ni Nafasi ya 1 kwa chaguo-msingi.
 
 ##### Jedwali la Uzoefu
 
-| Daraja (Kiwango\*) | Umri | Pointi za Bonasi za Ustadi | Ongezeko la Juu la Ustadi | Kiwango cha Wastani cha Ustadi\*\* | Uendelezaji |
+| Nafasi (Kiwango*) | Umri | Pointi za Ustadi za Ziada | Ongezeko la Juu la Ustadi | Kiwango MVU Wastani MVU Ustadi** | Maendeleo |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Daraja la 1 (1-4): _Fresh_ | Kwa spishi | 100 | +10 | 40-60 | Ustadi wowote wa Daraja 5 kwa 40% |
-| Daraja la 2 (5-9): _Low Level_ | +1d6 | 300 | +30 | 65-75 | Ustadi wowote wa Daraja 5 kwa 70% |
-| Daraja la 3 (10-14): _Mid-Level_ | +1d6+5 | 500 | +50 | 85-95 | Ustadi wowote wa Daraja 4 kwa 90% |
-| Daraja la 4 (15-19): _High Level_ | +1d6+10 | 700 | +70 | 105-115 | Ustadi wowote wa Daraja 3 kwa 110% |
-| Daraja la 5 (20+): _Epic Level_ | +1d6+20 | 900 | +90 | 125-135 | Ustadi wowote wa Daraja 2 kwa 130% |
+| Nafasi 1 (1-4): _Mbichi_ | Kulingana na spishi | 100 | +10 | 40-60 | Ustadi wowote 5 wa Darasa kwa 40% |
+| Nafasi 2 (5-9): _Kiwango MVU Chini_ | +1d6 | 300 | +30 | 65-75 | Ustadi wowote 5 wa Darasa kwa 70% |
+| Nafasi 3 (10-14): _Kiwango MVU Kati_ | +1d6+5 | 500 | +50 | 85-95 | Ustadi wowote 4 wa Darasa kwa 90% |
+| Nafasi 4 (15-19): _Kiwango MVU Juu_ | +1d6+10 | 700 | +70 | 105-115 | Ustadi wowote 3 wa Darasa kwa 110% |
+| Nafasi 5 (20+): _Kiwango MVU Epic_ | +1d6+20 | 900 | +90 | 125-135 | Ustadi wowote 2 wa Darasa kwa 130% |
 
-_\* Namba iliyo kwenye mabano inaweza kutumika kama kipimo wakati wa kubadilisha wahusika waliopo kutoka michezo inayotegemea Kiwango._
+_\* Nambari iliyo kwenye mabano inaweza kutumika kama kipimo unapobadilisha wahusika waliopo kutoka michezo inayotegemea Kiwango._
 
-_\*\* Hili ni kiwango cha wastani cha ustadi wa ustadi wowote wa umuhimu maalum kwa Daraja husika._
+_\*\* Hili ni kiwango MVU wastani MVU ustadi wa ustadi wowote wa umuhimu maalum kwa Darasa husika._
 
-**Ujumbe wa Jedwali la Uzoefu**
+**Maelezo ya Jedwali la Uzoefu**
 
-- Daraja ni mwongozo mbaya wa kuelezea kulinganisha wahusika wa viwango tofauti vya ustadi.
-- Umri huamuliwa kwa kuhesabu umri kulingana na spishi na kuongeza bonasi yoyote iliyoainishwa. Ni zaidi ya mwongozo kuliko sheria kali na ya haraka, kwani muda hupita tofauti kutoka kampeni moja hadi nyingine.
-- Pointi za Bonasi za Ustadi huamua ni pointi ngapi mhusika lazima atumie katika kukuza ustadi. Hii SI ya kuongezeka na zile za madaraja ya awali. Kwa mfano, mhusika wa Daraja la 2 anajengwa na pointi 300, si pointi 300, pamoja na 100 kutoka Daraja la 1.
-- Ongezeko la Juu la Ustadi huweka kikomo ni ngapi kati ya Pointi za Bonasi zinazoweza kutumiwa kwa Ustadi wowote.
-- Kiwango cha Wastani cha Ustadi kinaonyesha safu ya kawaida kwa ustadi muhimu zaidi wa Daraja la mhusika katika kila Kiwango cha Uzoefu. Imejumuishwa kwa madhumuni ya marejeleo na inadhani Tabia za Kiwango cha Msingi za 16, na Pointi za juu zaidi za Ustadi zilizotumika wakati wa kila hatua. Matokeo halisi yatatofautiana.
-- Uendelezaji: Hii inawakilisha idadi ya Ustadi wa Daraja unaohitajika ili kufikia Daraja iliyoainishwa. Kwa mfano, ili kufikia Daraja la 3, ustadi wowote wa Daraja nne ulioainishwa katika maandishi ya Daraja husika lazima uwe angalau 90%.
+- Nafasi ni mwongozo wa maelezo mbaya kulinganisha wahusika wa viwango tofauti vya ustadi.
+- Umri huamuliwa kwa kuhesabu umri kulingana na spishi na kuongeza bonasi yoyote iliyoandikwa. Huu ni mwongozo zaidi kuliko sheria ngumu na ya haraka, kwa kuwa wakati hupita tofauti kutoka kampeni moja hadi nyingine.
+- Pointi za Ustadi za Ziada huamua ni pointi ngapi mhusika lazima atumie katika kukuza ustadi. Hii SIYO jumla na zile za nafasi zilizotangulia. Kwa mfano, mhusika wa Nafasi 2 hujengwa kwa pointi 300, si pointi 300, pamoja na 100 kutoka Nafasi 1.
+- Ongezeko la Juu la Ustadi hupunguza ni ngapi kati ya Pointi za Ziada zinazoweza kutumika kwa Ustadi wowote mmoja.
+- Kiwango MVU Wastani MVU Ustadi kinaonyesha masafa ya kawaida kwa ustadi muhimu zaidi wa mhusika unaohusiana na Darasa katika kila Kiwango MVU Uzoefu. Imejumuishwa kwa madhumuni ya marejeleo na inachukulia Sifa za Kiwango MVU Msingi za 16, na Pointi za Ustadi za juu zilizotumika wakati wa kila hatua. Matokeo halisi yatatofautiana.
+- Maendeleo: Hii inawakilisha idadi ya Ustadi wa Darasa inayohitajika ili kufikia Nafasi iliyoandikwa. Kwa mfano, ili kufikia Nafasi 3, wowote kati ya minne ya Ustadi wa Darasa uliotajwa katika maelezo ya Darasa husika lazima uwe angalau 90%.
 
 ---
-## Hatua ya 8: Hatimaye...
+## Hatua ya 8: Mwishowe…
 
-- Amua Mwelekeo na Matamanio yako kulingana na Utamaduni/Kabila na Daraja ulilochagua. Tazama [Sura ya 4](0004_Alignment_and_Passions.md).
-- Andika Uwezo wowote wa Kuanzia kutoka kwa Kabila na Daraja lako.
-- Chini ya Uwezo wa Daraja, chagua Uwezo mmoja wa Daraja la 1 ambao unakidhi mahitaji yake bila gharama katika roli za EXP.
-- Nakili vifaa vya kuanzia kama ilivyoainishwa mwishoni mwa maandishi ya Daraja lako.
-- Usisahau kumpa mhusika wako jina. Pia, tafuta njia za kuanzisha uhusiano na wahusika wengine ikiwa inataka.
-
---- DOCUMENT END ---
+- Bainisha Uelekeo na Mapenzi yako kulingana na Utamaduni/Rangi na Darasa ulilochagua. Tazama [Sura ya 4](0004_Alignment_and_Passions.md).
+- Kumbuka Uwezo wowote wa Kuanzia kutoka kwa Rangi na Darasa lako.
+- Chini ya Uwezo wa Nafasi, chagua Uwezo mmoja wa Darasa la Nafasi ya 1 ambao unakidhi mahitaji yake bila gharama katika mizunguko ya EXP.
+- Nakili vifaa vya kuanzia kama ilivyoandikwa mwishoni mwa maelezo ya Darasa lako.
+- Usisahau kumpa mhusika wako jina. Pia, tafuta njia za kuanzisha uhusiano na wahusika wengine ikiwa unataka.

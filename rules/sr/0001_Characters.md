@@ -1,6 +1,6 @@
 # Poglavlje 1: Likovi
 
-Osnovni lik se definiše nizom različitih elemenata koji opisuju sposobnosti lika. Ovi elementi su:
+Osnovni lik je definisan nizom različitih elemenata koji opisuju sposobnosti lika. Ovi elementi su:
 
 - Karakteristike: kao što su Snaga ili Harizma
 - Atributi: stvari poput Visine ili Kretanja
@@ -11,114 +11,114 @@ Većina ovih elemenata je opisana brojevima, a neki zavise od drugih ili se izra
 ---
 ## Korak 1: Koncept lika
 
-Dobro mesto za početak je da imate neku ideju o tome kakvog lika želite da igrate; na primer, okorelog borca ili lukavog lopova. Vaš koncept lika ne mora biti razrađen u ovoj fazi; jednostavno, to je ideja koja će vam pomoći da usmerite određene izbore kao što su Rasa i Klasa. Nekoliko ideja za likove je navedeno kako bi podstaklo vašu maštu.
+Dobro mesto za početak je imati predstavu o tome kakvog lika želite da igrate; na primer, prekaljeni borac ili lukavi lopov. Vaš koncept lika ne mora biti razrađen u ovoj fazi; jednostavno ideja koja će pomoći u usmeravanju određenih izbora kao što su Rasa i Klasa. Nekoliko ideja za likove je navedeno da podstakne vašu maštu.
 
 - Mladi, naivni korisnik magije
-- Nagli poluork borac
-- Previše samouveren halfling lopov
-- Pobožni patuljak klerik
+- Poluork borac preke naravi
+- Preterano samouvereni polutan lopov
+- Pobožni patuljak sveštenik
 
 ---
 ## Korak 2: Karakteristike
 
-Svako je definisan sa sedam Karakteristika koje vam govore nešto o vašem liku; koliko je jak ili brz; koliko je pametan ili zdrav. Karakteristike su u srži svakog _Classic Fantasy Imperative_ lika i čine osnovu za većinu drugih elemenata kao što su Atributi i Veštine. Sedam Karakteristika su:
+Svako je definisan sa sedam Karakteristika koje vam govore nešto o vašem liku; koliko su jaki ili brzi; koliko su pametni ili zdravi. Karakteristike su srž svakog lika u _Classic Fantasy Imperative_ i čine osnovu za većinu drugih elemenata kao što su Atributi i Veštine. Sedam Karakteristika su:
 
-- Snaga (STR)
-- Konstitucija (CON)
-- Veličina (SIZ)
-- Spretnost (DEX)
+- Snaga (SNA)
+- Konstitucija (KON)
+- Veličina (VEL)
+- Spretnost (SPR)
 - Inteligencija (INT)
-- Moć (POW)
-- Harizma (CHA)
+- Moć (MOĆ)
+- Harizma (HAR)
 
-Pre izračunavanja Karakteristika, sledeći odeljak objašnjava šta svaka od njih predstavlja.
+Pre izračunavanja Karakteristika, sledeći odeljak objašnjava šta svaka predstavlja.
 
-#### Snaga (STR)
+#### Snaga (SNA)
 
-STR predstavlja fizičku snagu: koliko neko može da podigne, koliko snažno može da udari i tako dalje. STR je komponenta [Modifikatora štete](0001_Characters.md?id=damage-modifier) (pogledajte odeljak [Atributi](0001_Characters.md?id=step-3-attributes) ispod). Ako se liku STR smanji na nulu, on gubi sposobnost kretanja ili podizanja predmeta.
+SNA predstavlja fizičku snagu: koliko neko može da podigne, koliko jako može da udari i tako dalje. SNA je komponenta [Modifikatora štete](0001_Characters.md?id=damage-modifier) (pogledajte odeljak [Atributi](0001_Characters.md?id=step-3-attributes) ispod). Ako se liku SNA smanji na nulu, on gubi sposobnost da se kreće ili podiže predmete.
 
-#### Konstitucija (CON)
+#### Konstitucija (KON)
 
-CON je merilo zdravlja i izdržljivosti. CON je komponenta u određivanju [Pogodaka](0001_Characters.md?id=hit-points) i [Stope isceljenja](0001_Characters.md?id=healing-rate) (pogledajte ispod). Ako CON iz bilo kog razloga padne na nulu, lik umire.
+KON je mera zdravlja i izdržljivosti. KON je komponenta u određivanju [Bodova zdravlja](0001_Characters.md?id=hit-points) i [Stope lečenja](0001_Characters.md?id=healing-rate) (pogledajte ispod). Ako KON iz bilo kog razloga padne na nulu, lik umire.
 
-#### Veličina (SIZ)
+#### Veličina (VEL)
 
-SIZ meri masu i pomaže u određivanju Visine i Težine. SIZ se koristi kao pomoć pri izračunavanju [Pogodaka](0001_Characters.md?id=hit-points), jer veća i teža stvorenja obično imaju veću izdržljivost na štetu. SIZ se takođe može koristiti za određivanje Modifikatora štete lika, pošto masa pomaže u povećanju sile udarca.
+VEL meri masu i pomaže u određivanju Visine i Težine. VEL se koristi kao pomoć pri izračunavanju [Bodova zdravlja](0001_Characters.md?id=hit-points), jer veća i teža stvorenja obično imaju veću izdržljivost na štetu. VEL se takođe može koristiti za određivanje Modifikatora štete lika, jer masa pomaže u povećanju snage udarca.
 
-#### Spretnost (DEX)
+#### Spretnost (SPR)
 
-Agilnost, ravnoteža i refleksi se mere pomoću DEX. To je važan aspekt [Inicijative](0001_Characters.md?id=initiative). Ako se liku DEX smanji na nulu, on pati od funkcionalne paralize.
+Agilnost, ravnoteža i refleksi se mere pomoću SPR. To je važan aspekt [Inicijative](0001_Characters.md?id=initiative). Ako se liku SPR smanji na nulu, on postaje funkcionalno paralizovan.
 
 #### Inteligencija (INT)
 
-INT je merilo kognitivnih sposobnosti. Oni sa nižim rezultatom INT nisu nužno glupi, ali će verovatno biti ograničeni u tome koliko kreativno mogu da koriste svoju pamet. INT je faktor u izračunavanju [Inicijative](0001_Characters.md?id=initiative). Ako se INT smanji na nulu, lik postaje potpuno bezuman.
+INT je mera kognitivnih sposobnosti. Oni sa nižim INT rezultatom nisu nužno glupi, ali će verovatno biti ograničeni u tome koliko kreativno mogu koristiti svoju pamet. INT je faktor u izračunavanju [Inicijative](0001_Characters.md?id=initiative). Ako se INT smanji na nulu, lik postaje potpuno bezuman.
 
-#### Moć (POW)
+#### Moć (MOĆ)
 
-POW je merilo duše, duha, unutrašnjeg poriva ili kapaciteta za magiju lika. POW upravlja [Magijskim poenima](0001_Characters.md?id=magic-points) i [Poenima sreće](0001_Characters.md?id=luck-points) lika. Ako POW lika ikada padne na nulu, on gubi svaku nezavisnu volju.
+MOĆ je mera lika, duše, duha, unutrašnjeg pogona ili kapaciteta za magiju. MOĆ upravlja [Magijskim bodovima](0001_Characters.md?id=magic-points) i [Bodovima sreće](0001_Characters.md?id=luck-points) lika. Ako MOĆ lika ikada padne na nulu, on gubi svaku nezavisnu volju.
 
-#### Harizma (CHA)
+#### Harizma (HAR)
 
-Harizma meri ličnost i nezavisna je od fizičkog izgleda. CHA utiče na [Modifikator iskustva](0001_Characters.md?id=experience-modifier) lika. Ako CHA ikada padne na nulu, lik više ne može socijalno da komunicira sa drugima, postajući toliko bolno stidljiv ili asocijalan da ga ignorišu ili čak proteruju.
+Harizma meri ličnost i nezavisna je od fizičkog izgleda. HAR utiče na [Modifikator iskustva](0001_Characters.md?id=experience-modifier) lika. Ako HAR ikada padne na nulu, lik više ne može socijalno da komunicira sa drugima, postajući toliko bolno stidljiv ili asocijalan da ga ignorišu ili čak teraju.
 
 ---
 ### Izračunavanje Karakteristika
 
-Svaka Karakteristika ima numeričku vrednost koja određuje koliko je moćna. Broj u zagradi nakon svakog rezultata bacanja kockica je rasni prosek i koristi se kao merilo za ocenjivanje rezultata vašeg lika u poređenju sa drugim članovima njegove vrste. Predlozi za određivanje vaših Karakteristika uključuju:
+Svaka Karakteristika ima numeričku vrednost koja određuje njenu moć. Broj u zagradi nakon svakog rezultata bacanja kockica je rasni prosek i koristi se kao mera za ocenjivanje rezultata vašeg lika u poređenju sa drugim članovima njegove vrste. Predlozi za određivanje vaših Karakteristika uključuju:
 
-- **Bacanje kockica:** Bacite kockice naznačene u Tabeli rasnih karakteristika za STR, CON, SIZ, DEX, INT, POW i CHA, uzimajući svaki dobijeni rezultat. Pošto rezultati ovih bacanja mogu biti pomalo nasumični, često je bolje odlučiti se za koncept lika nakon što se kockice bace. U suprotnom, konačne Karakteristike mogu onemogućiti unapred zamišljenu ulogu. Bacite 3d6 za STR, CON, DEX, POW i CHA; zatim 2d6+6 za SIZ i INT.
-- **Bacanje kockica, dodeljivanje:** Kao gore, osim što igrač može razmenjivati vrednosti između Karakteristika sa istim rasponom kockica. Na primer, prilikom pravljenja čoveka, igrač može zameniti vrednosti između STR, CON, DEX, POW i CHA, pošto dele raspon od 3d6, ili između SIZ i INT, koje dele raspon od 2d6+6 — ali one moraju uvek biti iz iste grupe raspona kockica; ne možete prebacivati rezultate iz jedne grupe u drugu.
-- **Bacanje kockica, visoki rezultat:** Bacite jednu dodatnu kockicu kao što je naznačeno za STR, CON, SIZ, DEX, INT, POW i CHA i odbacite najniži rezultat od svakog.
-- **Izgradnja poenima:** Umesto bacanja kockica za određivanje Karakteristika, igrači grade svog lika iz unapred postavljenog fonda poena, čija je količina određena vrstom lika. Ovaj metod je najbolji za grupe koje znaju šta žele da igraju i žele da prilagode svoju izgradnju određenoj Klasi. Određena pravila se primenjuju na opciju Izgradnje poenima:
-  - Započnite sa rasnim prosekom za svaku od sedam Karakteristika, kao što je navedeno u zagradama nakon svakog raspona kockica ispod.
-  - Potrošite još 10 poena (ljudi) ili 6 poena (polurase) da povećate Karakteristike.
-  - Takođe možete smanjiti Karakteristiku da biste dobili dodatne poene. Na primer, smanjite STR sa 11 na 9 da biste dobili 2 poena.
-  - Karakteristike ne mogu biti _niže_ od minimalno moguće ili _veće_ od maksimalno moguće za tu Karakteristiku, kako je određeno njenim potencijalnim bacanjem kockica.
+- **Bacanje kockica:** Bacite kockice naznačene u Tabeli rasnih karakteristika za SNA, KON, VEL, SPR, INT, MOĆ i HAR, uzimajući svaki dobijeni rezultat kako jeste. Budući da rezultati ovih bacanja mogu biti donekle nasumični, često je bolje odlučiti o konceptu lika nakon što se kockice bace. U suprotnom, konačne Karakteristike mogu isključiti unapred zamišljenu ulogu. Bacite 3d6 za SNA, KON, SPR, MOĆ i HAR; zatim 2d6+6 za VEL i INT.
+- **Bacanje kockica, dodeljivanje:** Kao gore, osim što igrač može razmenjivati vrednosti između Karakteristika sa istim rasponom kockica. Na primer, prilikom pravljenja čoveka, igrač može razmeniti vrednosti između SNA, KON, SPR, MOĆ i HAR, jer dele raspon od 3d6, ili između VEL i INT, koji dele raspon od 2d6+6—ali one moraju uvek biti iz iste grupe raspona kockica; ne možete prebacivati rezultate iz jedne grupe u drugu.
+- **Bacanje kockica, visoko:** Bacite jednu dodatnu kockicu kao što je naznačeno za SNA, KON, VEL, SPR, INT, MOĆ i HAR, i odbacite najniži rezultat od svakog.
+- **Izgradnja poenima:** Umesto bacanja kockica za određivanje Karakteristika, igrači grade svog lika iz unapred postavljenog fonda poena, čija je količina određena vrstom lika. Ova metoda je najbolja za grupe koje znaju šta žele da igraju i žele da prilagode svoju izgradnju određenoj Klasi. Određena pravila se primenjuju na opciju Izgradnje poenima:
+  - Počnite sa rasnim prosekom za svaku od sedam Karakteristika kao što je navedeno u zagradi nakon svakog raspona kockica ispod.
+  - Potrošite još 10 poena (ljudi) ili 6 poena (polurasni) za povećanje Karakteristika.
+  - Takođe možete smanjiti Karakteristiku da biste dobili dodatne poene. Na primer, smanjite SNA sa 11 na 9 da biste dobili 2 poena.
+  - Karakteristike ne mogu biti _niže_ od minimalne moguće ili _veće_ od maksimalne moguće za tu Karakteristiku kako je određeno njenim potencijalnim bacanjem kockica.
 
-Gejm Masteri su slobodni da osmisle sopstvene metode ili vrednosti poena po želji.
+Vodiči igre su slobodni da smisle sopstvene metode ili vrednosti poena po želji.
 
-Sledeća tabela sumira informacije potrebne za svaki od gore navedenih metoda. Rasponi kockica se koriste u bilo kom od metoda bacanja kockica, dok se brojevi u zagradama koriste u Izgradnji poenima.
+Sledeća tabela sumira informacije potrebne za svaku od gore navedenih metoda. Rasponi kockica se koriste u bilo kojoj od metoda bacanja kockica, dok se brojevi u zagradi koriste u Izgradnji poenima.
 
 ##### Tabela rasnih karakteristika
 
 | Rasa | Patuljak | Vilenjak | Gnom |
 | --- | --- | --- | --- |
-| STR | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
-| CON | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
-| SIZ | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
-| DEX | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
+| SNA | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
+| KON | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
+| VEL | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
+| SPR | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
 | INT | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
-| POW | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
-| CHA | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
+| MOĆ | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
+| HAR | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
 
-| Rasa | Poluvilenjak | Poluork | Halfling | Čovek |
+| Rasa | Poluvilenjak | Poluork | Polutan | Čovek |
 | --- | --- | --- | --- | --- |
-| STR | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
-| CON | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
-| SIZ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
-| DEX | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
+| SNA | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
+| KON | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
+| VEL | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
+| SPR | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
 | INT | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
-| POW | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
-| CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
+| MOĆ | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
+| HAR | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
 ## Korak 3: Atributi
 
-Svaki lik takođe ima skup atributa. To su sposobnosti izvedene iz Karakteristika ili određene njima, koje se koriste za upravljanje određenim faktorima igranja.
+Svaki lik takođe ima niz atributa. To su sposobnosti izvedene iz Karakteristika ili određene njima koje se koriste za upravljanje određenim faktorima igranja.
 
 #### Akcioni poeni
 
-Koliko često lik može da deluje u [Rundi borbe](0008_Combat.md?id=combat-rounds) određeno je Akcionim poenima. Početni likovi počinju sa 2 Akciona poena, ali dobijaju više kako napreduju u Rangu. Pogledajte relevantne Tabele napredovanja Klasa pod [Klase](0003_Classes.md) za detalje.
+Koliko često lik može da reaguje u [Borbenoj rundi](0008_Combat.md?id=combat-rounds) određeno je Akcionim poenima. Početni likovi počinju sa 2 Akciona poena, ali dobijaju više kako napreduju u Rangu. Pogledajte relevantne tabele napredovanja Klase pod [Klase](0003_Classes.md) za detalje.
 
 #### Modifikator štete
 
-Bonus iznos štete koju lik nanosi kada fizički udari ili primeni silu. Generalno se koristi u borbenim situacijama, ali se može koristiti i pri pokušaju razbijanja predmeta. Modifikator štete je dodatno bacanje kockice koje se ili dodaje ili oduzima od štete koju nanosi oružje ili alat. Ako negativan Modifikator štete smanji štetu oružja na nulu ili manje, tada uopšte nije naneta šteta.
+Bonus količina štete koju lik nanosi kada fizički udari ili primeni silu. Generalno se koristi u borbenim situacijama, ali se može koristiti i pri pokušaju razbijanja predmeta. Modifikator štete je dodatno bacanje kockica koje se ili dodaje ili oduzima od štete nanesene oružjem ili alatom. Ako negativan Modifikator štete svede štetu oružja na nulu ili manje, tada šteta uopšte nije naneta.
 
-Saberite STR i SIZ i konsultujte tabelu Modifikatora štete:
+Saberite SNA i VEL i pogledajte tabelu Modifikatora štete:
 
 ##### Tabela modifikatora štete
 
-| STR+SIZ | Modifikator štete |
+| SNA+VEL | Modifikator štete |
 | :-: | :-: |
 | 5 ili manje | –1d8 |
 | 6–10 | –1d6 |
@@ -138,30 +138,30 @@ Saberite STR i SIZ i konsultujte tabelu Modifikatora štete:
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
 | 121–130 | +2d10+1d4 |
-| Svakih 10 poena | Nastavite progresiju |
+| Svakih 10 poena | Nastaviti progresiju |
 
 #### Modifikator iskustva
 
-Tokom igre likovi poboljšavaju svoje veštine i sposobnosti. Ovo se postiže korišćenjem Bacanja iskustva koja su detaljnije objašnjena u odeljku [Sistem igre](0007_Game_System.md?id=experience-rolls).
+Tokom igranja likovi poboljšavaju svoje veštine i sposobnosti. To se postiže korišćenjem Bacanja iskustva koja su detaljnije objašnjena u odeljku [Sistem igre](0007_Game_System.md?id=experience-rolls).
 
-Rezultat CHA lika može prilagoditi broj Bacanja iskustva koje lik ima, odražavajući odnos koji ima sa svojim vršnjacima i svoju reputaciju u zajednici. Ako je CHA visoka, ljudi su voljni da se potrude da pomognu u obuci ili podrže lika dok prolazi kroz podučavanje. Nasuprot tome, ako je CHA posebno niska, može postojati poteškoća u poboljšanju nečijih sposobnosti bez pomoći drugih; na primer, nalaženje nekoga protiv koga se može sparingovati.
+HAR rezultat lika može prilagoditi broj Bacanja iskustva koje lik ima, odražavajući odnos koji ima sa svojim vršnjacima i svoju reputaciju u zajednici. Ako je HAR visok, ljudi su voljni da se potrude da pomognu u obuci ili podrže lika dok prolazi kroz podučavanje. Nasuprot tome, ako je HAR posebno nizak, može postojati poteškoća u poboljšanju nečijih sposobnosti bez pomoći drugih; na primer, pronalaženje nekoga za sparing.
 
 ##### Tabela modifikatora iskustva
 
-| CHA | Mod. iskustva |
+| HAR | Mod. iskustva |
 | :-: | :-: |
 | 6 ili manje | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Svakih 6 poena | +1 |
 
-#### Stopa isceljenja
+#### Stopa lečenja
 
-Nakon povreda, liku je potrebno da se oporavi. Stopa isceljenja određuje koliko brzo se prirodno oporavlja od rana. U zavisnosti od težine povrede (pogledajte odeljak o [Šteti i ranama](0007_Game_System.md?id=damage-and-wound-levels)), Stopa isceljenja označava koliko se Pogodaka povrati po danu, nedelji ili mesecu.
+Nakon zadobijenih povreda, lik treba da se oporavi. Stopa lečenja određuje koliko brzo se prirodno oporavlja od rana. U zavisnosti od težine povrede (pogledajte odeljak o [Šteti i nivoima rana](0007_Game_System.md?id=damage-and-wound-levels)), Stopa lečenja označava koliko se Bodova zdravlja vraća po danu, nedelji ili mesecu.
 
-##### Tabela stope isceljenja
+##### Tabela stope lečenja
 
-| CON | Stopa isceljenja |
+| KON | Stopa lečenja |
 | :-: | :-: |
 | 6 ili manje | 1 |
 | 7-12 | 2 |
@@ -170,42 +170,42 @@ Nakon povreda, liku je potrebno da se oporavi. Stopa isceljenja određuje koliko
 
 #### Inicijativa
 
-Trenutak u kojem neko reaguje u borbi određen je Inicijativom. Inicijativa deluje kao modifikator za bacanja Inicijative; što je veća Inicijativa, brže se reaguje u borbenoj situaciji, određujući kada možete da delujete. Dodatni faktori – na primer oklop – modifikuju je. Poglavlje [Borba](0008_Combat.md?) ulazi u više detalja o tome kako se [Inicijativa](0008_Combat.md?id=initiative) koristi.
+Trenutak u kojem neko reaguje u borbi određen je Inicijativom. Inicijativa deluje kao modifikator za bacanja Inicijative; što je veća Inicijativa, brže se reaguje u borbenoj situaciji, određujući kada možete delovati. Dodatni faktori – na primer oklop – modifikuju je. Poglavlje [Borba](0008_Combat.md) detaljnije govori o tome kako se [Inicijativa](0008_Combat.md?id=initiative) koristi.
 
-Inicijativa je prosek DEX i INT Karakteristika.
+Inicijativa je prosek SPR i INT Karakteristika.
 
-#### Poeni sreće
+#### Bodovi sreće
 
-Poeni sreće predstavljaju onu čudnu silu koja razlikuje heroje avanturiste od običnih ljudi. Nazovite to sudbinom, karmom ili jednostavno dobrom srećom. Poeni sreće se mogu koristiti za:
+Bodovi sreće predstavljaju onu čudnu silu koja razlikuje heroje avanturiste od običnih ljudi. Nazovite to sudbinom, karmom ili običnom srećom. Bodovi sreće se mogu koristiti za:
 
 - Ponovno bacanje kockica ako su nepovoljne.
 - Ublažavanje fizičke štete ili drugih nesrećnih okolnosti.
 - Sticanje prednosti u vitalnom trenutku u borbi.
 
-Tačno kako se koriste i kada, opisano je u odeljku [Korišćenje poena sreće](0007_Game_System.md?id=using-luck-points). Jednom kada se Poen sreće potroši, fond se smanjuje; kada ostanete bez Poena sreće, nijedan više nije dostupan – osim ako Gejm Master ne dodeli nagradu – do sledeće sesije igre kada se obnavljaju na svoju normalnu vrednost.
+Tačno kako se koriste, i kada, opisano je u odeljku, [Korišćenje Bodova sreće](0007_Game_System.md?id=using-luck-points). Kada se Bod sreće potroši, fond se smanjuje; kada ostanete bez Bodova sreće, više ih nema na raspolaganju – osim ako Vodič igre ne dodeli improvizovanu nagradu – do sledeće sesije igre kada se obnavljaju na svoju normalnu vrednost.
 
-##### Tabela poena sreće
+##### Tabela Bodova sreće
 
-| POW | Poeni sreće |
+| MOĆ | Bodovi sreće |
 | :-: | :-: |
 | 6 ili manje | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Svakih 6 poena | +1 |
 
-_\* Ljudi počinju sa jednim dodatnim Poenom sreće iznad onoga što je prikazano iznad._
+_\* Ljudi počinju sa jednim dodatnim Bodom sreće iznad onoga što je gore prikazano._
 
-_\*\* Svi likovi dobijaju dodatni Poen sreće sa svakim novim dostignutim Rangom._
+_\*\* Svi likovi dobijaju dodatni Bod sreće kako se dostigne svaki novi Rang._
 
-#### Magijski poeni
+#### Magijski bodovi
 
-Mistične sposobnosti i čini bačeni u _Classic Fantasy Imperative_ obično se oslanjaju na Magijske poene. Pošto dostupnost magije može biti ograničena podešavanjem kampanje ili specifičnim magijskim profesijama, neki likovi će smatrati ovaj Atribut suvišnim.
+Mistične sposobnosti i magije bačene u _Classic Fantasy Imperative_ obično se oslanjaju na Magijske bodove. Budući da dostupnost magije može biti ograničena podešavanjem kampanje ili specifičnim magijskim profesijama, nekim likovima će ovaj Atribut biti suvišan.
 
-Za one koji mogu da koriste takve moći, Magijski poeni lika su jednaki njihovom POW. Ovi poeni se koriste za bacanje čini, čija cena zavisi od vrste korišćene magije. Kada bacačima ponestane Magijskih poena, iscrpeli su svoju sposobnost da bacaju bilo kakve čini dok se Magijski poeni ne obnove.
+Za one koji mogu koristiti takve moći, Magijski bodovi lika su jednaki njihovoj MOĆ. Ovi bodovi se koriste za bacanje magija, čija cena zavisi od vrste korišćene magije. Kada bacačima ponestane Magijskih bodova, iscrpeli su svoju sposobnost da bace bilo kakve magije dok se Magijski bodovi ne obnove.
 
 #### Stopa kretanja
 
-Svako stvorenje ima Stopu kretanja – broj stopa koje se mogu preći tokom određenog perioda. Kretanje se ne izračunava iz Karakteristika, već je podrazumevana vrednost koja se razlikuje od vrste do vrste. Bazna stopa kretanja za ljude je 20 stopa, iako određene veštine mogu ovo poboljšati. Odeljak o [Kretanju](0008_Combat.md?id=movement) nudi više detalja.
+Svako stvorenje ima Stopu kretanja – nekoliko stopa koje se mogu preći tokom određenog perioda. Kretanje se ne izračunava iz Karakteristika, već je podrazumevana vrednost koja se razlikuje od vrste do vrste. Osnovna stopa kretanja za ljude je 20 stopa, iako je određene veštine mogu poboljšati. Odeljak o [Kretanju](0008_Combat.md?id=movement) nudi više detalja.
 
 ##### Tabela stope kretanja po rasi
 
@@ -216,20 +216,18 @@ Svako stvorenje ima Stopu kretanja – broj stopa koje se mogu preći tokom odre
 | Gnom | 15 | 4.5 |
 | Poluvilenjak | 20 | 6 |
 | Poluork | 20 | 6 |
-| Halfling | 15 | 4.5 |
-| Čovek | 20 | 6 |
+| Polutan | 15 | 4.5 |
+| Čovek | 20 | 6 |#### Hit Points (Pogoci)
 
-#### Pogoci
+Hit Points (Pogoci) predstavljaju koliko povreda određeni deo tela može da izdrži pre nego što postane neupotrebljiv, što može dovesti do onesposobljavanja i, na kraju, smrti lika. Telo svakog stvorenja podeljeno je na zasebne delove – ljudi, na primer, imaju sedam: glavu, grudi, abdomen, ruke i noge – pri čemu svaki deo ima svoje Hit Points.
 
-Pogoci predstavljaju koliko povreda određeni deo tela može da izdrži pre nego što postane beskoristan, što može dovesti do onesposobljavanja i na kraju smrti lika. Telo svakog stvorenja je podeljeno na odvojene lokacije – ljudi, na primer, imaju sedam; glavu, grudi, abdomen, ruke i noge – pri čemu svaka lokacija ima svoje Pogotke.
+Neka stvorenja, kao što su čudovišta ili različite klase životinja, po svojoj prirodi često imaju radikalno drugačiju telesnu građu, ali svaki deo koji poseduju i dalje ima Hit Points. Kada se Hit Points nekog dela tela smanje na određeni nivo usled bilo kakve štete, lik trpi određene posledice koje odražavaju ozbiljnost povrede. Za više informacija o ranama, pogledajte odeljak o [Šteti i ranama](0007_Game_System.md?id=damage-and-wound-levels).
 
-Neka stvorenja, kao što su čudovišta ili različite klase životinja, po svojoj prirodi često imaju radikalno drugačije strukture tela, ali svaka lokacija koju poseduju i dalje ima Pogotke. Kada se Pogoci lokacije smanje na određeni nivo usled štete bilo koje vrste, tada lik trpi određene posledice koje odražavaju težinu povrede. Za dodatne informacije o ranama, pogledajte odeljak o [Šteti i ranama](0007_Game_System.md?id=damage-and-wound-levels).
+Da biste izračunali Hit Points za svaki deo tela, saberite KON i VEL i potražite rezultat u tabeli Hit Points. Svi likovi dobijaju 1 dodatni Hit Point na svakom delu tela na Rangu 2 i 4.
 
-Da biste izračunali Pogotke svake lokacije, saberite CON i SIZ i proverite rezultat u tabeli Pogodaka. Svi likovi dobijaju 1 dodatni Pogodak u svakoj lokaciji na Rangu 2 i 4.
+##### Tabela Hit Points po delovima tela
 
-##### Tabela pogodaka po lokaciji
-
-| Lokacija | CON+SIZ |  |  |  |  |  |  |  |  |
+| Deo tela | KON+VEL |  |  |  |  |  |  |  |  |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Glava | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
@@ -241,199 +239,195 @@ Da biste izračunali Pogotke svake lokacije, saberite CON i SIZ i proverite rezu
 ---
 ## Korak 4: Veštine
 
-Podrazumevano, svaki lik ima niz Standardnih veština koje mu omogućavaju da izvodi razne radnje sa različitim stepenima stručnosti. Ove veštine su detaljnije opisane u poglavlju [Veštine](0005_Skills.md), ali pokrivaju niz svakodnevnih aktivnosti i lokalnog znanja koje svako može da koristi bez specijalizovane obuke. U ovoj tački kreiranja lika, igračima će biti potrebno samo da znaju Bazne nivoe svake Standardne veštine.
+Podrazumevano, svaki lik ima niz Standardnih veština koje mu omogućavaju da izvodi različite radnje sa različitim stepenom stručnosti. Ove veštine su detaljnije opisane u poglavlju [Veštine](0005_Skills.md), ali obuhvataju niz svakodnevnih aktivnosti i lokalnog znanja koje svako može koristiti bez posebne obuke. U ovoj fazi kreiranja lika, igračima je potrebno da znaju samo Osnovne nivoe svake Standardne veštine.
 
-Osnovni rezultat svake Standardne veštine određen je zbirom dve Karakteristike ili umnoškom jedne Karakteristike. Vrednost predstavlja urođenu kompetenciju lika u svakoj oblasti, zapravo njihov sirovi talenat pre bilo kakve formativne obuke primljene kao deo njegove kulture i profesije.
+Osnovni rezultat svake Standardne veštine određuje se zbirom dve Karakteristike ili umnoškom jedne Karakteristike. Vrednost predstavlja urođenu kompetentnost lika u svakoj oblasti, zapravo njihov sirovi talenat pre bilo kakve formativne obuke stečene kao deo kulture i profesije.
 
-Tabela Standardnih veština pokazuje kako se izračunavaju osnovne vrednosti, zajedno sa kratkim opisom onoga šta veština jeste i šta radi. Rezultat predstavlja procentualnu šansu za uspeh veštine; tako se rezultat Atletike od 25 izražava kao 25%. Kako funkcionišu procenti veština i detaljniji opisi veština su dati u poglavlju [Veštine](0005_Skills.md).
+Tabela Standardnih veština pokazuje kako se izračunavaju osnovne vrednosti, zajedno sa kratkim opisom šta veština jeste i šta radi. Rezultat predstavlja procentualnu šansu za uspeh veštine; tako se rezultat Atletike od 25 izražava kao 25%. Kako funkcionišu procenti veština i detaljniji opisi veština dati su u poglavlju [Veštine](0005_Skills.md).
 
-Imajte na umu da će osnovni procenti za neke veštine biti modifikovani i kulturom i profesijom, tako da će se ove početne vrednosti promeniti kako kreiranje lika napreduje.
+Imajte na umu da će osnovne procente za neke veštine modifikovati kultura i profesija, tako da će se ove početne vrednosti menjati kako napreduje kreiranje lika.
 
-##### Tabela standardnih veština
+##### Tabela Standardnih veština
 
-| Veština | Bazni procenat |
+| Veština | Osnovni procenat |
 | :-- | :-: |
-| Atletika | STR+DEX |
-| Čamci | STR+CON |
-| Snaga | STR+SIZ |
-| Prikrivanje | DEX+POW |
+| Atletika | SNA+SPR |
+| Veslanje | SNA+KON |
+| Snaga | SNA+VEL |
+| Prikrivanje | SPR+MOĆ |
 | Običaji | INT x2, +40\* |
-| Ples | DEX+CHA |
-| Obmana | INT+CHA |
-| Vožnja | DEX+POW |
-| Izdržljivost | CON x2 |
-| Izbegavanje | DEX x2 |
-| Prva pomoć | INT+DEX |
-| Uticaj | CHA x2 |
-| Uvid | INT+POW |
-| Lokalitet | INT x2 |
-| Maternji jezik | INT+CHA, +40\* |
-| Percepcija | INT+POW |
-| Jahanje | DEX+POW |
-| Pevanje | CHA+POW |
-| Prikradanje | DEX+INT |
-| Plivanje | STR+CON |
-| Nenaoružana borba | STR+DEX |
-| Snaga volje | POW x2 |
+| Ples | SPR+HAR |
+| Obmana | INT+HAR |
+| Upravljanje vozilom | SPR+MOĆ |
+| Izdržljivost | KON x2 |
+| Izmicanje | SPR x2 |
+| Prva pomoć | INT+SPR |
+| Uticaj | HAR x2 |
+| Uvid | INT+MOĆ |
+| Lokalno znanje | INT x2 |
+| Maternji jezik | INT+HAR, +40\* |
+| Percepcija | INT+MOĆ |
+| Jahanje | SPR+MOĆ |
+| Pevanje | HAR+MOĆ |
+| Prikradanje | SPR+INT |
+| Plivanje | SNA+KON |
+| Nenoružana borba | SNA+SPR |
+| Snaga volje | MOĆ x2 |
 
-_\* Uključuje statički bonus od +40% za Običaje i Maternji jezik lika (Zajednički za ljude). Svaka polurasa može govoriti Zajednički jezik sa +40%, pored svog Maternjeg jezika sa +40%, kao što je detaljno opisano u njihovim odgovarajućim opisima._
+_\* Uključuje statički bonus od +40% za Običaje i Maternji jezik lika (uobičajeno za ljude). Svaka poluljudska rasa može govoriti Opšti jezik sa +40%, pored svog Maternjeg jezika sa +40%, kao što je detaljno opisano u njihovim odgovarajućim opisima._
 
 ---
 ## Korak 5: Rasa/Kultura
 
-U _Classic Fantasy Imperative_, igrači mogu obično da biraju između jedne od šest rasa za svoje likove: Čovek ili jedna od polurasa (Patuljak, Vilenjak, Gnom, Poluvilenjak, Poluork ili Halfling). Ako su ljudi, moraju dalje definisati svog lika kroz jednu od tri kulturne pozadine; Varvarsku, Civilizovanu i Nomadsku. Za ljude, kultura određuje vrstu društva u kojem je lik odrastao, pa tako propisuje određene poglede i filozofije koje bi mogli imati. Praktičnije, kultura pomaže u definisanju vrednosti različitih veština koje oblikuju ukupne sposobnosti vašeg lika. Polurase generalno potiču iz rasne kulture koja je mnogo stereotipnija za rasu u celini. Pogledajte opise rasa i kultura u [Poglavlju 2](0002_Culture_and_Races.md) za više informacija.
+U _Classic Fantasy Imperative_, igrači obično mogu da biraju između jedne od sedam rasa za svoje likove: Čovek ili jedna od poluljudskih rasa (Patuljak, Vilenjak, Patuljak, Poluvilenjak, Poluork ili Halfling). Ako su ljudi, moraju dalje definisati svog lika kroz jednu od četiri kulturne pozadine: Varvarska, Civilizovana, Nomadska ili Primitivna. Za ljude, kultura određuje vrstu društva u kojem je lik odrastao i stoga propisuje određene poglede i filozofije koje bi mogli imati. Praktičnije, kultura pomaže u definisanju vrednosti različitih veština koje oblikuju ukupne sposobnosti vašeg lika. Poluljudske rase generalno potiču iz rasne kulture koja je mnogo stereotipnija za tu rasu u celini. Pogledajte opise rasa i kultura u [Poglavlju 2](0002_Culture_and_Races.md) za više informacija.
 
-Svi likovi imaju Opredeljenje, koje se sastoji od jednog Etičkog i jednog Moralnog koda, kao i dve ili tri Strasti. Neki će imati Zakletvu verskom redu, esnafu ili organizaciji. Svaki opis Klase beleži bilo koje zahtevano Opredeljenje ili Zakletve. Pre nego što nastavite, potražite svoju rasu u [Poglavlju 2](0002_Culture_and_Races.md) i zabeležite predloženo Opredeljenje i Strasti, i proverite odeljak [Klase](0003_Classes.md) da vidite da li postoje bilo kakvi zahtevi za Opredeljenje ili Zakletvu. Pogledajte [Poglavlje 4, Opredeljenje i Strasti](0004_Alignment_and_Passions.md) da biste odredili sve specifičnosti u vezi sa vašim Opredeljenjem, Strastima i Zakletvama, ako ih ima.
+Svi likovi imaju Opredeljenje, koje se sastoji od jednog Etičkog i jednog Moralnog kodeksa, kao i dve ili tri Strasti. Neki će imati Zakletvu verskom redu, cehu ili organizaciji. Svaki opis Klase beleži bilo koje potrebno Opredeljenje ili Zakletvu. Pre nego što nastavite, potražite svoju rasu u [Poglavlju 2](0002_Culture_and_Races.md) i zabeležite predloženo Opredeljenje i Strasti, a takođe proverite odeljak [Klase](0003_Classes.md) i vidite da li postoje neki zahtevi za Opredeljenje ili Zakletvu. Pogledajte [Poglavlje 4, Opredeljenje i Strasti](0004_Alignment_and_Passions.md) da biste odredili sve pojedinosti u vezi sa vašim Opredeljenjem, Strastima i Zakletvama, ako ih ima.
 
-Svaka rasa i kultura navodi niz Standardnih veština koje lik uči kao deo svog formativnog razvoja u tom društvu. Ovo su osnovne sposobnosti koje svi likovi iz iste specifične kulture do određenog stepena poboljšavaju. Likovi takođe uče nekoliko specijalizovanih ili ezoteričnih Profesionalnih veština prema svojim ličnim interesovanjima.
+Svaka rasa i kultura navodi različite Standardne veštine koje lik uči kao deo svog formativnog razvoja unutar tog društva. Ovo su osnovne sposobnosti koje svi likovi iz iste specifične kulture do određenog stepena poboljšavaju. Likovi takođe uče nekoliko specijalizovanih ili ezoteričnih Profesionalnih veština prema svojim ličnim interesovanjima.
 
-Profesionalne veštine su dalje objašnjene u poglavlju [Veštine](0005_Skills.md), ali ukratko one predstavljaju one veštine koje se ne mogu pokušati bez godina rigoroznog proučavanja i specijalizovane obuke. Dok lik ima osnovnu sposobnost u svim Standardnim veštinama, on ima nultu sposobnost u bilo kojoj Profesionalnoj veštini osim ako nije izabrana kao deo njegovog kulturnog vaspitanja ili Klase.
+Profesionalne veštine su dalje objašnjene u poglavlju [Veštine](0005_Skills.md), ali ukratko, one predstavljaju one veštine koje se ne mogu pokušati bez godina rigoroznog učenja i specijalizovane obuke. Dok lik ima osnovnu sposobnost u svim Standardnim veštinama, on ima nultu sposobnost u bilo kojoj Profesionalnoj veštini osim ako nije izabrana kao deo njihovog kulturnog vaspitanja ili Klase.
 
-Izabrane Profesionalne veštine počinju na vrednosti Baznog nivoa Karakteristike prema Standardnim veštinama. Neke Profesionalne veštine kao što su Zanat, Jezici ili Znanja nude izbor specijalizacije. U ovim slučajevima, izabrani specijalitet treba da bude onaj koji odgovara toj kulturi.
+Izabrane Profesionalne veštine počinju od svoje osnovne vrednosti Karakteristike prema Standardnim veštinama. Neke Profesionalne veštine kao što su Zanat, Jezici ili Znanja nude izbor specijalizacije. U ovim slučajevima, izabrani specijalitet treba da bude onaj koji odgovara toj kulturi.
 
 ### Brzi izbori rasnih veština
 
-Brzi izbori pružaju prosečan izbor veština, omogućavajući brzo kreiranje lika. Slobodno zamenite poene, ako želite; međutim, nijedna veština ne može imati bonus manji od +5 ili veći od +15.
+Brzi izbori pružaju prosečan izbor veština, omogućavajući brzo kreiranje lika. Slobodno zamenite bodove ako želite; međutim, nijedna veština ne može imati manje od +5 ili više od +15 bonusa.
 
-##### Tabela brzih rasnih izbora
+##### Tabela brzih izbora rase
 
 | Rasa/Kultura | Standardne veštine | Profesionalne veštine |
 | :-- | :-- | :-- |
-| Čovek (Varvarin, tip Ratnik) | Atletika +10, Snaga +10, Izdržljivost +15, Prva pomoć +5, Lokalitet +10, Percepcija +10, i ili Čamci ili Jahanje +10 | Navigacija +10, Pomorstvo ili Preživljavanje +10, Traganje +10 |
-| Čovek (Varvarin, tip Mudrac) | Atletika +5, Izdržljivost +5, Prva pomoć +15, Lokalitet +15, Percepcija +15, i ili Čamci ili Jahanje +10 | Isceljenje +10, Jezik (bilo koji\*) +10, Znanje (bilo koje) +15 |
-| Čovek (Civilizovan, Ulična pamet) | Prikrivanje +10, Obmana +15, Vožnja +5, Uticaj +10, Uvid +10, Lokalitet +10, Snaga volje +10 | Zanat (bilo koji) +5, Trgovina +10, Ulična snalažljivost +15 |
-| Čovek (Civilizovan, Knjiška pamet) | Prikrivanje +5, Obmana +5, Vožnja +5, Uticaj +10, Uvid +15, Lokalitet +15, Snaga volje +10 | Trgovina +10, Jezik (bilo koji\*) ili Znanje (bilo koje) +10, Znanje (bilo koje) ili Muziciranje +15 |
-| Čovek (Nomad, tip Ratnik) | Izdržljivost +10, Prva pomoć +5, Lokalitet +5, Percepcija +10, Prikradanje +10, i dve od sledećih, po +15 svaka: Atletika, Čamci, Vožnja, Jahanje ili Plivanje (u zavisnosti od primarnog načina putovanja) | Navigacija +10, Preživljavanje +10, Traganje +10 |
-| Čovek (Nomad, tip Mudrac) | Izdržljivost +5, Prva pomoć +15, Lokalitet +10, Znanje (bilo koje) +15, Percepcija +10, Prikradanje +5, i dve od sledećih, po +5 svaka: Atletika, Čamci, Vožnja, Jahanje ili Plivanje (u zavisnosti od primarnog načina putovanja) | Isceljenje +10, Jezik (bilo koji\*) +10, Znanje (bilo koje) +10 |
-| Čovek (Primitivan, tip Ratnik) | Snaga +10, Izdržljivost +10, Izbegavanje +10, Lokalitet +5, Percepcija +10, Prikradanje +15, i jedna od: Atletika, Čamci, Prva pomoć ili Plivanje +10 | Preživljavanje +10, Traganje +10; i jedna od: Atletika, Čamci, Prva pomoć, Navigacija ili Plivanje +10 |
-| Čovek (Primitivan, tip Mudrac) | Izdržljivost +5, Izbegavanje +5, Prva pomoć +15, Lokalitet +15, Percepcija +15, Prikradanje +5, i jedna od: Atletika, Čamci ili Plivanje +5 | Isceljenje +10, Jezik (bilo koji\*) +10, Znanje (bilo koje) +15 |
-| Patuljak | Atletika +10, Snaga +15, Izdržljivost +10, Izbegavanje +10, Lokalitet +10, Percepcija +5, Snaga volje +10 | Trgovina ili Mehanizmi +10, Zanat (bilo koji) +10, Preživljavanje +10 |
-| Vilenjak | Prikrivanje +5, Uticaj +10, Uvid +10, Lokalitet +10, Percepcija +15, Prikradanje +10, Snaga volje +10 | Preživljavanje +10, i dve od sledećih, po +10 svaka: Jezik (bilo koji\*\*), Znanje (bilo koje) ili Muziciranje |
-| Gnom | Obmana +10, Izbegavanje +15, Uvid +10, Lokalitet +10, Percepcija +5, Prikradanje +10, Snaga volje +10 | Trgovina +10, Zanat (bilo koji) +10, Mehanizmi ili Preživljavanje +10 |
-| Poluvilenjak (odgajan kao vilenjak) | Prikrivanje +10, Uticaj +10, Uvid +10, Lokalitet +10, Percepcija +10, Prikradanje +10, Snaga volje +10 | Jezik (bilo koji\*\*) +10, Znanje (bilo koje) +10, Muziciranje ili Preživljavanje +10 |
-| Poluvilenjak (odgajan kao čovek) | Izaberite odgovarajući brzi izbor za Čoveka |
-| Poluork (odgajan kao ork) | Atletika +15, Snaga +15, Izdržljivost +15, Izbegavanje +10, Prva pomoć +5, Lokalitet +5, Percepcija +5 | Navigacija +10, Preživljavanje +10, Traganje +10 |
-| Poluork (odgajan kao čovek) | Izaberite odgovarajući brzi izbor za Čoveka |
-| Halfling | Ples ili Pevanje +5, Izbegavanje +15, Uvid +5, Lokalitet +5, Percepcija +15, Prikradanje +15, Snaga volje +15 | Zanat (bilo koji) +10, Muziciranje +5, Ulična snalažljivost +10 |
+| Čovek (Varvarin, Tip ratnika) | Atletika +10, Snaga +10, Izdržljivost +15, Prva pomoć +5, Lokalno znanje +10, Percepcija +10 i Veslanje ili Jahanje na +10 | Navigacija +10, Pomorstvo ili Preživljavanje +10, Praćenje +10 |
+| Čovek (Varvarin, Mudrac) | Atletika +5, Izdržljivost +5, Prva pomoć +15, Lokalno znanje +15, Percepcija +15 i Veslanje ili Jahanje na +10 | Isceljenje +10, Jezik (bilo koji\*) +10, Znanje (bilo koje) +15 |
+| Čovek (Civilizovan, Ulični znalac) | Prikrivanje +10, Obmana +15, Upravljanje vozilom +5, Uticaj +10, Uvid +10, Lokalno znanje +10, Snaga volje +10 | Zanat (bilo koji) +5, Trgovina +10, Ulično znanje +15 |
+| Čovek (Civilizovan, Knjiški znalac) | Prikrivanje +5, Obmana +5, Upravljanje vozilom +5, Uticaj +10, Uvid +15, Lokalno znanje +15, Snaga volje +10 | Trgovina +10, Jezik (bilo koji\*) ili Znanje (bilo koje) +10, Znanje (bilo koje) ili Muzičarstvo +15 |
+| Čovek (Nomad, Tip ratnika) | Izdržljivost +10, Prva pomoć +5, Lokalno znanje +5, Percepcija +10, Prikradanje +10 i dve od sledećih, po +15 svaka: Atletika, Veslanje, Upravljanje vozilom, Jahanje ili Plivanje (zavisno od primarnog načina putovanja) | Navigacija +10, Preživljavanje +10, Praćenje +10 |
+| Čovek (Nomad, Mudrac) | Izdržljivost +5, Prva pomoć +15, Lokalno znanje +10, Znanje (bilo koje) +15, Percepcija +10, Prikradanje +5 i dve od sledećih, jedna po +5 svaka: Atletika, Veslanje, Upravljanje vozilom, Jahanje ili Plivanje (zavisno od primarnog načina putovanja) | Isceljenje +10, Jezik (bilo koji\*) +10, Znanje (bilo koje) +10 |
+| Čovek (Primitivan, Tip ratnika) | Snaga +10, Izdržljivost +10, Izmicanje +10, Lokalno znanje +5, Percepcija +10, Prikradanje +15 i jedna od: Atletika, Veslanje, Prva pomoć ili Plivanje na +10 | Preživljavanje +10, Praćenje +10; i jedna od: Atletika, Veslanje, Prva pomoć, Navigacija ili Plivanje na +10 |
+| Čovek (Primitivan, Mudrac) | Izdržljivost +5, Izmicanje +5, Prva pomoć +15, Lokalno znanje +15, Percepcija +15, Prikradanje +5 i jedna od: Atletika, Veslanje ili Plivanje na +5 | Isceljenje +10, Jezik (bilo koji\*) +10, Znanje (bilo koje) +15 |
+| Patuljak | Atletika +10, Snaga +15, Izdržljivost +10, Izmicanje +10, Lokalno znanje +10, Percepcija +5, Snaga volje +10 | Trgovina ili Mehanizmi +10, Zanat (bilo koji) +10, Preživljavanje +10 |
+| Vilenjak | Prikrivanje +5, Uticaj +10, Uvid +10, Lokalno znanje +10, Percepcija +15, Prikradanje +10, Snaga volje +10 | Preživljavanje +10 i dve od sledećih, po +10 svaka: Jezik (bilo koji\*\*), Znanje (bilo koje) ili Muzičarstvo |
+| Patuljak (Gnom) | Obmana +10, Izmicanje +15, Uvid +10, Lokalno znanje +10, Percepcija +5, Prikradanje +10, Snaga volje +10 | Trgovina +10, Zanat (bilo koji) +10, Mehanizmi ili Preživljavanje +10 |
+| Poluvilenjak (Odgajan kao vilenjak) | Prikrivanje +10, Uticaj +10, Uvid +10, Lokalno znanje +10, Percepcija +10, Prikradanje +10, Snaga volje +10 | Jezik (bilo koji\*\*) +10, Znanje (bilo koje) +10, Muzičarstvo ili Preživljavanje +10 |
+| Poluvilenjak (Odgajan kao čovek) | Izaberite odgovarajući Brzi izbor za čoveka |
+| Poluork (Odgajan kao ork) | Atletika +15, Snaga +15, Izdržljivost +15, Izmicanje +10, Prva pomoć +5, Lokalno znanje +5, Percepcija +5 | Navigacija +10, Preživljavanje +10, Praćenje +10 |
+| Poluork (Odgajan kao čovek) | Izaberite odgovarajući Brzi izbor za čoveka |
+| Halfling | Ples ili Pevanje +5, Izmicanje +15, Uvid +5, Lokalno znanje +5, Percepcija +15, Prikradanje +15, Snaga volje +15 | Zanat (bilo koji) +10, Muzičarstvo +5, Ulično znanje +10 |
 
-_\* Ljudi nisu ograničeni u izboru jezika tokom kreiranja lika ako mogu opravdati izbor._
+_\* Ljudi nisu ograničeni u izboru jezika tokom kreiranja lika ako mogu da opravdaju izbor._
 
-_\*\* Tokom kreiranja lika, dodatni jezici su ograničeni na gnomski, halfling, goblinski, hobgoblinski, orkski i gnolski._
+_\*\* Tokom kreiranja lika, dodatni jezici su ograničeni na gnomski, halflinški, goblinski, hobgoblinski, orkovski i gnolski._
 
 
-### Kupovina rasnih veština poenima
+### Kupovina rasnih veština bodovima
 
-Opciono, možete potrošiti poene da prilagodite specifičan koncept lika. Ovo omogućava prilagođenijeg lika po cenu vremena. Prilikom primene Veština izvršite sledeće korake:
+Opciono, možete potrošiti bodove da prilagodite specifičan koncept lika. Ovo omogućava prilagođenijeg lika po cenu vremena. Kada primenjujete veštine, izvršite sledeće korake:
 
 - Izaberite tri Profesionalne veštine iz ponuđenih opcija (Pogledajte [Poglavlje 2](0002_Culture_and_Races.md) za opise rasa).
-- Rasporedite 100 poena između navedenih Standardnih veština i izabranih Profesionalnih veština, povećavajući tu veštinu za 1% za svaki poen potrošen na njeno poboljšanje. Igrači su slobodni da izaberu koliko se svaka veština poboljšava, ali svaka veština mora dobiti minimum od 5% i ne može dobiti više od 15%.
+- Rasporedite 100 bodova između navedenih Standardnih veština i izabranih Profesionalnih veština, povećavajući tu veštinu za 1% za svaki bod potrošen na njeno poboljšanje. Igrači su slobodni da izaberu koliko se svaka veština poboljšava, ali svaka veština mora primiti najmanje 5% i ne može primiti više od 15%.
 
 ---
 ## Korak 6: Klasa
 
-Klasa predstavlja karijeru na koju je lik krenuo kao deo tranzicije u odraslo doba, i ona dalje definiše razvoj veština lika.
+Klasa predstavlja karijeru kojom je lik krenuo kao deo tranzicije u odraslo doba i ona dalje definiše razvoj veština lika.
 
-Igrači su obično slobodni da izaberu koju Klasu žele da njihov lik igra pod uslovom da Gejm Master to smatra prikladnim. Opisi Klasa daju neke smernice o uobičajenim Klasama dostupnim za svaki tip rase/kulture. Ovo treba posmatrati kao uobičajene reprezentacije, a ne kao ograničenja. Igrači treba da se osećaju slobodno da igraju bilo koju kombinaciju Klasa/Rasa koja najbolje odgovara njihovoj viziji.
+Igrači su obično slobodni da izaberu koju Klasu žele da njihov lik igra pod pretpostavkom da Gospodar igre smatra da je to prikladno. Opisi Klasa daju neke smernice u pogledu uobičajenih Klasa dostupnih za svaki tip rase/kulture. Ovo treba posmatrati kao uobičajene reprezentacije, a ne kao ograničenja. Igrači treba da se osećaju slobodno da igraju bilo koju kombinaciju Klase/Rase koja najbolje odgovara njihovoj viziji.
 
-Kao i rasne/kulturne pozadine, svaka Klasa nudi priliku za poboljšanje niza Standardnih i Profesionalnih veština koje se obično koriste u tom zanimanju. Za razliku od kulturnih pozadina, likovi ne moraju da ulažu svoje poene u svaku dostupnu veštinu, već mogu prilagoditi koje će uzeti kao one koje odgovaraju njihovoj specifičnoj ulozi ili Kulturi.
+Kao i rasne/kulturne pozadine, svaka Klasa nudi šansu za poboljšanje niza Standardnih i Profesionalnih veština koje se često koriste u tom zanimanju. Za razliku od kulturnih pozadina, likovi ne moraju ulagati svoje bodove u svaku dostupnu veštinu, već mogu prilagoditi koje će uzeti kao one koje odgovaraju njihovoj specifičnoj ulozi ili Kulturi.
 
-### Brzi izbori klasnih veština
+### Brzi izbori veština Klase
 
-Izaberite Brzi izbor Klase za prosečan izbor veština korisnih za dotičnu Klasu. Slobodno zamenite poene, ako želite; međutim, dok se veština može smanjiti na +0, funkcionišući na Baznom nivou (uključujući Profesionalne veštine), nijedna veština ne može imati bonus veći od +15. Ove veštine već uključuju sve bonuse Klasnih veština iz Sposobnosti.
+Izaberite Brzi izbor Klase za prosečan izbor veština korisnih za dotičnu Klasu. Slobodno zamenite bodove ako želite; međutim, dok se veština može smanjiti na +0, funkcionišući na Osnovnom nivou (uključujući Profesionalne veštine), nijedna veština ne može imati više od +15 bonusa. Ove veštine već uključuju sve bonuse veština Klase od Sposobnosti.
 
-##### Tabela brzih klasnih izbora
+##### Tabela brzih izbora Klase
 
 | Klasa | Standardne veštine | Profesionalne veštine |
 | :-- | :-- | :-- |
-| Klerik | Borbena veština (Klerik) +15; Prva pomoć +5; Uticaj +5; Uvid +10; Snaga volje +15 | Kanalisanje +15; Učtivost +10; Predanost (božanstvo) +15; Znanje (Religija) +5 i jedna od sledećih po +5: Jezik (bilo koji), Znanje (bilo koje) ili Oratorstvo |
-| Borac | Atletika +10; Čamci ili Jahanje +5; Snaga +15; Borbena veština (Borac) +20\*\*; Izdržljivost +15; Izbegavanje +10; Nenaoružana borba +15\*\* | Zastrašivanje +10; i dve od sledećih po +5: Kockanje, Preživljavanje ili Navigacija |
-| Korisnik magije | Izbegavanje +10; Prva pomoć +5; Uticaj +5; Uvid +5; Lokalitet +5; Percepcija +5; Snaga volje +15 | Arkana +15; Arkana znanja +15; Jezik (bilo koji) +5; Jezik (bilo koji) ili Znanje (bilo koje) +5; Znanje (Alhemija) +10 |
-| Lopov | Atletika +15; Borbena veština (Lopov) +10; Obmana +5; Izbegavanje +15; Uvid +5; Percepcija +5; Prikradanje +15 | Jezik (Lopovski žargon) +40\*\*\*; Obijanje +10; Mehanizmi +10; i dve od sledećih po +5: Akrobatika, Gluma, Trgovina, Maskiranje, Zastrašivanje, Zavođenje, Spretnost ruku ili Ulična snalažljivost |
+| Klerik | Borbena veština (Klerik) +15; Prva pomoć +5; Uticaj +5; Uvid +10; Snaga volje +15 | Kanalisanje +15; Učtivost +10; Predanost (božanstvo) +15; Znanje (Religija) +5 i jedna od sledećih na +5: Jezik (bilo koji), Znanje (bilo koje) ili Oratorstvo |
+| Borac | Atletika +10; Veslanje ili Jahanje +5; Snaga +15; Borbena veština (Borac) +20\*\*; Izdržljivost +15; Izmicanje +10; Nenoružana borba +15\*\* | Zastrašivanje +10; i dve od sledećih na +5: Kockanje, Preživljavanje ili Navigacija |
+| Mag | Izmicanje +10; Prva pomoć +5; Uticaj +5; Uvid +5; Lokalno znanje +5; Percepcija +5; Snaga volje +15 | Arkansko bacanje +15; Arkansko znanje +15; Jezik (bilo koji) +5; Jezik (bilo koji) ili Znanje (bilo koje) +5; Znanje (Alhemija) +10 |
+| Odmetnik | Atletika +15; Borbena veština (Odmetnik) +10; Obmana +5; Izmicanje +15; Uvid +5; Percepcija +5; Prikradanje +15 | Jezik (Lopovski žargon) +40\*\*\*; Obijanje brava +10; Mehanizmi +10; i dve od sledećih na +5: Akrobatika, Gluma, Trgovina, Maskiranje, Zastrašivanje, Zavođenje, Prevara ili Ulično znanje |
 
-_\* Stečeno na Baznom nivou._
+_\* Stečeno na Osnovnom nivou._
 
-_\*\* Uključuje +5 bonus za Borbenu stručnost._
+_\*\* Uključuje +5 bonus Borbene stručnosti._
 
-_\*\*\* Stečeno na Baznom nivou, primenjen bonus od +40%._
+_\*\*\* Stečeno na Osnovnom nivou, primenjen bonus od +40%._
 
-### Kupovina klasnih veština poenima
+### Kupovina veština Klase bodovima
 
-Opciono, možete potrošiti poene da prilagodite specifičan koncept lika. Kao iznad, ovo omogućava prilagođenijeg lika po cenu vremena. Likovi koji koriste ovaj metod razvijaju svoje Klasne veštine na sledeći način:
+Opciono, možete potrošiti bodove da prilagodite specifičan koncept lika. Kao gore, ovo omogućava prilagođenijeg lika po cenu vremena. Likovi koji koriste ovaj metod razvijaju svoje veštine Klase na sledeći način:
 
-- Izaberite do 3 veštine iz Profesionalnih veština dostupnih toj Klasi.
-- Rasporedite 100 poena između navedenih Standardnih veština Klase i svih izabranih Profesionalnih veština, povećavajući svaku veštinu za 1% za svaki poen potrošen na njeno poboljšanje. Nije potrebno poboljšati sve dostupne veštine, ali nijedna pojedinačna veština ne može dobiti povećanje veće od 15%. Neke Klase daju više od 3 Profesionalne veštine, ali nikada više poena.
-- Sve Klase uključuju Borbenu veštinu koja obuhvata oružja u čijem korišćenju je ta Klasa obično obučena. Ovo može biti svega 4 ili 5 jednostavnih oružja kao u slučaju korisnika magije, do svih oružja i štitova kao u slučaju borca. Gde je Borbena veština uključena u listu Standardnih veština, ona se tretira kao takva i može se poboljšati sa Poenima klasnih veština. Gde je Borbena veština izostavljena, kao što je slučaj kod korisnika magije, ona se može poboljšati samo korišćenjem Bonus poena veština tokom Koraka 7 kreiranja lika.
+- Izaberite do 3 veštine iz Profesionalnih veština dostupnih za tu Klasu.
+- Rasporedite 100 bodova između navedenih Standardnih veština Klase i svih izabranih Profesionalnih veština, povećavajući svaku veštinu za 1% za svaki bod potrošen na njeno poboljšanje. Ne moraju se poboljšati sve dostupne veštine, ali nijedna pojedinačna veština ne može primiti povećanje veće od 15%. Neke Klase daju više od 3 Profesionalne veštine, ali nikada više bodova.
+- Sve Klase uključuju Borbenu veštinu koja obuhvata oružja u čijoj upotrebi je Klasa obično obučena. Ovo može biti svega 4 ili 5 jednostavnih oružja kao u slučaju maga, do svih oružja i štitova kao u slučaju borca. Tamo gde je Borbena veština uključena u listu Standardnih veština, ona se tretira kao takva i može se poboljšati bodovima veštine Klase. Tamo gde je Borbena veština izostavljena, kao što je slučaj sa magom, može se poboljšati samo korišćenjem Bonus bodova veština tokom Koraka 7 kreiranja lika.
 
-Novoizabrane Profesionalne veštine i Borbena veština Klase počinju na njihovoj vrednosti Baznog nivoa Karakteristike. Izbor Profesionalne veštine prethodno stečene putem kulturne pozadine jednostavno omogućava liku da dalje primeni neke od svojih Poena klasnih veština u ovoj fazi. Neke od ovih veština, kao što su Zanat, Jezik ili Znanje, nude izbor specijalizacije. U ovim slučajevima, izabrani specijalitet treba da bude onaj koji odgovara kulturi lika.
+Novoizabrane Profesionalne veštine i Borbena veština Klase počinju od svoje osnovne vrednosti Karakteristike. Izbor Profesionalne veštine prethodno stečene putem kulturne pozadine jednostavno omogućava liku da dalje primeni neke od svojih bodova veštine Klase u ovoj fazi. Neke od ovih veština, kao što su Zanat, Jezik ili Znanje, nude izbor specijalizacije. U ovim slučajevima, izabrani specijalitet treba da bude onaj koji odgovara kulturi lika.
 
-Određene Klase mogu imati ili više veština za izbor ili mogu izabrati više veština od drugih. Ovo je balansirano činjenicom da su svi likovi i dalje izgrađeni sa istih 100 poena. Dakle, lik sa više veština će na kraju morati da rasporedi svoje poene više tanko znajući pomalo o mnogo čemu, a lik koji ima manje veština za izbor će na kraju biti specijalizovaniji.
+Određene Klase mogu imati ili više veština za izbor ili mogu izabrati više veština od drugih. Ovo je izbalansirano činjenicom da su svi likovi i dalje izgrađeni sa istih 100 bodova. Dakle, lik sa više veština će na kraju morati da rasporedi svoje bodove tanje znajući pomalo o mnogo čemu, a lik koji ima manje veština za izbor će na kraju biti specijalizovaniji.
 
 #### Napomena o sposobnostima Klase i Rangu
 
-Imajte na umu da sve Klase zahtevaju nivo veštine od najmanje _**40% u bilo kojih pet Klasnih veština**_ da bi se koristile posebne Sposobnosti te Klase ili da bi se bacale čini. Smatrate se kompetentnim u veštini sa 50% ili više. Dakle, da bi se kvalifikovao za Rang 1, lik mora posedovati bilo kojih pet Klasnih veština na 40% ili više. Rang 2 zahteva bilo kojih pet Klasnih veština na 70%, Rang 3 zahteva bilo koje četiri Klasne veštine na 90% i tako dalje.
+Imajte na umu da sve Klase zahtevaju nivo veštine od najmanje _**40% u bilo kojih pet veština Klase**_ da bi koristile posebne Sposobnosti te Klase ili da bi bacale čini. Smatrate se kompetentnim u veštini na 50% ili više. Dakle, da bi se kvalifikovao za Rang 1, lik mora posedovati bilo kojih pet veština Klase na 40% ili više. Rang 2 zahteva bilo kojih pet veština Klase na 70%, Rang 3 zahteva bilo koje četiri veštine Klase na 90%, i tako dalje.
 
-Lik može izabrati da započne na Rangu 0 ako nema dovoljan nivo veština i dostići Rang 1 u igri ako želi, ali da bi mogao da koristi ili baca čini, ovi preduslovi moraju biti ispunjeni.
+Lik može izabrati da počne na Rangu 0 ako nema dovoljan nivo veština i dostići Rang 1 tokom igre ako želi, ali da bi mogao da koristi ili baca čini, ovi preduslovi moraju biti ispunjeni.#### Borbena veština (SNA+SPR)
 
-#### Borbena veština (STR+DEX)
+Borbena veština je veština koja se odnosi na borbu i upotrebu oružja. To je raznovrsna veština sa mnogo specijalizacija koje se odnose na pripadajuću klasu lika. Većina borbenih tradicija obuhvata obuku u više oružja iste vrste, zajedno sa tehnikama potrebnim za njihovu efikasnu upotrebu. Prema tome, Borbena veština je krovni pojam koji sjedinjuje mnoge srodne aspekte borbe pod jednom sposobnošću, eliminišući potrebu za sticanjem više pod-veština.
 
-Borbena veština je veština koja se odnosi na borbu i upotrebu oružja. To je raznolika veština sa mnogim specijalizacijama povezanim sa dotičnom Klasom lika. Većina borbenih tradicija obuhvata obuku u više oružja iste vrste, zajedno sa tehnikama potrebnim da se sva efikasno koriste. Stoga, Borbena veština je kišobran koji spaja mnoge povezane aspekte borbe pod jednom sposobnošću, uklanjajući potrebu za kupovinom više pod-veština.
+Borbena veština ima osnovni procenat jednak SNA+SPR.
 
-Borbena veština ima Bazni procenat jednak STR+DEX.
+Pošto većina ljudi može da uzme oružje i instinktivno njime zamahne, baci ga ili opali, Borbena veština se smatra standardnom veštinom. Ipak, zbog njihove potencijalno raznolike prirode, one se kategorišu i definišu odvojeno.
 
-Pošto većina ljudi može da uzme oružje i instinktivno njime zamahne, baci ga ili opali, Borbena veština se smatra Standardnom veštinom. Ipak, zbog njihove potencijalno raznolike prirode, one su kategorisane i definisane odvojeno.
-
-Svi likovi uče svoju Borbenu veštinu kao deo svoje izabrane Klase, kao što je opisano u [Poglavlju 3](0003_Classes.md).
+Svi likovi uče svoju Borbenu veštinu kao deo svoje izabrane klase, kako je opisano u [Poglavlju 3](0003_Classes.md).
 
 ---
 ## Korak 7: Bonus poeni veština
 
-U ovoj fazi, svaki lik dobija dodatni fond 'besplatnih' Poena veština na osnovu Nivoa iskustva, koji se mogu rasporediti između postojećih veština. Oni su obezbeđeni da zaokruže lika, dodajući interesovanja ili oblasti stručnosti. Podrazumevano za sveže početne likove je fond od 100 poena, sa ograničenjem dodeljivanja ne više od 10 poena po veštini. Ako su likovi iskusniji, tada će se broj Poena veština i ograničenja razlikovati, kao što je naznačeno u Tabeli iskustva.
+U ovoj fazi, svaki lik dobija dodatni fond „slobodnih“ poena veština na osnovu nivoa iskustva, koji se mogu rasporediti među postojećim veštinama. Oni služe za zaokruživanje lika, dodajući interesovanja ili oblasti stručnosti. Podrazumevana vrednost za nove likove početnike je fond od 100 poena, uz ograničenje da se ne može dodeliti više od 10 poena po veštini. Ako su likovi iskusniji, tada će se broj poena veština i ograničenja razlikovati, kao što je naznačeno u Tabeli iskustva.
 
 Bonus poeni veština se koriste na sledeće načine:
 
-- Omogućiti liku opciju da izabere jednu finalnu novu Profesionalnu veštinu besplatno, odražavajući lični hobi ili interesovanje.
+- Daju liku mogućnost izbora jedne konačne nove profesionalne veštine besplatno, što odražava lični hobi ili interesovanje.
 - Alternativno, lik može dodati novu vrstu oružja svojoj Borbenoj veštini.
-- Ili dodati bonus od +10 na deset različitih veština, ili rasporediti poene između njih, povećavajući svaku veštinu za 1% za svaki poen potrošen na njeno poboljšanje. Nijedna pojedinačna veština ne može dobiti više poena nego što je naznačeno njihovim Nivoom iskustva. Ako izaberete novu Profesionalnu veštinu, morate joj dodati poene.
-- Osim za opcioni hobi specijalitet, poeni se ne mogu dodeliti Profesionalnim veštinama koje nisu naučene kao deo njihove kulture ili Klase.
+- Dodajte bonus od +10 na deset različitih veština ili rasporedite poene između njih, povećavajući svaku veštinu za 1% za svaki potrošeni poen. Nijedna pojedinačna veština ne može dobiti više poena nego što je naznačeno njihovim nivoom iskustva. Ako izaberete novu profesionalnu veštinu, morate joj dodati poene.
+- Osim za opcionalnu specijalnost hobija, nikakvi poeni se ne mogu dodeliti profesionalnim veštinama koje nisu naučene kao deo njihove kulture ili klase.
 
 ### Kreiranje iskusnih likova
 
-Preporučuje se da početni likovi počnu sveži, na Rangu 1, sa malo ili bez praktičnog iskustva. Naravno, nivo likova će u velikoj meri zavisiti od okruženja i od toga da li će igra biti kratka avantura ili dugotrajna kampanja. Takođe je uobičajeno da igrač kreira iskusnijeg lika ako zamenjuje onog koji je umro u igri ili kada se pridružuje postojećoj kampanji.
+Preporučuje se da likovi početnici počnu od nule, na Rangu 1, sa malo ili nimalo praktičnog iskustva. Naravno, nivo likova će u velikoj meri zavisiti od okruženja i od toga da li će igra biti kratka avantura ili dugotrajna kampanja. Takođe je uobičajeno da igrač kreira iskusnijeg lika ako zamenjuje onog koji je poginuo tokom igre ili kada se pridružuje postojećoj kampanji.
 
-Obezbeđena je tabela koja razbija iskustvo u Kategorije iskustva. Iskustvo lika ima direktnu korelaciju sa godinama i kompetencijom veština; iskusniji likovi prirodno imaju više životnog iskustva od svojih mlađih kolega. Međutim, zabeleženi Bonus za godine treba tretirati kao približan, jer kampanje napreduju različitim brzinama — neke kampanje imaju puno vremena igre između avantura dok su druge jedan dugačak niz neprekidnih avantura. Kada konvertujete postojećeg lika, jednostavno zamenite stvarne godine onima zabeleženim ispod.
+Data je tabela koja deli iskustvo na kategorije iskustva. Iskustvo lika je u direktnoj korelaciji sa godinama i kompetencijom u veštinama; iskusniji likovi prirodno imaju više životnog iskustva od svojih mlađih saboraca. Međutim, naznačeni bonus na godine treba tretirati kao približan, jer kampanje napreduju različitim brzinama — u nekim kampanjama prolazi mnogo vremena u igri između avantura, dok su druge jedan dugačak niz neprekidnih avantura. Prilikom konvertovanja postojećeg lika, jednostavno zamenite stvarne godine onima koje su navedene ispod.
 
-Ova tabela se takođe može koristiti za NPC-ove, bilo da su građeni korišćenjem Klase ili karijere, i prati ista pravila. Postoji jedan izuzetak: NPC-ovi građeni kao deo karijere nemaju posebne Sposobnosti, uključujući dodatne Poene sreće, koji su rezervisani samo za likove igrača i značajne NPC-ove. Imajte na umu da je početni NPC građen kao karijera podrazumevano Rang 1.
+Ova tabela se takođe može koristiti za neigrive likove (NPC), bilo da su kreirani koristeći klasu ili karijeru, i prati ista pravila. Postoji jedan izuzetak: neigrivi likovi kreirani kao deo karijere nemaju posebne sposobnosti, uključujući dodatne poene sreće, koji su rezervisani samo za likove igrača i značajne neigrive likove. Napomena: početni NPC kreiran kao karijera je podrazumevano Rank 1.
 
 ##### Tabela iskustva
 
-| Rang (Nivo\*) | Godine | Bonus poeni veština | Maksimalno povećanje veštine | Prosečan nivo veštine\*\* | Napredovanje |
+| Rank (Nivo*) | Godine | Bonus poeni veština | Maksimalno povećanje veštine | Prosečan nivo veštine** | Napredovanje |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Rang 1 (1-4): _Svež_ | Po vrsti | 100 | +10 | 40-60 | Bilo kojih 5 Klasnih veština na 40% |
-| Rang 2 (5-9): _Nizak nivo_ | +1d6 | 300 | +30 | 65-75 | Bilo kojih 5 Klasnih veština na 70% |
-| Rang 3 (10-14): _Srednji nivo_ | +1d6+5 | 500 | +50 | 85-95 | Bilo koje 4 Klasne veštine na 90% |
-| Rang 4 (15-19): _Visok nivo_ | +1d6+10 | 700 | +70 | 105-115 | Bilo koje 3 Klasne veštine na 110% |
-| Rang 5 (20+): _Epski nivo_ | +1d6+20 | 900 | +90 | 125-135 | Bilo koje 2 Klasne veštine na 130% |
+| Rank 1 (1-4): _Svež_ | Prema vrsti | 100 | +10 | 40-60 | Bilo kojih 5 klasnih veština na 40% |
+| Rank 2 (5-9): _Nizak nivo_ | +1d6 | 300 | +30 | 65-75 | Bilo kojih 5 klasnih veština na 70% |
+| Rank 3 (10-14): _Srednji nivo_ | +1d6+5 | 500 | +50 | 85-95 | Bilo koje 4 klasne veštine na 90% |
+| Rank 4 (15-19): _Visok nivo_ | +1d6+10 | 700 | +70 | 105-115 | Bilo koje 3 klasne veštine na 110% |
+| Rank 5 (20+): _Epski nivo_ | +1d6+20 | 900 | +90 | 125-135 | Bilo koje 2 klasne veštine na 130% |
 
-_\* Broj u zagradi se može koristiti kao merilo pri konvertovanju postojećih likova iz igara zasnovanih na nivou._
+_\* Broj u zagradi se može koristiti kao merilo pri konvertovanju postojećih likova iz igara zasnovanih na nivoima._
 
-_\*\* Ovo je prosečan nivo veštine bilo kojih veština od posebnog značaja za dotičnu Klasu._
+_\*\* Ovo je prosečan nivo veštine bilo koje veštine od posebnog značaja za dotičnu klasu._
 
 **Napomene uz Tabelu iskustva**
 
-- Rang je grub opisni vodič za poređenje likova različitih nivoa veština.
-- Godine se određuju izračunavanjem starosti prema vrsti i dodavanjem bilo kog zabeleženog bonusa. To je više smernica nego čvrsto pravilo, jer vreme prolazi drugačije od kampanje do kampanje.
-- Bonus poeni veština određuju koliko poena lik mora potrošiti na razvoj veština. Ovo NIJE kumulativno sa onima iz prethodnih rangova. Na primer, lik ranga 2 je izgrađen sa 300 poena, a ne 300 poena plus 100 iz Ranga 1.
-- Maksimalno povećanje veštine ograničava koliko se Bonus poena može primeniti na bilo koju jednu Veštinu.
-- Prosečan nivo veštine pokazuje tipičan raspon za najvažnije Klasne veštine lika na svakom Nivou iskustva. Uključeno je radi reference i pretpostavlja Bazni nivo Karakteristika od 16, sa maksimalnim Poenima veština potrošenim tokom svakog koraka. Stvarni rezultati će varirati.
-- Napredovanje: Ovo predstavlja broj Klasnih veština potrebnih za dostizanje zabeleženog Ranga. Na primer, da bi se dostigao Rang 3, bilo koje četiri od Klasnih veština zabeleženih u relevantnom opisu Klase moraju biti najmanje 90%.
+- Rank je grub opisni vodič za poređenje likova različitih nivoa veština.
+- Godine se određuju izračunavanjem starosti prema vrsti i dodavanjem bilo kog naznačenog bonusa. To je više smernica nego strogo pravilo, jer vreme prolazi različito od kampanje do kampanje.
+- Bonus poeni veština određuju koliko poena lik mora da potroši na razvijanje veština. Ovo se NE sabira sa poenima iz prethodnih rangova. Na primer, Rank 2 lik se kreira sa 300 poena, a ne 300 poena plus 100 iz Ranka 1.
+- Maksimalno povećanje veštine ograničava koliko bonus poena se može primeniti na jednu veštinu.
+- Prosečan nivo veštine pokazuje tipičan opseg za najvažnije veštine lika vezane za klasu na svakom nivou iskustva. Uključeno je radi reference i pretpostavlja osnovne karakteristike nivoa 16, uz maksimalno utrošene poene veština tokom svakog koraka. Stvarni rezultati će varirati.
+- Napredovanje: Ovo predstavlja broj klasnih veština potrebnih za postizanje naznačenog Ranka. Na primer, da biste postigli Rank 3, bilo koje četiri od klasnih veština navedenih u relevantnom opisu klase moraju biti najmanje 90%.
 
 ---
 ## Korak 8: Konačno...
 
-- Odredite svoje Opredeljenje i Strasti na osnovu izabrane Kulture/Rase i Klase. Pogledajte [Poglavlje 4](0004_Alignment_and_Passions.md).
-- Zabeležite sve Početne sposobnosti iz vaše Rase i Klase.
-- Pod Rangiranim sposobnostima, izaberite jednu Sposobnost Klase Ranga 1 za koju ispunjavate uslove, bez troška u bacanjima iskustva.
-- Prepišite početnu opremu kao što je navedeno na kraju vašeg opisa Klase.
-- Ne zaboravite da date ime svom liku. Takođe, potražite načine za uspostavljanje veza sa drugim likovima ako želite.
-
---- DOCUMENT END ---
+- Odredite svoje opredeljenje i strasti na osnovu vaše izabrane kulture/rase i klase. Pogledajte [Poglavlje 4](0004_Alignment_and_Passions.md).
+- Zabeležite sve početne sposobnosti od vaše rase i klase.
+- Pod rangiranim sposobnostima, izaberite jednu klasnu sposobnost Ranka 1 za koju ispunjavate uslove, bez troškova u bacanjima za iskustvo (EXP).
+- Prepišite početnu opremu kako je naznačeno na kraju vašeg opisa klase.
+- Ne zaboravite da date svom liku ime. Takođe, potražite načine da uspostavite veze sa drugim likovima ako želite.
