@@ -1,4 +1,0 @@
-- [Ngarep](/)
-- [Cara Nganggo](HowTo.md)
-- [Log Pangowahan](Changelog.md)
-- [GitHub](https://github.com/raleel/cfi-srd)
