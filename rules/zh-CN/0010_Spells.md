@@ -1,60 +1,60 @@
-# 第十章：法术
+# 第 10 章：法术
 
 ---
 ### 牧师法术列表
 
-| 等级 0 | 等级 1 | 等级 2 | 等级 3 | 等级 4 | 等级 5 |
+| 位阶 0 | 位阶 1 | 位阶 2 | 位阶 3 | 位阶 4 | 位阶 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Avert (规避)](0010_Spells.md?id=avert) | [Bless (R) (祝福)](0010_Spells.md?id=bless-r) | [Augury (神示)](0010_Spells.md?id=augury) | [Cure Major Wounds (R) (重伤治愈)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier (刃之障壁)](0010_Spells.md?id=blade-barrier) | [Astral Spell (星界法术)](0010_Spells.md?id=astral-spell) |
-| [Befuddle (迷惑)](0010_Spells.md?id=befuddle) | [Command (命令)](0010_Spells.md?id=command) | [Chant (圣咏)](0010_Spells.md?id=chant) | [Divination (占卜)](0010_Spells.md?id=divination) | [Confusion (混乱)](0010_Spells.md?id=confusion) | [Control Weather (气象控制)](0010_Spells.md?id=control-weather) |
-| [Calm (镇静)](0010_Spells.md?id=calm) | [Create Food and Water (创造食物与水)](0010_Spells.md?id=create-food-and-water) | [Continual Light (永恒光亮)](0010_Spells.md?id=continual-light) | [Exorcism (驱魔)](0010_Spells.md?id=exorcism) | [Heal (R) (完全治愈)](0010_Spells.md?id=heal-r) | [Earthquake (地震)](0010_Spells.md?id=earthquake) |
-| [Coordination (协调)](0010_Spells.md?id=coordination) | [Cure Fatigue (R) (疲劳治愈)](0010_Spells.md?id=cure-fatigue-r) | [Cure Disease (R) (疾病治愈)](0010_Spells.md?id=cure-disease-r) | [Free Action (自由行动)](0010_Spells.md?id=free-action) | [Part Water (分水)](0010_Spells.md?id=part-water) | [Gate (传送门)](0010_Spells.md?id=gate) |
-| [Deflect (偏转)](0010_Spells.md?id=deflect) | [Cure Minor Wounds (R) (轻伤治愈)](0010_Spells.md?id=cure-minor-wounds-r) | [Cure Serious Wounds (R) (严重治愈)](0010_Spells.md?id=cure-serious-wounds-r) | [Neutralize Poison (R) (中和毒素)](0010_Spells.md?id=neutralize-poison-r) | [Regenerate (R) (再生)](0010_Spells.md?id=regenerate-r) | [Holy Word (R) (圣言)](0010_Spells.md?id=holy-word-r) |
-| [Ironhand (铁手)](0010_Spells.md?id=ironhand) | [Detect Charm (R) (侦测魅惑)](0010_Spells.md?id=detect-charm-r) | [Detect Lie (R) (侦测谎言)](0010_Spells.md?id=detect-lie-r) | [Plane Shift (位面跃迁)](0010_Spells.md?id=plane-shift) | [Speak with Monsters (与怪物交谈)](0010_Spells.md?id=speak-with-monsters) | [Resurrection (R) (复活)](0010_Spells.md?id=resurrection-r) |
-| [Might (巨力)](0010_Spells.md?id=might) | [Detect Evil (R) (侦测邪恶)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic (驱散魔法)](0010_Spells.md?id=dispel-magic) | [Prayer (祈祷)](0010_Spells.md?id=prayer) | [Word of Recall (归还之言)](0010_Spells.md?id=word-of-recall) | [Sun Ray (太阳射线)](0010_Spells.md?id=sun-ray) |
-| [Polish (抛光)](0010_Spells.md?id=polish) | [Detect Magic (侦测魔法)](0010_Spells.md?id=detect-magic) | [Flame Strike (烈焰打击)](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius (R) (防邪恶法阵-10英尺)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
-| [Preserve (保存)](0010_Spells.md?id=preserve) | [Endure Heat/Cold (忍受严寒/酷热)](0010_Spells.md?id=endure-heat-cold) | [Hold Person (定身术)](0010_Spells.md?id=hold-person) | [Protection from Lightning (防雷电)](0010_Spells.md?id=protection-from-lightning) |
-| [Protection (防护)](0010_Spells.md?id=protection) | [Know Alignment (R) (知晓阵营)](0010_Spells.md?id=know-alignment-r) | [Locate Object (R) (定位物品)](0010_Spells.md?id=locate-object-r) | [Raise Dead (R) (死者复苏)](0010_Spells.md?id=raise-dead-r) |
-| [Repair (修复)](0010_Spells.md?id=repair) | [Light (R) (光亮术)](0010_Spells.md?id=light-r) | [Protection from Cold (防寒)](0010_Spells.md?id=protection-from-cold) | [Restoration (复原)](0010_Spells.md?id=restoration) |
-| [Spiritshield (灵体之盾)](0010_Spells.md?id=spiritshield) | [Predict Weather (天气预测)](0010_Spells.md?id=predict-weather) | [Protection from Fire (防火)](0010_Spells.md?id=protection-from-fire) | [True Seeing (真知术)](0010_Spells.md?id=true-seeing) |
-| [Voice (声音)](0010_Spells.md?id=voice) | [Protection from Evil (R) (防邪恶)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse (R) (移除诅咒)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire (火墙/火环)](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| | [Purify Food and Drink (R) (净化饮食)](0010_Spells.md?id=purify-food-and-drink-r) | [Silence (沉默术)](0010_Spells.md?id=silence) |
-| | [Remove Fear (R) (移除恐惧)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer (灵体之锤)](0010_Spells.md?id=spiritual-hammer) |
-| | [Slow Poison (延缓毒发)](0010_Spells.md?id=slow-poison) | [Water Breathing (R) (水下呼吸)](0010_Spells.md?id=water-breathing-r) |
+| [Avert](0010_Spells.md?id=avert) | [Bless (R)](0010_Spells.md?id=bless-r) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds (R)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
+| [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
+| [Calm](0010_Spells.md?id=calm) | [Create Food and Water](0010_Spells.md?id=create-food-and-water) | [Continual Light](0010_Spells.md?id=continual-light) | [Exorcism](0010_Spells.md?id=exorcism) | [Heal (R)](0010_Spells.md?id=heal-r) | [Earthquake](0010_Spells.md?id=earthquake) |
+| [Coordination](0010_Spells.md?id=coordination) | [Cure 疲劳 (R)](0010_Spells.md?id=cure-fatigue-r) | [Cure Disease (R)](0010_Spells.md?id=cure-disease-r) | [自由行动](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
+| [Deflect](0010_Spells.md?id=deflect) | [Cure Minor Wounds (R)](0010_Spells.md?id=cure-minor-wounds-r) | [Cure Serious Wounds (R)](0010_Spells.md?id=cure-serious-wounds-r) | [Neutralize Poison (R)](0010_Spells.md?id=neutralize-poison-r) | [Regenerate (R)](0010_Spells.md?id=regenerate-r) | [Holy Word (R)](0010_Spells.md?id=holy-word-r) |
+| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm (R)](0010_Spells.md?id=detect-charm-r) | [Detect Lie (R)](0010_Spells.md?id=detect-lie-r) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection (R)](0010_Spells.md?id=resurrection-r) |
+| [Might](0010_Spells.md?id=might) | [Detect Evil (R)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
+| [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius (R)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
+| [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
+| [Protection](0010_Spells.md?id=protection) | [Know Alignment (R)](0010_Spells.md?id=know-alignment-r) | [Locate Object (R)](0010_Spells.md?id=locate-object-r) | [Raise 死亡 (R)](0010_Spells.md?id=raise-dead-r) |
+| [Repair](0010_Spells.md?id=repair) | [Light (R)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
+| [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
+| [Voice](0010_Spells.md?id=voice) | [Protection from Evil (R)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse (R)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| | [Purify Food and Drink (R)](0010_Spells.md?id=purify-food-and-drink-r) | [Silence](0010_Spells.md?id=silence) |
+| | [Remove Fear (R)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
+| | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing (R)](0010_Spells.md?id=water-breathing-r) |
 
-*(R) 表示可逆法术。*
+_(R) 表示这是一个可逆转的法术。_
 
 ---
 
 ### 法师法术列表
 
-| 等级 0 | 等级 1 | 等级 2 | 等级 3 | 等级 4 | 等级 5 |
+| 位阶 0 | 位阶 1 | 位阶 2 | 位阶 3 | 位阶 4 | 位阶 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Appraise (鉴定)](0010_Spells.md?id=appraise) | [Armor (护甲)](0010_Spells.md?id=armor) | [Continual Light (永恒光亮)](0010_Spells.md?id=continual-light) | [Charm Monster (怪物魅惑)](0010_Spells.md?id=charm-monster) | [Chain Lightning (连锁闪电)](0010_Spells.md?id=chain-lightning) | [Astral Spell (星界法术)](0010_Spells.md?id=astral-spell) |
-| [Avert (规避)](0010_Spells.md?id=avert) | [Burning Hands (燃烧之手)](0010_Spells.md?id=burning-hands) | [Darkness (黑暗术)](0010_Spells.md?id=darkness) | [Cone of Cold (寒冰锥)](0010_Spells.md?id=cone-of-cold) | [Control Weather (气象控制)](0010_Spells.md?id=control-weather) | [Charm, Mass (群体魅惑)](0010_Spells.md?id=charm-mass) |
-| [Befuddle (迷惑)](0010_Spells.md?id=befuddle) | [Change Appearance (改变外貌)](0010_Spells.md?id=change-appearance) | [Darkvision (黑暗视觉)](0010_Spells.md?id=darkvision) | [Confusion (混乱)](0010_Spells.md?id=confusion) | [Death Spell (死亡法术)](0010_Spells.md?id=death-spell) | [Earthquake (地震)](0010_Spells.md?id=earthquake) |
-| [Chill (R) (寒冷)](0010_Spells.md?id=chill-r) | [Charm Person (人类魅惑)](0010_Spells.md?id=charm-person) | [Detect Evil (R) (侦测邪恶)](0010_Spells.md?id=detect-evil-r) | [Dimension Door (任意门)](0010_Spells.md?id=dimension-door) | [Enchant Item (物品附魔)](0010_Spells.md?id=enchant-item) | [Energy Drain (能量吸取)](0010_Spells.md?id=energy-drain) |
-| [Cleanse (R) (净化)](0010_Spells.md?id=cleanse-r) | [Dancing Lights (舞光术)](0010_Spells.md?id=dancing-lights) | [Detect Invisibility (侦测隐形)](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon (武器附魔)](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast (延时火球术)](0010_Spells.md?id=fireball-delayed-blast) | [Gate (传送门)](0010_Spells.md?id=gate) |
-| [Coordination (协调)](0010_Spells.md?id=coordination) | [Detect Magic (侦测魔法)](0010_Spells.md?id=detect-magic) | [Dispel Magic (驱散魔法)](0010_Spells.md?id=dispel-magic) | [Fear (恐惧术)](0010_Spells.md?id=fear) | [Flesh to Stone (R) (石化术)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower (流星爆)](0010_Spells.md?id=meteor-shower) |
-| [Deflect (偏转)](0010_Spells.md?id=deflect) | [Feather Fall (羽落术)](0010_Spells.md?id=feather-fall) | [Fireball (火球术)](0010_Spells.md?id=fireball) | [Fire Shield (火焰护盾)](0010_Spells.md?id=fire-shield) | [Permanency (永恒术)](0010_Spells.md?id=permanency) | [Power Word – Kill (死亡之言)](0010_Spells.md?id=power-word-kill) |
-| [Dry (干燥)](0010_Spells.md?id=dry) | [Find Familiar (寻找魔宠)](0010_Spells.md?id=find-familiar) | [Fly (飞行术)](0010_Spells.md?id=fly) | [Fumble (笨拙术)](0010_Spells.md?id=fumble) | [Power Word - Blind (致盲之言)](0010_Spells.md?id=power-word-blind) | [Wish (许愿术)](0010_Spells.md?id=wish) |
-| [Frostbite (冻伤)](0010_Spells.md?id=frostbite) | [Floating Disk (漂浮之碟)](0010_Spells.md?id=floating-disk) | [Haste (加速术)](0010_Spells.md?id=haste) | [Ice Storm (冰风暴)](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane (奥术轮回)](0010_Spells.md?id=reincarnation-arcane) |
-| [Glamour (R) (魅惑伪装)](0010_Spells.md?id=glamour-r) | [Identify (辨识术)](0010_Spells.md?id=identify) | [Hold Person (定身术)](0010_Spells.md?id=hold-person) | [Invisibility, Greater (高等隐形)](0010_Spells.md?id=invisibility-greater) |
-| [Glue (粘合)](0010_Spells.md?id=glue) | [Illusion (幻术)](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius (隐形法阵-10英尺)](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other (变身术)](0010_Spells.md?id=polymorph-other) |
-| [Ignite (R) (点火)](0010_Spells.md?id=ignite-r) | [Invisibility (隐形术)](0010_Spells.md?id=invisibility) | [Knock (R) (开锁术)](0010_Spells.md?id=knock-r) | [Polymorph Self (自我变身)](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks (魔术)](0010_Spells.md?id=magic-tricks) | [Know Languages (R) (通晓语言)](0010_Spells.md?id=know-languages-r) | [Know Alignment (R) (知晓阵营)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun (震慑之言)](0010_Spells.md?id=power-word-stun) |
-| [Might (巨力)](0010_Spells.md?id=might) | [Levitate (浮空术)](0010_Spells.md?id=levitate) | [Lightning Bolt (闪电束)](0010_Spells.md?id=lightning-bolt) | [Remove Curse (R) (移除诅咒)](0010_Spells.md?id=remove-curse-r) |
-| [Pet (宠爱)](0010_Spells.md?id=pet) | [Light (R) (光亮术)](0010_Spells.md?id=light-r) | [Locate Object (R) (定位物品)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser (次级法术无效结界)](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polish (抛光)](0010_Spells.md?id=polish) | [Magic Missile (魔法飞弹)](0010_Spells.md?id=magic-missile) | [Mage Lock (法师锁)](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire (火墙/火环)](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| [Preserve (保存)](0010_Spells.md?id=preserve) | [Predict Weather (天气预测)](0010_Spells.md?id=predict-weather) | [Magic Mouth (魔法嘴巴)](0010_Spells.md?id=magic-mouth) | [Wizard Sight (法师之眼)](0010_Spells.md?id=wizard-sight) |
-| [Protection (防护)](0010_Spells.md?id=protection) | [Protection from Evil (R) (防邪恶)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image (镜像术)](0010_Spells.md?id=mirror-image) |
-| [Read Magic (阅读魔法)](0010_Spells.md?id=read-magic) | [Secure Portal (安全传送门)](0010_Spells.md?id=secure-portal) | [Slow (缓慢术)](0010_Spells.md?id=slow) |
-| [Repair (修复)](0010_Spells.md?id=repair) | [Shield (护盾术)](0010_Spells.md?id=shield) | [Water Breathing (R) (水下呼吸)](0010_Spells.md?id=water-breathing-r) |
-| [Tidy (整理)](0010_Spells.md?id=tidy) | [Sleep (睡眠术)](0010_Spells.md?id=sleep) |
-| | [Web (蛛网术)](0010_Spells.md?id=web) |
-| | [Spider Climb (蛛行术)](0010_Spells.md?id=spider-climb) |
+| [Appraise](0010_Spells.md?id=appraise) | [护甲](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
+| [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
+| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
+| [Chill (R)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil (R)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
+| [Cleanse (R)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone (R)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [灵力 Word – Kill](0010_Spells.md?id=power-word-kill) |
+| [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [大失误](0010_Spells.md?id=fumble) | [灵力 Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
+| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
+| [Glamour (R)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
+| [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
+| [Ignite (R)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock (R)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages (R)](0010_Spells.md?id=know-languages-r) | [Know Alignment (R)](0010_Spells.md?id=know-alignment-r) | [灵力 Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse (R)](0010_Spells.md?id=remove-curse-r) |
+| [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object (R)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
+| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
+| [Protection](0010_Spells.md?id=protection) | [Protection from Evil (R)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
+| [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
+| [Repair](0010_Spells.md?id=repair) | [Shield](0010_Spells.md?id=shield) | [Water Breathing (R)](0010_Spells.md?id=water-breathing-r) |
+| [Tidy](0010_Spells.md?id=tidy) | [Sleep](0010_Spells.md?id=sleep) |
+| | [Web](0010_Spells.md?id=web) |
+| | [Spider Climb](0010_Spells.md?id=spider-climb) |
 
-*(R) 表示可逆法术。*
+_(R) 表示这是一个可逆转的法术。_
 
 ---
 
@@ -63,264 +63,266 @@
 ## 法术描述
 
 ---
-#### Appraise (鉴定)
+#### 鉴定 (Appraise)
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 0 | **施法时间：** 1 回合 |
+| **位阶：** 法师 0 | **施法时间：** 1 回合 |
 | **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 1 | **范围：** 接触 |
-| **区域：** 1 件物品 | **抗性：** 无 |
+| **消耗：** 1 | **射程：** 接触 |
+| **范围：** 1 件物品 | **抵抗：** 无 |
 
-“鉴定”允许施法者立即评估物理货物的质量，总计负载（ENC）不超过“物品”单位或SIZ值不超过施法者POW。该法术可判定外观相同的物品是否属于同等或相似质量，或其中是否有一件或多件存在缺陷或品质更高。此法术对有机物无效，仅适用于无生命物体。它也不能指出具体存在何种缺陷或增强，仅能判定是否存在。该法术对于魔法辨识或侦测无用。
+“鉴定”允许对总负重（ENC）或体型（体型）等于施法者灵力（灵力）的实体商品质量进行即时评估。该法术能确定外观相同的物品是否属于相同或相似的质量，或者其中之一是否有瑕疵或质量更高。该法术对有机物无效，仅对无生命物体起作用。它也不能确定具体存在什么瑕疵或增强，仅能确定它们确实存在。它在识别或探测魔法方面毫无用处。
 
 ---
-#### Armor (护甲)
+#### 护甲 (护甲)
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 1 轮 |
+| **位阶：** 法师 1 | **施法时间：** 1 轮 |
 | **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 3 +1/强度等级 | **范围：** 接触 |
-| **区域：** 1 个目标 | **抗性：** 无 |
+| **消耗：** 3 +1/强度 | **射程：** 接触 |
+| **范围：** 1 个目标 | **抵抗：** 无 |
 
-施放此法术后，目标会获得一层隐形的魔法力场，其防护效果等同于鳞甲，为每个受伤部位提供 4 点护甲值。若目标已身穿护甲，则此法术无效。但在其持续时间内，如果魔法护甲提供的保护优于自然护甲，它将取代自然护甲。若对拥有超过 4 点自然护甲的生物施法，则改为在所有部位增加 1 点护甲值。此魔法防护不会阻碍移动或施法。法术将持续存在，直到被魔法驱散，或施法者受到来自单次攻击的 8 点伤害（+1 每增加 1 级强度，见下表）。当然，施法者可随时选择解除法术，且在睡觉前必须解除。
+当施放此法术时，目标将获得一层无形的魔法力场，其防护效果等同于鳞甲，为每个“命中部位”提供 4 点“护甲”。如果对已经身穿护甲的人施放，则无效。但如果该法术的防护效果优于自然护甲，在其持续时间内，它将取代自然护甲。如果对拥有超过 4 点自然护甲的生物施放，它会将所有部位的“护甲”点数增加 1 点。这种魔法防护不会妨碍移动或施法。法术将持续存在，直到被魔法解除，或者施法者在单次攻击中承受了 8 点伤害（每增加一级“强度”额外+1，见下表）。当然，施法者可以在任何时候选择终止法术（如果需要），并且在睡觉时必须这样做。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 变动效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 4 点护甲值；持续至受到单次 8 点伤害 |
-| 2 | 4 | 4 点护甲值；持续至受到单次 9 点伤害 |
-| 3 | 5 | 4 点护甲值；持续至受到单次 10 点伤害 |
-| 4 | 6 | 4 点护甲值；持续至受到单次 11 点伤害 |
-| +1 | +1 | 继续递增 |
+| 1 | 3 | 4 点护甲；持续至受到单次攻击 8 点伤害 |
+| 2 | 4 | 4 点护甲；持续至受到单次攻击 9 点伤害 |
+| 3 | 5 | 4 点护甲；持续至受到单次攻击 10 点伤害 |
+| 4 | 6 | 4 点护甲；持续至受到单次攻击 11 点伤害 |
+| +1 | +1 | 延续进度 |
 
 ---
-#### Astral Spell (星界法术)
+#### 星界法术 (Astral Spell)
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 5，法师 5 | **施法时间：** 2 动作 |
+| **位阶：** 牧师 5，法师 5 | **施法时间：** 2 行动 |
 | **领域：** 星界 | **持续时间：** 见下文 |
-| **消耗：** 3 +1/额外强度 | **范围：** 接触 |
-| **区域：** 见下文 | **抗性：** 不适用 |
+| **消耗：** 3 +1/额外强度 | **射程：** 接触 |
+| **范围：** 见下文 | **抵抗：** 不适用 |
 
-此法术允许施法者及最多 5 名同伴（每增加 1 级强度可多带一人）进入星界。施法时所有人必须接触并形成一个圆圈。旅行者的肉体将留在原位面，通常无法携带任何衣物或装备，除非该物品本身散发魔法灵光；这些物品会转化为其原始形态在星界的对应物。法术持续时间直至施法者意图结束。然而，外部力量（如“驱散魔法”）可能导致其提前终止。杀死施法者的肉体也会提前结束法术，但这有一个不幸的副作用：随同施法者的旅行者将被困在星界。
+此法术允许施法者及最多另外五人（每增加一级强度可多带一人）进入“星界位面”。施法时，所有人必须相互接触并形成一个圆圈。旅行者的躯体将被留在原位面，他们通常不会携带任何衣物或装备，除非该物品本身散发魔法光环；这些物品会转化为其正常形态的星界对应物。持续时间直到施法者希望其结束为止。然而，外部力量（如“解除魔法”）也有可能使其提前结束。杀死施法者的肉体也会导致法术提前结束，尽管这会产生一个不幸的副作用，即困住随同施法者的任何旅行者。
 
 ---
-#### Augury (神示)
+#### 占卜 (Augury)
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 2 分钟 |
+| **位阶：** 牧师 2 | **施法时间：** 2 分钟 |
 | **领域：** 预言 | **持续时间：** 瞬间 |
-| **消耗：** 3/强度等级 | **范围：** 60 英尺 |
-| **区域：** 施法者 | **抗性：** 不适用 |
+| **消耗：** 3/强度 | **射程：** 60 英尺 |
+| **范围：** 施法者 | **抵抗：** 不适用 |
 
-此法术允许施法者判定在未来 30 分钟内采取的特定行动对个人和/或团队的福祉是有益还是有害。判定吉凶需要某种焦点物，最常见的是龙爪或较小的龙骨、珍珠，或价值不低于 100 金币的纯金，且必须将其压碎或熔化。此法术的最大强度为 4。此检定应由游戏主持人（GM）秘密进行，因为施法者永远不应确信结果解读是否正确。
+此法术允许施法者确定在接下来的 30 分钟内采取的特定行动，对个人和/或团队的福祉是有益还是有害。需要某种类型的焦点来辨别预兆，最常见的是龙的爪子或小骨头、一颗珍珠，或价值不低于 100GP 的纯金，且这些物品必须被碾碎或熔化。该法术的最大强度为 4。此掷骰应由游戏主持人进行，因为施法者永远不应确切地知道结果是否被正确解读。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 变动效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | “难能（Formidable）”引导技能检定 |
-| 2 | 6 | “困难（Hard）”引导技能检定 |
-| 3 | 9 | “标准（Standard）”引导技能检定 |
-| 4 | 12 | “简单（Easy）”引导技能检定 |
+| 1 | 3 | 艰巨的“引导”技能掷骰 |
+| 2 | 6 | 困难的“引导”技能掷骰 |
+| 3 | 9 | 标准的“引导”技能掷骰 |
+| 4 | 12 | 简单的“引导”技能掷骰 |
 
-如果占卜检定成功，将获得以下结果之一：
+如果占卜掷骰成功，它将给出以下结果之一：
 
-| 神示结果 | 含义 | 
+| 占卜 | 含义 |
 | :-: | :-- |
 | 是 | 该行动将是有益的 |
 | 否 | 该行动将是有害的 |
 | 是与否 | 该行动既有益也有害 |
 | 无 | 该行动既无益也无害 |
 
-若检定出现“大失败（Fumble）”，游戏主持人应告知与事实相反的结果。
+出现“大失误”时，游戏主持人应告知与现实相反的结果。
 
 ---
-#### Avert (规避)
+#### 规避 (Avert)
 
 (防护系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0，法师 0 | **施法时间：** 瞬间 |
+| **位阶：** 牧师 0，法师 0 | **施法时间：** 瞬间 |
 | **领域：** 防护 | **持续时间：** 瞬间 |
-| **消耗：** 1 | **范围：** 60 英尺 |
-| **区域：** 1 个法术 | **抗性：** 无 |
+| **消耗：** 1 | **射程：** 60 英尺 |
+| **范围：** 1 个法术 | **抵抗：** 无 |
 
-“规避”用于抵消范围内的另一个 0 等级法术。通过使用“反制魔法”反应动作，可以施放“规避”来中和进攻性的 0 等级法术。
+“规避”用于解除射程内的另一个位阶 0 法术。通过使用“反制魔法”的“反应行动”，可以以被动方式施放“规避”来中和进攻性的位阶 0 法术。
 
 ---
-#### Befuddle (迷惑)
+#### 困惑 (Befuddle)
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0，法师 0 | **施法时间：** 1 回合 |
+| **位阶：** 牧师 0，法师 0 | **施法时间：** 1 回合 |
 | **领域：** 魅惑 | **持续时间：** 30 分钟 |
-| **消耗：** 1 | **范围：** 60 英尺 |
-| **区域：** 1 个目标 | **抗性：** 意志 |
+| **消耗：** 1 | **射程：** 60 英尺 |
+| **范围：** 1 个目标 | **抵抗：** 意志力 |
 
-“迷惑”会导致有形目标思维混乱。受法术影响的对象难以正常思考，忘记自己身在何处、正在做什么以及原因——往往陷入断续的思维链条中。受迷惑的目标仍可采取自卫行为，但在法术结束前无法发起任何建设性活动。任何攻击或威胁动作都会立即解除法术，无论该行动是否专门针对受迷惑的目标。
+“困惑”会导致实体目标心智混乱。法术受术者难以正常思考，忘记自己身在何处、正在做什么以及原因——通常陷入断断续续的思维中。陷入困惑的目标仍然可以进行自卫，但在法术结束前不能发起任何建设性活动。任何攻击或威胁行为都会立即打破该法术，无论它是否专门针对被困惑的目标。
 
 ---
-#### Blade Barrier (刃之障壁)
+#### 刃之屏障 (Blade Barrier)
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 4 | **施法时间：** 2 动作 |
-| **领域：** 守护，创造 | **持续时间：** 3 轮/强度等级 |
-| **消耗：** 3+1/额外强度 | **范围：** 100 英尺 |
-| **区域：** 5-30 英尺半径 | **抗性：** 见下文 |
+| **位阶：** 牧师 4 | **施法时间：** 2 行动 |
+| **领域：** 守护，创造 | **持续时间：** 3 轮/强度 |
+| **消耗：** 3+1/额外强度 | **射程：** 100 英尺 |
+| **范围：** 5-30 英尺半径 | **抵抗：** 见下文 |
 
-此法术创造出一道旋转的利刃、匕首和刀具障壁，围绕固定点盘旋切削，对任何穿过作用区域的生物造成 1d8 点伤害，涉及 1d4+2 个随机受伤部位。护甲仅能提供一半的防护。魔法护甲值正常减免伤害。由于武器以炫目的速度盘旋且排列紧密，无法通过格挡（Parry）或闪避（Evade）避开。可以使用盾牌被动格挡受伤部位，在此情况下，记得将投出的伤害与盾牌的护甲和生命值进行对比。
+此法术创造了一道由旋转的利刃、匕首和刀具组成的屏障，它们在一个固定点周围高速挥舞切割，对任何穿过作用范围的个体造成 1d8 点伤害，伤害随机分配至 1d4+2 个“命中部位”。护甲仅提供其正常防护的一半。魔法“护甲”点数照常减少伤害。由于武器以眩目的速度旋转且排列紧密，因此不可能进行“闪避”或“招架”。人们可以使用盾牌被动地阻挡“命中部位”。在这种情况下，请记得将掷出的伤害与盾牌的护甲和生命值进行比较。
 
-此法术可防御性施放以保护牧师或盟友，也可进攻性地困住敌人。然而，当障壁形成时，位于边缘 5 英尺内的敌人可以进行闪避检定尝试逃脱。无论成功与否，敌人最终会倒地并位于作用区域外。检定成功则不受伤害，否则承受全部效果。
+该法术可以防御性地施放以保护牧师或盟友，也可以进攻性地困住敌人。然而，当屏障形成时，位于屏障边缘五英尺内的被围困敌人可以进行“闪避”掷骰以逃脱。无论成功与否，对手最终都会处于俯卧状态，正好在作用范围之外。成功掷骰则不造成伤害；否则，他们将承受全部效果。
 
 ---
-#### Bless (R) (祝福)
+#### 祝福 (Bless) (R)
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1 | **施法时间：** 1 轮 |
-| **领域：** 全领域 | **持续时间：** 5 分钟 |
-| **消耗：** 1 | **范围：** 180 英尺 |
-| **区域：** 25 英尺半径 | **抗性：** 意志 |
+| **位阶：** 牧师 1 | **施法时间：** 1 轮 |
+| **领域：** 全部 | **持续时间：** 5 分钟 |
+| **消耗：** 1 | **射程：** 180 英尺 |
+| **范围：** 25 英尺半径 | **抵抗：** 意志力 |
 
-施放此法术时，牧师祝福区域内的盟友群体。受影响者将散发出施法者的阵营气息，即善良或邪恶。不存在中立阵营的祝福。半径内的所有盟友在所有技能和抗性检定上获得 +5% 奖励。此外，他们的武器对有智力的亡灵以及与施法者阵营相反的外层位面生物（如恶魔、魔鬼或天使）造成 +1d3 伤害。注意，尽管骷髅或僵尸等动画亡灵并非本质上邪恶，但它们通常是由邪恶魔法操控，因此也会受到此额外伤害。
+当施放此法术时，牧师会祝福作用范围内的盟友群体。受影响者会散发出施法者的阵营，即善良或邪恶。没有中立的祝福。作用半径内的所有盟友在所有技能和“抵抗”掷骰中获得+5% 的加值。此外，他们的武器对智能亡灵以及与施法者阵营相反的外层位面生物（如恶魔、魔鬼或天使）额外造成+1d3 伤害。请注意，虽然骨骼和僵尸等活化亡灵并不天生邪恶，但它们通常是由邪恶魔法活化的，因此也会受到这种伤害。
 
-此法术的逆转形式“诅咒（Curse）”，允许牧师诅咒敌人，使其相关技能受到上述收益的反面惩罚。被诅咒武器的伤害将以减值计算，且计算后的伤害值至少为 1 点。
+此法术的逆转形式“诅咒”，允许牧师诅咒敌人，使其提到的技能承受上述加值的反向减值。受诅咒武器的伤害被计算为减值，且此伤害结果不得低于 1 点。
 
 ---
-#### Burning Hands (燃烧之手)
+#### 燃烧之手 (Burning Hands)
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 1 动作 |
+| **位阶：** 法师 1 | **施法时间：** 1 行动 |
 | **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 3+1/额外强度 | **范围：** 0 |
-| **区域：** 120 度扇形，长 5 英尺 | **抗性：** 闪避 |
+| **消耗：** 3+1/额外强度 | **射程：** 0 |
+| **范围：** 120 度锥形，5 英尺长 | **抵抗：** 闪避 |
 
-此法术使火焰从施法者手中射出，形成一个 120 度的扇形弧线。如果战斗中使用微缩模型，“燃烧之手”将伤害占据施法者前方格子的所有目标。以更高强度等级施放“燃烧之手”需要法师具备更高的等级。伤害基于法术强度（最高等级 9）覆盖区域内所有目标。成功的闪避检定（原地趴下）可使目标不受伤害。拥有“灵巧闪避（Artful Dodger）”能力的生物可以选择闪避而不趴下。
+此法术会导致火焰从施法者的手中射出，形成 120 度的弧线。如果在战斗中使用微缩模型，“燃烧之手”将伤害占据施法者前方 1 个格子的每个目标。以更高的“强度”施放“燃烧之手”需要更高位阶的法师。该伤害覆盖范围内所有目标，伤害基于法术的“强度”（最高为 9），具体如下。成功的“闪避”掷骰（让自己俯卧）可以使受害者不受伤害。拥有“艺高人胆大”（Artful Dodger）能力的个体可以选择闪避而不必俯卧。
 
-| 强度 | 消耗 | 最低法师等级 | 变量效果 |
+| 强度 | 消耗 | 最低位阶 | 变动效果 |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | 对所有受伤部位造成 1d3+1 点伤害 |
-| 3 | 4 | 1 | 对所有受伤部位造成 1d3+2 点伤害 |
-| 5 | 5 | 1 | 对所有受伤部位造成 1d3+3 点伤害 |
-| 7 | 6 | 2 | 对所有受伤部位造成 1d3+4 点伤害 |
-| 9 | 7 | 3 | 对所有受伤部位造成 1d3+5 点伤害 |
+| 1 | 3 | 1 | 所有命中部位受到 1d3+1 点伤害 |
+| 3 | 4 | 1 | 所有命中部位受到 1d3+2 点伤害 |
+| 5 | 5 | 1 | 所有命中部位受到 1d3+3 点伤害 |
+| 7 | 6 | 2 | 所有命中部位受到 1d3+4 点伤害 |
+| 9 | 7 | 3 | 所有命中部位受到 1d3+5 点伤害 |
 
-佩戴的护甲不提供防护，但魔法护甲值或生物的自然护甲可正常减免伤害。此强大法术的代价是其射程极短，这意味着法师必须身处非常不利的近战位置才能施放。
+穿戴的护甲不能提供防护，但魔法“护甲”点数或生物的自然护甲会照常减少伤害。该强力法术的缺点是射程明显较短，这意味着魔法使用者必须靠得足够近，处于非常不利的位置才能施放它。
 
-由于体型较大的生物通常比法术作用范围大，受影响的受伤部位较少。SIZ 21-30 的生物将受到头部、胸部、腹部和手臂的伤害；而 SIZ 31 以上的生物则受到腹部和腿部的伤害。游戏主持人应根据目标相对于施法者的形态和位置调整这些部位。“燃烧之手”有“投出的伤害值 x 5%”的概率引燃易燃物。参见[火焰（Fires）](0007_Game_System.md?id=fire-based-attacks)章节了解更多信息。
+由于大型生物通常比法术的作用范围大，因此受影响的“命中部位”通常较少。体型（体型）21 至 30 的生物会受到头部、胸部、腹部和手臂的伤害，而体型 31+ 的生物会受到腹部和腿部的伤害。游戏主持人应根据目标相对于施法者的形状和位置调整这些部位。“燃烧之手”有等于伤害掷骰值 x 5% 的概率点燃易燃材料。更多信息请参见[火焰相关攻击](0007_Game_System.md?id=fire-based-attacks)部分。
 
 ---
-#### Calm (镇静)
+#### 冷静 (Calm)
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0 | **施法时间：** 1 动作 |
+| **位阶：** 牧师 0 | **施法时间：** 1 行动 |
 | **领域：** 魅惑 | **持续时间：** 瞬间 |
-| **消耗：** 1 | **范围：** 接触 |
-| **区域：** 1 个目标 | **抗性：** 意志 |
+| **消耗：** 1 | **射程：** 接触 |
+| **范围：** 1 个目标 | **抵抗：** 意志力 |
 
-“镇静”尝试平息 SIZ 1-20 的人形目标的情感，例如确保情难自已的追求者不再急切，受惊的竞争对手不致大喊求救，或避免武器在愤怒中被拔出。被镇静的人精神上并未受到其他影响；因此，任何攻击或威胁行为仍然允许目标自我防御，甚至反击，尽管他们会以冷静、理智的方式进行。#### 连锁闪电 (Chain Lightning)
+“冷静”尝试压制体型（体型）1-20 的人形目标的“激情”，也许能确保一个坠入爱河的情种不会强行示爱、一个受惊的竞争对手不会大声呼救，或者不会因为愤怒而拔出武器。冷静下来的人在精神上没有其他影响；因此，任何攻击或威胁行为仍然允许目标进行自我防御，甚至攻击，尽管他们会以冷静和客观的态度这样做。
+
+---#### 连环闪电
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 4 | **施法时间：** 2 动作 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 3+1/额外强度 | **射程：** 50 英尺/强度 |
-| **范围：** 见下文 | **抵抗：** 闪避 |
+| **位阶:** 法师 4 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 瞬时 |
+| **消耗:** 3+1/额外强度 | **射程:** 50 英尺/强度 |
+| **范围:** 见下文 | **抵抗:** 闪避 |
 
-施法时，法师从指尖释放出一道五英尺宽的电束，每 2 点强度可对射程内的一个目标造成 1d6+1 点伤害。随后，电束会电弧跳跃至下一个最近的物体或生物，造成之前掷出的伤害点数减去 1 点，接着再跳跃至下一个最近的目标，造成掷出的伤害减去 2 点，依此类推。它甚至可能跳跃回盟友或施法者身上！虽然初始目标必须在施法者视野内，但被电弧击中的后续目标无需可见。
+施法后，法师从指尖释放出一道五英尺宽的电流，每 2 点强度可对射程内的一个目标造成 1d6+1 点伤害。随后，闪电会弹射向最近的下一个物体或生物，造成之前掷出的伤害减去 1 点，再弹射向下一个，造成伤害减去 2 点，依此类推。它甚至可能弹射回盟友或施法者身上！虽然初始目标必须在施法者视野内，但被弹射闪电击中的目标无需在视野内。
 
-每次跳跃均有 50 英尺的射程，这可能使电束超出施法时的原始射程。只要伤害尚存，“连锁闪电”就会继续攻击，直到击中一个导致其导地的物体（如金属笼、栅栏、大型水池等）或者周围再无其他可攻击的物体或生物。
+每次弹射都有 50 英尺的射程，这可能使闪电到达超出施法时原始射程的位置。连环闪电在仍有伤害剩余时会继续攻击，直到击中一个导致其导地的物体（如金属笼、栅栏、大水池等）或者没有其他可攻击的物体或生物为止。
 
-每个被击中的生物会将伤害承受于单个命中部位，穿着的盔甲无法提供保护，但自然盔甲和魔法护甲点数可正常减免伤害。
+每个被击中的生物会将伤害承受在单个命中部位上，所穿护甲不提供保护，但天然护甲和魔法护甲点数可正常降低伤害。
 
-通过“闪避”检定并卧倒，受害者可不受伤害。拥有“灵巧闪避”能力的生物无需卧倒即可闪避，但在这种情况下，成功仅能使伤害减半。
+通过成功的闪避掷骰并采取俯卧姿势，受害者不受任何伤害。拥有“灵巧闪避”能力的生物无需俯卧即可闪避，但在这种情况下，成功仅能使伤害减半。
 
-闪电有一定几率点燃易燃物，几率等于掷出的伤害值 x1%。更多信息请参见[火焰](0007_Game_System.md?id=fire-based-attacks)相关章节。闪电也可能因强大的冲击力而震碎或摧毁无生命物体。
+闪电有等于伤害掷骰结果 x1% 的几率引燃易燃材料。有关更多信息，请参阅[火](0007_Game_System.md?id=fire-based-attacks)章节。闪电也可能因巨大的冲击力而粉碎或摧毁无生命物体。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变量效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 英尺射程；1d6+1 伤害 |
-| 2 | 4 | 100 英尺射程；1d6+1 伤害 |
-| 3 | 5 | 150 英尺射程；2d6+2 伤害 |
-| 4 | 6 | 200 英尺射程；2d6+2 伤害 |
-| 5 | 7 | 250 英尺射程；3d6+3 伤害 |
-| +1 | +1 | 持续递进 |
+| 1 | 3 | 50英尺射程；1d6+1 伤害 |
+| 2 | 4 | 100英尺射程；1d6+1 伤害 |
+| 3 | 5 | 150英尺射程；2d6+2 伤害 |
+| 4 | 6 | 200英尺射程；2d6+2 伤害 |
+| 5 | 7 | 250英尺射程；3d6+3 伤害 |
+| +1 | +1 | 继续升级 |
 
 ---
-#### 易容术 (Change Appearance)
+#### 改变外貌
 
 (幻术系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 1 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 2d6 分钟/强度 |
-| **消耗：** 1/强度 | **射程：** 0 |
-| **范围：** 施法者 | **抵抗：** 无 |
+| **位阶:** 法师 1 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 2d6 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 0 |
+| **范围:** 施法者 | **抵抗:** 不适用 |
 
-此法术将施法者的外貌改变为任何类人或人型双足生物。身高和体重的改变限制在 ±5 SIZ 以内，但在该范围内，施法者可以选择变胖或变瘦、变高或变矮，甚至改变性别。头发、服装和装备可随外貌一同改变。施法者可根据需要改变面部特征，甚至可以完美模仿另一个真实存在的人。该法术遵循与其他幻术法术相同的[不信](0009_Magic.md?id=attempting-to-disbelieve)规则。法术不会改变施法者的气味，且被触摸时，施法者的触感仍与其原始形态和服装一致。
+此法术将施法者的外貌改变为任何类人生物或人型的双足生物形态。身高和体重的改变限制在 ±5 体型（体型）以内，但在该范围内，施法者可以选择变胖或变瘦、变高或变矮，甚至改变性别。头发、服装和装备可以随外貌一起改变。施法者的面部特征可以根据需要改变，甚至可以达到完美模仿另一个现存人物的程度。该法术受到[不信](0009_Magic.md?id=attempting-to-disbelieve)规则的约束，与其他幻术系法术相同。该法术不会改变施法者的气味，如果被触摸，施法者的触感仍与原本的形体和服装相同。
 
 ---
-#### 咏唱 (Chant)
+#### 圣歌
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 牧师 2 | **施法时间：** 2 动作 |
-| **领域：** 战斗 | **持续时间：** 专注 |
-| **消耗：** 1 | **射程：** 0 |
-| **范围：** 30 英尺半径 | **抵抗：** 无 |
+| **位阶:** 牧师 2 | **施法时间:** 2 行动 |
+| **领域:** 战斗 | **持续时间:** 专注 |
+| **消耗:** 1 | **射程:** 0 |
+| **范围:** 30 英尺半径 | **抵抗:** 不适用 |
 
-范围内的所有盟友在所有技能检定上获得 +5% 加值，伤害获得 +1 加值，两者均按强度等级计算。范围内的敌人遭受与上述加值相反的减益。
+效果范围内的所有目标在所有技能掷骰上获得 +5% 奖励，并获得每强度等级 +1 的伤害奖励。范围内的敌人遭受上述效果的反面修正。
 
-“咏唱”必须在法术持续时间内全程维持，否则效果结束。施放“驱散魔法”对“咏唱”正在持续的效果无效，因为咏唱本身并非魔法；然而，施放“沉默术”会抵消法术的增益效果。“咏唱”的效果可与“祝福术”和“诅咒术”叠加。由于要求在持续时间内全程咏唱，因此无法施放其他法术。
+圣歌必须在整个持续时间内保持，否则效果结束。驱散魔法的施放对圣歌的持续效果没有影响，因为圣歌本身并非魔法；然而，沉默术的施放会抵消该法术的益处。圣歌的效果可与祝福术和诅咒术的效果叠加。由于需要在整个持续时间内维持吟唱，无法施放其他法术。
 
 ---
-#### 人类魅惑 (Charm Person)
+#### 魅惑人类
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 1 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 1 周/强度 |
-| **消耗：** 3+1/额外强度 | **射程：** 360 英尺 |
-| **范围：** 1 名活体人类、亚人或类人生物 | **抵抗：** 意志 |
+| **位阶:** 法师 1 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 1 周/强度 |
+| **消耗:** 3+1/额外强度 | **射程:** 360 英尺 |
+| **范围:** 1 名活着的类人生物 | **抵抗:** 意志力 |
 
-当此法术被施放时，若 SIZ 1-20 的存活（不死生物不受影响）智慧类人生物目标在意志抵抗检定中失败，它将停止对法师及其盟友的一切敌意，并主动提出提供帮助和保护。注意，由于目标是基于其认为最有效的方式来行动，这种“帮助/保护”可能会给施法者带来意想不到甚至负面的效果。对于指令，目标绝不会服从自杀或明显有害的行为，但可能会被说服去执行极其危险的任务。
+当施放此法术时，如果目标抵抗掷骰失败，一名体型 1-20 的活着（不死生物不受影响）的智慧类人生物目标将停止对魔法使用者及其盟友的所有敌对行为，转而提供帮助和保护。请注意，帮助/保护可能会对施法者产生意外甚至负面的效果，因为受术者是基于其认为最能保护/帮助的行动方式进行行动的。对于指令，目标永远不会服从自杀或明显有害的行为，但可能被说服去做某些极其危险的事情。
 
-若法师或其盟友对魅惑对象采取任何敌对行为，附魔即告破碎。注意：如果其他人质疑魅惑的本质，目标也可根据游戏主持人的裁决进行一次抵抗检定。法师必须能够与被魅惑者交谈以给出复杂的“要求”；因此，了解目标的语言很重要，但并非基础附魔所必需。
+魔法使用者或其盟友对被魅惑的目标采取的任何敌对行为都会打破附魔。注意：如果其他人质疑魅惑的性质，目标也可根据游戏主持人的裁决进行抵抗掷骰。魔法使用者必须能够与被魅惑者交流以给予任何复杂的“请求”；因此，了解目标的语言可能很重要，但并非基础附魔所必需。
 
-初次抵抗检定后，必须经过 1 周，受试者才能再次进行抵抗检定。只要未通过抵抗检定，效果就会持续。在更高强度等级施放“人类魅惑”需要更高阶的法师，且最大持续时间为 4 周。在法术持续期间，施法者的魔法点数总额会减少施法所消耗的点数，遵循[持久魔法消耗](0009_Magic.md?id=enduring-magic-costs)规则。
+在初始抵抗掷骰后，受术者必须经过 1 周才能进行下一次抵抗掷骰。效果持续直到成功通过抵抗掷骰为止。以更高强度等级施放魅惑人类需要更高位阶的法师，且最大持续时间为 4 周。在法术持续时间内，施法者的魔法点数总额根据[持久魔法消耗](0009_Magic.md?id=enduring-magic-costs)规则扣除施法所消耗的量。
 
-| 强度 | 消耗 | 最低阶位 | 可变效果 |
+| 强度 | 消耗 | 最低位阶 | 变量效果 |
 | :-: | :-: | :-: | :-- |
 | 1 | 3 | 1 | 魅惑 1 周 |
 | 2 | 4 | 2 | 魅惑 2 周 |
@@ -328,20 +330,20 @@
 | 4 | 6 | 4 | 魅惑 4 周 |
 
 ---
-#### 群体魅惑 (Charm, Mass)
+#### 群体魅惑
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 5 | **施法时间：** 2 轮 |
-| **领域：** 无 | **持续时间：** 1 周/强度 |
-| **消耗：** 3/强度 | **射程：** 40 英尺/强度 |
-| **范围：** 20 英尺半径/强度 | **抵抗：** 意志 |
+| **位阶:** 法师 5 | **施法时间:** 2 回合 |
+| **领域:** 无 | **持续时间:** 1 周/强度 |
+| **消耗:** 3/强度 | **射程:** 40 英尺/强度 |
+| **范围:** 20 英尺半径/强度 | **抵抗:** 意志力 |
 
-除上述差异外，此法术功能类似于[人类魅惑](0010_Spells.md?id=charm-person)和“怪物魅惑”。这种最为强大的魅惑法术有几率魅惑范围内的任何 SIZ 的生物。人类体型及以下（SIZ 1-20）的目标抵抗检定为“困难”；大型生物（SIZ 21-40）必须以“标准”难度进行抵抗检定；而巨型生物（SIZ 41+）的抵抗检定则为“容易”。
+除了上述说明外，该法术的功能类似于[魅惑人类](0010_Spells.md?id=charm-person)和魅惑怪物。这种最强大的魅惑法术有机会迷住范围内的所有体型生物。人类大小及以下（体型 1-20）的目标其抵抗掷骰为“困难”；大型生物（体型 21-40）必须以“标准”难度进行抵抗掷骰，而巨型生物（体型 41+）的抵抗掷骰为“简单”。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变量效果 |
 | :-: | :-: | :-- |
 | 1 | 3 | 魅惑 1 周 |
 | 2 | 6 | 魅惑 2 周 |
@@ -349,226 +351,225 @@
 | 4 | 12 | 魅惑 4 周 |
 
 ---
-#### 怪物魅惑 (Charm Monster)
+#### 魅惑怪物
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 3 | **施法时间：** 2 动作 |
-| **领域：** 无 | **持续时间：** 1 周/强度 |
-| **消耗：** 3+1/额外强度 | **射程：** 180 英尺 |
-| **范围：** 20 英尺半径 | **抵抗：** 意志 |
+| **位阶:** 法师 3 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 1 周/强度 |
+| **消耗:** 3+1/额外强度 | **射程:** 180 英尺 |
+| **范围:** 20 英尺半径 | **抵抗:** 意志力 |
 
-这是[人类魅惑](0010_Spells.md?id=charm-person)法术的改进版，它可以魅惑范围内的所有 SIZ 20 或以下的活体生物，或者 1 个任何 SIZ 的生物。大型生物（SIZ 21-40）较难魅惑，其抵抗检定为“容易”，而巨型生物（SIZ 41+）的抵抗检定则为“非常容易”。该法术在所有其他方面与“人类魅惑”相同。
+这是[魅惑人类](0010_Spells.md?id=charm-person)法术的改进版本，它可以迷住范围内的所有体型 20 或以下的活体生物，或者 1 个任意体型的生物。大型生物（体型 21-40）更难被魅惑，其抵抗掷骰为“简单”，而巨型生物（体型 41+）的抵抗掷骰为“非常简单”。该法术在所有其他方面均按照魅惑人类的功能执行。
 
-| 强度 | 消耗 | 最低阶位 | 可变效果 |
-| :-: | :-: | :-- |
+| 强度 | 消耗 | 最低位阶 | 变量效果 |
+| :-: | :-: | :-: | :-- |
 | 1 | 3 | 3 | 魅惑 1 周 |
 | 2 | 4 | 3 | 魅惑 2 周 |
 | 3 | 5 | 4 | 魅惑 3 周 |
 | 4 | 6 | 4 | 魅惑 4 周 |
 
 ---
-#### 冷却 (Chill) (R)
+#### 降温 \(R\)
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 0 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **位阶:** 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 瞬时 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无 |
 
-“冷却”能显著降低小型物体（ENC 不超过 1 “单位”）的温度，直至冰水的温度。适用于快速冷却炽热物品、冰镇饮料等。该法术不会冻结物体，也不会对其结构造成任何损伤：它仅使物体变得非常冷。
+降温法术可将 ENC 不大于 1 个“物品”大小的小型物体的温度剧烈降低，降至冰水温度。适用于快速冷却发烫的物品、冰镇饮料等。该法术不会冻结物体，也不会对其结构造成任何损害：它仅仅使其变得非常冷。
 
-反制法术“加热”能将小型物体的温度显著升高至沸水温度。这种多用途法术可用于温红酒、不用火烹饪食物或在睡前暖床。它不会影响活体组织，但可能影响服装和盔甲，使其略有不适，但不至于妨碍穿戴者。
+反转后为加热，可将小型物体的温度剧烈升高至沸水温度。这种多用途法术可用于温热葡萄酒、不通过火源烹饪食物或在睡前暖被。它不会影响活体组织，但会影响衣物和护甲，使其有些不适，但不至于妨碍穿着者。
 
 ---
-#### 洁净 (Cleanse) (R)
+#### 清洁 \(R\)
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 0 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 1 | **射程：** 接触 |
-| **范围：** 见下文 | **抵抗：** 意志 |
+| **位阶:** 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 瞬时 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 见下文 | **抵抗:** 意志力 |
 
-“洁净”用于清除物体、人员或小范围区域内的污垢、油脂、灰尘、异味等。它不会整理目标或区域；只是将其清理至一尘不染的状态。此法术常用于洗涤衣物。施法者可以清理的区域面积等同于 POWx5 平方英尺（5 英尺见方的区域为 25 平方英尺）。
+清洁用于清除物体、人或小区域上的污垢、油脂、污垢、难闻气味等。它不会整理或打扫目标或区域；只是将它们清洁到一尘不染的状态。此法术常用于清洗衣服。施法者可以清洁面积等于灵力 x5 平方英尺的区域（5 英尺见方的区域为 25 平方英尺）。
 
-“污秽”是“洁净”的反制法术。受影响的物体会立即被灰尘、积垢、蛛网等覆盖。该法术可用于使全新的物体看起来陈旧风化，或帮助那些通常衣冠楚楚的人不被认出来。
+脏乱是清洁的反转。受影响的物体会立即覆盖污垢、灰尘、蛛网等。该法术可用于使全新的物体看起来陈旧风化，或帮助防止原本衣着光鲜的人被认出。
 
 ---
-#### 命令 (Command)
+#### 命令
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **阶位：** 牧师 1 | **施法时间：** 1 动作 |
-| **领域：** 魅惑 | **持续时间：** 1 分钟 |
-| **消耗：** 3 | **射程：** 100 英尺 |
-| **范围：** 1 个目标 | **抵抗：** 意志 |
+| **位阶:** 牧师 1 | **施法时间:** 1 行动 |
+| **领域:** 魅惑 | **持续时间:** 1 分钟 |
+| **消耗:** 3 | **射程:** 100 英尺 |
+| **范围:** 1 个目标 | **抵抗:** 意志力 |
 
-当此法术被施放时，牧师可以对一个 SIZ 1-20 的活体生物发出一个单字命令，若对方抵抗失败，其下个回合将严格按照命令行动。这实质上导致受害者浪费 1 个动作点来完成所命令的动作。如果受害者没有剩余的动作点，则会在其下一轮的第一个回合执行命令。命令本身不能对目标造成任何实际伤害；然而，伤害可能作为命令的次生后果产生。
+当施放此法术时，牧师可以对一个体型 1-20 的活体生物发出单字命令，如果受术者抵抗失败，其将在下一个回合中严格执行该命令。这本质上导致受害者错过下一个回合来完成被命令的动作，并浪费一个行动点数。如果受害者没有剩余行动点数，则命令将在下一轮的第一个回合中执行。命令本身不能对目标造成任何实际伤害；然而，伤害可能作为命令的次生效果产生。
 
-例如，命令“死”会导致受害者倒地进入类似死亡的状态 1 轮，不会造成实际伤害；然而，命令一个正在攀爬 100 英尺高悬崖的生物“落下”，则可能是致命的。
+例如，命令“去死”将导致受害者倒地进入持续 1 轮的死亡般昏迷状态，不造成任何实际伤害；然而，对一个正在攀爬 100 英尺高悬崖的生物发出“摔倒”命令则可能是致命的。
 
-受命令的目标必须能够听懂施法者的语言，并允许进行一次意志检定来抵抗。
+命令的目标必须能够理解施法者所说的语言，并且允许通过意志力测试进行抵抗。
 
-**部分命令示例**
+**一些命令示例**
 
-- **爬 (Crawl)：** 受试者卧倒并开始爬行。
-- **死 (Die)：** 受试者倒地进入类似死亡的昏迷状态。
-- **倒 (Fall)：** 受试者倒地。
-- **笨拙 (Fumble)：** 受试者搞砸即将进行的物理动作。
-- **睡 (Sleep)：** 受试者打盹。
-- **逃 (Flee)：** 受试者转身逃离施法者。
-- **飞 (Fly)：** 受试者拍动手臂并在原地绕圈跑。
-- **行 (Go)：** 受试者开始沿其面对的方向行走。
-- **停 (Halt)：** 受试者立即停止并站在原地。
-- **离 (Leave)：** 受试者转身并沿原路离开。
-- **歇 (Rest)：** 受试者坐下并平复呼吸。
-- **跑 (Run)：** 受试者开始奔跑。
-- **喊 (Scream)：** 受试者大叫。
-- **沉 (Sink)：** 受试者停止游泳。
-- **降 (Surrender)：** 受试者丢弃武器并停止敌对行动。
+- **爬行:** 受术者俯卧并开始爬行。
+- **去死:** 受术者倒地进入昏迷的死亡状态。
+- **摔倒:** 受术者倒地。
+- **大失误:** 受术者使即将采取的物理行动产生大失误。
+- **睡觉:** 受术者入睡。
+- **逃跑:** 受术者转身逃离施法者。
+- **飞行:** 受术者拍打双臂并原地打转。
+- **走:** 受术者开始朝面向的方向走去。
+- **停下:** 受术者立即停止并在原地站立。
+- **离开:** 受术者转身并从进入的方向离开。
+- **休息:** 受术者坐下并喘口气。
+- **跑:** 受术者开始奔跑。
+- **尖叫:** 受术者大喊大叫。
+- **下沉:** 受术者停止游泳。
+- **投降:** 受术者丢弃武器并停止敌对。
 
 ---
-#### 寒冰锥 (Cone of Cold)
+#### 寒冰锥
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 法师 3 | **施法时间：** 1 轮 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 3+1/额外强度 | **射程：** 0 |
-| **范围：** 见下文 | **抵抗：** 闪避 |
+| **位阶:** 法师 3 | **施法时间:** 1 回合 |
+| **领域:** 无 | **持续时间:** 瞬时 |
+| **消耗:** 3+1/额外强度 | **射程:** 0 |
+| **范围:** 见下文 | **抵抗:** 闪避 |
 
-施法者从手中创造出一个猛烈寒冷的锥体。范围是一个 90 度的弧形（“锥体”），长度为每强度等级 10 英尺。该法术对范围内的所有受害者造成每 2 点强度（或不足 2 点者，计为 2 点）1d6+1 点伤害。掷一次伤害点数并将其应用于目标的每个命中部位，穿着的盔甲仅提供半数保护，但生物的自然盔甲或魔法护甲点数可正常减免伤害。如果巨型生物大于范围，游戏主持人可根据其认为合适的方式选择受影响的部位数量。
+施法者从手中创造出一个刺骨寒冷的圆锥。效果范围是一个 90 度的弧（一个“圆锥”），长度为每强度等级 10 英尺。该法术对效果范围内的所有受害者造成每 2 点强度（或其部分）1d6+1 点伤害。掷一次伤害并将结果应用于目标每个命中部位，所穿护甲仅提供一半保护，但生物的天然护甲或魔法护甲点数可正常降低伤害。如果巨型生物大于效果范围，游戏主持人可以自行决定受影响的部位数量。
 
-通过“闪避”检定并卧倒，受害者可不受伤害。拥有“灵巧闪避”能力的生物无需卧倒即可闪避，但在这种情况下，除非他们处于范围边缘的五英尺内，否则成功仅能使伤害减半。“寒冰锥”有几率使受害者覆盖一层冰，几率等于修正后的伤害值 x5%。一旦被冻结，受害者每轮可花费 1 个动作点并进行一次“强壮”检定尝试挣脱；然而，在成功之前，不幸的受害者无法移动或执行任何其他动作。
+通过成功的闪避掷骰并采取俯卧姿势，受害者不受任何伤害。拥有“灵巧闪避”能力的生物无需俯卧即可闪避，但在这种情况下，成功仅能使伤害减半，除非他们位于效果范围边缘五英尺内。寒冰锥有等于掷出的伤害（修正后） x5% 的几率使受害者覆盖一层冰。如果被冰冻，受害者每轮可以消耗 1 个行动点数并进行体能掷骰来尝试挣脱；然而，在成功之前，不幸的受害者无法移动或执行任何其他动作。
 
 **寒冰锥效果**
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变量效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 英尺长；1d6+1 伤害 |
-| 2 | 4 | 20 英尺长；1d6+1 伤害 |
-| 3 | 5 | 30 英尺长；2d6+2 伤害 |
-| 4 | 6 | 40 英尺长；2d6+2 伤害 |
-| 5 | 7 | 50 英尺长；3d6+3 伤害 |
-| +1 | +1 | 持续递进 |
+| 1 | 3 | 10英尺长；1d6+1 伤害 |
+| 2 | 4 | 20英尺长；1d6+1 伤害 |
+| 3 | 5 | 30英尺长；2d6+2 伤害 |
+| 4 | 6 | 40英尺长；2d6+2 伤害 |
+| 5 | 7 | 50英尺长；3d6+3 伤害 |
+| +1 | +1 | 继续升级 |
 
 ---
-#### 混乱术 (Confusion)
+#### 混乱术
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **阶位：** 牧师 4，法师 3 | **施法时间：** 2 动作 |
-| **领域：** 魅惑 | **持续时间：** 1 分钟/强度 |
-| **消耗：** 3+1/额外强度 | **射程：** 120 英尺（牧师版本 250 英尺） |
-| **范围：** 30 英尺半径 | **抵抗：** 意志（牧师版本为困难意志） |
+| **位阶:** 牧师 4, 法师 3 | **施法时间:** 2 行动 |
+| **领域:** 魅惑 | **持续时间:** 1 分钟/强度 |
+| **消耗:** 3+1/额外强度 | **射程:** 120 英尺（牧师版 250 英尺） |
+| **范围:** 30 英尺半径 | **抵抗:** 意志力（牧师版为“困难”意志力） |
 
-当此法术被施放时，范围内的 1d4 名 SIZ 1-20 且抵抗检定失败的生物将陷入魔法混乱。每一级额外强度将影响另外 1d4 名生物，最多达到 4d4。牧师版本每强度影响 1d3+1 名生物，且无上限。范围内最靠近施法者的生物优先受影响。成功的抵抗检定可克服法术，而失败则导致受害者遭受以下随机效果之一，法术持续时间内每轮掷骰，直到受害者自行走开。
+当此法术施放时，效果范围内抵抗掷骰失败的 1d4 个体型 1-20 的生物将陷入魔法混乱。每一额外强度等级将影响另外 1d4 个生物，最高可达 4d4。牧师版本每强度等级影响 1d3+1 个生物，且没有上限。效果范围内离施法者最近的目标优先受影响。成功的抵抗掷骰可克服该法术，而失败的掷骰会导致受害者遭受以下随机效果之一，每轮为法术持续时间进行掷骰，或者直到受害者走开为止。
 
 | D100 掷骰 | 混乱效果 |
 | :-: | :-- |
-| 01-10 | 本轮剩余时间使用远程或近战武器攻击施法者 |
-| 11-50 | 感到困惑，本轮剩余时间基本选择“迟疑” |
-| 51-70 | 本轮剩余时间攻击最近的敌人 |
-| 71-80 | 本轮剩余时间攻击最近的盟友 |
-| 81-90 | 若未被交战，法术持续时间内以步行速度走开，否则如同 11-50 处处理 |
-| 91-00 | 本轮剩余时间正常行动 |
+| 01-10 | 本轮剩余时间内使用远程或近战武器攻击施法者 |
+| 11-50 | 站立混乱，本轮剩余时间内选择“迟疑” |
+| 51-70 | 本轮剩余时间内攻击最近的敌人 |
+| 71-80 | 本轮剩余时间内攻击最近的盟友 |
+| 81-90 | 如果法术持续时间内未被交战，则以步行速度走开，否则同上 11-50 进行“迟疑” |
+| 91-00 | 本轮剩余时间内行动正常 |
 
-对混乱生物的每次攻击都允许其进行额外的抵抗法术尝试。受害者可以正常“闪避”或“格挡”。
+对混乱生物的每次攻击都允许其进行一次额外的法术抵抗尝试。受害者可以正常闪避或招架。
 
-若结果为“走开”，受害者会以其正常的移动模式按行走速度向远离施法者的方向移动。具有星界或以太旅行、位面传送等天赋能力的生物，每轮有 50% 的几率使用这些能力而非平凡的移动方式。
+对于“走开”结果，受害者以正常的移动模式，以步行速度向远离施法者的方向走去。拥有星界或以太旅行、位面穿梭等内在能力的生物，每轮有 50% 的几率使用这些能力代替其凡俗移动方式。
 
-大型生物（SIZ 21-40）对混乱的易感性较低，其抵抗检定为“容易”，而巨型生物（SIZ 41+）的抵抗检定则为“非常容易”。
+大型生物（体型 21-40）对混乱的易感性较低，其抵抗掷骰为“简单”，而巨型生物（体型 41+）的抵抗掷骰为“非常简单”。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变量效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 分钟；1d4 生物（牧师为 1d3+1） |
-| 2 | 4 | 2 分钟；2d4 生物（牧师为 2d3+2） |
-| 3 | 5 | 3 分钟；3d4 生物（牧师为 3d3+3） |
-| 4 | 6 | 4 分钟；4d4 生物（上限）（牧师为 4d3+4） |
+| 1 | 3 | 1 分钟；1d4 个生物（牧师为 1d3+1） |
+| 2 | 4 | 2 分钟；2d4 个生物（牧师为 2d3+2） |
+| 3 | 5 | 3 分钟；3d4 个生物（牧师为 3d3+3） |
+| 4 | 6 | 4 分钟；4d4 个生物（上限）（牧师为 4d3+4） |
 | 5 | 7 | 5 分钟；（牧师为 5d3+5） |
-| +1 | +1 | 持续递进 |
+| +1 | +1 | 继续升级 |
 
 ---
-#### 永恒之光 (Continual Light)
+#### 永恒之光
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 牧师 2，法师 2 | **施法时间：** 1 动作 |
-| **领域：** 太阳 | **持续时间：** 半永久（见下文） |
-| **消耗：** 3 | **射程：** 180 英尺 |
-| **范围：** 60 英尺半径 | **抵抗：** 见下文 |
+| **位阶:** 牧师 2, 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 太阳 | **持续时间:** 半永久（见下文） |
+| **消耗:** 3 | **射程:** 180 英尺 |
+| **范围:** 60 英尺半径 | **抵抗:** 见下文 |
 
-此法术在施法者选择的点（可以是物体甚至是空中）创造出一个亮度等同于正午日光的光球。它是半永久的，仅在进入魔法黑暗区域时会暂时被抵消。然而，它可由施法者随时取消，或通过强度大于“永恒之光”量级的“黑暗术”或“驱散魔法”来抵消。
+此法术在施法者选择的地点（可以是物体，甚至可以在空气中）创造一个亮度相当于正午日光的光球。它是半永久性的，仅在进入魔法黑暗区域时会暂时被抵消。然而，它可以在任何时候由施法者永久消除，或者通过施法强度高于永恒之光量级的黑暗术或驱散魔法来抵消。
 
-对日光有厌恶的生物在相关范围效果内会遭受与之相关的正常惩罚。若施法于生物身上，目标允许进行一次意志检定，成功则表示法术效果出现在生物身后的区域而非生物本身。若以生物眼睛为中心，则失败的意志检定会导致部分失明，使所有需要视力的技能和抵抗检定难度提高一个等级。视力只能通过施放任何强度的“治愈盲聋术”，或通过强度大于“永恒之光”量级的“驱散魔法”来恢复。法术效果固定不动，但可施放于便携或可移动的物体上。
+对日光有厌恶感的生物在相关效果范围内时会受到与其相关的正常减值。如果施放在生物身上，目标可以进行意志力测试进行抵抗，成功则表示法术影响了生物后方的区域而非生物本身。如果以生物眼睛为中心，意志力掷骰失败会导致部分失明，使所有需要视力的技能和抵抗掷骰的难度增加一个等级。视力只能通过施放任意强度的治愈失明与耳聋法术，或施放强度高于永恒之光量级的驱散魔法来恢复。法术的效果是固定的，但可以施放在可携带或可移动的物体上。
 
 ---
-#### 控制天气 (Control Weather)
+#### 控制天气
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 牧师 5，法师 4 | **施法时间：** 10 分钟 |
-| **领域：** 天气 | **持续时间：** 1d6 小时/强度 |
-| **消耗：** 3 +1/强度 | **射程：** 0 |
-| **范围：** 1d4 平方英里/强度 | **抵抗：** 无 |
+| **位阶:** 牧师 5, 法师 4 | **施法时间:** 10 分钟 |
+| **领域:** 天气 | **持续时间:** 1d6 小时/强度 |
+| **消耗:** 3 +1/强度 | **射程:** 0 |
+| **范围:** 1d4 平方英里/强度 | **抵抗:** 不适用 |
 
-此法术允许施法者以显著且明显的方式改变当前天气。一旦施放，还需经过 1d4x10 分钟效果才会完全显现。任何改变的持续时间根据法术的持续时间计算。施法者可以将降水、温度和风力改变最多两个等级，具体参考[换算表](Appendix_B_Conversion_Tables)中的表格。
+此法术允许施法者以显著且明显的方式改变当前天气。一旦施放，还需要 1d4x10 分钟才能完全显现效果。任何变化的持续时间根据法术的持续时间计算。施法者可以将降水、温度和风力改变最多两个等级，具体参考[转换表](Appendix_B_Conversion_Tables)中的表格。
 
 <br>
 
-
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变量效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 1d6 小时持续；1d4 平方英里 |
-| 2 | 4 | 2d6 小时持续；2d4 平方英里 |
-| 3 | 5 | 3d6 小时持续；3d4 平方英里 |
-| 4 | 6 | 4d6 小时持续；4d4 平方英里 |
-| +1 | +1 | 持续递进 |
+| 1 | 3 | 1d6 小时持续时间；1d4 平方英里 |
+| 2 | 4 | 2d6 小时持续时间；2d4 平方英里 |
+| 3 | 5 | 3d6 小时持续时间；3d4 平方英里 |
+| 4 | 6 | 4d6 小时持续时间；4d4 平方英里 |
+| +1 | +1 | 继续升级 |
 
 ---
-#### 协调 (Coordination)
+#### 协调
+
+(变形系)
+
+| | |
+| :-- | :-- |
+| **位阶:** 牧师 0, 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 所有 | **持续时间:** 触发 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无 |
+
+协调法术在执行单个预定任务时增强手动灵巧和敏捷性。在准备阶段施放时，它允许接受者有机会对需要协调的单个技能检查（如杂技、开锁等）进行重掷。接受者可以选择两次掷骰中较好的结果，但在该过程中法术会被消耗。
+
+---#### 创建食物与水
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **阶位：** 牧师 0，法师 0 | **施法时间：** 1 动作 |
-| **领域：** 所有 | **持续时间：** 触发 |
-| **消耗：** 1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **等级:** 牧师 1 | **施法时间:** 1 分钟 |
+| **领域:** 创造，元素（水） | **持续时间:** 见下文 |
+| **消耗:** 3 +1/强度 | **射程:** 30 英尺 |
+| **范围:** 见下文 | **抵抗:** 无 |
 
-“协调”增强在执行单个预定任务时的手动灵巧度和敏捷性。当作为准备施放时，它允许接受者对需要协调的单个技能检定（如特技、开锁等）进行一次重投。接受者可以选择两次掷骰中的较优结果，但在过程中法术即被消耗。
-
----#### 创造食物与水
-
-(变化系)
-
-| | |
-| :-- | :-- |
-| **等级：** 牧师 1 | **施法时间：** 1 分钟 |
-| **领域：** 创造，元素（水） | **持续时间：** 见下文 |
-| **消耗：** 3 +1/强度 | **距离：** 30 英尺 |
-| **范围：** 见下文 | **抵抗：** 不适用 |
-
-此法术的施展能凭空创造出食物，每点强度足以供三名体型（SIZ）20 或以下的生物，或一名体型 21-40 的生物食用整整一天。体型大于 40 的生物每“餐”需要消耗 1 点强度。这些创造出的食物在各方面都类似于普通食物，尽管味道比较平淡，但可以是施法者渴望的任何种类。它虽然缺乏风味，但在营养方面绰绰有余。食物一旦创造出来，无论如何储存，保质期均为 24 小时。然而，一旦变质，可以通过施展“净化食物与水”使其重新变得可食用，并将可安全食用的时间再延长 24 小时。除了创造食物外，该法术还会创造充足的饮用水，其功能与 1 级法术“创造水”完全相同。
+该法术的施展凭空创造出食物，每点强度足以喂饱三名体型 20 或以下的生物，或一名体型 21-40 的生物一整天。体型大于 40 的生物每“餐”需要 1 点强度。这些创造出的食物在各方面都类似于正常食物，虽然味道比较平淡，但可以是施法者想要的任何种类。尽管缺乏风味，但它们在营养方面绰绰有余。一旦创造出来，无论如何储存，食物的保质期仅为 24 小时。然而，一旦食物变质，可以通过施展“净化食物与水”使其再次变为可食用，从而安全食用的时间再延长 24 小时。除了创造出的食物外，该法术还会创造充足的饮用水，其功能与 1 级法术“创造水”完全相同。
 
 ---
 #### 治愈疾病 \(R\)
@@ -577,22 +578,22 @@
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 1 轮 |
-| **领域：** 治疗 | **持续时间：** 永久 |
-| **消耗：** 3/强度 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 不适用（耐力或闪避） |
+| **等级:** 牧师 2 | **施法时间:** 1 轮 |
+| **领域:** 治疗 | **持续时间:** 永久 |
+| **消耗:** 3/强度 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无（体质 或 闪避） |
 
-此法术可治愈目标身上任何功效（Potency）低于该法术强度 x30 的凡世或魔法疾病。一旦治愈生效，恢复过程即可按照该疾病描述中的说明开始。寄生生物（如绿粘液、腐虫，甚至是狼人）带来的折磨可以通过“治愈疾病”消除。然而，对于后几种折磨，必须在 72 小时内以 12 或更高的强度施展“移除疾病”，而前者仅需 1 点强度即可治愈。此法术不提供针对该疾病的未来免疫。
+此法术可治愈目标所患的任何普通或魔法疾病，只要其效力低于该法术强度 x30。一旦治愈生效，便可按照该疾病说明中记载的内容开始恢复。由寄生生物（如绿黏怪、腐烂虫，甚至狼人）引起的痛苦可通过“治愈疾病”消除。然而，对于后者的痛苦，必须在 72 小时内以 12 或更高的强度施展“移除疾病”，而前者仅需 1 点强度即可治愈。此法术不提供未来对该疾病的免疫力。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变动效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 治愈功效 30 的疾病、绿粘液或腐虫 |
-| 2 | 6 | 治愈功效 60 的疾病 |
-| 3 | 9 | 治愈功效 90 的疾病 |
-| 4 | 12 | 治愈功效 120 的疾病、狼人症 |
-| +1 | +1 | 继续递增 |
+| 1 | 3 | 治愈效力 30 的疾病、绿黏怪或腐烂虫 |
+| 2 | 6 | 治愈效力 60 的疾病 |
+| 3 | 9 | 治愈效力 90 的疾病 |
+| 4 | 12 | 治愈效力 120 的疾病、狼人症 |
+| +1 | +1 | 继续升级 |
 
-该法术的逆转形式“致病术”会对敌人施加魔法疾病。如果成功，施法者可以选择对目标施加任何已知的疾病；但该法术的强度 x30 必须等于或超过所选疾病的功效。疾病成功施加后，其在抵抗、发作时间、持续时间等方面与其他疾病的功能相同。唯一的例外是早期恢复仅限于施展“移除疾病”或“治愈”。治疗技能对魔法造成的疾病没有效果。
+此法术的反转形式为“致病”，可对敌人施加魔法疾病。如果成功，施法者可以选择对目标施加任何已知疾病；但是，法术强度 x30 必须等于或超过所选疾病的效力。一旦疾病成功施加，其在抵抗、发病时间、持续时间等方面与其他疾病的作用方式相同。唯一的例外是早期恢复仅限于施展“移除疾病”或“治愈”。“急救”技能对魔法施加的疾病无效。
 
 ---
 #### 消除疲劳 \(R\)
@@ -601,14 +602,14 @@
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1 | **施法时间：** 2 动作 |
-| **领域：** 治疗 | **持续时间：** 见下文 |
-| **消耗：** 1 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 不适用（耐力或闪避） |
+| **等级:** 牧师 1 | **施法时间:** 2 行动 |
+| **领域:** 治疗 | **持续时间:** 见下文 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无（体质 或 闪避） |
 
-当此法术被施展时，目标恢复 1d3+1 级损失的疲劳值，如果适用的话甚至可以恢复意识。
+当施展此法术时，受术者恢复 1d3+1 点损失的疲劳等级，甚至可以在适用情况下恢复意识。
 
-该法术的逆转形式“疲劳术”会使未通过耐力检定的目标增加 1d3+1 级疲劳。施法者的引导检定（Channel roll）作为攻击对手的检定，并被视为法术姿势要求的一部分。无需额外的攻击检定。穿着的盔甲和天然盔甲都无法提供保护，但魔法盔甲可以抵消此法术。
+此法术的反转形式为“导致疲劳”，对体质检定失败的目标施加 1d3+1 点疲劳等级。施法者的引导检定作为命中对手的检定，并被视为法术躯体成分的一部分。无需额外掷骰命中。穿着的护甲和天然护甲均不提供保护，但魔法护甲可以抵消该法术。
 
 ---
 #### 治愈重伤 \(R\)
@@ -617,18 +618,18 @@
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 1 轮 |
-| **领域：** 治疗 | **持续时间：** 永久 |
-| **消耗：** 3/强度 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 不适用（耐力或闪避） |
+| **等级:** 牧师 2 | **施法时间:** 1 轮 |
+| **领域:** 治疗 | **持续时间:** 永久 |
+| **消耗:** 3/强度 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无（体质 或 闪避） |
 
-此法术的功能与“治愈轻伤”相同，下文注明的除外。
+除非下文另有说明，此法术的作用方式与“治愈轻伤”相同。
 
-此法术可治愈一个遭受重伤的身体部位，无论它是被压碎还是被损毁。它对断肢无效，断肢需要“治疗”（如果肢体仍在）或“再生”来恢复。如果受术者仍然活着，且该部位受伤时间在等于该法术强度的数小时内，则“治愈重伤”几乎能立即治愈 1d8+4 点伤害。
+此法术可治愈单个遭受重伤的命中部位，无论它是被压碎还是被损毁。它对断肢无效，断肢需要“愈合”（如果肢体仍在）或“再生”来恢复。如果受术者依然存活，且该部位是在等于法术强度的小时数内受伤的，则“治愈重伤”几乎能瞬间恢复 1d8+4 点伤害。
 
-如果伤害发生得更早，那么身体部位必须经历更具创伤性的修复，这需要一次“治愈重伤”的施法，以及等于角色“治疗率”天数的完全休息和恢复。掷出的生命值取平均值，并在注明的恢复期内恢复。如果此恢复期在治愈完成前中断，该部位将保持残废且不可用，只能通过“治疗”法术治愈。
+如果伤害发生得更早，则身体部位必须经历更痛苦的修复，这需要施展一次“治愈重伤”，并进行等于角色治疗速率的天数的完全休息与恢复。所掷出的生命值会取平均值，并在注明的恢复期间内逐渐恢复。如果在愈合完成前中断了此恢复期，该部位将保持残疾且无法使用，只能通过“愈合”法术治愈。
 
-反转时，“重伤术”可用于减少一个身体部位 1d8+4 点生命值。施法者的引导检定作为攻击对手的检定，并被视为法术姿势要求的一部分。无需额外的攻击检定。此法术不能切断肢体，但可以正常将其压碎或损毁。穿着的盔甲和天然盔甲都无法提供保护，但魔法护甲点数会正常减少伤害。
+反转时，“导致重伤”可用于使单个命中部位减少 1d8+4 点生命值。施法者的引导检定作为命中对手的检定，并被视为法术躯体成分的一部分。无需额外掷骰命中。此法术无法切断该部位，但可以正常地将其压碎或损毁。穿着的护甲和天然护甲均不提供保护，但魔法护甲点数可以正常减少伤害。
 
 ---
 #### 治愈轻伤 \(R\)
@@ -637,216 +638,216 @@
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1 | **施法时间：** 2 动作 |
-| **领域：** 治疗 | **持续时间：** 永久 |
-| **消耗：** 3（或 1） | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 不适用（耐力或闪避） |
+| **等级:** 牧师 1 | **施法时间:** 2 行动 |
+| **领域:** 治疗 | **持续时间:** 永久 |
+| **消耗:** 3 (或 1) | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无（体质 或 闪避） |
 
-“治愈轻伤”根据所针对病症的性质有几种不同的效果。当施加于遭受轻伤的生物时，受伤部位立即治愈 1d4+1 点生命值。它对严重伤害和重伤效果有限，只能恢复 1 点生命值。然而，该法术无论伤害如何都能稳定该部位，停止所有流血并防止迫在眉睫的死亡。
+“治愈轻伤”根据所治疗疾病的性质有几种不同的效果。当施加于遭受轻伤的生物时，受伤部位会瞬间恢复 1d4+1 点生命值。它对严重损伤和重伤的效果有限，只能恢复 1 点生命值。然而，该法术无论伤害如何都能稳定该部位，止住所有流血并防止即将到来的死亡。
 
-或者，如果受术者正遭受轻微不适（如头痛、背痛、宿醉、感冒、疣等），施展“治愈轻伤”可以消除其中一种效果。这种情况下的法术消耗仅需 1 点魔法值。
+此外，如果受术者患有轻微不适，如头痛、背痛、宿醉、感冒、疣等，施展“治愈轻伤”可以消除其中一种效果。这种情况下的法术消耗仅需 1 点魔法点数。
 
-反转时，“轻伤术”使受影响部位的生命值减少 1d4+1 点，但在其他方面以相同方式运作。“轻伤术”对已遭受严重伤害或重伤的部位只会造成 1 点伤害，多余的伤害会损失。此法术不能切断肢体，但可以正常将其压碎或损毁。
+反转时，“导致轻伤”使被接触部位的生命值减少 1d4+1 点，但除此之外的操作方式相同。“导致轻伤”对已遭受严重损伤或重伤的部位仅造成 1 点伤害，多余的伤害会损失。此法术无法切断该部位，但可以正常地将其压碎或损毁。
 
-或者，该法术可以导致轻微病痛，如头痛、背痛、宿醉、感冒、疣等。这种情况下的法术消耗仅需 1 点魔法值。
+此外，该法术可能导致轻微的疾病，如头痛、背痛、宿醉、感冒、疣等。这种情况下的法术消耗仅需 1 点魔法点数。
 
-施法者的引导检定作为攻击对手的检定，并被视为法术姿势要求的一部分。无需额外的攻击检定。穿着的盔甲和天然盔甲都无法提供保护，但魔法护甲点数会正常减少伤害。
+施法者的引导检定作为命中对手的检定，并被视为法术躯体成分的一部分。无需额外掷骰命中。穿着的护甲和天然护甲均不提供保护，但魔法护甲点数可以正常减少伤害。
 
 ---
-#### 治愈重创 \(R\)
+#### 治愈严重损伤 \(R\)
 
 (死灵系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 1 轮 |
-| **领域：** 治疗 | **持续时间：** 永久 |
-| **消耗：** 3 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 不适用（耐力或闪避） |
+| **等级:** 牧师 2 | **施法时间:** 1 轮 |
+| **领域:** 治疗 | **持续时间:** 永久 |
+| **消耗:** 3 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无（体质 或 闪避） |
 
-此法术的功能与“治愈轻伤”相同，下文注明的除外。
+除非下文另有说明，此法术的作用方式与“治愈轻伤”相同。
 
-“治愈重创”为一个身体部位治愈 1d6+2 点伤害，前提是伤势不比重创更严重。它对重伤效果有限，可为该部位治愈 2 点生命值并稳定伤势，防止死亡。
+“治愈严重损伤”可治愈单个命中部位 1d6+2 点伤害，前提是伤害不重于严重损伤。它对重伤的效果有限，可为该部位恢复 2 点生命值并稳定伤势，防止死亡。
 
-反转时，“重创术”使一个身体部位减少 1d6+2 点生命值。“重创术”对已遭受重伤的部位只会造成 2 点伤害；任何多余的伤害都会损失。施法者的引导检定作为攻击对手的检定，并被视为法术姿势要求的一部分。无需额外的攻击检定。此法术不能切断肢体，但可以正常将其压碎或损毁。穿着的盔甲和天然盔甲都无法提供保护，但魔法护甲点数会正常减少伤害。
+反转时，“导致严重损伤”使单个命中部位减少 1d6+2 点生命值。“导致严重损伤”对已遭受重伤的部位仅造成 2 点伤害；多余的伤害会损失。施法者的引导检定作为命中对手的检定，并被视为法术躯体成分的一部分。无需额外掷骰命中。此法术无法切断该部位，但可以正常地将其压碎或损毁。穿着的护甲和天然护甲均不提供保护，但魔法护甲点数可以正常减少伤害。
 
 ---
-#### 舞光术
+#### 跳动之光
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 2 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 0 |
-| **范围：** 100 英尺半径/强度 | **抵抗：** 不适用 |
+| **等级:** 法师 1 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 2 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 0 |
+| **范围:** 100 英尺 半径/强度 | **抵抗:** 无 |
 
-当施展此法术时，魔法使用者可以创造以下效果之一：1d4 个类似于灯笼或火把的闪烁光点，它们发出等量的照明；1d4 个类似鬼火的发光球体；或者 1 个像火元素那样闪烁的模糊类人光影。这些效果可由施法者引导，无需专注，并可在法术范围内以任何想要的速度移动。如果光线移出法术作用范围，或持续时间结束，它们就会消失。
+当施展此法术时，魔法使用者可以创造以下效果之一：1d4 个类似于灯笼或火把的闪烁光点，它们提供相同数量的照明；1d4 个发光的鬼火球；或 1 个类似于火元素生物的类人形闪烁光影。施法者无需集中即可指挥这些效果，并且可以在法术范围内以任意速度移动。如果光线移出法术的作用范围，或者持续时间到期，它们就会瞬间消失。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变动效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 1d4 光点或 1 个光影，持续 2 分钟，100 英尺半径 |
-| 2 | 2 | 1d4 光点或 1 个光影，持续 4 分钟，200 英尺半径 |
-| 3 | 3 | 1d4 光点或 1 个光影，持续 6 分钟，300 英尺半径 |
-| 4 | 4 | 1d4 光点或 1 个光影，持续 8 分钟，400 英尺半径 |
-| +1 | +1 | 继续递增 |
+| 1 | 1 | 1d4 个光点或 1 个形状，持续 2 分钟，半径 100 英尺 |
+| 2 | 2 | 1d4 个光点或 1 个形状，持续 4 分钟，半径 200 英尺 |
+| 3 | 3 | 1d4 个光点或 1 个形状，持续 6 分钟，半径 300 英尺 |
+| 4 | 4 | 1d4 个光点或 1 个形状，持续 8 分钟，半径 400 英尺 |
+| +1 | +1 | 继续升级 |
 
 ---
-#### 黑暗术
+#### 黑暗
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 10 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 30 英尺/强度 |
-| **范围：** 10 英尺半径 | **抵抗：** 不适用 |
+| **等级:** 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 10 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 30 英尺/强度 |
+| **范围:** 10 英尺 半径 | **抵抗:** 无 |
 
-此法术在 10 英尺半径内创造出一片完全的魔法黑暗区域，阻挡正常视力以及像红外视觉之类的特殊种族视力。所有形式的凡世光线都会被此法术抵消，从阳光到烛光。它可以通过施展“光亮术”来反制，反之亦然；然而，其他形式的魔法光线（如“舞光术”、“精灵火”，甚至是探测法术发出的光芒）都会被“黑暗术”抵消。一个已有持续时间的光亮术对黑暗术没有效果，反之亦然。
+此法术在 10 英尺半径内创造一个完全的魔法黑暗区域，阻挡正常视力以及像红外视觉这样的特殊种族视力。从日光到烛光，所有形式的普通光线都会被此法术抵消。它可以通过施展“光亮”来反制，反之亦然；然而，其他形式的魔法光线，如“跳动之光”、“妖火”，甚至“侦测”类法术发出的光芒，都会被“黑暗”消除。具有持续时间的“光亮”法术对“黑暗”无效，反之亦然。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变动效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 10 分钟；30 英尺距离 |
-| 2 | 2 | 20 分钟；60 英尺距离 |
-| 3 | 3 | 30 分钟；90 英尺距离 |
-| 4 | 4 | 40 分钟；120 英尺距离 |
-| +1 | +1 | 继续递增 |
+| 1 | 1 | 10 分钟；30 英尺 射程 |
+| 2 | 2 | 20 分钟；60 英尺 射程 |
+| 3 | 3 | 30 分钟；90 英尺 射程 |
+| 4 | 4 | 40 分钟；120 英尺 射程 |
+| +1 | +1 | 继续升级 |
 
 ---
-#### 暗视术
+#### 暗视
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 1 分钟 |
-| **领域：** 无 | **持续时间：** 2 小时/强度 |
-| **消耗：** 1/强度 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 不适用 |
+| **等级:** 法师 2 | **施法时间:** 1 分钟 |
+| **领域:** 无 | **持续时间:** 2 小时/强度 |
+| **消耗:** 1/强度 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无 |
 
-此法术赋予受术者 60 英尺距离的暗视能力。其功能在各方面与同名的种族能力相同。
+此法术赋予受术者 60 英尺射程的暗视能力。其功能与同名的种族特征完全相同。
 
 ---
-#### 死亡术
+#### 死神之咒
 
 (死灵系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 4 | **施法时间：** 2 动作 |
-| **领域：** 无 | **持续时间：** 瞬时 |
-| **消耗：** 3 +1/强度，+2 经验值 | **距离：** 30 英尺/强度 |
-| **范围：** 15 英尺半径 | **抵抗：** 耐力 |
+| **等级:** 法师 4 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 瞬时 |
+| **消耗:** 3 +1/强度，+2 经验 | **射程:** 30 英尺/强度 |
+| **范围:** 15 英尺 半径 | **抵抗:** 体质 |
 
-此法术施展成功后，会杀死范围作用内一定数量体型 40 或以下的生物。魔法使用者为每一级强度掷 1d6 来确定受影响的生物数量。当不同体型类别的生物占据范围时，人类体型的生物（SIZ 1-20）总是先于较大的生物受到影响。大型生物（SIZ 21-40）更有可能抵抗死亡，其抵抗检定为“容易”，然而，每个大型生物算作 5 个类人生物。体型大于 40 的生物不受此法术影响。
+成功施展此法术可杀死作用范围内数量不等的体型 40 或以下的生物。魔法使用者为每级强度投掷 1d6，以确定受影响的生物数量。当不同体型类别的生物占据作用范围时，人类体型的生物（体型 1-20）总是先于大型生物受到影响。大型生物（体型 21-40）更有可能抵抗死亡，其抵抗检定为“简单”，但每个大型生物计为 5 个体型相当人类的生物。体型大于 40 的生物不受此法术影响。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 消耗 | 变动效果 |
 | :-: | :-: | :-- |
-| 1 | 3 +2 经验值 | 30 英尺距离；影响 1d6 个生物 |
-| 2 | 4 +2 经验值 | 60 英尺距离；影响 2d6 个生物 |
-| 3 | 5 +2 经验值 | 90 英尺距离；影响 3d6 个生物 |
-| 4 | 6 +2 经验值 | 120 英尺距离；影响 4d6 个生物 |
-| +1 | +1 | 继续递增 |
+| 1 | 3 +2 经验 | 30 英尺 射程；影响 1d6 个生物 |
+| 2 | 4 +2 经验 | 60 英尺 射程；影响 2d6 个生物 |
+| 3 | 5 +2 经验 | 90 英尺 射程；影响 3d6 个生物 |
+| 4 | 6 +2 经验 | 120 英尺 射程；影响 4d6 个生物 |
+| +1 | +1 | 继续升级 |
 
-以足够的强度施展法术使其等于或超过潜在目标数量是可取的，因为点数不足会造成损失。此法术对狼人、不死生物或其他位面生物无效。只有“祈愿术”才能使被此法术影响的人死而复生。
+以足以等于或超过潜在目标数量的强度施展法术是明智的，因为不足的点数会损失。此法术对狼人、不死生物或其他位面生物无效。只有“祈愿术”才能将受此法术影响的人起死回生。
 
-_示例：伦加斯（Rengarth）对四个体型 16 的兽人和两个体型 32 的山岭巨人施展“死亡术”，选择强度为 3。为法术效果掷 3d6（每强度 1d6），结果为 12 点。虽然每个山岭巨人只需 5 点即可被杀死，但较小的兽人会先受到影响。四个兽人中有三个未通过抵抗检定而死亡。由于每个兽人相当于 1 点，剩余 8 点。这足以影响一个山岭巨人（消耗 5 点），剩余 3 点损失。然而，愤怒的山岭巨人成功通过了其“容易”的抵抗检定，并向伦加斯发起了冲锋。_
+*示例：Rengarth 对一个占据了四个体型 16 的兽人和两个体型 32 的山岭巨人的区域施展“死神之咒”，选择强度为 3。为法术效果投掷 3d6（每强度 1d6），结果为 12 点。虽然每个山岭巨人仅需 5 点即可被杀死，但较小的兽人会首先受到影响。四个兽人中有三个抵抗检定失败并死亡。由于每个兽人相当于 1 点，还剩下 8 点。这足以影响一个山岭巨人（消耗 5 点），剩余的 3 点损耗。然而，愤怒的山岭巨人成功通过了它的“简单”抵抗检定，并向 Rengarth 冲了过来。*
 
 ---
-#### 偏转术
+#### 偏转
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0，法师 0 | **施法时间：** 1 动作 |
-| **领域：** 防护 | **持续时间：** 专注 |
-| **消耗：** 1 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **等级:** 牧师 0，法师 0 | **施法时间:** 1 行动 |
+| **领域:** 防护 | **持续时间:** 集中 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无 |
 
-“偏转术”保护受术者免受微小的异物撞击，例如雨滴、小虫群，甚至是飞扬的砂砾。保护仅限于比儿童指甲还小的个体物体，因此无法阻止常规导弹武器击中角色。
+“偏转”保护受术者免受微小外物撞击，如雨滴、蠓虫云，甚至飞扬的砂砾。防护仅限于比儿童指甲小的独立物体，因此无法防止普通远程武器击中角色。
 
 ---
-#### 探测魅惑 \(R\)
+#### 侦测魅惑 \(R\)
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1 | **施法时间：** 1 轮 |
-| **领域：** 预言 | **持续时间：** 2 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 100 英尺 |
-| **范围：** 每分钟 1 个目标 | **抵抗：** 不适用 |
+| **等级:** 牧师 1 | **施法时间:** 1 轮 |
+| **领域:** 预言 | **持续时间:** 2 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 100 英尺 |
+| **范围:** 1 个目标/分钟 | **抵抗:** 无 |
 
-此法术允许施法者辨别一个或多个选定生物是否处于“魅惑”效果之下。扫描一个生物需要完整一分钟的专注。当该法术的逆转形式“隐藏魅惑”被施展时，一个生物可以在 6 小时/强度的时间内免受此类探测。
+此法术允许施法者辨别一个或多个选定的生物是否受到“魅惑”的影响。扫描一个生物需要持续集中的一整分钟。当施展此法术的反转形式（隐蔽魅惑）时，一个生物可在此后 6 小时/强度的时间内免受此类侦测。
 
 ---
-#### 探测邪恶 \(R\)
+#### 侦测邪恶 \(R\)
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1，法师 2 | **施法时间：** 1 动作 |
-| **领域：** 所有 | **持续时间：** 5 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 180 英尺 |
-| **范围：** 90 度弧线 | **抵抗：** 不适用 |
+| **等级:** 牧师 1，法师 2 | **施法时间:** 1 行动 |
+| **领域:** 全部 | **持续时间:** 5 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 180 英尺 |
+| **范围:** 90 度弧线 | **抵抗:** 无 |
 
-通过此法术，施法者可以在 180 英尺范围内、90 度的弧线上探测强烈的邪恶气息。它只能发现超自然性质的邪恶生物（如恶魔和吸血鬼），或由地下城主确定的具有邪恶或卑劣意图的凡世生物。然而，它不会探测到陷阱、毒药、被诅咒的物品等。施法者可以通过厚达 3 英尺的实木、1 英尺的石块或泥土以及 1 英寸的实心金属看到这些气息。因为魔法光环需要时间形成，每分钟扫描的弧度不得超过 60 度。此法术的逆转形式“探测善良”遵循上述同样的规则。
+通过此法术，施法者可以在 180 英尺外侦测 90 度扇形弧线内的强烈邪恶气息。它只会发现超自然性质的邪恶生物（如恶魔和吸血鬼），或由游戏主持人决定的带有邪恶或卑劣意图的凡人存在。但是，它不会侦测到陷阱、毒药、被诅咒的物品等。施法者可以透过厚达 3 英尺的实木、1 英尺的石头或泥土以及 1 英寸的坚固金属看到这种气息。由于魔法灵光需要时间形成，每分钟最多只能扫描一个 60° 弧线。此法术的反转形式“侦测善良”，遵循上述相同规则。
 
 ---
-#### 探测隐形
+#### 侦测隐形
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 5 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 0 |
-| **范围：** 视线内 | **抵抗：** 不适用 |
+| **等级:** 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 5 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 0 |
+| **范围:** 视线范围 | **抵抗:** 无 |
 
-当此法术被施展时，魔法使用者获得看见任何隐形物体或生物的能力。这包括那些被隐藏的、空灵的、星界的或处于相位之外的生物。它也可以探测到那些通过凡世手段隐藏或掩盖的物体。与其他探测法术不同，探测隐形仅限于视线范围，不需要一分钟来扫描视野弧度。
+当施展此法术时，魔法使用者获得观察任何隐形物体或生物的能力。这包括那些处于隐藏、灵体、星界或跨位面状态的生物。它还可以侦测那些通过普通手段隐藏或伪装的对象。与其他“侦测”法术不同，此法术仅限于视线范围，且无需一分钟来扫描视野弧线。
 
 ---
-#### 探测谎言 \(R\)
+#### 侦测谎言 \(R\)
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 1 轮 |
-| **领域：** 预言 | **持续时间：** 1 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 100 英尺 |
-| **范围：** 1 个目标 | **抵抗：** 欺诈 |
+| **等级:** 牧师 2 | **施法时间:** 1 轮 |
+| **领域:** 预言 | **持续时间:** 1 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 100 英尺 |
+| **范围:** 1 个目标 | **抵抗:** 欺诈 |
 
-施展时，此法术确定一个生物是否在明知的情况下撒谎或以其他方式隐瞒真相。然而，真相本身不会被揭示，只会显示所提供的答案不准确。目标仍可以尝试“战胜”该法术，通过其欺诈技能进行的“艰巨”对抗检定，对比原始施法检定。该法术可以反转，如果反转，使用“掩盖谎言”可以在每强度 6 小时的时间内防止通过魔法手段探测到谎言。
+施展时，此法术确定一个人是否在明知的情况下撒谎或以其他方式隐瞒真相。然而，真实情况并不会揭示，只会指出所提供的答案不准确。目标仍可尝试“击败”法术，进行其“欺诈”与原始施法检定的“艰巨”对抗检定。该法术可以反转，如果反转，“隐蔽谎言”可在每强度 6 小时的时间内防止魔法侦测谎言。
 
 ---
-#### 探测魔法
+#### 侦测魔法
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1，法师 1 | **施法时间：** 1 动作 |
-| **领域：** 所有 | **持续时间：** 2 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 0 |
-| **范围：** 90 度弧线，60 英尺 | **抵抗：** 不适用 |
+| **等级:** 牧师 1，法师 1 | **施法时间:** 1 行动 |
+| **领域:** 全部 | **持续时间:** 2 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 0 |
+| **范围:** 90 度弧线，60 英尺 | **抵抗:** 无 |
 
-施展时，施法者会看到环绕在 60 英尺内、90 度弧线中任何魔法物品或法术效果周围的蓝色发光光环。此法术还将探测到下表所示的近似强度和等级。
+施展时，施法者会看到任何魔法物品或法术效果周围环绕着蓝色的发光灵光，范围为 90 度扇形弧线，距离达 60 英尺。此法术还将侦测大致强度和量级，如下表所示。
 
-##### 探测到的强度和/或等级
+##### 侦测到的强度和/或量级
 
-| D100 检定 | 强度/等级 |
+| D100 掷骰 | 强度/量级 |
 | :-: | :-- |
 | 01-25 | -1d3 |
-| 26-75 | 确切强度/等级 |
+| 26-75 | 确切 强度/量级 |
 | 76-00 | +1d3 |
 
-每点强度有 10% 的几率发现魔法的具体类型（死灵系、元素系等）。施法者看到的光环可以穿透固体物体，厚度可达 3 英尺木材、1 英尺石块和 1 英寸实心金属。因为魔法光环需要时间形成，每分钟扫描的弧度不得超过 60 度。恶魔、魔鬼、天使和元素本身并非魔法，但如果它们是被召唤出来的，召唤法术将在施法位置显示，持续时间等于召唤法术等级 x10 分钟。
+每点强度有 10% 的几率发现魔法的具体类型（死灵、元素等）。施法者看到的灵光可穿透固体物体，厚达 3 英尺的木材、1 英尺的石头以及 1 英寸的坚固金属。由于魔法灵光需要时间形成，每分钟最多只能扫描一个 60° 弧线。恶魔、魔鬼、天使和元素生物本身并不具有魔法属性，但如果它们是被召唤出来的，召唤法术将在其施展位置持续显示，持续时间等于召唤法术量级 x 10 分钟。
 
 ---
 #### 次元门
@@ -855,276 +856,280 @@ _示例：伦加斯（Rengarth）对四个体型 16 的兽人和两个体型 32 
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 3 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 瞬时 |
-| **消耗：** 3+1/额外强度 | **距离：** 0 |
-| **范围：** 施法者 | **抵抗：** 不适用 |
+| **等级:** 法师 3 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 瞬时 |
+| **消耗:** 3+1/额外强度 | **射程:** 0 |
+| **范围:** 施法者 | **抵抗:** 无 |
 
-次元门是一种短距离传送形式。施法者瞬间跳跃到每强度 100 英尺的距离，无需穿越中间空间，且没有任何出错的机会。目标位置可以是肉眼可见的，也可以通过方向指定：前方直线 40 英尺、下方 65 英尺、左侧 45 度等。到达半空中会导致坠落伤害，除非被“羽落术”等法术拯救，而意外跳入固体物体则会将施法者困在星界。所有随身携带的设备（非生命、无生命物质）随施法者一同跳跃。不超过 20 体型的生命物质可以陪同施法者。例如，体型 11 的角色可以在双方接触的情况下与施法者一起跳跃。施法者以及任何被传送的生物都需要整整一轮来恢复。在此期间如果受到攻击，这些人只能进行防御。
+次元门是一种短程传送形式。施法者瞬间跳跃至每强度 100 英尺的距离，无需穿过中间空间，且不会出现差错。目标位置既可以是视觉可见的，也可以指定方向：向前直走 40 英尺、向下 65 英尺、向左 45° 等。抵达空中会导致坠落伤害，除非被“羽落术”等法术拯救，而意外跳进坚硬物体内则会将施法者困在星界。所有身体携带的装备（非生物、无生命物质）都会与施法者一起跳转。不超过 20 体型的活体物质可以陪伴施法者。例如，一个体型 11 的角色可以在双方接触的前提下与施法者一同跳转。施法者以及被传送的任何生物都需要整整一轮进行恢复。如果在此期间受到攻击，这些人只能进行防御。
 
 ---
-#### 解除魔法
+#### 驱散魔法
 
 (防护系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2，法师 2 | **施法时间：** 2 动作 |
-| **领域：** 防护 | **持续时间：** 瞬时 |
-| **消耗：** 1 | **距离：** 360 英尺 |
-| **范围：** 15 英尺半径 | **抵抗：** 不适用 |
+| **等级:** 牧师 2，法师 2 | **施法时间:** 2 行动 |
+| **领域:** 防护 | **持续时间:** 瞬时 |
+| **消耗:** 1 | **射程:** 360 英尺 |
+| **范围:** 15 英尺 半径 | **抵抗:** 无 |
 
-“解除魔法”可以针对特定目标或指定区域施展，一旦施展，目标点 15 英尺半径内的所有魔法都容易被消除。它结束目标身上正在进行的法术，但对其他魔法效果没有影响。它对魔法生物或不死生物无效。解除魔法可以消除作用范围内等级低于该法术强度的所有其他魔法。魔法物品和被迷惑类法术（如“人类定身术”）的受害者例外，必须单独指定目标。法术的效果不能被部分消除。
+“驱散魔法”可针对特定目标或指定区域施展，一旦施展，目标点 15 英尺半径内的所有魔法都易受消除影响。它会终结目标身上持续的法术，但对其他魔法效果无能为力。它对魔法生物或不死生物无效。“驱散魔法”消除作用范围内所有量级低于法术强度的小于法术强度的魔法。例外情况是魔法物品和受“魅惑人类”等迷惑类法术影响的受害者，必须单独作为目标。法术的效果不能被部分消除。
 
-解除魔法从作用范围内最强大的魔法开始。如果它未能消除任何法术（因为法术等级太高），那么该法术结束，无法再消除更多魔法。
+“驱散魔法”从作用范围内最强大的魔法开始。如果它未能消除任何法术（因为该法术的量级太高），则法术结束，不再能消除更多魔法。
 
-“解除魔法”可以通过使用“反制法术”反应动作，防御性地用于抵消即将到来的攻击性法术。#### 占卜 (Divination)
+“驱散魔法”可以通过使用“反制法术”反应行动来防御性地抵消即将来袭的进攻法术。#### 占卜
+
+(Divination)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3 | **施法时间：** 10 分钟 |
-| **领域：** 占卜 | **持续时间：** 专注 |
-| **消耗：** 3/强度 | **距离：** 0 |
-| **范围：** 见下文 | **抵抗：** N/A |
+| **位阶:** 牧师 3 | **施法时间:** 10 分钟 |
+| **领域:** 占卜 | **持续时间:** 专注 |
+| **消耗:** 3/强度 | **射程:** 0 |
+| **范围:** 见下文 | **抵抗:** N/A |
 
-施放此法术后，牧师可以从其神祇处获得有关未来一周内预定发生的某种尚未进行的活动的信息。与威力较弱的“预兆术 (Augury)”不同，占卜提供的是具体信息。施展此法术所需的“引导 (Channel)”技能检定难度起始为“极其困难 (Formidable)”，每增加一级强度，难度降低一个等级。强度最高不超过 5 级，且掷骰结果为 96% 或更高时总是失败。
+施放此法术后，牧师可以从其神祇处获得关于一周内预计发生的某项尚未进行的活动的信息。与威力较弱的“预兆术”（Augury）不同，占卜提供的是具体信息。施放此法术的“引导”技能掷骰难度起始为“艰巨”，每提升一级强度，难度就会降低一个等级。强度最高不超过5级，且96%或更高的掷骰总是视为失败。
 
-游戏主持人应代玩家进行此项检定，因为在某些情况下，存在对施法者怀有敌意的魔法，在这种情况下，失败可能会揭示虚假信息。
+游戏主持人应代玩家进行此掷骰，因为在某些情况下，可能存在敌视施法者的魔法在起作用，在这种情况下，失败可能会揭示错误的信息。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 法术难度为“极其困难 (Formidable)” |
-| 2 | 6 | 法术难度为“困难 (Hard)” |
-| 3 | 9 | 法术难度为“标准 (Standard)” |
-| 4 | 12 | 法术难度为“简单 (Easy)” |
-| 5 | 15 | 法术难度为“非常简单 (Very Easy)” |
+| 1 | 3 | 法术施放难度为“艰巨” |
+| 2 | 6 | 法术施放难度为“困难” |
+| 3 | 9 | 法术施放难度为“标准” |
+| 4 | 12 | 法术施放难度为“简单” |
+| 5 | 15 | 法术施放难度为“非常简单” |
 
 ---
-#### 干燥 (Dry)
+#### 干燥
 
-(变化系)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 0 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 瞬时 |
-| **消耗：** 1 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** N/A |
+| **位阶:** 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 瞬时 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 目标 | **抵抗:** N/A |
 
-“干燥”可以去除物体或人身上所有多余的水分，水分要么滑落形成水洼，要么化作蒸气云蒸发掉。它通常用于大雨过后烘干身体或帮助保护装备免受腐烂，但也有多种其他用途。施法者可以干燥 SIZ 最高为 POW x2 的物体。
+“干燥”会从物体或人身上去除所有多余的水分，这些水分要么滑落形成水洼，要么化作云雾蒸发。它通常用于大雨后干燥身体或帮助保护设备免于腐烂，但还有其他多种用途。施法者最多可以干燥体型（体型）为灵力（灵力）x2 的物体。
 
 ---
-#### 地震 (Earthquake)
+#### 地震
 
-(变化系)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 5，法师 5 | **施法时间：** 10 分钟/1 动作 |
-| **领域：** 元素（土） | **持续时间：** 1 分钟 |
-| **消耗：** 3+1/额外强度 | **距离：** 50 英尺/强度 |
-| **范围：** 10 英尺半径/强度 | **抵抗：** 回避 (Evade) |
+| **位阶:** 牧师 5, 法师 5 | **施法时间:** 10 分钟1 行动 |
+| **领域:** 元素（大地） | **持续时间:** 1 分钟 |
+| **消耗:** 3+1/额外强度 | **射程:** 50 英尺/强度 |
+| **范围:** 10 英尺半径/强度 | **抵抗:** 闪避 |
 
-地震会引起地面震动，足以将人震倒并使坚硬的建筑物倒塌。至少，如果未能抵抗此法术，受害者会陷入俯卧状态。如果身处建筑物、建筑密集区或某些脆弱位置（如森林或悬崖下），若“回避”检定失败，还意味着该目标会被倒塌的碎片击中并被困住。穿戴的盔甲提供一半防护，但魔法护甲点 (Armor Points) 或生物的天然护甲按常理减少伤害。
+“地震”会引发地面震动，能够将人震倒并使坚固的建筑物倒塌。至少，如果抵抗此法术失败，受害者会倒地。如果位于建筑物内、建筑密集区或其他脆弱地点（如森林或悬崖下），若闪避失败，还意味着受害者被击中并被坠落的碎片困住。穿着的护甲提供一半的防护，但魔法护甲点数或生物的天然护甲会按常理减少伤害。
 
 | 强度 | 消耗 | 可变效果 | 潜在伤害 |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | 50 英尺距离；10 英尺半径；精细平衡的物体倾倒，悬挂物体摆动。 | 无 |
-| 2 | 4 | 100 英尺距离；20 英尺半径；墙壁和建筑物发出嘎吱声。 | 无 |
-| 3 | 5 | 150 英尺距离；30 英尺半径；灰泥和玻璃窗裂开，树木及其他高大物体剧烈颤动。 | 无 |
-| 4 | 6 | 200 英尺距离；40 英尺半径；重家具移动，挂墙物体掉落，墙壁开裂。 | 无 |
-| 5 | 7 | 250 英尺距离；50 英尺半径；土筑、编条抹泥或泥砖造的简易建筑物部分倒塌。小树枝掉落。 | 1d2 伤害至单个部位 |
-| 6 | 8 | 300 英尺距离；60 英尺半径；重家具翻倒。土筑、编条抹泥或泥砖建筑物被毁。实木或砖石建筑物部分倒塌。圆柱、雕像和围墙倒塌。大树枝掉落。 | 1d4 伤害至单个部位 |
-| 7 | 9 | 350 英尺距离；70 英尺半径；简易建筑物倒塌。地面明显开裂，陡坡发生落石。地下管道和下水道破裂。木桥倒塌。小树倾倒。 | 1d6 伤害至单个部位 |
-| 8 | 10 | 400 英尺距离；80 英尺半径；结构良好的建筑物倒塌。大型防御工事、城墙和石桥受损。地面严重开裂。发生大规模滑坡和雪崩。大树倾倒。 | 1d8 伤害至两个部位 |
-| 9 | 11 | 450 英尺距离；90 英尺半径；几乎没有建筑物能屹立不倒。隧道和洞穴坍塌。地面出现宽裂缝。巨树倾倒。 | 1d10 伤害至三个部位 |
-| 10 | 12 | 500 英尺距离；100 英尺半径；彻底摧毁，连巨大的石制古迹也部分倒塌。悬崖和山坡破碎。 | 1d12 伤害至四个部位 |
+| 1 | 3 | 50 英尺射程；10 英尺半径；精细平衡的物体倾倒，悬挂的物体晃动。 | 无 |
+| 2 | 4 | 100 英尺射程；20 英尺半径；墙壁和建筑物发出嘎吱声。 | 无 |
+| 3 | 5 | 150 英尺射程；30 英尺半径；灰泥和玻璃窗破裂，树木和其他高大物体剧烈颤动。 | 无 |
+| 4 | 6 | 200 英尺射程；40 英尺半径；沉重家具移动，挂墙物体掉落，墙壁出现裂缝。 | 无 |
+| 5 | 7 | 250 英尺射程；50 英尺半径；由土、篱笆和灰泥或泥砖构成的简单建筑物部分倒塌。小树枝掉落。 | 1d2 伤害至单个位置 |
+| 6 | 8 | 300 英尺射程；60 英尺半径；沉重家具倾覆。土、篱笆和灰泥或泥砖建筑物被毁。实木或砖石建筑物部分倒塌。圆柱、雕像和边界墙倒塌。大树枝掉落。 | 1d4 伤害至单个位置 |
+| 7 | 9 | 350 英尺射程；70 英尺半径；简易建筑物倒塌。地面明显开裂，陡坡落石。地下管道和下水道破损。木桥倒塌。小树倾倒。 | 1d6 伤害至单个位置 |
+| 8 | 10 | 400 英尺射程；80 英尺半径；结构良好的建筑物倒塌。大型防御工事、城墙和石桥受损。地面严重开裂。滑坡和雪崩严重。大树倾倒。 | 1d8 伤害至两个位置 |
+| 9 | 11 | 450 英尺射程；90 英尺半径；几乎没有建筑物能保持直立。隧道和洞穴塌方。地面出现宽阔裂缝。巨树倾倒。 | 1d10 伤害至三个位置 |
+| 10 | 12 | 500 英尺射程；100 英尺半径；彻底摧毁，即使是巨大的石碑也会部分倒塌。悬崖和山体侧翼破碎。 | 1d12 伤害至四个位置 |
 
 ---
-#### 附魔物品 (Enchant Item)
+#### 附魔物品
 
-(附魔系)
+(Enchantment)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 4 | **施法时间：** 见下文 |
-| **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 3 + 见下文 | **距离：** 接触 |
-| **范围：** 1 件物品 | **抵抗：** N/A |
+| **位阶:** 法师 4 | **施法时间:** 见下文 |
+| **领域:** 无 | **持续时间:** 见下文 |
+| **消耗:** 3 + 见下文 | **射程:** 接触 |
+| **范围:** 1 物体 | **抵抗:** N/A |
 
-施展此法术是为了让物品为“附魔”做准备。物体必须状况良好，且具备极其精良的结构与工艺。需要至少 100 金币的额外费用来支付加工、雕刻、刺绣、镶嵌、刻蚀等额外开支。最后，附魔过程需要一个实验室或工作室。
+施放此法术为物品进行“附魔”做准备。物体必须处于良好状态，且具有极佳的构造和工艺。此外，还需要至少 100 金币的额外费用，以支付额外的加工、雕刻、刺绣、珠宝镶嵌、铭刻等费用。最后，附魔过程需要实验室或工作室。
 
-在施法过程中，魔法使用者必须在 1d8+2 天的整个施法时间内持续接触该物品。这包括了休息和睡眠时间，在此期间物品必须保持在施法者的一臂距离内。在整个施法过程中，魔法使用者不得施放其他法术或进行任何其他形式的魔法。违反上述任何准则都会自动导致法术失败。
+在施法过程中，施法者必须在整个 1d8+2 天的施法时间内接触该物品。这包括休息和睡眠期间，在此期间，物品必须保持在施法者的一臂之内。在施法过程中，施法者不得施放其他法术或执行任何其他形式的魔法。违反上述任何规定都会导致法术自动失败。
 
-成功施放后，物品准备好了最后一步，即由施法者将期望的法术注入其中。为此，他们必须在 24 小时内将该法术置于记忆中或卷轴上并将其施放入物品中，否则整个过程将需要从头开始。一旦开始施放所选法术，过程可能超过上述 24 小时。为物品注入所选法术的消耗等于期望强度的正常魔法点数，且每法术等级需耗时 1d12 小时。在整个注入过程中，施法者必须保持接触物品或如上所述在休息期间保持在一臂距离内，并在施法周期结束时进行一次“奥术施法 (Arcane Casting)”检定以成功注入法术。遵循正常的法术施法成功度规则，然而关于“失败”结果，法术不可强行注入。只要在完成前一个法术的 24 小时内开始施法过程，就可以在物品中注入后续法术。即使在前一个法术失败的情况下，此规则也适用。每个后续法术都需要正常的施法消耗。
+成功施放后，物品已准备好进行最后一步，即将所需的法术放入其中。为此，他们必须将该法术保存在记忆中或卷轴上，并在 24 小时内将其施放入物品中，否则整个过程将不得不从头开始。一旦开始施放所选法术，该过程可能会超过上述 24 小时。为物品注入所选法术需要消耗对应目标强度的正常魔法点数，并花费每个法术位阶 1d12 小时。在整个注入过程中，施法者必须保持接触物品或如上所述在休息期间保持在一臂之内，且在施法周期结束时需要进行一次“奥术施法”掷骰以成功注入法术。遵循正常的法术施法成功等级，但对于“失败”结果，法术不能被强行施放。如果注入过程在前一个法术完成后的 24 小时内开始，则可以在物品中注入后续法术。即使在前一次法术失败的情况下也适用。每个后续法术都需要正常的施法消耗。
 
-使用该物品时，包含的每个法术只能施放一次，但可以通过上述程序注入相同法术的多个版本。也可以注入单个法术，随后施放 4 级法术“永恒术 (Permanency)”。在这种情况下，可以根据“永恒术”法术描述中设定的限制，根据需要随时施放该法术。
+使用该物品时，包含的每个法术只能施放一次；但是，可以通过上述过程注入同一法术的多个版本。也可以注入单个法术，随后施放位阶 4 的“恒定术”（Permanency）。在这种情况下，可以根据“恒定术”法术说明中规定的限制，根据需要频繁施放该法术。
 
-将不符合特定法术的其他魔法效果注入物品是不可能的，许多久远年代的魔法物品在当今时代根本无法重现。
+将不符合特定法术的其他魔法效果注入物品是不可能的，许多久远的魔法物品在现今已无法重现。
 
 ---
-#### 附魔武器 (Enchant Weapon)
+#### 附魔武器
 
-(变化系)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 3 | **施法时间：** 1 分钟 |
-| **领域：** 无 | **持续时间：** 5 分钟/强度 |
-| **消耗：** 3+1/额外强度 | **距离：** 接触 |
-| **范围：** 1 件武器 | **抵抗：** N/A |
+| **位阶:** 法师 3 | **施法时间:** 1 分钟 |
+| **领域:** 无 | **持续时间:** 5 分钟/强度 |
+| **消耗:** 3+1/额外强度 | **射程:** 接触 |
+| **范围:** 1 武器 | **抵抗:** N/A |
 
-当此法术在接触普通武器时施放，该武器会被注入一个临时的附魔，赋予其魔法 +1 伤害修正。这也允许原本普通的武器打击仅能被至少拥有 +1 附魔的武器伤害的生物。该法术可用于附魔两件尺寸各为 1/2“物件 (Thing)”的武器，例如匕首、刀、箭等。否则，每次施法最多只能附魔一件武器。现有魔法武器的加值可以增加 +1，最高总加值为 +3。拥有 +3 加值的武器在计算伤害时其尺寸类别会增加一级：从“大 (Large)”变为“巨 (Huge)”，从“巨”变为“庞大 (Enormous)”，从“庞大”变为“巨大 (Colossal)”。附魔武器针对其类型的武器拥有 +5 护甲点和每 +1 附魔 +2 生命值。该法术可以与“附魔物品”和“永恒术”结合使用，以创造一种具有持久附魔的武器。
+当该法术在接触普通武器时施放，武器会被注入临时的“附魔”，获得魔法 +1 伤害修正。这也允许原本普通的武器打击那些只能被至少拥有 +1 附魔的武器伤害的生物。该法术可用于附魔两件大小各为“单位”1/2 的武器，例如匕首、小刀、箭矢等。否则，每次施放最多只能附魔一件武器。现有的魔法武器其加值可以增加 +1，总共最高组合加值为 +3。对于 +3 加值的武器，其体型（体型）在造成伤害时会增加一个等级：大到巨大，巨大到极其巨大，极其巨大到超巨大。一把“附魔武器”具有 +5 护甲点数和每 +1 附魔提供 +2 生命值（针对该类型的武器）。此法术可与“附魔物品”和“恒定术”结合使用，以创造具有持久附魔的武器。
 
 ---
-#### 耐受炎热/严寒 (Endure Heat/Cold)
+#### 忍受酷热/严寒
 
-(变化系)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1 | **施法时间：** 1 轮 |
-| **领域：** 防护 | **持续时间：** 90 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** N/A |
+| **位阶:** 牧师 1 | **施法时间:** 1 轮 |
+| **领域:** 防护 | **持续时间:** 90 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 接触 |
+| **范围:** 1 目标 | **抵抗:** N/A |
 
-此法术允许施法者保护一个生物免受正常的极端高温或严寒影响，具体由施法时决定。法术受体对平凡的自然高温或严寒（如零下温度或酷热沙漠）免疫。除了“灼热金属 (Heat Metal)”（此法术对其提供完全防护）之外，任何由魔法热量或严寒进行的“攻击”（例如红龙的火焰吐息或法师的冰锥术）都会自动驱散该防护，无论当时防护的是哪种元素。然而，受防护的个体可以在法术失效的那一轮中忽略前 10 点伤害，前提是防护类型与攻击类型相符。在范围效应法术的情况下，伤害在应用前会先减少。
+此法术允许施法者保护一个生物免受正常的酷热或严寒影响，具体取决于施法时的选择。法术接收者对普通的自然高温或低温（如零度以下的气温或闷热的沙漠酷热）免疫。除了“金属加热”（Heat Metal，此法术对其提供完全防护）之外，任何魔法热量或寒冷的“攻击”（如红龙的火焰吐息或法师的寒冰锥法术）都会自动驱散该防护，无论当时防护的是哪种元素。然而，受保护个体可以在法术失效的那一轮忽略前 10 点伤害，前提是防护类型与攻击类型相符。对于范围效果法术，伤害在应用前会减少。
 
 ---
-#### 能量吸取 (Energy Drain)
+#### 能量抽取
 
-(塑能系或死灵系)
+(Evocation 或 Necromancy)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 5 | **施法时间：** 2 动作 |
-| **领域：** 无 | **持续时间：** 永久 |
-| **消耗：** 3 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 耐力 (Endurance) |
+| **位阶:** 法师 5 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 永久 |
+| **消耗:** 3 | **射程:** 接触 |
+| **范围:** 1 目标 | **抵抗:** 耐力 |
 
-施放时，若目标“抵抗”检定失败，该法术会对受害者施加两级永久的“疲劳 (Fatigue)”损失。通过能量吸取造成的疲劳损失与正常的疲劳损失累积；因此，已经在战斗或旅行中变得虚弱的对手更容易受到能量吸取的影响。回复疲劳的法术和药水对因能量吸取而损失的疲劳无效；然而，复原法术和卷轴可以永久治愈损失的疲劳。盔甲对能量吸取无效。
+施放此法术后，若受害者抵抗掷骰失败，将受到两个等级的永久性疲劳损失。通过“能量抽取”造成的疲劳损失与正常的疲劳损失累积；因此，因战斗或旅行已经虚弱的对手更容易受到“能量抽取”的影响。“治愈疲劳”法术和药水对因“能量抽取”造成的疲劳无效；但是，“恢复术”（Restoration）法术和卷轴可以永久治愈损失的疲劳。护甲对“能量抽取”无效。
 
 ---
-#### 驱魔 (Exorcism)
+#### 驱魔
 
-(防护系)
+(Abjuration)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3 | **施法时间：** 1d10x100 分钟 |
-| **领域：** 防护 | **持续时间：** 永久 |
-| **消耗：** 3+1/额外强度 | **距离：** 10 英尺 |
-| **范围：** 1 个目标 | **抵抗：** 意志 (Willpower) |
+| **位阶:** 牧师 3 | **施法时间:** 1d10x100 分钟 |
+| **领域:** 防护 | **持续时间:** 永久 |
+| **消耗:** 3+1/额外强度 | **射程:** 10 英尺 |
+| **范围:** 1 目标 | **抵抗:** 意志力 |
 
-通过此法术，牧师呼唤其神祇去驱逐当前附身于有形生物（如恶魔附身）的精神或其他超自然力量。驱魔也可用于对抗由某些物体、魔法物品、法术、诅咒甚至魅惑带来的操控。附身是主导性的还是隐蔽的并不重要。该魔法驱逐所有强度不超过法术强度一半的附身形式。接下来发生的事情取决于实体（如果有）的态度和类型，但具有脱离实体能力的挑衅性实体可能会尝试攻击附近的其他目标进行“精神战斗 (Spirit Combat)”。将其视为魔法决斗，但如果实体获胜，它可以附身失败者。如果实体失败，它会被送回其起源位面。因此，该法术对施法者或其同伴来说可能存在潜在危险。施法时间非常随机，且不可在不中断仪式的情况下中止。
+通过此法术，牧师召唤其神祇驱逐目前附身于肉体（如恶魔附身）的灵体或其他超自然力量。“驱魔”也可用于对抗某些物体、魔法物品、法术、诅咒甚至魅惑带来的支配效果。附身是显性的还是隐性的并不重要。该魔法可以驱逐所有形式的附身，强度最高可达法术强度的一半。接下来发生的情况取决于实体（如果有）的态度和类型，但具有脱离躯体能力的敌对实体可能会被诱惑去攻击附近的其他目标，进行“灵体战斗”。将其视为“魔法决斗”；然而，如果实体获胜，它们可能会附身失败者。如果实体失败，它将被送回其起源位面。因此，此法术对施法者或其同伴来说可能存在潜在危险。施法时间非常随机，在不破坏仪式的情况下无法中断。
 
 ---
-#### 恐惧 (Fear)
+#### 恐惧
 
-(幻术系)
+(Illusion)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 3 | **施法时间：** 2 动作 |
-| **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 3+1/额外强度 | **距离：** 0 |
-| **范围：** 5 英尺 x 20 英尺锥形区域 | **抵抗：** 意志 (Willpower) |
+| **位阶:** 法师 3 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 见下文 |
+| **消耗:** 3+1/额外强度 | **射程:** 0 |
+| **范围:** 5 英尺 x 20 英尺锥形 | **抵抗:** 意志力 |
 
-此法术施放时，一股恐惧波动向外扩散，导致所有抵抗检定失败的人陷入恐惧并逃跑。受影响者会以冲刺速度直接背离施法者逃跑，持续时间等于法术强度 x2 轮。这种恐惧如此彻底，以至于那些在抵抗检定时出现“大失败 (Fumble)”的对手会丢掉手中任何未妥善固定的物品。大型生物（SIZ 21-40）对此法术的抵抗较弱，其抵抗检定为“简单”，而巨型生物（SIZ 41+）的抵抗检定为“非常简单”。
+当施放此法术时，一股恐怖浪潮向外扩散，导致所有抵抗掷骰失败者恐惧逃窜。受影响者会直接背离施法者以全速疾跑，持续轮数为法术强度 x2。这种恐惧感非常全面，以至于在抵抗掷骰中出现“大失误”的对手会丢掉手中任何未以某种方式固定住的物品。大型生物（体型 21-40）对此法术的抵抗力较低，抵抗掷骰为“简单”，而巨大生物（体型 41+）的抵抗掷骰为“非常简单”。
 
 ---
-#### 羽落术 (Feather Fall)
+#### 羽落术
 
-(变化系)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 瞬时 |
-| **领域：** 无 | **持续时间：** 1 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 30 英尺/强度 |
-| **范围：** 5 英尺半径 | **抵抗：** N/A |
+| **位阶:** 法师 1 | **施法时间:** 瞬时 |
+| **领域:** 无 | **持续时间:** 1 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 30 英尺/强度 |
+| **范围:** 5 英尺半径 | **抵抗:** N/A |
 
-此法术施放时，法术影响范围内人数、生物或物体（其组合 SIZ 每强度不超过 20）的重量会减至羽毛般轻盈。受法术影响者坠落速度不超过每轮 10 英尺（每分钟 120 英尺），在法术持续时间内不会受到坠落伤害。他们轻到几乎免疫任何大于 5 英尺的击退效果，且若被撞向任何物体也不会受到伤害，因为他们只会缓慢地向后漂浮。
+当施放此法术时，法术影响范围内的数人、生物或物体（其合计体型每强度不超过 20）的重量会降至羽毛般轻盈。受法术影响者下落速度不会超过每轮 10 英尺/每分钟 120 英尺，在法术持续时间内不会受到坠落伤害。他们轻盈到实际上对大于 5 英尺的击退效果免疫，并且即使撞到任何东西也不会受到伤害，因为他们只会缓慢地向后漂浮。
 
-对此法术施加在鸟类或龙等空中生物身上会改变其飞行动态，如果它们想保持飞行，则在法术持续时间的每一轮都需要进行“困难”的飞行检定。检定成功后，生物可以随意移动，但移动速度仅为其正常移动速度的一半；而失败的检定会导致生物试图以等于其移动速度的距离向随机方向翻滚失控。如果只是任由自己坠落，空中生物可以使用翅膀将落点调整每轮 5 英尺。
+对此法术在空中生物（如鸟类或龙）身上施放会改变其飞行动态，以至于如果它们希望保持在空中，法术持续时间内的每一轮都需要进行“困难”飞行掷骰。成功时，生物可按需移动，但仅能以正常移动速率的一半移动；掷骰失败会导致该生物的尝试将其轻柔地向随机方向翻滚失控，距离等于其尝试的移动速率。如果只是任由自己下坠，飞行生物可以使用翅膀将着陆点调整为每轮 5 英尺。
 
-如果法术在受影响者着陆前失效，他们会恢复正常的坠落速度，并从该点开始计算坠落伤害。
+如果法术在受影响者落地前失效，他们将恢复正常的下落速度，并从该点开始计算坠落伤害。
 
-由于此法术的瞬时施法时间，法师可以主动或被动地使用“羽落术”。这允许法术保护免受意外跌落，甚至中断他人的动作来减缓投射物（如箭矢或投掷矛），这些投射物随后会轻柔地漂浮在攻击者和目标之间的地面上，造成零伤害。
+由于此法术的瞬时施法时间，法师也可以主动或被动地使用“羽落术”。这允许法术防护意外坠落，甚至可以中断他人的动作，使缓慢行进的投射物（如箭矢或投掷长矛）减速，然后轻轻漂浮在攻击者和目标之间，不造成任何伤害。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 分钟；30 英尺距离；总影响 20 SIZ；总下降 120 英尺 |
-| 2 | 2 | 2 分钟；60 英尺距离；总影响 40 SIZ；总下降 240 英尺 |
-| 3 | 3 | 3 分钟；90 英尺距离；总影响 60 SIZ；总下降 360 英尺 |
-| 4 | 4 | 4 分钟；120 英尺距离；总影响 80 SIZ；总下降 480 英尺 |
-| +1 | +1 | 继续此进度 |
+| 1 | 1 | 1 分钟；30 英尺射程；合计 20 体型；合计下落 120 英尺 |
+| 2 | 2 | 2 分钟；60 英尺射程；合计 40 体型；合计下落 240 英尺 |
+| 3 | 3 | 3 分钟；90 英尺射程；合计 60 体型；合计下落 360 英尺 |
+| 4 | 4 | 4 分钟；120 英尺射程；合计 80 体型；合计下落 480 英尺 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 寻找魔宠 (Find Familiar)
+#### 寻找魔宠
 
-(召唤系)
+(Conjuration)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 2d12 小时 |
-| **领域：** 无 | **持续时间：** 特殊 |
-| **消耗：** 3/强度，+1 EXP | **距离：** 0 |
-| **范围：** 1/2 英里半径/强度 | **抵抗：** N/A |
+| **位阶:** 法师 1 | **施法时间:** 2d12 小时 |
+| **领域:** 无 | **持续时间:** 特殊 |
+| **消耗:** 3/强度, +1 经验 | **射程:** 0 |
+| **范围:** 1/2 英里半径/强度 | **抵抗:** N/A |
 
-此法术允许施法者尝试召唤一只魔宠，它将成为其主人感官和力量的延伸。魔宠可以与主人心灵感应，也是很好的守卫和侦察兵。由于其紧密联系，魔宠的死亡对魔法使用者存在一定风险，这使得拥有魔宠成为一种低等级的危险。
+此法术允许施法者尝试召唤一只魔宠，它将成为其主人感官和力量的延伸。魔宠可以与主人进行心灵感应交流，也是出色的守卫和侦察兵。由于魔宠与施法者关系紧密，失去魔宠对施法者来说存在一定风险，这使得拥有魔宠成为一种低等级的危险。
 
-要召唤魔宠，魔法使用者必须在保持炭火炉火旺盛的同时开始仪式，并在燃烧剧烈时添加价值 100 金币的香。在这些成分燃烧的同时，施法者必须继续仪式，直到魔宠到来或施法时间耗尽而未成功。
+要召唤魔宠，施法者必须在保持炭火炉火旺盛的同时开始仪式，当火势强劲时，加入价值 100 金币的香料。随着这些成分燃烧，施法者必须继续仪式，直到魔宠出现，或者施法时间在没有成功的情况下结束。
 
-即使此法术成功施放，适合的魔宠响应魔法使用者呼唤的几率也仅为 50%，且魔法使用者每年只能尝试一次此法术。第一级强度之外的每一级强度都会将法术范围延长半英里，从而将发现潜在魔宠的可能性增加 5%，最高可达 95%。施法者无法控制响应呼唤的生物的确切类型，但到达的一定会是忠诚的仆人和盟友。响应呼唤取决于生物自身，因此身处已知居住有某种生物的地区并不能保证施法者获得成功。
+即使成功施放此法术，合适的魔宠回应施法者呼唤的几率也仅为 50%，且施法者每年只能尝试此法术一次。第一级之后的每增加一级强度，法术射程都会延伸半英里，这反过来使找到潜在魔宠的可能性增加 5%，最高为 95%。对回应呼唤的生物确切类型无法控制，但到来的生物将是忠实的仆人和盟友。由特定生物决定是否回应呼唤，因此处于已知栖息着某种生物的地区并不能保证施法者成功。
 
-如果有生物响应施法者的召唤，魔法使用者仍需牺牲 1 次经验掷骰 (Experience Roll) 来在自己和魔宠之间建立精神链接。一旦完成，仪式即告结束。
+如果有生物回应了施法者的召唤，施法者仍需牺牲 1 次经验掷骰，以在自己与魔宠之间建立精神链接。一旦完成，仪式即告结束。
 
-当魔宠与其主人处于彼此 120 英尺范围内时，魔法使用者还可以获得使用魔宠魔法点的能力。此外，魔法使用者获得与魔宠的心灵链接，以及下表中注明的任何额外的特殊能力或技能加成。
+当魔宠与其主人相距 120 英尺以内时，施法者还可以使用魔宠的魔法点数。此外，施法者与魔宠建立心灵感应链接，并获得下表所示的任何额外特殊能力或技能加值。
 
-如果魔宠死亡，施法者损失 5 次经验掷骰。当前没有任何经验掷骰的施法者必须放弃后续获得的所有经验掷骰，直到平衡恢复。
+在魔宠死亡的情况下，施法者损失 5 次经验掷骰。当前没有任何经验掷骰的施法者必须放弃所有进一步获得的经验掷骰，直到抵销该平衡。
 
-如果存在，魔宠出现的类型根据下表确定。在大多数情况下，普通魔宠并不特别大，SIZ 在 1-4 之间，使用“小动物”模板。
+如果出现魔宠，其类型根据下表确定。在大多数情况下，普通魔宠体型不大，介于体型 1-4 之间，并使用“小型动物”说明。
 
 ##### 普通魔宠
 
-| d100 掷骰 | 类型 | STR/SIZ | POW | 授予的特殊能力，全部包含心灵链接 |
+| d100 掷骰 | 类型 | 力量/体型 | 灵力 | 赋予的特殊能力，均包含心灵感应链接 |
 | :-: | :-: | :-: | :-: | :-- |
-| 01-05 | 蝙蝠 | 1 | 1d3 | +10% 感知（仅听力），可在黑暗中战斗或盲战而无惩罚 |
-| 06-10 | 家猫 | 1 | 2d3 | 夜视，+10% 感知（仅听力），+10% 潜行 |
-| 11-15 | 乌鸦 | 1 | 2d3 | 言语交流*，+10% 感知 |
-| 16-20 | 中型犬 | 1d2+2 (4) | 1d3 | 夜视，+10% 感知（仅听力和嗅觉），+10% 追踪 |
-| 21-25 | 小型犬 | 1d2 | 1d3 | 夜视，+10% 感知（仅听力和嗅觉），+10% 追踪 |
-| 26-30 | 雪貂 | 1 | 1d3 | +10% 感知（仅视觉），+10% 回避 |
-| 31-35 | 青蛙/蟾蜍 | 1 | 2d3 | +10% 感知，可屏住呼吸 2 分钟加上耐力值（秒），在微缩模型战斗中角色前方方格延伸至两侧 |
-| 36-40 | 鹰 | 1 | 2d6 | +20% 感知，正常视觉距离的 2 倍 |
-| 41-45 | 蜥蜴 | 1 | 2d3 | +10% 运动，+10% 游泳 |
-| 46-50 | 老鼠 | 1 | 1d3 | +10% 耐力，+10% 感知（仅嗅觉），+10% 游泳 |
-| 51-55 | 鸣角鸮 | 1 | 2d6 | 夜视，+10% 感知（仅限夜晚），+10% 意志 |
-| 56-60 | 耗子 | 1 | 1d3 | +10% 耐力，+10% 感知（仅嗅觉），+10% 游泳 |
-| 61-65 | 渡鸦 | 1 | 2d6 | 言语交流*，+10% 商业，+10% 感知 |
-| 66-70 | 蛇 | 1 | 2d3 | +10% 耐力（仅限抵抗毒素），+10% 感知（仅味觉） |
-| 71-75 | 黄鼠狼 | 1 | 1d3 | +10% 感知（仅听力和嗅觉） |
+| 01-05 | 蝙蝠 | 1 | 1d3 | +10% 感知（仅限听觉），可在黑暗中作战或无需惩罚地盲战 |
+| 06-10 | 家猫 | 1 | 2d3 | 夜视，+10% 感知（仅限听觉），+10% 潜行 |
+| 11-15 | 乌鸦 | 1 | 2d3 | 语言交流*，+10% 感知 |
+| 16-20 | 中型犬 | 1d2+2 (4) | 1d3 | 夜视，+10% 感知（仅限听觉和嗅觉），+10% 追踪 |
+| 21-25 | 小型犬 | 1d2 | 1d3 | 夜视，+10% 感知（仅限听觉和嗅觉），+10% 追踪 |
+| 26-30 | 雪貂 | 1 | 1d3 | +10% 感知（仅限视觉），+10% 闪避 |
+| 31-35 | 青蛙/蟾蜍 | 1 | 2d3 | +10% 感知，可屏息 2 分钟加上耐力值（秒），在微缩模型战斗中角色前方方格延伸至两侧 |
+| 36-40 | 鹰 | 1 | 2d6 | +20% 感知，2 倍正常视觉距离 |
+| 41-45 | 蜥蜴 | 1 | 2d3 | +10% 体能，+10% 游泳 |
+| 46-50 | 老鼠 | 1 | 1d3 | +10% 耐力，+10% 感知（仅限嗅觉），+10% 游泳 |
+| 51-55 | 鸣角鸮 | 1 | 2d6 | 夜视，+10% 感知（仅限夜间），+10% 意志力 |
+| 56-60 | 大鼠 | 1 | 1d3 | +10% 耐力，+10% 感知（仅限嗅觉），+10% 游泳 |
+| 61-65 | 渡鸦 | 1 | 2d6 | 语言交流*，+10% 商业，+10% 感知 |
+| 66-70 | 蛇 | 1 | 2d3 | +10% 耐力（仅限抵抗毒素），+10% 感知（仅限味觉） |
+| 71-75 | 黄鼠狼 | 1 | 1d3 | +10% 感知（仅限听觉和嗅觉） |
 | 76-00 | 范围内无魔宠 | - | - | - |
 
-*\* 通用语，以及适用的主人种族语言。*#### 火球术 (Fireball)
+_* 通用语，以及适用的主人种族语言。_
 
-(塑能系)
+---#### 火球术
+
+(塑能)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 2 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 专注 |
-| **消耗:** 3 + 1/额外强度 | **射程:** 接触 |
-| **范围:** 20 英尺半径 | **抵抗:** 闪避 |
+| **位阶：** 法师 2 | **施法时间：** 2 行动 |
+| **领域：** 无 | **持续时间：** 专注 |
+| **消耗：** 3+1/额外强度 | **射程：** 接触 |
+| **范围：** 20 英尺半径 | **抵抗：** 闪避 |
 
-在施法的第一个回合，随着施法者开始念诵咒语和做出手势，一团火星大小的火焰开始在手中形成，并缓慢扩大成一个小火球。在第二个回合，咒语完成，施法者做出投掷动作，火球随后爆发出一声低沉的轰鸣，变成一个巨大的火球。它几乎没有冲击力，但会对其影响范围内的所有受害者造成每 2 点强度（或不足 2 点的部分）1d6 点伤害。伤害只投掷一次，并应用于目标的每个受击部位，穿着的护甲不提供保护，但魔法护甲值或生物的天然护甲会照常减少伤害。
+在施法的第一个回合，随着施法者开始吟唱咒语并做出手势，一小簇灰烬或火花大小的火焰开始在手中成型，并缓慢扩大为一个火球。在第二个回合，咒语完成，施法者做出投掷动作，火球带着低沉的轰鸣声爆炸，形成一个巨大的火球。它几乎没有冲击力，对范围内的所有受害者造成每 2 点强度（不足 2 点按 2 点计）1d6 点伤害。伤害只掷一次，并作用于目标的每一个命中部位；身穿的护甲无法提供保护，但魔法护甲点数或生物的天然护甲会照常减免伤害。
 
-若成功进行闪避掷骰，且结果导致人物倒地，受害者可免受任何伤害。拥有“灵巧闪避”能力的生物可以选择在不倒地的情况下闪避，但在此情况下，除非他们位于影响范围的边缘 5 英尺内，否则成功闪避只能减少一半伤害。
+成功的闪避检定（表现为俯身卧倒）可以使受害者不受任何伤害。拥有“狡黠闪避者”能力的受害者可以选择闪避而不卧倒，但在这种情况下，除非他们位于效果范围的边缘 5 英尺内，否则成功仅能将伤害减半。
 
-火球术有等于“投掷伤害数值 x 5%”的概率点燃易燃材料。更多信息请参见 [火灾](0007_Game_System.md?id=fire-based-attacks) 一节。
+火球术有等于所掷伤害值 x5% 的几率引燃易燃材料。更多信息，请参阅[火焰](0007_Game_System.md?id=fire-based-attacks)章节。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
 | 1 | 3 | 30 英尺射程；1d6 伤害 |
 | 2 | 4 | 60 英尺射程；1d6 伤害 |
@@ -1132,23 +1137,23 @@ _示例：伦加斯（Rengarth）对四个体型 16 的兽人和两个体型 32 
 | 4 | 6 | 120 英尺射程；2d6 伤害 |
 | 5 | 7 | 180 英尺射程；3d6 伤害 |
 | 6 | 8 | 240 英尺射程；3d6 伤害 |
-| +1 | +1 | 延续进展 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 延迟爆裂火球 (Fireball, Delayed Blast)
+#### 延迟爆裂火球
 
-(塑能系)
+(塑能)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 4 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 见下文 |
-| **消耗:** 3 + 1/额外强度 | **射程:** 50 英尺/强度 |
-| **范围:** 20 英尺半径 | **抵抗:** 闪避 |
+| **位阶：** 法师 4 | **施法时间：** 2 行动 |
+| **领域：** 无 | **持续时间：** 见下文 |
+| **消耗：** 3+1/额外强度 | **射程：** 50 英尺/强度 |
+| **范围：** 20 英尺半径 | **抵抗：** 闪避 |
 
-除上述及下文所述的例外情况外，本法术的功能与普通火球术相同。延迟爆裂火球对其影响范围内的所有受害者造成每 2 点强度（或不足 2 点的部分）1d8 点伤害。施法时，施法者可以设定火球在从瞬时到五分钟内的任意时间引爆。它会飞往指定地点并保持静止，像一个小小的悬浮火星，直到预定时间到来时，它会瞬间膨胀为一个巨大的火球。
+除上述和下文所注明的例外情况外，本法术的功能与普通火球术相同。延迟爆裂火球对范围内的所有受害者造成每 2 点强度（不足 2 点按 2 点计）1d8 点伤害。施法时，施法者可以设定火球在瞬间到五分钟内的任意时间爆炸。火球会飞往指定地点并保持惰性，表现为一个小小的漂浮灰烬，直到设定时间到达时，它会瞬间膨胀为一个巨大的火球。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
 | 1 | 3 | 50 英尺射程；1d8 伤害 |
 | 2 | 4 | 100 英尺射程；1d8 伤害 |
@@ -1156,332 +1161,332 @@ _示例：伦加斯（Rengarth）对四个体型 16 的兽人和两个体型 32 
 | 4 | 6 | 200 英尺射程；2d8 伤害 |
 | 5 | 7 | 250 英尺射程；3d8 伤害 |
 | 6 | 8 | 300 英尺射程；3d8 伤害 |
-| +1 | +1 | 延续进展 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 烈焰护盾 (Fire Shield)
+#### 火焰护盾
 
-(塑能系)
+(塑能)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 3 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 2 分钟/强度 |
-| **消耗:** 3 + 1/额外强度 | **射程:** 0 |
-| **范围:** 施法者 | **抵抗:** 不适用 |
+| **位阶：** 法师 3 | **施法时间：** 2 行动 |
+| **领域：** 无 | **持续时间：** 2 分钟/强度 |
+| **消耗：** 3+1/额外强度 | **射程：** 0 |
+| **范围：** 施法者 | **抵抗：** 不适用 |
 
-此法术创造出一层轻盈的火焰护盾，包裹施法者但本身不会造成任何伤害。火焰会保护接收者免受火或冷的影响，具体取决于记忆中的两种变体：寒冷护盾（Chill Shield），产生蓝色或绿色火焰，保护免受热和火属性伤害；温暖护盾（Warm Shield），产生紫色或蓝色火焰，保护免受冷和冰属性伤害。火焰的颜色应随机确定，每种各有 50% 的几率，因为两种护盾都能发出蓝色火焰，这会给攻击者带来不确定性。施法者在准备法术时决定记忆哪种变体，如果需要，两者均可记忆。这些火焰不散发热量，提供的照明亮度仅为火把的一半。各变体的具体细节如下：
+本法术创造一个萦绕的火焰护盾，它会焚烧施法者，但其本身不会造成伤害。相反，火焰保护受术者免受火焰或寒冷伤害，具体取决于记忆中的两种变体：寒冷护盾（产生蓝色或绿色火焰，防御热量和基于火的伤害），或温暖护盾（产生紫色或蓝色火焰，防御寒冷和基于冰的伤害）。火焰的颜色应随机决定，各 50% 几率，因为两种类型都能发出蓝光，这会给攻击者造成不确定性。关于记忆哪种变体的决定是在准备法术时做出的，如果需要，两者都可以被记忆。这些火焰不产生热量，提供的照明亮度仅为火把的一半。各变体的具体细节详述如下。
 
-- **寒冷护盾：** 这些火焰触感冰凉，将任何火或热属性伤害减少到总量的一半。成功的抵抗掷骰将抵消所有伤害。抵抗掷骰难度降低一个等级；若是闪避，则不会导致防御者倒地。
-- **温暖护盾：** 这些火焰触感温暖，将任何冷属性伤害减少到总量的一半。成功的抵抗掷骰将抵消所有伤害。抵抗掷骰难度降低一个等级；若是闪避，则不会导致防御者倒地。
+- **寒冷护盾：** 这些火焰摸起来很凉，可将任何火焰或基于热量的伤害减少至总额的一半。成功的抵抗检定可以抵消所有伤害。抵抗检定难度降低一个等级，若通过闪避检定，不会使防御者卧倒。
+- **温暖护盾：** 这些火焰摸起来很暖，可将任何基于寒冷的伤害减少至总额的一半。成功的抵抗检定可以抵消所有伤害。抵抗检定难度降低一个等级，若通过闪避检定，不会使防御者卧倒。
 
-针对护盾接收者的近战攻击（无论是否持有武器）都会造成正常伤害，除非攻击使用了受保护的对应元素。在这种情况下，施法者会受到保护而免受攻击中的元素部分伤害，且攻击者会受到等同于该次攻击造成的伤害。攻击者穿着的护甲不提供保护，但魔法护甲值或生物的天然护甲会照常减少伤害。具有天生魔法抗性的生物在接收者首次受到攻击时，若意志掷骰成功，可以驱散烈焰护盾。如果魔法抗性掷骰失败，对手之后将无法再抵消该烈焰护盾。
+针对受术者的近战攻击（无论武装还是徒手）均造成正常伤害，除非攻击使用的是该护盾所防御的元素。在这种情况下，施法者受到保护免受攻击中的元素部分伤害，且攻击者会受到与所造成伤害等量的伤害。攻击者身穿的护甲无法提供保护，但魔法护甲点数或生物的天然护甲会照常减免伤害。拥有先天魔法抵抗力的生物在受术者第一次被击中时，若成功通过意志力检定，可以驱散火焰护盾。如果魔法抵抗检定失败，对手之后无法再抵消火焰护盾。
 
 ---
-#### 烈焰打击 (Flame Strike)
+#### 烈焰打击
 
-(塑能系)
+(塑能)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 2 | **施法时间:** 2 动作 |
-| **领域:** 战斗, 元素 (火) | **持续时间:** 瞬时 |
-| **消耗:** 3 + 1/额外强度 | **射程:** 100 英尺 + 20 英尺/额外强度 |
-| **范围:** 5 英尺半径 | **抵抗:** 闪避 |
+| **位阶：** 牧师 2 | **施法时间：** 2 行动 |
+| **领域：** 战斗，元素（火） | **持续时间：** 瞬间 |
+| **消耗：** 3+1/额外强度 | **射程：** 100 英尺+20英尺/额外强度 |
+| **范围：** 5 英尺半径 | **抵抗：** 闪避 |
 
-施法成功后，一道 30 英尺高的火柱从天而降，灼烧牧师指定的区域。该火柱对其影响范围内的所有受害者造成每 2 点强度（或不足 2 点的部分）1d8 点伤害。伤害只投掷一次，并应用于目标的每个受击部位，穿着的护甲仅提供一半保护，但魔法护甲值或生物的天然护甲会照常减少伤害。成功的闪避掷骰（即滚开或跃出影响范围并最终倒地）允许受害者免受任何伤害。拥有“灵巧闪避”能力的生物可以在不倒地的情况下闪避，并被允许自由移动到影响范围之外。
+施法成功后，一道 30 英尺高的火焰柱从天而降，灼烧牧师指定的区域。该火柱对范围内的所有受害者造成每 2 点强度（不足 2 点按 2 点计）1d8 点伤害。伤害只掷一次，并作用于目标的每一个命中部位；身穿的护甲提供一半保护，但魔法护甲点数或生物的天然护甲会照常减免伤害。成功的闪避检定（表现为翻滚或将自己抛出效果范围并最终卧倒）可以使受害者不受任何伤害。拥有“狡黠闪避者”能力的受害者可以闪避而不卧倒，并被允许自由移动到效果范围外。
 
-烈焰打击有等于“投掷伤害数值 x 5%”的概率点燃易燃材料。更多信息请参见 [火灾](0007_Game_System.md?id=fire-based-attacks) 一节。
+烈焰打击有等于所掷伤害值 x5% 的几率引燃易燃材料。更多信息，请参阅[火焰](0007_Game_System.md?id=fire-based-attacks)章节。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
 | 1 | 3 | 100 英尺射程；1d8 伤害 |
 | 2 | 4 | 120 英尺射程；1d8 伤害 |
 | 3 | 5 | 140 英尺射程；2d8 伤害 |
 | 4 | 6 | 160 英尺射程；2d8 伤害 |
 | 5 | 7 | 180 英尺射程；3d8 伤害 |
-| +1 | +1 | 延续进展 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 石化术 (Flesh to Stone \(R\))
+#### 石化术 \(R\)
 
-(变化系)
+(变化)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 4 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 永久 |
-| **消耗:** 3/强度 | **射程:** 30 英尺/强度 |
-| **范围:** 1 个目标 | **抵抗:** 意志 |
+| **位阶：** 法师 4 | **施法时间：** 2 行动 |
+| **领域：** 无 | **持续时间：** 永久 |
+| **消耗：** 3/强度 | **射程：** 30 英尺/强度 |
+| **范围：** 1 个目标 | **抵抗：** 意志力 |
 
-施法时，范围内的受害者可以进行一次意志抵抗掷骰。如果失败，受害者及其所携带和穿着的所有物品将完全转变为实心石块。这种转变并非死亡，而是一种假死状态。施放该法术的反转版本或使用“祈愿术”可以使受害者恢复生命。受害者在石化状态下遭受的任何伤害会保留，并在恢复后立即生效。大型生物（体型 21-40）对此法术的抵抗能力较弱，抵抗掷骰为简单（Easy）；巨型生物（体型 41+）的抵抗掷骰为非常简单（Very Easy）。
+施法时，射程内的一名受害者允许进行意志力抵抗检定。若不成功，受害者及其携带和穿戴的所有物品将完全变成坚硬的石头。这种转变并非死亡，而是一种假死状态。可以通过施放此法术的逆转版本或“祈愿术”来使受害者恢复生命。受害者在石化期间受到的任何伤害将累积，并在恢复原状后立即生效。大型生物（体型 21-40）对该法术的抵抗力较低，抵抗检定为“简单”，而超巨型生物（体型 41+）的抵抗检定则为“非常简单”。
 
-此法术的反转版本“石变肉术”用于恢复受害者，无需进行抵抗掷骰。然而，该法术也可以反转用于转变从未获得生命的石块；其用途多种多样。例如，每单位强度的法术可以使 10 立方英尺的石墙转变为柔软的肉体；可以创造出宽达 3 英尺、每单位强度长达 10 英尺的“肉质隧道”；可以将石像等单一目标转变为活体；甚至可以将石魔像转变为血肉魔像。但在后一种情况下，石魔像仍可像往常一样进行意志掷骰以抵抗。以这种方式转变为肉体的石头会变得柔软且易塑，尽管它保留了原有的生命值，但没有护甲值，从而更容易被切碎。
+本法术的逆转版本“石化变血肉”用于恢复受害者，无需抵抗检定。然而，该法术也可以反过来用于转变此前从未有生命的石头；这可以通过几种创造性的方式使用。例如，每强度等级可将 10 立方英尺的石墙转化为柔软的肉体；可以创造出宽达 3 英尺、每强度长度为 10 英尺的“肉体隧道”；单一目标如石像可以转化为实体；甚至石魔像可以通过该法术转化为血肉魔像。但在最后一种情况下，石魔像可以进行意志力检定以照常抵抗。以这种方式转化的血肉柔软且易弯曲，虽然保留了其实际生命值，但没有任何护甲点数，这使得它更容易被切开。
 
 ---
-#### 浮空术 (Floating Disk)
+#### 漂浮碟
 
-(咒法系)
+(咒法)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 1 | **施法时间:** 1 动作 |
-| **领域:** 无 | **持续时间:** 30 分钟/强度 |
-| **消耗:** 1/强度 | **射程:** 60 英尺 |
-| **范围:** 3 英尺宽圆盘 | **抵抗:** 不适用 |
+| **位阶：** 法师 1 | **施法时间：** 1 行动 |
+| **领域：** 无 | **持续时间：** 30 分钟/强度 |
+| **消耗：** 1/强度 | **射程：** 60 英尺 |
+| **范围：** 3 英尺宽的圆碟 | **抵抗：** 不适用 |
 
-施法者可以施放此法术创造一个直径 3 英尺的微光力场圆盘，用于搬运零散的杂物。这个浮空圆盘将始终保持在地面上方 3 英尺处，只要物品不超过每单位强度 20 个“事物”且能放在圆盘上，即可搬运任意数量的货物。作为对比，假设 1 体型 (SIZ) 等于 3 个“事物”；因此，圆盘每单位强度大约能承载超过 6 体型的负重。圆盘的凹面设计通常能防止物品滚落。如果不加指令，圆盘会保持在施法者 5 英尺范围内，以 15 英尺的移动速度跟随。然而，如果施法者集中精力，圆盘可以被操纵到法术 60 英尺范围内的任何位置，甚至可以指定其保持在特定位置。如果施法者任由圆盘移动到 60 英尺以外，圆盘就会凭空消失，将所有携带的物品掉落在地。圆盘无法被指令升至离地面 3 英尺以上的高度。
+施法者可以施放此法术创造一个直径 3 英尺、闪烁着力场光芒的圆碟，用于携带零散的杂物。这个漂浮碟将始终保持在地面上方 3 英尺处，若物品不超过每强度 20 个“单位”且能装入碟中，它可以携带任意数量的货物。作为参考，假设 1 体型等于 3 个“单位”；因此，该碟每强度可承载略多于 6 体型。圆碟的凹面通常可以防止物品滚落；如果不加驱使，圆碟将保持在施法者 5 英尺范围内，并以 15 英尺的移动速率跟随。然而，如果施法者集中精力，圆碟可以被操纵到法术 60 英尺区域内的任何一点，甚至可以被命令留在特定位置。如果施法者任由圆碟移动到 60 英尺之外，它会消失，并将所有携带的物品掉落在地。圆碟不能被要求上升至离地 3 英尺以上。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 30 分钟；携带 1-20 个“事物” |
-| 2 | 2 | 60 分钟；携带 21-40 个“事物” |
-| 3 | 3 | 90 分钟；携带 41-60 个“事物” |
-| 4 | 4 | 120 分钟；携带 61-80 个“事物” |
-| +1 | +1 | 延续进展 |
+| 1 | 1 | 30 分钟；携带 1-20 个“单位” |
+| 2 | 2 | 60 分钟；携带 21-40 个“单位” |
+| 3 | 3 | 90 分钟；携带 41-60 个“单位” |
+| 4 | 4 | 120 分钟；携带 61-80 个“单位” |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 飞行术 (Fly)
+#### 飞行术
 
-(变化系)
+(变化)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 2 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 30 分钟/强度，+1d6x10 分钟 |
-| **消耗:** 3 + 1/额外强度 | **射程:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 不适用 |
+| **位阶：** 法师 2 | **施法时间：** 2 行动 |
+| **领域：** 无 | **持续时间：** 30 分钟/强度，+1d6x10 分钟 |
+| **消耗：** 3+1/额外强度 | **射程：** 接触 |
+| **范围：** 1 个目标 | **抵抗：** 不适用 |
 
-施法时，施法者可以赋予一名体型不超过每单位强度 10 点的生物飞行能力。该生物在飞行时获得 30 英尺的移动速度，攀爬时减半，俯冲时加倍。所有适用于地面移动速度的技能惩罚同样适用于飞行速度，包括对施法和战斗的限制。飞行术的确切持续时间是不可预知的，应由游戏主持者投掷决定，因为受法术影响者不应确切知道还剩多少时间。如果飞行者需要进行“飞行”技能掷骰，可以使用“竞技”或“杂技”代替，但难度增加两个等级。然而，经常使用此法术的角色可以选择以“力量+敏捷”作为基础值来正常发展“飞行”技能。
+施放此法术时，施法者可以赋予一个体型不超过每强度 10 的生物飞行能力。该生物在飞行时获得 30 英尺的移动速率，攀爬时减半，俯冲时加倍。所有适用于地面移动速度的技能减值也同样适用于预期的飞行速度，包括对施法和战斗的限制。飞行术的具体持续时间是不可预测的，应由游戏主持掷骰决定，因为处于该效果下的人不应明确知道还剩下多少时间。如果飞行者需要进行飞行技能检定，可以用体能或杂技代替，难度提升两个等级。然而，频繁使用该法术的角色可以选择以“力量+敏捷”为基础值正常发展飞行技能。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
 | 1 | 3 | 30 分钟 +1d6x10 分钟；1-10 体型 |
 | 2 | 4 | 60 分钟 +1d6x10 分钟；11-20 体型 |
 | 3 | 5 | 90 分钟 +1d6x10 分钟；21-30 体型 |
 | 4 | 6 | 120 分钟 +1d6x10 分钟；31-40 体型 |
-| +1 | +1 | 延续进展 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 自由行动 (Free Action)
+#### 自由行动
 
-(防护系, 附魔系)
+(防护，附魔)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 3 | **施法时间:** 2 动作 |
-| **领域:** 魅惑 | **持续时间:** 10 分钟/强度 |
-| **消耗:** 3 + 1/额外强度 | **射程:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 不适用 |
+| **位阶：** 牧师 3 | **施法时间：** 2 行动 |
+| **领域：** 魅惑 | **持续时间：** 10 分钟/强度 |
+| **消耗：** 3+1/额外强度 | **射程：** 接触 |
+| **范围：** 1 个目标 | **抵抗：** 不适用 |
 
-施法后，本法术允许对象在其持续时间内正常行动，不受其他阻碍移动或惩罚攻击的法术或效果影响。这包括消除诸如泥泞和积雪等地形带来的惩罚。在水下，对象可以以正常的陆地移动速度移动，挥舞的武器（剑、斧、棍棒、钉头锤等）均能正常攻击。但此法术不赋予在水下呼吸的能力。此法术可消除阻碍性法术，如缠绕术、迟缓术、禁锢术、麻痹术、蛛网术等涉及移动和行动惩罚的效果。
+施放此法术后，受术者在整个持续时间内可以正常行动，不受其他阻碍移动或惩罚攻击的法术或效果影响。这包括抵消来自泥泞和积雪等阻碍地形的减值。在水下，受术者可以以正常的陆地速度移动，挥舞武器（剑、斧、棍棒、钉头锤等）也可以发挥全部效果。然而，本法术并不赋予在水下呼吸的能力。本法术可抵消有关移动和行动惩罚的阻碍性法术，如缠绕、缓慢、束缚、麻痹、蛛网等。
 
 ---
-#### 冻伤术 (Frostbite)
+#### 冻伤
 
-(变化系)
+(变化)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 0 | **施法时间:** 1 动作 |
-| **领域:** 无 | **持续时间:** 瞬时 |
-| **消耗:** 1 | **射程:** 60 英尺 |
-| **范围:** 1 个目标 | **抵抗:** 耐力 |
+| **位阶：** 法师 0 | **施法时间：** 1 行动 |
+| **领域：** 无 | **持续时间：** 瞬间 |
+| **消耗：** 1 | **射程：** 60 英尺 |
+| **范围：** 1 个目标 | **抵抗：** 耐力 |
 
-冻伤术直接作用于活体有机组织，导致接收者四肢（例如手指、脚趾、臀部、鼻子和耳朵等）麻木和疼痛。施法者必须触摸特定部位，或者如果是远程施法则随机决定。如果法术未被抵抗，受影响区域会出现感觉麻木，随后在持续时间内伴随持续疼痛，使得使用该部位进行的技能测试难度增加一个等级。冻伤术不直接造成伤害，但在一段时间内使受影响区域的作用受到限制。例如，臀部患冻伤的受害者如果坐下会感到极其不适。
+冻伤直接作用于有生命的有机组织，导致受术者某一部分肢体（例如手指、脚趾、臀部、鼻子和耳朵等）麻木和疼痛。施法者必须触摸特定肢体，若在远距离施放则随机掷骰决定。如果法术未被抵抗，受影响区域会感到感官麻木，随后在持续时间内伴随持续疼痛，使得使用该部位的技能测试难度增加一个等级。冻伤不造成直接伤害，但使受影响区域在一段时间内受限。例如，臀部遭受冻伤的受害者无法坐下，否则会感到极度不适。
 
-大型生物（体型 21-40）对此法术的抵抗能力较弱，抵抗掷骰为简单（Easy）；巨型生物（体型 41+）的抵抗掷骰为非常简单（Very Easy）。
+大型生物（体型 21-40）对该法术的抵抗力较低，抵抗检定为“简单”，而超巨型生物（体型 41+）的抵抗检定则为“非常简单”。
 
 ---
-#### 笨拙术 (Fumble)
+#### 大失误
 
-(附魔系（魅惑）)
+(附魔（魅惑）)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 3 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 1 回合/强度 |
-| **消耗:** 3 + 1/额外强度 | **射程:** 30 英尺/强度 |
-| **范围:** 10 英尺半径 | **抵抗:** 意志 |
+| **位阶：** 法师 3 | **施法时间：** 2 行动 |
+| **领域：** 无 | **持续时间：** 1 回合/强度 |
+| **消耗：** 3+1/额外强度 | **射程：** 30 英尺/强度 |
+| **范围：** 10 英尺半径 | **抵抗：** 意志力 |
 
-此法术导致影响范围内的所有对手变得笨拙，任何身体技能掷骰难度增加一个等级，且所有失败都会导致“大失败”（Fumble）。即使是通常不需要技能掷骰的身体行为，如捡起掉落的物品、快跑或爬楼梯，也需要进行“竞技”技能掷骰。在此情况下失败会导致大失败，通常表现为移动时的尴尬摔倒，或在尝试捡起物品时意外将其踢得更远。游戏主持者应对大失败的结果进行创造性描述；然而在非战斗情况下，大失败不应直接导致死亡。但在战斗中，大失败与其他失败处理相同，并可照常导致特殊效果。
+此法术会导致范围内的所有对手变得笨拙，任何物理技能检定难度增加一个等级，并导致所有失败的结果变为大失误。即使是通常不需要技能检定的物理行动，如捡起掉落的物品、快步跑或爬楼梯，也需要进行体能技能检定。在这种情况下失败会导致大失误，通常表现为移动时的尴尬摔倒，或在试图捡起某物时无意中将其踢得更远。游戏主持应针对大失误的检定结果发挥创意；然而，在非战斗情况下，致命的结果应较少。但在战斗中，大失误会像其他情况一样被对待，并能照常产生特殊效果。
 
-成功的抵抗掷骰允许受害者避免该法术在当前回合的效果；然而，如果受害者在下一回合仍位于影响范围内，则必须再次进行正常的抵抗掷骰。原攻击者的盟友也需要留在影响范围外，否则将遭受与对手相同的限制。
+成功的抵抗检定允许受害者在本回合内避免法术效果；然而，如果受害者在下一回合仍位于效果范围内，则必须照常再次进行抵抗检定。原始攻击者的盟友也需要保持在效果范围外，否则会遭受与对手同样的限制。
 
-此法术也可以针对特定生物施放，若抵抗掷骰失败，该生物将在法术的整个持续时间内遭受影响。以这种方式施放时，笨拙术不产生影响范围。在此情况下，若成功通过抵抗掷骰，受害者将遭受 2 级法术“迟缓术”的效果。
+此法术也可以锁定特定生物，若抵抗检定失败，受术者将在法术的整个持续时间内遭受影响。以这种方式施放时，大失误不会产生范围效果。在这种情况下，成功的抵抗检定会导致受害者遭受 2 阶法术“缓慢”的影响。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
 | 1 | 3 | 1 回合；30 英尺射程 |
 | 2 | 4 | 2 回合；60 英尺射程 |
 | 3 | 5 | 3 回合；90 英尺射程 |
 | 4 | 6 | 4 回合；120 英尺射程 |
-| +1 | +1 | 延续进展 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 异界之门 (Gate)
+#### 传送门
 
-(咒法系)
+(咒法)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 5, 法师 5 | **施法时间:** 2 回合 |
-| **领域:** 召唤 | **持续时间:** 见下文 |
-| **消耗:** 3 + 1/强度, +3 经验值 | **射程:** 100 英尺 |
-| **范围:** 见下文 | **抵抗:** 意志 |
+| **位阶：** 牧师 5，法师 5 | **施法时间：** 2 回合 |
+| **领域：** 召唤 | **持续时间：** 见下文 |
+| **消耗：** 3 +1/强度,+3 经验值 | **射程：** 100 英尺 |
+| **范围：** 见下文 | **抵抗：** 意志力 |
 
-施放“异界之门”要求施法者知晓被召唤实体的真名，这些实体通常来自其他位面，如恶魔、魔鬼、天使、半神甚至神祇。施法成功后，施法者所在的位面与实体所在的位面之间会开启一道传送门。无论施法是否成功，都会自动引起实体的注意。此法术极其强大且消耗巨大，不仅消耗施法者 3 点魔法值和 3 次经验值投掷，还会使其寿命衰老 5%（若施法者为人类，则为 5 年）。如果实体在意志抵抗掷骰中成功，他们通常不会亲自现身，但假设法术成功，会有“某个存在”穿过传送门。下表用于确定一些常见实体、它们的平均意志值以及通常会被派遣代替它们出席的仆从。游戏主持者可根据当前战役的性质自由选择。
+施放“传送门”要求施法者知道要召唤实体的真名，该实体通常是来自其他位面的生物，例如恶魔、魔鬼、天使、半神甚至是神。施法成功后，施法者所在的位面与实体所在的位面之间会开启一道传送门。无论施法是否成功，都会自动引起实体的注意。此法术极其强大且消耗巨大，不仅会消耗施法者上述的 3 点魔法点数和 3 次经验掷骰，还会使他们的年龄增加其典型寿命的 5%（如果是人类施法者，则为 5 年）。如果实体通过了抵抗检定，他们通常不会亲自前来。然而，假设法术成功，“某种存在”将会通过传送门。下表用于确定一些常见的实体、它们的平均意志力，以及通常会派遣来代替它们的仆从。游戏主持可以根据当前战役的性质自由选择最合适的设定。
 
-##### 异位面实体表
+##### 位面外实体表
 
-| 强度 | 消耗 | 变量效果 | 意志值 |
-| :-: | :-: | :-- | :-- |
-| 1 | 3 | 次等恶魔或次等魔鬼 | 按具体实体设定 |
-| 2 | 4 | 小型恶魔或魔鬼 | 按具体实体设定 |
-| 3 | 5 | 劣等恶魔或魔鬼 | 按具体实体设定 |
-| 4 | 6 | 上位恶魔或魔鬼 | 按具体实体设定 |
-| 5 | 7 | 恶魔/魔鬼王子或大公、大天使或半神 | 121-140% |
-| 6 | 8 | 恶魔领主、大魔鬼或次等神祇 | 141-160% |
-| 7 | 9 | 上位神祇 | 161-180% |
+| 强度 | 消耗 | 可变效果 | 意志力 |
+| :-: | :-: | :-- | :-: |
+| 1 | 3 | 次等恶魔或魔鬼 | 按特定实体计算 |
+| 2 | 4 | 小恶魔或小魔鬼 | 按特定实体计算 |
+| 3 | 5 | 劣等恶魔或魔鬼 | 按特定实体计算 |
+| 4 | 6 | 上位恶魔或魔鬼 | 按特定实体计算 |
+| 5 | 7 | 恶魔/魔鬼亲王或公爵、大天使或半神 | 121-140% |
+| 6 | 8 | 恶魔领主、大魔鬼或小神祇 | 141-160% |
+| 7 | 9 | 大神祇 | 161-180% |
 | 8 | 10 | 统治神祇 | 181% + |
 
-响应的形式将很大程度上取决于特定的实体、双方的阵营以及请求的具体内容。如果实体认为中断其工作的理由是琐碎或无关紧要的，它们的反应可能是直接离开或发动攻击。然而，在绝望的情况下，特别是当施法者受到实体强烈反对的势力威胁时，更有可能得到更有利的响应。如果游戏主持者认为处于灰色地带，且响应存疑，施法者及其盟友可以尝试通过技能、奉承、恳求和/或贿赂的组合来辩论。然而，大多数实体会避免卷入与同等或更强大势力之间的冲突，许多实体会在行动前或行动后要求报酬。传送门将根据实体决定在此位面停留的时间长短而保持开启，当实体决定离开时，传送门会随之关闭。在此期间，其他人也有可能穿越传送门，实现两个现实之间的双向通行。
+回应的形式将很大程度上取决于特定的实体、双方的阵营以及请求的具体内容。如果实体认为中断其事务的理由是琐碎或无关紧要的，他们的反应可能从直接离开到彻底攻击。然而，如果情况危急，尤其是施法者正受到实体强烈反对的事物威胁时，很可能会得到更有利的反应。如果游戏主持认为存在灰色地带且回应不确定，施法者及其盟友可以尝试通过技能、奉承、恳求和/或贿赂的组合来争取他们的利益。不过，大多数实体会避免卷入与其他力量相等或更强者的冲突，并且许多实体会要求支付报酬，无论是在履行义务之前还是之后。传送门将一直开启，直到实体决定留在这一侧或决定离开时从背后关闭。在此期间，其他人也有可能穿过传送门，实现两个现实之间的双向旅行。
 
 ---
-#### 魅力术 (Glamour \(R\))
+#### 魅力 \(R\)
 
-(附魔系（魅惑）)
+(附魔（魅惑）)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 0 | **施法时间:** 1 动作 |
-| **领域:** 无 | **持续时间:** 专注 |
-| **消耗:** 1 | **射程:** 60 英尺 |
-| **范围:** 1 个目标 | **抵抗:** 意志 |
+| **位阶：** 法师 0 | **施法时间：** 1 行动 |
+| **领域：** 无 | **持续时间：** 专注 |
+| **消耗：** 1 | **射程：** 60 英尺 |
+| **范围：** 1 个目标 | **抵抗：** 意志力 |
 
-魅力术使目标变得迷人，从而吸引人们自然而然地靠近。魅力术的性质必须在施法时选择，可以是任何形式，如增加天生丽质、变得嗓音柔和撩人，甚至是身体散发出引人入胜的芬芳。虽然该法术不提供机械上的增益，但它确实确保接收者有机会聚集听众、吸引希望接触之人的注意，或提供分散注意力的机会，使同伙能够进行邪恶勾当。
+“魅力”使目标变得迷人，从而使人们自然而然地被其吸引。魅力的本质必须在施法时选择，可以是增加自然美、更柔和妩媚的声音，甚至是诱人的身体香气。虽然该法术不提供任何机械效益，但它确实确保了受术者有机会聚集听众、吸引他们希望联系的人的注意力，或提供干扰，使同伙有机会执行邪恶行为。
 
-当反转时，“厌恶术”会扭曲目标的外表，使所有看到、听到或闻到他们的人感到反感。效果必须在施法时选择，可以是任何形式，如鼻尖上长一个巨大的疣、刺耳的鼻音或浓重的体臭。无论选择什么，它都会导致人们远离受害者，或找借口尽快离开他们的身边。#### 黏连 (Glue)
+当逆转为“厌恶”时，它会扭曲目标的形象，使所有看到、听到或闻到他们的人感到反感。效果必须在施法时选择，可以是鼻尖上长出的大疣、尖锐的鼻音，甚至是刺鼻的体味。无论选择什么，它都会导致人们从受害者身边走开，或找借口尽快离开他们的视线。#### 胶水
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 0 | **施法时间:** 1 动作 |
+| **位阶:** 法师 0 | **施法时间:** 1 行动 |
 | **领域:** 无 | **持续时间:** 24 小时 |
 | **消耗:** 1 | **射程:** 接触 |
-| **影响范围:** 2 个物品或 1 个破损物品 | **抗力:** 不适用 |
+| **范围:** 2 个物品或 1 个破损物品 | **抵抗:** 无 |
 
-黏连将两个坚硬的无生命物体在法术持续时间内粘合在一起，例如将马车轮固定在轴上，或将门固定在框上。在法术效果期间，无论这两个物品的性质多么不同，除非有外力试图将它们强行分开，否则它们无法分离。在这种情况下，该法术拥有等同于施法者 POW x5 的“蛮力”技能，如果遇到更强的“蛮力”对抗，法术将会失败并被判定为对抗检定落败。一旦法术结束或失效，物品将分开，且完好无损。
+胶水将两个坚固的非生物物品粘合在一起，持续时间为法术持续时间。例如将车轮粘在轴上，或将门粘在门框上。在法术效果下，无论这些物品有多不相干，除非有外力试图强行将它们分开，否则无法分开。在这种情况下，该法术具有等于施法者 [[灵力]] x5 的蛮力技能；如果面对更强的蛮力，该法术将失败，并在对抗掷骰中被击败。一旦法术结束或失效，物品会完好无损地分开。
 
 ---
-#### 加速 (Haste)
+#### 加速术
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 2 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 3 轮/强度 |
+| **位阶:** 法师 2 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 3 回合/强度 |
 | **消耗:** 3+1/额外强度 | **射程:** 180 英尺 |
-| **影响范围:** 20 英尺半径，1 个目标/强度 | **抗力:** 不适用 |
+| **范围:** 20 英尺半径，1 目标/强度 | **抵抗:** 无 |
 
-在法术的影响范围内，每单位强度可使一人或一生物（包括施法者自身）的正常移动速度翻倍，并获得 +4 的先攻值加值，持续时间为法术持续时间。此外，目标每使用 1 点行动点，可以选择 2 个动作。这不会以任何方式增加施法速度或法术的持续时间。因此，处于“加速”效果下的施法者不会施法更快，也不能在施法的同一轮中从额外动作中受益。由于受术者新陈代谢加速，无论持续时间长短，每次施放此法术都会使目标消耗其正常预期寿命的 1%。对于人类而言，这大约相当于 1 年。请参阅 [衰老](0007_Game_System.md?id=aging) 规则以了解亚人种族的平均预期寿命。“加速”的施放会抵消“减速”的效果，在这种情况下，不会使个体衰老。“加速”不能与其自身或类似的魔法效果叠加。
+在法术范围内，每点强度可使一人或一生物（包括自身）获得两倍的正常移动速率，并在法术持续时间内获得 +4 先攻奖励。此外，目标在使用每一点行动点数时，可以选择 2 个行动。这不会以任何方式增加施法速度或法术持续时间。因此，处于加速术效果下的施法者不会施法更快，也不会从施放法术的同一回合中获得的额外行动中受益。由于目标的新陈代谢加快，无论持续时间如何，每一次施放此法术都会使目标衰老其正常预期寿命的 1%。对于人类来说，大约是 1 年。有关亚人种族的平均预期寿命，请参阅 [[年龄]](0007_Game_System.md?id=aging) 规则。施放加速术将抵消减速术的效果，在这种情况下，不会使个体衰老。加速术不能与自身或类似的魔法效果叠加。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 3 轮；1 个目标 |
-| 2 | 4 | 6 轮；2 个目标 |
-| 3 | 5 | 9 轮；3 个目标 |
-| 4 | 6 | 12 轮；4 个目标 |
-| +1 | +1 | 持续递增 |
+| 1 | 3 | 3 回合；1 目标 |
+| 2 | 4 | 6 回合；2 目标 |
+| 3 | 5 | 9 回合；3 目标 |
+| 4 | 6 | 12 回合；4 目标 |
+| +1 | +1 | 继续进阶 |
 
 ---
-#### 治愈 (Heal) \(R\)
+#### 治疗术 (R)
 
 (死灵系)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 4 | **施法时间:** 1 分钟 |
+| **位阶:** 牧师 4 | **施法时间:** 1 分钟 |
 | **领域:** 治疗 | **持续时间:** 永久 |
 | **消耗:** 3 +1/强度 | **射程:** 接触 |
-| **影响范围:** 1 个生物 | **抗力:** 不适用（耐力或闪避） |
+| **范围:** 1 生物 | **抵抗:** 无（耐力或闪避） |
 
-通过施放“治愈”，牧师可以通过单次接触治愈身体疾病、精神创伤或大量损伤。恢复的实际程度基于法术的强度，具体如下：每增加一级强度，法术即可治愈受术者的一种任意 POT 的疾病，治愈任何失明或失聪，消除由伤害或魔法引起的心智障碍，或治愈单个部位至多 12 点伤害。但是，它无法恢复断肢，因为这需要施放“再生”法术。每一额外强度可用于治愈另一种疾病或治愈另一个受伤部位。因此，治愈一个全身烧伤的个体需要强度为 7 的施法。与那些对长期损伤效果有限的较弱治疗法术不同，此法术不受受术者受伤持续时间长短的限制。
+通过施放治疗术，牧师可以用单次接触治愈身体疾病、精神创伤或大量的伤害。这种恢复的实际程度取决于法术的强度，如下所示。对于每一级强度，该法术可以治愈目标一种任何 POT 的疾病，治愈任何失明或耳聋，消除由伤害或魔法引起的精神障碍，或治愈单个命中部位最多 12 点伤害。但是，它不会恢复被切断的肢体，因为那需要施放再生术。每一项额外强度可用于治愈另一种疾病或治疗另一个命中部位。因此，治愈一个全身烧伤的人需要 7 强度的施法。与那些限制长期伤害效果的初级治疗法术不同，该法术不受目标遭受伤害持续时间的影响。
 
-当反转施放时，“伤害”会在对抗检定失败时对受害者的一个部位造成 12 点魔法伤害。或者，也可以向其施加一种疾病，效果与“致病”法术（“治愈疾病”的逆转）相同，但 POT +20。施法者的引导检定作为对抗敌人的命中判定，并被视为法术姿势要求的一部分。无需额外的命中判定。无论是穿戴的盔甲还是天然盔甲都无法提供任何保护，但魔法护甲点 (Armor Points) 可正常减少伤害，并能完全阻挡施加的疾病。每一额外强度会影响与第一个部位相邻的另一个部位，效果由初始抗力判定决定。此法术的任何版本对不死生物、仅受铁/银/魔法武器伤害的生物，或非实体生物均无效。
+当反转时，伤害术会在抵抗掷骰失败时，对受害者的一个命中部位造成 12 点魔法伤害。或者，对他们施加一种疾病，其效果与疾病术（治愈疾病的反转法术）相同，但 POT +20。施法者的引导掷骰作为击中对手的掷骰，并被视为法术躯体成分的一部分。无需额外进行击中掷骰。无论是穿戴的护甲还是自然护甲都不能提供保护，但魔法护甲点数可以正常减少伤害，并能完全阻挡所造成的疾病。每一项额外强度会影响与第一个部位相邻的另一个命中部位，其效果由初始抵抗掷骰决定。此法术的任何版本对不死生物、仅受铁、银或魔法武器伤害的生物，或非实体存在均无效果。
 
 ---
-#### 禁锢术 (Hold Person)
+#### 人体定身术
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 2，魔法师 2 | **施法时间:** 2 动作 |
-| **领域:** 魅惑 | **持续时间:** 2 轮/强度 |
+| **位阶:** 牧师 2, 法师 2 | **施法时间:** 2 行动 |
+| **领域:** 魅惑 | **持续时间:** 2 回合/强度 |
 | **消耗:** 3+1/额外强度 | **射程:** 360 英尺 |
-| **影响范围:** 20 英尺半径 | **抗力:** 意志 |
+| **范围:** 20 英尺半径 | **抵抗:** 意志力 |
 
-此法术允许施法者在影响范围内每单位强度定住 1 个类人生物。成功的抗力判定仅对该目标完全抵消法术效果。大型类人生物 (SIZ 21-40) 对“禁锢术”的抵抗力较弱，其抗力判定为“简单”；而巨大类人生物 (SIZ 41+) 的抗力判定则为“非常简单”。在被禁锢期间，受影响的生物完全无助，除了“解除魔法”外，没有任何东西能让他们提前获释。
+此法术允许施法者使范围内的每点强度 1 个类人生物无法动弹。成功的抵抗掷骰将完全抵消该法术对该目标的影响。大型类人生物（体型 21-40）对人体定身术的抵抗力较低，其抵抗掷骰为简单，而巨型类人生物（体型 41+）的抵抗掷骰为非常简单。被定身后，受影响的生物完全无助，除非使用解除魔法，否则无法提前释放。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 2 轮；1 个目标 |
-| 2 | 4 | 4 轮；2 个目标 |
-| 3 | 5 | 6 轮；3 个目标 |
-| 4 | 6 | 8 轮；4 个目标 |
-| +1 | +1 | 持续递增 |
+| 1 | 3 | 2 回合；1 目标 |
+| 2 | 4 | 4 回合；2 目标 |
+| 3 | 5 | 6 回合；3 目标 |
+| 4 | 6 | 8 回合；4 目标 |
+| +1 | +1 | 继续进阶 |
 
 ---
-#### 圣言 (Holy Word) \(R\)
+#### 神圣言语 (R)
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 5 | **施法时间:** 1 动作 |
+| **位阶:** 牧师 5 | **施法时间:** 1 行动 |
 | **领域:** 战斗 | **持续时间:** 见下文 |
-| **消耗:** 3, +1 EXP | **射程:** 0 |
-| **影响范围:** 30 英尺半径 | **抗力:** 不适用 |
+| **消耗:** 3, +1 经验 | **射程:** 0 |
+| **范围:** 30 英尺半径 | **抵抗:** 无 |
 
-当施放此法术时，牧师会吐出一个具有惊人神圣力量的词汇，能够驱逐其他位面的邪恶实体；然而，施法者必须身处其自身所在的位面才能这样做。受影响的生物会被送回其所属的位面，并且至少在 24 小时内无法回到施法者的位面。
+当施放此法术时，牧师吐出一个具有不可思议的神圣力量的词语，能够驱逐来自其他位面的邪恶存在；然而，施法者必须在自己的位面上才能这样做。受影响的生物被送回其起源位面，并且至少 24 小时内无法返回施法者的位面。
 
-此外，阵营为“邪恶”的非位面生物会根据其实体等级 (Rank) 或体型 (SIZ)（取其中对目标更有利的结果）受到额外影响，详细情况如下表所示。
+此外，邪恶阵营的非位面生物会根据其实体位阶或体型（以更有利的结果为准）受到额外影响，具体如下表所示。
 
-| 目标等级 | 目标 SIZ | 通用效果 | 技能\*\* | 移动 |
+| 目标位阶 | 目标体型 | 常规 | 技能\*\* | 移动 |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | 击杀 | - | - |
-| 2 | 21-40 | 麻痹 1d4 x 10 分钟 | - | - |
-| 3 | 41-60 | 减速 2d4 轮 \*\*\* | 困难 | ½ |
-| 4-5 | 61+ | 失聪 1d4 轮 | 极难 | ¼ |
+| 2 | 21-40 | 麻痹 1d4 x10 分钟 | - | - |
+| 3 | 41-60 | 减速 2d4 回合 \*\*\* | 困难 | ½ |
+| 4-5 | 61+ | 耳聋 1d4 回合 | 艰巨 | ¼ |
 
-_\* 此类别包括未拥有职业的角色。_
+_\* 此类别包括不拥有职业的角色。_
 
-_\*\* 所有技能，包括战斗、抗力判定和施法。_
+_\*\* 所有技能，包括战斗、抵抗掷骰和施法。_
 
-_\*\*\* 同等级 2 奥术法术 [减速](0010_Spells.md?id=slow)。_
+_\*\*\* 根据位阶 2 奥术 [减速](0010_Spells.md?id=slow)。_
 
-先前已失聪或因其他原因无法听到法术声音的生物不受表中详细说明的影响，但其他位面实体仍会如上所述被驱逐。
+先前已耳聋或以其他方式无法听到法术的生物不受表中详细说明的影响，但是，其他位面实体仍会如上所述被驱逐。
 
-当反转施放时，“邪言”功能如上，但仅针对阵营为“善良”的生物。
+当反转时，邪恶言语的功能如上所述，但仅针对善良阵营的生物。
 
 ---
-#### 冰风暴 (Ice Storm)
+#### 冰风暴
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 3 | **施法时间:** 2 动作 |
+| **位阶:** 法师 3 | **施法时间:** 2 行动 |
 | **领域:** 无 | **持续时间:** 见下文 |
 | **消耗:** 3, +1/额外强度 | **射程:** 30 英尺/强度 |
-| **影响范围:** 见下文 | **抗力:** 见下文 |
+| **范围:** 见下文 | **抵抗:** 见下文 |
 
-冰风暴有两种效果，施法时二选一：
+冰风暴有两种效果，施法时选择其中一种：
 
-冰雹 (持续时间：瞬发)：此法术变体导致半径 60 英尺范围内降下巨大的冰雹。范围内的目标每 2 点强度（或不足 2 点的部分）受到 1d10 点伤害。每一枚伤害骰单独投掷并应用于随机受伤部位。使用火焰的生物在每次冰雹冲击中受到 +3 伤害，使用寒冷的生物受到一半伤害。穿戴的盔甲仅提供一半保护，但生物的天然盔甲（或魔法护甲点）可正常减少伤害。仅在有 5 英尺掩体或处于影响范围边缘时，“闪避”判定（趴下）才有效。否则，不可能避开伤害。成功闪避允许受害者仅受到每轮伤害的一半。拥有“灵巧闪避”能力的玩家可以选择不趴下进行闪避，如果处于 5 英尺掩体或影响范围边缘，成功判定将不受伤害，否则正常受损。
+冰雹（持续时间：瞬时）：此法术变体导致巨大的冰雹雨落在半径 60 英尺的区域内。区域内的人每 2 点强度（不足 2 点按 2 点计）受到 1d10 点伤害。每个伤害骰子单独投掷并应用于随机命中部位。使用火的生物从每次冰雹打击中多受 +3 伤害，使用冷的生物受一半伤害。所穿护甲仅提供一半保护，但生物的自然护甲（或魔法护甲点数）正常减少伤害。只有在 5 英尺内有掩体或处于范围边缘时，闪避（卧倒）才有效。否则，无法避免伤害。闪避成功允许受害者承受每次投掷的一半伤害。拥有“灵巧躲避者”能力的玩家可以选择不卧倒进行闪避，如果处于 5 英尺掩体内或区域边缘，投掷成功则不受伤害，否则正常受损。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
@@ -1490,65 +1495,65 @@ _\*\*\* 同等级 2 奥术法术 [减速](0010_Spells.md?id=slow)。_
 | 3 | 5 | 90 英尺射程；2d10 伤害 |
 | 4 | 6 | 120 英尺射程；2d10 伤害 |
 | 5 | 7 | 150 英尺射程；3d10 伤害 |
-| +1 | +1 | 持续递增 |
+| +1 | +1 | 继续进阶 |
 
-劲风雨夹雪 (持续时间：1 轮/强度)：此法术变体创造出一种劲风雨夹雪，席卷 60 英尺宽、120 英尺长的路径区域，使受影响者失明。路径可由施法者在施法时指定。此外，影响区域内的地面结冰，使移动速度减慢 50%，并使飞行失败的飞行者（飞行技能判定为“极难”）降落。地面上的生物每轮必须通过“运动”判定来抵抗倒地，如果移动速度超过步行，判定难度提高两个等级。拥有“杂技”技能的角色可选择替换该技能。冰层会在法术持续时间结束后融化，速度由游戏主持人根据环境温度决定；然而，即使在温暖天气下，至少也会持续 10 分钟。小型火源（如营火和火把）会自动熄灭。此法术将抵消“加热金属”法术的效果。
+驱动雨夹雪（持续时间：1 回合/强度）：此法术变体产生驱动雨夹雪，席卷 60 英尺宽、120 英尺长的路径区域，使受影响者失明。路径可由施法者在施法时指定。此外，受影响区域的地面结冰，使移动速率减慢 50%，并将飞行技能掷骰失败的飞行生物击落（艰巨难度）。地面上的人必须每回合成功进行体能掷骰以抵制跌倒（若移动速度快于步行，掷骰难度增加两个等级）。拥有杂技技能的角色可以根据需要使用该技能代替。冰将在法术持续时间结束后融化，具体速率由游戏管理员根据环境温度决定；然而，即使在温暖的天气里，它至少也会持续 10 分钟。小型火源（如营火和火把）会自动熄灭。此法术将抵消“加热金属”法术的效果。
 
 ---
-#### 鉴定 (Identify)
+#### 鉴定术
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 1 | **施法时间:** 1 分钟 |
+| **位阶:** 法师 1 | **施法时间:** 1 分钟 |
 | **领域:** 防护 | **持续时间:** 1 分钟/强度 |
 | **消耗:** 1/强度 | **射程:** 0 |
-| **影响范围:** 施法者 | **抗力:** 无 |
+| **范围:** 施法者 | **抵抗:** 无 |
 
-通过施放此法术，魔法使用者可以尝试鉴定一件被处理物品的魔法属性（如果有）。单纯触摸物品通常是不够的，物品必须按照其设计方式佩戴或持有，例如头盔必须戴在头上，护身符必须挂在颈部，近战武器必须紧握，戒指必须戴在手指上，等等。如果奥术施法判定成功，后续的奥术知识判定将确定该物品拥有的一个魔法属性。在持续时间内，每分钟可以进行一次奥术知识尝试。如果某属性需要激活词，也会与该属性一并被识别。带有充能的物品将揭示当前可用的总量和最大总量，拥有魔法点矩阵的物品也是如此。
+通过施放此法术，施法者可以尝试鉴定手中某件物品（如果有的话）的魔法属性。仅仅触摸该物品通常是不够的，必须按照其设计方式佩戴或持有，例如，头盔必须戴在头上，护身符滑过脖子，近战武器被牢牢握住，戒指戴在手指上，等等。如果奥术施法掷骰成功，后续的奥术知识掷骰将鉴定出该物品拥有的一个魔法属性。在持续时间内的每一分钟可以进行一次奥术知识鉴定尝试。如果某个属性需要激活词，则会与该属性一起被识别。拥有充能的物品将显示当前可用总数和正常最大值，拥有魔法点数矩阵的物品也是如此。
 
-诅咒物品通常在装备首次佩戴或使用时激活；因此，施放此法术会使魔法使用者受到任何潜在诅咒的影响。如果奥术施法技能测试成功，魔法使用者可以进行一次意志测试来避免诅咒的影响。但这并不会驱散物品上的诅咒，但它允许施法者在不受影响的情况下移除该物品。
+诅咒物品通常在装备首次佩戴或使用时激活；因此，施放此法术将使施法者受到存在的任何诅咒的影响。如果奥术施法技能测试成功，允许施法者进行意志力测试以避免任何诅咒的影响。这并不能解除物品上的诅咒，但确实允许施法者在不受影响的情况下取下物品。
 
-施放此法术时，一颗价值至少 100GP 的珍珠会被研磨成粉末，并与其他普通法术材料一起消耗。如果加入一颗幸运石粉末，奥术施法判定的难度为正常，并且每分钟处理的任何一件物品的所有魔法属性都会自动习得，无需进一步判定。
+一颗价值至少 100GP 的珍珠被研磨成粉末，并与其他平凡的法术成分一起消耗来施放此法术。如果加入一颗幸运石粉末，奥术施法掷骰的难度为标准，并且每分钟处理的任何一件物品的所有魔法属性在整个法术持续时间内都会自动得知，无需进一步掷骰。
 
 ---
-#### 点燃 (Ignite) \(R\)
+#### 点燃术 (R)
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 0 | **施法时间:** 1 动作 |
-| **领域:** 元素（火） | **持续时间:** 瞬发 |
+| **位阶:** 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 元素（火） | **持续时间:** 瞬时 |
 | **消耗:** 1 | **射程:** 10 英尺 |
-| **影响范围:** 1 处小火源 | **抗力:** 无 |
+| **范围:** 1 小火源 | **抵抗:** 无 |
 
-此法术可有两种不同用法：点燃或熄灭。施法时选择其一。
+此法术有两种用途，可以点燃或熄灭。选择何种用途在施法时决定。
 
-“点燃”仅适用于易燃的无机物，导致一个小物体或手掌大小的区域燃起火焰。根据被点燃的物体，火焰一旦燃烧，除非被扑灭或以某种方式反制，否则可能会蔓延。此法术通常用于远程点燃蜡烛、火把或灯笼。它也可用于在不利条件下（如使用潮湿的引火物或在强风中）生起营火或炊火。
+点燃术仅适用于易燃的无机物，使小物体或手掌大小的区域燃起火焰。根据被点燃的物体，一旦燃烧，除非以某种方式扑灭或抵消，否则火焰可能会蔓延。此法术通常用于从远处点燃蜡烛、火把或灯笼。它也可用于在不利条件下（如使用潮湿的引火物或在强风中）生起营火或烹饪火。
 
-“熄灭”立即扑灭中等大小和热度的火焰及小火源。它适用于熄灭蜡烛、灯笼、火把或小型炉火，但对魔法火焰或更大、更猛烈的火势（如柴堆、燃烧的房屋或龙火）无效。
+熄灭术可立即扑灭中等大小和热度的火焰和小火。它适用于扑灭蜡烛、灯笼、火把或小烹饪火，但对魔法火焰或更大、更凶猛的火灾（如火堆、燃烧的房屋或龙火）无效。
 
 ---
-#### 幻影 (Illusion)
+#### 幻影术
 
 (幻术系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 1 | **施法时间:** 1 动作 |
+| **位阶:** 法师 1 | **施法时间:** 1 行动 |
 | **领域:** 无 | **持续时间:** 专注；见下文 |
 | **消耗:** 1/强度 | **射程:** 100 英尺/强度 |
-| **影响范围:** 50 英尺半径/强度 | **抗力:** 不相信 |
+| **范围:** 50 英尺半径/强度 | **抵抗:** 不信则无 |
 
-此法术创造出施法者想要的任何物体的视觉幻象。它对其他感官没有影响，不会产生声音、气味、温度或质感等。
+此法术创造了施法者想要的任何东西的视觉幻觉。它对其他感官没有影响，不会产生声音、气味、温度或质地，等等。
 
-如果符合法术的影响范围，这个幻象可以是任何东西，从开阔的草地到古代红龙。幻影仅在施法者维持专注时存在，或者一旦有对手触碰或进入它，维持幻影的魔法就会解开并消散。然而，施法者可以通过消耗 1 点魔法点并引导它对接触作出适当反应，从而在发生身体接触后维持幻影，以免引起怀疑。例如，在正常情况下，食人魔的幻影在被箭射中时会消失；但施法者可以通过花费 1 点魔法点让食人魔表现出无视打击并冲向攻击者的样子。需要注意的是，真实的箭矢不会被幻影阻挡，仍可能击中幻影后面的物体或人。
+如果幻觉在法术范围内，它可以是任何东西，从开阔的草地到古老的红龙。幻觉只会持续到施法者保持专注，或者一旦对手触摸或进入它；这样做会导致维持它的魔法解体，幻影消散。然而，施法者可以通过消耗 1 点魔法点数并引导它适当地对接触作出反应以不引起怀疑，从而在身体接触后保持幻觉。例如，在正常情况下，食人魔的幻影在被箭射中时会消失；但是，施法者可以通过花费 1 点魔法点数让食人魔表现出无视打击并向攻击者冲锋。应当注意，真正的箭不会被幻影挡住，并且可能仍然会击中幻影后面的某物或某人。
 
-虽然幻影无法造成实际伤害，也不会产生温度，但大脑可能会被说服感到疼痛、承受伤害的后果或感受到极度的冷热；然而，除非施法者也专注于这些效果，否则物体看起来不会结冰或燃烧。一旦施放了法术，魔法使用者可以通过专注于期望的效果随意增加额外的视觉效果。这通常不耗时，可作为自由动作处理。例如，如果施法者希望丢下的幻影火把让干树叶看起来被点燃了，施法者可以作为自由动作专注于此。
+虽然幻影无法造成实际伤害，也不会产生任何温度，但思想可以被说服感到疼痛，遭受伤害的影响，或者感到极端的冷热；然而，除非施法者也专注于这些效果，否则物体看起来不会冻结或燃烧。法术一旦施放，施法者可以随时通过专注于所需效果来添加额外的视觉效果。这通常不占用时间，可以作为自由行动处理。例如，如果施法者希望丢下的幻影火把引起落叶看起来着火，施法者可以作为自由行动来专注于此。
 
-更多信息请参阅 [幻觉与幻影](0009_Magic.md?id=illusions-and-phantasms) 章节。
+有关更多信息，请参阅 [[幻觉与幻象]](0009_Magic.md?id=illusions-and-phantasms) 章节。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
@@ -1556,404 +1561,405 @@ _\*\*\* 同等级 2 奥术法术 [减速](0010_Spells.md?id=slow)。_
 | 2 | 2 | 100 英尺半径；200 英尺射程 |
 | 3 | 3 | 150 英尺半径；300 英尺射程 |
 | 4 | 4 | 200 英尺半径；400 英尺射程 |
-| +1 | +1 | 持续递增 |
+| +1 | +1 | 继续进阶 |
 
 ---
-#### 隐形术 (Invisibility)
+#### 隐形术
 
 (幻术系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 1 | **施法时间:** 1 动作 |
+| **位阶:** 法师 1 | **施法时间:** 1 行动 |
 | **领域:** 无 | **持续时间:** 6 小时/强度 |
 | **消耗:** 3, +1/额外强度 | **射程:** 接触 |
-| **影响范围:** 1 个目标 | **抗力:** 无 |
+| **范围:** 1 目标 | **抵抗:** 无 |
 
-施放此法术后，目标及其携带的装备会消失，对所有正常视觉形式不可见。但这并不会使个体通过听觉、触觉、嗅觉等其他方式，或生命感知 (Life Sense) 或声纳 (Sonar) 等天生能力变得不可被探测。
+当施放此法术时，受试者及其携带的任何装备都会消失，对所有形式的正常视力不可见。然而，这并不能使个体无法通过其他方式（如听觉、触觉、嗅觉等）或通过诸如生命感知或声纳等自然能力被检测到。
 
-受“隐形术”影响的个体在法术持续时间内（最长 24 小时）保持该状态，除非法术被解除或受术者发起攻击，在这种情况下法术失效，个体在攻击_之后_显形。目标将被视为处于 [突袭](0008_Combat.md?id=surprise) 状态。没有其他动作会负面影响法术的持续时间，允许受术者开门、交谈、攀爬、奔跑、扒窃等。即使施放法术也不会结束持续时间，除非法术在战斗中对一个或多个特定敌人产生负面影响。前面提到的许多动作可能会允许其他探测手段，例如通过可能的感知检查来听到某人跑过，或感觉到口袋被掏。游戏主持人将根据探测的明显程度，为试图探测的人分配惩罚或加值。
+处于隐形术效果下的人在法术持续时间内（最长 24 小时）保持隐形，除非被解除或受试者发动攻击，在这种情况下法术失效，个体在攻击_之后_重新出现。目标将被视为处于 [[奇袭]](0008_Combat.md?id=surprise) 的效果下。没有任何其他行动会对法术的持续时间产生负面影响，允许受试者开门、交谈、攀爬、奔跑、扒窃等等。即使施放法术也不会结束持续时间，除非它们对战斗中的一个或多个特定敌人产生负面影响。上述提到的许多行动可能会允许其他检测方式，例如可能的感知检查来听到某人跑过，或感觉到口袋被扒。游戏管理员将根据其明显的程度对那些试图检测的人分配减值或奖励。
 
 ---
-#### 隐形术，10 英尺半径 (Invisibility, 10 ft. Radius)
+#### 隐形术，10 英尺半径
 
 (幻术系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 2 | **施法时间:** 2 动作 |
+| **位阶:** 法师 2 | **施法时间:** 2 行动 |
 | **领域:** 无 | **持续时间:** 6 小时/强度 |
 | **消耗:** 3, +1/额外强度 | **射程:** 接触 |
-| **影响范围:** 1 个目标，10 英尺 | **抗力:** 无 |
+| **范围:** 1 目标，10 英尺 | **抵抗:** 无 |
 
-此法术的功能与 [隐形术](0010_Spells.md?id=invisibility) 完全相同；但施法时位于受术者（可以是施法者自身）10 英尺内的所有个体也会隐形。处于法术效果下的人可以看到彼此；但这并不赋予观察其他隐形生物的能力。如果任何人移出影响范围，他们的隐形状态就会丢失，因此必须小心确保每个人都保持在原始受术者的范围内。在隐形状态丢失后移动回影响范围内的个体，或施法时不在场的人，均无法从该效果中获益。除原始受术者以外的任何人从隐形保护中发起的攻击（包括进攻性施法）会扰乱该人的隐形状态，但对影响范围内的其他角色没有影响。然而，由法术的原始受术者发起的攻击会使每个人再次显形。更多详情请参见基础 [隐形术](0010_Spells.md?id=invisibility) 法术。
+此法术的功能与 [[隐形术]](0010_Spells.md?id=invisibility) 法术相同；但是，施法时在受体（可以是施法者本人）10 英尺内的所有个体也会变得不可见。处于法术效果下的人可以看到彼此；然而，这并不赋予看到其他隐形生物的能力。如果有人移出范围，他们的隐形状态就会丧失，因此必须小心将每个人都保持在原始对象的范围内。在隐形状态丢失后移动回范围内的那些人，或者在施法时不在场的人，不能从其效果中受益。在隐形保护下发动的攻击，包括除了原始受试者以外的任何人进行的进攻性施法，会中断该人的隐形状态，但对范围内的其他角色没有影响。然而，由法术的原始接收者进行的攻击会使每个人再次可见。有关更多详细信息，请参阅基础 [[隐形术]](0010_Spells.md?id=invisibility) 法术。
 
 ---
-#### 进阶隐形术 (Invisibility, Greater)
+#### 高等隐形术
 
 (幻术系)
 
 | | |
 | :-- | :-- |
-| **等级:** 魔法师 3 | **施法时间:** 2 动作 |
-| **领域:** 无 | **持续时间:** 3 轮/强度 |
+| **位阶:** 法师 3 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 3 回合/强度 |
 | **消耗:** 3, +1/额外强度 | **射程:** 接触 |
-| **影响范围:** 1 个目标 | **抗力:** 无 |
+| **范围:** 1 目标 | **抵抗:** 无 |
 
-此法术的功能与基础 [隐形术](0010_Spells.md?id=invisibility) 相同；但受术者采取的任何动作都不会提前结束持续时间。目标可以进行近战或远程攻击、施放法术等。注意，动作的发生会有可见迹象，例如视觉扭曲。这允许任何对受术者有视线的生物在动作发生后（或者如果角色延迟，则可能在之前）进行一次感知判定（难度：极难），以识别隐形攻击者的位置。那些感知到隐形人位置的生物，可以在受术者行动的同一轮内以一级难度等级进行攻击。更多详情请参见 [隐形术](0010_Spells.md?id=invisibility) 法术。
+此法术的功能与基础 [[隐形术]](0010_Spells.md?id=invisibility) 法术相同；然而，受试者采取的任何行动都不会提前结束持续时间。目标可以进行近战或远程攻击、施放法术等。注意，行动发生的可见线索（如视觉扭曲）是存在的。这允许任何与受试者有视线接触的人在行动发生后进行艰巨的感知掷骰（如果角色延迟，则可能在之前），以辨别隐形攻击者的位置。在受试者采取行动的同一回合中，那些感知到隐形人位置的人可以进行一次一级难度的攻击。有关更多详细信息，请参阅 [[隐形术]](0010_Spells.md?id=invisibility) 法术。
 
 ---
-#### 铁手 (Ironhand)
+#### 铁手术
 
 (防护系)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 0 | **施法时间:** 1 动作 |
+| **位阶:** 牧师 0 | **施法时间:** 1 行动 |
 | **领域:** 防护 | **持续时间:** 10 分钟 |
 | **消耗:** 1 | **射程:** 接触 |
-| **影响范围:** 1 个目标 | **抗力:** 无 |
+| **范围:** 1 目标 | **抵抗:** 无 |
 
-“铁手”允许受术者持有任何会导致伤害的物品（例如极热或极冷的物品，或滴落酸液的物品），而不会使自己受伤。因此，使用者可以从火中抓起余烬，从烤叉上拿起沸腾的大锅，甚至穿过蒸汽口去抓取另一侧的物体。它并不赋予总伤害免疫，仅仅是阻止伤害通过受术者手部的皮肤传导。此法术不保护手部穿戴的任何装备，因此戒指、手套等会受到来源的影响。#### 解锁 \(R\)
+铁手术允许受试者持有任何否则会造成伤害的东西（例如极热或极冷的物品，或滴落酸液的物品），而不会使自己受伤。因此，使用者可以抓住火中的木炭，从烤架上提起冒泡的坩埚，甚至穿过蒸汽喷口抓住另一侧的物体。它不能授予对伤害的完全免疫，它只是阻止伤害通过受试者手部的皮肤传导。该法术不保护手上的任何佩戴物，因此戒指、手套等将受到源头效果的影响。#### Knock \(R\)
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 1/强度 | **距离：** 180 英尺 |
-| **范围：** 1 个入口 | **抗性：** 无 |
+| **位阶:** 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 见下文 |
+| **花费:** 1/强度 | **射程:** 180 英尺 |
+| **区域:** 1 个门户 | **抗力:** 无 |
 
-此法术可用于开启一扇门或类似的木质、石质或金属质的障碍物，无论其是上锁、卡住、被“定身”还是被“法师锁定”。它对吊闸或大门无效。障碍物每强度可承受最多 25 点生命值，包括锁住的箱子、盒子、暗门，甚至是脚镣和铁链。即使是之前被焊接封死的入口也会被强行破开。一次“解锁”施法最多可影响两个不同的方面，例如，一扇既被门闩栓住、又被上锁且被“定身”的门，将需要施展 2 次“解锁”法术。对于被“法师锁定”的门，该附魔会暂时失效 10 分钟，之后门会恢复到被魔法锁定的状态。
+此法术可用于打开一扇门或其他类似的木质、石质或金属质的孔洞，前提是它处于上锁、卡住、被“固定 (Held)”或被“法师锁定 (Mage Locked)”的状态。它对吊闸或大门无效。门户每点强度最多可拥有 25 点生命值，对象包括上锁的箱子或盒子、暗门，甚至是脚镣和锁链。即使是被焊接封死的孔洞也能从束缚中解脱。施展“敲击术 (Knock)”最多可影响两个不同的开启限制，例如，一扇既有门闩、又上锁且被“固定”的门，需要施展 2 次“敲击术”。对于被“法师锁定”的门，其附魔效果会暂时中止 10 分钟，之后门会恢复到被魔法锁定的状态。
 
-当反转施法时，“锁门”可以关闭并锁住一个如上所述的入口，前提是该入口有锁闭机制。最多可以设定两种不同的功能，如上锁、加栓、上门闩等。
+反向施法时，“锁闭术 (Lock)”会如上所述关闭并锁定一个门户，前提是其拥有锁闭机构。最多可以设定两种不同的锁闭功能，如上锁、加闩、加杠等。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 花费 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 最大 25 点生命值的入口；脚镣、挂锁、典型的木箱或门 |
-| 2 | 2 | 最大 50 点生命值的入口；加固的木箱或门 |
-| 3 | 3 | 最大 75 点生命值的入口；铁箱或铁门 |
+| 1 | 1 | 最多 25 点生命值的门户；脚镣、挂锁、典型的木箱或门 |
+| 2 | 2 | 最多 50 点生命值的门户；木质加固箱或门 |
+| 3 | 3 | 最多 75 点生命值的门户；铁制箱或门 |
 
 ---
-#### 识破阵营 \(R\)
+#### Know Alignment \(R\)
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1，法师 2 | **施法时间：** 1 动作 |
-| **领域：** 预言 | **持续时间：** 1 轮/强度 |
-| **消耗：** 1/强度 | **距离：** 30 英尺 |
-| **范围：** 1 个目标 | **抗性：** 意志 |
+| **位阶:** 牧师 1, 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 预言 | **持续时间:** 1 轮/强度 |
+| **花费:** 1/强度 | **射程:** 30 英尺 |
+| **区域:** 1 个目标 | **抗力:** 意志力 |
 
-此法术允许施法者洞察一个生物的阵营和激情，目标可以进行抗性判定。如果抗性失败，施法者将洞察到目标在守序、中立与混乱方面的道德准则。额外专注 1 轮可洞察目标在善良、中立与邪恶方面的道德阵营。此后每多专注 1 轮，可洞察一项剩余的随机激情。游戏主持人根据下表揭示目标已发现阵营和激情的“强度”：
+此法术允许施法者辨别一个生物的阵营和激情，目标可以进行掷骰以进行抵抗。若抵抗失败，施法者将洞察到目标在秩序、中立与混乱方面的伦理准则。若需进一步辨别目标在善良、中立与邪恶方面的道德阵营，则需要再专注 1 轮。在此之后，每多专注 1 轮，便可辨别出一个随机剩余的激情。游戏主持人根据下表揭示目标所察觉的阵营和激情的“强度”：
 
 **阵营/激情强度表**
 
 | 百分比 | 强度 |
 | :-: | :-- |
-| 01-29% | 微弱 |
-| 30-69% | 一般 |
-| 70-99% | 强烈 |
-| 100% + | 极强 |
+| 01-29% | 弱 |
+| 30-69% | 平均 |
+| 70-99% | 强 |
+| 100% + | 非常强 |
 
-此法术的反转效果“遮蔽阵营”可使目标的阵营和激情在 24 小时内无法被读取，即便是使用“识破阵营”或“侦测邪恶/善良”也无法探测到。
+此法术的反向效果“隐藏阵营 (Obscure Alignment)”可使目标的阵营和激情在 24 小时内无法被读取，即使通过“辨别阵营 (Know Alignment)”或“侦测邪恶/善良 (Detect Evil/Good)”也无法察觉。
 
 ---
-#### 通晓语言 \(R\)
+#### Know Languages \(R\)
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 1 分钟 |
-| **领域：** 无 | **持续时间：** 5 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 接触 |
-| **范围：** 1 个智慧生物 | **抗性：** 无 |
+| **位阶:** 法师 1 | **施法时间:** 1 分钟 |
+| **领域:** 无 | **持续时间:** 5 分钟/强度 |
+| **花费:** 1/强度 | **射程:** 接触 |
+| **区域:** 1 个智慧生物 | **抗力:** 无 |
 
-此法术允许施法者理解并阅读几乎所有非魔法语言。此法术无法理解非智慧动物或生物的“语言”，仅限智慧生物的真实语言。魔法使用者必须接触该物体或生物才能理解其含义。此法术不提供书写或说出该语言的能力。
+此法术允许施法者理解并阅读几乎任何非魔法语言。非智慧动物或生物的“语言”无法被理解，仅有智慧生物的真实语言有效。魔法使用者必须接触该物体或生物才能领会其含义。此法术不赋予说或写该语言的能力。
 
-此法术的反转效果“语言混乱”会使生物所说的话让任何人无法理解，或使一段书写文本变得无法解读。此反转效果也可用于反制施法过程中的“通晓语言”。
+此法术的反向效果“语言混乱 (Confuse Languages)”可使某个生物的言语对他者而言变得难以理解，或使一段书面文字变得无法解读。此反向法术也可在他人施展“语言知晓 (Know Languages)”时用于反制。
 
 ---
-#### 悬浮术
+#### Levitate
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 10 分钟/强度 |
-| **消耗：** 3，每额外强度+1 | **距离：** 60 英尺/强度 |
-| **范围：** 1 个目标 | **抗性：** 意志 |
+| **位阶:** 法师 1 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 10 分钟/强度 |
+| **花费:** 3, +1/额外强度 | **射程:** 60 英尺/强度 |
+| **区域:** 1 个目标 | **抗力:** 意志力 |
 
-施放此法术时，魔法使用者可以指定自己、一个目标、一个生物或一个物体（最大体积为 20 SIZ，每额外强度 +10 SIZ），并使其脱离地面悬浮。除施法者外的生物可按每战斗轮 5 英尺的速度垂直移动；若对自己施放，施法者每轮可垂直移动最多 10 英尺。除改变高度外，悬浮术不需要施法者保持专注。若对不情愿的对象施放，目标可以进行抗性判定。尽管此法术不提供水平移动能力，但目标若触手可及，则可以沿着墙壁或悬崖拉动自己。施法者可随时终止此法术。
+当施展此法术时，魔法使用者可以指定自己、一个目标、一个生物或一个体型不超过 20 体型 的物体（每额外增加 1 点强度可增加 10 点 体型），使其脱离地面悬浮。除施法者外的生物每战斗轮可垂直移动 5 英尺；若对自己施法，施法者每轮可垂直移动最多 10 英尺。悬浮除改变高度外，不需要施法者进行额外的专注。若对不情愿的对象施放，目标允许进行一次抵抗掷骰。虽然此法术不提供任何形式的水平移动，但目标若触及墙壁或悬崖，或许能藉此拉动自己。施法者可随时终止此法术。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 花费 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 分钟；60 英尺距离；20 SIZ |
-| 2 | 4 | 20 分钟；120 英尺距离；30 SIZ |
-| 3 | 5 | 30 分钟；180 英尺距离；40 SIZ |
-| 4 | 6 | 40 分钟；240 英尺距离；50 SIZ |
-| +1 | +1 | 继续进阶 |
+| 1 | 3 | 10 分钟；60 英尺射程；20 体型 |
+| 2 | 4 | 20 分钟；120 英尺射程；30 体型 |
+| 3 | 5 | 30 分钟；180 英尺射程；40 体型 |
+| 4 | 6 | 40 分钟；240 英尺射程；50 体型 |
+| +1 | +1 | 继续递增 |
 
 ---
-#### 光亮术 \(R\)\*
+#### Light \(R\)*
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1，法师 1 | **施法时间：** 1 动作 |
-| **领域：** 太阳 | **持续时间：** 1 小时/强度 |
-| **消耗：** 1/强度 | **距离：** 180 英尺 |
-| **范围：** 20 英尺半径/强度 | **抗性：** 见下文 |
+| **位阶:** 牧师 1, 法师 1 | **施法时间:** 1 行动 |
+| **领域:** 太阳 | **持续时间:** 1 小时/强度 |
+| **花费:** 1/强度 | **射程:** 180 英尺 |
+| **区域:** 20 英尺半径/强度 | **抗力:** 见下文 |
 
-施放此法术时，一个光球会在施法者选择的地点显现（可以在物体上，甚至在空气中），施法者可随时取消它。法术持续时间为每强度 1 小时。若施放在生物身上，目标可进行意志判定来抗性，成功则意味着法术影响的是该生物身后的区域而非生物本身。如果光亮术聚焦在生物的眼睛上，意志判定失败会导致部分失明，持续时间等同于法术时长，并将所有需要视力的技能和抗性判定难度提高一个等级。法术效果不可移动，但可施放在便携或可移动的物体上。
+当施展此法术时，一个光球会在施法者选择的地点出现，它可以位于物体上，甚至是在空气中，施法者可随时取消它。此法术的持续时间为每强度 1 小时。若对生物施放，目标允许进行意志力测试以进行抵抗，成功则表示法术仅影响生物身后的区域而非生物本身。若“光亮术 (Light)”以生物的双眼为中心施放，则意志力掷骰失败会导致等同于法术持续时间的局部失明，将所有需要视力的技能掷骰和抵抗掷骰的难度等级提高一级。法术效果不可移动，但可以被施加在便携或可移动的物体上。
 
-*\*此法术的神圣版本可以反转，产生一个绝对且彻底的黑暗球体，其功能与奥术法术[黑暗术](0010_Spells.md?id=darkness)完全一致，区别在于其持续时间缩短为每强度 30 分钟。*
+_*此法术的神圣版本可以反转，从而产生一个绝对且完全的黑暗球体，其功能等同于奥术“黑暗术 (Darkness)”，唯一的区别是其持续时间较短，为每强度 30 分钟。_
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 花费 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 20 英尺半径；1 小时（反转为 30 分钟） |
-| 2 | 2 | 40 英尺半径；2 小时（反转为 1 小时） |
-| 3 | 3 | 60 英尺半径；3 小时（反转为 1.5 小时） |
-| 4 | 4 | 80 英尺半径；4 小时（反转为 2 小时） |
-| +1 | +1 | 继续进阶 |
+| 1 | 1 | 20 英尺半径；1 小时（反向时为 30 分钟） |
+| 2 | 2 | 40 英尺半径；2 小时（反向时为 1 小时） |
+| 3 | 3 | 60 英尺半径；3 小时（反向时为 1.5 小时） |
+| 4 | 4 | 80 英尺半径；4 小时（反向时为 2 小时） |
+| +1 | +1 | 继续递增 |
 
 ---
-#### 闪电束
+#### Lightning Bolt
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 2 动作 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 3，每额外强度+1 | **距离：** 50 英尺/强度 |
-| **范围：** 10 英尺宽路径 | **抗性：** 回避 |
+| **位阶:** 法师 2 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 瞬发 |
+| **花费:** 3, +1/额外强度 | **射程:** 50 英尺/强度 |
+| **区域:** 10 英尺宽的路径 | **抗力:** 闪避 |
 
-当魔法使用者在施法的第一回合开始言语咒语和手势时，指间开始产生电弧。在第二回合，咒语完成，魔法使用者从指尖射出一道闪电，沿着法术距离形成一条 10 英尺宽的直线，穿过路径上的所有目标。此伤害对效果区域内的所有受害者造成每 2 点强度（或不足 2 点的部分）1d6 点伤害。伤害只投掷一次，并应用于目标的每个受损部位。穿着的护甲和自然护甲均无法提供保护，但魔法护甲点可正常减免伤害。
+当魔法使用者在施法的第一轮开始念咒和施展手势时，电荷开始在手指间闪烁。在第二轮，念咒完成，魔法使用者从指尖射出一道闪电，沿着法术射程内 10 英尺宽的直线路径贯穿所有目标。此伤害对作用区域内的所有受害者造成每 2 点强度（或不足 2 点的部分）1d6 点伤害。伤害掷骰一次，并应用至目标的每一个命中部位；磨损护甲和天然护甲不提供保护，但魔法护甲点数可以正常减少伤害。
 
-成功的回避判定（表现为俯身扑倒）可让受害者免受伤害。拥有“灵巧闪避者”能力的人可以选择不扑倒进行回避，但在此情况下，成功只会将伤害减半，除非他们位于效果区域边缘的 5 英尺范围内。
+成功的“闪避 (闪避)”掷骰（通常表现为卧倒在地）可使受害者免受伤害。拥有“灵巧闪避者 (Artful Dodger)”能力的个体可选择不卧倒进行闪避，但在这种情况下，除非他们处于作用区域边缘 5 英尺内，否则成功仅能减少一半伤害。
 
-闪电有等于投掷出的伤害值 x1% 的几率引燃易燃物。有关更多信息，请参阅[火焰](0007_Game_System.md?id=fire-based-attacks)部分。闪电也可能因巨大的冲击力而粉碎或摧毁无生命物体。
+闪电有一定概率点燃易燃材料，概率等于掷出的伤害值 x 1%。有关更多信息，请参阅[火焰 (Fires)](0007_Game_System.md?id=fire-based-attacks)部分。闪电也可能因巨大的冲击力而粉碎或摧毁无生命物体。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 花费 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 英尺距离；1d6 伤害 |
-| 2 | 4 | 100 英尺距离；1d6 伤害 |
-| 3 | 5 | 150 英尺距离；2d6 伤害 |
-| 4 | 6 | 200 英尺距离；2d6 伤害 |
-| 5 | 7 | 250 英尺距离；3d6 伤害 |
-| 6 | 8 | 300 英尺距离；3d6 伤害 |
-| +1 | +1 | 继续进阶 |
+| 1 | 3 | 50 英尺射程；1d6 伤害 |
+| 2 | 4 | 100 英尺射程；1d6 伤害 |
+| 3 | 5 | 150 英尺射程；2d6 伤害 |
+| 4 | 6 | 200 英尺射程；2d6 伤害 |
+| 5 | 7 | 250 英尺射程；3d6 伤害 |
+| 6 | 8 | 300 英尺射程；3d6 伤害 |
+| +1 | +1 | 继续递增 |
 
 ---
-#### 定位物体 \(R\)
+#### Locate Object \(R\)
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2，法师 2 | **施法时间：** 1 动作 |
-| **领域：** 预言 | **持续时间：** 1 分钟/强度 |
-| **消耗：** 1/强度 | **距离：** 0 |
-| **范围：** 60 英尺/强度 | **抗性：** 无 |
+| **位阶:** 牧师 2, 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 预言 | **持续时间:** 1 分钟/强度 |
+| **花费:** 1/强度 | **射程:** 0 |
+| **区域:** 60 英尺/强度 | **抗力:** 无 |
 
-施放“定位物体”后，施法者会感受到一个已知或熟悉的物品方向，施法者站立并缓慢转动即可感知。该物体必须在法术的效果范围内。物体可以是任何通用物品，如床、箱子、楼梯间或黄金，法术会引导施法者走向距离最近的此类物体。另一方面，特定的物品（例如塔莎娜的长剑）要求施法者拥有准确的心理图像，即亲眼在 30 英尺内见过，或通过魔法手段观察过。因此，除非施法者熟悉该物品，否则无法使用此法术定位个人或独特的物品。此法术无法定位活物或非生物。
+施展“定位物品 (Locate Object)”时，施法者会被引导至一件已知或熟悉的物品处，在施法者站立并缓慢转动时感知到物品的方向。该物品必须在法术的作用范围内。物品可以是任何通用物品，例如床、箱子、楼梯井或黄金，法术会将施法者引向最近的该类物体。另一方面，特定物品（例如塔莎娜的长剑）需要施法者拥有准确的心理图像，即曾经在 30 英尺内亲眼见过，或通过魔法方式感知过。因此，除非施法者熟悉该物品，否则无法使用此法术定位个人专属或独一无二的物品。此法术无法定位活物或非生命生物。
 
-此法术的反转效果“遮蔽物体”可在相同的持续时间内，使一件物品免于被水晶球、“侦测魔法”等魔法手段探测到。
+此法术的反向效果“隐藏物品 (Obscure Object)”可在相同的持续时间内，使一件物品免于被魔法手段（如水晶球、“侦测魔法 (Detect Magic)”等）探测到。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 花费 | 可变效果 |
 | :-: | :-: | :-- |
 | 1 | 1 | 1 分钟；60 英尺半径 |
 | 2 | 2 | 2 分钟；120 英尺半径 |
 | 3 | 3 | 3 分钟；180 英尺半径 |
 | 4 | 4 | 4 分钟；240 英尺半径 |
-| +1 | +1 | 继续进阶 |
+| +1 | +1 | 继续递增 |
 
 ---
-#### 法师锁定
+#### Mage Lock
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 永久 |
-| **消耗：** 3，每额外强度+1 | **距离：** 接触 |
-| **范围：** 1 个入口 | **抗性：** 无 |
+| **位阶:** 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 永久 |
+| **花费:** 3, +1/额外强度 | **射程:** 接触 |
+| **区域:** 1 个门户 | **抗力:** 无 |
 
-此法术可施放在任何可锁定的物体上，如箱子、门、入口，甚至是可上锁的典籍。该物体每强度可拥有最多 25 点生命值，除非被强力破开，否则永久密封。以高于该法术量级的等级施放“解除魔法”只能使其开启 1 轮；“解锁”可用于临时开启被“法师锁定”的门 10 分钟，之后原始法术继续生效。最后，等级高于原始施法者的魔法使用者可以自由穿过“法师锁定”的门而不破坏附魔，甚至可以为他人开启入口。与“安全门户”不同，被“法师锁定”的物体不会自动被来自主物质位面之外的生物（如恶魔、魔鬼、天使和元素）或使用穿墙法术的人破坏。
+此法术可施加在任何可锁定的物体上，如箱子、门、门户甚至可上锁的典籍。该物体（每点强度最多 25 点生命值）除非被暴力破开，否则将永久密封。以高于该法术量级的“解除魔法 (Dispel Magic)”施放，仅能使其打开 1 轮；“敲击术 (Knock)”可用于临时打开被“法师锁定 (Mage Locked)”的门 10 分钟，之后原法术继续生效。最后，位阶高于原施法者的魔法使用者可以自由通过被“法师锁定”的门而不破坏其附魔，甚至可以为他人开启门户。与“稳固门户 (Secure Portal)”不同，被“法师锁定”的物体不会自动被来自主物质位面之外的生物（如恶魔、魔鬼、天使和元素生物）或使用穿墙类法术的生物干扰。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 花费 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 最大 25 点生命值的入口；脚镣、挂锁、典型的木箱或门 |
-| 2 | 4 | 最大 50 点生命值的入口；加固的木箱或门 |
-| 3 | 5 | 最大 75 点生命值的入口；铁箱、门或吊闸 |
-| 4 | 6 | 最大 120 点生命值的入口；小型城堡门 |
-| 5 | 7 | 最大 150 点生命值的入口；大型加固城堡门 |
+| 1 | 3 | 最多 25 点生命值的门户；脚镣、挂锁、典型的木箱或门 |
+| 2 | 4 | 最多 50 点生命值的门户；木质加固箱或门 |
+| 3 | 5 | 最多 75 点生命值的门户；铁制箱、门或吊闸 |
+| 4 | 6 | 最多 120 点生命值的门户；小型城堡大门 |
+| 5 | 7 | 最多 150 点生命值的门户；大型加固城堡大门 |
 
 ---
-#### 魔法飞弹
+#### Magic Missile
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 1/强度 | **距离：** 100 英尺/强度 |
-| **范围：** 1-5 个目标 | **抗性：** 见下文 |
+| **位阶:** 法师 1 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 瞬发 |
+| **花费:** 1/强度 | **射程:** 100 英尺/强度 |
+| **区域:** 1-5 个目标 | **抗力:** 见下文 |
 
-当施放此法术时，一枚或多枚魔法能量飞弹从魔法使用者的指尖射出并击中目标。可产生的飞弹最大数量取决于施法者的“奥术施法”技能等级：技能达 60% 时产生第二枚，70% 时产生第三枚，80% 时产生第四枚，90% 时产生第五枚（最终）。要产生这些飞弹，施法强度必须等于所需的飞弹数量。例如，技能低于 60% 时，施法者以 3 强度施放“魔法飞弹”将获得较远的距离，但只能产生一枚飞弹。技能为 70% 的魔法使用者以同样 3 强度施放则可获得相同距离并产生 3 枚飞弹。此法术的最大强度为 5。详见下表。
+当施展此法术时，一枚或多枚魔法能量飞弹从魔法使用者的指尖射出并击中目标。可产生的最大飞弹数量取决于施法者的“奥术施法 (Arcane Casting)”技能等级：在 60% 技能等级时产生第二枚，70% 时产生第三枚，80% 时产生第四枚，90% 时产生第五枚（最后一枚）。要产生这些飞弹，法术必须以等于期望飞弹数量的强度来施展。例如，在低于 60% 技能时，魔法使用者以 3 强度施展“魔法飞弹 (Magic Missile)”将获得更远的射程，但只能产生一枚飞弹。技能等级 70% 的魔法使用者可以以相同的 3 强度施法，达到相同的射程并产生 3 枚飞弹。此法术的最大强度为 5。见下表。
 
-“魔法飞弹”会百发百中，即使目标处于近战中或有部分掩护。这些飞弹无法被回避；然而，拥有全掩护的对手无法成为此法术的目标。假设目标知晓且/或面向施法者，“护盾术”会自动偏转魔法飞弹。“魔法飞弹”造成 1d6+1 点伤害，穿着的护甲不提供保护，但生物的自然护甲或魔法护甲点可正常减免伤害。“魔法飞弹”对门、锁等无生命物体不造成伤害。
+“魔法飞弹”将必定命中，即使目标处于近战中或拥有部分掩体。这些飞弹无法被闪避；然而，处于完全掩体后的对手无法成为此法术的目标。如果目标意识到施法者或正面对施法者，“护盾术 (Shield)”将自动偏转“魔法飞弹”。“魔法飞弹”造成 1d6+1 点伤害，磨损护甲无法提供保护，但生物的天然护甲或魔法护甲点数可以正常减少伤害。“魔法飞弹”对无生命物体（如门、锁等）不造成伤害。
 
-发射多枚飞弹时，施法者可以让它们击中单个生物，或针对多个生物。每枚“魔法飞弹”将随机击中一个受损部位——无法指定具体部位。施法者必须在投掷伤害前指定每枚飞弹的目标。
+发射多枚飞弹时，施法者可让它们击中同一个生物，或指定多个目标。每枚“魔法飞弹”将击中随机的命中部位——不可指定特定的命中部位。施法者必须在投掷伤害前为每枚飞弹指定单独的目标。
 
-| 强度 | 消耗 | 可变效果 |
+| 强度 | 花费 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 100 英尺距离；1 枚飞弹 |
-| 2 | 2 | 200 英尺距离；60% 技能时 2 枚 |
-| 3 | 3 | 300 英尺距离；70% 技能时 3 枚 |
-| 4 | 4 | 400 英尺距离；80% 技能时 4 枚 |
-| 5 最大 | 5 | 500 英尺距离；90% 技能时 5 枚 |
+| 1 | 1 | 100 英尺射程；1 枚飞弹 |
+| 2 | 2 | 200 英尺射程；60% 技能时 2 枚飞弹 |
+| 3 | 3 | 300 英尺射程；70% 技能时 3 枚飞弹 |
+| 4 | 4 | 400 英尺射程；80% 技能时 4 枚飞弹 |
+| 5 最大 | 5 | 500 英尺射程；90% 技能时 5 枚飞弹 |
 
 ---
-#### 魔法嘴
+#### Magic Mouth
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 1 分钟 |
-| **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 3，每额外强度+1 | **距离：** 30 英尺 |
-| **范围：** 1 个物体 | **抗性：** 无 |
+| **位阶:** 法师 2 | **施法时间:** 1 分钟 |
+| **领域:** 无 | **持续时间:** 见下文 |
+| **花费:** 3, +1/额外强度 | **射程:** 30 英尺 |
+| **区域:** 1 个物体 | **抗力:** 无 |
 
-此法术在物品或物体上创造一张嘴，当触发特定事件或魔法使用者施法时设定的时间点时，它会自动显现。随后这张嘴会说出施法时预设的短语。此短语不得超过 25 个词，以每秒约 1 个词的速度说出。嘴不能说出原力之词或施法。
+此法术在物品或物体上创造出一张嘴，当触发特定事件或魔法使用者施法时指定的时间到来时，它会魔法般地出现。这张嘴将说出施法者在施法时预设的短语。此短语不得超过 25 个词，并以大约每秒 1 个词的速度说出。这张嘴无法说出力量之语或施展法术。
 
-此法术可施放在任何原本无生命的物体上，从柱子、树木到石墙或箱子均可；不过施放在雕像上效果尤佳，看起来就像雕像在说话一样。它不能施放在任何具有智慧或本能的活物身上，这也适用于曾经活过的生物。施法时，魔法使用者确定触发附魔的情况。触发方式可以是从说话声到任何噪音的产生。它可以像“当下一个人进入这个房间时……”这样笼统，也可以像“当塞多纳的一名女性牧师在周六走到大厅尽头的雕像 10 英尺内时……”这样具体。触发效果不能是无法通过非魔法手段分辨的事物，例如隐形生物、生物的阵营、技能、职业等。但可以指定其穿着的服装。法术触发的最远距离为每强度 25 英尺。
+此法术可施加在任何通常无生命的物体上，从柱子或树木，到石墙或箱子；然而，施加在雕像上效果尤佳，因为雕像本身看起来就像在说话一样。它不能施加在任何拥有智力或本能的活物身上。这也适用于那些曾经有生命的生物。施展此法术时，魔法使用者确定触发该附魔的情况。它可以被设计为通过任何事物触发，从一个口头词汇到发出任何噪音。它可以是笼统的如“当下一个人进入这个房间时……”也可以是特定的如“当塞多纳的女性牧师在周六走到大厅尽头的雕像 10 英尺内时……”。触发效果不能是无法通过非魔法手段察觉的事物，例如隐形生物、生物的阵营、技能、职业等。然而，它可以指定所穿戴的衣物。法术可被触发的最大距离为每强度 25 英尺。
 
-此法术的持续时间为永久，直到附魔被激活，随后法术即告结束。
+此法术的持续时间是永久的，直到附魔被激活，之后法术结束。
 
 ---
-#### 魔术戏法
+#### Magic Tricks
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 0 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 专注 |
-| **消耗：** 1 | **距离：** 0 |
-| **范围：** 30 英尺半径 | **抗性：** 无 |
+| **位阶:** 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 专注 |
+| **花费:** 1 | **射程:** 0 |
+| **区域:** 30 英尺半径 | **抗力:** 无 |
 
-“魔术戏法”在平民、被压迫者，尤其是儿童中是一种极佳的娱乐方式。常见的魔术戏法效果包括：制造微风吹动蜡烛、从孩子耳后变出一枚银币、让花朵迅速绽放、表演纸牌魔术、制造出虚无缥缈的怪异音乐等。魔术戏法无法造成任何伤害，也无法在战斗中造成任何程度的干扰，但可用于分散人群注意力，以便小队其他成员潜行经过。
+“魔法戏法 (Magic Tricks)”是平民、被压迫者，尤其是儿童之间的一种极好的娱乐方式。一些通常用“魔法戏法”创造的效果包括：吹出风来闪烁蜡烛、从孩子耳后变出一枚银币、让花朵迅速绽放、表演纸牌魔术、制造出从虚无中传出的诡异空灵音乐等。魔法戏法无法造成哪怕一点伤害，也无法在战斗中产生任何程度的干扰，但可以用来在队伍潜行通过时分散人群的注意力。
 
 ---
-#### 流星雨
+#### Meteor Shower
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 5 | **施法时间：** 2 动作 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 3/强度 | **距离：** 20 英尺/强度 |
-| **范围：** 见下文 | **抗性：** 回避 |
+| **位阶:** 法师 5 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 瞬发 |
+| **花费:** 3/强度 | **射程:** 20 英尺/强度 |
+| **区域:** 见下文 | **抗力:** 闪避 |
 
-当魔法使用者施放此法术时，每等级强度会有两颗微流星从伸出的手中飞出。流星向目标弧线飞行，沿着向下的轨迹撞击，沿途留下一串火花和灰烬。撞击时，它们会在目标点周围发生多次火爆爆炸。第一颗流星总是击中目标地点，而任何额外的流星则随机击中其周围，每一颗都有 30 英尺的爆炸半径。要确定它们落点，投掷 1d8 决定方向。
+当魔法使用者施展此法术时，每级强度两枚微型流星从伸出的手掌中射出。流星向目标弧线飞行，以向下的轨迹冲击，身后留下一串火花和余烬。冲击时，它们在目标点周围产生多次猛烈的爆炸。第一枚流星总是击中目标地点，而任何额外的流星则随机击中周围，每一枚都有 30 英尺的爆炸半径。要确定它们击中的位置，掷 1d8 决定方向。
 
-<div style="text-align: center;">
-    <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
+<div 风格="text-align: center;">
+    <img src="_media/CFI_10_Meteor_Shower_Grid.png" 风格="width: 25%;" />
 </div>
 
-每颗流星对效果区域内的人造成 1d10 点火焰伤害。然而，由于每次爆炸都有半径，许多爆炸范围会重叠，对不幸被波及者造成额外伤害。伤害骰会合并并应用于目标的每个受损部位，穿着的护甲不提供保护，但魔法护甲点或生物的自然护甲可正常减免伤害。
 
-成功的回避判定可让受害者免受伤害。拥有“灵巧闪避者”能力的人可以选择不扑倒进行回避，但在此情况下，成功只会将伤害减半，除非他们位于效果区域边缘的 5 英尺范围内。
+每一枚流星对作用区域内的人造成 1d10 点火焰伤害。然而，由于每次爆炸的半径，许多会重叠，对那些不幸被卷入其中的人造成额外伤害。伤害掷骰被合并并应用至目标的每一个命中部位；磨损护甲不提供保护，但魔法护甲点数或生物的天然护甲可以正常减少伤害。
 
-包括效果区域外但距离撞击点 60 英尺内的所有人在内，均必须成功通过一次运动判定才能保持站立。
+成功的“闪避 (闪避)”掷骰可使受害者免受伤害。拥有“灵巧闪避者 (Artful Dodger)”能力的个体可选择不卧倒进行闪避，但在这种情况下，除非他们处于作用区域边缘 5 英尺内，否则成功仅能减少一半伤害。
 
-流星雨有等于投掷出的伤害值 x5% 的几率引燃易燃物。有关更多信息，请参阅[火焰](0007_Game_System.md?id=fire-based-attacks)部分。
+所有人，包括处于作用区域外但距离冲击点 60 英尺内的人，都必须成功进行一次“体能 (体能)”掷骰以保持站立。
+
+“流星雨 (Meteor Shower)”有一定概率点燃易燃材料，概率等于掷出的伤害值 x 5%。有关更多信息，请参阅[火焰 (Fires)](0007_Game_System.md?id=fire-based-attacks)部分。
 
 ---
-#### 力量
+#### Might
 
-(变化系)
+(变形系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0，法师 0 | **施法时间：** 1 动作 |
-| **领域：** 战斗 | **持续时间：** 触发 |
-| **消耗：** 1 | **距离：** 接触 |
-| **范围：** 1 个目标 | **抗性：** 无 |
+| **位阶:** 牧师 0, 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 战斗 | **持续时间:** 触发 |
+| **花费:** 1 | **射程:** 接触 |
+| **区域:** 1 个目标 | **抗力:** 无 |
 
-“力量”允许受术者进行一次令人印象深刻的肉体蛮力行为，将施法者的 POW 加到受术者的“强壮”技能上。它不会在造成战斗伤害时增加角色的伤害修正。
+“力量 (Might)”允许受术者进行令人印象深刻的物理蛮力行为，通过将施法者的灵力 (灵力) 加到受术者的“蛮力 (蛮力)”技能上。它不会在造成战斗伤害时增加角色的“伤害修正 (伤害 修正值)”。
 
 ---
-#### 镜像术
+#### Mirror Image
 
 (幻术系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 2 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 3 轮/强度 |
-| **消耗：** 1/强度 | **距离：** 0 |
-| **范围：** 5 英尺半径 | **抗性：** 无 |
+| **位阶:** 法师 2 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 3 轮/强度 |
+| **花费:** 1/强度 | **射程:** 0 |
+| **区域:** 5 英尺半径 | **抗力:** 无 |
 
-施放此法术时，5 英尺半径内会出现 2d4 个魔法使用者的复制体，完全模仿施法者的动作。此外，整个效果区域会波动闪烁，使人无法确定施法者的确切位置。击中其中一个幻影会导致其消失；但其余镜像不受影响。击中施法者对剩余镜像没有任何影响，由于镜像总是处于移动状态，再次攻击时无法分辨目标是否是真正的施法者。施法者所受的任何伤害也会同步体现在镜像上。游戏主持人可以通过多种方式确定击中的是真身还是镜像。一种方法是确定包括施法者在内的潜在目标总数，并投掷最接近面数的骰子。例如，有 4 个镜像加 1 个施法者，攻击者应投 1d6，重投 6 的结果，1 代表击中施法者。另一种方法是准备多个标记，其数量等于潜在目标总数，其中一个标记标记为施法者。每次攻击时抽取一个标记，如果击中目标，则应用伤害；否则镜像消失，移除其中一个标记。镜像在法术持续时间结束时消失。
+当施展此法术时，魔法使用者会出现 2d4 个复制体，出现在 5 英尺半径内，完全模仿施法者的动作。此外，整个作用区域都在波动和闪烁，使得施法者的确切位置无法辨别。击中一个幻象会导致它消失；然而，剩余的影像不受影响。击中施法者对剩余影像没有影响，并且由于影像一直在移动，如果再次被攻击，无法判断目标是否是真正的施法者。施法者受到的任何伤害也会复制到影像上。游戏主持人可以通过多种方式确定是否击中了真正的施法者还是其中一个影像。一种是确定包括施法者在内有多少个潜在目标，并掷出最接近面数的骰子。例如，若有 4 个影像和施法者，攻击者应掷 1d6，重掷 6，掷出 1 时击中施法者。另一种是准备若干个代表潜在目标的标记，其中一个标记为施法者。每次攻击时抽取一个标记，如果目标被击中则造成伤害；否则，一个影像消失，移除一个标记。影像在法术持续时间结束时消失。
 
 ---#### 中和毒素 (R)
 
-(死灵系)
+(死灵术)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3 | **施法时间：** 1 轮 |
-| **领域：** 治疗 | **持续时间：** 永久 |
-| **消耗：** 3，每额外增加 1 强度则 +1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 不适用 (耐力) |
+| **等级:** 牧师 3 | **施法时间:** 1 回合 |
+| **领域:** 治疗 | **持续时间:** 永久 |
+| **消耗:** 3, +1/每额外强度等级 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无 (体质) |
 
-该法术允许施法者消除折磨生物的毒药或毒液的效果，如果在使用时距离中毒者“死亡”不超过 10 分钟，也可以用于治愈该个体。每 30 点效能的毒药需要 1 级强度。“中和毒素”也可用于抵消诸如蛇或蝎子等有毒生物产生的毒液，使其无法再毒害他人：这需要每 30 点效能消耗 1 强度，且以这种方式使用时，持续时间为 24 小时。最后，“中和毒素”可用于被毒化或受到污染的物质，每点强度可处理 5 磅固体或 2 加仑液体。
+此法术允许施法者取消附着于生物身上的毒素或毒液的效果，如果在使用时距离中毒者“死亡”不超过 10 分钟，则可用于治愈因中毒而“死亡”的个体。每 30 点效力的致毒物质需要 1 级强度。中和毒素也可用于抵消有毒生物（如蛇或蝎子）产生的毒液，使其无法再毒害他人：这需要每 30 点效力消耗 1 级强度，且以此方式使用时，持续时间为 24 小时。最后，中和毒素可用于被毒化或以其他方式污染的物质，每级强度可处理 5 磅固体或 2 加仑液体。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 治愈 1-30 效能的毒素中毒者；使 1-30 效能的有毒生物失效；处理最多 5 磅中毒固体或 2 加仑液体 |
-| 2 | 4 | 治愈 31-60 效能的毒素中毒者；使 31-60 效能的有毒生物失效；处理最多 10 磅中毒固体或 4 加仑液体 |
-| 3 | 5 | 治愈 61-90 效能的毒素中毒者；使 61-90 效能的有毒生物失效；处理最多 15 磅中毒固体或 6 加仑液体 |
-| 4 | 6 | 治愈 91-120 效能的毒素中毒者；使 91-120 效能的有毒生物失效；处理最多 20 磅中毒固体或 8 加仑液体 |
-| +1 | +1 | 继续进阶 |
+| 1 | 3 | 治愈效力 1-30 的中毒受害者；使效力 1-30 的有毒生物失效；处理至多 5 磅中毒固体或 2 加仑液体 |
+| 2 | 4 | 治愈效力 31-60 的中毒受害者；使效力 31-60 的有毒生物失效；处理至多 10 磅中毒固体或 4 加仑液体 |
+| 3 | 5 | 治愈效力 61-90 的中毒受害者；使效力 61-90 的有毒生物失效；处理至多 15 磅中毒固体或 6 加仑液体 |
+| 4 | 6 | 治愈效力 91-120 的中毒受害者；使效力 91-120 的有毒生物失效；处理至多 20 磅中毒固体或 8 加仑液体 |
+| +1 | +1 | 继续增长 |
 
-反向施法时，“施加毒素”允许施法者在受害者体内产生致命毒素。此毒液详情如下。
+当逆向施展时，“施加毒素”允许施法者在受害者体内产生致命毒素。此毒液详情如下。
 
-#### 奥术毒药
+#### 奥术毒素
 
-- **施用方式：** 接触
-- **效能：** 等于 强度 x30
-- **抵抗：** 耐力
-- **发作时间：** 1d2+1 轮
-- **持续时间：** 1d3x10 分钟
-- **状态：** 受害者首先进入持续 2 轮的剧痛状态，随后产生窒息，通常导致死亡，除非通过“缓慢术”或“中和毒素”进行魔法治疗。
-- **解毒剂/治愈：** 无，除非进行魔法治疗。
+- **应用:** 接触
+- **效力:** 等于 强度 x30
+- **抵抗:** 体质
+- **发作时间:** 1d2+1 回合
+- **持续时间:** 1d3x10 分钟
+- **状态:** 受害者开始时会经历持续 2 回合的剧痛，随后发生窒息，通常导致死亡，除非通过“减速”或“中和毒素”进行魔法治疗。
+- **解毒剂/治愈:** 除了魔法治疗外无其他手段。
 
 ---
-#### 分水术
+#### 分开水流
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 4 | **施法时间：** 10 分钟 |
-| **领域：** 元素（水） | **持续时间：** 10 分钟/强度 |
-| **消耗：** 3，每额外增加 1 强度则 +1 | **射程：** 60 英尺/强度 |
-| **范围：** 见下文 | **抵抗：** 不适用 |
+| **等级:** 牧师 4 | **施法时间:** 10 分钟 |
+| **领域:** 元素 (水) | **持续时间:** 10 分钟/每强度等级 |
+| **消耗:** 3, +1/每额外强度等级 | **射程:** 60 英尺/每强度等级 |
+| **范围:** 见下文 | **抵抗:** 无 |
 
-此法术允许施法者将水或其他形态的液体分开，创造出一条安全的路径供需要时通行。法术创造出一道 100 英尺宽、深度为每强度 10 英尺、长度为每强度 120 英尺的槽。因此，如果以 4 强度施放，分水将深 40 英尺、长 480 英尺，宽度为 100 英尺。该法术可由施法者提前结束，否则持续到持续时间结束。此法术可在水下施放，此时会创造出具有上述相同尺寸的“空气走廊”。最后，“分水术”可对诸如水元素之类的生物进行攻击性施放，若如此做，每强度等级造成 10 点伤害。若该实体存活，则必须通过意志抵抗掷骰，否则将逃离施法者 3d4 分钟。
+此法术允许施法者分开水或其他液体形态，创造出一条安全路径，必要时可由此通过。此法术创造出一道 100 英尺宽、每强度等级 10 英尺深、每强度等级 120 英尺长的槽沟。因此，若以强度 4 施展，分开的水道将有 40 英尺深、480 英尺长、100 英尺宽。施法者可提前结束法术，否则法术持续至持续时间结束。此法术可在水下施展，此时会创造出一个具有上述相同尺寸的空气“走廊”。最后，分开水流可对水元素等生物进行攻击性施法，若如此做，每强度等级造成 10 点伤害。若该实体幸存，它必须成功通过一次灵力抵抗检定，否则将从施法者身边逃离，持续 3d4 分钟。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
@@ -1962,71 +1968,69 @@ _\*\*\* 同等级 2 奥术法术 [减速](0010_Spells.md?id=slow)。_
 | 3 | 5 | 30 分钟；180 英尺射程；100 英尺宽；30 英尺深；360 英尺长 |
 | 4 | 6 | 40 分钟；240 英尺射程；100 英尺宽；40 英尺深；480 英尺长 |
 | 5 | 7 | 50 分钟；300 英尺射程；100 英尺宽；50 英尺深；600 英尺长 |
-| +1 | +1 | 继续进阶 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 永恒术
+#### 永久化
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 4 | **施法时间：** 1 个动作 |
-| **领域：** 无 | **持续时间：** 永久 |
-| **消耗：** 3，+2 经验值 | **射程：** 见下文 |
-| **范围：** 见下文 | **抵抗：** 不适用 |
+| **等级:** 法师 4 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 永久 |
+| **消耗:** 3, +2 经验值 | **射程:** 见下文 |
+| **范围:** 见下文 | **抵抗:** 无 |
 
-施放此法术可以将某些其他法术的持续时间变为永久。要使用此法术，魔法使用者需先施放将被永久化的法术。然而，在该法术施放完成时将其保持，并消耗额外的动作点施放“永恒术”，之后选定的法术即以永久形式施放。每个永久化的法术除原有的正常施法消耗外，还需额外花费 2 点经验值以及注明的 3 点魔法点。在“永恒术”施放过程中使用“解除魔法”，不仅会解除“永恒术”，还会解除原法术。
+施展此法术会将某些其他法术的持续时间变为“永久”。要使用此法术，施法者需先施展打算永久化的法术。然而，在完成该法术的施法时，它会被暂存，并消耗额外的行动点数来施展“永久化”，之后所选法术将以其永久形式施展。每个被永久化的法术除了原本的正常施法消耗外，还需要施法者支付 2 点经验值修正以及指明的 3 点魔法点数。在施展“永久化”期间施展“解除魔法”，不仅会解除“永久化”，也会解除原本的法术。
 
-“永恒术”也是使用“附魔物品”法术制造魔法物品的关键应用。除下述法术外，经游戏主持人许可，其他法术也可被永久化。
+“永久化”也是使用“附魔物品”法术制造魔法物品的关键应用。除了下文注明的法术外，在游戏管理员的允许下，其他法术也可被永久化。
 
-以下仅影响施法者自身的个人法术可受益于此法术。它们不能在其他生物身上永久化：
+下列个人法术（仅影响施法者自身）将受益于此法术。它们不可在其他生物身上永久化：
 
-- 警觉
-- 协调
-- 暗视
-- 偏转
-- 侦测邪恶
-- 侦测隐形
-- 侦测魔法
-- 魅惑
-- 通晓语言
-- 力量
-- 保鲜
-- 防护（自身）
-- 防护邪恶
-- 阅读魔法
-- 通晓语言（Tongues）
+- 趋避 (Avert)
+- 协调 (Coordination)
+- 黑暗视觉 (Darkvision)
+- 偏斜 (Deflect)
+- 侦测邪恶 (Detect Evil)
+- 侦测隐形 (Detect Invisibility)
+- 侦测魔法 (Detect Magic)
+- 魅力 (Glamour)
+- 通晓语言 (Know Languages)
+- 强力 (Might)
+- 保存 (Preserve)
+- 防护 (自身) (Protection (Self))
+- 防护邪恶 (Protection from Evil)
+- 阅读魔法 (Read Magic)
+- 巧舌 (Tongues)
 
+“永久化”法术也可用于使下列施加于其他生物、物体或区域的法术永久化。带有星号 (*) 的法术只能在物体或区域上永久化。
 
-“永恒术”也可用于将以下施加在其他生物、物体或区域上的法术永久化。标有星号的法术只能在物体或区域上永久化。
-
-- 冷冻
-- 净化
-- 跳舞光芒\*
-- 恐惧
-- 隐形
-- 抛光 \*
-- 保鲜
-- 清理 \*
-- 魔法口信 \*
-- 火墙\*
-- 蛛网 \* |
-
+- 寒冷 (Chill)
+- 净化 (Cleanse)
+- 舞光术\* (Dancing Lights)
+- 恐惧 (Fear)
+- 隐形 (Invisibility)
+- 抛光\* (Polish)
+- 保存 (Preserve)
+- 清洁\* (Tidy)
+- 魔法嘴巴\* (Magic Mouth)
+- 火墙术\* (Wall of Fire)
+- 蛛网术\* (Web) |
 
 ---
-#### 宠物术
+#### 宠物
 
-(附魔系（魅惑）)
+(附魔系 (魅惑))
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 0 | **施法时间：** 1 个动作 |
-| **领域：** 动物 | **持续时间：** 专注 |
-| **消耗：** 1 | **射程：** 接触 |
-| **范围：** 1 只动物 | **抵抗：** 意志 |
+| **等级:** 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 动物 | **持续时间:** 专注 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 只动物 | **抵抗:** 意志力 |
 
-“宠物术”允许施法者夺取小动物的精神控制权，派遣其去侦察、拾取或执行其他复杂的任务。它可施加于任何体型 (SIZ) 和洞察 (INS) 特性均不超过施法者魅力 (CHA) 一半的生物。如果目标生物已经是施法者的忠诚宠物，则无需抵抗该法术。专注时，施法者可以获取该动物的感官（视觉、嗅觉、听觉等）。
+“宠物”允许施法者控制一只小型生物的精神，派遣其去侦察、取物或执行其他复杂任务。它可施展于任何体型 (体型) 与灵力 (INS) 特征值均不超过施法者魅力 (魅力) 一半的生物。若目标生物本身即是施法者的忠诚宠物，则无需抵抗该法术。在保持专注时，施法者可接入动物的感官（视觉、嗅觉、听觉等）。
 
 ---
 #### 位面转移
@@ -2035,14 +2039,14 @@ _\*\*\* 同等级 2 奥术法术 [减速](0010_Spells.md?id=slow)。_
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3 | **施法时间：** 2 个动作 |
-| **领域：** 星界 | **持续时间：** 永久 |
-| **消耗：** 3，每额外增加 1 强度则 +1 | **射程：** 接触 |
-| **范围：** 见下文 | **抵抗：** 意志 |
+| **等级:** 牧师 3 | **施法时间:** 2 行动 |
+| **领域:** 星界 | **持续时间:** 永久 |
+| **消耗:** 3, +1/每额外强度等级 | **射程:** 接触 |
+| **范围:** 见下文 | **抵抗:** 意志力 |
 
-施放后，牧师及最多 7 名同伴（每增加 1 级强度可多带一人）可前往另一位面。所有人在牧师施法时必须保持接触并围成一圈。此外，施法者也可使用该法术将一个生物独立于自身传送至施法者选择的位面，无论其意愿如何；然而，不情愿的生物可以进行意志掷骰以抵抗，成功则法术无效。到达的精确地点很少是施法者所期望的。如果使用六角格地图，投掷 1d6 确定方向，投掷 1d10x10 确定距离（英里）。
+施展此法术时，牧师及最多 7 名其他同伴（每增加一级强度可额外携带一名）可以前往另一个存在位面。牧师施法时，所有人必须保持接触并围成一个圆圈。此外，施法者也可使用该法术将一个独立的生物（无论是否愿意）传送至施法者选择的位面；然而，不愿意的生物可以进行一次意志力检定进行抵抗，成功则法术无效。到达的精确位置极少是施法者所期望的。若使用六角格地图，投掷 1d6 确定方向，并投掷 1d10x10 确定距离（英里）。
 
-除了任何通用物质成分外，施放“位面转移”还需要各种稀有金属制成的杆，每根杆都专门调谐至一个位面。这些杆很罕见，每根价值很容易达到 10,000 金币。
+除了任何通用的材料成分外，“位面转移”的施法还需要各种稀有金属制成的权杖，每一根都专门调谐到一个存在位面。这些权杖非常稀有，每根估价至少 10,000 金币。
 
 ---
 #### 抛光
@@ -2051,46 +2055,46 @@ _\*\*\* 同等级 2 奥术法术 [减速](0010_Spells.md?id=slow)。_
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0，法师 0 | **施法时间：** 1 个动作 |
-| **领域：** 创造 | **持续时间：** 瞬间 |
-| **消耗：** 1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **等级:** 牧师 0, 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 创造 | **持续时间:** 瞬间 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无 |
 
-“抛光”瞬间将一个物体（物体的“物品”数量或体型 (SIZ) 不超过施法者的力量 (POW)）打磨出高光泽，使其显得亮丽、光鲜且非常令人向往，即使该物品本身的质量一般也是如此。该物品的光泽通常会随时间流逝而消退。
+“抛光”可瞬间使一件物品（“物件”数量或体型最高不超过施法者的灵力 (灵力)）表面变得光亮如新，使其呈现出光滑、闪亮且极具吸引力的外观，即便该物品原本质量平平。物品的光泽通常会随时间推移而消退。
 
 ---
-#### 变形他人
+#### 变身他人
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 3 | **施法时间：** 2 个动作 |
-| **领域：** 无 | **持续时间：** 永久 |
-| **消耗：** 3，每额外增加 1 强度则 +1 (+1 经验值) | **射程：** 15 英尺/强度 |
-| **范围：** 1 个目标 | **抵抗：** 意志 |
+| **等级:** 法师 3 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 永久 |
+| **消耗:** 3, +1/每额外强度等级 (+1 经验值) | **射程:** 15 英尺/每强度等级 |
+| **范围:** 1 个目标 | **抵抗:** 意志力 |
 
-施法者可以将一个有形目标生物的形态改变为另一种形态，每点强度最多改变 5 点体型 (SIZ)。因此，将一只体型 16 的兽人变为体型 1 的兔子需要 3 级强度（相差 15 点体型）。该法术的目标允许进行意志掷骰以抵抗。大型生物 (SIZ 21-40) 受变形影响较小，其抵抗掷骰为“容易”，而巨大生物 (SIZ 41+) 的抵抗掷骰为“非常容易”。
+施法者可以将一个有形的受控生物外形改变为另一种生物，每一级强度可改变至多 5 点体型 (体型)。因此，将一个体型 16 的兽人变为体型 1 的兔子需要 3 级强度（15 点体型差异）。此法术的目标可以进行意志力检定进行抵抗。大型生物 (体型 21-40) 更难被变形，其抵抗检定为“简单”；而巨大生物 (体型 41+) 的抵抗检定为“非常简单”。
 
-整个转化过程需要整整 1 轮，对相关生物来说可能相当痛苦，需要第二次意志掷骰以保持原有的人格，失败则受试者昏迷 1d10 分钟，大失败则因精神冲击导致死亡。生物原体型 (SIZ) 每加倍或减半一次，保持人格的意志掷骰难度就会增加一级，彻底改变环境（例如将人变成鱼）也是如此。成功的掷骰允许受害者保留其智力 (INT) 和魅力 (CHA) 以及任何需要这些特性的技能。
+整个变形过程耗时一个完整回合，对相关生物来说可能相当具有压力，需要进行第二次意志力检定以保留其原始人格。失败会导致受试者昏迷 1d10 分钟，大失误则会导致因精神冲击而死亡。受试者原始体型每倍增或减半一次，保留人格的意志力检定难度就会提高一个等级；改变生存环境（例如将人变成鱼）也是如此。成功的检定允许受害者保留其智力 (智力) 和魅力 (魅力) 以及任何需要这些特征值的技能。
 
-转化赋予接受者所变成生物的呼吸方式（如果非正常呼吸）、任何自然攻击以及所有世俗的移动方式。它不赋予该生物拥有的任何增强或魔法能力。例如，变成龙的生物不会获得龙的喷吐攻击或类法术能力，但会获得飞行能力、坚硬外皮、致命撕咬、爪击等。此外，受害者获得新形态的物理技能，如运动、蛮力、飞行、游泳，以及其生命值和伤害修正。假设被转化者保留了智力，他们仍会失去说话能力，除非新形态具有发音能力。那些在先前形态下能够施法的个体，假设仍具备产生法术言语和姿势成分的能力，则仍能在新形态下施法。对于剧烈变化的情况，例如从两足变为四足，或从陆地动物变为海洋生物，游戏主持人应随意对调整到新形态所需时间的任何技能使用给予至少一个难度等级的惩罚。对于物理技能，如运动、徒手、游泳、飞行、战斗技能等，尤其如此。
+变形后，受术者获得该形态的呼吸方式（若与正常情况不同）、任何自然攻击以及所有世俗的移动模式。它不会获得该生物拥有的任何增强或魔法能力。例如，被变形为龙的生物不会获得该生物的喷吐攻击或类法术能力，但会获得飞行能力、坚韧外皮、致命咬击、爪击等。此外，受害者获得新形态的物理技能，如“体能”、“蛮力”、“飞行”、“游泳”以及生命值和伤害修正。假设被变形的个体保留了其智力，除非新形态具备清晰说话的能力，否则其仍将失去说话能力。在前一形态下能够施法的受害者，若仍具备产生语言和姿势成分的能力，则仍可在新形态下施法。对于剧烈改变，例如从两足变为四足，或从陆生动物变为海洋生物，游戏管理员应毫不犹豫地对新形态下需要实践才能掌握的技能使用减值至少一个“难度等级”。对于物理技能，如“体能”、“徒手”、“游泳”、“飞行”、“战斗技能”等，尤其如此。
 
-只要受害者保持变形状态，每天都需要进行一次保持人格的意志掷骰，直到失败为止，这会导致该人最终屈服于新形态的思维模式，对于非智慧生物，智力 (INT) 会变为洞察 (INS)。新形态拥有且此前未曾获得的所有特殊和魔法能力，例如凝视攻击、喷吐武器等，现在随着转化完成而可供该生物使用。以这种方式失去自我的角色将成为由游戏主持人控制的非玩家角色。
+只要受试者保持变形状态，每天都需要进行一次保留人格的意志力检定，直到失败。失败意味着其最终屈服于新形态的思维方式，对于非智慧生物，智力将变为灵力 (INS)。新形态下所有之前未获得过的特殊和魔法能力（如凝视攻击、喷吐武器等）现在都可供该生物使用，因为变形已完成。以此方式失去身份的角色将变为由游戏管理员控制的非玩家角色。
 
-在精神上屈服于转化之前，被变形的生物如常受到“解除魔法”的影响，无需抵抗掷骰，因为回归正常是人的潜意识欲望。转化确实需要进行另一次意志掷骰来抵抗压力，失败则受试者昏迷 1d10 分钟，大失败则因精神冲击导致死亡。
+在精神上屈服于变形之前，被变形的生物仍会像正常情况一样受“解除魔法”影响，无需抵抗检定，因为回归正常是受试者潜意识的渴望。变形确实需要另一次意志力检定来抵抗压力，失败会导致受试者昏迷 1d10 分钟，大失误则会导致因精神冲击而死亡。
 
-如果受害者此前已经屈服于新形态，“解除魔法”仍然可以使用；然而，受害者将尝试进行意志掷骰以抵制回归自然形态。此掷骰失败意味着受害者变回自然形态，这当然需要另一次意志掷骰来抵御变形带来的精神冲击。一旦失去，受害者的自然身份就不再可得，相反，受害者会认为这种奇怪且陌生的形态不是自然的，并渴望回到之前的“正常”状态。_例如，一只被变形为兔子的兽人如果已经认同了该生物的身份，会认为自己现在是一只被极其粗鲁地变成兽人的兔子。_ 一旦身份丢失，只有“许愿术”或其他类似魔法才有机会恢复受害者的身份。
+若受害者之前已屈服于新形态，仍可使用“解除魔法”；然而，受害者将尝试进行一次意志力检定以抵制回归自然形态。检定失败意味着受害者变回自然形态，这当然需要另一次意志力检定来抵御变形带来的精神冲击。一旦失去，受害者的自然身份将无法再找回，受害者反而会认为那个奇异且外星的形态才是自然状态，并渴望回归到之前的“正常”状态。*例如，一个被变形成兔子并认同了该生物身份的兽人，会认为自己原本就是一只被粗鲁地变成了兽人的兔子。* 只有“许愿术”或其他类似魔法才有机会在受害者身份丢失后将其恢复。
 
-所有穿戴和携带的装备会魔法般地融入新形态；然而在某些情况下，游戏主持人可以允许在生物新形态下仍能使用的魔法物品保留下来，例如魔法戒指或靴子。注意这要求生物的新体型 (SIZ) 与原体型差别不能过大。每个穿戴的非攻击性魔法物品有 POW x1% 的几率将其效果转移到生物的新形态，需经游戏主持人批准。例如，拥有 +1 防护戒指的生物可以获得 +1 的天然护甲点数奖励。具有变形自然能力的生物，如变形怪和狼人，会按正常情况变形，但在 1 轮后可以恢复其正常形态。如果被杀，变形生物会变回其自然形态，即使此前已经失去了所有身份痕迹。
+所有穿戴和携带的装备会魔法般地融入新形态；然而，在某些情况下，游戏管理员可以允许仍能在生物新形态下使用的魔法物品保留，例如魔法戒指或靴子。注意，这要求生物的新体型与原体型差异不大。每件非攻击性的已穿戴魔法物品有 (灵力 x1)% 的几率将其效果转移至生物的新形态，前提是需经游戏管理员批准。例如，拥有 +1 防护戒指的生物可以获得 +1 的自然护甲点数奖励。具有天生变形能力的生物，如多佩尔甘格与狼人，将正常变形，但在 1 回合后可恢复自然形态。若被杀，变形生物会变回其自然形态，即使其之前已经丢失了所有身份痕迹。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3, +1 经验值 | 15 英尺射程；相差 1-5 点体型 (SIZ) |
-| 2 | 4, +1 经验值 | 30 英尺射程；相差 6-10 点体型 (SIZ) |
-| 3 | 5, +1 经验值 | 45 英尺射程；相差 11-15 点体型 (SIZ) |
-| 4 | 6, +1 经验值 | 60 英尺射程；相差 16-20 点体型 (SIZ) |
-| +1 | +1 | 继续进阶 |
+| 1 | 3, +1 经验值 | 15 英尺射程；1-5 点体型差异 |
+| 2 | 4, +1 经验值 | 30 英尺射程；6-10 点体型差异 |
+| 3 | 5, +1 经验值 | 45 英尺射程；11-15 点体型差异 |
+| 4 | 6, +1 经验值 | 60 英尺射程；16-20 点体型差异 |
+| +1 | +1 | 继续增长 |
 
 ---
 #### 自我变形
@@ -2099,347 +2103,347 @@ _\*\*\* 同等级 2 奥术法术 [减速](0010_Spells.md?id=slow)。_
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 3 | **施法时间：** 2 个动作 |
-| **领域：** 无 | **持续时间：** 20 分钟/强度 |
-| **消耗：** 3，每额外增加 1 强度则 +1 | **射程：** 0 |
-| **范围：** 施法者 | **抵抗：** 不适用 |
+| **等级:** 法师 3 | **施法时间:** 2 行动 |
+| **领域:** 无 | **持续时间:** 20 分钟/每强度等级 |
+| **消耗:** 3, +1/每额外强度等级 | **射程:** 0 |
+| **范围:** 施法者 | **抵抗:** 无 |
 
-施法者可以假设任何其他有形生物的形态，从体型 (SIZ) 1 到体型 (SIZ) 40 不等。每点强度允许增加或减少最多 10 点体型 (SIZ)。因此，体型 13 的魔法使用者可以在 3 级强度下假设为体型 34 的灰熊形态。转化过程需要整整 1 轮，并赋予施法者所假设生物的呼吸方式（如果不同于自身，例如在水中呼吸）、任何自然攻击、生命值、伤害修正及其正常的移动模式。它不赋予该生物拥有的任何增强或魔法能力。例如，变形成老鹰的魔法使用者不会获得鸟类非凡的视力。施法者获得该生物的物理技能，如运动、蛮力、飞行、游泳等，但保留任何心理和社会技能（需要智力 (INT) 和魅力 (CHA) 的技能）。除非相关生物具有发音能力，否则施法者失去说话能力。如果具备，施法者仍可在新形态下施法，前提是能够形成法术的姿势成分。
+施法者可以采取任何其他有形生物的形态，从体型 1 小到体型 40。每一级强度允许增加或减少至多 10 点体型。因此，一个体型 13 的魔法使用者可以在 3 级强度下采取体型 34 的灰熊形态。变形过程耗时一个完整回合，并赋予施法者所采取生物的呼吸方式（若与其自身不同，例如在水中呼吸）、任何自然攻击、生命值、伤害修正及其正常的移动模式。它不会赋予该生物拥有的任何增强或魔法能力。例如，变形成鹰的魔法使用者不会获得该鸟类的非凡视力。施法者获得该生物的物理技能，如“体能”、“蛮力”、“飞行”、“游泳”等，但保留任何精神和社交技能（那些需要智力与魅力进行判断的）。除非相关生物具备清晰说话的能力，否则施法者失去说话能力。如果是这样，且施法者能完成法术的姿势成分，则施法者仍可在新形态下施法。
 
-施法者可随时结束效果，在此过程中，在新形态下获得的轻微伤会丢失，严重伤会降低为轻微伤（每处适用部位损失一半生命值）。重伤不受转化影响并会延续到自然形态。从自然形态变为动物形态时没有治疗效果。
+施法者可随时结束效果，在此过程中，在新形态下获得的轻微伤口会消失，严重伤口会减为轻微伤口（每个适用位置失去的生命值减半）。重伤不会受到变形影响并会延续到自然形态。施法者从自然形态变为动物形态时没有治疗效果。
 
-“变形术”受“解除魔法”影响。在此情况下，施法者不能受益于治疗。如果被杀，施法者会变回自然形态。如果变形成飞行生物并被要求进行“飞行”技能掷骰，可以使用“运动”或“杂技”代替，难度增加两个等级。然而，经常使用此形态的角色可以选择以“力量 + 敏捷”的基础值正常发展“飞行”技能。
+“自我变形”受“解除魔法”影响。在这种情况下，施法者无法从治疗效果中获益。若被杀，施法者将变回自然形态。若变形成飞行生物并需要进行“飞行”技能检定，可用“体能”或“杂技”代替，但难度增加两个等级。然而，经常使用此形态的角色可以选择以 力量+敏捷 的基础值正常发展“飞行”技能。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 20 分钟；相差 1-10 点体型 (SIZ) |
-| 2 | 4 | 40 分钟；相差 11-20 点体型 (SIZ) |
-| 3 | 5 | 60 分钟；相差 21-30 点体型 (SIZ) |
-| 4 | 6 | 80 分钟；相差 31-40 点体型 (SIZ) |
-| +1 | +1 | 继续进阶 |
+| 1 | 3 | 20 分钟；1-10 点体型差异 |
+| 2 | 4 | 40 分钟；11-20 点体型差异 |
+| 3 | 5 | 60 分钟；21-30 点体型差异 |
+| 4 | 6 | 80 分钟；31-40 点体型差异 |
+| +1 | +1 | 继续增长 |
 
 ---
-#### 律令 - 失明
+#### 力量语 - 致盲
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 4 | **施法时间：** 1 个动作 |
-| **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 3，每额外增加 1 强度则 +1 | **射程：** 20 英尺/强度 |
-| **范围：** 15 英尺半径 | **抵抗：** 耐力 |
+| **等级:** 法师 4 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 见下文 |
+| **消耗:** 3, +1/每额外强度等级 | **射程:** 20 英尺/每强度等级 |
+| **范围:** 15 英尺半径 | **抵抗:** 体质 |
 
-成功施放此法术后，施法者选定范围内（视线及射程内）的一个生物会致盲，同时 15 英尺半径内所有抵抗掷骰失败的其他生物也会致盲。此失明可通过施放“治愈失明”或“解除魔法”来治愈。该法术的持续时间根据目标的等级或体型 (SIZ) 进行修正（以带来更有利结果的为准）。下表详述此内容。
+成功施展此法术后，施法者在视线范围内且在射程内选定的一个生物将被致盲，同时半径 15 英尺内所有未通过抵抗检定的其他生物也会被致盲。此种失明可通过施展“治愈失明”或“解除魔法”来治愈。法术的持续时间根据目标的位阶或体型（以更有利者为准）进行修正。详情如下表所示。
 
-| 目标等级 | 目标体型 (SIZ) | 持续时间 |
+| 目标位阶 | 目标体型 | 持续时间 |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | 1d4+1 x10 分钟\*\* |
 | 2 | 21-40 | 1d4+1 分钟 |
-| 3 | 41-60 | 1d4+1 轮 |
-| 4 | 61-80 | 1d3 轮 |
-| 5 | 81+ | 1 轮 |
+| 3 | 41-60 | 1d4+1 回合 |
+| 4 | 61-80 | 1d3 回合 |
+| 5 | 81+ | 1 回合 |
 
-_\* 此类别包括不具备职业的角色。_
+_\* 此类别包含不具备职业的角色。_
 
-_\*\* 如果范围效果中仅有一到三个生物，则效果永久，直到进行魔法治疗。_
+_\*\* 若范围效果内只有一个到三个生物，效果将永久持续，直至经魔法治疗。_
 
 ---
-#### 律令 - 死亡
+#### 力量语 - 死亡
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 5 | **施法时间：** 1 个动作 |
-| **领域：** 无 | **持续时间：** 永久 |
-| **消耗：** 3/强度，+3 经验值 | **射程：** 20 英尺/强度 |
-| **范围：** 10 英尺半径 | **抵抗：** 耐力 |
+| **等级:** 法师 5 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 永久 |
+| **消耗:** 3/每强度等级, +3 经验值 | **射程:** 20 英尺/每强度等级 |
+| **范围:** 10 英尺半径 | **抵抗:** 体质 |
 
-成功施放此法术将使抵抗掷骰失败的单个最高等级 3 或体型 60 的生物（或每强度 4 个不超过体型 20 的生物）死亡。此法术对施法者消耗极大，每次施放会导致自动损失一级疲劳值。所有潜在目标必须位于施法时指定的范围效果内。所需的强度取决于目标的等级或体型 (SIZ)，以带来更有利结果的为准，详见下表。
+成功施展此法术将杀死至多位阶 3 或体型 60 的单个生物（或每强度等级 4 个不超过体型 20 的生物），如果他们未通过抵抗检定。此法术对施法者消耗极大，每次施展会自动损失 1 级疲劳。所有潜在目标必须位于施法时指定的范围效果内。所需的强度取决于目标的位阶或体型（以对目标更有利者为准），如下表所示。
 
-| 目标等级 | 目标体型 (SIZ) | 强度 |
+| 目标位阶 | 目标体型 | 强度 |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 1 强度 +3 经验值用于杀戮 |
-| 2 | 21-40 | 2 强度 +3 经验值用于杀戮 |
-| 3 | 41-60 | 3 强度 +3 经验值用于杀戮 |
+| 0-1\* | 1-20 | 1 强度 +3 经验值以致死 |
+| 2 | 21-40 | 2 强度 +3 经验值以致死 |
+| 3 | 41-60 | 3 强度 +3 经验值以致死 |
 | 4-5 | 61+ | 无效 |
 
-_\* 此类别包括不具备职业的角色。_
+_\* 此类别包含不具备职业的角色。_
 
-大于体型 60 的生物不受影响，等级 4 及以上的角色也不受影响。与“死亡术”不同，“律令 - 死亡”将杀死上述限制内的任何事物，但是，可以通过正常施放“许愿术”、“复活死者”、“复活”和“轮回”使受害者复活。
+体型超过 60 的生物不受影响，位阶 4 及以上的角色也不受影响。与“死亡术”不同，“力量语 - 死亡”将杀死上述限制内的任何事物；然而，通过“许愿术”、“复活死者”、“复活术”和“转世术”照常可以将受害者复活。
 
 ---
-#### 律令 - 昏迷
+#### 力量语 - 震慑
 
 (咒法系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 3 | **施法时间：** 1 个动作 |
-| **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 3，每额外增加 1 强度则 +1 | **射程：** 20 英尺/强度 |
-| **范围：** 1 个目标 | **抵抗：** 耐力 |
+| **等级:** 法师 3 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 见下文 |
+| **消耗:** 3, +1/每额外强度等级 | **射程:** 20 英尺/每强度等级 |
+| **范围:** 1 个目标 | **抵抗:** 体质 |
 
-成功施放此法术后，施法者选定范围内（视线及射程内）抵抗掷骰失败的生物会昏迷。受害者会短暂失去知觉，仅允许进行防御性质的反应动作。持续时间根据目标的等级或体型 (SIZ) 进行修正（以对目标更有利的结果为准）。下表详述此内容。此昏迷可在持续时间结束前通过施放“解除魔法”来治愈。
+成功施展此法术后，施法者视线内且在射程内选定的一个生物若未通过抵抗检定，即被震慑。受害者陷入短暂的无知觉状态，仅允许进行防御性质的反应行动。持续时间根据目标的位阶或体型（以对目标更有利者为准）进行修正。详情如下表所示。此震慑可在持续时间结束前通过施展“解除魔法”来治愈。
 
-| 目标等级 | 目标体型 (SIZ) | 持续时间 |
+| 目标位阶 | 目标体型 | 持续时间 |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 4d4 轮 |
-| 2 | 21-40 | 2d4 轮 |
-| 3 | 41-60 | 1d4 轮 |
-| 4 | 61-80 | 1 轮 |
+| 0-1\* | 1-20 | 4d4 回合 |
+| 2 | 21-40 | 2d4 回合 |
+| 3 | 41-60 | 1d4 回合 |
+| 4 | 61-80 | 1 回合 |
 | 5 | 81+ | 不受影响 |
 
-_\* 此类别包括不具备职业的角色。_
+_\* 此类别包含不具备职业的角色。_
 
----#### Prayer
+---#### 祈祷 (Prayer)
 
 (咒法)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3 | **施法时间：** 1 分钟 |
-| **领域：** 战斗 | **持续时间：** 10 分钟/强度 |
-| **法力消耗：** 3，每额外增加一级强度 +1 | **射程：** 0 |
-| **范围：** 60 英尺半径 | **抵抗：** 无 |
+| **位阶:** 牧师 3 | **施法时间:** 1 分钟 |
+| **领域:** 战斗 | **持续时间:** 10 分钟/强度 |
+| **消耗:** 3，每增加一级强度额外+1 | **射程:** 0 |
+| **区域:** 60 英尺半径 | **抵抗:** 无 |
 
-施展此法术时，它会祝福牧师及影响范围内的所有盟友，同时诅咒敌方人员。盟友在所有技能和抵抗掷骰上获得临时的 +5% 奖励，并对所有造成的伤害获得 +1 奖励；而敌人则受到 -5% 的减值和 -1 的伤害削减。如果由同一位牧师或同一宗教的另一位牧师施展此法术，且同时配合“圣歌（Chant）”施放，两者效果可以叠加，从而使技能获得 +10% 奖励，伤害获得 +2 奖励，敌人则受到对应的减益效果。
+施展此法术后，牧师及其区域内的所有盟友将获得祝福，同时使对手受到诅咒。盟友在所有技能和抵抗检定上获得临时的 +5% 加值，并在所有造成的伤害上获得 +1 加值；敌人则受到 -5% 的减值，伤害减少 1。若由同一位牧师或同一宗教的另一位牧师施展，本法术可与“咏唱” (Chant) 叠加，使效果堆叠：盟友获得 +10% 技能加值和 +2 伤害加值，敌人则受到相反效果。
 
 ---
-#### 预知天气
+#### 预知天气 (Predict Weather)
 
 (预言)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1，法师 1 | **施法时间：** 1 分钟 |
-| **领域：** 天气 | **持续时间：** 瞬发 |
-| **法力消耗：** 1/强度 | **射程：** 0 |
-| **范围：** 5 英里半径 | **抵抗：** 无 |
+| **位阶:** 牧师 1，法师 1 | **施法时间:** 1 分钟 |
+| **领域:** 天气 | **持续时间:** 瞬间 |
+| **消耗:** 1/强度 | **射程:** 0 |
+| **区域:** 5 英里半径 | **抵抗:** 无 |
 
-该法术允许施法者以 100% 的准确度预知半径 5 英里内的天气状况。预报范围为每级强度 4 小时，包括气温、降水、积雪厚度、风速等。
+此法术允许施法者以 100% 的准确率预知 5 英里半径内的天气情况。预报范围涵盖接下来的每强度等级 4 小时，包括气温、降水、积雪深度、风速等。
 
 ---
-#### 防腐术
+#### 防腐 (Preserve)
 
 (变化)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0，法师 0 | **施法时间：** 1 轮 |
-| **领域：** 动物，植物 | **持续时间：** 1d3 个月 |
-| **法力消耗：** 1 | **射程：** 接触 |
-| **范围：** 见下文 | **抵抗：** 无 |
+| **位阶:** 牧师 0，法师 0 | **施法时间:** 1 回合 |
+| **领域:** 动物，植物 | **持续时间:** 1d3 个月 |
+| **消耗:** 1 | **射程:** 接触 |
+| **区域:** 见下文 | **抵抗:** 无 |
 
-“防腐术”通过灭菌手段，防止有机物质（包括动植物）在 1d3 个月内发生细菌腐败和腐烂。如果材料之后经过烟熏、腌制或盐渍，则可以永久保存。该法术可以阻止已经开始的腐烂，但不能将其逆转。施法者能影响的有机物质总量，以“物品数量”或“体型（SIZ）”计，上限为其“精神力（POW）”值。
+防腐通过灭菌防止有机物质（植物和动物）发生细菌分解和腐烂，持续 1d3 个月。若材料随后经过烟熏、腌制或盐渍，则可永久保存。该法术可以中止已经开始的腐烂，但无法逆转。施法者可影响的有机物总量以“物体”数量或体型 (体型) 计，不得超过其灵力 (灵力)。
 
 ---
-#### 防护术
+#### 防护 (Protection)
 
 (防护)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0，法师 0 | **施法时间：** 1 行动 |
-| **领域：** 防护 | **持续时间：** 触发 |
-| **法力消耗：** 1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **位阶:** 牧师 0，法师 0 | **施法时间:** 1 行动 |
+| **领域:** 防护 | **持续时间:** 触发 |
+| **消耗:** 1 | **射程:** 接触 |
+| **区域:** 1 个目标 | **抵抗:** 无 |
 
-“防护术”在各种有意外伤害风险的任务中非常有用，例如在铸造厂或矿井中工作。当角色首次受到会穿透防护服或盔甲的伤害时，“防护术”会触发，并将所受伤害减少 1d3 点。随后法术消散。该法术可与其他所有防护类魔法叠加。此法术仅防御物理伤害，因此对火灾、窒息等事件无效。法师版本的此法术仅能对自己施放。
+防护在各种有意外伤害风险的任务中非常有用，例如在铸造厂或矿井工作。当角色第一次受到足以穿透防护服或护甲的伤害时，防护法术会触发，并减少 1d3 点伤害。法术随后消散。此法术可与其他形式的防护魔法叠加。该法术仅防御物理伤害，因此对火灾、窒息等事件无效。法师版本的此法术仅能对自己施放。
 
 ---
-#### 抗寒防护
+#### 冷冻防护 (Protection from Cold)
 
 (防护)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 1 轮 |
-| **领域：** 防护，元素（火） | **持续时间：** 15 分钟/强度 |
-| **法力消耗：** 3，每额外增加一级强度 +1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **位阶:** 牧师 2 | **施法时间:** 1 轮 |
+| **领域:** 防护，元素（火） | **持续时间:** 15 分钟/强度 |
+| **消耗:** 3，每增加一级强度额外+1 | **射程:** 接触 |
+| **区域:** 1 个目标 | **抵抗:** 无 |
 
-施展此法术时，会形成一个隐形力场，提供对所有自然寒冷形式的完全防护。当对自己施放时，该力场还提供对基于寒冷的伤害（如白龙吐息、寒冰锥、冷冻金属等）的完全防护，每级强度吸收 12 点寒冷伤害。一旦力场耗尽，该次攻击剩余的伤害在生效前减半。
+施展此法术时，会形成一个隐形力场，提供对所有自然寒冷形式的完全防护。当对自己施放时，该力场还提供对寒冷类伤害（白龙吐息、冰锥术、冻金属等）的完全防护，每强度等级吸收 12 点寒冷伤害。一旦力场耗尽，该次攻击剩余的额外伤害减半后再计算。
 
-当施放于他人时，除了获得对自然寒冷的完全防护外，魔法寒冷攻击的伤害也会减半。
+当对他者施放时，同样给予对自然寒冷的完全防护。此外，受到的魔法寒冷攻击伤害减半。
 
-| 强度 | 法力消耗 | 可变效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 分钟；对自己提供 12 点抗寒保护 |
-| 2 | 4 | 30 分钟；对自己提供 24 点抗寒保护 |
-| 3 | 5 | 45 分钟；对自己提供 36 点抗寒保护 |
-| 4 | 6 | 60 分钟；对自己提供 48 点抗寒保护 |
-| +1 | +1 | 延续增长 |
+| 1 | 3 | 15 分钟；对自己提供 12 点冷冻防护 |
+| 2 | 4 | 30 分钟；对自己提供 24 点冷冻防护 |
+| 3 | 5 | 45 分钟；对自己提供 36 点冷冻防护 |
+| 4 | 6 | 60 分钟；对自己提供 48 点冷冻防护 |
+| +1 | +1 | 持续递增 |
 
 ---
-#### 防护邪恶 \(R\)
+#### 邪恶防护 (Protection from Evil) (R)
 
 (防护)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1，法师 1 | **施法时间：** 1 行动 |
-| **领域：** 防护 | **持续时间：** 2 分钟/强度 |
-| **法力消耗：** 1/强度 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **位阶:** 牧师 1，法师 1 | **施法时间:** 1 行动 |
+| **领域:** 防护 | **持续时间:** 2 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 接触 |
+| **区域:** 1 个目标 | **抵抗:** 无 |
 
-施展时，一道魔法盔甲构成的隐形灵气会从受术者（可以是施法者）身上辐射出来，提供三个层级的防御。
+施展时，一道魔法护甲的隐形光环会从受术者（可以是施法者本人）身上放射出来，提供三个不同层级的防御。
 
-第一，邪恶阵营生物发动的攻击在“战斗风格”或“徒手”技能上受到 -10% 的减值。受术者在对抗邪恶生物时的抵抗掷骰获得 +10% 奖励。
+首先，邪恶阵营生物的攻击在其战斗风格或徒手技能上受到 -10% 减值。邪恶防护受术者的抵抗检定获得 +10% 加值，但仅针对邪恶生物。
 
-第二，任何被召唤或构装的生物，以及非物质位面的存在，都无法与受术者进行身体接触。这包括恶魔、魔鬼、灯灵、元素、空中仆役、火蜥蜴等。这些生物的自然攻击会因后退而无法接触目标。这也包括任何通过法术或物品召唤出来的怪物。然而，这些生物持有的武器仍可进入魔法屏障并击中受保护者。
+其次，召唤出的生物、通过咒法术召唤的生物，以及非物质位面的存在，均无法与受术者进行物理接触。这包括恶魔、魔鬼、神灵、元素、空中仆役、火蜥蜴等。这些生物的自然攻击会导致它们退缩，从而无法达成接触。这也包括任何通过法术或物品召唤出的怪物或生物。然而，这些生物持有的武器仍可穿透魔法屏障并击中受保护者。
 
-第三，任何精神控制（如“魅惑”或“命令”）或附身尝试（如“魔魂壶”）都无法穿透此魔法防护。
+第三，任何精神控制尝试（例如魅惑或命令等法术）或附身尝试（例如魔魂壶等法术）均会自动无法穿透此魔法防护。
 
-如果受保护者进行了任何类型的近战攻击，或试图将防护力场强加于受影响生物身上，法术持续时间即告结束。
+如果受保护者进行任何类型的近战攻击或试图将防护力场强加于受影响生物，法术持续时间即告结束。
 
-此法术的逆转形式“防护善良”在第二和第三项效果上与原版一致，而第一项效果则作用于善良阵营的对手。
+此法术的逆转，即“善良防护” (Protection from Good)，在第二和第三项效果上与上述相同，而第一项效果则针对善良阵营的对手发挥作用。
 
 ---
-#### 抗火防护
+#### 火焰防护 (Protection from Fire)
 
 (防护)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 1 轮 |
-| **领域：** 防护，元素（火） | **持续时间：** 15 分钟/强度 |
-| **法力消耗：** 3，每额外增加一级强度 +1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **位阶:** 牧师 2 | **施法时间:** 1 轮 |
+| **领域:** 防护，元素（火） | **持续时间:** 15 分钟/强度 |
+| **消耗:** 3，每增加一级强度额外+1 | **射程:** 接触 |
+| **区域:** 1 个目标 | **抵抗:** 无 |
 
-施展此法术时，会形成一个隐形力场，提供对所有普通热源（如火把、营火、燃烧的建筑等）的完全防护。当对自己施放时，力场还提供对基于火焰的伤害（红龙吐息、燃手术、加热金属等）的完全防护，每级强度吸收 12 点火焰伤害。一旦力场耗尽，该次攻击剩余的伤害在生效前减半。
+施展此法术时，会形成一个隐形力场，提供对所有普通热源（如火把、篝火、燃烧的建筑等）的完全防护。当对自己施放时，该力场还提供对火焰类伤害（红龙吐息、燃烧之手、灼热金属等）的完全防护，每强度等级吸收 12 点火焰伤害。一旦力场耗尽，该次攻击剩余的额外伤害减半后再计算。
 
-当施放于他人时，除了获得对普通火焰的完全防护外，魔法火焰攻击的伤害也会减半。
+当对他者施放时，同样给予对普通火焰的完全防护。此外，受到的魔法火焰攻击伤害减半。
 
-| 强度 | 法力消耗 | 可变效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 分钟；对自己提供 12 点抗火保护 |
-| 2 | 4 | 30 分钟；对自己提供 24 点抗火保护 |
-| 3 | 5 | 45 分钟；对自己提供 36 点抗火保护 |
-| 4 | 6 | 60 分钟；对自己提供 48 点抗火保护 |
-| +1 | +1 | 延续增长 |
+| 1 | 3 | 15 分钟；对自己提供 12 点火焰防护 |
+| 2 | 4 | 30 分钟；对自己提供 24 点火焰防护 |
+| 3 | 5 | 45 分钟；对自己提供 36 点火焰防护 |
+| 4 | 6 | 60 分钟；对自己提供 48 点火焰防护 |
+| +1 | +1 | 持续递增 |
 
 ---
-#### 抗电防护
+#### 闪电防护 (Protection from Lightning)
 
 (防护)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3 | **施法时间：** 1 轮 |
-| **领域：** 防护，天气 | **持续时间：** 15 分钟/强度 |
-| **法力消耗：** 3，每额外增加一级强度 +1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **位阶:** 牧师 3 | **施法时间:** 1 轮 |
+| **领域:** 防护，天气 | **持续时间:** 15 分钟/强度 |
+| **消耗:** 3，每增加一级强度额外+1 | **射程:** 接触 |
+| **区域:** 1 个目标 | **抵抗:** 无 |
 
-施展此法术时，会形成一个隐形力场，提供对基于电力的伤害（蓝龙吐息、电爪、电气陷阱等）的完全防护，每级强度吸收 12 点电力伤害。一旦力场耗尽，该次攻击剩余的伤害在生效前减半。
+施展此法术时，会形成一个隐形力场，提供对电击类伤害（蓝龙吐息、电爪术、电力陷阱等）的完全防护，每强度等级吸收 12 点电击伤害。一旦力场耗尽，该次攻击剩余的额外伤害减半后再计算。
 
-当施放于他人时，魔法电力攻击的伤害减半。
+当对他者施放时，受到的电击攻击伤害减半。
 
-| 强度 | 法力消耗 | 可变效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 分钟；对自己提供 12 点抗电保护 |
-| 2 | 4 | 30 分钟；对自己提供 24 点抗电保护 |
-| 3 | 5 | 45 分钟；对自己提供 36 点抗电保护 |
-| 4 | 6 | 60 分钟；对自己提供 48 点抗电保护 |
-| +1 | +1 | 延续增长 |
+| 1 | 3 | 15 分钟；对自己提供 12 点电击防护 |
+| 2 | 4 | 30 分钟；对自己提供 24 点电击防护 |
+| 3 | 5 | 45 分钟；对自己提供 36 点电击防护 |
+| 4 | 6 | 60 分钟；对自己提供 48 点电击防护 |
+| +1 | +1 | 持续递增 |
 
 ---
-#### 净化食水 \(R\)
+#### 净化食物与水 (Purify Food and Drink) (R)
 
 (变化)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 1 | **施法时间：** 1 分钟 |
-| **领域：** 所有 | **持续时间：** 永久 |
-| **法力消耗：** 1/强度 | **射程：** 100 英尺 |
-| **范围：** 5 英尺半径 | **抵抗：** 无 |
+| **位阶:** 牧师 1 | **施法时间:** 1 分钟 |
+| **领域:** 所有 | **持续时间:** 永久 |
+| **消耗:** 1/强度 | **射程:** 100 英尺 |
+| **区域:** 5 英尺半径 | **抵抗:** 无 |
 
-施展此法术时，施法范围内每级强度可移除等同于一份普通餐点量的食物和/或水中的所有毒素、腐烂物及其他污染物。此法术的净化属性也会摧毁“亵渎之水”的邪恶属性。
+施展此法术时，施法区域内每强度等级可净化一份普通分量的食物和/或水，去除其中的所有毒素、腐烂物及其他污染物。本法术的净化属性亦会摧毁邪恶圣水的邪恶属性。
 
-此法术的逆转形式“污染食水”，会使食物变质，使纯净水无法饮用，并腐蚀“圣水”的神圣属性。
+此法术的逆转，即“污染食物与水” (Contaminate Food and Drink)，会使食物变质，使纯净水无法饮用，并腐化圣水的圣洁属性。
 
 ---
-#### 起死回生 \(R\)
+#### 起死回生 (Raise 死亡) (R)
 
 (死灵)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3 | **施法时间：** 1 分钟 |
-| **领域：** 死灵 | **持续时间：** 永久 |
-| **法力消耗：** 3，每额外增加一级强度 +1，+1 经验值 | **射程：** 100 英尺 |
-| **范围：** 1 个目标 | **抵抗：** 无（意志力） |
+| **位阶:** 牧师 3 | **施法时间:** 1 分钟 |
+| **领域:** 死灵 | **持续时间:** 永久 |
+| **消耗:** 3，每增加一级强度额外+1，额外+1 经验修正 | **射程:** 100 英尺 |
+| **区域:** 1 个目标 | **抵抗:** 无 (意志力) |
 
-此法术可对死亡时间不超过每级强度 24 小时的生物尸体施放。如果受术者的阵营非邪恶，他们可以通过一次对抗性的意志力掷骰来抵抗法术，若成功则抵消法术效果。这是因为灵魂在获得永恒奖赏后，往往不愿回到凡间。如果受术者有未竟之事、无法与挚爱分离或有其他英雄式理由活下去，游戏主持人（GM）可以决定免去这次掷骰。
+此法术可对死亡时间不超过每强度等级 24 小时的生物尸体施放。如果受术者阵营不为邪恶，他们可以进行一次对抗性意志力检定以尝试抵抗法术；若成功，则法术效果无效。这是因为逝者的灵魂或精神一旦抵达永恒奖赏之地，便很少愿意回到生者的世界。若受术者有未尽之事、与其真爱无法分离，或有其他英勇的理由活下去，游戏主持人 (GM) 可以决定豁免该检定。
 
-对于那些宁愿回到物质位面也不愿遭受永恒诅咒的邪恶灵魂，抵抗的不是死者本人的意志力，而是负责惩罚他们的恶魔、魔鬼等折磨者的意志力。这种情况下，施法者必须克服折磨者的意志力。若数值未知，假定其至少比死者高出 20 点，这代表灵魂意志越强，负责其诅咒的存在就越强大。若施法者成功，则将灵魂召回了躯体；若失败，则意味着受害者不愿或无法归来。
+对于邪恶灵魂而言，他们宁愿回到物质位面而不愿遭受永恒的诅咒，因此抵抗的不是逝者的意志力，而是负责惩罚他们的恶魔、魔鬼等折磨者的意志力。在这种情况下，施法者必须克服折磨者的意志力。如果其数值未知，假设它比逝者的意志力高出至少 20 点，以体现灵魂意志越强，负责其诅咒的生物就越强大。若施法者成功，则成功将灵魂带回身体；若检定失败，则意味着受害者不愿或无法回归。
 
-如果施法成功，受术者以满生命值复活，但断肢不会恢复。这意味着被斩首或切成两半的受害者无法复活，除非先将其头部或躯干重新接上。这可以在施放“起死回生”前完成，需通过物理方式接合肢体，并需要使用医疗包和一次成功的“治疗”技能检定，通常会留下明显的伤疤。其他疾病（如中毒或瘟疫）必须在施法前或施法后处理，否则效果只是暂时的。最后，“起死回生”对寿终正寝的生物无效。
+若施法成功，受术者将带着满额生命值复活，但断肢不会重新生长。这意味着被斩首或切断的受害者在肢体重新连接前无法复活。这可以在施放“起死回生”前，通过医疗包和成功的急救技能进行物理重连，这通常会留下明显的疤痕。其他疾病（如中毒或瘟疫）必须在施法前或施法后处理，否则结果只是暂时的。最后，对于已经寿终正寝的老死者，“起死回生”无效。
 
-死而复生对受术者来说非常痛苦，他们会处于“无法行动”的疲劳等级，持续时间为每天死亡时间对应 24 小时。在此康复期间，“治愈疲劳”法术对其无效。之后，角色正常恢复疲劳，不再受限。
+从死中复生对受术者来说负担沉重，在复活后的 24 小时内（每死亡一天计算一次），其疲劳状态将降至“丧失行动能力”。在此恢复期间，“治愈疲劳”法术对患者无效。此后，角色恢复正常疲劳，不再受限。
 
-其逆转形式“杀戮术”可在施法时杀死一名由牧师指定的目标。受害者允许进行意志力掷骰以抵抗，修正值为目标的等级或体型（SIZ），取对目标更有利的数值，详细参考下表。
+此法术的逆转，即“杀生” (Slay Living)，可在施法时杀死牧师指定的一名受害者。受害者可进行意志力检定以抵抗，并根据目标位阶或体型进行修正（取对目标最有利的一项），具体如下表所示。
 
-| 目标等级 | 目标体型 (SIZ) | 意志力修正 |
+| 目标位阶 | 目标体型 | 意志力修正 |
 | :-: | :-: | :-: |
 | 0-1\* | 1-20 | 困难 |
 | 2 | 21-40 | 标准 |
-| 3 | 41-60 | 容易 |
-| 4-5 | 61+ | 非常容易 |
+| 3 | 41-60 | 简单 |
+| 4-5 | 61+ | 非常简单 |
 
-_\* 此类别包括不具备职业的角色。_
+_\* 此类包含没有职业的角色。_
 
-如果抵抗掷骰失败，受害者当场死亡。若抵抗成功，则视为受到“造成严重创伤”的效果。盔甲无法提供任何伤害防御。
+如果抵抗检定失败，受害者当场死亡。检定成功则视为受到“严重伤口”效果影响。护甲对此伤害无效。
 
 ---
-#### 阅读魔法
+#### 阅读魔法 (Read Magic)
 
 (所有)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 0 | **施法时间：** 1 分钟 |
-| **领域：** 无 | **持续时间：** 2 分钟/强度 |
-| **法力消耗：** 1/强度 | **射程：** 0 |
-| **范围：** 施法者 | **抵抗：** 无 |
+| **位阶:** 法师 0 | **施法时间:** 1 分钟 |
+| **领域:** 无 | **持续时间:** 2 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 0 |
+| **区域:** 施法者 | **抵抗:** 无 |
 
-这是学徒法师学习的第一个法术，通过它，法师能够解读其他施法者所写的魔法文字。法师对自己书写的魔法文字总是能理解的。阅读魔法脚本通常不会激活其中的法术（例如法术卷轴上的内容）；然而，被诅咒的魔法卷轴等在使用此法术时会被激活，施放卷轴内蕴含的法术。
+此法术是教给魔法学徒的第一个法术，因为通过此法术，他们可以阅读其他施法者的魔法文字。法师自己的魔法笔记对自己总是可读的。阅读魔法脚本通常不会激活所包含的法术（例如卷轴上的法术）；然而，被诅咒的魔法卷轴等会因使用此法术而激活，从而施放卷轴内包含的任何法术。
 
-当用于识别卷轴或法术书中的法术时，每级法术需要 1 分钟（等级 1 法术需要 1 分钟，等级 2 需要 2 分钟，以此类推）。如果持续时间尚足，在此期间可以识别额外的法术。一旦法师通过此法术阅读并识别了一组魔法铭文，下次阅读时无需再次施放“阅读魔法”；然而，如果是另一卷轴或书本上的相同法术，则需要再次施放。
+当用于识别卷轴或法术书中的法术时，每个法术位阶需要 1 分钟；位阶 1 法术需 1 分钟，位阶 2 法术需 2 分钟，以此类推。如果持续时间足够，在此期间可以识别更多法术。一旦本法术被用于阅读并识别了一组魔法铭文，魔法使用者再次阅读它们时无需再次施放“阅读魔法”；然而，若是其他卷轴、书籍中的相同法术，则需要再次施放“阅读魔法”。
 
-“阅读魔法”可由所有魔法流派使用。
+“阅读魔法”可由所有魔法学院使用。
 
 ---
-#### 再生术 \(R\)
+#### 再生 (Regenerate) (R)
 
 (死灵)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 4 | **施法时间：** 3 分钟 |
-| **领域：** 治疗 | **持续时间：** 永久 |
-| **法力消耗：** 3/强度 | **射程：** 接触 |
-| **范围：** 1 个生物 | **抵抗：** 无（格挡或闪避） |
+| **位阶:** 牧师 4 | **施法时间:** 3 分钟 |
+| **领域:** 治疗 | **持续时间:** 永久 |
+| **消耗:** 3/强度 | **射程:** 接触 |
+| **区域:** 1 个生物 | **抵抗:** 无 (招架或闪避) |
 
-施展时，牧师可接触一个生物并再生一个失去的身体部位。失去的肢体将以每 10 分钟 1 点生命值的速度完全长回。如果被切断的部位就在身边并接触受害者，整个恢复时间缩短至 1 分钟。此法术不能通过再生两个独立部分来“克隆”个体，只有连接大脑和中央神经系统的部分才能从法术中获益。每一级强度可以再生一个身体部位。虽然此法术也可用于缓慢治愈较小的伤害，但有更低等级、更经济的法术可供选择。
+施展此法术时，牧师可接触一个生物并再生一个已断裂的命中部位。失去的肢体会以每 10 分钟 1 点生命值的速率完全长回，直至完全痊愈。然而，如果断裂部位在场且接触着受害者，则总恢复时间缩短至 1 分钟。此法术不能通过再生两个分离的部分来“克隆”一个个体，只有连接到大脑和中枢神经系统的部分会受益于法术效果。每一强度等级可使一个命中部位再生。虽然该法术也可用于缓慢治疗轻微伤害，但已有更低位阶、更低消耗的法术用于此类用途。
 
-逆转形式“枯萎术”会使施法者接触的部位枯萎并最终脱落。该过程导致受影响部位每 10 分钟失去 1 点生命值，生命值归 0 时部位失去效用，完全负数时脱落。此效果只能通过施放“再生术”来抵消。
+此法术的逆转，即“枯萎” (Wither)，会导致施法者接触的部位干瘪并最终从受害者身上脱落。该过程每 10 分钟使受影响部位受到 1 点伤害，当达到 0 生命值时该部位即无法使用，完全负值时脱落。此效果仅能通过施放“再生”来抵消。
 
 ---
-#### 奥术转世
+#### 转世，奥术 (Reincarnation, Arcane)
 
 (死灵)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 4 | **施法时间：** 10 分钟 |
-| **领域：** 无 | **持续时间：** 永久 |
-| **法力消耗：** 3，每额外增加一级强度 +1，+1 经验值 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 见下文 |
+| **位阶:** 法师 4 | **施法时间:** 10 分钟 |
+| **领域:** 无 | **持续时间:** 永久 |
+| **消耗:** 3，每增加一级强度额外+1，额外+1 经验修正 | **射程:** 接触 |
+| **区域:** 1 个目标 | **抵抗:** 见下文 |
 
-此法术在接触死亡时间不超过每级强度 24 小时的生物尸体时施放。然而，该版本的“转世”对纯血精灵无效（对此请参考神术[起死回生](0010_Spells.md?id=raise-dead-r)或[复活术](0010_Spells.md?id=resurrection-r)）。如果受害者阵营非邪恶，则通过对抗性意志力掷骰来抵抗法术，成功则抵消效果。这是因为灵魂在获得永恒奖赏后往往不愿进入新身体。若受害者有未竟之事或有英雄理由活下去，GM 可豁免该掷骰。
+此法术在接触死亡时间不超过每强度等级 24 小时的生物尸体时施放。然而，此版本的转世对纯血精灵无效（对此，请参阅神术“起死回生”或“复活”）。如果受术者阵营不为邪恶，受术者将进行一次对抗性意志力检定以尝试抵抗法术；若成功，则法术效果无效。这是因为逝者的灵魂或精神一旦抵达永恒奖赏之地，便很少愿意进入新的身体。若受术者有未尽之事、与其真爱无法分离，或有其他英勇的理由活下去，游戏主持人 (GM) 可以决定豁免该检定。
 
 <details>
 
@@ -2447,41 +2451,41 @@ _\* 此类别包括不具备职业的角色。_
 
 ---
 
-#### 奥术转世
+#### 转世，奥术
 
-_原规则表述为：“然而，该版本的‘转世’对纯血精灵无效（对此请参考神术转世）。”_
+_原规则表述为：“然而，此版本的转世对纯血精灵无效（对此，请参阅神术转世）。”_
 
-_《经典奇幻指令》中并未提及“神术转世”，因此已将其修改为引用“起死回生”和“复活术”，这两者均不禁止精灵复活。_
+_《经典奇幻要旨》(Classic Fantasy Imperative) 中并未提及“神术转世”，因此已将其更改为参考“起死回生”和“复活”，这两者均不禁止精灵的回归。_
 
 ---
 
 </details>
 
-对于宁愿回到物质位面而不愿遭受永恒诅咒的邪恶灵魂，抵抗的是折磨者的意志力。施法者必须克服折磨者的意志力。若数值未知，假定其至少比死者高出 20 点。如果施法成功，灵魂被锚定在宿主身上；若失败，受害者不愿或无法归来。
+对于邪恶灵魂而言，他们宁愿回到物质位面而不愿遭受永恒的诅咒，因此抵抗的不是逝者的意志力，而是负责惩罚他们的恶魔、魔鬼等折磨者的意志力。在这种情况下，施法者必须克服折磨者的意志力。如果其数值未知，假设它比逝者的意志力高出至少 20 点，以体现灵魂意志越强，负责其诅咒的生物就越强大。若施法者成功，则成功将灵魂锚定在宿主身上；若检定失败，则意味着受害者不愿或无法回归。
 
-施法成功后，1d6x10 分钟内会出现一个发育完全的成年躯体，其中包含死者的意识。施法者无法控制灵魂归来后的种族或性别——请掷骰对照下表。原角色的职业和等级保留。这意味着角色在面对朋友、家人和旧识时，可能需要说服他们相信自己的身份；如果涉及晋升，其所属的教团或行会也是如此。这最好通过角色的“影响力”检定来表现，由 GM 根据变化的剧烈程度进行修正。例如，矮人转世为另一个矮人可能只需标准的影响力检定，而转世为侏儒或半身人可能使检定增加一级难度。如果转世为地精、兽人或巨魔等极端形态，检定难度可能会增加两级。
+若施法成功，1d6x10 分钟后会出现一个完全成型的成年身体，其中包含逝者的意识。施法者无法控制灵魂回归时的形态或性别——请根据下表进行掷骰。角色原有的职业和位阶得以保留。这意味着在面对朋友、家人和旧识时，角色可能需要花费一番口舌来证明自己的身份；如果涉及进阶，这同样适用于其所属的教团或公会。这最好由角色通过影响检定来表现，并由游戏主持人根据变化的剧烈程度进行修正。例如，一个转世为矮人的矮人可能只需一次标准影响检定即可说服旧盟友，而转世为侏儒或半身人则可能导致检定难度增加一级。最后，如果转世为地精、兽人或巨魔等极端物种，角色在说服他人身份时可能会发现难度增加两级。
 
-所有属性均根据新形态随机决定，智力（INT）、精神力（POW）和魅力（CHA）保持不变。重新计算角色的基础技能水平并调整技能总值。激情（Passions）不受影响。旧的种族能力丢失并被新种族的所取代。如果新形态不适合旧职业，唯一的选择是接受现状或学习新职业。转世者保留大部分前世记忆，GM 可要求角色进行意志力掷骰以回忆第一周的重要事实。“祈愿术”可以在以后将转世者变回原来的形态。
+所有特征值均根据新形态随机决定，智力 (智力)、灵力 (灵力) 和魅力 (魅力) 除外，这些保持不变。重新计算角色的基础技能等级并相应调整技能总值。激情不受影响。任何旧有的种族能力均会丢失，并替换为新物种的能力。如果新形态不适合旧职业，唯一的选择是适应它，或者学习一个新职业。转世者保留了大部分前世记忆，尽管游戏主持人可能会要求角色在第一周内进行意志力检定以回忆重要事实。“祈愿术” (Wish) 可在日后需要时将转世者变回其先前的形态。
 
-投掷下表以确定新形态。
+掷骰确定新形态。
 
 ##### 转世结果表
 
-| 转世结果 | | 亚人种 | | 人形/怪物 | |
+| 转世结果 |  | 半人类 |  | 类人/怪物 |  |
 |:-:|:--|:-:|:--|:-:|:--|
 | **D100 掷骰** | **结果** | **D100 掷骰** | **结果** | **D100 掷骰** | **结果** | 
 | 01-20 | 人类 | 01-20 | 矮人 | 01-10 | 熊地精 | 
-| 21-60 | 亚人种 \* | 21-40 | 精灵 | 11-26 | 豺狼人 | 
-| 61-95 | 人形/怪物 \*\* | 41-60 | 侏儒 | 27-42 | 地精 | 
-| 96-00 | 其他 - GM 自定 | 61-80 | 半精灵 | 43-58 | 地精（Hobgoblin） | 
-| | | 81-100 | 半身人 | 59-74 | 狗头人 | 
-| | | | | 75-90 | 兽人 | 
-| | | | | 91-95 | 食人魔 | 
-| | | | | 96-00 | 巨魔 | 
+| 21-60 | 半人类 \* | 21-40 | 精灵 | 11-26 | 豺狼人 | 
+| 61-95 | 类人/怪物 \*\* | 41-60 | 侏儒 | 27-42 | 地精 | 
+| 96-00 | 其他 - 由 GM 决定 | 61-80 | 半精灵 | 43-58 | 悍地精 | 
+|  |  | 81-100 | 半身人 | 59-74 | 狗头人 | 
+|  |  |  |  | 75-90 | 兽人 | 
+|  |  |  |  | 91-95 | 食人魔 | 
+|  |  |  |  | 96-00 | 巨魔 | 
 
-\* 再次投掷并参照“亚人种”结果列。
+\* 再次掷骰并参考“半人类”结果栏。
 
-\*\* 再次投掷并参照“人形/怪物”结果列。
+\*\* 再次掷骰并参考“类人/怪物”结果栏。
 
 ---#### 移除诅咒 (R)
 
@@ -2489,43 +2493,43 @@ _《经典奇幻指令》中并未提及“神术转世”，因此已将其修�
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 2, 法师 3 | **施法时间:** 2 动作 |
+| **等级:** 牧师 2, 法师 3 | **施法时间:** 2 行动 |
 | **领域:** ?? | **持续时间:** 永久 |
-| **消耗:** 3, +1/额外强度 | **距离:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 无 |
+| **消耗:** 3, +1/额外强度 | **射程:** 接触 |
+| **范围:** 1 目标 | **抗力:** 无 |
 
-该法术通常能移除困扰生物或物品的任何诅咒效果。它不会移除诸如武器、盾牌或盔甲等物品的被诅咒本质，但可以使被此类物品困扰的生物得以摆脱它。有些诅咒可能只有在以特定强度施放法术时才能被移除，这通常会在具体的描述中注明。治疗疾病或移除诅咒均可用于治愈兽化症，两者均需要 12 点强度。
+该法术通常用于移除折磨生物或物品的任何诅咒效果。它不会移除诸如武器、盾牌或护甲等物品的受诅咒性质，但可以让受此类物品折磨的生物摆脱它。某些诅咒只有在以特定的强度施放法术时才能移除，通常记录在特定的描述中。移除疾病或移除诅咒均可用于治愈兽化症，两者都需要 12 的强度。
 
-该法术的逆转形式，“施加诅咒”，会对敌人造成以下效果之一，持续时间为每强度 30 分钟。受害者可以照常进行对抗意志力检定来抵抗。掷 1d100 以确定所施加诅咒的性质：
+该法术的反转形态为“施加诅咒”，可对敌人施加以下效果之一，持续时间为每强度 30 分钟。受害者可以进行正常的对抗意志力掷骰以进行抵抗。掷 1d100 以确定所施加诅咒的性质：
 
-- 01-25: 所有使用力量 (STR)、敏捷 (DEX) 或体质 (CON) 的技能难度增加一级。先攻 -4，伤害修正降低 2 级。
-- 26-50: 所有使用智力 (INT)、意志 (POW) 或魅力 (CHA) 的技能难度增加一级。先攻 -4。
-- 51-75: 战斗技能和抵抗检定难度增加 2 级。
-- 76-00: 所有失败的技能检定均视为大失败 (Fumble)。
+- 01-25: 所有使用力量、敏捷或体质的技能难度增加一级。先攻 -4，伤害修正降低 2 阶。
+- 26-50: 所有使用智力、灵力或魅力的技能难度增加一级。先攻 -4。
+- 51-75: 战斗技能和抗力掷骰难度增加 2 级。
+- 76-00: 所有失败的技能掷骰视为大失误。
 
 ---
 #### 移除恐惧 (R)
 
-(防护系（魅惑）)
+(防护系 (魅惑))
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 1 | **施法时间:** 1 动作 |
+| **等级:** 牧师 1 | **施法时间:** 1 行动 |
 | **领域:** 魅惑 | **持续时间:** 见下文 |
-| **消耗:** 1/强度 | **距离:** 30 英尺 |
-| **范围:** 1 个目标 | **抵抗:** 见下文 |
+| **消耗:** 1/强度 | **射程:** 30 英尺 |
+| **范围:** 1 目标 | **抗力:** 见下文 |
 
-该法术的施法者可以每强度为一个个体驱散恐惧效果，并给予他们一次额外的抵抗检定机会。当对尚未遭受恐惧效果的人施放时，移除恐惧也可以神圣地预防恐惧，持续 10 分钟。在这两种情况下，受术者所需的抵抗检定难度均降低一级。虽然牧师可以对自己施放该法术以预防恐惧，但他们无法用它来移除任何会妨碍施法的持续性恐惧效果。
+此法术的施法者可以为每强度的一名个体驱除恐惧效果，并给予他们一次额外的抗力掷骰机会。移除恐惧在对尚未受到恐惧影响的目标施放时，也可提供 10 分钟的神圣庇护以防恐惧。在这两种情况下，目标所需的抗力掷骰难度都会降低一级。虽然牧师可以对自己施放此法术以防止恐惧，但他们将无法使用它来移除任何阻止施法的持续性恐惧效果。
 
-该法术的逆转形式，“造成恐惧”，需要在战斗中接触受害者。未通过意志力抵抗检定的人会陷入恐惧，以冲刺速度逃离 1d4 回合。逃离方向必须背离法术施法者。造成恐惧可以被移除恐惧反制，反之亦然。
+该法术的反转形态为“造成恐惧”，需要在战斗中接触受害者。未通过意志力抗力掷骰者将陷入极度恐慌并全速奔逃 1d4 回合。逃跑方向必须背离法术施法者。造成恐惧可以被移除恐惧抵消，反之亦然。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 30 英尺距离；1 个目标 |
-| 2 | 2 | 60 英尺距离；2 个目标 |
-| 3 | 3 | 90 英尺距离；3 个目标 |
-| 4 | 4 | 120 英尺距离；4 个目标 |
-| 5 | 5 | 150 英尺距离；5 个目标 |
+| 1 | 1 | 30 英尺射程；1 个目标 |
+| 2 | 2 | 60 英尺射程；2 个目标 |
+| 3 | 3 | 90 英尺射程；3 个目标 |
+| 4 | 4 | 120 英尺射程；4 个目标 |
+| 5 | 5 | 150 英尺射程；5 个目标 |
 
 ---
 #### 修理
@@ -2534,12 +2538,12 @@ _《经典奇幻指令》中并未提及“神术转世”，因此已将其修�
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 1, 法师 0 | **施法时间:** 1 动作 |
+| **等级:** 牧师 1, 法师 0 | **施法时间:** 1 行动 |
 | **领域:** ?? | **持续时间:** 24 小时 |
-| **消耗:** 1 | **距离:** 接触 |
-| **范围:** 1 个物品 | **抵抗:** 无 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 物品 | **抗力:** 无 |
 
-修理可修复无生命物体的物理损伤。每次单独的成功施法可修复 1d3 点生命值损伤。
+修理可修复无生命物体的物理损伤。每次成功的单独施法可修复 1d3 点伤害。
 
 ---
 #### 复原术
@@ -2550,10 +2554,10 @@ _《经典奇幻指令》中并未提及“神术转世”，因此已将其修�
 | :-- | :-- |
 | **等级:** 牧师 3 | **施法时间:** 3 分钟 |
 | **领域:** 治疗 | **持续时间:** 永久 |
-| **消耗:** 3, +1/额外强度 | **距离:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 无 |
+| **消耗:** 3, +1/额外强度 | **射程:** 接触 |
+| **范围:** 1 目标 | **抗力:** 无 |
 
-施放时，先前因能量吸取或类似效果而被耗尽生命力的受害者可恢复先前损失的一级疲劳。在 1 级强度下，该法术仅对过去 24 小时内被耗尽的生物有效。每增加一级强度，法术生效的时间窗口可延长 24 小时。例如，先前在不到 48 小时前被耗尽的受害者，需要强度为 2 的法术才能奏效。多级疲劳损失需要多次施放复原术。无论持续时间如何，除了恢复任何疲劳外，该法术还能恢复所有心理机能，例如因魔法或任何形式的疯狂或痴呆而丧失的能力。复原术也可用于移除因人工衰老（如某些法术导致的）而损失的年岁。若要以这种方式施放法术，除了正常的施法消耗外，牧师必须为恢复目标典型寿命的每 1% 消耗 1 点经验检定（人类为 1 年）。该法术不能将目标的当前年龄降低至其实际年龄以下。
+施放此法术后，先前因能量抽取或类似效果而丧失生命力的受害者可恢复一级先前失去的疲劳。在强度为 1 级时，此法术仅对在过去 24 小时内被抽取的生物有效。每增加一级强度，法术生效的时间窗口可延长 24 小时。例如，先前在不到 48 小时前被抽取的受害者，需要强度为 2 的该法术才能生效。多级疲劳抽取需要多次施放复原术。无论持续时间如何，除了恢复疲劳外，此法术还能恢复所有精神能力，例如那些因魔法或任何形式的疯狂或痴呆症而丧失的能力。复原术还可用于移除因人为衰老（如某些法术导致的衰老）而损失的年龄。若要以此方式施放此法术，除正常的施法消耗外，牧师必须为恢复受术者典型寿命的每 1%（对于人类即为 1 年）额外消耗 1 点经验修正掷骰。此法术不能将受术者的当前年龄降低至其实际出生年龄以下。
 
 ---
 #### 复活术 (R)
@@ -2564,112 +2568,112 @@ _《经典奇幻指令》中并未提及“神术转世”，因此已将其修�
 | :-- | :-- |
 | **等级:** 牧师 5 | **施法时间:** 10 分钟 |
 | **领域:** 死灵 | **持续时间:** 永久 |
-| **消耗:** 3, +1/额外强度, +2 经验值 | **距离:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 无（意志力） |
+| **消耗:** 3, +1/额外强度, +2 经验 | **射程:** 接触 |
+| **范围:** 1 目标 | **抗力:** 无 (意志力) |
 
-复活术可复活任何死亡时间不超过“每强度等级 20 年”的生物。受造物不仅被赋予生命，还会恢复全部体力并从伤痛中愈合，甚至能再生失去的肢体。即使死者只剩下极少部分身体组织，法术依然有效。例如，假设法术强度为 8，复活术可以将一个在 145 年前死亡的生物复活，即便只有一块指骨残留。复活后的个体无需休息期，即可立即完全恢复功能。该法术对于因在既定寿命终点自然死亡的生物无效。
+复活术可复活死亡时间不超过每强度等级 20 年的任何生物。该生物不仅获得生命，还会恢复至全盛状态并从伤痛中愈合，甚至能长出缺失的肢体。法术生效所需的生物残骸极少。例如，即便只有一截指骨，若以 8 强度施法，复活术也可将 145 年前死亡的生命带回人间。复活后的个体无需休息期，立即完全具备功能。此法术对因寿命终结而自然死亡的生物无效。
 
-如果受术者的阵营非邪恶，他们可以通过一次对抗意志力检定来抵抗法术，如果成功，则抵消法术效果。这是因为逝者的灵魂或精魂一旦到达其永恒的奖赏之地，便很少愿意回到凡间。然而，如果受术者有未竟事业、无法与挚爱分离，或有其他英勇的理由生存，游戏主持 (GM) 可以决定免除该检定。对于邪恶的灵魂，他们宁愿回来也不愿遭受永恒的诅咒，此时抵抗的不是逝者的意志力，而是负责惩罚他们的恶魔、魔鬼等折磨者的意志力。在这种情况下，施法者必须克服折磨者的意志力。如果不清楚对方强度，假设其至少比逝者高 20 点，这代表灵魂意志越强，负责其诅咒的生物就越强大。如果施法者成功，受术者便被成功复活；若检定失败，则受害者因不愿或无法回归而复活失败。
+如果受术者生前的阵营非邪恶，他们可以使用对抗意志力掷骰来抵抗该法术，若成功则抵消效果。这是因为死者的灵魂在获得永恒回报后极少愿意回到凡间。然而，如果受术者有未竟之事、无法与真爱分离或有其他英勇的生存理由，游戏主持者可以决定豁免此掷骰。对于邪恶灵魂，他们宁愿回归也不愿遭受永恒的诅咒，此时抵抗的并非死者的意志力，而是负责惩罚他们的恶魔、魔鬼等折磨者的意志力。在此情况下，施法者必须克服折磨者的意志力。如果其数值未知，假设其至少比死者高出 20 点，以体现灵魂意志越强，负责其诅咒的位阶越高。如果施法者成功，受术者即被成功复活；掷骰失败则意味着受害者不愿意或无法回归。
 
-复活术极度耗神，会使牧师衰老其典型寿命的 3%（人类施法者为 3 年）。请参阅 [衰老](0007_Game_System.md?id=aging) 的规则。
+复活术非常消耗精力，会使牧师衰老其典型寿命的 3%（人类施法者即衰老 3 年）。参见 [年龄](0007_Game_System.md?id=aging) 规则。
 
-当逆转为“毁灭”时，可用于杀死施法时与牧师接触的一名受害者。该受害者可以进行意志力检定来抵抗，该检定受目标等级或体型 (SIZ) 的修正（取对受害者最有利的结果），具体如以下表格所示。
+该法术的反转形态为“毁灭”，可杀死在施法时与牧师接触的一名受害者。受害者可以使用意志力掷骰进行抵抗，其结果根据目标位阶或体型进行修正（取对受害者更有利的一项），详见下表。
 
-| 目标等级 | 目标体型 | 意志力修正 |
+| 目标位阶 | 目标体型 | 意志力修正 |
 | :-: | :-: | :-- |
-| 0-1* | 1-20 | 艰巨 (Formidable) |
-| 2 | 21-40 | 困难 (Hard) |
-| 3 | 41-60 | 标准 (Standard) |
-| 4 | 61-80 | 简单 (Easy) |
-| 5 | 81+ | 非常简单 (Very Easy) |
+| 0-1\* | 1-20 | 艰巨 |
+| 2 | 21-40 | 困难 |
+| 3 | 41-60 | 标准 |
+| 4 | 61-80 | 简单 |
+| 5 | 81+ | 非常简单 |
 
-_* 此类别包括没有职业的角色。_
+_\* 此类别包括未拥有职业的角色。_
 
-如果此抵抗检定失败，受害者将被当场击杀，身体化为灰烬。此时只有施放许愿术才能将受害者复活。若检定成功，受害者仍会被扣除受接触部位 1d4 点生命值。护甲无法防范此伤害。毁灭术在使用时不会使施法者衰老。
+如果此抗力掷骰失败，受害者将当场死亡，其躯体化为尘土。此阶段唯有施放“祈愿术”才能将受害者复活。若掷骰成功，受害者仍会受到接触的命中部位 1d4 点伤害（减少至负值）。护甲对此伤害不提供任何防护。毁灭术在使用时不会导致施法者衰老。
 
 ---
-#### 加固门户
+#### 稳固门户
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 1 | **施法时间:** 1 动作 |
+| **等级:** 法师 1 | **施法时间:** 1 行动 |
 | **领域:** 无 | **持续时间:** 1 分钟/强度 |
-| **消耗:** 1/强度 | **距离:** 60 英尺/强度 |
-| **范围:** 1 个门户 | **抵抗:** 无 |
+| **消耗:** 1/强度 | **射程:** 60 英尺/强度 |
+| **范围:** 1 门户 | **抗力:** 无 |
 
-该法术可用于紧闭一扇门、吊闸、大门或其他由木材、石材或金属制成的类似开口，如同被牢固锁住一般。该门（每强度最多可拥有 25 生命值）可能会被强行撞开，但在法术持续时间内不会以其他方式打开，持续时间可由施法者随时终止。该法术可被强度高于其量级的“解除魔法”成功施放，或被任何强度的“开锁术”所抵消。加固门户也会被来自主物质位面之外的生物（如恶魔、魔鬼、天使和元素生物）自动绕过，因为它们可以穿过固体物质。这也对“闪现”或其他类似法术没有影响。
+此法术可用于将木制、石制或金属制的门、吊闸、栅栏或其他类似开口保持关闭，如同已稳固锁住。该门户（每强度拥有最高 25 点生命值）可以被撞击破坏，但在法术持续期间不会以其他方式打开，施法者可随时终止该法术。此法术可通过成功施放高于其量级的“解除魔法”或任何等级的“开锁术”来抵消。稳固门户也会自动被来自主物质位面之外的生物（如恶魔、魔鬼、天使和元素生物）绕过，因为它们可以穿过固体物质。此法术对“闪现”或其他此类法术无效。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 分钟；60 英尺距离；最高 25 生命值门户；典型的木门 |
-| 2 | 2 | 2 分钟；120 英尺距离；最高 50 生命值门户；加固的木门 |
-| 3 | 3 | 3 分钟；180 英尺距离；最高 75 生命值门户；铁门或吊闸 |
-| 4 | 4 | 4 分钟；240 英尺距离；最高 120 生命值门户；小型城堡大门 |
-| 5 | 5 | 5 分钟；300 英尺距离；最高 150 生命值门户；大型、加固的城堡大门 |
+| 1 | 1 | 1 分钟；60 英尺射程；上限 25 点生命值的门户；典型木门 |
+| 2 | 2 | 2 分钟；120 英尺射程；上限 50 点生命值的门户；加强木门 |
+| 3 | 3 | 3 分钟；180 英尺射程；上限 75 点生命值的门户；铁门或吊闸 |
+| 4 | 4 | 4 分钟；240 英尺射程；上限 120 点生命值的门户；小型城堡大门 |
+| 5 | 5 | 5 分钟；300 英尺射程；上限 150 点生命值的门户；大型加强型城堡大门 |
 
 ---
-#### 护盾术
+#### 护盾
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 1 | **施法时间:** 1 动作 |
+| **等级:** 法师 1 | **施法时间:** 1 行动 |
 | **领域:** 无 | **持续时间:** 5 回合/强度 |
-| **消耗:** 3, +1/额外强度 | **距离:** 0 |
-| **范围:** 施法者 | **抵抗:** 无 |
+| **消耗:** 3, +1/额外强度 | **射程:** 0 |
+| **范围:** 施法者 | **抗力:** 无 |
 
-护盾术会创造一个无形的移动力场圆盘，悬浮在魔法使用者面前，通过将攻击弹开来增加从该方向发动的攻击难度。在微缩模型战斗中，护盾术只会阻挡穿过施法者前方格子的伤害。魔法使用者无需进行任何技能检定（施放法术本身除外），因为法术的魔法会自动将护盾置于攻击和施法者之间。应用于穿过施法者正面攻击的惩罚取决于攻击类型，详见下表。
+护盾创造出一面无形的移动力场盘，悬浮在魔法使用者身前，通过将攻击弹开来增加来自该方向的攻击难度。在微缩模型战斗中，护盾仅能阻挡穿过施法者前方格子的伤害。魔法使用者无需进行除施法之外的任何技能测试，因为法术会自动将护盾置于攻击和施法者之间。施加于穿过施法者前方的攻击的减值，取决于攻击类型，详见下表。
 
-| 攻击类型 | 例子 | 击中施法者的难度 |
+| 攻击类型 | 示例 | 攻击施法者的难度 |
 | :-- | :-- | :-- |
-| 魔法飞弹 | 仅限魔法飞弹 | 不可能，魔法飞弹会被自动阻挡 |
-| 投掷攻击 | 岩石、投掷的斧头和长矛等 | 海格力斯级 (Herculean) |
-| 器械推进攻击 | 箭矢、弩矢和蝎尾狮弩箭、投石和弹丸等 | 艰巨 (Formidable) |
-| 其他物理攻击 | 剑、啮咬、利爪等 | 困难 (Hard) |
-| 可闪避的法术 | 火球术、闪电束、寒冰锥等 | 标准难度，但如果施法者闪避成功则不受伤害，失败则受半伤 |
+| 魔法飞弹 | 仅限魔法飞弹 | 不可能，魔法飞弹自动被阻挡 |
+| 投掷攻击 | 石块、投掷斧和长矛等 | 超凡 |
+| 装置推进攻击 | 箭矢、弩矢和蝎尾狮弩矢、弹弓石子和弹丸等 | 艰巨 |
+| 其他物理攻击 | 剑、啮咬、利爪等 | 困难 |
+| 可闪避法术 | 火球术、闪电束、寒冰锥等 | 标准难度，但若施法者闪避则不受伤害，失败则受一半伤害 |
 
 ---
-#### 沉默术
+#### 沉默
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 2 | **施法时间:** 2 动作 |
-| **领域:** 守卫 | **持续时间:** 见下文 |
-| **消耗:** 3, +1/额外强度 | **距离:** 360 英尺 |
-| **范围:** 15 英尺半径 | **抵抗:** 见下文 |
+| **等级:** 牧师 2 | **施法时间:** 2 行动 |
+| **领域:** 守护 | **持续时间:** 见下文 |
+| **消耗:** 3, +1/额外强度 | **射程:** 360 英尺 |
+| **范围:** 15 英尺半径 | **抗力:** 见下文 |
 
-该法术允许施法者在影响范围内制造完全且彻底的沉默。任何声音都不可能发出，对话停止，具有言语成分的法术无法施放，等等。如果沉默术被施加在一个物体或生物上，法术的影响范围将随目标移动。然而，施放在空旷空气中的法术将保持不动。法术的持续时间取决于目标是否自愿。对自愿目标，持续时间为 2 分钟/强度；对非自愿目标，持续时间为 2 回合/强度。只有当法术施加在非自愿生物上时才允许进行意志力抵抗检定，如果成功，法术会改为作用于该生物所占据的区域，并保持不动。
+此法术允许施法者在作用范围内创造彻底且完全的寂静。任何声音皆不可能产生，交谈终止，具有语言成分的法术无法施放，等等。如果沉默被施放在物品或生物上，法术的作用范围将随目标移动。反之，若施放于开阔空气中，则保持不动。法术的持续时间取决于目标是否自愿。对于自愿目标，持续时间为 2 分钟/强度；对于非自愿目标，持续时间为 2 回合/强度。意志力抗力掷骰仅允许在对非自愿生物施放时进行，若成功，法术将转而作用于该生物所占据的区域，并保持不动。
 
 ---
-#### 睡眠术
+#### 睡眠
 
-(附魔系（魅惑）)
+(附魔系 (魅惑))
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 1 | **施法时间:** 1 动作 |
+| **等级:** 法师 1 | **施法时间:** 1 行动 |
 | **领域:** 无 | **持续时间:** 5 分钟/强度 |
-| **消耗:** 3, +1/额外强度 | **距离:** 60 英尺 |
-| **范围:** 10 英尺半径 | **抵抗:** 意志力 |
+| **消耗:** 3, +1/额外强度 | **射程:** 60 英尺 |
+| **范围:** 10 英尺半径 | **抗力:** 意志力 |
 
-该法术使半径 10 英尺的圆形区域内，每强度等级一名活物陷入魔法睡眠。法术的影响范围以空间中的一点或地面为中心，距离中心最近的生物首先进行抵抗，然后是下一个，以此类推。如果两个或更多生物处于相同距离，则随机决定谁受影响。每个生物都可以进行抵抗检定，如果有人成功，则必须由下一个目标尝试，直到受影响总数等于法术强度，或者影响范围内没有更多生物。处于高度警觉状态或在法术施放时正在战斗中的生物，其抵抗检定难度降低一级。
+此法术使半径 10 英尺的圆形区域内，每强度等级一名生物陷入魔法沉睡。法术的作用范围以空间或地面上的一点为中心，最近的生物首先进行抵抗，然后是次近的，依此类推。当两个或多个生物距离相等时，随机确定受影响者。每个生物都有机会抵抗，如果一名成功，则另一名必须尝试，直到受影响人数等于法术强度，或范围内不再有生物为止。处于高度警觉状态，或在施法时处于战斗中的生物，其抵抗难度会降低一级。
 
-大型生物 (SIZ 21-40) 对睡眠术的易感性较低，抵抗检定为“简单”，而巨型生物 (SIZ 41+) 的抵抗检定为“非常简单”。较小的生物总是比较大的生物先受影响；因此，SIZ 20 或以下的生物总是比 SIZ 21 到 40 的生物先受影响，后者又总是比 SIZ 41+ 的生物先受影响。
+大型生物（体型 21-40）较不易受睡眠影响，抗力掷骰为简单；而巨型生物（体型 41+）的抗力掷骰为非常简单。较小的生物总是比较大的生物先受影响；因此，体型 20 或以下的生物总是比体型 21 至 40 的生物先受影响，后者又总是比体型 41+ 的生物先受影响。
 
-睡眠时，受影响的生物处于无助状态，正常的噪音不会惊扰它们，但它们可以通过摇晃或拍打被唤醒。任何非致命攻击也会使它们醒来（尽管该攻击会作为“突袭”发生）。尝试唤醒一个生物需要 1 个战斗回合。
+在睡眠期间，受影响的生物处于无助状态，正常的噪音不会惊醒他们，但他们可以通过摇晃或拍打被唤醒。任何非致命性攻击也会导致他们醒来（尽管该攻击会被视为突袭）。尝试唤醒一个生物需要 1 战斗回合。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 5 分钟持续时间；1 个生物 |
-| 2 | 4 | 10 分钟持续时间；2 个生物 |
-| 3 | 5 | 15 分钟持续时间；3 个生物 |
-| 4 | 6 | 20 分钟持续时间；4 个生物 |
-| +1 | +1 | 延续进度 |
+| 1 | 3 | 5 分钟持续时间；1 名生物 |
+| 2 | 4 | 10 分钟持续时间；2 名生物 |
+| 3 | 5 | 15 分钟持续时间；3 名生物 |
+| 4 | 6 | 20 分钟持续时间；4 名生物 |
+| +1 | +1 | 继续推进 |
 
 ---
 #### 缓慢术
@@ -2678,20 +2682,20 @@ _* 此类别包括没有职业的角色。_
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 2 | **施法时间:** 2 动作 |
+| **等级:** 法师 2 | **施法时间:** 2 行动 |
 | **领域:** 无 | **持续时间:** 2 回合/强度 |
-| **消耗:** 3/强度 | **距离:** 100 英尺 |
-| **范围:** 20 英尺半径 | **抵抗:** 意志力 |
+| **消耗:** 3/强度 | **射程:** 100 英尺 |
+| **范围:** 20 英尺半径 | **抗力:** 意志力 |
 
-该法术允许施法者将一个生物的正常移动速度减半。每增加一级强度，可以减缓额外一个生物的速度。受影响者必须在法术初次施放时处于影响范围内，但之后可以自由移动。此外，受缓慢术影响者在法术持续期间先攻会受到 -4 惩罚，并且必须将其总动作点数减半（包括仅用于反应目的的动作点）。施放缓慢术会取消“加速术”的效果。缓慢术不能与自身或其他类似魔法效果叠加。
+此法术允许施法者将一名生物的正常移动速率减半。每增加一级强度可使额外一名生物变慢。受影响者必须在施法瞬间位于作用范围内，但此后可自由移动。此外，受缓慢术影响者在法术持续期间其先攻获得 -4 减值，且必须将其总行动点数减半（包括仅用于反应目的的点数）。施放缓慢术可抵消“加速术”的效果。缓慢术不可叠加，也不可与类似的魔法效果叠加。
 
-| 强度 | 消耗 | 变量效果 |
+| 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 2 回合持续时间；1 个生物 |
-| 2 | 6 | 4 回合持续时间；2 个生物 |
-| 3 | 9 | 6 回合持续时间；3 个生物 |
-| 4 | 12 | 8 回合持续时间；4 个生物 |
-| +1 | +3 | 延续进度 |
+| 1 | 3 | 2 回合持续时间；1 名生物 |
+| 2 | 6 | 4 回合持续时间；2 名生物 |
+| 3 | 9 | 6 回合持续时间；3 名生物 |
+| 4 | 12 | 8 回合持续时间；4 名生物 |
+| +1 | +3 | 继续推进 |
 
 ---
 #### 减缓毒素
@@ -2700,18 +2704,18 @@ _* 此类别包括没有职业的角色。_
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 1 | **施法时间:** 1 动作 |
+| **等级:** 牧师 1 | **施法时间:** 1 行动 |
 | **领域:** 治疗 | **持续时间:** 1 小时/强度 |
-| **消耗:** 3, +1/额外强度 | **距离:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 无 |
+| **消耗:** 3, +1/额外强度 | **射程:** 接触 |
+| **范围:** 1 目标 | **抗力:** 无 |
 
-该法术允许施法者减缓毒素和毒液的效果；但它不能中和毒素。相反，在体内扩散的毒素被减缓到足够的程度，以便能够找到额外的治疗措施。毒素的发作时间在法术持续时间结束之前不会生效。
+此法术允许施法者减缓毒素和毒液的效果；但它并不能中和毒素。相反，在体内扩散的毒素被减缓，以期能找到额外的治疗措施。毒素的起效时间直到法术持续时间结束才会开始计算。
 
-例如，眼镜蛇毒的发作时间如下：1d6+4 分钟后剧痛，1d6+6 小时后窒息。因此，一级“减缓毒素”可将发作时间推迟 1 小时，在此之后，1d6+4 分钟后剧痛将照常发生。
+例如，眼镜蛇毒液的起效时间如下：1d6+4 分钟后产生剧痛，1d6+6 小时后导致窒息。因此，1 强度的减缓毒素可将起效时间延后 1 小时，此后 1d6+4 分钟，剧痛如常发作。
 
-如果是在症状发作后对受害者施放“减缓毒素”，症状会停止直到法术持续时间结束，然后照常继续。
+如果减缓毒素在症状出现后施放于受害者身上，症状将停止，直到法术持续时间结束后如常继续。
 
-作为最后手段，如果施法者能在 10 分钟内接触到因中毒而“死亡”的个体，“减缓毒素”可将受害者的死亡延迟每强度 1 小时，在此期间受害者保持昏迷状态。如果在此期间受害者能被治愈毒素，他们仍可能存活并被急救或魔法治疗救醒。
+作为最后的手段，如果施法者能在个人因中毒“死亡”后 10 分钟内赶到，减缓毒素可将受害者的死亡推迟每强度 1 小时，在此期间受害者保持昏迷。如果在此期间受害者能通过急救或魔法治疗治愈毒素，则受害者仍可生还。
 
 ---
 #### 与怪物交谈
@@ -2720,65 +2724,65 @@ _* 此类别包括没有职业的角色。_
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 4 | **施法时间:** 2 动作 |
+| **等级:** 牧师 4 | **施法时间:** 2 行动 |
 | **领域:** 预言 | **持续时间:** 2 分钟/强度 |
-| **消耗:** 3, +1/额外强度 | **距离:** 100 英尺 |
-| **范围:** 1 个或多个怪物 | **抵抗:** 无 |
+| **消耗:** 3, +1/额外强度 | **射程:** 100 英尺 |
+| **范围:** 1 或更多怪物 | **抗力:** 无 |
 
-该法术允许施法者理解并被任何能够进行任何形式交流（心灵感应、信息素、触觉等）的生物所理解。施法者只需用自己的语言说话，生物就能以其自身的交流形式理解施法者的意图或询问。游戏主持应根据生物的阵营与其与施法者阵营的对比来决定该生物的反应。施法者可在法术持续时间内在同类型的不同生物之间切换。
+此法术允许施法者理解并被任何能够以任何形式进行交流（心灵感应、信息素、触觉等）的生物所理解。施法者只需用自己的语言说话，生物就能以其自身的交流形式理解施法者的意图或询问。游戏主持者应根据生物与施法者的阵营对比来确定该生物的反应。施法者可在法术持续期间在同一类型的不同生物之间切换。
 
 ---
-#### 次级法术无效结界
+#### 次级无敌球
 
 (防护系)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 3 | **施法时间:** 2 动作 |
+| **等级:** 法师 3 | **施法时间:** 2 行动 |
 | **领域:** 无 | **持续时间:** 1 回合/强度 |
-| **消耗:** 3, +1/额外强度 | **距离:** 0 |
-| **范围:** 5 英尺半径 | **抵抗:** 无 |
+| **消耗:** 3, +1/额外强度 | **射程:** 0 |
+| **范围:** 5 英尺半径 | **抗力:** 无 |
 
-当施放此法术时，一个不可移动的微光魔法防护球会在施法者周围形成。等级 1 和 2 的法术，以及它们产生的任何魔法效果区域，都将无法穿透该结界，包括魔法物品或某些生物天生的魔法能力所产生的法术。施法者和任何有施法能力的盟友可以从结界内发动魔法攻击而无副作用，甚至可以离开结界再返回，而不会影响其持续时间。次级法术无效结界会受到“解除魔法”的正常影响。
+当此法术被施放时，一个不可移动、闪烁着魔法防护光芒的球体在施法者周围形成。1 级和 2 级法术，以及它们产生的任何魔法作用范围都无法穿透此球体，包括魔法物品拥有的效果或某些生物天生的魔法能力。施法者及其盟友可在球体内发起魔法攻击而无任何不利影响，甚至离开球体再返回也不会影响其持续时间。次级无敌球会受到“解除魔法”的正常影响。
 
 ---
-#### 蜘蛛攀爬
+#### 蜘蛛爬行
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级:** 法师 1 | **施法时间:** 1 动作 |
+| **等级:** 法师 1 | **施法时间:** 1 行动 |
 | **领域:** 无 | **持续时间:** 2 分钟/强度 |
-| **消耗:** 1/强度 | **距离:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 无 |
+| **消耗:** 1/强度 | **射程:** 接触 |
+| **范围:** 1 目标 | **抗力:** 无 |
 
-该法术的目标可以以 10 英尺的移动速度沿垂直表面和天花板移动，甚至可以倒挂行走。目标必须脱掉所有手部和脚部装备，且由于物体会粘在手上，使用极小的物品（ENC 可忽略不计）是不可能的。这包括大多数施法材料成分，通常使处于蜘蛛攀爬效果下时无法施法。要将一个物体从个体身上拉下，或将一个正在抵抗的个体从表面拉离，需要进行一次难度为“艰巨”的强壮 (Brawn) 检定。
+此法术的目标可以以 10 英尺的移动速率在垂直表面和天花板上移动，甚至可以倒挂。目标必须脱掉所有手部和脚部装备，且使用极小物品（载重可忽略）是不可能的，因为它们会粘在手上。这包括大多数施法材料成分，这通常使得在受蜘蛛爬行影响时无法施法。要将物体从个体身上拉开或将处于抵抗状态的个体从表面拉离，需要进行一次艰巨难度的蛮力掷骰。
 
 ---
-#### 灵体护盾
+#### 灵盾
 
 (防护系)
 
 | | |
 | :-- | :-- |
-| **等级:** 牧师 0 | **施法时间:** 1 动作 |
+| **等级:** 牧师 0 | **施法时间:** 1 行动 |
 | **领域:** 死灵 | **持续时间:** 专注 |
-| **消耗:** 1 | **距离:** 接触 |
-| **范围:** 1 个目标 | **抵抗:** 意志力 |
+| **消耗:** 1 | **射程:** 接触 |
+| **范围:** 1 目标 | **抗力:** 意志力 |
 
-该法术在受术者周围创造一个盾牌，阻止精魂和鬼魂进入。任何想要攻击或附身受术者的精魂或鬼魂，必须在意志力与施法者虔诚 (Piety) 技能的对抗检定中获胜，方可克服该法术。#### 灵锤 (Spiritual Hammer)
+此法术在受术者周围创造一个护盾，阻止灵体和幽灵进入。任何试图攻击或占据受术者的灵体或幽灵，必须通过在意志力与施法者虔诚技能的对抗测试中获胜，才能克服此法术。#### 灵能战锤
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2 | **施法时间：** 2 动作 |
-| **领域：** 战斗 | **持续时间：** 3 回合/强度 |
-| **消耗：** 3，每额外增加一级强度 +1 | **射程：** 0 |
-| **范围：** 30 英尺半径/强度 | **抵抗：** 闪避或格挡 |
+| **位阶:** 牧师 2 | **施法时间:** 2 行动 |
+| **领域:** 战斗 | **持续时间:** 3 回合/强度 |
+| **消耗:** 3, +1/额外强度 | **射程:** 0 |
+| **范围:** 30 英尺半径/强度 | **抵抗:** 招架 或 闪避 |
 
-施放此法术后，会出现一种类似锤子的灵能力量，它会向施法者指定的区域发动攻击。只要维持专注，施法者每回合可以使用其一个行动点来指挥灵锤进行攻击。在专注期间，施法者的移动速度限制为步行，并且可以使用装备的武器或盾牌进行闪避或格挡，而不会打断专注。每花费一个行动点操控灵锤，它就可以移动到施法者视野内的任何位置。如果施法者处于对手身后，他们可以使用灵锤从背后攻击对手，抵消对方竭尽全力进行防御的机会。灵锤造成的伤害等同于普通的战锤 (1d8+1)，命中几率等于牧师的战斗技能。穿戴的盔甲仅提供一半保护，但魔法护甲点或生物的天然盔甲可按常理减免伤害。灵锤可以被正常格挡或闪避，针对它的攻击无效。灵锤在打击仅能被魔法伤害的生物时视为魔法武器，每一级强度（第一级之后）赋予等同于累计 +1 的魔法加值，最高为 +5。此加值不增加伤害，而是有助于伤害仅能被特定魔法加值或更高数值伤害的生物。
+施展此法术后，会出现一把锤状的灵能能量，随后它会向施法者指定的某一目标发起冲锋。在每一回合中，只要施法者保持专注，便可以使用一个行动点数来指挥战锤发起攻击。在保持专注时，施法者移动速度不得超过步行，但可以进行闪避或使用装备的武器或盾牌进行招架，且不会中断专注。每消耗一个行动点数来操纵战锤，它便可以被移动到施法者视野内的任何位置。如果施法者位于对手身后，他们可以使用战锤从后方打击对手，使目标无法发挥其防御能力。灵能战锤造成的伤害等同于普通战锤 (1d8+1)，且命中率等同于牧师的战斗技能。穿戴的护甲仅提供一半保护，但魔法护甲点数或生物的天然护甲会如常减少伤害。战锤可以被如常招架或闪避，且针对它的攻击无效。在针对仅受魔法伤害的生物进行打击时，灵能战锤被视为魔法武器；强度每高于 1 级，便会赋予相当于累积 +1 魔法加值的效果，最高为 +5。此加值不会增加造成的伤害，而是有助于伤害仅能被特定魔法加值或更高加值伤害的生物。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
@@ -2787,214 +2791,215 @@ _* 此类别包括没有职业的角色。_
 | 3 | 5 | 9 回合；90 英尺半径；视为 +2 |
 | 4 | 6 | 12 回合；120 英尺半径；视为 +3 |
 | 5 | 7 | 15 回合；150 英尺半径；视为 +4 |
-| 6 | 8 | 18 回合；180 英尺半径；最高视为 +5 |
-| +1 | +1 | 回合数与半径继续增加 |
+| 6 | 8 | 18 回合；180 英尺半径；视为 +5 最大值 |
+| +1 | +1 | 回合数与半径持续递增 |
 
 ---
-#### 阳炎射线 (Sun Ray)
+#### 阳炎射线
 
 (塑能系，变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 5 | **施法时间：** 2 动作 |
-| **领域：** 太阳 | **持续时间：** 1d4+1 回合 |
-| **消耗：** 3/强度 | **射程：** 30 英尺/强度 |
-| **范围：** 5 英尺半径 | **抵抗：** 见下文 |
+| **位阶:** 牧师 5 | **施法时间:** 2 行动 |
+| **领域:** 太阳 | **持续时间:** 1d4+1 回合 |
+| **消耗:** 3/强度 | **射程:** 30 英尺/强度 |
+| **范围:** 5 英尺半径 | **抵抗:** 见下方 |
 
-施法后，牧师可以在法术持续时间内的任何时刻通过执行施法动作召唤出一道灿烂的神圣光束。该光束为天然阳光，拥有 5 英尺半径。处于影响范围内的生物必须进行闪避以保护眼睛，否则将陷入失明状态 1d3 分钟。如果抵抗检定失败，阳炎射线将使拥有黑暗视觉的生物失明 2d4 分钟，并且他们在影响范围外 20 英尺内的黑暗视觉能力会丢失 1d4+1 分钟。对于发现天然阳光会损害视力的生物，若抵抗检定失败则永久失明，若成功则失明 2d6 回合。
+施展此法术后，牧师可以在法术持续时间内的任何时刻，使用一次施法行动召唤一道灿烂的圣光射线。射线为自然日光，半径为五英尺。处于影响范围内的目标必须进行闪避以尝试遮挡双眼，否则将致盲 1d3 分钟。如果抵抗掷骰失败，阳炎射线将致盲拥有黑暗视觉的生物 2d4 分钟，且他们在影响范围外 20 英尺内的黑暗视觉能力也会在 1d4+1 分钟内失效。那些视自然日光为有害的生物若抵抗掷骰失败将永久致盲，若掷骰成功则致盲 2d6 回合。
 
-影响范围内的不死生物每个命中部位受到 2d6 点伤害。任何形式的盔甲均不提供保护，但魔法护甲点可按常理减免伤害。位于影响范围边缘五英尺内的目标可以通过闪避来免受伤害。影响范围内 20 英尺内的不死生物仍会受到 1d6+1 点伤害，但在成功的抵抗检定后不受伤害。特别受阳光伤害的不死生物（如吸血鬼）如果闪避失败则会被摧毁。真菌类生物以及所有形式的地下真菌会遭受与不死生物相同的效果，但无法进行抵抗检定。
+位于影响范围内的亡灵生物，其每个命中部位将受到 2d6 点伤害。无论天然与否的护甲均无法提供保护，但魔法护甲点数会如常减少伤害。位于影响范围边缘五英尺内的生物可以闪避以规避伤害。距离影响范围 20 英尺内的亡灵生物仍会受到 1d6+1 点伤害，但若抵抗掷骰成功则不受伤害。被阳光特殊伤害的亡灵（如吸血鬼）若闪避失败将被摧毁。真菌类生物以及所有类型的地底真菌受到的效果与亡灵相同，但不能进行抵抗掷骰。
 
 ---
-#### 整理 (Tidy)
+#### 整理
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 0 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 瞬间 |
-| **消耗：** 1 | **射程：** 20 英尺 |
-| **范围：** 见下文 | **抵抗：** 无 |
+| **位阶:** 法师 0 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 瞬间 |
+| **消耗:** 1 | **射程:** 20 英尺 |
+| **范围:** 见下方 | **抵抗:** 无 |
 
-“整理”会立即将施法射程内一定数量的物品（物品总数不超过施法者的 POW，每件物品大小不超过 2 个“单位”）归位至整洁、有序的状态。大小超过 2 个“单位”的物品会被移动到更整齐的位置，但需要人工干预才能完全整理好。
+整理法术能立即恢复一定数量物品（不超过施法者的灵力）的状态，只要每件物品的体型不超过 2 个“单位”，便可将其在法术范围内恢复得整齐、有序。体型大于 2 个“单位”的物品会被移动到更整齐的位置，但仍需人工干预才能完成彻底整理。
 
 ---
-#### 真知术 (True Seeing)
+#### 真知术
 
 (预言系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3，法师 4 | **施法时间：** 1 回合 |
-| **领域：** 预言 | **持续时间：** 1 分钟/强度 |
-| **消耗：** 3，每额外增加一级强度 +1 | **射程：** 接触 |
-| **范围：** 1 个目标 | **抵抗：** 无 |
+| **位阶:** 牧师 3, 法师 4 | **施法时间:** 1 回合 |
+| **领域:** 预言 | **持续时间:** 1 分钟/强度 |
+| **消耗:** 3, +1/额外强度 | **射程:** 接触 |
+| **范围:** 1 个目标 | **抵抗:** 无 |
 
-真知术赋予受术者清晰观察世界的能力，射程为 60 英尺（受视线限制）。影响范围内的所有秘密都会显现：自然与魔法黑暗皆可穿透；密门变得可见；隐形或以太位面的攻击者被揭示；幻觉和幻象变得显而易见；变形生物的真实形态会被揭示。通过专注，甚至可以瞥见以太位面及其他与物质位面相邻的位面。真知术还可以抵消如模糊术 (Blur) 和镜像术 (Mirror Image) 等法术的效果。除普通的物质成分外，施放真知术还需要使用由磨碎的蘑菇、藏红花和动物脂肪制成的稀有材料，价值至少为 300 金币。
+真知术赋予受术者清晰观察世界的能力，射程为 60 英尺，受限于视线。影响范围内的所有秘密均显露无疑；自然黑暗与魔法黑暗皆被穿透；密门变得可见；隐形或以太位面的攻击者显露真身；幻影与虚像变得显而易见；异形生物的真实形态被揭露。若保持专注，甚至可以窥见以太位面及其他毗邻物质位面的位面。真知术还能抵消诸如模糊术与镜像术等法术的效果。除普通的材料成分外，施展真知术还需要使用由蘑菇粉、藏红花和动物脂肪制成的稀有配料，价值至少 300 金币。
 
 ---
-#### 统御之音 (Voice)
+#### 传音
 
 (附魔系（魅惑）)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 0 | **施法时间：** 1 动作 |
-| **领域：** 魅惑 | **持续时间：** 专注 |
-| **消耗：** 1 | **射程：** 见下文 |
-| **范围：** 1 个目标 | **抵抗：** 意志 |
+| **位阶:** 牧师 0 | **施法时间:** 1 行动 |
+| **领域:** 魅惑 | **持续时间:** 专注 |
+| **消耗:** 1 | **射程:** 见下方 |
+| **范围:** 1 个目标 | **抵抗:** 意志力 |
 
-统御之音会放大受术者的语调和表达方式，使其在发布口头命令时具有强迫力。所有能听到说话者声音的人都被迫倾听。他们的声音还可以穿透即便最嘈杂的背景噪音（狂风呼啸、瀑布咆哮、战场上的兵器碰撞声），传达到受术者魅力 (CHA) 数值 30 倍的英尺距离。
+传音法术增强了受术者的语调和表达，使其在发出言语命令时具有强制力。所有能听到说话者声音的人都会被迫聆听。他们的嗓音甚至可以传过最响亮的背景噪音（呼啸的狂风、瀑布的轰鸣、战场上的兵器碰撞声），射程最远可达受术者魅力值的 30 倍（以英尺计）。
 
 ---
-#### 火墙术/火环术 (Wall of Fire/Circle of Fire)
+#### 火墙术/火环术
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 3，法师 3 | **施法时间：** 2 动作 |
-| **领域：** ?? | **持续时间：** 见下文 |
-| **消耗：** 3，每额外增加一级强度 +1 | **射程：** 见下文 |
-| **范围：** 见下文 | **抵抗：** 见下文 |
+| **位阶:** 牧师 3, 法师 3 | **施法时间:** 2 行动 |
+| **领域:** ?? | **持续时间:** 见下方 |
+| **消耗:** 3, +1/额外强度 | **射程:** 见下方 |
+| **范围:** 见下方 | **抵抗:** 见下方 |
 
-此法术允许施法者召唤出一道炽热的火墙或火环（施法时自选），颜色为紫色或红蓝色。如果维持专注，法术持续时间保持有效；一旦停止专注，法术持续时间为每强度 1 回合。具体细节根据类型分类如下：
+此法术允许施法者召唤出一堵火墙或一个火环（施法时自选），颜色呈现紫色或蓝红色。若保持专注，法术持续时间有效；若停止专注，则每强度持续 1 回合。细节根据类型分类如下：
 
-**火墙术：** 此版本法术创造出一道静止的火墙，每强度长度为 20 英尺。无论最终强度如何，火墙高度可在 10 至 20 英尺之间自选。火墙的射程为 180 英尺，且不能水平召唤。
+**火墙术：** 此版本法术创造一堵静止的火墙，每强度长 20 英尺。无论最终强度如何，火墙的高度可在施法时选择 10 到 20 英尺。火墙射程为 180 英尺，且不能水平召唤。
 
-**火环术：** 此版本法术在施法者周围创造出一道随其移动的火环。其半径为 10 英尺，每额外一级强度增加 5 英尺。无论最终强度如何，火环高度可在 10 至 20 英尺之间自选。火环必须环绕施法者，射程为 0。
+**火环术：** 此版本法术在施法者周围创造一个随其移动的火环。其半径为 10 英尺，每高于 1 级的额外强度增加 5 英尺。无论最终强度如何，火环的高度可在施法时选择 10 到 20 英尺。火环必须围绕施法者，且射程为 0。
 
-背对施法者的火墙或火环一侧会散发出灼热的高温，对 10 英尺内的所有人造成每回合 1d6 伤害，对 20 英尺内造成 1d4 伤害。此伤害通常在回合结束时应用，然后进入下一回合。如果受害者在同一回合内占据两个热量区域，则应用较高的伤害。穿过火焰的人会受到 2d6 点伤害，每额外一级强度增加 1 点伤害。此伤害施加于每个命中部位，穿戴的盔甲不提供保护，但魔法护甲点或生物的天然盔甲可按常理减免伤害。成功的闪避抵抗检定允许受害者在法术施放的回合不受伤害，因为受害者试图从热浪中闪开或越过火焰。使用火焰的生物受到的伤害减半，使用寒冷的生物受到的伤害加倍。火焰有几率点燃易燃材料，几率等于造成的伤害 x 5%。有关更多信息，请参阅[火焰](0007_Game_System.md?id=fire-based-attacks)部分。
+背对施法者一侧的墙壁或圆环会散发灼热高温，对 10 英尺内所有目标每回合造成 1d6 伤害，对 20 英尺内造成 1d4 伤害。此伤害通常在回合结束时应用，随后进入下一回合。若受害者在单回合内同时占据两个热力区域，则取较大伤害应用。穿过火焰的人将受到 2d6 点伤害，若强度高于 1 级，则每增加一级额外增加 1 点伤害。该伤害作用于每个命中部位，穿戴的护甲无法提供保护，但魔法护甲点数或生物的天然护甲会如常减少伤害。若闪避抵抗掷骰成功，受害者可以在法术出现的当回合不受伤害，因为他们尝试潜水躲避热力或穿过火焰。火属性生物受到一半伤害，冰属性生物受到双倍伤害。火焰有等于（伤害数值 x 5%）的几率点燃易燃材料。更多信息请参阅[火](0007_Game_System.md?id=fire-based-attacks)一节。
 
 ---
-#### 水下呼吸 (Water Breathing) \(R\)
+#### 水下呼吸 \(R\)
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 2，法师 2 | **施法领域：** 元素（水、气） | **持续时间：** 6 小时/强度，+1d4 小时 |
-| **消耗：** 3，每额外增加一级强度 +1 | **射程：** 接触 |
-| **范围：** 1 个或多个目标 | **抵抗：** 无 |
+| **位阶:** 牧师 2, 法师 2 | **施法时间:** 2 行动 |
+| **领域:** 元素（水、气） | **持续时间:** 6 小时/强度，+1d4 小时 |
+| **消耗:** 3, +1/额外强度 | **射程:** 接触 |
+| **范围:** 1 或更多目标 | **抵抗:** 无 |
 
-此法术赋予施法者或其他目标在法术持续时间内呼吸水的能力。在施法过程中，可以接触多个受术者使其获得水下呼吸的效果。在这种情况下，持续时间由受术者人数平分。水下呼吸术的确切持续时间不可预测，应由游戏主持人投掷决定，因为受该效果影响的人不应确切知道还剩下多少时间。此法术的逆向法术“空气呼吸”允许无法呼吸氧气的生物进行呼吸。无论法术的变体如何，呼吸其天然元素的能力仍被保留，因此鱼类在法术持续时间内既能在陆地上呼吸，也能在水下呼吸。
+此法术赋予施法者或其他受术者在法术持续时间内在水中呼吸的能力。施法时，可以触碰多名受术者使其获得水下呼吸的好处。在这种情况下，持续时间由受术者人数平分。水下呼吸法术的确切持续时间是不可预知的，应由游戏主持掷骰决定，受影响者不应确切获知剩余时间。此法术的逆转法术为“空气呼吸”，允许原本无法呼吸氧气的生物进行呼吸。无论法术变体如何，呼吸自身自然元素的能力始终保留，因此鱼类在法术持续时间内既能在陆地上呼吸，也能在水下呼吸。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 6 小时 + 1d4 小时总计 |
-| 2 | 4 | 12 小时 + 1d4 小时总计 |
-| 3 | 5 | 18 小时 + 1d4 小时总计 |
-| 4 | 6 | 24 小时 + 1d4 小时总计 |
-| +1 | +1 | 继续增长 |
+| 1 | 3 | 总计 6 小时 +1d4 小时 |
+| 2 | 4 | 总计 12 小时 +1d4 小时 |
+| 3 | 5 | 总计 18 小时 +1d4 小时 |
+| 4 | 6 | 总计 24 小时 +1d4 小时 |
+| +1 | +1 | 持续递增 |
 
 ---
-#### 蛛网术 (Web)
+#### 蛛网术
 
 (塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 1 | **施法时间：** 1 动作 |
-| **领域：** 无 | **持续时间：** 20 分钟/强度 |
-| **消耗：** 3，每额外增加一级强度 +1 | **射程：** 30 英尺/强度 |
-| **范围：** 20 英尺半径 | **抵抗：** 闪避，外加见下文 |
+| **位阶:** 法师 1 | **施法时间:** 1 行动 |
+| **领域:** 无 | **持续时间:** 20 分钟/强度 |
+| **消耗:** 3, +1/额外强度 | **射程:** 30 英尺/强度 |
+| **范围:** 20 英尺半径 | **抵抗:** 闪避，另见下方 |
 
-此法术会导致长长的黏性蛛丝从施法者手中射出，这些蛛丝可以锚定在天花板到地板，或墙壁到墙壁之间，以阻塞通道或阻碍前进。它们也可以直接喷射在对手身上以缠绕目标。
+此法术会导致长条状的粘性网从施法者手中射出，可将其锚定在地板与天花板之间，或墙壁之间，用以阻挡通道或阻碍前进。它也可以直接喷洒在对手身上以困住他们。
 
-假设目标有逃脱蛛网的空间，一次成功的闪避检定可以将目标置于影响范围之外；但这需要消耗一个行动点。抵抗检定失败会导致受害者被固定，且 1d3 个命中部位被缠绕。如同[缠绕](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle)特殊效果一样，被缠绕的部位无法使用。被缠绕的手臂无法使用其所持之物，被困住的胸部、腹部或腿部会使所有身体技能检定难度增加一个等级（用于尝试挣脱的强壮检定除外），被缠绕的头部会导致窒息，详情见[窒息](0007_Game_System.md?id=asphyxiation)。
+假设目标有逃离蛛网的空间，一次成功的闪避掷骰可将目标置于影响范围之外；但这需要消耗一个行动点数。抵抗掷骰失败则 victim 被困住，并有 1d3 个命中部位被缠绕。类似于[纠缠](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle)特殊效果，被网住的部位无法使用。被缠住的手臂无法使用手中的物品；被网住的胸部、腹部或腿部会使所有身体技能掷骰难度等级增加一级（用于尝试挣脱的蛮力掷骰除外）；被缠住的头部会导致窒息，详情见[窒息](0007_Game_System.md?id=asphyxiation)。
 
-在随后的回合中，受害者可以花费一个行动点尝试从蛛网中挣脱。魔法蛛网极其强韧且黏性极高，拥有 6 点护甲值和等同于法术强度 3 倍的生命值。尝试挣脱需要受害者在强壮 (Brawn) 对抗蛛网黏性（等同于施法者的奥术施法技能）的对抗检定中获胜。如果失败，目标仍被固定，无法仅凭力量挣脱。尝试切割会使使用的工具或武器暴露在同样的过程中。尽管普遍认为蛛网不可燃，但角色可以通过火焰烧毁蛛网，使蛛丝萎缩（火焰伤害忽略蛛网的护甲点）。
+在下一回合，受害者可以花费一个行动点数尝试从蛛网中挣脱。魔法蛛网极其强韧且粘稠，拥有 6 点护甲值和等于法术强度 3 倍的生命值。尝试挣脱需要受害者在蛮力对抗蛛网粘性（等于施法者的秘法施法技能）的对抗掷骰中获胜。若失败，目标保持固定，无法仅凭力量挣脱。尝试割开蛛网会使所用的工具或武器暴露在同样的过程中。尽管普遍存在误解，蛛网不可燃，但角色可以通过使用火焰让丝线收缩来缓慢烧出一条路（火焰伤害无视蛛网的护甲值）。
 
 | 强度 | 消耗 | 可变效果 |
 | :-: | :-: | :-- |
-| 1 | 3 | 20 分钟；30 英尺射程；6 点护甲，3 点生命值 |
-| 2 | 4 | 40 分钟；60 英尺射程；6 点护甲，6 点生命值 |
-| 3 | 5 | 60 分钟；90 英尺射程；6 点护甲，9 点生命值 |
-| 4 | 6 | 80 分钟；120 英尺射程；6 点护甲，12 点生命值 |
-| +1 | +1 | 继续增长 |
+| 1 | 3 | 20 分钟；30 英尺射程；6 护甲，3 生命值 |
+| 2 | 4 | 40 分钟；60 英尺射程；6 护甲，6 生命值 |
+| 3 | 5 | 60 分钟；90 英尺射程；6 护甲，9 生命值 |
+| 4 | 6 | 80 分钟；120 英尺射程；6 护甲，12 生命值 |
+| +1 | +1 | 持续递增 |
 
 ---
-#### 祈愿术 (Wish)
+#### 祈愿术
 
-(咒法系，塑能系)
+(召唤系，塑能系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 5 | **施法时间：** 见下文 |
-| **领域：** 无 | **持续时间：** 见下文 |
-| **消耗：** 3，1 点或更多 EXP | **射程：** 无限 |
-| **范围：** 见下文 | **抵抗：** 见下文 |
+| **位阶:** 法师 5 | **施法时间:** 见下方 |
+| **领域:** 无 | **持续时间:** 见下方 |
+| **消耗:** 3, +1 或更多经验值 | **射程:** 无限 |
+| **范围:** 见下方 | **抵抗:** 见下方 |
 
-祈愿术可以永久且显著地改变现实。要施放此法术，施法者必须花费 3 点魔法值以及 1 点或更多 EXP 掷骰（具体取决于期望结果）。在一个月内连续施放祈愿术，EXP 支出将翻倍。施法时间通常用于口头陈述祈愿的具体细节。完成后，施法者会遭受等同于所消耗 EXP 的疲劳损失，并老化其正常预期寿命的 5%（对于人类来说，即五年）。请参阅[衰老](0007_Game_System.md?id=aging)获取亚人种族的平均预期寿命。
+祈愿术能以永久且重大的方式改变现实。施展此法术，魔法使用者必须消耗 3 魔法点数以及根据预期结果消耗 1 点或更多经验值（EXP）。在 1 个月内连续施展祈愿术，经验值消耗量通常会加倍。施法时间通常用于口头详细说明祈愿的具体内容。施法完成后，施法者会遭受等于所消耗经验值的疲劳损失，并衰老其正常寿命的 5%（对于人类，即五年）。请参阅[衰老](0007_Game_System.md?id=aging)获取半人类种族的平均预期寿命。
 
-祈愿的结果应按字面理解，并由游戏主持人解释。贪婪的欲望通常会以悲剧收场。怀有贪婪意图的祈愿有 10% 的几率以某种方式反噬。例如，祈愿获得财富可能会将其从当地领主或国王的宝库中传送过来。除非神明本身发出了该祈愿，否则祈愿术无法取消神性实体的法令。
+祈愿术的结果应按字面意思理解，并由游戏主持自由解读。贪婪的愿望通常会带来糟糕的结局。带有贪婪意图的祈愿有 10% 的几率以某种方式反噬。例如，祈求财富可能会将其从当地领主或国王的金库中传送而来。除非神祇类实体自身发出此祈愿，否则祈愿术无法取消其颁布的法令。
 
-以下是一些祈愿示例及所需的 EXP 支出。
+以下是一些祈愿实例及所需的经验值消耗。
 
-##### 祈愿示例与成本
+##### 祈愿实例及消耗
 
-| 祈愿内容 | EXP 消耗 |
+| 祈愿内容 | 经验值消耗 |
 | :-- | :-: |
-| 反转通常需要祈愿术才能处理的特定效果。 | 1 EXP |
-| 复制任何其他等级 1 或 2 的奥术或神术效果（强度 15 或等效）。 | 1 EXP \* |
-| 复制任何其他等级 3 或 4 的奥术或神术效果（强度 15 或等效）。 | 2 EXP \* |
-| 复制任何其他等级 5 的奥术或神术效果（强度 15 或等效，改变现实除外）。 | 3 EXP \* |
-| 使某种魔法或超自然效果永久化。 | 3 EXP |
-| 使死去的生物复活（无论死亡日期或残骸是否存在），且无不良影响。 | 5 EXP |
-| 将丢失或残疾的肢体恢复至完全健康。 | 2 EXP |
-| 治愈生物的所有重大或轻微伤势。 | 1 EXP |
-| 永久提升或降低某项属性 1 点（最大 +/-5）。 | \*\* |
-| 永久提升或降低某项技能 10%（最大 +/-50%）。 | \*\* |
-| 将自身及最多 7 名盟友传送到任何位置（无论距离）。 | 1 EXP |
-| 将自身及最多 7 名盟友传送到另一个位面。 | 2 EXP |
+| 逆转某些通常需要祈愿术才能处理的效果。 | 1 EXP |
+| 复制任何其他 1 级或 2 级秘法或神圣法术的效果，强度为 15 或同等效力。 | 1 EXP \* |
+| 复制任何其他 3 级或 4 级秘法或神圣法术的效果，强度为 15 或同等效力。 | 2 EXP \* |
+| 复制任何其他 5 级秘法或神圣法术的效果，强度为 15 或同等效力（改写现实除外）。 | 3 EXP \* |
+| 使魔法或超自然效果永久化。 | 3 EXP |
+| 将已死生物复活，不限死亡日期或遗骸状况，无任何不良影响。 | 5 EXP |
+| 恢复残缺肢体至完全健康。 | 2 EXP |
+| 治愈生物的所有重大及轻微伤势。 | 1 EXP |
+| 永久提高或降低一个特征值 1 点（最大 +/-5）。 | \*\* |
+| 永久提高或降低一项技能 10%（最大 +/-50%）。 | \*\* |
+| 将自己和最多 7 名盟友传送至其他地点，不限距离。 | 1 EXP |
+| 将自己和最多 7 名盟友传送至另一个位面。 | 2 EXP |
 | 创造价值不超过 50,000 金币的临时非魔法硬币、物品或财产。物品持续时间为每强度一周。 | 1 EXP |
 | 创造价值不超过 100,000 金币的临时非魔法硬币、物品或财产。物品持续时间为每强度一周。 | 2 EXP |
 | 创造价值不超过 10,000 金币的永久非魔法硬币、物品或财产。 | 2 EXP |
 | 创造价值不超过 50,000 金币的永久非魔法硬币、物品或财产。 | 3 EXP |
 | 创造价值不超过 100,000 金币的永久非魔法硬币、物品或财产。 | 4 EXP |
-| 创造一个临时的 1 或 2 等级魔法物品。物品持续时间为每强度 1 小时。 | 1 EXP |
-| 创造一个临时的 3 等级魔法物品。物品持续时间为每强度 1 小时。 | 2 EXP |
-| 创造一个临时的 4 等级魔法物品。物品持续时间为每强度 1 小时。 | 3 EXP |
-| 创造一个永久的 1 或 2 等级魔法物品。 | 5 EXP |
-| 杀害另一个生物。 | 5 EXP\*\*\* |
-| 残废敌人的一个身体部位，使其完全负伤。仅限腹部、腿部或手臂。 | 2 EXP |
-| 对一个身体部位造成严重创伤，将其生命值降至 -1。仅限腹部、腿部或手臂。 | 1 EXP |
-| 将地形重塑为施法者想象中的任何地貌。每重塑 100 英尺立方的物质需要 1 回合。 | 每 100 英尺立方地形 1 EXP |
+| 创造一个临时的 1 级或 2 级魔法物品。物品持续时间为每强度 1 小时。 | 1 EXP |
+| 创造一个临时的 3 级魔法物品。物品持续时间为每强度 1 小时。 | 2 EXP |
+| 创造一个临时的 4 级魔法物品。物品持续时间为每强度 1 小时。 | 3 EXP |
+| 创造一个永久的 1 级或 2 级魔法物品。 | 5 EXP |
+| 杀死另一个生物。 | 5 EXP\*\*\* |
+| 残害敌人的一个身体位置，使其数值完全变为负数。仅限腹部、腿部或手臂。 | 2 EXP |
+| 对一个身体位置造成严重伤口，使其生命值变为 -1。仅限腹部、腿部或手臂。 | 1 EXP |
+| 将地形重塑为施法者想象中的任何类型。每 100 英尺立方体材料的重塑需要 1 回合努力。 | 每 100 英尺立方体地形 1 EXP |
 
-_\* 除所复制效果本身的 EXP 要求外。_
+_\* 在复制效果所需的任何经验值要求之外。_
 
-_\*\* 每次连续的增加或减少均需累计 1 EXP 掷骰：第一次 1 EXP，第二次 2 EXP，第三次 3 EXP，第四次 4 EXP，第五次 5 EXP。这即使在不同的法师施放祈愿术的情况下也适用。_
+_\*\* 每次连续的提高或降低需要额外消耗累积的经验值：第一次 1 EXP，第二次 2 EXP，第三次 3 EXP，第四次 4 EXP，第五次 5 EXP。即使由不同的魔法使用者施展祈愿术，此规则同样适用。_
 
-_\*\*\* 这需要目标进行意志对意志的抵抗检定。失败意味着祈愿术虽然成功，但却是对许愿者欲望的歪曲解释。例如，施法者可能被传送到受害者已经死去的未来，但许愿者的所有朋友和爱人也都已不在人世。_
+_\*\*\* 这需要进行意志力对抗意志力的抵抗掷骰，对抗目标受害者。失败意味着祈愿术仍会成功，但会成为施愿者意图的扭曲解释。例如，施法者可能被传送到受害者已经死亡的未来，但施愿者的所有朋友和亲人也都已不在人世。_
 
 ---
-#### 法师之眼 (Wizard Sight)
+#### 巫师之眼
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 法师 3 | **施法时间：** 1 分钟 |
-| **领域：** 无 | **持续时间：** 1 分钟/强度 |
-| **消耗：** 1/强度 | **射程：** 0 |
-| **范围：** 见下文 | **抵抗：** 无 |
+| **位阶:** 法师 3 | **施法时间:** 1 分钟 |
+| **领域:** 无 | **持续时间:** 1 分钟/强度 |
+| **消耗:** 1/强度 | **射程:** 0 |
+| **范围:** 见下方 | **抵抗:** 无 |
 
-此法术创造一个小型的隐形“眼睛”，法师可以在法术持续时间内通过它观察。这只眼睛可以移动到队伍前方，或者用于观察拐角和房间，移动速度为每回合 20 英尺（每分钟 240 英尺，仅用于扫描“明显”威胁或感兴趣的物品）。这通常只延伸到地板和低处墙壁。如果尝试进行更彻底的扫描（同时检查完整墙壁和天花板），移动速度将降低至每回合 10 英尺（每分钟 120 英尺）。如有必要，游戏主持人可以自由允许施法者进行感知检定，以识别视觉异常。眼睛是实体的，无法穿过固体物质，拥有 60 英尺的正常视觉和 10 英尺的红外视觉。施法者必须在整个持续时间内对眼睛保持专注，否则它将保持静止，直到重新建立专注。任何通常影响施法者的凝视攻击仍然正常生效；然而，就失明、黑暗术等效果而言，眼睛被视为独立于施法者。为了通过狭小开口，眼睛大小不超过 1 英寸，SIZ 为 1。
+此法术创造出一只小型的隐形“眼睛”，魔法使用者可在法术持续时间内通过它观察。若仅扫描“显而易见”的威胁或感兴趣的物品，该眼睛可以先于队伍移动或派去查看拐角处和房间，移动速率为每回合 20 英尺（每分钟 240 英尺）。这通常仅限于地板和下墙面。如果试图进行更彻底的扫描（同时检查整个墙壁和天花板），其移动速率将降低至每回合 10 英尺（每分钟 120 英尺）。游戏主持可根据需要，在发现视觉异常方面允许施法者进行感知掷骰。这只眼睛是实体的，无法穿透固体物质，且拥有 60 英尺内的正常视觉和 10 英尺内的红外视觉。施法者必须在整个持续时间内对该眼睛保持专注，否则它将保持静止，直到再次建立专注。任何通常会影响施法者的凝视攻击仍会如常影响施法者；然而，在应对失明、黑暗法术等方面，该眼睛被视为独立于施法者。为了通过狭小的开口，眼睛的大小不超过 1 英寸，体型（体型）为 1。
 
 ---
-#### 回归术 (Word of Recall)
+#### 回归术
 
 (变化系)
 
 | | |
 | :-- | :-- |
-| **等级：** 牧师 4 | **施法时间：** 1 动作 |
-| **领域：** 召唤 | **持续时间：** 见下文 |
-| **消耗：** 3，每额外增加一级强度 +1 | **射程：** 0 |
-| **范围：** 施法者自身 | **抵抗：** 无 |
+| **位阶:** 牧师 4 | **施法时间:** 1 行动 |
+| **领域:** 召唤 | **持续时间:** 见下方 |
+| **消耗:** 3, +1/额外强度 | **射程:** 0 |
+| **范围:** 施法者自身 | **抵抗:** 无 |
 
-施放此法术后，牧师会立即传送到预先指定的避难所，以及一个半径不超过 10 英尺的指定到达点。实际传送射程没有限制，包括跨越多个位面。在同一位面内，传送不会发生失误；然而，跨越一个位面即有 91-00% 的大失败几率，跨越两个位面有 81-00% 的大失败几率，以此类推。这会取代施法者正常的失误几率。跨越位面时的大失败意味着牧师将永久迷失。同一位面内的失误遵循常规规则。
+施展此法术时，牧师会立即传送至预先指定的庇护所，以及一个半径不超过 10 英尺的指定到达点。传送的实际射程没有限制，包括在多个位面之间。在单一平面内，发生事故的几率极低，然而，每跨越一个位面都会带来 91-00% 的大失误几率，两个位面则是 81-00%，以此类推。这取代了施法者正常的大失误几率。跨越位面时发生大失误意味着牧师将永久迷失。在单一平面内的大失误遵循正常规则。
 
-除自身及其携带的装备外，牧师每强度可额外传送 3 件物品，每件物品的大小不超过 SIZ/9 个“单位”。额外传送的物资可以是财宝、装备或生物。然而，传送生物时，法术必须以足以覆盖其所携带装备的强度等级来施放。
+除了自己及其携带的装备外，牧师每强度可以额外传送 3 件物体，每件物体不大于 体型/9 个“单位”。额外传送的材料可以是宝藏、装备或活体生物。然而，传送生物时必须以足够的法术强度水平施展，以涵盖其携带的所有装备。
