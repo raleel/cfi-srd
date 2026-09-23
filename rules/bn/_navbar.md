@@ -1,4 +1,4 @@
-- [নীড়পাতা](README.md)
-- [কিভাবে করবেন](HowTo.md)
+- [হোম](/)
+- [কীভাবে খেলবেন](HowTo.md)
 - [পরিবর্তনের তালিকা](Changelog.md)
-- [গিটহাব](https://github.com/raleel/cfi-srd)
+- [GitHub](https://github.com/raleel/cfi-srd)

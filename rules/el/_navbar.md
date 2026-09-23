@@ -1,4 +1,4 @@
-- [Αρχική](README.md)
-- [Οδηγίες](HowTo.md)
-- [Ιστορικό αλλαγών](Changelog.md)
+- [Αρχική](/)
+- [Πώς να παίξετε](HowTo.md)
+- [Αρχείο αλλαγών](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

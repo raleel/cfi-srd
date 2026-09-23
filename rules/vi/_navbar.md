@@ -2,5 +2,3 @@
 - [Hướng Dẫn](HowTo.md)
 - [Nhật Ký Thay Đổi](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
-
-<!-- retranslate-trigger -->

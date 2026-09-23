@@ -1,4 +1,4 @@
-- [मुख्यपृष्ठ](README.md)
-- [कसे करावे](HowTo.md)
-- [बदलांची नोंद](Changelog.md)
+- [मुख्यपृष्ठ](/)
+- [कसे खेळायचे](HowTo.md)
+- [बदल सूची](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

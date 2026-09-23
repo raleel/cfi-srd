@@ -1,4 +1,4 @@
-- [Početna](README.md)
-- [Uputstvo](HowTo.md)
-- [Izmjene](Changelog.md)
+- [Početna](/)
+- [Kako igrati](HowTo.md)
+- [Evidencija izmjena](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

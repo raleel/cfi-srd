@@ -1,4 +1,4 @@
-- [Почетна](README.md)
-- [Како да](HowTo.md)
+- [Почетна](/)
+- [Како да се игра](HowTo.md)
 - [Дневник на промени](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

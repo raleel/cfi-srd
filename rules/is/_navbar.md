@@ -1,4 +1,4 @@
 - [Heim](/)
-- [Hvernig á að](HowTo.md)
+- [Hvernig á að spila](HowTo.md)
 - [Breytingaskrá](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

@@ -1,4 +1,4 @@
-- [Tahanan](README.md)
+- [Home](/)
 - [Paano](HowTo.md)
-- [Tala ng Pagbabago](Changelog.md)
+- [Changelog](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

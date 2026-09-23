@@ -1,4 +1,4 @@
-- [Kryefaqja](README.md)
-- [Si të bëni](HowTo.md)
+- [Ballina](/)
+- [Si të luani](HowTo.md)
 - [Regjistri i ndryshimeve](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

@@ -1,4 +1,4 @@
-- [Laman Utama](README.md)
-- [Cara-cara](HowTo.md)
+- [Utama](/)
+- [Cara Bermain](HowTo.md)
 - [Log Perubahan](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

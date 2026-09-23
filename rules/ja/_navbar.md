@@ -1,6 +1,4 @@
-- [Home](/)
-- [How To](HowTo.md)
-- [Changelog](Changelog.md)
+- [ホーム](/)
+- [遊び方](HowTo.md)
+- [更新履歴](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
-
-<!-- retranslate-trigger -->

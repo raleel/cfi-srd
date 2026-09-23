@@ -1,4 +1,4 @@
-- [ప్రారంభం](README.md)
-- [ఎలా చేయాలి](HowTo.md)
+- [హోమ్](/)
+- [ఎలా ఆడాలి](HowTo.md)
 - [మార్పుల జాబితా](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)

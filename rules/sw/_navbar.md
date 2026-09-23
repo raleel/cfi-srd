@@ -1,4 +1,4 @@
-- [Nyumbani](README.md)
-- [Jinsi ya Kufanya](HowTo.md)
-- [Mabadiliko](Changelog.md)
+- [Nyumbani](/)
+- [Jinsi ya Kucheza](HowTo.md)
+- [Orodha ya Mabadiliko](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
