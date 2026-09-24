@@ -1,535 +1,600 @@
-# 8. Fejezet: Harc
+# 8. fejezet: Harc
 
-A harc a szerepjátékok fontos eleme. Az erőszakos összecsapások ősidők óta a problémák rendezésének eszközei, legyen szó az ősellenségek közötti bosszúhadjáratról vagy a háborúk idején zajló seregek összecsapásáról. Mindazonáltal a harcnak nem feltétlenül kell véres halálig tartó küzdelemnek lennie. Egyes harci találkozások lehetnek sérülés nélküli lovagi párbajok, vagy akár könnyed kocsmai verekedések is. A _Classic Fantasy Imperative_ számos kifejezést használ a harc alapvető elemeinek magyarázatára. Ezeket a következő szakaszok részletezik, de áttekintésképpen az alábbiak:
+A harc a szerepjátékok egyik fontos eleme. Az erőszakos összecsapás mindig is a problémák megoldásának egyik módja volt, legyen szó ellenségek bosszúvezérelt küzdelméről vagy seregek csatájáról háború idején. Mindazonáltal a harcnak nem kell véres halálig tartó küzdelemnek lennie. Egyes harci találkozások lehetnek köpenyes-kardos párbajok, amelyek sérülés nélkül végződnek, vagy akár könnyed kocsmai verekedések is. A _Classic Fantasy Imperative_ számos kifejezést használ a harc alapvető elemeinek magyarázatára. Ezeket a következő szakaszok részletezik, de áttekintésként az alábbiak:
 
-- **Harcjártasság:** Fegyvercsoportok forgatásának képessége, amelyet a kultúra vagy a hivatás részeként tanulnak meg.
-- **Harcikörök:** Az idő nyilvántartását segítő, egyenként ötmásodperces szakaszok.
-- **Harcicselekedetek:** Azok a cselekedetek, amelyeket egy karakter egy Kör alatt végrehajthat egy Cselekvési Pont elköltésével.
-- **Fegyverméret:** Annak mértéke, mennyire nehéz hárítani egy adott fegyvert.
-- **Küzdelem:** Amikor a harcoló felek közvetlenül megüthetik egymást vagy megüthetik őket, a körülményektől függően.
-- **Különleges hatások:** Harci manőverek, amelyeket akkor lehet végrehajtani, ha az egyik harcoló fél fölénybe kerül.
+- **Harci képzettség:** Az egy csoportba tartozó fegyverek forgatásának képessége, amelyet egy kultúra vagy szakma részeként sajátítanak el.
+- **Harcikörök:** Könyvelési időegységek, egyenként öt másodperc.
+- **Harci cselekedetek:** Azok a lehetséges tevékenységek, amelyeket egy karakter egy kör alatt végrehajthat Akciópont elköltésével.
+- **Fegyverméret:** Mennyire nehéz hárítani egy adott fegyvert.
+- **Küzdelem:** Amikor a harcosok képesek közvetlenül megütni egy ellenfelet, vagy megüthetik őket, a körülményektől függően.
+- **Különleges hatások:** Harci manőverek, amelyeket akkor hajthat végre egy harcos, ha felülkerekedik.
 
 ---
-## Harcjártasság
+## Harci képzettség
 
-A Harcjártasság a Kategória szerint összetartozó fegyverek „csomagját” jelenti, ami szükségtelenné teszi az egyes fegyverek külön-külön történő megtanulását.
+A harci képzettség több, osztály szerint kapcsolódó fegyver „csomagját” jelenti, ami elkerülhetővé teszi az egyes fegyverek külön-külön történő megtanulását.
 
-A Harcjártasság legfontosabb szempontja, hogy a karakter megtanulja az adott jártasságba tartozó összes fegyvert használni, külön-külön és kombinálva is, így szükség esetén felcserélheti őket. A harci kiképzés nem csupán egy adott fegyver vagy fegyverek legjobb körülmények közötti használatára összpontosít, hanem kiterjed arra is, mi a teendő súlyos hátrány esetén. Az ilyen keresztképzés elsődleges része a harcos felkészítésének a csatatér előre nem látható eseményeire, ahol a fegyvertörés vagy a lefegyverzés mindig potenciális lehetőség.
+A harci képzettség legfontosabb szempontja az, hogy a karakter megtanulja használni a képzettségbe tartozó minden fegyvert, egyenként és kombinációban is, így szükség esetén felcserélheti őket. A harci kiképzés nem csupán egy adott fegyver vagy fegyverek legjobb körülmények közötti használatára összpontosít, hanem kiterjed arra is, mit kell tenni, ha súlyos hátrányba kerül a harcos. Az ilyen keresztképzés elsődleges része a harcos felkészítésének a csatatér kiszámíthatatlan eseményeire, ahol a fegyvertörés vagy a lefegyverzés mindig potenciális lehetőség.
 
-Minden karakterosztály kínál kiképzést a saját Harcjártasságában. Ez állhat néhány fegyverből, mint a varázsló esetében, vagy lehet átfogó, magában foglalva az összes fegyvert és pajzsot, mint a harcosnál.
+Minden karakterosztály kínál kiképzést a harci képzettségében. Ez lehet néhány fegyver, mint a mágus esetében, vagy mindent átfogó, amely az összes fegyvert és pajzsot tartalmazza, mint a harcosnál.
 
 ---
 ## Harc menete
 
-A harc zsigeri természetének hangsúlyozása érdekében a küzdelmet csapásról csapásra követjük nyomon. A nyilvántartás megkönnyítése érdekében a harcok egyenként öt másodperces Harcikörökre oszlanak. Ez idő alatt a harcoló felek közelharci támadásokat hajthatnak végre vagy védekezhetnek azok ellen, manőverezhetnek a harcba vagy abból kifelé, lőhetnek vagy dobhatnak távolsági fegyverrel, és így tovább. A való élethez hasonlóan a legtöbb harci összecsapás – amint elkezdődik – percek helyett másodpercek alatt lezajlik. Játéktechnikailag ez azt jelenti, hogy több Harcikör (általában három vagy kevesebb) telik el, hacsak a résztvevők vissza nem vonulnak, hogy esetleg újraindítsák a Kezdeményezést, újraértékeljék taktikai helyzetüket, vagy egyszerűen pihenjenek egy pillanatot az újbóli összecsapás előtt. Csak a jól kiegyenlített ellenfelek vagy ellenfélhullámok közötti harcok tartanak általában tovább.
+Hogy hangsúlyozzuk a harc zsigeri természetét, a küzdelmet csapásról csapásra követjük nyomon. A könyvelés megkönnyítése érdekében a harcokat ötmásodperces harcikörökre osztjuk. Ez idő alatt a harcosok közelharci támadásokat hajthatnak végre vagy védekezhetnek ellenük, manőverezhetnek a harcba vagy abból ki, távolsági fegyverrel tüzelhetnek vagy dobhatnak, és így tovább. A való élethez hasonlóan a legtöbb harci összecsapás – miután elkezdődött – másodpercek, nem pedig percek kérdése. Játéktechnikai értelemben ez több harcikört (általában hármat vagy kevesebbet) jelent, hacsak a résztvevők vissza nem vonulnak, hogy esetleg újraindítsák a Kezdeményezést, felmérjék taktikai helyzetüket, vagy egyszerűen csak rövid pihenőt tartsanak az újbóli összecsapás előtt. Csak a jól kiegyenlített ellenfelek vagy ellenfél-sorozatok közötti küzdelmek tartanak tovább.
 
-A Harcikörök több fontos kifejezést használnak:
+A harcikörök számos fontos kifejezést használnak:
 
-- **Kezdeményezés:** A Cselekedetek sorrendje jelzi, ki mikor cselekszik a Harcikör alatt. A Játékmester a legmagasabbtól a legalacsonyabb Kezdeményezési értékig számol vissza, így minden résztvevőnek esélye van cselekedni, amikor eljön a sorszáma.
-- **Cselekedetek (Turns):** Minden 5 másodperces Harcikör alatt minden résztvevőnek lehetősége van egy vagy több Cselekedetre, attól függően, hány Cselekvési Ponttal rendelkezik, és hogyan használja azokat. A saját Cselekedete során a résztvevők egy Harcicselekedetet hajtanak végre, amely magában foglal egy deklarációt, esetleges mozgást, minden szükséges dobókockás dobást (beleértve a Reakciókat is), és a Cselekedet feloldását. Ha bármely résztvevőnek maradt Cselekvési Pontja, a játékosok mindegyike tehet újabb Cselekedetet a Kezdeményezési sorrendben. Amint már nem maradt Cselekvési Pont, vagy a megmaradt pontokat Reakciókra tartogatják, a játék a következő Harcikörrel folytatódik.
+- **Kezdeményezés:** A cselekvési sorrend jelzi, hogy ki mikor cselekszik egy harcikör során. A Játékmester a legmagasabb Kezdeményezés-értéktől a legalacsonyabbig számol vissza, így minden résztvevőnek lehetősége van cselekedni, amikor eléri a száma.
+- **Cselekvések (Turns):** Minden 5 másodperces harcikör alatt minden résztvevőnek lehetősége van egy vagy több cselekvésre, a birtokukban lévő Akciópontok számától és azok felhasználásától függően. Cselekvésük során a résztvevők végrehajtanak egy Harci cselekedetet, amely magában foglal egy deklarációt, lehetséges mozgást, minden szükséges dobókockás dobást (beleértve a Reakciókat is) és a cselekedet felbontását. Ha bármely résztvevőnek maradt Akciópontja, a játékosok Kezdeményezési sorrendben ismét cselekedhetnek. Amint nem marad több Akciópont, vagy a maradékot Reakciókra tartogatják, a játék a következő harcikörrel folytatódik.
 
-Minden kifejezést részletesebben ismertetünk alább.
+Minden kifejezést részletesebben írunk le alább.
 
 ### Kezdeményezés
 
-A Kezdeményezés határozza meg a résztvevők Cselekedeteinek sorrendjét egy Harcikörben. A harc kezdetén dobják, és ez határozza meg, mikor cselekszik az egyes karakter. Hacsak nem történik valami, ami megváltoztatja a helyzetet – például bizonyos Harcicselekedetek vagy Különleges hatások –, a Kezdeményezés játékban marad, amíg újra nem kell dobni.
+A Kezdeményezés határozza meg a résztvevők cselekvési sorrendjét egy harcikörben. A harc kezdetén dobják, és ez határozza meg, mikor cselekszik az egyes karakterek. Hacsak nem történik valami a helyzet megváltoztatására, mint például bizonyos Harci cselekedetek vagy Különleges hatások, a Kezdeményezés játékban marad, amíg újra nem kell dobni.
 
-A Kezdeményezést minden résztvevő 1d10 dobásával és a Kezdeményezés Módosítójának hozzáadásával számítják ki. Aki a legmagasabb eredményt érte el, az cselekszik először, majd a második legmagasabb, és így tovább. Amikor két vagy több résztvevő eredménye döntetlen, a magasabb ÜGY-gel rendelkező cselekszik először. Ha ez is döntetlen, mindketten dobjanak egy kockával, és a magasabb dobású cselekszik előbb.
+A Kezdeményezést minden résztvevő úgy számítja ki, hogy dob 1d10-zel, és hozzáadja a Kezdeményezés-módosítóját. Aki a legmagasabb eredményt érte el, az cselekszik először, őt követi a második legmagasabb, és így tovább. Amikor két vagy több résztvevő egyforma pontszámot ér el, az cselekszik először, akinek magasabb az ÜGY értéke. Ha ez még mindig döntetlen, mindketten dobjanak egy kockával, és a magasabb dobással rendelkező előzi meg a másikat.
 
-### Harci cselekedetek
+### Cselekvések a harcban
 
-A Kezdeményezés meghatározása után a résztvevők több Harcicselekedetet is végrehajthatnak minden Harcikörben. Minden kezdő karakter 2 Cselekvési Pontot kap körönként, amikből a rangjuk emelkedésével egyre több lesz, de a cselekvési lehetőségeik attól függenek, hogy a cselekedet Proaktív vagy Reaktív-e. A Proaktív cselekedetek csak a karakter saját Cselekedete alatt kísérelhetők meg; vagyis a Kezdeményezése során. A Proaktív cselekedetek azok, amelyekben a karakter a kezdeményező, például egy támadás végrehajtása fegyverrel.
+Miután a Kezdeményezést meghatározták, a résztvevőknek lehetőségük van több Harci cselekedetet végrehajtani minden harcikörben. Minden kezdő karakter körönként 2 Akcióponttal rendelkezik, és a Rang emelkedésével egyre többet szerezhetnek, de a cselekvés korlátozott aszerint, hogy a cselekedet Proaktív vagy Reaktív. Proaktív cselekedeteket csak a karakter saját cselekvési idejében lehet megkísérelni; azaz a Kezdeményezése alatt. A proaktív cselekedetek azok, amelyekben a karakter a kezdeményező, például támadás végrehajtása fegyverrel.
 
-A Reaktív cselekedetek azok, amelyeket egy karakter az ellene irányuló cselekedet elhárítására vagy kivédésére tesz. Fenyegetésenként csak egy reakciókísérlet engedélyezett, például egy támadás hárításának megkísérlése.
+A Reaktív cselekedetek azok, amelyeket egy karakter azért tesz, hogy elhárítson vagy ellenálljon egy ellene irányuló cselekedetnek. Minden fenyegetésre csak egy reakciókísérlet engedélyezett, például egy támadás hárításának megkísérlése.
 
-A fel nem használt Cselekvési Pontok nem vihetők át a következő Körre.
+A fel nem használt Akciópontok nem vihetők át a következő körre.
 
 ---
-## Harcicselekedetek
+## Harci cselekedetek
 
-A Harcicselekedetek azok a tevékenységek, amelyek a csata során végrehajthatók. Fegyver előhúzása, varázslat elmondása vagy támadás elől való elvetődés mind Harcicselekedetre példa. A legtöbb a harc elemeivel foglalkozik, de néhány a varázslatok és fegyverek birodalmán kívüli tevékenységekhez kapcsolódik.
+A Harci cselekedetek azok a tevékenységek, amelyeket a csata során végre lehet hajtani. Fegyver előhúzása, varázslat elmondása vagy kitérés egy támadás elől mind példa a Harci cselekedetekre. A legtöbb a harc elemeivel kapcsolatos, de némelyik a varázslatok és fegyverek birodalmán kívüli tevékenységekre vonatkozik.
 
-Mint korábban említettük, azt, hogy egy karakter milyen gyakran cselekedhet körönként, az elérhető Cselekvési Pontjai korlátozzák. Ezeket minden Harcikör folyamán költik el a különféle Harcicselekedetek végrehajtására. Amint egy harcoló fél elköltötte a Cselekvési Pontjait, az adott Kör hátralévő részében már nem cselekedhet, és meg kell várnia, amíg a pontjai a következő elején visszaállnak.
+Ahogy korábban említettük, hogy egy karakter milyen gyakran cselekedhet körönként, azt a rendelkezésre álló Akciópontjai korlátozzák. Ezeket minden harcikör során különféle Harci cselekedetek végrehajtására költik el. Amint egy harcos Akciópontjai elfogytak, a továbbiakban nem cselekedhet az adott kör hátralévő részében, és meg kell várnia, amíg pontjai a következő kör kezdetén visszaállnak.
 
-Hacsak másként nincs meghatározva, bármely Harcicselekedet (kivéve az „Ingyenes” cselekedeteket) egy Cselekvési Pontba kerül. A harcoló feleknek tehát alaposan meg kell fontolniuk, hogyan és mikor használják fel a Cselekvési Pontjaikat. Olyan agresszíven vagy defenzíven cselekedhetnek, ahogy csak akarnak, dinamikusan reagálva a harc változó körülményeire.
+Hacsak nincs másképp meghatározva, minden Harci cselekedet (kivéve a "Szabad" cselekedeteket) egy Akciópontba kerül. Ezért a harcosoknak alaposan meg kell fontolniuk, hogyan és mikor használják fel Akciópontjaikat. Olyan agresszíven vagy védekezően cselekedhetnek, ahogy csak akarnak, dinamikusan reagálva a harc változó körülményeire.
 
 ---
 ### Proaktív cselekedetek
 
-Az alábbiak azok a tevékenységek, amelyeket egy karakter a saját Cselekedete során egy Cselekvési Pont elköltésével megkísérelhet. Ne feledd, hogy bizonyos cselekedetek, például a varázslás vagy az újratöltés, több Cselekedetet is igénybe vehetnek; minden Cselekedet saját Cselekvési Pontba kerül.
+Az alábbiak azok a tevékenységek, amelyeket egy karakter a cselekvési idejében megkísérelhet egy Akciópont elköltésével. Megjegyzendő, hogy egyes cselekedetek, mint a varázslás vagy az újratöltés, több cselekvési időt is igénybe vehetnek; minden cselekvési idő saját Akciópontba kerül.
 
-#### Támadás (Attack)
-A karakter megkísérelhet közelharci fegyverrel ütni vagy Távolsági fegyvert használni.
+#### Támadás
 
-#### Védekezés (Brace)
-A karakter szilárd állást vesz fel, és az elkövetkező támadás irányába dől. A Visszalökés vagy Ugró Támadások ellenállása szempontjából a karakter MÉ-je 50%-kal nagyobbnak számít. A Zúzás Különleges hatás ellen a MÉ megduplázódik.
+A karakter megkísérelhet közelharci fegyverrel csapást mérni vagy távolsági fegyvert használni.
 
-#### Mágia használata (Cast Magic)
-A karakter megkísérelhet elmondani egy varázslatot, meghívni bizonyos faji vagy osztályképességeket, vagy előidézni valamilyen más mágikus hatást. Az összetett mágiák több Cselekedetet is igényelhetnek a varázslat befejezéséhez. A befejezés után a mágia a varázsló következő Cselekedetéig bármely pillanatban kibocsátható – ekkor későbbi hatás érdekében visszatartható, de ehhez a [Mágia Tartása](0008_Combat.md?id=hold-magic) Cselekedet (lásd alább) szükséges a későbbi kibocsátásra való felkészüléshez.
+#### Felkészülés (Brace)
 
-#### Távolság módosítása (Change Range)
-A karakter megkísérelhet közelebb kerülni egy ellenfélhez vagy visszavonulni tőle.
+A karakter szilárd állást vesz fel, és belerúg a közelgő támadás irányába. A Visszalökésnek vagy az Ugró támadásoknak való ellenállás szempontjából a karakter MÉR értéke 50%-kal nagyobbnak számít. A Zúzás (Bash) különleges hatás ellen a MÉR megduplázódik.
 
-#### Roham (Charge)
-A Roham cselekedet lehetővé teszi a karakter számára, hogy futó- vagy sprintsebességgel kerüljön küzdelmi távolságba, a roham lendületét felhasználva egy erőteljesebb közelharci támadáshoz. A [Rohamozást](0008_Combat.md?id=charging) részletesebben alább tárgyaljuk.
+#### Varázslás
 
-#### Késleltetés (Delay)
-A karakter egy vagy több Cselekedetet tartalékol annak érdekében, hogy később Reaktív cselekedeteket hajtson végre, mint például Megszakítás vagy Hárítás. A késleltetés Cselekvési Pont költségét a végül végrehajtott cselekedetek fedezik. Ha a késleltetett Cselekedetek nem kerülnek végrehajtásra a karakter következő Körében lévő Cselekedete előtt, akkor a karakter úgy tekintendő, hogy Passzolt, és a Cselekvési Pontok elvesznek.
+A karakter megkísérelhet elmondani egy varázslatot, előhívhat bizonyos faji vagy osztályképességeket, vagy előidézhet valamilyen más mágikus hatást. Az összetett mágiák több cselekedetet is igényelhetnek a varázslás befejezéséhez. Miután befejeződött, a mágia bármely pillanatban felszabadítható a varázsló következő cselekvési idejéig – ekkor tartható későbbi hatásig, de ehhez a [Varázslat tartása](0008_Combat.md?id=hold-magic) cselekedet szükséges a későbbi felszabadításra való előkészítéshez.
 
-#### Hezitálás (Dither)
-Az alapértelmezett választás, hacsak nem választanak más Cselekedetet; a karakter egyszerűen elpazarolja a Cselekedetét azzal, hogy semmi hasznosat nem tesz.
+#### Távolság megváltoztatása
 
-#### Mágia tartása (Hold Magic)
-Miután a varázslás befejeződött, a karakter ideiglenesen visszatarthat egy varázslatot, várva a kibocsátás legjobb pillanatát. A mágia addig tartható vissza, amíg a karakter a következő Cselekedetek során folytatja ezt a cselekedetet, de ez lehetővé teszi egy ellenség számára az Ellenvarázslat reakció szabad használatát, ha az releváns a varázslathoz. A tartott varázslat tényleges dobását csak akkor kell megtenni, amikor kibocsátják.
+A karakter megkísérelheti megközelíteni az ellenfelet vagy visszavonulni tőle.
 
-#### Sietés (Hustle)
-Feltéve, hogy nincs Küzdelemben egy ellenféllel, a karakter mozoghat Futás (az Alap Mozgási Sebesség 3x-osa) vagy Sprint (a Mozgási Sebesség 5x-öse) sebességgel. Azonban ebben a körben nem hajthat végre vagy nem hajtathat végre semmilyen más Proaktív cselekedetet, beleértve az egyéb mozgást is.
+#### Roham
 
-#### Felülés (Mount)
-A karakter felülhet vagy leszállhat egy hátasról vagy járműről. A különösen nagy hátasok több Cselekedetet is igényelhetnek a befejezéshez.
+A Roham cselekedet lehetővé teszi a karakter számára, hogy futó vagy sprintelő sebességgel lépjen be a küzdelem hatótávolságába, a roham lendületét felhasználva egy erőteljesebb közelharci támadáshoz. A [Rohamozást](0008_Combat.md?id=charging) részletesebben tárgyaljuk alább.
 
-#### Mozgás (Move)
-Feltéve, hogy nincs Küzdelemben egy ellenféllel, a karakter mozoghat az Alap Mozgási Sebességig. Ha ez egy ellenséggel való érintkezésbe hozza őket, közelharci támadást hajthatnak végre anélkül, hogy további Cselekedetet költenének rá; így vagy úgy, a karakter ekkor Küzdelemben lévőnek tekintendő. A Sietés cselekedettel ellentétben a Mozgás cselekedet többször is végrehajtható egy Harcikör alatt.
+#### Késleltetés
+
+A karakter egy vagy több cselekedetet takarít meg, hogy később Reaktív cselekedeteket, például Megszakítást vagy Hárítást hajtson végre. A késleltetés Akciópont-költségeit a végül elvégzett cselekedetek fedezik. Ha a késleltetett cselekedeteket nem hajtják végre a karakter cselekvési ideje előtt a következő körben, akkor a karakter úgy tekintendő, hogy Passzolt, és az Akciópontok elvesznek.
+
+#### Hezitálás
+
+Az alapértelmezett lehetőség, hacsak nem választanak más cselekedetet, a karakter egyszerűen elpazarolja a cselekvési idejét, semmi hasznosat nem csinálva.
+
+#### Varázslat tartása
+
+Miután a varázslás befejeződött, a karakter ideiglenesen visszatarthat egy varázslatot, várva a felszabadításának legjobb pillanatát. A mágia addig tartható vissza, amíg a karakter a következő cselekvési időkben folytatja ezt a cselekedetet, de ez lehetővé teszi egy ellenség számára az Ellenszöveg (Counter Spell) reakció szabad használatát, ha az releváns a varázslat szempontjából. A tartott varázslat elmondására vonatkozó tényleges képzettségpróbát csak akkor kell elvégezni, amikor elmondják.
+
+#### Sietség
+
+Feltéve, hogy nincs küzdelemben (Engaged) egy ellenféllel, a karakter mozoghat Futás (az alap Mozgási sebesség 3x-osa) vagy Sprint (a Mozgási sebesség 5x-öse) sebességgel. Azonban ebben a cselekvési időben nem hajthat végre, és nem hajtathat végre semmilyen más Proaktív cselekedetet, beleértve az egyéb mozgást is.
+
+#### Felülés
+
+A karakter felülhet vagy leszállhat egy hátasállatról vagy járműről. A különösen nagy hátasok több cselekvési időt igényelhetnek a befejezéshez.
+
+#### Mozgás
+
+Feltéve, hogy az illető nincs küzdelemben egy ellenféllel, a karakter mozoghat az alap Mozgási sebességéig. Ha ez egy ellenséggel való érintkezésbe hozza őket, közelharci támadást hajthatnak végre anélkül, hogy további cselekedetet költenének erre; akárhogy is, a karaktert ezután küzdelemben állónak (Engaged) tekintik. A Sietség cselekedettel ellentétben a Mozgás cselekedet többször is végrehajtható egy harcikör során.
 
 #### Kijátszás (Outmaneuver)
-A karakter több ellenfelet is bevonhat egy csoportos Ellentétes Dobásba az Elhajlás jártasságokkal. Azok, akik nem tudják felülmúlni a dobását, az adott Harcikörben nem támadhatják őt. Lásd a [Kijátszás](0008_Combat.md?id=outmaneuvering) szakaszát.
 
-#### Készülés (Ready)
-A karakter elővehet, kihúzhat, hüvelybe tehet, elrakhat vagy újratölthet egy fegyvert vagy egyéb tárgyat. Egy közeli elejtett tárgy felszedése 2 Cselekedetbe kerül: egy a mozgáshoz és a tárgy eléréséhez, a második pedig a kész állásba való visszatéréshez. Egyes távolsági fegyverek több Cselekedetet igényelnek az újratöltéshez.
+A karakter több ellenfelet is bevonhat egy csoportos, Ellentétes próbába az Evade képzettségeket használva. Azok, akik nem tudják legyőzni a dobását, nem támadhatják őt az adott harcikörben. Lásd a [Kijátszásról](0008_Combat.md?id=outmaneuvering) szóló részt.
 
-#### Talpra állás (Regain Footing)
-Ha nincs Küzdelemben ellenféllel, a karakter automatikusan talpra állhat, ha felbuktatták vagy leütötték. Ha Küzdelemben van, a karakternek meg kell nyernie egy Ellentétes Tesztet Erőből vagy Atlétikából az ellenféllel szemben, mielőtt felállna.
+#### Felkészülés (Ready)
+
+A karakter elővehet, kihúzhat, hüvelyébe tehet, elrakhat vagy újratölthet egy fegyvert vagy más tárgyat. Egy közeli elejtett tárgy visszaszerzése 2 cselekedetet igényel: egyet a mozgáshoz és a tárgy eléréséhez, egy másodikat pedig a felkészült állásba való visszatéréshez. Egyes távolsági fegyverek több cselekedetet igényelnek az újratöltéshez.
+
+#### Talpra állás
+
+Ha nincs küzdelemben egy ellenféllel, a karakter automatikusan talpra állhat, ha elgáncsolták vagy földre döntötték. Ha küzdelemben áll, a karakternek meg kell nyernie egy Ellentétes próbát az ellenféllel szemben Erőből vagy Atlétikából, mielőtt felállna.
 
 #### Küzdelem (Struggle)
-Ha a karakter bizonyos típusú támadások vagy Különleges hatások áldozata, megkísérelhet kiszabadulni a helyzetből. Például, kiszabadulni egy Birkózásból.
 
-#### Fedezékbe vonulás (Take Cover)
-A Fedezékbe vonulás egy Proaktív cselekedet, amely lehetővé teszi a karakternek, hogy a közvetlen közelében lévő fedezék mögé bújjon, ezáltal bizonyos fokú védelmet nyerve a távolsági támadások és varázslatok ellen. Az Elhajlással ellentétben nem hagyja a használót hason fekvő helyzetben, de támaszkodik arra, hogy valamilyen fedezék elérhető legyen; például egy folyosó sarkán visszabújni, vagy egy kocsmai asztal mögé guggolni.
+Ha a karakter bizonyos típusú támadások vagy Különleges hatások áldozata, megkísérelheti kihúzni magát a helyzetből. Például, kiszabadulni egy Birkózásból (Grapple).
+
+#### Fedezékbe húzódás
+
+A Fedezékbe húzódás egy Proaktív cselekedet, amely lehetővé teszi a karakter számára, hogy a közvetlen közelében lévő fedezék mögé húzódjon, ezáltal bizonyos fokú védelmet szerezve a távolsági támadások és varázslatok ellen. Az Evade-től eltérően nem hagyja a használóját hason fekve, de támaszkodik valamilyen fedezék meglétére; például egy folyosó sarkán visszahúzódni vagy egy kocsmai asztal mögé guggolni.
 
 ---
 ### Reaktív cselekedetek
 
-Ez a lista azokat a reakciókat határozza meg, amelyek a Harcikör bármely pontján felhasználhatók a közvetlen fenyegetésre adott válaszként. Az előző listához hasonlóan, egy reakció végrehajtása egy Cselekvési Pontba kerül.
+Ez a lista azokat a reakciókat határozza meg, amelyek a harcikör során bármikor használhatók egy közelgő fenyegetésre válaszul. Ahogy az előző listában, egy reakció végrehajtása egy Akciópontba kerül.
 
-#### Ellenvarázslat (Counter Spell)
-A karakter megkísérelheti elhárítani vagy ellensúlyozni egy beérkező varázslatot. Ez feltételezi, hogy az ellensúlyozó mágiának egy Cselekedet a Varázslási Ideje, ellenkező esetben előre elő kell készíteni és ideiglenesen vissza kell tartani a Mágia Tartása cselekedettel. Az ily módon történő sikeres mágia-elfogás az egész varázslatot semlegesíti, még a több célpontú vagy hatóterületű varázslatokat is.
+#### Ellenszöveg
 
-#### Elhajlás (Evade)
-A karakter használhatja az Elhajlás jártasságát, hogy megkíséreljen elvetődni az olyan fenyegetések elől, mint a beérkező lövedékek vagy egy rohamozó támadás. Ez a karaktert hason fekvő helyzetbe hozza, hacsak ezt egy Képesség vagy különleges körülmény nem enyhíti. Így a karakter következő Cselekedete általában a Talpra állás cselekedet végrehajtásával telik, hogy ismét felálljon. Amikor leheletfegyverek vagy más Hatóterületű támadások elől hajlik el, ha a hatás szélétől 10 lábon (kb. 3 méteren) belül van, egy sikeres Elhajlás lehetővé teszi, hogy biztonságba vesse magát és fele sebzés helyett semmit se kapjon. Ez továbbra is hason fekvő helyzetben hagyja, tekintet nélkül semmilyen különleges következményre, amely semlegesítheti ezt a büntetést. Lásd az [Elhajlást](0008_Combat.md?id=evading) a további részletekért.
+A karakter megkísérelheti elhárítani vagy ellensúlyozni egy beérkező varázslatot. Ez feltételezi, hogy az ellensúlyozó mágiának egy cselekvési időnyi Varázslási ideje van, különben előre fel kell készíteni és ideiglenesen vissza kell tartani a Varázslat tartása cselekedet használatával. A mágia ilyen módon történő sikeres elfogása feltételezi a teljes varázslat hatástalanítását, még azokat is, amelyek több célpontra vagy hatóterületre vonatkoznak.
 
-#### Megszakítás (Interrupt)
-Csak késleltető karaktereknek. Ez a Reaktív cselekedet bármely ponton megállítja egy ellenfél Cselekedetét, hogy egy késleltetett Cselekedetet hajtson végre. Feltételezve, hogy nincs változás a taktikai helyzetben, az ellenfél a karakter cselekedetének befejezése után folytatja a sajátját. Ha nem tudja teljesíteni az eredeti deklarációt, az ellenfél Cselekvési Pontja elvész. A megszakítás használható lehetőség elleni támadásra is mindenki ellen, aki közel halad el a késleltető karakter mellett, és fegyveres elérhetőségen belül van.
+#### Kitérés (Evade)
+
+A karakter használhatja az Evade képzettségét, hogy megkíséreljen kimenekülni az olyan fenyegetések elől, mint a beérkező lövedékek vagy egy rohamozó támadás. Ez a karaktert hason fekve hagyja, hacsak nem mérsékli egy Képesség vagy különleges körülmény. Így a karakter következő cselekvési idejét általában a Talpra állás cselekedet végrehajtásával tölti, hogy újra álljon. A leheletfegyverek vagy más hatóterületű támadások elől történő Kitérés során, ha a hatás szélétől 10 lábon belül van, egy sikeres Kitérés lehetővé teszi, hogy biztonságba ugorjon, és fele sebzés helyett semmilyet se szenvedjen el. Ez továbbra is hason fekve hagyja, függetlenül minden olyan különleges következménytől, amely semlegesítheti ezt a büntetést. Lásd a [Kitérésről](0008_Combat.md?id=evading) szóló részt a részletekért.
+
+#### Megszakítás
+
+Csak késleltető karaktereknek. Ez a Reaktív cselekedet bármely ponton leállítja egy ellenfél cselekvési idejét, hogy egy késleltetett cselekvési időt hajtson végre. Feltételezve, hogy nincs változás a taktikai helyzetben, az ellenfél a karakter cselekvésének befejezése után folytatja a cselekvési idejét. Ha képtelen az eredeti deklarációt elérni, az ellenfél Akciópontja kárba vész. A megszakítás használható lehetőség-támadás végrehajtására is bárki ellen, aki közel halad el a késleltető karakter mellett, és a fegyver hatótávolságán belül van.
 
 #### Hárítás (Parry)
-A karakter megkísérelhet védekezni egy beérkező támadás ellen a Hárítás, hajolgatás, kacsázás és oldalazó lábmunka kombinációjával, hogy minimalizálja a csapást.
+
+A karakter megkísérelhet védekezni egy beérkező támadás ellen a Hárítás, a lehajolás, az elhajlás és az oldalra lépő lábmunka kombinációjának használatával, hogy minimalizálja a csapást.
 
 ---
-### Ingyenes cselekedetek
+### Szabad cselekedetek
 
-Az Ingyenes cselekedetek (felsorolva alább) a Harcikör bármely pontján végrehajthatók, és semmilyen Cselekvési Pontba nem kerülnek.
+A Szabad cselekedetek (lásd lentebb) a harcikör során bármikor végrehajthatók, és nem kerülnek Akciópontba.
 
-#### Helyzetfelmérés (Assess Situation)
-Ha nincs Küzdelemben, a karakter tehet egy Észlelés dobást Cselekvési Pont költsége nélkül. A Siker felfedi a taktikai helyzet minden releváns változását (például egy rohamot indító ellenség észrevétele). Futás közbeni felmérés Nehéz Észlelés dobást eredményez, Sprintelés közben Formidábilisat.
+#### Helyzet felmérése
 
-#### Tárgy eldobása (Drop Item)
-Tárgy eldobása Ingyenes cselekedet.
+Ha nincs küzdelemben, a karakter végezhet Észlelés-próbát Akciópont-költség nélkül. A siker felfed minden releváns változást a taktikai helyzetben (például észrevenni egy ellenséget, aki rohamot kezd). Futás közbeni felmérés Nehéz Észlelés-próbát eredményez, Sprintelés közben Félelmeteset.
 
-#### Jelzés (Signal)
-Ha nincs Küzdelemben, gesztikulálás vagy jelzés egy vagy több résztvevőnek (ha észlelhetik a jelet) Ingyenes cselekedet.
+#### Tárgy eldobása
 
-#### Beszéd (Speak)
-A karakter a harc alatt bármikor beszélhet, de amit mond, azt rövid kifejezésekre kell korlátozni, amelyeket öt másodperc alatt vagy kevesebb idő alatt ki lehet mondani; például: „Vigyázz mögötted!” vagy „A pokolba veled!”
+Egy tárgy eldobása Szabad cselekedet.
 
-#### Szerencsepont használata (Use Luck Point)
-Szerencsepont használata – például egy adott eredmény újradobásához – Ingyenes cselekedet.
+#### Jelzés
 
-#### Helyszín védelme (Ward Location)
-A karakter megvéd egy bizonyos Testrészt a találattól azzal, hogy az egyik fegyverét passzív módon a terület blokkolására rendeli. Minden olyan csapás, amely az adott helyre érkezik, automatikusan csökkentett sebzést okoz, a Hárító fegyver Méretének megfelelően. A fedezék addig tart, amíg a kijelölt fegyvert támadásra vagy aktív Hárításra nem használják. A fedett Testrész kijelölését vagy megváltoztatását azelőtt kell végrehajtani, hogy az ellenfél támadásra dobna a karakter ellen. Kialakításuk miatt a pajzsok több területet is fedhetnek.
+Ha nincs küzdelemben, gesztikulálás vagy jelzés egy vagy több résztvevőnek (ha észlelni tudják a jelet) Szabad cselekedet.
 
-További magyarázatért lásd a [Passzív Blokkolást](0008_Combat.md?id=passive-blocking).
+#### Beszéd
+
+A karakter a harc során bármikor beszélhet, de amit mond, azt rövid kifejezésekre kell korlátozni, amelyeket öt másodperc alatt vagy rövidebb idő alatt ki lehet mondani; például: „Vigyázz mögötted!” vagy „A pokolba veled!”
+
+#### Szerencsepont használata
+
+A Szerencsepont használata – például egy adott eredmény újradobásához – Szabad cselekedet.
+
+#### Hely védelme
+
+A karakter megóv egy adott Találati helyet a találattól azáltal, hogy egyik fegyverét passzívan kijelöli az adott terület blokkolására. Bármely csapás, amely az adott helyre érkezik, automatikusan csökkentett sebzést szenved el, a Méretének megfelelő Hárító fegyverre vonatkozó szokásos szabályok szerint. A fedezék addig tart, amíg a kijelölt fegyvert támadásra vagy aktív Hárításra nem használják. A lefedett Találati hely meghatározását vagy megváltoztatását azelőtt kell végrehajtani, hogy egy ellenfél dobna a karakter támadására. Kialakításuk miatt a pajzsok több területet is lefedhetnek.
+
+További magyarázatért lásd a [Passzív blokkolást](0008_Combat.md?id=passive-blocking).
 
 ---
 ## Mozgás
 
-A következő szabályok irányítják a harci küzdelmet:
+A következő szabályok irányítják a küzdelembe lépést:
 
-- A mozgás a Mozgás, Sietés vagy Roham cselekedettel hajtható végre.
-- A Mozgás cselekedet lehetővé teszi a karakternek, hogy az Alap Mozgási Sebességének megfelelő távolságot tegyen meg.
-- A Sietés cselekedet lehetővé teszi a karakternek, hogy Fusson a Mozgási Sebesség 3x-osának megfelelő távolságot, vagy Sprinteljen az 5x-ösén.
-- Mozgást csak a Küzdelemben nem álló karakterek hajthatnak végre (kivéve a különleges eseteket, mint a Kijátszás).
-- Bizonyos eseteket (például a Rohamot) leszámítva, minden jelentős mozgás megszűnik, amint a karakter belép a tervezett ellenfél küzdelmi hatótávolságába.
-- Bizonyos eseteket leszámítva (például az Érintkezésen keresztüli Rohamot), az ellenfél küzdelmi zónájába való mozgás mindkét harcoló felet Küzdelembe hozza.
-- Ha már Küzdelemben vannak, a karakterek nem mozdulhatnak el az ellenfél elől, hacsak előbb nem Visszavonulnak a közelharcból.
-- A Késleltetés cselekedetet használó, Küzdelemben nem álló ellenfél mellett való elhaladási kísérlet (különleges kivételként) lehetővé teszi az ellenfél számára, hogy megüsse az elhaladó karaktereket vagy blokkolja a karakter előrehaladását, ezzel közeli küzdelmet kezdeményezve a következő Cselekedetben vagy Körben.
+- A mozgás a Mozgás, Sietség vagy Roham cselekedettel hajtható végre.
+- A Mozgás cselekedet lehetővé teszi a karakternek, hogy az alap Mozgási sebességének megfelelő távolságot tegyen meg.
+- A Sietség cselekedet lehetővé teszi a karakternek, hogy a Mozgási sebesség 3x-osának megfelelő távolságot Fusson, vagy 5x-ös sebességgel Sprinteljen.
+- Mozgást csak nem küzdő karakterek hajthatnak végre (kivéve a különleges eseteket, mint a Kijátszás).
+- Bizonyos esetek kivételével (például Roham), minden jelentős mozgás megszűnik, amint a karakter belép a szándékolt ellenfél küzdelmi hatótávolságába.
+- Bizonyos esetek kivételével (például Roham az érintkezésen keresztül), az ellenfél küzdelmi zónájába lépés minden harcost küzdelembe hoz a másikkal.
+- Miután küzdelemben állnak, a karakterek nem mozdulhatnak el egy ellenféltől, hacsak nem vonulnak vissza először a közelharcból.
+- Megkísérelni elhaladni egy nem küzdő ellenség mellett, aki a Késleltetés cselekedetet használja, (mint különleges kivétel) lehetővé teszi az ellenfélnek, hogy megüsse a mozgó karaktereket, miközben elhaladnak mellette, vagy elzárja a karakter útját, ami a következő cselekvési időben vagy körben közelharcot idéz elő.
 
-### Szituációs mozgási sebességek
+### Helyzetfüggő mozgási sebességek
 
-Ezek a mozgási sebességek szituációsak, és nem mindig választható lehetőségek. Sokat máshol részleteznek, de a kényelem kedvéért itt is szerepelnek. Ezen szituációs sebességek többsége a normál Mozgási Sebességen felül használható kötött korlátozások mellett. Az ilyen információk az alábbi konkrét leírásokban részletezettek.
+Ezek a mozgási sebességek helyzetfüggőek, és nem mindig állnak rendelkezésre. Sokuk részletezve van máshol, de a kényelem kedvéért itt is szerepelnek. Ezek többsége a normál Mozgási sebességen felül is használható meghatározott korlátozások mellett. Az ilyen információkat az alábbi konkrét leírások részletezik.
 
-#### Mászás (Climb)
-Az a karakter, aki egy megmászható felület vagy tárgy mellé kerül, vagy a Cselekedetét egy ilyen mellett kezdi, az Alap Mozgási Sebességnek megfelelő ütemben mászhat. A karakter nem mozoghat gyorsabban, mint Séta, és maradék mozgással kell rendelkeznie, a megmászott távolságot a már felhasznált mozgással csökkentve. A viselt páncél akadályozza a mászókat: minden könnyű páncéllal fedett hely 1 további szállított „Tárgynak”, minden nehéz páncéllal fedett hely pedig 2 további szállított „Tárgynak” számít.
+#### Mászás
 
-#### Kúszás (Crawl)
-Az a karakter, aki a Cselekedetét hason fekve kezdi, legfeljebb 5 láb (kb. 1,5 méter) sebességgel kúszhat Cselekedetenként a normál Mozgás helyett. Azok a lények, amelyek természetes módon kúsznak normál mozgási módként, ehelyett a Séta, Futás és Sprint fentebb meghatározott szabályait használják.
+Az a karakter, aki egy megmászható felület vagy tárgy mellé mozog, vagy a cselekvési idejét mellette kezdi, az alap Mozgási sebességnek megfelelő sebességgel mászhat. A karakter nem mozoghat gyorsabban, mint Séta, és mozgásmaradvánnyal kell rendelkeznie, a megmászott távolság csökken a már felhasznált mozgással. A viselt páncél hátráltatja a mászókat, minden könnyű páncéllal fedett hely 1 további cipelt 'Dolognak' számít, és minden nehéz páncéllal fedett hely 2 további cipelt 'Dolognak' számít.
 
-#### Ugrás (Jump)
-Az a karakter, aki egy átugorható akadály mellé kerül, vagy a Cselekedetét egy ilyen mellett kezdi, megkísérelheti átugrani azt. A karakter bármilyen sebességgel mozoghat az ugrás pontjáig. Egy sikeres Atlétika dobás lehetővé teszi az ugrást legfeljebb a saját magasságának kétszereséig vízszintesen, vagy legfeljebb a saját magasságának feléig függőlegesen (ha a karakternek van legalább 15 lábnyi nekifutási távolsága). Ha álló helyzetből ugrik, akkor ezek a távolságok feleződnek. Az ugrási távolságot lábban csökkentsd a szállított „Tárgyak” összegének felével. A viselt páncél akadályozza az ugrókat: minden könnyű páncéllal fedett hely 1 „Tárgynak” számít a fent említett számításban, a nehéz páncél pedig 2 „Tárgynak”.
+#### Mászás (földön)
 
-Lásd az [Atlétika](0005_Skills.md?id=athletics-strdex) jártasság leírását további információkért.
+Az a karakter, aki hason fekve kezdi a cselekvési idejét, normál Mozgás helyett cselekvési időnként maximum 5 láb sebességgel mászhat a földön. Azok a lények, amelyek természetes módon mászva mozognak normál üzemmódjukban, ehelyett a fenti Séta, Futás és Sprint szabályait használják.
 
-Kritikus Siker esetén a karakter további 5 lábat ad hozzá a teljes távolságához, és érkezéskor állva marad.
+#### Ugrás
 
-A Fumble (Baklövés) azt jelzi, hogy a karakter ügyetlenül érkezett. Azonnal egy Állóképesség dobást kell tennie. Ha az Állóképesség dobás Siker, 1 pont sebzést szenved az egyik lábán. Ha az Állóképesség teszt Nem sikerül, akkor 1d4 pont sebzés jár.
+Az a karakter, aki egy átugorható akadály mellé mozog, vagy a cselekvési idejét mellette kezdi, megkísérelheti átugrani azt. A karakter bármilyen sebességgel mozoghat az ugrás pontjáig. Egy sikeres Atlétika-próba lehetővé teszi az ugrást vízszintesen a saját magasság kétszereséig, vagy függőlegesen a saját magasság feléig (ha a karakternek legalább 15 lábnyi nekifutási lehetősége van). Ha álló helyzetből ugrik, akkor ezek a távolságok felére csökkennek. Csökkentse az ugrástávolságot lábban a cipelt 'Dolgok' teljes számának felével. A viselt páncél hátráltatja az ugrókat, minden könnyű páncéllal fedett hely 1 'Dolognak' számít a fent említett számításban, és a nehéz páncél 2 'Dolognak' számít.
 
-#### Úszás (Swim)
-Az a karakter, aki egy vízfelület mellé kerül, vagy a Cselekedetét egy ilyen mellett kezdi, úszhat az Alap Mozgási Sebességnek megfelelő ütemben, mínusz a már felhasznált mozgás. Lásd az [Úszás](0005_Skills.md?id=swim-strcon) jártasság leírását további információkért. Normál körülmények között egy karakter maximális úszási sebessége Körönként megegyezik a Mozgási Sebességével, mínusz 1 minden olyan „Tárgyért”, amit a karakter EREjénél többel szállít. A viselt páncél akadályozza az úszókat: minden könnyű páncéllal fedett hely 1 további szállított „Tárgynak”, minden nehéz páncéllal fedett hely pedig 2 további szállított „Tárgynak” számít. Ha a teljes ENC 0-ra vagy az alá csökkenti az úszási távolságot, a karakter automatikusan fulladni kezd (lásd a [Fulladásra](0007_Game_System.md?id=asphyxiation) vonatkozó szabályokat).
+További információért lásd az [Atlétika](0005_Skills.md?id=athletics-strdex) képzettség leírását.
 
-### Miniatűrök és Mozgás
+Kritikus Siker esetén a karakter további 5 lábat ad hozzá a teljes távolságához, és landoláskor egyenesen állva marad.
 
-A miniatűrökkel folytatott harc 1 hüvelykes négyzetrácsos csataszőnyeg használatát feltételezi.
+Egy Botlás azt jelzi, hogy a karakter ügyetlenül landolt. Azonnal meg kell tennie egy Állóképesség-próbát. Ha az Állóképesség-próba Siker, 1 pont sebzést szenved az egyik lábára. Ha az Állóképesség-próba Kudarc, akkor ehelyett 1d4 pont sebzés kerül kiosztásra.
+
+#### Úszás
+
+Az a karakter, aki víztest mellé mozog, vagy a cselekvési idejét mellette kezdi, úszhat az alap Mozgási sebességnek megfelelő sebességgel, mínusz a már felhasznált mozgás. További információért lásd az [Úszás](0005_Skills.md?id=swim-strcon) képzettség leírását. Normál körülmények között a karakter maximális úszási sebessége körönként egyenlő a Mozgási sebességével, -1 minden olyan 'Dologért', amelyet a karakternél több ERŐ értéknél többel cipel. A viselt páncél hátráltatja az úszókat, minden könnyű páncéllal fedett hely 1 további cipelt 'Dolognak' számít, és minden nehéz páncéllal fedett hely 2 további cipelt 'Dolognak' számít. Ha az összegzett teher az úszási távolságot 0-ra vagy az alá csökkenti, a karakter automatikusan fuldokolni kezd (lásd a [Fulladásról](0007_Game_System.md?id=asphyxiation) szóló szabályokat).
+
+### Miniatúrák és mozgás
+
+A miniatűr harc 1 hüvelykes négyzetrácsos csataszőnyegek használatát feltételezi.
 
 #### Méretarány
-Ezek a szabályok akkor működnek a legjobban, ha 1 hüvelyk 5 lábnak vagy 10 lábnak felel meg.
 
-#### Irányultság (Facing)
-A karakter irányultsága az egyik legfontosabb szempont a csatatéren. Az egyik oldalad vagy a hátad nyitva hagyása a támadások előtt a leggyorsabb út a korai halálhoz. Az alábbiakban két irányultsági ábra található. A mozgás végén egy figurának a megszállt négyzet egyik oldala felé kell néznie, vagy opcionálisan átlósan, ahogy az alább látható.
+Ezek a szabályok akkor működnek a legjobban, ha 1 hüvelyk 5 lábnak vagy 10 lábnak felel meg.#### Irányultság
+
+A karakter irányultsága a harctér egyik legfontosabb szempontja. Oldalra vagy hátra nyitottnak maradni a leggyorsabb út az idő előtti halálhoz. Az alábbiakban két irányultsági ábrát láthatunk. A mozgás végén egy figurának a megszállt négyzet egyik oldala felé kell néznie, vagy opcionálisan egy átló irányába, az alábbiak szerint.
 
 ![](_media/CFI_8_Combat_Mini_Facing_Has.png)
 
-A **Támadás** a karakter bármelyik elülső vagy oldalsó négyzetébe végrehajtható.
+**Támadást** a karakter elülső vagy oldalsó négyzeteibe lehet végrehajtani.
 
-Az **Elhajlás** mindig Standard Nehézségű bármely támadás ellen, kivéve a hátsó négyzetből érkezőket, amelyek Formidábilisak, és sikeres Észlelés dobás szükséges még ahhoz is, hogy tudjuk, a támadás érkezik.
+**Kitérés** minden esetben Alapnehézségű bármely támadás ellen, kivéve a hátsó négyzetből érkezőket, amelyek Félelmetes nehézségűek, és sikeres Észlelés-dobás szükséges ahhoz, hogy egyáltalán tudomást szerezzen az érkező támadásról.
 
-### Terep hatása a mozgásra
+### A terep hatása a mozgásra
 
-A csatatereken általában lesz valamilyen típusú terep, amely akadályozza a mozgást, ezt Akadályokként vagy Nehéz terepként ábrázoljuk.
+A harctereken általában lesz valamilyen tereptárgy, amely akadályozza a mozgást; ezeket Akadályokként vagy Nehéz terepként ábrázoljuk.
 
-Az Akadályok bármik lehetnek, hatalmas fáktól, falaktól, magas kerítésektől, ajtóktól, gödröktől kezdve. Egy Akadály teljesen blokkolja a mozgást, ami arra kényszeríti az ellenfeleket, hogy kikerüljék; azonban egyes lények, mint a szellemek vagy a repülők, nem érintettek az Akadályok által. Ha egy tárgy nem blokkol teljesen egy négyzetet, mint egy szék, kis fa vagy bokor, akkor Nehéz terepként kezelendő.
+Az Akadály lehet bármi, hatalmas fáktól, falaktól, magas kerítésektől kezdve az ajtókon és gödrökön át, és így tovább. Egy Akadály teljesen blokkolja a mozgást, így az ellenfélnek ki kell kerülnie; azonban néhány lény, mint a szellemek vagy a repülő lények, nem érintett az Akadályok által. Ha egy tárgy nem blokkolja teljesen a négyzetet, mint például egy szék, egy kisebb fa vagy egy bokor, akkor azt Nehéz terepként kezeljük.
 
-A Nehéz terepre való belépés a normál mozgás duplájába kerül. Így, egy 5 láb (kb. 1,5 méter) négyzetnyi Nehéz terepre való mozgás 10 lábnyi mozgásnak számítana. Egy lassú lény, amelyet a Nehéz terep akadályoz, mindig mozoghat minimum 5 lábat. A Nehéz terepre példák a sekély medencék, törmelék, alacsony kerítések, bokrok, magas fű/gyom és halottak. Egyes lények, mint a szellemek vagy a repülők, nem érintettek a Nehéz terep által. A Nehéz terepen az Alap Mozgási Sebességnél gyorsabban áthaladni egy Formidábilis Atlétika vagy egy Standard Akrobatika dobást igényel az elbotlás és elesés elkerülése érdekében.
+A Nehéz terepre való belépés kétszeres mozgásköltséget igényel. Így egy 5 lábas (kb. 1,5 méteres) négyzetnyi Nehéz terepre való belépés 10 lábnyi mozgásnak számít. A Nehéz terep által hátráltatott lassú lény mindig mozoghat minimum 5 lábat. A Nehéz terepre példák a sekély vizek, törmelék, alacsony kerítések, bokrok, magas fű/gaz és a holttestek. Néhány lény, mint a szellemek vagy a repülő lények, nem érintett a Nehéz terep által. Bármilyen, az Alapmozgási Sebességnél gyorsabb tempójú áthaladás Nehéz terepen egy Félelmetes Atletika vagy egy Alapnehézségű Akrobatika dobást igényel, hogy elkerüljük az elbotlást és az esést.
 
 ---
 ## Hogyan működik a harc
 
-A _Classic Fantasy Imperative_ rendszerében a harcot úgy oldjuk meg, hogy minden támadás vagy Hárítás egyetlen szúrást, lendítést, varázslatot vagy fegyverlövést jelent. Bármely támadó Cselekedet lehetőséget ad arra, hogy egy reakcióval ellenálljanak neki. Így, még ha egy karakternek sikerül is megütnie egy ellenfelet, az ellenfélnek megvan a saját dobási lehetősége, hogy lássa, képes-e Hárítani a csapást, mielőtt az célba érne. Ugyanezt a filozófiát alkalmazzuk akkor is, ha távolsági fegyverekről van szó a fedezékbe vetődő célpontok ellen, vagy ha egy óriáspolip vaskos szorításából próbálnak kiszabadulni.
+A _Classic Fantasy Imperative_ rendszerben a harc kimenetele minden egyes támadásnál vagy hárításnál egyetlen szúrást, lendítést, varázslat-leadást vagy fegyverlövést képvisel. Minden támadó Akció lehetőséget ad az ellenállásra egy reakció által. Tehát még ha a karakternek sikerül is megütnie egy ellenfelet, az ellenfél saját dobást hajthat végre, hogy megpróbálja hárítani a csapást, mielőtt az betalálna. Ugyanezt a filozófiát alkalmazzuk akkor is, ha a támadások fedezékbe vetődő célpontok elleni lőtámadások, vagy ha egy óriáspolip vaskos szorításából való kiszabadulási kísérletek történnek.
 
-### Támadások és Hárítások
+### Támadások és hárítások
 
 A közelharcot az alábbi lépésről lépésre haladó módon kezeljük:
 
-1. A saját körében a támadó elkölt egy Cselekvési Pontot, dob a Harcjártasságára, és feljegyzi az eredményt.
-2. Ha akarja, a védő elkölt egy Cselekvési Pontot, dob a Harcjártasságára, és feljegyzi az eredményt.
-3. Az eredmények sikerességi szintjeit a [Differenciális Dobások](0005_Skills.md?id=differential-rolls) szabályai szerint hasonlítjuk össze.
-4. Bármilyen különbség egy vagy több Különleges hatást biztosít a sikeres, magasabb dobással rendelkező harcoló félnek.
-5. Ha a támadó Sikert vagy Kritikus sikert ért el, dobhat fegyversebzést, és alkalmazhatja a Sebzés Módosítóját (ha van ilyen). Adott esetben a csapáshoz meghatározásra kerül egy Testrész.
-6. Ha a védő Sikert vagy Kritikus sikert ért el, csökkentse az elszenvedett sebzést az érintett fegyverek relatív méreteinek megfelelően.
-7. A fennmaradó sebzést csökkentse a természetes vagy viselt védelem Páncélpontjaival.
+1. A saját körében a támadó elkölt egy Akciópontot, dob a Harci Képességére, és feljegyzi az eredményt.
+2. Igény esetén a védekező elkölt egy Akciópontot, dob a Harci Képességére, és feljegyzi az eredményt.
+3. Az eredmények sikerességi szintjeit összehasonlítjuk a [Differenciált dobások](0005_Skills.md?id=differential-rolls) alapján.
+4. Bármekkora különbség egy vagy több Különleges Hatást biztosít a magasabb dobást elérő sikeres harcolónak.
+5. Ha a támadó Siker vagy Kritikus eredményt ért el, dobhat fegyversebzést, és alkalmazhatja a Sebzésmódosítóját (ha van). Ha alkalmazható, meghatározásra kerül a találat Helye.
+6. Ha a védekező Siker vagy Kritikus eredményt ért el, csökkentse az elszenvedett sebzést az érintett fegyverek relatív méreteinek megfelelően.
+7. Csökkentse a fennmaradó sebzést a természetes vagy viselt védelem Páncélpontjaival.
 
-Ne feledd, hogy a csere során keletkező Különleges hatások függetlenek attól, hogy okoztak-e sebzést. Teljesen lehetséges, hogy a védő éri el a magasabb sikerességi szintet, mégis sérülést szenved.
+Fontos megjegyezni, hogy az akció során generált bármely Különleges Hatás független attól, hogy történt-e sebzés. Teljesen lehetséges, hogy a védekező éri el a magasabb sikerességi szintet, mégis sérülést szenvedjen.
 
 ### Fegyverméret
 
-A _Classic Fantasy Imperative_ minden fegyvere több különböző tulajdonsággal rendelkezik, az általa okozott sebzéstől kezdve azon át, hogy hány kéz szükséges a forgatásához. A méret a fegyver tömegének, emelőerejének és stabilitásának kombinációja, és a fegyver sebzéskifejtési és Hárítási képességének meghatározására szolgál. A méretkategóriák: _Kicsi, Közepes, Nagy, Hatalmas_ és _Óriási_. A lények fegyvertelen támadásai fizikai jellemzőiknek megfelelően hasonló kategóriákba vannak sorolva.
+Minden fegyver a _Classic Fantasy Imperative_ rendszerben számos különböző tulajdonsággal rendelkezik, az általa okozott sebzéstől kezdve egészen addig, hogy hány kéz szükséges a forgatásához. A Méret a fegyver tömegének, emelőerejének és stabilitásának kombinációja, és a fegyver sebzéskiosztási és hárítási képességének meghatározására szolgál. A méretkategóriák: _Kicsi, Közepes, Nagy, Hatalmas_ és _Óriási_. A lények puszta kezes támadásai hasonló kategóriákba sorolandók fizikai jellemzőik alapján.
 
 ### Sebzéscsökkentés
 
-Ha egy védőnek sikerül Hárítania, akkor csökkentheti a támadó sebzését, ha van ilyen, a használt fegyverek relatív méretének megfelelően.
+Ha a védekezőnek sikerül hárítania, akkor csökkentheti a támadó sebzését (ha volt ilyen), a használt fegyverek relatív Mérete alapján.
 
-- A _megegyező vagy nagyobb_ méretű fegyverrel vagy pajzzsal történő Hárítás _minden_ sebzést elhárít.
-- Az _eggyel kisebb_ méretű fegyverrel vagy pajzzsal történő Hárítás csak _fél_ sebzést hárít el.
-- A _két vagy több mérettel kisebb_ fegyverrel vagy pajzzsal történő Hárítás _semmilyen_ sebzést nem hárít el.
+- Egy _egyenlő vagy nagyobb_ Méretű fegyverrel vagy pajzzsal történő hárítás *minden* sebzést elhárít.
+- Egy _eggyel kisebb_ Méretű fegyverrel vagy pajzzsal történő hárítás csak a sebzés _felét_ hárítja.
+- _Kettő vagy több mérettel kisebb_ fegyverrel vagy pajzzsal történő hárítás *egyáltalán nem* hárít sebzést.
 
-Például egy hatalmas fejszét (Hatalmas) egy kite pajzzsal (szintén Hatalmas) Hárítani az összes sebzést blokkolná; egy Gleáffal (Nagy) Hárítani felezné a sebzést, egy rövidkarddal (Közepes) pedig semmilyen sebzést nem állítana meg.
+Például egy hatalmas fejsze (Hatalmas) hárítása egy nagy pajzzsal (szintén Hatalmas) minden sebzést blokkolna; egy lándzsával (Nagy) történő hárítás megfelezné a sebzést, egy rövidkarddal (Közepes) történő hárítás pedig semmilyen sebzést sem állítana meg.
 
 ### Páncél
 
-Minden sebzést, amely áthatol a védő Hárításán, tovább csökkentik a természetes védelem (például pikkelyek vagy páncél) vagy a viselt páncél Páncélpontjai. Ha a védő mindkettővel rendelkezik, akkor a kettő összeadódik a sebzés csökkentése érdekében.
+Bármely sebzés, amely áthatol a védekező hárításán, tovább csökken a természetes védelem (például pikkelyek vagy páncélzat) vagy az általa viselt páncél Páncélpontjaival. Ha a védekező mindkettővel rendelkezik, akkor a kettő összeadódik a sebzés csökkentéséhez.
 
-Tömege és a mozgáskorlátozottsága miatt a karakter által _viselt_ páncél legmagasabb Páncélpont értéke büntetésként hat a Kezdeményezési dobásra.
+Tömege és a mozgáskorlátozottság miatt a karakter által _viselt_ páncélok közül a legmagasabb Páncélpont-érték büntetésként szolgál a Kezdeményezés-dobásnál.
 
-### Eltalálatlan támadás Hárítása
+### Egy elhibázott támadás hárítása
 
-Ha a támadó elvéti az eredeti támadó dobását, a védőnek még mindig lehetősége van egy Cselekvési Pontot költeni Hárításra. Bár kissé színlelésnek tűnhet Hárítani egy támadást, amely amúgy is elvétette volna a célt, egy képzett védő ezt előnyére fordíthatja, hogy egy vagy több Különleges hatást érjen el, potenciálisan meggyengítve vagy harcképtelenné téve egy ellenséget, és megőrizve a következő Cselekedetét valamilyen más célra.
+Ha a támadó elhibázza az eredeti támadó dobását, a védekezőnek továbbra is lehetősége van egy Akciópont elköltésére a hárításhoz. Bár képmutatónak tűnhet hárítani egy olyan támadást, amely amúgy is elhibázott lenne, egy képzett védekező ezt kihasználhatja arra, hogy egy vagy több Különleges Hatást szerezzen, potenciálisan meggyengítve vagy harcképtelenné téve az ellenfelet, és megőrizve a következő körét egy másik Akció számára.
 
-### Hárításra képtelen vagy nem hajlandó védő
+### Képtelen vagy nem hajlandó hárítani
 
-Olyan helyzetben, ahol egy védő nem képes Hárítani, mert nem maradt Cselekvési Pontja, vagy bízva a csapás elviselésének képességében nem kíván Hárítani, úgy kell tekinteni, hogy automatikusan Hibát dobott. Ennek következménye az, hogy a sikeres támadónak egy vagy több Különleges hatást biztosít.
+Olyan helyzetben, ahol a védekező nem tud hárítani, mert már nem maradt Akciópontja, vagy bízva a csapás elviselésének képességében, úgy dönt, hogy nem hárít, akkor úgy kezelendő, mintha automatikusan Kudarcot dobott volna. Ennek következménye az, hogy a sikeres támadónak egy vagy több Különleges Hatást biztosít.
 
-### Sikertelen dobások és Baklövések
+### Sikertelen dobások és Balsikerek
 
-Ha mindkét harcoló fél Hibázik a dobásán, vagy a védő úgy dönt, hogy nem használja ki az elvétett támadást, akkor a Támadás/Hárítás sorozat véget ér, és a harc a következő legmagasabb Kezdeményezéssel rendelkező résztvevővel folytatódik.
+Ha mindkét harcoló Kudarcot dob a saját próbáján, vagy a védekező úgy dönt, hogy nem használja ki az elhibázott támadást, akkor a Támadás/Hárítás sorrend véget ér, és a harc a következő legmagasabb Kezdeményezésű résztvevőnél folytatódik.
 
 ---
-## Különleges hatások
+## Különleges Hatások
 
-A harc jóval több, mint egyszerűen megsebesíteni vagy megölni egy ellenfelet. A harcművészetek az ellenfél _legyőzésének_ számos módszerét tanítják, esetleg tehetetlenné téve őket vagy olyan helyzetekbe kényszerítve őket, ahol meg kell adniuk magukat, anélkül, hogy feltétlenül kárt okoznának bennük. A Különleges hatások ezeket a technikákat képviselik, és szabályozzák, hogyan fordulnak elő a játékban.
+A harc jóval többről szól, mint az ellenfél megsebesítése vagy megölése. A harcművészetek számos módszert tanítanak az ellenfél _legyőzésére_, esetleg tehetetlenné tételére vagy olyan helyzetekbe kényszerítésére, ahol kapitulálni kényszerül, anélkül, hogy feltétlenül kárt kellene bennük tenni. A Különleges Hatások ezeket a technikákat képviselik, és irányítják, hogyan jelennek meg a játékban.
 
-Amikor az ellenfelek harci jártasságaikra vonatkozó Differenciális Dobásba kezdenek, a sikerességi szintek közötti bármilyen eredő különbség jelzi a Különleges hatások bekövetkezésének lehetőségét. Ez azt tükrözi, hogy az egyik harcoló fél az ellenfelét olyan hátrányos helyzetbe manőverezi, amelyet egy ravasz csellel vagy taktikával ki lehet használni.
+Amikor az ellenfelek harci képességeikkel Differenciált dobást hajtanak végre, a sikerességi szintek közötti bármilyen különbség lehetőséget jelez a Különleges Hatások bekövetkezésére. Ez azt tükrözi, ahogy az egyik harcoló egy hátrányos helyzetbe manőverezi az ellenfelét, amelyet ravasz trükkel vagy taktikával ki lehet használni.
 
-A kapott Különleges hatások száma a Sikerességi Szintek közötti különbségtől függ, ahogy az a [Differenciális Dobási Eredmények táblázatban](0005_Skills.md?id=differential-roll-results-table) látható.
+A kapott Különleges Hatások száma a Sikerességi Szintek közötti különbségtől függ, ahogy azt a [Differenciált dobások eredménye táblázat](0005_Skills.md?id=differential-roll-results-table) mutatja.
 
-Ha bármilyen Különleges hatást nyertek egy csere során, azokat a sebzés és a Testrész dobása előtt kell kiválasztani, ha egyáltalán sor kerül rájuk. Olyan esetekben, amikor a címzett a Különleges hatás elnyerése mellett súlyosan meg is sebesült, az Állóképesség dobásokat a hatás alkalmazása után oldják fel.
+Ha egy csere során Különleges Hatásokat nyertek el, azokat ki kell választani, mielőtt a Sebzést és a Találati Helyet (ha van) kidobnák. Olyan esetekben, amikor a címzett súlyosan megsebesül a Különleges Hatás elszenvedése mellett, az Állóképesség-dobásokat a hatás alkalmazása után kell megoldani.
 
-A Különleges hatások a helyzetek és technikák változatos körét fedik le. Néhányat kifejezetten támadásokra terveztek, míg másokat védekezésre szántak, és néhány adaptálható mindkét körülményre. Bizonyos Különleges hatások korlátozhatók konkrét fegyvertípusokra vagy konkrét kockadobásokra is, például Kritikus vagy Baklövés eredményt követelve a jártasságteszten.
+A Különleges Hatások helyzetek és technikák széles skáláját fedik le. Néhány kifejezetten támadásokra tervezett, míg mások védekezésre szántak, és néhány mindkét körülményre alkalmazható. Bizonyos Különleges Hatások korlátozva lehetnek specifikus fegyvertípusokra vagy kockadobásokra, például megkövetelve egy Kritikus vagy Balsiker eredményt a képességpróbán.
 
-Amikor két vagy több Különleges hatást szereztek, a harcoló fél szabadon keverheti és válogathatja, melyeket választja, feltéve, hogy minden egyes hatás előfeltétele teljesül. Egyes hatások halmozhatók. Például egy támadó, aki Kritikus Sikert dobott és két Különleges hatást nyert, választhatja kétszer a Sebzés Maximalizálását ahelyett, hogy két külön támadó manővert választana.
+Amikor két vagy több Különleges Hatást nyernek, a harcoló szabadon keverheti és összeillesztheti, melyeket választja, feltéve, hogy az egyes hatásokhoz szükséges előfeltételek teljesülnek. Néhány hatás halmozható. Például egy támadó, aki Kritikus Sikert dob, és két Különleges Hatást nyer, választhatja a Sebzés Maximalizálását kétszer, ahelyett, hogy két külön támadó manővert választana.
 
-### Különleges hatások táblázata
+### Különleges Hatások táblázata
 
-| Különleges hatás | Támadó | Védő | Speciális fegyvertípus | Konkrét dobás | Halmozható |
+| Különleges Hatás | Támadó | Védekező | Spec. Fegyvertípus | Specifikus Dobás | Halmozható |
 | :-- | :-: | :-: | :-- | :-: | :-: |
-| [Véletlen sérülés](0008_Combat.md?id=accidental-injury) | | X | | Támadó Baklövése | |
+| [Véletlen sérülés](0008_Combat.md?id=accidental-injury) | | X | | Támadó Balsikere | |
 | [Felállás](0008_Combat.md?id=arise) | | X | | | |
-| [Zúzás](0008_Combat.md?id=bash) | X | | Pajzsok vagy Zúzó fegyverek | | |
-| [Vérzés](0008_Combat.md?id=bleed) | X | | Vágó fegyverek | | |
-| [Ellenfél elvakítása](0008_Combat.md?id=blind-opponent) | | X | | Védő Kritikus dobása | |
-| [Páncél megkerülése](0008_Combat.md?id=bypass-armor) | X | | | Támadó Kritikus dobása | X |
-| [Testrész választása](0008_Combat.md?id=choose-location) | X | | | Lásd a leírást | |
-| [Hárítás megkerülése](0008_Combat.md?id=circumvent-parry) | X | | | Támadó Kritikus dobása | |
-| [Fegyver sérülése](0008_Combat.md?id=damage-weapon) | X | X | | | |
+| [Ütés](0008_Combat.md?id=bash) | X | | Pajzsok vagy tompa | | |
+| [Vérzés](0008_Combat.md?id=bleed) | X | | Vágófegyverek | | |
+| [Ellenfél elvakítása](0008_Combat.md?id=blind-opponent) | | X | | Védekező Kritikusa | |
+| [Páncél megkerülése](0008_Combat.md?id=bypass-armor) | X | | | Támadó Kritikusa | X |
+| [Hely kiválasztása](0008_Combat.md?id=choose-location) | X | | | Lásd a leírást | |
+| [Hárítás megkerülése](0008_Combat.md?id=circumvent-parry) | X | | | Támadó Kritikusa | |
+| [Fegyver rongálása](0008_Combat.md?id=damage-weapon) | X | X | | | |
 | [Ellenfél lefegyverzése](0008_Combat.md?id=disarm-opponent) | X | X | | | |
-| [Hárítás fokozása](0008_Combat.md?id=enhance-parry) | | X | | Védő Kritikus dobása | |
-| [Összegabalyítás](0008_Combat.md?id=entangle) | X | X | Gabalyító fegyverek | | |
-| [Hiba kényszerítése](0008_Combat.md?id=force-failure) | X | X | | Ellenfél Baklövése | |
-| [Megragadás](0008_Combat.md?id=grip) | X | | Fegyvertelen | | |
-| [Átszúrás](0008_Combat.md?id=impale) | X | | Átszúró fegyverek | | |
-| [Mesterlövész](0008_Combat.md?id=sharpshooter) | X | | Távolsági fegyverek | | |
-| [Sebzés maximalizálása](0008_Combat.md?id=maximize-damage) | X | | | Támadó Kritikus dobása | X |
-| [Ellencsapás készítése](0008_Combat.md?id=prepare-counter) | | X | | | X |
+| [Hárítás fokozása](0008_Combat.md?id=enhance-parry) | | X | | Védekező Kritikusa | |
+| [Becsavarás](0008_Combat.md?id=entangle) | X | X | Becsavaró fegyverek | | |
+| [Kudarc kényszerítése](0008_Combat.md?id=force-failure) | X | X | | Ellenfél Balsikere | |
+| [Fogás](0008_Combat.md?id=grip) | X | | Puszta kéz | | |
+| [Felnyársalás](0008_Combat.md?id=impale) | X | | Szúrófegyverek | | |
+| [Mesterlövész](0008_Combat.md?id=sharpshooter) | X | | Lőfegyverek | | |
+| [Sebzés maximalizálása](0008_Combat.md?id=maximize-damage) | X | | | Támadó Kritikusa | X |
+| [Ellentámadás előkészítése](0008_Combat.md?id=prepare-counter) | | X | | | X |
 | [Gyors újratöltés](0008_Combat.md?id=rapid-reload) | X | | | | X |
-| [Ellenfél sebhelyezése](0008_Combat.md?id=scar-foe) | X | X | | | |
-| [Célpont választása](0008_Combat.md?id=select-target) | | X | | Támadó Baklövése | |
-| [Kicsúszás](0008_Combat.md?id=slip-free) | | X | | Védő Kritikus dobása | |
-| [Testrész kábítása](0008_Combat.md?id=stun-location) | X | | Zúzó fegyverek | | |
-| [Hasítás](0008_Combat.md?id=sunder) | X | | Kétkezes fegyverek | | |
-| [Ellenfél felbuktatása](0008_Combat.md?id=trip-opponent) | X | X | | | |
+| [Sebhelyesítés](0008_Combat.md?id=scar-foe) | X | X | | | |
+| [Célpont kiválasztása](0008_Combat.md?id=select-target) | | X | | Támadó Balsikere | |
+| [Kicsúszás](0008_Combat.md?id=slip-free) | | X | | Védekező Kritikusa | |
+| [Kábítási hely](0008_Combat.md?id=stun-location) | X | | Tompa fegyverek | | |
+| [Sunder](0008_Combat.md?id=sunder) | X | | Kétkezes fegyverek | | |
+| [Ellenfél elgáncsolása](0008_Combat.md?id=trip-opponent) | X | X | | | |
 | [Visszavonulás](0008_Combat.md?id=withdraw) | | X | | | |
 
-### Különleges hatások leírása
+### Különleges Hatások leírása
 
-#### Véletlen sérülés (Accidental Injury)
-A védő úgy téríti el vagy csavarja el az ellenfél támadását, hogy a támadó baklövést követ el, megsebesítve önmagát. A támadónak a sebzést önmaga ellen kell dobnia egy véletlenszerű Testrészen a csapáshoz használt fegyverrel. Ha fegyvertelen, a támadó elszaggat vagy eltör valamit belül, a sebzésdobás figyelmen kívül hagyja a páncélt.
+#### Véletlen sérülés
 
-#### Felállás (Arise)
-Lehetővé teszi a védő számára, hogy kihasználjon egy pillanatnyi nyílást, és talpra álljon.
+A védekező olyan módon téríti el vagy csavarja el az ellenfél támadását, hogy a támadó balsikert dob, és megsebesíti magát. A támadónak sebzést kell dobnia saját magára egy véletlenszerű Találati Helyen, a támadáshoz használt fegyverrel. Puszta kézzel történő támadás esetén a támadó belső sérülést okoz magának; a sebzésdobás figyelmen kívül hagyja a páncélt.
 
-#### Zúzás (Bash)
-A támadó szándékosan kibillenti az ellenfelét az egyensúlyából. Az, hogy a védő mennyire tántorog hátra vagy oldalra, a használt fegyvertől függ. A pajzsok 5 lábnyit (kb. 1,5 méter) löknek vissza az ellenfélen minden 3 pontnyi sebzés után (a páncél, hárítások stb. miatti levonások előtt), míg a zúzó fegyverek 5 lábnyit minden 5 pont után. A zúzás csak a támadó MÉ-jének kétszereséig terjedő lényekre működik. Ha a címzettet hátrafelé egy akadályba lökik, akkor egy Akrobatika vagy Atlétika jártasság dobást kell tennie Nehéz nehézséggel, hogy elkerülje az elesést vagy a felbukást.
+#### Felállás
 
-#### Vérzés (Bleed)
-A támadás elvág egy főbb vérereket. Ha a csapás legyőzi a Páncélpontokat és megsebzi a célpontot, a védőnek egy Ellentétes Állóképesség dobást kell tennie az eredeti támadó dobással szemben. Ha a védő Hibázik, akkor erősen vérezni kezd. Minden Harcikör kezdetén a címzett elveszít egy Fáradtsági szintet, amíg össze nem esik és esetleg meg nem hal. A vérző sebek az Elsősegély jártasság sikeres dobásával elláthatók, de a címzett már nem hajthat végre semmilyen megerőltető vagy erőszakos cselekedetet a seb újbóli megnyitása nélkül. Lásd a [Vérvesztést](0007_Game_System.md?id=blood-loss).
+Lehetővé teszi a védekezőnek, hogy a pillanatnyi nyílást kihasználva visszaguruljon a talpára.
 
-#### Ellenfél elvakítása (Blind Opponent)
-Kritikus dobáson a védő rövid időre elvakítja az ellenfelét homok dobásával, napfény visszaverésével a pajzsáról, vagy más olyan taktikával, amely rövid időre zavarja a támadó látását. A támadónak egy Ellentétes Elhajlás dobást (vagy Fegyver jártasságot, ha pajzsot használ) kell tennie a védő eredeti Hárítás dobásával szemben. Ha a támadó Hibázik, 1d3 Körig Nehéz vagy Formidábilis szituációs módosítót szenved, a vakítás módjától függően.
+#### Ütés
 
-#### Páncél megkerülése (Bypass Armor)
-Kritikus dobáson a támadó rést talál a védő természetes vagy viselt páncélján. Ha a védő természetes védelemnél erősebb páncélt visel, akkor a támadónak el kell döntenie, melyiket kerüli meg. Ez a hatás halmozható mindkettő megkerülésére. E hatás céljából a mágiából származó fizikai védelem viselt páncélként kezelendő.
+A támadó szándékosan egyensúlyából kibillentő ütést mér az ellenfélre. Hogy a védekező mennyit tántorog hátra vagy oldalra, az a használt fegyvertől függ. A pajzsok minden 3 pontnyi sebzés után 5 lábbal lökik hátra az ellenfelet (mielőtt bármilyen levonás történne a páncél, hárítások stb. miatt), míg a tompa fegyverek minden 5 pont után 5 lábbal. Az ütés csak az támadó MÉR-jének kétszereséig terjedő lényekre hat. Ha a címzettet hátrafelé egy Akadályba kényszerítik, akkor Nehéz nehézségű Akrobatika vagy Atletika képességpróbát kell dobnia, hogy elkerülje az esést vagy a megbotlást.
 
-#### Testrész választása (Choose Location)
-Közelharci fegyverek használatakor a támadó szabadon választhatja ki a helyet, ahol a csapás érkezik, feltéve, hogy az a hely általában elérhető közelségben van. Távolsági fegyverek használatakor a Testrész választása csak Kritikus Siker esetén lehetséges, hacsak a célpont Közelhatótávolságon belül nincs, és vagy álló helyzetben van, vagy nem tud a támadóról.
+#### Vérzés
 
-#### Hárítás megkerülése (Circumvent Parry)
-Kritikus dobáson a támadó teljesen megkerülhet egy egyébként sikeres Hárítást.
+A támadás átvág egy főbb véreret. Ha a csapás legyőzi a Páncélpontokat és megsebesíti a célpontot, a védekezőnek Opponáló Állóképesség-dobást kell végrehajtania az eredeti támadó dobás ellen. Ha a védekező Kudarcot vall, akkor erősen vérezni kezd. Minden Harci Kör kezdetén a címzett elveszít egy Fáradtsági szintet, amíg össze nem esik és esetleg meg nem hal. A vérző sebek Elsősegély képességpróba sikeres elvégzésével elláthatók, de a címzett a továbbiakban nem hajthat végre megerőltető vagy erőszakos akciót a seb újbóli megnyílása nélkül. Lásd [Vérveszteség](0007_Game_System.md?id=blood-loss).
 
-#### Fegyver sérülése (Damage Weapon)
-Lehetővé teszi a karakternek, hogy károsítsa ellenfele fegyverét egy támadás vagy Hárítás részeként. Támadáskor a karakter kifejezetten a védő Hárító fegyverét célozza, és a sebzésdobását arra alkalmazza, nem pedig a forgatóra. A megcélzott fegyver a saját Páncélpontjait használja a sebzés ellenállására. Ha nulla Életerőre csökken, a fegyver eltörik.
+#### Ellenfél elvakítása
 
-#### Ellenfél lefegyverzése (Disarm Opponent)
-A karakter kiüti, kirántja vagy kicsavarja az ellenfél kezéből a fegyvert. Az ellenfélnek egy Ellentétes Harci stílus dobást kell tennie a karakter eredeti dobásával szemben. Ha a lefegyverzés címzettje veszít, fegyvere a lefegyverző Sebzés Módosítójának x3-szorosának megfelelő lábtávolságra repül. Ha nincs Sebzés Módosító, akkor a fegyver a lefegyverzett személy lábánál esik le. A fegyverek relatív mérete befolyásolja a dobást. Minden fok, amivel a lefegyverző karakter fegyvere nagyobb, eggyel növeli az ellenfél dobásának nehézségét. Ezzel szemben minden fok, amivel a lefegyverző karakter fegyvere kisebb, eggyel könnyebbé teszi a nehézséget. A lefegyverzés csak a támadó EREjének kétszereséig terjedő lényekre működik.
+Kritikus eredmény esetén a védekező rövid időre elvakítja ellenfelét homok dobásával, a napfény pajzsáról való visszaverésével vagy egyéb taktikával, amely rövid időre megzavarja a támadó látását. A támadónak Opponáló Kitérés-dobást (vagy Fegyver képesség-dobást, ha pajzsot használ) kell végrehajtania a védekező eredeti Hárítás-dobása ellen. Ha a támadó Kudarcot vall, Nehéz vagy Félelmetes helyzeti módosítót szenved el a következő 1d3 Körben, a vakítás módszerétől függően.
 
-#### Hárítás fokozása (Enhance Parry)
-Kritikus dobáson a védőnek sikerül elhárítania a támadás teljes erejét, függetlenül a fegyvere Méretétől.
+#### Páncél megkerülése
 
-#### Összegabalyítás (Entangle)
-Lehetővé teszi a gabalyító fegyvert, például ostort vagy hálót használó karakternek, hogy mozgásképtelenné tegye az eltalált testrészt. Az összegabalyított kar nem tudja használni azt, amit tart; a hurokba került láb megakadályozza a célpontot a mozgásban; míg az elkapott fej, mellkas vagy has minden jártasság dobását eggyel nehezebbé teszi. A következő körében a forgató elkölt egy Cselekvési Pontot, hogy automatikus Ellenfél felbuktatása kísérletet hajtson végre. Az összegabalyított áldozat megkísérelhet kiszabadulni a saját körében vagy egy Ellentétes Erő dobással próbálva kitépni magát, vagy megnyerve egy Különleges hatást, kiválasztva a Fegyver sérülését, Ellenfél lefegyverzését vagy Kicsúszást.
+Kritikus eredmény esetén a támadó rést talál a védekező természetes vagy viselt páncélzatán. Ha a védekező a természetes védelem feletti páncélzatot visel, akkor a támadónak el kell döntenie, melyiket kerüli meg. Ez a hatás halmozható mindkettő megkerülésére. E hatás szempontjából a mágiából származó fizikai védelem viselt páncélzatnak tekintendő.
 
-#### Hiba kényszerítése (Force Failure)
-Amikor az ellenfél Baklövést követ el, a karakter kombinálhatja a Hiba kényszerítését bármely más Különleges hatással, amelyhez Ellentétes Dobás szükséges. A Hiba kényszerítése az ellenfelet alapértelmezésben a védekezési dobása elhibázására készteti – ezáltal automatikusan lefegyverezve, felbuktatva stb.
+#### Hely kiválasztása
 
-#### Megragadás (Grip)
-Feltéve, hogy az ellenfél a támadó Fegyvertelen harci hatótávolságán belül van, használhat egy üres kezet (vagy hasonló megragadásra képes végtagot), hogy tartsa az ellenfelet, megakadályozva, hogy elszakadjon a harctól. Az ellenfél megkísérelhet kiszabadulni a saját körében, ami egy Ellentétes Erő vagy Fegyvertelen dobást igényel a két jártasság közül, amelyet a megragadó preferál.
+Kézi közelharci fegyverek használatakor a támadó szabadon kiválaszthatja a helyet, ahová a csapás érkezik, amennyiben az a hely normálisan elérhető. Lőfegyverek használata esetén a Hely kiválasztása csak Kritikus Siker esetén lehetséges, hacsak a célpont nem Közelhatótávolságon belül van, és vagy mozdulatlan, vagy nincs tudatában a támadónak.
 
-#### Átszúrás (Impale)
-Dobd a fegyver sebzését kétszer, a támadó választja ki, melyik eredményt használja a támadáshoz. Feltételezve, hogy a fegyver közelharci fegyver, ha a páncél áthatol és sebet okoz, a támadónak lehetősége van a fegyvert a sebben hagyni vagy a következő körében kitépni. A fegyver sebben hagyása Nehézségi fokot ró az áldozat jövőbeli jártasságkísérleteire. A büntetés súlyossága a lény és az átszúró fegyver méretétől függ, az alábbi Átszúrási Hatások táblázata szerint. Az egyszerűség kedvéért az azonos méretű fegyverrel történő további átszúrások nem rónak további büntetéseket. Az átszúrt fegyver visszahúzásához közelharcban a Készülés Harcicselekedet szükséges. A forgatónak sikeres, nem ellenzett Erő dobást kell tennie (vagy megnyerni egy Ellentétes Erő dobást, ha az ellenfél ellenáll). A siker kitépi a fegyvert, további sérülést okozva ugyanazon a helyen, a fegyverre vonatkozó normál sebzésdobás felének megfelelő értékben, de Sebzés Módosító nélkül. A hiba azt jelenti, hogy a fegyver beragadva marad a sebben, további hatás nélkül, bár a forgató a következő körében újra megpróbálhatja. A kifejezetten szöges fegyverek (például szigonyok) normál sebzést okoznak. A páncél nem csökkenti a visszahúzási sebzést. Amíg átszúrva marad, a támadó nem használhatja az átszúró fegyverét Hárításra.
+#### Hárítás megkerülése
 
-##### Átszúrási Hatások táblázata
+Kritikus eredmény esetén a támadó teljesen megkerülhet egy egyébként sikeres hárítást.
 
-| Lény MÉ | Kicsi fegyverek | Közepes fegyverek | Nagy fegyverek | Hatalmas fegyverek | Óriási fegyverek |
+#### Fegyver rongálása
+
+Lehetővé teszi a karakter számára, hogy egy támadás vagy hárítás részeként megrongálja ellenfele fegyverét. Támadáskor a karakter kifejezetten a védekező hárító fegyverét célozza meg, és sebzésdobását arra alkalmazza, a forgató helyett. A megcélzott fegyver a saját Páncélpontjait használja a sebzés ellenállására. Ha nulla Életpontra csökken, a fegyver eltörik.
+
+#### Ellenfél lefegyverzése
+
+A karakter kiüti, kirántja vagy kicsavarja az ellenfél kezéből a fegyvert. Az ellenfélnek Opponáló Harci Képesség-dobást kell végrehajtania a karakter eredeti dobása ellen. Ha a lefegyverzés címzettje veszít, fegyvere a lefegyverző Sebzésmódosítójának dobása x3 láb távolságra repül el. Ha nincs Sebzésmódosító, akkor a fegyver a lefegyverzett személy lábánál esik le. A fegyverek relatív mérete befolyásolja a dobást. Minden egyes lépés, amivel a lefegyverző karakter fegyvere nagyobb, eggyel növeli az ellenfél dobásának nehézségi fokát. Ezzel szemben minden egyes lépés, amivel a lefegyverző karakter fegyvere kisebb, eggyel könnyíti a nehézségi fokot. A lefegyverzés csak az támadó ERŐ-jének kétszereséig terjedő lényekre hat.
+
+#### Hárítás fokozása
+
+Kritikus eredmény esetén a védekezőnek sikerül a támadás teljes erejét elhárítania, függetlenül a fegyvere Méretétől.
+
+#### Becsavarás
+
+Lehetővé teszi a karakternek, hogy becsavaró fegyverrel, mint például ostorral vagy hálóval, mozgásképtelenné tegye a megütött helyet. Egy becsavart kar nem használhatja azt, amit tart; a megkötözött láb megakadályozza a célpontot a mozgásban; míg a behálózott fej, mellkas vagy has minden képességpróbát eggyel nehezebbé tesz. Következő körében a használó elkölt egy Akciópontot egy automatikus Ellenfél elgáncsolása kísérlet végrehajtásához. A becsavart áldozat a körében megkísérelheti kiszabadítani magát, vagy egy Erőpróbán alapuló Opponáló dobással rántva ki magát, vagy megnyer egy Különleges Hatást, és kiválasztja a Fegyver rongálását, Ellenfél lefegyverzését vagy a Kicsúszást.
+
+#### Kudarc kényszerítése
+
+Akkor használatos, amikor az ellenfél Balsikert dob; a karakter kombinálhatja a Kudarc kényszerítését bármely más Különleges Hatással, amely működéséhez Opponáló dobást igényel. A Kudarc kényszerítése azt okozza, hogy az ellenfél alapértelmezés szerint elvéti az ellenállás-dobását – így automatikusan lefegyverzetté, elgáncsolttá válik, és így tovább.
+
+#### Fogás
+
+Feltéve, hogy az ellenfél a támadó Puszta kezes közelharci hatótávolságán belül van, használhat egy üres kezet (vagy hasonló, fogásra képes végtagot) az ellenfél megragadására, megakadályozva, hogy az el tudjon szakadni a harcból. Az ellenfél a körében megkísérelheti a kiszabadulást, amihez egy Erőpróbán vagy Puszta kézen alapuló Opponáló dobás szükséges, a fogó által preferált két képesség közül.
+
+#### Felnyársalás
+
+Dobjon fegyversebzést kétszer, a támadó választja ki, a két eredmény közül melyiket használja a támadáshoz. Feltételezve, hogy a fegyver közelharci, ha a páncél áthatol és sebet okoz, a támadónak lehetősége van a fegyvert a sebben hagyni, vagy a következő körében kirántani. A fegyver sebben hagyása Nehézségi fokot ró az áldozat jövőbeli képességpróbáira. A büntetés súlyossága mind a lény, mind a felnyársaló fegyver méretétől függ, az alábbi Felnyársalási Hatások táblázata szerint. Az egyszerűség kedvéért az azonos méretű fegyverrel történő további felnyársalások nem okoznak további büntetést. A felnyársalt fegyver közelharci visszahúzásához a fegyver előkészítése Harci Akció használata szükséges. A használónak el kell érnie egy opponálatlan Erőpróbát (vagy meg kell nyernie egy Opponáló Erőpróbát, ha az ellenfél ellenáll). A siker kihúzza a fegyvert, további sérülést okozva ugyanazon a helyen, amely megegyezik az adott fegyver normál sebzésdobásának felével, de Sebzésmódosító nélkül. A kudarc azt jelenti, hogy a fegyver a sebben marad, további hatás nélkül, bár a használó a következő körében újra megpróbálhatja. A kifejezetten szöges fegyverek (például szigonyok) normál sebzést okoznak. A páncél nem csökkenti a visszahúzási sebzést. Amíg a fegyver a sebben marad, a támadó nem használhatja a felnyársaló fegyverét hárításra.
+
+##### Felnyársalási Hatások táblázata
+
+| Lény MÉR | Kicsi Fegyverek | Közepes Fegyverek | Nagy Fegyverek | Hatalmas Fegyverek | Óriási Fegyverek |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 1-10 | Formidábilis | Herkulesi | Harcképtelen | Harcképtelen | Harcképtelen |
-| 11-20 | Nehéz | Formidábilis | Herkulesi | Harcképtelen | Harcképtelen |
-| 21-30 | Nincs hatás | Nehéz | Formidábilis | Herkulesi | Harcképtelen |
-| 31-40 | Nincs hatás | Nincs hatás | Nehéz | Formidábilis | Herkulesi |
-| 41-50 | Nincs hatás | Nincs hatás | Nincs hatás | Nehéz | Formidábilis |
-| Minden +10 | Kövesd a táblázat fejlődését |
+| 1-10 | Félelmetes | Herkulesi | Harcképtelen | Harcképtelen | Harcképtelen |
+| 11-20 | Nehéz | Félelmetes | Herkulesi | Harcképtelen | Harcképtelen |
+| 21-30 | Nincs hatás | Nehéz | Félelmetes | Herkulesi | Harcképtelen |
+| 31-40 | Nincs hatás | Nincs hatás | Nehéz | Félelmetes | Herkulesi |
+| 41-50 | Nincs hatás | Nincs hatás | Nincs hatás | Nehéz | Félelmetes |
+| Minden +10 | Kövesse a táblázatot |
 
-#### Mesterlövész (Sharpshooter)
-Lehetővé teszi a lövőnek, hogy a lövése által eltalált Testrészt egy fokkal, egy közvetlenül szomszédos testfelületre mozgassa. A fiziológiának van hatása arra, hogy mit lehet újra megcélozni, és a józan észt alkalmazni kell. Így, e Különleges hatás használata egy humanoidon lehetővé tenné a támadónak, aki láblövést dobott, hogy ehelyett a hasra mozgassa. Ezzel szemben egy griffmadarat mellkason lőni lehetővé tenné az elülső lábak, szárnyak vagy fej kiválasztását.
+#### Mesterlövész
 
-#### Sebzés maximalizálása (Maximize Damage)
-Kritikus dobáson a karakter a fegyvere sebzéskockáinak egyikét helyettesítheti a teljes értékével. Például egy Kézi fejsze, amely általában 1d6 sebzést okoz, ehelyett 6-osnak számítana, míg egy 2d6 sebzésű nagy buzogány ehelyett 1d6+6 sebzést okozna. Ez a Különleges hatás halmozható. Bár természetes fegyverekre is használható, a Sebzés maximalizálása nem érinti a támadó Sebzés Módosítóját, amit normálisan kell dobni.
+Lehetővé teszi a lövőnek, hogy a lövése által eltalált Találati Helyet egy fokkal elmozdítsa, egy közvetlenül szomszédos testterületre. Az élettan hatással van arra, mit lehet újra megcélozni, és a józan észt kell alkalmazni. Így e Különleges Hatás használata egy humanoidon lehetővé tenné a támadónak, aki láblövést dobott, hogy azt helyette a hasra mozdítsa. Ezzel szemben egy griff mellkason lövése lehetővé tenné az elülső lábak, szárnyak vagy fej kiválasztását.
 
-#### Ellencsapás készítése (Prepare Counter)
-A védő kiolvassa ellenfele mintáit és ellencsapást készít egy konkrét Különleges hatás ellen (amit titokban fel kell jegyezni). Ha ellenfele a harc során megkísérli a kiválasztott Különleges hatást alkalmazni rajta, a védő azonnal helyettesíti a támadó hatását a sajátjával, amely automatikusan sikeres.
+#### Sebzés maximalizálása
 
-#### Gyors újratöltés (Rapid Reload)
-Távolsági fegyver használatakor a támadó eggyel csökkenti a következő lövés újratöltési idejét. Ez a hatás halmozható.
+Kritikus eredmény esetén a karakter helyettesítheti fegyvere egyik sebzéskockáját annak maximális értékével. Például egy Kézi fejsze, amely normálisan 1d6 sebzést okoz, helyette 6-osnak számítana, míg egy 2d6 sebzésű Nagy buzogány 1d6+6 sebzést okozna. Ez a Különleges Hatás halmozható. Bár természetes fegyvereknél is használható, a Sebzés maximalizálása nem befolyásolja a támadó Sebzésmódosítóját, amelyet normálisan kell dobni.
 
-#### Ellenfél sebhelyezése (Scar Foe)
-A harcoló fél olyan sebhelyet ejt ellenfelén, amelyről élete végéig beszélni fognak – például egy majdnem elvágott torok, vagy a mellkasra művészien bevésett 'Z' betű.
+#### Ellentámadás előkészítése
 
-#### Célpont választása (Select Target)
-Amikor a támadó Baklövést követ el, a védő úgy manőverezheti vagy térítheti el a csapást, hogy az ehelyett egy közeli szemlélőt találjon el. Ez megköveteli, hogy az új célpont a támadó közelharci fegyverének elérhetőségén belül legyen, vagy távolsági támadás esetén a tűzvonalban álljon. Az új áldozatot teljesen meglepi a váratlan baleset, és semmi esélye nincs elkerülni a támadást, amely automatikusan betalál. Kárpótlásul azonban semmilyen Különleges hatást nem szenved el.
+A védekező kiolvassa ellenfele mintáit, és előkészít egy ellentámadást egy specifikus Különleges Hatás ellen (amelyet titokban fel kell jegyezni). Ha ellenfele megkísérli a választott Különleges Hatást végrehajtani ellene a harc során, a védekező azonnal helyettesíti a támadó hatását egy sajátjával, amely automatikusan sikerül.
 
-#### Kicsúszás (Slip Free)
-Kritikus dobáson a védő automatikusan megmenekül az Összegabalyítás, Megragadás vagy Leszorítás alól.
+#### Gyors újratöltés
 
-#### Testrész kábítása (Stun Location)
-A támadó zúzó fegyvert használhat az eltalált testrész ideiglenes kábítására. Ha a csapás legyőzi a Páncélpontokat és megsebzi a célpontot, a védőnek egy Ellentétes Állóképesség dobást kell tennie az eredeti támadó dobással szemben. Ha a védő Hibázik, akkor a Testrész a sebzés értékével megegyező számú Körig Harcképtelen. A törzsre mért csapás a védőt tántorgásra, kábultságra készteti, csak védekezésre képes. A fejre mért lövés az ellenséget rövid időre érzéketlenné és cselekvésre képtelenné teszi.
+Lőfegyver használatakor a támadó eggyel csökkenti a következő lövés újratöltési idejét. Ez a hatás halmozható.
+
+#### Sebhelyesítés
+
+A harcoló olyan sebhelyet ejt az ellenfelén, amelyről élete végéig beszélni fognak – például egy majdnem átvágott torok, vagy a mellkasra művészien bevésett 'Z' betű.
+
+#### Célpont kiválasztása
+
+Amikor egy támadó Balsikert dob, a védekező úgy manőverezheti vagy térítheti el a csapást, hogy az helyette egy közeli szemlélődőt találjon el. Ez megköveteli, hogy az új célpont a támadó közelharci fegyverének hatótávolságán belül legyen, vagy lőtámadás esetén a tűzvonalban álljon. Az új áldozatot teljesen váratlanul éri a váratlan baleset, és nincs esélye elkerülni a támadást, amely automatikusan talál. Kompenzációként azonban nem szenved el semmilyen Különleges Hatást.
+
+#### Kicsúszás
+
+Kritikus eredmény esetén a védekező automatikusan megmenekül a Becsavarástól, Fogástól vagy Leszorítástól.#### Kábítás (Stun Location)
+
+A támadó tompa fegyvert használhat a célzott testrész átmeneti elkábítására. Ha az ütés legyőzi a Páncélértéket és megsebzi a célpontot, a védőnek az eredeti támadó dobással szemben egy ELLENFELETT Állóképesség próbát kell tennie. Ha a védő elbukja, a Találati Hely az okozott sebzéssel megegyező számú Körre harcképtelenné válik. A törzsre mért csapás hatására a védő tántorogni kezd, elakad a lélegzete, és csak védekezésre képes. A fejet ért találat az ellenfelet rövid időre eszméletlenné teszi, és cselekvésképtelenné válik.
 
 #### Hasítás (Sunder)
-A támadó megfelelő fegyvert, például fejszét használhat ellenfele páncéljának vagy természetes védelmének károsítására. Bármilyen fegyversebzés, a Hárítás vagy mágia miatti csökkentések után, a védelem Páncélpont értéke ellen irányul. A Páncélpontjain túli többletsebzés ezután az adott (páncélos) hely AP értékének csökkentésére szolgál – elszakítva szíjakat, szétszakítva gyűrűket, meggyűrve lemezeket, vagy letépve a szörnyek bőrét, pikkelyeit vagy kitinjét. Ha a védelem nullára csökkentése után marad sebzés, az átkerül az eltalált hely Életerejére.
 
-#### Ellenfél felbuktatása (Trip Opponent)
-A karakter megkísérli kibillenteni az egyensúlyából vagy a földre dobni az ellenfelét. Az ellenfélnek egy Ellentétes Erő, Elhajlás vagy Akrobatika dobást kell tennie a karakter eredeti dobásával szemben. Ha a célpont Hibázik, hason fekvő helyzetbe kerül. A négylábú ellenfelek (vagy több lábbal rendelkezők) helyettesíthetik az Atlétika jártasságukat az Elhajlás helyett, és a dobást eggyel könnyebb Nehézségi fokon kezelhetik.
+A támadó egy megfelelő fegyverrel, például egy fejszével, károsíthatja az ellenfél páncélzatát vagy természetes védelmét. A fegyver sebzése — a hárítás vagy mágia miatti csökkentések után — a védelem Páncélértékére mérődik. Az Páncélértéket meghaladó többletsebzés az adott páncélozott testrész Páncélértékét csökkenti – elszakítja a szíjakat, szétpattintja a gyűrűket, behorpasztja a lemezeket, vagy letépi a szörnyek bőrét, pikkelyeit vagy kitinpáncélját. Ha a védelem nullára csökkentése után még marad sebzés, az a találatot szenvedő testrész Életerő pontjaira számítódik.
+
+#### Ellenfél felborítása (Trip Opponent)
+
+A karakter megpróbálja kibillenteni az egyensúlyából vagy a földre dobni az ellenfelét. Az ellenfélnek egy ELLENFELETT próbát kell tennie az ERŐ, Kitérés vagy Akrobatika képességével a karakter eredeti dobásával szemben. Ha a célpont elbukja a próbát, hasra esik. A négylábú ellenfelek (vagy több lábbal rendelkező lények) a Kitérés helyett az Atlétika képességüket használhatják, és a dobást egy Nehézségi Szinttel könnyebbnek tekinthetik.
 
 #### Visszavonulás (Withdraw)
-A védő automatikusan visszavonulhat a hatótávolságon kívülre, megszakítva a küzdelmet az adott ellenféllel.
+
+A védő automatikusan visszavonulhat a hatótávolságon kívülre, megszakítva ezzel az érintkezést az adott ellenféllel.
 
 ---
 ## Közelharc
 
-A közelharc a kézitusát jelenti klasszikus értelemben, amikor a harcoló felek fegyverrel vagy természetes fegyverekkel ütik egymást. Az alábbi irányelvek olyan módokat kínálnak a közelharc érdekessé tételére, és segítenek tovább magyarázni néhányat az ebben a fejezetben korábban említett fogalmak közül.
+A közelharc a kézitusát jelenti klasszikus értelmében, amikor a harcosok fegyverrel vagy puszta kézzel sújtanak egymásra. Az alábbi irányelvek segítenek érdekesebbé tenni a közelharcot, és tovább pontosítják a fejezet korábbi részeiben említett fogalmakat.
 
-### Szituációs módosítók
+### Helyzeti módosítók
 
-Szituációs módosítók alkalmazhatók bizonyos körülmények között történő harc esetén, vagy egy Különleges hatás eredményeként. Például sötétben harcolni Herkulesi Nehézségi fokot vonhat maga után. Hacsak másként nem szerepel, a módosítókat a Játékmester határozza meg. Ahol két vagy több helyzet releváns a karakter számára, a legsúlyosabbat kell alkalmazni.
+Helyzeti módosítók alkalmazhatók meghatározott körülmények között folytatott harc során, vagy egy Különleges Effektus eredményeként. Például a sötétben való harc Hősies Nehézségi Szintet vonhat maga után. Eltérő rendelkezés hiányában a módosítókat a Játékmester határozza meg. Ha két vagy több helyzet is vonatkozik a karakterre, a legsúlyosabbat kell alkalmazni.
 
-Néhány módosító körülményfüggő, de a Nehézségi fok alkalmazása helyett a Harcjártasságot egy releváns jártasság korlátozza. Például ló hátáról harcolva a harcoló Harcjártasságát a Lovaglás jártassága korlátozná, míg vízben harcolva az a karakter Úszás jártasságának értékére korlátozódhat.
+Egyes módosítók körülményfüggőek, de Nehézségi Szint alkalmazása helyett a Harci Képesség egy releváns képességgel korlátozódik. Például a lóhátról való harc a harcos Harci Képességét a Lovaglás képességével korlátozza, míg a vízben való harc a karakter Úszás képességének értékére korlátozhatja azt.
 
-##### Közelharci szituációs módosítók
+##### Közelharci helyzeti módosítók
 
-| Helyzet | Nehézségi fok |
-| --- | --- |
+| Helyzet | Nehézségi Szint |
+| :--- | :--- |
 | Tehetetlen célpont támadása | Automatikus |
-| Támadás szűk helyzetben | Nehéz |
-| Védekezés alacsonyabb talajon vagy lovas ellenfél ellen | Nehéz |
-| Harc instabil talajon | Nehéz |
-| Harc guggolva vagy fél térden | Nehéz |
-| Harc gyenge látási viszonyok között (sűrű köd, hóvihar) | Nehéz |
-| Védekezés hátulról érkező támadás ellen | Formidábilis |
-| Harc hason fekve | Formidábilis |
-| Harc részleges sötétségben (gyenge megvilágítás) | Formidábilis |
-| Harc koromsötét körülmények között (egyáltalán nincs fény) | Herkulesi |
-| Elvakítottság vagy elsődleges érzékelési érzék elvesztése | Herkulesi |
+| Zárt térben való támadás | Nehéz |
+| Védekezés alacsonyabb pozícióból vagy lovas ellenféllel szemben | Nehéz |
+| Instabil talajon való harc | Nehéz |
+| Guggolva vagy féltérden harcolva | Nehéz |
+| Rossz látási viszonyok között való harc (sűrű köd, hóvihar) | Nehéz |
+| Védekezés hátulról érkező támadással szemben | Félelmetes |
+| Hasra esve harcolva | Félelmetes |
+| Részleges sötétségben való harc (gyenge megvilágítás) | Félelmetes |
+| Koromsötét körülmények (nincs megvilágítás) | Hősies |
+| Elvakítva vagy elsődleges érzékszerv elvesztése | Hősies |
 
-### Küzdelem (Engagement)
-Egy karakter Küzdelemben lévőnek tekintendő, ha egy ellenfél közelharci fegyverének hatótávolságán belül van. Ez nem feltétlenül követeli meg, hogy mindkét harcoló fél elérje egymást; csak azt, hogy egyikük potenciálisan megüthesse a másikat. Miután egy karakter Küzdelembe került egy ellenféllel, már nem távozhat szabadon a harcból (a mellette elrohanni különleges kivétel). A küzdelem elhagyása szándékos cselekedetet igényel, amelyet általában egy Harcicselekedettel, mint a Kijátszás, vagy a Visszavonulás Különleges hatás használatával hajtanak végre.
+### Harcérintkezés (Engagement)
 
-### Roham (Charging)
-A Roham cselekedet a gyors mozgás aktusa egy támadás erejének és hatásának növelésére. A rohamhoz a támadónak Roham cselekedetet kell választania, Futó vagy Sprint jármódban mozogva. Ha ez érintkezésbe hozza az ellenfelével, ott meg kell állnia és végre kell hajtania a Támadás cselekedetet, a rohamra módosítva. Nincs minimális távolság, amelyet meg kell tenni a roham előtt, mivel a megtett távolság kevésbé számít, mint az elért lendület. Ezért a futás vagy sprintelés.
+Egy karakter akkor minősül "Harcérintkezésben lévőnek", ha ellenfele közelharci fegyverének hatótávolságán belül van. Ez nem feltétlenül jelenti azt, hogy mindkét harcos elérheti a másikat; elegendő, ha az egyikük potenciálisan megütheti a másikat. Amint egy karakter Harcérintkezésbe került az ellenféllel, már nem hagyhatja el szabadon a harcot (a rohamozva elhaladás egy különleges kivétel). A kapcsolódás megszakításához valamilyen szándékos cselekedet szükséges, amelyet általában egy olyan Harci Akcióval hajtanak végre, mint a Manőverezés, vagy a Visszavonulás Különleges Effektus használatával.
 
-Roham közben a támadó dobás Nehéz Nehézségi fokot szenved. Cserébe a roham eggyel növeli a támadó fegyver Méretét és a kétlábú támadó Sebzés Módosítóját; vagy kettővel, ha négylábú (vagy több lábú). A lovas karakterek helyettesíthetik a saját Sebzés Módosítójukat a hátasukéval. A rohamozó karakter végső pozíciója a csere eredményétől függ, és attól, hogy a támadó meg akar-e állni vagy tovább kíván-e söpörni, azonnal megszakítva a Küzdelmet.
+### Rohamozás (Charging)
 
-Hárítás vagy Elhajlás helyett a roham címzettje egyidejűleg ellentámadást mérhet a rohamozó támadóra. Ebben az esetben a hosszabb fegyver forgatója üt először. Ha a fegyver beállítható a roham fogadására (például egy lándzsa), a címzett használhatja a rohamozó Sebzés Módosítóját a sajátja helyett.
+A Roham Akció célja a gyors mozgás, hogy fokozzuk a támadás erejét és hatását. A rohamhoz a támadónak Roham Akciót kell választania, Futás vagy Sprintelés sebességgel mozogva. Ha ezáltal kontaktusba kerül az ellenféllel, ott meg kell állnia és végre kell hajtania a Támadás Akciót, a rohamnak megfelelő módosításokkal. Nincs minimális távolság, amelyet meg kell tenni a roham előtt, mivel a megtett távolság kevésbé számít, mint az elért lendület. Ezért a futás vagy sprintelés.
+
+Rohamozás közben a támadó dobás Nehézségi Szintje Nehéz. Cserébe a roham a támadó fegyver Méretét egy fokozattal, a kétlábú támadó Sebzés Módosítóját pedig egy fokozattal növeli; vagy két fokozattal, ha négylábú (vagy több lábú). A lovas karakterek a saját Sebzés Módosítójukat a hátasukéval helyettesíthetik. A rohamozó karakter végső pozíciója a harc kimenetelétől függ, és attól, hogy a támadó meg akar-e állni, vagy tovább akar-e haladni, azonnal megszakítva a harcérintkezést.
+
+A roham fogadója hárítás vagy kitérés helyett egyidejűleg ellentámadást is indíthat a rohamozó ellen. Ebben az esetben a hosszabb fegyvert viselő támad először. Ha a fegyver felkészíthető roham fogadására (például egy lándzsa), a fogadó a rohamozó Sebzés Módosítóját használhatja a sajátja helyett.
 
 ### Fedezék (Cover)
-Az ellenfelek Fedezéket használnak a támadások blokkolására, vagy a köztes anyag szívóssága miatti fizikai blokkolással, vagy azzal, hogy elhomályosítják, hol pontosan az ellenség. A fedezék pontos értéke a védelmének vastagságától és kiterjedésétől függ.
 
-Egy elhomályosított Testrészre érkező támadást a fedezék sajátos védelmének mértékéig blokkolni fog. A fedezék részlegesen semlegesíthető a Testrész választása Különleges hatás használatával a célpont látható részeinek célzására, vagy a fedezéken való áthatolással, ha a fegyver képes rá.
+Az ellenfelek Fedezéket használnak a támadások kivédésére, vagy az interponált anyag szilárdsága miatt fizikailag blokkolva az ütést, vagy azzal, hogy elrejtik a pontos helyzetüket. A fedezék pontos értéke a védelem vastagságától és kiterjedésétől függ.
 
-Olyan helyzetekben, ahol a fedezék teljes, de a támadó úgy véli, hogy a támadása át fog hatolni, vakon csaphat a rejtett célpontra. Ilyen esetekben a támadó dobás eggyel nehezebb, és a Testrész választása nem választható, ha nyertek Különleges hatást. Ez feltételezi, hogy a támadó viszonylag pontosan ismeri a célpont pozícióját a fedezék mögött.
+Egy olyan célpont elleni támadást, amely egy eltakart Találati Helyre irányul, a fedezék természetes védelme blokkolja. A fedezék részlegesen kiküszöbölhető a "Hely választása" (Choose Location) Különleges Effektus használatával, hogy a célpont látható részeit célozzák, vagy a fedezéken keresztül ütve, ha a fegyver képes áthatolni rajta.
 
-### Elhajlás (Evade)
-A harcban történő Elhajlás azt jelenti, hogy az ember kiveti magát egy elsöprő támadás elől. Ez a védő Elhajlás jártasságának Ellentétes Tesztjét igényli a támadó releváns dobásával szemben. Ez bármi lehet, egy faltörő harckocsi Vezetés jártasságától egy mágus varázslási jártasságáig. Ha a támadó nyer, akkor normál sebzést okoz. Ha a védő nyer, a sebzés teljesen elkerülhető.
+Olyan helyzetekben, ahol a fedezék teljes, de a támadó úgy véli, hogy a támadása át fog hatolni, vaktában is sújthat a rejtett célpontra. Ilyen esetekben a támadó dobás egy fokozattal nehezebb, és a Hely választása nem alkalmazható, ha Különleges Effektust nyernek. Ez feltételezi, hogy a támadó viszonylag pontosan ismeri a célpont pozícióját a fedezék mögött.
 
-Ha az Ellentétes Dobás győztese egy vagy több Sikerességi szintet ér el az ellenfelénél, a szokásos módon választhat megfelelő Különleges hatásokat. Bármi is az eredmény, az elhajlási csel a védőt hason fekvő helyzetben hagyja – általában megkövetelve a karaktertől, hogy a következő körében talpra álljon –, hacsak nem használhatja a _Felállás_ Különleges hatást.
+### Kitérés (Evading)
+
+A harc közbeni kitérés azt jelenti, hogy az ember kivonja magát egy elsöprő támadás alól. Ez a védő Kitérés képességének ELLENFELETT próbáját igényli a támadó releváns dobásával szemben. Ez bármi lehet, egy tank ágyújától a varázsló varázslatig. Ha a támadó nyer, a normális módon okozza a sebzést. Ha a védő nyer, a sebzést teljesen elkerüli.
+
+Ha az ELLENFELETT próba nyertese egynél több Sikerességi Szintet ér el ellenfelénél, a szokásos módon választhat megfelelő Különleges Effektusokat. Bármi legyen is az eredmény, a kitérő mozdulat a védőt hasra ejti – ami általában megköveteli a karaktertől, hogy a következő körében újra talpra álljon –, hacsak nem tudja használni az _Állj fel!_ (Arise) Különleges Effektust.
 
 ### Visszalökés (Knockback)
-Egy támadás, amely nagyobb sebzést okoz, mint a címzett MÉ-je, alapértelmezés szerint azt eredményezi, hogy a karakter visszalökődik. A sebzés ebben a körülményben a Hárítás vagy páncél miatti csökkentések előtti érték. Ilyen csapás esetén a címzettnek sikeres Könnyű Akrobatika vagy Standard Atlétika dobást kell tennie az elesés elkerülése érdekében. Emellett 5 lábnyit (kb. 1,5 méter) lökődik hátra minden 8 pontnyi sebzésért (vagy annak töredékéért) a MÉ-je felett. A Védekezés Harcicselekedet proaktív használata csökkentheti vagy akár semlegesítheti is a visszalökés hatásait.
+
+Az a támadás, amely nagyobb sebzést okoz, mint a célpont MÉR-e, alapértelmezés szerint a karakter visszalökését eredményezi. A sebzés ebben az esetben a hárítás vagy páncél miatti csökkentés előtti érték. Ilyen ütés elszenvedésekor a fogadónak át kell mennie egy Könnyű Akrobatika vagy Standard Atlétika próbán, hogy elkerülje a hasra esést. Ezenkívül 5 lábbal (kb. 1,5 méterrel) hátralökődik minden 8 pontnyi sebzés után (vagy annak töredéke), amellyel meghaladta a MÉR-ét. A "Készülj fel!" (Brace) Harci Akció proaktív használata csökkentheti vagy akár semlegesítheti is a visszalökés hatásait.
 
 ### Ugró támadások (Leaping Attacks)
-Az ugró támadások különféle helyzetekből indíthatók, legtöbbjük egy les része vagy egy roham befejezéseként, de egyes lények ugró támadást indíthatnak egy ellenfél tetejére nekifutás vagy nagyobb magasság nélkül is.
 
-Az ugró támadást a ugró Atlétika jártasságának Ellentétes Dobásával oldjuk meg a védő Erő vagy Elhajlás jártasságával szemben. A négylábú célpontok a támadó dobást eggyel nehezebb Nehézségi fokon kezelik. Ha az ugró nyer, akkor a védő automatikusan felbukik, a támadó pedig fölötte áll. A hiba azt jelenti, hogy a védő elviselte vagy elkerülte az ütközést. Ha az Ellentétes Dobás győztese egy vagy több Sikerességi szintet ér el az ellenfelénél, a szokásos módon választhat megfelelő Különleges hatásokat.
+Az ugró támadások különféle helyzetekből indíthatók; a legtöbbet rajtaütés részeként vagy egy roham befejezéseként váltják ki, de egyes lények ugrás nélkül is ráugorhatnak az ellenfélre, anélkül, hogy nekifutásra vagy magasabb pozícióra lenne szükségük.
 
-Az ugrás részeként nem történik sebzés; azonban egy ezt követően hason fekvő áldozat nem nyerheti vissza a lábát, amíg vagy támadója el nem távozik, vagy végül nem nyer egy Különleges hatást, amely lehetővé teszi a Felállást. Emellett az ugró támadások csak a támadó MÉ-jének kétszereséig terjedő ellenfelekre működnek. Egy célpont nehezebbé teheti a felbuktatását a Védekezés Harcicselekedet proaktív használatával, feltéve, hogy tudatában van az elkövetkező ugró támadásnak.
+Az ugró támadást az ugró Atlétika képességének a védő ERŐ vagy Kitérés képességével szembeni ELLENFELETT próbájával kell rendezni. A négylábú célpontok elleni támadás egy Nehézségi Szinttel nehezebb. Ha az ugró nyer, a védő automatikusan hasra esik, a támadó pedig fölé kerül. A kudarc azt jelenti, hogy a védő kivédte vagy oldalra ugrott a becsapódás elől. Ha az ELLENFELETT próba nyertese egynél több Sikerességi Szintet ér el, a szokásos módon választhat megfelelő Különleges Effektusokat.
 
-### Kijátszás (Outmaneuver)
-Egy több ellenféllel szemben álló karakter használhat mozgást, hogy korlátozza azok számát, amelyek egyszerre támadhatják, folyamatosan pozíciót váltva, kényszerítve az ellenségeket, hogy zavarják egymást. A kijátszáshoz a karakternek rendelkeznie kell helyhez mozgáshoz, és nem lehet bezárva egy szűk területre.
+Az ugrás önmagában nem okoz sebzést; azonban a hasra esett áldozat nem tud talpra állni, amíg a támadó el nem távozik, vagy amíg végül nem nyer egy olyan Különleges Effektust, amely lehetővé teszi számára az Állj fel! cselekedetet. Ezenkívül az ugró támadások csak a támadó MÉR-énél legfeljebb kétszer nagyobb ellenfelek ellen működnek. Egy célpont megnehezítheti a felborítását a Készülj fel! Harci Akció proaktív használatával, feltéve, hogy tisztában van a közelgő ugró támadással.
 
-A kijátszáshoz a karakternek be kell vonnia ellenfeleit egy csoportos Elhajlás jártasságokon alapuló Ellentétes Dobásba. Minden résztvevőnek, mind a manőverező karakternek, mind azoknak az ellenségeknek, akik sarokba akarják szorítani, el kell költenie egy Cselekvési Pontot. Ezután mindannyian dobnak egyszer, és azok, akik nem tudják felülmúlni a manőverező karakter dobását, a Harcikör hátralévő részében nem támadhatják őt, mivel szövetségeseik vagy tereptárgyak blokkolják őket.
+### Manőverezés (Outmaneuvering)
 
-Ha a manőverező karakter legyőzi összes ellenfelét, lehetősége van biztonságosan küzdeni egyetlen ellenséggel a Kör hátralévő részében, vagy teljesen Visszavonulni a harcból.
+A több ellenféllel szemben álló karakter mozgással korlátozhatja azok számát, akik egyszerre támadhatják, folyamatosan változtatva pozícióját, arra kényszerítve az ellenfeleket, hogy akadályozzák egymást. A manőverezéshez szükség van arra, hogy a karakternek legyen helye mozogni, és ne legyen beszorítva egy szűk területre.
 
-### Passzív Blokkolás (Passive Blocking)
-A Passzív Blokkolás lehetővé teszi egy fegyverrel felszerelt karakternek, hogy úgy tartsa azt, hogy fedjen egy választott helyet (vagy helyeket pajzs használatakor), de annak az árán, hogy képtelen vele aktívan Hárítani (lásd [Helyszín védelme](0008_Combat.md?id=ward-location)). Bármely támadás, amely eltalálja a helyeket, automatikusan megkapja a fegyver vagy pajzs előnyét, a sebzést a szokásos módon csökkentve. A technikát gyakran használják, amikor egy harcos meg akar védeni egy gyenge pontot vagy sérült helyet. Semmi sem akadályozza a két fegyverrel, vagy fegyverrel és pajzzsal küzdő harcost abban, hogy a másik fegyverét aktív Hárításra használja.
+A manőverezéshez a karakternek csoportos ELLENFELETT Kitérés próbát kell tennie az ellenfeleivel szemben. Minden résztvevőnek, a manőverező karakternek és azoknak az ellenfeleknek is, akik sarokba akarják szorítani, el kell költeniük egy Akciópontot. Ezután mindannyian dobnak egyet, és azok, akiknek nem sikerül felülmúlniuk a manőverező karakter dobását, a Harci Kör hátralévő részében nem támadhatják meg őt, mivel szövetségeseik vagy tereptárgyak akadályozzák őket.
 
-Mivel a Passzív Blokkolás ugyanúgy működik, mint a fedezék, a Testrész választása Különleges hatás nem használható a blokk megkerülésére közelharcban, bár az ellenfelek továbbra is használhatják a hatást más, nem blokkolt területek eltalálására. Egy pajzs mögé guggolva a karakter megduplázhatja a fedett helyek számát Passzív Blokkolás közben.
+Ha a manőverező karakter legyőzi összes ellenfelét, választania kell, hogy egyetlen ellenféllel harcol tovább biztonságosan a Kör hátralévő részében, vagy teljesen Visszavonul a harcból.
+
+### Passzív blokkolás (Passive Blocking)
+
+A passzív blokkolás lehetővé teszi, hogy egy fegyverrel rendelkező karakter úgy tartsa azt, hogy az fedezzen egy választott testrészt (vagy pajzzsal használva több testrészt is), de ennek ára, hogy nem tud vele aktívan hárítani (lásd [Testrész védelme](0008_Combat.md?id=ward-location)). Bármely támadás, amely eltalálja ezeket a testrészeket, automatikusan megkapja a fegyver vagy pajzs előnyét, a szokásos módon csökkentve a sebzést. A technikát gyakran használják, amikor egy harcos egy gyenge pontot vagy sérült testrészt akar őrizni. Semmi sem akadályozza a két fegyverrel, vagy fegyverrel és pajzzsal harcolót abban, hogy a másik fegyverével aktívan hárítson.
+
+Mivel a passzív blokkolás ugyanúgy működik, mint a fedezék, a Hely választása Különleges Effektus nem használható a blokk megkerülésére közelharcban, bár az ellenfelek továbbra is használhatják az effektust más, nem blokkolt területek találására. A pajzs mögé guggolva a karakter megduplázhatja a passzív blokkolás által fedett testrészek számát.
 
 ### Meglepetés (Surprise)
-Meglepetés akkor történik, amikor egy váratlan támadást indítanak olyan ellenfelek ellen, akik nem tudnak a támadó jelenlétéről vagy szándékáról. Egy rajtaütés példa az előbbire, míg egy baráti beszélgetés közben áruló módon egy gyanútlan szövetségesre támadni az utóbbira illusztráció.
 
-A meglepetés hatásai a célpontra erőteljesek:
+A meglepetés akkor következik be, amikor váratlan támadást indítanak olyan ellenfelek ellen, akik nincsenek tisztában a támadó jelenlétével vagy szándékával. Az előbbire példa egy rajtaütés, míg az utóbbira az, amikor egy baráti beszélgetés közben áruló módon támadnak rá egy gyanútlan szövetségesre.
 
-- A célpont -10 büntetést kap a Kezdeményezésre.
-- Amíg a Kezdeményezése el nem jön, "lapos lábú" helyzetben vannak (flat-footed) és nem tudják megvédeni magukat.
-- A célpont elleni első támadás, ha sikeres, egy bónusz Különleges hatást nyer.
-- A Kör hátralévő részében nem hajthatnak végre semmilyen támadó Cselekedetet.
+A meglepetés hatásai a célpontra nézve jelentősek:
 
-### Söprő támadások (Sweep Attacks)
-A söprő támadások a Játékmester döntése szerint történnek, amikor szokatlan méretű fegyverek vagy lények támadnak egy szorosan összezárt ellenfélcsoportra – például egy hatalmas sárkány söprő farka vagy egy óriási triceratops megállíthatatlan rohama –, egyszerre több ellenséget ütve el.
+- A célpont -10 büntetést szenved a Kezdeményezés dobására.
+- Amíg a Kezdeményezésük el nem érkezik, "védtelennek" (flat-footed) minősülnek, és nem tudnak védekezni.
+- A célpont elleni első támadás, ha sikeres, bónusz Különleges Effektust kap.
+- A Kör hátralévő részében nem hajthatnak végre támadó Akciót.
 
-A söprő támadást a fegyver vagy lény egyetlen támadó dobásának alkalmazásával hajtják végre az útjában lévő összes célpont ellen. Minden védőnek külön-külön kell feloldania a támadás hatásait, és a támadóra kirótt Különleges hatásokat úgy kezeljük, mintha egyidejűleg történtek volna.
+### Elsöprő támadások (Sweep Attacks)
+
+Az elsöprő támadások a Játékmester döntése alapján történnek, amikor szokatlan méretű fegyverek vagy lények támadnak egy szorosan összeállt csoportra – például egy hatalmas sárkány csapkodó farka vagy egy óriási triceratops megállíthatatlan rohama – több ellenfelet sújtva egyszerre.
+
+Az elsöprő támadást a fegyver vagy lény egyetlen támadó dobásának az összes útjában álló célpontra való alkalmazásával hajtják végre. Minden védőnek külön-külön kell rendeznie a támadás hatásait, és a támadóra vonatkozó minden Különleges Effektust úgy kell kezelni, mintha egyidejűleg történtek volna.
 
 ---
 ## Távolsági harc
 
-A távolsági harc minden olyan fegyvertípust magában foglal, amelyet lőni, dobni vagy parittyázni kell a célpont eltalálásához. A távolsági támadásokat a közelharccal azonos módon oldják fel. Azonban a távolsági fegyvereket általában csak pajzzsal lehet hárítani; azoknak, akiknek nincs, természetes fedezékre kell támaszkodniuk vagy Elhajlást kell használniuk, hogy elvetődjenek a tűzvonalból. Így a könnyű páncélzatú ellenfelek ellen a távolsági fegyverek félelmetes elrettentő eszközök lehetnek.
+A távolsági harc magában foglalja az összes olyan fegyvertípust, amelyet lőni, dobni vagy parittyázni kell a célpont eltalálásához. A távolsági támadásokat a közelharccal megegyező módon rendezik. A távolsági fegyvereket azonban általában csak pajzzsal lehet hárítani; a pajzs nélkülieknek a természetes fedezékre kell hagyatkozniuk, vagy a Kitérés használatával ki kell vetődniük a tűzvonalból. Így a gyengén páncélozott ellenfelekkel szemben a távolsági fegyverek félelmetes elrettentő eszközök lehetnek.
 
-Minden távolsági fegyvernek több specifikus tulajdonsága van, amelyek meghatározzák a hatékonyságát. Azok, amelyeknek kulcsfontosságú hatása van a harcra, a következők:
+Minden távolsági fegyvernek több specifikus tulajdonsága van, amelyek meghatározzák a hatékonyságát. A harc szempontjából kulcsfontosságúak az alábbiak:
 
-- **Erő (Force):** A távolsági fegyver megfelelője a Méretnek. A fegyver vagy lőszere behatoló erejének elvont mértéke annak meghatározására, hogy a csapás legyőzi-e a (pajzs) Hárítást.
-- **Sebzés Módosító:** Ez a tulajdonság mutatja, hogy a támadó Sebzés Módosítója használható-e a távolsági fegyver sebzésdobásának fokozására. Általában csak az íjak és dobófegyverek teszik lehetővé a felhasználó számára a Sebzés Módosító alkalmazását.
-- **Távolság (Range):** Három szám perjelekkel elválasztva, a fegyver vagy lőszere maximális Közel, Effektív és Hosszú távolságát jelölve. A Közelhatótávolság az a távolság, amelyen a Testrész választása Különleges hatás használható, feltéve, hogy a célpont álló helyzetben van vagy nem tud a közelgő támadásról. Az Effektív Távolságnak nincs jelentős módosítója. Hosszútávolságon a fegyver még mindig kárt okozhat, de a sebzés mennyisége megfeleződik, és az Erő eggyel csökken.
-- **Töltés (Load):** A lőszert tüzelő fegyver töltéséhez vagy újratöltéséhez szükséges Cselekedetek száma. A karakter csökkentheti a töltésre vagy készülésre fordított időt a Gyors újratöltés Különleges hatás használatával.
-- **Átszúrási Méret:** Az átszúrt fegyver Mérete eltér attól az Erőtől, amellyel csapást mér. A távolsági átszúró fegyvereknek külön oszlopuk van, amely jelöli a tényleges méretüket, amikor figyelembe vesszük az Átszúrás Különleges hatás által okozott akadályokat.
+- **Erő (Force):** A távolsági fegyverek megfelelője a Méretnek. A fegyver vagy lőszere áthatoló erejének elvont mértéke, amely meghatározza, hogy az ütés legyőzi-e a (pajzzsal végzett) Hárítást.
+- **Sebzés Módosító:** Ez a Tulajdonság mutatja, hogy a támadó Sebzés Módosítója használható-e a távolsági fegyver sebzésdobásának növelésére. Általában csak az íjak és a dobófegyverek teszik lehetővé a felhasználó Sebzés Módosítójának alkalmazását.
+- **Hatótáv:** Három, perjelekkel elválasztott szám, amelyek a fegyver vagy lőszere maximális Közel, Hatékony és Hosszú hatótávolságát jelölik. A Közelhatótáv az a távolság, amelyen belül a "Hely választása" Különleges Effektus használható, feltéve, hogy a célpont áll vagy nincs tudatában a közelgő támadásnak. A Hatékony hatótávolságnak nincs jelentős módosítója. Hosszú hatótávolságon a fegyver még mindig okozhat kárt, de a sebzés feleződik, az Erő pedig egy fokozattal csökken.
+- **Töltés (Load):** A lőszert tüzelő fegyver töltéséhez vagy újratöltéséhez szükséges Körök száma. A karakter a töltésre vagy előkészítésre fordított időt a "Gyors újratöltés" Különleges Effektus használatával csökkentheti.
+- **Átütési Méret (Impale Size):** A beleállt fegyver Mérete eltér az Erőtől, amellyel sújt. A távolsági átütő fegyvereknek külön oszlopuk van, amely a tényleges méretüket mutatja az Átütés Különleges Effektus okozta hátrányok mérlegelésekor.
 
-### Szituációs módosítók
+### Helyzeti módosítók
 
-A közelharchoz hasonlóan szituációs módosítók alkalmazhatók távolsági fegyverek használatakor bizonyos körülmények között. A karakter Harcjártassága korlátozható, ha a fegyvert nehéz körülmények között használja, például lovon lovagolva lándzsát dob.
+A közelharchoz hasonlóan a helyzeti módosítók a távolsági fegyverek használatakor is alkalmazhatók meghatározott körülmények között. A karakter Harci Képessége korlátozva lehet, ha nehéz körülmények között használja a fegyvert, például lándzsát dobva lóhátról.
 
-##### Távolsági harci szituációs módosítók
+##### Távolsági harci helyzeti módosítók
 
-| Helyzet | Nehézségi fok |
+| Helyzet | Nehézségi Szint |
 | :-- | :-- |
-| Könnyű szél\* | Nehéz |
-| Mérsékelt szél\* | Formidábilis |
-| Erős szél\* | Herkulesi |
+| Enyhe szél\* | Nehéz |
+| Mérsékelt szél\* | Félelmetes |
+| Erős szél\* | Hősies |
 | Vihar, orkán vagy rosszabb\* | Reménytelen |
-| Célpont Fut | Nehéz |
-| Célpont Sprintel | Formidábilis |
-| Célpontot köd homályosítja el vagy részleges sötétségben van | Nehéz |
-| Célpontot sűrű füst homályosítja el vagy sötétségben van | Formidábilis |
-| Célpont teljesen elhomályosítva | Herkulesi |
-| Célpont teljesen láthatatlan | Lehetetlen\*\* |
-| Célpont hason fekszik | Formidábilis |
-| Támadó hason fekszik\*\*\* | Herkulesi |
-| Támadó instabil talajon | Nehéz |
+| A célpont fut | Nehéz |
+| A célpont sprintel | Félelmetes |
+| A célpontot köd takarja, vagy részleges sötétségben van | Nehéz |
+| A célpontot sűrű füst takarja, vagy sötétségben van | Félelmetes |
+| A célpont teljesen takarva van | Hősies |
+| A célpont teljesen láthatatlan | Lehetetlen\*\* |
+| A célpont hasra esett | Félelmetes |
+| A támadó hasra esett\*\*\* | Hősies |
+| A támadó instabil talajon van | Nehéz |
 
-_\* Feltételezi, hogy a dobófegyver vagy lőszer sebezhető az oldalszéllel szemben, és felülbírálja a normál készségekre vonatkozó normál szélbüntetést._
+_\* Azt feltételezi, hogy a dobófegyver vagy a lőszer érzékeny az oldalszélre, és felülbírálja a szelek által a normál képességekre rótt szokásos büntetést._
 
-_\*\* Hacsak a célpont általános helyzete nem ismert vagy felfedett, akkor kezelje Herkulesiként._
+_\*\* Hacsak a célpont általános helyzete nem ismert vagy felfedett, akkor Hősiesnek kell tekinteni._
 
-_\*\*\* A büntetés semlegesíthető, ha számszeríjat használ előkészített pozícióból._
+_\*\*\* A büntetés semlegesíthető, ha számszeríjat használnak előkészített pozícióból._
 
 ### Célzás (Aiming)
-A távolsági fegyver célzására fordított további idővel a karakter potenciálisan növelheti a találati esélyét. A célzás egy teljes Harcikörnyi fegyverstabilizálást és a legjobb kibocsátási lehetőségre várást igényel, például egy íjászlövés visszatartása a szél pillanatnyi elállásáig, vagy amíg a célpont két akadály közé nem mozog. Célzással a karakter eggyel csökkentheti a távolsági vagy szituációs módosító nehézségét. A célzással töltött további Körök nem biztosítanak további előnyt.
 
-### Tüzelés tömegbe
+Azáltal, hogy plusz időt tölt egy távolsági fegyver célzásával, a karakter potenciálisan növelheti a találati esélyét. A célzás egy teljes Harci Kört igényel, miközben stabilizálja a fegyvert és várja a legjobb pillanatot az elsütésre, például visszatartja az íj lövését a szél egy pillanatnyi csendjéig, vagy amíg a célpont két akadály közé nem ér. A célzással a karakter egy fokozattal csökkentheti a Távolsági vagy Helyzeti Módosító nehézségét. A célzással töltött további Körök nem adnak további előnyt.
 
-A közelharc kavargó apályába és dagályába tüzelni kockázatos dolog, ezért mindig fennáll a veszélye annak, hogy véletlenül mást találunk el, mint a megcélzott célpontot. Amikor egy tömeg vagy közelharc szélén lévő konkrét célpontra tüzelünk, a támadás Nehéz Nehézségi fokot szenved el. Ha át akarunk tüzelni rajta, azt Formidábilisra kell emelni. A célzás továbbra is engedélyezett a veszély csökkentésének segítésére.
+### Tüzelés tömegbe (Firing into a Crowd)
 
-Egy mesterlövész, aki a nehézségi büntetés ellenére átmegy a támadó dobásán, igazra célzott és eltalálja a tervezett célpontot. Ha azonban a mesterlövész elhibázza a dobást, de a 'tömegbe tüzelés' büntetés nélkül sikerült volna, akkor ehelyett egy szomszédos áldozat találatot kap (aki szabadon Elhajolhat vagy Háríthat a szokásos módon).
+Tömegbe lőni a közelharc kavargó forgatagában kockázatos vállalkozás, ezért mindig fennáll a veszélye annak, hogy véletlenül mást találunk el, mint az eredetileg célzott ellenfelet. Amikor egy tömeg vagy közelharc szélén álló célpontra lőnek, a támadás Nehézségi Szintje Nehéz. Ha magába a közelharcba próbálnak lőni, a nehézséget Félelmetesre kell emelni. A célzás továbbra is megengedett a veszély csökkentése érdekében.
 
-Ha több célpont van a tűzvonalban, a Játékmesternek véletlenszerűen kell meghatároznia az áldozatot. A támadás részeként nyert bármilyen Különleges hatás csak az eredeti célpontra vonatkozik, nem pedig a véletlenül eltalált szemlélőre.
+Az a mesterlövész, aki a nehézségi büntetés ellenére is sikeres támadó dobást tesz, jól célzott, és eltalálja a tervezett célpontot. Ha azonban a mesterlövész elbukja a dobást, de a "tömegbe lövés" büntetés nélkül sikerült volna, akkor helyette egy mellette álló áldozatot talál el (aki szabadon Kitérhet vagy Háríthat a szokásos módon).
+
+Ha egynél több célpont van a tűzvonalban, a Játékmesternek véletlenszerűen kell meghatároznia az áldozatot. A támadás részeként nyert Különleges Effektusok csak az eredeti célpontra vonatkoznak, a véletlenül eltalált járókelőre nem.
