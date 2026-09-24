@@ -1,156 +1,156 @@
 # 7 skyrius: Žaidimo sistema
 
-Per „_Classic Fantasy Imperative_“ žaidimą gali nutikti daugybė įvairių dalykų. Kai kurie iš jų išsprendžiami naudojant įgūdžius arba vieną iš pagrindinių žaidimo mechanikų, pavyzdžiui, kovą ar magiją; kitiems reikia savų taisyklių, kad būtų galima priimti sprendimą. Šiame skyriuje pateikiamos taisyklės ir nurodymai įvairioms situacijoms, su kuriomis žaidėjai susidurs žaisdami.
+_Classic Fantasy Imperative_ žaidimo metu gali įvykti daugybė skirtingų dalykų. Kai kurie sprendžiami naudojantis įgūdžiais arba pasitelkiant vieną iš pagrindinių žaidimo mechanikų, tokių kaip kova ar magija; kitiems reikalingos atskiros taisyklės vertinimui. Šiame skyriuje pateikiamos taisyklės ir nurodymai įvairiems scenarijams, su kuriais žaidėjai susidurs žaisdami.
 
-Šis sąrašas nėra baigtinis, tačiau jame pateikiamos dažniausiai pasitaikančios situacijos. Jei žaidimo meistrai (ŽM) pastebi, kad kyla kitų situacijų, kurioms reikia tam tikro žaidimo sistemos sprendimo, ir šios situacijos pasitaiko dažnai, jie skatinami kurti savo taisykles šioms ypatingoms aplinkybėms, naudojant šiame skyriuje pateiktas taisykles kaip pagrindą kopijavimui ar plėtojimui.
+Šis sąrašas nėra baigtinis, tačiau jame turėtų būti atstovaujamos dažniausiai pasitaikančios situacijos. Jei žaidimo meistrai pastebi, kad yra kitų situacijų, kurioms reikalingas tam tikras žaidimo sistemos įvertinimas, ir kad šios situacijos atrodo dažnos, jie skatinami kurti savo taisykles šioms ypatingoms aplinkybėms, naudojant šiame skyriuje pateiktas taisykles kaip pagrindą kopijavimui ar plėtojimui.
 
 ---
 ## Senėjimas
 
-Visi veikėjai sensta, o su amžiumi ateina tam tikros pasekmės. Senėjimo požymiai atsiranda ankstyvajame vidutiniame amžiuje (40 metų žmonėms – kitos rūšys sensta greičiau arba lėčiau, kaip parodyta žemiau). Kai veikėjas pereina į naują amžiaus grupę, jis privalo atlikti ištvermės (Endurance) ir valios (Willpower) metimą nurodyto sudėtingumo lygiu. Jei metimas nepavyksta, veikėjas patiria senėjimo poveikį, nurodytą Senėjimo poveikio lentelėje.
+Visi veikėjai sensta, o su senėjimu ateina tam tikros pasekmės. Senėjimo požymiai pasireiškia ankstyvajame vidutiniame amžiuje (40 metų žmonėms – kitos rūšys sensta greičiau arba lėčiau, kaip nurodyta žemiau). Veikėjui pereinant į naują amžiaus grupę, jis privalo atlikti ištvermės ir valios patikrinimą nurodytais sunkumo laipsniais. Jei patikrinimas nesėkmingas, jis patiria senėjimo poveikį, nurodytą Senėjimo poveikio lentelėje.
 
-Kiekviena charakteristika, kuriai įtakos turi senėjimas, sumažėja 1d3 taškais. Šiuos taškus galima susigrąžinti arba bent iš dalies kompensuoti gerinant charakteristikas, taip parodant pastangas išlikti geros formos ir budriems senstant. Jei dėl senėjimo bet kuri charakteristika sumažėja iki nulio, veikėjas miršta dėl savo galutinio silpnumo. Kai veikėjas pasiekia senatvės amžiaus grupę, senėjimo metimai atliekami kasmet, nepriklausomai nuo rasės.
+Kiekviena senėjimo paveikta charakteristika sumažinama 1d3 taškais. Šiuos taškus galima susigrąžinti arba bent iš dalies kompensuoti gerinant charakteristikas, taip parodant pastangas išlikti geros formos ir budriems senstant. Jei dėl senėjimo kuri nors charakteristika sumažėja iki nulio, veikėjas miršta dėl savo galutinio silpnumo. Kai veikėjas pasiekia senatvės (angl. *Dotage*) amžiaus grupę, senėjimo patikrinimai atliekami kasmet, neatsižvelgiant į rasę.
 
-Kokį konkretų silpninantį poveikį sukelia senėjimo procesas, sprendžia žaidimo meistras. Pavyzdžiui, STR, CON ar DEX sumažinimas reiškia bendrą kūno nusidėvėjimą, girgždančius sąnarius ir laipsnišką judrumo praradimą. INT sumažinimas rodo, kad amžius pradeda krėsti šunybes protui ir atminčiai, o CHA sumažinimas rodo, kad veikėjas senstant tampa šiurkštesnis ir galbūt labiau dirglus.
+Kokį konkretų alinantį poveikį sukelia senėjimo procesas, sprendžia žaidimo meistras. Pavyzdžiui, JĖG, IŠT arba VIK mažinimas reprezentuoja bendrą kūno susidėvėjimą, girgždančius sąnarius ir laipsnišką mobilumo praradimą. INT mažinimas rodo, kad amžius pradeda krėsti pokštus protui ir atminčiai, o CHA mažinimas rodo, kad veikėjas senstant tampa šiurkštesnis ir galbūt labiau dirglus.
 
 ##### Amžiaus grupės
 
-| **Amžiaus grupė** | **Žmogus** | **Nykštukas** | **Elfas** | **Gnome** | **½ Elfas** | **½ Orkas** | **Pusūgis** | **Ištvermės ir valios metimo lygis** |
+| **Amžiaus grupė** | **Žmogus** | **Nykštukas** | **Elfas** | **Gnomas** | **½ Elfas** | **½ Orkas** | **Pusūgis** | **Ištvermės ir valios patikrinimo lygis** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
 | Ankstyvas vidutinis amžius | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Lengvas |
 | Vidutinis amžius | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standartinis |
 | Vėlyvas vidutinis amžius | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Sunkus |
 | Senatvė | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Didžiulis |
 | Gilus senatvės amžius | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herakliškas |
-| Senatvinis silpnumas | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Beviltiškas |
+| Senilumas | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Beviltiškas |
 
 ##### Senėjimo poveikio lentelė
 
-| **1d6** | **Fizinis senėjimas (nepavykusi ištvermė)** | **Psichinis senėjimas (nepavykusi valia)** |
+| **1d6** | **Fizinis senėjimas (nesėkminga ištvermė)** | **Psichinis senėjimas (nesėkminga valia)** |
 | :-: | :-- | :-- |
-| 1-2 | STR | INT |
-| 3-4 | CON | POW |
-| 5-6 | DEX | CHA |
+| 1-2 | JĖG | INT |
+| 3-4 | IŠT | GAL |
+| 5-6 | VIK | CHA |
 
 ---
-## Asfiksija
+## Asfiksija (uždusimas)
 
-Veikėjai gali sulaikyti kvėpavimą tiek sekundžių, kiek lygi jų ištvermės (Endurance) įgūdžiui. Tačiau veikėjas turi būti pasiruošęs (pripildęs plaučius kuo daugiau oro); jei ne, šis laikotarpis sutrumpėja perpus, jei veikėjas buvo pasyvioje situacijoje, arba sumažėja iki penktadalio, jei veikėjas užsiėmė sunkia veikla.
+Veikėjai gali sulaikyti kvėpavimą tiek sekundžių, kiek lygu jų ištvermės įgūdžio reikšmei. Tačiau veikėjas turi būti pasiruošęs (pripildęs plaučius kiek įmanoma daugiau oro); jei ne, šis laikotarpis perpus sutrumpėja, jei veikėjas buvo pasyvioje situacijoje, arba sumažėja iki vienos penktosios, jei veikėjas užsiėmė sunkia fizine veikla.
 
-Pasibaigus kvėpavimo sulaikymo laikotarpiui, veikėjai privalo atlikti ištvermės metimą:
+Pasibaigus kvėpavimo sulaikymo laikotarpiui, veikėjai privalo atlikti ištvermės patikrinimą:
 
-- Jei metimas yra kritinė sėkmė, tolesnis blogėjimas nevyksta.
-- Jei metimas sėkmingas, veikėjas gauna papildomą nuovargio (Fatigue) lygį.
-- Jei metimas nepavyksta, veikėjas tą raundą gauna 1d2 papildomus nuovargio lygius.
-- Jei metimas sugadintas (Fumble), veikėjas tą raundą gauna 1d3 papildomus nuovargio lygius.
+- Jei patikrinimas yra kritinė sėkmė, joks tolesnis pablogėjimas neįvyksta.
+- Jei patikrinimas yra sėkmingas, veikėjas įgauna papildomą nuovargio lygį.
+- Jei patikrinimas nesėkmingas, veikėjas tą raundą patiria 1d2 papildomus nuovargio lygius.
+- Jei patikrinimas yra klaida, veikėjas tą raundą patiria 1d3 papildomus nuovargio lygius.
 
-Be pagalbos mirtis nuo asfiksijos paprastai būna greita. Jei asfiksija baigiasi prieš veikėjui mirštant, jie gana greitai atgauna dėl dusimo prarastus nuovargio lygius, atgaudami po vieną lygį per minutę.
+Be pagalbos mirtis nuo asfiksijos paprastai būna staigi. Jei asfiksija baigiasi prieš veikėjui mirštant, jis gana greitai atgauna dėl dusimo prarastus nuovargio lygius, susigrąžindamas po vieną lygį per minutę.
 
-Atsižvelgdamas į asfiksijos metodą, žaidimo meistras gali norėti užkirsti kelią visiškam atsigavimui, nustatydamas ilgalaikį nuovargio lygį, kuris atspindi plaučių pažeidimus dėl dūmų ar vandens įkvėpimo.
+Priklausomai nuo asfiksijos metodo, žaidimo meistras gali norėti apriboti visišką atsigavimą, uždėdamas ilgalaikį nuovargio lygį, reprezentuojantį plaučių pažeidimus dėl dūmų ar vandens įkvėpimo.
 
 ---
 ## Veikėjo tobulėjimas
 
-Kiekvienas „_Classic Fantasy Imperative_“ veikėjas laikui bėgant ir įgaunant patirties gali tobulėti. Tobulėti galima keliose srityse:
+Kiekvienas _Classic Fantasy Imperative_ veikėjas su laiku ir patirtimi gali tobulėti. Tobulėjimas gali vykti keliose srityse:
 
-- Didinant esamus įgūdžius
-- Didinant aistras (Passions)
-- Mokantis naujų įgūdžių
-- Mokantis naujų gebėjimų (Abilities)
+- Esamų įgūdžių didinimas
+- Aistrų didinimas
+- Naujų įgūdžių mokymasis
+- Naujų gebėjimų mokymasis
 
 #### Patirties metimai
 
-Daugumos veikėjų tobulėjimo mechanizmas yra patirties metimas. Žaidimo meistrai patirties metimus skiria tinkamu kampanijos momentu: kiekvieno sėkmingo scenarijaus ar siužeto pabaigoje arba po dviejų ar trijų žaidimo sesijų, jei istorija yra ilga ir jos užbaigimas užtruks. Dažnumas priklauso nuo žaidimo meistro nuožiūra. Didelis patirties metimų dažnumas leis veikėjams sparčiau tobulėti.
+Daugumos veikėjo tobulėjimų mechanizmas yra Patirties metimas. Žaidimo meistrai skiria Patirties metimus tinkamu kampanijos metu: pasibaigus kiekvienam sėkmingam scenarijui ar siužetinei linijai; arba, pavyzdžiui, po dviejų ar trijų žaidimo sesijų, jei istorija yra ilga ir jos užbaigimas užtruks. Dažnumą sprendžia žaidimo meistras. Didelis Patirties metimų dažnumas leis veikėjams sparčiau tobulėti.
 
-Nėra teisingo ar neteisingo laiko skirti patirties metimus, tačiau natūralios istorijos pertraukos gali būti tinkamas laikas. Tačiau žaidimo meistras visada priima sprendimą šiuo klausimu. Nors žaidėjai negali reikalauti patirties metimų, jie turi teisę tikėtis jų tam tikru laiku – nes be jų veikėjai negalės tobulėti.
+Nėra teisingo ar neteisingo laiko skirti Patirties metimus, tačiau natūralios siužeto pertraukos gali nurodyti tinkamus momentus. Tačiau sprendimą čia visada priima žaidimo meistras. Nors žaidėjai negali reikalauti Patirties metimų, jie turi teisę tikėtis jų tam tikru laiku – nes jų veikėjai be jų negalės tobulėti.
 
-Skiriamų patirties metimų skaičių taip pat nustato žaidimo meistras. Tačiau gera taisyklė yra 1–3 patirties metimai už kiekvieną sesiją nuo paskutinio jų skyrimo.
+Suteikiamų Patirties metimų skaičių taip pat nustato žaidimo meistras. Tačiau gera nykščio taisyklė yra 1-3 Patirties metimai už kiekvieną sesiją nuo paskutinio jų skyrimo.
 
 #### Esamų įgūdžių didinimas
 
-Bet kurį įgūdį veikėjo lape, standartinį ar profesinį, galima padidinti išleidus vieną patirties metimą. Žaidėjai gali pasirinkti *neleisti* patirties metimų įgūdžiams didinti, o kaupti juos kitų dalykų, pavyzdžiui, klasės gebėjimų (žr. žemiau), didinimui.
+Bet kurį įgūdį veikėjo lape, standartinį ar profesionalų, galima padidinti išleidus vieną Patirties metimą. Žaidėjai gali pasirinkti neišleisti Patirties metimų įgūdžiams didinti, o kaupti juos kitiems tikslams – pavyzdžiui, klasės gebėjimams (žr. žemiau).
 
 - Žaidėjas meta 1d100 ir lygina rezultatą su didinamu įgūdžiu. Prie metimo pridedamas veikėjo INT.
 - Jei išmestas skaičius yra **lygus arba didesnis** už tobulinamą įgūdį, jis padidėja 1d4+1%.
 - Jei išmestas skaičius yra **mažesnis** už pasirinktą įgūdį, įgūdis vis tiek padidėja, bet tik 1%.
-- Jei veikėjas praėjusios sesijos (sesijų) metu – t. y. tarp paskutinio patirties metimų rinkinio ir dabartinio – sugadino (Fumble) kokį nors įgūdį, sugadintas įgūdis gauna nemokamą 1% padidinimą. Tai tiesa, kad mes daugiau išmokstame iš savo klaidų nei iš sėkmių, ir tai atspindi apmąstymus, kuriuos veikėjas atlieka po pražūtingos nesėkmės. Keli to paties įgūdžio sugadinimai nesumuojami. Tais atvejais, kai sugadintas įgūdis taip pat keliamas patirties metimu, 1% nuo sugadinimo pritaikomas prieš atliekant metimą jam pagerinti.
+- Jei veikėjas praėjusios (-ių) sesijos (-ų) metu padarė klaidą (t. y. tarp paskutinės Patirties metimų serijos ir dabartinės), klaidos įgūdis gauna nemokamą 1% padidinimą. Tiesa, kad iš klaidų mokomės daugiau nei iš sėkmių, ir tai atspindi veikėjo apmąstymus po katastrofiškos nesėkmės. Kelios klaidos tame pačiame įgūdyje nesumuojamos. Tais atvejais, kai klaidos įgūdis taip pat keliamas naudojant Patirties metimą, 1% nuo klaidos pritaikomas prieš atliekant metimą jam pagerinti.
 
-Tas pats įgūdis negali gauti daugiau nei vieno patirties metimo per sesiją.
+Tas pats įgūdis negali gauti daugiau nei vieno Patirties metimo naudos per vieną sesiją.
 
 #### Aistrų didinimas
 
-Kaip aprašyta skyriuje [Aistros](0004_Alignment_and_Passions.md?id=passions), aistros vertę galima didinti patirties metimais lygiai taip pat, kaip ir įgūdžius. Jei tai pagrįsta žaidimu, žaidimo meistras gali net leisti sumažinti aistrą naudojant patirties metimą.
+Kaip aprašyta skyriuje [Aistros](0004_Alignment_and_Passions.md?id=passions), aistros vertę galima padidinti Patirties metimais lygiai taip pat, kaip ir įgūdį. Jei tai palaikoma žaidimo eigoje, žaidimo meistras gali net leisti sumažinti aistrą naudojant Patirties metimą.
 
-Pavyzdžiui, nuolatinis atstūmimas dėl neatsakytos meilės laikui bėgant gali nuslopinti net aršiausio įsimylėjėlio aistrą, ypač to, kuris nori tęsti santykius be praeities šmėklų.
+Pavyzdžiui, nuolatinis atstūmimas dėl neatsakytos meilės gali laikui bėgant sumažinti net paties karščiausio mylimojo aistrą, ypač to, kuris nori tęsti santykius be praeities šmėklų, persekiojančių jį.
 
 #### Naujų įgūdžių mokymasis
 
-Kai kurie veikėjai gali norėti išmokti naujų profesinių įgūdžių, kurių niekada neturėjo galimybės išmokti iš savo kultūros ar klasės. Prieš pradedant investuoti patirties metimus, jie pirmiausia turi rasti žinių šaltinį, iš kurio galėtų mokytis. Tai gali būti toks proziškas šaltinis, kaip profesionalus dėstytojas, koks teikiamas ordinų ar gildijų. Arba tai gali būti egzotiškesnis švietimo šaltinis, pavyzdžiui, senovinis ir byrantis mokymo ritinys.
+Kai kurie veikėjai gali norėti studijuoti naujus profesionalius įgūdžius, kurių niekada neturėjo galimybės išmokti savo kultūroje ar klasėje. Prieš pradedant investuoti Patirties metimus, jie pirmiausia turi rasti žinių šaltinį. Tai gali būti kasdieniškas dalykas, pavyzdžiui, profesionalus dėstytojas, kuriuos teikia ordinai ar gildijos. Arba tai gali būti egzotiškesnis šaltinis, pavyzdžiui, senovinis ir byrantis mokymo ritinys.
 
-Radus švietimo šaltinį, veikėjas turi praleisti visą mėnesį studijoms ir praktikai, kad įgytų pagrindinį įgūdžio pagrindą (mokymasis baziniu lygiu). Tai kainuoja 3 patirties metimus plius bet kokias žaidimo išlaidas, reikalingas mokytojui apmokėti (jei toks yra) ir įsigyti (ar išsinuomoti) bet kokią reikalingą įrangą ir įrankius.
+Suradus mokymosi šaltinį, veikėjas turi praleisti visą mėnesį studijoms ir praktikai, kad įgytų pagrindinį to įgūdžio pagrindą (mokosi baziniu lygiu). Tai kainuoja 3 Patirties metimus plius visas žaidime numatytas išlaidas mokytojui sumokėti (jei toks yra) ir įsigyti (ar išsinuomoti) bet kokią reikalingą įrangą ir įrankius.
 
 #### Naujų klasės gebėjimų mokymasis
 
-Tariant, kad veikėjas atitinka būtiną rangą ir įgūdžių lygį (jei toks yra), vienas ar daugiau patirties metimų gali būti išleisti klasės gebėjimams įgyti arba pagerinti. Tai išsamiai aprašyta [3 skyriuje: Klasės](0003_Classes.md) po atitinkamais klasės aprašymais. Skirtingai nei įgūdžiams, tam paprastai nereikia rasti žinių šaltinio, iš kurio būtų galima mokytis atitinkamo gebėjimo, nes daroma prielaida, kad pažangūs metodai įgyjami nuolat naudojant būtinus įgūdžius. Patirties metimų kaina yra lygi veikėjo esamam rangui, o daugelis gebėjimų yra užblokuoti, kol nepasiekiamas tam tikras rangas.
+Daroma prielaida, kad veikėjas atitinka reikalaujamą rangą ir įgūdžių lygį (jei tokie yra), vienas ar daugiau Patirties metimų gali būti išleisti klasės gebėjimams įgyti arba pagerinti. Tai išsamiai aprašyta [3 skyriuje: Klasės](0003_Classes.md) atitinkamų klasių aprašymuose. Skirtingai nuo įgūdžių, tam paprastai nereikia ieškoti žinių šaltinio, nes manoma, kad pažangūs metodai įgyjami pakartotinai naudojant reikiamus įgūdžius. Kaina Patirties metimais yra lygi veikėjo dabartiniam rangui, o daugelis gebėjimų yra užblokuoti, kol nepasiekiamas tam tikras rangas.
 
 ---
 ## Kritimas
 
-Kritimo metu patirta žala priklauso nuo kritimo atstumo. Šarvų taškai (Armor Points) nemažina kritimo žalos, tačiau krintančio veikėjo ar būtybės žalos modifikatorius (Damage Modifier) taikomas žalos metimams.
+Kritimo metu patiriamos žalos dydis priklauso nuo kritimo aukščio. Šarvų taškai (Armor Points) nemažina kritimo žalos, tačiau krentančio veikėjo ar būtybės žalos modifikatorius (Damage Modifier) taikomas žalos metimams.
 
-##### Kritimo atstumo lentelė
+##### Kritimo aukščio lentelė
 
 | **Kritimo aukštis** | **Žala** |
 | :-- | :-- |
 | 5 pėdos ar mažiau | Jokios žalos |
-| 6–15 pėdų | 1d6 žalos taškų vienai atsitiktinei vietai |
-| 16–30 pėdų | 2d6 žalos taškų dviem atsitiktinėms vietoms |
-| 31–45 pėdos | 3d6 žalos taškų trims atsitiktinėms vietoms |
-| 46–60 pėdų | 4d6 žalos taškų keturioms atsitiktinėms vietoms |
-| Kiekvienos +15 pėdų | +1d6 žala |
+| 6 iki 15 pėdų | 1d6 žalos taškai vienai atsitiktinei vietai |
+| 16 iki 30 pėdų | 2d6 žalos taškai dviem atsitiktinėms vietoms |
+| 31 iki 45 pėdų | 3d6 žalos taškai trims atsitiktinėms vietoms |
+| 46 iki 60 pėdų | 4d6 žalos taškai keturioms atsitiktinėms vietoms |
+| Kiekvienos papildomos +15 pėdų | +1d6 žalos |
 
-#### Krintantys objektai
+#### Krentantys objektai
 
-Krintantis objektas sukelia žalos kiekį, pagrįstą jo SIZ (dydžiu) ir kritimo atstumu. Objektas sukelia 1d6 žalos už kiekvienus 6 SIZ taškus (ar jų dalį) plius žalos kiekį, lygų Kritimo atstumo lentelės stulpeliui „Patirta žala“ – įskaitant bet kokius sumažinimus mažesnio dydžio objektams.
+Krentantis objektas padaro žalos, priklausomai nuo jo DYD ir kritimo atstumo. Objektas padaro 1d6 žalos už kiekvienus 6 DYD taškus (ar jų dalį), plius žalos kiekį, lygų Kritimo aukščio lentelės žalos stulpeliui – įskaitant bet kokius mažinimus mažesnio dydžio objektams.
 
 ---
-## Nuovargis (Fatigue)
+## Nuovargis
 
-Nuovargis matuoja pavargimą ir jo laipsnišką poveikį. Jis naudojamas sekant daugybę skirtingų dalykų – nuo sunkios veiklos iki silpninančio ligos poveikio.
+Nuovargis matuoja pavargimą ir jo laipsnišką poveikį. Jis naudojamas sekti daugybę skirtingų dalykų – nuo sunkios fizinės veiklos iki alinančio ligos poveikio.
 
-Pagrindinis būdas kaupti nuovargį yra fizinės veiklos vykdymas. Kuo sunkesnis pratimas ar darbas, tuo greičiau veikėjas pavargsta. Žaidimo meistro nuožiūra veikėjai privalo atlikti atitinkamą įgūdžio metimą – atletikos (Athletics), jėgos (Brawn) arba ištvermės (Endurance) – kad pasipriešintų nuovargio lygio įgijimui.
+Pagrindinis būdas kaupti nuovargį yra fizinė veikla. Kuo sunkesnis pratimas ar darbas, tuo greičiau veikėjas pavargsta. Žaidimo meistro nuožiūra, veikėjai turi atlikti atitinkamą įgūdžių patikrinimą – atletikos, jėgos ar ištvermės – kad pasipriešintų nuovargio lygio gavimui.
 
-Kiekvienas nepavykęs metimas prideda nuovargio lygį. Kaip parodyta [Nuovargio lygių lentelėje](0007_Game_System.md?id=fatigue-levels-table), kiekvienas nuovargio lygis turi baudas įgūdžių naudojimui, judėjimui, iniciatyvai ir veiksmų taškams. Asfiksija, kraujo netekimas ir kiti su aplinka susiję efektai taip pat prisideda prie nuovargio kaupimosi.
+Kiekvienas nesėkmingas patikrinimas prideda nuovargio lygį. Kaip parodyta [Nuovargio lygių lentelėje](0007_Game_System.md?id=fatigue-levels-table), kiekvienas nuovargio lygis sukelia baudas įgūdžių naudojimui, judėjimui, iniciatyvai ir veiksmų taškams. Asfiksija, kraujo netekimas ir kiti nuo nustatymų priklausomi efektai taip pat prisideda prie nuovargio kaupimo.
 
-Daugumai veikėjų bet kokia veikla tampa beveik neįmanoma pasiekus negalios (Incapacitated) lygį. Šiame etape veikėjas vis dar yra sąmoningas, bet nepajėgus niekam kitam, išskyrus pačią desperatiškiausią veiklą.
+Daugumai veikėjų bet kokia veikla tampa beveik neįmanoma pasiekus nedarbingumo (angl. *Incapacitated*) lygį. Šiame etape veikėjas vis dar yra sąmoningas, bet nepajėgus niekam kitam, tik pačiai desperatiškiausiai veiklai.
 
-Pasiekę lygį virš negalios, veikėjai visiškai negali veikti. Nuovargio lygiai – pusiau sąmoningas (Semi-Conscious), koma (Comatose) ir miręs (Dead) – paprastai paliekami matuoti ekstremaliausius dusimo, ligų, kraujo netekimo, bado, šalčio poveikio ir pan. padarinius.
+Pasiekus būseną už nedarbingumo ribų, veikėjai apskritai negali veikti. Nuovargio lygiai – pusiau sąmoningas, koma ir mirtis – paprastai paliekami ekstremaliausiam dusimo, ligų, kraujo netekimo, bado, ekspozicijos ir panašių poveikių matavimui.
 
 ### Atsigavimas nuo nuovargio
 
-Veikėjai nuo nuovargio atsigauna atsižvelgiant į jų gydymosi greitį (Healing Rate). Visiškas poilsis, reikalingas atsigauti nuo kiekvieno sukaupto nuovargio lygio, yra lygus atsistatymo laikotarpiui, padalintam iš veikėjo gydymosi greičio.
+Veikėjai nuo nuovargio atsigauna priklausomai nuo jų gijimo greičio (Healing Rate). Visiškas poilsis, reikalingas atsigauti nuo kiekvieno sukaupto nuovargio lygio, yra lygus atsistatymo periodui, padalintam iš veikėjo gijimo greičio.
 
-Atkreipkite dėmesį, kad lentelė atspindi nuovargio atsigavimą po fizinio krūvio. Atsigavimas nuo nuovargio gali būti daug greitesnis atsigaunant po [asfiksijos](0007_Game_System.md?id=f) arba lėtesnis atsigaunant po [kraujo netekimo](0007_Game_System.md?id=blood-loss).
+Atkreipkite dėmesį, kad lentelė atspindi nuovargio atsigavimą po fizinio krūvio. Nuovargio atsigavimas gali būti daug greitesnis atsigaunant po [asfiksijos](0007_Game_System.md?id=asphyxiation) arba lėtesnis atsigaunant po [kraujo netekimo](0007_Game_System.md?id=blood-loss).
 
 ### Nuovargio lygių lentelė
 
-| **Nuovargio lygis** | **Įgūdžių lygis** | **Judėjimas** | **Iniciatyva** | **Veiksmų taškai** | **Atsistatymo laikotarpis** |
+| **Nuovargio lygis** | **Įgūdžių klasė** | **Judėjimas** | **Iniciatyva** | **Veiksmų taškai** | **Atsistatymo periodas** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Šviežias | – | – | Be baudų | – | – |
-| Uždusęs | Sunkus | Be baudų | Be baudų | Be baudų | 15 minučių |
-| Pavargęs | Sunkus | -5 pėdos | Be baudų | Be baudų | 3 valandos |
-| Išvargęs | Didžiulis | -5 pėdos | -2 | Be baudų | 6 valandos |
+| Šviežias | – | – | Jokių baudų | – | – |
+| Uždusęs | Sunkus | Jokių baudų | Jokių baudų | Jokių baudų | 15 minučių |
+| Pavargęs | Sunkus | -5 pėdos | Jokių baudų | Jokių baudų | 3 valandos |
+| Nuvargęs | Didžiulis | -5 pėdos | -2 | Jokių baudų | 6 valandos |
 | Išsekęs | Didžiulis | Perpus | -4 | -1 | 12 valandų |
 | Nusilpęs | Herakliškas | Perpus | -6 | -2 | 18 valandų |
-| Negalios ištiktas | Herakliškas | Nejuda | -8 | -3 | 24 valandos |
-| Pusiau sąmoningas | Beviltiškas | Veikla negalima | Veikla negalima | Veikla negalima | 36 valandos |
-| Koma | Veikla negalima | Veikla negalima | Veikla negalima | Veikla negalima | 48 valandos |
-| Miręs | Miręs | – | – | – | Niekada |
+| Nedarbingas | Herakliškas | Nejuda | -8 | -3 | 24 valandos |
+| Pusiau sąmoningas | Beviltiškas | Jokia veikla neįmanoma | Jokia veikla neįmanoma | Jokia veikla neįmanoma | 36 valandos |
+| Koma | Jokia veikla neįmanoma | Jokia veikla neįmanoma | Jokia veikla neįmanoma | Jokia veikla neįmanoma | 48 valandos |
+| Mirtis | Mirtis | – | – | – | Niekada |
 
 ---
 ## Gaisrai
 
-Gaisrai visada kelia pavojų, kai naudojami kaip ginklas arba siautėja be kontrolės. [Gaisro intensyvumo lentelė](0007_Game_System.md?id=fire-intensity-table) žemiau pateikia penkis skirtingus karščio žalos intensyvumo lygius su pavyzdžiais. Žala per raundą pateikta stulpelyje „Žala“. Būdami gana maži, 1 ir 2 intensyvumo šaltiniai taiko žalą vienai kūno vietai (Hit Location), paprastai tai, kuri liečiasi su šaltiniu. 3 ir 4 intensyvumo šaltiniai yra didesni, taikydami žalą artimiausioms 1d4+1 kūno vietoms, nurodydami spinduliuojamo karščio laipsnį. 5 intensyvumo šaltiniai paveikia visas kūno vietas vienu metu. Ugnis gali uždegti degias medžiagas. Jei nedelsiant neužgesinamos, tokios medžiagos užsidega per raundų skaičių, nurodytą gaisro intensyvumu. Užsidegusios degios medžiagos dega tol, kol fiziškai užgesinamos. Žala taikoma tiesiogiai medžiagos hit pointams (HP), ignoruojant šarvų taškus, ir bet kokiam po ja esančiam audiniui. Jei nekontroliuojama, ji plinta į daugybę kūno vietų per raundą, lygų savo intensyvumui.
+Gaisrai visada yra pavojų šaltinis, kai naudojami kaip ginklas arba kai jie tampa nevaldomi. Žemiau pateiktoje [Gaisro intensyvumo lentelėje](0007_Game_System.md?id=fire-intensity-table) pateikiami penki skirtingi karščio žalos intensyvumai su pavyzdžiais. Žala per raundą nurodyta stulpelyje "Žala". Būdami palyginti maži, 1 ir 2 intensyvumo šaltiniai pritaiko savo žalą vienai kūno vietai, dažniausiai tai, kuri liečiasi su šaltiniu. 3 ir 4 intensyvumo šaltiniai yra didesni ir pritaiko žalą artimiausioms 1d4+1 kūno vietoms, nurodydami spindulinio karščio laipsnį. 5 intensyvumo šaltiniai paveikia visas kūno vietas vienu metu. Ugnis gali uždegti degias medžiagas. Jei nedelsiant neužgesinamos, tokios medžiagos užsidega per gaisro intensyvumo nurodytą raundų skaičių. Užsidegusios degios medžiagos dega, kol yra fiziškai užgesinamos. Žala pritaikoma tiesiogiai medžiagos pataikymo taškams (HP), ignoruojant šarvų taškus, ir bet kokiam po jais esančiam audiniui. Jei paliekama nevaldoma, ji plinta į tiek kūno vietų per raundą, kiek lygu jos intensyvumui.
 
 ##### Gaisro intensyvumo lentelė
 
@@ -158,62 +158,60 @@ Gaisrai visada kelia pavojų, kai naudojami kaip ginklas arba siautėja be kontr
 | :-: | :-- | :-: | :-: |
 | 1 | Žvakė | 1d4 | 1d2 |
 | 2 | Deglas | 1d3 | 1d4 |
-| 3 | Laužo ugnis | 1d2 | 1d6 |
+| 3 | Laužo liepsna | 1d2 | 1d6 |
 | 4 | Kambarį užpildantis gaisras | 1d2 | 2d6 |
 | 5 | Vulkaninė lava | Akimirksniu | 3d6 |
 
 #### Ugnies atakos
- 
-Ugnies atakos paprastai turi procentinę tikimybę uždegti degias medžiagas, nes jos paprastai baigiasi per vieną raundą. Jei nenurodyta kitaip, ši tikimybė yra išmesta žala x5% ugnies atakoms ir išmesta žala x1% elektrinėms atakoms. Užsidegusios degios medžiagos dega sukeliančios 1d3-1 žalą kiekvieną raundą, kol yra fiziškai užgesinamos. Ši žala taikoma tiesiogiai medžiagos hit pointams, ignoruojant šarvų taškus, ir bet kokiam po ja esančiam audiniui. Tačiau būtybės natūralūs šarvai suteikia įprastą apsaugą. Auka gali bandyti užslopinti liepsną krisdama ant žemės ir atlikdama sėkmingą atletikos metimą, kuriam reikia veiksmų taško ir kurį galima bandyti kiekvieną ėjimą (Turn). Jei kiti kažkaip padeda slopinti liepsną, metimas yra vienu sudėtingumo lygiu lengvesnis. Jei žalos metimas sukelia nulį žalos, ugnis toje vienoje vietoje užgeso savaime. Kiekvienai vietai, kuri užgeso savaime, metimas liepsnai slopinti taip pat yra vienu sudėtingumo lygiu lengvesnis.
+
+Ugnies atakos paprastai turi procentinę tikimybę uždegti degias medžiagas, nes jos dažniausiai trunka vieną raundą. Jei nenurodyta kitaip, ši tikimybė yra išmestos žalos kiekis x5% ugnies atakoms ir išmestos žalos kiekis x1% elektros atakoms. Užsidegusios degios medžiagos kiekvieną raundą dega padarydamos 1d3-1 žalos, kol fiziškai užgesinamos. Šią žalą pritaikykite tiesiogiai medžiagos pataikymo taškams, ignoruodami šarvų taškus, ir bet kokiam po jais esančiam audiniui. Tačiau būtybės natūralūs šarvai suteikia įprastą apsaugą. Auka gali bandyti užslopinti liepsną atsiguldama ant žemės ir sėkmingai atlikdama atletikos patikrinimą, kuriam reikia veiksmų taško ir kurį galima bandyti kiekviename ėjime. Jei kiti kažkokiu būdu padeda užslopinti liepsną, patikrinimas yra vienu sunkumo laipsniu lengvesnis. Jei žalos metimo rezultatas yra nulis, ugnis savaime užgeso toje vienoje vietoje. Kiekvienai vietai, kuri užgeso savaime, patikrinimas užslopinti liepsną taip pat yra vienu sunkumo laipsniu lengvesnis.
 
 ---
 ## Žaidimo laikas
 
-„_Classic Fantasy Imperative_“ žaidime laikas yra svarbus veiksnys, dažniausiai nustatantis, kas ir kokia tvarka vyksta, kad žaidimo mechanikos būtų taikomos tada, kai reikia. Atminkite, kad žaidimo laikas paprastai nėra lygus žaidimui praleistam laikui. Kartais ŽM gali tekti apibendrinti daugelio dienų įvykius vienu sakiniu, pavyzdžiui: „Jums prireikė savaitės pasiekti Greimiro pilį“, o kitais kartais, ypač kovos metu, vos kelių sekundžių veiksmai gali užtrukti kelias minutes ar ilgiau.
+_Classic Fantasy Imperative_ žaidime laikas yra svarbus veiksnys, dažniausiai nustatantis, kas įvyksta kokia tvarka, kad žaidimo mechanikos būtų taikomos tada, kada reikia. Atminkite, kad žaidimo laikas dažniausiai nėra lygus žaidimui praleistam laikui. Kartais žaidimo meistrui gali tekti apibendrinti daugelio dienų įvykius vienu sakiniu, pavyzdžiui: „Jums prireikė savaitės pasiekti Greimyro pilį“, o kitais kartais, ypač kovos metu, vos kelių sekundžių trukmės veiksmai gali užtrukti kelias minutes ar ilgiau.
 
-Susijusi pastaba: Kai kurie burtai, daiktai ar efektai pažymėti kaip naudojami vieną ar daugiau kartų per dieną. Lengvas būdas tai sekti, užuot pildžius žurnalą, kada įvyko kiekvienas toks veiksmas, yra daryti prielaidą, kad laikrodis nustatomas iš naujo po to, kai veikėjas gerai išsimiegojo naktį. Todėl, panaudojus magišką daiktą du kartus, kuris gali būti naudojamas tris kartus per dieną, visi naudojimai bus atstatyti kitą kartą veikėjui atsikėlus, net jei jis buvo panaudotas prieš pat einant miegoti praeitą naktį.
+Susijusi pastaba: Kai kurie burtai, daiktai ar efektai yra pažymėti kaip naudojami vieną ar kelis kartus per dieną. Lengvas būdas tai sekti, užuot vedus žurnalą, kada kiekvienas toks veiksmas įvyko, yra daryti prielaidą, kad laikrodis nusistato iš naujo po to, kai veikėjas išmiega visą naktį. Todėl, panaudojus stebuklingą daiktą du kartus, kuris gali būti naudojamas tris kartus per dieną, visi naudojimai bus atkurti, kai veikėjas kitą kartą atsibus, net jei jis buvo panaudotas ką tik prieš einant miegoti praėjusią naktį.
 
 Toliau pateikiami svarbūs žaidimo laiko skirtumai:
 
 #### Kovos raundai
 
-Kovos raundas atspindi penkias sekundes realaus laiko. Jie naudojami matuoti trumpus, pašėlusius veiklos pliūpsnius, kuriems užbaigti reikia akimirkų, arba matuoti labai detalias veiklas, kurioms reikia išsamaus sprendimo. Pavyzdžiui, gaudynės tarp medžiotojo ir grobio, kur kiekvienas raundas lemia persekiojimo vingius.
+Kovos raundas reprezentuoja penkias sekundes realaus laiko. Jie naudojami trumpiems, karštligiškiems veiklos pliūpsniams, kuriems atlikti reikia akimirkų, arba labai detaliai veiklai, reikalaujančiai sprendimo smūgis po smūgio, matuoti. Pavyzdžiui, gaudynės tarp medžiotojo ir grobio, kur kiekvienas raundas lemia persekiojimo vingius.
 
 #### Tyrinėjimo raundai
 
-Tyrinėjimo raundas atspindi penkias minutes realaus laiko ir leidžia grupei judėti tris kartus greičiau nei jų bazinis judėjimo greitis (60 pėdų žmonėms ir žmogaus dydžio pusžmogiams, 45 pėdos mažesnėms pusžmogių rasėms). Tyrinėjimo raundai paprastai naudojami judėjimui požemiuose matuoti, kur svarbu išlaikyti aukštą atsargumo lygį. Veikėjai juda lėtai, budrūs dėl spąstų ir pasalų, bandydami išlaikyti slaptumą. Taip pat daroma prielaida, kad kažkas grupėje braižo žemėlapį. Jei niekas nebraižo, tyrinėjimo raundai gali būti laikomi vienos minutės trukmės. Naudojant tyrinėjimo raundus, jūsų suvokimo (Perception) metimus galima atlikti be baudos, tačiau, kaip įprasta, gali būti taikomos kitos baudos. Priešams vienu lygiu sunkiau aptikti grupę tyrinėjimo greičiu, nebent tamsiose vietose naudojate šviesos šaltinius (pavyzdžiui, deglus ar žibintus), kurie jus išduotų. Jei veikėjai nusprendžia nekreipti dėmesio į atsargumą, požemiuose galite judėti naudodami kovos raundus. Tačiau šiuo atveju suvokimo metimai yra vienu lygiu sunkesni, o priešai nepatiria suvokimo baudos aptikdami veikėjus. Atkreipkite dėmesį, kad naudojant kovos kilimėlį, kuris atskleidžia visą požemį žaidėjams, arba kai žaidimo meistras jiems braižo požemį, **visada** turėtų būti daroma prielaida, kad grupė braižo žemėlapį ir todėl juda tyrinėjimo greičiu.
+Tyrinėjimo raundas reprezentuoja penkias minutes realaus laiko ir leidžia grupei judėti tris kartus viršijant bazinį judėjimo greitį (60 pėdų žmonėms ir žmogaus dydžio demihumanams, 45 pėdas mažesnėms demihumanų rasėms). Tyrinėjimo raundai paprastai naudojami judėjimui požemiuose matuoti, kur svarbu išlaikyti aukštą atsargumo lygį. Veikėjai juda lėtai, stebėdami spąstus ir pasalas, ir bandydami išlaikyti slaptumą. Tai taip pat numato, kad kažkas grupėje sudaro žemėlapį. Jei niekas nesudaro žemėlapio, tyrinėjimo raundai gali būti laikomi trunkančiais vieną minutę. Tyrinėjimo raundų naudojimas leidžia jūsų suvokimo (Perception) patikrinimus atlikti be baudos, tačiau, kaip įprasta, gali būti taikomos kitos baudos. Priešams vienu laipsniu sunkiau aptikti grupę, judančią tyrinėjimo greičiu, nebent tamsiose vietose naudojate šviesos šaltinius (pvz., deglus ar žibintus), kurie jus išduotų. Jei veikėjai nusprendžia nekreipti dėmesio į atsargumą, galite judėti per požemius naudodami kovos raundus. Tačiau šiuo atveju suvokimo patikrinimai yra vienu laipsniu sunkesni, o priešai nepatiria suvokimo baudos aptikdami veikėjus. Atkreipkite dėmesį, kad naudojant kovos kilimėlį, kuris žaidėjams atskleidžia visą požemį, arba kai žaidimo meistras jiems braižo požemį, **visada** turėtų būti daroma prielaida, kad grupė sudaro žemėlapį ir todėl juda tyrinėjimo greičiu.
 
-#### Įgūdžio laikas
+#### Įgūdžių laikas
 
-Įgūdžio laikas atspindi nuo kelių minučių iki kelių valandų ir naudojamas matuoti veiklas, kurioms nereikia detalaus kovos raundo dėmesio, tačiau reikalauja specifinių pastangų su apibrėžtu rezultatu. Spynos atrakinimas gali užtrukti penkias minutes, o stebint sargybinių komandų patruliavimą aplink pilies sienas gali prireikti kelių valandų. Abu yra įgūdžio laiko pavyzdžiai.
+Įgūdžių laikas reprezentuoja nuo kelių minučių iki kelių valandų ir naudojamas veiklai, kuriai nereikia tokio detalaus dėmesio kaip kovos raundo metu, bet reikia konkretaus pastangų apmąstymo su apčiuopiamu rezultatu. Pilies užrakto atidarymas gali užtrukti penkias minutes, o sargybos komandų, patruliuojančių aplink pilies sienas, stebėjimas gali pareikalauti kelių valandų. Abu yra įgūdžių laiko pavyzdžiai.#### Naratyvinis laikas
 
-#### Naratyvinis laikas
-
-Tai laikas, kurį užima žaidimo meistro pasakojimas žaidėjams arba kai žaidėjai diskutuoja. Jei nėra specifinės priežasties, didžioji dalis tikrojo vaidmenų žaidimo vyksta naratyviniu laiku. Vaidmenų žaidime naratyvinis laikas primena realų laiką, kai pokalbis trunka tiek pat, kiek laiko užtrunka jį atlikti. Jei žaidimo sesijoje yra ilgos kelionės arba veiklos laikotarpiai, kur tikslus laikas nėra esminis, laikas labai suspaudžiamas iki kelių žaidimo akimirkų.
+Tai laikas, skiriamas žaidimų meistrui (Games Master), kai jis pasakoja istoriją žaidėjams, arba kai patys žaidėjai diskutuoja. Jei nėra specialios priežasties, didžioji dalis tikrojo vaidmenų žaidimo vyksta naratyviniu laiku. Vaidinant naratyvinis laikas primena realų laiką, kai pokalbis trunka tiek pat, kiek reikia jam iš tikrųjų sudalyvauti. Jei žaidimo sesijoje numatyta ilga kelionė ar veiklos periodai, kurių metu tikslus laikas nėra esminis, laikas labai suspaudžiamas iki kelių žaidimo laiko akimirkų.
 
 ### Trumpi poilsiai
 
-Trumpas poilsis atspindi maždaug 15 minučių laikotarpį, kai nuotykių ieškotojai sustoja atgauti kvapo, neveikdami nieko sunkesnio nei skaitymas, valgymas, gėrimas, malda ir žaizdų gydymas. Grupė nusprendžia, kiek ilgai ilsėtis, ir tada atlieka atitinkamus 15 minučių trukmės veiksmus, kiekvienam žaidėjui atliekant po vieną prieš pereinant prie kito. Nėra limito, kiek trumpų poilsių grupė gali atlikti per dieną, ir paprastai po stovyklos įrengimo bei ryte prieš išvykstant atliekami keli poilsio veiksmai. Kiekvienas 15 minučių poilsio veiksmas aprašytas žemiau ir gali būti atliekamas daugiau nei vieną kartą, nebent nurodyta kitaip.
+Trumpas poilsis reiškia maždaug 15 minučių laikotarpį, kurio metu nuotykių ieškotojai sustoja atgauti kvapo, nesiimdami nieko sunkesnio nei skaitymas, valgymas, gėrimas, meldimasis ar žaizdų priežiūra. Grupė nusprendžia, kiek laiko ilsėtis, o tada atlieka atitinkamus 15 minučių veiksmus, kiekvienam žaidėjui atliekant po vieną veiksmą prieš pereinant prie kito. Nėra jokio apribojimo, kiek trumpų poilsių grupė gali padaryti per dieną; paprastai keletas poilsio veiksmų atliekama įsirengus stovyklą, taip pat ryte prieš išvykstant. Kiekvienas 15 minučių poilsio veiksmas yra išsamiai aprašytas žemiau ir, jei nenurodyta kitaip, gali būti atliekamas daugiau nei vieną kartą.
 
-- **Suvalgyti porciją:** Šį 15 minučių poilsio veiksmą galima atlikti tik kartą per dieną, nes porcijos sekamos kaip dienos atsargos, ir pašalina **bet kurį** vieną nuovargio lygį, ne didesnį nei „Išsekęs“, taip pat numalšina bet kokį alkį. Veikėjai gali sumažinti savo nuovargį dar vienu lygiu pavalgę, jei jis nėra didesnis nei „Uždusęs“, nes tai yra nesunki veikla.
-- **Meldžtis dievybei arba studijuoti burtų knygą:** Atgauti 1 magijos tašką už kiekvieną 15 minučių poilsio veiksmą, praleistą maldoje ar studijose. Veikėjai gali sumažinti nuovargį vienu lygiu, jei jis nėra didesnis nei „Uždusęs“, nes tai yra nesunki veikla.
-- **Gydyti žaizdas:** Praleiskite 15 minučių poilsio veiksmą naudodami pirmosios pagalbos (First Aid) įgūdį arba keturis 15 minučių poilsio veiksmus (valandą) naudodami gydymo (Healing) įgūdį.
-- **Išburti vieną ar daugiau burtų:** Bet kokį burtų skaičių galima išburti norint išgydyti ar sustiprinti grupės narius per 15 minučių poilsio veiksmą, ribojamą turimų magijos taškų.
-- **Paruošti naują burtą:** Po mažiausiai 8 valandų miego laikotarpio burtininkas gali panaudoti 15 minučių poilsio veiksmą, kad įsimintų arba pamirštų arkaninį ar dievišką burtą, laikantis apribojimų, išsamiai aprašytų skyriuje [Burtų įsiminimas](0009_Magic.md?id=memorizing-spells).
-- **Dvejoti:** Tai numatytasis 15 minučių poilsio veiksmas, nebent pasirenkamas kitas veiksmas. Veikėjas tiesiog iššvaisto 15 minučių neveikdamas nieko naudingo. Šis poilsio veiksmas paprastai atliekamas, jei kiti grupės nariai vis dar atlieka poilsio veiksmus, o jūs neturite ką veikti. Veikėjai gali sumažinti nuovargį vienu lygiu, jei jis nėra didesnis nei „Uždusęs“, nes tai yra nesunki veikla.
+- **Suvalgyti davinį:** Šis 15 minučių poilsio veiksmas gali būti atliktas tik kartą per dieną, nes daviniai skaičiuojami kaip kasdienis vienetas, ir jis pašalina **bet kurį** vieną nuovargio lygį, ne didesnį nei „Išsekęs“ (Exhausted), taip pat numalšina alkį. Po valgio veikėjai gali dar vienu lygiu sumažinti nuovargį, jei jis nėra didesnis nei „Uždusęs“ (Winded), nes tai yra nesunki veikla.
+- **Pasimelsti dievybei ar studijuoti burtų knygą:** Atgaukite 1 Magijos tašką už kiekvieną 15 minučių poilsio veiksmą, praleistą maldoje ar studijose. Veikėjai gali vienu lygiu sumažinti nuovargį, jei jis nėra didesnis nei „Uždusęs“, nes tai yra nesunki veikla.
+- **Prižiūrėti žaizdas:** Praleiskite 15 minučių poilsio veiksmą naudodami Pirmosios pagalbos (First Aid) įgūdį arba keturis 15 minučių poilsio veiksmus (vieną valandą) naudodami Gydymo (Healing) įgūdį.
+- **Išburti vieną ar daugiau burtų:** Per 15 minučių poilsio veiksmą galima išburti bet kokį burtų skaičių, norint gydyti arba stiprinti grupės narius, atsižvelgiant į turimus Magijos taškus.
+- **Paruošti naują burtą:** Po bent 8 valandų miego laikotarpio burtininkas gali panaudoti 15 minučių poilsio veiksmą, kad įsimintų arba pamirštų paslaptingą (Arcane) ar dievišką (Divine) burtą, atsižvelgiant į apribojimus, išvardytus skyriuje [Burtų įsiminimas](0009_Magic.md?id=memorizing-spells).
+- **Dvejoti (Dither):** Tai numatytasis 15 minučių poilsio veiksmas, nebent pasirenkamas kitas veiksmas. Veikėjas tiesiog veltui švaisto 15 minučių nieko naudingo neveikdamas. Šis poilsio veiksmas paprastai atliekamas, jei kiti grupės nariai vis dar atlieka poilsio veiksmus, o jūs neturite ką veikti. Veikėjai gali vienu lygiu sumažinti nuovargį, jei jis nėra didesnis nei „Uždusęs“, nes tai yra nesunki veikla.
 
 ---
-## Kūno vietos (Hit Locations)
+## Pataikymo vietos
 
-Dauguma sėkmingų (ginklų) atakų pataiko į konkrečią kūno vietą. Tai galima nustatyti atsitiktinai arba tam tikromis aplinkybėmis pasirinkti naudojant specialius efektus, pavyzdžiui, „Pasirinkti vietą“. Norėdami atsitiktinai apskaičiuoti, į kurią vietą pataikyta, meskite 1d20 ir palyginkite išmestą skaičių su atitinkama humanoido ar būtybės kūno vietų lentele.
+Dauguma sėkmingų (ginklo) atakų pataiko į konkrečią Pataikymo vietą. Tai galima nustatyti atsitiktinai arba tam tikromis aplinkybėmis pasirinkti naudojant specialiuosius efektus, tokius kaip „Pasirinkti vietą“ (Choose Location). Norėdami atsitiktinai apskaičiuoti, į kurią vietą pataikyta, meskite 1d20 ir palyginkite iškritusį skaičių su atitinkama humanoido ar padaro Pataikymo vietų lentele.
 
-Gyvūnai ir pabaisos paprastai turi šiek tiek kitokias kūno vietų lenteles nei humanoidai, kad atspindėtų jų pačių unikalią fiziologiją. Jos yra įtrauktos į kiekvienos būtybės aprašymą ir paprastai naudingos tik žaidimo meistrui.
+Gyvūnų ir pabaisų Pataikymo vietų lentelės dažniausiai šiek tiek skiriasi nuo humanoidų, atspindėdamos jų unikalią fiziologiją. Jos pateikiamos kaip kiekvienos būtybės aprašymo dalis ir paprastai yra naudingos tik žaidimų meistrui.
 
-Humanoidų kūno vietų lentelė čia pakartota patogumo dėlei.
+Humanoidų Pataikymo vietų lentelė čia pakartota patogumui.
 
-### Humanoidų kūno vietos
+### Humanoidų pataikymo vietos
 
-| **1d20** | **Kūno vieta** |
+| **1d20** | **Pataikymo vieta** |
 | :-: | :-- |
 | 1-3 | Dešinė koja |
 | 4-6 | Kairė koja |
@@ -223,116 +221,116 @@ Humanoidų kūno vietų lentelė čia pakartota patogumo dėlei.
 | 16-18 | Kairė ranka |
 | 19-20 | Galva |
 
-Atkreipkite dėmesį, kad kai kurios atakos, ypač magiškos arba atliekamos tam tikrų pabaisų (pavyzdžiui, raudonojo drakono ugninis kvėpavimas), gali pataikyti į kelias kūno vietas vienu metu. Atskiros kūno vietos gali būti apsaugotos šarvais, tiek dėl dėvimos apsaugos, tiek dėl natūralaus būtybės išorinio paviršiaus kietumo. Tai svarbu svarstant žalą ir žaizdų lygius žemiau.
+Atkreipkite dėmesį, kad kai kurios atakos, ypač magiškos arba atliekamos tam tikrų pabaisų (pavyzdžiui, raudonojo drakono ugninis alsavimas), gali pataikyti į kelias Pataikymo vietas vienu metu. Atskiros Pataikymo vietos gali būti šarvuotos – arba dėl dėvimų apsaugų, arba dėl natūralaus padaro paviršiaus tvirtumo. Tai svarbu atsižvelgiant į Žalą ir Žaizdų lygius žemiau.
 
 ### Žala ir žaizdų lygiai
 
-Jei ataka pataiko sėkmingai, ji sukelia žalą pagal ginklo žalos įvertinimą (žr. lentelių įrašus apie [ginklus artimai kovai](0006_Money_and_Equipment.md?id=basic-melee-weapons) ir [tolimojo nuotolio ginklus](0006_Money_and_Equipment.md?id=basic-ranged-weapons) skyriuje [Pinigai ir įranga](0006_Money_and_Equipment.md?)). Pavyzdžiui, trumpasis kardas sukelia 1d6 žalą.
+Jei ataka sėkminga, ji padaro žalą pagal ginklo žalos įvertinimą (žr. [Artimos kovos ginklų](0006_Money_and_Equipment.md?id=basic-melee-weapons) ir [Nuotolinės kovos ginklų](0006_Money_and_Equipment.md?id=basic-ranged-weapons) lenteles skyriuje [Pinigai ir įranga](0006_Money_and_Equipment.md)). Pavyzdžiui, trumpasis kardas padaro 1d6 žalą.
 
-Išmesta ginklo ar atakos žala modifikuojama pagal tam tikras sąlygas šia tvarka:
+Išridiota ginklo ar atakos žala modifikuojama pagal tam tikras sąlygas tokia tvarka:
 
-- Pridėkite žalos modifikatorių veikėjui, atliekančiam ataką.
-- Modifikuokite žalą nuo bet kokios ginklą stiprinančios (ar mažinančios) magijos.
-- Jei atremta (parried), sumažinkite žalą atitinkamai pagal ginklų dydžius.
-- Jei kūno vieta apsaugota šarvais, sumažinkite žalą šarvų taškų verte.
+- Taikomas atakuojančio veikėjo Žalos modifikatorius (Damage Modifier).
+- Modifikuojama žala dėl bet kokios ginklo stiprinimo (ar mažinimo) magijos.
+- Jei ataka atremta (parried), žala sumažinama atitinkamai pagal ginklų dydžių palyginimą.
+- Jei Pataikymo vieta šarvuota, žala sumažinama pagal Šarvų taškų (Armor Points) vertę.
 
-Jei atakos sukelta žala yra didesnė nei nulis, kūno vieta patiria tą žalos kiekį, o bendra žala nedelsiant atimama iš vietos hit pointų. Atkreipkite dėmesį, kiek hit pointų vietai liko, ir atsirandantį žaizdos tipą.
+Jei atakos padaryta žala didesnė už nulį, Pataikymo vieta patiria tiek žalos, o žalos suma iškart atimama iš tos vietos Pataikymo taškų (Hit Points). Pasižymėkite, kiek Pataikymo taškų liko toje vietoje, ir nustatykite žaizdos kategoriją.
 
-- **Lengva žaizda (Minor Wound):** Kūno vieta vis dar turi teigiamų hit pointų.
-- **Sunki žaizda (Serious Wound):** Kūno vieta sumažinta iki nulio hit pointų ar žemiau.
-- **Didelė žaizda (Major Wound):** Kūno vieta sumažinta iki neigiamo rezultato, lygaus ar didesnio už jos pradinius hit pointus.
+- **Lengva žaizda (Minor Wound):** Pataikymo vietoje vis dar yra teigiamas Pataikymo taškų skaičius.
+- **Rimta žaizda (Serious Wound):** Pataikymo vietos Pataikymo taškai sumažinami iki nulio ar mažiau.
+- **Sunki žaizda (Major Wound):** Pataikymo vietos Pataikymo taškai sumažinami iki neigiamo skaičiaus, lygaus arba didesnio už pradinius Pataikymo taškus.
 
-Naudokite šias taisykles, jei vieta gauna sunkią arba didelę žaizdą. Atkreipkite dėmesį, kad žaizdos, reikalaujančios ištvermės patikrinimų, išbando juos priešpriešiniame metime prieš pradinio atakos metimo vertę. Tai atspindi itin kvalifikuotų karių gebėjimą suduoti mirtinesnius smūgius. Ištvermės metimai nekartojami, nebent vieta sužeidžiama dar kartą.
+Jei vieta gauna Rimtą arba Sunkią žaizdą, naudokite šias taisykles. Atkreipkite dėmesį, kad žaizdos, reikalaujančios Ištvermės (Endurance) patikrinimų, tikrinamos atliekant Priešpriešinį metimą (Opposed Roll) prieš pradinį atakos metimą. Tai atspindi itin kvalifikuotų karių gebėjimą suduoti mirtinesnius smūgius. Ištvermės metimai nekartojami, nebent ta vieta sužeidžiama dar kartą.
 
 #### Lengva žaizda
 
-Lengvos žaizdos yra įpjovimai, įbrėžimai, sumušimai ir patempimai. Jos skauda ir gali kraujuoti, bet nėra pakankamai reikšmingos, kad sulėtintų ar trukdytų aukai.
+Lengvos žaizdos – tai įpjovimai, įbrėžimai, mėlynės ir patempimai. Jos skauda ir gali kraujuoti, bet nėra tokios reikšmingos, kad sulėtintų ar trukdytų aukai.
+
+#### Rimta žaizda
+
+Jei vieta sumažinama iki nulio ar mažiau Pataikymo taškų, auka patiria Rimtą žaizdą. Vieta visam laikui lieka sužeista, o auka negali atakuoti ar pradėti burti (bet vis tiek gali atremti smūgius ar išvengti jų) ateinančius 1d3 raundus, nes yra priblokšta arba blaškoma skausmo.
+
+Veikėjas, patyręs Rimtą galūnės sužeidimą, privalo nedelsdamas atlikti Priešpriešinį Ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju galūnė tampa nebenaudojama tol, kol Pataikymo taškai vėl tampa teigiami. Jei sužeista koja, auka krenta ant žemės. Jei ranka – viskas, kas buvo laikoma, iškrenta, nebent objektas buvo pritvirtintas (čia pasikliaukite sveiku protu).
+
+Veikėjas, patyręs Rimtą pilvo, krūtinės ar galvos sužeidimą, privalo nedelsdamas atlikti Priešpriešinį Ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju veikėjas netenka sąmonės tiek minučių, kiek žalos buvo padaryta atakos metu, sukėlusios Rimtą žaizdą. Pirmoji pagalba ar Gydymo įgūdžiai gali padėti be sąmonės esančiai aukai atgauti jėgas Rimtai sužeistoje vietoje.
+
+Žaidimų meistro nuožiūra, net jei veikėjas išlieka funkcionalus, visoms užduotims, reikalaujančioms tos Pataikymo vietos naudojimo, bus taikoma nuolatinė vieno sudėtingumo lygio bauda, kol sužalojimas sumažės iki Lengvos žaizdos.
 
 #### Sunki žaizda
 
-Jei vieta sumažinama iki nulio hit pointų ar žemiau, auka gauna sunkią žaizdą. Vieta lieka su nuolatiniais randais, o auka negali atakuoti ar pradėti burti (bet vis tiek gali atremti (Parry) ar išvengti (Evade)) kitus 1d3 ėjimus, nes yra apstulbusi ar išsiblaškiusi dėl žaizdos skausmo.
+Jei vieta sumažinama iki neigiamo skaičiaus, lygaus arba didesnio už pradinius Pataikymo taškus, veikėjas patiria Sunkią žaizdą. Veikėjas iškart tampa neveiksnus (Incapacitated) ir nebegali tęsti kovos. Sunki žaizda gali nutraukti, pervėrti, sutraiškyti ar nuplėšti galūnę. Veikėjas krenta ant žemės, tampa fiziškai neveiksnus ir privalo nedelsdamas atlikti Priešpriešinį Ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju ištinka sąmonės netekimas dėl agonijos. Jei nukirsta, perverta ar nuplėšta vieta nesutvarkoma per tiek minučių, kiek yra penkis kartus padaugintas jo Gydymo greitis (Healing Rate), veikėjas miršta nuo kraujo netekimo ir šoko.
 
-Veikėjas, patyręs sunkią žaizdą į galūnę, privalo nedelsdamas atlikti priešpriešinį ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju galūnė tampa nenaudinga, kol vieta nėra atstatyta iki teigiamų hit pointų. Jei tai koja, auka pargriūva. Jei ranka, viskas, kas laikoma, iškrenta, nebent objektas yra pritvirtintas (naudokitės sveiku protu).
+Auka, patyrusi Sunkią pilvo, krūtinės ar galvos žaizdą, praranda sąmonę, tampa visiškai neveiksni ir privalo nedelsdama atlikti Priešpriešinį Ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju ištinka staigi ir baisi mirtis (nukirtimas, perpjovimas pusiau, pervėrimas per širdį, suplėšymas ir t. t.). Jei išgyvena, o vieta nesutvarkoma per tiek kovos raundų, kiek yra du kartus padaugintas veikėjo Gydymo greitis, jie vis tiek miršta nuo kraujo netekimo ir šoko.
 
-Veikėjas, patyręs sunkią žaizdą į pilvą, krūtinę ar galvą, privalo nedelsdamas atlikti priešpriešinį ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju prarandama sąmonė tiek minučių, kiek žalos buvo padaryta ataka, sukėlusia sunkią žaizdą. Pirmosios pagalbos ar gydymo įgūdžius galima panaudoti padėti sąmonę praradusiai aukai atgauti daugiau gydymo sunkiai sužeistai vietai.
+Kadangi daugumai Sunkių žaizdų reikia tam tikros chirurginės operacijos ar stiprios magijos, nukentėjusysis vargu ar atsigaus pakankamai greitai, kad galėtų sugrįžti į kovą. Priklausomai nuo prieinamo gydymo, sužeista vieta gali likti suluošinta (žr. [Gijimas po traumų](0007_Game_System.md?id=healing-from-injury)).
 
-Žaidimo meistro nuožiūra, net jei veikėjas lieka funkcionalus, visos užduotys, reikalaujančios naudoti tą kūno vietą, patirs nuolatinę vieno sudėtingumo lygio baudą, kol sužalojimas nebus sumažintas iki lengvos žaizdos.
+### Kraujo netekimas
 
-#### Didelė žaizda
+Kraujo netekimas dėl išorinių ir vidinių žaizdų, dažniausiai patiriamų kovos metu, gali labai greitai išsekinti veikėją. Jo poveikis matuojamas nuovargio lygių kaupimusi, panašiai kaip [Uždusimas](0007_Game_System.md?id=asphyxiation). Nestabdomas kraujo netekimas paprastai baigiasi mirtimi, jei nesuteikiama medicininė pagalba. Skirtingai nei uždusimo atveju, rimto kraujo netekimo poveikis nuovargiui yra ilgalaikis. Veikėjas atgauna dėl kraujavimo prarastą nuovargį vienu lygiu per dieną, pradedant kitą dieną po to, kai kraujavimas sustoja.
 
-Jei vieta sumažinama iki neigiamo rezultato, lygaus ar didesnio už jos pradinius hit pointus, veikėjas gauna didelę žaizdą. Veikėjas nedelsiant tampa negalios ištiktas, nesugebantis toliau kovoti. Galūnė didelės žaizdos metu nukertama, perduriama, sutraiškoma ar nuplėšiama. Veikėjas pargriūva, fiziškai tampa negalios ištiktas ir privalo nedelsdamas atlikti priešpriešinį ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju prarandama sąmonė nuo skausmo. Jei nukirsta, perdurta ar nuplėšta vieta nėra sutvarkyta per minučių skaičių, lygų penkis kartus jo gydymosi greičiui, veikėjas miršta nuo kraujo netekimo ir šoko.
+#### Didvyriški paskutiniai veiksmai
 
-Didelę žaizdą į pilvą, krūtinę ar galvą patyrusi auka praranda sąmonę, tampa visiškai negalios ištikta ir privalo nedelsdama atlikti priešpriešinį ištvermės metimą prieš sėkmingą priešo atakos metimą. Nesėkmės atveju ištinka staigi ir negailestinga mirtis (nukirsta galva, perkirstas pusiau, perdurtas širdis, suplėšytas į gabalus ir t.t.). Jei jie išgyvena, o vieta nėra sutvarkyta per kovos raundų skaičių, lygų dukart veikėjo gydymosi greičiui, jie vis tiek miršta nuo kraujo netekimo ir šoko.
-
-Kadangi daugumai didelių žaizdų pagydyti reikia tam tikros chirurgijos ar stiprios magijos, nukentėjusysis vargu ar atsigaus nuo didelės žaizdos laiku, kad galėtų grįžti į kovą. Priklausomai nuo prieinamo gydymo, sužeista vieta bus potencialiai luoša (žr. [Gijimas po sužalojimo](0007_Game_System.md?id=healing-from-injury)).
-
-### Kraujo netekimas (Blood Loss)
-
-Kraujo netekimas dėl išorinių ir vidinių žaizdų, paprastai patirtų kovos metu, gali labai greitai išsekinti veikėją. Jo poveikis matuojamas kaupiant nuovargio lygius, visai kaip [asfiksijos](0007_Game_System.md?id=asphyxiation) atveju. Nesuvaldomas kraujo netekimas paprastai baigiasi mirtimi be tam tikros medicininės pagalbos. Skirtingai nei asfiksijos atveju, rimto kraujo netekimo poveikis nuovargiui yra ilgalaikis. Veikėjas atgauna dėl kraujavimo prarastą nuovargį po vieną lygį per dieną, pradedant kitą dieną po to, kai kraujavimas baigiasi.
-
-#### Herojiški paskutiniai veiksmai
-
-Ypatingais atvejais, kai svarbūs veikėjai gauna didelę žaizdą, žaidimo meistras gali leisti herojišką paskutinį veiksmą – pavyzdžiui, išspjauti paskutinį burtą, bandyti nukirsti savo žudiką, nušliaužti pasislėpti ar bandyti uždėti turniketą ant savo žaizdos. Jie turi turėti veikiančias galūnes, tinkamas veiksmui, ir išleisti sėkmės tašką (Luck Point). Jie gauna vieną galimybę atlikti savo veiksmą, o tada nedelsdami sugriūva į sąmonės netekimą ir tikėtiną mirtį.
+Ypatingais atvejais, kai pagrindiniai veikėjai patiria Sunkią žaizdą, žaidimų meistras gali leisti atlikti didvyrišką paskutinį veiksmą – pavyzdžiui, ištarti paskutinį burtą, bandyti nugalėti savo žudiką, nušliaužti pasislėpti ar bandyti uždėti turniketą ant savo žaizdos. Jie turi turėti veikiančias galūnes, reikalingas veiksmui, ir išnaudoti Sėkmės tašką (Luck Point). Jie gauna vienintelę progą atlikti savo veiksmą, o tada iškart sugriūva netekę sąmonės ir greičiausiai miršta.
 
 ---
-## Gijimas po sužalojimo
+## Gijimas po traumų
 
-Natūralus gijimas nuo žaizdų ir sužalojimų priklauso nuo veikėjo gydymosi greičio. Gydymosi greitis nurodo, kiek hit pointų atgaunama vietoje per laikotarpį, priklausomai nuo sužalojimo pobūdžio:
+Natūralus gijimas nuo žaizdų ir traumų priklauso nuo veikėjo Gydymo greičio (Healing Rate). Gydymo greitis nurodo, kiek Pataikymo taškų atgaunama konkrečioje vietoje per tam tikrą laiką, priklausomai nuo traumos pobūdžio:
 
 - Lengvos žaizdos: Dienos
-- Sunkios žaizdos: Savaitės
-- Didelės žaizdos: Mėnesiai
+- Rimtos žaizdos: Savaitės
+- Sunkios žaizdos: Mėnesiai
 
-Taigi, veikėjas, kurio gydymosi greitis yra 3 ir kuris patiria žalą, numušančią jį iki –3 kūno vietoje (sunki žaizda), natūraliai gys 3 hit pointų per savaitę greičiu, kol jo žaizda taps virš nulio, o tada gys 3 hit pointų per dieną greičiu, kol visiškai pasveiks.
+Taigi, veikėjas su 3 Gydymo greičiu, patyręs žalą, dėl kurios Pataikymo vietoje lieka –3 (Rimta žaizda), natūraliai gys 3 Pataikymo taškus per savaitę, kol žaizda taps teigiama, o tada gys 3 Pataikymo taškus per dieną, kol visiškai pasveiks.
 
 Natūraliam gijimui taikomi tam tikri apribojimai:
 
-- Gyjantis veikėjas negali užsiimti sunkia veikla: kitu atveju gydymosi greitis sumažėja 1d3. Taigi, veikėjas, gyjantis net nuo lengvos žaizdos, gali susidurti su sustojusia pažanga, jei nuspręs užsiimti bet kokia fizine veikla, kuri gali pabloginti sužalojimus.
-- Natūralus gijimas nepradės gydyti didelės žaizdos, kol auka nebus gydoma sėkmingu [gydymo](0005_Skills.md?id=healing-intpow) (Healing) įgūdžio panaudojimu arba vienu iš „Cure Wounds“ burtų. Nenuodijamos didelės žaizdos, kurios nėra gydomos per dienų skaičių, lygų vienai dvidešimtajai gydymo įgūdžio, tampa luošomis, visam laikui sumažinančiomis vietos hit pointus.
+- Gyjantis veikėjas negali užsiimti sunkia veikla: priešingu atveju Gydymo greitis sumažinamas 1d3. Taigi, veikėjas, sveikstantis net nuo Lengvos žaizdos, gali pastebėti, kad gijimas sustojo, jei nusprendžia imtis bet kokios fizinės užduoties, kuri galėtų pabloginti sužalojimus.
+- Natūralus gijimas nepradės gydyti Sunkios žaizdos, kol auka nebus sėkmingai gydoma [Gydymo](0005_Skills.md?id=healing-intpow) įgūdžiu arba išburus vieną iš „Žaizdų gydymo“ (Cure Wounds) burtų. Nesuluošinančios Sunkios žaizdos, kurios nėra gydomos per dienų skaičių, lygų vienai dvidešimtajai Gydymo įgūdžio daliai, tampa suluošintomis, visam laikui sumažindamos vietos Pataikymo taškus.
 
 ### Magiškas gydymas
 
-Tam tikra magija gali išgydyti aukos patirtas žaizdas. Tačiau yra specifinių apribojimų, kokio lygio žaizdą galima gydyti kiekvienu burtu. Pavyzdžiui, dieviškosios magijos burtas „Cure Minor Wounds“ yra efektyviausias lengvoms žaizdoms, kaip rodo jo pavadinimas, o burtas „Cure Serious Wounds“ yra efektyviausias tiek lengvoms, tiek sunkioms žaizdoms. Tik pati galingiausia magija gali akimirksniu pakeisti didelės žaizdos traumatinius sužalojimus.
+Tam tikra magija gali išgydyti aukos patirtas žaizdas. Tačiau yra specifiniai apribojimai, kokio lygio žaizdą galima gydyti kiekvienu burtu. Pavyzdžiui, dieviškosios magijos burtas „Lengvų žaizdų gydymas“ (Cure Minor Wounds) yra efektyviausias Lengvoms žaizdoms, kaip rodo jo pavadinimas, o „Rimtų žaizdų gydymas“ (Cure Serious Wounds) geriausiai tinka tiek Lengvoms, tiek Rimtoms žaizdoms. Tik pati galingiausia magija gali akimirksniu panaikinti traumines Sunkios žaizdos pasekmes.
 
-Nesvarbu, koks menkas yra gydymo burtas, jo pritaikymo visada pakanka stabilizuoti bet kokio tipo žaizdą, užkertant kelią kraujavimui ir staigiai mirčiai, net jei jis faktiškai neišgydo pagrindinio sužalojimo. Atkreipkite dėmesį, kad tai taikoma tik grubiai fizinei traumai, o ne sąlygoms, atsiradusioms dėl dusimo, nuodų ir pan.
+Kad ir koks menkas būtų gydymo burtas, jo panaudojimo visada pakanka stabilizuoti bet kokio tipo žaizdą, užkertant kelią kraujavimui ir staigiai mirčiai, net jei jis neišgydo pačios traumos. Atkreipkite dėmesį, kad tai taikoma tik fizinėms traumoms, o ne sąlygoms, atsiradusioms dėl dusimo, apsinuodijimo ir panašiai.
 
 ---
-## Sėkmės taškai (Luck Points)
+## Sėkmės taškai
 
 Sėkmės taškai padeda atskirti herojus nuo eilinių žmonių. Jie atspindi veikėjo gebėjimą potencialiai paversti nesėkmę sėkme ir net apgauti mirtį.
 
-Pasiekus 2 rangą ir kiekvieną vėlesnį rangą, visi veikėjai gauna papildomą sėkmės tašką. Tai šiek tiek imituoja papildomų hit pointų įgijimą lygiais pagrįstuose žaidimuose, leidžiant aukštesnio rango veikėjams geriau susidoroti su tokiais dalykais kaip drakonai, demonai, velniai ir pan., neleidžiant jiems priimti daugiau bausmės nei afrikinis bulius dramblys.
+Pasiekę 2 rangą ir kiekvieną paskesnį rangą, visi veikėjai gauna papildomą Sėkmės tašką. Tai tam tikra prasme imituoja papildomų Pataikymo taškų gavimą lygių pagrindu veikiančiuose žaidimuose, leidžiant aukštesnio rango veikėjams geriau susidoroti su drakonais, demonais, velniais ir t. t., neleidžiant jiems atlaikyti daugiau smūgių nei afrikinis dramblys.
 
-Sėkmės taškus galima naudoti žaidimo metu, o kito sesijos pradžioje jie atstatomi iki įprastos vertės.
+Sėkmės taškus galima naudoti žaidimo metu, o kitos sesijos pradžioje jie atstatomi iki įprastos vertės.
 
 #### Sėkmės taškų naudojimas
 
-Sėkmės taškus galima naudoti įvairiais būdais. Tik vieną sėkmės tašką galima naudoti remiant konkretų veiksmą. Sėkmės taškų negalima išleisti patirties ar mokymo metimams. Kiekviena iš toliau nurodytų parinkčių kainuoja vieną sėkmės tašką.
+Sėkmės taškus galima naudoti įvairiais būdais. Tik vieną Sėkmės tašką galima panaudoti remiant konkretų veiksmą. Sėkmės taškų negalima išleisti patirties ar treniruočių metimams. Kiekviena iš toliau išvardytų parinkčių kainuoja vieną Sėkmės tašką.
 
-#### Apgauti likimą (Cheat Fate)
+#### Apgauti likimą
 
-Veikėjai gali panaudoti sėkmės tašką persimesti arba sukeisti (pavyzdžiui, 75 taptų 57) bet kokį savo atliekamą kauliukų metimą. Tai gali būti įgūdžio metimas, žalos metimas ar bet kas kita, kas turi tam tikrą efektą. Veikėjai gali net priversti priešininką persimesti ataką ar žalos metimą, atliktą prieš juos.
+Veikėjai gali panaudoti Sėkmės tašką norėdami iš naujo išridenti arba sukeisti (pavyzdžiui, 75 tampa 57) bet kokį savo atliktą kauliukų metimą. Tai gali būti įgūdžio metimas, žalos metimas ar bet kas kita, kas turi tam tikrą efektą. Veikėjai gali net priversti priešininką iš naujo ridenti ataką ar žalos metimą, atliktą prieš juos.
 
-#### Desperatiškos pastangos (Desperate Effort)
+#### Beviltiškos pastangos
 
-Jei veikėjas kovos metu išnaudojo savo veiksmų taškus ir turi rasti tą paskutinį desperatiškos energijos pliūpsnį, kad galbūt išvengtų nemalonios pabaigos, jis gali išleisti sėkmės tašką papildomam veiksmų taškui gauti.
+Jei veikėjas kovos metu išnaudojo savo Veiksmų taškus (Action Points) ir jam reikia rasti paskutinį beviltiškos energijos pliūpsnį, kad galbūt išvengtų nemalonios mirties, jis gali išleisti Sėkmės tašką, kad gautų papildomą Veiksmų tašką.
 
-#### Sumažinti žalą (Mitigate Damage)
+#### Sušvelninti žalą
 
-Veikėjas, patyręs didelę žaizdą, gali išleisti sėkmės tašką, kad sumažintų sužalojimą iki sunkios žaizdos. Tai sumažina patirtą žalą iki vienu hit pointu mažiau, nei būtų reikalinga didelė žaizda sukelti.
+Veikėjas, patyręs Sunkią žaizdą, gali išleisti Sėkmės tašką, kad sumažintų traumą iki Rimtos žaizdos. Tai sumažina patirtą žalą iki vieno Pataikymo taško mažiau, nei būtų reikalinga Sunkiai žaizdai sukelti.
 
 ---
-## Spąstai (Traps)
+## Spąstai
 
-Spąstai yra visur paplitę įrenginiai, naudojami kiekvienos kultūros – nuo duobių kasimo gyvūnams gaudyti iki mirties spąstų, saugančių kapus per amžius. Šie įrenginiai sukonstruoti įvairiems tikslams, kiekvienas specialiai pritaikytas sužadinti aliarmą, pagauti nekviestus svečius arba tiesiogiai suluošinti ir nužudyti vagis.
+Spąstai yra visur paplitę įtaisai, naudojami kiekvienos kultūros – nuo duobių gyvūnams gaudyti iki mirtinų spąstų, saugančių kapavietes visą amžinybę. Šie įtaisai sukurti įvairiems tikslams: perspėti apie įsilaužimą, sugauti įsibrovėlius arba sužaloti ir tiesiog nužudyti vagis.
 
-Spąstų konstravimas reikalauja, kad statytojas mokėtų mechanizmų (Mechanisms) arba inžinerijos (Engineering) įgūdį. Mažiems spąstams, pavyzdžiui, meškų spąstams ar užrakintiems spąstams, reikia mechanizmų, o didelio masto konstrukcijoms, pavyzdžiui, dygliuotoms duobėms ar riedantiems rieduliams, reikia inžinerijos.
+Spąstų konstravimui reikia, kad kūrėjas išmanytų Mechanizmų (Mechanisms) arba Inžinerijos (Engineering) įgūdį. Mažiems spąstams, tokiems kaip meškų spąstai ar užraktai, reikia Mechanizmų, o didelio masto konstrukcijoms, pavyzdžiui, duobėms su smaigais ar riedantiems akmenims – Inžinerijos.
 
-Be kompetentingo meistro samdymo, spąstai dažnai turi labai brangius komponentus arba rankinio darbo sąnaudas. Kaip bendra gairė: aliarmai kainuoja kūrėjo įgūdį vario monetomis, spąstai – tiek pat sidabro, o mirties spąstai reikalauja apmokėjimo auksu.
+Be kompetentingo meistro samdymo, spąstai dažnai reikalauja labai brangių komponentų arba rankų darbo sąnaudų. Kaip bendra gairė: signalizacija kainuoja kūrėjo įgūdžio dydį varinėmis monetomis, gaudymo spąstai – tiek pat sidabrinėmis, o mirtini spąstai reikalauja mokėjimo auksinėmis.
 
-Visi spąstai turi sudėtingumo reitingą, kuris rodo, kaip sunku juos suvokti, išjungti ar išvengti. Ši vertė traktuojama kaip jos įgūdis, kai pasipriešinama priešpriešiniame metime.
+Visi spąstai turi Sudėtingumo įvertinimą, kuris parodo, kaip sunku juos pastebėti, išjungti ar išvengti. Ši vertė laikoma įgūdžiu, kai priešinamasi Priešpriešiniame metime.
 
-Nepaisant daugybės linksmų pasakotojų istorijų, spąstai – ypač tie, kurie skirti žudyti – retai turi gudrų būdą išvengti ar pakeisti savo poveikį, kai jie pradeda veikti. Be magijos ar sėkmės, tie, kurie įkliūva į mirties spąstus, paprastai pasiduoda jų itin efektyviam tikslui. Trumpai tariant, jie nėra skirti išgyventi. Nebent spąstai turi kokį nors gudrų dizainą ar yra kažkokie ilgalaikiai magiški užkeikimai, kai jie suveikia, jie turi būti nustatyti iš naujo rankiniu būdu.
+Nepaisant daugybės linksmų istorijų, kurias pasakoja pasakotojai, spąstai – ypač tie, kurie skirti žudyti – retai turi būdą sumaniai išvengti ar pakeisti jų poveikį, kai jie paleidžiami. Be magijos ar sėkmės, į mirtinus spąstus patekusieji paprastai tampa jų efektyvaus veikimo aukomis. Trumpai tariant, jie nėra skirti išgyvenimui. Jei spąstai neturi kokio nors gudraus dizaino ar nėra ilgalaikis magiškas užkeikimas, juos paleidus reikia iš naujo užtaisyti rankiniu būdu.
 
 ### Spąstų savybės
 
@@ -340,30 +338,30 @@ Spąstai aprašomi naudojant šias savybes.
 
 #### Tikslas
 
-Spąstų tikslas. Yra keturi pagrindiniai tipai:
+Spąstų paskirtis. Yra keturi pagrindiniai tipai:
 
-- **Aliarmas:** Spąstai siunčia tylų arba garsinį signalą, kad buvo sužadinti.
-- **Spąstai (Ensnaring):** Skirti sugauti kiekvieną, kas juos sužadina arba į juos įeina.
-- **Luošinimas:** Skirti kritiškai sužaloti kiekvieną, kas juos sužadina.
-- **Mirtis:** Skirti nužudyti tuos, kurie sužadina jų mirtinus įrenginius.
+- **Signalizacija:** Spąstai siunčia tylų arba garsinį signalą, kad buvo suaktyvinti.
+- **Gaudymo:** Spąstai skirti sugauti bet ką, kas juos suaktyvina ar įeina į juos.
+- **Sužalojimo:** Spąstai skirti kritiškai sužaloti bet ką, kas juos suaktyvina.
+- **Mirtini:** Spąstai skirti nužudyti tuos, kurie suaktyvina jų mirtinus mechanizmus.
 
-#### Sužadinimas (Trigger)
+#### Suaktyvinimas
 
-Būdas, kuriuo spąstai sužadinami.
+Būdas, kuriuo spąstai suveikia.
 
 #### Sudėtingumas
 
-Spąstų iššūkio reitingas, lygus mechanizmų ar inžinerijos įgūdžio vertei, kuri jį sukūrė. Pavyzdžiui, skersmenų ašmenų spąstai, įmontuoti į lobių skrynios pagrindą meistro su 70% mechanizmų įgūdžiu, suteikia spąstams 70% sudėtingumą. Nuo to laiko spąstai naudos šią vertę priešpriešiniuose metimuose, norint pamatyti, ar ašmenis galima pastebėti, išvengti ar išjungti.
+Spąstų iššūkio įvertinimas, lygus Mechanizmų arba Inžinerijos įgūdžio, sukūrusio juos, vertei. Pavyzdžiui, ašmenų spąstai, meistro su 70% Mechanizmų įgūdžiu įmontuoti į lobių skrynios pagrindą, suteikia jiems 70% Sudėtingumą. Po to spąstai naudos šią vertę Priešpriešiniuose metimuose, kad nustatytų, ar ašmenis galima pastebėti, išvengti ar išjungti.
 
-#### Pasipriešinimas
+#### Priešinimasis
 
-Kaip spąstams pasipriešinama – paprastai naudojant jėgą (Brawn), išvengimą (Evade) arba atrėmimą (Parrying) kovos įgūdžiu, kuris apima skydą. Pasipriešinimas metamas, kai spąstai sužadinami.
+Kaip spąstams priešinamasi – paprastai naudojant JĖG, Išvengimą (Evade) arba Atrėmimą (Parrying) kovos įgūdžiu, kuris apima skydą. Priešinimasis ridenamas, kai spąstai suaktyvinami.
 
 #### Efektas
 
-Kas nutinka, kai spąstai suveikia ir auka(-os) nepasipriešina? Paprastai tai sukelia antagonistų įspėjimą (jei aliarmas) arba aukų pagavimą (jei skirta sugauti). Luošinimo ir mirties spąstai akivaizdžiai sužeidžia auką, nors kai kurie mirties spąstai naudoja kitas priemones nei tiesioginę žalą, pavyzdžiui, skęstį ar nuodus. Kad būtų apriboti per daug mirtini spąstai, daugelio mechaninių įrenginių sukeliama žala ribojama jo kūrėjo įgūdžio. Tačiau kiti, pavyzdžiui, spąstai, kurie paveikia auką nuodais, neatsižvelgia į kūrėjo faktinį įgūdį. Tai paprastai subalansuojama naudojamų nuodų brangumu. Kita išimtis yra duobės spąstai (Pit Trap), kur žala tiesiog pagrįsta duobės gyliu. Šiais atvejais kūrėjo įgūdis naudojamas nustatyti šansui pastebėti, išvengti ir išjungti spąstus; žala nustatoma pagal nuodų tipą arba kritimo atstumą, atitinkamai. Jėga (Force) nurodoma tiems spąstams, kurie šaudo sviedinius, kuriuos galima atremti.
+Kas nutinka, kai spąstai suveikia, o auka(-os) nesugeba pasipriešinti? Paprastai tai baigiasi priešininkų perspėjimu (jei signalizacija) arba aukų sugavimu (jei skirta gaudyti). Sužalojimo ir mirtini spąstai akivaizdžiai sužeidžia auką, nors kai kurie mirtini spąstai žalai padaryti naudoja kitas priemones, pavyzdžiui, skendimą ar nuodus. Norint apriboti pernelyg mirtinus spąstus, daugumos mechaninių įtaisų daroma žala yra ribojama kūrėjo įgūdžio. Tačiau kiti, pavyzdžiui, spąstai, kurie auką apnuodija, neatsižvelgia į kūrėjo faktinį įgūdį. Tai paprastai subalansuojama naudojamų nuodų kaina. Kita išimtis yra Duobės spąstai, kur žala tiesiog pagrįsta duobės gyliu. Šiais atvejais kūrėjo įgūdis naudojamas nustatyti galimybę pastebėti, išvengti ir išjungti spąstus; žala nustatoma pagal nuodų tipą arba kritimo atstumą. Jėga (Force) nurodoma tiems spąstams, kurie šaudo sviedinius, kuriuos galima atremti.
 
-##### Mirties spąstų žalos ribos
+##### Mirtinų spąstų žalos ribos
 
 | **Kūrėjo įgūdis** | **Žala** | **Dydis/Jėga** |
 | :-: | :-: | :-: |
@@ -378,43 +376,41 @@ Kas nutinka, kai spąstai suveikia ir auka(-os) nepasipriešina? Paprastai tai s
 | 81-90% | 1d10+1d8 | Enorminis |
 | 91-100% | 2d10 | Enorminis |
 
-Žala gali paveikti kelias atsitiktines kūno vietas, kiekvienai papildomai vietai sumažinant žalą vienu lygiu Mirties spąstų žalos ribų lentelėje. Pavyzdžiui, spąstų dizaineris su 50% įgūdžiu galėtų suprojektuoti spąstus, sukeliančius 1d10 žalą vienai vietai, 1d8 žalą 1d2 kūno vietoms, 1d6 žalą 1d3 vietų ir t.t. Galimų vietų skaičius nustatomas projektuojant spąstus ir negali būti pakeistas. Kadangi papildomų kūno vietų skaičius yra atsitiktinis, yra galimybė, kad iš viso bus padaryta mažesnė žala.
+Žala gali paveikti kelias atsitiktines Pataikymo vietas, kiekviena papildoma vieta sumažinant žalą vienu laipsniu Mirtinų spąstų žalos ribų lentelėje. Pavyzdžiui, spąstų kūrėjas su 50% įgūdžiu galėtų suprojektuoti spąstus, kurie padaro 1d10 žalą vienai vietai, 1d8 žalą 1d2 Pataikymo vietoms, 1d6 žalą 1d3 vietoms ir t. t. Potencialių vietų skaičius nustatomas projektuojant spąstus ir negali būti pakeistas. Kadangi papildomų Pataikymo vietų skaičius yra atsitiktinis, yra tikimybė, kad bendrai bus padaryta mažiau žalos.
 
 ### Spąstų pavyzdžiai
 
 #### Duobė (Pitfall)
 
-Duobė yra archetipiniai spąstai, naudojami kiekvienos kultūros. Tai gali būti paprasta iškasta duobė, uždengta šakomis ir lapais, arba pasiekti akmeninėmis sienomis išklotų duobių po atlenkiamomis klaidingomis grindimis sudėtingumą, kurios yra subalansuotos atgal į vietą atsistatyti po to, kai auka įkrinta.
+Duobė yra archetipiniai spąstai, naudojami kiekvienos kultūros. Tai gali būti paprasta iškasta duobė, uždengta šakomis ir lapais, arba sudėtingesnis variantas su akmeninėmis sienomis po atlenkiamomis netikromis grindimis, kurios atsvarų pagalba grįžta į vietą po to, kai auka įkrenta.
 
-Duobės nebūtinai turi būti labai gilios. Jei skirta sugauti, paprasta amforos ar omarų gaudyklės forma neleis pabėgti lipant, kaip ir sienos, kurios yra iškaltos lygiai arba padarytos iš byrančios medžiagos, kuri neatlaiko veikėjo svorio. Duobės, kurios skirtos žudyti, paprastai išklojamos dugne dešimtimis smaigalių, tankiai išdėstytų taip, kad krintantis veikėjas neišvengiamai būtų perdurtas. Kitos galimybės gali apimti dugno užpildymą silpna rūgštimi, vandeniu, pakankamai giliu nuskęsti, arba alkanomis žiurkėmis.
+Duobės neturi būti itin gilios. Jei skirtos gaudymui, paprasta amforos ar omarų gaudyklės forma neleis išlipti lipant, kaip ir sienos, kurios iškaltos lygiai arba pagamintos iš trupančios medžiagos, kuri neatlaiko veikėjo svorio. Duobės, kurios skirtos žudyti, paprastai išklojamos dešimtimis smaigų, tankiai išdėliotų taip, kad krentantis veikėjas neišvengiamai būtų pervėrtas. Kiti variantai gali būti dugno pripildymas silpna rūgštimi, vandeniu, kuriame galima nuskęsti, arba badaujančiomis žiurkėmis.
 
-- **Tikslas:** Spąstai arba mirtis
-- **Sužadinimas:** Ejimas per klaidingą paviršių, dengiantį duobę
+- **Tikslas:** Gaudymo arba Mirtini
+- **Suaktyvinimas:** Žengimas per netikrą paviršių, dengiantį duobę
 - **Sudėtingumas:** 60%
-- **Pasipriešinimas:** Arba išvengimas (Evade), kad iššoktum, arba sunkus atletikos (Athletics) metimas, kad pagautum kraštą krisdamas.
-- **Efektas:** Kritimas į duobę sukelia 2d6 žalą atsitiktinei kūno vietai, šarvai neapsaugo. Antriniai efektai paliekami žaidimo meistro vaizduotei.
+- **Priešinimasis:** Arba Išvengimas (Evade), kad nušoktumėte į šalį, arba Sunkus Atletikos (Athletics) metimas, kad pagautumėte kraštą krintant.
+- **Efektas:** Kritimas į duobę padaro 2d6 žalą atsitiktinei Pataikymo vietai, šarvai neapsaugo. Antriniai efektai paliekami žaidimų meistro vaizduotei.#### Nuodingos adatos spąstai
 
-#### Nuodų adatos spąstai
+Tai dar vieni dažni spąstai, aptinkami visur – nuo karaliaus menės iki užmiršto kapo. Šie spąstai paprastai dedami ant skrynios, tačiau gali saugoti ir durų spynas. Jei spąstai neatidaromi tinkamu raktu, jie iššauna mažą nuodingą adatą į ranką kiekvienam, bandančiam atrakinti spyną.
 
-Tai dar vieni dažni spąstai, randami visur – nuo karaliaus menės iki pamiršto kapo. Šie spąstai paprastai dedami ant skrynios, bet gali būti randami saugantys ir durų spynas. Jei nebus atidaryti tinkamu raktu, spąstai išmes mažą nuodingą adatą į ranką kiekvienam, bandančiam atrakinti spyną.
-
-- **Tikslas:** Spąstai arba mirtis
-- **Sužadinimas:** Bandymas atrakinti užrakintą objektą.
-- **Sudėtingumas:** 60%
-- **Pasipriešinimas:** Ištvermė (Endurance)
-- **Efektas:** Kai sužadinami, maža nuodinga adata iššoka ir įsminga į ranką bet kam, bandančiam atrakinti spyną. Adatai padengti gali būti naudojami bet kokie nuodai. Žaidimo meistras gali nuspręsti specifinius bet kokių nuodų duomenis – kurie išsamiai aptarti pagrindinėse _Classic Fantasy_ taisyklėse.
+- **Paskirtis:** Sugavimas arba mirtis
+- **Suveikimas:** Bandymas atrakinti užrakintą objektą.
+- **Sunkumas:** 60%
+- **Priešinimasis:** Ištvermė
+- **Poveikis:** Kai suveikia, maža nuodinga adata iššauna ir įduria į ranką kiekvienam, bandančiam atrakinti spyną. Adatai padengti gali būti naudojami bet kokie nuodai. Žaidimo meistras gali nuspręsti dėl konkrečių nuodų savybių – jos detaliai aprašytos pagrindinėse _Classic Fantasy_ taisyklėse.
 
 <details>
 
-<summary>* Bendruomenės klaidų taisymai</summary>
+<summary>* Bendruomenės klaidų ištaisymai (Errata)</summary>
 
 ---
 
-#### Nuodų adatos spąstai
+#### Nuodingos adatos spąstai
 
-_Originaliame tekste buvo įtraukta: "Jei nuodai mirtini, naudokite efektus, išsamiai aprašytus aukščiau minėtiems nuodingų dujų spąstams, tačiau taikomus tik nelaimingam spynos atidarinėtojui."_
+_Originaliame tekste buvo nurodyta: „Jei nuodai mirtini, naudokite poveikį, aprašytą aukščiau esančiuose nuodingų dujų spąstuose, tačiau taikykite tik nelaimingajam spynos atrakintojui.“_
 
-_Tai sukelia problemų, nes nuodingų dujų spąstai nėra aptarti Classic Fantasy Imperative. Todėl atliktas aukščiau nurodytas pakeitimas._
+_Tai sukelia problemų, nes nuodingų dujų spąstai „Classic Fantasy Imperative“ knygoje neaprašyti. Todėl buvo atliktas aukščiau nurodytas pakeitimas._
 
 ---
 

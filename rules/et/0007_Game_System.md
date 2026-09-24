@@ -1,136 +1,136 @@
 # 7. peatükk: Mängusüsteem
 
-*Classic Fantasy Imperative* mängu ajal võib juhtuda palju erinevaid asju. Mõned lahendatakse oskuste kasutamise või mängu peamiste mehaanikate, nagu võitlus või maagia, abil; teised vajavad oma reegleid. Käesolev peatükk pakub reegleid ja juhiseid mitmesuguste stsenaariumite jaoks, millega mängijad mängu ajal kokku puutuvad.
+_Classic Fantasy Imperative_ mängu ajal võib juhtuda palju erinevaid asju. Mõned lahendatakse oskuste kasutamise või mõne peamise mängumehaanika (näiteks võitlus või maagia) abil; teised nõuavad oma reegleid otsustamiseks. See peatükk pakub reegleid ja juhiseid mitmesuguste olukordade jaoks, millega mängijad mängu ajal kokku puutuvad.
 
-See loetelu ei ole ammendav, kuid peaks katma kõige tavapärasemad olukorrad. Kui mängujuhid leiavad, et on olemas ka muid olukordi, mis nõuavad mingisugust mängusüsteemi hinnangut, ja need olukorrad näivad sageli korduvat, siis julgustatakse neid välja töötama oma reegleid nende eriolukordade katmiseks, kasutades selles peatükis antut alusena kopeerimiseks või arendamiseks.
+Loetelu ei ole ammendav, kuid peaks katma kõige tavalisemad olukorrad. Kui mängujuht leiab, et on ka teisi olukordi, mis nõuavad mingit laadi mängusüsteemipõhist otsustamist ja mis näivad sageli korduvat, siis soovitatakse neil välja töötada oma reeglid nende eritingimuste lahendamiseks, kasutades selles peatükis toodud näiteid alusena.
 
 ---
 ## Vananemine
 
-Kõik tegelased vananevad ja vananemisega kaasnevad teatud tagajärjed. Vananemise märgid algavad varases keskeas (inimestel 40 aastat – teised liigid vananevad kiiremini või aeglasemalt, nagu on näidatud allpool). Kui tegelane jõuab uude vanusevahemikku, peab ta sooritama nii vastupidavuse (Endurance) kui ka tahtejõu (Willpower) heite märgitud raskusastmetega. Kui heide ebaõnnestub, kogeb tegelane vananemise efekte, nagu on näidatud vananemise efektide tabelis.
+Kõik tegelased vananevad ja vanusega kaasnevad teatud tagajärjed. Vananemise märgid algavad varases keskeas (inimestel 40 aastat – teised liigid vananevad kiiremini või aeglasemalt, nagu allpool näidatud). Kui tegelane jõuab uude vanusevahemikku, peab ta sooritama nii VAS-i kui ka VÄG-i kontrollheite märgitud raskusastmetega. Kui heide ebaõnnestub, kogeb tegelane vananemisefekte, nagu on näidatud vananemisefektide tabelis.
 
-Iga vananemisest mõjutatud omadus väheneb 1d3 punkti võrra. Neid punkte saab taastada või vähemalt osaliselt kompenseerida omaduste arendamise kaudu, mis kujutab endast jõupingutusi, mida tegelane teeb, et püsida vananedes trimmi ja erksana. Kui mõni omadus langeb vananemise tõttu nullini, tegelane sureb oma lõpliku nõrkuse tõttu. Kui tegelane jõuab raugaikka, tehakse vananemise heiteid igal aastal, sõltumata rassist.
+Iga vananemisest mõjutatud omadus väheneb 1d3 punkti võrra. Neid punkte saab taastada või vähemalt osaliselt kompenseerida omaduste arendamisega, mis tähistab pingutusi, mida tegelased teevad, et püsida vananedes vormis ja erksana. Kui mõni omadus väheneb vananemise tõttu nullini, sureb tegelane oma lõpliku nõrkuse tõttu. Kui tegelane jõuab raugaea vahemikku, sooritatakse vananemisheiteid igal aastal, sõltumata rassist.
 
-See, millised konkreetsed nõrgestavad efektid vananemisprotsessis ilmnevad, on mängujuhi otsustada. Näiteks jõu (STR), kehaehituse (CON) või osavuse (DEX) vähenemine kujutab endast keha üldist kulumist, kriuksuvaid liigeseid ja järkjärgulist liikuvuse vähenemist. Intellekti (INT) vähenemine viitab sellele, et vanus hakkab mängima vingerpusse mõistuse ja mäluga, samas kui karisma (CHA) vähenemine tähendab, et tegelane muutub vananedes karedamaks ja võib-olla lühikesema süütenööriga.
+See, millised konkreetsed kurnavad efektid vananemisprotsessiga kaasnevad, on mängujuhi otsustada. Näiteks JÕU, VAS või OSA vähenemine tähistab keha üldist kulumist, krigisevaid liigeseid ja järkjärgulist liikuvuse vähenemist. INT-i vähenemine viitab sellele, et vanus hakkab mõistuse ja mäluga vingerpussi mängima, samas kui KAR-i vähenemine näitab, et tegelane muutub vananedes küünilisemaks ja võib-olla lühikesema süütenööriga.
 
 ##### Vanusevahemikud
 
-| **Vanusevahemik** | **Inimene** | **Päkapikk** | **Päkapikk (Elf)** | **Gnoom** | **Poolelf** | **Poolork** | **Kääbik** | **Vastupidavuse ja tahtejõu raskusaste** |
+| **Vanusevahemik** | **Inimene** | **Päkapikk** | **Haldjas** | **Pöialpoiss** | **½ Haldjas** | **½ Ork** | **Poolpikk** | **VAS-i ja VÄG-i heite raskusaste** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
 | Varane keskea | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Kerge |
 | Keskea | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standard |
 | Hiline keskea | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Raske |
-| Vanadus | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Vormidatav |
+| Vanadus | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Hirmuäratav |
 | Kõrge vanadus | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Heraklese-vääriline |
-| Raugaiga | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Lootusetu |
+| Raugaeas | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Lootusetu |
 
-##### Vananemise efektide tabel
+##### Vananemisefektide tabel
 
-| **1d6** | **Füüsiline vananemine (Ebaõnnestunud vastupidavus)** | **Vaimne vananemine (Ebaõnnestunud tahtejõud)** |
+| **1d6** | **Füüsiline vananemine (ebaõnnestunud VAS)** | **Vaimne vananemine (ebaõnnestunud VÄG)** |
 | :-: | :-- | :-- |
-| 1-2 | STR | INT |
-| 3-4 | CON | POW |
-| 5-6 | DEX | CHA |
+| 1-2 | JÕU | INT |
+| 3-4 | VAS | VÄG |
+| 5-6 | OSA | KAR |
 
 ---
-## Asfüksia (lämbumine)
+## Lämbumine
 
-Tegelased saavad hinge kinni hoida sekundi arvu, mis on võrdne nende vastupidavusoskuse väärtusega. Tegelane peab aga olema selleks valmistunud (kopsud õhku täis tõmmanud); kui ei, siis periood poolitatakse, kui tegelane oli passiivses olukorras, või vähendatakse viiendikuni, kui tegelane tegeles pingelise tegevusega.
+Tegelased saavad hinge kinni hoida sekundeid, mis on võrdsed nende Vastupidavuse oskuse tasemega. Küll aga peab tegelane olema valmistunud (täitma kopsud võimalikult suure koguse õhuga); kui ei, siis periood poolitatakse, kui tegelane oli passiivses olukorras, või vähendatakse viiendikuni, kui tegelane tegeles pingelise tegevusega.
 
-Kui hinge kinnihoidmise aeg on läbi, peavad tegelased sooritama vastupidavuse heite:
+Kui hinge kinnihoidmise periood on lõppenud, peavad tegelased sooritama VAS-i heite:
 
-- Kui heide on kriitiline õnnestumine, edasist halvenemist ei toimu.
+- Kui heide on kriitiline õnnestumine, siis edasist halvenemist ei toimu.
 - Kui heide on õnnestunud, saab tegelane lisataseme väsimust.
 - Kui heide ebaõnnestub, saab tegelane selles voorus 1d2 lisataset väsimust.
-- Kui heide on vääratus (Fumble), saab tegelane selles voorus 1d3 lisataset väsimust.
+- Kui heide on kobistamine, saab tegelane selles voorus 1d3 lisataset väsimust.
 
-Ilma abita on lämbumissurm tavaliselt kiire. Kui asfüksia lõpeb enne tegelase surma, taastuvad nad lämbumise tõttu kaotatud väsimustasemetest suhteliselt kiiresti, taastades ühe taseme minutis.
+Ilma abita on surm lämbumise tõttu tavaliselt kiire. Kui lämbumine lõpeb enne tegelase surma, taastuvad nad lämbumise tõttu kaotatud väsimustasemetest suhteliselt kiiresti, taastades ühe taseme minutis.
 
-Sõltuvalt lämbumise meetodist võib mängujuht soovida takistada täielikku taastumist, määrates püsiva väsimustaseme, et kujutada suitsu või vee sissehingamisest põhjustatud kopsukahjustusi.
+Sõltuvalt lämbumismeetodist võib mängujuht soovida takistada täielikku taastumist, kehtestades püsiva väsimustaseme, et kujutada suitsu või vee sissehingamisest põhjustatud kahjustusi kopsudele.
 
 ---
 ## Tegelase arendamine
 
-Iga *Classic Fantasy Imperative* tegelane saab aja ja kogemustega areneda. Arendada saab mitmes valdkonnas:
+Iga _Classic Fantasy Imperative_ tegelane saab aja ja kogemustega areneda. Arendamist saab ette võtta mitmes valdkonnas:
 
 - Olemasolevate oskuste suurendamine
-- Kirgede (Passions) suurendamine
+- Kirgede suurendamine
 - Uute oskuste õppimine
 - Uute võimete õppimine
 
 #### Kogemusheited
 
-Enamiku tegelase arendamise mehhanismiks on kogemusheide. Mängujuhid jagavad kogemusheiteid kampaania sobival hetkel: iga eduka stsenaariumi või süžeeliini lõpus; või pärast ehk kahte või kolme mänguseanssi, kui tegemist on pika looga, mille lõpetamine võtab aega. Sagedus on mängujuhi äranägemisel. Suur kogemusheidete sagedus viib tegelaste kiirema arenguni.
+Enamiku tegelaste arendamise mehhanismiks on kogemusheide. Mängujuhid jagavad kogemusheiteid kampaania sobival hetkel: iga eduka stsenaariumi või süžee lõpus; või pärast võib-olla kahte või kolme mänguseanssi, kui lugu on pikk ja selle lõpuleviimine võtab aega. Sagedus on mängujuhi äranägemisel. Suur kogemusheidete sagedus viib tegelaste kiirema arenguni.
 
-Kogemusheidete jagamiseks ei ole õiget ega valet aega, kuid loomulikud pausid loos võivad viidata sobivatele aegadele. Otsuse teeb aga alati mängujuht. Kuigi mängijad ei saa kogemusheiteid nõuda, on neil õigus neid teatud aegadel oodata – kuna ilma nendeta ei saa nende tegelased areneda.
+Kogemusheidete andmiseks ei ole õiget ega valet aega, kuid loo loomulikud pausid võivad pakkuda sobivaid hetki. Mängujuht on siinkohal siiski alati otsustaja. Kuigi mängijad ei saa kogemusheiteid nõuda, on neil õigus oodata neid teatud aegadel – kuna nende tegelased ei saa ilma nendeta areneda.
 
-Kogemusheidete arvu määrab samuti mängujuht. Hea rusikareegel on siiski 1–3 kogemusheidet seansi kohta alates viimasest jagamisest.
+Antud kogemusheidete arvu määrab samuti mängujuht. Siiski on heaks rusikareegliks 1-3 kogemusheidet seansi kohta alates viimasest jagamisest.
 
 #### Olemasolevate oskuste suurendamine
 
-Iga tegelaslehel olevat oskust, olgu see standardne või professionaalne, saab suurendada ühe kogemusheite kulutamisega. Mängijad võivad otsustada kogemusheiteid oskuste suurendamiseks *mitte* kulutada, kogudes neid hoopis muude asjade, näiteks klassivõimete (vt allpool), suurendamiseks.
+Iga tegelase lehel olevat oskust, olgu see standardne või professionaalne, saab suurendada, kulutades ühe kogemusheite. Mängijad võivad valida, et nad _ei_ kuluta kogemusheiteid oskuste suurendamiseks, vaid koguvad neid hoopis muude asjade (nt klassivõimete, vt allpool) täiustamiseks.
 
-- Mängija veeretab 1d100 ja võrdleb seda suurendatava oskusega. Tegelase INT lisatakse heitele.
-- Kui veeretatud arv on **võrdne või suurem** kui täiendatav oskus, suureneb see 1d4+1% võrra.
-- Kui veeretatud arv on **väiksem** kui valitud oskus, suureneb oskus sellegipoolest, kuid ainult 1% võrra.
-- Kui tegelane vääratas (Fumbled) mõnda oskust eelneva seansi(de) jooksul – st viimase kogemusheidete komplekti ja käesoleva hetke vahel –, saab vääratatud oskus tasuta 1% suurenduse. On üldteada tõde, et õpime oma vigadest rohkem kui õnnestumistest, ja see esindab järelemõtlemist, mida tegelane pärast katastroofilist ebaõnnestumist kogeb. Sama oskuse mitu vääratust ei kuhju. Juhul, kui vääratatud oskust tõstetakse ka kogemusheitega, rakendatakse vääratusest saadud 1% enne täiendusheite sooritamist.
+- Mängija veeretab 1d100 ja võrdleb seda täiendatava oskusega. Tegelase INT lisatakse tulemusele.
+- Kui veeretatud number on **võrdne või suurem** täiendatavast oskusest, suureneb see 1d4+1%.
+- Kui veeretatud number on **väiksem** kui valitud oskus, suureneb oskus sellegipoolest, kuid ainult 1%.
+- Kui tegelane kobistas mõne oskusega eelneva seansi(de) ajal – s.t viimaste kogemusheidete ja praeguse hetke vahel –, saab kobistatud oskus tasuta 1% suurenduse. On tõsiasi, et õpime oma vigadest rohkem kui õnnestumistest, ja see tähistab reflektsiooni, mida tegelane pärast katastroofilist ebaõnnestumist kogeb. Sama oskuse korduvad kobistamised ei summeeru. Juhul kui kobistatud oskust tõstetakse ka kogemusheitega, rakendatakse kobistamisest saadud 1% enne arendusheite sooritamist.
 
 Sama oskus ei tohi saada rohkem kui ühe kogemusheite seansi kohta.
 
 #### Kirgede suurendamine
 
-Nagu on kirjeldatud jaotises [Kired](0004_Alignment_and_Passions.md?id=passions), saab kire väärtust suurendada kogemusheidetega samamoodi nagu oskust. Kui mäng seda toetab, võib mängujuht isegi lubada kire vähendamist kogemusheite abil.
+Nagu on kirjeldatud jaotises [Kired](0004_Alignment_and_Passions.md?id=passions), saab Kire väärtust suurendada kogemusheidetega samamoodi nagu oskust. Kui mäng seda toetab, võib mängujuht lubada Kire väärtust kogemusheite abil ka vähendada.
 
-Näiteks võib pidev tagasilükkamine vastamata armastuse puhul lõpuks kurnata ka kõige kirglikuma armastaja kire, eriti selle, kes soovib suhet jätkata ilma mineviku tontideta, mis teda kummitavad.
+Näiteks pidev tõrjumine vastamata armastuses võib lõpuks väsitada isegi kõige kirglikuma armastaja Kire, eriti selle, kes soovib suhet jätkata ilma mineviku tontideta, mis teda kummitavad.
 
 #### Uute oskuste õppimine
 
-Mõned tegelased võivad soovida õppida uusi professionaalseid oskusi, mida neil pole kunagi olnud võimalust oma kultuuri või klassi kaudu õppida. Enne kui nad saavad kogemusheiteid investeerida, peavad nad kõigepealt leidma teadmiste allika, millest õppida. See võib olla nii proosaline kui kutseline juhendaja, näiteks ordude või gildide pakutavad. Teise võimalusena võib see olla eksootilisem haridusallikas, näiteks iidne ja lagunev treeningkerim.
+Mõned tegelased võivad soovida õppida uusi professionaalseid oskusi, mida neil pole kunagi olnud võimalust oma kultuuri või klassi kaudu omandada. Enne kui nad saavad kogemusheiteid investeerida, peavad nad esmalt leidma teadmiste allika, millest õppida. See võib olla midagi nii proosalist kui professionaalne juhendaja, nagu on pakkuda ordudel või gildidel. Teise võimalusena võib see olla eksootilisem haridusallikas, näiteks iidne ja murenev õppekirjarull.
 
-Kui haridusallikas on leitud, peab tegelane pühenduma tervele kuule õppimisele ja harjutamisele, et omandada selle oskuse baasteadmised (õppimine baastasemel). See maksab 3 kogemusheidet pluss kõik mängusisesed kulud, mis on vajalikud õpetaja tasumiseks (kui see on olemas) ja vajalike seadmete ning tööriistade ostmiseks (või rentimiseks).
+Kui haridusallikas on leitud, peab tegelane veetma terve kuu õppides ja harjutades, et saada oskuse aluspõhi (õppimine baastasemel). See maksab 3 kogemusheidet pluss kõik mängusisesed kulud õpetajale tasumiseks (kui see on olemas) ja vajalike seadmete ning tööriistade ostmiseks (või rentimiseks).
 
 #### Uute klassivõimete õppimine
 
-Eeldades, et tegelane vastab vajalikule auastmele ja oskustasemele (kui on nõutud), võib ühe või mitu kogemusheidet kulutada klassivõimete omandamiseks või parandamiseks. Seda on üksikasjalikult kirjeldatud [3. peatükis: Klassid](0003_Classes.md) vastavate klassikirjelduste all. Erinevalt oskustest ei nõua see tavaliselt teadmiste allika leidmist, kuna eeldatakse täiustatud tehnikate omandamist läbi vajalike oskuste korduva kasutamise. Kogemusheidete hind on võrdne tegelase praeguse auastmega ja paljud võimed on lukustatud kuni konkreetse auastme saavutamiseni.
+Eeldusel, et tegelane vastab nõutavale auastmele ja oskustasemele (kui need on olemas), saab ühe või mitu kogemusheidet kulutada klassivõimete omandamiseks või parandamiseks. See on üksikasjalikult kirjeldatud [3. peatükis: Klassid](0003_Classes.md) vastavate klassikirjelduste all. Erinevalt oskustest ei nõua see tavaliselt teadmiste allika leidmist, kuna eeldatakse, et kõrgemad tehnikad omandatakse vajalike oskuste korduva kasutamise kaudu. Kogemusheidete hind on võrdne tegelase praeguse auastmega ja paljud võimed on lukustatud, kuni saavutatakse konkreetne auaste.
 
 ---
 ## Kukkumine
 
-Kukkumisel saadud kahju sõltub kukkumise vahemaast. Soomuse punktid ei vähenda kukkumiskahju, kuid kukkunud tegelase või olendi kahjumodifikaator kehtib kahjuheitete puhul.
+Kukkumisel saadud kahjustuste hulk sõltub kukkumise vahemaast. Soomuspunktid ei vähenda kukkumiskahjustusi, kuid kukkunud tegelase või olendi kahjustusmodifikaator rakendub kahjustusheidetele.
 
-##### Kukkumiskõrguse tabel
+##### Kukkumise vahemaa tabel
 
-| **Kukkumiskõrgus** | **Kahju** |
+| **Kukkumiskõrgus** | **Kahjustus** |
 | :-- | :-- |
-| 5 jalga või vähem | Kahju puudub |
-| 6 kuni 15 jalga | 1d6 punkti kahju ühele juhuslikule asukohale |
-| 16 kuni 30 jalga | 2d6 punkti kahju kahele juhuslikule asukohale |
-| 31 kuni 45 jalga | 3d6 punkti kahju kolmele juhuslikule asukohale |
-| 46 kuni 60 jalga | 4d6 punkti kahju neljale juhuslikule asukohale |
-| Iga +15 jalga | +1d6 kahju |
+| 5 jalga või vähem | Kahjustusi pole |
+| 6 kuni 15 jalga | 1d6 punkti kahjustust ühte juhuslikku kohta |
+| 16 kuni 30 jalga | 2d6 punkti kahjustust kahte juhuslikku kohta |
+| 31 kuni 45 jalga | 3d6 punkti kahjustust kolme juhuslikku kohta |
+| 46 kuni 60 jalga | 4d6 punkti kahjustust nelja juhuslikku kohta |
+| Iga +15 jalga | +1d6 kahjustust |
 
-#### Kukkuvad esemed
+#### Kukkuvad objektid
 
-Kukkuv ese tekitab kahju, mis põhineb selle suurusel (SIZ) ja kukkumise vahemaal. Ese tekitab 1d6 kahju iga 6 SIZ punkti kohta (või selle osa kohta), pluss kahjuhulk, mis on võrdne kukkumiskõrguse tabeli kahjuveeruga – kaasa arvatud vähendused väiksema suurusega esemete puhul.
+Kukkuv objekt põhjustab kahjustusi, mis põhinevad selle SUU-l ja kukkumise vahemaal. Objekt tekitab 1d6 kahjustust iga 6 SUU punkti (või selle murdosa) kohta, pluss kahjustuste hulk, mis on võrdne kukkumise vahemaa tabeli "Kahjustuste" veeruga – sealhulgas kõik vähendused väiksemate objektide puhul.
 
 ---
 ## Väsimus
 
 Väsimus mõõdab väsimust ja selle järkjärgulisi mõjusid. Seda kasutatakse paljude erinevate asjade jälgimiseks, alates pingelisest tegevusest kuni haiguste kurnavate mõjudeni.
 
-Peamine viis väsimuse kogumiseks on füüsiline tegevus. Mida vaevarikkam on treening või töö, seda kiiremini see tegelast väsitab. Mängujuhi äranägemisel peavad tegelased väsimustaseme saamise vastu astumiseks sooritama vastava oskusheite – kas kergejõustiku (Athletics), rammu (Brawn) või vastupidavuse (Endurance) oma.
+Peamine viis väsimuse kogumiseks on osalemine mingisuguses füüsilises tegevuses. Mida raskem on treening või töö, seda kiiremini see tegelast väsitab. Mängujuhi äranägemisel peavad tegelased väsimustaseme saamise vältimiseks sooritama sobiva oskuse heite – kas Kergejõustiku, Jõu või Vastupidavuse.
 
-Iga ebaõnnestunud heide annab ühe väsimustaseme. Nagu on näidatud [väsimustasemete tabelis](0007_Game_System.md?id=fatigue-levels-table), kaasneb iga väsimustasemega karistus oskuste kasutamisel, liikumisel, initsiatiivil ja tegevuspunktidel. Asfüksia, verekaotus ja muud olukorrast sõltuvad efektid aitavad samuti kaasa väsimuse kogunemisele.
+Iga ebaõnnestunud heide tähendab väsimustaseme suurenemist. Nagu on näidatud [Väsimustasemete tabelis](0007_Game_System.md?id=fatigue-levels-table), kaasnevad iga väsimustasemega karistused oskuste kasutamisele, liikumisele, initsiatiivile ja tegevuspunktidele. Lämbumine, verekaotus ja muud olukorrast sõltuvad efektid aitavad samuti kaasa väsimuse kogunemisele.
 
-Enamiku tegelaste jaoks muutuvad igasugused tegevused peaaegu võimatuks, kui jõutakse teovõimetu (Incapacitated) tasemeni. Selles etapis on tegelane veel teadvusel, kuid suuteline vaid kõige meeleheitlikumateks tegevusteks.
+Enamiku tegelaste jaoks muutuvad igasugused tegevused peaaegu võimatuks, kui jõutakse töövõimetuse tasemeni. Selles etapis on tegelane endiselt teadvusel, kuid suuteline vaid kõige meeleheitlikumateks tegevusteks.
 
-Pärast teovõimetust ei saa tegelased üldse tegutseda. Väsimustasemed – poolteadvusetu, koomas ja surnud – on üldiselt reserveeritud lämbumise, haiguste, verekaotuse, nälgimise, kokkupuute ja muu sarnase äärmuslike mõjude mõõtmiseks.
+Pärast töövõimetust ei saa tegelased üldse tegutseda. Väsimustasemed – poolteadvusetu, koomas ja surnud – on üldiselt reserveeritud lämbumise, haiguste, verekaotuse, nälja, kokkupuute jms kõige äärmuslikumate mõjude mõõtmiseks.
 
 ### Väsimusest taastumine
 
-Tegelased taastuvad väsimusest vastavalt oma paranemismäärale (Healing Rate). Iga kogunenud väsimustaseme taastamiseks vajalik täielik puhkeaeg on võrdne taastumisperioodiga jagatud tegelase paranemismääraga.
+Tegelased taastuvad väsimusest sõltuvalt oma tervenemiskiirusest. Täieliku puhkuse hulk, mis on vajalik igast kogutud väsimustasemest taastumiseks, on võrdne taastumisperioodiga, mis on jagatud tegelase tervenemiskiirusega.
 
-Pange tähele, et tabel esindab väsimusest taastumist füüsilisest pingutusest. Väsimusest taastumine võib olla palju kiirem, kui taastutakse [asfüksiast](0007_Game_System.md?id=asphyxiation), või aeglasem, kui taastutakse [verekaotusest](0007_Game_System.md?id=blood-loss).
+Pange tähele, et tabel kujutab väsimusest taastumist füüsilisest pingutusest. Väsimusest taastumine võib olla palju kiirem [lämbumisest](0007_Game_System.md?id=asphyxiation) taastumisel või aeglasem, kui toibumine toimub [verekaotusest](0007_Game_System.md?id=blood-loss).
 
 ### Väsimustasemete tabel
 
@@ -139,234 +139,232 @@ Pange tähele, et tabel esindab väsimusest taastumist füüsilisest pingutusest
 | Värske | – | – | Karistusi pole | – | – |
 | Hingetu | Raske | Karistusi pole | Karistusi pole | Karistusi pole | 15 minutit |
 | Väsinud | Raske | -5 jalga | Karistusi pole | Karistusi pole | 3 tundi |
-| Kurnatud | Vormidatav | -5 jalga | -2 | Karistusi pole | 6 tundi |
-| Külmunud/Kurnatud | Vormidatav | Poolitatud | -4 | -1 | 12 tundi |
+| Kurnatud | Hirmuäratav | -5 jalga | -2 | Karistusi pole | 6 tundi |
+| Kurnatusest väljas | Hirmuäratav | Poolitatud | -4 | -1 | 12 tundi |
 | Nõrgestatud | Heraklese-vääriline | Poolitatud | -6 | -2 | 18 tundi |
-| Teovõimetu | Heraklese-vääriline | Liikumatu | -8 | -3 | 24 tundi |
-| Poolteadvusetu | Lootusetu | Tegevusi pole võimalik teha | – | – | 36 tundi |
-| Koomas | Pole võimalik | Pole võimalik | Pole võimalik | Pole võimalik | 48 tundi |
+| Töövõimetu | Heraklese-vääriline | Liikumatu | -8 | -3 | 24 tundi |
+| Poolteadvusetu | Lootusetu | Tegevused võimatud | Tegevused võimatud | Tegevused võimatud | 36 tundi |
+| Koomas | Tegevused võimatud | Tegevused võimatud | Tegevused võimatud | Tegevused võimatud | 48 tundi |
 | Surnud | Surnud | – | – | – | Mitte kunagi |
 
 ---
 ## Tuli
 
-Tuli on alati ohuallikas, kui seda kasutatakse relvana või kui see kontrolli alt väljub. Allpool toodud [tule intensiivsuse tabel](0007_Game_System.md?id=fire-intensity-table) annab viis erinevat intensiivsust soojuskahjustuste jaoks koos mõnede näidetega. Vooru jooksul tekitatud kahju on toodud kahjuveerus. Kuna intensiivsuse 1 ja 2 allikad on suhteliselt väikesed, rakenduvad need ühele tabamuskohale, tavaliselt sellele, mis allikat puudutab. Intensiivsuse 3 ja 4 allikad on suuremad, rakendades kahju 1d4+1 lähimale tabamuskohale, mis näitab kiirgussoojuse taset. Intensiivsuse 5 allikad mõjutavad kõiki tabamiskohti korraga. Tuli võib süüdata tuleohtlikke materjale. Kui neid kohe ei kustutata, süttivad sellised materjalid mõne vooru jooksul, nagu on näidatud tule intensiivsuse tabelis. Kui materjalid on süttinud, põlevad need kuni füüsilise kustutamiseni. Kahju rakendatakse otse materjali tabamispunktidele (HP), ignoreerides soomuse punkte, ja ka allpool olevale lihale. Kui tuli jääb kontrollimatuks, levib see voorus edasi intensiivsusega võrdsele arvule tabamiskohtadele.
+Tuli on alati ohuallikas, kui seda kasutatakse relvana või kui see väljub kontrolli alt. Allpool toodud [Tule intensiivsuse tabel](0007_Game_System.md?id=fire-intensity-table) toob välja viis erinevat soojuskahjustuse intensiivsust koos näidetega. Voorus tehtav kahjustus on toodud veerus "Kahjustus". Kuna intensiivsuse 1 ja 2 allikad on suhteliselt väikesed, rakendavad nad kahjustust ühele tabamuskohale, tavaliselt sellele, mis allikaga kokku puutub. Intensiivsuse 3 ja 4 allikad on suuremad, rakendades kahjustust lähimale 1d4+1 tabamuskohale, mis näitab kiirguskuumuse astet. Intensiivsuse 5 allikad mõjutavad kõiki tabamiskohti korraga. Tuli võib süüdata tuleohtlikke materjale. Kui neid kohe ei kustutata, süttivad sellised materjalid teatud voorude jooksul, nagu on näidatud tule intensiivsuse tabelis. Pärast süttimist põlevad tuleohtlikud materjalid seni, kuni need füüsiliselt kustutatakse. Kahjustus kantakse otse materjali tabamispunktidele, eirates soomuspunkte ja kõiki nende all olevaid kudesid. Kui tuli jäetakse kontrollimata, levib see voorus edasi tabamiskohtadele vastavalt oma intensiivsusele.
 
 ##### Tule intensiivsuse tabel
 
-| **Intensiivsus** | **Näited** | **Süttimisaeg** | **Kahju** |
-| :-: | :-- | :-: | :-: | :-: |
+| **Intensiivsus** | **Näited** | **Süttimisaeg** | **Kahjustus** |
+| :-: | :-- | :-: | :-: |
 | 1 | Küünal | 1d4 | 1d2 |
 | 2 | Tõrvik | 1d3 | 1d4 |
 | 3 | Lõke | 1d2 | 1d6 |
-| 4 | Ruumitäis põlengut | 1d2 | 2d6 |
-| 5 | Vulkaaniline laava | Kohene | 3d6 |
+| 4 | Terve toa hõlmav tulekahju | 1d2 | 2d6 |
+| 5 | Vulkaaniline laava | Hetkeline | 3d6 |
 
-#### Tulepõhised rünnakud
+#### Tulel põhinevad rünnakud
 
-Tulepõhistel rünnakutel on tavaliselt protsentuaalne võimalus süüdata tuleohtlikke materjale, kuna need kestavad tavaliselt ühe vooru. Kui pole märgitud teisiti, on see võimalus tulepõhiste rünnakute puhul kahjuheide x5% ja elektriliste puhul kahjuheide x1%. Kui materjal on süttinud, põlevad tuleohtlikud materjalid iga voor 1d3-1 kahjuga, kuni need füüsiliselt kustutatakse. Rakendage see kahju otse materjali tabamispunktidele, ignoreerides soomuse punkte, ja ka allpool olevale lihale. Olendi loomulik soomus pakub aga oma tavalist kaitset. Ohver võib püüda leeke lämmatada, heites kõhuli ja sooritades eduka kergejõustiku heite, mis nõuab tegevuspunkti ja mida võib proovida igal käigul. Kui teised aitavad leeke kuidagi lämmatada, on heide ühe raskusastme võrra lihtsam. Kui kahjuheide annab tulemuseks nulli, on tuli selles ühes kohas iseenesest kustunud. Iga koha kohta, mis iseenesest kustus, on leekide lämmatamise heide samuti ühe raskusastme võrra lihtsam.
+Tulel põhinevatel rünnakutel on tavaliselt protsentuaalne võimalus tuleohtlike materjalide süütamiseks, kuna need on üldiselt ühe vooruga läbi. Kui pole märgitud teisiti, on see võimalus tulel põhinevate rünnakute puhul 5% x veeretatud kahjustus ja elektriliste rünnakute puhul 1% x veeretatud kahjustus. Pärast süttimist põlevad tuleohtlikud materjalid 1d3-1 kahjustust igas voorus, kuni need füüsiliselt kustutatakse. Rakendage see kahjustus otse materjali tabamispunktidele, eirates soomuspunkte ja kõiki nende all olevaid kudesid. Olendi looduslik soomus pakub aga tavapärast kaitset. Ohver võib proovida leeke summutada, heites kõhuli ja sooritades eduka Kergejõustiku heite, mis nõuab tegevuspunkti ja mida võib proovida igal käigul. Kui teised aitavad leeke kuidagi summutada, on heide ühe raskusastme võrra lihtsam. Kui kahjustusheide annab tulemuseks null kahjustust, on tuli selles ühes kohas iseenesest kustunud. Iga koha puhul, mis on iseenesest kustunud, on leekide summutamise heide samuti ühe raskusastme võrra lihtsam.
 
 ---
 ## Mänguaeg
 
-*Classic Fantasy Imperative*'is on aeg oluline tegur, peamiselt selleks, et määrata, mis juhtub millises järjekorras, nii et mängumehaanikaid rakendatakse siis, kui peaks. Pidage meeles, et mängusisene aeg ei ole tavaliselt võrdne mängimisele kulutatud ajaga. Mõnikord võib GM vajada paljude päevade sündmuste kokkuvõtmist ühe lausega, näiteks "Castle Greymyri jõudmine võtab nädala", samas kui teistel aegadel, eriti võitluse ajal, võib vaid mõne sekundi pikkuste sündmuste lahendamine võtta mitu minutit või kauemgi.
+_Classic Fantasy Imperative_ mängus on aeg oluline tegur, peamiselt selleks, et määrata, mis järjekorras asjad toimuvad, nii et mängumehaanikaid rakendataks siis, kui vaja. Pidage meeles, et mängusisene aeg ei võrdu tavaliselt mängimisele kuluva ajaga. Mõnikord võib mängujuht vajada paljude päevade sündmuste kokkuvõtmist ühe lausega, näiteks "Castle Greymyri jõudmine võtab teil nädala," samas kui teistel juhtudel, eriti võitluse ajal, võib vaid mõne sekundi kestvate sündmuste lahendamine võtta mitu minutit või kauem.
 
-Sellega seoses: Mõningaid loitse, esemeid või efekte märgitakse kui "kasutatavaid üks või mitu korda päevas". Lihtne viis seda jälgida, selle asemel et pidada päevikut selle kohta, millal iga selline toiming toimus, on eeldada, et kell lähtestub pärast seda, kui tegelane on maganud terve öö. Seega, kasutades maagilist eset kaks korda, kui see on kasutatav kolm korda päevas, taastuvad kõik kasutuskorrad, kui tegelane järgmisel korral ärkab, isegi kui seda kasutati vahetult enne magamaminekut eelmisel õhtul.
+Seoses sellega: mõned loitsud, esemed või efektid on märgitud kasutatavaks üks või mitu korda päevas. Lihtne viis seda jälgida, selle asemel et pidada logi iga sellise toimingu aja kohta, on eeldada, et kell lähtestub pärast seda, kui tegelane on terve öö maganud. Seega, kui kasutate maagilist eset kaks korda, mis on kasutatav kolm korda päevas, taastuvad kõik kasutuskorrad, kui tegelane järgmisel korral ärkab, isegi kui seda kasutati vahetult enne magamaminekut eelmisel õhtul.
 
-Järgnevad on mänguaja olulised eristused:
+Järgnevalt on toodud mänguaja olulised eristused:
 
 #### Võitlusvoorud
 
-Võitlusvoor esindab viit sekundit reaalajas. Neid kasutatakse lühikeste, meeletute tegevushoogude mõõtmiseks, mis võtavad hetke aega, või väga üksikasjalike tegevuste mõõtmiseks, mis nõuavad samm-sammult lahendamist. Näiteks tagaajamine jahi ja saagi vahel, kus iga voor määrab tagaajamise keerdkäigud.
+Võitlusvoor tähistab viit sekundit reaalajas. Neid kasutatakse lühikeste, meeletute tegevuspuhangute mõõtmiseks, mille lõpuleviimine võtab hetki, või väga üksikasjalike tegevuste mõõtmiseks, mis nõuavad samm-sammult lahendamist. Näiteks tagaajamine jahi ja saaklooma vahel, kus iga voor määrab tagaajamise keerdkäigud.
 
 #### Uurimisvoorud
 
-Uurimisvoor esindab viit minutit reaalajas ja võimaldab seltskonnal liikuda kolm korda oma baasliikumiskiiruse ulatuses (60 jalga inimestele ja inimese suurustele poolinimestele, 45 jalga väiksematele poolinimeste rassidele). Uurimisvoorusid kasutatakse tavaliselt liikumise mõõtmiseks koopas, kus on oluline säilitada kõrge ettevaatlikkus. Tegelased liiguvad aeglaselt, olles valvel lõksude ja varitsuste suhtes ning püüdes säilitada hiilimist. See eeldab ka seda, et keegi seltskonnas koostab kaarti. Kui keegi kaarti ei koosta, võib uurimisvoorusid käsitleda ühe minuti pikkustena. Uurimisvoorude kasutamine võimaldab tajumise (Perception) heiteid sooritada ilma karistuseta, kuid nagu tavaliselt, võivad kehtida muud karistused. Vaenlastel on uurimiskiirusel liikuva seltskonna avastamine ühe astme võrra raskem, välja arvatud juhul, kui kasutate pimedates kohtades valgusallikaid (näiteks tõrvikuid või laternaid), mis teid reedaksid. Kui tegelased otsustavad ettevaatlikkuse unustada, saate koopas liikuda võitlusvoore kasutades. Sellisel juhul on tajumise heited siiski ühe astme võrra raskemad ja vaenlased ei kannata tajumise karistuse all seltskonna avastamisel. Pange tähele, et kui kasutate lahingumatti, mis paljastab mängijatele kogu koopa, või kui mängujuht joonistab koopa nende jaoks, peaks **alati** eeldama, et seltskond kaardistab ja liigub seetõttu uurimiskiirusel.
+Uurimisvoor tähistab viit minutit reaalajas ja võimaldab rühmal liikuda kolm korda kiiremini kui nende baasliikumiskiirus (60 jalga inimestel ja inimsuurustel poolinimese rassidel, 45 jalga väiksematel poolinimese rassidel). Uurimisvoorusid kasutatakse tavaliselt liikumise mõõtmiseks koopas, kus on oluline säilitada kõrget ettevaatlikkust. Tegelased liiguvad aeglaselt, olles valvel lõksude ja varitsejate suhtes ning püüdes säilitada hiilimist. See eeldab ka seda, et keegi rühmas teeb kaarti. Kui keegi kaarti ei tee, võib uurimisvoorusid pidada ühe minuti pikkusteks. Uurimisvoorude kasutamine võimaldab teil teha Taju-heiteid ilma karistuseta, kuid nagu tavaliselt, võivad kehtida muud karistused. Vaenlastel on uurimiskiirusel liikuvat rühma ühe astme võrra raskem avastada, välja arvatud juhul, kui kasutate pimedates kohtades valgusallikaid (näiteks tõrvikuid või laternaid), mis teid reedaksid. Kui tegelased otsustavad ettevaatlikkuse unustada, saate koopas liikuda võitlusvoorude abil. Sel juhul on aga Taju-heited ühe astme võrra raskemad ja vaenlased ei kannata Taju-karistust tegelaste avastamise osas. Pange tähele, et kasutades lahingumatti, mis paljastab mängijatele kogu koopa, või kui mängujuht joonistab neile koopa valmis, peaks _alati_ eeldama, et rühm teeb kaarti ja liigub seega uurimiskiirusel.
 
 #### Oskusaeg
 
-Oskusaeg esindab mõnest minutist mõne tunnini ja seda kasutatakse selliste tegevuste mõõtmiseks, mis ei nõua võitlusvooru üksikasjalikku tähelepanu, kuid nõuavad konkreetset pingutust selge tulemusega. Luku muukimine võib võtta viis minutit, samas kui lossi müüride ümber patrullivate valvurite jälgimine võib nõuda mitu tundi. Mõlemad on näited oskusajast.
+Oskusaeg tähistab mõnest minutist mõne tunnini ja seda kasutatakse tegevuste mõõtmiseks, mis ei nõua võitlusvooru üksikasjalikku tähelepanu, kuid nõuavad konkreetset pingutust kindla tulemusega. Luku muukimine võib võtta viis minutit, samas kui lossi seinte ümber patrullivate valvurite rühmade vaatlemine võib nõuda mitu tundi. Mõlemad on näited oskusajast.#### Narratiivne aeg
 
-#### Narratiivne aeg
+See on aeg, mis kulub siis, kui mängujuht jutustab mängijatele või kui mängijad arutlevad. Kui selleks pole just konkreetset põhjust, toimub suurem osa rollimängust narratiivses ajas. Rollimängu ajal sarnaneb narratiivne aeg reaalajaga, kus vestlus võtab täpselt nii kaua aega, kui selle mängimine. Kui mänguseanss sisaldab pikka reisimist või tegevusperioode, kus täpne aeg pole oluline, tihendatakse aega oluliselt mõne mängusisese hetkeni.
 
-See on aeg, mis kulub, kui mängujuht jutustab mängijatele või kui mängijad arutlevad. Kui selleks pole konkreetset põhjust, toimub enamik rollimängust narratiivses ajas. Rollimängu ajal sarnaneb narratiivne aeg reaalajaga, kus vestlus võtab sama kaua aega, kui seda on vaja pidada. Kui mänguseanss sisaldab pikki reise või tegevusperioode, kus täpne aeg pole oluline, siis aeg tihendatakse suuresti vaid mõnele mänguaja hetkele.
+### Lühikesed puhkepausid
 
-### Lühikesed puhkused
+Lühike puhkepaus tähistab umbes 15-minutilist perioodi, mil seiklejad peatuvad, et hinge tõmmata, tehes vaid selliseid tegevusi, mis pole liiga kurnavad – nagu lugemine, söömine, joomine, palvetamine ja haavade tohterdamine. Seltskond otsustab, kui kaua puhata, ja sooritab seejärel vajalikud 15-minutilised toimingud, kusjuures iga mängija sooritab ühe toimingu, enne kui liigutakse järgmise juurde. Päeva jooksul tehtavate lühikeste puhkepauside arv pole piiratud ja tavaliselt tehakse mitu puhketoimingut pärast laagri püstitamist, samuti hommikul enne teele asumist. Iga 15-minutiline puhketoiming on kirjeldatud allpool ja seda võib sooritada rohkem kui üks kord, kui pole öeldud teisiti.
 
-Lühike puhkus esindab umbes 15-minutilist perioodi, mil seiklejad peatuvad, et hinge tõmmata, tehes vaid lihtsaid tegevusi nagu lugemine, söömine, joomine, palvetamine ja haavade tohterdamine. Seltskond otsustab, kui kaua puhata, ja sooritab seejärel vastavad 15-minutilised toimingud, kusjuures iga mängija teeb ühe toimingu enne järgmise juurde asumist. Lühikeste puhkuste arvule, mida seltskond võib päeva jooksul teha, pole piiranguid ja tavaliselt tehakse pärast laagri püstitamist, samuti hommikul enne väljaminekut, mitu puhketoimingut. Iga 15-minutiline puhketoiming on allpool üksikasjalikult kirjeldatud ja seda võib teha rohkem kui üks kord, kui pole öeldud teisiti.
-
-- **Ratsiooni söömine:** Seda 15-minutilist puhketoimingut võib teha ainult üks kord päevas, kuna ratsioone jälgitakse päevase esemena, ja see eemaldab **kõik** väsimustasemed, mis pole suuremad kui "Kurnatud", samuti rahuldab nälja. Tegelased võivad pärast söömist väsimustaset veel ühe taseme võrra vähendada, kui see pole suurem kui "Hingetu", kuna tegemist on mittepingelise tegevusega.
-- **Jumala poole palvetamine või loitsuraamatu uurimine:** Taasta 1 maagiapunkt iga palvele või uurimisele kulutatud 15-minutilise puhketoimingu eest. Tegelased võivad väsimustaset ühe taseme võrra vähendada, kui see pole suurem kui "Hingetu", kuna tegemist on mittepingelise tegevusega.
-- **Haavade tohterdamine:** Veeda 15-minutiline puhketoiming esmaabi (First Aid) oskust kasutades või neli 15-minutilist puhketoimingut (üks tund) tervendamise (Healing) oskust kasutades.
-- **Ühe või mitu loitsu heitmine:** 15-minutilise puhketoimingu ajal võib seltskonna liikmete tervendamiseks või tugevdamiseks heita suvalise arvu loitse, piiratud olemasolevate maagiapunktidega.
-- **Uue loitsu ettevalmistamine:** Pärast vähemalt 8-tunnist uneperioodi võib loitsija kasutada 15-minutilist puhketoimingut arkaanse või jumaliku loitsu meeldejätmiseks või unustamiseks, vastavalt [loitsude meeldejätmise](0009_Magic.md?id=memorizing-spells) jaotises kirjeldatud piirangutele.
-- **Dither (Viivitamine):** See on vaikimisi 15-minutiline puhketoiming, kui teist toimingut ei valita. Tegelane raiskab lihtsalt 15 minutit, tegemata midagi kasulikku. Seda puhketoimingut tehakse tavaliselt siis, kui teised seltskonna liikmed teevad veel puhketoiminguid ja teil pole midagi teha. Tegelased võivad väsimustaset ühe taseme võrra vähendada, kui see pole suurem kui "Hingetu", kuna tegemist on mittepingelise tegevusega.
+- **Ratsiooni söömine:** Seda 15-minutilist puhketoimingut võib teha vaid üks kord päevas, kuna ratsioone arvestatakse päevakaupa. See eemaldab **ükskõik millise** ühe väsimustaseme, mis ei ole raskem kui "Kurnatud" (Exhausted), ning vaigistab nälja. Kuna tegemist on mittekoormava tegevusega, võivad tegelased pärast söömist oma väsimustaset veel ühe astme võrra vähendada, kui see ei ole suurem kui "Hingetu" (Winded).
+- **Jumaluse poole palvetamine või loitsuraamatu uurimine:** Taasta 1 maagiline punkt iga 15-minutilise puhketoimingu eest, mis on veedetud palves või uurimises. Kuna tegemist on mittekoormava tegevusega, võivad tegelased vähendada oma väsimust ühe astme võrra, kui see ei ole suurem kui "Hingetu" (Winded).
+- **Haavade tohterdamine:** Kuluta 15-minutiline puhketoiming Esmaabi (First Aid) oskuse kasutamiseks või neli 15-minutilist puhketoimingut (üks tund) Tervendamise (Healing) oskuse kasutamiseks.
+- **Ühe või mitme loitsu manamine:** 15-minutilise puhketoimingu ajal võib manada suvalise arvu loitse, et tervendada või tugevdada seltskonna liikmeid, sõltuvalt olemasolevatest maagilistest punktidest.
+- **Uue loitsu ettevalmistamine:** Pärast vähemalt 8-tunnist und võib loitsija kasutada 15-minutilist puhketoimingut, et pähe õppida või unustada Arkaan- või Jumalik loits, järgides [Loitsude meeldejätmise](0009_Magic.md?id=memorizing-spells) jaotises kirjeldatud piiranguid.
+- **Viivitamine:** See on vaikimisi 15-minutiline puhketoiming, kui muud toimingut ei valita. Tegelane lihtsalt raiskab 15 minutit, tegemata midagi kasulikku. See puhketoiming tehakse tavaliselt siis, kui teised seltskonna liikmed alles sooritavad puhketoiminguid ja sinul pole midagi teha. Kuna tegemist on mittekoormava tegevusega, võivad tegelased vähendada oma väsimust ühe astme võrra, kui see ei ole suurem kui "Hingetu" (Winded).
 
 ---
 ## Tabamuskohad
 
-Enamik edukaid (relva)rünnakuid tabab kindlat tabamiskohta. Seda saab määrata juhuslikult või teatud asjaoludel valida eriefektidega, näiteks "Vali asukoht" (Choose Location). Juhuslikult arvutamiseks, millist kohta on tabatud, veeretage 1d20 ja võrrelge veeretatud numbrit vastava humanoidi või olendi tabamiskohtade tabeliga.
+Enamik õnnestunud (relva)rünnakuid tabab kindlat tabamiskohta. Selle saab määrata juhuslikult või teatud juhtudel valida eriefektidega, näiteks "Vali asukoht" (Choose Location). Juhuslikuks tabamuskoha kindlaksmääramiseks viska 1d20 ja võrdle tulemust vastava humanoidi või olendi tabamiskohtade tabeliga.
 
-Loomadel ja koletistel on tavaliselt veidi erinevad tabamiskohtade tabelid kui humanoididel, et peegeldada nende ainulaadset füsioloogiat. Need on loetletud iga olendi kirjelduse osana ja on tavaliselt kasulikud ainult mängujuhile.
+Loomadel ja koletistel on tavaliselt veidi teistsugused tabamiskohtade tabelid kui humanoididel, et kajastada nende ainulaadset füsioloogiat. Need on loetletud iga olendi kirjelduse osana ja on tavaliselt kasulikud ainult mängujuhile.
 
-Humanoidide tabamiskohtade tabel on siin kordamise hõlbustamiseks uuesti toodud.
+Humanoidide tabamiskohtade tabel on siin kordamise mõttes uuesti esitatud.
 
-### Humanoidide tabamiskohad
+### Humanoidide tabamuskohad
 
 | **1d20** | **Tabamiskoht** |
 | :-: | :-- |
 | 1-3 | Parem jalg |
 | 4-6 | Vasak jalg |
 | 7-9 | Kõht |
-| 10-12 | Rind |
+| 10-12 | Rindkere |
 | 13-15 | Parem käsi |
 | 16-18 | Vasak käsi |
 | 19-20 | Pea |
 
-Pange tähele, et mõned rünnakud, eriti maagilised või teatud koletiste poolt tekitatud rünnakud (näiteks punase draakoni tuline hingeõhk), võivad tabada mitut kohta korraga. Üksikud tabamiskohad võivad olla soomustatud, kas kantava kaitse või olendi välispinna loomuliku vastupidavuse tõttu. See on oluline, kui kaaluda kahju ja haavatasemeid allpool.
+Pange tähele, et mõned rünnakud, eriti maagilised või teatud koletiste tekitatud rünnakud (näiteks punase draakoni tuline hingeõhk), võivad tabada mitut tabamiskohta korraga. Üksikud tabamuskohad võivad olla soomustatud, kas kantava kaitsevarustuse või olendi välispinna loomuliku vastupidavuse tõttu. See on oluline kahju ja haavatasemete kaalumisel allpool.
 
 ### Kahju ja haavatasemed
 
-Kui rünnak tabab edukalt, tekitab see kahju vastavalt relva kahjuväärtusele (vt [lähivõitlusrelvade](0006_Money_and_Equipment.md?id=basic-melee-weapons) ja [kaugvõitlusrelvade](0006_Money_and_Equipment.md?id=basic-ranged-weapons) tabelikirjeid [raha ja varustuse](0006_Money_and_Equipment.md?) peatükis). Lühimõõk tekitab näiteks 1d6 kahju.
+Kui rünnak tabab edukalt, tekitab see kahju vastavalt relva kahjuindeksile (vaata jaotisi [Lähivõitlusrelvad](0006_Money_and_Equipment.md?id=basic-melee-weapons) ja [Kaugvõitlusrelvad](0006_Money_and_Equipment.md?id=basic-ranged-weapons) peatükis [Raha ja varustus](0006_Money_and_Equipment.md)). Näiteks lühimõõk tekitab 1d6 kahju.
 
-Relva või rünnaku veeretatud kahju muudetakse teatud tingimustega järgmises järjekorras:
+Relva või rünnaku visatud kahju muudetakse kindlate tingimuste alusel järgmises järjekorras:
 
-- Rakendage rünnaku sooritaja kahjumodifikaator.
-- Muutke relva tugevdava (või vähendava) maagia kahju.
-- Kui rünnak tõrjuti, vähendage kahju vastavalt relvade suuruste võrdlusele.
-- Kui tabamiskoht on soomustatud, vähendage kahju soomuse punktide väärtuse võrra.
+- Rakenda rünnakut sooritava tegelase kahjumuutjat.
+- Muuda kahju mis tahes relva täiustava (või vähendava) maagia abil.
+- Kui rünnak tõrjuti (parry), vähenda kahju vastavalt relvade suhteliste suuruste erinevusele.
+- Kui tabamiskoht on soomustatud, vähenda kahju soomuspunktide väärtuse võrra.
 
-Kui rünnakuga tekitatud kahju on nullist suurem, siis tabamiskoht kannatab sellise kahju, kusjuures kahju kogusumma eemaldatakse kohe koha tabamispunktidest (HP). Pange tähele, kui palju tabamispunkte kohale on jäänud, ja sellest tulenev haavakategooria.
+Kui rünnakuga tekitatud kahju on suurem kui null, kannatab tabamiskoht selle kahjusumma ulatuses, kusjuures kahju kogusumma eemaldatakse koheselt asukoha tabamispunktidest. Märkige üles, mitu tabamispunkti asukohal alles jäi, ja sellest tulenev haavakategooria.
 
 - **Väike haav:** Tabamiskohal on endiselt positiivsed tabamispunktid.
-- **Tõsine haav:** Tabamiskoht on vähendatud nulli või alla selle.
-- **Suur haav:** Tabamiskoht on vähendatud negatiivse skoorini, mis on võrdne või suurem kui selle algsed tabamispunktid.
+- **Tõsine haav:** Tabamiskoht on vähendatud nulli tabamispunktini või alla selle.
+- **Raske haav:** Tabamiskoht on vähendatud negatiivse väärtuseni, mis on võrdne või suurem kui selle algsed tabamispunktid.
 
-Kasutage järgmisi reegleid, kui koht saab tõsise või suure haava. Pange tähele, et haavad, mis nõuavad vastupidavuse heiteid, testivad neid vastandheites algse rünnakuheite väärtuse vastu. See peegeldab kõrgelt kvalifitseeritud sõdalaste võimet sooritada surmavaid lööke. Vastupidavuse heiteid ei korrata, välja arvatud juhul, kui kohta uuesti haavatakse.
+Kasutage järgmisi reegleid, kui tabamiskoht saab tõsise või raske haava. Pange tähele, et haavad, mis nõuavad VAS-kontrolli, tehakse vastandviskena algse rünnaku viske väärtuse vastu. See peegeldab kõrgelt kvalifitseeritud sõdalaste võimet teha surmavaid lööke. VAS-viskeid ei korrata, välja arvatud juhul, kui tabamiskoht saab uuesti haavata.
 
 #### Väike haav
 
-Väikesed haavad on sisselõiked, kriimustused, verevalumid ja nikastused. Need teevad haiget ja võivad veritseda, kuid pole piisavalt olulised ohvri aeglustamiseks või takistamiseks.
+Väikesed haavad on lõiked, kriimustused, sinikad ja nikastused. Need valutavad ja võivad veritseda, kuid pole piisavalt olulised, et ohvrit aeglustada või takistada.
 
 #### Tõsine haav
 
-Kui koht vähendatakse nulli tabamispunktini või alla selle, saab ohver tõsise haava. Koht on püsivalt armistunud ja ohver ei saa 1d3 vooru jooksul rünnata ega loitse heita (kuid võib siiski tõrjuda või põigelda), kuna on uimastatud või haavavalust häiritud.
+Kui tabamiskoht on vähendatud nulli tabamispunktini või alla selle, saab ohver tõsise haava. Asukoht jääb püsivalt armistunuks ja ohver ei saa järgmise 1d3 käigu jooksul rünnata ega alustada loitsude manamist (kuid võib siiski tõrjuda või põigelda), kuna on haavavalu tõttu uimastatud või tähelepanu hajunud.
 
-Tegelane, kes saab tõsise haava jäsemesse, peab viivitamatult sooritama vastandheite oma vastupidavuse ja vaenlase eduka rünnakuheite vahel. Ebaõnnestumine tähendab, et jäse muutub kasutuskõlbmatuks, kuni koht on taastatud positiivsete tabamispunktideni. Kui tegemist on jalaga, langeb ohver kõhuli. Kui tegemist on käega, kukub kõik käesolev maha, välja arvatud juhul, kui ese on külge kinnitatud (kasutage siin tervet mõistust).
+Tõsise haava jäsemesse saanud tegelane peab viivitamatult sooritama vastandviske oma VAS-i ja vaenlase õnnestunud rünnaku viske vahel. Ebaõnnestumise korral muutub jäse kasutuks, kuni asukoht on taastatud positiivsete tabamispunktideni. Kui tegemist on jalaga, langeb ohver pikali. Kui tegemist on käega, kukub käes hoitav ese maha, välja arvatud juhul, kui ese on kinnitatud (kasutage siin tervet mõistust).
 
-Tegelane, kes saab tõsise haava kõhtu, rinda või pähe, peab viivitamatult sooritama vastandheite oma vastupidavuse ja vaenlase eduka rünnakuheite vahel. Ebaõnnestumine toob kaasa teadvusekaotuse minutiteks, mis on võrdne tõsist haava põhjustanud rünnakus saadud kahjuga. Esmaabi või tervendamise oskusi saab kasutada, et aidata teadvuseta ohvril taastada tõsiselt haavatud koha paranemine.
+Tõsise haava kõhtu, rindkeresse või pähe saanud tegelane peab viivitamatult sooritama vastandviske oma VAS-i ja vaenlase õnnestunud rünnaku viske vahel. Ebaõnnestumise korral järgneb teadvusetus minutites, mis on võrdne tõsise haava tekitanud rünnaku kahjusummaga. Esmaabi või Tervendamise oskusi saab kasutada, et aidata teadvusetul ohvril tõsiselt haavatud kohas täiendavat tervenemist saavutada.
 
-Mängujuhi äranägemisel saavad isegi siis, kui tegelane jääb funktsionaalseks, kõik ülesanded, mis nõuavad selle tabamiskoha kasutamist, jätkuva raskusastme karistuse, kuni vigastus on vähendatud väikese haavani.
+Mängujuhi äranägemisel, isegi kui tegelane jääb töövõimeliseks, kannatavad kõik selle tabamiskoha kasutamist nõudvad ülesanded jooksva raskusastme karistuse all, kuni vigastus on vähendatud väikeseks haavaks.
 
-#### Suur haav
+#### Raske haav
 
-Kui koht vähendatakse negatiivse skoorini, mis on võrdne või suurem kui selle algsed tabamispunktid, saab tegelane suure haava. Tegelane on viivitamatult teovõimetu (Incapacitated), suutmata võitlust jätkata. Suure haavaga jäse on ära lõigatud, läbistatud, purustatud või rebitud. Tegelane langeb kõhuli, on füüsiliselt teovõimetu ja peab viivitamatult sooritama vastandheite oma vastupidavuse ja vaenlase eduka rünnakuheite vahel. Ebaõnnestumine toob kaasa teadvusekaotuse valust. Kui äralõigatud, läbistatud või rebitud kohta ei ravita minutite jooksul, mis on võrdne viiekordse paranemismääraga, sureb tegelane verekaotuse ja šoki tõttu.
+Kui tabamiskoht on vähendatud negatiivse väärtuseni, mis on võrdne või suurem kui selle algsed tabamispunktid, saab tegelane raske haava. Tegelane on viivitamatult teovõimetu ega saa võitlust jätkata. Raske haava korral jäse eraldub, läbistub, puruneb või rebitakse ära. Tegelane kukub pikali, on füüsiliselt teovõimetu ja peab viivitamatult sooritama vastandviske VAS-i ja vaenlase õnnestunud rünnaku viske vahel. Ebaõnnestumise korral järgneb piinadest tingitud teadvusetus. Kui eraldunud, läbistunud või ära rebitud asukohta ei ravita minutite jooksul, mis on võrdne viiekordse tervenemiskiirusega, sureb tegelane verekaotuse ja šoki tõttu.
 
-Suure haava ohver kõhtu, rinda või pähe langeb teadvusetult, olles täielikult teovõimetu, ja peab viivitamatult sooritama vastandheite oma vastupidavuse ja vaenlase eduka rünnakuheite vahel. Ebaõnnestumine toob kaasa kohese ja tarbetu surma (peast ilma jäämine, pooleks raiumine, südamesse torkamine, tükkideks kiskumine jne). Kui nad jäävad ellu ja kohta ei ravita võitlusvoorude jooksul, mis on võrdne kahekordse paranemismääraga, surevad nad endiselt verekaotuse ja šoki tõttu.
+Raske haava kõhtu, rindkeresse või pähe saanud ohver langeb teadvusetult, on täielikult teovõimetu ja peab viivitamatult sooritama vastandviske VAS-i ja vaenlase õnnestunud rünnaku viske vahel. Ebaõnnestumise korral järgneb hetkeline ja armutu surm (pea maharaiumine, pooleks raiumine, läbi südame torkamine, lahtirebimine jne). Kui nad jäävad ellu ja asukohta ei ravita võitlusvoorude jooksul, mis on võrdne kahekordse tegelase tervenemiskiirusega, surevad nad endiselt verekaotuse ja šoki tõttu.
 
-Kuna enamik suuri haavu nõuab ravimiseks mingisugust operatsiooni või suurt maagiat, on väga ebatõenäoline, et kannatanu taastub suurest haavast piisavalt kiiresti, et võitlusse naasta. Sõltuvalt olemasolevast ravist on haavatud koht potentsiaalselt sandistatud (vt [haavadest paranemine](0007_Game_System.md?id=healing-from-injury)).
+Kuna enamik raskeid haavu nõuab tervenemiseks mingit kirurgilist sekkumist või võimsat maagiat, on väga ebatõenäoline, et kannatanu raskest haavast piisavalt kiiresti toibub, et võitlusega uuesti liituda. Sõltuvalt saadaolevast ravist võib haavatud koht jääda püsivalt vigastatuks (vaata [Vigastusest tervenemine](0007_Game_System.md?id=healing-from-injury)).
 
 ### Verekaotus
 
-Välistest ja sisemistest haavadest tingitud verekaotus, mis on tavaliselt saadud võitluses, võib tegelast väga kiiresti kurnata. Selle mõjusid mõõdetakse väsimustasemete kogunemisega, sarnaselt [asfüksiaga](0007_Game_System.md?id=asphyxiation). Ohjeldamatu verekaotus toob tavaliselt kaasa surma ilma arstiabi saamata. Erinevalt asfüksiast on tõsise verekaotuse mõjud väsimusele püsivad. Tegelane taastub veritsemisest tingitud väsimusest kiirusega üks tase päevas, alustades päeval pärast veritsemise lakkamist.
+Välistest ja sisemistest haavadest tingitud verekaotus, mida tavaliselt esineb võitluses, võib tegelast väga kiiresti kurnata. Selle mõjusid mõõdetakse väsimustasemete kuhjumisega, sarnaselt [lämbumisele](0007_Game_System.md?id=asphyxiation). Piiramatu verekaotus lõppeb tavaliselt surmaga ilma meditsiinilise abita. Erinevalt lämbumisest on tõsise verekaotuse mõju väsimusele püsiv. Tegelane taastub verejooksust tingitud väsimusest kiirusega üks tase päevas, alustades päevast pärast seda, kui verekaotus lakkab.
 
 #### Kangelaslikud viimased teod
 
-Erijuhtudel, kui võtmetegelased saavad suure haava, võib mängujuht lubada kangelasliku viimase teo – näiteks ühe viimase loitsu sülitamise, tapja maharaiumise katse, peitu roomamise või oma haavale žguti panemise. Neil peavad olema teoks kohased funktsioneerivad jäsemed ja nad peavad kulutama õnne-punkti (Luck Point). Neil on üks võimalus oma tegu sooritada ja seejärel varisevad nad viivitamatult teadvusetult kokku, mis lõpeb tõenäoliselt surmaga.
+Erijuhtudel, kui võtmetegelased saavad raske haava, võib mängujuht lubada kangelaslikku viimast toimingut – näiteks viimase loitsu väljaütlemine, vaenlase maha löömise katse, eemale roomamine või enda haavale žguti pealepanek. Neil peavad olema toiminguks vajalikud jäsemed ja nad peavad kulutama Õnne punkti. Neil on üks võimalus oma toimingut proovida ja seejärel vajuvad nad koheselt teadvusetusse ning tõenäolisse surma.
 
 ---
-## Haavadest paranemine
+## Vigastusest tervenemine
 
-Loomulik paranemine haavadest ja vigastustest põhineb tegelase paranemismääral. Paranemismäär dikteerib, kui palju tabamispunkte kohas taastatakse aja jooksul, sõltuvalt vigastuse olemusest:
+Loomulik tervenemine haavadest ja vigastustest põhineb tegelase tervenemiskiirusel. Tervenemiskiirus määrab, kui palju tabamispunkte asukohas taastub aja jooksul, sõltuvalt vigastuse olemusest:
 
 - Väikesed haavad: Päevad
 - Tõsised haavad: Nädalad
-- Suured haavad: Kuud
+- Rasked haavad: Kuud
 
-Seega, tegelane, kelle paranemismäär on 3 ja kes saab kahju, mis viib ta –3-ni tabamiskohas (tõsine haav), paraneb loomulikult kiirusega 3 tabamispunkti nädalas, kuni tema haav tõuseb üle nulli, ja seejärel paraneb 3 tabamispunkti päevas, kuni on täielikult taastunud.
+Seega, tegelane, kelle tervenemiskiirus on 3 ja kes saab kahjustusi, mis viivad ta tabamiskohas –3-ni (tõsine haav), terveneb loomulikult kiirusega 3 tabamispunkti nädalas, kuni haav on üle nulli, ja seejärel terveneb 3 tabamispunkti päevas, kuni on täielikult taastunud.
 
-Loomulikul paranemisel on teatud piirangud:
+Loomulikule tervenemisele kehtivad teatud piirangud:
 
-- Paranev tegelane ei saa tegeleda pingelise tegevusega: vastasel juhul väheneb paranemismäär 1d3 võrra. Seega võib isegi väikesest haavast paranev tegelane näha oma edusamme peatatuna, kui nad otsustavad tegeleda mis tahes füüsilise tööga, mis võib vigastusi süvendada.
-- Loomulik paranemine ei alga suure haava ravimist enne, kui ohvrit on ravitud [tervendamise](0005_Skills.md?id=healing-intpow) oskuse eduka kasutamisega või ühe "Cure Wounds" (haavade ravimine) loitsu heitmisega. Mittemoonutavad suured haavad, mida ei ravita ühe kahekümnendiku paranemisoskuse võrra päevade jooksul, muutuvad sandistatuks, vähendades püsivalt koha tabamispunkte.
+- Tervenev tegelane ei saa tegeleda koormava tegevusega: vastasel juhul väheneb tervenemiskiirus 1d3 võrra. Seega võib isegi väikesest haavast taastuv tegelane leida oma edenemise peatatuna, kui nad otsustavad tegeleda füüsiliste ülesannetega, mis võivad vigastusi süvendada.
+- Loomulik tervenemine ei alga raske haava puhul enne, kui ohvrit on ravitud [Tervendamise](0005_Skills.md?id=healing-intpow) oskuse eduka kasutamisega või loitsu "Ravi haavad" (Cure Wounds) manamisega. Mitte-moonutavaid raskeid haavu, mida ei ravita päevade jooksul, mis on võrdsed ühe kahekümnendikuga Tervendamise oskusest, loetakse vigastatuks, mis vähendab püsivalt selle koha tabamispunkte.
 
-### Maagiline tervendamine
+### Maagiline tervenemine
 
-Mõni maagia võib ravida ohvri saadud haavu. Siiski on konkreetsed piirangud sellele, millist haavatasemega saab iga loits ravida. Näiteks jumaliku maagia loits "Cure Minor Wounds" on kõige tõhusam väikeste haavade puhul, nagu nimigi ütleb, samas kui loits "Cure Serious Wounds" on kõige tõhusam nii väikeste kui ka tõsiste haavade puhul. Ainult kõige võimsam maagia suudab hetkega tagasi pöörata suure haava traumaatilised vigastused.
+Teatud maagia võib tervendada ohvri saadud haavu. Siiski on konkreetsed piirangud sellele, millise taseme haavu saab iga loitsuga ravida. Näiteks jumalik loits "Ravi väikesed haavad" on kõige tõhusam väikeste haavade puhul, nagu nimigi ütleb, samas kui loits "Ravi tõsised haavad" on kõige tõhusam nii väikeste kui ka tõsiste haavade puhul. Ainult kõige võimsam maagia suudab raske haava traumaatilised vigastused hetkega tagasi pöörata.
 
-Sõltumata sellest, kui tühine tervendusloits on, on selle rakendamine alati piisav mis tahes tüüpi haava stabiliseerimiseks, hoides ära veritsemise ja kohese surma, isegi kui see ei ravi tegelikku vigastust. Pange tähele, et see kehtib ainult üldise füüsilise trauma puhul, mitte lämbumise, mürgistuse ja muu sarnase põhjustatud seisundite korral.
+Ükskõik kui väike tervendusloits ka poleks, piisab selle rakendamisest alati mis tahes haava stabiliseerimiseks, hoides ära veritsuse ja vahetu surma, isegi kui see ei ravi põhilist vigastust. Pange tähele, et see kehtib ainult ränga füüsilise trauma korral, mitte lämbumise, mürgituse jms põhjustatud seisundite puhul.
 
 ---
-## Õnne-punktid (Luck Points)
+## Õnne punktid
 
-Õnne-punktid aitavad eristada kangelasi tavalistest inimestest. Need esindavad tegelase võimet potentsiaalselt pöörata ebaõnnestumine õnnestumiseks ja isegi surma petta.
+Õnne punktid aitavad eristada kangelasi tavalistest inimestest. Need esindavad tegelase võimet potentsiaalselt pöörata ebaõnnestumine eduks ja isegi surma petta.
 
-Auastme 2 saavutamisel ja iga järgneva auastme puhul saavad kõik tegelased boonuseks ühe õnne-punkti. See simuleerib mõnevõrra lisatabamispunktide saamist tasemepõhistes mängudes, võimaldades kõrgema auastmega tegelastel paremini toime tulla selliste asjadega nagu draakonid, deemonid, kuradid jne, ilma et nad peaksid taluma rohkem karistust kui Aafrika pull-elevant.
+Pärast 2. auastme saavutamist ja igal järgneval auastmel saavad kõik tegelased ühe boonusena Õnne punkti. See simuleerib mõnevõrra lisatabamispunktide saamist tasemepõhistes mängudes, võimaldades kõrgema auastmega tegelastel paremini toime tulla asjadega nagu draakonid, deemonid, kuradid jne, ilma et nad peaksid taluma rohkem karistusi kui Aafrika elevant.
 
-Õnne-punkte saab mängu ajal kasutada ja järgmise seansi alguses täienevad need tavalise väärtuseni.
+Õnne punkte saab mängu ajal kasutada ja järgmise seansi alguses täienevad need oma tavapärase väärtuseni.
 
-#### Õnne-punktide kasutamine
+#### Õnne punktide kasutamine
 
-Õnne-punkte saab kasutada mitmel viisil. Konkreetse tegevuse toetamiseks saab kasutada ainult ühte õnne-punkti. Õnne-punkte ei saa kulutada kogemus- või treeningheideteks. Kõik järgmised valikud maksavad ühe õnne-punkti.
+Õnne punkte saab kasutada mitmel viisil. Konkreetse toimingu toetuseks saab kasutada ainult ühte Õnne punkti. Õnne punkte ei saa kulutada kogemuste ega treeningu visetele. Iga järgmine võimalus maksab ühe Õnne punkti.
 
-#### Saatusest petmine (Cheat Fate)
+#### Saatusetrikk
 
-Tegelased saavad kasutada õnne-punkti, et veeretada uuesti või vahetada (näiteks 75 muutub 57-ks) mis tahes täringuviset. See võib olla oskusheide, kahjuheide või mis tahes muu, millel on mingi mõju. Tegelased võivad isegi sundida vastast uuesti veeretama nende vastu tehtud rünnaku- või kahjuheidet.
+Tegelased saavad kasutada Õnne punkti, et uuesti visata või vahetada (näiteks 75 muutuks 57-ks) mis tahes oma täringuviset. See võib olla oskuse vise, kahju vise või mis tahes muu, millel on mingi mõju. Tegelased võivad isegi sundida vastast uuesti viskama nende vastu tehtud rünnaku- või kahjuviset.
 
-#### Meeleheitlik pingutus (Desperate Effort)
+#### Meeleheitlik pingutus
 
-Kui tegelane on võitluse ajal oma tegevuspunktid ammendanud ja peab leidma selle viimase meeleheitliku energia, et ehk vältida segast lõppu, võivad nad kasutada õnne-punkti, et saada üks lisategevuspunkt.
+Kui tegelane on võitluse ajal oma toimingupunktid ammendanud ja peab leidma selle viimase meeleheitliku energiavaru, et ehk vältida segast hukku, võivad nad kulutada Õnne punkti, et saada täiendav toimingupunkt.
 
-#### Kahju leevendamine (Mitigate Damage)
+#### Kahju leevendamine
 
-Tegelane, kes saab suure haava, võib kasutada õnne-punkti, et alandada vigastus tõsiseks haavaks. See vähendab saadud kahju ühe tabamispunkti võrra vähem, kui oleks vaja suure haava tekitamiseks.
+Tegelane, kes saab raske haava, võib kulutada Õnne punkti, et alandada vigastus tõsiseks haavaks. See vähendab saadud kahju ühe tabamispunkti võrra vähemaks sellest, mis oleks vajalik raske haava tekitamiseks.
 
 ---
 ## Lõksud
 
-Lõksud on kõikjal leiduvad seadmed, mida kasutab iga kultuur, alates loomade püüdmiseks mõeldud aukude kaevamisest kuni haudu kogu igaviku vältel kaitsvate surmalõksudeni. Need seadmed on ehitatud erinevatel eesmärkidel, millest igaüks on spetsiaalselt kohandatud häire tõstmiseks, sissetungijate tabamiseks või varaste sandistamiseks ja tapmiseks.
+Lõksud on kõikjal leiduvad seadmed, mida kasutab iga kultuur, alates loomade püüdmiseks kaevatud aukudest kuni surmalõksudeni, mis valvavad haudu igavesti. Need seadmed on ehitatud mitmesugustel eesmärkidel, millest igaüks on spetsiaalselt kohandatud häire andmiseks, sissetungijate tabamiseks või varaste vigastamiseks ja tapmiseks.
 
-Lõksude ehitamine nõuab, et ehitaja tunneks kas mehhanismide või inseneritöö oskust. Väikesed lõksud, nagu karulõksud või lukustatud lõksud, nõuavad mehhanisme, samas kui suuremahulised konstruktsioonid, nagu okastraataugud või veerevad rändrahnud, vajavad inseneritööd.
+Lõksude ehitamine nõuab, et ehitaja oskaks kas Mehhanismide või Inseneriteaduse oskust. Väikesed lõksud, nagu karulõksud või lukustatud lõksud, nõuavad Mehhanisme, samas kui suuremahulised konstruktsioonid, nagu naelakaevud või veeremad kivimürakad, vajavad Inseneriteadust.
 
-Lisaks pädeva meistrimehe palkamisele on lõksudel sageli väga kallid komponendid või tööjõukulud. Üldise juhisena maksavad häireseadmed vaskmüntides meistri oskuse väärtuse, lõksud hõbemüntides ja surmalõksud nõuavad maksmist kullas.
+Lisaks pädeva meistri palkamisele on lõksudel sageli väga kallid komponendid või käsitsitöö kulud. Üldise suunisena maksavad häireseadmed looja oskuse väärtuse vaskmüntides, püünised sama palju hõbemüntides ja surmalõksud nõuavad makset kuldmüntides.
 
-Kõigil lõksudel on raskusaste, mis näitab, kui raske on neid märgata, kahjutuks teha või vältida. Seda väärtust käsitletakse vastandheites oskusena, kui sellele vastu hakatakse.
+Kõigil lõksudel on raskusaste, mis näitab, kui raske on neid märgata, kahjutuks teha või vältida. Seda väärtust käsitletakse lõksu oskusena, kui sellele vastu seistakse vastandviskes.
 
-Vaatamata paljudele jutuvestjate jutustatud meelelahutuslikele lugudele, on lõksudel – eriti neil, mis on mõeldud tapmiseks – harva võimalust nutikalt vältida või nende efekte tagasi pöörata, kui need on juba käima lükatud. Ilma maagia või hea õnne puudumisel alistuvad surmalõksu sattunud tavaliselt selle väga tõhusale eesmärgile. Lühidalt öeldes ei ole need mõeldud ellujäämiseks. Kui lõksul pole mingit kavalat disaini või tegemist pole mingisuguse püsiva maagilise nõiaga, tuleb see pärast vallandumist käsitsi lähtestada.
+Vaatamata paljudele jutuvestjate jutustatud meelelahutuslikele lugudele, pole lõksudel – eriti neil, mis on mõeldud tapmiseks – harva võimalust kavalalt nende mõju vältida või ümber pöörata, kui need on käima pandud. Ilma maagia või hea õnneta alistuvad surmalõksu jäänud tavaliselt selle väga tõhusale eesmärgile. Lühidalt öeldes ei ole need mõeldud ellujäämiseks. Kui lõksul pole just mingit kavalat disaini või tegemist pole mingi kestva maagilise nõidusega, tuleb see pärast vallandumist käsitsi uuesti seadistada.
 
 ### Lõksude omadused
 
-Lõkse kirjeldatakse järgmiste omadustega.
+Lõkse kirjeldatakse järgmiste omaduste abil.
 
 #### Eesmärk
 
 Lõksu eesmärk. On neli peamist tüüpi:
 
 - **Häire:** Lõks saadab vaikse või kuuldava signaali, et see on vallandunud.
-- **Tabamine:** Lõks on mõeldud tabama kõiki, kes selle vallandavad või sinna satuvad.
-- **Sandistamine:** Lõks on mõeldud raskelt vigastama kõiki, kes selle vallandavad.
+- **Püünis:** Lõks on mõeldud tabama kõiki, kes selle vallandavad või sinna satuvad.
+- **Vigastamine:** Lõks on mõeldud kriitiliselt vigastama kõiki, kes selle vallandavad.
 - **Surm:** Lõks on mõeldud tapma neid, kes aktiveerivad selle surmavad seadmed.
 
-#### Vallandaja (Trigger)
+#### Vallandaja
 
 Viis, kuidas lõks käivitatakse.
 
 #### Raskusaste
 
-Lõksu väljakutse reiting, mis on võrdne mehhanismide või inseneritöö oskuse väärtusega, mis selle lõi. Näiteks aarete rinnale ehitatud vikatlõks meistri poolt, kelle mehhanismide oskus on 70%, annab lõksule raskusastme 70%. Lõks kasutab sellest alates seda väärtust vastandheites, et näha, kas tera saab märgata, vältida või kahjutuks teha.
+Lõksu väljakutse tase, mis on võrdne Mehhanismide või Inseneriteaduse oskuse väärtusega, millega see loodi. Näiteks meistrimehe poolt, kelle Mehhanismide oskus on 70%, aardekirstu põhja ehitatud lõiketera-lõks annab lõksule 70% raskusastme. Lõks kasutab sellest alates seda väärtust vastandvisetes, et näha, kas tera saab märgata, vältida või kahjutuks teha.
 
 #### Vastupanu
 
-Kuidas lõksule vastu hakatakse – tavaliselt kasutades rammu (Brawn), põiklemist (Evade) või tõrjumist (Parrying) kilpi kasutava võitlusoskusega. Vastupanu veeretatakse, kui lõks on vallandunud.
+Kuidas lõksule vastu seistakse – tavaliselt kasutades Kehalist jõudu (Brawn), Põiklemist (Evade) või tõrjumist (Parrying) võitlusoskusega, mis sisaldab kilpi. Vastupanu visatakse, kui lõks vallandub.
 
-#### Efekt
+#### Mõju
 
-Mis juhtub, kui lõks vallandub ja ohver(id) ei suuda vastu panna? Tavaliselt viib see vaenlaste hoiatamiseni (häire puhul) või ohvrite tabamiseni (kui on mõeldud tabamiseks). Sandistamise ja surmalõksud loomulikult vigastavad ohvrit, ehkki mõned surmalõksud kasutavad kahju tekitamiseks muid vahendeid kui otsene kahju, näiteks uppumine või mürk. Ülemäära surmavaid lõkse piirates on enamiku mehaaniliste seadmete tekitatud kahju piiratud nende looja oskusega. Teised aga, nagu lõksud, mis ohvrit mürgiga kokku puutuvad, ei arvesta looja tegelikku oskust. Seda tasakaalustab tavaliselt kasutatava mürgi hind. Teine erand sellest on lõksuauk, kus kahju põhineb lihtsalt augu sügavusel. Sellistel juhtudel kasutatakse meistri oskust, et määrata võimalus lõksu märgata, vältida ja kahjutuks teha; kahju määratakse vastavalt mürgi tüübile või kukkumiskõrgusele. Jõud on märgitud neile lõksudele, mis lasevad mürske, mida saab tõrjuda.
+Mis juhtub, kui lõks vallandub ja ohver/ohvrid ei suuda vastu seista? Tavaliselt viib see antagonistide hoiatamiseni (häire korral) või ohvrite tabamiseni (püünise korral). Vigastamis- ja surmalõksud vigastavad ilmselgelt ohvrit, ehkki mõned surmalõksud kasutavad kahju tekitamiseks muid vahendeid kui otsene kahju, nagu uppumine või mürk. Ülemäära surmavate lõksude piiramiseks on enamiku mehaaniliste seadmete tekitatud kahju piiratud looja oskusega. Kuid teised, nagu lõksud, mis ohvrit mürgitavad, ei arvesta meistri tegelikku oskust. Seda tasakaalustatakse tavaliselt kasutatud mürgi kulukusega. Teine erand sellest on kaevlõks, kus kahju põhineb lihtsalt augu sügavusel. Nendel juhtudel kasutatakse meistri oskust lõksu märkamise, vältimise ja kahjutuks tegemise tõenäosuse määramiseks; kahju määratakse vastavalt mürgitüübile või kukkumiskaugusele. Jõud (Force) märgitakse nende lõksude puhul, mis tulistavad mürske, mida saab tõrjuda.
 
-##### Surmalõksu kahjupiirangud
+##### Surmalõksu kahju piirangud
 
-| **Tegija oskus** | **Kahju** | **Suurus/Jõud** |
-| :-: | :-: | :-: |
+| **Looja oskus** | **Kahju** | **Suurus/Jõud** |
+| :-: | :-: | :-- |
 | 1-10% | 1d2 | Väike |
 | 11-20% | 1d4 | Väike |
 | 21-30% | 1d6 | Keskmine |
@@ -375,34 +373,32 @@ Mis juhtub, kui lõks vallandub ja ohver(id) ei suuda vastu panna? Tavaliselt vi
 | 51-60% | 2d6 | Suur |
 | 61-70% | 1d8+1d6 | Hiiglaslik |
 | 71-80% | 2d8 | Hiiglaslik |
-| 81-90% | 1d10+1d8 | Enormne |
-| 91-100% | 2d10 | Enormne |
+| 81-90% | 1d10+1d8 | Tohutu |
+| 91-100% | 2d10 | Tohutu |
 
-Kahju võib mõjutada mitut juhuslikku tabamiskohta, kusjuures iga täiendav asukoht vähendab kahju ühe astme võrra surmalõksu kahjupiirangute tabelis. Näiteks 50% oskusega lõksukujundaja võiks kujundada lõksu, mis teeb 1d10 kahju ühele asukohale, 1d8 kahju 1d2 tabamiskohale, 1d6 kahju 1d3 asukohale ja nii edasi. Potentsiaalsete asukohtade arv määratakse lõksu kujundamisel ja seda ei saa muuta. Kuna täiendavate tabamiskohtade arv on juhuslik, on võimalus, et üldiselt tehakse vähem kahju.
+Kahju võib mõjutada mitut juhuslikku tabamiskohta, kusjuures iga täiendav asukoht vähendab kahju ühe astme võrra surmalõksu kahju piirangute tabelis. Näiteks 50% oskusega lõksukujundaja võib kavandada lõksu, mis teeb 1d10 kahju ühele asukohale, 1d8 kahju 1-2 tabamiskohale, 1d6 kahju 1-3 asukohale jne. Potentsiaalsete asukohtade arv määratakse lõksu kujundamisel ja seda ei saa muuta. Kuna täiendavate tabamiskohtade arv on juhuslik, on võimalus, et tekitatakse kokku vähem kahju.
 
 ### Näidis-lõksud
 
-#### Lõksuauk (Pitfall)
+#### Naelaauk
 
-Lõksuauk on arhetüüpne lõks, mida kasutab iga kultuur. See võib olla lihtne kaevatud auk, mis on kaetud okste ja lehtedega, või ulatuda kiviseintega sumpadeni hingedega valepõrandate all, mis on vastukaaluga tasakaalustatud, et pärast ohvri kukkumist tagasi oma kohale kiikuda.
+Naelaauk on arhetüüpne lõks, mida kasutab iga kultuur. See võib olla lihtne kaevatud auk, mis on kaetud okste ja lehtedega, või ulatuda kiviseintega süvenditeni hingedega valepõrandate all, mis on tasakaalustatud nii, et need pärast ohvri kukkumist tagasi oma kohale kiiguvad.
 
-Lõksuaugud ei pea olema eriti sügavad. Kui need on mõeldud tabamiseks, takistab ronimisega põgenemist lihtne amfora või homaaripoti kuju, samuti seinad, mis on tahutud siledaks või tehtud lagunevast materjalist, mis tegelase kaalu all järele annab. Augud, mis on mõeldud tapmiseks, vooderdavad põranda tavaliselt kümnete vaiadega, mis on tihedalt pakitud nii, et kukkuv tegelane saab vältimatult läbistatud. Teised võimalused võivad hõlmata põhja täitmist nõrga happega, veega, mis on piisavalt sügav uppumiseks, või näljaste rottidega.
+Naelaaugud ei pea olema eriti sügavad. Kui need on mõeldud tabamiseks, takistab roni-teel põgenemist lihtne amfora- või homaaripüügipoti kuju, samuti seinad, mis on siledaks raiutud või valmistatud murenevast materjalist, mis tegelase kaalu all järele annab. Augud, mis on mõeldud tapmiseks, on tavaliselt põhjas vooderdatud kümnete tihedalt asetsevate vaiadega, nii et kukkuv tegelane läbistub paratamatult. Muud võimalused võivad hõlmata põhja täitmist nõrga happega, piisavalt sügava veega uppumiseks või näljaste rottidega.
 
-- **Eesmärk:** Tabamine või surm
-- **Vallandaja:** Üle augu katva valepinna kõndimine
+- **Eesmärk:** Püünis või Surm
+- **Vallandaja:** Kõndimine üle auku katva valepinna
 - **Raskusaste:** 60%
-- **Vastupanu:** Kas põiklemine (Evade), et minema hüpata, või raske kergejõustiku heide, et kukkudes servast kinni haarata.
-- **Efekt:** Kukkumine auku tekitab 2d6 kahju juhuslikule tabamiskohale, soomus ei kaitse. Teisesed efektid jäävad mängujuhi kujutlusvõime hooleks.
+- **Vastupanu:** Kas Põiklemine (Evade), et minna eemale, või raske Kergejõustiku (Athletics) vise, et kukkumisel äärest kinni haarata.
+- **Mõju:** Auku kukkumine tekitab 2d6 kahju juhuslikusse tabamiskohta, soomus ei kaitse. Teisesed mõjud jäävad mängujuhi kujutlusvõime hooleks.#### Mürginõela püünis
 
-#### Mürginõela lõks
+See on veel üks levinud püünis, mida võib leida kõikjalt, alates kuninga kambrist kuni unustatud hauakambrini. See püünis paigaldatakse tavaliselt rinnatise külge, kuid seda võib leida ka ukselukkude kaitseks. Kui seda ei avata õige võtmega, laseb püünis väikese mürginõela igaühe kätte, kes üritab lukku muukida.
 
-See on veel üks levinud lõks, mida leidub kõikjal alates kuninga kambrist kuni unustatud hauani. See lõks on tavaliselt asetatud rinnale, kuid seda võib leida ka ukse lukke kaitsmas. Kui seda ei avata õige võtmega, laseb lõks välja väikese mürginõela kõigi kätesse, kes proovivad lukk muukida.
-
-- **Eesmärk:** Tabamine või surm
-- **Vallandaja:** Lukustatud eseme luku muukimise katse.
+- **Eesmärk:** Püüdmine või surm
+- **Päästik:** Katse muukida püünisega kaitstud objekti lukku.
 - **Raskusaste:** 60%
-- **Vastupanu:** Vastupidavus (Endurance).
-- **Efekt:** Kui see vallandub, hüppab välja väike mürginõel ja torkab kätte kõiki, kes üritavad lukku muukida. Nõela katmiseks võib kasutada mis tahes mürki. Mängujuht saab otsustada mürkide üksikasjad – mida on üksikasjalikult käsitletud *Classic Fantasy* põhireeglites.
+- **Vastupanu:** VAS
+- **Toime:** Käivitamisel hüppab välja väike mürginõel ja torkab kätte kõigile, kes üritavad lukku muukida. Nõela katmiseks võib kasutada mis tahes mürki. Mängujuht võib otsustada mürkide üksikasjad – need on üksikasjalikult kaetud _Classic Fantasy_ põhireeglites.
 
 <details>
 
@@ -410,11 +406,11 @@ See on veel üks levinud lõks, mida leidub kõikjal alates kuninga kambrist kun
 
 ---
 
-#### Mürginõela lõks
+#### Mürginõela püünis
 
-_Algses tekstis oli "Kui mürk on surmav, kasutage ülaltoodud mürkgaasi lõksu efekte, mida rakendatakse ainult õnnetule luku muukijale."_
+_Algne tekst sisaldas järgmist: "Kui mürk on surmav, kasutage ülaltoodud mürgigaasi püünise jaoks kirjeldatud toimeid, kuid rakendage neid ainult õnnetule luku muukijale."_
 
-_See tekitab probleeme, kuna mürkgaasi lõksu Classic Fantasy Imperative'is ei käsitleta. Seetõttu on ülaltoodud muudatus._
+_See tekitab probleeme, kuna mürgigaasi püünist pole Classic Fantasy Imperative'is käsitletud. Sellest tuleneb ka ülaltoodud muudatus._
 
 ---
 

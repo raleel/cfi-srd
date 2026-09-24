@@ -1,108 +1,108 @@
 # Poglavlje 7: Sustav igre
 
-Tijekom igre _Classic Fantasy Imperative_ može se dogoditi mnogo različitih stvari. Neke se rješavaju uporabom vještina ili jednim od glavnih mehanika igre, poput borbe ili magije; druge zahtijevaju vlastita pravila za presuđivanje. Ovo poglavlje pruža pravila i smjernice za niz različitih scenarija s kojima će se igrači susretati tijekom igranja.
+Mnogo se različitih stvari može dogoditi tijekom igre _Classic Fantasy Imperative_. Neke se rješavaju uporabom vještina ili jednim od glavnih mehanika igre poput borbe ili magije; druge zahtijevaju vlastita pravila za presuđivanje. Ovo poglavlje pruža pravila i smjernice za niz različitih scenarija s kojima će se igrači susresti tijekom igranja.
 
-Popis nije iscrpan, ali bi trebao predstavljati najčešće situacije. Ako voditelji igre (Games Masters) utvrde da postoje i druge situacije koje zahtijevaju neki oblik presuđivanja sustava igre, a te se situacije čine čestim, potiču se da razviju vlastita pravila za pokrivanje tih posebnih okolnosti, koristeći ona dana u ovom poglavlju kao osnovu za replikaciju ili razvoj.
+Popis nije iscrpan, ali bi trebao predstavljati najčešće situacije. Ako Voditelji igre (Games Masters) utvrde da postoje druge situacije koje zahtijevaju neki oblik presuđivanja sustava igre, i da se te situacije često pojavljuju, potiču se da razviju vlastita pravila za pokrivanje tih posebnih okolnosti, koristeći ona dana u ovom poglavlju kao osnovu za replikaciju ili razvoj.
 
 ---
 ## Starenje
 
-Svi likovi stare, a s godinama dolaze određene posljedice. Znakovi starenja počinju u ranoj srednjoj dobi (40 godina za ljude – ostale vrste stare brže ili sporije, kao što je prikazano u nastavku). Kako lik prelazi u novi dobni pojas (Aging Band), mora baciti kocku za Izdržljivost (Endurance) i kocku za Snagu volje (Willpower) pri naznačenim stupnjevima težine. Ako je bacanje neuspješno, lik doživljava učinke starenja prikazane u tablici Učinci starenja.
+Svi likovi stare, a s dobi dolaze određene posljedice. Znakovi starenja počinju u ranoj srednjoj dobi (40 godina za ljude – druge vrste stare brže ili sporije, kao što je prikazano u nastavku). Kako lik prelazi u novi dobni pojas, mora baciti kocku za Izdržljivost (Endurance) i kocku za Snagu volje (Willpower) prema navedenim stupnjevima težine. Ako je bacanje neuspješno, lik doživljava učinke starenja kako je prikazano u tablici Učinci starenja.
 
-Svaka karakteristika pogođena starenjem smanjuje se za 1d3 boda. Ti se bodovi mogu povratiti ili barem djelomično poništiti poboljšanjem karakteristika, što predstavlja napore uložene u održavanje kondicije i budnosti kako lik stari. Ako se bilo koja karakteristika smanji na nulu zbog starenja, lik umire zbog svoje terminalne slabosti. Jednom kada lik dosegne dobni pojas senilnosti (Dotage), bacanja za starenje rade se svake godine bez obzira na rasu.
+Svaka karakteristika na koju utječe starenje smanjuje se za 1d3 boda. Ti se bodovi mogu povratiti ili barem djelomično poništiti kroz poboljšanje karakteristika, što predstavlja napore koje likovi ulažu kako bi ostali u formi i na oprezu dok stare. Ako se bilo koja karakteristika smanji na nulu zbog starenja, lik umire zbog svoje terminalne slabosti. Jednom kada lik dosegne dobni pojas duboke starosti (Dotage), bacanja za starenje rade se godišnje, bez obzira na rasu.
 
-Specifične iscrpljujuće učinke koji nastaju kao dio procesa starenja definira voditelj igre. Na primjer, smanjenje STR (Snage), CON (Konstitucije) ili DEX (Spretnosti) predstavlja opće trošenje tijela, sa škripavim zglobovima i postupnim gubitkom pokretljivosti. Smanjenje INT (Inteligencije) ukazuje na to da godine počinju igrati igre s umom i pamćenjem, dok smanjenje CHA (Karaktera) ukazuje na to da lik postaje grublji, a možda i naglije naravi kako stari.
+Koji će se konkretni oslabljujući učinci pojaviti kao dio procesa starenja ovisi o Voditelju igre. Na primjer, smanjenje SNA (SNA), KON (KON) ili SPR (SPR) predstavlja opće trošenje tijela, sa škripavim zglobovima i postupnim gubitkom pokretljivosti. Smanjenje INT ukazuje na to da se dob počinje poigravati s umom i pamćenjem, dok smanjenje KAR (KAR) ukazuje na to da lik postaje grublji, a možda i naglije naravi, kako stari.
 
 ##### Dobni pojasevi
 
-| **Dobni pojas** | **Čovjek** | **Patuljak** | **Vilenjak** | **Gnom** | **½ Vilenjak** | **½ Ork** | **Hobit** | **Stupanj bacanja za Izdržljivost i Snagu volje** |
+| **Dobni pojas** | **Čovjek** | **Patuljak** | **Vilenjak** | **Patuljčić** | **Poluvilenjak** | **Poluork** | **Halfling** | **Stupanj bacanja za Izdržljivost i Snagu volje** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
-| Rana srednja dob | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Lagano |
+| Rana srednja dob | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Lako |
 | Srednja dob | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standardno |
 | Kasna srednja dob | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Teško |
 | Stara dob | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Zastrašujuće |
-| Duboka starost | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herkulsko |
+| Duboka starost | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herkulski |
 | Senilnost | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Beznadno |
 
 ##### Tablica učinaka starenja
 
-| **1d6** | **Fizičko starenje (Neuspješna Izdržljivost)** | **Mentalno starenje (Neuspješna Snaga volje)** |
+| **1d6** | **Fizičko starenje (Neuspjela Izdržljivost)** | **Mentalno starenje (Neuspjela Snaga volje)** |
 | :-: | :-- | :-- |
-| 1-2 | STR | INT |
-| 3-4 | CON | POW |
-| 5-6 | DEX | CHA |
+| 1-2 | SNA | INT |
+| 3-4 | KON | MOĆ |
+| 5-6 | SPR | KAR |
 
 ---
 ## Asfiksija (Gušenje)
 
-Likovi mogu zadržati dah onoliko sekundi koliko iznosi njihova vještina Izdržljivosti. Međutim, lik mora biti spreman (napuniti pluća sa što je više moguće zraka); ako nije, razdoblje se prepolovljuje ako je lik bio u pasivnoj situaciji ili smanjuje na petinu ako je lik bio uključen u naporne aktivnosti.
+Likovi mogu zadržati dah onoliko sekundi koliko iznosi njihova vještina Izdržljivosti. Međutim, lik mora biti pripremljen (ispuniti pluća s što je moguće više zraka); ako nije, to se razdoblje prepolovljuje ako je lik bio u pasivnoj situaciji, ili smanjuje na jednu petinu ako je lik bio uključen u naporne aktivnosti.
 
-Kada razdoblje zadržanog daha završi, likovi moraju napraviti bacanje za Izdržljivost:
+Jednom kada razdoblje zadržanog daha završi, likovi moraju baciti kocku za Izdržljivost:
 
 - Ako je bacanje kritičan uspjeh, ne dolazi do daljnjeg pogoršanja.
 - Ako je bacanje uspješno, lik dobiva dodatnu razinu umora.
-- Ako bacanje ne uspije, lik zadobiva 1d2 dodatne razine umora u toj rundi.
-- Ako je bacanje promašaj (Fumble), lik zadobiva 1d3 dodatne razine umora u toj rundi.
+- Ako bacanje ne uspije, lik zadobiva 1d2 dodatne razine umora u tom krugu.
+- Ako se bacanje izjalovi (Fumble), lik zadobiva 1d3 dodatne razine umora u tom krugu.
 
-Bez pomoći, smrt od asfiksije je obično brza. Ako asfiksija završi prije nego što lik umre, oni relativno brzo oporavljaju razine umora izgubljene zbog gušenja, vraćajući jednu razinu po minuti.
+Bez pomoći, smrt od asfiksije obično nastupa brzo. Ako asfiksija završi prije nego što lik umre, relativno brzo se oporavljaju od razina umora izgubljenih uslijed gušenja, vraćajući jednu razinu po minuti.
 
-Ovisno o metodi asfiksije, voditelj igre može poželjeti spriječiti potpuni oporavak, namećući trajnu razinu umora kako bi predstavio oštećenje pluća uzrokovano udisanjem dima ili vode.
+Ovisno o metodi asfiksije, Voditelj igre može poželjeti spriječiti potpuni oporavak, namećući trajnu razinu umora koja predstavlja oštećenje pluća uzrokovano udisanjem dima ili vode.
 
 ---
 ## Poboljšanje lika
 
-Svaki lik u _Classic Fantasy Imperative_ može se poboljšati s vremenom i iskustvom. Poboljšanje se može poduzeti u nekoliko područja:
+Svaki lik u _Classic Fantasy Imperative_ može se poboljšati s vremenom i iskustvom. Poboljšanje se može provoditi u nekoliko područja:
 
 - Povećanje postojećih vještina
 - Povećanje strasti
 - Učenje novih vještina
 - Učenje novih sposobnosti
 
-#### Iskustvena bacanja (Experience Rolls)
+#### Kocke iskustva
 
-Mehanizam za većinu poboljšanja lika je Iskustveno bacanje. Voditelji igre dijele Iskustvena bacanja u odgovarajućem trenutku u kampanji: na kraju svakog uspješnog scenarija ili priče; ili nakon možda dvije ili tri sesije igranja ako je priča duga i trebat će vremena da se dovrši. Učestalost je prema nahođenju voditelja igre. Visoka učestalost Iskustvenih bacanja dovest će do bržeg razvoja likova.
+Mehanizam za većinu poboljšanja lika je kocka iskustva. Voditelji igre dodjeljuju kocke iskustva u odgovarajućem trenutku kampanje: na kraju svakog uspješnog scenarija ili priče; ili nakon možda dvije ili tri sesije igranja ako je priča duga i trebat će vremena da se dovrši. Učestalost je prema nahođenju Voditelja igre. Visoka učestalost kocki iskustva dovest će do bržeg razvoja likova.
 
-Ne postoji točno ili pogrešno vrijeme za dodjelu Iskustvenih bacanja, ali prirodne stanke u priči mogu sugerirati prikladno vrijeme. Međutim, voditelj igre ovdje uvijek donosi odluku. Iako igrači ne mogu zahtijevati Iskustvena bacanja, imaju pravo očekivati ih u određeno vrijeme – jer se njihovi likovi bez njih neće moći razvijati.
+Ne postoji pravo ili krivo vrijeme za dodjelu kocki iskustva, ali prirodne pauze u priči mogu sugerirati prikladna vremena. Voditelj igre je, međutim, uvijek donositelj odluke ovdje. Iako igrači ne mogu zahtijevati kocke iskustva, imaju pravo očekivati ih u određeno vrijeme – jer se njihovi likovi bez njih neće moći razvijati.
 
-Broj dodijeljenih Iskustvenih bacanja također određuje voditelj igre. Ipak, dobro pravilo je 1-3 Iskustvena bacanja po sesiji od posljednje dodjele.
+Broj dodijeljenih kocki iskustva također određuje Voditelj igre. Međutim, dobro pravilo je 1-3 kocke iskustva po sesiji od posljednjeg dodjeljivanja.
 
 #### Povećanje postojećih vještina
 
-Bilo koja vještina na listi lika, standardna ili profesionalna, može se povećati trošenjem jednog Iskustvenog bacanja. Igrači mogu odlučiti *ne* trošiti Iskustvena bacanja na povećanje vještina, već umjesto toga izgraditi zalihu za upotrebu u povećanju drugih stvari – kao što su sposobnosti klase (vidi dolje).
+Bilo koja vještina na listu lika, standardna ili profesionalna, može se povećati trošenjem jedne kocke iskustva. Igrači mogu odlučiti *ne* potrošiti kocke iskustva na povećanje vještina, već umjesto toga izgraditi zalihu za upotrebu pri povećanju drugih stvari – kao što su sposobnosti klase (vidi dolje).
 
-- Igrač baca 1d100 i uspoređuje ga s vještinom koja se povećava. INT lika se dodaje rezultatu bacanja.
+- Igrač baca 1d100 i uspoređuje rezultat s vještinom koja se povećava. INT lika se dodaje rezultatu.
 - Ako je dobiveni broj **jednak ili veći** od vještine koja se poboljšava, ona se povećava za 1d4+1%.
 - Ako je dobiveni broj **manji** od odabrane vještine, vještina se i dalje povećava, ali samo za 1%.
-- Ako je lik napravio promašaj (Fumble) bilo koje vještine tijekom prethodne sesije(a) – tj. između zadnjeg seta Iskustvenih bacanja i sadašnjeg – vještina na kojoj je napravljen promašaj dobiva besplatno povećanje od 1%. Istina je da više učimo na pogreškama nego na uspjesima, a to predstavlja refleksiju koju lik prolazi nakon katastrofalnog neuspjeha. Višestruki promašaji iste vještine se ne zbrajaju. U slučaju da se vještina na kojoj je napravljen promašaj također povećava Iskustvenim bacanjem, 1% od promašaja primjenjuje se prije nego što se napravi bacanje za njezino poboljšanje.
+- Ako je lik izjalovio (Fumble) bilo koju vještinu tijekom prethodne sesije(a) – tj. između posljednjeg skupa kocki iskustva i sadašnjeg – izjalovljena vještina dobiva besplatno povećanje od 1%. Istina je da više učimo iz svojih pogrešaka nego iz svojih uspjeha, a to predstavlja refleksiju koju lik prolazi nakon katastrofalnog neuspjeha. Višestruka izjalovljenja iste vještine se ne zbrajaju. U slučaju da se izjalovljena vještina također podiže kockom iskustva, 1% od izjalovljenja se primjenjuje prije nego što se baci kocka za njezino poboljšanje.
 
-Ista vještina ne može imati koristi od više od jednog Iskustvenog bacanja po sesiji.
+Ista vještina ne može imati koristi od više od jedne kocke iskustva po sesiji.
 
 #### Povećanje strasti
 
-Kao što je opisano pod [Strasti](0004_Alignment_and_Passions.md?id=passions), vrijednost strasti može se povećati Iskustvenim bacanjima na isti način kao i vještina. Ako je podržano igrom, voditelj igre bi mogao čak dopustiti da se strast smanji korištenjem Iskustvenog bacanja.
+Kao što je opisano pod [Strasti](0004_Alignment_and_Passions.md?id=passions), vrijednost strasti može se povećati kockama iskustva na isti način kao i vještina. Ako je podržano igrom, Voditelj igre bi čak mogao dopustiti da se strast smanji koristeći kocku iskustva.
 
-Na primjer, stalno odbijanje neuzvraćene ljubavi moglo bi s vremenom iscrpiti strast čak i najvatrenijeg ljubavnika, posebno onoga koji želi nastaviti vezu bez duhova prošlosti koji ih progone.
+Na primjer, stalno odbijanje od strane neuzvraćene ljubavi moglo bi s vremenom iscrpiti strast čak i najvatrenijeg ljubavnika, posebno onoga koji želi nastaviti vezu bez duhova prošlosti koji ih progone.
 
 #### Učenje novih vještina
 
-Neki likovi možda žele proučavati nove profesionalne vještine koje nikada nisu imali priliku naučiti iz svoje kulture ili klase. Prije nego što počnu ulagati Iskustvena bacanja, prvo moraju pronaći izvor znanja iz kojeg mogu učiti. To bi moglo biti prozaično poput profesionalnog tutora, poput onih koje pružaju redovi ili cehovi. Alternativno, to bi mogao biti egzotičniji izvor obrazovanja, poput drevnog i trošnog svitka za obuku.
+Neki likovi možda žele proučavati nove profesionalne vještine koje nikada nisu imali priliku naučiti iz svoje kulture ili klase. Prije nego što počnu ulagati kocke iskustva, prvo moraju pronaći izvor znanja iz kojeg će učiti. To može biti prozaično kao profesionalni učitelj, poput onih koje pružaju redovi ili cehovi. Alternativno, to bi mogao biti egzotičniji izvor obrazovanja, poput drevnog i trošnog svitka za obuku.
 
-Nakon što se pronađe izvor obrazovanja, lik mora provesti cijeli mjesec učenja i vježbanja kako bi stekao osnovno znanje o toj vještini (učiti na osnovnoj razini). To košta 3 Iskustvena bacanja plus sve troškove unutar igre potrebne za plaćanje učitelja (ako postoji) i kupnju (ili iznajmljivanje) potrebne opreme i alata.
+Jednom kada se pronađe izvor obrazovanja, lik mora provesti cijeli mjesec u učenju i vježbi kako bi stekao osnovno znanje te vještine (učiti na osnovnoj razini). To košta 3 kocke iskustva plus sve troškove unutar igre koji su potrebni za plaćanje učitelja (ako postoji) i kupnju (ili najam) sve opreme i alata koji bi mogli biti potrebni.
 
 #### Učenje novih sposobnosti klase
 
-Pod pretpostavkom da lik ispunjava potreban rang i razinu vještine, ako postoje, jedno ili više Iskustvenih bacanja može se potrošiti za stjecanje ili poboljšanje sposobnosti klase. Ovo je detaljno opisano u [Poglavlju 3: Klase](0003_Classes.md) pod relevantnim opisima klasa. Za razliku od vještina, ovo obično ne zahtijeva pronalaženje izvora znanja iz kojeg se može naučiti relevantna sposobnost, jer pretpostavlja stjecanje naprednih tehnika kroz opetovanu upotrebu bilo kojih potrebnih vještina. Trošak u Iskustvenim bacanjima jednak je trenutnom rangu lika, a mnoge sposobnosti su zaključane dok se ne postigne određeni rang.
+Pod pretpostavkom da lik ispunjava potrebni čin i razinu vještine, ako postoje, jedna ili više kocki iskustva mogu se potrošiti za stjecanje ili poboljšanje sposobnosti klase. Ovo je detaljno opisano u [Poglavlju 3: Klase](0003_Classes.md) pod relevantnim opisima klasa. Za razliku od vještina, ovo obično ne zahtijeva pronalaženje izvora znanja iz kojeg bi se naučila relevantna sposobnost, jer podrazumijeva stjecanje naprednih tehnika kroz opetovanu upotrebu bilo koje potrebne vještine. Trošak u kockama iskustva jednak je trenutnom činu lika, a mnoge sposobnosti su zaključane dok se ne postigne određeni čin.
 
 ---
 ## Padovi
 
-Količina štete pretrpljene pri padu ovisi o visini pada. Oklopni bodovi ne smanjuju štetu od pada, ali se modifikator štete lika ili stvorenja koje pada primjenjuje na bacanja štete.
+Količina štete pretrpljena pri padu ovisi o udaljenosti pada. Bodovi oklopa (Armor Points) ne smanjuju štetu od pada, ali modifikator štete lika ili stvorenja koje pada primjenjuje se na bacanja štete.
 
 ##### Tablica visine pada
 
 | **Visina pada** | **Šteta** |
 | :-- | :-- |
-| 5 stopa ili manje | Bez štete |
+| 5 stopa ili manje | Nema štete |
 | 6 do 15 stopa | 1d6 bodova štete na jednu nasumičnu lokaciju |
 | 16 do 30 stopa | 2d6 bodova štete na dvije nasumične lokacije |
 | 31 do 45 stopa | 3d6 bodova štete na tri nasumične lokacije |
@@ -111,26 +111,26 @@ Količina štete pretrpljene pri padu ovisi o visini pada. Oklopni bodovi ne sma
 
 #### Objekti koji padaju
 
-Objekt koji pada nanosi štetu na temelju svog SIZ-a (veličine) i udaljenosti pada. Objekt nanosi 1d6 štete za svakih 6 bodova SIZ-a (ili dio toga), plus količinu štete jednaku stupcu "Šteta" u Tablici visine pada – uključujući sva smanjenja za objekte manje veličine.
+Objekt koji pada nanosi količinu štete na temelju svoje VEL (VEL) i udaljenosti pada. Objekt nanosi 1d6 štete za svakih 6 bodova VEL (ili njihov dio), plus količinu štete jednaku stupcu "Šteta" u Tablici visine pada – uključujući sva smanjenja za objekte manje veličine.
 
 ---
 ## Umor
 
-Umor mjeri iscrpljenost i njezine dodatne učinke. Koristi se za praćenje mnogih različitih stvari, od napornih aktivnosti do iscrpljujućih učinaka bolesti.
+Umor mjeri umor i njegove postupne učinke. Koristi se za praćenje mnogih različitih stvari, od naporne aktivnosti do oslabljujućih učinaka bolesti.
 
-Primarni način nakupljanja umora je bavljenje nekim oblikom tjelesne aktivnosti. Što je vježba ili rad naporniji, lik se brže umara. Prema nahođenju voditelja igre, likovi moraju napraviti odgovarajuće bacanje vještine – Atletika, Snaga ili Izdržljivost – kako bi se oduprli dobivanju razine umora.
+Primarni način nakupljanja umora je bavljenje nekim oblikom fizičke aktivnosti. Što je vježba ili rad naporniji, to se lik brže umara. Prema nahođenju Voditelja igre, likovi moraju baciti kocku za odgovarajuću vještinu – Atletiku, Snagu (Brawn) ili Izdržljivost – kako bi se oduprli dobivanju razine umora.
 
-Svako neuspjelo bacanje nakuplja razinu umora. Kao što je prikazano u [Tablici razina umora](0007_Game_System.md?id=fatigue-levels-table), svaka razina umora nosi kazne za korištenje vještina, kretanje, inicijativu i akcijske bodove. Asfiksija, gubitak krvi i drugi učinci ovisni o okruženju također doprinose nakupljanju umora.
+Svako neuspjelo bacanje nakuplja razinu umora. Kao što je prikazano u [Tablici razina umora](0007_Game_System.md?id=fatigue-levels-table), svaka razina umora nosi kazne za korištenje vještina, kretanje, inicijativu i akcijske bodove. Asfiksija, gubitak krvi i drugi učinci ovisni o postavkama također pridonose nakupljanju umora.
 
-Za većinu likova, aktivnosti bilo koje vrste postaju gotovo nemoguće kada se dosegne razina onesposobljenosti (Incapacitated). U ovoj fazi lik je još uvijek svjestan, ali nesposoban za bilo što osim za najočajnije aktivnosti.
+Za većinu likova, aktivnosti bilo koje vrste postaju gotovo nemoguće kada se dosegne razina onesposobljenosti (Incapacitated). U ovoj fazi lik je još uvijek pri svijesti, ali nesposoban za bilo što osim za najočajnije aktivnosti.
 
-Iznad razine onesposobljenosti, likovi uopće ne mogu djelovati. Razine umora – polusvjesno stanje, koma i smrt – općenito su rezervirane za mjerenje najekstremnijih učinaka gušenja, bolesti, gubitka krvi, izgladnjivanja, izloženosti itd.
+Iznad onesposobljenosti, likovi uopće ne mogu djelovati. Razine umora – polusvjesno, komatozno i mrtvo – općenito su rezervirane za mjerenje najekstremnijih učinaka gušenja, bolesti, gubitka krvi, izgladnjivanja, izloženosti i tako dalje.
 
 ### Oporavak od umora
 
-Likovi se oporavljaju od umora ovisno o svojoj brzini liječenja (Healing Rate). Količina potpunog odmora potrebnog za oporavak od svake razine nakupljenog umora jednaka je razdoblju oporavka podijeljenom s brzinom liječenja lika.
+Likovi se oporavljaju od umora ovisno o svojoj stopi ozdravljenja (Healing Rate). Količina potpunog odmora potrebnog za oporavak od svake razine nakupljenog umora jednaka je razdoblju oporavka podijeljenom sa stopom ozdravljenja lika.
 
-Imajte na umu da tablica predstavlja oporavak od umora za tjelesni napor. Oporavak od umora može biti puno brži pri oporavku od [asfiksije](0007_Game_System.md?id=asphyxiation) ili sporiji pri oporavku od [gubitka krvi](0007_Game_System.md?id=blood-loss).
+Napominjemo da tablica predstavlja oporavak od umora uslijed fizičkog napora. Oporavak od umora može biti puno brži kada se oporavljate od [asfiksije](0007_Game_System.md?id=asphyxiation) ili sporiji ako se oporavljate od [gubitka krvi](0007_Game_System.md?id=blood-loss).
 
 ### Tablica razina umora
 
@@ -141,77 +141,75 @@ Imajte na umu da tablica predstavlja oporavak od umora za tjelesni napor. Oporav
 | Umoran | Teško | -5 stopa | Bez kazni | Bez kazni | 3 sata |
 | Iscrpljen | Zastrašujuće | -5 stopa | -2 | Bez kazni | 6 sati |
 | Izmoren | Zastrašujuće | Prepolovljeno | -4 | -1 | 12 sati |
-| Oslabljen | Herkulsko | Prepolovljeno | -6 | -2 | 18 sati |
-| Onesposobljen | Herkulsko | Nepokretan | -8 | -3 | 24 sata |
-| Polusvjesan | Beznadno | Nije moguća aktivnost | Nije moguća aktivnost | Nije moguća aktivnost | 36 sati |
-| U komi | Nije moguća aktivnost | Nije moguća aktivnost | Nije moguća aktivnost | Nije moguća aktivnost | 48 sati |
-| Mrtav | Mrtav | – | – | – | Nikad |
+| Oslabljen | Herkulski | Prepolovljeno | -6 | -2 | 18 sati |
+| Onesposobljen | Herkulski | Nepokretan | -8 | -3 | 24 sata |
+| Polusvjesno | Beznadno | Aktivnosti nisu moguće | Aktivnosti nisu moguće | Aktivnosti nisu moguće | 36 sati |
+| Komatozno | Aktivnosti nisu moguće | Aktivnosti nisu moguće | Aktivnosti nisu moguće | Aktivnosti nisu moguće | 48 sati |
+| Mrtvo | Mrtvo | – | – | – | Nikada |
 
 ---
 ## Vatre
 
-Vatra je uvijek izvor opasnosti kada se koristi kao oružje ili ako izmakne kontroli. [Tablica intenziteta vatre](0007_Game_System.md?id=fire-intensity-table) u nastavku daje pet različitih intenziteta za štetu od topline, s nekoliko primjera. Šteta nanesena po rundi dana je u stupcu "Šteta". Budući da su relativno male, izvori intenziteta 1 i 2 primjenjuju štetu na jednu lokaciju tijela, obično onu koja dodiruje izvor. Izvori intenziteta 3 i 4 su veći, primjenjujući štetu na najbližih 1d4+1 lokacija tijela, što ukazuje na stupanj zračeće topline. Izvori intenziteta 5 utječu na sve lokacije tijela istovremeno. Vatra može zapaliti zapaljive materijale. Ako se ne ugase odmah, takvi materijali izgaraju unutar broja rundi naznačenih intenzitetom vatre. Jednom zapaljeni, zapaljivi materijali gore dok se fizički ne ugase. Šteta se primjenjuje izravno na bodove zdravlja (Hit Points) materijala, zanemarujući oklopne bodove, i na bilo koje meso ispod. Ako se ne kontrolira, širi se na broj lokacija tijela po rundi jednak svom intenzitetu.
+Vatre su uvijek izvor opasnosti kada se koriste kao oružje ili ako izmaknu kontroli. [Tablica intenziteta vatre](0007_Game_System.md?id=fire-intensity-table) u nastavku daje pet različitih intenziteta za štetu od vrućine, s nekim primjerima. Šteta nanesena po krugu dana je u stupcu "Šteta". Budući da su relativno male, izvori intenziteta 1 i 2 primjenjuju svoju štetu na jednu lokaciju pogotka, obično onu koja dodiruje izvor. Izvori intenziteta 3 i 4 su veći, primjenjujući štetu na najbližih 1d4+1 lokacija pogotka, što ukazuje na stupanj zračenja topline. Izvori intenziteta 5 utječu na sve lokacije pogotka istovremeno. Vatra može zapaliti zapaljive materijale. Ako se ne ugase odmah, takvi materijali izgaraju unutar broja krugova kako je naznačeno intenzitetom vatre. Jednom zapaljeni, zapaljivi materijali gore dok se fizički ne ugase. Šteta se primjenjuje izravno na bodove zdravlja (Hit Points) materijala, ignorirajući bodove oklopa, i na bilo koje meso ispod. Ako se ostavi nekontrolirana, širi se na broj lokacija pogotka, po krugu, jednak svom intenzitetu.
 
 ##### Tablica intenziteta vatre
 
-| **Intenzitet** | **Primjeri** | **Vrijeme za paljenje** | **Šteta** |
-| :-: | :-- | :-: | :-: |
+| **Intenzitet** | **Primjeri** | **Vrijeme do zapaljenja** | **Šteta** |
+| :-: | :-- | :-: | :-: | :-: |
 | 1 | Svijeća | 1d4 | 1d2 |
 | 2 | Baklja | 1d3 | 1d4 |
 | 3 | Logorska vatra | 1d2 | 1d6 |
 | 4 | Požar koji ispunjava sobu | 1d2 | 2d6 |
-| 5 | Vulkanska lava | Trenutno | 3d6 |
+| 5 | Vulkanonska lava | Trenutno | 3d6 |
 
 #### Napadi temeljeni na vatri
-
-Napadi temeljeni na vatri obično imaju postotnu šansu za paljenje zapaljivih materijala jer su obično gotovi u jednoj rundi. Ako nije drugačije naznačeno, ova šansa je vrijednost bačene štete x5% za napade vatrom, a vrijednost bačene štete x1% za električne napade. Jednom zapaljeni, zapaljivi materijali gore uzrokujući 1d3-1 štete svake runde dok se fizički ne ugase. Primijenite ovu štetu izravno na bodove zdravlja materijala, zanemarujući oklopne bodove, kao i na bilo koje meso ispod. Međutim, prirodni oklop stvorenja nudi svoju normalnu zaštitu. Žrtva može pokušati ugasiti plamen padanjem na tlo i uspješnim bacanjem vještine Atletika, što zahtijeva akcijski bod i može se pokušati svakog poteza. Ako drugi pomažu u gašenju plamena na neki način, bacanje je jedan stupanj težine lakše. Ako bacanje štete rezultira nulom, vatra se sama ugasila na toj jednoj lokaciji. Za svaku lokaciju koja se sama ugasila, bacanje za gašenje plamena također je jedan stupanj težine lakše.
+ 
+Napadi temeljeni na vatri obično imaju postotnu šansu za zapaljenje zapaljivih materijala jer su općenito gotovi u jednom krugu. Ako nije drugačije naznačeno, ova šansa je iznos bačene štete x5% za napade temeljene na vatri, i iznos bačene štete x1% za električne. Jednom zapaljeni, zapaljivi materijali gore za 1d3-1 štete svaki krug dok se fizički ne ugase. Primijenite ovu štetu izravno na bodove zdravlja materijala, ignorirajući bodove oklopa, i na bilo koje meso ispod. Međutim, prirodni oklop stvorenja nudi svoju normalnu zaštitu. Žrtva može pokušati ugasiti plamen padanjem u ležeći položaj i uspješnim bacanjem za Atletiku, što zahtijeva akcijski bod i može se pokušati svaki potez. Ako drugi na neki način pomažu u gušenju plamena, bacanje je jedan stupanj težine lakše. Ako bacanje štete rezultira nulom, vatra se ugasila sama od sebe na tom jednom mjestu. Za svaku lokaciju na kojoj se vatra sama ugasila, bacanje za gušenje plamena također je jedan stupanj težine lakše.
 
 ---
-## Vrijeme u igri
+## Vrijeme igre
 
-U _Classic Fantasy Imperative_, vrijeme je važan čimbenik, uglavnom za određivanje što se događa kojim redoslijedom, kako bi se mehanika igre primijenila kada treba. Zapamtite da vrijeme unutar igre obično nije ekvivalent vremenu provedenom u igranju. Ponekad voditelj igre treba sažeti događaje od mnogo dana u jednoj rečenici, poput 'Treba vam tjedan dana da stignete do dvorca Greymyr', dok u drugim trenucima, posebno tijekom borbe, akcije koje traju samo nekoliko sekundi mogu potrajati nekoliko minuta ili dulje za razrješenje.
+U _Classic Fantasy Imperative_, vrijeme je važan faktor, uglavnom za određivanje što se događa kojim redoslijedom, tako da se mehanike igre primjenjuju kada bi trebale. Zapamtite da vrijeme unutar igre obično nije ekvivalentno vremenu provedenom u igranju. Ponekad GM možda treba sažeti događaje od više dana u jednoj rečenici, kao što je "Treba vam tjedan dana da stignete do dvorca Greymyr", dok u drugim trenucima, posebno tijekom borbe, akcije od samo nekoliko sekundi mogu potrajati nekoliko minuta ili dulje da se riješe.
 
-S tim u vezi: Neke čarolije, predmeti ili učinci su zabilježeni kao iskoristivi jednom ili više puta dnevno. Jednostavan način za praćenje ovoga, umjesto vođenja dnevnika kada se svaka takva radnja dogodila, jest pretpostaviti da se sat resetira nakon što je lik imao punu noć sna. Prema tome, korištenje čarobnog predmeta dvaput koji je iskoristiv tri puta dnevno, vratit će sve upotrebe kada se lik sljedeći put probudi, čak i ako je korišten neposredno prije odlaska u krevet prethodne noći.
+U vezi s tim: Neke čarolije, predmeti ili učinci su zabilježeni kao iskoristivi jedan ili više puta dnevno. Jednostavan način za praćenje ovoga, umjesto vođenja dnevnika kada se svaka takva radnja dogodila, jest pretpostaviti da se sat resetira nakon što je lik imao punu noć sna. Stoga, korištenje čarobnog predmeta dvaput koji je iskoristiv tri puta dnevno rezultirat će vraćanjem svih upotreba kada se lik sljedeći put probudi, čak i ako je korišten neposredno prije odlaska u krevet prethodne noći.
 
 Slijede važne razlike u vremenu igre:
 
-#### Borbene runde
+#### Krugovi borbe
 
-Borbena runda predstavlja pet sekundi stvarnog vremena. Koriste se za mjerenje kratkih, frenetičnih izljeva aktivnosti koje traju trenutke ili mjerenje vrlo detaljnih aktivnosti koje zahtijevaju razrješenje udarac po udarac. Na primjer, potjera između lovca i plijena gdje svaka runda određuje zaokrete potjere.
+Krug borbe predstavlja pet sekundi stvarnog vremena. Koriste se za mjerenje kratkih, frenetičnih naleta aktivnosti kojima je potrebno nekoliko trenutaka da se završe ili za mjerenje vrlo detaljnih aktivnosti koje zahtijevaju rješavanje udarac po udarac. Na primjer, potjera između lovca i plijena gdje svaki krug određuje obrate potjere.
 
-#### Istraživačke runde
+#### Krugovi istraživanja
 
-Istraživačka runda predstavlja pet minuta stvarnog vremena i omogućuje grupi da se kreće tri puta brže od svoje osnovne brzine kretanja (60 stopa za ljude i poluljude ljudske veličine, 45 stopa za manje rase poluljudi). Istraživačke runde se obično koriste za mjerenje kretanja u tamnici, gdje je važno održavati visoku razinu opreza. Likovi se kreću polako, budni na zamke i zasjede, i pokušavaju održati prikrivenost. Ovo također pretpostavlja da netko u grupi izrađuje kartu. Ako nitko ne mapira, istraživačke runde se mogu tretirati kao da traju jednu minutu. Korištenje istraživačkih rundi omogućuje da se vaša bacanja za zamjećivanje (Perception) naprave bez kazne, međutim, kao i obično, mogu se primijeniti druge kazne. Neprijateljima je jedan stupanj teže otkriti grupu pri brzinama istraživanja, osim ako ne koristite izvore svjetlosti u područjima tame (poput baklji ili lampiona), što bi vas otkrilo. Ako likovi odluče odbaciti oprez, možete se kretati kroz tamnicu koristeći borbene runde. Međutim, u tom slučaju bacanja za zamjećivanje su jedan stupanj teža, a neprijatelji ne trpe kaznu na zamjećivanje s obzirom na otkrivanje likova. Imajte na umu da kada koristite borbenu podlogu koja igračima otkriva cijelu tamnicu, ili kada im voditelj igre crta tamnicu, **uvijek** treba pretpostaviti da grupa mapira, i stoga se kreće brzinom istraživanja.
+Krug istraživanja predstavlja pet minuta stvarnog vremena i omogućuje skupini da se kreće tri puta brže od svoje osnovne stope kretanja (60 stopa za ljude i demi-ljude ljudske veličine, 45 stopa za manje demi-ljudske rase). Krugovi istraživanja se obično koriste za mjerenje kretanja u tamnici, gdje je važno održavati visoku razinu opreza. Likovi se kreću polako, na oprezu zbog zamki i zasjeda, i pokušavaju održati prikrivenost. Ovo također pretpostavlja da netko u skupini crta kartu. Ako nitko ne crta kartu, krugovi istraživanja mogu se tretirati kao da traju jednu minutu. Korištenje krugova istraživanja omogućuje da se vaša bacanja za Percepciju rade bez kazne, međutim, kao i inače, mogu se primijeniti druge kazne. Neprijateljima je jedan stupanj teže otkriti skupinu pri brzinama istraživanja, osim ako ne koristite izvore svjetlosti u područjima tame (kao što su baklje ili svjetiljke), što bi vas odalo. Ako likovi odluče odbaciti oprez, možete se kretati kroz tamnicu koristeći krugove borbe. Međutim, u tom slučaju, bacanja za Percepciju su jedan stupanj teža, a neprijatelji ne trpe kaznu na Percepciju s obzirom na otkrivanje likova. Napomena: kada koristite borbenu podlogu koja igračima otkriva cijelu tamnicu, ili kada im Voditelj igre crta tamnicu, **uvijek** treba pretpostaviti da skupina crta kartu, i stoga se kreće brzinom istraživanja.
 
 #### Vrijeme vještine
 
-Vrijeme vještine predstavlja nekoliko minuta do nekoliko sati i koristi se za mjerenje aktivnosti koje ne zahtijevaju detaljnu pozornost borbene runde, ali zahtijevaju specifično promišljanje napora s jasnim rezultatom. Obijanje brave može potrajati pet minuta, dok promatranje patrola koje provode timovi stražara oko zidova dvorca može zahtijevati nekoliko sati. Oboje su primjeri vremena vještine.
+Vrijeme vještine predstavlja nekoliko minuta do nekoliko sati i koristi se za mjerenje aktivnosti koje ne zahtijevaju detaljnu pažnju kruga borbe, ali zahtijevaju određeno promišljanje napora s jasnim rezultatom. Obijanje brave može potrajati pet minuta, dok promatranje patrola koje provode timovi stražara oko zidina dvorca može zahtijevati nekoliko sati. Oboje su primjeri vremena vještine.#### Narativno vrijeme
 
-#### Narativno vrijeme
+Ovo je količina vremena koja prolazi dok Voditelj igre pripovijeda igračima ili dok igrači raspravljaju. Osim ako ne postoji poseban razlog za suprotno, većina stvarnog igranja uloga odvija se u narativnom vremenu. Tijekom igranja uloga, narativno vrijeme nalikuje stvarnom vremenu, gdje razgovor traje onoliko dugo koliko ga je potrebno odigrati. Ako igračka sesija uključuje duga putovanja ili razdoblja aktivnosti u kojima točno vrijeme nije bitno, tada se vrijeme znatno komprimira na nekoliko trenutaka vremena u igri.
 
-Ovo je vrijeme koje se troši kada voditelj igre pripovijeda igračima ili kada igrači raspravljaju. Ako ne postoji poseban razlog za to, većina stvarnog igranja uloga odvija se u narativnom vremenu. Kada igrate uloge, narativno vrijeme nalikuje stvarnom vremenu, gdje razgovor traje onoliko dugo koliko ga je potrebno odigrati. Ako sesija igre uključuje dugo putovanje ili razdoblja aktivnosti u kojima točno vrijeme nije presudno, tada se vrijeme znatno komprimira na nekoliko trenutaka vremena igre.
+### Kratki odmor
 
-### Kratki odmori
+Kratki odmor predstavlja razdoblje od oko 15 minuta tijekom kojeg se pustolovi zaustavljaju kako bi došli do daha, ne radeći ništa napornije od čitanja, jela, pića, molitve i zbrinjavanja rana. Družina odlučuje koliko dugo će se odmarati, a zatim izvodi relevantne 15-minutne radnje, pri čemu svaki igrač izvodi jednu prije prelaska na sljedeću. Nema ograničenja u broju kratkih odmora koje družina može uzeti tijekom dana, a obično se nekoliko radnji odmora izvodi nakon postavljanja kampa, kao i ujutro prije polaska. Svaka 15-minutna radnja odmora detaljno je opisana u nastavku i može se poduzeti više puta, osim ako nije drugačije navedeno.
 
-Kratki odmor predstavlja razdoblje od oko 15 minuta gdje se avanturisti zaustavljaju kako bi uhvatili dah, ne radeći ništa napornije od čitanja, jedenja, pijenja, molitve i brige o ranama. Grupa odlučuje koliko dugo će se odmarati, a zatim izvodi relevantne 15-minutne radnje, pri čemu svaki igrač izvodi jednu prije nego što prijeđe na sljedeću. Nema ograničenja u broju kratkih odmora koje grupa može uzeti tijekom dana, a obično se nekoliko radnji odmora izvodi nakon postavljanja kampa, kao i ujutro prije polaska. Svaka 15-minutna radnja odmora detaljno je opisana u nastavku i može se uzeti više puta osim ako nije drugačije navedeno.
-
-- **Pojedi obrok:** Ova 15-minutna radnja odmora može se uzeti samo jednom dnevno jer se obroci prate kao dnevna stavka i uklanja **bilo koju** jednu razinu umora koja nije veća od "Izmoren", kao i utažuje svaku glad. Likovi mogu smanjiti svoj umor za još jednu razinu nakon jela ako nije veća od "Zadihan", zbog toga što je ovo nenaporna aktivnost.
-- **Moli se božanstvu ili proučavaj knjigu čarolija:** Povrati 1 čarobni bod po 15-minutnoj radnji odmora provedenoj u molitvi ili studiranju. Likovi mogu smanjiti svoj umor za jednu razinu ako nije veća od "Zadihan" zbog toga što je ovo nenaporna aktivnost.
-- **Briga o ranama:** Potroši 15-minutnu radnju odmora koristeći vještinu Prve pomoći, ili četiri 15-minutne radnje odmora (jedan sat) koristeći vještinu Liječenja.
-- **Baci jednu ili više čarolija:** Bilo koji broj čarolija može se baciti za liječenje ili jačanje članova grupe tijekom 15-minutne radnje odmora, ograničeno dostupnim čarobnim bodovima.
-- **Pripremi novu čaroliju:** Nakon razdoblja spavanja od najmanje 8 sati, bacač čarolija može koristiti 15-minutnu radnju odmora za pamćenje ili zaboravljanje tajne (Arcane) ili božanske (Divine) čarolije, podložno ograničenjima detaljno opisanim pod [Memoriranje čarolija](0009_Magic.md?id=memorizing-spells).
-- **Oklijevaj (Dither):** Ovo je zadana 15-minutna radnja odmora osim ako se ne odabere druga radnja. Lik jednostavno gubi 15 minuta ne radeći ništa korisno. Ova se radnja odmora obično izvodi ako drugi članovi grupe još uvijek izvode radnje odmora, a vi nemate što raditi. Likovi mogu smanjiti svoj umor za jednu razinu ako nije veća od "Zadihan" zbog toga što je ovo nenaporna aktivnost.
+- **Pojedi obrok:** Ova 15-minutna radnja odmora može se poduzeti samo jednom dnevno jer se obroci prate kao dnevna stavka i uklanja **bilo koju** jednu razinu umora koja nije veća od Iscrpljenosti, kao i utažuje svaku glad. Likovi mogu smanjiti svoj umor za dodatnu razinu nakon jela ako nije veći od Zadihanosti, jer je ovo nenaporna aktivnost.
+- **Moli se božanstvu ili proučavaj knjigu čarolija:** Vratite 1 bod moći po 15-minutnoj radnji odmora provedenoj u molitvi ili učenju. Likovi mogu smanjiti svoj umor za jednu razinu ako nije veći od Zadihanosti jer je ovo nenaporna aktivnost.
+- **Zbrini rane:** Potrošite 15-minutnu radnju odmora koristeći vještinu Prva pomoć ili četiri 15-minutne radnje odmora (sat vremena) koristeći vještinu Liječenje.
+- **Baci jednu ili više čarolija:** Bilo koji broj čarolija može se baciti za liječenje ili jačanje članova družine tijekom 15-minutne radnje odmora, ograničeno dostupnim bodovima moći.
+- **Pripremi novu čaroliju:** Nakon razdoblja spavanja od najmanje 8 sati, bacač čarolija može iskoristiti 15-minutnu radnju odmora za pamćenje ili zaboravljanje arkane ili božanske čarolije, podložno ograničenjima detaljno opisanim pod [Pamćenje čarolija](0009_Magic.md?id=memorizing-spells).
+- **Oklijevaj:** Ovo je zadana 15-minutna radnja odmora osim ako nije odabrana druga radnja. Lik jednostavno gubi 15 minuta ne radeći ništa korisno. Ova se radnja odmora obično izvodi ako drugi članovi družine još uvijek izvode radnje odmora, a vi nemate što raditi. Likovi mogu smanjiti svoj umor za jednu razinu ako nije veći od Zadihanosti jer je ovo nenaporna aktivnost.
 
 ---
 ## Lokacije pogodaka
 
-Većina uspješnih napada (oružjem) pogađa određenu lokaciju tijela. To se može odrediti nasumično ili u nekim okolnostima odabrati posebnim efektima kao što je "Odabir lokacije". Za nasumično izračunavanje koja je lokacija pogođena, bacite 1d20 i usporedite dobiveni broj s relevantnom tablicom lokacija pogodaka humanoidnog ili drugog stvorenja.
+Većina uspješnih napada (oružjem) pogađa određenu lokaciju pogotka. To se može odrediti nasumično ili se u nekim okolnostima može odabrati posebnim efektima kao što je Odabir lokacije. Da biste nasumično izračunali koja je lokacija pogođena, bacite 1d20 i usporedite dobiveni broj s relevantnom tablicom lokacija pogodaka za humanoida ili stvorenje.
 
-Životinje i čudovišta obično imaju nešto drugačije tablice lokacija pogodaka od humanoida kako bi odražavale njihovu jedinstvenu fiziologiju. One su navedene kao dio opisa svakog bića i obično su od koristi samo voditelju igre.
+Životinje i čudovišta obično imaju nešto drugačije tablice lokacija pogodaka od humanoida kako bi odražavale njihovu jedinstvenu fiziologiju. One su navedene kao dio opisa svakog bića i obično su korisne samo Voditelju igre.
 
-Tablica humanoidnih lokacija pogodaka ponovljena je ovdje radi lakšeg snalaženja.
+Tablica lokacija pogodaka humanoida ovdje je ponovljena radi lakšeg snalaženja.
 
-### Humanoidne lokacije pogodaka
+### Lokacije pogodaka humanoida
 
 | **1d20** | **Lokacija pogotka** |
 | :-: | :-- |
@@ -223,145 +221,145 @@ Tablica humanoidnih lokacija pogodaka ponovljena je ovdje radi lakšeg snalažen
 | 16-18 | Lijeva ruka |
 | 19-20 | Glava |
 
-Imajte na umu da neki napadi, posebno magični, ili oni koje proizvode određena čudovišta (na primjer vatreni dah crvenog zmaja), mogu pogoditi nekoliko lokacija tijela istovremeno. Pojedine lokacije tijela mogu biti zaštićene oklopom, bilo od nošene zaštite ili prirodne čvrstoće vanjske površine stvorenja. Ovo je važno kada se razmatraju šteta i razine rana u nastavku.
+Imajte na umu da neki napadi, posebno magični, ili oni koje proizvode određena čudovišta (na primjer, vatreni dah crvenog zmaja), mogu pogoditi nekoliko lokacija pogodaka istovremeno. Pojedinačne lokacije pogodaka mogu biti oklopljene, bilo zbog nošene zaštite ili prirodne čvrstoće vanjske površine stvorenja. Ovo je važno pri razmatranju štete i razina rana u nastavku.
 
-### Štete i razine rana
+### Šteta i razine rana
 
-Ako napad uspješno pogodi, uzrokuje štetu prema ocjeni štete za oružje (vidi tablice za [oružje za blisku borbu](0006_Money_and_Equipment.md?id=basic-melee-weapons) i [oružje za daljinsku borbu](0006_Money_and_Equipment.md?id=basic-ranged-weapons) u poglavlju [Novac i oprema](0006_Money_and_Equipment.md?)). Kratki mač, na primjer, nanosi 1d6 štete.
+Ako napad pogodi uspješno, uzrokuje štetu prema ocjeni štete za oružje (vidi unose u tablici za [oružja za blisku borbu](0006_Money_and_Equipment.md?id=basic-melee-weapons) i [oružja za daljinsku borbu](0006_Money_and_Equipment.md?id=basic-ranged-weapons) u poglavlju [Novac i oprema](0006_Money_and_Equipment.md)). Kratki mač, na primjer, nanosi 1d6 štete.
 
-Dobivena šteta za oružje ili napad modificira se određenim uvjetima sljedećim redoslijedom:
+Bačena šteta za oružje ili napad modificira se određenim uvjetima sljedećim redoslijedom:
 
-- Primijenite modifikator štete za lika koji izvodi napad.
-- Modificirajte štetu od bilo koje čarolije koja pojačava (ili smanjuje) oružje.
-- Ako je parirano, smanjite štetu na odgovarajući način prema usporednim veličinama oružja.
-- Ako je lokacija tijela zaštićena oklopom, smanjite štetu za vrijednost oklopnih bodova.
+- Primijenite modifikator štete za lik koji izvodi napad.
+- Modificirajte štetu od bilo koje magije koja pojačava (ili smanjuje) oružje.
+- Ako je napad pariran, smanjite štetu na odgovarajući način prema usporednim veličinama oružja.
+- Ako je lokacija pogotka oklopljena, smanjite štetu za vrijednost bodova oklopa.
 
-Ako je šteta nanesena napadom iznad nule, tada lokacija tijela trpi tu količinu štete, pri čemu se ukupna šteta odmah oduzima od bodova zdravlja te lokacije. Zabilježite koliko bodova zdravlja lokaciji preostaje i kategoriju rane koja iz toga proizlazi.
+Ako je šteta nanesena napadom veća od nule, tada lokacija pogotka trpi tu količinu štete, a ukupan iznos štete odmah se uklanja s bodova izdržljivosti lokacije. Zabilježite koliko je bodova izdržljivosti lokaciji preostalo i koja kategorija rane proizlazi iz toga.
 
-- **Manja rana:** Lokacija tijela još uvijek ima pozitivne bodove zdravlja.
-- **Ozbiljna rana:** Lokacija tijela svedena je na nulu bodova zdravlja ili manje.
-- **Teška rana (Major Wound):** Lokacija tijela svedena je na negativan rezultat jednak ili veći od njezinih početnih bodova zdravlja.
+- **Manja rana:** Lokacija pogotka još uvijek ima pozitivne bodove izdržljivosti.
+- **Ozbiljna rana:** Lokacija pogotka smanjena je na nula bodova izdržljivosti ili manje.
+- **Teška rana:** Lokacija pogotka smanjena je na negativni rezultat jednak ili veći od njezinih početnih bodova izdržljivosti.
 
-Upotrijebite sljedeća pravila ako lokacija zadobije ozbiljnu ili tešku ranu. Imajte na umu da rane koje zahtijevaju provjere Izdržljivosti testiraju ih u suprotstavljenom bacanju (Opposed Roll) protiv vrijednosti izvornog bacanja napada. Ovo odražava sposobnost visokokvalificiranih ratnika da izvode smrtonosnije udarce. Bacanja za Izdržljivost ne ponavljaju se osim ako lokacija nije ponovno ranjena.
+Koristite sljedeća pravila ako lokacija primi ozbiljnu ili tešku ranu. Imajte na umu da rane koje zahtijevaju provjere KON testiraju ih u suprotstavljenom bacanju protiv vrijednosti izvornog bacanja napada. Ovo odražava sposobnost visokokvalificiranih ratnika da izvode smrtonosnije udarce. Provjere KON se ne ponavljaju osim ako lokacija nije ponovno ranjena.
 
 #### Manja rana
 
-Manje rane su posjekotine, ogrebotine, modrice i uganuća. Bole i mogu krvariti, ali nisu dovoljno značajne da uspore ili ometu žrtvu.
+Manje rane su posjekotine, ogrebotine, modrice i uganuća. Bole i mogu krvariti, ali nisu dovoljno značajne da usporavaju ili ometaju žrtvu.
 
 #### Ozbiljna rana
 
-Ako se lokacija svede na nulu bodova zdravlja ili manje, žrtva zadobiva ozbiljnu ranu. Lokacija je trajno ožiljkasta, a žrtva ne može napadati niti započeti bacanje čarolija (ali i dalje može parirati ili izbjegavati) sljedećih 1d3 poteza zbog toga što je ošamućena ili ometena bolom rane.
+Ako se lokacija smanji na nula bodova izdržljivosti ili manje, žrtva prima ozbiljnu ranu. Lokacija je trajno ožiljkana, a žrtva ne može napadati ili započeti bacanje čarolija (ali još uvijek može parirati ili izbjegavati) sljedećih 1d3 poteza zbog ošamućenosti ili ometanja bolom rane.
 
-Lik koji pretrpi ozbiljnu ranu na udovima mora odmah napraviti suprotstavljeno bacanje svoje Izdržljivosti protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira time da ud postaje beskoristan, sve dok se lokacija ne vrati na pozitivne bodove zdravlja. Ako je noga u pitanju, žrtva pada na tlo. Ako je ruka, sve što se drži ispada, osim ako predmet nije pričvršćen (ovdje koristite zdrav razum).
+Lik koji pretrpi ozbiljnu ranu na udovima mora odmah napraviti suprotstavljeno bacanje svog KON protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira time da ud postaje beskoristan, sve dok se lokacija ne vrati na pozitivne bodove izdržljivosti. Ako je u pitanju noga, žrtva pada potrbuške. Ako je u pitanju ruka, sve što se drži ispada, osim ako je objekt privezan (ovdje koristite zdrav razum).
 
-Lik koji pretrpi ozbiljnu ranu na trbuhu, prsima ili glavi mora odmah napraviti suprotstavljeno bacanje svoje Izdržljivosti protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira nesvjesticom u trajanju od broja minuta jednakog količini štete pretrpljene u napadu koji je uzrokovao ozbiljnu ranu. Vještine prve pomoći ili liječenja mogu se koristiti za pomoć žrtvi u nesvijesti da povrati dodatno zdravlje na ozbiljno ranjenoj lokaciji.
+Lik koji pretrpi ozbiljnu ranu na trbuhu, prsima ili glavi mora odmah napraviti suprotstavljeni test svog KON protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira nesvjesticom na broj minuta jednak količini štete pretrpljene u napadu koji je uzrokovao ozbiljnu ranu. Vještine Prva pomoć ili Liječenje mogu se koristiti za pomoć onesviještenoj žrtvi da povrati daljnje liječenje na ozbiljno ranjenoj lokaciji.
 
-Prema nahođenju voditelja igre, čak i ako lik ostane funkcionalan, svi zadaci koji zahtijevaju korištenje te lokacije tijela trpjet će stalnu kaznu od jednog stupnja težine, dok se ozljeda ne smanji na manju ranu.
+Prema nahođenju Voditelja igre, čak i ako lik ostane funkcionalan, svi zadaci koji zahtijevaju korištenje te lokacije pogotka trpjet će stalnu kaznu od jedne razine težine, sve dok se ozljeda ne smanji na manju ranu.
 
-#### Teška rana (Major Wound)
+#### Teška rana
 
-Ako se lokacija svede na negativan rezultat jednak ili veći od njezinih početnih bodova zdravlja, lik zadobiva tešku ranu. Lik je odmah onesposobljen, nesposoban nastaviti borbu. Ud je odsječen, proboden, smrskan ili otkinut teškom ranom. Lik pada na tlo, fizički onesposobljen, i mora odmah napraviti suprotstavljeno bacanje Izdržljivosti protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira nesvjesticom od agonije. Ako se odsječena, probušena ili otkinuta lokacija ne liječi unutar broja minuta jednakog peterostrukoj brzini liječenja lika, lik umire od gubitka krvi i šoka.
+Ako se lokacija smanji na negativni rezultat jednak ili veći od njezinih početnih bodova izdržljivosti, lik prima tešku ranu. Lik je odmah onesposobljen, nesposoban za nastavak borbe. Ud je odrezan, proboden, smrskan ili otrgnut teškom ranom. Lik pada potrbuške, fizički onesposobljen, i mora odmah napraviti suprotstavljeni test KON protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira nesvjesticom od agonije. Ako se odrezana, probodena ili otrgnuta lokacija ne zbrine unutar broja minuta jednakog pet puta njegovoj stopi liječenja, lik umire od gubitka krvi i šoka.
 
-Žrtva teške rane na trbuhu, prsima ili glavi pada u nesvijest, potpuno onesposobljena, i mora odmah napraviti suprotstavljeno bacanje Izdržljivosti protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira trenutnom i bezrazložnom smrću (obezglavljivanje, presijecanje na pola, probadanje kroz srce, raskomadanje itd.). Ako prežive, a lokacija se ne liječi unutar broja borbenih rundi jednakog dvostrukoj brzini liječenja lika, i dalje umiru od gubitka krvi i šoka.
+Žrtva teške rane na trbuhu, prsima ili glavi pada u nesvijest, potpuno onesposobljena, i mora odmah napraviti suprotstavljeni test KON protiv uspješnog bacanja napada svog neprijatelja. Neuspjeh rezultira trenutnom i besciljnom smrću (obezglavljivanje, presijecanje na pola, probadanje kroz srce, raskomadanje i tako dalje). Ako prežive, a lokacija se ne zbrine unutar broja borbenih rundi jednakog dvostrukoj stopi liječenja lika, oni i dalje umiru od gubitka krvi i šoka.
 
-Budući da većina teških rana zahtijeva neki oblik kirurgije ili veliku magiju da bi zacijelile, vrlo je malo vjerojatno da će se žrtva oporaviti od teške rane na vrijeme da se vrati u borbu. Ovisno o dostupnom tretmanu, ranjena lokacija bit će potencijalno sakata (vidi [Liječenje ozljeda](0007_Game_System.md?id=healing-from-injury)).
+Budući da većina teških rana zahtijeva neki oblik kirurgije ili veliku magiju za liječenje, malo je vjerojatno da će se patnik oporaviti od teške rane na vrijeme da se ponovno pridruži borbi. Ovisno o dostupnom liječenju, ranjena lokacija bit će potencijalno osakaćena (vidi [Liječenje od ozljeda](0007_Game_System.md?id=healing-from-injury)).
 
 ### Gubitak krvi
 
-Gubitak krvi zbog vanjskih i unutarnjih rana, obično zadobivenih u borbi, može vrlo brzo iscrpiti lika. Njegovi se učinci mjere nakupljanjem razina umora, baš kao i [asfiksija](0007_Game_System.md?id=asphyxiation). Neregulirani gubitak krvi obično rezultira smrću bez nekog oblika liječničke pomoći. Za razliku od asfiksije, učinci ozbiljnog gubitka krvi na umor su trajni. Lik se oporavlja od umora izgubljenog zbog krvarenja brzinom od jedne razine po danu, počevši od dana nakon što njegovo krvarenje prestane.
+Gubitak krvi uslijed vanjskih i unutarnjih rana, obično zadobivenih u borbi, može vrlo brzo iscrpiti lik. Njegovi se učinci mjere akumulacijom razina umora, baš kao i [Gušenje](0007_Game_System.md?id=asphyxiation). Nekontrolirani gubitak krvi obično rezultira smrću bez nekog oblika medicinske pomoći. Za razliku od gušenja, učinci ozbiljnog gubitka krvi na umor su trajni. Lik se oporavlja od umora izgubljenog krvarenjem brzinom od jedne razine dnevno, počevši od dana nakon prestanka iskrvarenja.
 
 #### Herojske posljednje radnje
 
-U posebnim slučajevima kada ključni likovi zadobiju tešku ranu, voditelj igre može dopustiti herojsku posljednju radnju – kao što je izgovaranje još jedne čarolije, pokušaj da se posječe svog ubojicu, puzanje u skrovište ili pokušaj stavljanja podveza na vlastitu ranu. Moraju imati funkcionalne udove primjenjive na radnju i potrošiti bod sreće (Luck Point). Dobivaju jednu priliku za pokušaj svoje radnje, a zatim se odmah ruše u nesvijest, i vjerojatnu smrt.
+U posebnim slučajevima kada ključni likovi prime tešku ranu, Voditelj igre može dopustiti herojsku posljednju radnju - kao što je ispljuvavanje još jedne čarolije, pokušaj da posijeku svog ubojicu, puzanje u skrovište ili pokušaj podvezivanja vlastite rane. Moraju imati funkcionalne udove primjenjive na radnju i potrošiti bod sreće. Dobivaju jednu priliku da pokušaju svoju radnju, a zatim odmah padaju u nesvijest i vjerojatnu smrt.
 
 ---
-## Liječenje ozljeda
+## Liječenje od ozljeda
 
-Prirodno liječenje rana i ozljeda temelji se na brzini liječenja lika. Brzina liječenja diktira koliko se bodova zdravlja oporavi na lokaciji tijekom razdoblja ovisnog o prirodi ozljede:
+Prirodno liječenje od rana i ozljeda temelji se na stopi liječenja lika. Stopa liječenja diktira koliko se bodova izdržljivosti oporavlja na lokaciji tijekom vremena ovisno o prirodi ozljede:
 
 - Manje rane: Dani
 - Ozbiljne rane: Tjedni
 - Teške rane: Mjeseci
 
-Dakle, lik s brzinom liječenja 3 koji pretrpi štetu koja ga dovodi na –3 na lokaciji tijela, što je ozbiljna rana, prirodno će se liječiti brzinom od 3 boda zdravlja tjedno dok njegova rana ne prijeđe iznad nule, a zatim će liječiti 3 boda zdravlja dnevno dok se potpuno ne oporavi.
+Dakle, lik sa stopom liječenja 3 koji pretrpi štetu koja ga dovodi na –3 na lokaciji pogotka, ozbiljnu ranu, prirodno će se liječiti brzinom od 3 boda izdržljivosti tjedno dok njegova rana ne prijeđe nulu, a zatim će liječiti 3 boda izdržljivosti dnevno dok se potpuno ne oporavi.
 
 Postoje određena ograničenja prirodnog liječenja:
 
-- Lik koji se liječi ne može se baviti napornom aktivnošću: inače se brzina liječenja smanjuje za 1d3. Dakle, lik koji se oporavlja čak i od manje rane mogao bi vidjeti svoj napredak zaustavljenim ako odluči sudjelovati u bilo kakvim fizičkim zadacima koji bi mogli pogoršati ozljede.
-- Prirodno liječenje neće početi liječiti tešku ranu dok žrtva nije tretirana uspješnom upotrebom vještine [Liječenje](0005_Skills.md?id=healing-intpow), ili bacanjem jedne od čarolija za liječenje rana. Teške rane koje ne uključuju amputaciju, a koje se ne liječe unutar broja dana jednakog jednoj dvadesetini vještine liječenja, postaju sakate, trajno smanjujući bodove zdravlja te lokacije.
+- Lik koji se liječi ne može se baviti napornim aktivnostima: inače se stopa liječenja smanjuje za 1d3. Dakle, lik koji se oporavlja čak i od manje rane mogao bi vidjeti svoj napredak zaustavljen ako odluči sudjelovati u bilo kakvim fizičkim zadacima koji bi mogli pogoršati ozljede.
+- Prirodno liječenje neće započeti liječenje teške rane dok žrtva nije zbrinuta uspješnom upotrebom vještine [Liječenje](0005_Skills.md?id=healing-intpow) ili bacanjem jedne od čarolija za liječenje rana. Teške rane koje ne uključuju amputaciju, a koje se ne zbrinu unutar broja dana jednakog jednoj dvadesetini vještine Liječenje, postaju osakaćene, trajno smanjujući bodove izdržljivosti lokacije.
 
 ### Magično liječenje
 
-Neka magija može zacijeliti rane koje je žrtva pretrpjela. Ipak, postoje posebna ograničenja o tome koja se razina rane može tretirati svakom čarolijom. Na primjer, božanska magijska čarolija "Izliječi manje rane" najučinkovitija je na manjim ranama, kao što joj ime govori, dok je čarolija "Izliječi ozbiljne rane" najučinkovitija na manjim i ozbiljnim ranama. Samo najmoćnija magija može trenutno preokrenuti traumatske ozljede teške rane.
+Neka magija može liječiti rane koje je žrtva zadobila. Ipak, postoje posebna ograničenja o tome koja se razina rane može liječiti svakom čarolijom. Na primjer, božanska magična čarolija Liječenje manjih rana najučinkovitija je kod manjih rana, kao što njezino ime sugerira, dok je čarolija Liječenje ozbiljnih rana najučinkovitija i kod manjih i kod ozbiljnih rana. Samo najmoćnija magija može trenutno preokrenuti traumatične ozljede teške rane.
 
 Bez obzira na to koliko je čarolija liječenja mala, njezina primjena uvijek je dovoljna da stabilizira bilo koju vrstu rane, sprječavajući krvarenje i trenutnu smrt čak i ako zapravo ne liječi temeljnu ozljedu. Imajte na umu da se ovo odnosi samo na grubu fizičku traumu, a ne na stanja uzrokovana gušenjem, otrovom i slično.
 
 ---
 ## Bodovi sreće
 
-Bodovi sreće pomažu razlikovati heroje od običnih ljudi. Oni predstavljaju sposobnost lika da potencijalno pretvori neuspjeh u uspjeh, pa čak i prevari smrt.
+Bodovi sreće pomažu u razlikovanju heroja od običnih vojnika. Oni predstavljaju sposobnost lika da potencijalno pretvori neuspjeh u uspjeh, pa čak i prevari smrt.
 
-Nakon postizanja 2. ranga, i svakog sljedećeg ranga, svi likovi dobivaju bonus bod sreće. Ovo donekle simulira dobivanje dodatnih bodova zdravlja u igrama temeljenim na razinama, omogućujući likovima višeg ranga da se bolje nose s stvarima poput zmajeva, demona, vragova i tako dalje, bez dopuštanja da podnesu više kazne od afričkog slona.
+Po dostizanju 2. ranga, i svakog sljedećeg ranga, svi likovi dobivaju bonus bod sreće. Ovo donekle simulira dobivanje dodatnih bodova izdržljivosti u igrama temeljenim na razinama, dopuštajući likovima višeg ranga da se bolje nose sa stvarima kao što su zmajevi, demoni, vragovi i tako dalje, a da im se ne dopusti da podnesu više kazne od afričkog slona.
 
-Bodovi sreće mogu se koristiti tijekom igre i, na početku sljedeće sesije, nadopunjuju se na svoju uobičajenu vrijednost.
+Bodovi sreće mogu se koristiti tijekom igre i, na početku sljedeće sesije, obnavljaju se na svoju uobičajenu vrijednost.
 
 #### Korištenje bodova sreće
 
-Bodovi sreće mogu se koristiti na razne načine. Samo jedan bod sreće može se koristiti kao podrška određenoj radnji. Bodovi sreće ne mogu se potrošiti na Iskustvena ili Trening bacanja. Svaka od sljedećih opcija košta jedan bod sreće.
+Bodovi sreće mogu se koristiti na razne načine. Samo se jedan bod sreće može iskoristiti za podršku određenoj radnji. Bodovi sreće ne mogu se trošiti na bacanja za iskustvo ili trening. Svaka od sljedećih opcija košta jedan bod sreće.
 
-#### Prevari sudbinu (Cheat Fate)
+#### Prevari sudbinu
 
-Likovi mogu koristiti bod sreće za ponovno bacanje ili zamjenu (75 bi postalo 57, na primjer) bilo kojeg bacanja kocke koje naprave. To može biti bacanje vještine, bacanje štete ili bilo što drugo što ima neki učinak. Likovi mogu čak prisiliti protivnika da ponovno baci napad ili bacanje štete napravljeno protiv njih.
+Likovi mogu koristiti bod sreće za ponovno bacanje ili zamjenu (75 bi postalo 57, na primjer) bilo kojeg bacanja kockica koje naprave. To može biti bacanje vještine, bacanje štete ili bilo što drugo što ima neki učinak. Likovi mogu čak prisiliti protivnika da ponovno baci napad ili bacanje štete učinjeno protiv njih.
 
-#### Očajnički napor (Desperate Effort)
+#### Očajnički napor
 
-Ako je lik iscrpio svoje akcijske bodove tijekom borbe i treba pronaći taj posljednji nalet očajničke energije kako bi možda izbjegao neurednu propast, može potrošiti bod sreće kako bi dobio dodatni akcijski bod.
+Ako je lik iscrpio svoje akcijske bodove tijekom borbe i treba pronaći taj posljednji nalet očajničke energije kako bi možda izbjegao neuredan kraj, može potrošiti bod sreće kako bi dobio dodatni akcijski bod.
 
-#### Ublaži štetu (Mitigate Damage)
+#### Ublaži štetu
 
-Lik koji pretrpi tešku ranu može potrošiti bod sreće kako bi smanjio ozljedu na ozbiljnu ranu. Ovo smanjuje pretrpljenu štetu na jedan bod zdravlja manje od onoga što bi bilo potrebno za nanošenje teške rane.
+Lik koji pretrpi tešku ranu može potrošiti bod sreće kako bi degradirao ozljedu na ozbiljnu ranu. Ovo smanjuje pretrpljenu štetu na jedan bod izdržljivosti manje nego što bi bilo potrebno za nanošenje teške rane.
 
 ---
 ## Zamke
 
-Zamke su sveprisutni uređaji koje koristi svaka kultura, od kopanja jama za hvatanje životinja, do smrtonosnih zamki koje čuvaju grobnice cijelu vječnost. Ovi uređaji su izgrađeni za niz svrha, svaki posebno skrojen za podizanje uzbune, hvatanje uljeza ili izravno sakaćenje i ubijanje lopova.
+Zamke su sveprisutni uređaji koje koristi svaka kultura, od kopanja jama za hvatanje životinja do smrtonosnih zamki koje čuvaju grobnice za vječnost. Ovi uređaji su izgrađeni za niz namjena, od kojih je svaka posebno prilagođena za uzbunjivanje, hvatanje uljeza ili osakaćivanje i izravno ubijanje lopova.
 
-Konstrukcija zamki zahtijeva da graditelj poznaje vještinu Mehanizama ili Inženjerstva. Male zamke poput zamki za medvjede ili zaključanih zamki zahtijevaju Mehanizme, dok velike konstrukcije poput jama sa šiljcima ili kotrljajućih stijena trebaju Inženjerstvo.
+Konstrukcija zamki zahtijeva da graditelj poznaje vještinu Mehanizmi ili Inženjerstvo. Male zamke kao što su zamke za medvjede ili zamke na bravama zahtijevaju Mehanizme, dok velike konstrukcije poput jama sa šiljcima ili kotrljajućih stijena trebaju Inženjerstvo.
 
-Osim angažiranja kompetentnog majstora, zamke često imaju vrlo skupe komponente ili troškove ručnog rada. Kao opća smjernica, alarmi koštaju vještinu kreatora u bakrenim novčićima, zamke za hvatanje isto u srebrnim, a smrtonosne zamke zahtijevaju plaćanje u zlatu.
+Osim angažiranja kompetentnog majstora, zamke često imaju vrlo skupe komponente ili troškove ručnog rada. Kao opća smjernica, alarmi koštaju vještinu tvorca u bakrenjacima, zamke za hvatanje isto u srebrenjacima, a smrtonosne zamke zahtijevaju plaćanje u zlatnicima.
 
-Sve zamke imaju ocjenu težine koja predstavlja koliko ih je teško zamijetiti, razoružati ili izbjeći. Ta se vrijednost tretira kao njihova vještina kada se odupire u suprotstavljenom bacanju.
+Sve zamke imaju ocjenu težine koja predstavlja koliko ih je teško uočiti, onesposobiti ili izbjeći. Ova se vrijednost tretira kao njegova vještina kada se odupire u suprotstavljenom bacanju.
 
-Unatoč mnogim zabavnim pričama koje pričaju pripovjedači, zamke – posebno one namijenjene ubijanju – rijetko imaju metodu pametnog izbjegavanja ili preokretanja svojih učinaka nakon što se pokrenu. Bez magije ili dobre sreće, oni uhvaćeni u smrtonosnoj zamci obično podlegnu njezinoj vrlo učinkovitoj svrsi. Ukratko, one nisu namijenjene preživljavanju. Osim ako zamka nema neki lukav dizajn ili je neka vrsta trajne magične čarolije, nakon što se aktivira, mora se ručno resetirati.
+Unatoč mnogim zabavnim pričama koje pričaju pripovjedači, zamke – posebno one namijenjene ubijanju – rijetko imaju metodu pametnog izbjegavanja ili preokretanja svojih učinaka jednom kada se pokrenu. Bez magije ili sreće, oni uhvaćeni u smrtonosnu zamku obično podlegnu njezinoj visoko učinkovitoj svrsi. Ukratko, one nisu namijenjene preživljavanju. Osim ako zamka nema neki lukav dizajn ili neku vrstu trajne magične čarolije, nakon što se aktivira, mora se ručno resetirati.
 
-### Osobine zamki
+### Svojstva zamki
 
-Zamke se opisuju pomoću sljedećih osobina.
+Zamke su opisane pomoću sljedećih svojstava.
 
 #### Svrha
 
 Svrha zamke. Postoje četiri glavne vrste:
 
 - **Alarm:** Zamka šalje tihi ili zvučni signal da je aktivirana.
-- **Hvatanje (Ensnaring):** Zamka je dizajnirana da uhvati svakoga tko je aktivira ili uđe u nju.
-- **Sakaćenje (Maiming):** Zamka je namijenjena kritičnom ozljeđivanju onoga tko je aktivira.
-- **Smrt:** Zamka je namijenjena ubijanju onih koji aktiviraju njezine smrtonosne uređaje.
+- **Zamka za hvatanje:** Zamka je dizajnirana da uhvati svakoga tko je aktivira ili uđe u nju.
+- **Osakaćivanje:** Zamka je namijenjena kritičnom ozljeđivanju onoga tko je aktivira.
+- **Smrt:** Zamka je namijenjena ubijanju onih koji aktiviraju njezine smrtonosne mehanizme.
 
 #### Okidač
 
 Način na koji se zamka aktivira.
 
-#### Teškoća (Difficulty)
+#### Težina
 
-Ocjena izazova zamke, koja je jednaka vrijednosti vještine Mehanizma ili Inženjerstva koja ju je stvorila. Na primjer, zamka s sječivom ugrađena u dno škrinje s blagom od strane majstora s Mehanizmima 70% daje zamci težinu od 70%. Zamka bi nakon toga koristila ovu vrijednost u suprotstavljenim bacanjima kako bi se vidjelo može li se oštrica uočiti, izbjeći ili razoružati.
+Ocjena izazova zamke, koja je jednaka vrijednosti vještine Mehanizmi ili Inženjerstvo koja ju je stvorila. Na primjer, zamka s oštricom ugrađena u dno škrinje s blagom od strane majstora s Mehanizmima 70% daje zamci težinu od 70%. Zamka bi nakon toga koristila ovu vrijednost u suprotstavljenim bacanjima kako bi se vidjelo može li se oštrica uočiti, izbjeći ili onesposobiti.
 
-#### Otpor (Resistance)
+#### Otpor
 
-Kako se zamci oduprijeti – obično korištenjem Snage, Izbjegavanja ili Pariranja borbenom vještinom koja uključuje štit. Otpor se baca kada se zamka aktivira.
+Kako se zamki oduprijeti – obično korištenjem Snage, Izbjegavanja ili Pariranja borbenom vještinom koja uključuje štit. Otpor se baca kada se zamka aktivira.
 
 #### Učinak
 
-Što se događa kada se zamka aktivira, a žrtva(e) ne uspiju pružiti otpor? Obično to rezultira uzbunjivanjem antagonista ako je alarm, ili hvatanjem žrtava ako je dizajnirana za hvatanje. Zamke za sakaćenje i smrt očito ozljeđuju žrtvu, iako neke smrtonosne zamke koriste druga sredstva osim izravne štete za nanošenje štete, poput utapanja ili otrova. Kako bi se ograničile pretjerano smrtonosne zamke, šteta nanesena većinom mehaničkih uređaja ograničena je vještinom njezina kreatora. Međutim, drugi poput zamki koje izlažu žrtvu otrovu ne uzimaju u obzir stvarnu vještinu kreatora. To se obično uravnotežuje troškom upotrijebljenog otrova. Druga iznimka od ovoga je zamka s jamom, gdje se šteta jednostavno temelji na dubini jame. U tim slučajevima, vještina kreatora koristi se za određivanje šanse za uočavanje, izbjegavanje i razoružavanje zamke; šteta se određuje prema vrsti otrova ili udaljenosti pada, prema potrebi. Sila je zabilježena za one zamke koje ispaljuju projektile koji se mogu parirati.
+Što se događa kada se zamka aktivira, a žrtva(e) ne uspiju odoljeti? Obično to rezultira uzbunjivanjem protivnika ako je alarm, ili hvatanjem žrtava ako je dizajnirana za hvatanje. Zamke za osakaćivanje i smrt očito ozljeđuju žrtvu, iako neke smrtonosne zamke koriste druga sredstva osim izravne štete za nanošenje štete, kao što su utapanje ili otrov. Kako bi se ograničile pretjerano smrtonosne zamke, šteta nanesena većinom mehaničkih uređaja ograničena je vještinom njezina tvorca. Međutim, drugi, poput zamki koje žrtvu izlažu otrovu, ne uzimaju u obzir stvarnu vještinu tvorca. To se obično balansira cijenom korištenog otrova. Druga iznimka od ovoga je zamka s jamom, gdje se šteta jednostavno temelji na dubini jame. U tim slučajevima, vještina tvorca koristi se za određivanje šanse za uočavanje, izbjegavanje i onesposobljavanje zamke; šteta se određuje prema vrsti otrova ili udaljenosti pada, prema potrebi. Sila je zabilježena za one zamke koje ispaljuju projektile koji se mogu parirati.
 
 ##### Ograničenja štete smrtonosnih zamki
 
@@ -375,46 +373,44 @@ Kako se zamci oduprijeti – obično korištenjem Snage, Izbjegavanja ili Parira
 | 51-60% | 2d6 | Velika |
 | 61-70% | 1d8+1d6 | Ogromna |
 | 71-80% | 2d8 | Ogromna |
-| 81-90% | 1d10+1d8 | Enormna |
-| 91-100% | 2d10 | Enormna |
+| 81-90% | 1d10+1d8 | Kolosalna |
+| 91-100% | 2d10 | Kolosalna |
 
-Šteta može utjecati na više nasumičnih lokacija tijela, pri čemu svaka dodatna lokacija smanjuje štetu za jedan stupanj na tablici ograničenja štete smrtonosnih zamki. Na primjer, dizajner zamki s 50% vještine mogao bi dizajnirati zamku koja radi 1d10 štete na jednu lokaciju, 1d8 štete na 1d2 lokacije tijela, 1d6 štete na 1d3 lokacije i tako dalje. Broj potencijalnih lokacija postavlja se kada se zamka dizajnira i ne može se promijeniti. Budući da je broj dodatnih lokacija tijela nasumičan, postoji potencijal za manju ukupnu štetu.
+Šteta može utjecati na više nasumičnih lokacija pogodaka, pri čemu svaka dodatna lokacija smanjuje štetu za jednu razinu na tablici ograničenja štete smrtonosnih zamki. Na primjer, dizajner zamki s 50% vještine mogao bi dizajnirati zamku da nanese 1d10 štete na jednu lokaciju, 1d8 štete na 1d2 lokacije pogodaka, 1d6 štete na 1d3 lokacije i tako dalje. Broj potencijalnih lokacija postavlja se kada se zamka dizajnira i ne može se mijenjati. Budući da je broj dodatnih lokacija pogodaka nasumičan, postoji mogućnost da se ukupno nanese manje štete.
 
 ### Primjeri zamki
 
-#### Jama (Pitfall)
+#### Jama
 
-Jama je arhetipska zamka koju koristi svaka kultura. Može biti u obliku jednostavne iskopane jame, prekrivene granama i lišćem, ili dosegnuti sofisticiranost kamenom obloženih otvora ispod lažnih podova sa šarkama, koji su protuutegom vraćaju natrag na mjesto nakon što žrtva upadne.
+Jama je arhetipska zamka koju koristi svaka kultura. Može poprimiti oblik jednostavne iskopane jame, prekrivene granjem i lišćem, ili dosegnuti sofisticiranost kamenih zidova ispod šarkastih lažnih podova, koji su protuutegom vraćeni natrag na mjesto nakon što žrtva upadne.
 
-Jame ne moraju biti posebno duboke. Ako su dizajnirane za hvatanje, jednostavan oblik amfore ili vrše za jastoge spriječit će bijeg penjanjem, kao i zidovi koji su klesani glatko ili napravljeni od trošnog materijala koji popušta pod težinom lika. Jame koje su umjesto toga namijenjene ubijanju obično oblažu dno desecima šiljaka, gusto zbijenih tako da će lik koji pada neizbježno biti proboden. Ostale opcije mogu uključivati punjenje dna slabom kiselinom, vodom dovoljno dubokom za utapanje ili štakorima izgladnjelim do smrti.
-
-- **Svrha:** Hvatanje ili smrt
-- **Okidač:** Hodanje preko lažne površine koja prekriva jamu
-- **Teškoća:** 60%
-- **Otpor:** Ili izbjegavanje (Evade) za skok u stranu ili teško bacanje vještine Atletika za hvatanje za rub dok padaju.
-- **Učinak:** Pad u jamu nanosi 2d6 štete na nasumičnu lokaciju tijela, oklop ne štiti. Sekundarni učinci prepušteni su mašti voditelja igre.
-
-#### Zamka s otrovnom iglom
-
-Ovo je još jedna uobičajena zamka koja se nalazi posvuda, od kraljeve odaje do zaboravljene grobnice. Ova se zamka obično postavlja na škrinju, ali se može naći i kako štiti brave na vratima. Osim ako se ne otvori odgovarajućim ključem, zamka će izbaciti malu otrovnu iglu u ruku bilo koga tko pokuša obiti bravu.
+Jame ne moraju biti posebno duboke. Ako su dizajnirane za hvatanje, jednostavan oblik amfore ili vrše spriječit će bijeg penjanjem, kao i zidovi koji su isklesani glatko ili napravljeni od trošnog materijala koji popušta pod težinom lika. Jame koje su umjesto toga namijenjene ubijanju obično oblažu dno desecima kolaca, zbijenih tako da će lik koji pada neizbježno biti proboden. Druge opcije mogle bi uključivati punjenje dna slabom kiselinom, vodom dovoljno dubokom za utapanje ili gladnim štakorima.
 
 - **Svrha:** Hvatanje ili smrt
-- **Okidač:** Pokušaj obijanja brave na zamkama zaštićenom objektu.
-- **Teškoća:** 60%
+- **Okidač:** Hodanje preko lažne površine koja pokriva jamu
+- **Težina:** 60%
+- **Otpor:** Ili Izbjegavanje za skok u stranu ili teška provjera Atletike za hvatanje ruba dok padaju.
+- **Učinak:** Pad u jamu nanosi 2d6 štete na nasumičnu lokaciju pogotka, oklop ne štiti. Sekundarni učinci prepušteni su mašti Voditelja igre.#### Zamka s otrovnom iglom
+
+Ovo je još jedna česta zamka koja se nalazi svuda, od kraljeve odaje do zaboravljene grobnice. Ova zamka se obično postavlja na škrinje, ali se može naći i kako štiti brave na vratima. Ako se ne otvori odgovarajućim ključem, zamka će izbaciti malu otrovnu iglu u ruku bilo koga tko pokuša obiti bravu.
+
+- **Svrha:** Zarobljavanje ili smrt
+- **Okidač:** Pokušaj obijanja brave na zamkom zaštićenom predmetu.
+- **Težina:** 60%
 - **Otpor:** Izdržljivost
-- **Učinak:** Kada se aktivira, mala otrovna igla iskoči i zabode se u ruku svakoga tko pokuša obiti bravu. Bilo koji otrov može se koristiti za premazivanje igle. Voditelj igre može odlučiti o pojedinostima bilo kojeg otrova – što je detaljno pokriveno u glavnim pravilima _Classic Fantasy_.
+- **Učinak:** Kada se aktivira, mala otrovna igla iskoči i ubode se u ruku onoga tko pokušava obiti bravu. Za premazivanje igle može se koristiti bilo koji otrov. Voditelj igre može odlučiti o pojedinostima bilo kojeg otrova - koji su detaljno opisani u glavnim pravilima _Classic Fantasy_.
 
 <details>
 
-<summary>* Errata zajednice</summary>
+<summary>* Ispravci zajednice</summary>
 
 ---
 
 #### Zamka s otrovnom iglom
 
-_Izvorni tekst uključivao je "Ako je otrov smrtonosan, koristite učinke detaljno opisane za zamku s otrovnim plinom iznad, međutim primijenjene samo na nesretnog obijača brave."_
+_Izvorni tekst je sadržavao "Ako je otrov smrtonosan, koristite učinke detaljno opisane za zamku s otrovnim plinom iznad, međutim primijenjene samo na nesretnog provalnika brave."_
 
-_Ovo uzrokuje probleme jer zamka s otrovnim plinom nije pokrivena u Classic Fantasy Imperative. Otuda promjena iznad._
+_Ovo uzrokuje probleme jer zamka s otrovnim plinom nije obuhvaćena u Classic Fantasy Imperative. Otuda promjena iznad._
 
 ---
 

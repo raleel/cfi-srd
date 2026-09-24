@@ -1,160 +1,160 @@
 # Luku 7: Pelijärjestelmä
 
-_Classic Fantasy Imperative_ -pelin aikana voi tapahtua monia eri asioita. Jotkut ratkaistaan taitojen käytöllä tai yhdellä pelin päämekaniikoista, kuten taistelulla tai magialla; toiset vaativat omat sääntönsä tulkintaa varten. Tämä luku tarjoaa sääntöjä ja ohjeita erilaisiin tilanteisiin, joita pelaajat kohtaavat pelin aikana.
+_Classic Fantasy Imperative_ -pelin aikana voi tapahtua monia eri asioita. Jotkin ratkaistaan taitojen käytöllä tai yhdellä pelin päämekaniikoista, kuten taistelulla tai magialla; toiset vaativat omia sääntöjään ratkomiseen. Tämä luku tarjoaa sääntöjä ja opastusta moniin eri tilanteisiin, joita pelaajat kohtaavat pelin aikana.
 
-Lista ei ole tyhjentävä, mutta sen pitäisi kattaa yleisimmät tilanteet. Jos pelinjohtajat huomaavat, että on olemassa muita tilanteita, jotka vaativat jonkinlaista pelijärjestelmän mukaista ratkaisua ja että näitä tilanteita tuntuu tapahtuvan usein, heitä kannustetaan kehittämään omia sääntöjään kattamaan nämä erityisolosuhteet käyttäen tässä luvussa annettuja sääntöjä pohjana replikointiin tai kehittämiseen.
+Lista ei ole tyhjentävä, mutta sen pitäisi edustaa yleisimpiä tilanteita. Jos pelinjohtajat huomaavat, että on olemassa muita tilanteita, jotka vaativat jonkinlaista pelijärjestelmän ratkaisua, ja että näitä tilanteita tuntuu tapahtuvan usein, heitä kannustetaan kehittämään omia sääntöjään näiden erityisolosuhteiden kattamiseksi, käyttäen tässä luvussa annettuja sääntöjä perustana monistamiselle tai kehittämiselle.
 
 ---
 ## Ikääntyminen
 
-Kaikki hahmot ikääntyvät, ja iän myötä tulee tiettyjä seurauksia. Ikääntymisen merkit alkavat varhaisessa keski-iässä (40 vuotta ihmisillä – muut lajit ikääntyvät nopeammin tai hitaammin alla näytetyllä tavalla). Kun hahmo siirtyy uuteen ikäluokkaan, hänen on tehtävä sekä Kestävyys- (Endurance) että Tahdonvoimaheitto (Willpower) mainituilla vaikeusasteilla. Jos heitto epäonnistuu, hahmo kokee ikääntymisvaikutuksia Ikääntymisvaikutukset-taulukon mukaisesti.
+Kaikki hahmot ikääntyvät, ja iän myötä tulee tiettyjä seurauksia. Ikääntymisen merkit alkavat varhaisessa keski-iässä (ihmisillä 40 vuotta – muut lajit ikääntyvät nopeammin tai hitaammin, kuten alla on esitetty). Kun hahmo siirtyy uuteen ikäluokkaan, hänen on suoritettava sekä KES-heitto että MAH-heitto ilmoitetulla vaikeusasteella. Jos heitto epäonnistuu, hän kokee Ikääntymisvaikutukset Ikääntymisvaikutusten taulukon mukaisesti.
 
-Jokainen Ikääntymisen vaikuttama ominaisuusarvo laskee 1d3 pistettä. Nämä pisteet voidaan palauttaa tai ainakin osittain torjua ominaisuuksien kehittämisellä, mikä kuvastaa pyrkimyksiä pysyä kunnossa ja vireänä vanhetessa. Jos jokin ominaisuus putoaa ikääntymisen seurauksena nollaan, hahmo kuolee terminaalisen haurautensa vuoksi. Kun hahmo saavuttaa höperyyden ikäluokan, ikääntymisheitot tehdään vuosittain rodusta riippumatta.
+Jokainen Ikääntymisen vaikuttama ominaisuus pienenee 1d3 pisteellä. Nämä pisteet voidaan palauttaa tai ainakin osittain torjua ominaisuuksien kehittämisellä, mikä edustaa ponnisteluja pysyä kunnossa ja valppaana vanhetessa. Jos jokin ominaisuus laskee nollaan Ikääntymisen seurauksena, hahmo kuolee lopullisen haurautensa vuoksi. Kun hahmo saavuttaa höperyyden ikäluokan, Ikääntymisheitot suoritetaan vuosittain rodusta riippumatta.
 
-Mitä erityisiä heikentäviä vaikutuksia ikääntymisprosessiin liittyy, on pelinjohtajan määriteltävissä. Esimerkiksi STR-, CON- tai DEX-arvojen alentaminen kuvastaa kehon yleistä kulumista, narisevia niveliä ja liikkuvuuden asteittaista menetystä. INT-arvon alentaminen osoittaa, että ikä alkaa tehdä tepposia mielelle ja muistille, kun taas CHA-arvon alentaminen viittaa siihen, että hahmo muuttuu vanhetessaan rosoisemmaksi ja kenties äkkipikaisemmaksi.
+Mitä erityisiä heikentäviä vaikutuksia Ikääntymisprosessiin kuuluu, on pelinjohtajan määriteltävissä. Esimerkiksi VOI:n, KES:n tai KET:n laskeminen edustaa yleistä kulumista kehossa, narisevia niveliä ja asteittaista liikkuvuuden menetystä. ÄLY:n laskeminen osoittaa, että ikä alkaa tehdä tepposia mielelle ja muistille, kun taas KAR:n laskeminen osoittaa hahmon muuttuvan rosoisemmaksi ja ehkä kärttyisämmäksi ikääntyessään.
 
 ##### Ikäluokat
 
-| **Ikäluokka** | **Ihminen** | **Kääpiö** | **Haltia** | **Gnoomi** | **½ Haltia** | **½ Örkki** | **Puolituinen** | **Kestävyys- ja Tahdonvoimaheiton vaikeusaste** |
+| **Ikäluokka** | **Ihminen** | **Kääpiö** | **Haltia** | **Gnoomi** | **½ Haltia** | **½ Örkki** | **Puolituiset** | **KES- ja MAH-heiton vaikeusaste** |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
 | Varhainen keski-ikä | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Helppo |
-| Keski-ikä | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standardi |
+| Keski-ikä | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Normaali |
 | Myöhäinen keski-ikä | 60-69 | 250-299 | 750-874 | 460-539 | 150-199 | 50-59 | 110-129 | Vaikea |
 | Vanhuus | 70-79 | 300-349 | 875-999 | 540-619 | 200-249 | 60-69 | 130-149 | Pelottava |
-| Korkea ikä | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Herkuleeninen |
-| Höperyys | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Mahdoton |
+| Korkea ikä | 80-89 | 350-399 | 1000-1124 | 620-699 | 250-299 | 70-79 | 150-169 | Hercules-taso |
+| Höperyys | 90+ | 400+ | 1125+ | 700+ | 300+ | 80+ | 170+ | Toivoton |
 
-##### Ikääntymisvaikutukset-taulukko
+##### Ikääntymisvaikutusten taulukko
 
-| **1d6** | **Fyysinen ikääntyminen (epäonnistunut Kestävyys)** | **Henkinen ikääntyminen (epäonnistunut Tahdonvoima)** |
+| **1d6** | **Fyysinen ikääntyminen (Epäonnistunut KES)** | **Henkinen ikääntyminen (Epäonnistunut MAH)** |
 | :-: | :-- | :-- |
-| 1-2 | STR | INT |
-| 3-4 | CON | POW |
-| 5-6 | DEX | CHA |
+| 1-2 | VOI | ÄLY |
+| 3-4 | KES | MAH |
+| 5-6 | KET | KAR |
 
 ---
 ## Tukehtuminen
 
-Hahmot voivat pidättää hengitystään sekuntimäärän, joka vastaa heidän Kestävyys-taitoaan. Hahmon on kuitenkin oltava valmistautunut (täyttämällä keuhkot mahdollisimman suurella määrällä ilmaa); jos ei, aika puolittuu, jos hahmo oli passiivisessa tilassa, tai se vähenee viidesosaan, jos hahmo harjoitti rasittavaa toimintaa.
+Hahmot voivat pidättää hengitystään sekuntimäärän, joka on yhtä suuri kuin heidän Kestävyys-taitonsa. Hahmon on kuitenkin oltava valmistautunut (keuhkot täynnä ilmaa niin paljon kuin mahdollista); jos ei, aika puolittuu, jos hahmo oli passiivisessa tilassa, tai se vähenee viidesosaan, jos hahmo oli osallisena rasittavassa toiminnassa.
 
-Kun hengityksen pidättämisen aika on ohi, hahmojen on tehtävä Kestävyysheitto:
+Kun hengityksen pidättämisen aika on ohi, hahmojen on tehtävä Kestävyys-heitto:
 
-- Jos heitto on Kriittinen onnistuminen, hahmo ei kärsi lisävaurioita.
-- Jos heitto on Onnistuminen, hahmo saa ylimääräisen väsymystason (Fatigue).
-- Jos heitto Epäonnistuu, hahmo kärsii 1d2 ylimääräistä väsymystasoa kyseisellä kierroksella.
-- Jos heitto on Moka, hahmo kärsii 1d3 ylimääräistä väsymystasoa kyseisellä kierroksella.
+- Jos heitto on Kriittinen onnistuminen, hahmo ei kärsi enempää huononemista.
+- Jos heitto on Onnistuminen, hahmo saa yhden ylimääräisen väsymystason.
+- Jos heitto epäonnistuu, hahmo saa 1d2 ylimääräistä väsymystasoa kyseisen kierroksen aikana.
+- Jos heitto on Töppäys, hahmo saa 1d3 ylimääräistä väsymystasoa kyseisen kierroksen aikana.
 
-Ilman apua tukehtumiskuolema on yleensä nopea. Jos tukehtuminen loppuu ennen kuin hahmo kuolee, he toipuvat tukehtumisen aiheuttamista väsymystasoista suhteellisen nopeasti, palauttaen yhden tason minuutissa.
+Ilman apua tukehtumiskuolema on yleensä nopea. Jos tukehtuminen päättyy ennen kuin hahmo kuolee, hän toipuu tukehtumisen aiheuttamista väsymystasoista suhteellisen nopeasti, palautuen yhden tason minuutissa.
 
-Tukehtumistavasta riippuen pelinjohtaja voi haluta estää täyden toipumisen ja määrätä pysyvän väsymystason edustamaan savun tai veden sisäänhengityksen aiheuttamia keuhkovaurioita.
+Tukehtumistavasta riippuen pelinjohtaja saattaa haluta estää täyden toipumisen ja asettaa pysyvän väsymystason edustamaan savun tai veden sisäänhengityksen aiheuttamia keuhkovaurioita.
 
 ---
 ## Hahmon kehittäminen
 
-Jokainen _Classic Fantasy Imperative_ -hahmo voi kehittyä ajan ja kokemuksen myötä. Kehitystä voidaan tehdä useilla osa-alueilla:
+Jokainen _Classic Fantasy Imperative_ -hahmo voi kehittyä ajan ja kokemuksen myötä. Kehittymistä voi tapahtua useilla osa-alueilla:
 
-- Olemassa olevien taitojen kasvattaminen
-- Intohimojen (Passions) kasvattaminen
+- Olemassa olevien taitojen lisääminen
+- Intohimojen kasvattaminen
 - Uusien taitojen oppiminen
 - Uusien kykyjen oppiminen
 
 #### Kokemusheitot
 
-Useimpien hahmonkehitysten mekanismi on Kokemusheitto. Pelinjohtajat jakavat Kokemusheittoja sopivassa vaiheessa kampanjaa: jokaisen onnistuneen skenaarion tai tarinankaaren lopussa; tai ehkä kahden tai kolmen pelikerran jälkeen, jos tarina on pitkä ja vie aikaa valmistua. Tiheys on pelinjohtajan harkinnassa. Korkea Kokemusheittojen tiheys johtaa hahmojen nopeampaan kehittymiseen.
+Useimman hahmon kehittymisen mekanismi on kokemusheitto. Pelinjohtajat jakavat kokemusheittoja sopivassa vaiheessa kampanjaa: jokaisen onnistuneen skenaarion tai tarinankaaren lopussa; tai ehkä kahden tai kolmen pelikerran jälkeen, jos tarina on pitkä ja sen valmistuminen vie aikaa. Tiheys on pelinjohtajan harkinnassa. Korkea kokemusheittojen tiheys johtaa hahmojen nopeampaan kehittymiseen.
 
-Ei ole oikeaa tai väärää aikaa antaa Kokemusheittoja, mutta luonnolliset tauot tarinassa voivat vihjata sopivista ajoista. Pelinjohtaja on kuitenkin aina tässä asiassa päätöksentekijä. Vaikka pelaajat eivät voi vaatia Kokemusheittoja, heillä on oikeus odottaa niitä tietyissä kohdissa – sillä heidän hahmonsa eivät voi kehittyä ilman niitä.
+Kokemusheittojen antamiseen ei ole oikeaa tai väärää aikaa, mutta luonnolliset tauot tarinassa voivat vihjata sopivista ajoista. Pelinjohtaja tekee kuitenkin aina päätöksen tässä asiassa. Vaikka pelaajat eivät voi vaatia kokemusheittoja, heillä on oikeus odottaa niitä tietyissä tilanteissa – sillä heidän hahmonsa eivät pysty kehittymään ilman niitä.
 
-Jaettavien Kokemusheittojen määrän määrittää myös pelinjohtaja. Hyvä nyrkkisääntö on kuitenkin 1-3 Kokemusheittoa per pelikerta viimeisimmästä jakokerrasta lukien.
+Pelinjohtaja määrittää myös myönnettävien kokemusheittojen määrän. Hyvä nyrkkisääntö on kuitenkin 1-3 kokemusheittoa per pelikerta edellisestä jakokerrasta.
 
-#### Olemassa olevien taitojen kasvattaminen
+#### Olemassa olevien taitojen lisääminen
 
-Mitkä tahansa hahmolomakkeen taidot, Standardit tai Ammatilliset, voidaan kasvattaa käyttämällä yksi Kokemusheitto. Pelaajat voivat päättää *olla käyttämättä* Kokemusheittoja taitojen kasvattamiseen ja sen sijaan kerryttää varastoa käytettäväksi muiden asioiden, kuten luokkakykien (ks. alla), kasvattamiseen.
+Mitä tahansa taitoa hahmolomakkeella, joko Standardia tai Ammatillista, voidaan lisätä käyttämällä yksi kokemusheitto. Pelaajat voivat päättää olla käyttämättä kokemusheittoja taitojen lisäämiseen, kerryttäen sen sijaan varastoa muiden asioiden, kuten luokkakykien (ks. alla), kasvattamiseen.
 
-- Pelaaja heittää 1d100 ja vertaa sitä kasvatettavaan taitoon. Hahmon INT lisätään heittoon.
-- Jos luku on **yhtä suuri tai suurempi** kuin parannettava taito, se kasvaa 1d4+1 %.
-- Jos luku on **pienempi** kuin valittu taito, taito kasvaa silti, mutta vain 1 %.
-- Jos hahmo mokasi (Fumbled) minkä tahansa taidon edellisen pelikerran aikana – eli viimeisten Kokemusheittojen ja nykyhetken välillä – mokattu taito saa ilmaisen 1 %:n korotuksen. On totuus, että opimme enemmän virheistämme kuin onnistumisistamme, ja tämä kuvastaa hahmon pohdintaa tuhoisan epäonnistumisen jälkeen. Saman taidon useat mokat eivät kumuloidu. Tapauksessa, jossa mokattua taitoa ollaan myös nostamassa Kokemusheitolla, mokatun taidon 1 %:n korotus lisätään ennen kuin parannusheitto suoritetaan.
+- Pelaaja heittää 1d100 ja vertaa sitä taitoon, jota ollaan lisäämässä. Hahmon ÄLY lisätään heittoon.
+- Jos heitetty luku on **yhtä suuri tai suurempi** kuin parannettava taito, se kasvaa 1d4+1 %.
+- Jos heitetty luku on **pienempi** kuin valittu taito, taito kasvaa silti, mutta vain 1 %.
+- Jos hahmo töppäsi minkä tahansa taidon edellisen pelikerran/pelikertojen aikana – eli viimeisimmän kokemusheittojen ja nykyisen setin välillä – töpätty taito saa ilmaisen 1 %:n lisäyksen. On totta, että opimme enemmän virheistämme kuin onnistumisistamme, ja tämä edustaa pohdintaa, jonka hahmo käy läpi tuhoisan epäonnistumisen jälkeen. Saman taidon useat töppäykset eivät kumuloidu. Tapauksessa, jossa töpättyä taitoa ollaan myös nostamassa kokemusheitolla, töppäyksestä saatu 1 % sovelletaan ennen kuin parannusheitto suoritetaan.
 
-Sama taito ei voi hyötyä useammasta kuin yhdestä Kokemusheitosta per pelikerta.
+Sama taito ei voi saada hyötyä useammasta kuin yhdestä kokemusheitosta per pelikerta.
 
 #### Intohimojen kasvattaminen
 
-Kuten kohdassa [Intohimot](0004_Alignment_and_Passions.md?id=passions) kuvataan, Intohimon arvoa voidaan kasvattaa Kokemusheittoilla samalla tavalla kuin taitoa. Jos pelitapahtumat tukevat sitä, pelinjohtaja voi jopa sallia Intohimon alentamisen käyttämällä Kokemusheittoa.
+Kuten kohdassa [Intohimot](0004_Alignment_and_Passions.md?id=passions) on kuvattu, Intohimon arvoa voidaan kasvattaa kokemusheitoilla samalla tavalla kuin taitoa. Jos peli tukee sitä, pelinjohtaja voi jopa sallia Intohimon pienentämisen kokemusheittoa käyttämällä.
 
-Esimerkiksi jatkuva hylkääminen vastakaikua vailla olevassa rakkaudessa voi lopulta kuluttaa jopa intohimoisimman rakastajan intohimon, erityisesti sellaisen, joka haluaa jatkaa suhteita ilman menneisyyden haamuja.
+Esimerkiksi jatkuva hylkääminen vastakaikua vailla olevassa rakkaudessa voi ajan myötä kuluttaa jopa kiihkeimmän rakastajan intohimon, erityisesti sellaisen, joka haluaa jatkaa suhdetta ilman menneisyyden haamujen vainoamista.
 
 #### Uusien taitojen oppiminen
 
-Jotkut hahmot saattavat haluta opiskella uusia Ammatillisia taitoja, joita heillä ei ole ollut mahdollisuutta oppia kulttuuristaan tai Luokastaan. Ennen kuin he voivat alkaa sijoittaa Kokemusheittoja, heidän on löydettävä tiedonlähde, josta oppia. Tämä voi olla niinkin arkista kuin ammattimainen opettaja, kuten killoissa, tai eksoottisempi koulutuksen lähde, kuten muinainen ja rapistuva harjoituskäärö.
+Jotkut hahmot saattavat haluta opiskella uusia Ammatillisia taitoja, joita heillä ei ole koskaan ollut mahdollisuutta oppia kulttuuristaan tai Luokastaan. Ennen kuin he voivat alkaa sijoittaa kokemusheittoja, heidän on ensin löydettävä tiedonlähde, josta oppia. Tämä voi olla niinkin arkista kuin ammatillinen opettaja, kuten killat tai järjestöt tarjoavat. Vaihtoehtoisesti se voi olla eksoottisempi koulutuksen lähde, kuten muinainen ja mureneva harjoituskäärö.
 
-Kun koulutuksen lähde on löytynyt, hahmon on käytettävä kokonainen kuukausi opiskeluun ja harjoitteluun saadakseen taidosta perustiedot (oppiminen perustasolle). Tämä maksaa 3 Kokemusheittoa sekä kaikki mahdolliset pelin sisäiset kulut opettajan palkkaamiseksi (jos sellainen on olemassa) sekä tarvittavien välineiden ja työkalujen ostamiseksi (tai vuokraamiseksi).
+Kun koulutuksen lähde on löydetty, hahmon on käytettävä kokonainen kuukausi opiskeluun ja harjoitteluun saadakseen taidosta perustiedot (opitaan Perustasolla). Tämä maksaa 3 kokemusheittoa sekä kaikki pelinsisäiset kustannukset, joita vaaditaan opettajan maksamiseen (jos sellainen on olemassa) ja mahdollisten tarvittavien laitteiden ja työkalujen ostamiseen (tai vuokraamiseen).
 
-#### Uusien Luokkakykien oppiminen
+#### Uusien luokkakykien oppiminen
 
-Olettaen, että hahmo täyttää vaaditun tason ja taitotason, yksi tai useampi Kokemusheitto voidaan käyttää Luokkakykien hankkimiseen tai parantamiseen. Tämä on yksityiskohtaisesti selitetty [Luvussa 3: Luokat](0003_Classes.md) kyseisten Luokka-kuvausten alla. Toisin kuin taidot, tämä ei yleensä vaadi tiedonlähteen löytämistä, sillä oletuksena on, että edistyneet tekniikat opitaan vaadittujen taitojen toistuvan käytön kautta. Kokemusheittojen hinta on yhtä suuri kuin hahmon nykyinen taso, ja monet kyvyt on lukittu, kunnes tietty taso on saavutettu.
+Olettaen, että hahmo täyttää vaaditun Arvon ja taitotason, jos niitä on, yksi tai useampi kokemusheitto voidaan käyttää luokkakykien saamiseen tai parantamiseen. Tämä on yksityiskohtaisesti esitetty kohdassa [Luku 3: Luokat](0003_Classes.md) kyseisten Luokkien kuvauksissa. Toisin kuin taidot, tämä ei yleensä vaadi tiedonlähteen etsimistä, josta kyseinen Kyky oppia, sillä oletuksena on edistyneiden tekniikoiden saavuttaminen vaadittujen taitojen toistuvalla käytöllä. Kokemusheittojen kustannus on yhtä suuri kuin hahmon nykyinen Arvo, ja monet Kyvyt ovat lukittuina, kunnes tietty Arvo on saavutettu.
 
 ---
 ## Putoaminen
 
-Putoamisessa kärsittyjen vaurioiden määrä riippuu pudotuksen etäisyydestä. Panssaripisteet (Armor Points) eivät vähennä putoamisvauriota, mutta putoavan hahmon tai olennon Vauriomuuttuja (Damage Modifier) vaikuttaa vauriokierroksiin.
+Putoamisessa kärsittävien vahinkojen määrä riippuu pudotuksen etäisyydestä. Panssaripisteet eivät vähennä putoamisvahinkoa, mutta putoavan hahmon tai olennon Vahinkomuuttaja sovelletaan vahinkoheittoihin.
 
-##### Putoamisetäisyys-taulukko
+##### Putoamisetäisyystaulukko
 
-| **Putoamiskorkeus** | **Vaurio** |
+| **Putoamiskorkeus** | **Vahinko** |
 | :-- | :-- |
-| 1,5 metriä tai vähemmän | Ei vauriota |
-| 2–4,5 metriä | 1d6 pistettä vauriota yhteen satunnaiseen paikkaan |
-| 5–9 metriä | 2d6 pistettä vauriota kahteen satunnaiseen paikkaan |
-| 9,5–13,5 metriä | 3d6 pistettä vauriota kolmeen satunnaiseen paikkaan |
-| 14–18 metriä | 4d6 pistettä vauriota neljään satunnaiseen paikkaan |
-| Jokaista 4,5 metriä kohden | +1d6 vauriota |
+| 5 jalkaa tai vähemmän | Ei vahinkoa |
+| 6–15 jalkaa | 1d6 pistettä vahinkoa yhteen satunnaiseen kohteeseen |
+| 16–30 jalkaa | 2d6 pistettä vahinkoa kahteen satunnaiseen kohteeseen |
+| 31–45 jalkaa | 3d6 pistettä vahinkoa kolmeen satunnaiseen kohteeseen |
+| 46–60 jalkaa | 4d6 pistettä vahinkoa neljään satunnaiseen kohteeseen |
+| Joka +15 jalkaa | +1d6 vahinkoa |
 
 #### Putoavat esineet
 
-Putoava esine aiheuttaa vauriota, joka perustuu sen SIZ-arvoon ja pudotusetäisyyteen. Esine aiheuttaa 1d6 vauriota jokaista 6 SIZ-pistettä kohden (tai niiden osaa), lisättynä Putoamisetäisyys-taulukon Vauriot-sarakkeen määrällä – sisältäen mahdolliset vähennykset pienemmän koon esineille.
+Putoava esine aiheuttaa vahinkoa, joka perustuu sen KOK:hon ja pudotuksen etäisyyteen. Esine aiheuttaa 1d6 vahinkoa jokaista 6 KOK-pistettä kohden (tai sen murto-osaa), plus vahinkomäärän, joka on yhtä suuri kuin Putoamisetäisyystaulukon Vahinko-sarake – mukaan lukien kaikki vähennykset pienemmän koon esineille.
 
 ---
-## Väsymys (Fatigue)
+## Väsymys
 
-Väsymys mittaa uupumusta ja sen asteittaisia vaikutuksia. Sitä käytetään monien eri asioiden, kuten rasittavan toiminnan ja sairauden heikentävien vaikutusten, seuraamiseen.
+Väsymys mittaa väsymystä ja sen asteittaisia vaikutuksia. Sitä käytetään monien eri asioiden seuraamiseen, rasittavasta toiminnasta sairauden heikentäviin vaikutuksiin.
 
-Ensisijainen tapa kerryttää väsymystä on harjoittaa jotain fyysistä toimintaa. Mitä raskaampaa harjoitus tai työ on, sitä nopeammin se väsyttää hahmoa. Pelinjohtajan harkinnan mukaan hahmojen on tehtävä sopiva taitotesti – joko Atletikka, Voima (Brawn) tai Kestävyys – välttääkseen väsymystason nousun.
+Ensisijainen tapa kerryttää väsymystä on osallistua jonkinlaiseen fyysiseen toimintaan. Mitä raskaampaa harjoitus tai työ on, sitä nopeammin se väsyttää hahmoa. Pelinjohtajan harkinnan mukaan hahmojen on tehtävä asianmukainen taitoheitto – joko Urheilu, Voima tai Kestävyys – vastustaakseen väsymystason nousemista.
 
-Jokainen epäonnistunut heitto kerryttää yhden väsymystason. Kuten [Väsymystasot-taulukossa](0007_Game_System.md?id=fatigue-levels-table) näkyy, jokainen väsymystaso tuo mukanaan rangaistuksia taitojen käyttöön, liikkumiseen, Aloitteeseen ja Toimintapisteisiin (Action Points). Tukehtuminen, Verenhukka ja muut asetuksesta riippuvat vaikutukset edistävät myös väsymyksen kertymistä.
+Jokainen epäonnistunut heitto kerryttää yhden väsymystason. Kuten [Väsymystasojen taulukossa](0007_Game_System.md?id=fatigue-levels-table) on osoitettu, jokainen väsymystaso tuo mukanaan rangaistuksia taitojen käytölle, liikkumiselle, Aloitteelle ja Toimintapisteille. Tukehtuminen, Verenhukka ja muut asetuksista riippuvat vaikutukset vaikuttavat myös väsymyksen kertymiseen.
 
-Useimmille hahmoille kaikenlainen toiminta muuttuu lähes mahdottomaksi, kun toimintakyvytön (Incapacitated) taso saavutetaan. Tässä vaiheessa hahmo on yhä tajuissaan, mutta kykenee vain epätoivoisimpaan toimintaan.
+Useimmille hahmoille kaikenlainen toiminta muuttuu lähes mahdottomaksi, kun Toimintakyvytön-taso saavutetaan. Tässä vaiheessa hahmo on yhä tajuissaan, mutta ei kykene muuhun kuin epätoivoisimpiin toimiin.
 
-Toimintakyvyttömyyden jälkeen hahmot eivät voi enää toimia lainkaan. Väsymystasot – Puoliksi tajuissaan, Kooma ja Kuollut – on yleensä varattu tukehtumisen, sairauden, verenhukan, nälkiintymisen, altistumisen ja vastaavien äärimmäisten vaikutusten mittaamiseen.
+Toimintakyvyttömän jälkeen hahmot eivät voi toimia lainkaan. Väsymystasot – Puoliksi tajuissaan, Koomassa ja Kuollut – on yleensä varattu mittaamaan tukehtumisen, sairauden, verenhukan, nälkiintymisen, altistumisen ja niin edelleen äärimmäisiä vaikutuksia.
 
 ### Väsymyksestä toipuminen
 
-Hahmot toipuvat väsymyksestä Parantumisnopeuden (Healing Rate) mukaan. Kunkin väsymystason toipumiseen tarvittava täydellinen lepo on Toipumisaika jaettuna hahmon Parantumisnopeudella.
+Hahmot toipuvat väsymyksestä Parantumisnopeutensa mukaan. Täydellinen lepo, joka tarvitaan toipumiseen jokaisesta kertyneestä väsymystasosta, on yhtä suuri kuin toipumisjakso jaettuna hahmon Parantumisnopeudella.
 
-Huomaa, että taulukko edustaa väsymyksestä toipumista fyysisen rasituksen jälkeen. Väsymyksen toipuminen voi olla paljon nopeampaa [Tukehtumisesta](0007_Game_System.md?id=f) toivuttaessa tai hitaampaa [Verenhukasta](0007_Game_System.md?id=blood-loss) toivuttaessa.
+Huomaa, että taulukko edustaa väsymyksen toipumista fyysisestä rasituksesta. Väsymyksen toipuminen voi olla paljon nopeampaa, kun toivutaan [Tukehtumisesta](0007_Game_System.md?id=asphyxiation) tai hitaampaa, kun toivutaan [Verenhukasta](0007_Game_System.md?id=blood-loss).
 
-### Väsymystasot-taulukko
+### Väsymystasojen taulukko
 
-| **Väsymystaso** | **Taitovaikeusaste** | **Liike** | **Aloite** | **Toimintapisteet** | **Toipumisaika** |
+| **Väsymystaso** | **Taitoluokka** | **Liikkuminen** | **Aloite** | **Toimintapisteet** | **Toipumisjakso** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Virkeä | – | – | Ei rangaistuksia | – | – |
 | Puuskuttava | Vaikea | Ei rangaistuksia | Ei rangaistuksia | Ei rangaistuksia | 15 minuuttia |
-| Väsynyt | Vaikea | -1,5 metriä | Ei rangaistuksia | Ei rangaistuksia | 3 tuntia |
-| Uupunut | Pelottava | -1,5 metriä | -2 | Ei rangaistuksia | 6 tuntia |
+| Väsynyt | Vaikea | -5 jalkaa | Ei rangaistuksia | Ei rangaistuksia | 3 tuntia |
+| Uupunut | Pelottava | -5 jalkaa | -2 | Ei rangaistuksia | 6 tuntia |
 | Uuvuksissa | Pelottava | Puolitettu | -4 | -1 | 12 tuntia |
-| Heikentynyt | Herkuleeninen | Puolitettu | -6 | -2 | 18 tuntia |
-| Toimintakyvytön | Herkuleeninen | Liikkumaton | -8 | -3 | 24 tuntia |
-| Puoliksi tajuissaan | Mahdoton | Ei toimia mahdollisia | Ei toimia mahdollisia | Ei toimia mahdollisia | 36 tuntia |
-| Kooma | Ei toimia mahdollisia | Ei toimia mahdollisia | Ei toimia mahdollisia | Ei toimia mahdollisia | 48 tuntia |
+| Heikentynyt | Hercules-taso | Puolitettu | -6 | -2 | 18 tuntia |
+| Toimintakyvytön | Hercules-taso | Liikkumaton | -8 | -3 | 24 tuntia |
+| Puoliksi tajuissaan | Toivoton | Ei toimintaa mahdollista | Ei toimintaa mahdollista | Ei toimintaa mahdollista | 36 tuntia |
+| Koomassa | Ei toimintaa mahdollista | Ei toimintaa mahdollista | Ei toimintaa mahdollista | Ei toimintaa mahdollista | 48 tuntia |
 | Kuollut | Kuollut | – | – | – | Ei koskaan |
 
 ---
 ## Tuli
 
-Tuli on aina vaaratekijä, kun sitä käytetään aseena tai se riistäytyy hallinnasta. Alla oleva [Tulivoimakkuus-taulukko](0007_Game_System.md?id=fire-intensity-table) antaa viisi eri intensiteettiä lämpövaurioille esimerkkeineen. Kierroksessa aiheutettu vaurio on annettu Vaurio-sarakkeessa. Koska ne ovat suhteellisen pieniä, intensiteetin 1 ja 2 lähteet soveltavat vaurionsa yhteen osumakohtaan, yleensä siihen, joka koskettaa lähdettä. Intensiteetin 3 ja 4 lähteet ovat suurempia ja soveltavat vauriota lähimpiin 1d4+1 osumakohtiin, mikä osoittaa säteilylämmön asteen. Intensiteetin 5 lähteet vaikuttavat kaikkiin osumakohtiin samanaikaisesti. Tuli voi sytyttää syttyviä materiaaleja. Jos niitä ei sammuteta välittömästi, tällaiset materiaalit syttyvät palamaan tulen intensiteetin osoittamassa kierrosmäärässä. Sytyttyään syttyvät materiaalit palavat, kunnes ne sammutetaan fyysisesti. Vaurio kohdistuu suoraan materiaalin osumapisteisiin (Hit Points), jättäen panssaripisteet huomiotta, ja kaikkeen alla olevaan lihaan. Jos tulta ei hallita, se leviää kierroksessa osumakohtien määrään, joka vastaa sen intensiteettiä.
+Tuli on aina vaaran lähde, kun sitä käytetään aseena tai se riistäytyy hallinnasta. Alla oleva [Tulivoimakkuustaulukko](0007_Game_System.md?id=fire-intensity-table) antaa viisi eri voimakkuutta lämpövaurioille esimerkkeineen. Kierroksessa aiheutettu vahinko on annettu Vahinko-sarakkeessa. Suhteellisen pienenä, Voimakkuuden 1 ja 2 lähteet kohdistavat vahinkonsa yhteen osumakohtaan, yleensä siihen, joka koskettaa lähdettä. Voimakkuuden 3 ja 4 lähteet ovat suurempia, kohdistaen vahinkoa lähimpiin 1d4+1 osumakohtiin, mikä osoittaa säteilylämmön astetta. Voimakkuuden 5 lähteet vaikuttavat kaikkiin osumakohtiin samanaikaisesti. Tuli voi sytyttää syttyviä materiaaleja. Jos niitä ei sammuteta välittömästi, tällaiset materiaalit syttyvät palamaan tulen Voimakkuuden osoittamassa kierrosmäärässä. Kun materiaalit ovat syttyneet, syttyvät materiaalit palavat, kunnes ne sammutetaan fyysisesti. Vahinko kohdistuu suoraan materiaalin Osumapisteisiin, ohittaen Panssaripisteet, sekä kaikkeen alla olevaan lihaan. Jos tulta ei hallita, se leviää kierroksessa useisiin osumakohtiin, joka vastaa sen Voimakkuutta.
 
-##### Tulivoimakkuus-taulukko
+##### Tulivoimakkuustaulukko
 
-| **Intensiteetti** | **Esimerkkejä** | **Aika syttyä** | **Vaurio** |
+| **Voimakkuus** | **Esimerkkejä** | **Syttymisaika** | **Vahinko** |
 | :-: | :-- | :-: | :-: |
 | 1 | Kynttilä | 1d4 | 1d2 |
 | 2 | Soihtu | 1d3 | 1d4 |
@@ -164,54 +164,52 @@ Tuli on aina vaaratekijä, kun sitä käytetään aseena tai se riistäytyy hall
 
 #### Tulipohjaiset hyökkäykset
  
-Tulipohjaisilla hyökkäyksillä on yleensä prosentuaalinen mahdollisuus sytyttää palavia materiaaleja, sillä ne ovat yleensä ohi yhdessä kierroksessa. Ellei toisin mainita, tämä mahdollisuus on heitetty vaurio x 5 % tulipohjaisille hyökkäyksille ja heitetty vaurio x 1 % sähköpohjaisille. Sytyttyään palavat materiaalit kärsivät 1d3-1 vauriota joka kierros, kunnes ne sammutetaan fyysisesti. Kohdista tämä vaurio suoraan materiaalin osumapisteisiin, ohittaen panssaripisteet, sekä kaikkeen alla olevaan lihaan. Olennon luonnollinen panssari tarjoaa kuitenkin normaalin suojan. Uhri voi yrittää sammuttaa liekit heittäytymällä maahan (prone) ja tekemällä onnistuneen Atletikka-heiton, joka vaatii Toimintapisteen ja jota voi yrittää joka vuorolla. Jos muut auttavat liekkien sammuttamisessa, heitto on yhden vaikeusasteen helpompi. Jos vaurioheiton tulos on nolla, tuli on sammunut itsestään kyseisessä kohdassa. Jokaisesta kohdasta, joka on sammunut itsestään, liekkien sammutusheitto on myös yhden vaikeusasteen helpompi.
+Tulipohjaisilla hyökkäyksillä on tyypillisesti prosentuaalinen mahdollisuus sytyttää syttyviä materiaaleja, koska ne päättyvät yleensä yhdessä kierroksessa. Ellei toisin mainita, tämä mahdollisuus on vahinko heitettynä x5 %, ja sähköpohjaisilla hyökkäyksillä vahinko heitettynä x1 %. Kun syttyvät materiaalit ovat syttyneet, ne palavat 1d3-1 vahinkoa jokaisella kierroksella, kunnes ne sammutetaan fyysisesti. Kohdista tämä vahinko suoraan materiaalin Osumapisteisiin, ohittaen Panssaripisteet, sekä kaikkeen alla olevaan lihaan. Olennon luonnollinen panssari tarjoaa kuitenkin normaalin suojansa. Uhri voi yrittää tukahduttaa liekit heittäytymällä maahan ja suorittamalla onnistuneen Urheilu-heiton, joka vaatii Toimintapisteen ja jota voi yrittää jokaisella vuorolla. Jos muut avustavat liekkien tukahduttamisessa jollain tavalla, heitto on yhden vaikeusasteen helpompi. Jos vahinkoheiton tulos on nolla vahinkoa, tuli on sammunut itsestään kyseisessä yhdessä kohteessa. Jokaisesta kohteesta, joka on sammunut itsestään, liekkien tukahduttamisheitto on myös yhden vaikeusasteen helpompi.
 
 ---
 ## Peliaika
 
-_Classic Fantasy Imperative_ -pelissä aika on tärkeä tekijä, pääasiassa määrittämään, mitä tapahtuu missäkin järjestyksessä, jotta pelimekaniikkoja sovelletaan silloin kun pitää. Muista, että pelin sisäinen aika ei yleensä vastaa pelaamiseen käytettyä aikaa. Joskus pelinjohtajan on tiivistettävä monen päivän tapahtumat yhteen lauseeseen, kuten "Teiltä kuluu viikko saavuttaa Greymyrin linna", kun taas toisinaan, erityisesti taistelun aikana, vain muutaman sekunnin kestävät tapahtumat voivat viedä useita minuutteja tai pidempään ratkaista.
+_Classic Fantasy Imperative_ -pelissä aika on tärkeä tekijä, lähinnä sen määrittämiseksi, mitä tapahtuu missä järjestyksessä, jotta pelimekaniikkoja sovelletaan silloin kun niiden kuuluu. Muista, että peliaika ei yleensä vastaa pelaamiseen käytettyä aikaa. Joskus pelinjohtajan on ehkä tiivistettävä monen päivän tapahtumat yhteen lauseeseen, kuten 'Teiltä menee viikko saavuttaa Castle Greymyr', kun taas toisinaan, erityisesti taistelun aikana, vain muutaman sekunnin tapahtumien ratkaiseminen voi viedä useita minuutteja tai kauemmin.
 
-Aiheeseen liittyen: Jotkut loitsut, esineet tai vaikutukset on merkitty käytettäviksi kerran tai useammin päivässä. Helppo tapa seurata tätä sen sijaan, että pidettäisiin lokia siitä, milloin kukin toiminto tapahtui, on olettaa, että kello nollautuu hahmon nukuttua täydet yöunet. Siten maagisen esineen käyttäminen kahdesti, kun se on käytettävissä kolmesti päivässä, palauttaa kaikki käytöt hahmon herätessä seuraavan kerran, vaikka sitä olisi käytetty juuri ennen nukkumaanmenoa edellisenä yönä.
+Aiheeseen liittyen: Jotkut loitsut, esineet tai vaikutukset on merkitty käytettäviksi kerran tai useammin päivässä. Helppo tapa seurata tätä sen sijaan, että pitäisi lokia siitä, milloin kukin tällainen toiminto tapahtui, on olettaa, että kello nollautuu sen jälkeen, kun hahmo on nukkunut täydet yöunet. Siksi taikaesineen käyttäminen kahdesti, kun se on käytettävissä kolmesti päivässä, palauttaa kaikki käyttökerrat, kun hahmo seuraavan kerran herää, vaikka sitä olisi käytetty juuri ennen kuin hahmo meni nukkumaan edellisenä iltana.
 
-Seuraavassa on peliajan tärkeitä jakoja:
+Seuraavassa ovat peliajan tärkeät erot:
 
 #### Taistelukierrokset
 
-Taistelukierros vastaa viittä sekuntia todellista aikaa. Niitä käytetään mittaamaan lyhyitä, kiihkeitä toiminnan purskeita, joiden suorittaminen vie hetken, tai mittaamaan erittäin yksityiskohtaisia toimintoja, jotka vaativat isku iskulta tapahtuvan ratkaisun. Esimerkiksi jahti metsästäjän ja saaliin välillä, jossa jokainen kierros määrittää takaa-ajon käänteet.
+Taistelukierros edustaa viittä sekuntia reaaliaikaa. Niitä käytetään lyhyiden, kiihkeiden toimintapurskeiden mittaamiseen, joiden suorittaminen vie hetken, tai erittäin yksityiskohtaisten toimintojen mittaamiseen, jotka vaativat isku iskulta tapahtuvan ratkaisun. Esimerkiksi takaa-ajo metsästäjän ja saaliin välillä, jossa jokainen kierros määrittää takaa-ajon käänteet.
 
 #### Tutkimuskierrokset
 
-Tutkimuskierros vastaa viittä minuuttia todellista aikaa ja sallii seurueen liikkua kolminkertaisella perusliikenopeudellaan (18 metriä ihmisille ja ihmisen kokoisille demi-ihmisille, 13,5 metriä pienemmille demi-ihmisroduille). Tutkimuskierroksia käytetään yleensä liikkumisen mittaamiseen luolastossa, jossa on tärkeää ylläpitää korkeaa varovaisuuden tasoa. Hahmot liikkuvat hitaasti, valppaina ansoille ja väijytyksille, ja yrittävät säilyttää varkauden. Tämä olettaa myös, että joku seurueessa tekee karttaa. Jos kukaan ei tee karttaa, Tutkimuskierroksia voidaan kohdella yhden minuutin mittaisina. Tutkimuskierrosten käyttö sallii Havaintoheittojen (Perception) tekemisen ilman rangaistusta, mutta kuten tavallista, muut rangaistukset voivat olla voimassa. Vihollisten on yhden vaikeusasteen vaikeampaa havaita seurue tutkimusnopeudella, ellet käytä valonlähteitä pimeillä alueilla (kuten soihdut tai lyhdyt), mikä paljastaisi sinut. Jos hahmot päättävät heittää varovaisuuden romukoppaan, voitte liikkua luolastossa käyttämällä Taistelukierroksia. Tällöin kuitenkin Havaintoheitot ovat yhden vaikeusasteen vaikeampia, eivätkä viholliset kärsi Havaintorangaistusta seurueen havaitsemisen suhteen. Huomaa, että kun käytetään taistelumattoa, joka paljastaa koko luolaston pelaajille, tai kun pelinjohtaja piirtää luolastoa heille, tulisi **aina** olettaa, että seurue tekee karttaa ja liikkuu siten tutkimusnopeudella.
+Tutkimuskierros edustaa viittä minuuttia reaaliaikaa ja sallii ryhmän liikkua kolminkertaisella Perusliikkumisnopeudellaan (60 jalkaa ihmisille ja ihmisen kokoisille puolihaltioille, 45 jalkaa pienemmille puoliroduille). Tutkimuskierroksia käytetään yleensä liikkumisen mittaamiseen luolastossa, jossa on tärkeää säilyttää korkea varovaisuus. Hahmot liikkuvat hitaasti, valppaina ansojen ja väijytysten varalta ja pyrkivät säilyttämään varkauden. Tässä oletetaan myös, että joku ryhmässä kartoittaa. Jos kukaan ei kartoita, Tutkimuskierroksia voidaan käsitellä yhden minuutin pituisina. Tutkimuskierrosten käyttö sallii Havainto-heittojen tekemisen ilman rangaistusta, kuitenkin, kuten normaalistikin, muut rangaistukset voivat olla voimassa. Vihollisen on yhden vaikeusasteen vaikeampi havaita ryhmää tutkimusnopeuksilla, ellet käytä valonlähteitä pimeissä alueissa (kuten soihtuja tai lyhtyjä), jotka paljastaisivat sinut. Jos hahmot päättävät heittää varovaisuuden tuuleen, voit liikkua luolastossa Taistelukierroksia käyttäen. Tässä tapauksessa Havainto-heitot ovat kuitenkin yhden vaikeusasteen vaikeampia, eivätkä viholliset kärsi Havainto-rangaistuksesta hahmojen havaitsemisen suhteen. Huomaa, että käytettäessä taistelualustaa, joka paljastaa koko luolaston pelaajille, tai kun pelinjohtaja piirtää luolastoa heille, tulee **aina** olettaa, että ryhmä kartoittaa ja liikkuu siten tutkimusnopeudella.
 
 #### Taitoaika
 
-Taitoaika vastaa muutamaa minuuttia muutamaan tuntiin ja sitä käytetään mittaamaan toimintoja, jotka eivät vaadi Taistelukierroksen yksityiskohtaista huomiota, mutta vaativat erityistä ponnistelua ja tuottavat määritellyn tuloksen. Lukon tiirikoiminen voi viedä viisi minuuttia, kun taas linnan muureja kiertävien vartijoiden tarkkailu voi vaatia useita tunteja. Molemmat ovat esimerkkejä Taitoajasta.
+Taitoaika edustaa muutamasta minuutista muutamaan tuntiin, ja sitä käytetään mittaamaan toimintoja, jotka eivät vaadi Taistelukierroksen yksityiskohtaista huomiota, mutta vaativat tiettyä ponnistelua, jolla on selkeä tulos. Lukon avaaminen saattaa viedä viisi minuuttia, kun taas linnan muureja vartioivien vartiojoukkojen tekemien kierrosten tarkkailu saattaa vaatia useita tunteja. Molemmat ovat esimerkkejä Taitoajasta.#### Narratiivinen aika
 
-#### Narratiivinen aika
-
-Tämä on aika, joka kuluu, kun pelinjohtaja kertoo pelaajille tai kun pelaajat keskustelevat. Ellei siihen ole erityistä syytä, suurin osa varsinaisesta roolipelaamisesta tapahtuu narratiivisessa ajassa. Roolipelatessa narratiivinen aika muistuttaa todellista aikaa, jossa keskustelu kestää yhtä kauan kuin sen käyminen vie. Jos pelikerta sisältää pitkää matkustamista tai toiminnan jaksoja, joissa tarkalla ajalla ei ole merkitystä, aika puristetaan suuresti muutamaan peliajan hetkeen.
+Tämä on se aika, jonka pelinjohtaja käyttää kertoessaan tapahtumista pelaajille tai jolloin pelaajat keskustelevat keskenään. Lukuun ottamatta erityisiä syitä, suurin osa varsinaisesta roolipelaamisesta tapahtuu narratiivisessa ajassa. Roolipelatessa narratiivinen aika muistuttaa reaaliaikaa, jossa keskusteluun kuluu yhtä kauan kuin sen näyttelemiseen. Jos pelisessio sisältää pitkää matkustamista tai toimintajaksoja, joissa tarkalla ajankululla ei ole merkitystä, aikaa tiivistetään huomattavasti muutamiin peliajan hetkiin.
 
 ### Lyhyet levot
 
-Lyhyt lepo vastaa noin 15 minuutin ajanjaksoa, jolloin seikkailijat pysähtyvät vetämään henkeä, tekemättä mitään muuta rasittavaa kuin lukemista, syömistä, juomista, rukoilemista ja haavojen hoitamista. Seurue päättää, kuinka kauan levätään, ja suorittaa sitten asiaankuuluvat 15 minuutin toiminnot, kunkin pelaajan suorittaessa yhden ennen seuraavaan siirtymistä. Seurueen päivän aikana tekemien Lyhyiden lepojen määrälle ei ole rajoitusta, ja tyypillisesti useita lepoja suoritetaan leirin pystyttämisen jälkeen, samoin kuin aamulla ennen matkaan lähtöä. Jokainen 15 minuutin Lepotoiminto on kuvattu alla ja se voidaan suorittaa useammin kuin kerran, ellei toisin mainita.
+Lyhyt lepo edustaa noin 15 minuutin jaksoa, jonka aikana seikkailijat pysähtyvät vetämään henkeä, tekemättä mitään lukemista, syömistä, juomista, rukoilemista ja haavojen hoitamista rasittavampaa. Seurue päättää, kuinka kauan levätään, ja suorittaa sitten asiaankuuluvat 15 minuutin toiminnot, kunkin pelaajan tehdessä yhden ennen siirtymistä seuraavaan. Seurueen päivän aikana pitämien lyhyiden lepojen määrää ei ole rajoitettu, ja yleensä useita lepoja suoritetaan leirin pystyttämisen jälkeen sekä aamulla ennen matkaan lähtöä. Jokainen 15 minuutin lepotoiminto on yksilöity alla, ja sen voi suorittaa useammin kuin kerran, ellei toisin mainita.
 
-- **Syö annos:** Tämä 15 minuutin Lepotoiminto voidaan suorittaa vain kerran päivässä, sillä annoksia seurataan päivittäisenä tavarana, ja se poistaa **minkä tahansa** yhden väsymystason, joka ei ole suurempi kuin Uuvuksissa, sekä tyydyttää nälän. Hahmot voivat vähentää väsymystään vielä yhdellä tasolla syömisen jälkeen, jos taso ei ole suurempi kuin Puuskuttava, johtuen siitä, että kyseessä on ei-rasittava toiminto.
-- **Rukoile jumaluutta tai tutki loitsukirjaa:** Palauta 1 Magiapiste jokaista 15 minuutin Lepotoimintoa kohden, joka on käytetty rukoukseen tai tutkimiseen. Hahmot voivat vähentää väsymystään yhdellä tasolla, jos taso ei ole suurempi kuin Puuskuttava, johtuen siitä, että kyseessä on ei-rasittava toiminto.
-- **Hoida haavoja:** Käytä 15 minuutin Lepotoiminto Ensiaputaidon (First Aid) käyttämiseen, tai neljä 15 minuutin lepotoimintoa (tunti) Parannustaitoa (Healing) käyttäen.
-- **Loitsi yksi tai useampi loitsu:** Mikä tahansa määrä loitsuja voidaan loitsia seurueen jäsenten parantamiseksi tai vahvistamiseksi 15 minuutin Lepotoiminnon aikana, rajoittuen käytettävissä oleviin Magiapisteisiin.
-- **Valmistele uusi loitsu:** Vähintään 8 tunnin unijakson jälkeen loitsija voi käyttää 15 minuutin Lepotoiminnon Arkaanin tai Diviinin loitsun muistamiseen tai unohtamiseen, [Loitsujen muistamisen](0009_Magic.md?id=memorizing-spells) rajoitusten mukaisesti.
-- **Dither (Vitkastelu):** Tämä on oletusarvoinen 15 minuutin Lepotoiminto, ellei muuta toimintoa valita. Hahmo vain tuhlaa 15 minuuttia tekemättä mitään hyödyllistä. Tämä Lepotoiminto suoritetaan tyypillisesti, jos muut seurueen jäsenet suorittavat vielä lepotoimintoja eikä sinulla ole mitään tekemistä. Hahmot voivat vähentää väsymystään yhdellä tasolla, jos taso ei ole suurempi kuin Puuskuttava, johtuen siitä, että kyseessä on ei-rasittava toiminto.
+- **Syö muona-annos:** Tämä 15 minuutin lepotoiminto voidaan suorittaa vain kerran päivässä, sillä muona-annoksia seurataan päiväkohtaisena tarvikkeena. Se poistaa **minkä tahansa** yhden uupumustason, joka ei ole pahempi kuin Uupunut, sekä sammuttaa nälän. Hahmot voivat vähentää uupumustaan vielä yhdellä tasolla syömisen jälkeen, jos taso ei ole korkeampi kuin Hengästynyt, koska tämä on ei-rasittava toiminto.
+- **Rukoile jumaluutta tai tutki loitsukirjaa:** Palauta 1 taikapiste jokaista rukoilemiseen tai opiskeluun käytettyä 15 minuutin lepotoimintoa kohden. Hahmot voivat vähentää uupumustaan yhdellä tasolla, jos taso ei ole korkeampi kuin Hengästynyt, koska tämä on ei-rasittava toiminto.
+- **Hoida haavoja:** Käytä 15 minuutin lepotoiminto Ensiapu-taitoon, tai neljä 15 minuutin lepotoimintoa (tunti) Parannus-taitoon.
+- **Loitsi yksi tai useampi loitsu:** 15 minuutin lepotoiminnon aikana voidaan loitsia mikä tahansa määrä loitsuja seurueen jäsenten parantamiseksi tai vahvistamiseksi, käytettävissä olevien taikapisteiden puitteissa.
+- **Valmistele uusi loitsu:** Vähintään 8 tunnin unijakson jälkeen loitsija voi käyttää 15 minuutin lepotoiminnon arkanaisen tai jumalallisen loitsun opetteluun tai unohtamiseen, noudattaen kohdassa [Loitsujen muistaminen](0009_Magic.md?id=memorizing-spells) määriteltyjä rajoituksia.
+- **Vitkastelu:** Tämä on oletusarvoinen 15 minuutin lepotoiminto, ellei muuta toimintoa valita. Hahmo yksinkertaisesti tuhlaa 15 minuuttia tekemättä mitään hyödyllistä. Tämä lepotoiminto suoritetaan yleensä, jos muut seurueen jäsenet suorittavat vielä lepotoimintoja eikä sinulla ole mitään tekemistä. Hahmot voivat vähentää uupumustaan yhdellä tasolla, jos taso ei ole korkeampi kuin Hengästynyt, koska tämä on ei-rasittava toiminto.
 
 ---
-## Osumakohdat (Hit Locations)
+## Osumakohdat
 
-Useimmat onnistuneet (ase)hyökkäykset osuvat tiettyyn Osumakohtaan. Tämä voidaan määrittää satunnaisesti tai tietyissä olosuhteissa valita Erikoisvaikutuksilla, kuten Valitse kohta (Choose Location). Laskeaksesi satunnaisesti, mihin kohtaan on osuttu, heitä 1d20 ja vertaa numeroa vastaavaan humanoidin tai olennon Osumakohtataulukkoon.
+Useimmat onnistuneet (ase)hyökkäykset osuvat tiettyyn osumakohtaan. Tämä voidaan määrittää satunnaisesti tai tietyissä olosuhteissa valita erikoisefekteillä, kuten Valitse kohta. Laskeaksesi satunnaisesti, mikä kohta on osunut, heitä 1d20 ja vertaa tulosta vastaavaan humanoidien tai olentojen osumakohtataulukkoon.
 
-Eläimillä ja hirviöillä on yleensä hieman erilaiset Osumakohtataulukot kuin humanoideilla niiden oman ainutlaatuisen fysiologian vuoksi. Nämä on listattu osana kunkin olennon kuvausta ja ovat yleensä hyödyllisiä vain pelinjohtajalle.
+Eläimillä ja hirviöillä on yleensä hieman erilaiset osumakohtataulukot kuin humanoideilla niiden ainutlaatuisen fysiologian vuoksi. Nämä on listattu osana kunkin olennon kuvausta, ja ne ovat yleensä vain pelinjohtajan hyödyksi.
 
-Humanoidien Osumakohtataulukko on toistettu tässä viitteen vuoksi.
+Humanoidien osumakohtataulukko on toistettu tässä helpottamaan viittaamista.
 
-### Humanoidien Osumakohdat
+### Humanoidien osumakohdat
 
 | **1d20** | **Osumakohta** |
 | :-: | :-- |
@@ -223,149 +221,149 @@ Humanoidien Osumakohtataulukko on toistettu tässä viitteen vuoksi.
 | 16-18 | Vasen käsi |
 | 19-20 | Pää |
 
-Huomaa, että jotkut hyökkäykset, erityisesti maagiset tai tiettyjen hirviöiden tuottamat (esimerkiksi punaisen lohikäärmeen tulinen hengitys), voivat osua useaan Osumakohtaan samanaikaisesti. Yksittäiset Osumakohdat voivat olla panssaroituja, joko puetun suojan tai olennon ulkopinnan luonnollisen sitkeyden vuoksi. Tämä on tärkeää, kun tarkastellaan alla olevia Vaurio- ja Haavatasot-kohtia.
+Huomaa, että jotkut hyökkäykset, erityisesti maagiset tai tiettyjen hirviöiden tuottamat (esimerkiksi punaisen lohikäärmeen tulinen hengitys), voivat osua useaan osumakohtaan samanaikaisesti. Yksittäiset osumakohdat voivat olla haarniskoituja, joko puetun suojavarustuksen tai olennon ulkopinnan luonnollisen kestävyyden vuoksi. Tämä on tärkeää huomioida alla käsiteltävien Vahinko- ja Haavataso-kohtien kohdalla.
 
-### Vaurio- ja Haavatasot
+### Vahinko- ja haavatasot
 
-Jos hyökkäys osuu onnistuneesti, se aiheuttaa vauriota aseen vaurioluokituksen mukaisesti (katso taulukkomerkit [Lähitaisteluaseille](0006_Money_and_Equipment.md?id=basic-melee-weapons) ja [Kaukotaisteluaseille](0006_Money_and_Equipment.md?id=basic-ranged-weapons) [Raha ja Varusteet](0006_Money_and_Equipment.md?) -luvussa). Esimerkiksi lyhytsiepo aiheuttaa 1d6 vauriota.
+Jos hyökkäys osuu onnistuneesti, se aiheuttaa vahinkoa aseen vahinkoluokituksen mukaisesti (katso [Lähitaisteluaseet](0006_Money_and_Equipment.md?id=basic-melee-weapons) ja [Etäisyysaseet](0006_Money_and_Equipment.md?id=basic-ranged-weapons) -taulukoita [Raha ja varusteet](0006_Money_and_Equipment.md) -luvussa). Lyhytmiekka esimerkiksi tekee 1d6 vahinkoa.
 
-Aseen tai hyökkäyksen heitettyä vauriota muokataan tietyillä ehdoilla seuraavassa järjestyksessä:
+Aseen tai hyökkäyksen heitettyä vahinkoa muokataan tietyillä ehdoilla seuraavassa järjestyksessä:
 
-- Sovella hyökkäävän hahmon Vauriomuuttujaa.
-- Muokkaa vauriota millä tahansa asetta parantavalla (tai vähentävällä) magialla.
-- Jos torjuttu, vähennä vauriota asianmukaisesti vertailevien asekokojen mukaan.
-- Jos Osumakohta on panssaroitu, vähennä vauriota Panssaripisteiden arvolla.
+- Sovella hyökkäystä tekevän hahmon Vahinkomuokkaajaa.
+- Muokkaa vahinkoa mahdollisilla asetta parantavilla (tai heikentävillä) taioilla.
+- Jos hyökkäys torjutaan, vähennä vahinkoa asianmukaisesti aseiden kokoerojen perusteella.
+- Jos osumakohta on haarniskoitu, vähennä vahinkoa Haarniskapisteiden arvolla.
 
-Jos hyökkäyksen aiheuttama vaurio on yli nollan, kyseinen Osumakohta kärsii tuon määrän vauriota, vaurion kokonaismäärän vähentyessä välittömästi kohdan Osumapisteistä. Huomioi, kuinka monta Osumapistettä kohdalla on jäljellä, ja mikä haavaluokka siitä seuraa.
+Jos hyökkäyksen aiheuttama vahinko on yli nollan, osumakohta kärsii kyseisen määrän vahinkoa, ja vahingon kokonaismäärä poistetaan välittömästi kohteen Kestopisteistä. Huomioi, kuinka monta Kestopistettä kohdassa on jäljellä, ja mikä haavaluokka siitä seuraa.
 
-- **Lievä haava:** Osumakohta on yhä positiivisissa Osumapisteissä.
-- **Vakava haava:** Osumakohta on laskettu nollaan Osumapisteeseen tai sen alle.
-- **Suuri haava:** Osumakohta on laskettu negatiiviseen lukemaan, joka on yhtä suuri tai suurempi kuin sen alkupisteet.
+- **Lievä haava:** Osumakohdalla on yhä positiivisia Kestopisteitä.
+- **Vakava haava:** Osumakohdan Kestopisteet laskevat nollaan tai sen alle.
+- **Suuri haava:** Osumakohdan Kestopisteet laskevat negatiiviseen arvoon, joka on yhtä suuri tai suurempi kuin sen alkupisteet.
 
-Käytä seuraavia sääntöjä, jos kohta saa Vakavan tai Suuren haavan. Huomaa, että Vakavia tai Suuria haavoja vaativat Kestävyys-tarkistukset testaavat ne vastustetussa heitossa alkuperäisen hyökkäysheiton arvoa vastaan. Tämä heijastaa erittäin taitavien sotureiden kykyä tehdä tappavampia iskuja. Kestävyysheittoja ei toisteta, ellei kohta haavoitu uudelleen.
+Käytä seuraavia sääntöjä, jos kohta saa Vakavan tai Suuren haavan. Huomaa, että Kestävyys-heittoja vaativat haavat testataan vastustettuna heittona alkuperäistä hyökkäysheittoa vastaan. Tämä heijastaa erittäin taitavien sotureiden kykyä tehdä kohtalokkaampia iskuja. Kestävyys-heittoja ei toisteta, ellei kyseiseen kohtaan osu uutta haavaa.
 
 #### Lievä haava
 
-Lievät haavat ovat viiltoja, naarmuja, ruhjeita ja nyrjähdyksiä. Ne sattuvat ja saattavat vuotaa verta, mutta eivät ole merkittäviä hidastamaan tai haittaamaan uhria.
+Lievät haavat ovat viiltoja, naarmuja, ruhjeita ja nyrjähdyksiä. Ne sattuvat ja saattavat vuotaa verta, mutta eivät ole tarpeeksi merkittäviä hidastaakseen tai haitatakseen uhria.
 
 #### Vakava haava
 
-Jos kohta lasketaan nollaan Osumapisteeseen tai alle, uhri saa Vakavan haavan. Kohta on pysyvästi arpeutunut, ja uhri ei voi hyökätä tai aloittaa loitsujen loitsimista (mutta voi yhä torjua tai väistää) seuraavan 1d3 vuoron aikana, johtuen kivun aiheuttamasta hämmennyksestä tai häiriötekijästä.
+Jos osumakohdan Kestopisteet laskevat nollaan tai sen alle, uhri saa Vakavan haavan. Kohta arpeutuu pysyvästi, eikä uhri voi hyökätä tai aloittaa loitsimista (mutta voi yhä torjua tai väistää) seuraavan 1d3 vuoron aikana, koska hän on tyrmistynyt tai haavan kivun häiritsemä.
 
-Hahmon, joka kärsii Vakavan haavan raajaan, on välittömästi tehtävä vastustettu heitto Kestävyydestään vihollisensa onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa raajan käyttökelvottomaksi tulemiseen, kunnes kohta on palautettu positiivisiin Osumapisteisiin. Jos kyseessä on jalka, uhri kaatuu maahan. Jos kyseessä on käsi, kaikki kädessä oleva putoaa, ellei esine ole kiinnitetty (käytä tässä tervettä järkeä).
+Hahmon, joka kärsii Vakavan haavan raajaan, on välittömästi suoritettava vastustettu Kestävyys-heitto vihollisen onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa raajan käyttökelvottomuuteen, kunnes kohta on palautettu positiivisiin Kestopisteisiin. Jos kyseessä on jalka, uhri kaatuu maahan. Jos kyseessä on käsi, kaikki pidelty putoaa, ellei esinettä ole sidottu kiinni (käytä tässä tervettä järkeä).
 
-Hahmon, joka kärsii Vakavan haavan vatsaan, rintaan tai päähän, on välittömästi tehtävä vastustettu testi Kestävyydestään vihollisensa onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa tajuttomuuteen minuuttimääräksi, joka vastaa Vakavan haavan aiheuttaneessa hyökkäyksessä kärsittyä vauriota. Ensiapu- tai Parannustaitoja voidaan käyttää auttamaan tajutonta uhria saamaan lisäparannusta Vakavasti haavoittuneeseen kohtaan.
+Hahmon, joka kärsii Vakavan haavan vatsaan, rintaan tai päähän, on välittömästi suoritettava vastustettu Kestävyys-testi vihollisen onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa tajuttomuuteen minuttimääräksi, joka on yhtä suuri kuin Vakavan haavan aiheuttaneen hyökkäyksen vahinko. Ensiapua tai Parannus-taitoja voidaan käyttää auttamaan tajutonta uhria saamaan lisäparannusta Vakavasti haavoittuneeseen kohtaan.
 
-Pelinjohtajan harkinnan mukaan, vaikka hahmo pysyisi toimintakykyisenä, kaikki kyseisen Osumakohdan käyttöä vaativat tehtävät kärsivät jatkuvasta yhden vaikeusasteen rangaistuksesta, kunnes vamma on vähennetty Lieväksi haavaksi.
+Pelinjohtajan harkinnan mukaan, vaikka hahmo pysyisikin toimintakykyisenä, kaikki kyseisen osumakohdan käyttöä vaativat tehtävät kärsivät pysyvästä yhden vaikeusasteen rangaistuksesta, kunnes vamma on parantunut Lieväksi haavaksi.
 
 #### Suuri haava
 
-Jos kohta lasketaan negatiiviseen lukemaan, joka on yhtä suuri tai suurempi kuin sen alkupisteet, hahmo saa Suuren haavan. Hahmo on välittömästi toimintakyvytön, eikä pysty jatkamaan taistelua. Raaja on irti, lävistetty, murskattu tai repeytynyt Suuren haavan seurauksena. Hahmo kaatuu maahan, fyysisesti toimintakyvyttömänä, ja hänen on välittömästi tehtävä vastustettu testi Kestävyydestään vihollisensa onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa tajuttomuuteen tuskasta. Jos irronnutta, puhkaistua tai repeytynyttä kohtaa ei hoideta minuuttimäärän kuluessa, joka on viisi kertaa hänen Parantumisnopeutensa, hahmo kuolee verenhukkaan ja shokkiin.
+Jos osumakohdan Kestopisteet laskevat negatiiviseen arvoon, joka on yhtä suuri tai suurempi kuin sen alkupisteet, hahmo saa Suuren haavan. Hahmo tulee välittömästi toimintakyvyttömäksi eikä kykene jatkamaan taistelua. Suuri haava katkaisee raajan, lävistää, murskaa tai repii sen irti. Hahmo kaatuu maahan, on fyysisesti toimintakyvytön ja hänen on välittömästi suoritettava vastustettu Kestävyys-testi vihollisen onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa tuskasta johtuvan tajuttomuuden. Jos irti leikattua, lävistettyä tai revittyä kohtaa ei hoideta minuutimäärän kuluessa, joka on viisi kertaa hahmon Parannusnopeus, hahmo kuolee verenhukkaan ja shokkiin.
 
-Vatsaan, rintaan tai päähän kohdistuvan Suuren haavan uhri vaipuu tajuttomaksi, täysin toimintakyvyttömäksi, ja hänen on välittömästi tehtävä vastustettu testi Kestävyydestään vihollisensa onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa välittömään ja raakaan kuolemaan (pään irtoaminen, kahtia halkeaminen, sydämen lävistys, raatelu jne.). Jos he selviävät ja kohtaa ei hoideta Taistelukierrosten kuluessa, joka on kaksi kertaa hahmon Parantumisnopeus, he kuolevat silti verenhukkaan ja shokkiin.
+Vatsaan, rintaan tai päähän kohdistuvan Suuren haavan uhri vaipuu tajuttomaksi, täysin toimintakyvyttömäksi, ja hänen on välittömästi suoritettava vastustettu Kestävyys-testi vihollisen onnistunutta hyökkäysheittoa vastaan. Epäonnistuminen johtaa välittömään ja raakaan kuolemaan (pään irtoaminen, kahtia halkeaminen, sydämen lävistyminen, kappaleiksi repeytyminen jne.). Jos uhri selviää hengissä, mutta kohtaa ei hoideta taistelukierrosten kuluessa, jotka vastaavat kahta kertaa hahmon Parannusnopeutta, uhri kuolee silti verenhukkaan ja shokkiin.
 
-Koska useimmat Suuret haavat vaativat jonkinlaista kirurgiaa tai suurta magiaa parantuakseen, on erittäin epätodennäköistä, että kärsijä toipuu Suuresta haavasta ajoissa palatakseen taisteluun. Käytettävissä olevasta hoidosta riippuen haavoittunut kohta jää mahdollisesti vammautuneeksi (katso [Parantuminen vammasta](0007_Game_System.md?id=healing-from-injury)).
+Koska useimmat Suuret haavat vaativat jonkinlaista kirurgiaa tai suurta taikuutta parantuakseen, on hyvin epätodennäköistä, että uhri toipuisi Suuresta haavasta ajoissa palatakseen taisteluun. Riippuen saatavilla olevasta hoidosta, haavoittunut kohta voi jäädä pysyvästi vammautuneeksi (katso [Parantuminen vammoista](0007_Game_System.md?id=healing-from-injury)).
 
 ### Verenhukka
 
-Ulkoisista ja sisäisistä haavoista johtuva verenhukka, joka yleensä saadaan taistelussa, voi kuluttaa hahmoa erittäin nopeasti. Sen vaikutuksia mitataan väsymystasojen kertymisellä, aivan kuten [Tukehtumisessa](0007_Game_System.md?id=asphyxiation). Hillitsemätön verenhukka johtaa yleensä kuolemaan ilman jonkinlaista lääketieteellistä apua. Toisin kuin Tukehtumisessa, vakavan verenhukan vaikutukset väsymykseen ovat pysyviä. Hahmo toipuu verenvuodon aiheuttamasta väsymyksestä yhden tason verran päivässä, alkaen päivänä, jolloin verenvuoto lakkaa.
+Ulkoisten ja sisäisten vammojen aiheuttama verenhukka, jota tavallisesti kohdataan taistelussa, voi uuvuttaa hahmon hyvin nopeasti. Sen vaikutuksia mitataan Uupumustasojen kertymisellä, aivan kuten [Tukehtumisessa](0007_Game_System.md?id=asphyxiation). Hallitsematon verenhukka johtaa yleensä kuolemaan ilman jonkinlaista lääkärin hoitoa. Toisin kuin tukehtumisessa, vakavan verenhukan vaikutukset uupumukseen ovat pysyviä. Hahmo palauttaa verenvuodosta menetetyn uupumuksen nopeudella yksi taso päivässä, alkaen päivästä, jolloin verenvuoto lakkaa.
 
 #### Sankarilliset viimeiset teot
 
-Erityistapauksissa, joissa avainhahmot saavat Suuren haavan, pelinjohtaja saattaa sallia sankarillisen viimeisen teon – kuten yhden viimeisen loitsun sylkäisemisen, yrittämisen kaataa surmaajansa, pois ryömimisen piiloutumaan tai haavansa sitomisen. Heidän on oltava toimintakykyisiä kyseiseen tekoon soveltuvien raajojen osalta ja käytettävä Onnenpistettä (Luck Point). He saavat yhden tilaisuuden yrittää tekoaan, ja sen jälkeen luhistuvat välittömästi tajuttomuuteen ja todennäköiseen kuolemaan.
+Erityistapauksissa, joissa tärkeät hahmot saavat Suuren haavan, pelinjohtaja saattaa sallia sankarillisen viimeisen teon – kuten yhden viimeisen loitsun lausumisen, yrityksen kaataa surmaajansa, pois ryömimisen piiloon tai oman haavansa sitomisen. Hahmolla on oltava toimivat raajat teon suorittamiseen, ja hänen on käytettävä Onnenpiste. He saavat yhden mahdollisuuden yrittää tekoaan, minkä jälkeen he välittömästi luhistuvat tajuttomina, ja todennäköisesti kuolevat.
 
 ---
-## Parantuminen vammasta
+## Parantuminen vammoista
 
-Luonnollinen parantuminen haavoista ja vammoista perustuu hahmon Parantumisnopeuteen (Healing Rate). Parantumisnopeus määrittää, kuinka monta Osumapistettä toipuu kohdassa ajan kuluessa riippuen vamman luonteesta:
+Luonnollinen haavojen ja vammojen parantuminen perustuu hahmon Parannusnopeuteen. Parannusnopeus määrittää, kuinka monta Kestopistettä kohdassa palautuu ajan myötä vamman luonteesta riippuen:
 
-- Lievät haavat: Päivinä
-- Vakavat haavat: Viikkoina
-- Suuret haavat: Kuukausina
+- Lievät haavat: Päiviä
+- Vakavat haavat: Viikkoja
+- Suuret haavat: Kuukausia
 
-Siten hahmo, jonka Parantumisnopeus on 3 ja joka kärsii vaurion, joka vie hänet –3:een Osumakohta-arvossa (Vakava haava), parantuu luonnollisesti 3 Osumapisteen viikkovauhtia, kunnes haava on nollan yläpuolella, ja parantuu sitten 3 Osumapisteen päivävauhtia, kunnes on täysin toipunut.
+Täten hahmo, jonka Parannusnopeus on 3 ja joka kärsii vahinkoa, joka laskee hänet –3:een osumakohdassa (Vakava haava), paranee luonnollisesti 3 Kestopistettä viikossa, kunnes haava on nollan yläpuolella, ja sen jälkeen 3 Kestopistettä päivässä, kunnes hän on täysin toipunut.
 
 Luonnollisella parantumisella on tiettyjä rajoituksia:
 
-- Parantuva hahmo ei voi harjoittaa rasittavaa toimintaa: muuten Parantumisnopeus vähenee 1d3:lla. Siten jopa Lievästä haavasta toipuva hahmo voisi huomata edistymisensä pysähtyvän, jos hän päättää harjoittaa fyysisiä tehtäviä, jotka voisivat pahentaa vammoja.
-- Luonnollinen parantuminen ei ala parantaa Suurta haavaa, ennen kuin uhria on hoidettu onnistuneesti [Parannus-taidon](0005_Skills.md?id=healing-intpow) (Healing) avulla tai loitsimalla jokin Cure Wounds -loitsu. Ei-raajoja irrottavat Suuret haavat, joita ei hoideta päivien kuluessa, jotka vastaavat yhtä kahdeskymmenesosaa Parannustaidosta, jäävät vammautuneiksi, mikä vähentää pysyvästi kohdan Osumapisteitä.
+- Paraneva hahmo ei voi harjoittaa rasittavaa toimintaa: muuten Parannusnopeus laskee 1d3:lla. Täten jopa Lievästä haavasta toipuva hahmo voi huomata edistymisensä pysähtyvän, jos hän päättää ryhtyä fyysisiin tehtäviin, jotka saattavat pahentaa vammoja.
+- Luonnollinen parantuminen ei ala Suuren haavan kohdalla ennen kuin uhria on hoidettu onnistuneesti [Parannus](0005_Skills.md?id=healing-intpow)-taidolla tai loitsimalla yksi Paranna haavat -loitsuista. Suuret haavat, jotka eivät johda raajan menetykseen ja joita ei hoideta päivien kuluessa (aika on yksi kahdeskymmenesosa Parannus-taidon arvosta), muuttuvat vammautuneiksi, mikä vähentää pysyvästi kyseisen kohdan Kestopisteitä.
 
 ### Maaginen parantaminen
 
-Jotkin magiat voivat parantaa uhrin kärsimiä haavoja. Kuitenkin on olemassa erityisiä rajoituksia sille, minkä tasoisia haavoja kukin loitsu voi hoitaa. Esimerkiksi Diviini magialoitsu Cure Minor Wounds on tehokkain Lieviin haavoihin, kuten sen nimi viittaa, kun taas loitsu Cure Serious Wounds on tehokkain sekä Lieviin että Vakaviin haavoihin. Vain voimakkain magia voi välittömästi kääntää Suuren haavan traumaattiset vammat.
+Jotkin taiat voivat parantaa uhrin kärsimiä haavoja. On kuitenkin olemassa erityisiä rajoituksia sille, minkä tasoisia haavoja kukin loitsu voi hoitaa. Esimerkiksi jumalallinen loitsu Paranna lievät haavat on tehokkain Lieviin haavoihin, kuten sen nimi antaa ymmärtää, kun taas loitsu Paranna vakavat haavat on tehokkain sekä Lieviin että Vakaviin haavoihin. Vain mahtavimmat taiat voivat välittömästi kumota Suuren haavan traumaattiset vammat.
 
-Ei väliä kuinka pieni parannusloitsu on, sen käyttö riittää aina vakauttamaan minkä tahansa tyyppisen haavan, estäen verenvuodon ja välittömän kuoleman, vaikka se ei varsinaisesti parantaisikaan taustalla olevaa vammaa. Huomaa, että tämä koskee vain karkeita fyysisiä traumoja, ei tukehtumisen, myrkyn ja vastaavien aiheuttamia tiloja.
+Riippumatta siitä, kuinka vähäinen parannusloitsu on, sen käyttö riittää aina vakauttamaan minkä tahansa tyyppisen haavan, estäen verenvuodon ja välittömän kuoleman, vaikka se ei varsinaisesti parantaisikaan itse vammaa. Huomaa, että tämä koskee vain suurta fyysistä traumaa, ei tukehtumisen, myrkyn tai vastaavien aiheuttamia tiloja.
 
 ---
-## Onnenpisteet (Luck Points)
+## Onnenpisteet
 
-Onnenpisteet auttavat erottamaan sankarit massasta. Ne edustavat hahmon kykyä mahdollisesti kääntää epäonnistuminen onnistumiseksi ja jopa huijata kuolemaa.
+Onnenpisteet auttavat erottamaan sankarit rivimiehistä. Ne edustavat hahmon kykyä kääntää epäonnistuminen onnistumiseksi ja jopa huijata kuolemaa.
 
-Saavutettuaan tason 2, ja jokaisen tason sen jälkeen, kaikki hahmot saavat yhden bonusonnenpisteen. Tämä simuloi jossain määrin lisäosumapisteiden saantia tasopohjaisissa peleissä, mahdollistaen korkeamman tason hahmojen paremman selviytymisen lohikäärmeitä, demoneita, paholaisia jne. vastaan, ilman että heidän tarvitsee kestää enempää kuritusta kuin afrikkalainen pensasnorsu.
+Saavuttaessaan 2. tason ja jokaisen tason sen jälkeen, kaikki hahmot saavat bonuksena Onnenpisteen. Tämä simuloi jossain määrin lisäKestopisteiden saamista tasopohjaisissa peleissä, sallien korkeamman tason hahmojen selviytyä paremmin lohikäärmeitä, demoneita, paholaisia ja muita vastaavia vastaan ilman, että heidän tarvitsee kestää enempää kuritusta kuin afrikkalainen norsu.
 
-Onnenpisteitä voidaan käyttää pelin aikana ja, seuraavan pelikerran alussa, ne täyttyvät normaaliin arvoonsa.
+Onnenpisteitä voi käyttää pelin aikana, ja seuraavan istunnon alussa ne täydentyvät normaalitasolleen.
 
 #### Onnenpisteiden käyttö
 
-Onnenpisteitä voidaan käyttää monin tavoin. Vain yhtä Onnenpistettä voidaan käyttää tukemaan tiettyä toimintoa. Onnenpisteitä ei voi käyttää Kokemus- tai Harjoitteluheittoihin. Jokainen seuraavista vaihtoehdoista maksaa yhden Onnenpisteen.
+Onnenpisteitä voi käyttää monella eri tavalla. Vain yhtä Onnenpistettä voi käyttää tukemaan tiettyä toimintoa. Onnenpisteitä ei voi käyttää kokemus- tai harjoitteluheittoihin. Jokainen seuraavista vaihtoehdoista maksaa yhden Onnenpisteen.
 
-#### Kohtalon huijaaminen (Cheat Fate)
+#### Kohtalon huijaaminen
 
-Hahmot voivat käyttää Onnenpisteen heittääkseen uudelleen tai vaihtaakseen (esimerkiksi 75 muuttuisi 57:ksi) minkä tahansa heittämänsä nopanheiton. Tämä voi olla taitotesti, vaurioheitto tai mikä tahansa muu, jolla on vaikutusta. Hahmot voivat jopa pakottaa vastustajan heittämään uudelleen heitä vastaan tehdyn hyökkäys- tai vaurioheiton.
+Hahmot voivat käyttää Onnenpisteen heittääkseen uudelleen tai vaihtaakseen (esimerkiksi 75 muuttuisi luvuksi 57) minkä tahansa tekemänsä nopanheiton. Tämä voi olla taitotarkistus, vahinkoheitto tai mikä tahansa muu, jolla on jotain vaikutusta. Hahmot voivat jopa pakottaa vastustajan heittämään uudelleen heitä vastaan tehdyn hyökkäys- tai vahinkoheiton.
 
-#### Epätoivoinen ponnistus (Desperate Effort)
+#### Epätoivoinen ponnistus
 
-Jos hahmo on kuluttanut Toimintapisteensä taistelun aikana ja tarvitsee viimeisen purskeen epätoivoista energiaa välttääkseen kenties sotkuisen lopun, he voivat käyttää Onnenpisteen saadakseen ylimääräisen Toimintapisteen.
+Jos hahmo on kuluttanut toimintopisteensä taistelun aikana ja tarvitsee viimeisen purkauksen epätoivoista energiaa ehkä välttääkseen sotkuisen lopun, hän voi käyttää Onnenpisteen saadakseen lisätoimintopisteen.
 
-#### Vaurion lieventäminen (Mitigate Damage)
+#### Vahingon lieventäminen
 
-Hahmo, joka kärsii Suuren haavan, voi käyttää Onnenpisteen alentaakseen vamman Vakavaksi haavaksi. Tämä vähentää kärsityn vaurion yhteen Osumapisteeseen vähemmän kuin mitä Suuren haavan aiheuttamiseen vaadittaisiin.
+Hahmo, joka kärsii Suuren haavan, voi käyttää Onnenpisteen alentaakseen vamman Vakavaksi haavaksi. Tämä vähentää aiheutuneen vahingon yhteen Kestopisteeseen alle sen, mikä olisi vaadittu Suuren haavan aiheuttamiseen.
 
 ---
-## Ansot (Traps)
+## Ansat
 
-Ansot ovat jokaisessa kulttuurissa yleisiä laitteita, eläinten pyydystämiseen käytettävistä kuopista aina ikuisuuden hautoja vartioiviin kuolemanansoihin. Nämä laitteet on rakennettu useisiin eri tarkoituksiin, joista jokainen on erityisesti räätälöity hälytyksen nostamiseen, tunkeilijoiden vangitsemiseen tai varkaiden vammauttamiseen ja tappamiseen.
+Ansat ovat kaikkialla käytettyjä laitteita, joita jokainen kulttuuri hyödyntää, aina eläinten pyydystämiseen kaivetuista kuopista ikuisesti hautoja vartioiviin kuolemanansoihin. Nämä laitteet on rakennettu monenlaisiin tarkoituksiin, joista jokainen on räätälöity hälytyksen nostamiseen, tunkeilijoiden vangitsemiseen tai varkaiden silpomiseen ja tappamiseen.
 
-Ansojen rakentaminen edellyttää, että rakentaja osaa joko Mekanismit- (Mechanisms) tai Insinööritaidon (Engineering). Pienet ansat, kuten karhunraudat tai lukkoansat, vaativat Mekanismit, kun taas laajamittaiset rakennelmat, kuten piikkikuopat tai vierivät lohkareet, vaativat Insinööritaitoa.
+Ansojen rakentaminen vaatii rakentajalta joko Mekanismit- tai Insinööritaito-taitoa. Pienet ansat, kuten karhunraudat tai ansalukot, vaativat Mekanismit-taitoa, kun taas laajamittaiset rakennelmat, kuten terävillä piikeillä varustetut kuopat tai vierivät kivenlohkareet, tarvitsevat Insinööritaitoa.
 
-Pätevän käsityöläisen palkkaamisen lisäksi ansoilla on usein erittäin kalliita komponentteja tai manuaalisen työn kustannuksia. Yleisenä ohjeena hälyttimet maksavat luojan taitopisteiden verran kuparikolikoissa, vangitsevat ansat saman hopeassa ja kuolemanansat vaativat maksun kullassa.
+Pätevän käsityöläisen palkkaamisen lisäksi ansoilla on usein erittäin kalliita komponentteja tai ne vaativat fyysistä työtä. Yleisenä ohjeena: hälyttimet maksavat luojan taidon verran kuparikolikoissa, vangitsevat ansat saman verran hopeassa ja kuolemanansat vaativat maksun kullassa.
 
-Kaikilla ansoilla on vaikeusaste (Difficulty), joka edustaa sitä, kuinka vaikeaa on havaita, purkaa tai välttää ne. Tätä arvoa kohdellaan niiden taitona, kun niitä vastustetaan vastustetussa heitossa.
+Kaikilla ansoilla on vaikeusluokitus, joka edustaa sitä, kuinka vaikeaa se on havaita, purkaa tai välttää. Tätä arvoa kohdellaan sen taitona, kun sitä vastustetaan vastustetussa heitossa.
 
-Huolimatta monista tarinankertojien kertomista viihdyttävistä tarinoista, ansat – erityisesti tappamiseen tarkoitetut – tarjoavat harvoin keinon välttää tai kääntää niiden vaikutukset taitavasti, kun ne on asetettu liikkeelle. Ilman magiaa tai hyvää onnea kuolemanansaan jääneet yleensä antautuvat sen erittäin tehokkaan tarkoituksen edessä. Lyhyesti sanottuna, niitä ei ole tarkoitettu selviydyttäviksi. Ellei ansalla ole ovelaa rakennetta tai kyseessä ole jonkinlainen pysyvä magialoitsu, se on nollattava manuaalisesti sen laukaisemisen jälkeen.
+Huolimatta monista viihdyttävistä tarinoista, joita tarinankertojat kertovat, ansoilla – erityisesti niillä, joiden tarkoitus on tappaa – on harvoin keinoa älykkäästi välttää tai kääntää niiden vaikutukset sen jälkeen, kun ne on pantu liikkeelle. Ilman taikuutta tai hyvää onnea kuolemanansaan jääneet yleensä antautuvat sen erittäin tehokkaalle tarkoitukselle. Lyhyesti sanottuna, niiden ei ole tarkoitus olla selviydyttävissä. Ellei ansassa ole jotain viekasta suunnittelua tai kyseessä ole jonkinlainen kestävä maaginen loitsu, sen laukaisemisen jälkeen se on palautettava alkuasentoon käsin.
 
-### Ansojen piirteet
+### Ansojen ominaisuudet
 
-Ansoja kuvataan seuraavilla piirteillä.
+Ansat kuvataan seuraavien ominaisuuksien avulla.
 
-#### Tarkoitus (Purpose)
+#### Tarkoitus
 
 Ansan tarkoitus. On olemassa neljä päätyyppiä:
 
-- **Hälytin:** Ansa lähettää hiljaisen tai kuuluvan signaalin siitä, että se on laukaistu.
-- **Vangitseva:** Ansa on suunniteltu vangitsemaan kuka tahansa, joka laukaisee sen tai astuu siihen.
-- **Vammauttava:** Ansan tarkoituksena on vahingoittaa kriittisesti sitä, joka laukaisee sen.
-- **Kuolema:** Ansan tarkoituksena on tappaa ne, jotka aktivoivat sen tappavat laitteet.
+- **Hälytys:** Ansa lähettää hiljaisen tai kuuluvan signaalin siitä, että se on lauennut.
+- **Vangitseminen:** Ansa on suunniteltu vangitsemaan kuka tahansa, joka laukaisee sen tai astuu siihen.
+- **Silpominen:** Ansan tarkoituksena on vahingoittaa kriittisesti sitä, joka laukaisee sen.
+- **Kuolema:** Ansan tarkoituksena on tappaa ne, jotka aktivoivat sen kohtalokkaat laitteet.
 
-#### Laukaisin (Trigger)
+#### Laukaisin
 
 Tapa, jolla ansa laukeaa.
 
-#### Vaikeusaste (Difficulty)
+#### Vaikeus
 
-Ansan haasteluokitus, joka on yhtä suuri kuin sen luoneen Mekanismit- tai Insinööritaidon arvo. Esimerkiksi aarrearkun pohjaan käsityöläisen toimesta, jonka Mekanismit-taito on 70 %, rakennettu viikatteinen teräansa antaa ansalle 70 % vaikeusasteen. Ansa käyttää tämän jälkeen tätä arvoa vastustetuissa heitoissa nähdäkseen, voidaanko terä havaita, väistää tai purkaa.
+Ansan haasteluokitus, joka on yhtä suuri kuin Mekanismit- tai Insinööritaito-arvo, jolla se luotiin. Esimerkiksi aarrearkun pohjaan rakennettu viiltoteräansa, jonka on tehnyt käsityöläinen, jolla on Mekanismit 70%, antaa ansalle 70% vaikeustason. Ansa käyttäisi tämän jälkeen tätä arvoa vastustetuissa heitoissa nähdäkseen, voidaanko terä havaita, väistää tai purkaa.
 
-#### Vastustus (Resistance)
+#### Vastustus
 
-Kuinka ansasta selviydytään – tyypillisesti käyttämällä Voimaa (Brawn), Väistämistä (Evade) tai kilpeä sisältävää taistelutaitoa torjumalla. Vastustus heitetään, kun ansa laukeaa.
+Kuinka ansaa vastustetaan – yleensä käyttämällä Voimaa, Väistöä tai taisteluaitoa, johon kuuluu kilpi. Vastustus heitetään, kun ansa laukeaa.
 
-#### Vaikutus (Effect)
+#### Vaikutus
 
-Mitä tapahtuu, kun ansa laukeaa ja uhri(t) eivät onnistu vastustamaan? Yleensä tämä johtaa vastustajien hälyttämiseen, jos kyseessä on hälytin, tai uhrien vangitsemiseen, jos se on suunniteltu vangitsevaksi. Vammauttavat ansat ja kuolemanansat tietysti vahingoittavat uhria, vaikka jotkut kuolemanansat käyttävät muita keinoja kuin suoraa vauriota haitan aiheuttamiseen, kuten hukkumista tai myrkkyä. Liian tappavien ansojen rajoittamiseksi useimpien mekaanisten laitteiden aiheuttamaa vauriota rajoittaa niiden luojan taito. Toiset, kuten myrkkyä uhriin kohdistavat ansat, eivät kuitenkaan huomioi rakentajan todellista taitoa. Tämä tasapainotetaan yleensä käytetyn myrkyn hinnalla. Muu poikkeus tästä on Kuoppa-ansa, jossa vaurio perustuu yksinkertaisesti kuopan syvyyteen. Näissä tapauksissa rakentajan taitoa käytetään määrittämään mahdollisuus havaita, väistää ja purkaa ansa; vaurio määräytyy myrkkytyypin tai pudotusetäisyyden mukaan, mikäli soveltuu. Voima on merkitty niille ansoille, jotka ampuvat ammuksia, jotka voidaan torjua.
+Mitä tapahtuu, kun ansa laukeaa ja uhri(t) epäonnistuvat vastustamisessa? Yleensä tämä johtaa vastustajien hälyttämiseen, jos kyseessä on hälytys, tai uhrien vangitsemiseen, jos se on suunniteltu vangitsemaan. Silpomis- ja kuolemanansat tietenkin vahingoittavat uhria, vaikka jotkut kuolemanansat hyödyntävät muita keinoja kuin suoraa vahinkoa haitan aiheuttamiseen, kuten hukkumista tai myrkkyä. Liian kohtalokkaiden ansojen rajoittamiseksi useimpien mekaanisten laitteiden aiheuttama vahinko on rajoitettu sen luojan taidon mukaan. Toiset, kuten ansat, jotka altistavat uhrin myrkylle, eivät kuitenkaan ota huomioon tekijän todellista taitoa. Tämä tasapainotetaan yleensä käytetyn myrkyn hinnalla. Toinen poikkeus tähän on kuoppa-ansa, jossa vahinko perustuu yksinkertaisesti kuopan syvyyteen. Näissä tapauksissa tekijän taitoa käytetään määrittämään mahdollisuus havaita, väistää ja purkaa ansa; vahinko määritetään myrkkylaadun tai pudotusetäisyyden mukaan, tarpeen mukaan. Voima on huomioitu niille ansoille, jotka ampuvat torjuttavia ammuksia.
 
-##### Kuolemanansan vauriomaksimit
+##### Kuolemanansan vahinkorajat
 
-| **Tekijän taito** | **Vaurio** | **Koko/Voima** |
+| **Tekijän taito** | **Vahinko** | **Koko/Voima** |
 | :-: | :-: | :-: |
 | 1-10% | 1d2 | Pieni |
 | 11-20% | 1d4 | Pieni |
@@ -375,46 +373,44 @@ Mitä tapahtuu, kun ansa laukeaa ja uhri(t) eivät onnistu vastustamaan? Yleens�
 | 51-60% | 2d6 | Suuri |
 | 61-70% | 1d8+1d6 | Valtava |
 | 71-80% | 2d8 | Valtava |
-| 81-90% | 1d10+1d8 | Valtava (Enormous) |
-| 91-100% | 2d10 | Valtava (Enormous) |
+| 81-90% | 1d10+1d8 | Enormi |
+| 91-100% | 2d10 | Enormi |
 
-Vaurio voi vaikuttaa useisiin satunnaisiin Osumakohtiin, jolloin jokainen lisäkohta vähentää vauriota yhdellä luokalla Kuolemanansan vauriomaksimit -taulukossa. Esimerkiksi ansojen suunnittelija, jolla on 50 % taito, voisi suunnitella ansan, joka tekee 1d10 vauriota yhteen kohtaan, 1d8 vauriota 1d2 Osumakohtaan, 1d6 vauriota 1d3 kohtaan ja niin edelleen. Mahdollisten kohtien määrä asetetaan ansaa suunniteltaessa eikä sitä voi muuttaa. Koska lisäosumakohtien määrä on satunnainen, on olemassa mahdollisuus, että vauriota aiheutuu kokonaisuudessaan vähemmän.
+Vahinko voi vaikuttaa useisiin satunnaisiin osumakohtiin, jolloin jokainen lisäkohta vähentää vahinkoa yhdellä tasolla Kuolemanansan vahinkorajojen taulukossa. Esimerkiksi ansasuunnittelija, jonka taito on 50%, voisi suunnitella ansan, joka tekee 1d10 vahinkoa yhteen kohtaan, 1d8 vahinkoa 1d2 osumakohtaan, 1d6 vahinkoa 1d3 kohtaan ja niin edelleen. Mahdollisten kohtien määrä asetetaan ansaa suunniteltaessa, eikä sitä voi muuttaa. Koska mahdollisten lisäosumakohtien määrä on satunnainen, on mahdollista, että kokonaisvahinkoa aiheutuu vähemmän.
 
 ### Esimerkkejä ansoista
 
-#### Kuoppa (Pitfall)
+#### Kuoppa
 
-Kuoppa on arkkityyppinen ansa, jota jokainen kulttuuri käyttää. Se voi olla muodoltaan yksinkertainen kaivettu kuoppa, joka on peitetty oksilla ja lehdillä, tai se voi saavuttaa kiviseinäisten altaiden hienostuneisuuden saranoidun valelattian alla, joka on vastapainotettu heilahtamaan takaisin paikoilleen uhrin pudottua sisään.
+Kuoppa on arkkityyppinen ansa, jota jokainen kulttuuri käyttää. Se voi olla muodoltaan yksinkertainen kaivettu kuoppa, joka on peitetty oksilla ja lehdillä, tai se voi olla hienostuneempi, saranoiduilla valelattioilla varustettu kiviseinäinen kuoppa, joka on vastapainotettu kääntymään takaisin paikalleen uhrin pudottua sisään.
 
-Kuoppien ei tarvitse olla erityisen syviä. Jos ne on suunniteltu vangitsemiseen, yksinkertainen amforan tai hummerimerran muoto estää kiipeämällä pakenemisen, kuten myös seinät, jotka on taltattu sileiksi tai tehty murenevasta materiaalista, joka antaa periksi hahmon painon alla. Kuopat, jotka on tarkoitettu tappamiseen, vuoraavat yleensä pohjan kymmenillä paaluilla, jotka ovat lähekkäin niin, että putoava hahmo lävistyy väistämättä. Muita vaihtoehtoja voisivat olla pohjan täyttäminen heikolla hapolla, hukuttavan syvällä vedellä tai nälkäisillä rotilla.
+Kuoppien ei tarvitse olla kovin syviä. Jos ne on suunniteltu vangitsemiseen, yksinkertainen amforan tai hummerimerran muoto estää kiipeämällä pakenemisen, samoin kuin seinät, jotka on tasoitettu tai tehty murenevasta materiaalista, joka pettää hahmon painon alla. Kuopat, joiden tarkoitus on tappaa, vuorataan yleensä pohjalta kymmenillä seipäillä, jotka on pakattu tiheään, jotta putoava hahmo lävistyy väistämättä. Muita vaihtoehtoja voivat olla pohjan täyttäminen heikolla hapolla, hukkumiseen riittävän syvällä vedellä tai nälkäisillä rotilla.
 
-- **Tarkoitus:** Vangitseva tai Kuolema
-- **Laukaisin:** Kuopan peittävän valepinnan päällä käveleminen
+- **Tarkoitus:** Vangitseminen tai Kuolema
+- **Laukaisin:** Kuopan peittävän valealustan yli käveleminen
+- **Vaikeus:** 60%
+- **Vastustus:** Joko Väistö hypätäksesi sivuun tai vaativa Atletia-heitto tarttuaksesi reunaan pudotessasi.
+- **Vaikutus:** Kuoppaan putoaminen aiheuttaa 2d6 vahinkoa satunnaiseen osumakohtaan, haarniska ei suojaa. Toissijaiset vaikutukset jäävät pelinjohtajan mielikuvituksen varaan.#### Myrkkyneula-ansa
+
+Tämä on toinen yleinen ansa, jota löytyy kaikkialta kuninkaan kammioista unohdettuihin hautaholveihin. Tämä ansa sijoitetaan yleensä arkkuun, mutta se voi suojata myös ovenlukkoja. Ellei lukkoa avata oikealla avaimella, ansa sinkoaa pienen myrkkyneulan jokaisen lukon tiirikoijaksi pyrkivän käteen.
+
+- **Tarkoitus:** Ansastaminen tai kuolema
+- **Laukaisin:** Lukon tiirikoiminen ansaitussa kohteessa.
 - **Vaikeusaste:** 60 %
-- **Vastustus:** Joko Väistö (Evade) hypätäksesi sivuun tai Vaikea Atletikka-heitto tarttuaksesi reunaan pudotessasi.
-- **Vaikutus:** Kuoppaan putoaminen aiheuttaa 2d6 vauriota satunnaiseen Osumakohtaan, panssari ei suojaa. Toissijaiset vaikutukset jätetään pelinjohtajan mielikuvituksen varaan.
-
-#### Myrkkyneula-ansa
-
-Tämä on toinen yleinen ansa, jota löytyy kaikkialta kuninkaan kammiosta unohdettuun hautaan. Tämä ansa on yleensä asetettu arkun päälle, mutta niitä voi löytyä myös ovien lukkoja vartioimasta. Ellei sitä avata oikealla avaimella, ansa sinkoaa pienen myrkkyneulan lukkoa yrittävän käteen.
-
-- **Tarkoitus:** Vangitseva tai Kuolema
-- **Laukaisin:** Lukitun kohteen tiirikoiminen.
-- **Vaikeusaste:** 60 %
-- **Vastustus:** Kestävyys
-- **Vaikutus:** Laukaistuna pieni myrkkyneula ponnahtaa ulos ja tarttuu kenen tahansa lukkoa tiirikoivan käteen. Neulan pinnoittamiseen voidaan käyttää mitä tahansa myrkkyä. Pelinjohtaja voi päättää myrkkyjen yksityiskohdista – jotka on käsitelty yksityiskohtaisesti _Classic Fantasy_ -pääsäännöissä.
+- **Vastustus:** KES
+- **Vaikutus:** Kun ansa laukeaa, pieni myrkkyneula ponnahtaa ulos ja pistää lukon tiirikoijaksi pyrkivän henkilön käteen. Neulan pinnoittamiseen voidaan käyttää mitä tahansa myrkkyä. Pelinjohtaja voi päättää myrkkyjen yksityiskohdista, jotka on käsitelty yksityiskohtaisesti _Classic Fantasy_ -pääsäännöissä.
 
 <details>
 
-<summary>* Yhteisön Errata</summary>
+<summary>* Yhteisön virhekorjaukset</summary>
 
 ---
 
 #### Myrkkyneula-ansa
 
-_Alkuperäinen teksti sisälsi kohdan "Jos myrkky on tappavaa, käytä yllä mainittuja myrkkykaasuansan vaikutuksia, kuitenkin sovellettuna vain valitettavaan lukon tiirikoijaan."_
+_Alkuperäisessä tekstissä luki: "Jos myrkky on tappavaa, käytä yllä mainitun myrkkykaasuansan vaikutuksia, mutta sovellettuna vain epäonniselle lukon tiirikoijalle."_
 
-_Tämä aiheuttaa ongelmia, koska myrkkykaasuansaa ei käsitellä Classic Fantasy Imperative -säännöissä. Tästä johtuu yllä oleva muutos._
+_Tämä aiheuttaa ongelmia, koska myrkkykaasuansaa ei käsitellä Classic Fantasy Imperativessa. Tästä syystä yllä oleva muutos._
 
 ---
 
