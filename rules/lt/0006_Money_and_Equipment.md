@@ -1,12 +1,12 @@
 # 6 skyrius: Pinigai ir įranga
 
-Šiame skyriuje kalbama apie pinigus: kiek jų turi veikėjai ir ką už juos galima įsigyti. _Classic Fantasy Imperative_ kaip standartinį žaidimo valiutos vienetą naudoja aukso monetą (GP), o daugumos įrangos, prekių ir paslaugų kaina matuojama GP. Viena GP yra standartinė vienos dienos maisto, gėrimų ir nakvynės kaina vienam kukliai gyvenančiam asmeniui.
+Šis skyrius skirtas pinigams: kiek jų turi veikėjai ir ką už juos galima nusipirkti. _Classic Fantasy Imperative_ naudoja aukso monetą (GP) kaip standartinį žaidimo valiutos vienetą, o daugumos įrangos, prekių ir paslaugų kaina matuojama GP. Viena GP yra standartinė kaina už vienos dienos maistą, gėrimą ir nakvynę vienam asmeniui, gyvenančiam kuklų gyvenimo būdą.
 
-Todėl kukliai gyvenančiam veikėjui asmeniškai pragyventi baziniu lygiu kainuoja apie 7 GP per savaitę. Priklausomai nuo to, kur veikėjai yra, monetos gali būti net nenaudojamos (arba vertinamos su įtarimu). Kai kurios kultūros labiau vertina barterinius mainus ir atsiskaitymą natūra nei aukso skambesį.
+Todėl veikėjui, gyvenančiam kukliai, pragyvenimas išgyvenimo lygiu asmeniškai kainuoja apie 7 GP per savaitę. Priklausomai nuo to, kur yra veikėjai, monetos gali būti net nenaudojamos (arba vertinamos įtartinai). Kai kurios kultūros barterinius mainus ir atsiskaitymą natūra vertina palankiau nei aukso skambesį.
 
-Standartinę _Classic Fantasy Imperative_ valiutą sudaro varinės (CP), sidabrinės (SP), auksinės (GP) ir platininės (PP) monetos. Valiutų kursas:
+Standartinę _Classic Fantasy Imperative_ valiutą sudaro varinės, sidabrinės, auksinės ir platininės monetos. Valiutos kursas yra toks:
 
-##### Standartinių valiutų kursų lentelė
+##### Standartinių valiutos kursų lentelė
 
 | Moneta | CP | SP | GP | PP |
 | :-- | :-: | :-: | :-: | :-: |
@@ -15,248 +15,305 @@ Standartinę _Classic Fantasy Imperative_ valiutą sudaro varinės (CP), sidabri
 | Auksinė moneta (GP) | 100 | 10 | 1 | 1/5 |
 | Platininė moneta (PP) | 500 | 50 | 5 | 1 |
 
-Paprastai, kai prekės ar paslaugos kaina susideda iš skirtingos vertės monetų, ji nurodoma dešimtainiu skaičiumi: 1,5 GP reikštų 1 auksą ir 5 sidabrus, nes 5 sidabrai yra pusė auksinės monetos. Panašiai, 3,5 SP būtų 3 sidabrai ir 5 varinės monetos.
+Paprastai, kai prekės ar paslaugos kaina susideda iš skirtingos vertės monetų, ji pateikiama su dešimtainiu kableliu: 1.5 GP reikštų 1 auksą ir 5 sidabrus, nes 5 sidabrai yra pusė auksinės monetos. Panašiai, 3.5 SP būtų 3 sidabrai ir 5 varinės monetos.
 
-Kai kurios kultūros, dažniausiai ūkininkų, klajoklių ir barbariškos bendruomenės, turtą matuoja gyvuliais. Vienas didelis bandos gyvūnas, pavyzdžiui, karvė, vertas apie 10 GP. Kiaulė ar avis verta apie 2,5 GP (2 GP, 5 SP), o vištų pulkas – apie 1,5 GP (1 GP, 5 SP). Kiti, pavyzdžiui, orkai, goblinai ir kitos humanoidų rasės, kurie savo bendruomenėje gali turėti mažai naudos iš monetų, vis dėlto žino jų vertę civilizuotoms rasėms, todėl paprastai galima rasti ir jų turinčių monetų.
+Kai kurios kultūros, dažniausiai žemdirbių, klajoklių ir barbarų bendruomenės, turtą matuoja gyvuliais. Vienas didelis bandos gyvulys, pavyzdžiui, karvė, yra vertas apie 10 GP. Kiaulė ar avis vertos apie 2.5 GP (2 GP, 5 SP), o vištų būrys – apie 1.5 GP (1 GP, 5 SP). Kiti, pavyzdžiui, orkai, goblinai ir kitos humanoidinės rasės, kurios savo bendruomenėse gali mažai naudoti monetas, vis dėlto žino jų vertę civilizuotoms rasėms, todėl dažniausiai pas juos taip pat galima rasti monetų.
 
 ---
-## Apsunkinimas
+## Apkrova
 
-_Classic Fantasy Imperative_ nereikia detalių apsunkinimo taisyklių, jei žaidimų vedėjas (GM) nusprendžia, kad jų nereikia. Vietoj to, veikėjas gali nešiotis „daiktų“ (Things) skaičių iki savo STR (jėgos) charakteristikos. „Daiktas“ apibrėžiamas kaip kažkas, turintis svorio, tūrio ar substancijos. Daiktų pavyzdžiai:
+_Classic Fantasy Imperative_ nereikia detalių apkrovos taisyklių, jei Žaidimo meistras mano, kad jos nereikalingos. Vietoj to, veikėjas gali neštis „Daiktų“ skaičių iki savo JĖG charakteristikos. „Daiktas“ apibrėžiamas kaip kažkas, turintis svorį, tūrį ar materiją. Daiktų pavyzdžiai:
 
-- Viena ranka valdomas artimos kovos ginklas ar skydas (2H ginklai ir visi kiti skydai skaičiuojami kaip 2 daiktai; maži ginklai, tokie kaip durklai, skaičiuojami kaip pusė daikto)
-- Lengvas ar sunkus lankas arba lengvas arbaletas (sunkūs arbaletai ir lengvi automatizuoti arbaletai skaičiuojami kaip 2 daiktai); svaidyklė skaičiuojama kaip pusė daikto.
-- Strėlinė (gali nešioti 20 strėlių ar varžtų be papildomo svorio)
-- Pilnai pakrauta kuprinė (iki 10 daiktų be papildomo svorio)
-- Pilnai pakrautas maišas (skaičiuojamas kaip 2 daiktai ir gali sutalpinti iki 10 daiktų arba 1 000 monetų). Sulankstomos talpyklos, tokios kaip maišai ir krepšiai, tuščios gali būti nešiojamos tik kitose talpyklose.
+- Viena ranka laikomas artimos kovos ginklas ar mažas skydas (2H ginklai ir visi kiti skydai skaičiuojami kaip 2 Daiktai; maži ginklai, tokie kaip durklai, skaičiuojami kaip pusė Daikto)
+- Lengvas ar sunkus lankas arba lengvas arbaletas (sunkūs arbaletai ir lengvi pasikartojantys arbaletai skaičiuojami kaip 2 Daiktai); svaidyklė skaičiuojama kaip pusė Daikto.
+- Strėlinė (gali talpinti 20 strėlių ar boltų be papildomo svorio)
+- Pilna kuprinė (iki 10 Daiktų be papildomo svorio)
+- Pilnas maišas (skaičiuojamas kaip 2 Daiktai ir gali talpinti iki 10 Daiktų arba 1 000 monetų). Sulankstomi konteineriai, tokie kaip maišai ir krepšiai, tušti gali būti nešiojami tik kituose konteineriuose.
 - Burtų knyga, grimoaras ar tomas
-- Bazinis įrankių rinkinys (plaktukas, kaltas, dildė, kuoliukai, vinys ir t. t.; arba vagies įrankių rinkinys)
-- Piniginė arba krepšys, kuriame telpa 1 daiktas, 100 monetų arba 20 svaidyklės akmenų, arba 10 švininių sviedinių be papildomo svorio.
+- Pagrindinis įrankių rinkinys (plaktukas, kaltas, dildė, kuolai, smaigai ir t. t.; arba vagies įrankių rinkinys)
+- Piniginė arba krepšys, kuriame telpa 1 Daiktas, 100 monetų, arba 20 svaidyklės akmenų, arba 10 švino kulkų svaidyklei be papildomo svorio.
 - Savaitės davinys
 - Pilna vandens gertuvė
-- Kas 50 pilnų bet kokios vertės monetų sveria kaip pusė „daikto“.
-- Laikykite, kad 1 SIZ (dydis) yra lygus 3 „daiktams“.
+- Kas 50 pilnų bet kokio nominalo monetų sveria tiek, kiek pusė „Daikto“.
+- Laikykite, kad 1 DYD yra lygu 3 „Daiktams“.
 
-Kiekvienas papildomas daiktas virš veikėjo STR sumažina veikėjo iniciatyvos premiją 1 punktu. Kas 6 daiktai virš STR sumažina veikėjo judėjimo greitį 5 pėdomis (1,5 m). Galiausiai, kai nešiojama daugiau daiktų nei veikėjo STR, įgūdžiai, naudojantys STR arba DEX kaip bazę, tampa 1 laipsniu sunkesni. Kai nešiojama daugiau nei dvigubai daugiau daiktų nei veikėjo STR, šie įgūdžiai tampa 2 laipsniais sunkesni.
+Kiekvienas papildomas Daiktas virš veikėjo JĖG sumažina veikėjo Iniciatyvos premiją 1 punktu. Kas 6 Daiktai virš JĖG sumažina veikėjo Judėjimo greitį 5 pėdomis. Galiausiai, kai nešiojama daugiau Daiktų nei veikėjo JĖG, įgūdžiai, naudojantys JĖG arba VIK kaip savo pagrindą, tampa 1 laipsniu sunkesni. Kai nešiojama daugiau Daiktų nei dviguba veikėjo JĖG, šie įgūdžiai tampa 2 laipsniais sunkesni.
 
-Šarvų apsunkinimas: Paprastumo dėlei, dėvimi šarvai neskaičiuojami kaip nešiojami daiktai veikėjams, kurie yra įgudę ir pripratę prie dėvimų šarvų. Tačiau veikėjams, neįgudusiems naudoti šarvus, arba jei nešiojami papildomi šarvų elementai, jų vertė yra 1 daiktas už kiekvieną kūno vietą (Hit Location) lengviems šarvams ir 2 daiktai už kiekvieną kūno vietą sunkiems šarvams. Taigi, pilnas lengvųjų šarvų komplektas, kurį dėvi neapmokytas asmuo arba kurį bet kas nešiojasi, yra iš viso 7 daiktai, o pilnas sunkiųjų šarvų komplektas – 14 daiktų. Be to, pilnas sunkiųjų šarvų komplektas net netilps į kuprinę.
+Šarvų apkrova: Paprastumo dėlei dėvimi šarvai neskaičiuojami į nešiojamus Daiktus veikėjams, kurie yra įgudę ir pripratę prie dėvimų šarvų. Tačiau veikėjams, neįgudusiems dėvėti šarvus, arba tais atvejais, kai nešiojami papildomi šarvų elementai, jų vertė yra 1 Daiktas už kiekvieną pataikymo vietą (lengviems šarvams) ir 2 Daiktai už kiekvieną pataikymo vietą (sunkiesiems šarvams). Taigi, pilnas lengvųjų šarvų komplektas, kurį dėvi neapmokytas asmuo arba kurį kažkas nešasi, iš viso sudaro 7 Daiktus, o pilnas sunkiųjų šarvų komplektas – 14 Daiktų. Be to, pilnas sunkiųjų šarvų komplektas netilps į kuprinę.
 
-Žaidimų vedėjai turėtų vadovautis sveiku protu. Turėtų būti akivaizdu, kad net stipriausias žmogus negali klaidžioti nešdamasis aštuonis skirtingus ginklus, atsarginius šarvus, pilną kelioninę įrangą, alaus statinę ir pakankamai aukso, kad išpirktų karalystę.
+Žaidimo meistrai turėtų vadovautis sveiku protu. Turėtų būti akivaizdu, kad net stipriausias žmogus veikėjas negali klajoti aplink nešdamasis aštuonis skirtingus ginklus, atsarginius šarvus, pilną kelionių įrangą, alaus statinę ir pakankamai aukso, kad išpirktų karalystę.
 
 ---
 ## Įranga
 
-Šiame skyriuje aprašoma įranga: šarvai, ginklai, drabužiai, įrankiai ir kiti smulkūs daiktai, kuriais veikėjai pasikliauja nuotykių metu. Kiekvienas įrangos elementas aprašomas pagal vieną ar kelis požymius (kai kurie taikomi dažniau nei kiti). Tai yra:
+Šis skyrius skirtas įrangai: šarvams, ginklams, drabužiams, įrankiams ir kitiems daiktams, kuriais veikėjai remiasi nuotykių metu. Bet koks įrangos vienetas aprašomas naudojant vieną ar daugiau elementų (kai kurie taikomi dažniau nei kiti). Tai:
 
 - Kaina (GP, SP arba CP)
-- Šarvų taškai (AP): natūralus daikto atsparumas žalai
-- Sveikatos taškai (HP): kiek žalos daiktas gali atlaikyti, kol bus sunaikintas ar taps netinkamas naudoti.
+- Šarvų taškai: natūralus daikto atsparumas žalai
+- Pataikymo taškai: kiek žalos daiktas gali atlaikyti prieš būdamas sunaikintas ar sugadintas.
 
 #### Įrangos kaina
 
-Visos šiame skyriuje išvardytos prekės atstovauja standartinės kokybės pavyzdžius. Geresnės ar prastesnės kokybės prekes galima įsigyti už padidintą arba sumažintą kainą. Nurodytos kainos daro prielaidą, kad prekių yra pakankamai. Kai kažko trūksta, kainos kils ir, priklausomai nuo prekės, gali būti nuo 10% iki 1000% aukštesnės nei nurodyta (1d100x10%). Aplinka taip pat turės įtakos prieinamumui ir kainai. Prekes ir žaliavas lengviau ir pigiau gauti didesnėse gyvenvietėse, kuriose yra nusistovėjusios rinkos ir prekiautojai. Nuošaliose ar kaimo vietovėse viską, išskyrus pačias būtiniausias vietoje pagamintas prekes ir maisto produktus, bus sunkiau gauti; jie kainuos brangiau, jei apskritai bus prieinami.
+Visi šiame skyriuje išvardyti daiktai yra standartinės kokybės pavyzdžiai. Geresnės ar prastesnės kokybės daiktus galima įsigyti už didesnę arba mažesnę kainą. Nurodytos kainos galioja, kai prekių pasiūla yra gera. Kai ko nors trūksta, kainos kils ir, priklausomai nuo prekės, gali būti nuo 10% iki 1000% didesnės nei nurodyta (1d100x10%). Aplinka taip pat turės įtakos prieinamumui, o kartu ir kainai. Daiktus ir prekes lengviau ir pigiau įsigyti didesnėse gyvenvietėse, kuriose yra nusistovėjusios rinkos ir prekybininkai. Atokiose ar kaimo vietovėse bus sunkiau gauti viską, išskyrus pačius pagrindinius vietoje pagamintus produktus ir maisto produktus; jie kainuos brangiau, jei išvis bus prieinami.#### Sidabriniai ginklai
 
-#### Sidabriniai ginklai
-
-Metaliniai ginklai gali būti pagaminti iš gryno sidabro, kad galėtų pakenkti tokioms būtybėms kaip likantropai. Sidabrinio ginklo kainą skaičiuokite kaip dešimt kartų didesnę nei įprastai, nebent nurodyta kitaip. Sidabriniai ginklai turi 1 šarvų tašku mažiau ir 2 sveikatos taškais mažiau. Jie taip pat padaro vienu tašku mažiau žalos priešams, dėvintiems šarvus (taigi sidabrinis durklas padaro 1d4 žalos vietoj 1d4+1).
+Metaliniai ginklai gali būti pagaminti iš gryno sidabro, kad galėtų pakenkti tokioms būtybėms kaip likantropai. Skaičiuokite sidabrinio ginklo kainą kaip dešimt kartų didesnę nei įprasto, nebent nurodyta kitaip. Sidabriniai ginklai turi 1 šarvų tašku mažiau ir 2 hitais (gyvybės taškais) mažiau. Jie taip pat padaro vienu tašku mažiau žalos šarvuotiems priešininkams (todėl sidabrinis durklas padaro 1d4 žalos vietoj 1d4+1).
 
 ---
-## Artimos kovos ginklai
+## Ginklai artimai kovai
 
-Visus ginklus valdo charakteristikų serija:
+Visi ginklai valdomi remiantis tam tikromis charakteristikomis, kurios yra šios:
 
-- **Tipas:** Ar ginklas klasifikuojamas kaip bazinis, ar kovinis (martial).
-- **Rankos:** Rankų skaičius, reikalingas tinkamai valdyti ginklą.
-- **Žala (Damage):** Žalos kiekis, kurį ginklas padaro sėkmingos atakos atveju.
-- **Dydis (Size):** Kiekvienas ginklas vertinamas pagal savo masę, svertą ir stabilumą. Dydis naudojamas nustatyti ginklo gebėjimą padaryti ir sumažinti žalą (žr. [Žalos mažinimo](0008_Combat.md?id=damage-reduction) taisykles). Dydžių kategorijos yra mažas (S), vidutinis (M), didelis (L), milžiniškas (H) ir galingas (E).
-- **Koviniai efektai (Combat Effects):** Ginklo konstrukcija suteikia prieigą prie specialių ginklo efektų. Pavyzdžiui, kardai pjauna ir duria, todėl jiems leidžiama naudoti *Impale* (perskyrimo) ir *Bleed* (kraujavimo) efektus, o buožė negali sukelti šių efektų, bet gali sukelti *Stun Location* (vietos apstulbinimo) efektą (žr. [Specialūs efektai](0008_Combat.md?id=special-effects-1)).
-- **AP/HP:** Visi ginklai vertinami pagal jų šarvų taškus ir sveikatos taškus; jų gebėjimą atlaikyti tiesioginę žalą ir kiek žalos jie gali toleruoti prieš lūždami. Daroma prielaida, kad ginklai, kurie žalai priklauso nuo metalo, yra pagaminti iš bronzos arba geležies.
-- **Savybės (Traits):** Kai kurie ginklai dėl savo specializuoto pobūdžio turi tam tikrų savybių, kurios juos išskiria iš panašaus stiliaus ginklų. Dažniausios savybės yra:
-  - _Barbed (Dygliuotas)_ – Jei įsmigs, ištraukiamas padarys visą, o ne pusę žalos.
-  - _Entrapping (Griebiantis)_ – Jei naudojamas atremti (Parry) atakuojantį ginklą, tas ginklas laikomas vienu dydžiu mažesniu nei yra. Taigi, didelis kardas laikomas vidutiniu, o vidutinis – mažu. Ginklai, kurie jau yra maži, lieka nepakitę.
-  - _Flexible (Lankstus)_ – Jei priešininkas atremia skydą, skydas laikomas vienu dydžiu mažesniu. Taigi, milžiniškas skydas laikomas dideliu, didelis – vidutiniu ir t. t.
-  - _Mount (Jojamasis)_ – Ginklas turi būti naudojamas nuo judančio jojamojo gyvūno nugaros.
-  - _Passive Block (Pasyvus blokavimas)_ – Ginklas gali pasyviai blokuoti kelias kūno vietas, kurios turi būti viena šalia kitos.
-  - _Ranged Parry (Nuotolinis atrėmimas)_ – Ginklas gali atremti nuotolinius ginklus.
-  - _Set (Paruoštas)_ – Ginklą galima paruošti priimti pėsčiųjų ar raitelių puolimą.
-  - _Stealth (Slaptas)_ – Ginklas turi būti naudojamas iš pasalos.
-  - _Thrown (Mėtomas)_ – Ginklas gali būti naudojamas kaip nuotolinis ginklas, taip pat kaip artimos kovos ginklas.
-- **Kaina:** Ginklo kaina auksinėmis ir/ar sidabrinėmis monetomis. 2,5 GP būtų 2 aukso ir 5 sidabro.
-- **Apsunkinimas:** Jei nenurodyta kitaip, visi artimos kovos ginklai prilygsta 1 „daiktui“.
+- **Tipas:** Ar ginklas priskiriamas pagrindiniam, ar kariniam ginklui.
+- **Rankos:** Rankų skaičius, reikalingas tinkamai naudoti ginklą.
+- **Žala:** Žalos kiekis, kurį ginklas padaro, jei ataka sėkminga.
+- **DYD (Dydis):** Kiekvienas ginklas vertinamas pagal savo masę, svertą ir stabilumą. Dydis naudojamas nustatyti ginklo gebėjimą padaryti ir sumažinti žalą (žr. taisykles [Žalos mažinimas](0008_Combat.md?id=damage-reduction)). Dydžio kategorijos yra Mažas (S), Vidutinis (M), Didelis (L), Milžiniškas (H) ir Enorminis (E).
+- **Kovos efektai:** Ginklo konstrukcija leidžia naudoti specifinius kovos efektus. Pavyzdžiui, kardai pjauna ir duria, todėl jiems leidžiama naudoti „Pervėrimo“ (Impale) ir „Kraujavimo“ (Bleed) efektus, o buožė negali sukelti šių efektų, tačiau gali „Svaiginti vietą“ (Stun Location) (žr. [Specialieji efektai](0008_Combat.md?id=special-effects-1)).
+- **AP/HP:** Visi ginklai vertinami pagal šarvų taškus (AP) ir hitus (HP); tai jų gebėjimas atlaikyti tiesioginę žalą ir kiek žalos jie gali pakelti prieš lūždami. Ginklai, kurių žala priklauso nuo metalo, laikomi bronziniais arba geležiniais.
+- **Bruožai:** Kai kurie ginklai dėl savo specializuotos prigimties turi tam tikrų savybių arba bruožų, kurie skiria juos nuo panašaus stiliaus ginklų. Bendri bruožai:
+  - *Dygliuotas* – Jei ginklas įsmigo, ištrauktas jis padarys visą, o ne pusę žalos.
+  - *Gaudantis* – Jei naudojamas atremti atakuojantį ginklą, tas ginklas laikomas vienu dydžiu mažesniu nei yra. Taigi, Didelis kardas laikomas Vidutiniu, o Vidutinis kardas – Mažu. Mažiems ginklams tai įtakos neturi.
+  - *Lankstus* – Jei priešininkas naudoja skydą atsimušimui, skydas laikomas vienu dydžiu mažesniu nei yra. Taigi, Milžiniškas skydas laikomas Dideliu, Didelis skydas – Vidutiniu ir taip toliau.
+  - *Jojimas* – Ginklas turi būti naudojamas nuo judančio jojamojo gyvūno nugaros.
+  - *Pasyvus blokas* – Ginklas gali pasyviai blokuoti kelias hitų vietas, kurios turi būti viena šalia kitos.
+  - *Nuotolinis atmušimas* – Ginklas gali atmušti tolimojo nuotolio ginklus.
+  - *Įtvirtintas* – Ginklą galima įtvirtinti priimant pėstininkų ar raitelių puolimą.
+  - *Slaptas* – Ginklas turi būti naudojamas iš pasalos.
+  - *Mėtomas* – Ginklas gali būti naudojamas ir kaip tolimojo nuotolio, ir kaip artimos kovos ginklas.
+- **Kaina:** Ginklo kaina aukso ir/arba sidabro monetomis. 2.5 auks. mon. reikštų 2 aukso ir 5 sidabro monetas.
+- **Sunkumas:** Jei nenurodyta kitaip, visi artimos kovos ginklai atitinka 1 „Daikto“ vienetą.
 
-### Baziniai artimos kovos ginklai
+### Pagrindiniai artimos kovos ginklai
 
-| Bazinis ginklas | Rankos | Žala | Dydis | Kovos efektai | AP/HP | Savybės | Kaina |
+| Pagrindinis ginklas | Rankos | Žala | DYD | Kovos efektai | AP/HP | Bruožai | Kaina |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Buožė | 1H | 1d6 | M | Bash, Stun Location | 4/4 | — | 5SP |
-| Durklas\* | 1H | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3GP |
-| Didžioji buožė\*\* | 2H | 2d6 | H | Bash, Stun Location | 4/10 | — | 5GP |
-| Rankinis kirvis\* | 1H | 1d6 | S | Bleed | 3/6 | Thrown | 2.5GP |
-| Ilgoji ietis\*\* | 2H | 1d10+1 | L | Impale | 4/10 | Set | 3GP |
-| Vėzdas | 1H | 1d8 | M | Bash, Stun Location | 6/6 | — | 10GP |
-| Vėzdas, sunkus\*\* | 2H | 1d8+2 | M | Bash, Stun Location | 6/10 | — | 20GP |
-| Rytų žvaigždė | 1H | 2d4 | M | Bash, Stun Location | 4/10 | — | 15GP |
-| Karka (Quarterstaff)\*\* | 2H | 1d8 | M | Stun Location | 4/8 | — | 2GP |
-| Trumpoji ietis | 1H | 1d8+1 | M | Impale | 4/5 | Throw, Set | 2GP |
-| Pjautuvas | 1H | 1d6 | M | Bleed, Impale | 3/8 | — | 7GP |
+| Kuoka | 1H | 1d6 | M | Sutrenkimas, Svaiginanti vieta | 4/4 | — | 5 sid. mon. |
+| Durklas\* | 1H | 1d4+1 | S | Kraujavimas, Pervėrimas | 6/8 | Mėtomas | 3 auks. mon. |
+| Didelė kuoka\*\* | 2H | 2d6 | H | Sutrenkimas, Svaiginanti vieta | 4/10 | — | 5 auks. mon. |
+| Rankinis kirvis\* | 1H | 1d6 | S | Kraujavimas | 3/6 | Mėtomas | 2.5 auks. mon. |
+| Ilga ietis\*\* | 2H | 1d10+1 | L | Pervėrimas | 4/10 | Įtvirtintas | 3 auks. mon. |
+| Buožė | 1H | 1d8 | M | Sutrenkimas, Svaiginanti vieta | 6/6 | — | 10 auks. mon. |
+| Sunki buožė\*\* | 2H | 1d8+2 | M | Sutrenkimas, Svaiginanti vieta | 6/10 | — | 20 auks. mon. |
+| Rytų žvaigždė | 1H | 2d4 | M | Sutrenkimas, Svaiginanti vieta | 4/10 | — | 15 auks. mon. |
+| Lazda\*\* | 2H | 1d8 | M | Svaiginanti vieta | 4/8 | — | 2 auks. mon. |
+| Trumpa ietis | 1H | 1d8+1 | M | Pervėrimas | 4/5 | Mėtomas, Įtvirtintas | 2 auks. mon. |
+| Pjautuvas | 1H | 1d6 | M | Kraujavimas, Pervėrimas | 3/8 | — | 7 auks. mon. |
 
-_\* Laikomas ½ daikto dėl ENC_
-_\*\* Laikomas 2 daiktais dėl ENC_
+_\* Laikoma ½ Daikto dėl ENC (sunkumo)_
 
-### Koviniai (Martial) artimos kovos ginklai
+_\*\* Laikoma 2 „Daiktų“ dėl ENC (sunkumo)_
 
-| Ginklas | Rankos | Žala | Dydis | Kovos efektai | AP/HP | Savybės | Kaina |
+### Kariniai artimos kovos ginklai
+
+| Ginklas | Rankos | Žala | DYD | Kovos efektai | AP/HP | Bruožai | Kaina |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Grandinė su rutuliu | 1H | 1d6+1 | M | Bash, Entangle, Stun Location | 6/8 | Flexible | 25GP |
-| Bastardo kardas | 1H / 2H | 1d8 / 1d10 | M / L | Bleed, Impale, +Sunder (2H) | 6/12 | — | 25GP |
-| Kovos kirvis | 1H / 2H | 1d6+1 / 1d8+1 | M / L | Bleed, Sunder | 4/8 | — | 10GP |
-| Platusis kardas | 1H | 1d8 | M | Bleed, Impale | 6/10 | — | 18GP |
-| Grandinė | 1H | 1d4 | M | Bash, Entangle | 8/6 | — | 1GP |
-| Falčionas | 1H | 1d6+2 | M | Bleed | 6/10 | — | 20GP |
-| Spragilas | 1H | 1d6 | M | Bash | 3/6 | Flexible | 2.5GP |
-| Spragilas, sunkus\*\* | 2H | 1d10 | L | Bash, Stun Location | 4/10 | Flexible | 25GP |
-| Garota\* | 2H | 1d2 | S | — | 1/2 | Stealth | 1.5GP |
-| Glaivė\*\* | 2H | 1d10+2 | L | Bleed, Sunder | 4/10 | — | 25GP |
-| Didysis kirvis\*\* | 2H | 2d6+2 | H | Bleed, Sunder | 4/10 | — | 15GP |
-| Didysis plaktukas\*\* | 2H | 1d10+3 | H | Bash, Stun Location, Sunder | 4/10 | — | 25GP |
-| Didysis kardas\*\* | 2H | 2d8 | H | Bleed, Impale, Sunder | 6/12 | — | 30GP |
-| Halebarda/Poleaksė\*\* | 2H | 1d8+2 | L | Entangle, Impale, Sunder | 4/10 | Set | 20GP |
-| Peilis\* | 1H | 1d3 | S | Bleed, Impale | 5/4 | — | 1GP |
-| Ietis (Lance)\*\* | 1H | 1d10+2 | H | Impale, Sunder | 4/10 | Mount | 15GP |
-| Ilgasis kardas | 1H | 1d8 | M | Bleed, Impale | 6/12 | — | 20GP |
-| Main gauche\* | 1H | 1d4 | S | Bleed, Impale | 6/10 | Entrapping | 18GP |
-| Karo kirtiklis | 1H | 1d6+1 | M | Stun Location, Sunder | 6/10 | — | 18GP |
-| Karo kirtiklis, sunkus\*\* | 2H | 1d8+2 | L | Impale, Stun Location, Sunder | 6/10 | — | 25GP |
-| Tinklas\* | 1H | 1d4 | S | Entangle | 2/20 | Entrapping | 2GP |
-| Pika\*\* | 2H | 1d10+2 | L | Impale | 4/12 | Set | 9GP |
-| Rapira | 1H | 1d8 | M | Impale | 5/8 | — | 10GP |
-| Saberė | 1H | 1d6+1 | M | Bleed, Impale | 6/8 | — | 23GP |
-| Scimitaras | 1H | 1d8 | M | Bleed | 6/10 | — | 20GP |
-| Trumpasis kardas | 1H | 1d6 | M | Bleed, Impale | 6/8 | — | 10GP |
-| Trikšakis | 1H | 1d8 | M | Impale | 4/10 | Barbed | 16GP |
-| Karo plaktukas | 1H | 1d8+1 | M | Stun Location | 3/8 | — | 15GP |
-| Botagas\*\*\* | 1H | 1d3 | M | Stun Location | 2/8 | Flexible, Entrapping | 10GP |
+| Rutulys su grandine | 1H | 1d6+1 | M | Sutrenkimas, Painiojimas, Svaiginanti vieta | 6/8 | Lankstus | 25 auks. mon. |
+| Bastardo kardas | 1H / 2H | 1d8 / 1d10 | M / L | Kraujavimas, Pervėrimas, +Skaidymas (2H) | 6/12 | — | 25 auks. mon. |
+| Kovos kirvis | 1H / 2H | 1d6+1 / 1d8+1 | M / L | Kraujavimas, Skaidymas | 4/8 | — | 10 auks. mon. |
+| Platėjantis kardas | 1H | 1d8 | M | Kraujavimas, Pervėrimas | 6/10 | — | 18 auks. mon. |
+| Grandinė | 1H | 1d4 | M | Sutrenkimas, Painiojimas | 8/6 | — | 1 auks. mon. |
+| Falšionas | 1H | 1d6+2 | M | Kraujavimas | 6/10 | — | 20 auks. mon. |
+| Spragilas | 1H | 1d6 | M | Sutrenkimas | 3/6 | Lankstus | 2.5 auks. mon. |
+| Sunkus spragilas\*\* | 2H | 1d10 | L | Sutrenkimas, Svaiginanti vieta | 4/10 | Lankstus | 25 auks. mon. |
+| Garsintojas (garota)\* | 2H | 1d2 | S | — | 1/2 | Slaptas | 1.5 auks. mon. |
+| Glaivė\*\* | 2H | 1d10+2 | L | Kraujavimas, Skaidymas | 4/10 | — | 25 auks. mon. |
+| Didelis kirvis\*\* | 2H | 2d6+2 | H | Kraujavimas, Skaidymas | 4/10 | — | 15 auks. mon. |
+| Didelis kūjis\*\* | 2H | 1d10+3 | H | Sutrenkimas, Svaiginanti vieta, Skaidymas | 4/10 | — | 25 auks. mon. |
+| Didelis kardas\*\* | 2H | 2d8 | H | Kraujavimas, Pervėrimas, Skaidymas | 6/12 | — | 30 auks. mon. |
+| Halebarda/ Polkirvis\*\* | 2H | 1d8+2 | L | Painiojimas, Pervėrimas, Skaidymas | 4/10 | Įtvirtintas | 20 auks. mon. |
+| Peilis\* | 1H | 1d3 | S | Kraujavimas, Pervėrimas | 5/4 | — | 1 auks. mon. |
+| Ietis (lance)\*\* | 1H | 1d10+2 | H | Pervėrimas, Skaidymas | 4/10 | Jojimas | 15 auks. mon. |
+| Ilgas kardas | 1H | 1d8 | M | Kraujavimas, Pervėrimas | 6/12 | — | 20 auks. mon. |
+| Main gauche\* | 1H | 1d4 | S | Kraujavimas, Pervėrimas | 6/10 | Gaudantis | 18 auks. mon. |
+| Karo kirtiklis | 1H | 1d6+1 | M | Svaiginanti vieta, Skaidymas | 6/10 | — | 18 auks. mon. |
+| Sunkus karo kirtiklis\*\* | 2H | 1d8+2 | L | Pervėrimas, Svaiginanti vieta, Skaidymas | 6/10 | — | 25 auks. mon. |
+| Tinklas\* | 1H | 1d4 | S | Painiojimas | 2/20 | Gaudantis | 2 auks. mon. |
+| Pika\*\* | 2H | 1d10+2 | L | Pervėrimas | 4/12 | Įtvirtintas | 9 auks. mon. |
+| Rapira | 1H | 1d8 | M | Pervėrimas | 5/8 | — | 10 auks. mon. |
+| Kardas (Saber) | 1H | 1d6+1 | M | Kraujavimas, Pervėrimas | 6/8 | — | 23 auks. mon. |
+| Skimitaras | 1H | 1d8 | M | Kraujavimas | 6/10 | — | 20 auks. mon. |
+| Trumpas kardas | 1H | 1d6 | M | Kraujavimas, Pervėrimas | 6/8 | — | 10 auks. mon. |
+| Trišakis | 1H | 1d8 | M | Pervėrimas | 4/10 | Dygliuotas | 16 auks. mon. |
+| Karo kūjis | 1H | 1d8+1 | M | Svaiginanti vieta | 3/8 | — | 15 auks. mon. |
+| Botagas\*\*\* | 1H | 1d3 | M | Svaiginanti vieta | 2/8 | Lankstus, Gaudantis | 10 auks. mon. |
+
+_\* Laikoma ½ Daikto dėl ENC_
+
+_\*\* Laikoma 2 „Daiktų“ dėl ENC_
+
+_\*\*\* Botagas paprastai negali būti naudojamas atmušimui (Parry). Tačiau, jei jis šiuo metu suvyniotas ir yra rankoje, žaidimo meistras gali leisti tai daryti su „Sunkumo“ (Formidable) lygiu. Botago paruošimas (išvyniojimas) užtrunka 1 Kovos raundą. Todėl paprastai neįmanoma atmušti su juo tą patį raundą, kai jis jau buvo panaudotas._
 
 ### Skydai
 
-| Skydas | Žala | Dydis | Kovos efektai | AP/HP | Savybės | Kaina |
-| :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Buckler | 1d3 | M | Bash, Stun Location | 6/9 | Ranged Parry; Passive Block 2 locations | 5GP |
-| Heater\* | 1d4 | L | Bash, Stun Location | 6/12 | Ranged Parry; Passive Block 3 locations | 15GP |
-| Kite\* | 1d4 | H | Bash, Stun Location | 4/15 | Ranged Parry; Passive Block 4 locations | 300GP |
-| Round\* | 1d4 | L | Bash, Stun Location | 4/12 | Ranged Parry; Passive Block 4 locations | 30GP |
-| Target\* | 1d3+1 | L | Bash, Impale | 4/9 | Ranged Parry; Passive Block 3 locations | 15GP |
-| Tower\* | 1d4 | H | Bash, Stun Location | 4/18 | Ranged Parry; Passive Block 5 locations | 30GP |
+| Skydas | Žala | DYD | Kovos efektai | AP/HP | Bruožai | Kaina |
+| :-- | :-: | :-: | :-- | :-: | :-- | :-: |
+| Bakleras | 1d3 | M | Sutrenkimas, Svaiginanti vieta | 6/9 | Nuotolinis atmušimas; Pasyvus blokas 2 vietų | 5 auks. mon. |
+| Šildytuvas\* | 1d4 | L | Sutrenkimas, Svaiginanti vieta | 6/12 | Nuotolinis atmušimas; Pasyvus blokas 3 vietų | 15 auks. mon. |
+| Aitvaras\* | 1d4 | H | Sutrenkimas, Svaiginanti vieta | 4/15 | Nuotolinis atmušimas; Pasyvus blokas 4 vietų | 30 auks. mon. |
+| Apvalus\* | 1d4 | L | Sutrenkimas, Svaiginanti vieta | 4/12 | Nuotolinis atmušimas; Pasyvus blokas 4 vietų | 30 auks. mon. |
+| Taikinys\* | 1d3+1 | L | Sutrenkimas, Pervėrimas | 4/9 | Nuotolinis atmušimas; Pasyvus blokas 3 vietų | 15 auks. mon. |
+| Bokštinis\* | 1d4 | H | Sutrenkimas, Svaiginanti vieta | 4/18 | Nuotolinis atmušimas; Pasyvus blokas 5 vietų | 30 auks. mon. |
+
+_\* Laikoma 2 „Daiktų“ dėl ENC_
 
 ---
-## Nuotoliniai ginklai
+## Tolimojo nuotolio ginklai
 
-Sunku apsiginti nuo nuotolinių ginklų. Be skydo ar kito tvirto priedangos būdo, galinčio išsklaidyti sviedinio energiją, nuotolinių ginklų negalima atremti, vadinasi, geriausia gynyba, jei žinote apie artėjančią ataką, yra vengimas. Tačiau vengimas dažnai atsiduria situacijoje, kai sunku surengti atsakomąją ataką, net ir nuotolinę.
+Nuo tolimojo nuotolio ginklų sunku gintis. Be skydo ar kitokios tvirtos priedangos, galinčios išsklaidyti sviedinio energiją, tolimojo nuotolio ginklų negalima atmušti, o tai reiškia, kad geriausia gynyba, jei žinote apie atskrendantį sviedinį, yra išsisukinėjimas. Tačiau išsisukinėjimas dažnai pastato besiginantįjį į situaciją, kurioje sunku atsakyti ataka, net jei ji tolimojo nuotolio.
 
-Nuotoliniai ginklai turi panašias charakteristikas kaip artimos kovos ginklai, nors yra keletas skirtumų:
+Tolimojo nuotolio ginklai turi panašias charakteristikas kaip artimos kovos ginklai, nors yra keletas skirtumų, kaip nurodyta toliau:
 
-- **Žala:** Žalos kiekis, padaromas sėkmingos atakos atveju.
-- **Žalos modifikatorius (Dmg Mod):** Ne visi nuotoliniai ginklai gali pasinaudoti veikėjo žalos modifikatoriumi. Įrašas „Taip“ arba „Ne“ nurodo, ar galima taikyti naudotojo žalos modifikatorių.
-- **Jėga (Force):** Kiekvienas nuotolinis ginklas turi jėgos įvertinimą, lygų artimos kovos ginklų „dydžiui“. Sviedinių atveju tai susiję ne su šaudančiu ginklu, o su tuo, kokią „jėgą“ turi jo amunicija. Ši vertė naudojama nustatyti, ar ginklas gali įveikti skydą, kuris jį atremia. Dydžių kategorijos yra mažas (S), vidutinis (M), didelis (L), milžiniškas (H) ir galingas (E).
-- **Nuotolis (Range):** Tai ginklo efektyvumo matas trimis atstumais, atskirtais pasviraisiais brūkšniais, nurodantis maksimalų artimą, efektyvų ir tolimą ginklo ar jo amunicijos nuotolį. Atstumai nurodomi pėdomis. Atkreipkite dėmesį, kad nuotolio baudos veikėjo įgūdžiams yra nepriklausomos nuo ginklo.
-- **Įkėlimas (Load):** Nurodo, kiek ėjimų (Turns) reikia įkelti arba užtaisyti ginklą, kuris šaudo amuniciją.
-- **Kovos efektai:** Kaip ir artimos kovos ginklams.
-- **Imp. Size:** Efektyvus ginklo ar jo amunicijos dydis, jei pavyksta ataka *Impale* (perskyrimu).
-- **AP/HP:** Visi ginklai vertinami pagal AP ir HP.
-- **Savybės:**
-  - **1H** – Šį ginklą galima šaudyti viena ranka, leidžiant kitame laikyti artimos kovos ginklą ar skydą.
-  - **Dwarf (Nykštukinis)** – Šis ginklas dažniausiai sutinkamas tik nykštukų visuomenėje.
-  - **Repeating (Automatizuotas)** – Šis ginklas laiko 5 varžtų dėtuvę ir gali iššauti po vieną per veiksmą. Reikia 3 kovos veiksmų užtaisyti naują „dėtuvę“ ir 1 minutės užtaisyti panaudotą dėtuvę 5 naujais varžtais.
-- **Kaina:** Ginklo kaina sidabrinėmis monetomis.
-- **Apsunkinimas:** Visi nuotoliniai ginklai prilygsta 1 „daiktui“.
+- **Žala:** Žalos kiekis, kurį ginklas padaro, jei ataka sėkminga.
+- **Žalos modifikatorius:** Ne visi tolimojo nuotolio ginklai gali išnaudoti veikėjo Žalos modifikatorių. „Taip“ arba „Ne“ įrašas rodo, ar gali būti taikomas vartotojo Žalos modifikatorius.
+- **Jėga:** Kiekvienas tolimojo nuotolio ginklas turi jėgos įvertinimą, lygiavertį artimos kovos ginklų „Dydžiui“. Sviedinių atveju tai susiję ne su pačiu šaudančiu ginklu, o su tuo, kokį „poveikį“ turi jo amunicija. Ši vertė naudojama nustatyti, ar ginklas gali įveikti skydą, kuris jį atremia. Dydžio kategorijos yra Mažas (S), Vidutinis (M), Didelis (L), Milžiniškas (H) ir Enorminis (E).
+- **Nuotolis:** Tai ginklo efektyvumo matas trims atstumams, atskirtiems pasviraisiais brūkšniais, atspindintis ginklo ar jo amunicijos maksimalų Artimą, Efektyvųjį ir Tolimąjį nuotolį. Atstumai išreiškiami pėdomis. Atminkite, kad atstumo nuobaudos vartotojo įgūdžiams yra nepriklausomos nuo ginklo.
+  - **Artimas nuotolis** – Atstumas, kuriuo „Vietos pasirinkimas“ (Choose Location) gali būti naudojamas kaip nekritinis specialus efektas, su sąlyga, kad taikinys stovi vietoje arba nežino apie gresiančią ataką.
+  - **Efektyvusis nuotolis** – Atstumas, kuriuo nėra jokių reikšmingų modifikatorių ginklo taiklumui ar galiai.
+  - **Tolimasis nuotolis** – Atstumas, kuriuo ginklas vis dar gali pakenkti, tačiau žalos kiekis sumažinamas perpus, o jo Jėga sumažinama vienu laipteliu.
+- **Užtaisymas:** Parodo, kiek ėjimų reikia užtaisyti ar iš naujo užtaisyti ginklą, kuris šaudo amuniciją.
+- **Kovos efektai:** Pagal artimos kovos ginklus.
+- **Pervėrimo dydis (Imp. Size):** Efektyvus ginklo ar jo amunicijos dydis, jei pavyksta Pervėrimo ataka.
+- **AP/HP:** Visi ginklai vertinami pagal šarvų taškus ir hitus; jų gebėjimas atlaikyti tiesioginę žalą ir kiek žalos jie gali pakelti prieš lūždami. Ginklai, kurių žala priklauso nuo metalo, laikomi bronziniais arba geležiniais.
+- **Bruožai:** Kai kurie ginklai dėl savo specializuotos prigimties turi tam tikrų savybių arba bruožų, kurie skiria juos nuo panašaus stiliaus ginklų. Bendri bruožai:
+  - **1H** – Šis ginklas gali būti šaudomas viena ranka, leidžiant kitame laikyti artimos kovos ginklą ar skydą.
+  - **Dvarfas** – Šis ginklas dažnas tik nykštukų visuomenėje.
+  - **Daugiašūvis** – Šis ginklas talpina 5 varžtų (bolt) apkabą ir gali iššauti vieną per veiksmą. Norint užtaisyti naują varžtų „apkabą“, reikia 3 kovos veiksmų, o norint užtaisyti iššautą apkabą 5 naujais varžtais – 1 minutės.
+- **Kaina:** Ginklo kaina sidabro monetomis.
+- **Sunkumas:** Jei nenurodyta kitaip, visi tolimojo nuotolio ginklai atitinka 1 „Daikto“ vienetą.
 
-### Baziniai nuotoliniai ginklai
+### Pagrindiniai tolimojo nuotolio ginklai
 
-| Ginklas | Žala | Dmg Mod | Jėga | Nuotolis | Įkėlimas | Kovos efektai | Imp. Dydis | AP/HP | Kaina |
+| Ginklas | Žala | Žalos mod. | Jėga | Nuotolis | Užtais. | Kovos efektai | Perv. dydis | AP/HP | Kaina |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Arbaletas, sunkus\*\* | 1d10 | N | H | 60/450/900 | 4 | Impale, Sunder | S | 4/8 | 35GP |
-| Arbaletas, lengvas | 1d8 | N | L | 60/300/600 | 3 | Impale | S | 4/5 | 15GP |
-| Durklas\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 4/6 | 3GP |
-| Strėlytė\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 2/1 | 1GP |
-| Trumpoji ietis | 1d8 | Y | L | 30/45/90 | — | Impale | M | 4/5 | 2GP |
-| Svaidyklė\* | 1d8 | N | L | 30/450/900 | 3 | Stun Location | — | 1/2 | 5SP |
-| Akmuo arba uola | 1d3 | Y | S | 15/75/150 | — | Stun Location | — | — | — |
+| Arbaletas, sunkus\*\* | 1d10 | N | H | 60/450/900 | 4 | Pervėrimas, Skaidymas | S | 4/8 | 35 auks. mon. |
+| Arbaletas, lengvas | 1d8 | N | L | 60/300/600 | 3 | Pervėrimas | S | 4/5 | 15 auks. mon. |
+| Durklas\* | 1d4 | Y | S | 15/30/60 | — | Pervėrimas | S | 4/6 | 3 auks. mon. |
+| Strėlytė\* | 1d4 | Y | S | 15/30/60 | — | Pervėrimas | S | 2/1 | 1 auks. mon. |
+| Trumpa ietis | 1d8 | Y | L | 30/45/90 | — | Pervėrimas | M | 4/5 | 2 auks. mon. |
+| laidynė\* | 1d8 | N | L | 30/450/900 | 3 | Svaiginanti vieta | — | 1/2 | 5 sid. mon. |
+| Akmuo ar uola | 1d3 | Y | S | 15/75/150 | — | Svaiginanti vieta | — | — | — |
 
-### Koviniai nuotoliniai ginklai
+_\* Laikoma ½ „Daiktų“ dėl ENC_
 
-| Ginklas | Žala | Dmg Mod | Jėga | Nuotolis | Įkėlimas | Kovos efektai | Imp. Dydis | AP/HP | Kaina |
+_\*\* Laikoma 2 „Daiktų“ dėl ENC_
+
+### Kariniai tolimojo nuotolio ginklai
+
+| Ginklas | Žala | Žalos mod. | Jėga | Nuotolis | Užtais. | Kovos efektai | Perv. dydis | AP/HP | Kaina |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Lankas, ilgas | 1d8 | Y | H | 45/375/750 | 2 | Impale | S | 4/7 | 20GP |
-| Lankas, trumpas | 1d6 | Y | L | 45/300/600 | 2 | Impale | S | 4/4 | 7.5GP |
-| Lankas, kompozitinis ilgas | 1d8 | Y | H | 50/400/800 | 2 | Impale | S | 4/8 | 25GP |
-| Lankas, kompozitinis trumpas | 1d6 | Y | L | 50/325/650 | 2 | Impale | S | 4/5 | 9GP |
-| Arbaletas, lengvas aut.\*\*\* | 1d8 | N | L | 60/300/600 | — | Impale | S | 4/5 | 75GP |
-| Rankinis kirvis\* | 1d6 | Y | S | 30/60/90 | — | Bleed | — | 4/6 | 2.5GP |
+| Lankas, ilgas | 1d8 | Y | H | 45/375/750 | 2 | Pervėrimas | S | 4/7 | 20 auks. mon. |
+| Lankas, trumpas | 1d6 | Y | L | 45/300/600 | 2 | Pervėrimas | S | 4/4 | 7.5 auks. mon. |
+| Lankas, sudėtinis ilgas | 1d8 | Y | H | 50/400/800 | 2 | Pervėrimas | S | 4/8 | 25 auks. mon. |
+| Lankas, sudėtinis trumpas | 1d6 | Y | L | 50/325/650 | 2 | Pervėrimas | S | 4/5 | 9 auks. mon. |
+| Arbaletas, lengvas daugiašūvis\*\*\* | 1d8 | N | L | 60/300/600 | — | Pervėrimas | S | 4/5 | 75 auks. mon. |
+| Rankinis kirvis\* | 1d6 | Y | S | 30/60/90 | — | Kraujavimas | — | 4/6 | 2.5 auks. mon. |
+
+_\* Laikoma ½ „Daiktų“ dėl ENC, turi 1H bruožą_
+
+_\*\* Laikoma 2 „Daiktų“ dėl ENC_
+
+_\*\*\* Laikoma 2 „Daiktų“ dėl ENC, turi „Dvarfo“ ir „Daugiašūvio“ bruožus_
+
+### Tolimojo nuotolio ginklų amunicija
+
+Tokie ginklai kaip lankai ir arbaletai naudoja amuniciją žalai padaryti. Strėles, varžtus (bolt), strėlytes ir kulkas gali pagaminti bet kas, turintis atitinkamą amatų įgūdį, pavyzdžiui, Amatai (Strėlininkas) strėlėms, jei yra tinkamų žaliavų ir tinkama darbo vieta ar dirbtuvės užduočiai atlikti. Visa amunicija parduodama kiekiais, sudarančiais 1 „Daiktą“.
+
+##### Tolimojo nuotolio ginklų amunicija
+
+| Amunicijos tipas | Aprašymas/Žaidimo efektai | Kaina |
+| :-- | :-- | :-: |
+| Strėlės (20) | — | 5 sid. mon. |
+| Arbaleto varžtai (20) | — | 5 sid. mon. |
+| Švininės laidynės kulkos (10) | — | 1 sid. mon. |
+| Laidynės akmuo | Akmenis lengva įsigyti; tačiau jie paprastai padaro vienu laipsniu mažiau žalos ir turi mažesnį nuotolį, palyginti su kulkomis. Nuotolio kategorijos sumažinamos perpus | — |
 
 ---
 ## Šarvai
 
-Šarvai sumažina kūno vietos patiriamą žalą pagal jų šarvų taškų vertę. Pavyzdžiui, žiediniai šarvai turi 3 šarvų taškus, todėl sumažina bet kokią žalą tiek pat. 3 žalos taškų durklo smūgis būtų visiškai užblokuotas. Šarvų trūkumas yra tas, kad jie gali būti sunkūs ir varžyti judesius; ilgai kovojant su metaliniais šarvais, tai atsiliepia nuovargiu ir sulėtina gebėjimą reaguoti.
+Šarvai sumažina žalos kiekį, kurį patiria hitų vieta, pagal savo šarvų taškų vertę. Pavyzdžiui, žiediniai šarvai turi 3 šarvų taškus, todėl sumažina bet kokią žalą tiek pat. Pavyzdžiui, durklo dūris, padarantis 3 taškus žalos, būtų visiškai užblokuotas. Šarvų minusas yra tas, kad jie gali būti sunkūs ir riboti judesius; ilgalaikis kovojimas su metaliniais šarvais pareikalauja jėgų dėl nuovargio ir lėtina reakciją.
 
-Nepriklausomai nuo to, iš ko pagaminti šarvai, jų negalima sluoksniuoti su kitais tipais – tokios koncepcijos jau yra įtrauktos į jų konstrukciją. Daroma prielaida, kad šarvai turi pamušalą ar paminkštinimą, kurio įprasta tikėtis kaip pilnos aprangos dalies.
+Nepriklausomai nuo to, iš kokios medžiagos pagaminti šarvai, jų negalima sluoksniuoti su kitų tipų šarvais – tokios koncepcijos jau įtrauktos į jų konstrukciją. Manoma, kad šarvai turi pamušalą ar minkštinimą, kuris paprastai tikimasi kaip pilno komplekto dalis.
+
+Kiekvienas šarvų tipas apibrėžiamas šiomis savybėmis:
+
+- **AP:** Šarvų taškų skaičius, suteikiamas kiekvienai šių šarvų dengiamai vietai.
+- **Kaina:** Kaina aukso monetomis už kiekvieną dengiamą vietą.
+- **Sunkumas:** Dėvimi šarvai neskaičiuojami į „Daiktų“ skaičių veikėjams, kurie yra įgudę ir pripratę prie savo dėvimų šarvų. Tačiau veikėjams, neįgudusiems naudoti šarvus, arba jei nešiojami papildomi šarvų elementai, jų vertė yra 1 „Daiktas“ už kiekvieną hitų vietą lengviesiems šarvams ir 2 „Daiktai“ už kiekvieną hitų vietą sunkiems šarvams. Taigi, pilnas lengvųjų šarvų komplektas, dėvimas be mokymų arba nešiojamas bet ko, yra iš viso 7 „Daiktų“, o pilnas sunkiųjų šarvų komplektas – iš viso 14.
 
 ### Šarvų lentelė
 
-| Lengvi šarvai | AP | GP Kaina už vietą |
+| Lengvieji šarvai | AP | Aukso mon. kaina už vietą |
 | :-- | :-: | :-: |
-| Kailiai ar kailiai (Furs/Hides) | 1 | 2 |
+| Kailiai ar odos | 1 | 2 |
 | Oda, paminkštinti arba dygsniuoti | 2 | 3 |
-| Kniedytos odos arba žiediniai | 3 | 10 |
-| Brigandina, žvyniniai arba laminuoti | 4 | 30 |
+| Kniedyta oda arba žiediniai šarvai | 3 | 10 |
+| Brigantinos, žvyneliniai arba laminuoti | 4 | 30 |
 
-| Sunkūs šarvai | AP | GP Kaina už vietą |
+| Sunkieji šarvai | AP | Aukso mon. kaina už vietą |
 | :-- | :-: | :-: |
-| Grandininiai | 5 | 40 |
-| Skydeliniai arba plokšteliniai (Splint/Banded) | 6 | 60 |
-| Plokšteliniai (Plate Mail) | 7 | 70 |
-| Pilni plokšteliniai | 8 | 80 |
+| Grandininiai šarvai | 5 | 40 |
+| Plokšteliniai arba juostiniai šarvai | 6 | 60 |
+| Plokšteliniai šarvai (Plate) | 7 | 70 |
+| Pilni plokšteliniai šarvai | 8 | 80 |
+
+## Magiški ritiniai, eliksyrai ir gėrimai (bendri)
+
+Kiekvienas miestas, taip pat dauguma didelių miestelių, turės bent vieną parduotuvę, skirtą prekiauti išnaudojamais magiškais daiktais; o prekeivių pakelėje galima rasti net mažiausiuose kaimeliuose. Ribotą kiekį bendrų ritinių, gėrimų ir eliksyrų galima įsigyti egzotinių prekių magijos parduotuvėse, šventyklose ir net kai kuriose nuotykių ieškotojų parduotuvėse. Tai atspindi tik tuos, kuriuos labiausiai tikėtina rasti, ir jų nėra dideliais kiekiais. Atsargos dideliuose miestuose ir miesteliuose paprastai papildomos kas kelias dienas, o mažesnėse gyvenvietėse – kas savaitę. Žaidimo meistras gali nuspręsti dėl retesnių magiškų daiktų radimo tikimybės kiekvienu atveju atskirai. Visi ritiniai, gėrimai ir eliksyrai atitinka ½ „Daikto“.
+
+#### Bendrų magiškų daiktų lentelė
+
+| Magiškas daiktas | Prieinamumo tikimybė | Aprašymas/Žaidimo efektai | Kaina |
+| :-- | :-- | :-- | :-: |
+| Gydomasis balzamas | 100% tikimybė 1d4+2 | Pirmoji pagalba tampa 1 laipsniu lengvesnė, taip pat paspartinamas natūralus sveikimas, padidinant veikėjo Gydymo greitį 1 punkte kiekvienoje vietoje, kur jis pritaikytas. Viena žaizda negali gauti daugiau nei vieno balzamo pritaikymo. Kiekviename pavyzdyje pakanka 3 atskiroms žaizdoms. | 1 auks. mon. |
+| Magijos išsklaidymo gėrimas | 80% tikimybė 1d3+1 | Panaikina vieną magišką efektą geriančiajam, kurio Intensyvumas mažesnis nei 1d4+1, kaupiamasis. | 50 auks. mon. |
+| Gydomasis gėrimas | 80% tikimybė 1d4+2 | Atstato 1d6+1 hitus vietai, kenčiančiai nuo Nesunkios žaizdos, ir 1 hitą – Sunkiai žaizdai. Neturi jokio poveikio Rimtai žaizdai. Be to, jis stabilizuoja visas sužeistas vietas, sustabdydamas visą kraujavimą ir užkirsdamas kelią mirtinai pabaigai dėl nepriežiūros. | 40 auks. mon. |
+| Stipraus gydymo gėrimas | 40% tikimybė 1d2+1 | Kaip Gydomasis gėrimas, tačiau atstato 1d8+2 hitus Nesunkiai arba Sunkiai žaizdai ir 2 hitus Rimtai žaizdai. Visais kitais atžvilgiais veikia kaip Gydomasis gėrimas. | 80 auks. mon. |
+| Magijos gėrimas | 40% tikimybė 1d2+1 | Šis gėrimas atstatys 1d3+1 anksčiau išnaudotų Magijos taškų. Jis nepadidins veikėjo magijos taškų virš įprasto kiekio. Gėrimas daugiau nei vieno per valandą papildomo poveikio neturi. | 80 auks. mon. |
+| Jėgos gėrimas | 80% tikimybė 1d4+2 | Atstato 1d3+1 Nuovargio lygius. Neturi poveikio Nuovargiui, gautam dėl Kraujo netekimo ar Energijos siurbimo. | 50 auks. mon. |
+| 0 rango burtų ritinys | 100% tikimybė 1d4+1 kiekvieno | Ritinys, turintis 0 rango Arkaninį arba Dievišką burtą. Visi 0 rango burtai paprastai yra prieinami. | 10 auks. mon. |
+| 1 rango burtų ritinys | 100% tikimybė 1d3 kiekvieno | Ritinys, turintis 1 rango Arkaninį arba Dievišką burtą. Visi 1 rango burtai paprastai yra prieinami. | 40 auks. mon. |
+| Šventinto vandens buteliukas | 100% tikimybė 1d4 | Galima mesti iki 10 pėdų. Negyvėliai, demonai, velniai ir kitos tyro blogio būtybės patiria 1d2 žalos taškų 1d3 hitų vietų su „Lengvu“ Atletikos metimu. Šventintas vanduo degins 1d2 raundus. Šarvai apsaugos nuo šios žalos. | 25 auks. mon. |
 
 ---
 ## Įrankiai
 
-Įrankiai apima visus daiktus, kuriuos turėtų turėti kiekvienas save gerbiantis nuotykių ieškotojas: virvę, maišus ir krepšius, žvakes, žibintus ir t. t. Visi šiame sąraše esantys daiktai laikomi pagrįstos kokybės. Jei nenurodyta kitaip, visi įrankiai prilygsta 1 „daiktui“ arba parduodami kiekiais, kurių suma yra 1 „daiktas“.
+Įrankiai apima visus daiktus, kuriuos turėtų turėti bet kuris save gerbiantis nuotykių ieškotojas: virvę, maišus ir krepšius, žvakes, žibintus ir t.t. Visi šiame sąraše esantys daiktai laikomi pagrįstos kokybės. Jei nenurodyta kitaip, visi įrankiai atitinka 1 „Daikto“ vienetą arba parduodami kiekiais, sudarančiais 1 „Daiktą“.#### Įrankių lentelė
 
-| Prekė | Aprašymas/Žaidimo efektai | Kaina |
+| Prekė | Aprašymas / Žaidimo efektai | Kaina |
 | :-- | :-- | :-: |
-| Kuprinė | Talpina iki 10 daiktų be papildomo svorio. | 5SP |
-| Miegmaišis | Antklodė ir minkštas pamušalas miegui. | 1SP |
-| Diržo krepšys | Talpina 1 daiktą arba 100 monetų. | 1CP |
-| Butelis, stiklinis/molinis | Talpina 1 litrą skysčio. | 2SP |
-| Žvakės, 1 val. (10) | 5 pėdų spindulys. | 1SP |
-| Žvakės, 6 val. (10) | 5 pėdų spindulys. | 1GP |
-| Alpinisto rinkinys | Odiniai diržai, kuolai, virvės ir kiti įrankiai. Laipiojimas 1 laipsniu lengvesnis. | 3GP |
-| Maisto puodas | Kelionėms. | 3SP |
-| Amatų įrankiai | Bazinis įrankių rinkinys amatui. | 8GP |
-| Laužtuvas | Brawn (jėgos) metimai laužyti durims, skrynioms – 1 laipsniu lengvesni. | 2.5GP |
-| Pirmosios pagalbos rinkinys | 10 panaudojimų. | 2.5GP |
-| Titnagas ir pintas | Užkuria ugnį per minutę. | 1SP |
-| Kablys (grappling hook) | Metamas iki puses STRx3 pėdų su sėkmingu metimu. | 5SP |
-| Plaktukas/kaltas | Plaktukas – vėzdas, kaltas – peilis. | 1SP |
-| Gydytojo rinkinys | 10 panaudojimų Healing (gydymo) įgūdžiui. | 15GP |
-| Šventas simbolis | Dievybės simbolis. | 5SP |
-| Kopėčios, virvinės 10 pėdų | Laipiojimas 1 laipsniu lengvesnis. | 2SP |
-| Žibintas, bazinis | Dega 2 valandas su 1 flakonu aliejaus, 10 pėdų spindulys. | 1GP |
-| Vagies įrankiai | Spynoms ir spąstams. | 8GP |
-| Veidrodis (metalinis) | Mažas tvirtas rankinis veidrodis. | 1GP |
-| Vinys (50) | Statyboms. | 2CP |
-| Aliejaus flakonas (2) | 2 valandos kuras žibintui. | 1SP |
-| Pergamentas arba popierius (10) | Lapai rašymui/braižymui. | 5SP |
-| Karta (pole), 10 pėdų | Naudojama kaip karka su 1 laipsnio bauda. 2 daiktai. | 1SP |
-| Plunksnos (3) ir rašalas | Rašymui. | 6GP |
-| Strėlinė | Talpina 20 strėlių. | 2SP |
-| Virvė, kanapinė (30 pėdų) | Išlaiko iki 20 SIZ/60 daiktų svorį. | 1GP |
-| Maišas, didelis | Talpina 10 daiktų. 2 daiktai. | 5CP |
-| Maišas, mažas | Talpina 3 daiktus. | 2CP |
-| Krepšys per petį | Talpina 6 daiktus. Lengvai nusimetamas. | 3SP |
-| Burtų knyga, tuščia | 100 puslapių. | 15GP |
-| Burtų komponentų krepšys | Komponentai burtams. | 20SP |
-| Vinys, geležiniai (10) | Laipiojimui ir kt. 1 GP |
-| Deglas, 1 val. (2) | 10 pėdų spindulys. Gali būti naudojamas kaip vėzdas. | 8CP |
-| Deglas, 6 val. (2) | Kaip aukščiau, ilgesnis degimas. | 4SP |
-| Kelioninis davinys (1 savaitė) | Džiovintas maistas. | 7SP |
-| Vandens gertuvė | 2 litrai, užtenka 2 dienoms. | 5CP |
+| Kuprinė | Talpina iki 10 daiktų, neprideda papildomo svorio. | 5SP |
+| Miegmaišis | Antklodė ir minkštas paklotas miegojimui. Paprastai sandariai susuktas ir surištas virvele, kad būtų lengviau transportuoti. | 1SP |
+| Diržo krepšys | Talpina 1 daiktą arba 100 monetų, neprideda papildomo svorio. | 1CP |
+| Butelis, stiklinis/keraminis | Talpina 1 litrą skysčio. | 2SP |
+| Žvakės, 1 valandos (10) | 5 pėdų spindulys. | 1SP |
+| Žvakės, 6 valandų (10) | 5 pėdų spindulys. | 1GP |
+| Alpinisto rinkinys | Odiniai diržai, įkalamieji kabliai, trumpos virvės ir kiti įvairūs įrankiai. Kopimo ridenimai palengvinami vienu laipsniu. | 3GP |
+| Puodas maistui gaminti | Kelionėms. | 3SP |
+| Amato įrankiai | Pagrindiniai įrankiai tam tikram amatui. | 8GP |
+| Laužtuvas | Visi JĖG ridenimai durims, skrynių dangčiams ir pan. atidaryti palengvinami vienu laipsniu. Kovoje skaičiuojamas kaip kuoka. | 2.5GP |
+| Pirmosios pagalbos rinkinys | Naudingas 10 „Pirmosios pagalbos“ įgūdžio panaudojimų. | 2.5GP |
+| Titnagas ir skiltuvas | Įkuria ugnį maždaug per minutę be „Išgyvenimo“ ridenimo (skaičiuojamas kaip ½ daikto). | 1SP |
+| Alpinisto kablys | Gali būti nusviestas iki pusės JĖGx3 pėdų atstumu su sėkmingu „Mėtymo“ ridenimu. | 5SP |
+| Plaktukas/kūjis/3 kaltai | Plaktukai ir kūjai kovoje gali būti naudojami kaip kuoka, kaltai – kaip peilis. | 1SP |
+| Gydytojo rinkinys | Naudingas 10 „Gydymo“ įgūdžio panaudojimų. | 15GP |
+| Šventas simbolis | Globėjos dievybės simbolis. Geros kokybės kaina x10, puikios – x100 (½ daikto). | 5SP |
+| Virvinės kopėčios, 10 pėdų | Kopimo ridenimai palengvinami vienu laipsniu. | 2SP |
+| Žibintas, paprastas | Degs 2 valandas su vienu flakonu aliejaus, 10 pėdų spindulys. | 1GP |
+| Laukų atidarymo įrankiai ir vagies reikmenys | Nedidelis krepšys su įrankiais, naudingais spynoms atrakinti ir spąstams išjungti. | 8GP |
+| Veidrodis (metalinis) | Nedidelis tvirtas rankinis veidrodis. | 1GP |
+| Vinys arba kabės (50) | Tipinės dailidės vinys paprastai medinei statybai. | 2CP |
+| Aliejaus flakonas (2) | 2 valandų kuras žibintui. Sudužus išlaikys atvirą liepsną 1 minutę. | 1SP |
+| Pergamento arba popieriaus lapai (10) | Dideli pergamento arba popieriaus lapai, tinkantys viskam – nuo meno kūrinio sukūrimo iki požemio žemėlapio braižymo. | 5SP |
+| Kartis, 10 pėdų | Gali būti naudojama kaip ietis, taikant 1 laipsnio sunkumą. Dydis +1 pakopa. Skaičiuojama kaip 2 „daiktai“. | 1SP |
+| Plunksnos (3) ir rašalas | Plunksnų rinkinys ir pakankamai rašalo užpildyti maždaug 20 puslapių detalių užrašų. | 6GP |
+| Strėlinė | Talpina iki 20 strėlių arba arbaleto varžtų. | 2SP |
+| Virvė, kanapinė (30 pėdų) | Laiko ne daugiau kaip 20 DYD / 60 daiktų. | 1GP |
+| Maišas, didelis | Skaičiuojamas kaip 2 daiktai. Talpina iki 10 daiktų, neprideda papildomo svorio (jei leidžia dydis ir tipas). | 5CP |
+| Maišas, mažas | Talpina iki 3 daiktų, neprideda papildomo svorio (jei leidžia dydis ir tipas). | 2CP |
+| Pečių krepšys / krepšys | Talpina iki 6 daiktų, neprideda papildomo svorio. Dėl peties diržo gali būti lengvai numestas laisvu veiksmu. | 3SP |
+| Burtų knyga, tuščia | 100 specialiai paruoštų puslapių kaina. | 15GP |
+| Burtų komponentų krepšys | Bendrieji komponentai burtams atlikti. Kiekviename krepšyje telpa pakankamai medžiagų burtams burti viso nuotykio arba vieno nuotykių mėnesio metu. | 20SP |
+| Kuolai, geležiniai (10) | Naudingi kuriant atramas kopimui, durims užtvirtinti ir kitoms funkcijoms. Geležinis kuolas gali būti naudojamas kaip improvizuotas durklas kovoje taikant 1 laipsnio sunkumą ir suteikiant +2 šarvų taškus bei pataikymo taškus. | 1GP |
+| Deglas, 1 valandos (2) | 10 pėdų spindulys. Kovoje skaičiuojamas kaip kuoka, padaranti papildomą 1d4 ugnies žalą; numetus turi 10% tikimybę užgesti, sviedus – 60% tikimybę. | 8CP |
+| Deglas, 6 valandų (2) | Kaip ir anksčiau, ilgesnė trukmė. | 4SP |
+| Kelioninis davinys (1 savaitė) | Kelioninį davinį sudaro ilgai negendantis maistas, pavyzdžiui, džiovinta mėsa, sūris, duona (dažniausiai nerauginta paplotėlių pavidalu, kad būtų lengviau transportuoti) ir grūdai arba riešutai. | 7SP |
+| Vandens maišas | Talpina 2 kvortas skysčio – pakankamai vandens, kad nuotykių ieškotojas išgyventų 2 dienas vidutinėmis sąlygomis. | 5CP |

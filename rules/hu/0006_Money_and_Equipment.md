@@ -1,323 +1,319 @@
-# 6. Fejezet: Pénz és Felszerelés
+# 6. fejezet: Pénz és felszerelés
 
-Ez a fejezet a pénzről szól: mennyi van a karaktereknek, és mit vásárolhatnak rajta. A _Classic Fantasy Imperative_ az Aranypénzt (AP) használja a játék standard pénznemeként, ahol a legtöbb felszerelés, áru és szolgáltatás költségét AP-ben mérik. Egy AP az általános ára egy napnyi ételnek, italnak és szállásnak egy szerény életmódot folytató személy számára.
+Ez a fejezet a pénzről szól: mennyi van a karaktereknek, és mit vásárolhatnak rajta. A _Classic Fantasy Imperative_ az aranypénzt (AP) használja a játék standard pénznemeként, ahol a legtöbb felszerelés, áru és szolgáltatás ára AP-ben van megadva. Egy AP az ára egy személy egynapi étkezésének, italának és szállásának, ha szerény életmódot folytat.
 
-Így egy szerény életmódot folytató karakternek személyesen körülbelül 7 AP-be kerül hetente a puszta megélhetés. Attól függően, hogy a karakterek hol tartózkodnak, előfordulhat, hogy a pénzérméket egyáltalán nem használják (vagy gyanakvással tekintenek rájuk). Egyes kultúrák a cserekereskedelmet és a természetbeni fizetést többre értékelik az arany csörgésénél.
+Ennek megfelelően egy szerény életmódot élő karakter számára a megélhetés hetente körülbelül 7 AP-be kerül. Attól függően, hogy a karakterek hol tartózkodnak, a pénzérmék használata nem is biztos, hogy elterjedt (vagy gyanakvással kezelik). Egyes kultúrák a cserekereskedelmet és a természetbeni fizetést többre értékelik az arany csengésénél.
 
-A _Classic Fantasy Imperative_ standard pénzneme a Rézpénzből (RP), Ezüstpénzből (EP), Aranypénzből (AP) és Platinapénzből (PP) áll. Az átváltási árfolyam a következő:
+A _Classic Fantasy Imperative_ standard pénzneme a rézpénz, ezüstpénz, aranypénz és platinapénz. Az átváltási arány a következő:
 
 ##### Standard átváltási táblázat
 
-| Érme | RP | EP | AP | PP |
+| Érme | RP | ÉP | AP | PP |
 | :-- | :-: | :-: | :-: | :-: |
 | Rézpénz (RP) | 1 | 1/10 | 1/100 | 1/500 |
-| Ezüstpénz (EP) | 10 | 1 | 1/10 | 1/50 |
+| Ezüstpénz (ÉP) | 10 | 1 | 1/10 | 1/50 |
 | Aranypénz (AP) | 100 | 10 | 1 | 1/5 |
 | Platinapénz (PP) | 500 | 50 | 5 | 1 |
 
-Általában, ha egy tárgy vagy szolgáltatás ára különböző értékű érmékből áll, azt tizedesjegyekkel jelölik: 1,5 AP 1 aranyat és 5 ezüstöt jelent, mivel 5 ezüst az aranypénz fele. Hasonlóképpen, 3,5 EP 3 ezüstöt és 5 rezet jelent.
+Általában, ha egy tárgy vagy szolgáltatás ára különböző értékű érmékből áll, azt tizedesjegyekkel jelölik: 1,5 AP 1 aranyat és 5 ezüstöt jelent, mivel 5 ezüst egy aranypénz fele. Hasonlóképpen, 3,5 ÉP 3 ezüstöt és 5 rezet jelent.
 
-Egyes kultúrák, jellemzően a mezőgazdasági, nomád és barbár közösségek, az állatállományban mérik a vagyont. Egyetlen nagy haszonállat, például egy tehén, körülbelül 10 AP-t ér. Egy disznó vagy juh körülbelül 2,5 AP-t (2 AP, 5 EP), egy csapat tyúk pedig körülbelül 1,5 AP-t (1 AP, 5 EP) ér. Mások, mint az orkok, goblinok és egyéb humanoid fajok, akiknek közösségeiken belül kevés hasznuk lehet a pénzérmékből, ismerik azok értékét a civilizált fajok szemében, ezért általában náluk is találhatók pénzérmék.
+Egyes kultúrák – jellemzően a földművelő, nomád és barbár közösségek – a vagyont élőállatban mérik. Egyetlen nagyobb haszonállat, például egy tehén, körülbelül 10 AP-t ér. Egy disznó vagy juh körülbelül 2,5 AP-t (2 AP, 5 ÉP), egy tyúkállomány pedig körülbelül 1,5 AP-t (1 AP, 5 ÉP) ér. Mások, mint például az orkok, goblinok és más humanoid fajok, akiknek a saját közösségükön belül kevés hasznuk lehet a pénzérmékből, tisztában vannak az értékével a civilizált fajok szemében, ezért általában náluk is találhatók pénzérmék.
 
 ---
-## Teher (Encumbrance)
+## Teher
 
-A _Classic Fantasy Imperative_ nem igényel részletes teher-szabályokat, ha a Játékmester feleslegesnek tartja azokat. Ehelyett a karakter annyi „Tárgyat” cipelhet, amennyi megegyezik az ERE (Erő) tulajdonságával. A „tárgy” definíció szerint valamilyen súllyal, térfogattal vagy állaggal bíró dolog. Tárgy-példák:
+A _Classic Fantasy Imperative_ nem igényel részletes teherkezelési szabályokat, ha a Kalandmester feleslegesnek tartja azokat. Ehelyett a karakter az ERŐ Tulajdonságának megfelelő számú „Tárgyat” cipelhet. A „tárgy” valamilyen súlyú, térfogatú vagy állagú dologként definiált fogalom. Tárgyakra példák:
 
-- Egy egykezes közelharci fegyver vagy pajzs (a kétkezes fegyverek és minden egyéb pajzs 2 Tárgynak számít; a kis fegyverek, mint a tőrök, fél Tárgynak számítanak)
-- Könnyű vagy nehéz íj vagy könnyű számszeríj (a nehéz számszeríjak és a könnyű ismétlő számszeríjak 2 Tárgynak számítanak); a parittya fél Tárgynak számít.
-- Tegzes (20 nyílvesszőt vagy vesszőt szállíthat külön súly nélkül)
-- Teljesen megrakott hátizsák (akár 10 Tárgyig külön súly nélkül)
-- Teljesen megrakott zsák (2 Tárgynak számít, és akár 10 Tárgyat vagy 1000 érmét szállíthat). Az összecsukható tárolókat, mint a zsákokat és erszényeket, csak üresen lehet más tárolókba helyezni.
+- Egykezes közelharci fegyver vagy pajzs (a kétkezes fegyverek és minden egyéb pajzs 2 Tárgynak számít; az apró fegyverek, mint például a tőrök, fél Tárgynak számítanak)
+- Könnyű vagy nehéz íj, vagy könnyű számszeríj (a nehéz számszeríjak és a könnyű ismétlő számszeríjak 2 Tárgynak számítanak); a parittya fél Tárgynak számít.
+- Tegzes (20 nyílvessző vagy számszeríjvessző hordozható benne külön súly nélkül)
+- Teljesen megrakott hátizsák (legfeljebb 10 Tárgy hordozható benne külön súly nélkül)
+- Teljesen megrakott zsák (2 Tárgynak számít, és akár 10 Tárgyat vagy 1000 érmét is elbír). Az összehajtható tárolók, mint a zsákok és erszények, csak akkor hordozhatók más tárolókban, ha üresek.
 - Varázskönyv, grimoár vagy kötet
-- Alapvető szerszámkészlet (kalapács, véső, reszelő, karók, szögek stb.; vagy egy tolvaj készlete)
-- Erszény vagy zacskó, amely 1 Tárgyat, 100 érmét, 20 parittyakövet vagy 10 ólomparittya-golyót tartalmaz, külön súly nélkül.
-- Egyhetes adag élelem
-- Teletöltött kulacs
-- Minden teljes 50 tetszőleges értékű érme egy fél „Tárgy” súlyának felel meg.
-- Tételezzük fel, hogy 1 MÉ (Méret) 3 „Tárgynak” felel meg.
+- Alapvető szerszámkészlet (kalapács, véső, reszelő, cövekek, szegek stb.; vagy tolvajszerszámok)
+- Erszény vagy zacskó, amely 1 Tárgyat, 100 érmét, 20 parittyakövet vagy 10 ólom parittya-lövedéket tartalmaz, külön súly nélkül.
+- Egy hétre elegendő élelem
+- Teletöltött tömlő
+- Minden teljes 50 érme (függetlenül a címlettől) fél „Tárgynak” felel meg.
+- Feltételezzük, hogy 1 MÉR 3 „Tárgynak” felel meg.
 
-Minden további Tárgy a karakter ERE értéke felett 1-gyel csökkenti a Kezdeményező Bónuszt. Minden 6, ERE feletti Tárgy 5 lábbal (kb. 1,5 méterrel) csökkenti a karakter Mozgási Sebességét. Végül, ha a karakter az ERE-jénél több Tárgyat cipel, az ERE vagy ÜGY (Ügyesség) tulajdonságon alapuló képzettségek 1 fokozattal nehezebbek. Ha a karakter az ERE duplájánál több Tárgyat cipel, ezek a képzettségek 2 fokozattal nehezebbek.
+Minden, a karakter ERŐ-jén felüli további Tárgy 1-gyel csökkenti a karakter Kezdeményező Bónuszát. Minden 6, ERŐ-n felüli Tárgy 5 lábbal (kb. 1,5 méterrel) csökkenti a karakter Mozgási Sebességét. Végül, ha a karakter az ERŐ-jénél több Tárgyat cipel, az ERŐ-t vagy ÜGY-et alapként használó képességek 1 fokozattal nehezebbek lesznek. Ha a karakter az ERŐ-je kétszeresénél több Tárgyat cipel, ezek a képességek 2 fokozattal nehezebbek.
 
-Páncél-teher: Az egyszerűség kedvéért a viselt páncél nem számít bele a cipelt Tárgyakba azoknál a karaktereknél, akik jártasak a viselt páncéljukban és hozzászoktak ahhoz. Azonban azoknál a karaktereknél, akik nem jártasak a páncélban, vagy ha további páncéldarabokat cipelnek, azok értéke 1 Tárgy találati helyenként a könnyű páncéloknál, és 2 Tárgy találati helyenként a nehéz páncéloknál. Így egy teljes könnyű páncélzat, amelyet egy képzetlen személy visel vagy bárki cipel, összesen 7 Tárgyat tesz ki, egy teljes nehéz páncélzat pedig összesen 14-et. Ráadásul egy teljes nehéz páncélzat még egy hátizsákba sem férne bele.
+Páncélteher: Az egyszerűség kedvéért a viselt páncél nem számít bele a hordozott Tárgyakba azoknál a karaktereknél, akik jártasak a viselt páncéljukban, és hozzászoktak ahhoz. Azonban azoknál a karaktereknél, akik nem jártasak a páncélzatban, vagy ha további pánzérméket cipelnek, azok könnyű páncél esetén Találati Helyenként 1 Tárgynak, nehéz páncél esetén pedig Találati Helyenként 2 Tárgynak számítanak. Így egy teljes könnyű páncélzat, amelyet képzetlen személy visel, vagy bárki cipel, összesen 7 Tárgy, egy teljes nehéz páncélzat pedig összesen 14. Ezen felül egy teljes nehéz páncélzat még egy hátizsákba sem fér bele.
 
-A Játékmesterek alkalmazzanak józan észt. Nyilvánvalónak kell lennie, hogy még a legerősebb emberi karakter sem bóklászhat nyolc különböző fegyverrel, tartalék páncéllal, teljes utazó felszereléssel, egy hordó sörrel és egy királyság kiváltására elegendő arannyal.
+A Kalandmesterek használják a józan észt. Nyilvánvalónak kell lennie, hogy még a legerősebb emberi karakter sem bóklászhat nyolc különböző fegyverrel, tartalék páncéllal, teljes utazófelszereléssel, egy hordó sörrel és annyi arannyal, amennyi egy királyság váltságdíjára is elég lenne.
 
 ---
 ## Felszerelés
 
-Ez a rész a felszerelésről szól: páncélok, fegyverek, ruházat, szerszámok és egyéb apróságok, amelyekre a karakterek kalandozás közben támaszkodnak. Minden felszerelési tárgy egy vagy több elem alapján írható le (némelyik többre vonatkozik, mint más). Ezek:
+Ez a rész a felszerelésről szól: páncélokról, fegyverekről, ruházatról, szerszámokról és egyéb apróságokról, amelyekre a karaktereknek a kalandozás során szükségük van. Minden felszerelési tárgyat egy vagy több elem jellemez (egyesekre több vonatkozik, mint másokra). Ezek:
 
-- Költség (AP, EP vagy RP-ben)
-- Páncélpontok (PP): a tárgy természetes ellenálló képessége a sérülésekkel szemben
-- Életpontok (ÉP): mennyi sérülést képes elviselni a tárgy, mielőtt megsemmisülne vagy használhatatlanná válna.
+- Költség (AP-ben, ÉP-ben vagy RP-ben)
+- PáncélPontok: a tárgy természetes ellenállása a sérülésekkel szemben
+- ÉletPontok: mennyi sérülést bír ki a tárgy, mielőtt megsemmisülne vagy használhatatlanná válna.
 
 #### Felszerelés ára
 
-A fejezetben felsorolt összes elem a standard minőséget képviseli. Jobb vagy rosszabb minőségű tárgyak elérhetőek drágábban vagy olcsóbban. A megadott árak jó elérhetőséget feltételeznek. Amikor valamiből hiány van, az árak emelkednek, és a cikkektől függően a megadott érték 10%-a és 1000%-a (1d100x10%) közötti lehet. A környezet szintén befolyásolja az elérhetőséget, és ezáltal a költségeket. A tárgyak és áruk könnyebben és olcsóbban beszerezhetők a nagyobb településeken, ahol kialakult piacok és kereskedők vannak. Távoli vagy vidéki területeken a helyileg előállított legalapvetőbb javakon és élelmiszereken kívül mindent nehezebb beszerezni; ezek magasabb árat követelnek majd, ha egyáltalán elérhetőek.
+Az ebben a fejezetben felsorolt összes elem a standard minőségű példákat képviseli. Jobb vagy rosszabb minőségű tárgyak is elérhetőek, megnövelt vagy csökkentett áron. A megadott árak feltételezik a jó elérhetőséget. Amikor valamiből hiány van, az árak emelkednek, és az árucikk függvényében akár 10% és 1000% között is lehetnek a megadottnál (1d100x10%). A környezet szintén befolyásolja az elérhetőséget és így a költségeket is. A tárgyakat és árukat könnyebb és olcsóbb beszerezni nagyobb településeken, ahol kiépült piacok és kereskedők vannak. Távoli vagy vidéki területeken a legalapvetőbb helyi termékeken és élelmiszereken kívül minden mást sokkal nehezebb lesz beszerezni; és ezek magasabb áron is lesznek elérhetőek, ha egyáltalán kaphatóak.#### Ezüst fegyverek
 
-#### Ezüst fegyverek
-
-A fémfegyverek tisztán ezüstből is készülhetnek, így árthatnak az olyan lényeknek, mint a vérfarkasok. Egy ezüstfegyver költségét a normális tízszeresének kell számítani, hacsak nincs másképp meghatározva. Az ezüstfegyvereknek 1-gyel kevesebb Páncélpontja és 2-vel kevesebb Életpontja van. Ezenkívül eggyel kevesebb sebzést okoznak a páncélos ellenfelek ellen (így egy ezüsttőr 1d4 sebzést okoz 1d4+1 helyett).
+A fémfegyverek tisztán ezüstből is készülhetnek, így árthatnak az olyan lényeknek, mint a vérfarkasok. Az ezüstfegyverek költsége tízszerese a normálnak, hacsak más nincs meghatározva. Az ezüstfegyverek 1-gyel kevesebb páncélponttal (Armor Point) és 2-vel kevesebb életerővel (Hit Points) rendelkeznek. Ezenkívül egy ponttal kevesebb sebzést okoznak a páncélos ellenfelek ellen (így egy ezüst tőr 1d4 sebzést okoz 1d4+1 helyett).
 
 ---
 ## Közelharci fegyverek
 
-Minden fegyvert egy sor tulajdonság határoz meg, amelyek a következők:
+Minden fegyver tulajdonságai a következők:
 
-- **Típus:** Hogy a fegyver alapfegyvernek vagy harci fegyvernek minősül-e.
-- **Kezek:** A fegyver megfelelő használatához szükséges kezek száma.
-- **Sebzés:** A sebzés mértéke, amelyet a fegyver okoz, ha a támadás sikeres.
-- **Méret:** Minden fegyvert tömege, emelőhatása és stabilitása alapján értékelnek. A Méretet a fegyver sebzésokozó és sebzéscsökkentő képességének meghatározására használják (lásd a [Sebzéscsökkentés](0008_Combat.md?id=damage-reduction) szabályait). A méretkategóriák: Kicsi (K), Közepes (Kö), Nagy (N), Hatalmas (H) és Óriási (Ó).
-- **Harci hatások:** A fegyver kialakítása lehetővé teszi a fegyverspecifikus Különleges Hatások használatát. A kardok például vágnak és szúrnak, ezért hozzáférhetnek a Döfés és Vérzés hatásokhoz, míg egy buzogány nem képes ezekre a hatásokra, de helyette Helyi Kábítást okozhat (lásd a [Különleges Hatások](0008_Combat.md?id=special-effects-1) részt).
-- **PP/ÉP:** Minden fegyvert értékelnek Páncélpontjaik és Életpontjaik alapján; azt mérik, mennyire képesek ellenállni a közvetlen sérüléseknek, és mennyi sérülést bírnak ki a törés előtt. Azokat a fegyvereket, amelyek sebzőképességüket a fémnek köszönhetik, bronzból vagy vasból készültnek kell tekinteni.
-- **Tulajdonságok:** Egyes fegyverek specializált jellegük miatt bizonyos tulajdonságokkal bírnak, amelyek megkülönböztetik őket a hasonló stílusú fegyverektől. A gyakori tulajdonságok:
-  - _Szöges_ – Ha döfést okoz, teljes sebzést okoz a kihúzáskor, a felezett helyett.
-  - _Csapdázó_ – Ha támadó fegyver hárítására használják, az a fegyver egy mérettel kisebbnek számít, mint amekkora valójában. Tehát egy Nagy kard Közepesnek, egy Közepes kard Kicsinek számít. A már amúgy is Kicsi fegyverek érintetlenek maradnak.
-  - _Rugalmas_ – Ha az ellenfél pajzsot használ hárításra, a pajzs egy mérettel kisebbnek számít, mint amekkora valójában. Tehát egy Hatalmas pajzs Nagynak, egy Nagy pajzs Közepesnek számít, és így tovább.
+- **Típus:** A fegyver alap- vagy harci fegyvernek minősül-e.
+- **Kéz:** A fegyver megfelelő használatához szükséges kezek száma.
+- **Sebzés:** A fegyver által okozott sebzés mértéke sikeres támadás esetén.
+- **Méret:** Minden fegyvert tömege, áttétele és stabilitása alapján értékelnek. A méret a fegyver sebzésokozó és sebzéscsökkentő képességének meghatározására szolgál (lásd a [Sebzéscsökkentés](../0008_Combat.md?id=damage-reduction) szabályait). A méretkategóriák: Kicsi (S), Közepes (M), Nagy (L), Hatalmas (H) és Óriási (E).
+- **Harci hatások:** A fegyver kialakítása lehetővé teszi a fegyverspecifikus különleges hatások elérését. A kardok például vágnak és szúrnak, így rendelkeznek az Átütés és Vérzés hatásokkal, míg egy buzogány nem képes ezekre, de képes Helyszín elkábítására (lásd [Különleges hatások](../0008_Combat.md?id=special-effects-1)).
+- **AP/HP:** Minden fegyver értékelése tartalmazza a páncélpontjait és életerőpontjait; ezek határozzák meg, mennyire bírják a közvetlen sérüléseket, és mekkora kárt szenvedhetnek el, mielőtt eltörnének. Azoknál a fegyvereknél, amelyeknél a sebzés a fémanyagtól függ, bronzot vagy vasat feltételezünk.
+- **Jellemzők:** Egyes fegyverek speciális természetükből adódóan bizonyos tulajdonságokkal vagy jellemzőkkel bírnak, amelyek megkülönböztetik őket a hasonló stílusú fegyverektől. A leggyakoribb jellemzők:
+  - _Szálkás_ – Ha átüt, a fegyver kihúzásakor teljes sebzést okoz a fele helyett.
+  - _Foglyul ejtő_ – Ha egy támadó fegyver hárítására használják, az a fegyver egy méretosztállyal kisebbnek számít. Tehát egy Nagy kard Közepesnek, egy Közepes kard pedig Kicsinek számít. A már eleve Kicsi fegyvereket ez nem érinti.
+  - _Rugalmas_ – Ha az ellenfél pajzsot használ hárításra, a pajzs egy méretosztállyal kisebbnek számít. Tehát egy Hatalmas pajzs Nagynak, egy Nagy pajzs Közepesnek számít, és így tovább.
   - _Lovas_ – A fegyvert mozgó hátas hátáról kell használni.
-  - _Passzív Blokkolás_ – A fegyver több, egymással szomszédos találati helyet is képes passzívan blokkolni.
-  - _Távolról Hárító_ – A fegyver képes hárítani a távolsági fegyvereket.
-  - _Beállítható_ – A fegyver beállítható gyalogos vagy lovas roham fogadására.
-  - _Lopakodó_ – A fegyvert rajtaütésből kell használni.
-  - _Dobható_ – A fegyver távolsági fegyverként is használható közelharci fegyver mellett.
-- **Költség:** A fegyver költsége Arany- és/vagy Ezüstpénzben. 2,5 AP 2 aranyat és 5 ezüstöt jelent.
-- **Teher:** Hacsak nincs másképp meghatározva, minden közelharci fegyver 1 „Tárgynak” felel meg.
+  - _Passzív blokk_ – A fegyver több, egymással szomszédos testtájat is képes passzívan blokkolni.
+  - _Távolsági hárítás_ – A fegyver képes hárítani a távolsági fegyvereket.
+  - _Szegezett_ – A fegyver gyalogos vagy lovas roham fogadására is beállítható.
+  - _Lopakodó_ – A fegyvert rajtaütésszerűen kell használni.
+  - _Dobható_ – A fegyver távolsági fegyverként és közelharci fegyverként is használható.
+- **Költség:** A fegyver ára aranyban és/vagy ezüstben. 2.5AP jelent 2 aranyat és 5 ezüstöt.
+- **Teher:** Hacsak más nincs meghatározva, minden közelharci fegyver 1 „Tárgy”-nak felel meg.
 
-### Alapvető közelharci fegyverek
+### Alap közelharci fegyverek
 
-| Alapfegyver | Kezek | Sebzés | Méret | Harci hatások | PP/ÉP | Tulajdonságok | Költség |
+| Alap fegyver | Kéz | Sebzés | Méret | Harci hatások | AP/HP | Jellemzők | Költség |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Buzogány | 1H | 1d6 | Kö | Ütés, Helyi kábítás | 4/4 | — | 5EP |
-| Tőr\* | 1H | 1d4+1 | K | Vérzés, Döfés | 6/8 | Dobható | 3AP |
-| Nagy buzogány\*\* | 2H | 2d6 | H | Ütés, Helyi kábítás | 4/10 | — | 5AP |
-| Kézi balta\* | 1H | 1d6 | K | Vérzés | 3/6 | Dobható | 2,5AP |
-| Hosszú lándzsa\*\* | 2H | 1d10+1 | N | Döfés | 4/10 | Beállítható | 3AP |
-| Buzogány (nehéz) | 1H | 1d8 | Kö | Ütés, Helyi kábítás | 6/6 | — | 10AP |
-| Buzogány (nehéz)\*\* | 2H | 1d8+2 | Kö | Ütés, Helyi kábítás | 6/10 | — | 20AP |
-| Reggeli csillag | 1H | 2d4 | Kö | Ütés, Helyi kábítás | 4/10 | — | 15AP |
-| Negyedbot\*\* | 2H | 1d8 | Kö | Helyi kábítás | 4/8 | — | 2AP |
-| Rövid lándzsa | 1H | 1d8+1 | Kö | Döfés | 4/5 | Dobható, Beállítható | 2AP |
-| Sarló | 1H | 1d6 | Kö | Vérzés, Döfés | 3/8 | — | 7AP |
+| Buzogány | 1K | 1d6 | M | Ütés, Helyszín elkábítása | 4/4 | — | 5EP |
+| Tőr\* | 1K | 1d4+1 | S | Vérzés, Átütés | 6/8 | Dobható | 3AP |
+| Nagy buzogány\*\* | 2K | 2d6 | H | Ütés, Helyszín elkábítása | 4/10 | — | 5AP |
+| Kézi balta\* | 1K | 1d6 | S | Vérzés | 3/6 | Dobható | 2.5AP |
+| Hosszú lándzsa\*\* | 2K | 1d10+1 | L | Átütés | 4/10 | Szegezett | 3AP |
+| Buzogány | 1K | 1d8 | M | Ütés, Helyszín elkábítása | 6/6 | — | 10AP |
+| Nehéz buzogány\*\* | 2K | 1d8+2 | M | Ütés, Helyszín elkábítása | 6/10 | — | 20AP |
+| Reggeli csillag | 1K | 2d4 | M | Ütés, Helyszín elkábítása | 4/10 | — | 15AP |
+| Hosszú bot\*\* | 2K | 1d8 | M | Helyszín elkábítása | 4/8 | — | 2AP |
+| Rövid lándzsa | 1K | 1d8+1 | M | Átütés | 4/5 | Dobható, Szegezett | 2AP |
+| Sarló | 1K | 1d6 | M | Vérzés, Átütés | 3/8 | — | 7AP |
 
-_\* ½ Tárgynak számít a TEHER tekintetében_
+_\* Teher tekintetében ½ Tárgynak számít_
 
-_\*\* 2 „Tárgynak” számít a TEHER tekintetében_
+_\*\* Teher tekintetében 2 Tárgynak számít_
 
-### Harci fegyverek
+### Harci közelharci fegyverek
 
-| Fegyver | Kezek | Sebzés | Méret | Harci hatások | PP/ÉP | Tulajdonságok | Költség |
+| Fegyver | Kéz | Sebzés | Méret | Harci hatások | AP/HP | Jellemzők | Költség |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Bunkós lánc | 1H | 1d6+1 | Kö | Ütés, Megkötözés, Helyi kábítás | 6/8 | Rugalmas | 25AP |
-| Korcs kard | 1H / 2H | 1d8 / 1d10 | Kö / N | Vérzés, Döfés, +Roncsolás (2H) | 6/12 | — | 25AP |
-| Harci balta | 1H / 2H | 1d6+1 / 1d8+1 | Kö / N | Vérzés, Roncsolás | 4/8 | — | 10AP |
-| Széleskard | 1H | 1d8 | Kö | Vérzés, Döfés | 6/10 | — | 18AP |
-| Lánc | 1H | 1d4 | Kö | Ütés, Megkötözés | 8/6 | — | 1AP |
-| Falchion | 1H | 1d6+2 | Kö | Vérzés | 6/10 | — | 20AP |
-| Ostor | 1H | 1d6 | Kö | Ütés | 3/6 | Rugalmas | 2,5AP |
-| Ostor (nehéz)\*\* | 2H | 1d10 | N | Ütés, Helyi kábítás | 4/10 | Rugalmas | 25AP |
-| Garrot (fojtókötél)\* | 2H | 1d2 | K | — | 1/2 | Lopakodó | 1,5AP |
-| Glaive\*\* | 2H | 1d10+2 | N | Vérzés, Roncsolás | 4/10 | — | 25AP |
-| Nagy balta\*\* | 2H | 2d6+2 | H | Vérzés, Roncsolás | 4/10 | — | 15AP |
-| Nagy pöröly\*\* | 2H | 1d10+3 | H | Ütés, Helyi kábítás, Roncsolás | 4/10 | — | 25AP |
-| Nagy kard\*\* | 2H | 2d8 | H | Vérzés, Döfés, Roncsolás | 6/12 | — | 30AP |
-| Halberd/Poleaxe\*\* | 2H | 1d8+2 | N | Megkötözés, Döfés, Roncsolás | 4/10 | Beállítható | 20AP |
-| Kés\* | 1H | 1d3 | K | Vérzés, Döfés | 5/4 | — | 1AP |
-| Lándzsa\*\* | 1H | 1d10+2 | H | Döfés, Roncsolás | 4/10 | Lovas | 15AP |
-| Hosszúkard | 1H | 1d8 | Kö | Vérzés, Döfés | 6/12 | — | 20AP |
-| Main gauche\* | 1H | 1d4 | K | Vérzés, Döfés | 6/10 | Csapdázó | 18AP |
-| Csákány | 1H | 1d6+1 | Kö | Helyi kábítás, Roncsolás | 6/10 | — | 18AP |
-| Csákány (nehéz)\*\* | 2H | 1d8+2 | N | Döfés, Helyi kábítás, Roncsolás | 6/10 | — | 25AP |
-| Háló\* | 1H | 1d4 | K | Megkötözés | 2/20 | Csapdázó | 2AP |
-| Pike\*\* | 2H | 1d10+2 | N | Döfés | 4/12 | Beállítható | 9AP |
-| Rapír | 1H | 1d8 | Kö | Döfés | 5/8 | — | 10AP |
-| Szablya | 1H | 1d6+1 | Kö | Vérzés, Döfés | 6/8 | — | 23AP |
-| Scimitar | 1H | 1d8 | Kö | Vérzés | 6/10 | — | 20AP |
-| Rövid kard | 1H | 1d6 | Kö | Vérzés, Döfés | 6/8 | — | 10AP |
-| Trident | 1H | 1d8 | Kö | Döfés | 4/10 | Szöges | 16AP |
-| Harci kalapács | 1H | 1d8+1 | Kö | Helyi kábítás | 3/8 | — | 15AP |
-| Ostor\*\*\* | 1H | 1d3 | Kö | Helyi kábítás | 2/8 | Rugalmas, Csapdázó | 10AP |
+| Láncos buzogány | 1K | 1d6+1 | M | Ütés, Gubancolás, Helyszín elkábítása | 6/8 | Rugalmas | 25AP |
+| Fattyúkard | 1K / 2K | 1d8 / 1d10 | M / L | Vérzés, Átütés, +Szétzúzás (2K) | 6/12 | — | 25AP |
+| Harci balta | 1K / 2K | 1d6+1 / 1d8+1 | M / L | Vérzés, Szétzúzás | 4/8 | — | 10AP |
+| Széleskard | 1K | 1d8 | M | Vérzés, Átütés | 6/10 | — | 18AP |
+| Lánc | 1K | 1d4 | M | Ütés, Gubancolás | 8/6 | — | 1AP |
+| Falchion | 1K | 1d6+2 | M | Vérzés | 6/10 | — | 20AP |
+| Ostor | 1K | 1d6 | M | Ütés | 3/6 | Rugalmas | 2.5AP |
+| Nehéz ostor\*\* | 2K | 1d10 | L | Ütés, Helyszín elkábítása | 4/10 | Rugalmas | 25AP |
+| Fojtókötél\* | 2K | 1d2 | S | — | 1/2 | Lopakodó | 1.5AP |
+| Glaive\*\* | 2K | 1d10+2 | L | Vérzés, Szétzúzás | 4/10 | — | 25AP |
+| Nagy balta\*\* | 2K | 2d6+2 | H | Vérzés, Szétzúzás | 4/10 | — | 15AP |
+| Nagy pöröly\*\* | 2K | 1d10+3 | H | Ütés, Helyszín elkábítása, Szétzúzás | 4/10 | — | 25AP |
+| Nagykard\*\* | 2K | 2d8 | H | Vérzés, Átütés, Szétzúzás | 6/12 | — | 30AP |
+| Halabárd/Pollaxe\*\* | 2K | 1d8+2 | L | Gubancolás, Átütés, Szétzúzás | 4/10 | Szegezett | 20AP |
+| Kés\* | 1K | 1d3 | S | Vérzés, Átütés | 5/4 | — | 1AP |
+| Lándzsa\*\* | 1K | 1d10+2 | H | Átütés, Szétzúzás | 4/10 | Lovas | 15AP |
+| Hosszúkard | 1K | 1d8 | M | Vérzés, Átütés | 6/12 | — | 20AP |
+| Main gauche\* | 1K | 1d4 | S | Vérzés, Átütés | 6/10 | Foglyul ejtő | 18AP |
+| Katonai csákány | 1K | 1d6+1 | M | Helyszín elkábítása, Szétzúzás | 6/10 | — | 18AP |
+| Nehéz katonai csákány\*\* | 2K | 1d8+2 | L | Átütés, Helyszín elkábítása, Szétzúzás | 6/10 | — | 25AP |
+| Háló\* | 1K | 1d4 | S | Gubancolás | 2/20 | Foglyul ejtő | 2AP |
+| Piké\*\* | 2K | 1d10+2 | L | Átütés | 4/12 | Szegezett | 9AP |
+| Rapír | 1K | 1d8 | M | Átütés | 5/8 | — | 10AP |
+| Szablya | 1K | 1d6+1 | M | Vérzés, Átütés | 6/8 | — | 23AP |
+| Görbekard | 1K | 1d8 | M | Vérzés | 6/10 | — | 20AP |
+| Rövidkard | 1K | 1d6 | M | Vérzés, Átütés | 6/8 | — | 10AP |
+| Szigony | 1K | 1d8 | M | Átütés | 4/10 | Szálkás | 16AP |
+| Harci pöröly | 1K | 1d8+1 | M | Helyszín elkábítása | 3/8 | — | 15AP |
+| Ostor\*\*\* | 1K | 1d3 | M | Helyszín elkábítása | 2/8 | Rugalmas, Foglyul ejtő | 10AP |
 
-_\* ½ Tárgynak számít a TEHER tekintetében_
+_\* Teher tekintetében ½ Tárgynak számít_
 
-_\*\* 2 „Tárgynak” számít a TEHER tekintetében_
+_\*\* Teher tekintetében 2 Tárgynak számít_
 
-_\*\*\* Az ostor jellemzően nem használható hárításra. Azonban ha éppen feltekerve van és kézben, a Játékmester dönthet úgy, hogy engedélyezi Formidable (Félelmetes) nehézségi fokon. Az ostor feltekerése 1 Harci Körig tart. Ezért általában lehetetlen hárítani vele ugyanabban a körben, miután használták._
+_\*\*\* Egy ostorral jellemzően nem lehet hárítani. Ha azonban feltekerve van a kézben, a Játékmester engedélyezheti a hárítást Formidable (Félelmetes) nehézségi szinten. Az ostor feltekerése 1 harci kört vesz igénybe. Ezért általában lehetetlen vele hárítani abban a körben, amelyikben használták._
 
 ### Pajzsok
 
-| Pajzs | Sebzés | Méret | Harci hatások | PP/ÉP | Tulajdonságok | Költség |
-| :-- | :-: | :-: | :-- | :-: | :-: | :-- | :-: |
-| Buckler | 1d3 | Kö | Ütés, Helyi kábítás | 6/9 | Távolról Hárító; Passzív 2 helyen | 5AP |
-| Heater\* | 1d4 | N | Ütés, Helyi kábítás | 6/12 | Távolról Hárító; Passzív 3 helyen | 15AP |
-| Kite\* | 1d4 | H | Ütés, Helyi kábítás | 4/15 | Távolról Hárító; Passzív 4 helyen | 30AP |
-| Kerek\* | 1d4 | N | Ütés, Helyi kábítás | 4/12 | Távolról Hárító; Passzív 4 helyen | 30AP |
-| Céltábla\* | 1d3+1 | N | Ütés, Döfés | 4/9 | Távolról Hárító; Passzív 3 helyen | 15AP |
-| Torony\* | 1d4 | H | Ütés, Helyi kábítás | 4/18 | Távolról Hárító; Passzív 5 helyen | 30AP |
+| Pajzs | Sebzés | Méret | Harci hatások | AP/HP | Jellemzők | Költség |
+| :-- | :-: | :-: | :-- | :-: | :-- | :-: |
+| Kicsi pajzs | 1d3 | M | Ütés, Helyszín elkábítása | 6/9 | Távolsági hárítás; Passzív blokk 2 területen | 5AP |
+| Heater\* | 1d4 | L | Ütés, Helyszín elkábítása | 6/12 | Távolsági hárítás; Passzív blokk 3 területen | 15AP |
+| Kite\* | 1d4 | H | Ütés, Helyszín elkábítása | 4/15 | Távolsági hárítás; Passzív blokk 4 területen | 30AP |
+| Kerek\* | 1d4 | L | Ütés, Helyszín elkábítása | 4/12 | Távolsági hárítás; Passzív blokk 4 területen | 30AP |
+| Target\* | 1d3+1 | L | Ütés, Átütés | 4/9 | Távolsági hárítás; Passzív blokk 3 területen | 15AP |
+| Toronypajzs\* | 1d4 | H | Ütés, Helyszín elkábítása | 4/18 | Távolsági hárítás; Passzív blokk 5 területen | 30AP |
 
-_\* 2 „Tárgynak” számít a TEHER tekintetében_
+_\* Teher tekintetében 2 Tárgynak számít_
 
 ---
 ## Távolsági fegyverek
 
-A távolsági fegyverek ellen nehéz védekezni. Pajzs vagy egyéb szilárd fedezék nélkül, amely eloszlathatná a lövedék energiáját, a távolsági fegyverek nem háríthatók, ami azt jelenti, hogy a legjobb védekezés, ha valaki tudatában van a közeledő lövedéknek, az elkerülés. Az elkerülés azonban gyakran olyan helyzetbe hozza a védőt, ahol nehéz viszonozni a támadást, még egy távolságit is.
+A távolsági fegyverek ellen nehéz védekezni. Pajzs vagy más szilárd fedezék nélkül, amely eloszlatná a lövedék energiáját, a távolsági fegyverek nem háríthatók, ami azt jelenti, hogy a legjobb védekezés – ha tudatában vagyunk a közelgő lövedéknek – az elkerülés. Az elkerülés azonban gyakran olyan helyzetbe hozza a védőt, amelyből nehéz visszatámadni, még távolsági fegyverrel is.
 
-A távolsági fegyverek hasonló tulajdonságokkal rendelkeznek, mint a közelharci fegyverek, bár van néhány különbség, ahogy alább látható:
+A távolsági fegyverek hasonló tulajdonságokkal rendelkeznek, mint a közelharciak, bár vannak különbségek, ahogy az alább látható:
 
-- **Sebzés:** A sebzés mértéke, amelyet a fegyver okoz, ha a támadás sikeres.
-- **Sebzés Módosító:** Nem minden távolsági fegyver képes kihasználni a karakter Sebzés Módosítóját. Az Igen vagy Nem bejegyzés jelzi, hogy a felhasználó Sebzés Módosítója alkalmazható-e.
-- **Erő:** Minden távolsági fegyver rendelkezik egy erőértékkel, amely megegyezik a közelharci fegyverek „Méretével”. Lövedékek esetében ez nem a kilövő fegyverre vonatkozik, hanem arra, hogy a lőszer mekkora „becsapódási erővel” bír. Az értéket annak meghatározására használják, hogy a fegyver képes-e leküzdeni a pajzsot, amely háríthatja. A méretkategóriák: Kicsi (K), Közepes (Kö), Nagy (N), Hatalmas (H) és Óriási (Ó).
-- **Távolság:** Ez a fegyver hatékonyságának mértéke három, perjelekkel elválasztott távolságon, amelyek a fegyver vagy lőszer maximum Közel, Hatékony és Hosszú távolságait jelölik. A távolságok lábban értendők. Megjegyzendő, hogy a távolsági pontlevonások a felhasználó képzettségétől függenek, a fegyvertől függetlenek.
-  - **Közelhatár** – Az a távolság, amelyen belül a „Hely kiválasztása” használható nem Kritikus Különleges Hatásként, feltéve, hogy a célpont mozdulatlan vagy nincs tudatában a küszöbön álló támadásnak.
-  - **Hatékony Távolság** – Az a távolság, amelyen belül nincsenek jelentős módosítók a fegyver pontosságára vagy erejére.
-  - **Hosszú Távolság** – Az a távolság, amelyen a fegyver még képes kárt okozni, de a sebzés feleződik, és az Erő egy fokozattal csökken.
-- **Töltés:** Ez mutatja, hány Kör szükséges a lőszerrel tüzelő fegyver betöltéséhez vagy újratöltéséhez.
+- **Sebzés:** A fegyver által okozott sebzés mértéke sikeres támadás esetén.
+- **Sebzésmódosító:** Nem minden távolsági fegyver használhatja ki a karakter sebzésmódosítóját. Az „Igen” vagy „Nem” bejegyzés jelzi, hogy a felhasználó sebzésmódosítója alkalmazható-e.
+- **Erő:** Minden távolsági fegyver rendelkezik egy erőértékkel, amely megfelel a közelharci fegyverek „Méretének”. A lövedékek esetében ez nem magára a kilövő fegyverre vonatkozik, hanem arra, hogy a lőszer mekkora „hatással” bír. Az értéket annak meghatározására használják, hogy a fegyver képes-e legyőzni a pajzsot, amely háríthatja. A méretkategóriák: Kicsi (S), Közepes (M), Nagy (L), Hatalmas (H) és Óriási (E).
+- **Távolság:** Ez a fegyver hatékonyságának mértéke három, perjelekkel elválasztott távolságon, amelyek a fegyver vagy lőszer Közel, Hatásos és Hosszú hatótávolságát jelölik. A távolságok lábban értendők. Ne feledd, hogy a felhasználó képességére vonatkozó távolságbüntetések függetlenek a fegyvertől.
+  - **Közel hatótávolság** – Az a távolság, amelyen belül a „Helyszín választása” használható nem-kritikus különleges hatásként, feltéve, hogy a célpont áll vagy nincs tudatában a közelgő támadásnak.
+  - **Hatásos hatótávolság** – Az a távolság, amelyen belül nincs jelentős módosító a fegyver pontosságára vagy erejére.
+  - **Hosszú hatótávolság** – Az a távolság, amelyen a fegyver még képes kárt okozni, de a sebzés mértéke feleződik, és az Ereje egy fokozattal csökken.
+- **Töltés:** Ez mutatja meg, hány kör szükséges a lőszerrel tüzelő fegyver betöltéséhez vagy újratöltéséhez.
 - **Harci hatások:** Ugyanaz, mint a közelharci fegyvereknél.
-- **Döfés Méret:** A fegyver vagy lőszer effektív mérete, ha sikeres Döfés támadást hajt végre.
-- **PP/ÉP:** Minden fegyvert értékelnek Páncélpontjaik és Életpontjaik alapján.
-- **Tulajdonságok:** Egyes fegyverek specializált jellegük miatt bizonyos tulajdonságokkal bírnak. A gyakori tulajdonságok:
-  - **1H** – Ez a fegyver egy kézzel is elsüthető, így a másik kézben közelharci fegyver vagy pajzs tartható.
-  - **Törpe** – Ez a fegyver csak a törpe társadalomban elterjedt.
-  - **Ismétlő** – Ez a fegyver 5 vesszős tárat tartalmaz, és akciónként egyet lőhet. 3 Harci Akció szükséges egy friss vesszőtár betöltéséhez, és 1 perc egy kifogyott tár újratöltése 5 további vesszővel.
-- **Költség:** A fegyver költsége Ezüstpénzben.
-- **Teher:** Hacsak nincs másképp meghatározva, minden távolsági fegyver 1 „Tárgynak” felel meg.
+- **Átütési méret:** A fegyver vagy lőszer tényleges mérete, ha sikeres Átütő támadást hajt végre.
+- **AP/HP:** Minden fegyver értékelése tartalmazza a páncélpontjait és életerőpontjait; ezek határozzák meg, mennyire bírják a közvetlen sérüléseket, és mekkora kárt szenvedhetnek el, mielőtt eltörnének. Azoknál a fegyvereknél, amelyeknél a sebzés a fémanyagtól függ, bronzot vagy vasat feltételezünk.
+- **Jellemzők:** Egyes fegyverek speciális természetükből adódóan bizonyos tulajdonságokkal vagy jellemzőkkel bírnak. A gyakori jellemzők:
+  - **1K** – A fegyver egy kézzel is elsüthető, lehetővé téve, hogy a másik kézben közelharci fegyver vagy pajzs legyen.
+  - **Törpe** – A fegyver csak a törpe társadalomban elterjedt.
+  - **Sorozatlövő** – A fegyver 5 nyílvesszőt tartalmazó tárral rendelkezik, és körönként egyet lőhet ki. 3 harci akcióba kerül egy új „tár” betöltése, és 1 percbe telik 5 új nyílvesszővel feltölteni egy kiürült tárat.
+- **Költség:** A fegyver ára ezüstben.
+- **Teher:** Hacsak más nincs meghatározva, minden távolsági fegyver 1 „Tárgy”-nak felel meg.
 
-### Alapvető távolsági fegyverek
+### Alap távolsági fegyverek
 
-| Fegyver | Sebzés | S. Mód. | Erő | Távolság | Töltés | Harci hatások | Döf. Méret | PP/ÉP | Költség |
+| Fegyver | Sebz. | Sebz. Mód. | Erő | Távolság | Töltés | Harci hatások | Átüt. méret | AP/HP | Költség |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Számszeríj, nehéz\*\* | 1d10 | N | H | 60/450/900 | 4 | Döfés, Roncsolás | K | 4/8 | 35AP |
-| Számszeríj, könnyű | 1d8 | N | K | 60/300/600 | 3 | Döfés | K | 4/5 | 15AP |
-| Tőr\* | 1d4 | I | K | 15/30/60 | — | Döfés | K | 4/6 | 3AP |
-| Dárda\* | 1d4 | I | K | 15/30/60 | — | Döfés | K | 2/1 | 1AP |
-| Rövid lándzsa | 1d8 | I | K | 30/45/90 | — | Döfés | Kö | 4/5 | 2AP |
-| Parittya\* | 1d8 | N | K | 30/450/900 | 3 | Helyi kábítás | — | 1/2 | 5EP |
-| Kő vagy szikla | 1d3 | I | K | 15/75/150 | — | Helyi kábítás | — | — | — |
+| Nehéz számszeríj\*\* | 1d10 | N | H | 60/450/900 | 4 | Átütés, Szétzúzás | S | 4/8 | 35AP |
+| Könnyű számszeríj | 1d8 | N | L | 60/300/600 | 3 | Átütés | S | 4/5 | 15AP |
+| Tőr\* | 1d4 | Y | S | 15/30/60 | — | Átütés | S | 4/6 | 3AP |
+| Nyílhegy\* | 1d4 | Y | S | 15/30/60 | — | Átütés | S | 2/1 | 1AP |
+| Rövid lándzsa | 1d8 | Y | L | 30/45/90 | — | Átütés | M | 4/5 | 2AP |
+| Parittya\* | 1d8 | N | L | 30/450/900 | 3 | Helyszín elkábítása | — | 1/2 | 5EP |
+| Kő vagy szikla | 1d3 | Y | S | 15/75/150 | — | Helyszín elkábítása | — | — | — |
 
-_\* ½ Tárgynak számít a TEHER tekintetében_
+_\* Teher tekintetében ½ Tárgynak számít_
 
-_\*\* 2 „Tárgynak” számít a TEHER tekintetében_
+_\*\* Teher tekintetében 2 Tárgynak számít_
 
 ### Harci távolsági fegyverek
 
-| Fegyver | Sebzés | S. Mód. | Erő | Távolság | Töltés | Harci hatások | Döf. Méret | PP/ÉP | Költség |
+| Fegyver | Sebz. | Sebz. Mód. | Erő | Távolság | Töltés | Harci hatások | Átüt. méret | AP/HP | Költség |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Íj, hosszú | 1d8 | I | H | 45/375/750 | 2 | Döfés | K | 4/7 | 20AP |
-| Íj, rövid | 1d6 | I | K | 45/300/600 | 2 | Döfés | K | 4/4 | 7,5AP |
-| Íj, kompozit hosszú | 1d8 | I | H | 50/400/800 | 2 | Döfés | K | 4/8 | 25AP |
-| Íj, kompozit rövid | 1d6 | I | K | 50/325/650 | 2 | Döfés | K | 4/5 | 9AP |
-| Számszeríj, ismétlő\*\*\* | 1d8 | N | K | 60/300/600 | — | Döfés | K | 4/5 | 75AP |
-| Kézi balta\* | 1d6 | I | K | 30/60/90 | — | Vérzés | — | 4/6 | 2,5AP |
+| Hosszú íj | 1d8 | Y | H | 45/375/750 | 2 | Átütés | S | 4/7 | 20AP |
+| Rövid íj | 1d6 | Y | L | 45/300/600 | 2 | Átütés | S | 4/4 | 7.5AP |
+| Összetett hosszú íj | 1d8 | Y | H | 50/400/800 | 2 | Átütés | S | 4/8 | 25AP |
+| Összetett rövid íj | 1d6 | Y | L | 50/325/650 | 2 | Átütés | S | 4/5 | 9AP |
+| Könnyű sorozatlövő számszeríj\*\*\* | 1d8 | N | L | 60/300/600 | — | Átütés | S | 4/5 | 75AP |
+| Kézi balta\* | 1d6 | Y | S | 30/60/90 | — | Vérzés | — | 4/6 | 2.5AP |
 
-_\* ½ Tárgynak számít a TEHER tekintetében, rendelkezik 1H tulajdonsággal_
+_\* Teher tekintetében ½ Tárgynak számít, rendelkezik az 1K jellemzővel_
 
-_\*\* 2 „Tárgynak” számít a TEHER tekintetében_
+_\*\* Teher tekintetében 2 Tárgynak számít_
 
-_\*\*\* 2 „Tárgynak” számít a TEHER tekintetében, rendelkezik Törpe és Ismétlő tulajdonsággal_
+_\*\*\* Teher tekintetében 2 Tárgynak számít, rendelkezik a Törpe és Sorozatlövő jellemzőkkel_
 
-### Távolsági fegyver lőszer
+### Távolsági lőszerek
 
-Az olyan fegyverek, mint az íjak és számszeríjak, lőszert használnak a sebzéshez. Nyilakat, vesszőket, dárdákat és golyókat bárki készíthet megfelelő kézműves képességgel, például Kézművesség (Vesszőkészítő) nyilakhoz, ha a megfelelő alapanyagok és műhely rendelkezésre áll. Minden lőszer 1 „Tárgynyi” mennyiségben kerül eladásra.
+Az olyan fegyverek, mint az íjak és a számszeríjak, lőszert használnak a sebzés okozásához. A nyílvesszőket, csavarokat, nyílhegyeket és golyókat bárki elkészítheti, aki rendelkezik a megfelelő mesterségbeli tudással, például Mesterség (Íjkészítő) nyílvesszők esetén, ha rendelkezésre állnak a szükséges alapanyagok és egy megfelelő munkaterület vagy műhely. Minden lőszert 1 Tárgynak megfelelő mennyiségben árulnak.
 
-##### Távolsági fegyver lőszer
+##### Távolsági lőszer táblázat
 
-| Lőszer típusa | Leírás/Hatások | Költség |
+| Lőszer típusa | Leírás/Játékhő hatások | Költség |
 | :-- | :-- | :-: |
-| Nyilak (20) | — | 5EP |
-| Számszeríjpuskavesszők (20) | — | 5EP |
-| Ólom parittya-golyók (10) | — | 1EP |
-| Parittyakő | Könnyen beszerezhető; azonban hajlamos eggyel kisebb sebzést okozni és kisebb hatótávolsága van, mint a golyóknak. A távolsági kategóriák feleződnek | — |
+| Nyílvesszők (20) | — | 5EP |
+| Számszeríj csavarok (20) | — | 5EP |
+| Ólom parittyagolyók (10) | — | 1EP |
+| Parittyakő | A kövek könnyen beszerezhetők; azonban hajlamosak egy fokozattal kisebb sebzést okozni, és hatótávolságuk kisebb, mint a golyóké. A hatótávolság kategóriák feleződnek | — |
 
 ---
 ## Páncél
 
-A páncél a Páncélpont (PP) értékével csökkenti a Találati Helyet ért sérülést. Például a Láncing 3 Páncélponttal rendelkezik, így ennyivel csökkenti a sebzést. Egy 3 pontos tőrszúrást például teljesen blokkolna. A páncél hátránya, hogy nehéz lehet és korlátozza a mozgást; a fém páncélban való hosszas harc kimeríti a karaktert és lassítja a reakcióképességet.
+A páncél a Páncélpont értékeivel csökkenti az adott testtájat érő sebzést. Például a láncingnek 3 páncélpontja van, így 3-mal csökkenti a beérkező sebzést. Egy 3 pontos tőrszúrás például teljesen kivédhető. A páncél hátránya, hogy nehéz lehet és korlátozhatja a mozgást; a fémvértezetben folytatott hosszabb harc fáradtsághoz vezet és lassítja a reakcióidőt.
 
-Nem számít, milyen anyagból készült a páncél, nem rétegezhető más típusokkal – az ilyen koncepciók már beépítésre kerültek a konstrukciójába. A páncélzatot a teljes felszerelés részeként elvárt béléssel vagy párnázással együtt kell tekinteni.
+Nem számít, milyen anyagból készült, a páncél nem rétegezhető más típusokkal – az ilyen fogalmak már beépültek a konstrukciójába. Feltételezzük, hogy a páncélhoz minden szükséges bélés vagy párnázás tartozik.
 
-Minden páncélfajtát az alábbi tulajdonságok határozzák meg:
+Minden páncélfajtát az alábbi tulajdonságok határoznak meg:
 
-- **PP:** Az adott páncél által fedett találati helyekre vonatkozó Páncélpontok száma.
-- **Költség:** A költség, Aranypénzben, fedett találati helyenként.
-- **Teher:** A viselt páncél nem számít a cipelt „Tárgyak közé” azoknál a karaktereknél, akik jártasak a viselt páncéljukban. Azonban képzetlen karaktereknél, vagy ha további páncéldarabokat cipelnek, azok értéke 1 „Tárgy” találati helyenként a könnyű páncélnál, és 2 „Tárgy” találati helyenként a nehéznél. Így egy teljes könnyű páncél 7 „Tárgyat”, egy teljes nehéz páncél 14 „Tárgyat” tesz ki.
+- **AP:** A páncél által fedett minden testtájra vonatkozó páncélpontok száma.
+- **Költség:** Aranyban kifejezett költség, a fedett testtájanként.
+- **Teher:** A viselt páncél nem számít a cipelt „Tárgyak” közé azoknál a karaktereknél, akik képzettek és hozzászoktak a páncélviseléshez. Azonban azoknál, akik nem képzettek, vagy ha további páncélokat szállítanak, a könnyű páncél 1 Tárgynak, a nehéz pedig 2 Tárgynak számít testtájanként. Így egy teljes könnyű páncélkészlet kiképzés nélküli karakter által viselve, vagy bárki által szállítva összesen 7 Tárgy, egy teljes nehéz páncélkészlet pedig összesen 14.
 
 ### Páncél táblázat
 
-| Könnyű páncél | PP | AP Költség helyenként |
+| Könnyű páncél | AP | Aranyköltség/terület |
 | :-- | :-: | :-: |
-| Szőrme vagy bőrvért | 1 | 2 |
+| Szőrme vagy bőrkabát | 1 | 2 |
 | Bőr, párnázott vagy steppelt | 2 | 3 |
 | Szegecselt bőr vagy láncing | 3 | 10 |
-| Brigantin, pikkely vagy lemezes | 4 | 30 |
+| Brigandin, lemezes vagy laminált | 4 | 30 |
 
-| Nehéz páncél | PP | AP Költség helyenként |
+| Nehéz páncél | AP | Aranyköltség/terület |
 | :-- | :-: | :-: |
-| Láncing | 5 | 40 |
+| Láncpáncél | 5 | 40 |
 | Sínpáncél vagy sávos páncél | 6 | 60 |
 | Lemezpáncél | 7 | 70 |
 | Teljes lemezpáncél | 8 | 80 |
 
-## Varázstekercsek, főzetek és elixírek (Gyakori)
+## Mágikus tekercsek, bájitalok és elixírek (gyakori)
 
-Minden városnak, valamint a legtöbb nagy falunak lesz legalább egy boltja, amely az elhasználható varázstárgyak eladására szakosodott; az útmenti kereskedőkkel még a legkisebb falvakban is találkozhatunk. Korlátozott számú gyakori tekercs, főzet és elixír vásárolható egzotikus varázsboltokban, templomokban és néhány kalandozó boltban. Ezek csak azokat képviselik, amelyek a legvalószínűbb, hogy elérhetőek, nem nagy számban. A készlet általában pár naponta feltöltődik a nagyvárosokban, és hetente a kisebb településeken. A Játékmester eseti alapon dönthet a ritkább varázstárgyak megtalálásának esélyéről. Minden tekercs, főzet és elixír ½ „Tárgynak” felel meg.
+Minden városban, csakúgy, mint a legtöbb nagyvárosban, lesz legalább egy üzlet, amely eldobható mágikus tárgyak értékesítésével foglalkozik; és az országúti árusok még a legkisebb falvakban is megtalálhatók. A különleges mágiaüzletekben, templomokban, sőt néhány kalandorboltban is korlátozott számban vásárolhatók gyakori tekercsek, bájitalok és elixírek. Ezek csak a leginkább elérhetőket képviselik, nem nagy mennyiségben. A készlet általában pár naponta frissül a nagyvárosokban, és hetente a kisebb településeken. A Játékmester esetről esetre dönthet arról, mekkora az esély a ritkább mágikus tárgyak megtalálására. Minden tekercs, bájital és elixír ½ Tárgynak felel meg.
 
-#### Gyakori varázstárgyak táblázata
+#### Gyakori mágikus tárgyak táblázata
 
-| Varázstárgy | Elérhetőségi esély | Leírás/Hatások | Költség |
+| Mágikus tárgy | Elérhetőségi esély | Leírás/Játékhő hatások | Költség |
 | :-- | :-- | :-- | :-: |
-| Gyógybalzsam | 100% (1d4+2) | Az Elsősegély dobások 1 fokozattal könnyebbek, a természetes gyógyulás is felgyorsul, 1-gyel növelve a karakter gyógyulási rátáját az adott helyen. Egyetlen seb sem részesülhet több mint egy adag balzsamból. Minden adag 3 külön sebre elegendő. | 1AP |
-| Varázstalanító főzet | 80% (1d3+1) | Negál egy varázslatos hatást az ivón, amelynek Intenzitása kisebb mint 1d4+1, halmozottan. | 50AP |
-| Gyógyfőzet | 80% (1d4+2) | 1d6+1 ÉP-t állít helyre egy Könnyű Seb esetén, és 1 ÉP-t egy Súlyos Sebre. Nincs hatása Major Sebre. Ezenkívül stabilizálja az összes sérült helyet, elállítja a vérzést és megelőzi a halált. | 40AP |
-| Nagy gyógyfőzet | 40% (1d2+1) | Mint a Gyógyfőzet, de 1d8+2 ÉP-t gyógyít Könnyű vagy Súlyos Sebre, és 2 ÉP-t Major Sebre. Egyébként ugyanúgy működik. | 80AP |
-| Mágia-főzet | 40% (1d2+1) | 1d3+1 korábban elhasznált Mágia Pontot állít helyre. Nem növeli a karaktert a normális maximuma fölé. Óránként egynél több főzet fogyasztása nem jár további hatással. | 80AP |
-| Életerő-főzet | 80% (1d4+2) | 1d3+1 Kimerültségi szintet állít helyre. Nincs hatása a Vérveszteség vagy Energiaelszívás miatt szerzett Kimerültségre. | 50AP |
-| 0. szintű tekercs | 100% (1d4+1 mindegyikből) | 0. szintű Arkán vagy Isteni varázslat. Minden 0. szintű varázslat jellemzően elérhető. | 10AP |
-| 1. szintű tekercs | 100% (1d3 mindegyikből) | 1. szintű Arkán vagy Isteni varázslat. | 40AP |
-| Szenteltvíz-fiola | 100% (1d4) | 10 lábig dobható. Élőholtak, démonok, ördögök és gonosz lények 1d2 sebzést szenvednek 1d3 Találati Helyen egy Könnyű Atlétika dobással. A szenteltvíz 1d2 körig ég. A páncél véd ez ellen a sebzés ellen. | 25AP |
+| Gyógybalzsam | 100% esély 1d4+2-re | Az elsősegélydobások 1 fokozattal könnyebbek, és a természetes regeneráció is felgyorsul, 1-gyel növelve a karakter Gyógyulási Rátáját minden testtájon, ahol alkalmazzák. Egy seb egy balzsamozásnál többet nem hasznosíthat. Minden adag 3 különálló seb ellátására elegendő. | 1AP |
+| Mágiaoszlató bájital | 80% esély 1d3+1-re | Megszüntet egy mágikus hatást a fogyasztón, amelynek intenzitása kisebb, mint 1d4+1, halmozottan. | 50AP |
+| Gyógyital | 80% esély 1d4+2-re | 1d6+1 Életerőt állít helyre egy Kisebb Sebet szenvedett testtájon, és 1 Életerőt egy Komoly Sebnél. Súlyos Sebre nincs hatással. Ezenkívül stabilizál minden sérült testtájat, elállítja a vérzést és megelőzi a figyelmetlenség miatti közelgő halált. | 40AP |
+| Nagy gyógyital | 40% esély 1d2+1-re | Mint a Gyógyital, de 1d8+2 Életerőt gyógyít Kisebb vagy Komoly Sebnél, és 2 Életerőt Súlyos Sebnél. Minden más módon úgy működik, mint a Gyógyital. | 80AP |
+| Mágiaital | 40% esély 1d2+1-re | Ez a bájital 1d3+1 korábban elhasznált MágiaPontot állít helyre. Nem növeli a karakter MágiaPontjait a normál maximum fölé. Óránként egynél többet inni nincs további hatással. | 80AP |
+| Erőital | 80% esély 1d4+2-re | 1d3+1 szintnyi Fáradtságot állít helyre. Nincs hatással a Vérveszteség vagy Energiaelszívás révén szerzett Fáradtságra. | 50AP |
+| 0. szintű varázstekercs | 100% esély 1d4+1 mindegyikre | Tekercs, amely egy 0. szintű arkán vagy isteni varázslatot tartalmaz. Minden 0. szintű varázslat általában elérhető. | 10AP |
+| 1. szintű varázstekercs | 100% esély 1d3 mindegyikre | Tekercs, amely egy 1. szintű arkán vagy isteni varázslatot tartalmaz. Minden 1. szintű varázslat általában elérhető. | 40AP |
+| Szenteltvíz fiola | 100% esély 1d4-re | Akár 10 láb távolságra is dobható. Az élőholtak, démonok, ördögök és a tiszta gonosz egyéb entitásai 1d2 pont sebzést szenvednek 1d3 testtájon egy Könnyű Atlétika dobással. A szenteltvíz 1d2 körig ég. A páncél védelmet nyújt ez ellen a sebzés ellen. | 25AP |
 
 ---
-## Szerszámok
+## Eszközök
 
-A szerszámok minden olyan tárgyat tartalmaznak, amelyről elvárható, hogy egy önmagára valamit is adó kalandozónál legyen: kötél, zsákok, gyertyák, lámpások stb. Minden tárgy ezen a listán ésszerű minőségű. Hacsak nincs másképp meghatározva, minden szerszám 1 „Tárgynak” felel meg.
+Az eszközök magukban foglalják mindazokat a tárgyakat, amelyekkel minden magára valamit adó kalandornak rendelkeznie kell: kötél, zsákok és táskák, gyertyák, lámpások és így tovább. Ebben a listában minden tárgyat ésszerű minőségűnek tekintünk. Hacsak más nincs meghatározva, minden eszköz 1 „Tárgy”-nak felel meg, vagy összesen 1 Tárgyat kitevő mennyiségben kerül eladásra.#### Eszköztáblázat
 
-#### Szerszámok táblázata
-
-| Tárgy | Leírás/Hatások | Költség |
+| Tárgy | Leírás/Játékhatások | Ár |
 | :-- | :-- | :-: |
-| Hátizsák | Akár 10 Tárgyat tart külön súly nélkül. | 5EP |
-| Hálózsák | Takaró és párnázott alvófelület. | 1EP |
-| Öv-erszény | 1 Tárgyat vagy 100 érmét tart külön súly nélkül. | 1RP |
-| Üveg/cserép palack | 1 liter folyadékot tart. | 2EP |
-| Gyertya, 1 órás (10) | 5 láb sugarú fény. | 1EP |
-| Gyertya, 6 órás (10) | 5 láb sugarú fény. | 1AP |
-| Mászókészlet | Bőrhám, pitonok, kötél, egyéb. A mászás 1 fokozattal könnyebb. | 3AP |
-| Főzőedény | Utazáshoz. | 3EP |
-| Kézműves szerszámok | Alapszerszámok egy szakmához. | 8AP |
-| Feszítővas | Zárt ajtókhoz stb. Brawn (Izom) dobások 1 fokozattal könnyebbek. Buzogánynak számít. | 2,5AP |
-| Elsősegély-készlet | 10 használat az Elsősegély képzettséghez. | 2,5AP |
-| Kovakő és tapló | Tűzgyújtás 1 perc alatt, nincs szükség Túlélés dobásra (½ Tárgy). | 1EP |
-| Grappling horog | Dobható max EREx3 láb távolságra sikeres Dobás dobással. | 5EP |
-| Kalapács/3 véső | Buzogánynak, ill. késnek számítanak. | 1EP |
-| Gyógyító készlet | 10 használat a Gyógyítás képzettséghez. | 15AP |
-| Szent szimbólum | A pártfogó isten jelképe. Jó minőség x10, kiváló x100 (½ Tárgy). | 5EP |
-| Kötéllétra, 10 lábas | Mászás 1 fokozattal könnyebb. | 2EP |
-| Lámpás, alap | 2 órán át ég 1 adag olajjal, 10 láb sugarú fény. | 1AP |
-| Tolvajkulcs-készlet | Zárnyitáshoz és csapdák hatástalanításához. | 8AP |
-| Tükör (fém) | Kisméretű kézi tükör. | 1AP |
-| Szögek (50) | Ácsoláshoz. | 2RP |
-| Olaj (2) | 2 óra üzemidő. Ha eltörik, 1 percig ég. | 1EP |
-| Pergamen/papír (10) | Nagy ívek térképhez vagy jegyzetekhez. | 5EP |
-| Rúd, 10 lábas | Negyedbotként használható 1 fokozat nehézséggel. 2 „Tárgy”. | 1EP |
-| Tollak (3) és tinta | 20 oldalnyi jegyzetre elegendő. | 6AP |
-| Tegzes | 20 nyíl/vessző tárolására. | 2EP |
-| Kenderkötél (30 láb) | Max 20 MÉ/60 Tárgy teherbírás. | 1AP |
-| Nagy zsák | 2 Tárgy. 10 Tárgyat tárol. | 5RP |
-| Kis zsák | 3 Tárgyat tárol. | 2RP |
-| Oldaltáska | 6 Tárgyat tárol. Könnyen eldobható (Free Action). | 3EP |
-| Varázskönyv, üres | 100 lap. | 15AP |
-| Varázsanyag-erszény | Egy kalandnyi vagy havi varázslathoz szükséges komponens. | 20EP |
-| Vasék (10) | Mászáshoz, ajtók rögzítéséhez. Késként is használható +2 PP/ÉP-vel. | 1AP |
-| Fáklya, 1 órás (2) | 10 láb sugarú fény. Buzogánynak számít +1d4 tűz sebzéssel. 10% esély kialvásra, ha leejtik. | 8RP |
-| Fáklya, 6 órás (2) | Mint fent, hosszabb élettartammal. | 4EP |
-| Úti élelem (1 hét) | Szárított húsok, sajt, kenyér, gabonafélék. | 7EP |
-| Kulacs | 2 kvart (kb. 2 liter) folyadék, 2 napi szükséglet. | 5RP |
+| Hátizsák | Akár 10 Dolog tárolására alkalmas, külön súly nélkül. | 5SP |
+| Hálózsák | Takaró és párnázott alátét alváshoz. Jellemzően szorosan feltekerve, zsinórral átkötve a könnyű szállítás érdekében. | 1SP |
+| Övtáska | 1 Dolog vagy 100 érme tárolására alkalmas, külön súly nélkül. | 1CP |
+| Palack, üveg/cserép | 1 liter folyadék tárolására alkalmas. | 2SP |
+| Gyertya, 1 órás (10) | 5 láb sugarú körben világít. | 1SP |
+| Gyertya, 6 órás (10) | 5 láb sugarú körben világít. | 1GP |
+| Mászófelszerelés | Bőrszíj, ékek, rövidebb kötelek és egyéb apró eszközök. A mászás próbák egy fokozattal könnyebbek. | 3GP |
+| Főzőedény | Utazáshoz. | 3SP |
+| Kézműves szerszámok | Alapszerszámok egy adott kézműves tevékenységhez. | 8GP |
+| Feszítővas | Minden ERŐ próbát ajtók, koporsófedelek stb. felfeszítésére egy fokozattal könnyebbé tesz. Harcban buzogányként használható. | 2,5GP |
+| Elsősegélycsomag | 10 alkalommal használható az Elsősegély képzettséghez. | 2,5GP |
+| Kovakő és tapló | Tűzgyújtás körülbelül egy perc alatt, Túlélés próba nélkül (½ Dolognak számít). | 1SP |
+| Mászóhorog | Sikeres Dobás próbával legfeljebb ERŐx3 láb távolságra dobható. | 5SP |
+| Kalapács/Buzogány/3 véső | A kalapács és a buzogány harcban bunkóként, a véső tőrként kezelhető. | 1SP |
+| Gyógyítócsomag | 10 alkalommal használható a Gyógyítás képzettséghez. | 15GP |
+| Szent szimbólum | Az illető védőistenségének jelképe. Jó minőségű: 10x ár, kiváló: 100x ár (½ Dolog). | 5SP |
+| Kötélhágcsó, 10 láb | A mászás próbák egy fokozattal könnyebbek. | 2SP |
+| Lámpás, alap | 2 órán át ég egy adag olajjal, 10 láb sugarú körben világít. | 1GP |
+| Zárcsáklyák és tolvajszerszámok | Kis táska, amely zárak kinyitásához és csapdák hatástalanításához szükséges eszközöket tartalmaz. | 8GP |
+| Tükör (fém) | Kisméretű, strapabíró kézitükör. | 1GP |
+| Szögek vagy szegek (50) | Általános ácsszögek egyszerű faépítményekhez. | 2CP |
+| Olajpalack (2) | 2 órányi üzemanyag a lámpáshoz. Ha eltörik, 1 percig táplálja a nyílt lángot. | 1SP |
+| Pergamen- vagy papírlapok (10) | Nagy pergamen- vagy papírlapok, amelyek műalkotások készítésétől kezdve kazamatatérképezésig mindenre alkalmasak. | 5SP |
+| Rúd, 10 láb | Hosszú botként használható, 1 fokozat nehézséggel. Méret: +1 lépés. 2 'Dolognak' számít. | 1SP |
+| Lúdtollak (3) és írótinta | Tollkészlet és elegendő tinta körülbelül 20 oldal részletes jegyzeteléséhez. | 6GP |
+| Tegez | Akár 20 nyíl vagy számszeríjvessző tárolására alkalmas. | 2SP |
+| Kötél, kender (30 láb) | Maximum 20 MÉR/60 Dolog megtartására képes. | 1GP |
+| Zsák, nagy | 2 Dolognak számít. Akár 10 Dolog tárolására alkalmas, külön súly nélkül (a méret és a típus függvényében). | 5CP |
+| Zsák, kicsi | Akár 3 Dolog tárolására alkalmas, külön súly nélkül (a méret és a típus függvényében). | 2CP |
+| Válltáska/Oldaltáska | Akár 6 Dolog tárolására alkalmas, külön súly nélkül. A vállpánt miatt könnyen eldobható egy Szabad Akcióval. | 3SP |
+| Varázskönyv, üres | 100 speciálisan előkészített oldalanként. | 15GP |
+| Varázslat-komponens táska | Általános komponensek varázslatokhoz. Minden táska elegendő anyagot tartalmaz a varázslatokhoz egy kaland vagy egy hónapnyi kalandozás erejéig. | 20SP |
+| Vasék (10) | Hasznos kapaszkodók kialakításához mászásnál, ajtók biztosításához és számos más célra. A vasék szükség esetén tőrként használható harcban, 1 fokozat nehézséggel, +2 Páncélponttal és Életerőponttal. | 1GP |
+| Fáklya, 1 órás (2) | 10 láb sugarú körben világít. Bunkóként kezelendő, harcban +1d4 tűzsebzést okoz; ha leejtik, 10% eséllyel alszik ki, ha eldobják, 60% eséllyel. | 8CP |
+| Fáklya, 6 órás (2) | Mint fent, hosszabb időtartammal. | 4SP |
+| Úti fejadag (1 hét) | Az úti fejadag hosszú ideig eltartható élelmiszerekből áll, mint például szárított és sózott húsok, sajt, kenyér (általában kovásztalan laposkenyér a könnyebb szállítás érdekében) és gabonafélék (magvak vagy szemek). | 7SP |
+| Tömlő | 2 kvart folyadékot tárol, ami elegendő víz egy kalandozó számára 2 napra átlagos körülmények között. | 5CP |

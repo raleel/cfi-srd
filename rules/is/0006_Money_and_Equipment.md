@@ -1,323 +1,319 @@
 # 6. kafli: Peningar og búnaður
 
-Þessi kafli fjallar um peninga: hversu mikið persónur eiga og hvað hægt er að kaupa fyrir þá. *Classic Fantasy Imperative* notar gullstykki (GP) sem staðlaða gjaldmiðilseiningu í leiknum, þar sem kostnaður flestra búnaðarhluta, varnings og þjónustu er mældur í GP. Eitt GP er staðlað verð fyrir eins dags fæði, drykk og húsnæði fyrir einstakling sem lifir hóflegu lífi.
+Þessi kafli fjallar um peninga: hversu mikið persónur eiga og hvað hægt er að kaupa fyrir þá. _Classic Fantasy Imperative_ notar gullpeninginn (GP) sem staðlaða gjaldmiðlaeiningu í leiknum, þar sem kostnaður á flestum búnaði, vörum og þjónustu er mældur í GP. Einn GP er staðlað verð fyrir eins dags mat, drykk og gistingu fyrir eina manneskju sem lifir hóflegu lífi.
 
-Það kostar því persónu sem lifir hóflegu lífi um það bil 7 GP á viku að sjá sér farborða. Eftir því hvar persónurnar eru staddar, er ekki víst að mynt sé yfirhöfuð notuð (eða hún gæti verið litið hornauga). Sumar menningarheildir meta vöruskipti og greiðslur í fríðu meira en hljóminn í gulli.
+Það kostar því persónu sem lifir hóflegu lífi um það bil 7 GP á viku að halda sér við á framfærslustigi. Eftir því hvar persónurnar eru staddar er hugsanlegt að mynt sé ekki einu sinni notuð (eða hún sé skoðuð með tortryggni). Sum menningarsamfélög meta vöruskipti og greiðslur í fríðu meira en hljóm gullpeninga.
 
-Staðlaður gjaldmiðill í *Classic Fantasy Imperative* samanstendur af kopar-, silfur-, gull- og platínustykkjum. Gengið er sem hér segir:
+Staðlaði gjaldmiðillinn í _Classic Fantasy Imperative_ samanstendur af kopar-, silfur-, gull- og platínupeningum. Gengið er sem hér segir:
 
 ##### Tafla yfir staðlað gengi
 
 | Mynt | CP | SP | GP | PP |
 | :-- | :-: | :-: | :-: | :-: |
-| Koparstykki (CP) | 1 | 1/10 | 1/100 | 1/500 |
-| Silfurstykki (SP) | 10 | 1 | 1/10 | 1/50 |
-| Gullstykki (GP) | 100 | 10 | 1 | 1/5 |
-| Platínustykki (PP) | 500 | 50 | 5 | 1 |
+| Koparpeningur (CP) | 1 | 1/10 | 1/100 | 1/500 |
+| Silfurpeningur (SP) | 10 | 1 | 1/10 | 1/50 |
+| Gullpeningur (GP) | 100 | 10 | 1 | 1/5 |
+| Platínupeningur (PP) | 500 | 50 | 5 | 1 |
 
-Venjulega, þegar verð á hlut eða þjónustu samanstendur af myntum með mismunandi verðgildi, er það sýnt með aukastaf: 1,5 GP væru 1 gull og 5 silfur, þar sem 5 silfur eru helmingur úr gullstykki. Á sama hátt væru 3,5 SP 3 silfur og 5 kopar.
+Venjulega, ef verð á hlut eða þjónustu samanstendur af myntum með mismunandi verðgildi, er það sýnt með aukastaf: 1,5 GP væri 1 gull og 5 silfur, þar sem 5 silfur eru helmingur af gullpeningi. Sömuleiðis væri 3,5 SP 3 silfur og 5 kopar.
 
-Sumar menningarheildir, einkum bændasamfélög, hirðingjar og barbaraflokkar, mæla auð í búfé. Eitt stórt hjörðardýr, eins og kýr, er um það bil 10 GP virði. Svín eða sauðkind er um það bil 2,5 GP virði (2 GP, 5 SP) og hænsnahjörð um það bil 1,5 GP (1 GP, 5 SP). Aðrar verur, svo sem orkar, goblínar og aðrar mannlíkar verur, sem eiga kannski litla not fyrir mynt innan eigin samfélags, vita þó hvers virði hún er fyrir siðmenntaðar þjóðir og því er venjulega hægt að finna mynt í þeirra fórum líka.
+Sum menningarsamfélög, yfirleitt landbúnaðar-, hirðingja- og barbaraþjóðir, mæla auð í búfénaði. Eitt stórt hjarðdýr, eins og kýr, er virði um það bil 10 GP. Svín eða kind er um það bil 2,5 GP virði (2 GP, 5 SP) og hænsnahjörð um það bil 1,5 GP (1 GP, 5 SP). Aðrar verur eins og orkar, goblínar og aðrar mannlegar tegundir, sem gætu haft litla not fyrir mynt innan eigin samfélags, vita þó hvers virði hún er fyrir siðmenntaðar þjóðir og því má yfirleitt finna mynt hjá þeim líka.
 
 ---
-## Byrði (Encumbrance)
+## Burðargeta
 
-*Classic Fantasy Imperative* þarf ekki ítarlegar reglur um byrði ef leikstjórnandinn telur þær óþarfar. Í staðinn getur persóna borið fjölda „hluta“ (Things) allt að STR-einkunn sinni. „Hlutur“ er skilgreindur sem eitthvað sem hefur þyngd, rúmmál eða efnivið. Dæmi um hluti eru:
+_Classic Fantasy Imperative_ þarf ekki ítarlegar reglur um burðargetu ef leikstjórnandinn telur þær óþarfar. Í staðinn getur persóna borið fjölda „hluta“ allt að STY-einkunn sinni. „Hlutur“ er skilgreindur sem eitthvað sem hefur þyngd, rúmmál eða efni. Dæmi um hluti eru:
 
-- Einhend vopn eða skjöldur (tvíhend vopn og allir aðrir skildir teljast sem 2 hlutir; lítil vopn eins og rýtingar teljast sem hálfur hlutur)
-- Léttur eða þungur bogi eða léttur lásbogi (þungir lásbogar og léttir endurhlaðanlegir lásbogar teljast sem 2 hlutir); slynga telst sem hálfur hlutur.
-- Örvarbogi (getur borið 20 örvar eða skeyti án aukatengingar)
-- Fullhlaðinn bakpoki (allt að 10 hlutir án aukatengingar)
-- Fullhlaðinn poki (telst sem 2 hlutir og getur borið allt að 10 hluti eða 1.000 mynt). Ílát sem hægt er að fella saman, eins og pokar og veski, mega aðeins vera geymd í öðrum ílátum þegar þau eru tóm.
-- Galdrabók, grimoire eða stór bók
-- Grunntólakassi (hamar, meitill, þjöl, staurar, naglar o.s.frv.; eða verkfærakassi þjófs)
-- Peningaveski eða pyngja sem inniheldur 1 hlut, 100 mynt, eða 20 steina í slyngu, eða 10 blýskeyti fyrir slyngu án aukatengingar.
-- Vikuspyrða af matvælum
+- Einfalt nærbaráttuvopn eða skjöldur (tveggja handa vopn og allir aðrir skildir teljast sem 2 hlutir; lítil vopn eins og rýtingar teljast sem hálfur hlutur)
+- Léttur eða þungur bogi eða léttur lásbogi (þungir lásbogar og léttir endurtekningarlásbogar teljast sem 2 hlutir); slöngva telst sem hálfur hlutur.
+- Örvaör (getur borið 20 örvar eða skeyti án viðbótarþyngdar)
+- Fullhlaðið bakpoki (allt að 10 hlutir án viðbótarþyngdar)
+- Fullhlaðinn poki (telst sem 2 hlutir og getur borið allt að 10 hluti eða 1.000 mynt). Hægt er að bera samanbrjótanleg ílát, eins og poka og buddur, í öðrum ílátum eingöngu þegar þau eru tóm.
+- Galdrabók, grimoire eða bindi
+- Grunnverkfærakista (hamar, meitill, þjöl, hælar, broddar og svo framvegis; eða verkfærakista þjófs)
+- Pungur eða budda sem inniheldur 1 hlut, 100 mynt, eða 20 slöngvusteina, eða 10 blýkúlur í slöngvu án viðbótarþyngdar.
+- Vikuforði af vistum
 - Fullur vatnsbelgur
-- Sérhverjir fullir 50 myntir af hvaða tegund sem er vega sem hálfur „hlutur“.
-- Gerðu ráð fyrir að 1 SIZ sé jafnt og 3 „hlutir“.
+- Sérhverjar fullar 50 myntir af hvaða gerð sem er vega jafn mikið og hálfur „hlutur“.
+- Gerðu ráð fyrir að 1 STÆ sé jafnt og 3 „hlutir“.
 
-Sérhver viðbótarhlutur umfram STR persónu minnkar frumkvæðisbónus (Initiative Bonus) um 1. Sérhverjir 6 hlutir umfram STR minnka hreyfihraða (Movement Rate) um 5 fet. Að lokum, þegar fleiri hlutir eru bornir en sem nemur STR persónunnar, verða færni sem notar STR eða DEX sem hluta af grunni sínum 1 stigi erfiðari. Þegar fleiri hlutir eru bornir en tvöföld STR persónunnar, verða þessar færni 2 stigum erfiðari.
+Sérhver viðbótarhlutur umfram STY persónunnar minnkar frumkvæðisbónus (Initiative Bonus) persónunnar um 1. Sérhverjir 6 hlutir umfram STY minnka hreyfihraða persónunnar um 5 fet. Að lokum, þegar fleiri hlutir eru bornir en STY persónunnar, eru færni sem notar STY eða LIP sem hluta af grunninum 1 stigi erfiðari. Þegar fleiri hlutir eru bornir en tvöföld STY persónunnar, eru þessar færni 2 stigum erfiðari.
 
-Byrði brynju: Til einföldunar telst borin brynja ekki sem „hlutir“ fyrir persónur sem eru færar um, og vanar, þeirri brynju sem þær bera. Hins vegar, fyrir persónur sem eru ekki færar um brynju, eða ef um viðbótarbrynjuhluti er að ræða, hafa þeir verðgildi upp á 1 hlut á hvern líkamshluta (Hit Location) fyrir létta brynju, og 2 hluti á hvern líkamshluta fyrir þunga brynju. Þannig er heill brynjuflokkur af léttri brynju sem einhver óþjálfaður ber, eða er borinn af einhverjum, alls 7 hlutir, og heill brynjuflokkur af þungri brynju er alls 14. Auk þess kemst heill brynjuflokkur af þungri brynju ekki einu sinni fyrir í bakpoka.
+Burðargeta brynju: Til einföldunar telst brynja sem er í notkun ekki til þeirra hluta sem persóna ber, fyrir persónur sem eru færar í og vanar brynjunni sem þær klæðast. Hins vegar, fyrir persónur sem ekki eru færar í brynju, eða ef um er að ræða viðbótarbrynjustykki sem eru borin meðferðis, hafa þær gildið 1 hlutur á hvern höggstað (Hit Location) fyrir létta brynju, og 2 hlutir á hvern höggstað fyrir þunga. Þannig er fullt sett af léttri brynju sem einhver án þjálfunar klæðist, eða einhver ber, samtals 7 hlutir, og fullt sett af þungri brynju er samtals 14. Auk þess kemst fullt sett af þungri brynju ekki einu sinni fyrir í bakpoka.
 
-Leikstjórnendur ættu að beita skynsemi. Það ætti að vera augljóst að jafnvel sterkasta manneskja getur ekki ráfað um með átta mismunandi vopn, aukabrynju, allan ferðabúnað, bjórtunnu og nóg af gulli til að borga lausnargjald fyrir konungsríki.
+Leikstjórnendur ættu að beita skynsemi. Það ætti að vera augljóst að jafnvel sterkasta mannlega persónan getur ekki ráfað um með átta mismunandi vopn, varabrynju, fullan ferðabúnað, bjórkút og nóg af gulli til að leysa konungsríki úr álögum.
 
 ---
 ## Búnaður
 
-Þessi hluti er helgaður búnaði: brynju, vopnum, klæðnaði, verkfærum og öðru sem persónur treysta á þegar þær leggja af stað í ævintýri. Hver búnaðarhlutur er lýst með einum eða fleiri þáttum (sumir eiga betur við en aðrir). Þeir eru:
+Þessi hluti fjallar um búnað: brynju, vopn, fatnað, verkfæri og annað dót sem persónur treysta á þegar þær eru í ævintýrum. Sérhver hlutur búnaðar er lýst með einum eða fleiri þáttum (sumir eiga meira við en aðrir). Þetta eru:
 
 - Kostnaður (í GP, SP eða CP)
-- Brynjustig (Armor Points): náttúruleg viðnámsgeta hlutarins gegn skemmdum
-- Höggstig (Hit Points): hversu miklar skemmdir hluturinn þolir áður en hann eyðileggst eða verður ónýtur.
+- Brynjupunktar (Armor Points): náttúruleg viðnámsgeta hlutarins gegn skemmdum
+- Höggpunktar (Hit Points): hversu miklar skemmdir hluturinn þolir áður en hann eyðileggst eða verður ónothæfur.
 
 #### Verð á búnaði
 
-Allir hlutir sem taldir eru upp í þessum kafla tákna staðlaða gæðaflokka. Hlutir af betri eða verri gæðum fást gegn hækkuðu eða lækkuðu verði. Uppgefið verð miðast við gott framboð. Þegar skortur er á einhverju getur verð hækkað og, eftir vörutegund, getur það verið hvar sem er á milli 10% og 1000% hærra en uppgefið verð (1d100x10%). Umhverfið mun einnig hafa áhrif á framboð og þar með kostnað. Auðveldara og ódýrara er að fá hluti og vörur í stærri byggðarlögum með rótgróna markaði og kaupmenn. Á afskekktum eða dreifbýlum svæðum verður erfitt að fá allt annað en helstu nauðsynjavörur og matvæli; og þau munu kosta meira, ef þau fást yfirhöfuð.
+Allir hlutir sem taldir eru upp í þessum kafla tákna staðlað gæðadæmi. Hlutir af betri eða verri gæðum fást ýmist á hærra eða lægra verði. Verðin sem gefin eru upp gera ráð fyrir að framboð sé gott. Þegar skortur er á einhverju munu verð hækka og, eftir vörutegund, geta þau verið allt frá 10% til 1000% hærri en uppgefið verð (1d100x10%). Umhverfið mun einnig hafa áhrif á framboð og þar með kostnað. Hlutir og vörur eru auðveldari og ódýrari í kaupum í stærri byggðum með viðurkenndum mörkuðum og kaupmönnum. Á afskekktum eða dreifbýlum svæðum verður erfiðara að nálgast allt nema það helsta sem framleitt er á staðnum; og það mun kosta meira, ef það er þá yfirhöfuð fáanlegt.#### Silfurvopn
 
-#### Silfurvopn
-
-Málmvopn geta verið gerð úr hreinu silfri svo þau geti skaðað verur eins og varúlfa. Reiknaðu kostnað á silfurvopni sem tífalt dýrari en venjulega, nema annað sé tekið fram. Silfurvopn hafa 1 minna brynjustig og 2 færri höggstig. Þau gera einnig einum punkti minni skemmdir gegn óvinum sem bera brynju (þannig gerir silfurrýtingur 1d4 skemmdir í stað 1d4+1).
+Málmvopn geta verið gerð úr hreinu silfri svo þau geti skaðað verur á borð við varúlfa. Reiknaðu kostnað silfurvopns sem tíu sinnum dýrara en venjulegt vopn, nema annað sé tekið fram. Silfurvopn hafa 1 færri brynju-punkt (Armor Point) og 2 færri heilsu-punkta (Hit Points). Þau valda einnig einum minni punkta skaða gegn óvinum sem klæðast brynju (því veldur silfurdýrð 1d4 skaða í stað 1d4+1).
 
 ---
 ## Nærvopn
 
-Öll vopn lúta röð einkenna sem eru sem hér segir:
+Öll vopn lúta röð eiginleika sem eru eftirfarandi:
 
-- **Tegund (Type):** Hvort vopnið flokkast sem grunnvopn eða bardagavopn.
-- **Hendur (Hands):** Fjöldi handa sem þarf til að beita vopninu rétt.
-- **Skemmdir (Damage):** Magn skemmda sem vopnið veldur ef árás heppnast.
-- **Stærð (Size):** Sérhvert vopn er metið eftir massa, vægi og stöðugleika. Stærðin er notuð til að ákvarða getu vopnsins til að valda og draga úr skemmdum (sjá reglurnar um [Skemmdaminnkun](0008_Combat.md?id=damage-reduction)). Stærðarflokkarnir eru Litlir (S), Miðlungs (M), Stórir (L), Risastórir (H), og Ofurstórir (E).
-- **Bardagaáhrif (Combat Effects):** Hönnun vopnsins veitir aðgang að vopnasértækum sérstökum áhrifum. Sverð, til dæmis, skera og stinga, og hafa því aðgang að Impale (gegnumstungu) og Bleed (blæðingu), en kylfa getur ekki framkallað þau áhrif en gæti valdið Stun Location (yfirliði á líkamshluta) í staðinn (sjá [Sérstök áhrif](0008_Combat.md?id=special-effects-1)).
-- **AP/HP:** Öll vopn eru metin fyrir brynjustig og höggstig; getu þeirra til að standast beinar skemmdir og hversu miklar skemmdir þau þola áður en þau brotna. Gert er ráð fyrir að vopn sem treysta á málm fyrir skemmdagetu séu ýmist úr bronsi eða járni.
-- **Eiginleikar (Traits):** Sum vopn, vegna sérhæfðs eðlis síns, hafa ákveðna eiginleika sem greina þau frá vopnum af svipuðum stíl. Algengir eiginleikar eru:
-  - *Barbed (Gaddótt)* – Ef vopnið stingst inn veldur það fullum, fremur en helmingi, skemmdum þegar það er kippt út.
-  - *Entrapping (Festandi)* – Ef vopnið er notað til að verjast árásarvopni, telst hitt vopnið vera einni stærð minna en það er. Þannig telst stórt sverð vera miðlungs og miðlungs sverð vera lítið. Vopn sem eru þegar lítil eru óbreytt.
-  - *Flexible (Sveigjanlegt)* – Ef andstæðingurinn notar skjöld til varnar, telst skjöldurinn vera einni stærð minni en hann er. Þannig telst risastór skjöldur vera stór, stór skjöldur vera miðlungs, og svo framvegis.
-  - *Mount (Ríðandi)* – Vopnið verður að nota af baki hlaupandi reiðdýrs.
-  - *Passive Block (Óvirk vörn)* – Vopnið getur óvirkt lokað fyrir marga líkamshluta, sem verða að vera samliggjandi.
-  - *Ranged Parry (Fjarlægðarvörn)* – Vopnið getur varist fjarlægðarvopnum.
-  - *Set (Viðbúið)* – Vopnið getur verið sett til að taka á móti áhlaupi fótgönguliða eða reiðmanna.
-  - *Stealth (Launsátur)* – Vopnið verður að nota úr launsátri.
-  - *Thrown (Kastað)* – Vopnið getur verið notað sem fjarlægðarvopn auk nærvopns.
-- **Kostnaður:** Kostnaður vopnsins í gull- og/eða silfurstykkjum. 2,5 GP væru 2 gull og 5 silfur.
-- **Byrði (Encumbrance):** Nema annað sé tekið fram, teljast öll nærvopn sem 1 „hlutur“.
+- **Gerð:** Hvort vopnið flokkast sem grunnavopn eða bardagavopn.
+- **Hendur:** Fjöldi handa sem þarf til að beita vopninu rétt.
+- **Skaði:** Magn þess skaða sem vopnið veldur ef árás heppnast.
+- **Stærð:** Hvert vopn er metið út frá massa, vogarafli og stöðugleika. Stærðin er notuð til að ákvarða getu vopnsins til að valda og draga úr skaða (sjá reglur um [Skaðaminnkun](0008_Combat.md?id=damage-reduction)). Stærðarflokkarnir eru Litil (S), Miðlungs (M), Stór (L), Risavaxin (H) og Enorm (E).
+- **Bardagaáhrif:** Hönnun vopnsins veitir því aðgang að sérstökum bardagaáhrifum. Sverð, til dæmis, skera og stinga, og hafa því aðgang að Spjótsstungu- (Impale) og Blæðingar- (Bleed) áhrifum, á meðan kylfa getur ekki valdið þeim áhrifum en gæti valdið Staðbundinni rotun (Stun Location) (sjá [Sérstök áhrif](0008_Combat.md?id=special-effects-1)).
+- **BP/HP:** Öll vopn eru metin út frá brynju-punktum og heilsu-punktum; getu þeirra til að standast beinan skaða og hversu mikinn skaða þau þola áður en þau brotna. Gert er ráð fyrir að vopn sem treysta á málm til skaðavalda séu annað hvort úr bronsi eða járni.
+- **Einkenni:** Sum vopn hafa, vegna sérhæfðs eðlis síns, ákveðna eiginleika eða einkenni, sem greina þau frá vopnum af svipaðri gerð. Algeng einkenni eru:
+  - _Gaddótt (Barbed)_ – Ef það stingst í veldur það fullum skaða, frekar en hálfum, þegar það er kippt út.
+  - _Krækjandi (Entrapping)_ – Ef notað til að verjast (Parry) árásarvopni er það vopn talið einni stærð minna en það er. Þannig er Stórt sverð talið Miðlungs og Miðlungs sverð talið Lítið. Vopn sem eru þegar Lítil að stærð verða ekki fyrir áhrifum.
+  - _Sveigjanlegt (Flexible)_ – Ef andstæðingurinn notar skjöld til að verjast, er skjöldurinn talinn einni stærð minni en hann er. Þannig er Risavaxinn skjöldur talinn Stór, Stór skjöldur talinn Miðlungs, og svo framvegis.
+  - _Fákur (Mount)_ – Vopnið verður að nota af baki hlaupandi fáksh.
+  - _Óbein vörn (Passive Block)_ – Vopnið getur óbeint varið marga líkamshluta, sem verða að vera samliggjandi.
+  - _Fjarvörn (Ranged Parry)_ – Vopnið getur varið fjarvopn.
+  - _Stætt (Set)_ – Vopnið má setja þannig að það taki á móti fótgangandi eða ríðandi hleypi.
+  - _Launsátur (Stealth)_ – Vopnið verður að nota úr launsáti.
+  - _Kastað (Thrown)_ – Vopnið má nota sem fjarvopn jafnt sem nær-vopn.
+- **Kostnaður:** Kostnaður vopnsins í gull- og/eða silfurpeningum. 2,5GP væru 2 gull og 5 silfur.
+- **Byrði:** Nema annað sé tekið fram jafngilda öll nærvopn 1 'Hlut'.
 
 ### Grunnnærvopn
 
-| Grunnvopn | Hendur | Skemmdir | Stærð | Bardagaáhrif | AP/HP | Eiginleikar | Kostnaður |
+| Grunnvopn | Hendur | Skaði | Stærð | Bardagaáhrif | BP/HP | Einkenni | Kostnaður |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Kylfa | 1H | 1d6 | M | Bash, Stun Location | 4/4 | — | 5SP |
-| Rýtingur\* | 1H | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3GP |
-| Stór kylfa\*\* | 2H | 2d6 | H | Bash, Stun Location | 4/10 | — | 5GP |
-| Handöxi\* | 1H | 1d6 | S | Bleed | 3/6 | Thrown | 2.5GP |
-| Langspjót\*\* | 2H | 1d10+1 | L | Impale | 4/10 | Set | 3GP |
-| Sleggja | 1H | 1d8 | M | Bash, Stun Location | 6/6 | — | 10GP |
-| Sleggja, þung\*\* | 2H | 1d8+2 | M | Bash, Stun Location | 6/10 | — | 20GP |
-| Morgunstjarna | 1H | 2d4 | M | Bash, Stun Location | 4/10 | — | 15GP |
-| Göngustafur\*\* | 2H | 1d8 | M | Stun Location | 4/8 | — | 2GP |
-| Stutt spjót | 1H | 1d8+1 | M | Impale | 4/5 | Throw, Set | 2GP |
-| Sigð | 1H | 1d6 | M | Bleed, Impale | 3/8 | — | 7GP |
+| Kylfa | 1H | 1d6 | M | Bash, Staðbundin rotun | 4/4 | — | 5SP |
+| Rýtingur\* | 1H | 1d4+1 | S | Blæðing, Spjótsstunga | 6/8 | Kastað | 3GP |
+| Stór kylfa\*\* | 2H | 2d6 | H | Bash, Staðbundin rotun | 4/10 | — | 5GP |
+| Handöxi\* | 1H | 1d6 | S | Blæðing | 3/6 | Kastað | 2,5GP |
+| Langspjót\*\* | 2H | 1d10+1 | L | Spjótsstunga | 4/10 | Stætt | 3GP |
+| Sleggja | 1H | 1d8 | M | Bash, Staðbundin rotun | 6/6 | — | 10GP |
+| Sleggja, þung\*\* | 2H | 1d8+2 | M | Bash, Staðbundin rotun | 6/10 | — | 20GP |
+| Morgunstjarna | 1H | 2d4 | M | Bash, Staðbundin rotun | 4/10 | — | 15GP |
+| Göngustafur\*\* | 2H | 1d8 | M | Staðbundin rotun | 4/8 | — | 2GP |
+| Stuttspjót | 1H | 1d8+1 | M | Spjótsstunga | 4/5 | Kastað, Stætt | 2GP |
+| Sigð | 1H | 1d6 | M | Blæðing, Spjótsstunga | 3/8 | — | 7GP |
 
-_\* Telst sem ½ hlutur varðandi ENC_
+_\* Telst sem ½ Hlutur varðandi BYRÐI_
 
-_\*\* Telst sem 2 „hlutir“ varðandi ENC_
+_\*\* Telst sem 2 'Hlutir' varðandi BYRÐI_
 
 ### Bardaganærvopn
 
-| Vopn | Hendur | Skemmdir | Stærð | Bardagaáhrif | AP/HP | Eiginleikar | Kostnaður |
+| Vopn | Hendur | Skaði | Stærð | Bardagaáhrif | BP/HP | Einkenni | Kostnaður |
 | :-- | :-: | :-: | :-: | :-- | :-: | :-- | :-: |
-| Kúla & keðja | 1H | 1d6+1 | M | Bash, Entangle, Stun Location | 6/8 | Flexible | 25GP |
-| Bastardsverð | 1H / 2H | 1d8 / 1d10 | M / L | Bleed, Impale, +Sunder (2H) | 6/12 | — | 25GP |
-| Bardagaöxi | 1H / 2H | 1d6+1 / 1d8+1 | M / L | Bleed, Sunder | 4/8 | — | 10GP |
-| Breiðsverð | 1H | 1d8 | M | Bleed, Impale | 6/10 | — | 18GP |
-| Keðja | 1H | 1d4 | M | Bash, Entangle | 8/6 | — | 1GP |
-| Falchion | 1H | 1d6+2 | M | Bleed | 6/10 | — | 20GP |
-| Flail | 1H | 1d6 | M | Bash | 3/6 | Flexible | 2.5GP |
-| Flail, þungur\*\* | 2H | 1d10 | L | Bash, Stun Location | 4/10 | Flexible | 25GP |
-| Garrote\* | 2H | 1d2 | S | — | 1/2 | Stealth | 1.5GP |
-| Glaive\*\* | 2H | 1d10+2 | L | Bleed, Sunder | 4/10 | — | 25GP |
-| Stór öxi\*\* | 2H | 2d6+2 | H | Bleed, Sunder | 4/10 | — | 15GP |
-| Stór hamar\*\* | 2H | 1d10+3 | H | Bash, Stun Location, Sunder | 4/10 | — | 25GP |
-| Stórt sverð\*\* | 2H | 2d8 | H | Bleed, Impale, Sunder | 6/12 | — | 30GP |
-| Hálberða/Öxispjót\*\* | 2H | 1d8+2 | L | Entangle, Impale, Sunder | 4/10 | Set | 20GP |
-| Hnífur\* | 1H | 1d3 | S | Bleed, Impale | 5/4 | — | 1GP |
-| Lensur\*\* | 1H | 1d10+2 | H | Impale, Sunder | 4/10 | Mount | 15GP |
-| Langsverð | 1H | 1d8 | M | Bleed, Impale | 6/12 | — | 20GP |
-| Main gauche\* | 1H | 1d4 | S | Bleed, Impale | 6/10 | Entrapping | 18GP |
-| Herskími | 1H | 1d6+1 | M | Stun Location, Sunder | 6/10 | — | 18GP |
-| Herskími, þungur\*\* | 2H | 1d8+2 | L | Impale, Stun Location, Sunder | 6/10 | — | 25GP |
-| Net\* | 1H | 1d4 | S | Entangle | 2/20 | Entrapping | 2GP |
-| Gaddaöxi\*\* | 2H | 1d10+2 | L | Impale | 4/12 | Set | 9GP |
-| Rapier | 1H | 1d8 | M | Impale | 5/8 | — | 10GP |
-| Saber | 1H | 1d6+1 | M | Bleed, Impale | 6/8 | — | 23GP |
-| Skimitar | 1H | 1d8 | M | Bleed | 6/10 | — | 20GP |
-| Stuttsverð | 1H | 1d6 | M | Bleed, Impale | 6/8 | — | 10GP |
-| Þríforkur | 1H | 1d8 | M | Impale | 4/10 | Barbed | 16GP |
-| Stríðshamar | 1H | 1d8+1 | M | Stun Location | 3/8 | — | 15GP |
-| Svipa\*\*\* | 1H | 1d3 | M | Stun Location | 2/8 | Flexible, Entrapping | 10GP |
+| Kúla & keðja | 1H | 1d6+1 | M | Bash, Krækja, Staðbundin rotun | 6/8 | Sveigjanlegt | 25GP |
+| Bastardsverð | 1H / 2H | 1d8 / 1d10 | M / L | Blæðing, Spjótsstunga, +Sunder (2H) | 6/12 | — | 25GP |
+| Bardagax | 1H / 2H | 1d6+1 / 1d8+1 | M / L | Blæðing, Sunder | 4/8 | — | 10GP |
+| Breiðsverð | 1H | 1d8 | M | Blæðing, Spjótsstunga | 6/10 | — | 18GP |
+| Keðja | 1H | 1d4 | M | Bash, Krækja | 8/6 | — | 1GP |
+| Falchion | 1H | 1d6+2 | M | Blæðing | 6/10 | — | 20GP |
+| Flagga | 1H | 1d6 | M | Bash | 3/6 | Sveigjanlegt | 2,5GP |
+| Flagga, þung\*\* | 2H | 1d10 | L | Bash, Staðbundin rotun | 4/10 | Sveigjanlegt | 25GP |
+| Garrote\* | 2H | 1d2 | S | — | 1/2 | Launsátur | 1,5GP |
+| Glaive\*\* | 2H | 1d10+2 | L | Blæðing, Sunder | 4/10 | — | 25GP |
+| Stór öxi\*\* | 2H | 2d6+2 | H | Blæðing, Sunder | 4/10 | — | 15GP |
+| Stór sleggja\*\* | 2H | 1d10+3 | H | Bash, Staðbundin rotun, Sunder | 4/10 | — | 25GP |
+| Stórt sverð\*\* | 2H | 2d8 | H | Blæðing, Spjótsstunga, Sunder | 6/12 | — | 30GP |
+| Atgeir\*\* | 2H | 1d8+2 | L | Krækja, Spjótsstunga, Sunder | 4/10 | Stætt | 20GP |
+| Hnífur\* | 1H | 1d3 | S | Blæðing, Spjótsstunga | 5/4 | — | 1GP |
+| Lens\*\* | 1H | 1d10+2 | H | Spjótsstunga, Sunder | 4/10 | Fákur | 15GP |
+| Langsverð | 1H | 1d8 | M | Blæðing, Spjótsstunga | 6/12 | — | 20GP |
+| Main gauche\* | 1H | 1d4 | S | Blæðing, Spjótsstunga | 6/10 | Krækjandi | 18GP |
+| Her-píka | 1H | 1d6+1 | M | Staðbundin rotun, Sunder | 6/10 | — | 18GP |
+| Her-píka, þung\*\* | 2H | 1d8+2 | L | Spjótsstunga, Staðbundin rotun, Sunder | 6/10 | — | 25GP |
+| Net\* | 1H | 1d4 | S | Krækja | 2/20 | Krækjandi | 2GP |
+| Gaddaöxi\*\* | 2H | 1d10+2 | L | Spjótsstunga | 4/12 | Stætt | 9GP |
+| Rýtingur (Rapier) | 1H | 1d8 | M | Spjótsstunga | 5/8 | — | 10GP |
+| Sabel | 1H | 1d6+1 | M | Blæðing, Spjótsstunga | 6/8 | — | 23GP |
+| Scimitar | 1H | 1d8 | M | Blæðing | 6/10 | — | 20GP |
+| Stuttsverð | 1H | 1d6 | M | Blæðing, Spjótsstunga | 6/8 | — | 10GP |
+| Þríforkur | 1H | 1d8 | M | Spjótsstunga | 4/10 | Gaddótt | 16GP |
+| Stríðshamall | 1H | 1d8+1 | M | Staðbundin rotun | 3/8 | — | 15GP |
+| Svipa\*\*\* | 1H | 1d3 | M | Staðbundin rotun | 2/8 | Sveigjanlegt, Krækjandi | 10GP |
 
-_\* Telst sem ½ hlutur varðandi ENC_
+_\* Telst sem ½ Hlutur varðandi BYRÐI_
 
-_\*\* Telst sem 2 „hlutir“ varðandi ENC_
+_\*\* Telst sem 2 'Hlutir' varðandi BYRÐI_
 
-_\*\*\* Svipa má venjulega ekki nota til varnar. Hins vegar, ef hún er vafin saman og í hendi, gæti leikstjórnandinn ákveðið að leyfa það með "Formidable" erfiðleikastigi. Að vinda upp svipuna tekur 1 bardagalotu. Þess vegna er almennt ómögulegt að verjast með henni í sömu lotu og hún hefur verið notuð._
+_\*\*\* Venjulega má ekki nota svipu til að verjast (Parry). Hins vegar, ef hún er upprúlluð og í hendi, getur leikstjórnandi leyft það með Formidable erfiðleika. Að rúlla upp svipunni tekur 1 bardagalotu. Því er almennt ómögulegt að verjast með henni í sömu lotu og hún hefur verið notuð._
 
 ### Skildir
 
-| Skjöldur | Skemmdir | Stærð | Bardagaáhrif | AP/HP | Eiginleikar | Kostnaður |
+| Skjöldur | Skaði | Stærð | Bardagaáhrif | BP/HP | Einkenni | Kostnaður |
 | :-- | :-: | :-: | :-- | :-: | :-- | :-: |
-| Buckler | 1d3 | M | Bash, Stun Location | 6/9 | Ranged Parry; Passive Block 2 locations | 5GP |
-| Heater\* | 1d4 | L | Bash, Stun Location | 6/12 | Ranged Parry; Passive Block 3 locations | 15GP |
-| Kite\* | 1d4 | H | Bash, Stun Location | 4/15 | Ranged Parry; Passive Block 4 locations | 30GP |
-| Round\* | 1d4 | L | Bash, Stun Location | 4/12 | Ranged Parry; Passive Block 4 locations | 30GP |
-| Target\* | 1d3+1 | L | Bash, Impale | 4/9 | Ranged Parry; Passive Block 3 locations | 15GP |
-| Tower\* | 1d4 | H | Bash, Stun Location | 4/18 | Ranged Parry; Passive Block 5 locations | 30GP |
+| Buckler | 1d3 | M | Bash, Staðbundin rotun | 6/9 | Fjarvörn; Óbein vörn 2 staðir | 5GP |
+| Heater\* | 1d4 | L | Bash, Staðbundin rotun | 6/12 | Fjarvörn; Óbein vörn 3 staðir | 15GP |
+| Kite\* | 1d4 | H | Bash, Staðbundin rotun | 4/15 | Fjarvörn; Óbein vörn 4 staðir | 30GP |
+| Round\* | 1d4 | L | Bash, Staðbundin rotun | 4/12 | Fjarvörn; Óbein vörn 4 staðir | 30GP |
+| Target\* | 1d3+1 | L | Bash, Spjótsstunga | 4/9 | Fjarvörn; Óbein vörn 3 staðir | 15GP |
+| Tower\* | 1d4 | H | Bash, Staðbundin rotun | 4/18 | Fjarvörn; Óbein vörn 5 staðir | 30GP |
 
-_\* Telst sem 2 „hlutir“ varðandi ENC_
+_\* Telst sem 2 'Hlutir' varðandi BYRÐI_
 
 ---
-## Fjarlægðarvopn
+## Fjarvopn
 
-Erfitt er að verjast fjarlægðarvopnum. Án skjaldar eða annars konar skjóls sem getur dreift orku skotsins er ekki hægt að verjast fjarlægðarvopnum, sem þýðir að besta vörnin, ef maður er meðvitaður um væntanlega árás, er undanhald. Hins vegar setur undanhald varnarmanninn oft í aðstæður þar sem erfitt er að gera gagnsókn, jafnvel með fjarlægðarvopni.
+Erfitt er að verjast fjarvopnum. Án skjaldar eða annars konar trausts skjóls sem getur dreift orku skots, er ekki hægt að verjast fjarvopnum með vörn (Parry), sem þýðir að besta vörnin, ef maður er meðvitaður um væntanlega flugskeyti, er undanbrögð. Hins vegar koma undanbrögð oft þeim sem verst í þá stöðu að erfitt er að gera árás, jafnvel fjarárás.
 
-Fjarlægðarvopn hafa svipaða eiginleika og nærvopn, þótt nokkur munur sé á þeim eins og tekið er fram hér að neðan:
+Fjarvopn hafa svipaða eiginleika og nærvopn, þótt nokkur munur sé eins og tekið er fram hér að neðan:
 
-- **Skemmdir:** Magn skemmda sem vopnið veldur ef árás heppnast.
-- **Skemmdabreytir (Damage Modifier):** Ekki öll fjarlægðarvopn geta nýtt sér skemmdabreyti persónunnar. Já eða Nei svar gefur til kynna hvort nota megi skemmdabreyti notandans.
-- **Kraftur (Force):** Sérhvert fjarlægðarvopn hefur kraftflokkun sem samsvarar „stærð“ nærvopna. Í tilfelli skeyta tengist þetta ekki sjálfu vopninu, heldur hversu mikil „áhrif“ skeytið hefur. Gildið er notað til að ákvarða hvort vopnið geti sigrast á skildi sem verst gegn því. Stærðarflokkarnir eru Litlir (S), Miðlungs (M), Stórir (L), Risastórir (H), og Ofurstórir (E).
-- **Drægni (Range):** Þetta er mælikvarði á virkni vopnsins í þremur fjarlægðum aðskildum með skástrikum, sem tákna hámarks nálægðar-, virkni- og langdrægni vopnsins eða skeyta þess. Fjarlægðir eru gefnar upp í fetum. Athugaðu að fjarlægðarvíti á færni notandans eru óháð vopninu.
-  - **Nálægðardrægni (Close Range)** – Fjarlægðin þar sem má nota „Choose Location“ (Velja líkamshluta) sem ó-gagnrýnileg sérstök áhrif, að því gefnu að skotmarkið sé kyrrstætt eða ómeðvitað um árásina.
-  - **Virknidrægni (Effective Range)** – Fjarlægðin þar sem engin veruleg víti eru á nákvæmni eða krafti vopnsins.
-  - **Langdrægni (Long Range)** – Fjarlægðin þar sem vopnið getur enn valdið skaða, en skemmdir eru helmingaðar og kraftur þess minnkar um eitt stig.
-- **Hleðsla (Load):** Sýnir hversu margar lotur þarf til að hlaða eða endurhlaða vopn sem skýtur skeytum.
+- **Skaði:** Magn þess skaða sem vopnið veldur ef árás heppnast.
+- **Skaðabreytir:** Ekki öll fjarvopn geta nýtt sér Skaðabreyti persónu. Já eða Nei svar segir til um hvort Skaðabreyta notandans megi beita.
+- **Kraftur:** Hvert fjarvopn hefur kraft-gildi sem jafngildir 'Stærð' nær-vopna. Í tilviki flugskeyta tengist þetta ekki sjálfu vopninu, heldur því hversu mikil 'áhrif' skotfærin hafa. Gildið er notað til að ákvarða hvort vopnið geti sigrast á skildi sem kann að verjast því. Stærðarflokkarnir eru Litlir (S), Miðlungs (M), Stórir (L), Risavaxnir (H) og Enormir (E).
+- **Drægni:** Þetta er mælikvarði á virkni vopnsins í þremur vegalengdum aðskildum með skástrikum, sem tákna hámarks Nærdægni, Virka drægni og Langdrægni vopnsins eða skotfæra þess. Drægni er gefin upp í fetum. Athugið að fjarlægðarrefsingar á færni notandans eru óháðar vopninu.
+  - **Nærdægni** – Vegalengdin þar sem hægt er að nota Velja staðsetningu sem ekki-gagnrýnin séráhrif, að því gefnu að skotmarkið sé kyrrstætt eða ómeðvitað um væntanlega árás.
+  - **Virk drægni** – Vegalengdin þar sem engar marktækar breytingar eru á nákvæmni eða krafti vopnsins.
+  - **Langdrægni** – Vegalengdin þar sem vopnið getur enn valdið skaða, en skaðamagnið er helmingað og kraftur þess minnkaður um eitt þrep.
+- **Hleðsla:** Þetta sýnir hversu margar Lotur þarf til að hlaða eða endurhlaða vopn sem skýtur skotfærum.
 - **Bardagaáhrif:** Samkvæmt nærvopnum.
-- **Imp. Size (Gegnumstungustærð):** Virk stærð vopnsins eða skeytisins ef árás heppnast.
-- **AP/HP:** Öll vopn eru metin fyrir brynjustig og höggstig; getu þeirra til að standast beinar skemmdir og hversu miklar skemmdir þau þola áður en þau brotna. Gert er ráð fyrir að vopn sem treysta á málm fyrir skemmdagetu séu ýmist úr bronsi eða járni.
-- **Eiginleikar (Traits):** Sum vopn, vegna sérhæfðs eðlis síns, hafa ákveðna eiginleika sem greina þau frá vopnum af svipuðum stíl. Algengir eiginleikar eru:
-  - **1H** – Þetta vopn má skjóta einhent, sem gerir kleift að bera nærvopn eða skjöld í hinni hendinni.
-  - **Dwarf (Dvergur)** – Þetta vopn er aðeins algengt í dvergasamfélögum.
-  - **Repeating (Endurhlaðanlegt)** – Þetta vopn geymir 5 skeyta magasín og getur skotið einu á hverri aðgerð. Það tekur 3 bardagaaðgerðir að endurhlaða nýtt „magasín“ og 1 mínútu að hlaða tómt magasín með 5 skeytum í viðbót.
-- **Kostnaður:** Kostnaður vopnsins í silfurstykkjum.
-- **Byrði (Encumbrance):** Nema annað sé tekið fram, teljast öll fjarlægðarvopn sem 1 „hlutur“.
+- **Spjótstungu-stærð:** Virk stærð vopnsins eða skotfæra þess ef Spjótsstungu-árás heppnast.
+- **BP/HP:** Öll vopn eru metin út frá brynju-punktum og heilsu-punktum; getu þeirra til að standast beinan skaða og hversu mikinn skaða þau þola áður en þau brotna. Gert er ráð fyrir að vopn sem treysta á málm til skaðavalda séu annað hvort úr bronsi eða járni.
+- **Einkenni:** Sum vopn hafa, vegna sérhæfðs eðlis síns, ákveðna eiginleika eða einkenni, sem greina þau frá vopnum af svipaðri gerð. Algeng einkenni eru:
+  - **1H** – Þetta vopn má skjóta einhentu, sem gerir kleift að bera nærvopn eða skjöld í hinni hendinni.
+  - **Dvergur** – Þetta vopn er aðeins algengt í dvergasamfélaginu.
+  - **Endurtekning** – Þetta vopn geymir hleðsluklemma með 5 boltum og má skjóta einum í hverri Aðgerð. Það tekur 3 bardagaaðgerðir að endurhlaða nýrri "klemmu" og 1 mínútu að endurhlaða notaða klemmu með 5 boltum til viðbótar.
+- **Kostnaður:** Kostnaður vopnsins í silfurpeningum.
+- **Byrði:** Nema annað sé tekið fram jafngilda öll fjarvopn 1 'Hlut'.
 
-### Grunnfjarlægðarvopn
+### Grunnfjarvopn
 
-| Vopn | Skemmdir | Skemmdabreytir | Kraftur | Drægni | Hleðsla | Bardagaáhrif | Gegnumstungustærð | AP/HP | Kostnaður |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Lásbogi, þungur\*\* | 1d10 | N | H | 60/450/900 | 4 | Impale, Sunder | S | 4/8 | 35GP |
-| Lásbogi, léttur | 1d8 | N | L | 60/300/600 | 3 | Impale | S | 4/5 | 15GP |
-| Rýtingur\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 4/6 | 3GP |
-| Píla\* | 1d4 | Y | S | 15/30/60 | — | Impale | S | 2/1 | 1GP |
-| Stutt spjót | 1d8 | Y | L | 30/45/90 | — | Impale | M | 4/5 | 2GP |
-| Slynga\* | 1d8 | N | L | 30/450/900 | 3 | Stun Location | — | 1/2 | 5SP |
-| Steinn eða klettur | 1d3 | Y | S | 15/75/150 | — | Stun Location | — | — | — |
+| Vopn | Skaði | Skaðabreytir | Kraftur | Drægni | Hleðsla | Bardagaáhrif | Spjótstungu-stærð | BP/HP | Kostnaður |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
+| Crossbow, heavy\*\* | 1d10 | N | H | 60/450/900 | 4 | Spjótsstunga, Sunder | S | 4/8 | 35GP |
+| Crossbow, light | 1d8 | N | L | 60/300/600 | 3 | Spjótsstunga | S | 4/5 | 15GP |
+| Dagger\* | 1d4 | Y | S | 15/30/60 | — | Spjótsstunga | S | 4/6 | 3GP |
+| Dart\* | 1d4 | Y | S | 15/30/60 | — | Spjótsstunga | S | 2/1 | 1GP |
+| Shortspear | 1d8 | Y | L | 30/45/90 | — | Spjótsstunga | M | 4/5 | 2GP |
+| Sling\* | 1d8 | N | L | 30/450/900 | 3 | Staðbundin rotun | — | 1/2 | 5SP |
+| Stone or Rock | 1d3 | Y | S | 15/75/150 | — | Staðbundin rotun | — | — | — |
 
-_\* Telst sem ½ „hlutur“ varðandi ENC_
+_\* Telst sem ½ 'Hlutur' varðandi BYRÐI_
 
-_\*\* Telst sem 2 „hlutir“ varðandi ENC_
+_\*\* Telst sem 2 'Hlutir' varðandi BYRÐI_
 
-### Bardagafjarlægðarvopn
+### Bardagafjarvopn
 
-| Vopn | Skemmdir | Skemmdabreytir | Kraftur | Drægni | Hleðsla | Bardagaáhrif | Gegnumstungustærð | AP/HP | Kostnaður |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Bogi, langur | 1d8 | Y | H | 45/375/750 | 2 | Impale | S | 4/7 | 20GP |
-| Bogi, stuttur | 1d6 | Y | L | 45/300/600 | 2 | Impale | S | 4/4 | 7.5GP |
-| Bogi, samsettur langur | 1d8 | Y | H | 50/400/800 | 2 | Impale | S | 4/8 | 25GP |
-| Bogi, samsettur stuttur | 1d6 | Y | L | 50/325/650 | 2 | Impale | S | 4/5 | 9GP |
-| Lásbogi, léttur endurhl.\*\*\* | 1d8 | N | L | 60/300/600 | — | Impale | S | 4/5 | 75GP |
-| Handöxi\* | 1d6 | Y | S | 30/60/90 | — | Bleed | — | 4/6 | 2.5GP |
+| Vopn | Skaði | Skaðabreytir | Kraftur | Drægni | Hleðsla | Bardagaáhrif | Spjótstungu-stærð | BP/HP | Kostnaður |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-- | :-: | :-: | :-: |
+| Bow, long | 1d8 | Y | H | 45/375/750 | 2 | Spjótsstunga | S | 4/7 | 20GP |
+| Bow, short | 1d6 | Y | L | 45/300/600 | 2 | Spjótsstunga | S | 4/4 | 7,5GP |
+| Bow, composite long | 1d8 | Y | H | 50/400/800 | 2 | Spjótsstunga | S | 4/8 | 25GP |
+| Bow, composite short | 1d6 | Y | L | 50/325/650 | 2 | Spjótsstunga | S | 4/5 | 9GP |
+| Crossbow, light repeating\*\*\* | 1d8 | N | L | 60/300/600 | — | Spjótsstunga | S | 4/5 | 75GP |
+| Hand axe\* | 1d6 | Y | S | 30/60/90 | — | Blæðing | — | 4/6 | 2,5GP |
 
-_\* Telst sem ½ „hlutur“ varðandi ENC, hefur 1H eiginleika_
+_\* Telst sem ½ 'Hlutur' varðandi BYRÐI, hefur 1H einkenni_
 
-_\*\* Telst sem 2 „hlutir“ varðandi ENC_
+_\*\* Telst sem 2 'Hlutir' varðandi BYRÐI_
 
-_\*\*\* Telst sem 2 „hlutir“ varðandi ENC, hefur Dwarf og Repeating eiginleika_
+_\*\*\* Telst sem 2 'Hlutir' varðandi BYRÐI, hefur Dvergur og Endurtekning einkenni_
 
-### Skeyti fyrir fjarlægðarvopn
+### Skotfæri fyrir fjarvopn
 
-Vopn eins og bogar og lásbogar nota skeyti til að valda skemmdum. Örvar, lásbogapíur, pílur og steinar geta verið gerðir af hverjum sem er með viðeigandi iðnfærni, til dæmis Iðn (örvamíður) fyrir örvar, ef viðeigandi hráefni og vinnuaðstaða eru til staðar. Öll skeyti eru seld í magni sem nemur alls 1 „hlut“.
+Vopn eins og bogar og lásbogar nota skotfæri til að valda skaða. Örvar, bolta, pílukast og kúlur getur hver sem er með viðeigandi iðnhæfni smíðað, til dæmis Iðn (örvasmiður) fyrir örvar, ef hráefni og viðeigandi vinnusvæði eða smiðja eru tiltæk fyrir verkið. Öll skotfæri eru seld í magni sem jafngildir 1 'Hlut'.
 
-##### Skeyti fyrir fjarlægðarvopn
+##### Skotfæri fyrir fjarvopn
 
-| Tegund | Lýsing/leikáhrif | Kostnaður |
+| Tegund skotfæra | Lýsing/leikáhrif | Kostnaður |
 | :-- | :-- | :-: |
 | Örvar (20) | — | 5SP |
-| Lásbogapíur (20) | — | 5SP |
-| Blýskeyti fyrir slyngu (10) | — | 1SP |
-| Slyngusteinn | Auðvelt er að ná í steina; þeir valda þó gjarnan einu stigi minni skemmdum og hafa styttri drægni en blýskeyti. Drægniflokkar eru helmingaðir. | — |
+| Lásbogaboltar (20) | — | 5SP |
+| Blýkúlur í slöngu (10) | — | 1SP |
+| Slöngusteinn | Steinar eru auðfengnir; þó gera þeir oftast einu stigi minni skaða og hafa minni drægni en kúlur. Drægni-flokkar eru helmingaðir | — |
 
 ---
-## Brynjan
+## Brynja
 
-Brynjan dregur úr skemmdum á líkamshluta eftir brynjustigum sínum. Til dæmis hefur hringabrynja 3 brynjustig og dregur því úr öllum skemmdum um þá upphæð. Rýtingur sem gerir 3 skemmdir yrði t.d. algjörlega varinn. Ókosturinn við brynju er að hún getur verið þung og takmarkað hreyfigetu; að berjast til lengdar í málmbrynju tekur sinn toll í formi þreytu og hægir á viðbragðsflýti.
+Brynja dregur úr þeim skaða sem líkamshluti verður fyrir út frá brynju-punktum sínum. Til dæmis hefur Hringabrynja 3 brynju-punkta og dregur því úr öllum skaða um þá upphæð. Rýtingur sem veldur 3 punktum í skaða yrði til dæmis algjörlega varinn. Ókosturinn við brynju er að hún getur verið þung og takmarkandi fyrir hreyfingu; bardagi í lengri tíma í málmbrynju tekur toll hvað varðar Þreytu og hægir á getu til að bregðast við.
 
-Sama úr hvaða efni brynjan er, ekki er hægt að nota hana í lögum með öðrum gerðum – slíkar hugmyndir eru þegar innbyggðar í hönnun hennar. Gert er ráð fyrir að brynja komi með því fóðri eða bólstrun sem venjulega væri búist við sem hluta af fullkomnum útbúnaði.
+Sama úr hvaða efni brynjan er gerð er ekki hægt að leggja hana með öðrum gerðum – slík hugmyndafræði er nú þegar innbyggð sem hluti af smíði hennar. Gert er ráð fyrir að brynja komi með hvers kyns fóðrun eða bólstrun sem venjulega mætti búast við sem hluta af heildarútbúnaðinum.
 
-Hver tegund af brynju er skilgreind af eftirfarandi eiginleikum:
+Hver tegund brynju er skilgreind af eftirfarandi eiginleikum:
 
-- **AP:** Fjöldi brynjustiga sem gefin eru á hvern líkamshluta sem þessi brynja hylur.
-- **Kostnaður:** Kostnaður, í gullstykkjum, á hvern hylja líkamshluta.
-- **Byrði:** Borin brynja telst ekki sem „hlutir“ fyrir persónur sem eru færar um, og vanar, þeirri brynju sem þær bera. Hins vegar, fyrir persónur sem eru ekki færar um brynju, eða ef um viðbótarbrynjuhluti er að ræða, hafa þeir verðgildi upp á 1 „hlut“ á hvern líkamshluta fyrir létta brynju, og 2 „hluti“ á hvern líkamshluta fyrir þunga brynju. Þannig er heill brynjuflokkur af léttri brynju alls 7 „hlutir“, og heill brynjuflokkur af þungri brynju alls 14.
+- **BP:** Fjöldi brynju-punkta gefinn fyrir hvern stað sem þessi brynja hylur.
+- **Kostnaður:** Kostnaðurinn, í Gullpeningum, fyrir hvern stað sem hún hylur.
+- **Byrði:** Brynja sem er í notkun telst ekki til 'Hluta' sem persóna ber ef hún er fær í, og vön, brynjunni sem hún klæðist. Hins vegar, fyrir persónur sem ekki eru færar í brynju, eða ef um er að ræða aukabrynju hluti sem eru burðast með, hafa þær gildið 1 'Hlutur' á hvern líkamshluta fyrir létta brynju, og 2 'Hlutir' á hvern líkamshluta fyrir þunga brynju. Því er fullt sett af léttri brynju sem einhver óþjálfaður klæðist, eða einhver ber, samtals 7 'Hlutir', og fullt sett af þungri brynju er samtals 14.
 
-### Brynjan tafla
+### Brynjutafla
 
-| Létt brynja | AP | GP kostnaður á líkamshluta |
+| Létt brynja | BP | GP Kostnaður á stað |
 | :-- | :-: | :-: |
-| Feldir eða leður | 1 | 2 |
-| Leður, bólstrað eða fóðrað | 2 | 3 |
-| Súkkleður eða hringabrynja | 3 | 10 |
-| Brigandine, hreisturbrynja | 4 | 30 |
+| Skinn eða húðir | 1 | 2 |
+| Leður, Bólstrað, eða Quilted | 2 | 3 |
+| Súkkleður eða Hringabrynja | 3 | 10 |
+| Brigandine, Skeljabrynja, eða Laminated | 4 | 30 |
 
-| Þung brynja | AP | GP kostnaður á líkamshluta |
+| Þung brynja | BP | GP Kostnaður á stað |
 | :-- | :-: | :-: |
 | Keðjubrynja | 5 | 40 |
-| Spelkubrynja eða bandbrynja | 6 | 60 |
+| Splint Mail eða Banded Mail | 6 | 60 |
 | Plötubrynja | 7 | 70 |
-| Full plötubrynja | 8 | 80 |
+| Full Plötubrynja | 8 | 80 |
 
-## Galdrarúllur, drykkir og elixírar (Algengir)
+## Galdrarúllur, Drykkir og Elixírar (Algengir)
 
-Sérhver borg, sem og flestir stórir bæir, munu hafa að minnsta kosti eina verslun sem sérhæfir sig í sölu á galdrahlutum til einkanotkunar; og vegfarandi sölumenn kunna að finnast jafnvel í minnstu þorpum. Takmarkað magn af algengum rúllum, drykkjum og elixírum má kaupa í framandi galdraverslunum, musterum og jafnvel sumum ævintýrabúðum. Þetta eru aðeins þeir hlutir sem líklegast er að séu tiltækir, og ekki í miklu magni. Lagerinn er venjulega endurnýjaður á nokkurra daga fresti í stórum bæjum og borgum, og vikulega í minni byggðarlögum. Leikstjórnandinn getur ákveðið líkur á að finna sjaldgæfari galdrahluti frá tilfelli til tilfells. Allar rúllur, drykkir og elixírar teljast sem ½ „hlutur“.
+Sérhver borg, sem og flest stór bæjarfélög, mun hafa að minnsta kosti eina verslun sem sérhæfir sig í sölu á eyðanlegum galdrahlutum; og vegkantasalar gætu fundist jafnvel í minnstu þorpum. Takmarkað magn algengra rúllna, drykkja og elixíra má kaupa í framandi galdraverslunum, hofum og jafnvel sumum ævintýraverslunum. Þetta táknar aðeins þá hluti sem líklegast er að séu til, og ekki í miklu magni. Birgðir eru venjulega endurnýjaðar á nokkurra daga fresti í stórum bæjum og borgum, og vikulega í minni byggðum. Leikstjórnandi getur ákveðið líkurnar á að finna sjaldgæfari galdrahluti í hverju tilviki fyrir sig. Allar rúllur, drykkir og elixírar jafngilda ½ 'Hlut'.
 
 #### Tafla yfir algenga galdrahluti
 
-| Galdrahlutur | Framboðslíkur | Lýsing/leikáhrif | Kostnaður |
+| Galdrahlutur | Líkindi á framboði | Lýsing/leikáhrif | Kostnaður |
 | :-- | :-- | :-- | :-: |
-| Græðandi smyrsl | 100% líkur á 1d4+2 | Fyrsta hjálp er 1 stigi auðveldari og náttúrulegur bati flýtir sér, sem eykur lækningahraða persónunnar um 1 á hverjum líkamshluta sem það er borið á. Eitt sár má ekki njóta góðs af meira en einni notkun smyrsla. Hver skammtur dugar fyrir 3 mismunandi sár. | 1GP |
-| Drykkur til að eyða galdri | 80% líkur á 1d3+1 | Hlutleysir eitt galdraáhrif á neytandanum með styrkleika (Intensity) undir 1d4+1, uppsafnað. | 50GP |
-| Græðandi drykkur | 80% líkur á 1d4+2 | Endurheimtir 1d6+1 höggstig á líkamshluta sem þjáist af minniháttar sári og 1 höggstig á alvarlegu sári. Hefur engin áhrif á lífshættuleg sár. Auk þess stöðvar hann blæðingar á öllum slösuðum svæðum og kemur í veg fyrir yfirvofandi dauða af vanrækslu. | 40GP |
-| Sterkari græðandi drykkur | 40% líkur á 1d2+1 | Sama og græðandi drykkur, en læknar 1d8+2 höggstig á minniháttar eða alvarlegu sári og 2 höggstig á lífshættulegu sári. Hann virkar að öðru leyti eins og græðandi drykkur. | 80GP |
-| Magica-drykkur | 40% líkur á 1d2+1 | Þessi drykkur mun endurheimta 1d3+1 áður eydda galdrapunkta. Hann mun ekki auka galdrapunkta persónunnar umfram eðlilegan heildarfjölda. Að drekka fleiri en einn á klukkustund hefur engin frekari áhrif. | 80GP |
-| Kraftdrykkur | 80% líkur á 1d4+2 | Endurheimtir 1d3+1 stig af þreytu. Hefur engin áhrif á þreytu vegna blóðmissis eða orkutaps. | 50GP |
-| Galdrarúlla stigs 0 | 100% líkur á 1d4+1 af hverri | Rúlla sem inniheldur stigs 0 galdur. Allir stigs 0 galdrar eru venjulega tiltækir. | 10GP |
-| Galdrarúlla stigs 1 | 100% líkur á 1d3 af hverri | Rúlla sem inniheldur stigs 1 galdur. Allir stigs 1 galdrar eru venjulega tiltækir. | 40GP |
-| Heilagt vatn | 100% líkur á 1d4 | Má kasta allt að 10 fet. Ódauðir, djöflar og aðrar illar verur taka 1d2 punkta af skemmdum á 1d3 líkamshluta með Easy Athletics-kasti. Heilagt vatn mun brenna í 1d2 lotur. Brynjan mun verja gegn þessum skemmdum. | 25GP |
+| Græðandi smyrsl | 100% líkur á 1d4+2 | Fyrsta hjálpar köst eru 1 stigi auðveldari og náttúrulegur bati er einnig flýttur, sem eykur Batahraða persónunnar um 1 á hverjum stað sem það er borið á. Eitt sár má ekki njóta góðs af meira en einni notkun smyrsla. Hvert sýnishorn veitir nóg fyrir 3 aðskilin sár. | 1GP |
+| Potion of Dispel Magic | 80% líkur á 1d3+1 | Hlutleysir ein galdraáhrif á þiggjandanum með styrkleika undir 1d4+1, uppsafnað. | 50GP |
+| Potion of Healing | 80% líkur á 1d4+2 | Endurheimtir 1d6+1 heilsu-punkta á stað sem þjáist af Minniháttar sári og 1 heilsu-punkt á Alvarlegu sári. Hefur engin áhrif á Meiriháttar sár. Auk þess stöðvar það öll slösuð svæði, stöðvar allar blæðingar og kemur í veg fyrir yfirvofandi dauða vegna vanrækslu. | 40GP |
+| Potion of Greater Healing | 40% líkur á 1d2+1 | Eins og Potion of Healing, en græðir 1d8+2 heilsu-punkta á Minniháttar eða Alvarlegu sári og 2 heilsu-punkta á Meiriháttar sári. Það virkar á alla aðra vegu sem Potion of Healing. | 80GP |
+| Potion of Magica | 40% líkur á 1d2+1 | Þessi drykkur mun endurheimta 1d3+1 áður eydda Galdra-punkta. Hann mun ekki ýta persónu yfir venjulegan Galdra-punktafjölda. Að drekka fleiri en einn á klukkustund hefur engin frekari áhrif. | 80GP |
+| Potion of Vigor | 80% líkur á 1d4+2 | Endurheimtir 1d3+1 stig af Þreytu. Hefur engin áhrif á Þreytu sem öðlast er með Blóðmissi eða Orkutæmingu. | 50GP |
+| Rank 0 Spell Scroll | 100% líkur á 1d4+1 af hverjum | Rúlla sem inniheldur Rank 0 Arkana eða Guðlegar galdra. Allir Rank 0 galdrar eru venjulega tiltækir. | 10GP |
+| Rank 1 Spell Scroll | 100% líkur á 1d3 af hverjum | Rúlla sem inniheldur Rank 1 Arkana eða Guðlegar galdra. Allir Rank 1 galdrar eru venjulega tiltækir. | 40GP |
+| Vial of Holy Water | 100% líkur á 1d4 | Má kasta allt að 10 fet. Ódauðir, púkar, djöflar og aðrar verur af hreinu illsku, taka 1d2 punkta af skaða á 1d3 líkamshluta með auðveldu Íþrótta kasti. Heilagt vatn brennur í 1d2 Lotur. Brynja mun verja gegn þessum skaða. | 25GP |
 
 ---
 ## Verkfæri
 
-Verkfæri innihalda alla þá hluti sem sérhver virðulegur ævintýramaður ætti að eiga: reipi, poka, kerti, luktir og svo framvegis. Allir hlutir á þessum lista teljast vera af viðunandi gæðum. Nema annað sé tekið fram, teljast öll verkfæri sem 1 „hlutur“ eða seld í magni sem nemur 1 „hlut“.
+Verkfæri innihalda alla þá hluti sem ætlast er til að sérhver ævintýramaður eigi: reipi, sekki og töskur, kerti, ljósker, og svo framvegis. Gert er ráð fyrir að allir hlutir á þessum lista séu af sanngjörnum gæðum. Nema annað sé tekið fram jafngilda öll verkfæri 1 'Hlut', eða eru seld í magni sem jafngildir 1 'Hlut'.#### Töflur yfir verkfæri
 
-#### Tafla yfir verkfæri
-
-| Hlutur | Lýsing/leikáhrif | Kostnaður |
-| :-- | :-- | :-- |
-| Bakpoki | Geymir allt að 10 hluti án aukatengingar. | 5SP |
-| Sef | Teppi og bólstrað undirlag til svefns. Venjulega vafið þétt og bundið með snúru til auðveldrar flutnings. | 1SP |
-| Beltispyngja | Geymir 1 hlut eða 100 mynt án aukatengingar. | 1CP |
-| Flaska, gler/leir | Geymir 1 lítra af vökva. | 2SP |
-| Kerti, 1 klst (10) | 5-feta radíus. | 1SP |
-| Kerti, 6 klst (10) | 5-feta radíus. | 1GP |
-| Klifursett | Leðurbelti, staurar, stuttar reipilengdir og ýmislegt annað. Klifurkös eru 1 stigi auðveldari. | 3GP |
-| Matreiðslupottur | Fyrir ferðalög. | 3SP |
-| Iðntól | Grunnverkfæri sem samsvara iðn. | 8GP |
-| Stöng | Öll Brawn-köst til að brjóta upp hurðir, kistulok o.s.frv. eru 1 stigi auðveldari. Telst sem kylfa í bardaga. | 2.5GP |
-| Fyrstu hjálpar kassi | Dugar fyrir 10 notkun á fyrstu hjálp. | 2.5GP |
-| Eldstál | Kveikja eld á um það bil mínútu án Survival-kasts (telst sem ½ hlutur). | 1SP |
-| Krókur | Má kasta allt að hálfu STRx3 fetum með vel heppnuðu Throw-kasti. | 5SP |
-| Hamar/mél/3 meitlar | Hamrar og mélar teljast sem kylfa í bardaga, meitlar sem hnífur. | 1SP |
-| Lækningakassi | Dugar fyrir 10 notkun á lækningafærni. | 15GP |
-| Heilagt tákn | Tákn guðsins sem persónan þjónar. Gott gæðaflokkur x10 kostnaður, framúrskarandi x100 (½ hlutur). | 5SP |
-| Stigi, reipi 10 fet | Klifurkös eru 1 stigi auðveldari. | 2SP |
-| Lukt, grunn | Brennur í 2 klst á einum olíuflösku, 10-feta radíus. | 1GP |
-| Lásatól | Lítil pyngja sem inniheldur tól til að opna lás og aftengja gildrur. | 8GP |
-| Spegill (málm) | Lítill traustur handspegill. | 1GP |
-| Naglar eða teinar (50) | Algengir smíðanaglar fyrir einfalda trésmíði. | 2CP |
-| Olíuflaska (2) | 2 klst eldsneyti fyrir lukt. Ef hún brotnar mun hún viðhalda opnum eldi í 1 mínútu. | 1SP |
-| Bókfell eða pappír (10) | Stór blöð af bókfelli eða pappír sem hægt er að nota í allt frá listaverkum til að teikna upp dýflissur. | 5SP |
-| Stöng, 10 fet | Má nota sem göngustaf með 1 stigi erfiðleika. Stærð +1 stig. Telst sem 2 „hlutir“. | 1SP |
-| Fjaðrir (3) og blek | Fjaðrasett og nóg af bleki til að skrifa u.þ.b. 20 síður af ítarlegum athugasemdum. | 6GP |
-| Örvarbogi | Geymir allt að 20 örvar eða lásbogapíur. | 2SP |
-| Reipi, hampi (30 fet) | Ber hámark 20 SIZ/60 hluti. | 1GP |
-| Poki, stór | Telst sem 2 hlutir. Geymir allt að 10 hluti án aukatengingar (að stærð og gerð leyfðu). | 5CP |
-| Poki, lítill | Geymir allt að 3 hluti án aukatengingar (að stærð og gerð leyfðu). | 2CP |
-| Vaxpokar/axlapokar | Geymir allt að 6 hluti án aukatengingar. Vegna axlarólarinnar má auðveldlega fleygja þeim með ókeypis aðgerð. | 3SP |
-| Galdrabók, tóm | Á hverjar 100 sérstaklega útbúnar síður. | 15GP |
-| Galdraefnapyngja | Almenn efni fyrir galdra. Hver pyngja geymir nægjanlegt efni til að auðvelda galdraiðkun í gegnum eitt ævintýri eða einn mánuð. | 20SP |
-| Staurar, járn (10) | Nýtast til að búa til handföng fyrir klifur, læsa hurðum og margt annað. Járnstaur má nota sem rýting í bardaga með 1 stigi erfiðleika og +2 brynjustig og höggstig. | 1GP |
-| Kyndill, 1 klst (2) | 10-feta radíus. Telst sem kylfa með 1d4 aukalegum eldskemmdum í bardaga, 10% líkur á að slokkna ef honum er sleppt, 60% líkur ef honum er kastað. | 8CP |
+| Hlutur | Lýsing/leikáhrif | Verð |
+| :-- | :-- | :-: |
+| Bakpoki | Rúmar allt að 10 hluti án aukalegrar þyngdar. | 5SP |
+| Svefnpoki | Teppi og bólstrað dýna til að sofa á. Yfirleitt vafið þétt saman og bundið með snæri til að auðvelda flutning. | 1SP |
+| Beltisveski | Rúmar 1 hlut eða 100 myntir án aukalegrar þyngdar. | 1CP |
+| Flaska, gler/leir | Rúmar 1 lítra af vökva. | 2SP |
+| Kerti, 1 klst (10) | 5 feta radíus. | 1SP |
+| Kerti, 6 klst (10) | 5 feta radíus. | 1GP |
+| Klifurbúnaður | Leðurbelti, klifurkrókar, stuttar reipisstubbar og ýmislegt annað. Klifurkastið verður einu stigi auðveldara. | 3GP |
+| Eldunarpottur | Fyrir ferðalög. | 3SP |
+| Handverksverkfæri | Grunnverkfæri sem hæfa handverki. | 8GP |
+| Kúbeinn | Öll STY-köst til að brjóta upp hurðir, kistulok og þess háttar verða einu stigi auðveldari. Telst sem kylfa í bardaga. | 2.5GP |
+| Fyrstuhjálparbúnaður | Nýtist í 10 skipti fyrir Fyrstuhjálparhæfni. | 2.5GP |
+| Eldstálsbúnaður | Kveikir eld á um mínútu án þess að þurfa Lifunarkast (telst sem ½ hlutur). | 1SP |
+| Klifurkrókur | Má kasta allt að helmingi STYx3 feta með árangursríku köst-kasti. | 5SP |
+| Hamar/sleggja/3 meitlar | Hamra og sleggjur má meðhöndla sem kylfur í bardaga, meitla sem hnífa. | 1SP |
+| Lækningabúnaður | Nýtist í 10 skipti fyrir Lækningahæfni. | 15GP |
+| Helgitákn | Tákn verndarguðs viðkomandi. Vönduð gerð kostar x10, framúrskarandi x100 (½ hlutur). | 5SP |
+| Stigi, reipi 10 fet | Klifurkastið verður einu stigi auðveldara. | 2SP |
+| Lampi, grunn | Brennur í 2 klukkustundir á einum olíubrúsa, 10 feta radíus. | 1GP |
+| Lásapikar og þjófatóól | Lítið veski sem inniheldur verkfæri til að opna lása og afvopna gildrur. | 8GP |
+| Spegill (málmur) | Lítill og sterklegur hand-spegill. | 1GP |
+| Neglur eða teinar (50) | Hefðbundnar trésmíðaneglur fyrir einfalda trébyggingu. | 2CP |
+| Olíubrúsi (2) | 2 klukkustunda eldsneyti fyrir lampa. Ef hann brotnar helst opinn eldur í 1 mínútu. | 1SP |
+| Pergament- eða pappírsarkir (10) | Stórar arkir af pergamenti eða pappír sem henta í allt frá listaverkum til kortagerðar í dýflissum. | 5SP |
+| Stöng, 10 fet | Má nota sem göngustaf með 1 stigs erfiðleika. Stærð +1 stig. Telst sem 2 "hlutir". | 1SP |
+| Fjaðurstafir (3) og skrifblek | Sett af fjaðurstöfum og nægilegt blek til að fylla um það bil 20 blaðsíður með ítarlegum skýringum. | 6GP |
+| Örvamækir | Rúmar allt að 20 örvar eða lásbogapíla. | 2SP |
+| Reipi, hampur (30 fet) | Ber hámark 20 STÆ/60 hluti. | 1GP |
+| Poki, stór | Telst sem 2 hlutar. Rúmar allt að 10 hluti án aukalegrar þyngdar (ef stærð og gerð leyfa). | 5CP |
+| Poki, lítill | Rúmar allt að 3 hluti án aukalegrar þyngdar (ef stærð og gerð leyfa). | 2CP |
+| Axlarpoki/taska | Rúmar allt að 6 hluti án aukalegrar þyngdar. Vegna axlarólarinnar má auðveldlega henda honum með frjálsri aðgerð. | 3SP |
+| Galdrabók, auð | Fyrir hverjar 100 sérútbúnar blaðsíður. | 15GP |
+| Galdraefnapoki | Almenn efni til galdraiðkunar. Hver poki inniheldur nægilegt efni til að auðvelda galdraiðkun í gegnum eitt ævintýri eða einn mánuð af ævintýrum. | 20SP |
+| Broddar, járn (10) | Gagnlegt til að búa til handföng við klifur, læsa hurðum og margvísleg önnur hlutverk. Járnbrodd má nota sem bráðabirgðadolg í bardaga með 1 stigs erfiðleika og +2 Vörn og Heilsu. | 1GP |
+| Kyndill, 1 klst (2) | 10 feta radíus. Telst sem kylfa sem veldur 1d4 aukalegum eld-skaða í bardaga, hefur 10% líkur á að slokkna ef honum er varpað, 60% líkur ef honum er kastað. | 8CP |
 | Kyndill, 6 klst (2) | Eins og að ofan, lengri endingartími. | 4SP |
-| Ferðamatur (1 vika) | Ferðamatur samanstendur af mat sem geymist lengi, eins og þurrkað kjöt, ostur, brauð (venjulega ósýrt flatt brauð til að auðvelda flutning) og korn, annaðhvort hnetur eða kornvörur. | 7SP |
-| Vatnsbelgur | Geymir 2 lítra af vökva, nóg til að halda ævintýramanni gangandi í 2 daga við venjulegar aðstæður. | 5CP |
+| Ferðakostur (1 vika) | Ferðakostur samanstendur af mat sem er geymdur til langrar endingar, svo sem þurrkuðu og verkuðu kjöti, osti, brauði (yfirleitt ósýrt flatt brauð til að auðvelda flutning) og korni, ýmist hnetum eða korntegundum. | 7SP |
+| Vatnsbelgur | Rúmar 2 lítra af vökva, nægilegt vatn til að halda ævintýramanni gangandi í 2 daga við venjulegar aðstæður. | 5CP |
