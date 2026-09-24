@@ -5,26 +5,27 @@
 
 ### Características
 
-- Se añadió el plugin fontawesome para iconos gratuitos
-- Se añadió el plugin Material Icons para iconos gratuitos
+- Se añadió el complemento fontawesome para iconos gratuitos
+- Se añadió el complemento Material Icons para iconos gratuitos
 
 ### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
+## V0.2.0
 *23 de oct. de 23*
 
 ### Características
 
-- Se añadió el plugin Flexible Alerts
-- Actualización de Sample.md con nuevas opciones de formato de Flexible Alerts
-- Se añadieron instrucciones para cambiar las fuentes de Encabezado y del Sitio en **Cómo hacer**
+- Se añadió el complemento Flexible Alerts
+- Actualización de Sample.md CON nuevas opciones de formato de Flexible Alerts
+- Se añadieron instrucciones para cambiar las fuentes de los encabezados y del sitio en **Cómo hacerlo**
 
 ### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
@@ -37,7 +38,7 @@
 
 ### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### Características
 
-- Se añadieron "Instrucciones de cómo hacer"
+- Se añadieron las "Instrucciones sobre cómo hacerlo"
 
 ### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
@@ -57,10 +58,10 @@
 
 ### Características
 
-- Se añadió la funcionalidad de alternar entre modo claro/oscuro (Desde )
+- Se añadió la funcionalidad de alternancia entre modo claro/oscuro
 - Navegación mejorada: El menú de hamburguesa se movió a la parte superior izquierda de la pantalla (desde la parte inferior izquierda)
 - Legibilidad mejorada: Se añadieron las fuentes Open Sans y Orbitron
 
 ### Corrección de errores
 
-- N/A
+- N/D

@@ -14,13 +14,14 @@
 
 ---
 
+## V0.2.0
 *2023. gada 23. oktobris*
 
 ### Funkcijas
 
 - Pievienots Flexible Alerts spraudnis
 - Atjaunināts Sample.md ar jaunām formatēšanas opcijām no Flexible Alerts
-- Pievienotas instrukcijas virsrakstu un vietnes fontu maiņai sadaļā **Kā to izdarīt** (How To)
+- Pievienotas instrukcijas virsrakstu un vietnes fontu maiņai sadaļā **Kā to izdarīt**
 
 ### Kļūdu labojumi
 
@@ -33,7 +34,7 @@
 
 ### Funkcijas
 
-- Pievienots (8.) solis instrukcijās, lai nodrošinātu ".nojekyll" faila izveidi.
+- Pievienots (8). solis instrukcijās, lai nodrošinātu ".nojekyll" faila izveidi.
 
 ### Kļūdu labojumi
 
@@ -45,7 +46,7 @@
 
 ### Funkcijas
 
-- Pievienotas "Kā to izdarīt" (How To) instrukcijas
+- Pievienotas "Kā to izdarīt instrukcijas"
 
 ### Kļūdu labojumi
 
@@ -58,7 +59,7 @@
 ### Funkcijas
 
 - Pievienota gaišā/tumšā režīma pārslēgšanas funkcionalitāte
-- Uzlabota navigācija: "Hamburger" izvēlne pārvietota uz ekrāna augšējo kreiso stūri (iepriekš apakšējā kreisajā stūrī)
+- Uzlabota navigācija: "Hamburger" izvēlne pārvietota uz ekrāna augšējo kreiso stūri (no apakšējā kreisā stūra)
 - Uzlabota lasāmība: Pievienoti Open Sans un Orbitron fonti
 
 ### Kļūdu labojumi

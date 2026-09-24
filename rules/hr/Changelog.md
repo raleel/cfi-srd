@@ -1,4 +1,4 @@
-# Promjene
+# Dnevnik promjena
 
 ## V0.3.0
 *26. listopada 23.*
@@ -14,13 +14,14 @@
 
 ---
 
+## V0.2.0
 *23. listopada 23.*
 
 ### Značajke
 
 - Dodan dodatak Flexible Alerts
 - Ažuriran Sample.md s novim opcijama oblikovanja iz Flexible Alerts
-- Dodane upute za promjenu fontova naslova i stranice u **Kako koristiti**
+- Dodane upute za promjenu fontova zaglavlja i stranice u **Kako koristiti**
 
 ### Ispravci pogrešaka
 
@@ -33,7 +34,7 @@
 
 ### Značajke
 
-- Dodan korak (8) u uputama za osiguravanje stvaranja datoteke ".nojekyll".
+- Dodan korak (8) u upute za osiguravanje izrade datoteke ".nojekyll".
 
 ### Ispravci pogrešaka
 
@@ -45,7 +46,7 @@
 
 ### Značajke
 
-- Dodane "Upute za korištenje"
+- Dodane "Upute kako koristiti"
 
 ### Ispravci pogrešaka
 
@@ -57,9 +58,9 @@
 
 ### Značajke
 
-- Dodana funkcionalnost prebacivanja svijetlog/tamnog načina rada (Od )
-- Poboljšana navigacija: "Hamburger" izbornik pomaknut gore lijevo na zaslonu (s donjeg lijevog dijela)
-- Poboljšana čitljivost: Dodani fontovi Open Sans & Orbitron
+- Dodana funkcionalnost prebacivanja svijetlog/tamnog načina rada
+- Poboljšana navigacija: "Hamburger" izbornik pomaknut u gornji lijevi kut zaslona (s donjeg lijevog kuta)
+- Poboljšana čitljivost: Dodani fontovi Open Sans i Orbitron
 
 ### Ispravci pogrešaka
 

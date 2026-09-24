@@ -5,26 +5,27 @@
 
 ### Funktioner
 
-- Tilføjet fontawesome-plugin til gratis ikoner
-- Tilføjet Material Icons-plugin til gratis ikoner
+- Tilføjet fontawesome-plugin for gratis ikoner
+- Tilføjet Material Icons-plugin for gratis ikoner
 
 ### Fejlrettelser
 
-- N/A
+- Ikke relevant
 
 ---
 
+## V0.2.0
 *23. okt. 23*
 
 ### Funktioner
 
 - Tilføjet Flexible Alerts-plugin
 - Opdateret Sample.md med nye formateringsmuligheder fra Flexible Alerts
-- Tilføjet instruktioner til ændring af både overskrifts- og skrifttyper i **Sådan gør du**
+- Tilføjet vejledning til ændring af både overskrifts- og sidefonte i **Sådan gør du**
 
 ### Fejlrettelser
 
-- N/A
+- Ikke relevant
 
 ---
 
@@ -33,11 +34,11 @@
 
 ### Funktioner
 
-- Tilføjet trin (8) i instruktionerne for at sikre, at ".nojekyll"-filen oprettes.
+- Tilføjet trin (8) i vejledningen for at sikre, at ".nojekyll"-filen oprettes.
 
 ### Fejlrettelser
 
-- N/A
+- Ikke relevant
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### Funktioner
 
-- Tilføjet "Sådan gør du-instruktioner"
+- Tilføjet "Sådan gør du-vejledning"
 
 ### Fejlrettelser
 
-- N/A
+- Ikke relevant
 
 ---
 
@@ -57,10 +58,10 @@
 
 ### Funktioner
 
-- Tilføjet funktionalitet til skift mellem lys/mørk tilstand (Fra )
-- Forbedret navigation: Hamburger-menu flyttet til øverst til venstre på skærmen (fra nederst til venstre)
-- Forbedret læsbarhed: Tilføjet Open Sans- og Orbitron-skrifttyper
+- Tilføjet funktionalitet til skift mellem lys/mørk tilstand
+- Forbedret navigation: Hamburgermenu flyttet til øverste venstre hjørne på skærmen (fra nederste venstre)
+- Forbedret læsbarhed: Tilføjet Open Sans- og Orbitron-fonte
 
 ### Fejlrettelser
 
-- N/A
+- Ikke relevant

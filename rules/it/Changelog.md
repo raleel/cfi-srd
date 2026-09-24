@@ -5,26 +5,27 @@
 
 ### Funzionalità
 
-- Aggiunto plugin fontawesome per icone gratuite
-- Aggiunto plugin Material Icons per icone gratuite
+- Aggiunto il plugin fontawesome per le icone gratuite
+- Aggiunto il plugin Material Icons per le icone gratuite
 
 ### Correzioni di bug
 
-- N/D
+- N/A
 
 ---
 
+## V0.2.0
 *23 ott 23*
 
 ### Funzionalità
 
-- Aggiunto plugin Flexible Alerts
-- Aggiornato Sample.md con le nuove opzioni di formattazione da Flexible Alerts
-- Aggiunte istruzioni per modificare sia il carattere delle intestazioni che quello del sito in **Come fare**
+- Aggiunto il plugin Flexible Alerts
+- Aggiornato Sample.md COS le nuove opzioni di formattazione di Flexible Alerts
+- Aggiunte istruzioni per modificare i font dell'intestazione e del sito in **Come fare**
 
 ### Correzioni di bug
 
-- N/D
+- N/A
 
 ---
 
@@ -33,11 +34,11 @@
 
 ### Funzionalità
 
-- Aggiunto il passaggio (8) nelle istruzioni per garantire che il file ".nojekyll" venga creato.
+- Aggiunto il passaggio (8) nelle istruzioni per garantire la creazione del file ".nojekyll".
 
 ### Correzioni di bug
 
-- N/D
+- N/A
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### Funzionalità
 
-- Aggiunte "Istruzioni su come fare"
+- Aggiunte le "Istruzioni su come fare"
 
 ### Correzioni di bug
 
-- N/D
+- N/A
 
 ---
 
@@ -57,10 +58,10 @@
 
 ### Funzionalità
 
-- Aggiunta funzionalità di attivazione modalità Chiara/Scura (Da )
-- Navigazione migliorata: Menu hamburger spostato in alto a sinistra sullo schermo (da in basso a sinistra)
-- Leggibilità migliorata: Aggiunti i font Open Sans e Orbitron
+- Aggiunta la funzionalità di commutazione tra modalità Chiara/Scura
+- Navigazione migliorata: il menu a hamburger è stato spostato in alto a sinistra sullo schermo (rispetto a quello in basso a sinistra)
+- Leggibilità migliorata: aggiunti i font Open Sans e Orbitron
 
 ### Correzioni di bug
 
-- N/D
+- N/A

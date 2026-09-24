@@ -1,66 +1,67 @@
-# Changelog
+# Dnevnik izmena
 
 ## V0.3.0
 *26. okt 23.*
 
-### Funkcionalnosti
+### Funkcije
 
 - Dodat fontawesome dodatak za besplatne ikonice
 - Dodat Material Icons dodatak za besplatne ikonice
 
-### Ispravke grešaka
+### Ispravke bagova
 
-- Nije primenljivo
+- N/A
 
 ---
 
+## V0.2.0
 *23. okt 23.*
 
-### Funkcionalnosti
+### Funkcije
 
-- Dodat dodatak za fleksibilna upozorenja (Flexible Alerts)
-- Ažuriran Sample.md sa novim opcijama formatiranja iz Flexible Alerts
-- Dodata uputstva za promenu fontova naslova i sajta u **Kako da** (How To)
+- Dodat dodatak za fleksibilna upozorenja (Flexible Alerts Plugin)
+- Ažuriran Sample.md novim opcijama formatiranja iz fleksibilnih upozorenja
+- Dodata uputstva za promenu fontova za zaglavlja i sajt u odeljku **Kako da**
 
-### Ispravke grešaka
+### Ispravke bagova
 
-- Nije primenljivo
+- N/A
 
 ---
 
 ## V0.1.2
 *20. okt 23.*
 
-### Funkcionalnosti
+### Funkcije
 
-- Dodat korak (8) u uputstvima za obezbeđivanje kreiranja ".nojekyll" datoteke.
+- Dodat korak (8) u uputstvima za osiguravanje kreiranja ".nojekyll" datoteke.
 
-### Ispravke grešaka
+### Ispravke bagova
 
-- Nije primenljivo
+- N/A
 
 ---
 
 ## V0.1.1
 
-### Funkcionalnosti
+### Funkcije
 
-- Dodata "Uputstva Kako da" (How To instructions)
+- Dodata "Uputstva Kako da"
 
-### Ispravke grešaka
+### Ispravke bagova
 
-- Nije primenljivo
+- N/A
 
 ---
 
 ## V0.1.0
 
-### Funkcionalnosti
+### Funkcije
 
-- Dodata funkcionalnost prebacivanja Svetlog/Tamnog režima (Iz )
-- Poboljšana navigacija: "Hamburger" meni pomeren u gornji levi ugao ekrana (sa donjeg levog)
+- Dodata funkcija za prebacivanje svetlog/tamnog režima
+- Poboljšana navigacija: Hamburg menadžer pomeren u gornji levi ugao ekrana (sa donjeg levog)
 - Poboljšana čitljivost: Dodati Open Sans i Orbitron fontovi
 
-### Ispravke grešaka
+### Ispravke bagova
 
-- Nije primenljivo
+- N/A

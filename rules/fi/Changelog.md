@@ -5,26 +5,27 @@
 
 ### Ominaisuudet
 
-- Lisätty fontawesome-liitännäinen ilmaisia kuvakkeita varten
-- Lisätty Material Icons -liitännäinen ilmaisia kuvakkeita varten
+- Lisätty fontawesome-liitännäinen ilmaisille kuvakkeille
+- Lisätty Material Icons -liitännäinen ilmaisille kuvakkeille
 
 ### Virheenkorjaukset
 
-- Ei sovelleta
+- Ei sovellettavissa
 
 ---
 
+## V0.2.0
 *23. lokakuuta 2023*
 
 ### Ominaisuudet
 
-- Lisätty Flexible Alerts -liitännäinen
-- Päivitetty Sample.md uusilla muotoiluasetuksilla Flexible Alerts -liitännäisestä
-- Lisätty ohjeet otsikko- ja sivustofonttien vaihtamiseen kohdassa **How To**
+- Lisätty joustavien huomautusten (Flexible Alerts) liitännäinen
+- Päivitetty Sample.md uusilla muotoiluasetuksilla joustavista huomautuksista
+- Lisätty ohjeet sekä otsikko- että sivustofonttien vaihtamiseen kohdassa **How To**
 
 ### Virheenkorjaukset
 
-- Ei sovelleta
+- Ei sovellettavissa
 
 ---
 
@@ -37,7 +38,7 @@
 
 ### Virheenkorjaukset
 
-- Ei sovelleta
+- Ei sovellettavissa
 
 ---
 
@@ -49,7 +50,7 @@
 
 ### Virheenkorjaukset
 
-- Ei sovelleta
+- Ei sovellettavissa
 
 ---
 
@@ -57,10 +58,10 @@
 
 ### Ominaisuudet
 
-- Lisätty vaalean/tumman tilan vaihtotoiminto (lähteestä )
-- Parannettu navigointia: Hampurilaisvalikko siirretty näytön vasempaan yläkulmaan (aiemmin vasen alakulma)
-- Parannettu luettavuutta: Lisätty Open Sans- ja Orbitron-fontit
+- Lisätty vaalean/tumman tilan vaihtotoiminto
+- Parannettu navigointi: Hampurilaisvalikko siirretty näytön vasempaan yläkulmaan (alavasemmalta)
+- Parannettu luettavuus: Lisätty Open Sans- ja Orbitron-fontit
 
 ### Virheenkorjaukset
 
-- Ei sovelleta
+- Ei sovellettavissa

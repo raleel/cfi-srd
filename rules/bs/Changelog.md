@@ -1,12 +1,12 @@
-# Changelog
+# Dnevnik izmjena
 
 ## V0.3.0
-*26. okt 23*
+*26. oktobar 23*
 
-### Mogućnosti
+### Funkcionalnosti
 
-- Dodat fontawesome dodatak za besplatne ikone
-- Dodat Material Icons dodatak za besplatne ikone
+- Dodat fontawesome dodatak za besplatne ikonice
+- Dodat Material Icons dodatak za besplatne ikonice
 
 ### Ispravke grešaka
 
@@ -14,13 +14,14 @@
 
 ---
 
-*23. okt 23*
+## V0.2.0
+*23. oktobar 23*
 
-### Mogućnosti
+### Funkcionalnosti
 
-- Dodat dodatak Flexible Alerts
-- Ažuriran Sample.md sa novim opcijama formatiranja iz Flexible Alerts
-- Dodata uputstva za promjenu fontova naslova i stranice u **Kako da**
+- Dodat dodatak za fleksibilna upozorenja (Flexible Alerts)
+- Ažuriran Sample.md sa novim opcijama formatiranja iz fleksibilnih upozorenja
+- Dodata uputstva za promjenu fontova zaglavlja i stranice u **Kako da**
 
 ### Ispravke grešaka
 
@@ -29,9 +30,9 @@
 ---
 
 ## V0.1.2
-*20. okt 23*
+*20. oktobar 23*
 
-### Mogućnosti
+### Funkcionalnosti
 
 - Dodat korak (8) u uputstvima za osiguravanje kreiranja ".nojekyll" datoteke.
 
@@ -43,9 +44,9 @@
 
 ## V0.1.1
 
-### Mogućnosti
+### Funkcionalnosti
 
-- Dodata "Uputstva (Kako da)"
+- Dodata "Kako da uputstva"
 
 ### Ispravke grešaka
 
@@ -55,10 +56,10 @@
 
 ## V0.1.0
 
-### Mogućnosti
+### Funkcionalnosti
 
-- Dodata funkcionalnost prebacivanja svijetlog/tamnog načina rada (Od )
-- Poboljšana navigacija: Hamburger meni pomjeren na gornji lijevi dio ekrana (sa donjeg lijevog)
+- Dodata funkcionalnost prekidača za svijetli/tamni način rada
+- Poboljšana navigacija: Hamburg meni pomjeren u gornji lijevi ugao ekrana (sa donjeg lijevog)
 - Poboljšana čitljivost: Dodati Open Sans i Orbitron fontovi
 
 ### Ispravke grešaka

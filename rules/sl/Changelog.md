@@ -1,66 +1,67 @@
 # Dnevnik sprememb
 
 ## V0.3.0
-*26. oktober 23*
+*26. okt. 23*
 
-### Funkcionalnosti
+### Funkcije
 
 - Dodan vtičnik fontawesome za brezplačne ikone
 - Dodan vtičnik Material Icons za brezplačne ikone
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
-*23. oktober 23*
+## V0.2.0
+*23. okt. 23*
 
-### Funkcionalnosti
+### Funkcije
 
 - Dodan vtičnik Flexible Alerts
-- Posodobitev datoteke Sample.md z novimi možnostmi oblikovanja iz Flexible Alerts
-- Dodana navodila za spreminjanje pisav naslovov in spletnega mesta v razdelku **Kako**
+- Posodobitev Sample.md z novimi možnostmi oblikovanja iz Flexible Alerts
+- Dodana navodila za spreminjanje pisav naslovov in spletnega mesta v **Kako na to**
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
 ## V0.1.2
-*20. oktober 23*
+*20. okt. 23*
 
-### Funkcionalnosti
+### Funkcije
 
-- Dodan korak (8) v navodilih za zagotovitev ustvarjanja datoteke ".nojekyll".
+- Dodan korak (8) v navodilih za zagotovitev, da je ustvarjena datoteka ".nojekyll".
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
 ## V0.1.1
 
-### Funkcionalnosti
+### Funkcije
 
-- Dodana "Navodila za uporabo"
+- Dodana "Navodila Kako na to"
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
 ## V0.1.0
 
-### Funkcionalnosti
+### Funkcije
 
-- Dodana funkcionalnost preklopa med svetlim/temnim načinom (od )
-- Izboljšana navigacija: Meni "hamburger" premaknjen v zgornji levi kot zaslona (prej spodnji levi)
-- Izboljšana berljivost: Dodani pisavi Open Sans in Orbitron
+- Dodana funkcionalnost preklopa med svetlim/temnim načinom
+- Izboljšana navigacija: meni "hamburger" premaknjen zgoraj levo na zaslonu (iz spodnjega levega kota)
+- Izboljšana berljivost: dodani pisavi Open Sans in Orbitron
 
 ### Popravki napak
 
-- N/A
+- Nič

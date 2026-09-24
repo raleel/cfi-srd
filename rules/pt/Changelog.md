@@ -1,4 +1,4 @@
-# Registro de alterações
+# Registro de Alterações
 
 ## V0.3.0
 *26 de out. de 23*
@@ -8,21 +8,22 @@
 - Adicionado plugin fontawesome para ícones gratuitos
 - Adicionado plugin Material Icons para ícones gratuitos
 
-### Correções de erros
+### Correções de Bugs
 
 - N/A
 
 ---
 
+## V0.2.0
 *23 de out. de 23*
 
 ### Funcionalidades
 
-- Adicionado plugin Flexible Alerts
-- Atualizado Sample.md com novas opções de formatação do Flexible Alerts
-- Adicionadas instruções para alterar as fontes do Cabeçalho e do Site em **Como fazer**
+- Adicionado Plugin de Alertas Flexíveis (Flexible Alerts Plugin)
+- Atualizado Sample.md com novas opções de formatação dos Alertas Flexíveis
+- Adicionadas instruções para alterar as fontes de Cabeçalho e do Site em **Como Fazer**
 
-### Correções de erros
+### Correções de Bugs
 
 - N/A
 
@@ -35,7 +36,7 @@
 
 - Adicionado passo (8) nas instruções para garantir que o arquivo ".nojekyll" seja criado.
 
-### Correções de erros
+### Correções de Bugs
 
 - N/A
 
@@ -45,9 +46,9 @@
 
 ### Funcionalidades
 
-- Adicionadas "Instruções de como fazer"
+- Adicionadas "Instruções de Como Fazer"
 
-### Correções de erros
+### Correções de Bugs
 
 - N/A
 
@@ -57,10 +58,10 @@
 
 ### Funcionalidades
 
-- Adicionada funcionalidade de alternância entre modo claro/escuro (De )
-- Navegação aprimorada: Menu hambúrguer movido para o canto superior esquerdo da tela (antes no inferior esquerdo)
-- Legibilidade aprimorada: Adicionadas fontes Open Sans e Orbitron
+- Adicionada funcionalidade de alternância entre modo Claro/Escuro
+- Navegação melhorada: Menu hambúrguer movido para o canto superior esquerdo da tela (antes no canto inferior esquerdo)
+- Legibilidade melhorada: Adicionadas fontes Open Sans e Orbitron
 
-### Correções de erros
+### Correções de Bugs
 
 - N/A

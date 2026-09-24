@@ -5,8 +5,8 @@
 
 ### Tính năng
 
-- Thêm plugin fontawesome cho các biểu tượng miễn phí
-- Thêm plugin Material Icons cho các biểu tượng miễn phí
+- Đã thêm plugin fontawesome cho các biểu tượng miễn phí
+- Đã thêm plugin Material Icons cho các biểu tượng miễn phí
 
 ### Sửa lỗi
 
@@ -14,13 +14,14 @@
 
 ---
 
+## V0.2.0
 *23 tháng 10 năm 23*
 
 ### Tính năng
 
-- Thêm Plugin Cảnh Báo Linh Hoạt (Flexible Alerts)
-- Cập nhật Sample.md với các tùy chọn định dạng mới từ Cảnh Báo Linh Hoạt
-- Thêm hướng dẫn thay đổi cả phông chữ Tiêu đề & Trang web trong **Cách thực hiện**
+- Đã thêm Plugin Flexible Alerts
+- Cập nhật Sample.md với các tùy chọn định dạng mới từ Flexible Alerts
+- Đã thêm hướng dẫn thay đổi cả phông chữ Tiêu đề & Trang web trong phần **Hướng Dẫn**
 
 ### Sửa lỗi
 
@@ -33,7 +34,7 @@
 
 ### Tính năng
 
-- Thêm bước (8) trong hướng dẫn để đảm bảo tệp ".nojekyll" được tạo.
+- Đã thêm bước (8) trong hướng dẫn để đảm bảo tệp ".nojekyll" được tạo.
 
 ### Sửa lỗi
 
@@ -45,7 +46,7 @@
 
 ### Tính năng
 
-- Thêm "Hướng dẫn Cách thực hiện"
+- Đã thêm "Hướng dẫn sử dụng"
 
 ### Sửa lỗi
 
@@ -57,9 +58,9 @@
 
 ### Tính năng
 
-- Thêm chức năng chuyển đổi chế độ Sáng/Tối (Từ )
-- Cải thiện Điều hướng: Nút menu (Hamburger) đã được chuyển lên góc trên bên trái màn hình (từ góc dưới bên trái)
-- Cải thiện khả năng đọc: Thêm Phông chữ Open Sans & Orbitron
+- Đã thêm chức năng chuyển đổi chế độ Sáng/Tối
+- Cải thiện Điều hướng: Menu Hamburger được di chuyển lên trên cùng bên trái màn hình (từ dưới cùng bên trái)
+- Cải thiện khả năng đọc: Đã thêm Phông chữ Open Sans & Orbitron
 
 ### Sửa lỗi
 

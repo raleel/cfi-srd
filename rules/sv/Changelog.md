@@ -5,26 +5,27 @@
 
 ### Funktioner
 
-- Lade till fontawesome-plugin för gratisikoner
-- Lade till Material Icons-plugin för gratisikoner
+- Lade till fontawesome-insticksprogram för gratisikoner
+- Lade till Material Icons-insticksprogram för gratisikoner
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
+## V0.2.0
 *23 okt 23*
 
 ### Funktioner
 
-- Lade till Flexible Alerts-plugin
+- Lade till Flexible Alerts-insticksprogram
 - Uppdaterade Sample.md med nya formateringsalternativ från Flexible Alerts
-- Lade till instruktioner för att ändra typsnitt för både rubriker och webbplats i **How To**
+- Lade till instruktioner för att ändra både rubrik- och webbplatstypsnitt i **Hur man gör**
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
@@ -33,11 +34,11 @@
 
 ### Funktioner
 
-- Lade till steg (8) i instruktionerna för att säkerställa att filen ".nojekyll" skapas.
+- Lade till steg (8) i instruktionerna för att säkerställa att ".nojekyll"-filen skapas.
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### Funktioner
 
-- Lade till "How To-instruktioner"
+- Lade till "Hur man gör-instruktioner"
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
@@ -63,4 +64,4 @@
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt

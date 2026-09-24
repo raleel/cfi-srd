@@ -5,8 +5,8 @@
 
 ### Ciri-ciri
 
-- Menambah pemalam fontawesome untuk ikon percuma
-- Menambah pemalam Material Icons untuk ikon percuma
+- Menambahkan pemalam fontawesome untuk ikon percuma
+- Menambahkan pemalam Material Icons untuk ikon percuma
 
 ### Pembaikan Pepijat
 
@@ -14,13 +14,14 @@
 
 ---
 
+## V0.2.0
 *23 Okt 23*
 
 ### Ciri-ciri
 
-- Menambah Pemalam Flexible Alerts
+- Menambahkan Pemalam Flexible Alerts
 - Mengemas kini Sample.md dengan pilihan pemformatan baharu daripada Flexible Alerts
-- Menambah arahan untuk menukar fon Tajuk & Tapak dalam **Cara-cara**
+- Menambahkan arahan untuk menukar kedua-dua font Tajuk & Tapak dalam **Cara**
 
 ### Pembaikan Pepijat
 
@@ -33,7 +34,7 @@
 
 ### Ciri-ciri
 
-- Menambah langkah (8) dalam arahan untuk memastikan fail ".nojekyll" dicipta.
+- Menambahkan langkah (8) dalam arahan untuk memastikan fail ".nojekyll" dicipta.
 
 ### Pembaikan Pepijat
 
@@ -45,7 +46,7 @@
 
 ### Ciri-ciri
 
-- Menambah "Arahan Cara-cara"
+- Menambahkan "Arahan Cara"
 
 ### Pembaikan Pepijat
 
@@ -57,9 +58,9 @@
 
 ### Ciri-ciri
 
-- Menambah kefungsian togol Mod Cerah/Gelap (Dari )
-- Navigasi yang dipertingkat: Menu hamburger dialihkan ke bahagian atas kiri skrin (daripada bahagian bawah kiri)
-- Kebolehbacaan yang dipertingkat: Menambah Fon Open Sans & Orbitron
+- Menambahkan fungsi togol mod Cerah/Gelap
+- Navigasi ditambah baik: Hamburger dialihkan ke bahagian atas kiri skrin (daripada bawah kiri)
+- Kebolehbacaan ditambah baik: Menambahkan Font Open Sans & Orbitron
 
 ### Pembaikan Pepijat
 

@@ -1,43 +1,44 @@
 # Endringslogg
 
 ## V0.3.0
-*26. okt. 23*
+*26. okt 23*
 
 ### Funksjoner
 
-- La til fontawesome-utvidelse for gratis ikoner
-- La til Material Icons-utvidelse for gratis ikoner
+- La til fontawesome-tillegg for gratisikoner
+- La til Material Icons-tillegg for gratisikoner
 
 ### Feilrettinger
 
-- N/A
+- I/T
 
 ---
 
-*23. okt. 23*
+## V0.2.0
+*23. okt 23*
 
 ### Funksjoner
 
-- La til Flexible Alerts-utvidelse
-- Oppdaterte Sample.md med nye formateringsalternativer fra Flexible Alerts
-- La til instruksjoner for endring av både overskrifts- og nettstedsfonter i **Hvordan gjøre det**
+- La til "Flexible Alerts"-tillegg
+- Oppdaterte Sample.md med nye formateringsalternativer fra "Flexible Alerts"
+- La til instruksjoner for endring av både overskrifts- og nettstedskrifttyper i **Hvordan gjøre det**
 
 ### Feilrettinger
 
-- N/A
+- I/T
 
 ---
 
 ## V0.1.2
-*20. okt. 23*
+*20. okt 23*
 
 ### Funksjoner
 
-- La til steg (8) i instruksjonene for å sikre at filen ".nojekyll" blir opprettet.
+- La til trinn (8) i instruksjonene for å sikre at filen ".nojekyll" blir opprettet.
 
 ### Feilrettinger
 
-- N/A
+- I/T
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### Funksjoner
 
-- La til "Instruksjoner for hvordan gjøre det"
+- La til "Hvordan gjøre det-instruksjoner"
 
 ### Feilrettinger
 
-- N/A
+- I/T
 
 ---
 
@@ -57,10 +58,10 @@
 
 ### Funksjoner
 
-- La til funksjonalitet for veksling mellom lys/mørk modus (Fra )
+- La til funksjonalitet for veksling mellom lys/mørk modus
 - Forbedret navigasjon: Hamburgermeny flyttet til øverst til venstre på skjermen (fra nederst til venstre)
-- Forbedret lesbarhet: La til fontene Open Sans & Orbitron
+- Forbedret lesbarhet: La til skrifttypene Open Sans & Orbitron
 
 ### Feilrettinger
 
-- N/A
+- I/T

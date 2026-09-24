@@ -5,26 +5,27 @@
 
 ### Funktsioonid
 
-- Lisatud fontawesome plugin tasuta ikoonide jaoks
-- Lisatud Material Icons plugin tasuta ikoonide jaoks
+- Lisatud fontawesome pistikprogramm tasuta ikoonide jaoks
+- Lisatud Material Icons pistikprogramm tasuta ikoonide jaoks
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
+## V0.2.0
 *23. okt 23*
 
 ### Funktsioonid
 
-- Lisatud Flexible Alerts plugin
+- Lisatud Flexible Alerts pistikprogramm
 - Uuendatud Sample.md uute vormindamisvalikutega Flexible Alertsist
-- Lisatud juhised nii pealkirja kui ka saidi fontide muutmiseks jaotises **Kuidas teha**
+- Lisatud juhised pealkirja ja saidi fontide muutmiseks jaotises **Kuidas teha**
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -33,11 +34,11 @@
 
 ### Funktsioonid
 
-- Lisatud juhistesse samm (8), et tagada ".nojekyll" faili loomine.
+- Lisatud juhiste hulka samm (8), et tagada ".nojekyll" faili loomine.
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -49,7 +50,7 @@
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -57,10 +58,10 @@
 
 ### Funktsioonid
 
-- Lisatud heleda/tumeda režiimi lülitamise funktsionaalsus (allikast )
-- Täiustatud navigeerimine: Hamburger-menüü liigutatud ekraani vasakusse ülanurka (vasakust alanurgast)
-- Täiustatud loetavus: Lisatud Open Sans ja Orbitron fondid
+- Lisatud hele/tume režiimi lüliti funktsionaalsus
+- Parandatud navigeerimine: Hamburger-menüü liigutatud ekraani vasakusse ülanurka (vasakust alanurgast)
+- Parandatud loetavus: Lisatud Open Sans ja Orbitron fondid
 
 ### Veaparandused
 
-- N/A
+- Pole

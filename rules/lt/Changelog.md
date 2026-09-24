@@ -14,13 +14,14 @@
 
 ---
 
+## V0.2.0
 *2023 m. spalio 23 d.*
 
 ### Funkcijos
 
-- Pridėtas „Flexible Alerts“ įskiepis
-- Atnaujintas „Sample.md“ su naujomis formatavimo parinktimis iš „Flexible Alerts“
-- Pridėtos instrukcijos, kaip pakeisti antraščių ir svetainės šriftus skiltyje **Kaip atlikti** (**How To**)
+- Pridėtas lanksčių įspėjimų (Flexible Alerts) įskiepis
+- Atnaujintas „Sample.md“ su naujomis formatavimo parinktimis iš lanksčių įspėjimų
+- „Kaip atlikti“ (How To) dalyje pridėtos instrukcijos, kaip pakeisti antraščių ir svetainės šriftus
 
 ### Klaidų pataisymai
 
@@ -33,7 +34,7 @@
 
 ### Funkcijos
 
-- Pridėtas (8) žingsnis instrukcijose, užtikrinantis, kad būtų sukurtas „.nojekyll“ failas.
+- Instrukcijose pridėtas (8) žingsnis, užtikrinantis, kad būtų sukurtas „.nojekyll“ failas.
 
 ### Klaidų pataisymai
 
@@ -45,7 +46,7 @@
 
 ### Funkcijos
 
-- Pridėtos „Kaip atlikti“ instrukcijos
+- Pridėtos „Kaip atlikti“ (How To) instrukcijos
 
 ### Klaidų pataisymai
 
@@ -57,8 +58,8 @@
 
 ### Funkcijos
 
-- Pridėtas šviesaus/tamsaus režimo perjungimas
-- Patobulinta navigacija: „Hamburger“ meniu perkeltas į viršutinį kairįjį ekrano kampą (iš apatinio kairiojo)
+- Pridėta šviesaus / tamsaus režimo perjungimo funkcija
+- Patobulinta navigacija: „mėsainio“ meniu perkeltas į viršutinį kairįjį ekrano kampą (iš apatinio kairiojo)
 - Patobulintas skaitomumas: pridėti „Open Sans“ ir „Orbitron“ šriftai
 
 ### Klaidų pataisymai

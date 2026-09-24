@@ -5,26 +5,27 @@
 
 ### Eiginleikar
 
-- Bætti við fontawesome viðbót fyrir ókeypis táknmyndir
-- Bætti við Material Icons viðbót fyrir ókeypis táknmyndir
+- Bætti við fontawesome-viðbót fyrir ókeypis táknmyndir
+- Bætti við Material Icons-viðbót fyrir ókeypis táknmyndir
 
-### Lagfæringar
+### Lagfæringar á villum
 
-- Engar
+- Á ekki við
 
 ---
 
+## V0.2.0
 *23. október 23*
 
 ### Eiginleikar
 
-- Bætti við Flexible Alerts viðbót
+- Bætti við Flexible Alerts-viðbót
 - Uppfærði Sample.md með nýjum sniðmöguleikum frá Flexible Alerts
-- Bætti við leiðbeiningum fyrir breytingar á letri fyrir fyrirsagnir og vefsíðu í **Hvernig á að (How To)**
+- Bætti við leiðbeiningum fyrir breytingar á bæði fyrirsagna- og vefletri í **Hvernig á að gera**
 
-### Lagfæringar
+### Lagfæringar á villum
 
-- Engar
+- Á ekki við
 
 ---
 
@@ -35,9 +36,9 @@
 
 - Bætti við skrefi (8) í leiðbeiningum til að tryggja að ".nojekyll" skrá sé búin til.
 
-### Lagfæringar
+### Lagfæringar á villum
 
-- Engar
+- Á ekki við
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### Eiginleikar
 
-- Bætti við "Leiðbeiningum (How To instructions)"
+- Bætti við "Hvernig á að gera" leiðbeiningum
 
-### Lagfæringar
+### Lagfæringar á villum
 
-- Engar
+- Á ekki við
 
 ---
 
@@ -57,10 +58,10 @@
 
 ### Eiginleikar
 
-- Bætti við virkni fyrir ljósan/dökkan ham (frá )
-- Bætt leiðsögn: Hamborgaravalmynd færð efst til vinstri á skjá (úr neðra vinstra horni)
+- Bætti við virkni til að skipta á milli ljóss/dökks ham
+- Bætt leiðsögn: Hamborgaravalmynd færð efst til vinstri á skjá (úr neðri vinstra horni)
 - Bætt læsileiki: Bætti við Open Sans og Orbitron leturgerðum
 
-### Lagfæringar
+### Lagfæringar á villum
 
-- Engar
+- Á ekki við
