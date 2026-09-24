@@ -2,9 +2,9 @@
 
 Šiame priede pateikiamas nedidelis monstrų ir lobių pavyzdžių rinkinys sutrumpintu formatu.
 
-## Pastabos apie monstro rangą
+## Pastabos dėl monstro rango
 
-Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą, bet **nėra** jam lygus. Keturi 1 rango padarai būtų iššūkis keturiems 1 rango veikėjams. Tai nereiškia, kad tai bus lygi kova, tik tai, kad tai turėtų būti iššūkis. Pavyzdžiui, šešių 1 rango veikėjų grupei šeši 1 rango monstrai turėtų būti iššūkis, arba dvylika ½ rango, arba trys 2 rango, arba vienas 6 rango ir t. t. Tai nereiškia, kad jie negalėtų išgyventi mūšyje su 8 rango monstru arba kad jų negalėtų sunaikinti būtybių skaičius, lygus pusei jų rango. Tai tik atsitiktinių kauliukų metimų prigimtis. Tačiau tai suteikia atspirties tašką žaidimų meistrams, besimokantiems šios sistemos. **Gera nykščio taisyklė – rinktis monstrus, kurių rangas yra lygus grupės rangui, plius minus vienas.** Tokiu būdu žaidėjai ne visada susidurs su tuo pačiu orkų, goblinų, ogrų ir t. t. skaičiumi.
+Rangas nurodo apytikslį nagrinėjamo padaro iššūkį ir yra panašus į, bet _nėra_ lygus veikėjo rangui. Keturi 1 rango padarai būtų iššūkis keturiems 1 rango veikėjams. Tai nereiškia, kad tai bus lygi kova, tiesiog tai turėtų būti iššūkis. Pavyzdžiui, šešių 1 rango veikėjų grupei šeši 1 rango monstrai turėtų būti iššūkis, arba dvylika ½ rango, arba trys 2 rango, arba vienas 6 rango ir t. t. Tai nereiškia, kad jie negalėtų išgyventi mūšio prieš 8 rango monstrą arba kad jų negalėtų sunaikinti padarų skaičius, lygus pusei jų rango. Tai tiesiog atsitiktinių kauliukų metimų prigimtis. Tačiau tai suteikia pradinį tašką žaidimų meistrams, besimokantiems sistemos. **Gera nykščio taisyklė – rinktis monstrus, kurių rangas yra lygus grupės rangui plius arba minus vienas**. Tokiu būdu žaidėjai ne visada susidurs su tuo pačiu orkų, goblinų, ogrų ir t. t. skaičiumi.
 
 ---
 ## Monstrų pavyzdžiai
@@ -13,26 +13,26 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 ### Plėšikas (1 rangas)
 
-| Būtybė | Plėšikas (1 rangas) |
+| Padaras | Plėšikas (1 rangas) |
 | :-- | :-- |
-| Charakteristikos | STR 11, CON 11, SIZ 13, DEX 11, INT 13, POW 11, CHA 8 |
+| Charakteristikos | JĖG 11, IŠT 11, DYD 13, VIK 11, INT 13, GAL 11, CHA 8 |
 | Veiksmų taškai | 2 | 
 | Žalos modifikatorius | +1d2 |
 | Iniciatyva | +11 (13) |
-| Judėjimas | 20' |
-| Gebėjimai | Nėra |
-| Pasaulėžiūra | Paprastai blogis 54% |
+| Judėjimas | 20 pėdų |
+| Gebėjimai | Jokių |
+| Pasaulėžiūra | Paprastai blogas 54% |
 | Šarvai | Krūtinė, pilvas ir galūnės 3 (kniedyta oda), galva 8 (plieninis šalmas) |
-| Įgūdžiai | Atletika 52%, Jėga 54%, Kalba (Bendrinė) 64%, Papročiai 46%, Apgaulė 44%, Ištvermė 52%, Vengimas 52%, Įžvalga 54%, Vietovės pažinimas 66%, Suvokimas 44%, Slaptumas 44%, Išgyvenimas 52%, Neginkluota kova 42%, Valia 42% |
-| Kovos įgūdis | 56% - Kovos kirvis, Skydas, Trumpasis lankas |
+| Įgūdžiai | Atletika 52%, Jėga 54%, Kalba (bendrinė) 64%, Papročiai 46%, Apgaulė 44%, Ištvermė 52%, Vengimas 52%, Įžvalga 54%, Vietovė 66%, Suvokimas 44%, Slaptumas 44%, Išgyvenimas 52%, Kova be ginklų 42%, Valia 42% |
+| Kovos įgūdis | 56% – kovos kirvis, taikininis skydas, trumpasis lankas |
   
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Kovos kirvis | M | 1d6+1d2 | 4/8 | Kraujavimas, Skėlimas |
-| Skydas | L | 1d4+1d2 | 4/9 | Taranavimas, Perėmimas, Nuotolinė gynyba, Pasyvus blokavimas (3) |
-| Trumpasis lankas | L | 1d6+1d2 | 4/4 | Perėmimas, Nuotolis 45'/300'/600' |
+| Kovos kirvis | M | 1d6+1d2 | 4/8 | Kraujavimas, skėlimas |
+| Taikininis skydas | L | 1d4+1d2 | 4/9 | Smūgis, persmėjimas, atstumo paradas, pasyvus blokavimas (3) |
+| Trumpasis lankas | L | 1d6+1d2 | 4/4 | Persmėjimas, atstumas 45'/300'/600' |
 
 #### Pataikymo vietos ir šarvai
 
@@ -53,23 +53,23 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 ### Milžiniška žiurkė (½ rango)
 
-| Būtybė | Milžiniška žiurkė (½ rango) |
+| Padaras | Milžiniška žiurkė (½ rango) |
 | :-- | :-- |
-| Charakteristikos | STR 7, CON 11, SIZ 4, DEX 13, INS 13, POW 7 |
+| Charakteristikos | JĖG 7, IŠT 11, DYD 4, VIK 13, INT 13, GAL 7 |
 | Veiksmų taškai | 3 | 
 | Žalos modifikatorius | -1d4 |
 | Iniciatyva | +13 |
-| Judėjimas | 20' |
-| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Šuolininkas](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
-| Pasaulėžiūra | N/A |
-| Šarvai | Nėra |
+| Judėjimas | 20 pėdų |
+| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Šuolininkas](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
+| Pasaulėžiūra | Nėra |
+| Šarvai | Jokių |
 | Įgūdžiai | Atletika 40%, Jėga 22%, Ištvermė 52%, Vengimas 56%, Suvokimas 50%, Slaptumas 56%, Plaukimas 58%, Valia 34% |
-| Kovos įgūdis | 50% - Nagai, Įkandimas |
+| Kovos įgūdis | 50% – nagai, įkandimas |
 
   
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
 | Nagai | T | 1d3-1d4 | Pagal vietą | |
 | Įkandimas | S | 1d6-1d4 | Pagal vietą | |
@@ -93,26 +93,26 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 ### Goblinas (½ rango)
 
-| Būtybė | Goblinas (½ rango) |
+| Padaras | Goblinas (½ rango) |
 | :-- | :-- |
-| Charakteristikos | STR 8, CON 11, SIZ 8, DEX 14, INT 12, POW 11, CHA 7 |
+| Charakteristikos | JĖG 8, IŠT 11, DYD 8, VIK 14, INT 12, GAL 11, CHA 7 |
 | Veiksmų taškai | 3 | 
 | Žalos modifikatorius | -1d2 |
 | Iniciatyva | +11 |
-| Judėjimas | 15' |
-| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Jautrumas šviesai](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Pasaulėžiūra | Blogis 52% |
+| Judėjimas | 15 pėdų |
+| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Jautrumas šviesai](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Pasaulėžiūra | Blogas 52% |
 | Šarvai | Krūtinė, pilvas ir galva 3 (kniedyta oda), galūnės 0 |
-| Įgūdžiai | Atletika 42%, Jėga 36%, Apgaulė 49%, Ištvermė 42%, Vengimas 58%, Kalbos (Gobliniška, Hobgoblinų, Koboldų, Orkiška) 59%, Suvokimas 63%, Jojimas 55%, Slaptumas 56%, Neginkluota kova 42%, Valia 42% |
-| Kovos įgūdis | 52% - Trumpasis kardas, Skydas, Svaidyklė |
+| Įgūdžiai | Atletika 42%, Jėga 36%, Apgaulė 49%, Ištvermė 42%, Vengimas 58%, Kalbos (goblinų, hobgoblinų, koboldų, orkų) 59%, Suvokimas 63%, Jojimas 55%, Slaptumas 56%, Kova be ginklų 42%, Valia 42% |
+| Kovos įgūdis | 52% – trumpasis kalavijas, taikininis skydas, laidynė |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Trumpasis kardas | M | 1d6-1d2 | 6/8 | Kraujavimas, Perėmimas |
-| Skydas | - | 1d4-1d2 | 4/9 | Taranavimas, Perėmimas, Nuotolinė gynyba, Pasyvus blokavimas (3) |
-| Svaidyklė | L | 1d8-1d2 | 1/2 | Taranavimas, Vietos apstulbinimas, Nuotolis 30'/450'/900' |
+| Trumpasis kalavijas | M | 1d6-1d2 | 6/8 | Kraujavimas, persmėjimas |
+| Taikininis skydas | - | 1d4-1d2 | 4/9 | Smūgis, persmėjimas, atstumo paradas, pasyvus blokavimas (3) |
+| Laidynė | L | 1d8-1d2 | 1/2 | Smūgis, vietos apstulbinimas, atstumas 30'/450'/900' |
 
 
 #### Pataikymo vietos ir šarvai
@@ -131,28 +131,28 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 ---
 
-### Kalvų milžinas (5 rangas)
+### Kalnų milžinas (5 rangas)
 
-| Būtybė | Kalvų milžinas (5 rangas) |
+| Padaras | Kalnų milžinas (5 rangas) |
 | :-- | :-- |
-| Charakteristikos | STR 25, CON 25, SIZ 32, DEX 11, INT 10, POW 11, CHA 7 |
+| Charakteristikos | JĖG 25, IŠT 25, DYD 32, VIK 11, INT 10, GAL 11, CHA 7 |
 | Veiksmų taškai | 2 | 
 | Žalos modifikatorius | +1d12 |
 | Iniciatyva | +10 (11) |
-| Judėjimas | 20' |
+| Judėjimas | 20 pėdų |
 | Gebėjimai | [Trypimas](Appendix_A_Monsters_And_Treasures.md?id=trample) |
-| Pasaulėžiūra | Blogis 52%, nekenčia magijos ir burtininkų 57% |
-| Šarvai | Krūtinė ir pilvas 3 (kailiai ir tvirta oda), galva ir galūnės 2 (tvirta oda) |
-| Įgūdžiai | Atletika 66%, Jėga 87%, Ištvermė 80%, Vengimas 42%, Kalba (Milžinų) 47%, Vietovės pažinimas 50%, Suvokimas 51%, Neginkluota kova 66%, Valia 42% |
-| Kovos įgūdis | 76% - Milžiniška kuoka, Svaidomas riedulys (SIZ 8)<br> 66% - Trypimas |
+| Pasaulėžiūra | Blogas 52%, nekenčia magijos ir burtininkų 57% |
+| Šarvai | Krūtinė ir pilvas 3 (kailiai ir kieta oda), galva ir galūnės 2 (kieta oda) |
+| Įgūdžiai | Atletika 66%, Jėga 87%, Ištvermė 80%, Vengimas 42%, Kalba (milžinų) 47%, Vietovė 50%, Suvokimas 51%, Kova be ginklų 66%, Valia 42% |
+| Kovos įgūdis | 76% – milžiniška kuoka, sviestas akmuo (DYD 8)<br> 66% – trypimas |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Milžiniška kuoka | E | 1d12+1d12 | 8/12 | Taranavimas, Vietos apstulbinimas |
-| Svaidomas riedulys | L | 2d6+1d12 | - | Taranavimas, Vietos apstulbinimas, Nuotolis 100' |
-| Trypimas | - | 2d12 | Pagal vietą | Taranavimas, Vietos apstulbinimas |
+| Milžiniška kuoka | E | 1d12+1d12 | 8/12 | Smūgis, vietos apstulbinimas |
+| Sviestas akmuo | L | 2d6+1d12 | – | Smūgis, vietos apstulbinimas, atstumas 100' |
+| Trypimas | – | 2d12 | Pagal vietą | Smūgis, vietos apstulbinimas |
 
 
 #### Pataikymo vietos ir šarvai
@@ -173,26 +173,26 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 ### Koboldas (¼ rango)
 
-| Būtybė | Koboldas (¼ rango) |
+| Padaras | Koboldas (¼ rango) |
 | :-- | :-- |
-| Charakteristikos | STR 6, CON 11, SIZ 5, DEX 13, INT 13, POW 11, CHA 4 |
+| Charakteristikos | JĖG 6, IŠT 11, DYD 5, VIK 13, INT 13, GAL 11, CHA 4 |
 | Veiksmų taškai | 3 | 
 | Žalos modifikatorius | -1d4 |
 | Iniciatyva | +13 (14) |
-| Judėjimas | 15' |
-| Gebėjimai | [Šaltakraujis](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Jautrumas šviesai](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Pasaulėžiūra | Blogis 52%, nekenčia visų 62% |
-| Šarvai | Krūtinė, pilvas ir galva 3 (oda ir žvynuota danga), galūnės 1 (žvynuota danga) |
-| Įgūdžiai | Atletika 40%, Jėga 31%, Apgaulė 57%, Ištvermė 42%, Vengimas 66%, Kalbos (Koboldų, Gobliniška, Orkiška) 57%, Mechanizmai 66%, Suvokimas 64%, Slaptumas 66%, Neginkluota kova 39%, Valia 42% |
-| Kovos įgūdis | 49% - Trumpasis kardas, Skydas, Ietis |
+| Judėjimas | 15 pėdų |
+| Gebėjimai | [Šaltakraujiškumas](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Jautrumas šviesai](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Pasaulėžiūra | Blogas 52%, nekenčia visų 62% |
+| Šarvai | Krūtinė, pilvas ir galva 3 (oda ir žvynuotas kailis), galūnės 1 (žvynuotas kailis) |
+| Įgūdžiai | Atletika 40%, Jėga 31%, Apgaulė 57%, Ištvermė 42%, Vengimas 66%, Kalbos (koboldų, goblinų ir orkų) 57%, Mechanizmai 66%, Suvokimas 64%, Slaptumas 66%, Kova be ginklų 39%, Valia 42% |
+| Kovos įgūdis | 49% – trumpasis kalavijas, taikininis skydas, ietis |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Trumpasis kardas | S | 1d6-1d4 | 6/8 | Kraujavimas, Perėmimas |
-| Skydas | M | 1d4-1d4 | 4/9 | Taranavimas, Perėmimas, Nuotolinė gynyba, Pasyvus blokavimas (3) |
-| Ietis | S | 1d8+1-1d4 | 4/5 | Perėmimas, Nuotolis 30'/60'/150' |
+| Trumpasis kalavijas | S | 1d6-1d4 | 6/8 | Kraujavimas, persmėjimas |
+| Taikininis skydas | M | 1d4-1d4 | 4/9 | Smūgis, persmėjimas, atstumo paradas, pasyvus blokavimas (3) |
+| Ietis | S | 1d8+1-1d4 | 4/5 | Persmėjimas, atstumas 30'/60'/150' |
 
 
 #### Pataikymo vietos ir šarvai
@@ -215,26 +215,26 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 [MEG įrašas](https://mythras.skoll.xyz/enemy_template/11848/)
 
-| Būtybė | Orkas (1 rangas) |
+| Padaras | Orkas (1 rangas) |
 | :-- | :-- |
-| Charakteristikos | STR 14, CON 13, SIZ 14, DEX 11, INT 11, POW 11, CHA 7 |
+| Charakteristikos | JĖG 14, IŠT 13, DYD 14, VIK 11, INT 11, GAL 11, CHA 7 |
 | Veiksmų taškai | 2 | 
 | Žalos modifikatorius | +1d2 |
 | Iniciatyva | +10 (14) |
-| Judėjimas | 20' |
-| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Jautrumas šviesai](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Pasaulėžiūra | Blogis 52%, nekenčia elfų ir nykštukų 57% |
+| Judėjimas | 20 pėdų |
+| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Jautrumas šviesai](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Pasaulėžiūra | Blogas 52%, nekenčia elfų ir nykštukų 57% |
 | Šarvai | Krūtinė ir pilvas 5 (grandiniai šarvai), galva 8 (plieninis šalmas), rankos 0, kojos 3 (kniedyta oda) |
-| Įgūdžiai | Atletika 55%, Jėga 48%, Apgaulė 48%, Ištvermė 56%, Vengimas 52%, Kalbos (Orkiška ir Bendrinė, kai kurie moka gobliniškai, hobgoblinų ir ogrų kalbas) 58%, Suvokimas 52%, Neginkluota kova 55%, Valia 52% |
-| Kovos įgūdis | 55% - Kovos kirvis, Skydas, Ilgasis lankas |
+| Įgūdžiai | Atletika 55%, Jėga 48%, Apgaulė 48%, Ištvermė 56%, Vengimas 52%, Kalbos (orkų ir bendrinė, kai kurie moka goblinų, hobgoblinų ir ogrų) 58%, Suvokimas 52%, Kova be ginklų 55%, Valia 52% |
+| Kovos įgūdis | 55% – kovos kirvis, taikininis skydas, ilgasis lankas |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Kovos kirvis | M | 1d6+1+1d2 | 4/8 | Kraujavimas, Skėlimas |
-| Skydas | L | 1d4+1d2 | 4/9 | Taranavimas, Perėmimas, Nuotolinė gynyba, Pasyvus blokavimas (3) |
-| Ilgasis lankas | L | 1d8+1d2 | 4/7 | Perėmimas, Nuotolis 45'/375'/750' |
+| Kovos kirvis | M | 1d6+1+1d2 | 4/8 | Kraujavimas, skėlimas |
+| Taikininis skydas | L | 1d4+1d2 | 4/9 | Smūgis, persmėjimas, atstumo paradas, pasyvus blokavimas (3) |
+| Ilgasis lankas | L | 1d8+1d2 | 4/7 | Persmėjimas, atstumas 45'/375'/750' |
 
 
 #### Pataikymo vietos ir šarvai
@@ -258,25 +258,25 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 [MEG įrašas](https://mythras.skoll.xyz/enemy_template/11837/)
 
-| Būtybė | Ogras (3 rangas) |
+| Padaras | Ogras (3 rangas) |
 | :-- | :-- |
-| Charakteristikos | STR 20, CON 18, SIZ 28, DEX 11, INT 10, POW 11, CHA 7 |
+| Charakteristikos | JĖG 20, IŠT 18, DYD 28, VIK 11, INT 10, GAL 11, CHA 7 |
 | Veiksmų taškai | 2 | 
 | Žalos modifikatorius | +1d10 |
 | Iniciatyva | +11 |
-| Judėjimas | 15' |
+| Judėjimas | 15 pėdų |
 | Gebėjimai | [Trypimas](Appendix_A_Monsters_And_Treasures.md?id=trample) |
-| Pasaulėžiūra | Blogis 71%, blogų manierų ir greitai įsiplieskia 48% |
-| Šarvai | Krūtinė ir pilvas 3 (kailių ir odos skiautės ant tvirtos odos), galva ir galūnės 2 (tvirta oda) |
-| Įgūdžiai | Atletika 61%, Jėga 88%, Ištvermė 76%, Vengimas 52%, Kalba (Ogrų) 57%, Vietovės pažinimas 40%, Suvokimas 41%, Išgyvenimas 59%, Pėdsekystė 58%, Neginkluota kova 61%, Valia 42% |
-| Kovos įgūdis | 71% - Ogrų kuoka<br> 61% - Trypimas |
+| Pasaulėžiūra | Blogas 71%, blogų manierų ir greitai įsiplieskiantis 48% |
+| Šarvai | Krūtinė ir pilvas 3 (kailio ir odos skiautės ant kietos odos), galva ir galūnės 2 (kieta oda) |
+| Įgūdžiai | Atletika 61%, Jėga 88%, Ištvermė 76%, Vengimas 52%, Kalba (ogrų) 57%, Vietovė 40%, Suvokimas 41%, Išgyvenimas 59%, Pėdsakų sekimas 58%, Kova be ginklų 61%, Valia 42% |
+| Kovos įgūdis | 71% – ogro kuoka<br> 61% – trypimas |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Ogrų kuoka | L | 1d10+1d10 | 8/12 | Taranavimas, Vietos apstulbinimas |
-| Trypimas | - | 2d10 | - | Taranavimas, Vietos apstulbinimas |
+| Ogro kuoka | L | 1d10+1d10 | 8/12 | Smūgis, vietos apstulbinimas |
+| Trypimas | – | 2d10 | – | Smūgis, vietos apstulbinimas |
 
 #### Pataikymo vietos ir šarvai
 
@@ -299,30 +299,30 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 [MEG įrašas](https://mythras.skoll.xyz/enemy_template/11849/)
 
-| Būtybė | Raudonasis drakonas, jaunuolis (10 rangas) |
+| Padaras | Raudonasis drakonas, jaunuolis (10 rangas) |
 | :-- | :-- |
-| Charakteristikos | STR 22, CON 31, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Charakteristikos | JĖG 22, IŠT 31, DYD 28, VIK 16, INT 9, GAL 11, CHA 4 |
 | Veiksmų taškai | 4 | 
 | Žalos modifikatorius | +1d10 |
 | Iniciatyva | +16 |
 | Magijos taškai | 19 |
-| Judėjimas | 15', 50' (skrydis) |
-| Gebėjimai | [Ugnies kvėpavimas](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Imunitetas (Ugnis)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trypimas](Appendix_A_Monsters_And_Treasures.md?id=trample); [Sparnų smūgis](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet) |
-| Pasaulėžiūra | Blogis 95%, greitai įsiplieskia, įtarus ir nekenčia sidabrinių drakonų 88% |
+| Judėjimas | 15 pėdų, 50 pėdų (skrydis) |
+| Gebėjimai | [Ugnies kvėpavimas](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Imunitetas (ugnis)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trypimas](Appendix_A_Monsters_And_Treasures.md?id=trample); [Sparnų smūgis](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet), |
+| Pasaulėžiūra | Blogas 95%, greitai įsiplieskiantis, įtarus ir nekenčiantis sidabrinių drakonų 88% |
 | Šarvai | 8 (stori žvynai) |
-| Įgūdžiai | Arkanos žinios 92%, Atletika 77%, Jėga 120%, Apgaulė 95%, Ištvermė 92%, Vengimas 52%, Skrydis 87%, Įtaka 78%, Įžvalga 95%, Kalba (Chromatinių drakonų) 95%, Vietovės pažinimas 92%, Lore (Drakonai) 92%, Suvokimas 98%, Mokymas 95%, Valia 78%, Kalba (75% tikimybė gebėti kalbėti) |
-| Kovos įgūdis | 100% - Ugnies kūgis<br> 87% - Nagai, Uodega, Dantys, Sparnų smūgis <br> 77% - Trypimas |
+| Įgūdžiai | Slaptas žinojimas 92%, Atletika 77%, Jėga 120%, Apgaulė 95%, Ištvermė 92%, Vengimas 52%, Skrydis 87%, Įtaka 78%, Įžvalga 95%, Kalba (chromatinio drakono) 95%, Vietovė 92%, Žinios (drakonų) 92%, Suvokimas 98%, Mokymas 95%, Valia 78%, Kalba (75% tikimybė turėti gebėjimą kalbėti) |
+| Kovos įgūdis | 100% – ugnies kūgis<br> 87% – nagai, uodega, dantys, sparnų smūgis<br> 77% – trypimas |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
 | Nagai | E | 1d10+1d10 | 8/12 | Kraujavimas |
-| Uodega | E | 1d10+1d10 | 8/12 | Taranavimas |
-| Dantys | L | 1d10+1d10 | 8/12 | Painiojimas |
-| Trypimas | - | 2d10 | - | Taranavimas, Vietos apstulbinimas |
-| Sparnų smūgis | E | 1d10 | 8/12 | Taranavimas, Nuotolis 10' abiejose pusėse |
-| Ugnies kūgis | - | 4d6 | - | Nuotolis 125' |
+| Uodega | E | 1d10+1d10 | 8/12 | Smūgis |
+| Dantys | L | 1d10+1d10 | 8/12 | Įpainiojimas |
+| Trypimas | – | 2d10 | – | Smūgis, vietos apstulbinimas |
+| Sparnų smūgis | E | 1d10 | 8/12 | Smūgis, atstumas 10' abiejose pusėse |
+| Ugnies kūgis | – | 4d6 | – | Atstumas 125' |
 
 #### Pataikymo vietos ir šarvai
 
@@ -348,26 +348,26 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 [MEG įrašas](https://mythras.skoll.xyz/enemy_template/11834/)
 
-| Būtybė | Skeletas (½ rango) |
+| Padaras | Skeletas (½ rango) |
 | :-- | :-- |
-| Charakteristikos | STR 10, CON 10, SIZ 13, DEX 14, INS 8, POW 6 |
+| Charakteristikos | JĖG 10, IŠT 10, DYD 13, VIK 14, INT 8, GAL 6 |
 | Veiksmų taškai | 2 | 
 | Žalos modifikatorius | +1d2 |
 | Iniciatyva | +9 (11) |
-| Judėjimas | 20' |
-| Gebėjimai | [Imunitetas (Baimė, Miegas ir Kerai)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Negyvėlis (Intensyvumas vs. Atsivėrimas: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
-| Pasaulėžiūra | N/A |
+| Judėjimas | 20 pėdų |
+| Gebėjimai | [Imunitetas (baimė, miegas ir kerėjimas)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Nemirėlis (intensyvumas prieš varymą: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
+| Pasaulėžiūra | Nėra |
 | Šarvai | Krūtinė ir pilvas 5 (grandiniai šarvai), galva ir galūnės 0 |
-| Įgūdžiai | Atletika 54%, Jėga 53%, Ištvermė 50%, Vengimas 68%, Suvokimas 44%, Neginkluota kova 54%, Valia 42% |
-| Kovos įgūdis | 54% - Kovos kirvis, Apvalus skydas, Ilgasis lankas |
+| Įgūdžiai | Atletika 54%, Jėga 53%, Ištvermė 50%, Vengimas 68%, Suvokimas 44%, Kova be ginklų 54%, Valia 42% |
+| Kovos įgūdis | 54% – kovos kirvis, apvalus skydas, ilgasis lankas |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Kovos kirvis | M | 1d6+1+1d2 | 4/8 | Kraujavimas, Skėlimas |
-| Apvalus skydas | L | 1d4+1d2 | 4/9 | Taranavimas, Nuotolinė gynyba, Pasyvus blokavimas (3) |
-| Ilgasis lankas | L | 1d8+1d2 | 4/7 | Perėmimas, Nuotolis 45'/375'/750' |
+| Kovos kirvis | M | 1d6+1+1d2 | 4/8 | Kraujavimas, skėlimas |
+| Apvalus skydas | L | 1d4+1d2 | 4/9 | Smūgis, atstumo paradas, pasyvus blokavimas (3) |
+| Ilgasis lankas | L | 1d8+1d2 | 4/7 | Persmėjimas, atstumas 45'/375'/750' |
 
 #### Pataikymo vietos ir šarvai
 
@@ -390,22 +390,22 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 [MEG įrašas](https://mythras.skoll.xyz/enemy_template/11836/)
 
-| Būtybė | Trolis (4 rangas) |
+| Padaras | Trolis (4 rangas) |
 | :-- | :-- |
-| Charakteristikos | STR 22, CON 25, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Charakteristikos | JĖG 22, IŠT 25, DYD 28, VIK 16, INT 9, GAL 11, CHA 4 |
 | Veiksmų taškai | 3 | 
 | Žalos modifikatorius | +1d10 |
 | Iniciatyva | +13 |
-| Judėjimas | 20' |
-| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneracija (1 HP/raundas)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Gąsdinantis](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
-| Pasaulėžiūra | Blogis 52%, nekenčia gerų milžinų 57% |
-| Šarvai | 3 (tora, guminė oda) |
-| Įgūdžiai | Atletika 68%, Jėga 90%, Ištvermė 90%, Vengimas 62%, Kalbos (Trolių) 53%, Vietovės pažinimas 48%, Suvokimas 60% (regėjimas ir uoslė), Išgyvenimas 66%, Pėdsekystė 64%, Valia 52% |
-| Kovos įgūdis | 78% - Įkandimas, Nagai |
+| Judėjimas | 20 pėdų |
+| Gebėjimai | [Tamsos rega](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Regeneracija (1 HP per raundą)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Gąsdinantis](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
+| Pasaulėžiūra | Blogas 52%, nekenčia gerųjų milžinų 57% |
+| Šarvai | 3 (stora, gumuota oda) |
+| Įgūdžiai | Atletika 68%, Jėga 90%, Ištvermė 90%, Vengimas 62%, Kalbos (trolių) 53%, Vietovė 48%, Suvokimas 60% (regėjimas ir uoslė), Išgyvenimas 66%, Pėdsakų sekimas 64%, Valia 52% |
+| Kovos įgūdis | 78% – įkandimas, nagai |
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
 | Nagai | L | 1d8+1d10 | Pagal vietą | Kraujavimas |
 | Dantys | L | 1d6+1d10 | Pagal vietą | |
@@ -432,27 +432,27 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 [MEG įrašas](https://mythras.skoll.xyz/enemy_template/11835/)
 
-| Būtybė | Zombis (½ rango) |
+| Padaras | Zombis (½ rango) |
 | :-- | :-- |
-| Charakteristikos | STR 14, CON 14, SIZ 13, DEX 9, INS 8, POW 6 |
+| Charakteristikos | JĖG 14, IŠT 14, DYD 13, VIK 9, INT 8, GAL 6 |
 | Veiksmų taškai | 2 | 
 | Žalos modifikatorius | +1d2 |
 | Iniciatyva | +7 (9) |
 | Magijos taškai | 6 |
-| Judėjimas | 15' |
-| Gebėjimai | [Imunitetas (Baimė, Miegas ir Kerai)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Negyvėlis (Intensyvumas vs. Atsivėrimas: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
+| Judėjimas | 15 pėdų |
+| Gebėjimai | [Imunitetas (baimė, miegas ir kerėjimas)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Nemirėlis (intensyvumas prieš varymą: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
 | Pasaulėžiūra | Nėra |
 | Šarvai | Krūtinė ir pilvas 5 (grandiniai šarvai), galva ir galūnės 0 |
-| Įgūdžiai | Atletika 53%, Jėga 57%, Ištvermė 58%, Vengimas 48%, Suvokimas 44%, Neginkluota kova 53%, Valia 42% |
-| Kovos įgūdis | 53% - Kumščiai, Kuoka |
+| Įgūdžiai | Atletika 53%, Jėga 57%, Ištvermė 58%, Vengimas 48%, Suvokimas 44%, Kova be ginklų 53%, Valia 42% |
+| Kovos įgūdis | 53% – kumščiai, kuoka |
 
 
-#### Ginklų informacija
+#### Ginklo detalės
 
-| Ginklas | Dydis | Žala | AP/HP | Specialus |
+| Ginklas | Dydis | Žala | AP/HP | Specialusis |
 | :-- | :-: | :--: | :--: | :-- |
-| Kumščiai | S | 1d3+1d2 | Pagal vietą | Įsiutimas |
-| Kuoka | M | 1d6+1d2 | 4/5 | Taranavimas, Vietos apstulbinimas |
+| Kumščiai | S | 1d3+1d2 | Pagal vietą | Sukimasis |
+| Kuoka | M | 1d6+1d2 | 4/5 | Smūgis, vietos apstulbinimas |
 
 #### Pataikymo vietos ir šarvai
 
@@ -469,180 +469,233 @@ Rangas nurodo apytikslį būtybės iššūkį ir yra panašus į veikėjo rangą
 
 ---
 
-## Būtybių gebėjimai
+## Padaro gebėjimai
 
-Būtybės gebėjimas yra tai, ką ji gali daryti natūraliai dėl savo fiziologijos, biologijos, įgimtos magijos ir t. t. Paukščiai, pavyzdžiui, gali plasnoti ore, todėl Skraidymas yra gebėjimas.
+Padaro gebėjimas – tai kažkas, ką jis gali daryti natūraliai dėl savo fiziologijos, biologijos, įgimtos magijos ir t. t. Pavyzdžiui, paukščiai gali plasnoti ore, todėl skraidymas yra gebėjimas.
 
-Kiekvienas iš šių gebėjimų aprašomas atsižvelgiant į jo poveikį žaidimui ir tai, kaip jis gali paveikti sąveiką su kitais. Ne visi šie gebėjimai matomi pateiktuose pavyzdžiuose, tačiau jie rodo, kaip atrodytų kasdieniški padarai gali virsti kažkuo unikaliu, sudėtingu ar net gąsdinančiu. Nykščio taisyklė – padarai turėtų turėti iki trijų gebėjimų, kurie tinka jų prigimčiai ir aplinkai. Demoniškas voras, pavyzdžiui, gali turėti Kibumą, Demoniškumą, Griebimą ir Vampyrizmą.
+Kiekvienas iš toliau nurodytų gebėjimų aprašytas pagal jo žaidimo efektus ir tai, kaip jis gali paveikti sąveiką su kitais. Ne visi šie gebėjimai matomi pateiktuose monstrų pavyzdžiuose, tačiau jie rodo, kaip iš pažiūros kasdieniai padarai gali būti paversti kažkuo unikaliu, sudėtingu ar net gąsdinančiu. Nykščio taisyklė – padarai turėtų turėti iki trijų gebėjimų, kurie tinka jų prigimčiai ir aplinkai. Pavyzdžiui, demoniškas voras gali turėti „Sukibimą“, „Demoną“, „Imtynininką“ ir „Vampyrinį“ gebėjimą.
 
-#### Kibumas (Adhering)
-Padaras gali laisvai judėti vertikaliais paviršiais ir net aukštyn kojomis lubomis be jokios specialios įrangos. Toks judėjimas visada vyksta puse padaro įprasto judėjimo greičio.
+#### Sukibimas
 
-#### Vandens gyvis (Aquatic)
-Padaras kvėpuoja vandeniu, o ne oru, dažniausiai turi žiaunas arba odą, gebančią sugerti ištirpusį orą. Ištraukti iš vandens ir leidus jų kvėpavimo organams išdžiūti, jie pradeda dusti po CON minučių, jei išlieka pasyvūs, arba perpus mažiau, jei juda ar kovoja.
+Padaras gali laisvai judėti vertikaliais paviršiais ir netgi judėti aukštyn kojomis lubomis be jokios specialios įrangos. Toks judėjimas visada vyksta puse įprasto padaro judėjimo greičio.
 
-#### Kraujo jutimas (Blood Sense)
-Leidžia padarui aptikti kraują dideliais atstumais, nešamą vėjo ar vandens. Kraujo pėdsakai gali būti jaučiami per pusę jų INS mylių atstumu.
+#### Vandeninis
 
-#### Ugnies kvėpavimas (Breathe Flame)
-Padaras kvėpuoja ugnimi į tam tikrą plotą kaip kovos veiksmą. Ugnis dengia kūgį priešais padarą, kurio ilgis CON x 5 pėdos. Didžiausiu atstumu kūgio plotis yra lygus jo ilgiui. Bet koks padaras, patekęs į ugnį, patiria ugnies žalą visoms pataikymo vietoms, nors veikėjas gali bandyti Vengti, kad perpus sumažintų šią žalą. Šarvų taškai skaičiuojami įprastai, nebent nurodyta kitaip.
+Padaras kvėpuoja vandeniu, o ne oru, dažniausiai turėdamas žiaunas arba odą, gebančią tiesiogiai absorbuoti ištirpusį orą. Jei ištraukiamas iš vandens ir jo kvėpavimo organams leidžiama išdžiūti, jis pradeda dusti po minučių skaičiaus, lygaus jo IŠT, jei išlieka pasyvus, arba per pusę tiek laiko, jei juda ar kovoja.
 
-Padaras gali kvėpuoti ugnimi tik kartą per nurodytą laikotarpį (dažniausiai kartą per valandą ar per dieną). Tolesni bandymai kvėpuoti ugnimi per šį laiką reikalauja, kad padaras sėkmingai atliktų ištvermės metimus, kiekvieną metimą atliekant sunkiau, arba patirtų nuovargio lygį.
+#### Kraujo pajautimas
 
-#### Kasikas (Burrower)
-Padaras yra įgudęs tuneliuoti per žemę savo įprastu judėjimo greičiu. Kai kurie padarai yra apriboti žemės rūšies, per kurią gali judėti, o tai pažymėta padaro aprašyme.
+Leidžia padarui aptikti kraują dideliais atstumais, pernešamą vėjo ar vandens. Kraujo pėdsakai gali būti jaučiami atstumu, lygiu pusei jo INT myliomis.
 
-#### Kamufliažas (Camouflaged)
-Padaras yra įgudęs slėptis dėl savo spalvos ar neįprastos paviršiaus tekstūros. Bandantys pastebėti padarą patiria dviejų sudėtingumo laipsnių baudą Suvokimui.
+#### Ugnies kvėpavimas
 
-#### Charakteristikų drenažas (Characteristic Drain)
-Padaras turi įgimtą gebėjimą nusausinti laikinus charakteristikos taškus iš savo atakų taikinio. Atakos tipas, paveikta charakteristika ir būdas pasipriešinti drenažo poveikiui yra nurodyti padaro aprašyme.
+Padaras kvėpuoja ugnimi į zoną kaip kovos veiksmą. Ugnis padengia kūgį priešais padarą, kuris tęsiasi iki jo IŠT x 5 pėdų. Didžiausiame nuotolyje kūgio plotis lygus jo ilgiui. Bet koks į ugnį patekęs padaras patiria ugnies žalą visoms pataikymo vietoms, nors veikėjas gali bandyti vengti, kad sumažintų šią žalą perpus. Šarvų taškai skaičiuojami įprastai, nebent nurodyta kitaip.
 
-#### Šaltakraujis (Cold-Blooded)
-Padarui nereikia dažnai valgyti. Vienas valgis per savaitę yra pakankamas, kad jis išliktų sveikas, o prisivalgymas dideliu kiekiu mėsos pašalins poreikį valgyti mėnesį. Priešingai, esant žemesnei nei 60 laipsnių pagal Farenheitą temperatūrai, jo refleksai tampa prislopinti, patiriant -6 baudą Iniciatyvai ir prarandant vieną kovos veiksmą per raundą. Žemiau 40 laipsnių pagal Farenheitą šaltakraujai padarai tampa visiškai vangūs, patekdamas į bejėgę katatoninę būseną.
+Padaras gali kvėpuoti ugnimi tik per nustatytą laikotarpį (paprastai kartą per valandą arba kartą per dieną). Tolimesniems bandymams kvėpuoti ugnimi per šį laikotarpį padaras turi išlaikyti ištvermės metimus, kiekvieną metimą darant viena pakopa sunkesniu, arba patirti nuovargio lygį.
 
-#### Tamsos rega (Dark Vision)
-Leidžia padarui matyti įprastai esant visiškai tamsai.
+#### Kasikas
 
-#### Mirties jutimas (Death Sense)
-Suderintas su mirties galiomis, padaras gali jausti gyvų būtybių mirtį ir negyvą kūną iki pusės savo INT ar INS mylių atstumu.
+Padaras yra įgudęs raustis per žemę savo įprastu judėjimo greičiu. Kai kurie padarai yra ribojami pagal žemės tipą, per kurį gali judėti, tai pažymėta padaro aprašyme.
 
-#### Imunitetas ligoms (Disease Immunity)
-Padaras yra atsparus visoms ligoms. Visi padarai be SIZ automatiškai turi šį gebėjimą, nors jis nėra specialiai nurodytas jų aprašymuose.
+#### Maskuojamasis
 
-#### Nardymo smūgis (Diving Strike)
-Kai kurie padarai gali kristi iš dangaus arba skrieti per vandenis, kad užpultų savo grobį, smogdami neįtikėtina jėga. Tai efektyviai yra puolimas tiems padarams, kurie nėra sausumos. Nardymo smūgis padidina tiek atakos dydį, tiek padaro žalos modifikatorių vienu žingsniu tik šiai atakai. Nardymo smūgis gali būti naudojamas tik kartą per raundą. Padaras turi būti bent vieną visą judėjimo raundą virš savo taikinio (arba galbūt žemiau, jei paniręs), kad galėtų panaudoti nardymo smūgį.
+Padaras yra įgudęs slėptis dėl savo spalvos ar neįprastos paviršiaus tekstūros. Bandantiems pastebėti tokį padarą taikoma dviejų sudėtingumo pakopų bauda suvokimo įgūdžiui.
+
+#### Charakteristikos drenavimas
+
+Padaras turi įgimtą gebėjimą drenuoti laikinus charakteristikos taškus iš savo atakų taikinio. Atakos tipas, paveikta charakteristika ir būdas pasipriešinti drenavimo efektui išsamiai aprašyti padaro aprašyme.
+
+#### Šaltakraujiškumas
+
+Padarui nereikia dažnai valgyti. Vienas valgymas per savaitę yra pakankamas, kad jis išliktų sveikas ir sotus, o pasisotinimas dideliu mėsos kiekiu panaikins poreikį valgyti visą mėnesį. Priešingai, kai temperatūra nukrenta žemiau 60 laipsnių pagal Farenheitą, jo refleksai tampa prislopinti, patiriant -6 baudą iniciatyvai ir prarandant vieną kovos veiksmą per raundą. Žemiau 40 laipsnių pagal Farenheitą šaltakraujai padarai tampa visiškai vangūs, įkrenta į bejėgę katatoninę būseną.
+
+#### Tamsos rega
+
+Leidžia padarui matyti įprastai esant visiškam šviesos nebuvimui.
+
+#### Mirties pajautimas
+
+Būdamas suderintas su mirties galiomis, padaras gali jausti gyvų būtybių mirtį ir negyvą kūną atstumu iki pusės jo INT arba INT myliomis.
+
+#### Imunitetas ligoms
+
+Padaras yra atsparus visoms ligoms. Visi padarai be DYD automatiškai turi šį gebėjimą, nors jis specialiai nenurodytas jų aprašymuose.#### Nardantis (Diving Strike)
+
+Kai kurie padarai gali nerti iš dangaus arba veržtis per vandenį, kad užpultų savo grobį, smūgiuodami neįtikėtina jėga. Tai iš esmės yra puolimas (charging) padarams, kurie nėra sausumos gyventojai. Nardantis smūgis padidina tiek atakos DYD, tiek padaro žalos modifikatorių vienu laipsniu, bet tik šiai atakai. Nardantį smūgį galima naudoti tik vieną kartą per raundą. Kad galėtų atlikti nardantį smūgį, padaras turi būti bent vieno pilno judėjimo atstumu virš savo taikinio (arba, jei po vandeniu, galbūt žemiau jo).
 
 #### Žemės jutimas (Earth Sense)
-Kai kurie padarai yra taip suderinti su požeminiu pasauliu, kad gali puikiai veikti visiškoje gylumos tamsoje. Jausdami vibraciją ir oro slėgį, padaras su Žemės jutimu gali kovoti ir atlikti suvokimo metimus be baudų, kol taikinys yra ne toliau kaip INS x 5 pėdos. Jei Žemės jutimas naudojamas virš žemės, nuotolis sumažėja perpus.
 
-#### Echolokacija (Echolocation)
-Padaras jaučia savo aplinką per garso bangų atspindžius. Tai reiškia, kad jis gali suvokti kitus, kurie gali būti nejudantys arba pasislėpę. Tokiomis aplinkybėmis, naudojant Slaptumo metimą bandant išlikti nepastebėtam, yra dviem laipsniais sunkiau.
+Kai kurie padarai yra taip susiderinę su požeminiu pasauliu, kad gali puikiai veikti visiškoje gelmių tamsoje. Pajutę vibraciją ir oro slėgį, padarai, turintys Žemės jutimą, gali kovoti ir atlikti suvokimo (Perception) patikrinimus be jokios baudos, jei jų taikinys yra ne toliau nei INT x5 pėdų atstumu. Naudojant Žemės jutimą virš žemės, šis atstumas sumažinamas perpus.
+
+#### Echolokacija
+
+Padaras jaučia savo aplinką per garso bangų atspindžius. Tai reiškia, kad jis gali suvokti kitus, kurie gali būti nejudantys arba pasislėpę. Tokiomis aplinkybėmis, naudojant slapstymosi (Stealth) patikrinimą bandant išlikti nepastebėtam, užduoties sudėtingumas padidėja dviem laipsniais.
 
 #### Prarijimas (Engulfing)
-Padaras turi angą, kuri gali praryti taikinius sveikus. Maksimalus praryto aukos dydis yra pusė paties padaro SIZ, tačiau tai gali būti mažiau, priklausomai nuo padaro fiziologijos. Prarijus, auka patiria bent vieną žalos metimą, pagrįstą padaro įkandimo ataka, prieš būdama praryta – laikas, praleistas kramtant, priklauso nuo padaro ir to, jautrūs yra jo viduriai. Jei vis dar gyva, praryta auka pradės dusti, tikėtina, mirdama nuo asfiksijos prieš patirdama pastebimą žalą nuo skrandžio rūgšties. Realiai, prarytai aukai trūksta mobilumo judėti virškinamajame trakte arba padaras yra toks didelis, kad jie mirs ilgai prieš galėdami išsipjauti kelią į laisvę.
+
+Padaras turi angą, per kurią gali praryti taikinius nesukramtytus. Didžiausias praryjamos aukos DYD skaičiuojamas kaip pusė paties padaro DYD, tačiau priklausomai nuo padaro fiziologijos, gali būti ir mažesnis. Prarijus auką, ji patiria bent vieną žalos patikrinimą, pagrįstą padaro įkandimo ataka, prieš būdama galutinai praryta – kramtymo laikas priklauso nuo padaro ir to, kokie jautrūs jo viduriai. Jei praryta auka vis dar gyva, ji pradės dusti, tikėtina, mirdama nuo asfiksijos anksčiau nei patirdama pastebimą žalą nuo skrandžio rūgšties. Realistiškai žiūrint, prarytai aukai trūksta judrumo judėti virškinamajame trakte, arba padaras yra toks didelis, kad auka mirs gerokai anksčiau, nei sugebės išsipjauti kelią į laisvę.
 
 #### Skraidymas (Flying)
-Padaras automatiškai sėkmingai juda ir manevruoja skrisdamas ir jam nereikia mesti Skraidymo įgūdžio, nebent bando atlikti neįprastai sunkią užduotį, pavyzdžiui, skristi prieš galingą vėją, išvengti nuotolinės atakos ore arba pergudrauti oro priešininką. Skraidantis padaras gali pakeisti Skraidymo įgūdį (bazinis STR+DEX) Vengimu kovojant ore.
 
-#### Formuojami natūralūs ginklai (Formidable Natural Weapons)
-Šis padaras gali aktyviai atremti ar nukreipti atakas naudodamas savo natūralius ginklus. Tai vyksta dėl kovos stiliaus ir natūralaus ginklavimosi, suformuoto iš atsparių medžiagų, tokių kaip ragas, chitinas ar kaulas, kurie gali atlaikyti žalą nuo pagamintų ginklų. Atkreipkite dėmesį, kad padarai, neturintys šio bruožo, arba pasikliauja savo natūraliais šarvais smūgiams atremti, arba naudoja Vengimą.
+Padaras automatiškai sėkmingai atlieka kasdienius judesius ir manevrus skrisdamas, todėl jam nereikia tikrinti skraidymo (Fly) įgūdžio, nebent bandoma atlikti neįprastai sunkią užduotį, pavyzdžiui, skristi prieš stiprų vėją, išvengti nuotolinės atakos ore arba pergudrauti skraidantį priešą. Skraidantis padaras kovodamas ore gali pakeisti išsisukinėjimo (Evade) veiksmą skraidymo (Fly) įgūdžiu (pagrindas JĖG+VIK).
 
-#### Įsiutimas (Frenzy)
-Kai sužeistas arba veikiamas tam tikros medžiagos – pavyzdžiui, kraujo, – padaras turi sėkmingai atlikti Valios metimą arba patekti į įsiutimą. Įsiutimas trunka tiek raundų, kiek yra padaro CON. Įsiutimo metu jie turi skirti kovos veiksmus tik atakavimui arba judėjimui link kovos. Burtų liejimas, gynimasis, vengimas ir visa kita yra draudžiama; visos mintys apie savisaugą nuplaunamos raudonoje migloje. Mainais padaras nebejaučia skausmo ar nuovargio ir yra atsparus psichinei kontrolei. Šiuo metu jis yra imunitetingas visiems žalingiems rimtų žaizdų poveikiams, nors didelė žaizda vis tiek neįgalins. Jei vis dar gyvas, įsiutimas baigiasi ir padaras automatiškai gauna vieną nuovargio lygį (Išsekęs).
+#### Galingi natūralūs ginklai (Formidable Natural Weapons)
+
+Šis padaras gali aktyviai atremti arba nukreipti atakas naudodamas savo natūralius ginklus. Tai pasiekiama derinant kovos stilių su natūralia ginkluote, pagaminta iš atsparių medžiagų, tokių kaip ragas, chitinas ar kaulas, kurie gali atlaikyti žalą nuo pagamintų ginklų. Atkreipkite dėmesį, kad padarai, neturintys šio bruožo, remiasi arba savo natūraliais šarvais smūgiams atremti, arba naudoja išsisukinėjimą (Evade).
+
+#### Įniršis (Frenzy)
+
+Sužeistas arba veikiamas tam tikros medžiagos – pavyzdžiui, kraujo – padaras privalo sėkmingai atlikti valios (Willpower) patikrinimą arba įpulti į įniršį. Įniršis tęsiasi raundų skaičių, lygų padaro IŠT. Įniršio metu jis privalo skirti kovos veiksmus tik puolimui arba judėjimui link kovos. Burtų liejimas, parry (atmušimas), išsisukinėjimas ir bet kas kita yra draudžiama; visos mintys apie savisaugą išnyksta raudoname miglos lauke. Mainais padaras nebejaučia skausmo ar nuovargio ir yra atsparus psichinei kontrolei. Šiuo metu jis yra imunitetingas visiems neigiamiems sunkių sužalojimų (Serious Wounds) poveikiams, nors didelis sužalojimas (Major Wound) vis tiek padarys jį neveiksnų. Jei padaras vis dar gyvas, įniršiui pasibaigus, jis automatiškai įgauna nuovargio lygį „Išsekęs“ (Exhausted).
 
 #### Žvilgsnio ataka (Gaze Attack)
-Padaras turi žvilgsnio ataką. Ši ataka gali būti aktyvi (padaras turi sąmoningai išleisti veiksmų tašką savo ėjimo metu, kad panaudotų ją prieš priešą) arba pasyvi (kiekvienas, žiūrintis į padarą, yra paveiktas), kaip nurodyta padaro aprašyme.
 
-#### Griebėjas (Grappler)
-Jei padaras sėkmingai smogia kovoje, jis gali iškart Griebti be žalos padarymo. Jei padaro ataka buvo atremta (arba pats padaras atremia), tada padarui suteikiamas Grip efektas prieš priešininko galūnę arba Pin Weapon efektas prieš jo ginklą. Padaras visada naudoja savo Jėgos įgūdį, kad pasipriešintų aukai, bandančiai išsilaisvinti.
+Padaras turi žvilgsnio ataką. Ši ataka gali būti aktyvi (padaras savo ėjimo metu privalo sąmoningai skirti veiksmų tašką, kad panaudotų ją prieš priešą) arba pasyvi (veikiantis kiekvieną, žiūrintį į padarą), kaip nurodyta padaro aprašyme.
 
-#### Kvėpavimo sulaikymas (Hold Breath)
-Padaras gali sulaikyti kvėpavimą ilgą laiką. Jei pasiruošęs ir išlieka gana nejudrus, padaras gali sulaikyti kvėpavimą minučių skaičiumi, lygiu jo CON. Šis laikotarpis perpus sutrumpėja, jei padaras aktyvus, pavyzdžiui, plaukdamas ar kovodamas.
+#### Imtynininkas (Grappler)
+
+Jei padaras sėkmingai suduoda smūgį kovoje, jis gali iškart pereiti į imtynes (Grapple), papildomai prie padarytos žalos. Jei padaro ataka buvo atremta (arba pats padaras atremia), tuomet padaras įgauna griebimo (Grip) efektą prieš oponento galūnę arba ginklo fiksavimo (Pin Weapon) efektą prieš jo ginklą. Padaras visada naudoja savo jėgos (Brawn) įgūdį, kad pasipriešintų aukai, bandančiai išsivaduoti.
+
+#### Sulaikyti kvėpavimą (Hold Breath)
+
+Padaras gali ilgą laiką sulaikyti kvėpavimą. Jei padaras pasirengęs ir išlieka gana ramus, jis gali sulaikyti kvėpavimą minučių skaičių, lygų savo IŠT. Šis laikotarpis sutrumpėja perpus, jei padaras aktyvus, pavyzdžiui, plaukiant ar kovojant.
 
 #### Imunitetas (Immunity)
-Padaras yra visiškai imunitetingas žalai, atsirandančiai iš vieno tipo šaltinio. Šis šaltinis (šaltis, ugnis, geležis ir t. t.) bus nurodytas padaro sąraše, tačiau kai kuriems specifiniams imunitetams gali prireikti naratyvinio aprašymo.
+
+Padaras yra visiškai imunitetingas žalai, kurią sukelia vieno tipo šaltinis. Šis šaltinis (šaltis, ugnis, geležis ir t. t.) bus nurodytas padaro aprašyme, tačiau kai kuriems specifiniams imunitetams gali prireikti naratyvinio aprašymo.
 
 #### Gąsdinimas (Intimidate)
-Padaras gali gąsdinti priešininkus kaip kovos preliudiją arba norėdamas jos išvengti: urzgimas, snargliavimasis, ragų nuleidimas ir t. t. Priešininkai turi atlikti nepasipriešinimo Valios metimą, kad išlaikytų savo poziciją; sėkmė leidžia veikėjui išsilaikyti vietoje, o nesėkmė rodo, kad jie turi praleisti kitą raundą instinktyviai atsitraukdami nuo padaro. Jei jis praleidžia Valios metimą, veikėjas bėga maksimaliu greičiu. Kritinė sėkmė leidžia veikėjui nepaisyti jokių tolesnių gąsdinimo bandymų iš padaro ar jo gentainių per tą susitikimą. Poveikis tęsiasi tol, kol padaras ir toliau elgiasi grėsmingai, įskaitant ataką.
+
+Padaras gali gąsdinti oponentus kaip preliudiją į kovą arba siekdamas jos išvengti: urzgimas, šnypštimas, ragų nuleidimas ir t. t. Oponentai privalo atlikti nepriešinamą valios (Willpower) patikrinimą, kad atsilaikytų; sėkmė leidžia veikėjui išlikti savo vietoje, o nesėkmė reiškia, kad kitą raundą jie privalo instinktyviai didinti atstumą tarp savęs ir padaro. Jei veikėjas suklumpa (fumbles) atlikdamas valios patikrinimą, jis bėga maksimaliu greičiu. Kritinė sėkmė leidžia veikėjui ignoruoti bet kokius tolesnius gąsdinimo bandymus, kuriuos atlieka tas padaras ar jo gentainiai per tą susidūrimą. Efektas tęsiasi tol, kol padaras elgiasi grėsmingai, įskaitant puolimą.
 
 #### Šuolininkas (Leaper)
-Padaras naudoja [Šuolio atakas](0008_Combat.md?id=leaping-attacks), kaip aprašyta [Kovos](0008_Combat.md) skyriuje, bet gali sujungti šuolį su fizine ataka, pavyzdžiui, nagu ar įkandimu. Jei šokinėjantis padaras laimi pasipriešinusį šuolio atakos metimą, jis automatiškai padaro žalą vienu iš savo natūralių ginklų taikiniui. Šios žalos negalima atremti, išskyrus pasyvų blokavimą.
+
+Padaras naudoja [Šuolių atakas](0008_Combat.md?id=leaping-attacks), kaip aprašyta [Kovos](0008_Combat.md) skyriuje, tačiau gali derinti šuolį su fizine ataka, pavyzdžiui, nagais ar įkandimu. Jei šuoliuojantis padaras laimi priešingą šuolio atakos patikrinimą, jis automatiškai padaro žalą vienu iš savo natūralių ginklų taikiniui. Šios žalos negalima atremti, išskyrus pasyvų blokavimą (Passive Blocking).
 
 #### Gyvybės jutimas (Life Sense)
-Suderintas su gamtos ritmais, šis padaras gali nustatyti bet kurios gyvos būtybės gyvybingumą vien tik palietimu. Jei padaras atlieka sėkmingą Suvokimo metimą, jis sužino taikinio esamus sužalojimus, nuovargio lygį ir ar jį šiuo metu kankina koks nors nuodas ar liga. Padaras taip pat žino apie bet kokią gyvybės formą pėdų atstumu, lygiu trims jo Valios įgūdžio rodikliams, o tai gali apsunkinti Slaptumą.
+
+Derėdamas su gamtos ritmais, šis padaras gali nustatyti bet kurio gyvo padaro gyvybingumą vien tik prisilietimu. Jei padaras sėkmingai atlieka suvokimo (Perception) patikrinimą, jis sužino apie taikinio esamus sužalojimus, nuovargio lygį ir ar jis šiuo metu yra apsinuodijęs arba serga. Padaras taip pat jaučia bet kokią gyvybės formą atstumu, lygiu tris kartus didesniam už jo valios (Willpower) įgūdžio vertę, o tai gali apsunkinti slapstymąsi (Stealth).
 
 #### Jautrumas šviesai (Light Sensitive)
-Tie, kurie kenčia nuo jautrumo šviesai, patiria visus įgūdžių metimus dienos šviesoje vienu sudėtingumo laipsniu sunkiau.
+
+Tie, kurie kenčia nuo jautrumo šviesai, dienos šviesoje visus įgūdžių patikrinimus atlieka vienu sudėtingumo laipsniu sunkiau.
 
 #### Magijos jutimas (Magic Sense)
-Panašus į Gyvybės jutimą, bet leidžia padarui aptikti magiškas emanacijas tais pačiais atstumais. Jei padaras paliečia kitą ir atlieka sėkmingą Suvokimo metimą, jis sužino taikinio esamus magijos taškus, nešiojamus kerus ir aktyvius burtus.
 
-#### Daugia galvų (Multi-Headed)
-Padaras gauna papildomą kovos veiksmą už kiekvieną papildomą galvą po pirmosios. Jie prarandami, kai kiekviena individuali galva yra neįgalinta ar nukirsta. Kol viena galva išlieka aktyvi, padaras vis dar gali valdyti savo bendrą kūną. Kai daugia galvų turintis padaras priešinasi burtams, kurie veikia emocijas ar intelektą, jis meta individualius išgelbėjimo metimus kiekvienai dar nepažeistai galvai.
+Panašiai kaip Gyvybės jutimas, bet leidžia padarui aptikti magiškąsias emanacijas tais pačiais atstumais. Jei padaras paliečia kitą būtybę ir sėkmingai atlieka suvokimo (Perception) patikrinimą, jis sužino apie taikinio turimus magijos taškus, uždėtus kerus ir aktyvius burtus.
 
-#### Daugia galūnių (Multi-Limbed)
-Panašiai kaip daugia galvų, padaras gauna papildomą kovos veiksmą už kiekvieną papildomą galūnių porą (po pirmosios), kurią gali panaudoti kovoje – tos, kurios įprastai naudojamos padarui išlaikyti ar judinti, nesiskaito. Šie papildomi kovos veiksmai gali būti naudojami tik veiksmams su tomis specifinėmis galūnėmis ir prarandami, kai kiekviena pora yra imobilizuota ar neįgalinta.
+#### Daugiaveidis (Multi-Headed)
 
-#### Naktinis regėjimas (Night Sight)
-Leidžia padarui traktuoti dalinę tamsą kaip apšviestą, o tamsą kaip dalinę tamsą.
+Padaras įgauna papildomą kovos veiksmą už kiekvieną papildomą galvą, be pirmosios. Šie veiksmai prarandami, kai kiekviena atskira galva tampa neveiksni arba yra nukertama. Kol lieka bent viena aktyvi galva, padaras vis dar gali valdyti savo bendrą kūną. Kai daugiaveidis padaras priešinasi burtams, veikiantiems emocijas ar intelektą, jis atlieka atskirus gelbėjimosi patikrinimus už kiekvieną nepažeistą galvą.
+
+#### Daugialūnis (Multi-Limbed)
+
+Panašiai kaip ir Daugiaveidis, padaras įgauna papildomą kovos veiksmą už kiekvieną papildomą galūnių porą (virš pirmosios), kurią gali panaudoti kovos metu – tos, kurios paprastai naudojamos padarui atremti ar judėti, nesiskaito. Šie papildomi kovos veiksmai gali būti naudojami tik veiksmams su tomis konkrečiomis galūnėmis ir prarandami, kai kiekviena pora tampa imobilizuota ar neveiksni.
+
+#### Naktinis matymas (Night Sight)
+
+Leidžia padarui traktuoti dalinę tamsą kaip apšviestą, o tamsą – kaip dalinę tamsą.
 
 #### Imunitetas nuodams (Poison Immunity)
-Padaras yra atsparus visiems nuodams. Visi padarai be SIZ automatiškai turi šį bruožą, nors jis nėra specialiai nurodytas jų aprašymuose.
+
+Padaras yra imunitetingas visiems nuodams. Visi padarai, neturintys DYD, automatiškai turi šį bruožą, nors jis ir nėra specialiai išvardytas jų aprašymuose.
 
 #### Regeneracija (Regeneration)
-Padaras gali regeneruoti prarastus pataikymo taškus dėl žalos. Regeneracijos greitis skiriasi priklausomai nuo padaro. Jei nenurodyta kitaip, regeneracija nepakeičia prarastų galūnių, o gyvybiškai svarbios vietos (galvos, krūtinės ar pilvo) nukirtimas vis tiek baigsis mirtimi.
+
+Padaras gali regeneruoti prarastus pataikymo taškus (Hit Points). Regeneracijos greitis skiriasi priklausomai nuo padaro. Jei nenurodyta kitaip, regeneracija neatkuria prarastų galūnių, o gyvybiškai svarbios vietos (galvos, krūtinės ar pilvo) atskyrimas vis tiek baigsis mirtimi.
 
 #### Plaukikas (Swimmer)
-Padaras automatiškai sėkmingai juda ir manevruoja plaukdamas ir jam nereikia mesti Plaukimo įgūdžio, nebent bando atlikti neįprastai sunkią užduotį, pavyzdžiui, plaukti prieš galingą potvynį ar šokti per krioklį. Plaukikas gali pakeisti Plaukimo įgūdį Atletikos ir Vengimo metimais vandenyje.
 
-#### Gąsdinantis (Terrifying)
-Padaro išvaizda, forma ar aura yra tokia gąsdinanti, kad verčia žiūrovus atlikti nepasipriešinimo Valios metimą. Sėkmė rodo, kad žiūrovas yra sukrėstas vieną raundą ir negali veikti puolamai. Nesėkmė verčia juos bėgti iš baimės. Nesėkmė (praleidimas) verčia žiūrovą nukristi be sąmonės nuo šoko. Tik kritinė sėkmė leidžia žiūrovui veikti netrukdomam. Žiūrovas neturi atlikti jokių tolesnių patikrinimų likusią kovos dalį, net jei yra daugiau tokių pačių padarų. Pakartotinis susidūrimas su specifinio tipo Gąsdinančiu monstru gali ilgainiui leisti įgūdžių patikrinimą padaryti vienu ar daugiau laipsnių lengvesniu.
+Padaras automatiškai sėkmingai atlieka kasdienius judesius ir manevrus plaukdamas, todėl jam nereikia tikrinti plaukimo (Swim) įgūdžio, nebent bandoma atlikti neįprastai sunkią užduotį, pavyzdžiui, plaukti prieš stiprią srovę ar šokti per krioklį. Plaukikas vandenyje gali pakeisti plaukimo (Swim) įgūdžiu atletikos (Athletics) ir išsisukinėjimo (Evade) patikrinimus.
 
-#### Trypimas (Trample)
-Padaras gali trypinti būtybes, kurių SIZ yra pusė ar mažiau už jo paties, naudodamas savo Atletikos įgūdį atakai. Tai daro žalą, lygią dvigubam padaro baziniam žalos modifikatoriui ir padidina atakos dydį vienu žingsniu. Kaip ir kada naudojamas trypimas, priklauso nuo aplinkybių. Jei nejudrus, padaras gali trypinti pargriautą priešininką savo ėjimo metu, bet tai kainuoja veiksmų tašką. Jei trypimas atliekamas, kol padaras juda ar šuoliuoja per priešininką, tada trypimas yra nemokamas veiksmas.
+#### Siaubingas (Terrifying)
 
-#### Negyvėlis (Undead)
-Būdamas jau miręs, padaras yra atsparus tiek nuovargio, tiek rimtų sužalojimų pasekmėms. Todėl negyvėliai yra imunitetingi visiems žalingiems rimtų žaizdų poveikiams. Net didelės žaizdos jų neįgalina, nors jiems vis tiek gali būti nukirstos ar sutrupintos vietos, kaip įprasta. Traktuokite negyvo padaro galvos ar krūtinės vietą kaip sritį, kurioje dvasia ar magija buvo surišta. Bet kuri vieta (ir tos, kurios su ja ribojasi), kuri yra sutraiškyta ar atskirta nuo surištos vietos, nustoja veikti, bet likusi kūno dalis gali tęsti veiklą, jei vis dar turi galūnių, su kuriomis gali veikti. Didelė žaizda į magija pripildytą vietą visiškai sunaikina negyvėlį. Tik visiškai kūniški mirę padarai gali turėti Negyvėlio bruožą.
+Padaro išvaizda, forma ar aura yra tokia siaubinga, kad priverčia stebėtojus atlikti nepriešinamą valios (Willpower) patikrinimą. Sėkmė rodo, kad stebėtojas yra sukrėstas vienam raundui ir negali veikti puolamai. Nesėkmė priverčia juos bėgti iš siaubo. Suklupimas (fumble) priverčia stebėtoją prarasti sąmonę nuo šoko. Tik kritinė sėkmė leidžia stebėtojui veikti netrukdomam. Stebėtojui nereikia atlikti jokių tolesnių patikrinimų likusį kovos laiką, net jei yra daugiau tokių pačių padarų. Pakartotinis susidūrimas su tam tikro tipo Siaubingu monstru ilgainiui gali leisti įgūdžio patikrinimą palengvinti vienu ar keliais laipsniais.
 
-#### Vampyrizmas (Vampiric)
-Padaras nusausina savo aukos kraują, sukeldamas nuovargio lygių padidėjimą. Padaras turi naudoti įkandimo ataką ir padaryti žalą įkandimu, kad galėtų nusausinti kraują padaro aprašyme nurodytu greičiu.
+#### Sutrypimas (Trample)
+
+Padaras gali sutrypti būtybes, kurių DYD yra pusė arba mažiau nei jo paties, naudodamas atletikos (Athletics) įgūdį atakai. Tai padaro žalą, lygią dvigubam padaro pagrindiniam žalos modifikatoriui, ir padidina atakos DYD vienu laipsniu. Kaip ir kada naudojamas sutrypimas, priklauso nuo aplinkybių. Jei nejudrus, padaras gali sutrypti parklupdytą oponentą savo ėjimo metu, tačiau tai kainuoja veiksmų tašką. Jei sutrypimas atliekamas padarui judant arba bėgant per oponentą, tuomet sutrypimas yra nemokamas veiksmas.
+
+#### Nemirėlis (Undead)
+
+Būdamas jau miręs, padaras yra imunitetingas tiek nuovargio, tiek sunkių sužalojimų pasekmėms. Todėl nemirėliai yra imunitetingi visiems neigiamiems sunkių sužalojimų (Serious Wounds) poveikiams. Net dideli sužalojimai (Major Wounds) jų nepadaro neveiksniais, nors jų kūno dalys vis tiek gali būti atskirtos ar sutrupintos kaip įprasta. Nemirėlio galvą arba krūtinę traktuokite kaip vietą, kurioje surišta dvasia ar magija. Bet kuri vieta (ir gretimos jai), kuri yra sutrupinta arba atskirta nuo surištos zonos, nustoja veikusi, tačiau likusi kūno dalis gali veikti, jei vis dar turi galūnių veiksmams atlikti. Didelis sužalojimas į magija pripildytą vietą sunaikina nemirėlį visiškai. Tik visiškai kūniški mirę padarai gali turėti Nemirėlio bruožą.
+
+#### Vampyriškas (Vampiric)
+
+Padaras siurbia savo aukos kraują, sukeldamas nuovargio lygio padidėjimą. Padaras turi panaudoti įkandimo ataką ir padaryti žalą įkandimu, kad galėtų siurbti kraują padaro aprašyme nurodytu greičiu.
 
 #### Nuodingas (Venomous)
-Padaras turi nuodingą įkandimą, geluonį ar kitas atakos priemones.
+
+Padaras turi nuodingą įkandimą, geluonį ar kitą atakos būdą.
 
 #### Sparnų smūgis (Wing Buffet)
-Padaras yra toks didelis, kad gali sužeisti priešininkus mojuodamas sparnais. Tai reikalauja atakos veiksmo ir daro žalą, lygią jo žalos modifikatoriui tiems, kurie yra 10 pėdų atstumu nuo jo šoninių kvadratų.
+
+Padaras toks didelis, kad gali žaloti oponentus mosuodamas savo sparnais. Tam reikia puolimo veiksmo (Attack Action), ir jis padaro žalą, lygią savo žalos modifikatoriui, tiems, kurie yra 10 pėdų atstumu nuo jo šoninių kvadratų.
 
 ---
 ## Pagrindinių magiškų daiktų pavyzdžiai
 
-Tai tik nedidelė dalis kai kurių dažnesnių _Classic Fantasy Imperative_ magiškų daiktų. Tie, kurių kainos su \*, turi įtraukti ginklo ar šarvų kainą į bendrą sumą.
+Tai tik nedidelė dalis kai kurių dažniausiai pasitaikančių _Classic Fantasy Imperative_ magiškų daiktų. Tiems, kurių kainos su žvaigždute (*), reikia į bendrą sumą įtraukti ginklo ar šarvų kainą.
 
 #### +1 arba +2 Magijos amuletas (250 GP arba 500 GP)
-Šis amuletas suteikia nešiotojui papildomų magijos taškų, kuriuos galima panaudoti burtams lieti. Veikėjas vienu metu gali semtis tik iš vieno daikto, kuris suteikia magijos taškų. Išleisti taškai natūraliai neatsistato ir turi būti suteikti burtininko, nebūtinai amuletas savininko.
+
+Šis amuletas suteikia nešiotojui papildomų magijos taškų, kuriuos galima naudoti burtams lieti. Veikėjas vienu metu gali naudoti magijos taškus tik iš vieno daikto. Išnaudoti taškai natūraliai neatsistato ir turi būti suteikti burtininko (nebūtinai amuleta savininko).
 
 #### +1 Šarvai (500 GP*)
+
 Šie šarvai buvo užkerėti, kad panaikintų papildomą žalos tašką.
 
 #### +1 arba +2 Magijos žiedas (250 GP arba 500 GP)
-Šis žiedas veikia visais atžvilgiais kaip Magijos amuletas, kaip aprašyta aukščiau.
+
+Šis žiedas veikia visais atžvilgiais kaip aukščiau aprašytas Magijos amuletas.
 
 #### +1 Apsaugos žiedas (500 GP)
-Apsaugos žiedas suteikia +1 šarvų tašką jį nešiojant. Be to, pridėkite +5% premiją pasipriešinimo metimams. Jei nešiojami su magiškais šarvais, galioja tik šarvų suteikta premija. Tačiau premija pasipriešinimo metimams nėra neigiamai paveikiama. Apsaugos žiedą galima nešioti su nemagiškais šarvais be baudų. Keli Apsaugos žiedai nesumuojami, galioja tik didžiausia premija.
+
+Apsaugos žiedas suteikia +1 šarvų tašką jį dėvint. Be to, prideda +5% premiją pasipriešinimo (Resistance) patikrinimams. Jei dėvimi kartu su magiškais šarvais, taikoma tik šarvų suteikiama premija. Tačiau pasipriešinimo patikrinimams suteikiama premija neigiamai neveikiama. Apsaugos žiedą galima dėvėti su nemagiškais šarvais be baudos. Keli Apsaugos žiedai nesumuojami, galioja tik didžiausia premija.
 
 #### +5% Skydas (250 GP*)
-Šis skydas buvo sustiprintas magišku kerėjimu, su +5% premija kovos įgūdžiui atremiant. Šis skydas turi +5 šarvų taškus ir +2 pataikymo taškus tokio tipo skydui.
 
-#### +5% Skydas, +20% prieš svaidomuosius ginklus (500 GP*)
-Šis skydas buvo sustiprintas magišku kerėjimu, su +5% premija kovos įgūdžiui atremiant artimos kovos ataką ir +20% atremiant svaidomuosius ginklus. Šis skydas turi +5 šarvų taškus ir +2 pataikymo taškus tokio tipo skydui.
+Šis skydas buvo sustiprintas magišku kerėjimu, suteikiančiu +5% premiją kovos įgūdžiui atremiant (Parrying). Šis skydas turi +5 šarvų taškus ir +2 pataikymo taškus tokio tipo skydui.
+
+#### +5% Skydas, +20% vs. Raketų (500 GP*)
+
+Šis skydas buvo sustiprintas magišku kerėjimu, suteikiančiu +5% premiją kovos įgūdžiui atremiant artimųjų kovų atakas ir +20% atremiant raketas. Šis skydas turi +5 šarvų taškus ir +2 pataikymo taškus tokio tipo skydui.
 
 #### +10% Skydas (500 GP*)
-Šis skydas buvo sustiprintas magišku kerėjimu, su +10% premija kovos įgūdžiui atremiant. Šis skydas turi +10 šarvų taškų ir +4 pataikymo taškus tokio tipo skydui.
 
-#### +1 Ginklas (artimos kovos 400 GP*, nuotolinis 500 GP*)
-Šis ginklas buvo užkerėtas daryti +1 žalą ir turi +10 šarvų taškų bei +4 pataikymo taškus.
+Šis skydas buvo sustiprintas magišku kerėjimu, suteikiančiu +10% premiją kovos įgūdžiui atremiant (Parrying). Šis skydas turi +10 šarvų taškų ir +4 pataikymo taškus tokio tipo skydui.
 
-#### Laikymo krepšys (500 GP)
-Šis didelis medžiaginis maišas atsidaro į kišeninę dimensiją, viduje būdamas daug didesnis nei išorėje, ir gali būti naudojamas laikyti daug daugiau, nei galėtų tilpti įprastai tokios formos ir dydžio krepšyje. Krepšys prilygsta 2 „daiktams“ svoriu, neatsižvelgiant į tikrąjį turinį, ir gali talpinti iki 100 „daiktų“. Šį krepšį galima nešiotis kitame konteineryje ir jis vis tiek sveria tik 2 „daiktus“, net kai pilnas.
+#### +1 Ginklas (artimųjų 400 GP*, nuotolinių 500 GP*)
+
+Šis ginklas buvo užkerėtas padaryti +1 žalą ir turi +10 šarvų taškų bei +4 pataikymo taškus.
+
+#### Talpinimo krepšys (Bag of Holding) (500 GP)
+
+Šis didelis audinio maišas atsiveria į kišeninę dimensiją, viduje būdamas daug didesnis nei išorėje, ir gali būti naudojamas laikyti kur kas daugiau nei įprastai tilptų tokios formos ir dydžio krepšyje. Krepšys prilygsta 2 „daiktams“ (Things) pagal svorį, nepaisant jo tikrojo turinio, ir gali talpinti iki 100 „daiktų“. Šį krepšį galima neštis kitame inde ir jis vis tiek sveria tik 2 „daiktus“, net kai yra pilnas.
 
 #### Elfų batai (1000 GP)
-Šie minkšti odiniai batai keičia nešiotojo gebėjimą judėti tyliai, nepaisant vietovės, net einant per sausus lapus ar girgždančias lentas neprodukujant nieko labiau pastebimo nei minkštas žingsnis. Nešiotojui suteikiamas 95% Slaptumo įgūdis, nepakeičiamas vietovės. Batai nesuteikia jokių tolesnių premijų tiems, kurių įgūdis didesnis nei 95%, išskyrus tai, kad jie gali naudoti savo įprastą įgūdžio lygį nesirūpindami vietovės baudomis.
+
+Šie minkšti odiniai batai modifikuoja nešiotojo gebėjimą judėti tyliai, nepriklausomai nuo vietovės; net einant per sausus lapus ar girgždančias lentas nepasigirsta nieko daugiau, kaip tik minkštas žingsnis. Nešiotojui suteikiamas 95% slapstymosi (Stealth) įgūdis, kurio neveikia vietovė. Batai nesuteikia jokios papildomos naudos tiems, kurių įgūdis didesnis nei 95%, išskyrus tai, kad jie gali naudoti savo normalų įgūdžio lygį nesirūpindami vietovės baudomis.
 
 #### Nematomumo eliksyras (50 GP)
-Išgertas šis eliksyras suteikia vartotojui Nematomumą 1d4+2 minutėms. Kaip ir [Nematomumo](0010_Spells.md?id=invisibility) burtas, bet kokia ataka, padaryta naudos gavėjo, iškart priverčia subjektą vėl pasirodyti. Kiti ne kovos veiksmai, kuriuos atlieka vartotojas, pavyzdžiui, kalbėjimas, valgymas, bėgimas, durų atidarymas ir t. t., neturi įtakos trukmei, kuri lygi 1d4+2 minutėms už kiekvieną išgertą dozę. Tipiniame eliksyre yra aštuonios dozės.
+
+Išgertas šis eliksyras suteikia vartotojui nematomumą 1d4+2 minutėms. Kaip ir [Nematomumo](0010_Spells.md?id=invisibility) burtas, bet kokia ataka, atlikta eliksyro naudos gavėjo, iškart priverčia subjektą vėl tapti matomu. Kiti nekoviniai vartotojo veiksmai, pavyzdžiui, kalbėjimas, valgymas, bėgimas, durų atidarymas ir t. t., neturi įtakos trukmei, kuri yra 1d4+2 minutės vienai dozei. Tipiškame eliksyre yra užtektinai aštuonioms dozėms.
 
 #### Levitacijos eliksyras (40 GP)
-Šio eliksyro vartotojui suteikiamas gebėjimas levituoti vertikaliai 10 pėdų per raundą greičiu. Vartotojas gali nešti vieną kitą asmenį, jei jie yra 20 SIZ ar mažesni. Nors veikėjas negali judėti horizontaliai burtų galia, jis gali turėti galimybę traukti palei sieną ar uolą 10 pėdų per raundą pagrindiniu judėjimo greičiu.
+
+Šio eliksyro vartotojui suteikiamas gebėjimas levituoti vertikaliai 10 pėdų per raundą greičiu. Vartotojas gali nešti vieną kitą asmenį, jei jis yra 20 DYD ar mažesnis. Nors veikėjas negali judėti horizontaliai naudodamas šio burto galią, jis gali prisitraukti prie sienos ar uolos 10 pėdų per raundą pagrindiniu judėjimo greičiu.
 
 #### (Burto) žiedas, 1 rangas (1,000 GP)
-Šis žiedas leidžia lieti vieną 1 rango burtą. Nepriklausomai nuo burto, visi turi tęstinę trukmę, burtas automatiškai išliejamas, kai žiedas užsidedamas, ir trunka tol, kol nuimamas. Jie yra apriboti burto tipo, kuris gali būti užkerėtas į juos, dažniausiai pasitaikantys yra Magijos aptikimas, Karščio ar šalčio ištvermė, Plunksnos kritimas, Plaukiojantis diskas, Nematomumas, Levitacija, Apsauga nuo blogio (ar gėrio), Lėtas nuodas. Kiti yra galimi Žaidimo meistro nuožiūra. Kalbant apie Nematomumo žiedą, atakavimas priverčia nešiotoją tapti matomu 1d3+1 raundams.
+
+Šis žiedas leidžia išlieti vieną 1 rango burtą. Nepriklausomai nuo burto, visi turi tęstinę trukmę, burtas išliejamas automatiškai užsidėjus žiedą ir veikia tol, kol jis nuimamas. Jie yra ribojami pagal burto tipą, kurį galima į jį įburti; dažniausiai pasitaikantys yra Magijos aptikimas (Detect Magic), Karščio ar šalčio ištvermė (Endure Heat or Cold), Plunksnos kritimas (Feather Fall), Plaukiojantis diskas (Floating Disk), Nematomumas (Invisibility), Levitacija (Levitation), Apsauga nuo blogio (ar gėrio) (Protection from Evil/Good), Lėtas nuodas (Slow Poison). Kiti galimi žaidimo meistro nuožiūra. Kalbant apie Nematomumo žiedą, puolimas sukelia tai, kad nešiotojas tampa matomas 1d3+1 raundams.
 
 #### (Burto) lazdelė, 1 rangas (1,000 GP)
-Ši lazdelė turi vieną burtą, kurį paprastai gali naudoti visi veikėjai, nepriklausomai nuo klasės. Yra 50% tikimybė, kad magiška lazdelė turės magijos vartotojo burtą, o 50% – dvasininko burtą. Lazdelė turi 90 įkrovų, ir kiekvienas naudojimas išeikvoja įkrovų skaičių, lygų įprastai burto liejimo kainai, neatsižvelgiant į intensyvumą. Pavyzdžiui, lazdelė lies burtą, turintį '1/intensyvumo' liejimo kainą, išnaudojant vieną įkrovą, o burtas su '3/intensyvumo' liejimo kaina sunaudos 3 įkrovas. Tai neatsižvelgiant į tikrąjį burto intensyvumą, kaip sukurta daikto. Burtas išliejamas 3 intensyvumu ir dydžiu ir nieko nekainuoja burtininko magijos taškų. Papildomos informacijos ieškokite atitinkamame burte.
 
-#### (Burto) strypas, 1 rangas (1,500 GP)
-Skirtingai nei burto lazdelė, burto strypas turi 60 įkrovų ir 6 intensyvumą bei dydį. Tačiau strypą gali naudoti tik tos klasės veikėjas, kuris gali lieti šį burtą.
+Ši lazdelė turi vieną burtą, kurį paprastai gali naudoti visi veikėjai, nepriklausomai nuo klasės. Yra 50% tikimybė, kad magiška lazdelė turės magijos vartotojo burtą, ir 50% tikimybė – dvasininko (cleric) burtą. Lazdelė turi 90 įkrovų, ir kiekvienas panaudojimas išeikvoja įkrovų skaičių, lygų burto normaliai liejimo kainai, nepriklausomai nuo intensyvumo. Pavyzdžiui, lazdelė išlies burtą, kurio liejimo kaina yra „1/intensyvumas“, išeikvodama vieną įkrovą, o burtas su „3/intensyvumas“ kaina išeikvos 3 įkrovas. Tai nepriklauso nuo tikrojo burto intensyvumo, kurį sukuria daiktas. Burtas išliejamas 3 intensyvumu ir 3 dydžiu, o liejėjui nekainuoja jokių magijos taškų. Papildomos informacijos ieškokite atitinkamame burte.
+
+#### (Burto) lazda, 1 rangas (1,500 GP)
+
+Skirtingai nei burto lazdelė, burto lazda turi 60 įkrovų, o jos intensyvumas ir dydis yra 6. Tačiau lazdą gali naudoti tik tos klasės veikėjas, kuris geba lieti tą burtą.
 
 #### (Burto) personalas, 1 rangas (2,000 GP)
-Burto personalas turi 30 įkrovų ir 9 intensyvumą bei dydį. Tačiau personalą gali naudoti tik tos klasės veikėjas, kuris gali lieti šį burtą.
+
+Burto personalas turi 30 įkrovų, o jo intensyvumas ir dydis yra 9. Tačiau personalą gali naudoti tik tos klasės veikėjas, kuris geba lieti tą burtą.

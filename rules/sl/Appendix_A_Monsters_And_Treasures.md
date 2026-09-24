@@ -4,35 +4,35 @@ Ta dodatek vsebuje majhen vzorec pošasti in zakladov v skrajšani obliki.
 
 ## Opombe o rangu pošasti
 
-Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likovemu rangu. Štiri bitja 1. ranga bi bila izziv za štiri like 1. ranga. To ne pomeni, da bo boj enakopraven, le da bi moral predstavljati izziv. Na primer, družina šestih likov 1. ranga bi morala imeti izziv pri šestih pošastih 1. ranga, ali dvanajstih pošastih ½ ranga, ali treh 2. ranga, ali eni sami 6. ranga, in tako naprej. To ne pomeni, da ne bi mogli preživeti bitke proti pošasti 8. ranga ali da jih ne bi moglo premagati število bitij, katerih rang je enak polovici njihovega. To je pač narava naključnih metov kocke. Vendar pa to daje izhodišče mojstrom iger, ki se učijo sistema. **Dobro vodilo je izbrati pošasti, katerih rang je enak rangu družine, plus ali minus ena.** Na ta način se igralci ne srečujejo vedno z istim številom orkov, goblinov, ogrov in tako naprej.
+Rang označuje približen izziv bitja in je podoben, vendar _ni_ enak karakterjevemu rangu. Štiri bitja ranga 1 bi bila izziv za štiri karakterje ranga 1. To ne pomeni, da bo boj enakopraven, le da bi moral predstavljati izziv. Na primer, skupina šestih karakterjev ranga 1 bi morala kot izziv doživeti šest pošasti ranga 1, ali dvanajst pošasti ranga ½, ali tri pošasti ranga 2, ali eno samo pošast ranga 6, in tako naprej. To ne pomeni, da ne bi mogli preživeti bitke proti pošasti ranga 8, ali da jih ne bi moglo uničiti število bitij, katerih vsota rangov je polovica njihovega ranga. To je pač narava naključnih metov kock. Vseeno pa ponuja izhodišče za mojstre igre (GM), ki se učijo sistema. **Dobro pravilo je, da izberete pošasti, katerih rang je enak rangu skupine, plus ali minus ena**. Na ta način igralci ne naletijo vedno na enako število orkov, goblinov, ogrov in tako naprej.
 
 ---
 ## Primeri pošasti
 
 ---
 
-### Bandit (1. rang)
+### Bandit (Rang 1)
 
-| Bitje | Bandit (1. rang) |
+| Bitje | Bandit (Rang 1) |
 | :-- | :-- |
-| Lastnosti | STR 11, CON 11, SIZ 13, DEX 11, INT 13, POW 11, CHA 8 |
+| Značilnosti | MOČ 11, VZD 11, VEL 13, SPR 11, INT 13, ENE 11, KAR 8 |
 | Akcijske točke | 2 | 
 | Modifikator škode | +1d2 |
 | Iniciativa | +11 (13) |
 | Premik | 20' |
 | Sposobnosti | Nobene |
-| Uravnanost | Običajno, Zloben 54% |
-| Oklep | Prsni koš, trebuh in okončine 3 (nabito usnje), glava 8 (jeklena čelada) |
-| Veščine | Atletika 52%, Moč 54%, Jezik (običajni jezik) 64%, Navade 46%, Prevara 44%, Vzdržljivost 52%, Izmikanje 52%, Vpogled 54%, Lokalno znanje 66%, Zaznavanje 44%, Prikradanje 44%, Preživetje 52%, Neporočen boj 42%, Volja 42% |
-| Bojna veščina | 56% - bojna sekira, tarčni ščit, kratki lok |
+| Usmeritev | Običajno, Zlo 54% |
+| Oklep | Prsni koš, trebuh in okončine 3 (kovičeno usnje), glava 8 (jeklena čelada) |
+| Veščine | Atletika 52%, Moč 54%, Jezik (Skupni jezik) 64%, Navade 46%, Prevara 44%, Vzdržljivost 52%, Izmikanje 52%, Vpogled 54%, Lokalno znanje 66%, Zaznavanje 44%, Prikradanje 44%, Preživetje 52%, Neboroženo 42%, Volja 42% |
+| Bojna veščina | 56% - Bojna sekira, Ciljni ščit, Kratki lok |
   
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Bojna sekira | M | 1d6+1d2 | 4/8 | Krvavenje, Razcepljanje |
-| Tarčni ščit | L | 1d4+1d2 | 4/9 | Udar, Prebodi, Pariranje na daljavo, Pasivna blokada (3) |
-| Kratki lok | L | 1d6+1d2 | 4/4 | Prebodi, Doseg 45'/300'/600' |
+| Bojna sekira | M | 1d6+1d2 | 4/8 | Krvavitev, Sunder |
+| Ciljni ščit | L | 1d4+1d2 | 4/9 | Udar s ščitom, Prebosti, Pariranje na daljavo, Pasivna blokada (3) |
+| Kratki lok | L | 1d6+1d2 | 4/4 | Prebosti, Doseg 45'/300'/600' |
 
 #### Lokacije zadetkov in oklep
 
@@ -51,20 +51,20 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Orjaška podgana (½ ranga)
+### Velika podgana (Rang ½)
 
-| Bitje | Orjaška podgana (½ ranga) |
+| Bitje | Velika podgana (Rang ½) |
 | :-- | :-- |
-| Lastnosti | STR 7, CON 11, SIZ 4, DEX 13, INS 13, POW 7 |
+| Značilnosti | MOČ 7, VZD 11, VEL 4, SPR 13, INT 13, ENE 7 |
 | Akcijske točke | 3 | 
 | Modifikator škode | -1d4 |
 | Iniciativa | +13 |
 | Premik | 20' |
-| Sposobnosti | [Temni vid](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Skakalec](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
-| Uravnanost | NA |
-| Oklep | Brez |
+| Sposobnosti | [Temnovidnost](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Skakalec](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
+| Usmeritev | NA |
+| Oklep | Noben |
 | Veščine | Atletika 40%, Moč 22%, Vzdržljivost 52%, Izmikanje 56%, Zaznavanje 50%, Prikradanje 56%, Plavanje 58%, Volja 34% |
-| Bojna veščina | 50% - kremplji, ugriz |
+| Bojna veščina | 50% - Kremplji, Ugriz |
 
   
 #### Podrobnosti orožja
@@ -81,8 +81,8 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 | 1-2 | Rep | 0/3 |
 | 3-4 | Desna zadnja noga | 0/3 |
 | 5-6 | Leva zadnja noga | 0/3 |
-| 7-9 | Zadnji del | 0/4 |
-| 10-13 | Sprednji del | 0/5 |
+| 7-9 | Zadnji del telesa | 0/4 |
+| 10-13 | Sprednji del telesa | 0/5 |
 | 14-15 | Desna sprednja noga | 0/3 |
 | 16-17 | Leva sprednja noga | 0/3 |
 | 18-20 | Glava | 0/3 |
@@ -91,28 +91,28 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Goblin (½ ranga)
+### Goblin (Rang ½)
 
-| Bitje | Goblin (½ ranga) |
+| Bitje | Goblin (Rang ½) |
 | :-- | :-- |
-| Lastnosti | STR 8, CON 11, SIZ 8, DEX 14, INT 12, POW 11, CHA 7 |
+| Značilnosti | MOČ 8, VZD 11, VEL 8, SPR 14, INT 12, ENE 11, KAR 7 |
 | Akcijske točke | 3 | 
 | Modifikator škode | -1d2 |
 | Iniciativa | +11 |
 | Premik | 15' |
-| Sposobnosti | [Temni vid](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Občutljivost na svetlobo](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Uravnanost | Zloben 52% |
-| Oklep | Prsni koš, trebuh in glava 3 (nabito usnje), okončine 0 |
-| Veščine | Atletika 42%, Moč 36%, Prevara 49%, Vzdržljivost 42%, Izmikanje 58%, Jeziki (goblinščina, hobgoblinščina, koboldščina, orkovščina) 59%, Zaznavanje 63%, Jahanje 55%, Prikradanje 56%, Neporočen boj 42%, Volja 42% |
-| Bojna veščina | 52% - kratek meč, tarčni ščit, prača |
+| Sposobnosti | [Temnovidnost](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Občutljivost na svetlobo](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Usmeritev | Zlo 52% |
+| Oklep | Prsni koš, trebuh in glava 3 (kovičeno usnje), okončine 0 |
+| Veščine | Atletika 42%, Moč 36%, Prevara 49%, Vzdržljivost 42%, Izmikanje 58%, Jeziki (Goblinski, Hobgoblinski, Koboldski, Orški) 59%, Zaznavanje 63%, Jahanje 55%, Prikradanje 56%, Neboroženo 42%, Volja 42% |
+| Bojna veščina | 52% - Kratki meč, Ciljni ščit, Frača |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Kratek meč | M | 1d6-1d2 | 6/8 | Krvavenje, Prebodi |
-| Tarčni ščit | - | 1d4-1d2 | 4/9 | Udar, Prebodi, Pariranje na daljavo, Pasivna blokada (3) |
-| Prača | L | 1d8-1d2 | 1/2 | Udar, Ošamuti lokacijo, Doseg 30'/450'/900' |
+| Kratki meč | M | 1d6-1d2 | 6/8 | Krvavitev, Prebosti |
+| Ciljni ščit | - | 1d4-1d2 | 4/9 | Udar s ščitom, Prebosti, Pariranje na daljavo, Pasivna blokada (3) |
+| Frača | L | 1d8-1d2 | 1/2 | Udar s ščitom, Omotičnost lokacije, Doseg 30'/450'/900' |
 
 
 #### Lokacije zadetkov in oklep
@@ -131,28 +131,29 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Hribovski velikan (5. rang)
+### Hribovski velikan (Rang 5)
 
-| Bitje | Hribovski velikan (5. rang) |
+
+| Bitje | Hribovski velikan (Rang 5) |
 | :-- | :-- |
-| Lastnosti | STR 25, CON 25, SIZ 32, DEX 11, INT 10, POW 11, CHA 7 |
+| Značilnosti | MOČ 25, VZD 25, VEL 32, SPR 11, INT 10, ENE 11, KAR 7 |
 | Akcijske točke | 2 | 
 | Modifikator škode | +1d12 |
 | Iniciativa | +10 (11) |
 | Premik | 20' |
-| Sposobnosti | [Trampanje](Appendix_A_Monsters_And_Treasures.md?id=trample) |
-| Uravnanost | Zloben 52%, sovraži magijo in čarodeje 57% |
-| Oklep | Prsni koš in trebuh 3 (krzno in debela koža), glava in okončine 2 (debela koža) |
-| Veščine | Atletika 66%, Moč 87%, Vzdržljivost 80%, Izmikanje 42%, Jezik (orjaški) 47%, Lokalno znanje 50%, Zaznavanje 51%, Neporočen boj 66%, Volja 42% |
-| Bojna veščina | 76% - orjaška kij, vržen balvan (SIZ 8)<br> 66% - Trampanje |
+| Sposobnosti | [Povoženje](Appendix_A_Monsters_And_Treasures.md?id=trample) |
+| Usmeritev | Zlo 52%, Sovražijo magijo in magične uporabnike 57% |
+| Oklep | Prsni koš in trebuh 3 (kožuhi in čvrsta koža), glava in okončine 2 (čvrsta koža) |
+| Veščine | Atletika 66%, Moč 87%, Vzdržljivost 80%, Izmikanje 42%, Jezik (Velikanski) 47%, Lokalno znanje 50%, Zaznavanje 51%, Neboroženo 66%, Volja 42% |
+| Bojna veščina | 76% - Velikanski kij, Vržena skala (VEL 8)<br> 66% - Povoženje |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Orjaška kij | E | 1d12+1d12 | 8/12 | Udar, Ošamuti lokacijo |
-| Vržen balvan | L | 2d6+1d12 | - | Udar, Ošamuti lokacijo, Doseg 100' |
-| Trampanje | - | 2d12 | Kot lokacija | Udar, Ošamuti lokacijo |
+| Velikanski kij | E | 1d12+1d12 | 8/12 | Udar s ščitom, Omotičnost lokacije |
+| Vržena skala | L | 2d6+1d12 | - | Udar s ščitom, Omotičnost lokacije, Doseg 100' |
+| Povoženje | - | 2d12 | Kot lokacija | Udar s ščitom, Omotičnost lokacije |
 
 
 #### Lokacije zadetkov in oklep
@@ -171,28 +172,28 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Kobold (¼ ranga)
+### Kobold (Rang ¼)
 
-| Bitje | Kobold (¼ ranga) |
+| Bitje | Kobold (Rang ¼) |
 | :-- | :-- |
-| Lastnosti | STR 6, CON 11, SIZ 5, DEX 13, INT 13, POW 11, CHA 4 |
+| Značilnosti | MOČ 6, VZD 11, VEL 5, SPR 13, INT 13, ENE 11, KAR 4 |
 | Akcijske točke | 3 | 
 | Modifikator škode | -1d4 |
 | Iniciativa | +13 (14) |
 | Premik | 15' |
-| Sposobnosti | [Hladnokrvnost](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Temni vid](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Občutljivost na svetlobo](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Uravnanost | Zloben 52%, sovraži vsakogar 62% |
+| Sposobnosti | [Hladnokrvnost](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Temnovidnost](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Občutljivost na svetlobo](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Usmeritev | Zlo 52%, Sovražijo vse 62% |
 | Oklep | Prsni koš, trebuh in glava 3 (usnje in luskasta koža), okončine 1 (luskasta koža) |
-| Veščine | Atletika 40%, Moč 31%, Prevara 57%, Vzdržljivost 42%, Izmikanje 66%, Jeziki (koboldščina, goblinščina in orkovščina) 57%, Mehanizmi 66%, Zaznavanje 64%, Prikradanje 66%, Neporočen boj 39%, Volja 42% |
-| Bojna veščina | 49% - kratek meč, tarčni ščit, kopje |
+| Veščine | Atletika 40%, Moč 31%, Prevara 57%, Vzdržljivost 42%, Izmikanje 66%, Jeziki (Koboldski, Goblinski in Orški) 57%, Mehanizmi 66%, Zaznavanje 64%, Prikradanje 66%, Neboroženo 39%, Volja 42% |
+| Bojna veščina | 49% - Kratki meč, Ciljni ščit, Kopje |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Kratek meč | S | 1d6-1d4 | 6/8 | Krvavenje, Prebodi |
-| Tarčni ščit | M | 1d4-1d4 | 4/9 | Udar, Prebodi, Pariranje na daljavo, Pasivna blokada (3) |
-| Kopje | S | 1d8+1-1d4 | 4/5 | Prebodi, Doseg 30'/60'/150' |
+| Kratki meč | S | 1d6-1d4 | 6/8 | Krvavitev, Prebosti |
+| Ciljni ščit | M | 1d4-1d4 | 4/9 | Udar s ščitom, Prebosti, Pariranje na daljavo, Pasivna blokada (3) |
+| Kopje | S | 1d8+1-1d4 | 4/5 | Prebosti, Doseg 30'/60'/150' |
 
 
 #### Lokacije zadetkov in oklep
@@ -211,30 +212,30 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Ork (1. rang)
+### Ork (Rang 1)
 
-[Vnos MEG](https://mythras.skoll.xyz/enemy_template/11848/)
+[MEG vnos](https://mythras.skoll.xyz/enemy_template/11848/)
 
-| Bitje | Ork (1. rang) |
+| Bitje | Ork (Rang 1) |
 | :-- | :-- |
-| Lastnosti | STR 14, CON 13, SIZ 14, DEX 11, INT 11, POW 11, CHA 7 |
+| Značilnosti | MOČ 14, VZD 13, VEL 14, SPR 11, INT 11, ENE 11, KAR 7 |
 | Akcijske točke | 2 | 
 | Modifikator škode | +1d2 |
 | Iniciativa | +10 (14) |
 | Premik | 20' |
-| Sposobnosti | [Temni vid](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Občutljivost na svetlobo](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Uravnanost | Zloben 52%, sovraži viline in škrate 57% |
-| Oklep | Prsni koš in trebuh 5 (verižni oklep), glava 8 (jeklena čelada), roke 0, noge 3 (nabito usnje) |
-| Veščine | Atletika 55%, Moč 48%, Prevara 48%, Vzdržljivost 56%, Izmikanje 52%, Jeziki (orkovščina in običajni, nekateri govorijo goblinščino, hobgoblinščino in ogrovščino) 58%, Zaznavanje 52%, Neporočen boj 55%, Volja 52% |
-| Bojna veščina | 55% - bojna sekira, tarčni ščit, dolgi lok |
+| Sposobnosti | [Temnovidnost](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Občutljivost na svetlobo](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Usmeritev | Zlo 52%, Sovražijo vilince in škrjate 57% |
+| Oklep | Prsni koš in trebuh 5 (verižni oklep), glava 8 (jeklena čelada), roke 0, noge 3 (kovičeno usnje) |
+| Veščine | Atletika 55%, Moč 48%, Prevara 48%, Vzdržljivost 56%, Izmikanje 52%, Jeziki (Orški in Skupni, nekateri govorijo Goblinsko, Hobgoblinsko in Ogrovsko) 58%, Zaznavanje 52%, Neboroženo 55%, Volja 52% |
+| Bojna veščina | 55% - Bojna sekira, Ciljni ščit, Dolgi lok |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Bojna sekira | M | 1d6+1+1d2 | 4/8 | Krvavenje, Razcepljanje |
-| Tarčni ščit | L | 1d4+1d2 | 4/9 | Udar, Prebodi, Pariranje na daljavo, Pasivna blokada (3) |
-| Dolgi lok | L | 1d8+1d2 | 4/7 | Prebodi, Doseg 45'/375'/750' |
+| Bojna sekira | M | 1d6+1+1d2 | 4/8 | Krvavitev, Sunder |
+| Ciljni ščit | L | 1d4+1d2 | 4/9 | Udar s ščitom, Prebosti, Pariranje na daljavo, Pasivna blokada (3) |
+| Dolgi lok | L | 1d8+1d2 | 4/7 | Prebosti, Doseg 45'/375'/750' |
 
 
 #### Lokacije zadetkov in oklep
@@ -254,29 +255,29 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Oger (3. rang)
+### Oger (Rang 3)
 
-[Vnos MEG](https://mythras.skoll.xyz/enemy_template/11837/)
+[MEG vnos](https://mythras.skoll.xyz/enemy_template/11837/)
 
-| Bitje | Oger (3. rang) |
+| Bitje | Oger (Rang 3) |
 | :-- | :-- |
-| Lastnosti | STR 20, CON 18, SIZ 28, DEX 11, INT 10, POW 11, CHA 7 |
+| Značilnosti | MOČ 20, VZD 18, VEL 28, SPR 11, INT 10, ENE 11, KAR 7 |
 | Akcijske točke | 2 | 
 | Modifikator škode | +1d10 |
 | Iniciativa | +11 |
 | Premik | 15' |
-| Sposobnosti | [Trampanje](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
-| Uravnanost | Zloben 71%, slabih manir in hitro vzkipljiv 48% |
-| Oklep | Prsni koš in trebuh 3 (kosi krzna in usnja čez debelo kožo), glava in okončine 2 (debela koža) |
-| Veščine | Atletika 61%, Moč 88%, Vzdržljivost 76%, Izmikanje 52%, Jezik (ogrovščina) 57%, Lokalno znanje 40%, Zaznavanje 41%, Preživetje 59%, Sledenje 58%, Neporočen boj 61%, Volja 42% |
-| Bojna veščina | 71% - ogrova kij<br> 61% - Trampanje |
+| Sposobnosti | [Povoženje](Appendix_A_Monsters_And_Treasures.md?id=trample) |
+| Usmeritev | Zlo 71%, Slabo vzgojen in hitro vzkipljiv 48% |
+| Oklep | Prsni koš in trebuh 3 (koščki krzna in usnja čez čvrsto kožo), glava in okončine 2 (čvrsta koža) |
+| Veščine | Atletika 61%, Moč 88%, Vzdržljivost 76%, Izmikanje 52%, Jezik (Ogrovski) 57%, Lokalno znanje 40%, Zaznavanje 41%, Preživetje 59%, Sledenje 58%, Neboroženo 61%, Volja 42% |
+| Bojna veščina | 71% - Ogrovski kij<br> 61% - Povoženje |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Ogrova kij | L | 1d10+1d10 | 8/12 | Udar, Ošamuti lokacijo |
-| Trampanje | - | 2d10 | - | Udar, Ošamuti lokacijo |
+| Ogrovski kij | L | 1d10+1d10 | 8/12 | Udar s ščitom, Omotičnost lokacije |
+| Povoženje | - | 2d10 | - | Udar s ščitom, Omotičnost lokacije |
 
 #### Lokacije zadetkov in oklep
 
@@ -295,33 +296,33 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Rdeči zmaj, mlad odrasel (10. rang)
+### Rdeči zmaj, mlad odrasel (Rang 10)
 
-[Vnos MEG](https://mythras.skoll.xyz/enemy_template/11849/)
+[MEG vnos](https://mythras.skoll.xyz/enemy_template/11849/)
 
-| Bitje | Rdeči zmaj, mlad odrasel (10. rang) |
+| Bitje | Rdeči zmaj, mlad odrasel (Rang 10) |
 | :-- | :-- |
-| Lastnosti | STR 22, CON 31, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Značilnosti | MOČ 22, VZD 31, VEL 28, SPR 16, INT 9, ENE 11, KAR 4 |
 | Akcijske točke | 4 | 
 | Modifikator škode | +1d10 |
 | Iniciativa | +16 |
 | Magične točke | 19 |
-| Premik | 15', 50' (letenje) |
-| Sposobnosti | [Dihanje plamena](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Imunost (ogenj)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trampanje](Appendix_A_Monsters_And_Treasures.md?id=trample); [Zamahnitev s krili](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet), |
-| Uravnanost | Zloben 95%, hitro vzkipljiv, nezaupljiv in sovraži srebrne zmaje 88% |
+| Premik | 15', 50' (Letenje) |
+| Sposobnosti | [Ognjeni dih](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Odpornost (Ogenj)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Povoženje](Appendix_A_Monsters_And_Treasures.md?id=trample); [Udar s krili](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet) |
+| Usmeritev | Zlo 95%, Hitro vzkipljiv, sumničav in sovraži srebrne zmaje 88% |
 | Oklep | 8 (debele luske) |
-| Veščine | Arkana 92%, Atletika 77%, Moč 120%, Prevara 95%, Vzdržljivost 92%, Izmikanje 52%, Letenje 87%, Vplivanje 78%, Vpogled 95%, Jezik (kromatski zmaj) 95%, Lokalno znanje 92%, Znanje (zmaji) 92%, Zaznavanje 98%, Poučevanje 95%, Volja 78%, Govor (75% možnost sposobnosti govora) |
-| Bojna veščina | 100% - ognjeni stožec<br> 87% - kremplji, rep, zobje, zamahnitev s krili <br> 77% - Trampanje |
+| Veščine | Arkana 92%, Atletika 77%, Moč 120%, Prevara 95%, Vzdržljivost 92%, Izmikanje 52%, Letenje 87%, Vplivanje 78%, Vpogled 95%, Jezik (Kromatski zmajski) 95%, Lokalno znanje 92%, Znanje (Zmaj) 92%, Zaznavanje 98%, Poučevanje 95%, Volja 78%, Govor (75% možnost sposobnosti govora) |
+| Bojna veščina | 100% - Ognjeni stožec<br> 87% - Kremplji, Rep, Zobje, Udar s krili <br> 77% - Povoženje |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Kremplji | E | 1d10+1d10 | 8/12 | Krvavenje |
-| Rep | E | 1d10+1d10 | 8/12 | Udar |
-| Zobje | L | 1d10+1d10 | 8/12 | Zapletanje |
-| Trampanje | - | 2d10 | - | Udar, Ošamuti lokacijo |
-| Zamahnitev s krili | E | 1d10 | 8/12 | Udar, Doseg 10' na obeh straneh |
+| Kremplji | E | 1d10+1d10 | 8/12 | Krvavitev |
+| Rep | E | 1d10+1d10 | 8/12 | Udar s ščitom |
+| Zobje | L | 1d10+1d10 | 8/12 | Zaplesti |
+| Povoženje | - | 2d10 | - | Udar s ščitom, Omotičnost lokacije |
+| Udar s krili | E | 1d10 | 8/12 | Udar s ščitom, Doseg 10' na obeh straneh |
 | Ognjeni stožec | - | 4d6 | - | Doseg 125' |
 
 #### Lokacije zadetkov in oklep
@@ -331,10 +332,10 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 | 1-2 | Rep | 8/17 |
 | 3-4 | Desna zadnja noga | 8/17 |
 | 5-6 | Leva zadnja noga | 8/17 |
-| 7-8 | Zadnji del | 8/18 |
+| 7-8 | Zadnji del telesa | 8/18 |
 | 9-10 | Desno krilo | 8/16 |
 | 11-12 | Levo krilo | 8/16 |
-| 13-14 | Sprednji del | 8/19 |
+| 13-14 | Sprednji del telesa | 8/19 |
 | 15-16 | Desna sprednja noga | 8/17 |
 | 17-18 | Leva sprednja noga | 8/17 |
 | 19-20 | Glava | 8/17 |
@@ -344,30 +345,30 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Okostnjak (½ ranga)
+### Okostnjak (Rang ½)
 
-[Vnos MEG](https://mythras.skoll.xyz/enemy_template/11834/)
+[MEG vnos](https://mythras.skoll.xyz/enemy_template/11834/)
 
-| Bitje | Okostnjak (½ ranga) |
+| Bitje | Okostnjak (Rang ½) |
 | :-- | :-- |
-| Lastnosti | STR 10, CON 10, SIZ 13, DEX 14, INS 8, POW 6 |
+| Značilnosti | MOČ 10, VZD 10, VEL 13, SPR 14, INT 8, ENE 6 |
 | Akcijske točke | 2 | 
 | Modifikator škode | +1d2 |
 | Iniciativa | +9 (11) |
 | Premik | 20' |
-| Sposobnosti | [Imunost (strah, spanje in urok)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Nemrtvi (intenziteta proti odganjanju: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
-| Uravnanost | NA |
+| Sposobnosti | [Odpornost (Strah, Spanec in Čar)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Nemrtvi (Intenzivnost proti obrnitvi: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
+| Usmeritev | NA |
 | Oklep | Prsni koš in trebuh 5 (verižni oklep), glava in okončine 0 |
-| Veščine | Atletika 54%, Moč 53%, Vzdržljivost 50%, Izmikanje 68%, Zaznavanje 44%, Neporočen boj 54%, Volja 42% |
-| Bojna veščina | 54% - bojna sekira, okrogli ščit, dolgi lok |
+| Veščine | Atletika 54%, Moč 53%, Vzdržljivost 50%, Izmikanje 68%, Zaznavanje 44%, Neboroženo 54%, Volja 42% |
+| Bojna veščina | 54% - Bojna sekira, Okrogli ščit, Dolgi lok |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Bojna sekira | M | 1d6+1+1d2 | 4/8 | Krvavenje, Razcepljanje |
-| Okrogli ščit | L | 1d4+1d2 | 4/9 | Udar, Pariranje na daljavo, Pasivna blokada (3) |
-| Dolgi lok | L | 1d8+1d2 | 4/7 | Prebodi, Doseg 45'/375'/750' |
+| Bojna sekira | M | 1d6+1+1d2 | 4/8 | Krvavitev, Sunder |
+| Okrogli ščit | L | 1d4+1d2 | 4/9 | Udar s ščitom, Pariranje na daljavo, Pasivna blokada (3) |
+| Dolgi lok | L | 1d8+1d2 | 4/7 | Prebosti, Doseg 45'/375'/750' |
 
 #### Lokacije zadetkov in oklep
 
@@ -386,28 +387,28 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Trol (4. rang)
+### Trol (Rang 4)
 
-[Vnos MEG](https://mythras.skoll.xyz/enemy_template/11836/)
+[MEG vnos](https://mythras.skoll.xyz/enemy_template/11836/)
 
-| Bitje | Trol (4. rang) |
+| Bitje | Trol (Rang 4) |
 | :-- | :-- |
-| Lastnosti | STR 22, CON 25, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Značilnosti | MOČ 22, VZD 25, VEL 28, SPR 16, INT 9, ENE 11, KAR 4 |
 | Akcijske točke | 3 | 
 | Modifikator škode | +1d10 |
 | Iniciativa | +13 |
 | Premik | 20' |
-| Sposobnosti | [Temni vid](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneracija (1 HP/krog)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Groza](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
-| Uravnanost | Zloben 52%, sovraži dobre velikane 57% |
-| Oklep | 3 (debela, gumijasta koža) |
-| Veščine | Atletika 68%, Moč 90%, Vzdržljivost 90%, Izmikanje 62%, Jeziki (trolščina) 53%, Lokalno znanje 48%, Zaznavanje 60% (vid in vonj), Preživetje 66%, Sledenje 64%, Volja 52% |
-| Bojna veščina | 78% - ugriz, kremplji |
+| Sposobnosti | [Temnovidnost](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Regeneracija (1 HP/krog)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Groza](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
+| Usmeritev | Zlo 52%, Sovražijo dobre velikane 57% |
+| Oklep | 3 (Debela, gumijasta koža) |
+| Veščine | Atletika 68%, Moč 90%, Vzdržljivost 90%, Izmikanje 62%, Jeziki (Trolski) 53%, Lokalno znanje 48%, Zaznavanje 60% (vid in vonj), Preživetje 66%, Sledenje 64%, Volja 52% |
+| Bojna veščina | 78% - Ugriz, Kremplji |
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Kremplji | L | 1d8+1d10 | Kot lokacija | Krvavenje |
+| Kremplji | L | 1d8+1d10 | Kot lokacija | Krvavitev |
 | Zobje | L | 1d6+1d10 | Kot lokacija | |
 
 
@@ -428,31 +429,31 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ---
 
-### Zombi (½ ranga)
+### Zombi (Rang ½)
 
-[Vnos MEG](https://mythras.skoll.xyz/enemy_template/11835/)
+[MEG vnos](https://mythras.skoll.xyz/enemy_template/11835/)
 
-| Bitje | Zombi (½ ranga) |
+| Bitje | Zombi (Rang ½) |
 | :-- | :-- |
-| Lastnosti | STR 14, CON 14, SIZ 13, DEX 9, INS 8, POW 6 |
+| Značilnosti | MOČ 14, VZD 14, VEL 13, SPR 9, INT 8, ENE 6 |
 | Akcijske točke | 2 | 
 | Modifikator škode | +1d2 |
 | Iniciativa | +7 (9) |
 | Magične točke | 6 |
 | Premik | 15' |
-| Sposobnosti | [Imunost (strah, spanje in urok)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Nemrtvi (intenziteta proti odganjanju: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
-| Uravnanost | Brez |
+| Sposobnosti | [Odpornost (Strah, Spanec in Čar)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Nemrtvi (Intenzivnost proti obrnitvi: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
+| Usmeritev | Nobena |
 | Oklep | Prsni koš in trebuh 5 (verižni oklep), glava in okončine 0 |
-| Veščine | Atletika 53%, Moč 57%, Vzdržljivost 58%, Izmikanje 48%, Zaznavanje 44%, Neporočen boj 53%, Volja 42% |
-| Bojna veščina | 53% - pesti, kij |
+| Veščine | Atletika 53%, Moč 57%, Vzdržljivost 58%, Izmikanje 48%, Zaznavanje 44%, Neboroženo 53%, Volja 42% |
+| Bojna veščina | 53% - Pesti, Kij |
 
 
 #### Podrobnosti orožja
 
 | Orožje | Velikost | Škoda | AP/HP | Posebno |
 | :-- | :-: | :--: | :--: | :-- |
-| Pesti | S | 1d3+1d2 | Kot lokacija | Bliskavost |
-| Kij | M | 1d6+1d2 | 4/5 | Udar, Ošamuti lokacijo |
+| Pesti | S | 1d3+1d2 | Kot lokacija | Bliskovito zaporedje |
+| Kij | M | 1d6+1d2 | 4/5 | Udar s ščitom, Omotičnost lokacije |
 
 #### Lokacije zadetkov in oklep
 
@@ -471,235 +472,231 @@ Rang označuje približen izziv zadevnega bitja in je podoben, a *ni* enak likov
 
 ## Sposobnosti bitij
 
-Sposobnost bitja je nekaj, kar lahko izvaja naravno zaradi svoje fiziologije, biologije, prirojene magije in tako naprej. Ptice na primer lahko plapolajo po zraku, zato je letenje sposobnost.
+Sposobnost bitja je nekaj, kar lahko stori naravno zaradi svoje fiziologije, biologije, prirojene magije in tako naprej. Ptice, na primer, lahko mahajo s krili po zraku, zato je letenje sposobnost.
 
-Vsaka od naslednjih sposobnosti je opisana glede na njene učinke v igri in kako lahko vpliva na interakcije z drugimi. Vse te sposobnosti niso prikazane pri vključenih vzorčnih bitjih, vendar prikazujejo, kako se lahko navidez vsakdanja bitja spremenijo v nekaj edinstvenega, zahtevnega ali prav zastrašujočega. Kot vodilo velja, da imajo bitja lahko do tri sposobnosti, ki so primerne za njihovo naravo in okolje. Demonska pajkovka bi lahko na primer imela oprijemanje, demon, grabežljivka in vampirske lastnosti.
+Vsaka od naslednjih sposobnosti je opisana v smislu njenih učinkov na igro in kako lahko vpliva na interakcije z drugimi. Niso vse te sposobnosti prikazane pri zagotovljenih vzorčnih bitjih, vendar prikazujejo, kako se lahko na videz vsakdanja bitja spremenijo v nekaj edinstvenega, zahtevnega ali naravnost grozljivega. Kot pravilo, naj imajo bitja do tri sposobnosti, ki so primerne za njihovo naravo in okolje. Demonska pajkovka bi na primer lahko imela Lepljivost, Demon, Grappler in Vampirsko sposobnost.
 
-#### Oprijemanje
+#### Lepljivost
 
-Bitje se lahko prosto giblje po navpičnih površinah in celo na glavo po stropu brez posebne opreme. Takšno gibanje vedno poteka z polovico normalne hitrosti gibanja bitja.
+Bitje se lahko prosto premika po navpičnih površinah in celo premika z glavo navzdol po stropu brez posebne opreme. Takšno premikanje je vedno s polovico običajne hitrosti premikanja bitja.
 
-#### Vodno bitje
+#### Vodno
 
-Bitje diha vodo namesto zraka, običajno ima škrge ali kožo, ki lahko neposredno vpija raztopljen zrak. Če jih vzamete iz vode in pustite, da se njihovi dihalni organi izsušijo, se začnejo dušiti po številu minut, ki je enako njihovi vrednosti CON, če ostanejo pasivni, ali polovico tega časa, če se premikajo ali borijo.
+Bitje diha vodo namesto zraka, običajno ima škrge ali kožo, ki lahko neposredno absorbira raztopljeni zrak. Če ga vzamete iz vode in pustite, da se njegovi dihala izsušijo, začne dušiti po številu minut, ki so enake njegovi VZD, če ostane pasivno, ali polovico tega časa, če se premika ali bori.
 
-#### Zaznavanje krvi
+#### Vonj po krvi
 
-Bitju omogoča, da zazna kri na velikih razdaljah, bodisi da jo nosi veter ali voda. Sledi krvi lahko zazna na razdalji polovice svoje vrednosti INS v miljah.
+Bitju omogoča zaznavanje krvi na velikih razdaljah, bodisi po vetru ali vodi. Sledi krvi se lahko zaznajo na razdalji polovice njegovega INT v miljah.
 
-#### Dihanje plamena
+#### Ognjeni dih
 
-Bitje kot bojno akcijo izdiha plamen nad območjem. Plamen pokriva stožec pred bitjem, ki se razteza za njegovo vrednost CON x 5 čevljev. Na najbolj oddaljeni točki je širina stožca enaka njegovi dolžini. Vsako bitje, ki ga zajame plamen, utrpi škodo na vseh lokacijah zadetkov, čeprav lahko lik poskusi izmikanje, da prepolovi to škodo. Točke oklepa štejejo kot običajno, razen če ni navedeno drugače.
+Bitje izdihne ogenj čez območje kot bojno dejanje. Ogenj pokriva stožec pred bitjem, ki se razteza za njegovo VZD x 5 čevljev. Na najdaljšem obsegu je širina stožca enaka njegovi dolžini. Vsako bitje, ujeto v ogenj, utrpi škodo na podlagi ognja na vseh lokacijah zadetkov, čeprav lahko karakter poskusi z izmikanjem prepoloviti to škodo. Točke oklepa štejejo normalno, razen če ni navedeno drugače.
 
-Bitje lahko diha plamen samo enkrat v določenem časovnem obdobju (običajno enkrat na uro ali enkrat na dan). Nadaljnji poskusi dihanja plamena v tem času zahtevajo, da bitje opravi met za vzdržljivost, pri čemer postane vsak met težji za eno stopnjo, sicer utrpi raven utrujenosti.
+Bitje lahko izdihne ogenj le enkrat v določenem časovnem obdobju (običajno enkrat na uro ali enkrat na dan). Nadaljnji poskusi dihanja ognja v tem času zahtevajo, da bitje opravi met za vzdržljivost, pri čemer vsak met postane težji za eno stopnjo, ali pa utrpi stopnjo utrujenosti.
 
-#### Kopanje
+#### Rovar
 
-Bitje je vešče tuneliranja skozi zemljo s svojo običajno hitrostjo gibanja. Nekatera bitja so omejena pri vrsti tal, skozi katera se lahko premikajo, kar je zabeleženo v opisu bitja.
+Bitje je vešče tuneliranja skozi zemljo s svojo običajno hitrostjo premikanja. Nekatera bitja so omejena pri vrsti tal, skozi katera se lahko premikajo, kar je navedeno v opisu bitja.
 
 #### Kamuflirano
 
-Bitje je vešče skrivanja zaradi svoje obarvanosti ali nenavadne površinske teksture. Tisti, ki poskušajo opaziti bitje, utrpijo kazen k zaznavanju za dve stopnji težavnosti.
+Bitje je vešče skrivanja zaradi svoje barve ali nenavadne teksture površine. Tisti, ki poskušajo opaziti bitje, utrpijo kazen k zaznavanju za dve težavnostni stopnji.
 
-#### Črpanje lastnosti
+#### Črpanje značilnosti
 
-Bitje ima prirojeno sposobnost črpanja začasnih točk lastnosti od tarče svojih napadov. Vrsta napada, prizadeta lastnost in način upiranja črpanju so podrobno opisani v opisu bitja.
+Bitje ima prirojeno sposobnost črpanja začasnih točk značilnosti od tarče svojih napadov. Vrsta napada, prizadeta značilnost in kako se upreti učinku črpanja so podrobno opisani v opisu bitja.
 
 #### Hladnokrvnost
 
-Bitje ne potrebuje pogostega hranjenja. En obrok na teden zadošča, da ostane zdravo in dobro nahranjeno, požiranje velike količine mesa pa bo odstranilo potrebo po hrani za mesec dni. Nasprotno, ko je izpostavljeno temperaturam pod 60 stopinjami Fahrenheita (približno 15°C), postanejo njegovi refleksi zmanjšani, kar povzroči kazen -6 k iniciativi in izgubo ene bojne akcije na krog. Pod 40 stopinjami Fahrenheita (približno 4°C) postanejo hladnokrvna bitja popolnoma omotična in padejo v nemočno katatonično stanje.
+Bitje ne potrebuje pogostega prehranjevanja. En obrok na teden zadostuje, da ostane zdravo in dobro nahranjeno, in če se naje velike količine mesa, bo odstranilo potrebo po hranjenju za mesec dni. Nasprotno, ko je izpostavljeno temperaturam pod 60 stopinj Fahrenheita, postanejo njegovi refleksi zadušeni, utrpi kazen -6 k iniciativi in izgubo ene bojne akcije na krog. Pod 40 stopinjami Fahrenheita postanejo hladnokrvna bitja popolnoma otrpla in vstopijo v nemočnem katatoničnem stanju.
 
-#### Temni vid
+#### Temnovidnost
 
-Bitju omogoča, da normalno vidi v popolni odsotnosti svetlobe.
+Bitju omogoča, da vidi normalno v popolni odsotnosti svetlobe.
 
 #### Zaznavanje smrti
 
-Bitje, uglašeno z močmi smrti, lahko zazna smrt živih bitij in mrtvo meso na razdalji do polovice svoje vrednosti INT ali INS v miljah.
+Bitje je usklajeno z močmi smrti in lahko zazna smrt živih bitij ter mrtvo meso na razdalji do polovice svojega INT ali INT v miljah.
 
-#### Imunost na bolezni
+#### Odpornost na bolezni
 
-Bitje je imuno na vse bolezni. Vsa bitja brez SIZ samodejno posedujejo to sposobnost, čeprav ni posebej navedena v njihovih opisih.
+Bitje je imuno na vse bolezni. Vsa bitja brez VEL samodejno imajo to sposobnost, čeprav ni posebej navedena v njihovih opisih.#### Potapljajoči napad
 
-#### Potapljaški napad
-
-Nekatera bitja lahko strmoglavijo z neba ali se poženejo skozi vode, da napadejo svoj plen, pri čemer udarijo z neverjetno silo. To je dejansko polnjenje za bitja, ki niso kopenska. Potapljaški napad poveča velikost napada in modifikator škode bitja za eno stopnjo, samo za ta napad. Potapljaški napad se lahko uporabi samo enkrat na krog. Bitje mora biti vsaj en cel krog gibanja nad svojo tarčo (ali morda pod njo, če je potopljeno), da lahko uporabi potapljaški napad.
+Nekatera bitja se lahko s strmoglavljenjem z neba ali vdorom skozi vodo poženejo na svoj plen in ga napadejo z neverjetno silo. To je v bistvu juriš za bitja, ki niso kopenska. Potapljajoči napad poveča tako velikost napada kot tudi modifikator škode bitja za eno stopnjo, vendar samo za ta napad. Potapljajoči napad se lahko uporabi le enkrat na rundo. Bitje mora biti za izvedbo potapljajočega napada vsaj eno polno rundo gibanja nad svojo tarčo (ali morda pod njo, če je potopljeno).
 
 #### Zaznavanje zemlje
 
-Nekatera bitja so tako uglašena s podzemnim svetom, da lahko popolnoma delujejo v popolni temi globin. Z zaznavanjem vibracij in zračnega tlaka se lahko bitje z zaznavanjem zemlje bori in izvaja mete zaznavanja brez kazni, dokler tarča ni dlje kot njihova vrednost INS x 5 čevljev. Pri uporabi zaznavanja zemlje nad tlemi se doseg prepolovi.
+Nekatera bitja so tako uglašena s podzemnim svetom, da lahko popolnoma delujejo v popolni temi globin. Z zaznavanjem vibracij in zračnega tlaka lahko bitje z zaznavanjem zemlje brez kazni bije bitke in opravlja mete za zaznavanje, dokler tarča ni oddaljena več kot INT x5 čevljev. Če se zaznavanje zemlje uporablja nad zemljo, se doseg prepolovi.
 
 #### Eholokacija
 
-Bitje zaznava svoje okolje skozi odseve zvočnih valov. To pomeni, da lahko zazna druge, ki so bodisi negibni bodisi skriti. V takšnih okoliščinah je uporaba meta za prikradanje, da bi ostali nezaznani s strani bitja, dve stopnji težja.
+Bitje zaznava svojo okolico prek odbojev zvočnih valov. To pomeni, da lahko zazna druge, ki so lahko negibni ali skriti. V takšnih okoliščinah je uporaba meta za prikritost, da bi poskušali ostati nezaznavni za bitje, dve stopnji težja.
 
 #### Požiranje
 
-Bitje ima odprtino, ki lahko pogoltne tarče cele. Največja velikost pogoltnjene žrtve se izračuna kot polovica SIZ bitja, vendar je lahko manjša, odvisno od fiziologije bitja. Ko je žrtev pogoltnjena, utrpi vsaj en met za škodo na podlagi ugriza bitja, preden je pogoltnjena – čas, porabljen za žvečenje, je odvisen od bitja in od tega, kako občutljivi so njegovi notranji organi. Če je še živa, se bo pogoltnjena žrtev začela dušiti in verjetno umrla zaradi zadušitve, preden utrpi kakršno koli opazno škodo od želodčne kisline. Realno gledano pogoltnjeni žrtvi manjka mobilnosti za premikanje znotraj prebavnega trakta ali pa je bitje tako veliko, da bodo umrli dolgo preden se lahko prebijejo ven.
+Bitje ima odprtino, ki lahko pogoltne tarče v celoti. Največja velikost pogoltnjene žrtve se izračuna kot polovica lastne VEL bitja, vendar je lahko odvisno od fiziologije bitja manjša. Ko je žrtev pogoltnjena, utrpi vsaj en met za škodo, ki temelji na ugrizu bitja, preden je dokončno pogoltnjena – čas žvečenja je odvisen od bitja in občutljivosti njegovih notranjih organov. Če je žrtev še živa, se začne dušiti in verjetno umre zaradi pomanjkanja kisika, preden utrpi kakršno koli opazno škodo zaradi želodčne kisline. Realno gledano pogoltnjeni žrtvi primanjkuje gibljivosti, da bi se premikala znotraj prebavnega trakta, ali pa je bitje tako veliko, da bo žrtev umrla dolgo preden si bo lahko izrezala pot ven.
 
 #### Letenje
 
-Bitje samodejno uspeva pri vsakdanjem gibanju in manevriranju med letenjem in mu ni treba metati svoje veščine letenja, razen če poskuša nenavadno težko nalogo, kot je letenje proti močnemu vetru, izmikanje napadu na daljavo v zraku ali prehitevanje zračnega nasprotnika. Letalec lahko zamenja veščino letenja (osnova STR+DEX) za izmikanje, ko se bori med letenjem.
+Bitje samodejno uspeva pri vsakodnevnem premikanju in manevriranju med letenjem in mu ni treba metati za spretnost letenja, razen če poskuša izvesti nenavadno težko nalogo, kot je letenje proti močnemu vetru, izogibanje napadu na daljavo v zraku ali manevriranje pred zračnim nasprotnikom. Letalec lahko pri boju v zraku nadomesti spretnost letenja (osnova MOČ+SPR) z izmikanjem.
 
-#### Močno naravno orožje
+#### Mogočno naravno orožje
 
-To bitje lahko aktivno parira ali odbija napade z uporabo svojih naravnih orožij. To je posledica kombinacije bojnega stila in posedovanja naravne oborožitve, oblikovane iz odpornih snovi, kot so rog, hitin ali kost, ki lahko prenesejo škodo od izdelanega orožja. Upoštevajte, da se bitja, ki nimajo te lastnosti, bodisi zanašajo na svoj naravni oklep, da odbijejo udarce, ali uporabljajo izmikanje.
+To bitje lahko aktivno parira ali odbija napade s svojimi naravnimi orožji. To je posledica kombinacije bojnega sloga in posedovanja naravne oborožitve, ki je oblikovana iz odpornih snovi, kot so rog, hitin ali kost, ki lahko preživijo škodo zaradi izdelanega orožja. Upoštevajte, da se bitja, ki nimajo te lastnosti, zanašajo na svoj naravni oklep, da odbijejo udarce, ali pa uporabljajo izmikanje.
 
-#### Bes
+#### Besnenje
 
-Ko je ranjeno ali izpostavljeno določeni snovi – na primer krvi – mora bitje uspešno opraviti met za voljo ali pasti v bes. Bes traja toliko krogov, kolikor je bitjevo CON. Med besom mora porabiti bojne akcije samo za napad ali premikanje proti boju. Čaranje, pariranje, izmikanje in vse ostalo je prepovedano; vse misli na samoohranitev so odplavljene v rdeči megli. V zameno bitje ne trpi več bolečine ali utrujenosti in je neobčutljivo na mentalni nadzor. V tem času je imuno na vse škodljive učinke resnih ran, čeprav bo velika rana še vedno onemogočila. Če je še živo, ko se bes konča, bitje samodejno pridobi raven utrujenosti, utrujenost.
+Ko je bitje ranjeno ali izpostavljeno določeni snovi – na primer krvi – mora uspešno opraviti met za moč volje, sicer zapade v besnenje. Besnenje traja toliko rund, kolikor znaša VZD bitja. Med besnenjem lahko bojne akcije porabi le za napadanje ali premikanje proti boju. Čaranje, pariranje, izmikanje in karkoli drugega je prepovedano; vse misli o samoohranitvi so izprane v rdeči meglici. V zameno bitje ne čuti več bolečine ali utrujenosti in je imuno na nadzor uma. V tem času je imuno na vse škodljive učinke hudih ran, čeprav ga lahko glavna rana še vedno onesposobi. Če je bitje še živo, ko se besnenje konča, samodejno pridobi stopnjo utrujenosti "izčrpan".
 
 #### Napad s pogledom
 
-Bitje ima napad s pogledom. Ta napad je lahko aktiven (bitje mora zavestno porabiti akcijsko točko na svojem potezi, da ga uporabi na nasprotniku) ali pasiven (vsakdo, ki pogleda bitje, je prizadet), kot je navedeno v opisu bitja.
+Bitje ima napad s pogledom. Ta napad je lahko aktiven (bitje mora zavestno porabiti akcijsko točko na svoji potezi, da ga uporabi na nasprotniku) ali pasiven (vsak, ki pogleda bitje, je prizadet), kot je navedeno v opisu bitja.
 
-#### Grabežljivka
+#### Zgrabitelj
 
-Če bitje uspešno udari v boju, lahko takoj zgrabi poleg povzročanja škode. Če je bil napad bitja pariran (ali bitje samo parira), potem bitje prejme učinek oprijema proti okončini nasprotnika ali učinek zatiča orožja proti njegovemu orožju. Bitje vedno uporablja svojo veščino moči, da nasprotuje žrtvi, ki se poskuša osvoboditi.
+Če bitje v boju uspešno udari, lahko poleg povzročene škode takoj izvede zgrabitev. Če je bil napad bitja pariran (ali če bitje samo parira), se bitju podeli učinek prijema proti okončini nasprotnika ali učinek pribijanja orožja proti njegovemu orožju. Bitje vedno uporablja svojo spretnost za moč telesa, da nasprotuje žrtvi, ki se poskuša osvoboditi.
 
 #### Zadrževanje diha
 
-Bitje lahko zadrži dih za daljša časovna obdobja. Če je pripravljeno in ostane precej statično, lahko bitje zadrži dih za število minut, ki je enako njegovi vrednosti CON. To obdobje se prepolovi, če je bitje aktivno, na primer pri plavanju ali boju.
+Bitje lahko zadrži dih za daljša časovna obdobja. Če je pripravljeno in ostane dokaj statično, lahko bitje zadrži dih za število minut, ki je enako njegovi VZD. To obdobje se prepolovi, če je bitje aktivno, na primer med plavanjem ali bojem.
 
-#### Imunost
+#### Imuniteta
 
-Bitje je popolnoma imuno na škodo, ki jo povzroči ena vrsta vira. Ta vir (mraz, ogenj, železo itd.) bo zabeležen v seznamu bitja, vendar bo za nekatere bolj specifične imunosti morda potreben narativni opis.
+Bitje je popolnoma imuno na škodo, ki jo povzroči ena vrsta vira. Ta vir (mraz, ogenj, železo itd.) bo naveden v seznamu bitja, vendar bo morda za nekatere bolj specifične imunitete potreben opisni komentar.
 
 #### Zastraševanje
 
-Bitje lahko ustrahuje nasprotnike kot uvod v boj ali da se mu popolnoma izogne: godrnjanje, renčanje, spuščanje rogov in tako naprej. Nasprotniki morajo opraviti ne-nasprotni met za voljo, da obdržijo svoj položaj; uspeh omogoči liku, da obdrži svoj položaj, medtem ko neuspeh pomeni, da mora naslednji krog instinktivno povečati razdaljo med seboj in bitjem. Če zgreši met za voljo, potem lik pobegne z največjo hitrostjo. Kritični uspeh omogoči liku, da prezre kakršne koli nadaljnje poskuse ustrahovanja s strani bitja ali njegovih bratov med tem srečanjem. Učinek traja, dokler bitje še naprej deluje na zastrašujoč način, kar vključuje izvedbo napada.
+Bitje lahko ustrahuje nasprotnike kot predigro boju ali da se mu popolnoma izogne: renčanje, šklepetanje, spuščanje rogov in podobno. Nasprotniki morajo opraviti neuvrščen met za moč volje, da obdržijo svoj položaj; uspeh omogoči liku, da stoji na svojem mestu, medtem ko neuspeh pomeni, da mora naslednjo rundo instinktivno povečevati razdaljo med seboj in bitjem. Če pri metu za moč volje naredi napako, lik zbeži z največjo hitrostjo. Kritični uspeh omogoči liku, da ignorira vse nadaljnje poskuse ustrahovanja s strani bitja ali njegovih bratov med tem srečanjem. Učinek traja, dokler bitje še naprej deluje na grozeč način, kar vključuje tudi izvedbo napada.
 
-#### Skakalec
+#### Skačevec
 
-Bitje uporablja [skakalne napade](0008_Combat.md?id=leaping-attacks), kot je opisano v poglavju [Boj](0008_Combat.md), vendar lahko združi skok s fizičnim napadom, kot je krempelj ali ugriz. Če bitje, ki skače, zmaga v nasprotnem metu za skakalni napad, samodejno povzroči škodo z enim od svojih naravnih orožij na tarči. Te škode ni mogoče parirati, razen s pasivnim blokiranjem.
+Bitje uporablja [Skakalne napade](0008_Combat.md?id=leaping-attacks), kot je opisano v poglavju [Boj](0008_Combat.md), vendar lahko skok združi s fizičnim napadom, kot sta krempelj ali ugriz. Če skačoče bitje zmaga v nasprotnem metu za skakalni napad, samodejno povzroči škodo z enim od svojih naravnih orožij na tarčo. Te škode ni mogoče parirati, razen s pasivnim blokiranjem.
 
 #### Zaznavanje življenja
 
-To bitje, uglašeno z ritmi narave, lahko določi vitalnost katerega koli živega bitja samo z dotikom. Če bitje opravi uspešen met za zaznavanje, izve za trenutne poškodbe tarče, raven utrujenosti in ali je trenutno prizadeta zaradi kakršnega koli strupa ali bolezni. Bitje se zaveda tudi kakršne koli oblike življenja na razdalji čevljev, ki je enaka trikratniku njegove veščine volje, kar lahko oteži prikradanje.
+To bitje, uglašeno z ritmi narave, lahko določi vitalnost katerega koli živega bitja samo z dotikom. Če bitje uspešno opravi met za zaznavanje, izve za trenutne poškodbe tarče, stopnjo utrujenosti in ali trenutno trpi zaradi kakršnega koli strupa ali bolezni. Bitje se prav tako zaveda kakršne koli oblike življenja znotraj razdalje v čevljih, ki je enaka trikratni vrednosti njegove spretnosti za moč volje, kar lahko oteži prikritost.
 
 #### Občutljivost na svetlobo
 
-Tisti, ki trpijo zaradi občutljivosti na svetlobo, ugotovijo, da so vsi meti za veščine pri dnevni svetlobi težji za eno stopnjo težavnosti.
+Tisti, ki trpijo zaradi občutljivosti na svetlobo, imajo pri vseh metih za spretnosti pri dnevni svetlobi eno stopnjo težavnosti več.
 
 #### Zaznavanje magije
 
-Podobno zaznavanju življenja, vendar bitju omogoča, da zazna magične emanacije na istih razdaljah. Če se bitje dotakne drugega in opravi uspešen met za zaznavanje, izve za trenutne magične točke tarče, nošene očarane predmete in aktivne uroke.
+Podobno kot zaznavanje življenja, vendar bitju omogoča zaznavanje magičnih emanacij na enakih razdaljah. Če se bitje dotakne drugega in uspešno opravi met za zaznavanje, izve za trenutne točke magije tarče, nošene uroke in aktivne uroke.
 
-#### Večglavo bitje
+#### Večglavo
 
-Bitje pridobi dodatno bojno akcijo za vsako dodatno glavo, ki jo ima poleg prve. Te se izgubijo, ko je posamezna glava onemogočena ali odrezana. Pod pogojem, da ena glava ostane aktivna, lahko bitje še vedno nadzoruje svoje skupno telo. Ko se večglavo bitje upira urokoma, ki vplivata na čustva ali intelekt, vrže posamezne rešilne mete za vsako še nedotaknjeno glavo.
+Bitje pridobi dodatno bojno akcijo za vsako dodatno glavo poleg prve. Te se izgubijo, ko je vsaka posamezna glava onesposobljena ali odsekana. Pod pogojem, da ena glava ostane aktivna, lahko bitje še vedno nadzoruje svoje skupno telo. Ko se večglavo bitje upira urokom, ki vplivajo na čustva ali intelekt, vrže posamezne mete za vsako še nepoškodovano glavo.
 
-#### Večokončinsko bitje
+#### Večokončinsko
 
-Podobno kot pri večglavem bitju, pridobi dodatno bojno akcijo za vsak dodaten par okončin (poleg prvega), ki jih lahko uporabi med bojem – tiste, ki se običajno uporabljajo za držanje ali premikanje bitja, ne štejejo. Te dodatne bojne akcije se lahko uporabijo le za izvajanje dejanj s temi specifičnimi okončinami in se izgubijo, ko je vsak par imobiliziran ali onemogočen.
+Podobno kot pri večglavosti, bitje pridobi dodatno bojno akcijo za vsak dodaten par okončin (poleg prvega), ki jih lahko uporabi med bojem – tiste, ki se običajno uporabljajo za držanje ali premikanje bitja, se ne štejejo. Te dodatne bojne akcije se lahko uporabijo le za izvajanje dejanj s temi specifičnimi okončinami in se izgubijo, ko je vsak par imobiliziran ali onesposobljen.
 
 #### Nočni vid
 
 Omogoča bitju, da delno temo obravnava kot osvetljeno, temo pa kot delno temo.
 
-#### Imunost na strup
+#### Imuniteta na strup
 
-Bitje je imuno na vse strupe. Vsa bitja brez SIZ samodejno posedujejo to lastnost, čeprav ni posebej navedena v njihovih opisih.
+Bitje je imuno na vse strupe. Vsa bitja brez VEL samodejno posedujejo to lastnost, čeprav ni posebej navedena v njihovih opisih.
 
 #### Regeneracija
 
-Bitje lahko regenerira točke zadetkov, izgubljene zaradi škode. Hitrost regeneracije se razlikuje glede na bitje. Razen če ni posebej navedeno, regeneracija ne nadomesti izgubljenih okončin in odrezanje vitalne lokacije (glava, prsni koš ali trebuh) bo še vedno povzročilo smrt.
+Bitje lahko regenerira zadetne točke, izgubljene zaradi škode. Hitrost regeneracije se razlikuje glede na bitje. Če ni posebej navedeno, regeneracija ne nadomesti izgubljenih udov in odsek vitalnega mesta (glava, prsi ali trebuh) bo še vedno povzročil smrt.
 
 #### Plavalec
 
-Bitje samodejno uspeva pri vsakdanjem gibanju in manevriranju med plavanjem in mu ni treba metati svoje veščine plavanja, razen če poskuša nenavadno težko nalogo, kot je plavanje proti močnemu plimovanju ali skakanje čez slap. Plavalec lahko zamenja veščino plavanja za mete atletike in izmikanja v vodi.
+Bitje samodejno uspeva pri vsakodnevnem premikanju in manevriranju med plavanjem in mu ni treba metati za spretnost plavanja, razen če poskuša izvesti nenavadno težko nalogo, kot je plavanje proti močnemu toku ali skakanje čez slap. Plavalec lahko pri plavanju nadomesti spretnost plavanja z atletiko in izmikanjem.
 
-#### Groza
+#### Grozljivo
 
-Videz, oblika ali aura bitja sta tako grozljiva, da prisili opazovalce, da opravijo ne-nasprotni met za voljo. Uspeh kaže, da je opazovalec pretresen za en krog in ne more ravnati ofenzivno. Neuspeh povzroči, da pobegnejo v terorju. Zgrešen met povzroči, da se opazovalec zaradi šoka zruši v nezavest. Le kritični uspeh omogoči opazovalcu, da ravna neovirano. Opazovalcu ni treba opraviti nobenih nadaljnjih preverjanj do konca boja, tudi če je prisotnih več istih bitij. Večkratna izpostavljenost določeni vrsti grozljive pošasti lahko sčasoma omogoči, da preverjanje veščine postane za eno ali več stopenj lažje.
+Videz, oblika ali aura bitja sta tako grozljiva, da prisili opazovalce k neuvrščenemu metu za moč volje. Uspeh pomeni, da je opazovalec za eno rundo pretresen in ne more delovati napadalno. Neuspeh povzroči, da zbeži v grozi. Napaka povzroči, da se opazovalec od šoka sesede v nezavest. Samo kritični uspeh omogoči opazovalcu, da deluje neovirano. Opazovalcu do konca boja ni treba več opravljati nobenih dodatnih preverjanj, tudi če je prisotnih več istih bitij. Večkratna izpostavljenost določeni vrsti grozljive pošasti lahko sčasoma omogoči, da preverjanje spretnosti postane za eno ali več stopenj lažje.
 
-#### Trampanje
+#### Poteptanje
 
-Bitje lahko potepta bitja s SIZ, ki je enaka polovici ali manj od njegove lastne, pri čemer uporablja svojo veščino atletike za napad. To povzroči škodo, enako dvakratniku osnovnega modifikatorja škode bitja, in poveča velikost napada za eno stopnjo. Kako in kdaj se uporabi trampanje, je odvisno od okoliščin. Če je bitje negibno, lahko na svojem potezu potepta nasprotnika, ki leži, vendar to stane eno akcijsko točko. Če se trampanje izvede medtem, ko se bitje premika ali polni čez nasprotnika, potem je trampanje prosta akcija.
+Bitje lahko potepta bitja z VEL, ki je enaka polovici ali manj od njegove lastne, pri čemer uporabi svojo spretnost atletike za napad. To povzroči škodo, ki je enaka dvakratniku osnovnega modifikatorja škode bitja in poveča velikost napada za eno stopnjo. Kako in kdaj se uporabi poteptanje, je odvisno od okoliščin. Če je bitje negibno, lahko na svoji potezi potepta nasprotnika, ki leži, vendar to stane akcijsko točko. Če se poteptanje izvede med premikanjem ali jurišanjem čez nasprotnika, je poteptanje prosta akcija.
 
 #### Nemrtvi
 
-Ker so že mrtvi, so imuni na posledice utrujenosti in hudih poškodb. Nemrtvi so tako imuni na vse škodljive učinke resnih ran. Celo velike rane jih ne onemogočijo, čeprav jim lahko lokacije še vedno odrežejo ali razbijejo, kot običajno. Obravnavajte glavo ali prsni koš nemrtega bitja kot območje, kjer je bil vezan duh ali magija. Vsaka lokacija (in tiste, ki so z njo povezane), ki je razbita ali odrezana od vezanega območja, preneha delovati, vendar lahko preostanek telesa nadaljuje, če ima še vedno okončine, s katerimi lahko deluje. Velika rana na magično prežetem območju nemrtvega takoj uniči. Samo popolnoma telesna mrtva bitja lahko posedujejo lastnost nemrtvih.
+Ker so že mrtvi, so bitja imuna na posledice utrujenosti in hudih poškodb. Nemrtvi so tako imuni na vse škodljive učinke hudih ran. Celo glavne rane jih ne onesposobijo, čeprav jim lahko še vedno odsekajo ali zdrobijo dele telesa kot običajno. Obravnavajte glavo ali prsni koš nemrtvega bitja kot območje, kjer je vezan duh ali magija. Katero koli območje (in tisto, ki je povezano z njim), ki je zdrobljeno ali odsekano od vezanega območja, preneha delovati, vendar preostanek telesa lahko nadaljuje, če ima še vedno okončine, s katerimi lahko deluje. Glavna rana na magično prežetem območju nemrtvega bitja popolnoma uniči. Samo popolnoma telesna mrtva bitja lahko posedujejo lastnost nemrtvih.
 
-#### Vampirske lastnosti
+#### Vampirsko
 
-Bitje izčrpa kri svoje žrtve, kar povzroči povečanje ravni utrujenosti. Bitje mora uporabiti napad z ugrizom in povzročiti škodo z ugrizom, da lahko izčrpa kri s hitrostjo, ki je opisana v opisu bitja.
+Bitje izpije kri svoje žrtve, kar povzroči povečanje stopenj utrujenosti. Bitje mora uporabiti napad z ugrizom in z ugrizom povzročiti škodo, da lahko črpa kri s hitrostjo, opisano v opisu bitja.
 
-#### Strupenost
+#### Strupeno
 
-Bitje ima strupen ugriz, pik ali drugo sredstvo za napad.
+Bitje ima strupen ugriz, pik ali drugo obliko napada.
 
-#### Zamahnitev s krili
+#### Udarec s krili
 
-Bitje je tako veliko, da lahko poškoduje nasprotnike z zamahovanjem s krili. To zahteva akcijo napada in povzroči škodo, enako svojemu modifikatorju škode tistim v dosegu 10 čevljev od njegovih stranskih polj.
+Bitje je tako veliko, da lahko poškoduje nasprotnike z udarjanjem s svojimi krili. To zahteva napadalno akcijo in povzroči škodo, enako njegovemu modifikatorju škode tistim, ki so znotraj 10 čevljev od njegovih stranskih polj.
 
 ---
 ## Primeri osnovnih magičnih predmetov
 
-To je le majhen vzorec nekaterih bolj pogostih magičnih predmetov *Classic Fantasy Imperative*. Tisti s cenami, ki vključujejo \*, morajo vključiti strošek orožja ali oklepa v skupni znesek.
+To je le majhen vzorec nekaterih pogostejših magičnih predmetov _Classic Fantasy Imperative_. Tisti s cenami, ki vključujejo *, morajo vključiti ceno orožja ali oklepa v skupni znesek.
 
-#### Amulet Magice +1 ali +2 (250 ZN ali 500 ZN)
+#### Amulet magike +1 ali +2 (250 ZP ali 500 ZP)
 
-Ta amulet uporabniku zagotavlja dodatne magične točke, ki jih lahko uporabi za čaranje. Lik lahko v enem času črpa le iz enega predmeta, ki zagotavlja magične točke. Porabljene točke se ne regenerirajo naravno in jih mora zagotoviti čarodej, ne nujno lastnik amuleta.
+Ta amulet nudi uporabniku dodatne točke magije, ki jih lahko uporabi za čaranje urokov. Lik lahko hkrati črpa točke le iz enega predmeta, ki nudi točke magije. Porabljene točke se ne regenerirajo naravno in jih mora zagotoviti čarodej, ne nujno lastnik amuleta.
 
-#### Oklep +1 (500 ZN*)
+#### Oklep +1 (500 ZP*)
 
-Ta oklep je bil očaran, da izniči dodatno točko škode.
+Ta oklep je bil začaran, da izniči dodatno točko škode.
 
-#### Prstan Magice +1 ali +2 (250 ZN ali 500 ZN)
+#### Prstan magike +1 ali +2 (250 ZP ali 500 ZP)
 
-Ta prstan deluje v vseh pogledih kot Amulet Magice, kot je podrobno opisano zgoraj.
+Ta prstan deluje v vseh pogledih kot amulet magike, kot je opisano zgoraj.
 
-#### Prstan zaščite +1 (500 ZN)
+#### Prstan zaščite +1 (500 ZP)
 
-Prstan zaščite zagotavlja +1 točko oklepa, ko ga nosite. Poleg tega dodajte +5% bonus k metom za odpornost. Če se nosi z magičnim oklepom, velja le bonus, ki ga zagotavlja oklep. Vendar pa bonus za mete za odpornost ni negativno prizadet. Prstan zaščite se lahko nosi z nemagičnim oklepom brez kazni. Več prstanov zaščite se ne sešteva, prevlada le največji bonus.
+Prstan zaščite nudi +1 točko oklepa, ko je nošen. Poleg tega dodajte +5 % bonus k metom za odpornost. Če ga nosite z magičnim oklepom, velja le bonus, ki ga nudi oklep. Bonus, ki ga nudi za mete za odpornost, pa ni negativno prizadet. Prstan zaščite se lahko nosi z nemagičnim oklepom brez kazni. Več prstanov zaščite se ne sešteva, velja le največji bonus.
 
-#### Ščit +5% (250 ZN*)
+#### Ščit +5 % (250 ZP*)
 
-Ta ščit je bil okrepljen z magičnim očaranjem, s +5% bonusom k bojni veščini pri pariranju. Ta ščit ima +5 točk oklepa in +2 točki zadetka za ščit te vrste.
+Ta ščit je bil okrepljen z magičnim očaranjem, z +5 % bonusom k bojni spretnosti pri pariranju. Ta ščit ima +5 točk oklepa in +2 zadetni točki za ščit te vrste.
 
-#### Ščit +5%, +20% proti izstrelkom (500 ZN*)
+#### Ščit +5 %, +20 % proti izstrelkom (500 ZP*)
 
-Ta ščit je bil okrepljen z magičnim očaranjem, s +5% bonusom k bojni veščini pri pariranju blizu napada in +20% pri pariranju izstrelkov. Ta ščit ima +5 točk oklepa in +2 točki zadetka za ščit te vrste.
+Ta ščit je bil okrepljen z magičnim očaranjem, z +5 % bonusom k bojni spretnosti pri pariranju bliskovitega napada in +20 % pri pariranju izstrelkov. Ta ščit ima +5 točk oklepa in +2 zadetni točki za ščit te vrste.
 
-#### Ščit +10% (500 ZN*)
+#### Ščit +10 % (500 ZP*)
 
-Ta ščit je bil okrepljen z magičnim očaranjem, s +10% bonusom k bojni veščini pri pariranju. Ta ščit ima +10 točk oklepa in +4 točke zadetka za ščit te vrste.
+Ta ščit je bil okrepljen z magičnim očaranjem, z +10 % bonusom k bojni spretnosti pri pariranju. Ta ščit ima +10 točk oklepa in +4 zadetne točke za ščit te vrste.
 
-#### Orožje +1 (blizu 400 ZN*, daljava 500 ZN*)
+#### Orožje +1 (bliski boj 400 ZP*, na daljavo 500 ZP*)
 
-To orožje je bilo očarano, da povzroči +1 škode in ima +10 točk oklepa in +4 točke zadetka.
+To orožje je bilo začarano, da povzroči +1 škode, in ima +10 točk oklepa in +4 zadetne točke.
 
-#### Vreča držanja (500 ZN)
+#### Torba hrambe (500 ZP)
 
-Ta velika platnena vreča se odpre v žepno dimenzijo, saj je znotraj veliko večja kot zunaj, in jo je mogoče uporabiti za shranjevanje veliko več predmetov, kot bi jih običajno spravili v vrečo njene oblike in velikosti. Vreča je enaka 2 "stvarema" v teži, ne glede na njeno dejansko vsebino, in lahko shrani do 100 "stvari". To vrečo lahko nosite v drugem vsebniku in še vedno tehta le 2 "stvari", tudi ko je polna.
+Ta velika platnena vreča se odpira v žepno dimenzijo, saj je na notranji strani veliko večja kot na zunanji, in se lahko uporablja za shranjevanje veliko več predmetov, kot bi jih običajno spravili v torbo te oblike in velikosti. Torba je ne glede na dejansko vsebino po teži enaka 2 "stvarma" in lahko shrani do 100 "stvari". Ta torba se lahko nosi v drugi posodi in še vedno tehta le 2 "stvari", tudi ko je polna.
 
-#### Vilinski škornji (1000 ZN)
+#### Vilenjaški škornji (1000 ZP)
 
-Ti škornji iz mehkega usnja spreminjajo uporabnikovo sposobnost tihega premikanja ne glede na teren, celo hoja po suhem listju ali škripajočih deskah ne povzroči ničesar bolj opaznega od mehkega koraka. Uporabniku je zagotovljena veščina prikradanja 95%, na katero teren ne vpliva. Škornji ne zagotavljajo dodatnega bonusa tistim z veščino nad 95%, razen da jim omogočajo uporabo njihove običajne ravni veščine brez skrbi zaradi kazni terena.
+Ti škornji iz mehkega usnja spreminjajo uporabnikovo sposobnost tihega premikanja ne glede na teren; celo hoja po suhem listju ali škripajočih deskah ne povzroči ničesar bolj opaznega od mehkega koraka. Uporabniku je podeljena 95 % spretnost za prikritost, ki je teren ne spreminja. Škornji ne nudijo nobenega nadaljnjega bonusa glede tistih s spretnostjo nad 95 %, razen da jim omogočajo uporabo njihove običajne ravni spretnosti, ne da bi jih skrbele kazni zaradi terena.
 
-#### Napitek nevidnosti (50 ZN)
+#### Napoj nevidnosti (50 ZP)
 
-Ko ga popijete, ta napitek uporabniku podeli nevidnost za 1d4+2 minuti. Tako kot urok [Nevidnost](0010_Spells.md?id=invisibility), vsak napad, ki ga izvede prejemnik vsebine, takoj povzroči, da se subjekt spet pojavi. Druga dejanja, ki niso povezana z bojem, ki jih izvede tisti, ki napitek popije, na primer pogovor, hranjenje, tek, odpiranje vrat itd., nimajo nobenega vpliva na trajanje, ki je enako 1d4+2 minutama na zaužit odmerek. Tipičen napitek vsebuje dovolj za osem odmerkov.
+Ko ga popijete, ta napoj omogoči pivcu nevidnost za 1d4+2 minuti. Tako kot urok [Nevidnost](0010_Spells.md?id=invisibility), vsak napad, ki ga izvede prejemnik vsebine, povzroči, da se subjekt takoj znova prikaže. Druga neborbena dejanja, ki jih opravi pivec, na primer govorjenje, hranjenje, tek, odpiranje vrat itd., nimajo vpliva na trajanje, ki je enako 1d4+2 minuti na zaužit odmerek. Tipičen napoj vsebuje dovolj za osem odmerkov.
 
-#### Napitek levitacije (40 ZN)
+#### Napoj lebdenja (40 ZP)
 
-Tistemu, ki popije ta napitek, je podeljena sposobnost levitiranja navpično s hitrostjo 10 čevljev na krog. Uporabnik lahko nosi eno drugo osebo, če ima SIZ 20 ali manj. Čeprav se lik morda ne more premikati vodoravno pod vplivom tega uroka, se morda lahko vleče ob steni ali pečini z osnovno hitrostjo gibanja 10 čevljev na krog.
+Pivec tega napoja pridobi sposobnost navpičnega lebdenja s hitrostjo 10 čevljev na rundo. Pivec lahko nese eno drugo osebo, če ima VEL 20 ali manj. Čeprav se lik ne sme premikati vodoravno pod vplivom tega uroka, se lahko lik morda povleče ob steni ali pečini z osnovno hitrostjo gibanja 10 čevljev na rundo.
 
-#### Prstan (urok), 1. rang (1.000 ZN)
+#### Prstan (urok), rang 1 (1000 ZP)
 
-Ta prstan omogoča čaranje enega uroka 1. ranga. Ne glede na urok, vsi imajo trajajoče trajanje, pri čemer se urok samodejno sproži, ko si prstan nadenete, in traja, dokler ga ne snamete. Omejeni so na vrsto uroka, ki ga je mogoče očarati vanje, pri čemer so najpogostejši: zaznavanje magije, vzdrži toploto ali mraz, padec peresa, lebdeča plošča, nevidnost, levitacija, zaščita pred zlom (ali dobrim), počasni strup. Drugi so mogoči po presoji mojstra iger. Kar zadeva prstan nevidnosti, napad povzroči, da postane uporabnik viden za 1d3+1 krogov.
+Ta prstan omogoča izvedbo enega uroka ranga 1. Ne glede na urok imajo vsi trajno trajanje, saj se urok samodejno sproži, ko si prstan nadenete, in traja, dokler ga ne snamete. Omejeni so glede vrste uroka, ki se lahko vanje začara, najpogostejši pa so zaznavanje magije, vzdržljivost vročine ali mraza, padanje kot pero, lebdeči disk, nevidnost, lebdenje, zaščita pred zlom (ali dobrim), počasni strup. Drugi so možni po presoji mojstra igre. Glede prstana nevidnosti napad povzroči, da uporabnik postane viden za 1d3+1 rundo.
 
-#### Palica (urok), 1. rang (1.000 ZN)
+#### Palica (urok), rang 1 (1000 ZP)
 
-Ta palica vsebuje en urok, ki ga običajno lahko uporabljajo vsi liki ne glede na razred. Obstaja 50-odstotna možnost, da bo magična palica vsebovala urok čarodeja in 50-odstotna možnost kleriškega uroka. Palica vsebuje 90 nabojev in vsaka uporaba porabi število nabojev, enako običajnim stroškom čaranja uroka, ne glede na intenziteto. Na primer, palica bo čarala urok s stroškom čaranja "1/intenziteta" tako, da porabi en naboj, medtem ko bo urok s stroškom čaranja "3/intenziteta" porabil 3 naboje. To ne glede na dejansko intenziteto uroka, kot jo proizvaja predmet. Urok se čara z intenziteto in magnitudo 3 in uporabnika ne stane nobenih magičnih točk. Za dodatne informacije glejte ustrezni urok.
+Ta palica vsebuje en urok, ki ga običajno lahko uporabljajo vsi liki ne glede na razred. Obstaja 50 % možnosti, da bo magična palica vsebovala urok za čarodeja, in 50 % možnost, da urok za duhovnika. Palica ima 90 nabojev, vsaka uporaba pa porabi število nabojev, enako običajnim stroškom čaranja uroka, ne glede na intenzivnost. Na primer, palica bo izvedla urok s stroškom čaranja "1/intenzivnost" s porabo enega naboja, medtem ko bo urok s stroškom "3/intenzivnost" porabil 3 naboje. To ne glede na dejansko intenzivnost uroka, kot jo proizvede predmet. Urok se izvede z intenzivnostjo in magnitudo 3 in uporabnika ne stane nobenih točk magije. Za dodatne informacije glej ustrezni urok.
 
-#### Palica (urok), 1. rang (1.500 ZN)
+#### Palica (urok), rang 1 (1500 ZP)
 
-Za razliko od palice uroka, palica uroka vsebuje 60 nabojev in ima intenziteto in magnitudo 6. Vendar pa lahko palico uporablja le lik razreda, ki je sposoben čarati urok.
+Za razliko od čarobne palice za urok, palica za urok vsebuje 60 nabojev in ima intenzivnost in magnitudo 6. Vendar pa lahko palico uporablja le lik razreda, ki je sposoben izvesti ta urok.
 
-#### Osebje (urok), 1. rang (2.000 ZN)
+#### Osebje (urok), rang 1 (2000 ZP)
 
-Osebje uroka vsebuje 30 nabojev in ima intenziteto in magnitudo 9. Vendar pa lahko osebje uporablja le lik razreda, ki je sposoben čarati urok.
-
---- DOCUMENT END ---
+Osebje za urok vsebuje 30 nabojev in ima intenzivnost in magnitudo 9. Vendar pa lahko osebje uporablja le lik razreda, ki je sposoben izvesti ta urok.

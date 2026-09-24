@@ -1,42 +1,42 @@
-# Vedlegg: Monstre og skatter
+# Tillegg: Monstre og skatter
 
-Dette vedlegget inneholder et lite utvalg monstre og skatter i et forkortet format.
+Dette tillegget inneholder et lite utvalg monstre og skatter i et forkortet format.
 
-## Merknader om monster-rang (Rank)
+## Merknader om monster-rang
 
-Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men er _ikke_ lik, en karakters rang. Fire Rank 1-skapninger ville være en utfordring for fire Rank 1-karakterer. Det betyr ikke at det vil være en lik kamp, bare at det bør være en utfordring. For eksempel bør en gruppe på seks Rank 1-karakterer finne seks Rank 1-monstre som en utfordring, eller tolv Rank ½, eller tre Rank 2, eller et enkelt Rank 6-monster, og så videre. Det betyr ikke at de ikke kunne overleve en kamp mot et Rank 8-monster, eller at de ikke kunne bli ødelagt av et antall skapninger lik halvparten av deres egen rang. Slik er naturen ved tilfeldige terningkast. Det gir imidlertid et utgangspunkt for spillmestere (Games Masters) som lærer systemet. **En god tommelfingerregel er å velge monstre hvis rang er lik gruppens rang, pluss eller minus én**. På den måten møter ikke spillerne alltid på det samme antallet orker, troll, ogrer og så videre.
-
----
-## Eksempel på monstre
+Rang betegner en omtrentlig utfordring ved den aktuelle skapningen og ligner, men er _ikke_ lik, en karakters rang. Fire skapninger av rang 1 vil være en utfordring for fire karakterer av rang 1. Det betyr ikke at det vil bli en lik kamp, bare at det bør være en utfordring. For eksempel bør en gruppe på seks karakterer av rang 1 finne seks monstre av rang 1 utfordrende, eller tolv av rang ½, eller tre av rang 2, eller et enkelt monster av rang 6, og så videre. Det betyr ikke at de ikke kunne overleve en kamp mot et monster av rang 8, eller at de ikke kunne bli overvunnet av et antall skapninger tilsvarende halvparten av deres rang. Det er bare naturen til tilfeldige terningkast. Det gir imidlertid et utgangspunkt for spillmestere som lærer systemet. **En god tommelfingerregel er å velge monstre hvis rang er lik gruppens rang, pluss eller minus én**. På den måten slipper spillerne å alltid møte det samme antallet orker, troll, kjemper og så videre.
 
 ---
+## Eksempelmonstre
 
-### Bandit (Rank 1)
+---
 
-| Skapning | Bandit (Rank 1) |
+### Bandit (Rang 1)
+
+| Skapning | Bandit (Rang 1) |
 | :-- | :-- |
-| Egenskaper | STR 11, CON 11, SIZ 13, DEX 11, INT 13, POW 11, CHA 8 |
+| Karakteristikker | STY 11, UTH 11, STØ 13, FIN 11, INT 13, MAK 11, KAR 8 |
 | Handlingspoeng | 2 | 
-| Skade-modifikator | +1d2 |
+| Skademodifikator | +1d2 |
 | Initiativ | +11 (13) |
 | Bevegelse | 20' |
 | Evner | Ingen |
-| Tilhørighet | Typisk ond 54% |
-| Rustning | Bryst, mage og lemmer 3 (stiftet lær), hode 8 (stålhjelm) |
-| Ferdigheter | Atletikk 52%, Muskelkraft 54%, Språk (Felles språk) 64%, Skikker 46%, Bedrag 44%, Utholdenhet 52%, Unnvikelse 52%, Innsikt 54%, Lokalkunnskap 66%, Persepsjon 44%, Sniking 44%, Overlevelse 52%, Ubevæpnet 42%, Viljestyrke 42% |
-| Kampferdighet | 56% - Stridsøks, målsjold, kortbue |
+| Holdning | Vanligvis, Ond 54% |
+| Rustning | Bryst, mage og lemmer 3 (naglet lær), hode 8 (stålhjelm) |
+| Ferdigheter | Friidrett 52%, Muskelkraft 54%, Språk (fellesspråk) 64%, Skikker 46%, Bedrag 44%, Utholdenhet 52%, Unnvike 52%, Innsikt 54%, Lokalitet 66%, Persepsjon 44%, Sniking 44%, Overlevelse 52%, Uvæpnet 42%, Viljestyrke 42% |
+| Kampferdighet | 56% - Stridøks, måldskjold, kortbue |
   
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Stridsøks | M | 1d6+1d2 | 4/8 | Blødning, Ødeleggelse |
-| Målsjold | L | 1d4+1d2 | 4/9 | Slag, Gjennomboring, Avstands-parering, Passiv blokkering (3) |
-| Kortbue | L | 1d6+1d2 | 4/4 | Gjennomboring, Rekkevidde 45'/300'/600' |
+| Stridøks | M | 1d6+1d2 | 4/8 | Blødning, Sunder |
+| Måldskjold | L | 1d4+1d2 | 4/9 | Bash, Impale, Avstands-parering, Passiv blokk (3) |
+| Kortbue | L | 1d6+1d2 | 4/4 | Impale, Rekkevidde 45'/300'/600' |
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 3/5 |
 | 4-6 | Venstre ben | 3/5 |
@@ -51,19 +51,19 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Kjemperotte (Rank ½)
+### Kjemperotte (Rang ½)
 
-| Skapning | Kjemperotte (Rank ½) |
+| Skapning | Kjemperotte (Rang ½) |
 | :-- | :-- |
-| Egenskaper | STR 7, CON 11, SIZ 4, DEX 13, INS 13, POW 7 |
+| Karakteristikker | STY 7, UTH 11, STØ 4, FIN 13, INT 13, MAK 7 |
 | Handlingspoeng | 3 | 
-| Skade-modifikator | -1d4 |
+| Skademodifikator | -1d4 |
 | Initiativ | +13 |
 | Bevegelse | 20' |
-| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Hoppe](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
-| Tilhørighet | NA |
+| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Hopper](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
+| Holdning | NA |
 | Rustning | Ingen |
-| Ferdigheter | Atletikk 40%, Muskelkraft 22%, Utholdenhet 52%, Unnvikelse 56%, Persepsjon 50%, Sniking 56%, Svømming 58%, Viljestyrke 34% |
+| Ferdigheter | Friidrett 40%, Muskelkraft 22%, Utholdenhet 52%, Unnvike 56%, Persepsjon 50%, Sniking 56%, Svømming 58%, Viljestyrke 34% |
 | Kampferdighet | 50% - Klør, Bitt |
 
   
@@ -71,18 +71,18 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Klør | T | 1d3-1d4 | Som sted | |
-| Bitt | S | 1d6-1d4 | Som sted | |
+| Klør | T | 1d3-1d4 | Som sone | |
+| Bitt | S | 1d6-1d4 | Som sone | |
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-2 | Hale | 0/3 |
 | 3-4 | Høyre bakben | 0/3 |
 | 5-6 | Venstre bakben | 0/3 |
-| 7-9 | Bakpart | 0/4 |
-| 10-13 | Forpart | 0/5 |
+| 7-9 | Bakparti | 0/4 |
+| 10-13 | Forparti | 0/5 |
 | 14-15 | Høyre forben | 0/3 |
 | 16-17 | Venstre forben | 0/3 |
 | 18-20 | Hode | 0/3 |
@@ -91,33 +91,33 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Goblin (Rank ½)
+### Goblin (Rang ½)
 
-| Skapning | Goblin (Rank ½) |
+| Skapning | Goblin (Rang ½) |
 | :-- | :-- |
-| Egenskaper | STR 8, CON 11, SIZ 8, DEX 14, INT 12, POW 11, CHA 7 |
+| Karakteristikker | STY 8, UTH 11, STØ 8, FIN 14, INT 12, MAK 11, KAR 7 |
 | Handlingspoeng | 3 | 
-| Skade-modifikator | -1d2 |
+| Skademodifikator | -1d2 |
 | Initiativ | +11 |
 | Bevegelse | 15' |
-| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Lysømfintlig](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Tilhørighet | Ond 52% |
-| Rustning | Bryst, mage og hode 3 (stiftet lær), lemmer 0 |
-| Ferdigheter | Atletikk 42%, Muskelkraft 36%, Bedrag 49%, Utholdenhet 42%, Unnvikelse 58%, Språk (Goblin, Hobgoblin, Kobold, Orsk) 59%, Persepsjon 63%, Ridning 55%, Sniking 56%, Ubevæpnet 42%, Viljestyrke 42% |
-| Kampferdighet | 52% - Kortsverd, målsjold, slynge |
+| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Lysfølsom](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Holdning | Ond 52% |
+| Rustning | Bryst, mage og hode 3 (naglet lær), lemmer 0 |
+| Ferdigheter | Friidrett 42%, Muskelkraft 36%, Bedrag 49%, Utholdenhet 42%, Unnvike 58%, Språk (Goblin, Hobgoblin, Kobold, Orksk) 59%, Persepsjon 63%, Ride 55%, Sniking 56%, Uvæpnet 42%, Viljestyrke 42% |
+| Kampferdighet | 52% - Kortsverd, måldskjold, slynge |
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Kortsverd | M | 1d6-1d2 | 6/8 | Blødning, Gjennomboring |
-| Målsjold | - | 1d4-1d2 | 4/9 | Slag, Gjennomboring, Avstands-parering, Passiv blokkering (3) |
-| Slynge | L | 1d8-1d2 | 1/2 | Slag, Lamme sted, Rekkevidde 30'/450'/900' |
+| Kortsverd | M | 1d6-1d2 | 6/8 | Blødning, Impale |
+| Måldskjold | - | 1d4-1d2 | 4/9 | Bash, Impale, Avstands-parering, Passiv blokk (3) |
+| Slynge | L | 1d8-1d2 | 1/2 | Bash, Bedøv sone, Rekkevidde 30'/450'/900' |
 
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 0/4 |
 | 4-6 | Venstre ben | 0/4 |
@@ -131,34 +131,33 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Bakkeljempe (Rank 5)
+### Hill-kjempe (Rang 5)
 
-
-| Skapning | Bakkeljempe (Rank 5) |
+| Skapning | Hill-kjempe (Rang 5) |
 | :-- | :-- |
-| Egenskaper | STR 25, CON 25, SIZ 32, DEX 11, INT 10, POW 11, CHA 7 |
+| Karakteristikker | STY 25, UTH 25, STØ 32, FIN 11, INT 10, MAK 11, KAR 7 |
 | Handlingspoeng | 2 | 
-| Skade-modifikator | +1d12 |
+| Skademodifikator | +1d12 |
 | Initiativ | +10 (11) |
 | Bevegelse | 20' |
 | Evner | [Trampe](Appendix_A_Monsters_And_Treasures.md?id=trample) |
-| Tilhørighet | Ond 52%, hater magi og magikere 57% |
+| Holdning | Ond 52%, hater magi og trollmenn 57% |
 | Rustning | Bryst og mage 3 (pels og tøff hud), hode og lemmer 2 (tøff hud) |
-| Ferdigheter | Atletikk 66%, Muskelkraft 87%, Utholdenhet 80%, Unnvikelse 42%, Språk (Kjempespråk) 47%, Lokalkunnskap 50%, Persepsjon 51%, Ubevæpnet 66%, Viljestyrke 42% |
-| Kampferdighet | 76% - Kjempestor klubbe, kastet stein (SIZ 8)<br> 66% - Trampe |
+| Ferdigheter | Friidrett 66%, Muskelkraft 87%, Utholdenhet 80%, Unnvike 42%, Språk (Kjempe) 47%, Lokalitet 50%, Persepsjon 51%, Uvæpnet 66%, Viljestyrke 42% |
+| Kampferdighet | 76% - Kjempeklubbe, kastet stein (STØ 8)<br> 66% - Trampe |
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Kjempestor klubbe | E | 1d12+1d12 | 8/12 | Slag, Lamme sted |
-| Kastet stein | L | 2d6+1d12 | - | Slag, Lamme sted, Rekkevidde 100' |
-| Trampe | - | 2d12 | Som sted | Slag, Lamme sted |
+| Kjempeklubbe | E | 1d12+1d12 | 8/12 | Bash, Bedøv sone |
+| Kastet stein | L | 2d6+1d12 | - | Bash, Bedøv sone, Rekkevidde 100' |
+| Trampe | - | 2d12 | Som sone | Bash, Bedøv sone |
 
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 2/12 |
 | 4-6 | Venstre ben | 2/12 |
@@ -172,33 +171,33 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Kobold (Rank ¼)
+### Kobold (Rang ¼)
 
-| Skapning | Kobold (Rank ¼) |
+| Skapning | Kobold (Rang ¼) |
 | :-- | :-- |
-| Egenskaper | STR 6, CON 11, SIZ 5, DEX 13, INT 13, POW 11, CHA 4 |
+| Karakteristikker | STY 6, UTH 11, STØ 5, FIN 13, INT 13, MAK 11, KAR 4 |
 | Handlingspoeng | 3 | 
-| Skade-modifikator | -1d4 |
+| Skademodifikator | -1d4 |
 | Initiativ | +13 (14) |
 | Bevegelse | 15' |
-| Evner | [Kaldblodig](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Lysømfintlig](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Tilhørighet | Ond 52%, hater alle 62% |
-| Rustning | Bryst, mage og hode 3 (lær og skjellete hud), lemmer 1 (skjellete hud) |
-| Ferdigheter | Atletikk 40%, Muskelkraft 31%, Bedrag 57%, Utholdenhet 42%, Unnvikelse 66%, Språk (Kobold, Goblin og Orsk) 57%, Mekanismer 66%, Persepsjon 64%, Sniking 66%, Ubevæpnet 39%, Viljestyrke 42% |
-| Kampferdighet | 49% - Kortsverd, målsjold, spyd |
+| Evner | [Kaldblodig](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Lysfølsom](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Holdning | Ond 52%, hater alle 62% |
+| Rustning | Bryst, mage og hode 3 (lær og skjellhud), lemmer 1 (skjellhud) |
+| Ferdigheter | Friidrett 40%, Muskelkraft 31%, Bedrag 57%, Utholdenhet 42%, Unnvike 66%, Språk (Kobold, Goblin og Orksk) 57%, Mekanismer 66%, Persepsjon 64%, Sniking 66%, Uvæpnet 39%, Viljestyrke 42% |
+| Kampferdighet | 49% - Kortsverd, måldskjold, spyd |
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Kortsverd | S | 1d6-1d4 | 6/8 | Blødning, Gjennomboring |
-| Målsjold | M | 1d4-1d4 | 4/9 | Slag, Gjennomboring, Avstands-parering, Passiv blokkering (3) |
-| Spyd | S | 1d8+1-1d4 | 4/5 | Gjennomboring, Rekkevidde 30'/60'/150' |
+| Kortsverd | S | 1d6-1d4 | 6/8 | Blødning, Impale |
+| Måldskjold | M | 1d4-1d4 | 4/9 | Bash, Impale, Avstands-parering, Passiv blokk (3) |
+| Spyd | S | 1d8+1-1d4 | 4/5 | Impale, Rekkevidde 30'/60'/150' |
 
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 1/4 |
 | 4-6 | Venstre ben | 1/4 |
@@ -212,35 +211,35 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Orsk (Rank 1)
+### Ork (Rang 1)
 
 [MEG-oppføring](https://mythras.skoll.xyz/enemy_template/11848/)
 
-| Skapning | Orsk (Rank 1) |
+| Skapning | Ork (Rang 1) |
 | :-- | :-- |
-| Egenskaper | STR 14, CON 13, SIZ 14, DEX 11, INT 11, POW 11, CHA 7 |
+| Karakteristikker | STY 14, UTH 13, STØ 14, FIN 11, INT 11, MAK 11, KAR 7 |
 | Handlingspoeng | 2 | 
-| Skade-modifikator | +1d2 |
+| Skademodifikator | +1d2 |
 | Initiativ | +10 (14) |
 | Bevegelse | 20' |
-| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Lysømfintlig](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Tilhørighet | Ond 52%, hater alver og dverger 57% |
-| Rustning | Bryst og mage 5 (brynje), hode 8 (stålhjelm), armer 0, ben 3 (stiftet lær) |
-| Ferdigheter | Atletikk 55%, Muskelkraft 48%, Bedrag 48%, Utholdenhet 56%, Unnvikelse 52%, Språk (Orsk og felles, noen kan snakke goblin, hobgoblin og ogre) 58%, Persepsjon 52%, Ubevæpnet 55%, Viljestyrke 52% |
-| Kampferdighet | 55% - Stridsøks, målsjold, langbue |
+| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Lysfølsom](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
+| Holdning | Ond 52%, hater alver og dverger 57% |
+| Rustning | Bryst og mage 5 (brynje), hode 8 (stålhjelm), armer 0, ben 3 (naglet lær) |
+| Ferdigheter | Friidrett 55%, Muskelkraft 48%, Bedrag 48%, Utholdenhet 56%, Unnvike 52%, Språk (Orksk og felles, noen kan snakke Goblin, Hobgoblin og Ogre) 58%, Persepsjon 52%, Uvæpnet 55%, Viljestyrke 52% |
+| Kampferdighet | 55% - Stridøks, måldskjold, langbue |
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Stridsøks | M | 1d6+1+1d2 | 4/8 | Blødning, Ødeleggelse |
-| Målsjold | L | 1d4+1d2 | 4/9 | Slag, Gjennomboring, Avstands-parering, Passiv blokkering (3) |
-| Langbue | L | 1d8+1d2 | 4/7 | Gjennomboring, Rekkevidde 45'/375'/750' |
+| Stridøks | M | 1d6+1+1d2 | 4/8 | Blødning, Sunder |
+| Måldskjold | L | 1d4+1d2 | 4/9 | Bash, Impale, Avstands-parering, Passiv blokk (3) |
+| Langbue | L | 1d8+1d2 | 4/7 | Impale, Rekkevidde 45'/375'/750' |
 
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 3/6 |
 | 4-6 | Venstre ben | 3/6 |
@@ -255,33 +254,33 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Ogre (Rank 3)
+### Ogre (Rang 3)
 
 [MEG-oppføring](https://mythras.skoll.xyz/enemy_template/11837/)
 
-| Skapning | Ogre (Rank 3) |
+| Skapning | Ogre (Rang 3) |
 | :-- | :-- |
-| Egenskaper | STR 20, CON 18, SIZ 28, DEX 11, INT 10, POW 11, CHA 7 |
+| Karakteristikker | STY 20, UTH 18, STØ 28, FIN 11, INT 10, MAK 11, KAR 7 |
 | Handlingspoeng | 2 | 
-| Skade-modifikator | +1d10 |
+| Skademodifikator | +1d10 |
 | Initiativ | +11 |
 | Bevegelse | 15' |
-| Evner | [Trampe](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
-| Tilhørighet | Ond 71%, dårlig oppførsel og rask til sinne 48% |
+| Evner | [Trampe](Appendix_A_Monsters_And_Treasures.md?id=trample) |
+| Holdning | Ond 71%, dårlige manerer og rask til sinne 48% |
 | Rustning | Bryst og mage 3 (rester av pels og lær over tøff hud), hode og lemmer 2 (tøff hud) |
-| Ferdigheter | Atletikk 61%, Muskelkraft 88%, Utholdenhet 76%, Unnvikelse 52%, Språk (Ogre) 57%, Lokalkunnskap 40%, Persepsjon 41%, Overlevelse 59%, Sporing 58%, Ubevæpnet 61%, Viljestyrke 42% |
+| Ferdigheter | Friidrett 61%, Muskelkraft 88%, Utholdenhet 76%, Unnvike 52%, Språk (Ogre) 57%, Lokalitet 40%, Persepsjon 41%, Overlevelse 59%, Spore 58%, Uvæpnet 61%, Viljestyrke 42% |
 | Kampferdighet | 71% - Ogre-klubbe<br> 61% - Trampe |
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Ogre-klubbe | L | 1d10+1d10 | 8/12 | Slag, Lamme sted |
-| Trampe | - | 2d10 | - | Slag, Lamme sted |
+| Ogre-klubbe | L | 1d10+1d10 | 8/12 | Bash, Bedøv sone |
+| Trampe | - | 2d10 | - | Bash, Bedøv sone |
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 2/10 |
 | 4-6 | Venstre ben | 2/10 |
@@ -296,22 +295,22 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Rød drage, ung voksen (Rank 10)
+### Rød drage, ung voksen (Rang 10)
 
 [MEG-oppføring](https://mythras.skoll.xyz/enemy_template/11849/)
 
-| Skapning | Rød drage, ung voksen (Rank 10) |
+| Skapning | Rød drage, ung voksen (Rang 10) |
 | :-- | :-- |
-| Egenskaper | STR 22, CON 31, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Karakteristikker | STY 22, UTH 31, STØ 28, FIN 16, INT 9, MAK 11, KAR 4 |
 | Handlingspoeng | 4 | 
-| Skade-modifikator | +1d10 |
+| Skademodifikator | +1d10 |
 | Initiativ | +16 |
 | Magipoeng | 19 |
 | Bevegelse | 15', 50' (Fly) |
-| Evner | [Puste ild](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Immunitet (Ild)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trampe](Appendix_A_Monsters_And_Treasures.md?id=trample); [Vingeslag](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet) |
-| Tilhørighet | Ond 95%, rask til sinne, mistenksom, og hater sølvdrager 88% |
+| Evner | [Puste ild](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Immunitet (ild)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trampe](Appendix_A_Monsters_And_Treasures.md?id=trample); [Vingeslag](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet), |
+| Holdning | Ond 95%, rask til sinne, mistenksom og hater sølvdrager 88% |
 | Rustning | 8 (tykke skjell) |
-| Ferdigheter | Arkansk kunnskap 92%, Atletikk 77%, Muskelkraft 120%, Bedrag 95%, Utholdenhet 92%, Unnvikelse 52%, Fly 87%, Innflytelse 78%, Innsikt 95%, Språk (Kromatisk drage) 95%, Lokalkunnskap 92%, Lære (Drage) 92%, Persepsjon 98%, Undervise 95%, Viljestyrke 78%, Tale (75% sjanse for å kunne snakke) |
+| Ferdigheter | Arkansk kunnskap 92%, Friidrett 77%, Muskelkraft 120%, Bedrag 95%, Utholdenhet 92%, Unnvike 52%, Fly 87%, Påvirkning 78%, Innsikt 95%, Språk (Kromatisk drage) 95%, Lokalitet 92%, Lore (Drage) 92%, Persepsjon 98%, Undervise 95%, Viljestyrke 78%, Tale (75% sjanse for evne til å tale) |
 | Kampferdighet | 100% - Ildkjegle<br> 87% - Klør, hale, tenner, vingeslag <br> 77% - Trampe |
 
 #### Våpendetaljer
@@ -319,23 +318,23 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
 | Klør | E | 1d10+1d10 | 8/12 | Blødning |
-| Hale | E | 1d10+1d10 | 8/12 | Slag |
-| Tenner | L | 1d10+1d10 | 8/12 | Sammenfiltring |
-| Trampe | - | 2d10 | - | Slag, Lamme sted |
-| Vingeslag | E | 1d10 | 8/12 | Slag, Rekkevidde 10' på begge sider |
+| Hale | E | 1d10+1d10 | 8/12 | Bash |
+| Tenner | L | 1d10+1d10 | 8/12 | Filtre |
+| Trampe | - | 2d10 | - | Bash, Bedøv sone |
+| Vingeslag | E | 1d10 | 8/12 | Bash, Rekkevidde 10' på begge sider |
 | Ildkjegle | - | 4d6 | - | Rekkevidde 125' |
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-2 | Hale | 8/17 |
 | 3-4 | Høyre bakben | 8/17 |
 | 5-6 | Venstre bakben | 8/17 |
-| 7-8 | Bakpart | 8/18 |
+| 7-8 | Bakparti | 8/18 |
 | 9-10 | Høyre vinge | 8/16 |
 | 11-12 | Venstre vinge | 8/16 |
-| 13-14 | Forpart | 8/19 |
+| 13-14 | Forparti | 8/19 |
 | 15-16 | Høyre forben | 8/17 |
 | 17-18 | Venstre forben | 8/17 |
 | 19-20 | Hode | 8/17 |
@@ -345,34 +344,34 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Skjelett (Rank ½)
+### Skjelett (Rang ½)
 
 [MEG-oppføring](https://mythras.skoll.xyz/enemy_template/11834/)
 
-| Skapning | Skjelett (Rank ½) |
+| Skapning | Skjelett (Rang ½) |
 | :-- | :-- |
-| Egenskaper | STR 10, CON 10, SIZ 13, DEX 14, INS 8, POW 6 |
+| Karakteristikker | STY 10, UTH 10, STØ 13, FIN 14, INT 8, MAK 6 |
 | Handlingspoeng | 2 | 
-| Skade-modifikator | +1d2 |
+| Skademodifikator | +1d2 |
 | Initiativ | +9 (11) |
 | Bevegelse | 20' |
-| Evner | [Immunitet (Frykt, søvn og sjarm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Udød (Intensitet vs. vende: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
-| Tilhørighet | NA |
+| Evner | [Immunitet (frykt, søvn og sjarm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Udød (Intensitet vs. Tur: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
+| Holdning | NA |
 | Rustning | Bryst og mage 5 (brynje), hode og lemmer 0 |
-| Ferdigheter | Atletikk 54%, Muskelkraft 53%, Utholdenhet 50%, Unnvikelse 68%, Persepsjon 44%, Ubevæpnet 54%, Viljestyrke 42% |
-| Kampferdighet | 54% - Stridsøks, rundsjold, langbue |
+| Ferdigheter | Friidrett 54%, Muskelkraft 53%, Utholdenhet 50%, Unnvike 68%, Persepsjon 44%, Uvæpnet 54%, Viljestyrke 42% |
+| Kampferdighet | 54% - Stridøks, rundt skjold, langbue |
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Stridsøks | M | 1d6+1+1d2 | 4/8 | Blødning, Ødeleggelse |
-| Rundsjold | L | 1d4+1d2 | 4/9 | Slag, Avstands-parering, Passiv blokkering (3) |
-| Langbue | L | 1d8+1d2 | 4/7 | Gjennomboring, Rekkevidde 45'/375'/750' |
+| Stridøks | M | 1d6+1+1d2 | 4/8 | Blødning, Sunder |
+| Rundt skjold | L | 1d4+1d2 | 4/9 | Bash, Avstands-parering, Passiv blokk (3) |
+| Langbue | L | 1d8+1d2 | 4/7 | Impale, Rekkevidde 45'/375'/750' |
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 0/5 |
 | 4-6 | Venstre ben | 0/5 |
@@ -387,34 +386,34 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Troll (Rank 4)
+### Troll (Rang 4)
 
 [MEG-oppføring](https://mythras.skoll.xyz/enemy_template/11836/)
 
-| Skapning | Troll (Rank 4) |
+| Skapning | Troll (Rang 4) |
 | :-- | :-- |
-| Egenskaper | STR 22, CON 25, SIZ 28, DEX 16, INT 9, POW 11, CHA 4 |
+| Karakteristikker | STY 22, UTH 25, STØ 28, FIN 16, INT 9, MAK 11, KAR 4 |
 | Handlingspoeng | 3 | 
-| Skade-modifikator | +1d10 |
+| Skademodifikator | +1d10 |
 | Initiativ | +13 |
 | Bevegelse | 20' |
-| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regenerering (1 HP/runde)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Skremmende](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
-| Tilhørighet | Ond 52%, hater gode kjemper 57% |
+| Evner | [Mørkesyn](Appendix_A_Monsters_And_Treasures.md?id=darkvision), [Regenerering (1 HP/runde)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Skremmende](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
+| Holdning | Ond 52%, hater gode kjemper 57% |
 | Rustning | 3 (tykk, gummiaktig hud) |
-| Ferdigheter | Atletikk 68%, Muskelkraft 90%, Utholdenhet 90%, Unnvikelse 62%, Språk (Troll) 53%, Lokalkunnskap 48%, Persepsjon 60% (syn og lukt), Overlevelse 66%, Sporing 64%, Viljestyrke 52% |
+| Ferdigheter | Friidrett 68%, Muskelkraft 90%, Utholdenhet 90%, Unnvike 62%, Språk (Troll) 53%, Lokalitet 48%, Persepsjon 60% (syn og lukt), Overlevelse 66%, Spore 64%, Viljestyrke 52% |
 | Kampferdighet | 78% - Bitt, klør |
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Klør | L | 1d8+1d10 | Som sted | Blødning |
-| Tenner | L | 1d6+1d10 | Som sted | |
+| Klør | L | 1d8+1d10 | Som sone | Blødning |
+| Tenner | L | 1d6+1d10 | Som sone | |
 
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 3/11 |
 | 4-6 | Venstre ben | 3/11 |
@@ -429,35 +428,35 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-### Zombie (Rank ½)
+### Zombie (Rang ½)
 
 [MEG-oppføring](https://mythras.skoll.xyz/enemy_template/11835/)
 
-| Skapning | Zombie (Rank ½) |
+| Skapning | Zombie (Rang ½) |
 | :-- | :-- |
-| Egenskaper | STR 14, CON 14, SIZ 13, DEX 9, INS 8, POW 6 |
+| Karakteristikker | STY 14, UTH 14, STØ 13, FIN 9, INT 8, MAK 6 |
 | Handlingspoeng | 2 | 
-| Skade-modifikator | +1d2 |
+| Skademodifikator | +1d2 |
 | Initiativ | +7 (9) |
 | Magipoeng | 6 |
 | Bevegelse | 15' |
-| Evner | [Immunitet (Frykt, søvn og sjarm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Udød (Intensitet vs. vende: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
-| Tilhørighet | Ingen |
+| Evner | [Immunitet (frykt, søvn og sjarm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Udød (Intensitet vs. Tur: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
+| Holdning | Ingen |
 | Rustning | Bryst og mage 5 (brynje), hode og lemmer 0 |
-| Ferdigheter | Atletikk 53%, Muskelkraft 57%, Utholdenhet 58%, Unnvikelse 48%, Persepsjon 44%, Ubevæpnet 53%, Viljestyrke 42% |
-| Kampferdighet | 53% - Never, klubbe |
+| Ferdigheter | Friidrett 53%, Muskelkraft 57%, Utholdenhet 58%, Unnvike 48%, Persepsjon 44%, Uvæpnet 53%, Viljestyrke 42% |
+| Kampferdighet | 53% - Nerver, klubbe |
 
 
 #### Våpendetaljer
 
 | Våpen | Størrelse | Skade | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
-| Never | S | 1d3+1d2 | Som sted | Flurry |
-| Klubbe | M | 1d6+1d2 | 4/5 | Slag, Lamme sted |
+| Nerver | S | 1d3+1d2 | Som sone | Flurry |
+| Klubb | M | 1d6+1d2 | 4/5 | Bash, Bedøv sone |
 
-#### Treffsteder og rustning
+#### Treffsoner og rustning
 
-| 1d20 | Sted | AP/HP |
+| 1d20 | Sone | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Høyre ben | 0/6 |
 | 4-6 | Venstre ben | 0/6 |
@@ -470,45 +469,45 @@ Rang angir en omtrentlig utfordring for den aktuelle skapningen og ligner, men e
 
 ---
 
-## Skapningevner
+## Skapningsevner
 
-En skapningevne er noe den kan gjøre naturlig på grunn av sin fysiologi, biologi, medfødte magi og så videre. Fugler, for eksempel, kan flakse gjennom luften, og derfor er flyvning en evne.
+En skapningsevne er noe den kan gjøre naturlig på grunn av sin fysiologi, biologi, medfødte magi og så videre. Fugler kan for eksempel flakse gjennom luften, og derfor er Fly en evne.
 
-Hver av de følgende evnene er beskrevet i form av spilleffekter, og hvordan de kan påvirke samspill med andre. Ikke alle disse evnene vises i eksempelskapningene, men de viser hvordan tilsynelatende vanlige skapninger kan gjøres unike, utfordrende eller direkte skremmende. Som en tommelfingerregel bør skapninger ha opptil tre evner som er relevante for deres natur og miljø. En demonisk edderkopp kan for eksempel ha Klebende, Demon, Griper og Vampirisk.
+Hver av de følgende evnene er beskrevet ut fra dens spilleffekter, og hvordan den kan påvirke interaksjoner med andre. Ikke alle disse evnene vises i de medfølgende eksempel-skapningene, men de viser hvordan tilsynelatende dagligdagse skapninger kan gjøres om til noe unikt, utfordrende eller direkte skremmende. Som en tommelfingerregel bør skapninger ha opptil tre evner som er relevante for deres natur og miljø. En demonisk edderkopp kan for eksempel ha Klistrende, Demon, Griper og Vampyrisk.
 
-#### Klebende
+#### Klistrende
 
-Skapningen kan bevege seg fritt på vertikale flater, og til og med bevege seg opp-ned i taket uten spesialutstyr. Slik bevegelse er alltid halvparten av skapningens normale bevegelseshastighet.
+Skapningen kan bevege seg fritt på vertikale flater, og til og med bevege seg opp-ned i et tak uten spesialutstyr. Slik bevegelse skjer alltid med halvparten av skapningens normale bevegelseshastighet.
 
 #### Akvatisk
 
-Skapningen puster i vann i stedet for luft, og har vanligvis gjeller eller hud som kan absorbere oppløst luft direkte. Hvis de tas ut av vann og pusteorganene deres tørker ut, begynner de å kveles etter CON i minutter hvis de forblir passive, eller halvparten av den tiden hvis de beveger seg eller kjemper.
+Skapningen puster vann i stedet for luft, og har generelt gjeller eller en hud som er i stand til å absorbere oppløst luft direkte. Hvis de blir tatt ut av vann og pusteorganene får tørke ut, begynner de å kveles etter deres UTH i minutter hvis de forblir passive, eller halvparten av den tiden hvis de beveger seg eller kjemper.
 
-#### Blodssans
+#### Blodsans
 
-Lar skapningen oppdage blod over store avstander, enten båret av vind eller vann. Spor av blod kan sanses på en avstand av halvparten av dens INS i miles.
+Lar skapningen oppdage blod over store avstander, enten båret av vind eller vann. Spor av blod kan sanses på en avstand av halvparten av dens INT i miles.
 
 #### Puste ild
 
-Skapningen puster ild over et område som en kamphandling. Ilden dekker en kjegle foran skapningen, som strekker seg til CON x 5 fot. Ved ytterpunktet er kjeglens bredde lik lengden. Enhver skapning som fanges i ilden lider ildbasert skade på alle treffsteder, selv om en karakter kan forsøke å unnvike for å halvere denne skaden. Rustningspoeng teller som normalt med mindre annet er oppgitt.
+Skapningen puster ild over et område som en kamphandling. Ilden dekker en kjegle foran skapningen, som strekker seg i dens UTH x 5 fot. Ved ytterste punkt er bredden av kjeglen lik lengden. Enhver skapning fanget i ilden lider brannbasert skade på alle treffsoner, selv om en karakter kan forsøke å unnvike for å halvere denne skaden. Rustningspoeng teller som normalt med mindre annet er oppgitt.
 
-En skapning kan bare puste ild én gang i en angitt tidsperiode (vanligvis én gang per time eller én gang per dag). Ytterligere forsøk på å puste ild innenfor denne tiden krever at skapningen består utholdenhetskast, der hvert kast blir én grad vanskeligere, eller lider et nivå av utmattelse.
+En skapning kan bare puste ild én gang i en angitt tidsperiode (vanligvis én gang per time eller én gang per dag). Videre forsøk på å puste ild innenfor denne tiden krever at skapningen består utholdenhetskast, hvor hvert kast blir én vanskelighetsgrad vanskeligere, ellers lider den et nivå av utmattelse.
 
 #### Graver
 
-Skapningen er dyktig til å grave tunneler gjennom bakken med sin normale bevegelseshastighet. Noen skapninger er begrenset i hvilken type grunn de kan bevege seg gjennom, noe som er notert i skapningens beskrivelse.
+Skapningen er dyktig til å grave seg gjennom bakken med sin normale bevegelseshastighet. Noen skapninger er begrenset i hvilken type grunn de kan bevege seg gjennom, noe som er notert i skapningens beskrivelse.
 
 #### Kamuflert
 
-Skapningen er dyktig til å gjemme seg på grunn av fargen eller uvanlig overflatestruktur. De som forsøker å se skapningen lider en straff på persepsjon på to vanskelighetsgrader.
+Skapningen er dyktig til å gjemme seg på grunn av sin farge eller uvanlige overflatestruktur. De som prøver å få øye på skapningen, får en straff på persepsjon på to vanskelighetsgrader.
 
-#### Egenskapsdrenering
+#### Karakteristikk-dren
 
-Skapningen har den medfødte evnen til å drenere midlertidige egenskapspoeng fra målet for angrepene sine. Angrepstypen, egenskapen som påvirkes, og hvordan man motstår dreneringseffekten er beskrevet i skapningens beskrivelse.
+Skapningen har den medfødte evnen til å drenere midlertidige karakteristikkpoeng fra målet for angrepene sine. Typen angrep, karakteristikken som påvirkes, og hvordan man motstår dreneringseffekten er detaljert i skapningens beskrivelse.
 
 #### Kaldblodig
 
-Skapningen trenger ikke å spise ofte. Ett måltid i uken er tilstrekkelig for å holde den sunn, og å overspise store mengder kjøtt fjerner behovet for å spise i en måned. Omvendt, når den utsettes for temperaturer under 60 grader Fahrenheit (ca. 15 °C), blir refleksene dempet, og den lider en straff på -6 på initiativ, samt tap av én kamphandling per runde. Under 40 grader Fahrenheit (ca. 4 °C) blir kaldblodige skapninger helt sløve og går inn i en hjelpeløs, katatonisk tilstand.
+Skapningen trenger ikke å spise ofte. Et måltid i uken er tilstrekkelig for å holde den sunn og mett, og å fråtse i en stor mengde kjøtt vil fjerne behovet for å spise i en måned. Omvendt, når den utsettes for temperaturer under 60 grader Fahrenheit (ca. 15 grader Celsius), blir refleksene dens dempet, noe som gir en straff på -6 på initiativ, og tap av én kamphandling per runde. Under 40 grader Fahrenheit (ca. 4 grader Celsius) blir kaldblodige skapninger fullstendig torpide og går inn i en hjelpeløs katatonisk tilstand.
 
 #### Mørkesyn
 
@@ -516,83 +515,81 @@ Lar skapningen se normalt i fullstendig fravær av lys.
 
 #### Dødssans
 
-I takt med dødens krefter kan skapningen sanse døden til levende ting, og dødt kjøtt på en avstand på opptil halvparten av sin INT eller INS i miles.
+I tråd med dødens krefter kan skapningen sanse døden til levende ting, og dødt kjøtt på en avstand på opptil halvparten av dens INT eller INT i miles.
 
 #### Sykdomsimmunitet
 
-Skapningen er immun mot alle sykdommer. Alle skapninger uten SIZ har automatisk denne evnen, selv om den ikke er spesifikt oppført i beskrivelsene deres.
+Skapningen er immun mot alle sykdommer. Alle skapninger uten STØ har automatisk denne evnen, selv om den ikke er spesifikt oppført i beskrivelsene deres.#### Stupestøt
 
-#### Stupangrep
+Noen skapninger kan kaste seg ned fra himmelen eller suse gjennom vannet for å angripe byttet sitt, og slå til med utrolig kraft. Dette fungerer i praksis som et stormangrep for skapninger som ikke lever på land. Stupestøt øker både angrepets størrelse og skapningens skademodifikator med ett trinn, kun for dette angrepet. Et stupestøt kan bare brukes én gang per runde. Skapningen må være minst én full runde med bevegelse over målet sitt (eller muligens under, hvis den er nedsenket) for å kunne bruke stupestøt.
 
-Noen skapninger kan stupe fra himmelen eller bølge gjennom vannet for å angripe byttet sitt, og slå til med utrolig kraft. Dette tilsvarer lading for skapninger som ikke er landbaserte. Stupangrep øker både størrelsen på angrepet og skapningens skade-modifikator med ett trinn, kun for dette angrepet. Et stupangrep kan bare brukes én gang per runde. Skapningen må være minst én full runde med bevegelse over målet sitt (eller muligens under hvis den er nedsenket) for å bruke stupangrepet.
+#### Jordansans
 
-#### Jord-sans
-
-Noen skapninger er så i takt med underverdenen at de fungerer perfekt i det totale mørket i dypet. Ved å sanse vibrasjoner og lufttrykk kan en skapning med jord-sans kjempe og utføre persepsjonskast uten straff, så lenge målet ikke er mer enn INS x 5 fot unna. Hvis den bruker jord-sans over bakken, halveres rekkevidden.
+Noen skapninger er så tilpasset underverdenen at de fungerer perfekt i det totale mørket i dypet. Ved å føle vibrasjoner og lufttrykk kan en skapning med Jordansans kjempe og utføre persepsjons-ruller uten straff så lenge målet deres ikke er mer enn INT x 1,5 meter unna. Hvis Jordansans brukes over bakken, halveres rekkevidden.
 
 #### Ekkolokalisering
 
-Skapningen sanser omgivelsene gjennom refleksjoner av lydbølger. Dette betyr at den kan oppfatte andre som enten er i ro eller skjult. Under slike omstendigheter er det to vanskelighetsgrader vanskeligere å bruke et snikekast for å forbli uoppdaget av skapningen.
+Skapningen sanser omgivelsene sine gjennom refleksjoner av lydbølger. Dette betyr at den kan oppfatte andre som enten er i ro eller skjult. Under slike omstendigheter er det to grader vanskeligere å bruke en snike-rull for å forsøke å forbli uoppdaget av skapningen.
 
 #### Oppsluking
 
-Skapningen har en åpning som kan svelge mål hele. Maksimal størrelse på et offer som blir oppslukt er beregnet som halvparten av skapningens egen SIZ, men kan være mindre avhengig av skapningens fysiologi. Når offeret blir oppslukt, lider det minst ett skadekast basert på skapningens bittangrep før det blir svelget – tiden brukt på tygging avhenger av skapningen og hvor følsomme innvollene dens er. Hvis offeret fortsatt lever, begynner det å kveles, og dør sannsynligvis av asfyksi før det lider noen merkbar skade fra magesyre. Realistisk sett mangler et oppslukt offer mobiliteten til å bevege seg inne i fordøyelseskanalen, eller så er skapningen så stor at offeret vil dø lenge før det kan skjære seg ut.
+Skapningen har en åpning som kan svelge mål hele. Maksimal størrelse på et oppslukt offer beregnes som halvparten av skapningens egen STØ, men kan være mindre avhengig av skapningens fysiologi. Når offeret blir oppslukt, lider det minst én skaderull basert på skapningens biteangrep før det blir svelget – tiden brukt på tygging avhenger av skapningen og hvor sensitive innvollene dens er. Hvis et svelget offer fortsatt er i live, vil det begynne å kveles, og sannsynligvis dø av oksygenmangel før det lider nevneverdig skade fra magesyre. Realistisk sett mangler et oppslukt offer mobiliteten til å bevege seg inne i fordøyelseskanalen, eller så er skapningen så stor at offeret vil dø lenge før det kan skjære seg ut.
 
 #### Flyvning
 
-Skapningen lykkes automatisk med daglig bevegelse og manøvrering mens den flyr, og trenger ikke å kaste sin fly-ferdighet med mindre den forsøker en uvanlig vanskelig oppgave, som å fly mot en kraftig vind, unnvike et avstandsangrep i luften, eller utmanøvrere en flyvende fiende. En flyver kan bytte ut fly-ferdigheten (base STR+DEX) med unnvikelse når den kjemper mens den er i luften.
+Skapningen lykkes automatisk med daglige bevegelser og manøvrering mens den flyr, og trenger ikke å rulle for ferdigheten Flyvning med mindre den forsøker seg på en uvanlig vanskelig oppgave, som å fly mot en kraftig vind, unnvike et avstandsangrep i luften eller utmanøvrere en flyvende motstander. En flyver kan erstatte ferdigheten Flyvning (base STY+FIN) med Unnvike når den kjemper mens den er i luften.
 
 #### Formidable naturlige våpen
 
-Denne skapningen kan aktivt parere eller avbøye angrep ved å bruke sine naturlige våpen. Dette skyldes en kombinasjon av kampstil og det å besitte naturlig bevæpning formet av motstandsdyktige stoffer som horn, kitin eller ben som kan avvise skade fra produserte våpen. Merk at skapninger som mangler dette trekket, enten stoler på sin naturlige rustning for å avvise slag eller bruker unnvikelse.
+Denne skapningen kan aktivt parere eller avbøye angrep ved å bruke sine naturlige våpen. Dette skyldes en kombinasjon av kampstil og det å besitte naturlig bevæpning formet av robuste substanser som horn, kitin eller bein, som kan avvise skade fra produserte våpen. Merk at skapninger som mangler denne egenskapen enten stoler på sin naturlige rustning for å avverge slag eller bruker Unnvike.
 
-#### Frenesi
+#### Raseri
 
-Når den blir såret eller utsatt for et bestemt stoff – for eksempel blod – må skapningen bestå et viljestyrkekast eller gå inn i en frenesi. Frenesien varer i et antall runder lik skapningens CON. Under frenesien må de kun bruke kamphandlinger på å angripe eller bevege seg mot kamp. Besvergelse, parering, unnvikelse og alt annet er forbudt; alle tanker om selvbevaring vaskes bort i en rød tåke. Til gjengjeld lider skapningen ikke lenger smerte eller utmattelse, og er ugjennomtrengelig for mental kontroll. I løpet av denne tiden er den immun mot alle de skadelige effektene av alvorlige sår, selv om et større sår fortsatt vil gjøre den ute av stand til kamp. Hvis den fortsatt lever, får skapningen automatisk et utmattelsesnivå (Exhausted) når frenesien er over.
+Når skapningen blir såret eller eksponert for et bestemt stoff – for eksempel blod – må den lykkes med en viljestyrkerull eller gå inn i et raseri. Raseriperioden varer i et antall runder lik skapningens UTH. Under raseriet må de kun bruke kampaksjoner på å angripe eller bevege seg mot kampen. Besvergelse, parering, unnviking og alt annet er forbudt; alle tanker om selvbevaring er skylt bort i en rød tåke. Til gjengjeld lider ikke skapningen lenger av smerte eller utmattelse, og er immun mot mental kontroll. I løpet av denne tiden er den immun mot alle skadelige effekter av alvorlige sår, selv om et større sår fortsatt vil kunne uskadeliggjøre den. Hvis skapningen fortsatt er i live når raseriet avsluttes, får den automatisk utmattelsesnivået Utmattet.
 
 #### Blikkangrep
 
-Skapningen har et blikkangrep. Dette angrepet kan være aktivt (skapningen må bevisst bruke et handlingspoeng på sin tur for å bruke det på en fiende) eller passivt (alle som ser på skapningen blir påvirket), som beskrevet i skapningens beskrivelse.
+Skapningen har et blikkangrep. Dette angrepet kan være aktivt (skapningen må bevisst bruke et handlingspoeng på sin tur for å bruke det på en motstander) eller passivt (alle som ser på skapningen blir påvirket), som oppført i skapningens beskrivelse.
 
 #### Griper
 
-Hvis skapningen lykkes med et angrep i kamp, kan den umiddelbart gripe (Grapple) i tillegg til å påføre skade. Hvis skapningens angrep ble parert (eller skapningen selv parerer), blir skapningen tildelt en grip-effekt mot motstanderens lem eller "pin weapon"-effekt mot våpenet hans i stedet. Skapningen bruker alltid muskelkraft for å motsette seg et offer som bryter seg fri.
+Hvis skapningen treffer i kamp, kan den umiddelbart gripe i tillegg til å påføre skade. Hvis skapningens angrep ble parert (eller skapningen selv parerer), tildeles skapningen Grep-effekten mot motstanderens lem eller "Lås våpen"-effekten mot våpenet hans. Skapningen bruker alltid ferdigheten Muskelkraft for å motsette seg at et offer bryter seg løs.
 
-#### Holde pusten
+#### Hold pusten
 
-Skapningen kan holde pusten i lengre perioder. Hvis den er forberedt og forblir ganske statisk, kan skapningen holde pusten i et antall minutter lik sin CON. Denne perioden halveres hvis skapningen er aktiv, for eksempel når den svømmer eller kjemper.
+Skapningen kan holde pusten i lengre perioder. Hvis den er forberedt og holder seg relativt i ro, kan skapningen holde pusten i et antall minutter lik sin UTH. Denne perioden halveres hvis skapningen er aktiv, som ved svømming eller kamp.
 
 #### Immunitet
 
-Skapningen er fullstendig immun mot skade forårsaket av én type kilde. Denne kilden (kulde, ild, jern, osv.) vil bli notert i skapningens oppføring, men en narrativ beskrivelse kan være nødvendig for noen av de mer spesifikke immunitetene.
+Skapningen er fullstendig immun mot skade forårsaket av én type kilde. Denne kilden (kulde, ild, jern osv.) vil bli notert i skapningens oppføring, men en narrativ beskrivelse kan være nødvendig for noen av de mer spesifikke immunitetene.
 
 #### Skremme
 
-Skapningen kan skremme motstandere som en opptakt til kamp eller for å unngå det helt: knurring, snerring, senking av horn, og så videre. Motstandere må foreta et uimotsagt viljestyrkekast for å holde stand; suksess gjør at en karakter kan stå på sitt, mens feil indikerer at de må bruke neste runde på instinktivt å legge avstand mellom seg selv og skapningen. Hvis han fomler viljestyrkekastet, flykter karakteren i maksimal fart. En kritisk suksess lar karakteren ignorere ytterligere skremmingsforsøk fra skapningen eller dens frender under det møtet. Effekten varer så lenge skapningen fortsetter å opptre på en truende måte, noe som inkluderer at den går til angrep.
+Skapningen kan skremme motstandere som en forløper til kamp eller for å unngå den helt: knurring, fresing, senking av horn og lignende. Motstandere må foreta en uimotsagt viljestyrkerull for å holde stand; suksess gjør at en karakter kan holde posisjonen sin, mens fiasko indikerer at de må bruke neste runde på instinktivt å skape avstand mellom seg selv og skapningen. Hvis de kløner viljestyrkerullen, flykter karakteren i maksimal hastighet. En kritisk suksess gjør at karakteren kan ignorere ytterligere skremmeforsøk fra skapningen eller dens frender under det møtet. Effekten varer så lenge skapningen fortsetter å opptre truende, noe som inkluderer å utføre et angrep.
 
-#### Hoppe
+#### Hopper
 
-Skapningen bruker [Hoppeangrep](0008_Combat.md?id=leaping-attacks) som beskrevet i kapittelet [Kamp](0008_Combat.md), men kan kombinere hoppet med et fysisk angrep som en klo eller bitt. Hvis den hoppende skapningen vinner det motsatte hoppangrepskastet, påfører den automatisk skade for ett av sine naturlige våpen på målet. Denne skaden kan ikke pareres bortsett fra ved passiv blokkering.
+Skapningen bruker [Hoppangrep](0008_Combat.md?id=leaping-attacks) som beskrevet i kapittelet om [Kamp](0008_Combat.md), men kan kombinere hoppet med et fysisk angrep som en klo eller et bitt. Hvis den hoppende skapningen vinner den motståtte hoppeangreps-rullen, påfører den automatisk skade med ett av sine naturlige våpen på målet. Denne skaden kan ikke pareres, unntatt ved passiv blokkering.
 
 #### Livssans
 
-I takt med naturens rytmer kan denne skapningen bestemme vitaliteten til enhver levende skapning kun ved berøring. Hvis skapningen lykkes med et persepsjonskast, får den vite om målets nåværende skader, utmattelsesnivå, og om det for øyeblikket er rammet av gift eller sykdom. Skapningen er også klar over enhver form for liv innenfor et antall fot lik tre ganger sin viljestyrke, noe som kan gjøre sniking vanskelig.
+I takt med naturens rytmer kan denne skapningen avgjøre vitaliteten til enhver levende skapning ved berøring alene. Hvis skapningen utfører en vellykket persepsjons-rull, får den vite om målets nåværende skader, utmattelsesnivå og om det for øyeblikket er rammet av gift eller sykdom. Skapningen er også klar over enhver form for liv innenfor et antall meter lik tre ganger ferdigheten Viljestyrke, noe som kan gjøre sniking vanskelig.
 
-#### Lysømfintlig
+#### Lyssensitiv
 
-De som lider av lysømfintlighet finner alle ferdighetskast i dagslys én vanskelighetsgrad vanskeligere.
+De som lider av lyssensitivitet finner alle ferdighetsruller i dagslys én vanskelighetsgrad vanskeligere.
 
 #### Magisans
 
-Som livssans, men tillater skapningen å oppdage magiske utstrålinger over de samme avstandene. Hvis skapningen berører en annen og lykkes med et persepsjonskast, får den vite om målets nåværende magipoeng, bårede fortryllelser og aktive besvergelser.
+Som Livssans, men tillater skapningen å oppdage magiske utstrålinger over de samme avstandene. Hvis skapningen berører en annen og utfører en vellykket persepsjons-rull, får den vite om målets nåværende magipoeng, medbrakte fortryllelser og aktive besvergelser.
 
 #### Flerhodet
 
-Skapningen får en ekstra kamphandling per ekstra hode utover det første. Disse går tapt etter hvert som hvert enkelt hode blir satt ut av spill eller kuttet av. Så lenge ett hode forblir aktivt, kan skapningen fortsatt kontrollere sin felles kropp. Når en flerhodet skapning motstår besvergelser som påvirker følelser eller intellekt, triller den individuelle redningskast for hvert hode som fortsatt er intakt.
+Skapningen får én ekstra kampaksjon per ekstra hode utover det første. Disse går tapt etter hvert som hvert enkelt hode blir uskadeliggjort eller kuttet av. Så lenge ett hode forblir aktivt, kan skapningen fortsatt kontrollere den delte kroppen sin. Når en flerhodet skapning motstår besvergelser som påvirker følelser eller intellekt, ruller den individuelle redningskast for hvert intakt hode.
 
 #### Flerlemmet
 
-I likhet med flerhodet, får skapningen en ekstra kamphandling per ekstra par lemmer (utover det første) den kan bringe i spill under kamp – de som normalt brukes til å holde oppe eller flytte skapningen teller ikke. Disse ekstra kamphandlingene kan bare brukes til å utføre handlinger med de spesifikke lemmene, og går tapt etter hvert som hvert par blir immobilisert eller satt ut av spill.
+I likhet med flerhodet får skapningen én ekstra kampaksjon per ekstra par lemmer (utover det første) den kan bringe i spill under kamp – de som normalt brukes til å holde oppe eller flytte skapningen teller ikke. Disse ekstra kampaksjonene kan kun brukes til å utføre handlinger med de spesifikke lemmene, og går tapt etter hvert som hvert par blir immobilisert eller uskadeliggjort.
 
 #### Nattsyn
 
@@ -600,105 +597,105 @@ Lar skapningen behandle delvis mørke som opplyst, og mørke som delvis mørke.
 
 #### Giftimmunitet
 
-Skapningen er immun mot alle gifter. Alle skapninger uten SIZ har automatisk denne egenskapen, selv om den ikke er spesifikt oppført i beskrivelsene deres.
+Skapningen er immun mot all gift. Alle skapninger uten STØ har automatisk denne egenskapen, selv om den ikke er spesifikt listet opp i beskrivelsene deres.
 
 #### Regenerering
 
-Skapningen kan regenerere treffpoeng tapt til skade. Hastigheten på regenereringen varierer avhengig av skapningen. Med mindre det er spesifikt notert, erstatter ikke regenerering tapte lemmer, og avkutting av et vitale steder (hode, bryst eller mage) vil fortsatt føre til død.
+Skapningen kan regenerere treffpoeng tapt til skade. Regenereringshastigheten varierer avhengig av skapningen. Med mindre det er spesifikt notert, erstatter ikke regenerering tapte lemmer, og avkutting av en vital kroppsdel (hode, bryst eller mage) vil fortsatt føre til død.
 
 #### Svømmer
 
-Skapningen lykkes automatisk med daglig bevegelse og manøvrering mens den svømmer, og trenger ikke å kaste sin svømme-ferdighet med mindre den forsøker en uvanlig vanskelig oppgave, som å svømme mot en kraftig tidevannsstrøm eller hoppe opp en foss. En svømmer kan bytte ut svømme-ferdigheten med atletikk- og unnvikelseskast mens den er i vannet.
+Skapningen lykkes automatisk med daglige bevegelser og manøvrering mens den svømmer, og trenger ikke å rulle for ferdigheten Svømming med mindre den forsøker seg på en uvanlig vanskelig oppgave, som å svømme mot en kraftig strøm eller hoppe opp en foss. En svømmer kan erstatte ferdigheten Svømming med Atletikk og Unnvike-ruller mens den er i vannet.
 
 #### Skremmende
 
-Skapningens utseende, form eller aura er så skremmende at den tvinger seere til å foreta et uimotsagt viljestyrkekast. Suksess indikerer at seeren er rystet i én runde og ikke kan handle offensivt. Feil får dem til å flykte i terror. En fomling får seeren til å kollapse bevisstløs av sjokket. Kun en kritisk suksess lar seeren handle uhindret. Seeren trenger ikke å foreta flere sjekker i løpet av resten av kampen, selv om flere av de samme skapningene er til stede. Gjentatt eksponering for en bestemt type skremmende monster kan etter hvert tillate at ferdighetssjekken blir én eller flere grader lettere.
+Skapningens utseende, form eller aura er så skremmende at den tvinger betraktere til å foreta en uimotsagt viljestyrkerullen. Suksess indikerer at betrakteren er rystet i én runde og ikke kan handle offensivt. Fiasko fører til at de flykter i terror. En kløner fører til at betrakteren kollapser bevisstløs av sjokket. Kun en kritisk suksess tillater betrakteren å handle uhindret. Betrakteren trenger ikke foreta ytterligere sjekker resten av kampen, selv om flere av de samme skapningene er til stede. Gjentatt eksponering for en bestemt type skremmende monster kan etter hvert tillate at ferdighetssjekken blir én eller flere grader lettere.
 
 #### Trampe
 
-Skapningen kan trampe på vesener med en SIZ på halvparten eller mindre enn sin egen, ved å bruke sin atletikk-ferdighet for å angripe. Dette påfører skade lik dobbelt så mye som skapningens base skade-modifikator og øker størrelsen på angrepet med ett trinn. Hvordan og når tramp blir brukt, avhenger av omstendighetene. Hvis den står stille, kan skapningen trampe en liggende motstander på sin tur, men dette koster et handlingspoeng. Hvis trampingen utføres mens skapningen beveger seg eller løper over en motstander, er trampingen en fri handling.
+Skapningen kan trampe på vesener med en STØ på halvparten eller mindre av sin egen, ved å bruke ferdigheten Atletikk for å angripe. Dette påfører skade lik dobbelt så mye som skapningens base-skademodifikator og øker angrepets størrelse med ett trinn. Hvordan og når tramp brukes avhenger av omstendighetene. Hvis den er immobil, kan skapningen trampe på en liggende motstander i sin tur, men dette koster ett handlingspoeng. Hvis trampingen utføres mens skapningen beveger seg eller stormer over en motstander, er trampingen en fri handling.
 
 #### Udød
 
-Siden den allerede er død, er skapningen immun mot konsekvensene av både utmattelse og alvorlige skader. Udøde er derfor immune mot alle de skadelige effektene av alvorlige sår. Selv større sår setter dem ikke ut av spill, selv om de fortsatt kan få steder avkuttet eller knust som normalt. Behandle hodet eller brystet til den udøde skapningen som området der ånden eller magien er bundet. Ethvert sted (og de som grenser til det) som knuses eller kuttes av fra det bundne området, slutter å fungere, men resten av kroppen kan fortsette hvis den fortsatt har lemmer å handle med. Et større sår mot det magi-infuserte stedet ødelegger den udøde direkte. Kun fullstendig kroppslige døde skapninger kan inneha udød-egenskapen.
+Siden den allerede er død, er skapningen immun mot konsekvensene av både utmattelse og alvorlige skader. Udøde er derfor immune mot alle de skadelige effektene av alvorlige sår. Selv større sår uskadeliggjør dem ikke, selv om de fortsatt kan få lemmer avkuttet eller knust på normal måte. Behandle hodet eller brystet til den udøde skapningen som området hvor ånden eller magien er bundet. Enhver kroppsdel (og de som er sammenhengende med den) som knuses eller kuttes fra det bundne området, slutter å fungere, men resten av kroppen kan fortsette hvis den fortsatt har lemmer å handle med. Et større sår mot det magisk infuserte området ødelegger den udøde umiddelbart. Kun fullstendig kroppslige døde skapninger kan inneha egenskapen Udød.
 
 #### Vampirisk
 
-Skapningen drenerer offerets blod, noe som forårsaker en økning i utmattelsesnivåer. Skapningen må bruke et bittangrep og påføre skade med bittet for å kunne drenere blod med hastigheten som er beskrevet i skapningens beskrivelse.
+Skapningen drenerer offerets blod, noe som fører til en økning i utmattelsesnivåer. Skapningen må bruke et biteangrep og påføre skade med bittet for å kunne drenere blod i hastigheten beskrevet i skapningens beskrivelse.
 
 #### Giftig
 
-Skapningen har et giftig bitt, stikk eller andre angrepsmetoder.
+Skapningen har et giftig bitt, stikk eller andre angrepsmidler.
 
 #### Vingeslag
 
-Skapningen er så stor at den kan skade motstandere ved å slå med vingene. Dette krever en angrepshandling og gjør skade lik dens skade-modifikator til de innenfor 10 fot fra sideskjermene dens.
+Skapningen er så stor at den kan skade motstandere ved å slå med vingene. Dette krever en angrepshandling og gjør skade lik skademodifikatoren til de som er innenfor 3 meter fra dens sidefelter.
 
 ---
 ## Eksempel på grunnleggende magiske gjenstander
 
-Dette er bare et lite utvalg av noen av de mer vanlige magiske gjenstandene i _Classic Fantasy Imperative_. De med priser inkludert en \* må legge til kostnaden for våpenet eller rustningen i totalen.
+Dette er bare et lite utvalg av noen av de mer vanlige magiske gjenstandene i _Classic Fantasy Imperative_. De med priser som inkluderer en \* må inkludere prisen for våpenet eller rustningen i totalen.
 
-#### +1 eller +2 Magika-amulett (250 GP eller 500 GP)
+#### +1 eller +2 Magica-amulett (250 GP eller 500 GP)
 
-Denne amuletten gir bæreren ekstra magipoeng, som kan trekkes fra for å kaste besvergelser. En karakter kan kun trekke fra én gjenstand som gir magipoeng om gangen. Brukte poeng regenereres ikke naturlig og må tilføres av en magiker, ikke nødvendigvis amulettenes eier.
+Denne amuletten gir brukeren ekstra magipoeng, som kan brukes til å kaste besvergelser. En karakter kan bare bruke magipoeng fra én gjenstand av gangen. Brukte poeng regenereres ikke naturlig og må tilføres av en magibruker, ikke nødvendigvis amulettholderen.
 
 #### +1 Rustning (500 GP\*)
 
-Denne rustningen har blitt fortryllet for å negere ett ekstra poeng skade.
+Denne rustningen har blitt fortryllet for å neglisjere ett ekstra poeng skade.
 
-#### +1 eller +2 Magika-ring (250 GP eller 500 GP)
+#### +1 eller +2 Magica-ring (250 GP eller 500 GP)
 
-Denne ringen fungerer på alle måter som en magika-amulett som beskrevet ovenfor.
+Denne ringen fungerer på alle måter som en Magica-amulett som beskrevet ovenfor.
 
 #### +1 Beskyttelsesring (500 GP)
 
-En beskyttelsesring gir +1 rustningspoeng mens den bæres. I tillegg legges en bonus på +5% til motstandskast. Hvis den bæres med magisk rustning, gjelder kun bonusen fra rustningen. Bonusen som gis til motstandskast påvirkes imidlertid ikke negativt. En beskyttelsesring kan bæres med ikke-magisk rustning uten straff. Flere beskyttelsesringer stables ikke, kun den største bonusen gjelder.
+En Beskyttelsesring gir +1 poeng rustning mens den bæres. Legg i tillegg til en bonus på +5% på motstandsruller. Hvis den brukes sammen med magisk rustning, gjelder kun bonusen fra rustningen. Bonusen på motstandsruller påvirkes imidlertid ikke negativt. En Beskyttelsesring kan brukes med ikke-magisk rustning uten straff. Flere Beskyttelsesringer stables ikke; kun den største bonusen gjelder.
 
 #### +5% Skjold (250 GP\*)
 
-Dette skjoldet har blitt forsterket gjennom magisk fortryllelse, med en bonus på +5% til kampferdighet ved parering. Dette skjoldet har +5 rustningspoeng og +2 treffpoeng for et skjold av sin type.
+Dette skjoldet har blitt forsterket gjennom magisk fortryllelse, med en bonus på +5% på kampferdigheter ved parering. Dette skjoldet besitter +5 rustningspoeng og +2 treffpoeng for et skjold av sin type.
 
-#### +5% Skjold, +20% mot prosjektiler (500 GP\*)
+#### +5% Skjold, +20% vs. prosjektiler (500 GP\*)
 
-Dette skjoldet har blitt forsterket gjennom magisk fortryllelse, med en bonus på +5% til kampferdighet ved parering av et nærkampangrep og +20% ved parering av prosjektiler. Dette skjoldet har +5 rustningspoeng og +2 treffpoeng for et skjold av sin type.
+Dette skjoldet har blitt forsterket gjennom magisk fortryllelse, med en bonus på +5% på kampferdigheter ved parering av nærkampangrep og +20% ved parering av prosjektiler. Dette skjoldet besitter +5 rustningspoeng og +2 treffpoeng for et skjold av sin type.
 
 #### +10% Skjold (500 GP\*)
 
-Dette skjoldet har blitt forsterket gjennom magisk fortryllelse, med en bonus på +10% til kampferdighet ved parering. Dette skjoldet har +10 rustningspoeng og +4 treffpoeng for et skjold av sin type.
+Dette skjoldet har blitt forsterket gjennom magisk fortryllelse, med en bonus på +10% på kampferdigheter ved parering. Dette skjoldet besitter +10 rustningspoeng og +4 treffpoeng for et skjold av sin type.
 
 #### +1 Våpen (nærkamp 400 GP\*, avstand 500 GP\*)
 
-Dette våpenet har blitt fortryllet for å gjøre +1 skade og har +10 rustningspoeng og +4 treffpoeng.
+Dette våpenet har blitt fortryllet til å gjøre +1 skade og besitter +10 rustningspoeng og +4 treffpoeng.
 
 #### Oppbevaringspose (500 GP)
 
-Denne store tøysekken åpner seg inn i en lommedimensjon, og er mye større på innsiden enn på utsiden, og kan brukes til å lagre mye mer enn det som normalt kunne fått plass i en pose av dens form og størrelse. Posen er lik 2 'ting' i vekt uavhengig av faktisk innhold og kan lagre opptil 100 'ting'. Denne posen kan bæres i en annen beholder og veier fortsatt bare 2 'ting', selv når den er full.
+Denne store tøysekken åpner seg til en lommedimensjon, og er mye større på innsiden enn på utsiden. Den kan brukes til å lagre mye mer enn det som normalt ville fått plass i en pose av samme form og størrelse. Posen tilsvarer 2 «ting» i vekt uavhengig av det faktiske innholdet, og kan lagre opptil 100 «ting». Denne posen kan bæres i en annen beholder og veier fortsatt bare 2 «ting» selv når den er full.
 
 #### Alvestøvler (1000 GP)
 
-Disse støvlene i mykt lær endrer bærerens evne til å bevege seg lydløst uavhengig av terreng; selv det å gå over tørre blader eller knirkende gulvplanker produserer ikke noe mer merkbart enn et mykt fottrinn. Bæreren tildeles en ferdighet i sniking på 95%, umodifisert av terreng. Støvlene gir ingen ytterligere bonus når det gjelder de med en ferdighet på over 95%, annet enn at de kan bruke sitt normale ferdighetsnivå uten å bekymre seg for terrengstraffer.
+Disse myke lærstøvlene endrer brukerens evne til å bevege seg lydløst uavhengig av terreng; selv når man går over tørre blader eller knirkende gulvplanker, produserer det ikke merkbart mer enn et mykt fottrinn. Brukeren tildeles 95% i ferdigheten Sniking, umodifisert av terreng. Støvlene gir ingen ytterligere bonus for de med en ferdighet på over 95%, utover å tillate dem å bruke sitt normale ferdighetsnivå uten å bekymre seg for terrengstraffer.
 
 #### Usynlighetsdrikk (50 GP)
 
-Når den drikkes, gir denne drikken brukeren usynlighet i 1d4+2 minutter. Som med [usynlighetsbesvergelsen](0010_Spells.md?id=invisibility), vil ethvert angrep gjort av brukeren føre til at motivet umiddelbart dukker opp igjen. Andre ikke-kamphandlinger foretatt av brukeren, for eksempel å snakke, spise, løpe, åpne dører og så videre, har ingen effekt på varigheten, som er lik 1d4+2 minutter per dose. En typisk drikk inneholder nok til åtte doser.
+Når den drikkes, gir denne drikken brukeren usynlighet i 1d4+2 minutter. Som med besvergelsen [Usynlighet](0010_Spells.md?id=invisibility), fører ethvert angrep gjort av mottakeren til at vedkommende øyeblikkelig blir synlig igjen. Andre ikke-kampshandlinger utført av brukeren, for eksempel å snakke, spise, løpe, åpne dører osv., har ingen effekt på varigheten, som er 1d4+2 minutter per dose. En typisk flaske inneholder nok til åtte doser.
 
 #### Levitasjonsdrikk (40 GP)
 
-Brukeren av denne drikken får evnen til å levitere vertikalt med en hastighet på 10 fot per runde. Brukeren kan bære én annen person hvis de er SIZ 20 eller mindre. Selv om karakteren ikke kan bevege seg horisontalt under kraften av denne besvergelsen, kan karakteren være i stand til å trekke seg langs en vegg eller klippe med en basishastighet på 10 fot per runde.
+Brukeren av denne drikken får evnen til å levitere vertikalt med en hastighet på 3 meter per runde. Brukeren kan bære én annen person hvis de er STØ 20 eller mindre. Selv om karakteren ikke kan bevege seg horisontalt ved hjelp av denne besvergelsen, kan karakteren kanskje trekke seg langs en vegg eller klippe med en grunnbevegelseshastighet på 3 meter per runde.
 
-#### Ring med (besvergelse), Rank 1 (1 000 GP)
+#### Ring med (Besvergelse), Rang 1 (1 000 GP)
 
-Denne ringen tillater kasting av én enkelt besvergelse av Rank 1. Uansett besvergelse har alle en pågående varighet, med besvergelsen som kastes automatisk når ringen settes på og varer til den fjernes. De er begrenset i typen besvergelse som kan fortrylles inn i dem, hvor de vanligste er Oppdag magi, Tåle varme eller kulde, Fjærfjell, Flytende disk, Usynlighet, Levitasjon, Beskyttelse mot ondskap (eller godhet), Sakte gift. Andre er mulig etter spillmesterens skjønn. Når det gjelder usynlighetsringen, fører angrep til at bæreren blir synlig i 1d3+1 runder.
+Denne ringen tillater kasting av én besvergelse av Rang 1. Uavhengig av besvergelsen har alle en pågående varighet, hvor besvergelsen kastes automatisk når ringen settes på og varer til den fjernes. De er begrenset i typen besvergelse som kan fortrylles inn i dem, hvor de vanligste er Oppdag magi, Tåle varme eller kulde, Fjærfall, Svevende disk, Usynlighet, Levitasjon, Beskyttelse mot det onde (eller gode), Sakte gift. Andre er mulige etter spillmesterens skjønn. Når det gjelder Usynlighetsring, fører angrep til at brukeren blir synlig i 1d3+1 runder.
 
-#### Tryllestav med (besvergelse), Rank 1 (1 000 GP)
+#### Tryllestav med (Besvergelse), Rang 1 (1 000 GP)
 
-Denne tryllestaven besitter én enkelt besvergelse som vanligvis er brukbar for alle karakterer uavhengig av klasse. Det er 50% sjanse for at en magisk stav vil inneholde en magiker-besvergelse, og 50% for en prest-besvergelse. Staven besitter 90 ladninger, og hver bruk bruker et antall ladninger lik besvergelsens normale kastekostnad, uavhengig av intensitet. For eksempel vil en stav kaste en besvergelse med en kastekostnad på '1/intensitet' ved å bruke én enkelt ladning, mens en besvergelse med en kastekostnad på '3/intensitet' vil bruke 3 ladninger. Dette er uavhengig av besvergelsens faktiske intensitet som produsert av gjenstanden. Besvergelsen kastes med en intensitet og styrke på 3 og koster ikke brukeren noen magipoeng. Se den relevante besvergelsen for ytterligere informasjon.
+Denne staven besitter én besvergelse som vanligvis er brukbar for alle karakterer uavhengig av klasse. Det er 50 % sjanse for at en magisk tryllestav inneholder en magibruker-besvergelse, og 50 % for en kleriker-besvergelse. Staven besitter 90 ladninger, og hver bruk bruker et antall ladninger lik besvergelsens normale kastekostnad, uavhengig av intensitet. For eksempel vil en stav kaste en besvergelse med en kastekostnad på «1/intensitet» ved å bruke én ladning, mens en besvergelse med en kastekostnad på «3/intensitet» vil bruke 3 ladninger. Dette er uavhengig av besvergelsens faktiske intensitet slik den produseres av gjenstanden. Besvergelsen kastes med en intensitet og størrelse på 3 og koster ikke brukeren noen magipoeng. Se den relevante besvergelsen for ytterligere informasjon.
 
-#### Stav med (besvergelse), Rank 1 (1 500 GP)
+#### Stav med (Besvergelse), Rang 1 (1 500 GP)
 
-I motsetning til en tryllestav, inneholder stav med besvergelse 60 ladninger og har en intensitet og styrke på 6. Staven kan imidlertid kun brukes av en karakter med en klasse som er i stand til å kaste besvergelsen.
+I motsetning til en Tryllestav med besvergelse, inneholder staven med besvergelse 60 ladninger og har en intensitet og størrelse på 6. Staven kan imidlertid kun brukes av en karakter med en klasse som er i stand til å kaste besvergelsen.
 
-#### Staff med (besvergelse), Rank 1 (2 000 GP)
+#### Staff med (Besvergelse), Rang 1 (2 000 GP)
 
-En staff med besvergelse inneholder 30 ladninger og har en intensitet og styrke på 9. Staven kan imidlertid kun brukes av en karakter med en klasse som er i stand til å kaste besvergelsen.
+En Staff med besvergelse inneholder 30 ladninger og har en intensitet og størrelse på 9. Imidlertid kan staven kun brukes av en karakter med en klasse som er i stand til å kaste besvergelsen.
