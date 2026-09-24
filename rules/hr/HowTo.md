@@ -2,11 +2,11 @@
 
 1. Osnovno razumijevanje [markdown jezika](https://www.markdownguide.org/basic-syntax/).
 
-2. Morat ćete stvoriti besplatan [github](https://github.com/) korisnički račun ako ga već nemate. Preporučujemo da koristite naziv svog RPG-a jer će to postati dio URL-a koji će ljudi koristiti za pristup vašem SRD-u.
+2. Morat ćete stvoriti besplatan [GitHub](https://github.com/) korisnički račun ako ga već nemate. Preporučujemo da koristite naziv svog RPG-a jer će to postati dio URL-a koji će ljudi koristiti za pristup vašem SRD-u.
 
-3. Cijeli ovaj proces možete obaviti putem preglednika bez poznavanja git-a. Ipak, učenje github desktop-a omogućit će vam da testirate sve izmjene lokalno prije nego što ih objavite uživo da ih cijeli svijet vidi.
+3. Cijeli ovaj proces možete obaviti putem preglednika bez poznavanja git-a. Iako će vam učenje GitHub Desktop-a omogućiti lokalno testiranje svih promjena prije nego što ih objavite da ih svijet vidi.
 
-> Ako imate registriranu domenu, možete je koristiti u ovom procesu za stvaranje SRD-a poput mog na https://srd.7thextinctionrpg.com
+> Ako imate registrirano ime domene, možete ga koristiti u ovom procesu za stvaranje SRD-a poput mog https://srd.7thextinctionrpg.com
 
 # Proces
 
@@ -16,7 +16,7 @@
 
 2. Idite na javni predložak https://github.com/7thExtinctionrpg/RPG_SRD_Template
 
-3. Kliknite na "Use this template"
+3. Kliknite "Use this template"
 
 ![Step3](/_media/Step3.png)
 
@@ -26,26 +26,26 @@
 
 ![Step5](/_media/Step5.png)
 
-6. Odaberite 'Private' 
+6. Odaberite 'Private'
 
 7. Odaberite 'Create repository'
 
-Trajat će 5-30 sekundi da se kopira predložak, nakon čega ćete imati vlastitu kopiju.
+Trebat će 5-30 sekundi da se kopira predložak, nakon čega ćete imati svoju kopiju.
 
-8. Provjerite imate li datoteku ".nojekyll" - ovo je prazna datoteka koja je potrebna prilikom hostiranja web stranice na Github-u, inače se SRD neće pravilno prikazivati. *(Govori GitHub Pages-u da ne provlači objavljene datoteke kroz Jekyll).*
+8. Osigurajte da imate datoteku ".nojekyll", to je prazna datoteka koja je potrebna prilikom hostanja web stranice na Github-u, u suprotnom se SRD neće pravilno prikazati. *(Govori GitHub Pages-u da ne pokreće objavljene datoteke kroz Jekyll).*
 
 
 ## Dodavanje vašeg sadržaja
 
 ### *.md datoteke
 
-.md datoteke su markdown datoteke. Markdown je lagan jezik za označavanje koji možete koristiti za dodavanje elemenata oblikovanja u tekstualne dokumente. Ovisno o veličini vašeg sadržaja, možete smjestiti sve informacije o igri u jednu *.md datoteku ili, kao što sam ja učinio na [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), stvoriti zasebne datoteke za svako poglavlje. "sample.md" pruža nekoliko primjera oblikovanja.
+.md datoteke su markdown datoteke. Markdown je lagani označni jezik koji možete koristiti za dodavanje elemenata oblikovanja u tekstualne dokumente. Ovisno o veličini vašeg sadržaja, možete sve informacije o svojoj igri staviti u jednu *.md datoteku ili, kao što sam ja učinio na [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), stvoriti zasebne datoteke za svako poglavlje. "Sample.md" pruža neke primjere oblikovanja.
 
-Markdown jezik je vrlo jednostavan za naučiti; koristite poveznicu navedenu pod točkom 2 u odjeljku Preduvjeti iznad za potpuni popis sintakse.
+Markdown jezik je vrlo jednostavan za naučiti, koristite poveznicu navedenu u točki 2 pod Preduvjeti iznad za potpuni popis sintakse.
 
-### _Sidebar.md
+### _sidebar.md
 
-Ovo je vaš izbornik, navigacijska traka na lijevoj strani web stranice. Nakon što dodate markdown datoteku u svoj repozitorij, ovdje morate dodati datoteku kako bi se njezin sadržaj uključio. Slijedite postojeće oblikovanje.
+Ovo je vaš izbornik, navigacijska ploča na lijevoj strani web stranice. Nakon što ste dodali markdown datoteku u svoj repozitorij, ovdje morate dodati tu datoteku kako bi se njezin sadržaj uključio. Pratite postojeće oblikovanje.
 
 
 ## Omogućite Github Pages da pretvori repozitorij u web stranicu
@@ -54,15 +54,15 @@ Ovo je vaš izbornik, navigacijska traka na lijevoj strani web stranice. Nakon �
 
 ![Website-Step1](/_media/Website-Step1.png)
 
-2. Odaberite 'Pages' u izborniku na lijevoj strani
+2. Odaberite 'Pages' na izborniku s lijeve strane
 
 ![Website-Step2](/_media/Website-Step2.png)
 
-3. Ako niste učinili repozitorij 'public', imate dva izbora:
-    a. Učinite repozitorij javnim (public), što će vam omogućiti korištenje Github stranica za besplatno hostiranje vaše SRD web stranice
-    b. Nadogradite svoj Github račun (u trenutku pisanja ovog teksta košta 4 USD mjesečno ili 48 USD godišnje)
+3. Ako niste repozitorij postavili kao 'public', imate dva izbora:
+    a. Učinite repozitorij javnim (public), što će vam omogućiti korištenje Github pages-a za besplatno hostanje vaše SRD web stranice
+    b. Nadogradite svoj Github račun (u vrijeme pisanja ovoga košta 4 USD mjesečno ili 48 USD godišnje)
 
-4. Pod 'Branch' odaberite 'main' i kliknite spremi
+4. Pod 'Branch' odaberite 'main' i kliknite Save
 
 5. Pričekajte 10-20 sekundi, a zatim osvježite stranicu
 
@@ -80,11 +80,11 @@ Ovo je vaš izbornik, navigacijska traka na lijevoj strani web stranice. Nakon �
 3. Promijenite ih u fontove koje želite koristiti
 
 
-## Korištenje dodataka Fontawesome i/ili Material Icons za prikaz besplatnih ikona u vašem SRD-u
+## Korištenje Fontawesome i/ili Material Icons dodatka za prikaz besplatnih ikona u vašem SRD-u
 
 ### Fontawesome
 
-Koristite Fontawesome za dobivanje besplatnih ikona i animiranih ikona. Pretplatnici mogu koristiti Pro ikone.
+Koristite Fontawesome za dobivanje besplatnih ikona i animiranih ikona. Pretplatnici mogu koristiti Pro ikone
 
 1. Pronađite ikonu na [Fontawesome](https://fontawesome.com/icons)
 2. Odaberite ikonu
@@ -102,7 +102,7 @@ fa-solid fa-dice-d20
 
 ### Material Icons
 
-Koristite Material Icons za još više besplatnih ikona.
+Koristite Material Icons za više besplatnih ikona
 
 1. Pronađite ikone na [Material Icons](https://fonts.google.com/icons)
 2. Kopirajte i umetnite web span poveznicu izravno u svoje markdown datoteke

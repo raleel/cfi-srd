@@ -1,56 +1,56 @@
 # Predpogoji
 
-1. Osnovno razumevanje [markdown jezika](https://www.markdownguide.org/basic-syntax/).
+1. Osnovno razumevanje [jezika markdown](https://www.markdownguide.org/basic-syntax/).
 
-2. Ustvariti morate brezplačen račun na [github-u](https://github.com/), če ga še nimate. Priporočam, da uporabite ime svoje RPG igre, saj bo to postalo del URL-ja, ki ga bodo ljudje uporabljali za dostop do vašega SRD-ja.
+2. Ustvariti boste morali brezplačen račun na [GitHubu](https://github.com/), če ga še nimate. Priporočamo, da uporabite ime svoje RPG igre, saj bo to postalo del URL-naslova, ki ga bodo ljudje uporabljali za dostop do vašega SRD-ja.
 
-3. Celoten postopek lahko izvedete prek brskalnika, ne da bi poznali git. Vendar vam bo učenje programa Github Desktop omogočilo, da spremembe preizkusite lokalno, preden jih objavite v živo, da jih vidi ves svet.
+3. Celoten postopek lahko opravite prek brskalnika, ne da bi poznali git. Vendar vam bo učenje orodja GitHub Desktop omogočilo lokalno testiranje vseh sprememb, preden jih objavite v živo, da jih vidi svet.
 
 > Če imate registrirano domensko ime, ga lahko uporabite v tem postopku za ustvarjanje SRD-ja, kot sem to storil jaz: https://srd.7thextinctionrpg.com
 
 # Postopek
 
-## Ustvarjanje repozitorija na Githubu
+## Ustvarjanje repozitorija na GitHubu
 
 1. Prijavite se v Github
 
 2. Pomaknite se do javne predloge https://github.com/7thExtinctionrpg/RPG_SRD_Template
 
-3. Kliknite "Use this template"
+3. Kliknite "Use this template" (Uporabi to predlogo)
 
 ![Step3](/_media/Step3.png)
 
-4. Izberite "Create a new repository"
+4. Izberite "Create a new repository" (Ustvari nov repozitorij)
 
 5. Vnesite ime repozitorija
 
 ![Step5](/_media/Step5.png)
 
-6. Izberite 'Private' 
+6. Izberite 'Private' (Zasebno)
 
-7. Izberite 'Create repository'
+7. Izberite 'Create repository' (Ustvari repozitorij)
 
 Kopiranje predloge bo trajalo od 5 do 30 sekund, nato boste imeli svojo kopijo.
 
-8. Prepričajte se, da imate datoteko ".nojekyll". To je prazna datoteka, ki je potrebna pri gostovanju spletnega mesta na Githubu, sicer se SRD ne bo pravilno prikazal. *(Pove storitvi GitHub Pages, naj objavljenih datotek ne obdeluje prek Jekyll-a).*
+8. Prepričajte se, da imate datoteko ".nojekyll". To je prazna datoteka, ki je potrebna pri gostovanju spletnega mesta na GitHubu, sicer se SRD ne bo pravilno prikazal. *(Pove GitHub Pages, naj objavljenih datotek ne obdeluje prek Jekyll).*
 
 
 ## Dodajanje vsebine
 
-### *.md datoteke
+### Datoteke *.md
 
-Datoteke .md so markdown datoteke. Markdown je lahek označevalni jezik, ki ga lahko uporabite za dodajanje elementov oblikovanja v navadna besedilna dokumenta. Glede na velikost vsebine lahko vse informacije o svoji igri vstavite v eno samo datoteko *.md ali pa, tako kot jaz na [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), ustvarite ločene datoteke za vsako poglavje. "sample.md" ponuja nekaj primerov oblikovanja.
+Datoteke .md so datoteke markdown; Markdown je lahek označevalni jezik, ki ga lahko uporabite za dodajanje elementov oblikovanja v besedilne dokumente s čistim besedilom. Glede na obseg vsebine lahko vse podatke o svoji igri vstavite v eno samo datoteko *.md ali pa, kot sem to storil na [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), ustvarite ločene datoteke za vsako poglavje. "Sample.md" vsebuje nekaj primerov oblikovanja.
 
-Markdown jezik se je zelo enostavno naučiti; za celoten seznam sintakse uporabite povezavo, navedeno v 2. točki pod razdelkom Predpogoji zgoraj.
+Jezik markdown se je zelo enostavno naučiti; za celoten seznam sintakse uporabite povezavo v 2. točki pod Predpogoji zgoraj.
 
-### _Sidebar.md
+### _sidebar.md
 
-To je vaš meni oziroma navigacijska vrstica na levi strani spletnega mesta. Ko v svoj repozitorij dodate datoteko markdown, morate datoteko dodati tukaj, da bo njena vsebina vključena. Upoštevajte obstoječe oblikovanje.
+To je vaš meni, navigacijska plošča na levi strani spletnega mesta. Ko v svoj repozitorij dodate datoteko markdown, morate datoteko dodati sem, da bo njena vsebina vključena. Upoštevajte obstoječe oblikovanje.
 
 
 ## Omogočanje Github Pages za pretvorbo repozitorija v spletno mesto
 
-1. V svojem repozitoriju kliknite na 'Settings'
+1. V svojem repozitoriju kliknite 'Settings' (Nastavitve)
 
 ![Website-Step1](/_media/Website-Step1.png)
 
@@ -58,11 +58,11 @@ To je vaš meni oziroma navigacijska vrstica na levi strani spletnega mesta. Ko 
 
 ![Website-Step2](/_media/Website-Step2.png)
 
-3. Če repozitorija niste nastavili na 'public', imate dve izbiri:
-    a. Nastavite repozitorij na javno (public), kar vam bo nato omogočilo brezplačno uporabo Github pages za gostovanje vašega SRD spletnega mesta.
-    b. Nadgradite svoj Github račun (v času pisanja tega besedila stane 4 $ na mesec ali 48 $ letne naročnine).
+3. Če repozitorija niste naredili 'public' (javnega), imate dve izbiri:
+    a. Repozitorij naredite javnega, kar vam bo omogočilo brezplačno gostovanje SRD spletnega mesta prek Github pages
+    b. Nadgradite svoj Github račun (v času pisanja tega besedila stane 4 $ na mesec ali 48 $ letno)
 
-4. Pod 'Branch' izberite 'main' in kliknite shrani (save)
+4. Pod 'Branch' (Veja) izberite 'main' in kliknite Save (Shrani)
 
 5. Počakajte 10–20 sekund in nato osvežite stran
 
@@ -73,18 +73,18 @@ To je vaš meni oziroma navigacijska vrstica na levi strani spletnega mesta. Ko 
 
 ## Spreminjanje pisav
 
-1. Uredite datoteko /_assets/style.css 
+1. Uredite datoteko /_assets/style.css
 
-2. V razdelku 'body section' boste našli siteFont in headingFont
+2. Pod 'body section' (razdelek telesa) boste našli siteFont in headingFont
 
-3. Spremenite ju v pisave, ki jih želite uporabiti
+3. Spremenite jih v pisave, ki jih želite uporabiti
 
 
-## Uporaba vtičnikov Fontawesome in/ali Material Icons za prikaz brezplačnih ikon v vašem SRD-ju
+## Uporaba vtičnika Fontawesome in/ali Material Icons za prikaz brezplačnih ikon v vašem SRD-ju
 
 ### Fontawesome
 
-Uporabite Fontawesome za pridobitev brezplačnih ikon in animiranih ikon. Naročeni uporabniki lahko uporabljajo Pro ikone.
+Uporabite Fontawesome za pridobitev brezplačnih in animiranih ikon. Naročeni uporabniki lahko uporabljajo Pro ikone.
 
 1. Poiščite ikono na [Fontawesome](https://fontawesome.com/icons)
 2. Izberite ikono
@@ -94,7 +94,7 @@ Uporabite Fontawesome za pridobitev brezplačnih ikon in animiranih ikon. Naroč
 <i class="fa-solid fa-dice-d20"></i>
 ```
 
-4. Kopirano besedilo vstavite med `:` brez presledkov
+4. Kopirano besedilo postavite med `:` brez presledkov
 
 ```EXAMPLE
 fa-solid fa-dice-d20
@@ -102,10 +102,10 @@ fa-solid fa-dice-d20
 
 ### Material Icons
 
-Uporabite Material Icons za več brezplačnih ikon.
+Za več brezplačnih ikon uporabite Material Icons
 
 1. Poiščite ikone na [Material Icons](https://fonts.google.com/icons)
-2. Kopirajte in vstavite spletno povezavo span neposredno v svoje markdown datoteke
+2. Kopirajte in vstavite spletno povezavo span neposredno v svoje datoteke markdown
 
 ```markup
 <span class="material-icons">face</span>

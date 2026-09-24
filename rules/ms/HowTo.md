@@ -2,13 +2,13 @@
 
 1. Pemahaman asas tentang [bahasa markdown](https://www.markdownguide.org/basic-syntax/).
 
-2. Anda perlu membuat akaun [github](https://github.com/) percuma jika belum mempunyainya. Adalah disyorkan untuk menggunakan nama RPG anda kerana ini akan menjadi sebahagian daripada URL yang akan digunakan oleh orang ramai untuk mengakses SRD anda. 
+2. Anda perlu membuat akaun [GitHub](https://github.com/) percuma jika anda belum memilikinya. Kami mengesyorkan agar anda menggunakan nama RPG anda kerana ini akan menjadi sebahagian daripada URL yang akan digunakan orang untuk mengakses SRD anda. 
 
-3. Anda boleh melakukan keseluruhan proses ini melalui pelayar tanpa perlu mengetahui git. Walau bagaimanapun, mempelajari github desktop akan membolehkan anda menguji sebarang perubahan secara setempat sebelum melancarkannya secara langsung untuk dilihat oleh orang ramai.
+3. Anda boleh melakukan keseluruhan proses ini melalui pelayar tanpa perlu mengetahui git. Walaupun mempelajari GitHub Desktop akan membolehkan anda menguji sebarang perubahan secara setempat sebelum menyiarkannya secara langsung untuk dilihat oleh dunia.
 
-> Jika anda mempunyai nama domain yang didaftarkan, anda boleh menggunakannya dengan proses ini untuk mencipta SRD seperti yang saya lakukan https://srd.7thextinctionrpg.com
+> Jika anda mempunyai nama domain yang berdaftar, anda boleh menggunakannya dengan proses ini untuk mencipta SRD seperti yang saya lakukan https://srd.7thextinctionrpg.com
 
-# Prosesnya
+# Proses
 
 ## Mencipta Repositori di Github
 
@@ -30,27 +30,27 @@
 
 7. Pilih 'Create repository'
 
-Ia akan mengambil masa 5-30 saat untuk menyalin templat tersebut, kemudian anda akan mempunyai salinan anda sendiri.
+Ia akan mengambil masa 5-30 saat untuk menyalin templat, kemudian anda akan mempunyai salinan anda sendiri.
 
-8. Pastikan anda mempunyai fail ".nojekyll" ini adalah fail kosong yang diperlukan semasa mengehoskan laman web di Github, jika tidak, SRD tidak akan dipaparkan dengan betul. *(Memberitahu GitHub Pages supaya tidak menjalankan fail yang diterbitkan melalui Jekyll).*
+8. Pastikan anda mempunyai fail ".nojekyll", ini adalah fail kosong yang diperlukan apabila mengehos laman web di Github, jika tidak, SRD tidak akan dipaparkan dengan betul. *(Memberitahu GitHub Pages supaya tidak menjalankan fail yang diterbitkan melalui Jekyll).*
 
 
 ## Menambah Kandungan Anda
 
 ### Fail *.md
 
-Fail .md ialah fail markdown, Markdown ialah bahasa penanda ringan yang boleh anda gunakan untuk menambah elemen pemformatan pada dokumen teks biasa. Bergantung pada saiz kandungan anda, anda boleh meletakkan semua maklumat permainan anda dalam satu fail *.md, atau seperti yang saya lakukan di [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) mencipta fail berasingan untuk setiap bab. "sample.md" menyediakan beberapa contoh pemformatan. 
+Fail .md ialah fail markdown, Markdown ialah bahasa penanda ringan yang boleh anda gunakan untuk menambah elemen pemformatan pada dokumen teks biasa. Bergantung pada saiz kandungan anda, anda boleh meletakkan semua maklumat permainan anda dalam satu fail *.md, atau seperti yang saya lakukan di [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) dengan mencipta fail berasingan untuk setiap bab. "Sample.md" menyediakan beberapa contoh pemformatan. 
 
-Bahasa markdown sangat mudah dipelajari, gunakan pautan yang disediakan pada perkara 2 di bawah Prasyarat di atas untuk senarai sintaks penuh. 
+Bahasa Markdown sangat mudah dipelajari, gunakan pautan yang disediakan pada perkara 2 di bawah Prasyarat di atas untuk senarai sintaks penuh. 
 
-### _Sidebar.md
+### _sidebar.md
 
 Ini adalah menu anda, anak tetingkap navigasi di sebelah kiri laman web. Sebaik sahaja anda telah menambah fail markdown ke repositori anda, anda perlu menambah fail tersebut di sini supaya kandungannya disertakan. Ikuti pemformatan sedia ada.
 
 
-## Dayakan Github Pages untuk Menukar Repositori kepada Laman Web
+## Mendayakan Github Pages untuk Menukar Repositori menjadi Laman Web
 
-1. Dalam repositori anda, klik pada 'Settings'
+1. Di dalam repositori anda, klik pada 'Settings'
 
 ![Website-Step1](/_media/Website-Step1.png)
 
@@ -58,13 +58,13 @@ Ini adalah menu anda, anak tetingkap navigasi di sebelah kiri laman web. Sebaik 
 
 ![Website-Step2](/_media/Website-Step2.png)
 
-3. Jika anda belum menjadikan repositori itu 'public', anda mempunyai dua pilihan
-    a. Jadikan repositori itu public yang kemudiannya membolehkan anda menggunakan Github pages untuk mengehoskan Laman Web SRD anda secara percuma
+3. Jika anda belum menjadikan repositori tersebut 'public', anda mempunyai dua pilihan
+    a. Jadikan repositori tersebut awam yang kemudiannya akan membolehkan anda menggunakan Github pages untuk mengehos Laman Web SRD anda secara percuma
     b. Naik taraf akaun Github anda (pada masa penulisan ini, ia berharga $4 sebulan atau yuran tahunan $48)
 
-4. Di bawah 'Branch' pilih 'main' dan klik simpan
+4. Di bawah 'Branch', pilih 'main' dan klik Save
 
-5. Berikan masa 10-20 saat kemudian muat semula halaman
+5. Beri masa 10-20 saat kemudian muat semula halaman
 
 6. Anda kini akan melihat URL anda seperti https://coweater.github.io/mysrd/
 
@@ -75,20 +75,20 @@ Ini adalah menu anda, anak tetingkap navigasi di sebelah kiri laman web. Sebaik 
 
 1. Edit fail /_assets/style.css 
 
-2. Di bawah 'body section' anda akan menemui siteFont & headingFont
+2. Di bawah 'bahagian body' anda akan menemui siteFont & headingFont
 
-3. Tukar ini kepada fon yang ingin anda gunakan
+3. Tukar ini kepada fon yang anda ingin gunakan
 
 
 ## Menggunakan pemalam Fontawesome dan/atau Material Icons untuk memaparkan ikon percuma dalam SRD anda
 
 ### Fontawesome
 
-Gunakan Fontawesome untuk mendapatkan ikon percuma dan ikon animasi. Pengguna yang melanggan boleh menggunakan Pro Icons
+Gunakan Fontawesome untuk mendapatkan ikon percuma dan ikon animasi. Pengguna yang melanggan boleh menggunakan Ikon Pro
 
 1. Cari ikon di [Fontawesome](https://fontawesome.com/icons)
 2. Pilih ikon tersebut
-3. Dalam tetingkap timbul, di bawah tab HTML salin segala-galanya di antara " "
+3. Dalam tetingkap timbul, di bawah tab HTML, salin semua yang ada di antara " "
 
 ```EXAMPLE
 <i class="fa-solid fa-dice-d20"></i>

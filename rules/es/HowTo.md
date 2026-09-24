@@ -2,11 +2,11 @@
 
 1. Un conocimiento básico del [lenguaje markdown](https://www.markdownguide.org/basic-syntax/).
 
-2. Deberás crear una cuenta gratuita en [github](https://github.com/) si no tienes una. Te recomiendo que uses el nombre de tu RPG, ya que esto formará parte de la URL que la gente usará para acceder a tu SRD.
+2. Necesitarás crear una cuenta gratuita de [GitHub](https://github.com/). Recomendamos usar el nombre de tu juego de rol, ya que esto formará parte de la URL que la gente usará para acceder a tu SRD.
 
-3. Puedes realizar todo este proceso a través del navegador sin saber git. Sin embargo, aprender a usar github desktop te permitirá probar cualquier cambio localmente antes de desplegarlo en vivo para que el mundo lo vea.
+3. Puedes realizar todo este proceso a través del navegador sin conocer git. Aunque aprender GitHub Desktop te permitirá probar cualquier cambio localmente antes de implementarlo en vivo para que el mundo lo vea.
 
-> Si tienes un nombre de dominio registrado, puedes usarlo con este proceso para crear un SRD como hice yo: https://srd.7thextinctionrpg.com
+> Si tienes un nombre de dominio registrado, puedes usarlo CON este proceso para crear un SRD como el que tengo yo https://srd.7thextinctionrpg.com
 
 # El proceso
 
@@ -22,30 +22,30 @@
 
 4. Selecciona "Create a new repository" (Crear un nuevo repositorio)
 
-5. Introduce un nombre para el repositorio
+5. Introduce el nombre de un repositorio
 
 ![Step5](/_media/Step5.png)
 
-6. Selecciona 'Private' (Privado)
+6. Selecciona "Private" (Privado)
 
-7. Selecciona 'Create repository' (Crear repositorio)
+7. Selecciona "Create repository" (Crear repositorio)
 
 Tardará entre 5 y 30 segundos en copiar la plantilla, después tendrás tu propia copia.
 
-8. Asegúrate de tener el archivo ".nojekyll", es un archivo vacío necesario al alojar un sitio web en Github, de lo contrario, el SRD no se mostrará correctamente. *(Le indica a GitHub Pages que no ejecute los archivos publicados a través de Jekyll).*
+8. Asegúrate de tener el archivo ".nojekyll", este es un archivo vacío que es necesario al alojar un sitio web en Github; de lo contrario, el SRD no se mostrará correctamente. *(Le dice a GitHub Pages que no ejecute los archivos publicados a través de Jekyll).*
 
 
 ## Añadir tu contenido
 
 ### Archivos *.md
 
-Los archivos .md son archivos markdown; Markdown es un lenguaje de marcado ligero que puedes usar para añadir elementos de formato a documentos de texto plano. Dependiendo del tamaño de tu contenido, puedes colocar toda la información de tu juego en un único archivo *.md o, como hice yo en [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), crear archivos separados para cada capítulo. El archivo "sample.md" proporciona algunos ejemplos de formato.
+Los archivos .md son archivos markdown; Markdown es un lenguaje de marcado ligero que puedes usar para añadir elementos de formato a documentos de texto sin formato. Dependiendo del tamaño de tu contenido, puedes colocar toda la información de tu juego en un único archivo *.md o, como he hecho en [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), crear archivos separados para cada capítulo. El "Sample.md" proporciona algunos ejemplos de formato.
 
-El lenguaje Markdown es muy fácil de aprender, utiliza el enlace proporcionado en el punto 2 de los Requisitos previos anteriores para obtener una lista completa de la sintaxis.
+El lenguaje Markdown es muy fácil de aprender; usa el enlace proporcionado en el punto 2 bajo Requisitos previos más arriba para obtener una lista completa de la sintaxis.
 
-### _Sidebar.md
+### _sidebar.md
 
-Este es tu menú, el panel de navegación en el lado izquierdo del sitio web. Una vez que hayas añadido un archivo markdown a tu repositorio, debes añadir el archivo aquí para que su contenido sea incluido. Sigue el formato existente.
+Este es tu menú, el panel de navegación en el lado izquierdo del sitio web. Una vez que hayas añadido un archivo markdown a tu repositorio, necesitas añadir el archivo aquí para que sus contenidos sean incluidos. Sigue el formato existente.
 
 
 ## Habilitar Github Pages para convertir el repositorio en un sitio web
@@ -54,39 +54,39 @@ Este es tu menú, el panel de navegación en el lado izquierdo del sitio web. Un
 
 ![Website-Step1](/_media/Website-Step1.png)
 
-2. Selecciona 'Pages' en el menú del lado izquierdo
+2. Selecciona 'Pages' en el menú de la parte izquierda
 
 ![Website-Step2](/_media/Website-Step2.png)
 
 3. Si no has hecho que el repositorio sea 'público', tienes dos opciones:
-    a. Hacer que el repositorio sea público, lo que te permitirá usar Github Pages para alojar tu sitio web SRD de forma gratuita.
+    a. Hacer que el repositorio sea público, lo que te permitirá usar Github pages para alojar tu sitio web SRD de forma gratuita.
     b. Actualizar tu cuenta de Github (en el momento de escribir esto, cuesta 4 dólares al mes o una cuota anual de 48 dólares).
 
-4. En 'Branch' (Rama), selecciona 'main' y haz clic en guardar.
+4. Bajo 'Branch' (Rama), selecciona 'main' y haz clic en Save (Guardar)
 
-5. Espera entre 10 y 20 segundos y luego actualiza la página.
+5. Dale 10-20 segundos y luego actualiza la página
 
-6. Ahora verás tu URL, por ejemplo: https://coweater.github.io/mysrd/
+6. Ahora verás tu URL, como por ejemplo https://coweater.github.io/mysrd/
 
 ![Website-Step6](/_media/Website-Step6.png)
 
 
-## Cambiar fuentes
+## Cambiar las fuentes
 
 1. Edita el archivo /_assets/style.css
 
-2. Bajo la 'body section' encontrarás siteFont y headingFont
+2. Bajo la 'sección body' encontrarás siteFont y headingFont
 
-3. Cámbialas por las fuentes que desees utilizar
+3. Cámbialas por las fuentes que desees usar
 
 
 ## Usar el plugin de Fontawesome y/o Material Icons para mostrar iconos gratuitos en tu SRD
 
 ### Fontawesome
 
-Usa Fontawesome para obtener iconos gratuitos e iconos animados. Los usuarios suscritos pueden usar Pro Icons.
+Usa Fontawesome para obtener iconos gratuitos e iconos animados. Los usuarios suscritos pueden usar los iconos Pro.
 
-1. Busca el icono en [Fontawesome](https://fontawesome.com/icons)
+1. Encuentra el icono en [Fontawesome](https://fontawesome.com/icons)
 2. Selecciona el icono
 3. En la ventana emergente, bajo la pestaña HTML, copia todo lo que hay entre " "
 
@@ -104,8 +104,8 @@ fa-solid fa-dice-d20
 
 Usa Material Icons para obtener más iconos gratuitos.
 
-1. Busca los iconos en [Material Icons](https://fonts.google.com/icons)
-2. Copia e inserta el enlace web span directamente en tus archivos markdown
+1. Encuentra los iconos en [Material Icons](https://fonts.google.com/icons)
+2. Copia e inserta el enlace span web directamente en tus archivos markdown
 
 ```markup
 <span class="material-icons">face</span>

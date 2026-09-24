@@ -1,56 +1,56 @@
-# Eeltingimused
+# Eeldused
 
-1. [Markdown-keele](https://www.markdownguide.org/basic-syntax/) põhiteadmised.
+1. Põhiline arusaam [markdown-keelest](https://www.markdownguide.org/basic-syntax/).
 
-2. Peate looma tasuta [github-i](https://github.com/) konto, kui teil seda veel pole. Soovitatav on kasutada oma RPG nime, kuna sellest saab osa URL-ist, mida inimesed teie SRD-le ligipääsemiseks kasutavad.
+2. Peate looma tasuta [GitHubi](https://github.com/) konto, kui teil seda veel pole. Soovitame kasutada oma RPG nime, kuna sellest saab osa URL-ist, mida inimesed teie SRD-le ligipääsemiseks kasutavad.
 
-3. Kogu seda protsessi saab teha brauseri kaudu ilma giti tundmata. Küll aga võimaldab Github Desktopi õppimine testida muudatusi lokaalselt, enne kui need avalikult nähtavaks teete.
+3. Kogu seda protsessi saab teha brauseri kaudu ilma giti tundmata. Kuigi GitHub Desktopi õppimine võimaldab teil muudatusi kohalikult testida, enne kui need maailmale nähtavaks teete.
 
-> Kui teil on registreeritud domeeninimi, saate seda selle protsessiga kasutada, et luua SRD, nagu mina tegin: https://srd.7thextinctionrpg.com
+> Kui teil on registreeritud domeeninimi, saate seda selle protsessiga kasutada SRD loomiseks, nagu mina tegin: https://srd.7thextinctionrpg.com
 
 # Protsess
 
-## Repositooriumi loomine Githubis
+## Hoidla loomine GitHubis
 
-1. Logige sisse Githubi
+1. Logige sisse GitHubi
 
-2. Liikuge avaliku malli juurde https://github.com/7thExtinctionrpg/RPG_SRD_Template
+2. Navigeerige avaliku malli juurde https://github.com/7thExtinctionrpg/RPG_SRD_Template
 
-3. Klõpsake "Use this template"
+3. Klõpsake "Use this template" (Kasuta seda malli)
 
 ![Step3](/_media/Step3.png)
 
-4. Valige "Create a new repository"
+4. Valige "Create a new repository" (Loo uus hoidla)
 
-5. Sisestage repositooriumi nimi
+5. Sisestage hoidla nimi
 
 ![Step5](/_media/Step5.png)
 
-6. Valige 'Private'
+6. Valige 'Private' (Privaatne)
 
-7. Valige 'Create repository'
+7. Valige 'Create repository' (Loo hoidla)
 
-Malli kopeerimiseks kulub 5–30 sekundit, seejärel on teil oma koopia olemas.
+Malli kopeerimiseks kulub 5-30 sekundit, seejärel on teil oma koopia.
 
-8. Veenduge, et teil on olemas fail ".nojekyll" – see on tühi fail, mis on vajalik veebisaidi majutamisel Githubis, vastasel juhul ei kuvata SRD-d õigesti. *(Ütleb GitHub Pagesile, et see ei töötleks avaldatud faile Jekylli kaudu).*
+8. Veenduge, et teil on fail ".nojekyll" – see on tühi fail, mida on vaja veebisaidi majutamisel GitHubis, vastasel juhul ei kuvata SRD-d õigesti. *(Ütleb GitHub Pagesile, et avaldatud faile ei tohi Jekylliga töödelda).*
 
 
-## Sisu lisamine
+## Oma sisu lisamine
 
 ### *.md failid
 
-.md failid on markdown-failid. Markdown on kerge märgenduskeel, mida saate kasutada lihtteksti dokumentidele vorminduselementide lisamiseks. Sõltuvalt sisu mahust saate kogu oma mängu teabe paigutada ühte *.md faili või, nagu mina tegin saidil [7thextinctionrpg.com](https://srd.7thextinctionrpg.com), luua iga peatüki jaoks eraldi failid. "sample.md" pakub mõningaid vormindusnäiteid.
+.md failid on markdown-failid. Markdown on kerge märgenduskeel, mida saate kasutada tekstidokumentidele vorminduselementide lisamiseks. Sõltuvalt sisu mahust saate kogu oma mängu teabe paigutada ühte *.md faili või luua iga peatüki jaoks eraldi failid, nagu mina tegin aadressil [7thextinctionrpg.com](https://srd.7thextinctionrpg.com). "Sample.md" pakub mõningaid vormindamisnäiteid.
 
-Markdown-keelt on väga lihtne õppida; kasutage eeltingimuste punkti 2 all antud linki, et saada täielik süntaksi loend.
+Markdown-keelt on väga lihtne õppida, kasutage süntaksi täieliku loendi saamiseks ülaltoodud Eelduste punkti 2 all olevat linki.
 
-### _Sidebar.md
+### _sidebar.md
 
-See on teie menüü, navigeerimispaan veebisaidi vasakus servas. Kui olete oma repositooriumi markdown-faili lisanud, peate faili siia lisama, et selle sisu kaasataks. Järgige olemasolevat vormindust.
+See on teie menüü, navigeerimispaan veebisaidi vasakus servas. Kui olete oma hoidlasse markdown-faili lisanud, peate faili siia lisama, et selle sisu oleks kaasatud. Järgige olemasolevat vormindust.
 
 
-## Github Pagesi lubamine repositooriumi veebisaidiks muutmisel
+## GitHub Pagesi lubamine hoidla veebisaidiks muutmiseks
 
-1. Klõpsake oma repositooriumis 'Settings'
+1. Klõpsake oma hoidlas 'Settings' (Seaded)
 
 ![Website-Step1](/_media/Website-Step1.png)
 
@@ -58,13 +58,13 @@ See on teie menüü, navigeerimispaan veebisaidi vasakus servas. Kui olete oma r
 
 ![Website-Step2](/_media/Website-Step2.png)
 
-3. Kui te pole repositooriumi avalikuks (public) teinud, on teil kaks valikut:
-    a. Tehke repositoorium avalikuks, mis võimaldab teil kasutada Github Pagesi oma SRD-veebisaidi tasuta majutamiseks.
-    b. Uuendage oma Githubi kontot (selle kirjutamise ajal maksab see 4 dollarit kuus või 48 dollarit aastas).
+3. Kui te pole hoidlat 'avalikuks' muutnud, on teil kaks valikut:
+    a. Muutke hoidla avalikuks, mis võimaldab teil kasutada GitHub pagesi oma SRD-veebisaidi tasuta majutamiseks
+    b. Uuendage oma GitHubi kontot (selle kirjutamise ajal maksab see 4 dollarit kuus või 48 dollarit aastas)
 
-4. Valige jaotises 'Branch' 'main' ja klõpsake "Save"
+4. Valige jaotise 'Branch' all 'main' ja klõpsake Save (Salvesta)
 
-5. Oodake 10–20 sekundit ja värskendage lehte
+5. Oodake 10-20 sekundit ja värskendage lehte
 
 6. Nüüd näete oma URL-i, näiteks https://coweater.github.io/mysrd/
 
@@ -75,26 +75,26 @@ See on teie menüü, navigeerimispaan veebisaidi vasakus servas. Kui olete oma r
 
 1. Muutke faili /_assets/style.css
 
-2. Jaotise 'body' alt leiate 'siteFont' ja 'headingFont'
+2. Jaotise 'body' alt leiate siteFont ja headingFont
 
 3. Muutke need fontideks, mida soovite kasutada
 
 
-## Fontawesome'i ja/või Material Iconsi pistikprogrammi kasutamine tasuta ikoonide kuvamiseks oma SRD-s
+## Fontawesome'i ja/või Material Icons plugina kasutamine tasuta ikoonide kuvamiseks teie SRD-s
 
 ### Fontawesome
 
-Kasutage Fontawesome'i tasuta ja animeeritud ikoonide saamiseks. Tellijad saavad kasutada Pro ikoone.
+Kasutage Fontawesome'i tasuta ikoonide ja animeeritud ikoonide saamiseks. Tellijad saavad kasutada Pro ikoone
 
 1. Leidke ikoon [Fontawesome'ist](https://fontawesome.com/icons)
 2. Valige ikoon
-3. Kopeerige hüpikaknas HTML-i vahekaardi all kõik " " vahele jääv
+3. Hüpikaknas kopeerige HTML-i vahekaardi all kõik jutumärkide " " vahele jääv
 
 ```EXAMPLE
 <i class="fa-solid fa-dice-d20"></i>
 ```
 
-4. Asetage kopeeritud tekst `:` vahele ilma tühikuteta
+4. Paigutage kopeeritud tekst `:` vahele ilma tühikuteta
 
 ```EXAMPLE
 fa-solid fa-dice-d20
@@ -102,10 +102,10 @@ fa-solid fa-dice-d20
 
 ### Material Icons
 
-Kasutage Material Iconsi rohkemate tasuta ikoonide saamiseks
+Kasutage Material Iconsi rohkemate tasuta ikoonide jaoks
 
 1. Leidke ikoonid [Material Iconsist](https://fonts.google.com/icons)
-2. Kopeerige ja sisestage veebisaidi span-link otse oma markdown-failidesse
+2. Kopeerige ja sisestage veebipõhine span-link otse oma markdown-failidesse
 
 ```markup
 <span class="material-icons">face</span>
