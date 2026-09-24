@@ -1,181 +1,179 @@
 # Kapitel 3: Klasser
 
-Enhver _Classic Fantasy Imperative_-karakter starter spillet med at være trænet i en Klasse. Denne Klasse er den karriere, karakteren har valgt som en del af overgangen til voksenlivet, og den definerer karakterens videre færdighedsudvikling.
+Hver _Classic Fantasy Imperative_-karakter starter spillet med at være uddannet i en Klasse. Denne Klasse er den karriere, karakteren er gået i gang med som en del af overgangen til voksenlivet, og den definerer yderligere karakterens færdighedsudvikling.
 
-Spillere er frie til at vælge en racemæssigt og kulturelt passende Klasse til deres karakter, forudsat at spillederen (Games Master) finder det passende. Beskrivelserne giver en vis vejledning om, hvilke racer der typisk drages mod den pågældende Klasse. Disse forslag er ikke definitive og kan ændres efter spillerens ønske eller for at passe til mere eksotiske spilverdener. For eksempel, i en kampagne baseret på en døende ørkenverden, hvor halvinger er et stammefolk af kannibaler, ville det ikke være utænkeligt at lade dem blive bersærkere. Spillerne bør ikke betragte disse race-/kulturelle restriktioner som ufravigelige regler, men snarere som standardudgangspunkter. Spillere bør føle sig frie til at foreslå alternativer til deres spilleder, som til gengæld kan tillade en normalt usædvanlig kombination af Race og Klasse for at passe til en mere usædvanlig kampagneverden eller belønne en kreativ baggrundshistorie.
+Spillere er frie til at vælge en racemæssigt og kulturelt passende Klasse til deres karakter, forudsat at spillederen anser den for passende. Beskrivelserne giver en vis vejledning om, hvilke racer der almindeligvis drages mod den pågældende Klasse. Disse forslag er ikke endelige og kan ændres efter spillerens valg eller for at passe til mere eksotiske spilmiljøer. For eksempel, i en kampagne baseret på en døende ørkenverden, hvor halvinger er et stammebaseret, kannibalistisk folk, ville det ikke være utænkeligt at lade dem blive bersærkere. Spillerne bør ikke betragte disse race-/kulturelle restriktioner som ufravigelige regler, men snarere som standard udgangspunkter. Spillere bør føle sig frie til at foreslå alternativer til deres spilleder, som til gengæld kan tillade en normalt usædvanlig kombination af Race og Klasse for at passe til et mere usædvanligt kampagnemiljø eller belønne en kreativ baggrundshistorie.
 
 #### Klassens Rangstruktur
 
-_Classic Fantasy Imperative_s Klasse- og Rangstruktur er baseret på forskellige organisationer såsom ordener eller gilder. For eksempel Fightergildet, den klerikale orden, magikerens gilde og tyvegildet.
+_Classic Fantasy Imperative_s Klasse- og Rangstruktur er baseret på forskellige organisationer såsom ordener eller gilder. For eksempel Krigergildet, den klerikale orden, Magiker-gildet og Tyvegildet.
 
-Rang bruges som et værktøj til at guide karakterudvikling, og de fleste Klassestrukturer er arrangeret i et pyramideformet hierarki. Almindelige medlemmer (Rang 0) udgør bunden af pyramiden og er de mest talrige medlemmer af en Klasse.
+Rang bruges som et værktøj til at guide karakterudvikling, og de fleste klassestrukturer er arrangeret i et pyramideformet hierarki. Almindelige medlemmer (Rang 0) udgør bunden af pyramiden og er de mest talrige medlemmer af en Klasse.
 
-Højere rang (Rang 1–5) repræsenterer professionelle medlemmer af Klassen, som arbejder fuldtid under dens edikter.
+Højere ranger (Rang 1–5) repræsenterer professionelle medlemmer af Klassen, som arbejder fuldtid under dens edikter.
 
-Antallet mindskes, efterhånden som man avancerer op gennem rangordenen, indtil kun en håndfuld individer, eller måske kun én, besætter de øverste trin. Avancement bringer større privilegier, prestige, læring og nogle gange magi eller andre fordele.
+Antallet mindskes, jo højere man bevæger sig op gennem rangordenen, indtil kun en håndfuld individer, eller måske kun én, besidder de øverste lag. Avancement bringer større privilegier, prestige, læring og nogle gange magi eller andre fordele.
 
 #### Stigning i Rang
 
-Karakterer søger at stige i rang i jagten på større respekt, ry eller ansvar, eller blot af tørst efter viden og magt.
+Karakterer søger at stige i rang i jagten på større respekt, ry eller ansvar, eller blot ud af en tørst efter viden og magt.
 
-Hver Klasse kræver flere Klassefærdigheder på et bestemt niveau for Avancement. Når karakteren først oprettes, vil disse færdigheder bestemme karakterens startrang. At have 5 Klassefærdigheder på 40% eller højere vil placere karakteren på Rang 1, da det demonstrerer, at personen er dygtig og værdig til de særlige Evner på den Rang. Ellers begynder karakteren på Rang 0. Når karakteren endelig bliver Rang 1, kan alle Evner, der ikke er specificeret som Rang-baserede, erhverves uden omkostninger i Erfaringsrul (Experience Rolls), da man kan antage, at karakteren har øvet sig på disse Evner under spillets gang. Rang-baserede Evner kan købes normalt med Erfaringsrul, når Rang 1 er opnået.
+Hver Klasse kræver flere klassefærdigheder på et bestemt niveau for Avancement. Når karakteren først skabes, vil disse færdigheder bestemme karakterens oprindelige Rang. At have 5 klassefærdigheder på 40 % eller derover vil placere karakteren på Rang 1, da det viser, at personen er dygtig og værdig til de særlige Evner for den Rang. Ellers begynder karakteren på Rang 0. Når karakteren endelig bliver Rang 1, kan alle Evner, der ikke er specificeret som Rang-afhængige, erhverves uden omkostninger i Erfaringskast, da det kan antages, at karakteren har øvet sig på disse Evner i spillet. Rang-afhængige Evner kan købes normalt med Erfaringskast, når Rang 1 er nået.
 
-Når en yderligere grad af mestring er nået, baseret på karakterens Færdigheder, stiger karakteren igen i Rang. På det tidspunkt kan Evner og besværgelser vurderet til den Rang læres, da karakteren har demonstreret det nødvendige niveau af forståelse og færdighed.
+Når en yderligere grad af mesterskab nås, baseret på karakterens Færdigheder, stiger karakteren igen i Rang. På det tidspunkt kan Evner og besværgelser rated til den Rang læres, da karakteren har demonstreret det nødvendige niveau af forståelse og færdighed.
 
-For det meste, hvis karakteren er i god stående i forhold til alle eder, som Klassen kræver, og besidder det krævede antal Klassefærdigheder på det krævede niveau, vil karakteren automatisk stige til den passende Rang. Hver Rang over 1 tillader også karakterer at tilføje endnu et Lykkepoint til deres total, hvilket giver dem en bedre chance for at overleve sværere møder uden at skulle kunstigt øge deres Hit Points. Hver Klasse har en tabel, der beskriver færdighedskravene pr. Rang, samt en oversigt over alle tilgængelige Rang-baserede Talenter og/eller Evner. Det følgende giver en beskrivelse af hvert element i disse tabeller:
+For det meste, hvis karakteren har et godt forhold til eventuelle Eder, som Klassen kræver, og besidder det krævede antal klassefærdigheder på det krævede niveau, vil karakteren automatisk stige til den passende Rang. Hver Rang over 1 giver også karakterer mulighed for at tilføje endnu et Lykkepoint til deres total, hvilket giver dem en bedre chance for at overleve sværere møder uden at skulle kunstigt øge deres Hit Points. Hver Klasse har en tabel, der detaljerer færdighedskravene pr. Rang, samt en oversigt over eventuelle tilgængelige Rang-afhængige Talenter og/eller Evner. Følgende giver en beskrivelse af hvert element i disse tabeller:
 
 - **Rang:** En numerisk repræsentation af karakterens Rang.
-- **Titel:** Titlen givet til en karakter af den passende Rang.
-- **Avancement:** Antallet af klassefærdigheder og det påkrævede færdighedsniveau, der skal til for at opnå den relevante Rang. Disse kan vælges fra alle de listede klassefærdigheder. Der er ingen grund til at vælge dem på forhånd. Færdigheder, der modtager en +40 bonus, såsom Skikke og Modersmål, tæller aldrig med i avancement.
-- **Besværgelser i hukommelsen:** Hvis relevant, viser dette, hvor mange besværgelser af hver Rang du må have memoreret.
-- **Hit Points:** Visse rangordener giver et ekstra Hit Point, som tilføjes til alle lokationer. Den noterede værdi inkluderer alle tidligere bonusser.
+- **Titel:** Den titel, der tildeles en karakter af den relevante Rang.
+- **Avancement:** Antallet af klassefærdigheder og det krævede færdighedsniveau, der er nødvendigt for at opnå den relevante Rang. Disse kan vælges fra enhver af de anførte klassefærdigheder. Der er ingen grund til at vælge dem på forhånd. Færdigheder, der modtager en bonus på +40, såsom Skikke og Modersmål, tæller aldrig med i avancementet.
+- **Besværgelser i Hukommelsen:** Hvis relevant, viser dette, hvor mange besværgelser af hver Rang du må have memoreret.
+- **Hit Points:** Visse ranger giver et ekstra Hit Point, som tilføjes til alle lokationer. Den noterede værdi inkluderer alle tidligere bonusser.
 - **Lykkepoint:** Hver Rang efter den første giver karakteren 1 ekstra Lykkepoint. Den noterede værdi inkluderer alle tidligere bonusser.
-- **Handlingspoint:** Visse rangordener giver et ekstra Handlingspoint. Den noterede værdi inkluderer alle tidligere bonusser.
+- **Handlingspoint:** Visse ranger giver et ekstra Handlingspoint. Den noterede værdi inkluderer alle tidligere bonusser.
 
 ---
 ## Kleriker
 
-Klerikere er den militante gren af en religiøs orden og er dygtige til at beskytte deres religion og dens følgere. I tider med relativ fred rejser klerikere rundt i landet for at sprede deres panteons budskab og søge omvendte. Klerikere er velsignet med evnen til at kaste besværgelser af deres panteons guder og er også mestre i kamp mod de udøde, idet de har kapaciteten til at drive dem væk med blot en talt bøn.
+Klerikere er den militante gren af en religiøs orden og er dygtige til at beskytte deres religion og dens følgere. I tider med relativ fred rejser klerikere rundt i landet for at sprede deres panteons budskab og søge omvendte. Klerikere er velsignede med evnen til at kaste besværgelser af deres panteons guddomme og er også mestre i kamp mod udøde, idet de besidder kapaciteten til at drive dem væk med blot en talt bøn.
 
-#### Almindelige arter/kultur
+#### Almindelige Arter/Kultur
 
 Enhver.
 
-#### Vigtige egenskaber
+#### Vigtige Karakteristika
 
-STR, INT, POW og CHA
+STY, INT, MAG og KAR
 
-#### Krav til Alignment/Ed
+#### Alignment/Ed-krav
 
-- Alignment: Enhver, som passende til panteon eller guddom.
-- Klerikal Ed 30% plus karakterens INT+POW.
+- Alignment: Enhver, som passende for panteon eller guddom.
+- Klerikal Ed 30 % plus karakterens INT+MAG.
 
-Se [Kapitel 4: Alignment og Passions](0004_Alignment_and_Passions.md).
+Se [Kapitel 4: Alignment og Passioner](0004_Alignment_and_Passions.md).
 
-Udover racemæssig/kulturel Alignment og Passions, sværger alle klerikere en Adfærdsed til deres klerikale orden og den guddom eller det panteon af guder, som ordenen ærer. En del af Eden inkluderer typisk at give 10% af al rigdom til ordenen. Hvor et panteon er involveret, vil karakterens Alignment blive brugt til at hjælpe med at bestemme, hvilke guder i det ønskede panteon der vil blive tilbedt. Typisk vil en orden hengive sig til alle guder i et specifikt panteon med lignende Passions. En kleriker indretter sig typisk efter alle guder i et specifikt panteon med en Alignment, der ikke er modstridende med deres egen. For eksempel ville en kleriker med en God Alignment tjene og respektere alle gode og neutrale guder i deres panteon. De kan arbejde imod de guder af en ond karakter, eller endda anerkende og respektere dem, men ville ikke tilbyde dem nogen tilbedelse. En sand neutral kleriker kan vælge enten gode eller onde guder sammen med dem af neutral karakter, hvis det ønskes, men kunne ikke vælge begge.
+Udover racemæssig/kulturel Alignment og Passioner, sværger alle klerikere en Adfærdsed til deres klerikale orden og den guddom eller det panteon af guddomme, som ordenen ærer. En del af Eden inkluderer typisk at give 10 % af al rigdom til ordenen. Hvor et panteon er involveret, vil karakterens Alignment blive brugt til at hjælpe med at bestemme, hvilke guddomme i det ønskede panteon der vil blive tilbedt. Typisk vil en orden dedikere sig til alle guddomme i et specifikt panteon med lignende Passioner. En kleriker tilpasser sig typisk alle guddomme i et specifikt panteon med en Alignment, der ikke er i modstrid med deres egen. For eksempel ville en kleriker med en God Alignment tjene og respektere alle gode og neutrale guddomme i deres panteon. De kan arbejde mod de guddomme af en ond disposition, eller endda anerkende og respektere dem, men ville ikke tilbyde dem nogen tilbedelse. En Sand Neutral kleriker kan vælge enten gode eller onde guddomme sammen med dem af neutral disposition, hvis det ønskes, men kunne ikke vælge begge dele.
 
 #### Klassefærdigheder
 
-- **Standardfærdigheder:** Kampfærdighed (Kleriker), Førstehjælp, Indflydelse, Indsigt, Lokalitet, Synge, Viljestyrke
-- **Professionelle færdigheder:** En kleriker modtager automatisk Kanalisering og Hengivenhed (specifikt panteon eller guddom), plus 3 yderligere færdigheder fra følgende: Bureaukrati, Høflighed, Kultur (enhver), Helbredelse, Lore (Alkymi), Lore (Religion), Sprog (enhver) eller Lore (enhver), og Oratorik.
+- **Standardfærdigheder:** Kamp-Færdighed (Kleriker), Førstehjælp, Indflydelse, Indsigt, Lokalitet, Synge, Viljestyrke
+- **Professionelle Færdigheder:** En kleriker modtager automatisk Kanalisere og Hengivenhed (specifikt panteon eller guddom), plus 3 yderligere færdigheder fra følgende: Bureaukrati, Høflighed, Kultur (enhver), Helbredelse, Lore (Alkymi), Lore (Religion), Sprog (ethvert) eller Lore (ethvert), og Oratory.
 
-#### Klerikers rustning og våbenbeherskelse
+#### Kleriker-rustning og Våbenfærdighed
 
-Klerikere er dygtige med alle typer rustninger (lette og tunge) og med alle skjolde (undtagen tårnskjolde). Klerikal guddommelig besværgelseskastning bliver ikke hindret af at bære rustning. Deres Kampfærdighed inkluderer brugen af alle basisvåben. Specialklerikere kan have adgang til andre våben som en del af deres Kampfærdighed. Dette ligger dog uden for rammerne af dette dokument, men spilledere kan anvende denne information, hvis de beslutter det.
+Klerikere er dygtige med alle typer rustning (let og tung), og med alle skjolde (undtagen tårnskjolde). Klerikal Guddommelig besværgelseskastning hindres ikke af at bære rustning. Deres Kamp-Færdighed inkluderer brug af alle basale våben. Specialklerikere kan have adgang til forskellige våben som en del af deres Kamp-Færdighed. Dette ligger uden for rammerne af dette dokument, men spilledere kan anvende denne information, hvis de beslutter sig for det.
 
 ### Rangstruktur
 
-Alle klerikere vurderes efter Rang, som er en vurdering af magt og dygtighed. Når en specifik grad af mestring er opnået i et begrænset antal Klassefærdigheder, kan klerikere øge deres Rang, da de vil have demonstreret det nødvendige niveau af egnethed. Når dette niveau af egnethed er nået, opnås et ekstra Lykkepoint, og nye Evner kan erhverves. Denne information findes i følgende tabel under Avancement. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Initiate med de passende Evner noteret nedenfor; ellers starter du som en Rang 0 Lay Member med evnen til at kaste Rang 0-besværgelser, men ingen andre Evner.
+Alle klerikere er rated efter Rang, som er en vurdering af magt og færdighed. Når en specifik grad af mesterskab opnås i et begrænset antal klassefærdigheder, kan klerikere øge deres Rang, da de vil have demonstreret det nødvendige niveau af evner. Når dette niveau af evner er nået, opnås et ekstra Lykkepoint, og nye Evner kan erhverves. Denne information findes i den følgende tabel under Avancement. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Initiand med de passende Evner noteret nedenfor; ellers starter du som en Rang 0 Lægmedlem med Evnen til at kaste Rang 0 besværgelser, men ingen andre Evner.
 
-##### Klerikers Rangtabel
+##### Kleriker-Rangtabel
 
-| Rang | Titel | Avancement | Besværgelser i hukommelsen | Hit Points | Lykkepoint | Handlingspoint |
+| Rang | Titel | Avancement | Besværgelser i Hukommelsen | Hit Points | Lykkepoint | Handlingspoint |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Lay Member | - | Rang 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Initiate | Enhver 5 Klassefærdigheder på 40% | Rang 0: (INT/4) +1<br> Rang 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Cleric | Enhver 5 Klassefærdigheder på 70% | Rang 0: (INT/4) +2<br> Rang 1: (INT/4) +2<br> Rang 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Priest eller Priestess | Enhver 4 Klassefærdigheder på 90% | Rang 0: (INT/4) +3<br> Rang 1: (INT/4) +4<br> Rang 2: (INT/4) +2<br> Rang 3: (INT/4) | +1 | +2 | +1 |
-| **4** | High Priest eller High Priestess | Enhver 3 Klassefærdigheder på 110% | Rang 0: (INT/4) +4<br> Rang 1: (INT/4) +6<br> Rang 2: (INT/4) +4<br> Rang 3: (INT/4) +2<br> Rang 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Grand Priest eller Grand Priestess | Enhver 2 Klassefærdigheder på 130% | Rang 0: (INT/4) +5<br> Rang 1: (INT/4) +8<br> Rang 2: (INT/4) +6<br> Rang 3: (INT/4) +4<br> Rang 4: (INT/4) +2<br> Rang 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Lægmedlem | - | Rang 0: (INT/4) | 0 | +0 | +0 |
+| **1** | Initiand | Enhver 5 klassefærdigheder på 40 % | Rang 0: (INT/4) +1<br> Rang 1: (INT/4) | 0 | +0 | +0 |
+| **2** | Kleriker | Enhver 5 klassefærdigheder på 70 % | Rang 0: (INT/4) +2<br> Rang 1: (INT/4) +2<br> Rang 2: (INT/4) | +1 | +1 | +1 |
+| **3** | Præst eller Præstinde | Enhver 4 klassefærdigheder på 90 % | Rang 0: (INT/4) +3<br> Rang 1: (INT/4) +4<br> Rang 2: (INT/4) +2<br> Rang 3: (INT/4) | +1 | +2 | +1 |
+| **4** | Højpræst eller Højpræstinde | Enhver 3 klassefærdigheder på 110 % | Rang 0: (INT/4) +4<br> Rang 1: (INT/4) +6<br> Rang 2: (INT/4) +4<br> Rang 3: (INT/4) +2<br> Rang 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Storpræst eller Storpræstinde | Enhver 2 klassefærdigheder på 130 % | Rang 0: (INT/4) +5<br> Rang 1: (INT/4) +8<br> Rang 2: (INT/4) +6<br> Rang 3: (INT/4) +4<br> Rang 4: (INT/4) +2<br> Rang 5: (INT/4) | +2 | +4 | +2 |
 
-#### Start-evner
+#### Start-Evner
 
-Klerikeren kender alle følgende Evner på Rang 1. Derudover kan du under karakteroprettelse vælge én Rang 1 Evne gratis, forudsat at du opfylder kravene.
+Klerikeren kender alle følgende Evner på Rang 1. Derudover kan du under karakterskabelse vælge én Rang 1 Evne gratis, forudsat at du opfylder dens krav.
 
-- **Besværgelseskaster:** Klerikere er mestre i guddommelig magi, i stand til at kaste besværgelser for helbredelse, forsvar og beskyttelse for at hjælpe deres allierede. De er dog ikke uden kraftfulde offensive besværgelser til at ramme dem, der står imod deres idealer. I modsætning til magikere kræver klerikere ingen besværgelsesbog, da de har adgang til alle besværgelser på deres Rang eller derunder. Kastning af besværgelser kræver 1 eller flere Cast Magic-handlinger bestående af et par korte bønner, somatiske gestus med deres hellige symbol og et vellykket Kanaliseringsrul. Antallet af besværgelser af deres nuværende Rang, som en kleriker må have i hukommelsen, findes i [Klerikers Rangtabel](0003_Classes.md?id=cleric-rank-table) ovenfor under Besværgelser i hukommelsen.
-- **Start-besværgelser:** En kleriker begynder med adgang til alle Rang 0 kleriker-besværgelser og alle andre på deres Rang eller lavere. Se [Klerikerbesværgelseslisten](0003_Classes.md?id=cleric-spell-list). De kender dem ikke i virkeligheden, ligesom en magiker 'kender' besværgelser, men kan bede for enhver af dem, når de vælger, hvilke besværgelser de vil memorere. Antallet af besværgelser, klerikeren kan memorere på hver Rang, findes på klerikerens Rangtabel ovenfor. Se [Memorisering af besværgelser](0009_Magic.md?id=memorizing-spells) for flere detaljer.
-- **Turn Undead:** Klerikere kan vende udøde, ved at drive dem væk udelukkende ved hjælp af tro. [Turn Undead](0003_Classes.md?id=turning-undead) er dækket i detaljer nedenfor.
+- **Besværgelseskaster:** Klerikere er mestre i Guddommelig magi, i stand til at kaste besværgelser af helbredelse, forsvar og beskyttelse for at hjælpe deres allierede. De mangler dog ikke kraftfulde offensive besværgelser til at ramme dem, der står imod deres idealer. I modsætning til magikere kræver klerikere ingen besværgelsesbog, da de har adgang til alle besværgelser af deres Rang eller derunder. Kastning af besværgelser kræver 1 eller flere Kast Magi Handlinger bestående af et par korte bønner, somatiske gestikulationer med deres hellige symbol og et succesfuldt Kanalisere-kast. Antallet af besværgelser af deres nuværende Rang, som en kleriker kan have i hukommelsen, findes på [Kleriker-Rangtabel](0003_Classes.md?id=cleric-rank-table) ovenfor under Besværgelser i Hukommelsen.
+- **Start-besværgelser:** En kleriker begynder med adgang til alle Rang 0 kleriker-besværgelser og alle andre af deres Rang eller mindre. Se [Kleriker-besværgelsesliste](0003_Classes.md?id=cleric-spell-list). De kender dem ikke reelt, ligesom en magiker 'kender' besværgelser, men kan bede for enhver af dem, når de vælger, hvilke besværgelser der skal memoreres. Antallet af besværgelser, klerikeren kan memorere ved hver Rang, findes på klerikerens Rangtabel ovenfor. Se [Memorering af Besværgelser](0009_Magic.md?id=memorizing-spells) for flere detaljer.
+- **Vend Udøde:** Klerikere kan vende udøde, idet de driver dem væk udelukkende ved hjælp af tro. [Vend Udøde](0003_Classes.md?id=turning-undead) er dækket i detaljer nedenfor.
 
-#### Rang-baserede Evner
+#### Rang-afhængige Evner
 
-Som navnet antyder, kan Rang-baserede Evner kun vælges af en karakter af en bestemt Rang eller højere. De fleste har en forudsætningsfærdighed, der skal være på et bestemt niveau eller højere. Du bliver ikke udelukket fra tidligere Evner, når en ny Rang opnås. Hvis du for eksempel ikke tog en Rang 2 Evne, kan du gå tilbage og tage den på Rang 3 eller endnu senere. Ikke mere end én Rang-baseret Evne må tages pr. session.
+Som navnet antyder, er Rang-afhængige Evner kun valgbare for en karakter af en bestemt Rang eller højere. De fleste har en Forudsætningsfærdighed, der skal være på et bestemt færdighedsniveau eller højere. Du er ikke låst ude fra tidligere Evner, når en ny Rang er nået. Hvis du f.eks. ikke fik taget en Rang 2 Evne, kan du gå tilbage og tage den på Rang 3 eller endda senere. Ikke mere end én Rang-afhængig Evne må tages pr. session.
 
 #### Rang 1:
 
-For hver udgift af 1 Erfaringsrul kan du opnå én af følgende Evner (én pr. session, og hver Evne kan kun tages én gang):
+For hver udgift på 1 Erfaringskast kan du få en af følgende Evner (én pr. session, og hver Evne kan kun tages én gang):
 
-- **Kraftfuld koncentration:** Kræver Hengivenhed på 50% eller højere. Viljestyrketests for at opretholde koncentration vedrørende besværgelser og besværgelseskastning er én sværhedsgrad lettere.
-- **Greater Turning:** Kræver Viljestyrke på 60% eller højere. Turning Power kan gen-rulles, hvis det ønskes, dog skal det nye rul bruges.
-- **Helligt slag:** Kræver Hengivenhed og Viljestyrke på 50% eller højere. Klerikeren kan øge deres Skadesmodifikator med én grad mod udøde, dæmoner og djævle. Kan bruges én gang om dagen pr. opnået Rang.
-- **Mental styrke I:** Kræver Hengivenhed på 60% eller højere. Én gang om dagen finder du det 2 grader lettere at udføre Viljestyrketjek, når du modstår enhver form for magi, der målretter sindet. Dette inkluderer kræfter som fortryllelse, charme, dominans, hold, hypnose, Magic Jar, besiddelse, søvn, suggestion og psionisk mind blast. Det har ingen effekt på færdigheder som Indflydelse eller Forførelse. Du finder det også 1 grad lettere at gennemskue illusioner og fantomer. I tilfælde af elvere akkumuleres dette ikke med deres modstand mod søvn og charme, men det udvider deres evne til at modstå yderligere effekter.
-- **Våbenpræcision:** Du er dygtig til at bruge små, skjultbare våben, der ikke kræver meget styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STR+DEX i stedet for STR+SIZ, hvis det ville generere et bedre resultat. Skadesmodifikatoren kan ikke overstige våbnets normale skadesterning. For eksempel ville en daggert med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4, hvilket gør den til 1d4+1+1d4. Dette dækker køller, daggere, garrotter, knive, korte sværd, main gauche og rapirer, såvel som ubevæbnede angreb. Pile, slynger, korte buer og spyd falder også under denne kategori.
+- **Kraftfuld Koncentration:** Kræver Hengivenhed på 50 % eller højere. Viljestyrke-tests for at opretholde Koncentration vedrørende besværgelser og besværgelseskastning er én grad lettere.
+- **Større Vending:** Kræver Viljestyrke på 60 % eller højere. Vendingskraft kan genkastes, hvis det ønskes, men det nye kast skal bruges.
+- **Helligt Hug:** Kræver Hengivenhed og Viljestyrke på 50 % eller højere. Klerikeren kan øge deres Skadesmodifikator med én grad mod udøde, dæmoner og djævle. Kan bruges én gang om dagen pr. opnået Rang.
+- **Mental Styrke I:** Kræver Hengivenhed på 60 % eller højere. Én gang om dagen finder du det 2 grader lettere at udføre Viljestyrke-tjek, når du modstår enhver form for magi, der målretter sindet. Dette inkluderer kræfter såsom fortryllelse, charme, dominans, hold, hypnose, Magic Jar, besættelse, søvn, suggestion og psionisk sindsslag. Det har ingen effekt på færdigheder såsom Indflydelse eller Forførelse. Du finder det også 1 grad lettere at Ikke-tro på illusioner og fantasmer. I tilfælde af elvere akkumuleres dette ikke med deres modstand mod Søvn og Charme, men det udvider deres evne til at modstå yderligere effekter.
+- **Våbenpræcision:** Du er dygtig til at bruge små, skjultbare våben, der ikke kræver meget styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STY+FIN i stedet for STY+STØ, hvis det ville generere et bedre resultat. Skadesmodifikator kan ikke overstige våbens normale skadeterning. For eksempel ville en daggert med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4, hvilket gør den til 1d4+1+1d4. Dette dækker køller, daggter, garrotter, knive, korte sværd, main gauche og rapiers, samt ubevæbnede angreb. Pile, slynger, korte buer og spyd falder også ind under denne kategori.
 
 #### Rang 2:
 
-For hver udgift af 2 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+For hver udgift på 2 Erfaringskast kan du få en af følgende Evner (hver kan kun tages én gang):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks I:** Defensive Reflexes kræver, at du er ubelastet (færre 'ting' båret end STR), og ikke bærer noget mere restriktivt end let rustning. Én gang pr. kamp kan du gen-rulle et mislykket Parry- eller Evade-rul uden at bruge et Lykkepoint.
-- **Ekstra Turning:** Kræver Hengivenhed og Viljestyrke på 80% eller højere. Klerikeren kan fordoble antallet af gange mellem hvile, de kan vende. To gange på Rang 1, fire gange på Rang 3 og seks gange på Rang 5.
-- **Mental styrke II:** Kræver Mental styrke I og Hengivenhed på 80% eller højere. Som pr. Mental styrke I, men kan bruges to gange om dagen.
-- **Ranged Touch (X):** Kræver Viljestyrke på 80% eller højere. Denne Evne giver kasteren mulighed for at give en besværgelse med en rækkevidde på "Touch" en rækkevidde på 30 fod i stedet. Besværgelsen betragtes som én Rang højere med hensyn til memorering og bør noteres som værende ranged, når den memoreres. For eksempel ville Cure Minor Wounds (Ranged) tælle som en Rang 2 besværgelse.
+- **Karakteristika-øgning:** Du kan tilføje +1 til et Karakteristika efter eget valg. Dette må ikke overstige racemæssige maksimummer.
+- **Defensive Reflekser I:** Defensive Reflekser kræver, at du er Ubelastet (færre 'Ting' båret end STY), iført intet mere restriktivt end let rustning. Én gang pr. kamp kan du genkaste et Fejlet Parade- eller Undvige-kast uden at bruge et Lykkepoint.
+- **Ekstra Vending:** Kræver Hengivenhed og Viljestyrke på 80 % eller højere. Klerikeren kan fordoble antallet af gange mellem hvile, som de kan Vende. To gange på Rang 1, fire gange på Rang 3 og seks gange på Rang 5.
+- **Mental Styrke II:** Kræver Mental Styrke I og Hengivenhed på 80 % eller højere. Som pr. Mental Styrke I, men kan bruges to gange om dagen.
+- **Afstandsberøring (X):** Kræver Viljestyrke på 80 % eller højere. Denne Evne giver kasteren mulighed for at give en besværgelse med en Rækkevidde på "Berøring" en Rækkevidde på 30 fod i stedet. Besværgelsen betragtes som én Rang højere med hensyn til memorering og bør noteres som afstandsbaseret, når den memoreres. For eksempel ville Cure Minor Wounds (Afstandsbaseret) tælle som en Rang 2 besværgelse.
 
 #### Rang 3:
 
-For hver udgift af 3 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+For hver udgift på 3 Erfaringskast kan du få en af følgende Evner (hver kan kun tages én gang):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Forbedret helligt slag:** Kræver Helligt slag, samt Hengivenhed og Viljestyrke på 90% eller højere. Helligt slags Skadesmodifikator øges nu med to grader mod udøde, dæmoner og djævle.
-- **Mental styrke III:** Kræver Mental styrke II og Hengivenhed på 100% eller højere. Som pr. Mental styrke I, men kan bruges tre gange om dagen.
+- **Karakteristika-øgning:** Du kan tilføje +1 til et Karakteristika efter eget valg. Dette må ikke overstige racemæssige maksimummer.
+- **Forbedret Helligt Hug:** Kræver Helligt Hug, samt Hengivenhed og Viljestyrke på 90 % eller højere. Helligt Hugs Skadesmodifikator er nu øget med to grader mod udøde, dæmoner og djævle.
+- **Mental Styrke III:** Kræver Mental Styrke II og Hengivenhed på 100 % eller højere. Som pr. Mental Styrke I, men kan bruges tre gange om dagen.
 
 #### Rang 4:
 
-For hver udgift af 4 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+For hver udgift på 4 Erfaringskast kan du få en af følgende Evner (hver kan kun tages én gang):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks II:** Kræver Defensiv refleks I. Som pr. Defensiv refleks, men du kan nu bruge denne Evne to gange i den samme kamp. Du må dog ikke gen-rulle mod det samme angreb mere end én gang.
-- **Mental styrke IV:** Kræver Mental styrke III og Ed eller Hengivenhed på 120% eller højere. Som pr. Mental styrke I, men kan bruges fire gange om dagen.
+- **Karakteristika-øgning:** Du kan tilføje +1 til et Karakteristika efter eget valg. Dette må ikke overstige racemæssige maksimummer.
+- **Defensive Reflekser II:** Kræver Defensive Reflekser I. Som pr. Defensive Reflekser, dog kan du nu bruge denne Evne to gange i den samme kamp. Du må dog ikke genkaste mod det samme angreb mere end én gang.
+- **Mental Styrke IV:** Kræver Mental Styrke III og Ed eller Hengivenhed på 120 % eller højere. Som pr. Mental Styrke I, men kan bruges fire gange om dagen.#### Rang 5:
 
-#### Rang 5:
+For hver udgift på 5 Erfaringsslag kan du opnå en af følgende Evner (hver kan kun vælges én gang):
 
-For hver udgift af 5 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Større Helligt Hug:** Kræver Forbedret Helligt Hug, samt Tro og Viljestyrke på 130% eller højere. Helligt Hugs Skadesmodifikator øges nu med fire grader mod udøde, dæmoner og djævle!
+- **Mental Styrke V:** Kræver Mental Styrke IV og Ed eller Tro på 140% eller højere. Som Mental Styrke I, men kan bruges fem gange om dagen.
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Større helligt slag:** Kræver Forbedret helligt slag, samt Hengivenhed og Viljestyrke på 130% eller højere. Helligt slags Skadesmodifikator øges nu med fire grader mod udøde, dæmoner og djævle!
-- **Mental styrke V:** Kræver Mental styrke IV og Ed eller Hengivenhed på 140% eller højere. Som pr. Mental styrke I, men kan bruges fem gange om dagen.
+### Gejstligs grundlæggende startudstyr
 
-### Klerikerens grundlæggende startudstyr
+Hvert linjeelement tæller som 1 'Genstand' i forhold til Belastning, medmindre andet er angivet.
 
-Hvert linjeelement tæller som 1 'Ting' for belastningsformål, medmindre andet er noteret.
-
-- Kølle
-- Heater-skjold (tæller som 2 Ting)
+- Morgenstjerne
+- Varmeskjold (tæller som 2 Genstande)
 - Let armbrøst
 - Kogger med 20 armbrøstbolte
-- Fuldt sæt skælrustning, 4 rustningspoint (0 Ting når båret, 7 Ting hvis transporteret)
-- Træ-helligt symbol for guddom (½ en Ting)
-- Rygsæk (10 tings kapacitet); vandsæk, en uges stirationer, sovepose, lille tom sæk*, flint og tinder**, 2 seks-timers fakler (5½ Ting indeholdt)
-- Bæltetaske med 1d4 guldstykker
+- Fuldt sæt skælrustning, 4 Rustningspoint (0 Genstande når båret, 7 Genstande hvis den bæres)
+- Helligt symbol af træ for guddom (½ Genstand)
+- Rygsæk (kapacitet til 10 Genstande); vandsæk, én uges feltrationer, sovepose, lille tom sæk\*, flintesten og optænding\*\*, 2 seks-timers fakler (5½ Genstande indeholdt)
+- Bæltepung med 1d4 guldstykker
 
-Total ENC 7½ Ting
+Samlet BEL 7½ Genstande
 
-_* Indhold tæller mod rygsækkens indhold, da dens volumen øges._
+_\* Indhold tæller med i rygsækken, da dens volumen øges._
 
-_** Tæller som ½ en Ting._
+_\*\* Tæller som ½ Genstand._
 
-### Turn Undead
+### At Vende Udøde
 
-Klerikere af enhver Alignment kan forsøge at vende enhver udød inden for 30 fod. Onde klerikere kan vælge at kontrollere udøde i stedet, hvis det ønskes. Du kan forsøge at vende udøde én gang på Rang 1, to gange på Rang 3 og tre gange på Rang 5. Du genvinder alle anvendelser af Turn efter en kort hvile på mindst 1 time.
+Gejstlige af enhver Indstilling kan forsøge at Vende enhver udød inden for 30 fod. Onde gejstlige kan vælge at kontrollere udøde i stedet, hvis det ønskes. Du kan forsøge at Vende Udøde én gang ved Rang 1, to gange ved Rang 3, og tre gange ved Rang 5. Du genvinder alle anvendelser af Vende efter en Kort Hvile på mindst 1 time.
 
-_For eksempel er Alexandra en Rang 4 kleriker. Hun kan forsøge at vende to gange i løbet af et møde, og hvis hun hviler mindst en time bagefter, vil hun genvinde begge anvendelser._
+_For eksempel er Alexandra en Rang 4 gejstlig. Hun kan forsøge at vende to gange i løbet af et møde, og hvis hun hviler i mindst en time efter, vil hun genvinde begge anvendelser._
 
-**Turning Power:** En klerikers Turning Power modificerer den samlede intensitet af udøde, der bliver vendt. Dette er lig med 1d6+2, +2 pr. yderligere Rang udover 1, og bør noteres på karakterarket, da karakteren bruger det, hver gang et Turn-forsøg lykkes.
+**Vendestyrke:** En gejstligs Vendestyrke modificerer den samlede Intensitet af udøde, der med succes bliver Vendt. Dette er lig med 1d6+2, +2 pr. yderligere Rang ud over 1, og bør noteres på Karakterarket, da karakteren bruger den, hver gang et Vende-forsøg lykkes.
 
-_For eksempel, på Rang 2, har Alexandra en Turning Power på 1d6+4_
+_For eksempel, ved Rang 2, har Alexandra en Vendestyrke på 1d6+4_
 
-At forsøge at vende kræver en modstridende færdighedstest ved brug af Kanaliseringsfærdighed mod den relevante skabning med den højeste Viljestyrke inden for effektområdet. Graden af succes bestemmer effekterne af forsøget.
+At forsøge at Vende kræver en Modsat færdighedstest, der bruger Kanaliseringsfærdighed vs. det relevante væsen med den højeste Viljestyrke inden for Effektområdet. Succesgraden bestemmer effekterne af forsøget.
 
-Onde klerikere kan kommandere deres Turning Power i intensitet af udøde. Denne effekt tillader klerikeren at give ordrer til de udøde, men gør dem ikke underdanige, medmindre de ruller en Kritisk succes og vælger at slavebinde - se nedenfor. De med lavest intensitet bliver altid påvirket først. Dette har ingen effekt på udøde med intensitet 7 eller højere. En ond kleriker kan bruge dette til at bringe tidligere vendte ikke-sapiente udøde under deres kontrol igen.
+Onde gejstlige kan kommandere deres Vendestyrke i Intensitet af udøde. Denne effekt tillader den gejstlige at give kommandoer til de udøde, men gør dem ikke underdanige, medmindre de ruller en Kritisk Succes og vælger At Slavebinde - se nedenfor. Dem med den laveste Intensitet bliver altid påvirket først. Dette har ingen effekt på udøde med Intensitet 7 eller højere. En ond gejstlig kan bruge dette til at bringe tidligere vendte ikke-sapiens udøde under deres kontrol igen.
 
-- **Kritisk succes:** Dobbelt din Turning Power i intensitet af udøde påvirkes. Hvis din Rang er dobbelt så høj (eller mere) som intensiteten af en ikke-sapient udød skabning, ødelægger du øjeblikkeligt alle, som du normalt ville vende.
-  - Onde klerikere kan i stedet kommandere dobbelt deres Turning Power i intensitet af udøde i 12 runder (1 minut). Da udøde typisk er af samme sindelag som en ond kleriker, tillader denne effekt karakteren at give ordrer til de udøde. Det gør dem ikke underdanige, som med slavebinding nedenfor, og sapiente udøde vil ikke unødigt kaste deres udødelighed væk. De med lavest intensitet bliver altid påvirket først. Dette har ingen effekt på udøde med intensitet 7 eller højere. En ond kleriker kan bruge dette til at bringe tidligere vendte ikke-sapiente udøde under kontrol igen.
-  - Alternativt kan en ond kleriker, der scorer en Kritisk succes, Slavebinde deres Turning Power i intensitet af udøde, ved at slavebinde dem til deres kontrol. Slavebundne udøde er fuldstændig underdanige over for klerikeren, indtil deres kontrol på en eller anden måde brydes. De med lavest intensitet bliver altid slavebundet først. Dette har ingen effekt på udøde med intensitet 7 eller højere. En ond kleriker kan bruge dette til at bringe tidligere vendte udøde under kontrol igen.
-- **Succes:** Din Turning Power i intensitet af udøde påvirkes, startende med dem med lavest intensitet først. Hvis utilstrækkelig Turning Power rulles til at påvirke noget, bliver intet vendt under dette forsøg. Klerikeren afviser dem, der er påvirket, som skal bevæge sig og forblive mindst 20 fod væk i 12 runder (1 minut). De berørte kan ikke angribe nogen medlemmer af klerikerens gruppe, der forbliver inden for effektområdet, medmindre de berørte tvinges inden for 10 fod af gruppen. De, der ikke kan bevæge sig hele afstanden på grund af terræn, kryber (ethvert angrebsrul mod dem er én sværhedsgrad lettere). At nærme sig inden for 10 fod af de berørte får de udøde til at overvinde det at blive vendt og handle normalt. Afstandsangreb ikke tættere end 10 fod bryder ikke Turning-effekten; sådanne angreb på en sapient udød vil dog bryde effekterne af et Turn, hvilket tillader skabningen at reagere normalt. Sapiente skabninger, når de er vendt, får tilladelse til et svært Viljestyrkerul hver runde for at forsøge at bryde effekten; sapiente skabninger vil dog sandsynligvis frivilligt flygte fra området og kun vende tilbage, når de igen har fordelen. Hvis klerikerens Rang er dobbelt så høj (eller mere) som intensiteten af en ikke-sapient udød skabning, ødelægger klerikeren øjeblikkeligt alle, som de normalt ville vende.
-  - En ond kleriker kan kommandere deres Turning Power i intensitet af udøde skabninger og bringe dem under deres kontrol. Denne effekt tillader klerikeren at give ordrer til de udøde. Det gør dem ikke underdanige, som med en kritisk succes, og sapiente udøde vil ikke unødigt kaste deres udødelighed væk. De med lavest intensitet bliver altid påvirket først. Dette har ingen effekt på udøde med intensitet 7 eller højere. En ond kleriker kan bruge dette til at bringe tidligere vendte ikke-sapiente udøde under deres kontrol igen.
-- **Fejl:** Ingen udøde bliver vendt.
-- **Fumble:** Ikke alene fejlede du i at vende noget, men du har trukket opmærksomheden fra flere udøde svarende til dobbelt din Turning Power i intensitet. Disse entiteter målretter dig specifikt, med de udøde med lavest intensitet provokeret først.
+- **Kritisk Succes:** To gange din Vendestyrke i Intensitet af udøde bliver påvirket. Hvis din Rang er det dobbelte (eller mere) af Intensiteten på et ikke-sapiens udødt væsen, destruerer du øjeblikkeligt enhver, som du normalt ville Vende.
+  - Onde gejstlige kan i stedet kommandere to gange deres Vendestyrke i Intensitet af udøde i 12 Runder (1 minut). Da udøde typisk har samme tankegang som en ond gejstlig, tillader denne effekt karakteren at give kommandoer til de udøde. Det gør dem ikke underdanige, som ved Slavebinding nedenfor, og sapiens udøde vil ikke unødigt kaste deres ikke-liv væk. Dem med den laveste Intensitet bliver altid påvirket først. Dette har ingen effekt på udøde med Intensitet 7 eller højere. En ond gejstlig kan bruge dette til at bringe tidligere vendte ikke-sapiens udøde under kontrol igen.
+  - Alternativt kan en ond gejstlig, der scorer en Kritisk Succes, Slavebinde deres Vendestyrke i Intensitet af udøde, og binde dem til deres kontrol. Slavebundne udøde er fuldstændigt underdanige over for den gejstlige, indtil deres kontrol på en eller anden måde brydes. Dem med den laveste Intensitet bliver altid slavebundet først. Dette har ingen effekt på udøde med Intensitet 7 eller højere. En ond gejstlig kan bruge dette til at bringe tidligere vendte udøde under kontrol igen.
+- **Succes:** Din Vendestyrke i Intensitet af udøde bliver påvirket, startende med dem med den laveste Intensitet først. Hvis der rulles utilstrækkelig Vendestyrke til at påvirke noget, bliver intet vendt under dette forsøg. Den gejstlige afviser dem, der bliver påvirket, og de skal bevæge sig og forblive mindst 20 fod væk i 12 Runder (1 minut). De påvirkede kan ikke angribe nogen medlemmer af den gejstliges gruppe, der forbliver inden for Effektområdet, medmindre de påvirkede bliver tvunget inden for 10 fod fra gruppen. Dem, der ikke kan bevæge sig hele afstanden på grund af terræn, kryber sammen (alle Angrebsslag mod dem er én Sværhedsgrad lettere). At nærme sig inden for 10 fod fra de påvirkede får de udøde til at overvinde det at blive Vendt og handle normalt. Afstandsangreb ikke tættere på end 10 fod bryder ikke Vende-effekten; dog vil sådanne angreb på en sapiens udød bryde effekterne af Vendingen, hvilket tillader væsenet at reagere normalt. Sapiens væsner får, når de er Vendt, lov til at foretage et Svært Viljestyrkeslag hver Runde for at forsøge at bryde effekten; dog vil sapiens væsner sandsynligvis frivilligt flygte fra området og kun vende tilbage, når de igen har fordelen. Hvis den gejstliges Rang er det dobbelte (eller mere) af Intensiteten på et ikke-sapiens udødt væsen, destruerer den gejstlige øjeblikkeligt enhver, som de normalt ville Vende.
+  - En ond gejstlig kan kommandere deres Vendestyrke i Intensitet af udøde væsner og bringe dem under deres kontrol. Denne effekt tillader den gejstlige at give kommandoer til de udøde. Det gør dem ikke underdanige, som ved en Kritisk succes, og sapiens udøde vil ikke unødigt kaste deres ikke-liv væk. Dem med den laveste Intensitet bliver altid påvirket først. Dette har ingen effekt på udøde med Intensitet 7 eller højere. En ond gejstlig kan bruge dette til at bringe tidligere vendte ikke-sapiens udøde under deres kontrol igen.
+- **Fejl:** Ingen udøde bliver Vendt.
+- **Fumler:** Du fejlede ikke bare med at Vende noget, men du har tiltrukket opmærksomheden fra flere udøde svarende til to gange din Vendestyrke i Intensitet. Disse entiteter målretter dig specifikt, hvor entiteter med lavest Intensitet provokeres først.
 
-### Klerikerens besværgelsesliste
+### Gejstlig Spelliste
 
 | Rang 0 | Rang 1 | Rang 2 | Rang 3 | Rang 4 | Rang 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -196,427 +194,426 @@ Onde klerikere kan kommandere deres Turning Power i intensitet af udøde. Denne 
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) indikerer en reversibel besværgelse._
+_\(R\) angiver en reversibel spell._
+
+
 
 ---
 ## Kriger
 
-Kriger (Fighter) er professionelle soldater, lejesoldater og krigere, og de mest almindelige eventyrere i fantasyverdener. Hvad enten det er at bryde døre ned, svinge sværd og økser med både dygtighed og finesse, eller stille sig mellem gruppens mindre kampklare medlemmer og modstanderen, hvor end du finder eventyr, vil du finde krigeren.
+Krigere er professionelle soldater, lejesoldater og krigere, og de mest almindelige eventyrere i fantasyverdener. Uanset om de sparker døre ind, svinger sværd og økser med både færdighed og finesse, eller placerer sig mellem gruppens mindre krigeriske medlemmer og modstanderen, vil du, hvor end du finder eventyr, finde krigeren.
 
-#### Almindelige arter/kultur
+#### Almindelig art/kultur
 
 Enhver.
 
-#### Vigtig egenskab
+#### Vigtig Egenskab
 
-STR, CON og DEX
+STY, UDH og FIN
 
-#### Krav til Alignment/Ed
+#### Krav til Indstilling/Ed
 
-- Alignment: Krigere er ikke begrænset af Alignment og kræver ingen Ed.
+- Indstilling: Krigere er ikke begrænset af Indstilling og kræver ingen Ed.
 
-Se [Kapitel 4: Alignment og Passions](0004_Alignment_and_Passions.md).
+Se [Kapitel 4: Indstilling og Passioner](0004_Alignment_and_Passions.md).
 
 #### Klassefærdigheder
 
-- **Standardfærdigheder:** Atletik, Bådsport eller Ridning, Kraft (Brawn), Kampfærdighed (Kriger)*, Udholdenhed, Undvigelse, Ubevæbnet*
-- **Professionelle færdigheder:** Håndværk (enhver), Ingeniørkunst, Gambling, Intimidere, Lore (Militærhistorie), Lore (Strategi og taktik), Oratorik, Overlevelse eller Navigation
+- **Standardfærdigheder:** Atletik, Bådsport eller Ridning, Muskler, Kampfærdighed (Kriger)\*, Udholdenhed, Undvigelse, Ubevæbnet*
+- **Professionelle færdigheder:** Håndværk. (enhver), Ingeniørkunst, Gambling, Intimidering, Lore (Militærhistorie), Lore (Strategi og Taktik), Oratory, Overlevelse eller Navigation
 
-_* Modtager en +5 bonus fra Kampbeherskelse_
+_\* Modtager en +5 bonus fra Kampfærdighed_
 
-#### Krigerens rustning og våbenbeherskelse
+#### Kriger Rustnings- og Våbenfærdighed
 
-Krigere er dygtige med alle typer rustninger (lette og tunge) og med alle skjolde. Deres Kampfærdighed inkluderer brugen af alle basis- og kampvåben.
+Krigere er trænet i alle typer rustninger (let og tung), og med alle skjolde. Deres Kampfærdighed inkluderer brugen af alle basis- og kampvåben.
 
 ### Rangstruktur
 
-Alle krigere vurderes efter Rang, som er en vurdering af magt og dygtighed. Når en specifik grad af mestring er opnået i et begrænset antal Klassefærdigheder, kan krigere øge deres Rang, da de vil have demonstreret det nødvendige niveau af egnethed. Når dette niveau af egnethed er nået, opnås et ekstra Lykkepoint, og nye Evner kan erhverves. Denne information findes i [Krigerens Rangtabel](0003_Classes.md?id=fighter-rank-table) under Avancement. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Kriger med de passende Rang-baserede Evner noteret nedenfor; ellers starter du som en Rang 0 Warrior Trainee uden nuværende Evner.
+Alle krigere bedømmes efter Rang, som er en måling af kraft og færdighed. Når en bestemt grad af mesterskab er opnået i et begrænset antal Klassefærdigheder, kan krigere øge deres Rang, da de vil have demonstreret det nødvendige niveau af evner. Når dette niveau er nået, opnås et ekstra Lykkepoint, og nye Evner kan tilegnes. Denne information findes på [Kriger Rangtabellen](0003_Classes.md?id=fighter-rank-table) under Fremgang. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Kriger med de relevante Rang-evner noteret nedenfor; ellers starter du som en Rang 0 Kriger uden nuværende Evner.
 
-##### Krigerens Rangtabel
+##### Kriger Rangtabel
 
-| Rang | Titel | Avancement | Hit Points | Lykkepoint | Handlingspoint |
+| Rang | Titel | Fremgang | Hit Points | Lykkepoint | Handlingspoint |
 | :-: | :-- | :-- | :-: | :-: | :-: |
-| **0** | Warrior Trainee | - | 0 | +0 | +0 |
-| **1** | Warrior | Enhver 5 Klassefærdigheder på 40% | 0 | +0 | +0 |
-| **2** | Fighter | Enhver 5 Klassefærdigheder på 70% | +1 | +1 | +1 |
-| **3** | Hero/Heroine | Enhver 4 Klassefærdigheder på 90% | +1 | +2 | +1 |
-| **4** | Champion | Enhver 3 Klassefærdigheder på 110% | +2 | +3 | +2 |
-| **5** | Lord/Lady | Enhver 2 Klassefærdigheder på 130% | +2 | +4 | +2 |
+| **0** | Kriger-elev | - | 0 | +0 | +0 |
+| **1** | Kriger | Enhver 5 Klassefærdigheder ved 40% | 0 | +0 | +0 |
+| **2** | Kriger | Enhver 5 Klassefærdigheder ved 70% | +1 | +1 | +1 |
+| **3** | Helt/Heltinde | Enhver 4 Klassefærdigheder ved 90% | +1 | +2 | +1 |
+| **4** | Mester | Enhver 3 Klassefærdigheder ved 110% | +2 | +3 | +2 |
+| **5** | Herre/Frue | Enhver 2 Klassefærdigheder ved 130% | +2 | +4 | +2 |
 
 #### Start-evner
 
-Krigeren kender alle følgende Evner på Rang 1. Derudover kan du under karakteroprettelse vælge én Rang 1 Rang-baseret Evne gratis, forudsat at du opfylder kravene.
+Krigeren kender alle følgende Evner ved Rang 1. Derudover kan du under karakteroprettelse frit vælge én Rang 1 Rang-evne, forudsat at du opfylder kravene.
 
-- **Kampbeherskelse:** Da krigere er eksperter i væbnet kamp, får de yderligere +5% til deres Kampfærdighed og Ubevæbnet-færdighed.
-- **Våbenspecialisering:** Din kamptræning har givet dig mulighed for at vælge et enkelt våben til specialisering; dette kan også være et skjold. Våbenspecialisering giver fordele afhængigt af det valgte våben og opsummeres nedenfor.
+- **Kampfærdighed:** Da krigere er eksperter i væbnet kamp, får de yderligere +5% til deres Kampfærdighed og Ubevæbnet færdighed.
+- **Våbenspecialisering:** Din kamptræning har gjort det muligt for dig at vælge et enkelt våben til specialisering; dette kan også være et skjold. Våbenspecialisering giver fordele afhængigt af det valgte våben og er opsummeret nedenfor.
   - **Nærkampsvåben:** Du modtager følgende specialiseringsfordele til et enkelt nærkampsvåben:
-    - Din Kampfærdighed forbedres med +5%, når du bruger dit specialiseringsvåben. Denne bonus vil ikke hjælpe med Rang-avancement.
-    - Du får en ekstra Parry, når du svinger dette våben. Dette kræver ikke brug af et Handlingspoint.
-  - **Afstandsvåben:** Du modtager følgende specialiseringsfordele til et enkelt afstandsvåben:
-    - Hvis ikke overrasket, kan du automatisk affyre først (før rulning efter Initiativ) ved kampens start, forudsat at både våben og ammunition er gjort klar. Du angiver din hensigt om at affyre, løser resultaterne, og derefter rulles for Initiativ.
-    - Når du sigter mod et mål inden for våbnets nærområde, kræver sigte 1 tur, hvor våbnet stabiliseres i stedet for en fuld runde, og det gør det efterfølgende angreb 1 grad lettere. Angreb foretaget ud over nærområdet følger de normale regler for sigte, som findes under [Afstandskamp](0008_Combat.md?id=ranged-combat) i Kapitel 8. Yderligere runder brugt på at sigte giver ingen yderligere fordel.
-    - En specialist kan reducere genladningstiden for ethvert mestret afstandsvåben med 1. Et våben med 0 genladningstid kan effektivt gøres klar som en gratis handling.
+    - Din Kampfærdighed forbedres med +5%, når du bruger dit specialiseringsvåben. Denne bonus hjælper ikke med Rang-fremgang.
+    - Du får en bonus-Parering, når du svinger dette våben. Dette kræver ikke brug af et Handlingspoint.
+  - **Afstandsvåben:** Du modtager følgende specialiseringsfordele til et enkelt Afstandsvåben:
+    - Hvis du ikke er overrasket, kan du automatisk skyde først (før der rulles for Initiativ) i begyndelsen af kamp, forudsat at både våben og ammunition er klar. Du erklærer din hensigt om at skyde, løser resultaterne, og derefter rulles Initiativ.
+    - Når du sigter mod et mål inden for våbnets Nære Rækkevidde, kræver sigtning 1 Tur for at stabilisere våbnet i stedet for en fuld Runde, og det gør det efterfølgende angreb 1 grad lettere. Angreb foretaget ud over Nær Rækkevidde følger de normale regler for sigtning, som findes under [Afstandskamp](0008_Combat.md?id=ranged-combat) i Kapitel 8. Yderligere Runder brugt på at sigte giver ingen yderligere fordel.
+    - En specialist kan reducere genladningstiden for ethvert mestret Afstandsvåben med 1. Et våben med 0 genladningstid kan effektivt gøres klar som en Fri Handling.
   - **Skjolde:** Du modtager følgende specialiseringsfordele til ALLE skjolde:
-    - Din Kampfærdighed, når du bruger ethvert skjold, forbedres med +10%. Denne færdighedsbonus vil ikke hjælpe med Rang-avancement.
-    - Alle skjolde tæller som 1 størrelseskategori større til formål for Parry-skade: Stor til Kæmpe, Kæmpe til Enorm, og Enorm til Kolossal.
+    - Din Kampfærdighed, når du bruger ethvert skjold, forbedres med +10%. Denne færdighedsbonus hjælper ikke med Rang-fremgang.
+    - Alle skjolde tæller som 1 Størrelseskategori større i forhold til at parere skade: Stor til Kæmpe, Kæmpe til Enorm, og Enorm til Kolossal.
 
-#### Rang-baserede Evner
+#### Rang-evner
 
-Som navnet antyder, kan Rang-baserede Evner kun vælges af en karakter af en bestemt Rang eller højere. De fleste har en forudsætningsfærdighed, der skal være på et bestemt niveau eller højere. Du bliver ikke udelukket fra tidligere Evner, når en ny Rang opnås. Hvis du for eksempel ikke tog en Rang 2 Evne, kan du gå tilbage og tage den på Rang 3 eller endnu senere. Ikke mere end én Evne må tages pr. session.
+Som navnet antyder, kan Rang-evner kun vælges af en karakter af en bestemt Rang eller højere. De fleste har en Forudsætningsfærdighed, der skal være på et bestemt færdighedsniveau eller højere. Du er ikke udelukket fra tidligere Evner, når en ny Rang er opnået. Hvis du for eksempel ikke valgte en Rang 2 Evne, kan du gå tilbage og tage den ved Rang 3 eller endda senere. Der må ikke tages mere end én Evne pr. session.
 
 #### Rang 1:
 
-For hver udgift af 1 Erfaringsrul kan du opnå én af følgende Evner (én Evne pr. session, hver kan kun tages én gang):
+For hver udgift på 1 Erfaringsslag kan du opnå en af følgende Evner (én Evne pr. session, hver kan kun vælges én gang):
 
-- **Kraftfuldt slag:** Kræver Kraft (Brawn) og Kampfærdighed på 50% eller højere. Ved at reducere din færdighed med én grad på dit næste nærkampsangreb, kan du øge din Skadesmodifikator med to grader.
-- **Bare en skramme:** Kræver Udholdenhed på 50% eller højere. Én gang om dagen, efter at have holdt en kort pause på mindst en time og tjekket dine sår, kan du genvinde et antal Hit Points i én Hit Location svarende til din helingsrate. Har ingen effekt på store sår.
-- **Bereden kamp:** Kræver Ridefærdighed på 50% eller højere. Du har trænet til at kæmpe fra ryggen af et ridedyr og kan drage fordel af følgende, når du er bereden. Hvor normale krigerfærdigheder for ryttere normalt ikke kan overstige deres ridefærdighed, gælder dette ikke for dig. Derudover medfører udførelse af et ridende angreb ikke straffen på ét trin i sværhedsgrad for at ramme. Endelig kan du ignorere den første strafgrad af ethvert riderul, der kræves under kamp. Bemærk at menneskelige nomader og elverryttere kan anvende ovenstående bonusser, når de bruger en kort bue fra ryggen af et ridedyr.
-- **Andet åndedrag:** Kræver Udholdenhed på 50% eller højere. Én gang om dagen, efter at have haft chancen for at holde en kort pause på mindst en time, kan du øjeblikkeligt genvinde op til 3 niveauer af tabt træthed udover hvad der normalt genvindes.
-- **Skirmishing:** Kræver Atletik og Kampfærdighed på 50% eller højere. Evnen tillader lancering af et afstandsangreb, mens du vælger Hustle-handlingen til at løbe (men ikke under spurt). Angriberens angrebsprocent kan dog ikke overstige hans atletikfærdighed. Angrebet kan finde sted før eller efter bevægelsen.
-- **Våbenpræcision:** Du er dygtig til at bruge små, skjultbare våben, der ikke kræver meget styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STR+DEX i stedet for STR+SIZ, hvis det ville generere et bedre resultat. Skadesmodifikatoren kan ikke overstige våbnets normale skadesterning. For eksempel ville en daggert med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4, hvilket gør den til 1d4+1+1d4. Dette dækker køller, daggere, garrotter, knive, korte sværd, main gauche og rapirer, såvel som ubevæbnede angreb. Pile, slynger, korte buer og spyd falder også under denne kategori.
+- **Kraftfuldt Hug:** Kræver Muskler og Kampfærdighed på 50% eller højere. Ved at reducere din færdighed med én grad på dit næste nærkampsangreb, kan du øge din Skadesmodifikator med to grader.
+- **Bare en skramme:** Kræver Udholdenhed på 50% eller højere. Én gang om dagen, efter at have holdt en kort pause på mindst en time og tjekket dine sår, kan du genvinde et antal Hit Points i én Hit-lokation svarende til din Helingsrate. Har ingen effekt på Alvorlige Sår.
+- **Bereden kamp:** Kræver Ridning-færdighed på 50% eller højere. Du har trænet i at kæmpe fra ryggen af et ridedyr og kan drage fordel af følgende, når du er bereden. Hvor normale krigerfærdigheder for ryttere normalt ikke må overstige deres Ridning-færdighed, gælder dette ikke for dig. Derudover medfører udførelse af et beredent angreb ikke straffen på én sværhedsgrad for at ramme. Endelig kan du ignorere den første strafgrad af ethvert Ridning-slag, der kræves under kamp. Bemærk at menneskelige nomader og elver-ryttere kan anvende ovenstående bonusser, når de bruger en kortbue fra ryggen af et ridedyr.
+- **Andet åndedrag:** Kræver Udholdenhed på 50% eller højere. Én gang om dagen, efter at have haft mulighed for at holde en kort pause på mindst en time, kan du øjeblikkeligt genvinde op til 3 niveauer af tabt Udmattelse ud over alt, hvad der normalt genvindes.
+- **Skærmydsel:** Kræver Atletik og Kampfærdighed på 50% eller højere. Evnen tillader lancering af et afstandsangreb, mens man vælger Hustle-handlingen for at løbe (men ikke mens man spurter). Angriberens angrebsprocent må dog ikke overstige dennes Atletik-færdighed. Angrebet kan finde sted før eller efter bevægelsen.
+- **Våbenpræcision:** Du er dygtig til at bruge små, skjulte våben, der ikke kræver stor styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STY+FIN i stedet for STY+STØ, hvis det ville generere et bedre resultat. Skadesmodifikatoren kan ikke overstige våbnets normale skadesterning. For eksempel ville en daggert med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4, hvilket gør den til 1d4+1+1d4. Dette dækker køller, daggert, garrotter, knive, kortsværd, main gauche og rapiere, såvel som ubevæbnede angreb. Pile, slynger, kortbuer og spyd falder også under denne kategori.
 - **Våbenspecialisering:** Kræver Kampfærdighed på 50% eller højere. Du kan vælge endnu en Våbenspecialisering.
 
 #### Rang 2:
 
-Ved at nå Rang 2 progresserer du automatisk til Våbenmester, hvis du opfylder forudsætningerne.
+Ved at nå Rang 2 går du automatisk videre til Våbenmester, hvis du opfylder forudsætningerne.
 
-- **Våbenmester** (specifikt nærkamps- eller afstandsvåben): Kræver Våbenspecialisering i det valgte våben og en Kampfærdighed på 70% eller højere. Mens du kan specialisere dig i ethvert antal våben, kan du kun mestre ét. Derfor kan du ikke tage denne Evne, hvis du allerede har taget våbenmesterskab i noget andet våben. Våbenmestre fordobler den kritiske chance for deres mestrede våben. Derudover får det valgte nærkampsvåben en forbedring på 1 trin til Skadesmodifikatoren, mens et afstandsvåben får den samme bonus mod mål inden for nærområdet.
+- **Våbenmester** (specifikt nærkamps- eller Afstandsvåben): Kræver Våbenspecialisering i det valgte våben og en Kampfærdighed på 70% eller højere. Selvom du kan specialisere dig i et hvilket som helst antal våben, kan du kun mestre ét. Du kan derfor ikke tage denne Evne, hvis du allerede har taget våbenmesterskab i noget andet våben. Våbenmestre fordobler den Kritiske chance for deres mestrede våben. Derudover opnår det valgte nærkampsvåben en 1-trins forbedring af Skadesmodifikator, mens et Afstandsvåben opnår samme bonus mod mål inden for Nær Rækkevidde.
 
-Derudover kan du for hver udgift af 2 Erfaringsrul opnå én af følgende Evner (hver kan kun tages én gang):
+Derudover kan du for hver udgift på 2 Erfaringsslag opnå en af følgende Evner (hver kan kun vælges én gang):
 
-- **Råstyrke:** Én gang om dagen bliver din Kraft (Brawn)-færdighed én grad lettere at udføre én handling. Du lider tabet af et niveau af træthed bagefter.
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Fejende slag:** Kræver Kraftfuldt slag og Kampfærdighed på 70% eller højere. Et Fejende slag foretages ved at anvende et enkelt nærkampsangrebsrul på to mål inden for rækkevidde og i dit synsfelt. Hver forsvarer skal løse effekterne af angrebet separat, og alle særlige effekter pålagt af angriberen behandles som værende sket samtidigt. Angrebene må ikke feje forbi en venlig enhed placeret mellem to modstandere. Kun ét Fejende slag må foretages pr. runde.
-- **Våbenspecialisering:** Kræver Kampfærdighed på 70% eller højere. Du kan vælge endnu en Våbenspecialisering.
+- **Rå styrke:** Én gang om dagen bliver din Muskler-færdighed én grad lettere at udføre én Handling. Du lider derefter tab af ét niveau af Udmattelse.
+- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Fejende Hug:** Kræver Kraftfuldt Hug og Kampfærdighed på 70% eller højere. Et Fejende Hug foretages ved at anvende ét enkelt nærkampsangrebsslag på to mål inden for rækkevidde og i din synslinje. Hver forsvarer skal løse effekterne af angrebet separat, og alle Specielle Effekter pålagt af angriberen behandles som værende sket samtidigt. Angrebene må ikke feje forbi en venlig enhed placeret mellem to modstandere. Der må kun foretages ét Fejende Hug pr. Runde.
+- **Våbenspecialisering:** Kræver Kampfærdighed på 70% eller højere. Du kan vælge endnu en Våbenspecialisering.#### Rang 3:
 
-#### Rang 3:
+Når du når Rang 3, avancerer du automatisk til Højmester, hvis du opfylder forudsætningerne.
 
-Ved at nå Rang 3 progresserer du automatisk til High Master, hvis du opfylder forudsætningerne.
+- **Højmester:** Kræver Våbenbeherskelse i det valgte våben og en Kampfærdighed på 90 % eller højere. En Våbenmester kan nu blive Højmester og opnå yderligere fordele afhængigt af det valgte våben, opsummeret som følger:
+  - Mestere i nærkampsvåben kan udføre en ripost efter en vellykket Parade. En ripost er et hurtigt opfølgende stød mod modstanderen som en Fri Handling med én sværhedsgrad lettere. De behandler deres valgte våben som værende 1 grad større: Stor til Enorm, Enorm til Kolossal, og Kolossal til Titanisk, i forhold til at afbøde skade.
+  - Mestere i afstandsvåben kan skifte resultatet af et Hitlokations-kast til en tilstødende lokation, forudsat at målet er inden for våbnets Nærområde, jf. Specialeffekten Skarpskytte.
 
-- **High Master:** Kræver Våbenmesterskab i det valgte våben og Kampfærdighed på 90% eller højere. En Våbenmester kan nu blive en High Master, hvilket giver yderligere fordele afhængigt af det valgte specifikke våben, som opsummeres som følger:
-  - Nærkampsvåbenmestre kan foretage et riposte efter en vellykket Parry. En riposte er et hurtigt, gratis handlings-opfølgende stød mod deres modstander på én sværhedsgrad. De behandler deres valgte våben som 1 grad større: Stor til Kæmpe, Kæmpe til Enorm og Enorm til Kolossal med det formål at afbøje skade.
-  - Afstandsmestre kan skifte resultatet af et Hit Location-rul til en tilstødende lokation, forudsat at målet er inden for våbnets nærområde, som pr. Marksman-effekten.
+Derudover kan du for hver 3. Erfaringsrul, du bruger, opnå en af følgende Evner (hver kan kun tages én gang, medmindre andet er angivet):
 
-Derudover kan du for hver udgift af 3 Erfaringsrul opnå én af følgende Evner (hver kan kun tages én gang, medmindre andet er angivet):
-
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks:** Denne Evne kræver, at du er ubelastet (færre 'ting' båret end STR), og ikke bærer noget mere restriktivt end let rustning. Én gang pr. kamp kan du gen-rulle et mislykket Parry- eller Evade-rul uden at bruge et Lykkepoint. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
-- **Større fejende slag:** Kræver Fejende slag og Kampfærdighed på 90% eller højere. Som pr. Fejende slag, men det kan udføres mod alle fjender inden for rækkevidde og i synsfelt. Angrebene må ikke feje forbi en venlig enhed placeret mellem to modstandere. Kun ét Fejende slag må foretages pr. runde.
-- **Våbenspecialisering:** Kræver Kampfærdighed på 90% eller højere. Du kan vælge endnu en Våbenspecialisering.
+- **Karakterforøgelse:** Du kan tilføje +1 til en Karakteregenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser:** Denne Evne kræver, at du er Ubelastet (færre 'Genstande' båret end din STY), og at du ikke bærer tungere rustning end let rustning. Én gang pr. kamp må du kaste terningerne om ved en mislykket Parade eller Undvigelse uden at bruge et Lykkepoint. Du må dog ikke kaste om mod det samme angreb mere end én gang, og evnen kan ikke kombineres med et Lykkepoint.
+- **Større Fejende Angreb:** Kræver Fejende Angreb og en Kampfærdighed på 90 % eller højere. Fungerer som Fejende Angreb, men det kan udføres mod alle fjender inden for rækkevidde og i synsfeltet. Angrebene må ikke feje forbi en venlig enhed, der er placeret mellem to modstandere. Der må kun udføres ét Fejende Angreb pr. Runde.
+- **Våbenspecialisering:** Kræver en Kampfærdighed på 90 % eller højere. Du kan vælge en yderligere Våbenspecialisering.
 
 #### Rang 4:
 
-Ved at nå Rang 4 progresserer du automatisk til Grand Master, hvis du opfylder forudsætningerne.
+Når du når Rang 4, avancerer du automatisk til Stormester, hvis du opfylder forudsætningerne.
 
-- **Grand Master:** Kræver Våben High Mastery og Kampfærdighed på 110% eller højere. En Grand Master af et specifikt våben får fordele afhængigt af det valgte våben. Dette opsummeres som følger:
-  - Nærkampsvåben Grand Masters får endnu en 1-trins forbedring til Skadesmodifikatoren, for i alt 2 grader (inklusive bonussen fra Våbenspecialisering).
-  - En Grand Master af et afstandsvåben kan reducere genladningstiden for et mestret afstandsvåben med et yderligere point. Et våben med 0 genladningstid kan effektivt gøres klar som en gratis handling.
+- **Stormester:** Kræver Våben-Højmesterskab og en Kampfærdighed på 110 % eller højere. En Stormester i et specifikt våben opnår fordele afhængigt af det valgte våben. Dette opsummeres som følger:
+  - Stormestre i nærkampsvåben opnår endnu en forbedring på 1 trin til Skadesmodifikator, i alt 2 grader (inklusive bonus fra Våbenspecialisering).
+  - En Stormester i et afstandsvåben kan reducere genladningstiden for et mestret afstandsvåben med yderligere et punkt. Et våben med 0 i genladningstid kan effektivt gøres klar som en Fri Handling.
 
-Derudover kan du for hver udgift af 4 Erfaringsrul opnå én af følgende Evner (hver kan kun tages én gang, medmindre andet er angivet):
+Derudover kan du for hver 4. Erfaringsrul, du bruger, opnå en af følgende Evner (hver kan kun tages én gang, medmindre andet er angivet):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Større råstyrke:** Som pr. Råstyrke, men du kan udføre denne Evne to gange om dagen, og den første brug forårsager intet tab af træthed. Du lider tabet af et niveau af træthed efter den anden brug.
-- **Våbenspecialisering:** Kræver Kampfærdighed på 110% eller højere. Du kan vælge endnu en Våbenspecialisering.
+- **Karakterforøgelse:** Du kan tilføje +1 til en Karakteregenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Større Råstyrke:** Som Råstyrke, men du kan udføre denne Evne to gange dagligt, og første gang koster ikke noget Udmattelse. Du lider tabet af ét niveau Udmattelse efter anden brug.
+- **Våbenspecialisering:** Kræver en Kampfærdighed på 110 % eller højere. Du kan vælge en yderligere Våbenspecialisering.
 
 #### Rang 5:
 
-Ved at nå Rang 5 progresserer du automatisk til Legendary Master, hvis du opfylder forudsætningerne.
+Når du når Rang 5, avancerer du automatisk til Legendarisk Mester, hvis du opfylder forudsætningerne.
 
-- **Legendary Master:** Kræver Våben Grand Mastery og Kampfærdighed på 130% eller højere. En Grand Master af et våben får yderligere fordele afhængigt af det valgte våben, som følger:
-  - En Legendary Masters nærkampsvåben behandles som 2 grader større, når der pareres: Stor til Enorm, Kæmpe til Kolossal og så videre.
-  - En bueskytte kan lægge to pile på og affyre dem på én sværhedsgrad. De kan affyre 3 pile på to sværhedsgrader. I begge tilfælde skal målet være inden for våbnets nærområde, og hvis der affyres mod flere mål, skal hvert mål være inden for 5 fod af et andet.
-  - En slyngeskytte eller knivkaster kan slynge yderligere sten, kugler eller knive som pr. en bueskytte.
-  - En armbrøstmester kan reducere genladningstiden med et yderligere point. Et våben med 0 genladningstid kan effektivt gøres klar som en gratis handling.
+- **Legendarisk Mester:** Kræver Våben-Stormesterskab og en Kampfærdighed på 130 % eller højere. En Stormester i et våben opnår yderligere fordele afhængigt af det valgte våben, som følger:
+  - En Legendarisk Mesters nærkampsvåben behandles som 2 grader større ved Parade: Stor til Enorm, Enorm til Kolossal, osv.
+  - En bueskytte kan lægge to pile på strengen og affyre dem med én sværhedsgrad sværere. De kan affyre 3 pile med to sværhedsgrader sværere. I begge tilfælde skal målet være inden for våbnets Nærområde, og hvis der affyres mod flere mål, skal hvert mål være inden for 5 fod af et andet.
+  - En slyngekaster eller knivkaster kan kaste yderligere sten, kugler eller knive som en Bueskytte.
+  - En armbrøstmester kan reducere genladningstiden med yderligere et punkt. Et våben med 0 i genladningstid kan effektivt gøres klar som en Fri Handling.
 
-Derudover kan du for hver udgift af 5 Erfaringsrul opnå én af følgende Evner (hver kan kun tages én gang, medmindre andet er angivet):
+Derudover kan du for hver 5. Erfaringsrul, du bruger, opnå en af følgende Evner (hver kan kun tages én gang, medmindre andet er angivet):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks II:** Kræver Defensiv refleks. Som pr. Defensiv refleks, men du kan nu bruge denne Evne to gange i den samme kamp. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
-- **Våbenspecialisering:** Kræver Kampfærdighed på 130% eller højere. Du kan vælge endnu en Våbenspecialisering.
+- **Karakterforøgelse:** Du kan tilføje +1 til en Karakteregenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser II:** Kræver Defensive Reflekser. Som Defensive Reflekser, men du kan nu bruge denne Evne to gange i den samme kamp. Du må dog ikke kaste om mod det samme angreb mere end én gang, og evnen kan ikke kombineres med et Lykkepoint.
+- **Våbenspecialisering:** Kræver en Kampfærdighed på 130 % eller højere. Du kan vælge en yderligere Våbenspecialisering.
 
-### Krigerens grundlæggende startudstyr
+### Fighterens Grundlæggende Startudstyr
 
-Hvert linjeelement tæller som 1 'Ting' for belastningsformål, medmindre andet er noteret.
+Hvert linjeelement tæller som 1 'Genstand' i forhold til Belastning, medmindre andet er angivet.
 
 - Langsværd
-- Rundt skjold (tæller som 2 Ting)
-- Kort bue
+- Rundt skjold (tæller som 2 Genstande)
+- Kortbue
 - Kogger med 20 pile
-- Fuldt sæt kæderustning, 5 rustningspoint (0 Ting når båret, 14 Ting hvis transporteret)
-- Rygsæk (10 tings kapacitet); vandsæk, en uges stirationer, sovepose, lille tom sæk*, flint og tinder**, 2 seks-timers fakler (5½ Ting indeholdt)
+- Komplet sæt kæderustning, 5 Rustningspoint (0 Genstande når båret, 14 Genstande hvis båret i oppakning)
+- Rygsæk (kapacitet til 10 Genstande); vandsæk, én uges feltrationer, sovepose, lille tom sæk\*, flint og stål\*\*, 2 sekstimers fakler (5½ Genstande indeholdt)
 - Bæltetaske med 2d4 guldstykker
 
-Total ENC: 7 Ting
+Samlet BEL: 7 Genstande
 
-_* Indhold tæller mod rygsækkens indhold, da dens volumen øges._
 
-_** Tæller som ½ en Ting._
+_\* Indholdet tæller med i rygsækkens indhold, da dens volumen øges._
+
+_\*\* Tæller som ½ Genstand._
 
 ---
-## Magiker (Magic-User/Mage)
+## Magibruger (Mager)
 
-Magikere studerer det esoteriske og graver gennem gamle, støvede grave for at finde nye og undvigende besværgelser, som de kan føje til deres besværgelsesbøger. De bruger meget af deres fritid på at studere disse besværgelser og lære at mestre de kræfter, der findes i dem. Selvom de er svage i starten, har magikere potentialet til at blive de mest kraftfulde af alle klasserne.
+Magibrugere studerer det esoteriske og graver i gamle, støvede grave efter nye og undvigende besværgelser, som de kan tilføje til deres besværgelsesbøger. De bruger det meste af deres fritid på at studere disse besværgelser og lære at mestre de kræfter, der findes i dem. Selvom de starter svagt ud, har magere potentialet til at blive de mest magtfulde af klasserne.
 
-#### Almindelige arter/kultur
+#### Almindelige Arter/Kultur
 
-Enhver, men typisk civiliserede og nomadiske mennesker, samt gnomer, elvere og halvelvere. Gnomer, der bliver magikere, har tendens til at drages mod illusionsskolen.
+Alle, men typisk civiliserede og nomadiske mennesker, samt gnomer, elvere og halvelvere. Gnomer, der bliver magere, har tendens til at drages mod Illusionernes Skole.
 
-#### Vigtige egenskaber
+#### Vigtige Karakteregenskaber
 
-DEX, INT og POW
+FIN, INT og MAG
 
-#### Krav til Alignment/Ed
+#### Justering/Ed-krav
 
-- Alignment: Magikere er ikke begrænset af Alignment og kræver ingen Ed.
+- Justering: Magere er ikke begrænset af Justering og kræver ingen Ed.
 
-Se [Kapitel 4: Alignment og Passions](0004_Alignment_and_Passions.md).
+Se [Kapitel 4: Justering og Passioner](0004_Alignment_and_Passions.md).
 
 #### Klassefærdigheder
 
-- **Standardfærdigheder:** Undvigelse, Førstehjælp, Indflydelse, Indsigt, Lokalitet, Perception, Viljestyrke
-- **Professionelle færdigheder:** En magiker modtager automatisk Arkansk kastning og Arkansk viden, plus 3 yderligere færdigheder fra følgende: Kultur (enhver), Sprog (enhver), Lore (Alkymi), Lore (enhver)
+- **Standardfærdigheder:** Undvigelse, Førstehjælp, Påvirkning, Indsigt, Lokalitet, Perception, Viljestyrke
+- **Professionelle færdigheder:** En mager modtager automatisk Arkansk Kast og Arkansk Viden, plus 3 yderligere færdigheder fra følgende: Kultur (enhver), Sprog (enhver), Lære (Alkymi), Lære (enhver)
 
-#### Magikerens rustning og våbenbeherskelse
+#### Magerustning og Våbenfærdighed
 
-Magikere er ikke dygtige med nogen form for rustning eller skjolde, da arkanske besværgelser kræver præcise gestus og bevægelser under kastning, hvilket hindres af at bære rustning. De er typisk ikke trænet i fysisk kamp; derfor kan magikerens Kampfærdighed kun udvikles med bonusfærdighedspoint. Den inkluderer brugen af daggere, pile, slynger, kvartstave og lette armbrøster, simple våben, der ofte findes omkring deres mesters residens, eller som er relativt lette at samle op og lære.
+Magere er ikke trænede i nogen form for rustning eller skjolde, da Arkanske besværgelser kræver præcise gestus og bevægelser under kastet, som hindres af at bære rustning. De er typisk ikke trænet i fysisk kamp; derfor kan magerens Kampfærdighed kun udvikles med Bonusfærdighedspoint. Den inkluderer brugen af dolke, dartpile, slynger, kvartstave og lette armbrøster, simple våben man ofte finder omkring mesterens bopæl, eller som er relativt lette at samle op og lære.
 
 ### Rangstruktur
 
-Alle magikere vurderes efter Rang, som er en vurdering af magt og dygtighed. Når en specifik grad af mestring er opnået i et begrænset antal Klassefærdigheder, kan magikere øge deres Rang, da de vil have demonstreret det nødvendige niveau af egnethed. Når dette niveau af egnethed er nået, opnås et ekstra Lykkepoint, og nye Evner kan erhverves. Denne information findes nedenfor i [Magikerens Rangtabel](0003_Classes.md?id=mage-rank-table) under Avancement. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Journeyman med de passende Evner noteret nedenfor; ellers starter du som en Rang 0 Apprentice med evnen til at kaste Rang 0-besværgelser og ingen andre Evner.
+Alle magere vurderes efter Rang, som er et mål for magt og færdighed. Når en bestemt grad af mestring opnås i et begrænset antal Klassefærdigheder, kan magere øge deres Rang, da de har demonstreret det nødvendige niveau af anlæg. Når dette niveau af anlæg nås, opnås et ekstra Lykkepoint, og nye Evner kan erhverves. Denne information findes nedenfor i [Magerangtabellen](0003_Classes.md?id=mage-rank-table) under Avancement. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Svend med de relevante Evner noteret nedenfor; ellers starter du som en Rang 0 Lærling med evnen til at kaste Rang 0 besværgelser, og ingen andre Evner.
 
-##### Magikerens Rangtabel
+##### Magerangtabel
 
-| Rang | Titel | Avancement | Besværgelser i hukommelsen | Hit Points | Lykkepoint | Handlingspoint |
+| Rang | Titel | Avancement | Besværgelser i hukommelsen | Hitpoint | Lykkepoint | Handlingspoint |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Apprentice | - | Rang 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Journeyman | Enhver 5 Klassefærdigheder på 40% | Rang 0: (INT/4) +1<br> Rang 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Mage | Enhver 5 Klassefærdigheder på 70% | Rang 0: (INT/4) +2 <br> Rang 1: (INT/4) +2 <br> Rang 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Adept Mage | Enhver 4 Klassefærdigheder på 90% | Rang 0: (INT/4) +3 <br> Rang 1: (INT/4) +4 <br> Rang 2: (INT/4) +2 <br> Rang 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Arch Mage | Enhver 3 Klassefærdigheder på 110% | Rang 0: (INT/4) +4 <br> Rang 1: (INT/4) +6 <br> Rang 2: (INT/4) +4 <br> Rang 3: (INT/4) +2 <br> Rang 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Grand Arch Mage | Enhver 2 Klassefærdigheder på 130% | Rang 0: (INT/4) +5 <br> Rang 1: (INT/4) +8 <br> Rang 2: (INT/4) +6 <br> Rang 3: (INT/4) +4 <br> Rang 4: (INT/4) +2 <br> Rang 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Lærling | - | Rang 0: (INT/4) | 0 | +0 | +0 |
+| **1** | Svend | Enhver 5 Klassefærdigheder på 40% | Rang 0: (INT/4) +1<br> Rang 1: (INT/4) | 0 | +0 | +0 |
+| **2** | Mager | Enhver 5 Klassefærdigheder på 70% | Rang 0: (INT/4) +2 <br> Rang 1: (INT/4) +2 <br> Rang 2: (INT/4) | +1 | +1 | +1 |
+| **3** | Adept Mager | Enhver 4 Klassefærdigheder på 90% | Rang 0: (INT/4) +3 <br> Rang 1: (INT/4) +4 <br> Rang 2: (INT/4) +2 <br> Rang 3: (INT/4) | +1 | +2 | +1 |
+| **4** | Ærkemager | Enhver 3 Klassefærdigheder på 110% | Rang 0: (INT/4) +4 <br> Rang 1: (INT/4) +6 <br> Rang 2: (INT/4) +4 <br> Rang 3: (INT/4) +2 <br> Rang 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Stor Ærkemager | Enhver 2 Klassefærdigheder på 130% | Rang 0: (INT/4) +5 <br> Rang 1: (INT/4) +8 <br> Rang 2: (INT/4) +6 <br> Rang 3: (INT/4) +4 <br> Rang 4: (INT/4) +2 <br> Rang 5: (INT/4) | +2 | +4 | +2 |
 
-#### Start-evner
+#### Start-Evner
 
-Magikeren kender følgende Evner på Rang 1. Derudover kan du under karakteroprettelse vælge én Rang 1 Evne gratis, forudsat at du opfylder kravene.
+Mageren kender følgende Evner på Rang 1. Derudover kan du under karakteroprettelse vælge én Rang 1 Evne gratis, forudsat at du opfylder dens krav.
 
-- **Besværgelseskaster:** Selvom magikere er meget svage i starten af deres karriere, kan de i den anden ende af spektret kaste de mest spektakulære og kraftfulde besværgelser, i stand til at brænde hære og kollapse slotte ustraffet. Alle arkanske besværgelser kræver præcise gestus og bevægelser (besværgelsens somatiske komponent) under kastning, hvilket hindres af at bære rustning. Se [Kastning i rustning](0009_Magic.md?id=casting-in-armor) afsnittet for specifik information. Antallet af besværgelser af deres nuværende Rang, som en magiker må have i hukommelsen, findes i [Magikerens Rangtabel](0003_Classes.md?id=mage-rank-table) ovenfor under Besværgelser i hukommelsen.
-- **Start-besværgelser:** Cantrips er de første magiske evner, der læres af en lærling-magiker og er fuldt defineret i [Besværgelser](0010_Spells.md) kapitlet. En magiker begynder med kendskab til Rang 0 cantrippen Read Magic, samt to cantrips (Rang 0) for hver 1/10 arkansk viden (færdighed x 0,1). Hvis magikeren kvalificerer sig som Rang 1, kender de også én Rang 1 besværgelse for hver 1/10 arkansk viden. Antallet af besværgelser, magikeren må have forberedt på hver Rang, findes ovenfor i [Magikerens Rangtabel](0003_Classes.md?id=mage-rank-table) under Besværgelser i hukommelsen. Se [Magikerens besværgelsesliste](0003_Classes.md?id=mage-spell-list) nedenfor og afsnittet om [Memorisering af besværgelser](0009_Magic.md?id=memorizing-spells).
+- **Besværgelseskaster:** Mens magere er meget svage i starten af deres karrierer, kan de i den anden ende af spektret kaste de mest spektakulære og magtfulde besværgelser, i stand til at brænde hære og jævne slotte med jorden uden konsekvenser. Alle Arkanske besværgelser kræver præcise gestus og bevægelser (besværgelsens somatiske komponent) under kastet, som hindres af at bære rustning. Se [Kast i Rustning](0009_Magic.md?id=casting-in-armor) sektionen for specifik information. Antallet af besværgelser af deres nuværende Rang, en mager kan have i hukommelsen, findes på [Magerangtabellen](0003_Classes.md?id=mage-rank-table) ovenfor under Besværgelser i hukommelsen.
+- **Start-Besværgelser:** Cantrips er de første magiske evner, der læres af en magerlærling, og er fuldt defineret i [Besværgelser](0010_Spells.md) kapitlet. En mager begynder med kendskab til Rang 0 cantrippen Læs Magi, samt to cantrips (Rang 0) for hver 1/10 Arkansk Viden (færdighed x 0.1). Hvis mageren kvalificerer sig som Rang 1, kender de også én Rang 1 besværgelse for hver 1/10 Arkansk Viden. Antallet af besværgelser, som mageren kan have forberedt på hver Rang, findes ovenfor på [Magerangtabellen](0003_Classes.md?id=mage-rank-table) under Besværgelser i hukommelsen. Se [Magerbesværgelseslisten](0003_Classes.md?id=mage-spell-list) nedenfor og sektionen om [Memorisering af Besværgelser](0009_Magic.md?id=memorizing-spells).
 
-#### Rang-baserede Evner
+#### Rang-Evner
 
-Som navnet antyder, kan Rang-baserede Evner kun vælges af en karakter af en bestemt Rang eller højere. De fleste har en forudsætningsfærdighed, der skal være på et bestemt niveau eller højere, før de kan vælges. Du bliver ikke udelukket fra tidligere Evner, når en ny Rang opnås. Hvis du for eksempel ikke tog en Rang 2 Evne, kan du gå tilbage og tage den på Rang 3 eller endnu senere. Ikke mere end én Evne må tages pr. session.
+Som navnet antyder, kan Rang-Evner kun vælges af en karakter af en bestemt Rang eller højere. De fleste har en Forudsætningsfærdighed, der skal være på et bestemt færdighedsniveau eller højere, før den kan vælges. Du bliver ikke udelukket fra tidligere Evner, når en ny Rang er nået. Hvis du f.eks. ikke fik taget en Rang 2 Evne, kan du gå tilbage og tage den på Rang 3 eller endnu senere. Ikke mere end én Evne må tages pr. spilsession.
 
 #### Rang 1:
 
-For hver udgift af 1 Erfaringsrul kan du opnå én af følgende Evner (én Evne pr. session, hver Evne kan kun tages én gang):
+For hver 1 Erfaringsrul, du bruger, kan du opnå én af følgende Evner (én Evne pr. session, hver Evne kan kun tages én gang):
 
-- **Kraftfuld koncentration:** Kræver Arkansk kastning på 50% eller højere. Viljestyrketests for at opretholde koncentration vedrørende besværgelser og besværgelseskastning er én sværhedsgrad lettere.
-- **Mental styrke:** Kræver Arkansk kastning på 60% eller højere. Én gang om dagen finder du det 2 sværhedsgrader lettere at udføre Viljestyrketjek, når du modstår enhver form for magi, der målretter sindet. Dette inkluderer kræfter som fortryllelse, charme, dominans, hold, hypnose, Magic Jar, besiddelse, søvn, suggestion og psionisk mind blast. Det har ingen effekt på færdigheder som Indflydelse eller Forførelse. Du finder det også 1 grad lettere at gennemskue illusioner og fantomer. I tilfælde af elvere akkumuleres dette ikke med deres modstand mod søvn og charme, men det udvider deres evne til at modstå yderligere effekter.
-- **Våbenpræcision:** Du er dygtig til at bruge små, skjultbare våben, der ikke kræver meget styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STR+DEX i stedet for STR+SIZ, alt efter hvad der genererer et bedre resultat. Skadesmodifikatoren kan ikke overstige våbnets normale skadesterning. For eksempel ville en daggert med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4. Dette dækker køller, daggere, garrotter, knive, korte sværd, main gauche og rapirer. Såvel som ubevæbnede angreb. Pile, slynger, korte buer og spyd falder også under denne kategori.
+- **Kraftfuld Koncentration:** Kræver Arkansk Kast på 50 % eller højere. Viljestyrke-tests for at opretholde Koncentration vedrørende besværgelser og besværgelseskast er én Sværhedsgrad lettere.
+- **Mental Styrke:** Kræver Arkansk Kast på 60 % eller højere. Én gang dagligt finder du det 2 Sværhedsgrader lettere at udføre Viljestyrke-tjek, når du modstår enhver form for magi, der målretter sindet. Dette inkluderer kræfter såsom forførelse, charme, dominans, hold, hypnose, Magi-krukke, besættelse, søvn, suggestion og psionisk sindssprængning. Det har ingen effekt på færdigheder som Påvirkning eller Forførelse. Du finder det også 1 grad lettere at Afkræfte illusioner og fantismer. I tilfælde af elvere akkumulerer dette ikke med deres modstand mod Søvn og Charme, men det udvider deres evne til at modstå yderligere effekter.
+- **Våbenpræcision:** Du er dygtig til at bruge små, skjulte våben, der ikke kræver megen styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STY+FIN i stedet for STY+STØ, alt efter hvad der giver det bedste resultat. Skadesmodifikatoren kan ikke overstige våbnets normale skadeterning. For eksempel ville en dolk med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4. Dette dækker køller, dolke, garrotter, knive, kortsværd, venstrehåndsdolke og rapierer. Samt ubevæbnede angreb. Dartpile, slynger, kortbuer og kastespyd falder også under denne kategori.
 
 #### Rang 2:
 
-For hver udgift af 2 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+For hver 2 Erfaringsrul, du bruger, kan du opnå en af følgende Evner (hver kan kun tages én gang):
 
-- **Egenskabsforøgelse:** Tilføj +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Mental styrke II:** Kræver Mental styrke og Arkansk viden på 80% eller højere. Som pr. Mental styrke, men kan bruges to gange om dagen.
-- **Ranged Touch (X):** Kræver Viljestyrke på 80% eller højere. Denne Evne giver kasteren mulighed for at give en besværgelse med en rækkevidde på "Touch" en rækkevidde på 30 fod i stedet. Besværgelsen betragtes som én Rang højere med hensyn til memorering og bør noteres som værende ranged, når den memoreres. For eksempel ville Invisibility (Ranged) tælle som en Rang 2 besværgelse.
+- **Karakterforøgelse:** Tilføj +1 til en Karakteregenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Mental Styrke II:** Kræver Mental Styrke og Arkansk Viden på 80 % eller højere. Som Mental Styrke, men kan bruges to gange dagligt.
+- **Afstandsberøring (X):** Kræver Viljestyrke på 80 % eller højere. Denne Evne giver kasteren mulighed for at give en besværgelse med en Rækkevidde på "Berøring", en Rækkevidde på 30 fod i stedet. Besværgelsen betragtes som én Rang højere med hensyn til memorisering og bør noteres som værende "afstand" (ranged), når den memoreres. For eksempel ville Usynlighed (Afstand) tælle som en Rang 2 besværgelse.
 
 #### Rang 3:
 
-For hver udgift af 3 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+For hver 3 Erfaringsrul, du bruger, kan du opnå en af følgende Evner (hver kan kun tages én gang):
 
-- **Egenskabsforøgelse:** Tilføj +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks:** Defensiv refleks kræver, at du er ubelastet (færre 'ting' båret end STR), og ikke bærer noget mere restriktivt end let rustning. Én gang pr. kamp kan du gen-rulle et mislykket Parry- eller Evade-rul uden at bruge et Lykkepoint. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
-- **Mental styrke III:** Kræver Mental styrke II og Arkansk viden på 100% eller højere. Som pr. Mental styrke, men kan bruges tre gange om dagen.
+- **Karakterforøgelse:** Tilføj +1 til en Karakteregenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser:** Defensive Reflekser kræver, at du er Ubelastet (færre 'Genstande' båret end din STY), og at du ikke bærer tungere rustning end let rustning. Én gang pr. kamp må du kaste terningerne om ved en mislykket Parade eller Undvigelse uden at bruge et Lykkepoint. Du må dog ikke kaste om mod det samme angreb mere end én gang, og evnen kan ikke kombineres med et Lykkepoint.
+- **Mental Styrke III:** Kræver Mental Styrke II og Arkansk Viden på 100 % eller højere. Som Mental Styrke, men kan bruges tre gange dagligt.
 
 #### Rang 4:
 
-For hver udgift af 4 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+For hver 4 Erfaringsrul, du bruger, kan du opnå en af følgende Evner (hver kan kun tages én gang):
 
-- **Egenskabsforøgelse:** Tilføj +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Mental styrke IV:** Kræver Mental styrke III og Arkansk viden på 120% eller højere. Som pr. Mental styrke, men kan bruges fire gange om dagen.
+- **Karakterforøgelse:** Tilføj +1 til en Karakteregenskab efter eget valg. Dette må ikke overstige racens maksimum.
+- **Mental Styrke IV:** Kræver Mental Styrke III og Arkansk Viden på 120 % eller højere. Som Mental Styrke, men kan bruges fire gange dagligt.#### Rang 5:
 
-#### Rang 5:
+For hver udgift på 5 Erfaringskast (Experience Rolls), kan du opnå en af følgende Evner (hver kan kun tages én gang):
 
-For hver udgift af 5 Erfaringsrul kan du opnå én af følgende Evner (hver kan kun tages én gang):
+- **Karakteristikforøgelse:** Tilføj +1 til en Karakteristik efter eget valg. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser II:** Kræver Defensive Reflekser. Som Defensive Reflekser, dog kan du nu bruge denne evne to gange i samme kamp. Du må dog ikke slå om mod det samme angreb mere end én gang, og heller ikke kombinere det med et Heldpoint.
+- **Mental Styrke V:** Kræver Mental Styrke IV og Arkana-viden på 140% eller højere. Som Mental Styrke, men kan bruges fem gange om dagen.
 
-- **Egenskabsforøgelse:** Tilføj +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks II:** Kræver Defensiv refleks. Som pr. Defensiv refleks, men du kan nu bruge denne Evne to gange i den samme kamp. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
-- **Mental styrke V:** Kræver Mental styrke IV og Arkansk viden på 140% eller højere. Som pr. Mental styrke, men kan bruges fem gange om dagen.
+### Mage's basale startudstyr
 
-### Magikerens grundlæggende startudstyr
+Hver linje tæller som 1 'Genstand' i forhold til belastning, medmindre andet er angivet.
 
-Hvert linjeelement tæller som 1 'Ting' for belastningsformål, medmindre andet er noteret.
-
-- Stav (tæller som 2 Ting)
-- 3 pile (½ en Ting hver)
-- Almindeligt, udekoreret tøj, 0 rustningspoint (0 Ting når båret, 1 Ting hvis transporteret)
-- Besværgelsesbog
-- Besværgelseskomponentpose
-- Rygsæk (10 tings kapacitet); vandsæk, en uges stirationer, sovepose, lille tom sæk*, flint og tinder**, 10 to-timers stearinlys**, 10 siders pergament**, fjerpen og blækflaske** (6 ting indeholdt)
+- Stav (tæller som 2 Genstande)
+- 3 pile (½ Genstand hver)
+- Almindeligt, udekoreret tøj, 0 Pansringspoint (0 Genstande når det bæres, 1 Genstand hvis det bæres i taske)
+- Tryllebog
+- Pose med tryllekomponenter
+- Rygsæk (kapacitet til 10 Genstande); vandsæk, en uges proviant, sovepose, lille tom sæk*, ildstål og tønder**, 10 to-timers stearinlys**, 10 sider pergament**, pen og blækhus** (6 genstande indeholdt)
 - Bæltetaske med 3d6 guldstykker
 
-Total ENC: 7 Ting
+Total BELASTNING: 7 Genstande
 
-_* Indhold tæller mod rygsækkens indhold, da dens volumen øges._
+_* Indhold tæller med i rygsækkens indhold, da dens volumen øges._
 
-_** Tæller som ½ en Ting._
+_** Tæller som ½ Genstand._
 
-### Magikerens besværgelsesliste
+
+### Liste over Mage-besværgelser
 
 | Rang 0 | Rang 1 | Rang 2 | Rang 3 | Rang 4 | Rang 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
-| [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
-| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
-| [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
-| [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
-| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
-| [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
-| [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
-| [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
-| [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
-| [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
-| [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
-| [Repair](0010_Spells.md?id=repair) | [Shield](0010_Spells.md?id=shield) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
-| [Tidy](0010_Spells.md?id=tidy) | [Sleep](0010_Spells.md?id=sleep) |
-| | [Web](0010_Spells.md?id=web) |
-| | [Spider Climb](0010_Spells.md?id=spider-climb) |
+| [Vurder](0010_Spells.md?id=appraise) | [Pansring](0010_Spells.md?id=armor) | [Konstant lys](0010_Spells.md?id=continual-light) | [Besnæring af monster](0010_Spells.md?id=charm-monster) | [Kædelyng](0010_Spells.md?id=chain-lightning) | [Astral besværgelse](0010_Spells.md?id=astral-spell) |
+| [Afværg](0010_Spells.md?id=avert) | [Brændende hænder](0010_Spells.md?id=burning-hands) | [Mørke](0010_Spells.md?id=darkness) | [Kuldekegle](0010_Spells.md?id=cone-of-cold) | [Kontrol af vejr](0010_Spells.md?id=control-weather) | [Massebesnæring](0010_Spells.md?id=charm-mass) |
+| [Forvirring](0010_Spells.md?id=befuddle) | [Skift udseende](0010_Spells.md?id=change-appearance) | [Mørkesyn](0010_Spells.md?id=darkvision) | [Forvirring](0010_Spells.md?id=confusion) | [Dødsbesværgelse](0010_Spells.md?id=death-spell) | [Jordskælv](0010_Spells.md?id=earthquake) |
+| [Kulde (R)](0010_Spells.md?id=chill-r) | [Besnæring af person](0010_Spells.md?id=charm-person) | [Registrer ondskab (R)](0010_Spells.md?id=detect-evil-r) | [Dimensionsdør](0010_Spells.md?id=dimension-door) | [Fortrylle genstand](0010_Spells.md?id=enchant-item) | [Energidræn](0010_Spells.md?id=energy-drain) |
+| [Renselse (R)](0010_Spells.md?id=cleanse-r) | [Dansende lys](0010_Spells.md?id=dancing-lights) | [Registrer usynlighed](0010_Spells.md?id=detect-invisibility) | [Fortrylle våben](0010_Spells.md?id=enchant-weapon) | [Ildkugle, forsinket](0010_Spells.md?id=fireball-delayed-blast) | [Port](0010_Spells.md?id=gate) |
+| [Koordination](0010_Spells.md?id=coordination) | [Registrer magi](0010_Spells.md?id=detect-magic) | [Ophæv magi](0010_Spells.md?id=dispel-magic) | [Frygt](0010_Spells.md?id=fear) | [Kød til sten (R)](0010_Spells.md?id=flesh-to-stone-r) | [Meteorregn](0010_Spells.md?id=meteor-shower) |
+| [Afbøj](0010_Spells.md?id=deflect) | [Fjerfald](0010_Spells.md?id=feather-fall) | [Ildkugle](0010_Spells.md?id=fireball) | [Ildskjold](0010_Spells.md?id=fire-shield) | [Permanens](0010_Spells.md?id=permanency) | [Magtord – Dræb](0010_Spells.md?id=power-word-kill) |
+| [Tør](0010_Spells.md?id=dry) | [Find fortrolig](0010_Spells.md?id=find-familiar) | [Flyv](0010_Spells.md?id=fly) | [Fumlen](0010_Spells.md?id=fumble) | [Magtord – Blind](0010_Spells.md?id=power-word-blind) | [Ønske](0010_Spells.md?id=wish) |
+| [Forfrysning](0010_Spells.md?id=frostbite) | [Flydende disk](0010_Spells.md?id=floating-disk) | [Hastighed](0010_Spells.md?id=haste) | [Isstorm](0010_Spells.md?id=ice-storm) | [Reinkarnation, arkana](0010_Spells.md?id=reincarnation-arcane) |
+| [Glamour (R)](0010_Spells.md?id=glamour-r) | [Identificer](0010_Spells.md?id=identify) | [Hold person](0010_Spells.md?id=hold-person) | [Usynlighed, større](0010_Spells.md?id=invisibility-greater) |
+| [Lim](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Usynlighed, 10 fod radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorf – anden](0010_Spells.md?id=polymorph-other) |
+| [Antænd (R)](0010_Spells.md?id=ignite-r) | [Usynlighed](0010_Spells.md?id=invisibility) | [Bank (R)](0010_Spells.md?id=knock-r) | [Polymorf – sig selv](0010_Spells.md?id=polymorph-self) |
+| [Magiske tricks](0010_Spells.md?id=magic-tricks) | [Kend sprog (R)](0010_Spells.md?id=know-languages-r) | [Kend justering (R)](0010_Spells.md?id=know-alignment-r) | [Magtord – Stun](0010_Spells.md?id=power-word-stun) |
+| [Styrke](0010_Spells.md?id=might) | [Leviter](0010_Spells.md?id=levitate) | [Lynstråle](0010_Spells.md?id=lightning-bolt) | [Fjern forbandelse (R)](0010_Spells.md?id=remove-curse-r) |
+| [Kæledyr](0010_Spells.md?id=pet) | [Lys](0010_Spells.md?id=light) | [Lokaliser genstand (R)](0010_Spells.md?id=locate-object-r) | [Uovervindelighedssfære, mindre](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
+| [Poler](0010_Spells.md?id=polish) | [Magisk missil](0010_Spells.md?id=magic-missile) | [Magisk lås](0010_Spells.md?id=mage-lock) | [Ildmur/Ildcirkel](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| [Konserver](0010_Spells.md?id=preserve) | [Forudsig vejr](0010_Spells.md?id=predict-weather) | [Magisk mund](0010_Spells.md?id=magic-mouth) | [Troldmandssyn](0010_Spells.md?id=wizard-sight) |
+| [Beskyttelse](0010_Spells.md?id=protection) | [Beskyttelse mod ondskab (R)](0010_Spells.md?id=protection-from-evil-r) | [Spejlbillede](0010_Spells.md?id=mirror-image) |
+| [Læs magi](0010_Spells.md?id=read-magic) | [Sikret portal](0010_Spells.md?id=secure-portal) | [Langsom](0010_Spells.md?id=slow) |
+| [Reparer](0010_Spells.md?id=repair) | [Skjold](0010_Spells.md?id=shield) | [Vandtræk (R)](0010_Spells.md?id=water-breathing-r) |
+| [Oprydning](0010_Spells.md?id=tidy) | [Søvn](0010_Spells.md?id=sleep) |
+| | [Spind](0010_Spells.md?id=web) |
+| | [Edderkoppe-klatring](0010_Spells.md?id=spider-climb) |
 
-_\(R\) indikerer en reversibel besværgelse._
+_(R) indikerer en vendbar besværgelse._
+
 
 ---
-## Skurk (Rogue)
+## Rogue
 
-Skurke (Rogues) er eksperter i subterfuge, specialiseret i stealth, fælder, dirken af låse og andre færdigheder, som samfundet ofte betragter med mistro. Selvom alle tyve er skurke, er ikke alle skurke tyve. Skurke overlever ved deres forstand og bruger deres færdigheder inden for infiltration og stealth for det fælles bedste. Det fælles bedste afhænger dog ofte af, hvilken side af diamanten man står på.
+Rogues er eksperter i snilde, der specialiserer sig i stealth, fælder, dirkning af låse og andre færdigheder, som samfundet ofte betragter med mistro. Men mens alle tyve er rogues, er ikke alle rogues tyve. Rogues overlever ved deres vid og bruger deres færdigheder inden for infiltration og stealth til det fælles bedste. Det fælles bedste afhænger dog ofte af, hvilken side af diamanten man står på.
 
-#### Almindelige arter/kultur
+#### Almindelig art/kultur
 
 Enhver
 
-#### Vigtige egenskaber
+#### Vigtige karakteristikker
 
-DEX, INT og CHA
+FIN, INT og KAR
 
-#### Krav til Alignment/Ed
+#### Krav til justering/ed
 
-- Alignment: Skurke er ikke begrænset af Alignment og kræver ingen Ed, medmindre de er medlem af et tyvegilde.
-- Tyvegilde-ed 30% plus karakterens INT+POW
+- Justering: Rogues er ikke begrænset af Justering og kræver ingen ed, medmindre de er medlem af et tyvelaug.
+- Tyvelaugsed 30% plus karakterens INT+MAG
 
-Se [Kapitel 4: Alignment og Passions](0004_Alignment_and_Passions.md).
+Se [Kapitel 4: Justering og Passioner](0004_Alignment_and_Passions.md).
 
-Udover enhver racemæssig/kulturel Alignment og Passions, skal skurke, der vælger at slutte sig til et tyvegilde, sværge en Ed og følge alle de normale regler fastsat i [Brug af Alignment og Passions](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Derudover skal de overholde følgende stramme regler: udvise loyalitet over for andre medlemmer, overholde alle gilder-regler, handle i gildets bedste interesse (sætte gildets interesser før personlige interesser), holde gildets hemmeligheder sikre, betale gildegebyrer og betale en andel af ethvert job, der er 'sanktioneret' af gildets side.
+Udover enhver race-/kulturel Justering og Passioner, skal rogues, der vælger at slutte sig til et tyvelaug, aflægge en ed og følge alle de normale regler beskrevet i [Brug af Justering og Passioner](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Derudover skal de overholde følgende stramme regler: udvise loyalitet over for andre medlemmer, overholde alle laugsregler, handle i lauggets bedste interesse (prioritere laugget over personlige interesser), holde lauggets hemmeligheder sikre, betale laugskontingent og betale en andel af ethvert job, der er 'sanktioneret' af laugget.
 
-Gebyrer varierer alt efter lokation og gildets størrelse, men omkring 100 guld om året er standard. Udover årlige gebyrer er medlemmer påkrævet at betale en andel af ethvert job, hvor gildets hjælp har været i form af kontakter, tip, kort, generel information og så videre. Den specifikke størrelse af andelen bør bestemmes fra sag til sag, afhængigt af den ydede hjælp, men et gennemsnit på 20%, modificeret op eller ned, er passende. Til gengæld yder gildet midlertidig beskyttelse til medlemmet og deres allierede, såvel som enhver anden service, som spillederen finder passende. Hælere er tilgængelige til at hjælpe med at flytte stjålet merchandise, og gennem disse kontakter kan man forvente, at en tyv får ca. ¼ af varens salgsværdi. De fleste tyvegilder har en tilstedeværelse i de fleste større byer og endda nogle store landsbyer.
+Kontingent varierer efter lokation og laugsstørrelse, men omkring 100 guld om året er standard. Udover det årlige kontingent skal medlemmer betale en andel af alle jobs, hvor laugget har hjulpet i form af kontakter, tip, kort, generel information osv. Den specifikke størrelse af andelen bør fastsættes fra sag til sag, afhængigt af den ydede assistance, men et gennemsnit på 20%, justeret op eller ned, er passende. Til gengæld yder laugget midlertidigt ly til medlemmet og deres allierede, samt enhver anden service, som Spilmesteren finder passende. Hælere er tilgængelige til at hjælpe med at omsætte stjålne varer, og gennem disse kontakter kan en tyv forvente at få omkring ¼ af genstandens salgsværdi. De fleste tyvelaug har en tilstedeværelse i de fleste større byer og endda i nogle store byer.
 
-En skurk kan vælge at slutte sig til et tyvegilde efter karakteroprettelse, hvis spillederen tillader det. Selvom det ikke koster karakteren noget at slutte sig til et tyvegilde under karakteroprettelsen, koster det senere 100 guld pr. nuværende Rang og tager 1 måneds træning og initiation. Efter den afsatte tid tager karakteren tyvegildets titel, der er passende for deres Rang, og tilføjer tyvegildets Ed på 30% plus POW+INT.
+En rogue kan vælge at slutte sig til et tyvelaug efter karakteroprettelse, hvis Spilmesteren tillader det. Mens det ikke koster noget at slutte sig til et tyvelaug under karakteroprettelse, koster det senere 100 Guld pr. nuværende Rang og kræver 1 måneds træning og optagelse. Efter den afsatte tid tager karakteren den tyvelaugstitel, der passer til deres Rang, og tilføjer Tyvelaugseden på 30% plus MAG+INT.
 
 #### Færdigheder
 
-På grund af deres mangfoldige natur besidder skurke flere færdighedsvalg end den normale tildeling. De modtager dog ikke nogen ekstra færdighedspoint.
+På grund af deres alsidige natur besidder rogues flere færdighedsvalg end den standardmæssige tildeling. De modtager dog ikke ekstra Færdighedspoint.
 
-- **Standardfærdigheder:** Atletik, Kampfærdighed (Skurk), Bedrag, Undvigelse, Indsigt, Perception, Stealth
-- **Professionelle færdigheder:** En skurk modtager automatisk Låsedirken og Mekanismer, plus to yderligere færdigheder fra følgende: Akrobatik, Skuespil, Handel, Forklædning, Intimidere, Forførelse, Behændighed (Slight) eller Gadekendskab. Ved karakteroprettelse modtager medlemmer af Tyvegildet også Sprog (Tyvesprog) på +40. Hvis de tager det senere, modtager de ikke +40 bonussen.
+- **Standardfærdigheder:** Atletik, Kamp-færdighed (Rogue), Bedrag, Undvigelse, Indsigt, Perception, Stealth
+- **Professionelle færdigheder:** En rogue modtager automatisk Låsedirkning og Mekanismer, plus to yderligere færdigheder fra følgende: Akrobatik, Skuespil, Handel, Forklædning, Intimidering, Forførelse, Fingerfærdighed eller Streetwise. Ved karakteroprettelse modtager medlemmer af Tyvelauget også Sprog (Tyvesprog) på +40. Hvis de tager det senere, modtager de ikke +40 bonusen.
 
-#### Skurkens rustning og våbenbeherskelse
+#### Rogue pansring og våbenfærdighed
 
-Skurke er dygtige med alle typer rustninger (lette og tunge) og med alle skjolde (undtagen tårnskjolde). De lider dog af straffe til mange skurke-evner, når de bærer tung rustning, eller når de er belastede. Deres Kampfærdighed inkluderer brugen af alle basisvåben, plus håndarmbrøster, langsværd, rapirer og korte sværd.
+Rogues er dygtige med alle typer pansring (let og tung) og med alle skjolde (undtagen tårnskjolde). De lider dog under straffe til mange rogue-evner, når de bærer tung pansring eller er belastede. Deres Kamp-færdighed inkluderer brug af alle basale våben, plus hånd-armbrøster, langsværd, rapierer og kortsværd.
 
 ### Rangstruktur
 
-Alle skurke vurderes efter Rang, som er en vurdering af magt og dygtighed. Du kan vælge enten skurke- eller tyvetitler, afhængigt af hvad der er mest relevant for dit forhold til tyvegildet. Når en specifik grad af mestring er opnået i et begrænset antal Klassefærdigheder, kan skurke øge deres Rang, da de vil have demonstreret det nødvendige niveau af egnethed. Når dette niveau af egnethed er nået, opnås et ekstra Lykkepoint, og nye Evner kan erhverves. Denne information findes i følgende tabel under Avancement. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Scoundrel eller Burglar med de passende Evner noteret nedenfor; ellers starter du som en Rang 0 Scamp eller Cutpurse uden andre Evner.
+Alle rogues bedømmes efter Rang, hvilket er en vurdering af styrke og færdighed. Du kan vælge enten rogue- eller tyvetitler, afhængigt af hvad der er mest relevant for dit forhold til tyvelauget. Når en specifik grad af mesterskab er opnået i et begrænset antal Klassefærdigheder, kan rogues øge deres Rang, da de vil have demonstreret det nødvendige niveau af kunnen. Når dette niveau er nået, opnås et ekstra Heldpoint, og nye Evner kan erhverves. Denne information findes i den følgende tabel under Avancement. Forudsat at du opfylder forudsætningerne, starter din karakter som en Rang 1 Slyngel eller Indbrudstyv med de passende Evner noteret nedenfor; ellers starter du som en Rang 0 Spilopmager eller Lommetyv uden andre Evner.
 
-##### Skurkens Rangtabel
+##### Rogue Rangtabel
 
-| Rang | Titel (Skurk) | Titel (Tyv) | Avancement | Hit Points | Lykkepoint | Handlingspoint |
+| Rang | Titel (Rogue) | Titel (Tyv) | Avancement | Helbredspoint | Heldpoint | Handlingspoint |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Scamp | Cutpurse | - | 0 | +0 | +0 |
-| **1** | Scoundrel | Burglar | Enhver 5 Klassefærdigheder på 40% | 0 | +0 | +0 |
-| **2** | Rogue | Thief | Enhver 5 Klassefærdigheder på 70% | +1 | +1 | +1 |
-| **3** | Master Rogue | Master Thief | Enhver 4 Klassefærdigheder på 90% | +1 | +2 | +1 |
-| **4** | Grand Master Rogue | Grand Master Thief | Enhver 3 Klassefærdigheder på 110% | +2 | +3 | +2 |
-| **5** | Legendary Rogue | Legendary Thief | Enhver 2 Klassefærdigheder på 130% | +2 | +4 | +2 |
+| **0** | Spilopmager | Lommetyv | - | 0 | +0 | +0 |
+| **1** | Slyngel | Indbrudstyv | Enhver 5 Klassefærdigheder på 40% | 0 | +0 | +0 |
+| **2** | Rogue | Tyv | Enhver 5 Klassefærdigheder på 70% | +1 | +1 | +1 |
+| **3** | Mesterrogue | Mestertyv | Enhver 4 Klassefærdigheder på 90% | +1 | +2 | +1 |
+| **4** | Stormesterrogue | Stormestertyv | Enhver 3 Klassefærdigheder på 110% | +2 | +3 | +2 |
+| **5** | Legendarisk rogue | Legendarisk tyv | Enhver 2 Klassefærdigheder på 130% | +2 | +4 | +2 |
 
-#### Start-evner
+#### Start Evner
 
-Skurken kender alle følgende Evner på Rang 1. Derudover kan du under karakteroprettelse vælge én Rang 1 Evne gratis, forudsat at du opfylder kravene.
+Roguens kender alle følgende Evner på Rang 1. Derudover kan du under karakteroprettelse vælge én Rang 1 Evne gratis, forudsat at du opfylder kravene.
 
-- **Klatre på vægge:** Du er særligt god til at klatre på hvad som helst op til en stejl overflade. Hvis du er ubelastet (færre 'ting' båret end STR) og ikke bærer noget mere restriktivt end let rustning, kan du ignorere 1 sværhedsgrad for dit atletikrul, når du udfører ethvert klatreforsøg. Derudover kan rustningsstraffen til basisbevægelse ved klatring ignoreres.
-- **Skjul i skygger:** Du er ekspert i stealth og har perfektioneret kunsten at gemme sig i skygger. Hvis du kan placere dig selv i et område indhyllet i skygge, er alle Perception-rul for at få øje på dig 1 sværhedsgrad sværere.
-- **Sneak Attack:** Skurken kan forsøge at neutralisere et offer fra en fordelagtig position, hvis de er bevæbnet med et lille eller mellemstort nærkampsvåben eller bruger et afstandsvåben inden for 30 fod af offeret. Målet skal generelt være humant i formen og besidde vitale organer. Det har ingen effekt på en drage eller en gelatinøs masse for eksempel. Fordi angriberen typisk er i stand til at slå til uden hindring, får de Choose Location som en bonus-specialeffekt, hvis de lykkes. Lokationen valgt skal dog være målets hoved, bryst eller mave for at få nogen af følgende yderligere fordele.
-  - Angriberen kan ignorere enhver negativ Skadesmodifikator, der normalt gælder, specialeffekterne Bypass Armor og Maximize Damage kræver ikke en kritisk succes.
-  - Det er ikke nødvendigt for skurken at få overrumplet offeret; angrebet skal dog foretages uden for offerets synsfelt. Mange skurke venter derfor på, at en modstander bliver engageret med en allieret, og udnytter derefter distraktionen til at slå til bagfra. At parere eller undvige et Sneak Attack kræver først et Perception-rul, et svært Perception-rul, hvis offeret allerede er distraheret. Hvis det lykkes, er det at forsvare sig mod angrebet, der kommer fra siden, formidabelt, mens det at forsvare sig mod angrebet bagfra er en herkulisk opgave! Sneak Attack må kun bruges på det samme mål mere end én gang, hvis de forbliver distraherede eller på anden måde uvidende om deres angriber.
-- **Subterfuge:** Fordi skurke er mestre i infiltration, er færdighederne Låsedirken, Mekanismer og Behændighed (Slight) én sværhedsgrad lettere.
+- **Klatre på vægge:** Du er særligt god til at klatre på alt op til en stejl overflade. Hvis du er Ubelastet (færre 'Genstande' båret end STY) og ikke bærer noget mere begrænsende end let pansring, kan du ignorere 1 Sværhedsgrad på dit Atletik-slag, når du udfører et klatreforsøg. Derudover kan pansringsstraffen til Basal Bevægelse ved klatring ignoreres.
+- **Skjule sig i skygger:** Du er ekspert i stealth og har perfektioneret kunsten at gemme sig i skygger. Hvis du kan placere dig i et område indhyllet i skygge, er alle Perception-slag for at spotte dig 1 Sværhedsgrad sværere.
+- **Snigangreb (Sneak Attack):** Roguen kan forsøge at neutralisere et offer fra en fordelagtig position, hvis de er bevæbnet med et lille eller mellemstort nærkampsvåben eller bruger et Afstandsvåben inden for 30 fod fra offeret. Målet skal generelt være humanoid af form og besidde vitale organer. Det har ingen effekt på f.eks. en drage eller en geléagtig masse. Fordi angriberen typisk er i stand til at slå til uden hindring, får de Vælg Lokation som en bonus-speciel effekt, hvis de lykkes. Den valgte lokation skal dog være målets hoved, bryst eller mave for at opnå nogen af følgende yderligere fordele.
+  - Angriberen kan ignorere enhver negativ Skadesmodifikator, der normalt gælder; de Specielle Effekter Omgå Pansring og Maksimer Skade kræver ikke en Kritisk Succes.
+  - Det er ikke nødvendigt for roguen at overraske offeret; angrebet skal dog foretages uden for offerets synsfelt. Derfor venter mange rogues på, at en modstander bliver engageret med en allieret, og udnytter derefter distraktionen til at slå til bagfra. At parere eller undvige et Snigangreb kræver først et Perception-slag, et Svært Perception-slag hvis offeret allerede er distraheret. Hvis det lykkes, er det at forsvare sig mod angrebet fra siden Formidabelt, mens det at forsvare sig mod angrebet bagfra er en Herkules-opgave! Snigangreb kan kun bruges på det samme mål mere end én gang, hvis de forbliver distraherede eller på anden måde uvidende om deres angriber.
+- **Subterfuge:** Fordi rogues er mestre i infiltration, er færdighederne Låsedirkning, Mekanismer og Fingerfærdighed én Sværhedsgrad lettere.
 
-#### Rang-baserede Evner
+#### Rangordnede Evner
 
-Som navnet antyder, kan Rang-baserede Evner kun vælges af en karakter af en bestemt Rang eller højere. De fleste har en forudsætningsfærdighed, der skal være på et bestemt niveau eller højere. Du bliver ikke udelukket fra tidligere Rang-baserede Evner, når en ny Rang opnås. Hvis du for eksempel ikke tog en Rang 2 Evne, kan du gå tilbage og tage den på Rang 3 eller endnu senere. Ikke mere end én Rang-baseret Evne må tages pr. session.
+Som navnet antyder, kan Rangordnede Evner kun vælges af en karakter med en bestemt Rang eller højere. De fleste har en Forudsætningsfærdighed, der skal være på et bestemt færdighedsniveau eller højere. Du er ikke låst ude fra tidligere Rangordnede Evner, når en ny Rang er opnået. Hvis du f.eks. undlod at tage en Rang 2 Evne, kan du gå tilbage og tage den på Rang 3 eller senere. Der må ikke tages mere end én Rangordnet Evne pr. session.
 
 #### Rang 1:
 
-For hver udgift af 1 Erfaringsrul kan skurken opnå én af følgende Evner (hver kan kun tages én gang):
+For hver udgift på 1 Erfaringskast kan Roguen opnå én af følgende Evner (hver kan kun tages én gang):
 
-- **Agil:** Kræver Undvigelse eller Akrobatik på 60% eller højere. Forudsat at du er ubelastet (færre 'ting' båret end STR) og ikke bærer noget mere restriktivt end let rustning, kan du udnytte dine fremragende reflekser i kamp. Når du beregner Initiativ, kan du tilføje +4 til totalen.
-- **Artful Dodger:** Kræver Undvigelse på 50% eller højere. Dette talent kræver, at du er ubelastet (færre 'ting' båret end STR) og ikke bærer noget mere restriktivt end let rustning. Du besidder hurtige reflekser og kan bruge Undvigelse-færdigheden til at undvige et nærkampsangreb uden at falde på knæ. Mod et afstandsangreb ender du kun på knæ, hvis du fejler rullene.
-- **God hørelse:** Kræver Perception på 50% eller højere. Din skarpe hørelse gør alle Perception-rul, der vedrører hørelse, én sværhedsgrad lettere.
-- **Skarpt syn:** Kræver Perception på 50% eller højere. Dit skarpe syn gør alle Perception-rul, der vedrører syn, én sværhedsgrad lettere.
-- **Skirmishing:** Kræver Atletik og Kampfærdighed på 50% eller højere. Denne Evne tillader lancering af afstandsangreb i den samme runde, hvor du løber (men ikke under spurt). Angriberens angrebsprocent kan dog ikke overstige hans atletikfærdighed.
-- **Swashbuckling:** Kræver Kampfærdighed på 50% eller højere. Forudsat at karakteren er ubelastet (færre 'ting' båret end STR) og ikke bærer noget mere restriktivt end let rustning, kan de engagere sig i angreb og undvigelser foretaget under spring eller sving ind i (eller ud af) kamp, idet de ignorerer enhver færdighedsbegrænsning placeret på den af atletikfærdigheden.
-- **Ubevæbnet forsvar:** Kræver Artful Dodger-evnen og enten Undvigelse eller Akrobatik på 50% eller højere. Din karakter er ekstremt svær at ramme, når de ikke er hindret af rustning. Når du er ubelastet (færre 'ting' båret end STR) og ikke bærer nogen rustning, er dine Undvigelse-rul én sværhedsgrad lettere.
-- **Vaulting** (kræver akrobatik): Kræver Akrobatik på 50% eller højere. Når ubelastet (færre 'ting' båret end STR), kan du bruge din Akrobatikfærdighed til at stangspringe i henhold til følgende regler. Ved at bruge en stang på mindst kvartstavslængde og bevæge dig med mindst løbe- eller spurthastighed, kan du springe over forhindringer eller op på steder, der ellers er uden for rækkevidde. Dette kræver et vellykket let Akrobatikrul, og hvis det lykkes, vil det give dig mulighed for at springe horisontalt op til dobbelt din egen højde +1d4+6 fod. Et vellykket vertikalt spring vil give dig mulighed for at nå højder svarende til kvartstavens længde (6 til 9 fod); vertikalt spring medfører dog, at du ender på knæ. En karakter uden denne Evne, der besidder Akrobatikfærdigheden, kan forsøge denne bedrift med normal sværhedsgrad. Ved en kritisk succes med et horisontalt spring kan afstanden springet øges med halvdelen. En kritisk succes under vertikalt spring giver dig mulighed for at lande på fødderne.
-- **Våbenpræcision:** Du er dygtig til at bruge små, skjultbare våben, der ikke kræver meget styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STR+DEX i stedet for STR+SIZ, alt efter hvad der genererer et bedre resultat. Skadesmodifikatoren kan ikke overstige dobbelt våbnets normale skadesterning. For eksempel ville en daggert med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4, hvilket gør den til 1d4+1+1d4. Denne Evne dækker køller, daggere, garrotter, knive, korte sværd, main gauche og rapirer. Såvel som ubevæbnede angreb. Pile, slynger, korte buer og spyd falder også under denne kategori.
+- **Agil:** Kræver Undvigelse eller Akrobatik på 60% eller højere. Forudsat at du er Ubelastet (færre 'Genstande' båret end STY) og ikke bærer noget mere begrænsende end let pansring, kan du bruge dine fremragende reflekser i kamp. Ved beregning af Initiativ kan du tilføje +4 til totalen.
+- **Listig undviger:** Kræver Undvigelse på 50% eller højere. Dette talent kræver, at du er Ubelastet (færre 'Genstande' båret end STY) og ikke bærer noget mere begrænsende end let pansring. Du besidder hurtige reflekser og kan bruge Undvigelses-færdigheden til at undvige et nærkampsangreb uden at falde omkuld. Mod et afstandsangreb ender du kun med at ligge ned, hvis du fejler slaget.
+- **God hørelse:** Kræver Perception på 50% eller højere. Din skarpe hørelse gør alle Perception-slag, der vedrører hørelse, én Sværhedsgrad lettere.
+- **Skarpsynet:** Kræver Perception på 50% eller højere. Dit skarpe syn gør alle Perception-slag, der vedrører syn, én Sværhedsgrad lettere.
+- **Skærmydsel:** Kræver Atletik og Kamp-færdighed på 50% eller højere. Denne Evne tillader at affyre afstandsangreb i samme Runde, som du løber (men ikke mens du spurter). Angriberens angrebsprocent kan dog ikke overstige deres Atletik-færdighed.
+- **Fægter-stil:** Kræver Kamp-færdighed på 50% eller højere. Forudsat at karakteren er Ubelastet (færre 'Genstande' båret end STY) og ikke bærer noget mere begrænsende end let pansring, kan de engagere sig i angreb og undvigelser foretaget, mens de hopper eller svinger sig ind i (eller trækker sig ud af) kamp, og ignorere enhver færdighedsgrænse sat af Atletik-færdigheden.
+- **Urustet forsvar:** Kræver Listig undviger-evnen og enten Undvigelse eller Akrobatik på 50% eller højere. Din karakter er ekstremt svær at ramme, når den ikke er hindret af pansring. Når du er Ubelastet (færre 'Genstande' båret end STY) og IKKE bærer pansring, er dine Undvigelses-slag én Sværhedsgrad lettere.
+- **Stangspring** (kræver Akrobatik): Kræver Akrobatik på 50% eller højere. Når du er Ubelastet (færre 'Genstande' båret end STY), kan du bruge din Akrobatik-færdighed til stangspring ifølge følgende regler. Ved at bruge en stang på mindst stavlængde og bevæge dig med mindst løbe- eller spurthastighed, kan du springe over forhindringer eller op på steder, der ellers er uden for rækkevidde. Dette kræver et succesfuldt Nemt Akrobatik-slag, og hvis det lykkes, giver det dig mulighed for at springe horisontalt op til to gange din egen højde +1d4+6 fod. Et succesfuldt vertikalt spring giver dig mulighed for at nå højder svarende til stavens længde (6 til 9 fod); vertikalt spring får dig dog til at lande liggende. En karakter uden denne Evne, der besidder Akrobatik-færdigheden, kan forsøge denne bedrift ved normal sværhedsgrad. Ved en Kritisk Succes med et horisontalt spring kan den sprunge distance øges med halvdelen. En Kritisk Succes under vertikalt spring giver dig mulighed for at lande på fødderne.
+- **Våbenpræcision:** Du er dygtig til at bruge små, skjulte våben, der ikke kræver stor styrke, subtilt og effektivt. Dette giver dig mulighed for at beregne Skadesmodifikator med disse våben baseret på STY+FIN i stedet for STY+STØ, alt efter hvad der giver det bedste resultat. Skadesmodifikatoren kan ikke overstige det dobbelte af våbnets normale skadeterning. For eksempel ville en daggert med en skade på 1d4+1 være begrænset til en Skadesmodifikator på +1d4, hvilket gør den til 1d4+1+1d4. Denne Evne dækker køller, daggert, garotter, knive, kortsværd, main gauche og rapierer. Samt ubevæbnede angreb. Pile, slynger, korte buer og spyd falder også ind under denne kategori.
 
 #### Rang 2:
 
-Skurkens Sneak Attack-evne gør nu +1d2 skade med nærkampsvåben, ingen yderligere skade med afstandsvåben. Derudover kan de tage følgende Evner til en pris af 2 EXP-rul hver (hver kan kun tages én gang):
+Roguens Snigangreb-evne gør nu +1d2 skade med nærkampsvåben, ingen yderligere skade med afstandsvåben. Derudover kan de tage følgende Evner til en pris på 2 ER-kast hver (hver kan kun tages én gang):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks:** Defensiv refleks kræver, at du er ubelastet (færre 'ting' båret end STR), og ikke bærer noget mere restriktivt end let rustning. Én gang pr. kamp kan du gen-rulle et mislykket Parry- eller Evade-rul uden at bruge et Lykkepoint. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
-- **Læs sprog:** Kræver Ed på 70% eller højere og en måneds træning med tyvegildet. Kun medlemmer af et tyvegilde kan tage denne Evne. Du har lært at læse ethvert sprog, selv dem du normalt ikke kender. Dette er ikke en fuldstændig forståelse af alle sprog, men chancen for at opsnappe et ord her eller en sætning der og stykke det sammen. Hovedanvendelsen af denne færdighed er forståelsen af noter, instruktioner og skattekort, men den kan bruges til at forsøge at tyde ethvert ellers ukendt sprog. Læs sprog er en professionel færdighed og starter på basisniveauet INTx2. Spillederen bør rulle dette færdighedstjek og holde resultaterne hemmelige, da du ikke ville vide, om du har oversat teksten korrekt, eller blot tror, du har. En succes vil afsløre et par nyttige stykker information svarende til din (INT/4), mens en kritisk succes vil afsløre adskillige stykker information svarende til din INT/2. Ved et mislykket rul lærer du ingen information overhovedet. Til sidst, ved et fumble, tror du kun, at du kender det korrekte emne, og spillederen kan give dig falsk information.
+- **Karakteristikforøgelse:** Du kan tilføje +1 til en Karakteristik efter eget valg. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser:** Defensive Reflekser kræver, at du er Ubelastet (færre 'Genstande' båret end STY) og ikke bærer noget mere begrænsende end let pansring. Én gang pr. kamp må du slå om et Fejlet Pari- eller Undvigelsesslag uden at bruge et Heldpoint. Du må dog ikke slå om mod det samme angreb mere end én gang, og heller ikke kombinere det med et Heldpoint.
+- **Læs sprog:** Kræver Ed på 70% eller højere og en måneds træning med tyvelauget. Kun medlemmer af et tyvelaug kan tage denne Evne. Du har lært at læse ethvert sprog, selv dem du normalt ikke kender. Dette er ikke en fuldstændig forståelse af alle sprog, men chancen for at opsnappe et ord her eller en sætning der og stykke det sammen. Hovedanvendelsen af denne færdighed er forståelse af noter, instruktioner og skattekort, men kan bruges til at forsøge at tyde ethvert ellers ukendt sprog. Læs Sprog er en Professionel Færdighed og starter på Basalt Niveau af INTx2. Spilmesteren bør rulle dette færdighedstjek og holde resultatet hemmeligt, da du ikke ville vide, om du med succes har oversat teksten, eller bare tror, du har. En Succes afslører et par nyttige stykker information svarende til din (INT/4), mens en Kritisk Succes afslører adskillige stykker information svarende til din INT/2. Ved et mislykket slag lærer du ingen information overhovedet. Endelig, ved en Fumlen, tror du kun, at du kender det korrekte emne, og Spilmesteren kan give dig falsk information.#### Rang 3:
 
-#### Rang 3:
+Rogens evne til Snigangreb giver nu +1d4 skade med nærkampsvåben og +1d2 yderligere skade med afstandsvåben. Derudover kan de vælge følgende evner til en pris af 3 EXP-kast hver (hver evne kan kun vælges én gang):
 
-Skurkens Sneak Attack-evne gør nu +1d4 skade med nærkampsvåben, +1d2 yderligere skade med afstand. Derudover kan de tage følgende Evner til en pris af 3 EXP-rul hver (hver kan kun tages én gang):
-
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks II:** Kræver Defensiv refleks. Som pr. Defensiv refleks, men du kan nu bruge denne Evne to gange i den samme kamp. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
-- **Brug arkanske skriftruller:** Kræver Ed på 90% eller højere og en måneds træning i tyvegildet. Kun medlemmer af et tyvegilde kan tage denne Evne. Denne Evne giver skurken mulighed for at kaste besværgelser fra enhver magiker-skriftrulle uden at have tidligere kastet Read Magic på den. Denne chance svarer til din INT x5%. Fejles dette rul, resulterer det automatisk i et fumble på grund af din manglende træning og forståelse for de magiske kunster. Et fumble vender effekten af besværgelsen eller udløser dem på læseren, alt efter hvad der er mest skadeligt, som bestemt af spillederens forgodtbefindende.
+- **Karakterforøgelse:** Du kan tilføje +1 til en valgfri karakteregenskab. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser II:** Kræver Defensive Reflekser. Som ved Defensive Reflekser, dog kan du nu bruge denne evne to gange i samme kamp. Du må dog ikke genrulle mod det samme angreb mere end én gang, eller kombinere det med et Lykkepoint.
+- **Brug af Arkane Skriftruller:** Kræver Eed på 90% eller højere og en måneds træning i tyvelavet. Kun medlemmer af et tyvelav kan vælge denne evne. Denne evne gør det muligt for rogen at kaste besværgelser fra enhver magiker-skriftrulle uden behov for tidligere at have kastet Læs Magi på den. Denne chance er lig med din INT x5%. Hvis du fejler dette kast, resulterer det automatisk i en Fumble grundet din manglende træning og forståelse for de magiske kunster. En Fumble vender effekten af besværgelsen eller udløser den på læseren, alt efter hvad der er mest skadeligt, bestemt af spillederens forgodtbefindende.
 
 #### Rang 4:
 
-Skurkens Sneak Attack-evne gør nu +1d6 skade med nærkampsvåben, +1d4 skade med afstand. Derudover kan de tage følgende Evner til en pris af 4 EXP-rul hver (hver kan kun tages én gang):
+Rogens evne til Snigangreb giver nu +1d6 skade med nærkampsvåben og +1d4 skade med afstandsvåben. Derudover kan de vælge følgende evner til en pris af 4 EXP-kast hver (hver evne kan kun vælges én gang):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks III:** Kræver Defensiv refleks II. Som pr. Defensiv refleks, men du kan nu bruge denne Evne tre gange i den samme kamp. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
+- **Karakterforøgelse:** Du kan tilføje +1 til en valgfri karakteregenskab. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser III:** Kræver Defensive Reflekser II. Som ved Defensive Reflekser, dog kan du nu bruge denne evne tre gange i samme kamp. Du må dog ikke genrulle mod det samme angreb mere end én gang, eller kombinere det med et Lykkepoint.
 
 #### Rang 5:
 
-Skurkens Sneak Attack-evne gør nu +1d8 skade med nærkampsvåben, +1d6 skade med afstand. Derudover kan de tage følgende Evner til en pris af 5 EXP-rul hver (hver kan kun tages én gang):
+Rogens evne til Snigangreb giver nu +1d8 skade med nærkampsvåben og +1d6 skade med afstandsvåben. Derudover kan de vælge følgende evner til en pris af 5 EXP-kast hver (hver evne kan kun vælges én gang):
 
-- **Egenskabsforøgelse:** Du kan tilføje +1 til en Egenskab efter eget valg. Dette må ikke overstige racemæssige maksimumsgrænser.
-- **Defensiv refleks IV:** Kræver Defensiv refleks III. Som pr. Defensiv refleks, men du kan nu bruge denne Evne fire gange i den samme kamp. Du må dog ikke gen-rulle mod det samme angreb mere end én gang, eller kombinere med et Lykkepoint.
+- **Karakterforøgelse:** Du kan tilføje +1 til en valgfri karakteregenskab. Dette må ikke overstige racens maksimum.
+- **Defensive Reflekser IV:** Kræver Defensive Reflekser III. Som ved Defensive Reflekser, dog kan du nu bruge denne evne fire gange i samme kamp. Du må dog ikke genrulle mod det samme angreb mere end én gang, eller kombinere det med et Lykkepoint.
 
-### Skurkens grundlæggende startudstyr
+### Rogens grundlæggende startudstyr
 
-Hvert linjeelement tæller som 1 'Ting' for belastningsformål, medmindre andet er noteret.
+Hvert linjeelement tæller som 1 'Genstand' i forbindelse med belastning, medmindre andet er angivet.
 
-- Kort sværd
-- Enten 3 daggere eller en slynge og 10 bly-slyngekugler (1½ Ting)
-- Fuldt sæt læderrustning (0 Ting når båret, 7 Ting hvis transporteret)
-- Låsedirke og tyveværktøj
-- Rygsæk (10 tings kapacitet), vandsæk, en uges stirationer, sovepose, lille tom sæk*, flint og tinder**, lanterne, 2 kolber olie (6½ Ting indeholdt)
+- Kortsværd
+- Enten 3 dolke eller en slynge og 10 blykugler til slynge (1½ Genstand)
+- Komplet sæt læderrustning (0 Genstande når båret, 7 Genstande hvis båret i taske)
+- Dirke og tyveværktøj
+- Rygsæk (kapacitet til 10 Genstande), vandsæk, en uges rationer, sovepose, lille tom sæk\*, flint og stål\*\*, lanterne, 2 flasker olie (6½ Genstande indeholdt)
 - Bæltetaske med 4d4 guldstykker
 
-Total ENC 5 Ting
+Samlet belastning 5 Genstande
 
-_* Indhold tæller mod rygsækkens indhold, da dens volumen øges._
+_\* Indhold tæller med i rygsækkens indhold, da dens volumen øges._
 
-_** Tæller som ½ en Ting._
+_\*\* Tæller som ½ Genstand._

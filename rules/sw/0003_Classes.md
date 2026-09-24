@@ -1,181 +1,180 @@
 # Sura ya 3: Madarasa
 
-Kila mhusika wa _Classic Fantasy Imperative_ anaanza mchezo akiwa amepata mafunzo katika Darasa. Darasa hili ni taaluma ambayo mhusika amejihusisha nayo kama sehemu ya mpito kuelekea utu uzima, na inafafanua zaidi ukuzaji wa ujuzi wa mhusika.
+Kila mhusika wa _Classic Fantasy Imperative_ anaanza mchezo akiwa amefunzwa katika Darasa. Darasa hili ndilo taaluma ambayo mhusika ameanza kama sehemu ya mpito kuelekea utu uzima, na linabainisha zaidi ukuzaji wa ujuzi wa mhusika.
 
-Wachezaji wako huru kuchagua Darasa linalofaa kijinsia na kitamaduni kwa mhusika wao, mradi tu Mwalimu wa Mchezo (Games Master) aone kuwa linafaa. Maelezo yanatoa mwongozo fulani kuhusu jamii ambazo kwa kawaida huelekea kwenye Darasa hilo. Mapendekezo haya si ya mwisho na yanaweza kubadilishwa na chaguo la mchezaji, au ili kukidhi mazingira ya kipekee zaidi ya mchezo. Kwa mfano, katika kampeni inayotegemea ulimwengu wa jangwa unaokufa, ambapo mahafali (halflings) ni watu wa kikabila, wanaokula watu, haitakuwa jambo la kushangaza kuwaruhusu kuwa masha (berserkers). Wachezaji hawapaswi kuona vizuizi hivi vya rangi/utamaduni kama sheria kali na zisizobadilika, bali kama sehemu za kuanzia za kawaida. Wachezaji wanapaswa kujisikia huru kupendekeza njia mbadala kwa Mwalimu wa Mchezo wao ambaye, kwa upande wake, anaweza kuruhusu mchanganyiko wa kawaida wa Rangi na Darasa ili kutoshea mazingira ya kampeni isiyo ya kawaida au kuthawabisha hadithi ya usuli ya ubunifu.
+Wachezaji wako huru kuchagua Darasa linalofaa kwa kabila na utamaduni wa mhusika wao, mradi tu Mwalimu wa Mchezo (Games Master) aone linafaa. Maelezo yanatoa mwongozo fulani kuhusu makabila ambayo mara nyingi huchagua Darasa hilo. Mapendekezo haya si ya mwisho na yanaweza kubadilishwa na chaguo la mchezaji, au ili kukidhi mazingira ya mchezo ya kigeni zaidi. Kwa mfano, katika kampeni inayotegemea ulimwengu wa jangwa unaokufa, ambapo nusu-watu (halflings) ni watu wa kikabila, wanaokula watu, haitakuwa jambo la kushangaza kuwaruhusu kuwa mashujaa wa kivita (berserkers). Wachezaji hawapaswi kuona vizuizi hivi vya kabila/utamaduni kama sheria ngumu na za haraka, bali kama sehemu za kuanzia za kawaida. Wachezaji wanapaswa kujisikia huru kupendekeza mbadala kwa Mwalimu wao wa Mchezo ambaye, kwa upande wake, anaweza kuruhusu mchanganyiko usio wa kawaida wa Kabila na Darasa ili kulingana na mazingira ya kampeni ya kipekee zaidi au kuthawabisha hadithi ya usuli ya ubunifu.
 
-#### Muundo wa Cheo cha Darasa
+#### Muundo wa Cheo MVU Darasa
 
-Muundo wa Darasa na Cheo wa _Classic Fantasy Imperative_ unategemea mashirika mbalimbali kama vile Amri (Orders) au Vyama (Guilds). Kwa mfano, Chama cha Wapiganaji (Fighter's Guild), Amri ya Kikirika (Clerical Order), Chama cha Watumiaji wa Uchawi (Magic-User's Guild), na Chama cha Wezi (Thieves' Guild).
+Muundo wa Darasa na Cheo wa _Classic Fantasy Imperative_ unategemea mashirika mbalimbali kama vile Amri au Chama. Kwa mfano, Chama MVU Wapiganaji, Amri ya Makasisi, Chama MVU Watumiaji wa Uchawi, na Chama MVU Wezi.
 
-Cheo hutumika kama zana ya kuongoza maendeleo ya mhusika na miundo mingi ya Darasa imepangwa katika uongozi wa piramidi. Wanachama wa kawaida (Cheo 0) huunda msingi wa piramidi na ndio wanachama wengi zaidi wa Darasa.
+Cheo hutumika kama zana ya kuongoza ukuzaji wa mhusika na miundo mingi ya Darasa imepangwa katika daraja la piramidi. Wanachama wa kawaida (Cheo 0) huunda msingi wa piramidi na ndio wanachama wengi zaidi wa Darasa.
 
-Vyeo vya juu (Cheo 1–5) vinawakilisha wanachama wa kitaaluma wa Darasa, ambao wanafanya kazi wakati wote chini ya amri zake.
+Vyeo vya juu (Cheo 1–5) vinawakilisha wanachama wa kitaalamu wa Darasa, ambao wanafanya kazi muda wote chini ya amri zake.
 
-Idadi hupungua kadiri mtu anavyopanda vyeo hadi watu wachache tu, au hata mmoja tu, wanapochukua nafasi za juu. Kupanda cheo huleta upendeleo zaidi, heshima, elimu, na wakati mwingine, uchawi, au faida nyingine.
+Idadi hupungua kadiri mtu anavyopanda vyeo hadi watu wachache tu, au hata mmoja pekee, wanaposhikilia ngazi za juu. Maendeleo huleta fursa zaidi, heshima, elimu, na wakati mwingine, uchawi, au manufaa mengine.
 
-#### Kupanda katika Cheo
+#### Kupanda Cheo
 
-Wahusika hutafuta kupanda katika vyeo kwa ajili ya kutafuta heshima zaidi, sifa, au wajibu, au kwa sababu tu ya kiu ya maarifa na nguvu.
+Wahusika hutafuta kupanda vyeo kwa ajili ya kutafuta heshima zaidi, sifa, au uwajibikaji, au kwa sababu ya kiu ya maarifa na nguvu.
 
-Kila Darasa linahitaji ujuzi kadhaa wa Darasa katika kiwango fulani kwa ajili ya Kupanda Cheo. Wakati mhusika anaundwa kwa mara ya kwanza, ujuzi huu utaamua Cheo cha awali cha mhusika. Kuwa na ujuzi wowote 5 wa Darasa kwa 40% au zaidi kutamuweka mhusika katika Cheo 1, kwa kuwa inaonyesha kuwa mtu huyo ana uwezo na anastahili Uwezo maalum wa Cheo hicho. Vinginevyo, mhusika huanza katika Cheo 0. Wakati mhusika hatimaye anakuwa Cheo 1, Uwezo wote ambao haujabainishwa kama wa Cheo, unaweza kupatikana bila gharama katika Mistari ya Uzoefu (Experience Rolls), kwani mhusika anaweza kuchukuliwa kuwa amekuwa akifanya mazoezi ya Uwezo huu katika mchezo. Uwezo wa Cheo unaweza kununuliwa kawaida kwa Mistari ya Uzoefu mara tu Cheo 1 kinapofikiwa.
+Kila Darasa linahitaji ujuzi kadhaa wa Darasa katika kiwango fulani kwa ajili ya Maendeleo. Wakati mhusika anaundwa kwa mara ya kwanza, ujuzi huu utaamua Cheo MVU awali MVU mhusika. Kuwa na ujuzi wowote 5 wa Darasa katika 40% au zaidi kutamuweka mhusika katika Cheo MVU 1, kwa kuwa inaonyesha kuwa mtu huyo ana uwezo na anastahili Uwezo maalum wa Cheo hicho. Vinginevyo, mhusika huanza katika Cheo 0. Wakati mhusika anapokuwa Cheo 1 hatimaye, Uwezo wote ambao haujabainishwa kama wa Cheo, unaweza kupatikana bila gharama katika Mizunguko ya Uzoefu (Experience Rolls), kwani mhusika anaweza kudhaniwa kuwa amekuwa akifanya mazoezi ya Uwezo huu katika mchezo. Uwezo wa Cheo unaweza kununuliwa kawaida kwa Mizunguko ya Uzoefu mara tu Cheo 1 kinapofikiwa.
 
-Wakati kiwango zaidi cha umahiri kinapofikiwa, kulingana na Ujuzi wa mhusika, mhusika huongezeka tena katika Cheo. Katika hatua hiyo, Uwezo na ina (spells) zilizokadiriwa katika Cheo hicho zinaweza kujifunza, kwani mhusika ameonyesha kiwango cha lazima cha ufahamu na ujuzi.
+Wakati kiwango kingine MVU umahiri kinapofikiwa, kulingana na Ujuzi wa mhusika, mhusika huongeza Cheo tena. Katika hatua hiyo, Uwezo na ina (spells) zilizokadiriwa katika Cheo hicho zinaweza kujifunza, kwa kuwa mhusika ameonyesha kiwango kinachohitajika MVU ufahamu na ujuzi.
 
-Kwa sehemu kubwa, ikiwa mhusika yuko katika hali nzuri na Viapo vyovyote vinavyohitajika na Darasa na ana idadi inayohitajika ya ujuzi wa Darasa katika kiwango kinachohitajika, mhusika atapanda kiotomatiki hadi Cheo kinachofaa. Kila Cheo juu ya 1 pia huruhusu wahusika kuongeza Nukta nyingine ya Bahati (Luck Point) kwenye jumla yao, ikiwapa nafasi bora ya kuishi katika makabiliano magumu zaidi bila kuhitaji kuongeza kwa njia ya bandia Nukta zao za Afya (Hit Points). Kila Darasa lina jedwali linaloelezea mahitaji ya ujuzi kwa kila Cheo, pamoja na muhtasari wa Vipaji na/au Uwezo wowote wa Cheo unaopatikana. Yafuatayo yanatoa maelezo ya kila kipengele ndani ya majedwali haya:
+Kwa sehemu kubwa, ikiwa mhusika yuko katika nafasi nzuri na Viapo vyovyote vinavyohitajika na Darasa na ana idadi inayohitajika ya ujuzi wa Darasa katika kiwango kinachohitajika, mhusika atapanda kiotomatiki hadi Cheo kinachofaa. Kila Cheo juu ya 1 pia huruhusu wahusika kuongeza Pointi nyingine moja ya Bahati (Luck Point) kwenye jumla yao, ikiwapa nafasi nzuri zaidi ya kunusurika kwenye migongano migumu bila kuhitaji kuongeza Pointi zao za Hit (Hit Points) kwa njia isiyo ya asili. Kila Darasa lina jedwali linaloelezea mahitaji ya ujuzi kwa kila Cheo, pamoja na muhtasari wa Vipaji na/au Uwezo wowote wa Cheo unaopatikana. Yafuatayo yanatoa maelezo ya kila kipengele ndani ya majedwali haya:
 
-- **Cheo:** Uwakilishi wa namba wa Cheo cha mhusika.
+- **Cheo:** Uwakilishi wa nambari wa Cheo MVU mhusika.
 - **Kichwa:** Kichwa alichopewa mhusika wa Cheo kinachofaa.
-- **Maendeleo:** Idadi ya ujuzi wa darasa na kiwango cha ujuzi kinachohitajika ili kupata Cheo kinachohusika. Hizi zinaweza kuchaguliwa kutoka kwa ujuzi wowote wa darasa ulioorodheshwa. Hakuna haja ya kuzichagua kabla. Ujuzi unaopokea bonasi ya +40, kama vile Desturi na Lugha za Asili, hauwezi kamwe kuhesabiwa kuelekea maendeleo.
-- **Ina katika Kumbukumbu (Spells in Memory):** Ikiwezekana, hii inaonyesha ni ina ngapi za kila Cheo ambazo unaweza kuwa umezikariri.
-- **Nukta za Afya (Hit Points):** Vyeo fulani hutoa Nukta ya ziada ya Afya, ambayo huongezwa kwenye maeneo yote. Thamani iliyobainishwa inajumuisha bonasi zote za awali.
-- **Nukta za Bahati (Luck Points):** Kila Cheo baada ya kwanza humpa mhusika Nukta 1 ya ziada ya Bahati. Thamani iliyobainishwa inajumuisha bonasi zote za awali.
-- **Nukta za Kitendo (Action Points):** Vyeo fulani hutoa Nukta ya ziada ya Kitendo. Thamani iliyobainishwa inajumuisha bonasi zote za awali.
+- **Maendeleo:** Idadi ya ujuzi wa darasa na kiwango MVU ujuzi kinachohitajika ili kupata Cheo kinachofaa. Hizi zinaweza kuchaguliwa kutoka kwa ujuzi wowote wa darasa uliorodheshwa. Hakuna haja ya kuvichagua mapema. Ujuzi unaopokea bonasi ya +40, kama vile Desturi na Lugha za Asili, hausaidii kamwe katika maendeleo.
+- **Ina katika Kumbukumbu:** Ikiwa inafaa, hii inaonyesha ni ina ngapi za kila Cheo ambazo unaweza kuwa umezikumbuka.
+- **Pointi za Hit:** Vyeo fulani hutoa Pointi ya Hit ya ziada, ambayo huongezwa kwa maeneo yote. Thamani iliyobainishwa inajumuisha bonasi zote za awali.
+- **Pointi za Bahati:** Kila Cheo baada ya MVU kwanza hutoa mhusika Pointi 1 ya ziada ya Bahati. Thamani iliyobainishwa inajumuisha bonasi zote za awali.
+- **Pointi za Kitendo:** Vyeo fulani hutoa Pointi ya Kitendo ya ziada. Thamani iliyobainishwa inajumuisha bonasi zote za awali.
 
 ---
-## Kasisi (Cleric)
+## Kasisi
 
-Makasisi ni mkono wa kijeshi wa amri ya kidini na wana ujuzi katika kulinda dini yao na wafuasi wake. Katika nyakati za amani ya jamaa, makasisi husafiri nchi wakihubiri neno la pantheoni yao na kutafuta waongofu. Makasisi wamebarikiwa na uwezo wa kutupa ina na miungu ya pantheoni yao na pia ni mabwana wa mapigano dhidi ya wafu (undead), wakiwa na uwezo wa kuwafukuza kwa sala iliyosemwa tu.
+Makasisi ni mkono wa kijeshi wa amri ya kidini na wana ujuzi katika kulinda dini yao na wafuasi wake. Katika nyakati za amani ya kiasi, makasisi husafiri nchini wakihubiri neno la pantheon yao na kutafuta waongofu. Makasisi wamebarikiwa na uwezo wa kutupa ina na miungu ya pantheon yao na pia ni mabingwa wa kupambana dhidi ya wasiokufa (undead), wakimiliki uwezo wa kuwafukuza kwa sala iliyotamkwa tu.
 
-#### Spishi/Utamaduni wa Kawaida
+#### Aina/Utamaduni wa Kawaida
 
 Yoyote.
 
-#### Sifa Muhimu
+#### Tabia Muhimu
 
-STR, INT, POW, na CHA
+NGU, AKI, UWE, na MVU
 
-#### Mahitaji ya Ulinganifu/Kiapo (Alignment/Oath)
+#### Mahitaji ya Ulinganifu/Kiapo
 
-- Ulinganifu (Alignment): Yoyote, kama inavyofaa kwa pantheoni au mungu.
-- Kiapo cha Kikirika (Clerical Oath) 30% pamoja na INT+POW ya mhusika.
+- Ulinganifu: Yoyote, inavyofaa kwa pantheon au mungu.
+- Kiapo MVU Ukasisi 30% pamoja na AKI+UWE ya mhusika.
 
-Tazama [Sura ya 4: Ulinganifu na Matamanio](0004_Alignment_and_Passions.md).
+Angalia [Sura ya 4: Ulinganifu na Mapenzi](0004_Alignment_and_Passions.md).
 
-Mbali na Ulinganifu na Matamanio ya rangi/utamaduni, makasisi wote huapa Kiapo cha Mwenendo kwa amri yao ya kikirika na mungu au pantheoni ya miungu ambayo amri hiyo huiheshimu. Sehemu ya Kiapo kawaida inajumuisha kutoa zaka ya 10% ya utajiri wote kwa amri. Ambapo pantheoni inahusika, Ulinganifu wa mhusika utatumika kusaidia kuamua ni miungu ipi ya pantheoni inayotakiwa itakayoabudiwa. Kwa kawaida, amri itajitolea kwa miungu yote ya pantheoni maalum yenye Matamanio sawa. Kasisi kwa kawaida hujipanga na miungu yote ya pantheoni maalum yenye Ulinganifu ambao si kinyume na wao wenyewe. Kwa mfano, kasisi mwenye Ulinganifu Mwema angehudumia na kuheshimu miungu yote mwema na ya upande wowote ya pantheoni yao. Wanaweza kufanya kazi dhidi ya miungu hiyo ya tabia mbaya, au hata kuitambua na kuiheshimu, lakini hawataitoa ibada yoyote. Kasisi wa Upande wowote wa Kweli (True Neutral) anaweza kuchagua miungu mwema au mwovu pamoja na wale wa tabia ya upande wowote ikiwa inataka, lakini hawezi kuchagua wote wawili.
+
+Mbali na Ulinganifu na Mapenzi ya kikabila/kitamaduni, makasisi wote huapa Kiapo MVU Mwenendo kwa amri yao ya ukasisi na mungu au pantheon ya miungu inayotukuzwa na amri hiyo. Sehemu ya Kiapo kwa kawaida inajumuisha kutoa zaka ya 10% ya utajiri wote kwa amri hiyo. Ambapo pantheon inahusika, Ulinganifu wa mhusika utatumika kusaidia kuamua ni miungu ipi ya pantheon inayotakiwa itaabudiwa. Kwa kawaida, amri itajitoa kwa miungu yote ya pantheon maalum yenye Mapenzi sawa. Kasisi kwa kawaida hujiunga na miungu yote ya pantheon maalum yenye Ulinganifu usio kinyume na wake. Kwa mfano, kasisi mwenye Ulinganifu Mwema angeitumikia na kuiheshimu miungu yote mizuri na ya upande wowote ya pantheon yao. Wanaweza kufanya kazi dhidi ya miungu hiyo ya nia mbaya, au hata kuitambua na kuiheshimu, lakini hawangeitoa ibada yoyote kwao. Kasisi wa Upande Wowote wa Kweli anaweza kuchagua miungu mizuri au mibaya pamoja na ile ya nia ya upande wowote ikiwa inataka lakini asingeweza kuchagua yote miwili.
 
 #### Ujuzi wa Darasa
 
-- **Ujuzi wa Kawaida:** Ujuzi wa Mapigano (Kasisi), Huduma ya Kwanza, Ushawishi, Ufahamu, Eneo, Kuimba, Nguvu ya Mapenzi (Willpower)
-- **Ujuzi wa Kitaaluma:** Kasisi hupokea kiotomatiki Kituo (Channel) na Ibada (pantheoni au mungu maalum), pamoja na ujuzi 3 wa ziada kutoka kwa yafuatayo: Urasimu, Adabu, Utamaduni (yoyote), Uponyaji, Maarifa (Alchemy), Maarifa (Dini), Lugha (yoyote) au Maarifa (yoyote), na Usemi.
+- **Ujuzi wa Kawaida:** Ujuzi wa Kupambana (Kasisi), Msaada wa Kwanza, Ushawishi, Ufahamu, Eneo, Kuimba, Nguvu ya Mapenzi (Willpower)
+- **Ujuzi wa Kitaalamu:** Kasisi hupokea kiotomatiki Kituo (Channel) na Ibada (pantheon maalum au mungu), pamoja na ujuzi 3 wa ziada kutoka kwa yafuatayo: Urasimu, Ustaarabu, Utamaduni (yoyote), Uponyaji, Maarifa (Alikemia), Maarifa (Dini), Lugha (yoyote) au Maarifa (yoyote), na Uzungumzaji.
 
 #### Ujuzi wa Silaha na Silaha za Kasisi
 
-Makasisi wana ujuzi na aina zote za silaha za mwili (nyepesi na nzito), na na ngao zote (isipokuwa ngao za mnara). Kutupa ina kwa Kiungu cha Kikirika hakuzuiliwi na kuvaa silaha za mwili. Ujuzi wao wa Mapigano unajumuisha matumizi ya silaha zote za msingi. Makasisi maalum wanaweza kupata silaha tofauti kama sehemu ya Ujuzi wao wa Mapigano. Hii iko nje ya upeo wa hati hii hata hivyo Walimu wa Mchezo wanaweza kutumia maelezo haya ikiwa wataamua kufanya hivyo.
+Makasisi wana ujuzi na aina zote za silaha za kujikinga (nyepesi na nzito), na na ngao zote (isipokuwa ngao za minara). Utupaji wa ina wa Kiungu wa Ukasisi hauzuiwi na kuvaa silaha za kujikinga. Ujuzi wao wa Kupambana unajumuisha matumizi ya silaha zote za msingi. Makasisi maalum wanaweza kupata silaha tofauti kama sehemu ya Ujuzi wao wa Kupambana. Hili liko nje ya wigo wa hati hii hata hivyo Waelimu wa Mchezo wanaweza kutumia taarifa hii ikiwa wataamua kufanya hivyo.
 
 ### Muundo wa Cheo
 
-Makasisi wote hukadiriwa kwa Cheo, ambacho ni ukadiriaji wa nguvu na ujuzi. Wakati kiwango maalum cha umahiri kinapopatikana katika idadi ndogo ya ujuzi wa Darasa, makasisi wanaweza kuongeza Cheo chao kwani watakuwa wameonyesha kiwango cha lazima cha uwezo. Wakati kiwango hiki cha uwezo kinapofikiwa Nukta ya ziada ya Bahati hupatikana na Uwezo mpya unaweza kupatikana. Maelezo haya yanapatikana kwenye jedwali lifuatalo chini ya Maendeleo. Kwa kudhani unatimiza mahitaji ya awali, mhusika wako anaanza kama Mwanzilishi (Initiate) wa Cheo 1 na Uwezo unaofaa uliotajwa hapa chini; vinginevyo, unaanza kama Mwanachama wa Kawaida (Lay Member) wa Cheo 0 na Uwezo wa kutupa ina za Cheo 0, lakini hakuna Uwezo mwingine.
+Makasisi wote wanakadiriwa kwa Cheo, ambacho ni ukadiriaji wa nguvu na ujuzi. Wakati kiwango maalum MVU umahiri kinapopatikana katika idadi ndogo ya ujuzi wa Darasa, makasisi wanaweza kuongeza Cheo chao kwani watakuwa wameonyesha kiwango kinachohitajika MVU uwezo. Wakati kiwango hiki MVU uwezo kinapofikiwa Pointi ya ziada ya Bahati hupatikana na Uwezo mpya unaweza kupatikana. Taarifa hii inapatikana kwenye jedwali lifuatalo chini ya Maendeleo. Ikizingatiwa unatimiza mahitaji ya awali, mhusika wako anaanza kama Mwanzilishi wa Cheo 1 na Uwezo unaofaa uliotajwa hapa chini; vinginevyo, unaanza kama Mwanachama wa Kawaida wa Cheo 0 na Uwezo wa kutupa ina za Cheo 0, lakini hakuna Uwezo mwingine.
 
-##### Jedwali la Cheo cha Kasisi
+##### Jedwali la Cheo MVU Kasisi
 
-| Cheo | Kichwa | Maendeleo | Ina katika Kumbukumbu | Nukta za Afya | Nukta za Bahati | Nukta za Kitendo |
+| Cheo | Kichwa | Maendeleo | Ina katika Kumbukumbu | Pointi za Hit | Pointi za Bahati | Pointi za Kitendo |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Mwanachama wa Kawaida | - | Cheo 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Mwanzilishi | Ujuzi wowote 5 wa Darasa kwa 40% | Cheo 0: (INT/4) +1<br> Cheo 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Kasisi | Ujuzi wowote 5 wa Darasa kwa 70% | Cheo 0: (INT/4) +2<br> Cheo 1: (INT/4) +2<br> Cheo 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Kuhani au Kuhani Mwanamke | Ujuzi wowote 4 wa Darasa kwa 90% | Cheo 0: (INT/4) +3<br> Cheo 1: (INT/4) +4<br> Cheo 2: (INT/4) +2<br> Cheo 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Kuhani Mkuu au Kuhani Mkuu Mwanamke | Ujuzi wowote 3 wa Darasa kwa 110% | Cheo 0: (INT/4) +4<br> Cheo 1: (INT/4) +6<br> Cheo 2: (INT/4) +4<br> Cheo 3: (INT/4) +2<br> Cheo 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Kuhani Mkuu au Kuhani Mkuu Mwanamke | Ujuzi wowote 2 wa Darasa kwa 130% | Cheo 0: (INT/4) +5<br> Cheo 1: (INT/4) +8<br> Cheo 2: (INT/4) +6<br> Cheo 3: (INT/4) +4<br> Cheo 4: (INT/4) +2<br> Cheo 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Mwanachama wa Kawaida | - | Cheo 0: (AKI/4) | 0 | +0 | +0 |
+| **1** | Mwanzilishi | Ujuzi wowote 5 wa Darasa kwa 40% | Cheo 0: (AKI/4) +1<br> Cheo 1: (AKI/4) | 0 | +0 | +0 |
+| **2** | Kasisi | Ujuzi wowote 5 wa Darasa kwa 70% | Cheo 0: (AKI/4) +2<br> Cheo 1: (AKI/4) +2<br> Cheo 2: (AKI/4) | +1 | +1 | +1 |
+| **3** | Kuhani au Kuhani Mke | Ujuzi wowote 4 wa Darasa kwa 90% | Cheo 0: (AKI/4) +3<br> Cheo 1: (AKI/4) +4<br> Cheo 2: (AKI/4) +2<br> Cheo 3: (AKI/4) | +1 | +2 | +1 |
+| **4** | Kuhani Mkuu au Kuhani Mke Mkuu | Ujuzi wowote 3 wa Darasa kwa 110% | Cheo 0: (AKI/4) +4<br> Cheo 1: (AKI/4) +6<br> Cheo 2: (AKI/4) +4<br> Cheo 3: (AKI/4) +2<br> Cheo 4: (AKI/4) | +2 | +3 | +2 |
+| **5** | Kuhani Mkuu wa Juu au Kuhani Mke Mkuu wa Juu | Ujuzi wowote 2 wa Darasa kwa 130% | Cheo 0: (AKI/4) +5<br> Cheo 1: (AKI/4) +8<br> Cheo 2: (AKI/4) +6<br> Cheo 3: (AKI/4) +4<br> Cheo 4: (AKI/4) +2<br> Cheo 5: (AKI/4) | +2 | +4 | +2 |
 
 #### Uwezo wa Kuanzia
 
-Kasisi anajua Uwezo wote wafuatao katika Cheo 1. Kwa kuongeza, wakati wa uundaji wa mhusika, unaweza kuchagua Uwezo mmoja wa Cheo 1 bila malipo kwa kudhani unatimiza mahitaji yake.
+Kasisi anajua Uwezo wote wafuatao katika Cheo 1. Kwa kuongezea, wakati wa uundaji wa mhusika, unaweza kuchagua Uwezo mmoja wa Cheo 1 bila malipo ukizingatia unatimiza mahitaji yake.
 
-- **Spellcaster:** Makasisi ni mabwana wa uchawi wa Kiungu, wanaoweza kutupa ina za uponyaji, ulinzi, na hifadhi ili kusaidia washirika wao. Hata hivyo, hawakosi ina zenye nguvu za kukera ili kuwapiga wale wanaosimama dhidi ya maadili yao. Tofauti na watumiaji wa uchawi, makasisi hawahitaji kitabu cha ina, wakiwa na ufikiaji wa ina zote za Cheo chao au chini yake. Kutupa ina kunahitaji Vitendo 1 au zaidi vya Kutupa Uchawi vinavyojumuisha sala chache fupi, ishara za mwili na alama yao takatifu, na roll ya Kituo (Channel) iliyofanikiwa. Idadi ya ina za Cheo chao cha sasa ambazo kasisi anaweza kuwa nazo katika kumbukumbu hupatikana kwenye [Jedwali la Cheo cha Kasisi](0003_Classes.md?id=cleric-rank-table) hapo juu chini ya Ina katika Kumbukumbu.
-- **Ina za Kuanzia:** Kasisi huanza na ufikiaji wa ina zote za kasisi za Cheo 0 na nyingine zote za Cheo chao au chini yake. Tazama [Orodha ya Ina za Kasisi](0003_Classes.md?id=cleric-spell-list). Hawazijui kwa kweli, kama vile mtumiaji wa uchawi 'anajua' ina, lakini wanaweza kuombea yoyote kati yao wakati wa kuchagua ni ina ipi ya kukariri. Idadi ya ina ambazo kasisi anaweza kukariri katika kila Cheo hupatikana kwenye Jedwali la Cheo la kasisi hapo juu. Tazama [Kukariri Ina](0009_Magic.md?id=memorizing-spells) kwa maelezo zaidi.
-- **Geuza Wafu (Turn Undead):** Makasisi wanaweza kugeuza wafu, wakiwafukuza kwa njia ya imani pekee. [Kugeuza Wafu](0003_Classes.md?id=turning-undead) imeshughulikiwa kwa kina hapa chini.
+- **Mtupa-ina:** Makasisi ni mabingwa wa uchawi wa Kiungu, wanaoweza kutupa ina za uponyaji, ulinzi, na kinga ili kusaidia washirika wao. Hata hivyo, hawakosi ina zenye nguvu za kukera ili kuwapiga wale wanaosimama dhidi ya maadili yao. Tofauti na watumiaji wa uchawi, makasisi hawahitaji kitabu MVU ina, wakiwa na uwezo wa kufikia ina zote za Cheo chao au chini yake. Utupaji wa ina unahitaji Kitendo 1 au zaidi MVU Kutupa Uchawi kinachojumuisha sala chache fupi, ishara za kimwili na alama yao takatifu, na ufanisi wa jaribio la Kituo. Idadi ya ina za Cheo chao MVU sasa ambazo kasisi anaweza kuwa nazo katika kumbukumbu inapatikana kwenye [Jedwali la Cheo MVU Kasisi](0003_Classes.md?id=cleric-rank-table) hapo juu chini ya Ina katika Kumbukumbu.
+- **Ina za Kuanzia:** Kasisi huanza na uwezo wa kufikia ina zote za kasisi za Cheo 0 na nyingine zote za Cheo chao au chini yake. Angalia [Orodha ya Ina za Kasisi](0003_Classes.md?id=cleric-spell-list). Hawazijui kihalisi, kama mtumiaji wa uchawi anavyojua ina, lakini wanaweza kuombea yoyote kati yao wakati wa kuchagua ni ina zipi za kukumbuka. Idadi ya ina ambazo kasisi anaweza kukumbuka katika kila Cheo inapatikana kwenye Jedwali la Cheo MVU kasisi hapo juu. Angalia [Kukumbuka Ina](0009_Magic.md?id=memorizing-spells) kwa maelezo zaidi.
+- **Kugeuza Wasiokufa:** Makasisi wanaweza kugeuza wasiokufa, wakiwafukuza kwa njia ya imani pekee. [Kugeuza Wasiokufa](0003_Classes.md?id=turning-undead) imeshughulikiwa kwa undani hapa chini.
 
 #### Uwezo wa Cheo
 
-Kama jina linavyopendekeza, Uwezo wa Cheo unachaguliwa tu na mhusika wa Cheo fulani au zaidi. Wengi wana Ujuzi wa Masharti ya Awali ambao lazima uwe katika kiwango fulani cha ujuzi au zaidi. Hufungiwi nje ya Uwezo wa awali wakati Cheo kipya kinapofikiwa. Ikiwa ulishindwa kuchukua Uwezo wa Cheo 2 kwa mfano, unaweza kurudi na kuuchukua katika Cheo 3 au hata baadaye. Hakuna zaidi ya Uwezo mmoja wa Cheo unaoweza kuchukuliwa kwa kila kikao.
+Kama jina linavyodokeza, Uwezo wa Cheo huchaguliwa tu na mhusika wa Cheo fulani au zaidi. Wengi wana Ujuzi wa Sharti ambao lazima uwe katika kiwango fulani MVU ujuzi au zaidi. Hufungiwi nje ya Uwezo wa awali wakati Cheo kipya kinapofikiwa. Ikiwa ulishindwa kuchukua Uwezo wa Cheo 2 kwa mfano, unaweza kurudi na kuuchukua katika Cheo 3 au hata baadaye. Si zaidi ya Uwezo mmoja wa Cheo unaoweza kuchukuliwa kwa kila kipindi.
 
 #### Cheo 1:
 
-Kwa kila matumizi ya 1 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (moja kwa kila kikao, na kila Uwezo unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya Mzunguko 1 wa Uzoefu unaweza kupata mojawapo ya Uwezo wafuatao (moja kwa kila kipindi, na kila Uwezo unaweza kuchukuliwa mara moja tu):
 
-- **Mkusanyiko Wenye Nguvu:** Inahitaji Ibada ya 50% au zaidi. Majaribio ya Nguvu ya Mapenzi (Willpower) ya kudumisha Mkusanyiko kuhusu ina na kutupa ina ni daraja moja rahisi.
-- **Geuza Kubwa:** Inahitaji Nguvu ya Mapenzi ya 60% au zaidi. Nguvu ya Kugeuza inaweza kurudiwa ikiwa inataka, hata hivyo roll mpya lazima itumike.
-- **Pigo Takatifu (Holy Smite):** Inahitaji Ibada na Nguvu ya Mapenzi ya 50% au zaidi. Kasisi anaweza kuongeza Marekebisho ya Uharibifu (Damage Modifier) yao kwa daraja moja dhidi ya wafu, mashetani, na mapepo. Inatumika mara moja kwa siku kwa kila Cheo kilichofikiwa.
-- **Nguvu ya Akili I:** Inahitaji Ibada ya 60% au zaidi. Mara moja kwa siku unaona ni daraja 2 rahisi kufanya ukaguzi wa Nguvu ya Mapenzi wakati wa kupinga aina yoyote ya uchawi unaolenga akili. Hii inajumuisha nguvu kama vile kuvutia, haiba, kutawala, kushikilia, hypnosis, Magic Jar, kumiliki, kulala, maoni, na mlipuko wa akili wa psionic. Haina athari kwa ujuzi kama vile Ushawishi au Kuvutia. Pia unaona ni daraja 1 rahisi kutokuamini udanganyifu na njozi. Katika kesi ya elves, hii haina stack na upinzani wao wa Kulala na Haiba, lakini inapanua uwezo wao wa kupinga athari za ziada.
-- **Usahihi wa Silaha:** Una ujuzi katika kutumia silaha ndogo, zinazoweza kufichwa, ambazo hazihitaji nguvu nyingi, kwa njia ya hila na yenye ufanisi. Hii inakuwezesha kuhesabu Marekebisho ya Uharibifu na silaha hizi kulingana na STR+DEX badala ya STR+SIZ ikiwa itatoa matokeo bora. Marekebisho ya Uharibifu hayawezi kuzidi kete ya kawaida ya uharibifu wa silaha. Kwa mfano, kisu chenye uharibifu wa 1d4+1, kingepunguzwa kwa Marekebisho ya Uharibifu ya +1d4, na kukifanya kiwe 1d4+1+1d4. Hii inashughulikia rungu, visu, garrotes, visu, panga fupi, main gauche, na rapiers, pamoja na mashambulizi ya mikono mitupu. Darts, slings, pinde fupi, na mikuki huanguka katika kategoria hii pia.
+- **Umakini Wenye Nguvu:** Inahitaji Ibada ya 50% au zaidi. Majaribio ya Nguvu ya Mapenzi ili kudumisha Umakini kuhusu ina na utupaji wa ina ni rahisi kwa daraja moja.
+- **Kugeuza Kubwa:** Inahitaji Nguvu ya Mapenzi ya 60% au zaidi. Nguvu ya Kugeuza inaweza kurudiwa ikiwa inataka, hata hivyo majaribio mapya lazima yatumike.
+- **Pigo Takatifu:** Inahitaji Ibada na Nguvu ya Mapenzi ya 50% au zaidi. Kasisi anaweza kuongeza Modifaya yao ya Uharibifu kwa daraja moja dhidi ya wasiokufa, mapepo, na mashetani. Inatumika mara moja kwa siku kwa kila Cheo kilichofikiwa.
+- **Nguvu ya Akili I:** Inahitaji Ibada ya 60% au zaidi. Mara moja kwa siku unaona ni rahisi kwa madaraja 2 kufanya ukaguzi wa Nguvu ya Mapenzi wakati wa kupinga aina yoyote ya uchawi unaolenga akili. Hii inajumuisha nguvu kama vile kuvutia, haiba, kutawala, kushikilia, hipnosisi, Magic Jar, kumiliki, usingizi, pendekezo, na mlipuko wa akili wa psionic. Haina athari kwa ujuzi kama vile Ushawishi au Ushawishi wa Kimapenzi (Seduction). Pia unaona ni rahisi kwa daraja 1 Kutokuamini udanganyifu na njozi. Katika kesi ya elves, hii haina mkusanyiko na upinzani wao kwa Usingizi na Haiba, lakini inapanua uwezo wao wa kupinga athari za ziada.
+- **Usahihi wa Silaha:** Wewe ni stadi katika kutumia silaha ndogo, zinazoweza kufichwa, ambazo hazihitaji nguvu nyingi, kwa ujanja na kwa ufanisi. Hii inakuwezesha kuhesabu Modifaya ya Uharibifu na silaha hizi kulingana na NGU+UST badala ya NGU+UKU ikiwa itatoa matokeo bora. Modifaya ya Uharibifu haiwezi kuzidi kete ya uharibifu ya kawaida ya silaha. Kwa mfano, jambia lenye uharibifu wa 1d4+1, lingepunguzwa kwa Modifaya ya Uharibifu ya +1d4, na kuifanya kuwa 1d4+1+1d4. Hii inashughulikia rungu, majambia, garoti, visu, panga fupi, main gauche, na panga ndefu za kishujaa (rapiers), pamoja na mashambulizi ya kutumia mikono mitupu. Vishale, kombeo, pinde fupi, na mikuki pia huangukia katika kategoria hii.
 
 #### Cheo 2:
 
-Kwa kila matumizi ya 2 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya Mizunguko 2 ya Uzoefu unaweza kupata mojawapo ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi I:** Reflexes za Ulinzi zinakuhitaji uwe Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR), umevaa si zaidi ya silaha za mwili nyepesi. Mara moja kwa kila mapambano unaweza kurudia roll ya Kushindwa ya Parry au Evade bila kutumia Nukta ya Bahati.
-- **Geuza ya Ziada:** Inahitaji Ibada na Nguvu ya Mapenzi ya 80% au zaidi. Kasisi anaweza kuongeza maradufu idadi ya mara kati ya mapumziko ambazo wanaweza Kugeuza. Mara mbili katika Cheo 1, mara nne katika Cheo 3, na mara sita katika Cheo 5.
+- **Ongezeko la Tabia:** Unaweza kuongeza +1 kwa Tabia unayochagua. Hii haiwezi kuzidi kiwango MVU juu MVU kikabila.
+- **Reflexes za Kujilinda I:** Reflexes za Kujilinda zinahitaji uwe Hujazwa (Vitu vichache vilivyobeba kuliko NGU), ukiwa umevaa kitu kisichozidi silaha nyepesi. Mara moja kwa kila pambano unaweza kurudia jaribio la Parry au Evade lililofeli bila kutumia Pointi ya Bahati.
+- **Kugeuza kwa Ziada:** Inahitaji Ibada na Nguvu ya Mapenzi ya 80% au zaidi. Kasisi anaweza kugeuza mara mbili idadi ya nyakati kati ya mapumziko ambazo wanaweza Kugeuza. Mara mbili katika Cheo 1, mara nne katika Cheo 3, na mara sita katika Cheo 5.
 - **Nguvu ya Akili II:** Inahitaji Nguvu ya Akili I na Ibada ya 80% au zaidi. Kama ilivyo kwa Nguvu ya Akili I, lakini inatumika mara mbili kwa siku.
-- **Gusa kwa Masafa (Ranged Touch) (X):** Inahitaji Nguvu ya Mapenzi ya 80% au zaidi. Uwezo huu unamruhusu mtupaji kutoa ina yenye Masafa ya "Gusa," Masafa ya futi 30 badala yake. Ina inachukuliwa kuwa daraja moja juu kuhusiana na kukariri na inapaswa kuzingatiwa kama masafa wakati wa kukariri. Kwa mfano, Cure Minor Wounds (Masafa) ingehesabiwa kama ina ya Cheo 2.
+- **Mguso wa Masafa (X):** Inahitaji Nguvu ya Mapenzi ya 80% au zaidi. Uwezo huu unamruhusu mtupaji kutoa ina yenye Masafa ya "Mguso," Masafa ya futi 30 badala yake. Ina inachukuliwa kuwa na Cheo kimoja MVU juu kuhusiana na kukumbuka na inapaswa kuzingatiwa kuwa ya masafa inapokumbukwa. Kwa mfano, Kuponya Majeraha Madogo (Masafa) ingehesabiwa kama ina ya Cheo 2.
 
 #### Cheo 3:
 
-Kwa kila matumizi ya 3 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya Mizunguko 3 ya Uzoefu unaweza kupata mojawapo ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Pigo Takatifu Lililoboreshwa:** Inahitaji Pigo Takatifu, pamoja na Ibada na Nguvu ya Mapenzi ya 90% au zaidi. Marekebisho ya Uharibifu ya Pigo Takatifu sasa yanaongezwa kwa madaraja mawili dhidi ya wafu, mashetani, na mapepo.
+- **Ongezeko la Tabia:** Unaweza kuongeza +1 kwa Tabia unayochagua. Hii haiwezi kuzidi kiwango MVU juu MVU kikabila.
+- **Pigo Takatifu Lililoboreshwa:** Inahitaji Pigo Takatifu, pamoja na Ibada na Nguvu ya Mapenzi ya 90% au zaidi. Modifaya ya Uharibifu ya Pigo Takatifu sasa imeongezwa kwa madaraja mawili dhidi ya wasiokufa, mapepo, na mashetani.
 - **Nguvu ya Akili III:** Inahitaji Nguvu ya Akili II na Ibada ya 100% au zaidi. Kama ilivyo kwa Nguvu ya Akili I, lakini inatumika mara tatu kwa siku.
 
 #### Cheo 4:
 
-Kwa kila matumizi ya 4 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya Mizunguko 4 ya Uzoefu unaweza kupata mojawapo ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi II:** Inahitaji Reflexes za Ulinzi I. Kama ilivyo kwa Reflexes za Ulinzi, hata hivyo sasa unaweza kutumia Uwezo huu mara mbili katika mapambano yale yale. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja.
-- **Nguvu ya Akili IV:** Inahitaji Nguvu ya Akili III na Kiapo au Ibada ya 120% au zaidi. Kama ilivyo kwa Nguvu ya Akili I, lakini inatumika mara nne kwa siku.
+- **Ongezeko la Tabia:** Unaweza kuongeza +1 kwa Tabia unayochagua. Hii haiwezi kuzidi kiwango MVU juu MVU kikabila.
+- **Reflexes za Kujilinda II:** Inahitaji Reflexes za Kujilinda I. Kama ilivyo kwa Reflexes za Kujilinda, hata hivyo sasa unaweza kutumia Uwezo huu mara mbili katika pambano hilohilo. Hata hivyo, huwezi kurudia dhidi ya shambulio lilelile zaidi ya mara moja.
+- **Nguvu ya Akili IV:** Inahitaji Nguvu ya Akili III na Kiapo au Ibada ya 120% au zaidi. Kama ilivyo kwa Nguvu ya Akili I, lakini inatumika mara nne kwa siku.#### Cheo MVU 5:
 
-#### Cheo 5:
+Kwa kila matumizi ya 5 ya Zindua Uzoefu (Experience Rolls) unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja pekee):
 
-Kwa kila matumizi ya 5 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
-
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Pigo Takatifu Kubwa:** Inahitaji Pigo Takatifu Lililoboreshwa, pamoja na Ibada na Nguvu ya Mapenzi ya 130% au zaidi. Marekebisho ya Uharibifu ya Pigo Takatifu sasa yanaongezwa kwa madaraja manne dhidi ya wafu, mashetani, na mapepo!
-- **Nguvu ya Akili V:** Inahitaji Nguvu ya Akili IV na Kiapo au Ibada ya 140% au zaidi. Kama ilivyo kwa Nguvu ya Akili I, lakini inatumika mara tano kwa siku.
+- **Ongezeko la Sifa (Characteristic Increase):** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Pigo Takatifu Kuu (Greater Holy Smite):** Inahitaji Pigo Takatifu Lililoboreshwa (Improved Holy Smite), pamoja na Uaminifu na UWE wa 130% au zaidi. Kirekebishaji Uharibifu (Damage Modifier) MVU Pigo Takatifu sasa kinaongezeka kwa viwango vinne dhidi ya viumbe wasiokufa (undead), pepo, na mashetani!
+- **Nguvu ya Akili V (Mental Strength V):** Inahitaji Nguvu ya Akili IV na Kiapo au Uaminifu wa 140% au zaidi. Kama ilivyo katika Nguvu ya Akili I, lakini inaweza kutumika mara tano kwa siku.
 
 ### Vifaa vya Msingi vya Kuanzia vya Kasisi
 
-Kila kipengee cha mstari kinahesabiwa kama 1 'Kitu' kwa madhumuni ya Uzito isipokuwa ilivyobainishwa vinginevyo.
+Kila bidhaa huhesabiwa kama 'Kitu' 1 kwa madhumuni ya Uzito wa Kubeba (Encumbrance) isipokuwa ilivyoainishwa vinginevyo.
 
 - Rungu (Mace)
-- Ngao ya heater (inahesabiwa kama 2 Vitu)
-- Crossbow nyepesi
-- Quiver yenye bolts 20 za crossbow
-- Seti kamili ya silaha za mwili za scale, 4 Nukta za Silaha (0 Vitu wakati umevaliwa, 7 Vitu ikiwa imebebwa)
+- Ngao ya Heater (huhesabiwa kama Vitu 2)
+- Upinde mwepesi (Light crossbow)
+- Mchi wa mishale yenye mishale 20 ya upinde
+- Seti kamili ya silaha za gamba (scale armor), Alama 4 za Silaha (0 Vitu wakati imevaliwa, 7 Vitu ikiwa imebebwa)
 - Alama takatifu ya mbao ya mungu (½ ya Kitu)
-- Mkoba (uwezo wa Vitu 10); kiriba cha maji, chakula cha safari cha wiki moja, godoro la kulalia, gunia tupu dogo\*, jiwe la kugonganisha moto\*\*, 2 mienge ya saa sita (5½ Vitu vilivyomo)
-- Mfuko wa mkanda wenye vipande 1d4 vya dhahabu
+- Mkoba (uwezo wa Vitu 10); kiriba MVU maji, chakula MVU safari MVU wiki moja, godoro la kulalia, gunia dogo tupu\*, jiwe la kugomeza na cheche\*\*, mienge 2 ya saa sita (Vitu 5½ vikiwa ndani)
+- Mfuko wa kiunoni wenye sarafu 1d4 za dhahabu
 
 Jumla ya ENC Vitu 7½
 
-_\* Yaliyomo yanahesabiwa kuelekea yaliyomo kwenye mkoba kwa kuwa sauti yake imeongezeka._
+_\* Yaliyomo huhesabiwa kuelekea yaliyomo kwenye mkoba kwani ujazo wake huongezeka._
 
-_\*\* Inahesabiwa kama ½ ya Kitu._
+_\*\* Huhesabiwa kama ½ ya Kitu._
 
-### Kugeuza Wafu (Turn Undead)
+### Kugeuza Wasiokufa (Turning Undead)
 
-Makasisi wa Ulinganifu wowote wanaweza kujaribu Kugeuza wafu wowote ndani ya futi 30. Makasisi waovu wanaweza kuchagua kudhibiti wafu badala yake, ikiwa inataka. Unaweza kujaribu Kugeuza Wafu mara moja katika Cheo 1, mara mbili katika Cheo 3, na mara tatu katika Cheo 5. Unarejesha matumizi yote ya Kugeuza baada ya Mapumziko Mafupi ya angalau saa 1.
+Makasisi wa Mpangilio wowote wanaweza kujaribu Kugeuza viumbe wasiokufa (undead) wowote ndani ya futi 30. Makasisi waovu wanaweza kuchagua kudhibiti viumbe wasiokufa badala yake, wakitaka. Unaweza kujaribu Kugeuza Wasiokufa mara moja katika Cheo MVU 1, mara mbili katika Cheo MVU 3, na mara tatu katika Cheo MVU 5. Unarejesha matumizi yote ya Kugeuza baada ya Mapumziko Mafupi ya angalau saa 1.
 
-_Kwa mfano, Alexandra ni kasisi wa Cheo 4. Anaweza kujaribu kugeuza mara mbili wakati wa makabiliano, na akipumzika angalau saa moja baada ya hapo, atarejesha matumizi yote mawili._
+_Kwa mfano, Alexandra ni kasisi wa Cheo MVU 4. Anaweza kujaribu kugeuza mara mbili wakati wa makabiliano, na akipumzika angalau saa moja baada ya hapo, atarejesha matumizi yote mawili._
 
-**Nguvu ya Kugeuza:** Nguvu ya Kugeuza ya kasisi hubadilisha Ukali (Intensity) wa jumla wa wafu ambao wamegeuzwa kwa mafanikio. Hii ni sawa na 1d6+2, +2 kwa kila Cheo cha ziada zaidi ya 1, na inapaswa kuzingatiwa kwenye Karatasi ya Mhusika, kwani mhusika huitumia wakati wowote anapofanikiwa katika jaribio la Kugeuza.
+**Nguvu ya Kugeuza (Turning Power):** Nguvu ya Kugeuza ya kasisi hurekebisha Ukali (Intensity) wa jumla wa wasiokufa waliofanikiwa Kugeuzwa. Hii ni sawa na 1d6+2, +2 kwa kila Cheo MVU ziada zaidi ya 1, na inapaswa kuandikwa kwenye Karatasi ya Mhusika, kwani mhusika huitumia wakati wowote anapofanikiwa katika jaribio la Kugeuza.
 
-_Kwa mfano, katika Cheo 2, Alexandra ana Nguvu ya Kugeuza ya 1d6+4_
+_Kwa mfano, katika Cheo MVU 2, Alexandra ana Nguvu ya Kugeuza ya 1d6+4_
 
-Kujaribu Kugeuza kunahitaji mtihani wa ujuzi wa Kinyume kwa kutumia ujuzi wa Kituo dhidi ya kiumbe husika mwenye Nguvu ya Mapenzi ya juu zaidi ndani ya Eneo la Athari. Kiwango cha mafanikio huamua athari za jaribio.
+Kujaribu Kugeuza kunahitaji mtihani wa ustadi wa Kupingana (Opposed skill test) kwa kutumia ustadi wa Kituo (Channel) dhidi ya kiumbe husika mwenye UWE wa juu zaidi ndani ya Eneo la Athari. Kiwango MVU mafanikio huamua athari za jaribio hilo.
 
-Makasisi waovu wanaweza kuamuru Nguvu yao ya Kugeuza katika Ukali wa wafu. Athari hii inamruhusu kasisi kutoa maagizo kwa wafu lakini haiwafanyi kuwa watii isipokuwa wakipata Mafanikio Muhimu na kuchagua Utumwa - tazama hapa chini. Wale wenye Ukali wa chini zaidi huathiriwa kwanza kila wakati. Hii haina athari kwa Ukali wa 7 au zaidi wa wafu. Kasisi mwovu anaweza kutumia hii kuwaleta wafu wasio na akili waliogeuzwa hapo awali chini ya udhibiti wao tena.
+Makasisi waovu wanaweza kuamuru Nguvu yao ya Kugeuza katika Ukali wa wasiokufa. Athari hii humruhusu kasisi kutoa amri kwa wasiokufa lakini haiwafanyi kuwa watumishi isipokuwa wakipata Mafanikio Muhimu (Critical Success) na kuchagua Utumwa (Enslave) - tazama hapa chini. Wale wenye Ukali wa chini kabisa huathiriwa kwanza. Hii haina athari kwa wasiokufa wa Ukali 7 au zaidi. Kasisi mwovu anaweza kutumia hii kuwaleta wasiokufa wasio na akili waliogeuzwa hapo awali chini ya udhibiti wao tena.
 
-- **Mafanikio Muhimu:** Wafu wenye Ukali mara mbili ya Nguvu yako ya Kugeuza huathiriwa. Ikiwa Cheo chako ni mara mbili ya Ukali (au zaidi) wa kiumbe mfu asiye na akili, unaharibu kabisa yoyote ambayo ungemgeuza kawaida.
-  - Makasisi waovu wanaweza badala yake kuamuru wafu wenye Ukali mara mbili ya Nguvu yao ya Kugeuza kwa Mizunguko 12 (dakika 1). Kwa kuwa wafu kwa kawaida wana mawazo sawa na kasisi mwovu, athari hii inamruhusu mhusika kutoa maagizo kwa wafu. Haiwafanyi kuwa watii, kama ilivyo na Utumwa hapa chini, na wafu wenye akili hawatatupa maisha yao ya kifo bila sababu. Wale wenye Ukali wa chini zaidi huathiriwa kwanza kila wakati. Hii haina athari kwa Ukali wa 7 au zaidi wa wafu. Kasisi mwovu anaweza kutumia hii kuwaleta wafu wasio na akili waliogeuzwa hapo awali chini ya udhibiti wao tena.
-  - Vinginevyo, kasisi mwovu anayepata Mafanikio Muhimu anaweza kutumikisha wafu wenye Ukali wa Nguvu yao ya Kugeuza, akiwatumikisha kwa udhibiti wao. Wafu watumwa ni watii kabisa kwa kasisi hadi udhibiti wao uvunjike kwa namna fulani. Wale wenye Ukali wa chini zaidi hutumikishwa kwanza kila wakati. Hii haina athari kwa Ukali wa 7 au zaidi wa wafu. Kasisi mwovu anaweza kutumia hii kuwaleta wafu waliogeuzwa hapo awali chini ya udhibiti wao tena.
-- **Mafanikio:** Wafu wenye Ukali wa Nguvu yako ya Kugeuza huathiriwa, kuanzia na wale wenye Ukali wa chini zaidi kwanza. Ikiwa Nguvu ya Kugeuza isiyotosha inazungushwa ili kuathiri chochote, basi hakuna kitu kinachogeuzwa wakati wa jaribio hili. Kasisi huwafukuza wale walioathiriwa, ambao lazima waondoke na kukaa angalau futi 20 mbali kwa Mizunguko 12 (Dakika 1). Walioathiriwa hawawezi kushambulia washiriki wowote wa kundi la kasisi wanaobaki ndani ya Eneo la Athari isipokuwa walioathiriwa wanalazimishwa ndani ya futi 10 za kundi. Wale ambao hawawezi kusonga umbali kamili kutokana na eneo la kati hujinyima (roll yoyote ya Shambulio dhidi yao ni daraja moja rahisi la Ugumu). Kukaribia ndani ya futi 10 za walioathiriwa husababisha wafu kushinda kuwa Geuzwa na kutenda kawaida. Mashambulizi ya masafa yasiyo karibu na futi 10 hayavunji athari ya Kugeuza; hata hivyo, mashambulizi kama hayo kwenye mfu mwenye akili yatavunja athari za Kugeuza, ikiruhusu kiumbe huyo kuguswa kawaida. Viumbe wenye akili, mara tu wanapogeuzwa, wanaruhusiwa roll ya Nguvu ya Mapenzi Ngumu kila Mzunguko ili kujaribu kuvunja athari; hata hivyo, viumbe wenye akili wana uwezekano wa kukimbia eneo hilo kwa hiari na kurudi tu wakati wana faida tena. Ikiwa Cheo cha kasisi ni mara mbili ya Ukali (au zaidi) wa kiumbe mfu asiye na akili, kasisi anaharibu kabisa yoyote ambayo angegeuza kawaida.
-  - Kasisi mwovu anaweza kuamuru viumbe wafu wenye Ukali wa Nguvu yao ya Kugeuza, akiwaleta chini ya udhibiti wao. Athari hii inamruhusu kasisi kutoa maagizo kwa wafu. Haiwafanyi kuwa watii, kama ilivyo na Muhimu, na wafu wenye akili hawatatupa maisha yao ya kifo bila sababu. Wale wenye Ukali wa chini zaidi huathiriwa kwanza kila wakati. Hii haina athari kwa Ukali wa 7 au zaidi wa wafu. Kasisi mwovu anaweza kutumia hii kuwaleta wafu wasio na akili waliogeuzwa hapo awali chini ya udhibiti wao tena.
-- **Kushindwa:** Hakuna wafu wanaogeuzwa.
-- **Kukosea (Fumble):** Sio tu kwamba umeshindwa Kugeuza chochote, lakini umevutia umakini wa wafu kadhaa sawa na mara mbili ya Ukali wa Nguvu yako ya Kugeuza. Mashirika haya yanakulenga wewe hasa, huku mashirika ya Ukali wa chini zaidi yakichochewa kwanza.
+- **Mafanikio Muhimu (Critical Success):** Mara mbili ya Nguvu yako ya Kugeuza katika Ukali wa wasiokufa huathiriwa. Ikiwa Cheo chako ni mara mbili ya Ukali (au zaidi) wa kiumbe asiye na akili wa undead, unaharibu kabisa yeyote ambaye kwa kawaida ungekuwa umemgeuza.
+  - Makasisi waovu wanaweza badala yake kuamuru mara mbili ya Nguvu yao ya Kugeuza katika Ukali wa wasiokufa kwa Raundi 12 (dakika 1). Kwa kuwa wasiokufa kwa kawaida huwa na nia sawa na kasisi mwovu, athari hii humruhusu mhusika kutoa amri kwa wasiokufa. Haiwafanyi kuwa watumishi, kama ilivyo katika Utumwa hapo chini, na wasiokufa wenye akili hawatapoteza uhai wao wa pili bila sababu. Wale wenye Ukali wa chini kabisa huathiriwa kwanza. Hii haina athari kwa wasiokufa wa Ukali 7 au zaidi. Kasisi mwovu anaweza kutumia hii kuwaleta wasiokufa wasio na akili waliogeuzwa hapo awali chini ya udhibiti wao tena.
+  - Vinginevyo, kasisi mwovu anayepata Mafanikio Muhimu anaweza Kutumikisha (Enslave) Nguvu yao ya Kugeuza katika Ukali wa wasiokufa, wakiwatumikisha chini ya udhibiti wao. Wasiokufa waliotumikishwa ni watumishi kamili kwa kasisi hadi udhibiti wao uvunjike kwa namna fulani. Wale wenye Ukali wa chini kabisa hutumikishwa kwanza. Hii haina athari kwa wasiokufa wa Ukali 7 au zaidi. Kasisi mwovu anaweza kutumia hii kuwaleta wasiokufa waliogeuzwa hapo awali chini ya udhibiti wao tena.
+- **Mafanikio:** Nguvu yako ya Kugeuza katika Ukali wa wasiokufa huathiriwa, kuanzia na wale wa Ukali wa chini kabisa kwanza. Ikiwa Nguvu ya Kugeuza haitoshi kuathiri chochote, basi hakuna kitu kinachogeuzwa wakati wa jaribio hili. Kasisi huwafukuza wale walioathiriwa, ambao lazima waondoke na kukaa angalau futi 20 mbali kwa Raundi 12 (Dakika 1). Walioathiriwa hawawezi kushambulia washiriki wowote wa kundi la kasisi wanaobaki ndani ya Eneo la Athari isipokuwa walioathiriwa wanalazimishwa ndani ya futi 10 kutoka kwa kundi. Wale ambao hawawezi kusonga umbali kamili kwa sababu ya ardhi iliyo katikati hujikunyata (roll zozote za Kushambulia dhidi yao ni rahisi kwa Kiwango kimoja MVU Ugumu). Kukaribia ndani ya futi 10 kutoka kwa walioathiriwa husababisha wasiokufa kushinda hali ya Kugeuzwa na kutenda kawaida. Mashambulizi ya masafa marefu yasiyo karibu zaidi ya futi 10 hayavunji athari ya Kugeuza; hata hivyo, mashambulizi kama hayo kwa wasiokufa mwenye akili yatavunja athari za Kugeuza, ikiruhusu kiumbe huyo kuitikia kawaida. Viumbe wenye akili, mara tu wanapogeuzwa, wanaruhusiwa kufanya roll ngumu ya UWE kila Raundi kujaribu kuvunja athari; hata hivyo, viumbe wenye akili wana uwezekano mkubwa wa kukimbia eneo hilo kwa hiari na kurudi tu wakati watakapokuwa na faida tena. Ikiwa Cheo MVU kasisi ni mara mbili ya Ukali (au zaidi) wa kiumbe asiye na akili wa undead, kasisi huharibu kabisa yeyote ambaye kwa kawaida angekuwa amemgeuza.
+  - Kasisi mwovu anaweza kuamuru Nguvu yao ya Kugeuza katika Ukali wa viumbe wasiokufa, wakiwaleta chini ya udhibiti wao. Athari hii humruhusu kasisi kutoa amri kwa wasiokufa. Haiwafanyi kuwa watumishi, kama ilivyo na Mafanikio Muhimu, na wasiokufa wenye akili hawatapoteza uhai wao wa pili bila sababu. Wale wenye Ukali wa chini kabisa huathiriwa kwanza. Hii haina athari kwa wasiokufa wa Ukali 7 au zaidi. Kasisi mwovu anaweza kutumia hii kuwaleta wasiokufa wasio na akili waliogeuzwa hapo awali chini ya udhibiti wao tena.
+- **Kushindwa:** Hakuna wasiokufa walio Kugeuzwa.
+- **Kupata shida (Fumble):** Sio tu kwamba umeshindwa Kugeuza chochote, lakini umevutia umakini wa wasiokufa kadhaa sawa na mara mbili ya Nguvu yako ya Kugeuza katika Ukali. Viumbe hawa wanalenga wewe hasa, huku viumbe wa Ukali wa chini kabisa wakichochewa kwanza.
 
-### Orodha ya Ina za Kasisi
+### Orodha ya Tahajia ya Kasisi
 
 | Cheo 0 | Cheo 1 | Cheo 2 | Cheo 3 | Cheo 4 | Cheo 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -196,12 +195,14 @@ Makasisi waovu wanaweza kuamuru Nguvu yao ya Kugeuza katika Ukali wa wafu. Athar
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) inaashiria ina inayoweza kugeuzwa._
+_\(R\) inaashiria tahajia inayoweza kubadilishwa._
+
+
 
 ---
 ## Mpiganaji (Fighter)
 
-Wapiganaji ni wanajeshi wa kitaaluma, mamluki, na mashujaa, na wao ndio wageni wa kawaida katika ulimwengu wa ndoto. Iwe ni kuvunja milango, kutumia panga na shoka kwa ustadi na umahiri, au kujiweka kati ya washiriki wa kundi wasio na mapigano na upinzani, popote unapopata tukio, utampata mpiganaji.
+Wapiganaji ni wanajeshi wa kitaaluma, mamluki, na mashujaa, na ndio wasafiri wa kawaida zaidi katika ulimwengu wa njozi. Iwe ni kuvunja milango, kutumia panga na shoka kwa ustadi na umahiri, au kujiweka kati ya washiriki wa kundi wasio wapiganaji na upinzani, popote unapoona tukio, utampata mpiganaji.
 
 #### Spishi/Utamaduni wa Kawaida
 
@@ -209,277 +210,273 @@ Yoyote.
 
 #### Sifa Muhimu
 
-STR, CON, na DEX
+NGU, UVU, na UST
 
-#### Mahitaji ya Ulinganifu/Kiapo
+#### Mahitaji ya Mpangilio/Kiapo
 
-- Ulinganifu: Wapiganaji hawazuiliwi na Ulinganifu na hawahitaji Kiapo.
+- Mpangilio: Wapiganaji hawazuiliwi na Mpangilio na hawahitaji Kiapo.
 
-Tazama [Sura ya 4: Ulinganifu na Matamanio](0004_Alignment_and_Passions.md).
+Tazama [Sura ya 4: Mpangilio na Matamanio](0004_Alignment_and_Passions.md).
 
-#### Ujuzi wa Darasa
+#### Ustadi wa Darasa
 
-- **Ujuzi wa Kawaida:** Ujuzi wa Riadha, Kuendesha Boti au Kuendesha Farasi, Nguvu (Brawn), Ujuzi wa Mapigano (Mpiganaji)\*, Uvumilivu, Kuepuka (Evade), Bila Silaha\*
-- **Ujuzi wa Kitaaluma:** Ufundi (yoyote), Uhandisi, Kamari, Vitisho, Maarifa (Historia ya Kijeshi), Maarifa (Mkakati na Mbinu), Usemi, Kuokoka au Nenda (Navigate)
+- **Ustadi wa Kawaida:** Riadha, Kuendesha Boti au Kupanda Farasi, Nguvu za Mwili, Ustadi wa Kupambana (Mpiganaji)\*, Uvumilivu, Kukwepa, Bila Silaha\*
+- **Ustadi wa Kitaaluma:** Ufundi (yoyote), Uhandisi, Kamari, Vitisho, Maarifa (Historia ya Jeshi), Maarifa (Mkakati na Mbinu), Uhutubiaji, Kuishi au Urambazaji
 
-_\* Hupokea bonasi ya +5 kutoka kwa Umahiri wa Mapigano_
+_\* Hupokea bonasi ya +5 kutoka kwa Umahiri wa Kupambana_
 
-#### Ujuzi wa Silaha na Silaha za Mpiganaji
+#### Umahiri wa Silaha na Ngao wa Mpiganaji
 
-Wapiganaji wana ujuzi na aina zote za silaha za mwili (nyepesi na nzito), na na ngao zote. Ujuzi wao wa Mapigano unajumuisha matumizi ya silaha zote za msingi na za kijeshi.
+Wapiganaji wana umahiri na aina zote za silaha (nyepesi na nzito), na na ngao zote. Ustadi wao wa Kupambana unajumuisha matumizi ya silaha zote za msingi na za kijeshi.
 
 ### Muundo wa Cheo
 
-Wapiganaji wote hukadiriwa kwa Cheo, ambacho ni ukadiriaji wa nguvu na ujuzi. Wakati kiwango maalum cha umahiri kinapopatikana katika idadi ndogo ya ujuzi wa Darasa, wapiganaji wanaweza kuongeza Cheo chao kwani watakuwa wameonyesha kiwango cha lazima cha uwezo. Wakati kiwango hiki cha uwezo kinapofikiwa, Nukta ya ziada ya Bahati hupatikana, na Uwezo mpya unaweza kupatikana. Maelezo haya yanapatikana kwenye [Jedwali la Cheo cha Mpiganaji](0003_Classes.md?id=fighter-rank-table) chini ya Maendeleo. Kwa kudhani unatimiza mahitaji ya awali, mhusika wako anaanza kama Mpiganaji wa Cheo 1 na Uwezo wa Cheo unaofaa uliotajwa hapa chini; vinginevyo, unaanza kama Mwanafunzi wa Mpiganaji (Warrior Trainee) wa Cheo 0 bila Uwezo wa sasa.
+Wapiganaji wote wanakadiriwa kwa Cheo, ambacho ni kadirio la nguvu na ustadi. Wakati kiwango maalum MVU umahiri kinapopatikana katika idadi ndogo ya ustadi wa Darasa, wapiganaji wanaweza kuongeza Cheo chao kwani watakuwa wameonyesha kiwango kinachohitajika MVU uwezo. Wakati kiwango hiki MVU uwezo kinafikiwa, Pointi ya Bahati ya ziada hupatikana, na Uwezo mpya unaweza kupatikana. Taarifa hii inapatikana kwenye [Jedwali la Cheo MVU Mpiganaji](0003_Classes.md?id=fighter-rank-table) chini ya Maendeleo. Kwa kudhani unatimiza mahitaji ya awali, mhusika wako anaanza kama Mpiganaji wa Cheo MVU 1 na Uwezo husika wa Cheo uliotajwa hapa chini; vinginevyo, unaanza kama Shujaa wa Cheo 0 bila Uwezo wa sasa.
 
-##### Jedwali la Cheo cha Mpiganaji
+##### Jedwali la Cheo MVU Mpiganaji
 
-| Cheo | Kichwa | Maendeleo | Nukta za Afya | Nukta za Bahati | Nukta za Kitendo |
+| Cheo | Kichwa | Maendeleo | Pointi za Afya | Pointi za Bahati | Pointi za Hatua |
 | :-: | :-- | :-- | :-: | :-: | :-: |
-| **0** | Mwanafunzi wa Mpiganaji | - | 0 | +0 | +0 |
-| **1** | Mpiganaji | Ujuzi wowote 5 wa Darasa kwa 40% | 0 | +0 | +0 |
-| **2** | Mpiganaji | Ujuzi wowote 5 wa Darasa kwa 70% | +1 | +1 | +1 |
-| **3** | Shujaa (Hero/Heroine) | Ujuzi wowote 4 wa Darasa kwa 90% | +1 | +2 | +1 |
-| **4** | Bingwa (Champion) | Ujuzi wowote 3 wa Darasa kwa 110% | +2 | +3 | +2 |
-| **5** | Bwana/Bibi (Lord/Lady) | Ujuzi wowote 2 wa Darasa kwa 130% | +2 | +4 | +2 |
+| **0** | Mwanafunzi Shujaa | - | 0 | +0 | +0 |
+| **1** | Shujaa | Ustadi wowote 5 wa Darasa kwa 40% | 0 | +0 | +0 |
+| **2** | Mpiganaji | Ustadi wowote 5 wa Darasa kwa 70% | +1 | +1 | +1 |
+| **3** | Shujaa/Shujaa wa Kike | Ustadi wowote 4 wa Darasa kwa 90% | +1 | +2 | +1 |
+| **4** | Bingwa | Ustadi wowote 3 wa Darasa kwa 110% | +2 | +3 | +2 |
+| **5** | Bwana/Bibi | Ustadi wowote 2 wa Darasa kwa 130% | +2 | +4 | +2 |
 
 #### Uwezo wa Kuanzia
 
-Mpiganaji anajua Uwezo wote wafuatao katika Cheo 1. Kwa kuongeza, wakati wa uundaji wa mhusika, unaweza kuchagua Uwezo mmoja wa Cheo 1 wa Cheo bila malipo kwa kudhani unatimiza mahitaji yake.
+Mpiganaji anajua Uwezo wote ufuatao katika Cheo MVU 1. Kwa kuongezea, wakati wa uundaji wa mhusika, unaweza kuchagua Uwezo mmoja wa Cheo MVU 1 bila malipo kwa kudhani unatimiza mahitaji yake.
 
-- **Umahiri wa Mapigano:** Kuwa mtaalam katika mapigano ya silaha, wapiganaji wanapata +5% nyingine kwa Ujuzi wao wa Mapigano na ujuzi Bila Silaha.
-- **Umaalumu wa Silaha:** Mafunzo yako ya mapigano yamekuruhusu kuchagua silaha moja kwa ajili ya umaalumu, hii inaweza kuwa ngao pia. Umaalumu wa silaha hutoa faida kulingana na silaha maalum iliyochaguliwa na inafupishwa hapa chini.
-  - **Silaha ya Melee:** Unapokea faida zifuatazo za umaalumu kwa silaha moja ya melee:
-    - Ujuzi wako wa Mapigano unaboreshwa kwa +5% wakati wa kutumia silaha yako ya umaalumu. Bonasi hii haitasaidia katika Maendeleo ya Cheo.
-    - Unapata bonasi ya Parry wakati wa kutumia silaha hii. Hii haihitaji matumizi ya Nukta ya Kitendo.
-  - **Silaha ya Masafa (Ranged):** Unapokea faida zifuatazo za umaalumu kwa Silaha moja ya Masafa:
-    - Ikiwa haujashangazwa unaweza kurusha kiotomatiki kwanza (kabla ya kuzungusha kwa Mpango) mwanzoni mwa mapigano, kwa kudhani silaha na risasi vyote viko tayari. Unasema nia yako ya kurusha, unatatua matokeo, na kisha Mpango unazungushwa.
-    - Wakati wa kulenga shabaha ndani ya Masafa ya Karibu ya silaha, kulenga kunahitaji Mzunguko 1 wa kutuliza silaha badala ya Mzunguko kamili, na hufanya shambulio lifuatalo liwe daraja 1 rahisi. Mashambulizi yaliyofanywa zaidi ya Masafa ya Karibu hufuata sheria za kawaida za kulenga kama zinavyopatikana chini ya [Mapigano ya Masafa](0008_Combat.md?id=ranged-combat) katika Sura ya 8. Mizunguko ya ziada ya kulenga haitoi faida zaidi.
-    - Mtaalam anaweza kupunguza muda wa kupakia upya wa Silaha yoyote ya Masafa aliyobobea kwa 1. Silaha yenye muda wa kupakia upya wa 0 inaweza kuwekwa tayari kama Kitendo cha Bure.
+- **Umahiri wa Kupambana (Combat Proficiency):** Kwa kuwa wataalamu wa mapambano ya silaha, wapiganaji hupata +5% zaidi kwenye Ustadi wao wa Kupambana na ustadi wa Bila Silaha.
+- **Umaalumu wa Silaha (Weapon Specialization):** Mafunzo yako ya kupambana yamekuruhusu kuchagua silaha moja kwa ajili ya umaalumu, hii inaweza kuwa ngao pia. Umaalumu wa silaha hutoa faida kulingana na silaha mahususi iliyochaguliwa na inafupishwa hapa chini.
+  - **Silaha ya Karibu (Melee Weapon):** Unapokea faida zifuatazo za umaalumu kwa silaha moja ya karibu:
+    - Ustadi wako wa Kupambana unaboreshwa kwa +5% unapotumia silaha yako ya umaalumu. Bonasi hii haitasaidia katika Maendeleo ya Cheo.
+    - Unapata bonasi ya Kuzuia (Parry) unapokuwa na silaha hii. Hii haihitaji matumizi ya Pointi ya Hatua.
+  - **Silaha ya Masafa (Ranged Weapon):** Unapokea faida zifuatazo za umaalumu kwa Silaha moja ya Masafa:
+    - Ikiwa haujashangazwa unaweza kufyatua risasi kiotomatiki kwanza (kabla ya kurusha kete kwa Ajili ya Initiative) mwanzoni mwa mapambano, kwa kudhani silaha na risasi zote ziko tayari. Unasema nia yako ya kufyatua, kutatua matokeo, na kisha Initiative inarushwa.
+    - Unapolenga shabaha ndani ya Masafa ya Karibu ya silaha, kulenga kunahitaji Raundi 1 ya kutuliza silaha badala ya Raundi kamili, na kufanya shambulio linalofuata kuwa rahisi kwa kiwango 1. Mashambulizi yaliyofanywa zaidi ya Masafa ya Karibu hufuata sheria za kawaida za kulenga kama inavyopatikana chini ya [Mapambano ya Masafa](0008_Combat.md?id=ranged-combat) katika Sura ya 8. Raundi za ziada zinazotumiwa kulenga hazitoi faida zaidi.
+    - Mtaalamu anaweza kupunguza muda wa kupakia upya (reload) wa Silaha yoyote ya Masafa aliyobobea kwa 1. Silaha yenye muda wa kupakia upya wa 0 inaweza kuwa tayari kama Hatua ya Bila Malipo.
   - **Ngao:** Unapokea faida zifuatazo za umaalumu kwa ngao ZOTE:
-    - Ujuzi wako wa Mapigano wakati wa kutumia ngao yoyote unaboreshwa kwa +10%. Bonasi hii ya ujuzi haitasaidia katika Maendeleo ya Cheo.
-    - Ngao zote zinahesabiwa kama kategoria 1 kubwa ya Ukubwa kwa madhumuni ya kuharibu Parry: Kubwa hadi Kubwa Sana, Kubwa Sana hadi Enormous, na Enormous hadi Colossal.
+    - Ustadi wako wa Kupambana unapotumia ngao yoyote unaboreshwa kwa +10%. Bonasi hii ya ustadi haitasaidia katika Maendeleo ya Cheo.
+    - Ngao zote huhesabiwa kama kategoria 1 ya Ukubwa kubwa zaidi kwa madhumuni ya Kuzuia uharibifu: Kubwa hadi kubwa sana, kubwa sana hadi kubwa sana, na kubwa sana hadi kubwa sana.
 
 #### Uwezo wa Cheo
 
-Kama jina linavyopendekeza, Uwezo wa Cheo unachaguliwa tu na mhusika wa Cheo fulani au zaidi. Wengi wana Ujuzi wa Masharti ya Awali ambao lazima uwe katika kiwango fulani cha ujuzi au zaidi. Hufungiwi nje ya Uwezo wa awali wakati Cheo kipya kinapofikiwa. Ikiwa ulishindwa kuchukua Uwezo wa Cheo 2 kwa mfano, unaweza kurudi na kuuchukua katika Cheo 3 au hata baadaye. Hakuna zaidi ya Uwezo mmoja unaoweza kuchukuliwa kwa kila kikao.
+Kama jina linavyopendekeza, Uwezo wa Cheo unachaguliwa tu na mhusika wa Cheo fulani au zaidi. Wengi wana Ustadi wa Mahitaji ya Awali ambao lazima uwe katika kiwango fulani MVU ustadi au zaidi. Hufungiwi nje ya Uwezo wa awali wakati Cheo kipya kinapopatikana. Ikiwa ulishindwa kuchukua Uwezo wa Cheo MVU 2 kwa mfano, unaweza kurudi na kuuchukua katika Cheo MVU 3 au hata baadaye. Hakuna zaidi ya Uwezo mmoja unaoweza kuchukuliwa kwa kila kikao.
 
-#### Cheo 1:
+#### Cheo MVU 1:
 
-Kwa kila matumizi ya 1 ya Mistari ya Uzoefu, unaweza kupata moja ya Uwezo wafuatao (Uwezo mmoja kwa kila kikao, kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya 1 ya Zindua Uzoefu, unaweza kupata moja ya Uwezo ufuatao (Uwezo mmoja kwa kila kikao, kila mmoja unaweza kuchukuliwa mara moja pekee):
 
-- **Pigo la Nguvu (Forceful Strike):** Inahitaji Nguvu (Brawn) na Ujuzi wa Mapigano wa 50% au zaidi. Kwa kupunguza ujuzi wako kwa daraja moja kwenye shambulio lako lijalo la melee, unaweza kuongeza Marekebisho ya Uharibifu kwa madaraja mawili.
-- **Mchubuko Tu (Just a Scratch):** Inahitaji Uvumilivu wa 50% au zaidi. Mara moja kwa siku, baada ya kuchukua mapumziko mafupi ya angalau saa moja na kuangalia majeraha yako, unaweza kurejesha idadi ya Nukta za Afya katika Eneo moja la Hit sawa na Kiwango chako cha Uponyaji. Haina athari kwa Majeraha Makubwa.
-- **Mapigano ya Kupanda (Mounted Combat):** Inahitaji Ujuzi wa Kuendesha wa 50% au zaidi. Umefanya mazoezi ya kupigana kutoka nyuma ya mnyama wa kupanda na unaweza kufaidika na yafuatayo wakati wa kupanda. Ambapo kwa kawaida ujuzi wa mapigano ya wapanda farasi hauwezi kuzidi ujuzi wao wa Kuendesha, masharti haya hayakuhusu wewe. Kwa kuongeza, kufanya shambulio la kupanda hakusababishi adhabu ya ugumu wa hatua moja kupiga. Mwishowe, unaweza kupuuza daraja la kwanza la adhabu la roll yoyote ya Kuendesha inayohitajika wakati wa mapigano. Kumbuka kuwa nomads wa binadamu na wapanda farasi wa elven wanaweza kutumia bonasi hapo juu wakati wa kutumia pinde fupi kutoka nyuma ya mnyama wa kupanda.
-- **Pumzi ya Pili (Second Wind):** Inahitaji Uvumilivu wa 50% au zaidi. Mara moja kwa siku, baada ya kupata nafasi ya kuchukua mapumziko mafupi ya angalau saa moja, unaweza kupona papo hapo hadi viwango 3 vya Uchovu uliopotea juu na zaidi ya yoyote yaliyorejeshwa kawaida.
-- **Skirmishing:** Inahitaji Ujuzi wa Riadha na Ujuzi wa Mapigano wa 50% au zaidi. Uwezo unaruhusu uzinduzi wa shambulio la masafa wakati wa kuchagua Kitendo cha Hustle kukimbia (lakini sio wakati wa kukimbia kwa kasi). Hata hivyo, asilimia ya shambulio la mshambuliaji haiwezi kuzidi ujuzi wake wa Riadha. Shambulio linaweza kufanyika kabla au baada ya hatua.
-- **Usahihi wa Silaha:** Una ujuzi katika kutumia silaha ndogo, zinazoweza kufichwa, ambazo hazihitaji nguvu nyingi, kwa njia ya hila na yenye ufanisi. Hii inakuwezesha kuhesabu Marekebisho ya Uharibifu na silaha hizi kulingana na STR+DEX badala ya STR+SIZ ikiwa itatoa matokeo bora. Marekebisho ya Uharibifu hayawezi kuzidi kete ya kawaida ya uharibifu wa silaha. Kwa mfano, kisu chenye uharibifu wa 1d4+1, kingepunguzwa kwa Marekebisho ya Uharibifu ya +1d4, na kukifanya kiwe 1d4+1+1d4. Uwezo huu unashughulikia rungu, visu, garrotes, visu, panga fupi, main gauche, na rapiers. Pamoja na mashambulizi ya mikono mitupu. Darts, slings, pinde fupi, na mikuki huanguka katika kategoria hii pia.
-- **Umaalumu wa Silaha:** Inahitaji Ujuzi wa Mapigano wa 50% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
+- **Pigo la Nguvu (Forceful Strike):** Inahitaji Nguvu za Mwili na Ustadi wa Kupambana wa 50% au zaidi. Kwa kupunguza ustadi wako kwa kiwango kimoja kwenye shambulio lako la karibu linalofuata, unaweza kuongeza Kirekebishaji Uharibifu wako kwa viwango viwili.
+- **Jeraha dogo (Just a Scratch):** Inahitaji Uvumilivu wa 50% au zaidi. Mara moja kwa siku, baada ya kupumzika kwa muda mfupi wa angalau saa moja na kukagua majeraha yako, unaweza kurejesha idadi ya Pointi za Afya katika Eneo moja la Jeraha sawa na Kiwango chako MVU Uponyaji. Haina athari kwa Majeraha Makubwa.
+- **Mapambano ya Kupanda Farasi (Mounted Combat):** Inahitaji Ustadi wa Kupanda Farasi wa 50% au zaidi. Umezoezwa kupigana kutoka mgongoni mwa mnyama anayepandwa na unaweza kufaidika na yafuatayo unapopanda. Ambapo kwa kawaida ustadi wa kupambana wa wapanda farasi hauwezi kuzidi ustadi wao wa Kupanda, sharti hili halikutumii wewe. Kwa kuongezea, kufanya shambulio la kupanda farasi hakuletei adhabu ya ugumu wa hatua moja kupiga. Mwishowe, unaweza kupuuza kiwango MVU kwanza MVU adhabu MVU roll yoyote ya Kupanda inayohitajika ukiwa vitani. Kumbuka kwamba wahamaji wa kibinadamu na wapanda farasi wa elven wanaweza kutumia bonasi hapo juu wakati wa kutumia upinde mfupi kutoka mgongoni mwa mnyama anayepandwa.
+- **Pumzi ya Pili (Second Wind):** Inahitaji Uvumilivu wa 50% au zaidi. Mara moja kwa siku, baada ya kuwa na nafasi ya kuchukua mapumziko mafupi ya angalau saa moja, unaweza kurejesha papo hapo hadi viwango 3 vya Uchovu uliopotea zaidi na zaidi ya chochote kilichorejeshwa kawaida.
+- **Mapigano ya Skirmish (Skirmishing):** Inahitaji Riadha na Ustadi wa Kupambana wa 50% au zaidi. Uwezo huu unaruhusu uzinduzi wa shambulio la masafa wakati wa kuchagua Hatua ya Hustle kukimbia (lakini sio wakati wa kukimbia kwa kasi). Hata hivyo, asilimia ya shambulio la mshambuliaji haiwezi kuzidi ustadi wake wa Riadha. Shambulio linaweza kufanyika kabla au baada ya harakati.
+- **Umahiri wa Silaha (Weapon Precision):** Wewe ni hodari wa kutumia silaha ndogo, zinazoweza kufichika, ambazo hazihitaji nguvu nyingi, kwa ujanja na kwa ufanisi. Hii inakuruhusu kuhesabu Kirekebishaji Uharibifu na silaha hizi kulingana na NGU+UST badala ya NGU+UKU ikiwa itatoa matokeo bora. Kirekebishaji Uharibifu hakiwezi kuzidi kete ya kawaida ya uharibifu wa silaha. Kwa mfano, jambia lenye uharibifu wa 1d4+1, lingepunguzwa kuwa Kirekebishaji Uharibifu MVU +1d4, na kuifanya 1d4+1+1d4. Hii inashughulikia rungu, majambia, garrotes, visu, panga fupi, main gauche, na rapiers. pamoja na mashambulizi bila silaha. Mishale, slings, pinde fupi, na mikuki huanguka katika kategoria hii pia.
+- **Umaalumu wa Silaha (Weapon Specialization):** Inahitaji Ustadi wa Kupambana wa 50% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
 
-#### Cheo 2:
+#### Cheo MVU 2:
 
-Baada ya kufikia Cheo 2, unaendelea kiotomatiki hadi Mwalimu wa Silaha ikiwa unatimiza mahitaji ya awali.
+Baada ya kufikia Cheo MVU 2, unaendelea moja kwa moja kuwa Mwalimu wa Silaha (Weapon Master) ikiwa unatimiza mahitaji ya awali.
 
-- **Mwalimu wa Silaha** (silaha maalum ya melee au ya Masafa): Inahitaji Umaalumu wa Silaha katika silaha iliyochaguliwa na Ujuzi wa Mapigano wa 70% au zaidi. Wakati unaweza kubobea katika idadi yoyote ya silaha, unaweza kumiliki moja tu. Kwa hivyo, huwezi kuchukua Uwezo huu ikiwa tayari umechukua umahiri wa silaha katika silaha nyingine yoyote. Mabwana wa silaha huongeza maradufu nafasi ya Mafanikio Muhimu ya silaha yao waliyobobea. Kwa kuongeza, silaha ya melee iliyochaguliwa hupata uboreshaji wa hatua 1 kwa Marekebisho ya Uharibifu wakati Silaha ya Masafa inapata bonasi hiyo hiyo dhidi ya shabaha ndani ya Masafa ya Karibu.
+- **Mwalimu wa Silaha** (silaha maalum ya karibu au ya Masafa): Inahitaji Umaalumu wa Silaha katika silaha iliyochaguliwa na Ustadi wa Kupambana wa 70% au zaidi. Wakati unaweza kubobea katika idadi yoyote ya silaha, unaweza kuwa mwalimu wa moja tu. Kwa hivyo, huwezi kuchukua Uwezo huu ikiwa tayari umechukua umaalimu wa silaha katika silaha nyingine yoyote. Wataalamu wa silaha huongeza maradufu nafasi ya Mafanikio Muhimu (Critical) ya silaha yao waliyoibobea. Kwa kuongezea, silaha ya karibu iliyochaguliwa hupata uboreshaji wa hatua 1 kwa Kirekebishaji Uharibifu wakati Silaha ya Masafa hupata bonasi hiyo hiyo dhidi ya shabaha ndani ya Masafa ya Karibu.
 
-Kwa kuongeza, kwa kila matumizi ya 2 ya Mistari ya Uzoefu, unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kuongezea, kwa kila matumizi ya 2 ya Zindua Uzoefu, unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja pekee):
 
-- **Nguvu ya Kijeshi (Brute Strength):** Mara moja kwa siku ujuzi wako wa Nguvu (Brawn) unakuwa daraja moja rahisi kufanya Kitendo kimoja. Unapata hasara ya kiwango kimoja cha Uchovu baada ya hapo.
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Pigo la Kufagia (Sweeping Strike):** Inahitaji Pigo la Nguvu na Ujuzi wa Mapigano wa 70% au zaidi. Pigo la Kufagia hufanywa kwa kutumia roll moja ya shambulio la melee kwa shabaha mbili ndani ya kufikia na katika mstari wako wa kuona. Kila mtetezi lazima atatue athari za shambulio hilo kando na Athari yoyote Maalum iliyowekwa na mshambuliaji inachukuliwa kuwa imetokea wakati huo huo. Mashambulizi hayawezi kufagia zaidi ya kitengo cha kirafiki kilichowekwa kati ya wapinzani wawili. Pigo moja tu la Kufagia linaweza kufanywa kwa kila Mzunguko.
-- **Umaalumu wa Silaha:** Inahitaji Ujuzi wa Mapigano wa 70% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
+- **Nguvu ya Kikatili (Brute Strength):** Mara moja kwa siku ustadi wako wa Nguvu za Mwili unakuwa rahisi kwa kiwango kimoja kutekeleza Hatua moja. Unapata hasara ya kiwango kimoja MVU Uchovu baada ya hapo.
+- **Ongezeko la Sifa (Characteristic Increase):** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Pigo la Kufagia (Sweeping Strike):** Inahitaji Pigo la Nguvu na Ustadi wa Kupambana wa 70% au zaidi. Pigo la Kufagia hufanywa kwa kutumia roll moja ya shambulio la karibu kwa shabaha mbili ndani ya kufikiwa na katika mstari wako wa kuona. Kila mtetezi lazima atatue athari za shambulio hilo kando na Athari zozote Maalum zilizowekwa na mshambuliaji hutibiwa kama zilizotokea wakati huo huo. Mashambulizi hayawezi kufagia kupita kitengo MVU kirafiki kilichowekwa kati ya wapinzani wawili. Pigo moja tu la Kufagia linaweza kufanywa kwa kila Raundi.
+- **Umaalumu wa Silaha (Weapon Specialization):** Inahitaji Ustadi wa Kupambana wa 70% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.#### Daraja la 3:
 
-#### Cheo 3:
+Baada ya kufikia Daraja la 3, unasonga mbele kiotomatiki hadi kuwa High Master ikiwa unakidhi mahitaji ya awali.
 
-Baada ya kufikia Cheo 3, unaendelea kiotomatiki hadi Mwalimu Mkuu ikiwa unatimiza mahitaji ya awali.
+- **High Master:** Inahitaji Umahiri wa Silaha katika silaha iliyochaguliwa na Ustadi wa Kupambana wa 90% au zaidi. Weapon Master sasa anaweza kuwa High Master na kupata manufaa ya ziada kulingana na silaha mahususi iliyochaguliwa na kuhitimishwa kama ifuatavyo:
+  - Mastaa wa silaha za melee wanaweza kufanya riposte baada ya Parry iliyofanikiwa. Riposte ni shambulio la haraka la kufuatilia (Free Action) dhidi ya mpinzani wao kwa kiwango kimoja MVU Ugumu. Wanachukulia silaha yao iliyochaguliwa kuwa kubwa kwa kiwango 1: kutoka Kubwa hadi Kubwa Sana, Kubwa Sana hadi Kubwa mno, na Kubwa mno hadi Kubwa kupita kiasi kwa madhumuni ya kupunguza uharibifu.
+  - Mastaa wa silaha za masafa wanaweza kubadilisha matokeo ya roll ya Hit Location hadi eneo la karibu ikizingatiwa kuwa shabaha iko ndani ya Umbali wa Karibu (Close Range) wa silaha, kulingana na Athari Maalum ya Marksman.
 
-- **Mwalimu Mkuu:** Inahitaji Umahiri wa Silaha katika silaha iliyochaguliwa na Ujuzi wa Mapigano wa 90% au zaidi. Mwalimu wa Silaha sasa anaweza kuwa Mwalimu Mkuu akipata faida za ziada kulingana na silaha maalum iliyochaguliwa na kufupishwa kama ifuatavyo.
-  - Mabwana wa silaha za Melee wanaweza kufanya riposte baada ya Parry iliyofanikiwa. Riposte ni, Kitendo cha Bure cha haraka cha kufuata kwa mpinzani wao katika daraja moja la Ugumu. Wanachukulia silaha yao iliyochaguliwa kama daraja 1 kubwa: Kubwa hadi Kubwa Sana, Kubwa Sana hadi Enormous, na Enormous hadi Colossal kwa madhumuni ya kupotosha uharibifu.
-  - Mabwana wa Masafa wanaweza kuhama matokeo ya roll ya Eneo la Hit hadi eneo la karibu kwa kudhani shabaha iko ndani ya Masafa ya Karibu ya silaha, kulingana na Athari Maalum ya Marksman.
+Kwa kuongezea, kwa kila matumizi ya 3 Experience Rolls, unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu isipokuwa ikiwa imebainishwa vinginevyo):
 
-Kwa kuongeza, kwa kila matumizi ya 3 ya Mistari ya Uzoefu, unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu isipokuwa ilivyobainishwa vinginevyo):
+- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Reflexes za Kujilinda (Defensive Reflexes):** Uwezo huu unahitaji uwe Hujazwa (Ubebe 'Vitu' vichache kuliko NGU), na uvae silaha isiyo na kizuizi kikubwa kuliko silaha nyepesi. Mara moja kwa kila pambano unaweza kurudia roll ya Parry au Evade iliyofeli bila kutumia Luck Point. Hata hivyo, huwezi kurudia dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Luck Point.
+- **Greater Sweeping Strike:** Inahitaji Sweeping Strike na Ustadi wa Kupambana wa 90% au zaidi. Kama ilivyo katika Sweeping Strike, lakini inaweza kufanywa dhidi ya maadui wote walio ndani ya uwezo na katika mstari wa kuona. Mashambulizi hayawezi kupita kitengo MVU kirafiki kilichowekwa kati ya wapinzani wawili. Sweeping Strike moja tu ndiyo inaweza kufanywa kwa kila Mzunguko (Round).
+- **Umaalumu wa Silaha (Weapon Specialization):** Inahitaji Ustadi wa Kupambana wa 90% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi:** Uwezo huu unakuhitaji uwe Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR), umevaa si zaidi ya silaha za mwili nyepesi. Mara moja kwa kila mapambano Unaweza kurudia roll ya Kushindwa ya Parry au Evade bila kutumia Nukta ya Bahati. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
-- **Pigo la Kufagia Kubwa:** Inahitaji Pigo la Kufagia na Ujuzi wa Mapigano wa 90% au zaidi. Kama ilivyo kwa Pigo la Kufagia, lakini inaweza kufanywa dhidi ya maadui wote ndani ya kufikia na katika mstari wa kuona. Mashambulizi hayawezi kufagia zaidi ya kitengo cha kirafiki kilichowekwa kati ya wapinzani wawili. Pigo moja tu la Kufagia linaweza kufanywa kwa kila Mzunguko.
-- **Umaalumu wa Silaha:** Inahitaji Ujuzi wa Mapigano wa 90% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
+#### Daraja la 4:
 
-#### Cheo 4:
+Baada ya kufikia Daraja la 4, unasonga mbele kiotomatiki hadi kuwa Grand Master ikiwa unakidhi mahitaji ya awali.
 
-Baada ya kufikia Cheo 4, unaendelea kiotomatiki hadi Mwalimu Mkuu wa Grand ikiwa unatimiza mahitaji ya awali.
+- **Grand Master:** Inahitaji Weapon High Mastery na Ustadi wa Kupambana wa 110% au zaidi. Grand Master wa silaha mahususi hupata manufaa kulingana na silaha mahususi iliyochaguliwa. Hii imehitimishwa kama ifuatavyo:
+  - Grand Masters wa silaha za melee hupata uboreshaji mwingine wa hatua 1 kwenye Damage Modifier, kwa jumla ya viwango 2 (pamoja na bonasi kutoka kwa Weapon Specialization).
+  - Grand Master wa Silaha ya Masafa anaweza kupunguza muda wa kupakia upya (reload) wa Silaha ya Masafa iliyomahiriwa kwa nukta nyingine zaidi. Silaha yenye muda wa kupakia upya 0 inaweza kutayarishwa kama Free Action.
 
-- **Mwalimu Mkuu wa Grand:** Inahitaji Umahiri wa Juu wa Silaha na Ujuzi wa Mapigano wa 110% au zaidi. Mwalimu Mkuu wa Grand wa silaha maalum hupata faida kulingana na silaha maalum iliyochaguliwa. Hii inafupishwa kama ifuatavyo:
-  - Mabwana wakuu wa Grand wa silaha za Melee hupata uboreshaji mwingine wa hatua 1 kwa Marekebisho ya Uharibifu, kwa jumla ya madaraja 2 (pamoja na bonasi kutoka kwa Umaalumu wa Silaha).
-  - Mwalimu Mkuu wa Grand wa Silaha ya Masafa anaweza kupunguza muda wa kupakia upya wa Silaha ya Masafa aliyobobea kwa hatua nyingine. Silaha yenye muda wa kupakia upya wa 0 inaweza kuwekwa tayari kama Kitendo cha Bure.
+Kwa kuongezea, kwa kila matumizi ya 4 Experience Rolls, unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu isipokuwa ikiwa imebainishwa vinginevyo):
 
-Kwa kuongeza, kwa kila matumizi ya 4 ya Mistari ya Uzoefu, unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu isipokuwa ilivyobainishwa vinginevyo):
+- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Greater Brute Strength:** Kama ilivyo kwa Brute Strength, hata hivyo, unaweza kufanya Uwezo huu mara mbili kwa siku, na matumizi ya kwanza hayasababishi upotevu wa Uchovu (Fatigue). Unapata upotevu wa kiwango kimoja MVU Uchovu baada ya matumizi ya pili.
+- **Umaalumu wa Silaha (Weapon Specialization):** Inahitaji Ustadi wa Kupambana wa 110% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Nguvu ya Kijeshi Kubwa:** Kama ilivyo kwa Nguvu ya Kijeshi, hata hivyo, unaweza kutumia Uwezo huu mara mbili kwa siku, na matumizi ya kwanza hayasababishi hasara ya Uchovu. Unapata hasara ya kiwango kimoja cha Uchovu baada ya matumizi ya pili.
-- **Umaalumu wa Silaha:** Inahitaji Ujuzi wa Mapigano wa 110% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
+#### Daraja la 5:
 
-#### Cheo 5:
+Baada ya kufikia Daraja la 5, unasonga mbele kiotomatiki hadi kuwa Legendary Master ikiwa unakidhi mahitaji ya awali.
 
-Baada ya kufikia Cheo 5, unaendelea kiotomatiki hadi Mwalimu wa Hadithi ikiwa unatimiza mahitaji ya awali.
+- **Legendary Master:** Inahitaji Weapon Grand Mastery na Ustadi wa Kupambana wa 130% au zaidi. Grand Master wa silaha hupata manufaa ya ziada kulingana na silaha mahususi iliyochaguliwa, kama ifuatavyo:
+  - Silaha ya melee ya Legendary Master huchukuliwa kuwa kubwa kwa viwango 2 wakati wa kupiga Parry: Kubwa hadi Kubwa mno, Kubwa sana hadi Kubwa kupita kiasi, na kadhalika.
+  - Mpiga upinde anaweza kuweka mishale miwili na kuifyatua kwa kiwango kimoja MVU ugumu. Anaweza kufyatua mishale 3 kwa viwango viwili vya ugumu. Katika hali yoyote, shabaha lazima iwe ndani ya Umbali wa Karibu (Close Range) wa silaha, na ikiwa anafyatua dhidi ya shabaha nyingi, kila moja lazima iwe ndani ya futi 5 kutoka nyingine.
+  - Mpiga kombeo au mpiga visu anaweza kurusha mawe ya ziada, risasi, au visu kama ilivyo kwa Mpiga Upinde.
+  - Mwalimu wa crossbow anaweza kupunguza muda wa kupakia upya kwa nukta nyingine zaidi. Silaha yenye muda wa kupakia upya 0 inaweza kutayarishwa kama Free Action.
 
-- **Mwalimu wa Hadithi:** Inahitaji Umahiri Mkuu wa Silaha na Ujuzi wa Mapigano wa 130% au zaidi. Mwalimu Mkuu wa Grand wa silaha hupata faida za ziada kulingana na silaha maalum iliyochaguliwa, kama ifuatavyo:
-  - Silaha ya melee ya Mwalimu wa Hadithi inachukuliwa kuwa daraja 2 kubwa wakati wa Parrying: Kubwa hadi Enormous, Kubwa Sana hadi Colossal, na kadhalika.
-  - Mpiga pinde anaweza kuchukua mishale miwili na kuirusha katika daraja moja la ugumu. Anaweza kurusha mishale 3 katika madaraja mawili ya ugumu. Katika hali yoyote ile, shabaha lazima iwe ndani ya Masafa ya Karibu ya silaha, na ikiwa unarusha kwa shabaha nyingi, kila moja lazima iwe ndani ya futi 5 ya nyingine.
-  - Mpiga slinger au mtupaji wa kisu anaweza kurusha mawe ya ziada, risasi, au visu kama ilivyo kwa Mpiga pinde.
-  - Mwalimu wa crossbow anaweza kupunguza muda wa kupakia upya kwa hatua nyingine. Silaha yenye muda wa kupakia upya wa 0 inaweza kuwekwa tayari kama Kitendo cha Bure.
+Kwa kuongezea, kwa kila matumizi ya 5 Experience Rolls, unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu isipokuwa ikiwa imebainishwa vinginevyo):
 
-Kwa kuongeza, kwa kila matumizi ya 5 ya Mistari ya Uzoefu, unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu isipokuwa ilivyobainishwa vinginevyo):
+- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Defensive Reflexes II:** Inahitaji Defensive Reflexes. Kama ilivyo kwa Defensive Reflexes, hata hivyo, sasa unaweza kutumia Uwezo huu mara mbili katika pambano hilohilo. Hata hivyo, huwezi kurudia dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Luck Point.
+- **Umaalumu wa Silaha (Weapon Specialization):** Inahitaji Ustadi wa Kupambana wa 130% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi II:** Inahitaji Reflexes za Ulinzi. Kama ilivyo kwa Reflexes za Ulinzi, hata hivyo sasa unaweza kutumia Uwezo huu mara mbili katika mapambano yale yale. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
-- **Umaalumu wa Silaha:** Inahitaji Ujuzi wa Mapigano wa 130% au zaidi. Unaweza kuchagua Umaalumu mwingine wa Silaha.
+### Vifaa vya Msingi vya Mpiganaji
 
-### Vifaa vya Msingi vya Kuanzia vya Mpiganaji
-
-Kila kipengee cha mstari kinahesabiwa kama 1 'Kitu' kwa madhumuni ya Uzito isipokuwa ilivyobainishwa vinginevyo.
+Kila kipengee huhesabiwa kama 'Kitu' (Thing) 1 kwa madhumuni ya Uzito (Encumbrance) isipokuwa ikiwa imebainishwa vinginevyo.
 
 - Upanga mrefu
-- Ngao ya duara (inahesabiwa kama 2 Vitu)
+- Ngao ya duara (huhesabiwa kama Vitu 2)
 - Upinde mfupi
-- Quiver yenye mishale 20
-- Seti kamili ya silaha za mwili za chain, 5 Nukta za Silaha (0 Vitu wakati umevaliwa, 14 Vitu ikiwa imebebwa)
-- Mkoba (uwezo wa Vitu 10); kiriba cha maji, chakula cha safari cha wiki moja, godoro la kulalia, gunia tupu dogo\*, jiwe la kugonganisha moto\*\*, 2 mienge ya saa sita (5½ Vitu vilivyomo)
-- Mfuko wa mkanda wenye vipande 2d4 vya dhahabu
+- Podi ya mishale 20
+- Seti kamili ya silaha ya mnyororo (chain armor), 5 Armor Points (Vitu 0 wakati wa kuvaa, Vitu 14 ikibebwa)
+- Mkoba (uwezo wa Vitu 10); kiriba MVU maji, posho ya safari ya wiki moja, godoro la kukunja, gunia ndogo tupu\*, jiwe la kugongea moto (flint and tinder)\*\*, mishumaa 2 ya saa sita (Vitu 5½ vilivyomo)
+- Mfuko wa kiunoni wenye sarafu 2d4 za dhahabu
 
 Jumla ya ENC: Vitu 7
 
-_\* Yaliyomo yanahesabiwa kuelekea yaliyomo kwenye mkoba kwa kuwa sauti yake imeongezeka._
 
-_\*\* Inahesabiwa kama ½ ya Kitu._
+_\* Yaliyomo huhesabiwa kuelekea yaliyomo kwenye mkoba kwani ujazo wake huongezeka._
+
+_\*\* Huhesabiwa kama ½ ya Kitu._
 
 ---
 ## Mtumiaji wa Uchawi (Mage)
 
-Watumiaji wa uchawi husoma vitu vya esoteric, wakichimba kupitia makaburi ya zamani yaliyooza kwa ina mpya na zisizoweza kupatikana ili kuongeza kwenye vitabu vyao vya ina. Wanatumia muda wao mwingi wa bure kusoma ina hizi na kujifunza kumiliki nguvu zinazopatikana ndani yao. Wakati wa kuanza wakiwa dhaifu, wachawi wana uwezo wa kuwa wenye nguvu zaidi kati ya Madarasa.
+Watumiaji wa uchawi husoma mambo ya siri, wakichimbua makaburi ya kale yenye vumbi kwa ajili ya tahajia mpya na ngumu kuzipata ili kuziongeza kwenye vitabu vyao vya tahajia. Hutumia muda wao mwingi wa ziada kusoma tahajia hizi na kujifunza kumiliki nguvu zinazopatikana ndani yake. Ingawa ni dhaifu mwanzoni, wamage wana uwezo wa kuwa Darasa lenye nguvu zaidi.
 
-#### Spishi/Utamaduni wa Kawaida
+#### Aina/Utamaduni wa Kawaida
 
-Yoyote, lakini kwa kawaida binadamu wa Kistaarabu na Nomadic, pamoja na gnomes, elves, na nusu-elves. Gnomes wanaokuwa wachawi huelekea kwenye Shule ya Udanganyifu (School of Illusion).
+Yoyote, lakini kwa kawaida binadamu wa Kistaarabu na wa Kuhamahama, pamoja na gnomes, elves, na nusu-elves. Gnomes wanaokuwa wamage huelekea kwenye Shule ya Udanganyifu (Illusion).
 
 #### Sifa Muhimu
 
-DEX, INT, na POW
+UST, AKI, na UWE
 
-#### Mahitaji ya Ulinganifu/Kiapo
+#### Mahitaji ya Uaminifu/Odi
 
-- Ulinganifu: Wachawi hawazuiliwi na Ulinganifu na hawahitaji Kiapo.
+- Uaminifu: Wamage hawazuiliwi na Uaminifu na hawahitaji Odi.
 
-Tazama [Sura ya 4: Ulinganifu na Matamanio](0004_Alignment_and_Passions.md).
+Tazama [Sura ya 4: Uaminifu na Mapenzi](0004_Alignment_and_Passions.md).
 
-#### Ujuzi wa Darasa
+#### Ustadi wa Darasa (Class Skills)
 
-- **Ujuzi wa Kawaida:** Kuepuka (Evade), Huduma ya Kwanza, Ushawishi, Ufahamu, Eneo, Mtazamo, Nguvu ya Mapenzi (Willpower)
-- **Ujuzi wa Kitaaluma:** Mchawi hupokea kiotomatiki Kutupa Uchawi (Arcane Casting) na Maarifa ya Uchawi (Arcane Knowledge), pamoja na ujuzi 3 wa ziada kutoka kwa yafuatayo: Utamaduni (yoyote), Lugha (yoyote), Maarifa (Alchemy), Maarifa (yoyote)
+- **Ustadi wa Kawaida:** Evade, First Aid, Influence, Insight, Locale, Perception, Willpower
+- **Ustadi wa Kitaaluma:** Mage hupokea kiotomatiki Arcane Casting na Arcane Knowledge, pamoja na ustadi 3 wa ziada kutoka kwa zifuatazo: Utamaduni (yoyote), Lugha (yoyote), Lore (Alchemy), Lore (yoyote)
 
-#### Ujuzi wa Silaha na Silaha za Mchawi
+#### Silaha za Mage na Umahiri wa Silaha
 
-Wachawi hawana ujuzi na aina yoyote ya silaha za mwili au ngao, kwani ina za Uchawi zinahitaji ishara sahihi na harakati wakati wa kutupa, ambazo huzuiliwa na kuvaa silaha za mwili. Kwa kawaida hawajafunzwa katika mapigano ya kimwili; kwa hiyo, Ujuzi wa Mapigano wa mchawi unaweza kuendelezwa tu kwa Nukta za Ujuzi wa Bonasi. Inajumuisha matumizi ya visu, darts, slings, quarterstaffs, na crossbows nyepesi, silaha rahisi zinazopatikana kawaida karibu na makazi ya bwana wao au ambazo ni rahisi kiasi kuchukua na kujifunza.
+Wamage hawana umahiri na aina yoyote ya silaha au ngao, kwani tahajia za Arcane zinahitaji ishara sahihi na mienendo wakati wa kutupia, ambayo huzuiwa na uvaaji wa silaha. Kwa kawaida hawafunzwi katika mapigano ya kimwili; kwa hiyo, Ustadi wa Kupambana wa mage unaweza tu kukuzwa kwa Pointi za Ustadi wa Bonasi. Inajumuisha matumizi ya majambia, mishale ya kutupa, kombeo, fimbo, na crossbows nyepesi, silaha rahisi zinazopatikana kawaida karibu na makazi ya bwana wao au ambazo ni rahisi kuchukua na kujifunza.
 
-### Muundo wa Cheo
+### Muundo wa Daraja
 
-Wachawi wote hukadiriwa kwa Cheo, ambacho ni ukadiriaji wa nguvu na ujuzi. Wakati kiwango maalum cha umahiri kinapopatikana katika idadi ndogo ya ujuzi wa Darasa, wachawi wanaweza kuongeza Cheo chao kwani watakuwa wameonyesha kiwango cha lazima cha uwezo. Wakati kiwango hiki cha uwezo kinapofikiwa Nukta ya ziada ya Bahati hupatikana na Uwezo mpya unaweza kupatikana. Maelezo haya yanapatikana hapa chini kwenye [Jedwali la Cheo cha Mchawi](0003_Classes.md?id=mage-rank-table) chini ya Maendeleo. Kwa kudhani unatimiza mahitaji ya awali, mhusika wako anaanza kama Journeyman wa Cheo 1 na Uwezo unaofaa uliotajwa hapa chini; vinginevyo, unaanza kama Mwanafunzi (Apprentice) wa Cheo 0 na Uwezo wa kutupa ina za Cheo 0, na hakuna Uwezo mwingine.
+Wamage wote hupimwa kwa Daraja, ambalo ni kipimo MVU nguvu na ustadi. Wakati kiwango fulani MVU umahiri kinapatikana katika idadi ndogo ya ustadi wa Darasa, wamage wanaweza kuongeza Daraja lao kwani watakuwa wameonyesha kiwango MVU uwezo kinachohitajika. Wakati kiwango hiki MVU uwezo kinapofikiwa, Luck Point ya ziada hupatikana na Uwezo mpya unaweza kupatikana. Taarifa hii inapatikana hapa chini kwenye [Jedwali la Daraja la Mage](0003_Classes.md?id=mage-rank-table) chini ya Maendeleo. Kwa kudhani unakidhi mahitaji ya awali, mhusika wako huanza kama Journeyman wa Daraja la 1 na Uwezo unaofaa uliotajwa hapa chini; vinginevyo, unaanza kama Apprentice wa Daraja la 0 na Uwezo wa kutupia tahajia za Daraja la 0, na huna Uwezo mwingine wowote.
 
-##### Jedwali la Cheo cha Mchawi
+##### Jedwali la Daraja la Mage
 
-| Cheo | Kichwa | Maendeleo | Ina katika Kumbukumbu | Nukta za Afya | Nukta za Bahati | Nukta za Kitendo |
+| Daraja | Kichwa | Maendeleo | Tahajia katika Kumbukumbu | Hit Points | Luck Points | Action Points |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Mwanafunzi | - | Cheo 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Journeyman | Ujuzi wowote 5 wa Darasa kwa 40% | Cheo 0: (INT/4) +1<br> Cheo 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Mchawi | Ujuzi wowote 5 wa Darasa kwa 70% | Cheo 0: (INT/4) +2 <br> Cheo 1: (INT/4) +2 <br> Cheo 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Mchawi Adept | Ujuzi wowote 4 wa Darasa kwa 90% | Cheo 0: (INT/4) +3 <br> Cheo 1: (INT/4) +4 <br> Cheo 2: (INT/4) +2 <br> Cheo 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Mchawi Mkuu (Arch Mage) | Ujuzi wowote 3 wa Darasa kwa 110% | Cheo 0: (INT/4) +4 <br> Cheo 1: (INT/4) +6 <br> Cheo 2: (INT/4) +4 <br> Cheo 3: (INT/4) +2 <br> Cheo 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Mchawi Mkuu wa Grand | Ujuzi wowote 2 wa Darasa kwa 130% | Cheo 0: (INT/4) +5 <br> Cheo 1: (INT/4) +8 <br> Cheo 2: (INT/4) +6 <br> Cheo 3: (INT/4) +4 <br> Cheo 4: (INT/4) +2 <br> Cheo 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Apprentice | - | Daraja la 0: (AKI/4) | 0 | +0 | +0 |
+| **1** | Journeyman | Ustadi wowote 5 wa Darasa kwa 40% | Daraja la 0: (AKI/4) +1<br> Daraja la 1: (AKI/4) | 0 | +0 | +0 |
+| **2** | Mage | Ustadi wowote 5 wa Darasa kwa 70% | Daraja la 0: (AKI/4) +2 <br> Daraja la 1: (AKI/4) +2 <br> Daraja la 2: (AKI/4) | +1 | +1 | +1 |
+| **3** | Adept Mage | Ustadi wowote 4 wa Darasa kwa 90% | Daraja la 0: (AKI/4) +3 <br> Daraja la 1: (AKI/4) +4 <br> Daraja la 2: (AKI/4) +2 <br> Daraja la 3: (AKI/4) | +1 | +2 | +1 |
+| **4** | Arch Mage | Ustadi wowote 3 wa Darasa kwa 110% | Daraja la 0: (AKI/4) +4 <br> Daraja la 1: (AKI/4) +6 <br> Daraja la 2: (AKI/4) +4 <br> Daraja la 3: (AKI/4) +2 <br> Daraja la 4: (AKI/4) | +2 | +3 | +2 |
+| **5** | Grand Arch Mage | Ustadi wowote 2 wa Darasa kwa 130% | Daraja la 0: (AKI/4) +5 <br> Daraja la 1: (AKI/4) +8 <br> Daraja la 2: (AKI/4) +6 <br> Daraja la 3: (AKI/4) +4 <br> Daraja la 4: (AKI/4) +2 <br> Daraja la 5: (AKI/4) | +2 | +4 | +2 |
 
 #### Uwezo wa Kuanzia
 
-Mchawi anajua Uwezo wafuatao katika Cheo 1. Kwa kuongeza, wakati wa uundaji wa mhusika, unaweza kuchagua Uwezo mmoja wa Cheo 1 bila malipo kwa kudhani unatimiza mahitaji yake.
+Mage anajua Uwezo ufuatao katika Daraja la 1. Kwa kuongezea, wakati wa kuunda mhusika, unaweza kuchagua Uwezo mmoja wa Daraja la 1 bila malipo ikizingatiwa kuwa unakidhi mahitaji yake.
 
-- **Spellcaster:** Wakati wachawi wakiwa dhaifu sana mwanzoni mwa taaluma zao, mwisho mwingine wa wigo, wanaweza kutupa ina za kuvutia na zenye nguvu zaidi, wanaoweza kuchoma jeshi, na kuangusha majumba bila adhabu. Ina zote za Uchawi zinahitaji ishara sahihi na harakati (sehemu ya somatic ya ina) wakati wa kutupa, ambazo huzuiliwa na kuvaa silaha za mwili. Tazama sehemu ya [Kutupa katika Silaha za Mwili](0009_Magic.md?id=casting-in-armor) kwa maelezo maalum. Idadi ya ina za Cheo chao cha sasa ambazo mchawi anaweza kuwa nazo katika kumbukumbu hupatikana kwenye [Jedwali la Cheo cha Mchawi](0003_Classes.md?id=mage-rank-table), hapo juu, chini ya Ina katika Kumbukumbu.
-- **Ina za Kuanzia:** Cantrips ni uwezo wa kwanza wa kichawi unaofundishwa kwa mchawi mwanafunzi na hufafanuliwa kikamilifu katika sura ya [Ina](0010_Spells.md). Mchawi huanza na maarifa ya cantrip ya Cheo 0 Read Magic, pamoja na cantrips mbili (Cheo 0) kwa kila 1/10th Maarifa ya Uchawi (ujuzi x 0.1). Ikiwa mchawi anastahili kama Cheo 1, pia anajua ina moja ya Cheo 1 kwa kila 1/10th Maarifa ya Uchawi. Idadi ya ina ambazo mchawi anaweza kuwa nazo tayari katika kila Cheo hupatikana hapo juu kwenye [Jedwali la Cheo cha Mchawi](0003_Classes.md?id=mage-rank-table) chini ya Ina katika Kumbukumbu. Tazama [Orodha ya Ina za Mchawi](0003_Classes.md?id=mage-spell-list) hapa chini na sehemu ya [Kukariri Ina](0009_Magic.md?id=memorizing-spells).
+- **Spellcaster:** Ingawa wamage ni dhaifu sana mwanzoni mwa kazi zao, mwishoni mwa wigo, wanaweza kutupia tahajia za kuvutia na zenye nguvu zaidi, wakimudu kuchoma majeshi, na kubomoa majumba bila hofu. Tahajia zote za Arcane zinahitaji ishara sahihi na mienendo (sehemu ya mwili ya tahajia) wakati wa kutupia, ambayo huzuiwa na uvaaji wa silaha. Tazama sehemu ya [Kutupia ukiwa na Silaha](0009_Magic.md?id=casting-in-armor) kwa maelezo mahususi. Idadi ya tahajia za Daraja lao la sasa ambazo mage anaweza kuwa nazo katika kumbukumbu hupatikana kwenye [Jedwali la Daraja la Mage](0003_Classes.md?id=mage-rank-table), hapo juu, chini ya Tahajia katika Kumbukumbu.
+- **Tahajia za Kuanzia:** Cantrips ni uwezo wa kwanza wa kichawi unaofundishwa kwa mage mwanafunzi na hufafanuliwa kikamilifu katika sura ya [Tahajia](0010_Spells.md). Mage huanza na ujuzi wa cantrip ya Daraja la 0 ya Read Magic, pamoja na cantrips mbili (Daraja la 0) kwa kila 1/10th ya Arcane Knowledge (ustadi x 0.1). Ikiwa mage anastahiki Daraja la 1, anajua pia tahajia moja ya Daraja la 1 kwa kila 1/10th ya Arcane Knowledge. Idadi ya tahajia ambazo mage anaweza kuwa nazo zimetayarishwa katika kila Daraja hupatikana hapo juu kwenye [Jedwali la Daraja la Mage](0003_Classes.md?id=mage-rank-table) chini ya Tahajia katika Kumbukumbu. Tazama [Orodha ya Tahajia za Mage](0003_Classes.md?id=mage-spell-list) hapa chini na sehemu ya [Kukariri Tahajia](0009_Magic.md?id=memorizing-spells).
 
-#### Uwezo wa Cheo
+#### Uwezo wa Daraja (Ranked Abilities)
 
-Kama jina linavyopendekeza, Uwezo wa Cheo unachaguliwa tu na mhusika wa Cheo fulani au zaidi. Wengi wana Ujuzi wa Masharti ya Awali ambao lazima uwe katika kiwango fulani cha ujuzi au zaidi kabla ya kuchaguliwa. Hufungiwi nje ya Uwezo wa awali wakati Cheo kipya kinapofikiwa. Ikiwa ulishindwa kuchukua Uwezo wa Cheo 2 kwa mfano, unaweza kurudi na kuuchukua katika Cheo 3 au hata baadaye. Hakuna zaidi ya Uwezo mmoja unaoweza kuchukuliwa kwa kila kikao.
+Kama jina linavyopendekeza, Uwezo wa Daraja unaweza kuchaguliwa tu na mhusika wa Daraja fulani au zaidi. Nyingi zina Ustadi wa Sharti ambao lazima uwe katika kiwango fulani MVU ustadi au zaidi kabla ya kuweza kuchaguliwa. Huzuiliwi na Uwezo wa awali wakati Daraja mpya linapopatikana. Ikiwa ulishindwa kuchukua Uwezo wa Daraja la 2 kwa mfano, unaweza kurudi na kuuchukua katika Daraja la 3 au hata baadaye. Si zaidi ya Uwezo mmoja unaoweza kuchukuliwa kwa kila kikao.
 
-#### Cheo 1:
+#### Daraja la 1:
 
-Kwa kila matumizi ya 1 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (Uwezo mmoja kwa kila kikao, kila Uwezo unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya 1 Experience Roll unaweza kupata moja ya Uwezo ufuatao (Uwezo mmoja kwa kila kikao, kila Uwezo unaweza kuchukuliwa mara moja tu):
 
-- **Mkusanyiko Wenye Nguvu:** Inahitaji Kutupa Uchawi wa 50% au zaidi. Majaribio ya Nguvu ya Mapenzi ya kudumisha Mkusanyiko kuhusu ina na kutupa ina ni daraja moja rahisi la Ugumu.
-- **Nguvu ya Akili:** Inahitaji Kutupa Uchawi wa 60% au zaidi. Mara moja kwa siku unaona ni daraja 2 rahisi la Ugumu kufanya ukaguzi wa Nguvu ya Mapenzi wakati wa kupinga aina yoyote ya uchawi unaolenga akili. Hii inajumuisha nguvu kama vile kuvutia, haiba, kutawala, kushikilia, hypnosis, Magic Jar, kumiliki, kulala, maoni, na mlipuko wa akili wa psionic. Haina athari kwa ujuzi kama vile Ushawishi au Kuvutia. Pia unaona ni daraja 1 rahisi kutokuamini udanganyifu na njozi. Katika kesi ya elves, hii haina stack na upinzani wao wa Kulala na Haiba, lakini inapanua uwezo wao wa kupinga athari za ziada.
-- **Usahihi wa Silaha:** Una ujuzi katika kutumia silaha ndogo, zinazoweza kufichwa, ambazo hazihitaji nguvu nyingi, kwa njia ya hila na yenye ufanisi. Hii inakuwezesha kuhesabu Marekebisho ya Uharibifu na silaha hizi kulingana na STR+DEX badala ya STR+SIZ, chochote kinachozalisha matokeo bora. Marekebisho ya Uharibifu hayawezi kuzidi kete ya kawaida ya uharibifu wa silaha. Kwa mfano, kisu chenye uharibifu wa 1d4+1, kingepunguzwa kwa Marekebisho ya Uharibifu ya +1d4. Uwezo huu unashughulikia rungu, visu, garrotes, visu, panga fupi, main gauche, na rapiers. Pamoja na mashambulizi ya mikono mitupu. Darts, slings, pinde fupi, na mikuki huanguka katika kategoria hii pia.
+- **Powerful Concentration:** Inahitaji Arcane Casting ya 50% au zaidi. Majaribio ya Willpower ya kudumisha Umakini kuhusu tahajia na utupiaji wa tahajia ni rahisi kwa Kiwango kimoja MVU Ugumu.
+- **Mental Strength:** Inahitaji Arcane Casting ya 60% au zaidi. Mara moja kwa siku unapata kuwa ni rahisi kwa Viwango 2 vya Ugumu kufanya ukaguzi wa Willpower unapopinga aina yoyote ya uchawi unaolenga akili. Hii inajumuisha nguvu kama vile kudanganya, charm, kutawala, kushikilia, hypnosis, Magic Jar, kumiliki, kulala, maoni, na psionic mind blast. Haina athari kwa ustadi kama vile Influence au Seduction. Pia unapata kuwa ni rahisi kwa kiwango 1 Kutokuamini udanganyifu na njozi. Kwa upande wa elves, hii haijumuishwi na upinzani wao kwa Kulala na Charm, lakini inapanua uwezo wao wa kupinga athari za ziada.
+- **Weapon Precision:** Una ustadi wa kutumia silaha ndogo, zinazoweza kufichika, ambazo hazihitaji nguvu nyingi, kwa hila na kwa ufanisi. Hii inakuwezesha kuhesabu Damage Modifier na silaha hizi kulingana na NGU+UST badala ya NGU+UKU, yoyote inayozalisha matokeo bora. Damage Modifier haiwezi kuzidi die ya kawaida ya uharibifu ya silaha. Kwa mfano, jambia lenye uharibifu wa 1d4+1, lingepunguzwa hadi Damage Modifier ya +1d4. Hii inashughulikia rungu, majambia, garrotes, visu, panga fupi, main gauche, na rapiers. Pamoja na mashambulizi yasiyo na silaha. Mishale ya kutupa, kombeo, pinde fupi, na mikuki huangukia katika kitengo hiki pia.
 
-#### Cheo 2:
+#### Daraja la 2:
 
-Kwa kila matumizi ya 2 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya 2 Experience Rolls unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-- **Ongezeko la Sifa:** Ongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi kiwango cha juu cha rangi.
-- **Nguvu ya Akili II:** Inahitaji Nguvu ya Akili na Maarifa ya Uchawi ya 80% au zaidi. Kama ilivyo kwa Nguvu ya Akili, lakini inatumika mara mbili kwa siku.
-- **Gusa kwa Masafa (Ranged Touch) (X):** Inahitaji Nguvu ya Mapenzi ya 80% au zaidi. Uwezo huu unamruhusu mtupaji kutoa ina yenye Masafa ya "Gusa," Masafa ya futi 30 badala yake. Ina inachukuliwa kuwa daraja moja juu kuhusiana na kukariri na inapaswa kuzingatiwa kama masafa wakati wa kukariri. Kwa mfano, Invisibility (Masafa) ingehesabiwa kama ina ya Cheo 2.
+- **Ongezeko la Sifa:** Ongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Mental Strength II:** Inahitaji Mental Strength na Arcane Knowledge ya 80% au zaidi. Kama ilivyo kwa Mental Strength, lakini inaweza kutumika mara mbili kwa siku.
+- **Ranged Touch (X):** Inahitaji Willpower ya 80% au zaidi. Uwezo huu unaruhusu mtupiaji kutoa tahajia yenye Masafa ya "Touch," Masafa ya futi 30 badala yake. Tahajia inachukuliwa kuwa ya Daraja la juu zaidi kuhusiana na kukariri na inapaswa kuzingatiwa kama ya masafa (ranged) wakati inakaririwa. Kwa mfano, Invisibility (Ranged) ingehesabiwa kama tahajia ya Daraja la 2.
 
-#### Cheo 3:
+#### Daraja la 3:
 
-Kwa kila matumizi ya 3 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya 3 Experience Rolls unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-- **Ongezeko la Sifa:** Ongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi:** Reflexes za Ulinzi zinakuhitaji uwe Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR), umevaa si zaidi ya silaha za mwili nyepesi. Mara moja kwa kila mapambano unaweza kurudia roll ya Kushindwa ya Parry au Evade bila kutumia Nukta ya Bahati. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
-- **Nguvu ya Akili III:** Inahitaji Nguvu ya Akili II na Maarifa ya Uchawi ya 100% au zaidi. Kama ilivyo kwa Nguvu ya Akili, lakini inatumika mara tatu kwa siku.
+- **Ongezeko la Sifa:** Ongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Defensive Reflexes:** Defensive Reflexes inahitaji uwe Hujazwa (Ubebe 'Vitu' vichache kuliko NGU), na uvae silaha isiyo na kizuizi kikubwa kuliko silaha nyepesi. Mara moja kwa kila pambano unaweza kurudia roll ya Parry au Evade iliyofeli bila kutumia Luck Point. Hata hivyo, huwezi kurudia dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Luck Point.
+- **Mental Strength III:** Inahitaji Mental Strength II na Arcane Knowledge ya 100% au zaidi. Kama ilivyo kwa Mental Strength, lakini inaweza kutumika mara tatu kwa siku.
 
-#### Cheo 4:
+#### Daraja la 4:
 
-Kwa kila matumizi ya 4 ya Mistari ya Uzoefu unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya 4 Experience Rolls unaweza kupata moja ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-- **Ongezeko la Sifa:** Ongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Nguvu ya Akili IV:** Inahitaji Nguvu ya Akili III na Maarifa ya Uchawi ya 120% au zaidi. Kama ilivyo kwa Nguvu ya Akili, lakini inatumika mara nne kwa siku.
+- **Ongezeko la Sifa:** Ongeza +1 kwenye Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii yako.
+- **Mental Strength IV:** Inahitaji Mental Strength III na Arcane Knowledge ya 120% au zaidi. Kama ilivyo kwa Mental Strength, lakini inaweza kutumika mara nne kwa siku.#### Kiwango MVU 5:
 
-#### Cheo 5:
+Kwa kila matumizi ya Mizunguko 5 ya Uzoefu, unaweza kupata mojawapo ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-Kwa kila matumizi ya 5 ya Mistari ya Uzoefu, unaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+- **Ongezeko la Sifa:** Ongeza +1 kwa Sifa unayochagua. Hii haipaswi kuzidi upeo wa jamii husika.
+- **Reflexes za Kujihami II:** Inahitaji Reflexes za Kujihami. Kama ilivyo kwa Reflexes za Kujihami, hata hivyo sasa unaweza kutumia Uwezo huu mara mbili katika pambano hilohilo. Hata hivyo, huwezi kurudia kutupa kete dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Pointi ya Bahati.
+- **Nguvu ya Akili V:** Inahitaji Nguvu ya Akili IV na Maarifa ya Kichawi ya 140% au zaidi. Kama ilivyo kwa Nguvu ya Akili, lakini inaweza kutumika mara tano kwa siku.
 
-- **Ongezeko la Sifa:** Ongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi II:** Inahitaji Reflexes za Ulinzi. Kama ilivyo kwa Reflexes za Ulinzi, hata hivyo sasa unaweza kutumia Uwezo huu mara mbili katika mapambano yale yale. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
-- **Nguvu ya Akili V:** Inahitaji Nguvu ya Akili IV na Maarifa ya Uchawi ya 140% au zaidi. Kama ilivyo kwa Nguvu ya Akili, lakini inatumika mara tano kwa siku.
+### Vifaa vya Kuanzia vya Mchawi
 
-### Vifaa vya Msingi vya Kuanzia vya Mchawi
+Kila bidhaa huhesabiwa kama 'Kitu' 1 kwa madhumuni ya Uzito isipokuwa kama ilivyoainishwa vinginevyo.
 
-Kila kipengee cha mstari kinahesabiwa kama 1 'Kitu' kwa madhumuni ya Uzito isipokuwa ilivyobainishwa vinginevyo.
-
-- Staff (inahesabiwa kama 2 Vitu)
-- 3 darts (½ ya Kitu kila moja)
-- Nguo za kawaida, zisizopambwa, 0 Nukta za Silaha (0 Vitu wakati umevaliwa, 1 Kitu ikiwa imebebwa)
-- Kitabu cha ina
-- Mfuko wa sehemu za ina
-- Mkoba (uwezo wa Vitu 10), kiriba cha maji, chakula cha safari cha wiki moja, godoro la kulalia, gunia tupu dogo\*, jiwe la kugonganisha moto\*\*, 10 mishumaa ya saa mbili\*\*, 10 kurasa za ngozi\*\*, wino na chupa ya wino\*\* (6 vitu vilivyomo)
-- Mfuko wa mkanda wenye vipande 3d6 vya dhahabu
+- Fimbo (huhesabiwa kama Vitu 2)
+- Mishale 3 (½ ya Kitu kila moja)
+- Nguo za kawaida, zisizopambwa, Pointi 0 za Silaha (Vitu 0 ikiwa imevaliwa, Kitu 1 ikiwa inabebwa)
+- Kitabu MVU tahajia
+- Mfuko wa viambato vya tahajia
+- Mkoba (uwezo wa Vitu 10); kiriba MVU maji, posho za safari za wiki moja, godoro la kulalia, mfuko mdogo mtupu*, jiwe la kugongea moto**, mishumaa 10 ya saa mbili**, kurasa 10 za ngozi ya kuandikia**, kalamu na chupa ya wino** (vitu 6 vilivyomo)
+- Mfuko wa mshipi wenye vipande 3d6 vya dhahabu
 
 Jumla ya ENC: Vitu 7
 
-_\* Yaliyomo yanahesabiwa kuelekea yaliyomo kwenye mkoba kwa kuwa sauti yake imeongezeka._
+_* Yaliyomo huhesabiwa kuelekea yaliyomo kwenye mkoba kwani ujazo wake huongezeka._
 
-_\*\* Inahesabiwa kama ½ ya Kitu._
+_** Huhesabiwa kama ½ ya Kitu._
 
+### Orodha ya Tahajia za Mchawi
 
-### Orodha ya Ina za Mchawi
-
-| Cheo 0 | Cheo 1 | Cheo 2 | Cheo 3 | Cheo 4 | Cheo 5 |
+| Kiwango MVU 0 | Kiwango MVU 1 | Kiwango MVU 2 | Kiwango MVU 3 | Kiwango MVU 4 | Kiwango MVU 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
-| [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
+| [Tathmini](0010_Spells.md?id=appraise) | [Silaha](0010_Spells.md?id=armor) | [Nuru Endelevu](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
+| [Zuia](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Giza](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
 | [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
 | [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
 | [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
@@ -492,135 +489,130 @@ _\*\* Inahesabiwa kama ½ ya Kitu._
 | | [Web](0010_Spells.md?id=web) |
 | | [Spider Climb](0010_Spells.md?id=spider-climb) |
 
-_\(R\) inaashiria ina inayoweza kugeuzwa._
-
+_(R) inaashiria tahajia inayoweza kubadilishwa._
 
 ---
-## Rogue (Tapeli/Mwizi)
+## Rogue (Mjanja)
 
-Marogue (Watapeli/Wezi) ni wataalamu wa hila, wakibobea katika siri, mitego, kufungua kufuli, na ujuzi mwingine ambao jamii mara nyingi huutazama kwa tuhuma. Hata hivyo, wakati wezi wote ni marogue, sio marogue wote ni wezi. Marogue huishi kwa akili zao, wakitumia ujuzi wao wa kuingia na siri kwa manufaa zaidi. Hata hivyo, manufaa zaidi mara nyingi hutegemea ni upande gani wa almasi mtu anasimama.
+Wajanja ni wataalamu wa hila, wakijibobea katika uficho, mitego, kufungua kufuli, na ujuzi mwingine ambao jamii mara nyingi huutazama kwa mashaka. Hata hivyo, ingawa wanyang'anyi wote ni wajanja, si wajanja wote ni wanyang'anyi. Wajanja huishi kwa akili zao, wakitumia ujuzi wao wa ufichaji na siri kwa manufaa ya wengi. Hata hivyo, manufaa ya wengi mara nyingi hutegemea upande upi wa almasi unaposimama.
 
 #### Spishi/Utamaduni wa Kawaida
 
-Yoyote
+Yeyote
 
 #### Sifa Muhimu
 
-DEX, INT, na CHA
+UST, AKI, na MVU
 
-#### Mahitaji ya Ulinganifu/Kiapo
+#### Mahitaji ya Uelekeo/Kiapo
 
-- Ulinganifu: Marogue hawazuiliwi na Ulinganifu na hawahitaji Kiapo isipokuwa kama wao ni wanachama wa chama cha wezi.
-- Kiapo cha Chama cha Wezi 30% pamoja na INT+POW ya mhusika
+- Uelekeo: Wajanja hawazuiliwi na Uelekeo na hawahitaji Kiapo chochote isipokuwa kama wao ni wanachama wa chama MVU wanyang'anyi.
+- Kiapo MVU Chama MVU Wanyang'anyi 30% pamoja na AKI+UWE ya mhusika
 
-Tazama [Sura ya 4: Ulinganifu na Matamanio](0004_Alignment_and_Passions.md).
+Angalia [Sura ya 4: Uelekeo na Shauku](0004_Alignment_and_Passions.md).
 
-Mbali na Ulinganifu na Matamanio yoyote ya rangi/utamaduni, marogue wanaochagua kujiunga na chama cha wezi lazima waape Kiapo na kufuata sheria zote za kawaida zilizowekwa katika [Kutumia Ulinganifu na Matamanio](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Kwa kuongeza, lazima wazingatie masharti yafuatayo: onyesha uaminifu kwa wanachama wengine, zingatia sheria zote za chama, tenda kwa maslahi bora ya chama (kuweka chama mbele ya maslahi ya kibinafsi), weka siri za chama salama, lipa ada za chama, na ulipe sehemu ya kazi yoyote 'iliyoidhinishwa' na chama.
+Mbali na Uelekeo na Shauku yoyote ya kijamii/kikabila, wajanja wanaochagua kujiunga na chama MVU wanyang'anyi lazima waape Kiapo na kufuata sheria zote za kawaida zilizowekwa katika [Kutumia Uelekeo na Shauku](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Aidha, lazima wazingatie masharti yafuatayo: kuonyesha uaminifu kwa wanachama wengine, kuzingatia sheria zote za chama, kutenda kwa manufaa bora ya chama (kuweka chama mbele ya maslahi binafsi), kutunza siri za chama, kulipa ada za chama, na kulipa sehemu ya mapato ya kazi yoyote 'iliyoidhinishwa' na chama.
 
-Ada hutofautiana kulingana na eneo na ukubwa wa chama, lakini karibu dhahabu 100 kwa mwaka ni kawaida. Mbali na ada za kila mwaka, wanachama wanatakiwa kulipa sehemu ya kazi yoyote ambapo chama kilisaidia kwa njia ya mawasiliano, vidokezo, ramani, habari za jumla, na kadhalika. Kiasi maalum cha sehemu hiyo kinapaswa kuamuliwa kwa kila kesi, kulingana na msaada uliotolewa, lakini wastani wa 20%, uliorekebishwa juu au chini ni sawa. Kwa kubadilishana, chama hutoa makazi ya muda kwa mwanachama na washirika wao, pamoja na huduma nyingine yoyote ambayo Mwalimu wa Mchezo anaona inafaa. Fences (wapokeaji wa vitu vya wizi) wanapatikana ili kusaidia kusonga bidhaa zilizoibwa, na kupitia mawasiliano haya, mwizi anaweza kutarajiwa kupata takriban ¼ ya thamani ya kuuza ya kitu hicho. Vyama vingi vya wezi vina uwepo katika miji mingi mikuu na hata miji mikubwa kadhaa.
+Ada hutofautiana kulingana na eneo na ukubwa wa chama, lakini karibu vipande 100 vya dhahabu kwa mwaka ni kiwango MVU kawaida. Mbali na ada za mwaka, wanachama wanatakiwa kulipa sehemu ya mapato ya kazi yoyote ambapo chama kilisaidia kwa njia ya mawasiliano, vidokezo, ramani, habari za jumla, na kadhalika. Kiasi maalum MVU sehemu hiyo kinapaswa kuamuliwa kwa kila kesi, kulingana na usaidizi uliotolewa, lakini wastani wa 20%, iliyorekebishwa juu au chini, ni sawa. Kwa kubadilishana, chama hutoa hifadhi ya muda kwa mwanachama na washirika wake, pamoja na huduma nyingine yoyote ambayo Mwalimu wa Mchezo anaona inafaa. Wafanyabiashara wa bidhaa za wizi wanapatikana kusaidia kuuza bidhaa zilizoibiwa, na kupitia mawasiliano haya, mwizi anaweza kutarajia kupata kama ¼ ya thamani ya mauzo ya bidhaa hiyo. Vyama vingi vya wanyang'anyi vina uwepo katika miji mingi mikuu na hata miji mikubwa kadhaa.
 
-Rogue anaweza kuchagua kujiunga na chama cha wezi baada ya uundaji wa mhusika ikiwa Mwalimu wa Mchezo ataruhusu. Wakati kujiunga na chama cha wezi wakati wa uundaji wa mhusika hakugharimu mhusika chochote, kujiunga baadaye kunagharimu dhahabu 100 kwa kila Cheo cha sasa, na kunachukua mwezi 1 wa mafunzo na kuanzishwa. Baada ya muda uliopangwa, mhusika huchukua kichwa cha chama cha wezi kinachofaa kwa Cheo chao na kuongeza Kiapo cha Chama cha Wezi kwa 30% pamoja na POW+INT.
+Mjanja anaweza kuchagua kujiunga na chama MVU wanyang'anyi baada ya kuundwa kwa mhusika ikiwa Mwalimu wa Mchezo anaruhusu. Ingawa kujiunga na chama MVU wanyang'anyi wakati wa kuundwa kwa mhusika hakugharimu mhusika chochote, kujiunga baadaye kunagharimu Vipande 100 vya Dhahabu kwa Kiwango MVU sasa, na kuchukua mwezi 1 wa mafunzo na uanzishwaji. Baada ya muda uliotengwa, mhusika huchukua jina la chama MVU wanyang'anyi linalofaa kwa Kiwango chao na kuongeza Kiapo MVU Chama MVU Wanyang'anyi kwa 30% pamoja na UWE+AKI.
 
 #### Ujuzi
 
-Kwa sababu ya asili yao tofauti, marogue wana chaguzi nyingi za ujuzi kuliko mgao wa kawaida. Hata hivyo, hawapokei Nukta yoyote ya ziada ya Ujuzi.
+Kwa sababu ya asili yao tofauti, wajanja wana chaguzi nyingi za ujuzi kuliko mgao wa kawaida. Hata hivyo, hawapati Pointi za Ziada za Ujuzi.
 
-- **Ujuzi wa Kawaida:** Riadha, Ujuzi wa Mapigano (Rogue), Udanganyifu, Kuepuka (Evade), Ufahamu, Mtazamo, Siri (Stealth)
-- **Ujuzi wa Kitaaluma:** Rogue hupokea kiotomatiki Lockpicking na Mechanisms, pamoja na ujuzi mbili za ziada kutoka kwa yafuatayo: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, au Streetwise. Wakati wa uundaji wa mhusika, wanachama wa Chama cha Wezi pia hupokea Lugha (Thieves' Cant) kwa +40. Ikiwa wataichukua baadaye, hawapokei bonasi ya +40.
+- **Ujuzi wa Kawaida:** Riadha, Ujuzi wa Kupambana (Mjanja), Udanganyifu, Kukwepa, Ufahamu, Mtazamo, Uficho
+- **Ujuzi wa Kitaalamu:** Mjanja hupokea kiotomatiki Ufunguaji wa Kufuli na Mitambo, pamoja na ujuzi mwingine mbili kutoka kwa zifuatazo: Akrobatiki, Uigizaji, Biashara, Uvaaji wa Kujificha, Vitisho, Ushawishi, Ujanja wa Mikono, au Ujuzi wa Mitaani. Wakati wa kuundwa kwa mhusika, wanachama wa Chama MVU Wanyang'anyi pia hupokea Lugha (Lugha ya Wanyang'anyi) kwa +40. Ikiwa wataichukua baadaye, hawapati bonasi ya +40.
 
-#### Ujuzi wa Silaha na Silaha za Rogue
+#### Silaha za Mjanja na Ustadi wa Silaha
 
-Marogue wana ujuzi na aina zote za silaha za mwili (nyepesi na nzito), na na ngao zote (isipokuwa ngao za mnara). Hata hivyo, wanapata adhabu kwa Uwezo mingi wa rogue wakati wa kuvaa silaha za mwili nzito au wanapokuwa na uzito. Ujuzi wao wa Mapigano unajumuisha matumizi ya silaha zote za msingi, pamoja na crossbows za mkono, panga ndefu, rapiers, na panga fupi.
+Wajanja wana ustadi wa kutumia aina zote za silaha (nyepesi na nzito), na ngao zote (isipokuwa ngao za mnara). Hata hivyo, wanapata adhabu kwa Uwezo mingi wa ujanja wakati wamevaa silaha nzito au wanapokuwa wamebeba mizigo mizito. Ujuzi wao wa Kupambana unajumuisha matumizi ya silaha zote za msingi, pamoja na pinde za mikono, panga ndefu, panga za rapier, na panga fupi.
 
-### Muundo wa Cheo
+### Muundo wa Kiwango
 
-Marogue wote hukadiriwa kwa Cheo, ambacho ni ukadiriaji wa nguvu na ujuzi. Unaweza kuchagua vichwa vya rogue au mwizi, kulingana na kile kinachofaa zaidi kwa uhusiano wako na chama cha wezi. Wakati kiwango maalum cha umahiri kinapopatikana katika idadi ndogo ya ujuzi wa Darasa, marogue wanaweza kuongeza Cheo chao, kwani watakuwa wameonyesha kiwango cha lazima cha uwezo. Wakati kiwango hiki cha uwezo kinapofikiwa Nukta ya ziada ya Bahati hupatikana na Uwezo mpya unaweza kupatikana. Maelezo haya yanapatikana kwenye jedwali lifuatalo chini ya Maendeleo. Kwa kudhani unatimiza mahitaji ya awali, mhusika wako anaanza kama Scoundrel wa Cheo 1 au Burglar na Uwezo unaofaa uliotajwa hapa chini; vinginevyo, unaanza kama Scamp au Cutpurse wa Cheo 0 na hakuna Uwezo mwingine.
+Wajanja wote hupimwa kwa Kiwango, ambacho ni kipimo MVU nguvu na ujuzi. Unaweza kuchagua majina ya mjanja au mwizi, kulingana na yoyote yanayofaa zaidi kwa uhusiano wako na chama MVU wanyang'anyi. Wakati kiwango maalum MVU umahiri kinapopatikana katika idadi ndogo ya ujuzi wa Darasa, wajanja wanaweza kuongeza Kiwango chao, kwani watakuwa wameonyesha kiwango kinachohitajika MVU ustadi. Wakati kiwango hiki MVU ustadi kinapofikiwa, Pointi nyingine ya Bahati hupatikana na Uwezo mpya unaweza kupatikana. Habari hii inapatikana kwenye jedwali lifuatalo chini ya Maendeleo. Kwa kudhani unakidhi mahitaji, mhusika wako huanza kama Kiwango MVU 1 Mlaghai au Mwizi wa Nyumba na Uwezo unaofaa uliotajwa hapa chini; vinginevyo, unaanza kama Kiwango MVU 0 Mkorofi au Mfukuzaji na hakuna Uwezo mwingine.
 
-##### Jedwali la Cheo cha Rogue
+##### Jedwali la Kiwango MVU Mjanja
 
-| Cheo | Kichwa (Rogue) | Kichwa (Thief) | Maendeleo | Nukta za Afya | Nukta za Bahati | Nukta za Kitendo |
+| Kiwango | Jina (Mjanja) | Jina (Mwizi) | Maendeleo | Pointi za Hit | Pointi za Bahati | Pointi za Utekelezaji |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Scamp | Cutpurse | - | 0 | +0 | +0 |
-| **1** | Scoundrel | Burglar | Ujuzi wowote 5 wa Darasa kwa 40% | 0 | +0 | +0 |
-| **2** | Rogue | Thief | Ujuzi wowote 5 wa Darasa kwa 70% | +1 | +1 | +1 |
-| **3** | Master Rogue | Master Thief | Ujuzi wowote 4 wa Darasa kwa 90% | +1 | +2 | +1 |
-| **4** | Grand Master Rogue | Grand Master Thief | Ujuzi wowote 3 wa Darasa kwa 110% | +2 | +3 | +2 |
-| **5** | Legendary Rogue | Legendary Thief | Ujuzi wowote 2 wa Darasa kwa 130% | +2 | +4 | +2 |
+| **0** | Mkorofi | Mfukuzaji | - | 0 | +0 | +0 |
+| **1** | Mlaghai | Mwizi wa Nyumba | Ujuzi wowote 5 wa Darasa kwa 40% | 0 | +0 | +0 |
+| **2** | Mjanja | Mwizi | Ujuzi wowote 5 wa Darasa kwa 70% | +1 | +1 | +1 |
+| **3** | Mjanja Mkuu | Mwizi Mkuu | Ujuzi wowote 4 wa Darasa kwa 90% | +1 | +2 | +1 |
+| **4** | Mjanja Mkuu wa Juu | Mwizi Mkuu wa Juu | Ujuzi wowote 3 wa Darasa kwa 110% | +2 | +3 | +2 |
+| **5** | Mjanja Hadithi | Mwizi Hadithi | Ujuzi wowote 2 wa Darasa kwa 130% | +2 | +4 | +2 |
 
 #### Uwezo wa Kuanzia
 
-Rogue anajua Uwezo wote wafuatao katika Cheo 1. Kwa kuongeza, wakati wa uundaji wa mhusika, unaweza kuchagua Uwezo mmoja wa Cheo 1 bila malipo kwa kudhani unatimiza mahitaji yake.
+Mjanja anajua Uwezo wote wafuatao katika Kiwango MVU 1. Aidha, wakati wa kuundwa kwa mhusika, unaweza kuchagua Uwezo mmoja wa Kiwango MVU 1 bila malipo kwa kudhani unakidhi mahitaji yake.
 
-- **Kupanda Kuta:** Wewe ni mzuri sana kupanda kitu chochote hadi kwenye uso wa wima. Ikiwa uko Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR), na umevaa si zaidi ya silaha za mwili nyepesi, unaweza kupuuza daraja 1 la Ugumu kwenye roll yako ya Riadha wakati wa kufanya jaribio lolote la kupanda. Kwa kuongeza, Adhabu ya Silaha kwa Harakati ya Msingi wakati wa kupanda inaweza kupuuzwa.
-- **Kujificha kwenye Vivuli:** Wewe ni mtaalamu wa siri na umekamilisha sanaa ya kujificha kwenye vivuli. Ikiwa unaweza kujiweka katika eneo lililofunikwa na kivuli, rolls zote za Mtazamo kuona wewe ni daraja 1 ngumu zaidi.
-- **Shambulio la Siri (Sneak Attack):** Rogue anaweza kujaribu kutokusaidia mwathiriwa kutoka kwenye nafasi ya faida ikiwa ana silaha ndogo au ya kati ya melee au kutumia Silaha ya Masafa ndani ya futi 30 za mwathiriwa. Shabaha lazima iwe kwa ujumla ya binadamu katika umbo na kumiliki viungo muhimu. Haina athari kwa joka au misa ya gelatinous, kwa mfano. Kwa sababu mshambuliaji kwa kawaida anaweza kupiga bila kizuizi, wanapata Chagua Eneo kama bonasi ya Athari Maalum ikiwa watafaulu. Hata hivyo, eneo lililochaguliwa lazima liwe kichwa, kifua, au tumbo la shabaha ili kupata faida yoyote ifuatayo ya ziada.
-  - Mshambuliaji anaweza kupuuza Marekebisho yoyote ya Uharibifu hasi ambayo kawaida hutumika, Athari Maalum Bypass Armor na Maximize Damage hazihitaji Mafanikio Muhimu.
-  - Sio lazima kwa rogue kupata mshangao kwa mwathiriwa; hata hivyo, shambulio lazima lifanywe nje ya uwanja wa maono wa mwathiriwa. Kwa hivyo, marogue wengi husubiri mpinzani kushiriki na mshirika na kisha kutumia fursa ya usumbufu kushambulia kutoka nyuma. Parry au Evade Shambulio la Siri kwanza linahitaji roll ya Mtazamo, roll ya Mtazamo Ngumu ikiwa mwathiriwa tayari amekengeushwa. Ikiwa imefanikiwa, kutetea dhidi ya shambulio linalotoka upande ni ya Kisha, wakati kutetea dhidi ya shambulio kutoka nyuma ni kazi ya Herkules! Shambulio la Siri linaweza kutumika tu kwenye shabaha moja zaidi ya mara moja ikiwa wataendelea kukengeushwa au vinginevyo hawajui mshambuliaji wao.
-- **Ujanja (Subterfuge):** Kwa sababu marogue ni mabwana wa kuingia, ujuzi Lockpicking, Mechanisms, na Sleight ni daraja moja rahisi la Ugumu.
+- **Kupanda Kuta:** Wewe ni mzuri sana katika kupanda chochote hadi kwenye uso wa wima. Ikiwa huna Mzigo (Vitu vichache vilivyobebwa kuliko NGU), na hujavaa chochote chenye vizuizi zaidi ya silaha nyepesi, unaweza kupuuza Daraja 1 la Ugumu kwa mtupo wako wa Riadha unapofanya jaribio lolote la kupanda. Aidha, Adhabu ya Silaha kwa Mwendo wa Msingi wakati wa kupanda inaweza kupuuzwa.
+- **Kujificha kwenye Vivuli:** Wewe ni mtaalamu wa uficho na umekamilisha sanaa ya kujificha kwenye vivuli. Ikiwa unaweza kujiweka katika eneo lililofunikwa na kivuli, mitupo yote ya Mtazamo ya kukuona ni vigumu zaidi kwa Daraja 1 la Ugumu.
+- **Shambulio la Kushtukiza:** Mjanja anaweza kujaribu kumtuliza mwathiriwa kutoka kwenye nafasi yenye faida ikiwa ana silaha ndogo au ya wastani ya kupambana au anatumia Silaha ya Masafa ndani ya futi 30 kutoka kwa mwathiriwa. Lengo lazima liwe na umbo la kibinadamu kwa ujumla na liwe na viungo muhimu. Haina athari kwa joka au misa ya gelatin, kwa mfano. Kwa sababu mshambuliaji kwa kawaida anaweza kupiga bila kizuizi, wanapata Chagua Mahali kama Athari Maalum ya bonasi ikiwa watafanikiwa. Hata hivyo, mahali palipochaguliwa lazima pawe kichwa, kifua, au tumbo la lengo ili kupata faida zozote zifuatazo za ziada.
+  - Mshambuliaji anaweza kupuuza Kirekebishaji hasi MVU Uharibifu ambacho kwa kawaida hutumika, Athari Maalum za Epuka Silaha na Ongeza Uharibifu hazihitaji Mafanikio Muhimu.
+  - Sio lazima kwa mjanja kupata mshangao kwa mwathiriwa; hata hivyo, shambulio lazima lifanywe nje ya uwanja wa maono wa mwathiriwa. Kwa hivyo, wajanja wengi husubiri mpinzani ashiriki na mshirika na kisha kutumia fursa ya usumbufu huo kupiga kutoka nyuma. Kupambana au Kukwepa Shambulio la Kushtukiza kwanza kunahitaji mtupo wa Mtazamo, mtupo mgumu wa Mtazamo ikiwa mwathiriwa tayari ameshawishiwa. Ikiwa watafanikiwa, kutetea dhidi ya shambulio linalotoka upande ni Vigumu, wakati kutetea dhidi ya shambulio kutoka nyuma ni kazi ya Kiherculean! Shambulio la Kushtukiza linaweza kutumika tu kwa lengo lilelile zaidi ya mara moja ikiwa watabaki wameshawishiwa au kutokujua mshambuliaji wao.
+- **Ujanja:** Kwa sababu wajanja ni mabwana wa ufichaji, ujuzi wa Ufunguaji wa Kufuli, Mitambo, na Ujanja wa Mikono ni rahisi zaidi kwa Daraja moja la Ugumu.
 
-#### Uwezo wa Cheo
+#### Uwezo wa Ngazi
 
-Kama jina linavyopendekeza, Uwezo wa Cheo unachaguliwa tu na mhusika wa Cheo fulani au zaidi. Wengi wana Ujuzi wa Masharti ya Awali ambao lazima uwe katika kiwango fulani cha ujuzi au zaidi. Hufungiwi nje ya Uwezo wa awali wa Cheo wakati Cheo kipya kinapofikiwa. Ikiwa ulishindwa kuchukua Uwezo wa Cheo 2 kwa mfano, unaweza kurudi na kuuchukua katika Cheo 3 au hata baadaye. Hakuna zaidi ya Uwezo mmoja wa Cheo unaoweza kuchukuliwa kwa kila kikao.
+Kama jina linavyopendekeza, Uwezo wa Ngazi huchaguliwa tu na mhusika wa Kiwango fulani au zaidi. Wengi wana Ujuzi wa Masharti ambao lazima uwe katika kiwango fulani MVU ujuzi au zaidi. Hujazuiwa kupata Uwezo wa awali wa Ngazi wakati Kiwango kipya kinapopatikana. Ikiwa ulishindwa kuchukua Uwezo wa Kiwango MVU 2 kwa mfano, unaweza kurudi na kuuchukua katika Kiwango MVU 3 au baadaye. Si zaidi ya Uwezo mmoja wa Ngazi unaoweza kuchukuliwa kwa kila kikao.
 
-#### Cheo 1:
+#### Kiwango MVU 1:
 
-Kwa kila matumizi ya 1 ya Mistari ya Uzoefu Rogue anaweza kupata moja ya Uwezo wafuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
+Kwa kila matumizi ya Mzunguko 1 wa Uzoefu Mjanja anaweza kupata mojawapo ya Uwezo ufuatao (kila mmoja unaweza kuchukuliwa mara moja tu):
 
-- **Agile:** Inahitaji Evade au Acrobatics kwa 60% au zaidi. Kwa kudhani uko Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR) na umevaa si zaidi ya silaha za mwili nyepesi, unaweza kutumia reflexes zako bora katika mapigano. Wakati wa kuhesabu Mpango, unaweza kuongeza +4 kwa jumla.
-- **Artful Dodger:** Inahitaji Evade ya 50% au zaidi. Kipaji hiki kinakuhitaji uwe Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR) na umevaa si zaidi ya silaha za mwili nyepesi. Unamiliki reflexes za haraka na unaweza kutumia ujuzi wa Evade kukwepa shambulio la melee bila kuanguka kifudifudi. Dhidi ya shambulio la masafa, unaishia tu kifudifudi ikiwa Unashindwa roll.
-- **Kusikia Vizuri:** Inahitaji Mtazamo wa 50% au zaidi. Kusikia kwako kwa kasi hufanya rolls zote za Mtazamo zinazohusiana na kusikia daraja 1 rahisi la Ugumu.
-- **Macho Kali:** Inahitaji Mtazamo wa 50% au zaidi. Uoni wako wa kasi hufanya rolls zote za Mtazamo zinazohusiana na maono daraja 1 rahisi la Ugumu.
-- **Skirmishing:** Inahitaji Ujuzi wa Riadha na Ujuzi wa Mapigano wa 50% au zaidi. Uwezo huu unaruhusu kuzindua mashambulizi ya masafa katika Mzunguko huo huo ambao unakimbia (lakini sio wakati wa kukimbia kwa kasi). Hata hivyo, asilimia ya shambulio la mshambuliaji haiwezi kuzidi ujuzi wake wa Riadha.
-- **Swashbuckling:** Inahitaji Ujuzi wa Mapigano wa 50% au zaidi. Kwa kudhani mhusika yuko Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR) na amevaa si zaidi ya silaha za mwili nyepesi, wanaweza kushiriki katika mashambulizi na evades zilizofanywa wakati wa kuruka au kupiga (au kujiondoa kutoka) mapigano, kupuuza kofia yoyote ya ujuzi iliyowekwa juu yake na ujuzi wa Riadha.
-- **Ulinzi Usio na Silaha:** Inahitaji Uwezo wa Artful Dodger na ama Evade au Acrobatics kwa 50% au zaidi. Mhusika wako ni vigumu sana kupigwa wakati hajazuiwa na silaha za mwili. Wakati Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR) na amevaa HAKUNA silaha za mwili, rolls zako za Evade ni daraja 1 rahisi la Ugumu.
-- **Vaulting** (inahitaji Acrobatics): Inahitaji Acrobatics kwa 50% au zaidi. Wakati Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR), unaweza kutumia ujuzi wako wa Acrobatics ili kupiga vault kulingana na sheria zifuatazo. Kutumia nguzo ya angalau urefu wa quarterstaff na kusonga angalau kwa kasi ya kukimbia au kukimbia kwa kasi, unaweza kupiga vault juu ya vizuizi au kwenye maeneo yasiyoweza kufikiwa. Hii inahitaji roll ya Acrobatics Rahisi iliyofanikiwa, na ikiwa imefanikiwa, itakuruhusu kupiga vault kwa usawa hadi mara mbili ya urefu wako mwenyewe +1d4+6 futi. Vault ya wima iliyofanikiwa itakuruhusu kufikia urefu sawa na urefu wa quarterstaff (6 hadi 9 futi); hata hivyo, kupiga vault kwa wima husababisha wewe kuishia kifudifudi. Mhusika bila Uwezo huu ambaye anamiliki ujuzi wa Acrobatics anaweza kujaribu feat hii kwa ugumu wa kawaida. Kwa Mafanikio Muhimu na vault ya usawa, umbali uliopigwa vault unaweza kuongezwa kwa nusu tena. Mafanikio Muhimu wakati wa kupiga vault kwa wima hukuruhusu kutua juu ya miguu yako.
-- **Usahihi wa Silaha:** Una ujuzi katika kutumia silaha ndogo, zinazoweza kufichwa, ambazo hazihitaji nguvu nyingi, kwa njia ya hila na yenye ufanisi. Hii inakuwezesha kuhesabu Marekebisho ya Uharibifu na silaha hizi kulingana na STR+DEX badala ya STR+SIZ, chochote kinachozalisha matokeo bora. Marekebisho ya Uharibifu hayawezi kuzidi mara mbili ya kete ya kawaida ya uharibifu wa silaha. Kwa mfano, kisu chenye uharibifu wa 1d4+1, kingepunguzwa kwa Marekebisho ya Uharibifu ya +1d4, na kukifanya kiwe 1d4+1+1d4. Uwezo huu unashughulikia rungu, visu, garrotes, visu, panga fupi, main gauche, na rapiers. Pamoja na mashambulizi ya mikono mitupu. Darts, slings, pinde fupi, na mikuki huanguka katika kategoria hii pia.
+- **Mwepesi:** Inahitaji Kukwepa au Akrobatiki kwa 60% au zaidi. Kwa kudhani huna Mzigo (Vitu vichache vilivyobebwa kuliko NGU) na hujavaa chochote chenye vizuizi zaidi ya silaha nyepesi, unaweza kutumia reflexes zako bora katika mapambano. Wakati wa kuhesabu Hatua ya Kwanza, unaweza kuongeza +4 kwenye jumla.
+- **Dodger Mjanja:** Inahitaji Kukwepa kwa 50% au zaidi. Kipaji hiki kinahitaji uwe na Mzigo (Vitu vichache vilivyobebwa kuliko NGU) na uvae chochote kisicho na vizuizi zaidi ya silaha nyepesi. Una reflexes za haraka na unaweza kutumia ujuzi wa Kukwepa ili kukwepa shambulio la mapambano bila kuanguka chini. Dhidi ya shambulio la masafa, unaishia tu kuanguka ikiwa utashindwa mtupo.
+- **Usikivu Mkuu:** Inahitaji Mtazamo kwa 50% au zaidi. Usikivu wako mkali hufanya mitupo yote ya Mtazamo inayohusu kusikia kuwa rahisi zaidi kwa Daraja moja la Ugumu.
+- **Macho Makali:** Inahitaji Mtazamo kwa 50% au zaidi. Macho yako makali hufanya mitupo yote ya Mtazamo inayohusu kuona kuwa rahisi zaidi kwa Daraja moja la Ugumu.
+- **Skirmishing:** Inahitaji Riadha na Ujuzi wa Kupambana kwa 50% au zaidi. Uwezo huu unaruhusu kuanzisha mashambulio ya masafa katika Mzunguko uleule unaokimbia (lakini si wakati wa kupiga mbio). Hata hivyo, asilimia ya shambulio ya mshambuliaji haiwezi kuzidi ujuzi wake wa Riadha.
+- **Swashbuckling:** Inahitaji Ujuzi wa Kupambana kwa 50% au zaidi. Kwa kudhani mhusika hana Mzigo (Vitu vichache vilivyobebwa kuliko NGU) na huvaa chochote kisicho na vizuizi zaidi ya silaha nyepesi, wanaweza kushiriki katika mashambulio na kukwepa yaliyofanywa wakati wa kuruka au kupiga (au kujiondoa kutoka) kwenye mapambano, wakipuuza kikomo chochote MVU ujuzi kilichowekwa na ujuzi wa Riadha.
+- **Ulinzi Usio na Silaha:** Inahitaji Uwezo wa Dodger Mjanja na aidha Kukwepa au Akrobatiki kwa 50% au zaidi. Mhusika wako ni vigumu sana kupigwa wakati hajazuiliwa na silaha. Wakati huna Mzigo (Vitu vichache vilivyobebwa kuliko NGU) na hujavaa silaha YOYOTE, mitupo yako ya Kukwepa ni rahisi zaidi kwa Daraja moja la Ugumu.
+- **Kuruka** (inahitaji Akrobatiki): Inahitaji Akrobatiki kwa 50% au zaidi. Wakati huna Mzigo (Vitu vichache vilivyobebwa kuliko NGU), unaweza kutumia ujuzi wako wa Akrobatiki kuruka juu kwa kutumia nguzo kulingana na sheria zifuatazo. Kwa kutumia nguzo ya angalau urefu wa fimbo na kusonga angalau kwa kasi ya kukimbia au kupiga mbio, unaweza kuruka juu ya vizuizi au kwenye maeneo ambayo hayafikiki. Hii inahitaji mtupo wa Mafanikio wa Akrobatiki Rahisi, na ikiwa utafanikiwa, itakuwezesha kuruka kwa mlalo hadi mara mbili ya urefu wako +1d4+6 futi. Kuruka kwa wima kwa mafanikio kutakuwezesha kufikia urefu sawa na urefu wa fimbo (futi 6 hadi 9); hata hivyo, kuruka kwa wima husababisha uishie chini. Mhusika asiye na Uwezo huu ambaye ana ujuzi wa Akrobatiki anaweza kujaribu feat hii kwa ugumu wa kawaida. Katika Mafanikio Muhimu na kuruka kwa mlalo, umbali uliorukwa unaweza kuongezwa kwa nusu nyingine. Mafanikio Muhimu wakati wa kuruka kwa wima hukuruhusu kutua kwa miguu yako.
+- **Usahihi wa Silaha:** Wewe ni mtaalamu wa kutumia silaha ndogo, zinazoweza kufichwa, ambazo hazihitaji nguvu nyingi, kwa ujanja na kwa ufanisi. Hii inakuwezesha kuhesabu Kirekebishaji MVU Uharibifu na silaha hizi kulingana na NGU+UST badala ya NGU+UKU, chochote kinachozalisha matokeo bora. Kirekebishaji MVU Uharibifu hakiwezi kuzidi mara mbili ya kete ya kawaida ya uharibifu wa silaha. Kwa mfano, jambia lenye uharibifu wa 1d4+1, lingepunguzwa kuwa Kirekebishaji MVU Uharibifu MVU +1d4, na kuifanya 1d4+1+1d4. Uwezo huu unashughulikia rungu, majambia, garrote, visu, panga fupi, main gauche, na panga za rapier. Pamoja na mashambulio yasiyo na silaha. Mishale, pinde, pinde fupi, na mikuki pia huangukia katika kategoria hii.
 
-#### Cheo 2:
+#### Kiwango MVU 2:
 
-Uwezo wa Shambulio la Siri wa rogue sasa unafanya +1d2 uharibifu na silaha za melee, hakuna uharibifu wa ziada na silaha za masafa. Kwa kuongeza, wanaweza kuchukua Uwezo wafuatao kwa gharama ya 2 EXP rolls kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
+Uwezo wa Shambulio la Kushtukiza wa mjanja sasa hufanya +1d2 uharibifu na silaha za mapambano, hakuna uharibifu wa ziada na silaha za masafa. Aidha, wanaweza kuchukua Uwezo ufuatao kwa gharama ya mizunguko 2 ya EXP kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi:** Reflexes za Ulinzi zinakuhitaji uwe Hujatwika (Bila 'Vitu' vingi kubebwa kuliko STR), umevaa si zaidi ya silaha za mwili nyepesi. Mara moja kwa kila mapambano Unaweza kurudia roll ya Kushindwa ya Parry au Evade bila kutumia Nukta ya Bahati. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
-- **Soma Lugha:** Inahitaji Kiapo kwa 70% au zaidi na mwezi mmoja wa mafunzo na chama cha wezi. Wanachama pekee wa chama cha wezi wanaweza kuchukua Uwezo huu. Umejifunza kusoma lugha yoyote, hata zile ambazo hujui kawaida. Huu sio ufahamu kamili wa lugha zote, lakini nafasi ya kuchukua neno hapa au kifungu hapo na kukiunganisha. Matumizi makuu ya ujuzi huu ni ufahamu wa maelezo, maagizo, na ramani za hazina, lakini inaweza kutumika kujaribu kufafanua lugha yoyote isiyojulikana. Kusoma Lugha ni Ujuzi wa Kitaaluma na huanza katika Kiwango cha Msingi cha INTx2. Mwalimu wa Mchezo anapaswa kuzungusha ukaguzi huu wa ujuzi, akifanya matokeo kuwa siri, kwa kuwa hungejua ikiwa umetafsiri maandishi kwa mafanikio, au unafikiri umefanya hivyo. Mafanikio yatafunua vipande vichache vya habari muhimu sawa na (INT/4) yako wakati Mafanikio Muhimu yatafunua vipande kadhaa vya habari sawa na INT/2 yako. Kwa roll Iliyoshindwa, hujifunzi habari yoyote kabisa. Mwishowe, kwa Fumble, unaamini tu kuwa unajua mada sahihi na Mwalimu wa Mchezo anaweza kukupa habari za uongo.
+- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwa Sifa unayochagua. Hii haipaswi kuzidi upeo wa jamii husika.
+- **Reflexes za Kujihami:** Reflexes za Kujihami zinahitaji uwe na Mzigo (Vitu vichache vilivyobebwa kuliko NGU), uvae chochote kisicho na vizuizi zaidi ya silaha nyepesi. Mara moja kwa pambano Unaweza kurudia kutupa mtupo wa Kupambana au Kukwepa ulioshindwa bila kutumia Pointi ya Bahati. Hata hivyo, huwezi kurudia kutupa kete dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Pointi ya Bahati.
+- **Soma Lugha:** Inahitaji Kiapo kwa 70% au zaidi na mwezi mmoja wa mafunzo na chama MVU wanyang'anyi. Wanachama pekee wa chama MVU wanyang'anyi wanaweza kuchukua Uwezo huu. Umejifunza kusoma lugha yoyote, hata zile ambazo kwa kawaida huzijui. Hii si uelewa kamili wa lugha zote, bali ni fursa ya kuchukua neno hapa au kishazi pale na kukiunganisha. Matumizi makuu ya ujuzi huu ni uelewa wa maelezo, maagizo, na ramani za hazina, lakini inaweza kutumika kujaribu kufafanua lugha yoyote isiyojulikana vinginevyo. Soma Lugha ni Ujuzi wa Kitaalamu na huanza katika Kiwango MVU Msingi MVU AKIx2. Mwalimu wa Mchezo anapaswa kutupa mtupo huu wa ujuzi, akihifadhi matokeo kuwa siri, kwani usingejua kama umetafsiri maandishi kwa mafanikio, au unafikiri tu umetafsiri. Mafanikio yatafichua vipande vichache vya habari muhimu sawa na (AKI/4) yako wakati Mafanikio Muhimu yatafichua vipande kadhaa vya habari sawa na AKI/2 yako. Katika mtupo ulioshindwa, hujifunzi habari yoyote hata kidogo. Hatimaye, kwa Fumble, unaamini tu kwamba unajua mada sahihi na Mwalimu wa Mchezo anaweza kukupa habari za uongo.#### Cheo MVU 3:
 
-#### Cheo 3:
+Uwezo wa Shambulio la Kushtukiza wa mwizi sasa hufanya uharibifu wa +1d4 kwa silaha za kugusa, na +1d2 ya uharibifu wa ziada kwa silaha za masafa. Aidha, anaweza kuchukua Uwezo ufuatao kwa gharama ya 3 ya kurusha EXP kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
 
-Uwezo wa Shambulio la Siri wa rogue sasa unafanya +1d4 uharibifu na silaha za melee, +1d2 uharibifu wa ziada na masafa. Kwa kuongeza, wanaweza kuchukua Uwezo wafuatao kwa gharama ya 3 EXP rolls kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
+- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwa Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii.
+- **Refleksi za Kujihami II:** Inahitaji Refleksi za Kujihami. Kama ilivyo kwa Refleksi za Kujihami, hata hivyo sasa unaweza kutumia Uwezo huu mara mbili katika pambano moja. Hata hivyo, huwezi kurusha tena dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Pointi ya Bahati.
+- **Kutumia Hati za Kichawi:** Inahitaji Nadhiri kwa 90% au zaidi na mwezi mmoja wa mafunzo katika chama MVU wezi. Wanachama wa chama MVU wezi pekee ndio wanaoweza kuchukua Uwezo huu. Uwezo huu humruhusu mwizi kutumia tahajia kutoka kwa hati yoyote ya mtumiaji wa uchawi bila kuhitaji kuwa amewahi kutumia Soma Uchawi kwenye hati hiyo hapo awali. Nafasi hii ni sawa na AKI yako x5%. Kushindwa kwa rula hii husababisha Fumble moja kwa moja kwa sababu ya ukosefu wako wa mafunzo na uelewa wa sanaa za kichawi. Fumble hubadilisha athari za tahajia au huzianzisha kwa msomaji, chochote ambacho ni kibaya zaidi kulingana na matakwa ya Mwalimu wa Mchezo.
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi II:** Inahitaji Reflexes za Ulinzi. Kama ilivyo kwa Reflexes za Ulinzi, hata hivyo sasa unaweza kutumia Uwezo huu mara mbili katika mapambano yale yale. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
-- **Tumia Scrolls za Uchawi:** Inahitaji Kiapo kwa 90% au zaidi na mwezi mmoja wa mafunzo katika chama cha wezi. Wanachama pekee wa chama cha wezi wanaweza kuchukua Uwezo huu. Uwezo huu unamruhusu rogue kutupa ina kutoka kwa scroll yoyote ya mtumiaji wa uchawi bila hitaji la kuwa umetupa Read Magic hapo awali. Nafasi hii ni sawa na INT x5% yako. Kushindwa roll hii moja kwa moja husababisha Fumble kwa sababu ya ukosefu wako wa mafunzo na ufahamu wa sanaa za kichawi. Fumble inabadilisha athari za ina au kuziweka kwenye msomaji, chochote kinachodhuru zaidi kama inavyoamuliwa na whim ya Mwalimu wa Mchezo.
+#### Cheo MVU 4:
 
-#### Cheo 4:
+Uwezo wa Shambulio la Kushtukiza wa mwizi sasa hufanya uharibifu wa +1d6 kwa silaha za kugusa, na +1d4 ya uharibifu kwa silaha za masafa. Aidha, anaweza kuchukua Uwezo ufuatao kwa gharama ya 4 ya kurusha EXP kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
 
-Uwezo wa Shambulio la Siri wa rogue sasa unafanya +1d6 uharibifu na silaha za melee, +1d4 uharibifu na masafa. Kwa kuongeza, wanaweza kuchukua Uwezo wafuatao kwa gharama ya 4 EXP rolls kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
+- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwa Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii.
+- **Refleksi za Kujihami III:** Inahitaji Refleksi za Kujihami II. Kama ilivyo kwa Refleksi za Kujihami, hata hivyo sasa unaweza kutumia Uwezo huu mara tatu katika pambano moja. Hata hivyo, huwezi kurusha tena dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Pointi ya Bahati.
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi III:** Inahitaji Reflexes za Ulinzi II. Kama ilivyo kwa Reflexes za Ulinzi, hata hivyo sasa unaweza kutumia Uwezo huu mara tatu katika mapambano yale yale. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
+#### Cheo MVU 5:
 
-#### Cheo 5:
+Uwezo wa Shambulio la Kushtukiza wa mwizi sasa hufanya uharibifu wa +1d8 kwa silaha za kugusa, na +1d6 ya uharibifu kwa silaha za masafa. Aidha, anaweza kuchukua Uwezo ufuatao kwa gharama ya 5 ya kurusha EXP kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
 
-Uwezo wa Shambulio la Siri wa rogue sasa unafanya +1d8 uharibifu na silaha za melee, +1d6 uharibifu na masafa. Kwa kuongeza, wanaweza kuchukua Uwezo wafuatao kwa gharama ya 5 EXP rolls kila mmoja (kila mmoja anaweza kuchukuliwa mara moja tu):
+- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwa Sifa unayochagua. Hii haipaswi kuzidi viwango vya juu vya jamii.
+- **Refleksi za Kujihami IV:** Inahitaji Refleksi za Kujihami III. Kama ilivyo kwa Refleksi za Kujihami, hata hivyo sasa unaweza kutumia Uwezo huu mara nne katika pambano moja. Hata hivyo, huwezi kurusha tena dhidi ya shambulio lilelile zaidi ya mara moja, wala kuchanganya na Pointi ya Bahati.
 
-- **Ongezeko la Sifa:** Unaweza kuongeza +1 kwenye Sifa unayochagua. Hii haiwezi kuzidi kiwango cha juu cha rangi.
-- **Reflexes za Ulinzi IV:** Inahitaji Reflexes za Ulinzi III. Kama ilivyo kwa Reflexes za Ulinzi, hata hivyo sasa unaweza kutumia Uwezo huu mara nne katika mapambano yale yale. Hata hivyo, huwezi kurudia dhidi ya shambulio lile lile zaidi ya mara moja, wala kuchanganya na Nukta ya Bahati.
+### Vifaa vya Msingi vya Kuanzia vya Mwizi
 
-### Vifaa vya Msingi vya Kuanzia vya Rogue
-
-Kila kipengee cha mstari kinahesabiwa kama 1 'Kitu' kwa madhumuni ya Uzito isipokuwa ilivyobainishwa vinginevyo.
+Kila mstari huhesabiwa kama 'Kitu' 1 kwa madhumuni ya Uzito isipokuwa ikiwa imebainishwa vinginevyo.
 
 - Upanga mfupi
-- Ama visu 3 au sling na risasi 10 za risasi za risasi (1½ Vitu)
-- Seti kamili ya silaha za mwili za ngozi (0 Vitu wakati umevaliwa, 7 Vitu ikiwa imebebwa)
-- Lock picks na zana za wezi
-- Mkoba (uwezo wa Vitu 10), kiriba cha maji, chakula cha safari cha wiki moja, godoro la kulalia, gunia tupu dogo\*, jiwe la kugonganisha moto\*\*, taa, 2 chupa za mafuta (6½ Vitu vilivyomo)
-- Mfuko wa mkanda wenye vipande 4d4 vya dhahabu
+- Aidha majambia 3 au kombeo na risasi 10 za risasi za kombeo (Vitu 1½)
+- Seti kamili ya silaha za ngozi (Vitu 0 vinapovaliwa, Vitu 7 vinapobebwa)
+- Vifunguo vya kufuli na zana za wezi
+- Mkoba (uwezo wa Vitu 10), chupa ya maji, chakula MVU safari MVU wiki moja, godoro la kulalia, gunia dogo tupu\*, jiwe la kugonganisha na kiberiti\*\*, taa, chupa 2 za mafuta (Vitu 6½ vilivyomo)
+- Mfuko wa kiunoni na sarafu 4d4 za dhahabu
 
 Jumla ya ENC Vitu 5
 
-_\* Yaliyomo yanahesabiwa kuelekea yaliyomo kwenye mkoba kwa kuwa sauti yake imeongezeka._
+_\* Yaliyomo huhesabiwa kuelekea yaliyomo kwenye mkoba kwani ujazo wake umeongezeka._
 
-_\*\* Inahesabiwa kama ½ ya Kitu._
-
---- DOCUMENT END ---
+_\*\* Huhesabiwa kama ½ ya Kitu._

@@ -1,181 +1,179 @@
 # Poglavlje 3: Klase
 
-Svaki lik u igri _Classic Fantasy Imperative_ započinje igru obučen u nekoj klasi. Ova klasa je karijera kojom se lik bavi kao deo prelaza u odraslo doba i ona dalje definiše razvoj veština lika.
+Svaki lik u igri _Classic Fantasy Imperative_ započinje igru obučen u nekoj klasi. Klasa je karijera kojom se lik bavi kao delom prelaska u odraslo doba, i ona dalje definiše razvoj veština lika.
 
-Igrači mogu slobodno da izaberu rasno i kulturološki prikladnu klasu za svog lika, pod uslovom da je Gospodar igre (Games Master) smatra pogodnom. Opisi daju određene smernice o tome koje rase obično gravitiraju ka određenoj klasi. Ovi predlozi nisu konačni i mogu se menjati prema izboru igrača ili da bi se prilagodili egzotičnijim svetovima igre. Na primer, u kampanji smeštenoj u umirući svet pustinje, gde su polutani (halflings) plemenski, kanibalistički narod, ne bi bilo neobično dozvoliti im da postanu berserkeri. Igrači ne bi trebalo da posmatraju ova rasna/kulturna ograničenja kao čvrsta i nepromenljiva pravila, već kao standardne polazne tačke. Igrači treba slobodno da predlože alternative svom Gospodaru igre koji, zauzvrat, može dozvoliti inače neobičnu kombinaciju rase i klase kako bi se uklopila u neobičnije okruženje kampanje ili nagradila kreativnu pozadinsku priču.
+Igračima je dozvoljeno da izaberu rasno i kulturno prikladnu klasu za svog lika, pod uslovom da je Game Master (GM) smatra pogodnom. Opisi pružaju smernice o rasama koje obično naginju određenoj klasi. Ovi predlozi nisu definitivni i mogu se menjati prema izboru igrača ili kako bi se prilagodili egzotičnijim okruženjima igre. Na primer, u kampanji zasnovanoj na umirućem pustinjskom svetu, gde su halflinzi plemenski, kanibalistički narod, ne bi bilo isključeno dozvoliti im da postanu berserkeri. Igrači ove rasne/kulturne restrikcije ne treba da posmatraju kao stroga i nepromenljiva pravila, već kao standardne polazne tačke. Igrači treba slobodno da predlažu alternative svom Game Masteru koji, zauzvrat, može dozvoliti neuobičajenu kombinaciju rase i klase kako bi se uklopila u neobičnije okruženje kampanje ili kako bi nagradio kreativnu pozadinsku priču.
 
 #### Struktura ranga klase
 
-Struktura klase i ranga u igri _Classic Fantasy Imperative_ zasnovana je na različitim organizacijama kao što su Redovi ili Esnafi. Na primer, Esnaf boraca, Klerički red, Esnaf magova i Esnaf lopova.
+Struktura klase i ranga u _Classic Fantasy Imperative_ zasniva se na raznim organizacijama kao što su redovi ili esnafi. Na primer, Esnaf boraca, Klerički red, Esnaf magova i Esnaf lopova.
 
-Rang se koristi kao alat za usmeravanje razvoja lika, a većina struktura klasa je raspoređena u piramidalnoj hijerarhiji. Obični članovi (Rang 0) čine osnovu piramide i najbrojniji su članovi klase.
+Rang se koristi kao alat za usmeravanje razvoja lika, a većina struktura klasa je organizovana u piramidalnu hijerarhiju. Obični članovi (Rang 0) čine osnovu piramide i najbrojniji su članovi klase.
 
-Viši rangovi (Rang 1–5) predstavljaju profesionalne članove klase, koji rade puno radno vreme prema njenim ukazima.
+Viši rangovi (Rang 1–5) predstavljaju profesionalne članove klase, koji rade puno radno vreme u skladu sa njenim ediktima.
 
-Brojevi se smanjuju kako se napreduje kroz rangove, sve dok samo nekolicina pojedinaca, ili čak samo jedan, ne zauzme gornje ešalone. Napredovanje donosi veću privilegiju, prestiž, znanje, a ponekad i magiju ili druge pogodnosti.
+Brojevi se smanjuju kako se napreduje kroz rangove sve dok samo šačica pojedinaca, ili čak samo jedan, ne zauzme gornje ešalone. Napredak donosi veće privilegije, prestiž, znanje, a ponekad i magiju ili druge beneficije.
 
 #### Napredovanje u rangu
 
-Likovi teže da se uzdignu u rangovima u potrazi za većim poštovanjem, reputacijom ili odgovornošću, ili jednostavno iz žeđi za znanjem i moći.
+Likovi nastoje da se uzdignu u rangovima u potrazi za većim poštovanjem, reputacijom ili odgovornošću, ili jednostavno iz žeđi za znanjem i moći.
 
-Svaka klasa zahteva nekoliko klasnih veština na određenom nivou za napredovanje. Kada se lik prvi put kreira, ove veštine će odrediti početni rang lika. Posedovanje bilo kojih 5 klasnih veština na 40% ili više postaviće lika na Rang 1, jer to pokazuje da je osoba sposobna i dostojna posebnih sposobnosti tog ranga. U suprotnom, lik počinje na Rangu 0. Kada lik konačno postane Rang 1, sve sposobnosti koje nisu navedene kao "rangirane" mogu se steći bez troškova u iskustvenim poenima (Experience Rolls), jer se može pretpostaviti da je lik vežbao ove sposobnosti tokom igre. Rangirane sposobnosti se mogu kupiti normalno iskustvenim poenima jednom kada se postigne Rang 1.
+Svaka klasa zahteva nekoliko klasnih veština na određenom nivou za napredovanje. Kada se lik prvi put kreira, ove veštine će odrediti početni rang lika. Posedovanje bilo kojih 5 klasnih veština na 40% ili više postaviće lika na Rang 1, jer to pokazuje da je osoba sposobna i dostojna posebnih sposobnosti tog ranga. U suprotnom, lik počinje na Rangu 0. Kada lik konačno postane Rang 1, sve sposobnosti koje nisu označene kao rangirane mogu se steći bez troškova u poenima iskustva (Experience Rolls), jer se može pretpostaviti da je lik vežbao ove sposobnosti tokom igre. Rangirane sposobnosti se mogu normalno kupiti poenima iskustva kada se dostigne Rang 1.
 
-Kada se postigne dalji stepen majstorstva, zasnovan na veštinama lika, lik ponovo povećava svoj rang. U tom trenutku se mogu naučiti sposobnosti i čini tog ranga, jer je lik pokazao neophodan nivo razumevanja i veštine.
+Kada se postigne dalji stepen majstorstva, zasnovan na veštinama lika, lik ponovo povećava svoj rang. U tom trenutku se mogu naučiti sposobnosti i čini koje su ocenjene tim rangom, jer je lik pokazao potreban nivo razumevanja i veštine.
 
-Uglavnom, ako je lik u dobrom položaju u odnosu na bilo koje zakletve koje klasa zahteva i poseduje potreban broj klasnih veština na potrebnom nivou, lik će automatski napredovati na odgovarajući rang. Svaki rang iznad 1 takođe omogućava likovima da dodaju još jedan poen sreće (Luck Point) na svoj ukupni zbir, dajući im bolje šanse da prežive teže susrete bez potrebe za veštačkim povećanjem svojih Hit poena. Svaka klasa poseduje tabelu koja detaljno opisuje zahteve za veštine po rangu, kao i rezime svih dostupnih rangiranih talenata i/ili sposobnosti. Sledeći tekst pruža opis svakog elementa u ovim tabelama:
+Uglavnom, ako je lik u dobrim odnosima sa svim zakletvama koje klasa zahteva i poseduje potreban broj klasnih veština na traženom nivou, lik će automatski napredovati na odgovarajući rang. Svaki rang iznad 1 takođe omogućava likovima da dodaju još jedan poen sreće (Luck Point) na svoj ukupan zbir, dajući im bolje šanse da prežive teže susrete bez potrebe da veštački povećavaju svoje pogotke (Hit Points). Svaka klasa poseduje tabelu sa detaljima o zahtevima veština po rangu, kao i sažetak svih dostupnih rangiranih talenata i/ili sposobnosti. Sledeći tekst pruža opis svakog elementa unutar ovih tabela:
 
 - **Rang:** Numerički prikaz ranga lika.
-- **Titula:** Titula koja se dodeljuje liku odgovarajućeg ranga.
-- **Napredovanje:** Broj klasnih veština i potreban nivo veštine potreban za sticanje relevantnog ranga. One se mogu izabrati iz bilo koje navedene klasne veštine. Nema potrebe da se biraju unapred. Veštine koje dobijaju bonus od +40, kao što su Običaji i Maternji jezici, nikada se ne računaju za napredovanje.
-- **Čini u memoriji:** Ako je primenjivo, ovo pokazuje koliko čini svakog ranga možete imati memorisano.
-- **Hit poeni:** Određeni rangovi daju dodatni Hit poen, koji se dodaje na sve lokacije. Navedena vrednost uključuje sve prethodne bonuse.
-- **Poeni sreće:** Svaki rang nakon prvog daje liku 1 dodatni poen sreće. Navedena vrednost uključuje sve prethodne bonuse.
-- **Akcioni poeni:** Određeni rangovi daju dodatni Akcioni poen. Navedena vrednost uključuje sve prethodne bonuse.
+- **Titula:** Titula dodeljena liku odgovarajućeg ranga.
+- **Napredovanje:** Broj klasnih veština i potreban nivo veštine za sticanje relevantnog ranga. Ove veštine se mogu izabrati sa bilo koje od navedenih klasnih veština. Nema potrebe da ih birate unapred. Veštine koje dobijaju bonus +40, kao što su Običaji i Maternji jezici, nikada se ne računaju za napredovanje.
+- **Čini u sećanju:** Ako je primenjivo, ovo pokazuje koliko čini svakog ranga možete imati zapamćenih.
+- **Pogoci (Hit Points):** Određeni rangovi daju dodatni pogodak, koji se dodaje na sve lokacije. Zabeležena vrednost uključuje sve prethodne bonuse.
+- **Poeni sreće (Luck Points):** Svaki rang nakon prvog dodeljuje liku 1 dodatni poen sreće. Zabeležena vrednost uključuje sve prethodne bonuse.
+- **Akcioni poeni (Action Points):** Određeni rangovi daju dodatni akcioni poen. Zabeležena vrednost uključuje sve prethodne bonuse.
 
 ---
 ## Klerik
 
-Klerici su militantno krilo verskog reda i vešti su u zaštiti svoje vere i njenih sledbenika. Tokom vremena relativnog mira, klerici putuju zemljom šireći reč svog panteona i tražeći obraćenike. Klerici su blagosloveni sposobnošću da bacaju čini od strane božanstava svog panteona i takođe su majstori borbe protiv nemrtvih, posedujući kapacitet da ih oteraju samo izgovorenom molitvom.
+Klerici su militantno krilo verskog reda i vešti su u zaštiti svoje vere i njenih sledbenika. Tokom vremena relativnog mira, klerici putuju zemljom šireći reč svog panteona i tražeći obraćenike. Klerici su blagosloveni sposobnošću da bacaju čini od strane božanstava svog panteona, a takođe su i majstori borbe protiv nemrtvih, posedujući kapacitet da ih oteraju samo izgovorenom molitvom.
 
-#### Uobičajene rase/kulture
+#### Uobičajena vrsta/kultura
 
 Bilo koja.
 
 #### Važne karakteristike
 
-STR, INT, POW i CHA
+SNA, INT, MOĆ i HAR
 
-#### Zahtevi za usmerenje/zakletvu
+#### Poravnanje/Zahtevi zakletve
 
-- Usmerenje (Alignment): Bilo koje, kako priliči panteonu ili božanstvu.
-- Klerička zakletva 30% plus INT+POW lika.
+- Poravnanje: Bilo koje, prema prikladnosti za panteon ili božanstvo.
+- Klerička zakletva 30% plus INT+MOĆ lika.
 
-Pogledajte [Poglavlje 4: Usmerenje i strasti](0004_Alignment_and_Passions.md).
+Vidi [Poglavlje 4: Poravnanje i strasti](0004_Alignment_and_Passions.md).
 
-Pored rasnog/kulturološkog usmerenja i strasti, svi klerici polažu Zakletvu ponašanja svom kleričkom redu i božanstvu ili panteonu božanstava koje red poštuje. Deo zakletve obično uključuje davanje 10% svog bogatstva redu. Tamo gde je u pitanju panteon, usmerenje lika će se koristiti za pomoć u određivanju koja božanstva željenog panteona će se poštovati. Obično će se red posvetiti svim božanstvima određenog panteona sa sličnim strastima. Klerik se obično usklađuje sa svim božanstvima određenog panteona čije usmerenje nije suprotno njegovom. Na primer, klerik sa Dobrim usmerenjem bi služio i poštovao sva dobra i neutralna božanstva svog panteona. Oni mogu raditi protiv onih božanstava zlog karaktera, ili ih čak priznati i poštovati, ali im ne bi nudili obožavanje. Istinski neutralni klerik može izabrati ili dobra ili zla božanstva zajedno sa onima neutralnog karaktera ako to želi, ali ne može izabrati oba.
+Pored rasnog/kulturnog poravnanja i strasti, svi klerici polažu zakletvu o ponašanju svom kleričkom redu i božanstvu ili panteonu božanstava koje red poštuje. Deo zakletve obično uključuje davanje desetka (10%) svog bogatstva redu. Tamo gde je u pitanju panteon, poravnanje lika će se koristiti za određivanje koja božanstva željenog panteona će biti obožavana. Obično će se red posvetiti svim božanstvima određenog panteona sa sličnim strastima. Klerik se obično poravnava sa svim božanstvima određenog panteona sa poravnanjem koje nije suprotno njegovom sopstvenom. Na primer, klerik sa dobrim poravnanjem bi služio i poštovao sva dobra i neutralna božanstva svog panteona. Oni mogu raditi protiv onih božanstava zlih sklonosti, ili ih čak priznavati i poštovati, ali im ne bi nudili nikakvo obožavanje. Klerik istinski neutralnog poravnanja može izabrati ili dobra ili zla božanstva zajedno sa onima neutralne sklonosti ako to želi, ali ne može izabrati oba.
 
 #### Klasne veštine
 
-- **Standardne veštine:** Borbena veština (Klerik), Prva pomoć, Uticaj, Uvid, Lokalitet, Pojanje, Snaga volje
-- **Profesionalne veštine:** Klerik automatski dobija Kanalisane i Pobožnost (određeni panteon ili božanstvo), plus 3 dodatne veštine iz sledećeg: Birokratija, Učtivost, Kultura (bilo koja), Isceljenje, Znanje (Alhemija), Znanje (Religija), Jezik (bilo koji) ili Znanje (bilo koje), i Besedništvo.
+- **Standardne veštine:** Borbena veština (Klerik), Prva pomoć, Uticaj, Uvid, Lokalitet, Pevanje, Snaga volje.
+- **Profesionalne veštine:** Klerik automatski dobija Kanalisanje i Odanost (određeni panteon ili božanstvo), plus 3 dodatne veštine iz sledećeg: Birokratija, Ljubaznost, Kultura (bilo koja), Isceljivanje, Znanje (Alhemija), Znanje (Religija), Jezik (bilo koji) ili Znanje (bilo koje), i Oratorstvo.
 
 #### Klerički oklop i veština rukovanja oružjem
 
-Klerici su vešti sa svim vrstama oklopa (laganim i teškim), i sa svim štitovima (osim tornih štitova). Bacanje kleričkih božanskih čini nije ometano nošenjem oklopa. Njihova borbena veština uključuje upotrebu svih osnovnih oružja. Specijalizovani klerici mogu imati pristup različitim oružjima kao deo svoje borbene veštine. Ovo je izvan okvira ovog dokumenta, međutim Gospodari igre mogu primeniti ove informacije ako odluče da to učine.
+Klerici su vešti sa svim vrstama oklopa (lagani i teški), i sa svim štitovima (osim kule-štitova). Kleričko bacanje božanskih čini nije ometano nošenjem oklopa. Njihova borbena veština uključuje upotrebu svih osnovnih oružja. Specijalizovani klerici mogu imati pristup različitim oružjima kao deo svoje borbene veštine. Ovo je izvan okvira ovog dokumenta, međutim, Game Masteri mogu primeniti ove informacije ako odluče da to učine.
 
 ### Struktura ranga
 
-Svi klerici su ocenjeni rangom, koji je ocena moći i veštine. Kada se stekne određeni stepen majstorstva u ograničenom broju klasnih veština, klerici mogu povećati svoj rang jer će pokazati neophodan nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni poen sreće i mogu se steći nove sposobnosti. Ove informacije se nalaze u sledećoj tabeli pod Napredovanje. Pod pretpostavkom da ispunjavate preduslove, vaš lik počinje kao Rang 1 Inicijat sa odgovarajućim sposobnostima navedenim ispod; u suprotnom, počinjete kao Rang 0 Član laik sa sposobnošću da bacate čini Ranga 0, ali bez drugih sposobnosti.
+Svi klerici su ocenjeni rangom, koji je ocena moći i veštine. Kada se stekne određeni stepen majstorstva u ograničenom broju klasnih veština, klerici mogu povećati svoj rang jer će pokazati potreban nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni poen sreće i mogu se steći nove sposobnosti. Ove informacije se nalaze u sledećoj tabeli pod Napredovanje. Pod pretpostavkom da ispunjavate preduslove, vaš lik započinje kao inicijat Ranga 1 sa odgovarajućim sposobnostima navedenim ispod; u suprotnom, počinjete kao laik Ranga 0 sa sposobnošću bacanja čini Ranga 0, ali bez drugih sposobnosti.
 
 ##### Tabela ranga klerika
 
-| Rang | Titula | Napredovanje | Čini u memoriji | Hit poeni | Poeni sreće | Akcioni poeni |
+| Rang | Titula | Napredovanje | Čini u sećanju | Pogoci | Poeni sreće | Akcioni poeni |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Član laik | - | Rang 0: (INT/4) | 0 | +0 | +0 |
+| **0** | Laik | - | Rang 0: (INT/4) | 0 | +0 | +0 |
 | **1** | Inicijat | Bilo kojih 5 klasnih veština na 40% | Rang 0: (INT/4) +1<br> Rang 1: (INT/4) | 0 | +0 | +0 |
 | **2** | Klerik | Bilo kojih 5 klasnih veština na 70% | Rang 0: (INT/4) +2<br> Rang 1: (INT/4) +2<br> Rang 2: (INT/4) | +1 | +1 | +1 |
 | **3** | Sveštenik ili sveštenica | Bilo koje 4 klasne veštine na 90% | Rang 0: (INT/4) +3<br> Rang 1: (INT/4) +4<br> Rang 2: (INT/4) +2<br> Rang 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Visoki sveštenik ili Visoka sveštenica | Bilo koje 3 klasne veštine na 110% | Rang 0: (INT/4) +4<br> Rang 1: (INT/4) +6<br> Rang 2: (INT/4) +4<br> Rang 3: (INT/4) +2<br> Rang 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Veliki sveštenik ili Velika sveštenica | Bilo koje 2 klasne veštine na 130% | Rang 0: (INT/4) +5<br> Rang 1: (INT/4) +8<br> Rang 2: (INT/4) +6<br> Rang 3: (INT/4) +4<br> Rang 4: (INT/4) +2<br> Rang 5: (INT/4) | +2 | +4 | +2 |
+| **4** | Visoki sveštenik ili sveštenica | Bilo koje 3 klasne veštine na 110% | Rang 0: (INT/4) +4<br> Rang 1: (INT/4) +6<br> Rang 2: (INT/4) +4<br> Rang 3: (INT/4) +2<br> Rang 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Veliki sveštenik ili sveštenica | Bilo koje 2 klasne veštine na 130% | Rang 0: (INT/4) +5<br> Rang 1: (INT/4) +8<br> Rang 2: (INT/4) +6<br> Rang 3: (INT/4) +4<br> Rang 4: (INT/4) +2<br> Rang 5: (INT/4) | +2 | +4 | +2 |
 
 #### Početne sposobnosti
 
-Klerik poznaje sve sledeće sposobnosti na Rangu 1. Pored toga, tokom kreiranja lika, možete besplatno izabrati jednu sposobnost Ranga 1 pod pretpostavkom da ispunjavate njene zahteve.
+Klerik poznaje sve sledeće sposobnosti na Rangu 1. Pored toga, tokom kreiranja lika, možete besplatno izabrati jednu sposobnost Ranga 1 pod pretpostavkom da ispunjavate njene uslove.
 
-- **Bacač čini:** Klerici su majstori božanske magije, sposobni da bacaju čini isceljenja, odbrane i zaštite da pomognu svojim saveznicima. Međutim, oni nisu bez moćnih ofanzivnih čini da udare one koji se protive njihovim idealima. Za razliku od magova, klericima nije potrebna knjiga čini, jer imaju pristup svim činima svog ranga ili nižim. Bacanje čini zahteva 1 ili više akcija bacanja magije koje se sastoje od nekoliko kratkih molitvi, somatskih gestova sa njihovim svetim simbolom i uspešnog bacanja Kanalisanja. Broj čini njihovog trenutnog ranga koje klerik može imati u memoriji nalazi se u [Tabeli ranga klerika](0003_Classes.md?id=cleric-rank-table) iznad pod Čini u memoriji.
-- **Početne čini:** Klerik počinje sa pristupom svim kleričkim činima Ranga 0 i svim ostalima svog ranga ili nižim. Pogledajte [Listu kleričkih čini](0003_Classes.md?id=cleric-spell-list). Oni ih zapravo ne znaju, kao što mag 'zna' čini, ali se mogu moliti za bilo koju od njih kada biraju koje čini će memorisati. Broj čini koje klerik može memorisati na svakom rangu nalazi se u tabeli ranga klerika iznad. Pogledajte [Memorisanje čini](0009_Magic.md?id=memorizing-spells) za više detalja.
+- **Bacalac čini:** Klerici su majstori božanske magije, sposobni da bacaju čini isceljivanja, odbrane i zaštite kako bi pomogli svojim saveznicima. Međutim, oni nisu bez moćnih ofanzivnih čini za udaranje onih koji stoje protiv njihovih ideala. Za razliku od magova, klerici ne zahtevaju knjigu čini, jer imaju pristup svim činima svog ranga ili nižeg. Bacanje čini zahteva 1 ili više akcija bacanja magije koje se sastoje od nekoliko kratkih molitvi, somatskih gestova sa njihovim svetim simbolom i uspešnog bacanja za Kanalisanje. Broj čini trenutnog ranga koje klerik može imati u sećanju nalazi se u [Tabeli ranga klerika](0003_Classes.md?id=cleric-rank-table) iznad pod Čini u sećanju.
+- **Početne čini:** Klerik započinje sa pristupom svim kleričkim činima Ranga 0 i svim ostalim čija su ranga ili niža. Vidi [Listu kleričkih čini](0003_Classes.md?id=cleric-spell-list). Oni ih zapravo ne znaju, kao što mag "zna" čini, ali mogu da se mole za bilo koju od njih kada biraju koje čini će zapamtiti. Broj čini koje klerik može zapamtiti na svakom rangu nalazi se u tabeli ranga klerika iznad. Vidi [Memorisanje čini](0009_Magic.md?id=memorizing-spells) za više detalja.
 - **Teranje nemrtvih:** Klerici mogu terati nemrtve, terajući ih samo snagom vere. [Teranje nemrtvih](0003_Classes.md?id=turning-undead) je detaljno opisano ispod.
 
 #### Rangirane sposobnosti
 
-Kao što ime sugeriše, rangirane sposobnosti može izabrati samo lik određenog ranga ili višeg. Većina ima preduslovnu veštinu koja mora biti na određenom nivou veštine ili višem. Niste zaključani iz ranijih sposobnosti kada se postigne novi rang. Ako niste uspeli da uzmete sposobnost Ranga 2, na primer, možete se vratiti i uzeti je na Rangu 3 ili čak kasnije. Ne više od jedne rangirane sposobnosti se može uzeti po sesiji.
+Kao što ime sugeriše, rangirane sposobnosti mogu izabrati samo likovi određenog ranga ili višeg. Većina ima preduslovnu veštinu koja mora biti na određenom nivou veštine ili višem. Niste zaključani od ranijih sposobnosti kada se postigne novi rang. Ako niste uspeli da uzmete sposobnost Ranga 2, na primer, možete se vratiti i uzeti je na Rangu 3 ili čak kasnije. Ne može se uzeti više od jedne rangirane sposobnosti po sesiji.
 
 #### Rang 1:
 
-Za svaki utrošak od 1 iskustvenog poena možete dobiti jednu od sledećih sposobnosti (jedna po sesiji, i svaka sposobnost se može uzeti samo jednom):
+Za svaki utrošak od 1 poena iskustva možete steći jednu od sledećih sposobnosti (jedna po sesiji, i svaka sposobnost se može uzeti samo jednom):
 
-- **Moćna koncentracija:** Zahteva Pobožnost od 50% ili više. Testovi Snage volje za održavanje koncentracije u vezi sa činima i bacanjem čini su za jedan stepen lakši.
-- **Veće teranje:** Zahteva Snagu volje od 60% ili više. Moć teranja se može ponovo baciti ako se želi, međutim novo bacanje se mora koristiti.
-- **Sveti udar:** Zahteva Pobožnost i Snagu volje od 50% ili više. Klerik može povećati svoj modifikator štete za jedan stepen protiv nemrtvih, demona i đavola. Može se koristiti jednom dnevno po postignutom rangu.
-- **Mentalna snaga I:** Zahteva Pobožnost od 60% ili više. Jednom dnevno smatrate da je 2 stepena lakše obaviti provere Snage volje kada se odupirete bilo kom obliku magije koja cilja um. Ovo uključuje moći kao što su očaravanje, šarm, dominacija, držanje, hipnoza, Magična posuda, posedovanje, spavanje, sugestija i psionički mentalni udar. Nema uticaja na veštine kao što su Uticaj ili Zavođenje. Takođe smatrate da je 1 stepen lakše neverovati iluzijama i fantazmagorijama. U slučaju vilenjaka, ovo se ne akumulira sa njihovom otpornošću na Spavanje i Šarm, ali proširuje njihovu sposobnost da se odupru dodatnim efektima.
-- **Preciznost oružja:** Vešti ste u korišćenju malih, sakrivajućih oružja koja ne zahtevaju mnogo snage, suptilno i efikasno. Ovo vam omogućava da izračunate Modifikator štete sa ovim oružjima na osnovu STR+DEX umesto STR+SIZ ako bi to dalo bolji rezultat. Modifikator štete ne može premašiti normalnu kocku štete oružja. Na primer, bodež sa štetom od 1d4+1 bi bio ograničen na Modifikator štete od +1d4, čineći ga 1d4+1+1d4. Ovo pokriva palice, bodeže, garote, noževe, kratke mačeve, main gauche i rapire, kao i nenaoružane napade. Pikado, praćke, kratki lukovi i koplja takođe spadaju u ovu kategoriju.
+- **Moćna koncentracija:** Zahteva Odanost od 50% ili više. Testovi Snage volje za održavanje koncentracije u vezi sa činima i bacanjem čini su za jedan stepen lakši.
+- **Veće teranje:** Zahteva Snagu volje od 60% ili više. Snaga teranja se može ponovo baciti ako se želi, međutim novo bacanje se mora iskoristiti.
+- **Sveti udar:** Zahteva Odanost i Snagu volje od 50% ili više. Klerik može povećati svoj modifikator štete za jedan stepen protiv nemrtvih, demona i đavola. Može se koristiti jednom dnevno po dostignutom rangu.
+- **Mentalna snaga I:** Zahteva Odanost od 60% ili više. Jednom dnevno smatrate da je 2 stepena lakše izvršiti provere Snage volje kada se odupirete bilo kom obliku magije koja cilja um. Ovo uključuje moći kao što su očaravanje, šarmiranje, dominacija, držanje, hipnoza, Magična posuda, posednutost, spavanje, sugestija i psionički mentalni udar. Nema uticaja na veštine kao što su Uticaj ili Zavođenje. Takođe smatrate da je 1 stepen lakše neverovati iluzijama i fantazmagorijama. U slučaju vilenjaka, ovo se ne akumulira sa njihovim otporom na Spavanje i Šarm, ali proširuje njihovu sposobnost da se odupru dodatnim efektima.
+- **Preciznost oružja:** Vi ste vešti u korišćenju malog, sakrivenog oružja koje ne zahteva mnogo snage, suptilno i efikasno. Ovo vam omogućava da izračunate modifikator štete sa ovim oružjem na osnovu SNA+SPR umesto SNA+VEL ako bi to generisalo bolji rezultat. Modifikator štete ne može premašiti normalnu kocku štete oružja. Na primer, bodež sa štetom 1d4+1 bi bio ograničen na modifikator štete od +1d4, čineći ga 1d4+1+1d4. Ovo pokriva buzdovane, bodeže, garote, noževe, kratke mačeve, main gauche i rapire, kao i nenaružane napade. Pikado, praćke, kratki lukovi i koplja takođe spadaju u ovu kategoriju.
 
 #### Rang 2:
 
-Za svaki utrošak od 2 iskustvena poena možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Za svaki utrošak od 2 poena iskustva možete steći jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi I:** Odbrambeni refleksi zahtevaju da budete neopterećeni (manje 'Stvari' nošenih nego STR), ne noseći ništa restriktivnije od laganog oklopa. Jednom po borbi možete ponovo baciti neuspešno pariranje ili izbegavanje bez trošenja poena sreće.
-- **Dodatno teranje:** Zahteva Pobožnost i Snagu volje od 80% ili više. Klerik može udvostručiti broj puta između odmora da može terati. Dvaput na Rangu 1, četiri puta na Rangu 3 i šest puta na Rangu 5.
-- **Mentalna snaga II:** Zahteva Mentalnu snagu I i Pobožnost od 80% ili više. Kao kod Mentalne snage I, ali se može koristiti dvaput dnevno.
-- **Dodir na daljinu (X):** Zahteva Snagu volje od 80% ili više. Ova sposobnost omogućava bacaču da čini sa dometom "Dodir" da domet od 30 stopa. Čini se smatra za jedan rang višim u pogledu memorisanja i treba je zabeležiti kao dalekometnu kada se memoriše. Na primer, Lečenje manjih rana (na daljinu) bi se računalo kao čin Ranga 2.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne može premašiti rasne maksimume.
+- **Defanzivni refleksi I:** Defanzivni refleksi zahtevaju da budete neopterećeni (manje "stvari" nošenih od SNA), ne noseći ništa restriktivnije od laganog oklopa. Jednom po borbi možete ponovo baciti neuspešan test pariranja ili izmicanja bez trošenja poena sreće.
+- **Dodatno teranje:** Zahteva Odanost i Snagu volje od 80% ili više. Klerik može udvostručiti broj puta između odmora koliko može da tera. Dva puta na Rangu 1, četiri puta na Rangu 3 i šest puta na Rangu 5.
+- **Mentalna snaga II:** Zahteva Mentalnu snagu I i Odanost od 80% ili više. Kao Mentalna snaga I, ali se može koristiti dva puta dnevno.
+- **Dodir na daljinu (X):** Zahteva Snagu volje od 80% ili više. Ova sposobnost omogućava bacaču da čini sa dometom "Dodir" da domet od 30 stopa. Čin se smatra jedan rang višom u pogledu memorisanja i treba je zabeležiti kao daljinsku kada se memoriše. Na primer, Lečenje manjih rana (Daljinsko) bi se računalo kao čin Ranga 2.
 
 #### Rang 3:
 
-Za svaki utrošak od 3 iskustvena poena možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Za svaki utrošak od 3 poena iskustva možete steći jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Poboljšani sveti udar:** Zahteva Sveti udar, kao i Pobožnost i Snagu volje od 90% ili više. Modifikator štete Svetog udara je sada povećan za dva stepena protiv nemrtvih, demona i đavola.
-- **Mentalna snaga III:** Zahteva Mentalnu snagu II i Pobožnost od 100% ili više. Kao kod Mentalne snage I, ali se može koristiti tri puta dnevno.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne može premašiti rasne maksimume.
+- **Poboljšani sveti udar:** Zahteva Sveti udar, kao i Odanost i Snagu volje od 90% ili više. Modifikator štete Svetog udara je sada povećan za dva stepena protiv nemrtvih, demona i đavola.
+- **Mentalna snaga III:** Zahteva Mentalnu snagu II i Odanost od 100% ili više. Kao Mentalna snaga I, ali se može koristiti tri puta dnevno.
 
 #### Rang 4:
 
-Za svaki utrošak od 4 iskustvena poena možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Za svaki utrošak od 4 poena iskustva možete steći jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi II:** Zahteva Odbrambene reflekse I. Kao kod Odbrambenih refleksa, međutim sada možete koristiti ovu sposobnost dvaput u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, međutim.
-- **Mentalna snaga IV:** Zahteva Mentalnu snagu III i Zakletvu ili Pobožnost od 120% ili više. Kao kod Mentalne snage I, ali se može koristiti četiri puta dnevno.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne može premašiti rasne maksimume.
+- **Defanzivni refleksi II:** Zahteva Defanzivne reflekse I. Kao Defanzivni refleksi, međutim sada možete koristiti ovu sposobnost dva puta u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, međutim.
+- **Mentalna snaga IV:** Zahteva Mentalnu snagu III i Zakletvu ili Odanost od 120% ili više. Kao Mentalna snaga I, ali se može koristiti četiri puta dnevno.#### Rang 5:
 
-#### Rang 5:
+Za svaki utrošak od 5 Iskustvenih bacanja možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom):
 
-Za svaki utrošak od 5 iskustvenih poena možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Veći sveti udarac:** Zahteva Poboljšani sveti udarac, kao i Odanost i Moć od 130% ili više. Modifikator štete Svetog udarca je sada povećan za četiri stepena protiv nemrtvih, demona i đavola!
+- **Mentalna snaga V:** Zahteva Mentalnu snagu IV i Zakletvu ili Odanost od 140% ili više. Kao Mentalna snaga I, ali se može koristiti pet puta dnevno.
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Veći sveti udar:** Zahteva Poboljšani sveti udar, kao i Pobožnost i Snagu volje od 130% ili više. Modifikator štete Svetog udara je sada povećan za četiri stepena protiv nemrtvih, demona i đavola!
-- **Mentalna snaga V:** Zahteva Mentalnu snagu IV i Zakletvu ili Pobožnost od 140% ili više. Kao kod Mentalne snage I, ali se može koristiti pet puta dnevno.
+### Osnovna početna oprema klirika
 
-### Osnovna početna oprema klerika
-
-Svaka stavka se računa kao 1 'Stvar' za svrhe težine (Encumbrance) osim ako nije drugačije navedeno.
+Svaka stavka se računa kao 1 "Stvar" za svrhe opterećenja, osim ako nije drugačije naznačeno.
 
 - Buzdovan
-- Štit tipa "grejač" (računa se kao 2 stvari)
-- Lagani samostrel
-- Futrola sa 20 vijaka za samostrel
-- Puni set ljuskastog oklopa, 4 oklopna poena (0 stvari kada se nosi, 7 stvari ako se nosi u rukama)
-- Drveni sveti simbol božanstva (½ stvari)
-- Ruksak (kapacitet 10 stvari); meh za vodu, trail racije za nedelju dana, vreća za spavanje, mala prazna vreća*, kremen i kresivo**, 2 šestosatne baklje (5½ stvari sadržano)
+- Štit tipa "grejač" (računa se kao 2 Stvari)
+- Laki samostrel
+- Tobolac sa 20 samostrelnih strela
+- Puni ljuskasti oklop, 4 Poena oklopa (0 Stvari kada se nosi, 7 Stvari ako se nosi u ruci/torbi)
+- Drveni sveti simbol božanstva (½ Stvari)
+- Ranac (kapacitet 10 Stvari); mešina za vodu, nedeljne sledovanja hrane za put, vreća za spavanje, mala prazna vreća*, kremen i kresivo**, 2 baklje od šest sati (5½ Stvari sadržaja)
 - Torbica na pojasu sa 1d4 zlatnika
 
-Ukupno ENC 7½ stvari
+Ukupno OPTEREĆENJE 7½ Stvari
 
-_* Sadržaj se računa u sadržaj ruksaka jer se njegova zapremina povećava._
+_* Sadržaj se računa u sadržaj ranca jer se njegova zapremina povećava._
 
-_** Računa se kao ½ stvari._
+_\*\* Računa se kao ½ Stvari._
 
-### Teranje nemrtvih
+### Okretanje nemrtvih
 
-Klerici bilo kog usmerenja mogu pokušati da teraju bilo koje nemrtve unutar 30 stopa. Zli klerici mogu izabrati da kontrolišu nemrtve umesto toga, ako žele. Možete pokušati da terate nemrtve jednom na Rangu 1, dvaput na Rangu 3 i tri puta na Rangu 5. Vraćate sve upotrebe Teranja nakon kratkog odmora od najmanje 1 sat.
+Klirici bilo kog opredeljenja mogu pokušati da okrenu bilo kog nemrtvog u krugu od 30 stopa. Zli klirici mogu izabrati da kontrolišu nemrtve umesto toga, ako žele. Možete pokušati da okrenete nemrtve jednom na Rangu 1, dvaput na Rangu 3 i triput na Rangu 5. Vraćate sve upotrebe Okretanja nakon Kratkog odmora od najmanje 1 sat.
 
-_Na primer, Aleksandra je klerik Ranga 4. Ona može pokušati da tera dva puta tokom susreta, i ako se odmori najmanje sat vremena nakon toga, povratiće obe upotrebe._
+_Na primer, Aleksandra je klirik Ranga 4. Ona može pokušati da okrene dva puta tokom jednog susreta, i ako se odmara najmanje sat vremena nakon toga, povratiće obe upotrebe._
 
-**Moć teranja:** Moć teranja klerika modifikuje ukupni intenzitet nemrtvih koji su uspešno terani. Ovo je jednako 1d6+2, +2 po dodatnom rangu iznad 1, i treba biti zabeleženo na listu lika, jer ga lik koristi kad god uspe u pokušaju Teranja.
+**Moć okretanja:** Moć okretanja klirika modifikuje ukupan Intenzitet nemrtvih koji su uspešno okrenuti. Ovo je jednako 1d6+2, +2 po svakom dodatnom Rangu iznad 1, i treba da bude zabeleženo na Listu lika, jer ga lik koristi kad god uspe u pokušaju Okretanja.
 
-_Na primer, na Rangu 2, Aleksandra ima Moć teranja od 1d6+4_
+_Na primer, na Rangu 2, Aleksandra ima Moć okretanja od 1d6+4_
 
-Za pokušaj teranja potreban je suprotstavljeni test veštine koristeći veštinu Kanalisanja protiv relevantnog stvorenja sa najvećom Snagom volje unutar područja delovanja. Stepen uspeha određuje efekte pokušaja.
+Za pokušaj Okretanja potreban je Suprotstavljeni test veštine koristeći veštinu Kanalisanja protiv dotičnog stvorenja sa najvećom Moći unutar Oblasti delovanja. Stepen uspeha određuje efekte pokušaja.
 
-Zli klerici mogu komandovati svojom Moći teranja u intenzitetu nemrtvih. Ovaj efekat omogućava kleriku da izdaje komande nemrtvima, ali ih ne čini potčinjenima osim ako ne dobiju Kritičan uspeh i izaberu Porobljavanje - pogledajte ispod. Oni sa najnižim intenzitetom su uvek pogođeni prvi. Ovo nema efekta na nemrtve intenziteta 7 ili više. Zli klerik može koristiti ovo da vrati prethodno terane nemrtve koji nisu sapijentni pod svoju kontrolu ponovo.
+Zli klirici mogu komandovati svojom Moći okretanja u Intenzitetu nemrtvih. Ovaj efekat omogućava kliriku da izdaje komande nemrtvima, ali ih ne čini potčinjenima osim ako ne dobiju Kritičan uspeh i izaberu Porobljavanje - vidi dole. Oni sa najnižim Intenzitetom uvek bivaju pogođeni prvi. Ovo nema efekta na nemrtve Intenziteta 7 ili više. Zli klirik može ovo iskoristiti da ponovo stavi pod svoju kontrolu prethodno okrenute nemrtve koji nisu sapijentni.
 
-- **Kritičan uspeh:** Dvostruka vaša Moć teranja u intenzitetu nemrtvih je pogođena. Ako je vaš rang dvostruko veći od intenziteta (ili više) nemrtvog stvorenja koje nije sapijentno, uništavate direktno bilo koje koje biste normalno terali.
-  - Zli klerici mogu umesto toga komandovati dvostrukom svojom Moći teranja u intenzitetu nemrtvih na 12 rundi (1 minut). Kako su nemrtvi obično istog mentalnog sklopa kao i zli klerik, ovaj efekat omogućava liku da izdaje komande nemrtvima. To ih ne čini potčinjenima, kao kod Porobljavanja ispod, i sapijentni nemrtvi neće nepotrebno bacati svoj neživot. Oni sa najnižim intenzitetom su uvek pogođeni prvi. Ovo nema efekta na nemrtve intenziteta 7 ili više. Zli klerik može koristiti ovo da vrati prethodno terane nemrtve koji nisu sapijentni pod kontrolu ponovo.
-  - Alternativno, zli klerik koji postigne Kritičan uspeh može Porobiti svoju Moć teranja u intenzitetu nemrtvih, porobljavajući ih pod svoju kontrolu. Porobljeni nemrtvi su potpuno potčinjeni kleriku dok se njihova kontrola nekako ne prekine. Oni sa najnižim intenzitetom su uvek porobljeni prvi. Ovo nema efekta na nemrtve intenziteta 7 ili više. Zli klerik može koristiti ovo da vrati prethodno terane nemrtve pod kontrolu ponovo.
-- **Uspeh:** Vaša Moć teranja u intenzitetu nemrtvih je pogođena, počevši od onih sa najnižim intenzitetom prvo. Ako se ne baci dovoljna Moć teranja da se bilo šta pogodi, onda se ništa ne tera tokom ovog pokušaja. Klerik odbija pogođene, koji moraju da se pomeraju i ostanu najmanje 20 stopa dalje na 12 rundi (1 minut). Pogođeni ne mogu napasti nijednog člana kleričke družine koji ostanu unutar područja delovanja osim ako su pogođeni prisiljeni unutar 10 stopa od družine. Oni koji ne mogu da se pomere na punu udaljenost zbog terena koji ometa curne (bilo koje bacanje napada protiv njih je za jedan stepen težine lakše). Približavanje unutar 10 stopa od pogođenih uzrokuje da nemrtvi prevaziđu Teranje i deluju normalno. Dalekometni napadi ne bliže od 10 stopa ne prekidaju efekat Teranja; međutim, takvi napadi na sapijentne nemrtve će prekinuti efekte Teranja, dozvoljavajući stvorenju da reaguje normalno. Sapijentnim stvorenjima, jednom teranim, je dozvoljeno teško bacanje Snage volje svakog kruga da pokušaju da prekinu efekat; međutim, sapijentna stvorenja verovatno dobrovoljno beže iz područja i vraćaju se samo kada ponovo imaju prednost. Ako je rang klerika dvostruko veći od intenziteta (ili više) nemrtvog stvorenja koje nije sapijentno, klerik uništava direktno bilo koje koje bi normalno terali.
-  - Zli klerik može komandovati svojom Moći teranja u intenzitetu nemrtvih stvorenja, dovodeći ih pod svoju kontrolu. Ovaj efekat omogućava kleriku da izdaje komande nemrtvima. To ih ne čini potčinjenima, kao kod Kritičnog uspeha, i sapijentni nemrtvi neće nepotrebno bacati svoj neživot. Oni sa najnižim intenzitetom su uvek pogođeni prvi. Ovo nema efekta na nemrtve intenziteta 7 ili više. Zli klerik može koristiti ovo da vrati prethodno terane nemrtve koji nisu sapijentni pod svoju kontrolu ponovo.
-- **Neuspeh:** Nijedan nemrtvi nije teran.
-- **Fumble:** Ne samo da niste uspeli da bilo šta terate, već ste privukli pažnju nekoliko nemrtvih jednakih dvostrukoj vašoj Moći teranja u intenzitetu. Ovi entiteti ciljaju vas specifično, sa entitetima najnižeg intenziteta provociranim prvo.
+- **Kritičan uspeh:** Pogođeni su nemrtvi čiji je Intenzitet dvostruko veći od vaše Moći okretanja. Ako je vaš Rang dvostruko veći (ili više) od Intenziteta nemrtvog stvorenja koje nije sapijentno, uništavate trenutno bilo koje koje biste inače okrenuli.
+  - Zli klirici mogu umesto toga komandovati nemrtvima čiji je Intenzitet dvostruko veći od njihove Moći okretanja tokom 12 Rundi (1 minut). Kako su nemrtvi obično istog mentalnog sklopa kao zli klirik, ovaj efekat omogućava liku da izdaje komande nemrtvima. To ih ne čini potčinjenima, kao kod Porobljavanja dole, i sapijentni nemrtvi neće nepotrebno bacati svoj nepokojni život. Oni sa najnižim Intenzitetom uvek bivaju pogođeni prvi. Ovo nema efekta na nemrtve Intenziteta 7 ili više. Zli klirik može ovo iskoristiti da ponovo stavi pod kontrolu prethodno okrenute nemrtve koji nisu sapijentni.
+  - Alternativno, zli klirik koji ostvari Kritičan uspeh može Porobiti nemrtve čiji je Intenzitet jednak njihovoj Moći okretanja, porobljavajući ih pod svoju kontrolu. Porobljeni nemrtvi su potpuno potčinjeni kliriku dok se njihova kontrola nekako ne prekine. Oni sa najnižim Intenzitetom uvek bivaju porobljeni prvi. Ovo nema efekta na nemrtve Intenziteta 7 ili više. Zli klirik može ovo iskoristiti da ponovo stavi pod kontrolu prethodno okrenute nemrtve.
+- **Uspeh:** Pogođeni su nemrtvi čiji je Intenzitet jednak vašoj Moći okretanja, počevši od onih sa najnižim Intenzitetom. Ako se dobije nedovoljna Moć okretanja da bi se bilo šta uticalo, onda se ništa ne okreće tokom ovog pokušaja. Klirik odbija pogođene, koji moraju da se pomeraju i ostanu najmanje 20 stopa daleko tokom 12 Rundi (1 minut). Pogođeni ne mogu napasti nijednog člana klirikove družine koji ostane unutar Oblasti delovanja osim ako pogođeni nisu primorani unutar 10 stopa od družine. Oni koji ne mogu da se pomere punu udaljenost zbog terena se zgrče (svako bacanje napada protiv njih je lakše za jedan Stepen težine). Približavanje unutar 10 stopa od pogođenih uzrokuje da nemrtvi prevaziđu Okretanje i deluju normalno. Napadi na daljinu ne bliži od 10 stopa ne prekidaju efekat Okretanja; međutim, takvi napadi na sapijentnog nemrtvog će prekinuti efekte Okretanja, omogućavajući stvorenju da reaguje normalno. Sapijentnim stvorenjima, jednom okrenutim, dozvoljeno je bacanje Teške Moći svakog kruga da pokušaju da prekinu efekat; međutim, sapijentna stvorenja će verovatno dobrovoljno pobeći iz područja i vratiti se samo kada ponovo budu imala prednost. Ako je Rang klirika dvostruko veći (ili više) od Intenziteta nemrtvog stvorenja koje nije sapijentno, klirik uništava trenutno bilo koje koje bi inače okrenuo.
+  - Zli klirik može komandovati nemrtvim stvorenjima čiji je Intenzitet jednak njihovoj Moći okretanja, stavljajući ih pod svoju kontrolu. Ovaj efekat omogućava kliriku da izdaje komande nemrtvima. To ih ne čini potčinjenima, kao kod Kritičnog uspeha, i sapijentni nemrtvi neće nepotrebno bacati svoj nepokojni život. Oni sa najnižim Intenzitetom uvek bivaju pogođeni prvi. Ovo nema efekta na nemrtve Intenziteta 7 ili više. Zli klirik može ovo iskoristiti da ponovo stavi pod kontrolu prethodno okrenute nemrtve koji nisu sapijentni.
+- **Neuspeh:** Nijedan nemrtvi nije okrenut.
+- **Greška:** Ne samo da niste uspeli da okrenete ništa, već ste privukli pažnju nekoliko nemrtvih čiji je Intenzitet jednak dvostrukoj vašoj Moći okretanja. Ovi entiteti ciljaju vas specifično, sa entitetima najnižeg Intenziteta koji su provocirani prvi.
 
-### Lista kleričkih čini
+### Lista čarolija klirika
 
 | Rang 0 | Rang 1 | Rang 2 | Rang 3 | Rang 4 | Rang 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -196,427 +194,426 @@ Zli klerici mogu komandovati svojom Moći teranja u intenzitetu nemrtvih. Ovaj e
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_(R) označava reverzibilnu čin._
+_\(R\) označuje reverzibilnu čaroliju._
+
+
 
 ---
 ## Borac
 
-Borci su profesionalni vojnici, plaćenici i ratnici, i najčešći avanturisti u svetovima fantastike. Bilo da provaljuju vrata, barataju mačevima i sekirama sa veštinom i finoćom, ili se postavljaju između manje ratobornih članova družine i protivnika, gde god pronađete avanturu, naći ćete borca.
+Borci su profesionalni vojnici, najamnici i ratnici, i najčešći avanturisti u svetovima fantazije. Bilo da provaljuju vrata, barataju mačevima i sekirama uz veštinu i finoću, ili se postavljaju između manje ratobornih članova družine i protivnika, gde god pronađete avanturu, pronaći ćete i borca.
 
-#### Uobičajene rase/kulture
+#### Uobičajene vrste/kulture
 
-Bilo koja.
+Bilo koje.
 
 #### Važna karakteristika
 
-STR, CON i DEX
+SNA, KON i SPR
 
-#### Zahtevi za usmerenje/zakletvu
+#### Zahtevi za opredeljenje/zakletvu
 
-- Usmerenje: Borci nisu ograničeni usmerenjem i ne zahtevaju zakletvu.
+- Opredeljenje: Borci nisu ograničeni Opredeljenjem i ne zahtevaju Zakletvu.
 
-Pogledajte [Poglavlje 4: Usmerenje i strasti](0004_Alignment_and_Passions.md).
+Vidi [Poglavlje 4: Opredeljenje i strasti](0004_Alignment_and_Passions.md).
 
-#### Klasne veštine
+#### Veštine klase
 
-- **Standardne veštine:** Atletika, Čamčenje ili Jahanje, Snaga, Borbena veština (Borac)*, Izdržljivost, Izbegavanje, Nenaoružani*
-- **Profesionalne veštine:** Zanat (bilo koji), Inženjering, Kockanje, Zastrašivanje, Znanje (Vojna istorija), Znanje (Strategija i taktika), Besedništvo, Preživljavanje ili Navigacija
+- **Standardne veštine:** Atletika, Čamci ili Jahanje, Snaga, Borbena veština (Borac)*, Izdržljivost, Izmicanje, Nenaoružana borba*
+- **Profesionalne veštine:** Zanat (bilo koji), Inženjerstvo, Kockanje, Zastrašivanje, Znanje (Vojna istorija), Znanje (Strategija i taktika), Besedništvo, Preživljavanje ili Navigacija
 
-_* Dobija bonus +5 od Borbene stručnosti_
+_* Prima bonus od +5 od Borbene veštine_
 
-#### Borilački oklop i veština rukovanja oružjem
+#### Borčevo poznavanje oklopa i oružja
 
-Borci su vešti sa svim vrstama oklopa (laganim i teškim), i sa svim štitovima. Njihova borbena veština uključuje upotrebu svih osnovnih i borilačkih oružja.
+Borci su vični svim tipovima oklopa (lakim i teškim), i svim štitovima. Njihova Borbena veština uključuje upotrebu svih osnovnih i ratnih oružja.
 
-### Struktura ranga
+### Struktura Ranga
 
-Svi borci su ocenjeni rangom, koji je ocena moći i veštine. Kada se stekne određeni stepen majstorstva u ograničenom broju klasnih veština, borci mogu povećati svoj rang jer će pokazati neophodan nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni poen sreće i mogu se steći nove sposobnosti. Ove informacije se nalaze u [Tabeli ranga borca](0003_Classes.md?id=fighter-rank-table) pod Napredovanje. Pod pretpostavkom da ispunjavate preduslove, vaš lik počinje kao Rang 1 Borac sa odgovarajućim rangiranim sposobnostima navedenim ispod; u suprotnom, počinjete kao Rang 0 Ratnik bez trenutnih sposobnosti.
+Svi borci se rangiraju prema Rangu, koji je ocena moći i veštine. Kada se stekne određeni stepen majstorstva u ograničenom broju veština Klase, borci mogu povećati svoj Rang pošto će demonstrirati potreban nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni Poen sreće i mogu se steći nove Sposobnosti. Ove informacije se nalaze u [Tabeli ranga borca](0003_Classes.md?id=fighter-rank-table) pod Napredovanjem. Pod uslovom da ispunjavate preduslove, vaš lik počinje kao Borac Ranga 1 sa odgovarajućim Rangiranim sposobnostima zabeleženim ispod; u suprotnom, počinjete kao Ratnik Ranga 0 bez trenutnih Sposobnosti.
 
 ##### Tabela ranga borca
 
 | Rang | Titula | Napredovanje | Hit poeni | Poeni sreće | Akcioni poeni |
 | :-: | :-- | :-- | :-: | :-: | :-: |
 | **0** | Ratnik pripravnik | - | 0 | +0 | +0 |
-| **1** | Ratnik | Bilo kojih 5 klasnih veština na 40% | 0 | +0 | +0 |
-| **2** | Borac | Bilo kojih 5 klasnih veština na 70% | +1 | +1 | +1 |
-| **3** | Heroj/Heroina | Bilo koje 4 klasne veštine na 90% | +1 | +2 | +1 |
-| **4** | Šampion | Bilo koje 3 klasne veštine na 110% | +2 | +3 | +2 |
-| **5** | Gospodar/Gospodarica | Bilo koje 2 klasne veštine na 130% | +2 | +4 | +2 |
+| **1** | Ratnik | Bilo kojih 5 veština klase na 40% | 0 | +0 | +0 |
+| **2** | Borac | Bilo kojih 5 veština klase na 70% | +1 | +1 | +1 |
+| **3** | Heroj/Heroina | Bilo koje 4 veštine klase na 90% | +1 | +2 | +1 |
+| **4** | Šampion | Bilo koje 3 veštine klase na 110% | +2 | +3 | +2 |
+| **5** | Gospodar/Gospodarica | Bilo koje 2 veštine klase na 130% | +2 | +4 | +2 |
 
 #### Početne sposobnosti
 
-Borac poznaje sve sledeće sposobnosti na Rangu 1. Pored toga, tokom kreiranja lika, možete besplatno izabrati jednu rangiranu sposobnost Ranga 1 pod pretpostavkom da ispunjavate njene zahteve.
+Borac poznaje sve sledeće Sposobnosti na Rangu 1. Dodatno, tokom kreiranja lika, možete izabrati jednu Rangiranu sposobnost Ranga 1 besplatno, pod uslovom da ispunjavate njene zahteve.
 
-- **Borilačka stručnost:** Budući da su stručnjaci u naoružanoj borbi, borci dobijaju dodatnih +5% na svoju Borbenu veštinu i Nenaoružanu veštinu.
-- **Specijalizacija oružja:** Vaša borbena obuka vam je omogućila da izaberete jedno oružje za specijalizaciju, ovo može biti i štit. Specijalizacija oružja daje pogodnosti u zavisnosti od specifičnog izabranog oružja i rezimirana je ispod.
-  - **Oružje za blizinu:** Dobijate sledeće pogodnosti specijalizacije za jedno oružje za blizinu:
-    - Vaša Borbena veština je poboljšana za +5% kada koristite svoje oružje specijalizacije. Ovaj bonus neće pomoći u napredovanju ranga.
-    - Dobijate bonus pariranje kada držite ovo oružje. Ovo ne zahteva upotrebu akcionog poena.
-  - **Dalekometno oružje:** Dobijate sledeće pogodnosti specijalizacije za jedno dalekometno oružje:
-    - Ako niste iznenađeni, možete automatski pucati prvi (pre bacanja za inicijativu) na početku borbe, pod pretpostavkom da su i oružje i municija spremni. Navodite svoju nameru da pucate, rešavate rezultate, a zatim se baca inicijativa.
-    - Kada ciljate metu unutar dometa bliskog dometa oružja, ciljanje zahteva 1 krug stabilizacije oružja umesto punog kruga, i čini sledeći napad za 1 stepen lakšim. Napadi napravljeni izvan bliskog dometa slede normalna pravila za ciljanje kako se nalazi pod [Borba na daljinu](0008_Combat.md?id=ranged-combat) u Poglavlju 8. Dodatni krugovi provedeni ciljajući ne daju dalju prednost.
-    - Specijalista može smanjiti vreme ponovnog punjenja bilo kog ovladanog dalekometnog oružja za 1. Oružje sa 0 vremena ponovnog punjenja može se efektivno pripremiti kao besplatna akcija.
-  - **Štitovi:** Dobijate sledeće pogodnosti specijalizacije za SVE štitove:
-    - Vaša Borbena veština kada koristite bilo koji štit je poboljšana za +10%. Ovaj bonus veštine neće pomoći u napredovanju ranga.
-    - Svi štitovi se računaju kao 1 kategorija veličine veći za svrhe pariranja štete: Veliki u Ogromni, Ogromni u Enormni, i Enormni u Kolosalni.
+- **Borbena veština:** Budući da su stručnjaci u naoružanoj borbi, borci dobijaju dodatnih +5% na svoju Borbenu veštinu i veštinu Nenaoružane borbe.
+- **Specijalizacija oružja:** Vaša borbena obuka vam je omogućila da izaberete jedno oružje za specijalizaciju; ovo može biti i štit. Specijalizacija oružja daje beneficije zavisno od konkretnog izabranog oružja i sumirana je ispod.
+  - **Oružje za blizinu:** Dobijate sledeće beneficije specijalizacije za jedno oružje za blizinu:
+    - Vaša Borbena veština je poboljšana za +5% kada koristite oružje specijalizacije. Ovaj bonus neće pomoći u napredovanju Ranga.
+    - Dobijate bonus Pariranja kada rukujete ovim oružjem. Ovo ne zahteva upotrebu Akcionog poena.
+  - **Oružje na daljinu:** Dobijate sledeće beneficije specijalizacije za jedno oružje na daljinu:
+    - Ako niste iznenađeni, možete automatski pucati prvi (pre bacanja za inicijativu) na početku borbe, pod pretpostavkom da su oružje i municija spremni. Objavljujete svoju nameru da pucate, rešavate rezultate, a zatim se baca inicijativa.
+    - Kada ciljate metu unutar oružijevog Bliskog dometa, ciljanje zahteva 1 potez stabilizacije oružja umesto pune runde, i čini sledeći napad za 1 stepen lakšim. Napadi napravljeni izvan Bliskog dometa prate normalna pravila za ciljanje kako se nalaze pod [Borba na daljinu](0008_Combat.md?id=ranged-combat) u Poglavlju 8. Dodatne runde utrošene na ciljanje ne daju dalju prednost.
+    - Specijalista može smanjiti vreme ponovnog punjenja bilo kog ovladanog oružja na daljinu za 1. Oružje sa 0 vremena ponovnog punjenja može se efektivno pripremiti kao Besplatna akcija.
+  - **Štitovi:** Dobijate sledeće beneficije specijalizacije za SVE štitove:
+    - Vaša Borbena veština kada koristite bilo koji štit je poboljšana za +10%. Ovaj bonus veštine neće pomoći u napredovanju Ranga.
+    - Svi štitovi se računaju kao 1 kategorija VEL veći za potrebe Pariranja štete: Veliki u Ogroman, Ogroman u Enormni, i Enormni u Kolosalni.
 
 #### Rangirane sposobnosti
 
-Kao što ime sugeriše, rangirane sposobnosti može izabrati samo lik određenog ranga ili višeg. Većina ima preduslovnu veštinu koja mora biti na određenom nivou veštine ili višem. Niste zaključani iz ranijih sposobnosti kada se postigne novi rang. Ako niste uspeli da uzmete sposobnost Ranga 2, na primer, možete se vratiti i uzeti je na Rangu 3 ili čak kasnije. Ne više od jedne sposobnosti se može uzeti po sesiji.
+Kao što ime sugeriše, Rangirane sposobnosti mogu birati samo likovi određenog Ranga ili višeg. Većina ima Preduslov veštine koji mora biti na određenom nivou veštine ili višem. Niste isključeni iz ranijih Sposobnosti kada se dostigne novi Rang. Ako niste uspeli da uzmete Sposobnost Ranga 2 na primer, možete se vratiti i uzeti je na Rangu 3 ili čak kasnije. Ne više od jedne Sposobnosti se može uzeti po sesiji.
 
 #### Rang 1:
 
-Za svaki utrošak od 1 iskustvenog poena, možete dobiti jednu od sledećih sposobnosti (jedna sposobnost po sesiji, svaka se može uzeti samo jednom):
+Za svaki utrošak od 1 Iskustvenog bacanja, možete steći jednu od sledećih Sposobnosti (jedna Sposobnost po sesiji, svaka se može uzeti samo jednom):
 
-- **Snažan udar:** Zahteva Snagu i Borbenu veštinu od 50% ili više. Smanjenjem svoje veštine za jedan stepen u sledećem napadu za blizinu, možete povećati svoj modifikator štete za dva stepena.
-- **Samo ogrebotina:** Zahteva Izdržljivost od 50% ili više. Jednom dnevno, nakon kratkog odmora od najmanje sat vremena i pregleda svojih rana, možete povratiti broj hit poena na jednoj lokaciji rane jednak vašoj stopi lečenja. Nema efekta na velike rane.
-- **Borba na konju:** Zahteva veštinu Jahanja od 50% ili više. Trenirali ste da se borite sa leđa konja i možete imati koristi od sledećeg kada ste na konju. Gde obično borbene veštine jahača ne mogu premašiti njihovu veštinu jahanja, ova odredba se ne primenjuje na vas. Pored toga, izvođenje napada na konju ne izaziva kaznu težine od jednog stepena za pogodak. Konačno, možete ignorisati prvu kaznu težine bilo kog bacanja jahanja potrebnog dok ste u borbi. Imajte na umu da ljudski nomadi i vilenjački jahači mogu primeniti gore navedene bonuse kada koriste kratki luk sa leđa konja.
-- **Drugi dah:** Zahteva Izdržljivost od 50% ili više. Jednom dnevno, nakon što ste imali priliku da uzmete kratak odmor od najmanje sat vremena, možete trenutno povratiti do 3 nivoa izgubljenog umora preko i iznad bilo čega vraćenog normalno.
-- **Čarka:** Zahteva Atletiku i Borbenu veštinu od 50% ili više. Sposobnost dozvoljava pokretanje dalekometnog napada dok birate akciju Žurbe za trčanje (ali ne tokom sprinta). Međutim, procenat napada napadača ne može premašiti njegovu veštinu Atletike. Napad se može dogoditi pre ili posle poteza.
-- **Preciznost oružja:** Vešti ste u korišćenju malih, sakrivajućih oružja koja ne zahtevaju mnogo snage, suptilno i efikasno. Ovo vam omogućava da izračunate Modifikator štete sa ovim oružjima na osnovu STR+DEX umesto STR+SIZ ako bi to dalo bolji rezultat. Modifikator štete ne može premašiti normalnu kocku štete oružja. Na primer, bodež sa štetom od 1d4+1 bi bio ograničen na Modifikator štete od +1d4, čineći ga 1d4+1+1d4. Ovo pokriva palice, bodeže, garote, noževe, kratke mačeve, main gauche i rapire, kao i nenaoružane napade. Pikado, praćke, kratki lukovi i koplja takođe spadaju u ovu kategoriju.
-- **Specijalizacija oružja:** Zahteva Borbenu veštinu od 50% ili više. Možete izabrati drugu specijalizaciju oružja.
+- **Siloviti udarac:** Zahteva Snagu i Borbenu veštinu od 50% ili više. Smanjivanjem vaše veštine za jedan stepen na sledećem napadu oružjem za blizinu, možete povećati svoj Modifikator štete za dva stepena.
+- **Samo ogrebotina:** Zahteva Izdržljivost od 50% ili više. Jednom dnevno, nakon što ste napravili kratku pauzu od najmanje sat vremena i proverili svoje rane, možete povratiti broj Hit poena na jednoj Lokaciji povrede jednak vašoj Stopi isceljenja. Nema efekta na Teške povrede.
+- **Borba na konju:** Zahteva veštinu Jahanja od 50% ili više. Trenirali ste da se borite sa leđa brdske životinje i možete imati koristi od sledećeg kada ste na njoj. Tamo gde normalno borbene veštine jahača ne mogu premašiti njihovu veštinu Jahanja, ova odredba se ne odnosi na vas. Dodatno, izvođenje juriša sa konja ne povlači kaznu od jednog stepena težine za pogodak. Konačno, možete ignorisati prvi stepen kazne bilo kog bacanja Jahanja potrebnog dok ste u borbi. Napominjemo da ljudski nomadi i vilinski jahači mogu primeniti gore navedene bonuse kada koriste kratki luk sa leđa konja.
+- **Drugi dah:** Zahteva Izdržljivost od 50% ili više. Jednom dnevno, nakon što ste imali priliku da napravite kratku pauzu od najmanje sat vremena, možete trenutno povratiti do 3 nivoa izgubljenog Umora, iznad i pored bilo kog normalno vraćenog.
+- **Čarkanje:** Zahteva Atletiku i Borbenu veštinu od 50% ili više. Sposobnost dozvoljava pokretanje napada na daljinu uz odabir akcije Žurbe za trčanje (ali ne tokom sprinta). Međutim, procenat napada napadača ne može premašiti njegovu veštinu Atletike. Napad se može dogoditi pre ili posle kretanja.
+- **Preciznost oružja:** Vi ste vični korišćenju malih, sakrivajućih oružja koja ne zahtevaju mnogo snage, suptilno i efektivno. Ovo vam omogućava da izračunate Modifikator štete sa ovim oružjima na osnovu SNA+SPR umesto SNA+VEL ako bi to generisalo bolji rezultat. Modifikator štete ne može premašiti normalnu kockicu štete oružja. Na primer, bodež sa štetom od 1d4+1 bi bio ograničen na Modifikator štete od +1d4, čineći ga 1d4+1+1d4. Ovo pokriva buzdovane, bodeže, garote, noževe, kratke mačeve, main-gauche i rapire, kao i nenaoružane napade. Pikado, praćke, kratki lukovi i koplja takođe spadaju u ovu kategoriju.
+- **Specijalizacija oružja:** Zahteva Borbenu veštinu od 50% ili više. Možete izabrati drugu Specijalizaciju oružja.
 
 #### Rang 2:
 
 Po dostizanju Ranga 2, automatski napredujete u Majstora oružja ako ispunjavate preduslove.
 
-- **Majstor oružja** (specifično oružje za blizinu ili dalekometno): Zahteva specijalizaciju oružja u izabranom oružju i Borbenu veštinu od 70% ili više. Iako možete biti specijalizovani za bilo koji broj oružja, možete ovladati samo jednim. Prema tome, ne možete uzeti ovu sposobnost ako ste već uzeli majstorstvo oružja u bilo kom drugom oružju. Majstori oružja udvostručuju šansu za kritični pogodak svog ovladanog oružja. Pored toga, izabrano oružje za blizinu dobija poboljšanje od 1 stepena na modifikator štete dok dalekometno oružje dobija isti bonus protiv meta unutar bliskog dometa.
+- **Majstor oružja** (specifično oružje za blizinu ili na daljinu): Zahteva Specijalizaciju oružja u izabranom oružju i Borbenu veštinu od 70% ili više. Iako možete biti specijalizovani za bilo koji broj oružja, možete biti majstor samo za jedno. Stoga, ne možete uzeti ovu Sposobnost ako ste već uzeli majstorstvo oružja u bilo kom drugom oružju. Majstori oružja udvostručuju šansu za Kritičan uspeh svog majstorskog oružja. Dodatno, izabrano oružje za blizinu dobija poboljšanje od 1 stepena na Modifikator štete, dok oružje na daljinu dobija isti bonus protiv meta unutar Bliskog dometa.
 
-Pored toga, za svaki utrošak od 2 iskustvena poena, možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Dodatno, za svaki utrošak od 2 Iskustvena bacanja, možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom):
 
-- **Brutalna snaga:** Jednom dnevno vaša veština Snage postaje za jedan stepen lakša za izvođenje jedne akcije. Nakon toga trpite gubitak jednog nivoa umora.
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Zamahnuti udar:** Zahteva Snažan udar i Borbenu veštinu od 70% ili više. Zamahnuti udar se pravi primenom jednog bacanja napada za blizinu na dve mete unutar dometa i u vašem vidokrugu. Svaki branilac mora rešiti efekte napada odvojeno i bilo koji specijalni efekti koje je nametnuo napadač tretiraju se kao da su se dogodili istovremeno. Napadi ne smeju zamahnuti pored prijateljske jedinice postavljene između dva protivnika. Samo jedan Zamahnuti udar se može napraviti po krugu.
-- **Specijalizacija oružja:** Zahteva Borbenu veštinu od 70% ili više. Možete izabrati drugu specijalizaciju oružja.
+- **Brutalna snaga:** Jednom dnevno vaša veština Snage postaje lakša za jedan stepen za izvršenje jedne Akcije. Nakon toga trpite gubitak jednog nivoa Umora.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Zamahujući udarac:** Zahteva Siloviti udarac i Borbenu veštinu od 70% ili više. Zamahujući udarac se izvodi primenom jednog bacanja napada za blizinu na dve mete unutar dometa i u vašoj liniji vidljivosti. Svaki branilac mora rešiti efekte napada odvojeno, a svi Specijalni efekti nametnuti od strane napadača tretiraju se kao da su se dogodili istovremeno. Napadi se ne mogu zamahnuti pored prijateljske jedinice pozicionirane između dva protivnika. Samo jedan Zamahujući udarac se može izvesti po Rundi.
+- **Specijalizacija oružja:** Zahteva Borbenu veštinu od 70% ili više. Možete izabrati drugu Specijalizaciju oružja.#### Rang 3:
 
-#### Rang 3:
+Po dostizanju 3. ranga, automatski napredujete u Visokog majstora ukoliko ispunjavate preduslove.
 
-Po dostizanju Ranga 3, automatski napredujete u Visokog majstora ako ispunjavate preduslove.
+- **Visoki majstor:** Zahteva Majstorstvo oružja u izabranom oružju i Borbenu veštinu od 90% ili više. Majstor oružja sada može postati Visoki majstor, stičući dodatne pogodnosti u zavisnosti od konkretnog izabranog oružja, koje su sumirane na sledeći način:
+  - Majstori oružja za blisku borbu mogu izvesti ripost nakon uspešnog Pariranja. Ripost je brz napad, Slobodna akcija kojom se zadaje naknadni udarac protivniku uz jedan stepen težine. Za potrebe odbijanja štete, oni tretiraju svoje izabrano oružje kao da je za jedan stepen veće: od Velikog do Ogromnog, od Ogromnog do Ogromnog, i od Ogromnog do Kolosalnog.
+  - Majstori dalekometnog oružja mogu pomeriti rezultat bacanja za Lokaciju pogotka na susednu lokaciju, pod uslovom da je meta unutar Bliskog dometa oružja, u skladu sa Specijalnim efektom Strelca.
 
-- **Visoki majstor:** Zahteva Majstorstvo oružja u izabranom oružju i Borbenu veštinu od 90% ili više. Majstor oružja sada može postati Visoki majstor dobijajući dodatne pogodnosti u zavisnosti od specifičnog oružja izabranog i rezimiranog na sledeći način:
-  - Majstori oružja za blizinu mogu napraviti ripost nakon uspešnog pariranja. Ripost je brz, besplatan akcioni naknadni potisak ka njihovom protivniku pri jednom stepenu težine. Oni tretiraju svoje izabrano oružje kao 1 stepen veće: Veliki u Ogromni, Ogromni u Enormni, i Enormni u Kolosalni za potrebe odbijanja štete.
-  - Dalekometni majstori mogu pomeriti rezultat bacanja lokacije pogotka na susednu lokaciju pod pretpostavkom da je meta unutar bliskog dometa oružja, prema specijalnom efektu Strelca.
+Pored toga, za svakih utrošenih 3 Iskustvena bacanja, možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom, osim ako nije drugačije naznačeno):
 
-Pored toga, za svaki utrošak od 3 iskustvena poena, možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom, osim ako nije drugačije navedeno):
-
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi:** Ova sposobnost zahteva da budete neopterećeni (manje 'Stvari' nošenih nego STR), ne noseći ništa restriktivnije od laganog oklopa. Jednom po borbi možete ponovo baciti neuspešno pariranje ili izbegavanje bez trošenja poena sreće. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
-- **Veći zamahnuti udar:** Zahteva Zamahnuti udar i Borbenu veštinu od 90% ili više. Kao kod Zamahnutog udara, ali se može izvesti protiv svih neprijatelja unutar dometa i u vidokrugu. Napadi ne smeju zamahnuti pored prijateljske jedinice postavljene između dva protivnika. Samo jedan Zamahnuti udar se može napraviti po krugu.
-- **Specijalizacija oružja:** Zahteva Borbenu veštinu od 90% ili više. Možete izabrati drugu specijalizaciju oružja.
+- **Povećanje karakteristike:** Možete dodati +1 na Karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Odbrambeni refleksi:** Ova Sposobnost zahteva da budete Neopterećeni (manje nošenih 'Stvari' nego što je SNA), ne noseći ništa restriktivnije od lake oklopne opreme. Jednom po borbi možete ponovo baciti neuspešan test Pariranja ili Izmicanja bez trošenja Poena sreće. Ipak, ne smete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
+- **Veći zamahujući udarac:** Zahteva Zamahujući udarac i Borbenu veštinu od 90% ili više. Funkcioniše kao Zamahujući udarac, ali se može izvesti protiv svih neprijatelja koji su u dometu i u vidnom polju. Napadi ne smeju prelaziti preko prijateljske jedinice pozicionirane između dva protivnika. Samo jedan Zamahujući udarac se može napraviti po Rundi.
+- **Specijalizacija za oružje:** Zahteva Borbenu veštinu od 90% ili više. Možete izabrati drugu Specijalizaciju za oružje.
 
 #### Rang 4:
 
-Po dostizanju Ranga 4, automatski napredujete u Velikog majstora ako ispunjavate preduslove.
+Po dostizanju 4. ranga, automatski napredujete u Velikog majstora ukoliko ispunjavate preduslove.
 
-- **Veliki majstor:** Zahteva Visoko majstorstvo oružja i Borbenu veštinu od 110% ili više. Veliki majstor specifičnog oružja dobija pogodnosti u zavisnosti od specifičnog oružja izabranog. Ovo je rezimirano na sledeći način:
-  - Veliki majstori oružja za blizinu dobijaju još jedno poboljšanje od 1 stepena na modifikator štete, za ukupno 2 stepena (uključujući bonus od Specijalizacije oružja).
-  - Veliki majstor dalekometnog oružja može smanjiti vreme ponovnog punjenja ovladanog dalekometnog oružja za još jednu tačku. Oružje sa 0 vremena ponovnog punjenja može se efektivno pripremiti kao besplatna akcija.
+- **Veliki majstor:** Zahteva Visoko majstorstvo oružja i Borbenu veštinu od 110% ili više. Veliki majstor specifičnog oružja stiče pogodnosti u zavisnosti od konkretnog izabranog oružja. Ovo je sumirano na sledeći način:
+  - Veliki majstori oružja za blisku borbu dobijaju još jedno poboljšanje Modifikatora štete za 1 stepen, ukupno 2 stepena (uključujući bonus od Specijalizacije za oružje).
+  - Veliki majstor Dalekometnog oružja može smanjiti vreme ponovnog punjenja savladanog Dalekometnog oružja za još jedan poen. Oružje sa 0 vremena punjenja se efektivno može pripremiti kao Slobodna akcija.
 
-Pored toga, za svaki utrošak od 4 iskustvena poena, možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom, osim ako nije drugačije navedeno):
+Pored toga, za svakih utrošenih 4 Iskustvena bacanja, možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom, osim ako nije drugačije naznačeno):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Veća brutalna snaga:** Kao kod Brutalne snage, međutim, ovu sposobnost možete izvoditi dvaput dnevno, a prva upotreba ne izaziva gubitak umora. Trpite gubitak jednog nivoa umora nakon druge upotrebe.
-- **Specijalizacija oružja:** Zahteva Borbenu veštinu od 110% ili više. Možete izabrati drugu specijalizaciju oružja.
+- **Povećanje karakteristike:** Možete dodati +1 na Karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Veća sirova snaga:** Funkcioniše kao Sirova snaga, međutim, ovu Sposobnost možete izvesti dvaput dnevno, a prva upotreba ne izaziva gubitak Zamora. Trpite gubitak jednog nivoa Zamora nakon druge upotrebe.
+- **Specijalizacija za oružje:** Zahteva Borbenu veštinu od 110% ili više. Možete izabrati drugu Specijalizaciju za oružje.
 
 #### Rang 5:
 
-Po dostizanju Ranga 5, automatski napredujete u Legendarnog majstora ako ispunjavate preduslove.
+Po dostizanju 5. ranga, automatski napredujete u Legendarnog majstora ukoliko ispunjavate preduslove.
 
-- **Legendarni majstor:** Zahteva Veliko majstorstvo oružja i Borbenu veštinu od 130% ili više. Veliki majstor oružja dobija dodatne pogodnosti u zavisnosti od specifičnog oružja izabranog, na sledeći način:
-  - Oružje za blizinu Legendarnog majstora se tretira kao 2 stepena veće prilikom pariranja: Veliki u Enormni, Ogromni u Kolosalni, i tako dalje.
-  - Strelac može nategnuti dve strele i ispaliti ih pri jednom stepenu težine. Može ispaliti 3 strele pri dva stepena težine. U oba slučaja, meta mora biti unutar bliskog dometa oružja, i ako se puca na više meta, svaka mora biti unutar 5 stopa od druge.
-  - Bacač praćke ili noža može baciti dodatno kamenje, metke ili noževe kao kod strelca.
-  - Majstor samostrela može smanjiti vreme ponovnog punjenja za još jednu tačku. Oružje sa 0 vremena ponovnog punjenja može se efektivno pripremiti kao besplatna akcija.
+- **Legendarni majstor:** Zahteva Veliko majstorstvo oružja i Borbenu veštinu od 130% ili više. Veliki majstor oružja stiče dodatne pogodnosti u zavisnosti od konkretnog izabranog oružja, kako sledi:
+  - Oružje za blisku borbu Legendarnog majstora se tretira kao za 2 stepena veće prilikom Pariranja: od Velikog do Ogromnog, od Ogromnog do Kolosalnog, i tako dalje.
+  - Strelac može postaviti dve strele i ispaliti ih uz jedan stepen težine. Može ispaliti 3 strele uz dva stepena težine. U oba slučaja, meta mora biti unutar Bliskog dometa oružja, a ako gađa više meta, svaka mora biti unutar 5 stopa od druge.
+  - Bacač praćke ili noževa može bacati dodatno kamenje, metke ili noževe kao Strelac.
+  - Majstor samostrela može smanjiti vreme ponovnog punjenja za još jedan poen. Oružje sa 0 vremena punjenja se efektivno može pripremiti kao Slobodna akcija.
 
-Pored toga, za svaki utrošak od 5 iskustvenih poena, možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom, osim ako nije drugačije navedeno):
+Pored toga, za svakih utrošenih 5 Iskustvena bacanja, možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom, osim ako nije drugačije naznačeno):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi II:** Zahteva Odbrambene reflekse. Kao kod Odbrambenih refleksa, međutim sada možete koristiti ovu sposobnost dvaput u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
-- **Specijalizacija oružja:** Zahteva Borbenu veštinu od 130% ili više. Možete izabrati drugu specijalizaciju oružja.
+- **Povećanje karakteristike:** Možete dodati +1 na Karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Odbrambeni refleksi II:** Zahteva Odbrambene reflekse. Funkcioniše kao Odbrambeni refleksi, međutim, sada ovu Sposobnost možete koristiti dvaput u istoj borbi. Ipak, ne smete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
+- **Specijalizacija za oružje:** Zahteva Borbenu veštinu od 130% ili više. Možete izabrati drugu Specijalizaciju za oružje.
 
 ### Osnovna početna oprema borca
 
-Svaka stavka se računa kao 1 'Stvar' za svrhe težine (Encumbrance) osim ako nije drugačije navedeno.
+Svaka stavka se računa kao 1 'Stvar' za potrebe opterećenja, osim ako nije drugačije naznačeno.
 
 - Dugi mač
-- Okrugli štit (računa se kao 2 stvari)
+- Okrugli štit (računa se kao 2 Stvari)
 - Kratki luk
-- Futrola sa 20 strela
-- Puni set lančanog oklopa, 5 oklopnih poena (0 stvari kada se nosi, 14 stvari ako se nosi u rukama)
-- Ruksak (kapacitet 10 stvari); meh za vodu, trail racije za nedelju dana, vreća za spavanje, mala prazna vreća*, kremen i kresivo**, 2 šestosatne baklje (5½ stvari sadržano)
-- Torbica na pojasu sa 2d4 zlatnika
+- Tobolac sa 20 strela
+- Kompletan set lančanog oklopa, 5 Poena oklopa (0 Stvari kada se nosi, 14 Stvari ako se nosi u prtljagu)
+- Ranac (kapacitet 10 Stvari); mešina za vodu, jednonedeljne putne zalihe hrane, vreća za spavanje, mala prazna torba\*, kremen i kresivo\*\*, 2 baklje od šest sati (5½ Stvari sadržaja)
+- Pojasna torbica sa 2d4 zlatnika
 
-Ukupno ENC: 7 stvari
+Ukupno OPTEREĆENJE: 7 Stvari
 
-_* Sadržaj se računa u sadržaj ruksaka jer se njegova zapremina povećava._
 
-_** Računa se kao ½ stvari._
+*\* Sadržaj se računa u sadržaj ranca jer se njegova zapremina povećava.*
+
+_\*\* Računa se kao ½ Stvari._
 
 ---
-## Mag
+## Mag (Magični korisnik)
 
-Magovi proučavaju ezoterično, kopajući kroz stare ustajale grobnice za nove i nedostižne čini koje će dodati u svoje knjige čini. Oni provode veliki deo svog slobodnog vremena proučavajući ove čini i učeći da savladaju moći koje se u njima nalaze. Iako su slabi na početku, magovi imaju potencijal da postanu najmoćniji od klasa.
+Magovi proučavaju ezoteriju, kopajući po starim, memljivim grobnicama u potrazi za novim i nedostižnim čarolijama koje bi dodali u svoje knjige čarolija. Veći deo slobodnog vremena provode proučavajući ove čarolije i učeći da ovladaju moćima koje se u njima nalaze. Iako su na početku slabi, magovi imaju potencijal da postanu najmoćnija od Klasa.
 
-#### Uobičajene rase/kulture
+#### Uobičajene vrste/kulture
 
-Bilo koja, ali obično civilizovani i nomadski ljudi, kao i gnomovi, vilenjaci i poluvilenjaci. Gnomovi koji postanu magovi teže da gravitiraju ka školi iluzije.
+Bilo koje, ali obično Civilizovani i Nomadski ljudi, kao i gnomovi, vilenjaci i poluvilenjaci. Gnomovi koji postanu magovi imaju tendenciju da gravitiraju ka Školi iluzija.
 
 #### Važne karakteristike
 
-DEX, INT i POW
+SPR, INT i MOĆ
 
-#### Zahtevi za usmerenje/zakletvu
+#### Zahtevi za usklađenost/zakletvu
 
-- Usmerenje: Magovi nisu ograničeni usmerenjem i ne zahtevaju zakletvu.
+- Usklađenost: Magovi nisu ograničeni Usklađenošću i ne zahtevaju nikakvu Zakletvu.
 
-Pogledajte [Poglavlje 4: Usmerenje i strasti](0004_Alignment_and_Passions.md).
+Pogledajte [Poglavlje 4: Usklađenost i strasti](0004_Alignment_and_Passions.md).
 
-#### Klasne veštine
+#### Veštine klase
 
-- **Standardne veštine:** Izbegavanje, Prva pomoć, Uticaj, Uvid, Lokalitet, Percepcija, Snaga volje
-- **Profesionalne veštine:** Mag automatski dobija Arkane bacanje i Arkana znanja, plus 3 dodatne veštine iz sledećeg: Kultura (bilo koja), Jezik (bilo koji), Znanje (Alhemija), Znanje (bilo koje)
+- **Standardne veštine:** Izmicanje, Prva pomoć, Uticaj, Uvid, Lokalitet, Percepcija, Snaga volje
+- **Profesionalne veštine:** Mag automatski dobija Arkansko bacanje i Arkansko znanje, plus 3 dodatne veštine iz sledećih: Kultura (bilo koja), Jezik (bilo koji), Znanje (Alhemija), Znanje (bilo koje)
 
-#### Magov oklop i veština rukovanja oružjem
+#### Magovski oklop i poznavanje oružja
 
-Magovi nisu vešti sa bilo kojom vrstom oklopa ili štitova, jer arkane čini zahtevaju precizne gestove i pokrete tokom bacanja, što je ometano nošenjem oklopa. Obično nisu obučeni u fizičkoj borbi; stoga, borbena veština maga može se razvijati samo sa bonus poenima veština. Uključuje upotrebu bodeža, pikada, praćki, kvoterstafova i laganih samostrela, jednostavnih oružja koja se obično nalaze oko prebivališta njihovog gospodara ili koja je relativno lako pokupiti i naučiti.
+Magovi nisu vešti ni sa jednom vrstom oklopa ili štitova, jer Arkanske čarolije zahtevaju precizne gestove i pokrete tokom bacanja, što je ometeno nošenjem oklopa. Obično nisu obučeni za fizičku borbu; stoga se Borbena veština maga može razvijati samo pomoću Bonus bodova veštine. Ona uključuje upotrebu bodeža, strelica, praćki, borbenih štapova i lakih samostrela, jednostavnog oružja koje se obično nalazi oko rezidencije njihovog gospodara ili koje je relativno lako naučiti koristiti.
 
-### Struktura ranga
+### Struktura rangova
 
-Svi magovi su ocenjeni rangom, koji je ocena moći i veštine. Kada se stekne određeni stepen majstorstva u ograničenom broju klasnih veština, magovi mogu povećati svoj rang jer će pokazati neophodan nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni poen sreće i mogu se steći nove sposobnosti. Ove informacije se nalaze ispod u [Tabeli ranga maga](0003_Classes.md?id=mage-rank-table) pod Napredovanje. Pod pretpostavkom da ispunjavate preduslove, vaš lik počinje kao Rang 1 Putnik sa odgovarajućim sposobnostima navedenim ispod; u suprotnom, počinjete kao Rang 0 Šegrt sa sposobnošću da bacate čini Ranga 0, i bez drugih sposobnosti.
+Svi magovi se ocenjuju prema Rangu, koji je ocena moći i veštine. Kada se stekne određeni stepen majstorstva u ograničenom broju veština Klase, magovi mogu povećati svoj Rang jer će pokazati potreban nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni Poen sreće i mogu se steći nove Sposobnosti. Ove informacije se nalaze ispod na [Tabeli rangova maga](0003_Classes.md?id=mage-rank-table) pod Napredovanje. Pod pretpostavkom da ispunjavate preduslove, vaš lik počinje kao Putnik 1. ranga sa odgovarajućim Sposobnostima navedenim ispod; u suprotnom, počinjete kao Šegrt 0. ranga sa Sposobnošću bacanja čarolija 0. ranga i bez drugih Sposobnosti.
 
-##### Tabela ranga maga
+##### Tabela rangova maga
 
-| Rang | Titula | Napredovanje | Čini u memoriji | Hit poeni | Poeni sreće | Akcioni poeni |
+| Rang | Titula | Napredovanje | Čarolije u sećanju | Pogodbeni bodovi | Poeni sreće | Akcioni bodovi |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
 | **0** | Šegrt | - | Rang 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Putnik | Bilo kojih 5 klasnih veština na 40% | Rang 0: (INT/4) +1<br> Rang 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Mag | Bilo kojih 5 klasnih veština na 70% | Rang 0: (INT/4) +2 <br> Rang 1: (INT/4) +2 <br> Rang 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Adept mag | Bilo koje 4 klasne veštine na 90% | Rang 0: (INT/4) +3 <br> Rang 1: (INT/4) +4 <br> Rang 2: (INT/4) +2 <br> Rang 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Arhimag | Bilo koje 3 klasne veštine na 110% | Rang 0: (INT/4) +4 <br> Rang 1: (INT/4) +6 <br> Rang 2: (INT/4) +4 <br> Rang 3: (INT/4) +2 <br> Rang 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Veliki arhimag | Bilo koje 2 klasne veštine na 130% | Rang 0: (INT/4) +5 <br> Rang 1: (INT/4) +8 <br> Rang 2: (INT/4) +6 <br> Rang 3: (INT/4) +4 <br> Rang 4: (INT/4) +2 <br> Rang 5: (INT/4) | +2 | +4 | +2 |
+| **1** | Putnik | Bilo kojih 5 veština klase na 40% | Rang 0: (INT/4) +1<br> Rang 1: (INT/4) | 0 | +0 | +0 |
+| **2** | Mag | Bilo kojih 5 veština klase na 70% | Rang 0: (INT/4) +2 <br> Rang 1: (INT/4) +2 <br> Rang 2: (INT/4) | +1 | +1 | +1 |
+| **3** | Adept mag | Bilo koje 4 veštine klase na 90% | Rang 0: (INT/4) +3 <br> Rang 1: (INT/4) +4 <br> Rang 2: (INT/4) +2 <br> Rang 3: (INT/4) | +1 | +2 | +1 |
+| **4** | Arhimag | Bilo koje 3 veštine klase na 110% | Rang 0: (INT/4) +4 <br> Rang 1: (INT/4) +6 <br> Rang 2: (INT/4) +4 <br> Rang 3: (INT/4) +2 <br> Rang 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Veliki arhimag | Bilo koje 2 veštine klase na 130% | Rang 0: (INT/4) +5 <br> Rang 1: (INT/4) +8 <br> Rang 2: (INT/4) +6 <br> Rang 3: (INT/4) +4 <br> Rang 4: (INT/4) +2 <br> Rang 5: (INT/4) | +2 | +4 | +2 |
 
 #### Početne sposobnosti
 
-Mag poznaje sledeće sposobnosti na Rangu 1. Pored toga, tokom kreiranja lika, možete besplatno izabrati jednu sposobnost Ranga 1 pod pretpostavkom da ispunjavate njene zahteve.
+Mag poznaje sledeće Sposobnosti na 1. rangu. Pored toga, tokom kreiranja lika, možete besplatno izabrati jednu Sposobnost 1. ranga pod pretpostavkom da ispunjavate njene zahteve.
 
-- **Bacač čini:** Iako su magovi veoma slabi na početku svojih karijera, na drugom kraju spektra, oni mogu bacati najspektakularnije i najmoćnije čini, sposobni da pale armije i ruše zamkove nekažnjeno. Sve arkane čini zahtevaju precizne gestove i pokrete (somatska komponenta čini) tokom bacanja, što je ometano nošenjem oklopa. Pogledajte odeljak [Bacanje u oklopu](0009_Magic.md?id=casting-in-armor) za specifične informacije. Broj čini njihovog trenutnog ranga koje mag može imati u memoriji nalazi se u [Tabeli ranga maga](0003_Classes.md?id=mage-rank-table), iznad, pod Čini u memoriji.
-- **Početne čini:** Kantripovi su prve magične sposobnosti koje se uče šegrtu maga i potpuno su definisane u poglavlju [Čini](0010_Spells.md). Mag počinje sa znanjem kantripa Ranga 0 Čitanje magije, kao i dva kantripa (Rang 0) za svakih 1/10 arkana znanja (veština x 0.1). Ako mag ispunjava uslove kao Rang 1, on takođe zna jednu čin Ranga 1 za svakih 1/10 arkana znanja. Broj čini koje mag može imati pripremljene na svakom rangu nalazi se iznad u [Tabeli ranga maga](0003_Classes.md?id=mage-rank-table) pod Čini u memoriji. Pogledajte [Listu čini maga](0003_Classes.md?id=mage-spell-list) ispod i odeljak o [Memorisanju čini](0009_Magic.md?id=memorizing-spells).
+- **Bacač čarolija:** Iako su magovi veoma slabi na početku svoje karijere, na drugom kraju spektra, oni mogu bacati najspektakularnije i najmoćnije čarolije, sposobni da spaljuju vojske i ruše zamkove bez posledica. Sve Arkanske čarolije zahtevaju precizne gestove i pokrete (somatska komponenta čarolije) tokom bacanja, što je ometeno nošenjem oklopa. Pogledajte odeljak [Bacanje u oklopu](0009_Magic.md?id=casting-in-armor) za specifične informacije. Broj čarolija trenutnog Ranga koje mag može imati u sećanju nalazi se na [Tabeli rangova maga](0003_Classes.md?id=mage-rank-table), iznad, pod Čarolije u sećanju.
+- **Početne čarolije:** Čarolije (Cantrips) su prve magične sposobnosti koje se uče šegrt magovi i potpuno su definisane u poglavlju [Čarolije](0010_Spells.md). Mag počinje sa znanjem o čaroliji 0. ranga Čitanje magije, kao i dve čarolije (Rang 0) za svakih 1/10 Arkanskog znanja (veština x 0.1). Ako mag ispunjava uslove za 1. rang, on takođe zna jednu čaroliju 1. ranga za svakih 1/10 Arkanskog znanja. Broj čarolija koje mag može imati pripremljeno na svakom Rangu nalazi se iznad na [Tabeli rangova maga](0003_Classes.md?id=mage-rank-table) pod Čarolije u sećanju. Pogledajte [Listu magovskih čarolija](0003_Classes.md?id=mage-spell-list) ispod i odeljak o [Memorisanju čarolija](0009_Magic.md?id=memorizing-spells).
 
 #### Rangirane sposobnosti
 
-Kao što ime sugeriše, rangirane sposobnosti može izabrati samo lik određenog ranga ili višeg. Većina ima preduslovnu veštinu koja mora biti na određenom nivou veštine ili višem pre nego što se može izabrati. Niste zaključani iz ranijih sposobnosti kada se postigne novi rang. Ako niste uspeli da uzmete sposobnost Ranga 2, na primer, možete se vratiti i uzeti je na Rangu 3 ili čak kasnije. Ne više od jedne sposobnosti se može uzeti po sesiji.
+Kao što ime sugeriše, Rangirane sposobnosti mogu izabrati samo likovi određenog Ranga ili višeg. Većina ima preduslov za veštinu koji mora biti na određenom nivou ili višem pre nego što se može izabrati. Niste isključeni iz ranijih Sposobnosti kada se dostigne novi Rang. Ako niste uzeli Sposobnost 2. ranga, na primer, možete se vratiti i uzeti je na 3. rangu ili čak kasnije. Ne može se uzeti više od jedne Sposobnosti po sesiji.
 
 #### Rang 1:
 
-Za svaki utrošak od 1 iskustvenog poena možete dobiti jednu od sledećih sposobnosti (jedna sposobnost po sesiji, svaka sposobnost se može uzeti samo jednom):
+Za svakih utrošenih 1 Iskustveno bacanje možete steći jednu od sledećih Sposobnosti (jedna Sposobnost po sesiji, svaka Sposobnost se može uzeti samo jednom):
 
-- **Moćna koncentracija:** Zahteva Arkane bacanje od 50% ili više. Testovi Snage volje za održavanje koncentracije u vezi sa činima i bacanjem čini su za jedan stepen težine lakši.
-- **Mentalna snaga:** Zahteva Arkane bacanje od 60% ili više. Jednom dnevno smatrate da je 2 stepena težine lakše obaviti provere Snage volje kada se odupirete bilo kom obliku magije koja cilja um. Ovo uključuje moći kao što su očaravanje, šarm, dominacija, držanje, hipnoza, Magična posuda, posedovanje, spavanje, sugestija i psionički mentalni udar. Nema uticaja na veštine kao što su Uticaj ili Zavođenje. Takođe smatrate da je 1 stepen lakše neverovati iluzijama i fantazmagorijama. U slučaju vilenjaka, ovo se ne akumulira sa njihovom otpornošću na Spavanje i Šarm, ali proširuje njihovu sposobnost da se odupru dodatnim efektima.
-- **Preciznost oružja:** Vešti ste u korišćenju malih, sakrivajućih oružja koja ne zahtevaju mnogo snage, suptilno i efikasno. Ovo vam omogućava da izračunate Modifikator štete sa ovim oružjima na osnovu STR+DEX umesto STR+SIZ, šta god daje bolji rezultat. Modifikator štete ne može premašiti normalnu kocku štete oružja. Na primer, bodež sa štetom od 1d4+1 bi bio ograničen na Modifikator štete od +1d4. Ovo pokriva palice, bodeže, garote, noževe, kratke mačeve, main gauche i rapire. Kao i nenaoružane napade. Pikado, praćke, kratki lukovi i koplja takođe spadaju u ovu kategoriju.
+- **Snažna koncentracija:** Zahteva Arkansko bacanje od 50% ili više. Testovi Snage volje za održavanje Koncentracije u vezi sa čarolijama i bacanjem čarolija su za jedan Stepen težine lakši.
+- **Mentalna snaga:** Zahteva Arkansko bacanje od 60% ili više. Jednom dnevno vam je za 2 Stepena težine lakše da izvedete testove Snage volje kada se odupirete bilo kom obliku magije koja cilja um. Ovo uključuje moći kao što su zavođenje, šarm, dominacija, držanje, hipnoza, Magična posuda, posedovanje, spavanje, sugestija i psionički umni udar. Nema efekta na veštine kao što su Uticaj ili Zavođenje. Takođe vam je za 1 stepen lakše da ne poverujete u iluzije i fantazije. U slučaju vilenjaka, ovo se ne akumulira sa njihovim otporom na Spavanje i Šarm, ali širi njihovu sposobnost da se odupru dodatnim efektima.
+- **Preciznost oružja:** Vešti ste u korišćenju malog, sakrivenog oružja koje ne zahteva puno snage, suptilno i efikasno. Ovo vam omogućava da izračunate Modifikator štete sa ovim oružjem na osnovu SNA+SPR umesto SNA+VEL, šta god generiše bolji rezultat. Modifikator štete ne može premašiti normalnu kocku štete oružja. Na primer, bodež sa štetom 1d4+1 bio bi ograničen na Modifikator štete od +1d4. Ovo pokriva toljage, bodeže, garote, noževe, kratke mačeve, main gauche i rapire. Kao i nenaoružane napade. Strelice, praćke, kratki lukovi i koplja za bacanje takođe spadaju u ovu kategoriju.
 
 #### Rang 2:
 
-Za svaki utrošak od 2 iskustvena poena možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Za svakih utrošenih 2 Iskustvena bacanja možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Dodajte +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Mentalna snaga II:** Zahteva Mentalnu snagu i Arkana znanja od 80% ili više. Kao kod Mentalne snage, ali se može koristiti dvaput dnevno.
-- **Dodir na daljinu (X):** Zahteva Snagu volje od 80% ili više. Ova sposobnost omogućava bacaču da čini sa dometom "Dodir" da domet od 30 stopa. Čini se smatra za jedan rang višim u pogledu memorisanja i treba je zabeležiti kao dalekometnu kada se memoriše. Na primer, Nevidljivost (na daljinu) bi se računala kao čin Ranga 2.
+- **Povećanje karakteristike:** Dodajte +1 na Karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Mentalna snaga II:** Zahteva Mentalnu snagu i Arkansko znanje od 80% ili više. Funkcioniše kao Mentalna snaga, ali se može koristiti dvaput dnevno.
+- **Dalekometni dodir (X):** Zahteva Snagu volje od 80% ili više. Ova Sposobnost omogućava bacaču da čaroliji sa Dometom "Dodir" da domet od 30 stopa. Čarolija se smatra za jedan Rang višom u pogledu memorisanja i treba je označiti kao dalekometnu kada se memoriše. Na primer, Nevidljivost (Dalekometna) bi se računala kao čarolija 2. ranga.
 
 #### Rang 3:
 
-Za svaki utrošak od 3 iskustvena poena možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Za svakih utrošenih 3 Iskustvena bacanja možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Dodajte +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi:** Odbrambeni refleksi zahtevaju da budete neopterećeni (manje 'Stvari' nošenih nego STR), ne noseći ništa restriktivnije od laganog oklopa. Jednom po borbi možete ponovo baciti neuspešno pariranje ili izbegavanje bez trošenja poena sreće. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
-- **Mentalna snaga III:** Zahteva Mentalnu snagu II i Arkana znanja od 100% ili više. Kao kod Mentalne snage, ali se može koristiti tri puta dnevno.
+- **Povećanje karakteristike:** Dodajte +1 na Karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Odbrambeni refleksi:** Odbrambeni refleksi zahtevaju da budete Neopterećeni (manje nošenih 'Stvari' nego što je SNA), ne noseći ništa restriktivnije od lake oklopne opreme. Jednom po borbi možete ponovo baciti neuspešan test Pariranja ili Izmicanja bez trošenja Poena sreće. Ipak, ne smete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
+- **Mentalna snaga III:** Zahteva Mentalnu snagu II i Arkansko znanje od 100% ili više. Funkcioniše kao Mentalna snaga, ali se može koristiti tri puta dnevno.
 
 #### Rang 4:
 
-Za svaki utrošak od 4 iskustvena poena možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Za svakih utrošenih 4 Iskustvena bacanja možete steći jednu od sledećih Sposobnosti (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Dodajte +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Mentalna snaga IV:** Zahteva Mentalnu snagu III i Arkana znanja od 120% ili više. Kao kod Mentalne snage, ali se može koristiti četiri puta dnevno.
+- **Povećanje karakteristike:** Dodajte +1 na Karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Mentalna snaga IV:** Zahteva Mentalnu snagu III i Arkansko znanje od 120% ili više. Funkcioniše kao Mentalna snaga, ali se može koristiti četiri puta dnevno.#### Rang 5:
 
-#### Rang 5:
+Za svako trošenje 5 iskustvenih bacanja, možete steći jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
 
-Za svaki utrošak od 5 iskustvenih poena, možete dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
-
-- **Povećanje karakteristika:** Dodajte +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi II:** Zahteva Odbrambene reflekse. Kao kod Odbrambenih refleksa, međutim sada možete koristiti ovu sposobnost dvaput u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
-- **Mentalna snaga V:** Zahteva Mentalnu snagu IV i Arkana znanja od 140% ili više. Kao kod Mentalne snage, ali se može koristiti pet puta dnevno.
+- **Povećanje karakteristike:** Dodajte +1 na karakteristiku po vašem izboru. Ovo ne može premašiti rasne maksimume.
+- **Defanzivni refleksi II:** Zahteva Defanzivne reflekse. Kao i kod Defanzivnih refleksa, međutim, sada možete koristiti ovu sposobnost dvaput u istoj borbi. Ipak, ne možete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
+- **Mentalna snaga V:** Zahteva Mentalnu snagu IV i Arkana znanja od 140% ili više. Kao i kod Mentalne snage, ali se može koristiti pet puta dnevno.
 
 ### Osnovna početna oprema maga
 
-Svaka stavka se računa kao 1 'Stvar' za svrhe težine (Encumbrance) osim ako nije drugačije navedeno.
+Svaka stavka se računa kao 1 „Stvar“ za potrebe opterećenja, osim ako nije drugačije naznačeno.
 
 - Štap (računa se kao 2 stvari)
-- 3 pikada (½ stvari svaki)
-- Obična, neukrašena odeća, 0 oklopnih poena (0 stvari kada se nosi, 1 stvar ako se nosi u rukama)
+- 3 strelice (½ stvari svaka)
+- Obična, neukrašena odeća, 0 poena oklopa (0 stvari kada se nosi, 1 stvar ako se nosi u prtljagu)
 - Knjiga čini
-- Torbica sa komponentama čini
-- Ruksak (kapacitet 10 stvari); meh za vodu, trail racije za nedelju dana, vreća za spavanje, mala prazna vreća*, kremen i kresivo**, 10 dvosatnih sveća**, 10 stranica pergamenta**, pero i bočica mastila** (6 stvari sadržano)
+- Torbica za komponente čini
+- Ranac (kapacitet 10 stvari); mešina za vodu, jednonedeljne sledovanja za put, vreća za spavanje, mala prazna vreća\*, kremen i kresivo\*\*, 10 dvočasovnih sveća\*\*, 10 stranica pergamenta\*\*, pero i bočica mastila\*\* (6 sadržanih stvari)
 - Torbica na pojasu sa 3d6 zlatnika
 
-Ukupno ENC: 7 stvari
+Ukupno OPR: 7 stvari
 
-_* Sadržaj se računa u sadržaj ruksaka jer se njegova zapremina povećava._
+_\* Sadržaj se računa u sadržaj ranca jer se njegova zapremina povećava._
 
-_** Računa se kao ½ stvari._
+_\*\* Računa se kao ½ stvari._
 
-### Lista čini maga
+
+### Spisak magijskih čini
 
 | Rang 0 | Rang 1 | Rang 2 | Rang 3 | Rang 4 | Rang 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
-| [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
-| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
-| [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
-| [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
-| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
-| [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
-| [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
-| [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
-| [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
-| [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
-| [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
-| [Repair](0010_Spells.md?id=repair) | [Shield](0010_Spells.md?id=shield) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
-| [Tidy](0010_Spells.md?id=tidy) | [Sleep](0010_Spells.md?id=sleep) |
-| | [Web](0010_Spells.md?id=web) |
-| | [Spider Climb](0010_Spells.md?id=spider-climb) |
+| [Procenjivanje](0010_Spells.md?id=appraise) | [Oklop](0010_Spells.md?id=armor) | [Trajno svetlo](0010_Spells.md?id=continual-light) | [Šarmiraj čudovište](0010_Spells.md?id=charm-monster) | [Lančana munja](0010_Spells.md?id=chain-lightning) | [Astralna čin](0010_Spells.md?id=astral-spell) |
+| [Odvraćanje](0010_Spells.md?id=avert) | [Vatrene ruke](0010_Spells.md?id=burning-hands) | [Tama](0010_Spells.md?id=darkness) | [Kupa hladnoće](0010_Spells.md?id=cone-of-cold) | [Kontrola vremena](0010_Spells.md?id=control-weather) | [Masovno šarmiranje](0010_Spells.md?id=charm-mass) |
+| [Zbunjivanje](0010_Spells.md?id=befuddle) | [Promena izgleda](0010_Spells.md?id=change-appearance) | [Tamnovid](0010_Spells.md?id=darkvision) | [Konfuzija](0010_Spells.md?id=confusion) | [Čin smrti](0010_Spells.md?id=death-spell) | [Zemljotres](0010_Spells.md?id=earthquake) |
+| [Hlađenje \(R\)](0010_Spells.md?id=chill-r) | [Šarmiraj osobu](0010_Spells.md?id=charm-person) | [Otkrij zlo \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimenzionalna vrata](0010_Spells.md?id=dimension-door) | [Očaravanje predmeta](0010_Spells.md?id=enchant-item) | [Iscrpljivanje energije](0010_Spells.md?id=energy-drain) |
+| [Čišćenje \(R\)](0010_Spells.md?id=cleanse-r) | [Plesujuća svetla](0010_Spells.md?id=dancing-lights) | [Otkrij nevidljivost](0010_Spells.md?id=detect-invisibility) | [Očaravanje oružja](0010_Spells.md?id=enchant-weapon) | [Vatrena lopta, odložena eksplozija](0010_Spells.md?id=fireball-delayed-blast) | [Kapija](0010_Spells.md?id=gate) |
+| [Koordinacija](0010_Spells.md?id=coordination) | [Otkrij magiju](0010_Spells.md?id=detect-magic) | [Odbij magiju](0010_Spells.md?id=dispel-magic) | [Strah](0010_Spells.md?id=fear) | [Meso u kamen \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Pljusak meteora](0010_Spells.md?id=meteor-shower) |
+| [Odbijanje](0010_Spells.md?id=deflect) | [Lagani pad](0010_Spells.md?id=feather-fall) | [Vatrena lopta](0010_Spells.md?id=fireball) | [Vatreni štit](0010_Spells.md?id=fire-shield) | [Trajnost](0010_Spells.md?id=permanency) | [Reč moći – Ubij](0010_Spells.md?id=power-word-kill) |
+| [Sušenje](0010_Spells.md?id=dry) | [Pronađi poznanika](0010_Spells.md?id=find-familiar) | [Letenje](0010_Spells.md?id=fly) | [Nespretnost](0010_Spells.md?id=fumble) | [Reč moći – Oslepi](0010_Spells.md?id=power-word-blind) | [Želja](0010_Spells.md?id=wish) |
+| [Promrzline](0010_Spells.md?id=frostbite) | [Lebdeći disk](0010_Spells.md?id=floating-disk) | [Ubrzanje](0010_Spells.md?id=haste) | [Ledena oluja](0010_Spells.md?id=ice-storm) | [Reinkarnacija, arkana](0010_Spells.md?id=reincarnation-arcane) |
+| [Glamur \(R\)](0010_Spells.md?id=glamour-r) | [Identifikacija](0010_Spells.md?id=identify) | [Zadrži osobu](0010_Spells.md?id=hold-person) | [Nevidljivost, veća](0010_Spells.md?id=invisibility-greater) |
+| [Lepak](0010_Spells.md?id=glue) | [Iluzija](0010_Spells.md?id=illusion) | [Nevidljivost, poluprečnik 3m](0010_Spells.md?id=invisibility-10-ft-radius) | [Polimorfuj drugog](0010_Spells.md?id=polymorph-other) |
+| [Paljenje \(R\)](0010_Spells.md?id=ignite-r) | [Nevidljivost](0010_Spells.md?id=invisibility) | [Kucanje \(R\)](0010_Spells.md?id=knock-r) | [Polimorfuj sebe](0010_Spells.md?id=polymorph-self) |
+| [Magični trikovi](0010_Spells.md?id=magic-tricks) | [Znanje jezika \(R\)](0010_Spells.md?id=know-languages-r) | [Znanje poravnanja \(R\)](0010_Spells.md?id=know-alignment-r) | [Reč moći – Omami](0010_Spells.md?id=power-word-stun) |
+| [Snaga](0010_Spells.md?id=might) | [Levitacija](0010_Spells.md?id=levitate) | [Munja](0010_Spells.md?id=lightning-bolt) | [Ukloni kletvu \(R\)](0010_Spells.md?id=remove-curse-r) |
+| [Ljubimac](0010_Spells.md?id=pet) | [Svetlo](0010_Spells.md?id=light) | [Lociraj predmet \(R\)](0010_Spells.md?id=locate-object-r) | [Sfera neranjivosti, manja](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
+| [Poliranje](0010_Spells.md?id=polish) | [Magični projektil](0010_Spells.md?id=magic-missile) | [Magijsko zaključavanje](0010_Spells.md?id=mage-lock) | [Zid vatre/Krug vatre](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| [Očuvanje](0010_Spells.md?id=preserve) | [Predviđanje vremena](0010_Spells.md?id=predict-weather) | [Magična usta](0010_Spells.md?id=magic-mouth) | [Čarobnjakov vid](0010_Spells.md?id=wizard-sight) |
+| [Zaštita](0010_Spells.md?id=protection) | [Zaštita od zla \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Slika u ogledalu](0010_Spells.md?id=mirror-image) |
+| [Čitaj magiju](0010_Spells.md?id=read-magic) | [Osiguraj portal](0010_Spells.md?id=secure-portal) | [Usporavanje](0010_Spells.md?id=slow) |
+| [Popravka](0010_Spells.md?id=repair) | [Štit](0010_Spells.md?id=shield) | [Disanje pod vodom \(R\)](0010_Spells.md?id=water-breathing-r) |
+| [Sređivanje](0010_Spells.md?id=tidy) | [San](0010_Spells.md?id=sleep) |
+| | [Paukova mreža](0010_Spells.md?id=web) |
+| | [Paukovo penjanje](0010_Spells.md?id=spider-climb) |
 
-_(R) označava reverzibilnu čin._
+_\(R\) označava reverzibilnu čin._
+
 
 ---
-## Lopov
+## Odmetnik
 
-Lopovi su stručnjaci za subterfugiju (podvale), specijalizovani za prikrivenost, zamke, obijanje brava i druge veštine na koje društvo često gleda sa sumnjom. Međutim, iako su svi lopovi (thieves) odmetnici (rogues), nisu svi odmetnici lopovi. Odmetnici preživljavaju svojom domišljatošću, koristeći svoje veštine infiltracije i prikrivenosti za opšte dobro. Međutim, opšte dobro često zavisi od toga na kojoj strani dijamanta stojite.
+Odmetnici su stručnjaci za subterfuge, specijalizovani za prikradanje, zamke, obijanje brava i druge veštine koje društvo često posmatra sa sumnjom. Međutim, iako su svi lopovi odmetnici, nisu svi odmetnici lopovi. Odmetnici preživljavaju zahvaljujući svojoj snalažljivosti, koristeći svoje veštine infiltracije i prikradanja za opšte dobro. Međutim, opšte dobro često zavisi od toga na kojoj strani dijamanta stojite.
 
-#### Uobičajene rase/kulture
+#### Uobičajene vrste/kultura
 
 Bilo koja
 
 #### Važne karakteristike
 
-DEX, INT i CHA
+SPR, INT i HAR
 
-#### Zahtevi za usmerenje/zakletvu
+#### Poravnanje/Zahtevi zakletve
 
-- Usmerenje: Odmetnici nisu ograničeni usmerenjem i ne zahtevaju zakletvu osim ako nisu članovi lopovskog esnafa.
-- Zakletva lopovskog esnafa 30% plus INT+POW lika
+- Poravnanje: Odmetnici nisu ograničeni poravnanjem i ne zahtevaju zakletvu osim ako nisu članovi lopovskog udruženja.
+- Zakletva lopovskog udruženja 30% plus karakterova INT+MOĆ
 
-Pogledajte [Poglavlje 4: Usmerenje i strasti](0004_Alignment_and_Passions.md).
+Pogledajte [Poglavlje 4: Poravnanje i strasti](0004_Alignment_and_Passions.md).
 
-Pored bilo kog rasnog/kulturološkog usmerenja i strasti, odmetnici koji odluče da se pridruže lopovskom esnafu moraju položiti zakletvu i pratiti sva normalna pravila postavljena u [Korišćenje usmerenja i strasti](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Pored toga, moraju se pridržavati sledećih strogih pravila: pokazati lojalnost drugim članovima, pridržavati se svih pravila esnafa, delovati u najboljem interesu esnafa (stavljajući esnaf ispred ličnih interesa), čuvati tajne esnafa, plaćati esnafske članarine i plaćati deo bilo kog posla 'odobrenog' od strane esnafa.
+Pored bilo kog rasnog/kulturnog poravnanja i strasti, odmetnici koji odluče da se pridruže lopovskom udruženju moraju položiti zakletvu i pratiti sva normalna pravila postavljena u [Korišćenje poravnanja i strasti](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Pored toga, moraju se pridržavati sledećih strogih pravila: pokazati lojalnost drugim članovima, poštovati sva pravila udruženja, delovati u najboljem interesu udruženja (stavljajući udruženje ispred ličnih interesa), čuvati tajne udruženja, plaćati članarinu i davati procenat od svakog posla „odobrenog“ od strane udruženja.
 
-Članarine variraju prema lokaciji i veličini esnafa, ali oko 100 zlatnika godišnje je standardno. Pored godišnjih članarina, članovi su dužni da plate deo poslova gde je esnaf pomogao u vidu kontakata, dojava, mapa, opštih informacija i tako dalje. Specifičan iznos dela treba odrediti od slučaja do slučaja, u zavisnosti od pružene pomoći, ali prosek od 20%, modifikovan gore ili dole, je otprilike tačan. Zauzvrat, esnaf pruža privremeno sklonište članu i njegovim saveznicima, kao i bilo koje druge usluge koje Gospodar igre smatra prikladnim. Preprodavci (fences) su dostupni da pomognu u premeštanju ukradene robe, i preko ovih kontakata, od lopova se može očekivati da dobije oko ¼ prodajne vrednosti predmeta. Većina lopovskih esnafa ima prisustvo u većini većih gradova, pa čak i u nekim velikim varošima.
+Članarine variraju prema lokaciji i veličini udruženja, ali oko 100 zlatnika godišnje je standard. Pored godišnje članarine, od članova se zahteva da daju procenat od svih poslova gde je udruženje pomoglo u vidu kontakata, dojava, mapa, opštih informacija i tako dalje. Specifičan iznos procenta treba određivati od slučaja do slučaja, zavisno od pružene pomoći, ali prosek od 20%, modifikovan naviše ili naniže, je otprilike u redu. Zauzvrat, udruženje obezbeđuje privremeno sklonište za člana i njegove saveznike, kao i sve druge usluge koje GM smatra prikladnim. Preprodavci ukradene robe su dostupni da pomognu u prodaji ukradene robe, a preko ovih kontakata, od lopova se može očekivati da dobije oko ¼ prodajne vrednosti predmeta. Većina lopovskih udruženja ima prisustvo u većini većih gradova, pa čak i u nekim velikim varošima.
 
-Odmetnik može odlučiti da se pridruži lopovskom esnafu nakon kreiranja lika ako Gospodar igre dozvoli. Iako pridruživanje lopovskom esnafu tokom kreiranja lika ne košta lika ništa, pridruživanje kasnije košta 100 zlatnika po trenutnom rangu i traje 1 mesec obuke i inicijacije. Nakon dodeljenog vremena, lik preuzima titulu lopovskog esnafa prikladnu svom rangu i dodaje Zakletvu lopovskog esnafa na 30% plus POW+INT.
+Odmetnik može izabrati da se pridruži lopovskom udruženju nakon stvaranja lika ako GM to dozvoli. Dok pridruživanje lopovskom udruženju tokom stvaranja lika ne košta ništa, kasnije pridruživanje košta 100 zlatnika po trenutnom rangu i zahteva 1 mesec obuke i inicijacije. Nakon dodeljenog vremena, lik preuzima titulu lopovskog udruženja prikladnu za svoj rang i dodaje Zakletvu lopovskog udruženja na 30% plus MOĆ+INT.
 
 #### Veštine
 
-Zbog svoje raznolike prirode, odmetnici poseduju više izbora veština od standardnog dodela. Međutim, oni ne dobijaju nikakve dodatne poene veština.
+Zbog svoje raznolike prirode, odmetnici poseduju više izbora veština nego standardna alokacija. Međutim, ne dobijaju nikakve dodatne bodove veština.
 
-- **Standardne veštine:** Atletika, Borbena veština (Odmetnik), Obmana, Izbegavanje, Uvid, Percepcija, Prikrivenost
-- **Profesionalne veštine:** Odmetnik automatski dobija Obijanje brava i Mehanizme, plus dve dodatne veštine iz sledećeg: Akrobatika, Gluma, Trgovina, Prerušavanje, Zastrašivanje, Zavođenje, Prevara (Sleight) ili Poznavanje ulica (Streetwise). Pri kreiranju lika, članovi lopovskog esnafa takođe dobijaju Jezik (Lopovski žargon) na +40. Ako ga uzmu kasnije, ne dobijaju bonus od +40.
+- **Standardne veštine:** Atletika, Borbena veština (Odmetnik), Obmana, Izmicanje, Uvid, Percepcija, Prikradanje
+- **Profesionalne veštine:** Odmetnik automatski dobija Obijanje brava i Mehanizme, plus dve dodatne veštine iz sledećeg: Akrobatika, Gluma, Trgovina, Maskiranje, Zastrašivanje, Zavođenje, Prevara ili Poznavanje ulice. Pri stvaranju lika, članovi lopovskog udruženja takođe dobijaju Jezik (Lopovski žargon) na +40. Ako ga uzmu kasnije, ne dobijaju bonus od +40.
 
-#### Odmetnikov oklop i veština rukovanja oružjem
+#### Odmetnički oklop i poznavanje oružja
 
-Odmetnici su vešti sa svim vrstama oklopa (laganim i teškim), i sa svim štitovima (osim tornih štitova). Međutim, oni trpe kazne na mnoge sposobnosti odmetnika kada nose teški oklop ili kada su opterećeni. Njihova borbena veština uključuje upotrebu svih osnovnih oružja, plus ručnih samostrela, dugih mačeva, rapira i kratkih mačeva.
+Odmetnici su vešti sa svim vrstama oklopa (lakim i teškim), kao i sa svim štitovima (osim tornja štitova). Međutim, oni trpe kazne za mnoge odmetničke sposobnosti kada nose težak oklop ili kada su opterećeni. Njihova borbena veština uključuje upotrebu svih osnovnih oružja, plus ručnih samostrela, dugih mačeva, rapira i kratkih mačeva.
 
-### Struktura ranga
+### Struktura rangova
 
-Svi odmetnici su ocenjeni rangom, koji je ocena moći i veštine. Možete izabrati titule odmetnika ili lopova, u zavisnosti od toga šta je relevantnije za vaš odnos sa lopovskim esnafom. Kada se stekne određeni stepen majstorstva u ograničenom broju klasnih veština, odmetnici mogu povećati svoj rang, jer će pokazati neophodan nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni poen sreće i mogu se steći nove sposobnosti. Ove informacije se nalaze u sledećoj tabeli pod Napredovanje. Pod pretpostavkom da ispunjavate preduslove, vaš lik počinje kao Rang 1 Zlikovac ili Provalnik sa odgovarajućim sposobnostima navedenim ispod; u suprotnom, počinjete kao Rang 0 Skitnica ili Džeparoš bez drugih sposobnosti.
+Svi odmetnici su ocenjeni po rangu, što je ocena moći i veštine. Možete izabrati titulu odmetnika ili lopova, zavisno od toga šta je relevantnije za vaš odnos sa lopovskim udruženjem. Kada se stekne određeni stepen majstorstva u ograničenom broju klasnih veština, odmetnici mogu povećati svoj rang, jer će pokazati neophodan nivo sposobnosti. Kada se dostigne ovaj nivo sposobnosti, dobija se dodatni Poen sreće i mogu se steći nove sposobnosti. Ove informacije se nalaze u sledećoj tabeli pod Napredovanje. Pod pretpostavkom da ispunjavate preduslove, vaš lik počinje kao Rang 1 Zlikovac ili Provalnik sa odgovarajućim sposobnostima navedenim ispod; u suprotnom, počinjete kao Rang 0 Huligan ili Džeparoš bez drugih sposobnosti.
 
-##### Tabela ranga odmetnika
+##### Tabela rangova odmetnika
 
 | Rang | Titula (Odmetnik) | Titula (Lopov) | Napredovanje | Hit poeni | Poeni sreće | Akcioni poeni |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Skitnica | Džeparoš | - | 0 | +0 | +0 |
+| **0** | Huligan | Džeparoš | - | 0 | +0 | +0 |
 | **1** | Zlikovac | Provalnik | Bilo kojih 5 klasnih veština na 40% | 0 | +0 | +0 |
 | **2** | Odmetnik | Lopov | Bilo kojih 5 klasnih veština na 70% | +1 | +1 | +1 |
 | **3** | Master odmetnik | Master lopov | Bilo koje 4 klasne veštine na 90% | +1 | +2 | +1 |
-| **4** | Veliki master odmetnik | Veliki master lopov | Bilo koje 3 klasne veštine na 110% | +2 | +3 | +2 |
+| **4** | Grand master odmetnik | Grand master lopov | Bilo koje 3 klasne veštine na 110% | +2 | +3 | +2 |
 | **5** | Legendarni odmetnik | Legendarni lopov | Bilo koje 2 klasne veštine na 130% | +2 | +4 | +2 |
 
 #### Početne sposobnosti
 
-Odmetnik poznaje sve sledeće sposobnosti na Rangu 1. Pored toga, tokom kreiranja lika, možete besplatno izabrati jednu sposobnost Ranga 1 pod pretpostavkom da ispunjavate njene zahteve.
+Odmetnik poznaje sve sledeće sposobnosti na Rangu 1. Pored toga, tokom stvaranja lika, možete izabrati jednu sposobnost Ranga 1 besplatno pod pretpostavkom da ispunjavate njene uslove.
 
-- **Penjanje po zidovima:** Posebno ste dobri u penjanju na bilo šta do strme površine. Ako ste neopterećeni (manje 'Stvari' nošenih nego STR), i ne noseći ništa restriktivnije od laganog oklopa, možete ignorisati 1 stepen težine za svoje bacanje Atletike kada izvodite bilo koji pokušaj penjanja. Pored toga, kazna oklopa na osnovno kretanje pri penjanju se može ignorisati.
-- **Sakrivanje u senkama:** Stručnjak ste u prikrivenosti i usavršili ste umetnost sakrivanja u senkama. Ako se možete pozicionirati u području obavijenom senkom, sva bacanja Percepcije da vas primete su za 1 stepen težine teža.
-- **Prikradajući napad (Sneak Attack):** Odmetnik može pokušati da neutrališe žrtvu iz povoljnog položaja ako je naoružan malim ili srednjim oružjem za blizinu ili koristi dalekometno oružje unutar 30 stopa od žrtve. Meta mora biti generalno humanoidnog oblika i posedovati vitalne organe. Nema efekta na zmaja ili želatinoznu masu, na primer. Budući da je napadač obično sposoban da udari bez ometanja, dobija Izaberi lokaciju kao bonus specijalni efekat ako je uspešan. Međutim, odabrana lokacija mora biti glava, grudi ili abdomen mete da bi se dobile bilo koje od sledećih dodatnih pogodnosti.
-  - Napadač može ignorisati bilo koji negativni modifikator štete koji se normalno primenjuje, specijalni efekti Zaobiđi oklop i Maksimizuj štetu ne zahtevaju kritičan uspeh.
-  - Nije neophodno da odmetnik iznenadi žrtvu; međutim, napad mora biti izveden izvan vidnog polja žrtve. Stoga, mnogi odmetnici čekaju da se protivnik angažuje sa saveznikom, a zatim iskoriste ometanje da udare s leđa. Pariranje ili izbegavanje prikradajućeg napada prvo zahteva bacanje Percepcije, teško bacanje Percepcije ako je žrtva već ometena. Ako je uspešno, odbrana od napada koji dolazi sa strane je Formidabilna, dok je odbrana od napada s leđa Herkulovski zadatak! Prikradajući napad se može koristiti na istoj meti više od jednom samo ako ostanu ometeni ili na drugi način nesvesni svog napadača.
-- **Subterfugija:** Budući da su odmetnici majstori infiltracije, veštine Obijanja brava, Mehanizama i Prevare su za 1 stepen težine lakše.
+- **Penjanje po zidovima:** Naročito ste dobri u penjanju na bilo šta do strme površine. Ako ste neopterećeni (manje „stvari“ nošeno nego što je SNA) i ne nosite ništa restriktivnije od lakog oklopa, možete zanemariti 1 stepen težine za svoj Atletika bacanje pri svakom pokušaju penjanja. Pored toga, kazna oklopa na osnovno kretanje pri penjanju se može zanemariti.
+- **Sakrivanje u senkama:** Ekspert ste u prikradanju i usavršili ste umetnost sakrivanja u senkama. Ako se možete pozicionirati u oblasti obavijenoj senkom, sva bacanja Percepcije da vas uoče su 1 stepen težine teža.
+- **Podmukli napad:** Odmetnik može pokušati da neutrališe žrtvu iz povoljnog položaja ako je naoružan malim ili srednjim oružjem za blisku borbu ili koristi oružje na daljinu unutar 9 metara od žrtve. Meta mora biti generalno humanoidnog oblika i posedovati vitalne organe. Nema efekta na zmaja ili želatinastu masu, na primer. Pošto je napadač obično u stanju da udari bez ometanja, dobija Izbor lokacije kao bonus Specijalni efekat ako je uspešan. Međutim, izabrana lokacija mora biti glava, grudi ili stomak mete da bi se dobila bilo koja od sledećih dodatnih pogodnosti.
+  - Napadač može zanemariti bilo koji negativni modifikator štete koji se normalno primenjuje; Specijalni efekti Zaobiđi oklop i Maksimizuj štetu ne zahtevaju kritičan uspeh.
+  - Nije neophodno da odmetnik iznenadi žrtvu; međutim, napad se mora izvesti izvan vidnog polja žrtve. Stoga, mnogi odmetnici čekaju da protivnik postane angažovan sa saveznikom, a zatim koriste ometanje da udare s leđa. Pariranje ili izmicanje podmuklom napadu prvo zahteva bacanje Percepcije, teško bacanje Percepcije ako je žrtva već ometena. Ako je uspešno, odbrana od napada koji dolazi sa strane je Formidabilna, dok je odbrana od napada s leđa Herkulovski zadatak! Podmukli napad se može koristiti na istoj meti više od jednom samo ako ostane ometena ili na drugi način nesvesna svog napadača.
+- **Subterfuge:** Pošto su odmetnici majstori infiltracije, veštine Obijanje brava, Mehanizmi i Prevara su za 1 stepen težine lakše.
 
 #### Rangirane sposobnosti
 
-Kao što ime sugeriše, rangirane sposobnosti može izabrati samo lik određenog ranga ili višeg. Većina ima preduslovnu veštinu koja mora biti na određenom nivou veštine ili višem. Niste zaključani iz ranijih rangiranih sposobnosti kada se postigne novi rang. Ako niste uspeli da uzmete sposobnost Ranga 2, na primer, možete se vratiti i uzeti je na Rangu 3 ili čak kasnije. Ne više od jedne rangirane sposobnosti se može uzeti po sesiji.
+Kao što ime sugeriše, rangirane sposobnosti mogu izabrati samo likovi određenog ranga ili višeg. Većina ima preduslov veštine koji mora biti na određenom nivou ili višem. Niste zaključani iz ranijih rangiranih sposobnosti kada se dostigne novi rang. Ako niste uzeli sposobnost Ranga 2 na primer, možete se vratiti i uzeti je na Rangu 3 ili čak kasnije. Ne više od jedne rangirane sposobnosti se može uzeti po sesiji.
 
 #### Rang 1:
 
-Za svaki utrošak od 1 iskustvenog poena odmetnik može dobiti jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
+Za svako trošenje 1 iskustvenog bacanja, odmetnik može steći jednu od sledećih sposobnosti (svaka se može uzeti samo jednom):
 
-- **Okretan:** Zahteva Izbegavanje ili Akrobatiku na 60% ili više. Pod pretpostavkom da ste neopterećeni (manje 'Stvari' nošenih nego STR) i ne noseći ništa restriktivnije od laganog oklopa, možete iskoristiti svoje vrhunske reflekse u borbi. Pri izračunavanju inicijative, možete dodati +4 na ukupan broj.
-- **Vešt izbegavač (Artful Dodger):** Zahteva Izbegavanje od 50% ili više. Ovaj talenat zahteva da budete neopterećeni (manje 'Stvari' nošenih nego STR) i ne noseći ništa restriktivnije od laganog oklopa. Posedujete brze reflekse i možete koristiti veštinu Izbegavanja da izbegnete napad za blizinu bez pada na zemlju. Protiv dalekometnog napada, završavate na zemlji samo ako ne uspete u bacanju.
-- **Odličan sluh:** Zahteva Percepciju od 50% ili više. Vaš izoštren sluh čini sva bacanja Percepcije koja se tiču sluha za 1 stepen težine lakšim.
-- **Oštrovidan:** Zahteva Percepciju od 50% ili više. Vaš izoštren vid čini sva bacanja Percepcije koja se tiču vida za 1 stepen težine lakšim.
-- **Čarka:** Zahteva Atletiku i Borbenu veštinu od 50% ili više. Ova sposobnost dozvoljava pokretanje dalekometnih napada u istom krugu u kojem trčite (ali ne tokom sprinta). Međutim, procenat napada napadača ne može premašiti njegovu veštinu Atletike.
-- **Mačevanje (Swashbuckling):** Zahteva Borbenu veštinu od 50% ili više. Pod pretpostavkom da je lik neopterećen (manje 'Stvari' nošenih nego STR) i ne noseći ništa restriktivnije od laganog oklopa, oni mogu učestvovati u napadima i izbegavanjima napravljenim tokom skakanja ili zamahivanja u (ili povlačenja iz) borbe, ignorišući bilo koje ograničenje veštine postavljeno na to od strane veštine Atletike.
-- **Odbrana bez oklopa:** Zahteva sposobnost Vešt izbegavač i ili Izbegavanje ili Akrobatiku na 50% ili više. Vaš lik je izuzetno teško pogoditi kada nije ometen oklopom. Kada ste neopterećeni (manje 'Stvari' nošenih nego STR) i ne noseći NIKAKAV oklop, vaša bacanja izbegavanja su za 1 stepen težine lakša.
-- **Preskakanje (Vaulting)** (zahteva Akrobatiku): Zahteva Akrobatiku od 50% ili više. Kada ste neopterećeni (manje 'Stvari' nošenih nego STR), možete koristiti svoju veštinu Akrobatike za preskakanje sa motkom prema sledećim pravilima. Koristeći motku najmanje dužine kvoterstafa i krećući se najmanje brzinom trčanja ili sprinta, možete preskočiti prepreke ili na lokacije van domašaja. Ovo zahteva uspešno lako bacanje Akrobatike, i ako je uspešno, omogućiće vam da preskočite horizontalno do dvostruke vaše visine +1d4+6 stopa. Uspešan vertikalni skok omogućiće vam da dostignete visine jednake dužini kvoterstafa (6 do 9 stopa); međutim, skakanje vertikalno uzrokuje da završite na zemlji. Lik bez ove sposobnosti koji poseduje veštinu Akrobatike može pokušati ovaj podvig pri normalnoj težini. Pri kritičnom uspehu sa horizontalnim skokom, pređena udaljenost se može povećati za polovinu. Kritičan uspeh dok skačete vertikalno omogućava vam da sletite na noge.
-- **Preciznost oružja:** Vešti ste u korišćenju malih, sakrivajućih oružja koja ne zahtevaju mnogo snage, suptilno i efikasno. Ovo vam omogućava da izračunate Modifikator štete sa ovim oružjima na osnovu STR+DEX umesto STR+SIZ, šta god daje bolji rezultat. Modifikator štete ne može premašiti dvostruku normalnu kocku štete oružja. Na primer, bodež sa štetom od 1d4+1 bi bio ograničen na Modifikator štete od +1d4, čineći ga 1d4+1+1d4. Ova sposobnost pokriva palice, bodeže, garote, noževe, kratke mačeve, main gauche i rapire. Kao i nenaoružane napade. Pikado, praćke, kratki lukovi i koplja takođe spadaju u ovu kategoriju.
+- **Okretan:** Zahteva Izmicanje ili Akrobatiku na 60% ili više. Pod pretpostavkom da ste neopterećeni (manje „stvari“ nošeno nego što je SNA) i da ne nosite ništa restriktivnije od lakog oklopa, možete koristiti svoje vrhunske reflekse u borbi. Pri izračunavanju inicijative, možete dodati +4 na ukupan zbir.
+- **Vešt izmicanja:** Zahteva Izmicanje od 50% ili više. Ovaj talenat zahteva da budete neopterećeni (manje „stvari“ nošeno nego što je SNA) i da ne nosite ništa restriktivnije od lakog oklopa. Posedujete brze reflekse i možete koristiti veštinu Izmicanja da izbegnete napad iz bliske borbe bez padanja. Protiv napada na daljinu, završavate na zemlji samo ako promašite bacanje.
+- **Odličan sluh:** Zahteva Percepciju od 50% ili više. Vaš oštar sluh čini sva bacanja Percepcije koja se tiču sluha lakšim za 1 stepen težine.
+- **Oštrovidan:** Zahteva Percepciju od 50% ili više. Vaš oštar vid čini sva bacanja Percepcije koja se tiču vida lakšim za 1 stepen težine.
+- **Čarka:** Zahteva Atletiku i Borbenu veštinu na 50% ili više. Ova sposobnost dozvoljava pokretanje napada na daljinu u istoj rundi u kojoj trčite (ali ne dok sprintate). Međutim, napadačev procenat napada ne može premašiti njegovu veštinu Atletike.
+- **Mačevanje:** Zahteva Borbenu veštinu na 50% ili više. Pod pretpostavkom da je lik neopterećen (manje „stvari“ nošeno nego što je SNA) i ne nosi ništa restriktivnije od lakog oklopa, može se upustiti u napade i izmicanja napravljena dok skače ili se njiše u (ili se povlači iz) borbe, zanemarujući bilo kakvo ograničenje veštine postavljeno od strane veštine Atletike.
+- **Odbrana bez oklopa:** Zahteva sposobnost Vešt izmicanja i ili Izmicanje ili Akrobatiku na 50% ili više. Vaš lik je izuzetno težak za pogađanje kada nije sputan oklopom. Kada ste neopterećeni (manje „stvari“ nošeno nego što je SNA) i ne nosite NIKAKAV oklop, vaša bacanja Izmicanja su 1 stepen težine lakša.
+- **Preskakanje (zahteva Akrobatiku):** Zahteva Akrobatiku na 50% ili više. Kada ste neopterećeni (manje „stvari“ nošeno nego što je SNA), možete koristiti svoju veštinu Akrobatike za skok motkom prema sledećim pravilima. Koristeći motku bar dužine četvrtine štapa i krećući se brzinom trčanja ili sprintanja, možete preskočiti prepreke ili se popeti na lokacije van domašaja. Ovo zahteva uspešno lako bacanje Akrobatike, i ako je uspešno, omogući će vam da preskočite horizontalno do dvaput sopstvene visine +1d4+6 stopa. Uspešan vertikalni skok će vam omogućiti da dosegnete visine jednake dužini četvrtine štapa (6 do 9 stopa); međutim, vertikalno preskakanje dovodi do toga da završite na zemlji. Lik bez ove sposobnosti koji poseduje veštinu Akrobatike može pokušati ovaj podvig uz normalnu težinu. Na kritičan uspeh sa horizontalnim preskakanjem, razdaljina skoka se može povećati za još polovinu. Kritičan uspeh pri vertikalnom preskakanju omogućava vam da doskočite na noge.
+- **Preciznost oružja:** Vešti ste u korišćenju malog, sakrivenog oružja koje ne zahteva mnogo snage, suptilno i efikasno. Ovo vam omogućava da izračunate modifikator štete sa ovim oružjima na osnovu SNA+SPR umesto SNA+VEL, zavisno od toga šta generiše bolji rezultat. Modifikator štete ne može premašiti dvostruku normalnu kocku štete oružja. Na primer, bodež sa štetom od 1d4+1 bio bi ograničen na modifikator štete od +1d4, čineći ga 1d4+1+1d4. Ova sposobnost pokriva buzdovane, bodeže, garote, noževe, kratke mačeve, levi mač i rapire. Kao i nenoružane napade. Strelice, praćke, kratki lukovi i koplja za bacanje takođe spadaju u ovu kategoriju.
 
 #### Rang 2:
 
-Sposobnost Prikradajući napad odmetnika sada radi +1d2 štete sa oružjima za blizinu, nema dodatne štete sa dalekometnim oružjima. Pored toga, mogu uzeti sledeće sposobnosti po ceni od 2 EXP poena svaka (svaka se može uzeti samo jednom):
+Sposobnost Podmukli napad odmetnika sada nanosi +1d2 štete oružjima za blisku borbu, bez dodatne štete oružjima na daljinu. Pored toga, oni mogu uzeti sledeće sposobnosti po ceni od 2 iskustvena bacanja svaka (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi:** Odbrambeni refleksi zahtevaju da budete neopterećeni (manje 'Stvari' nošenih nego STR), ne noseći ništa restriktivnije od laganog oklopa. Jednom po borbi možete ponovo baciti neuspešno pariranje ili izbegavanje bez trošenja poena sreće. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
-- **Čitanje jezika:** Zahteva Zakletvu na 70% ili više i jedan mesec obuke sa lopovskim esnafom. Samo članovi lopovskog esnafa mogu uzeti ovu sposobnost. Naučili ste da čitate bilo koji jezik, čak i one koje inače ne znate. Ovo nije potpuno razumevanje svih jezika, već šansa da pokupite reč ovde ili frazu tamo i sastavite je. Glavna upotreba ove veštine je razumevanje beleški, instrukcija i mapa blaga, ali se može koristiti za pokušaj dešifrovanja bilo kog inače nepoznatog jezika. Čitanje jezika je profesionalna veština i počinje na osnovnom nivou od INTx2. Gospodar igre treba da baci ovu proveru veštine, čuvajući rezultate tajnim, jer ne biste znali da li ste uspešno preveli tekst, ili samo mislite da jeste. Uspeh će otkriti nekoliko korisnih informacija jednakih vašem (INT/4) dok će kritičan uspeh otkriti nekoliko informacija jednakih vašem INT/2. Pri neuspešnom bacanju, ne učite nikakve informacije. Konačno, pri Fumble-u, verujete samo da znate tačnu temu i Gospodar igre vas može nahraniti lažnim informacijama.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne može premašiti rasne maksimume.
+- **Defanzivni refleksi:** Defanzivni refleksi zahtevaju da budete neopterećeni (manje „stvari“ nošeno nego što je SNA) i da ne nosite ništa restriktivnije od lakog oklopa. Jednom po borbi možete ponovo baciti neuspešno pariranje ili bacanje Izmicanja bez trošenja Poena sreće. Ne možete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
+- **Čitanje jezika:** Zahteva Zakletvu na 70% ili više i mesec dana obuke kod lopovskog udruženja. Samo članovi lopovskog udruženja mogu uzeti ovu sposobnost. Naučili ste da čitate bilo koji jezik, čak i one koje inače ne znate. Ovo nije potpuno razumevanje svih jezika, već šansa da uhvatite reč ovde ili frazu tamo i sastavite ih. Glavna upotreba ove veštine je razumevanje beleški, instrukcija i mapa blaga, ali se može koristiti za pokušaj dešifrovanja bilo kog drugog nepoznatog jezika. Čitanje jezika je profesionalna veština i počinje na osnovnom nivou od INTx2. GM treba da baci ovu proveru veštine, držeći rezultate u tajnosti, jer ne biste znali da li ste uspešno preveli tekst ili samo mislite da jeste. Uspeh će otkriti nekoliko korisnih informacija jednakih vašem (INT/4), dok će kritičan uspeh otkriti nekoliko informacija jednakih vašem INT/2. Na neuspešnom bacanju ne dobijate nikakve informacije. Konačno, na nespretnosti (fumble), verujete samo da znate tačnu temu i GM vam može dati lažne informacije.#### Rang 3:
 
-#### Rang 3:
+Sposobnost lopova Prikradajući napad sada nanosi +1d4 štete hladnim oružjem, +1d2 dodatne štete oružjem za daljinu. Pored toga, mogu uzeti sledeće sposobnosti po ceni od 3 bacanja za IKS svaka (svaka se može uzeti samo jednom):
 
-Sposobnost Prikradajući napad odmetnika sada radi +1d4 štete sa oružjima za blizinu, +1d2 dodatne štete sa dalekometnim. Pored toga, mogu uzeti sledeće sposobnosti po ceni od 3 EXP poena svaka (svaka se može uzeti samo jednom):
-
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi II:** Zahteva Odbrambene reflekse. Kao kod Odbrambenih refleksa, međutim sada možete koristiti ovu sposobnost dvaput u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
-- **Upotreba arkana svitaka:** Zahteva Zakletvu na 90% ili više i jedan mesec obuke u lopovskom esnafu. Samo članovi lopovskog esnafa mogu uzeti ovu sposobnost. Ova sposobnost omogućava odmetniku da baca čini sa bilo kog svitka maga bez potrebe da je prethodno bacio Čitanje magije na njega. Ova šansa je jednaka vašem INT x5%. Neuspeh ovog bacanja automatski rezultira Fumble-om zbog vašeg nedostatka obuke i razumevanja magijskih umetnosti. Fumble preokreće efekte čini ili ih pokreće na čitaocu, šta god je najštetnije kako odredi Gospodar igre.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Defanzivni refleksi II:** Zahteva Defanzivne reflekse. Kao kod Defanzivnih refleksa, međutim sada možete koristiti ovu sposobnost dva puta u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
+- **Korišćenje magičnih svitaka:** Zahteva Zakletvu na 90% ili više i mesec dana obuke u lopovskom esnafu. Samo članovi lopovskog esnafa mogu uzeti ovu sposobnost. Ova sposobnost omogućava lopovu da baca čini sa bilo kog svitka magičara bez potrebe da je prethodno bacio Čitanje magije na njega. Ova šansa je jednaka vašem INT x5%. Neuspeh ovog bacanja automatski rezultira neveštinom (Fumble) zbog vašeg nedostatka obuke i razumevanja magijskih veština. Neveština preokreće efekte čini ili ih aktivira na čitaocu, šta god je štetnije prema nahođenju Gospodara igre.
 
 #### Rang 4:
 
-Sposobnost Prikradajući napad odmetnika sada radi +1d6 štete sa oružjima za blizinu, +1d4 štete sa dalekometnim. Pored toga, mogu uzeti sledeće sposobnosti po ceni od 4 EXP poena svaka (svaka se može uzeti samo jednom):
+Sposobnost lopova Prikradajući napad sada nanosi +1d6 štete hladnim oružjem, +1d4 štete oružjem za daljinu. Pored toga, mogu uzeti sledeće sposobnosti po ceni od 4 bacanja za IKS svaka (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi III:** Zahteva Odbrambene reflekse II. Kao kod Odbrambenih refleksa, međutim sada možete koristiti ovu sposobnost tri puta u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Defanzivni refleksi III:** Zahteva Defanzivne reflekse II. Kao kod Defanzivnih refleksa, međutim sada možete koristiti ovu sposobnost tri puta u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
 
 #### Rang 5:
 
-Sposobnost Prikradajući napad odmetnika sada radi +1d8 štete sa oružjima za blizinu, +1d6 štete sa dalekometnim. Pored toga, mogu uzeti sledeće sposobnosti po ceni od 5 EXP poena svaka (svaka se može uzeti samo jednom):
+Sposobnost lopova Prikradajući napad sada nanosi +1d8 štete hladnim oružjem, +1d6 štete oružjem za daljinu. Pored toga, mogu uzeti sledeće sposobnosti po ceni od 5 bacanja za IKS svaka (svaka se može uzeti samo jednom):
 
-- **Povećanje karakteristika:** Možete dodati +1 karakteristici po vašem izboru. Ovo ne sme premašiti rasne maksimume.
-- **Odbrambeni refleksi IV:** Zahteva Odbrambene reflekse III. Kao kod Odbrambenih refleksa, međutim sada možete koristiti ovu sposobnost četiri puta u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, međutim, niti kombinovati sa poenom sreće.
+- **Povećanje karakteristike:** Možete dodati +1 na karakteristiku po vašem izboru. Ovo ne sme premašiti rasne maksimume.
+- **Defanzivni refleksi IV:** Zahteva Defanzivne reflekse III. Kao kod Defanzivnih refleksa, međutim sada možete koristiti ovu sposobnost četiri puta u istoj borbi. Ne možete ponovo bacati protiv istog napada više od jednom, niti kombinovati sa Poenom sreće.
 
-### Osnovna početna oprema odmetnika
+### Osnovna početna oprema lopova
 
-Svaka stavka se računa kao 1 'Stvar' za svrhe težine (Encumbrance) osim ako nije drugačije navedeno.
+Svaka stavka na spisku računa se kao 1 „Stvar“ za potrebe opterećenja (Encumbrance) osim ako nije drugačije naznačeno.
 
 - Kratki mač
-- Ili 3 bodeža ili praćka i 10 olovnih metaka za praćku (1½ stvari)
-- Puni set kožnog oklopa (0 stvari kada se nosi, 7 stvari ako se nosi u rukama)
-- Obijači brava i lopovski alat
-- Ruksak (kapacitet 10 stvari), meh za vodu, trail racije za nedelju dana, vreća za spavanje, mala prazna vreća*, kremen i kresivo**, fenjer, 2 flaše ulja (6½ stvari sadržano)
-- Torbica na pojasu sa 4d4 zlatnika
+- Ili 3 bodeža ili praćka i 10 olovnih kuglica za praćku (1½ Stvari)
+- Pun komplet kožnog oklopa (0 Stvari kada se nosi, 7 Stvari ako se nosi u rukama)
+- Alat za obijanje brava i lopovski alat
+- Ranac (kapacitet 10 Stvari), mešina za vodu, jednonedeljne putne zalihe, vreća za spavanje, mala prazna torba\*, kremen i kresivo\*\*, fenjer, 2 bočice ulja (6½ Stvari sadržano)
+- Pojasna kesa sa 4d4 zlatnika
 
-Ukupno ENC 5 stvari
+Ukupno OPTEREĆENJE 5 Stvari
 
-_* Sadržaj se računa u sadržaj ruksaka jer se njegova zapremina povećava._
+_\* Sadržaj se računa u sadržaj ranca jer se njegova zapremina povećava._
 
-_** Računa se kao ½ stvari._
+_\*\* Računa se kao ½ Stvari._

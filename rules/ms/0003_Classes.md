@@ -1,32 +1,32 @@
 # Bab 3: Kelas
 
-Setiap watak _Classic Fantasy Imperative_ memulakan permainan setelah dilatih dalam sesuatu Kelas. Kelas ini merupakan kerjaya yang telah diceburi oleh watak tersebut sebagai sebahagian daripada peralihan ke alam dewasa, dan ia seterusnya menentukan perkembangan kemahiran watak tersebut.
+Setiap watak _Classic Fantasy Imperative_ memulakan permainan setelah dilatih dalam satu Kelas. Kelas ini merupakan kerjaya yang telah ditempuhi oleh watak sebagai sebahagian daripada peralihan menuju alam dewasa, dan ia seterusnya menentukan perkembangan kemahiran watak tersebut.
 
-Para pemain bebas untuk memilih Kelas yang sesuai dengan bangsa dan budaya watak mereka, dengan syarat Games Master (GM) menganggapnya sesuai. Penulisan ini memberikan panduan tentang bangsa-bangsa yang biasanya cenderung kepada Kelas tersebut. Cadangan ini bukanlah muktamad dan boleh diubah mengikut pilihan pemain, atau untuk disesuaikan dengan latar permainan yang lebih eksotik. Sebagai contoh, dalam kempen yang berlatarkan dunia padang pasir yang nazak, di mana kaum halfling adalah orang puak yang bersifat kanibal, tidak menjadi masalah untuk membenarkan mereka menjadi berserker. Para pemain tidak harus melihat sekatan bangsa/budaya ini sebagai peraturan yang ketat, sebaliknya sebagai titik permulaan standard. Pemain harus berasa bebas untuk mencadangkan alternatif kepada Games Master mereka yang, seterusnya, boleh membenarkan kombinasi Bangsa dan Kelas yang luar biasa untuk menyesuaikan diri dengan latar kempen yang lebih luar biasa atau memberi ganjaran kepada latar belakang cerita yang kreatif.
+Para pemain bebas memilih Kelas yang sesuai dari segi kaum dan budaya untuk watak mereka, dengan syarat Pengelola Permainan (Games Master) menganggapnya sesuai. Penulisan ini memberikan sedikit panduan mengenai kaum yang biasanya cenderung ke arah Kelas tersebut. Cadangan ini tidak muktamad dan boleh diubah mengikut pilihan pemain, atau untuk disesuaikan dengan latar permainan yang lebih eksotik. Sebagai contoh, dalam kempen yang berasaskan dunia padang pasir yang sedang nazak, di mana kaum halfling adalah kaum puak yang mengamalkan kanibalisme, tidak mustahil untuk membenarkan mereka menjadi berserker. Para pemain tidak seharusnya melihat sekatan kaum/budaya ini sebagai peraturan yang ketat dan tetap, sebaliknya sebagai titik permulaan standard. Para pemain harus berasa bebas untuk mencadangkan alternatif kepada Pengelola Permainan mereka yang, seterusnya, mungkin membenarkan gabungan kaum dan Kelas yang biasanya luar biasa untuk menyesuaikan diri dengan latar kempen yang lebih ganjil atau sebagai ganjaran untuk latar belakang cerita yang kreatif.
 
 #### Struktur Pangkat Kelas
 
-Struktur Kelas dan Pangkat dalam _Classic Fantasy Imperative_ adalah berdasarkan pelbagai organisasi seperti Order atau Guild. Contohnya, Guild Pahlawan (Fighter's Guild), Order Paderi (Clerical Order), Guild Pengguna Sihir (Magic-User's Guild), dan Guild Pencuri (Thieves' Guild).
+Struktur Kelas dan Pangkat _Classic Fantasy Imperative_ adalah berdasarkan pelbagai organisasi seperti Order atau Guild. Sebagai contoh, Guild Pahlawan (Fighter's Guild), Order Paderi (Clerical Order), Guild Pengguna Sihir (Magic-User's Guild), dan Guild Pencuri (Thieves' Guild).
 
-Pangkat digunakan sebagai alat untuk membimbing perkembangan watak dan kebanyakan struktur Kelas disusun dalam hierarki berbentuk piramid. Ahli biasa (Pangkat 0) membentuk asas piramid dan merupakan ahli yang paling ramai dalam sesuatu Kelas.
+Pangkat digunakan sebagai alat untuk membimbing perkembangan watak dan kebanyakan struktur Kelas disusun dalam hierarki piramid. Ahli biasa (Pangkat 0) membentuk tapak piramid dan merupakan ahli yang paling ramai dalam sesuatu Kelas.
 
-Pangkat yang lebih tinggi (Pangkat 1–5) mewakili ahli profesional dalam Kelas tersebut, yang bekerja sepenuh masa di bawah perintahnya.
+Pangkat yang lebih tinggi (Pangkat 1–5) mewakili ahli profesional dalam Kelas tersebut, yang bekerja sepenuh masa di bawah edik organisasi mereka.
 
-Bilangan berkurangan apabila seseorang meningkat naik melalui pangkat sehingga hanya segelintir individu, atau bahkan hanya seorang, yang menduduki eselon atas. Kemajuan membawa keistimewaan, prestij, ilmu pengetahuan, dan kadangkala sihir atau manfaat lain yang lebih besar.
+Bilangan ahli berkurangan apabila seseorang meningkat naik melalui pangkat sehingga hanya segelintir individu, atau bahkan hanya seorang, yang menduduki eselon atas. Kemajuan membawa keistimewaan, prestij, ilmu pengetahuan, dan kadangkala sihir atau faedah lain yang lebih besar.
 
 #### Meningkatkan Pangkat
 
-Watak berusaha untuk meningkat dalam pangkat demi mendapatkan penghormatan, reputasi, atau tanggungjawab yang lebih besar, atau sekadar kerana dahagakan ilmu dan kuasa.
+Watak berusaha untuk naik pangkat demi mengejar rasa hormat, reputasi, atau tanggungjawab yang lebih besar, atau sekadar kerana dahagakan ilmu dan kuasa.
 
-Setiap Kelas memerlukan beberapa kemahiran Kelas pada tahap tertentu untuk Peningkatan. Apabila watak mula-mula dicipta, kemahiran ini akan menentukan Pangkat awal watak tersebut. Memiliki mana-mana 5 kemahiran Kelas pada 40% atau lebih akan meletakkan watak pada Pangkat 1, kerana ia menunjukkan bahawa individu tersebut berkemampuan dan layak menerima Kebolehan istimewa Pangkat tersebut. Jika tidak, watak bermula pada Pangkat 0. Apabila watak akhirnya mencapai Pangkat 1, semua Kebolehan yang tidak dinyatakan sebagai Berpangkat boleh diperoleh tanpa kos dalam Gulungan Pengalaman (Experience Rolls), kerana watak itu dianggap telah mempraktikkan Kebolehan ini dalam permainan. Kebolehan Berpangkat boleh dibeli seperti biasa dengan Gulungan Pengalaman sebaik sahaja Pangkat 1 dicapai.
+Setiap Kelas memerlukan beberapa kemahiran Kelas pada tahap tertentu untuk Kenaikan Pangkat. Apabila watak pertama kali dicipta, kemahiran ini akan menentukan Pangkat awal watak tersebut. Memiliki mana-mana 5 kemahiran Kelas pada 40% atau lebih akan meletakkan watak pada Pangkat 1, kerana ia menunjukkan bahawa individu tersebut berkebolehan dan layak mendapat Kebolehan khas Pangkat itu. Jika tidak, watak bermula pada Pangkat 0. Apabila watak akhirnya mencapai Pangkat 1, semua Kebolehan yang tidak dinyatakan sebagai Berpangkat boleh diperolehi tanpa kos dalam Gulungan Pengalaman (Experience Rolls), kerana watak itu dianggap telah mempraktikkan Kebolehan ini dalam permainan. Kebolehan Berpangkat boleh dibeli seperti biasa dengan Gulungan Pengalaman setelah Pangkat 1 dicapai.
 
-Apabila tahap penguasaan yang lebih lanjut dicapai, berdasarkan Kemahiran watak, watak tersebut akan meningkatkan Pangkatnya lagi. Pada ketika itu, Kebolehan dan mantera yang dinilai pada Pangkat tersebut boleh dipelajari, kerana watak tersebut telah menunjukkan tahap kefahaman dan kemahiran yang diperlukan.
+Apabila tahap penguasaan yang lebih tinggi dicapai, berdasarkan Kemahiran watak, watak tersebut akan meningkatkan Pangkatnya lagi. Pada tahap itu, Kebolehan dan mantera yang dinilai pada Pangkat tersebut boleh dipelajari, kerana watak telah menunjukkan tahap pemahaman dan kemahiran yang diperlukan.
 
-Kebanyakannya, jika watak mempunyai kedudukan yang baik dengan mana-mana Sumpah yang diperlukan oleh Kelas dan memiliki bilangan kemahiran Kelas yang diperlukan pada tahap yang diperlukan, watak tersebut akan meningkat secara automatik ke Pangkat yang sewajarnya. Setiap Pangkat melebihi 1 juga membolehkan watak menambah satu lagi Mata Nasib (Luck Point) ke dalam jumlah mereka, memberikan mereka peluang yang lebih baik untuk bertahan dalam pertemuan yang lebih sukar tanpa perlu meningkatkan Mata Hit (Hit Points) secara tiruan. Setiap Kelas mempunyai jadual yang memperincikan keperluan kemahiran bagi setiap Pangkat, serta ringkasan mana-mana Bakat dan/atau Kebolehan Berpangkat yang tersedia. Berikut adalah penerangan bagi setiap elemen dalam jadual tersebut:
+Secara umumnya, jika watak mempunyai kedudukan yang baik dengan mana-mana Sumpah yang diperlukan oleh Kelas dan mempunyai bilangan kemahiran Kelas yang diperlukan pada tahap yang diperlukan, watak itu akan secara automatik meningkat ke Pangkat yang sesuai. Setiap Pangkat melebihi 1 juga membolehkan watak menambah 1 lagi Mata Nasib kepada jumlah mereka, memberikan mereka peluang yang lebih baik untuk bertahan dalam pertemuan yang lebih sukar tanpa perlu meningkatkan Mata Hit (Hit Points) secara buatan. Setiap Kelas mempunyai jadual yang memperincikan keperluan kemahiran bagi setiap Pangkat, serta ringkasan mana-mana Bakat dan/atau Kebolehan Berpangkat yang tersedia. Berikut adalah penerangan bagi setiap elemen dalam jadual tersebut:
 
-- **Pangkat:** Perwakilan angka bagi Pangkat watak.
-- **Gelaran:** Gelaran yang diberikan kepada watak Pangkat yang sewajarnya.
-- **Peningkatan:** Bilangan kemahiran kelas dan tahap kemahiran yang diperlukan untuk memperoleh Pangkat yang berkaitan. Ini boleh dipilih daripada mana-mana kemahiran kelas yang disenaraikan. Tidak perlu memilihnya terlebih dahulu. Kemahiran yang menerima bonus +40, seperti Adat dan Bahasa Ibunda, tidak pernah dikira untuk peningkatan.
+- **Pangkat:** Perwakilan berangka bagi Pangkat watak.
+- **Tajuk:** Gelaran yang diberikan kepada watak dengan Pangkat yang sesuai.
+- **Kenaikan Pangkat:** Bilangan kemahiran kelas dan tahap kemahiran yang diperlukan untuk memperoleh Pangkat yang berkaitan. Ini boleh dipilih daripada mana-mana kemahiran kelas yang disenaraikan. Tidak perlu memilihnya terlebih dahulu. Kemahiran yang menerima bonus +40, seperti Adat dan Bahasa Ibunda, tidak pernah dikira untuk kenaikan pangkat.
 - **Mantera dalam Ingatan:** Jika berkenaan, ini menunjukkan berapa banyak mantera bagi setiap Pangkat yang boleh anda hafal.
 - **Mata Hit:** Pangkat tertentu memberikan Mata Hit tambahan, yang ditambah pada semua lokasi. Nilai yang dinyatakan termasuk semua bonus sebelumnya.
 - **Mata Nasib:** Setiap Pangkat selepas yang pertama memberikan watak 1 Mata Nasib tambahan. Nilai yang dinyatakan termasuk semua bonus sebelumnya.
@@ -35,7 +35,7 @@ Kebanyakannya, jika watak mempunyai kedudukan yang baik dengan mana-mana Sumpah 
 ---
 ## Paderi (Cleric)
 
-Paderi adalah cabang militan bagi sesuatu order keagamaan dan mahir dalam melindungi agama mereka serta pengikutnya. Semasa waktu keamanan yang relatif, paderi mengembara ke seluruh tanah menyebarkan ajaran pantheon mereka dan mencari penganut baharu. Paderi diberkati dengan keupayaan untuk merapalkan mantera oleh dewa-dewi pantheon mereka dan juga merupakan pakar pertempuran menentang makhluk mayat hidup (undead), mempunyai kapasiti untuk menghalau mereka dengan hanya doa yang diucapkan.
+Paderi adalah cabang militan bagi sesuatu order agama dan mahir dalam melindungi agama mereka serta pengikutnya. Semasa waktu aman, paderi mengembara ke seluruh tanah menyebarkan ajaran pantheon mereka dan mencari penganut baharu. Paderi diberkati dengan keupayaan untuk merapalkan mantera oleh dewa-dewi pantheon mereka dan juga merupakan pakar dalam pertempuran menentang makhluk mayat hidup (undead), memiliki keupayaan untuk menghalau mereka hanya dengan doa yang diucapkan.
 
 #### Spesies/Budaya Biasa
 
@@ -43,137 +43,135 @@ Mana-mana.
 
 #### Ciri Penting
 
-STR, INT, POW, dan CHA
+KEK, KEC, KUR, dan KAR
 
-#### Keperluan Jajaran/Sumpah
+#### Keperluan Penjajaran/Sumpah
 
-- Jajaran: Mana-mana, mengikut kesesuaian pantheon atau dewa.
-- Sumpah Paderi 30% ditambah dengan INT+POW watak.
+- Penjajaran: Mana-mana, mengikut kesesuaian pantheon atau dewa.
+- Sumpah Paderi 30% ditambah dengan KEC+KUR watak.
 
-Lihat [Bab 4: Jajaran dan Keghairahan](0004_Alignment_and_Passions.md).
+Lihat [Bab 4: Penjajaran dan Nafsu](0004_Alignment_and_Passions.md).
 
-Selain daripada Jajaran dan Keghairahan bangsa/budaya, semua paderi bersumpah dengan Sumpah Kelakuan kepada order paderi mereka dan dewa atau pantheon dewa yang dipuja oleh order tersebut. Sebahagian daripada Sumpah biasanya termasuk memberikan 10% daripada semua kekayaan sebagai zakat kepada order tersebut. Di mana pantheon terlibat, Jajaran watak akan digunakan untuk membantu menentukan dewa mana dalam pantheon yang diingini akan disembah. Biasanya, sesuatu order akan menumpukan diri kepada semua dewa dalam pantheon tertentu dengan Keghairahan yang sama. Seorang paderi biasanya bersekutu dengan semua dewa dalam pantheon tertentu dengan Jajaran yang tidak bertentangan dengan diri mereka sendiri. Sebagai contoh, seorang paderi dengan Jajaran Baik akan berkhidmat dan menghormati semua dewa baik dan neutral dalam pantheon mereka. Mereka mungkin bertindak menentang dewa yang berniat jahat, atau bahkan mengakui dan menghormati mereka, tetapi tidak akan memberikan penyembahan kepada mereka. Seorang paderi Neutral Tulen boleh memilih sama ada dewa baik atau jahat bersama-sama dengan mereka yang berniat neutral jika dikehendaki, tetapi tidak boleh memilih kedua-duanya.
+Selain daripada Penjajaran dan Nafsu kaum/budaya, semua paderi mengangkat Sumpah Kelakuan kepada order paderi mereka dan dewa atau pantheon dewa yang disembah oleh order tersebut. Sebahagian daripada Sumpah biasanya termasuk memberikan 10% daripada semua harta kekayaan kepada order tersebut. Di mana pantheon terlibat, Penjajaran watak akan digunakan untuk membantu menentukan dewa mana dalam pantheon yang diingini akan disembah. Biasanya, sesuatu order akan mengabdikan diri kepada semua dewa dalam pantheon tertentu dengan Nafsu yang serupa. Seorang paderi biasanya menyelaraskan diri dengan semua dewa dalam pantheon tertentu dengan Penjajaran yang tidak bertentangan dengan diri mereka sendiri. Sebagai contoh, seorang paderi dengan Penjajaran Baik akan berkhidmat dan menghormati semua dewa yang baik dan neutral dalam pantheon mereka. Mereka mungkin bekerja menentang dewa-dewi yang berwatak jahat, atau bahkan mengakui dan menghormati mereka, tetapi tidak akan menawarkan penyembahan kepada mereka. Seorang paderi yang Benar-Benar Neutral (True Neutral) boleh memilih dewa yang baik atau jahat bersama-sama dengan mereka yang berwatak neutral jika dikehendaki, tetapi tidak boleh memilih kedua-duanya.
 
 #### Kemahiran Kelas
 
-- **Kemahiran Standard:** Kemahiran Tempur (Paderi), Pertolongan Cemas, Pengaruh, Wawasan, Lokasi, Menyanyi, Kekuatan Kehendak
+- **Kemahiran Standard:** Kemahiran Tempur (Paderi), Pertolongan Cemas, Pengaruh, Wawasan, Lokaliti, Nyanyian, Kekuatan Kehendak
 - **Kemahiran Profesional:** Seorang paderi secara automatik menerima Saluran (Channel) dan Pengabdian (pantheon atau dewa tertentu), ditambah 3 kemahiran tambahan daripada yang berikut: Birokrasi, Kesopanan, Budaya (mana-mana), Penyembuhan, Pengetahuan (Alkimia), Pengetahuan (Agama), Bahasa (mana-mana) atau Pengetahuan (mana-mana), dan Pidato.
 
 #### Kecekapan Perisai dan Senjata Paderi
 
-Paderi cekap dengan semua jenis perisai (ringan dan berat), dan dengan semua perisai tangan (kecuali perisai menara). Merapalkan mantera Ilahi paderi tidak terhalang oleh pemakaian perisai. Kemahiran Tempur mereka merangkumi penggunaan semua senjata asas. Paderi khusus mungkin mempunyai akses kepada senjata yang berbeza sebagai sebahagian daripada Kemahiran Tempur mereka. Ini di luar skop dokumen ini, namun Games Master boleh menggunakan maklumat ini jika mereka memutuskan untuk berbuat demikian.
+Paderi cekap dengan semua jenis perisai (ringan dan berat), dan dengan semua perisai tangan (kecuali perisai menara). Perapalan mantera Ilahi Paderi tidak terhalang oleh pemakaian perisai. Kemahiran Tempur mereka merangkumi penggunaan semua senjata asas. Paderi khusus mungkin mempunyai akses kepada senjata yang berbeza sebagai sebahagian daripada Kemahiran Tempur mereka. Ini adalah di luar skop dokumen ini, namun Pengelola Permainan boleh menggunakan maklumat ini jika mereka memutuskan untuk berbuat demikian.
 
 ### Struktur Pangkat
 
-Semua paderi dinilai mengikut Pangkat, iaitu penilaian kuasa dan kemahiran. Apabila tahap penguasaan tertentu dicapai dalam bilangan terhad kemahiran Kelas, paderi boleh meningkatkan Pangkat mereka kerana mereka telah menunjukkan tahap kebolehan yang diperlukan. Apabila tahap kebolehan ini dicapai, satu Mata Nasib tambahan diperoleh dan Kebolehan baharu boleh diperolehi. Maklumat ini terdapat pada jadual berikut di bawah Peningkatan. Dengan mengandaikan anda memenuhi prasyarat, watak anda bermula sebagai Pangkat 1 Initiate dengan Kebolehan yang sewajarnya dinyatakan di bawah; jika tidak, anda bermula sebagai Pangkat 0 Lay Member dengan Kebolehan merapalkan mantera Pangkat 0, tetapi tiada Kebolehan lain.
+Semua paderi dinilai mengikut Pangkat, yang merupakan penarafan kuasa dan kemahiran. Apabila tahap penguasaan tertentu dicapai dalam bilangan kemahiran Kelas yang terhad, paderi boleh meningkatkan Pangkat mereka kerana mereka akan menunjukkan tahap kebolehan yang diperlukan. Apabila tahap kebolehan ini dicapai, satu Mata Nasib tambahan diperolehi dan Kebolehan baharu boleh diperolehi. Maklumat ini terdapat pada jadual berikut di bawah Kenaikan Pangkat. Dengan andaian anda memenuhi prasyarat, watak anda bermula sebagai Pangkat 1 Initiat dengan Kebolehan yang sesuai dinyatakan di bawah; jika tidak, anda bermula sebagai Pangkat 0 Ahli Awam dengan keupayaan untuk merapalkan mantera Pangkat 0, tetapi tiada Kebolehan lain.
 
 ##### Jadual Pangkat Paderi
 
-| Pangkat | Gelaran | Peningkatan | Mantera dalam Ingatan | Mata Hit | Mata Nasib | Mata Tindakan |
+| Pangkat | Tajuk | Kenaikan Pangkat | Mantera dalam Ingatan | Mata Hit | Mata Nasib | Mata Tindakan |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Lay Member | - | Pangkat 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Initiate | Mana-mana 5 kemahiran Kelas pada 40% | Pangkat 0: (INT/4) +1<br> Pangkat 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Paderi | Mana-mana 5 kemahiran Kelas pada 70% | Pangkat 0: (INT/4) +2<br> Pangkat 1: (INT/4) +2<br> Pangkat 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Paderi/Paderi Wanita | Mana-mana 4 kemahiran Kelas pada 90% | Pangkat 0: (INT/4) +3<br> Pangkat 1: (INT/4) +4<br> Pangkat 2: (INT/4) +2<br> Pangkat 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Paderi Tinggi/Paderi Wanita Tinggi | Mana-mana 3 kemahiran Kelas pada 110% | Pangkat 0: (INT/4) +4<br> Pangkat 1: (INT/4) +6<br> Pangkat 2: (INT/4) +4<br> Pangkat 3: (INT/4) +2<br> Pangkat 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Paderi Agung/Paderi Wanita Agung | Mana-mana 2 kemahiran Kelas pada 130% | Pangkat 0: (INT/4) +5<br> Pangkat 1: (INT/4) +8<br> Pangkat 2: (INT/4) +6<br> Pangkat 3: (INT/4) +4<br> Pangkat 4: (INT/4) +2<br> Pangkat 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Ahli Awam | - | Pangkat 0: (KEC/4) | 0 | +0 | +0 |
+| **1** | Initiat | Mana-mana 5 kemahiran Kelas pada 40% | Pangkat 0: (KEC/4) +1<br> Pangkat 1: (KEC/4) | 0 | +0 | +0 |
+| **2** | Paderi | Mana-mana 5 kemahiran Kelas pada 70% | Pangkat 0: (KEC/4) +2<br> Pangkat 1: (KEC/4) +2<br> Pangkat 2: (KEC/4) | +1 | +1 | +1 |
+| **3** | Paderi atau Paderi Wanita | Mana-mana 4 kemahiran Kelas pada 90% | Pangkat 0: (KEC/4) +3<br> Pangkat 1: (KEC/4) +4<br> Pangkat 2: (KEC/4) +2<br> Pangkat 3: (KEC/4) | +1 | +2 | +1 |
+| **4** | Paderi Tinggi atau Paderi Wanita Tinggi | Mana-mana 3 kemahiran Kelas pada 110% | Pangkat 0: (KEC/4) +4<br> Pangkat 1: (KEC/4) +6<br> Pangkat 2: (KEC/4) +4<br> Pangkat 3: (KEC/4) +2<br> Pangkat 4: (KEC/4) | +2 | +3 | +2 |
+| **5** | Paderi Agung atau Paderi Wanita Agung | Mana-mana 2 kemahiran Kelas pada 130% | Pangkat 0: (KEC/4) +5<br> Pangkat 1: (KEC/4) +8<br> Pangkat 2: (KEC/4) +6<br> Pangkat 3: (KEC/4) +4<br> Pangkat 4: (KEC/4) +2<br> Pangkat 5: (KEC/4) | +2 | +4 | +2 |
 
 #### Kebolehan Permulaan
 
-Paderi mengetahui semua Kebolehan berikut pada Pangkat 1. Selain itu, semasa penciptaan watak, anda boleh memilih satu Kebolehan Pangkat 1 secara percuma dengan mengandaikan anda memenuhi syaratnya.
+Paderi mengetahui semua Kebolehan berikut pada Pangkat 1. Sebagai tambahan, semasa penciptaan watak, anda boleh memilih satu Kebolehan Pangkat 1 secara percuma dengan andaian anda memenuhi keperluannya.
 
-- **Perapal Mantera:** Paderi adalah pakar dalam sihir Ilahi, mampu merapalkan mantera penyembuhan, pertahanan, dan perlindungan untuk membantu sekutu mereka. Walau bagaimanapun, mereka tidak kekurangan mantera serangan yang kuat untuk memukul mereka yang menentang ideal mereka. Tidak seperti pengguna sihir, paderi tidak memerlukan buku mantera, mempunyai akses kepada semua mantera pada Pangkat mereka atau di bawah. Merapalkan mantera memerlukan 1 atau lebih Tindakan Merapal Sihir yang terdiri daripada beberapa doa ringkas, gerak-geri somatik dengan simbol suci mereka, dan gulungan Saluran yang berjaya. Bilangan mantera Pangkat semasa yang boleh diingati oleh seorang paderi terdapat pada [Jadual Pangkat Paderi](0003_Classes.md?id=cleric-rank-table) di atas di bawah Mantera dalam Ingatan.
-- **Mantera Permulaan:** Seorang paderi bermula dengan akses kepada semua mantera paderi Pangkat 0 dan semua yang lain pada Pangkat mereka atau kurang. Lihat [Senarai Mantera Paderi](0003_Classes.md?id=cleric-spell-list). Mereka tidak benar-benar mengetahuinya, seperti seorang pengguna sihir 'mengetahui' mantera, tetapi boleh berdoa untuk mana-mana daripadanya apabila memilih mantera mana yang hendak dihafal. Bilangan mantera yang boleh dihafal oleh paderi pada setiap Pangkat terdapat pada Jadual Pangkat paderi di atas. Lihat [Menghafal Mantera](0009_Magic.md?id=memorizing-spells) untuk butiran lanjut.
-- **Menghalau Mayat Hidup (Turn Undead):** Paderi boleh menghalau mayat hidup, menolak mereka pergi dengan kuasa kepercayaan sahaja. [Menghalau Mayat Hidup](0003_Classes.md?id=turning-undead) diliputi secara terperinci di bawah.
+- **Perapalan Mantera:** Paderi adalah pakar dalam sihir Ilahi, mampu merapalkan mantera penyembuhan, pertahanan, dan perlindungan untuk membantu sekutu mereka. Walau bagaimanapun, mereka bukannya tidak mempunyai mantera ofensif yang kuat untuk menghukum mereka yang menentang ideal mereka. Tidak seperti pengguna sihir, paderi tidak memerlukan buku mantera, mempunyai akses kepada semua mantera Pangkat mereka atau di bawah. Merapalkan mantera memerlukan 1 atau lebih Tindakan Merapal Sihir yang terdiri daripada beberapa doa ringkas, gerak isyarat somatik dengan simbol suci mereka, dan gulungan Saluran yang berjaya. Bilangan mantera Pangkat semasa mereka yang boleh diingat oleh seorang paderi didapati pada [Jadual Pangkat Paderi](0003_Classes.md?id=cleric-rank-table) di atas di bawah Mantera dalam Ingatan.
+- **Mantera Permulaan:** Seorang paderi bermula dengan akses kepada semua mantera paderi Pangkat 0 dan semua mantera lain pada Pangkat mereka atau kurang. Lihat [Senarai Mantera Paderi](0003_Classes.md?id=cleric-spell-list). Mereka tidak benar-benar mengetahuinya, seperti pengguna sihir 'mengetahui' mantera, tetapi boleh berdoa untuk mana-mana mantera tersebut apabila memilih mantera mana yang hendak dihafal. Bilangan mantera yang boleh dihafal oleh paderi pada setiap Pangkat didapati pada Jadual Pangkat paderi di atas. Lihat [Menghafal Mantera](0009_Magic.md?id=memorizing-spells) untuk butiran lanjut.
+- **Menghalau Mayat Hidup (Turn Undead):** Paderi boleh menghalau mayat hidup, menolak mereka pergi dengan kuasa iman semata-mata. [Menghalau Mayat Hidup](0003_Classes.md?id=turning-undead) diliputi secara terperinci di bawah.
 
 #### Kebolehan Berpangkat
 
-Seperti namanya, Kebolehan Berpangkat hanya boleh dipilih oleh watak pada Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi. Anda tidak disekat daripada Kebolehan terdahulu apabila Pangkat baharu dicapai. Jika anda gagal mengambil Kebolehan Pangkat 2 sebagai contoh, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudiannya. Tidak lebih daripada satu Kebolehan Berpangkat boleh diambil setiap sesi.
+Seperti namanya, Kebolehan Berpangkat hanya boleh dipilih oleh watak dengan Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi. Anda tidak disekat daripada Kebolehan awal apabila Pangkat baharu dicapai. Jika anda gagal mengambil Kebolehan Pangkat 2 sebagai contoh, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudian. Tidak lebih daripada satu Kebolehan Berpangkat boleh diambil setiap sesi.
 
 #### Pangkat 1:
 
-Untuk setiap perbelanjaan 1 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (satu setiap sesi, dan setiap Kebolehan hanya boleh diambil sekali):
+Untuk setiap perbelanjaan 1 Gulungan Pengalaman, anda boleh memperoleh salah satu Kebolehan berikut (satu setiap sesi, dan setiap Kebolehan hanya boleh diambil sekali):
 
-- **Penumpuan Berkuasa:** Memerlukan Pengabdian 50% atau lebih tinggi. Ujian Kekuatan Kehendak untuk mengekalkan Penumpuan mengenai mantera dan perapalan mantera adalah satu gred lebih mudah.
-- **Penghalauan Lebih Besar:** Memerlukan Kekuatan Kehendak 60% atau lebih tinggi. Kuasa Menghalau boleh dilambung semula jika dikehendaki, walau bagaimanapun lambungan baharu mesti digunakan.
-- **Pukulan Suci:** Memerlukan Pengabdian dan Kekuatan Kehendak 50% atau lebih tinggi. Paderi boleh meningkatkan Pengubah Kerosakan mereka sebanyak satu gred terhadap mayat hidup, syaitan, dan iblis. Boleh digunakan sekali sehari bagi setiap Pangkat yang dicapai.
-- **Kekuatan Mental I:** Memerlukan Pengabdian 60% atau lebih tinggi. Sekali sehari anda mendapati 2 gred lebih mudah untuk melakukan pemeriksaan Kekuatan Kehendak apabila menentang sebarang bentuk sihir yang menyasarkan minda. Ini termasuk kuasa seperti memikat, pesona, penguasaan, menahan, hipnosis, Magic Jar, kerasukan, tidur, cadangan, dan letupan minda psionik. Ia tidak mempunyai kesan ke atas kemahiran seperti Pengaruh atau Rayuan. Anda juga mendapati 1 gred lebih mudah untuk Tidak Mempercayai ilusi dan fantasi. Dalam kes elf, ini tidak bertindan dengan rintangan mereka terhadap Tidur dan Pesona, tetapi ia meluaskan keupayaan mereka untuk menentang kesan tambahan.
-- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubah Kerosakan dengan senjata ini berdasarkan STR+DEX dan bukannya STR+SIZ jika ia akan menghasilkan keputusan yang lebih baik. Pengubah Kerosakan tidak boleh melebihi dadu kerosakan biasa senjata. Sebagai contoh, keris dengan kerosakan 1d4+1, akan dihadkan kepada Pengubah Kerosakan +1d4, menjadikannya 1d4+1+1d4. Ini meliputi belantan, keris, garrote, pisau, pedang pendek, main gauche, dan rapier, serta serangan tidak bersenjata. Dart, lastik, busur pendek, dan lembing juga termasuk dalam kategori ini.
+- **Tumpuan Berkuasa:** Memerlukan Pengabdian 50% atau lebih tinggi. Ujian Kekuatan Kehendak untuk mengekalkan Tumpuan mengenai mantera dan perapalan mantera adalah satu gred lebih mudah.
+- **Penghalauan Lebih Besar:** Memerlukan Kekuatan Kehendak 60% atau lebih tinggi. Kuasa Menghalau boleh digulung semula jika dikehendaki, namun gulungan baharu mesti digunakan.
+- **Hukuman Suci:** Memerlukan Pengabdian dan Kekuatan Kehendak 50% atau lebih tinggi. Paderi boleh meningkatkan Pengubah Kerosakan mereka sebanyak satu gred terhadap mayat hidup, syaitan, dan iblis. Boleh digunakan sekali sehari bagi setiap Pangkat yang dicapai.
+- **Kekuatan Mental I:** Memerlukan Pengabdian 60% atau lebih tinggi. Sekali sehari, anda mendapati 2 gred lebih mudah untuk melakukan pemeriksaan Kekuatan Kehendak apabila menahan sebarang bentuk sihir yang menyasarkan minda. Ini termasuk kuasa seperti memukau, pesona, dominasi, menahan, hipnosis, Magic Jar, pemilikan, tidur, cadangan, dan letupan minda psionik. Ia tidak mempunyai kesan pada kemahiran seperti Pengaruh atau Menggoda. Anda juga mendapati 1 gred lebih mudah untuk Tidak Percaya pada ilusi dan fantasi. Dalam kes elf, ini tidak bertindih dengan rintangan mereka terhadap Tidur dan Pesona, tetapi ia meluaskan keupayaan mereka untuk menahan kesan tambahan.
+- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubah Kerosakan dengan senjata ini berdasarkan KEK+KTG dan bukannya KEK+SAI jika ia akan menghasilkan hasil yang lebih baik. Pengubah Kerosakan tidak boleh melebihi dadu kerosakan biasa senjata. Sebagai contoh, keris dengan kerosakan 1d4+1, akan dihadkan kepada Pengubah Kerosakan +1d4, menjadikannya 1d4+1+1d4. Ini merangkumi belantan, keris, garrote, pisau, pedang pendek, main gauche, dan rapier, serta serangan tidak bersenjata. Dart, lastik, busur pendek, dan lembing juga termasuk dalam kategori ini.
 
 #### Pangkat 2:
 
-Untuk setiap perbelanjaan 2 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Untuk setiap perbelanjaan 2 Gulungan Pengalaman, anda boleh memperoleh salah satu Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan I:** Refleks Pertahanan memerlukan anda Tidak Terbeban (Kurang 'Benda' dibawa daripada STR), tidak memakai apa-apa yang lebih menyekat daripada perisai ringan. Sekali setiap pertempuran anda boleh melambung semula Gulungan Tangkisan atau Elak yang Gagal tanpa membelanjakan Mata Nasib.
-- **Penghalauan Tambahan:** Memerlukan Pengabdian dan Kekuatan Kehendak 80% atau lebih tinggi. Paderi boleh menggandakan bilangan kali antara rehat yang mereka boleh Menghalau. Dua kali pada Pangkat 1, empat kali pada Pangkat 3, dan enam kali pada Pangkat 5.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan I:** Refleks Pertahanan memerlukan anda untuk Tidak Dibebani (kurang 'Benda' dibawa daripada KEK), memakai pakaian yang tidak lebih ketat daripada perisai ringan. Sekali setiap pertempuran, anda boleh menggulung semula gulungan Tangkis (Parry) atau Elak (Evade) yang gagal tanpa membelanjakan Mata Nasib.
+- **Penghalauan Tambahan:** Memerlukan Pengabdian dan Kekuatan Kehendak 80% atau lebih tinggi. Paderi boleh menggandakan bilangan kali mereka boleh Menghalau di antara waktu rehat. Dua kali pada Pangkat 1, empat kali pada Pangkat 3, dan enam kali pada Pangkat 5.
 - **Kekuatan Mental II:** Memerlukan Kekuatan Mental I dan Pengabdian 80% atau lebih tinggi. Seperti Kekuatan Mental I, tetapi boleh digunakan dua kali sehari.
-- **Sentuhan Jarak Jauh (X):** Memerlukan Kekuatan Kehendak 80% atau lebih tinggi. Kebolehan ini membolehkan perapal memberikan mantera dengan Jarak "Sentuhan," Jarak 30 kaki sebaliknya. Mantera dianggap satu Pangkat lebih tinggi berkenaan dengan penghafalan dan harus dicatat sebagai jarak jauh apabila dihafal. Sebagai contoh, Sembuhkan Luka Kecil (Jarak Jauh) akan dikira sebagai mantera Pangkat 2.
+- **Sentuhan Jarak Jauh (X):** Memerlukan Kekuatan Kehendak 80% atau lebih tinggi. Kebolehan ini membolehkan perapal memberikan mantera dengan Julat "Sentuhan," Julat 30 kaki sebaliknya. Mantera dianggap satu Pangkat lebih tinggi berkenaan dengan hafalan dan harus dicatat sebagai jarak jauh apabila dihafal. Sebagai contoh, Cure Minor Wounds (Jarak Jauh) akan dikira sebagai mantera Pangkat 2.
 
 #### Pangkat 3:
 
-Untuk setiap perbelanjaan 3 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Untuk setiap perbelanjaan 3 Gulungan Pengalaman, anda boleh memperoleh salah satu Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Pukulan Suci Dipertingkat:** Memerlukan Pukulan Suci, serta Pengabdian dan Kekuatan Kehendak 90% atau lebih tinggi. Pengubah Kerosakan Pukulan Suci kini ditingkatkan sebanyak dua gred terhadap mayat hidup, syaitan, dan iblis.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Hukuman Suci Dipertingkat:** Memerlukan Hukuman Suci, serta Pengabdian dan Kekuatan Kehendak 90% atau lebih tinggi. Pengubah Kerosakan Hukuman Suci kini ditingkatkan sebanyak dua gred terhadap mayat hidup, syaitan, dan iblis.
 - **Kekuatan Mental III:** Memerlukan Kekuatan Mental II dan Pengabdian 100% atau lebih tinggi. Seperti Kekuatan Mental I, tetapi boleh digunakan tiga kali sehari.
 
 #### Pangkat 4:
 
-Untuk setiap perbelanjaan 4 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Untuk setiap perbelanjaan 4 Gulungan Pengalaman, anda boleh memperoleh salah satu Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan I. Seperti Refleks Pertahanan, walau bagaimanapun anda kini boleh menggunakan Kebolehan ini dua kali dalam pertempuran yang sama. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali, walau bagaimanapun.
-- **Kekuatan Mental IV:** Memerlukan Kekuatan Mental III dan Sumpah atau Pengabdian 120% atau lebih tinggi. Seperti Kekuatan Mental I, tetapi boleh digunakan empat kali sehari.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan I. Seperti Refleks Pertahanan, walau bagaimanapun anda kini boleh menggunakan Kebolehan ini dua kali dalam pertempuran yang sama. Walau bagaimanapun, anda tidak boleh menggulung semula terhadap serangan yang sama lebih daripada sekali.
+- **Kekuatan Mental IV:** Memerlukan Kekuatan Mental III dan Sumpah atau Pengabdian 120% atau lebih tinggi. Seperti Kekuatan Mental I, tetapi boleh digunakan empat kali sehari.#### Pangkat 5:
 
-#### Pangkat 5:
+Bagi setiap perbelanjaan 5 Gulingan Pengalaman, anda boleh memperoleh salah satu Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-Untuk setiap perbelanjaan 5 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
-
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Pukulan Suci Lebih Besar:** Memerlukan Pukulan Suci Dipertingkat, serta Pengabdian dan Kekuatan Kehendak 130% atau lebih tinggi. Pengubah Kerosakan Pukulan Suci kini ditingkatkan sebanyak empat gred terhadap mayat hidup, syaitan, dan iblis!
-- **Kekuatan Mental V:** Memerlukan Kekuatan Mental IV dan Sumpah atau Pengabdian 140% atau lebih tinggi. Seperti Kekuatan Mental I, tetapi boleh digunakan lima kali sehari.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada mana-mana Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Hentaman Suci Lebih Hebat:** Memerlukan Hentaman Suci Dipertingkat, serta Ketakwaan dan Kemahuan 130% atau lebih tinggi. Pengubah Kerosakan Hentaman Suci kini ditingkatkan sebanyak empat gred terhadap mayat hidup, syaitan, dan iblis!
+- **Kekuatan Mental V:** Memerlukan Kekuatan Mental IV dan Sumpah atau Ketakwaan 140% atau lebih tinggi. Seperti Kekuatan Mental I, tetapi boleh digunakan lima kali sehari.
 
 ### Peralatan Permulaan Asas Paderi
 
 Setiap baris item dikira sebagai 1 'Benda' untuk tujuan Beban kecuali dinyatakan sebaliknya.
 
-- Belantan
+- Gada
 - Perisai pemanas (dikira sebagai 2 Benda)
 - Busur silang ringan
-- Tabung busur dengan 20 bolt busur silang
-- Set lengkap perisai skala, 4 Mata Perisai (0 Benda apabila dipakai, 7 Benda jika dibawa)
-- Simbol suci kayu dewa (½ Benda)
-- Beg galas (kapasiti 10 Benda); bekas air, ransum perjalanan satu minggu, beg tidur, beg kosong kecil\*, batu api dan bahan pemetik api\*\*, 2 obor enam jam (5½ Benda terkandung)
-- Kantung pinggang dengan 1d4 keping emas
+- Bekas anak panah dengan 20 bolt busur silang
+- Set lengkap perisai sisik, 4 Mata Perisai (0 Benda apabila dipakai, 7 Benda jika dibawa)
+- Simbol suci kayu bagi dewa (½ Benda)
+- Beg galas (kapasiti 10 Benda); botol air, catuan perjalanan seminggu, alas tidur, beg kecil kosong*, batu api dan bahan bakar**, 2 obor enam jam (5½ Benda terkandung)
+- Beg pinggang dengan 1d4 keping emas
 
-Jumlah ENC 7½ Benda
+Jumlah BBN 7½ Benda
 
-_\* Kandungan dikira ke arah kandungan beg galas kerana isipadunya meningkat._
+_\* Kandungan dikira ke dalam kandungan beg galas kerana isipadunya ditingkatkan._
 
 _\*\* Dikira sebagai ½ Benda._
 
 ### Menghalau Mayat Hidup
 
-Paderi daripada sebarang Jajaran boleh cuba Menghalau mana-mana mayat hidup dalam jarak 30 kaki. Paderi jahat boleh memilih untuk mengawal mayat hidup sebaliknya, jika dikehendaki. Anda boleh cuba Menghalau Mayat Hidup sekali pada Pangkat 1, dua kali pada Pangkat 3, dan tiga kali pada Pangkat 5. Anda mendapatkan semula semua penggunaan Menghalau selepas Rehat Ringkas sekurang-kurangnya 1 jam.
+Paderi daripada sebarang Penjajaran boleh cuba Menghalau mana-mana mayat hidup dalam jarak 30 kaki. Paderi jahat boleh memilih untuk mengawal mayat hidup sebaliknya, jika mahu. Anda boleh cuba Menghalau Mayat Hidup sekali pada Pangkat 1, dua kali pada Pangkat 3, dan tiga kali pada Pangkat 5. Anda mendapat semula semua kegunaan Menghalau selepas Rehat Singkat selama sekurang-kurangnya 1 jam.
 
-_Sebagai contoh, Alexandra ialah seorang paderi Pangkat 4. Dia boleh cuba menghalau dua kali semasa pertempuran, dan jika dia berehat sekurang-kurangnya sejam selepas itu, akan mendapatkan semula kedua-dua penggunaan tersebut._
+_Sebagai contoh, Alexandra ialah paderi Pangkat 4. Dia boleh cuba menghalau dua kali semasa pertempuran, dan jika dia berehat sekurang-kurangnya sejam selepas itu, dia akan mendapat semula kedua-dua kegunaan tersebut._
 
-**Kuasa Menghalau:** Kuasa Menghalau paderi mengubah jumlah Intensiti mayat hidup yang berjaya Dihalau. Ini sama dengan 1d6+2, +2 bagi setiap Pangkat tambahan melebihi 1, dan harus dicatat pada Lembaran Watak, kerana watak itu menggunakannya apabila berjaya dalam percubaan Menghalau.
+**Kuasa Menghalau:** Kuasa Menghalau paderi mengubah suai jumlah Keamatan mayat hidup yang berjaya Dihalau. Ini adalah sama dengan 1d6+2, +2 bagi setiap Pangkat tambahan melebihi 1, dan harus dicatatkan pada Helaian Watak, kerana watak menggunakannya setiap kali berjaya dalam percubaan Menghalau.
 
 _Sebagai contoh, pada Pangkat 2, Alexandra mempunyai Kuasa Menghalau 1d6+4_
 
-Untuk mencuba Menghalau memerlukan ujian kemahiran Bertentangan menggunakan kemahiran Saluran lwn makhluk berkaitan dengan Kekuatan Kehendak tertinggi dalam Kawasan Kesan. Tahap kejayaan menentukan kesan percubaan.
+Untuk mencuba Menghalau memerlukan ujian kemahiran Berlawan menggunakan kemahiran Menyalur lwn makhluk berkaitan yang mempunyai Kemahuan tertinggi dalam Kawasan Kesan. Tahap kejayaan menentukan kesan percubaan tersebut.
 
-Paderi jahat boleh memerintah Kuasa Menghalau mereka dalam Intensiti mayat hidup. Kesan ini membolehkan paderi mengeluarkan perintah kepada mayat hidup tetapi tidak menjadikan mereka tunduk melainkan mereka melambung Kejayaan Kritikal dan memilih Perhambaan - lihat di bawah. Mereka yang mempunyai Intensiti terendah sentiasa terjejas dahulu. Ini tidak mempunyai kesan ke atas mayat hidup Intensiti 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup bukan bijak yang dihalau sebelum ini di bawah kawalan mereka sekali lagi.
+Paderi jahat boleh memerintah Kuasa Menghalau mereka dalam Keamatan mayat hidup. Kesan ini membolehkan paderi mengeluarkan perintah kepada mayat hidup tetapi tidak menjadikan mereka patuh kecuali mereka menggulingkan Kejayaan Kritikal dan memilih untuk Memperhamba - lihat di bawah. Mereka yang mempunyai Keamatan terendah sentiasa terkesan dahulu. Ini tiada kesan ke atas mayat hidup Keamatan 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup bukan bijak yang sebelum ini dihalau di bawah kawalan mereka sekali lagi.
 
-- **Kejayaan Kritikal:** Dua kali Kuasa Menghalau anda dalam Intensiti mayat hidup terjejas. Jika Pangkat anda adalah dua kali Intensiti (atau lebih) makhluk mayat hidup bukan bijak, anda memusnahkan serta-merta mana-mana yang biasanya anda Halau.
-  - Paderi jahat sebaliknya boleh memerintah dua kali Kuasa Menghalau mereka dalam Intensiti mayat hidup selama 12 Pusingan (1 minit). Memandangkan mayat hidup biasanya mempunyai pemikiran yang sama seperti paderi jahat, kesan ini membolehkan watak mengeluarkan perintah kepada mayat hidup. Ia tidak menjadikan mereka tunduk, seperti dengan Perhambaan di bawah, dan mayat hidup yang bijak tidak akan membuang nyawa mereka secara sia-sia. Mereka yang mempunyai Intensiti terendah sentiasa terjejas dahulu. Ini tidak mempunyai kesan ke atas mayat hidup Intensiti 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup bukan bijak yang dihalau sebelum ini di bawah kawalan sekali lagi.
-  - Secara alternatif, paderi jahat yang mencatat Kejayaan Kritikal boleh Memperhambakan Kuasa Menghalau mereka dalam Intensiti mayat hidup, memperhambakan mereka di bawah kawalan mereka. Mayat hidup yang diperhambakan benar-benar tunduk kepada paderi sehingga kawalan mereka entah bagaimana dipecahkan. Mereka yang mempunyai Intensiti terendah sentiasa diperhambakan dahulu. Ini tidak mempunyai kesan ke atas mayat hidup Intensiti 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup yang dihalau sebelum ini di bawah kawalan sekali lagi.
-- **Kejayaan:** Kuasa Menghalau anda dalam Intensiti mayat hidup terjejas, bermula dengan mereka yang mempunyai Intensiti terendah dahulu. Jika Kuasa Menghalau yang dilambung tidak mencukupi untuk menjejaskan apa-apa, maka tiada apa yang dihalau semasa percubaan ini. Paderi menolak mereka yang terjejas, yang mesti bergerak dan kekal sekurang-kurangnya 20 kaki jauhnya selama 12 Pusingan (1 Minit). Mereka yang terjejas tidak boleh menyerang mana-mana ahli kumpulan paderi yang kekal dalam Kawasan Kesan melainkan mereka yang terjejas dipaksa dalam jarak 10 kaki dari kumpulan itu. Mereka yang tidak boleh bergerak jarak penuh disebabkan oleh rupa bumi yang menghalang akan meringkuk (mana-mana lambungan Serangan terhadap mereka adalah satu Gred Kesukaran lebih mudah). Menghampiri dalam jarak 10 kaki dari yang terjejas menyebabkan mayat hidup mengatasi perasaan Dihalau dan bertindak seperti biasa. Serangan jarak jauh tidak lebih dekat daripada 10 kaki tidak memecahkan kesan Menghalau; walau bagaimanapun, serangan sedemikian ke atas mayat hidup yang bijak akan memecahkan kesan Menghalau, membolehkan makhluk itu bertindak seperti biasa. Makhluk bijak, sebaik sahaja Dihalau, dibenarkan lambungan Kekuatan Kehendak Sukar setiap Pusingan untuk cuba memecahkan kesan; walau bagaimanapun, makhluk bijak kemungkinan besar melarikan diri secara sukarela dari kawasan itu dan kembali hanya apabila mereka mempunyai kelebihan semula. Jika Pangkat paderi adalah dua kali Intensiti (atau lebih) makhluk mayat hidup bukan bijak, paderi memusnahkan serta-merta mana-mana yang biasanya mereka Halau.
-  - Paderi jahat boleh memerintah Kuasa Menghalau mereka dalam Intensiti makhluk mayat hidup, membawa mereka di bawah kawalan mereka. Kesan ini membolehkan paderi mengeluarkan perintah kepada mayat hidup. Ia tidak menjadikan mereka tunduk, seperti dengan Kritikal, dan mayat hidup yang bijak tidak akan membuang nyawa mereka secara sia-sia. Mereka yang mempunyai Intensiti terendah sentiasa terjejas dahulu. Ini tidak mempunyai kesan ke atas mayat hidup Intensiti 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup bukan bijak yang dihalau sebelum ini di bawah kawalan sekali lagi.
+- **Kejayaan Kritikal:** Dua kali ganda Kuasa Menghalau anda dalam Keamatan mayat hidup terkesan. Jika Pangkat anda adalah dua kali ganda (atau lebih) Keamatan makhluk mayat hidup bukan bijak, anda memusnahkan serta-merta mana-mana yang biasanya anda Halau.
+  - Paderi jahat boleh sebaliknya memerintah dua kali ganda Kuasa Menghalau mereka dalam Keamatan mayat hidup selama 12 Pusingan (1 minit). Memandangkan mayat hidup biasanya mempunyai pemikiran yang sama dengan paderi jahat, kesan ini membolehkan watak mengeluarkan perintah kepada mayat hidup. Ia tidak menjadikan mereka patuh, seperti Memperhamba di bawah, dan mayat hidup yang bijak tidak akan membuang nyawa mereka dengan sia-sia. Mereka yang mempunyai Keamatan terendah sentiasa terkesan dahulu. Ini tiada kesan ke atas mayat hidup Keamatan 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup bukan bijak yang sebelum ini dihalau di bawah kawalan sekali lagi.
+  - Sebagai alternatif, paderi jahat yang mendapat Kejayaan Kritikal boleh Memperhamba Kuasa Menghalau mereka dalam Keamatan mayat hidup, memperhamba mereka di bawah kawalan mereka. Mayat hidup yang diperhamba benar-benar patuh kepada paderi sehingga kawalan mereka entah bagaimana terputus. Mereka yang mempunyai Keamatan terendah sentiasa diperhamba dahulu. Ini tiada kesan ke atas mayat hidup Keamatan 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup yang sebelum ini dihalau di bawah kawalan sekali lagi.
+- **Kejayaan:** Kuasa Menghalau anda dalam Keamatan mayat hidup terkesan, bermula dengan mereka yang mempunyai Keamatan terendah dahulu. Jika Kuasa Menghalau yang digulingkan tidak mencukupi untuk menjejaskan apa-apa, maka tiada apa yang dihalau semasa percubaan ini. Paderi menangkis mereka yang terkesan, yang mesti bergerak dan kekal sekurang-kurangnya 20 kaki jauhnya selama 12 Pusingan (1 Minit). Mereka yang terkesan tidak boleh menyerang mana-mana ahli kumpulan paderi yang kekal dalam Kawasan Kesan melainkan mereka yang terkesan dipaksa masuk dalam lingkungan 10 kaki dari kumpulan. Mereka yang tidak dapat bergerak jarak penuh disebabkan oleh rupa bumi yang menghalang akan meringkuk (sebarang gulingan Serangan terhadap mereka adalah satu Gred Kesukaran lebih mudah). Menghampiri dalam lingkungan 10 kaki daripada yang terkesan menyebabkan mayat hidup mengatasi keadaan Dihalau dan bertindak seperti biasa. Serangan jarak jauh tidak lebih dekat daripada 10 kaki tidak memecahkan kesan Menghalau; walau bagaimanapun, serangan sedemikian terhadap mayat hidup yang bijak akan memecahkan kesan Halau, membolehkan makhluk itu bertindak balas seperti biasa. Makhluk bijak, sebaik sahaja Dihalau, dibenarkan gulingan Kemahuan Sukar setiap Pusingan untuk cuba memecahkan kesan tersebut; walau bagaimanapun, makhluk bijak berkemungkinan melarikan diri secara sukarela dari kawasan itu dan hanya kembali apabila mereka mempunyai kelebihan semula. Jika Pangkat paderi adalah dua kali ganda (atau lebih) Keamatan makhluk mayat hidup bukan bijak, paderi memusnahkan serta-merta mana-mana yang biasanya mereka Halau.
+  - Paderi jahat boleh memerintah Kuasa Menghalau mereka dalam Keamatan makhluk mayat hidup, membawa mereka di bawah kawalan mereka. Kesan ini membolehkan paderi mengeluarkan perintah kepada mayat hidup. Ia tidak menjadikan mereka patuh, seperti dengan Kritikal, dan mayat hidup yang bijak tidak akan membuang nyawa mereka dengan sia-sia. Mereka yang mempunyai Keamatan terendah sentiasa terkesan dahulu. Ini tiada kesan ke atas mayat hidup Keamatan 7 atau lebih tinggi. Paderi jahat boleh menggunakan ini untuk membawa mayat hidup bukan bijak yang sebelum ini dihalau di bawah kawalan mereka sekali lagi.
 - **Kegagalan:** Tiada mayat hidup Dihalau.
-- **Fumble:** Bukan sahaja anda gagal Menghalau apa-apa, malah anda telah menarik perhatian beberapa mayat hidup yang sama dengan dua kali Kuasa Menghalau anda dalam Intensiti. Entiti ini menyasarkan anda secara khusus, dengan entiti Intensiti terendah diprovokasi dahulu.
+- **Fumble:** Anda bukan sahaja gagal Menghalau apa-apa, tetapi anda telah menarik perhatian beberapa mayat hidup yang sama dengan dua kali ganda Kuasa Menghalau anda dalam Keamatan. Entiti ini menyasarkan anda secara khusus, dengan entiti Keamatan terendah diprovokasi dahulu.
 
 ### Senarai Mantera Paderi
 
@@ -196,12 +194,14 @@ Paderi jahat boleh memerintah Kuasa Menghalau mereka dalam Intensiti mayat hidup
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) menunjukkan mantera boleh balik._
+_\(R\) menunjukkan mantera yang boleh diterbalikkan._
+
+
 
 ---
-## Pahlawan (Fighter)
+## Pejuang
 
-Pahlawan ialah askar profesional, tentera upahan, dan pahlawan, serta pengembara yang paling biasa dalam dunia fantasi. Sama ada memecahkan pintu, menghayun pedang dan kapak dengan kemahiran dan kehalusan, atau meletakkan diri mereka di antara ahli kumpulan yang kurang mahir bertempur dan lawan, di mana sahaja anda menemui pengembaraan, anda akan menemui pahlawan.
+Pejuang adalah askar profesional, tentera upahan, dan pahlawan, serta pengembara yang paling biasa dalam dunia fantasi. Sama ada merobohkan pintu, mengendalikan pedang dan kapak dengan kemahiran dan kehalusan, atau meletakkan diri mereka di antara ahli kumpulan yang kurang berperang dan pihak lawan, di mana sahaja anda menemui pengembaraan, anda akan menemui pejuang.
 
 #### Spesies/Budaya Biasa
 
@@ -209,261 +209,258 @@ Mana-mana.
 
 #### Ciri Penting
 
-STR, CON, dan DEX
+KEK, KET, dan KTG
 
-#### Keperluan Jajaran/Sumpah
+#### Keperluan Penjajaran/Sumpah
 
-- Jajaran: Pahlawan tidak terhad oleh Jajaran dan tidak memerlukan Sumpah.
+- Penjajaran: Pejuang tidak dihadkan oleh Penjajaran dan tidak memerlukan Sumpah.
 
-Lihat [Bab 4: Jajaran dan Keghairahan](0004_Alignment_and_Passions.md).
+Lihat [Bab 4: Penjajaran dan Keghairahan](0004_Alignment_and_Passions.md).
 
 #### Kemahiran Kelas
 
-- **Kemahiran Standard:** Atletik, Berperahu atau Menunggang, Kekuatan (Brawn), Kemahiran Tempur (Pahlawan)\*, Daya Tahan, Elak, Tidak Bersenjata\*
-- **Kemahiran Profesional:** Kraf (mana-mana), Kejuruteraan, Berjudi, Intimidasi, Pengetahuan (Sejarah Ketenteraan), Pengetahuan (Strategi dan Taktik), Pidato, Kelangsungan Hidup atau Navigasi
+- **Kemahiran Standard:** Olahraga, Bot atau Menunggang, Kekuatan, Kemahiran Berlawan (Pejuang)\*, Daya Tahan, Mengelak, Tanpa Senjata\*
+- **Kemahiran Profesional:** Kraf (mana-mana), Kejuruteraan, Perjudian, Gertakan, Pengetahuan (Sejarah Ketenteraan), Pengetahuan (Strategi dan Taktik), Oratori, Kelangsungan Hidup atau Navigasi
 
-_\* Menerima bonus +5 daripada Kecekapan Tempur_
+_\* Menerima bonus +5 daripada Kemahiran Berperang_
 
-#### Kecekapan Perisai dan Senjata Pahlawan
+#### Kemahiran Perisai dan Senjata Pejuang
 
-Pahlawan cekap dengan semua jenis perisai (ringan dan berat), dan dengan semua perisai tangan. Kemahiran Tempur mereka merangkumi penggunaan semua senjata asas dan senjata seni mempertahankan diri.
+Pejuang mahir dengan semua jenis perisai (ringan dan berat), dan dengan semua perisai badan. Kemahiran Berlawan mereka termasuk penggunaan semua senjata asas dan bela diri.
 
 ### Struktur Pangkat
 
-Semua pahlawan dinilai mengikut Pangkat, iaitu penilaian kuasa dan kemahiran. Apabila tahap penguasaan tertentu dicapai dalam bilangan terhad kemahiran Kelas, pahlawan boleh meningkatkan Pangkat mereka kerana mereka telah menunjukkan tahap kebolehan yang diperlukan. Apabila tahap kebolehan ini dicapai, satu Mata Nasib tambahan diperoleh, dan Kebolehan baharu boleh diperolehi. Maklumat ini terdapat pada [Jadual Pangkat Pahlawan](0003_Classes.md?id=fighter-rank-table) di bawah Peningkatan. Dengan mengandaikan anda memenuhi prasyarat, watak anda bermula sebagai Pangkat 1 Pahlawan dengan Kebolehan Berpangkat yang sewajarnya dinyatakan di bawah; jika tidak, anda bermula sebagai Pangkat 0 Perantis Pahlawan dengan tiada Kebolehan semasa.
+Semua pejuang dinilai mengikut Pangkat, iaitu penarafan kuasa dan kemahiran. Apabila tahap penguasaan tertentu diperoleh dalam bilangan terhad kemahiran Kelas, pejuang boleh meningkatkan Pangkat mereka kerana mereka akan menunjukkan tahap kebolehan yang diperlukan. Apabila tahap kebolehan ini dicapai, satu Mata Nasib tambahan diperoleh, dan Kebolehan baharu boleh diperolehi. Maklumat ini terdapat pada [Jadual Pangkat Pejuang](0003_Classes.md?id=fighter-rank-table) di bawah Kemajuan. Dengan andaian anda memenuhi prasyarat, watak anda bermula sebagai Pejuang Pangkat 1 dengan Kebolehan Berpangkat yang sesuai dinyatakan di bawah; jika tidak, anda bermula sebagai Pahlawan Pangkat 0 tanpa sebarang Kebolehan semasa.
 
-##### Jadual Pangkat Pahlawan
+##### Jadual Pangkat Pejuang
 
-| Pangkat | Gelaran | Peningkatan | Mata Hit | Mata Nasib | Mata Tindakan |
+| Pangkat | Gelaran | Kemajuan | Mata Nyawa | Mata Nasib | Mata Tindakan |
 | :-: | :-- | :-- | :-: | :-: | :-: |
-| **0** | Perantis Pahlawan | - | 0 | +0 | +0 |
+| **0** | Pelatih Pahlawan | - | 0 | +0 | +0 |
 | **1** | Pahlawan | Mana-mana 5 kemahiran Kelas pada 40% | 0 | +0 | +0 |
-| **2** | Pahlawan | Mana-mana 5 kemahiran Kelas pada 70% | +1 | +1 | +1 |
-| **3** | Wira | Mana-mana 4 kemahiran Kelas pada 90% | +1 | +2 | +1 |
+| **2** | Pejuang | Mana-mana 5 kemahiran Kelas pada 70% | +1 | +1 | +1 |
+| **3** | Wira/Wira Wanita | Mana-mana 4 kemahiran Kelas pada 90% | +1 | +2 | +1 |
 | **4** | Juara | Mana-mana 3 kemahiran Kelas pada 110% | +2 | +3 | +2 |
 | **5** | Tuan/Puan | Mana-mana 2 kemahiran Kelas pada 130% | +2 | +4 | +2 |
 
 #### Kebolehan Permulaan
 
-Pahlawan mengetahui semua Kebolehan berikut pada Pangkat 1. Selain itu, semasa penciptaan watak, anda boleh memilih satu Kebolehan Berpangkat Pangkat 1 secara percuma dengan mengandaikan anda memenuhi syaratnya.
+Pejuang mengetahui semua Kebolehan berikut pada Pangkat 1. Sebagai tambahan, semasa penciptaan watak, anda boleh memilih satu Kebolehan Berpangkat Pangkat 1 secara percuma dengan andaian anda memenuhi keperluannya.
 
-- **Kecekapan Tempur:** Menjadi pakar dalam pertempuran bersenjata, pahlawan memperoleh +5% lagi kepada Kemahiran Tempur dan kemahiran Tidak Bersenjata mereka.
-- **Pengkhususan Senjata:** Latihan tempur anda telah membolehkan anda memilih satu senjata untuk pengkhususan, ini boleh jadi perisai juga. Pengkhususan senjata memberikan manfaat bergantung pada senjata khusus yang dipilih dan diringkaskan di bawah.
-  - **Senjata Jarak Dekat:** Anda menerima manfaat pengkhususan berikut kepada satu senjata jarak dekat:
-    - Kemahiran Tempur anda dipertingkatkan sebanyak +5% apabila menggunakan senjata pengkhususan anda. Bonus ini tidak akan membantu dalam Peningkatan Pangkat.
-    - Anda memperoleh Tangkisan bonus apabila memegang senjata ini. Ini tidak memerlukan penggunaan Mata Tindakan.
-  - **Senjata Jarak Jauh:** Anda menerima manfaat pengkhususan berikut kepada satu Senjata Jarak Jauh:
-    - Jika tidak terkejut, anda boleh menembak secara automatik dahulu (sebelum melambung untuk Inisiatif) pada permulaan pertempuran, dengan mengandaikan kedua-dua senjata dan peluru telah sedia. Anda menyatakan niat anda untuk menembak, selesaikan keputusan, dan kemudian Inisiatif dilambung.
-    - Apabila membidik sasaran dalam Jarak Dekat senjata, membidik memerlukan 1 Pusingan untuk menstabilkan senjata dan bukannya Pusingan penuh, dan menjadikan serangan seterusnya 1 gred lebih mudah. Serangan yang dibuat melebihi Jarak Dekat mengikuti peraturan biasa untuk membidik seperti yang terdapat di bawah [Pertempuran Jarak Jauh](0008_Combat.md?id=ranged-combat) dalam Bab 8. Pusingan tambahan yang dibelanjakan untuk membidik tidak memberikan kelebihan lanjut.
+- **Kemahiran Berperang:** Menjadi pakar dalam pertempuran bersenjata, pejuang mendapat tambahan +5% lagi pada Kemahiran Berlawan dan kemahiran Tanpa Senjata mereka.
+- **Pengkhususan Senjata:** Latihan tempur anda membolehkan anda memilih satu senjata untuk pengkhususan, ini boleh jadi perisai juga. Pengkhususan senjata memberikan faedah bergantung pada senjata khusus yang dipilih dan diringkaskan di bawah.
+  - **Senjata Jarak Dekat:** Anda menerima faedah pengkhususan berikut kepada satu senjata jarak dekat: 
+    - Kemahiran Berlawan anda dipertingkatkan sebanyak +5% apabila menggunakan senjata pengkhususan anda. Bonus ini tidak akan membantu dalam Kemajuan Pangkat.
+    - Anda mendapat bonus Menangkis apabila menggunakan senjata ini. Ini tidak memerlukan penggunaan Mata Tindakan.
+  - **Senjata Jarak Jauh:** Anda menerima faedah pengkhususan berikut kepada satu Senjata Jarak Jauh: 
+    - Jika tidak terkejut anda boleh secara automatik menembak dahulu (sebelum menggulingkan Inisiatif) pada permulaan pertempuran, dengan andaian kedua-dua senjata dan peluru disediakan. Anda menyatakan niat anda untuk menembak, selesaikan keputusan, dan kemudian Inisiatif digulingkan.
+    - Apabila menyasarkan sasaran dalam Jarak Dekat senjata, menyasar memerlukan 1 Pusingan menstabilkan senjata dan bukannya satu Pusingan penuh, dan menjadikan serangan seterusnya 1 gred lebih mudah. Serangan yang dibuat melebihi Jarak Dekat mengikut peraturan biasa untuk menyasar seperti yang terdapat di bawah [Pertempuran Jarak Jauh](0008_Combat.md?id=ranged-combat) dalam Bab 8. Pusingan tambahan yang dihabiskan untuk menyasar tidak memberikan kelebihan lanjut.
     - Seorang pakar boleh mengurangkan masa muat semula mana-mana Senjata Jarak Jauh yang dikuasai sebanyak 1. Senjata dengan masa muat semula 0 boleh disediakan secara berkesan sebagai Tindakan Percuma.
-  - **Perisai:** Anda menerima manfaat pengkhususan berikut kepada SEMUA perisai:
-    - Kemahiran Tempur anda apabila menggunakan sebarang perisai dipertingkatkan sebanyak +10%. Bonus kemahiran ini tidak akan membantu dalam Peningkatan Pangkat.
-    - Semua perisai dikira sebagai 1 kategori Saiz lebih besar untuk tujuan Menangkis kerosakan: Besar kepada Gergasi, Gergasi kepada Luar Biasa, dan Luar Biasa kepada Kolosal.
+  - **Perisai:** Anda menerima faedah pengkhususan berikut kepada SEMUA perisai: 
+    - Kemahiran Berlawan anda apabila menggunakan sebarang perisai dipertingkatkan sebanyak +10%. Bonus kemahiran ini tidak akan membantu dalam Kemajuan Pangkat.
+    - Semua perisai dikira sebagai 1 kategori SAI lebih besar bagi tujuan Menangkis kerosakan: Besar kepada Sangat Besar, Sangat Besar kepada Gergasi, dan Gergasi kepada Kolosal.
 
 #### Kebolehan Berpangkat
 
-Seperti namanya, Kebolehan Berpangkat hanya boleh dipilih oleh watak pada Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi. Anda tidak disekat daripada Kebolehan terdahulu apabila Pangkat baharu dicapai. Jika anda gagal mengambil Kebolehan Pangkat 2 sebagai contoh, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudiannya. Tidak lebih daripada satu Kebolehan boleh diambil setiap sesi.
+Seperti namanya, Kebolehan Berpangkat hanya boleh dipilih oleh watak Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi. Anda tidak disekat daripada Kebolehan terdahulu apabila Pangkat baharu dicapai. Jika anda gagal mengambil Kebolehan Pangkat 2 sebagai contoh, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudiannya. Tidak lebih daripada satu Kebolehan boleh diambil setiap sesi.
 
 #### Pangkat 1:
 
-Untuk setiap perbelanjaan 1 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (satu Kebolehan setiap sesi, setiap satu hanya boleh diambil sekali):
+Bagi setiap perbelanjaan 1 Gulingan Pengalaman, anda boleh memperoleh salah satu daripada Kebolehan berikut (satu Kebolehan setiap sesi, setiap satu hanya boleh diambil sekali):
 
-- **Pukulan Berkuasa:** Memerlukan Kekuatan (Brawn) dan Kemahiran Tempur 50% atau lebih tinggi. Dengan mengurangkan kemahiran anda sebanyak satu gred pada serangan jarak dekat seterusnya, anda boleh meningkatkan Pengubah Kerosakan anda sebanyak dua gred.
-- **Hanya Calar:** Memerlukan Daya Tahan 50% atau lebih tinggi. Sekali sehari, selepas mengambil rehat singkat sekurang-kurangnya satu jam dan memeriksa luka anda, anda boleh mendapatkan semula bilangan Mata Hit di satu Lokasi Hit bersamaan dengan Kadar Penyembuhan anda. Tidak mempunyai kesan ke atas Luka Utama.
-- **Pertempuran Menunggang:** Memerlukan Kemahiran Menunggang 50% atau lebih tinggi. Anda telah dilatih untuk bertarung dari belakang haiwan tunggangan dan boleh mendapat manfaat daripada yang berikut apabila menunggang. Di mana biasanya kemahiran tempur penunggang tidak boleh melebihi kemahiran Menunggang mereka, stipulasi ini tidak terpakai kepada anda. Selain itu, melakukan serangan cas semasa menunggang tidak dikenakan penalti kesukaran satu langkah untuk mengenai. Akhir sekali, anda boleh mengabaikan gred penalti pertama mana-mana lambungan Menunggang yang diperlukan semasa dalam pertempuran. Perhatikan bahawa nomad manusia dan penunggang elf boleh menggunakan bonus di atas apabila menggunakan busur pendek dari belakang haiwan tunggangan.
-- **Nafas Kedua:** Memerlukan Daya Tahan 50% atau lebih tinggi. Sekali sehari, selepas berpeluang mengambil rehat singkat sekurang-kurangnya satu jam, anda boleh memulihkan serta-merta sehingga 3 tahap Keletihan yang hilang di atas dan melebihi mana-mana yang diperoleh semula secara biasa.
-- **Skirmishing:** Memerlukan Atletik dan Kemahiran Tempur 50% atau lebih tinggi. Kebolehan ini membenarkan pelancaran serangan jarak jauh semasa memilih Tindakan Tergesa-gesa untuk berlari (tetapi bukan semasa memecut). Walau bagaimanapun, peratusan serangan penyerang tidak boleh melebihi kemahiran Atletik beliau. Serangan boleh berlaku sebelum atau selepas pergerakan.
-- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubah Kerosakan dengan senjata ini berdasarkan STR+DEX dan bukannya STR+SIZ jika ia akan menghasilkan keputusan yang lebih baik. Pengubah Kerosakan tidak boleh melebihi dadu kerosakan biasa senjata. Sebagai contoh, keris dengan kerosakan 1d4+1, akan dihadkan kepada Pengubah Kerosakan +1d4, menjadikannya 1d4+1+1d4. Ini meliputi belantan, keris, garrote, pisau, pedang pendek, main gauche, dan rapier, serta serangan tidak bersenjata. Dart, lastik, busur pendek, dan lembing juga termasuk dalam kategori ini.
-- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur 50% atau lebih tinggi. Anda boleh memilih satu lagi Pengkhususan Senjata.
+- **Serangan Berdaya:** Memerlukan Kekuatan dan Kemahiran Berlawan 50% atau lebih tinggi. Dengan mengurangkan kemahiran anda sebanyak satu gred pada serangan jarak dekat anda yang seterusnya, anda boleh meningkatkan Pengubah Kerosakan anda sebanyak dua gred.
+- **Sekadar Calar:** Memerlukan Daya Tahan 50% atau lebih tinggi. Sekali sehari, selepas mengambil rehat singkat sekurang-kurangnya sejam dan memeriksa luka anda, anda boleh memperoleh semula beberapa Mata Nyawa di satu Lokasi Hit sama dengan Kadar Penyembuhan anda. Tiada kesan pada Luka Utama.
+- **Pertempuran Berkuda:** Memerlukan Kemahiran Menunggang 50% atau lebih tinggi. Anda telah berlatih untuk berjuang dari belakang haiwan tunggangan dan boleh mendapat manfaat daripada yang berikut apabila menunggang. Di mana biasanya kemahiran tempur penunggang tidak boleh melebihi kemahiran Menunggang mereka, syarat ini tidak terpakai kepada anda. Selain itu, melakukan serangan berkuda tidak dikenakan penalti kesukaran satu langkah untuk menyerang. Akhir sekali, anda boleh mengabaikan gred penalti pertama bagi mana-mana gulingan Menunggang yang diperlukan semasa dalam pertempuran. Ambil perhatian bahawa nomad manusia dan penunggang elf boleh menggunakan bonus di atas apabila menggunakan busur pendek dari belakang haiwan tunggangan.
+- **Nafas Kedua:** Memerlukan Daya Tahan 50% atau lebih tinggi. Sekali sehari, selepas berpeluang mengambil rehat singkat sekurang-kurangnya sejam, anda boleh memulihkan serta-merta sehingga 3 tahap Keletihan yang hilang melebihi apa yang dipulihkan secara biasa.
+- **Pergelutan:** Memerlukan Olahraga dan Kemahiran Berlawan 50% atau lebih tinggi. Kebolehan ini membenarkan pelancaran serangan jarak jauh semasa memilih Tindakan Lari (tetapi bukan semasa berlari pecut). Walau bagaimanapun, peratusan serangan penyerang tidak boleh melebihi kemahiran Olahraganya. Serangan boleh berlaku sebelum atau selepas pergerakan.
+- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubah Kerosakan dengan senjata ini berdasarkan KEK+KTG dan bukannya KEK+SAI jika ia akan menghasilkan keputusan yang lebih baik. Pengubah Kerosakan tidak boleh melebihi dadu kerosakan biasa senjata. Sebagai contoh, belati dengan kerosakan 1d4+1, akan dihadkan kepada Pengubah Kerosakan sebanyak +1d4, menjadikannya 1d4+1+1d4. Ini meliputi belantan, belati, garote, pisau, pedang pendek, main gauche, dan rapier. serta serangan tanpa senjata. Dam, lastik, busur pendek, dan lembing juga termasuk dalam kategori ini.
+- **Pengkhususan Senjata:** Memerlukan Kemahiran Berlawan 50% atau lebih tinggi. Anda boleh memilih Pengkhususan Senjata yang lain.
 
 #### Pangkat 2:
 
-Apabila mencapai Pangkat 2, anda secara automatik maju kepada Pakar Senjata jika anda memenuhi prasyarat.
+Apabila mencapai Pangkat 2, anda secara automatik maju ke Pakar Senjata jika anda memenuhi prasyarat.
 
-- **Pakar Senjata** (senjata jarak dekat atau Senjata Jarak Jauh khusus): Memerlukan Pengkhususan Senjata pada senjata yang dipilih dan Kemahiran Tempur 70% atau lebih tinggi. Walaupun anda boleh mengkhususkan diri dalam sebarang bilangan senjata, anda hanya boleh menguasai satu. Oleh itu, anda tidak boleh mengambil Kebolehan ini jika anda telah pun mengambil penguasaan senjata dalam mana-mana senjata lain. Pakar senjata menggandakan peluang Kritikal bagi senjata yang mereka kuasai. Selain itu, senjata jarak dekat yang dipilih mendapat peningkatan 1 langkah kepada Pengubah Kerosakan manakala Senjata Jarak Jauh mendapat bonus yang sama terhadap sasaran dalam Jarak Dekat.
+- **Pakar Senjata** (senjata jarak dekat atau Jarak Jauh khusus): Memerlukan Pengkhususan Senjata dalam senjata yang dipilih dan Kemahiran Berlawan 70% atau lebih tinggi. Walaupun anda boleh mengkhusus dalam sebarang bilangan senjata, anda hanya boleh menguasai satu. Oleh itu, anda tidak boleh mengambil Kebolehan ini jika anda telah mengambil penguasaan senjata dalam mana-mana senjata lain. Pakar senjata menggandakan peluang Kritikal senjata yang mereka kuasai. Selain itu, senjata jarak dekat yang dipilih mendapat peningkatan 1 langkah kepada Pengubah Kerosakan manakala Senjata Jarak Jauh mendapat bonus yang sama terhadap sasaran dalam Jarak Dekat.
 
-Selain itu, untuk setiap perbelanjaan 2 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Sebagai tambahan, bagi setiap perbelanjaan 2 Gulingan Pengalaman, anda boleh memperoleh salah satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Kekuatan Kasar (Brute Strength):** Sekali sehari kemahiran Kekuatan (Brawn) anda menjadi satu gred lebih mudah untuk melakukan satu Tindakan. Anda mengalami kehilangan satu tahap Keletihan selepas itu.
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Pukulan Menyapu:** Memerlukan Pukulan Berkuasa dan Kemahiran Tempur 70% atau lebih tinggi. Pukulan Menyapu dibuat dengan menggunakan lambungan serangan jarak dekat tunggal kepada dua sasaran dalam jangkauan dan dalam garis penglihatan anda. Setiap pertahanan mesti menyelesaikan kesan serangan secara berasingan dan sebarang Kesan Khas yang dikenakan oleh penyerang dianggap telah berlaku secara serentak. Serangan tidak boleh menyapu melepasi unit mesra yang diletakkan di antara dua lawan. Hanya satu Pukulan Menyapu boleh dibuat setiap Pusingan.
-- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur 70% atau lebih tinggi. Anda boleh memilih satu lagi Pengkhususan Senjata.
+- **Kekuatan Kasar:** Sekali sehari kemahiran Kekuatan anda menjadi satu gred lebih mudah untuk melakukan satu Tindakan. Anda mengalami kehilangan satu tahap Keletihan selepas itu.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada mana-mana Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Serangan Menyapu:** Memerlukan Serangan Berdaya dan Kemahiran Berlawan 70% atau lebih tinggi. Serangan Menyapu dibuat dengan menggunakan satu gulingan serangan jarak dekat kepada dua sasaran dalam jangkauan dan dalam garisan penglihatan anda. Setiap pertahanan mesti menyelesaikan kesan serangan secara berasingan dan sebarang Kesan Khas yang dikenakan oleh penyerang dianggap telah berlaku secara serentak. Serangan tidak boleh menyapu melepasi unit mesra yang diletakkan di antara dua lawan. Hanya satu Serangan Menyapu boleh dibuat setiap Pusingan.
+- **Pengkhususan Senjata:** Memerlukan Kemahiran Berlawan 70% atau lebih tinggi. Anda boleh memilih Pengkhususan Senjata yang lain.#### Pangkat 3:
 
-#### Pangkat 3:
+Apabila mencapai Pangkat 3, anda secara automatik meningkat ke Pangkat Tinggi (High Master) jika anda memenuhi prasyarat.
 
-Apabila mencapai Pangkat 3, anda secara automatik maju kepada Pakar Tinggi jika anda memenuhi prasyarat.
+- **Pangkat Tinggi (High Master):** Memerlukan Penguasaan Senjata dalam senjata yang dipilih dan Kemahiran Tempur sebanyak 90% atau lebih tinggi. Seseorang Penguasa Senjata kini boleh menjadi Pangkat Tinggi dan memperoleh manfaat tambahan bergantung kepada senjata khusus yang dipilih, diringkaskan seperti berikut:
+  - Penguasa senjata jarak dekat boleh melakukan serangan balas (riposte) selepas Menangkis (Parry) dengan jayanya. Serangan balas ialah tindakan susulan pantas, Tindakan Percuma, yang ditujukan kepada lawan mereka pada satu gred Kesukaran. Mereka menganggap senjata pilihan mereka 1 gred lebih besar: Besar kepada Sangat Besar, Sangat Besar kepada Gergasi, dan Gergasi kepada Kolosal bagi tujuan melencongkan kerosakan.
+  - Penguasa senjata jarak jauh boleh mengubah hasil balingan Lokasi Hitan kepada lokasi bersebelahan dengan mengandaikan sasaran berada dalam Jarak Dekat senjata tersebut, mengikut Kesan Khas Penembak Tepat.
 
-- **Pakar Tinggi:** Memerlukan Penguasaan Senjata pada senjata yang dipilih dan Kemahiran Tempur 90% atau lebih tinggi. Seorang Pakar Senjata kini boleh menjadi Pakar Tinggi memperoleh manfaat tambahan bergantung pada senjata khusus yang dipilih dan diringkaskan seperti berikut.
-  - Pakar senjata jarak dekat boleh membuat riposte selepas Tangkisan yang berjaya. Riposte ialah tindakan susulan cepat, Tindakan Percuma terhadap lawan mereka pada satu gred Kesukaran. Mereka menganggap senjata pilihan mereka sebagai 1 gred lebih besar: Besar kepada Gergasi, Gergasi kepada Luar Biasa, dan Luar Biasa kepada Kolosal untuk tujuan melencongkan kerosakan.
-  - Pakar jarak jauh boleh mengalihkan keputusan lambungan Lokasi Hit ke lokasi bersebelahan dengan mengandaikan sasaran berada dalam Jarak Dekat senjata, seperti Kesan Khas Penembak (Marksman).
+Selain itu, bagi setiap perbelanjaan 3 Gulingan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali kecuali dinyatakan sebaliknya):
 
-Selain itu, untuk setiap perbelanjaan 3 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali kecuali dinyatakan sebaliknya):
-
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan:** Kebolehan ini memerlukan anda Tidak Terbeban (Kurang 'Benda' dibawa daripada STR), tidak memakai apa-apa yang lebih menyekat daripada perisai ringan. Sekali setiap pertempuran Anda boleh melambung semula Gulungan Tangkisan atau Elak yang Gagal tanpa membelanjakan Mata Nasib. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali, walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
-- **Pukulan Menyapu Lebih Besar:** Memerlukan Pukulan Menyapu dan Kemahiran Tempur 90% atau lebih tinggi. Seperti Pukulan Menyapu, tetapi ia boleh dilakukan terhadap semua musuh dalam jangkauan dan dalam garis penglihatan. Serangan tidak boleh menyapu melepasi unit mesra yang diletakkan di antara dua lawan. Hanya satu Pukulan Menyapu boleh dibuat setiap Pusingan.
-- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur 90% atau lebih tinggi. Anda boleh memilih satu lagi Pengkhususan Senjata.
+- **Peningkatan Ciri:** Anda boleh menambah +1 kepada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan:** Kebolehan ini memerlukan anda Tidak Terbeban (membawa 'Benda' kurang daripada KEK), dan tidak memakai pakaian yang lebih ketat daripada perisai ringan. Sekali setiap pertempuran, anda boleh mengguling semula gulingan Tangkis atau Mengelak yang Gagal tanpa membelanjakan Mata Nasib. Walau bagaimanapun, anda tidak boleh mengguling semula terhadap serangan yang sama lebih daripada sekali, dan tidak boleh menggabungkannya dengan Mata Nasib.
+- **Serangan Menyapu Lebih Hebat:** Memerlukan Serangan Menyapu dan Kemahiran Tempur sebanyak 90% atau lebih tinggi. Seperti Serangan Menyapu, tetapi ia boleh dilakukan terhadap semua musuh yang berada dalam jangkauan dan dalam garis penglihatan. Serangan tersebut tidak boleh menyapu melepasi unit kawan yang berada di antara dua lawan. Hanya satu Serangan Menyapu boleh dibuat setiap Pusingan.
+- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur sebanyak 90% atau lebih tinggi. Anda boleh memilih Pengkhususan Senjata yang lain.
 
 #### Pangkat 4:
 
-Apabila mencapai Pangkat 4, anda secara automatik maju kepada Pakar Agung jika anda memenuhi prasyarat.
+Apabila mencapai Pangkat 4, anda secara automatik meningkat ke Pangkat Agung (Grand Master) jika anda memenuhi prasyarat.
 
-- **Pakar Agung:** Memerlukan Penguasaan Tinggi Senjata dan Kemahiran Tempur 110% atau lebih tinggi. Seorang Pakar Agung senjata tertentu memperoleh manfaat bergantung pada senjata khusus yang dipilih. Ini diringkaskan seperti berikut:
-  - Pakar Agung senjata jarak dekat memperoleh satu lagi peningkatan 1 langkah kepada Pengubah Kerosakan, untuk jumlah 2 gred (termasuk bonus daripada Pengkhususan Senjata).
-  - Seorang Pakar Agung Senjata Jarak Jauh boleh mengurangkan masa muat semula Senjata Jarak Jauh yang dikuasai sebanyak satu mata lagi. Senjata dengan masa muat semula 0 boleh disediakan secara berkesan sebagai Tindakan Percuma.
+- **Pangkat Agung (Grand Master):** Memerlukan Penguasaan Tinggi Senjata dan Kemahiran Tempur sebanyak 110% atau lebih tinggi. Seseorang Pangkat Agung senjata tertentu memperoleh manfaat bergantung kepada senjata khusus yang dipilih. Ini diringkaskan seperti berikut:
+  - Pangkat Agung senjata jarak dekat memperoleh peningkatan 1 langkah lagi kepada Pengubah Kerosakan, untuk jumlah keseluruhan 2 gred (termasuk bonus daripada Pengkhususan Senjata).
+  - Pangkat Agung Senjata Jarak Jauh boleh mengurangkan masa muat semula Senjata Jarak Jauh yang dikuasai sebanyak satu mata lagi. Senjata dengan 0 masa muat semula boleh disediakan sebagai Tindakan Percuma.
 
-Selain itu, untuk setiap perbelanjaan 4 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali kecuali dinyatakan sebaliknya):
+Selain itu, bagi setiap perbelanjaan 4 Gulingan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali kecuali dinyatakan sebaliknya):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Kekuatan Kasar Lebih Besar:** Seperti untuk Kekuatan Kasar, walau bagaimanapun, anda boleh melakukan Kebolehan ini dua kali sehari, dan penggunaan pertama tidak menyebabkan kehilangan Keletihan. Anda mengalami kehilangan satu tahap Keletihan selepas penggunaan kedua.
-- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur 110% atau lebih tinggi. Anda boleh memilih satu lagi Pengkhususan Senjata.
+- **Peningkatan Ciri:** Anda boleh menambah +1 kepada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Kekuatan Brute Lebih Hebat:** Seperti Kekuatan Brute, walau bagaimanapun, anda boleh melaksanakan Kebolehan ini dua kali sehari, dan penggunaan pertama tidak menyebabkan kehilangan Keletihan. Anda mengalami kehilangan satu tahap Keletihan selepas penggunaan kedua.
+- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur sebanyak 110% atau lebih tinggi. Anda boleh memilih Pengkhususan Senjata yang lain.
 
 #### Pangkat 5:
 
-Apabila mencapai Pangkat 5, anda secara automatik maju kepada Pakar Legenda jika anda memenuhi prasyarat.
+Apabila mencapai Pangkat 5, anda secara automatik meningkat ke Pangkat Legenda (Legendary Master) jika anda memenuhi prasyarat.
 
-- **Pakar Legenda:** Memerlukan Penguasaan Agung Senjata dan Kemahiran Tempur 130% atau lebih tinggi. Seorang Pakar Agung senjata memperoleh manfaat tambahan bergantung pada senjata khusus yang dipilih, seperti berikut:
-  - Senjata jarak dekat Pakar Legenda dianggap sebagai 2 gred lebih besar apabila Menangkis: Besar kepada Luar Biasa, Gergasi kepada Kolosal, dan seterusnya.
-  - Seorang pemanah boleh meletakkan dua anak panah dan menembaknya pada satu gred kesukaran. Mereka boleh menembak 3 anak panah pada dua gred kesukaran. Dalam kedua-dua kes, sasaran mesti berada dalam Jarak Dekat senjata, dan jika menembak pada berbilang sasaran, setiap satu mesti berada dalam jarak 5 kaki dari yang lain.
-  - Seorang pelontar lastik atau pelontar bilah boleh melontar batu, peluru, atau pisau tambahan seperti seorang Pemanah.
-  - Seorang pakar busur silang boleh mengurangkan masa muat semula sebanyak satu mata lagi. Senjata dengan masa muat semula 0 boleh disediakan secara berkesan sebagai Tindakan Percuma.
+- **Pangkat Legenda (Legendary Master):** Memerlukan Penguasaan Agung Senjata dan Kemahiran Tempur sebanyak 130% atau lebih tinggi. Seseorang Pangkat Agung senjata memperoleh manfaat tambahan bergantung kepada senjata khusus yang dipilih, seperti berikut:
+  - Senjata jarak dekat seorang Pangkat Legenda dianggap 2 gred lebih besar semasa Menangkis: Besar kepada Gergasi, Sangat Besar kepada Kolosal, dan seterusnya.
+  - Seorang pemanah boleh meletakkan dua anak panah dan melepaskannya pada satu gred kesukaran. Mereka boleh melepaskan 3 anak panah pada dua gred kesukaran. Dalam kedua-dua keadaan, sasaran mestilah berada dalam Jarak Dekat senjata tersebut, dan jika melepaskan tembakan ke arah berbilang sasaran, setiap satu mestilah berada dalam jarak 5 kaki antara satu sama lain.
+  - Seorang pembaling umban atau pembaling pisau boleh melontar batu, peluru, atau pisau tambahan seperti Pemanah.
+  - Seorang penguasa busur silang boleh mengurangkan masa muat semula sebanyak satu mata lagi. Senjata dengan 0 masa muat semula boleh disediakan sebagai Tindakan Percuma.
 
-Selain itu, untuk setiap perbelanjaan 5 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali kecuali dinyatakan sebaliknya):
+Selain itu, bagi setiap perbelanjaan 5 Gulingan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali kecuali dinyatakan sebaliknya):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan. Seperti Refleks Pertahanan, walau bagaimanapun, anda kini boleh menggunakan Kebolehan ini dua kali dalam pertempuran yang sama. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali, walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
-- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur 130% atau lebih tinggi. Anda boleh memilih satu lagi Pengkhususan Senjata.
+- **Peningkatan Ciri:** Anda boleh menambah +1 kepada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan. Seperti Refleks Pertahanan, walau bagaimanapun, anda kini boleh menggunakan Kebolehan ini dua kali dalam pertempuran yang sama. Walau bagaimanapun, anda tidak boleh mengguling semula terhadap serangan yang sama lebih daripada sekali, dan tidak boleh menggabungkannya dengan Mata Nasib.
+- **Pengkhususan Senjata:** Memerlukan Kemahiran Tempur sebanyak 130% atau lebih tinggi. Anda boleh memilih Pengkhususan Senjata yang lain.
 
-### Peralatan Permulaan Asas Pahlawan
+### Peralatan Permulaan Asas Pejuang
 
 Setiap baris item dikira sebagai 1 'Benda' untuk tujuan Beban kecuali dinyatakan sebaliknya.
 
 - Pedang panjang
 - Perisai bulat (dikira sebagai 2 Benda)
 - Busur pendek
-- Tabung busur dengan 20 anak panah
+- Bekas anak panah dengan 20 anak panah
 - Set lengkap perisai rantai, 5 Mata Perisai (0 Benda apabila dipakai, 14 Benda jika dibawa)
-- Beg galas (kapasiti 10 Benda); bekas air, ransum perjalanan satu minggu, beg tidur, beg kosong kecil\*, batu api dan bahan pemetik api\*\*, 2 obor enam jam (5½ Benda terkandung)
-- Kantung pinggang dengan 2d4 keping emas
+- Beg galas (kapasiti 10 Benda); botol air, catuan perjalanan seminggu, beg tidur, karung kosong kecil\*, batu api dan kayu api\*\*, 2 obor enam jam (5½ Benda terkandung)
+- Beg pinggang dengan 2d4 keping emas
 
 Jumlah ENC: 7 Benda
 
-_\* Kandungan dikira ke arah kandungan beg galas kerana isipadunya meningkat._
+_\* Kandungan dikira ke arah kandungan beg galas kerana isipadunya bertambah._
 
 _\*\* Dikira sebagai ½ Benda._
 
 ---
-## Pengguna Sihir (Mage)
+## Pengguna Sihir (Majus)
 
-Pengguna sihir mengkaji yang esoterik, menggali melalui makam lama yang berdebu untuk mantera baharu dan sukar difahami untuk ditambah ke dalam buku mantera mereka. Mereka menghabiskan banyak masa lapang mereka mengkaji mantera ini dan belajar untuk menguasai kuasa yang terdapat di dalamnya. Walaupun lemah pada permulaannya, pengguna sihir mempunyai potensi untuk menjadi yang paling berkuasa dalam Kelas.
+Pengguna sihir mengkaji perkara esoterik, menggali melalui makam lama yang berdebu untuk mendapatkan jampi baharu yang sukar ditemui untuk ditambah ke dalam buku jampi mereka. Mereka menghabiskan banyak masa lapang mereka untuk mengkaji jampi-jampi ini dan belajar menguasai kuasa yang terdapat di dalamnya. Walaupun lemah pada permulaannya, majus mempunyai potensi untuk menjadi Kelas yang paling berkuasa.
 
 #### Spesies/Budaya Biasa
 
-Mana-mana, tetapi biasanya manusia Bertamadun dan Nomad, serta gnom, elf, dan separuh-elf. Gnom yang menjadi pengguna sihir cenderung kepada Sekolah Ilusi.
+Mana-mana, tetapi biasanya manusia Bertamadun dan Nomad, serta gnom, elf, dan separuh-elf. Gnom yang menjadi majus cenderung untuk cenderung ke arah Sekolah Ilusi.
 
 #### Ciri Penting
 
-DEX, INT, dan POW
+KTG, KEC, dan KUR
 
-#### Keperluan Jajaran/Sumpah
+#### Keperluan Penjajaran/Sumpah
 
-- Jajaran: Pengguna sihir tidak terhad oleh Jajaran dan tidak memerlukan Sumpah.
+- Penjajaran: Majus tidak dihadkan oleh Penjajaran dan tidak memerlukan Sumpah.
 
-Lihat [Bab 4: Jajaran dan Keghairahan](0004_Alignment_and_Passions.md).
+Lihat [Bab 4: Penjajaran dan Keghairahan](0004_Alignment_and_Passions.md).
 
 #### Kemahiran Kelas
 
-- **Kemahiran Standard:** Elak, Pertolongan Cemas, Pengaruh, Wawasan, Lokasi, Persepsi, Kekuatan Kehendak
-- **Kemahiran Profesional:** Seorang pengguna sihir secara automatik menerima Perapalan Arcane dan Pengetahuan Arcane, ditambah 3 kemahiran tambahan daripada yang berikut: Budaya (mana-mana), Bahasa (mana-mana), Pengetahuan (Alkimia), Pengetahuan (mana-mana)
+- **Kemahiran Standard:** Mengelak, Pertolongan Cemas, Pengaruh, Wawasan, Lokaliti, Persepsi, Kehendak
+- **Kemahiran Profesional:** Seorang majus secara automatik menerima Tuangan Arcane dan Pengetahuan Arcane, ditambah 3 kemahiran tambahan daripada yang berikut: Budaya (mana-mana), Bahasa (mana-mana), Pengetahuan (Alkimia), Pengetahuan (mana-mana)
 
-#### Kecekapan Perisai dan Senjata Pengguna Sihir
+#### Perisai Majus dan Kemahiran Senjata
 
-Pengguna sihir tidak cekap dengan sebarang jenis perisai atau perisai tangan, kerana mantera Arcane memerlukan gerak-geri dan pergerakan yang tepat semasa merapal, yang terhalang oleh pemakaian perisai. Mereka biasanya tidak dilatih dalam pertempuran fizikal; oleh itu, Kemahiran Tempur pengguna sihir hanya boleh dibangunkan dengan Mata Kemahiran Bonus. Ia merangkumi penggunaan keris, dart, lastik, tongkat suku (quarterstaff), dan busur silang ringan, senjata mudah yang biasanya ditemui di sekitar kediaman tuan mereka atau yang agak mudah untuk dipelajari.
+Majus tidak mahir dengan sebarang jenis perisai atau perisai badan, kerana jampi Arcane memerlukan gerak isyarat dan pergerakan yang tepat semasa menuang, yang terhalang oleh pemakaian perisai. Mereka biasanya tidak dilatih dalam pertempuran fizikal; oleh itu, Kemahiran Tempur majus hanya boleh dibangunkan dengan Mata Kemahiran Bonus. Ia termasuk penggunaan belati, dart, umban, kakitangan suku (quarterstaffs), dan busur silang ringan, senjata ringkas yang biasa ditemui di sekitar kediaman tuan mereka atau yang agak mudah untuk diambil dan dipelajari.
 
 ### Struktur Pangkat
 
-Semua pengguna sihir dinilai mengikut Pangkat, iaitu penilaian kuasa dan kemahiran. Apabila tahap penguasaan tertentu dicapai dalam bilangan terhad kemahiran Kelas, pengguna sihir boleh meningkatkan Pangkat mereka, kerana mereka telah menunjukkan tahap kebolehan yang diperlukan. Apabila tahap kebolehan ini dicapai, satu Mata Nasib tambahan diperoleh dan Kebolehan baharu boleh diperolehi. Maklumat ini terdapat di bawah pada [Jadual Pangkat Pengguna Sihir](0003_Classes.md?id=mage-rank-table) di bawah Peningkatan. Dengan mengandaikan anda memenuhi prasyarat, watak anda bermula sebagai Pangkat 1 Journeyman dengan Kebolehan yang sewajarnya dinyatakan di bawah; jika tidak, anda bermula sebagai Pangkat 0 Perantis dengan Kebolehan merapalkan mantera Pangkat 0, dan tiada Kebolehan lain.
+Semua majus dinilai mengikut Pangkat, yang merupakan penarafan kuasa dan kemahiran. Apabila tahap penguasaan tertentu dicapai dalam bilangan kemahiran Kelas yang terhad, majus boleh meningkatkan Pangkat mereka kerana mereka akan menunjukkan tahap kebolehan yang diperlukan. Apabila tahap kebolehan ini dicapai, satu Mata Nasib tambahan diperoleh dan Kebolehan baharu boleh diperoleh. Maklumat ini terdapat di bawah pada [Jadual Pangkat Majus](0003_Classes.md?id=mage-rank-table) di bawah Kemajuan. Dengan andaian anda memenuhi prasyarat, watak anda bermula sebagai Pekerja Mahir Pangkat 1 dengan Kebolehan yang sesuai dinyatakan di bawah; jika tidak, anda bermula sebagai Perantis Pangkat 0 dengan Kebolehan untuk menuang jampi Pangkat 0, dan tiada Kebolehan lain.
 
-##### Jadual Pangkat Pengguna Sihir
+##### Jadual Pangkat Majus
 
-| Pangkat | Gelaran | Peningkatan | Mantera dalam Ingatan | Mata Hit | Mata Nasib | Mata Tindakan |
+| Pangkat | Gelaran | Kemajuan | Jampi dalam Ingatan | Mata Hit | Mata Nasib | Mata Tindakan |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Perantis | - | Pangkat 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Journeyman | Mana-mana 5 kemahiran Kelas pada 40% | Pangkat 0: (INT/4) +1<br> Pangkat 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Pengguna Sihir | Mana-mana 5 kemahiran Kelas pada 70% | Pangkat 0: (INT/4) +2 <br> Pangkat 1: (INT/4) +2 <br> Pangkat 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Pengguna Sihir Adept | Mana-mana 4 kemahiran Kelas pada 90% | Pangkat 0: (INT/4) +3 <br> Pangkat 1: (INT/4) +4 <br> Pangkat 2: (INT/4) +2 <br> Pangkat 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Arch Mage | Mana-mana 3 kemahiran Kelas pada 110% | Pangkat 0: (INT/4) +4 <br> Pangkat 1: (INT/4) +6 <br> Pangkat 2: (INT/4) +4 <br> Pangkat 3: (INT/4) +2 <br> Pangkat 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Grand Arch Mage | Mana-mana 2 kemahiran Kelas pada 130% | Pangkat 0: (INT/4) +5 <br> Pangkat 1: (INT/4) +8 <br> Pangkat 2: (INT/4) +6 <br> Pangkat 3: (INT/4) +4 <br> Pangkat 4: (INT/4) +2 <br> Pangkat 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Perantis | - | Pangkat 0: (KEC/4) | 0 | +0 | +0 |
+| **1** | Pekerja Mahir | Mana-mana 5 kemahiran Kelas pada 40% | Pangkat 0: (KEC/4) +1<br> Pangkat 1: (KEC/4) | 0 | +0 | +0 |
+| **2** | Majus | Mana-mana 5 kemahiran Kelas pada 70% | Pangkat 0: (KEC/4) +2 <br> Pangkat 1: (KEC/4) +2 <br> Pangkat 2: (KEC/4) | +1 | +1 | +1 |
+| **3** | Majus Adept | Mana-mana 4 kemahiran Kelas pada 90% | Pangkat 0: (KEC/4) +3 <br> Pangkat 1: (KEC/4) +4 <br> Pangkat 2: (KEC/4) +2 <br> Pangkat 3: (KEC/4) | +1 | +2 | +1 |
+| **4** | Arch Majus | Mana-mana 3 kemahiran Kelas pada 110% | Pangkat 0: (KEC/4) +4 <br> Pangkat 1: (KEC/4) +6 <br> Pangkat 2: (KEC/4) +4 <br> Pangkat 3: (KEC/4) +2 <br> Pangkat 4: (KEC/4) | +2 | +3 | +2 |
+| **5** | Grand Arch Majus | Mana-mana 2 kemahiran Kelas pada 130% | Pangkat 0: (KEC/4) +5 <br> Pangkat 1: (KEC/4) +8 <br> Pangkat 2: (KEC/4) +6 <br> Pangkat 3: (KEC/4) +4 <br> Pangkat 4: (KEC/4) +2 <br> Pangkat 5: (KEC/4) | +2 | +4 | +2 |
 
 #### Kebolehan Permulaan
 
-Pengguna sihir mengetahui Kebolehan berikut pada Pangkat 1. Selain itu, semasa penciptaan watak, anda boleh memilih satu Kebolehan Pangkat 1 secara percuma dengan mengandaikan anda memenuhi syaratnya.
+Majus mengetahui Kebolehan berikut pada Pangkat 1. Selain itu, semasa penciptaan watak, anda boleh memilih satu Kebolehan Pangkat 1 secara percuma dengan andaian anda memenuhi keperluannya.
 
-- **Perapal Mantera:** Walaupun pengguna sihir sangat lemah pada permulaan kerjaya mereka, pada spektrum yang lain, mereka boleh merapalkan mantera yang paling hebat dan berkuasa, mampu membakar tentera, dan meruntuhkan istana tanpa sebarang sekatan. Semua mantera Arcane memerlukan gerak-geri dan pergerakan yang tepat (komponen somatik mantera) semasa merapal, yang terhalang oleh pemakaian perisai. Lihat bahagian [Merapal dalam Perisai](0009_Magic.md?id=casting-in-armor) untuk maklumat khusus. Bilangan mantera Pangkat semasa yang boleh diingati oleh pengguna sihir terdapat pada [Jadual Pangkat Pengguna Sihir](0003_Classes.md?id=mage-rank-table), di atas, di bawah Mantera dalam Ingatan.
-- **Mantera Permulaan:** Cantrip adalah kebolehan magis pertama yang diajar kepada pengguna sihir perantis dan ditakrifkan sepenuhnya dalam bab [Mantera](0010_Spells). Seorang pengguna sihir bermula dengan pengetahuan tentang cantrip Pangkat 0 Read Magic, serta dua cantrip (Pangkat 0) bagi setiap 1/10 Pengetahuan Arcane (kemahiran x 0.1). Jika pengguna sihir layak sebagai Pangkat 1, mereka juga mengetahui satu mantera Pangkat 1 bagi setiap 1/10 Pengetahuan Arcane. Bilangan mantera yang boleh disediakan oleh pengguna sihir pada setiap Pangkat terdapat di atas pada [Jadual Pangkat Pengguna Sihir](0003_Classes.md?id=mage-rank-table) di bawah Mantera dalam Ingatan. Lihat [Senarai Mantera Pengguna Sihir](0003_Classes.md?id=mage-spell-list) di bawah dan bahagian tentang [Menghafal Mantera](0009_Magic.md?id=memorizing-spells).
+- **Penuang Jampi:** Walaupun majus sangat lemah pada permulaan kerjaya mereka, di hujung spektrum yang lain, mereka boleh menuang jampi yang paling menakjubkan dan berkuasa, mampu membakar tentera, dan meruntuhkan istana tanpa sebarang hukuman. Semua jampi Arcane memerlukan gerak isyarat dan pergerakan yang tepat (komponen somatik jampi) semasa menuang, yang terhalang oleh pemakaian perisai. Lihat bahagian [Menuang dalam Perisai](0009_Magic.md?id=casting-in-armor) untuk maklumat khusus. Bilangan jampi Pangkat semasa mereka yang boleh diingat oleh seorang majus terdapat pada [Jadual Pangkat Majus](0003_Classes.md?id=mage-rank-table), di atas, di bawah Jampi dalam Ingatan.
+- **Jampi Permulaan:** Cantrip adalah kebolehan ajaib pertama yang diajar kepada perantis majus dan ditakrifkan sepenuhnya dalam bab [Jampi](0010_Spells.md). Seorang majus bermula dengan pengetahuan tentang cantrip Pangkat 0 Read Magic, serta dua cantrip (Pangkat 0) untuk setiap 1/10 Pengetahuan Arcane (kemahiran x 0.1). Jika majus layak sebagai Pangkat 1, mereka juga mengetahui satu jampi Pangkat 1 untuk setiap 1/10 Pengetahuan Arcane. Bilangan jampi yang boleh disediakan oleh majus pada setiap Pangkat terdapat di atas pada [Jadual Pangkat Majus](0003_Classes.md?id=mage-rank-table) di bawah Jampi dalam Ingatan. Lihat [Senarai Jampi Majus](0003_Classes.md?id=mage-spell-list) di bawah dan bahagian tentang [Menghafal Jampi](0009_Magic.md?id=memorizing-spells).
 
 #### Kebolehan Berpangkat
 
-Seperti namanya, Kebolehan Berpangkat hanya boleh dipilih oleh watak pada Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi sebelum ia boleh dipilih. Anda tidak disekat daripada Kebolehan terdahulu apabila Pangkat baharu dicapai. Jika anda gagal mengambil Kebolehan Pangkat 2 sebagai contoh, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudiannya. Tidak lebih daripada satu Kebolehan boleh diambil setiap sesi.
+Seperti namanya, Kebolehan Berpangkat hanya boleh dipilih oleh watak Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi sebelum ia boleh dipilih. Anda tidak disekat daripada Kebolehan terdahulu apabila Pangkat baharu dicapai. Jika anda gagal mengambil Kebolehan Pangkat 2 contohnya, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudian. Tidak lebih daripada satu Kebolehan boleh diambil setiap sesi.
 
 #### Pangkat 1:
 
-Untuk setiap perbelanjaan 1 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (satu Kebolehan setiap sesi, setiap Kebolehan hanya boleh diambil sekali):
+Bagi setiap perbelanjaan 1 Gulingan Pengalaman anda boleh memperoleh satu daripada Kebolehan berikut (satu Kebolehan setiap sesi, setiap Kebolehan hanya boleh diambil sekali):
 
-- **Penumpuan Berkuasa:** Memerlukan Perapalan Arcane 50% atau lebih tinggi. Ujian Kekuatan Kehendak untuk mengekalkan Penumpuan mengenai mantera dan perapalan mantera adalah satu Gred Kesukaran lebih mudah.
-- **Kekuatan Mental:** Memerlukan Perapalan Arcane 60% atau lebih tinggi. Sekali sehari anda mendapati 2 Gred Kesukaran lebih mudah untuk melakukan pemeriksaan Kekuatan Kehendak apabila menentang sebarang bentuk sihir yang menyasarkan minda. Ini termasuk kuasa seperti memikat, pesona, penguasaan, menahan, hipnosis, Magic Jar, kerasukan, tidur, cadangan, dan letupan minda psionik. Ia tidak mempunyai kesan ke atas kemahiran seperti Pengaruh atau Rayuan. Anda juga mendapati 1 gred lebih mudah untuk Tidak Mempercayai ilusi dan fantasi. Dalam kes elf, ini tidak bertindan dengan rintangan mereka terhadap Tidur dan Pesona, tetapi ia meluaskan keupayaan mereka untuk menentang kesan tambahan.
-- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubah Kerosakan dengan senjata ini berdasarkan STR+DEX dan bukannya STR+SIZ, mana-mana yang menghasilkan keputusan yang lebih baik. Pengubah Kerosakan tidak boleh melebihi dadu kerosakan biasa senjata. Sebagai contoh, keris dengan kerosakan 1d4+1, akan dihadkan kepada Pengubah Kerosakan +1d4. Ini meliputi belantan, keris, garrote, pisau, pedang pendek, main gauche, dan rapier. Serta serangan tidak bersenjata. Dart, lastik, busur pendek, dan lembing juga termasuk dalam kategori ini.
+- **Tumpuan Berkuasa:** Memerlukan Tuangan Arcane sebanyak 50% atau lebih tinggi. Ujian Kehendak untuk mengekalkan Tumpuan mengenai jampi dan penuangan jampi adalah satu Gred Kesukaran lebih mudah.
+- **Kekuatan Mental:** Memerlukan Tuangan Arcane sebanyak 60% atau lebih tinggi. Sekali sehari anda mendapati 2 Gred Kesukaran lebih mudah untuk melaksanakan pemeriksaan Kehendak apabila menentang sebarang bentuk sihir yang menyasarkan minda. Ini termasuk kuasa seperti memikat, pesona, dominasi, pegangan, hipnosis, Magic Jar, pemilikan, tidur, cadangan, dan letupan minda psionik. Ia tidak mempunyai kesan ke atas kemahiran seperti Pengaruh atau Menggoda. Anda juga mendapati 1 gred lebih mudah untuk Tidak Mempercayai ilusi dan fantasi. Dalam kes elf, ini tidak terkumpul dengan rintangan mereka terhadap Tidur dan Pesona, tetapi ia meluaskan keupayaan mereka untuk menentang kesan tambahan.
+- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubah Kerosakan dengan senjata ini berdasarkan KEK+KTG dan bukannya KEK+SAI, yang mana memberikan hasil yang lebih baik. Pengubah Kerosakan tidak boleh melebihi dadu kerosakan biasa senjata tersebut. Sebagai contoh, belati dengan kerosakan 1d4+1, akan dihadkan kepada Pengubah Kerosakan +1d4. Ini meliputi belantan, belati, garrot, pisau, pedang pendek, main gauche, dan rapier. Begitu juga dengan serangan tidak bersenjata. Dart, umban, busur pendek, dan lembing juga termasuk dalam kategori ini.
 
 #### Pangkat 2:
 
-Untuk setiap perbelanjaan 2 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Bagi setiap perbelanjaan 2 Gulingan Pengalaman anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Tambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Kekuatan Mental II:** Memerlukan Kekuatan Mental dan Pengetahuan Arcane 80% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan dua kali sehari.
-- **Sentuhan Jarak Jauh (X)**: Memerlukan Kekuatan Kehendak 80% atau lebih tinggi. Kebolehan ini membolehkan perapal memberikan mantera dengan Jarak "Sentuhan," Jarak 30 kaki sebaliknya. Mantera dianggap satu Pangkat lebih tinggi berkenaan dengan penghafalan dan harus dicatat sebagai jarak jauh apabila dihafal. Sebagai contoh, Invisibility (Jarak Jauh) akan dikira sebagai mantera Pangkat 2.
+- **Peningkatan Ciri:** Tambah +1 kepada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Kekuatan Mental II:** Memerlukan Kekuatan Mental dan Pengetahuan Arcane sebanyak 80% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan dua kali sehari.
+- **Sentuhan Jarak Jauh (X):** Memerlukan Kehendak sebanyak 80% atau lebih tinggi. Kebolehan ini membolehkan penuang jampi memberikan jampi dengan Jarak "Sentuhan," Jarak 30 kaki sebaliknya. Jampi dianggap satu Pangkat lebih tinggi berkenaan dengan penghafalan dan harus dicatat sebagai jarak jauh apabila dihafal. Sebagai contoh, Halimunan (Jarak Jauh) akan dikira sebagai jampi Pangkat 2.
 
 #### Pangkat 3:
 
-Untuk setiap perbelanjaan 3 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Bagi setiap perbelanjaan 3 Gulingan Pengalaman anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Tambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan:** Refleks Pertahanan memerlukan anda Tidak Terbeban (Kurang 'Benda' dibawa daripada STR), tidak memakai apa-apa yang lebih menyekat daripada perisai ringan. Sekali setiap pertempuran anda boleh melambung semula Gulungan Tangkisan atau Elak yang Gagal tanpa membelanjakan Mata Nasib. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
-- **Kekuatan Mental III:** Memerlukan Kekuatan Mental II dan Pengetahuan Arcane 100% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan tiga kali sehari.
+- **Peningkatan Ciri:** Tambah +1 kepada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan:** Refleks Pertahanan memerlukan anda Tidak Terbeban (membawa 'Benda' kurang daripada KEK), dan tidak memakai pakaian yang lebih ketat daripada perisai ringan. Sekali setiap pertempuran anda boleh mengguling semula gulingan Tangkis atau Mengelak yang Gagal tanpa membelanjakan Mata Nasib. Walau bagaimanapun, anda tidak boleh mengguling semula terhadap serangan yang sama lebih daripada sekali, dan tidak boleh menggabungkannya dengan Mata Nasib.
+- **Kekuatan Mental III:** Memerlukan Kekuatan Mental II dan Pengetahuan Arcane sebanyak 100% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan tiga kali sehari.
 
 #### Pangkat 4:
 
-Untuk setiap perbelanjaan 4 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Bagi setiap perbelanjaan 4 Gulingan Pengalaman anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Tambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Kekuatan Mental IV:** Memerlukan Kekuatan Mental III dan Pengetahuan Arcane 120% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan empat kali sehari.
+- **Peningkatan Ciri:** Tambah +1 kepada Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Kekuatan Mental IV:** Memerlukan Kekuatan Mental III dan Pengetahuan Arcane sebanyak 120% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan empat kali sehari.#### Pangkat 5:
 
-#### Pangkat 5:
+Bagi setiap perbelanjaan 5 Gulingan Pengalaman (Experience Rolls), anda boleh memperoleh salah satu daripada Keupayaan berikut (setiap satu hanya boleh diambil sekali):
 
-Untuk setiap perbelanjaan 5 Gulungan Pengalaman, anda boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+- **Peningkatan Ciri:** Tambah +1 kepada satu Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan. Seperti Refleks Pertahanan, namun anda kini boleh menggunakan Keupayaan ini dua kali dalam pertempuran yang sama. Walau bagaimanapun, anda tidak boleh mengguling semula terhadap serangan yang sama lebih daripada sekali, dan tidak boleh digabungkan dengan Mata Nasib.
+- **Kekuatan Mental V:** Memerlukan Kekuatan Mental IV dan Pengetahuan Arkaik 140% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan lima kali sehari.
 
-- **Peningkatan Ciri:** Tambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan. Seperti Refleks Pertahanan, walau bagaimanapun anda kini boleh menggunakan Kebolehan ini dua kali dalam pertempuran yang sama. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
-- **Kekuatan Mental V:** Memerlukan Kekuatan Mental IV dan Pengetahuan Arcane 140% atau lebih tinggi. Seperti Kekuatan Mental, tetapi boleh digunakan lima kali sehari.
+### Peralatan Permulaan Asas Mage
 
-### Peralatan Permulaan Asas Pengguna Sihir
+Setiap baris item dikira sebagai 1 'Benda' untuk tujuan Beban (Encumbrance) melainkan dinyatakan sebaliknya.
 
-Setiap baris item dikira sebagai 1 'Benda' untuk tujuan Beban kecuali dinyatakan sebaliknya.
-
-- Tongkat (dikira sebagai 2 Benda)
+- Kakitangan (dikira sebagai 2 Benda)
 - 3 dart (½ Benda setiap satu)
 - Pakaian biasa, tidak berhias, 0 Mata Perisai (0 Benda apabila dipakai, 1 Benda jika dibawa)
 - Buku mantera
 - Kantung komponen mantera
-- Beg galas (kapasiti 10 Benda); bekas air, ransum perjalanan satu minggu, beg tidur, beg kosong kecil\*, batu api dan bahan pemetik api\*\*, 10 lilin dua jam\*\*, 10 halaman kertas perkamen\*\*, pen bulu dan botol dakwat\*\* (6 benda terkandung)
-- Kantung pinggang dengan 3d6 keping emas
+- Beg galas (kapasiti 10 Benda); beg air, catuan perjalanan seminggu, beg tidur, guni kosong kecil\*, batu api dan bahan penyala\*\*, 10 lilin dua jam\*\*, 10 helai kertas perkamen\*\*, pen bulu dan botol dakwat\*\* (6 benda terkandung)
+- Kantung tali pinggang dengan 3d6 keping emas
 
 Jumlah ENC: 7 Benda
 
-_\* Kandungan dikira ke arah kandungan beg galas kerana isipadunya meningkat._
+_\* Kandungan dikira ke dalam kandungan beg galas kerana isipadunya bertambah._
 
 _\*\* Dikira sebagai ½ Benda._
 
-### Senarai Mantera Pengguna Sihir
+
+### Senarai Mantera Mage
 
 | Pangkat 0 | Pangkat 1 | Pangkat 2 | Pangkat 3 | Pangkat 4 | Pangkat 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -482,21 +479,21 @@ _\*\* Dikira sebagai ½ Benda._
 | [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
-| [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
-| [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
-| [Repair](0010_Spells.md?id=repair) | [Shield](0010_Spells.md?id=shield) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
-| [Tidy](0010_Spells.md?id=tidy) | [Sleep](0010_Spells.md?id=sleep) |
-| | [Web](0010_Spells.md?id=web) |
+| [Polish](0010_Spells.md?id=polish) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| [Preserve](0010_Spells.md?id=preserve) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
+| [Protection](0010_Spells.md?id=protection) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
+| [Read Magic](0010_Spells.md?id=read-magic) | [Shield](0010_Spells.md?id=shield) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
+| [Repair](0010_Spells.md?id=repair) | [Sleep](0010_Spells.md?id=sleep) |
+| [Tidy](0010_Spells.md?id=tidy) | [Web](0010_Spells.md?id=web) |
 | | [Spider Climb](0010_Spells.md?id=spider-climb) |
 
 _\(R\) menunjukkan mantera boleh balik._
 
----
-## Penyamun (Rogue)
 
-Penyamun adalah pakar dalam penipuan, mengkhusus dalam senyap (stealth), perangkap, membuka kunci, dan kemahiran lain yang sering dipandang curiga oleh masyarakat. Walau bagaimanapun, walaupun semua pencuri adalah penyamun, tidak semua penyamun adalah pencuri. Penyamun bertahan dengan kebijaksanaan mereka, menggunakan kemahiran penyusupan dan senyap mereka untuk kebaikan yang lebih besar. Walau bagaimanapun, kebaikan yang lebih besar selalunya bergantung pada sisi berlian mana seseorang itu berdiri.
+---
+## Rogue (Penyangak)
+
+Rogue adalah pakar dalam helah, mengkhusus dalam senyap (stealth), perangkap, membuka kunci, dan kemahiran lain yang sering dipandang curiga oleh masyarakat. Walau bagaimanapun, walaupun semua pencuri adalah rogue, tidak semua rogue adalah pencuri. Rogue bertahan dengan kepintaran mereka, menggunakan kemahiran penyusupan dan senyap mereka untuk kebaikan yang lebih besar. Walau bagaimanapun, kebaikan yang lebih besar sering bergantung pada bahagian mana intan itu anda berdiri.
 
 #### Spesies/Budaya Biasa
 
@@ -504,121 +501,117 @@ Mana-mana
 
 #### Ciri Penting
 
-DEX, INT, dan CHA
+KTG, KEC, dan KAR
 
-#### Keperluan Jajaran/Sumpah
+#### Keperluan Penjajaran/Sumpah
 
-- Jajaran: Penyamun tidak terhad oleh Jajaran dan tidak memerlukan Sumpah melainkan mereka adalah ahli guild pencuri.
-- Sumpah Guild Pencuri 30% ditambah dengan INT+POW watak
+- Penjajaran: Rogue tidak dihadkan oleh Penjajaran dan tidak memerlukan Sumpah melainkan mereka adalah ahli persatuan pencuri.
+- Sumpah Persatuan Pencuri 30% tambah KEC+KUR watak
 
-Lihat [Bab 4: Jajaran dan Keghairahan](0004_Alignment_and_Passions.md).
+Lihat [Bab 4: Penjajaran dan Keghairahan](0004_Alignment_and_Passions.md).
 
-Selain daripada mana-mana Jajaran dan Keghairahan bangsa/budaya, penyamun yang memilih untuk menyertai guild pencuri mesti bersumpah dengan Sumpah dan mengikuti semua peraturan biasa yang ditetapkan dalam [Menggunakan Jajaran dan Keghairahan](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Selain itu, mereka mesti mematuhi ketegasan berikut: menunjukkan kesetiaan kepada ahli lain, mematuhi semua peraturan guild, bertindak demi kepentingan terbaik guild (mengutamakan guild daripada kepentingan peribadi), menjaga rahsia guild dengan selamat, membayar yuran guild, dan membayar bahagian daripada mana-mana kerja yang 'disahkan' oleh guild.
+Selain daripada mana-mana Penjajaran/Keghairahan kaum/budaya, rogue yang memilih untuk menyertai persatuan pencuri mesti mengangkat Sumpah dan mengikuti semua peraturan biasa yang ditetapkan dalam [Menggunakan Penjajaran dan Keghairahan](0004_Alignment_and_Passions.md?id=using-alignment-and-passions). Selain itu, mereka mesti mematuhi ketetapan berikut: menunjukkan kesetiaan kepada ahli lain, mematuhi semua peraturan persatuan, bertindak demi kepentingan terbaik persatuan (meletakkan persatuan sebelum kepentingan peribadi), menyimpan rahsia persatuan dengan selamat, membayar yuran persatuan, dan membayar bahagian daripada mana-mana kerja yang 'dibenarkan' oleh persatuan.
 
-Yuran berbeza mengikut lokasi dan saiz guild, tetapi sekitar 100 emas setahun adalah standard. Sebagai tambahan kepada yuran tahunan, ahli dikehendaki membayar bahagian daripada mana-mana kerja di mana guild membantu dalam bentuk kenalan, petua, peta, maklumat umum, dan sebagainya. Jumlah khusus bahagian tersebut harus ditentukan berdasarkan kes demi kes, bergantung pada bantuan yang diberikan, tetapi purata 20%, diubah suai ke atas atau ke bawah adalah kira-kira tepat. Sebagai pertukaran, guild menyediakan tempat perlindungan sementara kepada ahli dan sekutu mereka, serta sebarang perkhidmatan lain yang dianggap sesuai oleh Games Master. Pagar (fences) tersedia untuk membantu memindahkan barangan curi, dan melalui kenalan ini, seorang pencuri boleh dijangka mendapat kira-kira ¼ nilai jualan item tersebut. Kebanyakan guild pencuri mempunyai kehadiran di kebanyakan bandar utama dan juga beberapa pekan besar.
+Yuran berbeza mengikut lokasi dan saiz persatuan, tetapi sekitar 100 emas setahun adalah standard. Sebagai tambahan kepada yuran tahunan, ahli dikehendaki membayar bahagian daripada mana-mana kerja yang dibantu oleh persatuan dalam bentuk kenalan, petunjuk, peta, maklumat umum, dan sebagainya. Jumlah khusus bahagian tersebut harus ditentukan berdasarkan kes demi kes, bergantung kepada bantuan yang diberikan, tetapi purata 20%, diubah suai ke atas atau ke bawah adalah kira-kira tepat. Sebagai pertukaran, persatuan menyediakan tempat perlindungan sementara kepada ahli dan sekutu mereka, serta apa-apa perkhidmatan lain yang dianggap sesuai oleh Games Master. Pagar (fences) tersedia untuk membantu memindahkan barang curian, dan melalui kenalan ini, seorang pencuri boleh dijangka mendapat kira-kira ¼ daripada nilai jualan item tersebut. Kebanyakan persatuan pencuri mempunyai kehadiran di kebanyakan bandar besar dan malah beberapa pekan besar.
 
-Seorang penyamun boleh memilih untuk menyertai guild pencuri selepas penciptaan watak jika Games Master membenarkan. Walaupun menyertai guild pencuri semasa penciptaan watak tidak membebankan watak, menyertai kemudian menelan belanja 100 Emas bagi setiap Pangkat semasa, dan mengambil masa 1 bulan latihan dan permulaan. Selepas masa yang diperuntukkan, watak tersebut mengambil gelaran guild pencuri yang sesuai dengan Pangkat mereka dan menambah Sumpah Guild Pencuri pada 30% ditambah POW+INT.
+Seorang rogue boleh memilih untuk menyertai persatuan pencuri selepas penciptaan watak jika Games Master membenarkan. Walaupun menyertai persatuan pencuri semasa penciptaan watak tidak membebankan watak, menyertai kemudian menelan belanja 100 Emas setiap Pangkat semasa, dan mengambil masa 1 bulan latihan dan permulaan. Selepas masa yang diperuntukkan, watak tersebut mengambil gelaran persatuan pencuri yang sesuai dengan Pangkat mereka dan menambah Sumpah Persatuan Pencuri pada 30% tambah KUR+KEC.
 
 #### Kemahiran
 
-Disebabkan sifat mereka yang pelbagai, penyamun mempunyai lebih banyak pilihan kemahiran daripada peruntukan standard. Walau bagaimanapun, mereka tidak menerima sebarang Mata Kemahiran tambahan.
+Oleh kerana sifat mereka yang pelbagai, rogue mempunyai lebih banyak pilihan kemahiran daripada peruntukan standard. Walau bagaimanapun, mereka tidak menerima sebarang Mata Kemahiran tambahan.
 
-- **Kemahiran Standard:** Atletik, Kemahiran Tempur (Penyamun), Tipu Daya, Elak, Wawasan, Persepsi, Senyap (Stealth)
-- **Kemahiran Profesional:** Seorang penyamun secara automatik menerima Membuka Kunci dan Mekanisme, ditambah dua kemahiran tambahan daripada yang berikut: Akrobatik, Berlakon, Perdagangan, Penyamaran, Intimidasi, Rayuan, Kelincahan, atau Pengetahuan Jalanan. Semasa penciptaan watak, ahli Guild Pencuri juga menerima Bahasa (Slanga Pencuri) pada +40. Jika mereka mengambilnya kemudian, mereka tidak menerima bonus +40.
+- **Kemahiran Standard:** Olahraga, Kemahiran Tempur (Rogue), Tipu Daya, Mengelak (Evade), Wawasan, Persepsi, Senyap (Stealth)
+- **Kemahiran Profesional:** Seorang rogue secara automatik menerima Membuka Kunci dan Mekanisme, ditambah dua kemahiran tambahan daripada yang berikut: Akrobatik, Lakonan, Perdagangan, Menyamar, Menakut-nakutkan, Godaan, Ketangkasan Tangan, atau Pengetahuan Jalanan. Semasa penciptaan watak, ahli Persatuan Pencuri juga menerima Bahasa (Bahasa Pencuri) pada +40. Jika mereka mengambilnya kemudian, mereka tidak menerima bonus +40 tersebut.
 
-#### Kecekapan Perisai dan Senjata Penyamun
+#### Kemahiran Perisai dan Senjata Rogue
 
-Penyamun cekap dengan semua jenis perisai (ringan dan berat), dan dengan semua perisai tangan (kecuali perisai menara). Walau bagaimanapun, mereka mengalami penalti kepada banyak Kebolehan penyamun apabila memakai perisai berat atau apabila mereka terbeban. Kemahiran Tempur mereka merangkumi penggunaan semua senjata asas, ditambah busur silang tangan, pedang panjang, rapier, dan pedang pendek.
+Rogue mahir dengan semua jenis perisai (ringan dan berat), dan dengan semua perisai badan (kecuali perisai menara). Walau bagaimanapun, mereka mengalami penalti kepada banyak Keupayaan rogue apabila memakai perisai berat atau apabila mereka terbeban. Kemahiran Tempur mereka merangkumi penggunaan semua senjata asas, ditambah busur silang tangan, pedang panjang, rapier, dan pedang pendek.
 
 ### Struktur Pangkat
 
-Semua penyamun dinilai mengikut Pangkat, iaitu penilaian kuasa dan kemahiran. Anda boleh memilih sama ada gelaran penyamun atau pencuri, bergantung pada mana yang lebih relevan dengan hubungan anda dengan guild pencuri. Apabila tahap penguasaan tertentu dicapai dalam bilangan terhad kemahiran Kelas, penyamun boleh meningkatkan Pangkat mereka, kerana mereka telah menunjukkan tahap kebolehan yang diperlukan. Apabila tahap kebolehan ini dicapai, satu Mata Nasib tambahan diperoleh dan Kebolehan baharu boleh diperolehi. Maklumat ini terdapat pada jadual berikut di bawah Peningkatan. Dengan mengandaikan anda memenuhi prasyarat, watak anda bermula sebagai Pangkat 1 Scoundrel atau Burglar dengan Kebolehan yang sewajarnya dinyatakan di bawah; jika tidak, anda bermula sebagai Pangkat 0 Scamp atau Cutpurse dengan tiada Kebolehan lain.
+Semua rogue dinilai mengikut Pangkat, yang merupakan penarafan kuasa dan kemahiran. Anda boleh memilih sama ada gelaran rogue atau pencuri, bergantung kepada mana yang lebih relevan dengan hubungan anda dengan persatuan pencuri. Apabila tahap penguasaan tertentu dicapai dalam bilangan terhad kemahiran Kelas, rogue boleh meningkatkan Pangkat mereka, kerana mereka akan menunjukkan tahap keupayaan yang diperlukan. Apabila tahap keupayaan ini dicapai, satu Mata Nasib tambahan diperolehi dan Keupayaan baharu boleh diperolehi. Maklumat ini terdapat pada jadual berikut di bawah Kemajuan. Dengan andaian anda memenuhi prasyarat, watak anda bermula sebagai Pangkat 1 Scoundrel (Penjahat) atau Burglar (Pemecah Rumah) dengan Keupayaan yang sesuai yang dinyatakan di bawah; jika tidak, anda bermula sebagai Pangkat 0 Scamp (Budak Nakal) atau Cutpurse (Pencopet) tanpa Keupayaan lain.
 
-##### Jadual Pangkat Penyamun
+##### Jadual Pangkat Rogue
 
-| Pangkat | Gelaran (Penyamun) | Gelaran (Pencuri) | Peningkatan | Mata Hit | Mata Nasib | Mata Tindakan |
+| Pangkat | Gelaran (Rogue) | Gelaran (Pencuri) | Kemajuan | Mata Hit | Mata Nasib | Mata Tindakan |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
 | **0** | Scamp | Cutpurse | - | 0 | +0 | +0 |
 | **1** | Scoundrel | Burglar | Mana-mana 5 kemahiran Kelas pada 40% | 0 | +0 | +0 |
-| **2** | Penyamun | Pencuri | Mana-mana 5 kemahiran Kelas pada 70% | +1 | +1 | +1 |
-| **3** | Penyamun Induk | Pencuri Induk | Mana-mana 4 kemahiran Kelas pada 90% | +1 | +2 | +1 |
-| **4** | Penyamun Agung Induk | Pencuri Agung Induk | Mana-mana 3 kemahiran Kelas pada 110% | +2 | +3 | +2 |
-| **5** | Penyamun Legenda | Pencuri Legenda | Mana-mana 2 kemahiran Kelas pada 130% | +2 | +4 | +2 |
+| **2** | Rogue | Thief | Mana-mana 5 kemahiran Kelas pada 70% | +1 | +1 | +1 |
+| **3** | Master Rogue | Master Thief | Mana-mana 4 kemahiran Kelas pada 90% | +1 | +2 | +1 |
+| **4** | Grand Master Rogue | Grand Master Thief | Mana-mana 3 kemahiran Kelas pada 110% | +2 | +3 | +2 |
+| **5** | Legendary Rogue | Legendary Thief | Mana-mana 2 kemahiran Kelas pada 130% | +2 | +4 | +2 |
 
-#### Kebolehan Permulaan
+#### Keupayaan Permulaan
 
-Penyamun mengetahui semua Kebolehan berikut pada Pangkat 1. Selain itu, semasa penciptaan watak, anda boleh memilih satu Kebolehan Pangkat 1 secara percuma dengan mengandaikan anda memenuhi syaratnya.
+Rogue mengetahui semua Keupayaan berikut pada Pangkat 1. Selain itu, semasa penciptaan watak, anda boleh memilih satu Keupayaan Pangkat 1 secara percuma dengan andaian anda memenuhi keperluannya.
 
-- **Memanjat Dinding:** Anda sangat mahir memanjat apa sahaja sehingga ke permukaan yang curam. Jika anda Tidak Terbeban (Kurang 'Benda' dibawa daripada STR), dan memakai apa-apa yang tidak lebih menyekat daripada perisai ringan, anda boleh mengabaikan 1 Gred Kesukaran kepada lambungan Atletik anda apabila melakukan sebarang percubaan memanjat. Selain itu, Penalti Perisai kepada Pergerakan Asas semasa memanjat boleh diabaikan.
-- **Bersembunyi dalam Bayang-bayang:** Anda pakar dalam senyap (stealth) dan telah menyempurnakan seni bersembunyi dalam bayang-bayang. Jika anda boleh meletakkan diri anda di kawasan yang diselubungi bayang-bayang, semua lambungan Persepsi untuk mengesan anda adalah 1 Gred Kesukaran lebih sukar.
-- **Serangan Hendap (Sneak Attack):** Penyamun boleh cuba meneutralkan mangsa dari kedudukan yang berfaedah jika bersenjatakan senjata jarak dekat kecil atau sederhana atau menggunakan Senjata Jarak Jauh dalam jarak 30 kaki dari mangsa. Sasaran mestilah secara amnya berbentuk humanoid dan mempunyai organ penting. Ia tidak mempunyai kesan ke atas naga atau jisim gelatin, sebagai contoh. Kerana penyerang biasanya mampu menyerang tanpa halangan, mereka memperoleh Pilih Lokasi sebagai Kesan Khas bonus jika berjaya. Walau bagaimanapun, lokasi yang dipilih mestilah kepala, dada, atau abdomen sasaran untuk memperoleh mana-mana manfaat tambahan berikut.
-  - Penyerang boleh mengabaikan sebarang Pengubah Kerosakan negatif yang biasanya terpakai, Kesan Khas Pintasan Perisai dan Maksimumkan Kerosakan tidak memerlukan Kejayaan Kritikal.
-  - Tidak perlu bagi penyamun untuk mendapatkan kejutan ke atas mangsa; walau bagaimanapun, serangan mesti dibuat dari luar medan penglihatan mangsa. Oleh itu, ramai penyamun menunggu lawan terlibat dengan sekutu dan kemudian mengambil kesempatan daripada gangguan itu untuk menyerang dari belakang. Menangkis atau Mengelak Serangan Hendap pertama-tama memerlukan lambungan Persepsi, lambungan Persepsi Sukar jika mangsa sudah terganggu. Jika berjaya, mempertahankan diri daripada serangan yang datang dari sisi adalah Amat Sukar, manakala mempertahankan diri daripada serangan dari belakang adalah tugas yang sangat berat! Serangan Hendap hanya boleh digunakan pada sasaran yang sama lebih daripada sekali jika mereka kekal terganggu atau tidak menyedari penyerang mereka.
-- **Penipuan:** Kerana penyamun adalah pakar dalam penyusupan, kemahiran Membuka Kunci, Mekanisme, dan Kelincahan adalah satu Gred Kesukaran lebih mudah.
+- **Memanjat Dinding:** Anda sangat mahir memanjat apa sahaja sehingga ke permukaan curam. Jika anda Tidak Terbeban (Kurang 'Benda' dibawa berbanding KEK), dan tidak memakai apa-apa yang lebih menyekat daripada perisai ringan, anda boleh mengabaikan 1 Gred Kesukaran kepada gulingan Olahraga anda apabila melakukan sebarang percubaan memanjat. Selain itu, Penalti Perisai kepada Pergerakan Asas semasa memanjat boleh diabaikan.
+- **Bersembunyi dalam Bayang-bayang:** Anda pakar dalam senyap dan telah menyempurnakan seni bersembunyi dalam bayang-bayang. Jika anda boleh meletakkan diri anda di kawasan yang diselubungi bayang-bayang, semua gulingan Persepsi untuk mengesan anda adalah 1 Gred Kesukaran lebih sukar.
+- **Serangan Hendap (Sneak Attack):** Rogue boleh mencuba untuk meneutralkan mangsa daripada kedudukan yang menguntungkan jika bersenjatakan senjata jarak dekat kecil atau sederhana atau menggunakan Senjata Jarak Jauh dalam lingkungan 30 kaki dari mangsa. Sasaran mestilah berbentuk humanoid secara umum dan mempunyai organ penting. Ia tidak memberi kesan kepada naga atau jisim gelatin, sebagai contoh. Kerana penyerang biasanya dapat menyerang tanpa halangan, mereka mendapat Pilih Lokasi sebagai Kesan Khas bonus jika berjaya. Walau bagaimanapun, lokasi yang dipilih mestilah kepala, dada, atau perut sasaran untuk mendapatkan mana-mana faedah tambahan berikut.
+  - Penyerang boleh mengabaikan sebarang Pengubahsuai Kerosakan negatif yang biasanya dikenakan, Kesan Khas Pintas Perisai dan Maksimumkan Kerosakan tidak memerlukan Kejayaan Kritikal.
+  - Tidak perlu bagi rogue untuk mendapat kejutan ke atas mangsa; walau bagaimanapun, serangan mesti dibuat dari luar medan penglihatan mangsa. Oleh itu, ramai rogue menunggu lawan terlibat dengan sekutu dan kemudian mengambil kesempatan daripada gangguan itu untuk menyerang dari belakang. Menangkis atau Mengelak (Evade) Serangan Hendap terlebih dahulu memerlukan gulingan Persepsi, gulingan Persepsi Sukar jika mangsa sudah terganggu. Jika berjaya, bertahan terhadap serangan yang datang dari sisi adalah Amat Sukar, manakala bertahan terhadap serangan dari belakang adalah tugas yang sangat hebat! Serangan Hendap hanya boleh digunakan pada sasaran yang sama lebih daripada sekali jika mereka kekal terganggu atau tidak menyedari penyerang mereka.
+- **Tipu Daya (Subterfuge):** Kerana rogue adalah pakar penyusupan, kemahiran Membuka Kunci, Mekanisme, dan Ketangkasan Tangan adalah satu Gred Kesukaran lebih mudah.
 
-#### Kebolehan Berpangkat
+#### Keupayaan Berpangkat
 
-Seperti namanya, Kebolehan Berpangkat hanya boleh dipilih oleh watak pada Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi. Anda tidak disekat daripada Kebolehan Berpangkat terdahulu apabila Pangkat baharu dicapai. Jika anda gagal mengambil Kebolehan Pangkat 2 sebagai contoh, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudiannya. Tidak lebih daripada satu Kebolehan Berpangkat boleh diambil setiap sesi.
+Seperti namanya, Keupayaan Berpangkat hanya boleh dipilih oleh watak Pangkat tertentu atau lebih tinggi. Kebanyakannya mempunyai Kemahiran Prasyarat yang mesti berada pada tahap kemahiran tertentu atau lebih tinggi. Anda tidak disekat daripada Keupayaan Berpangkat awal apabila Pangkat baharu dicapai. Jika anda gagal mengambil Keupayaan Pangkat 2 sebagai contoh, anda boleh kembali dan mengambilnya pada Pangkat 3 atau kemudian. Tidak lebih daripada satu Keupayaan Berpangkat boleh diambil setiap sesi.
 
 #### Pangkat 1:
 
-Untuk setiap perbelanjaan 1 Gulungan Pengalaman, Penyamun boleh memperoleh satu daripada Kebolehan berikut (setiap satu hanya boleh diambil sekali):
+Bagi setiap perbelanjaan 1 Gulingan Pengalaman, Rogue boleh memperoleh salah satu daripada Keupayaan berikut (setiap satu hanya boleh diambil sekali):
 
-- **Lincah (Agile):** Memerlukan Elak atau Akrobatik pada 60% atau lebih tinggi. Dengan mengandaikan anda Tidak Terbeban (Kurang 'Benda' dibawa daripada STR) dan memakai apa-apa yang tidak lebih menyekat daripada perisai ringan, anda boleh menggunakan refleks hebat anda dalam pertempuran. Apabila mengira Inisiatif, anda boleh menambah +4 kepada jumlah tersebut.
-- **Artful Dodger:** Memerlukan Elak 50% atau lebih tinggi. Bakat ini memerlukan anda Tidak Terbeban (Kurang 'Benda' dibawa daripada STR) dan memakai apa-apa yang tidak lebih menyekat daripada perisai ringan. Anda mempunyai refleks yang pantas dan boleh menggunakan kemahiran Elak untuk mengelak serangan jarak dekat tanpa jatuh tertiarap. Terhadap serangan jarak jauh, anda hanya berakhir tertiarap jika anda Gagal dalam lambungan tersebut.
-- **Pendengaran Hebat:** Memerlukan Persepsi 50% atau lebih tinggi. Pendengaran tajam anda menjadikan semua lambungan Persepsi yang berkaitan dengan pendengaran satu Gred Kesukaran lebih mudah.
-- **Mata Tajam:** Memerlukan Persepsi 50% atau lebih tinggi. Penglihatan tajam anda menjadikan semua lambungan Persepsi yang berkaitan dengan penglihatan satu Gred Kesukaran lebih mudah.
-- **Skirmishing:** Memerlukan Atletik dan Kemahiran Tempur 50% atau lebih tinggi. Kebolehan ini membenarkan pelancaran serangan jarak jauh dalam Pusingan yang sama anda berlari (tetapi bukan semasa memecut). Walau bagaimanapun, peratusan serangan penyerang tidak boleh melebihi kemahiran Atletik beliau.
-- **Swashbuckling:** Memerlukan Kemahiran Tempur 50% atau lebih tinggi. Dengan mengandaikan watak itu Tidak Terbeban (Kurang 'Benda' dibawa daripada STR) dan memakai apa-apa yang tidak lebih menyekat daripada perisai ringan, mereka boleh terlibat dalam serangan dan elakan yang dibuat semasa melompat atau berayun masuk (atau keluar) dari pertempuran, mengabaikan sebarang had kemahiran yang diletakkan ke atasnya oleh kemahiran Atletik.
-- **Pertahanan Tanpa Perisai:** Memerlukan Kebolehan Artful Dodger dan sama ada Elak atau Akrobatik pada 50% atau lebih tinggi. Watak anda sangat sukar untuk dipukul apabila tidak terhalang oleh perisai. Apabila Tidak Terbeban (Kurang 'Benda' dibawa daripada STR) dan memakai TIADA perisai, lambungan Elak anda adalah satu Gred Kesukaran lebih mudah.
-- **Vaulting** (memerlukan Akrobatik): Memerlukan Akrobatik pada 50% atau lebih tinggi. Apabila Tidak Terbeban (Kurang 'Benda' dibawa daripada STR), anda boleh menggunakan kemahiran Akrobatik anda untuk melompat dengan galah mengikut peraturan berikut. Menggunakan galah sekurang-kurangnya sepanjang tongkat suku dan bergerak sekurang-kurangnya pada kelajuan berlari atau memecut, anda boleh melompat melepasi halangan atau naik ke lokasi yang di luar jangkauan. Ini memerlukan lambungan Akrobatik Mudah yang berjaya, dan jika berjaya, akan membolehkan anda melompat secara mendatar sehingga dua kali ketinggian anda sendiri +1d4+6 kaki. Lompatan menegak yang berjaya akan membolehkan anda mencapai ketinggian yang sama dengan panjang tongkat suku (6 hingga 9 kaki); walau bagaimanapun, melompat secara menegak menyebabkan anda berakhir tertiarap. Watak tanpa Kebolehan ini yang memiliki kemahiran Akrobatik boleh mencuba tindakan ini pada kesukaran biasa. Pada Kejayaan Kritikal dengan lompatan mendatar, jarak yang dilompat boleh ditingkatkan sebanyak separuh lagi. Kejayaan Kritikal semasa melompat secara menegak membolehkan anda mendarat pada kaki anda.
-- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubah Kerosakan dengan senjata ini berdasarkan STR+DEX dan bukannya STR+SIZ, mana-mana yang menghasilkan keputusan yang lebih baik. Pengubah Kerosakan tidak boleh melebihi dua kali dadu kerosakan biasa senjata. Sebagai contoh, keris dengan kerosakan 1d4+1, akan dihadkan kepada Pengubah Kerosakan +1d4, menjadikannya 1d4+1+1d4. Kebolehan ini meliputi belantan, keris, garrote, pisau, pedang pendek, main gauche, dan rapier. Serta serangan tidak bersenjata. Dart, lastik, busur pendek, dan lembing juga termasuk dalam kategori ini.
+- **Lincah:** Memerlukan Mengelak (Evade) atau Akrobatik pada 60% atau lebih tinggi. Dengan andaian anda Tidak Terbeban (Kurang 'Benda' dibawa berbanding KEK) dan tidak memakai apa-apa yang lebih menyekat daripada perisai ringan, anda boleh menggunakan refleks hebat anda dalam pertempuran. Apabila mengira Inisiatif, anda boleh menambah +4 kepada jumlahnya.
+- **Penyelamat Seni:** Memerlukan Mengelak (Evade) 50% atau lebih tinggi. Bakat ini memerlukan anda Tidak Terbeban (Kurang 'Benda' dibawa berbanding KEK) dan memakai apa-apa yang tidak lebih menyekat daripada perisai ringan. Anda mempunyai refleks yang pantas dan boleh menggunakan kemahiran Mengelak (Evade) untuk mengelak serangan jarak dekat tanpa jatuh tertiarap. Terhadap serangan jarak jauh, anda hanya berakhir tertiarap jika anda Gagal gulingan tersebut.
+- **Pendengaran Hebat:** Memerlukan Persepsi 50% atau lebih tinggi. Pendengaran anda yang tajam menjadikan semua gulingan Persepsi yang berkaitan dengan pendengaran satu Gred Kesukaran lebih mudah.
+- **Mata Tajam:** Memerlukan Persepsi 50% atau lebih tinggi. Penglihatan anda yang tajam menjadikan semua gulingan Persepsi yang berkaitan dengan penglihatan satu Gred Kesukaran lebih mudah.
+- **Skirmishing:** Memerlukan Olahraga dan Kemahiran Tempur 50% atau lebih tinggi. Keupayaan ini membolehkan melancarkan serangan jarak jauh dalam Pusingan yang sama anda berlari (tetapi tidak semasa memecut). Walau bagaimanapun, peratusan serangan penyerang tidak boleh melebihi kemahiran Olahraga beliau.
+- **Swashbuckling:** Memerlukan Kemahiran Tempur 50% atau lebih tinggi. Dengan andaian watak Tidak Terbeban (Kurang 'Benda' dibawa berbanding KEK) dan memakai apa-apa yang tidak lebih menyekat daripada perisai ringan, mereka boleh terlibat dalam serangan dan mengelak yang dibuat semasa melompat atau berayun ke dalam (atau keluar dari) pertempuran, mengabaikan sebarang had kemahiran yang diletakkan ke atasnya oleh kemahiran Olahraga.
+- **Pertahanan Tanpa Perisai:** Memerlukan Keupayaan Penyelamat Seni dan sama ada Mengelak (Evade) atau Akrobatik pada 50% atau lebih tinggi. Watak anda sangat sukar untuk dipukul apabila tidak terhalang oleh perisai. Apabila Tidak Terbeban (Kurang 'Benda' dibawa berbanding KEK) dan memakai TIADA perisai, gulingan Mengelak (Evade) anda adalah satu Gred Kesukaran lebih mudah.
+- **Vaulting (memerlukan Akrobatik):** Memerlukan Akrobatik pada 50% atau lebih tinggi. Apabila Tidak Terbeban (Kurang 'Benda' dibawa berbanding KEK), anda boleh menggunakan kemahiran Akrobatik anda untuk melompat galah mengikut peraturan berikut. Menggunakan galah sekurang-kurangnya sepanjang kakitangan dan bergerak sekurang-kurangnya pada kelajuan berlari atau memecut, anda boleh melompat melepasi halangan atau naik ke lokasi yang di luar jangkauan. Ini memerlukan gulingan Akrobatik Mudah yang berjaya, dan jika berjaya, akan membolehkan anda melompat secara mendatar sehingga dua kali ganda ketinggian anda sendiri +1d4+6 kaki. Lompatan menegak yang berjaya akan membolehkan anda mencapai ketinggian yang sama dengan panjang kakitangan (6 hingga 9 kaki); walau bagaimanapun, melompat secara menegak menyebabkan anda berakhir dalam keadaan tertiarap. Watak tanpa Keupayaan ini yang mempunyai kemahiran Akrobatik boleh mencuba aksi ini pada kesukaran biasa. Pada Kejayaan Kritikal dengan lompatan mendatar, jarak lompatan boleh ditingkatkan sebanyak separuh lagi. Kejayaan Kritikal semasa melompat secara menegak membolehkan anda mendarat dengan kaki anda.
+- **Ketepatan Senjata:** Anda mahir menggunakan senjata kecil yang boleh disembunyikan yang tidak memerlukan banyak kekuatan, secara halus dan berkesan. Ini membolehkan anda mengira Pengubahsuai Kerosakan dengan senjata ini berdasarkan KEK+KTG dan bukannya KEK+SAI, mana-mana yang menjana hasil yang lebih baik. Pengubahsuai Kerosakan tidak boleh melebihi dua kali ganda dadu kerosakan biasa senjata. Sebagai contoh, keris dengan kerosakan 1d4+1, akan dihadkan kepada Pengubahsuai Kerosakan sebanyak +1d4, menjadikannya 1d4+1+1d4. Keupayaan ini meliputi belantan, keris, garrote, pisau, pedang pendek, main gauche, dan rapier. Begitu juga serangan tanpa senjata. Dart, lastik, busur pendek, dan lembing juga termasuk dalam kategori ini.
 
 #### Pangkat 2:
 
-Kebolehan Serangan Hendap penyamun kini melakukan +1d2 kerosakan dengan senjata jarak dekat, tiada kerosakan tambahan dengan senjata jarak jauh. Selain itu, mereka boleh mengambil Kebolehan berikut dengan kos 2 gulungan EXP setiap satu (setiap satu hanya boleh diambil sekali):
+Keupayaan Serangan Hendap (Sneak Attack) rogue kini melakukan +1d2 kerosakan dengan senjata jarak dekat, tiada kerosakan tambahan dengan senjata jarak jauh. Selain itu, mereka boleh mengambil Keupayaan berikut dengan kos 2 gulingan EXP setiap satu (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan:** Refleks Pertahanan memerlukan anda Tidak Terbeban (Kurang 'Benda' dibawa daripada STR), tidak memakai apa-apa yang lebih menyekat daripada perisai ringan. Sekali setiap pertempuran Anda boleh melambung semula Gulungan Tangkisan atau Elak yang Gagal tanpa membelanjakan Mata Nasib. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
-- **Membaca Bahasa:** Memerlukan Sumpah pada 70% atau lebih tinggi dan satu bulan latihan dengan guild pencuri. Hanya Ahli guild pencuri boleh mengambil Kebolehan ini. Anda telah belajar membaca sebarang bahasa, walaupun yang biasanya tidak anda ketahui. Ini bukan pemahaman lengkap tentang semua bahasa, tetapi peluang untuk mengambil satu perkataan di sini atau satu frasa di sana dan mencantumkannya. Kegunaan utama kemahiran ini adalah untuk memahami nota, arahan, dan peta harta karun, tetapi boleh digunakan untuk mencuba mentafsir sebarang bahasa yang tidak diketahui sebaliknya. Membaca Bahasa ialah Kemahiran Profesional dan bermula pada Tahap Asas INTx2. Games Master harus melambung pemeriksaan kemahiran ini, merahsiakan keputusan, kerana anda tidak akan tahu sama ada anda telah berjaya menterjemah teks itu, atau hanya fikir anda melakukannya. Kejayaan akan mendedahkan beberapa maklumat berguna bersamaan dengan (INT/4) manakala Kejayaan Kritikal akan mendedahkan beberapa maklumat bersamaan dengan INT/2. Pada lambungan Gagal, anda tidak mempelajari sebarang maklumat langsung. Akhir sekali, pada Fumble, anda hanya percaya bahawa anda mengetahui subjek yang betul dan Games Master boleh memberi anda maklumat palsu.
+- **Peningkatan Ciri:** Anda boleh menambah +1 kepada satu Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan:** Refleks Pertahanan memerlukan anda Tidak Terbeban (Kurang 'Benda' dibawa berbanding KEK), memakai apa-apa yang tidak lebih menyekat daripada perisai ringan. Sekali setiap pertempuran Anda boleh mengguling semula gulingan Menangkis atau Mengelak (Evade) yang Gagal tanpa membelanjakan Mata Nasib. Walau bagaimanapun, anda tidak boleh mengguling semula terhadap serangan yang sama lebih daripada sekali, dan tidak boleh digabungkan dengan Mata Nasib.
+- **Membaca Bahasa:** Memerlukan Sumpah pada 70% atau lebih tinggi dan satu bulan latihan dengan persatuan pencuri. Hanya Ahli persatuan pencuri boleh mengambil Keupayaan ini. Anda telah belajar membaca mana-mana bahasa, walaupun yang biasanya tidak anda ketahui. Ini bukan pemahaman lengkap semua bahasa, tetapi peluang untuk mengambil satu perkataan di sini atau satu frasa di sana dan mencantumkannya. Kegunaan utama kemahiran ini ialah pemahaman nota, arahan, dan peta harta karun, tetapi boleh digunakan untuk mencuba mentafsir mana-mana bahasa yang tidak diketahui. Membaca Bahasa ialah Kemahiran Profesional dan bermula pada Tahap Asas KECx2. Games Master harus menggulingkan semakan kemahiran ini, merahsiakan keputusan, kerana anda tidak akan tahu sama ada anda telah berjaya menterjemah teks tersebut, atau hanya berfikir anda telah melakukannya. Kejayaan akan mendedahkan beberapa maklumat berguna yang sama dengan (KEC/4) anda manakala Kejayaan Kritikal akan mendedahkan beberapa maklumat yang sama dengan KEC/2 anda. Pada gulingan Gagal, anda tidak mengetahui sebarang maklumat langsung. Akhir sekali, pada Gulingan Gagal (Fumble), anda hanya percaya bahawa anda mengetahui perkara yang betul dan Games Master boleh memberikan maklumat palsu kepada anda.#### Pangkat 3:
 
-#### Pangkat 3:
+Kebolehan Serangan Hendap (Sneak Attack) perompak kini memberikan kerosakan +1d4 dengan senjata jarak dekat, dan tambahan kerosakan +1d2 dengan senjata jarak jauh. Selain itu, mereka boleh mengambil Kebolehan berikut dengan kos 3 balingan EXP setiap satu (setiap satu hanya boleh diambil sekali):
 
-Kebolehan Serangan Hendap penyamun kini melakukan +1d4 kerosakan dengan senjata jarak dekat, +1d2 kerosakan tambahan dengan jarak jauh. Selain itu, mereka boleh mengambil Kebolehan berikut dengan kos 3 gulungan EXP setiap satu (setiap satu hanya boleh diambil sekali):
-
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan. Seperti Refleks Pertahanan, walau bagaimanapun anda kini boleh menggunakan Kebolehan ini dua kali dalam pertempuran yang sama. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
-- **Gunakan Gulungan Arcane:** Memerlukan Sumpah pada 90% atau lebih tinggi dan satu bulan latihan di guild pencuri. Hanya Ahli guild pencuri boleh mengambil Kebolehan ini. Kebolehan ini membolehkan penyamun merapalkan mantera daripada mana-mana gulungan pengguna sihir tanpa perlu merapalkan Read Magic padanya terlebih dahulu. Peluang ini bersamaan dengan INT x5%. Gagal dalam lambungan ini secara automatik mengakibatkan Fumble kerana kekurangan latihan dan pemahaman anda tentang seni magis. Fumble membalikkan kesan mantera atau menyebabkannya berlaku kepada pembaca, mana-mana yang paling memudaratkan seperti yang ditentukan oleh Games Master.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada mana-mana Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan II:** Memerlukan Refleks Pertahanan. Seperti Refleks Pertahanan, namun anda kini boleh menggunakan Kebolehan ini dua kali dalam pertempuran yang sama. Walau bagaimanapun, anda tidak boleh membuat balingan semula terhadap serangan yang sama lebih daripada sekali, atau menggabungkannya dengan Mata Nasib (Luck Point).
+- **Guna Skrol Arkana:** Memerlukan Sumpah pada 90% atau lebih tinggi dan latihan selama sebulan di persatuan pencuri. Hanya Ahli persatuan pencuri yang boleh mengambil Kebolehan ini. Kebolehan ini membolehkan perompak merapal mantera daripada mana-mana skrol pengguna sihir tanpa perlu merapal Baca Sihir (Read Magic) terlebih dahulu ke atasnya. Peluang ini adalah bersamaan dengan KEC anda x5%. Kegagalan dalam balingan ini secara automatik mengakibatkan Rabaan (Fumble) disebabkan oleh kekurangan latihan dan pemahaman anda tentang seni magis. Rabaan akan membalikkan kesan mantera atau mengaktifkannya ke atas pembaca, mana-mana yang paling memudaratkan mengikut budi bicara Pengurus Permainan (Games Master).
 
 #### Pangkat 4:
 
-Kebolehan Serangan Hendap penyamun kini melakukan +1d6 kerosakan dengan senjata jarak dekat, +1d4 kerosakan dengan jarak jauh. Selain itu, mereka boleh mengambil Kebolehan berikut dengan kos 4 gulungan EXP setiap satu (setiap satu hanya boleh diambil sekali):
+Kebolehan Serangan Hendap perompak kini memberikan kerosakan +1d6 dengan senjata jarak dekat, kerosakan +1d4 dengan senjata jarak jauh. Selain itu, mereka boleh mengambil Kebolehan berikut dengan kos 4 balingan EXP setiap satu (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan III:** Memerlukan Refleks Pertahanan II. Seperti Refleks Pertahanan, walau bagaimanapun anda kini boleh menggunakan Kebolehan ini tiga kali dalam pertempuran yang sama. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada mana-mana Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan III:** Memerlukan Refleks Pertahanan II. Seperti Refleks Pertahanan, namun anda kini boleh menggunakan Kebolehan ini tiga kali dalam pertempuran yang sama. Walau bagaimanapun, anda tidak boleh membuat balingan semula terhadap serangan yang sama lebih daripada sekali, atau menggabungkannya dengan Mata Nasib.
 
 #### Pangkat 5:
 
-Kebolehan Serangan Hendap penyamun kini melakukan +1d8 kerosakan dengan senjata jarak dekat, +1d6 kerosakan dengan jarak jauh. Selain itu, mereka boleh mengambil Kebolehan berikut dengan kos 5 gulungan EXP setiap satu (setiap satu hanya boleh diambil sekali):
+Kebolehan Serangan Hendap perompak kini memberikan kerosakan +1d8 dengan senjata jarak dekat, kerosakan +1d6 dengan senjata jarak jauh. Selain itu, mereka boleh mengambil Kebolehan berikut dengan kos 5 balingan EXP setiap satu (setiap satu hanya boleh diambil sekali):
 
-- **Peningkatan Ciri:** Anda boleh menambah +1 pada Ciri pilihan anda. Ini tidak boleh melebihi maksimum bangsa.
-- **Refleks Pertahanan IV:** Memerlukan Refleks Pertahanan III. Seperti Refleks Pertahanan, walau bagaimanapun anda kini boleh menggunakan Kebolehan ini empat kali dalam pertempuran yang sama. Anda tidak boleh melambung semula terhadap serangan yang sama lebih daripada sekali walau bagaimanapun, mahupun bergabung dengan Mata Nasib.
+- **Peningkatan Ciri:** Anda boleh menambah +1 pada mana-mana Ciri pilihan anda. Ini tidak boleh melebihi maksimum kaum.
+- **Refleks Pertahanan IV:** Memerlukan Refleks Pertahanan III. Seperti Refleks Pertahanan, namun anda kini boleh menggunakan Kebolehan ini empat kali dalam pertempuran yang sama. Walau bagaimanapun, anda tidak boleh membuat balingan semula terhadap serangan yang sama lebih daripada sekali, atau menggabungkannya dengan Mata Nasib.
 
-### Peralatan Permulaan Asas Penyamun
+### Peralatan Permulaan Asas Perompak
 
-Setiap baris item dikira sebagai 1 'Benda' untuk tujuan Beban kecuali dinyatakan sebaliknya.
+Setiap baris item dikira sebagai 1 'Benda' (Thing) untuk tujuan Beban (Encumbrance) melainkan dinyatakan sebaliknya.
 
-- Pedang pendek
-- Sama ada 3 keris atau lastik dan 10 peluru lastik plumbum (1½ Benda)
+- Pedang pendek (Shortsword)
+- Sama ada 3 bilah keris atau seutas ali-ali dan 10 peluru ali-ali plumbum (1½ Benda)
 - Set lengkap perisai kulit (0 Benda apabila dipakai, 7 Benda jika dibawa)
-- Pembuka kunci dan peralatan pencuri
-- Beg galas (kapasiti 10 Benda), bekas air, ransum perjalanan satu minggu, beg tidur, beg kosong kecil\*, batu api dan bahan pemetik api\*\*, tanglung, 2 kelalang minyak (6½ Benda terkandung)
-- Kantung pinggang dengan 4d4 keping emas
+- Alat mengumpil kunci dan peralatan pencuri
+- Beg galas (kapasiti 10 Benda), kantung air, catuan perjalanan seminggu, hamparan tidur, karung kosong kecil\*, batu api dan bahan penyala\*\*, tanglung, 2 kelalang minyak (6½ Benda yang terkandung)
+- Kantung tali pinggang dengan 4d4 keping syiling emas
 
 Jumlah ENC 5 Benda
 
-_\* Kandungan dikira ke arah kandungan beg galas kerana isipadunya meningkat._
+_\* Kandungan dikira ke dalam isi kandungan beg galas kerana isipadunya bertambah._
 
 _\*\* Dikira sebagai ½ Benda._
-
---- DOCUMENT END ---
