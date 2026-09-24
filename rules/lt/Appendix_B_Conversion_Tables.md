@@ -1,30 +1,30 @@
 # Priedas: Konvertavimo lentelės
 
 ---
-#### Imperinių svorio ir ilgio vienetų konvertavimas į metrinę sistemą
+#### Imperinių svorio ir ilgio matų konvertavimas į metrinę sistemą
 
-Siekdami, kad _Classic Fantasy Imperative_ būtų aiškiau pateiktas, lengviau skaitomas, o aprašymai ir lentelės – glaustesni, _Classic Fantasy Imperative_ serija naudos imperinius matavimo vienetus, o ne jų derinį su metriniais. Imperinė sistema pasirinkta todėl, kad ji palengvina esamos medžiagos adaptaciją, kadangi dauguma nuotykių, kovos žemėlapių ir planų, naudojamų kituose šio žanro žaidimuose, yra pagrįsti būtent šia sistema. Vis dėlto, tiems, kurie nori naudoti metrinę sistemą, dažniausiai naudojami svoriai ir matmenys buvo konvertuoti šioje lentelėje. Kadangi paprastai nekalbame apie tikro pasaulio būtybes, burtus ir panašiai, galime leisti šiek tiek laisvės su joms priskirtais svoriais ir matmenimis. Užuot naudojus tikslius konvertavimo koeficientus, lengviau naudoti lengvai įsimenamus, taip palengvinant žaidimo procesą.
+Siekdama, kad „Classic Fantasy Imperative“ pateikimas būtų aiškesnis, lengviau skaitomas, o aprašymai ir lentelės – glaustesni, „Classic Fantasy Imperative“ serija orientuosis į imperinius matavimo vienetus, o ne į abu – imperinius ir metrinius. Imperinė sistema pasirinkta siekiant palengvinti esamos medžiagos konvertavimą, nes dauguma kitų šio žanro žaidimų naudojamų nuotykių, mūšio žemėlapių ir planų naudoja imperinę sistemą. Vis dėlto tiems, kurie nori naudoti metrinę sistemą, dažniausiai naudojami svoriai ir matai buvo konvertuoti naudojant toliau pateiktas lenteles. Kadangi paprastai nesusiduriame su realaus pasaulio būtybėmis, burtais ir pan., galime šiek tiek laisviau vertinti jų svorį ir matmenis. Užuot naudojus tikslius skaičiavimus, lengviau naudoti tokius, kuriuos galima nesunkiai įsiminti, taip palengvinant žaidimo procesą.
 
 ---
-#### Apytikslė imperinių vienetų konvertavimo į metrinę sistemą lentelė
+#### Imperinių vienetų konvertavimo į metrinę sistemą apytikslė lentelė
 
-| Imperiniai | Metriniai | Dažnas pritaikymas, pavyzdžiai ir kovos žemėlapio konvertavimas |
+| Imperiniai | Metriniai | Dažnas naudojimas, pavyzdžiai ir mūšio žemėlapių konvertavimas |
 | :-: | :-: | :-- |
-| 1' (pėda) | 30cm | |
+| 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | 1 kovos žemėlapio langelis |
+| 5' | 1.5m | 1 mūšio žemėlapio langelis |
 | 7' | 2m | |
-| 10' | 3m | 2 kovos žemėlapio langeliai |
-| 15' | 4m | 3 kovos žemėlapio langeliai; nykštukas, gnomas ir pusūgis |
-| 20' | 6m | 4 kovos žemėlapio langeliai; žmogus, elfų, puselfis ir pusorkis |
-| 25' | 8m | 5 kovos žemėlapio langeliai |
-| 30' | 10m | 6 kovos žemėlapio langeliai |
-| 40' | 12m | 8 kovos žemėlapio langeliai |
-| 45' | 14m | 9 kovos žemėlapio langeliai |
-| 50' | 15m | 10 kovos žemėlapio langelių; tipinis drakono skrydžio greitis |
-| 60' | 18m | 12 kovos žemėlapio langelių; tipinė infraraudonoji rega |
-| 65' | 20m | 13 kovos žemėlapio langelių |
-| 100' | 30m | 20 kovos žemėlapio langelių |
+| 10' | 3m | 2 mūšio žemėlapio langeliai |
+| 15' | 4m | 3 mūšio žemėlapio langeliai; nykštukas, gnomas ir pusūgis |
+| 20' | 6m | 4 mūšio žemėlapio langeliai; žmogus, elfas, puselfis ir pusorkis |
+| 25' | 8m | 5 mūšio žemėlapio langeliai |
+| 30' | 10m | 6 mūšio žemėlapio langeliai |
+| 40' | 12m | 8 mūšio žemėlapio langeliai |
+| 45' | 14m | 9 mūšio žemėlapio langeliai |
+| 50' | 15m | 10 mūšio žemėlapio langelių; tipinis drakono skridimo greitis |
+| 60' | 18m | 12 mūšio žemėlapio langelių; tipinis Tamsos matymas (Darkvision) |
+| 65' | 20m | 13 mūšio žemėlapio langelių |
+| 100' | 30m | 20 mūšio žemėlapio langelių |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -48,7 +48,7 @@ Siekdami, kad _Classic Fantasy Imperative_ būtų aiškiau pateiktas, lengviau s
 | 2.2 svaro | 1kg | |
 
 ---
-#### Temperatūros atskaitos taškų lentelė
+#### Temperatūros lentelės orientyrai
 
 | Farenheitas | Celsijus | 
 | :-: | :-: |
@@ -80,33 +80,33 @@ Siekdami, kad _Classic Fantasy Imperative_ būtų aiškiau pateiktas, lengviau s
 ---
 #### Vėjo lentelė
 
-| Mph (mylios per val.) | Tipas | Poveikis įgūdžiams | Poveikis judėjimui |
+| MPH (mylios per valandą) | Tipas | Poveikis įgūdžiams | Poveikis judėjimui |
 | :-: | :-- | :-- | :-- |
-| 0-10 | Ramus | Nėra | Nėra |
-| 11-20 | Vidutinis vėjelis | Nėra | Nėra |
-| 21-30 | Stiprus vėjas | Nėra | Du trečdaliai |
-| 31-40 | Lengvas škvalas | Sunkus | Du trečdaliai |
-| 41-50 | Vidutinis škvalas | Sunkus | Pusė |
-| 51-60 | Stiprus škvalas | Grėsmingas | Pusė |
-| 60+ | Audra/Urganas | Grėsmingas | Vienas trečdalis |
+| 0-10 | Rami | Nėra | Nėra |
+| 11-20 | Lengvas brizas | Nėra | Nėra |
+| 21-30 | Stiprus brizas | Nėra | Du trečdaliai |
+| 31-40 | Lengvas gūsingas vėjas | Sunkus | Du trečdaliai |
+| 41-50 | Vidutinis gūsingas vėjas | Sunkus | Pusė |
+| 51-60 | Stiprus gūsingas vėjas | Galingas | Pusė |
+| 60+ | Audra/uraganas | Galingas | Vienas trečdalis |
 
-Vėjas, ypač labai stiprus, gali neigiamai paveikti veiklą. Vėjo jėga (STR) išreiškiama myliomis per valandą. Jo poveikis fiziniams įgūdžiams – tiems, kurie naudoja jėgą (STR) arba judrumą (DEX) – aprašytas stulpelyje „Poveikis įgūdžiams“; poveikis judėjimo greičiui – stulpelyje „Poveikis judėjimui“.
+Vėjas, ypač labai stiprus, gali neigiamai paveikti veiklą. Vėjo stiprumas (JĖG) išreiškiamas myliomis per valandą. Jo poveikis fiziniams įgūdžiams – tiems, kurie susiję su JĖG arba VIK – išsamiai aprašytas stulpelyje „Poveikis įgūdžiams“, o poveikis judėjimo greičiui – stulpelyje „Poveikis judėjimui“.
  
-_Pavyzdžiui, 40 mph greičio lengvas škvalas sumažina žmogaus ėjimo greitį iki dviejų trečdalių, o įgūdžių patikrinimai atliekami su „Sunkumo“ (Hard) koeficientu._
+_Pavyzdžiui, 40 JĖG lengvas gūsingas vėjas sumažina žmogaus ėjimo greitį iki dviejų trečdalių, o įgūdžiai tikrinami naudojant „Sunkų“ (Hard) sudėtingumo lygį._
 
 ---
 #### Temperatūros lentelė
 
 | Temperatūra (ºF) | Tipas | Rizika |
 | :-: | :-: | :-- |
-| < 2º | Ledinė | Ieškokite šilumos nedelsiant |
+| < 2º | Ledinė | Nedelsiant ieškoti šilumos |
 | 3-14º | Šaltis | 15 minučių |
 | 13-32º | Šalta | Kas valandą |
-| 33-50º | Vėsu | Kas dieną |
-| 51-68º | Malonu | - |
+| 33-50º | Vėsu | Kasdien |
+| 51-68º | Gaivu | - |
 | 69-86º | Šilta | - |
 | > 86º | Karšta | Kas valandą |
 
-Temperatūra gali drastiškai skirtis priklausomai nuo klimato, sezono ir aukščio virš jūros lygio, atsižvelgiant į kampanijos pasaulį ir vietovę. Aukščiau pateikta lentelė yra gairė, skirta kraštutinės temperatūros poveikiui veikėjams nustatyti.
+Temperatūra gali smarkiai skirtis priklausomai nuo klimato, metų laiko ir aukščio virš jūros lygio, atsižvelgiant į kampanijos pasaulį ir tai, kur vyksta scenarijai. Aukščiau pateikta lentelė yra gairė, skirta kraštutinės temperatūros poveikiui veikėjams nustatyti.
 
-Tinkami drabužiai leidžia veikėjui išbūti pavojingoje temperatūroje tiek valandų, kiek lygu jo ištvermei (CON), prieš prasidedant neigiamam poveikiui, kaip parodyta stulpelyje „Rizika“. Po šio laiko veikėjui reikia ieškoti prieglobsčio arba jis pradės prarasti nuovargio taškus. Šlapi veikėjai patiria vienu lygiu didesnę riziką (vėsesnė riba). Lengvi arba vidutiniai škvalai taip pat padidina riziką vienu lygiu, o stiprūs škvalai ir audros – dviem lygiais.
+Tinkami drabužiai leidžia veikėjui gauti lengvatinį laikotarpį, lygų jo IŠT (valandomis), prieš pradedant jausti poveikį, kaip nurodyta stulpelyje „Rizika“. Po šio laiko veikėjas privalo ieškoti prieglobsčio arba pradeda patirti nuovargio (Fatigue) nuostolius. Sudrėkę veikėjai perkelia rizikos lygį vienu laipsniu į šaltesnę pusę. Lengvas ar vidutinis gūsingas vėjas taip pat perkelia rizikos lygį vienu laipsniu į šaltesnę pusę, o stiprūs gūsingi vėjai ir audros – dviem laipsniais.

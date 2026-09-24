@@ -1,14 +1,14 @@
-# Appendice: Tabelle di conversione
+# Appendice: Tabelle di Conversione
 
 ---
-#### Conversione delle unità di misura imperiali nel sistema metrico
+#### Conversione tra pesi e misure imperiali e metriche
 
-Per dare a _Classic Fantasy Imperative_ una presentazione più pulita, renderlo più facile da leggere e condensare descrizioni e tabelle, la linea _Classic Fantasy Imperative_ si concentrerà sulle misure imperiali anziché sia su quelle imperiali che su quelle metriche. Il sistema imperiale è stato scelto per facilitare la conversione del materiale esistente, poiché la maggior parte delle avventure, delle mappe tattiche e delle cartine utilizzate da altri giochi del genere utilizza il sistema imperiale. Tuttavia, per coloro che desiderano utilizzare il sistema metrico, i pesi e le misure più comunemente utilizzati sono stati convertiti utilizzando le tabelle seguenti. Poiché non abbiamo a che fare con creature, incantesimi e così via del mondo reale, possiamo concederci un po' di margine di manovra nei pesi e nelle misure che abbiamo inventato per loro. Invece di utilizzare conversioni esatte, è più facile usarne una che possa essere facilmente ricordata, facilitando così lo svolgimento del gioco.
+Per conferire a _Classic Fantasy Imperative_ una presentazione più pulita, facilitarne la lettura e condensare descrizioni e tabelle, la linea _Classic Fantasy Imperative_ si concentrerà sulle misurazioni imperiali piuttosto che su entrambe. Il sistema imperiale è stato scelto per facilitare la conversione del materiale esistente, poiché la maggior parte delle avventure, delle mappe tattiche e delle mappe utilizzate da altri giochi del genere utilizza il sistema imperiale. Tuttavia, per coloro che desiderano utilizzare il sistema metrico, i pesi e le misure più comunemente utilizzati sono stati convertiti utilizzando le seguenti tabelle. Poiché solitamente non abbiamo a che fare COS creature, incantesimi e simili del mondo reale, possiamo concederci un po' di margine di manovra COS i pesi e le misure che abbiamo ideato per essi. Piuttosto che utilizzare conversioni esatte, è più facile utilizzarne una che possa essere facilmente ricordata, facilitando così il gioco.
 
 ---
 #### Tabella di conversione stimata da Imperiale a Metrico
 
-| Imperiale | Metrico | Usi comuni, esempi e conversioni su mappe tattiche |
+| Imperiale | Metrico | Usi comuni, esempi e conversioni su mappa tattica |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
@@ -21,8 +21,8 @@ Per dare a _Classic Fantasy Imperative_ una presentazione più pulita, renderlo 
 | 30' | 10m | 6 quadrati della mappa tattica |
 | 40' | 12m | 8 quadrati della mappa tattica |
 | 45' | 14m | 9 quadrati della mappa tattica |
-| 50' | 15m | 10 quadrati della mappa tattica; velocità di volo tipica del drago |
-| 60' | 18m | 12 quadrati della mappa tattica; Infravisione tipica |
+| 50' | 15m | 10 quadrati della mappa tattica; tipica velocità di volo del drago |
+| 60' | 18m | 12 quadrati della mappa tattica; tipica Scurovisione |
 | 65' | 20m | 13 quadrati della mappa tattica |
 | 100' | 30m | 20 quadrati della mappa tattica |
 | 120' | 36m | |
@@ -80,33 +80,33 @@ Per dare a _Classic Fantasy Imperative_ una presentazione più pulita, renderlo 
 ---
 #### Tabella del vento
 
-| Miglia orarie (MPH) | Tipo | Effetto sulle abilità | Effetto sul movimento |
+| MPH | Tipo | Effetto sulle Abilità | Effetto sul Movimento |
 | :-: | :-- | :-- | :-- |
-| 0-10 | Calmo | Nessuno | Nessuno |
-| 11-20 | Brezza moderata | Nessuno | Nessuno |
-| 21-30 | Brezza forte | Nessuno | Due terzi |
-| 31-40 | Burrasca leggera | Difficile | Due terzi |
-| 41-50 | Burrasca moderata | Difficile | Metà |
-| 51-60 | Burrasca forte | Formidabile | Metà |
+| 0-10 | Calma | Nessuno | Nessuno |
+| 11-20 | Brezza Moderata | Nessuno | Nessuno |
+| 21-30 | Brezza Forte | Nessuno | Due terzi |
+| 31-40 | Burrasca Leggera | Difficile | Due terzi |
+| 41-50 | Burrasca Moderata | Difficile | Metà |
+| 51-60 | Burrasca Forte | Formidabile | Metà |
 | 60+ | Tempesta/Uragano | Formidabile | Un terzo |
 
-Il vento, specialmente quello molto forte, può avere un effetto negativo sulle attività. La Forza (FOR) di un vento è espressa in miglia orarie di velocità. Il suo effetto sulle abilità fisiche – quelle che coinvolgono FOR o DES – è dettagliato nella colonna Abilità; gli effetti sulla Velocità di Movimento nella colonna Velocità di Movimento.
+Il vento, specialmente i venti molto forti, può avere un effetto avverso sull'attività. La Forza (FOR) di un vento è espressa in miglia orarie di velocità. Il suo effetto sulle abilità fisiche – quelle che coinvolgono FOR o DES – è dettagliato nella colonna Abilità; gli effetti sul Tasso di Movimento nella colonna Tasso di Movimento.
  
-_Ad esempio, una Burrasca leggera di FOR 40 riduce la velocità di camminata umana a due terzi e le abilità vengono tirate con difficoltà Difficile._
+_Ad esempio, una Burrasca Leggera di FOR 40 riduce la velocità di camminata umana a due terzi e le abilità vengono tirate COS difficoltà Difficile._
 
 ---
-#### Tabella della temperatura
+#### Tabella delle temperature
 
 | Temperatura (ºF) | Tipo | Rischio |
 | :-: | :-: | :-- |
-| < 2º | Glaciale | Cercare riparo immediato |
-| 3-14º | Congelamento | 15 minuti |
+| < 2º | Glaciale | Cerca Calore Immediato |
+| 3-14º | Gelido | 15 Minuti |
 | 13-32º | Freddo | Orario |
 | 33-50º | Fresco | Giornaliero |
 | 51-68º | Temperato | - |
 | 69-86º | Caldo | - |
-| > 86º | Molto caldo | Orario |
+| > 86º | Molto Caldo | Orario |
 
-La temperatura può variare drasticamente a causa del clima, della stagione e dell'altitudine, a seconda dell'ambientazione della campagna e del luogo in cui sono ambientati gli scenari. La tabella sopra fornisce una linea guida per gli effetti delle temperature estreme sui personaggi.
+La temperatura può variare drasticamente a causa del clima, della stagione e dell'altitudine, a seconda del mondo della campagna e di dove sono ambientati gli scenari. La tabella sopra fornisce una linea guida per gli effetti delle temperature estreme sui personaggi.
 
-Indossare un abbigliamento adeguato concede al personaggio un periodo di grazia pari alla sua CON in ore prima che inizi l'esposizione, come mostrato nella colonna Rischio. Superato questo punto, deve cercare riparo o iniziare a subire perdite di Affaticamento. I personaggi bagnati spostano il Tasso di Rischio di un grado verso il freddo. Anche i venti di burrasca leggera o moderata spostano il Tasso di Rischio di un grado verso il freddo, mentre le burrasche forti e le tempeste lo spostano di due gradi.
+Indossare indumenti adeguati consente a un personaggio un periodo di grazia pari alla sua COS in ore prima che subentri l'esposizione, come mostrato nella colonna Rischio. Dopo questo punto, devono cercare riparo o iniziare a subire la perdita di Affaticamento. I personaggi bagnati spostano il Tasso di Rischio di un grado verso il più freddo. Anche i venti di forza leggera o moderata spostano il Tasso di Rischio di un grado verso il più freddo, mentre le burrasche forti e le tempeste lo spostano di due gradi.

@@ -3,28 +3,28 @@
 ---
 #### Pretvorba imperijalnih mjera u metričke
 
-Kako bi _Classic Fantasy Imperative_ imao jasniji prikaz, bio lakši za čitanje te kako bi opisi i tablice bili sažeti, linija _Classic Fantasy Imperative_ fokusirat će se na imperijalne mjere umjesto na kombinaciju imperijalnih i metričkih. Imperijalni sustav odabran je kako bi se olakšala pretvorba postojećih materijala, budući da većina pustolovina, borbenih podloga (battlemats) i karata koje koriste druge igre u žanru upotrebljavaju imperijalni sustav. Međutim, za one koji žele koristiti metrički sustav, najčešće korištene težine i mjere pretvorene su pomoću sljedećih tablica. Budući da se obično ne bavimo stvarnim stvorenjima, čarolijama i sličnim, možemo dopustiti malu slobodu u težinama i mjerama koje smo za njih izmislili. Umjesto korištenja točnih pretvorbi, lakše je koristiti one koje se lako pamte, čime se olakšava igranje.
+Kako bi *Classic Fantasy Imperative* imao pregledniju prezentaciju, bio lakši za čitanje te kako bi se opis i tablice saželi, linija *Classic Fantasy Imperative* fokusirat će se na imperijalne mjere umjesto na kombinaciju imperijalnih i metričkih. Imperijalni sustav odabran je kako bi se olakšala pretvorba postojećih materijala, budući da većina pustolovina, borbenih podloga (battlemats) i karata koje koriste druge igre u žanru koriste taj sustav. Ipak, za one koji žele koristiti metrički sustav, najčešće korištene težine i mjere pretvorene su pomoću sljedećih tablica. Budući da se obično ne susrećemo sa stvorenjima, čarolijama i sličnim stvarima iz stvarnog svijeta, možemo si dopustiti malo slobode u težinama i mjerama koje smo za njih izmislili. Umjesto korištenja točnih pretvorbi, lakše je koristiti one koje se lako pamte, čime se olakšava igranje.
 
 ---
-#### Tablica procijenjene pretvorbe imperijalnih u metričke mjere
+#### Tablica procjene pretvorbe iz imperijalnog u metrički sustav
 
-| Imperijalne | Metričke | Uobičajena uporaba, primjeri i pretvorbe za borbene podloge |
+| Imperijalno | Metrički | Uobičajene namjene, primjeri i pretvorbe za borbene podloge |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1,5m | 1 kvadrat na borbenoj podlozi |
+| 5' | 1.5m | 1 polje borbene podloge |
 | 7' | 2m | |
-| 10' | 3m | 2 kvadrata na borbenoj podlozi |
-| 15' | 4m | 3 kvadrata na borbenoj podlozi; patuljak, gnom i polutan |
-| 20' | 6m | 4 kvadrata na borbenoj podlozi; čovjek, vilenjak, poluvilenjak i poluork |
-| 25' | 8m | 5 kvadrata na borbenoj podlozi |
-| 30' | 10m | 6 kvadrata na borbenoj podlozi |
-| 40' | 12m | 8 kvadrata na borbenoj podlozi |
-| 45' | 14m | 9 kvadrata na borbenoj podlozi |
-| 50' | 15m | 10 kvadrata na borbenoj podlozi; uobičajena brzina leta zmaja |
-| 60' | 18m | 12 kvadrata na borbenoj podlozi; uobičajena infracrvena vizija |
-| 65' | 20m | 13 kvadrata na borbenoj podlozi |
-| 100' | 30m | 20 kvadrata na borbenoj podlozi |
+| 10' | 3m | 2 polja borbene podloge |
+| 15' | 4m | 3 polja borbene podloge; patuljak, gnom i polutan |
+| 20' | 6m | 4 polja borbene podloge; čovjek, vilenjak, poluvilenjak i poluork |
+| 25' | 8m | 5 polja borbene podloge |
+| 30' | 10m | 6 polja borbene podloge |
+| 40' | 12m | 8 polja borbene podloge |
+| 45' | 14m | 9 polja borbene podloge |
+| 50' | 15m | 10 polja borbene podloge; tipična brzina leta zmaja |
+| 60' | 18m | 12 polja borbene podloge; tipičan Tamnovid |
+| 65' | 20m | 13 polja borbene podloge |
+| 100' | 30m | 20 polja borbene podloge |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -38,14 +38,14 @@ Kako bi _Classic Fantasy Imperative_ imao jasniji prikaz, bio lakši za čitanje
 | 1200' | 360m | |
 | 1320' / ¼ milje | 400m | |
 | ½ milje | 1km | |
-| 1 milja | 1,5km | |
+| 1 milja | 1.5km | |
 | 3 milje | 5km | |
 | 6 milja | 10km | |
 | 10 milja | 15km | |
 | 12 milja | 20km | |
 | 20 milja | 30km | |
 | 25 milja | 40km | |
-| 2,2lb | 1kg | |
+| 2.2lb | 1kg | |
 
 ---
 #### Mjerila tablice temperature
@@ -80,19 +80,19 @@ Kako bi _Classic Fantasy Imperative_ imao jasniji prikaz, bio lakši za čitanje
 ---
 #### Tablica vjetra
 
-| MPH (milje na sat) | Vrsta | Učinak na vještine | Učinak na kretanje |
+| MPH | Vrsta | Utjecaj na vještine | Utjecaj na kretanje |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Mirno | Nema | Nema |
 | 11-20 | Umjeren povjetarac | Nema | Nema |
-| 21-30 | Snažan povjetarac | Nema | Dvije trećine |
-| 31-40 | Lagana oluja | Teško | Dvije trećine |
+| 21-30 | Jak povjetarac | Nema | Dve trećine |
+| 31-40 | Lagana oluja | Teško | Dve trećine |
 | 41-50 | Umjerena oluja | Teško | Pola |
-| 51-60 | Snažna oluja | Zastrašujuće | Pola |
-| 60+ | Oluja/Uragan | Zastrašujuće | Jedna trećina |
+| 51-60 | Jaka oluja | Zastrašujuće | Pola |
+| 60+ | Nevrijeme/Uragan | Zastrašujuće | Jedna trećina |
 
-Vjetar, posebno vrlo jaki vjetrovi, može imati štetan učinak na aktivnost. Snaga vjetra (STR) izražava se u miljama na sat brzine. Njezin učinak na fizičke vještine – one koje uključuju snagu (STR) ili spretnost (DEX) – detaljno je opisan u stupcu Vještine; učinci na brzinu kretanja u stupcu Brzina kretanja.
- 
-_Na primjer, lagana oluja snage 40 smanjuje brzinu hodanja čovjeka na dvije trećine, a vještine se bacaju s "teškom" (Hard) težinom._
+Vjetar, osobito vrlo jaki vjetrovi, može imati štetan učinak na aktivnost. Snaga (SNA) vjetra izražava se u miljama na sat. Njezin učinak na fizičke vještine – one koje uključuju SNA ili SPR – detaljno je opisan u stupcu Vještine; učinci na brzinu kretanja u stupcu Brzina kretanja.
+
+_Na primjer, lagana oluja snage 40 smanjuje brzinu hodanja čovjeka na dvije trećine, a vještine se bacaju s težinom "Teško"._
 
 ---
 #### Tablica temperature
@@ -107,6 +107,6 @@ _Na primjer, lagana oluja snage 40 smanjuje brzinu hodanja čovjeka na dvije tre
 | 69-86º | Toplo | - |
 | > 86º | Vruće | Svaki sat |
 
-Temperatura može drastično varirati zbog klime, godišnjeg doba i nadmorske visine, ovisno o svijetu kampanje i mjestu gdje se scenariji odvijaju. Gornja tablica pruža smjernice za učinke ekstremne temperature na likove.
+Temperatura može drastično varirati zbog klime, godišnjeg doba i nadmorske visine, ovisno o svijetu kampanje i mjestu odvijanja scenarija. Gornja tablica daje smjernice za učinke ekstremnih temperatura na likove.
 
-Nošenje prikladne odjeće dopušta liku poček (grace period) u satima jednak njihovoj konstituciji (CON) prije nego što nastupi izloženost, kao što je prikazano u stupcu Rizik. Nakon te točke moraju potražiti zaklon ili početi gubiti umor (Fatigue). Mokri likovi pomiču stopu rizika za jedan stupanj prema hladnijem. Lagani ili umjereni olujni vjetrovi također pomiču stopu rizika za jedan stupanj prema hladnijem, dok snažne oluje i uragani pomiču rizik za dva stupnja.
+Nošenje prikladne odjeće omogućuje liku poček u trajanju njihove KON u satima prije nego što nastupi izloženost, kao što je prikazano u stupcu Rizik. Nakon tog trenutka moraju potražiti zaklon ili početi trpjeti gubitak umora. Mokri likovi pomiču stopu rizika za jedan stupanj prema hladnijem. Lagani ili umjereni vjetrovi također pomiču stopu rizika za jedan stupanj prema hladnijem, dok jake oluje i nevremena pomiču stopu za dva stupnja.

@@ -3,28 +3,28 @@
 ---
 #### Brittiläisten mittayksiköiden muuntaminen metrijärjestelmään
 
-Jotta _Classic Fantasy Imperative_ olisi selkeämpi, helpompi lukea ja jotta kuvaukset ja taulukot pysyisivät tiiviinä, _Classic Fantasy Imperative_ keskittyy käyttämään brittiläisiä mittayksiköitä metrijärjestelmän sijaan. Brittiläiset yksiköt valittiin, koska ne helpottavat olemassa olevan materiaalin muuntamista; useimmat muiden saman genren pelien seikkailut, taistelualustat ja kartat käyttävät brittiläistä järjestelmää. Niille, jotka haluavat käyttää metrijärjestelmää, yleisimmät painot ja mitat on kuitenkin muunnettu seuraaviin taulukoihin. Koska emme yleensä käsittele todellisen maailman olentoja, loitsuja ja niin edelleen, voimme antaa pientä vapautta niiden painojen ja mittojen kohdalla. Tarkkojen muunnosten käyttämisen sijaan on helpompaa käyttää sellaisia, jotka on helppo muistaa, mikä helpottaa pelaamista.
+Jotta _Classic Fantasy Imperative_ olisi selkeämpi, helpommin luettava ja jotta kuvaukset ja taulukot olisivat tiiviimpiä, _Classic Fantasy Imperative_ -linja keskittyy brittiläisiin mittayksiköihin metrijärjestelmän sijaan. Brittiläistä järjestelmää käytetään, jotta olemassa olevan materiaalin muuntaminen olisi helpompaa, sillä useimmat pelin genren seikkailut, taistelualustat ja kartat hyödyntävät tätä järjestelmää. Niille kuitenkin, jotka haluavat käyttää metrijärjestelmää, yleisimmin käytetyt painot ja mitat on muunnettu seuraavien taulukoiden mukaisesti. Koska emme yleensä käsittele todellisen maailman olentoja, loitsuja ja niin edelleen, voimme antaa pientä joustoa itse luomissamme painoissa ja mitoissa. Tarkkojen muunnosten käyttämisen sijaan on helpompaa käyttää helposti muistettavia arvoja, mikä edistää pelin kulkua.
 
 ---
-#### Arvioitu brittiläisten yksiköiden muunnostaulukko
+#### Arvioitu brittiläisten yksiköiden muuntotaulukko metrijärjestelmään
 
-| Brittiläinen | Metrijärjestelmä | Yleiset käyttötavat, esimerkit ja taistelualustamuunnokset |
+| Brittiläiset | Metrijärjestelmä | Yleiset käyttötavat, esimerkit ja taistelualustamuunnokset |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | 1 taistelualustaruutu |
+| 5' | 1.5m | 1 taistelualustan ruutu |
 | 7' | 2m | |
-| 10' | 3m | 2 taistelualustaruutua |
-| 15' | 4m | 3 taistelualustaruutua; kääpiö, gnoomi ja puolituinen |
-| 20' | 6m | 4 taistelualustaruutua; ihminen, haltia, puolihaltia ja puoliorc |
-| 25' | 8m | 5 taistelualustaruutua |
-| 30' | 10m | 6 taistelualustaruutua |
-| 40' | 12m | 8 taistelualustaruutua |
-| 45' | 14m | 9 taistelualustaruutua |
-| 50' | 15m | 10 taistelualustaruutua; tyypillinen lohikäärmeen lentonopeus |
-| 60' | 18m | 12 taistelualustaruutua; tyypillinen infravärisen näön kantama |
-| 65' | 20m | 13 taistelualustaruutua |
-| 100' | 30m | 20 taistelualustaruutua |
+| 10' | 3m | 2 taistelualustan ruutua |
+| 15' | 4m | 3 taistelualustan ruutua; kääpiö, gnoomi ja puolituinen |
+| 20' | 6m | 4 taistelualustan ruutua; ihminen, haltia, puolihaltia ja puoliorc |
+| 25' | 8m | 5 taistelualustan ruutua |
+| 30' | 10m | 6 taistelualustan ruutua |
+| 40' | 12m | 8 taistelualustan ruutua |
+| 45' | 14m | 9 taistelualustan ruutua |
+| 50' | 15m | 10 taistelualustan ruutua; tyypillinen lohikäärmeen lentonopeus |
+| 60' | 18m | 12 taistelualustan ruutua; tyypillinen Pimeänäkö |
+| 65' | 20m | 13 taistelualustan ruutua |
+| 100' | 30m | 20 taistelualustan ruutua |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -48,7 +48,7 @@ Jotta _Classic Fantasy Imperative_ olisi selkeämpi, helpompi lukea ja jotta kuv
 | 2.2lb | 1kg | |
 
 ---
-#### Lämpötilataulukon vertailuarvot
+#### Lämpötilataulukon vertailukohdat
 
 | Fahrenheit | Celsius | 
 | :-: | :-: |
@@ -83,30 +83,30 @@ Jotta _Classic Fantasy Imperative_ olisi selkeämpi, helpompi lukea ja jotta kuv
 | MPH | Tyyppi | Vaikutus taitoihin | Vaikutus liikkeeseen |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Tyyni | Ei mitään | Ei mitään |
-| 11-20 | Leuto tuuli | Ei mitään | Ei mitään |
-| 21-30 | Navakka tuuli | Ei mitään | Kaksi kolmasosaa |
+| 11-20 | Kohtalainen tuuli | Ei mitään | Ei mitään |
+| 21-30 | Kova tuuli | Ei mitään | Kaksi kolmasosaa |
 | 31-40 | Kevyt myrskytuuli | Vaikea | Kaksi kolmasosaa |
 | 41-50 | Kohtalainen myrskytuuli | Vaikea | Puolet |
-| 51-60 | Voimakas myrskytuuli | Haastava | Puolet |
-| 60+ | Myrsky/Hurrikaani | Haastava | Yksi kolmasosa |
+| 51-60 | Kova myrskytuuli | Pelottava | Puolet |
+| 60+ | Myrsky/Hurrikaani | Pelottava | Yksi kolmasosa |
 
-Tuuli, erityisesti erittäin voimakkaat tuulet, voi vaikuttaa haitallisesti toimintaan. Tuulen voimakkuus (STR) ilmaistaan mailia tunnissa -nopeudella. Sen vaikutus fyysisiin taitoihin – niihin, jotka vaativat STR:ää tai DEX:iä – on kuvattu Taito-sarakkeessa; vaikutukset liikenopeuteen Liikenopeus-sarakkeessa.
- 
-_Esimerkiksi 40 MPH:n kevyt myrskytuuli hidastaa ihmisen kävelynopeuden kahteen kolmasosaan ja taitotarkistukset heitetään Vaikealla vaikeusasteella._
+Tuulella, erityisesti erittäin kovilla tuulilla, voi olla haitallisia vaikutuksia toimintaan. Tuulen voimakkuus (VOI) ilmaistaan maileina tunnissa. Sen vaikutus fyysisiin taitoihin – niihin, jotka käyttävät VOI- tai KET-arvoja – on yksityiskohtaisesti selitetty Taito-sarakkeessa; vaikutukset liikenopeuteen Liikenopeus-sarakkeessa.
+
+_Esimerkiksi Kovan myrskytuulen VOI 40 laskee ihmisen kävelyvauhdin kahteen kolmasosaan ja taitoja heitetään Vaikea-vaikeustasolla._
 
 ---
 #### Lämpötilataulukko
 
 | Lämpötila (ºF) | Tyyppi | Riski |
 | :-: | :-: | :-- |
-| < 2º | Jäätävä | Etsi välittömästi suojaa |
-| 3-14º | Pakkanen | 15 minuuttia |
-| 13-32º | Kylmä | Tunnittain |
+| < 2º | Jäätikkö | Etsi heti lämpöä |
+| 3-14º | Pakkasta | 15 minuuttia |
+| 13-32º | Kylmä | Tunneittain |
 | 33-50º | Viileä | Päivittäin |
 | 51-68º | Leuto | - |
 | 69-86º | Lämmin | - |
-| > 86º | Kuuma | Tunnittain |
+| > 86º | Kuuma | Tunneittain |
 
-Lämpötila voi vaihdella dramaattisesti ilmaston, vuodenajan ja korkeuden mukaan, riippuen kampanjamaailmasta ja skenaarioiden sijainnista. Yllä oleva taulukko tarjoaa suuntaviivat äärimmäisten lämpötilojen vaikutuksista hahmoihin.
+Lämpötila voi vaihdella dramaattisesti ilmaston, vuodenajan ja korkeuden mukaan, riippuen kampanjamaailmasta ja siitä, missä skenaariot tapahtuvat. Yllä oleva taulukko tarjoaa ohjeistuksen äärimmäisten lämpötilojen vaikutuksista hahmoihin.
 
-Sopiva vaatetus antaa hahmolle CON-arvonsa verran tunteja armonaikaa ennen kuin altistuminen alkaa vaikuttaa, kuten Riski-sarakkeessa on esitetty. Tämän jälkeen hahmon on etsittävä suojaa tai hän alkaa kärsiä väsymyksestä (Fatigue). Märät hahmot siirtävät riskitasoa yhden askeleen kylmempään suuntaan. Kevyet tai kohtalaiset myrskytuulet siirtävät riskitasoa myös yhden askeleen kylmempään suuntaan, kun taas voimakkaat myrskyt siirtävät sitä kahdella askeleella.
+Sopivan vaatetuksen käyttö antaa hahmolle armoajan, joka vastaa heidän KES-arvoaan tunneissa ennen kuin altistuminen alkaa, kuten Riski-sarakkeessa on esitetty. Tämän pisteen jälkeen heidän on etsittävä suojaa tai he alkavat kärsiä uupumuksen menetyksestä. Märät hahmot siirtävät Riski-astetta yhden pykälän kylmemmäksi. Kevyet tai kohtalaiset myrskytuulet siirtävät myös Riski-astetta yhden pykälän kylmemmäksi, kun taas kovat myrskytuulet ja myrskyt siirtävät sitä kaksi pykälää.

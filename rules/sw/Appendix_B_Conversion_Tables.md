@@ -1,30 +1,30 @@
 # Kiambatisho: Majedwali ya Ubadilishaji
 
 ---
-#### Ubadilishaji wa Vipimo vya Imperial kwenda Metriki
+#### Ubadilishaji wa Vipimo vya Kifalme kwenda Vipimo vya Metriki
 
-Ili kuipa _Classic Fantasy Imperative_ muonekano nadhifu, kurahisisha usomaji, na kufupisha maelezo na majedwali, safu ya _Classic Fantasy Imperative_ itajikita katika vipimo vya Imperial badala ya kutumia vipimo vya Imperial na Metriki kwa pamoja. Imperial ilichaguliwa ili kurahisisha ubadilishaji wa nyenzo zilizopo kwani matukio, jamvi la mapigano (battlemats), na ramani nyingi zinazotumiwa na michezo mingine katika aina hii hutumia mfumo wa Imperial. Hata hivyo, kwa wale wanaotaka kutumia Mfumo wa Metriki, vipimo vinavyotumiwa sana vimebadilishwa kwa kutumia majedwali yafuatayo. Kwa sababu kwa kawaida hatushughulikii viumbe, tahajia, na kadhalika vya ulimwengu wa kweli, tunaweza kutoa nafasi ndogo katika vipimo tulivyobuni kwa ajili yao. Badala ya kutumia ubadilishaji kamili, ni rahisi zaidi kutumia ule unaoweza kukumbukwa kwa urahisi, na hivyo kurahisisha uchezaji wa mchezo.
+Ili kuipa _Classic Fantasy Imperative_ mwonekano nadhifu zaidi, kuifanya iwe rahisi kusoma, na kufupisha maelezo na majedwali, mfululizo wa _Classic Fantasy Imperative_ utazingatia vipimo vya Kifalme badala ya Kifalme na Metriki zote mbili. Vipimo vya Kifalme vilichaguliwa ili kurahisisha ubadilishaji wa nyenzo zilizopo kwani matukio mengi, mikeka ya mapigano (battlemats), na ramani zinazotumiwa na michezo mingine katika aina hii hutumia mfumo wa Kifalme. Hata hivyo, kwa wale wanaotaka kutumia Mfumo wa Metriki, vipimo na uzani vinavyotumiwa sana vimebadilishwa kwa kutumia majedwali yafuatayo. Kwa sababu kwa kawaida hatushughuliki na viumbe halisi, inawezekana, na kadhalika, tunaweza kutoa nafasi ndogo katika uzani na vipimo tulivyovitengeneza kwa ajili yao. Badala ya kutumia ubadilishaji kamili, ni rahisi kutumia ule unaoweza kukumbukwa kwa urahisi, hivyo kurahisisha mchezo.
 
 ---
-#### Jedwali la Ubadilishaji wa Makadirio kutoka Imperial kwenda Metriki
+#### Jedwali la Makadirio ya Ubadilishaji wa Kifalme kwenda Metriki
 
-| Imperial | Metriki | Matumizi ya Kawaida, Mifano, na Ubadilishaji wa Jamvi la Mapigano |
+| Kifalme | Metriki | Matumizi ya Kawaida, Mifano, na Ubadilishaji wa Mikeka ya Mapigano |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | mraba 1 wa jamvi la mapigano |
+| 5' | 1.5m | mraba 1 wa mkeka wa mapigano |
 | 7' | 2m | |
-| 10' | 3m | miraba 2 ya jamvi la mapigano |
-| 15' | 4m | miraba 3 ya jamvi la mapigano; kibete, gnome, na halfling |
-| 20' | 6m | miraba 4 ya jamvi la mapigano; binadamu, elf, nusu-elf, na nusu-orc |
-| 25' | 8m | miraba 5 ya jamvi la mapigano |
-| 30' | 10m | miraba 6 ya jamvi la mapigano |
-| 40' | 12m | miraba 8 ya jamvi la mapigano |
-| 45' | 14m | miraba 9 ya jamvi la mapigano |
-| 50' | 15m | miraba 10 ya jamvi la mapigano; mwendo wa kawaida wa kukimbia wa joka |
-| 60' | 18m | miraba 12 ya jamvi la mapigano; Infravision ya kawaida |
-| 65' | 20m | miraba 13 ya jamvi la mapigano |
-| 100' | 30m | miraba 20 ya jamvi la mapigano |
+| 10' | 3m | mraba 2 wa mkeka wa mapigano |
+| 15' | 4m | mraba 3 wa mkeka wa mapigano; kibete, gnome, na halfling |
+| 20' | 6m | mraba 4 wa mkeka wa mapigano; binadamu, elf, nusu-elf, na nusu-orc |
+| 25' | 8m | mraba 5 wa mkeka wa mapigano |
+| 30' | 10m | mraba 6 wa mkeka wa mapigano |
+| 40' | 12m | mraba 8 wa mkeka wa mapigano |
+| 45' | 14m | mraba 9 wa mkeka wa mapigano |
+| 50' | 15m | mraba 10 wa mkeka wa mapigano; kasi ya kawaida ya kukimbia kwa joka |
+| 60' | 18m | mraba 12 wa mkeka wa mapigano; uwezo wa kawaida wa Darkvision |
+| 65' | 20m | mraba 13 wa mkeka wa mapigano |
+| 100' | 30m | mraba 20 wa mkeka wa mapigano |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -48,7 +48,7 @@ Ili kuipa _Classic Fantasy Imperative_ muonekano nadhifu, kurahisisha usomaji, n
 | 2.2lb | 1kg | |
 
 ---
-#### Viwango vya Jedwali la Halijoto
+#### Viashirio vya Jedwali la Joto
 
 | Fahrenheit | Selsiasi | 
 | :-: | :-: |
@@ -73,40 +73,40 @@ Ili kuipa _Classic Fantasy Imperative_ muonekano nadhifu, kurahisisha usomaji, n
 | 194.0ºF | 90ºC | |
 | 212.0ºF \*\*  | 100ºC\*\* | 
 
-\* _Sehemu ya kuganda kwa maji_
+\* _Kiwango MVU kuganda kwa maji_
 
-\*\* _Sehemu ya kuchemkia kwa maji_
+\*\* _Kiwango MVU kuchemka kwa maji_
 
 ---
 #### Jedwali la Upepo
 
-| MPH | Aina | Athari kwa Ujuzi | Athari kwa Mwendo |
+| MPH | Aina | Athari kwenye Ujuzi | Athari kwenye Mwendo |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Tulivu | Hakuna | Hakuna |
 | 11-20 | Upepo Mwanana | Hakuna | Hakuna |
 | 21-30 | Upepo Mkali | Hakuna | Theluthi mbili |
-| 31-40 | Upepo wa Kasi (Light Gale) | Vigumu | Theluthi mbili |
-| 41-50 | Upepo wa Kasi (Moderate Gale) | Vigumu | Nusu |
-| 51-60 | Upepo wa Kasi (Strong Gale) | Inatisha | Nusu |
-| 60+ | Dhoruba/Kimbunga | Inatisha | Theluthi moja |
+| 31-40 | Upepo wa Wastani | Ngumu | Theluthi mbili |
+| 41-50 | Upepo wa Kasi | Ngumu | Nusu |
+| 51-60 | Upepo Mvuvumko | ya Kutisha | Nusu |
+| 60+ | Dhoruba/Kimbunga | ya Kutisha | Theluthi moja |
 
-Upepo, hasa upepo mkali sana, unaweza kuwa na athari mbaya kwa shughuli. Nguvu ya upepo (STR) huonyeshwa kwa maili kwa saa ya mwendo. Athari yake kwa ujuzi wa kimwili – zile zinazohusisha STR au DEX – imeelezewa katika safu ya Ujuzi; athari kwa Kiwango cha Mwendo katika safu ya Kiwango cha Mwendo.
+Upepo, hasa upepo mkali sana, unaweza kuwa na athari mbaya kwa shughuli. Nguvu (NGU) ya upepo huonyeshwa kwa maili kwa saa ya kasi yake. Athari zake kwenye ujuzi wa kimwili – ule unaohusisha NGU au UST – zimefafanuliwa katika safu ya Ujuzi; athari kwenye Kiwango MVU Mwendo katika safu ya Kiwango MVU Mwendo.
  
-_Kwa mfano, Upepo wa Kasi (Light Gale) wa STR 40 hupunguza kasi ya kutembea ya binadamu hadi theluthi mbili na ujuzi hurushwa kwa ugumu wa "Vigumu" (Hard)._
+_Kwa mfano, Upepo wa Kasi wenye NGU 40 hupunguza mwendo wa kutembea wa binadamu hadi theluthi mbili na ujuzi hupigwa kwa ugumu wa Ngumu._
 
 ---
-#### Jedwali la Halijoto
+#### Jedwali la Joto
 
-| Halijoto (ºF) | Aina | Hatari |
+| Joto (ºF) | Aina | Hatari |
 | :-: | :-: | :-- |
-| < 2º | Barafu | Tafuta Joto Haraka |
+| < 2º | Baridi kali | Tafuta Joto Haraka |
 | 3-14º | Kuganda | Dakika 15 |
-| 13-32º | Baridi | Kila Saa |
-| 33-50º | Chill | Kila Siku |
-| 51-68º | Tulivu | - |
+| 13-32º | Baridi | Kila saa |
+| 33-50º | Chill | Kila siku |
+| 51-68º | Baridi kiasi | - |
 | 69-86º | Joto | - |
-| > 86º | Moto | Kila Saa |
+| > 86º | Moto | Kila saa |
 
-Halijoto inaweza kutofautiana sana kulingana na hali ya hewa, msimu, na mwinuko, kulingana na ulimwengu wa kampeni na mahali ambapo matukio yamewekwa. Jedwali hapo juu linatoa mwongozo wa athari za halijoto kali kwa wahusika.
+Halijoto inaweza kubadilika sana kulingana na hali ya hewa, msimu, na mwinuko, kulingana na ulimwengu wa kampeni na mahali ambapo matukio yamewekwa. Jedwali hapo juu linatoa mwongozo wa athari za joto kali kwa wahusika.
 
-Kuvaa nguo zinazofaa humruhusu mhusika kipindi cha neema cha CON yake katika saa kabla ya kukumbwa na hali hiyo, kama inavyoonyeshwa kwenye safu ya Hatari. Baada ya hapo, wanahitaji kutafuta hifadhi au kuanza kupata hasara ya Uchovu (Fatigue). Wahusika waliolowa hubadilisha Kiwango cha Hatari hatua moja kuelekea baridi zaidi. Upepo mwanana au wa wastani pia hubadilisha Kiwango cha Hatari hatua moja kuelekea baridi, wakati upepo mkali sana na dhoruba huibadilisha kwa hatua mbili.
+Kuvaa nguo zinazofaa humpa mhusika muda wa neema wa UVU wake katika saa kabla ya athari za mazingira kuanza, kama inavyoonyeshwa katika safu ya Hatari. Baada ya hatua hii, wanahitaji kutafuta makazi au kuanza kupata upotevu wa Uchovu (Fatigue). Wahusika waliolowa hubadilisha Kiwango MVU Hatari hatua moja kuelekea baridi zaidi. Upepo wa wastani au mkali pia hubadilisha Kiwango MVU Hatari kwa hatua moja kuelekea baridi zaidi, wakati upepo wa mvuvumko na dhoruba huibadilisha kwa hatua mbili.

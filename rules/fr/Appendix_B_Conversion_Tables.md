@@ -1,12 +1,12 @@
-# Annexe : Tables de Conversion
+# Annexe : Tableaux de Conversion
 
 ---
-#### Conversion des Poids et Mesures Impériaux en Métrique
+#### Conversion des Poids et Mesures Impériaux vers le Système Métrique
 
-Pour donner à _Classic Fantasy Imperative_ une présentation plus claire, faciliter la lecture et condenser les descriptions et les tableaux, la gamme _Classic Fantasy Imperative_ se concentrera sur les mesures impériales plutôt que sur les mesures impériales et métriques. Le système impérial a été choisi pour mieux faciliter la conversion du matériel existant, car la plupart des aventures, tapis de combat et cartes utilisés par les autres jeux du genre utilisent ce système. Cependant, pour ceux qui souhaitent utiliser le système métrique, les poids et mesures les plus couramment utilisés ont été convertis en utilisant les tableaux suivants. Comme nous ne traitons généralement pas de créatures, de sorts, etc. du monde réel, nous pouvons accorder une certaine marge de manœuvre sur les poids et mesures que nous avons inventés pour eux. Plutôt que d'utiliser des conversions exactes, il est plus facile d'en utiliser une qui puisse être facilement mémorisée, facilitant ainsi le déroulement du jeu.
+Pour donner à _Classic Fantasy Imperative_ une présentation plus épurée, faciliter la lecture et condenser les descriptions et les tableaux, la gamme _Classic Fantasy Imperative_ se concentrera sur les mesures impériales plutôt que sur les systèmes impérial et métrique. Le système impérial a été choisi pour faciliter la conversion du matériel existant, car la plupart des aventures, tapis de combat et cartes utilisés par les autres jeux du genre utilisent ce système. Cependant, pour ceux qui souhaitent utiliser le système métrique, les poids et mesures les plus couramment utilisés ont été convertis à l'aide des tableaux suivants. Comme nous n'avons généralement pas affaire à des créatures, sorts, etc., du monde réel, nous pouvons nous accorder une certaine marge de manœuvre sur les poids et mesures que nous avons créés. Plutôt que d'utiliser des conversions exactes, il est plus facile d'en utiliser une qui puisse être facilement mémorisée, facilitant ainsi le déroulement du jeu.
 
 ---
-#### Tableau de Conversion Estimative de l'Impérial vers le Métrique
+#### Tableau de Conversion Estimée Impérial vers Métrique
 
 | Impérial | Métrique | Usages courants, exemples et conversions sur tapis de combat |
 | :-: | :-: | :-- |
@@ -22,7 +22,7 @@ Pour donner à _Classic Fantasy Imperative_ une présentation plus claire, facil
 | 40' | 12m | 8 cases de tapis de combat |
 | 45' | 14m | 9 cases de tapis de combat |
 | 50' | 15m | 10 cases de tapis de combat ; vitesse de vol typique d'un dragon |
-| 60' | 18m | 12 cases de tapis de combat ; Infravision typique |
+| 60' | 18m | 12 cases de tapis de combat ; Vision dans le Noir typique |
 | 65' | 20m | 13 cases de tapis de combat |
 | 100' | 30m | 20 cases de tapis de combat |
 | 120' | 36m | |
@@ -48,7 +48,7 @@ Pour donner à _Classic Fantasy Imperative_ une présentation plus claire, facil
 | 2.2lb | 1kg | |
 
 ---
-#### Repères du Tableau des Températures
+#### Repères du Tableau de Température
 
 | Fahrenheit | Celsius | 
 | :-: | :-: |
@@ -78,35 +78,35 @@ Pour donner à _Classic Fantasy Imperative_ une présentation plus claire, facil
 \*\* _Point d'ébullition de l'eau_
 
 ---
-#### Tableau des Vents
+#### Tableau du Vent
 
-| MPH | Type | Effet sur les Compétences | Effet sur le Taux de Déplacement |
+| MPH | Type | Effet sur les Compétences | Effet sur le Déplacement |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Calme | Aucun | Aucun |
-| 11-20 | Brise modérée | Aucun | Aucun |
-| 21-30 | Brise forte | Aucun | Deux tiers |
-| 31-40 | Coup de vent | Difficile | Deux tiers |
-| 41-50 | Vent modéré | Difficile | Moitié |
-| 51-60 | Vent fort | Redoutable | Moitié |
+| 11-20 | Brise Modérée | Aucun | Aucun |
+| 21-30 | Brise Forte | Aucun | Deux tiers |
+| 31-40 | Coup de Vent Léger | Difficile | Deux tiers |
+| 41-50 | Coup de Vent Modéré | Difficile | Moitié |
+| 51-60 | Coup de Vent Fort | Redoutable | Moitié |
 | 60+ | Tempête/Ouragan | Redoutable | Un tiers |
 
-Le vent, surtout lorsqu'il est très fort, peut avoir un effet néfaste sur l'activité. La Puissance (FOR) d'un vent est exprimée en miles par heure de vélocité. Son effet sur les compétences physiques – celles impliquant la FOR ou la DEX – est détaillé dans la colonne Compétence ; ses effets sur le Taux de Déplacement dans la colonne Taux de Déplacement.
-
-_Par exemple, un vent de type "Coup de vent" de FOR 40 réduit la vitesse de marche humaine aux deux tiers et les compétences sont jetées avec un Degré de Difficulté Difficile._
+Le vent, en particulier les vents très violents, peut avoir un effet néfaste sur l'activité. La Puissance (FOR) d'un vent est exprimée en miles par heure de vélocité. Son effet sur les compétences physiques – celles impliquant la FOR ou la DEX – est détaillé dans la colonne Compétence ; les effets sur le Taux de Déplacement dans la colonne Taux de Déplacement.
+ 
+_Par exemple, un Coup de Vent Léger de FOR 40 réduit la vitesse de marche humaine aux deux tiers et les compétences sont jetées avec un degré de difficulté Difficile._
 
 ---
-#### Tableau des Températures
+#### Tableau de Température
 
 | Température (ºF) | Type | Risque |
 | :-: | :-: | :-- |
-| < 2º | Glacial | Chercher une source de chaleur immédiate |
+| < 2º | Glacial | Chercher la chaleur immédiatement |
 | 3-14º | Glacé | 15 minutes |
-| 13-32º | Froid | par heure |
-| 33-50º | Frais | par jour |
+| 13-32º | Froid | Horaire |
+| 33-50º | Frais | Quotidien |
 | 51-68º | Tempéré | - |
 | 69-86º | Chaud | - |
-| > 86º | Très chaud | par heure |
+| > 86º | Caniculaire | Horaire |
 
-La température peut varier considérablement en fonction du climat, de la saison et de l'altitude, selon le monde de la campagne et l'endroit où les scénarios se déroulent. Le tableau ci-dessus fournit une ligne directrice pour les effets des températures extrêmes sur les personnages.
+La température peut varier considérablement en raison du climat, de la saison et de l'altitude, selon le monde de campagne et l'endroit où les scénarios se déroulent. Le tableau ci-dessus fournit une ligne directrice pour les effets des températures extrêmes sur les Personnages.
 
-Porter des vêtements adaptés permet au personnage une période de grâce égale à sa CON en heures avant que l'exposition ne commence, comme indiqué dans la colonne Risque. Après ce point, il doit chercher un abri ou commencer à subir une perte de Fatigue. Les personnages mouillés décalent le taux de risque d'un cran vers le plus froid. Les vents de force coup de vent ou modérée décalent également le taux de risque d'un cran vers le plus froid, tandis que les vents forts et les tempêtes le décalent de deux crans.
+Porter des vêtements adaptés permet à un Personnage une période de grâce égale à sa CON en heures avant que l'exposition ne s'installe, comme indiqué dans la colonne Risque. Après ce point, ils doivent chercher un abri ou commencer à subir une perte de Fatigue. Les Personnages mouillés décalent le Taux de Risque d'un cran vers le plus froid. Les vents légers ou modérés décalent également le Taux de Risque d'un cran vers le plus froid, tandis que les vents forts et les tempêtes le décalent de deux crans.

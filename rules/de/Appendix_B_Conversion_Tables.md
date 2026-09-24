@@ -3,28 +3,28 @@
 ---
 #### Umrechnung von imperialen Gewichten und Maßen in das metrische System
 
-Um _Classic Fantasy Imperative_ eine übersichtlichere Darstellung zu geben, die Lesbarkeit zu verbessern sowie Beschreibungen und Tabellen zu straffen, konzentriert sich die _Classic Fantasy Imperative_-Linie auf imperiale Maßeinheiten anstelle von sowohl imperialen als auch metrischen. Die Entscheidung fiel auf das imperiale System, um die Konvertierung bestehender Materialien zu erleichtern, da die meisten Abenteuer, Kampfmatten und Karten, die von anderen Spielen des Genres verwendet werden, das imperiale System nutzen. Für diejenigen, die jedoch das metrische System verwenden möchten, wurden die am häufigsten verwendeten Gewichte und Maße mithilfe der folgenden Tabellen umgerechnet. Da wir es in der Regel nicht mit realen Kreaturen, Zaubersprüchen usw. zu tun haben, können wir bei den dafür erfundenen Gewichten und Maßen einen gewissen Spielraum gewähren. Anstatt exakte Umrechnungen zu verwenden, ist es einfacher, solche zu nutzen, die leicht zu merken sind, um den Spielablauf zu erleichtern.
+Um _Classic Fantasy Imperative_ eine sauberere Präsentation zu geben, das Lesen zu erleichtern und Beschreibungen sowie Tabellen zu straffen, konzentriert sich die _Classic Fantasy Imperative_-Reihe auf imperiale Maßeinheiten anstatt auf eine Mischung aus imperialen und metrischen Einheiten. Das imperiale System wurde gewählt, um die Umrechnung von vorhandenem Material besser zu erleichtern, da die meisten Abenteuer, Kampfmatten und Karten, die von anderen Spielen des Genres verwendet werden, auf dem imperialen System basieren. Für diejenigen, die das metrische System verwenden möchten, wurden die am häufigsten verwendeten Gewichte und Maße in den folgenden Tabellen umgerechnet. Da wir es normalerweise nicht mit realen Kreaturen, Zaubersprüchen usw. zu tun haben, können wir bei den dafür erfundenen Gewichten und Maßen ein wenig Spielraum gewähren. Anstatt exakte Umrechnungen zu verwenden, ist es einfacher, solche zu verwenden, die man sich leicht merken kann, was den Spielablauf erleichtert.
 
 ---
-#### Umrechnungstabelle: Imperial auf Metrisch (geschätzt)
+#### Tabelle zur geschätzten Umrechnung von imperialen in metrische Einheiten
 
-| Imperial | Metrisch | Übliche Verwendung, Beispiele und Umrechnungen für Kampfmatten |
+| Imperial | Metrisch | Übliche Verwendung, Beispiele und Umrechnung für Kampfmatten |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | 1 Kampfmattenquadrat |
+| 5' | 1.5m | 1 Kampfmatten-Quadrat |
 | 7' | 2m | |
-| 10' | 3m | 2 Kampfmattenquadrate |
-| 15' | 4m | 3 Kampfmattenquadrate; Zwerg, Gnom und Halbling |
-| 20' | 6m | 4 Kampfmattenquadrate; Mensch, Elf, Halbelf und Halb-Ork |
-| 25' | 8m | 5 Kampfmattenquadrate |
-| 30' | 10m | 6 Kampfmattenquadrate |
-| 40' | 12m | 8 Kampfmattenquadrate |
-| 45' | 14m | 9 Kampfmattenquadrate |
-| 50' | 15m | 10 Kampfmattenquadrate; typische Fluggeschwindigkeit eines Drachen |
-| 60' | 18m | 12 Kampfmattenquadrate; typische Infrarotsicht |
-| 65' | 20m | 13 Kampfmattenquadrate |
-| 100' | 30m | 20 Kampfmattenquadrate |
+| 10' | 3m | 2 Kampfmatten-Quadrate |
+| 15' | 4m | 3 Kampfmatten-Quadrate; Zwerg, Gnom und Halbling |
+| 20' | 6m | 4 Kampfmatten-Quadrate; Mensch, Elf, Halbelf und Halb-Ork |
+| 25' | 8m | 5 Kampfmatten-Quadrate |
+| 30' | 10m | 6 Kampfmatten-Quadrate |
+| 40' | 12m | 8 Kampfmatten-Quadrate |
+| 45' | 14m | 9 Kampfmatten-Quadrate |
+| 50' | 15m | 10 Kampfmatten-Quadrate; typische Fluggeschwindigkeit eines Drachen |
+| 60' | 18m | 12 Kampfmatten-Quadrate; typische Dunkelsicht |
+| 65' | 20m | 13 Kampfmatten-Quadrate |
+| 100' | 30m | 20 Kampfmatten-Quadrate |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -80,7 +80,7 @@ Um _Classic Fantasy Imperative_ eine übersichtlichere Darstellung zu geben, die
 ---
 #### Windtabelle
 
-| MPH | Typ | Auswirkung auf Fertigkeiten | Auswirkung auf Bewegung |
+| MPH | Typ | Effekt auf Fertigkeiten | Effekt auf Bewegung |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Windstill | Keine | Keine |
 | 11-20 | Mäßige Brise | Keine | Keine |
@@ -88,18 +88,18 @@ Um _Classic Fantasy Imperative_ eine übersichtlichere Darstellung zu geben, die
 | 31-40 | Leichter Sturm | Schwer | Zwei Drittel |
 | 41-50 | Mäßiger Sturm | Schwer | Hälfte |
 | 51-60 | Starker Sturm | Gewaltig | Hälfte |
-| 60+ | Unwetter/Orkan | Gewaltig | Ein Drittel |
+| 60+ | Orkan | Gewaltig | Ein Drittel |
 
-Wind, insbesondere sehr starker Wind, kann sich negativ auf Aktivitäten auswirken. Die Stärke (STÄ) eines Windes wird in Meilen pro Stunde Geschwindigkeit angegeben. Die Auswirkung auf physische Fertigkeiten – solche, die STÄ oder GES erfordern – ist in der Spalte "Fertigkeit" aufgeführt; Auswirkungen auf die Bewegungsrate in der Spalte "Bewegungsrate".
-
-_Zum Beispiel reduziert ein Leichter Sturm der STÄ 40 die Gehgeschwindigkeit eines Menschen auf zwei Drittel und Fertigkeiten werden mit dem Schwierigkeitsgrad Schwer gewürfelt._
+Wind, insbesondere sehr starker Wind, kann sich nachteilig auf Aktivitäten auswirken. Die Stärke (STÄ) eines Windes wird in Meilen pro Stunde Geschwindigkeit ausgedrückt. Sein Effekt auf körperliche Fertigkeiten – solche, die STÄ oder GES erfordern – wird in der Spalte "Fertigkeiten" detailliert; Effekte auf die Bewegungsrate in der Spalte "Bewegung".
+ 
+_Zum Beispiel reduziert ein Leichter Sturm der Stärke 40 die Laufgeschwindigkeit eines Menschen auf zwei Drittel und Fertigkeiten werden mit dem Schwierigkeitsgrad Schwer gewürfelt._
 
 ---
 #### Temperaturtabelle
 
 | Temperatur (ºF) | Typ | Risiko |
 | :-: | :-: | :-- |
-| < 2º | Glazial | Sofort Wärme aufsuchen |
+| < 2º | Glazial | Sofort Wärme suchen |
 | 3-14º | Gefrierend | 15 Minuten |
 | 13-32º | Kalt | Stündlich |
 | 33-50º | Kühl | Täglich |
@@ -107,6 +107,6 @@ _Zum Beispiel reduziert ein Leichter Sturm der STÄ 40 die Gehgeschwindigkeit ei
 | 69-86º | Warm | - |
 | > 86º | Heiß | Stündlich |
 
-Die Temperatur kann je nach Kampagnenwelt und Ort der Szenarien aufgrund von Klima, Jahreszeit und Höhe drastisch variieren. Die obige Tabelle bietet einen Richtwert für die Auswirkungen extremer Temperaturen auf Charaktere.
+Die Temperatur kann aufgrund von Klima, Jahreszeit und Höhe drastisch variieren, abhängig von der Kampagnenwelt und dem Ort, an dem die Szenarien spielen. Die obige Tabelle bietet einen Richtwert für die Auswirkungen extremer Temperaturen auf Charaktere.
 
-Das Tragen geeigneter Kleidung gewährt einem Charakter eine Gnadenfrist in Stunden, die seinem KON-Wert entspricht, bevor die Exposition einsetzt, wie in der Spalte "Risiko" angegeben. Nach diesem Punkt muss er Schutz suchen oder beginnen, Ermüdung zu erleiden. Nasse Charaktere verschieben die Risikorate um eine Stufe in den kälteren Bereich. Leichte oder mäßige Sturmwindstärken verschieben die Risikorate ebenfalls um eine Stufe nach kälter, während starke Stürme und Unwetter sie um zwei Stufen verschieben.
+Das Tragen geeigneter Kleidung gewährt einem Charakter eine Gnadenfrist von seiner KON in Stunden, bevor die Einwirkung einsetzt, wie in der Spalte "Risiko" angegeben. Nach diesem Zeitpunkt muss er Schutz suchen oder beginnen, Ermüdung zu erleiden. Nasse Charaktere verschieben die Risikorate um eine Stufe in Richtung kälter. Leichte oder mäßige Sturmwindstärken verschieben die Risikorate ebenfalls um eine Stufe in Richtung kälter, während starke Stürme und Orkane sie um zwei Stufen verschieben.

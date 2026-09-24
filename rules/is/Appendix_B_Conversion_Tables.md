@@ -1,30 +1,30 @@
-# Viðauki: Umreiknitöflur
+# Viðauki: Umbreytingartöflur
 
 ---
-#### Umreikningur á breskum mælieiningum yfir í metrakerfið
+#### Umbreyting á breskum mælieiningum yfir í metrakerfi
 
-Til þess að gera _Classic Fantasy Imperative_ snyrtilegra, auðveldara aflestrar og þjappa saman lýsingum og töflum, mun _Classic Fantasy Imperative_ línan einbeita sér að breskum mælieiningum fremur en bæði breskum og metrakerfinu. Breska kerfið var valið til að auðvelda umbreytingu á núverandi efni, þar sem flestar ævintýralýsingar, bardagaborð og kort sem notuð eru í öðrum leikjum af þessari tegund nýta breska kerfið. Hins vegar, fyrir þá sem kjósa að nota metrakerfið, hefur algengustu þyngdar- og lengdareiningum verið breytt með eftirfarandi töflum. Þar sem við erum yfirleitt ekki að fást við verur, galdra og þess háttar úr raunveruleikanum, getum við leyft okkur smá sveigjanleika í þeim mælieiningum sem við höfum búið til fyrir þau. Frekar en að nota nákvæma umreikninga er auðveldara að nota útgáfur sem auðvelt er að muna, sem auðveldar spilun.
+Til að gefa _Classic Fantasy Imperative_ snyrtilegra útlit, auðvelda lestur og þétta lýsingar og töflur, mun _Classic Fantasy Imperative_ línan einblína á breskar mælieiningar fremur en bæði breskar og metrakerfi. Breskar mælieiningar voru valdar til að auðvelda umbreytingu á núverandi efni þar sem flest ævintýri, bardagamottur og kort sem önnur spil í þessum geira nota nýta breska kerfið. Hins vegar, fyrir þá sem vilja nota metrakerfið, hafa algengustu þyngdir og mælieiningar verið umbreyttar með eftirfarandi töflum. Þar sem við erum venjulega ekki að fást við raunverulegar verur, galdra og svo framvegis, getum við leyft okkur smá sveigjanleika í þeim mælieiningum sem við höfum búið til fyrir þær. Í stað þess að nota nákvæmar umbreytingar er auðveldara að nota þær sem auðvelt er að muna, og auðvelda þannig spilunina.
 
 ---
-#### Áætluð tafla: Breskar mælieiningar í metrakerfi
+#### Áætluð umbreytingartafla úr breskum einingum í metrakerfi
 
-| Breskar | Metrakerfi | Algeng notkun, dæmi og umreikningur á bardagaborð |
+| Breskar einingar | Metrakerfi | Algeng notkun, dæmi og umbreytingar á bardagamottum |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | 1 reitur á bardagaborði |
+| 5' | 1.5m | 1 reitur á bardagamottu |
 | 7' | 2m | |
-| 10' | 3m | 2 reitir á bardagaborði |
-| 15' | 4m | 3 reitir á bardagaborði; dvergar, gnómar og hálflingjar |
-| 20' | 6m | 4 reitir á bardagaborði; menn, álfur, hálfálfar og hálforkar |
-| 25' | 8m | 5 reitir á bardagaborði |
-| 30' | 10m | 6 reitir á bardagaborði |
-| 40' | 12m | 8 reitir á bardagaborði |
-| 45' | 14m | 9 reitir á bardagaborði |
-| 50' | 15m | 10 reitir á bardagaborði; dæmigert flugflughraði dreka |
-| 60' | 18m | 12 reitir á bardagaborði; dæmigerð innrauð sjón (Infravision) |
-| 65' | 20m | 13 reitir á bardagaborði |
-| 100' | 30m | 20 reitir á bardagaborði |
+| 10' | 3m | 2 reitir á bardagamottu |
+| 15' | 4m | 3 reitir á bardagamottu; dvergur, gnomi og hálfmennskur |
+| 20' | 6m | 4 reitir á bardagamottu; mannvera, álfur, hálfálfur og hálf-orki |
+| 25' | 8m | 5 reitir á bardagamottu |
+| 30' | 10m | 6 reitir á bardagamottu |
+| 40' | 12m | 8 reitir á bardagamottu |
+| 45' | 14m | 9 reitir á bardagamottu |
+| 50' | 15m | 10 reitir á bardagamottu; dæmigerður flugahraði dreka |
+| 60' | 18m | 12 reitir á bardagamottu; dæmigerð Darkvision |
+| 65' | 20m | 13 reitir á bardagamottu |
+| 100' | 30m | 20 reitir á bardagamottu |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -80,33 +80,33 @@ Til þess að gera _Classic Fantasy Imperative_ snyrtilegra, auðveldara aflestr
 ---
 #### Vindtafla
 
-| MPH (mílur á klst.) | Tegund | Áhrif á hæfni | Áhrif á hreyfingu |
+| MPH | Tegund | Áhrif á hæfni | Áhrif á hreyfingu |
 | :-: | :-- | :-- | :-- |
-| 0-10 | Logn | Engin | Engin |
-| 11-20 | Gola | Engin | Engin |
+| 0-10 | Lynt | Engin | Engin |
+| 11-20 | Hægur vindur | Engin | Engin |
 | 21-30 | Strekkingsvindur | Engin | Tveir þriðju |
 | 31-40 | Hvassviðri | Erfitt | Tveir þriðju |
 | 41-50 | Stormur | Erfitt | Helmingur |
-| 51-60 | Ofsaveður | Viðvaningslegt | Helmingur |
-| 60+ | Fellibylur | Viðvaningslegt | Einn þriðji |
+| 51-60 | Rok | Hrikalegt | Helmingur |
+| 60+ | Óveður/fellibylur | Hrikalegt | Einn þriðji |
 
-Vindur, sérstaklega mjög sterkur vindur, getur haft slæm áhrif á athafnir. Styrkur vinds (STR) er gefinn upp í mílum á klukkustund. Áhrif hans á líkamlega hæfni – þá sem fela í sér STR (styrk) eða DEX (fimleika) – eru útskýrð í „Hæfni“ dálkinum; áhrif á hreyfihraða í „Hreyfing“ dálkinum.
- 
-_Til dæmis minnkar hvassviðri með 40 MPH styrk gönguhraða manneskju niður í tvo þriðju og hæfniskast er framkvæmt með „Erfitt“ erfiðleikastigi._
+Vindur, sérstaklega mjög sterkir vindar, geta haft neikvæð áhrif á athafnir. Styrkur (STY) vinds er gefinn upp í mílum á klukkustund. Áhrif hans á líkamlega hæfni – þá sem fela í sér STY eða LIP – eru útlistuð í dálknum fyrir hæfni; áhrif á hreyfihraða í dálknum fyrir hreyfihraða.
+
+_Til dæmis, hvassviðri með STY 40 minnkar gönguhraða mannveru niður í tvo þriðju og hæfni er rúlluð með Erfiðri (Hard) mótstöðu._
 
 ---
 #### Hitastigstafla
 
 | Hitastig (ºF) | Tegund | Áhætta |
 | :-: | :-: | :-- |
-| < 2º | Ískalt | Leitaðu skjóls strax |
-| 3-14º | Frostmark | 15 mínútur |
-| 13-32º | Kalt | Á klukkutíma fresti |
-| 33-50º | Svalt | Daglega |
-| 51-68º | Milt | - |
+| < 2º | Jökulkalt | Leitaðu skjóls strax |
+| 3-14º | Frostkalt | 15 mínútur |
+| 13-32º | Kalt | Á klukkustundarfresti |
+| 33-50º | Svalur | Daglega |
+| 51-68º | Svalt | - |
 | 69-86º | Hlýtt | - |
-| > 86º | Heitt | Á klukkutíma fresti |
+| > 86º | Heitt | Á klukkustundarfresti |
 
-Hitastig getur verið mjög breytilegt eftir loftslagi, árstíð og hæð yfir sjávarmáli, allt eftir heimi herferðarinnar og hvar atburðarásin á sér stað. Ofangreind tafla gefur viðmiðunarreglur um áhrif öfgafulls hitastigs á persónur.
+Hitastig getur verið mjög breytilegt vegna loftslags, árstíðar og hæðar yfir sjávarmáli, allt eftir heimi herferðarinnar og hvar atburðarásin á sér stað. Ofangreind tafla gefur leiðbeiningar um áhrif öfgafulls hitastigs á persónur.
 
-Sé viðeigandi fatnaður notaður fær persónan frest sem nemur CON (þoli) hennar í klukkustundum áður en útsetning hefst, eins og sýnt er í „Áhætta“ dálkinum. Eftir þann tíma verður hún að leita skjóls eða byrja að tapa þreki (Fatigue). Ef persóna er blaut færist áhættustigið um eitt skref yfir í kaldara. Léttur eða miðlungs hvass vindur færir áhættustigið einnig um eitt skref, á meðan stormar og fellibyljir færa það um tvö skref.
+Notkun viðeigandi fatnaðar veitir persónu aðlögunartíma sem nemur ÞOL hennar í klukkustundum áður en áhrifin gera vart við sig, eins og sýnt er í áhættudálknum. Eftir þann tíma þarf persónan að leita skjóls eða byrja að þjást af þreytu. Rökum persónum versnar áhættustigið um eitt þrep. Létt eða hóflegt hvassviðri breytir einnig áhættustigi um eitt þrep til verri vegar, á meðan rokk og stormar breyta því um tvö þrep.

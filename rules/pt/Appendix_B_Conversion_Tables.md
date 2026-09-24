@@ -1,30 +1,30 @@
 # Apêndice: Tabelas de Conversão
 
 ---
-#### Conversão de Pesos e Medidas Imperiais para Métricos
+#### Conversão de Pesos e Medidas Imperiais para o Sistema Métrico
 
-Para conferir ao _Classic Fantasy Imperative_ uma apresentação mais limpa, facilitar a leitura e condensar descrições e tabelas, a linha _Classic Fantasy Imperative_ focará nas medidas imperiais em vez de ambas. O sistema imperial foi escolhido para facilitar melhor a conversão de material existente, já que a maioria das aventuras, mapas e tabuleiros de batalha (battlemats) utilizados por outros jogos do gênero utilizam o sistema imperial. No entanto, para aqueles que desejam usar o Sistema Métrico, os pesos e medidas mais comumente usados foram convertidos usando as tabelas a seguir. Como não estamos lidando tipicamente com criaturas, magias e outros elementos do mundo real, podemos conceder um pouco de flexibilidade nos pesos e medidas que criamos para eles. Em vez de usar conversões exatas, é mais fácil usar uma que possa ser facilmente memorizada, facilitando assim a jogabilidade.
+Para dar ao _Classic Fantasy Imperative_ uma apresentação mais limpa, facilitar a leitura e condensar descrições e tabelas, a linha _Classic Fantasy Imperative_ focará nas medidas imperiais em vez de ambas. O sistema imperial foi escolhido para facilitar melhor a conversão de material existente, já que a maioria das aventuras, tapetes de batalha e mapas usados por outros jogos do gênero utilizam o sistema imperial. No entanto, para aqueles que desejam usar o sistema métrico, os pesos e medidas mais comumente usados foram convertidos usando as tabelas a seguir. Como normalmente não estamos lidando com criaturas, magias e outras coisas do mundo real, podemos conceder um pouco de flexibilidade nos pesos e medidas que inventamos para elas. Em vez de usar conversões exatas, é mais fácil usar uma que possa ser lembrada facilmente, facilitando assim o jogo.
 
 ---
-#### Tabela de Conversão Estimada: Imperial para Métrico
+#### Tabela de Conversão Estimada de Imperial para Métrico
 
-| Imperial | Métrico | Usos Comuns, Exemplos e Conversões de Battlemat |
+| Imperial | Métrico | Usos Comuns, Exemplos e Conversões de Tapete de Batalha |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | 1 quadrado de battlemat |
+| 5' | 1.5m | 1 quadrado de tapete de batalha |
 | 7' | 2m | |
-| 10' | 3m | 2 quadrados de battlemat |
-| 15' | 4m | 3 quadrados de battlemat; anão, gnomo e halfling |
-| 20' | 6m | 4 quadrados de battlemat; humano, elfo, meio-elfo e meio-orc |
-| 25' | 8m | 5 quadrados de battlemat |
-| 30' | 10m | 6 quadrados de battlemat |
-| 40' | 12m | 8 quadrados de battlemat |
-| 45' | 14m | 9 quadrados de battlemat |
-| 50' | 15m | 10 quadrados de battlemat; velocidade típica de voo de dragão |
-| 60' | 18m | 12 quadrados de battlemat; Infravishão típica |
-| 65' | 20m | 13 quadrados de battlemat |
-| 100' | 30m | 20 quadrados de battlemat |
+| 10' | 3m | 2 quadrados de tapete de batalha |
+| 15' | 4m | 3 quadrados de tapete de batalha; anão, gnomo e halfling |
+| 20' | 6m | 4 quadrados de tapete de batalha; humano, elfo, meio-elfo e meio-orc |
+| 25' | 8m | 5 quadrados de tapete de batalha |
+| 30' | 10m | 6 quadrados de tapete de batalha |
+| 40' | 12m | 8 quadrados de tapete de batalha |
+| 45' | 14m | 9 quadrados de tapete de batalha |
+| 50' | 15m | 10 quadrados de tapete de batalha; velocidade típica de voo de dragão |
+| 60' | 18m | 12 quadrados de tapete de batalha; Visão no Escuro típica |
+| 65' | 20m | 13 quadrados de tapete de batalha |
+| 100' | 30m | 20 quadrados de tapete de batalha |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -48,7 +48,7 @@ Para conferir ao _Classic Fantasy Imperative_ uma apresentação mais limpa, fac
 | 2.2lb | 1kg | |
 
 ---
-#### Benchmarks da Tabela de Temperatura
+#### Referências da Tabela de Temperatura
 
 | Fahrenheit | Celsius | 
 | :-: | :-: |
@@ -90,23 +90,23 @@ Para conferir ao _Classic Fantasy Imperative_ uma apresentação mais limpa, fac
 | 51-60 | Vendaval Forte | Formidável | Metade |
 | 60+ | Tempestade/Furacão | Formidável | Um Terço |
 
-O vento, especialmente ventos muito fortes, pode ter um efeito adverso na atividade. A Força (STR) de um vento é expressa em milhas por hora de velocidade. Seu efeito em perícias físicas – aquelas que envolvem STR ou DEX – é detalhado na coluna Perícias; os efeitos na Taxa de Movimento na coluna Taxa de Movimento.
+O vento, especialmente ventos muito fortes, pode ter um efeito adverso na atividade. A FORÇA (FOR) de um vento é expressa em milhas por hora de velocidade. Seu efeito nas perícias físicas – aquelas que envolvem FOR ou DES – está detalhado na coluna Perícia; os efeitos na Taxa de Movimento estão na coluna Taxa de Movimento.
  
-_Por exemplo, um Vendaval Leve de STR 40 reduz a velocidade de caminhada humana para dois terços e as perícias são roladas com dificuldade Difícil._
+_Por exemplo, um Vendaval Leve de FOR 40 reduz a velocidade de caminhada humana para dois terços e as perícias são roladas com dificuldade Difícil._
 
 ---
 #### Tabela de Temperatura
 
 | Temperatura (ºF) | Tipo | Risco |
 | :-: | :-: | :-- |
-| < 2º | Glacial | Procure Calor Imediato |
+| < 2º | Glacial | Busque Calor Imediato |
 | 3-14º | Congelante | 15 Minutos |
-| 13-32º | Frio | Por Hora |
-| 33-50º | Gélido | Por Dia |
+| 13-32º | Frio | Por hora |
+| 33-50º | Gélido | Por dia |
 | 51-68º | Fresco | - |
 | 69-86º | Quente | - |
-| > 86º | Calor | Por Hora |
+| > 86º | Muito Quente | Por hora |
 
 A temperatura pode variar drasticamente devido ao clima, estação e altitude, dependendo do mundo da campanha e de onde os cenários se passam. A tabela acima fornece uma diretriz para os efeitos da temperatura extrema nos personagens.
 
-Usar roupas adequadas permite ao personagem um período de carência igual ao seu CON em horas antes que a exposição comece a afetá-lo, conforme mostrado na coluna Risco. Após esse ponto, eles precisam procurar abrigo ou começarão a sofrer perda de Fadiga. Personagens molhados alteram a Taxa de Risco um nível para mais frio. Ventos de força de vendaval leve ou moderado também alteram a Taxa de Risco em um nível para mais frio, enquanto vendavais fortes e tempestades alteram em dois níveis.
+Usar roupas adequadas permite ao personagem um período de carência igual à sua CON em horas antes que a exposição comece a surtir efeito, conforme mostrado na coluna Risco. Após este ponto, eles precisam buscar abrigo ou começar a sofrer perda de Fadiga. Personagens molhados alteram a Taxa de Risco em um nível para mais frio. Ventos de força leve ou moderada também alteram a Taxa de Risco em um nível para mais frio, enquanto vendavais fortes e tempestades a alteram em dois níveis.

@@ -1,30 +1,30 @@
-# Apéndice: Tablas de Conversión
+# Apéndice: Tablas de conversión
 
 ---
-#### Conversión de Pesos y Medidas Imperiales al Sistema Métrico
+#### Conversión de pesos y medidas imperiales a métricas
 
-Para dar a _Classic Fantasy Imperative_ una presentación más limpia, facilitar su lectura y condensar las descripciones y tablas, la línea de _Classic Fantasy Imperative_ se centrará en las medidas imperiales en lugar de utilizar tanto el sistema imperial como el métrico. Se eligió el sistema imperial para facilitar mejor la conversión de material existente, ya que la mayoría de las aventuras, tapetes de juego (battlemats) y mapas utilizados por otros juegos del género emplean el sistema imperial. Sin embargo, para aquellos que deseen utilizar el sistema métrico, los pesos y medidas más utilizados se han convertido mediante las siguientes tablas. Debido a que normalmente no tratamos con criaturas, hechizos, etc., del mundo real, podemos permitirnos un poco de flexibilidad en los pesos y medidas que hemos inventado para ellos. En lugar de utilizar conversiones exactas, es más fácil usar una que sea fácil de recordar, facilitando así el juego.
+Para dar a *Classic Fantasy Imperative* una presentación más limpia, hacerla más fácil de leer y condensar descripciones y tablas, la línea *Classic Fantasy Imperative* se centrará en las medidas imperiales en lugar de utilizar tanto el sistema imperial como el métrico. Se eligió el sistema imperial para facilitar la conversión de material existente, ya que la mayoría de las aventuras, tapetes de batalla y mapas utilizados por otros juegos del género emplean dicho sistema. Sin embargo, para aquellos que deseen utilizar el sistema métrico, los pesos y medidas más utilizados se han convertido mediante las siguientes tablas. Debido a que normalmente no tratamos CON criaturas, hechizos, etc., del mundo real, podemos permitirnos cierta flexibilidad en los pesos y medidas que hemos inventado para ellos. En lugar de utilizar conversiones exactas, es más sencillo usar una que sea fácil de recordar, facilitando así el juego.
 
 ---
-#### Tabla de Conversión Estimada de Imperial a Métrico
+#### Tabla de conversión estimada de sistema imperial a métrico
 
-| Imperial | Métrico | Usos comunes, ejemplos y conversiones de tapete de juego |
+| Imperial | Métrico | Usos comunes, ejemplos y conversiones de tapetes de batalla |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | 1 casilla de tapete de juego |
+| 5' | 1.5m | 1 casilla del tapete de batalla |
 | 7' | 2m | |
-| 10' | 3m | 2 casillas de tapete de juego |
-| 15' | 4m | 3 casillas de tapete de juego; enano, gnomo y mediano |
-| 20' | 6m | 4 casillas de tapete de juego; humano, elfo, semielfo y semiorco |
-| 25' | 8m | 5 casillas de tapete de juego |
-| 30' | 10m | 6 casillas de tapete de juego |
-| 40' | 12m | 8 casillas de tapete de juego |
-| 45' | 14m | 9 casillas de tapete de juego |
-| 50' | 15m | 10 casillas de tapete de juego; velocidad de vuelo típica de un dragón |
-| 60' | 18m | 12 casillas de tapete de juego; infravisión típica |
-| 65' | 20m | 13 casillas de tapete de juego |
-| 100' | 30m | 20 casillas de tapete de juego |
+| 10' | 3m | 2 casillas del tapete de batalla |
+| 15' | 4m | 3 casillas del tapete de batalla; enano, gnomo y mediano |
+| 20' | 6m | 4 casillas del tapete de batalla; humano, elfo, semielfo y semiorco |
+| 25' | 8m | 5 casillas del tapete de batalla |
+| 30' | 10m | 6 casillas del tapete de batalla |
+| 40' | 12m | 8 casillas del tapete de batalla |
+| 45' | 14m | 9 casillas del tapete de batalla |
+| 50' | 15m | 10 casillas del tapete de batalla; velocidad de vuelo típica de un dragón |
+| 60' | 18m | 12 casillas del tapete de batalla; Infravisión típica |
+| 65' | 20m | 13 casillas del tapete de batalla |
+| 100' | 30m | 20 casillas del tapete de batalla |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -48,7 +48,7 @@ Para dar a _Classic Fantasy Imperative_ una presentación más limpia, facilitar
 | 2.2lb | 1kg | |
 
 ---
-#### Puntos de Referencia de la Tabla de Temperatura
+#### Puntos de referencia de la tabla de temperatura
 
 | Fahrenheit | Celsius | 
 | :-: | :-: |
@@ -78,7 +78,7 @@ Para dar a _Classic Fantasy Imperative_ una presentación más limpia, facilitar
 \*\* _Punto de ebullición del agua_
 
 ---
-#### Tabla de Viento
+#### Tabla de viento
 
 | MPH | Tipo | Efecto en habilidades | Efecto en movimiento |
 | :-: | :-- | :-- | :-- |
@@ -90,23 +90,23 @@ Para dar a _Classic Fantasy Imperative_ una presentación más limpia, facilitar
 | 51-60 | Vendaval fuerte | Formidable | Mitad |
 | 60+ | Tormenta/Huracán | Formidable | Un tercio |
 
-El viento, especialmente los vientos muy fuertes, puede tener un efecto adverso en la actividad. La fuerza (STR) de un viento se expresa en millas por hora de velocidad. Su efecto sobre las habilidades físicas (aquellas que involucran STR o DES) se detalla en la columna de Habilidad; los efectos sobre la Tasa de Movimiento en la columna de Tasa de Movimiento.
-
-_Por ejemplo, un vendaval ligero de 40 MPH reduce la velocidad al caminar de un humano a dos tercios y las habilidades se lanzan con dificultad Difícil._
+El viento, especialmente los vientos muy fuertes, puede tener un efecto adverso en la actividad. La Fuerza (FUE) de un viento se expresa en millas por hora de velocidad. Su efecto en las habilidades físicas (aquellas que involucran FUE o DES) se detalla en la columna Habilidad; los efectos en la Tasa de movimiento, en la columna Tasa de movimiento.
+ 
+_Por ejemplo, un vendaval ligero de FUE 40 reduce la velocidad de caminata humana a dos tercios y las habilidades se lanzan CON dificultad Difícil._
 
 ---
-#### Tabla de Temperatura
+#### Tabla de temperatura
 
 | Temperatura (ºF) | Tipo | Riesgo |
 | :-: | :-: | :-- |
 | < 2º | Glacial | Buscar calor inmediato |
-| 3-14º | Gélido | 15 minutos |
-| 13-32º | Frío | Cada hora |
-| 33-50º | Fresco | Diario |
-| 51-68º | Templado | - |
-| 69-86º | Cálido | - |
-| > 86º | Caluroso | Cada hora |
+| 3-14º | Gélida | 15 minutos |
+| 13-32º | Fría | Por hora |
+| 33-50º | Fresca | Por día |
+| 51-68º | Templada | - |
+| 69-86º | Cálida | - |
+| > 86º | Calurosa | Por hora |
 
-La temperatura puede variar drásticamente debido al clima, la estación y la elevación, dependiendo del mundo de campaña y dónde se desarrollen los escenarios. La tabla anterior proporciona una guía sobre los efectos de las temperaturas extremas en los personajes.
+La temperatura puede variar drásticamente debido al clima, la estación y la elevación, dependiendo del mundo de campaña y del lugar donde se desarrollen los escenarios. La tabla anterior proporciona una guía para los efectos de la temperatura extrema en los personajes.
 
-Usar ropa adecuada permite al personaje un período de gracia de sus horas de CON antes de que comience la exposición, como se muestra en la columna de Riesgo. Después de este punto, necesitan buscar refugio o comenzarán a sufrir pérdida de Fatiga. Los personajes mojados cambian la tasa de Riesgo un paso hacia condiciones más frías. Los vientos de fuerza de vendaval ligero o moderado también cambian la tasa de Riesgo un paso hacia condiciones más frías, mientras que los vendavales fuertes y las tormentas la cambian dos pasos.
+Llevar ropa adecuada permite a un personaje un periodo de gracia igual a su CON en horas antes de que comience la exposición, como se muestra en la columna Riesgo. Después de este punto, necesitan buscar refugio o comenzarán a sufrir pérdida de Fatiga. Los personajes mojados desplazan la tasa de riesgo un nivel más frío. Los vientos de fuerza de vendaval ligero o moderado también desplazan la tasa de riesgo un nivel más frío, mientras que los vendavales fuertes y las tormentas la desplazan dos niveles.

@@ -1,30 +1,30 @@
-# Ek: Dönüşüm Tabloları
+# Ek: Dönüştürme Tabloları
 
 ---
 #### İngiliz Ölçü Birimlerinden Metrik Sisteme Dönüşüm
 
-_Classic Fantasy Imperative_ oyununa daha temiz bir sunum kazandırmak, okunmasını kolaylaştırmak ve açıklama ile tabloları daha öz hale getirmek için, _Classic Fantasy Imperative_ serisi hem İngiliz hem de Metrik ölçü birimleri yerine İngiliz ölçü birimlerine odaklanacaktır. İngiliz ölçü birimi, türdeki diğer oyunlar tarafından kullanılan çoğu maceranın, savaş haritasının ve planın bu sistemi kullanması nedeniyle mevcut materyallerin dönüştürülmesini kolaylaştırmak için seçilmiştir. Ancak, Metrik Sistemi kullanmak isteyenler için en sık kullanılan ağırlık ve ölçü birimleri aşağıdaki tablolar kullanılarak dönüştürülmüştür. Genellikle gerçek dünyadaki yaratıklar, büyüler vb. ile uğraşmadığımız için, onlar için uydurduğumuz ağırlık ve ölçülerde biraz esneklik tanıyabiliriz. Tam dönüşümleri kullanmak yerine, kolayca hatırlanabilecek bir dönüşüm kullanmak, oyun akışını daha iyi kolaylaştırır.
+_Classic Fantasy Imperative_ ürününün daha temiz bir sunuma sahip olması, okunmasının kolaylaşması ve açıklamalar ile tabloların özetlenmesi amacıyla, _Classic Fantasy Imperative_ hattı hem İngiliz hem de Metrik ölçü birimleri yerine İngiliz ölçü birimlerine odaklanacaktır. İngiliz ölçü birimleri, bu türdeki diğer oyunlar tarafından kullanılan çoğu maceranın, savaş matının ve haritanın İngiliz sistemini kullanması nedeniyle mevcut materyallerin dönüştürülmesini daha kolaylaştırmak için seçilmiştir. Ancak, Metrik Sistemi kullanmak isteyenler için, en yaygın kullanılan ağırlık ve ölçü birimleri aşağıdaki tablolar kullanılarak dönüştürülmüştür. Genellikle gerçek dünyadaki yaratıklar, büyüler vb. ile uğraşmadığımız için, onlar için uydurduğumuz ağırlık ve ölçülerde biraz esneklik tanıyabiliriz. Kesin dönüşümler kullanmak yerine, kolayca hatırlanabilecek olanları kullanmak oyun deneyimini daha iyi kolaylaştırır.
 
 ---
 #### İngiliz Ölçü Biriminden Metrik Sisteme Tahmini Dönüşüm Tablosu
 
-| İngiliz Ölçü Birimi | Metrik | Yaygın Kullanımlar, Örnekler ve Savaş Haritası Dönüşümleri |
+| İngiliz Ölçüsü | Metrik | Yaygın Kullanımlar, Örnekler ve Savaş Matı Dönüşümleri |
 | :-: | :-: | :-- |
 | 1' | 30cm | |
 | 3' | 1m | |
-| 5' | 1.5m | 1 savaş haritası karesi |
+| 5' | 1.5m | 1 savaş matı karesi |
 | 7' | 2m | |
-| 10' | 3m | 2 savaş haritası karesi |
-| 15' | 4m | 3 savaş haritası karesi; cüce, gnom ve buçukluk |
-| 20' | 6m | 4 savaş haritası karesi; insan, elf, yarı-elf ve yarı-ork |
-| 25' | 8m | 5 savaş haritası karesi |
-| 30' | 10m | 6 savaş haritası karesi |
-| 40' | 12m | 8 savaş haritası karesi |
-| 45' | 14m | 9 savaş haritası karesi |
-| 50' | 15m | 10 savaş haritası karesi; tipik ejderha uçuş hızı |
-| 60' | 18m | 12 savaş haritası karesi; tipik Kızılötesi Görüş |
-| 65' | 20m | 13 savaş haritası karesi |
-| 100' | 30m | 20 savaş haritası karesi |
+| 10' | 3m | 2 savaş matı karesi |
+| 15' | 4m | 3 savaş matı karesi; cüce, gnom ve buçukluk |
+| 20' | 6m | 4 savaş matı karesi; insan, elf, yarım-elf ve yarım-ork |
+| 25' | 8m | 5 savaş matı karesi |
+| 30' | 10m | 6 savaş matı karesi |
+| 40' | 12m | 8 savaş matı karesi |
+| 45' | 14m | 9 savaş matı karesi |
+| 50' | 15m | 10 savaş matı karesi; tipik ejderha uçuş hızı |
+| 60' | 18m | 12 savaş matı karesi; tipik Karanlık Görüş (Darkvision) |
+| 65' | 20m | 13 savaş matı karesi |
+| 100' | 30m | 20 savaş matı karesi |
 | 120' | 36m | |
 | 150' | 46m | |
 | 180' | 55m | |
@@ -48,7 +48,7 @@ _Classic Fantasy Imperative_ oyununa daha temiz bir sunum kazandırmak, okunmas�
 | 2.2lb | 1kg | |
 
 ---
-#### Sıcaklık Tablosu Kılavuz Değerleri
+#### Sıcaklık Tablosu Kriterleri
 
 | Fahrenheit | Santigrat | 
 | :-: | :-: |
@@ -80,33 +80,33 @@ _Classic Fantasy Imperative_ oyununa daha temiz bir sunum kazandırmak, okunmas�
 ---
 #### Rüzgar Tablosu
 
-| MPH | Tür | Beceri Üzerindeki Etkisi | Hareket Üzerindeki Etkisi |
+| MPH (Mil/Saat) | Tip | Yeteneklere Etkisi | Hareket Etkisi |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Sakin | Yok | Yok |
-| 11-20 | Ilıman Esinti | Yok | Yok |
+| 11-20 | Ilımlı Esinti | Yok | Yok |
 | 21-30 | Sert Esinti | Yok | Üçte İki |
 | 31-40 | Hafif Fırtına | Zor | Üçte İki |
-| 41-50 | Orta Şiddetli Fırtına | Zor | Yarıya İner |
-| 51-60 | Şiddetli Fırtına | Zorlu | Yarıya İner |
-| 60+ | Fırtına/Kasırga | Zorlu | Üçte Bir |
+| 41-50 | Ilımlı Fırtına | Zor | Yarıya iner |
+| 51-60 | Sert Fırtına | Müthiş | Yarıya iner |
+| 60+ | Fırtına/Kasırga | Müthiş | Üçte Bir |
 
-Rüzgar, özellikle çok şiddetli rüzgarlar, faaliyet üzerinde olumsuz bir etkiye sahip olabilir. Bir rüzgarın Gücü (STR), saatteki mil hızıyla ifade edilir. Fiziksel beceriler (STR veya DEX içerenler) üzerindeki etkisi Beceri sütununda; Hareket Hızı üzerindeki etkileri ise Hareket Hızı sütununda detaylandırılmıştır.
-
-_Örneğin, 40 STR değerindeki bir Hafif Fırtına, insan yürüme hızını üçte ikiye düşürür ve beceriler Zor zorluk derecesinde atılır._
+Rüzgar, özellikle çok sert rüzgarlar, faaliyetler üzerinde olumsuz bir etkiye sahip olabilir. Bir rüzgarın Gücü (GÜÇ), saatteki mil cinsinden hız olarak ifade edilir. Fiziksel yetenekler üzerindeki etkisi – GÜÇ veya ÇEV içerenler – Yetenek sütununda; Hareket Hızı üzerindeki etkileri ise Hareket Hızı sütununda detaylandırılmıştır.
+ 
+_Örneğin, 40 GÜÇ değerindeki hafif bir fırtına, insan yürüme hızını üçte ikiye düşürür ve yetenekler Zor zorluk derecesinde zar atılarak gerçekleştirilir._
 
 ---
 #### Sıcaklık Tablosu
 
-| Sıcaklık (ºF) | Tür | Risk |
+| Sıcaklık (ºF) | Tip | Risk |
 | :-: | :-: | :-- |
-| < 2º | Buzul | Hemen Isınacak Bir Yer Ara |
-| 3-14º | Donma | 15 Dakika |
+| < 2º | Buzul | Acilen Isınmaya Çalış |
+| 3-14º | Dondurucu | 15 Dakika |
 | 13-32º | Soğuk | Saatlik |
 | 33-50º | Serin | Günlük |
-| 51-68º | Ilık | - |
+| 51-68º | Ilıman | - |
 | 69-86º | Sıcak | - |
 | > 86º | Çok Sıcak | Saatlik |
 
-Sıcaklık; kampanya dünyasına ve senaryoların geçtiği yere bağlı olarak iklim, mevsim ve rakım nedeniyle önemli ölçüde değişiklik gösterebilir. Yukarıdaki tablo, aşırı sıcaklıkların karakterler üzerindeki etkileri için bir kılavuz sağlar.
+Sıcaklık; kampanya dünyasına ve senaryoların geçtiği yere bağlı olarak iklim, mevsim ve rakım nedeniyle önemli ölçüde değişebilir. Yukarıdaki tablo, aşırı sıcaklıkların karakterler üzerindeki etkileri için bir kılavuz sağlar.
 
-Uygun kıyafetler giymek, Risk sütununda gösterildiği gibi, bir karakterin maruz kalma durumu başlamadan önce CON değerleri kadar saatlik bir ek süreye sahip olmasını sağlar. Bu noktadan sonra sığınacak bir yer bulmaları veya Yorgunluk kaybı yaşamaya başlamaları gerekir. Islak karakterler, Risk Oranını bir derece daha soğuk seviyeye kaydırır. Hafif veya orta şiddetli fırtına kuvvetindeki rüzgarlar da Risk Oranını bir derece daha soğuk seviyeye kaydırırken, şiddetli fırtınalar ve kasırgalar iki derece kaydırır.
+Uygun kıyafetler giymek, karakterin DAY değeri kadar saatlik bir hoşgörü süresine sahip olmasını sağlar; bu süre Risk sütununda gösterildiği gibi maruziyet başlamadan önceki süredir. Bu noktadan sonra sığınacak bir yer bulmaları gerekir veya Yorgunluk kaybı yaşamaya başlarlar. Islak karakterler, Risk Oranını bir kademe daha soğuğa kaydırır. Hafif veya orta şiddetli fırtına kuvvetindeki rüzgarlar da Risk Oranını bir kademe soğuğa kaydırırken, sert fırtınalar ve kasırgalar bunu iki kademe kaydırır.
