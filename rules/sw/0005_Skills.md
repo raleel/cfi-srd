@@ -1,370 +1,368 @@
-# Sura ya 5: Ustadi
+# Sura la 5: Ustadi
 
-Ustadi umegawanywa katika makundi mawili: Ustadi wa Kawaida na Ustadi wa Kitaalamu. Wahusika wote wana seti moja ya Ustadi wa Kawaida. Ustadi wa Kitaalamu hutofautiana kati ya wahusika binafsi na huakisi utaalamu uliokuzwa ndani ya taaluma na, kwa kiasi fulani, utamaduni wao. Licha ya tofauti hizi, Ustadi wa Kawaida na wa Kitaalamu hufanya kazi kwa njia ile ile.
+Ustadi imegawanywa katika kategoria mbili: ya Kawaida na ya Kitaalamu. Wahusika wote wana seti moja ya Ustadi wa Kawaida. Ustadi wa Kitaalamu hutofautiana kati ya wahusika binafsi na huakisi utaalamu uliokuzwa ndani ya taaluma na, kwa kiwango fulani, utamaduni wao. Licha ya tofauti hizi, Ustadi wa Kawaida na wa Kitaalamu hufanya kazi kwa njia ile ile.
 
 ---
 ## Jinsi Ustadi Unavyofanya Kazi
 
-Ustadi una Thamani ya Msingi inayojengwa kwenye Sifa mbili; au Sifa moja iliyozidishwa kwa mbili. Hakuna kikomo cha juu cha thamani ya ustadi; inaweza kuzidi 100 na, wakati wa mchezo, wahusika wanaweza kutarajia kuona ustadi wao ukifikia viwango hivyo.
+Ustadi una Thamani ya Msingi iliyojengwa juu ya Sifa mbili; au Sifa moja iliyozidishwa kwa mbili. Hakuna kikomo MVU juu kwa thamani ya ustadi; inaweza kuzidi 100 na, wakati wa mchezo, wahusika wanaweza kutarajia kuona ustadi wao ukifikia viwango hivyo.
 
-Wakati wowote mhusika anapopaswa kutatua jaribio, changamoto, au uwezo wa kitaalamu, 1d100 inarushwa na kulinganishwa na thamani ya ustadi:
+Wakati wowote mhusika anapotakiwa kutatua aina fulani ya mtihani, changamoto, au uwezo wa kitaalamu, 1d100 inarushwa na kulinganishwa na thamani ya ustadi:
 
-- Sawa na, au chini ya, thamani ya ustadi inaashiria Mafanikio.
-- Zaidi ya thamani ya ustadi inaashiria Kushindwa.
+- Sawa na, au chini ya, ustadi huashiria Kufanikiwa.
+- Zaidi ya thamani ya ustadi huashiria Kushindwa.
 
-Kuna visa maalum fulani kuhusu Mafanikio na Kushindwa ambavyo vinapaswa kuzingatiwa.
+Kuna visa maalum fulani kuhusu Kufanikiwa na Kushindwa ambavyo vinapaswa kuzingatiwa.
 
-- Rusha yoyote ya 01-05 daima ni Mafanikio.
-- Rusha yoyote ya 96-00 daima ni Kushindwa, bila kujali thamani ya ustadi ni kubwa kiasi gani.
+- Rushi yoyote ya 01-05 daima ni Kufanikiwa.
+- Rushi yoyote ya 96-00 daima ni Kushindwa, bila kujali thamani ya ustadi ni kubwa kiasi gani.
 
-#### Mafanikio ya Muhimu (Criticals) na Kushindwa kwa Aibu (Fumbles)
+#### Mafanikio Makubwa na Makosa (Criticals and Fumbles)
 
-Mafanikio ya Muhimu na Kushindwa kwa Aibu yanawakilisha mafanikio na kushindwa kwa hali ya juu; visa ambapo mhusika amefaulu sana katika jaribio lake au ameshindwa vibaya sana na kabisa.
+Mafanikio Makubwa na Makosa yanawakilisha mafanikio na kushindwa kwa hali ya juu; visa ambavyo mhusika ama amefaulu sana katika jaribio lake au ameshindwa vibaya na kabisa.
 
-- **Mafanikio ya Muhimu** ni sawa na sehemu ya kumi ya thamani ya ustadi (na hii inajumuisha ustadi unaopokea kirekebishaji – kwa hivyo ustadi uliorekebishwa unaweza kuwa na nafasi kubwa au ndogo ya kupata matokeo ya Muhimu). Zungushia sehemu ndogo kwenda juu wakati wa kuhesabu safu ya Mafanikio ya Muhimu. Kwa mfano, ikiwa ustadi utarekebishwa kuwa mara mbili ya thamani yake ya kawaida – kutoka 40% hadi 80% tuseme, basi safu yake ya Muhimu itakuwa rusha ya 08 au chini yake.
-- **Kushindwa kwa Aibu** ni rusha ya 99 au 00. Ustadi wenye thamani ya zaidi ya 100% hushindwa kwa aibu kwenye rusha ya 00 pekee.
+- **Kufanikiwa kwa Kipekee (Critical Success)** ni sawa na sehemu ya kumi ya thamani ya ustadi (na hii inajumuisha ustadi unaopata kirekebishi – hivyo ustadi uliorekebishwa unaweza kuwa na nafasi kubwa au ndogo ya matokeo ya Kipekee). Zungusha sehemu ndogo kwenda juu wakati wa kuhesabu anuwai ya Kufanikiwa kwa Kipekee. Kwa mfano, ikiwa ustadi urekebishwa hadi mara mbili ya thamani yake ya kawaida – kutoka 40% hadi 80% tuseme, basi anuwai yake ya Kipekee itakuwa rushi ya 08 au chini ya hapo.
+- **Kosa (Fumble)** ni rushi ya 99 au 00. Ustadi wenye thamani ya zaidi ya 100% hufanya Kosa tu kwenye rushi ya 00.
 
-Hali kamili ya matokeo ya Muhimu au ya Aibu huachiwa Msimamizi wa Mchezo kuamua. Matokeo yanaweza kuwa ya ajabu au mabaya, kulingana na hali.
+Hali kamili ya matokeo ya Kipekee au Kosa huachwa kwa Mwalimu wa Mchezo kuamua. Matokeo yanaweza kuwa ya ajabu au ya kutisha, kulingana na hali.
 
-#### Mafanikio ya Moja kwa Moja
+#### Kufanikiwa Moja kwa Moja (Automatic Successes)
 
-Kutakuwa na nyakati ambapo rusha dhidi ya ustadi fulani haihitajiki hata kidogo – aidha kwa sababu kazi iliyopo inakamilika kwa urahisi, au kwa sababu, kwa muda na umakini wa kutosha, mafanikio yanahakikishiwa. Kupanda farasi kwa mwendo wa wastani kwenye uwanda wazi ni mfano wa Mafanikio ya Moja kwa Moja ambapo kuwa na ustadi tu katika shughuli hiyo inamaanisha kuwa vitendo vya kawaida havihitaji rusha yoyote ya ustadi ili kuvitatua. Mchongaji anayechonga kipande cha mbao kuwa mguu wa kiti ni mfano mwingine ambapo rusha ya ustadi haihitajiki; inachukua muda kukamilisha, lakini mchongaji anajua jinsi ya kufanya kazi hiyo na, ikiwa hahisi haraka, mafanikio yanahakikishiwa. Mwizi, asiyesumbuliwa, akiwa na zana za kufungulia kufuli, anaweza kufungua kwa mafanikio kufuli rahisi ya sanduku la hazina ikiwa atapewa muda wa kutosha.
+Kutakuwa na nyakati ambapo rushi dhidi ya ustadi fulani si ya lazima – ama kwa sababu kazi inayoshughulikiwa inakamilika kwa urahisi, au kwa sababu, kwa muda wa kutosha na umakini, kufanikiwa kumehakikishwa. Kuendesha farasi kwa mwendo wa polepole katika uwanja wa wazi ni mfano wa Kufanikiwa Moja kwa Moja ambapo kuwa na ustadi katika shughuli hiyo kunamaanisha kuwa vitendo vya moja kwa moja havihitaji rushi yoyote ya ustadi kuvitatua. Mtengenezaji anayechonga kipande MVU mbao kuwa mguu wa kiti ni mfano mwingine ambapo rushi ya ustadi si ya lazima; inachukua muda kukamilisha, lakini fundi anajua jinsi ya kufanya kazi hiyo na, ikiwa hatakimbizwa, kufanikiwa kumehakikishwa. Mwizi, akiwa peke yake, akiwa na vifaa vya kufungulia kufuli, anaweza kufungua kwa mafanikio kufuli rahisi ya sanduku la hazina akipewa muda wa kutosha kufanya hivyo.
 
-#### Kurekebisha Ustadi
+#### Kurekebisha Ustadi (Modifying Skills)
 
-Kuna nyakati ambapo rusha ya ustadi inahitajika, lakini nafasi za kufaulu zinahitaji kurekebishwa ili kuakisi hali zilizopo. Wanyang'anyi wanaokimbia, kwa mfano, wanaweza kuhitaji rusha ya Riadha. Lakini vipi ikiwa mhusika anakimbia kupitia giza au kupitia vichaka vyenye hatari? Katika hali kama hiyo, Msimamizi wa Mchezo anaweza kusisitiza kurekebisha ustadi wa mhusika ili kuakisi hali hizo.
+Kuna nyakati ambapo rushi ya ustadi inahitajika, lakini nafasi za kufanikiwa zinahitaji kurekebishwa ili kuakisi hali zilizopo. Kwa mfano, kuwakimbia majambazi kunaweza kuhitaji rushi ya Riadha. Lakini vipi ikiwa mhusika anakimbia kupitia giza au kupitia vichaka vya hatari? Katika hali kama hiyo, Mwalimu wa Mchezo anaweza kusisitiza kurekebisha ustadi wa mhusika ili kuakisi hali hizo.
 
-_Classic Fantasy Imperative_ hutumia mfululizo wa madaraja ili kubaini jinsi ustadi unavyorekebishwa. Haya ni kama ifuatavyo. Kumbuka kuwa aina mbili za virekebishaji zimetolewa: ya kwanza ni njia chaguo-msingi, na inahusisha hesabu kidogo, lakini inatoa uigaji bora kwa kupima viwango, hasa ambapo asilimia kubwa ya ustadi inahusika. Kirekebishaji Ustadi Kilichorahisishwa ni nyongeza au upunguzaji rahisi, na ni rahisi kutekeleza. Chagua njia inayofaa zaidi kwa mchezo lakini hakikisha kuwa mfumo ule ule wa marekebisho unatumika kila wakati.
+_Classic Fantasy Imperative_ hutumia mfululizo wa madaraja ili kuamua jinsi ustadi unavyorekebishwa. Haya ni kama ifuatavyo. Kumbuka kuwa aina mbili za virekebishi zimetolewa: ya kwanza ni njia chaguo-msingi, na inahusisha hesabu kidogo, lakini inatoa uigaji bora kwa kuongeza viwango, hasa ambapo asilimia za juu za ustadi zinahusika. Kirekebishi MVU Ustadi Kilichorahisishwa ni nyongeza au kutoa rahisi, na ni rahisi kutekeleza. Chagua njia inayofaa mchezo zaidi lakini hakikisha kuwa mfumo ule ule wa kurekebisha unatumiwa kwa uthabiti.
 
-##### Jedwali la Daraja la Ugumu
+##### Jedwali la Daraja la Ugumu (Difficulty Grade Table)
 
-| Daraja la Ugumu | Kirekebishaji Ustadi | Kirekebishaji Ustadi Kilichorahisishwa |
+| Daraja la Ugumu | Kirekebishi MVU Ustadi | Kirekebishi MVU Ustadi Kilichorahisishwa |
 | :-- | :-- | :-- |
-| Otomatiki | Hakuna haja ya kurusha | Hakuna haja ya kurusha |
-| Rahisi Sana | Zidisha thamani ya ustadi mara mbili | +40% |
-| Rahisi | Ongeza nusu ya thamani ya ustadi | +20% |
+| Moja kwa moja | Hakuna haja ya kurusha | Hakuna haja ya kurusha |
+| Rahisi sana | Zidisha thamani ya ustadi mara mbili | +40% |
+| Rahisi | Ongeza nusu nyingine kwenye thamani ya ustadi | +20% |
 | Kawaida | Hakuna marekebisho | Hakuna |
-| Vigumu | Punguza thamani ya ustadi kwa theluthi moja | -20% |
-| Hatari | Punguza thamani ya ustadi kwa nusu | -40% |
-| Kitenzi (Herculean) | Punguza thamani ya ustadi hadi moja ya tano | -80% |
-| Haiwezekani | Hakuna jaribio linaloweza kufanywa | Hakuna jaribio linaloweza kufanywa |
+| Ngumu | Punguza thamani ya ustadi kwa theluthi moja | -20% |
+| Ya kutisha | Punguza thamani ya ustadi kwa nusu | -40% |
+| Nyingi mno | Punguza thamani ya ustadi hadi sehemu ya tano | -80% |
+| Isiyo na tumaini | Hakuna jaribio linaloweza kufanywa | Hakuna jaribio linaloweza kufanywa |
 
-Ambapo mhusika tayari anapata adhabu kutoka kwa hali nyingine, Daraja la Ugumu gumu zaidi ndilo linalopewa kipaumbele.
+Ambapo mhusika tayari anapata adhabu kutoka kwa hali zingine, Daraja la Ugumu gumu zaidi ndilo linalopewa kipaumbele.
 
-Nje ya mapambano, _Classic Fantasy Imperative_ haitoi orodha dhahiri ya hali na changamoto zinazoweza kusababisha marekebisho ya ustadi. Ni aina gani ya marekebisho inayohitajika kwa ustadi au muktadha wowote hatimaye ni juu ya Msimamizi wa Mchezo kuamua, kulingana na uwezo wa wahusika, mtazamo wake kuhusu ugumu wa hali hiyo na mvutano wa kidrama wakati huo.
+Nje ya mapigano, _Classic Fantasy Imperative_ haitoi orodha dhahiri ya hali na changamoto ambazo zinaweza kusababisha marekebisho ya ustadi. Ni aina gani ya marekebisho inayohitajika kwa ustadi au muktadha wowote hatimaye ni juu ya Mwalimu wa Mchezo kuamua, kulingana na uwezo wa wahusika, mtazamo wake wa ugumu wa hali hiyo na mvutano wa kiigizo wakati huo maalum.
 
 ---
 ## Ustadi wa Kawaida
 
-#### Riadha (STR+DEX)
+#### Riadha (Athletics) (NGU+UST)
 
-Riadha inashughulikia shughuli mbalimbali za kimwili, ikiwa ni pamoja na kupanda, kuruka, kutupa, na kukimbia. Rusha za ustadi kwa shughuli hizi zozote hushughulikiwa na rusha moja dhidi ya ustadi wa Riadha. Tazama sehemu ya [Mwendo](0008_Combat.md?id=movement) kwa habari zaidi kuhusu kupanda, kuruka, na kukimbia.
+Riadha inashughulikia anuwai ya shughuli za kimwili, ikiwa ni pamoja na kupanda, kuruka, kutupa, na kukimbia. Rushi za ustadi kwa yoyote ya shughuli hizi hushughulikiwa kwa rushi moja dhidi ya ustadi wa Riadha. Tazama sehemu ya [Movement](0008_Combat.md?id=movement) kwa habari zaidi kuhusu kupanda, kuruka, na kukimbia.
 
-#### Kuendesha Boti (STR+CON)
+#### Uanzo (Boating) (NGU+UVU)
 
-Ustadi wa Kuendesha Boti unashughulikia uendeshaji wa vyombo vidogo vya kuelea kwenye mito, maziwa, na karibu na ufukwe. Vyombo vinavyofaa kwa ujumla ni boti, mitumbwi, au rafu zinazosafiri umbali mfupi na zisizofaa kwa ukali wa bahari kuu. Nyingi huendeshwa kwa kutumia makasia, paddles, boti za kusukuma au matanga rahisi; au zinaweza hata kuvutwa na wanyama. Meli zenye wafanyakazi wengi au zilizoundwa kwa ajili ya safari ndefu za ng'ambo zinashughulikiwa chini ya Ustadi wa Kitaalamu wa [Ubaharia](0005_Skills.md?id=seamanship-intcon).
+Ustadi wa Uanzo unashughulikia uendeshaji wa vyombo vidogo vya kuelea kwenye mito, maziwa, na karibu na ufuo. Vyombo vinavyofaa kwa ujumla ni boti, mitumbwi, au rafu ambazo husafiri umbali mfupi na hazifai kwa ukali wa bahari kuu. Nyingi huendeshwa kwa kutumia makasia, vigongo, mapunda au matanga rahisi; au zinaweza hata kuvutwa na wanyama. Meli zenye wafanyakazi wengi au zilizoundwa kwa ajili ya safari ndefu za ng'ambo zinashughulikiwa chini ya Ustadi wa Kitaalamu wa [Seamanship](0005_Skills.md?id=seamanship-intcon).
 
-#### Nguvu (STR+SIZ)
+#### Nguvu (Brawn) (NGU+UKU)
 
-Nguvu ni matumizi bora ya mbinu wakati wa kutumia nguvu ghafi za kimwili. Ustadi huu unashughulikia vitendo vya nguvu iliyotumika, ikiwa ni pamoja na kunyanyua, kuvunja milango na mashindano ya nguvu.
+Nguvu ni matumizi bora ya mbinu wakati wa kutumia nguvu ghafi ya kimwili. Ustadi huu unashughulikia vitendo vya nguvu iliyotumika, ikiwa ni pamoja na kunyanyua, kuvunja milango na mashindano ya nguvu.
 
-#### Kuficha (DEX+POW)
+#### Kuficha (Conceal) (UST+UWE)
 
-Kuficha ni kinyume cha [Ujanja](0005_Skills.md?id=stealth-dexint), ikiwa ni ufichaji wa vitu vikubwa badala ya mhusika mwenyewe. Kwa mfano, kuficha kunaweza kutumika kuficha gari la farasi nyuma ya mawe, au kufuta alama za magurudumu ya gari ili njia yake isiweze kufuatiliwa. Ustadi huu una matumizi mengi, kuanzia kuficha hati kwenye maktaba hadi kuficha kuwepo kwa mtego au njia ya siri.
+Kuficha ni kinyume MVU [Stealth](0005_Skills.md?id=stealth-dexint), ikiwa ni ufichaji wa vitu vikubwa badala ya mhusika mwenyewe. Kwa mfano, kuficha kunaweza kutumika kuficha gari la vita nyuma ya miamba, au kufuta alama za magurudumu ya gari la vita ili njia yake isiweze kufuatiliwa. Ustadi huu una matumizi mengi, chochote kuanzia kuficha gombo katika maktaba hadi kuficha uwepo wa mtego au njia ya siri.
 
-#### Desturi (INT x2+40)
+#### Mila (Customs) (AKI x2+40)
 
-Desturi inawakilisha ujuzi wa mhusika kuhusu jamii yake mwenyewe, kanuni zake za kijamii, ibada, mila, mwiko, na kadhalika. Ustadi huu hutumika wakati ni muhimu kutafsiri kwa usahihi au kutekeleza desturi yoyote muhimu kijamii au kuishi kwa njia fulani.
+Mila inawakilisha ujuzi wa mhusika kuhusu jumuiya yake mwenyewe, kanuni zake za kijamii, ibada, tamaduni, mwiko, na kadhalika. Ustadi huu hutumika wakati ni muhimu kutafsiri kwa usahihi au kutekeleza mila yoyote muhimu ya kijamii au kuishi kwa njia fulani.
 
-#### Ngoma (DEX+CHA)
+#### Ngoma (Dance) (UST+MVU)
 
-Karibu kila utamaduni hutumia ngoma kwa njia fulani – iwe kama burudani au kama sehemu ya ibada muhimu. Inaweza kuwa ngoma ya kifalme, ngoma ya vita, au seti rahisi ya miondoko inayoambatana na maombi au wimbo wa sherehe. Ustadi wa Ngoma hupima uwezo wa mhusika kusonga kwa mdundo na kwa usahihi (kwa kiwango kinachokubalika) anapoitwa kufanya hivyo.
+Karibu kila utamaduni hutumia ngoma kwa njia fulani – ama kama burudani au kama sehemu ya ibada muhimu. Inaweza kuwa ngoma ya mahakamani, ngoma ya vita, au seti rahisi ya miondoko inayoambatana na maombi au wimbo wa kisherehe. Ustadi wa Ngoma hupima uwezo wa mhusika wa kusogea kwa mdundo na kwa usahihi (kwa kiwango MVU kuridhisha) anapohitajika kufanya hivyo.
 
-#### Udanganyifu (INT+CHA)
+#### Ulaghai (Deceit) (AKI+MVU)
 
-Udanganyifu unashughulikia visa vyote ambapo mhusika anajaribu kuficha ukweli na kutoa udanganyifu wa aina fulani; uongo wa waziwazi, kupotosha mlinzi, au hata kudanganya (au kufanya udanganyifu) wakati wa mchezo wa karata. Ustadi huu pia unashughulikia visa ambapo kuficha hisia au nia za kweli ni muhimu (kujifanya unafuraha wakati umekatishwa tamaa sana labda, au kujaribu kuonekana unakaribisha na wazi wakati kinyume chake ni kweli). Udanganyifu huunda kinyume cha ustadi wa [Ufahamu](0005_Skills.md?id=insight-intpow) na unaweza kutumika kupinga rusha za Ufahamu wakati wengine wanapojaribu kubaini ukweli au nia.
+Ulaghai unashughulikia visa vyote ambapo mhusika anajaribu kuficha ukweli na kutoa udanganyifu wa aina fulani; uongo wa waziwazi, kupotosha mlinzi, au hata kupiga blafu (au kudanganya) wakati wa mchezo wa kadi. Ustadi huu pia unashughulikia visa ambapo kuficha hisia za kweli au nia ni muhimu (kujifanya unafurahi wakati umekatishwa tamaa sana labda, au kujaribu kuonekana unakaribisha na wazi wakati kinyume chake ni kweli). Ulaghai hutengeneza kinyume MVU ustadi wa [Insight](0005_Skills.md?id=insight-intpow) na unaweza kutumika kupinga rushi za Insight wakati wengine wanajaribu kutambua ukweli au nia.
 
-#### Kuendesha (DEX+POW)
+#### Kuendesha (Drive) (UST+UWE)
 
-Kuendesha kunashughulikia udhibiti wa magari ya magurudumu au ya kuvutwa, iwe na mnyama mmoja au zaidi wa kubeba mizigo au njia nyingine za ajabu: kama vile mikokoteni, magari ya farasi, magari ya vita, au sledi. Rusha za Kuendesha zinahitajika wakati mhusika anataka kufanya kitu kisicho cha kawaida na gari – kuvuka ardhi yenye hatari, kuruka vizuizi, na kadhalika. Rusha pia ni muhimu ikiwa gari linaloendeshwa linavutwa na wanyama tofauti na wale ambao dereva amezoea (farasi badala ya ng'ombe, kwa mfano) au kuna wanyama wengi, au wachache waliounganishwa pamoja kuvuta gari.
+Kuendesha kunashughulikia udhibiti wa magari yenye magurudumu au ya kuvutwa, iwe na mnyama mmoja au zaidi wa kubeba mizigo au njia za kisirisiri: kama vile mikokoteni, magari ya farasi, magari ya vita, au sledi. Rushi za Kuendesha zinahitajika wakati mhusika anataka kufanya jambo lisilo la kawaida na gari – kuvuka ardhi ya hatari, kuruka vizuizi, na kadhalika. Rushi pia ni ya lazima ikiwa gari linaloendeshwa linavutwa na wanyama tofauti na ambao dereva amezoea (farasi badala ya ng'ombe, kwa mfano) au kuna wanyama wengi, au wachache waliounganishwa pamoja kuvuta gari.
 
-#### Ustahimilivu (CON x2)
+#### Ustahimilivu (Endurance) (UVU x2)
 
-Ustahimilivu ni uwezo wa mhusika kuvumilia mfadhaiko wa kimwili, maumivu, na uchovu. Hupima uwezo wa mwili kukabiliana na hali zinazoweza kuharibu au kudhoofisha na ni kipimo cha jumla cha ustahimilivu, stamina, na kimetaboliki. Ustahimilivu, kama kinyume chake [Nguvu ya Nia](0005_Skills.md?id=willpower-pow-x2), hutumika kwa njia nyingi, lakini hasa zaidi kupinga athari zinazowezekana za majeraha, ikiwa ni pamoja na sumu hatari na magonjwa.
+Ustahimilivu ni uwezo wa mhusika kuhimili msongo wa kimwili, maumivu, na uchovu. Inapima uwezo wa mwili kushughulikia hali zinazoweza kuharibu au kudhoofisha na ni kipimo MVU jumla MVU uthabiti, stamina, na umetaboli. Ustahimilivu, kama mwenzake [Willpower](0005_Skills.md?id=willpower-pow-x2), hutumiwa kwa njia nyingi, lakini hasa zaidi kupinga athari zinazowezekana za majeraha, ikiwa ni pamoja na sumu hatari na magonjwa.
 
-#### Kukwepa (DEX x2)
+#### Kukwepa (Evade) (UST x2)
 
-Kukwepa hutumika kutoroka kutoka kwa hatari inayozingatiwa na inayokuja na inaweza kutumika dhidi ya Silaha za Masafa (kwa kupiga mbizi ili kupata kifuniko, kwa mfano), kuepuka mitego, kubadilisha umbali wa mapigano, na kwa ujumla kujiondoa kwenye njia ya hatari ya kimwili inayowezekana. Inaweza pia kutumika kama rusha ya upinzani kwa aina fulani za uchawi. Wale wenye Uwezo wa Artful Dodger wanaweza kutumia Kukwepa ili kukwepa shambulio la karibu bila kuanguka chini. Dhidi ya shambulio la masafa, huishia kuanguka chini ikiwa watashindwa rusha hiyo.
+Kukwepa hutumiwa kutoroka kutoka kwa hatari inayoonekana na inayokaribia na inaweza kutumika dhidi ya Silaha za Masafa (kwa kupiga mbizi ili kujificha, kwa mfano), kuepuka mitego, kubadilisha umbali wa mapigano, na kwa ujumla kujitoa nje ya njia ya hatari inayowezekana ya kimwili. Inaweza pia kutumika kama rushi ya upinzani kwa aina fulani za uchawi. Wale wenye Uwezo wa Artful Dodger wanaweza kutumia Kukwepa ili kukwepa shambulio la karibu bila kuanguka kifudifudi. Dhidi ya shambulio la masafa, wao huishia kifudifudi tu ikiwa watashindwa rushi hiyo.
 
-#### Msaada wa Kwanza (DEX+INT)
+#### Msaada wa Kwanza (First Aid) (UST+AKI)
 
-Ustadi wa Msaada wa Kwanza hupima uwezo wa mhusika kutibu majeraha madogo na kuimarisha yale makubwa zaidi. Msaada wa Kwanza unaweza kutumika mara moja tu kwa jeraha maalum na huponya pointi 1d3 za uharibifu.
+Ustadi wa Msaada wa Kwanza hupima uwezo wa mhusika kutibu majeraha madogo na kuimarisha yale makubwa zaidi. Msaada wa Kwanza unaweza kutumika mara moja tu kwa jeraha maalum na huponya 1d3 pointi za uharibifu.
 
-#### Ushawishi (CHA x2)
+#### Ushawishi (Influence) (MVU x2)
 
-Huu ni kipimo cha uwezo wa mhusika kuwashawishi wengine, kupitia karisma ya kibinafsi, katika njia inayotakiwa ya kuishi. Inatumika katika hali mbalimbali; kutoka kubadili mawazo ya mtu, hadi kumpa hongo afisa au mlinzi. Rusha za Ushawishi kwa kawaida Hupingwa na Ufahamu, Nguvu ya Nia, au ustadi mwingine wa Ushawishi, kulingana na hali, na hurekebishwa kulingana na ni kiasi gani mhusika anajaribu kushawishi tabia. Kujaribu kumshawishi rafiki wa karibu akukopeshe farasi wake inaweza kuwa rahisi kiasi. Kumfanya afisa asiyeweza kuhongwa akubali hongo ni vigumu zaidi.
+Hii ni kipimo MVU uwezo wa mhusika kushawishi wengine, kupitia haiba ya kibinafsi, katika njia inayotakiwa ya kuishi. Inatumika katika hali mbalimbali; kutoka kubadili mawazo ya mtu, hadi kumpa rushwa afisa au mlinzi. Rushi za Ushawishi kwa kawaida Hupingwa na Mtazamo (Perception), Nguvu ya Utashi (Willpower), au ustadi mwingine wa Ushawishi, kulingana na hali, na hurekebishwa na kiasi ambacho mhusika anajaribu kushawishi tabia. Kujaribu kumshawishi rafiki wa karibu akukopeshe farasi wake kunaweza kuwa rahisi kiasi. Kumfanya mtumishi wa serikali ambaye kwa kawaida hawezi kuhongwa akubali rushwa ni vigumu zaidi.
 
-#### Ufahamu (INT+POW)
+#### Maarifa (Insight) (AKI+UWE)
 
-Ufahamu ni uwezo wa kusoma au kufafanua kwa njia ya angavu tabia ya mtu mwingine ya maneno na isiyo ya maneno (kama vile lugha ya mwili au namna ya kuongea) ili kuanzisha nia zao na hali ya akili. Ufahamu hutumika kubaini kama mtu anasema uongo (na unaweza Kupingwa na ustadi wa Udanganyifu wa mtu mwingine), au kutabiri jinsi mtu anavyohisi kuhusu hali fulani. Ufahamu unaweza pia kutumika kwa hali na vilevile watu wengine: je, nyumba hiyo ya wageni ni mahali pa shida? Je, wanyang'anyi wanaweza kuwa wanapanga uvamizi katika vilima vya karibu?
+Maarifa ni uwezo wa kusoma au kufafanua kwa angavu tabia ya mwingine ya maneno na isiyo ya maneno (kama vile lugha ya mwili au namna ya kuongea) ili kuanzisha nia zao na hali ya akili. Maarifa hutumika kuamua ikiwa mtu anasema uongo (na inaweza Kupingwa na ustadi wa Ulaghai wa mtu mwingine), au kutabiri jinsi mtu anavyohisi kuhusu hali fulani. Maarifa yanaweza kutumika kwa usawa kwa hali pamoja na watu wengine: je, nyumba hiyo ya tavern ni kimbilio la matatizo? Je, majambazi wanaweza kuwa wanapanga uvamizi katika vilima vilivyo karibu?
 
-#### Eneo (INT x2)
+#### Eneo (Locale) (AKI x2)
 
-Eneo hupima uelewa wa mhusika kuhusu mimea ya mahali hapo, wanyama, ardhi, na hali ya hewa katika eneo ambalo yeye ametumia muda wake mwingi wa maisha, kwa kawaida ndani ya jamii yake. Mhusika anajua mimea ya kawaida, miti, na wanyama, sifa zao na tabia: wapi samaki bora wanaweza kupatikana; mienendo ya viumbe wa porini; wapi pa kupata hifadhi; hali ya hewa inayowezekana kwa msimu, na hatari za kawaida za kikanda. Katika maeneo ya jirani, lakini yasiyofahamika, Eneo linapaswa kufanywa kuwa gumu zaidi kwa daraja moja au zaidi.
+Eneo hupima uelewa wa mhusika wa mimea ya ndani, wanyama, ardhi, na hali ya hewa katika eneo ambako yeye ametumia muda mwingi wa maisha yake, kwa kawaida ndani ya jumuiya yake. Mhusika anajua mimea, miti, na wanyama wa kawaida, sifa zao na tabia: ambapo samaki bora wanaweza kupatikana; mienendo ya viumbe wa porini; wapi pa kupata makazi; hali ya hewa inayowezekana kwa msimu, na hatari za kawaida za kikanda. Katika maeneo ya jirani, lakini yasiyofahamika, Eneo linapaswa kufanywa kuwa gumu zaidi kwa daraja moja au zaidi.
 
-#### Lugha ya Asili (INT+CHA+40)
+#### Lugha ya Asili (Native Tongue) (AKI+MVU+40)
 
-Lugha ya Asili ni uwezo wa kuzungumza na kusoma lugha ya mtu mwenyewe, ile iliyojifunza wakati wa kukua katika utamaduni wa nyumbani. Kwa binadamu, hii ni Lugha ya Kawaida, wakati jamii za nusu-binadamu na nyingine zina lugha zao za asili. Lugha ya Asili hupima matamshi, ufasaha, na kina cha msamiati wa mzungumzaji.
+Lugha ya Asili ni uwezo wa kuzungumza na kusoma lugha ya mtu mwenyewe, ile iliyojifunza wakati wa kukua katika utamaduni wa nyumbani. Kwa wanadamu, hii ni Lugha ya Kawaida, wakati jamii nyingine na jamii nyingine za viumbe kila moja ina lugha zake za asili. Lugha ya Asili hupima ufasaha, ufasaha wa maneno, na kina MVU msamiati wa mzungumzaji.
 
-Tofauti na ustadi mwingine, Lugha ya Asili hairuswi moja kwa moja. Badala yake, inachukuliwa kama uwakilishi tuli wa ufasaha wa jumla, ikizuia kiwango cha mwingiliano wa mazungumzo. Hii inaelezwa kwa undani zaidi chini ya ustadi wa [Lugha](0005_Skills.md?id=language-intcha), lakini wahusika wanaoanza kwa kawaida huanza mchezo wakiwa na ufasaha kamili katika lugha yao ya asili.
+Tofauti na ustadi mwingine, Lugha ya Asili hairusiwi dhidi yake moja kwa moja. Badala yake, inachukuliwa kama uwakilishi tuli wa ufasaha wa jumla, ikizuia kiwango MVU mwingiliano wa mazungumzo. Hii inaelezwa kwa undani zaidi chini ya ustadi wa [Language](0005_Skills.md?id=language-intcha), lakini wahusika wanaoanza kwa kawaida huanza mchezo wakiwa na ufasaha kamili katika lugha yao ya asili.
 
-Ustadi huu unaweza kutumika kwa njia mbili. Kwanza, inaweza kusaidia kuelewa lahaja za watu wa jirani wanaoshiriki msingi wa kawaida wa lugha au asili. Katika hali kama hizi, ustadi hutibiwa kuwa mgumu zaidi kwa angalau daraja moja, ikiathiri uwezekano wa ufasaha wa mhusika. Pili, inaweza kutumika kama ukomo wa ustadi wa maneno unaohitaji ufahamu mzuri wa lugha.
+Ustadi huu unaweza kutumika kwa njia mbili. Kwanza, unaweza kusaidia kuelewa lahaja za watu wa jirani wanaoshiriki msingi wa lugha ya kawaida au asili. Katika visa kama hivyo ustadi unachukuliwa kuwa mgumu zaidi kwa angalau daraja moja, ikiathiri uwezekano wa ufasaha wa mhusika. Pili, inaweza kutumika kama kikomo kwa ustadi wa maneno ambao unahitaji uelewa mzuri wa lugha.
 
-#### Uangalizi (INT+POW)
+#### Mtazamo (Perception) (AKI+UWE)
 
-Uangalizi hutumika kwa ajili ya uchunguzi wa kimya kimya na utambuzi uliojikita; iwe kuwinda kitu maalum, skanning ya jumla ya eneo, au ufahamu rahisi wa mazingira yao. Masharti maalum – giza, kwa mfano – yanaweza kuathiri Daraja la Ugumu la rusha ya ustadi kulingana na hisia kuu zinazotumiwa. Harufu kali inaweza kufanya rusha ya Uangalizi wa kunusa kuwa Rahisi badala ya Kawaida, wakati kujaribu kusikiliza mazungumzo katika nyumba ya wageni yenye kelele na watu wengi kungeifanya rusha hiyo kuwa Vigumu.
+Mtazamo hutumika kwa uchunguzi wa kimya na utambuzi uliolengwa; iwe kuwinda kitu maalum, skani ya jumla ya eneo, au ufahamu rahisi wa mazingira yao. Masharti maalum – giza, kwa mfano – yanaweza kuathiri Daraja la Ugumu la rushi ya ustadi kulingana na hisia kuu zinazotumiwa. Harufu kali inaweza kufanya rushi ya Mtazamo wa kunusa kuwa Rahisi badala ya Kawaida, wakati kujaribu kusikiliza mazungumzo katika tavern yenye watu wengi na kelele kungefanya rushi kuwa Ngumu.
 
-#### Kupanda (DEX+POW)
+#### Kupanda (Ride) (UST+UWE)
 
-Kupanda kunashughulikia uwezo wa kudhibiti na kubaki juu ya viumbe wale waliofunzwa kupandwa. Ustadi huu unaweza kutumika kwa anuwai ya wanyama, kila kitu kutoka punda hadi tembo; hata viumbe wa kuruka au kuogelea kama tai wakubwa au pomboo. Kupanda spishi isiyofahamika daima ni vigumu zaidi kwa Daraja moja la Ugumu; wakati kupanda spishi ya kati tofauti (mpanda farasi juu ya joka, kwa mfano) ni vigumu kwa daraja mbili zaidi. Viumbe wa porini, wasiofugwa hawawezi kupandwa kwa njia ya kujenga hadi wawe wamevunjwa na kufunzwa kuwa wanyama wa kupanda.
+Kupanda kunashughulikia uwezo wa kudhibiti na kubaki umepanda viumbe wale ambao wamefunzwa kupandwa. Ustadi huu unaweza kutumika kwa anuwai ya wanyama, kila kitu kutoka kwa nyumbu hadi tembo; hata viumbe wanaoruka au kuogelea kama tai wakubwa au pomboo. Kupanda spishi isiyofahamika daima ni Daraja moja la Ugumu gumu zaidi; wakati kupanda spishi ya kati tofauti (mpanda farasi kwenye joka, kwa mfano) ni vigumu kwa madaraja mawili. Viumbe wa porini, wasiofugwa hawawezi kupandwa kwa njia yenye tija hadi wawe wamevunjwa na kufunzwa kuwa wanyama wa kupanda.
 
-#### Kuimba (POW+CHA)
+#### Kuimba (Sing) (UWE+MVU)
 
-Kubeba wimbo kunashughulikiwa na Kuimba, kila kitu kutoka nyimbo za monotonous hadi arias tata. Kuimba ni sehemu ya asili ya tamaduni nyingi, chanzo kikuu cha burudani na labda kinachotumiwa katika ibada zake. Nyimbo muhimu zinaweza kutumika kwa uchumba, kuhamasisha askari kabla ya vita, au kusimulia tu tendo la kihistoria. Ustadi unaakisi uwezo wa mtumiaji kudumisha mdundo, kubaki kwenye ufunguo na kukumbuka maneno sahihi.
+Kubeba wimbo kunashughulikiwa na Kuimba, chochote kutoka kwa nyimbo za sauti moja hadi arias tata. Kuimba ni sehemu ya asili ya tamaduni nyingi, chanzo kikuu MVU burudani na labda kutumika katika ibada zake. Nyimbo muhimu zinaweza kutumika kwa ajili ya uchumba, kuhamasisha askari kabla ya vita, au kusimulia tu tendo la kihistoria. Ustadi huu unaakisi uwezo wa mtumiaji wa kudumisha mdundo, kubaki kwenye ufunguo na kukumbuka maneno sahihi.
 
-#### Ujanja (DEX+INT)
+#### Ujambazi (Stealth) (UST+AKI)
 
-Kujificha nje ya macho au kusonga kwa sauti ndogo kunashughulikiwa na ustadi wa Ujanja. Kifuniko na masharti, kama vile giza au kelele kubwa ya chinichini, huboresha daraja la ustadi kulingana na maelezo ya mazingira. Vile vile, hali mbaya, kama vile ukosefu wa kifuniko au usiku wa utulivu itapunguza daraja la ustadi. Hali pia huathiri ugumu wa jaribio. Kwa mfano, shujaa aliyevaa silaha nzito anaweza kujificha kwa urahisi nyuma ya ukuta, mradi asimame bado au asonge polepole sana, wakati kusonga haraka kunaweza kusababisha silaha yake kulia.
+Kujificha nje ya macho ya wazi au kusonga kwa sauti ndogo kunashughulikiwa na ustadi wa Ujambazi. Kifuniko na hali, kama vile giza au kelele kubwa za chinichini, huboresha daraja la ustadi kulingana na maelezo ya mazingira. Vile vile, hali mbaya, kama vile ukosefu wa kifuniko au usiku wa utulivu zitapunguza daraja la ustadi. Mazingira pia huathiri ugumu wa jaribio. Kwa mfano, shujaa aliyevaa silaha nzito anaweza kujificha kwa urahisi nyuma ya ukuta, ikiwa watasimama tuli au kusonga polepole sana, wakati kusonga haraka kunaweza kusababisha silaha zao kulia.
 
-#### Kuogelea (STR+CON)
+#### Kuogelea (Swim) (NGU+UVU)
 
-Bila maendeleo, uwezo wa kuogelea ni mdogo kwa kuweza kupiga mikono na kuweka kichwa cha mtu juu ya maji kwa muda mfupi. Asilimia kubwa za Kuogelea zinaonyesha kuweza kujadiliana na maji ya kina na yenye nguvu zaidi, na hatari ndogo ya kuzama. Kufanya rusha ya Kuogelea hivyo inategemea kabisa masharti. Bahari zenye machafuko, mikondo yenye nguvu, maji meupe, na mawimbi yote hupunguza daraja la ustadi bila kujali mhusika ana mshikamano gani na maji. Tazama sehemu ya [Mwendo](0008_Combat.md?id=movement) kwa habari zaidi kuhusu kuogelea, ikiwa ni pamoja na kuhesabu kasi za kuogelea.
+Bila maendeleo, uwezo wa kuogelea ni mdogo kwa kuweza kupiga maji na kuweka kichwa MVU mtu juu ya maji kwa muda mfupi. Asilimia za juu za Kuogelea huonyesha kuweza kujadiliana na maji ya kina na yenye nguvu zaidi, na hatari ndogo ya kuzama. Kwa hivyo kufanya rushi ya Kuogelea inategemea kabisa hali. Bahari mbaya, mikondo yenye nguvu, maji meupe, na mawimbi ya kurudi nyuma yote hupunguza daraja la ustadi bila kujali mhusika ana mshikamano gani na maji. Tazama sehemu ya [Movement](0008_Combat.md?id=movement) kwa habari zaidi kuhusu kuogelea, ikiwa ni pamoja na kukokotoa kasi za kuogelea.
 
-#### Bila Silaha (STR+DEX)
+#### Bila Silaha (Unarmed) (NGU+UST)
 
-Bila Silaha ni Ustadi wa Mapigano wa ulimwengu wote wa kawaida kwa wahusika wote, ikipima uwezo wa kujilinda bila msaada wa silaha. Ustadi wa Bila Silaha unashughulikia mbinu za mapigano na mieleka zinazojulikana na utamaduni huo.
+Bila Silaha ni Ustadi wa Mapigano wa ulimwengu wote unaofanana kwa wahusika wote, unaopima uwezo wa kujilinda bila msaada wa silaha. Ustadi wa Bila Silaha unashughulikia mbinu za ugomvi na mieleka zinazojulikana na utamaduni huo.
 
-Kwa vile Bila Silaha ni Ustadi wa Mapigano, athari zake za Muhimu na Aibu zimefunikwa na sheria za mapigano, kama ilivyoelezwa katika sura ya [Mapigano](0008_Combat.md).
+Kwa vile Bila Silaha ni Ustadi wa Mapigano, athari zake za Kipekee na Kosa zimefunikwa na sheria za mapigano, kama ilivyoelezwa katika sura ya [Combat](0008_Combat.md).
 
-#### Nguvu ya Nia (POW x2)
+#### Nguvu ya Utashi (Willpower) (UWE x2)
 
-Nguvu ya Nia ni kipimo cha uwezo wa mhusika kuzingatia, kuelekeza nguvu yake ya nia katika mwelekeo fulani, au kuimarisha nafsi yake kwa mshtuko wa akili unaowezekana. Pia ni kipimo cha azimio la kibinafsi. Ustadi hutumika katika kila aina ya hali ambapo uthabiti wa kiakili unahitajika, na hii inajumuisha kupinga uchawi. Ingawa si kipimo cha akili timamu, inaweza kutumika kuvumilia matukio ya kiwewe ambayo yangetikisa hata akili timamu na imara zaidi. Nguvu ya Nia ni kinyume cha kiakili cha [Ustahimilivu](0005_Skills.md?id=endurance-con-x2).
+Nguvu ya Utashi ni kipimo MVU uwezo wa mhusika kuzingatia, kuelekeza nguvu yake ya utashi katika mwelekeo fulani, au kuimarisha psyche yake kwa mshtuko wa kiakili unaowezekana. Pia ni kipimo MVU azimio la kibinafsi. Ustadi huu hutumika katika kila aina ya hali ambapo uthabiti wa kiakili unahitajika, na hii inajumuisha kupinga uchawi. Ingawa si kipimo MVU akili timamu inaweza kutumika kuhimili matukio ya kiwewe ambayo yangetikisa hata akili timamu zaidi na thabiti. Nguvu ya Utashi ndiyo kinyume MVU kiakili MVU [Endurance](0005_Skills.md?id=endurance-con-x2).
 
-Tena, kama Ustahimilivu na Kukwepa, Nguvu ya Nia hutumika mara nyingi katika Majaribio Yanayopingwa. Inapotumika kama jaribio la Kawaida, rusha ya Muhimu ya Nguvu ya Nia inaashiria kuwa mhusika ameimarisha akili na roho yake kwa kiwango ambacho hakuna majaribio zaidi ya kumshawishi, au kutikisa azimio lake, yatafanya kazi. Katika kesi ya kupinga uchawi, Mafanikio ya Muhimu inamaanisha kuwa hakuna tahashiri zaidi za kuathiri kiakili zilizotupwa na mpinzani zina athari yoyote kwa mhusika kwa muda uliosalia wa mkutano huo.
+Tena, kama Ustahimilivu na Kukwepa, Nguvu ya Utashi mara nyingi hutumika katika Majaribio ya Kupingana. Inapotumika kama mtihani wa Kawaida, rushi ya Nguvu ya Utashi ya Kipekee inaashiria kuwa mhusika ameimarisha akili na roho yake kwa kiwango ambacho hakuna majaribio zaidi ya kumshawishi, au kutikisa azimio lake, yatafanya kazi. Katika kesi ya kupinga uchawi, Kufanikiwa kwa Kipekee kunamaanisha kuwa hakuna tahajia zaidi za kuathiri kiakili zilizotupwa na mpinzani zina athari yoyote kwa mhusika kwa muda uliobaki wa mkutano huo.
 
 ---
 ## Ustadi wa Kitaalamu
 
-Ustadi wa Kitaalamu hutofautiana kati ya wahusika na huwakilisha aina maalum zaidi za mafunzo na uzoefu. Baadhi ya Ustadi wa Kitaalamu hukusanywa kupitia asili ya kitamaduni na Darasa la mhusika, kama jina linavyopendekeza. Ingawa hutofautiana kati ya wahusika wao hufanya kazi kwa njia ile ile kama Ustadi wa Kawaida.
+Ustadi wa Kitaalamu hutofautiana kati ya wahusika na huwakilisha aina maalum zaidi za mafunzo na uzoefu. Baadhi ya Ustadi wa Kitaalamu hukusanywa kupitia usuli wa kitamaduni na Darasa la mhusika, kama jina linavyopendekeza. Ingawa hutofautiana kati ya wahusika hufanya kazi kwa njia ile ile kama Ustadi wa Kawaida.
 
-Ustadi fulani wa kichawi pia huainishwa kama Ustadi wa Kitaalamu: Kuelekeza na Ibada ni ustadi mbili zinazohusiana na uchawi wa Kimungu kwa mfano. Hizi zinaelezwa kwa ufupi tu hapa. Kwa maelezo zaidi rejelea sehemu husika ya sura ya [Uchawi](0009_Magic.md).
+Ustadi fulani wa kichawi pia huainishwa kama Ustadi wa Kitaalamu: Kuelekeza (Channeling) na Ibada (Devotion) ndiyo ustadi miwili inayohusishwa na uchawi wa Kimungu kwa mfano. Hii inaelezwa kwa ufupi tu hapa. Kwa maelezo zaidi rejelea sehemu husika ya sura ya [Magic](0009_Magic.md).
 
-#### Uigizaji (CHA x2)
+#### Kuigiza (Acting) (MVU x2)
 
-Uigizaji unasimamia sanaa ya kuweza kuiga na kufikisha mhusika tofauti kabisa, iwe katika maonyesho ya jukwaani au katika hali ya kijamii. Muigizaji anaonyesha utu na mienendo tofauti na yake mwenyewe kwa njia ya kushawishi. Pamoja na ustadi wa Kujificha na Udanganyifu, hii ni njia yenye nguvu ya kuwa mtu mwingine kabisa.
+Kuigiza kunatawala sanaa ya kuweza kuiga na kufikisha mhusika tofauti kabisa, iwe katika utendaji wa jukwaani au katika hali ya kijamii. Muigizaji huonyesha utu na mienendo tofauti na yake mwenyewe kwa njia ya kusadikisha. Pamoja na ustadi wa Kujificha na Ulaghai, hii ni njia yenye nguvu ya kuwa mtu mwingine kabisa.
 
-#### Acrobatic (STR+DEX)
+#### Akrobatiki (Acrobatics) (NGU+UST)
 
-Acrobatic inashughulikia vitendo vya usawa, mazoezi ya viungo, kurusha vitu, na tumbling. Ustadi huu unaweza kutumika kumvutia hadhira, lakini pia kusaidia kupunguza uharibifu kutokana na kuanguka. Kwa rusha iliyofaulu, mhusika anaweza kusonga kwa kasi kamili na kwa usalama kwenye uso usio thabiti au mwembamba. Ikiwa unajaribu kupunguza uharibifu kutokana na kuanguka kusikotarajiwa, rusha ya Acrobatic iliyofaulu hupunguza uharibifu wowote uliopatikana kwa nusu. Kwa kuongezea, ikiwa rusha imefaulu na mhusika hapati Jeraha zito au Kubwa kutokana na kuanguka, mhusika anatua kwa usalama kiasi na haanguki chini.
+Akrobatiki inashughulikia vitendo vya usawa, mazoezi ya viungo, kurusha vitu hewani, na kupinduka. Ustadi huu unaweza kutumika kuvutia hadhira, lakini pia kusaidia kupunguza uharibifu kutokana na kuanguka. Kwa rushi ya mafanikio, mhusika anaweza kusonga kwa kasi kamili na kwa uhakika kwenye uso usio thabiti au mwembamba. Ikiwa unajaribu kupunguza uharibifu kutokana na kuanguka kusikotarajiwa, rushi ya Akrobatiki ya mafanikio hugawanya uharibifu wowote uliopatikana kwa nusu. Kwa kuongezea, ikiwa rushi imefanikiwa na mhusika hapati Jeraha zito au Kubwa kutokana na kuanguka, mhusika anatua kwa usalama kiasi na hayuko kifudifudi.
 
-Acrobatic inaweza kubadilishwa kwa ajili ya Kukwepa ikiwa hali inahalalisha. Faida ya hii ni kwamba mhusika hurejesha msimamo wake moja kwa moja badala ya kuanguka chini.
+Akrobatiki inaweza kubadilishwa kwa ajili ya Kukwepa ikiwa hali inahalalisha hivyo. Faida ya hii ni kwamba mhusika hurejesha miguu yake moja kwa moja badala ya kufanywa kuwa kifudifudi.
 
-Acrobatic pia hutumika kama msingi wa uwezo wa [Vaulting](0003_Classes.md?id=rank-1-3) wa Kiwango cha 1 cha Mwizi.
+Akrobatiki pia hutumika kama msingi wa uwezo wa [Vaulting](0003_Classes.md?id=rank-1-3) wa Daraja la 1 la Mwizi.
 
-#### Kushughulikia Wanyama (POW+CHA)
+#### Kushughulikia Wanyama (Animal Handling) (UWE+MVU)
 
-Ustadi huu unatumika kwa kazi kadhaa, ikiwa ni pamoja na kujaribu kutuliza mnyama mwenye uadui au kufunza mnyama wa kufugwa mbinu fulani, kama vile kumfundisha mbwa kuketi, kuchota, kukaa, au kufuata; farasi wanaweza kuvunjwa kwa mpanda farasi na kadhalika. Ikiwa inatumiwa kujaribu kutuliza mnyama wa porini au mwenye uadui, mafanikio yatamfukuza. Ikiwa ana njaa au ana watoto, hata hivyo, rusha hii ni vigumu zaidi kwa daraja mbili. Kumpa mnyama mwenye njaa chakula kunaweza kufanya rusha kuwa rahisi kwa Daraja moja au mbili za Ugumu au kunaweza kumfanya mnyama aanze kumfuata mhusika ili kupata zaidi, kulingana na hali.
+Ustadi huu hutumikia kazi kadhaa, ikiwa ni pamoja na kujaribu kutuliza mnyama mwenye uadui au kufunza mnyama wa kufugwa mbinu fulani, kama vile kufundisha mbwa kukaa, kuleta, kukaa, au kufuata; farasi wanaweza kuvunjwa kwa mpanda farasi na kadhalika. Ikiwa inatumiwa kujaribu kutuliza mnyama wa porini au mwenye uadui, mafanikio yatamfukuza. Ikiwa ana njaa au ana watoto waliopo hata hivyo, rushi hii ni vigumu zaidi kwa madaraja mawili. Kumpa mnyama mwenye njaa chakula kunaweza kufanya rushi kuwa Rahisi kwa Daraja la Ugumu moja au mbili au kunaweza kumfanya mnyama aanze kumfuata mhusika ili kupata zaidi, kulingana na hali.
 
-#### Utoaji wa Arcane (INT+POW)
+#### Utabiri wa Kichawi (Arcane Casting) (AKI+UWE)
 
-Utoaji wa Arcane ni ustadi wa kichawi muhimu kwa Uchawi wa Arcane. Ni uwezo wa mtumiaji wa uchawi kutupa kwa mafanikio tahashiri zilizokaririwa hapo awali kutoka kwa kitabu cha tahashiri au hati. Pia inawakilisha mtumiaji wa uchawi kupata hali sahihi ya akili ya kutupa tahashiri, kuambatana na ishara na maneno na kadhalika. Kuongezeka kwa ustadi katika ustadi huu pia kunaboresha Nguvu ya mwisho ya tahashiri yoyote iliyotupwa nayo.
+Utabiri wa Kichawi ni ustadi wa kichawi muhimu kwa Uchawi wa Arcane. Ni uwezo wa mtumiaji wa uchawi kufanikiwa kutupa tahajia zilizokaririwa hapo awali kutoka kwa kitabu MVU tahajia au gombo. Pia inawakilisha mtumiaji wa uchawi kupata hali sahihi ya kiakili ya kutupa tahajia, kuambatana na ishara na maombi na kadhalika. Kuongeza uwezo katika ustadi huu pia kunaboresha Nguvu ya mwisho ya tahajia yoyote iliyotupwa nayo.#### Maarifa ya Kifumbo (AKI x2)
 
-#### Maarifa ya Arcane (INT x2)
+Kama Uchawi wa Kifumbo, ujuzi huu wa kichawi ni muhimu kwa Uchawi wa Kifumbo. Unawakilisha maarifa ya kweli ya tahajia aliyokusanya mchawi, na hutumika wakati wa kujaribu kujifunza tahajia mpya, kuzinakili kwenye kitabu MVU tahajia, kuunda hati za uchawi, kutambua tahajia wakati inapotupwa, na kadhalika. Pia huamua idadi ya tahajia za kuanzia ambazo mchawi anaweza kuwa nazo - jambo hili limefafanuliwa zaidi katika sehemu ya [Muundo wa Nafasi](0003_Classes.md?id=rank-structure-2) ya darasa la Mchawi.
 
-Kama Utoaji wa Arcane, ustadi huu wa kichawi ni muhimu kwa Uchawi wa Arcane. Inawakilisha ujuzi halisi wa tahashiri uliokusanywa na mchawi, na hutumika wakati wa kujaribu kujifunza tahashiri mpya, kuzinakili kwenye kitabu cha tahashiri, kuunda hati, kutambua tahashiri inapotupwa, na kadhalika. Pia huamua idadi ya tahashiri za kuanzia ambazo mtumiaji anaweza kuwa nazo - inayoelezwa kwa undani zaidi katika sehemu ya [Muundo wa Kiwango](0003_Classes.md?id=rank-structure-2) ya darasa la Mchawi.
+Maarifa ya Kifumbo hayazuiliki kwa watumiaji wa Uchawi wa Kifumbo pekee. Yanaweza kuchukuliwa na wale wanaotamani tu kusoma mambo ya siri hata kama hawafanyi mazoezi ya Uchawi wa Kifumbo kikamilifu.
 
-Maarifa ya Arcane hayazuiliwi tu kwa watumiaji wa Arcane. Inaweza kupitishwa na wale wanaotaka tu kusoma yale yaliyofichika hata kama hawatekelezi Uchawi wa Arcane.
+#### Sanaa (UWE+MVU)
 
-#### Sanaa (POW+CHA)
+Kuna aina nyingi maalum za sanaa. Kuanzia uchoraji hadi ushairi; fasihi hadi uchongaji. Mhusika huchagua utaalamu wa Sanaa anapochukua ujuzi huu - kwa mfano, Sanaa (Uchoraji). Aina za Sanaa zinazofuata huendelezwa kando. Urushaji wa kete hufanywa wakati wowote mhusika anapopaswa kuvutia au kushawishi kupitia njia yake ya kisanaa.
 
-Kuna aina nyingi maalum za sanaa. Uchoraji hadi ushairi; fasihi hadi uchongaji. Mhusika huchagua utaalamu wa Sanaa wakati wa kuchukua ustadi huu - k.m. Sanaa (Uchoraji). Aina za Sanaa zinazofuata huendelezwa kando. Rusha hufanywa wakati wowote mhusika anapopaswa kuvutia au kushawishi kupitia kati yake ya kisanii.
+#### Usimamizi (AKI x2)
 
-#### Urasimu (INT x2)
+Uelewa wa taratibu za kiutawala, kumbukumbu, na mikataba isiyoandikwa inashughulikiwa na ujuzi wa Usimamizi. Hutumika kuingiliana na maafisa au kugundua taarifa muhimu za kiraia. Kulingana na usasa wa utamaduni wao, wasimamizi si lazima wawe wajuzi wa kusoma na kuandika. Hata hivyo, ujuzi wao wa Usimamizi hauwezi kuzidi alama ya ujuzi wa Lugha au Kusoma na Kuandika wanaoutumia kazini. Wakati wowote kanuni ngumu au mazingira ya kiutawala yanapohitaji kupitiwa, urushaji wa kete wa Usimamizi ni wa lazima.
 
-Kuelewa taratibu za utawala, rekodi, na kanuni zisizotajwa kunashughulikiwa na ustadi wa Urasimu. Hutumika kuingiliana na maafisa au kugundua habari muhimu za kiraia. Kulingana na kisasa cha utamaduni wao, warasimu hawahitaji lazima kujua kusoma na kuandika. Hata hivyo, ustadi wao wa Urasimu hauwezi kuzidi alama ya ustadi wa Lugha au Kusoma na Kuandika wanaofanyia kazi. Wakati wowote red-tape au mandhari ya utawala yanapohitaji kupitiwa, rusha ya Urasimu ni muhimu.
+#### Kuongoza (AKI+MVU)
 
-#### Kuelekeza (INT+CHA)
+Kuongoza ni ujuzi wa kichawi unaotumika kuita na kuongoza nguvu za miungu. Kuongeza uwezo katika ujuzi huu pia kunaboresha Ukali wa mwisho wa tahajia yoyote inayotupwa nao.
 
-Kuelekeza ni ustadi wa kichawi unaotumika kuita na kuendesha nguvu za miungu. Kuongezeka kwa ustadi katika ustadi huu pia kunaboresha Nguvu ya mwisho ya tahashiri yoyote iliyotupwa nayo.
+#### Biashara (AKI+MVU)
 
-#### Biashara (INT+CHA)
+Biashara hutumika kutathmini thamani ya bidhaa na bidhaa za biashara na kuziuza kwa bei nzuri iwezekanavyo. Pia hutumika kuelewa utata wa miamala ya kibiashara pamoja na kupata faida. Matumizi mengine ni katika kutafuta njia bora ya kuondoa bidhaa zilizoibiwa na haramu – tena kwa bei nzuri iwezekanavyo. Biashara hutumika waziwazi wakati wa kufanya biashara na inaweza KUPINGWA na ujuzi wa Biashara wa mpinzani au Nguvu ya Utashi, ikionyesha majaribio ya upande mwingine ya kuendeleza mpango huo kwa faida yao. Pia hutumika kuhukumu thamani ya soko ya bidhaa, kupata wazo la bei, na mahali ambapo itafaa zaidi kufanyiwa biashara.
 
-Biashara hutumika kutathmini thamani ya bidhaa na bidhaa na kuzifanyia biashara kwa bei bora zaidi inayowezekana. Pia hutumika kuelewa ugumu wa miamala ya biashara pamoja na kupata faida. Matumizi mengine ni katika kutafuta njia bora ya kuondoa bidhaa zilizoibwa na zisizo halali – tena kwa bei bora zaidi inayowezekana. Biashara hutumika dhahiri wakati wa kufanya biashara na inaweza Kupingwa na ustadi wa Biashara wa mpinzani au Nguvu ya Nia, ikionyesha majaribio ya upande mwingine ya kuendeleza mpango kwa faida yao. Pia hutumika kuhukumu thamani ya soko ya bidhaa, kupata wazo la bei, na wapi itafanyiwa biashara vyema.
+#### Adabu (AKI+MVU)
 
-#### Uungwana (INT+CHA)
+Ujuzi huu unahusu kuelewa jinsi ya kutenda ipasavyo katika hali ya kijamii au rasmi: njia za kuwasiliana, matambiko, na mienendo ya tabia, na kadhalika. Inajumuisha kila kitu kuanzia nani wa kumsujudia na wakati gani, hadi kiasi gani MVU kuinama; kuanzia wakati wa kutumia cheo fulani hadi wakati ambapo inafaa kutenda kwa njia isiyo rasmi.
 
-Ustadi huu unashughulikia kuelewa jinsi ya kutenda ipasavyo katika hali ya kijamii au rasmi: njia za kuongea, ibada, na kanuni za tabia, na kadhalika. Inajumuisha kila kitu kutoka kwa nani wa kumsujudia na lini, hadi chini kiasi gani; kutoka lini ya kutumia jina maalum hadi lini inafaa kutenda isivyo rasmi.
+#### Ufundi (UST+AKI)
 
-#### Ufundi (DEX+INT)
+Kila Ufundi ni aina maalum, kwa mfano, Ufundi (Ufinyanzi), na kuna ufundi mwingi kama zilivyo taaluma zao. Kama Sanaa, Ufundi hutumika kuunda kitu kinachokusudiwa. Inachukua muda gani inategemea kabisa asili ya bidhaa: kusuka zulia huchukua muda mrefu kuliko kufinyanga chungu, kwa mfano, lakini muda si lazima uwe sababu muhimu zaidi: ni ujuzi wa fundi, ubora wa rasilimali, na umakini kwa undani.
 
-Kila Ufundi ni aina maalum, k.m. Ufundi (Ufinyanzi), na kuna ufundi nyingi kama kuna taaluma zao. Kama Sanaa, Ufundi hutumika kuunda kitu husika. Muda unaochukua unategemea kabisa asili ya bidhaa: kusuka zulia huchukua muda mrefu zaidi kuliko kutupa chungu, kwa mfano, lakini muda si lazima kuwa jambo muhimu zaidi: ni ustadi wa fundi, ubora wa rasilimali na umakini kwa maelezo.
+#### Utamaduni (AKI x2)
 
-#### Utamaduni (INT x2)
+Utamaduni ni aina maalum zaidi ya Ujuzi wa Kawaida wa Mila, inayohusiana badala yake na jamii za kigeni kwa mhusika. Kila ujuzi wa Utamaduni lazima upewe taifa au jamii fulani ambayo inahusika. Kimekaniki hufanya kazi kwa njia sawa na ujuzi wa Mila.
 
-Utamaduni ni aina maalum zaidi ya Ustadi wa Kawaida wa Desturi, inayohusiana badala yake na jamii za kigeni kwa ile ya mhusika. Kila ustadi wa Utamaduni lazima upewe taifa au jamii fulani ambayo inatumika. Kiufundi inafanya kazi kwa njia ile ile kama ustadi wa Desturi.
+#### Ibada (UWE+MVU)
 
-#### Ibada (POW+CHA)
+Ibada ni ujuzi wa kichawi unaoakisi kujitolea kwa kasisi katika utumishi wa mungu. Haipimi tu kina MVU ibada kwa mungu, bali pia inadhibiti Ukubwa wa tahajia zozote za Kimungu zinazoitwa na mhusika. Zaidi ya hayo, ujuzi huo unaweza kuashiria hadhi ya mtumiaji wa Uchawi wa Kimungu ndani ya shirika la kidini.
 
-Ibada ni ustadi wa kichawi unaoakisi dhamira ya kasisi kwa huduma ya uungu. Haipimi tu kina cha ibada kwa mungu, bali pia inatawala Ukubwa wa tahashiri yoyote ya Kimungu inayotumiwa na mhusika. Kwa kuongezea, ustadi unaweza kuonyesha hadhi ya mtumiaji wa Kimungu ndani ya shirika la kidini.
+Ibada haizuiliki kwa watumiaji wa Uchawi wa Kimungu pekee. Inaweza kuchukuliwa na wale wanaotamani tu kuonyesha heshima kwa miungu hata kama hawafanyi mazoezi ya Uchawi wa Kimungu kikamilifu.
 
-Ibada haizuiliwi tu kwa watumiaji wa Kimungu. Inaweza kupitishwa na wale wanaotaka tu kuonyesha heshima kwa miungu hata kama hawatekelezi kikamilifu uchawi wa Kimungu.
+#### Uigaji (AKI+MVU)
 
-#### Kujificha (INT+CHA)
+Kutekeleza uigaji wa kusadikisha, kwa kutumia vifaa vinavyofaa (mavazi, vipodozi, wigi, au vipande vya nywele), inashughulikiwa na ujuzi wa Uigaji. Kuunda uigaji kunahitaji muda na umakini kwa undani, pamoja na upatikanaji wa vifaa sahihi ili kuifanya iwe ya kusadikisha. Ikiwa baadhi, au vipengele vyote hivi havipo basi Kiwango MVU Ugumu MVU urushaji wa kete wa Uigaji hufanywa kuwa kigumu zaidi kwa hatua moja au zaidi.
 
-Kufanya ajificha ya kushawishi, kwa kutumia vifaa vinavyofaa (mavazi, vipodozi, wigi, au vipande vya nywele), inashughulikiwa na ustadi wa Kujificha. Kuunda ajificha kunahitaji muda na umakini kwa maelezo, pamoja na ufikiaji wa vifaa sahihi ili kuifanya iwe ya kushawishi. Ikiwa baadhi, au yote, ya vipengele hivi hayapo basi Daraja la Ugumu la rusha ya Kujificha hufanywa kuwa gumu zaidi kwa hatua moja au zaidi.
+#### Uhandisi (AKI x2)
 
-#### Uhandisi (INT x2)
+Ubunifu na ujenzi wa miundo mikubwa, kuanzia nyumba hadi madaraja, malango hadi mashine za kuzingira, ni katika mamlaka ya ujuzi wa Uhandisi. Urushaji wa kete ni muhimu wakati wa kupanga miradi mikubwa ili kuhakikisha ujenzi sahihi lakini pia hufanywa wakati mhandisi anapotaka kutathmini uimara wa muundo kwa sababu yoyote ile (hali ya ukarabati au sehemu dhaifu, kwa mfano).
 
-Ubunifu na ujenzi wa miundo mikubwa, kutoka nyumba hadi madaraja, milango hadi injini za kuzingira, ni katika mamlaka ya ustadi wa Uhandisi. Rusha ni muhimu wakati wa kupanga miradi mikubwa ili kuhakikisha ujenzi sahihi lakini pia hufanywa wakati mhandisi anapotaka kutathmini uadilifu wa muundo kwa sababu yoyote ile (hali ya ukarabati au sehemu dhaifu, kwa mfano).
+#### Kamari (AKI+UWE)
 
-#### Kamari (INT+POW)
+Ujuzi wa Kamari hupima uwezo wa mhusika katika michezo ya bahati nasibu na hasa pale pesa zinapowekwa dau kwenye matokeo. Hutumika kutathmini uwezekano wa kufaulu au kushindwa au kuona wakati mtu anapocheza kwa hila. Ujuzi unaweza kutumika kwa njia ya kupingana au isiyo ya kupingana, kulingana na hali. Kutumia usiku katika pango la kamari lisilojulikana kunaweza kuhitaji tu jaribio la moja kwa moja, ambapo mchezo wa kete wa dau kubwa unaohusisha watu mashuhuri unaweza kuhitaji Mizunguko kadhaa ya Urushaji wa Kete za Kupingana.
 
-Ustadi wa Kamari hupima uwezo wa mhusika katika michezo ya kubahatisha na hasa ambapo pesa zimewekwa kwenye matokeo. Hutumika kutathmini uwezekano wa mafanikio au kushindwa au kuona wakati mtu anadanganya. Ustadi huu unaweza kutumika kwa njia inayopingwa au isiyopingwa, kulingana na hali. Kutumia usiku katika pango la kamari lisilo na uso kunaweza kuhitaji tu jaribio la moja kwa moja, wakati mchezo wa kete wa vigingi vya juu unaohusisha watu mashuhuri unaweza badala yake kuhitaji Mizunguko kadhaa ya Rusha Zinazopingwa.
+#### Uponyaji (AKI+UWE)
 
-#### Uponyaji (INT+POW)
+Uponyaji ni maarifa ya kina ya taratibu za matibabu, kulingana na mazoea ya kitamaduni. Katika utamaduni wa Kiasili au Kikatili, kwa mfano, Uponyaji utategemea maarifa ya mitishamba na tiba za asili. Katika utamaduni wa Kistaarabu, dawa na matibabu ya hali ya juu zaidi yatakuwa ya kawaida zaidi. Katika tamaduni zote, Uponyaji unajumuisha uwezo wa kuweka mifupa, kushona majeraha, na kadhalika. Kwa wazi, kutumia Uponyaji kunahitaji rasilimali zinazofaa, na waganga wengi wanaofanya mazoezi watakuwa na vitu kama hivyo karibu (sindano, utumbo au uzi kwa ajili ya kushona, mitishamba kwa ajili ya dawa, na kadhalika).
 
-Uponyaji ni ujuzi wa kina wa taratibu za matibabu, kulingana na mazoea ya kitamaduni. Katika utamaduni wa Kizamani au Barbarian, kwa mfano, Uponyaji utategemea ujuzi wa mitishamba na tiba za asili. Katika utamaduni wa Ustaarabu, madawa ya kulevya na matibabu ya juu zaidi yatakuwa ya kawaida zaidi. Katika tamaduni zote Uponyaji unajumuisha uwezo wa kuweka mifupa, kushona majeraha, na kadhalika. Kwa dhahiri kutumia Uponyaji kunahitaji rasilimali zinazofaa, na waganga wengi wanaofanya mazoezi watakuwa na vitu kama hivyo mkononi (sindano, utumbo au uzi kwa ajili ya kushona, mitishamba kwa ajili ya dawa, na kadhalika).
+#### Vitisho (AKI+MVU)
 
-#### Vitisho (INT+CHA)
+Ujuzi huu hutumika kumtisha mtu binafsi ili afanye jambo ambalo angekuwa hataki kulifanya. Mara nyingi hutumika kupata taarifa kutoka kwa mtu mwingine, au kumfanya mpinzani arudi nyuma kupitia tishio la vurugu za kimwili. Ukaguzi wa Vitisho unaweza kurekebishwa kulingana na njia inayotumiwa, na kiwango MVU hatari kinachoonekana kwa mpinzani. Vitisho kwa kawaida HUPINGWA na Nguvu ya Utashi ya mwathiriwa, hata hivyo, ikiwa inatumiwa na utesaji, Ustahimilivu unaweza kutumika.
 
-Ustadi huu hutumika kutishia mtu binafsi katika njia ya hatua ambayo angekuwa hataki kuichukua. Mara nyingi hutumika kutoa habari kutoka kwa mwingine, au kumfanya mpinzani kurudi nyuma kupitia tishio la vurugu za kimwili. Ukaguzi wa vitisho unaweza kurekebishwa kulingana na njia inayotumiwa, na kiwango cha hatari kinachoonekana cha mpinzani. Vitisho kwa kawaida Hupingwa na Nguvu ya Nia ya mwathiriwa, hata hivyo, ikiwa inatumiwa na mateso, Ustahimilivu unaweza kuwa husika.
+#### Lugha (AKI+MVU)
 
-#### Lugha (INT+CHA)
-
-Ustadi huu unashughulikia kuzungumza na kuelewa lugha nyingine isipokuwa ile ya mhusika mwenyewe. Ustadi wa Lugha hairuswi moja kwa moja lakini unachukuliwa kama uwakilishi tuli wa ufasaha wa jumla. Thamani yake hutumiwa na Msimamizi wa Mchezo kuzuia kiwango cha mwingiliano wa mazungumzo wakati wachezaji wanapozungumza na haiba katika mchezo. Tumia [Jedwali la Ufasaha wa Lugha](0005_Skills.md?id=linguistic-fluency-table) kama mwongozo.
+Ujuzi huu unashughulikia uzungumzaji na uelewa wa lugha nyingine isipokuwa ya mhusika mwenyewe. Ujuzi wa Lugha haurushiwi kete moja kwa moja dhidi yake bali unachukuliwa kama uwakilishi tuli wa ufasaha wa jumla. Thamani yake hutumiwa na Mwalimu wa Michezo kuweka kikomo MVU kiwango MVU mwingiliano wa mazungumzo wakati wachezaji wanapozungumza na haiba katika mchezo. Tumia [Jedwali la Ufasaha wa Lugha](0005_Skills.md?id=linguistic-fluency-table) kama mwongozo.
 
 ##### Jedwali la Ufasaha wa Lugha
 
-| Asilimia ya Lugha | Ufasaha wa Mazungumzo |
+| Lugha% | Ufasaha wa Mazungumzo |
 | :-: | :-- |
-| 01-25% | Anaweza kuelewa maneno machache rahisi, hawezi kuunda sentensi, au kusoma |
-| 26-50% | Anaweza kuelewa na kuwasiliana katika sentensi fupi, rahisi, kama "Hekalu liko wapi?" au "Chakula ni kiasi gani?" Anaweza kusoma katika kiwango cha shule ya msingi |
-| 51-75% | Mfasaha wa kutosha kwa mazungumzo ya jumla na anaweza kusoma katika kiwango cha shule ya upili |
-| 76%+ | Anaweza kujieleza kwa ufasaha na anaweza kusoma katika kiwango cha chuo |
+| 01-25% | Anaweza kuelewa maneno machache rahisi tu, hawezi kuunda sentensi, au kusoma |
+| 26-50% | Anaweza kuelewa na kuwasiliana katika sentensi fupi, rahisi, kama vile "Hekalu liko wapi?" au "Chakula kiasi gani?" Anaweza kusoma katika kiwango MVU shule ya msingi |
+| 51-75% | Mfasaha wa kutosha kwa mazungumzo ya jumla na anaweza kusoma katika kiwango MVU shule ya sekondari |
+| 76%+ | Anaweza kujieleza kwa ufasaha na anaweza kusoma katika kiwango MVU chuo |
 
-Kila ustadi wa Lugha ni maalum kwa lugha fulani ya rangi, taifa, au kikanda, ambayo lazima ichaguliwe wakati wa kujifunza. Inaweza pia kusaidia kuelewa lahaja zinazofanana zinazoshiriki msingi wa kawaida wa lugha au asili. Kulingana na utofauti, rusha ya ustadi inapaswa kutibiwa kuwa vigumu zaidi kwa angalau Daraja moja la Ugumu, ikiwezekana kupunguza ufasaha wa mhusika.
+Kila ujuzi wa Lugha ni mahususi kwa lugha fulani ya kikabila, kitaifa, au kikanda, ambayo lazima ichaguliwe wakati wa kujifunza. Inaweza pia kusaidia kuelewa lahaja zinazofanana ambazo zinashiriki msingi au asili ya kawaida ya lugha. Kulingana na utofauti, urushaji wa kete wa ujuzi unapaswa kuchukuliwa kuwa mgumu zaidi kwa angalau Kiwango kimoja MVU Ugumu, ikiwezekana kupunguza ufasaha wa mhusika.
 
-Ustadi wa Lugha unajumuisha kusoma na kuandika. Kusoma na kuandika haimaanishi lazima kuandika, kwa kuwa kuna njia nyingi zisizo na kikomo za kurekodi habari. Tamaduni zingine zinaweza kuchonga alama kwenye miti au vipande vya mifupa, wakati zingine hurekodi historia katika mifumo tata ya mafundo kwenye tapestry. Wala aina zote za kusoma na kuandika hazitegemei alfabeti za fonetiki; hieroglyphs na ideograms pia zikiwa za kawaida.
+Ujuzi wa Lugha unajumuisha kusoma na kuandika. Kusoma na kuandika si lazima kumaanishe kuandika, kwa kuwa kuna njia nyingi zisizo na mwisho za kurekodi taarifa. Baadhi ya tamaduni zinaweza kuchonga alama kwenye miti au vipande vya mifupa, ambapo nyingine hurekodi historia katika mifumo tata ya mafundo kwenye nguo ya ukutani. Wala si aina zote za kusoma na kuandika zinazotegemea alfabeti za fonetiki; hieroglifi na ideogramu pia zikiwa za kawaida.
 
-#### Lugha (Thieves' Cant) (INT+CHA)
+#### Lugha (Lugha ya Wezi) (AKI+MVU)
 
-_(Wawizi Pekee)_: Inahitaji Kiapo kwa Chama cha Wawizi ili kujifunza patois hii katika Kiwango cha Msingi. Ustadi huu wa 'Lugha' unajumuisha slang na maana zilizodokezwa na hutumika kati ya wawizi kujadili shughuli za asili haramu hadharani, bila kutoa habari kwa wahusika wengine wanaopenda. Mawasiliano haya yana kikomo kwa majadiliano kuhusu kuvunja na kuingia. Wawizi ambao ni wanachama wa muda mrefu wa Chama cha Wawizi watajua moja kwa moja ustadi huu katika Kiwango cha Msingi +40%. Wale wanaouchukua katika mchezo huanza katika Kiwango cha Msingi.
+_(Majambazi Pekee)_: Inahitaji Kiapo kwa Chama MVU Wezi ili kujifunza lahaja hii katika Kiwango MVU Msingi. Ujuzi huu wa 'Lugha' unajumuisha misimu na maana zilizofichika na hutumika kati ya wezi kujadili harakati za asili ya haramu hadharani, bila kutoa taarifa kwa vyama vingine vinavyovutiwa. Mawasiliano haya yanapunguzwa kwa majadiliano kuhusu kuvunja na kuingia. Majambazi ambao ni wanachama wa muda mrefu wa Chama MVU Wezi watajua ujuzi huu kiotomatiki katika Kiwango MVU Msingi +40%. Wale wanaokichukua wakati wa mchezo wanaanzia katika Kiwango MVU Msingi.
 
-#### Kufungua Kufuli (DEX x2)
+#### Ufunguaji Kufuli (UST x2)
 
-Kufungua Kufuli ni uwezo wa kufungua mfumo wa kufunga wa mitambo bila msaada wa ufunguo au kifaa kingine kilichoundwa mahsusi kwa ajili ya kufuli. Inajumuisha mbinu za kufungua milango na madirisha yaliyofungwa kwa bolti au vizuizi bila kusababisha uharibifu. Kufungua Kufuli kunaweza pia kutumika 'kufungua kufuli kinyume'; i.e. kufunga mlango, sanduku, na kadhalika, wakati hakuna ufunguo unaopatikana.
+Ufunguaji Kufuli ni uwezo wa kufungua mfumo wa kufuli wa kimitambo bila msaada wa ufunguo au kifaa kingine chochote kilichotengenezwa mahususi kwa ajili ya kufuli hiyo. Inajumuisha mbinu za kufungua milango na madirisha yaliyofungwa kwa komeo au mapingo bila kusababisha uharibifu. Ufunguaji Kufuli unaweza pia kutumika 'kufungua kinyume kufuli'; yaani kufunga mlango, sanduku, na kadhalika, wakati ufunguo haupatikani.
 
-#### Maarifa (INT x2)
+#### Maarifa (AKI x2)
 
-Maarifa yanashughulikia mwili maalum wa maarifa ambao lazima uchaguliwe wakati ustadi unapojifunza kwanza: k.m. Maarifa (Alchemical). Alchemy, Unajimu, Astronomia, Jiografia, Heraldry, Historia, Ukunga, Madini, Wanyama, Siasa, Dini, Mkakati na Mbinu: hizi zote ni mifano ya kawaida ya ustadi wa Maarifa. Ustadi katika Maarifa inamaanisha mhusika anaelewa misingi yake, jinsi inavyoweza kutumika kwa changamoto na matatizo ya haraka na anaweza kutumia ustadi wa Maarifa (Mada) kukumbuka habari muhimu.
+Maarifa yanashughulikia mwili maalum wa maarifa ambao lazima uchaguliwe wakati ujuzi unapojifunza kwa mara ya kwanza: kwa mfano, Maarifa (Alkimia). Alkimia, Unajimu, Astronomia, Jiografia, Heraldry, Historia, Ukunga, Madini, Wanyama Wakubwa, Siasa, Dini, Mkakati na Mbinu: haya yote ni mifano ya kawaida ya ujuzi wa Maarifa. Ujuzi katika Maarifa inamaanisha mhusika anaelewa misingi yake, jinsi inavyoweza kutumika kwa changamoto na matatizo ya haraka na anaweza kutumia ujuzi wa Maarifa (Mada) kukumbuka taarifa muhimu.
 
-#### Mitambo (DEX+INT)
+#### Mitambo (UST+AKI)
 
-Mitambo inawakilisha ujuzi na ustadi wa kuunganisha na kutenganisha vifaa vya mitambo, kama vile mitego. Ustadi wa Mitambo kwa ujumla unahusisha uundaji wa vifaa maridadi na sehemu ndogo za kufanya kazi, tofauti na Uhandisi, unaoshughulikia ujenzi mkubwa. Ni nidhamu tofauti na Kufungua Kufuli na haiwezi kubadilishwa na ustadi huo.
+Mitambo inawakilisha maarifa na ujuzi wa kukusanya na kutenganisha vifaa vya kimitambo, kama vile mitego. Ujuzi wa Mitambo kwa ujumla unahusisha uundaji wa vifaa maridadi vyenye sehemu ndogo zinazofanya kazi, kinyume na Uhandisi, ambao unashughulikia ujenzi mkubwa. Ni taaluma tofauti na Ufunguaji Kufuli na haiwezi kubadilishwa na ujuzi huo.
 
-#### Uanamuziki (DEX+CHA)
+#### Uanamuziki (UST+MVU)
 
-Uanamuziki unashughulikia uchezaji wa ala za muziki; kutoka bomba rahisi la mwanzi hadi ala tata ya nyuzi kama vile kinubi, na kila marudio ya Uanamuziki yanatumika kwa kundi la ala zinazofanana. Mwanamuziki aliye na Muziki (Flutes) anaweza kucheza bomba la mwanzi lakini anaweza pia kucheza filimbi, panpipes, au kinasa kwa sababu misingi ni sawa. Hawawezi, hata hivyo, kucheza kinubi au lute.
+Uanamuziki unashughulikia uchezaji wa ala za muziki; kuanzia filimbi rahisi ya mwanzi hadi ala tata ya nyuzi kama vile kinubi, na kila marudio ya Uanamuziki yanatumika kwa kundi la ala zinazofanana. Mwanamuziki mwenye Muziki (Filimbi) anaweza kucheza filimbi ya mwanzi lakini anaweza pia kucheza filimbi ya kawaida, filimbi ya pan, au kinanda MVU filimbi kwa sababu misingi ni sawa. Hata hivyo, hangeweza kucheza kinubi au luti.
 
-#### Urambazaji (INT+POW)
+#### Urambazaji (AKI+UWE)
 
-Iwe kwa kutumia alama muhimu, nyota, au ladha tofauti ya maji ya bahari, uwezo wa kuelekeza safari kwa usahihi unashughulikiwa na ustadi wa Urambazaji. Kila ustadi wa Urambazaji unashughulikia eneo au mazingira maalum, kama vile Bahari Huria au Chini ya Ardhi kwa mfano. Inapaswa kufanywa wakati wa safari zisizo za kawaida au wakati wa kuwa katika eneo lisilojulikana kabisa.
+Iwe kwa kutumia alama mashuhuri, nyota, au ladha tofauti ya maji ya bahari, uwezo wa kuelekeza safari kwa usahihi unashughulikiwa na ujuzi wa Urambazaji. Kila ujuzi wa Urambazaji unashughulikia eneo au mazingira maalum, kama vile Bahari Huria au Chini ya Ardhi kwa mfano. Unapaswa kufanywa wakati wa safari zisizo za kawaida au wakati wa kuwa katika eneo lisilojulikana kabisa.
 
-#### Ufasaha (POW+CHA)
+#### Uhutubi (UWE+MVU)
 
-Ufasaha ni sanaa ya kutoa hotuba kwa kundi kubwa la watu kwa lengo la kufikisha au kushawishi mtazamo. Ni ustadi unaotumiwa mara kwa mara na wanasiasa ili kuimarisha sera lakini pia hutumiwa na makamanda kuhamasisha askari na kuweka nidhamu kwenye uwanja wa vita. Popote ushawishi wa watu wengi unahitajika, Ufasaha, badala ya Ushawishi, hutumika.
+Uhutubi ni sanaa ya kutoa hotuba kwa kundi kubwa la watu kwa lengo la kufikisha au kushawishi mtazamo. Ni ujuzi unaotumiwa mara kwa mara na wanasiasa ili kusisitiza sera lakini pia hutumiwa na makamanda kuhamasisha askari na kuweka nidhamu kwenye uwanja wa vita. Popote ambapo ushawishi wa umati unahitajika, Uhutubi, badala ya Ushawishi, hutumika.
 
-#### Ubaharia (INT+CON)
+#### Usaharia (AKI+UVU)
 
-Ustadi huu hutumika kwa njia ile ile kama [Kuendesha Boti](0005_Skills.md?id=boating-strcon) lakini badala yake hutumiwa kwa vyombo vikubwa vya majini vinavyoendeshwa na tanga au benki za makasia. Pia inashughulikia matengenezo na utunzaji wa meli: kutathmini wakati ukarabati unahitajika, wapi ni salama kutia nanga, hatari za hali ya hewa kali, na kadhalika.
+Ujuzi huu hutumika kwa njia sawa na [Usafirishaji kwa Mashua](0005_Skills.md?id=boating-strcon) lakini badala yake hutumika kwa vyombo vikubwa vya majini vinavyoendeshwa kwa matanga au safu za makasia. Pia inashughulikia matengenezo na utunzaji wa meli: kutathmini wakati ukarabati unahitajika, mahali ambapo ni salama kutia nanga, hatari za hali ya hewa ya vurugu, na kadhalika.
 
-#### Ushawishi wa Kimapenzi (INT+CHA)
+#### Ushawishi wa Kimapenzi (AKI+MVU)
 
-Ushawishi wa Kimapenzi ni ushawishi wa kimapenzi au wa kijinsia wa mtu mwingine, ustadi tofauti sana na Ushawishi. Inatumia ishara za wazi – za maneno na zisizo za maneno – ili kuibua majibu chanya ya kijinsia. Pia inachukua muda mwingi: Ushawishi wa Kimapenzi uliofaulu unaweza kuchukua masaa, siku, au wiki kufikia kulingana na maadili ya lengo, ambaye anaweza kila wakati kujaribu kupinga Ushawishi wa Kimapenzi kwa Nguvu ya Nia.
+Ushawishi wa Kimapenzi ni ushawishi wa kimapenzi au kingono wa mtu mwingine, ujuzi ambao ni tofauti sana na Ushawishi. Unatumia ishara za wazi – za maneno na zisizo za maneno – ili kupata mwitikio chanya wa kingono. Pia inachukua muda mwingi: Ushawishi wa Kimapenzi uliofaulu unaweza kuchukua saa, siku, au wiki kufanikiwa kulingana na maadili ya mlengwa, ambaye anaweza kila mara kujaribu kupinga Ushawishi wa Kimapenzi kwa Nguvu ya Utashi.
 
-#### Ujanja wa Mikono (DEX+CHA)
+#### Ufundi wa Mikono (UST+MVU)
 
-Ujanja wa Mikono unashughulikia majaribio ya kupiga au kuficha vitu vidogo (legerdemain na prestidigitation) na inajumuisha majaribio ya kuiba mifuko, kukata pochi, au kusababisha usumbufu wa kuona. Kwa kawaida, ni ustadi muhimu wa wawizi.
+Ufundi wa Mikono unashughulikia majaribio ya kuficha vitu vidogo (hila na uchawi wa mkono) na unajumuisha majaribio ya kuiba mifukoni, kukata pochi, au kusababisha usumbufu wa kuona. Kwa kawaida, ni ujuzi muhimu wa wezi.
 
-#### Ujuzi wa Mtaa (POW+CHA)
+#### Ujuzi wa Mitaani (UWE+MVU)
 
-Ujuzi wa Mtaa unawakilisha ujuzi wa maeneo na mawasiliano ya kijamii ndani ya makazi. Inashughulikia kila kitu kutoka kwa kutambua vitongoji vinavyoweza kuwa hatari, hadi kutafuta huduma za ndani – kisheria au haramu. Muda ambao jaribio la Ujuzi wa Mtaa huchukua inategemea kile kinachotafutwa. Kutafuta nyumba nzuri ya wageni itachukua muda kidogo kuliko kupata uzio wa bidhaa zilizoibwa au kibali cha biashara bandia.
+Ujuzi wa Mitaani unawakilisha maarifa ya maeneo na mawasiliano ya kijamii ndani ya makazi. Inashughulikia kila kitu kuanzia kutambua vitongoji vinavyoweza kuwa hatari, hadi kupata huduma za ndani – halali au haramu. Jaribio la Ujuzi wa Mitaani linachukua muda gani inategemea kile kinachotafutwa. Kupata nyumba nzuri ya wageni kutachukua muda mfupi kuliko kutafuta mnunuzi wa bidhaa zilizoibiwa au kibali MVU biashara MVU kugushi.
 
-#### Kuishi (CON+POW)
+#### Kuishi (UVU+UWE)
 
-Ustadi huu unashughulikia kuishi katika mazingira ya vijijini au ya porini ambapo faida za ustaarabu hazipo: kutafuta chakula, kujenga moto, kutafuta hifadhi au mahali salama pa kulala. Wakati wa vifaa ipasavyo, rusha kwa kawaida hazihitajiki kwa kuwa mhusika anaweza kuwa amebeba hema, vifaa vya chakula, na kadhalika. Ni wakati tu wanapotenganishwa na vifaa vyao au wakati hali ya mazingira inapokuwa mbaya ndipo inakuwa muhimu kutumia ustadi huu. Rusha kwa kawaida hufanywa mara moja kwa siku katika hali kama hizo.
+Ujuzi huu unashughulikia kuishi katika mazingira ya vijijini au porini ambapo manufaa ya ustaarabu hayapo: kutafuta chakula, kuwasha moto, kutafuta makazi au mahali salama pa kulala. Wakati wa kuwa na vifaa sahihi, urushaji wa kete kwa kawaida si wa lazima kwa sababu mhusika anaweza kuwa amebeba hema, akiba ya chakula, na kadhalika. Ni wakati tu anapotenganishwa na vifaa vyake au wakati hali ya mazingira inapokuwa mbaya ndipo inakuwa muhimu kutumia ujuzi huu. Urushaji wa kete kwa kawaida hufanywa mara moja kwa siku katika hali kama hizo.
 
-#### Kufuatilia (INT+CON)
+#### Kufuatilia (AKI+UVU)
 
-Ustadi wa Kufuatilia hutumika kwa kufuatilia aina yoyote ya mchezo au mawindo. Inatumia alama zilizo wazi na zisizo na utata za kupita ili kubaki kwenye njia ya mawindo, ikijumuisha nyayo, majani yaliyopondeka, chavua iliyotawanyika, mawe yaliyohamishwa, na kadhalika; alama ndogo, za kusema ambazo hazionekani kwa wale wasio na ujuzi. Rusha za Kufuatilia zinahitaji kufanywa mara kwa mara, hasa ikiwa hali zinabadilika ghafla (mvua, kwa mfano, itasumbua alama fulani). Mara ngapi inategemea jinsi mawindo yalivyokuwa na ujanja. Rusha za Kuficha zinaweza kutumika kupinga rusha ya Kufuatilia.
+Ujuzi wa Kufuatilia hutumika kwa ajili ya kufuatilia aina yoyote ya mnyama wa kuwinda au windo. Hutumia alama za wazi na zisizo na uhakika za kupita ili kubaki kwenye njia ya windo, ikiwa ni pamoja na alama za nyayo, majani yaliyopondeka, chavua iliyotawanyika, mawe yaliyohamishwa, na kadhalika; alama ndogo za kuelezea ambazo hazionekani kwa wasio na ujuzi. Urushaji wa kete wa Kufuatilia unahitaji kufanywa mara kwa mara, hasa ikiwa hali zinabadilika ghafla (mvua, kwa mfano, itasumbua alama fulani). Mara ngapi inategemea jinsi windo lilivyokuwa mjanja. Urushaji wa kete wa Kuficha unaweza kutumika kupinga urushaji wa kete wa Kufuatilia.
 
 ---
-## Sheria za Ustadi kwa Hali na Mazingira Tofauti
+## Sheria za Ujuzi kwa Hali na Situations Tofauti
 
-Ingawa sheria za msingi za kutumia ustadi katika _Classic Fantasy Imperative_ ni moja kwa moja sana, kuna hali nyingi tofauti zinazojitokeza wakati wa mchezo ambazo zinahitaji ustadi kushughulikiwa kwa njia tofauti kidogo. Sehemu zifuatazo zinaangalia hali na mazingira haya na kuonyesha jinsi ya kuyashughulikia.
+Ingawa sheria za msingi za kutumia ujuzi katika _Classic Fantasy Imperative_ ni rahisi sana, kuna hali nyingi tofauti zinazojitokeza wakati wa mchezo ambazo zinahitaji ujuzi kushughulikiwa kwa njia tofauti kidogo. Sehemu zifuatazo zinaangalia hali hizi na kuonyesha jinsi ya kuzishughulikia.
 
-#### Kujaribu Tena Ustadi
+#### Kujaribu Ujuzi Upya
 
-Katika hali zingine, mhusika atashindwa katika jaribio la ustadi lakini ataachwa katika hali ambapo anaweza kujaribu tena. Kesi za mfano zinaweza kuwa kufungua kufuli au kujaribu kupanda ukuta mwinuko. Badala ya kukataa tu majaribio yoyote zaidi, Wasimamizi wa Mchezo wema wanaweza kuruhusu jaribio la ufuatiliaji, la dakika za mwisho. Hata hivyo, mhusika atapata fadhaa au ukosefu wa kujiamini ambao huongeza Daraja la Ugumu la rusha ya ustadi kwa moja.
+Katika hali nyingine, mhusika atashindwa katika jaribio la ujuzi lakini ataachwa katika hali ambapo anaweza kujaribu tena. Kesi za mfano zinaweza kuwa kufungua kufuli au kujaribu kupanda ukuta mwinuko. Badala ya kukataa majaribio yoyote zaidi, Walimu wa Michezo wenye huruma wanaweza kuruhusu jaribio la ufuatiliaji, la mwisho. Hata hivyo, mhusika atapata hofu fulani au ukosefu wa kujiamini ambayo huongeza Kiwango MVU Ugumu MVU urushaji wa kete wa ujuzi kwa moja.
 
-Ikiwa juhudi hii ya pili pia inaishia katika kushindwa, mhusika anachukuliwa kuwa ametoa 'risasi yake bora' na hawezi kufanya majaribio yoyote zaidi kwa siku za usoni.
+Ikiwa juhudi hii ya pili pia itaishia kushindwa, mhusika anachukuliwa kuwa ametoa 'jaribio lake bora' na hawezi kufanya majaribio yoyote zaidi kwa wakati ujao unaoonekana.
 
-### Rusha Zinazopingwa
+### Urushaji wa Kete za Kupingana
 
-Ustadi hutumika mara kwa mara dhidi ya ustadi mwingine – Ujanja dhidi ya Uangalizi wakati mwizi anapojaribu kukata pochi ya mtukufu, tuseme; au Udanganyifu dhidi ya Ufahamu wakati mwizi huyo huyo anapojaribu kukataa jaribio anapokamatwa. Hii ni mifano mizuri ya nyakati ambapo ustadi hulinganishwa dhidi ya mwingine. Hizi zinajulikana kama Rusha Zinazopingwa na hutumika ambapo changamoto itasababisha ama kushinda au kupoteza, kufaulu au kushindwa.
+Ujuzi hutumika mara kwa mara dhidi ya ujuzi mwingine – Usiri dhidi ya Mtazamo wakati jambazi anapojaribu kukata pochi ya bwana, tuseme; au Udanganyifu dhidi ya Ufahamu wakati jambazi huyo huyo anapojaribu kukanusha jaribio hilo anapokamatwa. Hii ni mifano mizuri ya nyakati ambapo ujuzi unalinganishwa dhidi ya mwingine. Hizi zinajulikana kama Urushaji wa Kete za Kupingana na hutumika ambapo changamoto itasababisha ama kushinda au kushindwa, kufaulu au kutofaulu.
 
-- Rusha Inayopingwa imedhamiriwa hivyo: washiriki wote wawili hurusha ustadi wao husika. Mshindi ni yule anayepata Kiwango bora cha Mafanikio. Ikiwa washiriki watapata Kiwango sawa cha Mafanikio (Mafanikio ya Kawaida kila mmoja, au Muhimu kila mmoja), basi mshindi ni yule aliye na rusha ya juu ya kete bado ndani ya safu ya mafanikio ya ustadi.
+- Urushaji wa Kete za Kupingana huamuliwa hivi: washiriki wote wanarusha kete za ujuzi wao husika. Mshindi ndiye anayepata Kiwango bora MVU Kufaulu. Ikiwa washiriki watapata Kiwango sawa MVU Kufaulu (Kufaulu kwa Kawaida kila mmoja, au Kufaulu Muhimu kila mmoja), basi mshindi ndiye aliye na urushaji wa kete wa juu zaidi bado ndani ya masafa ya kufaulu ya ujuzi.
 
-Ikiwa washiriki wote wawili watashindwa katika Rusha Inayopingwa, basi ama:
+Ikiwa washiriki wote watashindwa katika Urushaji wa Kete za Kupingana, basi ama:
 
-- Eleza hali hiyo, ukiacha pande zote mbili zikining'inia katika mvutano wa kidrama, kisha urushe tena shindano ili kuanzisha mshindi.
-- Msimamizi wa Mchezo anapaswa kutoa maelezo au hali zinazofaa asili ya kushindwa.
+- Elezea hali hiyo, ukiwaacha pande zote mbili wakisubiri katika mvutano wa kusisimua, kisha urushe kete tena shindano hilo ili kupata mshindi.
+- Mwalimu wa Michezo anapaswa kutoa maelezo fulani au hali zinazofaa asili ya kushindwa.
 
-Rusha Zinazopingwa hutumika mara kwa mara katika hali fulani za vita ili kushinda athari za majeraha au kupinga Athari Maalum ya mapigano. Pia hutumika kupinga sumu na magonjwa au kuondoa athari za uchawi mbaya.
+Urushaji wa Kete za Kupingana hutumiwa mara kwa mara katika hali fulani za vita ili kushinda athari za majeraha au kupinga Athari Maalum ya mapigano. Pia hutumika kupinga sumu na magonjwa au kuondoa athari za uchawi mbaya.
 
-##### Jedwali la Mifano ya Rusha Inayopingwa
+##### Jedwali la Mifano ya Urushaji wa Kete za Kupingana
 
-| Shughuli | Mifano ya Ustadi Inayopingwa |
+| Shughuli | Mifano ya Ujuzi wa Kupingana |
 | :-- | :-- |
-| Kujadiliana/Kupunguza Bei | Biashara vs. Biashara, Ushawishi vs. Biashara |
-| Kufukuza/Mashindano | Riadha vs. Riadha, Riadha vs. Ustahimilivu, Kupanda vs. Kupanda |
-| Kudanganya au Kusema Uongo | Udanganyifu vs. Ufahamu, Ujanja wa Mikono vs. Uangalizi |
-| Kuonyesha Uaminifu | Shauku vs. Shauku, Shauku vs. Ufahamu, Shauku vs. Ushawishi |
-| Kuondoka Njia | Kukwepa vs. Riadha, Kukwepa vs. Mitambo, Kukwepa vs. Kupanda |
-| Kujificha au Kujipenyeza | Ujanja vs. Uangalizi; Ujanja vs. Kufuatilia |
-| Kuvuta Cheo | Ushawishi vs. Nguvu ya Nia, Udanganyifu vs. Nguvu ya Nia |
-| Kukaa kwenye Njia | Ustahimilivu vs. Ustahimilivu, Ustahimilivu vs. Nguvu |
-| Kushawishi Umati | Ufasaha vs. Nguvu ya Nia |
-| Jaribio la Nguvu | Nguvu vs. Nguvu, Nguvu vs. Ustahimilivu |
-| Jaribio la Nia | Nguvu ya Nia vs. Nguvu ya Nia, Ushawishi wa Kimapenzi vs. Nguvu ya Nia |
+| Kujadiliana/Kupunguza bei | Biashara dhidi ya Biashara, Ushawishi dhidi ya Biashara |
+| Kufukuza/Mashindano | Riadha dhidi ya Riadha, Riadha dhidi ya Ustahimilivu, Uendeshaji farasi dhidi ya Uendeshaji farasi |
+| Kudanganya au Kusema uongo | Udanganyifu dhidi ya Ufahamu, Ufundi wa mikono dhidi ya Mtazamo |
+| Kuonyesha Uaminifu | Shauku dhidi ya Shauku, Shauku dhidi ya Ufahamu, Shauku dhidi ya Ushawishi |
+| Kujitoa Njia | Kukwepa dhidi ya Riadha, Kukwepa dhidi ya Mitambo, Kukwepa dhidi ya Uendeshaji farasi |
+| Kujificha au Kuiba | Usiri dhidi ya Mtazamo; Usiri dhidi ya Kufuatilia |
+| Kutumia Cheo | Ushawishi dhidi ya Nguvu ya Utashi, Udanganyifu dhidi ya Nguvu ya Utashi |
+| Kustahimili | Ustahimilivu dhidi ya Ustahimilivu, Ustahimilivu dhidi ya Nguvu |
+| Kushawishi Umati | Uhutubi dhidi ya Nguvu ya Utashi |
+| Mtihani wa Nguvu | Nguvu dhidi ya Nguvu, Nguvu dhidi ya Ustahimilivu |
+| Mtihani wa Utashi | Nguvu ya Utashi dhidi ya Nguvu ya Utashi, Ushawishi wa kimapenzi dhidi ya Nguvu ya Utashi |
 
-### Rusha za Tofauti
+### Urushaji wa Kete wa Tofauti
 
-Rusha za Tofauti ni kama Rusha Zinazopingwa isipokuwa badala ya matokeo rahisi ya kushinda au kupoteza, tofauti katika Viwango vya Mafanikio huhesabiwa. Inayotumiwa kimsingi kwa utatuzi wa mapigano, Rusha za Tofauti zinaweza pia kutumika katika hali zingine ambapo Msimamizi wa Mchezo anataka kuongeza matokeo ya kina ya shindano.
+Urushaji wa Kete wa Tofauti ni kama Urushaji wa Kete za Kupingana isipokuwa kwamba badala ya matokeo rahisi ya kushinda au kushindwa, tofauti katika Viwango vya Kufaulu huhesabiwa. Hutumika kimsingi kwa ajili ya utatuzi wa mapigano, Urushaji wa Kete wa Tofauti pia unaweza kutumika katika hali nyingine ambapo Mwalimu wa Michezo anataka kuongeza matokeo ya kina ya shindano.
 
-Rusha ya Tofauti imedhamiriwa kwa njia ifuatayo: Washiriki wote wawili hurusha dhidi ya ustadi wao husika na kupata matokeo ya rusha yao kana kwamba wamejaribiwa peke yao. Hakuna 'mshindi' wa moja kwa moja per se, lakini yeyote aliyepata Kiwango cha juu cha Mafanikio hupata faida sawa na tofauti katika viwango vya mafanikio kati yao (ikizingatiwa kuwa mshiriki mmoja anapata angalau mafanikio ya Kawaida au bora). Ikiwa washiriki wote wawili watapata Kiwango sawa cha Mafanikio (mafanikio ya Kawaida kila mmoja, au Muhimu kila mmoja), basi hakuna athari ya ziada.
+Urushaji wa Kete wa Tofauti huamuliwa kwa njia ifuatayo: Washiriki wote wanarusha kete dhidi ya ujuzi wao husika na kupata matokeo ya urushaji wao kama walivyojaribiwa kwa kutengwa. Hakuna 'mshindi' wa moja kwa moja kama hivyo, lakini yeyote aliyepata Kiwango MVU juu MVU Kufaulu anapata faida sawa na tofauti katika viwango vya kufaulu kati yao (ikizingatiwa mshiriki mmoja anapata angalau kufaulu kwa Kawaida au bora zaidi). Ikiwa washiriki wote watapata Kiwango sawa MVU Kufaulu (kufaulu kwa Kawaida kila mmoja, au Kufaulu Muhimu kila mmoja), basi hakuna athari ya ziada.
 
-##### Jedwali la Matokeo ya Rusha ya Tofauti
+##### Jedwali la Matokeo ya Urushaji wa Kete wa Tofauti
 
-| Matokeo ya Rusha | Antagonist Muhimu | Antagonist Mafanikio | Antagonist Kushindwa | Antagonist Aibu |
+| Matokeo ya Urushaji | Mpinzani Muhimu | Mpinzani Kufaulu | Mpinzani Kushindwa | Mpinzani Kufanya vibaya |
 | :-- | :-- | :-- | :-- | :-- |
-| Protagonist Muhimu | Hakuna Faida | Protagonist Ashinda Ngazi 1 ya Mafanikio | Protagonist Ashinda Ngazi 2 za Mafanikio | Protagonist Ashinda Ngazi 3 za Mafanikio |
-| Protagonist Mafanikio | Antagonist Ashinda Ngazi 1 ya Mafanikio | Hakuna Faida | Protagonist Ashinda Ngazi 1 ya Mafanikio | Protagonist Ashinda Ngazi 2 za Mafanikio |
-| Protagonist Kushindwa | Antagonist Ashinda Ngazi 2 za Mafanikio | Antagonist Ashinda Ngazi 1 ya Mafanikio | Hakuna Faida | Hakuna Faida |
-| Protagonist Aibu | Antagonist Ashinda Ngazi 3 za Mafanikio | Antagonist Ashinda Ngazi 2 za Mafanikio | Hakuna Faida | Hakuna Faida |
+| Mhusika mkuu Muhimu | Hakuna Faida | Mhusika mkuu anashinda Kiwango 1 MVU Kufaulu | Mhusika mkuu anashinda Viwango 2 vya Kufaulu | Mhusika mkuu anashinda Viwango 3 vya Kufaulu |
+| Mhusika mkuu Kufaulu | Mpinzani anashinda Kiwango 1 MVU Kufaulu | Hakuna Faida | Mhusika mkuu anashinda Kiwango 1 MVU Kufaulu | Mhusika mkuu anashinda Viwango 2 vya Kufaulu |
+| Mhusika mkuu Kushindwa | Mpinzani anashinda Viwango 2 vya Kufaulu | Mpinzani anashinda Kiwango 1 MVU Kufaulu | Hakuna Faida | Hakuna Faida |
+| Mhusika mkuu Kufanya vibaya | Mpinzani anashinda Viwango 3 vya Kufaulu | Mpinzani anashinda Viwango 2 vya Kufaulu | Hakuna Faida | Hakuna Faida |
 
-### Ustadi Unaopingwa Zaidi ya 100%
+### Ujuzi wa Kupingana Zaidi ya 100%
 
-Ikiwa mshiriki mwenye ustadi wa juu zaidi katika Rusha Inayopingwa au ya Tofauti ana ustadi wa zaidi ya 100%, mshiriki huyo hupunguza tofauti kati ya 100 na thamani ya ustadi wake kutoka kwa ustadi wa kila mtu kwenye shindano, ikiwa ni pamoja na yeye mwenyewe. Hii inapunguza thamani ya ustadi wa wapinzani lakini inamwacha akihifadhi faida.
+Ikiwa mshiriki mwenye ujuzi wa juu zaidi katika Urushaji wa Kete za Kupingana au za Tofauti ana ujuzi zaidi ya 100%, mshiriki huyo hutoa tofauti kati ya 100 na thamani ya ujuzi wake kutoka kwa ujuzi wa kila mtu katika shindano, ikiwa ni pamoja na yeye mwenyewe. Hii inapunguza thamani ya ujuzi wa wapinzani lakini inamuacha yeye akibaki na faida.
 
-Utambulisho wa nani ana ustadi wa juu lazima uhesabiwe baada ya marekebisho mengine yoyote ya hali kuwa yametumika.
+Utambulisho wa nani ana ujuzi wa juu zaidi lazima uhesabiwe baada ya marekebisho yoyote mengine kwa ajili ya hali kutumika.
