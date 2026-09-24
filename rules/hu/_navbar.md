@@ -1,4 +1,4 @@
 - [Kezdőlap](/)
-- [Útmutató](HowTo.md)
-- [Változásnapló](Changelog.md)
+- [Hogyan](HowTo.md)
+- [Változások](Changelog.md)
 - [GitHub](https://github.com/raleel/cfi-srd)
