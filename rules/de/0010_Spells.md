@@ -5,24 +5,24 @@
 
 | Rang 0 | Rang 1 | Rang 2 | Rang 3 | Rang 4 | Rang 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Abwenden](0010_Spells.md?id=avert) | [Segen \(R\)](0010_Spells.md?id=bless-r) | [Vorzeichen](0010_Spells.md?id=augury) | [Schwere Wunden Heilen \(R\)](0010_Spells.md?id=cure-major-wounds-r) | [Klingenbarriere](0010_Spells.md?id=blade-barrier) | [Astralzauber](0010_Spells.md?id=astral-spell) |
-| [Verwirren](0010_Spells.md?id=befuddle) | [Befehl](0010_Spells.md?id=command) | [Gesang](0010_Spells.md?id=chant) | [Weissagung](0010_Spells.md?id=divination) | [Verwirrung](0010_Spells.md?id=confusion) | [Wetterkontrolle](0010_Spells.md?id=control-weather) |
-| [Beruhigen](0010_Spells.md?id=calm) | [Nahrung und Wasser Erschaffen](0010_Spells.md?id=create-food-and-water) | [Anhaltendes Licht](0010_Spells.md?id=continual-light) | [Exorzismus](0010_Spells.md?id=exorcism) | [Heilen \(R\)](0010_Spells.md?id=heal-r) | [Erdbeben](0010_Spells.md?id=earthquake) |
-| [Koordination](0010_Spells.md?id=coordination) | [Ermüdung Heilen \(R\)](0010_Spells.md?id=cure-fatigue-r) | [Krankheit Heilen \(R\)](0010_Spells.md?id=cure-disease-r) | [Freie Aktion](0010_Spells.md?id=free-action) | [Wasser Teilen](0010_Spells.md?id=part-water) | [Tor](0010_Spells.md?id=gate) |
-| [Ablenken](0010_Spells.md?id=deflect) | [Leichte Wunden Heilen \(R\)](0010_Spells.md?id=cure-minor-wounds-r) | [Schwere Wunden Heilen \(R\)](0010_Spells.md?id=cure-serious-wounds-r) | [Gift Neutralisieren \(R\)](0010_Spells.md?id=neutralize-poison-r) | [Regenerieren \(R\)](0010_Spells.md?id=regenerate-r) | [Heiliges Wort \(R\)](0010_Spells.md?id=holy-word-r) |
-| [Eiserne Hand](0010_Spells.md?id=ironhand) | [Bezauberung Entdecken \(R\)](0010_Spells.md?id=detect-charm-r) | [Lüge Erkennen \(R\)](0010_Spells.md?id=detect-lie-r) | [Ebenenwechsel](0010_Spells.md?id=plane-shift) | [Mit Monstern Sprechen](0010_Spells.md?id=speak-with-monsters) | [Auferstehung \(R\)](0010_Spells.md?id=resurrection-r) |
-| [Kraft](0010_Spells.md?id=might) | [Böses Entdecken \(R\)](0010_Spells.md?id=detect-evil-r) | [Magie Bannung](0010_Spells.md?id=dispel-magic) | [Gebet](0010_Spells.md?id=prayer) | [Rückkehr-Wort](0010_Spells.md?id=word-of-recall) | [Sonnenstrahl](0010_Spells.md?id=sun-ray) |
-| [Polieren](0010_Spells.md?id=polish) | [Magie Entdecken](0010_Spells.md?id=detect-magic) | [Flammenschlag](0010_Spells.md?id=flame-strike) | [Schutz vor Bösem 10-Fuß-Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
-| [Bewahren](0010_Spells.md?id=preserve) | [Hitze/Kälte Ertragen](0010_Spells.md?id=endure-heat-cold) | [Person Halten](0010_Spells.md?id=hold-person) | [Schutz vor Blitz](0010_Spells.md?id=protection-from-lightning) |
-| [Schutz](0010_Spells.md?id=protection) | [Gesinnung Kennen \(R\)](0010_Spells.md?id=know-alignment-r) | [Gegenstand Orten \(R\)](0010_Spells.md?id=locate-object-r) | [Tote Erwecken \(R\)](0010_Spells.md?id=raise-dead-r) |
-| [Reparieren](0010_Spells.md?id=repair) | [Licht \(R\)](0010_Spells.md?id=light-r) | [Schutz vor Kälte](0010_Spells.md?id=protection-from-cold) | [Wiederherstellung](0010_Spells.md?id=restoration) |
-| [Geisterschild](0010_Spells.md?id=spiritshield) | [Wettervorhersage](0010_Spells.md?id=predict-weather) | [Schutz vor Feuer](0010_Spells.md?id=protection-from-fire) | [Wahre Sicht](0010_Spells.md?id=true-seeing) |
-| [Stimme](0010_Spells.md?id=voice) | [Schutz vor Bösem \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Fluch Aufheben \(R\)](0010_Spells.md?id=remove-curse-r) | [Feuerwand/Feuerkreis](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| | [Nahrung und Getränk Reinigen \(R\)](0010_Spells.md?id=purify-food-and-drink-r) | [Stille](0010_Spells.md?id=silence) |
-| | [Furcht Bannen \(R\)](0010_Spells.md?id=remove-fear-r) | [Geisterhammer](0010_Spells.md?id=spiritual-hammer) |
-| | [Gift Verlangsamen](0010_Spells.md?id=slow-poison) | [Wasseratmung \(R\)](0010_Spells.md?id=water-breathing-r) |
+| [Avert](0010_Spells.md?id=avert) | [Bless \(R\)](0010_Spells.md?id=bless-r) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(R\)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
+| [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
+| [Calm](0010_Spells.md?id=calm) | [Create Food and Water](0010_Spells.md?id=create-food-and-water) | [Continual Light](0010_Spells.md?id=continual-light) | [Exorcism](0010_Spells.md?id=exorcism) | [Heal \(R\)](0010_Spells.md?id=heal-r) | [Earthquake](0010_Spells.md?id=earthquake) |
+| [Coordination](0010_Spells.md?id=coordination) | [Cure Ermüdung \(R\)](0010_Spells.md?id=cure-fatigue-r) | [Cure Disease \(R\)](0010_Spells.md?id=cure-disease-r) | [Freie Aktion](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
+| [Deflect](0010_Spells.md?id=deflect) | [Cure Minor Wounds \(R\)](0010_Spells.md?id=cure-minor-wounds-r) | [Cure Serious Wounds \(R\)](0010_Spells.md?id=cure-serious-wounds-r) | [Neutralize Poison \(R\)](0010_Spells.md?id=neutralize-poison-r) | [Regenerate \(R\)](0010_Spells.md?id=regenerate-r) | [Holy Word \(R\)](0010_Spells.md?id=holy-word-r) |
+| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(R\)](0010_Spells.md?id=detect-charm-r) | [Detect Lie \(R\)](0010_Spells.md?id=detect-lie-r) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(R\)](0010_Spells.md?id=resurrection-r) |
+| [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
+| [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
+| [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
+| [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Tot \(R\)](0010_Spells.md?id=raise-dead-r) |
+| [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
+| [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
+| [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| | [Purify Food and Drink \(R\)](0010_Spells.md?id=purify-food-and-drink-r) | [Silence](0010_Spells.md?id=silence) |
+| | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
+| | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) zeigt einen umkehrbaren Zauber an._
+_\(R\) kennzeichnet einen umkehrbaren Zauberspruch._
 
 ---
 
@@ -30,32 +30,31 @@ _\(R\) zeigt einen umkehrbaren Zauber an._
 
 | Rang 0 | Rang 1 | Rang 2 | Rang 3 | Rang 4 | Rang 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Einschätzen](0010_Spells.md?id=appraise) | [Rüstung](0010_Spells.md?id=armor) | [Anhaltendes Licht](0010_Spells.md?id=continual-light) | [Monster bezaubern](0010_Spells.md?id=charm-monster) | [Kettenblitz](0010_Spells.md?id=chain-lightning) | [Astralzauber](0010_Spells.md?id=astral-spell) |
-| [Abwenden](0010_Spells.md?id=avert) | [Brennende Hände](0010_Spells.md?id=burning-hands) | [Dunkelheit](0010_Spells.md?id=darkness) | [Eiskegel](0010_Spells.md?id=cone-of-cold) | [Wetterkontrolle](0010_Spells.md?id=control-weather) | [Massenbezauberung](0010_Spells.md?id=charm-mass) |
-| [Verwirren](0010_Spells.md?id=befuddle) | [Erscheinung Ändern](0010_Spells.md?id=change-appearance) | [Dunkelsicht](0010_Spells.md?id=darkvision) | [Verwirrung](0010_Spells.md?id=confusion) | [Todeszauber](0010_Spells.md?id=death-spell) | [Erdbeben](0010_Spells.md?id=earthquake) |
-| [Kälte \(R\)](0010_Spells.md?id=chill-r) | [Person Bezaubern](0010_Spells.md?id=charm-person) | [Böses Entdecken \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimensionsportal](0010_Spells.md?id=dimension-door) | [Gegenstand Verzaubern](0010_Spells.md?id=enchant-item) | [Energie Entziehen](0010_Spells.md?id=energy-drain) |
-| [Reinigen \(R\)](0010_Spells.md?id=cleanse-r) | [Tanzende Lichter](0010_Spells.md?id=dancing-lights) | [Unsichtbarkeit Entdecken](0010_Spells.md?id=detect-invisibility) | [Waffe Verzaubern](0010_Spells.md?id=enchant-weapon) | [Feuerball, Verzögert](0010_Spells.md?id=fireball-delayed-blast) | [Tor](0010_Spells.md?id=gate) |
-| [Koordination](0010_Spells.md?id=coordination) | [Magie Entdecken](0010_Spells.md?id=detect-magic) | [Magie Bannung](0010_Spells.md?id=dispel-magic) | [Furcht](0010_Spells.md?id=fear) | [Fleisch zu Stein \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteoritenschauer](0010_Spells.md?id=meteor-shower) |
-| [Ablenken](0010_Spells.md?id=deflect) | [Federfall](0010_Spells.md?id=feather-fall) | [Feuerball](0010_Spells.md?id=fireball) | [Feuerschild](0010_Spells.md?id=fire-shield) | [Dauerhaftigkeit](0010_Spells.md?id=permanency) | [Machtwort – Töten](0010_Spells.md?id=power-word-kill) |
-| [Trocknen](0010_Spells.md?id=dry) | [Vertrauten Finden](0010_Spells.md?id=find-familiar) | [Fliegen](0010_Spells.md?id=fly) | [Patzer](0010_Spells.md?id=fumble) | [Machtwort – Erblinden](0010_Spells.md?id=power-word-blind) | [Wunsch](0010_Spells.md?id=wish) |
-| [Frostbeule](0010_Spells.md?id=frostbite) | [Schwebende Scheibe](0010_Spells.md?id=floating-disk) | [Hast](0010_Spells.md?id=haste) | [Eissturm](0010_Spells.md?id=ice-storm) | [Reinkarnation, Arkan](0010_Spells.md?id=reincarnation-arcane) |
-| [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identifizieren](0010_Spells.md?id=identify) | [Person Halten](0010_Spells.md?id=hold-person) | [Verbesserte Unsichtbarkeit](0010_Spells.md?id=invisibility-greater) |
-| [Kleben](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Unsichtbarkeit, 10-Fuß-Radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Andere Verwandeln](0010_Spells.md?id=polymorph-other) |
-| [Entzünden \(R\)](0010_Spells.md?id=ignite-r) | [Unsichtbarkeit](0010_Spells.md?id=invisibility) | [Klopfen \(R\)](0010_Spells.md?id=knock-r) | [Selbst Verwandeln](0010_Spells.md?id=polymorph-self) |
-| [Zaubertricks](0010_Spells.md?id=magic-tricks) | [Sprachen Kennen \(R\)](0010_Spells.md?id=know-languages-r) | [Gesinnung Kennen \(R\)](0010_Spells.md?id=know-alignment-r) | [Machtwort – Betäuben](0010_Spells.md?id=power-word-stun) |
-| [Kraft](0010_Spells.md?id=might) | [Levitieren](0010_Spells.md?id=levitate) | [Blitzstrahl](0010_Spells.md?id=lightning-bolt) | [Fluch Aufheben \(R\)](0010_Spells.md?id=remove-curse-r) |
-| [Haustier](0010_Spells.md?id=pet) | [Licht](0010_Spells.md?id=light) | [Gegenstand Orten \(R\)](0010_Spells.md?id=locate-object-r) | [Sphäre der Unverwundbarkeit, Gering](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polieren](0010_Spells.md?id=polish) | [Magisches Geschoss](0010_Spells.md?id=magic-missile) | [Magisches Schloss](0010_Spells.md?id=mage-lock) | [Feuerwand/Feuerkreis](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| [Bewahren](0010_Spells.md?id=preserve) | [Wettervorhersage](0010_Spells.md?id=predict-weather) | [Magischer Mund](0010_Spells.md?id=magic-mouth) | [Magiersicht](0010_Spells.md?id=wizard-sight) |
-| [Schutz](0010_Spells.md?id=protection) | [Schutz vor Bösem \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Spiegelbild](0010_Spells.md?id=mirror-image) |
-| [Magie Lesen](0010_Spells.md?id=read-magic) | [Portal Sichern](0010_Spells.md?id=secure-portal) | [Verlangsamen](0010_Spells.md?id=slow) |
-| [Reparieren](0010_Spells.md?id=repair) | [Schild](0010_Spells.md?id=shield) | [Wasseratmung \(R\)](0010_Spells.md?id=water-breathing-r) |
-| [Aufräumen](0010_Spells.md?id=tidy) | [Schlaf](0010_Spells.md?id=sleep) |
-| | [Netz](0010_Spells.md?id=web) |
-| | [Spinnenklettern](0010_Spells.md?id=spider-climb) |
+| [Appraise](0010_Spells.md?id=appraise) | [Rüstung](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
+| [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
+| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
+| [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
+| [Cleanse \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Macht Word - Kill](0010_Spells.md?id=power-word-kill) |
+| [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Patzer](0010_Spells.md?id=fumble) | [Macht Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
+| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
+| [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
+| [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
+| [Ignite \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Macht Word - Stun](0010_Spells.md?id=power-word-stun) |
+| [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
+| [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
+| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
+| [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
+| [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
+| [Repair](0010_Spells.md?id=repair) | [Shield](0010_Spells.md?id=shield) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
+| [Tidy](0010_Spells.md?id=tidy) | [Sleep](0010_Spells.md?id=sleep) |
+| | [Web](0010_Spells.md?id=web) |
+| | [Spider Climb](0010_Spells.md?id=spider-climb) |
 
-_\(R\) zeigt einen umkehrbaren Zauber an._
-
+_\(R\) kennzeichnet einen umkehrbaren Zauberspruch._
 
 ---
 
@@ -64,9 +63,9 @@ _\(R\) zeigt einen umkehrbaren Zauber an._
 ## Zauberbeschreibungen
 
 ---
-#### Einschätzen
+#### Appraise (Wertschätzen)
 
-(Weissagung)
+(Divination)
 
 | | |
 | :-- | :-- |
@@ -75,10 +74,10 @@ _\(R\) zeigt einen umkehrbaren Zauber an._
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Gegenstand | **Widerstand:** Keine |
 
-Einschätzen ermöglicht die sofortige Bewertung der Qualität von physischen Gütern, deren kombinierte Statur (Kraft) oder GRÖ dem MAC des Zaubernden entspricht. Der Zauber bestimmt, ob identisch aussehende Gegenstände von gleicher oder ähnlicher Qualität sind, oder ob einer oder mehrere fehlerhaft sind oder eine höhere Qualität aufweisen. Der Zauber funktioniert nicht bei organischen Dingen, nur bei unbelebten Objekten. Er bestimmt auch nicht, welche Mängel oder Verbesserungen vorhanden sind; er stellt lediglich fest, dass sie existieren. Er ist zur Identifizierung oder Entdeckung von Magie nutzlos.
+Appraise ermöglicht die sofortige Einschätzung der Qualität physischer Waren mit einer kombinierten Belastung in 'Dingen' oder Statur (GRÖ) entsprechend der MAC des Zauberers. Der Zauber bestimmt, ob identisch aussehende Gegenstände von gleicher oder ähnlicher Qualität sind, oder ob einer oder mehrere davon fehlerhaft oder von höherer Qualität sind. Der Zauber funktioniert nicht bei organischen Dingen, nur bei unbelebten Objekten. Er bestimmt auch nicht, welche Fehler oder Verbesserungen vorhanden sind; er stellt lediglich fest, dass sie existieren. Er ist nicht nützlich zur Identifizierung oder Entdeckung von Magie.
 
 ---
-#### Rüstung
+#### Rüstung (Rüstung)
 
 (Beschwörung)
 
@@ -89,18 +88,18 @@ Einschätzen ermöglicht die sofortige Bewertung der Qualität von physischen G�
 | **Kosten:** 3 +1/Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** Keine |
 
-Wenn dieser Zauber gewirkt wird, erhält das Ziel ein unsichtbares Feld aus magischer Kraft, das dem Schutz einer Schuppenrüstung entspricht und jeder Trefferzone 4 Rüstungspunkte gewährt. Er hat keinen Effekt, wenn er auf jemanden gewirkt wird, der bereits eine Rüstung trägt. Er wird jedoch für seine Dauer eine natürliche Rüstung ersetzen, vorausgesetzt, er bietet einen überlegenen Schutz. Wenn er auf eine Kreatur gewirkt wird, die über mehr als 4 Punkte natürliche Rüstung verfügt, erhöht er stattdessen die Rüstungspunkte in allen Zonen um 1. Dieser magische Schutz behindert weder die Bewegung noch das Zauberwirken. Der Zauber hält an, bis er durch Magie gebannt wird oder der Zaubernde 8 Schadenspunkte durch einen einzelnen Angriff erleidet, +1 pro Stufe zusätzlicher Intensität (siehe Tabelle unten). Natürlich kann der Zaubernde sich entscheiden, den Zauber jederzeit aufzuheben, was zum Schlafen auch erforderlich ist.
+Wenn dieser Zauber gewirkt wird, erhält das Subjekt ein unsichtbares Feld magischer Kraft, das dem Schutz einer Schuppenrüstung entspricht und jeder Trefferzone 4 Rüstungspunkte gewährt. Er hat keinen Effekt, wenn er auf jemanden gewirkt wird, der bereits eine Rüstung trägt. Er ersetzt jedoch für seine Dauer eine natürliche Rüstung, sofern er einen besseren Schutz bietet. Wenn er auf eine Kreatur gewirkt wird, die über mehr als 4 Punkte natürliche Rüstung verfügt, erhöht er stattdessen die Rüstungspunkte an allen Stellen um 1. Dieser magische Schutz behindert weder Bewegung noch das Zaubern. Der Zauber hält an, bis er durch Magie gebannt wird oder der Zauberer 8 Schadenspunkte aus einem einzigen Angriff erleidet, +1 pro Stufe zusätzlicher Intensität (siehe Tabelle unten). Natürlich kann der Zauberer den Zauber jederzeit aufheben, wenn er dies wünscht, und muss dies tun, um zu schlafen.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 4 Rüstungspunkte; Hält an, bis 8 Schaden durch 1 Angriff erlitten wurden |
-| 2 | 4 | 4 Rüstungspunkte; Hält an, bis 9 Schaden durch 1 Angriff erlitten wurden |
-| 3 | 5 | 4 Rüstungspunkte; Hält an, bis 10 Schaden durch 1 Angriff erlitten wurden |
-| 4 | 6 | 4 Rüstungspunkte; Hält an, bis 11 Schaden durch 1 Angriff erlitten wurden |
-| +1 | +1 | Fortschreitende Steigerung |
+| 1 | 3 | 4 Rüstungspunkte; Hält an, bis 8 Schaden durch 1 Angriff erlitten werden |
+| 2 | 4 | 4 Rüstungspunkte; Hält an, bis 9 Schaden durch 1 Angriff erlitten werden |
+| 3 | 5 | 4 Rüstungspunkte; Hält an, bis 10 Schaden durch 1 Angriff erlitten werden |
+| 4 | 6 | 4 Rüstungspunkte; Hält an, bis 11 Schaden durch 1 Angriff erlitten werden |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
-#### Astralzauber
+#### Astral Spell (Astralzauber)
 
 (Transmutation)
 
@@ -109,23 +108,23 @@ Wenn dieser Zauber gewirkt wird, erhält das Ziel ein unsichtbares Feld aus magi
 | **Rang:** Kleriker 5, Magier 5 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Astral | **Dauer:** Siehe unten |
 | **Kosten:** 3 +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** Siehe unten | **Widerstand:** N/V |
+| **Bereich:** Siehe unten | **Widerstand:** N/A |
 
-Dieser Zauber erlaubt dem Zaubernden und bis zu fünf weiteren Personen (eine pro zusätzlicher Intensitätsstufe), die Astralebene zu betreten. Alle müssen sich berühren und einen Kreis bilden, während der Zauber gewirkt wird. Die Körper der Reisenden bleiben in der Ursprungsebene zurück, und sie bringen normalerweise keine Kleidung oder Ausrüstung mit, außer jener, die selbst eine magische Aura ausstrahlt; diese Gegenstände verwandeln sich in astrale Äquivalente ihrer normalen Form. Die Dauer hält an, bis der Zaubernde wünscht, dass sie endet. Es ist jedoch möglich, sie vorzeitig durch eine äußere Kraft wie Magie Bannung zu beenden. Das Töten des physischen Körpers des Zaubernden beendet den Zauber ebenfalls vorzeitig, was jedoch den unglücklichen Nebeneffekt hat, dass alle den Zaubernden begleitenden Reisenden dort stranden.
+Dieser Zauber erlaubt es dem Zauberer und bis zu fünf anderen (einer pro zusätzlicher Intensitätsstufe), die Astralebene zu betreten. Alle müssen sich berühren und einen Kreis bilden, während der Zauber gewirkt wird. Die Körper der Reisenden bleiben in der Ursprungsebene zurück, und sie bringen typischerweise keine Kleidung oder Ausrüstung mit, außer solchen, die selbst eine magische Aura ausstrahlen; diese Gegenstände verwandeln sich in astrale Entsprechungen ihrer normalen Form. Die Dauer währt, bis der Zauberer wünscht, dass sie endet. Es ist jedoch möglich, dass er vorzeitig durch eine äußere Kraft wie Dispel Magic beendet wird. Das Töten des physischen Körpers des Zauberers beendet den Zauber ebenfalls vorzeitig, obwohl dies den unglücklichen Nebeneffekt hat, alle Reisenden, die den Zauberer begleiten, dort festzuhalten.
 
 ---
-#### Vorzeichen
+#### Augury (Augurium)
 
-(Weissagung)
+(Divination)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 2 | **Zauberzeit:** 2 Minuten |
-| **Sphäre:** Weissagung | **Dauer:** Sofort |
+| **Sphäre:** Divination | **Dauer:** Sofort |
 | **Kosten:** 3/Intensität | **Reichweite:** 60 Fuß |
-| **Bereich:** Zaubernder | **Widerstand:** N/V |
+| **Bereich:** Zauberer | **Widerstand:** N/A |
 
-Dieser Zauber ermöglicht es dem Zaubernden festzustellen, ob eine bestimmte Handlung, die innerhalb der nächsten 30 Minuten durchgeführt werden soll, vorteilhaft oder schädlich für das Wohlbefinden einer Person und/oder einer Gruppe sein wird. Ein Fokuspunkt irgendeiner Art ist erforderlich, um die Omen zu deuten; am gebräuchlichsten sind Krallen oder kleinere Knochen eines Drachen, eine Perle oder reines Gold im Wert von nicht weniger als 100 GM, das zerkleinert oder eingeschmolzen wurde. Der Zauber hat eine maximale Intensität von 4. Dieser Wurf sollte vom Spielleiter durchgeführt werden, da der Zaubernde niemals zweifelsfrei wissen sollte, ob die Ergebnisse korrekt interpretiert wurden.
+Dieser Zauber erlaubt es dem Zauberer zu bestimmen, ob eine bestimmte Handlung, die innerhalb der nächsten 30 Minuten vollzogen werden soll, für das Wohlergehen eines Individuums und/oder einer Gruppe vorteilhaft oder schädlich sein wird. Ein Fokuspunkt irgendeiner Art ist erforderlich, um die Omen zu deuten, am häufigsten die Krallen oder kleineren Knochen eines Drachen, eine Perle oder reines Gold im Wert von nicht weniger als 100 GM, das zerkleinert oder eingeschmolzen wurde. Der Zauber hat eine maximale Intensität von 4. Dieser Wurf sollte vom Spielleiter durchgeführt werden, da der Zauberer niemals zweifelsfrei wissen sollte, ob die Ergebnisse korrekt interpretiert wurden.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -134,9 +133,9 @@ Dieser Zauber ermöglicht es dem Zaubernden festzustellen, ob eine bestimmte Han
 | 3 | 9 | Standard Kanalisieren-Fertigkeitswurf |
 | 4 | 12 | Leichter Kanalisieren-Fertigkeitswurf |
 
-Wenn der Weissagungswurf gelingt, gewährt er eines der folgenden Ergebnisse:
+Wenn der Divinationswurf gelingt, gewährt er eines der folgenden Ergebnisse:
 
-| Vorzeichen | Bedeutung | 
+| Augurium | Implikation | 
 | :-: | :-- |
 | Ja | Die Handlung wird vorteilhaft sein |
 | Nein | Die Handlung wird schädlich sein |
@@ -146,7 +145,7 @@ Wenn der Weissagungswurf gelingt, gewährt er eines der folgenden Ergebnisse:
 Ein Patzer sollte dazu führen, dass der Spielleiter das Gegenteil der Realität mitteilt.
 
 ---
-#### Abwenden
+#### Avert (Abwenden)
 
 (Abjuration)
 
@@ -157,24 +156,24 @@ Ein Patzer sollte dazu führen, dass der Spielleiter das Gegenteil der Realität
 | **Kosten:** 1 | **Reichweite:** 60 Fuß |
 | **Bereich:** 1 Zauber | **Widerstand:** Keine |
 
-Abwenden wird verwendet, um einen anderen Rang-0-Zauber innerhalb der Reichweite aufzuheben. Abwenden kann reaktiv gewirkt werden, um offensive Rang-0-Zauber zu neutralisieren, indem die reaktive Aktion "Gegenmagie" verwendet wird.
+Avert wird verwendet, um einen anderen Zauber des Rangs 0 innerhalb der Reichweite aufzuheben. Avert kann reaktiv gewirkt werden, um offensive Zauber des Rangs 0 zu neutralisieren, indem die reaktive Aktion Gegenmagie verwendet wird.
 
 ---
-#### Verwirren
+#### Befuddle (Verwirrung)
 
-(Verzauberung (Bezauberung))
+(Verzauberung (Charme))
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 0, Magier 0 | **Zauberzeit:** 1 Runde |
-| **Sphäre:** Bezauberung | **Dauer:** 30 Minuten |
+| **Sphäre:** Charme | **Dauer:** 30 Minuten |
 | **Kosten:** 1 | **Reichweite:** 60 Fuß |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Verwirren verursacht Verwirrung im Geist eines körperlichen Ziels. Das Subjekt des Zaubers hat Schwierigkeiten, klar zu denken, vergisst, wo es ist, was es tut und warum – und verfällt oft in disassoziierte Gedankengänge. Verwirrte Ziele können immer noch in Selbstverteidigung handeln, aber keine konstruktive Aktivität initiieren, bis der Zauber endet. Jede Art von Angriff oder bedrohlicher Handlung bricht den Zauber sofort, unabhängig davon, ob sie gezielt gegen das verwirrte Ziel gerichtet war oder nicht.
+Befuddle verursacht Verwirrung im Geist eines körperlichen Ziels. Das Subjekt des Zaubers hat Schwierigkeiten, klar zu denken, vergisst, wo es ist, was es tut und warum – oft verfällt es in unzusammenhängende Gedankengänge. Verwirrte Ziele können sich immer noch zur Selbstverteidigung wehren, aber keine konstruktive Aktivität einleiten, bis der Zauber endet. Jede Art von Angriff oder bedrohlicher Aktion bricht den Zauber sofort, unabhängig davon, ob er speziell auf das verwirrte Ziel gerichtet war oder nicht.
 
 ---
-#### Klingenbarriere
+#### Blade Barrier (Klingenbarriere)
 
 (Evokation)
 
@@ -182,31 +181,31 @@ Verwirren verursacht Verwirrung im Geist eines körperlichen Ziels. Das Subjekt 
 | :-- | :-- |
 | **Rang:** Kleriker 4 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Wächter, Erschaffung | **Dauer:** 3 Runden/Intensität |
-| **Kosten:** 3 + 1/zusätzliche Intensität | **Reichweite:** 100 Fuß |
+| **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 100 Fuß |
 | **Bereich:** 5-30 Fuß Radius | **Widerstand:** Siehe unten |
 
-Dieser Zauber erschafft eine Barriere aus wirbelnden, schneidenden Schwertern, Dolchen und Messern, die um einen festen Punkt peitschen und 1d8 Schadenspunkte an 1d4+2 zufälligen Trefferzonen bei *jedem* verursachen, der den Wirkungsbereich durchquert. Rüstung bietet nur die Hälfte ihres normalen Schutzes. Magische Rüstungspunkte reduzieren den Schaden wie gewohnt. Da die Waffen mit blendender Geschwindigkeit herumwirbeln und dicht gepackt sind, ist es unmöglich, sie zu parieren oder ihnen auszuweichen. Man kann einen Schild verwenden, um Trefferzonen passiv wie gewohnt zu blocken. In diesem Fall daran denken, den gewürfelten Schaden mit der Rüstung und den Trefferpunkten des Schildes zu vergleichen.
+Dieser Zauber erschafft eine Barriere aus wirbelnden, schneidenden Schwertern, Dolchen und Messern, die um einen festen Punkt peitschen und 1d8 Schadenspunkte an 1d4+2 zufälligen Trefferzonen bei *jedem* verursachen, der den Wirkungsbereich durchquert. Rüstung bietet nur die Hälfte ihres normalen Schutzes. Magische Rüstungspunkte reduzieren den Schaden wie gewohnt. Da die Waffen mit blendender Geschwindigkeit wirbeln und dicht gepackt sind, ist es unmöglich, ihnen auszuweichen oder sie zu parieren (Ausweichen/Parry). Man kann einen Schild verwenden, um Trefferzonen passiv wie gewohnt zu blocken. Vergleichen Sie in diesem Fall den gewürfelten Schaden mit der Rüstung und den Trefferpunkten des Schildes.
 
-Der Zauber kann defensiv gewirkt werden, um den Kleriker oder einen oder mehrere Verbündete zu schützen, oder offensiv, um Feinde zu fangen. Eingekreiste Feinde, die sich innerhalb von fünf Fuß vom Rand der Barriere befinden, während sie sich bildet, können jedoch einen Ausweichen-Wurf machen, um zu entkommen. Unabhängig vom Erfolg landet der Gegner bäuchlings direkt außerhalb des Wirkungsbereichs. Ein erfolgreicher Wurf führt zu keinem Schaden; andernfalls erleiden sie den vollen Effekt.
+Der Zauber kann defensiv gewirkt werden, um den Kleriker oder einen oder mehrere Verbündete zu schützen, oder offensiv, um Feinde zu fangen. Eingekreiste Feinde innerhalb von fünf Fuß vom Rand der Barriere können jedoch einen Ausweichen-Wurf machen, um zu entkommen, während sie sich bildet. Unabhängig vom Erfolg landet der Gegner benommen direkt außerhalb des Wirkungsbereichs. Ein erfolgreicher Wurf führt zu keinem Schaden; andernfalls erleiden sie den vollen Effekt.
 
 ---
-#### Segen \(R\)
+#### Bless (R) (Segen)
 
 (Beschwörung)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 1 | **Zauberzeit:** 1 Runde |
-| **Sphäre:** Alles | **Dauer:** 5 Minuten |
+| **Sphäre:** Alle | **Dauer:** 5 Minuten |
 | **Kosten:** 1 | **Reichweite:** 180 Fuß |
 | **Bereich:** 25 Fuß Radius | **Widerstand:** Willenskraft |
 
-Wenn dieser Zauber gewirkt wird, segnet der Kleriker eine Gruppe von Verbündeten innerhalb des Wirkungsbereichs. Die Betroffenen strahlen die Gesinnung des Zaubernden aus, entweder Gut oder Böse. Es gibt keine Segnungen der Neutralität. Alle Verbündeten innerhalb des Zauberradius erhalten einen Bonus von +5% auf alle Fertigkeits- und Widerstandswürfe. Zusätzlich verursachen ihre Waffen +1d3 Schaden an intelligenten Untoten sowie Kreaturen von den äußeren Ebenen, die gegensätzliche Gesinnungen zu denen des Zaubernden haben, wie etwa Dämonen, Teufel oder Engel. Beachte, dass während animierte Untote wie Skelette und Zombies nicht von Natur aus böse sind, sie typischerweise durch böse Magie animiert wurden und somit diesem Schaden unterliegen.
+Wenn dieser Zauber gewirkt wird, segnet der Kleriker eine Gruppe von Verbündeten innerhalb des Wirkungsbereichs. Die Betroffenen strahlen die Gesinnung des Zauberers aus, entweder Gut oder Böse. Es gibt keine Segnungen der Neutralität. Alle Verbündeten innerhalb des Radius des Zaubers erhalten einen Bonus von +5% auf alle Fertigkeits- und Widerstandswürfe. Zusätzlich verursachen ihre Waffen +1d3 Schaden bei intelligenten Untoten sowie Kreaturen von den äußeren Ebenen, die gegensätzliche Gesinnungen zu denen des Zauberers haben, wie Dämonen, Teufel oder Engel. Beachten Sie, dass, während belebte Untote wie Skelette und Zombies nicht von Natur aus böse sind, sie typischerweise durch böse Magie belebt werden und daher diesem Schaden unterliegen.
 
-Das Umkehren dieses Zaubers, Fluch, ermöglicht es dem Kleriker, Feinde zu verfluchen, wodurch die genannten Fertigkeiten den Kehrwert der oben genannten Vorteile erleiden. Der Schaden einer verfluchten Waffe wird als Abzug berechnet, und dieser Schaden kann nicht in weniger als 1 Punkt resultieren.
+Die Umkehrung dieses Zaubers, Fluch, erlaubt es dem Kleriker, Feinde zu verfluchen, wodurch die genannten Fertigkeiten den Umkehrwert der oben genannten Vorteile als Abzug erleiden. Der Schaden einer verfluchten Waffe wird stattdessen als Abzug berechnet, und dieser Schaden kann nicht zu weniger als 1 Punkt führen.
 
 ---
-#### Brennende Hände
+#### Burning Hands (Brennende Hände)
 
 (Transmutation)
 
@@ -214,12 +213,12 @@ Das Umkehren dieses Zaubers, Fluch, ermöglicht es dem Kleriker, Feinde zu verfl
 | :-- | :-- |
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Sofort |
-| **Kosten:** 3 + 1/zusätzliche Intensität | **Reichweite:** 0 |
+| **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 0 |
 | **Bereich:** 120-Grad-Kegel, 5 Fuß lang | **Widerstand:** Ausweichen |
 
-Dieser Zauber bewirkt, dass Flammen aus den Händen des Zaubernden in einem 120-Grad-Bogen schießen. Wenn Miniaturen im Kampf verwendet werden, beschädigt Brennende Hände jedes Ziel, das eines der vorderen Felder des Zaubernden besetzt. Das Wirken von Brennende Hände auf höheren Intensitätsstufen erfordert einen Magier höheren Ranges. Dieser Schaden trifft alle Ziele im Bereich mit einem Schaden, der auf der Intensität des Zaubers basiert, bis zu einer maximalen Intensität von 9, wie folgt. Ein erfolgreicher Ausweichen-Wurf, bei dem man sich bäuchlings auf den Boden wirft, erlaubt dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit "Gerissener Ausweicher" hat die Option, auszuweichen, ohne sich bäuchlings auf den Boden zu werfen.
+Dieser Zauber bewirkt, dass Flammen aus den Händen des Zauberers in einem 120-Grad-Bogen schießen. Bei Verwendung von Miniaturen im Kampf beschädigt Burning Hands jedes Ziel, das eines der vorderen Quadrate des Zauberers besetzt. Das Wirken von Burning Hands mit höheren Intensitätsstufen erfordert einen Magier höheren Rangs. Dieser Schaden trifft alle Ziele im Bereich mit einem Schaden, der auf der Intensität des Zaubers basiert, bis zu einer maximalen Intensität von 9, wie folgt. Ein erfolgreicher Ausweichen-Wurf, bei dem man sich zu Boden wirft, erlaubt dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit "Artful Dodger" (Gerissener Ausweicher) hat die Option, auszuweichen, ohne sich zu Boden zu werfen.
 
-| Intensität | Kosten | Mind. Rang | Variabler Effekt |
+| Intensität | Kosten | Min Rang | Variabler Effekt |
 | :-: | :-: | :-: | :-- |
 | 1 | 3 | 1 | 1d3+1 Schadenspunkte an allen Trefferzonen |
 | 3 | 4 | 1 | 1d3+2 Schadenspunkte an allen Trefferzonen |
@@ -227,23 +226,23 @@ Dieser Zauber bewirkt, dass Flammen aus den Händen des Zaubernden in einem 120-
 | 7 | 6 | 2 | 1d3+4 Schadenspunkte an allen Trefferzonen |
 | 9 | 7 | 3 | 1d3+5 Schadenspunkte an allen Trefferzonen |
 
-Getragene Rüstung schützt nicht, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Dieser mächtige Zauber wird durch seine merklich kurze Reichweite ausgeglichen, was bedeutet, dass der Magier nah genug sein muss, um sich in einer sehr nachteiligen Position zu befinden.
+Getragene Rüstung schützt nicht, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Dieser mächtige Zauber wird durch seine auffallend kurze Reichweite ausgeglichen, was bedeutet, dass der Magieanwender nah genug sein muss, um sich in einer sehr nachteiligen Position zu befinden.
 
-Da größere Kreaturen normalerweise größer als der Wirkungsbereich des Zaubers sind, nehmen sie typischerweise an weniger Trefferzonen Schaden. Diejenigen mit einer Statur von 21 bis 30 nehmen Schaden an Kopf, Brust, Unterleib und Armen, während diejenigen mit 31+ Statur Schaden an Unterleib und Beinen nehmen. Spielleiter sollten diese Zonen abhängig von der Form und Position des Ziels relativ zum Zaubernden anpassen. Brennende Hände haben eine Chance, entflammbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für zusätzliche Informationen.
+Da größere Kreaturen typischerweise größer als der Wirkungsbereich des Zaubers sind, neigen sie dazu, weniger betroffene Trefferzonen zu haben. Diejenigen mit einer GRÖ von 21 bis 30 erleiden den Schaden an Kopf, Brust, Unterleib und Armen, während diejenigen mit einer GRÖ von 31+ den Schaden an Unterleib und Beinen erleiden. Spielleiter sollten diese Orte in Abhängigkeit von der Form und Position des Ziels relativ zum Zauberer anpassen. Burning Hands hat eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für zusätzliche Informationen.
 
 ---
-#### Beruhigen
+#### Calm (Beruhigen)
 
-(Verzauberung (Bezauberung))
+(Verzauberung (Charme))
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 0 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Bezauberung | **Dauer:** Sofort |
+| **Sphäre:** Charme | **Dauer:** Sofort |
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Beruhigen versucht, die Leidenschaften eines humanoiden Ziels mit einer Statur von 1-20 zu dämpfen, um vielleicht sicherzustellen, dass ein liebeskranker Verehrer nicht auf seinen Forderungen beharrt, ein verängstigter Rivale nicht um Hilfe schreit oder dass keine Waffen im Zorn gezogen werden. Eine beruhigte Person ist mental ansonsten nicht beeinflusst; daher erlaubt jede Art von Angriff oder bedrohlicher Handlung dem Ziel weiterhin, sich zu verteidigen und sogar anzugreifen, wenn auch auf ruhige und besonnene Weise.
+Calm versucht, die Leidenschaften eines humanoiden Ziels mit einer GRÖ von 1-20 zu dämpfen, vielleicht um sicherzustellen, dass ein liebeskranker Liebhaber seinen Antrag nicht erzwingt, ein verängstigter Rivale nicht um Hilfe schreit oder dass Waffen nicht vor Wut gezogen werden. Eine beruhigte Person ist ansonsten geistig nicht beeinträchtigt; daher erlaubt jede Art von Angriff oder bedrohlicher Aktion dem Ziel weiterhin, sich zu verteidigen und sogar anzugreifen, wenn auch auf eine ruhige und besonnene Art und Weise.
 
 ---#### Kettenblitz
 
@@ -254,17 +253,17 @@ Beruhigen versucht, die Leidenschaften eines humanoiden Ziels mit einer Statur v
 | **Rang:** Magier 4 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** Sofort |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 50 Fuß/Intensität |
-| **Wirkungsbereich:** Siehe unten | **Widerstand:** Ausweichen |
+| **Bereich:** Siehe unten | **Widerstand:** Ausweichen |
 
-Beim Wirken entlässt der Magier einen 5 Fuß breiten Elektrizitätsblitz aus seinen Fingerspitzen, der ein Ziel innerhalb der Reichweite für 1w6+1 Schadenspunkte pro 2 Intensitätsstufen treffen kann. Der Blitz springt dann auf das nächstgelegene Objekt oder die nächstgelegene Kreatur über, die den zuvor gewürfelten Schaden abzüglich 1 Punkt erleidet, und springt dann weiter zum nächsten Ziel, wobei er den gewürfelten Schaden abzüglich 2 Punkte verursacht, und so weiter. Er könnte sogar auf einen Verbündeten oder den Zaubernden selbst überspringen! Während das erste Ziel für den Zaubernden sichtbar sein muss, gilt dies nicht für Ziele, die von einem überspringenden Blitz getroffen werden.
+Beim Wirken setzt der Magier aus seinen Fingerspitzen einen fünf Fuß breiten Stromstoß frei, der ein Ziel in Reichweite für 1w6+1 Schadenspunkte pro 2 Intensität treffen kann. Der Blitz springt dann auf das nächste Objekt oder die nächste Kreatur über, die den zuvor gewürfelten Schaden abzüglich 1 Punkt erleidet, springt dann auf das nächste Ziel über und verursacht den gewürfelten Schaden abzüglich 2 Punkten, und so weiter. Er könnte sogar auf einen Verbündeten oder den Zauberer selbst überspringen! Während das erste Ziel für den Zauberer sichtbar sein muss, müssen Ziele, die von einem überspringenden Blitz getroffen werden, dies nicht sein.
 
-Jeder Lichtbogen hat seine eigene Reichweite von 50 Fuß, was den Blitz über die ursprüngliche Reichweite hinausbringen kann, die beim Wirken des Zaubers galt. Kettenblitz schlägt weiter ein, solange noch Schaden verbleibt, bis er auf ein Objekt trifft, das ihn erdet (ein Metallkäfig oder Gitter, ein großes Wasserbecken usw.) oder keine weiteren Objekte oder Kreaturen in Reichweite sind.
+Jeder Sprung hat eine eigene Reichweite von 50 Fuß, was den Blitz über die ursprüngliche Reichweite beim Wirken hinausbringen kann. Kettenblitz schlägt weiterhin ein, wenn er noch Schadenspunkte übrig hat, bis er auf ein Objekt trifft, das ihn erdet (ein Metallkäfig oder Gitter, ein großes Wasserbecken usw.), oder keine weiteren Objekte oder Kreaturen mehr zum Treffen verfügbar sind.
 
-Jede getroffene Kreatur erleidet den Schaden an einer einzelnen Trefferzone, wobei getragene Rüstung keinen Schutz bietet, während natürliche Rüstung und magische Rüstungspunkte den Schaden wie gewohnt verringern.
+Jede getroffene Kreatur erleidet den Schaden an einer einzelnen Trefferzone, wobei getragene Rüstung keinen Schutz bietet, während natürliche Rüstung und magische Rüstungspunkte den Schaden wie gewöhnlich reduzieren.
 
-Mit einem erfolgreichen Ausweichen-Wurf durch Zu-Boden-Werfen erleidet das Opfer keinen Schaden. Jemand mit der Fähigkeit „Gewiefter Ausweicher“ kann ausweichen, ohne sich hinzulegen, aber ein Erfolg reduziert den Schaden in diesem Fall nur um die Hälfte.
+Mit einem erfolgreichen Ausweichen-Wurf, bei dem man sich flach auf den Boden wirft, erleidet das Opfer keinen Schaden. Jemand mit der Fähigkeit „Kunstvoller Ausweicher“ kann ausweichen, ohne sich hinzulegen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte.
 
-Der Blitz hat eine Chance, entflammbare Materialien zu entzünden, die dem gewürfelten Schaden x 1% entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für zusätzliche Informationen. Der Blitz kann auch leblose Objekte durch die schiere Wucht zertrümmern oder zerstören.
+Blitze haben eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x1 % entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für weitere Informationen. Blitze können durch den bloßen Aufprall auch unbeseelte Objekte zertrümmern oder zerstören.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -273,10 +272,10 @@ Der Blitz hat eine Chance, entflammbare Materialien zu entzünden, die dem gewü
 | 3 | 5 | 150 Fuß Reichweite; 2w6+2 Schaden |
 | 4 | 6 | 200 Fuß Reichweite; 2w6+2 Schaden |
 | 5 | 7 | 250 Fuß Reichweite; 3w6+3 Schaden |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortlaufende Steigerung |
 
 ---
-#### Aussehen verändern
+#### Aussehen ändern
 
 (Illusion)
 
@@ -285,9 +284,9 @@ Der Blitz hat eine Chance, entflammbare Materialien zu entzünden, die dem gewü
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 2w6 Minuten/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
-| **Wirkungsbereich:** Zaubernder | **Widerstand:** K.A. |
+| **Bereich:** Zauberer | **Widerstand:** N/A |
 
-Dieser Zauber verändert das Aussehen des Zaubernden in die Form eines beliebigen humanoiden oder zweibeinigen Wesens. Die Änderung von Körpergröße und Gewicht ist auf jeweils ±5 STUR begrenzt, aber innerhalb dieses Bereichs kann der Zaubernde wählen, ob er dick oder dünn, groß oder klein werden oder sogar das Geschlecht ändern möchte. Haare, Kleidung und Ausrüstung können zusammen mit dem Aussehen verändert werden. Die Gesichtszüge des Zaubernden können nach Wunsch verändert werden, sogar bis zur perfekten Nachahmung einer anderen existierenden Person. Der Zauber unterliegt der [Ungläubigkeit](0009_Magic.md?id=attempting-to-disbelieve) wie andere Illusionszauber. Der Zauber verändert nicht den Geruch des Zaubernden, und bei Berührung fühlt sich der Zaubernde genauso an wie in seiner ursprünglichen Form und Kleidung.
+Dieser Zauber verändert das Aussehen des Zauberers in eine beliebige humanoide oder zweibeinige Form. Änderungen von Körpergröße und Gewicht sind auf jeweils ±5 STÄ begrenzt, aber innerhalb dieses Bereichs kann der Zauberer wählen, dick oder dünn, groß oder klein zu werden oder sogar das Geschlecht zu ändern. Haare, Kleidung und Ausrüstung können zusammen mit dem Aussehen verändert werden. Die Gesichtszüge des Zauberers können nach Wunsch verändert werden, sogar bis hin zur perfekten Nachahmung einer anderen existierenden Person. Der Zauber unterliegt dem [Unglauben](0009_Magic.md?id=attempting-to-disbelieve) wie andere Illusionszauber auch. Der Zauber verändert nicht den Geruch des Zauberers, und bei Berührung fühlt sich der Zauberer immer noch wie in seiner ursprünglichen Gestalt und Kleidung an.
 
 ---
 #### Gesang
@@ -299,11 +298,11 @@ Dieser Zauber verändert das Aussehen des Zaubernden in die Form eines beliebige
 | **Rang:** Kleriker 2 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Kampf | **Dauer:** Konzentration |
 | **Kosten:** 1 | **Reichweite:** 0 |
-| **Wirkungsbereich:** 30 Fuß Radius | **Widerstand:** K.A. |
+| **Bereich:** 30 Fuß Radius | **Widerstand:** N/A |
 
-Alle Personen innerhalb des Wirkungsbereichs erhalten einen Bonus von +5% auf alle Fertigkeitswürfe und einen Bonus von +1 auf den Schaden, beides pro Intensitätsstufe. Feinde innerhalb desselben Bereichs erleiden das Gegenteil der oben genannten Vorteile.
+Alle Personen innerhalb des Wirkungsbereichs erhalten einen Bonus von +5 % auf alle Fertigkeitswürfe und einen Bonus von +1 auf Schaden, beides pro Intensitätsstufe. Feinde im selben Bereich erleiden den Kehrwert der oben genannten Vorteile.
 
-Der Gesang muss über die gesamte Dauer des Zaubers aufrechterhalten werden, sonst enden die Effekte. Das Wirken von Magie bannen hat keinen Effekt auf den laufenden Gesang, da das Singen selbst nicht magisch ist; das Wirken von Stille hebt jedoch die Vorteile des Zaubers auf. Die Effekte von Gesang sind mit denen von Segen und Fluch kumulativ. Aufgrund der Notwendigkeit, während der gesamten Dauer zu singen, ist das Wirken anderer Zauber unmöglich.
+Der Gesang muss während der gesamten Dauer des Zaubers aufrechterhalten werden, sonst enden die Effekte. Das Wirken von Magie bannen hat keine Auswirkungen auf die laufenden Effekte des Gesangs, da das Singen selbst nicht magisch ist; das Wirken von Stille hebt die Vorteile des Zaubers jedoch auf. Die Effekte von Gesang sind mit denen von Segen und Fluch kumulativ. Aufgrund der Anforderung, während der gesamten Dauer zu singen, ist das Wirken anderer Zauber unmöglich.
 
 ---
 #### Person bezaubern
@@ -315,15 +314,15 @@ Der Gesang muss über die gesamte Dauer des Zaubers aufrechterhalten werden, son
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 1 Woche/Intensität |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 360 Fuß |
-| **Wirkungsbereich:** 1 lebender Mensch, Halbmensch oder Humanoid | **Widerstand:** Willenskraft |
+| **Bereich:** 1 lebender Mensch, Halbmensch oder Humanoider | **Widerstand:** Willenskraft |
 
-Wenn dieser Zauber gewirkt wird, stellt ein lebendes (untote Kreaturen sind unbeeinflusst), denkendes humanoides Ziel mit STUR 1-20 alle Feindseligkeiten gegen den Magier und dessen Verbündete ein und bietet stattdessen Hilfe und Schutz an, wenn das Ziel seinen Widerstandswurf nicht besteht. Beachte, dass Helfen/Beschützen einen unbeabsichtigten oder sogar negativen Effekt für den Zaubernden haben kann, da das Subjekt basierend darauf handelt, was es für den besten Weg hält, zu beschützen/zu helfen. Was Befehle betrifft, wird ein Ziel niemals suizidale oder offensichtlich schädliche Handlungen ausführen, könnte aber überzeugt werden, dass etwas extrem Gefährliches es wert ist, getan zu werden.
+Wenn dieser Zauber gewirkt wird, stellt ein lebendes (untote Kreaturen sind nicht betroffen), intelligentes humanoides Ziel mit einer Statur von 1–20 alle Feindseligkeiten gegen den Magier und dessen Verbündete ein und bietet stattdessen Hilfe und Schutz an, falls das Ziel einen Widerstandswurf verpatzt. Beachte, dass Hilfe/Schutz unbeabsichtigte oder sogar negative Auswirkungen für den Zauberer haben kann, da das Subjekt basierend darauf handelt, was es für den besten Weg hält, um zu schützen/zu helfen. In Bezug auf Befehle wird ein Ziel niemals selbstmörderische oder offensichtlich schädliche Aktionen befolgen, könnte aber davon überzeugt werden, dass etwas extrem Gefährliches es wert ist, getan zu werden.
 
-Jede feindselige Handlung gegen das Ziel der Bezauberung durch den Magier oder dessen Verbündete bricht die Verzauberung. Hinweis: Wenn andere die Natur der Bezauberung in Frage stellen, darf das Ziel nach Ermessen des Spielleiters ebenfalls einen Widerstandswurf ablegen. Der Magier muss mit dem Bezauberten sprechen können, um eine komplexe „Bitte“ zu äußern; daher kann die Kenntnis der Sprache des Ziels wichtig sein, ist aber für die grundlegende Verzauberung nicht erforderlich.
+Jede feindselige Handlung gegen das Ziel der Bezauberung durch den Magier oder dessen Verbündete bricht die Verzauberung. Hinweis: Wenn andere die Natur der Bezauberung in Frage stellen, kann das Ziel nach Ermessen des Spielleiters ebenfalls einen Widerstandswurf ablegen. Der Magier muss in der Lage sein, mit dem Bezauberten zu sprechen, um ihm eine Art komplexe „Bitte“ zu äußern; daher kann die Kenntnis der Sprache des Ziels wichtig sein, ist aber für die grundlegende Verzauberung nicht erforderlich.
 
-Nach dem anfänglichen Widerstandswurf muss 1 Woche vergehen, bevor das Subjekt einen weiteren Widerstandswurf ablegen kann. Die Effekte dauern an, bis ein erfolgreicher Widerstandswurf gelingt. Das Wirken von Person bezaubern auf höheren Intensitätsstufen erfordert einen Magier mit höherem Rang und hat eine maximale Dauer von 4 Wochen. Während der Wirkungsdauer des Zaubers verringert sich die Gesamtzahl der Magiepunkte des Zaubernden um die für das Wirken des Zaubers aufgewendeten Punkte, gemäß den Regeln für [Andauernde Magiekosten](0009_Magic.md?id=enduring-magic-costs).
+Nach dem anfänglichen Widerstandswurf muss 1 Woche vergehen, bevor das Subjekt einen weiteren Widerstandswurf ablegen kann. Die Effekte dauern an, bis ein erfolgreicher Widerstandswurf erzielt wurde. Das Wirken von Person bezaubern auf höheren Intensitätsstufen erfordert einen Magier höheren Rangs und hat eine maximale Dauer von 4 Wochen. Während der Wirkungsdauer des Zaubers verringert sich der Magiepunkt-Gesamtwert des Zauberers um die für das Wirken des Zaubers ausgegebenen Punkte, gemäß den Regeln für [Anhaltende Magiekosten](0009_Magic.md?id=enduring-magic-costs).
 
-| Intensität | Kosten | Mindestrang | Variabler Effekt |
+| Intensität | Kosten | Min. Rang | Variabler Effekt |
 | :-: | :-: | :-: | :-- |
 | 1 | 3 | 1 | Bezaubert für 1 Woche |
 | 2 | 4 | 2 | Bezaubert für 2 Wochen |
@@ -340,9 +339,9 @@ Nach dem anfänglichen Widerstandswurf muss 1 Woche vergehen, bevor das Subjekt 
 | **Rang:** Magier 5 | **Zauberzeit:** 2 Runden |
 | **Sphäre:** Keine | **Dauer:** 1 Woche/Intensität |
 | **Kosten:** 3/Intensität | **Reichweite:** 40 Fuß/Intensität |
-| **Wirkungsbereich:** 20 Fuß Radius/Intensität | **Widerstand:** Willenskraft |
+| **Bereich:** 20 Fuß Radius/Intensität | **Widerstand:** Willenskraft |
 
-Mit den oben genannten Ausnahmen funktioniert dieser Zauber wie die Zauber [Person bezaubern](0010_Spells.md?id=charm-person) und Monster bezaubern. Dieser mächtigste der Bezauberungszauber hat die Chance, alle Kreaturen innerhalb des Wirkungsbereichs beliebiger STUR zu fesseln. Menschengroße und kleinere Kreaturen (STUR 1-20) müssen ihre Widerstandswürfe mit Schwierigkeit „Schwer“ ablegen; Große Kreaturen (STUR 21-40) müssen ihre Widerstandswürfe mit „Standard“-Schwierigkeit ablegen, und der Widerstandswurf für Riesige Kreaturen (STUR 41+) ist „Leicht“.
+Mit den oben genannten Ausnahmen funktioniert dieser Zauber wie die Zauber [Person bezaubern](0010_Spells.md?id=charm-person) und Monster bezaubern. Dieser mächtigste Bezauberungszauber hat die Chance, alle Kreaturen innerhalb des Wirkungsbereichs beliebiger Statur zu fesseln. Menschengroße und kleinere (Statur 1–20) haben bei ihren Widerstandswürfen den Schwierigkeitsgrad „Schwer“; große Kreaturen (Statur 21–40) müssen ihre Widerstandswürfe mit „Standard“-Schwierigkeit ablegen, und der Widerstandswurf für riesige Kreaturen (Statur 41+) ist „Leicht“.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -361,11 +360,11 @@ Mit den oben genannten Ausnahmen funktioniert dieser Zauber wie die Zauber [Pers
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** 1 Woche/Intensität |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 180 Fuß |
-| **Wirkungsbereich:** 20 Fuß Radius | **Widerstand:** Willenskraft |
+| **Bereich:** 20 Fuß Radius | **Widerstand:** Willenskraft |
 
-Dies ist eine verbesserte Version des Zaubers [Person bezaubern](0010_Spells.md?id=charm-person), da er alle lebenden Kreaturen mit STUR 20 oder weniger innerhalb des Wirkungsbereichs oder 1 Kreatur beliebiger STUR fesselt. Große Kreaturen (STUR 21-40) sind schwieriger zu bezaubern, da ihr Widerstandswurf „Leicht“ ist, und der Widerstandswurf für Riesige Kreaturen (STUR 41+) ist „Sehr Leicht“. Der Zauber funktioniert in allen anderen Belangen wie Person bezaubern.
+Dies ist eine verbesserte Version des Zaubers [Person bezaubern](0010_Spells.md?id=charm-person), in der sie alle lebenden Kreaturen mit einer Statur von 20 oder weniger innerhalb des Wirkungsbereichs oder 1 Kreatur beliebiger Statur fesselt. Große Kreaturen (Statur 21–40) sind schwieriger zu bezaubern, wobei ihr Widerstandswurf „Leicht“ ist, und der Widerstandswurf für riesige Kreaturen (Statur 41+) ist „Sehr Leicht“. Der Zauber funktioniert in allen anderen Belangen wie Person bezaubern.
 
-| Intensität | Kosten | Mindestrang | Variabler Effekt |
+| Intensität | Kosten | Min. Rang | Variabler Effekt |
 | :-: | :-: | :-: | :-- |
 | 1 | 3 | 3 | Bezaubert für 1 Woche |
 | 2 | 4 | 3 | Bezaubert für 2 Wochen |
@@ -373,7 +372,7 @@ Dies ist eine verbesserte Version des Zaubers [Person bezaubern](0010_Spells.md?
 | 4 | 6 | 4 | Bezaubert für 4 Wochen |
 
 ---
-#### Kälte \(U\)
+#### Abkühlen \(R\)
 
 (Evokation)
 
@@ -382,14 +381,14 @@ Dies ist eine verbesserte Version des Zaubers [Person bezaubern](0010_Spells.md?
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Sofort |
 | **Kosten:** 1 | **Reichweite:** Berührung |
-| **Wirkungsbereich:** 1 Ziel | **Widerstand:** Keine |
+| **Bereich:** 1 Ziel | **Widerstand:** Keine |
 
-Kälte reduziert die Temperatur eines kleinen Objekts mit einer Last von nicht mehr als 1 „Gegenstand“ drastisch auf die Temperatur von Eiswasser. Nützlich zum schnellen Abkühlen heißer Gegenstände, Kühlen von Getränken usw. Der Zauber lässt ein Objekt nicht gefrieren und verursacht keinen Schaden an seiner Struktur: Er macht es lediglich sehr kalt.
+Abkühlen reduziert die Temperatur eines kleinen Objekts mit einer Traglast von nicht mehr als 1 „Ding“ drastisch auf die Temperatur von Eiswasser. Nützlich, um heiße Gegenstände schnell abzukühlen, Getränke zu kühlen und so weiter. Der Zauber gefriert ein Objekt nicht und verursacht auch keinen Schaden an dessen Struktur: Er macht es lediglich sehr kalt.
 
-Bei Umkehrung, Hitze, wird die Temperatur kleiner Objekte drastisch auf die Temperatur von kochendem Wasser erhöht. Dieser vielseitige Zauber ist nützlich, um Wein zu wärmen, Essen ohne Feuer zu kochen oder ein Bett vor dem Schlafengehen aufzuwärmen. Er beeinflusst kein lebendes Gewebe, obwohl er Kleidung und Rüstung betreffen kann, was es etwas unbequem macht, aber nicht so weit, dass der Träger behindert wird.
+In der Umkehrung, Erhitzen, erhöht er die Temperatur kleiner Objekte drastisch bis auf die Temperatur von kochendem Wasser. Dieser vielseitige Zauber ist nützlich, um Wein zu wärmen, Essen ohne Feuer zu kochen oder ein Bett vor dem Schlafengehen zu wärmen. Er beeinflusst kein lebendes Gewebe, kann jedoch Kleidung und Rüstung betreffen, was diese etwas unbequem macht, aber nicht so weit, dass sie den Träger behindert.
 
 ---
-#### Reinigen \(U\)
+#### Reinigen \(R\)
 
 (Transmutation)
 
@@ -398,11 +397,11 @@ Bei Umkehrung, Hitze, wird die Temperatur kleiner Objekte drastisch auf die Temp
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Sofort |
 | **Kosten:** 1 | **Reichweite:** Berührung |
-| **Wirkungsbereich:** Siehe unten | **Widerstand:** Willenskraft |
+| **Bereich:** Siehe unten | **Widerstand:** Willenskraft |
 
-Reinigen wird verwendet, um ein Objekt, eine Person oder einen kleinen Bereich von Schmutz, Fett, Dreck, schlechten Gerüchen usw. zu befreien. Es ordnet oder aufräumt das Ziel oder den Bereich nicht; es reinigt sie lediglich in einen blitzsauberen Zustand. Dieser Zauber wird oft zum Reinigen von Kleidung verwendet. Der Zaubernde kann einen Bereich von MACx5 Quadratfuß reinigen (ein 5-Fuß-Quadrat entspricht 25 Quadratfuß).
+Reinigen wird verwendet, um ein Objekt, eine Person oder einen kleinen Bereich von Schmutz, Fett, Dreck, schlechten Gerüchen usw. zu befreien. Es ordnet oder räumt das Ziel oder den Bereich nicht auf; es reinigt sie lediglich in einen blitzblanken Zustand. Dieser Zauber wird oft zum Waschen von Kleidung verwendet. Der Zauberer kann einen Bereich von MACx5 Quadratfuß reinigen (ein 5-Fuß-Quadrat entspricht 25 Quadratfuß).
 
-Beschmutzen ist das Gegenteil von Reinigen. Betroffene Objekte werden sofort mit Dreck, Staub, Spinnweben usw. bedeckt. Der Zauber kann verwendet werden, um brandneue Objekte alt und verwittert aussehen zu lassen oder um zu verhindern, dass normalerweise gut gekleidete Menschen wiedererkannt werden.
+Verwahrlosen ist die Umkehrung von Reinigen. Betroffene Objekte werden sofort mit Dreck, Staub, Spinnweben usw. bedeckt. Der Zauber kann verwendet werden, um brandneue Objekte alt und verwittert aussehen zu lassen oder um zu verhindern, dass normalerweise gut gekleidete Leute wiedererkannt werden.
 
 ---
 #### Befehl
@@ -414,34 +413,34 @@ Beschmutzen ist das Gegenteil von Reinigen. Betroffene Objekte werden sofort mit
 | **Rang:** Kleriker 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Bezauberung | **Dauer:** 1 Minute |
 | **Kosten:** 3 | **Reichweite:** 100 Fuß |
-| **Wirkungsbereich:** 1 Ziel | **Widerstand:** Willenskraft |
+| **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Wenn dieser Zauber gewirkt wird, kann der Kleriker einer lebenden Kreatur mit STUR 1-20 einen Ein-Wort-Befehl erteilen. Wenn der Befehlsempfänger seinem Widerstandswurf nicht widersteht, wird der Befehl in seinem nächsten Spielzug strikt befolgt. Dies führt im Wesentlichen dazu, dass das Opfer seinen nächsten Spielzug damit verbringt, die befohlene Aktion auszuführen, und dabei einen Aktionspunkt verschwendet. Wenn das Opfer keine Aktionspunkte mehr hat, wird die befohlene Aktion während seines ersten Spielzugs in der nächsten Runde ausgeführt. Der Befehl selbst kann dem Ziel keinen tatsächlichen Schaden zufügen; Verletzungen können jedoch als Sekundäreffekt des Befehls auftreten.
+Wenn dieser Zauber gewirkt wird, kann der Kleriker eine Ein-Wort-Anweisung an eine lebende Kreatur mit einer Statur von 1–20 richten, und im nächsten Spielzug des Subjekts wird der Befehl genau befolgt, falls es dem Widerstand nicht gelingt. Dies führt im Wesentlichen dazu, dass das Opfer seinen nächsten Spielzug verpasst, um die befohlene Aktion auszuführen, und einen Aktionspunkt verschwendet, während es sie ausführt. Wenn das Opfer über keine Aktionspunkte mehr verfügt, wird die befohlene Aktion während seines ersten Spielzugs in der nächsten Runde ausgeführt. Der Befehl selbst darf keine tatsächliche Verletzung des Ziels verursachen; Verletzungen können jedoch als Sekundäreffekt des Befehls auftreten.
 
-Zum Beispiel würde der Befehl „Sterben“ dazu führen, dass das Opfer für 1 Runde in einen todesähnlichen Zustand kollabiert, ohne tatsächliche Verletzungen zu erleiden; der Befehl „Fallen“ hingegen, der einer Kreatur gegeben wird, die eine 100 Fuß hohe Klippe erklimmt, könnte tödlicher sein.
+Zum Beispiel würde ein Befehl zu sterben dazu führen, dass das Opfer für 1 Runde in einen todesähnlichen Zustand zusammenbricht, ohne tatsächliche Verletzungen zu verursachen; ein Befehl zu fallen, der einer Kreatur gegeben wird, die eine 100 Fuß hohe Klippe erklimmt, könnte jedoch mehr als tödlich sein.
 
-Das Ziel des Befehls muss die vom Zaubernden gesprochene Sprache verstehen können und darf einen Willenskraft-Wurf ablegen, um zu widerstehen.
+Das Subjekt des Befehls muss in der Lage sein, die vom Zauberer gesprochene Sprache zu verstehen, und darf einen Willenskrafttest ablegen, um zu widerstehen.
 
 **Einige Beispielbefehle**
 
-- **Kriechen:** Das Ziel geht in die Bauchlage und beginnt zu kriechen.
-- **Sterben:** Das Ziel fällt zu Boden und verfällt in einen komatösen todesähnlichen Zustand.
-- **Fallen:** Das Ziel fällt zu Boden.
-- **Patzer:** Das Ziel patzt bei einer physischen Aktion, die es gerade ausführen wollte.
-- **Schlafen:** Das Ziel nickt ein.
-- **Fliehen:** Das Ziel dreht sich um und flieht vor dem Zaubernden.
-- **Fliegen:** Das Ziel schlägt mit den Armen und rennt im Kreis.
-- **Gehen:** Das Ziel beginnt in die Richtung zu laufen, in die es gerade blickt.
-- **Halt:** Das Ziel stoppt sofort und bleibt stehen.
-- **Gehen:** Das Ziel dreht sich um und verlässt den Ort auf dem Weg, auf dem es gekommen ist.
-- **Ruhen:** Das Ziel lässt sich in eine sitzende Position fallen und holt Luft.
-- **Rennen:** Das Ziel beginnt zu rennen.
-- **Schreien:** Das Ziel schreit.
-- **Sinken:** Das Ziel hört mit dem Schwimmen auf.
-- **Ergeben:** Das Ziel lässt seine Waffen fallen und stellt die Feindseligkeiten ein.
+- **Kriechen:** Das Subjekt wirft sich flach hin und beginnt zu kriechen.
+- **Sterben:** Das Subjekt fällt flach hin und tritt in einen komatösen, todesähnlichen Zustand ein.
+- **Fallen:** Das Subjekt fällt flach hin.
+- **Patzer:** Das Subjekt patzt bei einer physischen Aktion, die es gerade ausführen wollte.
+- **Schlafen:** Das Subjekt nickt ein.
+- **Fliehen:** Das Subjekt dreht sich um und flieht vor dem Zauberer.
+- **Fliegen:** Das Subjekt schlägt mit den Armen und rennt im Kreis.
+- **Gehen:** Das Subjekt beginnt in die Richtung zu gehen, in die es blickte.
+- **Halt:** Das Subjekt stoppt sofort und bleibt stehen.
+- **Gehen:** Das Subjekt dreht sich um und geht auf dem Weg zurück, auf dem es gekommen ist.
+- **Ruhen:** Das Subjekt setzt sich und atmet durch.
+- **Laufen:** Das Subjekt beginnt zu laufen.
+- **Schreien:** Das Subjekt schreit.
+- **Sinken:** Das Subjekt hört mit dem Schwimmen auf.
+- **Kapitulieren:** Das Subjekt lässt seine Waffen fallen und stellt die Feindseligkeiten ein.
 
 ---
-#### Kältekegel
+#### Eiskegel
 
 (Evokation)
 
@@ -450,13 +449,13 @@ Das Ziel des Befehls muss die vom Zaubernden gesprochene Sprache verstehen könn
 | **Rang:** Magier 3 | **Zauberzeit:** 1 Runde |
 | **Sphäre:** Keine | **Dauer:** Sofort |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 0 |
-| **Wirkungsbereich:** Siehe unten | **Widerstand:** Ausweichen |
+| **Bereich:** Siehe unten | **Widerstand:** Ausweichen |
 
-Der Zaubernde erschafft einen Kegel aus beißender Kälte, der sich von seiner Hand erstreckt. Der Wirkungsbereich ist ein 90-Grad-Bogen („Kegel“), der sich 10 Fuß weit pro Intensitätsstufe erstreckt. Der Zauber verursacht 1w6+1 Schadenspunkte für jede 2 Punkte Intensität (oder Bruchteile davon) bei allen Opfern im Wirkungsbereich. Würfle den Schaden einmal und wende ihn auf jede Trefferzone des Ziels an, wobei getragene Rüstung nur halben Schutz bietet, die natürliche Rüstung einer Kreatur oder magische Rüstungspunkte den Schaden jedoch wie gewohnt verringern. Der Spielleiter kann die Anzahl der betroffenen Zonen nach eigenem Ermessen wählen, wenn eine riesige Kreatur größer als der Wirkungsbereich ist.
+Der Zauberer erzeugt einen Kegel aus beißender Kälte, der sich von seiner Hand aus erstreckt. Der Wirkungsbereich ist ein 90-Grad-Bogen (ein „Kegel“), der sich 10 Fuß pro Intensitätsstufe in der Länge erstreckt. Der Zauber verursacht 1w6+1 Schadenspunkte für jeweils 2 Intensitätspunkte oder Bruchteile davon bei allen Opfern im Wirkungsbereich. Würfle den Schaden einmal und wende ihn auf jede Trefferzone des Ziels an, wobei getragene Rüstung nur halben Schutz bietet, aber die natürliche Rüstung einer Kreatur oder magische Rüstungspunkte den Schaden wie gewöhnlich reduzieren. Der Spielleiter kann die Anzahl der betroffenen Zonen nach eigenem Ermessen wählen, wenn eine riesige Kreatur größer als der Wirkungsbereich ist.
 
-Mit einem erfolgreichen Ausweichen-Wurf durch Zu-Boden-Werfen erleidet das Opfer keinen Schaden. Jemand mit der Fähigkeit „Gewiefter Ausweicher“ kann ausweichen, ohne sich hinzulegen, aber ein Erfolg reduziert den Schaden in diesem Fall nur um die Hälfte, es sei denn, er befindet sich innerhalb von fünf Fuß vom Rand des Wirkungsbereichs. Kältekegel hat eine Chance, ein Opfer mit einer Eisschicht zu überziehen, die dem gewürfelten (und modifizierten) Schaden x 5% entspricht. Wenn das Opfer eingefroren ist, kann es einmal pro Runde einen Aktionspunkt ausgeben und einen Muskelkraft-Wurf ablegen, um zu versuchen, sich zu befreien; bis zum Erfolg kann das unglückliche Opfer sich jedoch nicht bewegen oder andere Aktionen ausführen.
+Mit einem erfolgreichen Ausweichen-Wurf, bei dem man sich flach auf den Boden wirft, erleidet das Opfer keinen Schaden. Jemand mit der Fähigkeit „Kunstvoller Ausweicher“ kann ausweichen, ohne sich hinzulegen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte, es sei denn, sie befinden sich innerhalb von fünf Fuß vom Rand des Wirkungsbereichs. Eiskegel hat eine Chance, ein Opfer mit einer Eisschicht zu überziehen, die dem gewürfelten Schaden (nach Modifikation) x5 % entspricht. Wenn gefroren, kann das Opfer einmal pro Runde einen Aktionspunkt ausgeben und einen Muskelkraft-Wurf ablegen, um zu versuchen, sich zu befreien; bis dies jedoch gelingt, kann das unglückliche Opfer sich nicht bewegen oder andere Aktionen ausführen.
 
-**Kältekegel-Effekte**
+**Eiskegel-Effekte**
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -465,7 +464,7 @@ Mit einem erfolgreichen Ausweichen-Wurf durch Zu-Boden-Werfen erleidet das Opfer
 | 3 | 5 | 30 Fuß lang; 2w6+2 Schaden |
 | 4 | 6 | 40 Fuß lang; 2w6+2 Schaden |
 | 5 | 7 | 50 Fuß lang; 3w6+3 Schaden |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortlaufende Steigerung |
 
 ---
 #### Verwirrung
@@ -477,49 +476,49 @@ Mit einem erfolgreichen Ausweichen-Wurf durch Zu-Boden-Werfen erleidet das Opfer
 | **Rang:** Kleriker 4, Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Bezauberung | **Dauer:** 1 Minute/Intensität |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 120 Fuß (Kleriker-Version 250 Fuß) |
-| **Wirkungsbereich:** 30 Fuß Radius | **Widerstand:** Willenskraft (Kleriker-Version: Schwere Willenskraft) |
+| **Bereich:** 30 Fuß Radius | **Widerstand:** Willenskraft (Kleriker-Version ist Schwere Willenskraft) |
 
-Wenn dieser Zauber gewirkt wird, werden 1w4 Kreaturen mit STUR 1-20 innerhalb des Wirkungsbereichs, die ihren Widerstandswurf nicht bestehen, von magischer Verwirrung getroffen. Jede zusätzliche Intensitätsstufe betrifft weitere 1w4 Kreaturen bis zu einem Maximum von 4w4. Die Kleriker-Version betrifft 1w3+1 pro Intensität und hat kein Maximum. Diejenigen innerhalb des Wirkungsbereichs, die dem Zaubernden am nächsten stehen, werden zuerst betroffen. Ein erfolgreicher Widerstandswurf besiegt den Zauber, während ein misslungener Wurf dazu führt, dass das Opfer an einem der folgenden zufälligen Effekte leidet; würfle jede Runde für die Dauer des Zaubers oder bis das Opfer wegwandert.
+Wenn dieser Zauber gewirkt wird, werden 1w4 Kreaturen mit einer Statur von 1–20 innerhalb des Wirkungsbereichs, die ihren Widerstandswurf verpatzen, von einer magischen Verwirrung getroffen. Jede zusätzliche Intensitätsstufe betrifft weitere 1w4 Kreaturen bis zu einem Maximum von 4w4. Die Kleriker-Version betrifft 1w3+1 pro Intensität und hat kein Maximum. Diejenigen innerhalb des Wirkungsbereichs, die dem Zauberer am nächsten sind, werden zuerst betroffen. Ein erfolgreicher Widerstandswurf überwindet den Zauber, während ein verpatzter Wurf dazu führt, dass das Opfer an einem der folgenden zufälligen Effekte leidet; würfle jede Runde für die Dauer des Zaubers oder bis das Opfer wegwandert.
 
-| W100-Wurf | Effekte der Verwirrung |
+| W100 Wurf | Effekte der Verwirrung |
 | :-: | :-- |
-| 01-10 | Greift den Zaubernden für den Rest der Runde mit Fernkampf- oder Nahkampfwaffen an |
-| 11-50 | Steht verwirrt da, wählt im Wesentlichen „Zögern“ für den Rest der Runde |
-| 51-70 | Greift für den Rest der Runde den nächsten Feind an |
-| 71-80 | Greift für den Rest der Runde den nächsten Verbündeten an |
-| 81-90 | Wandert bei „Gehen“-Geschwindigkeit davon, wenn nicht im Kampf, für die Dauer des Zaubers, ansonsten „Zögern“ wie bei 11-50 |
-| 91-00 | Handelt für den Rest der Runde normal |
+| 01-10 | Greife den Zauberer für den Rest der Runde mit Fern- oder Nahkampfwaffen an |
+| 11-50 | Stehe verwirrt da und wähle im Wesentlichen Zögern für den Rest der Runde |
+| 51-70 | Greife den nächsten Feind für den Rest der Runde an |
+| 71-80 | Greife den nächsten Verbündeten für den Rest der Runde an |
+| 81-90 | Wandere mit Geh-Geschwindigkeit weg, wenn für die Dauer des Zaubers ungebunden, ansonsten Zögern wie bei 11-50 oben |
+| 91-00 | Handle für den Rest der Runde normal |
 
-Jeder Angriff auf eine verwirrte Kreatur erlaubt ihr einen weiteren Versuch, dem Zauber zu widerstehen. Das Opfer kann normal ausweichen oder parieren.
+Jeder Angriff auf eine verwirrte Kreatur ermöglicht ihr einen weiteren Versuch, dem Zauber zu widerstehen. Das Opfer kann wie gewöhnlich Ausweichen oder Parieren.
 
-Bei einem „Wegwandern“-Ergebnis bewegt sich das Opfer in die entgegengesetzte Richtung zum Zaubernden in Gehtempo unter Verwendung seiner normalen Fortbewegungsart. Kreaturen mit angeborenen Fähigkeiten wie astrale oder ätherische Reise, Ebenenwechsel usw. haben eine Chance von 50%, eine dieser Fähigkeiten anstelle ihrer gewöhnlichen Fortbewegungsform pro Runde zu nutzen.
+Bei einem „Wegwandern“-Ergebnis begibt sich das Opfer mit Gehgeschwindigkeit und unter Verwendung seiner normalen Bewegungsart in die entgegengesetzte Richtung zum Zauberer. Kreaturen mit angeborenen Fähigkeiten wie astrale oder ätherische Reisen, Ebenenwechsel und so weiter haben eine Chance von 50 %, eine dieser Fähigkeiten anstelle ihrer alltäglichen Bewegungsart jede Runde zu nutzen.
 
-Große Kreaturen (STUR 21-40) sind weniger anfällig für Verwirrung, ihr Widerstandswurf ist „Leicht“, während der Widerstandswurf für Riesige Kreaturen (STUR 41+) „Sehr Leicht“ ist.
+Große Kreaturen (Statur 21–40) sind weniger anfällig für Verwirrung, da ihr Widerstandswurf „Leicht“ ist, während der Widerstandswurf für riesige Kreaturen (Statur 41+) „Sehr Leicht“ ist.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 Min.; 1w4 Kreaturen (1w3+1 für Kleriker) |
-| 2 | 4 | 2 Min.; 2w4 Kreaturen (2w3+2 für Kleriker) |
-| 3 | 5 | 3 Min.; 3w4 Kreaturen (3w3+3 für Kleriker) |
-| 4 | 6 | 4 Min.; 4w4 Kreaturen (Max) (4w3+4 für Kleriker) |
-| 5 | 7 | 5 Min.; (5w3+5 für Kleriker) |
-| +1 | +1 | Progression fortsetzen |
+| 1 | 3 | 1 Min.; 1w4 Kreaturen (1w3+1 für einen Kleriker) |
+| 2 | 4 | 2 Min.; 2w4 Kreaturen (2w3+2 für einen Kleriker) |
+| 3 | 5 | 3 Min.; 3w4 Kreaturen (3w3+3 für einen Kleriker) |
+| 4 | 6 | 4 Min.; 4w4 Kreaturen (Max) (4w3+4 für einen Kleriker) |
+| 5 | 7 | 5 Min.; (5w3+5 für einen Kleriker) |
+| +1 | +1 | Fortlaufende Steigerung |
 
 ---
-#### Kontinuierliches Licht
+#### Dauerhaftes Licht
 
 (Transmutation)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 2, Magier 2 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Sonne | **Dauer:** Halbpermanent (siehe unten) |
+| **Sphäre:** Sonne | **Dauer:** Semi-permanent (Siehe unten) |
 | **Kosten:** 3 | **Reichweite:** 180 Fuß |
-| **Wirkungsbereich:** 60 Fuß Radius | **Widerstand:** Siehe unten |
+| **Bereich:** 60 Fuß Radius | **Widerstand:** Siehe unten |
 
-Dieser Zauber erschafft eine Lichtkugel, die in ihrer Helligkeit vollem Tageslicht entspricht, an einem vom Zaubernden gewählten Ort, der ein Objekt oder auch freie Luft sein kann. Er ist halbpermanent und wird nur vorübergehend aufgehoben, wenn man einen Bereich magischer Dunkelheit betritt. Er kann jedoch jederzeit vom Zaubernden permanent aufgehoben oder durch das Wirken von Dunkelheit oder Magie bannen mit einer Intensität, die höher ist als die Stärke von Kontinuierliches Licht, negiert werden.
+Dieser Zauber erzeugt eine Lichtkugel, die in ihrer Helligkeit vollem Tageslicht an einem Ort nach Wahl des Zauberers entspricht, der ein Objekt oder sogar die Luft sein kann. Er ist semi-permanent und wird nur vorübergehend durch das Betreten eines Bereichs magischer Dunkelheit aufgehoben. Er kann jedoch vom Zauberer jederzeit dauerhaft aufgehoben oder durch das Wirken von Dunkelheit oder Magie bannen mit einer höheren Intensität als der Stärke von Dauerhaftes Licht negiert werden.
 
-Kreaturen mit einer Abneigung gegen Tageslicht erleiden die damit verbundenen normalen Abzüge, wenn sie sich innerhalb des relevanten Wirkungsbereichs befinden. Wenn der Zauber auf eine Kreatur gewirkt wird, darf das Ziel einen Willenskraft-Test ablegen, um zu widerstehen; ein Erfolg zeigt an, dass der Zauber den Bereich direkt hinter der Kreatur betroffen hat und nicht die Kreatur selbst. Wenn er auf die Augen einer Kreatur zentriert wird, führt ein misslungener Willenskraft-Wurf zu teilweiser Blindheit, was die Schwierigkeit aller Fertigkeits- und Widerstandswürfe, die Sicht erfordern, um einen Grad erhöht. Die Sicht kann nur durch das Wirken von Blindheit und Taubheit heilen mit einer beliebigen Intensität oder durch das Wirken von Magie bannen mit einer Intensität, die höher ist als die Stärke von Kontinuierliches Licht, wiederhergestellt werden. Die Effekte des Zaubers sind unbeweglich, können aber auf ein tragbares oder bewegliches Objekt gewirkt werden.
+Kreaturen mit einer Abneigung gegen Tageslicht erleiden die damit verbundenen normalen Abzüge, wenn sie sich innerhalb des relevanten Wirkungsbereichs befinden. Wenn der Zauber auf eine Kreatur gewirkt wird, darf das Ziel einen Willenskrafttest ablegen, um zu widerstehen, wobei ein Erfolg anzeigt, dass der Zauber den Bereich direkt hinter der Kreatur betroffen hat und nicht die Kreatur selbst. Wenn er auf die Augen einer Kreatur zentriert wird, führt ein verpatzter Willenskraftwurf zu teilweiser Blindheit, was die Schwierigkeit aller Fertigkeits- und Widerstandswürfe, die Sicht erfordern, um einen Grad erhöht. Das Sehvermögen kann nur durch das Wirken von Blindheit und Taubheit heilen mit einer beliebigen Intensität oder durch das Wirken von Magie bannen mit einer Intensität, die größer als die Stärke von Dauerhaftes Licht ist, wiederhergestellt werden. Die Effekte des Zaubers sind unbeweglich, können aber auf ein tragbares oder bewegliches Objekt gewirkt werden.
 
 ---
 #### Wetter kontrollieren
@@ -530,12 +529,13 @@ Kreaturen mit einer Abneigung gegen Tageslicht erleiden die damit verbundenen no
 | :-- | :-- |
 | **Rang:** Kleriker 5, Magier 4 | **Zauberzeit:** 10 Minuten |
 | **Sphäre:** Wetter | **Dauer:** 1w6 Stunden/Intensität |
-| **Kosten:** 3 + 1/Intensität | **Reichweite:** 0 |
-| **Wirkungsbereich:** 1w4 Quadratmeilen/Intensität | **Widerstand:** K.A. |
+| **Kosten:** 3 +1/Intensität | **Reichweite:** 0 |
+| **Bereich:** 1w4 Quadratmeilen/Intensität | **Widerstand:** N/A |
 
-Dieser Zauber erlaubt es dem Zaubernden, das aktuelle Wetter signifikant und merklich zu verändern. Sobald er gewirkt wurde, müssen weitere 1w4x10 Minuten vergehen, bis sich die Effekte vollständig manifestieren. Die Dauer einer Änderung wird gemäß der Dauer des Zaubers berechnet. Der Zaubernde kann Niederschlag, Temperatur und Wind um bis zu zwei Grad nach oben oder unten verändern, wie in den Tabellen im [Anhang B: Umrechnungstabellen](Appendix_B_Conversion_Tables) aufgeführt.
+Dieser Zauber erlaubt es dem Zauberer, das aktuelle Wetter auf signifikante und bemerkenswerte Weise zu verändern. Nach dem Wirken müssen weitere 1w4x10 Minuten vergehen, bis die Effekte vollständig eintreten. Die Dauer jeder Änderung wird gemäß der Dauer des Zaubers berechnet. Der Zauberer kann Niederschlag, Temperatur und Wind um bis zu zwei Grad nach oben oder unten verändern, wie in den Tabellen in [Umrechnungstabellen](Appendix_B_Conversion_Tables) detailliert.
 
 <br>
+
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -543,7 +543,7 @@ Dieser Zauber erlaubt es dem Zaubernden, das aktuelle Wetter signifikant und mer
 | 2 | 4 | 2w6 Std. Dauer; 2w4 Quadratmeilen |
 | 3 | 5 | 3w6 Std. Dauer; 3w4 Quadratmeilen |
 | 4 | 6 | 4w6 Std. Dauer; 4w4 Quadratmeilen |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortlaufende Steigerung |
 
 ---
 #### Koordination
@@ -555,9 +555,9 @@ Dieser Zauber erlaubt es dem Zaubernden, das aktuelle Wetter signifikant und mer
 | **Rang:** Kleriker 0, Magier 0 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Alle | **Dauer:** Auslöser |
 | **Kosten:** 1 | **Reichweite:** Berührung |
-| **Wirkungsbereich:** 1 Ziel | **Widerstand:** Keine |
+| **Bereich:** 1 Ziel | **Widerstand:** Keine |
 
-Koordination verbessert die manuelle Geschicklichkeit und Beweglichkeit bei der Ausführung einer einzigen, zuvor festgelegten Aufgabe. Wenn der Zauber vorbereitend gewirkt wird, erlaubt er dem Empfänger, einen einzigen Fertigkeitswurf, bei dem Koordination erforderlich ist (wie Akrobatik, Schlösser knacken usw.), zu wiederholen. Der Empfänger kann das bessere der beiden Ergebnisse wählen, aber der Zauber ist dabei verbraucht.
+Koordination verbessert die manuelle Geschicklichkeit und Agilität bei der Ausführung einer einzelnen vorbestimmten Aufgabe. Wenn der Zauber zur Vorbereitung gewirkt wird, erlaubt er dem Empfänger die Chance, einen einzelnen Fertigkeitswurf zu wiederholen, bei dem Koordination erforderlich ist, wie z. B. Akrobatik, Schlösser knacken und so weiter. Der Empfänger kann das bessere der beiden Ergebnisse wählen, aber der Zauber ist dabei verbraucht.
 
 ---#### Essen und Trinken Erschaffen
 
@@ -566,14 +566,14 @@ Koordination verbessert die manuelle Geschicklichkeit und Beweglichkeit bei der 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 1 | **Zauberzeit:** 1 Minute |
-| **Sphäre:** Schöpfung, Elementar (Wasser) | **Wirkungsdauer:** Siehe unten |
-| **Kosten:** 3 +1/Intensität | **Reichweite:** 30 Fuß (ca. 9 m) |
+| **Sphäre:** Erschaffung, Elementar (Wasser) | **Wirkungsdauer:** Siehe unten |
+| **Kosten:** 3 +1/Intensität | **Reichweite:** 30 Fuß |
 | **Bereich:** Siehe unten | **Widerstand:** N/A |
 
-Das Wirken dieses Zaubers erschafft aus dem Nichts genug Nahrung, um pro Intensitätsstufe drei Kreaturen mit einer STÄ von 20 oder weniger oder eine Kreatur mit einer STÄ von 21-40 für einen ganzen Tag zu ernähren. Kreaturen größer als STÄ 40 benötigen 1 Intensität pro „Mahlzeit“. Diese Schöpfung ähnelt in jeder Hinsicht normaler Nahrung und kann, wenn auch recht geschmacklos, alles sein, was sich der Zaubernde wünscht. Was ihr an Geschmack fehlt, macht sie durch ihren Nährwert mehr als wett. Nach der Erschaffung ist die Nahrung 24 Stunden haltbar, unabhängig davon, wie sie gelagert wird. Sobald sie jedoch verdorben ist, kann sie durch das Wirken von Nahrung und Wasser Reinigen erneut essbar gemacht werden, wodurch der Zeitraum, in dem sie sicher verzehrt werden kann, um weitere 24 Stunden verlängert wird. Zusätzlich zur erschaffenen Nahrung erzeugt der Zauber reichlich Trinkwasser, das in jeder Hinsicht wie der Rang-1-Zauber Wasser Erschaffen funktioniert.
+Das Wirken dieses Zaubers erschafft aus dem Nichts genug Nahrung, um drei Kreaturen mit einer STÄ von 20 oder weniger oder eine Kreatur mit einer STÄ von 21-40 für einen ganzen Tag pro Intensität zu versorgen. Kreaturen mit einer STÄ von über 40 benötigen 1 Intensität pro „Mahlzeit“. Diese Schöpfung ähnelt in jeder Hinsicht normaler Nahrung und kann, obwohl sie eher fad ist, alles sein, was der Zaubernde wünscht. Was ihr an Geschmack fehlt, macht sie durch Nährwert mehr als wett. Nach der Erschaffung ist die Nahrung 24 Stunden lang haltbar, unabhängig davon, wie sie gelagert wird. Sobald sie jedoch verdorben ist, kann sie durch das Wirken von Nahrung und Wasser Reinigen wieder genießbar gemacht werden, wodurch der Zeitraum, in dem sie sicher verzehrt werden kann, um weitere 24 Stunden verlängert wird. Zusätzlich zu der Nahrung erschafft der Zauber reichlich Trinkwasser, das in jeder Hinsicht wie der Zauber des Ranges 1 Wasser Erschaffen funktioniert.
 
 ---
-#### Krankheit Heilen (R)
+#### Krankheit Heilen \(R\)
 
 (Nekromantie)
 
@@ -584,20 +584,20 @@ Das Wirken dieses Zaubers erschafft aus dem Nichts genug Nahrung, um pro Intensi
 | **Kosten:** 3/Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** N/A (Konstitution oder Ausweichen) |
 
-Dieser Zauber heilt die Auswirkungen jeder gewöhnlichen oder magischen Krankheit, die das Ziel befällt, sofern deren Potenz geringer ist als das 30-Fache der Intensität des Zaubers. Sobald die Heilung wirksam ist, kann die Erholung gemäß der Beschreibung der jeweiligen Krankheit beginnen. Leiden, die durch parasitäre Kreaturen wie Grünen Schleim, Fäulnismaden oder sogar Lykanthropen übertragen werden, können durch Krankheit Heilen aufgehoben werden. Bei letzteren Leiden muss Krankheit Entfernen jedoch innerhalb von 72 Stunden und mit einer Intensität von 12 oder höher gewirkt werden, während erstere bereits bei einer Intensität von 1 geheilt werden können. Dieser Zauber bietet keine zukünftige Immunität gegen die Krankheit.
+Dieser Zauber heilt die Auswirkungen jeder weltlichen oder magischen Krankheit, die das Ziel befällt, deren Potenz geringer ist als die Intensität des Zaubers x30. Sobald die Heilung wirksam ist, kann die Erholung gemäß der Beschreibung der betreffenden Krankheit beginnen. Leiden, die durch parasitäre Kreaturen wie Grüner Schleim, Fäulnis-Maden und sogar Lykanthropen verursacht werden, können durch Krankheit Heilen aufgehoben werden. Bei letzteren Leiden muss Krankheit Entfernen jedoch innerhalb von 72 Stunden und mit einer Intensität von 12 oder höher gewirkt werden, während erstere mit einer Intensität von nur 1 geheilt werden können. Dieser Zauber bietet keine zukünftige Immunität gegen die Krankheit.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | Heilt eine Krankheit der POT 30, Grünen Schleim oder Fäulnismaden |
-| 2 | 6 | Heilt eine Krankheit der POT 60 |
-| 3 | 9 | Heilt eine Krankheit der POT 90 |
-| 4 | 12 | Heilt eine Krankheit der POT 120, Lykanthropie |
-| +1 | +1 | Fortsetzung der Progression |
+| 1 | 3 | Heilt eine Krankheit mit POT 30, Grünen Schleim oder Fäulnis-Maden |
+| 2 | 6 | Heilt eine Krankheit mit POT 60 |
+| 3 | 9 | Heilt eine Krankheit mit POT 90 |
+| 4 | 12 | Heilt eine Krankheit mit POT 120, Lykanthropie |
+| +1 | +1 | Setzt Progression fort |
 
-Das Gegenstück dieses Zaubers, Krankheit Verursachen, fügt einem Feind ein magisches Leiden zu. Bei Erfolg kann der Zaubernde wählen, dem Ziel eine beliebige bekannte Krankheit zuzufügen; jedoch muss das 30-Fache der Intensität der Potenz der gewählten Krankheit entsprechen oder diese übertreffen. Sobald die Krankheit erfolgreich zugefügt wurde, funktioniert sie wie jede andere Krankheit in Bezug auf Widerstand, Einsetzzeit, Wirkungsdauer und so weiter. Die einzige Ausnahme ist, dass eine vorzeitige Genesung auf das Wirken von entweder Krankheit Entfernen oder Heilen beschränkt ist. Die Fertigkeit Erste Hilfe hat keine Auswirkungen auf magisch verursachte Krankheiten.
+Das Umkehren dieses Zaubers, Krankheit Verursachen, fügt einem Feind ein magisches Leiden zu. Bei Erfolg kann der Zaubernde wählen, dem Ziel eine bekannte Krankheit zuzufügen; jedoch muss die Intensität x30 gleich oder größer sein als die Potenz der gewählten Krankheit. Sobald die Krankheit erfolgreich zugefügt wurde, funktioniert sie in Bezug auf Widerstand, Einsetzzeit, Dauer usw. wie jede andere Krankheit. Die einzige Ausnahme ist, dass eine frühzeitige Genesung auf das Wirken von entweder Krankheit Entfernen oder Heilen beschränkt ist. Die Fertigkeit Erste Hilfe hat keine Auswirkungen auf magisch verursachte Krankheiten.
 
 ---
-#### Ermüdung Heilen (R)
+#### Ermüdung Heilen \(R\)
 
 (Nekromantie)
 
@@ -608,12 +608,12 @@ Das Gegenstück dieses Zaubers, Krankheit Verursachen, fügt einem Feind ein mag
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** N/A (Konstitution oder Ausweichen) |
 
-Wenn dieser Zauber gewirkt wird, regeneriert das Subjekt 1d3+1 verlorene Stufen der Ermüdung und erlangt gegebenenfalls sogar das Bewusstsein zurück.
+Wenn dieser Zauber gewirkt wird, erlangt das Subjekt 1d3+1 verlorene Stufen Ermüdung zurück und erlangt gegebenenfalls sogar das Bewusstsein wieder.
 
-Das Gegenstück dieses Zaubers, Ermüdung Verursachen, fügt Zielen, die einen Konstitutionswurf nicht bestehen, 1d3+1 Stufen der Ermüdung zu. Der Kanalisieren-Wurf des Zaubernden fungiert als Wurf, um den Gegner zu treffen, und wird als Teil der somatischen Anforderung des Zaubers betrachtet. Kein zusätzlicher Trefferwurf ist notwendig. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstung negiert den Zauber.
+Das Umkehren dieses Zaubers, Ermüdung Verursachen, fügt Zielen, die einen Konstitutionswurf misslingen, 1d3+1 Stufen Ermüdung zu. Der Kanalisieren-Wurf des Zaubernden fungiert als Wurf, um den Gegner zu treffen, und gilt als Teil der somatischen Komponente des Zaubers. Kein zusätzlicher Trefferwurf ist notwendig. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstung neutralisiert den Zauber.
 
 ---
-#### Schwere Wunden Heilen (R)
+#### Schwere Wunden Heilen \(R\)
 
 (Nekromantie)
 
@@ -624,16 +624,16 @@ Das Gegenstück dieses Zaubers, Ermüdung Verursachen, fügt Zielen, die einen K
 | **Kosten:** 3/Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** N/A (Konstitution oder Ausweichen) |
 
-Dieser Zauber funktioniert wie Leichte Wunden Heilen, außer wie unten angegeben.
+Dieser Zauber funktioniert wie Leichte Wunden Heilen, außer wie unten vermerkt.
 
-Dieser Zauber heilt eine einzelne Trefferzone, die unter einer schweren Wunde leidet, egal ob sie gequetscht oder verstümmelt wurde. Er hat keine Wirkung auf ein abgetrenntes Gliedmaß, das entweder Heilen (wenn das Gliedmaß noch vorhanden ist) oder Regeneration erfordert, um es wiederherzustellen. Vorausgesetzt, der Empfänger ist noch am Leben und die Stelle wurde innerhalb eines Zeitraums von Stunden, der der Intensität des Zaubers entspricht, verwundet, heilt Schwere Wunden Heilen 1d8+4 Schaden fast augenblicklich.
+Dieser Zauber heilt eine einzelne Trefferzone, die unter einer Schweren Wunde leidet, egal ob sie zerquetscht oder verstümmelt wurde. Er hat keine Wirkung auf ein abgetrenntes Gliedmaß, das entweder Heilen (wenn das Gliedmaß noch vorhanden ist) oder Regeneration erfordert, um wiederhergestellt zu werden. Vorausgesetzt, der Empfänger lebt noch und die Stelle wurde innerhalb einer Anzahl von Stunden verletzt, die der Intensität des Zaubers entspricht, heilt Schwere Wunden Heilen 1d8+4 Schaden fast augenblicklich.
 
-Wenn die Verletzung früher stattfand, muss das Körperteil eine traumatischere Reparatur durchlaufen, die ein einmaliges Wirken von Schwere Wunden Heilen und eine Anzahl von Tagen vollständiger Ruhe und Erholung erfordert, die der Heilungsrate des Charakters entspricht. Die gewürfelten Trefferpunkte werden gemittelt und über den Zeitraum der Erholung wiedererlangt. Wird dieser Erholungszeitraum unterbrochen, bevor die Heilung abgeschlossen ist, bleibt die Stelle verstümmelt und unbrauchbar und kann nur durch den Zauber Heilen geheilt werden.
+Wenn die Verletzung früher stattfand, muss das Körperteil eine traumatischere Reparatur durchlaufen, die ein einmaliges Wirken von Schwere Wunden Heilen sowie eine Anzahl von Tagen vollständiger Ruhe und Erholung erfordert, die der Heilungsrate des Charakters entspricht. Die gewürfelten Trefferpunkte werden gemittelt und über den Zeitraum der Erholungsphase zurückgewonnen. Wenn diese Erholungsphase unterbrochen wird, bevor die Heilung abgeschlossen ist, bleibt die Stelle verstümmelt und unbrauchbar und kann nur durch den Zauber Heilen geheilt werden.
 
-Bei Umkehrung kann Schwere Wunden Verursachen verwendet werden, um eine einzelne Trefferzone um 1d8+4 Trefferpunkte zu reduzieren. Der Kanalisieren-Wurf des Zaubernden fungiert als Trefferwurf gegen den Gegner und wird als Teil der somatischen Anforderung des Zaubers betrachtet. Kein zusätzlicher Trefferwurf ist notwendig. Dieser Zauber kann die Stelle nicht abtrennen, kann sie aber normal quetschen oder verstümmeln. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie gewohnt.
+Umgekehrt kann Schwere Wunden Verursachen verwendet werden, um eine einzelne Trefferzone um 1d8+4 Trefferpunkte zu reduzieren. Der Kanalisieren-Wurf des Zaubernden fungiert als Trefferwurf gegen den Gegner und gilt als Teil der somatischen Komponente des Zaubers. Kein zusätzlicher Trefferwurf ist notwendig. Dieser Zauber kann die Stelle nicht abtrennen, kann sie aber normal zerquetschen oder verstümmeln. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie üblich.
 
 ---
-#### Leichte Wunden Heilen (R)
+#### Leichte Wunden Heilen \(R\)
 
 (Nekromantie)
 
@@ -644,18 +644,18 @@ Bei Umkehrung kann Schwere Wunden Verursachen verwendet werden, um eine einzelne
 | **Kosten:** 3 (oder 1) | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** N/A (Konstitution oder Ausweichen) |
 
-Leichte Wunden Heilen hat verschiedene Effekte, je nach Art des Leidens, gegen das es eingesetzt wird. Wenn es auf eine Kreatur mit einer leichten Wunde gewirkt wird, werden 1d4+1 Trefferpunkte an der verletzten Stelle sofort geheilt. Er hat eine begrenzte Wirkung auf ernsthafte und schwere Wunden, wobei nur ein einziger Trefferpunkt wiederhergestellt wird. Der Zauber stabilisiert jedoch eine Stelle ungeachtet des Schadens, stoppt jegliche Blutung und verhindert den unmittelbaren Tod.
+Leichte Wunden Heilen hat je nach Art des Leidens, für das es verwendet wird, unterschiedliche Wirkungen. Wenn es auf eine Kreatur gewirkt wird, die an einer Leichten Wunde leidet, werden 1d4+1 Trefferpunkte an der verletzten Stelle sofort geheilt. Es hat eine begrenzte Wirkung auf Ernsthafte und Schwere Wunden, wobei nur ein einziger Trefferpunkt wiederhergestellt wird. Der Zauber stabilisiert jedoch die Stelle unabhängig vom Schaden, stoppt jede Blutung und verhindert den unmittelbar bevorstehenden Tod.
 
-Alternativ, wenn das Subjekt an einer kleineren Beschwerde leidet, wie Kopfschmerzen, Rückenschmerzen, Kater, Erkältung, Warzen usw., hebt das Wirken von Leichte Wunden Heilen einen dieser Effekte auf. Diese Anwendung des Zaubers kostet nur einen einzigen Magiepunkt.
+Alternativ, wenn das Subjekt an einem kleinen Leiden leidet, wie Kopfschmerzen, Rückenschmerzen, Kater, Erkältung, Warzen usw., hebt das Wirken von Leichte Wunden Heilen einen dieser Effekte auf. Diese Anwendung des Zaubers kostet nur einen einzigen Magiepunkt.
 
-Bei Umkehrung reduziert Leichte Wunden Verursachen die Trefferpunkte der berührten Stelle um 1d4+1 Punkte, funktioniert ansonsten aber auf die gleiche Weise. Leichte Wunden Verursachen fügt einer Stelle mit einer ernsthaften oder schweren Wunde nur 1 Punkt Schaden zu, während überschüssiger Schaden verloren geht. Dieser Zauber kann die Stelle nicht abtrennen, kann sie aber normal quetschen oder verstümmeln.
+Umgekehrt reduziert Leichte Wunden Verursachen die Trefferpunkte der berührten Stelle um 1d4+1 Punkte, operiert ansonsten aber auf die gleiche Weise. Leichte Wunden Verursachen fügt einer Stelle mit einer Ernsthaften oder Schweren Wunde nur 1 Schadenspunkt zu, während überschüssiger Schaden verloren geht. Dieser Zauber kann die Stelle nicht abtrennen, kann sie aber normal zerquetschen oder verstümmeln.
 
-Alternativ kann der Zauber ein kleineres Leiden verursachen, wie Kopfschmerzen, Rückenschmerzen, Kater, Erkältung, Warzen usw. Diese Anwendung des Zaubers kostet nur einen einzigen Magiepunkt.
+Alternativ kann der Zauber ein kleines Leiden verursachen, wie Kopfschmerzen, Rückenschmerzen, Kater, Erkältung, Warzen usw. Diese Anwendung des Zaubers kostet nur einen einzigen Magiepunkt.
 
-Der Kanalisieren-Wurf des Zaubernden fungiert als Trefferwurf gegen den Gegner und wird als Teil der somatischen Anforderung des Zaubers betrachtet. Kein zusätzlicher Trefferwurf ist notwendig. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie gewohnt.
+Der Kanalisieren-Wurf des Zaubernden fungiert als Trefferwurf gegen den Gegner und gilt als Teil der somatischen Komponente des Zaubers. Kein zusätzlicher Trefferwurf ist notwendig. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie üblich.
 
 ---
-#### Ernsthafte Wunden Heilen (R)
+#### Ernsthafte Wunden Heilen \(R\)
 
 (Nekromantie)
 
@@ -666,11 +666,11 @@ Der Kanalisieren-Wurf des Zaubernden fungiert als Trefferwurf gegen den Gegner u
 | **Kosten:** 3 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** N/A (Konstitution oder Ausweichen) |
 
-Dieser Zauber funktioniert wie Leichte Wunden Heilen, außer wie unten angegeben.
+Dieser Zauber funktioniert wie Leichte Wunden Heilen, außer wie unten vermerkt.
 
-Ernsthafte Wunden Heilen heilt eine Trefferzone um 1d6+2 Schadenspunkte, vorausgesetzt, die Verletzung ist nicht schwerwiegender als eine ernsthafte Wunde. Er hat eine begrenzte Wirkung auf schwere Wunden, heilt die Stelle um 2 Trefferpunkte und stabilisiert die Verletzung, was den Tod verhindert.
+Ernsthafte Wunden Heilen heilt eine Trefferzone um 1d6+2 Punkte Verletzung, vorausgesetzt, die Verletzung ist nicht schwerwiegender als eine Ernsthafte Wunde. Es hat eine begrenzte Wirkung auf Schwere Wunden, heilt die Stelle um 2 Trefferpunkte und stabilisiert die Verletzung, was den Tod verhindert.
 
-Bei Umkehrung reduziert Ernsthafte Wunden Verursachen eine einzelne Trefferzone um 1d6+2 Trefferpunkte. Ernsthafte Wunden Verursachen verursacht nur 2 Schadenspunkte bei einer Stelle mit einer schweren Wunde; überschüssiger Schaden geht verloren. Der Kanalisieren-Wurf des Zaubernden fungiert als Trefferwurf gegen den Gegner und wird als Teil der somatischen Anforderung des Zaubers betrachtet. Kein zusätzlicher Trefferwurf ist notwendig. Dieser Zauber kann die Stelle nicht abtrennen, kann sie aber normal quetschen oder verstümmeln. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie gewohnt.
+Umgekehrt reduziert Ernsthafte Wunden Verursachen eine einzelne Trefferzone um 1d6+2 Trefferpunkte. Ernsthafte Wunden Verursachen fügt einer Stelle mit einer Schweren Wunde nur 2 Schadenspunkte zu; jeder überschüssige Schaden geht verloren. Der Kanalisieren-Wurf des Zaubernden fungiert als Trefferwurf gegen den Gegner und gilt als Teil der somatischen Komponente des Zaubers. Kein zusätzlicher Trefferwurf ist notwendig. Dieser Zauber kann die Stelle nicht abtrennen, kann sie aber normal zerquetschen oder verstümmeln. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie üblich.
 
 ---
 #### Tanzende Lichter
@@ -684,15 +684,15 @@ Bei Umkehrung reduziert Ernsthafte Wunden Verursachen eine einzelne Trefferzone 
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
 | **Bereich:** 100 Fuß Radius/Intensität | **Widerstand:** N/A |
 
-Wenn dieser Zauber gewirkt wird, kann der Magieanwender einen der folgenden Effekte erzeugen: 1d4 flackernde Lichtpunkte, die Laternen oder Fackeln ähneln und eine ähnliche Beleuchtung abgeben, 1d4 glühende Lichtkugeln wie Irrlichter oder 1 vage humanoide Gestalt aus flackerndem Licht wie die eines Feuerelementars. Die Effekte können vom Zaubernden ohne Konzentration gelenkt werden und bewegen sich mit jeder gewünschten Geschwindigkeit innerhalb des Bereichs des Zaubers. Wenn die Lichter den Wirkungsbereich des Zaubers verlassen oder die Dauer abläuft, erlöschen sie.
+Wenn dieser Zauber gewirkt wird, kann der Magieanwender einen der folgenden Effekte erzeugen: 1d4 flackernde Lichtpunkte, die Laternen oder Fackeln ähneln und eine ähnliche Menge an Beleuchtung abgeben, 1d4 leuchtende Lichtkugeln wie Irrlichter oder 1 vage humanoide Gestalt aus flackerndem Licht, wie die eines Feuerelementars. Die Effekte können vom Zaubernden ohne Konzentration gesteuert werden und bewegen sich mit jeder gewünschten Geschwindigkeit innerhalb des Bereichs des Zaubers. Wenn die Lichter aus dem Wirkungsbereich des Zaubers wandern oder die Wirkungsdauer abläuft, erlöschen sie.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | 1d4 Lichter oder 1 Form für 2 Min. in 100 Fuß Radius |
-| 2 | 2 | 1d4 Lichter oder 1 Form für 4 Min. in 200 Fuß Radius |
-| 3 | 3 | 1d4 Lichter oder 1 Form für 6 Min. in 300 Fuß Radius |
-| 4 | 4 | 1d4 Lichter oder 1 Form für 8 Min. in 400 Fuß Radius |
-| +1 | +1 | Fortsetzung der Progression |
+| 1 | 1 | 1d4 Lichter oder 1 Gestalt für 2 Min. in einem Radius von 100 Fuß |
+| 2 | 2 | 1d4 Lichter oder 1 Gestalt für 4 Min. in einem Radius von 200 Fuß |
+| 3 | 3 | 1d4 Lichter oder 1 Gestalt für 6 Min. in einem Radius von 300 Fuß |
+| 4 | 4 | 1d4 Lichter oder 1 Gestalt für 8 Min. in einem Radius von 400 Fuß |
+| +1 | +1 | Setzt Progression fort |
 
 ---
 #### Dunkelheit
@@ -706,7 +706,7 @@ Wenn dieser Zauber gewirkt wird, kann der Magieanwender einen der folgenden Effe
 | **Kosten:** 1/Intensität | **Reichweite:** 30 Fuß/Intensität |
 | **Bereich:** 10 Fuß Radius | **Widerstand:** N/A |
 
-Dieser Zauber erzeugt einen Bereich totaler magischer Dunkelheit in einem Radius von 10 Fuß, der sowohl normales Sehen als auch spezielles rassisches Sehen wie Infrasicht blockiert. Alle Arten von gewöhnlichem Licht werden durch diesen Zauber aufgehoben, von Sonnenlicht bis Kerzenlicht. Er kann durch das Wirken von Licht und umgekehrt gekontert werden; andere Formen magischen Lichts wie Tanzende Lichter, Feenfeuer und sogar das Leuchten von Entdeckungszaubern werden jedoch durch Dunkelheit aufgehoben. Ein Licht-Zauber mit bereits laufender Wirkungsdauer hat keinen Effekt auf Dunkelheit und umgekehrt.
+Dieser Zauber erzeugt einen Bereich totaler magischer Dunkelheit in einem Radius von 10 Fuß, der normales Sehen sowie spezielle rassenbedingte Sicht wie Dunkelsicht blockiert. Alle Formen von weltlichem Licht werden durch diesen Zauber neutralisiert, von Sonnenlicht bis zu Kerzenschein. Er kann durch das Wirken von Licht gekontert werden und umgekehrt; andere Formen magischen Lichts wie Tanzende Lichter, Feenfeuer und sogar das Leuchten von Entdeckungszaubern werden jedoch durch Dunkelheit neutralisiert. Ein Licht-Zauber mit einer bereits laufenden Wirkungsdauer hat keine Wirkung auf Dunkelheit und umgekehrt.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -714,7 +714,7 @@ Dieser Zauber erzeugt einen Bereich totaler magischer Dunkelheit in einem Radius
 | 2 | 2 | 20 Min.; 60 Fuß Reichweite |
 | 3 | 3 | 30 Min.; 90 Fuß Reichweite |
 | 4 | 4 | 40 Min.; 120 Fuß Reichweite |
-| +1 | +1 | Fortsetzung der Progression |
+| +1 | +1 | Setzt Progression fort |
 
 ---
 #### Dunkelsicht
@@ -728,7 +728,7 @@ Dieser Zauber erzeugt einen Bereich totaler magischer Dunkelheit in einem Radius
 | **Kosten:** 1/Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** N/A |
 
-Dieser Zauber gewährt dem Empfänger Dunkelsicht bis zu einer Reichweite von 60 Fuß. Er funktioniert in jeder Hinsicht wie die gleichnamige rassische Eigenschaft.
+Dieser Zauber gewährt dem Empfänger Dunkelsicht bis zu einer Reichweite von 60 Fuß. Er funktioniert in jeder Hinsicht wie die rassenbedingte Eigenschaft mit demselben Namen.
 
 ---
 #### Todeszauber
@@ -739,25 +739,25 @@ Dieser Zauber gewährt dem Empfänger Dunkelsicht bis zu einer Reichweite von 60
 | :-- | :-- |
 | **Rang:** Magier 4 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Wirkungsdauer:** Augenblicklich |
-| **Kosten:** 3 +1/Intensität, +2 Erf. Mod. | **Reichweite:** 30 Fuß/Intensität |
+| **Kosten:** 3 +1/Intensität, +2 ERF | **Reichweite:** 30 Fuß/Intensität |
 | **Bereich:** 15 Fuß Radius | **Widerstand:** Konstitution |
 
-Das erfolgreiche Wirken dieses Zaubers tötet eine variable Anzahl von Kreaturen der STÄ 40 oder weniger im Wirkungsbereich. Der Magieanwender würfelt 1d6 für jede Intensitätsstufe, um die Anzahl der betroffenen Kreaturen zu bestimmen. Wenn Kreaturen unterschiedlicher STÄ-Kategorien den Wirkungsbereich besetzen, sind menschengroße Kreaturen (STÄ 1-20) immer vor größeren betroffen. Große Kreaturen (STÄ 21-40) widerstehen dem Tod eher, wobei ihr Widerstandswurf Leicht ist, jedoch zählt jede große Kreatur als 5 menschengroße Kreaturen. Kreaturen größer als STÄ 40 sind von diesem Zauber nicht betroffen.
+Das erfolgreiche Wirken dieses Zaubers tötet eine variable Anzahl von Kreaturen mit einer STÄ von 40 oder weniger im Wirkungsbereich. Der Magieanwender würfelt 1d6 für jede Intensitätsstufe, um die Anzahl der betroffenen Kreaturen zu bestimmen. Wenn Kreaturen unterschiedlicher STÄ-Kategorien den Wirkungsbereich besetzen, sind humanoide Kreaturen (STÄ 1-20) immer vor größeren betroffen. Große Kreaturen (STÄ 21-40) widerstehen dem Tod eher, wobei ihr Widerstandswurf Leicht ist; jede große Kreatur zählt jedoch als 5 humanoide Kreaturen. Kreaturen mit einer STÄ von über 40 sind von diesem Zauber unbeeinflusst.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 +2 Erf. Mod. | 30 Fuß Reichweite; 1d6 Kreaturen betroffen |
-| 2 | 4 +2 Erf. Mod. | 60 Fuß Reichweite; 2d6 Kreaturen betroffen |
-| 3 | 5 +2 Erf. Mod. | 90 Fuß Reichweite; 3d6 Kreaturen betroffen |
-| 4 | 6 +2 Erf. Mod. | 120 Fuß Reichweite; 4d6 Kreaturen betroffen |
-| +1 | +1 | Fortsetzung der Progression |
+| 1 | 3 +2 ERF | 30 Fuß Reichweite; 1d6 Kreaturen betroffen |
+| 2 | 4 +2 ERF | 60 Fuß Reichweite; 2d6 Kreaturen betroffen |
+| 3 | 5 +2 ERF | 90 Fuß Reichweite; 3d6 Kreaturen betroffen |
+| 4 | 6 +2 ERF | 120 Fuß Reichweite; 4d6 Kreaturen betroffen |
+| +1 | +1 | Setzt Progression fort |
 
-Es ist ratsam, den Zauber mit einer Intensität zu wirken, die der Anzahl potenzieller Ziele entspricht oder diese übersteigt, da unzureichende Punkte verloren gehen. Dieser Zauber hat keine Wirkung auf Lykanthropen, Untote oder andere planare Kreaturen. Nur ein Wunsch kann diejenigen, die von diesem Zauber betroffen sind, von den Toten zurückholen.
+Es ist wünschenswert, den Zauber mit einer Intensität zu wirken, die gleich oder größer als die Anzahl potenzieller Ziele ist, da unzureichende Punkte verloren gehen. Dieser Zauber hat keine Wirkung auf Lykanthropen, Untote oder andere planare Kreaturen. Nur ein Wunsch kann diejenigen, die von diesem Zauber betroffen sind, von den Toten zurückbringen.
 
-_Beispiel: Rengarth wirkt den Todeszauber in einen Bereich, der von vier STÄ 16 Orks und zwei STÄ 32 Hügelriesen besetzt ist, und wählt eine Intensität von 3. Das Würfeln von 3d6 für die Effekte des Zaubers, mit 1d6 pro Intensität, ergibt 12 Punkte. Während jeder Hügelriese nur 5 Punkte benötigt, um getötet zu werden, sind die kleineren Orks die Ersten, die betroffen sind. Drei der vier Orks bestehen ihren Widerstandswurf nicht und erliegen dem Tod. Da jeder Ork 1 Punkt entspricht, bleiben 8 Punkte übrig. Dies reicht aus, um einen einzelnen Hügelriesen für 5 Punkte zu treffen, wobei die restlichen 3 Punkte verloren gehen. Der wütende Hügelriese hat jedoch kein Problem damit, seinen leichten Widerstandswurf zu bestehen und stürmt auf Rengarth zu._
+_Beispiel: Rengarth wirkt den Todeszauber auf einen Bereich, der von vier Orks der STÄ 16 und zwei Hügelriesen der STÄ 32 besetzt ist, und wählt eine Intensität von 3. Das Würfeln von 3d6 für die Effekte des Zaubers, mit 1d6 pro Intensität, ergibt 12 Punkte. Während jeder Hügelriese nur 5 Punkte benötigt, um getötet zu werden, sind die kleineren Orks die ersten, die betroffen sind. Drei der vier Orks misslingen bei ihrem Widerstandswurf und erliegen dem Tod. Da jeder Ork 1 Punkt entspricht, verbleiben 8 Punkte. Dies reicht aus, um einen einzelnen Hügelriesen für 5 Punkte zu treffen, wobei die verbleibenden 3 Punkte verloren gehen. Der wütende Hügelriese hat jedoch kein Problem damit, seinen Leichten Widerstandswurf zu bestehen, und stürmt auf Rengarth zu._
 
 ---
-#### Abwehren
+#### Ablenken
 
 (Evokation)
 
@@ -768,10 +768,10 @@ _Beispiel: Rengarth wirkt den Todeszauber in einen Bereich, der von vier STÄ 16
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** Keine |
 
-Abwehren schützt den Empfänger gegen winzige Einschläge von Fremdkörpern wie Regentropfen, einer Mückenschwarm oder sogar fliegenden Sandkörnern. Der Schutz ist auf einzelne Objekte begrenzt, die kleiner als der Fingernagel eines Kindes sind, und kann daher nicht verhindern, dass normale Geschosswaffen einen Charakter treffen.
+Ablenken schützt den Empfänger vor winzigen Einwirkungen fremder Materie, wie Regentropfen, einer Mückenschwarm oder sogar fliegenden Sandkörnern. Der Schutz ist auf einzelne Objekte beschränkt, die kleiner als der Fingernagel eines Kindes sind, und kann daher nicht verhindern, dass normale Geschosswaffen einen Charakter treffen.
 
 ---
-#### Charme Entdecken (R)
+#### Charme Entdecken \(R\)
 
 (Divination)
 
@@ -782,10 +782,10 @@ Abwehren schützt den Empfänger gegen winzige Einschläge von Fremdkörpern wie
 | **Kosten:** 1/Intensität | **Reichweite:** 100 Fuß |
 | **Bereich:** 1 Ziel pro Minute | **Widerstand:** N/A |
 
-Dieser Zauber erlaubt es dem Zaubernden zu erkennen, ob eine oder mehrere ausgewählte Kreaturen unter der Wirkung eines Charme-Zaubers stehen. Eine volle Minute Konzentration ist erforderlich, um eine Kreatur zu scannen. Wenn das Gegenstück dieses Zaubers (Charme Verbergen) gewirkt wird, kann eine Kreatur für 6 Stunden/Intensität vor einer solchen Entdeckung geschützt werden.
+Dieser Zauber erlaubt es dem Zaubernden zu erkennen, ob eine oder mehrere ausgewählte Kreaturen unter den Auswirkungen von Charme stehen. Eine volle Minute Konzentration ist erforderlich, um eine Kreatur zu scannen. Wenn die Umkehrung dieses Zaubers (Charme Verbergen) gewirkt wird, kann eine Kreatur für 6 Stunden pro Intensität vor einer solchen Entdeckung geschützt werden.
 
 ---
-#### Böses Entdecken (R)
+#### Böses Entdecken \(R\)
 
 (Divination)
 
@@ -796,7 +796,7 @@ Dieser Zauber erlaubt es dem Zaubernden zu erkennen, ob eine oder mehrere ausgew
 | **Kosten:** 1/Intensität | **Reichweite:** 180 Fuß |
 | **Bereich:** 90-Grad-Bogen | **Widerstand:** N/A |
 
-Mit diesem Zauber kann der Zaubernde starke Ausstrahlungen des Bösen innerhalb eines 90-Grad-Bogens bis zu 180 Fuß Entfernung entdecken. Er entdeckt nur böse Kreaturen übernatürlicher Natur wie Dämonen und Vampire oder weltliche Wesen mit böser oder abscheulicher Absicht, wie vom Spielleiter festgelegt. Er entdeckt jedoch keine Dinge wie Fallen, Gift, verfluchte Gegenstände usw. Der Zaubernde kann die Ausstrahlungen durch bis zu 3 Fuß massives Holz, 1 Fuß Stein oder Erde und 1 Zoll massives Metall sehen. Da die magischen Auren Zeit benötigen, um sich zu bilden, kann nicht mehr als ein 60°-Bogen pro Minute gescannt werden. Das Gegenstück dieses Zaubers, Gutes Entdecken, folgt den oben genannten Regeln.
+Mit diesem Zauber kann der Zaubernde starke Ausstrahlungen des Bösen innerhalb eines 90-Grad-Bogens bis zu 180 Fuß Entfernung entdecken. Er entdeckt nur böse Kreaturen übernatürlicher Art wie Dämonen und Vampire oder weltliche Wesen mit böser oder abscheulicher Absicht, wie vom Spielleiter bestimmt. Er entdeckt jedoch keine Dinge wie Fallen, Gift, verfluchte Gegenstände usw. Der Zaubernde kann die Ausstrahlungen durch bis zu 3 Fuß massives Holz, 1 Fuß Stein oder Erde und 1 Zoll massives Metall sehen. Da magische Auren Zeit brauchen, um sich zu bilden, kann nicht mehr als ein 60°-Bogen pro Minute gescannt werden. Die Umkehrung dieses Zaubers, Gutes Entdecken, folgt denselben Regeln wie oben erwähnt.
 
 ---
 #### Unsichtbarkeit Entdecken
@@ -810,10 +810,10 @@ Mit diesem Zauber kann der Zaubernde starke Ausstrahlungen des Bösen innerhalb 
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
 | **Bereich:** Sichtlinie | **Widerstand:** N/A |
 
-Wenn dieser Zauber gewirkt wird, erhält der Magieanwender die Fähigkeit, alle Objekte oder Wesen zu sehen, die unsichtbar sind. Dies schließt jene ein, die versteckt, ätherisch, astral oder phasenverschoben sind. Er kann auch jene entdecken, die auf weltliche Weise verborgen oder getarnt sind. Anders als bei anderen Entdeckungszaubern ist Unsichtbarkeit Entdecken auf die Sichtlinie begrenzt und erfordert keine Minute, um einen Sichtbogen zu scannen.
+Wenn dieser Zauber gewirkt wird, erhält der Magieanwender die Fähigkeit, alle Objekte oder Wesen zu sehen, die unsichtbar sind. Dies beinhaltet solche, die versteckt, ätherisch, astral oder phasenverschoben sind. Er kann auch solche entdecken, die auf weltliche Weise verborgen oder getarnt sind. Im Gegensatz zu anderen Entdeckungszaubern ist Unsichtbarkeit Entdecken auf die Sichtlinie beschränkt und benötigt keine Minute, um einen Sichtbogen zu scannen.
 
 ---
-#### Lüge Entdecken (R)
+#### Lüge Entdecken \(R\)
 
 (Divination)
 
@@ -824,7 +824,7 @@ Wenn dieser Zauber gewirkt wird, erhält der Magieanwender die Fähigkeit, alle 
 | **Kosten:** 1/Intensität | **Reichweite:** 100 Fuß |
 | **Bereich:** 1 Ziel | **Widerstand:** Täuschung |
 
-Wenn gewirkt, bestimmt dieser Zauber, ob ein Wesen wissentlich lügt oder die Wahrheit zurückhält. Die eigentliche Wahrheit wird jedoch nicht offenbart, nur dass die gegebenen Antworten nicht zutreffend sind. Das Ziel kann immer noch versuchen, den Zauber zu „überlisten“, mit einem gewaltigen vergleichenden Wurf seiner Täuschung gegen den ursprünglichen Zauberwurf. Der Zauber kann umgekehrt werden; falls dies geschieht, verhindert Lüge Verbergen die Entdeckung von Lügen durch magische Mittel für einen Zeitraum von 6 Stunden pro Intensität.
+Wenn gewirkt, bestimmt dieser Zauber, ob ein Wesen wissentlich lügt oder die Wahrheit zurückhält. Die tatsächliche Wahrheit wird jedoch nicht enthüllt, nur dass die bereitgestellten Antworten nicht korrekt sind. Das Ziel kann immer noch versuchen, den Zauber zu „schlagen“, mit einem Gewaltigen Widerstandswurf seiner Täuschung gegen den ursprünglichen Zauberwurf. Der Zauber kann umgekehrt werden; falls ja, verhindert Lüge Verbergen die Entdeckung von Lügen durch magische Mittel für einen Zeitraum von 6 Stunden pro Intensität.
 
 ---
 #### Magie Entdecken
@@ -838,20 +838,20 @@ Wenn gewirkt, bestimmt dieser Zauber, ob ein Wesen wissentlich lügt oder die Wa
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
 | **Bereich:** 90-Grad-Bogen, 60 Fuß | **Widerstand:** N/A |
 
-Wenn gewirkt, sieht der Zaubernde eine leuchtend blaue Aura, die jeden magischen Gegenstand oder Zaubereffekt innerhalb eines 90-Grad-Bogens bis zu 60 Fuß Entfernung umgibt. Dieser Zauber erkennt auch die ungefähre Intensität und Stärke, wie in der folgenden Tabelle dargestellt.
+Wenn gewirkt, sieht der Zaubernde eine leuchtend blaue Aura, die jeden magischen Gegenstand oder Zaubereffekt innerhalb eines 90-Grad-Bogens bis zu 60 Fuß umgibt. Dieser Zauber entdeckt auch die ungefähre Intensität und Größenordnung, wie in der folgenden Tabelle gezeigt.
 
-##### Entdeckte Intensität und/oder Stärke
+##### Entdeckte Intensität und/oder Größenordnung
 
-| W100 Wurf | Intensität/Stärke |
+| W100 Wurf | Intensität/Größenordnung |
 | :-: | :-- |
 | 01-25 | -1d3 |
-| 26-75 | Exakte Intensität/Stärke |
+| 26-75 | Exakte Intensität/Größenordnung |
 | 76-00 | +1d3 |
 
-Es besteht eine Chance von 10 % pro Intensität, die spezifische Art der Magie (Nekromantie, Elementar usw.) zu entdecken. Die Aura, die der Zaubernde sieht, dringt durch feste Objekte, bis zu 3 Fuß Holz, 1 Fuß Stein und 1 Zoll massives Metall. Da magische Auren Zeit benötigen, um sich zu bilden, kann nicht mehr als ein 60°-Bogen pro Minute gescannt werden. Dämonen, Teufel, Engel und Elementare sind nicht an sich magisch, aber wenn sie beschworen werden, registriert der Beschwörungszauber für eine Anzahl von Minuten, die der Stärke des Beschwörungszaubers x10 entspricht, an der Stelle, an der er gewirkt wurde.
+Es besteht eine Chance von 10 % pro Intensität, die spezifische Art der Magie (Nekromantie, Elementar usw.) zu entdecken. Die Aura, die der Zaubernde sieht, projiziert durch feste Objekte, bis zu 3 Fuß Holz, 1 Fuß Stein und 1 Zoll massives Metall. Da magische Auren Zeit brauchen, um sich zu bilden, kann nicht mehr als ein 60°-Bogen pro Minute gescannt werden. Dämonen, Teufel, Engel und Elementare sind nicht von sich aus magisch, aber wenn sie beschworen werden, registriert der Beschwörungszauber für eine Anzahl von Minuten, die der Größenordnung des Beschwörungszaubers x10 entspricht, dort, wo er gewirkt wurde.
 
 ---
-#### Dimensionsportal
+#### Dimensionstor
 
 (Transmutation)
 
@@ -859,10 +859,10 @@ Es besteht eine Chance von 10 % pro Intensität, die spezifische Art der Magie (
 | :-- | :-- |
 | **Rang:** Magier 3 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Wirkungsdauer:** Augenblicklich |
-| **Kosten:** 3 +1/zusätzliche Intensität | **Reichweite:** 0 |
+| **Kosten:** 3 + 1/zusätzliche Intensität | **Reichweite:** 0 |
 | **Bereich:** Zaubernder | **Widerstand:** N/A |
 
-Dimensionsportal ist eine Form der Kurzstrecken-Teleportation. Der Zaubernde springt sofort bis zu 100 Fuß pro Intensität, ohne den dazwischenliegenden Raum zu durchqueren, ohne Fehlerchance. Der Zielort kann entweder visuell gesehen oder durch Richtung angegeben werden: 40 Fuß geradeaus, 65 Fuß nach unten, 45° nach links usw. Eine Ankunft in der Luft führt zu Fallschaden, sofern dieser nicht durch einen Zauber wie Federfall verhindert wird, während ein versehentliches Springen in ein festes Objekt den Zaubernden stattdessen auf der Astralebene gefangen hält. Alle physisch getragene Ausrüstung (nicht lebende, unbelebte Materie) springt mit dem Zaubernden. Lebende Materie von nicht mehr als 20 STÄ kann den Zaubernden begleiten. Zum Beispiel kann ein Charakter der STÄ 11 zusammen mit dem Zaubernden springen, vorausgesetzt, beide berühren sich. Der Zaubernde und jede andere transportierte lebende Kreatur benötigen eine volle Runde, um sich zu erholen. Wenn sie während dieser Zeit angegriffen werden, können diese Personen nichts weiter tun, als sich zu verteidigen.
+Dimensionstor ist eine Form der Kurzstreckenteleportation. Der Zaubernde springt augenblicklich bis zu 100 Fuß pro Intensität, ohne den dazwischenliegenden Raum zu überqueren, ohne Fehlerchance. Der gewünschte Ort kann entweder visuell gesehen oder durch die Richtung spezifiziert werden: 40 Fuß geradeaus, 65 Fuß hinunter, 45° nach links usw. Eine Ankunft in der Luft führt zu Fallschaden, sofern dieser nicht durch einen Zauber wie Federfall abgewendet wird, während das versehentliche Springen in ein festes Objekt den Zaubernden stattdessen auf der Astralebene gefangen hält. Alle physisch getragene Ausrüstung (nicht lebende, unbelebte Materie) springt mit dem Zaubernden mit. Lebende Materie von nicht mehr als 20 STÄ kann den Zaubernden begleiten. Zum Beispiel kann ein Charakter der STÄ 11 zusammen mit dem Zaubernden springen, vorausgesetzt, beide berühren sich. Der Zaubernde sowie jedes transportierte Lebewesen benötigt eine volle Runde zur Erholung. Wenn sie während dieser Zeit angegriffen werden, können diese Personen nicht mehr als verteidigen.
 
 ---
 #### Magie Bannen
@@ -876,35 +876,35 @@ Dimensionsportal ist eine Form der Kurzstrecken-Teleportation. Der Zaubernde spr
 | **Kosten:** 1 | **Reichweite:** 360 Fuß |
 | **Bereich:** 15 Fuß Radius | **Widerstand:** N/A |
 
-Magie Bannen kann gegen ein bestimmtes Ziel oder einen bestimmten Bereich gewirkt werden, und sobald gewirkt, ist alle Magie innerhalb eines Radius von 15 Fuß um den Zielpunkt anfällig für die Aufhebung. Es beendet laufende Zauber auf seinem Ziel, hat aber keinen Effekt auf andere magische Effekte. Es hat keine Wirkung auf magische Kreaturen oder Untote. Magie Bannen eliminiert alle anderen magischen Effekte im Wirkungsbereich mit einer Stärke, die geringer ist als die Intensität des Zaubers. Die Ausnahme hiervon wären magische Gegenstände und Opfer von Zaubern zur Beeinflussung wie Person Bezaubern, die einzeln anvisiert werden müssen. Ein Zaubereffekt kann nicht teilweise eliminiert werden.
+Magie Bannen kann entweder gegen ein bestimmtes Ziel oder einen markierten Bereich gewirkt werden, und sobald gewirkt, ist alle Magie in einem Radius von 15 Fuß um den Zielpunkt anfällig für die Aufhebung. Es beendet laufende Zauber auf seinem Ziel, bewirkt jedoch nichts gegen andere magische Effekte. Es hat keine Wirkung auf magische Kreaturen oder Untote. Magie Bannen eliminiert alle andere Magie im Wirkungsbereich mit einer Größenordnung, die geringer ist als die Intensität des Zaubers. Die Ausnahme hiervon wären magische Gegenstände und Opfer von bezaubernden Zaubern wie Charme Person, die individuell anvisiert werden müssen. Die Effekte eines Zaubers können nicht teilweise eliminiert werden.
 
-Magie Bannen beginnt mit der stärksten Magie im Wirkungsbereich. Wenn es nicht gelingt, einen Zauber zu eliminieren (weil die Stärke des Zaubers zu hoch ist), endet der Zauber, und es kann keine weitere Magie eliminiert werden.
+Magie Bannen beginnt mit der mächtigsten Magie im Wirkungsbereich. Wenn es fehlschlägt, einen Zauber zu eliminieren (weil die Größenordnung des Zaubers zu hoch ist), endet der Zauber und es kann keine weitere Magie eliminiert werden.
 
-Magie Bannen kann defensiv verwendet werden, um eingehende offensive Zauber zu neutralisieren, indem die reaktive Aktion „Gegenzauber“ genutzt wird.#### Divination
+Magie Bannen kann defensiv verwendet werden, um eingehende offensive Zauber zu neutralisieren, indem die reaktive Aktion Gegenzauber verwendet wird.#### Weissagung
 
-(Divination)
+(Weissagung)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 3 | **Zauberzeit:** 10 Minuten |
-| **Sphäre:** Divination | **Dauer:** Konzentration |
+| **Sphäre:** Weissagung | **Dauer:** Konzentration |
 | **Kosten:** 3/Intensität | **Reichweite:** 0 |
-| **Bereich:** Siehe Unten | **Widerstand:** N/A |
+| **Bereich:** Siehe unten | **Resistenz:** N/A |
 
-Wenn dieser Zauber gewirkt wird, erlaubt er Klerikern, Informationen von ihrer Gottheit bezüglich einer noch nicht begonnenen Aktivität zu erhalten, die innerhalb der nächsten Woche stattfinden soll. Im Gegensatz zum weniger mächtigen Zauber Vorzeichen (Augury) liefert Divination spezifische Informationen. Der Wurf auf die Fertigkeit Kanalisieren, um diesen Zauber zu wirken, beginnt bei Schwierigkeitsgrad Gewaltig, und jede Stufe der Intensität senkt die Schwierigkeit um einen Grad. Die Intensität darf Stufe 5 nicht überschreiten, und ein Wurf von 96 % oder höher schlägt immer fehl.
+Wenn dieser Zauber gewirkt wird, erlaubt er Klerikern, Informationen von ihrer Gottheit bezüglich einer noch nicht begonnenen Aktivität zu erhalten, die innerhalb der nächsten Woche erwartet wird. Im Gegensatz zu dem weniger mächtigen Zauber Vorzeichen liefert Weissagung spezifische Informationen. Der Wurf auf die Fertigkeit Kanalisieren, um diesen Zauber zu wirken, beginnt bei Gewaltig, und jede Stufe der Intensität verringert den Schwierigkeitsgrad um einen Grad. Die Intensität darf Stufe 5 nicht überschreiten, und ein Wurf von 96% oder höher schlägt immer fehl.
 
-Der Spielleiter sollte diesen Wurf für den Spieler ausführen, da es einige Fälle gibt, in denen Magie, die dem Zaubernden feindlich gesinnt ist, am Werk sein könnte, und in diesen Fällen könnte ein Fehlschlag falsche Informationen offenbaren.
+Der Spielleiter sollte diesen Wurf für den Spieler durchführen, da es einige Fälle gibt, in denen dem Zaubernden feindselige Magie im Spiel sein könnte, und in diesen Fällen könnte ein Fehlschlag falsche Informationen offenbaren.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | Zauber mit Schwierigkeitsgrad Gewaltig gewirkt |
-| 2 | 6 | Zauber mit Schwierigkeitsgrad Schwer gewirkt |
-| 3 | 9 | Zauber mit Schwierigkeitsgrad Standard gewirkt |
-| 4 | 12 | Zauber mit Schwierigkeitsgrad Leicht gewirkt |
-| 5 | 15 | Zauber mit Schwierigkeitsgrad Sehr Leicht gewirkt |
+| 1 | 3 | Zauber gewirkt mit Schwierigkeitsgrad Gewaltig |
+| 2 | 6 | Zauber gewirkt mit Schwierigkeitsgrad Schwer |
+| 3 | 9 | Zauber gewirkt mit Schwierigkeitsgrad Standard |
+| 4 | 12 | Zauber gewirkt mit Schwierigkeitsgrad Leicht |
+| 5 | 15 | Zauber gewirkt mit Schwierigkeitsgrad Sehr Leicht |
 
 ---
-#### Trocknen (Dry)
+#### Trocknen
 
 (Transmutation)
 
@@ -913,61 +913,61 @@ Der Spielleiter sollte diesen Wurf für den Spieler ausführen, da es einige Fä
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Sofort |
 | **Kosten:** 1 | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/A |
+| **Bereich:** 1 Ziel | **Resistenz:** N/A |
 
-Trocknen entfernt sämtliche überschüssige Feuchtigkeit von einem Objekt oder einer Person, die entweder abläuft und eine Pfütze bildet oder in einer Dampfwolke verdampft. Es wird normalerweise verwendet, um sich nach starkem Regen abzutrocknen oder Ausrüstung vor Fäulnis zu schützen, hat aber verschiedene andere vielseitige Anwendungsmöglichkeiten. Der Zaubernde kann ein Objekt bis zu einer Größe von MAC x2 trocknen.
+Trocknen entfernt alle überflüssige Feuchtigkeit von einem Objekt oder einer Person, die entweder abfließt, um eine Pfütze zu bilden, oder in einer Dampfwolke verdunstet. Es wird normalerweise verwendet, um sich nach starkem Regen abzutrocknen oder um Ausrüstung vor Fäulnis zu schützen, hat aber verschiedene andere vielseitige Anwendungsmöglichkeiten. Der Zaubernde kann ein Objekt bis zu einer Statur von MAC x2 trocknen.
 
 ---
-#### Erdbeben (Earthquake)
+#### Erdbeben
 
 (Transmutation)
 
 | | |
 | :-- | :-- |
-| **Rang:** Kleriker 5, Magier 5 | **Zauberzeit:** 10 Minuten 1 Aktion |
+| **Rang:** Kleriker 5, Magier 5 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Elementar (Erde) | **Dauer:** 1 Minute |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 50 Fuß/Intensität |
-| **Bereich:** 10 Fuß Radius/Intensität | **Widerstand:** Ausweichen |
+| **Bereich:** 10 Fuß Radius/Intensität | **Resistenz:** Ausweichen |
 
-Erdbeben verursacht ein Bodenzittern, das fähig ist, Personen von den Füßen zu werfen und stabile Gebäude einstürzen zu lassen. Zumindest führt ein Scheitern des Widerstands gegen den Zauber dazu, dass das Opfer hinfällt. Wenn man sich innerhalb eines Gebäudes, eines bebauten Gebiets oder eines gefährdeten Ortes (wie einem Wald oder unterhalb einer Klippe) befindet, deutet ein Fehlschlag beim Ausweichen auch darauf hin, dass die Person getroffen und von herabfallenden Trümmern eingeklemmt wird. Getragene Rüstung bietet den halben Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt.
+Erdbeben verursacht ein Bodenzittern, das Menschen von den Füßen reißen und starre Gebäude zum Einsturz bringen kann. Zumindest führt ein Misserfolg bei der Resistenz gegen den Zauber dazu, dass das Opfer stürzt. Befindet man sich innerhalb eines Gebäudes, eines bebauten Gebiets oder an einem anderen gefährdeten Ort (wie einem Wald oder unter einer Klippe), bedeutet ein Misserfolg beim Ausweichen zudem, dass die Person getroffen und von herabfallenden Trümmern eingeklemmt wird. Getragene Rüstung bietet halben Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt.
 
 | Intensität | Kosten | Variabler Effekt | Potenzieller Schaden |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | 50 Fuß Reichweite; 10 Fuß Radius; Zart ausbalancierte Objekte kippen um, aufgehängte Objekte schwingen. | Keiner |
+| 1 | 3 | 50 Fuß Reichweite; 10 Fuß Radius; Zierlich ausbalancierte Objekte kippen um, aufgehängte Objekte schwingen. | Keiner |
 | 2 | 4 | 100 Fuß Reichweite; 20 Fuß Radius; Wände und Gebäude knarren. | Keiner |
 | 3 | 5 | 150 Fuß Reichweite; 30 Fuß Radius; Putz und Glasfenster reißen, Bäume und andere hohe Objekte beben dramatisch. | Keiner |
-| 4 | 6 | 200 Fuß Reichweite; 40 Fuß Radius; Schwere Möbel werden verschoben, wandmontierte Objekte fallen, Risse öffnen sich in Wänden. | Keiner |
-| 5 | 7 | 250 Fuß Reichweite; 50 Fuß Radius; Bescheidene Gebäude aus Erde, Flechtwerk und Lehm oder Lehmziegeln stürzen teilweise ein. Kleinere Äste fallen herab. | 1d2 Schaden an einem Ort |
-| 6 | 8 | 300 Fuß Reichweite; 60 Fuß Radius; Schwere Möbel werden umgestoßen. Gebäude aus Erde, Flechtwerk und Lehm oder Lehmziegeln werden zerstört. Gebäude aus massivem Holz oder Mauerwerk stürzen teilweise ein. Einsturz von Säulen, Statuen und Begrenzungsmauern. Große Baumäste fallen herab. | 1d4 Schaden an einem Ort |
-| 7 | 9 | 350 Fuß Reichweite; 70 Fuß Radius; Bescheidene Gebäude stürzen ein. Boden reißt auffällig auf, Felsstürze von steilen Hängen. Unterirdische Rohre und Abwasserkanäle brechen. Hölzerne Brücken stürzen ein. Kleine Bäume stürzen um. | 1d6 Schaden an einem Ort |
-| 8 | 10 | 400 Fuß Reichweite; 80 Fuß Radius; Gut konstruierte Gebäude stürzen ein. Großflächige Befestigungen, Stadtmauern und steinerne Brücken beschädigt. Boden stark aufgebrochen. Erdrutsche und Lawinen beträchtlich. Große Bäume stürzen um. | 1d8 Schaden an zwei Orten |
-| 9 | 11 | 450 Fuß Reichweite; 90 Fuß Radius; Wenige, wenn überhaupt, Strukturen bleiben stehen. Tunnel und Höhlen stürzen ein. Breite Felsspalten im Boden. Riesige Bäume stürzen um. | 1d10 Schaden an drei Orten |
-| 10 | 12 | 500 Fuß Reichweite; 100 Fuß Radius; Totale Zerstörung, selbst kolossale steinerne Monumente erleiden teilweisen Einsturz. Klippen und Bergflanken zersplittern. | 1d12 Schaden an vier Orten |
+| 4 | 6 | 200 Fuß Reichweite; 40 Fuß Radius; Schwere Möbel werden verschoben, wandmontierte Objekte fallen herab, Risse öffnen sich in Wänden. | Keiner |
+| 5 | 7 | 250 Fuß Reichweite; 50 Fuß Radius; Bescheidene Gebäude aus Erde, Flechtwerk und Lehm oder Lehmziegeln stürzen teilweise ein. Kleinere Äste fallen herab. | 1w2 Schaden an einer einzelnen Trefferzone |
+| 6 | 8 | 300 Fuß Reichweite; 60 Fuß Radius; Schwere Möbel werden umgeworfen. Gebäude aus Erde, Flechtwerk und Lehm oder Lehmziegeln werden zerstört. Gebäude aus massivem Holz oder Mauerwerk stürzen teilweise ein. Herabstürzen von Säulen, Statuen und Grenzmauern. Große Äste fallen herab. | 1w4 Schaden an einer einzelnen Trefferzone |
+| 7 | 9 | 350 Fuß Reichweite; 70 Fuß Radius; Bescheidene Gebäude stürzen ein. Boden reißt auffällig auf, Steinschläge an steilen Hängen. Unterirdische Rohre und Abwasserkanäle brechen. Hölzerne Brücken stürzen ein. Kleine Bäume kippen um. | 1w6 Schaden an einer einzelnen Trefferzone |
+| 8 | 10 | 400 Fuß Reichweite; 80 Fuß Radius; Gut konstruierte Gebäude stürzen ein. Großflächige Befestigungen, Stadtmauern und Steinbrücken werden beschädigt. Boden stark rissig. Erdrutsche und Lawinen beträchtlich. Große Bäume kippen um. | 1w8 Schaden an zwei Trefferzonen |
+| 9 | 11 | 450 Fuß Reichweite; 90 Fuß Radius; Wenige, wenn überhaupt, Strukturen bleiben stehen. Tunnel und Höhlen stürzen ein. Breite Risse im Boden. Riesige Bäume kippen um. | 1w10 Schaden an drei Trefferzonen |
+| 10 | 12 | 500 Fuß Reichweite; 100 Fuß Radius; Totale Zerstörung, selbst kolossale steinerne Monumente erleiden Teileinstürze. Klippen und Bergflanken zersplittern. | 1w12 Schaden an vier Trefferzonen |
 
 ---
-#### Gegenstand Verzaubern (Enchant Item)
+#### Gegenstand verzaubern
 
 (Verzauberung)
 
 | | |
 | :-- | :-- |
-| **Rang:** Magier 4 | **Zauberzeit:** Siehe Unten |
-| **Sphäre:** Keine | **Dauer:** Siehe Unten |
-| **Kosten:** 3 + Siehe Unten | **Reichweite:** Berührung |
-| **Bereich:** 1 Gegenstand | **Widerstand:** N/A |
+| **Rang:** Magier 4 | **Zauberzeit:** Siehe unten |
+| **Sphäre:** Keine | **Dauer:** Siehe unten |
+| **Kosten:** 3 + Siehe unten | **Reichweite:** Berührung |
+| **Bereich:** 1 Gegenstand | **Resistenz:** N/A |
 
-Das Wirken dieses Zaubers bereitet einen Gegenstand auf eine Verzauberung vor. Das Objekt muss in gutem Zustand sein und von feinster Konstruktion und Handwerkskunst zeugen. Zusätzliche Kosten von mindestens 100 GM sind erforderlich, um die Kosten für zusätzliche Bearbeitung, Schnitzereien, Stickereien, Juwelenbesatz, Gravuren usw. zu decken. Schließlich erfordert der Verzauberungsprozess ein Labor oder eine Werkstatt.
+Das Wirken dieses Zaubers bereitet einen Gegenstand auf die Verzauberung vor. Das Objekt muss sich in gutem Zustand befinden und von feinster Konstruktion und Verarbeitung sein. Ein zusätzlicher Kostenaufwand von mindestens 100 GM ist erforderlich, um die Kosten für zusätzliche Werkzeuge, Schnitzereien, Stickereien, Juwelenbesatz, Gravuren und so weiter zu decken. Schließlich erfordert der Verzauberungsprozess ein Labor oder eine Werkstatt.
 
-Während der Zauber gewirkt wird, muss der Magiekundige das Objekt während der gesamten Zauberzeit von 1d8+2 Tagen berühren. Dies berücksichtigt Ruhe- und Schlafperioden, während derer der Gegenstand in Reichweite eines Arms des Zaubernden bleiben muss. Zu keinem Zeitpunkt während des Wirkens darf der Magiekundige einen anderen Zauber wirken oder eine andere Form von Magie ausüben. Das Brechen einer dieser Vorgaben führt automatisch zum Fehlschlag des Zaubers.
+Während des Wirkens des Zaubers muss der Magiekundige den Gegenstand während der gesamten Zauberzeit von 1w8+2 Tagen berühren. Dies berücksichtigt Ruhe- und Schlafphasen, während derer der Gegenstand in Reichweite eines Arms des Zaubernden bleiben muss. Zu keinem Zeitpunkt während des Wirkens darf der Magiekundige einen anderen Zauber wirken oder eine andere Form von Magie anwenden. Das Brechen einer dieser Vorschriften führt automatisch zum Fehlschlagen des Zaubers.
 
-Sobald der Zauber erfolgreich gewirkt wurde, ist der Gegenstand bereit für den letzten Schritt, bei dem der Zaubernde den gewünschten Zauber in ihn hineinlegt. Dazu muss er den Zauber im Gedächtnis oder auf einer Schriftrolle haben und ihn innerhalb von 24 Stunden in den Gegenstand wirken, andernfalls muss der gesamte Prozess von vorne begonnen werden. Sobald das Wirken des ausgewählten Zaubers beginnt, kann der Prozess die oben genannten 24 Stunden überschreiten. Das Imprägnieren des Gegenstands mit dem ausgewählten Zauber kostet die normale Anzahl an Magiepunkten für die gewünschte Intensität und dauert 1d12 Stunden pro Zauberrang. Während des gesamten Imprägnierungsprozesses muss der Zaubernde den Gegenstand berühren oder während der Ruhephasen in Reichweite eines Arms bleiben, wie oben erwähnt, und am Ende der Zauberperiode ist ein arkana Zauberwurf erforderlich, um den Zauber erfolgreich zu imprägnieren. Es werden die normalen Erfolgsgrade beim Zauberwirken befolgt; bezüglich eines Fehlschlags kann der Zauber jedoch nicht erzwungen werden. Nachfolgende Zauber können innerhalb des Gegenstands imprägniert werden, vorausgesetzt, der Zauberprozess wird innerhalb von 24 Stunden nach Abschluss des vorherigen Zaubers begonnen. Dies gilt auch im Falle eines zuvor fehlgeschlagenen Zaubers. Jeder nachfolgende Zauber erfordert die normalen Kosten für das Wirken.
+Sobald der Zauber erfolgreich gewirkt wurde, ist der Gegenstand bereit für den letzten Schritt, bei dem der Zaubernde den gewünschten Zauber in ihn einbettet. Dazu muss er den Zauber im Gedächtnis oder auf einer Schriftrolle haben und ihn innerhalb von 24 Stunden in den Gegenstand wirken, andernfalls muss der gesamte Prozess von vorne begonnen werden. Sobald das Wirken des ausgewählten Zaubers beginnt, kann der Prozess die oben genannten 24 Stunden überschreiten. Die Einbettung des Zaubers in den Gegenstand kostet die normale Anzahl an Magiepunkten für die gewünschte Intensität und dauert 1w12 Stunden pro Zauberrang. Während des gesamten Einbettungsprozesses muss der Zaubernde den Gegenstand berühren oder während der Ruhephasen in Armreichweite bleiben, wie oben beschrieben, und am Ende der Wirkungsdauer ist ein Wurf auf Arkanes Wirken erforderlich, um den Zauber erfolgreich einzubetten. Die normalen Erfolgsgrade beim Zauberwirken werden befolgt; in Bezug auf ein Fehlschlagsergebnis kann der Zauber jedoch nicht erzwungen werden. Nachfolgende Zauber können in den Gegenstand eingebettet werden, vorausgesetzt, der Wirkprozess wird innerhalb von 24 Stunden nach Abschluss des vorherigen Zaubers begonnen. Dies gilt auch im Falle eines zuvor fehlgeschlagenen Zaubers. Jeder nachfolgende Zauber erfordert die normalen Kosten für das Zauberwirken.
 
-Bei Verwendung des Gegenstands kann jeder darin enthaltene Zauber nur einmal gewirkt werden, es können jedoch mehrere Versionen desselben Zaubers nach dem oben genannten Verfahren imprägniert werden. Es ist auch möglich, einen einzelnen Zauber zu imprägnieren und anschließend den Rang-4-Zauber Beständigkeit (Permanency) zu wirken. In diesem Fall kann der Zauber so oft wie gewünscht gewirkt werden, unter Einhaltung der im Text zum Zauber Beständigkeit festgelegten Einschränkungen.
+Bei Verwendung des Gegenstands kann jeder darin enthaltene Zauber nur einmal gewirkt werden, es können jedoch mehrere Versionen desselben Zaubers gemäß dem oben genannten Verfahren eingebettet werden. Es ist auch möglich, einen einzelnen Zauber einzubetten und anschließend den Rang-4-Zauber Permanenz zu wirken. In diesem Fall kann der Zauber so oft wie gewünscht gewirkt werden, unter Beachtung der Einschränkungen, die in der Beschreibung des Zaubers Permanenz festgelegt sind.
 
-Es ist nicht möglich, andere magische Effekte in einen Gegenstand zu imprägnieren, die nicht einem spezifischen Zauber entsprechen, und viele magische Gegenstände aus längst vergangenen Zeiten können in der heutigen Zeit einfach nicht reproduziert werden.
+Es ist nicht möglich, andere magische Effekte in einen Gegenstand einzubetten, die nicht einem spezifischen Zauber entsprechen, und viele magische Gegenstände aus längst vergangenen Zeiten können heutzutage einfach nicht mehr nachgebildet werden.
 
 ---
-#### Waffe Verzaubern (Enchant Weapon)
+#### Waffe verzaubern
 
 (Transmutation)
 
@@ -976,12 +976,12 @@ Es ist nicht möglich, andere magische Effekte in einen Gegenstand zu imprägnie
 | **Rang:** Magier 3 | **Zauberzeit:** 1 Minute |
 | **Sphäre:** Keine | **Dauer:** 5 Minuten/Intensität |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Waffe | **Widerstand:** N/A |
+| **Bereich:** 1 Waffe | **Resistenz:** N/A |
 
-Wenn dieser Zauber gewirkt wird, während man eine normale Waffe berührt, wird der Waffe eine vorübergehende Verzauberung verliehen, die einen magischen Schad. Mod. von +1 gewährt. Dies ermöglicht es auch einer ansonsten normalen Waffe, eine Kreatur zu treffen, die nur von Waffen mit mindestens einer +1-Verzauberung verletzt werden kann. Der Zauber kann verwendet werden, um zwei Waffen zu verzaubern, die jeweils ½ einer 'Sache' an Größe entsprechen, wie Dolche, Messer, Pfeile usw. Ansonsten darf pro Zauber nicht mehr als eine einzelne Waffe verzaubert werden. Bei einer bestehenden magischen Waffe kann der Bonus um +1 auf einen maximalen Gesamtbonus von +3 erhöht werden. Eine Waffe mit einem +3-Bonus erhöht ihre Größe um eine Kategorie für den Zweck der Schadenszufügung: Groß zu Riesig, Riesig zu Enorm, Enorm zu Kolossal. Eine Verzauberte Waffe besitzt +5 Rüstungspunkte und +2 Trefferpunkte pro +1-Verzauberung für eine Waffe ihres Typs. Dieser Zauber kann mit den Zaubern Gegenstand Verzaubern und Beständigkeit kombiniert werden, um eine Waffe mit einer dauerhaften Verzauberung zu erschaffen.
+Wenn dieser Zauber gewirkt wird, während man eine normale Waffe berührt, wird die Waffe mit einer vorübergehenden Verzauberung belegt, die einen magischen +1 Schad. Mod. gewährt. Dies ermöglicht es einer ansonsten normalen Waffe auch, eine Kreatur zu treffen, die nur durch Waffen mit mindestens einer +1 Verzauberung verletzt werden kann. Der Zauber kann verwendet werden, um zwei Waffen zu verzaubern, die jeweils die Größe von ½ eines „Dings“ haben, wie Dolche, Messer, Pfeile und so weiter. Ansonsten kann pro Zauberwirkung nicht mehr als eine Waffe verzaubert werden. Bei einer bereits existierenden magischen Waffe kann der Bonus um +1 auf einen maximalen kombinierten Bonus von +3 erhöht werden. Eine Waffe mit einem +3-Bonus erhöht ihre Statur um eine Kategorie für den Zweck des Schadenswürfelns: Groß zu Riesig, Riesig zu Enorm, Enorm zu Kolossal. Eine verzauberte Waffe besitzt +5 Rüstungspunkte und +2 Trefferpunkte pro +1 Verzauberung für eine Waffe ihres Typs. Dieser Zauber kann mit den Zaubern Gegenstand verzaubern und Permanenz kombiniert werden, um eine Waffe mit einer dauerhaften Verzauberung zu erschaffen.
 
 ---
-#### Hitze/Kälte Ertragen (Endure Heat/Cold)
+#### Hitze/Kälte ertragen
 
 (Transmutation)
 
@@ -990,12 +990,12 @@ Wenn dieser Zauber gewirkt wird, während man eine normale Waffe berührt, wird 
 | **Rang:** Kleriker 1 | **Zauberzeit:** 1 Runde |
 | **Sphäre:** Schutz | **Dauer:** 90 Minuten/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/A |
+| **Bereich:** 1 Ziel | **Resistenz:** N/A |
 
-Dieser Zauber erlaubt es dem Zaubernden, eine Kreatur vor normalen Extremen von Hitze oder Kälte zu schützen, wie beim Wirken des Zaubers bestimmt. Der Empfänger des Zaubers ist immun gegen gewöhnliche Extreme natürlicher Hitze oder Kälte, wie Temperaturen unter dem Gefrierpunkt oder drückende Wüstenhitze. Abgesehen von Metall Erhitzen (Heat Metal), gegen das dieser Zauber vollständigen Schutz bietet, hebt jeder 'Angriff' durch magische Hitze oder Kälte, wie der Feueratem eines roten Drachen oder der Zauber Eiskegel eines Magiers, den Schutz automatisch auf, unabhängig davon, gegen welches Element zu diesem Zeitpunkt Schutz bestand. Das geschützte Individuum kann jedoch die ersten 10 Schadenspunkte in der Runde ignorieren, in der der Zauber versagt, vorausgesetzt, der Schutz passt zur Angriffsart. Bei Flächenzaubern wird der Schaden reduziert, bevor er angewendet wird.
+Dieser Zauber erlaubt es dem Zaubernden, eine Kreatur vor normalen Hitze- oder Kälteextremen zu schützen, wie beim Wirken des Zaubers bestimmt. Der Empfänger des Zaubers ist immun gegen gewöhnliche natürliche Hitze- oder Kälteextreme, wie Temperaturen unter dem Gefrierpunkt oder drückende Wüstenhitze. Abgesehen von Metall erhitzen, gegen das dieser Zauber vollständigen Schutz bietet, hebt jeder „Angriff“ durch magische Hitze oder Kälte, wie der Feueratem eines Roten Drachen oder der Zauber Eiskegel eines Magiers, den Schutz automatisch auf, ungeachtet dessen, gegen welches Element zu diesem Zeitpunkt geschützt wurde. Die geschützte Person kann jedoch die ersten 10 Schadenspunkte in der Runde ignorieren, in der der Zauber fehlschlägt, vorausgesetzt, der Schutz passt zur Angriffsart. Bei Flächenzaubern wird der Schaden reduziert, bevor er angewendet wird.
 
 ---
-#### Energie Entziehen (Energy Drain)
+#### Energieentzug
 
 (Evokation oder Nekromantie)
 
@@ -1004,40 +1004,40 @@ Dieser Zauber erlaubt es dem Zaubernden, eine Kreatur vor normalen Extremen von 
 | **Rang:** Magier 5 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** Permanent |
 | **Kosten:** 3 | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** Konstitution |
+| **Bereich:** 1 Ziel | **Resistenz:** Konstitution |
 
-Wenn dieser Zauber gewirkt wird, auferlegt er dem Opfer bei einem fehlgeschlagenen Widerstandswurf zwei Stufen permanenten Ermüdungs-Verlusts. Der Ermüdungs-Verlust durch Energie Entziehen ist kumulativ mit normalem Ermüdungs-Verlust; daher sind Gegner, die bereits durch Kampf oder Reisen geschwächt sind, anfälliger für Energie Entziehen. Ermüdung Heilen-Zauber und Tränke beeinflussen Ermüdung, die durch Energie Entziehen verloren wurde, nicht; jedoch können Wiederherstellungs-Zauber und Schriftrollen die verlorene Ermüdung permanent heilen. Rüstung hat keinen Einfluss auf Energie Entziehen.
+Wenn dieser Zauber gewirkt wird, auferlegt er dem Opfer bei einem fehlgeschlagenen Resistenzwurf zwei Stufen permanenten Ermüdungs-Verlusts. Ermüdungs-Verlust durch Energieentzug ist kumulativ mit normalem Ermüdungs-Verlust; daher sind Gegner, die bereits durch Kampf oder Reisen geschwächt sind, anfälliger für Energieentzug. Ermüdung heilen-Zauber und Tränke haben keine Auswirkungen auf die durch Energieentzug verlorene Ermüdung; jedoch können Wiederherstellung-Zauber und -Schriftrollen die verlorene Ermüdung dauerhaft heilen. Rüstung hat keinen Einfluss auf Energieentzug.
 
 ---
-#### Exorzismus (Exorcism)
+#### Exorzismus
 
 (Abjuration)
 
 | | |
 | :-- | :-- |
-| **Rang:** Kleriker 3 | **Zauberzeit:** 1d10x100 Minuten |
+| **Rang:** Kleriker 3 | **Zauberzeit:** 1w10x100 Minuten |
 | **Sphäre:** Schutz | **Dauer:** Permanent |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 10 Fuß |
-| **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
+| **Bereich:** 1 Ziel | **Resistenz:** Willenskraft |
 
-Durch diesen Zauber rufen Kleriker ihre Gottheit an, um einen Geist oder eine andere übernatürliche Kraft auszutreiben, die derzeit ein körperliches Wesen besitzt, wie bei einer dämonischen Besessenheit. Exorzismus kann auch gegen die Beherrschung durch bestimmte Objekte und magische Gegenstände, Zauber, Flüche und sogar Charms eingesetzt werden. Ob die Besessenheit dominant oder verdeckt ist, spielt keine Rolle. Die Magie exorziert alle Formen von Besessenheit mit einer Intensität von bis zur Hälfte der Intensität des Zaubers. Was als nächstes geschieht, hängt von der Einstellung und der Art der Entität ab, falls vorhanden, aber kriegerische Entitäten mit der Macht, sich zu entkörperlichen, könnten versucht sein, andere nahegelegene Ziele in einen Geisterkampf zu verwickeln. Dies ist wie ein Magieduell zu behandeln, jedoch kann die Entität den Verlierer besitzen, wenn sie gewinnt. Wenn die Entität verliert, wird sie zurück in ihre Ursprungsebene geschickt. Daher kann dieser Zauber potenziell gefährlich für den Zaubernden oder seine Gefährten sein. Die Zauberzeit ist sehr zufällig und kann nicht unterbrochen werden, ohne das Ritual zu stören.
+Mittels dieses Zaubers rufen Kleriker ihre Gottheit an, um einen Geist oder eine andere übernatürliche Kraft auszutreiben, die derzeit von einem körperlichen Wesen Besitz ergriffen hat, wie etwa bei einer dämonischen Besessenheit. Exorzismus kann auch gegen die Beherrschung durch bestimmte Objekte und magische Gegenstände, Zauber, Flüche und sogar Reize eingesetzt werden. Ob die Besessenheit dominant oder verdeckt ist, spielt keine Rolle. Die Magie exorziert alle Formen der Besessenheit mit einer Intensität von bis zur Hälfte der Intensität des Zaubers. Was als Nächstes geschieht, hängt von der Haltung und Art des Wesens ab, falls vorhanden, aber kämpferische Wesen mit der Fähigkeit zur Diskorporation könnten versucht sein, andere nahegelegene Ziele in einen Geisterkampf zu verwickeln. Behandle dies wie ein Magie-Duell; wenn das Wesen jedoch gewinnt, kann es den Verlierer besitzen. Wenn das Wesen verliert, wird es in seine Ursprungsebene zurückgeschickt. Daher kann dieser Zauber potenziell gefährlich für den Zaubernden oder seine Gefährten sein. Die Zauberzeit ist sehr zufällig und kann nicht unterbrochen werden, ohne das Ritual zu stören.
 
 ---
-#### Furcht (Fear)
+#### Furcht
 
 (Illusion)
 
 | | |
 | :-- | :-- |
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
-| **Sphäre:** Keine | **Dauer:** Siehe Unten |
+| **Sphäre:** Keine | **Dauer:** Siehe unten |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 0 |
-| **Bereich:** 5 Fuß x 20 Fuß Kegel | **Widerstand:** Willenskraft |
+| **Bereich:** 5 Fuß x 20 Fuß Kegel | **Resistenz:** Willenskraft |
 
-Wenn dieser Zauber gewirkt wird, dehnt sich eine Welle des Terrors nach außen aus, die alle, die einen Widerstandswurf nicht bestehen, vor Furcht fliehen lässt. Diejenigen, die so betroffen sind, fliehen für eine Anzahl von Runden, die der Intensität des Zaubers x2 entspricht, mit Sprintgeschwindigkeit direkt vom Zaubernden weg. Dieser Terror ist so alles verzehrend, dass Gegner, die den Wurf zum Widerstehen verpatzen (Patzer), alle gehaltenen Gegenstände fallen lassen, die nicht in irgendeiner Weise gesichert sind. Große Kreaturen (Statur 21-40) sind weniger anfällig für diesen Zauber, da der Widerstandswurf Leicht ist, und der Widerstandswurf für Riesige Kreaturen (Statur 41+) ist Sehr Leicht.
+Wenn dieser Zauber gewirkt wird, dehnt sich eine Welle des Terrors nach außen aus und veranlasst alle, die einen Resistenzwurf nicht bestehen, vor Angst zu fliehen. Die Betroffenen fliehen für eine Anzahl an Runden, die der Intensität des Zaubers x2 entspricht, im Sprint direkt vom Zaubernden weg. Dieser Terror ist so alles verzehrend, dass Gegner, die bei der Resistenz einen Patzer würfeln, alle gehaltenen Gegenstände fallen lassen, die nicht in irgendeiner Weise gesichert sind. Große Kreaturen (Statur 21-40) sind weniger anfällig für diesen Zauber, wobei der Resistenzwurf Leicht ist, und der Resistenzwurf für Riesige Kreaturen (Statur 41+) ist Sehr Leicht.
 
 ---
-#### Federfall (Feather Fall)
+#### Federfall
 
 (Transmutation)
 
@@ -1046,72 +1046,74 @@ Wenn dieser Zauber gewirkt wird, dehnt sich eine Welle des Terrors nach außen a
 | **Rang:** Magier 1 | **Zauberzeit:** Sofort |
 | **Sphäre:** Keine | **Dauer:** 1 Minute/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 30 Fuß/Intensität |
-| **Bereich:** 5 Fuß Radius | **Widerstand:** N/A |
+| **Bereich:** 5 Fuß Radius | **Resistenz:** N/A |
 
-Wenn dieser Zauber gewirkt wird, werden mehrere Personen, Kreaturen oder Objekte innerhalb des Wirkungsbereichs des Zaubers, mit einer kombinierten Statur von nicht mehr als 20 pro Intensität, im Gewicht auf das einer Feder reduziert. Diejenigen, die unter dem Einfluss des Zaubers stehen, fallen nicht schneller als 10 Fuß pro Runde/120 Fuß pro Minute, wobei kein Fallschaden anfällt, solange die Dauer des Zaubers andauert. Sie sind so leicht, dass sie effektiv immun gegen jeden Rückstoß von mehr als 5 Fuß sind und keinen Schaden nehmen, wenn sie gegen etwas stoßen, da sie einfach langsam rückwärts schweben.
+Wenn dieser Zauber gewirkt wird, werden mehrere Personen, Kreaturen oder Objekte innerhalb des Wirkungsbereichs des Zaubers, mit einer kombinierten Statur von nicht mehr als 20 pro Intensität, im Gewicht auf das einer Feder reduziert. Diejenigen, die unter dem Einfluss des Zaubers stehen, fallen nicht schneller als 10 Fuß pro Runde/120 Fuß pro Minute, wobei während der Dauer des Zaubers kein Fallschaden entsteht. Sie sind so leicht, dass sie effektiv immun gegen jeden Rückstoß von mehr als 5 Fuß sind und keinen Schaden nehmen, wenn sie gegen etwas stoßen, da sie einfach langsam rückwärts schweben.
 
-Diesen Zauber auf eine Flugkreatur wie einen Vogel oder Drachen zu wirken, verändert deren Flugdynamik so, dass jede Runde der Dauer des Zaubers Schwer-Würfe auf Fliegen erforderlich sind, wenn sie in der Luft bleiben wollen. Bei einem Erfolg kann sich die Kreatur wie gewünscht bewegen, jedoch nur mit der Hälfte ihrer normalen Bewegungsrate, während ein fehlgeschlagener Wurf dazu führt, dass die Kreatur sanft außer Kontrolle in eine zufällige Richtung mit einer Entfernung gleicht ihrer versuchten Bewegungsrate trudelt. Wenn sie sich einfach fallen lässt, kann eine Flugkreatur ihre Flügel benutzen, um ihren Landepunkt um 5 Fuß pro Runde anzupassen.
+Das Wirken dieses Zaubers auf eine fliegende Kreatur wie einen Vogel oder Drachen verändert ihre Flugdynamik so, dass in jeder Runde der Zauberdauer ein Schwerer Fliegen-Wurf erforderlich ist, wenn sie in der Luft bleiben wollen. Bei einem Erfolg kann sich die Kreatur wie gewünscht bewegen, jedoch nur mit der Hälfte ihrer normalen Bewegungsrate, während ein fehlgeschlagener Wurf dazu führt, dass die Kreatur sanft in einer zufälligen Richtung trudelnd außer Kontrolle gerät, in einer Entfernung, die ihrer versuchten Bewegungsrate entspricht. Wenn sie sich einfach fallen lässt, kann eine fliegende Kreatur ihre Flügel benutzen, um ihren Landepunkt um 5 Fuß pro Runde anzupassen.
 
-Wenn der Zauber nachlässt, bevor die Betroffenen gelandet sind, nehmen sie wieder normale Fallgeschwindigkeit an und bestimmen ab diesem Punkt den Fallschaden.
+Wenn der Zauber ausläuft, bevor die Betroffenen gelandet sind, nehmen sie wieder normale Fallgeschwindigkeit an und bestimmen ab diesem Punkt den Fallschaden.
 
-Aufgrund der Sofort-Zauberzeit dieses Zaubers kann der Magier Federfall sowohl reaktiv als auch proaktiv einsetzen. Dies ermöglicht es dem Zauber, vor unerwarteten Stürzen zu schützen oder sogar die Aktion eines anderen zu unterbrechen, um verlangsamte Projektile wie Pfeile oder geworfene Speere zu verlangsamen, die dann sanft zwischen Angreifer und Ziel zu Boden schweben und keinen Schaden verursachen.
+Aufgrund der Sofortigen Zauberzeit dieses Zaubers kann der Magier Federfall sowohl reaktiv als auch proaktiv einsetzen. Dies ermöglicht es dem Zauber, vor unerwarteten Stürzen zu schützen oder sogar die Aktion eines anderen zu unterbrechen, um langsam fliegende Projektile wie Pfeile oder geworfene Speere zu verlangsamen, die dann sanft zwischen Angreifer und Ziel zu Boden schweben, ohne Schaden zu verursachen.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 Min.; 30 Fuß Reichweite; insgesamt 20 Statur betroffen; insgesamt 120 Fuß Abstieg |
-| 2 | 2 | 2 Min.; 60 Fuß Reichweite; insgesamt 40 Statur betroffen; insgesamt 240 Fuß Abstieg |
-| 3 | 3 | 3 Min.; 90 Fuß Reichweite; insgesamt 60 Statur betroffen; insgesamt 360 Fuß Abstieg |
-| 4 | 4 | 4 Min.; 120 Fuß Reichweite; insgesamt 80 Statur betroffen; insgesamt 480 Fuß Abstieg |
-| +1 | +1 | Fortsetzen der Progression |
+| 1 | 1 | 1 Min.; 30 Fuß Reichweite; insgesamt 20 Statur betroffen; insgesamt 120 Fuß Fall |
+| 2 | 2 | 2 Min.; 60 Fuß Reichweite; insgesamt 40 Statur betroffen; insgesamt 240 Fuß Fall |
+| 3 | 3 | 3 Min.; 90 Fuß Reichweite; insgesamt 60 Statur betroffen; insgesamt 360 Fuß Fall |
+| 4 | 4 | 4 Min.; 120 Fuß Reichweite; insgesamt 80 Statur betroffen; insgesamt 480 Fuß Fall |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
-#### Vertrauten Finden (Find Familiar)
+#### Vertrauten finden
 
-(Konjuration)
+(Beschwörung)
 
 | | |
 | :-- | :-- |
-| **Rang:** Magier 1 | **Zauberzeit:** 2d12 Stunden |
+| **Rang:** Magier 1 | **Zauberzeit:** 2w12 Stunden |
 | **Sphäre:** Keine | **Dauer:** Speziell |
 | **Kosten:** 3/Intensität, +1 Erf. Mod. | **Reichweite:** 0 |
-| **Bereich:** ½ Meile Radius/Intensität | **Widerstand:** N/A |
+| **Bereich:** ½ Meile Radius/Intensität | **Resistenz:** N/A |
 
-Dieser Zauber erlaubt es dem Zaubernden, zu versuchen, einen Vertrauten zu beschwören, der zu einer Erweiterung der Sinne und der Macht seines Meisters wird. Vertraute können telepathisch mit ihrem Meister kommunizieren und geben gute Wächter und Späher ab. Den eigenen Vertrauten zu verlieren, birgt aufgrund der engen Verbindung gewisse Risiken für den Magiekundigen, was einen Vertrauten zu einem Gefahrenfaktor niedrigen Rangs macht.
+Dieser Zauber erlaubt es dem Zaubernden, zu versuchen, einen Vertrauten zu beschwören, der zu einer Erweiterung der Sinne und der Macht seines Meisters wird. Vertraute können telepathisch mit ihrem Meister kommunizieren und sind gute Wachen und Späher. Den eigenen Vertrauten töten zu lassen, birgt aufgrund der engen Bindung gewisse Risiken für den Magiekundigen, was einen Vertrauten zu einer Gefahr niedrigen Ranges macht.
 
-Um einen Vertrauten zu beschwören, muss der Magiekundige das Ritual beginnen, während er ein Kohlebecken mit Holzkohle am Glühen hält, und wenn es intensiv brennt, Weihrauch im Wert von 100 GM hinzufügen. Während diese Zutaten brennen, muss der Zaubernde das Ritual fortsetzen, bis der Vertraute eintrifft oder die Zauberzeit ohne Erfolg abläuft.
+Um einen Vertrauten zu beschwören, muss der Magiekundige das Ritual beginnen, während er ein Kohlebecken glühend hält, und wenn es intensiv brennt, 100 GM an Weihrauch hinzufügen. Während diese Zutaten brennen, muss der Zaubernde das Ritual fortsetzen, bis der Vertraute eintrifft oder die Zauberzeit ohne Erfolg abläuft.
 
-Selbst wenn dieser Zauber erfolgreich gewirkt wurde, beträgt die Chance, dass ein geeigneter Vertrauter auf den Ruf des Magiekundigen antwortet, nur 50 %, und der Magiekundige darf diesen Zauber nur einmal im Jahr versuchen. Jede zusätzliche Stufe der Intensität über die erste hinaus erweitert die Reichweite des Zaubers um eine weitere halbe Meile, was wiederum die Wahrscheinlichkeit erhöht, einen potenziellen Vertrauten zu finden, um 5 %, bis zu einem Maximum von 95 %. Es gibt keine Kontrolle über die genaue Art der Kreatur, die auf den Ruf antworten wird, aber was ankommt, wird ein treuer Diener und Verbündeter sein. Es liegt an der spezifischen Kreatur, den Ruf zu beantworten; daher garantiert der Aufenthalt in einer Region, von der bekannt ist, dass sie von einer bestimmten Art von Kreatur bewohnt wird, dem Zaubernden _keinen_ Erfolg.
+Selbst wenn dieser Zauber erfolgreich gewirkt wird, liegt die Chance, dass ein geeigneter Vertrauter auf den Ruf des Magiekundigen antwortet, bei nur 50%, und der Magiekundige darf diesen Zauber nur einmal pro Jahr versuchen. Jede zusätzliche Intensitätsstufe über der ersten hinaus erweitert die Reichweite des Zaubers um eine weitere halbe Meile, was wiederum die Wahrscheinlichkeit, einen potenziellen Vertrauten zu finden, um 5% erhöht, bis zu einem Maximum von 95%. Es gibt keine Kontrolle über die genaue Art der Kreatur, die auf den Ruf antworten wird, aber was auch immer eintrifft, wird ein treuer Diener und Verbündeter sein. Es liegt an der jeweiligen Kreatur, auf den Ruf zu antworten; daher garantiert der Aufenthalt in einer Region, von der bekannt ist, dass sie von einer bestimmten Art von Kreatur bewohnt wird, dem Zaubernden _keinen_ Erfolg.
 
-Wenn eine Kreatur dem Ruf des Zaubernden folgt, muss der Magiekundige dennoch 1 Erf. Mod. opfern, um eine spirituelle Verbindung zwischen sich und dem Vertrauten herzustellen. Sobald dies geschehen ist, ist das Ritual abgeschlossen.
+Wenn eine Kreatur auf die Beschwörung des Zaubernden antwortet, muss der Magiekundige dennoch 1 Erf. Mod. opfern, um eine geistige Verbindung zwischen sich und dem Vertrauten herzustellen. Sobald dies geschehen ist, ist das Ritual abgeschlossen.
 
-Während der Vertraute und sein Meister innerhalb von 120 Fuß voneinander entfernt sind, gewinnt der Magiekundige auch die Fähigkeit, die Magiepunkte des Vertrauten zu nutzen. Zusätzlich erhält der Magiekundige eine telepathische Verbindung zum Vertrauten und alle zusätzlichen besonderen Fähigkeiten oder Fertigkeitsboni, die in den untenstehenden Tabellen vermerkt sind.
+Solange sich der Vertraute und sein Meister innerhalb von 120 Fuß voneinander befinden, gewinnt der Magiekundige die Fähigkeit, auch die Magiepunkte des Vertrauten zu nutzen. Zusätzlich erhält der Magiekundige eine telepathische Verbindung zum Vertrauten und alle zusätzlichen besonderen Fähigkeiten oder Fertigkeitsboni, die in den untenstehenden Tabellen aufgeführt sind.
 
-Im Falle des Todes des Vertrauten verliert der Zaubernde 5 Erf. Mod. Ein Zaubernde, der derzeit keine Erf. Mod. besitzt, muss auf alle weiteren Erf. Mod. verzichten, bis das Guthaben ausgeglichen ist.
+Im Falle des Todes des Vertrauten verliert der Zaubernde 5 Erf. Mod. Ein Zaubernder, der derzeit über keine Erf. Mod. verfügt, muss auf alle weiteren Erf. Mod. verzichten, die vergeben werden, bis der Ausgleich gezahlt ist.
 
-Die Art des Vertrauten, der erscheint (falls vorhanden), wird gemäß der folgenden Tabelle bestimmt. Unter den meisten Umständen sind gewöhnliche Vertraute nicht außergewöhnlich groß, haben Statur 1-4 und verwenden den Eintrag für Kleine Tiere.
+Die Art des Vertrauten, der erscheint, sofern überhaupt einer erscheint, wird gemäß der folgenden Tabelle bestimmt. Unter den meisten Umständen sind gewöhnliche Vertraute nicht außergewöhnlich groß, haben eine Statur von 1-4 und verwenden die Beschreibung Kleines Tier.
 
 ##### Gewöhnliche Vertraute
 
-| d100 Wurf | Typ | STÄ/Statur | MAC | Gewährte Besondere Fähigkeiten, alle beinhalten Telepathische Verbindung |
+| w100 Wurf | Typ | STÄ/Statur | MAC | Gewährte Besondere Fähigkeiten, alle beinhalten telepathische Verbindung |
 | :-: | :-: | :-: | :-: | :-- |
-| 01-05 | Fledermaus | 1 | 1d3 | +10% Wahrnehmung (nur Gehör), kann im Dunkeln oder blind ohne Abzug kämpfen |
-| 06-10 | Hauskatze | 1 | 2d3 | Nachtsicht, +10% Wahrnehmung (nur Gehör), +10% Heimlichkeit |
-| 11-15 | Krähe | 1 | 2d3 | Verbale Kommunikation\*, +10% Wahrnehmung |
-| 16-20 | Hund, Mittel | 1d2+2 (4) | 1d3 | Nachtsicht, +10% Wahrnehmung (nur Gehör und Geruch), +10% Fährtenlesen |
-| 21-25 | Hund, Klein | 1d2 | 1d3 | Nachtsicht, +10% Wahrnehmung (nur Gehör und Geruch), +10% Fährtenlesen |
-| 26-30 | Frettchen | 1 | 1d3 | +10% Wahrnehmung (nur Sicht), +10% Ausweichen |
-| 31-35 | Frosch/Kröte | 1 | 2d3 | +10% Wahrnehmung, kann Atem für 2 Minuten plus Ausdauer in Sekunden anhalten, im Miniaturkampf erstrecken sich die vorderen Felder des Charakters zu beiden Seiten |
-| 36-40 | Falke | 1 | 2d6 | +20% Wahrnehmung, 2x normale Sichtweite |
-| 41-45 | Eidechse | 1 | 2d3 | +10% Athletik, +10% Schwimmen |
-| 46-50 | Maus | 1 | 1d3 | +10% Ausdauer, +10% Wahrnehmung (nur Geruch), +10% Schwimmen |
-| 51-55 | Eule, Schreieule | 1 | 2d6 | Nachtsicht, +10% Wahrnehmung (nur Nacht), +10% Willenskraft |
-| 56-60 | Ratte | 1 | 1d3 | +10% Ausdauer, +10% Wahrnehmung (nur Geruch), +10% Schwimmen |
-| 61-65 | Rabe | 1 | 2d6 | Verbale Kommunikation\*, +10% Handel, +10% Wahrnehmung |
-| 66-70 | Schlange | 1 | 2d3 | +10% Ausdauer (nur Widerstand gegen Gift), +10% Wahrnehmung (nur Geschmack) |
-| 71-75 | Wiesel | 1 | 1d3 | +10% Wahrnehmung (nur Gehör und Geruch) |
+| 01-05 | Fledermaus | 1 | 1w3 | +10% Wahrnehmung (nur Hören), kann im Dunkeln oder blind ohne Abzug kämpfen |
+| 06-10 | Katze, Haus | 1 | 2w3 | Nachtsicht, +10% Wahrnehmung (nur Hören), +10% Heimlichkeit |
+| 11-15 | Krähe | 1 | 2w3 | Verbale Kommunikation*, +10% Wahrnehmung |
+| 16-20 | Hund, mittel | 1w2+2 (4) | 1w3 | Nachtsicht, +10% Wahrnehmung (nur Hören und Geruch), +10% Fährtenlesen |
+| 21-25 | Hund, klein | 1w2 | 1w3 | Nachtsicht, +10% Wahrnehmung (nur Hören und Geruch), +10% Fährtenlesen |
+| 26-30 | Frettchen | 1 | 1w3 | +10% Wahrnehmung (nur Sehen), +10% Ausweichen |
+| 31-35 | Frosch/Kröte | 1 | 2w3 | +10% Wahrnehmung, kann Atem 2 Minuten plus Ausdauer in Sekunden anhalten, im Miniaturkampf erweitern sich die vorderen Quadrate des Charakters zu beiden Seiten |
+| 36-40 | Falke | 1 | 2w6 | +20% Wahrnehmung, 2x normale Sichtweite |
+| 41-45 | Eidechse | 1 | 2w3 | +10% Athletik, +10% Schwimmen |
+| 46-50 | Maus | 1 | 1w3 | +10% Ausdauer, +10% Wahrnehmung (nur Geruch), +10% Schwimmen |
+| 51-55 | Eule, Schreieule | 1 | 2w6 | Nachtsicht, +10% Wahrnehmung (nur Nacht), +10% Willenskraft |
+| 56-60 | Ratte | 1 | 1w3 | +10% Ausdauer, +10% Wahrnehmung (nur Geruch), +10% Schwimmen |
+| 61-65 | Rabe | 1 | 2w6 | Verbale Kommunikation*, +10% Einfluss, +10% Wahrnehmung |
+| 66-70 | Schlange | 1 | 2w3 | +10% Ausdauer (nur Giftresistenz), +10% Wahrnehmung (nur Geschmack) |
+| 71-75 | Wiesel | 1 | 1w3 | +10% Wahrnehmung (nur Hören und Geruch) |
 | 76-00 | Kein Vertrauter in Reichweite | - | - | - |
 
-_\* Gemeinsame Sprache und die Rasse-Sprache des Meisters, falls zutreffend._#### Feuerball
+_* Gemeinsprache und die Rassesprache des Meisters, falls zutreffend._
+
+---#### Feuerball
 
 (Evokation)
 
@@ -1122,11 +1124,11 @@ _\* Gemeinsame Sprache und die Rasse-Sprache des Meisters, falls zutreffend._###
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** Berührung |
 | **Bereich:** 20 Fuß Radius | **Widerstand:** Ausweichen |
 
-In der ersten Runde des Zauberns, während der Magieanwender die verbale Beschwörung beginnt und Gesten ausführt, beginnt sich in der Hand eine kleine Glut oder eine flammenähnliche Funkenbildung zu formen, die sich langsam zu einem kleinen Feuerball vergrößert. In der zweiten Runde, nach Abschluss der Beschwörung, täuscht der Magieanwender einen Wurf des Balls vor, der daraufhin mit einem tiefen Grollen zu einem gewaltigen Feuerball explodiert. Er besitzt nur wenig Druck und verursacht 1d6 Schadenspunkte für jeweils 2 Punkte Intensität oder einen Bruchteil davon bei allen Opfern im Wirkungsbereich. Der Schaden wird einmal gewürfelt und auf jede Trefferzone des Ziels angewendet; getragene Rüstung bietet keinen Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt.
+In der ersten Runde des Zauberns, während der Magieanwender die verbale Beschwörung und die Gesten beginnt, bildet sich eine kleine glühende Asche oder eine funkenähnliche Flamme in der Hand, die langsam zu einem kleinen Feuerball heranwächst. In der zweiten Runde, wenn die Beschwörung abgeschlossen ist, imitiert der Magieanwender das Werfen des Balls, der mit einem tiefen Grollen zu einem massiven Feuerball explodiert. Er besitzt wenig Druck und verursacht 1d6 Schadenspunkte für jede 2 Punkte an Intensität oder Bruchteile davon bei allen Opfern im Wirkungsbereich. Der Schaden wird einmal gewürfelt und auf jede der Trefferzonen des Ziels angewendet, wobei getragene Rüstung keinen Schutz bietet, jedoch verringern magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur den Schaden wie gewohnt.
 
-Ein erfolgreicher Ausweichen-Wurf, der zum Hinlegen führt, erlaubt es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit "Artful Dodger" hat die Option, auszuweichen, ohne sich hinzulegen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte, es sei denn, sie befinden sich innerhalb von 5 Fuß vom Rand des Wirkungsbereichs.
+Ein erfolgreicher Ausweichen-Wurf, der dazu führt, dass man sich hinlegt, ermöglicht es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit "Artful Dodger" hat die Option, auszuweichen, ohne sich hinzulegen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte, es sei denn, sie befinden sich innerhalb von 5 Fuß vom Rand des Wirkungsbereichs.
 
-Ein Feuerball hat eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für weitere Informationen.
+Ein Feuerball hat eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Weitere Informationen finden sich im Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks).
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1136,7 +1138,7 @@ Ein Feuerball hat eine Chance, brennbare Materialien zu entzünden, die dem gew�
 | 4 | 6 | 120 Fuß Reichweite; 2d6 Schaden |
 | 5 | 7 | 180 Fuß Reichweite; 3d6 Schaden |
 | 6 | 8 | 240 Fuß Reichweite; 3d6 Schaden |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
 #### Feuerball, Verzögerte Explosion
@@ -1150,7 +1152,7 @@ Ein Feuerball hat eine Chance, brennbare Materialien zu entzünden, die dem gew�
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 50 Fuß/Intensität |
 | **Bereich:** 20 Fuß Radius | **Widerstand:** Ausweichen |
 
-Mit den oben und im folgenden Text genannten Ausnahmen funktioniert dieser Zauber wie der normale Feuerball-Zauber. Der Feuerball mit verzögerter Explosion verursacht 1d8 Schadenspunkte für jeweils 2 Punkte Intensität oder einen Bruchteil davon bei allen Opfern im Wirkungsbereich. Beim Wirken kann der Magieanwender den Feuerball so einstellen, dass er zu einem beliebigen Zeitpunkt zwischen sofort und innerhalb von fünf Minuten explodiert. Er fliegt zum Zielort und bleibt dort träge als kleine schwebende Glut liegen, bis er zur gewünschten Zeit zu einem gewaltigen Feuerball aufflammt.
+Mit den oben und im folgenden Text vermerkten Ausnahmen funktioniert dieser Zauber wie der normale Feuerball-Zauber. Der Feuerball mit verzögerter Explosion fügt 1d8 Schadenspunkte für jede 2 Punkte an Intensität oder Bruchteile davon bei allen Opfern im Wirkungsbereich zu. Beim Zaubern kann der Magieanwender den Feuerball so einstellen, dass er zu einem beliebigen Zeitpunkt zwischen sofort und innerhalb von fünf Minuten explodiert. Er bewegt sich zum festgelegten Punkt und bleibt dann inaktiv, als kleine schwebende glühende Asche, bis er zur gewünschten Zeit in einen massiven Feuerball aufflammt.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1160,7 +1162,7 @@ Mit den oben und im folgenden Text genannten Ausnahmen funktioniert dieser Zaube
 | 4 | 6 | 200 Fuß Reichweite; 2d8 Schaden |
 | 5 | 7 | 250 Fuß Reichweite; 3d8 Schaden |
 | 6 | 8 | 300 Fuß Reichweite; 3d8 Schaden |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
 #### Feuerschild
@@ -1172,14 +1174,14 @@ Mit den oben und im folgenden Text genannten Ausnahmen funktioniert dieser Zaube
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** 2 Minuten/Intensität |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 0 |
-| **Bereich:** Zaubernder | **Widerstand:** k. A. |
+| **Bereich:** Zauberer | **Widerstand:** N/A |
 
-Dieser Zauber erschafft einen Schild aus feinen Flammen, die den Zaubernden einhüllen, aber an sich keinen Schaden verursachen. Stattdessen schützen die Flammen den Empfänger entweder vor Feuer oder Kälte, abhängig davon, welche der beiden Varianten im Gedächtnis gespeichert ist: Kälteschild, der blaue oder grüne Flammen erzeugt und vor Hitze- und feuerbasiertem Schaden schützt, oder Wärmeschild, der violette oder blaue Flammen erzeugt und vor Kälte- und eisbasiertem Schaden schützt. Die Farbe der Flammen sollte zufällig mit einer 50%-Chance für jede bestimmt werden, da die Tatsache, dass beide Typen blaue Flammen abgeben können, ein Element der Unsicherheit aufseiten eines Angreifers schafft. Die Entscheidung, welche Variante man auswendig lernt, wird bei der Vorbereitung der Zauber getroffen, und bei Wunsch können beide gelernt werden. Diese Flammen geben keine Hitze ab und strahlen nur mit der halben Helligkeit einer Fackel. Die Einzelheiten jeder Variante sind unten aufgeführt.
+Dieser Zauber erschafft einen Schild aus schwachen Flammen, der den Zauberer einhüllt, aber an sich keinen Schaden verursacht. Stattdessen schützen die Flammen den Empfänger entweder vor Feuer oder Kälte, abhängig davon, welche von zwei Varianten gespeichert ist: Kälteschild, der blaue oder grüne Flammen erzeugt und vor Hitze- und feuerbasiertem Schaden schützt, oder Wärmeschild, der violette oder blaue Flammen erzeugt und vor Kälte- und eisbasiertem Schaden schützt. Die Farbe der Flammen sollte zufällig bestimmt werden, mit einer 50%-Chance für jede, da die Tatsache, dass beide Arten blaue Flammen abgeben können, ein Element der Unsicherheit auf Seiten jedes Angreifers schafft. Die Entscheidung, welche gespeichert wird, erfolgt bei der Vorbereitung der Zauber, und bei Wunsch können beide gespeichert werden. Diese Flammen geben keine Hitze ab und spenden Licht, das nur halb so hell ist wie eine Fackel. Die Einzelheiten jeder Variante sind unten aufgeführt.
 
-- **Kälteschild:** Diese Flammen fühlen sich kühl an und reduzieren jeglichen feuer- oder hitzebasierten Schaden auf die Hälfte des Gesamtwertes. Ein erfolgreicher Widerstandswurf hebt allen Schaden auf. Der Widerstandswurf ist um einen Grad einfacher und im Falle von Ausweichen wird der Verteidiger nicht auf den Boden geworfen.
-- **Wärmeschild:** Diese Flammen fühlen sich warm an und reduzieren jeglichen kältebasierten Schaden auf die Hälfte des Gesamtwertes. Ein erfolgreicher Widerstandswurf hebt allen Schaden auf. Der Widerstandswurf ist um einen Grad einfacher und im Falle von Ausweichen wird der Verteidiger nicht auf den Boden geworfen.
+- **Kälteschild:** Diese Flammen fühlen sich kühl an und reduzieren jeglichen feuer- oder hitzebasierten Schaden auf die Hälfte des Gesamtwertes. Ein erfolgreicher Widerstandswurf hebt den gesamten Schaden auf. Der Widerstandswurf ist um einen Grad einfacher und führt im Fall von Ausweichen nicht dazu, dass der Verteidiger hinfällt.
+- **Wärmeschild:** Diese Flammen fühlen sich warm an und reduzieren jeglichen kältebasierten Schaden auf die Hälfte des Gesamtwertes. Ein erfolgreicher Widerstandswurf hebt den gesamten Schaden auf. Der Widerstandswurf ist um einen Grad einfacher und führt im Fall von Ausweichen nicht dazu, dass der Verteidiger hinfällt.
 
-Nahkampfangriffe gegen den Empfänger einer der beiden Varianten, ob bewaffnet oder unbewaffnet, verursachen normalen Schaden, es sei denn, sie nutzen eines der Elemente, vor denen geschützt wird. In diesem Fall ist der Zaubernde vor dem elementaren Teil des Angriffs geschützt, und der Angreifer erhält Schaden in gleicher Höhe wie der zugefügte. Getragene Rüstung aufseiten des Angreifers bietet keinen Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Kreaturen mit angeborener Magieresistenz können den Feuerschild mit einem erfolgreichen Willenskraft-Wurf bannen, wenn der Empfänger zum ersten Mal getroffen wird. Wenn der Magieresistenz-Wurf fehlschlägt, kann der Gegner den Feuerschild später nicht mehr aufheben.
+Nahkampfangriffe gegen den Empfänger beider Varianten, egal ob bewaffnet oder unbewaffnet, verursachen normalen Schaden, außer wenn eines der Elemente verwendet wird, gegen das Schutz besteht. In diesem Fall ist der Zauberer vor dem elementaren Teil des Angriffs geschützt, und der Angreifer erleidet Schaden in gleicher Höhe wie der zugefügte. Getragene Rüstung auf Seiten des Angreifers bietet keinen Schutz, jedoch reduzieren magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur den Schaden wie gewohnt. Kreaturen mit angeborener Magieresistenz können Feuerschild bei einem erfolgreichen Willenskraft-Wurf bannen, wenn der Empfänger zum ersten Mal getroffen wird. Wenn der Magieresistenz-Wurf fehlschlägt, kann der Gegner den Feuerschild später nicht negieren.
 
 ---
 #### Flammenschlag
@@ -1189,13 +1191,13 @@ Nahkampfangriffe gegen den Empfänger einer der beiden Varianten, ob bewaffnet o
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 2 | **Zauberzeit:** 2 Aktionen |
-| **Sphäre:** Kampf, Elementar (Feuer) | **Dauer:** Sofort |
+| **Sphäre:** Kampf, Elementar (Feuer) | **Dauer:** Augenblicklich |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 100 Fuß + 20 Fuß/zusätzliche Intensität |
 | **Bereich:** 5 Fuß Radius | **Widerstand:** Ausweichen |
 
-Nach dem erfolgreichen Wirken schießt eine 30 Fuß hohe Flammensäule von oben herab und sengt einen vom Kleriker festgelegten Bereich. Die Säule verursacht 1d8 Schadenspunkte für jeweils 2 Punkte Intensität oder einen Bruchteil davon bei allen Opfern im Wirkungsbereich. Würfle den Schaden einmal und wende ihn auf jede Trefferzone des Ziels an; getragene Rüstung bietet halben Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Ein erfolgreicher Ausweichen-Wurf, bei dem man sich aus dem Wirkungsbereich rollt oder wirft und schließlich auf dem Boden landet, erlaubt es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit "Artful Dodger" kann ausweichen, ohne auf dem Boden zu landen, und darf sich frei direkt außerhalb des Wirkungsbereichs bewegen.
+Nach erfolgreichem Wirken schießt eine Flammensäule von 30 Fuß Höhe von oben herab und sengt einen Bereich, den der Kleriker bestimmt. Die Säule verursacht 1d8 Schadenspunkte für jede 2 Punkte an Intensität oder Bruchteile davon bei allen Opfern im Wirkungsbereich. Würfle den Schaden einmal und wende ihn auf jede der Trefferzonen des Ziels an, wobei getragene Rüstung halben Schutz bietet, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur den Schaden wie gewohnt reduzieren. Ein erfolgreicher Ausweichen-Wurf, bei dem man sich aus dem Wirkungsbereich rollt oder wirft und hinfällt, ermöglicht es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit "Artful Dodger" kann ausweichen, ohne hinzufallen, und darf sich frei direkt außerhalb des Wirkungsbereichs bewegen.
 
-Ein Flammenschlag hat eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für weitere Informationen.
+Flammenschlag hat eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Weitere Informationen finden sich im Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks).
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1204,10 +1206,10 @@ Ein Flammenschlag hat eine Chance, brennbare Materialien zu entzünden, die dem 
 | 3 | 5 | 140 Fuß Reichweite; 2d8 Schaden |
 | 4 | 6 | 160 Fuß Reichweite; 2d8 Schaden |
 | 5 | 7 | 180 Fuß Reichweite; 3d8 Schaden |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
-#### Fleisch zu Stein \(R\)
+#### Fleisch zu Stein (R)
 
 (Transmutation)
 
@@ -1218,31 +1220,31 @@ Ein Flammenschlag hat eine Chance, brennbare Materialien zu entzünden, die dem 
 | **Kosten:** 3/Intensität | **Reichweite:** 30 Fuß/Intensität |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Beim Wirken erhält ein Opfer innerhalb der Reichweite einen Willenskraft-Widerstandswurf. Bei einem Misserfolg werden das Opfer und alle getragenen oder angelegten Besitztümer vollständig in massiven Stein verwandelt. Diese Verwandlung ist kein Tod, sondern eine Form des künstlichen Winterschlafs. Das Wirken der umgekehrten Version dieses Zaubers oder ein Wunsch können verwendet werden, um das Opfer wieder zum Leben zu erwecken. Jeder Schaden, den das Opfer als Statue erleidet, bleibt bestehen und tritt sofort bei der Rückverwandlung in Kraft. Große Kreaturen (GRÖ 21-40) sind weniger anfällig für diesen Zauber; der Widerstandswurf ist Leicht, und der Widerstandswurf für riesige Kreaturen (GRÖ 41+) ist Sehr Leicht.
+Wenn gezaubert, erhält ein Opfer innerhalb der Reichweite einen Willenskraft-Widerstandswurf. Wenn dieser misslingt, werden es und alle getragenen oder angelegten Besitztümer vollständig in soliden Stein verwandelt. Diese Verwandlung ist kein Tod, sondern eine Form von Scheintod. Das Wirken der umgekehrten Version dieses Zaubers oder ein Wunsch kann verwendet werden, um das Opfer wieder ins Leben zurückzurufen. Jeder Schaden, den das Opfer erleidet, während es Stein ist, bleibt bestehen und wird unmittelbar nach der Wiederherstellung wirksam. Große Kreaturen (GRÖ 21-40) sind weniger anfällig für diesen Zauber, wobei der Widerstandswurf Leicht ist, und der Widerstandswurf für riesige Kreaturen (GRÖ 41+) ist Sehr Leicht.
 
-Die Umkehrung dieses Zaubers, Stein zu Fleisch, wird verwendet, um ein Opfer wiederherzustellen; hierbei ist kein Widerstandswurf erforderlich. Der Zauber kann jedoch auch umgekehrt werden, um Stein zu verwandeln, der zuvor niemals lebendig war, was auf verschiedene kreative Arten genutzt werden kann. Zum Beispiel könnte eine Steinmauer von 10 Kubikfuß Größe pro Intensitätsstufe in weiches Fleisch verwandelt werden, ein "Tunnel" aus Fleisch von bis zu 3 Fuß Breite und einer Länge von 10 Fuß pro Intensität könnte erschaffen werden, ein einzelnes Ziel wie eine Steinstatue könnte in einen Körper verwandelt werden, und sogar ein Steingolem könnte mittels dieses Zaubers in einen Fleischgolem verwandelt werden. Im letzteren Fall hätte der Steingolem jedoch wie üblich einen Willenskraft-Wurf zur Verteidigung. Auf diese Weise in Fleisch verwandelter Stein ist weich und biegsam, und obwohl er seine tatsächlichen Trefferpunkte behält, besitzt er keine Rüstungspunkte, was es einfacher macht, ihn zu zerhacken.
+Die Umkehrung dieses Zaubers, Stein zu Fleisch, wird verwendet, um ein Opfer wiederherzustellen, und kein Widerstandswurf ist erforderlich. Der Zauber kann jedoch auch umgekehrt werden, um Stein zu verwandeln, der zuvor nie lebendig war, was auf eine von mehreren kreativen Arten genutzt werden kann. Zum Beispiel könnte eine Steinmauer von 10 Kubikfuß Größe pro Intensitätsstufe in weiches Fleisch verwandelt werden, ein "Fleischtunnel" von bis zu 3 Fuß Breite mit einer Länge von 10 Fuß pro Intensität könnte erschaffen werden, ein einzelnes Ziel wie eine Steinstatue könnte in einen Körper verwandelt werden, und sogar ein Steingolem könnte mittels dieses Zaubers in einen Fleischgolem verwandelt werden. Im letzteren Fall würde dem Steingolem jedoch wie gewohnt ein Willenskraft-Wurf zum Widerstand gewährt. Zu Fleisch gewordener Stein ist weich und biegsam, und obwohl er seine tatsächlichen Trefferpunkte behält, besitzt er keine Rüstungspunkte, was es leichter macht, ihn in Stücke zu hacken.
 
 ---
 #### Schwebende Scheibe
 
-(Konjuration)
+(Beschwörung)
 
 | | |
 | :-- | :-- |
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 30 Minuten/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 60 Fuß |
-| **Bereich:** 3 Fuß breite Scheibe | **Widerstand:** k. A. |
+| **Bereich:** 3 Fuß breite Scheibe | **Widerstand:** N/A |
 
-Der Magieanwender kann diesen Zauber wirken, um eine schimmernde Kraftscheibe zu erschaffen, die sich zu einem Kreis von 3 Fuß Durchmesser verdichtet, und diese zum Transport loser, verschiedener Gegenstände nutzen. Diese schwebende Scheibe bleibt immer 3 Fuß über dem Boden und kann eine beliebige Anzahl von Waren tragen, sofern sie 20 "Dinge" pro Intensität nicht überschreiten und auf die Scheibe passen. Zum Vergleich: Man nehme an, 1 GRÖ entspricht 3 "Dingen"; daher könnte die Scheibe etwas über 6 GRÖ pro Intensität tragen. Die konkave Natur der Scheibe verhindert im Allgemeinen das Herunterrollen von Gegenständen, und wenn man sie sich selbst überlässt, bleibt die Scheibe innerhalb von 5 Fuß beim Zaubernden und folgt mit einer Bewegungsrate von 15 Fuß. Die Scheibe kann jedoch zu jedem Punkt innerhalb des 60-Fuß-Wirkungsbereichs des Zaubers manövriert werden, wenn der Magieanwender sich konzentriert, und kann sogar angewiesen werden, an einem bestimmten Ort zu verbleiben. Wenn der Magieanwender zulässt, dass sich die Scheibe weiter als 60 Fuß entfernt, verschwindet sie und lässt alle getragenen Gegenstände zu Boden fallen. Die Scheibe kann nicht angewiesen werden, höher als 3 Fuß über dem Boden zu schweben.
+Der Magieanwender kann diesen Zauber wirken, um eine schimmernde Kraftscheibe zu erschaffen, die zu einem Kreis mit 3 Fuß Durchmesser konzentriert ist, und sie verwenden, um lose, verschiedene Gegenstände zu tragen. Diese schwebende Scheibe bleibt immer 3 Fuß über dem Boden und kann eine beliebige Anzahl von Gütern tragen, wenn sie 20 'Dinge' pro Intensität nicht überschreiten und auf die Scheibe passen. Zu Vergleichszwecken nehmen wir an, dass 1 GRÖ gleich 3 'Dingen' ist; daher könnte die Scheibe etwas über 6 GRÖ pro Intensität tragen. Die konkave Natur der Scheibe verhindert im Allgemeinen, dass Gegenstände herunterrollen, und wenn sie nicht befohlen wird, bleibt die Scheibe innerhalb von 5 Fuß um den Zauberer und folgt mit einer Bewegungsrate von 15 Fuß. Die Scheibe kann jedoch zu jedem Punkt innerhalb des 60-Fuß-Bereichs des Zaubers manövriert werden, wenn der Magieanwender sich konzentriert, und kann sogar angewiesen werden, an einem bestimmten Ort zu verbleiben. Wenn der Magieanwender zulässt, dass sich die Scheibe über 60 Fuß hinaus bewegt, verschwindet die Scheibe und lässt alle getragenen Gegenstände auf den Boden fallen. Die Scheibe kann nicht angewiesen werden, höher als 3 Fuß über dem Boden zu steigen.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | 30 Min.; trägt 1-20 "Dinge" |
-| 2 | 2 | 60 Min.; trägt 21-40 "Dinge" |
-| 3 | 3 | 90 Min.; trägt 41-60 "Dinge" |
-| 4 | 4 | 120 Min.; trägt 61-80 "Dinge" |
-| +1 | +1 | Progression fortsetzen |
+| 1 | 1 | 30 Min.; trägt 1-20 'Dinge' |
+| 2 | 2 | 60 Min.; trägt 21-40 'Dinge' |
+| 3 | 3 | 90 Min.; trägt 41-60 'Dinge' |
+| 4 | 4 | 120 Min.; trägt 61-80 'Dinge' |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
 #### Fliegen
@@ -1254,9 +1256,9 @@ Der Magieanwender kann diesen Zauber wirken, um eine schimmernde Kraftscheibe zu
 | **Rang:** Magier 2 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** 30 Minuten/Intensität, +1d6x10 Minuten |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** k. A. |
+| **Bereich:** 1 Ziel | **Widerstand:** N/A |
 
-Wenn dieser Zauber gewirkt wird, kann der Magieanwender einer Kreatur mit bis zu 10 GRÖ pro Intensität das Geschenk des Fliegens gewähren. Die Kreatur erhält beim Fliegen eine Bewegungsrate von 30 Fuß, beim Klettern die Hälfte und im Sturzflug das Doppelte. Alle Fertigkeitsabzüge, die für die Bewegungsgeschwindigkeit am Boden gelten, gelten auch für die gewünschte Fluggeschwindigkeit, einschließlich Einschränkungen beim Zaubern und im Kampf. Die genaue Dauer des Fliegen-Zaubers ist unvorhersehbar und sollte vom Spielleiter gewürfelt werden, da diejenigen, die unter seinen Auswirkungen stehen, nicht genau wissen sollten, wie viel Zeit noch bleibt. Wenn der Flieger einen Fliegen-Fertigkeitswurf ablegen muss, können Athletik oder Akrobatik mit zwei Schwierigkeitsgraden Abzug substituiert werden. Ein Charakter, der diesen Zauber häufig verwendet, kann sich jedoch dazu entscheiden, die Fertigkeit Fliegen normal mit einem Basiswert von STÄ+GES zu entwickeln.
+Wenn dieser Zauber gewirkt wird, kann der Magieanwender einer Kreatur von bis zu 10 GRÖ pro Intensität die Gabe des Fliegens verleihen. Die Kreatur gewinnt eine Bewegungsrate von 30 Fuß im Flug, die Hälfte davon beim Klettern und das Doppelte in einem Sturzflug. Alle Fertigkeitsabzüge, die für die Bewegungsgeschwindigkeit am Boden gelten, gelten auch für die gewünschte Fluggeschwindigkeit, einschließlich der Einschränkungen beim Zaubern und im Kampf. Die genaue Dauer des Fliegen-Zaubers ist unvorhersehbar und sollte vom Spielleiter gewürfelt werden, da diejenigen, die unter seinen Auswirkungen stehen, nicht genau wissen sollten, wie viel Zeit übrig ist. Wenn der Flieger einen Flug-Fertigkeitswurf ablegen muss, können Athletik oder Akrobatik mit zwei Schwierigkeitsgraden Abzug substituiert werden. Ein Charakter, der diesen Zauber häufig verwendet, kann sich jedoch entscheiden, die Flug-Fertigkeit normal mit einem Basiswert von STÄ+GES zu entwickeln.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1264,7 +1266,7 @@ Wenn dieser Zauber gewirkt wird, kann der Magieanwender einer Kreatur mit bis zu
 | 2 | 4 | 60 Min. +1d6x10 Min.; 11-20 GRÖ |
 | 3 | 5 | 90 Min. +1d6x10 Min.; 21-30 GRÖ |
 | 4 | 6 | 120 Min. +1d6x10 Min.; 31-40 GRÖ |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
 #### Freie Aktion
@@ -1276,25 +1278,25 @@ Wenn dieser Zauber gewirkt wird, kann der Magieanwender einer Kreatur mit bis zu
 | **Rang:** Kleriker 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Charme | **Dauer:** 10 Minuten/Intensität |
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** k. A. |
+| **Bereich:** 1 Ziel | **Widerstand:** N/A |
 
-Wenn dieser Zauber gewirkt wird, kann das Ziel während der gesamten Dauer normal agieren, ungeachtet anderer Zauber oder Effekte, die Bewegungen behindern oder Angriffe bestrafen. Dies beinhaltet auch das Aufheben von Abzügen durch behinderndes Gelände wie Schlamm und Schnee. Unter Wasser kann sich das Subjekt mit seiner normalen Landgeschwindigkeit bewegen und geschwungene Waffen (Schwerter, Äxte, Keulen, Streitkolben usw.) greifen mit voller Wirkung an. Dieser Zauber verleiht jedoch nicht die Fähigkeit, unter Wasser zu atmen. Dieser Zauber hebt hinderliche Zauber wie Verstricken, Verlangsamen, Halten, Paralyse, Netz usw. in Bezug auf Bewegungs- und Aktionsabzüge auf.
+Beim Wirken erlaubt dieser Zauber dem Subjekt, während seiner Dauer normal zu handeln, unabhängig von anderen Zaubern oder Effekten, die Bewegung behindern oder Angriffe bestrafen. Dies schließt die Aufhebung von Abzügen durch behinderndes Gelände wie Schlamm und Schnee ein. Unter Wasser kann sich das Subjekt mit seiner normalen Landgeschwindigkeit bewegen und geschwungene Waffen (Schwerter, Äxte, Keulen, Streitkolben usw.) greifen mit vollem Effekt an. Dieser Zauber verleiht jedoch nicht die Fähigkeit, unter Wasser zu atmen. Dieser Zauber negiert behindernde Zauber wie Fesseln, Verlangsamen, Halten, Paralyse, Netz usw. in Bezug auf Bewegungs- und Aktionsabzüge.
 
 ---
-#### Erfrierungen
+#### Erfrierung
 
 (Transmutation)
 
 | | |
 | :-- | :-- |
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Keine | **Dauer:** Sofort |
+| **Sphäre:** Keine | **Dauer:** Augenblicklich |
 | **Kosten:** 1 | **Reichweite:** 60 Fuß |
 | **Bereich:** 1 Ziel | **Widerstand:** Ausdauer |
 
-Erfrierungen wirken direkt auf lebendes, organisches Gewebe und verursachen Taubheit und Schmerzen in einer der Extremitäten des Empfängers, zum Beispiel Finger, Zehen, Gesäß, Nase & Ohren usw. Der Zaubernde muss entweder eine bestimmte Extremität berühren oder zufällig würfeln, wenn aus der Ferne gezaubert wird. Wenn dem Zauber nicht widerstanden wird, erleidet der betroffene Bereich sensorische Taubheit, gefolgt von anhaltendem Schmerz für die Dauer, was Fertigkeitstests, die diesen Ort nutzen, um einen Schwierigkeitsgrad erschwert. Erfrierungen verursachen keinen direkten Schaden, machen den betroffenen Bereich aber für eine Weile nur eingeschränkt nutzbar. Ein Opfer mit Erfrierungen am Gesäß kann zum Beispiel nicht ohne extremes Unbehagen sitzen.
+Erfrierung wirkt direkt auf lebendes, organisches Gewebe und verursacht Taubheit und Schmerzen in einer der Extremitäten des Empfängers, zum Beispiel Finger, Zehen, Gesäß, Nase & Ohren usw. Der Zauberer muss entweder eine spezifische Extremität berühren oder zufällig würfeln, wenn aus der Distanz gezaubert wird. Wenn dem Zauber nicht widerstanden wird, leidet der betroffene Bereich unter sensorischer Taubheit, gefolgt von anhaltenden Schmerzen für die Dauer, was Fertigkeitstests, die diesen Ort nutzen, um einen Schwierigkeitsgrad erschwert. Erfrierung verursacht keinen direkten Schaden, macht aber den betroffenen Bereich für eine Weile nur eingeschränkt nutzbar. Zum Beispiel kann ein Opfer, das unter Erfrierung am Gesäß leidet, nicht ohne extremes Unbehagen sitzen.
 
-Große Kreaturen (GRÖ 21-40) sind weniger anfällig für diesen Zauber; der Widerstandswurf ist Leicht, und der Widerstandswurf für riesige Kreaturen (GRÖ 41+) ist Sehr Leicht.
+Große Kreaturen (GRÖ 21-40) sind weniger anfällig für diesen Zauber, wobei der Widerstandswurf Leicht ist, und der Widerstandswurf für riesige Kreaturen (GRÖ 41+) ist Sehr Leicht.
 
 ---
 #### Patzer
@@ -1308,11 +1310,11 @@ Große Kreaturen (GRÖ 21-40) sind weniger anfällig für diesen Zauber; der Wid
 | **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 30 Fuß/Intensität |
 | **Bereich:** 10 Fuß Radius | **Widerstand:** Willenskraft |
 
-Dieser Zauber bewirkt, dass alle Gegner im Wirkungsbereich ungeschickt werden; alle körperlichen Fertigkeitswürfe werden um einen Grad schwieriger, und jeder Misserfolg führt zu einem Patzer. Sogar körperliche Aktionen, die normalerweise keinen Fertigkeitswurf erfordern, wie das Aufheben eines heruntergefallenen Gegenstands, das Gehen in schnellerem Tempo oder das Treppensteigen, erfordern einen Athletik-Fertigkeitswurf. Ein Misserfolg führt in diesem Fall zu einem Patzer und typischerweise zu einem unbeholfenen Sturz bei Bewegungen oder dazu, dass man versehentlich einen Gegenstand weiter weg tritt, während man versucht, ihn aufzuheben. Der Spielleiter sollte kreativ mit den Ergebnissen eines Patzers umgehen; allerdings sollten nur wenige in Nicht-Kampfsituationen direkt tödlich sein. Im Kampf wird ein Patzer jedoch wie jeder andere behandelt und kann zu normalen Spezialeffekten führen.
+Dieser Zauber bewirkt, dass alle Gegner im Wirkungsbereich ungeschickt werden, wobei alle körperlichen Fertigkeitswürfe um einen Grad schwieriger werden und alle Fehlschläge zu einem Patzer führen. Sogar körperliche Aktionen, die normalerweise keinen Fertigkeitswurf erfordern, wie das Aufheben eines fallengelassenen Gegenstands, schneller als Gehen zu bewegen oder Treppen zu steigen, erfordern einen Athletik-Fertigkeitswurf. Ein Fehlschlag führt in diesem Fall zu einem Patzer, und typischerweise zu einem unbeholfenen Sturz im Falle der Bewegung oder zum versehentlichen Wegkicken eines Gegenstands, während man versucht, ihn aufzuheben. Der Spielleiter sollte kreativ mit den Ergebnissen eines Patzerwurfs umgehen; wenige sollten jedoch in Nicht-Kampfsituationen direkt tödlich sein. Im Kampf wird ein Patzer jedoch wie jeder andere behandelt und kann wie gewohnt zu Spezialeffekten führen.
 
-Ein erfolgreicher Widerstandswurf erlaubt es dem Opfer, den Auswirkungen des Zaubers für die laufende Runde zu entgehen; wenn das Opfer jedoch in der nächsten Runde weiterhin im Wirkungsbereich bleibt, muss wie gewohnt erneut ein Widerstandswurf abgelegt werden. Verbündete des ursprünglichen Angreifers müssen ebenfalls außerhalb des Wirkungsbereichs bleiben oder erleiden dieselben Einschränkungen wie ihre Gegner.
+Ein erfolgreicher Widerstandswurf erlaubt es dem Opfer, den Auswirkungen des Zaubers für die aktuelle Runde zu entgehen; wenn das Opfer jedoch in der nächsten Runde immer noch den Wirkungsbereich besetzt, muss ein weiterer Widerstandswurf wie gewohnt abgelegt werden. Verbündete des ursprünglichen Angreifers müssen ebenfalls außerhalb des Wirkungsbereichs bleiben oder dieselben Einschränkungen wie ihre Gegner erleiden.
 
-Dieser Zauber kann auch auf eine bestimmte Kreatur gerichtet werden, die bei einem fehlgeschlagenen Widerstandswurf die Auswirkungen für die gesamte Dauer des Zaubers erleidet. Auf diese Weise gewirkt, erzeugt Patzer keinen Wirkungsbereich. In diesem Fall führt ein erfolgreicher Widerstandswurf dazu, dass das Opfer die Auswirkungen des Rangs-2-Zaubers Verlangsamen erleidet.
+Dieser Zauber kann auch auf eine spezifische Kreatur gerichtet werden, die bei einem fehlgeschlagenen Widerstandswurf die Auswirkungen für die gesamte Dauer des Zaubers erleidet. Auf diese Weise gezaubert, erzeugt Patzer keinen Wirkungsbereich. In diesem Fall führt ein erfolgreicher Widerstandswurf dazu, dass das Opfer die Auswirkungen des Rangs 2 Zaubers "Verlangsamen" erleidet.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1320,39 +1322,39 @@ Dieser Zauber kann auch auf eine bestimmte Kreatur gerichtet werden, die bei ein
 | 2 | 4 | 2 Runden; 60 Fuß Reichweite |
 | 3 | 5 | 3 Runden; 90 Fuß Reichweite |
 | 4 | 6 | 4 Runden; 120 Fuß Reichweite |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
-#### Portal
+#### Tor
 
-(Konjuration)
+(Beschwörung)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 5, Magier 5 | **Zauberzeit:** 2 Runden |
 | **Sphäre:** Beschwörung | **Dauer:** Siehe unten |
-| **Kosten:** 3 + 1/Intensität, +3 ERF | **Reichweite:** 100 Fuß |
+| **Kosten:** 3 +1/Intensität, +3 ERF | **Reichweite:** 100 Fuß |
 | **Bereich:** Siehe unten | **Widerstand:** Willenskraft |
 
-Das Wirken von Portal erfordert, dass der Zaubernde den wahren Namen der zu beschwörenden Entität kennt, bei der es sich typischerweise um eine Kreatur von einer der anderen Existenzebenen handelt, wie einen Dämon oder Teufel, einen Engel, einen Halbgott oder sogar einen Gott. Bei erfolgreichem Wirken öffnet sich ein Portal zwischen der Ebene des Zaubernden und der der Entität. Das Wirken des Zaubers erregt automatisch die Aufmerksamkeit der Entität, ob erfolgreich oder nicht. Dieser Zauber ist immens mächtig und zehrend; er kostet den Zaubernden nicht nur die genannten 3 Magiepunkte und 3 Erfahrungswürfe, sondern lässt ihn auch um 5 % seiner typischen Lebensspanne altern (5 Jahre im Fall eines menschlichen Zaubernden). Wenn die Entität den Widerstandswurf besteht, wird sie in der Regel nicht persönlich erscheinen; vorausgesetzt, der Zauber ist erfolgreich, wird jedoch "etwas" hindurchkommen. Die folgende Tabelle wird verwendet, um einige übliche Entitäten, ihre durchschnittliche Willenskraft und typische Diener zu bestimmen, die stattdessen geschickt würden. Der Spielleiter kann frei wählen, was am besten zur Art der aktuellen Kampagne passt.
+Das Wirken von Tor erfordert, dass der Zauberer den wahren Namen der zu beschwörenden Entität kennt, bei der es sich typischerweise um eine Kreatur von einer der anderen Existenzebenen handelt, wie einen Dämon oder Teufel, einen Engel, Halbgott oder sogar einen Gott. Bei erfolgreichem Wirken öffnet sich ein Portal zwischen der Ebene, auf der sich der Zauberer befindet, und derjenigen der Entität. Das Wirken des Zaubers erregt automatisch die Aufmerksamkeit der Entität, ob erfolgreich oder nicht. Dieser Zauber ist immens mächtig und zehrend, wobei er den Zauberer nicht nur die vermerkten 3 Magiepunkte und 3 Erfahrungswürfe kostet, sondern ihn auch um 5% seiner typischen Lebensspanne altern lässt (5 Jahre im Falle eines menschlichen Zauberers). Wenn die Entität den Widerstandswurf besteht, wird sie typischerweise nicht die Mühe machen, persönlich zu erscheinen, vorausgesetzt jedoch, der Zauber ist erfolgreich, wird 'etwas' hindurchkommen. Die folgende Tabelle wird verwendet, um einige übliche Entitäten, ihre durchschnittliche Willenskraft und typische Diener zu bestimmen, die stattdessen geschickt würden. Der Spielleiter kann frei wählen, was am besten zur Natur der aktuellen Kampagne passt.
 
-##### Tabelle für Außerplanare Entitäten
+##### Tabelle für Außerebenen-Entitäten
 
 | Intensität | Kosten | Variabler Effekt | Willenskraft |
 | :-: | :-: | :-- | :-- |
 | 1 | 3 | Unter-Dämon oder Unter-Teufel | Gemäß spezifischer Entität |
 | 2 | 4 | Kleiner Dämon oder Teufel | Gemäß spezifischer Entität |
 | 3 | 5 | Niederer Dämon oder Teufel | Gemäß spezifischer Entität |
-| 4 | 6 | Größerer Dämon oder Teufel | Gemäß spezifischer Entität |
+| 4 | 6 | Großer Dämon oder Teufel | Gemäß spezifischer Entität |
 | 5 | 7 | Dämonen-/Teufelsprinz oder Herzog, Erzengel oder Halbgott | 121-140% |
-| 6 | 8 | Dämonenfürst, Erz-Teufel oder Niedere Gottheit | 141-160% |
+| 6 | 8 | Dämonenfürst, Erz-Teufel oder niedere Gottheit | 141-160% |
 | 7 | 9 | Höhere Gottheit | 161-180% |
 | 8 | 10 | Herrschende Gottheit | 181% + |
 
-Die Form der Antwort hängt stark von der spezifischen Entität, der Gesinnung beider Parteien und den Einzelheiten der Anfrage ab. Wenn die Entität glaubt, die Gründe für die Unterbrechung seien kleinlich oder unwichtig, könnte ihre Antwort von einfachem Gehen bis hin zu einem direkten Angriff reichen. Eine verzweifelte Situation, insbesondere eine, in der der Zaubernde von etwas bedroht wird, dem die Entität stark entgegensteht, wird jedoch wahrscheinlich auf eine günstigere Reaktion stoßen. Wenn der Spielleiter das Gefühl hat, dass es sich um eine Grauzone handelt und die Antwort fraglich ist, können der Zaubernde und seine Verbündeten versuchen, ihren Fall durch eine Kombination aus Fertigkeit, Schmeichelei, Bitten und/oder Bestechung vorzutragen. Die meisten Entitäten werden es jedoch vermeiden, in einen Konflikt mit anderen von gleicher oder größerer Macht hineingezogen zu werden, und viele werden eine Bezahlung verlangen, entweder vor oder nach der Tat. Das Portal bleibt so lange offen, wie die Entität sich entscheidet, auf dieser Seite zu bleiben, und schließt sich hinter ihr, wenn sie beschließt zu gehen. Während dieser Zeit ist es anderen möglich, das Portal zu durchqueren, was eine wechselseitige Reise zwischen beiden Realitäten bietet.
+Die Form der Antwort hängt stark von der spezifischen Entität, der Gesinnung beider Parteien und den Einzelheiten der Anfrage ab. Wenn die Entität glaubt, die Gründe für die Unterbrechung seien kleinlich oder unerheblich, könnte ihre Antwort alles sein, von einfachem Gehen bis zum direkten Angriff. Eine verzweifelte Situation, insbesondere eine, in der der Zauberer von etwas bedroht wird, das von der Entität stark abgelehnt wird, wird wahrscheinlich auf eine günstigere Antwort stoßen. Wenn der Spielleiter das Gefühl hat, es gäbe einen Graubereich und die Antwort stünde in Frage, können der Zauberer und seine Verbündeten versuchen, ihren Fall mithilfe einer Kombination aus Fertigkeit, Schmeichelei, Bitten und/oder Bestechung vorzubringen. Die meisten Entitäten werden es jedoch vermeiden, in einen Konflikt mit anderen von gleicher oder größerer Macht hineingezogen zu werden, und viele werden eine Bezahlung verlangen, entweder vor oder nach der Tat. Das Tor bleibt so lange offen, wie die Entität sich entscheidet, auf dieser Seite zu verweilen, und schließt sich hinter ihnen, wenn sie sich entscheiden zu gehen. Während dieser Zeit ist es möglich, dass das Tor von anderen durchquert wird, was Zwei-Wege-Reisen zwischen beiden Realitäten ermöglicht.
 
 ---
-#### Glamour \(R\)
+#### Glamour (R)
 
 (Verzauberung (Charme))
 
@@ -1363,11 +1365,11 @@ Die Form der Antwort hängt stark von der spezifischen Entität, der Gesinnung b
 | **Kosten:** 1 | **Reichweite:** 60 Fuß |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Glamour macht das Ziel anziehend, sodass sich Menschen auf natürliche Weise zu ihm hingezogen fühlen. Die Art des Glamours muss beim Wirken gewählt werden und kann alles sein, von erhöhter natürlicher Schönheit, einer weicheren, sinnlicheren Stimme bis hin zu einem verführerisch parfümierten Körperduft. Obwohl der Zauber keine mechanischen Vorteile gewährt, stellt er sicher, dass der Empfänger eine Chance erhält, sich ein Publikum zu verschaffen, die Aufmerksamkeit von jemandem zu erregen, den er kontaktieren möchte, oder eine Ablenkung zu bieten, die Komplizen die Möglichkeit gibt, schändliche Taten zu begehen.
+Glamour macht das Ziel anziehend, sodass Menschen sich auf natürliche Weise zu ihm hingezogen fühlen. Die Art des Glamours muss beim Wirken gewählt werden und kann alles sein, von gesteigerter natürlicher Schönheit, einer weicheren, sinnlicheren Stimme bis hin zu einem verführerisch parfümierten Körpergeruch. Während der Zauber keine mechanischen Vorteile gewährt, stellt er sicher, dass der Empfänger eine Chance erhält, sich ein Publikum zu verschaffen, die Aufmerksamkeit von jemandem zu erregen, den er kontaktieren möchte, oder für eine Ablenkung zu sorgen, die es Komplizen ermöglicht, ruchlose Taten zu vollbringen.
 
-Wenn umgekehrt, verzerrt Abscheu das Erscheinungsbild des Ziels so, dass es bei allen, die es sehen, hören oder riechen, Widerwillen hervorruft. Der Effekt muss beim Wirken gewählt werden und kann alles sein, von einer großen Warze auf der Nasenspitze, einer schrillen nasalen Stimme bis hin zu beißendem Körpergeruch. Was auch immer gewählt wird, es wird dazu führen, dass sich Menschen vom Opfer abwenden oder Ausreden finden, um dessen Nähe so schnell wie möglich zu verlassen.
+Wenn umgekehrt, verzerrt Abscheu das Aussehen des Ziels, sodass es bei allen, die es sehen, hören oder riechen, Widerwillen hervorruft. Der Effekt muss beim Wirken gewählt werden und kann alles sein, von einer großen Warze auf der Nasenspitze, einer hohen nasalen Stimme bis hin zu beißendem Körpergeruch. Was auch immer gewählt wird, es wird dazu führen, dass sich Menschen vom Opfer abwenden oder Ausreden suchen, um dessen Gegenwart so schnell wie möglich zu verlassen.
 
----#### Kleber
+---#### Leim
 
 (Transmutation)
 
@@ -1378,7 +1380,7 @@ Wenn umgekehrt, verzerrt Abscheu das Erscheinungsbild des Ziels so, dass es bei 
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 2 Gegenstände oder 1 zerbrochener Gegenstand | **Widerstand:** N/A |
 
-Kleber zementiert zwei feste, unbelebte Gegenstände für die Dauer des Zaubers aneinander, zum Beispiel ein Wagenrad an seiner Achse oder eine Tür an ihrem Rahmen. Während sie unter dem Einfluss des Zaubers stehen, können die Gegenstände, egal wie verschiedenartig sie sind, nicht getrennt werden, es sei denn, etwas versucht aktiv, sie auseinanderzureißen. Unter diesen Umständen hat der Zauber eine Athletik-Fertigkeit in Höhe der MAC x5 des Zaubernden und schlägt fehl, wenn eine überlegene Athletik dagegen eingesetzt wird, was ihn in einem vergleichenden Wurf besiegt. Sobald der Zauber endet oder fehlschlägt, trennen sich die Gegenstände völlig unversehrt.
+Leim zementiert zwei feste, unbelebte Gegenstände für die Dauer des Zaubers aneinander, zum Beispiel ein Wagenrad an seiner Achse oder eine Tür an ihrem Rahmen. Während sie unter dem Einfluss des Zaubers stehen, können die Gegenstände, egal wie verschiedenartig sie sind, nicht getrennt werden, es sei denn, jemand versucht aktiv, sie auseinanderzureißen. In diesem Fall besitzt der Zauber eine Athletik-Fertigkeit in Höhe der MAC x5 des Zauberers und schlägt fehl, wenn eine überlegene Athletik gegen ihn eingesetzt wird, was ihn in einem vergleichenden Wurf besiegt. Sobald der Zauber endet oder fehlschlägt, trennen sich die Gegenstände völlig unbeschadet.
 
 ---
 #### Hast
@@ -1389,10 +1391,10 @@ Kleber zementiert zwei feste, unbelebte Gegenstände für die Dauer des Zaubers 
 | :-- | :-- |
 | **Rang:** Magier 2 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** 3 Runden/Intensität |
-| **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 180 Fuß |
-| **Bereich:** 20 Fuß Radius, 1 Ziel/Intensität | **Widerstand:** N/A |
+| **Kosten:** 3 + 1/zusätzliche Intensität | **Reichweite:** 180 ft. |
+| **Bereich:** 20 ft. Radius, 1 Ziel/Intensität | **Widerstand:** N/A |
 
-Eine Person oder Kreatur (einschließlich man selbst) pro Intensität innerhalb des Wirkungsbereichs des Zaubers erhält die doppelte normale Bewegungsrate und einen Bonus von +4 auf die Initiative für die Dauer des Zaubers. Zusätzlich kann das Ziel für jeden verbrauchten Aktionspunkt 2 Aktionen pro Zug wählen. Dies erhöht in keiner Weise die Geschwindigkeit des Zauberwirkens oder die Dauer eines Zaubers. Daher wird ein Zauberwirker unter dem Einfluss von Hast keine Zauber schneller wirken und auch nicht von der zusätzlichen Aktion in demselben Zug profitieren, in dem Zauber gewirkt werden. Aufgrund des beschleunigten Stoffwechsels des Subjekts lässt jedes Wirken dieses Zaubers das Ziel um 1 % seiner normalen Lebenserwartung altern, unabhängig von der Dauer. Für Menschen wäre das etwa 1 Jahr. Siehe die [Altern](0007_Game_System.md?id=aging)-Regeln für die durchschnittliche Lebenserwartung der Halbmensch-Spezies. Das Wirken von Hast hebt die Effekte von Verlangsamen auf, und in diesem Fall altert das Individuum nicht. Hast ist nicht mit sich selbst oder ähnlichen magischen Effekten stapelbar.
+Eine Person oder Kreatur (einschließlich man selbst) pro Intensität innerhalb des Wirkungsbereichs des Zaubers erhält die doppelte normale Bewegungsrate und einen Bonus von +4 auf die Initiative für die Dauer des Zaubers. Zusätzlich kann das Ziel 2 Aktionen pro Runde für jeden verbrauchten Aktionspunkt wählen. Dies erhöht in keiner Weise die Geschwindigkeit des Zauberwirkens oder die Dauer eines Zaubers. Daher wird ein Zauberwirker unter dem Einfluss von Hast keine Zauber schneller wirken, noch von der zusätzlichen Aktion in derselben Runde profitieren, in der Zauber gewirkt werden. Aufgrund des beschleunigten Stoffwechsels des Subjekts lässt jedes Wirken dieses Zaubers das Ziel 1 % seiner normalen Lebenserwartung altern, unabhängig von der Dauer. Für Menschen wären das etwa 1 Jahr. Siehe die Regeln für [Altern](0007_Game_System.md?id=aging) für die durchschnittliche Lebenserwartung der Halbmenschen-Spezies. Das Wirken von Hast hebt die Effekte von Verlangsamen auf und lässt in diesem Fall das Individuum nicht altern. Hast ist nicht mit sich selbst oder ähnlichen magischen Effekten stapelbar.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1400,10 +1402,10 @@ Eine Person oder Kreatur (einschließlich man selbst) pro Intensität innerhalb 
 | 2 | 4 | 6 Runden; 2 Ziele |
 | 3 | 5 | 9 Runden; 3 Ziele |
 | 4 | 6 | 12 Runden; 4 Ziele |
-| +1 | +1 | Fortschritt fortsetzen |
+| +1 | +1 | Fortschreitend |
 
 ---
-#### Heilen \(R\)
+#### Heilen (R)
 
 (Nekromantie)
 
@@ -1411,15 +1413,15 @@ Eine Person oder Kreatur (einschließlich man selbst) pro Intensität innerhalb 
 | :-- | :-- |
 | **Rang:** Kleriker 4 | **Zauberzeit:** 1 Minute |
 | **Sphäre:** Heilung | **Dauer:** Permanent |
-| **Kosten:** 3 +1/Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Kreatur | **Widerstand:** N/A (Ausdauer oder Ausweichen) |
+| **Kosten:** 3 + 1/Intensität | **Reichweite:** Berührung |
+| **Bereich:** 1 Kreatur | **Widerstand:** N/A (Konstitution oder Ausweichen) |
 
-Mit dem Wirken von Heilen kann der Kleriker ein körperliches Leiden, ein mentales Trauma oder eine beträchtliche Menge an Verletzungen mit einer einzigen Berührung heilen. Das tatsächliche Ausmaß dieser Erholung basiert auf der Intensität des Zaubers wie folgt. Für jede Intensitätsstufe heilt der Zauber das Subjekt von einer Krankheit jeder POT, heilt jede Blindheit oder Taubheit, hebt eine durch Verletzung oder Magie verursachte psychische Störung auf oder heilt eine einzelne Trefferzone um bis zu 12 Schadenspunkte. Er wird jedoch kein abgetrenntes Glied wiederherstellen, da dies das Wirken des Zaubers Regenerieren erfordert. Jede zusätzliche Intensität kann verwendet werden, um ein weiteres Leiden zu heilen oder eine weitere Trefferzone zu heilen. Es wäre daher ein Wirken auf Intensität 7 erforderlich, um ein Individuum zu heilen, das an Verbrennungen am gesamten Körper leidet. Im Gegensatz zu geringeren Heilzaubern, die ihre Wirksamkeit gegen langfristige Verletzungen begrenzen, gibt es durch die Dauer, in der das Subjekt an den Auswirkungen der Verletzung gelitten hat, keine Einschränkungen für den Zauber.
+Mit dem Wirken von Heilen kann der Kleriker ein körperliches Leiden, ein psychisches Trauma oder eine erhebliche Menge an Verletzungen mit einer einzigen Berührung heilen. Das tatsächliche Ausmaß dieser Genesung basiert auf der Intensität des Zaubers wie folgt. Für jede Intensitätsstufe heilt der Zauber das Subjekt von einer Krankheit beliebiger POT, heilt jegliche Blindheit oder Taubheit, neutralisiert eine psychische Störung, die durch Verletzung oder Magie verursacht wurde, oder heilt eine einzelne Trefferzone um bis zu 12 Schadenspunkte. Er wird jedoch kein abgetrenntes Gliedmaß wiederherstellen, da dies ein Wirken des Zaubers Regenerieren erfordert. Jede zusätzliche Intensität kann verwendet werden, um ein weiteres Leiden zu heilen oder eine weitere Trefferzone zu heilen. Es wäre daher ein Wirken mit Intensität 7 erforderlich, um ein Individuum zu heilen, das an Verbrennungen am ganzen Körper leidet. Im Gegensatz zu geringeren Heilzaubern, die ihre Wirksamkeit bei Langzeitverletzungen begrenzen, gibt es keine durch die Dauer festgelegten Grenzen für den Zauber, in denen das Subjekt unter den Auswirkungen der Verletzung gelitten hat.
 
-Wenn umgekehrt gewirkt, fügt Schädigen dem Opfer bei einem fehlgeschlagenen Widerstandswurf 12 Punkte magischen Schadens an einer seiner Trefferzonen zu. Alternativ wird ihnen ein Leiden zugefügt, dessen Auswirkungen denen des Zaubers Krankheit verursachen (das Gegenteil von Krankheit heilen) entsprechen, jedoch mit +20 POT. Der Kanalisieren-Wurf des Zaubernden fungiert als Wurf, um seinen Gegner zu treffen, und wird als Teil der somatischen Anforderung des Zaubers angenommen. Kein zusätzlicher Trefferwurf ist notwendig. Weder getragene noch natürliche Rüstung bieten Schutz, aber magische Rüstungspunkte reduzieren Schaden normal und blocken zugefügte Leiden vollständig. Jede zusätzliche Intensität betrifft eine weitere Trefferzone, die an die erste angrenzt, mit Auswirkungen wie durch den anfänglichen Widerstandswurf bestimmt. Keine Version dieses Zaubers hat Auswirkungen auf Untote, Kreaturen, die nur durch Eisen-, Silber- oder magische Waffen Schaden nehmen, oder nicht-körperliche Wesen.
+Wenn umgekehrt gewirkt, fügt Schädigen 12 Punkte magischen Schadens an einer der Trefferzonen des Opfers bei einem fehlgeschlagenen Widerstandswurf zu. Alternativ wird ihnen ein Leiden zugefügt, dessen Auswirkungen dieselben sind wie beim Zauber Krankheit Verursachen, die Umkehrung von Krankheit Heilen, jedoch mit +20 POT. Der Kanalisierungswurf des Zauberers fungiert als Angriffswurf gegen seinen Gegner und wird als Teil der somatischen Anforderungen des Zaubers angenommen. Kein zusätzlicher Angriffswurf ist erforderlich. Weder getragene noch natürliche Rüstung bietet Schutz, aber magische Rüstungspunkte reduzieren den Schaden normal und blocken zugefügte Leiden vollständig. Jede zusätzliche Intensität betrifft eine weitere Trefferzone, die an die erste angrenzt, mit Auswirkungen, wie sie durch den anfänglichen Widerstandswurf bestimmt werden. Keine Version dieses Zaubers hat irgendeine Wirkung auf Untote, Kreaturen, die nur durch Eisen-, Silber- oder magische Waffen Schaden erleiden, oder nicht-körperliche Wesen.
 
 ---
-#### Personen Festhalten
+#### Person Festhalten
 
 (Verzauberung (Bezauberung))
 
@@ -1427,10 +1429,10 @@ Wenn umgekehrt gewirkt, fügt Schädigen dem Opfer bei einem fehlgeschlagenen Wi
 | :-- | :-- |
 | **Rang:** Kleriker 2, Magier 2 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Bezauberung | **Dauer:** 2 Runden/Intensität |
-| **Kosten:** 3+1/zusätzliche Intensität | **Reichweite:** 360 Fuß |
-| **Bereich:** 20 Fuß Radius | **Widerstand:** Willenskraft |
+| **Kosten:** 3 + 1/zusätzliche Intensität | **Reichweite:** 360 ft. |
+| **Bereich:** 20 ft. Radius | **Widerstand:** Willenskraft |
 
-Dieser Zauber erlaubt es dem Zaubernden, 1 humanoide Kreatur pro Intensität innerhalb des Wirkungsbereichs zu immobilisieren. Ein erfolgreicher Widerstandswurf hebt die Effekte des Zaubers für dieses Ziel vollständig auf. Große Humanoide (GRÖ 21-40) sind weniger anfällig für Personen Festhalten, wobei ihr Widerstandswurf Leicht ist, während der Widerstandswurf für riesige Humanoide (GRÖ 41+) Sehr Leicht ist. Während sie festgehalten werden, sind betroffene Kreaturen völlig hilflos und nichts außer Magie Bannen wird sie vorzeitig befreien.
+Dieser Zauber erlaubt es dem Zauberer, 1 humanoide Kreatur pro Intensität innerhalb des Wirkungsbereichs bewegungsunfähig zu machen. Ein erfolgreicher Widerstandswurf negiert die Effekte des Zaubers für dieses Ziel vollständig. Große Humanoide (GRÖ 21-40) sind weniger anfällig für Person Festhalten, wobei ihr Widerstandswurf Leicht ist, während der Widerstandswurf für riesige Humanoide (GRÖ 41+) Sehr Leicht ist. Während sie festgehalten werden, sind betroffene Kreaturen völlig hilflos und nichts außer Magie Bannen wird sie vorzeitig befreien.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1438,10 +1440,10 @@ Dieser Zauber erlaubt es dem Zaubernden, 1 humanoide Kreatur pro Intensität inn
 | 2 | 4 | 4 Runden; 2 Ziele |
 | 3 | 5 | 6 Runden; 3 Ziele |
 | 4 | 6 | 8 Runden; 4 Ziele |
-| +1 | +1 | Fortschritt fortsetzen |
+| +1 | +1 | Fortschreitend |
 
 ---
-#### Heiliges Wort \(R\)
+#### Heiliges Wort (R)
 
 (Beschwörung)
 
@@ -1450,13 +1452,13 @@ Dieser Zauber erlaubt es dem Zaubernden, 1 humanoide Kreatur pro Intensität inn
 | **Rang:** Kleriker 5 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Kampf | **Dauer:** Siehe unten |
 | **Kosten:** 3, +1 ERF | **Reichweite:** 0 |
-| **Bereich:** 30 Fuß Radius | **Widerstand:** N/A |
+| **Bereich:** 30 ft. Radius | **Widerstand:** N/A |
 
-Wenn dieser Zauber gewirkt wird, spricht der Kleriker ein Wort von unglaublicher göttlicher Macht, das in der Lage ist, böse Wesenheiten aus anderen Existenzebenen abzuwehren; der Zaubernde muss sich jedoch in seiner eigenen Ebene befinden, um dies zu tun. Die betroffenen Kreaturen werden in ihre Ursprungsebene zurückgeschickt und können für mindestens 24 Stunden nicht in die Ebene des Zaubernden zurückkehren.
+Wenn dieser Zauber gewirkt wird, spricht der Kleriker ein Wort von unglaublicher göttlicher Macht aus, das fähig ist, böse Entitäten aus anderen Existenzebenen zurückzudrängen; der Zauberer muss sich jedoch in seiner eigenen Ebene befinden, um dies zu tun. Die betroffenen Kreaturen werden zurück in ihre Ursprungsebene geschickt und können für mindestens 24 Stunden nicht auf die Ebene des Zauberers zurückkehren.
 
-Zusätzlich erleiden nicht-planare Kreaturen mit der Gesinnung "Böse" zusätzliche Effekte, abhängig vom Rang oder der GRÖ der Entität, je nachdem, was das vorteilhaftere Ergebnis liefert, wie in der folgenden Tabelle detailliert.
+Zusätzlich erleiden nicht-planare Kreaturen mit Böser Gesinnung zusätzliche Effekte, die vom Rang oder der GRÖ der Entität abhängen, je nachdem, was das vorteilhaftere Ergebnis liefert, wie in der folgenden Tabelle aufgeführt.
 
-| Ziel-Rang | Ziel-GRÖ | Allgemein | Fertigkeit\*\* | Bewegung |
+| Ziel Rang | Ziel GRÖ | Allgemein | Fertigkeit\*\* | Bewegung |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | Tötet | - | - |
 | 2 | 21-40 | Paralyziert 1d4 x10 Minuten | - | - |
@@ -1467,11 +1469,11 @@ _\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen._
 
 _\*\* Alle Fertigkeiten, einschließlich Kampf, Widerstandswürfe und Zauberwirken._
 
-_\*\*\* Gemäß dem arkanen Zauber Rang 2, [Verlangsamen](0010_Spells.md?id=slow)._
+_\*\*\* Gemäß dem arkanen Zauber der Stufe 2, [Verlangsamen](0010_Spells.md?id=slow)._
 
-Kreaturen, die zuvor taub gemacht wurden oder den Zauber anderweitig nicht hören können, sind von den in der Tabelle detaillierten Effekten nicht betroffen, jedoch werden andere planare Entitäten wie oben detailliert vertrieben.
+Kreaturen, die zuvor taub gemacht wurden oder aus anderen Gründen nicht in der Lage sind, den Zauber zu hören, sind von den in der Tabelle aufgeführten Effekten nicht betroffen, jedoch werden andere planare Entitäten wie oben beschrieben vertrieben.
 
-Wenn umgekehrt gewirkt, funktioniert Unheiliges Wort wie oben, jedoch nur in Bezug auf Kreaturen mit der Gesinnung "Gut".
+Wenn umgekehrt gewirkt, funktioniert Unheiliges Wort wie oben, jedoch nur in Bezug auf Kreaturen mit Guter Gesinnung.
 
 ---
 #### Eissturm
@@ -1482,23 +1484,23 @@ Wenn umgekehrt gewirkt, funktioniert Unheiliges Wort wie oben, jedoch nur in Bez
 | :-- | :-- |
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** Siehe unten |
-| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 30 Fuß/Intensität |
+| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 30 ft/Intensität |
 | **Bereich:** Siehe unten | **Widerstand:** Siehe unten |
 
 Eissturm hat zwei Effekte, von denen einer gewählt wird, wenn der Zauber gewirkt wird:
 
-Hagelschlag (Dauer: Sofort): Diese Variante des Zaubers verursacht, dass große Hagelkugeln in einem Bereich von 60 Fuß Radius herabregnen. Diejenigen, die im Bereich gefangen sind, erleiden 1d10 Punkte Schaden für jede 2 Punkte Intensität oder Bruchteil davon. Jeder Schadenswürfel wird einzeln gewürfelt und auf zufällige Trefferzonen angewendet. Feuer-kreaturen erleiden +3 Schaden durch jeden Hagelschlag, und Kälte-kreaturen erleiden halben Schaden. Getragene Rüstung bietet nur halben Schutz, aber die natürliche Rüstung einer Kreatur (oder magische Rüstungspunkte) reduziert Schaden wie normal. Ein Ausweichen-Wurf (sich flach auf den Boden werfen) ist nur effektiv, wenn man innerhalb von 5 Fuß von Deckung oder dem Rand des Wirkungsbereichs ist. Andernfalls ist es unmöglich, Schaden zu entgehen. Ein Erfolg beim Ausweichen erlaubt es dem Opfer, den halben Schaden jedes Wurfs zu erleiden. Jemand mit der Fähigkeit "Artful Dodger" hat die Option, auszuweichen, ohne sich hinzulegen, und wenn er innerhalb von 5 Fuß von Deckung oder dem Rand des Wirkungsbereichs ist, erleidet er bei einem erfolgreichen Wurf keinen Schaden, anderenfalls erleidet er normalen Schaden.
+Hagel (Dauer: Augenblicklich): Diese Variante des Zaubers lässt große Hagelkörner in einem Bereich von 60 Fuß Radius herabregnen. Wer in diesem Bereich gefangen ist, erleidet 1d10 Punkte Schaden für jeweils 2 Punkte Intensität oder einen Bruchteil davon. Jeder Schadenswürfel wird individuell gewürfelt und auf zufällige Trefferzonen angewendet. Feuer-Kreaturen erleiden +3 Schaden durch jeden Hagelschlag, und Kälte-Kreaturen erleiden den halben Schaden. Getragene Rüstung bietet nur halben Schutz, aber die natürliche Rüstung einer Kreatur (oder magische Rüstungspunkte) reduzieren den Schaden wie gewohnt. Ein Ausweichen-Wurf, bei dem man sich flach auf den Boden wirft, ist nur effektiv, wenn man sich innerhalb von 5 Fuß von Deckung oder vom Rand des Wirkungsbereichs befindet. Ansonsten ist es unmöglich, dem Schaden zu entgehen. Erfolg beim Ausweichen erlaubt dem Opfer, den halben Schaden jedes Wurfs zu erleiden. Jemand mit der Fähigkeit Gerissener Ausweicher hat die Option, auszuweichen, ohne sich hinzulegen, und wenn er sich innerhalb von 5 Fuß von Deckung oder dem Rand des Wirkungsbereichs befindet, erleidet er bei einem erfolgreichen Wurf keinen Schaden, andernfalls erleidet er den Schaden normal.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 Fuß Reichweite; 1d10 Schaden |
-| 2 | 4 | 60 Fuß Reichweite; 1d10 Schaden |
-| 3 | 5 | 90 Fuß Reichweite; 2d10 Schaden |
-| 4 | 6 | 120 Fuß Reichweite; 2d10 Schaden |
-| 5 | 7 | 150 Fuß Reichweite; 3d10 Schaden |
-| +1 | +1 | Fortschritt fortsetzen |
+| 1 | 3 | 30 ft. Reichweite; 1d10 Schad. |
+| 2 | 4 | 60 ft. Reichweite; 1d10 Schad. |
+| 3 | 5 | 90 ft. Reichweite; 2d10 Schad. |
+| 4 | 6 | 120 ft. Reichweite; 2d10 Schad. |
+| 5 | 7 | 150 ft. Reichweite; 3d10 Schad. |
+| +1 | +1 | Fortschreitend |
 
-Treibender Graupel (Dauer: 1 Runde/Intensität): Diese Variante des Zaubers erzeugt einen treibenden Graupel, der durch einen pfadartigen Bereich von 60 Fuß Breite und 120 Fuß Länge peitscht und die Betroffenen blendet. Der tatsächliche Pfad kann vom Magieanwender festgelegt werden, wenn der Zauber gewirkt wird. Zusätzlich vereist der Boden im betroffenen Bereich, was die Bewegungsrate um 50 % verlangsamt und Flieger zu Boden zwingt, die einen "Gewaltig" Fliegen-Fertigkeitswurf misslingen lassen. Diejenigen am Boden müssen jede Runde einen Athletik-Wurf bestehen, um nicht zu fallen, wobei der Wurf zwei Grad schwerer ist, wenn sie sich schneller als gehend bewegen. Ein Charakter, der Akrobatik besitzt, kann diese Fertigkeit bei Bedarf ersetzen. Das Eis schmilzt nach Ablauf der Dauer des Zaubers in einer vom Spielleiter bestimmten Rate, abhängig von der Umgebungstemperatur; jedoch wird es selbst bei warmem Wetter mindestens 10 Minuten anhalten. Kleine Feuer, wie Lagerfeuer und Fackeln, werden automatisch gelöscht. Dieser Zauber hebt die Effekte des Zaubers Metall Erhitzen auf.
+Treibender Schneeregen (Dauer: 1 Runde/Intensität): Diese Variante des Zaubers erzeugt einen treibenden Schneeregen, der durch einen pfadartigen Bereich von 60 Fuß Breite und 120 Fuß Länge peitscht und die Betroffenen blendet. Der tatsächliche Pfad kann vom Magieanwender beim Wirken des Zaubers bestimmt werden. Zusätzlich vereist der Boden im betroffenen Bereich, was die Bewegungsrate um 50 % verlangsamt und Flieger zu Boden bringt, die einen Gewaltigen Fliegen-Fertigkeitswurf verpatzen. Diejenigen auf dem Boden müssen jede Runde einen Athletik-Wurf bestehen, um nicht zu Boden zu fallen, wobei der Wurf zwei Grad schwerer ist, wenn man sich schneller als im Gehen bewegt. Ein Charakter, der Akrobatik besitzt, kann diese Fertigkeit nach Wunsch ersetzen. Das Eis schmilzt nach Ablauf der Dauer des Zaubers mit einer Rate, die vom Spielleiter bestimmt wird, abhängig von der Umgebungstemperatur; selbst bei warmem Wetter hält es jedoch mindestens 10 Minuten an. Kleine Feuer, wie Lagerfeuer und Fackeln, werden automatisch gelöscht. Dieser Zauber hebt die Effekte des Zaubers Metall Erhitzen auf.
 
 ---
 #### Identifizieren
@@ -1510,31 +1512,31 @@ Treibender Graupel (Dauer: 1 Runde/Intensität): Diese Variante des Zaubers erze
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Minute |
 | **Sphäre:** Schutz | **Dauer:** 1 Minute/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
-| **Bereich:** Zaubernder | **Widerstand:** N/A |
+| **Bereich:** Zauberer | **Widerstand:** NA |
 
-Mit dem Wirken dieses Zaubers kann der Magieanwender versuchen, die magischen Eigenschaften (falls vorhanden) eines gehandhabten Gegenstands oder Objekts zu identifizieren. Das einfache Berühren des Gegenstands reicht normalerweise nicht aus, der Gegenstand muss entsprechend seinem Design getragen oder gehalten werden, z. B. muss ein Helm auf den Kopf gesetzt, ein Amulett über den Hals gestreift, eine Nahkampfwaffe fest gehalten, ein Ring an einen Finger gesteckt werden und so weiter. Wenn der Arkane Wirken-Wurf erfolgreich ist, identifiziert ein nachfolgender Arkane Wissen-Wurf eine magische Eigenschaft, die der Gegenstand besitzt. Ein Arkane Wissen-Versuch kann jede Minute durchgeführt werden, während die Dauer andauert. Wenn eine Eigenschaft ein Aktivierungswort erfordert, wird dieses ebenfalls zusammen mit der Eigenschaft identifiziert. Gegenstände mit Ladungen enthüllen die aktuell verfügbare Gesamtzahl, zusammen mit dem normalen Maximum, ebenso wie Gegenstände, die eine Magiepunkte-Matrix besitzen.
+Mit dem Wirken dieses Zaubers kann der Magieanwender versuchen, die magischen Eigenschaften (falls vorhanden) eines gehandhabten Gegenstands oder Objekts zu identifizieren. Das einfache Berühren des Gegenstands reicht normalerweise nicht aus; der Gegenstand muss entsprechend seinem Design getragen oder gehalten werden, z. B. muss ein Helm auf den Kopf gesetzt, ein Amulett über den Hals gestreift, eine Nahkampfwaffe fest gehalten, ein Ring an einen Finger gesteckt werden und so weiter. Wenn der Arkane Zauberwurf erfolgreich ist, wird ein nachfolgender Arkane Wissenswurf eine magische Eigenschaft identifizieren, die der Gegenstand besitzt. Ein Arkane Wissensversuch kann jede Minute durchgeführt werden, während die Dauer anhält. Wenn eine Eigenschaft ein Aktivierungswort erfordert, wird dieses ebenfalls zusammen mit der Eigenschaft identifiziert. Gegenstände mit Ladungen enthüllen die aktuell verfügbare Gesamtzahl zusammen mit dem normalen Maximum, ebenso wie Gegenstände, die eine Magiepunkte-Matrix besitzen.
 
-Verfluchte Gegenstände werden typischerweise aktiviert, wenn ein Ausrüstungsgegenstand zum ersten Mal angelegt oder verwendet wird; daher setzt das Wirken dieses Zaubers den Magieanwender den Auswirkungen eines Fluches aus, falls vorhanden. Wenn der Arkane Wirken-Fertigkeitstest erfolgreich ist, darf der Magieanwender einen Willenskraft-Test ablegen, um die Auswirkungen eines Fluches zu vermeiden. Dies bannt den Fluch jedoch nicht vom Objekt, aber es ermöglicht dem Zaubernden, den Gegenstand zu entfernen, ohne beeinflusst zu werden.
+Verfluchte Gegenstände werden typischerweise aktiviert, wenn ein Ausrüstungsgegenstand zum ersten Mal angelegt oder benutzt wird; daher setzt das Wirken dieses Zaubers den Magieanwender den Auswirkungen jedes Fluches aus, falls vorhanden. Wenn der Arkane Zauber-Fertigkeitstest erfolgreich ist, darf der Magieanwender einen Willenskrafttest machen, um die Auswirkungen eines Fluches zu vermeiden. Dies bannt den Fluch jedoch nicht auf dem Objekt, ermöglicht es dem Zauberer aber, den Gegenstand zu entfernen, ohne betroffen zu sein.
 
-Eine Perle mit einem Wert von mindestens 100 GP wird zu Staub zermahlen und zusammen mit anderen weltlichen Zauberkomponenten verbraucht, um diesen Zauber zu wirken. Wenn ein Glücksstein pulverisiert und der Infusion hinzugefügt wird, ist der Schwierigkeitsgrad des Arkane Wirken-Wurfs normal und alle magischen Eigenschaften eines beliebigen Gegenstands, der pro Minute während der Dauer des Zaubers gehandhabt wird, werden automatisch erlernt, ohne dass weitere Würfe erforderlich sind.
+Eine Perle von mindestens 100 GP Wert wird zu Staub gemahlen und zusammen mit anderen weltlichen Zauberkomponenten verbraucht, um diesen Zauber zu wirken. Wenn ein Glücksstein pulverisiert und der Mischung hinzugefügt wird, ist die Schwierigkeit des Arkanen Zauberwurfs normal und alle magischen Eigenschaften eines jeden Gegenstands, der pro Minute während der Dauer des Zaubers gehandhabt wird, werden automatisch erlernt, ohne dass weitere Würfe erforderlich sind.
 
 ---
-#### Entzünden \(R\)
+#### Entzünden (R)
 
 (Transmutation)
 
 | | |
 | :-- | :-- |
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Elementar (Feuer) | **Dauer:** Sofort |
-| **Kosten:** 1 | **Reichweite:** 10 Fuß |
-| **Bereich:** 1 kleines Feuer | **Widerstand:** N/A |
+| **Sphäre:** Elementar (Feuer) | **Dauer:** Augenblicklich |
+| **Kosten:** 1 | **Reichweite:** 10 ft |
+| **Bereich:** 1 kleines Feuer | **Widerstand:** NA |
 
-Dieser Zauber kann auf zwei getrennte Arten genutzt werden, entweder zum Entzünden oder zum Löschen. Die Wahl, welche gemacht wird, erfolgt beim Wirken.
+Dieser Zauber kann auf zwei verschiedene Arten verwendet werden, entweder zum Entzünden oder zum Löschen. Die Wahl wird beim Wirken getroffen.
 
-Entzünden funktioniert nur bei brennbarem anorganischem Material und bewirkt, dass ein kleiner Gegenstand oder ein handgroßer Bereich in Flammen aufgeht. Abhängig davon, was angezündet wurde, können sich die Flammen dann ausbreiten, wenn sie nicht gelöscht oder auf irgendeine Weise kontert werden. Dieser Zauber wird normalerweise verwendet, um Kerzen, Fackeln oder Laternen aus der Ferne anzuzünden. Er kann auch verwendet werden, um ein Lager- oder Kochfeuer unter widrigen Bedingungen zu starten, wie bei Verwendung von feuchtem Zunder oder bei starkem Wind.
+Entzünden funktioniert nur bei brennbaren anorganischen Materialien und lässt ein kleines Objekt oder einen handgroßen Bereich in Flammen aufgehen. Abhängig davon, was in Brand gesetzt wurde, können sich die Flammen dann ausbreiten, es sei denn, sie werden gelöscht oder auf andere Weise bekämpft. Dieser Zauber wird normalerweise verwendet, um Kerzen, Fackeln oder Laternen aus der Ferne anzuzünden. Er kann auch verwendet werden, um unter widrigen Bedingungen ein Lagerfeuer oder Kochfeuer zu entfachen, wie z. B. bei Verwendung von feuchtem Zunder oder bei starkem Wind.
 
-Löschen löscht sofort Flammen und kleine Feuer von moderater Größe und Hitze. Es ist nützlich, um Kerzen, Laternen, Fackeln oder kleine Kochfeuer zu löschen, aber es funktioniert nicht bei magischen oder größeren, heftigeren Flächenbränden wie Scheiterhaufen, brennenden Häusern oder Drachenflammen.
+Löschen erstickt sofort Flammen und kleine Feuer von bescheidener Größe und Hitze. Es ist nützlich, um Kerzen, Laternen, Fackeln oder kleine Kochfeuer zu löschen, aber es funktioniert nicht bei magischen oder größeren, heftigeren Feuersbrünsten wie Scheiterhaufen, brennenden Häusern oder Drachenflammen.
 
 ---
 #### Illusion
@@ -1545,24 +1547,24 @@ Löschen löscht sofort Flammen und kleine Feuer von moderater Größe und Hitze
 | :-- | :-- |
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Konzentration; Siehe unten |
-| **Kosten:** 1/Intensität | **Reichweite:** 100 Fuß/Intensität |
-| **Bereich:** 50 Fuß Radius/Intensität | **Widerstand:** Nicht glauben |
+| **Kosten:** 1/Intensität | **Reichweite:** 100 ft/Intensität |
+| **Bereich:** 50 ft. Radius/Intensität | **Widerstand:** Nicht glauben |
 
-Dieser Zauber erzeugt eine visuelle Illusion von allem, was der Zaubernde wünscht. Er hat keine Auswirkungen auf andere Sinne, macht keine Geräusche, erzeugt keinen Geruch, keine Temperatur, keine Textur und so weiter.
+Dieser Zauber erzeugt eine visuelle Illusion von allem, was der Zauberer wünscht. Er hat keine Auswirkungen auf andere Sinne, macht keine Geräusche, erzeugt keinen Geruch, keine Temperatur, keine Textur und so weiter.
 
-Diese Illusion kann alles sein, von einer offenen Wiese bis zu einem uralten roten Drachen, wenn es in den Wirkungsbereich des Zaubers passt. Die Illusion hält nur so lange an, wie der Zaubernde die Konzentration aufrechterhält, oder sobald ein Gegner sie berührt oder betritt; dies führt dazu, dass die Magie, die sie aufrechterhält, sich auflöst und die Illusion sich verflüchtigt. Der Zaubernde kann die Illusion jedoch nach physischem Kontakt aufrechterhalten, indem er 1 Magiepunkt ausgibt und sie anweist, angemessen auf den Kontakt zu reagieren, um keinen Verdacht zu erregen. Zum Beispiel würde sich die Illusion eines Ogers unter normalen Umständen in Luft auflösen, wenn sie von einem Pfeil getroffen wird; der Zaubernde könnte jedoch den Oger den Treffer wegschütteln und den Angreifer angreifen lassen, indem er 1 Magiepunkt ausgibt. Es sollte beachtet werden, dass der eigentliche Pfeil nicht von der Illusion gestoppt wird und immer noch etwas oder jemanden hinter der Erscheinung treffen kann.
+Diese Illusion kann alles sein, von einer offenen Wiese bis zu einem uralten roten Drachen, wenn es in den Wirkungsbereich des Zaubers passt. Die Illusion hält nur so lange an, wie der Zauberer Konzentration aufrechterhält, oder sobald ein Gegner sie berührt oder sie betritt; dies führt dazu, dass die Magie, die sie aufrechterhält, sich auflöst und die Illusion sich verflüchtigt. Der Zauberer kann die Illusion jedoch nach physischem Kontakt aufrechterhalten, indem er 1 Magiepunkt ausgibt und sie anweist, angemessen auf den Kontakt zu reagieren, um keinen Verdacht zu erregen. Zum Beispiel würde sich die Illusion eines Ogers unter normalen Umständen in Nichts auflösen, wenn sie von einem Pfeil getroffen wird; der Zauberer könnte den Oger jedoch so erscheinen lassen, als würde er den Treffer wegstecken und den Angreifer durch den Verbrauch von 1 Magiepunkt angreifen. Es sollte beachtet werden, dass der tatsächliche Pfeil von der Illusion nicht aufgehalten wird und immer noch etwas oder jemanden hinter der Manifestation treffen könnte.
 
-Während durch die Illusion kein tatsächlicher Schaden angerichtet werden kann und auch keine Temperatur erzeugt wird, kann der Geist davon überzeugt werden, dass er Schmerzen fühlt, die Auswirkungen von Verletzungen erleidet oder extreme Hitze oder Kälte spürt; Objekte scheinen jedoch nicht zu gefrieren oder zu verbrennen, es sei denn, der Zaubernde konzentriert sich auch auf diese Effekte. Sobald der Zauber gewirkt wurde, können vom Magieanwender nach Belieben zusätzliche visuelle Effekte hinzugefügt werden, indem er sich auf den gewünschten Effekt konzentriert. Dies nimmt normalerweise keine Zeit in Anspruch und kann als Freie Aktion gehandhabt werden. Wenn der Zaubernde zum Beispiel möchte, dass eine fallengelassene illusionäre Fackel trockenes Laub in Brand setzt, könnte sich der Zaubernde als Freie Aktion darauf konzentrieren, dies zu tun.
+Obwohl durch die Illusion kein tatsächlicher Schaden angerichtet und keine Temperatur erzeugt werden kann, kann der Verstand überzeugt werden, dass er Schmerzen fühlt, die Auswirkungen von Verletzungen erleidet oder extreme Hitze oder Kälte spürt; Gegenstände erscheinen jedoch nicht gefroren oder verbrannt, es sei denn, der Zauberer konzentriert sich auch auf diese Effekte. Sobald der Zauber gewirkt wurde, können vom Magieanwender nach Belieben zusätzliche visuelle Effekte hinzugefügt werden, indem er sich auf den gewünschten Effekt konzentriert. Dies erfordert normalerweise keine Zeit und kann als Freie Aktion gehandhabt werden. Wenn der Zauberer zum Beispiel möchte, dass eine fallengelassene illusionäre Fackel trockenes Laub in Brand setzt, könnte sich der Zauberer als Freie Aktion darauf konzentrieren, dies zu tun.
 
-Siehe das Kapitel [Illusionen und Phantasmen](0009_Magic.md?id=illusions-and-phantasms) für weitere Informationen.
+Siehe das Kapitel [Illusionen und Trugbilder](0009_Magic.md?id=illusions-and-phantasms) für weitere Informationen.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | 50 Fuß Radius; 100 Fuß Reichweite |
-| 2 | 2 | 100 Fuß Radius; 200 Fuß Reichweite |
-| 3 | 3 | 150 Fuß Radius; 300 Fuß Reichweite |
-| 4 | 4 | 200 Fuß Radius; 400 Fuß Reichweite |
-| +1 | +1 | Fortschritt fortsetzen |
+| 1 | 1 | 50 ft. Radius; 100 ft. Reichweite |
+| 2 | 2 | 100 ft. Radius; 200 ft. Reichweite |
+| 3 | 3 | 150 ft. Radius; 300 ft. Reichweite |
+| 4 | 4 | 200 ft. Radius; 400 ft. Reichweite |
+| +1 | +1 | Fortschreitend |
 
 ---
 #### Unsichtbarkeit
@@ -1574,14 +1576,14 @@ Siehe das Kapitel [Illusionen und Phantasmen](0009_Magic.md?id=illusions-and-pha
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 6 Stunden/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/A |
+| **Bereich:** 1 Ziel | **Widerstand:** NA |
 
-Wenn dieser Zauber gewirkt wird, verschwinden das Subjekt und alle getragenen Ausrüstungsgegenstände und sind für alle Formen normalen Sehens unsichtbar. Dies macht das Individuum jedoch nicht durch andere Mittel wie Hören, Tasten, Riechen usw. oder durch natürliche Fähigkeiten wie Lebenssinn oder Sonar unentdeckbar.
+Wenn dieser Zauber gewirkt wird, verschwinden das Subjekt und die getragene Ausrüstung, unsichtbar für alle Formen normaler Sicht. Dies macht das Individuum jedoch nicht durch andere Mittel wie Hören, Berühren, Riechen usw. oder durch natürliche Fähigkeiten wie Lebenssinn oder Sonar unentdeckbar.
 
-Diejenigen unter dem Einfluss von Unsichtbarkeit bleiben dies für die Dauer des Zaubers (max. 24 Stunden), es sei denn, der Zauber wird gebannt oder das Subjekt führt einen Angriff aus, in diesem Fall wird der Zauber aufgehoben und das Individuum erscheint _nach_ dem Angriff wieder. Das Ziel würde als unter dem Einfluss von [Überraschung](0008_Combat.md?id=surprise) betrachtet werden. Keine anderen Aktionen beeinträchtigen die Dauer des Zaubers negativ, was es dem Subjekt ermöglicht, Türen zu öffnen, zu sprechen, zu klettern, zu rennen, eine Tasche zu leeren und so weiter. Selbst das Wirken von Zaubern beendet die Dauer nicht, es sei denn, sie beeinträchtigen einen oder mehrere spezifische Feinde im Kampf negativ. Viele der zuvor erwähnten Aktionen könnten andere Möglichkeiten der Entdeckung zulassen, wie zum Beispiel einen möglichen Wahrnehmungs-Check, um jemanden vorbeirennen zu hören oder zu fühlen, wie eine Tasche geleert wird. Der Spielleiter weist denjenigen, die versuchen, die Entdeckung vorzunehmen, je nachdem, wie auffällig sie ist, Abzüge oder Boni zu.
+Diejenigen unter dem Einfluss von Unsichtbarkeit bleiben dies für die Dauer des Zaubers (max. 24 Stunden), es sei denn, er wird gebannt oder das Subjekt führt einen Angriff aus, woraufhin der Zauber aufgehoben wird und das Individuum *nach* dem Angriff wieder erscheint. Das Ziel würde als unter den Auswirkungen von [Überraschung](0008_Combat.md?id=surprise) betrachtet werden. Keine anderen Aktionen beeinträchtigen die Dauer des Zaubers negativ, was es dem Subjekt ermöglicht, Türen zu öffnen, zu sprechen, zu klettern, zu rennen, eine Tasche zu stehlen und so weiter. Selbst das Wirken von Zaubern beendet die Dauer nicht, es sei denn, sie beeinträchtigen einen oder mehrere spezifische Feinde im Kampf negativ. Viele der zuvor erwähnten Aktionen könnten andere Entdeckungsmöglichkeiten ermöglichen, wie z. B. eine mögliche Wahrnehmungsprobe, um jemanden vorbeirennen zu hören oder zu spüren, wie eine Tasche bestohlen wird. Der Spielleiter weist denjenigen, die die Entdeckung versuchen, je nachdem, wie auffällig sie ist, Abzüge oder Boni zu.
 
 ---
-#### Unsichtbarkeit, 10 Fuß Radius
+#### Unsichtbarkeit, 10 ft. Radius
 
 (Illusion)
 
@@ -1590,9 +1592,9 @@ Diejenigen unter dem Einfluss von Unsichtbarkeit bleiben dies für die Dauer des
 | **Rang:** Magier 2 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** 6 Stunden/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel, 10 Fuß | **Widerstand:** N/A |
+| **Bereich:** 1 Ziel, 10ft. | **Widerstand:** NA |
 
-Dieser Zauber funktioniert identisch mit dem Zauber [Unsichtbarkeit](0010_Spells.md?id=invisibility); jedoch werden alle Individuen innerhalb von 10 Fuß um den Empfänger (was der Zaubernde selbst sein kann), wenn der Zauber gewirkt wird, ebenfalls unsichtbar gemacht. Diejenigen unter den Effekten des Zaubers können sich gegenseitig sehen; dies gewährt jedoch nicht die Fähigkeit, andere unsichtbare Kreaturen zu sehen. Wenn sich jemand aus dem Wirkungsbereich herausbewegt, geht seine Unsichtbarkeit verloren, daher muss darauf geachtet werden, dass jeder innerhalb der Reichweite des ursprünglichen Subjekts bleibt. Diejenigen, die sich wieder in den Wirkungsbereich bewegen, nachdem ihre Unsichtbarkeit verloren gegangen ist, oder die beim Wirken nicht anwesend waren, profitieren nicht von seinen Effekten. Angriffe, die aus dem Schutz der Unsichtbarkeit heraus ausgeführt werden, einschließlich offensivem Zauberwirken durch jemand anderen als das ursprüngliche Subjekt, stören die Unsichtbarkeit für diese Person, haben aber keine Auswirkungen auf andere Charaktere im Wirkungsbereich. Ein Angriff durch den ursprünglichen Empfänger des Zaubers macht jedoch jeden wieder sichtbar. Siehe den grundlegenden [Unsichtbarkeit](0010_Spells.md?id=invisibility)-Zauber für weitere Details.
+Dieser Zauber funktioniert identisch mit dem Zauber [Unsichtbarkeit](0010_Spells.md?id=invisibility); jedoch werden alle Individuen innerhalb von 10 Fuß um den Empfänger (was der Zauberer selbst sein kann), wenn der Zauber gewirkt wird, ebenfalls unsichtbar gemacht. Diejenigen unter den Effekten des Zaubers können sich gegenseitig sehen; dies gewährt jedoch nicht die Fähigkeit, andere unsichtbare Kreaturen zu sehen. Wenn sich jemand aus dem Wirkungsbereich herausbewegt, geht seine Unsichtbarkeit verloren, daher muss darauf geachtet werden, dass jeder in Reichweite des ursprünglichen Subjekts bleibt. Diejenigen, die sich wieder in den Wirkungsbereich bewegen, nachdem ihre Unsichtbarkeit verloren gegangen ist, oder nicht anwesend waren, als er gewirkt wurde, profitieren nicht von seinen Effekten. Angriffe, die aus dem Schutz der Unsichtbarkeit ausgeführt werden, einschließlich offensivem Zauberwirken durch jemanden außer dem ursprünglichen Subjekt, unterbrechen die Unsichtbarkeit für diese Person, haben aber keinen Effekt auf andere Charaktere im Wirkungsbereich. Ein Angriff durch den ursprünglichen Empfänger des Zaubers macht jedoch jeden wieder sichtbar. Siehe den grundlegenden Zauber [Unsichtbarkeit](0010_Spells.md?id=invisibility) für weitere Details.
 
 ---
 #### Unsichtbarkeit, Größer
@@ -1604,9 +1606,9 @@ Dieser Zauber funktioniert identisch mit dem Zauber [Unsichtbarkeit](0010_Spells
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** 3 Runden/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/A |
+| **Bereich:** 1 Ziel | **Widerstand:** NA |
 
-Dieser Zauber funktioniert wie der grundlegende [Unsichtbarkeit](0010_Spells.md?id=invisibility)-Zauber; jedoch beendet keine Aktion, die das Subjekt unternimmt, die Dauer vorzeitig. Das Ziel kann Nah- oder Fernkampfangriffe ausführen, Zauber wirken und so weiter. Beachten Sie, dass es sichtbare Hinweise darauf gibt, dass die Aktion stattgefunden hat, wie zum Beispiel eine visuelle Verzerrung. Dies ermöglicht jedem mit Sichtlinie auf das Subjekt, einen "Gewaltig" Wahrnehmungs-Wurf durchzuführen, nachdem die Aktion ausgeführt wurde, oder möglicherweise davor, wenn der Charakter verzögert ist, um den Ort des unsichtbaren Angreifers auszumachen. Ein Angriff mit einem Schwierigkeitsgrad kann in derselben Runde, in der das Subjekt gehandelt hat, von denjenigen ausgeführt werden, die den Ort der unsichtbaren Person wahrnehmen. Siehe den Zauber [Unsichtbarkeit](0010_Spells.md?id=invisibility) für weitere Details.
+Dieser Zauber funktioniert wie der grundlegende Zauber [Unsichtbarkeit](0010_Spells.md?id=invisibility); jedoch wird keine vom Subjekt unternommene Aktion die Dauer vorzeitig beenden. Das Ziel kann Nah- oder Fernkampfangriffe ausführen, Zauber wirken und so weiter. Beachte, dass es sichtbare Hinweise darauf gibt, dass die Aktion stattgefunden hat, wie z. B. eine visuelle Verzerrung. Dies ermöglicht es jedem mit Sichtlinie auf das Subjekt, nach der Aktion einen Gewaltigen Wahrnehmungswurf zu machen, oder möglicherweise davor, falls der Charakter verzögert ist, um den Standort des unsichtbaren Angreifers zu ermitteln. Ein Angriff mit einem Schwierigkeitsgrad kann in derselben Runde ausgeführt werden, in der das Subjekt gehandelt hat, von denjenigen, die den Standort der unsichtbaren Person wahrnehmen. Siehe den Zauber [Unsichtbarkeit](0010_Spells.md?id=invisibility) für weitere Details.
 
 ---
 #### Eisenhand
@@ -1620,26 +1622,28 @@ Dieser Zauber funktioniert wie der grundlegende [Unsichtbarkeit](0010_Spells.md?
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** Keine |
 
-Eisenhand ermöglicht es dem Empfänger, alles zu halten, was sonst Schaden verursachen würde (wie extrem heiße oder kalte Gegenstände oder solche, aus denen Säure tropft), ohne sich selbst zu verletzen. So könnte ein Benutzer einen Feuerbrand greifen, einen sprudelnden Kessel vom Spieß heben oder sogar durch eine Dampföffnung greifen, um ein Objekt auf der anderen Seite zu greifen. Es gewährt keine völlige Immunität gegen Schaden, es stoppt lediglich die Leitung durch die Haut der Hände des Empfängers. Der Zauber schützt nichts, was an der Hand getragen wird, also werden Ringe, Handschuhe und ähnliches die Auswirkungen der Quelle erleiden.#### Knock \(R\)
+Eisenhand erlaubt es dem Empfänger, alles zu halten, was ansonsten Schaden verursachen würde (wie extrem heiße oder kalte Gegenstände oder solche, die Säure abtropfen lassen), ohne sich selbst zu verletzen. So könnte ein Benutzer einen Brand aus einem Feuer greifen, einen sprudelnden Kessel vom Spieß heben oder sogar durch eine Dampföffnung greifen, um ein Objekt auf der anderen Seite zu greifen. Es gewährt keine vollständige Immunität gegen Schaden, es stoppt lediglich die Leitung durch die Haut der Hände des Empfängers. Der Zauber schützt nichts, was an der Hand getragen wird, daher werden Ringe, Handschuhe und ähnliches die Auswirkungen der Quelle erleiden.
+
+---#### Knock \(R\)
 
 (Transmutation)
 
 | | |
 | :-- | :-- |
 | **Rang:** Magier 2 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Keine | **Dauer:** Siehe unten |
-| **Kosten:** 1/Intensität | **Reichweite:** 180 ft |
-| **Bereich:** 1 Portal | **Widerstand:** NA |
+| **Sphäre:** Keine | **Dauer:** Siehe Unten |
+| **Kosten:** 1/Intensität | **Reichweite:** 180 Fuß |
+| **Bereich:** 1 Portal | **Widerstand:** N/A |
 
-Dieser Zauber kann gewirkt werden, um eine Tür oder eine ähnliche Öffnung aus Holz, Stein oder Metall zu öffnen, wenn sie verschlossen, klemmt, mit „Halten“ belegt oder „Magisch Verschlossen“ ist. Er hat keine Wirkung auf ein Fallgitter oder ein Tor. Die Tür kann über bis zu 25 Trefferpunkte pro Intensität verfügen; dies beinhaltet auch verschlossene Truhen oder Kisten, Geheimtüren und sogar Handschellen und Ketten. Selbst eine zuvor zugeschweißte Öffnung bricht aus ihren Verbindungen auf. Maximal zwei verschiedene Aspekte können durch das Wirken von „Knock“ beeinflusst werden; zum Beispiel erfordert eine Tür, die verriegelt, verschlossen und mit „Halten“ belegt ist, das Wirken von 2 „Knock“-Zaubern. Bei „Magisch Verschlossenen“ Türen wird die Verzauberung einfach für 10 Minuten ausgesetzt, wonach sie in ihren magisch verschlossenen Zustand zurückkehrt.
+Dieser Zauber kann gewirkt werden, um eine Tür oder eine andere ähnliche Öffnung aus Holz, Stein oder Metall zu öffnen, wenn diese verschlossen, verklemmt, mittels „Halten“ blockiert oder mittels „Magisch Versiegeln“ gesichert ist. Er hat keine Wirkung auf ein Fallgitter oder ein Tor. Die Tür kann über bis zu 25 Trefferpunkte pro Intensität verfügen; dies schließt verschlossene Truhen oder Kisten, Geheimtüren sowie sogar Fuß- und Handfesseln ein. Selbst eine Öffnung, die zuvor zugeschweißt wurde, wird aus ihren Verbindungen gelöst. Ein Maximum von zwei verschiedenen Aspekten kann durch das Wirken von Knock beeinflusst werden; eine Tür, die verriegelt, verschlossen und mittels „Halten“ blockiert ist, erfordert beispielsweise das Wirken von 2 Knock-Zaubern. Bei mittels „Magisch Versiegeln“ gesicherten Türen wird die Verzauberung für 10 Minuten einfach ausgesetzt, wonach sie wieder in ihren magisch verschlossenen Zustand zurückkehrt.
 
-Bei Umkehrung schließt und verriegelt „Lock“ ein Portal wie oben vermerkt, vorausgesetzt, es ist ein Verriegelungsmechanismus vorhanden. Bis zu zwei verschiedene Funktionen, wie verriegelt, verbolzt, versperrt usw., können eingestellt werden.
+Wenn der Zauber umgekehrt angewandt wird, schließt und verriegelt Lock ein Portal wie oben beschrieben, sofern ein Schließmechanismus vorhanden ist. Es können bis zu zwei verschiedene Funktionen, wie verriegeln, verbolzen, versperren usw., eingestellt werden.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | bis zu 25 TP Portal; Handschellen, Vorhängeschlösser, eine typische Holztruhe oder Tür |
-| 2 | 2 | bis zu 50 TP Portal; eine holzverstärkte Truhe oder Tür |
-| 3 | 3 | bis zu 75 TP Portal; eine eiserne Truhe oder Tür |
+| 1 | 1 | bis zu 25 HP Portal; Fesseln, Vorhängeschlösser, eine typische hölzerne Truhe oder Tür |
+| 2 | 2 | bis zu 50 HP Portal; eine verstärkte hölzerne Truhe oder Tür |
+| 3 | 3 | bis zu 75 HP Portal; eine Eisentruhe oder Eisentür |
 
 ---
 #### Know Alignment \(R\)
@@ -1650,12 +1654,12 @@ Bei Umkehrung schließt und verriegelt „Lock“ ein Portal wie oben vermerkt, 
 | :-- | :-- |
 | **Rang:** Kleriker 1, Magier 2 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Divination | **Dauer:** 1 Runde/Intensität |
-| **Kosten:** 1/Intensität | **Reichweite:** 30 ft |
+| **Kosten:** 1/Intensität | **Reichweite:** 30 Fuß |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Dieser Zauber erlaubt es dem Zaubernden, die Gesinnung und die Leidenschaften einer Kreatur zu erkennen, die einen Wurf zum Widerstehen erhält. Wenn der Widerstandswurf fehlschlägt, ergründet der Zaubernde den ethischen Kodex des Ziels in Bezug auf Gesetz, Neutralität und Chaos. Eine Konzentration für eine weitere Runde ist erforderlich, um die moralische Gesinnung des Ziels in Bezug auf Gut, Neutralität und Böse zu erkennen. Jede weitere Runde darüber hinaus lässt eine weitere zufällige verbleibende Leidenschaft erkennen. Der Spielleiter enthüllt die „Stärke“ der entdeckten Gesinnung und Leidenschaften des Ziels gemäß der folgenden Tabelle:
+Dieser Zauber erlaubt es dem Zaubernden, die Gesinnung und die Leidenschaften einer Kreatur zu erkennen, die einen Wurf zum Widerstehen erhält. Wenn der Wurf zum Widerstehen fehlschlägt, ergründet der Zaubernde den ethischen Kodex des Ziels in Bezug auf Ordnung, Neutralität und Chaos. Um die moralische Gesinnung des Ziels in Bezug auf Gut, Neutralität und Böse zu erkennen, ist eine Konzentration von einer weiteren Runde erforderlich. Jede weitere Runde darüber hinaus enthüllt eine andere zufällige verbleibende Leidenschaft. Der Spielleiter offenbart die „Stärke“ der entdeckten Gesinnung und Leidenschaften des Ziels gemäß der folgenden Tabelle:
 
-**Tabelle für Gesinnungs-/Leidenschaftsstärke**
+**Tabelle: Stärke von Gesinnung/Leidenschaft**
 
 | Prozentsatz | Stärke |
 | :-: | :-- |
@@ -1664,7 +1668,7 @@ Dieser Zauber erlaubt es dem Zaubernden, die Gesinnung und die Leidenschaften ei
 | 70-99% | Stark |
 | 100% + | Sehr Stark |
 
-Die Umkehrung dieses Zaubers, „Obscure Alignment“, macht die Gesinnung und die Leidenschaften eines Ziels für 24 Stunden unlesbar, selbst für das Wirken von „Know Alignment“ oder „Detect Evil/Good“.
+Die Umkehrung dieses Zaubers, Obscure Alignment, macht die Gesinnung und die Leidenschaften eines Ziels für 24 Stunden unlesbar, selbst gegenüber dem Wirken von Know Alignment oder Detect Evil/Good.
 
 ---
 #### Know Languages \(R\)
@@ -1676,11 +1680,11 @@ Die Umkehrung dieses Zaubers, „Obscure Alignment“, macht die Gesinnung und d
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Minute |
 | **Sphäre:** Keine | **Dauer:** 5 Minuten/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Sapientes Wesen | **Widerstand:** NA |
+| **Bereich:** 1 Sapientes Wesen | **Widerstand:** N/A |
 
-Dieser Zauber erlaubt es dem Zaubernden, nahezu jede nicht-magische Sprache zu verstehen und zu lesen. Die „Sprache“ von nicht-sapienten Tieren oder Kreaturen wird nicht verstanden, nur die wahren Sprachen sapienter Wesen. Der Magienutzer muss das Objekt oder die Kreatur berühren, um ihre Bedeutung zu erfassen. Dieser Zauber verleiht keine Fähigkeit, die Sprache zu sprechen oder zu schreiben.
+Dieser Zauber erlaubt es dem Zaubernden, fast jede nicht-magische Sprache zu verstehen und zu lesen. Das „Sprechen“ von nicht-sapienten Tieren oder Kreaturen wird nicht verstanden, nur die wahren Sprachen von sapienten Wesen. Der Magienutzer muss das Objekt oder die Kreatur berühren, um ihre Bedeutung zu erfassen. Dieser Zauber verleiht keine Fähigkeit, die Sprache zu sprechen oder zu schreiben.
 
-Die Umkehrung dieses Zaubers, „Confuse Languages“, macht eine Kreatur für jeden unverständlich oder ein Stück geschriebenen Text unentzifferbar. Diese Umkehrung kann auch dazu verwendet werden, „Know Languages“ während des Wirkens zu kontern.
+Die Umkehrung dieses Zaubers, Confuse Languages, macht eine Kreatur für jeden unverständlich oder einen geschriebenen Text unleserlich. Diese Umkehrung kann auch verwendet werden, um Know Languages zu kontern, während es gewirkt wird.
 
 ---
 #### Levitate
@@ -1691,21 +1695,21 @@ Die Umkehrung dieses Zaubers, „Confuse Languages“, macht eine Kreatur für j
 | :-- | :-- |
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 10 Minuten/Intensität |
-| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 60 ft/Intensität |
+| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 60 Fuß/Intensität |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Wenn dieser Zauber gewirkt wird, kann der Magienutzer sich selbst, ein Ziel, eine Kreatur oder ein Objekt mit nicht mehr als 20 GRÖ (+10 GRÖ pro zusätzlicher Intensität) benennen und dieses Individuum vom Boden abheben lassen. Eine andere Kreatur als der Zaubernde kann vertikal mit einer Geschwindigkeit von 5 Fuß pro Kampfrunde bewegt werden; bei sich selbst kann der Zaubernde sich bis zu 10 Fuß pro Runde vertikal bewegen. Levitation erfordert keine Konzentration seitens des Zaubernden, außer beim Ändern der Höhe. Bei einem unwilligen Subjekt erhält das Ziel einen Wurf zum Widerstehen. Während dem Subjekt dieses Zaubers keine Form der horizontalen Bewegung gewährt wird, kann es sich möglicherweise an einer Wand oder Klippe entlangziehen, sofern es in Reichweite ist. Der Zaubernde kann diesen Zauber nach Belieben beenden.
+Wenn dieser Zauber gewirkt wird, kann der Magienutzer sich selbst, ein Ziel, eine Kreatur oder ein Objekt von maximal 20 GRÖ (+10 GRÖ pro zusätzlicher Intensität) benennen und dieses Individuum vom Boden abheben lassen. Eine andere Kreatur als der Zaubernde kann mit einer Geschwindigkeit von 5 Fuß pro Kampfrunde vertikal bewegt werden; wenn er auf sich selbst gewirkt wird, kann sich der Zaubernde mit bis zu 10 Fuß pro Runde vertikal bewegen. Levitation erfordert seitens des Zaubernden keine Konzentration, außer beim Ändern der Höhe. Wenn der Zauber auf ein nicht gewilltes Subjekt angewandt wird, erhält das Ziel einen Wurf zum Widerstehen. Während dem Subjekt dieses Zaubers keinerlei horizontale Bewegung gewährt wird, kann das Subjekt sich möglicherweise an einer Wand oder Klippe entlangziehen, wenn diese in Reichweite ist. Der Zaubernde kann diesen Zauber nach Belieben beenden.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 Min.; 60 ft. Reichweite; 20 GRÖ |
-| 2 | 4 | 20 Min.; 120 ft. Reichweite; 30 GRÖ |
-| 3 | 5 | 30 Min.; 180 ft. Reichweite; 40 GRÖ |
-| 4 | 6 | 40 Min.; 240 ft. Reichweite; 50 GRÖ |
-| +1 | +1 | Progression fortsetzen |
+| 1 | 3 | 10 Min.; 60 Fuß Reichweite; 20 GRÖ |
+| 2 | 4 | 20 Min.; 120 Fuß Reichweite; 30 GRÖ |
+| 3 | 5 | 30 Min.; 180 Fuß Reichweite; 40 GRÖ |
+| 4 | 6 | 40 Min.; 240 Fuß Reichweite; 50 GRÖ |
+| +1 | +1 | Fortschreitend weiter |
 
 ---
-#### Light \(R\)\*
+#### Light  \(R\)\*
 
 (Transmutation)
 
@@ -1713,20 +1717,20 @@ Wenn dieser Zauber gewirkt wird, kann der Magienutzer sich selbst, ein Ziel, ein
 | :-- | :-- |
 | **Rang:** Kleriker 1, Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Sonne | **Dauer:** 1 Stunde/Intensität |
-| **Kosten:** 1/Intensität | **Reichweite:** 180 ft |
-| **Bereich:** 20 ft. Radius/Intensität | **Widerstand:** Siehe unten |
+| **Kosten:** 1/Intensität | **Reichweite:** 180 Fuß |
+| **Bereich:** 20 Fuß Radius/Intensität | **Widerstand:** Siehe Unten |
 
-Wenn dieser Zauber gewirkt wird, materialisiert ein Lichtglobus an einer vom Zaubernden gewählten Stelle, die sich auf einem Objekt oder sogar in der Luft befinden kann, und kann vom Zaubernden jederzeit aufgehoben werden. Der Zauber hat eine Dauer von 1 Stunde pro Intensität. Wenn er auf eine Kreatur gewirkt wird, erhält das Ziel einen Willenskraft-Test zum Widerstehen; ein Erfolg bedeutet, dass der Zauber den Bereich direkt hinter der Kreatur betroffen hat und nicht die Kreatur selbst. Wenn „Light“ auf die Augen einer Kreatur zentriert wird, führt ein misslungener Willenskraft-Wurf zu teilweiser Blindheit mit einer Dauer gleich der des Zaubers, was alle Fertigkeits- und Widerstandswürfe, die Sicht erfordern, um einen Schwierigkeitsgrad erschwert. Die Effekte des Zaubers sind unbeweglich, können aber auf ein tragbares oder bewegliches Objekt gewirkt werden.
+Wenn dieser Zauber gewirkt wird, materialisiert sich eine Lichtkugel an einem Ort nach Wahl des Zaubernden, der sich auf einem Objekt oder sogar in der Luft befinden kann, und kann vom Zaubernden jederzeit aufgelöst werden. Der Zauber hat eine Dauer von 1 Stunde pro Intensität. Wenn er auf eine Kreatur gewirkt wird, erhält das Ziel einen Willenskraft-Test zum Widerstehen; ein Erfolg bedeutet, dass der Zauber den Bereich direkt hinter der Kreatur betroffen hat und nicht die Kreatur selbst. Wenn Light auf die Augen einer Kreatur zentriert wird, führt ein misslungener Willenskraft-Wurf zu teilweiser Blindheit mit einer Dauer, die der des Zaubers entspricht, was alle Fertigkeits- und Widerstandswürfe, die Sicht erfordern, um einen Schwierigkeitsgrad erschwert. Die Effekte des Zaubers sind unbeweglich, können aber auf ein tragbares oder bewegliches Objekt gewirkt werden.
 
-*\*Die göttliche Version dieses Zaubers kann umgekehrt werden, was eine Sphäre aus absoluter und völliger Dunkelheit verursacht, die in jeder Hinsicht wie der arkane Zauber [Darkness](0010_Spells.md?id=darkness) funktioniert, mit der Ausnahme, dass sie eine geringere Dauer von 30 Minuten pro Intensität besitzt.*
+_\*Die göttliche Version dieses Zaubers kann umgekehrt werden, was eine Kugel aus absoluter und völliger Dunkelheit hervorruft, die in jeder Hinsicht wie der arkanale Zauber [Darkness](0010_Spells.md?id=darkness) funktioniert, mit der Ausnahme, dass sie eine geringere Dauer von 30 Minuten pro Intensität besitzt._
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | 20 ft. Radius; 1 Stunde (30 Min. umgekehrt) |
-| 2 | 2 | 40 ft. Radius; 2 Stunden (1 Stunde umgekehrt) |
-| 3 | 3 | 60 ft. Radius; 3 Stunden (1½ Stunden umgekehrt) |
-| 4 | 4 | 80 ft. Radius; 4 Stunden (2 Stunden umgekehrt) |
-| +1 | +1 | Progression fortsetzen |
+| 1 | 1 | 20 Fuß Radius; 1 Stunde (30 Min. umgekehrt) |
+| 2 | 2 | 40 Fuß Radius; 2 Stunden (1 Stunde umgekehrt) |
+| 3 | 3 | 60 Fuß Radius; 3 Stunden (1½ Stunden umgekehrt) |
+| 4 | 4 | 80 Fuß Radius; 4 Stunden (2 Stunden umgekehrt) |
+| +1 | +1 | Fortschreitend weiter |
 
 ---
 #### Lightning Bolt
@@ -1737,24 +1741,24 @@ Wenn dieser Zauber gewirkt wird, materialisiert ein Lichtglobus an einer vom Zau
 | :-- | :-- |
 | **Rang:** Magier 2 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** Sofort |
-| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 50 ft/Intensität |
-| **Bereich:** 10 ft. breiter Pfad | **Widerstand:** Ausweichen |
+| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 50 Fuß/Intensität |
+| **Bereich:** 10 Fuß breiter Pfad | **Widerstand:** Ausweichen |
 
-Während der Magienutzer mit der verbalen Inkantation und den Gesten in der ersten Runde des Wirkens beginnt, beginnt eine elektrische Ladung zwischen seinen Fingern zu knistern. In der zweiten Runde, nachdem die Inkantation abgeschlossen ist, sendet der Magienutzer einen Blitzschlag von der Fingerspitze in einer geraden Linie durch alle Ziele in einem 10 Fuß breiten Pfad entlang der Reichweite des Zaubers. Dieser Schaden verursacht 1d6 Schadenspunkte für jeweils 2 Punkte Intensität oder einen Bruchteil davon an alle Opfer im Wirkungsbereich. Dieser Schaden wird einmal gewürfelt und auf jede der Trefferzonen des Ziels angewendet, wobei sowohl getragene als auch natürliche Rüstung keinen Schutz bieten, aber magische Rüstungspunkte den Schaden wie gewohnt reduzieren.
+Während der Magienutzer in der ersten Runde des Wirkens mit der verbalen Beschwörung und den Gesten beginnt, beginnt zwischen seinen Fingern eine elektrische Ladung zu knistern. In der zweiten Runde, nach Abschluss der Beschwörung, sendet der Magienutzer einen Blitzstoß aus der Fingerspitze, der in einer geraden Linie durch alle Ziele in einem 10 Fuß breiten Pfad entlang der Reichweite des Zaubers zuckt. Dieser Schaden verursacht 1d6 Schadenspunkte für jede 2 Punkte Intensität oder einen Bruchteil davon bei allen Opfern im Wirkungsbereich. Dieser Schaden wird einmal gewürfelt und auf jede der Trefferzonen des Ziels angewandt, wobei sowohl getragene als auch natürliche Rüstung keinen Schutz bieten, magische Rüstungspunkte den Schaden jedoch wie gewohnt reduzieren.
 
-Ein erfolgreicher Wurf auf Ausweichen, der dazu führt, dass man sich zu Boden wirft, ermöglicht es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit „Artful Dodger“ hat die Option, auszuweichen, ohne sich zu Boden zu werfen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte, es sei denn, man befindet sich innerhalb von 5 Fuß vom Rand des Wirkungsbereichs.
+Ein erfolgreicher Ausweichen-Wurf, der dazu führt, dass man sich zu Boden wirft, ermöglicht es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit „Artful Dodger“ hat die Option, auszuweichen, ohne sich zu Boden zu werfen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte, es sei denn, er befindet sich innerhalb von 5 Fuß am Rand des Wirkungsbereichs.
 
-Blitze haben eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x1% entspricht. Siehe den Abschnitt über [Fires](0007_Game_System.md?id=fire-based-attacks) für weitere Informationen. Blitze können durch ihre schiere Wucht auch unbelebte Objekte zertrümmern oder zerstören.
+Blitze haben eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x1% entspricht. Siehe den Abschnitt über [Fires](0007_Game_System.md?id=fire-based-attacks) für zusätzliche Informationen. Blitze können durch ihre bloße Wucht auch leblose Objekte zerschmettern oder zerstören.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 ft. Reichweite; 1d6 Schaden |
-| 2 | 4 | 100 ft. Reichweite; 1d6 Schaden |
-| 3 | 5 | 150 ft. Reichweite; 2d6 Schaden |
-| 4 | 6 | 200 ft. Reichweite; 2d6 Schaden |
-| 5 | 7 | 250 ft. Reichweite; 3d6 Schaden |
-| 6 | 8 | 300 ft. Reichweite; 3d6 Schaden |
-| +1 | +1 | Progression fortsetzen |
+| 1 | 3 | 50 Fuß Reichweite; 1d6 Schaden |
+| 2 | 4 | 100 Fuß Reichweite; 1d6 Schaden |
+| 3 | 5 | 150 Fuß Reichweite; 2d6 Schaden |
+| 4 | 6 | 200 Fuß Reichweite; 2d6 Schaden |
+| 5 | 7 | 250 Fuß Reichweite; 3d6 Schaden |
+| 6 | 8 | 300 Fuß Reichweite; 3d6 Schaden |
+| +1 | +1 | Fortschreitend weiter |
 
 ---
 #### Locate Object \(R\)
@@ -1766,19 +1770,19 @@ Blitze haben eine Chance, brennbare Materialien zu entzünden, die dem gewürfel
 | **Rang:** Kleriker 2, Magier 2 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Divination | **Dauer:** 1 Minute/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
-| **Bereich:** 60 ft/Intensität | **Widerstand:** NA |
+| **Bereich:** 60 Fuß/Intensität | **Widerstand:** N/A |
 
-Mit dem Wirken von „Locate Object“ wird der Zaubernde zu einem bekannten oder vertrauten Gegenstand geleitet und spürt die Richtung zum Objekt, während der Zaubernde stehen bleibt und sich langsam dreht. Das Objekt muss sich jedoch innerhalb des Wirkungsbereichs des Zaubers befinden. Das Objekt kann ein beliebiger allgemeiner Gegenstand sein, wie zum Beispiel ein Bett, eine Truhe, ein Treppenhaus oder Gold, und der Zauber leitet den Zaubernden zur nächsten Entsprechung dieses Objekts. Spezifische Gegenstände hingegen, wie Tashanas Langschwert, erfordern, dass der Zaubernde ein genaues mentales Bild hat, indem er es entweder persönlich aus 30 Fuß Entfernung gesehen hat oder durch magische Mittel. Daher kann ein persönlicher oder einzigartiger Gegenstand mit diesem Zauber nicht lokalisiert werden, es sei denn, der Zaubernde ist damit vertraut. Der Zauber kann keine lebenden oder nicht-lebenden Kreaturen lokalisieren.
+Mit dem Wirken von Locate Object wird der Zaubernde zu einem bekannten oder vertrauten Gegenstand geführt; er spürt die Richtung zum Objekt, während er steht und sich langsam dreht. Das Objekt muss sich jedoch innerhalb des Wirkungsbereichs des Zaubers befinden. Das Objekt kann ein beliebiger allgemeiner Gegenstand sein, wie beispielsweise ein Bett, eine Truhe, ein Treppenhaus oder Gold, und der Zauber führt den Zaubernden zur nächsten Entsprechung dieses Objekts. Spezielle Gegenstände hingegen, wie Tashanas Langschwert, erfordern, dass der Zaubernde ein genaues mentales Bild davon hat, indem er es entweder persönlich innerhalb von 30 Fuß oder durch magische Mittel gesehen hat. Daher kann ein persönlicher oder einzigartiger Gegenstand mit diesem Zauber nicht lokalisiert werden, es sei denn, der Zaubernde ist mit ihm vertraut. Der Zauber kann keine lebenden oder nicht-lebenden Kreaturen lokalisieren.
 
-Die Umkehrung dieses Zaubers, „Obscure Object“, verbirgt einen Gegenstand vor der Entdeckung durch magische Mittel wie Kristallkugeln, „Detect Magic“ usw. für die gleiche Dauer.
+Die Umkehrung dieses Zaubers, Obscure Object, verbirgt für die gleiche Dauer einen Gegenstand vor der Entdeckung durch magische Mittel wie Kristallkugeln, Detect Magic usw.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 Min.; 60 ft. Radius |
-| 2 | 2 | 2 Min.; 120 ft. Radius |
-| 3 | 3 | 3 Min.; 180 ft. Radius |
-| 4 | 4 | 4 Min.; 240 ft. Radius |
-| +1 | +1 | Progression fortsetzen |
+| 1 | 1 | 1 Min.; 60 Fuß Radius |
+| 2 | 2 | 2 Min.; 120 Fuß Radius |
+| 3 | 3 | 3 Min.; 180 Fuß Radius |
+| 4 | 4 | 4 Min.; 240 Fuß Radius |
+| +1 | +1 | Fortschreitend weiter |
 
 ---
 #### Mage Lock
@@ -1790,17 +1794,17 @@ Die Umkehrung dieses Zaubers, „Obscure Object“, verbirgt einen Gegenstand vo
 | **Rang:** Magier 2 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Permanent |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Portal | **Widerstand:** NA |
+| **Bereich:** 1 Portal | **Widerstand:** N/A |
 
-Dieser Zauber kann auf jedes verschließbare Objekt wie eine Truhe, Tür, ein Portal oder sogar ein verschließbares Buch gewirkt werden. Das Objekt, das über bis zu 25 Trefferpunkte pro Intensität verfügen kann, ist permanent versiegelt, sofern es nicht gewaltsam aufgebrochen wird. Ein „Dispel Magic“, das mit einer Intensität gewirkt wird, die größer ist als die Stärke des Zaubers, öffnet es nur für eine Runde, und „Knock“ kann verwendet werden, um eine „Mage Locked“ Tür temporär für 10 Minuten zu öffnen, wonach der ursprüngliche Zauber fortbesteht. Schließlich kann ein Magienutzer mit einem höheren Rang als der ursprüngliche Zaubernde frei durch eine „Mage Locked“ Tür gehen, ohne die Verzauberung zu brechen, und er kann das Portal sogar für andere offen halten. Im Gegensatz zu „Secure Portal“ werden „Mage Locked“ Objekte nicht automatisch durch Kreaturen von außerhalb der materiellen Ebene wie Dämonen, Teufel, Engel und Elementare oder solche, die materielle Durchdringungszauber verwenden, gestört.
+Dieser Zauber kann auf jedes verschließbare Objekt gewirkt werden, wie eine Truhe, Tür, ein Portal oder sogar ein verschließbares Buch. Das Objekt, das bis zu 25 Trefferpunkte pro Intensität aufweisen kann, ist dauerhaft versiegelt, es sei denn, es wird aufgebrochen. Dispel Magic, das mit einer höheren Intensität als die Stufe des Zaubers gewirkt wird, macht es nur für eine Runde offen, und Knock kann verwendet werden, um eine mittels Mage Lock gesicherte Tür vorübergehend für 10 Minuten zu öffnen, wonach der ursprüngliche Zauber fortbesteht. Schließlich kann ein Magienutzer mit einem höheren Rang als der ursprüngliche Zauberer ungehindert durch eine Mage Locked Tür gehen, ohne die Verzauberung zu brechen, und er kann das Portal sogar für andere offenhalten. Im Gegensatz zu Secure Portal werden mittels Mage Lock gesicherte Objekte nicht automatisch durch Kreaturen von jenseits der primären materiellen Ebene gestört, wie Dämonen, Teufel, Engel und Elementare, oder solche, die Zauber zur materiellen Durchdringung verwenden.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | bis zu 25 TP Portal; Handschellen, Vorhängeschlösser, eine typische Holztruhe oder Tür |
-| 2 | 4 | bis zu 50 TP Portal; eine holzverstärkte Truhe oder Tür |
-| 3 | 5 | bis zu 75 TP Portal; eine eiserne Truhe, Tür oder ein Fallgitter |
-| 4 | 6 | bis zu 120 TP Portal; ein kleines Burgtor |
-| 5 | 7 | bis zu 150 TP Portal; ein großes, verstärktes Burgtor |
+| 1 | 3 | bis zu 25 HP Portal; Fesseln, Vorhängeschlösser, eine typische hölzerne Truhe oder Tür |
+| 2 | 4 | bis zu 50 HP Portal; eine verstärkte hölzerne Truhe oder Tür |
+| 3 | 5 | bis zu 75 HP Portal; eine Eisentruhe, -tür oder ein Fallgitter |
+| 4 | 6 | bis zu 120 HP Portal; ein kleines Burgtor |
+| 5 | 7 | bis zu 150 HP Portal; ein großes, verstärktes Burgtor |
 
 ---
 #### Magic Missile
@@ -1811,22 +1815,22 @@ Dieser Zauber kann auf jedes verschließbare Objekt wie eine Truhe, Tür, ein Po
 | :-- | :-- |
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Sofort |
-| **Kosten:** 1/Intensität | **Reichweite:** 100 ft/Intensität |
-| **Bereich:** 1-5 Ziele | **Widerstand:** Siehe unten |
+| **Kosten:** 1/Intensität | **Reichweite:** 100 Fuß/Intensität |
+| **Bereich:** 1-5 Ziele | **Widerstand:** Siehe Unten |
 
-Wenn dieser Zauber gewirkt wird, schießen ein oder mehrere Geschosse magischer Energie aus den Fingerspitzen des Magienutzers hervor und treffen ein Ziel. Die maximale Anzahl der Geschosse, die erzeugt werden können, basiert auf der arkane Zauberfertigkeitsstufe des Zaubernden, wobei ein zweites Geschoss bei 60% Fertigkeit erzeugt wird, ein drittes bei 70%, viertes bei 80% und ein fünftes und letztes Geschoss bei 90%. Um diese Geschosse zu erzeugen, muss der Zauber mit einer Intensität gewirkt werden, die der Anzahl der gewünschten Geschosse entspricht. Zum Beispiel würde ein Magienutzer, der „Magic Missile“ unter 60% auf Intensität 3 wirkt, die längere Reichweite erzielen, jedoch wird nur ein einzelnes Geschoss erzeugt. Ein Magienutzer mit einer Fertigkeitsstufe von 70% könnte den Zauber mit derselben Intensität 3 wirken und dieselbe Reichweite erzielen, aber 3 Geschosse erzeugen. Dieser Zauber hat eine maximale Intensität von 5. Siehe die Tabelle unten.
+Wenn dieser Zauber gewirkt wird, schießen ein oder mehrere Geschosse magischer Energie aus den Fingerspitzen des Magienutzers hervor und treffen ein Ziel. Die maximale Anzahl der Geschosse, die generiert werden können, basiert auf der Stufe der Fertigkeit Arkanes Zaubern des Zaubernden, wobei bei 60% Fertigkeit ein zweites Geschoss, bei 70% ein drittes, bei 80% ein viertes und bei 90% ein fünftes und letztes Geschoss generiert wird. Um diese Geschosse zu generieren, muss der Zauber mit einer Intensität gewirkt werden, die der Anzahl der gewünschten Geschosse entspricht. Zum Beispiel würde ein Magienutzer unter 60% Fertigkeit, der Magic Missile mit 3 Intensität wirkt, zwar die längere Reichweite erzielen, jedoch wird nur ein einziges Geschoss generiert. Ein Magienutzer mit 70% Fertigkeit könnte den Zauber ebenfalls mit 3 Intensität wirken, die gleiche Reichweite erzielen, aber 3 Geschosse generieren. Dieser Zauber hat eine maximale Intensität von 5. Siehe die Tabelle unten.
 
-Ein „Magic Missile“ trifft unfehlbar, selbst wenn sich das Ziel im Nahkampf befindet oder teilweise Deckung hat. Diese Geschosse können nicht ausgewichen werden; ein Gegner in vollständiger Deckung kann jedoch nicht mit diesem Zauber anvisiert werden. Der Zauber „Shield“ wehrt „Magic Missiles“ automatisch ab, vorausgesetzt, das Ziel ist sich dessen bewusst und/oder steht dem Zaubernden gegenüber. „Magic Missiles“ verursachen 1d6+1 Schadenspunkte und getragene Rüstung bietet keinen Schutz, aber die natürliche Rüstung oder die magischen Rüstungspunkte einer Kreatur reduzieren den Schaden wie gewohnt. „Magic Missiles“ verursachen keinen Schaden an unbelebten Objekten wie Türen, Schlössern usw.
+Magic Missile trifft unfehlbar, selbst wenn sich das Ziel im Nahkampf befindet oder teilweise Deckung hat. Diese Geschosse können nicht ausgewichen werden; ein Gegner in vollständiger Deckung kann jedoch nicht mit diesem Zauber anvisiert werden. Der Zauber Shield wehrt Magic Missiles automatisch ab, vorausgesetzt, das Ziel ist sich dessen bewusst und/oder blickt den Zaubernden an. Magic Missiles verursachen 1d6+1 Schadenspunkte und getragene Rüstung schützt nicht, aber die natürliche Rüstung einer Kreatur oder magische Rüstungspunkte reduzieren den Schaden wie gewohnt. Magic Missiles verursachen keinen Schaden an leblosen Objekten wie Türen, Schlössern usw.
 
-Wenn mehrere Geschosse verschossen werden, kann der Zaubernde sie ein einzelnes Wesen treffen lassen oder mehrere Wesen anvisieren. Jedes „Magic Missile“ trifft eine zufällige Trefferzone - spezifische Trefferzonen können nicht anvisiert werden. Der Zaubernde muss die individuellen Ziele jedes Geschosses bestimmen, bevor er für den Schaden würfelt.
+Wenn mehrere Geschosse verschossen werden, kann der Zaubernde sie eine einzelne Kreatur treffen lassen oder mehrere Kreaturen anvisieren. Jedes Magic Missile trifft eine zufällige Trefferzone - spezifische Trefferzonen können nicht anvisiert werden. Der Zaubernde muss die einzelnen Ziele jedes Geschosses benennen, bevor er den Schaden würfelt.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 1 | 100 ft. Reichweite; 1 Geschoss |
-| 2 | 2 | 200 ft. Reichweite; 2 Geschosse bei 60% Fertigkeit |
-| 3 | 3 | 300 ft. Reichweite; 3 Geschosse bei 70% Fertigkeit |
-| 4 | 4 | 400 ft. Reichweite; 4 Geschosse bei 80% Fertigkeit |
-| 5 max. | 5 | 500 ft. Reichweite; 5 Geschosse bei 90% Fertigkeit |
+| 1 | 1 | 100 Fuß Reichweite; 1 Geschoss |
+| 2 | 2 | 200 Fuß Reichweite; 2 Geschosse bei 60% Fertigkeit |
+| 3 | 3 | 300 Fuß Reichweite; 3 Geschosse bei 70% Fertigkeit |
+| 4 | 4 | 400 Fuß Reichweite; 4 Geschosse bei 80% Fertigkeit |
+| 5 max. | 5 | 500 Fuß Reichweite; 5 Geschosse bei 90% Fertigkeit |
 
 ---
 #### Magic Mouth
@@ -1836,15 +1840,15 @@ Wenn mehrere Geschosse verschossen werden, kann der Zaubernde sie ein einzelnes 
 | | |
 | :-- | :-- |
 | **Rang:** Magier 2 | **Zauberzeit:** 1 Minute |
-| **Sphäre:** Keine | **Dauer:** Siehe unten |
-| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 30 ft |
-| **Bereich:** 1 Objekt | **Widerstand:** NA |
+| **Sphäre:** Keine | **Dauer:** Siehe Unten |
+| **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 30 Fuß |
+| **Bereich:** 1 Objekt | **Widerstand:** N/A |
 
-Dieser Zauber erschafft einen Mund an einem Gegenstand oder Objekt, der magisch erscheint, wenn er durch ein spezifisches Ereignis oder einen Zeitpunkt ausgelöst wird, den der Magienutzer beim ersten Wirken des Zaubers festlegt. Dieser Mund spricht dann die vordefinierte Phrase, die der Zaubernde zum Zeitpunkt des Wirkens gewählt hat. Diese Phrase darf aus nicht mehr als 25 Wörtern bestehen und wird vom Mund mit einer Rate von ungefähr 1 Wort pro Sekunde gesprochen. Der Mund kann keine Worte der Macht sprechen oder Zauber wirken.
+Dieser Zauber erschafft einen Mund auf einem Gegenstand oder Objekt, der magisch erscheint, wenn er durch ein bestimmtes Ereignis oder einen Zeitpunkt ausgelöst wird, den der Magienutzer beim ersten Wirken des Zaubers festlegt. Dieser Mund spricht dann den vordefinierten Satz, den der Zaubernde zum Zeitpunkt des Wirkens ausgewählt hat. Dieser Satz darf nicht mehr als 25 Wörter umfassen und wird vom Mund mit einer Geschwindigkeit von etwa 1 Wort pro Sekunde gesprochen. Der Mund kann keine Worte der Macht sprechen oder Zauber wirken.
 
-Dieser Zauber kann auf jedes normalerweise unbelebte Objekt gewirkt werden, von einer Säule oder einem Baum bis hin zu einer Steinmauer oder einer Truhe; er ist jedoch besonders effektiv, wenn er auf eine Statue gewirkt wird, da die Statue selbst dann aussieht, als würde sie sprechen. Er kann nicht auf eine lebende Kreatur mit irgendeiner Form von Intelligenz oder Instinkt gewirkt werden. Dies gilt auch für Wesen, die früher lebten. Beim Wirken dieses Zaubers bestimmt der Magienutzer die Situation, welche die Verzauberung aktiviert. Er kann so konzipiert werden, dass er durch alles ausgelöst wird, von einem gesprochenen Wort bis hin zur Entstehung von Lärm. Es kann so allgemein wie „wenn die nächste Person diesen Raum betritt...“ oder so spezifisch wie „wenn eine weibliche Klerikerin von Sedona an einem Samstag innerhalb von 10 Fuß an die Statue am Ende des Flurs herantritt...“ sein. Der Auslöser kann nichts sein, was nicht nicht-magisch erkannt werden kann, wie etwa eine unsichtbare Kreatur, die Gesinnung einer Kreatur, Fertigkeit, Klasse usw. Er könnte jedoch die getragene Kleidung bestimmen. Die maximale Distanz, aus der der Zauber ausgelöst werden kann, beträgt 25 Fuß pro Intensität.
+Dieser Zauber kann auf jedes normalerweise leblose Objekt gewirkt werden, von einer Säule oder einem Baum bis zu einer Steinmauer oder einer Truhe; er ist jedoch besonders effektiv, wenn er auf eine Statue gewirkt wird, da die Statue selbst dann aussieht, als würde sie sprechen. Er kann nicht auf eine lebende Kreatur mit irgendeiner Form von Intelligenz oder Instinkt gewirkt werden. Dies gilt auch für Wesen, die ehemals lebten. Beim Wirken dieses Zaubers bestimmt der Magienutzer die Situation, die die Verzauberung aktiviert. Er kann so gestaltet werden, dass er durch alles ausgelöst wird, von einem gesprochenen Wort bis zum Entstehen eines Geräusches. Es kann so allgemein sein wie „wenn die nächste Person diesen Raum betritt...“ oder so spezifisch wie „wenn eine weibliche Klerikerin von Sedona an einem Samstag innerhalb von 10 Fuß an die Statue am Ende der Halle herantritt...“. Der auslösende Effekt darf nichts sein, was nicht nicht-magisch wahrnehmbar ist, wie eine unsichtbare Kreatur, die Gesinnung, Fertigkeit, Klasse usw. einer Kreatur. Er könnte jedoch getragene Kleidung bezeichnen. Die maximale Distanz, aus der der Zauber ausgelöst werden kann, beträgt 25 Fuß pro Intensität.
 
-Die Dauer dieses Zaubers ist permanent, bis die Verzauberung aktiviert wird, wonach der Zauber endet.
+Die Dauer dieses Zaubers ist permanent, bis die Verzauberung aktiviert wird, dann endet der Zauber.
 
 ---
 #### Magic Tricks
@@ -1856,9 +1860,9 @@ Die Dauer dieses Zaubers ist permanent, bis die Verzauberung aktiviert wird, won
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** Konzentration |
 | **Kosten:** 1 | **Reichweite:** 0 |
-| **Bereich:** 30 ft. Radius | **Widerstand:** Keine |
+| **Bereich:** 30 Fuß Radius | **Widerstand:** Keine |
 
-Magische Tricks sind eine großartige Form der Unterhaltung unter dem einfachen Volk, den Unterdrückten und ganz besonders unter Kindern. Einige Effekte, die üblicherweise mit „Magic Tricks“ erzeugt werden, sind Windstöße, um Kerzen flackern zu lassen, eine Silbermünze hinter dem Ohr eines Kindes hervorzuzaubern, eine Blume schnell blühen zu lassen, Kartentricks vorzuführen, unheimliche ätherische Musik zu erzeugen, die aus dem Nichts zu kommen scheint, und so weiter. „Magic Tricks“ sind unfähig, auch nur einen einzigen Schadenspunkt oder irgendeine Form von Ablenkung im Kampf zu verursachen, könnten aber genutzt werden, um eine Menge zu beschäftigen, während der Rest der Gruppe vorbeischleicht.
+Magic Tricks sind eine großartige Form der Unterhaltung unter dem einfachen Volk, den Unterdrückten und insbesondere Kindern. Einige Effekte, die üblicherweise mit Magic Tricks erzeugt werden, sind Windstöße zum Flackern von Kerzen, das Hervorzaubern einer Silbermünze hinter dem Ohr eines Kindes, das schnelle Aufblühen einer Blume, Kartentricks, das Erzeugen unheimlicher ätherischer Musik, die scheinbar aus dem Nichts kommt, usw. Magic Tricks können nicht einmal einen einzigen Schadenspunkt verursachen oder im Kampf für Ablenkung sorgen, könnten aber genutzt werden, um eine Menschenmenge zu beschäftigen, während der Rest der Gruppe vorbeischleicht.
 
 ---
 #### Meteor Shower
@@ -1869,23 +1873,23 @@ Magische Tricks sind eine großartige Form der Unterhaltung unter dem einfachen 
 | :-- | :-- |
 | **Rang:** Magier 5 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** Sofortig |
-| **Kosten:** 3/Intensität | **Reichweite:** 20 ft/Intensität |
-| **Bereich:** Siehe unten | **Widerstand:** Ausweichen |
+| **Kosten:** 3/Intensität | **Reichweite:** 20 Fuß/Intensität |
+| **Bereich:** Siehe Unten | **Widerstand:** Ausweichen |
 
-Wenn der Magienutzer diesen Zauber wirkt, schießen zwei Mikrometeore pro Intensitätsstufe aus der ausgestreckten Hand. Die Meteore bogen in Richtung ihres Ziels und schlagen in einer abwärts gerichteten Flugbahn ein, wobei sie eine Spur aus Funken und Asche hinterlassen. Beim Aufprall detonieren sie in mehreren feurigen Explosionen um den Zielpunkt. Der erste Meteor trifft immer den anvisierten Punkt, während alle zusätzlichen Meteore zufällig um ihn herum einschlagen, jeder mit einem Explosionsradius von 30 Fuß. Um zu bestimmen, wo sie treffen, würfle 1d8 für die Richtung.
+Wenn der Magienutzer diesen Zauber wirkt, schießen zwei Mikrometeoren pro Intensitätsstufe aus der ausgestreckten Hand hervor. Die Meteoren ziehen einen Bogen auf ihr Ziel zu, schlagen auf einer Abwärtsflugbahn ein und hinterlassen eine Spur aus Funken und Asche. Beim Aufprall detonieren sie in mehreren feurigen Explosionen um den Zielpunkt. Der erste Meteor schlägt immer am anvisierten Ort ein, während alle weiteren Meteoren zufällig darum einschlagen, jeder mit einem Explosionsradius von 30 Fuß. Um zu bestimmen, wo sie treffen, würfle 1d8 für die Richtung.
 
 <div Stil="text-align: center;">
     <img src="_media/CFI_10_Meteor_Shower_Grid.png" Stil="width: 25%;" />
 </div>
 
 
-Jeder Meteor verursacht 1d10 Punkte Feuerschaden bei denjenigen im Wirkungsbereich. Aufgrund des Radius jeder Explosion werden sich jedoch viele überschneiden und zusätzlichen Schaden bei denjenigen verursachen, die das Pech haben, von ihnen erwischt zu werden. Die Schadenswürfe werden kombiniert und auf jede der Trefferzonen des Ziels angewendet, wobei getragene Rüstung keinen Schutz bietet, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur den Schaden wie gewohnt reduzieren.
+Jeder Meteor verursacht 1d10 Feuerschadenspunkte bei denjenigen im Wirkungsbereich. Aufgrund des Radius jeder Explosion werden sich jedoch viele überschneiden und denjenigen, die das Pech haben, von ihnen erwischt zu werden, zusätzlichen Schaden zufügen. Die Schadenswürfe werden kombiniert und auf jede Trefferzone des Ziels angewandt, wobei getragene Rüstung keinen Schutz bietet, magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur den Schaden jedoch wie gewohnt reduzieren.
 
-Ein erfolgreicher Wurf auf Ausweichen ermöglicht es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit „Artful Dodger“ hat die Option, auszuweichen, ohne sich zu Boden zu werfen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte, es sei denn, man befindet sich innerhalb von 5 Fuß vom Rand des Wirkungsbereichs.
+Ein erfolgreicher Ausweichen-Wurf ermöglicht es dem Opfer, keinen Schaden zu erleiden. Jemand mit der Fähigkeit „Artful Dodger“ hat die Option, auszuweichen, ohne zu Boden zu gehen, aber ein Erfolg reduziert in diesem Fall den Schaden nur um die Hälfte, es sei denn, er befindet sich innerhalb von 5 Fuß am Rand des Wirkungsbereichs.
 
-Jeder, einschließlich derer außerhalb des Wirkungsbereichs, aber innerhalb von 60 Fuß eines Einschlagpunkts, muss einen Athletik-Wurf bestehen, um stehen zu bleiben.
+Jeder, auch diejenigen außerhalb des Wirkungsbereichs, aber innerhalb von 60 Fuß um einen Einschlagspunkt, muss einen Athletik-Wurf bestehen, um stehen zu bleiben.
 
-„Meteor Shower“ hat eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Siehe den Abschnitt über [Fires](0007_Game_System.md?id=fire-based-attacks) für weitere Informationen.
+Meteor Shower hat eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Siehe den Abschnitt über [Fires](0007_Game_System.md?id=fire-based-attacks) für zusätzliche Informationen.
 
 ---
 #### Might
@@ -1899,7 +1903,7 @@ Jeder, einschließlich derer außerhalb des Wirkungsbereichs, aber innerhalb von
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** Keine |
 
-„Might“ erlaubt dem Empfänger, einen beeindruckenden Akt physischer roher Gewalt auszuführen, indem die Macht des Zaubernden zur Athletik-Fertigkeit des Empfängers addiert wird. Es erhöht nicht den Schadensmodifikator des Charakters bei Kampfschaden.
+Might erlaubt es dem Empfänger, einen beeindruckenden Akt physischer roher Gewalt auszuführen, indem die MAC des Zaubernden zur Athletik-Fertigkeit des Empfängers addiert wird. Es erhöht nicht den Schad. Mod. des Charakters beim Verursachen von Kampfschaden.
 
 ---
 #### Mirror Image
@@ -1911,9 +1915,9 @@ Jeder, einschließlich derer außerhalb des Wirkungsbereichs, aber innerhalb von
 | **Rang:** Magier 2 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 3 Runden/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
-| **Bereich:** 5 ft. Radius | **Widerstand:** NA |
+| **Bereich:** 5 Fuß Radius | **Widerstand:** N/A |
 
-Wenn dieser Zauber gewirkt wird, erscheinen 2d4 Duplikate des Magienutzers innerhalb eines 5-Fuß-Radius, die die Bewegungen des Zaubernden exakt nachahmen. Zusätzlich wogt und schimmert der gesamte Wirkungsbereich, wodurch der exakte Standort des Zaubernden unmöglich zu bestimmen ist. Das Treffen eines der illusionären Bilder lässt es verschwinden; die verbleibenden Bilder bleiben jedoch unbeeinflusst. Das Treffen des Zaubernden hat keine Auswirkung auf die verbleibenden Bilder, und da sich die Bilder ständig verschieben, gibt es keine Möglichkeit zu wissen, ob das Ziel der echte Zaubernde ist, falls erneut angegriffen wird. Jegliche Verletzungen, die der Zaubernde erleidet, werden ebenfalls auf die Bilder übertragen. Es gibt zahlreiche Wege, wie der Spielleiter bestimmen kann, ob der eigentliche Zaubernde getroffen wurde oder eines der Bilder. Einer ist, zu bestimmen, wie viele potenzielle Ziele verfügbar sind, inklusive des Zaubernden, und einen Würfel der nächstgelegenen Denomination zu werfen. Zum Beispiel sollte der Angreifer bei 4 Bildern und dem Zaubernden einen 1d6 werfen, wobei ein Ergebnis von 6 neu gewürfelt wird, und der Zaubernde bei einer 1 getroffen wird. Ein anderer Weg wäre, mehrere Marker gleich der Anzahl der potenziellen Ziele zu haben, wobei einer als der Zaubernde markiert ist. Ein Marker wird bei jedem Angriff gezogen; wenn das Ziel getroffen wird, wird Schaden zugefügt, ansonsten verschwindet ein Bild, was einen der Marker entfernt. Die Bilder verschwinden am Ende der Dauer des Zaubers.
+Wenn dieser Zauber gewirkt wird, erscheinen 2d4 Duplikate des Magienutzers innerhalb eines Radius von 5 Fuß, die die Bewegungen des Zaubernden exakt nachahmen. Zudem flimmert und schimmert der gesamte Wirkungsbereich, wodurch der exakte Standort des Zaubernden unmöglich festzustellen ist. Das Treffen eines der illusorischen Bilder lässt es verschwinden; die verbleibenden Bilder sind jedoch nicht betroffen. Den Zaubernden zu treffen hat keine Wirkung auf die verbleibenden Bilder, und da sich die Bilder ständig verlagern, gibt es keine Möglichkeit zu wissen, ob das Ziel der echte Zaubernde ist, falls erneut angegriffen wird. Jegliche Verletzungen, die der Zaubernde erleidet, werden auch auf die Bilder übertragen. Es gibt zahlreiche Möglichkeiten für den Spielleiter zu bestimmen, ob der tatsächliche Zaubernde getroffen wurde oder eines der Bilder. Eine Möglichkeit ist es zu bestimmen, wie viele potenzielle Ziele verfügbar sind, einschließlich des Zaubernden, und einen Würfel der nächstgelegenen Denomination zu werfen. Zum Beispiel sollte der Angreifer bei 4 Bildern und dem Zaubernden 1d6 werfen, wobei ein Ergebnis von 6 neu gewürfelt wird und der Zaubernde bei einer 1 getroffen wird. Eine andere Methode wäre, mehrere Marker entsprechend der Anzahl der potenziellen Ziele zu haben, wobei einer als der Zaubernde markiert ist. Jedes Mal, wenn ein Angriff ausgeführt wird, wird ein Marker gezogen; wenn das Ziel getroffen wird, wird Schaden angewandt, ansonsten verschwindet ein Bild und einer der Marker wird entfernt. Die Bilder verschwinden am Ende der Dauer des Zaubers.
 
 ---#### Gift neutralisieren (R)
 
@@ -1924,29 +1928,29 @@ Wenn dieser Zauber gewirkt wird, erscheinen 2d4 Duplikate des Magienutzers inner
 | **Rang:** Kleriker 3 | **Zauberzeit:** 1 Runde |
 | **Sphäre:** Heilung | **Wirkungsdauer:** Permanent |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/V (Konstitution) |
+| **Fläche:** 1 Ziel | **Resistenz:** NA (Konstitution) |
 
-Dieser Zauber erlaubt es dem Zaubernden, die Wirkung von Gift oder Venom, unter dem eine Kreatur leidet, aufzuheben. Er kann auch dazu verwendet werden, ein Individuum zu heilen, das an einer Vergiftung 'gestorben' ist, sofern dies innerhalb von 10 Minuten nach dem Tod geschieht. Pro 30 Potency des verabreichten Gifts ist eine Stufe Intensität erforderlich. Gift neutralisieren kann zudem dazu genutzt werden, das von einer giftigen Kreatur wie einer Schlange oder einem Skorpion produzierte Venom zu neutralisieren, sodass diese nicht mehr in der Lage ist, andere zu vergiften: Dies erfordert 1 Intensität pro 30 Potency und hat bei dieser Anwendung eine Wirkungsdauer von 24 Stunden. Schließlich kann Gift neutralisieren auf vergiftete oder anderweitig verunreinigte Substanzen angewendet werden, wobei pro Intensität 5 Pfund Feststoffe oder 2 Gallonen Flüssigkeiten behandelt werden können.
+Dieser Zauber ermöglicht es dem Zaubernden, die Wirkung von Gift oder Giftstoffen aufzuheben, die ein Wesen befallen haben, und kann verwendet werden, um ein Individuum zu heilen, das an einer Vergiftung „gestorben“ ist, sofern er innerhalb von 10 Minuten nach dem Tod angewendet wird. Eine Stufe der Intensität wird pro 30 Potenz des verursachenden Gifts benötigt. Gift neutralisieren kann auch verwendet werden, um das von einem giftigen Lebewesen wie einer Schlange oder einem Skorpion produzierte Gift zu neutralisieren, sodass es nicht mehr in der Lage ist, andere zu vergiften: Dies erfordert 1 Intensität pro 30 Potenz und hat bei dieser Art der Verwendung eine Wirkungsdauer von 24 Stunden. Schließlich kann Gift neutralisieren auf vergiftete oder anderweitig verunreinigte Substanzen angewendet werden, wobei pro Intensität 5 Pfund an festen Stoffen oder 2 Gallonen Flüssigkeiten behandelt werden können.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | Heilt das Opfer von Gift mit POT 1-30; neutralisiert eine giftige Kreatur mit POT 1-30; behandelt bis zu 5 Pfund vergiftete Feststoffe oder 2 Gallonen Flüssigkeit |
-| 2 | 4 | Heilt das Opfer von Gift mit POT 31-60; neutralisiert eine giftige Kreatur mit POT 31-60; behandelt bis zu 10 Pfund vergiftete Feststoffe oder 4 Gallonen Flüssigkeit |
-| 3 | 5 | Heilt das Opfer von Gift mit POT 61-90; neutralisiert eine giftige Kreatur mit POT 61-90; behandelt bis zu 15 Pfund vergiftete Feststoffe oder 6 Gallonen Flüssigkeit |
-| 4 | 6 | Heilt das Opfer von Gift mit POT 91-120; neutralisiert eine giftige Kreatur mit POT 91-120; behandelt bis zu 20 Pfund vergiftete Feststoffe oder 8 Gallonen Flüssigkeit |
-| +1 | +1 | Fortsetzung der Progression |
+| 1 | 3 | Heilt Opfer von Gift mit POT 1-30; neutralisiert ein giftiges Wesen mit POT 1-30; behandelt bis zu 5 Pfund vergiftete Feststoffe oder 2 Gallonen Flüssigkeit |
+| 2 | 4 | Heilt Opfer von Gift mit POT 31-60; neutralisiert ein giftiges Wesen mit POT 31-60; behandelt bis zu 10 Pfund vergiftete Feststoffe oder 4 Gallonen Flüssigkeit |
+| 3 | 5 | Heilt Opfer von Gift mit POT 61-90; neutralisiert ein giftiges Wesen mit POT 61-90; behandelt bis zu 15 Pfund vergiftete Feststoffe oder 6 Gallonen Flüssigkeit |
+| 4 | 6 | Heilt Opfer von Gift mit POT 91-120; neutralisiert ein giftiges Wesen mit POT 91-120; behandelt bis zu 20 Pfund vergiftete Feststoffe oder 8 Gallonen Flüssigkeit |
+| +1 | +1 | Setzt Progression fort |
 
-In umgekehrter Form erlaubt Gift zufügen dem Zaubernden, ein tödliches Toxin in einem Opfer zu erzeugen. Dieses Venom ist unten detailliert beschrieben.
+Bei umgekehrter Anwendung ermöglicht Gift zufügen es dem Zaubernden, ein tödliches Toxin in einem Opfer zu erzeugen. Dieses Gift ist unten detailliert beschrieben.
 
-#### Arkanes Gift
+#### Arkane Vergiftung
 
 - **Anwendung:** Kontakt
-- **Potency:** entspricht Intensität x30
-- **Widerstand:** Konstitution
-- **Eintrittszeit:** 1W2+1 Runden
-- **Wirkungsdauer:** 1W3x10 Minuten
-- **Zustände:** Die Opfer beginnen mit Agonie, die 2 Runden anhält, bevor Ersticken eintritt, was meist den Tod zur Folge hat, es sei denn, es wird magisch mit Verlangsamen oder Gift neutralisieren behandelt.
-- **Gegengift/Heilung:** Keine außer magischer Behandlung.
+- **Potenz:** entspricht Intensität x30
+- **Resistenz:** Konstitution
+- **Einsetzzeit:** 1w2+1 Runden
+- **Wirkungsdauer:** 1w3x10 Minuten
+- **Zustände:** Opfer beginnen mit Agonie, die 2 Runden anhält, bevor Asphyxie eintritt, was normalerweise zum Tod führt, sofern nicht magisch mit Verlangsamen oder Gift neutralisieren behandelt.
+- **Gegengift/Heilung:** Keine, außer durch magische Behandlung.
 
 ---
 #### Wasser teilen
@@ -1958,9 +1962,9 @@ In umgekehrter Form erlaubt Gift zufügen dem Zaubernden, ein tödliches Toxin i
 | **Rang:** Kleriker 4 | **Zauberzeit:** 10 Minuten |
 | **Sphäre:** Elementar (Wasser) | **Wirkungsdauer:** 10 Minuten/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 60 Fuß/Intensität |
-| **Bereich:** Siehe unten | **Widerstand:** N/V |
+| **Fläche:** Siehe unten | **Resistenz:** NA |
 
-Dieser Zauber erlaubt es dem Zaubernden, Wasser oder andere Arten von Flüssigkeiten zu teilen und einen sicheren Pfad zu schaffen, der dann bei Bedarf durchquert werden kann. Der Zauber erzeugt eine Rinne von 100 Fuß Breite, mit einer Tiefe von 10 Fuß pro Intensität und einer Länge von 120 Fuß pro Intensität. Wenn er also mit einer Intensität von 4 gewirkt wird, wäre die Teilung 40 Fuß tief, 480 Fuß lang und 100 Fuß breit. Der Zauber kann vom Zaubernden vorzeitig beendet werden, andernfalls hält er an, bis seine Wirkungsdauer abläuft. Dieser Zauber kann unter Wasser gewirkt werden, was stattdessen einen "Korridor" aus Luft mit den oben genannten Dimensionen erzeugt. Schließlich kann Wasser teilen offensiv gegen eine Kreatur wie ein Wasserelementar eingesetzt werden, was pro Intensitätsstufe 10 Schadenspunkte verursacht. Vorausgesetzt, das Wesen überlebt, muss es einen Widerstandswurf auf Willenskraft bestehen oder für 3W4 Minuten vor dem Zaubernden fliehen.
+Dieser Zauber ermöglicht es dem Zaubernden, Wasser oder andere Arten von Flüssigkeiten zu teilen und einen sicheren Pfad zu schaffen, der bei Bedarf begangen werden kann. Der Zauber erzeugt eine Rinne von 100 Fuß Breite, mit einer Tiefe von 10 Fuß pro Intensität und einer Länge von 120 Fuß pro Intensität. Wenn er also mit einer Intensität von 4 gewirkt wird, wäre die Teilung 40 Fuß tief, 480 Fuß lang und 100 Fuß breit. Der Zauber kann vom Zaubernden vorzeitig beendet werden, andernfalls hält er an, bis seine Wirkungsdauer abläuft. Dieser Zauber kann unter Wasser gewirkt werden, was stattdessen einen „Korridor“ aus Luft mit den oben genannten Dimensionen erzeugt. Schließlich kann Wasser teilen offensiv gegen ein Wesen wie ein Wasserelementar eingesetzt werden, was pro Intensitätsstufe 10 Schaden verursacht. Vorausgesetzt, das Wesen überlebt, muss es einen Widerstandswurf gegen Willenskraft bestehen oder für 3w4 Minuten vor dem Zaubernden fliehen.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -1969,7 +1973,7 @@ Dieser Zauber erlaubt es dem Zaubernden, Wasser oder andere Arten von Flüssigke
 | 3 | 5 | 30 Min.; 180 Fuß Reichweite; 100 Fuß breit; 30 Fuß tief; 360 Fuß lang |
 | 4 | 6 | 40 Min.; 240 Fuß Reichweite; 100 Fuß breit; 40 Fuß tief; 480 Fuß lang |
 | 5 | 7 | 50 Min.; 300 Fuß Reichweite; 100 Fuß breit; 50 Fuß tief; 600 Fuß lang |
-| +1 | +1 | Fortsetzung der Progression |
+| +1 | +1 | Setzt Progression fort |
 
 ---
 #### Permanenz
@@ -1980,14 +1984,14 @@ Dieser Zauber erlaubt es dem Zaubernden, Wasser oder andere Arten von Flüssigke
 | :-- | :-- |
 | **Rang:** Magier 4 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Wirkungsdauer:** Permanent |
-| **Kosten:** 3, +2 Erf. Mod. | **Reichweite:** Siehe unten |
-| **Bereich:** Siehe unten | **Widerstand:** N/V |
+| **Kosten:** 3, +2 ERF | **Reichweite:** Siehe unten |
+| **Fläche:** Siehe unten | **Resistenz:** NA |
 
-Das Wirken dieses Zaubers ändert die Wirkungsdauer bestimmter anderer Zauber auf Permanent. Um diesen Zauber zu nutzen, wirkt der Magieanwender zuerst den Zauber, der permanent gemacht werden soll. Nach Abschluss des Wirkens jenes Zaubers wird dieser jedoch zurückgehalten, und ein zusätzlicher Aktionspunkt wird für das Wirken von Permanenz ausgegeben, woraufhin der ausgewählte Zauber in seiner permanenten Form gewirkt wird. Jeder permanent gemachte Zauber kostet den Zaubernden zusätzlich zu den normalen Zauberkosten des ursprünglichen Zaubers 2 Erfahrungspunkte sowie die erwähnten 3 Magiepunkte. Wenn während des Wirkens von Permanenz Magie bannen gewirkt wird, wird nicht nur die Permanenz gebannt, sondern auch der ursprüngliche Zauber.
+Das Wirken dieses Zaubers ändert die Wirkungsdauer bestimmter anderer Zauber auf Permanent. Um diesen Zauber zu verwenden, wirkt der Magieanwender zuerst den Zauber, der permanent gemacht werden soll. Nach Abschluss des Wirkens dieses Zaubers wird er jedoch zurückgehalten und ein zusätzlicher Aktionspunkt wird für das Wirken von Permanenz ausgegeben, woraufhin der ausgewählte Zauber in seiner permanenten Form gewirkt wird. Jeder permanent gemachte Zauber kostet den Zaubernden 2 Erfahrungswürfe sowie die erwähnten 3 Magiepunkte, zusätzlich zu den normalen Zauberkosten des ursprünglichen Zaubers. Wird während des Wirkens von Permanenz Magie bannen gewirkt, wird nicht nur die Permanenz gebannt, sondern auch der ursprüngliche Zauber.
 
-Permanenz ist auch eine Schlüsselanwendung bei der Erschaffung magischer Gegenstände mithilfe des Zaubers Gegenstand verzaubern. Zusätzlich zu den unten genannten Zaubern können mit Erlaubnis des Spielleiters auch andere Zauber permanent gemacht werden.
+Permanenz ist auch eine Schlüsselanwendung bei der Erschaffung magischer Gegenstände unter Verwendung des Zaubers Gegenstand verzaubern. Zusätzlich zu den unten genannten Zaubern können andere Zauber mit Erlaubnis des Spielleiters permanent gemacht werden.
 
-Die folgenden persönlichen Zauber, die nur den Zaubernden beeinflussen, profitieren von diesem Zauber. Sie können bei anderen Kreaturen nicht permanent gemacht werden:
+Die folgenden persönlichen Zauber, die nur den Zaubernden beeinflussen, profitieren von diesem Zauber. Sie können nicht auf andere Wesen permanent gemacht werden:
 
 - Abwenden
 - Koordination
@@ -2005,9 +2009,9 @@ Die folgenden persönlichen Zauber, die nur den Zaubernden beeinflussen, profiti
 - Magie lesen
 - Zungen
 
-Der Zauber Permanenz kann auch verwendet werden, um die folgenden Zauber, die auf andere Kreaturen, Objekte oder Bereiche gewirkt werden, permanent zu machen. Zauber, die mit einem Sternchen markiert sind, können nur auf ein Objekt oder einen Bereich permanent gemacht werden.
+Der Zauber Permanenz kann auch verwendet werden, um die folgenden Zauber, die auf andere Wesen, Gegenstände oder Gebiete gewirkt werden, permanent zu machen. Zauber, die mit einem Sternchen markiert sind, können nur auf einen Gegenstand oder ein Gebiet permanent gemacht werden.
 
-- Kälte
+- Kühlen
 - Reinigen
 - Tanzende Lichter\*
 - Furcht
@@ -2020,7 +2024,7 @@ Der Zauber Permanenz kann auch verwendet werden, um die folgenden Zauber, die au
 - Netz \* |
 
 ---
-#### Haustier
+#### Zähmen
 
 (Verzauberung (Bezauberung))
 
@@ -2029,9 +2033,9 @@ Der Zauber Permanenz kann auch verwendet werden, um die folgenden Zauber, die au
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Tier | **Wirkungsdauer:** Konzentration |
 | **Kosten:** 1 | **Reichweite:** Berührung |
-| **Bereich:** 1 Tier | **Widerstand:** Willenskraft |
+| **Fläche:** 1 Tier | **Resistenz:** Willenskraft |
 
-Haustier erlaubt es dem Zaubernden, die geistige Kontrolle über eine kleine Kreatur zu übernehmen und sie zum Spähen, Apportieren oder zur Erledigung anderer komplexer Aufgaben auszusenden. Er kann auf jede Kreatur gewirkt werden, deren Statur und Macht-Eigenschaften nicht mehr als die Hälfte des CHA des Zaubernden überschreiten. Wenn die Zielkreatur bereits das loyale Haustier des Zaubernden ist, muss sie dem Zauber nicht widerstehen. Während der Konzentration kann der Zaubernde auf die Sinne des Tieres zugreifen (Sehen, Riechen, Hören und so weiter).
+Zähmen erlaubt dem Zaubernden, die mentale Kontrolle über ein kleines Wesen zu übernehmen und es zum Kundschaften, Apportieren oder zur Ausführung anderer komplexer Aufgaben loszuschicken. Er kann auf jedes Wesen gewirkt werden, dessen GRÖ- und MAC-Eigenschaften jeweils nicht die Hälfte der CHA des Zaubernden überschreiten dürfen. Wenn das Zielwesen bereits das treue Haustier des Zaubernden ist, muss es dem Zauber nicht widerstehen. Während er sich konzentriert, kann der Zaubernde auf die Sinne des Tieres (Sehen, Riechen, Hören usw.) zugreifen.
 
 ---
 #### Ebenenwechsel
@@ -2043,11 +2047,11 @@ Haustier erlaubt es dem Zaubernden, die geistige Kontrolle über eine kleine Kre
 | **Rang:** Kleriker 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Astral | **Wirkungsdauer:** Permanent |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** Siehe unten | **Widerstand:** Willenskraft |
+| **Fläche:** Siehe unten | **Resistenz:** Willenskraft |
 
-Wenn dieser Zauber gewirkt wird, können der Kleriker und bis zu 7 weitere Personen (eine pro zusätzlichem Intensitätsgrad) zu einer anderen Existenzebene reisen. Alle müssen sich berühren und einen Kreis bilden, während der Kleriker den Zauber wirkt. Zudem kann der Zaubernde den Zauber auch verwenden, um eine Kreatur unabhängig von sich selbst – ob willig oder unwillig – zu einer Ebene nach Wahl des Zaubernden zu transportieren; Unwillige können jedoch einen Willenskraft-Wurf ausführen, um zu widerstehen, wobei ein Erfolg den Zauber negiert. Der genaue Ankunftspunkt ist selten der, den der Zaubernde wünscht. Wenn eine Hex-Karte verwendet wird, würfle 1W6, um die Richtung zu bestimmen, und 1W10x10 für die Entfernung in Meilen.
+Beim Wirken können der Kleriker und bis zu 7 weitere Personen (eine pro zusätzlicher Intensitätsstufe) in eine andere Existenzebene reisen. Jeder muss sich berühren und einen Kreis bilden, während der Kleriker den Zauber wirkt. Zusätzlich kann der Zaubernde den Zauber auch verwenden, um ein Wesen unabhängig von sich selbst zu transportieren, ob willentlich oder nicht, in eine Ebene nach Wahl des Zaubernden; allerdings können Unwillige einen Willenskraftwurf ablegen, um zu widerstehen, wobei ein Erfolg den Zauber annulliert. Der genaue Ankunftspunkt ist selten das, was sich der Zaubernde wünscht. Wenn eine Hex-Karte verwendet wird, würfle 1w6, um die Richtung zu bestimmen, und 1w10x10 für die Entfernung in Meilen.
 
-Zusätzlich zu generischen materiellen Komponenten erfordert das Wirken von Ebenenwechsel Stäbe aus verschiedenen seltenen Metallen, die jeweils speziell auf eine Existenzebene abgestimmt sind. Diese Stäbe sind selten und werden leicht auf jeweils 10.000 GP geschätzt.
+Zusätzlich zu jeglichen generischen materiellen Komponenten erfordert das Wirken von Ebenenwechsel Stäbe aus verschiedenen seltenen Metallen, die jeweils speziell auf eine Existenzebene abgestimmt sind. Diese Stäbe sind selten und werden leicht auf bis zu 10.000 GM pro Stück geschätzt.
 
 ---
 #### Polieren
@@ -2057,14 +2061,14 @@ Zusätzlich zu generischen materiellen Komponenten erfordert das Wirken von Eben
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 0, Magier 0 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Erschaffung | **Wirkungsdauer:** Augenblicklich |
+| **Sphäre:** Erschaffung | **Wirkungsdauer:** Sofort |
 | **Kosten:** 1 | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** Keine |
+| **Fläche:** 1 Ziel | **Resistenz:** Keine |
 
-Polieren bringt sofort einen Gegenstand – der in 'Dingen' oder Statur bis zur Macht des Zaubernden entspricht – auf Hochglanz, wodurch er glänzend, schimmernd und äußerst begehrenswert wird, selbst wenn die Qualität des Artikels unterdurchschnittlich ist. Der Gegenstand verliert seinen Glanz normalerweise mit der Zeit.
+Polieren poliert sofort einen Gegenstand – bis zu einer Menge oder GRÖ von bis zur MAC des Zaubernden – auf einen hohen Glanz, wodurch er glänzend, schimmernd und äußerst begehrenswert wird, selbst wenn die Qualität des Artikels unterdurchschnittlich ist. Der Gegenstand verliert seinen Glanz normalerweise mit der Zeit.
 
 ---
-#### Polymorph (Anderer)
+#### Polymorph Andere
 
 (Transmutation)
 
@@ -2072,33 +2076,33 @@ Polieren bringt sofort einen Gegenstand – der in 'Dingen' oder Statur bis zur 
 | :-- | :-- |
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Wirkungsdauer:** Permanent |
-| **Kosten:** 3, +1/zusätzliche Intensität (+1 Erf. Mod.) | **Reichweite:** 15 Fuß/Intensität |
-| **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
+| **Kosten:** 3, +1/zusätzliche Intensität (+1 ERF) | **Reichweite:** 15 Fuß/Intensität |
+| **Fläche:** 1 Ziel | **Resistenz:** Willenskraft |
 
-Der Zaubernde kann die Form einer körperlichen Zielkreatur in die einer anderen verändern, wobei jeder Punkt Intensität die Statur um bis zu 5 Punkte verändert. Daher würde die Verwandlung eines Orks der Statur 16 in ein Kaninchen der Statur 1 drei Intensitätsstufen erfordern (15 Staturpunkte Differenz). Dem Ziel dieses Zaubers ist ein Willenskraft-Wurf zum Widerstehen erlaubt. Große Kreaturen (Statur 21-40) sind weniger anfällig für eine Verwandlung, wobei ihr Widerstandswurf Leicht ist, während der Widerstandswurf für Riesige Kreaturen (Statur 41+) Sehr Leicht ist.
+Der Zaubernde kann die Form eines körperlichen Zielwesens in die eines anderen ändern, wobei jeder Punkt Intensität die GRÖ um bis zu 5 Punkte ändert. Daher würde die Verwandlung eines Orks mit GRÖ 16 in ein Kaninchen mit GRÖ 1 drei Intensitätsstufen erfordern (15 GRÖ-Punkte Differenz). Das Ziel dieses Zaubers darf einen Willenskraftwurf ablegen, um zu widerstehen. Große Wesen (GRÖ 21-40) sind weniger anfällig für eine Verwandlung, ihr Widerstandswurf ist Leicht, während der Widerstandswurf für Riesige Wesen (GRÖ 41+) Sehr Leicht ist.
 
-Der gesamte Verwandlungsprozess dauert eine volle Runde und kann für die betreffende Kreatur recht belastend sein, was einen zweiten Willenskraft-Wurf erfordert, um die ursprüngliche Persönlichkeit zu bewahren; ein Fehlschlag betäubt das Ziel für 1W10 Minuten, und ein Patzer führt zum Tod durch mentalen Schock. Jede Verdoppelung oder Halbierung der ursprünglichen Statur der Kreatur macht den Willenskraft-Wurf zur Bewahrung der Persönlichkeit um einen Grad schwieriger, ebenso wie eine vollständige Veränderung der Umgebung, zum Beispiel die Verwandlung einer Person in einen Fisch. Ein erfolgreicher Wurf erlaubt es dem Opfer, seine INT und CHA sowie alle Fertigkeiten, die diese Eigenschaften erfordern, beizubehalten.
+Der gesamte Verwandlungsprozess dauert eine volle Runde und kann für das betreffende Wesen recht belastend sein, was einen zweiten Willenskraftwurf erfordert, um die ursprüngliche Persönlichkeit zu behalten, wobei ein Fehlschlag das Subjekt für 1w10 Minuten betäubt und ein Patzer zum Tod durch mentalen Schock führt. Jede Verdoppelung oder Halbierung der ursprünglichen GRÖ des Wesens macht den Willenskraftwurf zum Behalten der Persönlichkeit um einen Grad schwieriger, ebenso wie ein vollständiger Umgebungswechsel, beispielsweise die Verwandlung einer Person in einen Fisch. Ein erfolgreicher Wurf erlaubt es dem Opfer, seine INT und CHA sowie alle Fertigkeiten, die diese Eigenschaften erfordern, beizubehalten.
 
-Die Verwandlung gewährt dem Empfänger die Atemform der angenommenen Kreatur, falls diese von der normalen abweicht; alle natürlichen Angriffe; und alle mundänen Fortbewegungsarten. Sie gewährt keine gesteigerten oder magischen Fähigkeiten, die die Kreatur besitzt. Zum Beispiel erhält eine Kreatur, die in einen Drachen verwandelt wurde, nicht den Odemangriff oder die zauberähnlichen Fähigkeiten der Kreatur, erhält aber die Fähigkeit zu fliegen, ihre zähe Haut, den tödlichen Biss, Klauenangriffe und so weiter. Zudem erhält das Opfer die körperlichen Fertigkeiten der neuen Form wie Athletik, Muskelkraft, Fliegen, Schwimmen sowie deren Trefferpunkte und Schad. Mod. Vorausgesetzt, das verwandelte Individuum hat seine INT behalten, verliert es dennoch die Fähigkeit zu sprechen, es sei denn, die neue Form besitzt die Fähigkeit, Worte zu artikulieren. Diejenigen, die in ihrer vorherigen Form Zauber wirken konnten, könnten dies auch in der neuen Form tun, vorausgesetzt, sie besitzen noch die Fähigkeit, die verbalen und somatischen Komponenten zu erzeugen. Im Falle einer drastischen Veränderung, wie zum Beispiel dem Wechsel von zweibeinig zu vierbeinig oder von einem Landtier zu einem Meerestier, sollte sich der Spielleiter frei fühlen, die Nutzung jeglicher Fertigkeiten, deren Erlernen Zeit in Anspruch nehmen würde, während der Anpassung an die neue Form um mindestens einen Schwierigkeitsgrad zu bestrafen, bis ausreichend Zeit zum Üben vorhanden war. Dies gilt insbesondere für körperliche Fertigkeiten wie Athletik, Unbewaffnet, Schwimmen, Fliegen, Kampffertigkeiten und so weiter.
+Die Verwandlung gewährt dem Empfänger die Art der Atmung der angenommenen Gestalt, falls diese anders als normal ist; alle natürlichen Angriffe; und alle gewöhnlichen Bewegungsarten. Sie gewährt keine gesteigerten oder magischen Fähigkeiten, die das Wesen besitzt. Zum Beispiel erhält ein Wesen, das in einen Drachen verwandelt wurde, nicht den Odemangriff oder die zauberähnlichen Fähigkeiten des Wesens, gewinnt aber die Fähigkeit zu fliegen, seine zähe Haut, seinen tödlichen Biss, seine Klauenangriffe usw. Zusätzlich erhält das Opfer die körperlichen Fertigkeiten der neuen Form wie Athletik, Muskelkraft, Fliegen, Schwimmen sowie dessen Trefferpunkte und Schad. Mod. Vorausgesetzt, das verwandelte Individuum hat seine INT behalten, verliert es dennoch die Fähigkeit zu sprechen, es sei denn, die neue Form besitzt die Fähigkeit, Worte zu artikulieren. Diejenigen, die in ihrer vorherigen Form Zauber wirken konnten, wären immer noch in der Lage, in der neuen Form zu wirken, vorausgesetzt, sie besitzen noch die Fähigkeit, die verbalen und somatischen Komponenten zu produzieren. Im Falle einer drastischen Veränderung, wie zum Beispiel die Verwandlung von einem Zweibeiner in einen Vierbeiner oder von einem Landtier in ein Meerestier, sollte der Spielleiter sich frei fühlen, die Nutzung jeglicher Fertigkeiten, deren Erlernung Zeit in Anspruch nehmen würde, während man sich an die neue Form anpasst, um mindestens einen Schwierigkeitsgrad zu bestrafen, bis genügend Zeit zum Üben vorhanden war. Dies gilt insbesondere für körperliche Fertigkeiten wie Athletik, Unbewaffnet, Schwimmen, Fliegen, Kampfstile usw.
 
-Der Willenskraft-Wurf zur Bewahrung der Persönlichkeit ist jeden Tag erforderlich, den das Subjekt verwandelt bleibt, bis er misslingt, was dazu führt, dass die Person schließlich der Mentalität der neuen Form erliegt, wobei sich INT bei einer nicht-sapienten Kreatur zu Macht ändert. Alle speziellen und magischen Fähigkeiten, die die neue Form besitzt und die nicht zuvor erworben wurden, wie Blickangriffe, Odemwaffen und so weiter, stehen der Kreatur nun zur Verfügung, da die Verwandlung abgeschlossen ist. Charaktere, die auf diese Weise ihre Identität verlieren, werden zu Nicht-Spieler-Charakteren unter der Kontrolle des Spielleiters.
+Der Willenskraftwurf, um seine Persönlichkeit zu behalten, ist jeden Tag erforderlich, solange das Subjekt verwandelt bleibt, bis er misslingt, was dazu führt, dass die Person schließlich der Mentalität der neuen Form erliegt, wobei sich INT bei einem nicht-intelligenten Wesen in EINS ändert. Alle besonderen und magischen Fähigkeiten, die die neue Form besitzt und die zuvor nicht erworben wurden, wie Blickangriffe, Odemwaffen usw., stehen dem Wesen nun zur Verfügung, da die Verwandlung abgeschlossen ist. Charaktere, die auf diese Weise ihre Identität verlieren, werden zu Nicht-Spieler-Charakteren unter der Kontrolle des Spielleiters.
 
-Bevor sie mental der Verwandlung erliegt, ist die polymorphierte Kreatur wie gewohnt anfällig für Magie bannen, ohne dass ein Widerstandswurf erforderlich ist, da es der unterbewusste Wunsch des Opfers wäre, wieder normal zu werden. Die Verwandlung erfordert einen weiteren Willenskraft-Wurf, um der Belastung zu widerstehen; ein Fehlschlag betäubt das Subjekt für 1W10 Minuten, und ein Patzer führt zum Tod durch mentalen Schock.
+Bevor das Opfer mental der Verwandlung erliegt, ist das verwandelte Wesen anfällig für Magie bannen wie gewohnt, wobei kein Widerstandswurf erforderlich ist, da es der unterbewusste Wunsch wäre, zur Normalität zurückzukehren. Die Verwandlung erfordert einen weiteren Willenskraftwurf, um der Belastung zu widerstehen, wobei ein Fehlschlag das Subjekt für 1w10 Minuten betäubt und ein Patzer zum Tod durch mentalen Schock führt.
 
-Wenn das Opfer bereits der neuen Form erlegen war, kann Magie bannen immer noch verwendet werden; das Opfer wird jedoch versuchen, einer Rückkehr in die natürliche Form mit einem Willenskraft-Wurf zu widerstehen. Das Scheitern dieses Wurfs bedeutet, dass sich das Opfer in die natürliche Form zurückverwandelt, was natürlich einen weiteren Willenskraft-Wurf erfordert, um dem mentalen Schock der Verwandlung zu widerstehen. Einmal verloren, ist die natürliche Identität eines Opfers nicht mehr erreichbar; stattdessen geht das Opfer davon aus, dass die seltsame und fremdartige Form nicht natürlich ist, und sehnt sich danach, in seinen früheren 'normalen' Zustand zurückversetzt zu werden. _Beispiel: Ein Ork, der in ein Kaninchen verwandelt wurde und die Identität der Kreatur annahm, würde glauben, dass er jetzt ein Kaninchen ist, das ziemlich unhöflich in einen Ork verwandelt wurde._ Nur ein Wunsch oder ähnliche Magie hat eine Chance, die Identität des Opfers wiederherzustellen, sobald sie verloren gegangen ist.
+Wenn das Opfer bereits der neuen Form erlegen war, kann Magie bannen immer noch verwendet werden; jedoch wird das Opfer versuchen, der Rückkehr in die natürliche Form mit einem Willenskraftwurf zu widerstehen. Ein Fehlschlag dieses Wurfs bedeutet, dass sich das Opfer in die natürliche Form zurückverwandelt, was natürlich einen weiteren Willenskraftwurf erfordert, um dem mentalen Schock der Verwandlung zu widerstehen. Sobald verloren, ist die natürliche Identität eines Opfers nicht mehr erreichbar; stattdessen geht das Opfer davon aus, dass die seltsame und fremde Form nicht natürlich ist, und sehnt sich danach, in seine frühere „normale“ Form zurückgebracht zu werden. *Zum Beispiel würde ein Ork, der in ein Kaninchen verwandelt wurde und die Identität des Wesens angenommen hat, glauben, dass er jetzt ein Kaninchen ist, das ziemlich unhöflich in einen Ork verwandelt wurde.* Nur ein Wunsch oder ähnliche Magie hat eine Chance, die Identität des Opfers wiederherzustellen, sobald sie verloren gegangen ist.
 
-Alle getragene und mitgeführte Ausrüstung verschmilzt magisch mit der neuen Form; in manchen Fällen kann der Spielleiter jedoch erlauben, dass magische Gegenstände, die in der neuen Form der Kreatur noch verwendet werden könnten, verbleiben, wie ein magischer Ring oder Stiefel. Beachte, dass dies erfordert, dass die neue Statur der Kreatur sich nicht massiv von der ursprünglichen unterscheidet. Es besteht eine Chance von Macht x1% für jeden getragenen magischen Gegenstand nicht-offensiver Art, vorbehaltlich der Zustimmung des Spielleiters, seine Effekte auf die neue Form der Kreatur zu übertragen. Eine Kreatur mit einem +1 Ring des Schutzes könnte zum Beispiel einen Bonus von +1 auf ihre natürlichen Rüstungspunkte erhalten. Kreaturen mit der natürlichen Fähigkeit zur Gestaltwandlung, wie Doppelgänger und Lykantrophen, werden wie gewohnt verwandelt, können aber nach 1 Runde ihre normale Form annehmen. Wird eine polymorphierte Kreatur getötet, kehrt sie in ihre natürliche Form zurück, selbst wenn sie zuvor alle Spuren ihrer Identität verloren hat.
+Alle getragenen Ausrüstungsgegenstände verschmelzen magisch mit der neuen Form; in einigen Fällen kann der Spielleiter jedoch erlauben, dass magische Gegenstände, die in der neuen Form des Wesens noch verwendet werden könnten, erhalten bleiben, wie ein magischer Ring oder Stiefel. Beachte, dass dies erfordert, dass die neue GRÖ des Wesens nicht wesentlich von der ursprünglichen abweicht. Es besteht eine Chance von MAC x1 % für jeden getragenen magischen Gegenstand nicht-offensiver Natur, vorbehaltlich der Genehmigung durch den Spielleiter, seine Effekte auf die neue Form des Wesens zu übertragen. Ein Wesen mit einem Ring des Schutzes +1 könnte zum Beispiel einen Bonus von +1 auf seine natürlichen Rüstungspunkte erhalten. Wesen mit der natürlichen Fähigkeit zur Gestaltwandlung, wie Doppelgänger und Lykantrophen, werden wie gewohnt verwandelt, können aber nach 1 Runde ihre normale Form annehmen. Wird ein verwandeltes Wesen getötet, kehrt es in seine natürliche Form zurück, selbst wenn es zuvor alle Spuren seiner Identität verloren hat.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3, +1 Erf. Mod. | 15 Fuß Reichweite; 1-5 Staturpunkte Differenz |
-| 2 | 4, +1 Erf. Mod. | 30 Fuß Reichweite; 6-10 Staturpunkte Differenz |
-| 3 | 5, +1 Erf. Mod. | 45 Fuß Reichweite; 11-15 Staturpunkte Differenz |
-| 4 | 6, +1 Erf. Mod. | 60 Fuß Reichweite; 16-20 Staturpunkte Differenz |
-| +1 | +1 | Fortsetzung der Progression |
+| 1 | 3, +1 ERF | 15 Fuß Reichweite; 1-5 GRÖ-Punkte Differenz |
+| 2 | 4, +1 ERF | 30 Fuß Reichweite; 6-10 GRÖ-Punkte Differenz |
+| 3 | 5, +1 ERF | 45 Fuß Reichweite; 11-15 GRÖ-Punkte Differenz |
+| 4 | 6, +1 ERF | 60 Fuß Reichweite; 16-20 GRÖ-Punkte Differenz |
+| +1 | +1 | Setzt Progression fort |
 
 ---
-#### Polymorph (Selbst)
+#### Polymorph Selbst
 
 (Transmutation)
 
@@ -2107,24 +2111,24 @@ Alle getragene und mitgeführte Ausrüstung verschmilzt magisch mit der neuen Fo
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Wirkungsdauer:** 20 Minuten/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 0 |
-| **Bereich:** Zaubernder | **Widerstand:** N/V |
+| **Fläche:** Zaubernder | **Resistenz:** NA |
 
-Der Zaubernde kann die Form jeder anderen körperlichen Kreatur annehmen, von so klein wie Statur 1 bis zu Statur 40. Jeder Punkt Intensität erlaubt eine Zunahme oder Abnahme von bis zu 10 Staturpunkten. Daher könnte ein Magieanwender der Statur 13 die Gestalt eines Grizzlybären der Statur 34 auf 3 Intensitätsstufen annehmen. Der Verwandlungsprozess dauert eine volle Runde und gewährt dem Zaubernden die Atemform der angenommenen Kreatur (falls diese von der eigenen abweicht, zum Beispiel Wasseratmen), alle natürlichen Angriffe, Trefferpunkte, Schad. Mod. und deren normale Fortbewegungsart. Er gewährt keine gesteigerten oder magischen Fähigkeiten, die die Kreatur besitzt. Ein Magieanwender, der sich zum Beispiel in einen Falken verwandelt hat, erhält nicht das außergewöhnliche Sehvermögen des Vogels. Der Zaubernde erhält die körperlichen Fertigkeiten der Kreatur wie Athletik, Muskelkraft, Fliegen, Schwimmen usw., behält aber alle geistigen und sozialen Fertigkeiten bei (jene, die INT und CHA erfordern). Der Zaubernde verliert die Fähigkeit zu sprechen, es sei denn, die betreffende Kreatur besitzt die Fähigkeit, Worte zu artikulieren. Falls dies der Fall ist, kann der Zaubernde in der neuen Form immer noch zaubern, vorausgesetzt, er kann die somatischen Komponenten eines Zaubers bilden.
+Der Zaubernde kann die Form jedes anderen körperlichen Wesens annehmen, von so klein wie GRÖ 1 bis zu GRÖ 40. Jeder Intensitätspunkt erlaubt eine Erhöhung oder Verringerung von bis zu 10 Punkten GRÖ. Daher könnte ein Magieanwender mit GRÖ 13 die Gestalt eines Grizzlybären mit GRÖ 34 bei 3 Intensitätsstufen annehmen. Der Verwandlungsprozess dauert eine volle Runde und gewährt dem Zaubernden die Art der Atmung der angenommenen Gestalt (falls diese anders als die eigene ist, z. B. unter Wasser atmen), alle natürlichen Angriffe, Trefferpunkte, Schad. Mod. und seine normale Bewegungsart. Er gewährt keine gesteigerten oder magischen Fähigkeiten, die das Wesen besitzt. Ein Magieanwender, der sich zum Beispiel in einen Falken verwandelt hat, erhält nicht die außergewöhnliche Sehkraft des Vogels. Der Zaubernde erhält die körperlichen Fertigkeiten des Wesens wie Athletik, Muskelkraft, Fliegen, Schwimmen usw., behält aber alle mentalen und sozialen Fertigkeiten (die INT und CHA erfordern). Der Zaubernde verliert die Fähigkeit zu sprechen, es sei denn, das betreffende Wesen besitzt die Fähigkeit, Worte zu artikulieren. Wenn dies der Fall ist, kann der Zaubernde in der neuen Form immer noch zaubern, vorausgesetzt, der Zaubernde kann die somatischen Komponenten eines Zaubers bilden.
 
-Der Zaubernde kann den Effekt jederzeit beenden, wobei alle Leichten Wunden, die in der neuen Form erlitten wurden, verloren gehen und Schwere Wunden zu Leichten Wunden reduziert werden (die Hälfte der in der jeweiligen Zone verlorenen Trefferpunkte). Schwere Wunden sind von der Verwandlung nicht betroffen und werden in die natürliche Form übertragen. Es gibt keine Heilung, wenn sich der Zaubernde von der natürlichen in die Tierform verwandelt.
+Der Zaubernde kann den Effekt jederzeit beenden, und dabei gehen alle Kleinen Wunden, die in der neuen Form erlitten wurden, verloren, und Schwere Wunden werden auf Kleine Wunden reduziert (Hälfte der in jedem betroffenen Bereich verlorenen Trefferpunkte). Schwere Wunden sind von der Verwandlung nicht betroffen und bleiben in der natürlichen Form bestehen. Es gibt keine Heilung, wenn sich der Zaubernde von der natürlichen in die Tierform verwandelt.
 
-Polymorph unterliegt Magie bannen. In diesem Fall profitiert der Zaubernde nicht von der Heilung. Wird der Zaubernde getötet, kehrt er in die natürliche Form zurück. Wenn er in ein fliegendes Wesen verwandelt wird und einen Fertigkeitswurf auf Fliegen ablegen muss, können Athletik oder Akrobatik mit zwei Schwierigkeitsgraden Abzug substituiert werden. Ein Charakter, der diese Form häufig nutzt, kann sich jedoch dazu entscheiden, die Fertigkeit Fliegen normal mit einem Basiswert von STÄ+GES zu entwickeln.
+Polymorph unterliegt Magie bannen. In diesem Fall profitiert der Zaubernde nicht von der Heilung. Wenn er getötet wird, kehrt der Zaubernde in die natürliche Form zurück. Wenn er in ein fliegendes Wesen verwandelt wurde und einen Fliegen-Fertigkeitswurf ablegen muss, können Athletik oder Akrobatik mit zwei Schwierigkeitsgraden Abzug substituiert werden. Ein Charakter, der diese Form häufig nutzt, kann sich jedoch entscheiden, die Fliegen-Fertigkeit normalerweise mit einem Basiswert von STÄ+GES zu entwickeln.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 20 Min.; 1-10 Staturpunkte Differenz |
-| 2 | 4 | 40 Min.; 11-20 Staturpunkte Differenz |
-| 3 | 5 | 60 Min.; 21-30 Staturpunkte Differenz |
-| 4 | 6 | 80 Min.; 31-40 Staturpunkte Differenz |
-| +1 | +1 | Fortsetzung der Progression |
+| 1 | 3 | 20 Min.; 1-10 GRÖ-Punkte Differenz |
+| 2 | 4 | 40 Min.; 11-20 GRÖ-Punkte Differenz |
+| 3 | 5 | 60 Min.; 21-30 GRÖ-Punkte Differenz |
+| 4 | 6 | 80 Min.; 31-40 GRÖ-Punkte Differenz |
+| +1 | +1 | Setzt Progression fort |
 
 ---
-#### Machtwort – Blindheit
+#### Machtwort – Blind
 
 (Beschwörung)
 
@@ -2133,24 +2137,24 @@ Polymorph unterliegt Magie bannen. In diesem Fall profitiert der Zaubernde nicht
 | **Rang:** Magier 4 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Wirkungsdauer:** Siehe unten |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 20 Fuß/Intensität |
-| **Bereich:** 15 Fuß Radius | **Widerstand:** Konstitution |
+| **Fläche:** 15 Fuß Radius | **Resistenz:** Konstitution |
 
-Nach erfolgreichem Wirken dieses Zaubers wird eine Kreatur nach Wahl des Zaubernden innerhalb von Sichtlinie und Reichweite blind, ebenso wie alle anderen in einem Radius von 15 Fuß, die einen Widerstandswurf misslingen. Diese Blindheit kann durch das Wirken von Blindheit heilen oder Magie bannen geheilt werden. Die Wirkungsdauer des Zaubers wird durch den Rang oder die Statur des Ziels modifiziert, je nachdem, was das vorteilhaftere Ergebnis liefert. Dies ist in der folgenden Tabelle detailliert.
+Nach dem erfolgreichen Wirken dieses Zaubers wird ein Wesen der Wahl des Zaubernden innerhalb von Sichtlinie und Reichweite blind, zusammen mit allen anderen in einem Umkreis von 15 Fuß, die einen Widerstandswurf nicht bestehen. Diese Blindheit kann durch das Wirken von Blindheit heilen oder Magie bannen geheilt werden. Die Wirkungsdauer des Zaubers wird durch den Rang oder die GRÖ des Ziels modifiziert, je nachdem, was das vorteilhaftere Ergebnis liefert. Dies ist in der folgenden Tabelle detailliert.
 
-| Ziel-Rang | Ziel-Statur | Wirkungsdauer |
+| Ziel-Rang | Ziel-GRÖ | Wirkungsdauer |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 1W4+1 x10 Minuten\*\* |
-| 2 | 21-40 | 1W4+1 Minuten |
-| 3 | 41-60 | 1W4+1 Runden |
-| 4 | 61-80 | 1W3 Runden |
+| 0-1\* | 1-20 | 1w4+1 x10 Minuten\*\* |
+| 2 | 21-40 | 1w4+1 Minuten |
+| 3 | 41-60 | 1w4+1 Runden |
+| 4 | 61-80 | 1w3 Runden |
 | 5 | 81+ | 1 Runde |
 
-_\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen._
+*\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen.*
 
-_\*\* Wenn sich nur ein bis drei Kreaturen im Wirkungsbereich befinden, sind die Effekte permanent, bis sie magisch behandelt werden._
+*\*\* Wenn nur ein bis drei Wesen im Wirkungsbereich sind, sind die Effekte permanent, bis sie magisch behandelt werden.*
 
 ---
-#### Machtwort – Tod
+#### Machtwort – Töten
 
 (Beschwörung)
 
@@ -2158,24 +2162,24 @@ _\*\* Wenn sich nur ein bis drei Kreaturen im Wirkungsbereich befinden, sind die
 | :-- | :-- |
 | **Rang:** Magier 5 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Wirkungsdauer:** Permanent |
-| **Kosten:** 3/Intensität, +3 Erf. Mod. | **Reichweite:** 20 Fuß/Intensität |
-| **Bereich:** 10 Fuß Radius | **Widerstand:** Konstitution |
+| **Kosten:** 3/Intensität, +3 ERF | **Reichweite:** 20 Fuß/Intensität |
+| **Fläche:** 10 Fuß Radius | **Resistenz:** Konstitution |
 
-Das erfolgreiche Wirken dieses Zaubers tötet entweder eine einzelne Kreatur bis Rang 3 oder Statur 60 (oder 4 Kreaturen pro Intensität mit einer Statur von nicht mehr als 20), die einen Widerstandswurf misslingen. Dieser Zauber ist für den Zaubernden extrem kräftezehrend, wobei jedes Wirken den automatischen Verlust einer Stufe Ermüdung verursacht. Alle potenziellen Ziele müssen innerhalb des Wirkungsbereichs liegen, wie beim Wirken des Zaubers festgelegt. Die erforderliche Intensität hängt vom Rang oder der Statur des Ziels ab, je nachdem, was dem Ziel das vorteilhaftere Ergebnis liefert, wie in der folgenden Tabelle detailliert.
+Das erfolgreiche Wirken dieses Zaubers tötet entweder ein einzelnes Wesen bis zu Rang 3 oder GRÖ 60 (oder 4 Wesen pro Intensität mit nicht mehr als GRÖ 20), die einen Widerstandswurf nicht bestehen. Dieser Zauber ist extrem anstrengend für den Zaubernden, wobei jedes Wirken den automatischen Verlust einer Stufe Ermüdung verursacht. Alle potenziellen Ziele müssen innerhalb der Fläche liegen, wie beim Wirken des Zaubers bestimmt. Die erforderliche Intensität hängt vom Rang oder der GRÖ des Ziels ab, je nachdem, was dem Ziel das vorteilhaftere Ergebnis liefert, wie in der folgenden Tabelle detailliert.
 
-| Ziel-Rang | Ziel-Statur | Intensität |
+| Ziel-Rang | Ziel-GRÖ | Intensität |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 1 Intensität +3 Erf. Mod. zum Töten |
-| 2 | 21-40 | 2 Intensität +3 Erf. Mod. zum Töten |
-| 3 | 41-60 | 3 Intensität +3 Erf. Mod. zum Töten |
+| 0-1\* | 1-20 | 1 Intensität +3 ERF zum Töten |
+| 2 | 21-40 | 2 Intensität +3 ERF zum Töten |
+| 3 | 41-60 | 3 Intensität +3 ERF zum Töten |
 | 4-5 | 61+ | Keine Wirkung |
 
-_\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen._
+*\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen.*
 
-Kreaturen mit einer Statur von mehr als 60 sind unbeeinflusst, ebenso wie Charaktere ab Rang 4. Im Gegensatz zum Zauber Tod tötet Machtwort – Tod alles innerhalb der oben genannten Grenzen, allerdings ist es möglich, Opfer durch das Wirken von Wunsch, Tote erwecken, Auferstehung und Reinkarnation wie gewohnt wieder ins Leben zurückzuholen.
+Wesen mit GRÖ über 60 sind unbeeinflusst, ebenso wie Charaktere ab Rang 4. Im Gegensatz zum Todeszauber tötet Machtwort – Töten alles innerhalb der oben genannten Grenzen, jedoch ist es möglich, Opfer durch das Wirken von Wunsch, Tote erwecken, Auferstehung und Reinkarnation wie gewohnt wieder zum Leben zu erwecken.
 
 ---
-#### Machtwort – Betäubung
+#### Machtwort – Betäuben
 
 (Beschwörung)
 
@@ -2184,19 +2188,19 @@ Kreaturen mit einer Statur von mehr als 60 sind unbeeinflusst, ebenso wie Charak
 | **Rang:** Magier 3 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Wirkungsdauer:** Siehe unten |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 20 Fuß/Intensität |
-| **Bereich:** 1 Ziel | **Widerstand:** Konstitution |
+| **Fläche:** 1 Ziel | **Resistenz:** Konstitution |
 
-Nach erfolgreichem Wirken dieses Zaubers ist eine Kreatur nach Wahl des Zaubernden innerhalb von Sichtlinie und Reichweite, die einen Widerstandswurf misslingt, betäubt. Das Opfer ist kurzzeitig handlungsunfähig gemacht und darf nur Reaktive Aktionen defensiver Art ausführen. Die Wirkungsdauer wird durch den Rang oder die Statur des Ziels modifiziert, je nachdem, was für das Ziel das vorteilhaftere Ergebnis liefert. Dies ist in der folgenden Tabelle detailliert. Diese Betäubung kann vor Ablauf der Wirkungsdauer durch das Wirken von Magie bannen geheilt werden.
+Nach dem erfolgreichen Wirken dieses Zaubers wird ein Wesen der Wahl des Zaubernden innerhalb von Sichtlinie und Reichweite, das einen Widerstandswurf nicht besteht, betäubt. Das Opfer wird kurzzeitig besinnungslos gemacht und darf nur reaktive Aktionen defensiver Art ausführen. Die Wirkungsdauer wird durch den Rang oder die GRÖ des Ziels modifiziert, je nachdem, was das vorteilhaftere Ergebnis für das Ziel liefert. Dies ist in der folgenden Tabelle detailliert. Diese Betäubung kann vor Ablauf der Wirkungsdauer durch das Wirken von Magie bannen geheilt werden.
 
-| Ziel-Rang | Ziel-Statur | Wirkungsdauer |
+| Ziel-Rang | Ziel-GRÖ | Wirkungsdauer |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 4W4 Runden |
-| 2 | 21-40 | 2W4 Runden |
-| 3 | 41-60 | 1W4 Runden |
+| 0-1\* | 1-20 | 4w4 Runden |
+| 2 | 21-40 | 2w4 Runden |
+| 3 | 41-60 | 1w4 Runden |
 | 4 | 61-80 | 1 Runde |
 | 5 | 81+ | Unbeeinflusst |
 
-_\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen._
+*\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen.*
 
 ---#### Gebet
 
@@ -2209,10 +2213,10 @@ _\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen._
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 0 |
 | **Bereich:** 60 Fuß Radius | **Widerstand:** KE |
 
-Beim Wirken segnet dieser Zauber den Kleriker und alle Verbündeten innerhalb des Wirkungsbereichs, während er die Gegner verflucht. Verbündeten wird ein temporärer Bonus von +5 % auf alle Fertigkeits- und Widerstandswürfe sowie ein Bonus von +1 auf allen verursachten Schaden gewährt, während Feinde einen Abzug von -5 % und -1 auf Schadensreduktion erhalten. Dieser Zauber kann zusammen mit „Gesang“ gewirkt werden, wenn er entweder von demselben Kleriker oder einem anderen Kleriker derselben Religion gesprochen wird, wodurch sich beide Effekte stapeln lassen, was einen Bonus von +10 % auf Fertigkeiten und +2 auf Schaden gewährt, während Feinde das Gegenteil erhalten.
+Beim Wirken segnet dieser Zauber den Kleriker und alle Verbündeten innerhalb des Wirkungsbereichs, während er jene verflucht, die sich in Opposition befinden. Verbündete erhalten einen vorübergehenden Bonus von +5 % auf alle Fertigkeits- und Widerstandswürfe sowie einen Bonus von +1 auf allen verursachten Schaden, während Feinde einen Abzug von -5 % und -1 Schadensreduzierung erhalten. Dieser Zauber kann zusammen mit „Gesang“ gewirkt werden, wenn er entweder vom selben Kleriker oder von einem anderen Kleriker derselben Religion gesprochen wird; dadurch summieren sich beide Effekte, was einen Bonus von +10 % auf Fertigkeiten und +2 auf Schaden gewährt, während Feinde den gegenteiligen Effekt erleiden.
 
 ---
-#### Wetter Vorhersagen
+#### Wettervorhersage
 
 (Divination)
 
@@ -2223,7 +2227,7 @@ Beim Wirken segnet dieser Zauber den Kleriker und alle Verbündeten innerhalb de
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
 | **Bereich:** 5 Meilen Radius | **Widerstand:** KE |
 
-Dieser Zauber erlaubt es dem Zaubernden, das Wetter innerhalb eines Radius von 5 Meilen mit 100-prozentiger Sicherheit vorherzusagen. Diese Vorhersage gilt für die nächsten 4 Stunden pro Intensitätsstufe und umfasst Temperatur, Niederschlag, Schneehöhe, Windgeschwindigkeit und so weiter.
+Dieser Zauber erlaubt es dem Wirker, das Wetter innerhalb eines Radius von 5 Meilen mit 100-prozentiger Sicherheit vorherzusagen. Diese Vorhersage gilt für die nächsten 4 Stunden pro Stufe der Intensität und umfasst Temperatur, Niederschlag, Schneeansammlung, Windgeschwindigkeit und so weiter.
 
 ---
 #### Konservieren
@@ -2233,11 +2237,11 @@ Dieser Zauber erlaubt es dem Zaubernden, das Wetter innerhalb eines Radius von 5
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 0, Magier 0 | **Zauberzeit:** 1 Runde |
-| **Sphäre:** Tier, Pflanze | **Dauer:** 1w3 Monate |
+| **Sphäre:** Tier, Pflanze | **Dauer:** 1d3 Monate |
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** Siehe unten | **Widerstand:** KE |
 
-Konservieren verhindert durch Sterilisation, dass organisches Material – sowohl pflanzlicher als auch tierischer Herkunft – durch Bakterien verfault oder verwest, und zwar für 1w3 Monate. Wird das Material später geräuchert, eingelegt oder gesalzen, ist es auf unbestimmte Zeit haltbar. Der Zauber kann bereits begonnenen Verfall aufhalten, ihn aber nicht rückgängig machen. Der Zaubernde kann eine Menge an organischem Material beeinflussen, die in „Dingen“ oder Statur (GRÖ) ihrer Macht (MAC) entspricht.
+Konservieren verhindert durch Sterilisation, dass organische Materie, sowohl pflanzliche als auch tierische, durch Bakterien verfällt und verwest – und das für 1d3 Monate. Wenn das Material später geräuchert, eingelegt oder gesalzen wird, bleibt es unbegrenzt konserviert. Der Zauber kann bereits begonnenen Verfall aufhalten, aber nicht umkehren. Der Wirker kann eine Menge an organischer Materie beeinflussen, die in „Dingen“ oder STÄ ihrer MAC entspricht.
 
 ---
 #### Schutz
@@ -2251,10 +2255,10 @@ Konservieren verhindert durch Sterilisation, dass organisches Material – sowoh
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** KE |
 
-Schutz ist bei einer Vielzahl von Aufgaben nützlich, bei denen das Risiko einer versehentlichen Verletzung besteht, wie etwa bei der Arbeit in einer Gießerei oder einem Bergwerk. Sobald der Charakter zum ersten Mal Schaden erleidet, der Schutzkleidung oder Rüstung durchdringt, wird der Schutzzauber ausgelöst und reduziert den erlittenen Schaden um 1w3 Punkte. Danach verfliegt der Zauber. Dieser Zauber ist mit allen anderen Formen von Schutzmagie stapelbar. Der Zauber schützt nur vor physischem Schaden und hilft daher nicht gegen Ereignisse wie Feuer, Ersticken und so weiter. Die Magier-Version dieses Zaubers kann nur auf sich selbst gewirkt werden.
+Schutz ist nützlich für eine Vielzahl von Aufgaben, bei denen das Risiko einer versehentlichen Verletzung besteht, wie z. B. bei der Arbeit in einer Gießerei oder Mine. Wenn der Charakter das erste Mal Schaden erleiden würde, der Schutzkleidung oder Rüstung durchdringt, löst der Zauber „Schutz“ aus und reduziert den erlittenen Schaden um 1d3 Punkte. Danach löst sich der Zauber auf. Dieser Zauber ist mit allen anderen Formen von Schutzmagie stapelbar. Der Zauber schützt nur vor physischem Schaden und hilft daher nicht gegen Ereignisse wie Feuer, Ersticken usw. Die Magierversion dieses Zaubers kann nur auf den Wirker selbst gewirkt werden.
 
 ---
-#### Schutz vor Kälte
+#### Kälteschutz
 
 (Abjuration)
 
@@ -2265,17 +2269,17 @@ Schutz ist bei einer Vielzahl von Aufgaben nützlich, bei denen das Risiko einer
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** KE |
 
-Wenn dieser Zauber gewirkt wird, bildet sich ein unsichtbares Feld, das vollständigen Schutz vor allen Formen natürlicher Kälte bietet. Wenn es auf einen selbst gewirkt wird, bietet das Feld außerdem vollständigen Schutz vor kältebasiertem Schaden (Atem weißer Drachen, Eiskegel, Metall kühlen usw.) und absorbiert 12 Punkte Kälteschaden pro Intensität. Sobald dieses Feld aufgebraucht ist, wird jeglicher verbleibende Schaden dieses Angriffs vor der Anwendung halbiert.
+Wenn dieser Zauber gewirkt wird, bildet sich ein unsichtbares Feld, das vollständigen Schutz vor allen Formen natürlicher Kälte bietet. Wenn es auf einen selbst gewirkt wird, bietet das Feld außerdem vollständigen Schutz vor kältebasiertem Schaden (Weißdrachen-Atem, Kältekegel, Metall kühlen usw.) und absorbiert 12 Punkte Kälteschaden pro Intensität. Sobald dieses Feld aufgebraucht ist, wird jeglicher verbleibende überschüssige Schaden dieses Angriffs halbiert, bevor er angewendet wird.
 
-Wenn er auf jemand anderen als einen selbst gewirkt wird, wird ebenfalls vollständiger Schutz vor natürlicher Kälte gewährt. Zusätzlich wird der Schaden durch magische Kälteangriffe halbiert.
+Wenn der Zauber auf jemand anderen als einen selbst gewirkt wird, wird ebenfalls vollständiger Schutz vor natürlicher Kälte gewährt. Zusätzlich wird der Schaden durch magische Kälteangriffe halbiert.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 Min.; 12 Punkte Kälteschutz auf sich selbst |
-| 2 | 4 | 30 Min.; 24 Punkte Kälteschutz auf sich selbst |
-| 3 | 5 | 45 Min.; 36 Punkte Kälteschutz auf sich selbst |
-| 4 | 6 | 60 Min.; 48 Punkte Kälteschutz auf sich selbst |
-| +1 | +1 | Setzt Progression fort |
+| 1 | 3 | 15 Min.; 12 Punkte Kälteschutz bei sich selbst |
+| 2 | 4 | 30 Min.; 24 Punkte Kälteschutz bei sich selbst |
+| 3 | 5 | 45 Min.; 36 Punkte Kälteschutz bei sich selbst |
+| 4 | 6 | 60 Min.; 48 Punkte Kälteschutz bei sich selbst |
+| +1 | +1 | Progression fortsetzen |
 
 ---
 #### Schutz vor Bösem (U)
@@ -2289,20 +2293,20 @@ Wenn er auf jemand anderen als einen selbst gewirkt wird, wird ebenfalls vollst�
 | **Kosten:** 1/Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** KE |
 
-Beim Wirken strahlt eine unsichtbare Aura aus magischer Rüstung vom Empfänger des Zaubers aus (was der Zaubernde selbst sein kann), die drei verschiedene Verteidigungsstufen gewährt.
+Beim Wirken strahlt eine unsichtbare Aura aus magischer Rüstung vom Empfänger des Zaubers aus (der auch der Wirker sein kann), was drei verschiedene Verteidigungsstufen gewährt.
 
-Erstens erhalten Angriffe von Kreaturen mit einer bösen Gesinnung einen Abzug von -10 % auf ihre Kampfstile oder Unbewaffnet-Fertigkeit. Widerstandswürfe des Empfängers von Schutz vor Bösem erhalten einen Bonus von +10 %, jedoch nur gegen böse Kreaturen.
+Erstens erhalten Angriffe von Kreaturen mit einer bösen Gesinnung einen Abzug von -10 % auf ihren Kampfstil oder ihre Fertigkeit „Unbewaffnet“. Widerstandswürfe des Empfängers von Schutz vor Bösem erhalten einen Bonus von +10 %, jedoch nur gegen böse Kreaturen.
 
-Zweitens dürfen weder beschworene noch herbeigerufene Kreaturen noch Wesen, die nicht von der materiellen Ebene stammen, physischen Kontakt mit dem Empfänger aufnehmen. Dies umfasst Dämonen, Teufel, Dschinns, Elementare, Luftgeister, Salamander und so weiter. Natürliche Angriffe dieser Kreaturen führen dazu, dass sie zurückweichen und somit den Kontakt nicht herstellen können. Dies schließt auch Monster oder Kreaturen ein, die durch Zauber oder Gegenstände herbeigerufen oder beschworen wurden. Waffen, die von solchen Kreaturen geführt werden, können jedoch in die magische Barriere eindringen und die geschützte Person treffen.
+Zweitens dürfen weder beschworene noch herbeigerufene Kreaturen oder Wesen, die nicht von der materiellen Ebene stammen, physischen Kontakt mit dem Empfänger herstellen. Dies umfasst Dämonen, Teufel, Dschinns, Elementare, Luftwesen, Salamander usw. Natürliche Angriffe dieser Kreaturen führen dazu, dass sie zurückweichen, wodurch sie den Kontakt verfehlen. Dies schließt auch alle Monster oder Kreaturen ein, die durch Zauber oder Gegenstände herbeigerufen oder beschworen wurden. Von solchen Kreaturen gehaltene Waffen können jedoch dennoch in die magische Barriere eindringen und den geschützten Einzelnen treffen.
 
-Drittens schlagen alle Versuche geistiger Kontrolle (wie durch Zauber wie Bezaubern oder Befehl) oder Besessenheit (wie durch Zauber wie Magischer Krug) automatisch fehl, die magische Barriere zu durchdringen.
+Drittens schlagen jegliche Versuche geistiger Kontrolle (wie durch Zauber wie „Bezauberung“ oder „Befehl“) oder Besessenheit (wie durch Zauber wie „Magischer Krug“) automatisch fehl, die magische Barriere zu durchdringen.
 
 Die Dauer des Zaubers endet, wenn die geschützte Person irgendeine Art von Nahkampfangriff ausführt oder versucht, das Schutzfeld gegen eine betroffene Kreatur einzusetzen.
 
-Die Umkehrung dieses Zaubers, Schutz vor Gutem, funktioniert wie oben bezüglich des zweiten und dritten Vorteils, während der erste Vorteil wie vermerkt bezüglich guter Gegner funktioniert.
+Die Umkehrung dieses Zaubers, Schutz vor Gutem, funktioniert wie oben bezüglich des zweiten und dritten Vorteils, während der erste Vorteil wie angegeben bezüglich guter Gegner funktioniert.
 
 ---
-#### Schutz vor Feuer
+#### Feuerschutz
 
 (Abjuration)
 
@@ -2313,20 +2317,20 @@ Die Umkehrung dieses Zaubers, Schutz vor Gutem, funktioniert wie oben bezüglich
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** KE |
 
-Wenn dieser Zauber gewirkt wird, bildet sich ein unsichtbares Feld, das vollständigen Schutz vor allen Formen weltlicher Hitzequellen bietet, wie Fackeln, Lagerfeuern, brennenden Gebäuden und so weiter. Wenn er auf einen selbst gewirkt wird, bietet das Feld außerdem vollständigen Schutz vor feuerbasiertem Schaden (Atem roter Drachen, Brennende Hände, Metall erhitzen usw.) und absorbiert 12 Punkte Feuerschaden pro Intensität. Sobald dieses Feld aufgebraucht ist, wird jeglicher verbleibende Schaden dieses Angriffs vor der Anwendung halbiert.
+Wenn dieser Zauber gewirkt wird, bildet sich ein unsichtbares Feld, das vollständigen Schutz vor allen Formen gewöhnlicher Hitzequellen bietet, wie Fackeln, Lagerfeuern, brennenden Gebäuden und so weiter. Wenn er auf einen selbst gewirkt wird, bietet das Feld außerdem vollständigen Schutz vor feuerbasiertem Schaden (Rotdrachen-Atem, „Brennende Hände“, „Metall erhitzen“ usw.) und absorbiert 12 Punkte Feuerschaden pro Intensität. Sobald dieses Feld aufgebraucht ist, wird jeglicher verbleibende überschüssige Schaden dieses Angriffs halbiert, bevor er angewendet wird.
 
-Wenn er auf jemand anderen als einen selbst gewirkt wird, wird ebenfalls vollständiger Schutz vor weltlichem Feuer gewährt. Zusätzlich wird der Schaden durch magische Feuerangriffe halbiert.
+Wenn der Zauber auf jemand anderen als einen selbst gewirkt wird, wird ebenfalls vollständiger Schutz vor gewöhnlichem Feuer gewährt. Zusätzlich wird der Schaden durch magische Feuerangriffe halbiert.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 Min.; 12 Punkte Feuerschutz auf sich selbst |
-| 2 | 4 | 30 Min.; 24 Punkte Feuerschutz auf sich selbst |
-| 3 | 5 | 45 Min.; 36 Punkte Feuerschutz auf sich selbst |
-| 4 | 6 | 60 Min.; 48 Punkte Feuerschutz auf sich selbst |
-| +1 | +1 | Setzt Progression fort |
+| 1 | 3 | 15 Min.; 12 Punkte Feuerschutz bei sich selbst |
+| 2 | 4 | 30 Min.; 24 Punkte Feuerschutz bei sich selbst |
+| 3 | 5 | 45 Min.; 36 Punkte Feuerschutz bei sich selbst |
+| 4 | 6 | 60 Min.; 48 Punkte Feuerschutz bei sich selbst |
+| +1 | +1 | Progression fortsetzen |
 
 ---
-#### Schutz vor Blitzen
+#### Blitzschutz
 
 (Abjuration)
 
@@ -2337,69 +2341,69 @@ Wenn er auf jemand anderen als einen selbst gewirkt wird, wird ebenfalls vollst�
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** KE |
 
-Wenn dieser Zauber gewirkt wird, bildet sich ein unsichtbares Feld, das vollständigen Schutz vor elektrisch basiertem Schaden (Atem blauer Drachen, Schockgriff, elektrische Fallen usw.) bietet und 12 Punkte elektrischen Schaden pro Intensität absorbiert. Sobald dieses Feld aufgebraucht ist, wird jeglicher verbleibende Schaden dieses Angriffs vor der Anwendung halbiert.
+Wenn dieser Zauber gewirkt wird, bildet sich ein unsichtbares Feld, das vollständigen Schutz vor elektrizitätsbasiertem Schaden (Blaudrachen-Atem, „Stromschlag“, elektrische Fallen usw.) bietet und 12 Punkte elektrischen Schaden pro Intensität absorbiert. Sobald dieses Feld aufgebraucht ist, wird jeglicher verbleibende überschüssige Schaden dieses Angriffs halbiert, bevor er angewendet wird.
 
-Wenn er auf jemand anderen als einen selbst gewirkt wird, wird der Schaden durch elektrische Angriffe halbiert.
+Wenn der Zauber auf jemand anderen als einen selbst gewirkt wird, wird der Schaden durch elektrische Angriffe halbiert.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 Min.; 12 Punkte elektrischer Schutz auf sich selbst |
-| 2 | 4 | 30 Min.; 24 Punkte elektrischer Schutz auf sich selbst |
-| 3 | 5 | 45 Min.; 36 Punkte elektrischer Schutz auf sich selbst |
-| 4 | 6 | 60 Min.; 48 Punkte elektrischer Schutz auf sich selbst |
-| +1 | +1 | Setzt Progression fort |
+| 1 | 3 | 15 Min.; 12 Punkte elektrischen Schutz bei sich selbst |
+| 2 | 4 | 30 Min.; 24 Punkte elektrischen Schutz bei sich selbst |
+| 3 | 5 | 45 Min.; 36 Punkte elektrischen Schutz bei sich selbst |
+| 4 | 6 | 60 Min.; 48 Punkte elektrischen Schutz bei sich selbst |
+| +1 | +1 | Progression fortsetzen |
 
 ---
-#### Speisen und Getränke Reinigen (U)
+#### Speisen und Getränke reinigen (U)
 
 (Transmutation)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 1 | **Zauberzeit:** 1 Minute |
-| **Sphäre:** Alle | **Dauer:** Permanent |
+| **Sphäre:** Alle | **Dauer:** Dauerhaft |
 | **Kosten:** 1/Intensität | **Reichweite:** 100 Fuß |
 | **Bereich:** 5 Fuß Radius | **Widerstand:** KE |
 
-Beim Wirken dieses Zaubers werden alle Gifte, Fäulnis und andere Verunreinigungen aus einer durchschnittlich großen Mahlzeit an Speisen und/oder Wasser pro Intensität innerhalb des Wirkungsbereichs des Zaubers entfernt. Die reinigenden Eigenschaften dieses Zaubers zerstören zudem die bösartigen Eigenschaften von unheiligem Wasser.
+Wenn dieser Zauber gewirkt wird, werden alle Gifte, Fäulnis und andere Verunreinigungen aus einer durchschnittlich großen Mahlzeit an Speisen und/oder Wasser pro Intensität innerhalb des Wirkungsbereichs des Zaubers entfernt. Die reinigenden Eigenschaften dieses Zaubers zerstören auch die bösartigen Eigenschaften von unheiligem Wasser.
 
-Die Umkehrung des Zaubers, Speisen und Getränke Verunreinigen, verdirbt Speisen, macht reines Wasser ungenießbar und korrumpiert die heiligen Eigenschaften von heiligem Wasser.
+Die Umkehrung des Zaubers, Speisen und Getränke verunreinigen, verdirbt Speisen, macht reines Wasser untrinkbar und korrumpiert die heiligen Eigenschaften von Weihwasser.
 
 ---
-#### Tote Erwecken (U)
+#### Tote erwecken (U)
 
 (Nekromantie)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 3 | **Zauberzeit:** 1 Minute |
-| **Sphäre:** Nekromantisch | **Dauer:** Permanent |
+| **Sphäre:** Nekromantisch | **Dauer:** Dauerhaft |
 | **Kosten:** 3, +1/zusätzliche Intensität, +1 Erf. Mod. | **Reichweite:** 100 Fuß |
 | **Bereich:** 1 Ziel | **Widerstand:** KE (Willenskraft) |
 
-Dieser Zauber kann auf den Leichnam einer Kreatur gewirkt werden, die weniger als 24 Stunden pro Intensitätsstufe tot ist. Wenn die Gesinnung des Subjekts eine andere als böse war, kann es dem Zauber mit einem gegnerischen Willenskraft-Wurf widerstehen und bei Erfolg die Auswirkungen des Zaubers negieren. Dies liegt daran, dass die Seele oder der Geist des Verstorbenen selten bereit ist, zu den Lebenden zurückzukehren, sobald sie ihre ewige Belohnung erreicht hat. Der Spielleiter kann entscheiden, auf den Wurf zu verzichten, wenn der Empfänger unerledigte Angelegenheiten hat, nicht von seiner wahren Liebe getrennt werden kann oder einen anderen heroischen Grund zum Leben hat.
+Dieser Zauber kann auf die Leiche einer Kreatur gewirkt werden, die weniger als 24 Stunden pro Intensitätsstufe tot ist. Wenn die Gesinnung des Subjekts eine andere als böse war, kann es dem Zauber mit einem gegnerischen Willenskraftwurf widerstehen und, falls erfolgreich, die Effekte des Zaubers aufheben. Dies liegt daran, dass die Seele oder der Geist des Verstorbenen selten bereit ist, zu den Lebenden zurückzukehren, sobald sie ihre ewige Belohnung erreicht hat. Der Spielleiter kann entscheiden, auf den Wurf zu verzichten, wenn der Empfänger noch unerledigte Geschäfte hat, sich nicht von seiner wahren Liebe trennen kann oder einen anderen heldenhaften Grund zum Leben hat.
 
-Im Falle böser Seelen, die lieber zur materiellen Ebene zurückkehren würden, anstatt ewige Verdammnis zu erleiden, ist es nicht die Willenskraft des Verstorbenen, die widersteht, sondern die des Dämons, Teufels usw., der mit ihrer Bestrafung betraut ist – ihr Peiniger. In diesem Fall muss der Zaubernde die Willenskraft des Peinigers überwinden. Wenn diese unbekannt ist, gehe davon aus, dass sie mindestens 20 Punkte höher ist als die des Verstorbenen, um darzustellen, dass je stärker der Wille der Seele ist, desto mächtiger das Wesen ist, das für ihre Verdammnis verantwortlich ist. Wenn der Zaubernde erfolgreich ist, hat er den Geist erfolgreich in den Körper zurückgebracht, während ein fehlgeschlagener Wurf dazu führt, dass das Opfer entweder nicht willens oder nicht in der Lage ist, zurückzukehren.
+Im Falle böser Seelen, die lieber zur materiellen Ebene zurückkehren würden, anstatt ewige Verdammnis zu erleiden, ist es nicht die Willenskraft des Verstorbenen, die widersteht, sondern die des Dämons, Teufels usw., der mit ihrer Bestrafung betraut wurde – ihr Peiniger. In diesem Fall muss der Wirker die Willenskraft des Peinigers überwinden. Wenn diese unbekannt ist, gehe davon aus, dass sie mindestens 20 Punkte höher ist als die des Verstorbenen, um darzustellen, dass je stärker der Wille der Seele ist, desto mächtiger das Wesen ist, das mit ihrer Verdammung beauftragt wurde. Wenn der Wirker erfolgreich ist, hat er den Geist erfolgreich in den Körper zurückgebracht, während ein misslungener Wurf dazu führt, dass das Opfer entweder unwillig oder unfähig zur Rückkehr ist.
 
-Wenn die Zauberwirkung erfolgreich ist, wird das Subjekt mit vollen Trefferpunkten zum Leben erweckt, obwohl abgetrennte Gliedmaßen verloren bleiben. Das bedeutet, dass ein enthauptetes oder in zwei Hälften geschnittenes Opfer nicht erweckt werden kann, bis Kopf oder Torso wieder angefügt wurden. Dies kann vor dem Wirken von Tote Erwecken geschehen, indem der abgetrennte Teil physisch wieder angebracht wird; dies erfordert ein Heilerset und eine erfolgreiche Anwendung der Fertigkeit Erste Hilfe und hinterlässt typischerweise eine auffällige und verräterische Narbe. Andere Leiden wie Gifte oder Krankheiten müssen vor oder nach dem Wirken von Tote Erwecken behandelt werden, da die Ergebnisse sonst nur vorübergehend sind. Schließlich hat Tote Erwecken keine Wirkung auf eine Kreatur, die das Ende ihrer natürlichen Lebensspanne erreicht hat und an Altersschwäche gestorben ist.
+Wenn das Wirken erfolgreich ist, kehrt das Subjekt mit vollen Trefferpunkten ins Leben zurück, obwohl abgetrennte Gliedmaßen verloren bleiben. Das bedeutet, dass ein Opfer, das enthauptet oder in zwei Hälften geschnitten wurde, nicht wiederbelebt werden kann, bis Kopf oder Torso wieder angefügt wurden. Dies kann vor dem Wirken von „Tote erwecken“ geschehen, indem der abgetrennte Ort physisch wieder angefügt wird, was ein Heilerset und eine erfolgreiche Anwendung der Fertigkeit „Erste Hilfe“ erfordert und normalerweise eine offensichtliche und verräterische Narbe hinterlässt. Andere Leiden, wie Gift oder Krankheit, müssen vor oder nach dem Wirken von „Tote erwecken“ behandelt werden, sonst sind die Ergebnisse nur vorübergehend. Schließlich hat „Tote erwecken“ keine Wirkung auf eine Kreatur, die das Ende ihrer natürlichen Lebensspanne erreicht hat und eines natürlichen Todes gestorben ist.
 
-Der Akt der Wiederbelebung von den Toten ist für das Subjekt sehr anstrengend, da es für 24 Stunden für jeden Tag, den es tot war, auf den Ermüdungszustand „Kampfunfähig“ reduziert wird. Das Wirken von Ermüdung Heilen hat während dieser Zeit der Genesung keine Wirkung auf den Patienten. Nach dieser Zeit erholt sich der Charakter normal und ohne Einschränkungen von der Ermüdung.
+Der Akt der Wiederbelebung von den Toten ist für das Subjekt sehr anstrengend; es wird für jeden Tag, an dem es tot war, für 24 Stunden auf den Ermüdungszustand „Kampfunfähig“ reduziert. Das Wirken von „Ermüdung heilen“ hat während dieser Genesungszeit keine Wirkung auf den Patienten. Nach diesem Punkt erholt sich der Charakter normal und ohne Einschränkung von der Ermüdung.
 
-Die Umkehrung, Leben Beenden, kann verwendet werden, um ein vom Kleriker zum Zeitpunkt des Wirkens bestimmtes Opfer zu töten. Dieses Opfer darf einen Willenskraft-Wurf ausführen, um zu widerstehen, modifiziert durch den Rang oder die Statur (GRÖ) des Ziels, je nachdem, was für das Ziel den vorteilhafteren Wert ergibt, wie in der folgenden Tabelle aufgeführt.
+Die Umkehrung, „Lebende töten“, kann verwendet werden, um ein Opfer zu töten, das vom Kleriker zum Zeitpunkt des Wirkens bestimmt wurde. Dieses Opfer darf einen Willenskraftwurf ausführen, um zu widerstehen, modifiziert durch den Rang oder die STÄ des Ziels (je nachdem, was für das Ziel das vorteilhaftere Ergebnis liefert), wie in der folgenden Tabelle aufgeführt.
 
-| Rang des Ziels | Statur (GRÖ) des Ziels | Willenskraft-Modifikator |
+| Zielrang | Ziel-STÄ | Willenskraft-Modifikator |
 | :-: | :-: | :-: |
-| 0-1* | 1-20 | Schwer |
+| 0-1\* | 1-20 | Schwer |
 | 2 | 21-40 | Standard |
 | 3 | 41-60 | Leicht |
 | 4-5 | 61+ | Sehr Leicht |
 
-* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen.
+_\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen._
 
-Wenn der Widerstandswurf erfolglos ist, wird das Opfer sofort getötet. Ein erfolgreicher Wurf wird wie die Auswirkungen von Schwere Wunden Verursachen behandelt. Rüstung bietet keinen Schutz vor diesem Schaden.
+Wenn der Widerstandswurf nicht erfolgreich ist, wird das Opfer auf der Stelle getötet. Ein erfolgreicher Wurf wird wie die Effekte von „Schwere Wunden verursachen“ behandelt. Rüstung bietet keinen Schutz gegen diesen Schaden.
 
 ---
-#### Magie Lesen
+#### Magie lesen
 
 (Alle)
 
@@ -2408,13 +2412,13 @@ Wenn der Widerstandswurf erfolglos ist, wird das Opfer sofort getötet. Ein erfo
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Minute |
 | **Sphäre:** Keine | **Dauer:** 2 Minuten/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
-| **Bereich:** Zaubernder | **Widerstand:** KE |
+| **Bereich:** Wirker | **Widerstand:** KE |
 
-Dieser Zauber ist der erste, der Zauberlehrlingen beigebracht wird, da sie durch ihn die magischen Schriften eines anderen Zauberwirkers lesen können. Die eigenen magischen Schriften eines Magiers sind für ihn selbst immer verständlich. Das Lesen magischer Schriftrollen aktiviert typischerweise keinen enthaltenen Zauber, wie er beispielsweise auf magischen Rollen zu finden ist; verfluchte magische Rollen und Ähnliches werden jedoch durch die Verwendung dieses Zaubers aktiviert, wobei der Zauber gewirkt wird, den die Rolle enthielt.
+Dieser Zauber ist der erste Zauber, der angehenden Magieanwendern beigebracht wird, denn durch diesen Zauber können sie die magischen Schriften eines anderen Zauberwirkers lesen. Die eigenen magischen Schriften eines Magiers sind für ihn selbst immer verständlich. Das Lesen magischer Schriftrollen aktiviert normalerweise keinen enthaltenen Zauber, wie man ihn beispielsweise auf magischen Rollen findet; verfluchte magische Rollen und Ähnliches werden jedoch durch die Verwendung dieses Zaubers aktiviert und wirken den Zauber, den die Rolle enthielt.
 
-Wenn er verwendet wird, um einen Zauber zu identifizieren, der auf einer Schriftrolle oder in einem Zauberbuch enthalten ist, wird 1 Minute für jeden Zauberrang benötigt; Rang 1 Zauber dauern 1 Minute, Rang 2 Zauber dauern 2 Minuten und so weiter. Wenn die Dauer ausreicht, können während dieser Zeit zusätzliche Zauber identifiziert werden. Sobald dieser Zauber verwendet wurde, um eine Reihe magischer Inschriften zu lesen und zu identifizieren, muss der Magieanwender Magie Lesen nicht mehr wirken, um sie erneut zu lesen; derselbe Zauber auf einer separaten Schriftrolle, einem anderen Buch usw. würde jedoch ein weiteres Wirken von Magie Lesen erfordern.
+Wenn er verwendet wird, um einen Zauber auf einer Rolle oder in einem Zauberbuch zu identifizieren, ist für jeden Zauberrang 1 Minute erforderlich; Rang-1-Zauber benötigen 1 Minute, Rang-2-Zauber benötigen 2 Minuten und so weiter. Wenn die Dauer ausreicht, können in dieser Zeit zusätzliche Zauber identifiziert werden. Sobald dieser Zauber verwendet wurde, um eine Reihe magischer Inschriften zu lesen und zu identifizieren, muss der Magieanwender „Magie lesen“ nicht erneut wirken, um sie wieder zu lesen; derselbe Zauber auf einer separaten Rolle, einem anderen Buch usw. würde jedoch ein erneutes Wirken von „Magie lesen“ erfordern.
 
-Magie Lesen ist von allen Magieschulen nutzbar.
+„Magie lesen“ ist für alle Magieschulen nutzbar.
 
 ---
 #### Regenerieren (U)
@@ -2424,13 +2428,13 @@ Magie Lesen ist von allen Magieschulen nutzbar.
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 4 | **Zauberzeit:** 3 Minuten |
-| **Sphäre:** Heilung | **Dauer:** Permanent |
+| **Sphäre:** Heilung | **Dauer:** Dauerhaft |
 | **Kosten:** 3/Intensität | **Reichweite:** Berührung |
 | **Bereich:** 1 Kreatur | **Widerstand:** KE (Parieren oder Ausweichen) |
 
-Beim Wirken kann der Kleriker eine Kreatur berühren und eine abgetrennte Trefferzone regenerieren. Verlorene Gliedmaßen wachsen vollständig mit einer Rate von 1 Trefferpunkt alle 10 Minuten nach, bis sie vollständig geheilt sind. Wenn die abgetrennte Zone jedoch vorhanden ist und das Opfer berührt, wird die gesamte Erholungszeit auf 1 Minute reduziert. Dieser Zauber kann nicht verwendet werden, um ein Individuum zu „klonen“, indem zwei getrennte Teile regeneriert werden; nur der Teil, der mit dem Gehirn und dem zentralen Nervensystem verbunden ist, profitiert von den Auswirkungen des Zaubers. Jede Intensitätsstufe lässt eine separate Trefferzone nachwachsen. Während der Zauber verwendet werden könnte, um eine geringere Verletzung langsam zu heilen, gibt es dafür Zauber mit niedrigerem Rang und geringeren Kosten.
+Wenn dieser Zauber gewirkt wird, kann der Kleriker eine Kreatur berühren und eine abgetrennte Trefferzone regenerieren. Verlorene Gliedmaßen wachsen vollständig mit einer Rate von 1 Trefferpunkt alle 10 Minuten nach, bis sie vollständig geheilt sind. Wenn die abgetrennte Stelle jedoch vorhanden ist und das Opfer berührt, wird die gesamte Erholungszeit auf 1 Minute reduziert. Dieser Zauber kann nicht verwendet werden, um ein Individuum zu „klonen“, indem zwei separate Teile regeneriert werden; nur der Teil, der mit dem Gehirn und dem zentralen Nervensystem verbunden ist, profitiert von den Effekten des Zaubers. Jede Intensitätsstufe lässt eine separate Trefferzone nachwachsen. Obwohl der Zauber verwendet werden könnte, um eine geringere Verletzung langsam zu heilen, gibt es dafür Zauber mit niedrigerem Rang und geringeren Kosten.
 
-Die Umkehrung, Welken, führt dazu, dass eine vom Zaubernden berührte Stelle verkümmert und schließlich vom Opfer abfällt. Der Prozess verursacht den Verlust von 1 Trefferpunkt an der betroffenen Stelle alle 10 Minuten, wobei die Stelle bei 0 Trefferpunkten unbrauchbar wird und abfällt, sobald sie vollständig im negativen Bereich ist. Die Auswirkungen können nur durch ein Wirken von Regenerieren negiert werden.
+Die Umkehrung, „Verwelken“, führt dazu, dass ein vom Wirker berührter Ort vertrocknet und schließlich vom Opfer abfällt. Der Prozess verursacht den Verlust von 1 Trefferpunkt Schaden an der betroffenen Stelle alle 10 Minuten, wobei der Ort bei 0 Trefferpunkten unbrauchbar wird und abfällt, wenn er vollständig negativ ist. Die Effekte können nur durch ein Wirken von „Regenerieren“ aufgehoben werden.
 
 ---
 #### Reinkarnation, Arkan
@@ -2440,33 +2444,33 @@ Die Umkehrung, Welken, führt dazu, dass eine vom Zaubernden berührte Stelle ve
 | | |
 | :-- | :-- |
 | **Rang:** Magier 4 | **Zauberzeit:** 10 Minuten |
-| **Sphäre:** Keine | **Dauer:** Permanent |
+| **Sphäre:** Keine | **Dauer:** Dauerhaft |
 | **Kosten:** 3, +1/zusätzliche Intensität, +1 Erf. Mod. | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** Siehe unten |
 
-Dieser Zauber wird gewirkt, während der Leichnam einer Kreatur berührt wird, die weniger als 24 Stunden pro Intensitätsstufe tot ist. Diese Version der Reinkarnation hat jedoch keine Wirkung auf reinblütige Elfen (siehe stattdessen die göttlichen Zauber Tote Erwecken oder Auferstehung). Wenn die Gesinnung des Opfers eine andere als böse war, widersteht das Opfer dem Zauber mit einem gegnerischen Willenskraft-Wurf und negiert bei Erfolg die Auswirkungen des Zaubers. Dies liegt daran, dass die Seele oder der Geist des Verstorbenen selten bereit ist, in einen neuen Körper einzutreten, sobald sie ihre ewige Belohnung erreicht hat. Der Spielleiter kann entscheiden, auf den Wurf zu verzichten, wenn der Empfänger unerledigte Angelegenheiten hat, nicht von seiner wahren Liebe getrennt werden kann oder einen anderen heroischen Grund zum Leben hat.
+Dieser Zauber wird gewirkt, während die Leiche einer Kreatur berührt wird, die weniger als 24 Stunden pro Intensitätsstufe tot ist. Diese Version der Reinkarnation hat jedoch keine Wirkung auf reinblütige Elfen (siehe stattdessen die göttlichen Zauber „Tote erwecken“ oder „Auferstehung“). Wenn die Gesinnung des Opfers eine andere als böse war, widersteht das Opfer dem Zauber mit einem gegnerischen Willenskraftwurf und hebt bei Erfolg die Effekte des Zaubers auf. Dies liegt daran, dass die Seele oder der Geist des Verstorbenen selten bereit ist, in einen neuen Körper einzutreten, sobald sie ihre ewige Belohnung erreicht hat. Der Spielleiter kann entscheiden, auf den Wurf zu verzichten, wenn der Empfänger noch unerledigte Geschäfte hat, sich nicht von seiner wahren Liebe trennen kann oder einen anderen heldenhaften Grund zum Leben hat.
 
 <details>
 
-<summary>* Community-Errata</summary>
+<summary>* Community Errata</summary>
 
 ---
 
 #### Reinkarnation, Arkan
 
-_Die ursprüngliche Regel lautete: „Diese Version der Reinkarnation hat jedoch keine Wirkung auf reinblütige Elfen (siehe stattdessen Göttliche Reinkarnation).“_
+_Die ursprüngliche Regel lautete wie folgt: "Diese Version der Reinkarnation hat jedoch keine Wirkung auf reinblütige Elfen (siehe stattdessen Göttliche Reinkarnation)."_
 
-_In „Classic Fantasy Imperative“ gibt es keine Erwähnung einer Göttlichen Reinkarnation, daher wurde dies geändert, um auf Tote Erwecken und Auferstehung zu verweisen, von denen keine die Rückkehr von Elfen verbietet._
+_In „Classic Fantasy Imperative“ gibt es keine Erwähnung einer Göttlichen Reinkarnation, daher wurde dies geändert, um sich auf „Tote erwecken“ und „Auferstehung“ zu beziehen, von denen keiner die Rückkehr von Elfen verbietet._
 
 ---
 
 </details>
 
-Im Falle böser Seelen, die lieber zur materiellen Ebene zurückkehren würden, anstatt ewige Verdammnis zu erleiden, ist es nicht die Willenskraft des Verstorbenen, die widersteht, sondern die des Dämons, Teufels usw., der für ihre Bestrafung verantwortlich ist – ihr Peiniger. In diesem Fall muss der Zaubernde die Willenskraft des Peinigers überwinden. Wenn diese unbekannt ist, gehe davon aus, dass sie mindestens 20 Punkte höher ist als die des Verstorbenen, um darzustellen, dass je stärker der Wille der Seele ist, desto mächtiger das Wesen ist, das für ihre Verdammnis verantwortlich ist. Wenn der Zaubernde erfolgreich ist, hat er den Geist erfolgreich an den Wirt gebunden, während ein fehlgeschlagener Wurf dazu führt, dass das Opfer entweder nicht willens oder nicht in der Lage ist, zurückzukehren.
+Im Falle böser Seelen, die lieber zur materiellen Ebene zurückkehren würden, anstatt ewige Verdammnis zu erleiden, ist es nicht die Willenskraft des Verstorbenen, die widersteht, sondern die des Dämons, Teufels usw., der mit ihrer Bestrafung betraut wurde – ihr Peiniger. In diesem Fall muss der Wirker die Willenskraft des Peinigers überwinden. Wenn diese unbekannt ist, gehe davon aus, dass sie mindestens 20 Punkte höher ist als die des Verstorbenen, um darzustellen, dass je stärker der Wille der Seele ist, desto mächtiger das Wesen ist, das mit ihrer Verdammung beauftragt wurde. Wenn der Wirker erfolgreich ist, hat er den Geist erfolgreich an den Wirt gebunden, während ein misslungener Wurf dazu führt, dass das Opfer entweder unwillig oder unfähig zur Rückkehr ist.
 
-Wenn die Zauberwirkung erfolgreich ist, erscheint in 1w6x10 Minuten ein voll ausgeformter, erwachsener Körper, der das Bewusstsein des Verstorbenen enthält. Der Zaubernde hat keine Kontrolle über die Form oder das Geschlecht, in dem die Seele zurückkehrt – würfle gegen die untenstehende Tabelle. Die vorherige Charakterklasse und der Rang bleiben erhalten. Dies bedeutet, dass es im Umgang mit Freunden, Familie und früheren Bekannten etwas Überzeugungsarbeit seitens des Charakters erfordern kann, um zu beweisen, dass er der ist, der er zu sein vorgibt; dies beinhaltet auch ihren Orden oder ihre Gilde, wenn es um den Aufstieg geht, falls relevant. Dies wird am besten durch Einfluss-Würfe seitens des Charakters dargestellt, modifiziert dadurch, wie drastisch die Veränderung ist, wie vom Spielleiter bestimmt. Beispielsweise kann ein Zwerg, der in einen anderen Zwerg reinkarniert wird, einen Standard Einfluss-Wurf benötigen, um einen früheren Verbündeten von seiner tatsächlichen Identität zu überzeugen, während die Reinkarnation in einen Gnom oder Halbling dazu führen könnte, dass der Wurf um einen Grad schwieriger wird. Schließlich könnte derselbe Charakter feststellen, dass es zwei Grad schwieriger ist, andere von seiner Identität zu überzeugen, wenn er in etwas so Extremes wie einen Goblin, Ork oder Troll verwandelt wird.
+Wenn das Wirken erfolgreich ist, erscheint in 1d6x10 Minuten ein voll ausgebildeter Körper eines Erwachsenen, der das Bewusstsein des Verstorbenen enthält. Der Wirker hat keine Kontrolle über die Form oder das Geschlecht, in dem die Seele zurückkehrt – würfle gegen die untenstehende Tabelle. Die ehemalige Charakterklasse und der Rang bleiben erhalten. Das bedeutet, dass es bei Freunden, Familie und ehemaligen Bekannten etwas Überzeugungsarbeit seitens des Charakters erfordern könnte, zu beweisen, dass er der ist, für den er sich ausgibt; dies gilt auch für seinen Orden oder seine Gilde, wenn es Zeit für einen Aufstieg ist, falls zutreffend. Dies wird am besten durch Einfluss-Würfe seitens des Charakters dargestellt, modifiziert durch den Spielleiter je nachdem, wie drastisch die Änderung ist. Zum Beispiel könnte ein Zwerg, der in einen anderen Zwerg reinkarniert wurde, einen Standard-Einfluss-Wurf benötigen, um einen ehemaligen Verbündeten von seiner tatsächlichen Identität zu überzeugen, während die Reinkarnation in einen Gnom oder Halbling dazu führen könnte, dass der Wurf um einen Grad schwieriger wird. Schließlich könnte derselbe Charakter es zwei Grad schwieriger finden, andere von seiner Identität zu überzeugen, wenn er in etwas so Extremes wie einen Goblin, Ork oder Troll verwandelt wurde.
 
-Alle Eigenschaften werden zufällig gemäß der neuen Form bestimmt, außer INT, MAC und CHA, die unverändert bleiben. Berechne die Basis-Fertigkeitsstufen des Charakters neu und passe die Fertigkeitssummen entsprechend an. Leidenschaften sind unbeeinflusst. Alle früheren rassistischen Fähigkeiten gehen verloren und werden durch die der neuen Spezies ersetzt. Wenn die neue Form für die alte Charakterklasse ungeeignet ist, ist die einzige Option, damit umzugehen oder eine neue Klasse zu erlernen. Das reinkarnierte Individuum erinnert sich an den größten Teil seines früheren Lebens, obwohl der Spielleiter verlangen kann, dass der Charakter einen Willenskraft-Wurf ablegt, um sich in der ersten Woche an wichtige Fakten zu erinnern. Ein „Wunsch“ kann das reinkarnierte Individuum auf Wunsch später wieder in seine vorherige Form zurückversetzen.
+Alle Eigenschaften werden zufällig entsprechend der neuen Form bestimmt, abgesehen von INT, MAC und CHA, die unverändert bleiben. Berechne die Basis-Fertigkeitsstufen des Charakters neu und passe die Fertigkeitssummen entsprechend an. Leidenschaften bleiben unberührt. Alle früheren rassischen Fähigkeiten gehen verloren und werden durch die der neuen Spezies ersetzt. Wenn die neue Form für die alte Charakterklasse ungeeignet ist, ist die einzige Option, damit umzugehen oder eine neue Klasse zu erlernen. Das reinkarnierte Individuum erinnert sich an den größten Teil seines früheren Lebens, obwohl der Spielleiter den Charakter bitten kann, einen Willenskraftwurf abzulegen, um sich in der ersten Woche an wichtige Fakten zu erinnern. Ein „Wunsch“ kann das reinkarnierte Individuum auf Wunsch später in seine vorherige Form zurückversetzen.
 
 Würfle auf der folgenden Tabelle, um die neue Form zu bestimmen.
 
@@ -2474,55 +2478,55 @@ Würfle auf der folgenden Tabelle, um die neue Form zu bestimmen.
 
 | Reinkarnationsergebnis |  | Halbmensch |  | Humanoid/Monster |  |
 |:-:|:--|:-:|:--|:-:|:--|
-| **W100 Wurf** | **Ergebnis** | **W100 Wurf** | **Ergebnis** | **W100 Wurf** | **Ergebnis** | 
+| **W100-Wurf** | **Ergebnis** | **W100-Wurf** | **Ergebnis** | **W100-Wurf** | **Ergebnis** | 
 | 01-20 | Mensch | 01-20 | Zwerg | 01-10 | Bugbear | 
-| 21-60 | Halbmensch * | 21-40 | Elf | 11-26 | Gnoll | 
-| 61-95 | Humanoid/Monster ** | 41-60 | Gnom | 27-42 | Goblin | 
-| 96-00 | Andere - Wahl des SL | 61-80 | Halb-Elf | 43-58 | Hobgoblin | 
+| 21-60 | Halbmensch \* | 21-40 | Elf | 11-26 | Gnoll | 
+| 61-95 | Humanoid/Monster \*\* | 41-60 | Gnom | 27-42 | Goblin | 
+| 96-00 | Andere - GM-Option | 61-80 | Halbelf | 43-58 | Hobgoblin | 
 |  |  | 81-100 | Halbling | 59-74 | Kobold | 
 |  |  |  |  | 75-90 | Ork | 
 |  |  |  |  | 91-95 | Oger | 
 |  |  |  |  | 96-00 | Troll | 
 
-* Würfle erneut und ziehe die Spalte der Halbmenschen-Ergebnisse zu Rate.
+\* Würfle erneut und konsultiere die Spalte der Halb-Mensch-Ergebnisse.
 
-** Würfle erneut und ziehe die Spalte der Humanoiden/Monster-Ergebnisse zu Rate.
+\*\* Würfle erneut und konsultiere die Spalte der Humanoid/Monster-Ergebnisse.
 
----#### Fluch aufheben \(R\)
+---#### Fluch Aufheben \(R\)
 
 (Abjuration)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 2, Magier 3 | **Zauberzeit:** 2 Aktionen |
-| **Sphäre:** ?? | **Dauer:** Permanent |
+| **Sphäre:** Schutz | **Dauer:** Permanent |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/V |
+| **Bereich:** 1 Ziel | **Widerstand:** N/A |
 
-Dieser Zauber hebt üblicherweise die Auswirkungen jedes Fluches auf, der eine Kreatur oder einen Gegenstand belegt. Er entfernt nicht die verfluchte Natur eines Gegenstandes wie einer Waffe, eines Schildes oder einer Rüstung, ermöglicht es einer mit einem solchen Gegenstand behafteten Kreatur jedoch, sich von ihm zu befreien. Manche Flüche können nur aufgehoben werden, wenn der Zauber mit einer bestimmten Intensität gewirkt wird, was üblicherweise in der jeweiligen Beschreibung vermerkt ist. Entweder Krankheit heilen oder Fluch aufheben kann verwendet werden, um Lykanthropie zu heilen, wobei beide eine Intensität von 12 erfordern.
+Dieser Zauber hebt normalerweise die Auswirkungen jedes Fluchs auf, der auf einer Kreatur oder einem Gegenstand lastet. Er entfernt nicht den verfluchten Charakter eines Gegenstands wie einer Waffe, eines Schildes oder einer Rüstung, ermöglicht es aber einer Kreatur, die mit einem solchen Gegenstand behaftet ist, diesen loszuwerden. Manche Flüche können nur aufgehoben werden, wenn der Zauber mit einer bestimmten Intensität gewirkt wird, was normalerweise in der spezifischen Beschreibung vermerkt ist. Sowohl Krankheit Heilen als auch Fluch Aufheben können verwendet werden, um Lykanthropie zu heilen; beide erfordern eine Intensität von 12.
 
-Das Gegenstück dieses Zaubers, Fluch verleihen, fügt einem Feind einen der folgenden Effekte mit einer Dauer von 30 Minuten pro Intensität zu. Dem Opfer ist ein vergleichender Willenskraft-Wurf zur Widerstand leistung erlaubt, wie üblich. Würfle 1W100, um die Art des zugefügten Fluches zu bestimmen:
+Die Umkehrung dieses Zaubers, Fluch Verleihen, belegt einen Feind mit einer Dauer von 30 Minuten pro Intensität mit einer der folgenden Auswirkungen. Dem Opfer ist ein konkurrierender Willenskraft-Wurf zur normalen Verteidigung erlaubt. Würfle 1d100, um die Art des zugefügten Fluchs zu bestimmen:
 
 - 01-25: Alle Fertigkeiten, die STÄ, GES oder KON verwenden, sind um einen Grad schwieriger. Initiative -4, Schad. Mod. um 2 Stufen reduziert.
 - 26-50: Alle Fertigkeiten, die INT, MAC oder CHA verwenden, sind um einen Grad schwieriger. Initiative -4.
 - 51-75: Kampffertigkeiten und Widerstandswürfe sind um 2 Grad schwieriger.
-- 76-00: Alle misslungenen Fertigkeitswürfe werden als Patzer behandelt.
+- 76-00: Alle fehlgeschlagenen Fertigkeitswürfe werden als Patzer behandelt.
 
 ---
-#### Furcht aufheben \(R\)
+#### Furcht Aufheben \(R\)
 
-(Abjuration (Bezauberung))
+(Abjuration (Charme))
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 1 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Bezauberung | **Dauer:** Siehe unten |
+| **Sphäre:** Charme | **Dauer:** Siehe Unten |
 | **Kosten:** 1/Intensität | **Reichweite:** 30 Fuß |
-| **Bereich:** 1 Ziel | **Widerstand:** Siehe unten |
+| **Bereich:** 1 Ziel | **Widerstand:** Siehe Unten |
 
-Der Zaubernde kann die Auswirkungen von Furcht bei einer Person pro Intensität bannen und ihnen einen zusätzlichen Wurf zum Widerstehen gewähren. Furcht aufheben kann auch göttlich gegen Furcht schützen für 10 Minuten, wenn es auf jemanden gewirkt wird, der noch nicht unter deren Auswirkungen leidet. In beiden Fällen ist der erforderliche Widerstandswurf des Subjekts um einen Grad leichter. Während der Kleriker diesen Zauber auf sich selbst wirken könnte, um sich gegen Furcht zu schützen, könnte er ihn nicht einsetzen, um laufende Auswirkungen von Furcht aufzuheben, die das Wirken von Zaubern verhindern würden.
+Der Zaubernde dieses Zaubers kann die Auswirkungen von Furcht bei einer Person pro Intensität bannen und ihr einen zusätzlichen Wurf zur Verteidigung gewähren. Furcht Aufheben kann auch göttlich gegen Furcht schützen, wenn es auf jemanden gewirkt wird, der noch nicht unter deren Auswirkungen leidet, und zwar für 10 Minuten. In beiden Fällen ist der vom Subjekt benötigte Widerstandswurf um einen Grad leichter. Während der Kleriker diesen Zauber auf sich selbst wirken könnte, um sich gegen Furcht zu schützen, wäre er nicht in der Lage, ihn zu wirken, um laufende Auswirkungen von Furcht zu entfernen, die das Wirken von Zaubern verhindern würden.
 
-Das Gegenstück dieses Zaubers, Furcht verursachen, erfordert das Berühren des Opfers im Kampf. Diejenigen, die einen Willenskraft-Widerstandswurf verfehlen, fliehen für 1W4 Runden in Panik im Sprint. Die Richtung muss vom Zaubernden wegführen. Furcht verursachen kann durch Furcht aufheben gekontert werden und umgekehrt.
+Die Umkehrung dieses Zaubers, Furcht Verursachen, erfordert das Berühren des Opfers im Kampf. Wer einen Willenskraft-Widerstandswurf misslingt, flieht in Panik für 1d4 Runden. Die Fluchtrichtung muss vom Zaubernden wegführen. Furcht Verursachen kann durch Furcht Aufheben gekontert werden und umgekehrt.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -2540,11 +2544,11 @@ Das Gegenstück dieses Zaubers, Furcht verursachen, erfordert das Berühren des 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 1, Magier 0 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** ?? | **Dauer:** 24 Stunden |
+| **Sphäre:** Erschaffung | **Dauer:** 24 Stunden |
 | **Kosten:** 1 | **Reichweite:** Berührung |
-| **Bereich:** 1 Gegenstand | **Widerstand:** N/V |
+| **Bereich:** 1 Gegenstand | **Widerstand:** N/A |
 
-Reparieren behebt physischen Schaden an einem unbelebten Gegenstand. Jedes erfolgreiche Wirken repariert 1W3 Trefferpunkte an Schaden.
+Reparieren behebt physischen Schaden an einem unbelebten Gegenstand. Jedes erfolgreiche Wirken repariert 1d3 Schadenspunkte.
 
 ---
 #### Wiederherstellung
@@ -2556,12 +2560,12 @@ Reparieren behebt physischen Schaden an einem unbelebten Gegenstand. Jedes erfol
 | **Rang:** Kleriker 3 | **Zauberzeit:** 3 Minuten |
 | **Sphäre:** Heilung | **Dauer:** Permanent |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/V |
+| **Bereich:** 1 Ziel | **Widerstand:** N/A |
 
-Wenn gewirkt, erlangt ein Opfer, dem zuvor Lebenskraft mittels Energieentzug oder ähnlichen Effekten entzogen wurde, eine zuvor verlorene Stufe Ermüdung zurück. Bei 1 Stufe Intensität funktioniert dieser Zauber nur bei einer Kreatur, die innerhalb der letzten 24 Stunden entzogen wurde. Jede zusätzliche Intensität erhöht die Zeit, die vergangen sein kann, um weitere 24 Stunden. Zum Beispiel würde ein Opfer, dem vor knapp 48 Stunden Lebenskraft entzogen wurde, den Zauber auf Stufe 2 benötigen, damit er funktioniert. Mehrere Stufen entzogener Ermüdung erfordern zusätzliche Wirkungen von Wiederherstellung. Unabhängig von der Dauer und zusätzlich zu jeder wiederhergestellten Ermüdung stellt dieser Zauber auch alle geistigen Fähigkeiten wieder her, wie jene, die durch Magie oder jede Form von Wahnsinn oder Demenz verloren gingen. Wiederherstellung kann auch verwendet werden, um Jahre zu entfernen, die durch künstliches Altern verloren gingen, wie etwa durch bestimmte Zauber. Damit der Zauber auf diese Weise gewirkt werden kann, muss der Kleriker zusätzlich zu den normalen Zauberkosten 1 ERF-Wurf für jedes 1 % der typischen Lebensspanne des Empfängers aufwenden (1 Jahr bei einem Menschen). Der Zauber darf das aktuelle Alter des Subjekts nicht unter dessen tatsächliches Alter reduzieren.
+Wenn dieser Zauber gewirkt wird, erhält ein Opfer, dem zuvor Lebenskraft mittels Energieentzug oder ähnlichen Effekten entzogen wurde, eine zuvor verlorene Stufe Ermüdung zurück. Bei einer Intensitätsstufe von 1 funktioniert dieser Zauber nur bei Kreaturen, denen innerhalb der letzten 24 Stunden Lebenskraft entzogen wurde. Jede zusätzliche Intensität erhöht den Zeitraum, der verstrichen sein darf, um weitere 24 Stunden. Ein Opfer, dem beispielsweise vor knapp 48 Stunden Lebenskraft entzogen wurde, benötigt den Zauber auf Intensität 2. Mehrere Stufen entzogener Ermüdung erfordern zusätzliche Wirkungen von Wiederherstellung. Unabhängig von der Dauer und zusätzlich zur wiederhergestellten Ermüdung stellt dieser Zauber auch alle geistigen Fähigkeiten wieder her, wie sie etwa durch Magie oder jede Form von Wahnsinn oder Demenz verloren gingen. Wiederherstellung kann auch verwendet werden, um Jahre zu entfernen, die aufgrund künstlicher Alterung verloren gingen, wie etwa durch bestimmte Zauber. Damit der Zauber auf diese Weise gewirkt werden kann, muss der Kleriker zusätzlich zu den normalen Wirkkosten 1 Erf. Mod. für jedes 1% der typischen Lebensspanne des Empfängers aufwenden (1 Jahr für einen Menschen). Der Zauber darf das aktuelle Alter des Subjekts nicht unter sein tatsächliches Alter senken.
 
 ---
-#### Wiederauferstehung \(R\)
+#### Auferstehung \(R\)
 
 (Nekromantie)
 
@@ -2569,18 +2573,18 @@ Wenn gewirkt, erlangt ein Opfer, dem zuvor Lebenskraft mittels Energieentzug ode
 | :-- | :-- |
 | **Rang:** Kleriker 5 | **Zauberzeit:** 10 Minuten |
 | **Sphäre:** Nekromantisch | **Dauer:** Permanent |
-| **Kosten:** 3, +1/zusätzliche Intensität, +2 ERF | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/V (Willenskraft) |
+| **Kosten:** 3, +1/zusätzliche Intensität, +2 Erf. Mod. | **Reichweite:** Berührung |
+| **Bereich:** 1 Ziel | **Widerstand:** N/A (Willenskraft) |
 
-Wiederauferstehung erweckt jede Kreatur, die vor nicht mehr als 20 Jahren pro Intensitätsstufe gestorben ist. Die Kreatur erhält nicht nur Leben, sondern wird auch zu voller Stärke wiederhergestellt und von Verletzungen geheilt, wobei sogar verlorene Gliedmaßen nachwachsen. Es muss nur wenig von der tatsächlichen Kreatur übrig sein, damit der Zauber noch effektiv ist. Zum Beispiel könnte Wiederauferstehung verwendet werden, um ein Wesen nach 145 Jahren von den Toten zurückzubringen, selbst wenn man nichts weiter als einen Fingerknochen besitzt, vorausgesetzt, der Zauber wird mit Intensität 8 gewirkt. Das auferweckte Individuum benötigt keine Ruhezeit und ist sofort voll funktionsfähig. Der Zauber hat keine Wirkung auf eine Kreatur, die am Ende ihrer zugewiesenen Lebensspanne eines natürlichen Todes gestorben ist.
+Auferstehung belebt jede Kreatur, die nicht länger als 20 Jahre pro Intensitätsstufe tot ist. Die Kreatur erhält nicht nur das Leben zurück, sondern wird wieder zu voller Stärke gebracht und von Verletzungen geheilt, sogar verlorene Gliedmaßen werden wiederhergestellt. Nur sehr wenig der ursprünglichen Kreatur muss übrig sein, damit der Zauber wirkt. Auferstehung könnte beispielsweise verwendet werden, um ein Wesen nach 145 Jahren von den Toten zurückzuholen, selbst wenn nur ein Fingerknochen vorhanden ist, sofern der Zauber auf Intensität 8 gewirkt wird. Das wiederbelebte Individuum benötigt keine Ruhephase und ist sofort voll funktionsfähig. Der Zauber hat keine Wirkung auf Kreaturen, die eines natürlichen Todes am Ende ihrer zugewiesenen Lebensspanne gestorben sind.
 
-Wenn die Gesinnung des Subjekts etwas anderes als böse war, kann es dem Zauber mit einem vergleichenden Willenskraft-Wurf widerstehen und, falls erfolgreich, die Effekte aufheben. Dies liegt daran, dass die Seele oder der Geist des Verstorbenen selten willens ist, zu den Lebenden zurückzukehren, sobald er seine ewige Belohnung erreicht hat. Der Spielleiter kann jedoch entscheiden, auf den Wurf zu verzichten, wenn der Empfänger unerledigte Geschäfte hat, nicht von seiner wahren Liebe getrennt werden kann oder einen anderen heroischen Grund zum Leben hat. Im Fall von bösen Seelen, die gerne zurückkehren würden, anstatt ewige Verdammnis zu erleiden, widersteht nicht die Willenskraft des Verstorbenen, sondern die des Dämons, Teufels oder ähnlichem, der für ihre Bestrafung zuständig ist, ihres Peinigers. In diesem Fall muss der Zaubernde die Willenskraft des Peinigers überwinden. Wenn diese unbekannt ist, gehe davon aus, dass sie mindestens 20 Punkte höher ist als die des Verstorbenen, um darzustellen, dass je stärker der Wille der Seele ist, desto mächtiger das Wesen ist, das mit ihrer Verdammnis betraut wurde. Wenn der Zaubernde erfolgreich ist, wurde das Subjekt erfolgreich wiederbelebt, während ein misslungener Wurf dazu führt, dass das Opfer entweder nicht willens oder nicht in der Lage ist zurückzukehren.
+War die Gesinnung des Subjekts etwas anderes als böse, kann es dem Zauber mit einem konkurrierenden Willenskraft-Wurf widerstehen und bei Erfolg die Auswirkungen negieren. Dies liegt daran, dass die Seele oder der Geist eines Verstorbenen selten willens ist, zu den Lebenden zurückzukehren, sobald sie ihre ewige Belohnung erreicht hat. Der Spielleiter kann jedoch entscheiden, auf den Wurf zu verzichten, wenn das Ziel noch unvollendete Geschäfte hat, nicht von seiner wahren Liebe getrennt werden kann oder einen anderen heldenhaften Grund zum Leben hat. Bei bösen Seelen, die lieber zurückkehren würden, anstatt ewige Verdammnis zu erleiden, ist es nicht die Willenskraft des Verstorbenen, die widersteht, sondern die des Dämons, Teufels usw., der für seine Bestrafung zuständig ist – sein Peiniger. In diesem Fall muss der Zaubernde die Willenskraft des Peinigers überwinden. Falls diese unbekannt ist, gehe davon aus, dass sie mindestens 20 Punkte höher ist als die des Verstorbenen, um darzustellen, dass je stärker der Wille der Seele ist, desto mächtiger das Wesen ist, das mit ihrer Verdammnis betraut wurde. Ist der Zaubernde erfolgreich, wurde das Subjekt erfolgreich auferweckt; ein fehlgeschlagener Wurf führt dazu, dass das Opfer entweder nicht willens oder nicht in der Lage ist, zurückzukehren.
 
-Wiederauferstehung ist sehr zehrend und lässt den Kleriker um 3 % seiner typischen Lebensspanne altern (3 Jahre im Fall eines menschlichen Zaubernden). Siehe die Regeln für [Altern](0007_Game_System.md?id=aging).
+Auferstehung ist sehr zehrend und lässt den Kleriker um 3 % seiner typischen Lebensspanne altern (3 Jahre bei einem menschlichen Zaubernden). Siehe die Regeln für [Altern](0007_Game_System.md?id=aging).
 
-Wenn umgekehrt, kann Zerstörung verwendet werden, um ein Opfer zu töten, das zum Zeitpunkt des Wirkens Kontakt zum Kleriker hat. Diesem Opfer ist ein Willenskraft-Wurf zum Widerstehen erlaubt, modifiziert durch den Rang oder die STÄ des Ziels, je nachdem, was dem Opfer das vorteilhaftere Ergebnis liefert, wie in der folgenden Tabelle aufgeführt.
+Die Umkehrung, Zerstörung, kann verwendet werden, um ein Opfer zu töten, das den Kleriker zum Zeitpunkt der Zauberwirkung berührt. Dieses Opfer darf einen Willenskraft-Wurf zur Verteidigung ablegen, modifiziert durch den Rang oder die Statur des Ziels – je nachdem, was dem Opfer das vorteilhaftere Ergebnis liefert, wie in der folgenden Tabelle aufgeführt.
 
-| Zielrang | Ziel STÄ | Willenskraft-Modifikator |
+| Ziel Rang | Ziel Statur | Willenskraft-Modifikator |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | Gewaltig |
 | 2 | 21-40 | Schwer |
@@ -2588,12 +2592,12 @@ Wenn umgekehrt, kann Zerstörung verwendet werden, um ein Opfer zu töten, das z
 | 4 | 61-80 | Leicht |
 | 5 | 81+ | Sehr Leicht |
 
-_\* Diese Kategorie beinhaltet Charaktere, die keine Klasse besitzen._
+_\* Diese Kategorie umfasst Charaktere, die keine Klasse besitzen._
 
-Wenn dieser Widerstandswurf misslingt, wird das Subjekt auf der Stelle getötet und sein Körper zu Staub zerfallen. Nur das Wirken von Wunsch bringt das Opfer in diesem Stadium zurück. Bei einem erfolgreichen Wurf wird das Subjekt dennoch auf negative 1W4 Trefferpunkte an der berührten Trefferzone reduziert. Rüstung bietet keinen Schutz gegen diesen Schaden. Zerstörung lässt den Zaubernden nicht altern, wenn sie verwendet wird.
+Ist dieser Widerstandswurf erfolglos, wird das Subjekt sofort getötet und sein Körper zu Staub zerfallen. Nur das Wirken von Wunsch bringt das Opfer in diesem Stadium zurück. Bei einem erfolgreichen Wurf wird das Subjekt dennoch auf negative 1d4 Trefferpunkte in der berührten Trefferzone reduziert. Rüstung bietet gegen diesen Schaden keinen Schutz. Zerstörung lässt den Zaubernden bei der Anwendung nicht altern.
 
 ---
-#### Portal sichern
+#### Portal Sichern
 
 (Transmutation)
 
@@ -2602,15 +2606,15 @@ Wenn dieser Widerstandswurf misslingt, wird das Subjekt auf der Stelle getötet 
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 1 Minute/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 60 Fuß/Intensität |
-| **Bereich:** 1 Portal | **Widerstand:** N/V |
+| **Bereich:** 1 Portal | **Widerstand:** N/A |
 
-Dieser Zauber kann gewirkt werden, um eine Tür, ein Fallgitter, ein Tor oder eine andere ähnliche Öffnung aus Holz, Stein oder Metall so zu verschließen, als wäre sie sicher verriegelt. Die Tür, die bis zu 25 Trefferpunkte pro Intensität aufweisen kann, kann eingetreten werden, öffnet sich aber ansonsten nicht für die Dauer des Zaubers, die vom Zaubernden jederzeit beendet werden kann. Der Zauber kann mit einem erfolgreichen Wirken von Magie bannen mit einer Intensität, die größer ist als die Stärke, oder mit Öffnen bei jeder Intensität aufgehoben werden. Portal sichern wird auch automatisch von Kreaturen von außerhalb der primären materiellen Ebene umgangen, wie Dämonen, Teufeln, Engeln und Elementaren, da sie durch feste Materie gehen können. Dies beeinflusst auch nicht Blinzeln oder andere solche Zauber.
+Dieser Zauber kann gewirkt werden, um eine Tür, ein Fallgitter, ein Tor oder eine andere ähnliche Öffnung aus Holz, Stein oder Metall zugehalten zu halten, als wäre sie sicher verschlossen. Die Tür, die bis zu 25 Trefferpunkte pro Intensität haben kann, kann aufgebrochen werden, öffnet sich aber ansonsten nicht für die Dauer des Zaubers, die vom Zaubernden jederzeit beendet werden kann. Der Zauber kann durch ein erfolgreiches Wirken von Magie Bannen mit einer Intensität, die höher ist als die Stärke, oder durch Schloss Öffnen bei jeder Intensität aufgehoben werden. Portal Sichern wird auch automatisch von Kreaturen umgangen, die von außerhalb der primären materiellen Ebene stammen, wie Dämonen, Teufel, Engel und Elementare, da sie durch feste Materie gehen können. Dies betrifft auch nicht Blinzeln oder ähnliche Zauber.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
 | 1 | 1 | 1 Min.; 60 Fuß Reichweite; bis zu 25 TP Portal; eine typische Holztür |
 | 2 | 2 | 2 Min.; 120 Fuß Reichweite; bis zu 50 TP Portal; eine verstärkte Holztür |
-| 3 | 3 | 3 Min.; 180 Fuß Reichweite; bis zu 75 TP Portal; eine Eisentür oder Fallgitter |
+| 3 | 3 | 3 Min.; 180 Fuß Reichweite; bis zu 75 TP Portal; eine Eisentür oder ein Fallgitter |
 | 4 | 4 | 4 Min.; 240 Fuß Reichweite; bis zu 120 TP Portal; ein kleines Burgtor |
 | 5 | 5 | 5 Min.; 300 Fuß Reichweite; bis zu 150 TP Portal; ein großes, verstärktes Burgtor |
 
@@ -2624,17 +2628,17 @@ Dieser Zauber kann gewirkt werden, um eine Tür, ein Fallgitter, ein Tor oder ei
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 5 Runden/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 0 |
-| **Bereich:** Zaubernder | **Widerstand:** N/V |
+| **Bereich:** Zaubernder | **Widerstand:** N/A |
 
-Schild erschafft eine unsichtbare, mobile Kraftscheibe, die vor dem Magiewirker schwebt und die Schwierigkeit von Angriffen aus dieser Richtung erhöht, indem sie sie ablenkt. Im Miniaturen-Kampf blockt Schild nur Schaden, der durch eines der vorderen Quadrate des Zaubernden geht. Der Magiewirker muss keine Fertigkeitsprobe ablegen, abgesehen vom Wirken des Zaubers, da die Magie des Zaubers den Schild automatisch zwischen die Angriffe und den Zaubernden schiebt. Der Abzug, der auf Angriffe angewendet wird, die von vorne auf den Zaubernden treffen, basiert auf der Angriffsart und ist in der folgenden Tabelle aufgeführt.
+Schild erschafft eine unsichtbare, bewegliche Kraftscheibe, die vor dem Magiewirker schwebt und den Schwierigkeitsgrad von Angriffen aus dieser Richtung erhöht, indem sie sie ablenkt. Im Miniaturen-Kampf blockt Schild nur Schaden, der durch eines der vorderen Felder des Zaubernden geht. Der Magiewirker muss keine Fertigkeitsprobe ablegen, die über das Wirken des Zaubers hinausgeht, da die Magie des Zaubers den Schild automatisch zwischen die Angriffe und den Zaubernden schiebt. Der Abzug, der auf Angriffe angewendet wird, die durch die Front des Zaubernden treffen, basiert auf der Angriffsart und ist in der folgenden Tabelle aufgeführt.
 
-| Angriffsart | Beispiele | Schwierigkeit, Zaubernden zu treffen |
+| Angriffsart | Beispiele | Schwierigkeit, den Zaubernden zu treffen |
 | :-- | :-- | :-- |
-| Magisches Geschoss | Nur Magische Geschosse | Aussichtslos, Magische Geschosse werden automatisch geblockt |
-| Geschleuderte Angriffe | Steine, geworfene Äxte und Speere etc. | Herkulisch |
-| Apparate-propellierte Angriffe | Pfeile, Armbrust- und Mantikorbolzen, Schleudersteine und -kugeln etc. | Gewaltig |
-| Sonstige physische | Schwerter, Bisse, Klauen usw. | Schwer |
-| Zauber, denen man Ausweichen kann | Feuerball, Blitzstrahl, Eiskegel usw. | Normale Schwierigkeit, aber kein Schaden, wenn der Zaubernde ausweicht, und halber bei Misserfolg |
+| Magisches Geschoss | Nur Magische Geschosse | Unmöglich, Magische Geschosse werden automatisch geblockt |
+| Geschleuderte Angriffe | Steine, geworfene Äxte und Speere usw. | Herkulisch |
+| Vorrichtungen-angetriebene Angriffe | Pfeile, Armbrust- und Mantikorenbolzen, Schleudersteine und Kugeln usw. | Gewaltig |
+| Anderer physischer Schaden | Schwerter, Bisse, Klauen usw. | Schwer |
+| Zauber, die ausgewichen werden können | Feuerball, Blitzstrahl, Kältekegel usw. | Normale Schwierigkeit, aber kein Schaden, wenn der Zaubernde ausweicht, und halber Schaden, wenn er scheitert |
 
 ---
 #### Stille
@@ -2644,16 +2648,16 @@ Schild erschafft eine unsichtbare, mobile Kraftscheibe, die vor dem Magiewirker 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 2 | **Zauberzeit:** 2 Aktionen |
-| **Sphäre:** Wächter | **Dauer:** Siehe unten |
+| **Sphäre:** Wächter | **Dauer:** Siehe Unten |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 360 Fuß |
-| **Bereich:** 15 Fuß Radius | **Widerstand:** Siehe unten |
+| **Bereich:** 15 Fuß Radius | **Widerstand:** Siehe Unten |
 
-Dieser Zauber erlaubt dem Zaubernden, vollkommene Stille im Wirkungsbereich zu erzeugen. Keinerlei Geräusch ist möglich, Konversationen enden, Zauber mit einer verbalen Komponente können nicht gewirkt werden usw. Wenn Stille auf einen Gegenstand oder eine Kreatur gewirkt wird, bewegt sich der Wirkungsbereich mit dem Ziel mit. Derselbe Zauber, der in offene Luft gewirkt wurde, bleibt jedoch unbeweglich. Die Dauer des Zaubers hängt davon ab, ob das Subjekt willens oder unwillens ist. Bei einem willigen Ziel beträgt die Dauer 2 Minuten/Intensität, während die Dauer bei einem unwilligen Ziel 2 Runden/Intensität beträgt. Ein Willenskraft-Widerstandswurf ist nur erlaubt, wenn der Zauber auf eine unwillige Kreatur gewirkt wird; ist dieser erfolgreich, zielt der Zauber stattdessen auf den Bereich, den die Kreatur einnimmt, und bleibt unbeweglich.
+Dieser Zauber erlaubt es dem Zaubernden, absolute und vollkommene Stille im Wirkungsbereich zu erschaffen. Kein Geräusch ist möglich, Unterhaltungen verstummen, Zauber mit einer verbalen Komponente können nicht gewirkt werden usw. Wird Stille auf einen Gegenstand oder eine Kreatur gewirkt, bewegt sich der Wirkungsbereich mit dem Ziel mit. Dasselbe Zauber in die offene Luft gewirkt, bleibt jedoch unbeweglich. Die Dauer des Zaubers hängt davon ab, ob das Subjekt willig oder unwillig ist. Bei einem willigen Ziel beträgt die Dauer 2 Minuten/Intensität, bei einem unwilligen Ziel beträgt die Dauer 2 Runden/Intensität. Ein Willenskraft-Widerstandswurf ist nur erlaubt, wenn der Zauber auf eine unwillige Kreatur gewirkt wird; ist er erfolgreich, zielt der Zauber stattdessen auf den Bereich, den die Kreatur einnimmt, und bleibt unbeweglich.
 
 ---
 #### Schlaf
 
-(Verzauberung (Bezauberung))
+(Verzauberung (Charme))
 
 | | |
 | :-- | :-- |
@@ -2662,11 +2666,11 @@ Dieser Zauber erlaubt dem Zaubernden, vollkommene Stille im Wirkungsbereich zu e
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 60 Fuß |
 | **Bereich:** 10 Fuß Radius | **Widerstand:** Willenskraft |
 
-Dieser Zauber bewirkt, dass ein magischer Schlaf über eine lebende Kreatur pro Intensitätsstufe in einem kreisförmigen Bereich von 10 Fuß Radius fällt. Der Wirkungsbereich des Zaubers ist zentriert auf einen Punkt im Raum oder am Boden, und die nächste Kreatur darf zuerst widerstehen, dann die nächstgelegene usw. Wo zwei oder mehr den gleichen Abstand haben, bestimme zufällig, wer betroffen ist. Jede Kreatur darf einen Wurf zum Widerstehen ablegen, und wenn einer erfolgreich ist, muss ein anderer versuchen, bis eine Gesamtzahl erreicht ist, die der Intensität des Zaubers entspricht, oder keine Kreaturen mehr im Wirkungsbereich sind. Kreaturen in einem erhöhten Zustand der Wachsamkeit oder im Kampf, wenn der Zauber gewirkt wird, finden den Widerstandswurf um einen Grad leichter.
+Dieser Zauber versetzt pro Intensitätsstufe eine lebende Kreatur in einem kreisförmigen Bereich von 10 Fuß Radius in einen magischen Schlummer. Der Wirkungsbereich des Zaubers ist auf einen Punkt im Raum oder am Boden zentriert, und die nächste Kreatur darf zuerst widerstehen, dann die nächstgelegene usw. Falls zwei oder mehr Kreaturen gleich weit entfernt sind, bestimme zufällig, wer betroffen ist. Jede Kreatur darf einen Wurf zur Verteidigung ablegen; ist einer erfolgreich, muss der nächste versuchen, bis insgesamt so viele betroffen sind, wie der Intensität des Zaubers entspricht, oder keine Kreaturen mehr im Wirkungsbereich vorhanden sind. Kreaturen in einem Zustand erhöhter Wachsamkeit oder im Kampf, wenn der Zauber gewirkt wird, finden den Verteidigungswurf um einen Grad leichter.
 
-Große Kreaturen (STÄ 21-40) sind weniger anfällig für Schlaf, wobei der Widerstandswurf Leicht ist, während der Widerstandswurf für riesige Kreaturen (STÄ 41+) Sehr Leicht ist. Kleinere Kreaturen sind immer vor größeren betroffen; daher sind Kreaturen der STÄ 20 oder weniger immer vor jenen der STÄ 21 bis 40 betroffen, welche wiederum selbst immer vor jenen der STÄ 41+ betroffen sind.
+Große Kreaturen (Statur 21-40) sind weniger anfällig für Schlaf, wobei der Widerstandswurf Leicht ist, während der Widerstandswurf für Riesige Kreaturen (Statur 41+) Sehr Leicht ist. Kleinere Kreaturen sind immer früher betroffen als größere; daher sind Kreaturen mit Statur 20 oder weniger immer früher betroffen als solche mit Statur 21 bis 40, welche wiederum immer früher betroffen sind als solche mit Statur 41+.
 
-Während sie schlafen, sind betroffene Kreaturen hilflos und normaler Lärm wird sie nicht stören, aber sie können geschüttelt oder geohrfeigt werden, um aufzuwachen. Jeder Angriff, sofern nicht tödlich, wird sie ebenfalls aufwecken (wobei der Angriff als Überraschung kommt). Zu versuchen, eine Kreatur aufzuwecken, benötigt 1 Kampfrunde.
+Während sie schlafen, sind betroffene Kreaturen hilflos, und normales Geräusch stört sie nicht, aber sie können wachgeschüttelt oder geohrfeigt werden. Jeder Angriff, sofern er nicht tödlich ist, führt ebenfalls dazu, dass sie aufwachen (obwohl der Angriff als Überraschung kommt). Der Versuch, eine Kreatur zu wecken, dauert 1 Kampfrunde.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -2677,7 +2681,7 @@ Während sie schlafen, sind betroffene Kreaturen hilflos und normaler Lärm wird
 | +1 | +1 | Setze Progression fort |
 
 ---
-#### Verlangsamen
+#### Langsamkeit
 
 (Transmutation)
 
@@ -2688,7 +2692,7 @@ Während sie schlafen, sind betroffene Kreaturen hilflos und normaler Lärm wird
 | **Kosten:** 3/Intensität | **Reichweite:** 100 Fuß |
 | **Bereich:** 20 Fuß Radius | **Widerstand:** Willenskraft |
 
-Dieser Zauber erlaubt dem Zaubernden, die normale Bewegungsrate einer Kreatur zu halbieren. Eine zusätzliche Kreatur kann pro zusätzlicher Intensitätsstufe verlangsamt werden. Betroffene müssen sich im Wirkungsbereich befinden, wenn der Zauber erstmals gewirkt wird, können sich aber danach frei bewegen. Zudem erhalten jene, die unter den Auswirkungen von Verlangsamen stehen, einen Abzug von -4 auf ihre Initiative für die Dauer des Zaubers und müssen ihre gesamten Aktionspunkte um die Hälfte reduzieren, einschließlich jener, die nur für reaktive Zwecke verwendet werden. Das Wirken von Verlangsamen hebt die Auswirkungen von Hast auf. Verlangsamen kumuliert nicht mit sich selbst oder ähnlichen magischen Effekten.
+Dieser Zauber erlaubt dem Zaubernden, die normale Bewegungsrate einer Kreatur zu halbieren. Für jede weitere Intensitätsstufe kann eine weitere Kreatur verlangsamt werden. Die Betroffenen müssen sich beim ersten Wirken des Zaubers innerhalb des Wirkungsbereichs befinden, können sich danach aber frei bewegen. Zusätzlich erhalten diejenigen unter der Wirkung von Langsamkeit einen Abzug von -4 auf ihre Initiative für die Dauer des Zaubers und müssen ihre gesamten Aktionspunkte halbieren, einschließlich derer, die nur für reaktive Zwecke verwendet werden. Das Wirken von Eile hebt die Wirkungen von Langsamkeit auf. Langsamkeit ist nicht mit sich selbst oder ähnlichen magischen Effekten stapelbar.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -2699,7 +2703,7 @@ Dieser Zauber erlaubt dem Zaubernden, die normale Bewegungsrate einer Kreatur zu
 | +1 | +3 | Setze Progression fort |
 
 ---
-#### Gift verlangsamen
+#### Gift Verzögern
 
 (Nekromantie)
 
@@ -2708,18 +2712,18 @@ Dieser Zauber erlaubt dem Zaubernden, die normale Bewegungsrate einer Kreatur zu
 | **Rang:** Kleriker 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Heilung | **Dauer:** 1 Stunde/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/V |
+| **Bereich:** 1 Ziel | **Widerstand:** N/A |
 
-Dieser Zauber erlaubt dem Zaubernden, die Auswirkungen von Giften und Venen zu verlangsamen; er neutralisiert das Toxin jedoch nicht. Stattdessen werden die Toxine, die sich im Körper ausbreiten, so weit verlangsamt, dass hoffentlich zusätzliche heilende Maßnahmen gefunden werden können. Die Einsetzzeit eines Toxins tritt erst ein, nachdem die Dauer des Zaubers abgelaufen ist.
+Dieser Zauber erlaubt dem Zaubernden, die Wirkungen von Giften und Venom zu verlangsamen; er neutralisiert das Toxin jedoch nicht. Stattdessen werden die Toxine, die sich im Körper ausbreiten, so weit verlangsamt, dass hoffentlich zusätzliche heilende Maßnahmen gefunden werden können. Die Einsetzzeit eines Toxins beginnt erst, nachdem die Dauer des Zaubers abgelaufen ist.
 
-Zum Beispiel besitzt Kobrastein eine Einsetzzeit wie folgt: Qual nach 1W6+4 Minuten und Erstickung nach 1W6+6 Stunden. Eine einzelne Intensität von Gift verlangsamen verschiebt die Einsetzzeit daher um 1 Stunde, wonach nach 1W6+4 Minuten wie üblich die Qual einsetzt.
+Kobra-Gift besitzt beispielsweise folgende Einsetzzeit: Qualen nach 1d6+4 Minuten und Erstickung nach 1d6+6 Stunden. Eine einzelne Intensität von Gift Verzögern verschiebt die Einsetzzeit also um 1 Stunde, wonach 1d6+4 Minuten später die Qualen wie normal einsetzen.
 
-Wird Gift verlangsamen bei einem Opfer gewirkt, nachdem die Symptome eingesetzt haben, hören diese auf, bis die Dauer des Zaubers abgelaufen ist, und setzen sich dann wie gewohnt fort.
+Wird Gift Verzögern auf ein Opfer gewirkt, nachdem die Symptome bereits eingesetzt haben, hören diese auf, bis die Dauer des Zaubers abläuft, und fahren dann wie gewohnt fort.
 
-Als letzten Ausweg: Wenn der Zaubernde innerhalb von 10 Minuten zu einer Person gelangen kann, die an einer Vergiftung 'gestorben' ist, zögert Gift verlangsamen den Tod eines Opfers um 1 Stunde pro Intensität hinaus, während derer das Opfer in einem Koma verbleibt. Wenn das Opfer während dieser Zeit von dem Gift geheilt werden kann, mag es noch leben und durch Erste Hilfe oder magische Heilung wiederbelebt werden.
+Als letztes Mittel, falls der Zaubernde innerhalb von 10 Minuten jemanden erreicht, der an Vergiftung 'gestorben' ist, verzögert Gift Verzögern den Tod eines Opfers um 1 Stunde pro Intensität, während derer das Opfer in einem Koma verbleibt. Wenn das Opfer während dieser Zeit vom Gift geheilt werden kann, kann es noch leben und durch Erste Hilfe oder magische Heilung wiederbelebt werden.
 
 ---
-#### Mit Monstern sprechen
+#### Mit Monstern Sprechen
 
 (Transmutation)
 
@@ -2728,12 +2732,12 @@ Als letzten Ausweg: Wenn der Zaubernde innerhalb von 10 Minuten zu einer Person 
 | **Rang:** Kleriker 4 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Divination | **Dauer:** 2 Minuten/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 100 Fuß |
-| **Bereich:** 1 oder mehr Monster | **Widerstand:** N/V |
+| **Bereich:** 1 oder mehr Monster | **Widerstand:** N/A |
 
-Dieser Zauber erlaubt dem Zaubernden, jede Art von Kreatur zu verstehen und von ihr verstanden zu werden, die zu irgendeiner Form von Kommunikation fähig ist (telepathisch, Pheromone, taktil usw.). Der Zaubernde spricht einfach in seiner eigenen Sprache, und die Kreatur versteht die Absicht oder Frage des Zaubernden in ihrer eigenen Kommunikationsform. Der Spielleiter sollte die Reaktion der Kreatur basierend auf ihrer Gesinnung im Vergleich zu der des Zaubernden bestimmen. Der Zaubernde kann während der Dauer des Zaubers von einer Kreatur zu einer anderen der gleichen Art wechseln.
+Dieser Zauber erlaubt dem Zaubernden, jede Art von Kreatur zu verstehen und von ihr verstanden zu werden, die zu irgendeiner Form der Kommunikation fähig ist (telepathisch, Pheromone, taktil usw.). Der Zaubernde spricht einfach in seiner eigenen Sprache, und die Kreatur versteht die Absicht oder Anfrage des Zaubernden in ihrer eigenen Kommunikationsform. Der Spielleiter sollte die Reaktion der Kreatur basierend auf ihrer Gesinnung im Vergleich zu der des Zaubernden bestimmen. Der Zaubernde kann während der Dauer des Zaubers von einer Kreatur zu einer anderen derselben Art wechseln.
 
 ---
-#### Sphäre der Unverwundbarkeit, Geringere
+#### Unverwundbarkeitssphäre, Geringere
 
 (Abjuration)
 
@@ -2742,9 +2746,9 @@ Dieser Zauber erlaubt dem Zaubernden, jede Art von Kreatur zu verstehen und von 
 | **Rang:** Magier 3 | **Zauberzeit:** 2 Aktionen |
 | **Sphäre:** Keine | **Dauer:** 1 Runde/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 0 |
-| **Bereich:** 5 Fuß Radius | **Widerstand:** N/V |
+| **Bereich:** 5 Fuß Radius | **Widerstand:** N/A |
 
-Wenn dieser Zauber gewirkt wird, bildet sich eine unbewegliche Sphäre aus schimmerndem magischen Schutz um den Zaubernden. Rang 1 und 2 Zauber, sowie alle magischen Wirkungsbereiche, die sie erzeugen, dringen nicht durch die Sphäre, einschließlich jener, die von magischen Gegenständen oder den angeborenen magischen Eigenschaften einiger Kreaturen stammen. Der Zaubernde und alle zauberfähigen Verbündeten können einen magischen Angriff aus dem Inneren der Sphäre ohne nachteilige Effekte starten und die Sphäre sogar verlassen und zurückkehren, ohne ihre Dauer zu beeinflussen. Geringere Sphäre der Unverwundbarkeit ist normal von Magie bannen betroffen.
+Wenn dieser Zauber gewirkt wird, bildet sich eine unbewegliche Sphäre aus schimmerndem magischen Schutz um den Zaubernden. Zauber der Ränge 1 und 2 sowie alle magischen Wirkungsbereiche, die sie erzeugen, können die Sphäre nicht durchdringen, einschließlich solcher, die von magischen Gegenständen oder den angeborenen magischen Fähigkeiten einiger Kreaturen herrühren. Der Zaubernde und alle zauberfähigen Verbündeten können einen magischen Angriff aus dem Inneren der Sphäre ohne nachteilige Effekte starten und die Sphäre sogar verlassen und zurückkehren, ohne deren Dauer zu beeinflussen. Die Geringere Unverwundbarkeitssphäre wird normal von Magie Bannen beeinflusst.
 
 ---
 #### Spinnenklettern
@@ -2756,9 +2760,9 @@ Wenn dieser Zauber gewirkt wird, bildet sich eine unbewegliche Sphäre aus schim
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 2 Minuten/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** N/V |
+| **Bereich:** 1 Ziel | **Widerstand:** N/A |
 
-Das Subjekt dieses Zaubers kann sich mit einer Bewegungsrate von 10 Fuß auf vertikalen Flächen und Decken bewegen, selbst während es kopfüber hängt. Das Subjekt muss jegliche Hand- und Fußbekleidung entfernen, und die Verwendung von sehr kleinen Gegenständen (vernachlässigbare ENC) ist unmöglich, da sie an ihren Händen kleben bleiben. Dies beinhaltet die meisten materiellen Komponenten für das Zauberwirken, was das Zaubern während des Einflusses von Spinnenklettern typischerweise unmöglich macht. Um einen Gegenstand vom Individuum zu lösen oder ein widerstrebendes Individuum von einer Oberfläche zu lösen, erfordert einen erfolgreichen Muskelkraft-Wurf mit Schwierigkeit Gewaltig.
+Das Subjekt dieses Zaubers kann sich mit einer Bewegungsrate von 10 Fuß auf vertikalen Flächen und Decken bewegen, selbst während es kopfüber hängt. Das Subjekt muss sämtliches Hand- und Fußschuhwerk ablegen, und die Benutzung sehr kleiner Gegenstände (vernachlässigbare Last) ist unmöglich, da sie an den Händen haften bleiben. Dies schließt die meisten materiellen Zauberkomponenten ein, was das Zaubern unter dem Einfluss von Spinnenklettern normalerweise unmöglich macht. Um einen Gegenstand von der Person loszureißen oder eine sich wehrende Person von einer Oberfläche loszureißen, ist ein erfolgreicher Muskelkraft-Wurf mit dem Schwierigkeitsgrad Gewaltig erforderlich.
 
 ---
 #### Geisterschild
@@ -2772,7 +2776,7 @@ Das Subjekt dieses Zaubers kann sich mit einer Bewegungsrate von 10 Fuß auf ver
 | **Kosten:** 1 | **Reichweite:** Berührung |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Dieser Zauber erschafft einen Schild um den Empfänger, der Geister und Gespenster davon abhält einzudringen. Jeder Geist oder jedes Gespenst, das den Empfänger angreifen oder besitzen möchte, muss den Zauber überwinden, indem er einen vergleichenden Test seiner Willenskraft gegen die Frömmigkeit-Fertigkeit des Zaubernden gewinnt.#### Geistiger Hammer
+Dieser Zauber erschafft ein Schild um den Empfänger, das Geister davon abhält, einzudringen. Jeder Geist, der den Empfänger angreifen oder besitzen möchte, muss den Zauber überwinden, indem er einen konkurrierenden Test seiner Willenskraft gegen die Frömmigkeit-Fertigkeit des Zaubernden gewinnt.#### Geistiger Hammer
 
 (Evokation)
 
@@ -2783,7 +2787,7 @@ Dieser Zauber erschafft einen Schild um den Empfänger, der Geister und Gespenst
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 0 |
 | **Bereich:** 30 Fuß Radius/Intensität | **Widerstand:** Parade oder Ausweichen |
 
-Beim Wirken dieses Zaubers erscheint eine hammerartige Kraft aus spiritueller Energie, die sich auf ein vom Zaubernden bestimmtes Ziel stürzt. In jeder Runde kann der Zaubernde einen seiner Aktionspunkte verwenden, um den Hammer zum Angriff zu führen, sofern die Konzentration aufrechterhalten bleibt. Während er sich konzentriert, darf sich der Zaubernde nicht schneller als gehend bewegen. Er kann mit einer ausgerüsteten Waffe oder einem Schild Ausweichen oder Parieren, ohne die Konzentration zu brechen. Mit jedem für die Manipulation des Hammers ausgegebenen Aktionspunkt kann dieser an jeden Ort innerhalb des Sichtfeldes des Zaubernden bewegt werden. Befindet sich der Zaubernde hinter einem Gegner, kann er den Hammer nutzen, um den Gegner von hinten anzugreifen, wodurch dessen Fähigkeit, sich nach besten Kräften zu verteidigen, aufgehoben wird. Der Geistige Hammer verursacht Schaden wie ein normaler Kriegshammer (1d8+1) und hat eine Trefferchance in Höhe der Kampffertigkeit des Klerikers. Getragene Rüstung bietet nur halben Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Er kann wie üblich pariert oder durch Ausweichen gemieden werden, und Angriffe gegen ihn sind wirkungslos. Der Geistige Hammer zählt als magische Waffe in Bezug auf Kreaturen, die nur durch Magie verletzt werden können, wobei jede Stufe der Intensität nach der ersten einen kumulativen +1 Magie-Bonus gewährt, bis zu einem Maximum von +5. Dieser Bonus wird nicht zum verursachten Schaden addiert, sondern hilft dabei, Kreaturen zu verletzen, die nur durch einen bestimmten Magie-Bonus oder höher verletzt werden können.
+Beim Wirken dieses Zaubers erscheint eine hammerartige Kraft aus geistiger Energie, die sich auf ein vom Zaubernden bestimmtes Ziel stürzt. In jeder Runde kann der Zaubernde einen seiner Aktionspunkte verwenden, um den Hammer zum Angriff zu dirigieren, sofern die Konzentration aufrechterhalten wird. Während der Konzentration ist der Zaubernde darauf beschränkt, sich nicht schneller als gehend zu bewegen, und darf Ausweichen oder mit einer ausgerüsteten Waffe oder einem Schild parieren, ohne die Konzentration zu brechen. Mit jedem für die Manipulation des Hammers ausgegebenen Aktionspunkt kann dieser an jede beliebige Stelle innerhalb des Sichtfeldes des Zaubernden bewegt werden. Wenn sich der Zaubernde hinter einem Gegner befindet, kann er den Hammer benutzen, um den Gegner von hinten anzugreifen, wodurch dessen Fähigkeit, sich nach besten Kräften zu verteidigen, zunichtegemacht wird. Der Geistige Hammer verursacht Schaden wie ein normaler Kriegshammer (1w8+1) und hat eine Trefferchance in Höhe der Kampffertigkeit des Klerikers. Getragene Rüstung bietet nur den halben Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Er kann wie üblich pariert oder durch Ausweichen abgewehrt werden, und Angriffe gegen ihn sind wirkungslos. Der Geistige Hammer zählt als magische Waffe in Bezug auf das Schlagen von Kreaturen, die nur durch Magie verletzt werden können, wobei jede Stufe der Intensität nach der ersten den Äquivalent eines kumulativen +1 Magie-Bonus gewährt, bis zu einem Maximum von +5. Dieser Bonus addiert sich nicht zum zugefügten Schaden, sondern hilft dabei, Kreaturen zu verletzen, die nur durch einen bestimmten Magie-Bonus oder höher verletzt werden können.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -2792,8 +2796,8 @@ Beim Wirken dieses Zaubers erscheint eine hammerartige Kraft aus spiritueller En
 | 3 | 5 | 9 Runden; 90 Fuß Radius; zählt als +2 |
 | 4 | 6 | 12 Runden; 120 Fuß Radius; zählt als +3 |
 | 5 | 7 | 15 Runden; 150 Fuß Radius; zählt als +4 |
-| 6 | 8 | 18 Runden; 180 Fuß Radius; max. +5 |
-| +1 | +1 | Progression für Runden und Radius fortsetzen |
+| 6 | 8 | 18 Runden; 180 Fuß Radius; zählt als maximal +5 |
+| +1 | +1 | Fortsetzung der Progression für Runden und Radius |
 
 ---
 #### Sonnenstrahl
@@ -2803,13 +2807,13 @@ Beim Wirken dieses Zaubers erscheint eine hammerartige Kraft aus spiritueller En
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 5 | **Zauberzeit:** 2 Aktionen |
-| **Sphäre:** Sonne | **Dauer:** 1d4+1 Runden |
+| **Sphäre:** Sonne | **Dauer:** 1w4+1 Runden |
 | **Kosten:** 3/Intensität | **Reichweite:** 30 Fuß/Intensität |
 | **Bereich:** 5 Fuß Radius | **Widerstand:** Siehe unten |
 
-Beim Wirken kann der Kleriker zu einem beliebigen Zeitpunkt während der Dauer des Zaubers mit einer Zauber-Aktion einen brillanten Strahl heiligen Lichts herbeirufen. Der Strahl ist natürliches Sonnenlicht und hat einen Radius von fünf Fuß. Diejenigen im Wirkungsbereich müssen Ausweichen, um zu versuchen, ihre Augen zu schützen, oder sie erblinden für 1d3 Minuten. Wenn sie ihren Widerstandswurf nicht bestehen, blendet der Sonnenstrahl Kreaturen mit Dunkelsicht für 2d4 Minuten und sie verlieren ihre Dunkelsicht-Fähigkeit für 1d4+1 Minuten bis zu 20 Fuß über den Wirkungsbereich hinaus. Kreaturen, für deren Sicht natürliches Sonnenlicht schädlich ist, erblinden bei einem misslungenen Widerstandswurf dauerhaft oder für 2d6 Runden, wenn der Wurf erfolgreich ist.
+Beim Wirken kann der Kleriker während der Dauer des Zaubers mit einer Aktion „Magie wirken“ einen brillanten Strahl aus heiligem Licht herbeirufen. Der Strahl ist natürliches Sonnenlicht und hat einen Radius von fünf Fuß. Diejenigen im Wirkungsbereich müssen mittels Ausweichen versuchen, ihre Augen zu schützen, oder sie werden für 1w3 Minuten geblendet. Wenn sie ihren Widerstandswurf nicht bestehen, blendet der Sonnenstrahl Kreaturen mit Dunkelsicht für 2w4 Minuten, und sie verlieren ihre Dunkelsichtfähigkeit für 1w4+1 Minuten bis zu 20 Fuß über den Wirkungsbereich hinaus. Kreaturen, für die natürliches Sonnenlicht schädlich für ihre Sicht ist, werden bei einem misslungenen Widerstandswurf permanent oder bei einem erfolgreichen Wurf für 2w6 Runden geblendet.
 
-Untote im Wirkungsbereich erleiden 2d6 Schadenspunkte an jeder Trefferzone. Rüstung, ob natürlich oder anders, bietet keinen Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie gewohnt. Wer sich innerhalb von fünf Fuß vom Rand des Wirkungsbereichs befindet, kann Ausweichen, um keinen Schaden zu nehmen. Untote innerhalb von 20 Fuß vom Wirkungsbereich erleiden immer noch 1d6+1 Schadenspunkte, erleiden jedoch bei einem erfolgreichen Widerstandswurf keinen Schaden. Untote, die speziell durch Sonnenlicht geschädigt werden, wie Vampire, werden zerstört, wenn sie nicht Ausweichen können. Pilzartige Kreaturen sowie alle Formen von unterirdischen Pilzen erleiden die gleichen Auswirkungen wie Untote, können aber keinen Widerstandswurf ablegen.
+Untote im Wirkungsbereich erleiden 2w6 Schadenspunkte an jeder Trefferzone. Rüstung, natürlich oder anderweitig, bietet keinen Schutz, aber magische Rüstungspunkte reduzieren den Schaden wie gewohnt. Diejenigen innerhalb von fünf Fuß vom Rand des Wirkungsbereichs können ausweichen, um keinen Schaden zu erleiden. Untote innerhalb von 20 Fuß vom Wirkungsbereich erleiden immer noch 1w6+1 Schadenspunkte, erleiden jedoch bei einem erfolgreichen Widerstandswurf keinen Schaden. Untote, die speziell durch Sonnenlicht geschädigt werden, wie Vampire, werden zerstört, wenn sie nicht ausweichen können. Pilzartige Kreaturen sowie alle Formen unterirdischer Pilze erleiden dieselben Effekte wie Untote, können aber keinen Widerstandswurf ablegen.
 
 ---
 #### Aufräumen
@@ -2819,11 +2823,11 @@ Untote im Wirkungsbereich erleiden 2d6 Schadenspunkte an jeder Trefferzone. Rüs
 | | |
 | :-- | :-- |
 | **Rang:** Magier 0 | **Zauberzeit:** 1 Aktion |
-| **Sphäre:** Keine | **Dauer:** Augenblicklich |
+| **Sphäre:** Keine | **Dauer:** Sofort |
 | **Kosten:** 1 | **Reichweite:** 20 Fuß |
-| **Bereich:** Siehe unten | **Widerstand:** NV |
+| **Bereich:** Siehe unten | **Widerstand:** Keine |
 
-Aufräumen versetzt sofort eine Anzahl von Gegenständen (bis zur MAC des Zaubernden), deren Größe jeweils 2 'Dinge' nicht überschreitet, in einen ordentlichen, aufgeräumten und geordneten Zustand innerhalb der Reichweite des Zaubers. Gegenstände, die größer als jeweils 2 'Dinge' sind, werden in eine geordnetere Position gebracht, erfordern jedoch ein manuelles Eingreifen, um sie richtig aufzuräumen.
+Aufräumen versetzt sofort eine Anzahl von Gegenständen (bis zur MAC des Zaubernden), deren Größe jeweils nicht mehr als 2 „Dinge“ beträgt, in einen ordentlichen, aufgeräumten und geordneten Zustand innerhalb der Reichweite des Zaubers. Gegenstände, die größer als jeweils 2 „Dinge“ sind, werden in eine geordnetere Position geschoben, erfordern jedoch manuelles Eingreifen, um richtig aufgeräumt zu werden.
 
 ---
 #### Wahre Sicht
@@ -2835,9 +2839,9 @@ Aufräumen versetzt sofort eine Anzahl von Gegenständen (bis zur MAC des Zauber
 | **Rang:** Kleriker 3, Magier 4 | **Zauberzeit:** 1 Runde |
 | **Sphäre:** Divination | **Dauer:** 1 Minute/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 Ziel | **Widerstand:** NV |
+| **Bereich:** 1 Ziel | **Widerstand:** Keine |
 
-Wahre Sicht verleiht dem Subjekt die Fähigkeit, die Welt klar zu sehen, bis zu einer Reichweite von 60 Fuß, abhängig von der Sichtlinie. Alle Geheimnisse innerhalb des Wirkungsbereichs werden offenbar; sowohl natürliche als auch magische Dunkelheit wird durchdrungen; geheime Türen werden sichtbar; unsichtbare oder ätherische Angreifer werden enthüllt; Illusionen und Phantome werden offensichtlich; und die wahre Gestalt von gestaltgewandelten Kreaturen wird enthüllt. Selbst das Ätherische und andere Ebenen, die an die materielle Ebene angrenzen, können mit Konzentration erspäht werden. Wahre Sicht negiert zudem die Auswirkungen von Zaubern wie Unschärfe und Spiegelbild. Zusätzlich zu profanen materiellen Komponenten erfordert das Wirken von Wahre Sicht seltene Zutaten aus pulverisierten Pilzen, Safran und Tierfett mit einem Wert von mindestens 300 GM.
+Wahre Sicht gewährt dem Subjekt die Fähigkeit, die Welt klar zu sehen, bis zu einer Reichweite von 60 Fuß, unter Berücksichtigung der Sichtlinie. Alle Geheimnisse innerhalb des Wirkungsbereichs werden offensichtlich; sowohl natürliche als auch magische Dunkelheit wird durchdrungen; Geheimtüren werden sichtbar; unsichtbare oder ätherische Angreifer werden enthüllt; Illusionen und Trugbilder werden offensichtlich; und die wahre Gestalt von gestaltgewandelten Kreaturen wird enthüllt. Sogar das Ätherische und andere Ebenen, die an die materielle Ebene angrenzen, können mit Konzentration erblickt werden. Wahre Sicht negiert auch die Effekte von Zaubern wie Verschwimmen und Spiegelbild. Zusätzlich zu profanen materiellen Komponenten erfordert das Wirken von Wahre Sicht seltene Zutaten aus pulverisierten Pilzen, Safran und Tierfett mit einem Wert von mindestens 300 GP.
 
 ---
 #### Stimme
@@ -2851,7 +2855,7 @@ Wahre Sicht verleiht dem Subjekt die Fähigkeit, die Welt klar zu sehen, bis zu 
 | **Kosten:** 1 | **Reichweite:** Siehe unten |
 | **Bereich:** 1 Ziel | **Widerstand:** Willenskraft |
 
-Stimme verstärkt die Intonation und Ausdrucksweise des Empfängers, sodass sie bei verbalen Befehlen zwingend wirkt. Alle, die den Sprecher hören können, sind gezwungen zuzuhören. Die Vokalisierung trägt zudem über und durch selbst lauteste Hintergrundgeräusche (heulende Stürme, das Rauschen eines Wasserfalls, das Klirren von Waffen auf einem Schlachtfeld) bis zu einer Reichweite vom 30-fachen der CHA des Empfängers in Fuß.
+Stimme verstärkt die Intonation und Ausdrucksweise des Empfängers, sodass sie bei verbalen Befehlen zwingend wird. Alle, die den Sprecher hören können, sind gezwungen zuzuhören. Ihre Vokalisierung trägt auch durch selbst lauteste Hintergrundgeräusche hindurch (heulende Stürme, das Rauschen eines Wasserfalls, das Klirren von Waffen auf einem Schlachtfeld) bis zu einer Reichweite vom 30-fachen der CHA des Empfängers in Fuß.
 
 ---
 #### Feuerwand/Feuerkreis
@@ -2861,39 +2865,39 @@ Stimme verstärkt die Intonation und Ausdrucksweise des Empfängers, sodass sie 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 3, Magier 3 | **Zauberzeit:** 2 Aktionen |
-| **Sphäre:** ?? | **Dauer:** Siehe unten |
+| **Sphäre:** Kampf, Elementar (Feuer) | **Dauer:** Siehe unten |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Siehe unten |
 | **Bereich:** Siehe unten | **Widerstand:** Siehe unten |
 
-Dieser Zauber erlaubt es dem Zaubernden, eine Wand oder einen Kreis aus lodernden Flammen heraufzubeschwören, wie zum Zeitpunkt des Wirkens gewünscht, die in einer violetten oder rötlich-blauen Farbe brennen. Die Dauer des Zaubers bleibt in Kraft, wenn die Konzentration aufrechterhalten wird, oder für 1 Runde pro Intensität, sobald die Konzentration endet. Die Details sind je nach Typ unten aufgeführt:
+Dieser Zauber erlaubt es dem Zaubernden, eine Wand oder einen Kreis aus lodernden Flammen heraufzubeschwören, wie zum Zeitpunkt des Wirkens gewünscht, die in Purpur oder rötlichem Blau brennt. Die Dauer des Zaubers bleibt in Kraft, wenn die Konzentration aufrechterhalten wird, oder für 1 Runde pro Intensität, sobald die Konzentration endet. Die Details sind unten je nach Typ aufgeführt:
 
 **Feuerwand:** Diese Version des Zaubers erzeugt eine stationäre Feuerwand von 20 Fuß Länge pro Intensität. Unabhängig von der endgültigen Intensität hat die Wand eine Höhe von 10 bis 20 Fuß, wie beim Wirken gewünscht. Feuerwand hat eine Reichweite von 180 Fuß und darf nicht horizontal heraufbeschworen werden.
 
-**Feuerkreis:** Diese Version des Zaubers erzeugt einen Feuerkreis um den Zaubernden, der sich mit ihm bewegt. Er hat einen Radius von 10 Fuß, plus weitere 5 Fuß pro zusätzlicher Intensität über die erste hinaus. Unabhängig von der endgültigen Intensität hat der Kreis eine Höhe von 10 bis 20 Fuß, wie beim Wirken gewünscht. Feuerkreis muss den Zaubernden umschließen und hat eine Reichweite von 0.
+**Feuerkreis:** Diese Version des Zaubers erzeugt einen Feuerkreis um den Zaubernden, der sich mit ihm bewegt. Er hat einen Radius von 10 Fuß, plus weitere 5 Fuß pro zusätzlicher Intensität über der ersten hinaus. Unabhängig von der endgültigen Intensität hat der Kreis eine Höhe von 10 bis 20 Fuß, wie beim Wirken gewünscht. Feuerkreis muss den Zaubernden umschließen und hat eine Reichweite von 0.
 
-Die Seite der Wand oder des Kreises, die vom Zaubernden abgewandt ist, strahlt sengende Hitze aus und verursacht 1d6 Schaden pro Runde bei allen innerhalb von 10 Fuß und 1d4 Schaden bis zu 20 Fuß. Dieser Schaden wird üblicherweise am Ende der Runde angewendet, bevor die nächste beginnt. Wenn ein Opfer in einer einzigen Runde beide Hitzezonen besetzt, wird der höhere Schaden angewendet. Diejenigen, die durch die Flammen springen, erleiden 2d6 Schadenspunkte plus einen zusätzlichen Schadenspunkt pro Intensität über die erste hinaus. Dieser Schaden wird auf jede Trefferzone angewendet, und getragene Rüstung bietet keinen Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Ein erfolgreicher Ausweichen-Widerstandswurf ermöglicht es dem Opfer, in der Runde, in der der Zauber entsteht, keinen Schaden zu erleiden, während es versucht, sich von der Hitze abzuwenden oder an den Flammen vorbeizutauchen. Feuer-nutzende Kreaturen erleiden die Hälfte dieses Schadens, Kälte-nutzende Kreaturen den doppelten. Die Flammen haben eine Chance, entflammbare Materialien zu entzünden, die dem gewürfelten Schaden x5% entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für weitere Informationen.
+Die Seite der Wand oder des Kreises, die vom Zaubernden abgewandt ist, strahlt sengende Hitze aus und verursacht 1w6 Schaden pro Runde an allen innerhalb von 10 Fuß und 1w4 Schaden bis auf 20 Fuß Entfernung. Dieser Schaden wird typischerweise am Ende der Runde angewendet, bevor zur nächsten fortgefahren wird. Wenn ein Opfer in einer einzigen Runde beide Hitzebereiche besetzt, wird der größere Schaden angewendet. Diejenigen, die durch die Flammen springen, unterliegen 2w6 Schadenspunkten, plus einem zusätzlichen Schadenspunkt pro Intensität über der ersten hinaus. Dieser Schaden wird auf jede Trefferzone angewendet und getragene Rüstung bietet keinen Schutz, aber magische Rüstungspunkte oder die natürliche Rüstung einer Kreatur reduzieren den Schaden wie gewohnt. Ein erfolgreicher Widerstandswurf auf Ausweichen erlaubt es dem Opfer, in der Runde, in der der Zauber entsteht, keinen Schaden zu erleiden, da das Opfer versucht, von der Hitze weg oder an den Flammen vorbei zu tauchen. Feuer-Kreaturen erleiden den halben Schaden und Kälte-Kreaturen den doppelten. Die Flammen haben eine Chance, brennbare Materialien zu entzünden, die dem gewürfelten Schaden x 5% entspricht. Siehe den Abschnitt über [Feuer](0007_Game_System.md?id=fire-based-attacks) für zusätzliche Informationen.
 
 ---
-#### Wasseratmung (R)
+#### Wasseratmung \(R\)
 
 (Transmutation)
 
 | | |
 | :-- | :-- |
 | **Rang:** Kleriker 2, Magier 2 | **Zauberzeit:** 2 Aktionen |
-| **Sphäre:** Elementar (Wasser, Luft) | **Dauer:** 6 Stunden/Intensität, +1d4 Stunden |
+| **Sphäre:** Elementar (Wasser, Luft) | **Dauer:** 6 Stunden/Intensität, +1w4 Stunden |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** Berührung |
-| **Bereich:** 1 oder mehrere Ziele | **Widerstand:** NV |
+| **Bereich:** 1 oder mehr Ziele | **Widerstand:** Keine |
 
-Dieser Zauber verleiht dem Zaubernden oder anderen die Fähigkeit, für die Dauer des Zaubers unter Wasser zu atmen. Während des Wirkens können mehrere Empfänger berührt werden, um die Vorteile der Wasseratmung zu erhalten. In diesem Fall wird die Dauer durch die Anzahl der Subjekte geteilt. Die genaue Dauer des Zaubers Wasseratmung ist unvorhersehbar und sollte vom Spielleiter gewürfelt werden, da diejenigen, die unter seiner Wirkung stehen, nicht genau wissen sollten, wie viel Zeit noch verbleibt. Das Umkehren dieses Zaubers, Luftatmung, erlaubt es einer Kreatur, die sonst nicht in der Lage ist, Sauerstoff zu atmen, dies zu tun. Die Fähigkeit, das eigene natürliche Element zu atmen, bleibt unabhängig von der Variante des Zaubers erhalten, sodass ein Fisch während der Dauer des Zaubers sowohl an Land als auch unter Wasser atmen könnte.
+Dieser Zauber verleiht dem Zaubernden oder anderen die Fähigkeit, während seiner Dauer unter Wasser zu atmen. Während des Wirkens können mehr als ein Empfänger berührt werden und erhalten somit die Vorteile der Wasseratmung. In diesem Fall wird die Dauer durch die Anzahl der Subjekte geteilt. Die genaue Dauer des Zaubers Wasseratmung ist unvorhersehbar und sollte vom Spielleiter gewürfelt werden, da diejenigen, die unter seinen Effekten stehen, nicht genau wissen sollten, wie viel Zeit noch verbleibt. Die Umkehrung dieses Zaubers, Luftatmung, erlaubt es einer Kreatur, die ansonsten keinen Sauerstoff atmen kann, dies zu tun. Die Fähigkeit, das natürliche Element zu atmen, bleibt unabhängig von der Variante des Zaubers erhalten, sodass ein Fisch während der Dauer des Zaubers sowohl an Land als auch unter Wasser atmen könnte.
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
-| 1 | 3 | 6 Stunden +1d4 Stunden gesamt |
-| 2 | 4 | 12 Stunden +1d4 Stunden gesamt |
-| 3 | 5 | 18 Stunden +1d4 Stunden gesamt |
-| 4 | 6 | 24 Stunden +1d4 Stunden gesamt |
-| +1 | +1 | Progression fortsetzen |
+| 1 | 3 | 6 Stunden +1w4 Stunden insgesamt |
+| 2 | 4 | 12 Stunden +1w4 Stunden insgesamt |
+| 3 | 5 | 18 Stunden +1w4 Stunden insgesamt |
+| 4 | 6 | 24 Stunden +1w4 Stunden insgesamt |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
 #### Netz
@@ -2905,13 +2909,13 @@ Dieser Zauber verleiht dem Zaubernden oder anderen die Fähigkeit, für die Daue
 | **Rang:** Magier 1 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Keine | **Dauer:** 20 Minuten/Intensität |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 30 Fuß/Intensität |
-| **Bereich:** 20 Fuß Radius | **Widerstand:** Ausweichen, plus siehe unten |
+| **Bereich:** 20 Fuß Radius | **Widerstand:** Ausweichen, plus Siehe unten |
 
-Dieser Zauber bewirkt, dass lange Stränge aus klebrigem Gewebe aus der Hand des Zaubernden schießen, die von Boden zu Decke oder Wand zu Wand verankert werden können, um einen Durchgang zu blockieren oder den Fortschritt zu behindern. Es kann auch direkt auf Gegner gesprüht werden, um sie zu verstricken.
+Dieser Zauber bewirkt, dass lange Stränge klebriger Netzweben aus der Hand des Zaubernden schießen, die von Boden zu Decke oder von Wand zu Wand verankert werden können, um einen Durchgang zu blockieren oder den Fortschritt zu behindern. Es kann auch direkt auf Gegner gesprüht werden, um sie zu verstricken.
 
-Angenommen, das Ziel hat Platz, um den Netzen zu entkommen, platziert ein erfolgreicher Ausweichen-Wurf das Ziel außerhalb des Wirkungsbereichs; dies erfordert jedoch einen verfügbaren Aktionspunkt. Ein misslungener Widerstandswurf lässt das Opfer immobilisiert zurück und verstrickt 1d3 Trefferzonen. Wie beim Spezialeffekt [Verstricken](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) ist eine verstrickte Trefferzone unbrauchbar. Ein verstrickter Arm kann das, was er hält, nicht benutzen, eine verstrickte Brust, ein verstrickter Unterleib oder ein verstricktes Bein macht alle körperlichen Fertigkeitswürfe um einen Grad schwieriger (außer Muskelkraft-Würfe, die verwendet werden, um sich zu befreien), und ein verstrickter Kopf verursacht Erstickung, wie unter [Ersticken](0007_Game_System.md?id=asphyxiation) beschrieben.
+Angenommen, das Ziel hat Platz, den Netzen zu entkommen, platziert ein erfolgreicher Ausweichen-Wurf das Ziel außerhalb des Wirkungsbereichs; dies erfordert jedoch einen verfügbaren Aktionspunkt. Ein misslungener Widerstandswurf lässt das Opfer immobilisiert zurück, wobei 1w3 Trefferzonen verstrickt sind. Wie beim Spezialeffekt [Verstricken](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) ist eine verstrickte Zone unbrauchbar. Ein verstrickter Arm kann das, was er hält, nicht benutzen, ein gefangener Brustkorb, Unterleib oder Bein macht alle Würfe auf physische Fertigkeiten um einen Grad schwerer (außer Muskelkraft-Würfe, die benutzt werden, um sich zu befreien), und ein umschlungener Kopf verursacht Erstickung, wie unter [Erstickung](0007_Game_System.md?id=asphyxiation) detailliert.
 
-In der folgenden Runde kann das Opfer einen Aktionspunkt aufwenden, um zu versuchen, sich aus dem Gewebe zu befreien. Magisches Gewebe ist unglaublich stark und klebrig, besitzt 6 Rüstungspunkte und Trefferpunkte in Höhe des Dreifachen der Intensität des Zaubers. Der Versuch, sich zu befreien, erfordert, dass das Opfer einen vergleichenden Wurf auf Muskelkraft gegen die Klebrigkeit des Netzes (entspricht der Arkanen Zauberfertigkeit des Zaubernden) gewinnt. Wenn dies fehlschlägt, bleibt das Ziel fixiert und kann sich nicht durch bloße Kraft befreien. Der Versuch, sich freizuschneiden, setzt das verwendete Werkzeug oder die Waffe demselben Prozess aus. Entgegen dem allgemeinen Glauben sind Netze nicht entflammbar, aber ein Charakter könnte sich langsam durch ein Netz brennen, indem er eine Flamme verwendet, um die Stränge schrumpfen zu lassen (Feuerschaden ignoriert die Rüstungspunkte des Netzes).
+In der folgenden Runde kann das Opfer einen Aktionspunkt aufwenden, um zu versuchen, sich aus den Netzen zu befreien. Magische Netze sind unglaublich stark und klebrig, besitzen 6 Rüstungspunkte und Trefferpunkte in Höhe des Dreifachen der Intensität des Zaubers. Der Versuch, sich zu befreien, erfordert, dass das Opfer einen vergleichenden Wurf auf Muskelkraft gegen die Klebrigkeit des Netzes (entspricht der Fertigkeit Arkane Magie wirken des Zaubernden) gewinnt. Wenn dies misslingt, bleibt das Ziel gefesselt und kann sich nicht allein durch Stärke befreien. Der Versuch, sich freizuschneiden, setzt das verwendete Werkzeug oder die Waffe demselben Prozess aus. Entgegen der landläufigen Meinung sind Netze nicht brennbar, aber ein Charakter könnte sich langsam einen Weg durch ein Netz brennen, indem er eine Flamme benutzt, um die Stränge schrumpfen zu lassen (Feuerschaden ignoriert die Rüstungspunkte des Netzes).
 
 | Intensität | Kosten | Variabler Effekt |
 | :-: | :-: | :-- |
@@ -2919,7 +2923,7 @@ In der folgenden Runde kann das Opfer einen Aktionspunkt aufwenden, um zu versuc
 | 2 | 4 | 40 Min.; 60 Fuß Reichweite; 6 Rüstung, 6 Trefferpunkte |
 | 3 | 5 | 60 Min.; 90 Fuß Reichweite; 6 Rüstung, 9 Trefferpunkte |
 | 4 | 6 | 80 Min.; 120 Fuß Reichweite; 6 Rüstung, 12 Trefferpunkte |
-| +1 | +1 | Progression fortsetzen |
+| +1 | +1 | Fortsetzung der Progression |
 
 ---
 #### Wunsch
@@ -2930,53 +2934,53 @@ In der folgenden Runde kann das Opfer einen Aktionspunkt aufwenden, um zu versuc
 | :-- | :-- |
 | **Rang:** Magier 5 | **Zauberzeit:** Siehe unten |
 | **Sphäre:** Keine | **Dauer:** Siehe unten |
-| **Kosten:** 3, +1 oder mehr ERF | **Reichweite:** Unbegrenzt |
+| **Kosten:** 3, +1 oder mehr Erf. Mod. | **Reichweite:** Unbegrenzt |
 | **Bereich:** Siehe unten | **Widerstand:** Siehe unten |
 
-Wunsch kann die Realität auf dauerhafte und signifikante Weise verändern. Um diesen Zauber zu wirken, muss der Magiekundige 3 Magiepunkte und 1 oder mehr ERF-Würfe ausgeben, abhängig vom gewünschten Ergebnis. Jedes aufeinanderfolgende Wirken von Wunsch innerhalb einer Spanne von 1 Monat verdoppelt den erforderlichen ERF-Aufwand. Die Zauberzeit ist üblicherweise erforderlich, um die Details des Wunsches verbal darzulegen. Nach Abschluss erleidet der Zaubernde einen Verlust an Ermüdung in Höhe der ausgegebenen ERF und altert um 5% seiner normalen Lebenserwartung (für Menschen wären das fünf Jahre). Siehe [Altern](0007_Game_System.md?id=aging) für die durchschnittlichen Lebenserwartungen der demihumanen Spezies.
+Wunsch kann die Realität auf dauerhafte und signifikante Weise verändern. Um diesen Zauber zu wirken, muss der Magieanwender 3 Magiepunkte und 1 oder mehr Erf. Mod.-Würfe ausgeben, abhängig vom gewünschten Ergebnis. Jedes aufeinanderfolgende Wirken von Wunsch innerhalb einer Zeitspanne von 1 Monat verdoppelt den normalerweise erforderlichen Aufwand an Erf. Mod. Die Zauberzeit ist typischerweise erforderlich, um die Details des Wunsches verbal darzulegen. Nach Abschluss erleidet der Zaubernde einen Verlust an Ermüdung in Höhe des ausgegebenen Erf. Mod. und altert um 5% seiner normalen Lebenserwartung (für Menschen wären das fünf Jahre). Siehe [Altern](0007_Game_System.md?id=aging) für die durchschnittlichen Lebenserwartungen der demi-humanen Spezies.
 
-Die Ergebnisse eines Wunsches sollten wörtlich genommen werden und sind offen für die Interpretation durch den Spielleiter. Gierige Wünsche enden üblicherweise schlecht. Es besteht eine 10%ige Chance, dass ein mit gierigen Absichten ausgesprochener Wunsch in irgendeiner Weise nach hinten losgeht. Zum Beispiel könnte der Wunsch nach Reichtum diesen aus den Schatzkammern des örtlichen Lords oder Königs teleportieren. Ein Wunsch kann keine Dekrete gottheitsähnlicher Wesen aufheben, es sei denn, ein solches Wesen hat diesen Wunsch ausgesprochen.
+Die Ergebnisse eines Wunsches sollten wörtlich genommen werden und sind offen für die Interpretation durch den Spielleiter. Gierige Wünsche enden typischerweise schlecht. Es besteht eine 10%ige Chance, dass ein aus gierigen Motiven ausgesprochener Wunsch in irgendeiner Weise nach hinten losgeht. Zum Beispiel könnte das Wünschen von Reichtum diesen aus den Schatzkammern des lokalen Fürsten oder Königs teleportieren. Ein Wunsch kann keine Dekrete gottheit-ähnlicher Wesen aufheben, es sei denn, ein solches Wesen hat besagten Wunsch selbst ausgesprochen.
 
-Einige Beispielwünsche und der erforderliche ERF-Aufwand folgen.
+Einige Beispielwünsche und der erforderliche Erf. Mod.-Aufwand folgen.
 
-##### Wunsch-Beispiele und Kosten
+##### Wunschbeispiele und Kosten
 
-| Gewünschter Wunsch | ERF-Kosten |
+| Gewünschter Wunsch | Erf. Mod. Kosten |
 | :-- | :-: |
-| Bestimmte Effekte umkehren, die üblicherweise den Wunsch-Zauber erfordern. | 1 ERF |
-| Die Effekte eines beliebigen anderen Arkanen oder Göttlichen Zaubers von Rang 1 oder 2 auf 15 Intensität oder Äquivalent duplizieren. | 1 ERF \* |
-| Die Effekte eines beliebigen anderen Arkanen oder Göttlichen Zaubers von Rang 3 oder 4 auf 15 Intensität oder Äquivalent duplizieren. | 2 ERF \* |
-| Die Effekte eines beliebigen anderen Arkanen oder Göttlichen Zaubers von Rang 5 auf 15 Intensität oder Äquivalent duplizieren, außer Realität verändern. | 3 ERF \* |
-| Einen magischen oder übernatürlichen Effekt dauerhaft machen. | 3 ERF |
-| Eine tote Kreatur wieder zum Leben erwecken, unabhängig vom Todesdatum oder den vorhandenen Überresten, ohne negative Auswirkungen. | 5 ERF |
-| Eine verlorene oder verstümmelte Gliedmaße zur vollen Gesundheit wiederherstellen. | 2 ERF |
-| Eine Kreatur von allen schweren und leichten Verletzungen heilen. | 1 ERF |
-| Eine Eigenschaft dauerhaft um 1 Punkt erhöhen oder senken (Maximum +/-5). | \*\* |
-| Eine Fertigkeit dauerhaft um 10% erhöhen oder senken (Maximum +/-50%). | \*\* |
-| Sich selbst und bis zu 7 Verbündete an einen anderen Ort transportieren, unabhängig von der Reichweite. | 1 ERF |
-| Sich selbst und bis zu 7 Verbündete in eine andere Existenzebene transportieren. | 2 ERF |
-| Temporäre, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 50.000 GM erschaffen. Die Gegenstände halten eine Woche pro Intensität. | 1 ERF |
-| Temporäre, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 100.000 GM erschaffen. Die Gegenstände halten eine Woche pro Intensität. | 2 ERF |
-| Permanente, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 10.000 GM erschaffen. | 2 ERF |
-| Permanente, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 50.000 GM erschaffen. | 3 ERF |
-| Permanente, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 100.000 GM erschaffen. | 4 ERF |
-| Einen temporären magischen Gegenstand von Rang 1 oder 2 erschaffen. Der Gegenstand hält 1 Stunde pro Intensität. | 1 ERF |
-| Einen temporären magischen Gegenstand von Rang 3 erschaffen. Der Gegenstand hält 1 Stunde pro Intensität. | 2 ERF |
-| Einen temporären magischen Gegenstand von Rang 4 erschaffen. Der Gegenstand hält 1 Stunde pro Intensität. | 3 ERF |
-| Einen permanenten magischen Gegenstand von Rang 1 oder 2 erschaffen. | 5 ERF |
-| Eine andere Kreatur töten. | 5 ERF\*\*\* |
-| Eine Körperzone eines Feindes verstümmeln und sie vollständig in den negativen Bereich bringen. Nur Unterleib, Bein oder Arm. | 2 ERF |
-| Eine schwere Wunde an einer Körperzone verursachen und sie auf -1 Trefferpunkt bringen. Nur Unterleib, Bein oder Arm. | 1 ERF |
-| Die Landschaft in jede beliebige Art von Gelände umformen, die sich der Zaubernde vorstellen kann. Jeder 100-Fuß-Würfel an Material, das umgeformt werden soll, erfordert 1 Runde Anstrengung. | 1 ERF pro 100-Fuß-Würfel Gelände |
+| Umkehren bestimmter Effekte, die typischerweise den Zauber Wunsch erfordern. | 1 Erf. Mod. |
+| Duplizieren der Effekte eines anderen arkanen oder göttlichen Zaubers von Rang 1 oder 2 mit 15 Intensität oder äquivalent. | 1 Erf. Mod. * |
+| Duplizieren der Effekte eines anderen arkanen oder göttlichen Zaubers von Rang 3 oder 4 mit 15 Intensität oder äquivalent. | 2 Erf. Mod. * |
+| Duplizieren der Effekte eines anderen arkanen oder göttlichen Zaubers von Rang 5 mit 15 Intensität oder äquivalent, außer Realität verändern. | 3 Erf. Mod. * |
+| Einen magischen oder übernatürlichen Effekt permanent machen. | 3 Erf. Mod. |
+| Eine tote Kreatur wieder zum Leben erwecken, unabhängig vom Todesdatum oder den vorhandenen Überresten, ohne negative Effekte. | 5 Erf. Mod. |
+| Ein verlorenes oder verstümmeltes Gliedmaß zu voller Gesundheit wiederherstellen. | 2 Erf. Mod. |
+| Eine Kreatur von allen schweren und leichten Verletzungen heilen. | 1 Erf. Mod. |
+| Dauerhaft eine Eigenschaft um 1 Punkt erhöhen oder senken (Maximum +/-5). | ** |
+| Dauerhaft eine Fertigkeit um 10% erhöhen oder senken (Maximum +/-50%). | ** |
+| Sich selbst und bis zu 7 Verbündete an einen anderen Ort transportieren, unabhängig von der Reichweite. | 1 Erf. Mod. |
+| Sich selbst und bis zu 7 Verbündete in eine andere Existenzebene transportieren. | 2 Erf. Mod. |
+| Temporäre, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 50.000 GP erschaffen. Die Gegenstände halten eine Woche pro Intensität. | 1 Erf. Mod. |
+| Temporäre, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 100.000 GP. Die Gegenstände halten eine Woche pro Intensität. | 2 Erf. Mod. |
+| Permanente, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 10.000 GP erschaffen. | 2 Erf. Mod. |
+| Permanente, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 50.000 GP. | 3 Erf. Mod. |
+| Permanente, nicht-magische Münzen, Objekte oder Eigentum mit einem Wert von nicht mehr als 100.000 GP. | 4 Erf. Mod. |
+| Einen temporären magischen Gegenstand von Rang 1 oder 2 erschaffen. Der Gegenstand hält 1 Stunde pro Intensität. | 1 Erf. Mod. |
+| Einen temporären magischen Gegenstand von Rang 3 erschaffen. Der Gegenstand hält 1 Stunde pro Intensität. | 2 Erf. Mod. |
+| Einen temporären magischen Gegenstand von Rang 4 erschaffen. Der Gegenstand hält 1 Stunde pro Intensität. | 3 Erf. Mod. |
+| Einen permanenten magischen Gegenstand von Rang 1 oder 2 erschaffen. | 5 Erf. Mod. |
+| Eine andere Kreatur töten. | 5 Erf. Mod.*** |
+| Eine Körperzone eines Feindes verstümmeln und sie vollständig in den negativen Bereich bringen. Nur Unterleib, Bein oder Arm. | 2 Erf. Mod. |
+| Eine schwere Wunde an einer Körperzone zufügen und sie auf -1 Trefferpunkt bringen. Nur Unterleib, Bein oder Arm. | 1 Erf. Mod. |
+| Die Landschaft in jede Art von Terrain umformen, die sich der Zaubernde vorstellen kann. Jeder 100-Fuß-Würfel an Material, das umgeformt werden soll, erfordert 1 Runde Aufwand. | 1 Erf. Mod. pro 100-Fuß-Würfel Terrain |
 
-_\* Zusätzlich zu jeder ERF-Anforderung der duplizierten Effekte._
+_* Zusätzlich zu jeder Erf. Mod.-Anforderung der duplizierten Effekte._
 
-_\*\* Jede aufeinanderfolgende Erhöhung oder Senkung kostet 1 kumulativen ERF-Wurf: 1 ERF für die erste, 2 ERF für die zweite, 3 ERF für die dritte, 4 ERF für die vierte und 5 ERF für die fünfte. Dies gilt auch, wenn ein anderer Magiekundiger den Wunsch wirkt._
+_** Jede aufeinanderfolgende Erhöhung oder Senkung kostet 1 kumulativen Erf. Mod.-Wurf: 1 Erf. Mod. für die erste, 2 Erf. Mod. für die zweite, 3 Erf. Mod. für die dritte, 4 Erf. Mod. für die vierte und 5 Erf. Mod. für die fünfte. Dies gilt auch, wenn ein anderer Magieanwender Wunsch wirkt._
 
-_\*\*\* Dies erfordert einen Willenskraft gegen Willenskraft Widerstandswurf gegen den des beabsichtigten Opfers. Ein Fehlschlag bedeutet, dass der Wunsch immer noch gelingt, wenn auch als verdrehte Interpretation der Wünsche des Wünschenden. Zum Beispiel könnte der Zaubernde in die Zukunft transportiert werden, wo das Opfer bereits tot ist, aber ebenso alle Freunde und Lieben des Wünschenden._
+_*** Dies erfordert einen Willenskraft gegen Willenskraft Widerstandswurf gegen den der vorgesehenen Zielperson. Ein Scheitern bedeutet, dass der Wunsch dennoch erfolgreich ist, jedoch als verdrehte Interpretation der Wünsche des Wünschenden. Zum Beispiel könnte der Zaubernde in die Zukunft transportiert werden, wo das Opfer bereits tot ist, aber das sind alle Freunde und geliebten Menschen des Wünschenden auch._
 
 ---
-#### Magierblick
+#### Magiersicht
 
 (Transmutation)
 
@@ -2985,9 +2989,9 @@ _\*\*\* Dies erfordert einen Willenskraft gegen Willenskraft Widerstandswurf geg
 | **Rang:** Magier 3 | **Zauberzeit:** 1 Minute |
 | **Sphäre:** Keine | **Dauer:** 1 Minute/Intensität |
 | **Kosten:** 1/Intensität | **Reichweite:** 0 |
-| **Bereich:** Siehe unten | **Widerstand:** NV |
+| **Bereich:** Siehe unten | **Widerstand:** Keine |
 
-Dieser Zauber erzeugt ein kleines unsichtbares 'Auge', durch das der Magiekundige für die Dauer des Zaubers sehen kann. Dieses Auge kann vor der Gruppe bewegt oder ausgesandt werden, um um Ecken und in Räume zu schauen, und besitzt eine Bewegungsrate von 20 Fuß pro Runde (240 Fuß pro Minute), wenn nur nach 'offensichtlichen' Bedrohungen oder interessanten Gegenständen gescannt wird. Dies erstreckt sich üblicherweise nur auf den Boden und die unteren Wände. Wenn versucht wird, gründlicher zu sein (auch die kompletten Wände und die Decke zu untersuchen), reduziert sich seine Bewegungsrate auf 10 Fuß pro Runde (120 Fuß pro Minute). Der Spielleiter sollte sich frei fühlen, Wahrnehmungswürfe seitens des Zaubernden zu erlauben, wo nötig, in Bezug auf das Entdecken visueller Anomalien. Das Auge ist körperlich, nicht in der Lage, durch feste Materie zu gehen, und besitzt normale Sicht bis zu 60 Fuß und Infrasicht bis zu 10 Fuß. Der Zaubernde muss die Konzentration auf das Auge während der gesamten Dauer aufrechterhalten, sonst bleibt es inaktiv, bis die Konzentration erneut hergestellt wird. Jegliche Blickangriffe, die den Zaubernden normalerweise betreffen würden, betreffen den Zaubernden weiterhin wie gewohnt; das Auge gilt jedoch als unabhängig vom Zaubernden in Bezug auf Blindheit, Dunkelheitszauber und dergleichen. Für das Hindurchpassen durch kleine Öffnungen ist das Auge nicht größer als 1 Zoll und hat eine Statur von 1.
+Dieser Zauber erschafft ein kleines unsichtbares „Auge“, durch das der Magieanwender für die Dauer des Zaubers sehen kann. Dieses Auge kann vor der Gruppe her bewegt oder um Ecken und in Räume geschickt werden, mit einer Bewegungsrate von 20 Fuß pro Runde (240 Fuß pro Minute), wenn nur nach „offensichtlichen“ Bedrohungen oder interessanten Gegenständen gescannt wird. Dies erstreckt sich typischerweise nur auf den Boden und die unteren Wände. Wenn versucht wird, gründlicher zu sein (auch die vollständigen Wände und die Decke zu untersuchen), wird seine Bewegungsrate auf 10 Fuß pro Runde reduziert (120 Fuß pro Minute). Der Spielleiter sollte sich frei fühlen, bei Bedarf Wahrnehmungswürfe seitens des Zaubernden in Bezug auf das Entdecken visueller Anomalien zuzulassen. Das Auge ist körperlich, unfähig, feste Materie zu durchdringen, und besitzt normale Sicht bis zu 60 Fuß sowie Dunkelsicht bis zu 10 Fuß. Der Zaubernde muss die Konzentration auf das Auge während der gesamten Dauer aufrechterhalten, sonst bleibt es inaktiv, bis die Konzentration wieder hergestellt ist. Jegliche Blickangriffe, die normalerweise den Zaubernden betreffen würden, betreffen den Zaubernden weiterhin wie gewohnt; das Auge wird jedoch in Bezug auf Blindheit, Dunkelheitszauber und so weiter als unabhängig vom Zaubernden betrachtet. Zwecks Passierens kleiner Öffnungen ist das Auge nicht größer als 1 Zoll und hat eine STÄ von 1.
 
 ---
 #### Wort der Rückkehr
@@ -2999,8 +3003,8 @@ Dieser Zauber erzeugt ein kleines unsichtbares 'Auge', durch das der Magiekundig
 | **Rang:** Kleriker 4 | **Zauberzeit:** 1 Aktion |
 | **Sphäre:** Beschwörung | **Dauer:** Siehe unten |
 | **Kosten:** 3, +1/zusätzliche Intensität | **Reichweite:** 0 |
-| **Bereich:** Der Zaubernde | **Widerstand:** NV |
+| **Bereich:** Der Zaubernde | **Widerstand:** Keine |
 
-Wenn dieser Zauber gewirkt wird, wird der Kleriker sofort zu einem vorab festgelegten Zufluchtsort teleportiert und einem festgelegten Ankunftspunkt, der nicht größer als 10 Fuß Radius ist. Es gibt keine Begrenzung für die tatsächliche Reichweite der Teleportation, einschließlich zwischen mehreren Ebenen. Innerhalb einer einzigen Ebene gibt es keine Chance auf ein Missgeschick, jedoch gibt das Überqueren auch nur einer Ebene eine Patzer-Chance von 91-00%, zwei Ebenen geben einen Patzer bei einem Wurf von 81-00% und so weiter. Dies ersetzt die normale Patzer-Chance des Zaubernden. Ein Patzer beim Überqueren von Ebenen bedeutet, dass der Kleriker unwiderruflich verloren ist. Patzer innerhalb einer einzigen Ebene folgen den normalen Regeln.
+Wenn dieser Zauber gewirkt wird, wird der Kleriker sofort an einen vorbestimmten Zufluchtsort und einen festgelegten Ankunftspunkt mit einem Radius von nicht mehr als 10 Fuß teleportiert. Es gibt keine Begrenzung für die tatsächliche Reichweite der Teleportation, einschließlich zwischen mehreren Ebenen. Innerhalb einer einzigen Ebene gibt es keine Chance auf ein Missgeschick, jedoch gibt das Überqueren auch nur einer Ebene eine Patzer-Chance von 91-00%, zwei Ebenen geben einen Patzer bei einem Wurf von 81-00% und so weiter. Dies ersetzt die normale Patzer-Chance des Zaubernden. Ein Patzer beim Überqueren von Ebenen bedeutet, dass der Kleriker unwiderruflich verloren ist. Patzer innerhalb einer einzigen Ebene folgen den normalen Regeln.
 
-Zusätzlich zu sich selbst und jeglicher getragener Ausrüstung kann der Kleriker weitere 3 Objekte pro Intensität transportieren, jedes nicht größer als GRÖ/9 'Dinge'. Das zusätzliche transportierte Material kann Schatz, Ausrüstung oder lebende Wesen sein. Transportierte Kreaturen müssen jedoch den Zauber auf einem ausreichenden Intensitätsniveau gewirkt haben, um jede getragene Ausrüstung abzudecken.
+Zusätzlich zu sich selbst und jeglicher getragener Ausrüstung kann der Kleriker weitere 3 Objekte pro Intensität transportieren, von denen jedes nicht größer als GRÖ/9 „Dinge“ ist. Das zusätzlich transportierte Material kann aus Schätzen, Ausrüstung oder lebenden Wesen bestehen. Transportierte Kreaturen müssen jedoch den Zauber auf einer ausreichenden Intensitätsstufe gewirkt bekommen haben, um jegliche getragene Ausrüstung abzudecken.

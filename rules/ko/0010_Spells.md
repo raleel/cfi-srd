@@ -1,60 +1,60 @@
-# 제10장: 주문
+# 10장: 주문
 
 ---
 ### 성직자 주문 목록
 
-| 등급 0 | 등급 1 | 등급 2 | 등급 3 | 등급 4 | 등급 5 |
+| 랭크 0 | 랭크 1 | 랭크 2 | 랭크 3 | 랭크 4 | 랭크 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Avert](0010_Spells.md?id=avert) | [Bless \(R\)](0010_Spells.md?id=bless-r) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(R\)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
-| [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
-| [Calm](0010_Spells.md?id=calm) | [Create Food and Water](0010_Spells.md?id=create-food-and-water) | [Continual Light](0010_Spells.md?id=continual-light) | [Exorcism](0010_Spells.md?id=exorcism) | [Heal \(R\)](0010_Spells.md?id=heal-r) | [Earthquake](0010_Spells.md?id=earthquake) |
-| [Coordination](0010_Spells.md?id=coordination) | [Cure Fatigue \(R\)](0010_Spells.md?id=cure-fatigue-r) | [Cure Disease \(R\)](0010_Spells.md?id=cure-disease-r) | [Free Action](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
-| [Deflect](0010_Spells.md?id=deflect) | [Cure Minor Wounds \(R\)](0010_Spells.md?id=cure-minor-wounds-r) | [Cure Serious Wounds \(R\)](0010_Spells.md?id=cure-serious-wounds-r) | [Neutralize Poison \(R\)](0010_Spells.md?id=neutralize-poison-r) | [Regenerate \(R\)](0010_Spells.md?id=regenerate-r) | [Holy Word \(R\)](0010_Spells.md?id=holy-word-r) |
-| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(R\)](0010_Spells.md?id=detect-charm-r) | [Detect Lie \(R\)](0010_Spells.md?id=detect-lie-r) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(R\)](0010_Spells.md?id=resurrection-r) |
-| [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
-| [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
-| [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
-| [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
-| [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
-| [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
-| [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| | [Purify Food and Drink \(R\)](0010_Spells.md?id=purify-food-and-drink-r) | [Silence](0010_Spells.md?id=silence) |
-| | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
-| | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
+| [방지](0010_Spells.md?id=avert) | [축복 (가역)](0010_Spells.md?id=bless-r) | [점술](0010_Spells.md?id=augury) | [주 상처 치유 (가역)](0010_Spells.md?id=cure-major-wounds-r) | [칼날 장벽](0010_Spells.md?id=blade-barrier) | [성계 주문](0010_Spells.md?id=astral-spell) |
+| [혼란](0010_Spells.md?id=befuddle) | [명령](0010_Spells.md?id=command) | [성가](0010_Spells.md?id=chant) | [신탁](0010_Spells.md?id=divination) | [혼동](0010_Spells.md?id=confusion) | [날씨 조종](0010_Spells.md?id=control-weather) |
+| [진정](0010_Spells.md?id=calm) | [음식과 물 생성](0010_Spells.md?id=create-food-and-water) | [지속 광원](0010_Spells.md?id=continual-light) | [퇴마](0010_Spells.md?id=exorcism) | [치유 (가역)](0010_Spells.md?id=heal-r) | [지진](0010_Spells.md?id=earthquake) |
+| [조화](0010_Spells.md?id=coordination) | [피로 회복 (가역)](0010_Spells.md?id=cure-fatigue-r) | [질병 치유 (가역)](0010_Spells.md?id=cure-disease-r) | [자유 행동](0010_Spells.md?id=free-action) | [물 가르기](0010_Spells.md?id=part-water) | [차원문](0010_Spells.md?id=gate) |
+| [편향](0010_Spells.md?id=deflect) | [경미한 상처 치유 (가역)](0010_Spells.md?id=cure-minor-wounds-r) | [심각한 상처 치유 (가역)](0010_Spells.md?id=cure-serious-wounds-r) | [독 중화 (가역)](0010_Spells.md?id=neutralize-poison-r) | [재생 (가역)](0010_Spells.md?id=regenerate-r) | [성언 (가역)](0010_Spells.md?id=holy-word-r) |
+| [철권](0010_Spells.md?id=ironhand) | [매혹 탐지 (가역)](0010_Spells.md?id=detect-charm-r) | [거짓말 탐지 (가역)](0010_Spells.md?id=detect-lie-r) | [차원 이동](0010_Spells.md?id=plane-shift) | [괴물과 대화](0010_Spells.md?id=speak-with-monsters) | [부활 (가역)](0010_Spells.md?id=resurrection-r) |
+| [위력](0010_Spells.md?id=might) | [악 탐지 (가역)](0010_Spells.md?id=detect-evil-r) | [마법 해제](0010_Spells.md?id=dispel-magic) | [기도](0010_Spells.md?id=prayer) | [회상](0010_Spells.md?id=word-of-recall) | [태양 광선](0010_Spells.md?id=sun-ray) |
+| [광택](0010_Spells.md?id=polish) | [마법 탐지](0010_Spells.md?id=detect-magic) | [화염 일격](0010_Spells.md?id=flame-strike) | [악으로부터의 보호 10피트 반경 (가역)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
+| [보존](0010_Spells.md?id=preserve) | [열기/냉기 견딤](0010_Spells.md?id=endure-heat-cold) | [인물 고정](0010_Spells.md?id=hold-person) | [번개로부터의 보호](0010_Spells.md?id=protection-from-lightning) |
+| [보호](0010_Spells.md?id=protection) | [성향 탐지 (가역)](0010_Spells.md?id=know-alignment-r) | [물체 탐색 (가역)](0010_Spells.md?id=locate-object-r) | [죽은 자 소생 (가역)](0010_Spells.md?id=raise-dead-r) |
+| [수리](0010_Spells.md?id=repair) | [빛 (가역)](0010_Spells.md?id=light-r) | [냉기로부터의 보호](0010_Spells.md?id=protection-from-cold) | [복원](0010_Spells.md?id=restoration) |
+| [영혼 방패](0010_Spells.md?id=spiritshield) | [날씨 예측](0010_Spells.md?id=predict-weather) | [화염으로부터의 보호](0010_Spells.md?id=protection-from-fire) | [진실의 시야](0010_Spells.md?id=true-seeing) |
+| [목소리](0010_Spells.md?id=voice) | [악으로부터의 보호 (가역)](0010_Spells.md?id=protection-from-evil-r) | [저주 해제 (가역)](0010_Spells.md?id=remove-curse-r) | [화염 장벽/화염 고리](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| | [음식과 음료 정화 (가역)](0010_Spells.md?id=purify-food-and-drink-r) | [침묵](0010_Spells.md?id=silence) |
+| | [공포 제거 (가역)](0010_Spells.md?id=remove-fear-r) | [영적 망치](0010_Spells.md?id=spiritual-hammer) |
+| | [독 지연](0010_Spells.md?id=slow-poison) | [물 호흡 (가역)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\)은 가역 주문임을 나타냅니다._
+_(가역)은 가역 주문임을 나타냅니다._
 
 ---
 
 ### 마법사 주문 목록
 
-| 등급 0 | 등급 1 | 등급 2 | 등급 3 | 등급 4 | 등급 5 |
+| 랭크 0 | 랭크 1 | 랭크 2 | 랭크 3 | 랭크 4 | 랭크 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
-| [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
-| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
-| [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
-| [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
-| [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
-| [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
-| [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
-| [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
-| [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
-| [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| [Preserve](0010_Spells.md?id=preserve) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Magic Mouth](0010_Spells.md?id=magic-mouth) | [Wizard Sight](0010_Spells.md?id=wizard-sight) |
-| [Protection](0010_Spells.md?id=protection) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Mirror Image](0010_Spells.md?id=mirror-image) |
-| [Read Magic](0010_Spells.md?id=read-magic) | [Secure Portal](0010_Spells.md?id=secure-portal) | [Slow](0010_Spells.md?id=slow) |
-| [Repair](0010_Spells.md?id=repair) | [Shield](0010_Spells.md?id=shield) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
-| [Tidy](0010_Spells.md?id=tidy) | [Sleep](0010_Spells.md?id=sleep) |
-| | [Web](0010_Spells.md?id=web) |
-| | [Spider Climb](0010_Spells.md?id=spider-climb) |
+| [감정](0010_Spells.md?id=appraise) | [갑옷](0010_Spells.md?id=armor) | [지속 광원](0010_Spells.md?id=continual-light) | [괴물 매혹](0010_Spells.md?id=charm-monster) | [연쇄 번개](0010_Spells.md?id=chain-lightning) | [성계 주문](0010_Spells.md?id=astral-spell) |
+| [방지](0010_Spells.md?id=avert) | [불타는 손](0010_Spells.md?id=burning-hands) | [어둠](0010_Spells.md?id=darkness) | [냉기 원뿔](0010_Spells.md?id=cone-of-cold) | [날씨 조종](0010_Spells.md?id=control-weather) | [대량 매혹](0010_Spells.md?id=charm-mass) |
+| [혼란](0010_Spells.md?id=befuddle) | [외형 변화](0010_Spells.md?id=change-appearance) | [암시](0010_Spells.md?id=darkvision) | [혼동](0010_Spells.md?id=confusion) | [죽음의 주문](0010_Spells.md?id=death-spell) | [지진](0010_Spells.md?id=earthquake) |
+| [냉기 (가역)](0010_Spells.md?id=chill-r) | [인물 매혹](0010_Spells.md?id=charm-person) | [악 탐지 (가역)](0010_Spells.md?id=detect-evil-r) | [차원문](0010_Spells.md?id=dimension-door) | [아이템 부여](0010_Spells.md?id=enchant-item) | [에너지 흡수](0010_Spells.md?id=energy-drain) |
+| [정화 (가역)](0010_Spells.md?id=cleanse-r) | [춤추는 빛](0010_Spells.md?id=dancing-lights) | [투명 탐지](0010_Spells.md?id=detect-invisibility) | [무기 부여](0010_Spells.md?id=enchant-weapon) | [지연 폭발 화염구](0010_Spells.md?id=fireball-delayed-blast) | [차원문](0010_Spells.md?id=gate) |
+| [조화](0010_Spells.md?id=coordination) | [마법 탐지](0010_Spells.md?id=detect-magic) | [마법 해제](0010_Spells.md?id=dispel-magic) | [공포](0010_Spells.md?id=fear) | [살을 돌로 (가역)](0010_Spells.md?id=flesh-to-stone-r) | [유성우](0010_Spells.md?id=meteor-shower) |
+| [편향](0010_Spells.md?id=deflect) | [깃털 낙하](0010_Spells.md?id=feather-fall) | [화염구](0010_Spells.md?id=fireball) | [화염 방패](0010_Spells.md?id=fire-shield) | [영속화](0010_Spells.md?id=permanency) | [권능의 언어 - 살해](0010_Spells.md?id=power-word-kill) |
+| [건조](0010_Spells.md?id=dry) | [친숙한 존재 찾기](0010_Spells.md?id=find-familiar) | [비행](0010_Spells.md?id=fly) | [실수](0010_Spells.md?id=fumble) | [권능의 언어 - 실명](0010_Spells.md?id=power-word-blind) | [소원](0010_Spells.md?id=wish) |
+| [동상](0010_Spells.md?id=frostbite) | [부유하는 원반](0010_Spells.md?id=floating-disk) | [신속](0010_Spells.md?id=haste) | [얼음 폭풍](0010_Spells.md?id=ice-storm) | [환생, 비전](0010_Spells.md?id=reincarnation-arcane) |
+| [매력 (가역)](0010_Spells.md?id=glamour-r) | [식별](0010_Spells.md?id=identify) | [인물 고정](0010_Spells.md?id=hold-person) | [투명화, 강화](0010_Spells.md?id=invisibility-greater) |
+| [접착](0010_Spells.md?id=glue) | [환상](0010_Spells.md?id=illusion) | [투명화, 10피트 반경](0010_Spells.md?id=invisibility-10-ft-radius) | [타인 변신](0010_Spells.md?id=polymorph-other) |
+| [점화 (가역)](0010_Spells.md?id=ignite-r) | [투명화](0010_Spells.md?id=invisibility) | [노크 (가역)](0010_Spells.md?id=knock-r) | [자기 변신](0010_Spells.md?id=polymorph-self) |
+| [마법 트릭](0010_Spells.md?id=magic-tricks) | [언어 이해 (가역)](0010_Spells.md?id=know-languages-r) | [성향 탐지 (가역)](0010_Spells.md?id=know-alignment-r) | [권능의 언어 - 기절](0010_Spells.md?id=power-word-stun) |
+| [위력](0010_Spells.md?id=might) | [부양](0010_Spells.md?id=levitate) | [번개 화살](0010_Spells.md?id=lightning-bolt) | [저주 해제 (가역)](0010_Spells.md?id=remove-curse-r) |
+| [애완동물](0010_Spells.md?id=pet) | [빛](0010_Spells.md?id=light) | [물체 탐색 (가역)](0010_Spells.md?id=locate-object-r) | [무적의 구, 하급](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
+| [광택](0010_Spells.md?id=polish) | [마법 화살](0010_Spells.md?id=magic-missile) | [마법사 잠금](0010_Spells.md?id=mage-lock) | [화염 장벽/화염 고리](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| [보존](0010_Spells.md?id=preserve) | [날씨 예측](0010_Spells.md?id=predict-weather) | [마법 입](0010_Spells.md?id=magic-mouth) | [마법사의 시야](0010_Spells.md?id=wizard-sight) |
+| [보호](0010_Spells.md?id=protection) | [악으로부터의 보호 (가역)](0010_Spells.md?id=protection-from-evil-r) | [거울상](0010_Spells.md?id=mirror-image) |
+| [마법 읽기](0010_Spells.md?id=read-magic) | [포탈 보안](0010_Spells.md?id=secure-portal) | [느림](0010_Spells.md?id=slow) |
+| [수리](0010_Spells.md?id=repair) | [방패](0010_Spells.md?id=shield) | [물 호흡 (가역)](0010_Spells.md?id=water-breathing-r) |
+| [정리](0010_Spells.md?id=tidy) | [수면](0010_Spells.md?id=sleep) |
+| | [거미줄](0010_Spells.md?id=web) |
+| | [거미 등반](0010_Spells.md?id=spider-climb) |
 
-_\(R\)은 가역 주문임을 나타냅니다._
+_(가역)은 가역 주문임을 나타냅니다._
 
 ---
 
@@ -63,783 +63,779 @@ _\(R\)은 가역 주문임을 나타냅니다._
 ## 주문 설명
 
 ---
-#### Appraise (감정)
+#### 감정
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1턴 |
+| **랭크:** 마법사 0 | **시전 시간:** 1턴 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
-| **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1개 아이템 | **저항:** 없음 |
+| **비용:** 1 | **범위:** 접촉 |
+| **영역:** 물체 1개 | **저항:** 없음 |
 
-감정을 사용하면 시전자의 POW와 같은 SIZ 또는 '물건'으로 결합된 ENC를 가진 물리적 상품의 품질을 즉시 평가할 수 있습니다. 이 주문은 동일해 보이는 물건들이 같은 품질인지, 비슷한 품질인지, 혹은 하나 이상이 결함이 있거나 더 높은 품질인지 결정합니다. 이 주문은 유기물에는 효과가 없으며 무생물에만 적용됩니다. 또한 어떤 결함이나 향상이 존재하는지 판별하는 것이 아니라 단순히 존재 여부만 알려줍니다. 마법을 식별하거나 감지하는 데는 아무런 도움이 되지 않습니다.
+감정을 사용하면 시전자의 영력과 동일한 크기(크기) 또는 '물건' 단위의 ENC를 가진 물리적 상품의 품질을 즉시 평가할 수 있습니다. 이 주문은 동일해 보이는 물품들이 동일하거나 유사한 품질인지, 혹은 하나 이상의 물건이 결함이 있거나 더 높은 품질인지 판별합니다. 이 주문은 유기물에는 작동하지 않으며, 무생물에만 적용됩니다. 또한 어떤 결함이나 강화가 있는지 구체적으로 확인하는 것이 아니라, 단지 존재 여부만을 파악합니다. 마법 식별이나 마법 탐지에는 아무런 도움이 되지 않습니다.
 
 ---
-#### Armor (갑옷)
+#### 갑옷
 
 (소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1라운드 |
+| **랭크:** 마법사 1 | **시전 시간:** 1라운드 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/강도 | **사거리:** 접촉 |
-| **범위:** 1대상 | **저항:** 없음 |
+| **비용:** 3 +1/강도 | **범위:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-이 주문을 시전하면 대상에게 비늘 갑옷에 상응하는 마법의 보이지 않는 힘의 장이 부여되어 각 타격 위치에 4의 방어력을 제공합니다. 이미 갑옷을 입은 사람에게 시전할 경우 아무런 효과가 없습니다. 그러나 지속 시간 동안 더 뛰어난 방어력을 제공한다고 가정할 때 자연 방어력을 대체합니다. 4점 이상의 자연 방어력을 가진 생물에게 시전하면 대신 모든 위치의 방어력이 1 증가합니다. 이 마법 방어는 움직임이나 주문 시전을 방해하지 않습니다. 이 주문은 마법으로 해제되거나, 단일 공격으로 8점의 피해를 입고 추가 강도 수준당 +1(아래 표 참조)의 피해를 입을 때까지 지속됩니다. 물론, 시전자는 원할 때 언제든지 주문을 중단할 수 있으며, 잠을 자려면 반드시 중단해야 합니다.
+이 주문을 시전하면 대상에게 비늘 갑옷과 동일한 보호력을 지닌 마법의 힘으로 이루어진 보이지 않는 장막이 부여되어, 각 부위별 타격 위치에 4의 갑옷 점수를 제공합니다. 이미 갑옷을 입고 있는 사람에게 시전하면 아무런 효과가 없습니다. 그러나 지속 시간 동안은 자연 갑옷보다 우수한 보호력을 제공한다면 이를 대체합니다. 4점 이상의 자연 갑옷을 가진 생물에게 시전할 경우, 대신 모든 위치의 갑옷 점수를 1씩 증가시킵니다. 이 마법적 보호는 이동이나 주문 시전을 방해하지 않습니다. 이 주문은 마법으로 해제되거나, 단일 공격으로부터 8점의 피해(추가 강도 레벨당 +1, 아래 표 참조)를 입을 때까지 지속됩니다. 물론 시전자는 원할 때 언제든 주문을 해제할 수 있으며, 잠을 자려면 반드시 해제해야 합니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 방어력 4점; 단일 공격으로 8 피해를 입을 때까지 유지 |
-| 2 | 4 | 방어력 4점; 단일 공격으로 9 피해를 입을 때까지 유지 |
-| 3 | 5 | 방어력 4점; 단일 공격으로 10 피해를 입을 때까지 유지 |
-| 4 | 6 | 방어력 4점; 단일 공격으로 11 피해를 입을 때까지 유지 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 갑옷 점수 4; 1회의 공격으로 8점 피해를 입을 때까지 유지 |
+| 2 | 4 | 갑옷 점수 4; 1회의 공격으로 9점 피해를 입을 때까지 유지 |
+| 3 | 5 | 갑옷 점수 4; 1회의 공격으로 10점 피해를 입을 때까지 유지 |
+| 4 | 6 | 갑옷 점수 4; 1회의 공격으로 11점 피해를 입을 때까지 유지 |
+| +1 | +1 | 진행 계속 |
 
 ---
-#### Astral Spell (아스트랄 주문)
+#### 성계 주문
 
-(변형)
+(변환)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 5, 마법사 5 | **시전 시간:** 2행동 |
-| **영역:** 아스트랄 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 아래 참조 | **저항:** 해당 없음 |
+| **랭크:** 성직자 5, 마법사 5 | **시전 시간:** 2행동 |
+| **영역:** 성계 | **지속 시간:** 아래 참조 |
+| **비용:** 3 +1/추가 강도 | **범위:** 접촉 |
+| **영역:** 아래 참조 | **저항:** 해당 없음 |
 
-이 주문을 사용하면 시전자와 최대 5명(추가 강도 수준당 1명)의 다른 사람들이 아스트랄 차원으로 진입할 수 있습니다. 주문을 시전하는 동안 모두가 서로 접촉하여 원을 형성해야 합니다. 여행자의 육체는 원래 차원에 남겨지며, 일반적으로 마법적 아우라를 발산하는 것 이외의 의복이나 장비는 가져가지 않습니다. 그러한 물건들은 일반적인 형태의 아스트랄 등가물로 변환됩니다. 지속 시간은 시전자가 멈추기를 원할 때까지 유지됩니다. 그러나 마법 해제와 같은 외부 요인에 의해 조기에 종료될 수 있습니다. 시전자의 육체를 죽여도 주문이 조기에 종료되지만, 이는 시전자와 동행한 여행자들을 고립시키는 불행한 부작용이 있습니다.
+이 주문은 시전자와 최대 5명의 다른 인원(추가 강도 레벨당 1명)이 성계(Astral Plane)로 들어갈 수 있게 합니다. 주문 시전 시 모든 인원은 서로 접촉하여 원을 형성해야 합니다. 여행자들의 육체는 원래 차원에 남겨지며, 일반적으로 마법적 오라를 방출하는 장비를 제외한 의복이나 장비는 가져가지 못합니다. 이러한 아이템들은 성계 형태의 상응하는 물건으로 변합니다. 지속 시간은 시전자가 원할 때까지 유지됩니다. 그러나 마법 해제와 같은 외부의 힘에 의해 조기에 종료될 수 있습니다. 시전자의 육체를 죽이면 주문이 일찍 종료되지만, 이는 시전자와 동행한 여행자들이 고립되는 불행한 부작용을 초래합니다.
 
 ---
-#### Augury (점술)
+#### 점술
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 2분 |
+| **랭크:** 성직자 2 | **시전 시간:** 2분 |
 | **영역:** 점술 | **지속 시간:** 즉시 |
-| **비용:** 3/강도 | **사거리:** 60피트 |
-| **범위:** 시전자 | **저항:** 해당 없음 |
+| **비용:** 3/강도 | **범위:** 60피트 |
+| **영역:** 시전자 | **저항:** 해당 없음 |
 
-이 주문을 사용하면 시전자는 향후 30분 이내에 취할 특정 행동이 개인이나 파티의 복지에 유익할지 해로울지 결정할 수 있습니다. 징조를 판별하려면 일종의 초점이 필요한데, 가장 흔한 것은 용의 발톱이나 작은 뼈, 진주, 또는 100GP 이상의 가치가 있는 순금을 부수거나 녹인 것입니다. 이 주문의 최대 강도는 4입니다. 이 판정은 게임 마스터가 수행해야 합니다. 시전자는 결과를 올바르게 해석했는지 여부를 절대 확실하게 알 수 없어야 하기 때문입니다.
+이 주문을 통해 시전자는 향후 30분 이내에 취할 특정 행동이 개인이나 파티의 안녕에 유익할지 혹은 해로울지 판단할 수 있습니다. 징조를 판별하기 위해서는 모종의 초점이 필요한데, 가장 흔한 것은 용의 발톱이나 작은 뼈, 진주, 혹은 100GP 이상의 가치를 지닌 순금으로, 이를 부수거나 녹여 사용합니다. 이 주문의 최대 강도는 4입니다. 결과가 올바르게 해석되었는지 시전자가 의심의 여지 없이 알 수는 없으므로, 이 굴림은 게임 마스터가 수행해야 합니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 어려운 채널 기술 판정 |
-| 2 | 6 | 힘든 채널 기술 판정 |
-| 3 | 9 | 표준 채널 기술 판정 |
-| 4 | 12 | 쉬운 채널 기술 판정 |
+| 1 | 3 | 경이로운 채널 숙련도 굴림 |
+| 2 | 6 | 힘든 채널 숙련도 굴림 |
+| 3 | 9 | 표준 채널 숙련도 굴림 |
+| 4 | 12 | 쉬운 채널 숙련도 굴림 |
 
-점술 판정에 성공하면 다음 결과 중 하나를 얻습니다.
+점술 굴림에 성공하면 다음 결과 중 하나를 얻습니다.
 
-| Augury | 의미 | 
+| 점술 | 의미 | 
 | :-: | :-- |
-| 예 | 행동이 유익할 것이다 |
-| 아니오 | 행동이 해로울 것이다 |
-| 예 그리고 아니오 | 행동이 유익하면서도 해로울 것이다 |
-| 아무것도 아님 | 행동이 유익하지도 해롭지도 않을 것이다 |
+| 예 | 행동이 유익할 것임 |
+| 아니오 | 행동이 해로울 것임 |
+| 예와 아니오 | 행동이 유익하면서도 해로울 것임 |
+| 없음 | 행동이 유익하지도 해롭지도 않음 |
 
-펌블(Fumble)이 발생하면 게임 마스터는 실제와 반대되는 결과를 알려주어야 합니다.
+실수(Fumble)가 발생하면 게임 마스터는 실제와 정반대의 결과를 알려주어야 합니다.
 
 ---
-#### Avert (방지)
+#### 방지
 
-(보호)
+(방호)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 즉시 |
+| **랭크:** 성직자 0, 마법사 0 | **시전 시간:** 즉시 |
 | **영역:** 보호 | **지속 시간:** 즉시 |
-| **비용:** 1 | **사거리:** 60피트 |
-| **범위:** 1 주문 | **저항:** 없음 |
+| **비용:** 1 | **범위:** 60피트 |
+| **영역:** 주문 1개 | **저항:** 없음 |
 
-Avert는 사거리 내의 다른 0등급 주문을 무효화하는 데 사용됩니다. Avert는 반응형 주문 방해 행동을 사용하여 공격적인 0등급 주문을 중화하기 위해 반사적으로 시전할 수 있습니다.
+방지는 범위 내의 다른 랭크 0 주문을 소거하는 데 사용됩니다. 방지는 카운터 매직 반응 행동을 사용하여 공격적인 랭크 0 주문을 무효화하는 대응 방식으로 시전할 수 있습니다.
 
 ---
-#### Befuddle (혼란)
+#### 혼란
 
-(인챈트 (매혹))
+(강화 (매혹))
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1턴 |
+| **랭크:** 성직자 0, 마법사 0 | **시전 시간:** 1턴 |
 | **영역:** 매혹 | **지속 시간:** 30분 |
-| **비용:** 1 | **사거리:** 60피트 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **비용:** 1 | **범위:** 60피트 |
+| **영역:** 대상 1명 | **저항:** 의지 |
 
-Befuddle은 물리적 대상의 정신에 혼란을 일으킵니다. 이 주문의 영향을 받는 대상은 생각을 제대로 하는 데 어려움을 겪으며, 자신이 어디에 있는지, 무엇을 하고 있는지, 왜 하는지 잊어버리고 종종 무관한 사고의 흐름에 빠집니다. 혼란에 빠진 대상은 자기 방어를 위해 행동할 수 있지만, 주문이 끝날 때까지 건설적인 활동을 시작할 수 없습니다. 어떤 종류의 공격이나 위협적인 행동이라도 주문을 즉시 깨뜨리며, 그것이 혼란에 빠진 대상을 구체적으로 겨냥했는지 여부는 상관없습니다.
+혼란은 실체가 있는 대상의 정신에 혼동을 일으킵니다. 주문의 대상은 똑바로 생각하기 어려워지며, 자신이 어디에 있는지, 무엇을 하고 있는지, 왜 하는지 등을 잊어버리고 종종 엉뚱한 사고의 흐름에 빠집니다. 혼란에 빠진 대상은 여전히 자기 방어 행동을 할 수 있지만, 주문이 끝날 때까지 건설적인 활동을 시작할 수 없습니다. 공격이나 위협적인 행동은 그 대상이 구체적으로 혼란에 빠진 대상에게 가해진 것이든 아니든 상관없이 주문을 즉시 중단시킵니다.
 
 ---
-#### Blade Barrier (칼날 장벽)
+#### 칼날 장벽
 
-(창조)
+(방출)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 4 | **시전 시간:** 2행동 |
-| **영역:** 수호, 창조 | **지속 시간:** 3라운드/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 100피트 |
-| **범위:** 5~30피트 반경 | **저항:** 아래 참조 |
+| **랭크:** 성직자 4 | **시전 시간:** 2행동 |
+| **영역:** 수호, 창조 | **지속 시간:** 라운드당 3/강도 |
+| **비용:** 3+1/추가 강도 | **범위:** 100피트 |
+| **영역:** 반경 5-30피트 | **저항:** 아래 참조 |
 
-이 주문은 고정된 지점을 중심으로 휘몰아치는 칼, 단검, 나이프의 장벽을 생성하여, 범위 내를 통과하는 _모든_ 존재에게 1d8점의 피해를 1d4+2개의 무작위 타격 위치에 입힙니다. 갑옷은 일반 방어력의 절반만 제공합니다. 마법 방어력 수치는 평소대로 피해를 줄입니다. 무기가 눈부신 속도로 회전하고 빽빽하게 밀집되어 있어 패리(Parry)나 회피(Evade)가 불가능합니다. 방패를 사용하여 정상적으로 타격 위치를 수동적으로 막을 수는 있습니다. 이 경우 굴린 피해를 갑옷 및 방패의 히트 포인트와 비교해야 합니다.
+이 주문은 고정된 지점을 중심으로 회전하며 베어 넘기는 칼, 단검, 나이프의 장벽을 생성합니다. 효과 영역을 통과하는 _모든_ 대상에게 1d8의 피해를 입히며 1d4+2개의 무작위 타격 위치에 적중합니다. 갑옷은 일반적인 보호력의 절반만 제공합니다. 마법 갑옷 점수는 일반적인 방식으로 피해를 줄입니다. 무기들이 눈을 뜰 수 없는 속도로 회전하며 촘촘하게 밀집해 있기 때문에, 막기(Parry)나 회피(Evade)는 불가능합니다. 방패를 사용하여 일반적인 방식으로 타격 위치를 수동적으로 막을 수는 있습니다. 이 경우, 굴린 피해값을 방패의 갑옷 및 생명력과 비교하는 것을 잊지 마십시오.
 
-이 주문은 성직자나 하나 이상의 아군을 보호하기 위해 방어적으로 시전하거나 적을 가두기 위해 공격적으로 시전할 수 있습니다. 그러나 장벽이 형성될 때 장벽 가장자리에서 5피트 이내에 있는 적들은 회피 판정을 통해 탈출할 수 있습니다. 성공 여부와 관계없이 상대는 범위 밖에서 엎드린 상태로 끝납니다. 판정에 성공하면 피해를 입지 않지만, 그렇지 않으면 완전한 효과를 받습니다.
+이 주문은 성직자나 하나 이상의 아군을 보호하기 위해 방어적으로 시전하거나, 적을 가두기 위해 공격적으로 시전할 수 있습니다. 단, 장벽이 형성될 때 가장자리 5피트 내에 있던 적들은 회피 굴림을 하여 탈출할 수 있습니다. 성공 여부와 상관없이 상대는 효과 영역 바로 바깥쪽으로 쓰러진 상태가 됩니다. 굴림에 성공하면 피해를 입지 않으며, 그렇지 않으면 완전한 효과를 받습니다.
 
 ---
-#### Bless \(R\) (축복)
+#### 축복 (가역)
 
 (소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 1라운드 |
-| **영역:** 모두 | **지속 시간:** 5분 |
-| **비용:** 1 | **사거리:** 180피트 |
-| **범위:** 25피트 반경 | **저항:** 의지력 |
+| **랭크:** 성직자 1 | **시전 시간:** 1라운드 |
+| **영역:** 전체 | **지속 시간:** 5분 |
+| **비용:** 1 | **범위:** 180피트 |
+| **영역:** 반경 25피트 | **저항:** 의지 |
 
-이 주문을 시전하면 성직자는 범위 내의 아군 무리를 축복합니다. 영향을 받은 자들은 시전자의 정렬(선 또는 악)을 발산합니다. 중립에 대한 축복은 없습니다. 주문 범위 내의 모든 아군은 모든 기술 및 저항 판정에 +5% 보너스를 받습니다. 또한, 그들의 무기는 악마, 마귀, 천사 등 시전자의 정렬과 반대되는 정렬을 가진 외계 차원의 생물 및 지적인 언데드에게 +1d3 피해를 추가로 입힙니다. 해골이나 좀비와 같은 애니메이션 언데드는 본질적으로 악은 아니지만, 일반적으로 악의 마법에 의해 움직이므로 이 피해의 대상이 됩니다.
+이 주문이 시전되면 성직자는 효과 영역 내의 아군 그룹에게 축복을 내립니다. 영향을 받는 이들은 시전자의 성향인 선 또는 악 중 하나를 발산합니다. 중립에 대한 축복은 없습니다. 주문 반경 내의 모든 아군은 모든 기술 및 저항 굴림에 +5% 보너스를 받습니다. 또한, 이들의 무기는 악마, 마귀, 천사 등 시전자와 대립되는 성향을 지닌 외부 차원의 생물 및 지능을 가진 언데드에게 +1d3의 피해를 입힙니다. 해골이나 좀비처럼 움직이는 언데드는 본질적으로 악은 아니지만, 일반적으로 악의 마법에 의해 움직이므로 이 피해의 대상이 됩니다.
 
-이 주문의 역인 저주(Curse)를 사용하면 성직자는 적에게 저주를 걸어 앞서 언급한 이점과 정반대의 페널티를 부여할 수 있습니다. 저주받은 무기의 피해는 페널티로 계산되며, 이 피해 결과는 최소 1점 이하가 될 수 없습니다.
+이 주문의 가역 버전인 저주(Curse)를 사용하면 성직자는 적에게 저주를 걸어, 언급된 기술들이 위와 반대되는 페널티를 받게 할 수 있습니다. 저주받은 무기의 피해는 페널티로 계산되며, 이 피해는 1점 미만으로 내려갈 수 없습니다.
 
 ---
-#### Burning Hands (불타는 손)
+#### 불타는 손
 
-(변형)
+(변환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **랭크:** 마법사 1 | **시전 시간:** 1행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 120도 원뿔형, 5피트 길이 | **저항:** 회피 |
+| **비용:** 3+1/추가 강도 | **범위:** 0 |
+| **영역:** 120도 원뿔, 길이 5피트 | **저항:** 회피 |
 
-이 주문은 시전자의 손에서 120도 호를 그리며 불꽃이 솟구치게 합니다. 전투에서 미니어처를 사용할 경우, Burning Hands는 시전자의 전방 사각형 중 하나를 차지하는 각 대상을 공격합니다. 더 높은 강도로 Burning Hands를 시전하려면 더 높은 등급의 마법사가 필요합니다. 이 피해는 최대 9 강도까지 주문의 강도에 따라 영역 내의 모든 대상을 덮칩니다. 회피 판정에 성공하여 스스로 엎드리면 피해를 입지 않습니다. '재주꾼(Artful Dodger)' 능력을 가진 자는 엎드리지 않고도 회피할 수 있는 선택권이 있습니다.
+이 주문은 시전자의 손에서 120도 호를 그리며 불꽃이 뿜어져 나오게 합니다. 전투에서 미니어처를 사용하는 경우, 불타는 손은 시전자의 앞쪽 칸 1개를 차지하는 모든 대상에게 피해를 줍니다. 더 높은 강도로 불타는 손을 시전하려면 더 높은 랭크의 마법사가 필요합니다. 이 피해는 영역 내의 모든 대상을 덮치며, 최대 강도 9까지 다음과 같이 피해를 입힙니다. 회피 굴림에 성공하여 엎드리면 피해를 입지 않습니다. '재주꾼(Artful Dodger)' 능력을 가진 자는 엎드리지 않고도 회피할 수 있는 선택지가 있습니다.
 
-| 강도 | 비용 | 최소 등급 | 가변 효과 |
+| 강도 | 비용 | 최소 랭크 | 가변 효과 |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | 모든 타격 위치에 1d3+1 피해 |
-| 3 | 4 | 1 | 모든 타격 위치에 1d3+2 피해 |
-| 5 | 5 | 1 | 모든 타격 위치에 1d3+3 피해 |
-| 7 | 6 | 2 | 모든 타격 위치에 1d3+4 피해 |
-| 9 | 7 | 3 | 모든 타격 위치에 1d3+5 피해 |
+| 1 | 3 | 1 | 모든 타격 위치에 1d3+1의 피해 |
+| 3 | 4 | 1 | 모든 타격 위치에 1d3+2의 피해 |
+| 5 | 5 | 1 | 모든 타격 위치에 1d3+3의 피해 |
+| 7 | 6 | 2 | 모든 타격 위치에 1d3+4의 피해 |
+| 9 | 7 | 3 | 모든 타격 위치에 1d3+5의 피해 |
 
-착용한 갑옷은 보호하지 않지만 마법 방어력 수치나 생물의 자연 방어력은 평소대로 피해를 줄입니다. 이 강력한 주문은 사거리가 매우 짧다는 점에서 균형이 잡혀 있는데, 이는 마법 사용자가 매우 불리한 위치에 처할 정도로 가까이 있어야 함을 의미합니다.
+착용한 갑옷은 보호를 제공하지 않지만, 마법 갑옷 점수나 생물의 자연 갑옷은 일반적인 방식으로 피해를 줄입니다. 이 강력한 주문은 사거리가 눈에 띄게 짧다는 점으로 균형을 맞추고 있으며, 즉 시전자는 매우 불리한 위치에 처할 정도로 가까이 접근해야 합니다.
 
-더 큰 생물은 일반적으로 주문의 범위보다 크기 때문에 피해를 입는 타격 위치가 적은 경향이 있습니다. SIZ 21~30은 머리, 가슴, 복부, 팔에 피해를 입고, SIZ 31 이상은 복부와 다리에 피해를 입습니다. 게임 마스터는 대상의 형태와 시전자에 대한 상대적 위치에 따라 이러한 위치를 조정해야 합니다. Burning Hands는 굴린 피해 x 5%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
+더 큰 생물은 일반적으로 주문의 효과 영역보다 크기 때문에 타격을 받는 위치 수가 적은 경향이 있습니다. 크기 21에서 30인 생물은 머리, 가슴, 복부, 팔에 피해를 입으며, 크기 31 이상은 복부와 다리에 피해를 입습니다. 게임 마스터는 대상의 형태와 시전자에 대한 상대적 위치에 따라 이를 조정해야 합니다. 불타는 손은 굴린 피해값 x 5%의 확률로 가연성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
 
 ---
-#### Calm (진정)
+#### 진정
 
-(인챈트 (매혹))
+(강화 (매혹))
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0 | **시전 시간:** 1행동 |
+| **랭크:** 성직자 0 | **시전 시간:** 1행동 |
 | **영역:** 매혹 | **지속 시간:** 즉시 |
-| **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **비용:** 1 | **범위:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 의지 |
 
-Calm은 SIZ 1~20 인간형 대상의 열정을 가라앉히려고 시도합니다. 예를 들어 상사병에 걸린 연인이 구애를 강요하지 못하게 하거나, 겁에 질린 라이벌이 도움을 요청하지 못하게 하거나, 분노로 무기를 뽑지 못하게 할 수 있습니다. 진정된 사람은 정신적으로 다른 영향을 받지 않습니다. 따라서 어떤 종류의 공격이나 위협적인 행동도 대상이 스스로 방어하거나 공격할 수 있도록 허용하지만, 침착하고 냉정하게 행동하게 됩니다.
+진정은 크기 1-20인 인간형 대상의 열정을 억제하려고 시도합니다. 예를 들어 사랑에 빠진 연인이 끈질기게 매달리지 않게 하거나, 겁에 질린 경쟁자가 도움을 청하지 못하게 하거나, 화가 나서 무기를 뽑지 못하게 할 수 있습니다. 진정된 사람은 정신적으로 다른 영향은 받지 않으므로, 공격이나 위협적인 행동이 가해지면 여전히 자신을 방어하거나 반격할 수 있지만, 이는 침착하고 냉정한 태도로 이루어집니다.
 
----
-#### Chain Lightning (연쇄 번개)
+---#### 연쇄 번개 (Chain Lightning)
 
-(창조)
+(소환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 4 | **시전 시간:** 2행동 |
+| **랭크:** 마법사 4 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 50피트/강도 |
-| **범위:** 아래 참조 | **저항:** 회피 |
+| **비용:** 3 + 추가 강도당 1 | **사거리:** 50피트 / 강도 |
+| **영역:** 아래 참조 | **저항:** 회피 |
 
-시전 시 마법사는 손끝에서 5피트 너비의 전기 화살을 발사하여 사거리 내의 대상 하나에게 강도 2당 1d6+1 피해를 입힐 수 있습니다. 화살은 가장 가까운 다음 물체나 생물에게 굴린 피해에서 1점을 뺀 값을 입히고, 다음으로 가장 가까운 대상에게 다시 2점을 뺀 피해를 입히는 식으로 아크를 그립니다. 아군이나 시전자에게 되돌아올 수도 있습니다! 초기 대상은 시전자의 시야에 있어야 하지만, 아크 번개에 맞는 대상은 그렇지 않아도 됩니다.
+시전 시, 마법사는 손끝에서 5피트 너비의 전기 줄기를 발사하여 사거리 내의 대상 하나에게 강도 2당 1d6+1의 피해를 입힙니다. 이 줄기는 다음으로 가까운 물체나 생명체로 굴절되어 이전 피해량에서 1을 뺀 만큼의 피해를 입히고, 그다음 가까운 대상으로 굴절되어 2를 뺀 만큼의 피해를 입히는 방식으로 계속 이어집니다. 심지어 아군이나 시전자 자신에게 돌아올 수도 있습니다! 최초의 대상은 시전자의 시야 내에 있어야 하지만, 굴절된 줄기에 맞는 대상은 시야 내에 있지 않아도 됩니다.
 
-각 아크는 자체 50피트 사거리를 가지며, 이는 주문 시전 시의 원래 사거리를 벗어날 수 있습니다. Chain Lightning은 피해가 남아 있다면 접지시키는 물체(금속 우리나 창살, 큰 물웅덩이 등)에 부딪히거나 더 이상 공격할 대상이 없을 때까지 계속됩니다.
+각 굴절은 50피트의 사거리를 가지며, 이는 주문 시 시전 당시의 원래 사거리를 넘어설 수 있음을 의미합니다. 연쇄 번개는 남은 피해량이 있고, 번개를 접지시키는 물체(금속 우리나 창살, 큰 물웅덩이 등)에 닿거나 더 이상 타격할 물체나 생명체가 없을 때까지 계속 타격합니다.
 
-맞은 각 생물은 단일 타격 위치에 피해를 입으며, 착용 갑옷은 보호를 제공하지 않고 자연 방어력 및 마법 방어력 수치는 정상적으로 피해를 줄입니다.
+타격당한 각 생명체는 단일 신체 부위에 피해를 입으며, 착용 중인 방어구는 보호 효과를 제공하지 않으나 자연 방어구와 마법적 방어 포인트(Armor Points)는 정상적으로 피해를 감소시킵니다.
 
-회피 판정에 성공하여 엎드리면 피해를 입지 않습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있지만, 이 경우 성공해도 피해가 절반으로 줄어들 뿐입니다.
+회피(Evade) 굴림에 성공하여 엎드리면 피해를 입지 않습니다. '재주 좋은 회피꾼(Artful Dodger)' 능력을 가진 자는 엎드리지 않고도 회피할 수 있지만, 이 경우 성공하더라도 피해는 절반으로만 감소합니다.
 
-번개는 굴린 피해 x 1%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오. 번개는 순수한 충격으로 무생물을 부수거나 파괴할 수도 있습니다.
+번개는 굴러나온 피해량 x 1%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 정보는 [화재(Fires)](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오. 번개는 또한 순수한 충격으로 무생물을 부수거나 파괴할 수 있습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 50피트 사거리; 1d6+1 피해 |
-| 2 | 4 | 100피트 사거리; 1d6+1 피해 |
-| 3 | 5 | 150피트 사거리; 2d6+2 피해 |
-| 4 | 6 | 200피트 사거리; 2d6+2 피해 |
-| 5 | 7 | 250피트 사거리; 3d6+3 피해 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 사거리 50피트; 1d6+1 피해 |
+| 2 | 4 | 사거리 100피트; 1d6+1 피해 |
+| 3 | 5 | 사거리 150피트; 2d6+2 피해 |
+| 4 | 6 | 사거리 200피트; 2d6+2 피해 |
+| 5 | 7 | 사거리 250피트; 3d6+3 피해 |
+| +1 | +1 | 진행 지속 |
 
 ---
-#### Change Appearance (외모 변경)
+#### 외형 변화 (Change Appearance)
 
-(환영)
+(환영술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
-| **영역:** 없음 | **지속 시간:** 2d6분/강도 |
-| **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 시전자 | **저항:** 해당 없음 |
+| **랭크:** 마법사 1 | **시전 시간:** 1 행동 |
+| **영역:** 없음 | **지속 시간:** 2d6분 / 강도 |
+| **비용:** 강도당 1 | **사거리:** 0 |
+| **영역:** 시전자 | **저항:** 해당 없음 |
 
-이 주문은 시전자의 외모를 인간형이나 사람 형태의 두 발로 걷는 모습으로 바꿉니다. 키와 몸무게 변화는 각각 ±5 SIZ로 제한되지만, 그 범위 내에서 시전자는 뚱뚱하거나 날씬하게, 키가 크거나 작게, 심지어 성별을 바꿀 수도 있습니다. 머리카락, 의복, 장비도 외모와 함께 바뀔 수 있습니다. 시전자의 얼굴 특징은 원하는 대로 바꿀 수 있으며, 심지어 다른 실존 인물을 완벽하게 모방할 수도 있습니다. 이 주문은 다른 환영 주문과 마찬가지로 [불신](0009_Magic.md?id=attempting-to-disbelieve)의 대상이 됩니다. 이 주문은 시전자의 냄새를 바꾸지 않으며, 만졌을 때 시전자는 원래의 형태와 의복과 같은 느낌을 줍니다.
+이 주문은 시전자의 외형을 인간형이나 사람 모양의 이족 보행 형태로 바꿉니다. 키와 몸무게 변화는 각각 ±5 크기(크기)로 제한되지만, 그 범위 내에서 시전자는 뚱뚱하거나 날씬하게, 키가 크거나 작게, 심지어 성별까지 바꿀 수 있습니다. 머리카락, 의복, 장비도 외형과 함께 바꿀 수 있습니다. 시전자의 얼굴 특징은 원하는 대로 바꿀 수 있으며, 심지어 기존의 다른 인물을 완벽하게 흉내 낼 수도 있습니다. 이 주문은 다른 환영 주문과 마찬가지로 [불신(disbelief)](0009_Magic.md?id=attempting-to-disbelieve)의 대상이 됩니다. 이 주문은 시전자의 냄새를 바꾸지는 않으며, 만졌을 때 시전자는 원래의 형태와 의복과 같은 느낌을 줍니다.
 
 ---
-#### Chant (영창)
+#### 성가 (Chant)
 
-(소환)
+(소환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 2행동 |
+| **랭크:** 성직자 2 | **시전 시간:** 2 행동 |
 | **영역:** 전투 | **지속 시간:** 집중 |
 | **비용:** 1 | **사거리:** 0 |
-| **범위:** 30피트 반경 | **저항:** 해당 없음 |
+| **영역:** 반경 30피트 | **저항:** 해당 없음 |
 
-범위 내의 모든 존재는 강도 수준당 기술 판정에 +5% 보너스를 받고 피해에 +1 보너스를 받습니다. 같은 범위 내의 적은 앞서 언급한 이점과 정반대의 페널티를 받습니다.
+효과 영역 내의 모든 인원은 강도 레벨당 모든 기술 굴림에 +5% 보너스를, 피해 굴림에 +1 보너스를 받습니다. 같은 영역 내의 적들은 위 보너스의 반대 효과를 받습니다.
 
-영창은 주문 지속 시간 내내 유지되어야 하며, 그렇지 않으면 효과가 끝납니다. 주문 해제(Dispel Magic) 시전은 영창 자체가 마법이 아니기 때문에 영창의 지속적인 효과에 영향을 미치지 않지만, 침묵(Silence) 시전은 주문의 이점을 무효화합니다. Chant의 효과는 Bless 및 Curse의 효과와 중첩됩니다. 지속 시간 내내 영창을 유지해야 하는 요구 사항 때문에 다른 주문을 시전하는 것은 불가능합니다.
+성가는 주문이 지속되는 동안 계속 유지되어야 하며, 그렇지 않으면 효과가 종료됩니다. 성가 자체는 마법이 아니기 때문에 '마법 해제(Dispel Magic)' 시전은 성가의 지속적인 효과에 아무런 영향을 주지 않지만, '침묵(Silence)'을 시전하면 주문의 혜택이 무효화됩니다. 성가의 효과는 '축복(Bless)' 및 '저주(Curse)' 효과와 중첩됩니다. 지속 시간 동안 계속 성가를 불러야 하는 요구 조건 때문에, 다른 주문을 시전하는 것은 불가능합니다.
 
 ---
-#### Charm Person (인간 매혹)
+#### 사람 매료 (Charm Person)
 
-(인챈트 (매혹))
+(매혹(Charm))
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
-| **영역:** 없음 | **지속 시간:** 1주/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 360피트 |
-| **범위:** 1명의 살아있는 인간, 아인간, 인간형 | **저항:** 의지력 |
+| **랭크:** 마법사 1 | **시전 시간:** 1 행동 |
+| **영역:** 없음 | **지속 시간:** 1주 / 강도 |
+| **비용:** 3 + 추가 강도당 1 | **사거리:** 360피트 |
+| **영역:** 살아있는 인간, 아인종, 또는 인간형 생물 1명 | **저항:** 영력(Willpower) |
 
-이 주문을 시전하면, 살아있는(언데드 생물은 영향받지 않음) 지성 있는 인간형 대상(SIZ 1~20) 하나가 마법 사용자와 그 아군에 대한 모든 적대 행위를 중단하고, 저항 판정에 실패하면 그들을 돕고 보호하겠다고 제안합니다. 돕기/보호하기는 시전자에게 의도치 않은 혹은 부정적인 영향을 미칠 수 있음에 유의하십시오. 대상은 자신이 생각하는 보호/돕기에 최선의 조치를 기반으로 행동하기 때문입니다. 명령과 관련하여, 대상은 자살적이거나 명백히 해로운 행동은 절대 따르지 않지만, 극도로 위험한 일이라도 할 가치가 있다고 확신할 수 있습니다.
+이 주문을 시전하면, 크기(크기) 1-20인 살아있는(언데드 생물은 영향받지 않음) 지성 있는 인간형 대상이 저항 굴림에 실패할 경우, 마법사와 마법사의 동료에 대한 모든 적대 행위를 중단하고 대신 그들을 돕고 보호하겠다고 제안합니다. 돕기/보호하기는 시전자가 의도하지 않았거나 부정적인 결과를 초래할 수 있음을 유의하십시오. 대상은 자신이 생각하기에 보호하거나 돕기 위한 최선의 행동 방침에 따라 행동하기 때문입니다. 명령과 관련하여, 대상은 자살하거나 명백히 해로운 행동에는 절대 복종하지 않겠지만, 극도로 위험한 일이라도 가치가 있다고 설득될 수는 있습니다.
 
-마법 사용자나 아군이 매혹된 대상에게 적대 행위를 하면 매혹이 깨집니다. 참고: 다른 사람들이 매혹의 본질에 의문을 제기하면, 게임 마스터의 재량에 따라 대상이 저항 판정을 할 수도 있습니다. 마법 사용자는 매혹된 대상에게 복잡한 '요청'을 전달하기 위해 그들과 대화할 수 있어야 합니다. 따라서 대상의 언어를 아는 것이 중요할 수 있지만, 기본적인 매혹을 위해 필수적인 것은 아닙니다.
+마법사나 동료가 매료된 대상에게 적대적인 행동을 하면 매혹은 깨집니다. 참고: 다른 이들이 매혹의 본질에 의문을 제기할 경우, 게임 마스터의 재량에 따라 대상은 저항 굴림을 할 수 있습니다. 마법사는 매료된 대상에게 복잡한 '요청'을 하기 위해 그와 대화할 수 있어야 합니다. 따라서 대상의 언어를 아는 것이 중요할 수 있지만, 기본적인 매혹을 위해 필수적인 것은 아닙니다.
 
-초기 저항 판정 후, 대상이 다시 저항 판정을 할 수 있으려면 1주일이 지나야 합니다. 성공적인 저항 판정이 이루어질 때까지 효과는 지속됩니다. 더 높은 강도로 Charm Person을 시전하려면 더 높은 등급의 마법사가 필요하며 최대 지속 시간은 4주입니다. 주문 지속 시간 동안 [지속 마법 비용](0009_Magic.md?id=enduring-magic-costs) 규칙에 따라 시전자의 마법 포인트 총합이 주문 시전에 사용된 수만큼 감소합니다.
+최초 저항 굴림 후, 대상이 다시 저항 굴림을 할 수 있으려면 1주가 지나야 합니다. 효과는 성공적인 저항 굴림이 이루어질 때까지 지속됩니다. 더 높은 강도로 사람 매료를 시전하려면 더 높은 랭크의 마법사가 필요하며, 최대 지속 시간은 4주입니다. 주문이 지속되는 동안, [지속되는 마법 비용(Enduring Magic Costs)](0009_Magic.md?id=enduring-magic-costs) 규칙에 따라 시전자의 영력 포인트 총합은 주문을 시전하는 데 소모된 양만큼 감소합니다.
 
-| 강도 | 비용 | 최소 등급 | 가변 효과 |
+| 강도 | 비용 | 최소 랭크 | 변동 효과 |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | 1주간 매혹 |
-| 2 | 4 | 2 | 2주간 매혹 |
-| 3 | 5 | 3 | 3주간 매혹 |
-| 4 | 6 | 4 | 4주간 매혹 |
+| 1 | 3 | 1 | 1주간 매료 |
+| 2 | 4 | 2 | 2주간 매료 |
+| 3 | 5 | 3 | 3주간 매료 |
+| 4 | 6 | 4 | 4주간 매료 |
 
 ---
-#### Charm, Mass (대량 매혹)
+#### 집단 매료 (Charm, Mass)
 
-(인챈트 (매혹))
+(매혹(Charm))
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 5 | **시전 시간:** 2라운드 |
-| **영역:** 없음 | **지속 시간:** 1주/강도 |
-| **비용:** 3/강도 | **사거리:** 40피트/강도 |
-| **범위:** 20피트 반경/강도 | **저항:** 의지력 |
+| **랭크:** 마법사 5 | **시전 시간:** 2 라운드 |
+| **영역:** 없음 | **지속 시간:** 1주 / 강도 |
+| **비용:** 강도당 3 | **사거리:** 40피트 / 강도 |
+| **영역:** 강도당 반경 20피트 | **저항:** 영력(Willpower) |
 
-위에서 언급한 예외를 제외하고, 이 주문은 [Charm Person](0010_Spells.md?id=charm-person) 및 Charm Monster 주문과 같이 기능합니다. 이 가장 강력한 매혹 주문은 범위 내의 모든 SIZ의 생물을 매혹할 기회를 제공합니다. 인간 크기 이하(SIZ 1~20)는 저항 판정이 어렵고(Hard), 대형 생물(SIZ 21~40)은 표준 난이도로 저항 판정을 해야 하며, 거대 생물(SIZ 41+)의 저항 판정은 쉽습니다(Easy).
+위에 명시된 예외 사항을 제외하고, 이 주문은 [사람 매료(Charm Person)](0010_Spells.md?id=charm-person) 및 '괴물 매료(Charm Monster)' 주문과 동일하게 작동합니다. 이 가장 강력한 매혹 주문은 효과 영역 내에 있는 모든 크기(크기)의 생물을 매료시킬 확률을 가집니다. 인간 크기 이하(크기 1-20)는 저항 굴림이 '어려움(Hard)'으로 처리되며, 대형 생물(크기 21-40)은 '표준 난이도(Standard Difficulty)'로 저항 굴림을 해야 하고, 거대 생물(크기 41+)의 저항 굴림은 '쉬움(Easy)'입니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 1주간 매혹 |
-| 2 | 6 | 2주간 매혹 |
-| 3 | 9 | 3주간 매혹 |
-| 4 | 12 | 4주간 매혹 |
+| 1 | 3 | 1주간 매료 |
+| 2 | 6 | 2주간 매료 |
+| 3 | 9 | 3주간 매료 |
+| 4 | 12 | 4주간 매료 |
 
 ---
-#### Charm Monster (괴물 매혹)
+#### 괴물 매료 (Charm Monster)
 
-(인챈트 (매혹))
+(매혹(Charm))
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
-| **영역:** 없음 | **지속 시간:** 1주/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 180피트 |
-| **범위:** 20피트 반경 | **저항:** 의지력 |
+| **랭크:** 마법사 3 | **시전 시간:** 2 행동 |
+| **영역:** 없음 | **지속 시간:** 1주 / 강도 |
+| **비용:** 3 + 추가 강도당 1 | **사거리:** 180피트 |
+| **영역:** 반경 20피트 | **저항:** 영력(Willpower) |
 
-이 주문은 [Charm Person](0010_Spells.md?id=charm-person) 주문의 개선된 버전으로, 범위 내의 SIZ 20 이하인 모든 살아있는 생물이나 모든 SIZ의 생물 1체를 매혹합니다. 대형 생물(SIZ 21~40)은 매혹하기 더 어렵고 저항 판정이 쉬우며(Easy), 거대 생물(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy). 이 주문은 Charm Person의 모든 다른 면에서 동일하게 기능합니다.
+이것은 [사람 매료(Charm Person)](0010_Spells.md?id=charm-person) 주문의 향상된 버전으로, 효과 영역 내의 크기(크기) 20 이하인 모든 살아있는 생물 또는 크기에 상관없이 1마리의 생물을 매료시킵니다. 대형 생물(크기 21-40)은 매료시키기가 더 어려워 저항 굴림이 '쉬움(Easy)'이며, 거대 생물(크기 41+)의 저항 굴림은 '매우 쉬움(Very Easy)'입니다. 그 외의 모든 면에서 사람 매료와 동일하게 작동합니다.
 
-| 강도 | 비용 | 최소 등급 | 가변 효과 |
-| :-: | :-: | :-- |
-| 1 | 3 | 3 | 1주간 매혹 |
-| 2 | 4 | 3 | 2주간 매혹 |
-| 3 | 5 | 4 | 3주간 매혹 |
-| 4 | 6 | 4 | 4주간 매혹 |
+| 강도 | 비용 | 최소 랭크 | 변동 효과 |
+| :-: | :-: | :-: | :-- |
+| 1 | 3 | 3 | 1주간 매료 |
+| 2 | 4 | 3 | 2주간 매료 |
+| 3 | 5 | 4 | 3주간 매료 |
+| 4 | 6 | 4 | 4주간 매료 |
 
 ---
-#### Chill \(R\) (냉기)
+#### 냉기(Chill) (역방향(R))
 
-(창조)
+(소환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **랭크:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **영역:** 대상 1 | **저항:** 없음 |
 
-Chill은 크기가 '물건' 1개 이하인 작은 물체의 온도를 얼음물 수준으로 급격히 낮춥니다. 뜨거운 물건을 빠르게 식히거나 음료를 차갑게 하는 등에 유용합니다. 이 주문은 물체를 얼리지 않으며 구조에 아무런 피해도 주지 않습니다. 단지 매우 차갑게 만들 뿐입니다.
+냉기는 크기가 1 '사물(Thing)' 이하인 작은 물체의 온도를 얼음물 수준까지 급격히 낮춥니다. 뜨거운 물건을 빠르게 식히거나 음료를 차갑게 하는 등의 용도로 유용합니다. 이 주문은 물체를 얼리지는 않으며, 구조적 손상을 입히지도 않습니다. 단순히 매우 차갑게 만들 뿐입니다.
 
-역주문인 Heat는 작은 물체의 온도를 끓는 물 수준까지 급격히 높입니다. 이 다재다능한 주문은 와인을 데우거나 불 없이 음식을 요리하거나 자기 전에 침대를 따뜻하게 하는 데 유용합니다. 살아있는 조직에는 영향을 주지 않지만 의복과 갑옷에는 영향을 줄 수 있어 착용자에게 다소 불편을 줄 수 있으나, 착용을 방해할 정도는 아닙니다.
+역방향인 '열기(Heat)'는 작은 물체의 온도를 끓는 물 수준까지 급격히 높입니다. 이 다재다능한 주문은 와인을 데우거나 불 없이 음식을 요리하거나 자기 전 침대를 따뜻하게 하는 데 유용합니다. 살아있는 조직에는 영향을 주지 않지만, 의복이나 방어구에는 영향을 줄 수 있어 착용자에게 다소 불편함을 줄 수 있으나, 방해가 될 정도는 아닙니다.
 
 ---
-#### Cleanse \(R\) (정화)
+#### 정화(Cleanse) (역방향(R))
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **랭크:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 아래 참조 | **저항:** 의지력 |
+| **영역:** 아래 참조 | **저항:** 영력(Willpower) |
 
-Cleanse는 물건, 사람 또는 작은 영역에서 먼지, 기름, 때, 악취 등을 제거하는 데 사용됩니다. 대상이나 영역을 정리하거나 치우는 것이 아니라 단순히 깨끗하게 만드는 것입니다. 이 주문은 종종 세탁하는 데 사용됩니다. 시전자는 POW x 5 제곱피트(5피트 사각형은 25제곱피트)의 영역을 청소할 수 있습니다.
+정화는 물체, 사람 또는 작은 영역에서 흙, 기름, 때, 악취 등을 제거하는 데 사용됩니다. 대상이나 영역을 정리정돈하는 것이 아니라 단순히 말끔한 상태로 청소할 뿐입니다. 이 주문은 흔히 옷을 세탁하는 데 사용됩니다. 시전자는 영력(영력)x5 제곱피트 크기의 영역을 청소할 수 있습니다(5피트 정사각형은 25제곱피트).
 
-Dishevel은 Cleanse의 역주문입니다. 영향을 받는 물체는 즉시 때, 먼지, 거미줄 등으로 뒤덮입니다. 이 주문은 완전히 새로운 물건을 낡고 비바람에 시달린 것처럼 보이게 하거나, 평소 잘 꾸미고 다니는 사람들이 인식되지 않도록 돕는 데 사용될 수 있습니다.
+'지저분하게 만들기(Dishevel)'는 정화의 역방향 주문입니다. 영향을 받은 물체는 즉시 때, 먼지, 거미줄 등으로 덮입니다. 이 주문은 새 물건을 낡고 비바람에 닳은 것처럼 보이게 하거나, 평소 잘 꾸미고 다니는 사람들이 알아보지 못하게 하는 데 사용할 수 있습니다.
 
 ---
-#### Command (명령)
+#### 명령 (Command)
 
-(인챈트 (매혹))
+(매혹(Charm))
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 1행동 |
+| **랭크:** 성직자 1 | **시전 시간:** 1 행동 |
 | **영역:** 매혹 | **지속 시간:** 1분 |
 | **비용:** 3 | **사거리:** 100피트 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **영역:** 대상 1 | **저항:** 영력(Willpower) |
 
-이 주문을 시전하면 성직자는 SIZ 1~20의 살아있는 생물 1체에게 한 단어의 명령을 내릴 수 있으며, 대상이 저항에 실패하면 다음 턴에 명령을 그대로 따릅니다. 이는 기본적으로 피해자가 명령받은 행동을 완료하는 다음 턴을 놓치게 하고 그 과정에서 행동 포인트를 낭비하게 합니다. 피해자가 더 이상 행동 포인트가 없으면 명령받은 행동은 다음 라운드의 첫 번째 턴 중에 수행됩니다. 명령 자체는 대상에게 어떠한 실제 부상도 입힐 수 없지만, 명령의 이차적인 결과로 부상을 입을 수 있습니다.
+이 주문이 시전되면, 성직자는 크기(크기) 1-20인 살아있는 생물 한 명에게 한 단어의 명령을 내릴 수 있으며, 대상의 다음 턴에 저항에 실패하면 그 명령을 철저히 따르게 됩니다. 이는 본질적으로 피해자가 다음 턴을 명령받은 행동을 완료하는 데 소모하게 만들고, 행동을 수행하는 동안 행동 포인트를 낭비하게 합니다. 만약 피해자가 가진 행동 포인트가 없다면, 다음 라운드의 첫 번째 턴에 명령받은 행동이 수행됩니다. 명령 자체가 대상에게 실제적인 부상을 입힐 수는 없습니다. 하지만 명령의 부차적인 효과로 부상을 입을 수는 있습니다.
 
-예를 들어, 죽으라는 명령은 피해자가 1라운드 동안 실제 부상 없이 죽은 듯한 상태로 쓰러지게 합니다. 그러나 100피트 높이의 절벽을 오르는 생물에게 떨어지라는 명령을 내리면 치명적인 결과가 초래될 수 있습니다.
+예를 들어, "죽어라"라는 명령은 피해자가 1라운드 동안 죽은 것 같은 상태로 쓰러지게 하여 실제 부상을 입히지는 않지만, 100피트 높이의 절벽을 오르는 생물에게 "떨어져라"라고 명령하면 치명적인 결과를 초래할 수 있습니다.
 
-명령의 대상은 시전자가 말하는 언어를 이해할 수 있어야 하며 의지력 시험을 통해 저항할 수 있습니다.
+명령의 대상은 시전자가 말하는 언어를 이해할 수 있어야 하며, 저항하기 위해 영력 테스트를 할 수 있습니다.
 
 **명령 예시**
 
-- **Crawl(기어가기):** 대상은 엎드려 기어가기 시작합니다.
-- **Die(죽기):** 대상은 죽은 듯한 혼수상태로 엎드립니다.
-- **Fall(넘어지기):** 대상은 엎어집니다.
-- **Fumble(실수하기):** 대상은 취하려던 물리적 행동을 실수합니다.
-- **Sleep(잠자기):** 대상은 잠에 빠집니다.
-- **Flee(도망치기):** 대상은 시전자에게서 도망칩니다.
-- **Fly(날기):** 대상은 팔을 퍼덕이며 원을 그리며 뜁니다.
-- **Go(가기):** 대상은 자신이 향하던 방향으로 걷기 시작합니다.
-- **Halt(멈추기):** 대상은 즉시 멈추고 제자리에 섭니다.
-- **Leave(떠나기):** 대상은 들어왔던 길로 돌아갑니다.
-- **Rest(휴식):** 대상은 앉은 자세로 내려가 숨을 고릅니다.
-- **Run(달리기):** 대상은 달리기 시작합니다.
-- **Scream(비명지르기):** 대상은 고함을 칩니다.
-- **Sink(가라앉기):** 대상은 수영을 멈춥니다.
-- **Surrender(항복하기):** 대상은 무기를 버리고 적대 행위를 중단합니다.
+- **기어라(Crawl):** 대상이 엎드려 기기 시작합니다.
+- **죽어라(Die):** 대상이 엎드려 혼수상태와 같은 죽은 상태가 됩니다.
+- **넘어져라(Fall):** 대상이 엎어집니다.
+- **실수하라(Fumble):** 대상이 수행하려던 신체적 행동을 실수합니다.
+- **잠들어라(Sleep):** 대상이 졸기 시작합니다.
+- **도망쳐라(Flee):** 대상이 돌아서서 시전자로부터 도망칩니다.
+- **날아라(Fly):** 대상이 팔을 퍼덕이며 원을 그리며 달립니다.
+- **가라(Go):** 대상이 향하고 있던 방향으로 걷기 시작합니다.
+- **멈춰라(Halt):** 대상이 즉시 멈춰 서서 제자리에 가만히 있습니다.
+- **떠나라(Leave):** 대상이 돌아서서 들어온 길로 떠납니다.
+- **휴식하라(Rest):** 대상이 앉은 자세로 주저앉아 숨을 고릅니다.
+- **달려라(Run):** 대상이 달리기 시작합니다.
+- **비명질러라(Scream):** 대상이 소리를 지릅니다.
+- **가라앉아라(Sink):** 대상이 수영을 멈춥니다.
+- **항복하라(Surrender):** 대상이 무기를 버리고 적대 행위를 중단합니다.
 
 ---
-#### Cone of Cold (냉기 원뿔)
+#### 냉기 원뿔 (Cone of Cold)
 
-(창조)
+(소환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 1라운드 |
+| **랭크:** 마법사 3 | **시전 시간:** 1 라운드 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 아래 참조 | **저항:** 회피 |
+| **비용:** 3 + 추가 강도당 1 | **사거리:** 0 |
+| **영역:** 아래 참조 | **저항:** 회피 |
 
-시전자는 손에서 뻗어 나오는 찌르는 듯한 냉기의 원뿔을 생성합니다. 효과 범위는 강도 수준당 10피트 길이로 뻗어 나가는 90도 호(원뿔)입니다. 이 주문은 효과 범위 내의 모든 피해자에게 강도 2점마다 1d6+1 피해를 입힙니다. 피해를 한 번 굴려 대상의 각 타격 위치에 적용하며, 착용 갑옷은 절반의 방어력만 제공하지만 생물의 자연 방어력이나 마법 방어력 수치는 평소대로 피해를 줄입니다. 게임 마스터는 거대 생물이 효과 범위보다 클 경우 적절하다고 생각되는 방식으로 영향을 받는 위치의 수를 선택할 수 있습니다.
+시전자는 자신의 손에서 뻗어 나오는 살을 에는 듯한 냉기의 원뿔을 생성합니다. 효과 영역은 강도 레벨당 길이 10피트로 뻗어 나가는 90도 호(원뿔)입니다. 이 주문은 효과 영역 내의 모든 피해자에게 강도 2점(또는 그 미만)마다 1d6+1의 피해를 입힙니다. 피해를 한 번 굴리고 대상의 각 신체 부위에 적용하며, 착용한 방어구는 절반의 보호 효과만 제공하지만, 생물의 자연 방어구 또는 마법적 방어 포인트는 정상적으로 피해를 감소시킵니다. 거대 생물이 효과 영역보다 크다면 게임 마스터는 적절하다고 생각하는 방식으로 영향을 받는 부위의 수를 선택할 수 있습니다.
 
-회피 판정에 성공하여 스스로 엎드리면 피해를 입지 않습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있지만, 이 경우 효과 범위 가장자리에서 5피트 이내에 있지 않는 한 피해가 절반으로 줄어들 뿐입니다. Cone of Cold는 굴린 피해(보정 후) x 5%의 확률로 대상에게 얼음 층을 씌울 수 있습니다. 얼어붙으면 피해자는 라운드당 한 번 행동 포인트를 사용하여 힘(Brawn) 판정을 통해 탈출을 시도할 수 있지만, 성공하기 전까지는 이동하거나 다른 행동을 할 수 없습니다.
+회피(Evade) 굴림에 성공하여 엎드리면 피해를 입지 않습니다. '재주 좋은 회피꾼(Artful Dodger)' 능력을 가진 자는 엎드리지 않고도 회피할 수 있지만, 효과 영역 가장자리에서 5피트 이내에 있지 않은 경우, 성공하더라도 피해는 절반으로만 감소합니다. 냉기 원뿔은 피해량(수정 후) x 5%의 확률로 피해자를 얼음 층으로 덮어버릴 수 있습니다. 일단 얼어붙으면 피해자는 라운드당 한 번 행동 포인트를 소모하여 근력(Brawn) 굴림으로 탈출을 시도할 수 있습니다. 그러나 성공하기 전까지 불운한 피해자는 움직이거나 다른 행동을 할 수 없습니다.
 
-**Cone of Cold 효과**
+**냉기 원뿔 효과**
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 10피트 길이; 1d6+1 피해 |
-| 2 | 4 | 20피트 길이; 1d6+1 피해 |
-| 3 | 5 | 30피트 길이; 2d6+2 피해 |
-| 4 | 6 | 40피트 길이; 2d6+2 피해 |
-| 5 | 7 | 50피트 길이; 3d6+3 피해 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 길이 10피트; 1d6+1 피해 |
+| 2 | 4 | 길이 20피트; 1d6+1 피해 |
+| 3 | 5 | 길이 30피트; 2d6+2 피해 |
+| 4 | 6 | 길이 40피트; 2d6+2 피해 |
+| 5 | 7 | 길이 50피트; 3d6+3 피해 |
+| +1 | +1 | 진행 지속 |
 
 ---
-#### Confusion (혼란)
+#### 혼란 (Confusion)
 
-(인챈트 (매혹))
+(매혹(Charm))
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 4, 마법사 3 | **시전 시간:** 2행동 |
-| **영역:** 매혹 | **지속 시간:** 1분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 120피트 (성직자 버전 250피트) |
-| **범위:** 30피트 반경 | **저항:** 의지력 (성직자 버전은 힘든 의지력) |
+| **랭크:** 성직자 4, 마법사 3 | **시전 시간:** 2 행동 |
+| **영역:** 매혹 | **지속 시간:** 1분 / 강도 |
+| **비용:** 3 + 추가 강도당 1 | **사거리:** 120피트 (성직자 버전 250피트) |
+| **영역:** 반경 30피트 | **저항:** 영력(Willpower) (성직자 버전은 '어려움' 영력) |
 
-이 주문을 시전하면 범위 내에서 저항 판정에 실패한 SIZ 1~20의 생물 1d4마리가 마법적 혼란에 빠집니다. 강도가 추가될 때마다 최대 4d4마리까지 또 다른 1d4마리가 영향을 받습니다. 성직자 버전은 강도당 1d3+1마리에 영향을 주며 최대 제한이 없습니다. 효과 범위 내에서 시전자에 가장 가까운 존재가 먼저 영향을 받습니다. 저항 판정에 성공하면 주문을 극복하지만, 실패하면 희생자는 다음과 같은 무작위 효과 중 하나를 겪습니다. 주문 지속 시간 동안 또는 희생자가 멀리 이동할 때까지 매 라운드 굴립니다.
+이 주문을 시전하면, 효과 영역 내에서 저항 굴림에 실패한 크기(크기) 1-20인 1d4마리의 생물이 마법적 혼란에 빠집니다. 추가 강도 레벨당 1d4마리의 생물에게 추가로 영향을 주어 최대 4d4마리까지 영향을 받습니다. 성직자 버전은 강도당 1d3+1마리에 영향을 주며 최대 제한이 없습니다. 효과 영역 내에서 시전자와 가장 가까운 대상이 먼저 영향을 받습니다. 성공적인 저항 굴림은 주문을 극복하며, 실패하면 주문이 지속되는 동안 매 라운드마다, 또는 피해자가 멀리 떠나버릴 때까지 다음 효과 중 하나가 무작위로 발생합니다.
 
 | D100 굴림 | 혼란 효과 |
 | :-: | :-- |
 | 01-10 | 라운드 잔여 시간 동안 원거리 또는 근접 무기로 시전자를 공격 |
-| 11-50 | 혼란 상태로 서 있음(기본적으로 라운드 잔여 시간 동안 Dither 선택) |
+| 11-50 | 혼란 상태로 서 있음, 사실상 라운드 잔여 시간 동안 망설임(Dither) 선택 |
 | 51-70 | 라운드 잔여 시간 동안 가장 가까운 적을 공격 |
 | 71-80 | 라운드 잔여 시간 동안 가장 가까운 아군을 공격 |
-| 81-90 | 전투 중이 아니면 주문 지속 시간 동안 걷기 속도로 배회, 그렇지 않으면 11-50처럼 Dither |
+| 51-90 | 교전 중이 아니라면 주문 지속 시간 동안 걷기(Walk) 속도로 멀리 걸어감, 그렇지 않으면 11-50과 같이 망설임 |
 | 91-00 | 라운드 잔여 시간 동안 정상적으로 행동 |
 
-혼란에 빠진 생물에 대한 각 공격은 그 생물에게 주문에 저항할 추가 기회를 줍니다. 희생자는 정상적으로 회피하거나 패리할 수 있습니다.
+혼란에 빠진 생물에 대한 각 공격은 그 생물에게 주문에 저항할 수 있는 추가적인 시도 기회를 제공합니다. 피해자는 정상적으로 회피하거나 방어(Parry)할 수 있습니다.
 
-'배회' 결과가 나오면, 희생자는 걷는 속도로 시전자의 반대 방향으로 향합니다. 아스트랄이나 에테르 여행, 차원 이동 등과 같은 타고난 능력을 가진 생물은 매 라운드 평소 이동 방식 대신 이러한 능력 중 하나를 사용할 확률이 50%입니다.
+'멀리 떠남(Wander off)' 결과가 나오면, 피해자는 평소 이동 방식을 사용하여 걷는 걸음걸이로 시전자의 반대 방향으로 향합니다. 성계(astral)나 에테르 이동, 차원 이동 등과 같은 타고난 능력을 가진 생물은 매 라운드마다 일상적인 이동 방식 대신 이러한 능력 중 하나를 사용할 확률이 50% 있습니다.
 
-대형 생물(SIZ 21~40)은 혼란에 덜 취약하며 저항 판정이 쉽고(Easy), 거대 생물(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy).
+대형 생물(크기 21-40)은 혼란에 덜 취약하여 저항 굴림이 '쉬움(Easy)'이며, 거대 생물(크기 41+)의 저항 굴림은 '매우 쉬움(Very Easy)'입니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 1분; 1d4 생물 (성직자는 1d3+1) |
-| 2 | 4 | 2분; 2d4 생물 (성직자는 2d3+2) |
-| 3 | 5 | 3분; 3d4 생물 (성직자는 3d3+3) |
-| 4 | 6 | 4분; 4d4 생물(최대) (성직자는 4d3+4) |
-| 5 | 7 | 5분; (성직자는 5d3+5) |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 1분; 1d4마리 (성직자 1d3+1) |
+| 2 | 4 | 2분; 2d4마리 (성직자 2d3+2) |
+| 3 | 5 | 3분; 3d4마리 (성직자 3d3+3) |
+| 4 | 6 | 4분; 4d4마리 (최대) (성직자 4d3+4) |
+| 5 | 7 | 5분; (성직자 5d3+5) |
+| +1 | +1 | 진행 지속 |
 
 ---
-#### Continual Light (지속광)
+#### 지속적인 빛 (Continual Light)
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2, 마법사 2 | **시전 시간:** 1행동 |
-| **영역:** 태양 | **지속 시간:** 준영구적 (아래 참조) |
+| **랭크:** 성직자 2, 마법사 2 | **시전 시간:** 1 행동 |
+| **영역:** 태양 | **지속 시간:** 반영구적 (아래 참조) |
 | **비용:** 3 | **사거리:** 180피트 |
-| **범위:** 60피트 반경 | **저항:** 아래 참조 |
+| **영역:** 반경 60피트 | **저항:** 아래 참조 |
 
-이 주문은 시전자가 선택한 장소에 완전한 대낮과 맞먹는 밝기의 빛의 구체를 생성하며, 이는 물체일 수도 있고 허공일 수도 있습니다. 준영구적이며 마법적 어둠의 영역에 진입하면 일시적으로 무효화됩니다. 그러나 시전자에 의해 언제든지 영구적으로 해제되거나 Continual Light의 강도보다 높은 강도의 Darkness 또는 Dispel Magic을 시전하여 무효화할 수 있습니다.
+이 주문은 시전자가 선택한 지점(물체나 허공도 가능)에 밝기가 한낮의 햇빛과 동일한 빛의 구체를 생성합니다. 이는 반영구적이며 마법적 어둠 영역에 진입함으로써 일시적으로만 무효화됩니다. 하지만 시전자가 언제든 영구적으로 해제할 수 있거나, '지속적인 빛'의 강도보다 높은 강도의 '어둠(Darkness)' 또는 '마법 해제(Dispel Magic)'를 시전하여 무효화할 수 있습니다.
 
-햇빛에 대한 혐오감을 가진 생물은 관련 효과 범위 내에 있을 때 정상적으로 관련된 페널티를 받습니다. 생물에게 시전하면 대상은 저항 판정을 할 수 있으며, 성공하면 주문이 생물 자체가 아닌 생물 바로 뒤의 영역에 영향을 미쳤음을 의미합니다. 생물의 눈에 중심을 맞추면 의지력 판정 실패 시 부분적 실명이 발생하여 시력을 요구하는 모든 기술 및 저항 판정의 난이도가 1등급씩 증가합니다. 시력은 Cure Blindness and Deafness를 어떤 강도로든 시전하거나 Continual Light의 강도보다 높은 강도로 Dispel Magic을 시전해야만 회복될 수 있습니다. 주문의 효과는 고정되어 있지만 이동 가능하거나 휴대 가능한 물체에 시전할 수 있습니다.
+햇빛을 싫어하는 생물은 관련 효과 영역 내에 있을 때 그와 관련된 일반적인 페널티를 받습니다. 생물에게 시전하는 경우, 대상은 저항하기 위해 영력 테스트를 할 수 있으며, 성공 시 주문이 생물 자체가 아닌 생물 바로 뒤의 영역에 영향을 미쳤음을 나타냅니다. 생물의 눈에 중심을 맞추어 시전하는 경우, 영력 굴림 실패 시 부분적 실명을 초래하며, 시력을 필요로 하는 모든 기술 및 저항 굴림의 난이도를 한 단계 높입니다. 시력은 '눈먼 상태 및 귀먹은 상태 치료(Cure Blindness and Deafness)'를 임의의 강도로 시전하거나 '지속적인 빛'의 강도보다 높은 강도로 '마법 해제(Dispel Magic)'를 시전해야만 회복될 수 있습니다. 주문의 효과는 이동할 수 없지만 휴대 가능한 물체나 이동 가능한 물체에 시전할 수 있습니다.
 
 ---
-#### Control Weather (날씨 조종)
+#### 날씨 조절 (Control Weather)
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 5, 마법사 4 | **시전 시간:** 10분 |
-| **영역:** 날씨 | **지속 시간:** 1d6시간/강도 |
-| **비용:** 3 + 1/강도 | **사거리:** 0 |
-| **범위:** 1d4평방마일/강도 | **저항:** 해당 없음 |
+| **랭크:** 성직자 5, 마법사 4 | **시전 시간:** 10분 |
+| **영역:** 날씨 | **지속 시간:** 1d6시간 / 강도 |
+| **비용:** 3 + 강도당 1 | **사거리:** 0 |
+| **영역:** 1d4제곱마일 / 강도 | **저항:** 해당 없음 |
 
-이 주문을 사용하면 시전자는 현재 날씨를 상당히 눈에 띄게 변경할 수 있습니다. 일단 시전하면 효과가 완전히 나타나기까지 1d4 x 10분이 더 소요됩니다. 변경의 지속 시간은 주문의 지속 시간에 따라 계산됩니다. 시전자는 [환산표](Appendix_B_Conversion_Tables)의 표에 명시된 대로 강수량, 온도, 바람을 최대 2등급까지 올리거나 내릴 수 있습니다.
+이 주문은 시전자가 현재 날씨를 상당히 눈에 띄게 바꿀 수 있게 합니다. 일단 시전되면 효과가 완전히 나타나기까지 1d4x10분이 더 소요됩니다. 변경 사항의 지속 시간은 주문의 지속 시간 공식에 따라 계산됩니다. 시전자는 [변환 표(Conversion Tables)](Appendix_B_Conversion_Tables)에 상세히 기술된 표에 따라 강수량, 기온, 바람을 최대 2단계까지 올리거나 내릴 수 있습니다.
 
 <br>
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 1d6시간 지속; 1d4평방마일 |
-| 2 | 4 | 2d6시간 지속; 2d4평방마일 |
-| 3 | 5 | 3d6시간 지속; 3d4평방마일 |
-| 4 | 6 | 4d6시간 지속; 4d4평방마일 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 지속 시간 1d6시간; 1d4제곱마일 |
+| 2 | 4 | 지속 시간 2d6시간; 2d4제곱마일 |
+| 3 | 5 | 지속 시간 3d6시간; 3d4제곱마일 |
+| 4 | 6 | 지속 시간 4d6시간; 4d4제곱마일 |
+| +1 | +1 | 진행 지속 |
 
 ---
-#### Coordination (협동)
+#### 조화 (Coordination)
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1행동 |
-| **영역:** 모두 | **지속 시간:** 트리거 |
+| **랭크:** 성직자 0, 마법사 0 | **시전 시간:** 1 행동 |
+| **영역:** 모두 | **지속 시간:** 트리거(Trigger) |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1대상 | **저항:** 없음 |
+| **영역:** 대상 1 | **저항:** 없음 |
 
-Coordination은 미리 결정된 단일 작업을 수행할 때 손재주와 민첩성을 향상시킵니다. 준비 상태에서 시전하면 수혜자에게 곡예(Acrobatics), 자물쇠 따기 등 협동이 필요한 단일 기술 판정을 재굴림할 기회를 줍니다. 수혜자는 두 판정 중 더 나은 결과를 선택할 수 있지만, 그 과정에서 주문은 소모됩니다.
+조화는 단일의 미리 결정된 작업을 수행할 때 수동 민첩성과 날렵함을 향상합니다. 준비 과정에서 시전하면 수령인은 곡예, 자물쇠 따기 등 조화가 필요한 단일 기술 체크를 다시 굴릴 수 있는 기회를 얻습니다. 수령인은 두 번의 굴림 중 더 나은 것을 선택할 수 있지만, 이 과정에서 주문은 소모됩니다.#### 식량 및 물 창조
 
----
-#### Create Food and Water (식수와 음식 창조)
-
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 1분 |
-| **영역:** 창조, 원소(물) | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/강도 | **사거리:** 30피트 |
-| **범위:** 아래 참조 | **저항:** 해당 없음 |
+| **등급:** 사제 1 | **시전 시간:** 1분 |
+| **영역:** 창조, 원소 (물) | **지속 시간:** 아래 참조 |
+| **비용:** 3 +1/강도 | **사거리:** 30피트 |
+| **범위:** 아래 참조 | **저항:** 없음 |
 
-이 주문을 시전하면 강도당 하루 동안 SIZ 20 이하의 생물 3마리 또는 SIZ 21~40의 생물 1마리를 먹일 수 있는 음식이 허공에서 생성됩니다. SIZ 40보다 큰 생물은 강도당 1 '끼니'가 필요합니다. 이 창조물은 모든 면에서 일반 음식과 비슷하며 매우 담백하지만 시전자가 원하는 무엇이든 될 수 있습니다. 맛은 부족하지만 영양은 충분합니다. 일단 생성된 음식은 저장 방식에 관계없이 24시간의 유통기한을 가집니다. 그러나 상한 후에는 Purify Food and Water를 시전하여 다시 먹을 수 있게 만들 수 있으며, 안전하게 먹을 수 있는 기간이 24시간 더 연장됩니다. 생성된 음식 외에도, 이 주문은 모든 면에서 1등급 주문 Create Water와 동일하게 작동하는 충분한 식수를 생성합니다.
+이 주문을 시전하면 허공에서 식량을 생성한다. 강도당 크기(크기) 20 이하인 생명체 3마리, 혹은 크기 21-40인 생명체 1마리가 하루 동안 먹을 수 있는 충분한 양이 생성된다. 크기 40을 초과하는 생명체의 경우 '한 끼'당 강도 1이 필요하다. 이렇게 생성된 식량은 모든 면에서 일반적인 음식과 같으며, 맛은 다소 밋밋하지만 시전자가 원하는 무엇이든 될 수 있다. 풍미는 부족할지언정 영양분은 충분하다. 일단 생성된 식량은 보관 방식과 상관없이 24시간 동안 유지된다. 식량이 상했더라도 '음식 및 물 정화' 주문을 시전하면 다시 먹을 수 있게 되며, 안전하게 섭취할 수 있는 기간이 24시간 더 연장된다. 생성된 식량 외에도 이 주문은 충분한 식수를 생성하며, 모든 면에서 등급 1 주문인 '물 창조'와 동일하게 작동한다.
 
 ---
-#### Cure Disease \(R\) (질병 치유)
+#### 질병 치료 \(R\)
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 1라운드 |
+| **등급:** 사제 2 | **시전 시간:** 1라운드 |
 | **영역:** 치유 | **지속 시간:** 영구적 |
 | **비용:** 3/강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (지구력 또는 회피) |
+| **범위:** 대상 1명 | **저항:** 없음 (내구 또는 회피) |
 
-이 주문은 POT가 주문의 강도 x 30 미만인 대상에게 영향을 미치는 모든 일상적 또는 마법적 질병의 효과를 치유합니다. 치유가 적용되면 문제의 질병 설명에 언급된 대로 회복이 시작될 수 있습니다. 녹색 슬라임, 썩은 구더기, 심지어 라이칸스로프(수인)와 같은 기생 생물에 의한 고통도 Cure Disease로 무효화할 수 있습니다. 단, 후자의 고통과 관련하여 Remove Disease는 72시간 이내에 12 이상의 강도로 시전해야 하며, 전자는 강도 1만으로도 치유될 수 있습니다. 이 주문은 질병에 대한 향후 면역을 제공하지 않습니다.
+이 주문은 질병의 효력(Potency)이 주문의 강도 x 30보다 낮은, 대상에게 고통을 주는 모든 세속적 또는 마법적 질병의 효과를 치료한다. 치료가 적용되면 해당 질병의 기술서에 명시된 바에 따라 회복이 시작된다. 녹색 점액, 썩음 구더기, 심지어 라이칸스로프(수인)와 같은 기생 생물로 인한 고통도 '질병 치료'를 통해 무효화할 수 있다. 단, 후자의 고통과 관련해서는 '질병 제거'를 72시간 이내에 강도 12 이상으로 시전해야 하며, 전자는 강도 1로도 치료할 수 있다. 이 주문은 해당 질병에 대한 미래의 면역을 제공하지 않는다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | POT 30 질병, 녹색 슬라임 또는 썩은 구더기 치유 |
-| 2 | 6 | POT 60 질병 치유 |
-| 3 | 9 | POT 90 질병 치유 |
-| 4 | 12 | POT 120 질병, 라이칸스로피 치유 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 효력 30 이하의 질병, 녹색 점액, 또는 썩음 구더기 치료 |
+| 2 | 6 | 효력 60 이하의 질병 치료 |
+| 3 | 9 | 효력 90 이하의 질병 치료 |
+| 4 | 12 | 효력 120 이하의 질병, 라이칸스로피 치료 |
+| +1 | +1 | 진행 지속 |
 
-이 주문의 역인 Cause Disease는 적에게 마법적 질병을 유발합니다. 성공하면 시전자는 대상에게 알려진 모든 질병을 유발할 수 있습니다. 단, 강도 x 30이 선택한 질병의 POT와 같거나 커야 합니다. 일단 질병이 성공적으로 유발되면, 저항, 발병 시간, 지속 시간 등과 관련하여 다른 모든 질병과 동일하게 작동합니다. 유일한 예외는 조기 회복이 Remove Disease 또는 Cure 주문 시전으로 제한된다는 것입니다. 치유(Healing) 기술은 마법적으로 유발된 질병에 효과가 없습니다.
+이 주문의 역인 '질병 유발'은 적에게 마법적 질병을 감염시킨다. 성공하면 시전자는 대상에게 알려진 질병을 선택하여 걸리게 할 수 있다. 단, 강도 x 30이 선택한 질병의 효력과 같거나 높아야 한다. 일단 질병이 성공적으로 감염되면, 저항, 발현 시간, 지속 시간 등과 관련하여 다른 질병과 동일하게 작동한다. 유일한 예외는 조기 회복이 '질병 제거' 혹은 '치료' 주문을 시전하는 것으로 제한된다는 점이다. 치유 기술은 마법적으로 유발된 질병에 아무런 효과가 없다.
 
 ---
-#### Cure Fatigue \(R\) (피로 치유)
+#### 피로 회복 \(R\)
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 2행동 |
+| **등급:** 사제 1 | **시전 시간:** 2 행동 |
 | **영역:** 치유 | **지속 시간:** 아래 참조 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (지구력 또는 회피) |
+| **범위:** 대상 1명 | **저항:** 없음 (내구 또는 회피) |
 
-이 주문을 시전하면 대상은 1d3+1단계의 잃어버린 피로를 회복하며, 해당되는 경우 의식도 되찾습니다.
+이 주문을 시전하면 대상은 1d3+1만큼 감소했던 피로 단계를 회복하며, 해당되는 경우 의식도 되찾는다.
 
-이 주문의 역인 Cause Fatigue는 지구력 판정에 실패한 대상에게 1d3+1단계의 피로를 부여합니다. 시전자의 채널 판정이 상대방을 공격하는 판정으로 기능하며 주문의 신체적 요구 사항의 일부로 간주됩니다. 추가적인 공격 판정은 필요하지 않습니다. 착용 갑옷이나 자연 갑옷 모두 아무런 보호도 제공하지 않지만, 마법 갑옷은 주문을 무효화합니다.
+이 주문의 역인 '피로 유발'은 내구 판정에 실패한 대상에게 1d3+1 단계의 피로를 부여한다. 시전자의 채널 판정이 상대를 타격하는 판정으로 작용하며, 이는 주문의 신체적 요구사항의 일부로 간주된다. 추가적인 타격 판정은 필요하지 않다. 착용 방어구나 자연 방어구는 아무런 보호를 제공하지 못하지만, 마법 방어는 주문을 무효화한다.
 
 ---
-#### Cure Major Wounds \(R\) (중상 치유)
+#### 중상 치료 \(R\)
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 1라운드 |
+| **등급:** 사제 2 | **시전 시간:** 1라운드 |
 | **영역:** 치유 | **지속 시간:** 영구적 |
 | **비용:** 3/강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (지구력 또는 회피) |
+| **범위:** 대상 1명 | **저항:** 없음 (내구 또는 회피) |
 
-이 주문은 아래 언급된 경우를 제외하고 Cure Minor Wounds와 동일하게 기능합니다.
+이 주문은 아래 명시된 경우를 제외하고 '경상 치료'와 동일하게 작동한다.
 
-이 주문은 부서지거나 절단된 상관없이 중상을 입은 단일 타격 위치를 치유합니다. 절단된 사지에는 효과가 없으며, 이는 사지가 여전히 존재하는 경우 Heal 주문이나 사지를 복구하는 Regeneration 주문이 필요합니다. 대상이 여전히 살아있고 부상 부위가 주문 강도와 동일한 시간(시간) 이내에 부상을 입었다면, Cure Major Wounds는 1d8+4 피해를 거의 즉시 치유합니다.
+이 주문은 타박상을 입었든 절단되었든 상관없이 중상을 입은 신체 부위 하나를 치유한다. 신체 부위가 소실된 경우에는 효과가 없으며, 이 경우에는 팔다리가 남아 있다면 '치유' 주문이, 팔다리가 완전히 소실되었다면 '재생' 주문이 필요하다. 대상이 살아 있고 해당 부위가 주문의 강도와 동일한 시간(시간 단위) 이내에 부상을 입었다면, '중상 치료'는 1d8+4의 피해를 거의 즉시 회복시킨다.
 
-부상이 더 일찍 발생했다면, 신체 부위는 더 외상적인 복구를 거쳐야 하며, 이는 Cure Major Wounds 1회 시전과 캐릭터의 치유 속도와 동일한 일수의 완전한 휴식 및 회복이 필요합니다. 굴린 히트 포인트는 평균화되어 언급된 회복 기간 동안 회복됩니다. 치유가 완료되기 전에 이 회복 기간이 중단되면 부위는 여전히 불구이고 사용할 수 없으며 Heal 주문으로만 치유될 수 있습니다.
+부상을 입은 지 더 오래되었다면, 신체 부위는 더 고통스러운 복구 과정을 거쳐야 한다. 이를 위해서는 '중상 치료' 주문 1회 시전과 캐릭터의 치유 속도와 동일한 일수만큼의 완전한 휴식과 회복이 필요하다. 굴림으로 나온 히트 포인트는 평균으로 계산되며 명시된 회복 기간 동안 회복된다. 치유가 완료되기 전에 회복 기간이 중단되면 해당 부위는 불구가 되어 사용할 수 없게 되며, '치유' 주문으로만 치료할 수 있다.
 
-역으로, Cause Major Wounds는 단일 타격 위치의 히트 포인트를 1d8+4만큼 줄이는 데 사용할 수 있습니다. 시전자의 채널 판정이 상대방을 공격하는 판정으로 기능하며 주문의 신체적 요구 사항의 일부로 간주됩니다. 추가적인 공격 판정은 필요하지 않습니다. 이 주문은 부위를 절단할 수는 없지만 일반적인 방식으로 부수거나 훼손할 수 있습니다. 착용 갑옷이나 자연 갑옷 모두 아무런 보호도 제공하지 않지만, 마법 방어력 수치는 평소대로 피해를 줄입니다.
+역으로 시전할 경우, '중상 유발'을 사용하여 특정 신체 부위의 히트 포인트를 1d8+4만큼 감소시킬 수 있다. 시전자의 채널 판정이 상대를 타격하는 판정으로 작용하며, 이는 주문의 신체적 요구사항의 일부로 간주된다. 추가적인 타격 판정은 필요하지 않다. 이 주문은 해당 부위를 절단할 수는 없으나 평소처럼 으깨거나 훼손할 수 있다. 착용 방어구나 자연 방어구는 아무런 보호를 제공하지 못하지만, 마법 방어 포인트는 평소처럼 피해를 감소시킨다.
 
 ---
-#### Cure Minor Wounds \(R\) (경상 치유)
+#### 경상 치료 \(R\)
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 2행동 |
+| **등급:** 사제 1 | **시전 시간:** 2 행동 |
 | **영역:** 치유 | **지속 시간:** 영구적 |
-| **비용:** 3 (또는 1) | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (지구력 또는 회피) |
+| **비용:** 3 (혹은 1) | **사거리:** 접촉 |
+| **범위:** 대상 1명 | **저항:** 없음 (내구 또는 회피) |
 
-Cure Minor Wounds는 사용되는 질환의 성격에 따라 여러 가지 다른 효과를 가집니다. 경상을 입은 생물에게 시전하면 부상당한 위치의 히트 포인트 1d4+1이 즉시 치유됩니다. 중상 및 치상에는 효과가 제한적이며, 히트 포인트 1점만 회복됩니다. 그러나 주문은 피해량에 관계없이 부위를 안정시키고 모든 출혈을 멈추며 임박한 죽음을 예방합니다.
+경상 치료는 사용하는 질병의 성격에 따라 여러 가지 다른 효과를 가진다. 경상을 입은 생명체에게 시전하면 부상 부위의 히트 포인트 1d4+1이 즉시 회복된다. 심각한 부상이나 중상에는 제한적인 효과가 있어 히트 포인트 1만 회복된다. 하지만 이 주문은 피해량과 상관없이 해당 부위를 안정화하여 모든 출혈을 멈추고 임박한 죽음을 방지한다.
 
-또는, 대상이 두통, 요통, 숙취, 감기, 사마귀 등과 같은 경미한 증상을 겪고 있다면 Cure Minor Wounds를 시전하여 증상 중 하나를 제거합니다. 이 주문 사용은 마법 포인트 1점만 소모합니다.
+반대로 대상이 두통, 요통, 숙취, 감기, 사마귀 등 가벼운 질환을 앓고 있는 경우, '경상 치료' 시전으로 효과 중 하나를 제거할 수 있다. 이 경우 주문 비용은 마법 포인트 1만 든다.
 
-역으로, Cause Minor Wounds는 접촉한 부위의 히트 포인트를 1d4+1 줄이지만, 그렇지 않으면 같은 방식으로 작동합니다. Cause Minor Wounds는 중상이나 치상을 입은 부위에는 1점의 피해만 입히며, 초과 피해는 사라집니다. 이 주문은 부위를 절단할 수는 없지만 일반적인 방식으로 부수거나 훼손할 수 있습니다.
+역으로 시전할 경우, '경상 유발'은 접촉한 부위의 히트 포인트를 1d4+1만큼 감소시키며, 그 외에는 같은 방식으로 작동한다. '경상 유발'은 심각한 부상이나 중상을 입은 부위에 피해 1만 입히며, 초과 피해는 사라진다. 이 주문은 해당 부위를 절단할 수는 없으나 평소처럼 으깨거나 훼손할 수 있다.
 
-또는, 주문은 두통, 요통, 숙취, 감기, 사마귀 등과 같은 경미한 질환을 유발할 수 있습니다. 이 주문 사용은 마법 포인트 1점만 소모합니다.
+또한 이 주문은 두통, 요통, 숙취, 감기, 사마귀와 같은 가벼운 질환을 유발할 수도 있다. 이 경우 주문 비용은 마법 포인트 1만 든다.
 
-시전자의 채널 판정이 상대방을 공격하는 판정으로 기능하며 주문의 신체적 요구 사항의 일부로 간주됩니다. 추가적인 공격 판정은 필요하지 않습니다. 착용 갑옷이나 자연 갑옷 모두 아무런 보호도 제공하지 않지만, 마법 방어력 수치는 평소대로 피해를 줄입니다.
+시전자의 채널 판정이 상대를 타격하는 판정으로 작용하며, 이는 주문의 신체적 요구사항의 일부로 간주된다. 추가적인 타격 판정은 필요하지 않다. 착용 방어구나 자연 방어구는 아무런 보호를 제공하지 못하지만, 마법 방어 포인트는 평소처럼 피해를 감소시킨다.
 
 ---
-#### Cure Serious Wounds \(R\) (치상 치유)
+#### 심각한 부상 치료 \(R\)
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 1라운드 |
+| **등급:** 사제 2 | **시전 시간:** 1라운드 |
 | **영역:** 치유 | **지속 시간:** 영구적 |
 | **비용:** 3 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (지구력 또는 회피) |
+| **범위:** 대상 1명 | **저항:** 없음 (내구 또는 회피) |
 
-이 주문은 아래 언급된 경우를 제외하고 Cure Minor Wounds와 동일하게 기능합니다.
+이 주문은 아래 명시된 경우를 제외하고 '경상 치료'와 동일하게 작동한다.
 
-Cure Serious Wounds는 치상보다 심하지 않은 부상에 대해 1d6+2점의 부상을 입은 단일 타격 위치를 치유합니다. 중상에는 효과가 제한적이며, 부위를 2 히트 포인트 치유하고 부상을 안정시켜 죽음을 예방합니다.
+심각한 부상 치료는 부상이 심각한 부상(Serious Wound)보다 심하지 않을 경우, 신체 부위 한 곳의 부상을 1d6+2만큼 치유한다. 중상에는 제한적인 효과가 있어 해당 부위의 히트 포인트를 2 회복시키고 부상을 안정화하여 죽음을 방지한다.
 
-역으로, Cause Serious Wounds는 단일 타격 위치의 히트 포인트를 1d6+2 줄입니다. Cause Serious Wounds는 중상을 입은 부위에 2점의 피해만 입히며, 초과 피해는 사라집니다. 시전자의 채널 판정이 상대방을 공격하는 판정으로 기능하며 주문의 신체적 요구 사항의 일부로 간주됩니다. 추가적인 공격 판정은 필요하지 않습니다. 이 주문은 부위를 절단할 수는 없지만 일반적인 방식으로 부수거나 훼손할 수 있습니다. 착용 갑옷이나 자연 갑옷 모두 아무런 보호도 제공하지 않지만, 마법 방어력 수치는 평소대로 피해를 줄입니다.
+역으로 시전할 경우, '심각한 부상 유발'은 특정 신체 부위의 히트 포인트를 1d6+2만큼 감소시킨다. '심각한 부상 유발'은 중상을 입은 부위에 피해 2만 입히며, 초과 피해는 사라진다. 시전자의 채널 판정이 상대를 타격하는 판정으로 작용하며, 이는 주문의 신체적 요구사항의 일부로 간주된다. 추가적인 타격 판정은 필요하지 않다. 이 주문은 해당 부위를 절단할 수는 없으나 평소처럼 으깨거나 훼손할 수 있다. 착용 방어구나 자연 방어구는 아무런 보호를 제공하지 못하지만, 마법 방어 포인트는 평소처럼 피해를 감소시킨다.
 
 ---
-#### Dancing Lights (춤추는 불빛)
+#### 춤추는 빛
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 2분/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 100피트 반경/강도 | **저항:** 해당 없음 |
+| **범위:** 100피트 반경/강도 | **저항:** 없음 |
 
-이 주문을 시전하면 마법 사용자는 다음 효과 중 하나를 생성할 수 있습니다: 횃불이나 등불과 비슷하게 빛을 발하는 1d4개의 깜박이는 불빛, 1d4개의 빛나는 도깨비불 같은 구체, 혹은 불의 정령처럼 깜박이는 1개의 희미한 인간형 형태. 효과는 시전자의 집중 없이 시전자가 원하는 속도로 영역 내에서 이동하며 시전자가 지시할 수 있습니다. 불빛이 주문의 효과 범위 밖으로 나가거나 지속 시간이 만료되면 사라집니다.
+이 주문을 시전하면 마법사는 다음 효과 중 하나를 생성할 수 있다. 등불이나 횃불과 비슷한 밝기를 내는 1d4개의 일렁이는 빛점, 1d4개의 도깨비불 같은 빛나는 구체, 또는 불의 정령처럼 일렁이는 1개의 희미한 인간형 형상이다. 효과는 시전자가 집중할 필요 없이 직접 조종할 수 있으며 주문 범위 내에서 원하는 속도로 이동한다. 빛이 주문의 효과 범위를 벗어나거나 지속 시간이 종료되면 사라진다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 100피트 반경에서 2분간 1d4 불빛 또는 1 형태 |
-| 2 | 2 | 200피트 반경에서 4분간 1d4 불빛 또는 1 형태 |
-| 3 | 3 | 300피트 반경에서 6분간 1d4 불빛 또는 1 형태 |
-| 4 | 4 | 400피트 반경에서 8분간 1d4 불빛 또는 1 형태 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 1 | 1d4개의 빛 또는 1개의 형상, 2분간, 100피트 반경 |
+| 2 | 2 | 1d4개의 빛 또는 1개의 형상, 4분간, 200피트 반경 |
+| 3 | 3 | 1d4개의 빛 또는 1개의 형상, 6분간, 300피트 반경 |
+| 4 | 4 | 1d4개의 빛 또는 1개의 형상, 8분간, 400피트 반경 |
+| +1 | +1 | 진행 지속 |
 
 ---
-#### Darkness (어둠)
+#### 어둠
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 1행동 |
+| **등급:** 마법사 2 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 10분/강도 |
 | **비용:** 1/강도 | **사거리:** 30피트/강도 |
-| **범위:** 10피트 반경 | **저항:** 해당 없음 |
+| **범위:** 10피트 반경 | **저항:** 없음 |
 
-이 주문은 10피트 반경 내에 완전한 마법적 어둠의 영역을 생성하여 일반적인 시야와 적외선 시야 같은 특별한 종족 시야를 차단합니다. 햇빛에서 촛불에 이르기까지 모든 형태의 일상적인 빛이 이 주문에 의해 무효화됩니다. Light를 시전하여 대응할 수 있지만, Dancing Lights, Fairy Fire, 심지어 감지 주문에서 나오는 빛과 같은 다른 형태의 마법적 빛은 Darkness에 의해 무효화됩니다. 이미 지속 중인 Light 주문은 Darkness에 아무런 영향을 주지 않으며 그 반대도 마찬가지입니다.
+이 주문은 10피트 반경 내에 완전한 마법적 어둠을 생성하여 일반적인 시야와 암시(Darkvision) 같은 특수한 종족 시야를 모두 차단한다. 햇빛부터 촛불에 이르기까지 모든 형태의 세속적인 빛이 이 주문에 의해 무효화된다. '빛' 주문을 시전하여 반격할 수 있으며, 그 반대도 가능하다. 그러나 '춤추는 빛', '요정불', 심지어 감지 주문에서 발산되는 빛과 같은 다른 형태의 마법적인 빛은 '어둠'에 의해 무효화된다. 이미 지속 중인 '빛' 주문은 '어둠'에 아무런 영향을 주지 못하며, 그 반대도 마찬가지다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
 | 1 | 1 | 10분; 30피트 사거리 |
 | 2 | 2 | 20분; 60피트 사거리 |
 | 3 | 3 | 30분; 90피트 사거리 |
 | 4 | 4 | 40분; 120피트 사거리 |
-| +1 | +1 | 단계별 진행 |
+| +1 | +1 | 진행 지속 |
 
 ---
-#### Darkvision (암시)
+#### 암시(Darkvision)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
 | **등급:** 마법사 2 | **시전 시간:** 1분 |
 | **영역:** 없음 | **지속 시간:** 2시간/강도 |
 | **비용:** 1/강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **범위:** 대상 1명 | **저항:** 없음 |
 
-이 주문은 수혜자에게 60피트 사거리의 암시(Darkvision)를 부여합니다. 같은 이름의 종족 능력과 모든 면에서 동일하게 작동합니다.
+이 주문은 대상에게 60피트 사거리의 암시 능력을 부여한다. 이는 같은 이름의 종족 능력과 모든 면에서 동일하게 작동한다.
 
 ---
-#### Death Spell (죽음의 주문)
+#### 죽음의 주문
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 4 | **시전 시간:** 2행동 |
+| **등급:** 마법사 4 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
-| **비용:** 3 + 1/강도, +2 EXP | **사거리:** 30피트/강도 |
-| **범위:** 15피트 반경 | **저항:** 지구력 |
+| **비용:** 3 +1/강도, +2 경험치 | **사거리:** 30피트/강도 |
+| **범위:** 15피트 반경 | **저항:** 내구 |
 
-이 주문을 성공적으로 시전하면 효과 범위 내의 SIZ 40 이하인 여러 생물이 사망합니다. 마법 사용자는 강도 수준당 1d6을 굴려 영향을 받는 생물의 수를 결정합니다. 효과 범위 내에 서로 다른 SIZ 범주의 생물이 있을 경우, 인간 크기(SIZ 1~20)가 항상 더 큰 생물보다 먼저 영향을 받습니다. 대형 생물(SIZ 21~40)은 죽음에 저항할 확률이 더 높으며 저항 판정이 쉽지만(Easy), 각 대형 생물은 인간 크기 생물 5명으로 계산됩니다. SIZ 40보다 큰 생물은 이 주문의 영향을 받지 않습니다.
+이 주문을 성공적으로 시전하면 범위 내에 있는 크기(크기) 40 이하의 생명체들을 가변적인 수만큼 죽인다. 마법사는 강도 등급마다 1d6을 굴려 영향을 받는 생명체의 수를 결정한다. 서로 다른 크기 범주의 생명체가 범위 내에 있을 경우, 인간 크기(크기 1-20) 생명체가 항상 더 큰 생명체보다 먼저 영향을 받는다. 대형 생명체(크기 21-40)는 저항 판정을 '쉬움'으로 하기에 죽음을 피할 가능성이 높지만, 대형 생명체 1마리는 인간 크기 생명체 5마리로 간주된다. 크기 40을 초과하는 생명체는 이 주문의 영향을 받지 않는다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 +2 EXP | 30피트 사거리; 1d6 생물 영향 |
-| 2 | 4 +2 EXP | 60피트 사거리; 2d6 생물 영향 |
-| 3 | 5 +2 EXP | 90피트 사거리; 3d6 생물 영향 |
-| 4 | 6 +2 EXP | 120피트 사거리; 4d6 생물 영향 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 +2 경험치 | 30피트 사거리; 1d6 생명체 영향 |
+| 2 | 4 +2 경험치 | 60피트 사거리; 2d6 생명체 영향 |
+| 3 | 5 +2 경험치 | 90피트 사거리; 3d6 생명체 영향 |
+| 4 | 6 +2 경험치 | 120피트 사거리; 4d6 생명체 영향 |
+| +1 | +1 | 진행 지속 |
 
-잠재적 대상 수와 같거나 초과하는 강도로 주문을 시전하는 것이 바람직합니다. 불충분한 포인트는 손실되기 때문입니다. 이 주문은 라이칸스로프, 언데드 또는 다른 차원 생물에게는 아무런 효과가 없습니다. 오직 Wish 주문만이 이 주문에 의해 영향을 받은 자들을 다시 죽음에서 되살릴 수 있습니다.
+잠재적 대상의 수와 같거나 큰 강도로 주문을 시전하는 것이 바람직한데, 포인트가 부족하면 낭비되기 때문이다. 이 주문은 라이칸스로프, 언데드, 혹은 다른 차원의 생명체에게는 효과가 없다. 오직 '소원(Wish)' 주문만이 이 주문의 영향을 받아 죽은 자를 되살릴 수 있다.
 
-_예: 렌가스(Rengarth)가 SIZ 16 오크 4마리와 SIZ 32 언덕 거인 2마리가 점유한 영역에 강도 3으로 죽음의 주문을 시전합니다. 강도당 1d6씩 총 3d6을 굴린 결과 12점이 나옵니다. 각 언덕 거인은 죽이기 위해 5점만 필요하지만, 더 작은 오크가 먼저 영향을 받습니다. 오크 4마리 중 3마리가 저항 판정에 실패하여 사망합니다. 각 오크는 1점으로 계산되므로 8점이 남습니다. 이것은 5점을 사용하여 언덕 거인 1마리를 죽이기에 충분하며, 나머지 3점은 소실됩니다. 그러나 화난 언덕 거인은 쉬운 저항 판정을 성공적으로 통과하고 렌가스에게 돌격합니다._
+_예시: 렌가스는 크기 16 오크 4마리와 크기 32 언덕 거인 2마리가 있는 곳에 강도 3으로 '죽음의 주문'을 시전한다. 강도당 1d6을 굴린 결과 12포인트가 나왔다. 언덕 거인은 5포인트만 있으면 죽지만, 더 작은 오크들이 먼저 영향을 받는다. 4마리의 오크 중 3마리가 내구 판정에 실패하여 죽음에 이른다. 각 오크는 1포인트에 해당하므로 8포인트가 남는다. 이는 5포인트가 필요한 언덕 거인 1마리에게 영향을 주기에 충분하며, 남은 3포인트는 소실된다. 하지만 분노한 언덕 거인은 쉬운 내구 판정에 성공하여 렌가스에게 돌진한다._
 
 ---
-#### Deflect (굴절)
+#### 편향(Deflect)
 
-(창조)
+(방출)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 사제 0, 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 보호 | **지속 시간:** 집중 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **범위:** 대상 1명 | **저항:** 없음 |
 
-Deflect는 빗방울, 미세한 날파리 떼, 심지어 날아오는 모래알과 같이 미세한 이물질의 충격으로부터 수혜자를 보호합니다. 보호는 아이 손톱보다 작은 개별 물체로 제한되므로 일반 미사일 무기가 캐릭터를 맞히는 것을 방지할 수는 없습니다.
+'편향'은 빗방울, 파리 떼, 날아오는 모래 알갱이와 같은 아주 작은 이물질의 충격으로부터 대상을 보호한다. 보호 범위는 아이의 손톱보다 작은 개별 물체로 제한되며, 따라서 일반적인 투사체 무기가 캐릭터에게 적중하는 것을 막지는 못한다.
 
 ---
-#### Detect Charm \(R\) (매혹 감지)
+#### 매혹 감지 \(R\)
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 1라운드 |
+| **등급:** 사제 1 | **시전 시간:** 1라운드 |
 | **영역:** 점술 | **지속 시간:** 2분/강도 |
 | **비용:** 1/강도 | **사거리:** 100피트 |
-| **범위:** 분당 1 대상 | **저항:** 해당 없음 |
+| **범위:** 분당 대상 1명 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자는 하나 이상의 선택된 생물이 매혹 효과 아래에 있는지 판별할 수 있습니다. 생물 1체를 스캔하려면 1분간의 집중이 필요합니다. 이 주문의 역인 Hide Charm을 시전하면, 6시간/강도 동안 그러한 감지로부터 한 생물을 보호할 수 있습니다.
+이 주문을 통해 시전자는 선택한 하나 이상의 생명체가 매혹(Charm) 효과를 받고 있는지 파악할 수 있다. 생명체 1명을 스캔하려면 1분간 집중해야 한다. 이 주문의 역인 '매혹 은폐'를 시전하면, 생명체 1명을 6시간/강도 동안 그러한 감지로부터 보호할 수 있다.
 
 ---
-#### Detect Evil \(R\) (악 감지)
+#### 악 감지 \(R\)
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1, 마법사 2 | **시전 시간:** 1행동 |
-| **영역:** 모두 | **지속 시간:** 5분/강도 |
+| **등급:** 사제 1, 마법사 2 | **시전 시간:** 1 행동 |
+| **영역:** 전체 | **지속 시간:** 5분/강도 |
 | **비용:** 1/강도 | **사거리:** 180피트 |
-| **범위:** 90도 호 | **저항:** 해당 없음 |
+| **범위:** 90도 호 | **저항:** 없음 |
 
-이 주문으로 시전자는 90도 호 내, 180피트 이내의 강한 악의 발산을 감지할 수 있습니다. 악마와 뱀파이어 같은 초자연적인 존재, 또는 게임 마스터가 결정한 악하거나 사악한 의도를 가진 일상적인 존재만 발견할 수 있습니다. 하지만 함정, 독, 저주받은 물건 등은 감지하지 못합니다. 시전자는 최대 3피트의 단단한 나무, 1피트의 돌이나 흙, 1인치의 단단한 금속 너머의 발산을 볼 수 있습니다. 마법적 아우라가 형성되는 데 시간이 걸리므로 분당 60도 호 1개 이상을 스캔할 수 없습니다. 이 주문의 역인 Detect Good은 위와 동일한 규칙을 따릅니다.
+이 주문을 사용하면 시전자는 90도 호 안에서 최대 180피트 거리까지 강한 악의 기운을 감지할 수 있다. 이 주문은 악마나 뱀파이어 같은 초자연적인 악의 생명체, 또는 게임 마스터가 판단하기에 악하거나 사악한 의도를 가진 세속적인 존재만을 발견한다. 그러나 함정, 독, 저주받은 아이템 등은 감지하지 못한다. 시전자는 최대 3피트의 단단한 나무, 1피트의 돌이나 흙, 1인치의 단단한 금속을 관통하여 기운을 볼 수 있다. 마법적 기운이 형성되는 데 시간이 필요하므로, 1분당 60도 호 1개 이상을 스캔할 수 없다. 이 주문의 역인 '선 감지' 역시 동일한 규칙을 따른다.
 
 ---
-#### Detect Invisibility (투명 감지)
+#### 투명 감지
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 1행동 |
+| **등급:** 마법사 2 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 5분/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 시야선 | **저항:** 해당 없음 |
+| **범위:** 시야 내 | **저항:** 없음 |
 
-이 주문을 시전하면 마법 사용자는 투명한 물체나 존재를 볼 수 있는 능력을 얻습니다. 여기에는 숨겨져 있거나, 에테르 상태이거나, 아스트랄 상태이거나, 위상 밖으로 나간 대상이 포함됩니다. 또한 일반적인 수단으로 숨겨져 있거나 은폐된 대상을 감지할 수도 있습니다. 다른 감지 주문과 달리 Detect Invisibility는 시야선으로 제한되며 호를 스캔하는 데 1분이 필요하지 않습니다.
+이 주문을 시전하면 마법사는 투명한 물체나 존재를 볼 수 있는 능력을 얻는다. 여기에는 숨겨져 있거나, 에테르 상태이거나, 아스트랄 상태이거나, 위상 밖으로 벗어난 것들이 포함된다. 또한 세속적인 수단으로 숨겨진 것들도 감지할 수 있다. 다른 감지 주문과 달리 '투명 감지'는 시야 범위 내로 제한되며 시야 호를 스캔하는 데 1분을 필요로 하지 않는다.
 
 ---
-#### Detect Lie \(R\) (거짓말 감지)
+#### 거짓말 감지 \(R\)
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 1라운드 |
+| **등급:** 사제 2 | **시전 시간:** 1라운드 |
 | **영역:** 점술 | **지속 시간:** 1분/강도 |
 | **비용:** 1/강도 | **사거리:** 100피트 |
-| **범위:** 1 대상 | **저항:** 기만 |
+| **범위:** 대상 1명 | **저항:** 기만 |
 
-시전 시 이 주문은 한 존재가 의도적으로 거짓말을 하거나 진실을 숨기고 있는지 결정합니다. 그러나 실제 진실이 드러나는 것이 아니라, 제공되는 답변이 정확하지 않다는 것만 드러납니다. 대상은 여전히 시전자의 원래 시전 판정에 대한 자신의 기만(Deceit) 기술의 강한 대항 판정을 통해 주문을 '이기려고' 시도할 수 있습니다. 이 주문은 역으로 시전될 수 있으며, Conceal Lie는 6시간/강도 동안 마법적 수단으로 거짓말을 감지하지 못하게 합니다.
+이 주문을 시전하면 대상이 고의적으로 거짓말을 하거나 진실을 숨기고 있는지 판단할 수 있다. 단, 실제 진실이 무엇인지 드러나는 것이 아니라, 제공되는 답변이 정확하지 않다는 사실만 알려준다. 대상은 자신의 기만 수치로 원래 시전자의 판정에 맞서 '막강한 대항 판정'을 수행하여 주문을 '이겨내려' 시도할 수 있다. 이 주문은 역으로 시전될 수 있으며, '거짓말 은폐'는 6시간/강도 동안 마법적인 수단에 의한 거짓말 감지를 방지한다.
 
 ---
-#### Detect Magic (마법 감지)
+#### 마법 감지
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1, 마법사 1 | **시전 시간:** 1행동 |
-| **영역:** 모두 | **지속 시간:** 2분/강도 |
+| **등급:** 사제 1, 마법사 1 | **시전 시간:** 1 행동 |
+| **영역:** 전체 | **지속 시간:** 2분/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 90도 호, 60피트 | **저항:** 해당 없음 |
+| **범위:** 90도 호, 60피트 | **저항:** 없음 |
 
-시전 시 시전자는 90도 호 내, 60피트 이내의 마법 아이템이나 주문 효과를 둘러싼 빛나는 파란색 아우라를 봅니다. 이 주문은 다음 표에 표시된 것처럼 대략적인 강도와 규모를 감지합니다.
+이 주문을 시전하면 마법사는 90도 호 안에서 60피트 거리 이내에 있는 모든 마법 아이템이나 마법 효과를 감지하여 파란색 빛의 아우라로 볼 수 있다. 이 주문은 또한 아래 표와 같이 대략적인 강도와 규모를 감지한다.
 
 ##### 감지된 강도 및/또는 규모
 
@@ -849,664 +845,659 @@ Deflect는 빗방울, 미세한 날파리 떼, 심지어 날아오는 모래알�
 | 26-75 | 정확한 강도/규모 |
 | 76-00 | +1d3 |
 
-강도 수준당 마법의 특정 유형(강령술, 원소 등)을 발견할 확률이 10% 있습니다. 시전자가 보는 아우라는 3피트의 나무, 1피트의 돌, 1인치의 단단한 금속까지 고체 물체를 통과하여 투사됩니다. 마법적 아우라가 형성되는 데 시간이 걸리므로 분당 60도 호 1개 이상을 스캔할 수 없습니다. 악마, 마귀, 천사, 정령은 본질적으로 마법적인 존재가 아니지만, 소환된 경우 소환 주문은 시전된 장소에서 소환 주문의 규모 x 10분 동안 등록됩니다.
+강도당 10%의 확률로 마법의 특정 유형(강령, 원소 등)을 발견할 수 있다. 시전자가 보는 아우라는 최대 3피트의 나무, 1피트의 돌, 1인치의 단단한 금속을 통과하여 투사된다. 마법적 아우라가 형성되는 데 시간이 필요하므로 1분당 60도 호 1개 이상을 스캔할 수 없다. 악마, 하급 악마, 천사, 정령은 그 자체로 마법적이지 않지만, 소환된 경우 소환 주문의 규모 x 10에 해당하는 시간(분 단위) 동안 마법적 기운이 감지된다.
 
 ---
-#### Dimension Door (차원문)
+#### 차원문(Dimension Door)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 1행동 |
+| **등급:** 마법사 3 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 시전자 | **저항:** 해당 없음 |
+| **비용:** 3+1/추가 강도 | **사거리:** 0 |
+| **범위:** 시전자 | **저항:** 없음 |
 
-Dimension Door는 단거리 순간 이동의 한 형태입니다. 시전자는 중간 공간을 건너지 않고 강도 수준당 최대 100피트를 즉시 점프하며 오류 확률은 없습니다. 원하는 위치는 눈으로 직접 보거나 방향으로 지정할 수 있습니다(예: 정면 40피트, 아래 65피트, 왼쪽 45도 등). 공중 도착은 Feather Fall과 같은 주문으로 구하지 않는 한 추락 피해를 초래하며, 고체 물체로 실수로 점프하면 대신 시전자를 아스트랄 차원에 가두게 됩니다. 육체적으로 운반되는 모든 장비(살아있지 않은 무생물)는 시전자와 함께 점프합니다. SIZ 20 이하의 살아있는 물질은 시전자를 동반할 수 있습니다. 예를 들어, SIZ 11인 캐릭터는 둘 다 접촉하고 있다고 가정할 때 시전자와 함께 점프할 수 있습니다. 시전자와 동반 운반된 생물은 복구하는 데 전체 1라운드가 필요합니다. 이 시간 동안 공격을 받으면 방어 이상의 행동을 할 수 없습니다.
+차원문은 단거리 순간이동의 일종이다. 시전자는 중간 공간을 거치지 않고 강도당 최대 100피트까지 즉시 점프하며, 실패 확률은 없다. 이동하고자 하는 위치는 눈으로 직접 볼 수 있거나 방향으로 지정할 수 있다. (예: 똑바로 앞 40피트, 아래로 65피트, 왼쪽 45도 등). 공중으로 이동할 경우 '깃털 낙하'와 같은 주문으로 보호받지 못하면 추락 피해를 입으며, 실수로 고체 물체 안으로 점프할 경우 아스트랄 평면에 갇히게 된다. 물리적으로 휴대한 장비(살아있지 않은 무생물)는 시전자와 함께 이동한다. 크기(크기) 20 이하의 살아있는 존재는 시전자와 동행할 수 있다. 예를 들어, 크기 11인 캐릭터는 둘 다 접촉하고 있다면 시전자와 함께 점프할 수 있다. 시전자와 이동한 모든 생명체는 회복을 위해 1라운드가 필요하다. 이 시간 동안 공격받을 경우 방어 외의 행동은 할 수 없다.
 
 ---
-#### Dispel Magic (마법 해제)
+#### 마법 무효화
 
-(보호)
+(방어)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2, 마법사 2 | **시전 시간:** 2행동 |
+| **등급:** 사제 2, 마법사 2 | **시전 시간:** 2 행동 |
 | **영역:** 보호 | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 360피트 |
-| **범위:** 15피트 반경 | **저항:** 해당 없음 |
+| **범위:** 15피트 반경 | **저항:** 없음 |
 
-Dispel Magic은 특정 대상이나 특정 영역에 시전할 수 있으며, 일단 시전되면 대상 지점의 15피트 반경 내의 모든 마법이 제거될 수 있습니다. 대상의 지속 중인 주문을 끝내지만 다른 마법 효과에는 아무런 영향을 주지 않습니다. 마법 생물이나 언데드에게는 효과가 없습니다. Dispel Magic은 주문의 강도보다 낮은 규모의 범위 내 모든 다른 마법을 제거합니다. 예외는 마법 아이템과 Charm Person과 같은 매혹 유형 주문의 피해자로, 이는 개별적으로 대상이 되어야 합니다. 주문 효과는 부분적으로 제거될 수 없습니다.
+마법 무효화는 특정 대상이나 특정 지역을 향해 시전할 수 있으며, 일단 시전되면 목표 지점 15피트 반경 내의 모든 마법이 해제될 수 있다. 이는 대상에게 걸린 지속 중인 주문을 끝내지만 다른 마법 효과에는 영향을 주지 않는다. 마법적인 생명체나 언데드에게는 아무런 효과가 없다. 마법 무효화는 범위 내에서 주문의 강도보다 낮은 규모를 가진 모든 다른 마법을 제거한다. 마법 아이템이나 '매혹' 주문과 같은 정신 지배 유형의 주문 피해자는 개별적으로 지정해야 하므로 이 규칙의 예외가 된다. 주문의 효과는 부분적으로 제거될 수 없다.
 
-Dispel Magic은 범위 내 가장 강력한 마법부터 시작합니다. 주문을 제거하지 못하면(규모가 너무 높기 때문에) 주문이 끝나고 더 이상 마법을 제거할 수 없습니다.
+마법 무효화는 범위 내에서 가장 강력한 마법부터 처리한다. (주문의 규모가 너무 높아) 어떤 주문도 제거하지 못하면 주문이 종료되고 더 이상의 마법은 제거될 수 없다.
 
-Dispel Magic은 반응형 주문 방해 행동을 사용하여 들어오는 공격적인 주문을 무효화하기 위해 방어적으로 시전할 수 있습니다.
-
----
-#### Divination (예언)
+마법 무효화는 '반격 주문' 반응 행동을 사용하여 들어오는 공격 주문을 무력화하는 데 방어적으로 사용할 수 있다.#### 점술 (Divination)
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3 | **시전 시간:** 10분 |
+| **등급:** 사제 3 | **시전 시간:** 10분 |
 | **영역:** 점술 | **지속 시간:** 집중 |
-| **비용:** 3/강도 | **사거리:** 0 |
-| **범위:** 아래 참조 | **저항:** 해당 없음 |
+| **비용:** 3/위력 | **사거리:** 0 |
+| **범위:** 하단 참조 | **저항:** 없음 |
 
-이 주문을 시전하면 성직자는 1주일 이내에 일어날 것으로 예상되는 취해지지 않은 활동에 관해 신으로부터 정보를 받을 수 있습니다. 덜 강력한 주문 Augury와 달리 Divination은 구체적인 정보를 제공합니다. 이 주문을 시전하기 위한 채널(Channel) 기술 판정은 '어려움(Formidable)'에서 시작하며, 각 강도 수준마다 난이도가 한 등급씩 감소합니다. 강도는 5등급을 초과할 수 없으며 96% 이상의 결과는 항상 실패합니다.
+이 주문을 시전하면 사제는 일주일 이내에 일어날 것으로 예상되는 아직 수행되지 않은 활동에 관해 신으로부터 정보를 얻을 수 있습니다. 덜 강력한 주문인 점복(Augury)과 달리, 점술(Divination)은 구체적인 정보를 제공합니다. 이 주문을 시전하기 위한 채널(Channel) 기술 판정은 '상당히 어려움(Formidable)'에서 시작하며, 위력 수치가 1 올라갈 때마다 난이도가 한 단계씩 낮아집니다. 위력은 5레벨을 초과할 수 없으며, 96% 이상의 판정은 항상 실패합니다.
 
-일부 경우에는 시전자에 적대적인 마법이 작용할 수 있으므로 게임 마스터가 플레이어를 위해 이 판정을 수행해야 하며, 이러한 경우 실패하면 잘못된 정보가 드러날 수 있습니다.
+시전자에게 적대적인 마법이 작용하고 있을 가능성이 있는 경우가 있으므로, 게임 마스터가 플레이어를 대신하여 이 판정을 수행해야 합니다. 이러한 경우 실패 결과는 거짓 정보를 드러낼 수도 있습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 위력 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 어려운 난이도로 주문 시전 |
-| 2 | 6 | 힘든 난이도로 주문 시전 |
-| 3 | 9 | 표준 난이도로 주문 시전 |
-| 4 | 12 | 쉬운 난이도로 주문 시전 |
-| 5 | 15 | 매우 쉬운 난이도로 주문 시전 |
+| 1 | 3 | '상당히 어려움' 난이도로 주문 시전 |
+| 2 | 6 | '어려움' 난이도로 주문 시전 |
+| 3 | 9 | '보통' 난이도로 주문 시전 |
+| 4 | 12 | '쉬움' 난이도로 주문 시전 |
+| 5 | 15 | '매우 쉬움' 난이도로 주문 시전 |
 
 ---
-#### Dry (건조)
+#### 건조 (Dry)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **범위:** 대상 1명 | **저항:** 없음 |
 
-Dry는 물체나 사람으로부터 모든 외래 수분을 제거하여 웅덩이를 형성하거나 증기 구름으로 증발시킵니다. 일반적으로 폭우 후에 몸을 말리거나 장비를 썩지 않게 보호하는 데 사용되지만 몇 가지 다른 다재다능한 용도가 있습니다. 시전자는 POW x 2 SIZ까지의 물체를 말릴 수 있습니다.
+건조(Dry) 주문은 물체나 사람에게서 외부의 모든 수분을 제거하며, 제거된 수분은 물웅덩이가 되거나 증기 구름으로 증발합니다. 보통 폭우를 맞은 후 몸을 말리거나 장비를 부패로부터 보호하는 데 사용되지만, 그 외에도 다용도로 활용할 수 있습니다. 시전자는 영력(영력) x2 크기(크기)까지의 물체를 건조할 수 있습니다.
 
 ---
-#### Earthquake (지진)
+#### 지진 (Earthquake)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 5, 마법사 5 | **시전 시간:** 10분1행동 |
-| **영역:** 원소(흙) | **지속 시간:** 1분 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 50피트/강도 |
-| **범위:** 10피트 반경/강도 | **저항:** 회피 |
+| **등급:** 사제 5, 마법사 5 | **시전 시간:** 1 행동 |
+| **영역:** 원소(대지) | **지속 시간:** 1분 |
+| **비용:** 3+1/추가 위력 | **사거리:** 50피트/위력 |
+| **범위:** 10피트 반경/위력 | **저항:** 회피 |
 
-Earthquake는 사람을 발에서 넘어뜨리고 견고한 건물을 붕괴시킬 수 있는 지면 진동을 유발합니다. 최소한 주문 저항 실패 시 희생자는 엎어집니다. 건물, 건물이 들어선 지역 또는 절벽 아래나 숲과 같은 취약한 위치에 있을 경우, 회피 실패 시 파편에 맞아 갇히게 됩니다. 착용 갑옷은 절반의 방어를 제공하지만 마법 방어력 수치나 생물의 자연 방어력은 평소대로 피해를 줄입니다.
+지진(Earthquake)은 사람을 넘어뜨리고 견고한 건물을 붕괴시킬 수 있는 지면의 진동을 일으킵니다. 주문에 저항하지 못하면 최소한 피해자는 엎어지게 됩니다. 건물 내부나 밀집 지역, 혹은 숲이나 절벽 아래와 같은 취약한 장소에 있을 경우, 회피(Evade)에 실패하면 떨어진 파편에 맞아 갇히게 됩니다. 착용한 갑옷은 절반의 보호를 제공하지만, 마법적인 장갑 수치(AP)나 생명체의 자연 장갑은 정상적으로 피해를 감소시킵니다.
 
-| 강도 | 비용 | 가변 효과 | 잠재 피해 |
+| 위력 | 비용 | 가변 효과 | 잠재 피해 |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | 50피트 사거리; 10피트 반경; 미세하게 균형 잡힌 물체 쓰러짐 | 없음 |
-| 2 | 4 | 100피트 사거리; 20피트 반경; 벽과 건물 삐걱거림 | 없음 |
-| 3 | 5 | 150피트 사거리; 30피트 반경; 회반죽과 유리창 균열 | 없음 |
-| 4 | 6 | 200피트 사거리; 40피트 반경; 무거운 가구 이동, 벽에 균열 | 없음 |
-| 5 | 7 | 250피트 사거리; 50피트 반경; 진흙 건물 부분 붕괴 | 단일 위치 1d2 피해 |
-| 6 | 8 | 300피트 사거리; 60피트 반경; 무거운 가구 전복, 목재/석조 건물 부분 붕괴 | 단일 위치 1d4 피해 |
-| 7 | 9 | 350피트 사거리; 70피트 반경; 건물 붕괴, 지면 균열, 나무 다리 붕괴 | 단일 위치 1d6 피해 |
-| 8 | 10 | 400피트 사거리; 80피트 반경; 잘 지어진 건물 붕괴, 석교 파손 | 2개 위치 1d8 피해 |
-| 9 | 11 | 450피트 사거리; 90피트 반경; 거의 서 있는 구조물 없음 | 3개 위치 1d10 피해 |
-| 10 | 12 | 500피트 사거리; 100피트 반경; 완전 파괴 | 4개 위치 1d12 피해 |
+| 1 | 3 | 50피트 사거리; 10피트 반경; 섬세한 균형의 물체 전복, 매달린 물체 흔들림. | 없음 |
+| 2 | 4 | 100피트 사거리; 20피트 반경; 벽과 건물이 삐걱거림. | 없음 |
+| 3 | 5 | 150피트 사거리; 30피트 반경; 회반죽과 유리창이 깨지고 나무와 높은 물체가 크게 떨림. | 없음 |
+| 4 | 6 | 200피트 사거리; 40피트 반경; 무거운 가구 이동, 벽걸이 물체 추락, 벽에 균열 발생. | 없음 |
+| 5 | 7 | 250피트 사거리; 50피트 반경; 흙, 엮은 벽, 진흙 벽돌로 된 소규모 건물 부분 붕괴. 작은 가지 추락. | 단일 부위 1d2 피해 |
+| 6 | 8 | 300피트 사거리; 60피트 반경; 무거운 가구 전복. 흙, 엮은 벽, 진흙 벽돌 건물 파괴. 단단한 목재나 조적조 건물 부분 붕괴. 기둥, 조각상, 경계 벽 추락. 큰 나무 가지 추락. | 단일 부위 1d4 피해 |
+| 7 | 9 | 350피트 사거리; 70피트 반경; 소규모 건물 붕괴. 지면의 명확한 균열, 가파른 경사면 낙석. 지하 배관 및 하수도 파손. 목재 다리 붕괴. 작은 나무 전복. | 단일 부위 1d6 피해 |
+| 8 | 10 | 400피트 사거리; 80피트 반경; 잘 지어진 건물 붕괴. 대규모 요새, 성벽 및 석조 다리 손상. 지면 균열 심각. 상당한 산사태 및 눈사태. 큰 나무 전복. | 두 부위 1d8 피해 |
+| 9 | 11 | 450피트 사거리; 90피트 반경; 거의 모든 구조물 파괴. 터널과 동굴 붕괴. 지면의 넓은 균열. 거대한 나무 전복. | 세 부위 1d10 피해 |
+| 10 | 12 | 500피트 사거리; 100피트 반경; 완전한 파괴, 거대한 석조 기념물조차 부분 붕괴. 절벽과 산비탈 분쇄. | 네 부위 1d12 피해 |
 
 ---
-#### Enchant Item (아이템 마법 부여)
+#### 아이템 마법 부여 (Enchant Item)
 
-(인챈트)
+(마법 부여)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 4 | **시전 시간:** 아래 참조 |
-| **영역:** 없음 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 아래 참조 | **사거리:** 접촉 |
-| **범위:** 1 아이템 | **저항:** 해당 없음 |
+| **등급:** 마법사 4 | **시전 시간:** 하단 참조 |
+| **영역:** 없음 | **지속 시간:** 하단 참조 |
+| **비용:** 3 + 하단 참조 | **사거리:** 접촉 |
+| **범위:** 아이템 1개 | **저항:** 없음 |
 
-이 주문을 시전하면 아이템에 마법을 부여할 준비가 됩니다. 물체는 좋은 상태여야 하며 최고의 제작과 기술로 만들어져야 합니다. 도구 작업, 조각, 자수, 보석 세공, 조각 등 추가 비용을 충당하기 위해 최소 100GP의 추가 비용이 필요합니다. 마지막으로 마법 부여 과정에는 실험실이나 작업장이 필요합니다.
+이 주문을 시전하면 아이템이 마법 부여를 받을 준비를 하게 됩니다. 대상은 최상의 상태와 최고급 공정으로 제작된 물건이어야 합니다. 추가적인 도구 사용, 조각, 자수, 보석 세공, 각인 등의 비용으로 최소 100GP의 추가 비용이 필요합니다. 마지막으로 마법 부여 과정에는 실험실이나 작업장이 필요합니다.
 
-주문을 시전하는 동안 마법 사용자는 1d8+2일의 전체 시전 시간 동안 아이템을 접촉하고 있어야 합니다. 여기에는 휴식과 수면 시간이 포함되며, 아이템은 시전자의 팔 길이 내에 있어야 합니다. 시전 중 마법 사용자는 다른 주문을 시전하거나 다른 형태의 마법을 수행할 수 없습니다. 이 규칙을 어기면 주문이 자동으로 실패합니다.
+주문을 시전하는 동안 마법사는 시전 시간인 1d8+2일 내내 해당 아이템을 접촉하고 있어야 합니다. 이 시간 동안의 휴식과 수면 중에도 아이템은 마법사의 팔 닿는 거리에 있어야 합니다. 시전 중 마법사는 다른 주문을 시전하거나 다른 형태의 마법을 사용할 수 없습니다. 이 규칙을 하나라도 어기면 주문은 즉시 실패합니다.
 
-성공적으로 시전되면 아이템은 마지막 단계인 원하는 주문을 아이템에 넣을 준비가 됩니다. 그러기 위해서는 기억 속의 주문이나 스크롤의 주문을 24시간 이내에 아이템에 시전해야 하며, 그렇지 않으면 전체 과정을 처음부터 다시 시작해야 합니다. 선택한 주문 시전이 시작되면 24시간을 초과할 수 있습니다. 선택한 주문으로 아이템을 주입하는 데는 원하는 강도에 대해 일반적인 마법 포인트가 소요되며 주문 등급당 1d12시간이 걸립니다. 주입 과정 동안 시전자는 아이템을 만지고 있거나 위와 같이 휴식 중에 팔 길이 내에 머물러야 하며, 주문 성공을 위해 시전 기간 끝에 아케인 시전 판정이 필요합니다. 일반적인 주문 시전 성공 등급을 따르지만 실패 결과와 관련해서는 주문을 강제로 할 수 없습니다. 아이템 내에 연속 주문을 주입할 수 있으며, 이전 주문 완료 후 24시간 이내에 시전 과정을 시작해야 합니다. 이는 이전에 실패한 주문의 경우에도 적용됩니다. 각 연속 주문에는 일반적인 시전 비용이 필요합니다.
+성공적으로 시전되면, 아이템은 최종 단계인 마법 주입 준비가 완료됩니다. 시전자는 24시간 이내에 마법을 기억하고 있거나 스크롤에 있는 상태로 아이템에 주문을 시전해야 하며, 그렇지 않으면 처음부터 모든 과정을 다시 시작해야 합니다. 선택한 주문의 시전이 시작되면 과정은 상기 24시간을 초과할 수 있습니다. 아이템에 선택한 주문을 불어넣는 비용은 원하는 위력에 따른 정상적인 마법 포인트이며, 주문 등급당 1d12시간이 소요됩니다. 불어넣기 과정 내내 시전자는 아이템을 접촉하고 있어야 하거나 위와 같이 휴식 중에도 팔 닿는 거리에 있어야 하며, 시전 기간 종료 시 성공적으로 주문을 불어넣기 위해 비전 시전(Arcane Casting) 판정이 필요합니다. 일반적인 주문 시전 성공 등급을 따르지만, 실패 시 주문을 강제로 불어넣을 수는 없습니다. 이전 주문이 완료된 후 24시간 이내에 시전 과정을 시작한다면 연속적인 주문을 아이템에 불어넣을 수 있습니다. 이는 이전에 실패한 주문의 경우에도 마찬가지입니다. 각각의 연속된 주문은 정상적인 시전 비용을 필요로 합니다.
 
-아이템을 사용할 때 포함된 각 주문은 한 번만 시전할 수 있지만, 위 절차에 따라 동일한 주문의 여러 버전을 주입할 수 있습니다. 또한 Permanency 4등급 주문을 시전하여 단일 주문을 주입할 수도 있습니다. 이 경우 주문은 Permanency 주문 설명의 제한 사항에 따라 원하는 만큼 자주 시전할 수 있습니다.
+아이템 사용 시, 포함된 각 주문은 한 번만 시전할 수 있으나, 위 절차에 따라 동일한 주문을 여러 번 불어넣을 수 있습니다. 단일 주문을 불어넣은 후 4등급 주문 영속(Permanency)을 시전하는 것도 가능합니다. 이 경우, 영속 주문 설명에 명시된 제한에 따라 주문을 원하는 만큼 시전할 수 있습니다.
 
-특정 주문을 따르지 않는 다른 마법적 효과를 아이템에 주입하는 것은 불가능하며, 먼 과거의 많은 마법 아이템은 오늘날에는 재현할 수 없습니다.
+특정 주문에 부합하지 않는 다른 마법적 효과를 아이템에 불어넣는 것은 불가능하며, 과거의 많은 마법 아이템은 오늘날 재현할 수 없습니다.
 
 ---
-#### Enchant Weapon (무기 마법 부여)
+#### 무기 마법 부여 (Enchant Weapon)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
 | **등급:** 마법사 3 | **시전 시간:** 1분 |
-| **영역:** 없음 | **지속 시간:** 5분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 무기 | **저항:** 해당 없음 |
+| **영역:** 없음 | **지속 시간:** 5분/위력 |
+| **비용:** 3+1/추가 위력 | **사거리:** 접촉 |
+| **범위:** 무기 1개 | **저항:** 없음 |
 
-일반 무기를 접촉하면서 이 주문을 시전하면, 무기에 마법적 +1 피해 보정치를 부여하는 일시적인 인챈트가 주입됩니다. 또한 +1 인챈트 이상의 무기로만 타격할 수 있는 생물을 타격할 수 있게 됩니다. 이 주문은 단검, 화살 등과 같이 '물건' 절반 크기의 무기 2개를 인챈트하는 데 사용할 수 있습니다. 그렇지 않으면 캐스팅당 하나의 무기만 인챈트할 수 있습니다. 기존 마법 무기는 보너스를 최대 +3까지 +1씩 증가시킬 수 있습니다. +3 보너스를 가진 무기는 피해를 입히는 목적에 따라 크기가 한 단계 증가합니다: 대형에서 거대, 거대에서 거대(Enormous), 거대(Enormous)에서 초대형(Colossal). 인챈트된 무기는 무기 유형에 따라 +1 인챈트당 +5 방어력 및 +2 히트 포인트를 가집니다. 이 주문은 지속적인 인챈트를 만들기 위해 Enchant Item 및 Permanency 주문과 결합할 수 있습니다.
+일반 무기를 접촉한 상태로 이 주문을 시전하면, 무기에 일시적인 마법 부여가 깃들어 마법적인 +1 피해 수정치를 제공합니다. 이는 일반적인 무기로는 피해를 줄 수 없는 생명체에게 최소 +1 마법 부여가 된 무기로 피해를 입힐 수 있게 합니다. 이 주문은 단검, 칼, 화살 등과 같이 '물건(Thing)' 크기의 1/2에 해당하는 무기 두 개를 마법 부여하는 데 사용할 수 있습니다. 그 외의 경우에는 시전당 하나의 무기만 마법 부여할 수 있습니다. 기존 마법 무기는 보너스를 +1 증가시킬 수 있으며, 총 합계 보너스는 최대 +3까지 가능합니다. +3 보너스를 가진 무기는 피해를 입히는 측면에서 크기가 한 단계 증가합니다(대형 -> 거대, 거대 -> 엄청남, 엄청남 -> 거상). 마법 부여된 무기는 해당 무기 종류에 따라 +1 마법 부여당 +5 장갑 수치(AP)와 +2 히트 포인트를 가집니다. 이 주문은 '아이템 마법 부여' 및 '영속' 주문과 결합하여 지속적인 마법 부여가 된 무기를 만들 수 있습니다.
 
 ---
-#### Endure Heat/Cold (열/냉기 견디기)
+#### 더위/추위 견디기 (Endure Heat/Cold)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 1라운드 |
-| **영역:** 보호 | **지속 시간:** 90분/강도 |
-| **비용:** 1/강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **등급:** 사제 1 | **시전 시간:** 1라운드 |
+| **영역:** 보호 | **지속 시간:** 90분/위력 |
+| **비용:** 1/위력 | **사거리:** 접촉 |
+| **범위:** 대상 1명 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자가 결정한 대로 정상적인 열기나 냉기 극단으로부터 한 생물을 보호할 수 있습니다. 주문 수혜자는 영하의 기온이나 찌는 듯한 사막의 열기와 같은 일상적인 자연의 극단적인 상황에 면역입니다. 이 주문이 완벽한 보호를 제공하는 Heat Metal 외에, 붉은 용의 불숨결이나 마법사의 Cone of Cold 주문과 같은 마법적 열기나 냉기에 의한 '공격'은 보호 대상에 관계없이 자동으로 보호를 해제합니다. 그러나 보호받는 개인은 주문이 실패한 라운드에서 처음 10점의 피해를 무시할 수 있습니다. 영역 효과 주문의 경우 피해는 적용되기 전에 감소합니다.
+이 주문을 시전하면 주문 시점에 결정한 일반적인 극심한 더위나 추위로부터 한 생명체를 보호할 수 있습니다. 주문의 대상은 영하의 기온이나 찌는 듯한 사막의 더위 같은 자연적인 극단적 기후에 면역이 됩니다. 이 주문이 완전한 보호를 제공하는 '열기 금속(Heat Metal)' 주문을 제외하고, 붉은 용의 화염 브레스나 마법사의 '냉기 원뿔(cone of cold)'과 같은 마법적 열기나 냉기의 '공격'은 어떤 원소에 대해 보호 중이었는지와 상관없이 자동으로 이 보호를 해제합니다. 단, 보호 대상자는 주문이 실패한 라운드에 발생하는 첫 10점의 피해를 무시할 수 있습니다(보호가 공격 유형에 적합한 경우). 범위 효과 주문의 경우, 피해는 적용되기 전에 감소합니다.
 
 ---
-#### Energy Drain (에너지 흡수)
+#### 에너지 흡수 (Energy Drain)
 
-(창조 또는 강령술)
+(소환 또는 강령)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 5 | **시전 시간:** 2행동 |
+| **등급:** 마법사 5 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 영구적 |
 | **비용:** 3 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 지구력 |
+| **범위:** 대상 1명 | **저항:** 체질(체질) |
 
-시전 시 이 주문은 저항 판정에 실패한 희생자에게 영구적인 피로 상실 2단계를 부과합니다. Energy Drain을 통한 피로 상실은 일반적인 피로 상실과 누적됩니다. 따라서 전투나 여행으로 이미 약해진 적은 Energy Drain에 더 취약합니다. Cure Fatigue 주문이나 물약은 Energy Drain으로 인한 피로에 영향을 주지 않지만, Restoration 주문과 스크롤은 잃어버린 피로를 영구적으로 치료할 수 있습니다. 갑옷은 Energy Drain에 영향을 주지 않습니다.
+주문을 시전하여 저항 판정에 실패한 대상에게 두 단계의 영구적인 피로(Fatigue) 손실을 입힙니다. 에너지 흡수를 통한 피로 손실은 일반적인 피로 손실과 누적되므로, 전투나 여행으로 이미 약해진 적들은 에너지 흡수에 더욱 취약합니다. 피로 회복 주문과 물약은 에너지 흡수로 인한 피로에는 효과가 없으나, 회복(Restoration) 주문과 스크롤은 이를 영구적으로 치료할 수 있습니다. 갑옷은 에너지 흡수에 영향을 주지 않습니다.
 
 ---
-#### Exorcism (축귀)
+#### 퇴마 (Exorcism)
 
-(보호)
+(방어)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3 | **시전 시간:** 1d10x100분 |
+| **등급:** 사제 3 | **시전 시간:** 1d10x100분 |
 | **영역:** 보호 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 10피트 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **비용:** 3+1/추가 위력 | **사거리:** 10피트 |
+| **범위:** 대상 1명 | **저항:** 영력(영력) |
 
-이 주문을 통해 성직자는 신을 불러 악마 점령과 같이 현재 물리적 존재를 점유하고 있는 영혼이나 다른 초자연적 세력을 쫓아냅니다. 축귀는 또한 특정 물체나 마법 아이템, 주문, 저주, 심지어 매혹 등에 의한 지배에 대항하여 사용될 수 있습니다. 점령이 지배적이든 은밀하든 상관없습니다. 이 마법은 주문 강도의 절반까지의 강도를 가진 모든 형태의 점령을 축출합니다. 그 후 일어나는 일은 존재의 태도와 유형에 따라 다르지만, 육체를 벗어날 힘이 있는 호전적인 존재들은 주변의 다른 목표물들과 영혼 전투(Spirit Combat)를 벌이도록 유혹될 수 있습니다. 마법 결투로 취급하지만 존재가 이기면 패배자를 점유할 수 있습니다. 존재가 지면 원래의 차원으로 보내집니다. 따라서 이 주문은 시전자나 동료들에게 잠재적으로 위험할 수 있습니다. 시전 시간은 매우 무작위이며 의식을 방해하지 않고는 중단할 수 없습니다.
+이 주문을 통해 사제는 악마 들림과 같이 현재 육체를 가진 존재를 빙의하고 있는 영혼이나 다른 초자연적인 힘을 몰아내기 위해 자신의 신을 부릅니다. 퇴마(Exorcism)는 특정 물체와 마법 아이템, 주문, 저주, 심지어 매혹(Charm)에 의한 지배에 대항해서도 사용될 수 있습니다. 빙의가 지배적인지 은밀한지는 중요하지 않습니다. 이 마법은 해당 주문 위력의 절반까지의 위력을 가진 모든 형태의 빙의를 퇴치합니다. 그 다음 일어나는 일은 존재의 태도와 유형에 따라 다르지만, 실체를 벗어날 능력을 갖춘 적대적인 존재들은 근처의 다른 대상을 영혼 전투(Spirit Combat)로 끌어들이려 할 수 있습니다. 이를 마법 결투(Magic Duel)로 처리하되, 존재가 승리하면 패배자를 빙의할 수 있습니다. 존재가 패배하면 원래의 차원으로 돌려보내집니다. 따라서 이 주문은 시전자나 동료들에게 잠재적으로 위험할 수 있습니다. 시전 시간은 매우 무작위적이며 의식을 방해하지 않고는 중단할 수 없습니다.
 
 ---
-#### Fear (공포)
+#### 공포 (Fear)
 
-(환영)
+(환상)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
-| **영역:** 없음 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 5피트 x 20피트 원뿔 | **저항:** 의지력 |
+| **등급:** 마법사 3 | **시전 시간:** 2 행동 |
+| **영역:** 없음 | **지속 시간:** 하단 참조 |
+| **비용:** 3+1/추가 위력 | **사거리:** 0 |
+| **범위:** 5피트 x 20피트 원뿔 | **저항:** 영력(영력) |
 
-이 주문을 시전하면 공포의 파동이 밖으로 퍼져 나가 저항 판정에 실패한 모든 자가 공포에 질려 도망치게 합니다. 영향을 받은 자들은 시전자로부터 직접 멀리 떨어져서 주문 강도 x 2라운드 동안 질주 속도로 도망칩니다. 이 공포는 너무나 압도적이어서 저항 판정에서 펌블(Fumble)한 적들은 안전하게 고정되지 않은 들고 있던 아이템을 떨어뜨립니다. 대형 생물(SIZ 21~40)은 이 주문에 덜 취약하며 저항 판정이 쉽고(Easy), 거대 생물(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy).
+이 주문을 시전하면 공포의 파동이 외부로 퍼져나가며, 저항 판정에 실패한 모든 이들이 공포에 질려 도망치게 합니다. 영향을 받은 이들은 주문 위력 x2만큼의 라운드 동안 시전자로부터 직선 방향으로 전력 질주합니다. 이 공포는 매우 압도적이어서 저항 판정에서 대실패(Fumble)한 적들은 안전하게 고정되지 않은 들고 있던 아이템을 모두 떨어뜨립니다. 대형 생명체(크기 21-40)는 이 주문에 덜 취약하여 저항 판정이 '쉬움'이며, 거대 생명체(크기 41+)의 저항 판정은 '매우 쉬움'입니다.
 
 ---
-#### Feather Fall (깃털 낙하)
+#### 깃털 낙하 (Feather Fall)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
 | **등급:** 마법사 1 | **시전 시간:** 즉시 |
-| **영역:** 없음 | **지속 시간:** 1분/강도 |
-| **비용:** 1/강도 | **사거리:** 30피트/강도 |
-| **범위:** 5피트 반경 | **저항:** 해당 없음 |
+| **영역:** 없음 | **지속 시간:** 1분/위력 |
+| **비용:** 1/위력 | **사거리:** 30피트/위력 |
+| **범위:** 5피트 반경 | **저항:** 없음 |
 
-이 주문을 시전하면 주문의 효과 범위 내에 있는 여러 사람, 생물 또는 물체가 강도 수준당 SIZ 합계 20 이하로 깃털 무게로 감소합니다. 주문의 지속 시간 동안 낙하 피해는 없으며 라운드당 10피트/분당 120피트보다 빠르게 떨어지지 않습니다. 너무 가벼워서 5피트 이상의 넉백에는 사실상 면역이며, 무언가에 부딪혀도 단순히 천천히 뒤로 떠밀릴 뿐 피해를 입지 않습니다.
+이 주문을 시전하면, 주문의 범위 내에 있는 여러 사람, 생명체 또는 물체(위력당 결합 크기 20 이하)의 무게가 깃털처럼 가벼워집니다. 주문의 영향을 받는 이들은 라운드당 10피트(분당 120피트)보다 빠르게 떨어지지 않으며, 주문 지속 시간 동안 추락 피해를 입지 않습니다. 이들은 매우 가벼워져 5피트 이상의 넉백에는 사실상 면역이 되며, 무언가에 부딪히더라도 천천히 뒤로 밀려나기만 하므로 피해를 입지 않습니다.
 
-새나 용과 같은 비행 생물에게 이 주문을 시전하면 공중에 머무르고 싶어 할 때 매 라운드 비행(Fly) 기술 판정이 매우 힘들게 요구되도록 비행 역학이 변경됩니다. 성공하면 생물은 원하는 대로 움직일 수 있지만 정상 이동 속도의 절반으로만 가능하며, 판정에 실패하면 생물의 이동 속도만큼 무작위 방향으로 통제 불능 상태로 부드럽게 굴러떨어집니다. 스스로 떨어지기로 결정하면 비행 생물은 날개를 사용하여 라운드당 5피트씩 착륙 지점을 조정할 수 있습니다.
+새나 용과 같은 비행 생명체에게 이 주문을 시전하면 비행 역학이 변화하여, 공중에 머무르려면 주문 지속 시간 동안 매 라운드 '어려움' 비행 판정이 필요합니다. 성공하면 생명체는 원하는 대로 이동할 수 있지만 정상적인 이동 속도의 절반으로만 움직일 수 있으며, 실패하면 통제력을 잃고 의도한 이동 속도만큼 무작위 방향으로 완만하게 굴러떨어지게 됩니다. 만약 그냥 떨어지도록 둔다면, 비행 생명체는 날개를 사용하여 라운드당 5피트씩 착륙 지점을 조정할 수 있습니다.
 
-주문이 끝나기 전에 영향을 받은 자들이 착륙하지 못하면 정상적인 낙하 속도로 돌아가 그 지점부터 낙하 피해를 결정합니다.
+주문이 끝나기 전에 대상이 착륙하지 못하면, 정상적인 추락 속도로 돌아가 해당 지점부터 추락 피해를 계산합니다.
 
-이 주문의 즉각적인 시전 시간으로 인해 마법사는 Feather Fall을 능동적으로뿐만 아니라 반응적으로도 사용할 수 있습니다. 이를 통해 예기치 않은 추락으로부터 보호하거나 화살이나 던진 창과 같은 느린 속도의 투사체에 대한 다른 사람의 행동을 방해하여 공격자와 대상 사이의 지면에 부드럽게 뜨게 하여 피해를 입지 않게 할 수 있습니다.
+이 주문의 즉시 시전 시간 덕분에, 마법사는 깃털 낙하(Feather Fall)를 예방적일 뿐만 아니라 반응적으로도 사용할 수 있습니다. 이를 통해 예기치 못한 추락으로부터 보호하거나, 화살이나 던진 창과 같은 느린 투사체의 경로를 방해하여 공격자와 대상 사이의 지면에 부드럽게 떠내려가게 함으로써 피해를 방지할 수 있습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 위력 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 1분; 30피트 사거리; 총 SIZ 20 영향; 120피트 낙하 |
-| 2 | 2 | 2분; 60피트 사거리; 총 SIZ 40 영향; 240피트 낙하 |
-| 3 | 3 | 3분; 90피트 사거리; 총 SIZ 60 영향; 360피트 낙하 |
-| 4 | 4 | 4분; 120피트 사거리; 총 SIZ 80 영향; 480피트 낙하 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 1 | 1분; 30피트 사거리; 총 대상 20 크기; 총 하강 120피트 |
+| 2 | 2 | 2분; 60피트 사거리; 총 대상 40 크기; 총 하강 240피트 |
+| 3 | 3 | 3분; 90피트 사거리; 총 대상 60 크기; 총 하강 360피트 |
+| 4 | 4 | 4분; 120피트 사거리; 총 대상 80 크기; 총 하강 480피트 |
+| +1 | +1 | 진행 지속 |
 
 ---
-#### Find Familiar (사역마 찾기)
+#### 친숙한 존재 찾기 (Find Familiar)
 
 (소환)
 
 | | |
 | :-- | :-- |
 | **등급:** 마법사 1 | **시전 시간:** 2d12시간 |
-| **영역:** 없음 | **지속 시간:** 특별 |
-| **비용:** 3/강도, +1 EXP | **사거리:** 0 |
-| **범위:** 반경 0.5마일/강도 | **저항:** 해당 없음 |
+| **영역:** 없음 | **지속 시간:** 특수 |
+| **비용:** 3/위력, +1 경험치 | **사거리:** 0 |
+| **범위:** 1/2마일 반경/위력 | **저항:** 없음 |
 
-이 주문을 사용하면 마법 사용자는 자신의 감각과 힘의 연장선이 되는 사역마를 소환할 수 있습니다. 사역마는 주인과 텔레파시로 대화할 수 있으며 훌륭한 경비병이자 정찰병 역할을 합니다. 사역마가 죽으면 마법 사용자는 그들의 긴밀한 연결 때문에 위험에 처할 수 있으며, 이는 사역마를 갖는 것을 저등급 위험으로 만듭니다.
+이 주문을 통해 마법사는 자신의 주인에게 감각과 힘의 확장이 되어줄 친숙한 존재(Familiar)를 소환할 수 있습니다. 친숙한 존재는 주인과 텔레파시로 대화할 수 있으며 훌륭한 경비원이나 정찰병 역할을 합니다. 마법사와 긴밀하게 연결되어 있기 때문에 친숙한 존재가 죽으면 마법사에게는 위험이 따르며, 이로 인해 친숙한 존재를 두는 것은 낮은 등급의 위험을 동반합니다.
 
-사역마를 소환하기 위해 마법 사용자는 숯으로 채워진 화로를 유지하며 의식을 시작해야 합니다. 화로가 강렬하게 타오를 때 100GP 가치의 향을 추가합니다. 이 재료들이 타는 동안, 시전자는 사역마가 도착하거나 사역마가 도착하지 못한 채 시전 시간이 만료될 때까지 의식을 계속해야 합니다.
+친숙한 존재를 소환하기 위해 마법사는 숯불이 든 화로를 계속 피우면서 의식을 시작해야 하며, 불길이 강해지면 100GP 상당의 향을 추가해야 합니다. 이러한 재료가 타는 동안 시전자는 친숙한 존재가 도착하거나 성공 없이 시전 시간이 만료될 때까지 의식을 계속해야 합니다.
 
-이 주문이 성공적으로 시전되더라도 마법 사용자의 부름에 응할 적절한 사역마를 찾을 확률은 50%에 불과하며, 마법 사용자는 1년에 한 번만 이 주문을 시전할 수 있습니다. 첫 번째 강도 이후 각 추가 강도 수준은 주문 범위를 0.5마일 더 연장하며, 이는 결과적으로 잠재적 사역마가 발견될 가능성을 95%까지 5%씩 증가시킵니다. 응답할 정확한 생물 유형은 제어할 수 없지만, 도착하는 것은 충실한 하인이자 동맹이 될 것입니다. 특정 생물이 응답할지는 생물에게 달려 있으므로 특정 유형의 생물이 서식하는 것으로 알려진 지역에 있다고 해서 시전자가 성공을 보장받는 것은 아닙니다.
+이 주문을 성공적으로 시전하더라도 적합한 친숙한 존재가 응답할 확률은 50%에 불과하며, 마법사는 1년에 한 번만 이 주문을 시도할 수 있습니다. 첫 번째 이후의 위력 레벨이 추가될 때마다 주문 범위가 0.5마일씩 확장되며, 이는 결과적으로 잠재적인 친숙한 존재가 발견될 확률을 5%씩 증가시켜 최대 95%까지 상승합니다. 소환에 응할 생명체의 정확한 유형을 조종할 수는 없으나, 도착하는 존재는 충실한 하인이자 동맹이 될 것입니다. 부름에 응할지는 특정 생명체에게 달려 있으므로, 특정 유형의 생명체가 서식한다고 알려진 지역에 있다고 해서 성공이 보장되는 것은 _아닙니다_.
 
-생물이 시전자의 부름에 응답하면 마법 사용자는 자신과 사역마 사이에 영적 연결을 만들기 위해 1 EXP를 희생해야 합니다. 완료되면 의식이 끝납니다.
+생명체가 마법사의 부름에 응답하면, 마법사는 자신과 친숙한 존재 사이에 영적인 연결을 만들기 위해 경험치(EXP) 1점을 희생해야 합니다. 이 작업이 완료되면 의식은 끝납니다.
 
-사역마와 주인이 120피트 이내에 있는 동안, 마법 사용자는 사역마의 마법 포인트를 사용할 수 있는 능력을 얻습니다. 또한 마법 사용자는 사역마와 텔레파시 연결 및 아래 표에 명시된 모든 추가적인 특별 능력이나 기술 보너스를 얻습니다.
+친숙한 존재와 주인이 120피트 이내에 있는 동안, 마법사는 친숙한 존재의 마법 포인트(MP)를 사용할 수 있습니다. 또한, 마법사는 친숙한 존재와 텔레파시 연결을 얻고 아래 표에 명시된 특별한 능력이나 기술 보너스를 추가로 얻습니다.
 
-사역마가 죽으면 시전자는 5 EXP를 잃습니다. 현재 EXP가 없는 시전자는 잔액이 지급될 때까지 부여된 모든 추가 EXP를 포기해야 합니다.
+친숙한 존재가 죽을 경우 시전자는 경험치 5점을 잃습니다. 현재 경험치가 없는 시전자는 잔액이 채워질 때까지 보상받는 모든 추가 경험치를 몰수당합니다.
 
-도착할 사역마의 유형은 아래 표에 따라 결정됩니다. 대부분의 경우 일반적인 사역마는 SIZ 1~4 사이로 특별히 크지 않으며 소형 동물(Small Animal) 설명을 사용합니다.
+등장할 친숙한 존재의 유형은 아래 표에 따라 결정됩니다. 대부분의 경우, 일반적인 친숙한 존재는 크기가 크기 1-4 정도로 예외적으로 크지 않으며 '작은 동물'의 규격을 따릅니다.
 
-##### 일반 사역마
+##### 일반적인 친숙한 존재
 
-| d100 굴림 | 유형 | STR/SIZ | POW | 부여된 특별 능력, 모두 텔레파시 연결 포함 |
+| d100 판정 | 유형 | 힘(힘)/크기(크기) | 영력(영력) | 부여되는 특수 능력 (모두 텔레파시 연결 포함) |
 | :-: | :-: | :-: | :-: | :-- |
-| 01-05 | 박쥐 | 1 | 1d3 | +10% 지각(청각만), 어둠 속에서도 페널티 없이 전투 가능 |
-| 06-10 | 집고양이 | 1 | 2d3 | 야간 시야, +10% 지각(청각만), +10% 은밀함 |
-| 11-15 | 까마귀 | 1 | 2d3 | 언어적 의사소통\*, +10% 지각 |
-| 16-20 | 개, 중형 | 1d2+2(4) | 1d3 | 야간 시야, +10% 지각(청각 및 후각만), +10% 추적 |
-| 21-25 | 개, 소형 | 1d2 | 1d3 | 야간 시야, +10% 지각(청각 및 후각만), +10% 추적 |
-| 26-30 | 페럿 | 1 | 1d3 | +10% 지각(시각만), +10% 회피 |
-| 31-35 | 개구리/두꺼비 | 1 | 2d3 | +10% 지각, 2분 + 지구력(초) 동안 숨 참기 가능, 캐릭터의 전방 사각형 범위 양옆으로 확장 |
-| 36-40 | 매 | 1 | 2d6 | +20% 지각, 일반 시야 거리의 2배 |
+| 01-05 | 박쥐 | 1 | 1d3 | +10% 지각(청각 한정), 어둠 속이나 눈이 멀어도 페널티 없이 전투 가능 |
+| 06-10 | 고양이(집) | 1 | 2d3 | 야간 시야, +10% 지각(청각 한정), +10% 은밀 |
+| 11-15 | 까마귀 | 1 | 2d3 | 언어 소통*, +10% 지각 |
+| 16-20 | 개(중형) | 1d2+2 (4) | 1d3 | 야간 시야, +10% 지각(청각 및 후각 한정), +10% 추적 |
+| 21-25 | 개(소형) | 1d2 | 1d3 | 야간 시야, +10% 지각(청각 및 후각 한정), +10% 추적 |
+| 26-30 | 페럿 | 1 | 1d3 | +10% 지각(시각 한정), +10% 회피 |
+| 31-35 | 개구리/두꺼비 | 1 | 2d3 | +10% 지각, 2분 + 체질(체질) 초만큼 숨 참기 가능, 미니어처 전투 시 캐릭터 전방 칸이 양옆으로 확장됨 |
+| 36-40 | 매 | 1 | 2d6 | +20% 지각, 정상 시각 거리의 2배 |
 | 41-45 | 도마뱀 | 1 | 2d3 | +10% 운동, +10% 수영 |
-| 46-50 | 쥐 | 1 | 1d3 | +10% 지구력, +10% 지각(후각만), +10% 수영 |
-| 51-55 | 올빼미 | 1 | 2d6 | 야간 시야, +10% 지각(야간만), +10% 의지력 |
-| 56-60 | 시궁쥐 | 1 | 1d3 | +10% 지구력, +10% 지각(후각만), +10% 수영 |
-| 61-65 | 큰까마귀 | 1 | 2d6 | 언어적 의사소통\*, +10% 상업, +10% 지각 |
-| 66-70 | 뱀 | 1 | 2d3 | +10% 지구력(독 저항만), +10% 지각(미각만) |
-| 71-75 | 족제비 | 1 | 1d3 | +10% 지각(청각 및 후각만) |
-| 76-00 | 범위 내 사역마 없음 | - | - | - |
+| 46-50 | 생쥐 | 1 | 1d3 | +10% 체질, +10% 지각(후각 한정), +10% 수영 |
+| 51-55 | 올빼미(소쩍새) | 1 | 2d6 | 야간 시야, +10% 지각(야간 한정), +10% 의지력 |
+| 56-60 | 쥐 | 1 | 1d3 | +10% 체질, +10% 지각(후각 한정), +10% 수영 |
+| 61-65 | 큰까마귀 | 1 | 2d6 | 언어 소통*, +10% 상업, +10% 지각 |
+| 66-70 | 뱀 | 1 | 2d3 | +10% 체질(독 저항 한정), +10% 지각(미각 한정) |
+| 71-75 | 족제비 | 1 | 1d3 | +10% 지각(청각 및 후각 한정) |
+| 76-00 | 범위 내 친숙한 존재 없음 | - | - | - |
 
-_\* 공용어 및 해당하는 경우 주인의 종족 언어._
+_\* 공용어 및 해당하는 경우 주인의 종족어._
 
----
-#### Fireball (화염구)
+---#### 파이어볼 (Fireball)
 
-(창조)
+(복기)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 2행동 |
+| **등급:** 마법사 2 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 집중 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 20피트 반경 | **저항:** 회피 |
+| **범위:** 반경 20피트 | **저항:** 회피 |
 
-시전 1턴째에 마법사가 언어적 주문과 제스처를 시작하면 손에 숯이나 불꽃 크기의 작은 불꽃이 형성되기 시작하고 천천히 화염구로 커집니다. 2턴째에 주문이 완료되면 마법사가 공을 던지는 시늉을 하고, 거대한 불덩어리로 폭발합니다. 압력은 거의 없으며 범위 내 모든 피해자에게 강도 2점당 1d6의 피해를 입힙니다. 피해를 한 번 굴려 대상의 각 타격 위치에 적용하며, 착용 갑옷은 보호를 제공하지 않지만 마법 방어력 수치나 생물의 자연 방어력은 평소대로 피해를 줄입니다.
+시전 첫 번째 턴에 마법 사용자가 구어 주문과 제스처를 시작하면, 손에 작은 불꽃이나 재 조각 같은 불이 형성되기 시작하며 서서히 작은 불덩어리로 커집니다. 두 번째 턴에 주문이 완성되면 마법 사용자는 불덩어리를 던지는 시늉을 하고, 불덩어리는 낮은 굉음과 함께 거대한 화염구로 폭발합니다. 이 마법은 압력은 거의 없으며, 효과 범위 내의 모든 희생자에게 강도 2당 1d6점의 피해를 입힙니다(나머지는 올림). 피해는 한 번 굴린 뒤 대상의 각 부위별 명중 위치(Hit Locations)에 적용됩니다. 착용 중인 방어구는 보호를 제공하지 않지만, 마법 방어점(Armor Points)이나 생명체의 자연 방어력은 평소와 같이 피해를 감소시킵니다.
 
-회피 판정에 성공하여 엎드리면 피해를 입지 않습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있지만, 이 경우 범위 가장자리에서 5피트 이내에 있지 않으면 피해가 절반으로 줄어들 뿐입니다.
+회피 굴림에 성공하여 엎드린 상태가 되면 희생자는 피해를 입지 않습니다. '재주꾼(Artful Dodger)' 능력을 가진 자는 엎드리지 않고 회피를 선택할 수 있지만, 이 경우 성공하더라도 효과 범위 가장자리에서 5피트 이내에 있지 않다면 피해를 절반만 줄일 수 있습니다.
 
-화염구는 굴린 피해 x 5%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
+파이어볼은 굴린 피해량 x 5%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [화재](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 30피트 사거리; 1d6 피해 |
-| 2 | 4 | 60피트 사거리; 1d6 피해 |
-| 3 | 5 | 90피트 사거리; 2d6 피해 |
-| 4 | 6 | 120피트 사거리; 2d6 피해 |
-| 5 | 7 | 180피트 사거리; 3d6 피해 |
-| 6 | 8 | 240피트 사거리; 3d6 피해 |
+| 1 | 3 | 사거리 30피트; 1d6 피해 |
+| 2 | 4 | 사거리 60피트; 1d6 피해 |
+| 3 | 5 | 사거리 90피트; 2d6 피해 |
+| 4 | 6 | 사거리 120피트; 2d6 피해 |
+| 5 | 7 | 사거리 180피트; 3d6 피해 |
+| 6 | 8 | 사거리 240피트; 3d6 피해 |
 | +1 | +1 | 단계별 진행 |
 
 ---
-#### Fireball, Delayed Blast (지연 폭발 화염구)
+#### 지연 폭발 파이어볼 (Fireball, Delayed Blast)
 
-(창조)
+(복기)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 4 | **시전 시간:** 2행동 |
+| **등급:** 마법사 4 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 50피트/강도 |
-| **범위:** 20피트 반경 | **저항:** 회피 |
+| **범위:** 반경 20피트 | **저항:** 회피 |
 
-위와 아래 언급된 예외를 제외하고, 이 주문은 일반 화염구 주문과 동일하게 기능합니다. 지연 폭발 화염구는 효과 범위 내 모든 피해자에게 강도 2점당 1d8 피해를 입힙니다. 시전 시 마법사는 화염구가 즉시 또는 5분 이내에 언제든지 폭발하도록 설정할 수 있습니다. 화염구는 지정된 지점으로 날아가서 폭발할 때까지 작은 떠 있는 숯불처럼 남아 있다가 정해진 시간에 거대한 불덩어리로 변합니다.
+위와 아래에 명시된 예외 사항을 제외하고, 이 주문은 일반 파이어볼 주문과 동일하게 작동합니다. 지연 폭발 파이어볼은 효과 범위 내의 모든 희생자에게 강도 2당 1d8점의 피해를 입힙니다(나머지는 올림). 시전 시 마법 사용자는 파이어볼이 즉시 또는 5분 이내의 원하는 시간에 폭발하도록 설정할 수 있습니다. 파이어볼은 지정된 지점까지 이동한 후, 작은 떠다니는 불꽃 형태로 멈춰 있다가 설정한 시간이 되면 거대한 화염구로 번쩍이며 폭발합니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 50피트 사거리; 1d8 피해 |
-| 2 | 4 | 100피트 사거리; 1d8 피해 |
-| 3 | 5 | 150피트 사거리; 2d8 피해 |
-| 4 | 6 | 200피트 사거리; 2d8 피해 |
-| 5 | 7 | 250피트 사거리; 3d8 피해 |
-| 6 | 8 | 300피트 사거리; 3d8 피해 |
+| 1 | 3 | 사거리 50피트; 1d8 피해 |
+| 2 | 4 | 사거리 100피트; 1d8 피해 |
+| 3 | 5 | 사거리 150피트; 2d8 피해 |
+| 4 | 6 | 사거리 200피트; 2d8 피해 |
+| 5 | 7 | 사거리 250피트; 3d8 피해 |
+| 6 | 8 | 사거리 300피트; 3d8 피해 |
 | +1 | +1 | 단계별 진행 |
 
 ---
-#### Fire Shield (불의 방패)
+#### 파이어 실드 (Fire Shield)
 
-(창조)
+(복기)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
-| **영역:** 없음 | **지속 시간:** 2분/강도 |
+| **등급:** 마법사 3 | **시전 시간:** 2 행동 |
+| **영역:** 없음 | **지속 시간:** 분당 2분/강도 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
 | **범위:** 시전자 | **저항:** 해당 없음 |
 
-이 주문은 시전자를 불태우지만 그 자체로는 피해를 주지 않는 희미한 화염의 방패를 생성합니다. 대신, 불꽃은 Chill Shield(파란색 또는 녹색 불꽃, 열기 및 화염 기반 피해 방어) 또는 Warm Shield(보라색 또는 파란색 불꽃, 냉기 및 얼음 기반 피해 방어) 중 하나로부터 수혜자를 보호합니다. 불꽃의 색은 무작위로 결정되어 공격자에게 불확실성을 유발합니다. 기억할 유형은 주문 준비 시 결정되며 원하면 둘 다 기억할 수 있습니다. 불꽃은 열기를 방출하지 않으며 횃불 밝기의 절반만 밝힙니다. 상세 내용은 아래와 같습니다.
+이 주문은 시전자를 감싸는 희미한 불꽃 방패를 생성하지만, 그 자체로는 피해를 주지 않습니다. 대신 이 불꽃은 두 가지 변형 중 기억하고 있는 것에 따라 불이나 냉기로부터 수혜자를 보호합니다. '칠 실드(Chill Shield)'는 푸른색이나 녹색 불꽃을 생성하여 열기 및 화염 기반 피해를 방어하며, '웜 실드(Warm Shield)'는 보라색이나 푸른색 불꽃을 생성하여 냉기 및 얼음 기반 피해를 방어합니다. 불꽃의 색은 50% 확률로 결정해야 하며, 두 유형 모두 푸른색 불꽃을 낼 수 있다는 사실 때문에 공격자에게 불확실성을 부여합니다. 어떤 것을 기억할지는 주문 준비 시 결정하며, 원한다면 둘 다 기억할 수도 있습니다. 이 불꽃은 열을 방출하지 않으며 횃불 밝기의 절반 정도만 밝힙니다. 각 변형의 세부 사항은 아래와 같습니다.
 
-- **Chill Shield:** 이 불꽃은 차갑게 느껴지며 화염이나 열 기반 피해를 절반으로 줄입니다. 성공적인 저항 판정은 모든 피해를 무효화합니다. 저항 판정은 한 등급 쉽고 회피의 경우 수비수를 엎드리게 하지 않습니다.
-- **Warm Shield:** 이 불꽃은 따뜻하게 느껴지며 냉기 기반 피해를 절반으로 줄입니다. 성공적인 저항 판정은 모든 피해를 무효화합니다. 저항 판정은 한 등급 쉽고 회피의 경우 수비수를 엎드리게 하지 않습니다.
+- **칠 실드:** 이 불꽃은 만졌을 때 차갑게 느껴지며, 모든 화염 또는 열 기반 피해를 총합의 절반으로 줄입니다. 저항 굴림에 성공하면 모든 피해를 무효화합니다. 저항 굴림은 한 단계 쉬워지며, 회피의 경우 방어자가 엎어지지 않습니다.
+- **웜 실드:** 이 불꽃은 만졌을 때 따뜻하게 느껴지며, 모든 냉기 기반 피해를 총합의 절반으로 줄입니다. 저항 굴림에 성공하면 모든 피해를 무효화합니다. 저항 굴림은 한 단계 쉬워지며, 회피의 경우 방어자가 엎어지지 않습니다.
 
-보호받는 수혜자에 대한 근접 공격은 보호받는 원소 중 하나를 사용하지 않는 한 정상적인 피해를 입힙니다. 이 경우 시전자는 공격의 원소 부분으로부터 보호받으며 공격자는 가한 만큼의 피해를 입습니다. 공격자의 착용 갑옷은 보호를 제공하지 않지만 마법 방어력 수치나 자연 방어력은 평소대로 피해를 줄입니다. 선천적 마법 저항을 가진 생물은 수혜자가 처음 타격받을 때 Willpower 판정을 통해 Fire Shield를 해제할 수 있습니다. 마법 저항 판정에 실패하면 상대는 나중에 Fire Shield를 무효화할 수 없습니다.
+어느 변형이든 무장 여부와 상관없이 수혜자에게 가해지는 근접 공격은 보호받는 원소 공격이 아닐 경우 정상적인 피해를 입힙니다. 보호받는 원소인 경우, 시전자는 공격의 원소 부분으로부터 보호받으며 공격자는 자신이 가한 만큼의 피해를 입습니다. 공격자가 착용한 방어구는 보호를 제공하지 않지만, 마법 방어점이나 생명체의 자연 방어력은 평소와 같이 피해를 감소시킵니다. 선천적 마법 저항(Innate Magic Resistance)을 가진 생명체는 수혜자가 처음 타격받았을 때 의지력 굴림에 성공하면 파이어 실드를 해제할 수 있습니다. 마법 저항 굴림에 실패하면 상대는 이후 파이어 실드를 무효화할 수 없습니다.
 
 ---
-#### Flame Strike (불꽃 타격)
+#### 플레임 스트라이크 (Flame Strike)
 
-(창조)
+(복기)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 2행동 |
+| **등급:** 사제 2 | **시전 시간:** 2 행동 |
 | **영역:** 전투, 원소(불) | **지속 시간:** 즉시 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 100피트+20피트/추가 강도 |
-| **범위:** 5피트 반경 | **저항:** 회피 |
+| **비용:** 3 + 1/추가 강도 | **사거리:** 100피트 + 20피트/추가 강도 |
+| **범위:** 반경 5피트 | **저항:** 회피 |
 
-성공적으로 시전하면 30피트 높이의 불기둥이 위에서 쏟아져 성직자가 지정한 범위를 불태웁니다. 기둥은 범위 내의 모든 피해자에게 강도 2점당 1d8 피해를 입힙니다. 피해를 한 번 굴려 각 타격 위치에 적용하며 착용 갑옷은 절반의 방어를 제공하지만 마법 방어력 수치나 자연 방어력은 평소대로 피해를 줄입니다. 굴리거나 효과 범위 밖으로 던져 엎드린 상태로 끝나는 회피 판정에 성공하면 피해를 입지 않습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있으며 범위 바로 밖으로 자유롭게 이동할 수 있습니다.
+성공적으로 시전되면 30피트 높이의 화염 기둥이 위에서 쏟아져 내려와 사제가 지정한 지역을 태웁니다. 이 기둥은 효과 범위 내의 모든 희생자에게 강도 2당 1d8점의 피해를 입힙니다(나머지는 올림). 피해는 한 번 굴린 뒤 대상의 각 부위별 명중 위치에 적용됩니다. 착용 중인 방어구는 절반의 보호만 제공하며, 마법 방어점이나 생명체의 자연 방어력은 평소와 같이 피해를 감소시킵니다. 효과 범위 밖으로 굴러 나가거나 몸을 던져 엎드린 상태가 되는 회피 굴림에 성공하면 희생자는 피해를 입지 않습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있으며, 효과 범위 바로 바깥으로 자유롭게 이동할 수 있습니다.
 
-Flame Strike는 굴린 피해 x 5%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
+플레임 스트라이크는 굴린 피해량 x 5%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [화재](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 100피트 사거리; 1d8 피해 |
-| 2 | 4 | 120피트 사거리; 1d8 피해 |
-| 3 | 5 | 140피트 사거리; 2d8 피해 |
-| 4 | 6 | 160피트 사거리; 2d8 피해 |
-| 5 | 7 | 180피트 사거리; 3d8 피해 |
+| 1 | 3 | 사거리 100피트; 1d8 피해 |
+| 2 | 4 | 사거리 120피트; 1d8 피해 |
+| 3 | 5 | 사거리 140피트; 2d8 피해 |
+| 4 | 6 | 사거리 160피트; 2d8 피해 |
+| 5 | 7 | 사거리 180피트; 3d8 피해 |
 | +1 | +1 | 단계별 진행 |
 
 ---
-#### Flesh to Stone \(R\) (육체를 돌로)
+#### 살을 돌로 (Flesh to Stone) (R)
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 4 | **시전 시간:** 2행동 |
-| **영역:** 없음 | **지속 시간:** 영구적 |
+| **등급:** 마법사 4 | **시전 시간:** 2 행동 |
+| **영역:** 없음 | **지속 시간:** 영구 |
 | **비용:** 3/강도 | **사거리:** 30피트/강도 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **범위:** 1대상 | **저항:** 의지력 |
 
-이 주문을 시전하면 사거리 내의 희생자 1명에게 의지력 저항 판정이 허용됩니다. 실패하면 그들과 모든 휴대/착용 소지품이 단단한 돌로 완전히 변합니다. 이 변형은 죽음이 아니라 일종의 일시 중지된 애니메이션입니다. 이 주문의 역주문이나 Wish 주문을 사용하여 희생자를 다시 살릴 수 있습니다. 돌이 된 동안 피해자가 입은 피해는 복원 후 즉시 적용됩니다. 대형 생물(SIZ 21~40)은 육체를 돌로 하는 것에 덜 취약하며 저항 판정이 쉽고(Easy), 거대 생물(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy).
+시전 시 사거리 내의 희생자 1명은 의지력 저항 굴림을 할 수 있습니다. 실패하면 희생자와 그들이 운반하거나 착용한 모든 소지품이 완전히 단단한 돌로 변합니다. 이 변형은 죽음이 아니라 일종의 가사 상태입니다. 이 주문의 역버전이나 위시(Wish) 주문을 시전하여 희생자를 다시 살릴 수 있습니다. 돌이 된 상태에서 입은 모든 피해는 원상 복구 시 즉시 적용됩니다. 대형 생명체(크기 21-40)는 이 주문에 덜 취약하여 저항 굴림이 '쉬움'이며, 거대 생명체(크기 41+)의 저항 굴림은 '매우 쉬움'입니다.
 
-이 주문의 역인 Stone to Flesh는 피해자를 복원하는 데 사용되며 저항 판정은 필요하지 않습니다. 그러나 주문은 이전에 살아있지 않았던 돌을 변형하는 데 역으로 사용될 수도 있습니다. 예를 들어, 강도 수준당 10입방피트 크기의 벽을 부드러운 살로 변형하거나, 너비 3피트, 강도 수준당 길이 10피트의 '살의 터널'을 만들거나, 돌상 같은 대상을 신체로 변형하거나, 심지어 돌 골렘을 살 골렘으로 변형할 수 있습니다. 그러나 골렘의 경우 돌 골렘이 정상적으로 저항하기 위해 의지력 판정을 해야 합니다. 이 방식으로 돌에서 살로 변한 것은 부드럽고 유연하며 실제 히트 포인트는 유지하지만 방어력 수치가 없으므로 훨씬 쉽게 베어낼 수 있습니다.
+이 주문의 역버전인 '돌을 살로(Stone to Flesh)'는 희생자를 복구하는 데 사용되며 저항 굴림은 필요하지 않습니다. 하지만 이 주문은 이전에 살아있었던 적이 없는 돌을 변형시키는 등 창의적인 방식으로 역전하여 사용할 수도 있습니다. 예를 들어 강도 1레벨당 10세제곱피트의 돌 벽을 부드러운 살로 변형하거나, 최대 폭 3피트, 길이 강도당 10피트의 살 '터널'을 만들거나, 돌 조각상을 시신으로 변형하거나, 심지어 돌 골렘을 살 골렘으로 변형하는 것도 가능합니다. 단, 돌 골렘의 경우 일반적인 저항을 위해 의지력 굴림이 허용됩니다. 이런 방식으로 돌에서 변한 살은 부드럽고 유연하며, 원래의 생명력(Hit Points)은 유지하지만 방어점(Armor Points)이 없어 베어내기 쉽습니다.
 
 ---
-#### Floating Disk (부유하는 원반)
+#### 플로팅 디스크 (Floating Disk)
 
 (소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
-| **영역:** 없음 | **지속 시간:** 30분/강도 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
+| **영역:** 없음 | **지속 시간:** 분당 30분/강도 |
 | **비용:** 1/강도 | **사거리:** 60피트 |
-| **범위:** 3피트 너비 원반 | **저항:** 해당 없음 |
+| **범위:** 너비 3피트 디스크 | **저항:** 해당 없음 |
 
-마법 사용자는 이 주문을 사용하여 지름 3피트의 원형으로 집중된 힘의 반짝이는 원반을 만들고 여기에 느슨하고 잡다한 아이템을 운반할 수 있습니다. 이 부유하는 원반은 항상 지면 위 3피트에 머무르며 강도 수준당 20 '물건'을 초과하지 않는 한 여러 물건을 운반할 수 있습니다. 비교를 위해 SIZ 1은 3 '물건'과 같다고 가정하십시오. 따라서 원반은 강도 수준당 SIZ 6 정도를 운반할 수 있습니다. 원반의 오목한 본질은 물건이 굴러떨어지지 않게 유지하며 지시받지 않으면 원반은 마법 사용자의 5피트 이내에 머물며 15피트의 이동 속도로 따라옵니다. 그러나 마법 사용자가 집중하면 60피트 주문 범위 내의 어떤 지점으로든 원반을 조종할 수 있으며, 특정 위치에 머물게 할 수도 있습니다. 마법사가 원반이 60피트 밖으로 이동하도록 허용하면 원반은 소멸하며 운반하던 모든 물건을 떨어뜨립니다. 원반은 지면에서 3피트 이상 떠오르도록 의지할 수 없습니다.
+마법 사용자는 이 주문을 시전하여 지름 3피트의 원형으로 집중된 힘의 반짝이는 디스크를 생성하고 이를 사용하여 느슨한 잡동사니들을 운반할 수 있습니다. 이 떠다니는 디스크는 항상 지면 위 3피트 높이를 유지하며, 강도 1당 20 '단위(Things)'를 초과하지 않고 디스크 위에 올릴 수 있다면 물품을 얼마든지 운반할 수 있습니다. 비교를 위해 1 크기(크기)를 3 '단위'로 간주하십시오. 따라서 디스크는 강도 1당 크기 6 이상을 운반할 수 있습니다. 디스크의 오목한 형태는 물건이 굴러떨어지는 것을 방지하며, 지시가 없으면 디스크는 시전자로부터 5피트 이내를 유지하며 15피트의 이동 속도로 따라옵니다. 단, 마법 사용자가 집중하면 주문 사거리인 60피트 이내의 어느 지점으로든 조종할 수 있으며 특정 위치에 머물게 할 수도 있습니다. 마법 사용자가 디스크를 60피트 이상 멀어지게 하면 디스크는 사라지며 운반하던 모든 물건을 땅에 떨어뜨립니다. 디스크는 지면에서 3피트보다 높게 뜨도록 지시할 수 없습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 30분; 1~20 '물건' 운반 |
-| 2 | 2 | 60분; 21~40 '물건' 운반 |
-| 3 | 3 | 90분; 41~60 '물건' 운반 |
-| 4 | 4 | 120분; 61~80 '물건' 운반 |
+| 1 | 1 | 30분; 1-20 '단위' 운반 |
+| 2 | 2 | 60분; 21-40 '단위' 운반 |
+| 3 | 3 | 90분; 41-60 '단위' 운반 |
+| 4 | 4 | 120분; 61-80 '단위' 운반 |
 | +1 | +1 | 단계별 진행 |
 
 ---
-#### Fly (비행)
+#### 비행 (Fly)
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 2행동 |
-| **영역:** 없음 | **지속 시간:** 30분/강도, +1d6 x 10분 |
+| **등급:** 마법사 2 | **시전 시간:** 2 행동 |
+| **영역:** 없음 | **지속 시간:** 30분/강도, +1d6x10분 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **범위:** 1대상 | **저항:** 해당 없음 |
 
-이 주문을 시전하면 마법 사용자는 강도 수준당 최대 10 SIZ의 생물 1체에게 비행의 선물을 부여할 수 있습니다. 대상 생물은 비행 시 30피트의 이동 속도를 얻으며, 등반 시에는 그 절반, 급강하 시에는 두 배의 속도를 얻습니다. 주문 시전과 전투에 가해지는 제한을 포함하여 지상 이동 속도에 적용되는 모든 기술 페널티가 원하는 비행 속도에도 적용됩니다. Fly 주문의 정확한 지속 시간은 예측 불가능하며 게임 마스터가 굴려야 합니다. 얼마나 남았는지 특별히 알 수 없어야 하기 때문입니다. 비행자가 비행 기술 판정을 해야 할 경우, 운동(Athletics)이나 곡예(Acrobatics)로 난이도 두 등급을 낮추어 대체할 수 있습니다. 그러나 이 주문을 자주 사용하는 캐릭터는 STR+DEX를 기본 값으로 Fly 기술을 정상적으로 개발하기로 선택할 수 있습니다.
+이 주문을 시전하면 마법 사용자는 강도당 최대 10 크기(크기)인 생명체 1명에게 비행 능력을 부여할 수 있습니다. 해당 생명체는 비행 시 30피트의 이동 속도를 얻으며, 상승 시 절반, 급강하 시 두 배가 됩니다. 지상 이동 속도에 적용되는 모든 기술 패널티는 주문 시전 및 전투에 대한 제한을 포함하여 비행 속도에도 동일하게 적용됩니다. 비행 주문의 정확한 지속 시간은 예측할 수 없으며 게임 마스터가 주사위를 굴려야 합니다. 그 영향을 받는 자들은 남은 시간이 정확히 얼마나 되는지 알 수 없어야 합니다. 비행 기술 굴림이 필요한 경우 운동(Athletics)이나 곡예(Acrobatics) 기술로 2단계 난이도 페널티를 받고 대체할 수 있습니다. 하지만 이 주문을 자주 사용하는 캐릭터는 힘(힘)+민첩(민첩)의 기본 값으로 비행 기술을 정상적으로 개발하는 것을 선택할 수 있습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 30분 + 1d6x10분; 1~10 SIZ |
-| 2 | 4 | 60분 + 1d6x10분; 11~20 SIZ |
-| 3 | 5 | 90분 + 1d6x10분; 21~30 SIZ |
-| 4 | 6 | 120분 + 1d6x10분; 31~40 SIZ |
+| 1 | 3 | 30분 +1d6x10분; 1-10 크기 |
+| 2 | 4 | 60분 +1d6x10분; 11-20 크기 |
+| 3 | 5 | 90분 +1d6x10분; 21-30 크기 |
+| 4 | 6 | 120분 +1d6x10분; 31-40 크기 |
 | +1 | +1 | 단계별 진행 |
 
 ---
-#### Free Action (자유 행동)
+#### 자유 행동 (Free Action)
 
-(보호, 인챈트)
+(방어, 매혹)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3 | **시전 시간:** 2행동 |
+| **등급:** 사제 3 | **시전 시간:** 2 행동 |
 | **영역:** 매혹 | **지속 시간:** 10분/강도 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **범위:** 1대상 | **저항:** 해당 없음 |
 
-시전 시 이 주문을 받은 대상은 이동을 방해하거나 공격에 페널티를 주는 다른 주문이나 효과에 관계없이 지속 시간 내내 정상적으로 행동할 수 있습니다. 여기에는 진흙이나 눈과 같은 방해 지형으로 인한 페널티 무효화가 포함됩니다. 수중에서 대상은 정상적인 육상 속도로 이동할 수 있으며 휘두르는 무기(검, 도끼, 곤봉, 메이스 등)는 완전한 효과로 공격합니다. 단, 수중에서 숨을 쉴 수 있는 능력은 부여하지 않습니다. 이 주문은 이동 및 행동 페널티와 관련된 Entangle, Slow, Hold, Paralysis, Web 등과 같은 방해 주문을 무효화합니다.
+시전 시 이 주문은 대상이 지속 시간 동안 다른 주문이나 이동을 방해하고 공격에 페널티를 주는 효과와 상관없이 정상적으로 행동할 수 있게 합니다. 여기에는 진흙이나 눈과 같은 지형으로 인한 페널티 무효화가 포함됩니다. 수중에서도 대상은 정상적인 지상 이동 속도로 움직일 수 있으며, 휘두르는 무기(검, 도끼, 둔기, 철퇴 등)는 완전한 효과로 공격할 수 있습니다. 단, 이 주문은 수중 호흡 능력을 부여하지는 않습니다. 이 주문은 이동 및 행동 페널티와 관련된 얽기(Entangle), 느림(Slow), 붙잡기(Hold), 마비(Paralysis), 거미줄(Web) 등의 방해 주문을 무효화합니다.
 
 ---
-#### Frostbite (동상)
+#### 동상 (Frostbite)
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 60피트 |
-| **범위:** 1 대상 | **저항:** 지구력 |
+| **범위:** 1대상 | **저항:** 체질 |
 
-Frostbite는 살아있는 유기 조직에 직접 작용하여 수혜자의 사지(예: 손가락, 발가락, 엉덩이, 코, 귀 등)에 마비와 통증을 유발합니다. 시전자는 특정 사지를 접촉하거나 사거리 내에서 시전될 경우 무작위로 굴려야 합니다. 주문에 저항하지 못하면 영향을 받은 부위는 감각 마비와 지속 시간 동안 지속되는 통증을 겪게 되며, 해당 위치를 사용하는 기술 시험이 한 난이도 등급 더 어려워집니다. Frostbite는 직접적인 피해를 주지는 않지만 영향을 받은 부위를 잠시 동안 제한적으로 사용하게 만듭니다. 예를 들어, 엉덩이에 동상을 입은 피해자는 극심한 불편함 없이 앉을 수 없습니다.
+동상은 살아있는 유기 조직에 직접 작용하여 수혜자의 손가락, 발가락, 엉덩이, 코, 귀 등 신체 말단 부위에 감각 마비와 통증을 유발합니다. 시전자는 특정 부위를 만지거나 사거리에서 시전할 경우 무작위로 굴려야 합니다. 주문이 저항받지 않으면 영향받은 부위는 감각 마비 후 지속 시간 동안 통증이 계속되어 해당 위치를 사용하는 기술 시험의 난이도가 한 단계 어려워집니다. 동상은 직접적인 피해를 주지는 않지만 일정 시간 동안 해당 부위의 사용을 제한합니다. 예를 들어 엉덩이에 동상을 입은 희생자는 극심한 불편함 없이 앉을 수 없습니다.
 
-대형 생물(SIZ 21~40)은 이 주문에 덜 취약하며 저항 판정이 쉽고(Easy), 거대 생물(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy).
+대형 생명체(크기 21-40)는 이 주문에 덜 취약하여 저항 굴림이 '쉬움'이며, 거대 생명체(크기 41+)의 저항 굴림은 '매우 쉬움'입니다.
 
 ---
-#### Fumble (실수)
+#### 펌블 (Fumble)
 
-(인챈트 (매혹))
+(매혹(매혹))
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
+| **등급:** 마법사 3 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 1라운드/강도 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 30피트/강도 |
-| **범위:** 10피트 반경 | **저항:** 의지력 |
+| **범위:** 반경 10피트 | **저항:** 의지력 |
 
-이 주문은 효과 범위 내의 모든 적이 서투르게 되며 모든 물리 기술 판정이 한 등급 더 어려워지고 모든 실패가 펌블(Fumble)을 유발하게 합니다. 일반적으로 기술 판정이 필요 없는 물리적 행동(떨어진 아이템 줍기, 걷기보다 빠르게 이동하기, 계단 오르기)조차 운동 기술 판정이 필요합니다. 이 경우 실패하면 펌블이 발생하며, 이동 중일 때는 어색하게 넘어지거나 아이템을 줍다가 실수로 아이템을 더 멀리 차버리는 경우가 많습니다. 게임 마스터는 펌블 결과에 창의적이어야 하지만, 비전투 상황에서 완전히 치명적인 결과는 거의 없어야 합니다. 그러나 전투에서 펌블은 다른 것들과 마찬가지로 취급되며 평소와 같이 특별한 효과를 초래할 수 있습니다.
+이 주문은 효과 범위 내의 모든 상대가 서툴게 행동하게 만들어 모든 물리 기술 굴림의 난이도를 한 단계 더 어렵게 만들고, 모든 실패가 펌블로 이어지게 합니다. 떨어진 물건 줍기, 걷는 것보다 빠르게 움직이기, 계단 오르기 등 일반적으로 기술 굴림이 필요 없는 물리적 행동도 운동(Athletics) 기술 굴림이 필요하게 됩니다. 이 경우 실패는 펌블로 간주되며, 일반적으로 이동 중일 때는 어색하게 넘어지고, 물건을 줍다가 실수로 발로 차서 더 멀리 날려버리는 등의 결과가 발생합니다. 게임 마스터는 펌블 굴림의 결과에 대해 창의적이어야 하지만, 전투 상황이 아닌 경우에는 치명적인 결과는 드물어야 합니다. 그러나 전투 중의 펌블은 다른 펌블과 동일하게 취급되며 평소와 같이 특수 효과를 유발할 수 있습니다.
 
-성공적인 저항 판정을 하면 피해자는 현재 라운드 동안 주문의 효과를 피할 수 있습니다. 그러나 피해자가 다음 라운드에도 효과 범위 내에 머물면 평소와 같이 저항을 위한 또 다른 판정을 해야 합니다. 원래 공격자의 아군도 효과 범위 밖으로 나가지 않으면 적과 동일한 제한을 겪게 됩니다.
+저항 굴림에 성공하면 희생자는 해당 라운드 동안 주문 효과를 피할 수 있지만, 다음 라운드에도 여전히 효과 범위 내에 머물러 있다면 다시 정상적으로 저항 굴림을 해야 합니다. 원래 공격자의 아군들도 효과 범위 밖으로 나가지 않으면 상대와 동일한 제한을 겪게 됩니다.
 
-이 주문은 특정 생물을 대상으로 지정할 수도 있으며, 저항 판정에 실패하면 전체 지속 시간 동안 효과를 겪게 됩니다. 이런 식으로 시전되면 Fumble은 효과 범위를 생성하지 않습니다. 이 경우 성공적인 저항 판정은 피해자가 2등급 주문인 Slow의 효과를 겪게 합니다.
+이 주문은 특정 생명체를 대상으로 지정할 수 있으며, 이 경우 저항 굴림에 실패하면 주문의 전체 지속 시간 동안 효과를 겪게 됩니다. 이 방식으로 시전하면 펌블은 효과 범위를 생성하지 않습니다. 이 경우 저항 굴림에 성공하면 희생자는 2등급 주문인 느림(Slow)의 효과를 겪습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 1라운드; 30피트 사거리 |
-| 2 | 4 | 2라운드; 60피트 사거리 |
-| 3 | 5 | 3라운드; 90피트 사거리 |
-| 4 | 6 | 4라운드; 120피트 사거리 |
+| 1 | 3 | 1라운드; 사거리 30피트 |
+| 2 | 4 | 2라운드; 사거리 60피트 |
+| 3 | 5 | 3라운드; 사거리 90피트 |
+| 4 | 6 | 4라운드; 사거리 120피트 |
 | +1 | +1 | 단계별 진행 |
 
 ---
-#### Gate (차원문)
+#### 게이트 (Gate)
 
 (소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 5, 마법사 5 | **시전 시간:** 2라운드 |
+| **등급:** 사제 5, 마법사 5 | **시전 시간:** 2라운드 |
 | **영역:** 소환 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/강도, +3 EXP | **사거리:** 100피트 |
+| **비용:** 3 + 1/강도, +3 경험치(EXP) | **사거리:** 100피트 |
 | **범위:** 아래 참조 | **저항:** 의지력 |
 
-Gate 시전은 시전자가 소환할 존재의 진정한 이름을 알고 있어야 하며, 일반적으로 악마, 마귀, 천사, 반신 또는 신과 같은 차원 외부의 생물입니다. 성공적으로 시전되면 시전자가 점유한 차원과 존재의 차원 사이에 포털이 열립니다. 주문을 시전하면 성공 여부에 관계없이 존재의 관심을 자동으로 끕니다. 이 주문은 엄청나게 강력하고 소모적이어서, 시전자에게 3 마법 포인트와 3 EXP 손실뿐만 아니라 일반 수명의 5%를 노화(인간 시전자의 경우 5년)시킵니다. 존재가 저항 판정에 성공하면 일반적으로 직접 나타나지 않지만, 주문이 성공적이라고 가정하면 '무언가'가 나타날 것입니다. 다음 표는 몇 가지 일반적인 존재, 그들의 평균 의지력, 그리고 그들 대신 보낼 일반적인 하인을 결정하는 데 사용됩니다. 게임 마스터는 현재 캠페인의 성격에 가장 잘 맞는 것을 자유롭게 선택할 수 있습니다.
+게이트 시전은 악마, 악마의 하수인, 천사, 반신, 심지어 신과 같이 다른 차원의 생명체인 소환 대상의 진정한 이름을 아는 것을 요구합니다. 성공적으로 시전되면 시전자의 차원과 해당 생명체의 차원 사이에 포털이 열립니다. 주문을 시전하면 성공 여부와 관계없이 자동으로 해당 생명체의 주의를 끌게 됩니다. 이 주문은 매우 강력하고 소모가 커서 시전자에게 기록된 마력 3점과 경험치 3점의 소모뿐만 아니라 일반 수명의 5%를 노화시킵니다(인간 시전자의 경우 5년). 생명체가 저항 굴림에 성공하면 일반적으로 직접 나타나지 않지만, 주문이 성공했다면 '무언가'가 넘어올 것입니다. 아래 표는 일반적인 생명체, 그들의 평균 의지력, 그리고 그들을 대신하여 보내질 일반적인 하수인을 결정하는 데 사용됩니다. 게임 마스터는 현재 캠페인의 성격에 맞게 자유롭게 선택할 수 있습니다.
 
-##### 추가 차원 존재 표
+##### 초차원 생명체 표
 
 | 강도 | 비용 | 가변 효과 | 의지력 |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | 악마 혹은 마귀의 하위 종 | 각 존재별 |
-| 2 | 4 | 하급 악마 또는 마귀 | 각 존재별 |
-| 3 | 5 | 열등 악마 또는 마귀 | 각 존재별 |
-| 4 | 6 | 상급 악마 또는 마귀 | 각 존재별 |
-| 5 | 7 | 악마/마귀 왕자 또는 공작, 대천사 또는 반신 | 121-140% |
-| 6 | 8 | 악마 군주, 대악마 또는 하급 신 | 141-160% |
-| 7 | 9 | 상급 신 | 161-180% |
-| 8 | 10 | 지배 신 | 181% + |
+| 1 | 3 | 하급 악마(Sub-Demon) 또는 하급 악마(Sub-Devil) | 특정 생명체에 따름 |
+| 2 | 4 | 소악마(Minor Demon or Devil) | 특정 생명체에 따름 |
+| 3 | 5 | 하급 악마(Lesser Demon or Devil) | 특정 생명체에 따름 |
+| 4 | 6 | 상급 악마(Greater Demon or Devil) | 특정 생명체에 따름 |
+| 5 | 7 | 악마 왕자/공작, 대천사, 또는 반신 | 121-140% |
+| 6 | 8 | 악마 군주, 대악마, 또는 소신 | 141-160% |
+| 7 | 9 | 대신 | 161-180% |
+| 8 | 10 | 지배신 | 181% + |
 
-대응 형태는 특정 존재, 양측의 정렬, 요청의 세부 사항에 크게 좌우됩니다. 존재가 중단 이유를 하찮거나 중요하지 않다고 생각하면, 반응은 단순히 떠나는 것부터 직접적인 공격에 이르기까지 다양할 수 있습니다. 그러나 필사적인 상황, 특히 존재가 강력하게 반대하는 대상에 의해 시전자가 위협받는 상황은 더 호의적인 반응을 얻을 가능성이 높습니다. 게임 마스터가 회색 영역에 있다고 생각하고 반응이 의문스러우면 시전자와 동료들은 기술, 아첨, 간청, 뇌물 등을 조합하여 사례를 논쟁할 수 있습니다. 그러나 대부분의 존재는 자신과 같거나 더 강력한 힘을 가진 다른 존재와의 갈등에 휘말리는 것을 피할 것이며, 많은 이들이 행동 전후에 대가를 요구할 것입니다. 게이트는 존재가 이쪽에 머무르기로 선택하는 한 열려 있으며, 그들이 떠나기로 결정하면 닫힙니다. 이 시간 동안 게이트를 다른 이들이 통과하여 양 현실 간에 양방향 여행을 제공할 수 있습니다.
+대응 방식은 특정 생명체, 양측의 정렬, 요청의 세부 사항에 따라 크게 달라집니다. 생명체가 방해의 이유가 하찮거나 결과가 없다고 판단하면, 단순히 떠나거나 즉시 공격하는 등 어떤 반응이라도 보일 수 있습니다. 그러나 시전자가 생명체와 강력하게 대립하는 존재로부터 위협을 받는 절박한 상황에서는 더 우호적인 반응을 얻을 가능성이 높습니다. 게임 마스터가 회색 지대라고 느끼고 반응이 의문스러울 경우, 시전자와 동료들은 기술, 아첨, 애원, 뇌물 등을 조합하여 자신의 상황을 주장할 수 있습니다. 하지만 대부분의 생명체는 동등하거나 더 강력한 존재와의 갈등에 휘말리는 것을 피할 것이며, 많은 경우 행위 전후에 대가를 요구할 것입니다. 게이트는 생명체가 이쪽에 머무르기로 선택한 만큼 열려 있으며, 그들이 떠나기로 결정하면 닫힙니다. 이 기간 동안 게이트는 다른 존재들이 통과할 수 있으며, 양 차원 간의 양방향 여행을 가능하게 합니다.
 
 ---
-#### Glamour \(R\) (매혹)
+#### 글래머 (Glamour) (R)
 
-(인챈트 (매혹))
+(매혹(매혹))
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 집중 |
 | **비용:** 1 | **사거리:** 60피트 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **범위:** 1대상 | **저항:** 의지력 |
 
-Glamour는 대상을 매력적으로 만들어 사람들이 자연스럽게 끌리게 합니다. 매혹의 본질은 시전 시 선택해야 하며, 증가된 자연미, 부드럽고 더 관능적인 목소리, 심지어 유혹적인 향기까지 무엇이든 될 수 있습니다. 주문이 물리적 이점을 제공하지는 않지만, 수혜자가 청중을 모으거나 연락하고 싶은 사람의 관심을 끌거나, 공범자들이 사악한 행동을 수행할 기회를 가능하게 하는 방해물을 제공할 기회를 얻도록 보장합니다.
+글래머는 대상을 매력적으로 만들어 사람들이 자연스럽게 끌리게 합니다. 글래머의 성격은 시전 시 선택해야 하며, 증가된 자연미, 더 부드럽고 매혹적인 목소리, 유혹적인 향수 냄새 등 무엇이든 될 수 있습니다. 주문이 기계적인 이점을 주지는 않지만, 수혜자가 청중을 모으거나 접촉하고 싶은 사람의 주의를 끌거나, 공범자들이 사악한 행위를 수행할 수 있는 주의 분산 기회를 제공할 수 있습니다.
 
-역주문인 Repugnance는 대상의 외모를 왜곡하여 그들을 보고, 듣고, 냄새 맡는 모든 사람에게 혐오감을 줍니다. 효과는 시전 시 선택해야 하며 코 끝의 커다란 사마귀, 콧소리 높은 목소리, 심지어 지독한 체취까지 무엇이든 될 수 있습니다. 무엇을 선택하든 사람들이 피해자에게서 등을 돌리게 하거나 가능한 한 빨리 그들의 존재를 떠날 핑계를 대게 만들 것입니다.
+역버전인 '혐오(Repugnance)'는 대상의 외모를 비틀어 보는 이, 듣는 이, 냄새 맡는 이 모두에게 불쾌감을 줍니다. 효과는 시전 시 선택해야 하며 코끝의 큰 사마귀, 고음의 콧소리, 고약한 체취 등 무엇이든 될 수 있습니다. 무엇을 선택하든 사람들은 희생자로부터 등을 돌리거나 최대한 빨리 그들의 존재로부터 떠나려고 핑계를 대게 될 것입니다.
 
----
-#### Glue (접착)
+---#### Glue
 
-(변형)
+(변환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 24시간 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 2개 아이템 또는 1개 파손 아이템 | **저항:** 해당 없음 |
+| **범위:** 아이템 2개 또는 파손된 아이템 1개 | **저항:** 해당 없음 |
 
-Glue는 주문 지속 시간 동안 카트 바퀴와 축, 문과 문틀 등 두 개의 단단한 무생물 물체를 함께 고정합니다. 주문 효과 하에서는 무엇이든 떨어지려 하지 않는 한 떨어지지 않습니다. 이런 경우 주문은 시전자의 POW x 5와 같은 힘(Brawn) 기술을 가지며, 상위 Brawn이 이를 상대로 대항 판정에서 승리하면 실패합니다. 주문이 끝나거나 실패하면 물체들은 완전히 해를 입지 않고 분리됩니다.
+Glue는 주문 지속 시간 동안 두 개의 고체 무생물을 서로 붙여버립니다. 예를 들어 수레바퀴를 차축에 붙이거나, 문을 문틀에 고정할 수 있습니다. 주문 효과를 받는 동안에는 물건들이 아무리 이질적이라도 무언가 강제로 떼어내려 하지 않는 이상 떨어지지 않습니다. 이런 경우, 주문은 시전자의 영력 x5와 동일한 근력 기술을 가지며, 대항 판정에서 더 높은 근력이 적용될 경우 주문은 패배하여 풀립니다. 주문이 종료되거나 실패하면 아이템들은 아무런 손상 없이 분리됩니다.
 
 ---
-#### Haste (신속)
+#### Haste (가속)
 
-(변형)
+(변환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 2행동 |
+| **등급:** 마법사 2 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 3라운드/강도 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 180피트 |
-| **범위:** 20피트 반경, 대상당 1체/강도 | **저항:** 해당 없음 |
+| **범위:** 20피트 반경, 대상 1명/강도 | **저항:** 해당 없음 |
 
-주문의 효과 범위 내에서 강도당 한 사람 또는 생물(자신 포함)은 정상적인 이동 속도의 두 배를 얻고 이니셔티브에 +4 보너스를 얻습니다. 또한 대상은 각 행동 포인트마다 라운드당 2번의 행동을 선택할 수 있습니다. 이는 어떤 방식으로도 주문 시전 속도나 주문 지속 시간을 증가시키지 않습니다. 따라서 Haste 효과를 받는 주문 시전자는 주문을 더 빨리 시전하지 않으며, 주문이 시전되는 같은 턴에 추가 행동의 혜택을 받지 못합니다. 대상의 신진대사가 가속화되기 때문에 이 주문을 시전할 때마다 지속 시간에 관계없이 대상은 정상 기대 수명의 1%만큼 노화됩니다. 인간의 경우 약 1년입니다. 각 demi-human 종족의 평균 기대 수명은 [노화](0007_Game_System.md?id=aging) 규칙을 참조하십시오. Haste 시전은 Slow의 효과를 취소하며, 이 경우 개인을 노화시키지 않습니다. Haste는 자신이나 유사한 마법 효과와 중첩되지 않습니다.
+주문 범위 내의 강도당 한 명의 사람 또는 생명체(자신 포함)는 일반 이동 속도의 두 배를 얻고, 주문 지속 시간 동안 주도권에 +4 보너스를 얻습니다. 또한, 대상은 사용한 각 행동 포인트당 턴마다 2번의 행동을 선택할 수 있습니다. 이는 주문 시전 속도나 주문의 지속 시간을 어떤 방식으로든 증가시키지 않습니다. 따라서 Haste 효과를 받는 시전자는 주문을 더 빨리 시전하지 못하며, 주문을 시전하는 같은 턴에 추가 행동의 이점을 누리지 못합니다. 대상의 신진대사가 가속화되기 때문에, 이 주문을 시전할 때마다 지속 시간과 관계없이 대상의 일반적인 기대 수명이 1%만큼 노화됩니다. 인간의 경우 이는 약 1년에 해당합니다. 아인종의 평균 기대 수명은 [노화](0007_Game_System.md?id=aging) 규칙을 참조하십시오. Haste 시전은 Slow의 효과를 취소하며, 이 경우 개인은 노화되지 않습니다. Haste는 자신 또는 유사한 마법 효과와 중첩되지 않습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변수 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 3라운드; 1대상 |
-| 2 | 4 | 6라운드; 2대상 |
-| 3 | 5 | 9라운드; 3대상 |
-| 4 | 6 | 12라운드; 4대상 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 3라운드; 대상 1명 |
+| 2 | 4 | 6라운드; 대상 2명 |
+| 3 | 5 | 9라운드; 대상 3명 |
+| 4 | 6 | 12라운드; 대상 4명 |
+| +1 | +1 | 진행 단계 계속 |
 
 ---
-#### Heal  \(R\) (치유)
+#### Heal (치유) \(R\)
 
 (강령술)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 4 | **시전 시간:** 1분 |
-| **영역:** 치유 | **지속 시간:** 영구적 |
+| **영역:** 치유 | **지속 시간:** 영구 |
 | **비용:** 3 + 1/강도 | **사거리:** 접촉 |
-| **범위:** 1 생물 | **저항:** 해당 없음 (지구력 또는 회피) |
+| **범위:** 생명체 1명 | **저항:** 해당 없음 (체질 또는 회피) |
 
-Heal을 시전하면 성직자는 단 한 번의 접촉으로 신체적 질환, 정신적 트라우마 또는 상당한 양의 부상을 치료할 수 있습니다. 이 회복의 실제 범위는 주문의 강도에 기반합니다. 각 강도 수준에 대해 주문은 POT가 얼마이든 관계없이 질병 1개를 치유하고, 실명이나 난청을 치료하고, 부상이나 마법으로 인한 정신 장애를 무효화하거나, 단일 타격 위치를 최대 12점의 피해까지 치유합니다. 단, 절단된 사지는 복구하지 않으며 이는 Regenerate 주문 시전이 필요합니다. 각 추가 강도는 다른 질환을 치료하거나 다른 타격 위치를 치유하는 데 사용할 수 있습니다. 따라서 전신 화상을 입은 개인을 치유하려면 강도 7로 시전해야 합니다. 장기 부상에 대한 효과가 제한적인 하위 등급 치유 주문과 달리 주문의 지속 시간으로 인한 제한은 없습니다.
+Heal을 시전하면, 성직자는 단 한 번의 접촉으로 신체적 질병, 정신적 외상, 또는 상당한 양의 부상을 치료할 수 있습니다. 이 회복의 실제 범위는 다음과 같이 주문의 강도에 따라 결정됩니다. 강도 레벨당 이 주문은 대상의 POT가 얼마든 질병 하나를 치유하거나, 실명 또는 난청을 치료하거나, 부상이나 마법으로 인한 정신 질환을 무효화하거나, 최대 12점의 피해를 입은 신체 부위 하나를 치유합니다. 그러나 절단된 팔다리는 복구하지 못하며, 이를 위해서는 Regenerate 주문을 시전해야 합니다. 추가 강도를 사용하여 다른 질병을 치료하거나 다른 신체 부위를 치유할 수 있습니다. 따라서 전신 화상을 입은 개인을 치료하려면 강도 7로 시전해야 합니다. 장기적인 부상에 대한 효과가 제한적인 하위 치유 주문과 달리, 이 주문은 대상이 부상 효과를 겪은 기간에 의한 제한을 받지 않습니다.
 
-역으로, Harm은 저항 판정에 실패하면 피해자의 타격 위치 중 하나에 12점의 마법적 부상을 입힙니다. 또는 Cause Disease 주문과 동일한 효과를 가진 질환이 20 POT 더 높게 유발됩니다. 시전자의 채널 판정이 상대방을 공격하는 판정으로 기능하며 주문의 신체적 요구 사항의 일부로 간주됩니다. 추가적인 공격 판정은 필요하지 않습니다. 착용 갑옷이나 자연 갑옷 모두 아무런 보호도 제공하지 않지만, 마법 방어력 수치는 평소대로 피해를 줄이며 유발된 질환을 완전히 차단합니다. 각 추가 강도는 첫 번째와 연속되는 타격 위치에 영향을 미치며 효과는 초기 저항 판정에 의해 결정됩니다. 이 주문의 어떤 버전도 언데드, 철, 은 또는 마법 무기로만 해를 입는 생물, 또는 비물질 존재에게는 아무런 효과가 없습니다.
+반전될 경우, Harm은 저항 판정에 실패하면 피해자의 신체 부위 중 하나에 12점의 마법적 부상을 입힙니다. 또는 질병을 주입하는데, 이는 Cure Disease의 반대인 Cause Disease 주문과 동일한 효과를 가지며 POT는 +20이 됩니다. 시전자의 채널링 판정은 상대를 적중시키기 위한 판정으로 기능하며 주문의 신체적 요구 사항의 일부로 간주됩니다. 별도의 적중 판정은 필요하지 않습니다. 착용 방어구나 자연 방어구는 아무런 보호를 제공하지 않지만, 마법 방어력은 평소대로 피해를 줄이며 주입된 질병을 완전히 차단합니다. 각 추가 강도는 첫 번째 부위와 인접한 다른 신체 부위에 영향을 미치며, 효과는 초기 저항 판정에 의해 결정됩니다. 이 주문의 어떤 버전도 언데드, 철/은/마법 무기로만 피해를 입는 생명체, 또는 비실체적 존재에게는 아무런 효과가 없습니다.
 
 ---
 #### Hold Person (인간 구속)
 
-(인챈트 (매혹))
+(인챈트(매료))
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2, 마법사 2 | **시전 시간:** 2행동 |
-| **영역:** 매혹 | **지속 시간:** 2라운드/강도 |
+| **등급:** 성직자 2, 마법사 2 | **시전 시간:** 2 행동 |
+| **영역:** 매료 | **지속 시간:** 2라운드/강도 |
 | **비용:** 3 + 1/추가 강도 | **사거리:** 360피트 |
-| **범위:** 20피트 반경 | **저항:** 의지력 |
+| **범위:** 20피트 반경 | **저항:** 매력 |
 
-이 주문을 사용하면 효과 범위 내 강도당 인간형 생물 1체를 고정할 수 있습니다. 성공적인 저항 판정은 그 대상에 대해서만 주문 효과를 완전히 무효화합니다. 대형 인간형(SIZ 21~40)은 Hold Person에 덜 취약하며 저항 판정이 쉽고(Easy), 거대 인간형(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy). 고정된 동안 영향을 받은 생물은 완전히 무력하며 Dispel Magic 외에는 아무것도 일찍 해제할 수 없습니다.
+이 주문은 시전자가 범위 내의 강도당 인간형 생명체 1명을 움직이지 못하게 할 수 있게 합니다. 저항에 성공하면 해당 대상에 대해서만 주문 효과가 완전히 무효화됩니다. 대형 인간형 생명체(크기 21-40)는 Hold Person에 덜 취약하여 저항 판정이 쉬움(Easy)으로 적용되며, 거대 인간형 생명체(크기 41+)의 저항 판정은 매우 쉬움(Very Easy)이 됩니다. 구속된 상태에서 영향을 받은 생명체는 완전히 무력해지며, Dispel Magic이 아니고서는 일찍 풀려날 방법이 없습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변수 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 2라운드; 1대상 |
-| 2 | 4 | 4라운드; 2대상 |
-| 3 | 5 | 6라운드; 3대상 |
-| 4 | 6 | 8라운드; 4대상 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 2라운드; 대상 1명 |
+| 2 | 4 | 4라운드; 대상 2명 |
+| 3 | 5 | 6라운드; 대상 3명 |
+| 4 | 6 | 8라운드; 대상 4명 |
+| +1 | +1 | 진행 단계 계속 |
 
 ---
-#### Holy Word \(R\) (성스러운 말)
+#### Holy Word (성스러운 말씀) \(R\)
 
 (소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 5 | **시전 시간:** 1행동 |
+| **등급:** 성직자 5 | **시전 시간:** 1 행동 |
 | **영역:** 전투 | **지속 시간:** 아래 참조 |
-| **비용:** 3, +1 EXP | **사거리:** 0 |
+| **비용:** 3, +1 경험치 | **사거리:** 0 |
 | **범위:** 30피트 반경 | **저항:** 해당 없음 |
 
-이 주문을 시전하면 성직자는 놀라운 신성한 힘의 말을 내뱉어 외계 차원의 악한 존재를 물리칠 수 있습니다. 단, 시전자는 자신의 차원에 있어야 합니다. 영향을 받은 생물은 원래 차원으로 돌아가며 최소 24시간 동안 시전자의 차원으로 돌아올 수 없습니다.
+이 주문을 시전하면 성직자는 다른 차원의 사악한 존재들을 물리칠 수 있는 엄청난 신성한 힘의 단어를 발설합니다. 단, 시전자는 자신의 차원에 있어야 합니다. 영향을 받은 생명체들은 원래의 차원으로 돌려보내지며 최소 24시간 동안 시전자의 차원으로 돌아올 수 없습니다.
 
-또한, 악의 정렬을 가진 비차원 생물은 대상의 등급이나 SIZ(더 유리한 결과 제공)에 따라 추가 효과를 받습니다. 상세 내용은 아래 표와 같습니다.
+또한, 악 성향의 비차원 생명체는 다음 표에 상세히 기술된 대로 해당 존재의 등급이나 크기 중 더 유리한 결과에 따라 추가 효과를 받습니다.
 
-| 대상 등급 | 대상 SIZ | 일반 | 기술\*\* | 이동 |
+| 대상 등급 | 대상 크기 | 일반 | 기술\*\* | 이동 |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | 즉사 | - | - |
 | 2 | 21-40 | 1d4 x 10분 마비 | - | - |
-| 3 | 41-60 | 2d4라운드 둔화 \*\*\* | 힘듦 | ½ |
-| 4-5 | 61+ | 1d4라운드 청각 마비 | 매우 힘듦 | ¼ |
+| 3 | 41-60 | 2d4라운드 둔화 \*\*\* | 어려움 | ½ |
+| 4-5 | 61+ | 1d4라운드 청각 상실 | 위협적 | ¼ |
 
-_\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
+_\* 이 범주에는 직업을 가지지 않은 캐릭터가 포함됩니다._
 
-_\*\* 전투, 저항 판정 및 주문 시전을 포함한 모든 기술._
+_\*\* 모든 기술(전투, 저항 판정, 주문 시전 포함)._
 
-_\*\*\* Arcane 2등급 주문 [Slow](0010_Spells.md?id=slow)와 동일._
+_\*\*\* 등급 2 비전 주문인 [Slow](0010_Spells.md?id=slow) 참조._
 
-이전에 청각 마비를 겪었거나 주문을 들을 수 없는 생물은 표에 자세히 설명된 효과의 영향을 받지 않습니다. 그러나 다른 차원 존재들은 위에 자세히 설명된 대로 여전히 물리쳐집니다.
+이미 청각을 상실했거나 주문을 들을 수 없는 생명체는 표에 명시된 효과를 받지 않지만, 다른 차원 존재들은 위에 명시된 대로 쫓겨납니다.
 
-역주문인 Unholy Word는 선한 정렬의 생물에 대해서만 위와 같이 작동합니다.
+반전된 Unholy Word는 선 성향의 생명체들에 대해서만 위의 기능을 수행합니다.
 
 ---
 #### Ice Storm (얼음 폭풍)
 
-(창조)
+(현현)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
+| **등급:** 마법사 3 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
 | **비용:** 3, +1/추가 강도 | **사거리:** 30피트/강도 |
 | **범위:** 아래 참조 | **저항:** 아래 참조 |
 
-Ice Storm에는 주문 시전 시 선택하는 두 가지 효과가 있습니다.
+Ice Storm은 시전 시 선택할 수 있는 두 가지 효과를 가집니다:
 
-우박(Hail Stones) (지속 시간: 즉시): 이 주문 변형은 60피트 반경의 영역에 큰 우박이 쏟아지게 합니다. 영역 내의 대상은 강도 2점당 1d10 피해를 입습니다. 각 피해 다이스는 개별적으로 굴려 무작위 타격 위치에 적용됩니다. 불을 사용하는 생물은 각 우박 타격에 +3 피해를 입고, 냉기를 사용하는 생물은 피해를 절반 입습니다. 착용 갑옷은 절반의 방어만 제공하지만 자연 방어력(또는 마법 방어력 수치)은 평소대로 피해를 줄입니다. 엄폐물이나 효과 범위 가장자리에서 5피트 이내에 있지 않는 한 굴리거나 엎드리는 회피 판정은 피해를 입히는 데 효과적이지 않습니다. 그렇지 않으면 피해를 피하는 것이 불가능합니다. 회피에 성공하면 각 굴림의 피해 절반을 입습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있는 선택권이 있으며, 엄폐물이나 효과 범위 가장자리에서 5피트 이내에 있으면 성공 시 피해를 입지 않으며, 그렇지 않으면 정상적으로 피해를 입습니다.
+우박(지속 시간: 즉시): 이 주문의 변형은 60피트 반경 내에 커다란 우박이 쏟아지게 합니다. 범위 내에 갇힌 자들은 강도 2점당 1d10의 피해를 입습니다. 각 피해 주사위는 개별적으로 굴려 무작위 신체 부위에 적용됩니다. 불을 사용하는 생명체는 각 우박 타격에 +3 피해를 입고, 얼음을 사용하는 생명체는 절반의 피해를 입습니다. 착용 방어구는 절반의 보호만 제공하지만, 생명체의 자연 방어구(또는 마법 방어력)는 정상적으로 피해를 줄입니다. 회피 판정(엎드리기)은 엄폐물이나 효과 범위 가장자리로부터 5피트 이내에 있을 때만 유효합니다. 그렇지 않으면 피해를 피하는 것이 불가능합니다. 회피에 성공하면 희생자는 각 판정 피해의 절반만 입습니다. 'Artful Dodger' 능력을 가진 자는 엎드리지 않고 회피할 수 있으며, 엄폐물이나 효과 범위 가장자리에서 5피트 이내라면 성공 시 피해를 전혀 입지 않고, 그렇지 않으면 평소대로 피해를 입습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변수 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 30피트 사거리; 1d10 피해 |
-| 2 | 4 | 60피트 사거리; 1d10 피해 |
-| 3 | 5 | 90피트 사거리; 2d10 피해 |
-| 4 | 6 | 120피트 사거리; 2d10 피해 |
-| 5 | 7 | 150피트 사거리; 3d10 피해 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 사거리 30피트; 1d10 피해 |
+| 2 | 4 | 사거리 60피트; 1d10 피해 |
+| 3 | 5 | 사거리 90피트; 2d10 피해 |
+| 4 | 6 | 사거리 120피트; 2d10 피해 |
+| 5 | 7 | 사거리 150피트; 3d10 피해 |
+| +1 | +1 | 진행 단계 계속 |
 
-진눈깨비(Driving Sleet) (지속 시간: 1라운드/강도): 이 주문 변형은 60피트 너비, 120피트 길이의 경로 같은 영역을 휩쓰는 진눈깨비를 생성하여 영향을 받은 자들의 시야를 가립니다. 실제 경로는 주문 시전 시 마법사가 지정할 수 있습니다. 또한, 영향을 받는 영역의 지면이 얼어붙어 이동 속도가 50% 느려지고, 어려운(Formidable) Fly 기술 판정에 실패한 비행 생물이 추락합니다. 지상의 자들은 매 라운드 엎어지는 것에 저항하기 위해 운동(Athletics) 판정에 성공해야 하며, 걷는 것보다 빠르게 이동하면 난이도가 두 등급 더 높아집니다. 곡예(Acrobatics) 기술을 가진 캐릭터는 원하는 경우 해당 기술로 대체할 수 있습니다. 얼음은 주문 지속 시간이 만료된 후 게임 마스터가 결정한 온도에 따라 녹으며, 더운 날씨에도 최소 10분은 지속됩니다. 모닥불이나 횃불 같은 작은 불은 자동으로 꺼집니다. 이 주문은 Heat Metal 주문의 효과를 무효화합니다.
+매서운 진눈깨비(지속 시간: 1라운드/강도): 이 주문의 변형은 폭 60피트, 길이 120피트의 경로를 따라 휘몰아치는 진눈깨비를 생성하여 영향을 받는 자들의 시야를 가립니다. 실제 경로는 주문 시전 시 마법사가 지정할 수 있습니다. 또한, 범위 내 지면이 얼어붙어 이동 속도가 50% 느려지며, 위협적(Formidable) 비행 기술 판정에 실패한 비행 생명체는 지상으로 강제 착륙합니다. 지상에 있는 자들은 엎어지는 것을 방지하기 위해 매 라운드 운동(Athletics) 판정에 성공해야 하며, 걷기보다 빠르게 이동 중일 경우 난이도가 2단계 더 어려워집니다. 곡예(Acrobatics) 능력을 가진 캐릭터는 원할 경우 해당 기술로 대체할 수 있습니다. 얼음은 주변 온도에 따라 게임 마스터가 결정한 속도로 지속 시간이 종료된 후 녹습니다. 단, 따뜻한 날씨라도 최소 10분은 지속됩니다. 캠프파이어나 횃불 같은 작은 불은 자동으로 꺼집니다. 이 주문은 Heat Metal 주문의 효과를 무효화합니다.
 
 ---
 #### Identify (식별)
@@ -1518,31 +1509,31 @@ Ice Storm에는 주문 시전 시 선택하는 두 가지 효과가 있습니다
 | **등급:** 마법사 1 | **시전 시간:** 1분 |
 | **영역:** 보호 | **지속 시간:** 1분/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 시전자 | **저항:** 없음 |
+| **범위:** 시전자 | **저항:** 해당 없음 |
 
-이 주문을 시전하면 마법 사용자는 처리 중인 아이템이나 물체의 마법적 속성(있는 경우)을 식별할 수 있습니다. 단순히 물건을 만지는 것으로는 보통 충분하지 않으며, 아이템은 디자인에 맞게 착용하거나 쥐어야 합니다(예: 투구는 머리에 쓰고, 목걸이는 목에 걸고, 근접 무기는 단단히 쥐고, 반지는 손가락에 끼는 등). 아케인 시전 판정에 성공하면 후속 아케인 지식(Arcane Knowledge) 판정을 통해 아이템이 소유한 마법 속성 하나를 식별할 수 있습니다. 지속 시간 동안 1분마다 하나의 아케인 지식 시도를 할 수 있습니다. 속성이 활성화 단어를 요구하면 속성과 함께 식별됩니다. 충전이 있는 아이템은 현재 사용 가능한 합계와 정상적인 최대치를 드러내며 마법 포인트 매트릭스를 소유한 아이템도 마찬가지입니다.
+이 주문을 시전하면 마법사는 다루고 있는 아이템이나 물체의 마법적 속성(있는 경우)을 식별할 수 있습니다. 단순히 아이템을 만지는 것만으로는 충분하지 않으며, 투구는 머리에 쓰거나 부적은 목에 거는 등 디자인에 맞게 착용하거나 쥐고 있어야 합니다. 비전 시전(Arcane Casting) 판정이 성공하면 후속 비전 지식(Arcane Knowledge) 판정을 통해 아이템이 가진 마법적 속성 하나를 식별합니다. 지속 시간 동안 매분마다 비전 지식 시도를 한 번씩 할 수 있습니다. 속성에 활성화 단어가 필요한 경우, 속성과 함께 식별됩니다. 충전 횟수가 있는 아이템은 현재 사용 가능한 총량과 일반적인 최대치를 드러내며, 마법 포인트 매트릭스를 가진 아이템도 마찬가지입니다.
 
-저주받은 아이템은 일반적으로 장비를 처음 착용하거나 사용할 때 활성화되므로 이 주문을 시전하면 존재할 수 있는 저주의 효과를 마법 사용자가 겪게 됩니다. 아케인 시전 기술 판정이 성공하면 마법 사용자는 저주의 효과를 피하기 위해 의지력 판정을 할 수 있습니다. 이것이 물체에 걸린 저주를 해제하는 것은 아니지만, 캐스터가 영향을 받지 않고 아이템을 제거할 수 있게 합니다.
+저주받은 아이템은 일반적으로 장비를 처음 착용하거나 사용할 때 활성화됩니다. 따라서 이 주문을 시전하면 마법사가 저주가 존재할 경우 그 효과를 받게 됩니다. 비전 시전 기술 판정이 성공하면 마법사는 저주 효과를 피하기 위해 의지력 테스트를 할 수 있습니다. 이것이 물체의 저주를 푸는 것은 아니지만, 시전자가 영향을 받지 않고 아이템을 제거할 수 있게 합니다.
 
-최소 100GP 가치의 진주를 가루로 만들어 다른 일상적인 주문 구성 요소와 함께 이 주문을 시전하는 데 소비합니다. 행운의 돌(Luckstone)을 가루로 만들어 주입하면 아케인 시전 판정의 난이도가 정상이 되며, 지속 시간 내내 1분마다 취급하는 모든 아이템의 모든 마법 속성을 추가 판정 없이 자동으로 배울 수 있습니다.
+최소 100GP 가치의 진주를 가루로 만들어 다른 일상적인 주문 재료와 함께 소비해야 합니다. 행운의 돌(Luckstone)을 가루로 만들어 주입물에 추가하면 비전 시전 판정 난이도가 정상으로 되며, 주문 지속 시간 동안 매분마다 다룬 모든 아이템의 모든 마법적 속성이 추가 판정 없이 자동으로 학습됩니다.
 
 ---
-#### Ignite \(R\) (점화)
+#### Ignite (발화) \(R\)
 
-(변형)
+(변환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 원소(불) | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 10피트 |
-| **범위:** 작은 불 1개 | **저항:** 없음 |
+| **범위:** 작은 불 1개 | **저항:** 해당 없음 |
 
-이 주문은 Ignite(점화) 또는 Extinguish(진화) 두 가지 개별적인 방식으로 사용될 수 있습니다. 무엇을 할지는 시전 시 선택합니다.
+이 주문은 발화(Ignite) 또는 소화(Extinguish) 두 가지 방식으로 사용할 수 있습니다. 시전 시 선택해야 합니다.
 
-Ignite는 인화성 무기물에만 작용하여 작은 물체나 손 크기의 영역이 불타오르게 합니다. 무엇을 불태웠는지에 따라 일단 타기 시작하면 끄거나 어떻게든 대응하지 않으면 불꽃이 퍼질 수 있습니다. 이 주문은 일반적으로 멀리서 양초, 횃불 또는 등불을 켜는 데 사용됩니다. 또한 습한 땔감이나 강풍 속에서도 캠프파이어나 요리용 불을 시작하는 데 사용할 수 있습니다.
+Ignite는 불에 타는 무기물에만 작용하며, 작은 물체나 손 크기의 영역을 불태웁니다. 무엇에 불을 붙였는지에 따라, 일단 타기 시작하면 끄거나 다른 방법으로 저지하지 않는 한 불길이 번질 수 있습니다. 이 주문은 일반적으로 멀리서 양초, 횃불, 랜턴에 불을 붙이는 데 사용됩니다. 또한 습한 땔감을 사용하거나 강풍이 부는 등 불리한 조건에서 캠프파이어나 요리용 불을 시작하는 데도 사용할 수 있습니다.
 
-Extinguish는 불꽃과 작은 불의 적당한 크기와 열기를 즉시 끕니다. 양초, 등불, 횃불 또는 작은 요리용 불을 끄는 데 유용하지만, 장작더미, 타오르는 집 또는 용의 불길과 같은 더 크고 맹렬한 대화재에는 작동하지 않습니다.
+Extinguish는 적당한 크기와 열을 가진 작은 불꽃과 작은 불을 즉시 끕니다. 양초, 랜턴, 횃불 또는 작은 요리용 불을 끄는 데 유용하지만, 마법적인 불이나 장작더미, 불타는 집, 용의 불꽃처럼 더 거대하고 맹렬한 화재에는 효과가 없습니다.
 
 ---
 #### Illusion (환영)
@@ -1551,134 +1542,131 @@ Extinguish는 불꽃과 작은 불의 적당한 크기와 열기를 즉시 끕�
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 집중; 아래 참조 |
 | **비용:** 1/강도 | **사거리:** 100피트/강도 |
 | **범위:** 50피트 반경/강도 | **저항:** 불신 |
 
-이 주문은 시전자가 원하는 무엇이든 시각적 환영을 생성합니다. 소리, 냄새, 온도, 질감 등을 생성하지 않아 다른 감각에는 영향을 주지 않습니다.
+이 주문은 시전자가 원하는 무엇이든 시각적 환영을 생성합니다. 소리, 냄새, 온도, 질감 등 다른 감각에는 영향을 주지 않습니다.
 
-이 환영은 범위 내에 들어갈 수 있다면 열린 초원부터 고대 붉은 용까지 무엇이든 될 수 있습니다. 이 환영은 시전자가 집중하는 동안에만 지속되며, 적이 그것을 만지거나 진입하면 이를 유지하는 마법이 풀리고 환영이 소산됩니다. 그러나 시전자는 1 마법 포인트를 소비하고 의심을 일으키지 않도록 접촉에 적절히 반응하도록 지시함으로써 물리적 접촉 후에도 환영을 유지할 수 있습니다. 예를 들어, 일반적인 상황에서 오우거 환영은 화살에 맞으면 사라지지만, 시전자는 화살에 맞고도 어깨를 으쓱하며 공격자에게 돌격하는 것처럼 보이게 할 수 있습니다. 실제 화살은 환영에 의해 멈추지 않으며 환영 뒤에 있는 대상에게 맞을 수 있음을 유의하십시오.
+이 환영은 주문 범위 안에 들어온다면 탁 트인 초원부터 고대의 적룡까지 무엇이든 될 수 있습니다. 환영은 시전자가 집중을 유지하는 동안 또는 적이 그것을 만지거나 들어갈 때까지만 지속됩니다. 그렇게 되면 유지하던 마법이 풀리면서 환영이 사라집니다. 그러나 시전자는 마법 포인트 1을 소모하고 접촉에 적절하게 반응하도록 유도함으로써 신체적 접촉 후에도 환영을 유지하여 의심을 사지 않게 할 수 있습니다. 예를 들어, 일반적인 상황에서는 오우거의 환영은 화살에 맞으면 사라지겠지만, 시전자가 마법 포인트 1을 소모하면 오우거가 화살을 털어내고 공격자에게 돌진하는 것처럼 보이게 할 수 있습니다. 실제 화살은 환영에 의해 멈추지 않으며 환영 뒤에 있는 대상에게 적중할 수 있음에 유의해야 합니다.
 
-환영에 의해 실제 피해를 줄 수도 없고 온도가 생성될 수도 없지만, 마음은 고통을 느끼거나 부상의 효과를 겪거나 극단적인 열기나 냉기를 느끼는 것처럼 납득할 수 있습니다. 그러나 시전자가 그러한 효과에도 집중하지 않는 한 물체가 얼거나 연소하는 것처럼 보이지는 않습니다. 일단 주문이 시전되면 마법 사용자는 원하는 효과에 집중하여 시각적 효과를 마음대로 추가할 수 있습니다. 이는 보통 시간이 걸리지 않으며 자유 행동(Free Action)으로 처리할 수 있습니다. 예를 들어, 시전자가 떨어뜨린 환영 횃불이 마른 잎에 불이 붙은 것처럼 보이게 하려면 자유 행동으로 집중하여 그렇게 할 수 있습니다.
+환영으로 인해 실제 피해를 입히거나 온도를 생성할 수는 없지만, 마음은 고통을 느끼거나 부상의 효과를 겪거나 극심한 더위나 추위를 느끼고 있다고 확신할 수 있습니다. 그러나 시전자가 이런 효과에 집중하지 않는 한 물체가 얼어붙거나 연소되는 것처럼 보이지는 않습니다. 주문이 시전되면 마법사는 원하는 효과에 집중하여 추가적인 시각 효과를 자유롭게 추가할 수 있습니다. 이는 일반적으로 시간이 걸리지 않으며 자유 행동(Free Action)으로 처리할 수 있습니다. 예를 들어, 시전자가 떨어뜨린 환영 횃불이 마른 잎에 불이 붙은 것처럼 보이게 하고 싶다면 자유 행동으로 집중하여 그렇게 할 수 있습니다.
 
-자세한 내용은 [환영과 환상](0009_Magic.md?id=illusions-and-phantasms) 챕터를 참조하십시오.
+더 자세한 정보는 [환영과 환상](0009_Magic.md?id=illusions-and-phantasms) 장을 참조하십시오.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변수 효과 |
 | :-: | :-: | :-- |
 | 1 | 1 | 50피트 반경; 100피트 사거리 |
 | 2 | 2 | 100피트 반경; 200피트 사거리 |
 | 3 | 3 | 150피트 반경; 300피트 사거리 |
 | 4 | 4 | 200피트 반경; 400피트 사거리 |
-| +1 | +1 | 단계별 진행 |
+| +1 | +1 | 진행 단계 계속 |
 
 ---
-#### Invisibility (투명)
+#### Invisibility (투명화)
 
 (환영)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 6시간/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **범위:** 대상 1명 | **저항:** 해당 없음 |
 
-이 주문을 시전하면 대상과 운반하는 장비가 일반 시야에서 사라져 보이지 않게 됩니다. 그러나 이것이 청각, 촉각, 후각 등 다른 수단으로 개인을 감지할 수 없게 되거나 생명 감지나 소나와 같은 타고난 능력으로 감지되는 것은 아닙니다.
+이 주문을 시전하면 대상과 휴대 장비가 사라지며, 모든 형태의 일반적인 시각으로 볼 수 없게 됩니다. 그러나 이것이 청각, 촉각, 후각 등 다른 수단이나 생명 감지(Life Sense) 또는 음파 탐지(Sonar) 같은 자연적 능력으로 대상이 감지되지 않게 하는 것은 아닙니다.
 
-투명 효과 하에 있는 자들은 주문 해제되거나 공격을 수행하지 않는 한 주문의 지속 시간(최대 24시간) 동안 유지되며, 공격 시 주문은 무효화되고 공격 _후_에 나타납니다. 대상은 [기습](0008_Combat.md?id=surprise) 효과 하에 있는 것으로 간주됩니다. 다른 행동은 주문 지속 시간에 부정적인 영향을 미치지 않으므로 대상은 문을 열고, 이야기하고, 오르고, 달리고, 소매치기하는 등의 행동을 할 수 있습니다. 주문을 시전하는 것조차 전투에서 특정 적에게 부정적인 영향을 미치지 않는 한 지속 시간을 끝내지 않습니다. 이전에 언급된 많은 행동은 근처를 뛰는 누군가를 듣는 지각 판정이나 소매치기 당하는 느낌 등 다른 감지 수단을 허용할 수 있습니다. 게임 마스터는 감지 시도자에게 얼마나 눈에 띄는지에 따라 페널티나 보너스를 할당합니다.
+Invisibility 효과를 받는 자들은 주문이 해제되거나 대상이 공격을 가하지 않는 한(공격 시 주문은 무효화되며 공격 _후_ 개인이 다시 나타남), 주문 지속 시간(최대 24시간) 동안 투명 상태를 유지합니다. 대상은 [기습](0008_Combat.md?id=surprise) 효과를 받는 것으로 간주됩니다. 다른 행동은 주문의 지속 시간에 부정적인 영향을 주지 않으므로, 대상은 문을 열거나, 대화하거나, 기어오르거나, 달리거나, 소매치기를 하는 등의 행동을 할 수 있습니다. 심지어 주문 시전도 전투 중 특정 적에게 부정적인 영향을 주지 않는 한 지속 시간을 끝내지 않습니다. 앞서 언급한 많은 행동은 누군가 지나가는 소리를 듣거나 소매치기를 당하는 것을 느끼는 등 다른 감지 수단을 허용할 수 있습니다. 게임 마스터는 감지 시도자에게 눈에 띄는 정도에 따라 페널티나 보너스를 할당합니다.
 
 ---
-#### Invisibility, 10 ft. Radius (10피트 반경 투명)
+#### Invisibility, 10 ft. Radius (투명화, 10피트 반경)
 
 (환영)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 2행동 |
+| **등급:** 마법사 2 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 6시간/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상, 10피트 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **범위:** 대상 1명, 10피트 | **저항:** 해당 없음 |
 
-이 주문은 [Invisibility](0010_Spells.md?id=invisibility) 주문과 동일하게 기능합니다. 그러나 주문 시전 시 수혜자(시전자 자신일 수 있음)의 10피트 내에 있는 모든 개인도 투명해집니다. 투명화된 자들은 서로를 볼 수 있지만 다른 투명한 생물을 보는 능력을 부여하지는 않습니다. 범위 밖으로 나가면 투명함이 사라지므로 원래 대상의 범위 내에 머물도록 주의해야 합니다. 투명함이 사라진 후 다시 범위로 들어오거나 처음에 없었던 자들은 효과를 받지 못합니다. 원래 대상 이외의 사람이 수행한 투명함 보호 상태에서의 공격(공격 주문 포함)은 해당 사람의 투명함을 해제하지만 영역 내 다른 캐릭터에게는 영향을 미치지 않습니다. 그러나 주문의 원래 수혜자가 수행한 공격은 모두를 다시 보이게 합니다. 자세한 내용은 기본 [Invisibility](0010_Spells.md?id=invisibility) 주문을 참조하십시오.
+이 주문은 [Invisibility](0010_Spells.md?id=invisibility) 주문과 동일하게 작동합니다. 단, 주문 시전 시 수혜자(시전자 자신일 수 있음)의 10피트 이내에 있는 모든 개인도 투명해집니다. 주문 효과를 받는 자들은 서로를 볼 수 있지만, 그렇다고 다른 투명한 생명체를 볼 수 있는 능력은 주어지지 않습니다. 효과 범위 밖으로 나가면 투명화가 해제되므로, 원 대상의 사거리 내에 모두를 유지하도록 주의해야 합니다. 투명화가 해제된 후 효과 범위 안으로 다시 들어오거나 시전 시 현장에 없었던 자들은 이 주문의 혜택을 받지 못합니다. 원 대상을 제외한 누군가에 의한 공격적인 주문 시전을 포함하여, 투명화 보호 하에서 이루어진 공격은 해당 개인의 투명화를 방해하지만 범위 내의 다른 캐릭터들에게는 아무런 영향을 미치지 않습니다. 그러나 주문의 원 수혜자가 공격을 하면 모두가 다시 보이게 됩니다. 자세한 내용은 기본 [Invisibility](0010_Spells.md?id=invisibility) 주문을 참조하십시오.
 
 ---
-#### Invisibility, Greater (상급 투명)
+#### Invisibility, Greater (상급 투명화)
 
 (환영)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
+| **등급:** 마법사 3 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 3라운드/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **범위:** 대상 1명 | **저항:** 해당 없음 |
 
-이 주문은 기본 [Invisibility](0010_Spells.md?id=invisibility) 주문과 동일하게 기능합니다. 그러나 대상이 취한 어떤 행동도 지속 시간을 일찍 끝내지 않습니다. 대상은 근접 또는 원거리 공격을 하거나 주문을 시전할 수 있습니다. 행동이 발생했다는 시각적 단서(예: 시각적 왜곡)가 있음을 유의하십시오. 이를 통해 대상의 시야에 있는 사람은 행동이 취해진 후(행동이 지연된 캐릭터인 경우 그 전)에 어려운(Formidable) 지각 판정을 하여 투명한 공격자의 위치를 알아낼 수 있습니다. 투명한 사람의 위치를 알아낸 자들은 대상이 행동한 라운드에 어려운 난이도로 공격할 수 있습니다. 자세한 내용은 [Invisibility](0010_Spells.md?id=invisibility) 주문을 참조하십시오.
+이 주문은 기본 [Invisibility](0010_Spells.md?id=invisibility) 주문과 동일하게 작동합니다. 단, 대상이 어떤 행동을 하더라도 지속 시간이 일찍 종료되지 않습니다. 대상은 근접 또는 원거리 공격을 하거나 주문을 시전하는 등의 행동을 할 수 있습니다. 시각적 왜곡과 같이 행동이 발생했음을 알리는 가시적인 단서가 있다는 점에 유의하십시오. 이를 통해 대상에 대한 시선을 확보한 누구나 행동이 취해진 후(행동이 지연된 경우 행동 전에도 가능) 위협적인(Formidable) 지각 판정을 하여 투명한 공격자의 위치를 파악할 수 있습니다. 투명한 사람의 위치를 파악한 자들은 대상이 행동한 동일 라운드에 1단계 난이도로 공격할 수 있습니다. 자세한 내용은 [Invisibility](0010_Spells.md?id=invisibility) 주문을 참조하십시오.
 
 ---
 #### Ironhand (강철 손)
 
-(보호)
+(방어)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0 | **시전 시간:** 1행동 |
+| **등급:** 성직자 0 | **시전 시간:** 1 행동 |
 | **영역:** 보호 | **지속 시간:** 10분 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **범위:** 대상 1명 | **저항:** 없음 |
 
-Ironhand는 수혜자가 그렇지 않으면 피해를 입힐 물건(매우 뜨겁거나 차가운 것, 산을 방울지게 하는 것 등)을 부상을 입지 않고 쥘 수 있게 합니다. 따라서 사용자는 불에서 막대기를 잡거나, 꼬챙이에서 끓는 가마솥을 들어 올리거나, 심지어 증기 통풍구에 손을 넣어 반대편에 있는 물건을 잡을 수도 있습니다. 완전한 피해 면역을 부여하는 것이 아니라 수혜자의 손 피부를 통해 전달되는 것을 막을 뿐입니다. 주문은 손에 착용한 것(반지, 장갑 등)은 보호하지 않으므로 원천의 영향을 받습니다.
-
----
-#### Knock \(R\) (개방)
+Ironhand는 수혜자가 부상을 입힐 수 있는 물체(극도로 뜨겁거나 차가운 물체, 또는 산이 떨어지는 물체)를 다쳐도 해를 입지 않고 잡을 수 있게 합니다. 따라서 사용자는 불에서 타는 장작을 쥐거나, 꼬치에서 끓는 솥을 들어 올리거나, 스팀 통풍구에 손을 넣어 반대편에 있는 물체를 집을 수도 있습니다. 이는 총 피해 면역을 부여하는 것이 아니라 수혜자의 손 피부를 통해 전달되는 것을 막아줄 뿐입니다. 이 주문은 손에 착용한 것들을 보호하지 않으므로 반지, 장갑 등은 그 근원의 영향을 받게 됩니다.#### 녹(Knock) (R)
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 1행동 |
+| **등급:** 마법사 2 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
 | **비용:** 1/강도 | **사거리:** 180피트 |
-| **범위:** 1 포털 | **저항:** 없음 |
+| **영역:** 문 1개 | **저항:** 없음 |
 
-이 주문은 자물쇠가 있거나 막혔거나 Hold, Mage Lock 주문에 걸린 목재, 석재 또는 금속 문이나 기타 유사한 개구부를 여는 데 사용될 수 있습니다. 쇠창살이나 문에는 효과가 없습니다. 문은 강도 수준당 최대 25 히트 포인트까지 가질 수 있으며, 잠긴 상자나 상자, 비밀 문, 심지어 족쇄와 사슬도 포함됩니다. 이전에 용접된 개구부라도 결속이 깨집니다. Knock을 시전하면 최대 두 개의 측면이 영향을 받을 수 있습니다. 예를 들어 빗장이 걸리고 잠기고 Held된 문은 Knock 주문 2회가 필요합니다. Mage Locked 문의 경우 마법적 잠금이 시전 후 10분 동안 일시 중단된 후 마법적 잠금 상태로 돌아갑니다.
+이 주문은 잠겨 있거나, 끼어 있거나, 붙잡혔거나(Held), 마법으로 잠긴(Mage Locked) 목재, 석재 또는 금속제 문이나 유사한 개구부를 여는 데 사용할 수 있습니다. 격자문(portcullis)이나 성문에는 아무런 효과가 없습니다. 문은 강도 1당 최대 25의 히트 포인트를 가질 수 있으며, 잠긴 상자나 보관함, 비밀의 문, 심지어 족쇄와 사슬까지 포함할 수 있습니다. 심지어 용접되어 닫힌 개구부도 결속이 풀리며 열립니다. 녹(Knock) 주문을 시전하여 영향을 받을 수 있는 측면은 최대 두 가지입니다. 예를 들어, 빗장이 걸려 있고, 잠겨 있고, 붙잡힌(Held) 문을 열려면 녹 주문을 2번 시전해야 합니다. 마법으로 잠긴(Mage Locked) 문에 대해서는 해당 마법이 10분 동안 일시적으로 정지되며, 그 후 다시 마법적으로 잠긴 상태로 돌아갑니다.
 
-이 주문의 역주문인 Lock은 잠금 메커니즘이 있다고 가정할 때 위와 같은 개구부를 닫고 잠급니다. 잠금, 볼트, 빗장 등 최대 두 가지 기능을 설정할 수 있습니다.
+이 주문을 반전시키면 락(Lock)이 되며, 잠금 장치가 있는 경우 문 하나를 닫고 잠급니다. 잠그기, 볼트 고정, 빗장 걸기 등 최대 두 가지 기능을 설정할 수 있습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 최대 25 HP 포털; 족쇄, 자물쇠, 일반적인 나무 상자나 문 |
-| 2 | 2 | 최대 50 HP 포털; 강화된 나무 상자나 문 |
-| 3 | 3 | 최대 75 HP 포털; 철 상자나 문 |
+| 1 | 1 | 최대 25 HP의 문; 족쇄, 자물쇠, 일반적인 목재 상자나 문 |
+| 2 | 2 | 최대 50 HP의 문; 보강된 목재 상자나 문 |
+| 3 | 3 | 최대 75 HP의 문; 철제 상자나 문 |
 
 ---
-#### Know Alignment \(R\) (정렬 식별)
+#### 정렬 탐지(Know Alignment) (R)
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1, 마법사 2 | **시전 시간:** 1행동 |
+| **등급:** 성직자 1, 마법사 2 | **시전 시간:** 1 행동 |
 | **영역:** 점술 | **지속 시간:** 1라운드/강도 |
 | **비용:** 1/강도 | **사거리:** 30피트 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **영역:** 대상 1명 | **저항:** 영력 |
 
-이 주문을 사용하면 시전자는 저항할 기회가 있는 한 생물의 정렬과 열정을 판별할 수 있습니다. 저항 판정에 실패하면 시전자는 대상의 질서, 중립, 혼돈에 대한 윤리적 코드를 신성하게 알아낼 수 있습니다. 대상의 선, 중립, 악에 대한 도덕적 정렬을 판별하려면 추가 라운드 동안 집중해야 합니다. 이 이후의 각 라운드는 무작위로 남은 열정 하나를 식별합니다. 게임 마스터는 다음 표에 따라 대상의 발견된 정렬과 열정의 '강도'를 공개합니다.
+이 주문을 시전하면 대상 생명체 한 명의 정렬(Alignment)과 열정(Passion)을 식별할 수 있으며, 대상은 저항 굴림을 할 수 있습니다. 저항 굴림에 실패하면 시전자는 대상이 지닌 질서, 중립, 혼돈에 관한 윤리 강령을 간파합니다. 선, 중립, 악에 관한 대상의 도덕적 정렬을 식별하려면 1라운드를 더 집중해야 합니다. 그 이후로 매 추가 라운드마다 남아 있는 무작위 열정 한 가지를 추가로 식별할 수 있습니다. 게임 마스터는 다음 표에 따라 발견된 대상의 정렬 및 열정의 '강도'를 알려줍니다.
 
 **정렬/열정 강도 표**
 
 | 백분율 | 강도 |
 | :-: | :-- |
 | 01-29% | 약함 |
-| 30-69% | 평균 |
+| 30-69% | 보통 |
 | 70-99% | 강함 |
 | 100% + | 매우 강함 |
 
-이 주문의 역인 Obscure Alignment는 Know Alignment 또는 Detect Evil/Good을 시전하더라도 24시간 동안 대상의 정렬과 열정을 읽을 수 없게 만듭니다.
+이 주문의 반전인 정렬 은폐(Obscure Alignment)는 대상의 정렬과 열정을 24시간 동안 정렬 탐지나 악/선 탐지 주문으로도 읽을 수 없게 만듭니다.
 
 ---
-#### Know Languages \(R\) (언어 식별)
+#### 언어 이해(Know Languages) (R)
 
 (변형)
 
@@ -1687,75 +1675,75 @@ Ironhand는 수혜자가 그렇지 않으면 피해를 입힐 물건(매우 뜨�
 | **등급:** 마법사 1 | **시전 시간:** 1분 |
 | **영역:** 없음 | **지속 시간:** 5분/강도 |
 | **비용:** 1/강도 | **사거리:** 접촉 |
-| **범위:** 1 지성 있는 존재 | **저항:** 없음 |
+| **영역:** 지성체 1명 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자는 비마법적인 언어를 거의 모두 이해하고 읽을 수 있습니다. 비지성 동물이나 생물의 '언어'는 이해되지 않으며 오직 지성 있는 존재들의 언어만 이해됩니다. 마법 사용자는 의미를 이해하기 위해 물체나 생물을 접촉해야 합니다. 이 주문은 해당 언어를 말하거나 쓸 수 있는 능력을 주지 않습니다.
+이 주문을 시전하면 시전자는 마법이 아닌 거의 모든 언어를 이해하고 읽을 수 있게 됩니다. 지성이 없는 동물이나 생명체의 '말'은 이해할 수 없으며, 지성체의 진정한 언어만 이해할 수 있습니다. 마법 사용자는 물체나 생명체를 만져야 그 의미를 파악할 수 있습니다. 이 주문은 해당 언어를 말하거나 쓸 수 있는 능력은 부여하지 않습니다.
 
-이 주문의 역인 Confuse Languages는 생물의 말을 누구에게나 이해할 수 없게 하거나 기록된 텍스트를 해독할 수 없게 만듭니다. 이 역주문은 Know Languages가 시전되는 동안 이를 카운터하는 데 사용할 수도 있습니다.
+이 주문의 반전인 언어 혼란(Confuse Languages)은 생명체의 말을 누구도 알아들을 수 없게 하거나, 적힌 글을 해독할 수 없게 만듭니다. 이 반전 주문은 언어 이해 주문이 시전되는 도중에 대항 주문으로도 사용할 수 있습니다.
 
 ---
-#### Levitate (부유)
+#### 공중 부양(Levitate)
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 10분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 60피트/강도 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 60피트/강도 |
+| **영역:** 대상 1명 | **저항:** 영력 |
 
-이 주문을 시전하면 마법 사용자는 자신, 대상, 생물 또는 물체(SIZ 20 이하, 추가 강도마다 +10 SIZ)를 지정하여 지면 위로 부양시킬 수 있습니다. 시전자 이외의 생물은 라운드당 5피트의 수직 속도로 이동할 수 있으며 자신에게 시전할 경우 라운드당 최대 10피트까지 수직으로 이동할 수 있습니다. 부유는 고도를 변경할 때를 제외하고는 시전자의 집중을 요구하지 않습니다. 원치 않는 대상에게 시전하면 대상은 저항 판정을 할 수 있습니다. 이 주문의 수혜자는 어떤 형태의 수평 이동도 부여받지 않지만 손이 닿는 곳에 있다면 벽이나 절벽을 따라 스스로 당길 수는 있습니다. 시전자는 원할 때 주문을 끝낼 수 있습니다.
+이 주문을 시전하면 마법 사용자 본인, 대상 한 명, 생명체 또는 크기(크기) 20 이하(추가 강도당 크기 +10)인 물체를 지정하여 지면에서 띄울 수 있습니다. 시전자 이외의 생명체는 전투 라운드당 5피트 속도로 수직 이동할 수 있으며, 자신에게 시전할 경우 라운드당 최대 10피트까지 수직 이동할 수 있습니다. 공중 부양은 고도를 변경할 때를 제외하고는 시전자의 집중을 필요로 하지 않습니다. 원치 않는 대상에게 사용할 경우, 대상은 저항 굴림을 할 수 있습니다. 이 주문의 대상은 수평 이동 능력을 얻지는 못하지만, 손이 닿는 거리 내에 벽이나 절벽이 있다면 그것을 잡고 당겨 이동할 수 있습니다. 시전자는 원할 때 언제든 주문을 종료할 수 있습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 10분; 60피트 사거리; 20 SIZ |
-| 2 | 4 | 20분; 120피트 사거리; 30 SIZ |
-| 3 | 5 | 30분; 180피트 사거리; 40 SIZ |
-| 4 | 6 | 40분; 240피트 사거리; 50 SIZ |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 10분; 60피트 사거리; 크기 20 |
+| 2 | 4 | 20분; 120피트 사거리; 크기 30 |
+| 3 | 5 | 30분; 180피트 사거리; 크기 40 |
+| 4 | 6 | 40분; 240피트 사거리; 크기 50 |
+| +1 | +1 | 진행 단계 지속 |
 
 ---
-#### Light  \(R\)* (빛)
+#### 빛(Light) (R)\*
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1, 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 성직자 1, 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 태양 | **지속 시간:** 1시간/강도 |
 | **비용:** 1/강도 | **사거리:** 180피트 |
-| **범위:** 20피트 반경/강도 | **저항:** 아래 참조 |
+| **영역:** 20피트 반경/강도 | **저항:** 아래 참조 |
 
-이 주문을 시전하면 빛의 구체가 시전자가 선택한 장소(물체일 수도 있고 허공일 수도 있음)에 나타나며 언제든지 시전자가 해제할 수 있습니다. 주문은 강도당 1시간 동안 지속됩니다. 생물에게 시전하면 대상은 Willpower 저항 판정을 할 수 있으며 성공하면 주문이 생물 자체가 아닌 생물 바로 뒤의 영역에 영향을 미쳤음을 의미합니다. Light를 생물의 눈에 중심을 맞추면 의지력 판정 실패 시 주문 지속 시간과 같은 부분적 실명이 발생하며, 시력을 요구하는 모든 기술 및 저항 판정의 난이도가 한 등급씩 증가합니다. 주문의 효과는 고정되어 있지만 이동 가능한 물체에 시전할 수 있습니다.
+이 주문을 시전하면 시전자가 선택한 지점(물체 위나 허공)에 빛의 구체가 나타나며, 시전자는 언제든지 이를 해제할 수 있습니다. 주문의 지속 시간은 강도당 1시간입니다. 생명체에게 시전할 경우 대상은 저항을 위한 영력 테스트를 할 수 있으며, 성공하면 주문이 대상 본인이 아닌 대상 바로 뒤의 영역에 영향을 미칩니다. 빛을 생명체의 눈에 맞추었을 때 영력 굴림에 실패하면 주문의 지속 시간 동안 부분적 실명 상태가 되며, 시력을 필요로 하는 모든 기술 및 저항 굴림의 난이도가 한 단계 상승합니다. 주문의 효과는 움직이지 않지만, 휴대하거나 이동 가능한 물체에 시전할 수 있습니다.
 
-_* 이 주문의 신성 버전은 역으로 시전하여 완전하고도 철저한 어둠의 구체를 생성할 수 있으며, 이는 강도당 30분이라는 짧은 지속 시간을 제외하고 Arcane 주문 [Darkness](0010_Spells.md?id=darkness)와 모든 면에서 동일하게 작동합니다._
+*\*이 주문의 신성 버전은 반전시킬 수 있으며, 그럴 경우 완전히 캄캄한 어둠의 구체가 형성됩니다. 이는 아케인 주문인 [어둠(Darkness)](0010_Spells.md?id=darkness)과 모든 면에서 동일하게 작동하지만, 지속 시간이 강도당 30분으로 더 짧습니다.*
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 20피트 반경; 1시간 (역으로 시전 시 30분) |
-| 2 | 2 | 40피트 반경; 2시간 (역으로 시전 시 1시간) |
-| 3 | 3 | 60피트 반경; 3시간 (역으로 시전 시 1시간 30분) |
-| 4 | 4 | 80피트 반경; 4시간 (역으로 시전 시 2시간) |
-| +1 | +1 | 단계별 진행 |
+| 1 | 1 | 20피트 반경; 1시간 (반전 시 30분) |
+| 2 | 2 | 40피트 반경; 2시간 (반전 시 1시간) |
+| 3 | 3 | 60피트 반경; 3시간 (반전 시 1.5시간) |
+| 4 | 4 | 80피트 반경; 4시간 (반전 시 2시간) |
+| +1 | +1 | 진행 단계 지속 |
 
 ---
-#### Lightning Bolt (번개 화살)
+#### 번개 화살(Lightning Bolt)
 
-(창조)
+(소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 2행동 |
+| **등급:** 마법사 2 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 50피트/강도 |
-| **범위:** 10피트 너비 경로 | **저항:** 회피 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 50피트/강도 |
+| **영역:** 10피트 폭의 경로 | **저항:** 회피 |
 
-시전 1턴째에 마법사가 주문과 제스처를 시작하면 손가락 사이에 전하가 아크를 그리며 형성되기 시작합니다. 2턴째에 주문이 완료되면 마법사가 손가락 끝에서 10피트 너비 경로로 주문 사거리만큼 직선으로 번개 화살을 날립니다. 이 피해는 범위 내 모든 피해자에게 강도 2점당 1d6 피해를 입힙니다. 피해를 한 번 굴려 각 타격 위치에 적용하며 착용/자연 갑옷은 보호를 제공하지 않지만 마법 방어력 수치는 평소대로 피해를 줄입니다.
+시전 첫 번째 턴에 마법 사용자가 구두 영창과 손동작을 시작하면 손가락 사이로 전기 충전이 아크를 그리며 형성됩니다. 두 번째 턴에 영창이 완료되면 마법 사용자는 손가락 끝에서 번개를 발사하여 주문 사거리만큼 10피트 폭의 경로에 있는 모든 대상에게 직선으로 쏟아냅니다. 이 피해는 강도 2당 1d6(소수점 올림)이며, 영향 범위 내의 모든 피해자에게 적용됩니다. 피해량은 한 번 굴려 대상의 각 히트 로케이션에 적용하며, 착용한 갑옷이나 자연 갑옷은 보호를 제공하지 않지만 마법적 방어 포인트는 정상적으로 피해를 감소시킵니다.
 
-회피 판정에 성공하여 스스로 엎드리면 피해를 입지 않습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있지만, 이 경우 범위 가장자리에서 5피트 이내에 있지 않으면 피해가 절반으로 줄어들 뿐입니다.
+회피 굴림에 성공하여 엎드리면 피해를 입지 않습니다. '재치 있는 회피(Artful Dodger)' 능력이 있는 사람은 엎드리지 않고도 회피할 수 있는 선택지가 있지만, 이 경우 성공하더라도 영향 범위 가장자리 5피트 이내에 있지 않는 한 피해는 절반으로만 감소합니다.
 
-번개는 굴린 피해 x 1%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오. 번개는 충격으로 무생물을 부수거나 파괴할 수도 있습니다.
+번개는 굴린 피해량 x 1%의 확률로 가연성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불(Fires)](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오. 번개는 또한 순수한 충격으로 무생물을 산산조각 내거나 파괴할 수 있습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
@@ -1765,23 +1753,23 @@ _* 이 주문의 신성 버전은 역으로 시전하여 완전하고도 철저�
 | 4 | 6 | 200피트 사거리; 2d6 피해 |
 | 5 | 7 | 250피트 사거리; 3d6 피해 |
 | 6 | 8 | 300피트 사거리; 3d6 피해 |
-| +1 | +1 | 단계별 진행 |
+| +1 | +1 | 진행 단계 지속 |
 
 ---
-#### Locate Object \(R\) (물건 찾기)
+#### 물체 위치 탐색(Locate Object) (R)
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2, 마법사 2 | **시전 시간:** 1행동 |
+| **등급:** 성직자 2, 마법사 2 | **시전 시간:** 1 행동 |
 | **영역:** 점술 | **지속 시간:** 1분/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 60피트/강도 | **저항:** 해당 없음 |
+| **영역:** 60피트/강도 | **저항:** 없음 |
 
-Locate Object를 시전하면 시전자는 알고 있거나 익숙한 아이템으로 안내받으며, 시전자가 서서 천천히 돌 때 물체까지의 방향을 감지합니다. 그러나 물체는 주문의 효과 범위 내에 있어야 합니다. 물체는 침대, 상자, 계단, 금 등과 같은 일반적인 물건일 수 있으며 주문은 가장 가까운 물체 표현으로 시전자를 안내합니다. 반면에 타샤나의 긴 검과 같이 특정 아이템은 30피트 이내에서 직접 보았거나 마법적 수단을 통해 정확한 정신적 이미지를 가지고 있어야 합니다. 따라서 시전자가 익숙하지 않은 개인적 또는 고유한 아이템은 이 주문을 사용하여 찾을 수 없습니다. 이 주문은 생물(살아있든 죽었든)을 찾을 수 없습니다.
+물체 위치 탐색을 시전하면 시전자는 알려져 있거나 익숙한 아이템이 있는 방향을 감지하며, 시전자가 서서 천천히 돌면 방향을 찾을 수 있습니다. 단, 물체는 주문의 영향 범위 내에 있어야 합니다. 물체는 침대, 상자, 계단, 금 같은 일반적인 항목일 수 있으며, 주문은 시전자를 해당 물체가 있는 가장 가까운 곳으로 인도합니다. 반면 '타샤나의 롱소드'와 같은 특정 아이템은 시전자가 직접 30피트 이내에서 보았거나 마법적인 수단을 통해 정확한 심상을 가지고 있어야 합니다. 따라서 시전자에게 익숙하지 않은 개인적 또는 고유한 아이템은 이 주문으로 찾을 수 없습니다. 이 주문은 살아있는 생명체나 죽은 생명체를 찾을 수 없습니다.
 
-이 주문의 역인 Obscure Object는 수정구, Detect Magic 등 마법적 수단에 의한 감지로부터 아이템 하나를 동일한 지속 시간 동안 숨깁니다.
+이 주문의 반전인 물체 은폐(Obscure Object)는 크리스탈 구슬이나 마법 탐지 등 마법적 수단으로부터 아이템 하나를 같은 지속 시간 동안 탐지 불가능하게 만듭니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
@@ -1789,58 +1777,58 @@ Locate Object를 시전하면 시전자는 알고 있거나 익숙한 아이템�
 | 2 | 2 | 2분; 120피트 반경 |
 | 3 | 3 | 3분; 180피트 반경 |
 | 4 | 4 | 4분; 240피트 반경 |
-| +1 | +1 | 단계별 진행 |
+| +1 | +1 | 진행 단계 지속 |
 
 ---
-#### Mage Lock (마법 자물쇠)
+#### 마법 봉인(Mage Lock)
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 1행동 |
+| **등급:** 마법사 2 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 포털 | **저항:** 해당 없음 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 접촉 |
+| **영역:** 문 1개 | **저항:** 없음 |
 
-이 주문은 상자, 문, 포털 또는 잠글 수 있는 고서와 같이 잠글 수 있는 물체에 시전할 수 있습니다. 강도당 최대 25 히트 포인트까지 가진 이 물체는 부수지 않는 한 영구적으로 봉인됩니다. 주문 규모보다 큰 강도로 Dispel Magic을 시전하면 1라운드 동안만 열리며, Knock은 마법적으로 잠긴 문을 10분 동안 일시적으로 여는 데 사용할 수 있으며 그 후 원래 주문이 계속됩니다. 마지막으로 원래 시전자보다 높은 등급의 마법사는 인챈트를 깨지 않고 Mage Locked 문을 자유롭게 통과할 수 있으며 다른 사람을 위해 포털을 잡고 있을 수도 있습니다. Secure Portal과 달리 Mage Locked 물체는 악마, 마귀, 천사, 정령과 같은 물질적 차원 너머의 존재나 물질 통과 주문을 사용하는 존재에 의해 자동으로 중단되지 않습니다.
+이 주문은 상자, 문, 통로, 심지어 잠글 수 있는 책 등 잠금이 가능한 모든 물체에 시전할 수 있습니다. 강도당 최대 25 히트 포인트까지의 물체는 부수어 열지 않는 한 영구적으로 봉인됩니다. 주문의 크기보다 높은 강도로 시전된 '마법 해제(Dispel Magic)'는 1라운드 동안만 문을 열 수 있게 하며, '녹(Knock)'을 사용하여 10분 동안 일시적으로 마법 봉인된 문을 열 수 있습니다. 그 시간이 지나면 원래의 주문이 다시 적용됩니다. 마지막으로, 원래 시전자의 등급보다 높은 등급의 마법 사용자는 마법 봉인을 깨지 않고도 마법 봉인된 문을 자유롭게 통과할 수 있으며, 다른 사람을 위해 문을 잡아줄 수도 있습니다. '안전한 통로(Secure Portal)'와 달리, 마법 봉인된 물체는 악마, 마귀, 천사, 정령과 같이 차원 너머의 존재나 물질 통과 주문을 사용하는 존재들에 의해 자동으로 방해받지 않습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 최대 25 HP 포털; 족쇄, 자물쇠, 일반적인 나무 상자나 문 |
-| 2 | 4 | 최대 50 HP 포털; 강화된 나무 상자나 문 |
-| 3 | 5 | 최대 75 HP 포털; 철 상자, 문 또는 쇠창살 |
-| 4 | 6 | 최대 120 HP 포털; 작은 성문 |
-| 5 | 7 | 최대 150 HP 포털; 크고 강화된 성문 |
+| 1 | 3 | 최대 25 HP의 문; 족쇄, 자물쇠, 일반적인 목재 상자나 문 |
+| 2 | 4 | 최대 50 HP의 문; 보강된 목재 상자나 문 |
+| 3 | 5 | 최대 75 HP의 문; 철제 상자, 문 또는 격자문 |
+| 4 | 6 | 최대 120 HP의 문; 소형 성문 |
+| 5 | 7 | 최대 150 HP의 문; 대형 보강 성문 |
 
 ---
-#### Magic Missile (마법 화살)
+#### 마법 화살(Magic Missile)
 
-(창조)
+(소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
 | **비용:** 1/강도 | **사거리:** 100피트/강도 |
-| **범위:** 1~5 대상 | **저항:** 아래 참조 |
+| **영역:** 1-5개 대상 | **저항:** 아래 참조 |
 
-이 주문을 시전하면 하나 이상의 마법 에너지 화살이 마법 사용자의 손끝에서 튀어나와 대상을 공격합니다. 생성될 수 있는 최대 화살 수는 마법사의 아케인 시전 기술 등급에 따라 다르며, 기술 60%에서 두 번째 화살, 70%에서 세 번째, 80%에서 네 번째, 90%에서 다섯 번째 마지막 화살이 생성됩니다. 이 화살들을 생성하려면 원하는 화살 수와 동일한 강도로 주문을 시전해야 합니다. 예를 들어 60% 미만에서 3 강도로 Magic Missile을 시전하는 마법사는 더 긴 사거리를 얻지만 단 하나의 화살만 생성됩니다. 기술 등급 70%의 마법사는 동일한 3 강도로 주문을 시전하여 동일한 사거리를 얻고 3개의 화살을 생성할 수 있습니다. 이 주문의 최대 강도는 5입니다. 아래 표를 참조하십시오.
+이 주문을 시전하면 하나 이상의 마법 에너지 화살이 마법 사용자의 손끝에서 튀어나와 대상을 타격합니다. 생성할 수 있는 화살의 최대 개수는 시전자의 '아케인 시전(Arcane Casting)' 기술 레벨에 기반하며, 60%에서 두 번째 화살, 70%에서 세 번째, 80%에서 네 번째, 90%에서 다섯 번째 화살이 생성됩니다. 이 화살들을 생성하려면 원하는 화살 개수와 동일한 강도로 주문을 시전해야 합니다. 예를 들어, 기술 레벨 60% 미만인 마법 사용자가 강도 3으로 마법 화살을 시전하면 사거리는 길어지지만 화살은 1개만 생성됩니다. 기술 레벨 70%의 마법 사용자는 같은 강도 3으로 시전하여 동일한 사거리를 얻고 3개의 화살을 생성할 수 있습니다. 이 주문의 최대 강도는 5입니다. 아래 표를 참조하십시오.
 
-Magic Missile은 대상이 근접 전투 중이거나 부분적인 엄폐 상태여도 반드시 맞습니다. 이 화살은 회피할 수 없습니다. 그러나 총 엄폐 상태의 상대는 이 주문으로 대상이 될 수 없습니다. Shield 주문은 대상이 시전자를 인지하고 있거나 마주하고 있다고 가정할 때 자동으로 Magic Missile을 방어합니다. Magic Missile은 1d6+1 피해를 입히며 착용 갑옷은 보호하지 않지만 생물의 자연 방어력이나 마법 방어력 수치는 평소대로 피해를 줄입니다. Magic Missile은 문, 자물쇠 등과 같은 무생물에는 아무런 피해도 주지 않습니다.
+마법 화살은 대상이 근접 전투 중이거나 부분 엄폐 상태여도 틀림없이 명중합니다. 이 화살은 회피할 수 없으나, 완전 엄폐 상태의 상대는 이 주문의 대상으로 지정할 수 없습니다. '보호(Shield)' 주문은 대상이 시전자를 인식하고 있거나 시전자를 향하고 있는 경우 마법 화살을 자동으로 튕겨냅니다. 마법 화살은 1d6+1의 피해를 입히며 착용한 갑옷은 보호를 제공하지 않지만, 생명체의 자연 갑옷이나 마법적 방어 포인트는 정상적으로 피해를 감소시킵니다. 마법 화살은 문이나 자물쇠와 같은 무생물에는 피해를 입히지 않습니다.
 
-여러 화살을 발사할 때 시전자는 단일 생물을 공격하거나 여러 생물을 대상으로 지정할 수 있습니다. 각 Magic Missile은 무작위 타격 위치를 때리며 특정 타격 위치를 대상으로 지정할 수 없습니다. 시전자는 피해를 굴리기 전에 각 화살의 개별 대상을 지정해야 합니다.
+여러 발의 화살을 발사할 때, 시전자는 화살을 단일 대상에게 집중하거나 여러 대상에게 분산할 수 있습니다. 각 마법 화살은 무작위 히트 로케이션을 타격하며 특정 부위를 지정할 수 없습니다. 시전자는 피해 굴림을 하기 전에 각 화살의 개별 대상을 지정해야 합니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 100피트 사거리; 1개 화살 |
-| 2 | 2 | 200피트 사거리; 60% 기술 시 2개 화살 |
-| 3 | 3 | 300피트 사거리; 70% 기술 시 3개 화살 |
-| 4 | 4 | 400피트 사거리; 80% 기술 시 4개 화살 |
-| 5(최대) | 5 | 500피트 사거리; 90% 기술 시 5개 화살 |
+| 1 | 1 | 100피트 사거리; 화살 1개 |
+| 2 | 2 | 200피트 사거리; 기술 60% 시 화살 2개 |
+| 3 | 3 | 300피트 사거리; 기술 70% 시 화살 3개 |
+| 4 | 4 | 400피트 사거리; 기술 80% 시 화살 4개 |
+| 5 최대 | 5 | 500피트 사거리; 기술 90% 시 화살 5개 |
 
 ---
-#### Magic Mouth (마법의 입)
+#### 마법의 입(Magic Mouth)
 
 (변형)
 
@@ -1848,370 +1836,365 @@ Magic Missile은 대상이 근접 전투 중이거나 부분적인 엄폐 상태
 | :-- | :-- |
 | **등급:** 마법사 2 | **시전 시간:** 1분 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 30피트 |
-| **범위:** 1 물체 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 30피트 |
+| **영역:** 물체 1개 | **저항:** 없음 |
 
-이 주문은 물건이나 물체에 입을 생성하며, 주문을 처음 시전할 때 시전자가 지정한 특정 사건이나 시간에 의해 트리거될 때 마법적으로 나타납니다. 이 입은 시전 시 선택한 미리 정의된 문구를 말합니다. 이 문구는 25단어 이내여야 하며 초당 약 1단어 속도로 입에서 말해집니다. 입은 권능의 말을 하거나 주문을 시전할 수 없습니다.
+이 주문은 물체나 사물에 입을 만들어내며, 마법 사용자가 주문을 시전할 때 지정한 특정 사건이나 시간이 되면 마법적으로 나타납니다. 그 후 입은 시전자가 시전 당시 정한 문구를 말합니다. 이 문구는 25단어 이내여야 하며, 초당 약 1단어의 속도로 말합니다. 입은 힘의 언어를 말하거나 주문을 시전할 수 없습니다.
 
-이 주문은 기둥, 나무, 석벽, 상자 등 일반적으로 움직이지 않는 모든 물체에 시전할 수 있지만, 석상 자체에 입이 달린 것처럼 보이기 때문에 석상에 시전할 때 특히 효과적입니다. 지능이나 본능이 있는 생물에는 시전할 수 없습니다. 이전에 살아있었던 생물도 포함됩니다. 이 주문을 시전할 때 마법 사용자는 인챈트를 활성화할 상황을 결정합니다. 말하는 단어에서 소음 생성까지 무엇이든 트리거되도록 설계할 수 있습니다. "다음 사람이 이 방에 들어오면..."처럼 일반적인 것부터 "토요일 복도 끝에 있는 동상 10피트 이내로 세도나의 여성 성직자가 오면..."처럼 구체적인 것까지 가능합니다. 트리거 효과는 투명 생물, 생물의 정렬, 기술, 등급 등 마법이 아닌 것으로 식별할 수 없는 것이어야 합니다. 그러나 착용 의복은 지정할 수 있습니다. 주문이 트리거될 수 있는 최대 거리는 강도당 25피트입니다.
+이 주문은 기둥, 나무, 돌벽, 상자 등 일반적으로 움직이지 않는 모든 물체에 시전할 수 있습니다. 특히 동상에 시전하면 동상이 직접 말하는 것처럼 보여 매우 효과적입니다. 지성이나 본능이 있는 생명체에게는 시전할 수 없으며, 이는 과거에 생명체였던 경우에도 적용됩니다. 마법 사용자는 주문을 시전할 때 인챈트를 활성화할 상황을 결정합니다. 말하는 단어부터 소리 발생까지 무엇이든 트리거로 설계할 수 있습니다. "다음 사람이 이 방에 들어올 때..."와 같은 일반적인 상황부터, "토요일에 복도 끝 동상 10피트 이내로 세도나의 여성 성직자가 다가올 때..."와 같은 구체적인 상황까지 가능합니다. 트리거 효과는 투명한 생명체나 생명체의 정렬, 기술, 클래스 등 마법 없이 식별할 수 없는 요소여서는 안 됩니다. 다만 착용한 의복은 지정할 수 있습니다. 주문이 트리거될 수 있는 최대 거리는 강도당 25피트입니다.
 
-이 주문의 지속 시간은 인챈트가 활성화될 때까지 영구적이며 그 후 주문이 종료됩니다.
+주문의 지속 시간은 인챈트가 활성화될 때까지 영구적이며, 활성화된 후 주문은 종료됩니다.
 
 ---
-#### Magic Tricks (마법 트릭)
+#### 마법 재주(Magic Tricks)
 
 (소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 집중 |
 | **비용:** 1 | **사거리:** 0 |
-| **범위:** 30피트 반경 | **저항:** 없음 |
+| **영역:** 30피트 반경 | **저항:** 없음 |
 
-Magic Tricks는 일반 민중, 억압받는 자들, 특히 아이들 사이에서 아주 좋은 오락거리입니다. 일반적으로 Magic Tricks로 생성되는 효과로는 촛불을 깜박이게 하는 미풍, 아이의 귀 뒤에서 은화 꺼내기, 꽃을 빠르게 피우기, 카드 마술, 어디서 나오는지 모를 으스스한 에테르 음악 생성 등이 있습니다. Magic Tricks는 전투에서 1점의 피해도 줄 수 없으며 어떤 방해도 줄 수 없지만 나머지 파티가 몰래 지나가는 동안 군중을 점유하는 데 사용할 수 있습니다.
+마법 재주는 서민과 억압받는 자들, 특히 아이들에게 매우 인기 있는 오락입니다. 마법 재주로 일반적으로 만들어내는 효과에는 촛불을 흔들거리는 바람, 아이 귀 뒤에서 은화 꺼내기, 꽃을 빠르게 피우기, 카드 마술, 어디선가 들려오는 기묘하고 천상의 음악 등이 포함됩니다. 마법 재주는 단 1점의 피해도 입힐 수 없고 전투 중에 그 어떤 방해도 할 수 없지만, 파티원들이 몰래 지나가는 동안 군중의 주의를 끄는 데 사용할 수 있습니다.
 
 ---
-#### Meteor Shower (유성우)
+#### 유성우(Meteor Shower)
 
-(창조)
+(소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 5 | **시전 시간:** 2행동 |
+| **등급:** 마법사 5 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
 | **비용:** 3/강도 | **사거리:** 20피트/강도 |
-| **범위:** 아래 참조 | **저항:** 회피 |
+| **영역:** 아래 참조 | **저항:** 회피 |
 
-마법사가 이 주문을 시전하면 펼친 손에서 강도 수준당 2개의 마이크로 유성이 발사됩니다. 유성은 Sparks와 cinders 흔적을 남기며 목표 지점을 향해 아래쪽으로 이동합니다. 충격 시 대상 지점 주변에서 여러 번의 fiery 폭발을 일으킵니다. 첫 번째 유성은 항상 대상 위치를 치격하며, 추가 유성은 주변에 무작위로 치격하며 각각 30피트의 폭발 반경을 가집니다. 어디에 맞는지 결정하려면 방향에 대해 1d8을 굴립니다.
+마법 사용자가 이 주문을 시전하면 강도 레벨당 2개의 마이크로 운석이 뻗은 손에서 튀어나갑니다. 운석은 하향 궤도를 그리며 목표물을 향해 날아가고, 뒤에 불꽃과 재의 흔적을 남깁니다. 충돌 시 목표 지점 주변에서 여러 번의 화염 폭발이 일어납니다. 첫 번째 운석은 항상 지정된 위치를 타격하며, 추가 운석들은 목표물 주변에 무작위로 떨어지고 각각 30피트의 폭발 반경을 가집니다. 운석이 떨어지는 방향을 결정하려면 1d8을 굴리십시오.
 
 <div style="text-align: center;">
     <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
 </div>
 
+각 운석은 영향 범위 내에 있는 대상에게 1d10의 화염 피해를 입힙니다. 그러나 각 폭발 반경으로 인해 많은 부분이 중첩되어 운 나쁘게 휘말린 대상에게 추가 피해를 줍니다. 피해 굴림을 합산하여 대상의 각 히트 로케이션에 적용하며, 착용한 갑옷은 보호를 제공하지 않지만 마법적 방어 포인트나 생명체의 자연 갑옷은 정상적으로 피해를 감소시킵니다.
 
-각 유성은 효과 범위 내의 대상에게 1d10의 화염 피해를 입힙니다. 그러나 각 폭발의 반경으로 인해 많은 폭발이 겹쳐 그 범위에 잡히는 불운한 이들에게 추가 피해를 줍니다. 피해 굴림은 합산되어 대상의 각 타격 위치에 적용되며, 착용 갑옷은 보호를 제공하지 않지만 마법 방어력 수치나 자연 방어력은 평소대로 피해를 줄입니다.
+회피 굴림에 성공하면 피해를 입지 않습니다. '재치 있는 회피(Artful Dodger)' 능력이 있는 사람은 엎드리지 않고도 회피할 수 있는 선택지가 있지만, 이 경우 성공하더라도 영향 범위 가장자리 5피트 이내에 있지 않는 한 피해는 절반으로만 감소합니다.
 
-회피 판정에 성공하면 피해를 입지 않습니다. '재주꾼' 능력을 가진 자는 엎드리지 않고 회피할 수 있지만, 이 경우 범위 가장자리에서 5피트 이내에 있지 않으면 피해가 절반으로 줄어들 뿐입니다.
+영향 범위 밖이라 하더라도 충돌 지점에서 60피트 이내에 있는 모든 사람은 서 있으려면 운동(Athletics) 굴림에 성공해야 합니다.
 
-효과 범위 밖이지만 충격 지점에서 60피트 이내에 있는 모든 사람들도 서 있으려면 운동 판정에 성공해야 합니다.
-
-Meteor Shower는 굴린 피해 x 5%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
+유성우는 굴린 피해량 x 5%의 확률로 가연성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불(Fires)](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
 
 ---
-#### Might (강력)
+#### 강함(Might)
 
 (변형)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 전투 | **지속 시간:** 트리거 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-Might는 수혜자가 시전자의 POW를 수혜자의 Brawn 기술에 추가하여 인상적인 물리적 힘을 발휘하게 합니다. 전투 피해를 입힐 때 캐릭터의 피해 보정치(Damage Modifier)를 증가시키지는 않습니다.
+강함은 시전자의 영력(영력)을 수혜자의 근력(Brawn) 기술에 더해줌으로써 수혜자가 인상적인 물리적 힘을 발휘할 수 있게 합니다. 전투 피해를 입힐 때 캐릭터의 피해 수정치(Damage Modifier)를 증가시키지는 않습니다.
 
 ---
-#### Mirror Image (거울 이미지)
+#### 거울 분신(Mirror Image)
 
 (환영)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 1행동 |
+| **등급:** 마법사 2 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 3라운드/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 5피트 반경 | **저항:** 해당 없음 |
+| **영역:** 5피트 반경 | **저항:** 없음 |
 
-이 주문을 시전하면 마법 사용자의 2d4개의 복제본이 5피트 반경 내에 나타나 마법 사용자의 움직임을 정확히 흉내 냅니다. 또한 효과 범위 전체가 흔들거려 시전자의 정확한 위치를 파악할 수 없게 합니다. 환영 이미지를 치면 사라지지만 나머지 이미지는 영향을 받지 않습니다. 시전자를 치는 것은 나머지 이미지에 영향을 주지 않으며 이미지가 항상 이동하므로 공격을 다시 받을 때 대상이 진짜 시전자인지 알 방법이 없습니다. 시전자가 입은 부상은 이미지에도 복제됩니다. 실제 시전자가 맞았는지 이미지가 맞았는지 결정하기 위해 게임 마스터가 사용할 수 있는 많은 방법이 있습니다. 하나는 시전자를 포함하여 잠재적인 대상이 몇 명 있는지 결정하고 가장 가까운 분모의 다이스를 굴리는 것입니다. 예를 들어 4개의 이미지와 시전자가 있다면 공격자는 1d6을 굴려 6은 다시 굴리고 1이 나오면 시전자가 맞는 식으로 처리합니다. 또 다른 방법은 잠재적 대상의 수와 동일한 수의 마커를 가지고 하나를 시전자로 표시하는 것입니다. 공격할 때마다 마커를 하나씩 뽑아 대상이 맞으면 피해를 적용하고, 그렇지 않으면 이미지가 사라져 마커 중 하나를 제거합니다. 이미지는 주문 지속 시간이 끝나면 사라집니다.
+이 주문을 시전하면 마법 사용자의 거울 분신 2d4개가 5피트 반경 내에 나타나 시전자의 움직임을 정확히 흉내 냅니다. 또한 전체 영향 범위가 일렁이고 반짝여서 시전자의 정확한 위치를 파악할 수 없게 됩니다. 환영 이미지를 타격하면 그 이미지는 사라지지만, 나머지 이미지는 영향을 받지 않습니다. 시전자를 타격해도 나머지 이미지에는 아무런 영향이 없으며 이미지가 계속 변하기 때문에 공격을 다시 할 때 무엇이 진짜 시전자인지 알 방법이 없습니다. 시전자가 입은 부상은 이미지에도 똑같이 복제됩니다. 게임 마스터가 실제 시전자가 타격당했는지 아니면 이미지 중 하나가 타격당했는지 결정하는 방법은 여러 가지가 있습니다. 한 가지 방법은 시전자를 포함하여 가능한 대상의 수를 결정하고 가장 가까운 주사위를 굴리는 것입니다. 예를 들어, 4개의 이미지와 시전자가 있다면 공격자는 1d6을 굴리고 6이 나오면 다시 굴리며, 1이 나오면 시전자가 맞는 식입니다. 다른 방법으로는 잠재적 대상 수만큼의 표식을 준비하고 하나를 시전자로 표시하는 것입니다. 공격이 발생할 때마다 표식을 하나씩 뽑아 타격당했으면 피해를 적용하고, 아니면 이미지가 사라지며 표식 하나를 제거합니다. 주문의 지속 시간이 끝나면 이미지는 사라집니다.
 
----
-#### Neutralize Poison \(R\) (독 중화)
+---#### 독 중화 (R)
 
 (강령술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3 | **시전 시간:** 1라운드 |
-| **영역:** 치유 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (지구력) |
+| **등급:** 사제 3 | **시전 시간:** 1라운드 |
+| **영역:** 치유 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 접촉 |
+| **범위:** 대상 1체 | **저항:** 없음 (체질) |
 
-이 주문을 사용하면 생물에게 영향을 미치는 독이나 베놈의 효과를 취소할 수 있으며, 독으로 '사망'한 개인에게는 사망 후 10분 이내에 사용하여 치료할 수 있습니다. 유발하는 독의 POT 30마다 1 강도 수준이 필요합니다. Neutralize Poison은 뱀이나 전갈과 같은 독성 생물이 생성하는 베놈을 무효화하여 다른 생물에게 독을 퍼뜨릴 수 없게 하는 데 사용할 수 있습니다. 여기에는 POT 30마다 1 강도가 필요하며, 이 방식으로 사용될 경우 지속 시간은 24시간입니다. 마지막으로 Neutralize Poison은 오염된 물질에 사용할 수 있으며 강도 수준당 5 lbs의 고체 또는 2 gallons의 액체를 처리합니다.
+이 주문은 생명체에게 가해진 독이나 맹독의 효과를 무효화하며, 독으로 '사망'한 지 10분 이내의 개인을 소생시키는 데 사용할 수 있다. 독의 효력(Potency) 30당 1단계의 강도가 필요하다. 독 중화는 또한 뱀이나 전갈 같은 독성 생물이 생성하는 독을 무효화하여 다른 이를 중독시키지 못하게 할 수 있는데, 이는 효력 30당 1의 강도가 필요하며 이 방식으로 사용 시 지속 시간은 24시간이다. 마지막으로 독 중화는 중독되었거나 오염된 물질에 사용할 수 있으며, 강도 1당 고체 5파운드 또는 액체 2갤런을 정화할 수 있다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | POT 1~30 독 치료; POT 1~30 독성 생물 무효화; 5 lbs 고체 또는 2 gallons 액체 처리 |
-| 2 | 4 | POT 31~60 독 치료; POT 31~60 독성 생물 무효화; 10 lbs 고체 또는 4 gallons 액체 처리 |
-| 3 | 5 | POT 61~90 독 치료; POT 61~90 독성 생물 무효화; 15 lbs 고체 또는 6 gallons 액체 처리 |
-| 4 | 6 | POT 91~120 독 치료; POT 91~120 독성 생물 무효화; 20 lbs 고체 또는 8 gallons 액체 처리 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 효력 1-30의 독으로부터 피해자 치유; 효력 1-30의 독성 생물 무효화; 최대 5파운드의 오염된 고체 또는 2갤런의 액체 정화 |
+| 2 | 4 | 효력 31-60의 독으로부터 피해자 치유; 효력 31-60의 독성 생물 무효화; 최대 10파운드의 오염된 고체 또는 4갤런의 액체 정화 |
+| 3 | 5 | 효력 61-90의 독으로부터 피해자 치유; 효력 61-90의 독성 생물 무효화; 최대 15파운드의 오염된 고체 또는 6갤런의 액체 정화 |
+| 4 | 6 | 효력 91-120의 독으로부터 피해자 치유; 효력 91-120의 독성 생물 무효화; 최대 20파운드의 오염된 고체 또는 8갤런의 액체 정화 |
+| +1 | +1 | 단계별 추가 증가 |
 
-이 주문의 역인 Inflict Poison은 시전자가 희생자에게 치명적인 독소를 생성하게 합니다. 이 베놈은 아래와 같습니다.
+반전된 독 주입은 시전자가 피해자에게 치명적인 독소를 생성하게 한다. 이 맹독의 세부 사항은 다음과 같다.
 
-#### 아케인 독 (Arcane Poison)
+#### 비전 독
 
 - **적용:** 접촉
-- **Potency:** 강도 x 30과 동일
-- **저항:** 지구력
-- **발병 시간:** 1d2+1라운드
-- **지속 시간:** 1d3 x 10분
-- **조건:** 피해자는 Asphyxiation(질식)이 닥치기 전 2라운드 동안 지속되는 Agony(고통)로 시작하며, 일반적으로 Slow 주문이나 Neutralize Poison으로 마법 치료를 받지 않으면 사망합니다.
+- **효력:** 강도 x30
+- **저항:** 체질
+- **발현 시간:** 1d2+1라운드
+- **지속 시간:** 1d3x10분
+- **상태:** 피해자는 질식 증상이 나타나기 전 2라운드 동안 고통 상태가 되며, 대개 '감속' 또는 '독 중화'로 마법적 치료를 받지 않으면 사망에 이른다.
 - **해독제/치료:** 마법적 치료 외에는 없음.
 
 ---
-#### Part Water (물 가르기)
+#### 물 가르기
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 4 | **시전 시간:** 10분 |
-| **영역:** 원소(물) | **지속 시간:** 10분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 60피트/강도 |
-| **범위:** 아래 참조 | **저항:** 해당 없음 |
+| **등급:** 사제 4 | **시전 시간:** 10분 |
+| **영역:** 원소 (물) | **지속 시간:** 10분/강도 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 60피트/강도 |
+| **범위:** 아래 참조 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자는 물이나 기타 액체 형태를 갈라 안전한 경로를 만들고 원하는 경우 이동할 수 있습니다. 주문은 너비 100피트, 강도 수준당 깊이 10피트, 강도 수준당 길이 120피트의 통로를 생성합니다. 따라서 강도 4로 시전하면 깊이 40피트, 길이 480피트, 너비 100피트의 가르기가 생깁니다. 주문은 시전자가 일찍 끝낼 수 있으며, 그렇지 않으면 지속 시간이 만료될 때까지 계속됩니다. 이 주문은 수중에서 시전할 수 있으며, 이는 위와 동일한 치수의 공기 "통로"를 생성합니다. 마지막으로, 물 정령과 같은 생물에게 공격적으로 시전할 수 있으며, 성공하면 강도 수준마다 10점의 피해를 입힙니다. 존재가 생존했다고 가정할 때 Willpower 저항 판정에 성공하지 못하면 3d4분 동안 시전자로부터 도망쳐야 합니다.
+이 주문은 시전자가 물이나 다른 형태의 액체를 갈라, 원한다면 통과할 수 있는 안전한 길을 만든다. 이 주문은 폭 100피트, 깊이 강도당 10피트, 길이 강도당 120피트의 통로를 만든다. 따라서 강도 4로 시전하면 깊이 40피트, 길이 480피트, 폭 100피트의 통로가 갈라진다. 주문은 시전자가 일찍 종료할 수 있으며, 그렇지 않으면 지속 시간이 만료될 때까지 유지된다. 이 주문은 수중에서도 시전할 수 있으며, 이 경우 위와 동일한 치수의 공기 "복도"를 생성한다. 마지막으로 물 가르기는 물의 정령 같은 생물에게 공격적으로 시전할 수 있으며, 이 경우 강도 등급당 10점의 피해를 준다. 해당 개체가 생존한다면 영력 저항 굴림에 성공해야 하며, 실패할 경우 3d4분 동안 시전자를 피해 달아난다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 10분; 60피트 사거리; 100피트 너비; 10피트 깊이; 120피트 길이 |
-| 2 | 4 | 20분; 120피트 사거리; 100피트 너비; 20피트 깊이; 240피트 길이 |
-| 3 | 5 | 30분; 180피트 사거리; 100피트 너비; 30피트 깊이; 360피트 길이 |
-| 4 | 6 | 40분; 240피트 사거리; 100피트 너비; 40피트 깊이; 480피트 길이 |
-| 5 | 7 | 50분; 300피트 사거리; 100피트 너비; 50피트 깊이; 600피트 길이 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 10분; 60피트 사거리; 100피트 폭; 10피트 깊이; 120피트 길이 |
+| 2 | 4 | 20분; 120피트 사거리; 100피트 폭; 20피트 깊이; 240피트 길이 |
+| 3 | 5 | 30분; 180피트 사거리; 100피트 폭; 30피트 깊이; 360피트 길이 |
+| 4 | 6 | 40분; 240피트 사거리; 100피트 폭; 40피트 깊이; 480피트 길이 |
+| 5 | 7 | 50분; 300피트 사거리; 100피트 폭; 50피트 깊이; 600피트 길이 |
+| +1 | +1 | 단계별 추가 증가 |
 
 ---
-#### Permanency (영구성)
+#### 영속화
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 4 | **시전 시간:** 1행동 |
-| **영역:** 없음 | **지속 시간:** 영구적 |
-| **비용:** 3, +2 EXP | **사거리:** 아래 참조 |
-| **범위:** 아래 참조 | **저항:** 해당 없음 |
+| **등급:** 마법사 4 | **시전 시간:** 1액션 |
+| **영역:** 없음 | **지속 시간:** 영구 |
+| **비용:** 3, +2 경험치 | **사거리:** 아래 참조 |
+| **범위:** 아래 참조 | **저항:** 없음 |
 
-이 주문을 시전하면 다른 특정 주문의 지속 시간이 영구적으로 변경됩니다. 이 주문을 사용하려면 마법 사용자가 먼저 영구적으로 만들 주문을 시전합니다. 그러나 해당 주문 시전이 끝나면 대기 상태가 되고 추가 행동 포인트를 사용하여 Permanency를 시전한 다음 선택한 주문을 영구적인 형태로 시전합니다. 영구적으로 만드는 각 주문은 원래 주문의 일반적인 시전 비용 외에도 2 EXP와 3 마법 포인트를 시전자에게 소모시킵니다. Permanency를 시전하는 동안 Dispel Magic이 시전되면 Permanency뿐만 아니라 원래 주문도 해제됩니다.
+이 주문을 시전하면 특정 다른 주문의 지속 시간이 영구적으로 변경된다. 이 주문을 사용하려면 마법 사용자는 먼저 영구화할 주문을 시전한다. 하지만 해당 주문의 시전이 끝나도 효과가 즉시 발현되지 않고 대기하며, 추가 액션 포인트를 소모하여 영속화를 시전한 뒤 선택한 주문이 영구적인 형태로 시전된다. 영구화되는 각 주문은 원래 주문의 일반적인 시전 비용 외에도 3 마법 포인트와 2 경험치 굴림을 시전자의 비용으로 소모한다. 영속화가 시전되는 동안 '마법 해제'가 시전되면 영속화뿐만 아니라 원래 주문까지 함께 해제된다.
 
-Permanency는 Enchant Item 주문을 사용하는 마법 아이템 제작의 핵심 응용 프로그램이기도 합니다. 아래 언급된 주문 외에도 게임 마스터의 허가를 받아 다른 주문을 영구적으로 만들 수 있습니다.
+영속화는 '아이템 마법 부여' 주문을 사용하여 마법 아이템을 만들 때도 핵심적인 응용 수단이다. 아래 나열된 주문 외에도 게임 마스터의 허락에 따라 다른 주문도 영구화할 수 있다.
 
-시전자에게만 영향을 미치는 다음 개인 주문이 이 주문의 혜택을 받습니다. 다른 생물에게는 영구화할 수 없습니다.
+시전자 본인에게만 영향을 미치는 다음의 개인 주문들이 이 주문의 혜택을 받는다. 다른 생물에게는 영구화할 수 없다:
 
-- Avert
-- Coordination
-- Darkvision
-- Deflect
-- Detect Evil
-- Detect Invisibility
-- Detect Magic
-- Glamour
-- Know Languages
-- Might
-- Preserve
-- Protection (Self)
-- Protection from Evil
-- Read Magic
-- Tongues
+- 경계(Avert)
+- 조정(Coordination)
+- 암시야(Darkvision)
+- 편향(Deflect)
+- 악 탐지(Detect Evil)
+- 투명 탐지(Detect Invisibility)
+- 마법 탐지(Detect Magic)
+- 환혹(Glamour)
+- 언어 이해(Know Languages)
+- 위력(Might)
+- 보존(Preserve)
+- 방어(Protection, 자가용)
+- 악으로부터의 보호(Protection from Evil)
+- 마법 읽기(Read Magic)
+- 방언(Tongues)
 
+영속화 주문은 다른 생물, 물체, 또는 영역에 시전하는 다음 주문들을 영구화하는 데도 사용할 수 있다. 별표가 표시된 주문은 물체나 영역에만 영구화할 수 있다.
 
-Permanency 주문은 다른 생물, 물체 또는 영역에 시전되는 다음 주문들을 영구적으로 만드는 데 사용할 수도 있습니다. 별표(*)가 표시된 주문은 물체나 영역에만 영구화할 수 있습니다.
-
-- Chill
-- Cleanse
-- Dancing Lights*
-- Fear
-- Invisibility
-- Polish *
-- Preserve
-- Tidy *
-- Magic Mouth *
-- Wall of Fire* 
-- Web * |
-
+- 냉기(Chill)
+- 정화(Cleanse)
+- 춤추는 빛(Dancing Lights)*
+- 공포(Fear)
+- 투명화(Invisibility)
+- 광택(Polish)*
+- 보존(Preserve)
+- 정돈(Tidy)*
+- 마법의 입(Magic Mouth)*
+- 화염벽(Wall of Fire)*
+- 거미줄(Web)* |
 
 ---
-#### Pet (애완동물)
+#### 펫
 
-(인챈트 (매혹))
+(환혹술 (매혹))
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1액션 |
 | **영역:** 동물 | **지속 시간:** 집중 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 동물 | **저항:** 의지력 |
+| **범위:** 동물 1마리 | **저항:** 영력 |
 
-Pet을 사용하면 시전자가 작은 생물을 정신적으로 통제하여 정찰, 심부름 수행 또는 기타 복잡한 작업들을 수행하도록 보낼 수 있습니다. 시전자의 CHA 절반을 초과할 수 없는 SIZ 및 INS 특성을 가진 모든 생물에게 시전할 수 있습니다. 대상 생물이 이미 시전자의 충성스러운 애완동물이라면 주문에 저항할 필요가 없습니다. 집중하는 동안 시전자는 동물의 감각(시각, 후각, 청각 등)에 접근할 수 있습니다.
+펫은 시전자가 작은 생물을 정신적으로 조종하여 정찰, 심부름 또는 기타 복잡한 임무를 수행하게 할 수 있다. 시전자의 매력 절반이 크기 및 영력 특성치를 초과하지 않는 모든 생물에게 시전할 수 있다. 대상 생물이 이미 시전자의 충성스러운 애완동물이라면 주문에 저항할 필요가 없다. 시전자는 집중하는 동안 동물의 감각(시각, 후각, 청각 등)에 접근할 수 있다.
 
 ---
-#### Plane Shift (차원 이동)
+#### 차원 이동
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3 | **시전 시간:** 2행동 |
-| **영역:** 아스트랄 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 아래 참조 | **저항:** 의지력 |
+| **등급:** 사제 3 | **시전 시간:** 2액션 |
+| **영역:** 아스트랄 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 접촉 |
+| **범위:** 아래 참조 | **저항:** 영력 |
 
-이 주문을 시전하면 성직자와 최대 7명(추가 강도 수준당 1명)이 다른 차원으로 여행할 수 있습니다. 성직자가 주문을 시전하는 동안 모두가 접촉하여 원을 형성해야 합니다. 또한 시전자는 이 주문을 사용하여 자신과 무관한 생물 1체를 의사에 관계없이 시전자가 선택한 차원으로 보낼 수 있습니다. 단, 의사에 반하는 대상은 저항하기 위해 의지력 판정을 할 수 있으며 성공하면 주문이 무효화됩니다. 도착 지점은 시전자가 원하는 곳이 아닐 확률이 높습니다. 헥스 맵을 사용하는 경우 1d6을 굴려 방향을, 1d10 x 10을 굴려 마일 단위의 거리를 결정합니다.
+이 주문을 시전하면 사제와 최대 7명(추가 강도 레벨당 1명)이 다른 차원으로 이동할 수 있다. 사제가 주문을 시전하는 동안 모든 사람은 서로 접촉하여 원을 형성해야 한다. 또한, 시전자는 자신과 별개로 의지에 상관없이 한 생물을 선택한 차원으로 전송할 수 있으나, 비자발적 대상은 영력 굴림을 통해 저항할 수 있으며, 성공 시 주문은 무효화된다. 도착 지점은 시전자가 원하는 곳이 아닌 경우가 많다. 헥스 지도를 사용하는 경우, 1d6을 굴려 방향을 정하고 1d10x10을 굴려 거리를 마일 단위로 결정한다.
 
-일반적인 재료 구성 요소 외에도 Plane Shift를 시전하려면 각 차원에 특별히 맞추어진 다양한 희귀 금속 막대가 필요합니다. 이 막대들은 희귀하며 각각 10,000GP의 가치가 있습니다.
+일반적인 물질 성분 외에도 차원 이동을 시전하려면 각 차원에 특별히 맞춰진 희귀 금속 막대가 필요하다. 이 막대들은 매우 희귀하며 하나당 10,000GP의 가치가 있다.
 
 ---
-#### Polish (광택)
+#### 광택
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 사제 0, 마법사 0 | **시전 시간:** 1액션 |
 | **영역:** 창조 | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **범위:** 대상 1개 | **저항:** 없음 |
 
-Polish는 물체 하나(시전자의 POW까지의 '물건' 또는 SIZ와 같음)를 즉시 광택이 나고 윤기가 나며 매우 바람직하게 만듭니다. 물건의 품질이 낮더라도 마찬가지입니다. 물건은 시간이 지남에 따라 자연스럽게 윤기를 잃게 됩니다.
+광택은 시전자의 영력과 동일한 크기(또는 '물건'의 개수) 내의 물체 하나를 즉시 닦아 윤이 나고 반짝이게 만들며, 품질이 평범하더라도 매우 매력적으로 보이게 한다. 아이템의 광택은 시간이 지나면 자연스럽게 사라진다.
 
 ---
-#### Polymorph Other (변형)
+#### 타인 변이
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
-| **영역:** 없음 | **지속 시간:** 영구적 |
-| **비용:** 3, +1/추가 강도 (+1 EXP) | **사거리:** 15피트/강도 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **등급:** 마법사 3 | **시전 시간:** 2액션 |
+| **영역:** 없음 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도당 (+1 경험치) | **사거리:** 15피트/강도 |
+| **범위:** 대상 1체 | **저항:** 영력 |
 
-시전자는 Corporeal Targeted(육체를 가진) 생물의 형태를 다른 형태로 바꿀 수 있으며, 각 강도 포인트는 SIZ를 최대 5점까지 변경합니다. 따라서 SIZ 16인 오크를 SIZ 1 토끼로 바꾸려면 3단계의 강도(15 SIZ 차이)가 필요합니다. 이 주문의 대상은 Willpower 저항 판정을 할 수 있습니다. 대형 생물(SIZ 21~40)은 변형에 덜 취약하며 저항 판정이 쉽고(Easy), 거대 생물(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy).
+시전자는 유체 생물 하나의 형태를 다른 생물로 바꿀 수 있으며, 강도 1점당 크기를 최대 5점까지 변경할 수 있다. 따라서 크기 16인 오크를 크기 1인 토끼로 바꾸려면 강도 3단계(크기 차이 15점)가 필요하다. 주문 대상은 영력 굴림으로 저항할 수 있다. 거대 생물(크기 21-40)은 변이에 덜 취약하여 저항 굴림이 '쉬움'이며, 초대형 생물(크기 41 이상)의 저항 굴림은 '매우 쉬움'이다.
 
-전체 변형 과정은 한 라운드가 걸리며 대상 생물에게 매우 스트레스가 많아 원래 성격을 유지하기 위해 두 번째 Willpower 판정이 필요합니다. 실패하면 대상은 1d10분 동안 기절하며, 펌블(Fumble)하면 정신적 쇼크로 사망합니다. 생물의 원래 SIZ를 두 배로 하거나 절반으로 할 때마다 새로운 형태에 적응할 때까지 충분한 연습 시간이 없으면 Athletics, Brawn, Fly, Swim, Combat 기술 등 물리적 기술 사용을 최소 한 단계 난이도를 페널티로 받게 됩니다.
+전체 변이 과정은 1라운드가 소요되며 대상 생물에게 매우 큰 정신적 스트레스를 주어 원래 인격을 유지하기 위한 두 번째 영력 굴림을 요구한다. 실패 시 대상은 1d10분 동안 기절하며, 대실패 시 정신적 충격으로 사망한다. 생물의 원래 크기가 두 배가 되거나 절반이 될 때마다 인격 유지 영력 굴림의 난이도가 한 단계씩 어려워지며, 사람을 물고기로 바꾸는 것과 같은 급격한 환경 변화 또한 난이도를 높인다. 굴림에 성공하면 피해자는 지능과 매력, 그리고 해당 특성치를 요구하는 모든 기술을 유지할 수 있다.
 
-변형은 대상에게 새로운 형태의 호흡, 자연 공격, 모든 일상적 이동 방식을 부여합니다. 생물이 소유한 강화되거나 마법적인 능력은 부여하지 않습니다. 예를 들어, 용으로 변형된 생물은 용의 브레스 공격이나 마법 같은 능력을 얻지 못하지만 비행, 질긴 가죽, 치명적인 물기, 발톱 공격 등을 얻습니다. 추가로 대상은 새로운 형태의 물리적 기술, 히트 포인트 및 피해 보정치를 얻습니다. 인간적인 INT를 유지했다고 가정할 때 새로운 형태가 단어를 발음할 능력이 없다면 말을 할 능력을 잃습니다. 이전 형태에서 주문을 시전할 수 있었던 자들은 여전히 주문의 언어적/신체적 성분을 생성할 수 있다면 새로운 형태에서도 주문을 시전할 수 있습니다. 변형이 완료되면 생물은 새로운 형태의 모든 특별 마법적 능력을 사용할 수 있습니다. 이 정체성을 잃은 캐릭터는 게임 마스터가 통제하는 NPC가 됩니다.
+변이는 대상에게 새로운 형태의 호흡(정상과 다를 경우), 모든 자연 공격, 그리고 모든 일반적인 이동 방식을 부여한다. 대상 생물이 가진 강화된 능력이나 마법적 능력은 부여하지 않는다. 예를 들어 용으로 변이된 생물은 용의 브레스나 주문 유사 능력을 얻지 못하지만, 비행 능력, 단단한 가죽, 치명적인 물기, 발톱 공격 등을 얻게 된다. 또한 피해자는 운동, 근력, 비행, 수영과 같은 새로운 형태의 물리적 기술과 생명력, 피해 수정치를 얻는다. 변이된 개체가 지능을 유지했더라도 새로운 형태가 언어를 구사할 수 없다면 말할 능력을 잃는다. 이전 형태에서 주문을 시전할 수 있었던 자들은 새로운 형태에서도 언어적, 신체적 구성 요소를 수행할 수 있다면 주문을 계속 시전할 수 있다. 2족 보행에서 4족 보행으로, 또는 지상 생물에서 해양 생물로 바뀌는 등 극단적인 변화의 경우, 게임 마스터는 새로운 형태에 적응하는 동안 기술을 배우는 데 시간이 걸린다고 판단하여 관련 기술 사용에 최소 한 단계의 난이도 페널티를 줄 수 있다. 이는 특히 운동, 비무장, 수영, 비행, 전투 기술 등 물리적 기술에서 두드러진다.
 
-새로운 형태의 정신에 굴복하기 전까지, 변형된 생물은 Dispel Magic에 취약하며 저항 판정 없이 정상적으로 처리됩니다. 이는 자연 형태를 되찾으려는 잠재의식적인 욕구 때문입니다. 완전한 변형을 위해 정신적 변형을 견디기 위한 Willpower 판정이 필요하며, 실패하면 1d10분 동안 기절하고 펌블하면 사망합니다.
+인격 유지를 위한 영력 굴림은 실패할 때까지 매일 수행해야 하며, 실패하면 대상은 새로운 형태의 정신 구조에 완전히 굴복하게 되고 지성이 비지성 생물의 영력으로 바뀐다. 변이 완료 후에는 이전에는 없었던 새로운 형태의 모든 특수 및 마법적 능력(응시 공격, 브레스 등)을 사용할 수 있게 된다. 이런 방식으로 자아를 잃은 캐릭터는 게임 마스터가 조종하는 NPC가 된다.
 
-피해자가 이전에 새로운 형태에 굴복했다면 여전히 Dispel Magic을 사용할 수 있지만, 희생자는 자연스러운 형태로 돌아가는 것에 저항하기 위해 Willpower 판정을 하게 됩니다. 이 판정에 실패하면 희생자는 자연스러운 형태로 돌아가며, 변형으로 인한 정신적 충격에 저항하기 위해 또 다른 Willpower 판정이 필요합니다. 일단 잃어버리면 피해자의 자연스러운 정체성은 더 이상 얻을 수 없으며, 대신 피해자는 이상하고 외계적인 형태가 자연스럽지 않다고 믿고 이전의 '정상적인' 형태로 돌아가기를 갈망하게 됩니다. _예를 들어, 토끼로 변형되어 생물 정체성을 받아들인 오크는 자신이 사실 오크로 변형된 토끼라고 믿을 것입니다._ Wish 또는 기타 유사한 마법만이 정체성을 복원할 가능성이 있습니다.
+정신적으로 변이에 굴복하기 전까지, 변이된 생물은 '마법 해제'에 평소처럼 취약하며 저항 굴림 없이 해제된다(정상으로 돌아오고 싶은 잠재의식이 작용하기 때문). 변이는 정신적 긴장을 이겨내기 위해 또 다른 영력 굴림을 요구하며, 실패 시 1d10분간 기절, 대실패 시 정신적 충격으로 사망할 수 있다.
 
-모든 착용 및 휴대 장비는 새로운 형태로 마법적으로 융합됩니다. 그러나 게임 마스터는 경우에 따라 반지나 장화처럼 새로운 형태에서도 사용할 수 있는 마법 아이템은 남겨둘 수 있습니다. Creatures(도플갱어, 라이칸스로프 등)는 정상적으로 변형되지만 1라운드 후에 원래 형태로 돌아올 수 있습니다. 죽으면 polymorph된 생물은 이전에 정체성을 모두 잃었더라도 자연스러운 형태로 돌아갑니다.
+피해자가 이미 새로운 형태에 굴복했더라도 '마법 해제'는 사용할 수 있으나, 피해자는 영력 굴림을 통해 자연스러운 형태로 돌아오는 것을 거부하려고 시도한다. 이 굴림에 실패하면 피해자는 원래 형태로 돌아가며, 이는 변이로 인한 정신적 충격에 저항하기 위해 다시 영력 굴림을 필요로 한다. 일단 자아가 사라지면 피해자의 원래 정체성은 더 이상 되찾을 수 없으며, 대신 피해자는 현재의 기이한 형태가 자신의 자연스러운 모습이라고 여기고 이전의 '정상적인' 모습으로 돌아가기를 갈망하게 된다. *예를 들어 토끼로 변이되어 토끼의 자아를 갖게 된 오크는 자신이 원래 토끼였는데 오크로 변하는 기괴한 일을 당했다고 믿게 된다.* 자아가 상실된 경우 '소원' 주문이나 그와 유사한 마법만이 정체성을 복구할 기회를 제공한다.
+
+착용하거나 휴대한 모든 장비는 마법적으로 새로운 형태에 융합되지만, 게임 마스터의 재량에 따라 마법 반지나 장화처럼 새로운 형태에서도 사용할 수 있는 아이템은 남겨둘 수 있다. 이는 생물의 새 크기가 원래와 크게 다르지 않아야 함을 전제로 한다. 게임 마스터의 승인 하에, 착용 중인 비공격적 성격의 각 마법 아이템은 영력 x1%의 확률로 새로운 형태에 효과를 전달할 수 있다. 예를 들어 +1 방어 반지를 착용한 생물은 자연 방어력에 +1 보너스를 얻을 수 있다. 도플갱어나 라이칸스로프처럼 스스로 형상을 변환할 수 있는 생물은 일반적인 변이 대상이 되지만, 1라운드 후 자신의 원래 모습으로 돌아올 수 있다. 살해당하면 변이된 생물은 자아를 완전히 잃었더라도 원래 형태로 돌아간다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3, +1 EXP | 15피트 사거리; 1~5 SIZ 차이 |
-| 2 | 4, +1 EXP | 30피트 사거리; 6~10 SIZ 차이 |
-| 3 | 5, +1 EXP | 45피트 사거리; 11~15 SIZ 차이 |
-| 4 | 6, +1 EXP | 60피트 사거리; 16~20 SIZ 차이 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3, +1 경험치 | 15피트 사거리; 크기 1-5점 차이 |
+| 2 | 4, +1 경험치 | 30피트 사거리; 크기 6-10점 차이 |
+| 3 | 5, +1 경험치 | 45피트 사거리; 크기 11-15점 차이 |
+| 4 | 6, +1 경험치 | 60피트 사거리; 크기 16-20점 차이 |
+| +1 | +1 | 단계별 추가 증가 |
 
 ---
-#### Polymorph Self (자기 변형)
+#### 자가 변이
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
+| **등급:** 마법사 3 | **시전 시간:** 2액션 |
 | **영역:** 없음 | **지속 시간:** 20분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 0 |
 | **범위:** 시전자 | **저항:** 없음 |
 
-시전자는 SIZ 1에서 SIZ 40까지 다른 모든 corporeal 생물의 형태를 취할 수 있습니다. 각 강도 포인트는 SIZ를 최대 10포인트까지 늘리거나 줄일 수 있습니다. 따라서 SIZ 13인 마법사는 3강도로 SIZ 34인 불곰의 형태를 취할 수 있습니다. 변형 과정은 한 라운드가 걸리며 시전자에게 호흡(자신보다 다른 형태), 자연 공격, 히트 포인트, 피해 보정치, 일상적인 이동 방식을 부여합니다. 강화되거나 마법적인 능력은 부여하지 않습니다. 변형된 마법사는 생물의 물리적 기술은 얻지만 정신적/사회적 기술은 유지합니다. 생물이 단어를 발음할 능력이 없다면 시전자는 말을 할 능력을 잃습니다. 새로운 형태에서도 주문의 신체적 성분을 형성할 수 있다면 주문을 시전할 수 있습니다.
+시전자는 크기 1에서 40까지의 다른 모든 유체 생물 형태를 취할 수 있다. 강도 1점당 크기를 최대 10점까지 늘리거나 줄일 수 있다. 따라서 크기 13인 마법사는 강도 3단계로 크기 34인 회색곰의 형상을 취할 수 있다. 변이 과정은 1라운드가 소요되며, 시전자에게 대상 생물의 호흡 방식(본래와 다를 경우, 예: 수중 호흡), 모든 자연 공격, 생명력, 피해 수정치, 일반적인 이동 방식을 부여한다. 대상 생물이 가진 강화된 능력이나 마법적 능력은 부여하지 않는다. 예를 들어 매로 변이된 마법사는 매의 비정상적인 시력을 얻지 못한다. 시전자는 운동, 근력, 비행, 수영 등 생물의 물리적 기술을 얻지만, 모든 정신적 및 사회적 기술(지능과 매력을 요구하는 기술)은 유지한다. 시전자는 해당 생물이 말을 할 수 없다면 대화 능력을 상실한다. 만약 말할 수 있다면 시전자는 주문의 신체적 구성 요소를 수행할 수 있는 경우 변이 후에도 주문을 시전할 수 있다.
 
-시전자는 언제든지 효과를 끝낼 수 있으며, 그 과정에서 새로운 형태를 얻은 경상은 사라지고 치명상(Serious Wounds)은 경상으로 감소합니다(각 위치에서 히트 포인트의 절반 손실). Major Wounds는 변형의 영향을 받지 않으며 자연적인 형태로 이어집니다. 자연 형태에서 동물 형태로 변할 때는 치유가 없습니다.
+시전자는 언제든 효과를 종료할 수 있으며, 이 과정에서 변이 중에 입은 경상(Minor Wounds)은 사라지고 중상(Serious Wounds)은 경상으로 회복된다(적용 가능한 부위당 생명력 절반 손실). 중상(Major Wounds)은 변이의 영향을 받지 않으며 원래 형태로 돌아와도 그대로 유지된다. 자연 형태에서 동물 형태로 변이할 때는 치유가 발생하지 않는다.
 
-Polymorph는 Dispel Magic의 영향을 받습니다. 이 경우 시전자는 치유 혜택을 받지 못합니다. 죽으면 시전자는 자연적인 형태로 돌아갑니다. 비행 생물로 변하고 비행 기술 판정을 해야 할 경우 운동이나 곡예 기술로 두 등급 난이도를 낮추어 대체할 수 있습니다. 그러나 이 형태를 자주 사용하는 캐릭터는 STR+DEX를 기본 값으로 정상적으로 비행 기술을 개발하기로 선택할 수 있습니다.
+자가 변이는 '마법 해제'의 대상이 된다. 이 경우 시전자는 치유 혜택을 받지 못한다. 살해당하면 시전자는 원래 형태로 돌아간다. 비행 생물로 변이하여 '비행' 기술 굴림이 필요한 경우, 두 단계의 난이도로 운동이나 곡예 기술로 대체할 수 있다. 하지만 이 형태를 자주 사용하는 캐릭터는 힘+민첩의 기본값으로 비행 기술을 정상적으로 개발할 수 있다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 20분; 1~10 SIZ 차이 |
-| 2 | 4 | 40분; 11~20 SIZ 차이 |
-| 3 | 5 | 60분; 21~30 SIZ 차이 |
-| 4 | 6 | 80분; 31~40 SIZ 차이 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 20분; 크기 1-10점 차이 |
+| 2 | 4 | 40분; 크기 11-20점 차이 |
+| 3 | 5 | 60분; 크기 21-30점 차이 |
+| 4 | 6 | 80분; 크기 31-40점 차이 |
+| +1 | +1 | 단계별 추가 증가 |
 
 ---
-#### Power Word - Blind (맹목의 말)
+#### 권능의 말 - 실명
 
-(창조)
+(소환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 4 | **시전 시간:** 1행동 |
+| **등급:** 마법사 4 | **시전 시간:** 1액션 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 20피트/강도 |
-| **범위:** 15피트 반경 | **저항:** 지구력 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 20피트/강도 |
+| **범위:** 15피트 반경 | **저항:** 체질 |
 
-이 주문을 성공적으로 시전하면 시전자가 선택한 시야선과 사거리 내의 생물 1체가 저항 판정에 실패한 다른 모든 생물과 함께 맹목 상태가 됩니다. 이 실명은 Cure Blindness나 Dispel Magic을 시전하여 치료할 수 있습니다. 주문의 지속 시간은 대상의 등급이나 SIZ(더 유리한 결과 제공)에 따라 변경됩니다. 상세 내용은 다음 표와 같습니다.
+이 주문을 성공적으로 시전하면 시전자의 시야 내 사거리 안에 있는 선택한 생물 하나와, 저항 굴림에 실패한 15피트 반경 내의 모든 생물이 눈이 멀게 된다. 이 실명 상태는 '실명 치유' 또는 '마법 해제'를 시전하여 치료할 수 있다. 주문의 지속 시간은 대상의 등급이나 크기 중 더 유리한 결과를 주는 쪽으로 수정된다. 이는 다음 표에 상세히 기술되어 있다.
 
-| 대상 등급 | 대상 SIZ | 지속 시간 |
+| 대상 등급 | 대상 크기 | 지속 시간 |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 1d4+1 x 10분\*\* |
+| 0-1* | 1-20 | 1d4+1 x10분** |
 | 2 | 21-40 | 1d4+1분 |
 | 3 | 41-60 | 1d4+1라운드 |
 | 4 | 61-80 | 1d3라운드 |
 | 5 | 81+ | 1라운드 |
 
-_\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
+_* 이 범주에는 직업을 갖지 않은 캐릭터가 포함된다._
 
-_\*\* 효과 범위 내에 1~3마리의 생물만 있는 경우, 마법적 치료를 받을 때까지 효과가 영구적입니다._
+_** 범위 내에 1-3마리의 생물만 있는 경우, 마법적 치료가 이루어질 때까지 효과가 영구히 지속된다._
 
 ---
-#### Power Word - Kill (살인의 말)
+#### 권능의 말 - 살해
 
-(창조)
+(소환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 5 | **시전 시간:** 1행동 |
-| **영역:** 없음 | **지속 시간:** 영구적 |
-| **비용:** 3/강도, +3 EXP | **사거리:** 20피트/강도 |
-| **범위:** 10피트 반경 | **저항:** 지구력 |
+| **등급:** 마법사 5 | **시전 시간:** 1액션 |
+| **영역:** 없음 | **지속 시간:** 영구 |
+| **비용:** 3/강도, +3 경험치 | **사거리:** 20피트/강도 |
+| **범위:** 10피트 반경 | **저항:** 체질 |
 
-이 주문을 성공적으로 시전하면 저항 판정에 실패한 최대 등급 3 또는 SIZ 60(또는 강도당 SIZ 20 이하인 생물 4마리)인 생물 1체가 사망합니다. 이 주문은 시전자에게 매우 소모적이며, 시전할 때마다 자동적으로 피로 1단계 손실이 발생합니다. 모든 잠재적 대상은 주문 시전 시 지정한 범위 내에 있어야 합니다. 필요한 강도는 다음 표와 같이 대상의 등급이나 SIZ(더 유리한 결과 제공)에 따라 다릅니다.
+이 주문의 성공적인 시전은 저항 굴림에 실패한 3등급 또는 크기 60 이하의 생물 한 마리(또는 크기 20 이하의 생물 4마리)를 즉사시킨다. 이 주문은 시전자에게 극심한 소모를 주며, 시전할 때마다 피로 등급 1단계를 자동적으로 상실한다. 모든 잠재적 대상은 주문 시전 시 지정된 범위 안에 있어야 한다. 필요한 강도는 대상의 등급이나 크기 중 대상에게 더 유리한 결과를 주는 쪽에 의존하며, 다음 표에 상세히 기술되어 있다.
 
-| 대상 등급 | 대상 SIZ | 살해를 위한 강도 |
+| 대상 등급 | 대상 크기 | 강도 |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 1 강도 + 3 EXP |
-| 2 | 21-40 | 2 강도 + 3 EXP |
-| 3 | 41-60 | 3 강도 + 3 EXP |
-| 4-5 | 61+ | 영향 없음 |
+| 0-1* | 1-20 | 강도 1 + 3 경험치로 살해 |
+| 2 | 21-40 | 강도 2 + 3 경험치로 살해 |
+| 3 | 41-60 | 강도 3 + 3 경험치로 살해 |
+| 4-5 | 61+ | 효과 없음 |
 
-_\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
+_* 이 범주에는 직업을 갖지 않은 캐릭터가 포함된다._
 
-SIZ 60보다 큰 생물과 등급 4 이상의 캐릭터는 영향을 받지 않습니다. Death Spell과 달리 Power Word - Kill은 위 제한 범위 내에 있는 것은 무엇이든 죽이지만, Wish, Raise Dead, Resurrection, Reincarnation 등을 시전하여 피해자를 다시 되살릴 수 있습니다.
+크기 60을 초과하는 생물은 영향을 받지 않으며, 등급 4 이상의 캐릭터도 마찬가지이다. '죽음' 주문과 달리 권능의 말 - 살해는 위 제한 내의 모든 것을 죽일 수 있지만, 소원, 죽은 자 소생, 부활, 윤회 주문을 통해 희생자를 정상적으로 다시 살려낼 수 있다.
 
 ---
-#### Power Word – Stun (기절의 말)
+#### 권능의 말 - 기절
 
-(창조)
+(소환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 1행동 |
+| **등급:** 마법사 3 | **시전 시간:** 1액션 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 20피트/강도 |
-| **범위:** 1 대상 | **저항:** 지구력 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 20피트/강도 |
+| **범위:** 대상 1체 | **저항:** 체질 |
 
-이 주문을 성공적으로 시전하면 저항 판정에 실패한 시야선과 사거리 내의 생물 1체가 기절합니다. 피해자는 잠시 동안 감각이 마비되어 방어적인 반응 행동만 할 수 있습니다. 지속 시간은 대상의 등급이나 SIZ(더 유리한 결과 제공)에 따라 변경됩니다. 상세 내용은 다음 표와 같습니다. 기절은 지속 시간이 끝나기 전에 Dispel Magic을 시전하여 치료할 수 있습니다.
+이 주문을 성공적으로 시전하면 시전자의 시야 내 사거리 안에 있는 선택한 생물 하나가 저항 굴림에 실패할 경우 기절한다. 피해자는 잠시 동안 무감각 상태가 되어 방어적인 성격의 반응 액션만 허용된다. 지속 시간은 대상의 등급이나 크기 중 대상에게 더 유리한 결과를 주는 쪽으로 수정된다. 이는 다음 표에 상세히 기술되어 있다. 기절 상태는 '마법 해제'를 시전하여 지속 시간이 만료되기 전에 치료할 수 있다.
 
-| 대상 등급 | 대상 SIZ | 지속 시간 |
+| 대상 등급 | 대상 크기 | 지속 시간 |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 4d4라운드 |
+| 0-1* | 1-20 | 4d4라운드 |
 | 2 | 21-40 | 2d4라운드 |
 | 3 | 41-60 | 1d4라운드 |
 | 4 | 61-80 | 1라운드 |
 | 5 | 81+ | 영향 없음 |
 
-_\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
-
----
-#### Prayer (기도)
+_* 이 범주에는 직업을 갖지 않은 캐릭터가 포함된다._#### 기도
 
 (소환)
 
@@ -2219,200 +2202,200 @@ _\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
 | :-- | :-- |
 | **등급:** 성직자 3 | **시전 시간:** 1분 |
 | **영역:** 전투 | **지속 시간:** 10분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 60피트 반경 | **저항:** 해당 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 0 |
+| **영역:** 60피트 반경 | **저항:** 없음 |
 
-시전 시 이 주문은 효과 범위 내의 성직자와 모든 아군을 축복하고 반대하는 자들에게는 저주를 내립니다. 아군은 모든 기술 및 저항 판정에 +5% 보너스와 가한 모든 피해에 +1 보너스를 받고, 적은 -5% 페널티와 -1 피해 감소를 받습니다. 이 주문은 동일한 성직자나 동일 종교의 다른 성직자가 시전하는 경우 Chant와 함께 시전할 수 있으며, 두 효과가 중첩되어 기술에 +10% 보너스와 피해에 +2 보너스를 부여하고 적은 그 반대를 받게 합니다.
+시전 시, 이 주문은 시전자와 효과 범위 내의 모든 아군에게 축복을 내리고, 적들에게는 저주를 내립니다. 아군은 모든 기술 및 저항 판정에 +5% 보너스를 받고 가하는 모든 피해에 +1 보너스를 얻으며, 적들은 -5% 페널티와 피해 감소 -1을 받습니다. 이 주문은 동일한 성직자나 같은 종교의 다른 성직자가 시전할 경우 '성가'와 함께 시전할 수 있으며, 두 효과가 중첩되어 기술에 +10% 보너스, 피해에 +2를 부여하고, 적들에게는 그 반대의 효과를 줍니다.
 
 ---
-#### Predict Weather (날씨 예보)
+#### 날씨 예측
 
-(점술)
+(예언)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 1, 마법사 1 | **시전 시간:** 1분 |
 | **영역:** 날씨 | **지속 시간:** 즉시 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 5마일 반경 | **저항:** 해당 없음 |
+| **영역:** 5마일 반경 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자는 5마일 반경 내의 날씨를 100% 확실하게 예측할 수 있습니다. 이 예보는 다음 4시간(강도 수준당) 동안의 온도, 강수량, 적설량, 풍속 등에 대한 것입니다.
+이 주문은 시전자가 5마일 반경 내의 날씨를 100% 확실하게 예측할 수 있게 해줍니다. 이 예보는 강도 1레벨당 향후 4시간 동안의 온도, 강수량, 적설량, 풍속 등을 포함합니다.
 
 ---
-#### Preserve (보존)
+#### 보존
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1턴 |
 | **영역:** 동물, 식물 | **지속 시간:** 1d3개월 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 아래 참조 | **저항:** 해당 없음 |
+| **영역:** 아래 참조 | **저항:** 없음 |
 
-Preserve는 유기물(채소 및 동물)을 살균하여 1d3개월 동안 박테리아 부패 및 부패로부터 보호합니다. 재료를 나중에 훈제하거나 절이거나 소금에 절이면 무기한 보존됩니다. 주문은 시작된 부패를 멈출 수는 있지만 되돌릴 수는 없습니다. 시전자는 POW와 동일한 '물건' 또는 SIZ만큼의 유기물을 보존할 수 있습니다.
+보존은 식물과 동물 등 유기물을 멸균하여 1d3개월 동안 박테리아에 의한 부패와 분해를 막습니다. 이후 재료를 훈제, 절임, 염장 처리하면 영구적으로 보존됩니다. 이 주문은 이미 시작된 부패를 멈출 수는 있으나, 되돌릴 수는 없습니다. 시전자는 자신의 영력(영력)과 동등한 '물건' 수 또는 크기(크기)만큼의 유기물에 영향을 줄 수 있습니다.
 
 ---
-#### Protection (보호)
+#### 보호
 
-(보호)
+(방어)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1행동 |
-| **영역:** 보호 | **지속 시간:** 트리거 |
+| **등급:** 성직자 0, 마법사 0 | **시전 시간:** 1 행동 |
+| **영역:** 보호 | **지속 시간:** 발동 시 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-Protection은 주조소나 광산 작업과 같이 우발적인 부상 위험이 있는 다양한 작업에서 유용합니다. 보호 장비나 갑옷을 뚫는 피해를 정상적으로 입는 첫 번째 경우에, Protection 주문이 발동되어 입는 피해를 1d3점 줄입니다. 그 후 주문은 사라집니다. 이 주문은 다른 모든 형태의 보호 마법과 중첩됩니다. 이 주문은 물리적 피해만 보호하므로 화재, 질식 등과 같은 상황에서는 도움이 되지 않습니다. 이 주문의 마법사 버전은 자신에게만 시전할 수 있습니다.
+보호는 주조 공장이나 광산에서 일하는 것처럼 우발적인 부상의 위험이 있는 다양한 상황에서 유용합니다. 캐릭터가 보호 의복이나 갑옷을 뚫고 들어오는 피해를 처음으로 입을 때, 보호 주문이 발동되어 받는 피해를 1d3점 줄여줍니다. 그 후 주문은 사라집니다. 이 주문은 다른 모든 형태의 보호 마법과 중첩됩니다. 이 주문은 물리적 피해만 보호하므로 화재, 질식 등과 같은 상황에는 도움이 되지 않습니다. 이 주문의 마법사 버전은 자신에게만 시전할 수 있습니다.
 
 ---
-#### Protection from Cold (냉기 보호)
+#### 냉기 보호
 
-(보호, 원소(불))
+(방어)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 2 | **시전 시간:** 1라운드 |
 | **영역:** 보호, 원소(불) | **지속 시간:** 15분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-이 주문을 시전하면 모든 형태의 자연 냉기로부터 완벽한 보호를 제공하는 보이지 않는 장이 형성됩니다. 자신에게 시전하면 이 장은 모든 형태의 냉기 기반 피해(백룡 브레스, Cone of Cold, Chill Metal 등)로부터 완벽한 보호를 제공하며, 강도 수준당 12점의 냉기 피해를 흡수합니다. 이 장이 소진되면 해당 공격에서 남은 초과 피해는 적용되기 전에 절반으로 줄어듭니다.
+이 주문을 시전하면 모든 자연적인 냉기로부터 완벽하게 보호하는 보이지 않는 장이 형성됩니다. 자신에게 시전할 경우, 이 장은 냉기 기반 피해(백룡의 숨결, 냉기 원뿔, 냉기 금속 등)로부터도 완벽하게 보호하며, 강도 1당 12점의 냉기 피해를 흡수합니다. 이 장의 내구도가 다 소진되면, 해당 공격에서 남은 초과 피해는 절반으로 줄어들어 적용됩니다.
 
-자신이 아닌 다른 사람에게 시전하면 자연 냉기로부터 완벽한 보호가 부여됩니다. 또한 마법적인 냉기 공격으로 인한 피해가 절반으로 줄어듭니다.
+자신 외의 대상에게 시전하면 자연적인 냉기로부터 완벽하게 보호됩니다. 또한, 마법적인 냉기 공격으로 받는 피해가 절반으로 줄어듭니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
 | 1 | 3 | 15분; 자신에게 12점의 냉기 보호 |
-| 2 | 4 | 30분; 24점의 냉기 보호 |
-| 3 | 5 | 45분; 36점의 냉기 보호 |
-| 4 | 6 | 60분; 48점의 냉기 보호 |
-| +1 | +1 | 단계별 진행 |
+| 2 | 4 | 30분; 자신에게 24점의 냉기 보호 |
+| 3 | 5 | 45분; 자신에게 36점의 냉기 보호 |
+| 4 | 6 | 60분; 자신에게 48점의 냉기 보호 |
+| +1 | +1 | 단계별 지속 |
 
 ---
-#### Protection from Evil \(R\) (악으로부터의 보호)
+#### 악으로부터의 보호 (역)
 
-(보호)
+(방어)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1, 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 성직자 1, 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 보호 | **지속 시간:** 2분/강도 |
 | **비용:** 1/강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-시전 시, 세 가지 수준의 방어를 부여하는 마법 장갑의 보이지 않는 아우라가 주문 수혜자(시전자 포함)에게서 방사됩니다.
+시전 시, 주문을 받은 대상(시전자 자신일 수도 있음)으로부터 마법 갑옷의 보이지 않는 오라가 방출되어 세 가지 수준의 방어를 제공합니다.
 
-첫째, 악한 정렬을 가진 생물의 공격은 Combat Style 또는 Unarmed 기술에 -10% 페널티를 받습니다. 보호받는 자의 저항 판정은 악한 생물에 대해서만 +10% 보너스를 받습니다.
+첫째, 악 성향을 가진 생명체의 공격은 전투 스타일이나 비무장 기술 판정에 -10% 페널티를 받습니다. 악으로부터의 보호를 받는 대상의 저항 판정은 +10% 보너스를 받지만, 이는 악한 생명체를 대상으로 할 때만 적용됩니다.
 
-둘째, 소환되거나 창조된 존재, 그리고 물리적 차원 출신이 아닌 존재는 수혜자와 물리적 접촉을 할 수 없습니다. 여기에는 악마, 마귀, 정령, 살라만더 등이 포함됩니다. 이 존재들의 자연 공격은 그들로 하여금 반동하게 하여 접촉에 실패하게 합니다. 이는 주문이나 아이템에 의해 소환된 모든 몬스터나 생물도 포함됩니다. 그러나 그러한 생물이 들고 있는 무기는 마법 장벽을 통과하여 보호받는 개인을 타격할 수 있습니다.
+둘째, 소환되거나 불러내진 생명체, 또는 물질계가 원산지가 아닌 존재는 대상과 물리적으로 접촉할 수 없습니다. 여기에는 악마, 마귀, 진, 정령, 공중 하수인, 샐러맨더 등이 포함됩니다. 이러한 생명체의 자연적인 공격은 그들을 반동하게 만들어 접촉에 실패하게 합니다. 이는 주문이나 아이템으로 소환되거나 불러내진 모든 괴물이나 생명체에도 적용됩니다. 그러나 그러한 생명체가 든 무기는 마법 장벽을 통과하여 보호받는 개인을 공격할 수 있습니다.
 
-셋째, 정신 통제(Charm 또는 Command 등)나 점유(Magic Jar 등)를 시도하는 모든 마법적 보호는 자동으로 무효화됩니다.
+셋째, 정신 지배(매료나 명령 같은 주문 등)나 빙의(마법 항아리 같은 주문 등) 시도는 이 마법 보호막을 뚫지 못하고 자동으로 실패합니다.
 
-주문의 지속 시간은 보호받는 개인이 어떤 형태의 근접 공격을 하거나 영향을 받는 생물에 대해 보호 장막을 부과하려고 시도하면 끝납니다.
+보호받는 개인이 근접 공격을 하거나 영향받는 생명체를 향해 방어 필드를 강제로 적용하려 하면 주문의 지속 시간은 종료됩니다.
 
-이 주문의 역인 Protection from Good은 선한 상대와 관련하여 위와 같이 첫 번째 혜택이 작동하는 등 위와 같이 기능합니다.
+이 주문의 반대인 '선으로부터의 보호'는 두 번째와 세 번째 혜택에 관하여 위와 같이 작동하며, 첫 번째 혜택은 선한 상대에 관하여 동일하게 작동합니다.
 
 ---
-#### Protection from Fire (화염 보호)
+#### 화염 보호
 
-(보호, 원소(불))
+(방어)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 2 | **시전 시간:** 1라운드 |
 | **영역:** 보호, 원소(불) | **지속 시간:** 15분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-이 주문을 시전하면 횃불, 캠프파이어, 타오르는 건물 등 모든 mundane(일상적) 화염으로부터 완벽한 보호를 제공하는 보이지 않는 장이 형성됩니다. 자신에게 시전하면 이 장은 모든 화염 기반 피해(적룡의 브레스, Burning Hands, Heat Metal 등)로부터 완벽한 보호를 제공하며, 강도 수준당 12점의 화염 피해를 흡수합니다. 이 장이 소진되면 해당 공격에서 남은 초과 피해는 적용되기 전에 절반으로 줄어듭니다.
+이 주문을 시전하면 횃불, 캠프파이어, 불타는 건물 등과 같은 모든 세속적인 열원으로부터 완벽하게 보호하는 보이지 않는 장이 형성됩니다. 자신에게 시전할 경우, 이 장은 화염 기반 피해(적룡의 숨결, 화염의 손, 화염 금속 등)로부터도 완벽하게 보호하며, 강도 1당 12점의 화염 피해를 흡수합니다. 이 장의 내구도가 다 소진되면, 해당 공격에서 남은 초과 피해는 절반으로 줄어들어 적용됩니다.
 
-자신이 아닌 다른 사람에게 시전하면 일상적인 화염으로부터 완벽한 보호가 부여됩니다. 또한 마법적인 화염 공격으로 인한 피해가 절반으로 줄어듭니다.
+자신 외의 대상에게 시전하면 세속적인 화염으로부터 완벽하게 보호됩니다. 또한, 마법적인 화염 공격으로 받는 피해가 절반으로 줄어듭니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
 | 1 | 3 | 15분; 자신에게 12점의 화염 보호 |
-| 2 | 4 | 30분; 24점의 화염 보호 |
-| 3 | 5 | 45분; 36점의 화염 보호 |
-| 4 | 6 | 60분; 48점의 화염 보호 |
-| +1 | +1 | 단계별 진행 |
+| 2 | 4 | 30분; 자신에게 24점의 화염 보호 |
+| 3 | 5 | 45분; 자신에게 36점의 화염 보호 |
+| 4 | 6 | 60분; 자신에게 48점의 화염 보호 |
+| +1 | +1 | 단계별 지속 |
 
 ---
-#### Protection from Lightning (번개 보호)
+#### 전격 보호
 
-(보호, 날씨)
+(방어)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 3 | **시전 시간:** 1라운드 |
 | **영역:** 보호, 날씨 | **지속 시간:** 15분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-이 주문을 시전하면 모든 형태의 전기 기반 피해(청룡의 브레스, Shocking Grasp, 전기 함정 등)로부터 완벽한 보호를 제공하는 보이지 않는 장이 형성되며, 강도 수준당 12점의 전기 피해를 흡수합니다. 이 장이 소진되면 해당 공격에서 남은 초과 피해는 적용되기 전에 절반으로 줄어듭니다.
+이 주문을 시전하면 전기 기반 피해(청룡의 숨결, 충격의 손아귀, 전기 함정 등)로부터 완벽하게 보호하는 보이지 않는 장이 형성되며, 강도 1당 12점의 전기 피해를 흡수합니다. 이 장의 내구도가 다 소진되면, 해당 공격에서 남은 초과 피해는 절반으로 줄어들어 적용됩니다.
 
-자신이 아닌 다른 사람에게 시전하면 전기 공격으로 인한 피해가 절반으로 줄어듭니다.
+자신 외의 대상에게 시전하면 전기 공격으로 받는 피해가 절반으로 줄어듭니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
 | 1 | 3 | 15분; 자신에게 12점의 전기 보호 |
-| 2 | 4 | 30분; 24점의 전기 보호 |
-| 3 | 5 | 45분; 36점의 전기 보호 |
-| 4 | 6 | 60분; 48점의 전기 보호 |
-| +1 | +1 | 단계별 진행 |
+| 2 | 4 | 30분; 자신에게 24점의 전기 보호 |
+| 3 | 5 | 45분; 자신에게 36점의 전기 보호 |
+| 4 | 6 | 60분; 자신에게 48점의 전기 보호 |
+| +1 | +1 | 단계별 지속 |
 
 ---
-#### Purify Food and Drink \(R\) (음식 및 음료 정화)
+#### 음식과 음료 정화 (역)
 
-(변형)
+(변화)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 1 | **시전 시간:** 1분 |
-| **영역:** 모두 | **지속 시간:** 영구적 |
+| **영역:** 모두 | **지속 시간:** 영구 |
 | **비용:** 1/강도 | **사거리:** 100피트 |
-| **범위:** 5피트 반경 | **저항:** 해당 없음 |
+| **영역:** 5피트 반경 | **저항:** 없음 |
 
-이 주문을 시전하면 주문의 효과 범위 내에 있는 강도당 평균 크기의 음식 및/또는 물에서 모든 독, 썩음 및 기타 오염 물질이 제거됩니다. 이 주문의 정화 특성은 성수의 사악한 특성도 파괴합니다.
+이 주문을 시전하면, 주문의 효과 범위 내에 있는 강도 1당 평균 크기의 식사와 물에서 모든 독, 부패, 기타 오염 물질이 제거됩니다. 이 주문의 정화 특성은 불결한 물의 악의적인 속성 또한 파괴합니다.
 
-이 주문의 역인 Contaminate Food and Drink는 음식을 상하게 하고 순수한 물을 마실 수 없게 만들며 성수의 신성한 특성을 타락시킵니다.
+이 주문의 반대인 '음식과 음료 오염'은 음식을 상하게 하고, 깨끗한 물을 마실 수 없게 만들며, 성수의 신성한 속성을 타락시킵니다.
 
 ---
-#### Raise Dead \(R\) (죽은 자 일으키기)
+#### 죽은 자 소생 (역)
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 3 | **시전 시간:** 1분 |
-| **영역:** 강령술 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도, +1 EXP | **사거리:** 100피트 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (의지력) |
+| **영역:** 강령 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도, +1 경험치 | **사거리:** 100피트 |
+| **영역:** 대상 1명 | **저항:** 없음 (영력) |
 
-이 주문은 강도 수준당 24시간 이내에 사망한 생물의 시체에 시전할 수 있습니다. 대상의 정렬이 악이 아닌 경우, 대항 Willpower 판정을 통해 스스로 저항하여 주문 효과를 무효화할 수 있습니다. 사후 세계에 도달한 후에는 삶으로 돌아오는 것을 원치 않는 경우가 많기 때문입니다. 게임 마스터는 희생자에게 미해결 과제가 있거나, 사랑하는 이와 떨어질 수 없거나, 기타 영웅적인 생존 이유가 있다면 판정을 생략할 수 있습니다.
+이 주문은 강도 1레벨당 24시간 이내에 사망한 생명체의 시체에 시전할 수 있습니다. 대상의 성향이 악이 아니었다면, 그들은 대항 영력(영력) 판정으로 주문에 저항하여 성공 시 주문 효과를 무효화할 수 있습니다. 이는 죽은 자의 영혼이 영원한 안식에 도달한 후에는 현세로 돌아오려는 의지가 거의 없기 때문입니다. 게임 마스터는 대상이 해결하지 못한 일이 있거나, 연인과 떨어질 수 없거나, 기타 영웅적인 생존 이유가 있을 경우 판정을 면제해주기로 결정할 수 있습니다.
 
-악한 영혼의 경우 지옥의 고통 대신 이생으로 돌아오는 것을 반기므로, 그들을 벌하는 tormentor(고문자)의 Willpower를 이겨내야 합니다. 이는 알 수 없으면 희생자보다 20점 높다고 가정합니다. 성공하면 영혼을 신체에 성공적으로 돌려보낸 것이며, 실패하면 희생자가 돌아오기를 거부하거나 할 수 없는 것입니다.
+영원한 고통 대신 현세로 기꺼이 돌아오려는 악한 영혼의 경우, 저항하는 것은 죽은 자의 영력이 아니라 그들의 처벌을 책임지는 악마, 마귀 등의 고문자입니다. 이 경우 시전자는 고문자의 영력을 극복해야 합니다. 고문자의 영력을 알 수 없다면, 죽은 자보다 최소 20점 높다고 가정하십시오. 이는 영혼의 의지가 강할수록 그들의 저주를 담당하는 존재도 강력함을 의미합니다. 시전자가 성공하면 영혼을 육체로 되돌리는 데 성공한 것이며, 판정에 실패하면 피해자가 돌아오기를 원치 않거나 돌아올 수 없음을 의미합니다.
 
-시전이 성공하면 대상은 히트 포인트를 완전히 회복한 상태로 생환합니다. 단, 절단된 사지는 그대로 유지됩니다. 이는 참수되거나 반으로 잘린 희생자는 머리나 몸통을 먼저 다시 부착할 때까지 일으킬 수 없음을 의미합니다. 이는 Raise Dead 시전 전 힐러 키트와 성공적인 Healing 기술 적용을 통해 수행할 수 있으며, 일반적으로 눈에 띄는 흉터를 남깁니다. 독이나 질병과 같은 다른 고통은 Raise Dead 시전 전후에 처리해야 하며, 그렇지 않으면 결과가 일시적입니다. 마지막으로 Raise Dead는 노령으로 인해 자연사한 생물에게는 효과가 없습니다.
+시전이 성공하면 대상은 완전한 생명력(HP)으로 부활하지만, 절단된 사지는 그대로 유지됩니다. 즉, 참수되거나 반으로 잘린 피해자는 머리나 몸통을 먼저 다시 붙이기 전까지는 소생할 수 없습니다. 이는 죽은 자 소생 시전 전에 치유 도구와 성공적인 치유 기술 판정을 통해 절단된 부위를 물리적으로 다시 붙임으로써 수행할 수 있으며, 일반적으로 눈에 띄는 흉터가 남습니다. 독이나 질병 같은 다른 질병은 죽은 자 소생 시전 전이나 후에 치료해야 하며, 그렇지 않으면 결과는 일시적일 뿐입니다. 마지막으로, 죽은 자 소생은 자연 수명이 다해 노환으로 사망한 생명체에게는 아무런 효과가 없습니다.
 
-죽음에서 돌아온 행위는 subject에게 매우 소모적이며, 사망한 일수당 24시간 동안 피로 수준이 Incapacitated(무력화) 상태로 감소합니다. Cure Fatigue 시전은 이 convalescence(회복기) 동안 환자에게 효과가 없습니다. 그 이후 캐릭터는 일반적인 제한 없이 피로에서 회복합니다.
+죽은 자로부터 부활하는 행위는 대상에게 매우 큰 부담을 주어, 사망했던 기간 1일당 24시간 동안 '무력화됨' 피로 레벨 상태가 됩니다. 이 회복 기간 동안 피로 회복 주문을 시전해도 환자에게는 아무런 효과가 없습니다. 이 시간이 지나면 캐릭터는 제한 없이 정상적으로 피로를 회복합니다.
 
-이 주문의 역인 Slay Living은 시전 시 성직자가 지정한 희생자 1명을 죽이는 데 사용할 수 있습니다. 이 희생자는 대상의 등급이나 SIZ(더 유리한 결과 제공)에 따라 수정된 Willpower 저항 판정을 할 수 있습니다. 상세 내용은 다음 표와 같습니다.
+반대 주문인 '생명 살해'는 시전 시 성직자가 지정한 한 명의 피해자를 즉시 죽이는 데 사용할 수 있습니다. 이 피해자는 저항을 위한 영력 판정을 할 수 있으며, 다음 표에 따라 대상에게 더 유리한 등급(Rank) 또는 크기(크기)로 수정됩니다.
 
-| 대상 등급 | 대상 SIZ | 의지력 수정치 |
+| 대상 등급 | 대상 크기 | 영력 수정치 |
 | :-: | :-: | :-: |
-| 0-1\* | 1-20 | 힘듦 |
+| 0-1\* | 1-20 | 어려움 |
 | 2 | 21-40 | 표준 |
 | 3 | 41-60 | 쉬움 |
 | 4-5 | 61+ | 매우 쉬움 |
 
-_\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
+_\* 이 범주는 클래스가 없는 캐릭터를 포함합니다._
 
-저항 판정에 실패하면 희생자는 즉사합니다. 성공한 판정은 Cause Serious Wounds의 효과와 동일하게 취급됩니다. 갑옷은 이 피해에 대한 보호를 제공하지 않습니다.
+저항 판정에 실패하면 피해자는 즉시 살해당합니다. 성공적인 판정은 '중상 유발' 주문 효과와 동일하게 처리됩니다. 갑옷은 이 피해로부터 보호를 제공하지 않습니다.
 
 ---
-#### Read Magic (마법 읽기)
+#### 마법 읽기
 
 (모두)
 
@@ -2421,43 +2404,43 @@ _\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
 | **등급:** 마법사 0 | **시전 시간:** 1분 |
 | **영역:** 없음 | **지속 시간:** 2분/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 시전자 | **저항:** 해당 없음 |
+| **영역:** 시전자 | **저항:** 없음 |
 
-이 주문은 마법 사용자가 다른 주문 시전자의 마법적 글을 읽을 수 있게 하므로 견습 마법사에게 처음 가르치는 주문입니다. 마법사의 마법적 글은 항상 그들 자신에게만 이해됩니다. 마법적 스크립트를 읽는 것이 마법 스크롤 등에 포함된 주문을 일반적으로 활성화하지는 않지만, 저주받은 마법 스크롤 등은 이 주문을 사용하여 활성화되어 스크롤에 포함된 주문이 시전됩니다.
+이 주문은 견습 마법 사용자에게 가장 먼저 가르치는 주문입니다. 이 주문을 통해서만 다른 주문 시전자의 마법 글귀를 읽을 수 있기 때문입니다. 마법사 자신의 마법 글귀는 항상 스스로가 이해할 수 있습니다. 마법 문자를 읽는다고 해서 마법 두루마리에 담긴 주문처럼 포함된 주문이 일반적으로 활성화되지는 않습니다. 그러나 저주받은 마법 두루마리 등은 이 주문을 사용하면 활성화되어 두루마리에 담긴 주문이 시전됩니다.
 
-스크롤이나 주문 책에 포함된 주문을 식별하는 데 사용하면 주문 등급당 1분이 필요합니다(1등급은 1분, 2등급은 2분 등). 지속 시간이 충분하면 이 시간 동안 추가 주문을 식별할 수 있습니다. 이 주문을 사용하여 일단 마법적 비문을 읽고 식별하면 마법 사용자는 다시 읽기 위해 Read Magic을 시전할 필요가 없습니다. 그러나 별도의 스크롤이나 책 등에 있는 동일한 주문은 Read Magic의 또 다른 시전이 필요합니다.
+두루마리나 마법 책에 담긴 주문을 식별하는 데 사용할 경우, 주문 등급마다 1분이 필요합니다. 1등급 주문은 1분, 2등급 주문은 2분이 소요됩니다. 지속 시간이 충분하다면 이 시간 동안 추가 주문을 식별할 수 있습니다. 일단 이 주문으로 마법 비문을 읽고 식별했다면, 마법 사용자는 나중에 다시 읽기 위해 마법 읽기를 다시 시전할 필요가 없습니다. 그러나 별도의 두루마리나 책에 있는 동일한 주문은 마법 읽기를 다시 시전해야 합니다.
 
-Read Magic은 모든 마법 학교에서 사용할 수 있습니다.
+마법 읽기는 모든 마법 학파에서 사용할 수 있습니다.
 
 ---
-#### Regenerate \(R\) (재생)
+#### 재생 (역)
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
 | **등급:** 성직자 4 | **시전 시간:** 3분 |
-| **영역:** 치유 | **지속 시간:** 영구적 |
+| **영역:** 치유 | **지속 시간:** 영구 |
 | **비용:** 3/강도 | **사거리:** 접촉 |
-| **범위:** 1 생물 | **저항:** 해당 없음 (패리 또는 회피) |
+| **영역:** 생명체 1명 | **저항:** 없음 (패리 또는 회피) |
 
-성직자는 신체 일부를 재생시킬 수 있습니다. 잃어버린 사지는 완전히 치유될 때까지 10분마다 히트 포인트 1점이 회복됩니다. 그러나 절단된 부위가 존재하고 피해자와 접촉 중이면 전체 회복 시간은 1분으로 줄어듭니다. 이 주문은 두 부분으로 나누어 개인을 '복제'하는 데 사용할 수 없으며, 뇌와 중추 신경계에 연결된 부분만 주문의 효과를 누립니다. 각 강도 수준은 별도의 타격 위치를 재생합니다. 더 작은 부상을 천천히 치유하는 데 이 주문을 사용할 수 있지만 더 저렴한 하위 등급 주문이 있습니다.
+시전 시, 성직자는 한 생명체를 만져 절단된 생명력 위치를 재생할 수 있습니다. 잃어버린 사지는 완전히 치유될 때까지 10분마다 생명력 1점의 속도로 완전히 자라납니다. 그러나 절단된 부위가 존재하고 피해자와 접촉해 있다면 전체 회복 시간은 1분으로 단축됩니다. 이 주문은 두 개의 별도 부위를 재생하여 개체를 '복제'하는 데 사용할 수 없으며, 뇌 및 중추 신경계와 연결된 부위만이 주문 효과의 혜택을 받습니다. 각 강도 레벨은 별도의 생명력 위치를 재생합니다. 이 주문을 작은 부상을 서서히 치유하는 데 사용할 수도 있지만, 더 낮은 등급의 비용이 적게 드는 주문들이 있습니다.
 
-이 주문의 역인 Wither는 시전자가 접촉한 피해자의 신체 부위를 쪼그라들게 하여 결국 떨어지게 만듭니다. 이 과정은 10분마다 해당 부위에 1 히트 포인트의 피해를 입히며, 0 히트 포인트에서 부위가 사용할 수 없게 되고 완전히 음수가 되면 떨어집니다. 이 효과는 Regenerate 주문 시전으로만 무효화할 수 있습니다.
+반대 주문인 '위축'은 시전자가 만진 부위를 말라 비틀어지게 하여 결국 피해자의 몸에서 떨어져 나가게 합니다. 이 과정은 10분마다 해당 부위에 생명력 1점의 피해를 입히며, 생명력이 0이 되면 사용할 수 없게 되고 완전히 음수가 되면 떨어져 나갑니다. 효과는 재생 시전으로만 무효화할 수 있습니다.
 
 ---
-#### Reincarnation, Arcane (아케인 윤회)
+#### 환생, 비전
 
-(강령술)
+(강령)
 
 | | |
 | :-- | :-- |
 | **등급:** 마법사 4 | **시전 시간:** 10분 |
-| **영역:** 없음 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도, +1 EXP | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 아래 참조 |
+| **영역:** 없음 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도, +1 경험치 | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 아래 참조 |
 
-이 주문은 강도 수준당 24시간 이내에 사망한 생물의 시체를 접촉하면서 시전됩니다. 그러나 이 버전의 Reincarnation은 순혈 엘프에게는 효과가 없습니다(대신 Raise Dead 또는 Resurrection 주문을 참조하십시오). 대상의 정렬이 악이 아닌 경우, 죽음 이후의 보상에 도달한 영혼이 이승으로 돌아오는 것을 꺼리기 때문에 대상은 대항 Willpower 판정을 하여 주문을 무효화할 수 있습니다. 게임 마스터는 희생자에게 미해결 과제가 있거나 다른 영웅적인 생존 이유가 있다면 판정을 생략할 수 있습니다.
+이 주문은 강도 1레벨당 24시간 이내에 사망한 생명체의 시체를 만지며 시전합니다. 하지만 이 환생 버전은 순혈 엘프에게는 아무런 효과가 없습니다(대신 신성 주문인 [죽은 자 소생](0010_Spells.md?id=raise-dead-r)이나 [부활](0010_Spells.md?id=resurrection-r)을 참조하십시오). 피해자의 성향이 악이 아니었다면, 대상은 대항 영력 판정으로 주문에 저항하여 성공 시 주문 효과를 무효화합니다. 이는 죽은 자의 영혼이 영원한 안식에 도달한 후에는 새로운 육체로 들어가려는 의지가 거의 없기 때문입니다. 게임 마스터는 대상이 해결하지 못한 일이 있거나, 연인과 떨어질 수 없거나, 기타 영웅적인 생존 이유가 있을 경우 판정을 면제해주기로 결정할 수 있습니다.
 
 <details>
 
@@ -2465,557 +2448,555 @@ Read Magic은 모든 마법 학교에서 사용할 수 있습니다.
 
 ---
 
-#### Reincarnation, Arcane (아케인 윤회)
+#### 환생, 비전
 
-_원본 규칙은 다음과 같았습니다: "단, 이 버전의 Reincarnation은 순혈 엘프에게는 효과가 없습니다(대신 Divine Reincarnation을 참조하십시오)."_
+_원래 규칙은 다음과 같았습니다: "하지만 이 환생 버전은 순혈 엘프에게는 아무런 효과가 없습니다(대신 신성 환생을 참조하십시오)."_
 
-_Classic Fantasy Imperative에는 Divine Reincarnation에 대한 언급이 없으므로, 이를 엘프의 귀환을 금지하지 않는 Raise Dead 및 Resurrection을 참조하도록 변경했습니다._
+_Classic Fantasy Imperative에는 신성 환생에 대한 언급이 없으므로, 이를 죽은 자 소생과 부활을 참조하도록 변경했습니다. 이 두 주문 모두 엘프의 귀환을 금지하지 않습니다._
 
 ---
 
 </details>
 
-악한 영혼의 경우 지옥의 고통 대신 이생으로 돌아오는 것을 반기므로, 그들을 벌하는 tormentor(고문자)의 Willpower를 이겨내야 합니다. 이는 영혼의 의지가 강할수록 고문에 책임이 있는 존재가 더 강력함을 나타내기 위해 희생자보다 적어도 20점 높다고 가정합니다. 성공하면 영혼을 신체에 성공적으로 안착시킨 것이며, 실패하면 희생자가 돌아오기를 거부하거나 할 수 없는 것입니다.
+영원한 고통 대신 현세로 기꺼이 돌아오려는 악한 영혼의 경우, 저항하는 것은 죽은 자의 영력이 아니라 그들의 처벌을 책임지는 악마, 마귀 등의 고문자입니다. 이 경우 시전자는 고문자의 영력을 극복해야 합니다. 고문자의 영력을 알 수 없다면, 죽은 자보다 최소 20점 높다고 가정하십시오. 이는 영혼의 의지가 강할수록 그들의 저주를 담당하는 존재도 강력함을 의미합니다. 시전자가 성공하면 영혼을 숙주에 고정시키는 데 성공한 것이며, 판정에 실패하면 피해자가 돌아오기를 원치 않거나 돌아올 수 없음을 의미합니다.
 
-성공하면 1d6 x 10분 내에 사망자의 의식을 담은 완전히 형성된 성인 신체가 나타납니다. 시전자는 영혼이 돌아올 형태나 성별을 제어할 수 없습니다. 아래 표에 따라 굴리십시오. 이전의 캐릭터 등급과 등급은 유지됩니다. 이는 캐릭터가 이전의 친구, 가족 및 지인들을 대할 때 자신이 누구인지 설득하는 데 시간이 걸릴 수 있음을 의미합니다. 이는 캐릭터가 얼마나 급격하게 변했는지에 따라 게임 마스터가 수정하는 영향력 판정으로 가장 잘 표현됩니다. 예를 들어, 다른 드워프로 환생한 드워프는 예전의 아군을 설득하기 위해 표준 영향력 판정이 필요할 수 있는 반면, 노움이나 하프링으로 환생하면 한 등급 더 어려울 수 있습니다. 마지막으로 같은 캐릭터가 고블린, 오크 또는 트롤로 변하면 지인을 설득하는 데 두 등급 더 어려울 수 있습니다.
+시전이 성공하면 1d6x10분 안에 죽은 자의 의식을 가진 성인 육체가 완전히 형성되어 나타납니다. 시전자는 영혼이 돌아올 형태나 성별을 제어할 수 없습니다. 아래 표에 따라 판정하십시오. 이전 캐릭터 클래스와 등급은 유지됩니다. 즉, 친구, 가족, 예전 지인들을 대할 때 자신이 말하는 그 사람이 맞음을 설득하는 데 노력이 필요할 수 있습니다. 관련이 있다면 진급 시점의 조직이나 길드도 포함됩니다. 이는 캐릭터가 행하는 영향력 판정으로 가장 잘 표현되며, 게임 마스터가 결정한 변화의 정도에 따라 수정됩니다. 예를 들어, 드워프가 다른 드워프로 환생한 경우 예전 동료에게 자신의 실제 정체를 확신시키기 위해 표준 영향력 판정이 필요할 수 있는 반면, 노움이나 하프링으로 환생하면 판정이 한 단계 더 어려워질 수 있습니다. 마지막으로, 고블린, 오크, 트롤처럼 극단적인 것으로 변했다면 다른 사람들에게 자신의 정체를 확신시키는 것이 두 단계 더 어려워질 수 있습니다.
 
-INT, POW, CHA를 제외한 모든 특성은 새 형태에 따라 무작위로 결정됩니다. 캐릭터의 기본 기술 등급을 다시 계산하고 그에 따라 기술 합계를 조정하십시오. Passions(열정)는 영향을 받지 않습니다. 모든 이전 종족 능력은 손실되며 새 종족 능력으로 대체됩니다. 새로운 형태가 이전 캐릭터 등급에 적합하지 않으면 deal with it(그대로 살거나)하거나 새로운 등급을 배우는 것뿐입니다. 환생한 개인은 이전 삶의 대부분을 기억하지만, 게임 마스터는 캐릭터가 첫 주 동안 중요한 사실을 기억하기 위해 Willpower 판정을 하도록 요구할 수 있습니다. Wish를 사용하면 나중에 원하는 경우 환생한 개인을 이전 형태로 돌릴 수 있습니다.
+모든 특성치는 지능(지능), 영력(영력), 매력(매력)을 제외하고 새로운 형태에 따라 무작위로 결정됩니다. 지능, 영력, 매력은 변하지 않습니다. 캐릭터의 기본 기술 레벨을 다시 계산하고 그에 따라 기술 합계를 조정하십시오. 열정은 영향을 받지 않습니다. 이전 종족 능력은 모두 상실되고 새로운 종족의 능력으로 대체됩니다. 새로운 형태가 예전 캐릭터 클래스에 적합하지 않다면, 이를 감수하거나 새로운 클래스를 배우는 것이 유일한 선택지입니다. 환생한 개인은 예전 삶의 대부분을 기억하지만, 게임 마스터는 첫 주 동안 중요한 사실을 기억하기 위해 영력 판정을 요구할 수 있습니다. 나중에 원한다면 소원 주문으로 환생한 개인을 이전 형태로 되돌릴 수 있습니다.
 
-새로운 형태를 결정하려면 다음 표를 굴리십시오.
+다음 표를 굴려 새로운 형태를 결정하십시오.
 
-##### 윤회 결과 표
+##### 환생 결과 표
 
-| 윤회 결과 |  | 아인간 |  | 인간형/몬스터 |  |
+| 환생 결과 | | 아인류 | | 인간형/몬스터 | |
 |:-:|:--|:-:|:--|:-:|:--|
-| **D100 굴림** | **결과** | **D100 굴림** | **결과** | **D100 굴림** | **결과** | 
-| 01-20 | 인간 | 01-20 | 드워프 | 01-10 | 버그베어 | 
-| 21-60 | 아인간 \* | 21-40 | 엘프 | 11-26 | 놀 | 
-| 61-95 | 인간형/몬스터 \*\* | 41-60 | 노움 | 27-42 | 고블린 | 
-| 96-00 | 기타 - GM 선택 | 61-80 | 하프엘프 | 43-58 | 홉고블린 | 
-|  |  | 81-100 | 하프링 | 59-74 | 코볼트 | 
-|  |  |  |  | 75-90 | 오크 | 
-|  |  |  |  | 91-95 | 오우거 | 
-|  |  |  |  | 96-00 | 트롤 | 
+| **D100 판정** | **결과** | **D100 판정** | **결과** | **D100 판정** | **결과** |
+| 01-20 | 인간 | 01-20 | 드워프 | 01-10 | 벅베어 |
+| 21-60 | 아인류 \* | 21-40 | 엘프 | 11-26 | 놀 |
+| 61-95 | 인간형/몬스터 \*\* | 41-60 | 노움 | 27-42 | 고블린 |
+| 96-00 | 기타 - GM 선택 | 61-80 | 하프-엘프 | 43-58 | 홉고블린 |
+| | | 81-100 | 하프링 | 59-74 | 코볼트 |
+| | | | | 75-90 | 오크 |
+| | | | | 91-95 | 오우거 |
+| | | | | 96-00 | 트롤 |
 
-\* 다시 굴리고 아인간 결과 열을 참조하십시오.
+\* 다시 굴려 아인류 결과 열을 참조하십시오.
 
-\*\* 다시 굴리고 인간형/몬스터 결과 열을 참조하십시오.
+\*\* 다시 굴려 인간형/몬스터 결과 열을 참조하십시오.
 
----
-#### Remove Curse \(R\) (저주 해제)
+---#### 저주 해제 (R)
 
-(보호)
-
-| | |
-| :-- | :-- |
-| **등급:** 성직자 2, 마법사 3 | **시전 시간:** 2행동 |
-| **영역:** ?? | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
-
-이 주문은 일반적으로 생물이나 물체를 괴롭히는 저주의 효과를 제거합니다. 무기, 방패, 갑옷과 같은 물체의 저주받은 본질을 제거하는 것은 아니지만, 그런 물체에 걸린 생물이 그것으로부터 벗어날 수 있게 합니다. 어떤 저주는 특정 강도에서만 해제될 수 있으며, 이는 일반적으로 특정 설명에 언급되어 있습니다. 라이칸스로프는 12 강도 이상의 Remove Curse나 Cure Disease 주문을 시전해야 치료할 수 있습니다.
-
-이 주문의 역인 Bestow Curse는 30분/강도의 지속 시간 동안 적에게 다음 효과 중 하나를 입힙니다. 희생자는 평소와 같이 저항하기 위해 대항 Willpower 판정을 할 수 있습니다. 1d100을 굴려 어떤 저주가 inflicted(입혀졌는지) 결정합니다.
-
-- 01-25: STR, DEX, CON을 사용하는 모든 기술이 한 단계 더 어려워짐. 이니셔티브 -4, 피해 보정치 2단계 감소.
-- 26-50: INT, POW, CHA를 사용하는 모든 기술이 한 단계 더 어려워짐. 이니셔티브 -4.
-- 51-75: 전투 기술 및 저항 판정이 2단계 더 어려워짐.
-- 76-00: 실패한 모든 기술 판정은 펌블(Fumble)로 취급됨.
-
----
-#### Remove Fear \(R\) (공포 제거)
-
-(보호 (매혹))
+(방어술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 1행동 |
-| **영역:** 매혹 | **지속 시간:** 아래 참조 |
-| **비용:** 1/강도 | **사거리:** 30피트 |
-| **범위:** 1 대상 | **저항:** 아래 참조 |
+| **등급:** 사제 2, 마법사 3 | **시전 시간:** 2 행동 |
+| **영역:** 보호 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-이 주문을 시전하면 1인당 1명씩 공포 효과를 추방할 수 있으며, 저항 판정을 추가로 할 기회를 부여합니다. Remove Fear는 아직 공포 효과를 겪지 않은 사람에게 시전할 때 10분 동안 공포로부터 신성하게 방어할 수 있습니다. 두 경우 모두 피시전자가 요구하는 저항 판정은 한 등급 더 쉽습니다. 성직자는 자신에게 이 주문을 시전하여 공포를 방어할 수는 있지만, 주문 시전을 방해하는 지속적인 공포의 효과를 제거하기 위해 시전할 수는 없습니다.
+이 주문은 일반적으로 생명체나 물건에 걸린 모든 저주의 효과를 제거합니다. 무기, 방패, 갑옷과 같은 물건의 저주받은 본질 자체를 제거하지는 않지만, 그러한 물건에 얽매인 생명체가 그것을 버릴 수 있게 해줍니다. 특정 저주는 특정 강도로 시전해야만 해제될 수 있으며, 이는 보통 해당 저주의 상세 설명에 기재되어 있습니다. 질병 치료(Cure Disease) 또는 저주 해제(Remove Curse) 중 하나를 사용하여 라이칸스로피(수인화)를 치료할 수 있으며, 두 경우 모두 강도 12가 필요합니다.
 
-이 주문의 역인 Cause Fear는 전투 중에 희생자를 만져야 합니다. Willpower 저항 판정에 실패한 자들은 1d4라운드 동안 질주 속도로 공포에 질려 도망칩니다. 방향은 주문 시전자의 반대 방향이어야 합니다. Cause Fear는 Remove Fear로 대항할 수 있고 그 반대도 가능합니다.
+이 주문의 반대인 저주 부여(Bestow Curse)는 강도당 30분의 지속 시간으로 적에게 다음 효과 중 하나를 가합니다. 피해자는 일반적인 방식대로 영력 저항 굴림을 수행하여 저항할 수 있습니다. 1d100을 굴려 부여되는 저주의 성격을 결정하십시오:
+
+- 01-25: 힘, 민첩, 체질을 사용하는 모든 기술의 난이도가 한 단계 상승합니다. 주도권 -4, 피해 수정치 2단계 감소.
+- 26-50: 지능, 영력, 매력을 사용하는 모든 기술의 난이도가 한 단계 상승합니다. 주도권 -4.
+- 51-75: 전투 기술 및 저항 굴림의 난이도가 2단계 상승합니다.
+- 76-00: 실패한 모든 기술 굴림을 펌블로 취급합니다.
+
+---
+#### 공포 제거 (R)
+
+(방어술(매료))
+
+| | |
+| :-- | :-- |
+| **등급:** 사제 1 | **시전 시간:** 1 행동 |
+| **영역:** 매료 | **지속 시간:** 아래 참조 |
+| **비용:** 1/강도 | **사거리:** 30 피트 |
+| **영역:** 대상 1명 | **저항:** 아래 참조 |
+
+이 주문의 시전자는 강도당 한 명의 개인에게서 공포 효과를 제거하고, 저항을 위한 추가 굴림을 제공할 수 있습니다. 공포 제거는 아직 공포 효과를 겪고 있지 않은 대상에게 시전하여 10분 동안 공포를 막아주는 신성한 보호를 걸 수도 있습니다. 두 경우 모두 대상이 요구하는 저항 굴림의 난이도는 한 단계 쉬워집니다. 사제가 공포를 막기 위해 스스로에게 이 주문을 시전할 수는 있지만, 주문 시전을 방해하는 진행 중인 공포 효과를 제거하기 위해 시전할 수는 없습니다.
+
+이 주문의 반대인 공포 유발(Cause Fear)은 전투 중에 피해자와 접촉해야 합니다. 의지 저항 굴림에 실패한 대상은 1d4 라운드 동안 전력 질주로 공포에 질려 도망칩니다. 방향은 반드시 주문 시전자의 반대 방향이어야 합니다. 공포 유발은 공포 제거로 대응할 수 있으며, 그 반대도 마찬가지입니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 30피트 사거리; 1대상 |
-| 2 | 2 | 60피트 사거리; 2대상 |
-| 3 | 3 | 90피트 사거리; 3대상 |
-| 4 | 4 | 120피트 사거리; 4대상 |
-| 5 | 5 | 150피트 사거리; 5대상 |
+| 1 | 1 | 30피트 사거리; 대상 1명 |
+| 2 | 2 | 60피트 사거리; 대상 2명 |
+| 3 | 3 | 90피트 사거리; 대상 3명 |
+| 4 | 4 | 120피트 사거리; 대상 4명 |
+| 5 | 5 | 150피트 사거리; 대상 5명 |
 
 ---
-#### Repair (수리)
+#### 수리
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1, 마법사 0 | **시전 시간:** 1행동 |
-| **영역:** ?? | **지속 시간:** 24시간 |
+| **등급:** 사제 1, 마법사 0 | **시전 시간:** 1 행동 |
+| **영역:** 창조 | **지속 시간:** 24시간 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 아이템 | **저항:** 해당 없음 |
+| **영역:** 물건 1개 | **저항:** 없음 |
 
-Repair는 무생물의 물리적 피해를 수정합니다. 각각의 개별 성공적인 시전은 1d3 히트 포인트의 피해를 복구합니다.
+수리는 무생물의 물리적 손상을 고칩니다. 각각의 성공적인 시전은 1d3 히트 포인트를 회복시킵니다.
 
 ---
-#### Restoration (복원)
+#### 회복
 
 (강령술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3 | **시전 시간:** 3분 |
-| **영역:** 치유 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 |
+| **등급:** 사제 3 | **시전 시간:** 3분 |
+| **영역:** 치유 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-시전 시, 에너지 흡수(Energy Drain) 또는 유사한 효과로 생명력을 소모한 피해자는 이전에 잃어버린 피로 1단계를 회복합니다. 강도 1등급에서 이 주문은 지난 24시간 이내에 소모된 생물에게만 작동합니다. 각 추가 강도는 시간이 경과할 수 있는 시간을 24시간씩 증가시킵니다. 예를 들어, 48시간 조금 전 소모된 피해자에게는 이 주문을 2강도로 시전해야 합니다. 소모된 피로의 여러 수준에는 추가 Restoration 시전이 필요합니다. 지속 시간과 상관없이 추가적인 피로 회복 외에도, 이 주문은 마법이나 정신 이상, 치매 등의 형태로 소실된 모든 정신 능력을 복원합니다. Restoration은 또한 특정 주문으로 인한 인위적인 노화로 잃은 시간을 제거하는 데 사용할 수 있습니다. 이 방식으로 주문을 시전하려면 일반적인 시전 비용 외에도 복원된 수혜자 일반 수명의 1%당 1 EXP(인간의 경우 1년)를 성직자가 소모해야 합니다. 주문은 피시전자의 현재 나이를 실제 나이 아래로 줄일 수는 없습니다.
+이 주문을 시전하면 에너지 흡수(Energy Drain)나 유사한 효과로 생명력을 잃었던 피해자는 이전에 잃었던 피로 단계를 하나 회복합니다. 강도 1단계에서는 이 주문은 지난 24시간 이내에 에너지를 흡수당한 생명체에게만 작용합니다. 강도가 1단계 높아질 때마다 주문이 작용할 수 있는 시간 제한이 24시간씩 늘어납니다. 예를 들어, 48시간 직전에 에너지를 흡수당한 피해자라면 주문을 강도 2로 시전해야 효과가 있습니다. 여러 단계의 피로 손실을 회복하려면 추가적인 회복 시전이 필요합니다. 지속 시간과 관계없이, 피로 회복과 더불어 이 주문은 마법이나 온갖 형태의 광기, 치매 등으로 잃어버린 모든 정신 능력을 복구합니다. 회복은 특정 주문 등으로 인해 인위적으로 노화된 연수를 되돌리는 데에도 사용될 수 있습니다. 이 방식으로 주문을 시전하려면 일반 시전 비용 외에도, 사제는 회복하려는 대상의 일반적인 수명의 1%당 1개의 경험치 굴림(인간의 경우 1년)을 소모해야 합니다. 이 주문은 대상의 현재 나이를 실제 나이보다 낮게 만들 수는 없습니다.
 
 ---
-#### Resurrection \(R\) (부활)
+#### 부활 (R)
 
 (강령술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 5 | **시전 시간:** 10분 |
-| **영역:** 강령술 | **지속 시간:** 영구적 |
-| **비용:** 3 + 1/추가 강도, +2 EXP | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 해당 없음 (의지력) |
+| **등급:** 사제 5 | **시전 시간:** 10분 |
+| **영역:** 강령술 | **지속 시간:** 영구 |
+| **비용:** 3, +1/추가 강도, +2 EXP | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 (영력) |
 
-Resurrection은 강도 수준당 20년 이내에 사망한 모든 생물을 되살립니다. 생명력이 돌아올 뿐만 아니라 치유되어 부상에서도 회복되며 잃어버린 사지도 복구됩니다. 주문이 여전히 효과적이려면 생물의 실제 상태가 거의 남지 않아도 됩니다. 예를 들어, Resurrection은 시신이 아무것도 없어도 강도 8로 시전하면 145년 후에도 다시 데려올 수 있습니다. 살아난 개인은 휴식 기간이 필요 없으며 즉시 완전히 기능합니다. 주문은 수명이 다해 자연사한 생물에게는 효과가 없습니다.
+부활은 강도 1단계당 20년 이내에 사망한 모든 생명체를 되살립니다. 대상은 생명을 얻을 뿐만 아니라 완전한 상태로 회복되며, 부상에서 치유되고 잃어버린 신체 부위까지 재생됩니다. 주문이 효과를 발휘하기 위해 본래 생명체의 유해가 거의 남아있지 않아도 됩니다. 예를 들어, 강도 8로 주문을 시전한다면 손가락 뼈 하나만 남아있더라도 145년이 지난 생명체를 되살릴 수 있습니다. 부활한 대상은 휴식 기간이 필요 없으며 즉시 완전히 정상적으로 활동할 수 있습니다. 이 주문은 자연 수명을 다해 자연사한 생명체에게는 아무런 효과가 없습니다.
 
-대상의 정렬이 악이 아닌 경우 대항 Willpower 판정을 통해 저항하여 무효화할 수 있습니다. 영혼은 Eternal Reward(영원한 보상)에 도달한 후 돌아오는 것을 꺼리기 때문입니다. 그러나 희생자에게 미해결 과제가 있거나 다른 영웅적인 생존 이유가 있다면 게임 마스터가 판정을 생략할 수 있습니다. 악한 영혼의 경우 지옥의 고통 대신 이생으로 돌아오는 것을 반기므로 tormentor(고문자)의 Willpower를 이겨내야 합니다. 성공하면 대상이 부활하며, 실패하면 돌아올 의지가 없거나 할 수 없습니다.
+대상인 영혼의 성향이 악이 아니라면 영력 저항 굴림을 통해 저항할 수 있으며, 성공 시 주문 효과를 무효화할 수 있습니다. 이는 죽은 자의 영혼이 영원한 안식에 도달한 후에는 다시 산 자의 세계로 돌아오길 꺼리기 때문입니다. 하지만 게임 마스터는 대상에게 미련이 남았거나, 진정한 연인과 떨어질 수 없거나, 혹은 다른 영웅적인 이유가 있다면 이 굴림을 면제해 줄 수 있습니다. 영원한 저주를 받는 대신 기꺼이 돌아오려 하는 악한 영혼의 경우, 저항하는 것은 죽은 자의 영력이 아니라 그들의 형벌을 담당하는 악마나 하급 악마 같은 존재의 영력입니다. 이 경우 시전자는 그 형벌 집행자의 영력을 극복해야 합니다. 수치를 알 수 없다면, 영혼의 의지가 강할수록 그 고통을 담당하는 존재도 강력함을 나타내기 위해 대상보다 최소 20점 높은 영력을 가진 것으로 가정하십시오. 시전자가 성공하면 부활에 성공한 것이며, 실패하면 대상은 돌아올 의사가 없거나 돌아올 수 없는 상태가 됩니다.
 
-Resurrection은 매우 소모적이며, 성직자 일반 수명의 3%를 노화(인간 시전자의 경우 3년)시킵니다. [노화](0007_Game_System.md?id=aging) 규칙을 참조하십시오.
+부활은 매우 기력을 소모하며, 시전자인 사제는 일반 수명의 3%만큼 노화합니다(인간 사제의 경우 3년). [노화](0007_Game_System.md?id=aging) 규칙을 참조하십시오.
 
-이 주문의 역인 Destruction은 시전 시 성직자와 접촉 중인 희생자 1명을 죽이는 데 사용할 수 있습니다. 희생자는 대상의 등급이나 SIZ(더 유리한 결과 제공)에 따라 수정된 Willpower 판정을 통해 저항할 수 있습니다. 상세 내용은 다음 표와 같습니다.
+이 주문의 반대인 파멸(Destruction)은 시전 시 사제와 접촉하고 있는 피해자 한 명을 즉사시키는 데 사용할 수 있습니다. 피해자는 다음 표에 따라 대상의 등급이나 크기 중 더 유리한 결과를 주는 쪽으로 수정된 영력 저항 굴림을 시도할 수 있습니다.
 
-| 대상 등급 | 대상 SIZ | 의지력 수정치 |
+| 대상 등급 | 대상 크기 | 영력 수정치 |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 힘듦 |
-| 2 | 21-40 | 표준 |
-| 3 | 41-60 | 쉬움 |
-| 4 | 61-80 | 매우 쉬움 |
-| 5 | 81+ | 매우 매우 쉬움 |
+| 0-1\* | 1-20 | 엄청남 |
+| 2 | 21-40 | 어려움 |
+| 3 | 41-60 | 보통 |
+| 4 | 61-80 | 쉬움 |
+| 5 | 81+ | 매우 쉬움 |
 
-_\* 이 범주에는 등급이 없는 캐릭터가 포함됩니다._
+_\* 이 범주에는 클래스가 없는 캐릭터가 포함됩니다._
 
-저항 판정에 실패하면 피해자는 즉사하며 시체는 먼지로 변합니다. 이 단계에서 다시 가져올 수 있는 마법은 Wish뿐입니다. 성공 시 대상은 접촉한 타격 위치에서 히트 포인트 -1d4가 됩니다. 갑옷은 이 피해에 대한 보호를 제공하지 않습니다. Destruction은 시전 시 성직자를 노화시키지 않습니다.
+이 저항 굴림에 실패하면 대상은 즉시 살해당하며 몸은 먼지가 됩니다. 소원(Wish) 주문을 시전해야만 이 단계에서 대상을 되살릴 수 있습니다. 굴림에 성공하면 대상은 접촉당한 부위의 히트 포인트가 마이너스 1d4까지 감소하는 데 그칩니다. 갑옷은 이 피해를 막아주지 못합니다. 파멸을 사용할 때 시전자는 노화하지 않습니다.
 
 ---
-#### Secure Portal (포털 고정)
+#### 보안 포털
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 1분/강도 |
 | **비용:** 1/강도 | **사거리:** 60피트/강도 |
-| **범위:** 1 포털 | **저항:** 없음 |
+| **영역:** 포털 1개 | **저항:** 없음 |
 
-이 주문은 문, 쇠창살, 게이트 또는 잠글 수 있는 개구부를 고정하여 안전하게 잠긴 것처럼 유지하는 데 사용할 수 있습니다. 강도당 최대 25 히트 포인트까지 가진 이 문은 부수지 않는 한 주문 지속 시간 동안 열리지 않으며, 시전자는 언제든지 해제할 수 있습니다. 마법은 주문의 규모보다 큰 강도의 Dispel Magic 시전이나 어떤 강도로든 Knock 주문으로 무효화될 수 있습니다. Secure Portal은 또한 Demons, Devils, Angels, Elementals와 같이 물리적 물질을 통과할 수 있는 차원 외부 생물들에 의해 자동으로 우회됩니다. 이는 Blink 주문 등에는 영향을 미치지 않습니다.
+이 주문은 문, 격자문, 성문, 혹은 나무, 돌, 금속으로 된 유사한 개구부를 단단히 잠긴 것처럼 닫아두기 위해 시전할 수 있습니다. 강도당 최대 25 히트 포인트까지 견딜 수 있는 이 문은 부술 수는 있지만, 주문 지속 시간 동안은 달리 열리지 않습니다. 주문은 시전자가 언제든 종료할 수 있습니다. 이 주문은 마법 해제(Dispel Magic)를 강도보다 높게 시전하거나, 노크(Knock) 주문을 어떤 강도로든 시전하면 무효화될 수 있습니다. 보안 포털은 악마, 하급 악마, 천사, 정령과 같이 물질계 너머의 생명체에게는 자동으로 무시되는데, 그들은 고체 물질을 통과할 수 있기 때문입니다. 또한 이 주문은 점멸(Blink)이나 기타 유사한 주문에는 영향을 미치지 않습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 1 | 1분; 60피트 사거리; 25 hp 포털; 일반적인 나무 문 |
-| 2 | 2 | 2분; 120피트 사거리; 50 hp 포털; 나무 강화 문 |
-| 3 | 3 | 3분; 180피트 사거리; 75 hp 포털; 철 문 또는 쇠창살 |
-| 4 | 4 | 4분; 240피트 사거리; 120 hp 포털; 작은 성문 |
-| 5 | 5 | 5분; 300피트 사거리; 150 hp 포털; 크고 강화된 성문 |
+| 1 | 1 | 1분; 60피트 사거리; 최대 25hp 포털; 일반적인 나무 문 |
+| 2 | 2 | 2분; 120피트 사거리; 최대 50hp 포털; 강화 나무 문 |
+| 3 | 3 | 3분; 180피트 사거리; 최대 75hp 포털; 철문 또는 격자문 |
+| 4 | 4 | 4분; 240피트 사거리; 최대 120hp 포털; 작은 성문 |
+| 5 | 5 | 5분; 300피트 사거리; 최대 150hp 포털; 크고 강화된 성문 |
 
 ---
-#### Shield (방패)
+#### 방패
 
-(창조)
+(불러내기)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 5라운드/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 시전자 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 0 |
+| **영역:** 시전자 | **저항:** 없음 |
 
-Shield는 마법 사용자의 앞에 떠 있는 보이지 않는 이동 가능한 힘의 원반을 생성하여 공격을 굴절시켜 튕겨냅니다. 미니어처 전투에서 Shield는 마법 사용자의 전방 사각형을 통과하는 피해만 차단합니다. 마법 사용자는 주문 마법이 자동으로 공격과 시전자 사이에 방패를 놓기 때문에 주문 시전 외에는 어떤 종류의 기술 판정도 할 필요가 없습니다. 방어는 공격 유형에 따라 아래 표와 같습니다.
+방패는 마법 사용자 앞에 떠다니는 투명하고 이동 가능한 힘의 원반을 생성하여, 그 방향에서 날아오는 공격을 굴절시켜 명중 난이도를 높입니다. 미니어처 전투에서 방패는 시전자의 전방 칸을 통과하는 공격만 차단할 수 있습니다. 마법 사용자는 주문 시전 외에 별도의 기술 시험을 할 필요가 없으며, 주문의 마력이 자동으로 공격과 시전자 사이에 방패를 배치하기 때문입니다. 시전자의 전방을 향해 들어오는 공격에 적용되는 페널티는 공격 유형에 따라 다르며, 다음 표에 상세히 기술되어 있습니다.
 
-| 공격 유형 | 예시 | 시전자 타격 난이도 |
+| 공격 유형 | 예시 | 시전자 명중 난이도 |
 | :-- | :-- | :-- |
-| Magic missile | Magic Missiles | 불가능(Magic Missiles은 자동 방어됨) |
-| 투척 공격 | 바위, 던진 도끼와 창 등 | 헤라클레스 급 난이도 |
-| 장치 추진 공격 | 화살, 쇠뇌 및 만티코어 볼트, 슬링 돌 등 | 어려운(Formidable) |
-| 기타 물리적 | 검, 깨물기, 발톱 등 | 힘듦 |
-| 회피 가능한 주문 | 화염구, 번개 화살 등 | 정상 난이도, 단 마법사가 회피하면 피해 없고 실패 시 절반 |
+| 마법 미사일 | 마법 미사일 전용 | 불가능, 마법 미사일은 자동으로 차단됨 |
+| 투척 공격 | 바위, 투척용 도끼와 창 등 | 헤라클레스급 |
+| 장치 추진 공격 | 화살, 쇠뇌와 맨티코어 볼트, 투석기 돌과 탄환 등 | 엄청남 |
+| 기타 물리 공격 | 검, 물기, 발톱 등 | 어려움 |
+| 회피 가능한 주문 | 화염구, 번개, 냉기 광선 등 | 보통 난이도, 단 회피 시 피해 없음, 실패 시 절반 |
 
 ---
-#### Silence (침묵)
+#### 침묵
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 2행동 |
-| **영역:** 수호 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 360피트 |
-| **범위:** 15피트 반경 | **저항:** 아래 참조 |
+| **등급:** 사제 2 | **시전 시간:** 2 행동 |
+| **영역:** 수호자 | **지속 시간:** 아래 참조 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 360피트 |
+| **영역:** 15피트 반경 | **저항:** 아래 참조 |
 
-이 주문을 사용하면 시전자는 효과 범위 내에 완전하고 철저한 침묵을 생성할 수 있습니다. 대화 중단, 주문의 언어적 성분 시전 불가 등 어떤 소리도 낼 수 없습니다. Silence를 물체나 생물에 시전하면 주문의 효과 범위가 대상과 함께 이동합니다. 그러나 허공에 시전된 주문은 고정된 상태로 유지됩니다. 주문의 지속 시간은 대상이 자발적이냐 비자발적이냐에 따라 다릅니다. 자발적인 대상의 경우 지속 시간은 2분/강도이며 비자발적인 경우 2라운드/강도입니다. 의지력 저항 판정은 비자발적인 생물에게 시전될 경우에만 허용되며, 성공하면 대신 생물이 점유한 영역을 고정된 상태로 지정합니다.
+이 주문은 시전자가 효과 범위 내에 완벽하고 완전한 침묵을 생성하게 합니다. 소리는 전혀 발생할 수 없으며, 대화는 중단되고 언어 요소가 있는 주문은 시전할 수 없습니다. 침묵이 물건이나 생명체에 시전되면, 주문의 효과 범위는 대상을 따라 이동합니다. 하지만 열린 공간에 시전된 주문은 움직이지 않습니다. 주문의 지속 시간은 대상이 자발적인지 비자발적인지에 따라 달라집니다. 자발적인 대상의 경우 지속 시간은 강도당 2분이며, 비자발적인 대상의 경우 강도당 2라운드입니다. 영력 저항 굴림은 비자발적인 생명체에게 시전했을 때만 허용되며, 성공할 경우 주문은 그 생명체가 차지한 공간을 대상으로 하여 움직이지 않은 채 유지됩니다.
 
 ---
-#### Sleep (수면)
+#### 수면
 
-(인챈트 (매혹))
+(매료)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 5분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 60피트 |
-| **범위:** 10피트 반경 | **저항:** 의지력 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 60피트 |
+| **영역:** 10피트 반경 | **저항:** 영력 |
 
-이 주문은 10피트 반경의 원형 영역 내에 강도당 생물 1체가 마법적 잠에 빠지게 합니다. 효과 범위는 공간이나 지면의 한 지점에 중심을 두며 가장 가까운 생물이 먼저 저항할 수 있고 다음 순서로 이어집니다. 거리가 같으면 누구에게 영향을 미칠지 무작위로 결정합니다. 각 생물은 저항 판정을 할 수 있으며 한 명이 성공하면 주문의 강도와 동일한 총합이 영향을 받을 때까지 또는 더 이상 생물이 범위 내에 없을 때까지 다른 생물이 시도해야 합니다. 전투 중에 있거나 경계심이 높을 경우 저항 판정이 한 등급 쉬워집니다.
+이 주문은 10피트 반경의 원형 구역 내에서 강도당 한 명의 살아있는 생명체에게 마법적인 잠을 불러일으킵니다. 주문의 효과 범위는 공간상의 한 점이나 지면을 중심으로 하며, 가장 가까운 생명체부터 저항하고 다음으로 가까운 생명체 순으로 진행됩니다. 두 명 이상이 같은 거리에 있을 경우 무작위로 결정합니다. 각 생명체는 저항 굴림을 시도할 수 있으며, 성공한 경우 다음 생명체가 주문의 강도와 동일한 수에 도달하거나 더 이상 효과 범위 내에 생명체가 없을 때까지 저항을 시도해야 합니다. 극도로 경계하고 있거나 주문 시전 시 전투 중인 생명체는 저항 굴림의 난이도가 한 단계 쉬워집니다.
 
-대형 생물(SIZ 21~40)은 수면에 덜 취약하며 저항 판정이 쉽고(Easy), 거대 생물(SIZ 41+)의 저항 판정은 매우 쉽습니다(Very Easy). 작은 생물은 항상 큰 생물보다 먼저 영향을 받습니다. 즉, SIZ 20 이하는 항상 SIZ 21~40보다 먼저 영향을 받고, 이는 SIZ 41+보다 먼저 영향을 받습니다.
+거대한 생명체(크기 21-40)는 수면에 덜 민감하여 저항 굴림이 쉬움이고, 초대형 생명체(크기 41+)의 저항 굴림은 매우 쉬움입니다. 더 작은 생명체가 더 큰 생명체보다 항상 먼저 영향을 받습니다. 따라서 크기 20 이하의 생명체는 크기 21에서 40 사이의 생명체보다 항상 먼저 영향을 받으며, 크기 21에서 40인 생명체는 크기 41 이상의 생명체보다 먼저 영향을 받습니다.
 
-잠자는 동안 대상은 무력하며 일반적인 소음에는 영향을 받지 않지만 흔들거나 뺨을 때리면 깰 수 있습니다. 치명적인 공격이 아닌 한 공격해도 깨어납니다(단, 공격은 기습으로 간주됩니다). 대상을 깨우는 데는 1라운드가 소요됩니다.
+수면 중인 생명체는 무력화 상태가 되며 평범한 소음에는 깨어나지 않지만, 흔들거나 뺨을 때리면 깨어날 수 있습니다. 치명적인 공격이 아닐지라도 공격을 받으면 깨어납니다(단, 공격은 기습으로 간주합니다). 생명체를 깨우려는 시도는 전투 라운드 1번이 소요됩니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 5분 지속; 1생물 |
-| 2 | 4 | 10분 지속; 2생물 |
-| 3 | 5 | 15분 지속; 3생물 |
-| 4 | 6 | 20분 지속; 4생물 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 5분 지속; 생명체 1명 |
+| 2 | 4 | 10분 지속; 생명체 2명 |
+| 3 | 5 | 15분 지속; 생명체 3명 |
+| 4 | 6 | 20분 지속; 생명체 4명 |
+| +1 | +1 | 계속 진행 |
 
 ---
-#### Slow (둔화)
+#### 둔화
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 2 | **시전 시간:** 2행동 |
+| **등급:** 마법사 2 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 2라운드/강도 |
 | **비용:** 3/강도 | **사거리:** 100피트 |
-| **범위:** 20피트 반경 | **저항:** 의지력 |
+| **영역:** 20피트 반경 | **저항:** 영력 |
 
-이 주문을 사용하면 시전자는 대상 생물 1체의 정상적인 이동 속도를 절반으로 줄일 수 있습니다. 추가 강도마다 한 마리의 생물을 추가로 둔화시킬 수 있습니다. 영향을 받는 생물은 주문이 처음 시전될 때 효과 범위 내에 있어야 하지만 그 이후에는 자유롭게 움직일 수 있습니다. 또한 Slow 효과를 받는 존재는 주문 지속 시간 동안 이니셔티브에 -4 페널티를 받으며 반응 행동으로만 사용되는 모든 행동 포인트를 포함하여 총 행동 포인트를 절반으로 줄여야 합니다. Slow 시전은 Haste 효과를 취소합니다. Slow는 자신이나 유사한 마법 효과와 중첩되지 않습니다.
+이 주문은 시전자가 한 생명체의 정상 이동 속도를 절반으로 줄일 수 있게 합니다. 추가 강도마다 한 명의 생명체를 추가로 둔화시킬 수 있습니다. 영향을 받는 생명체들은 주문이 처음 시전될 때 효과 범위 내에 있어야 하지만, 그 이후에는 자유롭게 움직일 수 있습니다. 또한, 둔화 효과를 받는 대상은 주문 지속 시간 동안 주도권에 -4 페널티를 받으며, 반응적 용도로만 사용되는 것을 포함하여 총 행동 포인트를 절반으로 줄여야 합니다. 둔화 시전은 가속(Haste) 효과를 무효화합니다. 둔화는 스스로 중첩되지 않으며 유사한 마법 효과와도 중첩되지 않습니다.
 
 | 강도 | 비용 | 가변 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 2라운드 지속; 1생물 |
-| 2 | 6 | 4라운드 지속; 2생물 |
-| 3 | 9 | 6라운드 지속; 3생물 |
-| 4 | 12 | 8라운드 지속; 4생물 |
-| +1 | +3 | 단계별 진행 |
+| 1 | 3 | 2라운드 지속; 생명체 1명 |
+| 2 | 6 | 4라운드 지속; 생명체 2명 |
+| 3 | 9 | 6라운드 지속; 생명체 3명 |
+| 4 | 12 | 8라운드 지속; 생명체 4명 |
+| +1 | +3 | 계속 진행 |
 
 ---
-#### Slow Poison (독 지연)
+#### 독성 완화
 
 (강령술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 1 | **시전 시간:** 1행동 |
+| **등급:** 사제 1 | **시전 시간:** 1 행동 |
 | **영역:** 치유 | **지속 시간:** 1시간/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 접촉 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자는 독과 베놈의 효과를 늦출 수 있습니다. 그러나 독소 자체를 중화하지는 않습니다. 대신 체내에 퍼지는 독소가 지연되어 추가 치료 조치를 찾을 수 있습니다. 독의 발병 시간(Onset Time)은 주문 지속 시간이 만료될 때까지 시작되지 않습니다.
+이 주문은 시전자가 독과 독소의 효과를 늦추게 합니다. 하지만 독소를 중화하지는 않습니다. 대신 몸에 퍼지는 독소를 충분히 늦춰 추가적인 치료 조치를 찾을 수 있도록 합니다. 독소의 발현 시간은 주문 지속 시간이 만료된 후에야 다시 시작됩니다.
 
-예를 들어 코브라 베놈은 고통 발병 1d6+4분, 질식 발병 1d6+6시간의 발병 시간을 가집니다. 따라서 1 강도의 Slow Poison은 발병 시간을 1시간 연명하며, 그 후 1d6+4분 뒤에 정상적으로 고통이 발생합니다.
+예를 들어, 코브라 독의 발현 시간은 1d6+4분 후 고통, 1d6+6시간 후 질식입니다. 독성 완화 1강도는 발현 시간을 1시간 뒤로 미루며, 그 후 1d6+4분이 지나면 평소처럼 고통이 시작됩니다.
 
-증상이 시작된 후에 피해자에게 Slow Poison을 시전하면 주문의 지속 시간이 만료될 때까지 증상이 중단되었다가 평소대로 계속됩니다.
+증상이 나타난 후 피해자에게 독성 완화를 시전하면 주문 지속 시간이 만료될 때까지 증상이 중단되었다가 평소처럼 다시 나타납니다.
 
-최후의 수단으로, 시전자가 독으로 '사망'한 개인에게 10분 이내에 도달할 수 있다면, Slow Poison은 피해자의 죽음을 강도당 1시간씩 연명하며, 그 기간 동안 피해자는 혼수상태에 빠집니다. 이 기간 동안 독을 치료할 수 있다면 피해자는 살아서 응급처치나 마법적 치유로 소생할 수 있습니다.
+최후의 수단으로, 시전자가 독살로 '죽은' 지 10분 이내의 개인에게 도달할 수 있다면, 독성 완화는 강도당 1시간씩 피해자의 사망을 지연시키며, 그동안 피해자는 혼수상태에 빠집니다. 이 시간 동안 피해자가 독에서 치유된다면 피해자는 살아날 수 있으며 응급 처치나 마법 치유로 회생할 수 있습니다.
 
 ---
-#### Speak with Monsters (괴물과의 대화)
+#### 괴물과의 대화
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 4 | **시전 시간:** 2행동 |
+| **등급:** 사제 4 | **시전 시간:** 2 행동 |
 | **영역:** 점술 | **지속 시간:** 2분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 100피트 |
-| **범위:** 1마리 이상의 괴물 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 100피트 |
+| **영역:** 몬스터 1명 이상 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자는 어떤 형태로든 통신(텔레파시, 페로몬, 촉각 등)할 수 있는 모든 유형의 생물을 이해하고 대화할 수 있습니다. 시전자는 단순히 자신의 언어로 말하고 생물은 자신의 통신 형태 내에서 시전자의 의도나 질문을 이해합니다. 게임 마스터는 시전자의 정렬과 비교하여 생물의 정렬을 기반으로 생물의 반응을 결정해야 합니다. 시전자는 주문 지속 시간 동안 같은 유형의 생물에서 다른 생물로 전환할 수 있습니다.
+이 주문은 시전자가 어떠한 형태의 의사소통(텔레파시, 페로몬, 촉각 등)이든 가능한 모든 생명체의 말을 이해하고, 자신의 말을 그들에게 이해시킬 수 있게 합니다. 시전자는 모국어로 말하고 생명체는 자신의 의사소통 방식으로 시전자의 의도나 질문을 이해합니다. 게임 마스터는 시전자의 성향과 비교하여 해당 생명체의 성향을 기반으로 반응을 결정해야 합니다. 시전자는 주문 지속 시간 동안 같은 종류의 생명체라면 다른 개체로 대상을 전환할 수 있습니다.
 
 ---
-#### Sphere of Invulnerability, Lesser (하급 불가침 구체)
+#### 소 불침범의 구체
 
-(보호)
+(방어술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 3 | **시전 시간:** 2행동 |
+| **등급:** 마법사 3 | **시전 시간:** 2 행동 |
 | **영역:** 없음 | **지속 시간:** 1라운드/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 5피트 반경 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도 | **사거리:** 0 |
+| **영역:** 5피트 반경 | **저항:** 없음 |
 
-이 주문을 시전하면 시전자 주변에 흔들리는 마법적 보호의 고정된 구체가 형성됩니다. 마법 아이템이나 일부 생물의 타고난 마법 능력이 생성하는 것을 포함하여 1등급 및 2등급 주문과 그들이 생성하는 모든 마법적 영역은 구체를 관통하지 못합니다. 시전자와 주문이 가능한 아군은 아무런 역효과 없이 구체 내부에서 마법 공격을 시작할 수 있으며 구체를 떠나 돌아와도 지속 시간에는 영향을 주지 않습니다. 하급 불가침 구체는 Dispel Magic에 정상적으로 영향을 받습니다.
+이 주문을 시전하면, 시전자 주변에 움직이지 않는 희미하게 빛나는 마법 보호 구체가 형성됩니다. 1~2등급 주문과 이들이 생성하는 모든 마법적 효과 범위는 마법 아이템이나 일부 생명체의 타고난 마법 능력을 포함하여 구체를 통과하지 못합니다. 시전자와 주문 시전이 가능한 아군은 구체 안에서 마법 공격을 해도 불이익이 없으며, 구체를 떠났다가 다시 들어와도 지속 시간에 영향을 미치지 않습니다. 소 불침범의 구체는 마법 해제(Dispel Magic)에 정상적으로 영향을 받습니다.
 
 ---
-#### Spider Climb (거미 등반)
+#### 거미 오르기
 
-(변형)
+(변환술)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 2분/강도 |
 | **비용:** 1/강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **영역:** 대상 1명 | **저항:** 없음 |
 
-이 주문의 수혜자는 거꾸로 매달린 상태에서도 10피트 이동 속도로 수직면과 천장을 따라 움직일 수 있습니다. 대상은 모든 손과 신발을 벗어야 하며 손에 달라붙는 물건(가벼운 ENC)을 사용하는 것은 불가능합니다. 여기에는 대부분의 주문 시전 재료 구성 요소가 포함되며, 보통 Spider Climb의 영향을 받는 동안 주문 시전이 불가능하게 됩니다. 개별 아이템을 개인에게서 떼어내거나 표면에서 저항하는 개인을 떼어내려면 어려운 난이도의 Brawn 판정에 성공해야 합니다.
+이 주문의 대상은 거꾸로 매달린 채로도 10피트 이동 속도로 수직면과 천장을 따라 움직일 수 있습니다. 대상은 모든 손발의 신발을 벗어야 하며, 손에 달라붙기 때문에 매우 작은 물체(무시할 수 있는 ENC)를 사용하는 것은 불가능합니다. 여기에는 대부분의 주문 시전 재료 구성 요소가 포함되며, 따라서 거미 오르기 효과를 받는 동안은 주문 시전이 불가능한 경우가 많습니다. 대상에게서 물체를 떼어내거나, 벽에 붙어 저항하는 대상을 강제로 떼어내려면 어려운 난이도의 완력 굴림에 성공해야 합니다.
 
 ---
-#### Spiritshield (영혼 방패)
+#### 영혼 방패
 
-(보호)
+(방어술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0 | **시전 시간:** 1행동 |
+| **등급:** 사제 0 | **시전 시간:** 1 행동 |
 | **영역:** 강령술 | **지속 시간:** 집중 |
 | **비용:** 1 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **영역:** 대상 1명 | **저항:** 영력 |
 
-이 주문은 영혼과 유령이 진입하지 못하도록 수혜자 주변에 방패를 형성합니다. 수혜자를 공격하거나 점유하려는 모든 영혼이나 유령은 그들의 Willpower vs 시전자의 Piety 기술 대항 테스트에서 승리하여 주문을 극복해야 합니다.
+이 주문은 영혼과 유령이 들어오지 못하도록 막는 방패를 대상 주변에 형성합니다. 대상을 공격하거나 빙의하려는 모든 영혼이나 유령은 자신의 영력과 시전자의 신앙심 기술을 겨루는 대항 판정에서 승리하여 주문을 극복해야 합니다.#### 영적인 망치
 
----
-#### Spiritual Hammer (영적인 망치)
-
-(창조)
+(소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2 | **시전 시간:** 2행동 |
-| **영역:** 전투 | **지속 시간:** 3라운드/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 30피트 반경/강도 | **저항:** 패리 또는 회피 |
+| **등급:** 사제 2 | **시전 시간:** 2 행동 |
+| **영역:** 전투 | **지속 시간:** 3 라운드/강도 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 0 |
+| **영역:** 30피트 반경/강도 | **저항:** 패리 또는 회피 |
 
-이 주문 시전 시 영적인 에너지의 망치 같은 힘이 나타나 시전자가 지정한 대상에게 돌진합니다. 매 턴 시전자는 집중이 유지되는 한 행동 포인트 하나를 사용하여 망치를 지시할 수 있습니다. 집중하는 동안 시전자는 걷는 것보다 빠르게 이동할 수 없으며, 집중을 깨지 않고 장착된 무기나 방패로 회피하거나 패리할 수 있습니다. 행동 포인트를 사용할 때마다 망치를 시전자의 시야 내 어디로든 이동할 수 있습니다. 시전자가 상대 뒤에 있다면 망치를 사용하여 상대 뒤에서 타격하여 상대가 최선을 다해 방어할 기회를 없앨 수 있습니다. Spiritual Hammer는 일반 전쟁 망치(1d8+1)와 동일한 피해를 입히며 성직자의 전투 기술과 동일한 적중 확률을 가집니다. 착용 갑옷은 절반의 방어만 제공하지만 마법 방어력 수치나 자연 방어력은 평소대로 피해를 줄입니다. 망치는 정상적으로 패리되거나 회피될 수 있으며 망치에 대한 공격은 효과가 없습니다. Spiritual Hammer는 마법으로만 해를 입는 존재를 공격할 때 마법 무기로 간주되며, 첫 번째 강도 이후 모든 강도 수준은 누적 +1 마법 보너스와 동등한 효과를 부여합니다(최대 +5). 이 보너스는 가한 피해에 추가되지 않으며, 특정 마법 보너스 이상으로만 피해를 입는 생물을 타격하는 데 도움이 됩니다.
+이 주문을 시전하면 영적인 에너지로 이루어진 망치 같은 힘이 나타나며, 시전자가 지정한 대상을 향해 날아갑니다. 시전자는 집중을 유지하는 동안 매 턴 자신의 행동 점수 중 하나를 사용하여 망치가 공격하도록 지시할 수 있습니다. 집중하는 동안 시전자는 걷는 속도보다 빠르게 이동할 수 없으며, 집중을 깨지 않고 장착된 무기나 방패로 회피하거나 패리할 수 있습니다. 망치를 조종하는 데 행동 점수를 소모할 때마다, 망치는 시전자의 시야 내 어느 위치로든 이동할 수 있습니다. 만약 시전자가 상대의 뒤에 있다면, 망치를 사용해 상대의 뒤를 공격하여 상대가 할 수 있는 최선의 방어 기회를 무효화할 수 있습니다. 영적인 망치는 일반적인 워 해머(1d8+1)와 동일한 피해를 입히며, 명중 확률은 사제의 전투 기술과 같습니다. 착용 중인 갑옷은 절반의 보호력만을 제공하지만, 마법적인 방어 점수나 생명체의 자연 방어력은 평소와 같이 피해를 감소시킵니다. 망치는 일반적인 방법으로 패리하거나 회피할 수 있으며, 망치를 대상으로 한 공격은 효과가 없습니다. 영적인 망치는 마법으로만 피해를 입는 생명체를 공격할 때 마법 무기로 간주되며, 첫 번째 강도 이후의 각 강도 레벨마다 최대 +5까지 누적되는 +1 마법 보너스를 부여합니다. 이 보너스는 입히는 피해에 추가되는 것이 아니라, 특정 마법 보너스 이상으로만 피해를 입는 생명체에게 피해를 줄 수 있도록 돕습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 3라운드; 30피트 반경; +0 보너스 |
-| 2 | 4 | 6라운드; 60피트 반경; +1 보너스 |
-| 3 | 5 | 9라운드; 90피트 반경; +2 보너스 |
-| 4 | 6 | 12라운드; 120피트 반경; +3 보너스 |
-| 5 | 7 | 15라운드; 150피트 반경; +4 보너스 |
-| 6 | 8 | 18라운드; 180피트 반경; +5 보너스(최대) |
-| +1 | +1 | 라운드 및 반경에 대한 단계별 진행 |
+| 1 | 3 | 3 라운드; 30피트 반경; +0으로 간주 |
+| 2 | 4 | 6 라운드; 60피트 반경; +1로 간주 |
+| 3 | 5 | 9 라운드; 90피트 반경; +2로 간주 |
+| 4 | 6 | 12 라운드; 120피트 반경; +3으로 간주 |
+| 5 | 7 | 15 라운드; 150피트 반경; +4로 간주 |
+| 6 | 8 | 18 라운드; 180피트 반경; 최대 +5로 간주 |
+| +1 | +1 | 라운드 및 반경에 대해 단계적 증가 지속 |
 
 ---
-#### Sun Ray (태양 광선)
+#### 태양 광선
 
-(창조, 변형)
+(소환, 변이)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 5 | **시전 시간:** 2행동 |
-| **영역:** 태양 | **지속 시간:** 1d4+1라운드 |
+| **등급:** 사제 5 | **시전 시간:** 2 행동 |
+| **영역:** 태양 | **지속 시간:** 1d4+1 라운드 |
 | **비용:** 3/강도 | **사거리:** 30피트/강도 |
-| **범위:** 5피트 반경 | **저항:** 아래 참조 |
+| **영역:** 5피트 반경 | **저항:** 아래 참조 |
 
-시전 시 성직자는 주문 지속 시간 중 언제든지 Cast Magic 행동을 사용하여 눈부신 성스러운 빛 광선을 소환할 수 있습니다. 광선은 자연 햇빛이며 5피트 반경을 가집니다. 효과 범위 내의 생물은 눈을 가리기 위해 회피(Evade)해야 하며 그렇지 않으면 1d3분 동안 실명합니다. 저항 판정에 실패하면 Sun Ray는 Dark Vision을 사용하는 생물을 2d4분 동안 실명시키고 효과 범위 너머 20피트까지 1d4+1분 동안 Dark Vision 능력을 잃게 합니다. 자연 햇빛이 시력에 해로운 생물은 저항 판정에 실패하면 영구적으로 실명하거나 성공하면 2d6라운드 동안 실명합니다.
+시전 시, 사제는 주문의 지속 시간 동안 언제든 마법 시전 행동을 사용하여 찬란한 성스러운 빛의 광선을 소환할 수 있습니다. 이 광선은 자연 태양광이며 5피트 반경을 가집니다. 효과 영역 내에 있는 대상은 눈을 가리기 위해 회피 굴림을 해야 하며, 실패 시 1d3분 동안 눈이 멉니다. 저항 굴림에 실패하면 태양 광선은 암시력을 사용하는 생명체를 2d4분 동안 실명시키며, 효과 영역 밖으로 20피트까지 1d4+1분 동안 암시력 능력을 상실하게 합니다. 자연 태양광이 시력에 해로운 생명체는 저항 굴림 실패 시 영구적으로 실명하거나, 굴림 성공 시 2d6라운드 동안 실명합니다.
 
-효과 범위 내 언데드는 각 타격 위치에 2d6의 피해를 입습니다. 자연 갑옷 등은 보호를 제공하지 않지만 마법 방어력 수치는 평소대로 피해를 줄입니다. 효과 범위 가장자리 5피트 이내에 있는 자들은 회피하여 피해를 입지 않을 수 있습니다. 효과 범위 20피트 이내의 언데드는 여전히 1d6+1 피해를 입지만 저항 판정에 성공하면 피해를 입지 않습니다. 뱀파이어와 같이 햇빛에 특히 피해를 입는 언데드는 회피 판정에 실패하면 파괴됩니다. 곰팡이 생물과 모든 형태의 지하 곰팡이는 언데드와 동일한 효과를 겪지만 저항 판정을 할 수 없습니다.
+효과 영역 내의 언데드는 각 신체 부위에 2d6점의 피해를 입습니다. 자연 갑옷이나 다른 갑옷은 보호를 제공하지 않지만, 마법적인 방어 점수는 평소와 같이 피해를 감소시킵니다. 효과 영역 가장자리에서 5피트 이내에 있는 대상은 회피를 통해 피해를 입지 않을 수 있습니다. 효과 영역 20피트 이내의 언데드는 여전히 1d6+1점의 피해를 입지만, 저항 굴림에 성공하면 피해를 입지 않습니다. 뱀파이어처럼 태양광에 특별히 피해를 입는 언데드는 회피에 실패하면 파괴됩니다. 균류 생명체 및 모든 형태의 지하 균류는 언데드와 동일한 효과를 받지만 저항 굴림을 할 수 없습니다.
 
 ---
-#### Tidy (정돈)
+#### 정리
 
-(변형)
+(변이)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 0 | **시전 시간:** 1행동 |
+| **등급:** 마법사 0 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 즉시 |
 | **비용:** 1 | **사거리:** 20피트 |
-| **범위:** 아래 참조 | **저항:** 없음 |
+| **영역:** 아래 참조 | **저항:** 없음 |
 
-Tidy는 즉시 수량(시전자의 POW까지)의 물건들(각각 2 '물건' 이하 크기)을 깔끔하고 정돈된 상태로 정리합니다. 2 '물건'보다 큰 물건은 더 정돈된 위치로 이동하지만 제대로 정리하려면 수동 작업이 필요합니다.
+정리는 즉시 주문 사거리 내에 있는 여러 물품(총합 시전자의 영력 이하)을 각 2 'Things' 이하의 크기로 가지런하고 깔끔하며 질서 정연한 상태로 복구합니다. 각 2 'Things'보다 큰 물품은 더 질서 있는 위치로 이동되지만, 제대로 정리하려면 수동 작업이 필요합니다.
 
 ---
-#### True Seeing (진실의 시야)
+#### 진실의 시야
 
 (점술)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3, 마법사 4 | **시전 시간:** 1라운드 |
+| **등급:** 사제 3, 마법사 4 | **시전 시간:** 1 라운드 |
 | **영역:** 점술 | **지속 시간:** 1분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1 대상 | **저항:** 없음 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 접촉 |
+| **영역:** 1 대상 | **저항:** 없음 |
 
-True Seeing은 수혜자에게 60피트 사거리 내에서 시야선에 따라 세상을 명확하게 볼 수 있는 능력을 부여합니다. 효과 범위 내의 모든 비밀이 드러납니다. 자연 및 마법적 어둠이 관통되고, 비밀 문이 보이며, 투명하거나 에테르 공격자가 드러나고, 환영과 환상이 명백해지며, 형태가 변한 생물의 진정한 형태가 드러납니다. 농축 시 물질 차원에 인접한 에테르와 다른 차원들도 엿볼 수 있습니다. True Seeing은 또한 Blur와 Mirror Image와 같은 주문의 효과를 무효화합니다. 일상적인 재료 구성 요소 외에도 True Seeing을 시전하려면 최소 300GP 가치의 버섯 가루, 샤프란, 동물성 지방으로 만든 희귀 성분이 필요합니다.
+진실의 시야는 대상에게 시야선이 닿는 60피트 범위까지 세상을 명확하게 볼 수 있는 능력을 부여합니다. 효과 영역 내의 모든 비밀이 드러나며, 자연적 및 마법적 어둠을 뚫고 볼 수 있습니다. 비밀 문이 보이게 되고, 투명하거나 에테르 상태의 공격자가 드러나며, 환영과 환각이 명확해지고, 변신한 생명체의 본모습이 드러납니다. 집중을 유지하면 에테르계 및 물질계와 인접한 다른 차원까지 엿볼 수 있습니다. 진실의 시야는 또한 흐리기 및 거울상과 같은 주문의 효과를 무효화합니다. 일반적인 물질 요소 외에도, 진실의 시야를 시전하려면 최소 300GP 가치의 가루 낸 버섯, 사프란, 동물성 지방으로 만든 희귀 재료가 필요합니다.
 
 ---
-#### Voice (목소리)
+#### 목소리
 
-(인챈트 (매혹))
+(매혹 (매력))
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 0 | **시전 시간:** 1행동 |
+| **등급:** 사제 0 | **시전 시간:** 1 행동 |
 | **영역:** 매혹 | **지속 시간:** 집중 |
 | **비용:** 1 | **사거리:** 아래 참조 |
-| **범위:** 1 대상 | **저항:** 의지력 |
+| **영역:** 1 대상 | **저항:** 의지력 |
 
-Voice는 수혜자의 어조와 전달력을 증폭시켜 언어적 명령을 내릴 때 설득력을 갖게 합니다. 듣는 모든 사람은 강제로 들어야 합니다. 그들의 발성 또한 가장 큰 배경 소음(강풍, 폭포 소리, 전장에서의 무기 충돌 소리 등)을 뚫고 수혜자 CHA의 30배(피트) 사거리까지 전달됩니다.
+목소리는 수신자의 억양과 전달력을 증폭시켜 언어적 명령을 내릴 때 설득력을 갖게 합니다. 화자의 소리를 들을 수 있는 모든 이는 강제로 귀를 기울이게 됩니다. 또한 그들의 발성은 가장 시끄러운 배경 소음(몰아치는 폭풍, 폭포의 굉음, 전장의 무기 부딪치는 소리) 속에서도 수신자의 매력 능력치에 30을 곱한 피트 거리까지 전달됩니다.
 
 ---
-#### Wall of Fire/Circle of Fire (불의 벽/불의 원)
+#### 불의 벽/불의 원
 
-(창조)
+(소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 3, 마법사 3 | **시전 시간:** 2행동 |
-| **영역:** ?? | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 아래 참조 |
-| **범위:** 아래 참조 | **저항:** 아래 참조 |
+| **등급:** 사제 3, 마법사 3 | **시전 시간:** 2 행동 |
+| **영역:** 전투, 원소(불) | **지속 시간:** 아래 참조 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 아래 참조 |
+| **영역:** 아래 참조 | **저항:** 아래 참조 |
 
-이 주문을 사용하면 시전 시 원하는 대로 보라색이나 붉은 파란색으로 타오르는 불의 벽이나 원을 생성할 수 있습니다. 집중이 유지되거나 Concentration이 종료된 후 강도당 1라운드 동안 주문이 지속됩니다. 상세 내용은 유형에 따라 다음과 같습니다.
+이 주문은 시전 시 원하는 대로 보라색이나 붉은 푸른색으로 타오르는 불의 벽 또는 불의 원을 불러낼 수 있게 합니다. 주문의 지속 시간은 집중이 유지되는 동안 계속되거나, 집중이 종료된 후에는 강도당 1라운드 동안 유지됩니다. 상세한 내용은 유형에 따라 다음과 같습니다.
 
-**Wall of Fire:** 이 주문 버전은 강도당 20피트 길이의 고정된 불 벽을 생성합니다. 최종 강도에 관계없이 벽의 높이는 시전 시 원하는 대로 10~20피트입니다. Wall of Fire는 180피트의 사거리를 가지며 수평으로 생성할 수 없습니다.
+**불의 벽:** 이 주문 형태는 강도당 20피트 길이의 고정된 불의 벽을 생성합니다. 최종 강도와 관계없이 벽의 높이는 시전 시 원하는 대로 10~20피트로 설정할 수 있습니다. 불의 벽은 180피트의 사거리를 가지며 수평으로 소환할 수 없습니다.
 
-**Circle of Fire:** 이 주문 버전은 시전자 주변을 이동하는 불의 원을 생성합니다. 반지름은 10피트이며 첫 번째 이후 추가 강도당 5피트씩 늘어납니다. 최종 강도에 관계없이 원의 높이는 시전 시 원하는 대로 10~20피트입니다. Circle of Fire는 시전자를 감싸야 하며 사거리는 0입니다.
+**불의 원:** 이 주문 형태는 시전자를 중심으로 이동하는 불의 원을 생성합니다. 반경은 10피트이며, 첫 번째 이후 추가 강도당 5피트씩 늘어납니다. 최종 강도와 관계없이 원의 높이는 시전 시 원하는 대로 10~20피트로 설정할 수 있습니다. 불의 원은 시전자를 감싸야 하며 사거리는 0입니다.
 
-시전자로부터 멀어지는 벽이나 원의 면은 10피트 이내의 모든 존재에게 라운드당 1d6 피해를, 20피트까지 1d4 피해를 입히는 뜨거운 열기를 방출합니다. 이 피해는 일반적으로 다음 라운드로 넘어가기 전 라운드 종료 시 적용됩니다. 피해자가 한 라운드에 두 열 구역을 모두 차지하면 더 큰 피해가 적용됩니다. 불꽃을 뛰어넘는 자들은 2d6 피해를 입고, 첫 강도 이후 추가 강도마다 1점씩 추가 피해를 입습니다. 이 피해는 각 타격 위치에 적용되며 갑옷은 보호하지 않지만 마법 방어력 수치나 자연 방어력은 평소대로 피해를 줄입니다. 회피 저항 판정에 성공하면 피해자가 열기에서 멀어지거나 불꽃을 지나려고 시도할 때 주문이 발생하는 라운드 동안 피해를 입지 않습니다. 불을 사용하는 생물은 피해를 절반 입고 냉기를 사용하는 생물은 두 배의 피해를 입습니다. 불꽃은 굴린 피해 x 5%의 확률로 인화성 물질에 불을 붙일 수 있습니다. 자세한 내용은 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
+시전자 반대편의 벽이나 원은 뜨거운 열기를 방출하여 10피트 이내의 모든 이에게 라운드당 1d6 피해를, 20피트까지 1d4 피해를 입힙니다. 이 피해는 일반적으로 라운드가 끝나기 직전에 적용됩니다. 희생자가 한 라운드에 두 열기 구역을 모두 점유하는 경우, 더 큰 피해가 적용됩니다. 불길을 뛰어넘는 이들은 2d6점의 피해와 첫 번째 이후 강도당 1점의 추가 피해를 입습니다. 이 피해는 각 신체 부위에 적용되며 착용 중인 갑옷은 보호를 제공하지 않지만, 마법적인 방어 점수나 생명체의 자연 방어력은 평소와 같이 피해를 감소시킵니다. 회피 저항 굴림에 성공하면 열기에서 벗어나거나 불길을 지나치려 시도하는 동안 해당 라운드에 피해를 입지 않을 수 있습니다. 불을 사용하는 생명체는 절반의 피해를, 냉기를 사용하는 생명체는 두 배의 피해를 입습니다. 불길은 입힌 피해 수치에 5%를 곱한 확률로 가연성 물질에 불을 붙일 수 있습니다. 추가 정보는 [불](0007_Game_System.md?id=fire-based-attacks) 섹션을 참조하십시오.
 
 ---
-#### Water Breathing \(R\) (수중 호흡)
+#### 수중 호흡 (R)
 
-(변형)
+(변이)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 2, 마법사 2 | **시전 시간:** 2행동 |
+| **등급:** 사제 2, 마법사 2 | **시전 시간:** 2 행동 |
 | **영역:** 원소(물, 공기) | **지속 시간:** 6시간/강도, +1d4시간 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 접촉 |
-| **범위:** 1명 이상의 대상 | **저항:** 해당 없음 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 접촉 |
+| **영역:** 1인 이상의 대상 | **저항:** 없음 |
 
-이 주문을 사용하면 시전자나 다른 사람들이 지속 시간 동안 물속에서 숨을 쉴 수 있습니다. 시전하는 동안 여러 수혜자를 접촉하여 Water Breathing의 혜택을 얻게 할 수 있습니다. 이 경우 지속 시간은 대상 수로 나뉩니다. Water Breathing 주문의 정확한 지속 시간은 예측 불가능하며 게임 마스터가 굴려야 합니다. 얼마나 남았는지 특별히 알 수 없어야 하기 때문입니다. 이 주문의 역인 Air Breathing은 산소를 들이마실 수 없는 생물이 그렇게 할 수 있게 합니다. 원래 자연 환경에서 호흡할 능력은 주문 변형에 관계없이 유지되므로 물고기는 주문 지속 시간 동안 육지와 물속 모두에서 숨을 쉴 수 있습니다.
+이 주문은 시전자나 다른 이들에게 지속 시간 동안 물속에서 숨 쉴 수 있는 능력을 부여합니다. 시전 시 접촉한 하나 이상의 대상이 수중 호흡의 혜택을 얻을 수 있습니다. 이 경우 지속 시간은 대상 수로 나눕니다. 수중 호흡 주문의 정확한 지속 시간은 예측할 수 없으며, 주문 효과를 받는 이들이 남은 시간을 정확히 알 수 없도록 게임 마스터가 굴림해야 합니다. 이 주문의 반대인 공기 호흡은 산소 없이 숨 쉴 수 없는 생명체가 숨 쉴 수 있게 합니다. 자신의 본래 원소로 숨 쉬는 능력은 주문의 변형과 상관없이 유지되므로, 물고기는 주문 지속 시간 동안 육지와 물속 모두에서 숨 쉴 수 있습니다.
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 6시간 + 1d4시간 총합 |
-| 2 | 4 | 12시간 + 1d4시간 총합 |
-| 3 | 5 | 18시간 + 1d4시간 총합 |
-| 4 | 6 | 24시간 + 1d4시간 총합 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 총 6시간 +1d4시간 |
+| 2 | 4 | 총 12시간 +1d4시간 |
+| 3 | 5 | 총 18시간 +1d4시간 |
+| 4 | 6 | 총 24시간 +1d4시간 |
+| +1 | +1 | 단계적 증가 지속 |
 
 ---
-#### Web (거미줄)
+#### 거미줄
 
-(창조)
+(소환)
 
 | | |
 | :-- | :-- |
-| **등급:** 마법사 1 | **시전 시간:** 1행동 |
+| **등급:** 마법사 1 | **시전 시간:** 1 행동 |
 | **영역:** 없음 | **지속 시간:** 20분/강도 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 30피트/강도 |
-| **범위:** 20피트 반경 | **저항:** 회피, + 아래 참조 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 30피트/강도 |
+| **영역:** 20피트 반경 | **저항:** 회피, 플러스 아래 참조 |
 
-이 주문은 마법 사용자의 손에서 끈적끈적한 거미줄 가닥이 튀어나오게 하여, 통로를 막거나 진행을 방해하기 위해 바닥에서 천장으로, 또는 벽에서 벽으로 고정할 수 있습니다. 상대를 직접 덮쳐 얽히게 할 수도 있습니다.
+이 주문은 시전자의 손에서 끈적이는 거미줄 가닥을 발사하여 통로를 막거나 진행을 방해하기 위해 바닥과 천장, 또는 벽과 벽 사이에 고정할 수 있게 합니다. 또한 상대를 직접 덮쳐 포박할 수도 있습니다.
 
-대상이 거미줄을 피할 공간이 있다고 가정할 때, 회피 판정에 성공하면 대상은 효과 범위 밖으로 이동합니다. 단, 행동 포인트가 있어야 합니다. 저항 판정에 실패하면 희생자는 고정되며 1d3개의 타격 위치가 얽힙니다. [얽힘](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) 특수 효과처럼, 거미줄에 묶인 위치는 사용할 수 없습니다. 얽힌 팔은 들고 있는 물건을 사용할 수 없고, snared(덫에 걸린) 가슴, 복부 또는 다리는 모든 물리적 기술 판정을 한 단계 더 어렵게 하며(Brawn 판정 제외), 얽힌 머리는 [질식](0007_Game_System.md?id=asphyxiation)을 유발합니다.
+대상이 거미줄을 피할 공간이 있다고 가정할 때, 회피 굴림에 성공하면 대상은 효과 영역 밖으로 벗어납니다. 단, 이를 위해서는 행동 점수가 필요합니다. 저항 굴림에 실패하면 희생자는 움직일 수 없게 되며 1d3개의 신체 부위가 포박됩니다. [포박](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) 특수 효과와 마찬가지로, 거미줄에 걸린 신체 부위는 사용할 수 없습니다. 거미줄에 걸린 팔은 들고 있는 것을 사용할 수 없으며, 가슴, 복부, 다리가 묶이면 모든 물리 기술 굴림이 한 단계 어려워집니다(탈출을 시도하기 위한 근력 굴림 제외). 거미줄에 갇힌 머리는 [질식](0007_Game_System.md?id=asphyxiation) 세부 사항에 따라 질식을 유발합니다.
 
-다음 턴에 피해자는 거미줄에서 탈출하기 위해 행동 포인트를 사용할 수 있습니다. 마법 거미줄은 매우 강하고 끈적거리며 6의 방어력과 주문 강도의 3배에 해당하는 히트 포인트를 가집니다. 탈출을 시도하려면 Brawn 대 거미줄의 끈적임(시전자의 아케인 시전 기술과 동일)의 대항 판정에서 승리해야 합니다. 실패하면 대상은 고정된 상태로 머물며 힘만으로 탈출할 수 없습니다. 절단하여 탈출을 시도하면 도구나 무기가 동일한 과정에 노출됩니다. 일반적인 믿음과 달리 거미줄은 인화성이 아니지만, 캐릭터가 불꽃을 사용하여 가닥을 수축시켜 천천히 길을 만들 수 있습니다(화염 피해는 Web의 방어력을 무시합니다).
+다음 턴에 희생자는 행동 점수를 소모하여 거미줄을 찢고 탈출을 시도할 수 있습니다. 마법 거미줄은 매우 강하고 끈적이며, 방어 점수 6과 주문 강도의 3배에 해당하는 체력을 가집니다. 탈출을 시도하려면 거미줄의 끈적임(시전자의 비전 마법 시전 기술과 동일)을 상대로 근력 대항 굴림에서 승리해야 합니다. 실패하면 대상은 계속 묶인 상태로 남으며 근력만으로는 탈출할 수 없습니다. 자르려고 시도하면 사용한 도구나 무기도 같은 과정을 겪게 됩니다. 일반적인 통념과 달리 거미줄은 불에 타지 않지만, 캐릭터가 불꽃을 사용하여 가닥을 수축시킴으로써 서서히 길을 뚫을 수는 있습니다(화염 피해는 거미줄의 방어 점수를 무시함).
 
-| 강도 | 비용 | 가변 효과 |
+| 강도 | 비용 | 변동 효과 |
 | :-: | :-: | :-- |
-| 1 | 3 | 20분; 30피트 사거리; 방어력 6, 3 히트 포인트 |
-| 2 | 4 | 40분; 60피트 사거리; 방어력 6, 6 히트 포인트 |
-| 3 | 5 | 60분; 90피트 사거리; 방어력 6, 9 히트 포인트 |
-| 4 | 6 | 80분; 120피트 사거리; 방어력 6, 12 히트 포인트 |
-| +1 | +1 | 단계별 진행 |
+| 1 | 3 | 20분; 30피트 사거리; 방어 6, 체력 3 |
+| 2 | 4 | 40분; 60피트 사거리; 방어 6, 체력 6 |
+| 3 | 5 | 60분; 90피트 사거리; 방어 6, 체력 9 |
+| 4 | 6 | 80분; 120피트 사거리; 방어 6, 체력 12 |
+| +1 | +1 | 단계적 증가 지속 |
 
 ---
-#### Wish (소원)
+#### 소원
 
-(창조, 창조)
+(창조, 소환)
 
 | | |
 | :-- | :-- |
 | **등급:** 마법사 5 | **시전 시간:** 아래 참조 |
 | **영역:** 없음 | **지속 시간:** 아래 참조 |
-| **비용:** 3, +1 또는 그 이상 EXP | **사거리:** 무제한 |
-| **범위:** 아래 참조 | **저항:** 아래 참조 |
+| **비용:** 3, +1 또는 그 이상의 경험치 | **사거리:** 무제한 |
+| **영역:** 아래 참조 | **저항:** 아래 참조 |
 
-Wish는 현실을 영구적이고 중대하게 바꿀 수 있습니다. 이 주문을 시전하려면 마법 사용자는 3 마법 포인트와 원하는 결과에 따라 1개 이상의 EXP 굴림을 소비해야 합니다. 1개월 내에 Wish를 연속 시전하면 소모되는 EXP가 정상의 두 배가 됩니다. 시전 시간은 보통 소원의 세부 사항을 구체적으로 설명하는 데 필요합니다. 완료되면 시전자는 EXP 소모와 동일한 피로를 겪고 일반 수명의 5%를 노화(인간 시전자의 경우 5년)시킵니다. demi-human 종족의 기대 수명은 [노화](0007_Game_System.md?id=aging)를 참조하십시오.
+소원은 현실을 영구적이고 중요하게 변화시킬 수 있습니다. 이 주문을 시전하려면 마법사는 소원하는 결과에 따라 마법 점수 3점과 경험치 굴림 1회 이상을 소모해야 합니다. 1개월 내에 소원을 연속으로 시전할 때마다 필요한 경험치 소모량은 두 배가 됩니다. 시전 시간은 일반적으로 소원의 상세 내용을 구어로 설명하는 데 소요됩니다. 시전 완료 후 시전자는 소모한 경험치와 동일한 양의 피로를 입으며, 정상 기대 수명의 5%(인간의 경우 5년)만큼 노화합니다. 데미휴먼 종족의 평균 기대 수명은 [노화](0007_Game_System.md?id=aging)를 참조하십시오.
 
-Wish의 결과는 글자 그대로 받아들여야 하며 게임 마스터의 해석에 열려 있습니다. 탐욕스러운 욕망은 일반적으로 나쁜 결과를 낳습니다. 탐욕스러운 의도로 만든 Wish가 어떤 식으로든 역효과를 낼 확률은 10%입니다. 예를 들어 부를 소원하면 지역 영주나 왕의 보물 창고에서 텔레포트해 올 수 있습니다. Wish는 그러한 존재가 해당 Wish를 발행하지 않는 한 신 같은 존재의 법령을 취소할 수 없습니다.
+소원의 결과는 문자 그대로 받아들여져야 하며 게임 마스터의 해석에 따라 결정됩니다. 탐욕스러운 소원은 일반적으로 나쁜 결과를 초래합니다. 탐욕스러운 의도로 빌린 소원이 어떤 식으로든 역효과를 낼 확률은 10%입니다. 예를 들어, 부를 소원하면 지역 영주나 왕의 금고에서 부를 순간이동시킬 수 있습니다. 소원은 신과 같은 존재가 그러한 소원을 내린 것이 아니라면, 신의 법령을 취소할 수 없습니다.
 
-일부 Wish 예시와 필요한 EXP 소모는 다음과 같습니다.
+다음은 소원의 예시와 필요한 경험치 소모량입니다.
 
-##### Wish 예시 및 비용
+##### 소원 예시 및 비용
 
-| 원하는 Wish | EXP 비용 |
+| 희망하는 소원 | 경험치 비용 |
 | :-- | :-: |
-| 일반적으로 Wish 주문이 필요한 특정 효과를 되돌림. | 1 EXP |
-| 15 강도에서 다른 1등급 또는 2등급 아케인 또는 신성 주문, 또는 이와 동등한 효과를 복제. | 1 EXP \* |
-| 15 강도에서 다른 3등급 또는 4등급 아케인 또는 신성 주문, 또는 이와 동등한 효과를 복제. | 2 EXP \* |
-| 15 강도에서 Alter Reality를 제외한 다른 5등급 아케인 또는 신성 주문, 또는 이와 동등한 효과를 복제. | 3 EXP \* |
-| 마법적 또는 초자연적 효과를 영구적으로 만듦. | 3 EXP |
-| 사망 날짜나 유해의 존재 여부에 관계없이 일 ill effects 없이 죽은 생물을 다시 살림. | 5 EXP |
-| 잃어버린 사지를 완전한 건강으로 복구. | 2 EXP |
-| 생물을 모든 중상과 경상으로부터 치유. | 1 EXP |
-| 특성 하나를 영구적으로 1점 올리거나 내림 (최대 +/-5). | \*\* |
-| 기술 하나를 영구적으로 10% 올리거나 내림 (최대 +/-50%). | \*\* |
-| 사거리와 상관없이 자신과 최대 7명의 아군을 다른 위치로 이동. | 1 EXP |
-| 자신과 최대 7명의 아군을 다른 차원으로 이동. | 2 EXP |
-| 50,000GP 이하의 가치를 가진 비마법적인 일시적 동전, 물건 또는 재산 생성. 아이템은 강도당 1주 동안 지속. | 1 EXP |
-| 100,000GP 이하의 가치를 가진 비마법적인 일시적 동전, 물건 또는 재산 생성. 아이템은 강도당 1주 동안 지속. | 2 EXP |
-| 10,000GP 이하의 가치를 가진 비마법적인 영구적 동전, 물건 또는 재산 생성. | 2 EXP |
-| 50,000GP 이하의 가치를 가진 비마법적인 영구적 동전, 물건 또는 재산 생성. | 3 EXP |
-| 100,000GP 이하의 가치를 가진 비마법적인 영구적 동전, 물건 또는 재산 생성. | 4 EXP |
-| 1등급 또는 2등급 마법 아이템 임시 생성. 아이템은 강도당 1시간 지속. | 1 EXP |
-| 3등급 마법 아이템 임시 생성. 아이템은 강도당 1시간 지속. | 2 EXP |
-| 4등급 마법 아이템 임시 생성. 아이템은 강도당 1시간 지속. | 3 EXP |
-| 1등급 또는 2등급 영구 마법 아이템 생성. | 5 EXP |
-| 다른 생물 죽이기. | 5 EXP\*\*\* |
-| 적의 신체 위치 중 하나를 maim(훼손)하여 완전히 음수로 만듦. 복부, 다리 또는 팔만 가능. | 2 EXP |
-| 적의 신체 위치에 1 히트 포인트인 Serious Wound를 입힘. 복부, 다리 또는 팔만 가능. | 1 EXP |
-| 시전자가 상상할 수 있는 모든 유형의 지형으로 풍경을 재구성. 재구성할 100피트 입방체마다 1라운드 노력 필요. | 100피트 지형 큐브당 1 EXP |
+| 일반적으로 소원 주문이 필요한 특정 효과를 되돌림 | 1 EXP |
+| 다른 1~2등급 비전 또는 신성 주문의 효과를 강도 15 또는 이에 상응하게 복제 | 1 EXP * |
+| 다른 3~4등급 비전 또는 신성 주문의 효과를 강도 15 또는 이에 상응하게 복제 | 2 EXP * |
+| 현실 변형을 제외한 다른 5등급 비전 또는 신성 주문의 효과를 강도 15 또는 이에 상응하게 복제 | 3 EXP * |
+| 마법적이거나 초자연적인 효과를 영구화 | 3 EXP |
+| 사망 날짜나 유해 존재 여부와 관계없이 사체를 부활시키며, 부작용 없음 | 5 EXP |
+| 잃어버리거나 절단된 팔다리를 완벽한 상태로 복구 | 2 EXP |
+| 생명체의 모든 주요 및 경미한 부상을 치유 | 1 EXP |
+| 능력치 하나를 영구적으로 1점 올리거나 내림 (최대 +/-5) | ** |
+| 기술 하나를 영구적으로 10% 올리거나 내림 (최대 +/-50%) | ** |
+| 자신과 최대 7명의 동료를 거리와 관계없이 다른 위치로 이동 | 1 EXP |
+| 자신과 최대 7명의 동료를 다른 차원으로 이동 | 2 EXP |
+| 50,000GP 이하 가치의 비마법적 동전, 물건, 재산을 일시적으로 생성. 강도당 1주 유지 | 1 EXP |
+| 100,000GP 이하 가치의 비마법적 동전, 물건, 재산을 일시적으로 생성. 강도당 1주 유지 | 2 EXP |
+| 10,000GP 이하 가치의 비마법적 동전, 물건, 재산을 영구적으로 생성 | 2 EXP |
+| 50,000GP 이하 가치의 비마법적 동전, 물건, 재산을 영구적으로 생성 | 3 EXP |
+| 100,000GP 이하 가치의 비마법적 동전, 물건, 재산을 영구적으로 생성 | 4 EXP |
+| 1~2등급 마법 아이템을 일시적으로 생성. 강도당 1시간 유지 | 1 EXP |
+| 3등급 마법 아이템을 일시적으로 생성. 강도당 1시간 유지 | 2 EXP |
+| 4등급 마법 아이템을 일시적으로 생성. 강도당 1시간 유지 | 3 EXP |
+| 1~2등급 마법 아이템을 영구적으로 생성 | 5 EXP |
+| 다른 생명체를 죽임 | 5 EXP*** |
+| 적의 신체 부위를 절단하여 완전히 음수로 만듦. 복부, 다리, 또는 팔만 가능 | 2 EXP |
+| 신체 부위에 심각한 상처를 입혀 체력을 -1로 만듦. 복부, 다리, 또는 팔만 가능 | 1 EXP |
+| 시전자가 상상할 수 있는 모든 지형으로 풍경을 재구성. 재구성할 재료 100피트 큐브당 1라운드 필요 | 100피트 큐브당 1 EXP |
 
-_\* 복제된 효과의 EXP 요구 사항 외에도._
+_* 복제된 효과의 경험치 요구 사항 외에도 추가됨._
 
-_\*\* 각 연속적인 증가나 감소는 1 누적 EXP를 소모함: 첫 번째는 1 EXP, 두 번째는 2 EXP, 세 번째는 3 EXP, 네 번째는 4 EXP, 다섯 번째는 5 EXP. 이는 다른 마법사가 Wish를 시전하는 경우에도 적용됨._
+_** 각 연속적인 증가나 감소는 누적 경험치 굴림 비용을 발생시킴: 첫 번째 1 EXP, 두 번째 2 EXP, 세 번째 3 EXP, 네 번째 4 EXP, 다섯 번째 5 EXP. 이는 다른 마법사가 소원을 시전하는 경우에도 적용됨._
 
-_\*\*\* 이는 대상 피해자에 대해 Willpower vs Willpower 저항 판정이 필요함. 실패하면 Wish는 성공하지만 소원자의 열망을 왜곡하여 해석함. 예를 들어, 시전자는 피해자가 이미 죽어 있는 미래로 텔레포트될 수 있지만, 소원자의 친구나 사랑하는 이들도 모두 죽어 있을 것임._
+_*** 이는 대상의 의지력을 상대로 의지력 저항 굴림을 요구함. 실패 시 소원은 성공하지만, 소원을 빈 자의 바람을 비틀어 해석함. 예를 들어, 시전자가 미래로 이동되어 대상은 이미 죽어 있을 수 있지만, 시전자의 친구와 사랑하는 이들 또한 모두 죽어 있을 수 있음._
 
 ---
-#### Wizard Sight (마법사 시야)
+#### 마법사의 시야
 
-(변형)
+(변이)
 
 | | |
 | :-- | :-- |
 | **등급:** 마법사 3 | **시전 시간:** 1분 |
 | **영역:** 없음 | **지속 시간:** 1분/강도 |
 | **비용:** 1/강도 | **사거리:** 0 |
-| **범위:** 아래 참조 | **저항:** 해당 없음 |
+| **영역:** 아래 참조 | **저항:** 없음 |
 
-이 주문은 마법 사용자가 주문 지속 시간 동안 볼 수 있는 작은 보이지 않는 '눈'을 생성합니다. 이 눈은 파티 앞에 움직이거나 구석을 살피거나 방을 들여다보도록 보낼 수 있으며, '명백한' 위협이나 관심 있는 물건을 스캔할 경우 라운드당 20피트(분당 240피트)의 이동 속도를 가집니다. 일반적으로 바닥과 하단 벽까지만 확장됩니다. (벽 전체와 천장도 검사하는 등) 더 철저하게 시도할 경우 이동 속도는 라운드당 10피트(분당 120피트)로 감소합니다. 게임 마스터는 시각적 이상을 발견하는 것과 관련하여 필요할 때 시전자가 지각 판정을 하도록 자유롭게 허용해야 합니다. 눈은 실체이며 고체 물체를 통과할 수 없고, 60피트까지의 일반 시야와 10피트까지의 적외선 시야를 가집니다. 시전자는 지속 시간 동안 눈에 집중을 유지해야 하며, 집중이 다시 수립될 때까지 눈은 비활성 상태로 유지됩니다. 시전자에게 정상적으로 영향을 미치는 모든 응시 공격은 여전히 정상적으로 시전자에게 영향을 미치지만, 눈은 실명, 어둠 주문 등과 관련하여 시전자와 독립적인 것으로 간주됩니다. 좁은 개구부를 통과하기 위해 눈은 1인치보다 크지 않으며 SIZ는 1입니다.
+이 주문은 마법사가 주문 지속 시간 동안 투시할 수 있는 작은 투명한 '눈'을 생성합니다. 이 눈은 일행보다 앞서 이동하거나 모퉁이 주변 및 방 내부를 살펴보기 위해 보낼 수 있으며, '분명한' 위협이나 관심 있는 물품만 스캔할 경우 라운드당 20피트(분당 240피트)의 이동 속도를 가집니다. 이는 일반적으로 바닥과 낮은 벽까지로만 확장됩니다. 더 철저하게 조사하려 할 경우(벽 전체와 천장까지 확인), 이동 속도는 라운드당 10피트(분당 120피트)로 줄어듭니다. 게임 마스터는 필요한 경우 시전자의 시각적 이상을 포착하는 것에 대해 인지 굴림을 허용해야 합니다. 눈은 실체화되어 고체 물질을 통과할 수 없으며, 60피트까지의 일반 시야와 10피트까지의 암시력을 가집니다. 시전자는 지속 시간 동안 눈에 집중을 유지해야 하며, 그렇지 않으면 다시 집중을 확립할 때까지 눈은 비활성 상태로 유지됩니다. 시전자에게 정상적으로 영향을 미치는 모든 응시 공격은 정상적으로 영향을 미치지만, 눈은 실명, 어둠 주문 등에 대하여 시전자와 독립적인 것으로 간주됩니다. 좁은 틈을 통과하는 용도로는 눈은 1인치보다 크지 않으며 크기(크기)는 1입니다.
 
 ---
-#### Word of Recall (회상하는 말)
+#### 회귀의 언령
 
-(변형)
+(변이)
 
 | | |
 | :-- | :-- |
-| **등급:** 성직자 4 | **시전 시간:** 1행동 |
+| **등급:** 사제 4 | **시전 시간:** 1 행동 |
 | **영역:** 소환 | **지속 시간:** 아래 참조 |
-| **비용:** 3 + 1/추가 강도 | **사거리:** 0 |
-| **범위:** 시전자 | **저항:** 해당 없음 |
+| **비용:** 3, +1/추가 강도당 | **사거리:** 0 |
+| **영역:** 시전자 | **저항:** 없음 |
 
-이 주문을 시전하면 성직자는 즉시 미리 지정된 성소와 10피트 반경 이하의 지정된 도착 지점으로 순간
+이 주문을 시전하면 사제는 즉시 미리 지정된 안식처와 반경 10피트 이내의 지정된 도착 지점으로 순간이동합니다. 여러 차원 간 이동을 포함하여 순간이동할 수 있는 실제 사거리에는 제한이 없습니다. 동일 차원 내에서는 사고의 가능성이 없으나, 단 한 차원이라도 가로지를 경우 91~00%의 확률로 실패할 가능성이 있으며, 두 차원을 가로지르면 81~00% 확률로 실패하는 식입니다. 이는 시전자의 일반적인 실패 확률을 대체합니다. 차원 횡단 중의 실패는 사제가 회복할 수 없이 길을 잃었음을 의미합니다. 동일 차원 내에서의 실패는 일반적인 규칙을 따릅니다.
+
+사제는 자신과 휴대 중인 장비 외에도 강도당 3개의 물체를 추가로 이동시킬 수 있으며, 각 물체는 크기(크기)/9 'Things'보다 크지 않아야 합니다. 이동시키는 추가 물품은 보물, 장비, 또는 살아있는 생명체가 될 수 있습니다. 단, 이동되는 생명체는 휴대 중인 장비까지 고려하여 충분한 강도의 주문이 시전되어야 합니다.
