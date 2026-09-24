@@ -1,7 +1,7 @@
 # 10. Fejezet: Varázslatok
 
 ---
-### Pap varázslatlista
+### Clericus varázslatlista
 
 | Szint 0 | Szint 1 | Szint 2 | Szint 3 | Szint 4 | Szint 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -22,7 +22,7 @@
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) = megfordítható varázslat._
+_\(R\) jelöli a megfordítható varázslatokat._
 
 ---
 
@@ -34,15 +34,15 @@ _\(R\) = megfordítható varázslat._
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
+| [Cleanse \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word - Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
 | [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Ignite \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word - Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -54,8 +54,7 @@ _\(R\) = megfordítható varázslat._
 | | [Web](0010_Spells.md?id=web) |
 | | [Spider Climb](0010_Spells.md?id=spider-climb) |
 
-_\(R\) = megfordítható varázslat._
-
+_\(R\) jelöli a megfordítható varázslatokat._
 
 ---
 
@@ -64,208 +63,207 @@ _\(R\) = megfordítható varázslat._
 ## Varázslatleírások
 
 ---
-#### Felbecslés (Appraise)
+#### Appraise (Felbecslés)
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 fordulat |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Szint:** Mágus 0 | **Varázslási idő:** 1 kör |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 1 tárgy | **Ellenállás:** Nincs |
 
-A Felbecslés lehetővé teszi a fizikai javak minőségének azonnali értékelését, amennyiben az ENC-jük „Holmikban” kifejezve, vagy SIZ-jük a varázsló POW-jával megegyező. A varázslat megállapítja, hogy az azonos küllemű tárgyak minősége megegyezik-e, hasonló-e, vagy valamelyik hibás, esetleg jobb minőségű-e. A varázslat nem működik szerves dolgokon, csak élettelen tárgyakon. Azt sem határozza meg, pontosan milyen hibák vagy fejlesztések vannak jelen, csupán azok meglétét jelzi. Mágia felismerésére vagy detektálására nem használható.
+Az Appraise lehetővé teszi a fizikai áruk minőségének azonnali felbecslését, amennyiben azok összesített ENC-je (tárgyakban) vagy MÉR-értéke megegyezik a varázsló HAT-értékével. A varázslat meghatározza, hogy az azonosnak tűnő tárgyak azonos vagy hasonló minőségűek-e, illetve hogy valamelyik hibás vagy jobb minőségű-e. A varázslat nem működik szerves dolgokon, csak élettelen tárgyakon. Azt sem határozza meg, pontosan milyen hibák vagy fejlesztések vannak jelen, csupán azok meglétét. Varázstárgyak azonosítására vagy észlelésére nem használható.
 
 ---
-#### Páncél (Armor)
+#### Armor (Páncél)
 
 (Megidézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 kör |
-| **Szféra:** Nincs | **Hatástartam:** Lásd alább |
+| **Szint:** Mágus 1 | **Varázslási idő:** 1 forduló |
+| **Szféra:** Nincs | **Időtartam:** Lásd lentebb |
 | **Költség:** 3 +1/Intenzitás | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** Nincs |
 
-Amikor ez a varázslat életbe lép, az alany egy láthatatlan mágikus erőteret kap, amelynek védelme egy skálamellvértével egyenértékű, és 4 Páncélpontot ad minden Testtájra. Nincs hatása, ha olyan valakire vetik, aki már páncélt visel. Azonban az időtartama alatt felülírja a természetes páncélt, feltéve, hogy az jobb védelmet nyújt. Ha olyan lényre vetik, amely 4-nél több természetes páncélponttal rendelkezik, akkor az minden testtájon 1-gyel növeli a Páncélpontokat. Ez a mágikus védelem nem akadályozza a mozgást vagy a varázslást. A varázslat addig áll fenn, amíg el nem oszlatják, vagy a varázsló egyetlen támadástól 8 pont sebzést nem szenved el (+1 minden további Intenzitási szintért; lásd az alábbi táblázatot). Természetesen a varázsló bármikor dönthet úgy, hogy megszakítja a varázslatot, és alváshoz ezt meg is kell tennie.
+Amikor ezt a varázslatot elmondják, az alany láthatatlan mágikus erőtérrel gazdagodik, amely a pikkelypáncél védelmével ér fel, és minden találati helyen 4 Páncélpontot biztosít. Nincs hatása, ha olyanra mondják, aki már páncélt visel. Az Időtartama alatt azonban felülírja a természetes páncélt, feltéve, hogy az jobb védelmet nyújt. Ha olyan lényre mondják, amely 4-nél több természetes páncélponttal rendelkezik, akkor az minden helyen 1-gyel növeli a Páncélpontokat. Ez a mágikus védelem nem akadályozza a mozgást vagy a varázslást. A varázslat addig tart, amíg el nem űzik mágiával, vagy amíg a varázsló 8 pontnyi sebzést nem szenved el egyetlen támadásból (+1 minden további Intenzitás szintért, lásd az alábbi táblázatot). Természetesen a varázsló bármikor megszüntetheti a varázslatot, és alváshoz ezt meg is kell tennie.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 4 Páncélpont; Fennmarad, amíg 8 sebzést nem kap 1 támadásból |
-| 2 | 4 | 4 Páncélpont; Fennmarad, amíg 9 sebzést nem kap 1 támadásból |
-| 3 | 5 | 4 Páncélpont; Fennmarad, amíg 10 sebzést nem kap 1 támadásból |
-| 4 | 6 | 4 Páncélpont; Fennmarad, amíg 11 sebzést nem kap 1 támadásból |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 4 Páncélpont; Fenntartva, amíg 8 sebzést nem kap 1 támadásból |
+| 2 | 4 | 4 Páncélpont; Fenntartva, amíg 9 sebzést nem kap 1 támadásból |
+| 3 | 5 | 4 Páncélpont; Fenntartva, amíg 10 sebzést nem kap 1 támadásból |
+| 4 | 6 | 4 Páncélpont; Fenntartva, amíg 11 sebzést nem kap 1 támadásból |
+| +1 | +1 | Folytatólagos növekedés |
 
 ---
-#### Asztrális utazás (Astral Spell)
+#### Astral Spell (Asztrális utazás)
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 5, Mágus 5 | **Időtartam:** 2 akció |
-| **Szféra:** Asztrál | **Hatástartam:** Lásd alább |
+| **Szint:** Clericus 5, Mágus 5 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Asztrál | **Időtartam:** Lásd lentebb |
 | **Költség:** 3 +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** Lásd alább | **Ellenállás:** N/A |
+| **Terület:** Lásd lentebb | **Ellenállás:** N/A |
 
-Ez a varázslat lehetővé teszi a varázsló és legfeljebb öt másik személy (személyenként egy további Intenzitási szint) számára, hogy belépjenek az Asztrálsíkra. A varázslat alatt mindenkinek érintkeznie kell, és egy kört kell alkotniuk. Az utazók teste az eredeti síkon marad, és általában nem visznek magukkal ruhát vagy felszerelést, kivéve azt, amely maga is mágikus aurát sugároz; ezek a tárgyak átalakulnak a normál formájuk asztrális megfelelőivé. Az időtartam addig tart, amíg a varázsló nem kívánja megszüntetni. Azonban külső erő, például Mágiaoszlatás (Dispel Magic) révén idő előtt véget érhet. A varázsló fizikai testének megölése szintén idő előtt megszakítja a varázslatot, bár ennek szerencsétlen mellékhatása, hogy a varázslót kísérő utazók rekedve maradnak.
+Ez a varázslat lehetővé teszi a varázsló és legfeljebb öt másik személy számára (egyenként további Intenzitás szintenként), hogy belépjenek az Asztrális Síkra. Mindannyiuknak érintkezniük kell egymással és kört kell alkotniuk a varázslás alatt. Az utazók fizikai testei az eredeti síkon maradnak, és általában nem visznek magukkal semmilyen ruházatot vagy felszerelést, kivéve azokat, amelyek mágikus aurát sugároznak; ezek a tárgyak átalakulnak normál formájuk asztrális megfelelőivé. Az Időtartam addig tart, amíg a varázsló meg nem szakítja. Ugyanakkor külső erő, például Dispel Magic, idő előtt véget vethet neki. A varázsló fizikai testének megölése szintén idő előtt véget vet a varázslatnak, bár ennek az a szerencsétlen mellékhatása, hogy a varázslóval tartó összes utazó ott reked.
 
 ---
-#### Előjel (Augury)
+#### Augury (Jóslás)
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 2 perc |
-| **Szféra:** Jóslás | **Hatástartam:** Azonnali |
+| **Szint:** Clericus 2 | **Varázslási idő:** 2 perc |
+| **Szféra:** Jóslás | **Időtartam:** Azonnali |
 | **Költség:** 3/Intenzitás | **Hatótáv:** 60 láb |
 | **Terület:** Varázsló | **Ellenállás:** N/A |
 
-Ez a varázslat lehetővé teszi a varázsló számára annak megállapítását, hogy egy bizonyos, a következő 30 percen belül megtenni kívánt cselekvés hasznos vagy káros lesz-e az egyén és/vagy a csapat jólétére nézve. Az előjelek felismeréséhez valamilyen fókuszpont szükséges, a leggyakoribbak a sárkánykarmok vagy kisebb csontok, egy gyöngy, vagy legalább 100 GP értékű tiszta arany, amelyet összetörtek vagy megolvasztottak. A varázslat maximális Intenzitása 4. Ezt a dobást a Játékmesternek kell elvégeznie, mivel a varázsló soha nem tudhatja biztosan, hogy helyesen értelmezte-e az eredményeket.
+Ez a varázslat lehetővé teszi a varázsló számára annak meghatározását, hogy egy adott cselekedet, amelyet a következő 30 percen belül hajtanak végre, előnyös vagy káros lesz-e az egyén és/vagy a csapat jólétére nézve. Valamilyen fókuszpont szükséges az ómenek felismeréséhez; a leggyakoribbak a sárkánykarmok vagy kisebb csontok, egy gyöngy, vagy legalább 100 GP értékű tiszta arany, amelyet összezúztak vagy megolvasztottak. A varázslat Maximális Intenzitása 4. Ezt a dobást a Kalandmesternek kell megtennie, mivel a varázsló sosem tudhatja kétséget kizáróan, hogy az eredményeket helyesen értelmezte-e.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | Félelmetes (Formidable) Csatornázás képzettségdobás |
-| 2 | 6 | Nehéz (Hard) Csatornázás képzettségdobás |
-| 3 | 9 | Átlagos (Standard) Csatornázás képzettségdobás |
-| 4 | 12 | Könnyű (Easy) Csatornázás képzettségdobás |
+| 1 | 3 | Formidable (Félelmetes) Channel képességdobás |
+| 2 | 6 | Hard (Nehéz) Channel képességdobás |
+| 3 | 9 | Standard (Általános) Channel képességdobás |
+| 4 | 12 | Easy (Könnyű) Channel képességdobás |
 
-Ha a jóslási dobás sikeres, az alábbi eredmények egyikét adja:
+Ha a jóslás dobása sikerül, az alábbi eredmények egyikét adja:
 
-| Előjel | Jelentés | 
+| Augury | Jelentés |
 | :-: | :-- |
-| Igen | A cselekvés hasznos lesz |
-| Nem | A cselekvés káros lesz |
-| Igen és nem | A cselekvés egyszerre lesz hasznos és káros |
-| Semmi | A cselekvés sem nem hasznos, sem nem káros |
+| Igen | A cselekedet előnyös lesz |
+| Nem | A cselekedet káros lesz |
+| Igen és Nem | A cselekedet egyszerre lesz előnyös és káros |
+| Semmi | A cselekedet sem nem előnyös, sem nem káros |
 
-A Balsiker (Fumble) eredménye az legyen, hogy a Játékmester a valósággal ellentétes választ mond.
+Egy Fumble (baki) esetén a Kalandmesternek a valóság ellenkezőjét kell mondania.
 
 ---
-#### Hárítás (Avert)
+#### Avert (Elhárítás)
 
-(Abjuráció)
+(Abjúráció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** Azonnali |
-| **Szféra:** Védelem | **Hatástartam:** Azonnali |
+| **Szint:** Clericus 0, Mágus 0 | **Varázslási idő:** Azonnali |
+| **Szféra:** Védelem | **Időtartam:** Azonnali |
 | **Költség:** 1 | **Hatótáv:** 60 láb |
 | **Terület:** 1 varázslat | **Ellenállás:** Nincs |
 
-A Hárítás egy másik 0. szintű varázslat elhárítására használható a hatótávolságon belül. A Hárítás reaktívan is elvethető támadó 0. szintű varázslatok semlegesítésére, az Ellentámadás (Counter Magic) Reaktív Akció használatával.
+Az Avert más 0. szintű varázslatok hatótávolságon belüli megszüntetésére szolgál. Az Avert reakcióként is elmondható az offenzív 0. szintű varázslatok semlegesítésére, a Counter Magic (Ellensúlyozó Mágia) Reakció Akció használatával.
 
 ---
-#### Megzavarás (Befuddle)
+#### Befuddle (Zavarodottság)
 
-(Igézés (Bűbáj))
+(Bűbáj (Bájolás))
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** 1 fordulat |
-| **Szféra:** Bűbáj | **Hatástartam:** 30 perc |
+| **Szint:** Clericus 0, Mágus 0 | **Varázslási idő:** 1 kör |
+| **Szféra:** Bájolás | **Időtartam:** 30 perc |
 | **Költség:** 1 | **Hatótáv:** 60 láb |
 | **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
 
-A Megzavarás zavarodottságot okoz egy testi célpont elméjében. A varázslat alanyának nehézséget okoz az egyenes gondolkodás, elfelejti hol van, mit csinál és miért – gyakran disszociált gondolatmenetekbe merül. A megzavart célpontok még mindig cselekedhetnek önvédelemből, de a varázslat végéig nem kezdeményezhetnek semmilyen konstruktív tevékenységet. Bármilyen támadás vagy fenyegető cselekedet azonnal megtöri a varázslatot, függetlenül attól, hogy kifejezetten a megzavart célpont ellen irányult-e vagy sem.
+A Befuddle zavarodottságot okoz a testi célpont elméjében. A varázslat alanya nehezen tud tisztán gondolkodni, elfelejti hol van, mit csinál és miért – gyakran elkalandozó gondolatmenetekbe merül. A megzavart célpontok még képesek önvédelemre, de nem kezdeményezhetnek semmilyen konstruktív tevékenységet, amíg a varázslat véget nem ér. Bármilyen támadás vagy fenyegető cselekedet azonnal megtöri a varázslatot, függetlenül attól, hogy kifejezetten a megzavart célpontra irányult-e.
 
 ---
-#### Pengegát (Blade Barrier)
+#### Blade Barrier (Pengefal)
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 4 | **Időtartam:** 2 akció |
-| **Szféra:** Őrző, Teremtés | **Hatástartam:** 3 kör/Intenzitás |
+| **Szint:** Clericus 4 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Őrző, Teremtés | **Időtartam:** 3 kör/Intenzitás |
 | **Költség:** 3+1/további Intenzitás | **Hatótáv:** 100 láb |
-| **Terület:** 5-30 láb sugarú | **Ellenállás:** Lásd alább |
+| **Terület:** 5-30 láb sugár | **Ellenállás:** Lásd lentebb |
 
-Ez a varázslat forgó, vágó kardokból, tőrből és késből álló gátat hoz létre, amelyek egy rögzített pont körül forognak, és 1d8 pont sebzést okoznak 1d4+2 véletlenszerű Testtájon bárkinek, aki áthalad a Hatásterületen. A páncél csak a normál védelme felét nyújtja. A mágikus páncélpontok a szokásos módon csökkentik a sebzést. Mivel a fegyverek vakító sebességgel forognak és szorosan állnak, lehetetlen őket Parírozni vagy Kikerülni. Egy pajzs használható a testtájak passzív blokkolására. Ebben az esetben ne feledje összehasonlítani a dobott sebzést a pajzs páncélzatával és Életerő pontjaival.
+Ez a varázslat kavargó, vágó kardokból, tőrökből és késekből álló falat hoz létre, amelyek egy rögzített pont körül ostoroznak és vagdosnak, és 1d8 pontnyi sebzést okoznak 1d4+2 véletlenszerű Találati Helyen bárkinek, aki áthalad a Hatásterületen. A páncél csak a normál védelmének felét nyújtja. A mágikus Páncélpontok a szokásos módon csökkentik a sebzést. Mivel a fegyverek vakító sebességgel kavarognak és szorosan egymás mellett vannak, lehetetlen elhárítani vagy elkerülni őket. Pajzsot lehet használni a Találati Helyek passzív kivédésére a szokásos módon. Ebben az esetben ne feledje összehasonlítani a dobott sebzést a pajzs páncélzatával és Életerőpontjaival.
 
-A varázslat védekezően is alkalmazható a pap vagy szövetségesei megvédésére, vagy támadólag az ellenségek csapdába ejtésére. Azonban azok az ellenségek, akik a gát kialakulásakor annak szélétől öt lábon belül vannak, Kikerülés (Evade) dobást tehetnek a menekülésre. A sikerességtől függetlenül az ellenfél hasra vágódva, éppen a Hatásterületen kívül köt ki. A sikeres dobás sebzés nélkül végződik; egyébként a teljes hatást elszenvedik.
+A varázslat elmondható védekezőleg a clericus vagy egy vagy több szövetséges védelmére, vagy támadólag az ellenségek csapdába ejtésére. Ugyanakkor a fal kialakulásakor az ötfalas sugáron belül tartózkodó ellenségek Evade (kitérő) dobást tehetnek a menekülésre. A sikertől függetlenül az ellenfél a földre kerül, éppen a Hatásterületen kívül. A sikeres dobás sebzés nélkül végződik; egyébként a teljes hatást elszenvedik.
 
 ---
-#### Áldás (R) (Bless)
+#### Bless \(R\) (Áldás)
 
 (Megidézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 1 kör |
-| **Szféra:** Minden | **Hatástartam:** 5 perc |
+| **Szint:** Clericus 1 | **Varázslási idő:** 1 forduló |
+| **Szféra:** Minden | **Időtartam:** 5 perc |
 | **Költség:** 1 | **Hatótáv:** 180 láb |
-| **Terület:** 25 láb sugarú | **Ellenállás:** Akaraterő |
+| **Terület:** 25 láb sugár | **Ellenállás:** Akaraterő |
 
-Amikor ezt a varázslatot végrehajtják, a pap megáldja a Hatásterületen belüli szövetségesek egy csoportját. Az érintettek a varázsló Jellemét sugározzák, legyen az Jó vagy Gonosz. Semleges áldás nem létezik. A varázslat sugarán belüli összes szövetséges +5% bónuszt kap minden képzettség- és Ellenállás-dobásra. Ezenkívül fegyvereik +1d3 sebzést okoznak az értelmes élőholtakra, valamint a külső síkokról származó olyan lényekre, amelyek a varázslóéval ellentétes jelleműek (például démonok, ördögök vagy angyalok). Ne feledje, hogy bár az olyan élőholtak, mint a csontvázak és zombik nem szükségszerűen gonoszak, általában gonosz mágiával lettek felélesztve, így érinti őket ez a sebzés.
+Amikor ezt a varázslatot elmondják, a clericus megáldja a Hatásterületen belüli szövetségesek egy csoportját. Az érintettek a varázsló Igazodását sugározzák, legyen az Jó vagy Gonosz. Semlegességi áldás nem létezik. A varázslat sugarán belüli összes szövetséges +5%-os bónuszt kap minden képesség- és Ellenállás-dobáshoz. Emellett fegyvereik +1d3 sebzést okoznak az intelligens élőholtaknak, valamint a külső síkokról származó lényeknek, amelyek ellentétes igazodásúak a varázslóéval, mint például a démonok, ördögök vagy angyalok. Megjegyzendő, hogy bár az animált élőholtak, mint a csontvázak és zombik, nem eredendően gonoszak, általában gonosz mágiával animálják őket, így ki vannak téve ennek a sebzésnek.
 
-A varázslat megfordítása, az Átok (Curse), lehetővé teszi a pap számára az ellenségek megátkozását, ami miatt a megjelölt képességek a fent említett előnyök fordítottját szenvedik el. Az átkozott fegyver sebzése büntetésként számítandó, és ez a sebzés nem lehet kevesebb 1 pontnál.
+A varázslat fordítottja, a Curse (Átok), lehetővé teszi a clericus számára, hogy megátkozza az ellenségeket, így a jelzett képességek a fenti előnyök inverzét szenvedik el. Az elátkozott fegyver sebzését büntetésként kell kiszámítani, és ez a sebzés nem eredményezhet 1 pontnál kevesebbet.
 
 ---
-#### Égő kezek (Burning Hands)
+#### Burning Hands (Égő kezek)
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Szint:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 3+1/további Intenzitás | **Hatótáv:** 0 |
-| **Terület:** 120 fokos kúp, 5 láb hosszú | **Ellenállás:** Kikerülés |
+| **Terület:** 120 fokos kúp, 5 láb hosszú | **Ellenállás:** Kitérés |
 
-Ez a varázslat lángokat lövell ki a varázsló kezéből egy 120 fokos ívben. Ha miniatűröket használsz a harcban, az Égő kezek minden olyan célpontot megsebez, amely elfoglalja a varázsló elülső négyzeteinek egyikét. Az Égő kezek magasabb Intenzitási szinteken történő alkalmazása magasabb rangú mágust igényel. A sebzés az Intenzitás alapján történik, maximum 9-es Intenzitásig. A sikeres Kikerülés (Evade) dobás, amely során a karakter hasra vágódik, lehetővé teszi, hogy az áldozat ne szenvedjen sebzést. Az Művész Szökő (Artful Dodger) képességgel rendelkező valaki hasra vágódás nélkül is kikerülhet.
+Ez a varázslat lángokat lövell ki a varázsló kezeiből egy 120 fokos ívben. Ha miniatűröket használnak a harcban, a Burning Hands minden olyan célpontot megsebez, amely elfoglalja a varázsló elülső négyzetei egyikét. A Burning Hands magasabb Intenzitási szinten való elmondása magasabb szintű mágust igényel. Ez a sebzés minden célpontot beborít a területen, a sebzés a varázslat Intenzitásán alapul, a Maximális 9-es Intenzitásig, az alábbiak szerint. A sikeres Kitérés dobás, földre vetődéssel, lehetővé teszi az áldozat számára, hogy semmilyen sebzést ne szenvedjen el. Aki rendelkezik az Artful Dodger képességgel, annak lehetősége van földre vetődés nélkül kitérni.
 
-| Intenzitás | Költség | Min. rang | Változó hatás |
+| Intenzitás | Költség | Min Szint | Változó hatás |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | 1d3+1 sebzés minden Testtájra |
-| 3 | 4 | 1 | 1d3+2 sebzés minden Testtájra |
-| 5 | 5 | 1 | 1d3+3 sebzés minden Testtájra |
-| 7 | 6 | 2 | 1d3+4 sebzés minden Testtájra |
-| 9 | 7 | 3 | 1d3+5 sebzés minden Testtájra |
+| 1 | 3 | 1 | 1d3+1 pont sebzés minden Találati Helyre |
+| 3 | 4 | 1 | 1d3+2 pont sebzés minden Találati Helyre |
+| 5 | 5 | 1 | 1d3+3 pont sebzés minden Találati Helyre |
+| 7 | 6 | 2 | 1d3+4 pont sebzés minden Találati Helyre |
+| 9 | 7 | 3 | 1d3+5 pont sebzés minden Találati Helyre |
 
-A viselt páncél nem véd, de a mágikus Páncélpontok vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést. Ezt az erőteljes varázslatot a meglehetősen rövid hatótávolság ellensúlyozza, ami azt jelenti, hogy a varázslónak elég közel kell kerülnie ahhoz, hogy nagyon hátrányos helyzetbe kerüljön.
+A viselt páncél nem véd, de a mágikus Páncélpontok vagy egy lény természetes páncélja a szokásos módon csökkenti a sebzést. Ezt az erőteljes varázslatot ellensúlyozza a kifejezetten rövid hatótávolság, ami azt jelenti, hogy a varázslat elmondásához a mágiahasználónak elég közel kell kerülnie ahhoz, hogy nagyon hátrányos helyzetbe kerüljön.
 
-Mivel a nagyobb lények általában nagyobbak a varázslat Hatásterületénél, kevesebb érintett Testtájuk lesz. A 21-30 SIZ-űek a fejen, mellkason, hason és karokon, míg a 31+ SIZ-űek a hason és lábakon szenvedik el a sebzést. A Játékmesterek állítsák be ezeket a testtájakat a célpont alakja és a varázslóhoz viszonyított helyzete alapján. Az Égő kezeknek van esélye a gyúlékony anyagok meggyújtására, amely egyenlő a dobott sebzés x 5%-ával. További információkért lásd a [Tűz alapú támadások](0007_Game_System.md?id=fire-based-attacks) szakaszt.
+Mivel a nagyobb lények általában nagyobbak a varázslat Hatásterületénél, esetükben kevesebb Találati Hely érintett. A 21-30 közötti MÉR-űek a fejükre, mellkasukra, hasukra és karjaikra kapják a sebzést, míg a 31+ MÉR-űek a hasukra és lábaikra. A Kalandmestereknek ezeket a helyeket a célpont varázslóhoz viszonyított alakja és pozíciója alapján kell módosítaniuk. A Burning Hands esélye a gyúlékony anyagok begyújtására a dobott sebzés x 5%. További információért lásd a [Tüzekről](0007_Game_System.md?id=fire-based-attacks) szóló részt.
 
 ---
-#### Nyugalom (Calm)
+#### Calm (Nyugalom)
 
-(Igézés (Bűbáj))
+(Bűbáj (Bájolás))
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 0 | **Időtartam:** 1 akció |
-| **Szféra:** Bűbáj | **Hatástartam:** Azonnali |
+| **Szint:** Clericus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Bájolás | **Időtartam:** Azonnali |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
 
-A Nyugalom megkísérli csillapítani egy 1-20 SIZ-ű humanoid célpont Szenvedélyeit, biztosítva például, hogy egy szerelmes udvarló ne erőltesse a házasságot, egy megijedt rivális ne kiáltson segítségért, vagy hogy ne húzzanak fegyvert haragból. A lecsendesített személy mentálisan egyébként nem érintett; így bármilyen támadás vagy fenyegető cselekedet esetén a célpont továbbra is megvédheti magát, sőt támadhat is, bár ezt nyugodt és higgadt módon teszi.
+A Calm megkísérli lecsillapítani egy 1-20 közötti MÉR-ű humanoid célpont Szenvedélyeit, talán biztosítva, hogy egy szerelmes udvarló ne erőltesse a közeledését, egy megijedt rivális ne kiáltson segítségért, vagy hogy a fegyvereket ne rántsák ki haragból. A lecsillapított személy mentálisan egyébként nem érintett; így bármilyen támadás vagy fenyegető cselekedet esetén a célpont továbbra is megvédheti magát, sőt támadhat is, bár ezt nyugodt és higgadt módon teszi.
 
----
-#### Láncvillám (Chain Lightning)
+---#### Láncvillám
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 4 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 50 láb/Intenzitás |
-| **Terület:** Lásd alább | **Ellenállás:** Kikerülés |
+| **Szint:** Mágus 4 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 50 láb/Intenzitás |
+| **Terület:** Lásd alább | **Ellenállás:** Kitérés |
 
-A varázslat során a mágus egy öt láb széles elektromos villámot bocsát ki az ujjbegyeiből, amely egyetlen célpontot sújthat a hatótávolságon belül 2 Intenzitásonként 1d6+1 sebzéssel. A villám ezután átível a következő legközelebbi tárgyra vagy lényre, amely a korábban dobott sebzést szenvedi el mínusz 1 pont, majd a következőre mínusz 2 ponttal, és így tovább. Akár szövetségesre vagy a varázslóra is visszaívelhet! Míg az első célpontnak láthatónak kell lennie a varázsló számára, az ív által eltalált célpontoknak nem feltétlenül.
+Az elsütést követően a mágus egy öt láb széles elektromos kisülést bocsát ki az ujjaiból, amely 2 Intenzitásonként 1d6+1 pont sebzést okoz egy, a hatótávon belüli célpontnak. A villám ezután átugrik a következő legközelebbi tárgyra vagy lényre, amely a korábban dobott sebzést mínusz 1 pontot szenvedi el, majd átugrik a következőre, az előző sebzés mínusz 2 pontot okozva, és így tovább. Akár egy szövetségesre vagy magára a varázslóra is visszaugorhat! Míg az első célpontnak láthatónak kell lennie a varázsló számára, az ugró villám által eltalált célpontoknak nem feltétlenül.
 
-Minden ívnek 50 láb a hatótávolsága, ami a villámot a varázslat leadásakor érvényes eredeti hatótávon túlra is helyezheti. A Láncvillám addig csap le, amíg van hátramaradt sebzése, vagy amíg olyan tárgyba nem ütközik, amely miatt földelődik (fémketrec vagy rács, nagy víztömeg, stb.), vagy nincs több tárgy vagy lény.
+Minden ugrásnak saját 50 láb hatótávolsága van, ami a villámot a varázslat eredeti hatótávolságán túlra is viheti. A Láncvillám addig folytatja a csapásokat, amíg van maradék sebzése, vagy amíg olyan tárgyat nem talál, amely leföldeli (fémketrec vagy rács, nagy víztömeg, stb.), vagy nincs több elérhető tárgy vagy lény.
 
-Minden eltalált lény egyetlen Testtáján szenvedi el a sebzést, a viselt páncél nem nyújt védelmet, de a természetes páncél és a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
+Minden eltalált lény az egyetlen Testrészre mért sebzést szenvedi el, ahol a viselt páncél nem nyújt védelmet, de a természetes páncél és a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
 
-A sikeres Kikerülés (Evade) dobással, amely során a karakter hasra vágódik, a célpont nem szenved sebzést. A Művész Szökő (Artful Dodger) képességgel rendelkezők hasra vágódás nélkül is kikerülhetnek, de ebben az esetben a siker csak a sebzést felezi, hacsak nem a Hatásterület szélétől számított öt lábon belül vannak.
+Sikeres Kitérés dobással, a földre vetődéssel az áldozat nem szenved sebzést. A Ravasz Kitérő (Artful Dodger) Képességgel rendelkező személy földre vetődés nélkül is Kitérhet, de ebben az esetben a siker csak a felére csökkenti a sebzést.
 
-A villámnak esélye van gyúlékony anyagokat meggyújtani, amely egyenlő a dobott sebzés x 1%-ával. A villám a puszta becsapódástól is szétzúzhat vagy elpusztíthat élettelen tárgyakat.
+A villámnak a dobott sebzés x 1%-ával megegyező esélye van a gyúlékony anyagok meggyújtására. További információkért lásd a [Tüzek](0007_Game_System.md?id=fire-based-attacks) szakaszt. A villám a puszta hatástól el is törheti vagy elpusztíthatja az élettelen tárgyakat.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
@@ -274,188 +272,188 @@ A villámnak esélye van gyúlékony anyagokat meggyújtani, amely egyenlő a do
 | 3 | 5 | 150 láb hatótáv; 2d6+2 sebzés |
 | 4 | 6 | 200 láb hatótáv; 2d6+2 sebzés |
 | 5 | 7 | 250 láb hatótáv; 3d6+3 sebzés |
-| +1 | +1 | Fejlődés folytatása |
+| +1 | +1 | Folyamatos progresszió |
 
 ---
-#### Megjelenés változtatása (Change Appearance)
+#### Megjelenés megváltoztatása
 
 (Illúzió)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 2d6 perc/Intenzitás |
+| **Szint:** Mágus 1 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** 2d6 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
 | **Terület:** Varázsló | **Ellenállás:** N/A |
 
-Ez a varázslat megváltoztatja a varázsló küllemét bármilyen humanoid vagy emberalakú kétlábú formára. A magasság és súly változása ±5 SIZ-re korlátozódik, de ezen a tartományon belül a varázsló választhat, hogy kövér vagy vékony, magas vagy alacsony, sőt, még nemet is válthat. A haj, a ruházat és a felszerelés a megjelenéssel együtt változtatható. A varázsló arcvonásai tetszés szerint megváltoztathatók, akár egy már létező személy tökéletes utánzásáig is. A varázslatra a hitetlenkedés (disbelief) vonatkozik, mint más illúzióvarázslatokra. A varázslat nem változtatja meg a varázsló illatát, és ha megérintik, a varázsló még mindig ugyanolyan tapintású, mint eredeti alakjában és ruházatában.
+Ez a varázslat a varázsló megjelenését bármilyen humanoid vagy emberi alakú kétlábú formára változtatja. A magasság és a súly változása legfeljebb ±5 MÉR lehet, de ezen a tartományon belül a varázsló dönthet úgy, hogy kövér vagy vékony, magas vagy alacsony lesz, vagy akár a nemét is megváltoztathatja. A haj, a ruházat és a felszerelés a megjelenéssel együtt változtatható. A varázsló arcvonásai tetszés szerint módosíthatók, akár egy másik létező személy tökéletes utánzásáig is. A varázslat a többi Illúzió varázslathoz hasonlóan ki van téve a [hitetlenségnek](0009_Magic.md?id=attempting-to-disbelieve). A varázslat nem változtatja meg a varázsló illatát, és ha megérintik, a varázsló továbbra is ugyanúgy érzi magát, mint az eredeti formájában és ruházatában.
 
 ---
-#### Kántálás (Chant)
+#### Kántálás
 
 (Megidézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 2 akció |
-| **Szféra:** Harc | **Hatástartam:** Koncentráció |
+| **Szint:** Pap 2 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Harc | **Időtartam:** Koncentráció |
 | **Költség:** 1 | **Hatótáv:** 0 |
-| **Terület:** 30 láb sugarú | **Ellenállás:** N/A |
+| **Terület:** 30 láb sugarú kör | **Ellenállás:** N/A |
 
-A Hatásterületen belüli összes személy +5% bónuszt kap minden képzettségdobásra és +1 bónuszt a sebzésre, minden egyes Intenzitási szintenként. Az ugyanazon területen lévő ellenségek a fent említett előnyök fordítottját szenvedik el.
+A hatótávolságon belüli összes személy minden képességdobására +5% bónuszt, minden sebzésére pedig +1 bónuszt kap, mindkettőt Intenzitási szintenként. Az azonos területen lévő ellenségek a fent említett előnyök ellentétét szenvedik el.
 
-A Kántálást a varázslat Hatástartama alatt végig fenn kell tartani, különben a hatások megszűnnek. A Mágiaoszlatás (Dispel Magic) nincs hatással a Kántálás folyamatos hatásaira, mivel maga a kántálás nem mágikus; azonban a Csend (Silence) varázslat semlegesíti a varázslat előnyeit. A Kántálás hatásai halmozódnak az Áldás és Átok hatásaival. Mivel a Hatástartam alatt kántálni kell, más varázslatok végrehajtása lehetetlen.
+A Kántálást a varázslat Időtartama alatt végig fenn kell tartani, különben a hatások megszűnnek. A Mágiaoszlatás (Dispel Magic) elmondása nincs hatással a Kántálás folyamatban lévő hatásaira, mivel maga a kántálás nem mágikus; azonban a Csend (Silence) varázslat elmondása semmissé teszi a varázslat előnyeit. A Kántálás hatásai összeadódnak az Áldás és az Átok hatásaival. Mivel az Időtartam alatt végig kántálni kell, más varázslatok elmondása lehetetlen.
 
 ---
-#### Bűbáj, Személy (Charm Person)
+#### Személy bűvölése
 
-(Igézés (Bűbáj))
+(Elvarázslás (Bűvölet))
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 1 hét/Intenzitás |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 360 láb |
-| **Terület:** 1 élő ember, demi-humán vagy humanoid | **Ellenállás:** Akaraterő |
+| **Szint:** Mágus 1 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** 1 hét/Intenzitás |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 360 láb |
+| **Terület:** 1 élő ember, félember vagy humanoid | **Ellenállás:** HAT |
 
-Amikor ezt a varázslatot végrehajtják, egy élő (az élőholtak nem érintettek) értelmes humanoid célpont 1-20 SIZ-ig minden ellenségeskedést megszüntet a mágussal és a mágus szövetségeseivel szemben, és helyette felajánlja a segítségét és védelmét, ha a célpont nem megy át az Ellenállás-dobáson. Megjegyzendő, hogy a segítség/védelem nem várt vagy akár negatív hatással is lehet a varázslóra, mivel az alany az alapján cselekszik, amit a leghelyesebbnek érez a védelemre/segítségre. A parancsokat illetően a célpont soha nem fogad engedelmességet öngyilkos vagy nyilvánvalóan káros cselekedetekre, de meggyőzhető arról, hogy valami rendkívül veszélyes dolgot érdemes megtenni.
+Amikor ez a varázslat elmondásra kerül, egy 1-20 közötti MÉR értékű, élő (az élőholtak nem érintettek) értelmes humanoid célpont beszünteti az ellenségeskedést a varázshasználóval és a varázshasználó szövetségeseivel szemben, és helyette felajánlja a segítségét és védelmét, ha a célpont elbukik egy Ellenállás dobáson. Megjegyzendő, hogy a segítés/védelem szándékolatlan vagy akár negatív hatással is lehet a varázslóra, mivel az alany aszerint cselekszik, amit a legjobb megoldásnak érez a védelemhez/segítséghez. Ami a parancsokat illeti, egy célpont soha nem fog öngyilkos vagy nyilvánvalóan káros cselekedeteket végrehajtani, de meggyőzhető arról, hogy valami rendkívül veszélyes dolgot érdemes megtenni.
 
-Bármilyen ellenséges tett a bűbáj alanyával szemben a mágus vagy szövetségesei részéről megtöri az Igézést. Megjegyzés: Ha mások kérdőjelezik meg a Bűbáj természetét, a célpont a Játékmester belátása szerint Ellenállás-dobást tehet. A mágusnak képesnek kell lennie beszélni az elbűvölttel, hogy bármilyen összetett "kérést" átadjon neki; ezért a célpont nyelvének ismerete fontos lehet, de nem követelmény az alapvető Igézéshez.
+Bármilyen ellenséges cselekedet a bűvölet alanyával szemben a varázshasználó vagy szövetségesei részéről megszakítja az Elvarázslást. Megjegyzés: Ha mások megkérdőjelezik a Bűvölet természetét, a célpont a Játékmester döntése szerint szintén tehet egy Ellenállás dobást. A varázshasználónak képesnek kell lennie beszélni a bűvölet alatt állóval, hogy bármilyen komplex „kérést” adhasson át; ezért a célpont nyelvének ismerete fontos lehet, de az alap Elvarázsláshoz nem feltétel.
 
-Az ellenállásra tett kezdeti dobás után 1 hétnek kell eltelnie, mielőtt az alany újra Ellenállás-dobást tehetne. A hatások addig tartanak, amíg a sikeres Ellenállás-dobás meg nem történik. A Személy elbűvölése varázslat magasabb Intenzitáson történő alkalmazása magasabb rangú mágust igényel, és a maximális Hatástartama 4 hét. A varázslat Hatástartama alatt a mágus Mágia-pont összege csökken a varázslat leadására elköltött mennyiséggel, a [Tartós Mágia Költségek](0009_Magic.md?id=enduring-magic-costs) szabályoknak megfelelően.
+Az első ellenállási dobás után 1 hétnek kell eltelnie, mielőtt az alany újabb Ellenállás dobást tehetne. A hatások folyamatosak, amíg sikeres Ellenállás dobás nem történik. A Személy bűvölése magasabb Intenzitási szinteken történő elsütése magasabb szintű mágust igényel, és a maximális Időtartama 4 hét. A varázslat Időtartama alatt a varázsló Mágia Pont összértéke csökken a varázslatra költött mennyiséggel, az [Elhúzódó Mágia Költségek](0009_Magic.md?id=enduring-magic-costs) szabályai szerint.
 
-| Intenzitás | Költség | Min. rang | Változó hatás |
+| Intenzitás | Költség | Min. Szint | Változó hatás |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | Elbűvölve 1 hétig |
-| 2 | 4 | 2 | Elbűvölve 2 hétig |
-| 3 | 5 | 3 | Elbűvölve 3 hétig |
-| 4 | 6 | 4 | Elbűvölve 4 hétig |
+| 1 | 3 | 1 | 1 hétig bűvölve |
+| 2 | 4 | 2 | 2 hétig bűvölve |
+| 3 | 5 | 3 | 3 hétig bűvölve |
+| 4 | 6 | 4 | 4 hétig bűvölve |
 
 ---
-#### Bűbáj, Tömeg (Charm, Mass)
+#### Tömeges bűvölet
 
-(Igézés (Bűbáj))
+(Elvarázslás (Bűvölet))
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 5 | **Időtartam:** 2 kör |
-| **Szféra:** Nincs | **Hatástartam:** 1 hét/Intenzitás |
+| **Szint:** Mágus 5 | **Varázslási idő:** 2 Kör |
+| **Szféra:** Nincs | **Időtartam:** 1 hét/Intenzitás |
 | **Költség:** 3/Intenzitás | **Hatótáv:** 40 láb/Intenzitás |
-| **Terület:** 20 láb sugarú/Intenzitás | **Ellenállás:** Akaraterő |
+| **Terület:** 20 láb sugarú kör/Intenzitás | **Ellenállás:** HAT |
 
-A fent említett kivételekkel ez a varázslat a [Személy elbűvölése](0010_Spells.md?id=charm-person) és a Szörny elbűvölése varázslatokhoz hasonlóan működik. Ez a leghatalmasabb bűbájvarázslat esélyt ad arra, hogy a Hatásterületen belüli bármilyen SIZ-ű lényt elbűvöljön. Az emberméretű és annál kisebbek (SIZ 1-20) ellenállási dobásai Nehezek; a Nagy méretű lényeknek (SIZ 21-40) Átlagos nehézségi fokon kell Ellenállás-dobást tenniük, és az Óriási lények (SIZ 41+) ellenállási dobása Könnyű.
+A fent említett kivételektől eltekintve ez a varázslat úgy működik, mint a [Személy bűvölése](0010_Spells.md?id=charm-person) és a Szörny bűvölése varázslatok. A Bűvölet varázslatok közül ez a leghatalmasabb, esélye van arra, hogy minden lényt rabul ejtsen a hatótávolságon belül, bármilyen MÉR értékkel. Az emberi méretű és annál kisebbek (MÉR 1-20) számára az ellenállási dobás Nehéz; a Nagy lényeknek (MÉR 21-40) az Ellenállás dobásokat Normál Nehézségen kell végrehajtaniuk, és a Hatalmas lények (MÉR 41+) ellenállási dobása Könnyű.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | Elbűvölve 1 hétig |
-| 2 | 6 | Elbűvölve 2 hétig |
-| 3 | 9 | Elbűvölve 3 hétig |
-| 4 | 12 | Elbűvölve 4 hétig |
+| 1 | 3 | 1 hétig bűvölve |
+| 2 | 6 | 2 hétig bűvölve |
+| 3 | 9 | 3 hétig bűvölve |
+| 4 | 12 | 4 hétig bűvölve |
 
 ---
-#### Szörny elbűvölése (Charm Monster)
+#### Szörny bűvölése
 
-(Igézés (Bűbáj))
+(Elvarázslás (Bűvölet))
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** 1 hét/Intenzitás |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 180 láb |
-| **Terület:** 20 láb sugarú | **Ellenállás:** Akaraterő |
+| **Szint:** Mágus 3 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** 1 hét/Intenzitás |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 180 láb |
+| **Terület:** 20 láb sugarú kör | **Ellenállás:** HAT |
 
-Ez a [Személy elbűvölése](0010_Spells.md?id=charm-person) varázslat továbbfejlesztett változata, amely elbűvöli a Hatásterületen belüli 20 vagy annál kisebb SIZ-ű élő lényeket, vagy 1 bármilyen SIZ-ű lényt. A Nagy lényeket (SIZ 21-40) nehezebb elbűvölni, ellenállási dobásuk Könnyű, míg az Óriási lények (SIZ 41+) ellenállási dobása Nagyon Könnyű. A varázslat minden egyéb módon a Személy elbűvölése szabályai szerint működik.
+Ez a [Személy bűvölése](0010_Spells.md?id=charm-person) varázslat továbbfejlesztett változata annyiban, hogy minden 20 vagy kisebb MÉR értékű élő lényt bűvöletbe ejt a hatótávolságon belül, vagy 1 bármilyen MÉR értékű lényt. A Nagy lényeket (MÉR 21-40) nehezebb elbűvölni, ellenállási dobásuk Könnyű, a Hatalmas lények (MÉR 41+) ellenállási dobása pedig Nagyon Könnyű. A varázslat minden egyéb tekintetben a Személy bűvölése varázslat szerint működik.
 
-| Intenzitás | Költség | Min. rang | Változó hatás |
+| Intenzitás | Költség | Min. Szint | Változó hatás |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 3 | Elbűvölve 1 hétig |
-| 2 | 4 | 3 | Elbűvölve 2 hétig |
-| 3 | 5 | 4 | Elbűvölve 3 hétig |
-| 4 | 6 | 4 | Elbűvölve 4 hétig |
+| 1 | 3 | 3 | 1 hétig bűvölve |
+| 2 | 4 | 3 | 2 hétig bűvölve |
+| 3 | 5 | 4 | 3 hétig bűvölve |
+| 4 | 6 | 4 | 4 hétig bűvölve |
 
 ---
-#### Hideg (R) (Chill)
+#### Lehűlés (R)
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Szint:** Mágus 0 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** Nincs |
 
-A Hideg drasztikusan csökkenti egy kisméretű, legfeljebb 1 „Holmi” méretű tárgy hőmérsékletét egészen a jeges víz hőmérsékletéig. Hasznos forró tárgyak gyors lehűtésére, italok hűtésére stb. A varázslat nem fagyasztja meg a tárgyat, és nem okoz kárt a szerkezetében: csupán nagyon hideggé teszi.
+A Lehűlés drasztikusan csökkenti egy kis tárgy hőmérsékletét, amelynek mérete nem haladja meg az 1 „Tárgy” ENC értéket, egészen a jeges víz hőmérsékletéig. Hasznos forró tárgyak gyors lehűtésére, italok hűtésére stb. A varázslat nem fagyasztja meg a tárgyat, és nem okoz kárt a szerkezetében sem: csupán nagyon hideggé teszi azt.
 
-Megfordítva, a Hőség, drasztikusan növeli a kisméretű tárgyak hőmérsékletét a forrásban lévő víz hőmérsékletéig. Ez a sokoldalú varázslat hasznos bor fűszerezéséhez, étel főzéséhez tűz nélkül, vagy ágy felmelegítéséhez alvás előtt. Nem befolyásolja az élő szövetet, bár hatással lehet a ruházatra és a páncélra, kényelmetlenné téve azt, de nem olyan mértékben, hogy akadályozná a viselőt.
+Megfordítva, a Felmelegítés drasztikusan növeli a kis tárgyak hőmérsékletét a forrásban lévő víz hőmérsékletéig. Ez a sokoldalú varázslat hasznos bor forralására, ételek tűz nélküli főzésére vagy ágy melegítésére alvás előtt. Nem érinti az élő szövetet, bár befolyásolhatja a ruházatot és a páncélzatot, ami kissé kényelmetlenné teszi, de nem akadályozza a viselőjét.
 
 ---
-#### Tisztítás (R) (Cleanse)
+#### Tisztítás (R)
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Szint:** Mágus 0 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** Lásd alább | **Ellenállás:** Akaraterő |
+| **Terület:** Lásd alább | **Ellenállás:** HAT |
 
-A Tisztítás egy tárgy, személy vagy kisebb terület megszabadítására szolgál a kosztól, zsírtól, piszoktól, rossz szagoktól stb. Nem szervezi vagy rendezi el a célpontot vagy a területet; egyszerűen makulátlan állapotúra tisztítja azokat. Ezt a varázslatot gyakran használják ruhák mosására. A varázsló akkora területet tisztíthat meg, amelynek területe POWx5 négyzetláb (egy 5 láb hosszú négyzet 25 négyzetláb).
+A Tisztítás egy tárgy, személy vagy kis terület szennyeződéstől, zsírtól, kosságtól, rossz szagoktól stb. való megszabadítására szolgál. Nem rendszerezi vagy teszi rendbe a célpontot vagy területet; csupán ragyogóan tisztává teszi azokat. Ezt a varázslatot gyakran használják ruhák mosására. A varázsló HATx5 négyzetlábnyi területet képes megtisztítani (egy 5 láb oldalhosszúságú négyzet 25 négyzetláb).
 
-A Rendetlenség (Disvel) a Tisztítás fordítottja. Az érintett tárgyakat azonnal kosz, por, pókháló stb. borítja. A varázslat arra használható, hogy a vadonatúj tárgyak réginek és viharvertnek tűnjenek, vagy segíthet megakadályozni, hogy a normálisan jól öltözött embereket felismerjék.
+A Rendetlenség a Tisztítás ellentéte. Az érintett tárgyakat azonnal kosz, por, pókháló stb. borítja be. A varázslat használható arra, hogy a vadonatúj tárgyak réginek és viharvertnek tűnjenek, vagy segítsen megakadályozni, hogy a normálisan jól öltözött embereket felismerjék.
 
 ---
-#### Parancs (Command)
+#### Parancs
 
-(Igézés (Bűbáj))
+(Elvarázslás (Bűvölet))
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 1 akció |
-| **Szféra:** Bűbáj | **Hatástartam:** 1 perc |
+| **Szint:** Pap 1 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Bűvölet | **Időtartam:** 1 perc |
 | **Költség:** 3 | **Hatótáv:** 100 láb |
-| **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
+| **Terület:** 1 célpont | **Ellenállás:** HAT |
 
-Amikor ezt a varázslatot végrehajtják, a pap egyetlen szóból álló parancsot mondhat egy 1-20 SIZ-ű élő lénynek, és az alany a következő fordulójában pontosan követi a parancsot, ha nem sikerül ellenállnia. Ez lényegében azt okozza, hogy az áldozat kihagyja a következő fordulóját a parancsolt cselekvés elvégzése közben, és elpazarolja az Akciópontját, miközben végrehajtja. Ha az áldozatnak nincs több Akciópontja, a parancsolt cselekvés a következő kör első fordulójában kerül végrehajtásra. Maga a parancs nem okozhat tényleges sérülést a célpontnak; azonban a sérülés a parancs másodlagos hatásaként következhet be.
+Amikor ez a varázslat elmondásra kerül, a pap egyetlen szavas parancsot adhat ki egy 1-20 MÉR értékű élő lénynek, és az alany következő Körében, ha nem sikerül ellenállnia, a parancsot betű szerint követni fogja. Ez lényegében azt eredményezi, hogy az áldozat kihagyja a következő Kört a parancsolt cselekvés végrehajtásával, és elpazarol egy Cselekvési Pontot annak elvégzése közben. Ha az áldozatnak nincs több Cselekvési Pontja, a parancsolt cselekvés a következő Kör első Körében kerül végrehajtásra. Maga a parancs nem okozhat tényleges sérülést a célpontnak; azonban a parancs másodlagos hatásaként sérülés következhet be.
 
-Például a „meghalni” parancs eredménye az lenne, hogy az áldozat 1 körre halálszerű állapotba kerül, tényleges sérülés nélkül; azonban egy 100 láb magas sziklafalon mászó lénynek adott „leesni” parancs már halálos lehet.
+Például egy „halj meg” parancs azt eredményezné, hogy az áldozat egy 1 Körig tartó, halálhoz hasonló állapotba esik, ami nem okoz tényleges sérülést; azonban egy 100 láb magas sziklafalon mászó lénynek adott „ess le” parancs több mint halálos lehetne.
 
-Az áldozatnak értenie kell a pap által beszélt nyelvet, és Akaraterő-tesztet tehet az ellenállásra.
+A parancs alanyának értenie kell a varázsló által beszélt nyelvet, és HAT tesztet tehet az ellenállásra.
 
-**Néhány példa parancsokra**
+**Néhány példa a parancsokra**
 
-- **Mászni:** Az alany hasra vágódik és mászni kezd.
-- **Meghalni:** Az alany hasra vágódik, egy halálszerű kómás állapotba kerülve.
-- **Leesni:** Az alany hasra vágódik.
-- **Esetlenkedni:** Az alany elront egy fizikai cselekvést, amit éppen megtenne.
-- **Aludni:** Az alany elszundít.
-- **Menekülni:** Az alany megfordul és elmenekül a varázsló elől.
-- **Repülni:** Az alany a karjait csapkodja és körben fut.
-- **Menj:** Az alany járni kezd abba az irányba, amely felé nézett.
-- **Megállni:** Az alany azonnal megáll és egy helyben áll.
-- **Távozni:** Az alany megfordul és távozik ugyanazon az úton, amelyen érkezett.
-- **Pihenni:** Az alany ülő helyzetbe ereszkedik és kifújja magát.
-- **Futni:** Az alany futni kezd.
-- **Sikoltani:** Az alany üvölt.
-- **Süllyedni:** Az alany abbahagyja az úszást.
-- **Megadni:** Az alany elejti fegyvereit és megszünteti az ellenségeskedést.
+- **Mászás:** Az alany hasra vágódik és mászni kezd.
+- **Halál:** Az alany hasra esik, és kómás, halálhoz hasonló állapotba kerül.
+- **Esés:** Az alany hasra esik.
+- **Ügyetlenkedés:** Az alany elügyetlenkedik egy fizikai cselekvést, amit éppen megtenni készülne.
+- **Alvás:** Az alany elbóbiskol.
+- **Menekülés:** Az alany megfordul és elmenekül a varázsló elől.
+- **Repülés:** Az alany csapkodja a karját és körbe-körbe fut.
+- **Menj:** Az alany elindul abba az irányba, amerre nézett.
+- **Megállás:** Az alany azonnal megáll és egy helyben marad.
+- **Távozás:** Az alany megfordul és azon az úton távozik, amelyen érkezett.
+- **Pihenés:** Az alany ülő helyzetbe ereszkedik és kifújja magát.
+- **Futás:** Az alany futni kezd.
+- **Sikítás:** Az alany felkiált.
+- **Süllyedés:** Az alany abbahagyja az úszást.
+- **Megadás:** Az alany eldobja a fegyvereit és beszünteti az ellenségeskedést.
 
 ---
-#### Hidegkúp (Cone of Cold)
+#### Hidegkúp
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 1 kör |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 0 |
-| **Terület:** Lásd alább | **Ellenállás:** Kikerülés |
+| **Szint:** Mágus 3 | **Varázslási idő:** 1 Kör |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 0 |
+| **Terület:** Lásd alább | **Ellenállás:** Kitérés |
 
-A varázsló a kezéből kiinduló fagyos hideg kúpot hoz létre. A Hatásterület egy 90 fokos ív ("kúp"), amely 10 láb hosszú minden Intenzitási szintenként. A varázslat minden 2 Intenzitásonként 1d6+1 sebzést okoz minden áldozatnak a Hatásterületen. Dobd a sebzést egyszer, és alkalmazd a célpont minden Testtájára, a viselt páncél csak fél védelmet nyújt, de a lény természetes páncélja vagy mágikus Páncélpontjai a szokásos módon csökkentik a sebzést. A Játékmester választhatja ki az érintett testtájak számát tetszése szerint, ha egy óriási lény nagyobb a Hatásterületnél.
+A varázsló a kezéből kiinduló, perzselő hideg kúpot hoz létre. A hatótávolság egy 90 fokos ív („kúp”), amely Intenzitási szintenként 10 láb hosszúságú. A varázslat minden Intenzitási pont után, vagy annak töredékéért 1d6+1 pont sebzést okoz a hatótávolságon belüli összes áldozatnak. A sebzést egyszer dobd ki, és alkalmazd a célpont minden Testrészére, ahol a viselt páncél csak fél védelmet nyújt, de a lény természetes páncélja vagy mágikus Páncélpontjai a szokásos módon csökkentik a sebzést. A Játékmester döntheti el, hogy hány helyen érinti a sebzés, ha egy hatalmas lény nagyobb, mint a hatótávolság.
 
-A sikeres Kikerülés (Evade) dobással, amely során a karakter hasra vágódik, az áldozat nem szenved sebzést. A Művész Szökő (Artful Dodger) képességgel rendelkezők hasra vágódás nélkül is kikerülhetnek, de ebben az esetben a siker csak a sebzést felezi, hacsak nem a Hatásterület szélétől számított öt lábon belül vannak. A Hidegkúpnak esélye van jégréteggel bevonni az áldozatot, amely egyenlő a dobott sebzés x 5%-ával. Ha megfagy, az áldozat körönként egyszer elkölthet egy Akciópontot és Brawn-dobást tehet a szabadulásra; azonban amíg ez nem sikerül, a szerencsétlen áldozat nem mozoghat, és nem hajthat végre más cselekvést.
+Sikeres Kitérés dobással, a földre vetődéssel az áldozat nem szenved sebzést. A Ravasz Kitérő Képességgel rendelkező személy földre vetődés nélkül is Kitérhet, de ebben az esetben a siker csak a felére csökkenti a sebzést, kivéve, ha a hatótávolság szélétől öt lábon belül vannak. A Hidegkúpnak a dobott sebzéssel (módosítás után) egyenlő x 5% esélye van arra, hogy jégréteggel vonja be az áldozatot. Ha megfagyott, az áldozat Körönként egyszer Cselekvési Pontot költhet, és Erő dobást tehet, hogy megpróbáljon kitörni; azonban a sikerig a szerencsétlen áldozat nem tud mozogni vagy más cselekvéseket végrehajtani.
 
 **Hidegkúp hatások**
 
@@ -466,943 +464,939 @@ A sikeres Kikerülés (Evade) dobással, amely során a karakter hasra vágódik
 | 3 | 5 | 30 láb hosszú; 2d6+2 sebzés |
 | 4 | 6 | 40 láb hosszú; 2d6+2 sebzés |
 | 5 | 7 | 50 láb hosszú; 3d6+3 sebzés |
-| +1 | +1 | Fejlődés folytatása |
+| +1 | +1 | Folyamatos progresszió |
 
 ---
-#### Zavartság (Confusion)
+#### Zavarodottság
 
-(Igézés (Bűbáj))
+(Elvarázslás (Bűvölet))
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 4, Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** Bűbáj | **Hatástartam:** 1 perc/Intenzitás |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 120 láb (Pap verzió 250 láb) |
-| **Terület:** 30 láb sugarú | **Ellenállás:** Akaraterő (Pap verzió Nehéz Akaraterő) |
+| **Szint:** Pap 4, Mágus 3 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Bűvölet | **Időtartam:** 1 perc/Intenzitás |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 120 láb (papi verzió 250 láb) |
+| **Terület:** 30 láb sugarú kör | **Ellenállás:** HAT (papi verzió Nehéz HAT) |
 
-Amikor ezt a varázslatot végrehajtják, a Hatásterületen belüli 1d4, 1-20 SIZ-ű lény, akinek nem sikerült az Ellenállás-dobása, mágikus zavartsággal sújtódik. Minden további Intenzitási szint további 1d4 lényt érint, maximum 4d4-ig. A pap verzió Intenzitásonként 1d3+1 lényt érint, és nincs maximum. A Hatásterületen belüli és a varázslóhoz legközelebbi lények érintettek először. A sikeres Ellenállás-dobás legyőzi a varázslatot, míg a sikertelen dobás azt eredményezi, hogy az áldozat az alábbi véletlenszerű hatások egyikét szenvedi el, minden körben dobj a varázslat Hatástartama alatt, vagy amíg az áldozat el nem kóborol.
+Amikor ez a varázslat elmondásra kerül, a hatótávolságon belüli 1-20 MÉR értékű lények közül 1d4, akik elbukják az Ellenállás dobásukat, mágikus zavarodottsággal sújtódnak. Minden további Intenzitási szint további 1d4 lényt érint, maximum 4d4-ig. A papi verzió Intenzitásonként 1d3+1-et érint, és nincs Maximuma. A hatótávolságon belüli és a varázslóhoz legközelebbi lények érintettek először. A sikeres Ellenállás dobás legyőzi a varázslatot, míg az elbukott dobás azt eredményezi, hogy az áldozat a következő véletlenszerű hatások egyikét szenvedi el, dobd minden Körben a varázslat Időtartama alatt, vagy amíg az áldozat el nem kóborol.
 
-| D100 Dobás | Zavartság hatása |
+| D100 Dobás | A zavarodottság hatásai |
 | :-: | :-- |
-| 01-10 | A varázsló támadása közelharci vagy távolsági fegyverrel a kör hátralévő részében |
-| 11-50 | Zavarodottan áll, lényegében "Dither" (kivárás) a kör hátralévő részében |
-| 51-70 | A legközelebbi ellenség támadása a kör hátralévő részében |
-| 71-80 | A legközelebbi szövetséges támadása a kör hátralévő részében |
-| 81-90 | Elvándorol Gyalogos sebességgel, ha nincs harcban a varázslat alatt, egyébként "Dither" a kör hátralévő részében |
-| 91-00 | Normál cselekvés a kör hátralévő részében |
+| 01-10 | Támadd a varázslót távolsági vagy közelharci fegyverekkel a Kör hátralévő részében |
+| 11-50 | Állj zavarodottan, lényegében Dither (Habozás) választása a Kör hátralévő részére |
+| 51-70 | Támadd a legközelebbi ellenséget a Kör hátralévő részében |
+| 71-80 | Támadd a legközelebbi szövetségest a Kör hátralévő részében |
+| 81-90 | Kóborolj el Séta sebességgel, ha nincsen lekötve a varázslat Időtartama alatt, különben Dither a 11-50 pont szerint |
+| 91-00 | Cselekedj normálisan a Kör hátralévő részében |
 
-Minden zavarodott lény elleni támadás további kísérletet tesz a varázslat elleni ellenállásra. Az áldozat Kikerülhet (Evade) vagy Parírozhat (Parry) a szokásos módon.
+A zavarodott lény elleni minden támadás lehetőséget ad arra, hogy további kísérletet tegyen a varázslat ellenállására. Az áldozat normálisan Kitérhet vagy Parírozhat.
 
-Az "Elvándorol" eredménynél az áldozat a varázslóval ellentétes irányba indul el Gyalogos sebességgel, a mozgásuk normális módját használva. Az olyan képességekkel rendelkező lények, mint az asztrális vagy éteri utazás, síkváltás stb., 50% eséllyel használják ezeket a képességeket a hétköznapi mozgás helyett minden körben.
+„Elkóborlás” eredménynél az áldozat a varázslóval ellentétes irányba indul el sétáló tempóban, a szokásos mozgási módját használva. Az olyan veleszületett Képességekkel rendelkező lények, mint az asztrális vagy éteri utazás, síkeltolódás stb., Körönként 50% eséllyel használják ezek egyikét a földhözragadt mozgási módjuk helyett.
 
-A Nagy lények (SIZ 21-40) kevésbé érzékenyek a Zavartságra, ellenállási dobásuk Könnyű, míg az Óriási lények (SIZ 41+) ellenállási dobása Nagyon Könnyű.
+A Nagy lények (MÉR 21-40) kevésbé fogékonyak a Zavarodottságra, ellenállási dobásuk Könnyű, míg a Hatalmas lények (MÉR 41+) ellenállási dobása Nagyon Könnyű.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 perc; 1d4 lény (1d3+1 papnak) |
-| 2 | 4 | 2 perc; 2d4 lény (2d3+2 papnak) |
-| 3 | 5 | 3 perc; 3d4 lény (3d3+3 papnak) |
-| 4 | 6 | 4 perc; 4d4 lény (max) (4d3+4 papnak) |
-| 5 | 7 | 5 perc; (5d3+5 papnak) |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 1 perc; 1d4 lény (papi 1d3+1) |
+| 2 | 4 | 2 perc; 2d4 lény (papi 2d3+2) |
+| 3 | 5 | 3 perc; 3d4 lény (papi 3d3+3) |
+| 4 | 6 | 4 perc; 4d4 lény (max) (papi 4d3+4) |
+| 5 | 7 | 5 perc; (papi 5d3+5) |
+| +1 | +1 | Folyamatos progresszió |
 
 ---
-#### Állandó fény (Continual Light)
+#### Folyamatos fény
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2, Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Nap | **Hatástartam:** Fél-állandó (Lásd alább) |
+| **Szint:** Pap 2, Mágus 2 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Nap | **Időtartam:** Fél-állandó (Lásd alább) |
 | **Költség:** 3 | **Hatótáv:** 180 láb |
-| **Terület:** 60 láb sugarú | **Ellenállás:** Lásd alább |
+| **Terület:** 60 láb sugarú kör | **Ellenállás:** Lásd alább |
 
-Ez a varázslat teljes nappali fényerővel bíró fénygömböt hoz létre a varázsló által választott helyen, ami lehet tárgy vagy akár az üres levegő is. Fél-állandó, és csak akkor semlegesül átmenetileg, ha mágikus sötétség területére lép. Azonban a varázsló bármikor megszüntetheti, vagy a Continual Light Nagyságánál nagyobb Intenzitású Sötétség (Darkness) vagy Mágiaoszlatás varázslattal semlegesíthető.
+Ez a varázslat a teljes nappali fényerővel megegyező fénygömböt hoz létre a varázsló által választott helyen, ami lehet tárgy vagy akár szabad levegő is. Fél-állandó, és csak mágikus sötétség területére lépéssel hatástalanítható ideiglenesen. Azonban a varázsló bármikor véglegesen megszüntetheti, vagy egy Sötétség, vagy egy a Folyamatos fény Nagyságánál nagyobb Intenzitású Mágiaoszlatás elmondásával semlegesíthető.
 
-A nappali fénnyel szemben averzióval rendelkező lények a hozzá kapcsolódó büntetéseket szenvedik el a megfelelő Hatásterületen belül. Ha egy lényre vetik, a célpont Akaraterő-tesztet tehet az ellenállásra, a siker azt jelzi, hogy a varázslat a lény mögötti területre hatott, nem pedig magára a lényre. Ha egy lény szemére összpontosítják, a sikertelen Akaraterő-dobás részleges vakságot eredményez, egy nehézségi fokkal növelve a látást igénylő összes képesség- és Ellenállás-dobás nehézségét. A látás csak a Vakság és süketség gyógyítása (Cure Blindness and Deafness) varázslat bármely Intenzitáson való leadásával, vagy a Continual Light Nagyságánál nagyobb Intenzitású Mágiaoszlatással állítható helyre. A varázslat hatásai mozdulatlanok, de hordozható vagy mozgatható tárgyra is vethető.
+A napfényre érzékeny lények a megfelelő Területen belül a vele járó szokásos büntetéseket szenvedik el. Ha egy lényre sütik el, a célpont HAT tesztet tehet az ellenállásra, a siker azt jelzi, hogy a varázslat a lény mögötti területre hatott, nem pedig magára a lényre. Ha egy lény szemére irányul, az elbukott HAT dobás részleges vakságot eredményez, egy fokozattal növelve az összes látást igénylő képesség és Ellenállás dobás nehézségét. A látás csak a Vakság és süketség gyógyítása bármilyen Intenzitáson való elmondásával, vagy a Folyamatos fény Nagyságánál nagyobb Intenzitású Mágiaoszlatás elmondásával állítható helyre. A varázslat hatásai mozdulatlanok, de hordozható vagy mozgatható tárgyra is elmondható.
 
 ---
-#### Időjárás-szabályozás (Control Weather)
+#### Időjárás-szabályozás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 5, Mágus 4 | **Időtartam:** 10 perc |
-| **Szféra:** Időjárás | **Hatástartam:** 1d6 óra/Intenzitás |
-| **Költség:** 3 +1/Intenzitás | **Hatótáv:** 0 |
+| **Szint:** Pap 5, Mágus 4 | **Varázslási idő:** 10 perc |
+| **Szféra:** Időjárás | **Időtartam:** 1d6 óra/Intenzitás |
+| **Költség:** 3 + 1/Intenzitás | **Hatótáv:** 0 |
 | **Terület:** 1d4 négyzetmérföld/Intenzitás | **Ellenállás:** N/A |
 
-Ez a varázslat lehetővé teszi a varázsló számára a jelenlegi időjárás jelentős és észrevehető megváltoztatását. A végrehajtás után további 1d4x10 percnek kell eltelnie, amíg a hatások teljesen megnyilvánulnak. Bármely változás Hatástartama a varázslat időtartama szerint számítandó. A varázsló a Csapadékot, Hőmérsékletet és Szélirányt akár két fokozattal is megváltoztathatja, a [Konverziós táblázatok](Appendix_B_Conversion_Tables) táblázataiban részletezettek szerint.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy az aktuális időjárást jelentős és észrevehető módon megváltoztassa. A varázslás után további 1d4x10 percre van szükség ahhoz, hogy a hatások teljesen megnyilvánuljanak. Bármilyen változás Időtartama a varázslat Időtartama szerint kerül kiszámításra. A varázsló legfeljebb két fokozattal változtathatja a Csapadékot, a Hőmérsékletet és a Szelet a [Konverziós Táblázatok](Appendix_B_Conversion_Tables) táblázataiban részletezettek szerint.
 
 <br>
 
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 1d6 óra Hatástartam; 1d4 négyzetmérföld |
-| 2 | 4 | 2d6 óra Hatástartam; 2d4 négyzetmérföld |
-| 3 | 5 | 3d6 óra Hatástartam; 3d4 négyzetmérföld |
-| 4 | 6 | 4d6 óra Hatástartam; 4d4 négyzetmérföld |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 1d6 óra Időtartam; 1d4 négyzetmérföld |
+| 2 | 4 | 2d6 óra Időtartam; 2d4 négyzetmérföld |
+| 3 | 5 | 3d6 óra Időtartam; 3d4 négyzetmérföld |
+| 4 | 6 | 4d6 óra Időtartam; 4d4 négyzetmérföld |
+| +1 | +1 | Folyamatos progresszió |
 
 ---
-#### Koordináció (Coordination)
+#### Koordináció
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Minden | **Hatástartam:** Kiváltó (Trigger) |
+| **Szint:** Pap 0, Mágus 0 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Mind | **Időtartam:** Kiváltó |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** Nincs |
 
-A Koordináció javítja a kézügyességet és a mozgékonyságot egy előre meghatározott feladat elvégzésekor. Előkészítésként alkalmazva lehetővé teszi az alany számára, hogy újradobjon egyetlen olyan képességdobást, ahol koordináció szükséges, mint például Akrobatika, Zárak kinyitása stb. A címzett választhat a két dobás közül, de a varázslat a folyamat során elhasználódik.
+A Koordináció fokozza a kézügyességet és az ügyességet egyetlen előre meghatározott feladat elvégzésekor. Felkészülésként elmondva lehetővé teszi a címzett számára, hogy újra dobjon egyetlen képességpróbát, ahol koordinációra van szükség, mint például Akrobatika, Zárnyitás stb. A címzett választhat a két dobás közül a jobbikat, de a varázslat a folyamat során elhasználódik.
 
----
-#### Étel és ital teremtése (Create Food and Water)
+---#### Étel és ital teremtése
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 1 perc |
-| **Szféra:** Teremtés, Elemi (Víz) | **Hatástartam:** Lásd alább |
+| **Rang:** Pap 1 | **Varázslási idő:** 1 perc |
+| **Szféra:** Teremtés, Elemi (Víz) | **Időtartam:** Lásd alább |
 | **Költség:** 3 +1/Intenzitás | **Hatótáv:** 30 láb |
 | **Terület:** Lásd alább | **Ellenállás:** N/A |
 
-Ez a varázslat a semmiből akkora mennyiségű ételt hoz létre, amely Intenzitásonként három, 20 vagy annál kisebb SIZ-ű lényt vagy egy 21-40 SIZ-ű lényt etet meg egy egész napig. A 40-nél nagyobb SIZ-ű lények "étkezésenként" 1 Intenzitást igényelnek. Ez az alkotás minden tekintetben hasonlít a normál ételre, és bár meglehetősen ízetlen, bármi lehet, amit a varázsló kíván. Ami az ízéből hiányzik, azt több mint pótolja a tápérték. Miután létrejött, az étel eltarthatósága 24 óra, tárolástól függetlenül. Miután megromlott, a Tisztítás (Purify Food and Water) varázslat leadásával újra ehetővé tehető, további 24 órával meghosszabbítva azt az időszakot, amely alatt biztonságosan elfogyasztható. Az étel mellett a varázslat bőséges ivóvizet is teremt, amely minden tekintetben úgy működik, mint a 1. szintű Vízteremtés (Create Water) varázslat.
+Ennek a varázslatnak a használata a semmiből akkora mennyiségű ételt hoz létre, amely három, legfeljebb 20-as MÉR-ű lény vagy egy 21-40-es MÉR-ű lény teljes napi táplálékszükségletét fedezi Intenzitásonként. A 40-es MÉR-nél nagyobb lények esetében Intenzitásonként 1 „étkezésre” van szükség. Ez a teremtett étel minden tekintetben hasonlít a normális élelemre, és bár meglehetősen ízetlen, lehet bármi, amit a varázsló kíván. Amit ízben nélkülöz, azt bőségesen pótolja tápértékben. A létrejött étel eltarthatósága a létrehozás után 24 óra, tárolási módtól függetlenül. Azonban miután megromlott, az Étel és ital tisztítása varázslattal újra fogyaszthatóvá tehető, további 24 órával meghosszabbítva a biztonságos fogyasztás idejét. A teremtett étel mellett a varázslat bőséges mennyiségű ivóvizet is létrehoz, minden tekintetben úgy működve, mint az 1. rangú Vízteremtés varázslat.
 
 ---
-#### Betegség gyógyítása (R) (Cure Disease)
+#### Betegség gyógyítása (R)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 1 kör |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
+| **Rang:** Pap 2 | **Varázslási idő:** 1 kör |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
 | **Költség:** 3/Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A (Kitartás vagy Kikerülés) |
+| **Terület:** 1 célpont | **Ellenállás:** N/A (ÁLLóképesség vagy Kitérés) |
 
-Ez a varázslat meggyógyítja az alanyt sújtó bármely világi vagy mágikus betegség hatásait, amelynek Potenciája (POT) kisebb, mint a varázslat Intenzitása x 30. Amint a gyógyítás hatályba lép, a felépülés megkezdődhet az adott betegségnél leírtak szerint. A parazita lények, mint a zöld iszap, a rothasztó nyüvek, sőt még a vérfarkasság által okozott fertőzések is semlegesíthetők a Betegség gyógyításával. Azonban az utóbbi fertőzéseket 72 órán belül és legalább 12-es Intenzitáson kell gyógyítani, míg az előbbiek 1-es Intenzitáson is gyógyíthatók. Ez a varázslat nem nyújt jövőbeli védettséget a betegséggel szemben.
+Ez a varázslat meggyógyítja azokat a hétköznapi vagy mágikus betegségeket, amelyek a célpontot sújtják, és amelyek potenciája kisebb a varázslat Intenzitása x30-nál. Amint a gyógyítás hatályba lép, a felépülés megkezdődhet az adott betegség leírásában foglaltak szerint. Az olyan parazita lények által okozott fertőzések, mint a zöld iszap, a rothasztó kukacok vagy akár a vérfarkaskór, a Betegség gyógyítása varázslattal megszüntethetők. Azonban az utóbbi fertőzéseknél a Betegség eltávolítása varázslatot 72 órán belül és legalább 12-es Intenzitással kell elmondani, míg az előbbiek már 1-es Intenzitással is gyógyíthatók. Ez a varázslat nem nyújt jövőbeli védettséget a betegséggel szemben.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | POT 30 betegség, zöld iszap vagy rothasztó nyüvek gyógyítása |
-| 2 | 6 | POT 60 betegség gyógyítása |
-| 3 | 9 | POT 90 betegség gyógyítása |
-| 4 | 12 | POT 120 betegség, vérfarkasság gyógyítása |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 30-as POT-ú betegség, zöld iszap vagy rothasztó kukacok gyógyítása |
+| 2 | 6 | 60-as POT-ú betegség gyógyítása |
+| 3 | 9 | 90-es POT-ú betegség gyógyítása |
+| 4 | 12 | 120-as POT-ú betegség, vérfarkaskór gyógyítása |
+| +1 | +1 | Folyamat folytatása |
 
-A varázslat megfordítása, a Betegség okozása, mágikus kórságot idéz elő az ellenségen. Ha sikeres, a varázsló bármely ismert betegséget választhat a célpontra; azonban az Intenzitás x 30 értéknek egyenlőnek kell lennie vagy meg kell haladnia a választott betegség Potenciáját. Miután a betegséget sikeresen átadták, minden egyéb betegséggel azonos módon működik az ellenállás, a Kezdési idő, az Időtartam stb. tekintetében. Az egyetlen kivétel az, hogy a korai felépülés a Betegség gyógyítása vagy a Gyógyítás varázslat leadására korlátozódik. A Gyógyítás képzettségnek nincs hatása mágikusan előidézett betegségekre.
+A varázslat ellentéte, a Betegség okozása, mágikus kórt idéz elő az ellenségen. Sikeres varázslat esetén a varázsló kiválaszthat bármilyen ismert betegséget, amelyet a célpontra küld; azonban az Intenzitás x30 értéknek egyenlőnek kell lennie vagy meg kell haladnia a választott betegség Potenciáját. Miután a betegség sikeresen átterjedt, az ellenállás, a Kezdési idő, az Időtartam és egyéb tényezők tekintetében ugyanúgy működik, mint bármely más betegség. Az egyetlen kivétel, hogy a korai felépülés a Betegség eltávolítása vagy a Gyógyítás varázslat alkalmazására korlátozódik. A Gyógyítás képzettségnek nincs hatása a mágikusan előidézett betegségekre.
 
 ---
-#### Kimerültség gyógyítása (R) (Cure Fatigue)
+#### Fáradtság gyógyítása (R)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 2 akció |
-| **Szféra:** Gyógyítás | **Hatástartam:** Lásd alább |
+| **Rang:** Pap 1 | **Varázslási idő:** 2 cselekvés |
+| **Szféra:** Gyógyítás | **Időtartam:** Lásd alább |
 | **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A (Kitartás vagy Kikerülés) |
+| **Terület:** 1 célpont | **Ellenállás:** N/A (ÁLLóképesség vagy Kitérés) |
 
-Amikor ez a varázslat életbe lép, az alany 1d3+1 elvesztett Kimerültségi szintet nyer vissza, sőt, adott esetben vissza is nyeri az eszméletét.
+Amikor a varázslatot elmondják, az alany visszanyer 1d3+1 elveszített Fáradtságszintet, és szükség esetén akár vissza is nyeri az eszméletét.
 
-A varázslat megfordítása, a Kimerültség okozása, 1d3+1 Kimerültségi szintet ad az ellenfeleknek, akik nem mennek át egy Kitartás-dobáson. A varázsló Csatornázás (Channel) dobása működik az ellenfél elleni támadó dobásként, és a varázslat szomatikus követelményének részét képezi. Nincs szükség további támadó dobásra. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélzat semlegesíti a varázslatot.
+A varázslat ellentéte, a Fáradtság okozása, 1d3+1 Fáradtságszintet okoz azoknak a célpontoknak, akik elbukják az ÁLLóképesség-próbát. A varázsló Csatornázás-próbája szolgál az ellenfél eltalálásának próbájaként, és a varázslat szomatikus követelményének részeként kezelendő. Nincs szükség további találati próbára. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélzat semlegesíti a varázslatot.
 
 ---
-#### Súlyos sebek gyógyítása (R) (Cure Major Wounds)
+#### Súlyos sebek gyógyítása (R)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 1 kör |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
+| **Rang:** Pap 2 | **Varázslási idő:** 1 kör |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
 | **Költség:** 3/Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A (Kitartás vagy Kikerülés) |
+| **Terület:** 1 célpont | **Ellenállás:** N/A (ÁLLóképesség vagy Kitérés) |
 
-Ez a varázslat a Kisebb sebek gyógyításához (Cure Minor Wounds) hasonlóan működik, kivéve az alábbiakat.
+Ez a varázslat a Kisebb sebek gyógyítása varázslattal megegyezően működik, kivéve az alább jelzett eltéréseket.
 
-Ez a varázslat egy Súlyos sebet szenvedett Testtájat gyógyít meg, függetlenül attól, hogy összezúzódott vagy csonkolódott. Nincs hatása egy leszakadt végtagra, amelynek helyreállításához vagy a Gyógyítás (ha a végtag még megvan), vagy a Regeneráció szükséges. Feltéve, hogy a címzett még életben van, és a terület a varázslat Intenzitásának megfelelő óraszámban sérült meg, a Súlyos sebek gyógyítása szinte azonnal 1d8+4 sebzést gyógyít meg.
+Ez a varázslat egyetlen olyan találati helyet gyógyít, amely Súlyos sebet szenvedett, függetlenül attól, hogy összezúzódott vagy csonkolódott. Nincs hatása az amputált végtagra, amelynek helyreállításához vagy Gyógyítás varázslatra (ha a végtag még megvan), vagy Regenerációra van szükség. Feltéve, hogy a címzett még él, és a sérülés a varázslat Intenzitásával megegyező számú órán belül történt, a Súlyos sebek gyógyítása szinte azonnal 1d8+4 sebzést gyógyít.
 
-Ha a sérülés korábban történt, akkor a testrésznek traumatikusabb javításon kell átesnie, amely egy Súlyos sebek gyógyítása varázslatot és a karakter Gyógyulási Rátájával egyenlő számú nap teljes pihenést és lábadozást igényel. A dobott Életerő pontok átlagolásra kerülnek, és a megjelölt Lábadási Időszak során nyerhetők vissza. Ha ez a Lábadási Időszak megszakad a gyógyulás befejezése előtt, a terület nyomorék és használhatatlan marad, csak a Gyógyítás varázslattal gyógyítható.
+Ha a sérülés korábban történt, akkor a testrésznek egy megerőltetőbb helyreállításon kell átesnie, amely egyetlen Súlyos sebek gyógyítása varázslatot és a karakter Gyógyulási rátájával megegyező számú napnyi teljes pihenést és lábadozást igényel. A dobott Életerőpontok átlagolásra kerülnek, és a megjelölt Lábadozási időszak alatt nyerhetők vissza. Ha a Lábadozási időszak a gyógyulás befejeződése előtt megszakad, a terület torz és használhatatlan marad, amelyet csak a Gyógyítás varázslattal lehet megjavítani.
 
-Megfordítva, a Súlyos sebek okozása használható egyetlen Testtáj 1d8+4 Életerő ponttal történő csökkentésére. A varázsló Csatornázás dobása működik az ellenfél elleni támadó dobásként, és a varázslat szomatikus követelményének részét képezi. Nincs szükség további támadó dobásra. Ez a varázslat nem csonkolhatja a területet, de a szokásos módon összezúzhatja vagy megcsonkíthatja. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
+Ellentétes irányban a Súlyos sebek okozása használható egyetlen találati hely Életerőpontjának 1d8+4-gyel történő csökkentésére. A varázsló Csatornázás-próbája szolgál az ellenfél eltalálásának próbájaként, és a varázslat szomatikus követelményének részeként kezelendő. Nincs szükség további találati próbára. Ez a varázslat nem képes levágni a testrészt, de normál módon összezúzhatja vagy megcsonkíthatja. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
 
 ---
-#### Kisebb sebek gyógyítása (R) (Cure Minor Wounds)
+#### Kisebb sebek gyógyítása (R)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 2 akció |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
+| **Rang:** Pap 1 | **Varázslási idő:** 2 cselekvés |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
 | **Költség:** 3 (vagy 1) | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A (Kitartás vagy Kikerülés) |
+| **Terület:** 1 célpont | **Ellenállás:** N/A (ÁLLóképesség vagy Kitérés) |
 
-A Kisebb sebek gyógyítása több különböző hatással bír, a panasz természetétől függően. Ha egy Kisebb sebet szenvedett lényre vetik, a sérült területen 1d4+1 Életerő pont gyógyul meg azonnal. Korlátozott hatása van a Súlyos és Komoly sebekre, ahol csak egyetlen Életerő pont áll helyre. A varázslat azonban stabilizálja a területet a sebzés mértékétől függetlenül, megállítva minden vérzést és megelőzve a közelgő halált.
+A Kisebb sebek gyógyítása többféle hatással bír, attól függően, milyen betegségre használják. Amikor Kisebb sebet szenvedett lényre alkalmazzák, a sérült területen 1d4+1 Életerőpont azonnal meggyógyul. Korlátozott hatással van a Komoly és Súlyos sebekre, ahol csak egyetlen Életerőpont nyerhető vissza. A varázslat azonban a sérüléstől függetlenül stabilizálja a területet, megállítva minden vérzést és megelőzve a közvetlen halált.
 
-Alternatív megoldásként, ha az alany kisebb panaszban szenved, mint például fejfájás, hátfájás, másnaposság, megfázás, szemölcsök stb., a Kisebb sebek gyógyítása varázslat egy hatást megszüntet. A varázslat ezen alkalmazása mindössze egyetlen Mágia-pontba kerül.
+Másrészt, ha az alany kisebb panaszban szenved, mint például fejfájás, hátfájás, másnaposság, megfázás, szemölcsök és hasonlók, a Kisebb sebek gyógyítása használata megszünteti az egyik hatást. A varázslat ezen alkalmazása mindössze egyetlen Mágia pontba kerül.
 
-Megfordítva, a Kisebb sebek okozása 1d4+1 ponttal csökkenti az érintett terület Életerő pontjait, egyébként ugyanúgy működik. A Kisebb sebek okozása csak 1 pont sebzést okoz egy Súlyos vagy Komoly sebet szenvedett területen, a felesleges sebzés elveszik. Ez a varázslat nem csonkolhatja a területet, de a szokásos módon összezúzhatja vagy megcsonkíthatja.
+Ellentétes irányban, a Kisebb sebek okozása 1d4+1 ponttal csökkenti az érintett terület Életerőpontjait, egyébként ugyanúgy működik. A Kisebb sebek okozása csak 1 pont sebzést okoz Komoly vagy Súlyos seb esetén, a többletsebzés elvész. Ez a varázslat nem képes levágni a testrészt, de normál módon összezúzhatja vagy megcsonkíthatja.
 
-Alternatív megoldásként a varázslat kisebb kórságot idézhet elő, mint például fejfájás, hátfájás, másnaposság, megfázás, szemölcsök stb. A varázslat ezen alkalmazása mindössze egyetlen Mágia-pontba kerül.
+Másrészt a varázslat kisebb kórt is okozhat, mint például fejfájás, hátfájás, másnaposság, megfázás, szemölcsök és hasonlók. A varázslat ezen alkalmazása mindössze egyetlen Mágia pontba kerül.
 
-A varázsló Csatornázás dobása működik az ellenfél elleni támadó dobásként, és a varázslat szomatikus követelményének részét képezi. Nincs szükség további támadó dobásra. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
+A varázsló Csatornázás-próbája szolgál az ellenfél eltalálásának próbájaként, és a varázslat szomatikus követelményének részeként kezelendő. Nincs szükség további találati próbára. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
 
 ---
-#### Komoly sebek gyógyítása (R) (Cure Serious Wounds)
+#### Komoly sebek gyógyítása (R)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 1 kör |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
+| **Rang:** Pap 2 | **Varázslási idő:** 1 kör |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
 | **Költség:** 3 | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A (Kitartás vagy Kikerülés) |
+| **Terület:** 1 célpont | **Ellenállás:** N/A (ÁLLóképesség vagy Kitérés) |
 
-Ez a varázslat a Kisebb sebek gyógyításához hasonlóan működik, kivéve az alábbiakat.
+Ez a varázslat a Kisebb sebek gyógyítása varázslattal megegyezően működik, kivéve az alább jelzett eltéréseket.
 
-A Komoly sebek gyógyítása egyetlen Testtájon 1d6+2 pontnyi sérülést gyógyít meg, feltéve, hogy a sérülés nem súlyosabb egy Komoly sebnél. Korlátozott hatása van a Komoly sebekre, ahol 2 Életerő pontot gyógyít a területen, és stabilizálja a sérülést, megelőzve a halált.
+A Komoly sebek gyógyítása 1d6+2 pontnyi sérülést gyógyít egy találati helyen, feltéve, hogy a sérülés nem súlyosabb, mint egy Komoly seb. Korlátozott hatással van a Súlyos sebekre, 2 Életerőpontot gyógyítva a területen és stabilizálva a sérülést, megelőzve a halált.
 
-Megfordítva, a Komoly sebek okozása 1d6+2 Életerő ponttal csökkenti egyetlen Testtájat. A Komoly sebek okozása csak 2 pont sebzést okoz egy Súlyos sebet szenvedett területen; a felesleges sebzés elveszik. A varázsló Csatornázás dobása működik az ellenfél elleni támadó dobásként, és a varázslat szomatikus követelményének részét képezi. Nincs szükség további támadó dobásra. Ez a varázslat nem csonkolhatja a területet, de a szokásos módon összezúzhatja vagy megcsonkíthatja. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
+Ellentétes irányban, a Komoly sebek okozása 1d6+2 Életerőponttal csökkent egyetlen találati helyet. A Komoly sebek okozása csak 2 pont sebzést okoz Súlyos seb esetén; minden többletsebzés elvész. A varázsló Csatornázás-próbája szolgál az ellenfél eltalálásának próbájaként, és a varázslat szomatikus követelményének részeként kezelendő. Nincs szükség további találati próbára. Ez a varázslat nem képes levágni a testrészt, de normál módon összezúzhatja vagy megcsonkíthatja. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
 
 ---
-#### Táncoló fények (Dancing Lights)
+#### Táncoló fények
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 2 perc/Intenzitás |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 cselekvés |
+| **Szféra:** Nincs | **Időtartam:** 2 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
-| **Terület:** 100 láb sugarú/Intenzitás | **Ellenállás:** N/A |
+| **Terület:** 100 láb sugár/Intenzitás | **Ellenállás:** N/A |
 
-Amikor ezt a varázslatot végrehajtják, a mágus az alábbi hatások egyikét hozhatja létre: 1d4 villódzó fényforrást, amelyek lámpásokra vagy fáklyákra hasonlítanak, és hasonló mennyiségű megvilágítást adnak; 1d4 izzó fénygömböt, amelyek a lidércfényhez hasonlítanak; vagy 1, a tűzelementálhoz hasonlóan villódzó, homályos humanoid alakot. A hatásokat a varázsló irányíthatja koncentráció nélkül, és bármilyen sebességgel mozoghatnak a varázslat területén belül. Ha a fények elhagyják a varázslat Hatásterületét, vagy az Időtartam lejár, megszűnnek létezni.
+Amikor ezt a varázslatot elmondják, a mágiahasználó az alábbi hatások egyikét hozhatja létre: 1d4 vibráló fényforrást, amelyek lámpásokra vagy fáklyákra hasonlítanak, és hasonló mennyiségű megvilágítást adnak; 1d4 izzó fénygömböt, amelyek lidércfényekre emlékeztetnek; vagy 1, enyhén humanoid alakú vibráló fényt, mint egy tűzelementál. A hatásokat a varázsló irányíthatja koncentráció nélkül, és tetszőleges sebességgel mozoghatnak a varázslat területén belül. Ha a fények elhagyják a varázslat Hatóterületét, vagy lejár az Időtartam, kialszanak.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 1 | 1d4 fény vagy 1 alak 2 percig, 100 láb sugarú területen |
-| 2 | 2 | 1d4 fény vagy 1 alak 4 percig, 200 láb sugarú területen |
-| 3 | 3 | 1d4 fény vagy 1 alak 6 percig, 300 láb sugarú területen |
-| 4 | 4 | 1d4 fény vagy 1 alak 8 percig, 400 láb sugarú területen |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 1 | 1d4 fény vagy 1 alak, 2 perc, 100 láb sugár |
+| 2 | 2 | 1d4 fény vagy 1 alak, 4 perc, 200 láb sugár |
+| 3 | 3 | 1d4 fény vagy 1 alak, 6 perc, 300 láb sugár |
+| 4 | 4 | 1d4 fény vagy 1 alak, 8 perc, 400 láb sugár |
+| +1 | +1 | Folyamat folytatása |
 
 ---
-#### Sötétség (Darkness)
+#### Sötétség
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 10 perc/Intenzitás |
+| **Rang:** Mágus 2 | **Varázslási idő:** 1 cselekvés |
+| **Szféra:** Nincs | **Időtartam:** 10 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 30 láb/Intenzitás |
-| **Terület:** 10 láb sugarú | **Ellenállás:** N/A |
+| **Terület:** 10 láb sugár | **Ellenállás:** N/A |
 
-Ez a varázslat teljes mágikus sötétséget hoz létre egy 10 láb sugarú területen, blokkolva a normál látást, valamint az olyan különleges faji látást, mint az infravízió. Mindenféle hétköznapi fényforrás (a napfénytől a gyertyafényig) megszűnik ebben a varázslatban. Fény (Light) varázslat alkalmazásával ellensúlyozható, és fordítva; azonban más mágikus fényformákat, mint a Táncoló fények, a Tündérfény (Fairy Fire), sőt még a detektáló varázslatok által adott ragyogást is semlegesíti a Sötétség. Egy már folyamatban lévő Időtartamú Fény varázslat nincs hatással a Sötétségre, és fordítva.
+Ez a varázslat egy 10 láb sugarú teljes mágikus sötétséget hoz létre, amely blokkolja a normális látást, valamint az olyan különleges faji látást is, mint a Sötétlátás. Minden hétköznapi fényformát – a napfénytől a gyertyafényig – semlegesít ez a varázslat. A Fény varázslat elmondásával ellensúlyozható és fordítva; azonban az egyéb mágikus fényformákat, mint a Táncoló fények, a Tündértűz, sőt még az Érzékelés varázslatok által adott fényt is semlegesíti a Sötétség. A már folyamatban lévő Időtartamú Fény varázslatnak nincs hatása a Sötétségre, és fordítva.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 1 | 10 perc; 30 láb hatótáv |
-| 2 | 2 | 20 perc; 60 láb hatótáv |
-| 3 | 3 | 30 perc; 90 láb hatótáv |
-| 4 | 4 | 40 perc; 120 láb hatótáv |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 1 | 10 perc; 30 láb Hatótáv |
+| 2 | 2 | 20 perc; 60 láb Hatótáv |
+| 3 | 3 | 30 perc; 90 láb Hatótáv |
+| 4 | 4 | 40 perc; 120 láb Hatótáv |
+| +1 | +1 | Folyamat folytatása |
 
 ---
-#### Sötétlátás (Darkvision)
+#### Sötétlátás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 1 perc |
-| **Szféra:** Nincs | **Hatástartam:** 2 óra/Intenzitás |
+| **Rang:** Mágus 2 | **Varázslási idő:** 1 perc |
+| **Szféra:** Nincs | **Időtartam:** 2 óra/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** N/A |
 
-Ez a varázslat 60 láb távolságig biztosítja a címzett számára a Sötétlátást. Minden tekintetben az azonos nevű faji Képességként működik.
+Ez a varázslat Sötétlátást biztosít a címzettnek 60 láb távolságig. Minden tekintetben úgy működik, mint az azonos nevű faji Képesség.
 
 ---
-#### Halálvarázslat (Death Spell)
+#### Halál varázslat
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 4 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Rang:** Mágus 4 | **Varázslási idő:** 2 cselekvés |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 3 +1/Intenzitás, +2 EXP | **Hatótáv:** 30 láb/Intenzitás |
-| **Terület:** 15 láb sugarú | **Ellenállás:** Kitartás |
+| **Terület:** 15 láb sugár | **Ellenállás:** ÁLLóképesség |
 
-Ennek a varázslatnak a sikeres végrehajtása megöli a Hatásterületen lévő 40 vagy annál kisebb SIZ-ű lények változó számát. A mágus minden Intenzitási szintért 1d6-ot dob az érintett lények számának meghatározásához. Ahol különböző SIZ kategóriájú lények foglalják el a Hatásterületet, az emberméretű (SIZ 1-20) lények mindig előbb érintettek, mint a nagyobbak. A Nagy lények (SIZ 21-40) nagyobb eséllyel állnak ellen a halálnak, az ellenállási dobásuk Könnyű, azonban minden Nagy lény 5 emberméretű lénynek számít. A 40-nél nagyobb SIZ-ű lényeket ez a varázslat nem érinti.
+Ennek a varázslatnak a sikeres elmondása megöli a Hatóterületen belüli, 40-es MÉR-ű vagy annál kisebb lények változó számát. A mágiahasználó 1d6-ot dob minden Intenzitásszintért, hogy meghatározza az érintett lények számát. Ahol eltérő MÉR-ű lények foglalják el a Hatóterületet, az emberszabású lények (MÉR 1-20) mindig hamarabb érintettek, mint a nagyobbak. A nagy lények (MÉR 21-40) nagyobb valószínűséggel állnak ellen a halálnak, az Ellenállás-próbájuk Könnyű, azonban minden nagy lény 5 emberszabású lénynek felel meg. A 40-es MÉR-nél nagyobb lényekre a varázslat nincs hatással.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 +2 EXP | 30 láb hatótáv; 1d6 érintett lény |
-| 2 | 4 +2 EXP | 60 láb hatótáv; 2d6 érintett lény |
-| 3 | 5 +2 EXP | 90 láb hatótáv; 3d6 érintett lény |
-| 4 | 6 +2 EXP | 120 láb hatótáv; 4d6 érintett lény |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 +2 EXP | 30 láb Hatótáv; 1d6 érintett lény |
+| 2 | 4 +2 EXP | 60 láb Hatótáv; 2d6 érintett lény |
+| 3 | 5 +2 EXP | 90 láb Hatótáv; 3d6 érintett lény |
+| 4 | 6 +2 EXP | 120 láb Hatótáv; 4d6 érintett lény |
+| +1 | +1 | Folyamat folytatása |
 
-Kívánatos a varázslatot kellő Intenzitáson alkalmazni ahhoz, hogy elérje vagy meghaladja a lehetséges célpontok számát, mivel az elégtelen pontok elvesznek. Ez a varázslat nincs hatással a vérfarkasokra, élőholtakra vagy más síkbeli lényekre. Csak egy Kívánság (Wish) hozhatja vissza azokat az életbe, akiket ez a varázslat érintett.
+Kívánatos, hogy a varázslatot olyan Intenzitással mondják el, amely egyenlő vagy meghaladja a lehetséges célpontok számát, mivel az elégtelen pontok elvesznek. Ez a varázslat nincs hatással a vérfarkasokra, élőholtakra vagy más síkbeli lényekre. Csak egy Kívánság varázslat hozhatja vissza azokat, akiket ez a varázslat megölt.
 
-*Példa: Rengarth a Halálvarázslatot négy SIZ 16-os ork és két SIZ 32-es hegyi óriás által elfoglalt területre veti, 3-as Intenzitást választva. A 3d6 dobása a varázslat hatására 12 pontot eredményez. Míg minden hegyi óriás megöléséhez 5 pont szükséges, a kisebb orkok az elsők, akiket érint. A négy orkból három nem megy át az Ellenállás-dobáson, és meghalnak. Mivel minden ork 1 ponttal egyenlő, 8 pont marad. Ez elég ahhoz, hogy egy hegyi óriást 5 ponttal érintsen, a maradék 3 pont elveszik. Azonban a dühös hegyi óriásnak nincs gondja azzal, hogy átmenjen a Könnyű Ellenállás-dobásán, és Rengarthra ront.*
+_Példa: Rengarth a Halál varázslatot olyan területre szórja, amelyet négy 16-os MÉR-ű ork és két 32-es MÉR-ű hegyi óriás foglal el, 3-as Intenzitást választva. A 3d6-os dobás a varázslat hatására, Intenzitásonként 1d6-tal, 12 pontot eredményez. Míg minden hegyi óriás megöléséhez 5 pont szükséges, a kisebb orkok az elsők, akiket érint. A négy orkból három elbukja az Ellenállás-próbáját és meghal. Mivel minden ork 1 ponttal egyenértékű, 8 pont marad. Ez elég ahhoz, hogy 5 pont erejéig egyetlen hegyi óriást érintsen, a maradék 3 pont elveszik. Azonban a dühös hegyi óriásnak nem okoz gondot a Könnyű Ellenállás-próbájának teljesítése, és Rengarth-ra ront._
 
 ---
-#### Eltérítés (Deflect)
+#### Eltérítés
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Védelem | **Hatástartam:** Koncentráció |
+| **Rang:** Pap 0, Mágus 0 | **Varázslási idő:** 1 cselekvés |
+| **Szféra:** Védelem | **Időtartam:** Koncentráció |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** Nincs |
 
-Az Eltérítés megvédi a címzettet az idegen anyagok apró hatásaitól, például esőcseppektől, szúnyograjtól vagy akár repülő homokszemektől. A védelem az olyan apró tárgyakra korlátozódik, amelyek kisebbek egy gyerek körömnyománál, így nem tudja megakadályozni, hogy normál távolsági fegyverek találják el a karaktert.
+Az Eltérítés megvédi a címzettet az idegen anyagok apró becsapódásaitól, mint például esőcseppek, szúnyogfelhő vagy akár szálló homokszemek. A védelem a gyermek körömnyinél kisebb egyedi tárgyakra korlátozódik, ezért nem akadályozhatja meg a normál rakétafegyvereket abban, hogy eltaláljanak egy karaktert.
 
 ---
-#### Bűbáj észlelése (R) (Detect Charm)
+#### Bűbáj észlelése (R)
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 1 kör |
-| **Szféra:** Jóslás | **Hatástartam:** 2 perc/Intenzitás |
+| **Rang:** Pap 1 | **Varázslási idő:** 1 kör |
+| **Szféra:** Jóslás | **Időtartam:** 2 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 100 láb |
-| **Terület:** 1 célpont per perc | **Ellenállás:** N/A |
+| **Terület:** 1 célpont percenként | **Ellenállás:** N/A |
 
-Ez a varázslat lehetővé teszi a varázsló számára annak megállapítását, hogy egy vagy több kiválasztott lény Bűbáj hatása alatt áll-e. Egy teljes perc koncentráció szükséges egy lény vizsgálatához. Amikor a varázslat megfordítása (Bűbáj elrejtése) életbe lép, egy lény 6 órán át/Intenzitásonként védett lehet az ilyen észleléstől.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy észlelje, ha egy vagy több kijelölt lény Bűbáj hatása alatt áll. Egy lény átvizsgálásához egy teljes perces Koncentráció szükséges. Amikor a varázslat ellentétét (Bűbáj elrejtése) mondják el, egy lényt 6 óra/Intenzitás időtartamra el lehet rejteni az ilyen észlelések elől.
 
 ---
-#### Gonosz észlelése (R) (Detect Evil)
+#### Gonosz észlelése (R)
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1, Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Minden | **Hatástartam:** 5 perc/Intenzitás |
+| **Rang:** Pap 1, Mágus 2 | **Varázslási idő:** 1 cselekvés |
+| **Szféra:** Minden | **Időtartam:** 5 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 180 láb |
 | **Terület:** 90 fokos ív | **Ellenállás:** N/A |
 
-Ezzel a varázslattal a varázsló 180 láb távolságig, 90 fokos ívben érzékelheti a gonosz erős emanációit. Csak természetfeletti gonosz lényeket (mint démonok és vámpírok), vagy gonosz, illetve aljas szándékú hétköznapi lényeket fedez fel, a Játékmester döntése szerint. Nem észlel azonban olyanokat, mint csapdák, méreg, elátkozott tárgyak stb. A varázsló akár 3 láb tömör fa, 1 láb kő vagy föld, és 1 hüvelyk tömör fém mögött is átláthatja az emanációkat. Mivel a mágikus aurák kialakulásához idő kell, percenként legfeljebb egy 60°-os ív vizsgálható. A démonok, ördögök, angyalok és elementálok önmagukban nem mágikusak, de ha megidézik őket, a megidéző varázslat a megidéző varázslat Nagysága x 10 percig regisztrálódik ott, ahol végrehajtották. A varázslat megfordítása, a Jó észlelése, ugyanazokat a szabályokat követi.
+Ezzel a varázslattal a varázsló a gonosz erős emanációit észlelheti egy 90 fokos ívben, 180 láb távolságig. Csak olyan természetfeletti gonosz lényeket fedez fel, mint a démonok és vámpírok, vagy olyan hétköznapi lényeket, amelyek gonosz vagy aljas szándékúak, a Játékmester meghatározása szerint. Azonban nem észleli az olyan dolgokat, mint a csapdák, méreg, elátkozott tárgyak stb. A varázsló az emanációkat akár 3 láb tömör fa, 1 láb kő vagy föld, és 1 hüvelyk tömör fém falon keresztül is láthatja. Mivel a mágikus auráknak időre van szükségük a kialakuláshoz, percenként legfeljebb egy 60 fokos ív vizsgálható át. A varázslat ellentéte, a Jó észlelése, ugyanazokat a szabályokat követi, mint a fentiek.
 
 ---
-#### Láthatatlanság észlelése (Detect Invisibility)
+#### Láthatatlanság észlelése
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 5 perc/Intenzitás |
+| **Rang:** Mágus 2 | **Varázslási idő:** 1 cselekvés |
+| **Szféra:** Nincs | **Időtartam:** 5 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
 | **Terület:** Látótávolság | **Ellenállás:** N/A |
 
-Amikor ezt a varázslatot végrehajtják, a mágikus felhasználó képessé válik bármely tárgy vagy lény látására, amely láthatatlan. Ez magában foglalja azokat is, amelyek rejtettek, éteriek, asztrálisak vagy fázison kívüliek. Észlelheti azokat is, amelyek világi eszközökkel vannak elrejtve vagy álcázva. Más Észlelési varázslatokkal ellentétben a Láthatatlanság észlelése a látótávolságra korlátozódik, és nem igényel percenkénti vizsgálatot.
+Amikor ezt a varázslatot elmondják, a mágiahasználó képessé válik bármely láthatatlan tárgy vagy lény látására. Ez magában foglalja azokat is, amelyek rejtve vannak, éteriek, asztrálisak vagy fázison kívüliek. Észlelheti azokat is, amelyeket hétköznapi eszközökkel rejtettek el. Más Észlelés varázslatokkal ellentétben a Láthatatlanság észlelése a látótávolságra korlátozódik, és nem igényel egy percet egy látóív átvizsgálásához.
 
 ---
-#### Hazugság észlelése (R) (Detect Lie)
+#### Hazugság észlelése (R)
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 1 kör |
-| **Szféra:** Jóslás | **Hatástartam:** 1 perc/Intenzitás |
+| **Rang:** Pap 2 | **Varázslási idő:** 1 kör |
+| **Szféra:** Jóslás | **Időtartam:** 1 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 100 láb |
-| **Terület:** 1 célpont | **Ellenállás:** Álnokság (Deceit) |
+| **Terület:** 1 célpont | **Ellenállás:** Álnokság |
 
-Amikor életbe lép, ez a varázslat megállapítja, hogy egy lény tudatosan hazudik-e, vagy egyébként visszatartja-e az igazságot. Maga az igazság azonban nem derül ki, csak az, hogy a válaszok nem pontosak. A célpont még mindig megkísérelheti "legyőzni" a varázslatot, egy Félelmetes (Formidable) ellenállási dobással (Álnokság vs. az eredeti varázslási dobás). A varázslat megfordítható: a Hazugság elrejtése megakadályozza a hazugságok mágikus úton történő észlelését 6 óráig/Intenzitás.
+Elmondásakor ez a varázslat meghatározza, hogy egy lény tudatosan hazudik-e, vagy egyéb módon visszatartja az igazságot. A valós igazság azonban nem derül ki, csak az, hogy a megadott válaszok nem pontosak. A célpont megpróbálhat „túljárni” a varázslat eszén egy Formálható Szembesített Dobással a saját Álnoksága és az eredeti varázslási dobás között. A varázslat ellentétes irányban is használható, ekkor a Hazugság leplezése 6 óra/Intenzitás időtartamra megakadályozza a hazugságok mágikus úton történő észlelését.
 
 ---
-#### Mágia észlelése (Detect Magic)
+#### Mágia észlelése
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1, Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Minden | **Hatástartam:** 2 perc/Intenzitás |
+| **Rang:** Pap 1, Mágus 1 | **Varázslási idő:** 1 cselekvés |
+| **Szféra:** Minden | **Időtartam:** 2 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
 | **Terület:** 90 fokos ív, 60 láb | **Ellenállás:** N/A |
 
-Amikor életbe lép, a varázsló kék aurát lát minden mágikus tárgy vagy varázslat körül a 90 fokos ívben, 60 lábon belül. Ez a varázslat az Intenzitást és Nagyságot is detektálja az alábbi táblázat szerint.
+Elmondásakor a varázsló ragyogó kék aurát lát, amely körülvesz minden mágikus tárgyat vagy varázshatást egy 90 fokos ívben, 60 láb távolságig. Ez a varázslat észleli a hozzávetőleges Intenzitást és Nagyságot is, az alábbi táblázat szerint.
 
-##### Detektált Intenzitás és/vagy Nagyság
+##### Észlelt Intenzitás és/vagy Nagyság
 
-| D100 Dobás | Intenzitás/Nagyság |
+| D100 dobás | Intenzitás/Nagyság |
 | :-: | :-- |
 | 01-25 | -1d3 |
 | 26-75 | Pontos Intenzitás/Nagyság |
 | 76-00 | +1d3 |
 
-Intenzitásonként 10% esély van a mágia típusának (nekromancia, elemi stb.) felismerésére. A látott aura áthatol a szilárd tárgyakon, akár 3 láb fa, 1 láb kő és 1 hüvelyk fém mögé is. Mivel a mágikus aurák kialakulásához idő kell, percenként legfeljebb egy 60°-os ív vizsgálható. A démonok, ördögök, angyalok és elementálok önmagukban nem mágikusak, de ha megidézik őket, a megidéző varázslat a megidéző varázslat Nagysága x 10 percig regisztrálódik ott, ahol végrehajtották.
+Intenzitásonként 10% esély van a mágia konkrét típusának (nekromancia, elemi stb.) felfedezésére. A varázsló által látott aura áthatol a tömör tárgyakon, akár 3 láb fa, 1 láb kő és 1 hüvelyk tömör fém falon keresztül. Mivel a mágikus auráknak időre van szükségük a kialakuláshoz, percenként legfeljebb egy 60 fokos ív vizsgálható át. A démonok, ördögök, angyalok és elementálok önmagukban nem mágikusak, de ha megidézték őket, az idéző varázslat a megidéző varázslat Nagysága x10 percen át fog jelezni azon a helyen, ahol elmondták.
 
 ---
-#### Dimenziókapu (Dimension Door)
+#### Dimenziókapu
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Rang:** Mágus 3 | **Varázslási idő:** 1 cselekvés |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 3+1/további Intenzitás | **Hatótáv:** 0 |
 | **Terület:** Varázsló | **Ellenállás:** N/A |
 
-A Dimenziókapu a rövid hatótávolságú teleportáció egy formája. A varázsló azonnal átugrik akár 100 lábat Intenzitásonként anélkül, hogy átszelné a közbeeső teret, tévedés esélye nélkül. A kívánt helyszínt látni lehet, vagy megadható iránnyal: 40 láb egyenesen előre, 65 láb lefelé, 45° balra stb. A levegőben való megérkezés zuhanási sebzést eredményez, hacsak nem menti meg egy varázslat, például a Tollpihe esés (Feather Fall), míg a szilárd tárgyba való véletlen ugrás az Asztrálsíkon rekeszti a varázslót. Minden fizikailag hordozott felszerelés (nem élő, élettelen anyag) a varázslóval együtt ugrik. Legfeljebb 20 SIZ-nyi élő anyag kísérheti a varázslót. Például egy 11 SIZ-ű karakter a varázslóval együtt ugorhat, feltéve, hogy mindketten érintkeznek. A varázsló, és bármely vele szállított élő lény, egy teljes kört igényel a regenerálódásra. Ha ezalatt megtámadják őket, az érintettek nem tehetnek többet védekezésnél.
+A Dimenziókapu a rövid távú teleportáció egy formája. A varázsló azonnal átugrik akár 100 láb távolságot Intenzitásonként a köztes tér keresztezése nélkül, hiba lehetősége nélkül. A kívánt helyszínt vagy vizuálisan lehet látni, vagy irány szerint meghatározni: 40 láb egyenesen előre, 65 láb lefelé, 45 fokra balra stb. A levegőben való megérkezés esési sebzést eredményez, hacsak nem menti meg egy olyan varázslat, mint a Tollpihe-esés, míg a szilárd tárgyba való véletlen ugrás helyette az Asztrális síkba zárja a varázslót. Minden fizikailag hordozott felszerelés (nem élő, élettelen anyag) a varázslóval együtt ugrik. Legfeljebb 20-as MÉR-ű élő anyag kísérheti a varázslót. Például egy 11-es MÉR-ű karakter ugorhat a varázslóval együtt, feltéve, hogy mindketten érintkeznek. A varázslónak és minden szállított élő lénynek egy teljes körre van szüksége a felépüléshez. Ha ezalatt megtámadják őket, az egyének csak védekezni tudnak.
 
 ---
-#### Mágiaoszlatás (Dispel Magic)
+#### Mágia eloszlatása
 
 (Abjuráció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2, Mágus 2 | **Időtartam:** 2 akció |
-| **Szféra:** Védelem | **Hatástartam:** Azonnali |
+| **Rang:** Pap 2, Mágus 2 | **Varázslási idő:** 2 cselekvés |
+| **Szféra:** Védelem | **Időtartam:** Azonnali |
 | **Költség:** 1 | **Hatótáv:** 360 láb |
-| **Terület:** 15 láb sugarú | **Ellenállás:** N/A |
+| **Terület:** 15 láb sugár | **Ellenállás:** N/A |
 
-A Mágiaoszlatás végrehajtható egy adott célpontra vagy egy megjelölt területre, és az alkalmazása után a célponttól számított 15 láb sugarú körön belüli minden mágia érzékeny az eloszlatásra. Befejezi a célponton lévő folyamatban lévő varázslatokat, de nincs hatással más mágikus hatásokra. Nincs hatással mágikus lényekre vagy élőholtakra. A Mágiaoszlatás megszünteti az összes többi mágiát a Hatásterületen, amelynek Nagysága kisebb, mint a varázslat Intenzitása. Ez alól kivételt képeznek a mágikus tárgyak és a megtévesztő típusú varázslatok (pl. Személy elbűvölése), amelyeket egyenként kell célba venni. Egy varázslat hatása nem szüntethető meg részlegesen.
+A Mágia eloszlatása elmondható egy adott célpontra vagy egy megjelölt területre, és miután elmondták, a célpont 15 láb sugarú körzetében lévő minden mágia fogékonnyá válik az elutasításra. Megszünteti a célponton lévő folyamatban lévő varázslatokat, de nincs hatással más mágikus hatásokra. Nincs hatása a mágikus lényekre vagy az élőholtakra. A Mágia eloszlatása minden más mágiát megszüntet a Hatóterületen belül, amelynek Nagysága kisebb, mint a varázslat Intenzitása. Ez alól kivételt képeznek a mágikus tárgyak és a bűbáj típusú varázslatok áldozatai, mint például a Bűbáj személyre, amelyeket egyenként kell célba venni. A varázslat hatásai nem szüntethetők meg részben.
 
-A Mágiaoszlatás a Hatásterület legerősebb mágiájával kezdi. Ha nem sikerül megszüntetnie egy varázslatot (mert a Nagysága túl magas), akkor a varázslat véget ér, és több mágia nem oszlatható el.
+A Mágia eloszlatása a Hatóterületen belüli legerősebb mágiával kezdi. Ha nem sikerül egy varázslatot sem megszüntetni (mert a varázslat Nagysága túl magas), akkor a varázslat véget ér, és több mágia nem szüntethető meg.
 
-A Mágiaoszlatás védekezően is alkalmazható bejövő támadó varázslatok semlegesítésére, az Ellentámadás (Counter Spell) Reaktív Akció használatával.
+A Mágia eloszlatása használható védekezőleg is a bejövő támadó varázslatok semlegesítésére, az Ellentámadás Reaktív cselekvés használatával.
 
----
-#### Istenek útmutatása (Divination)
+---#### Jóslás
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 10 perc |
-| **Szféra:** Jóslás | **Hatástartam:** Koncentráció |
+| **Rang:** Pap 3 | **Varázslási idő:** 10 perc |
+| **Szféra:** Jóslás | **Időtartam:** Koncentráció |
 | **Költség:** 3/Intenzitás | **Hatótáv:** 0 |
 | **Terület:** Lásd alább | **Ellenállás:** N/A |
 
-Amikor életbe lép, ez a varázslat lehetővé teszi a papok számára, hogy istenüktől információt kapjanak valamilyen, a következő egy héten belül várható, még meg nem tett tevékenységgel kapcsolatban. Ellentétben a kevésbé erőteljes Előjel (Augury) varázslattal, az Istenek útmutatása konkrét információkat nyújt. A varázslat végrehajtásához szükséges Csatornázás (Channel) dobás Félelmetes nehézségű, és minden Intenzitási szint egy fokozattal csökkenti a nehézséget. Az Intenzitás nem haladhatja meg az 5-ös szintet, és a 96% vagy magasabb dobás mindig kudarc.
+Az elvarázsolásakor ez a varázslat lehetővé teszi a papok számára, hogy információt kapjanak istenségüktől valamely olyan, még meg nem történt tevékenységgel kapcsolatban, amely várhatóan egy héten belül bekövetkezik. A kevésbé erőteljes Jóslat (Augury) varázslattal ellentétben a Jóslás (Divination) konkrét információt biztosít. A varázslat elvégzéséhez szükséges Csatornázás (Channel) képzettségpróba nehézsége Hatalmas (Formidable) szinten indul, és az Intenzitás minden szintje egy fokozattal csökkenti a nehézséget. Az Intenzitás nem haladhatja meg az 5. szintet, és a 96%-os vagy annál magasabb dobás mindig kudarcot jelent.
 
-A Játékmesternek kell elvégeznie ezt a dobást a játékos helyett, mivel vannak olyan esetek, amikor a varázslóval ellenséges mágia állhat a háttérben, és ezekben az esetekben a kudarc hamis információkat fedhet fel.
+A Játékmesternek kell elvégeznie ezt a dobást a játékos helyett, mivel előfordulhat, hogy a varázslóra ellenséges mágia van hatással, és ilyen esetekben a kudarc hamis információt fedhet fel.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | Varázslat leadása Félelmetes nehézségen |
-| 2 | 6 | Varázslat leadása Nehéz nehézségen |
-| 3 | 9 | Varázslat leadása Átlagos nehézségen |
-| 4 | 12 | Varázslat leadása Könnyű nehézségen |
-| 5 | 15 | Varázslat leadása Nagyon Könnyű nehézségen |
+| 1 | 3 | Varázslat elvégzése Hatalmas (Formidable) nehézséggel |
+| 2 | 6 | Varázslat elvégzése Nehéz (Hard) nehézséggel |
+| 3 | 9 | Varázslat elvégzése Átlagos (Standard) nehézséggel |
+| 4 | 12 | Varázslat elvégzése Könnyű (Easy) nehézséggel |
+| 5 | 15 | Varázslat elvégzése Nagyon könnyű (Very Easy) nehézséggel |
 
 ---
-#### Szárítás (Dry)
+#### Szárítás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Rang:** Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** N/A |
 
-A Szárítás eltávolít minden idegen nedvességet egy tárgyról vagy személyről, akár pocsolyává alakítva, akár gőzként elpárologtatva. Általában erős esőzés utáni száradásra vagy felszerelés rothadástól való védelmére használják, de számos más sokoldalú felhasználási módja is van. A varázsló egy legfeljebb POW x 2 SIZ-ű tárgyat száríthat meg.
+A Szárítás eltávolít minden felesleges nedvességet egy tárgyról vagy személyről, ami vagy pocsolyaként lecsöpög, vagy vízgőzfelhőként elpárolog. Általában erős esőzés utáni megszárítkozásra vagy felszerelés rothadástól való védelmére használják, de számos egyéb sokoldalú felhasználási módja is van. A varázsló egy legfeljebb HAT x2 MÉR értékű tárgyat száríthat meg.
 
 ---
-#### Földrengés (Earthquake)
+#### Földrengés
 
-(Transmutáció)
+(Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 5, Mágus 5 | **Időtartam:** 10 perc |
-| **Szféra:** Elemi (Föld) | **Hatástartam:** 1 perc |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 50 láb/Intenzitás |
-| **Terület:** 10 láb sugarú/Intenzitás | **Ellenállás:** Kikerülés |
+| **Rang:** Pap 5, Mágus 5 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Elemi (Föld) | **Időtartam:** 1 perc |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 50 láb/Intenzitás |
+| **Terület:** 10 láb sugár/Intenzitás | **Ellenállás:** Kitérés |
 
-A Földrengés olyan földmozgást okoz, amely képes ledönteni az embereket a lábukról és összedönteni a merev épületeket. A varázslat elleni ellenállás kudarca esetén legalább hasra vágódik az áldozat. Ha épületben, beépített területen vagy sérülékeny helyen (például erdőben vagy szikla alatt) tartózkodik, a Kikerülés kudarca azt is jelzi, hogy a személyt eltalálja és csapdába ejti a hulló törmelék. A viselt páncél fél védelmet nyújt, de a mágikus Páncélpontok vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést.
+A Földrengés olyan talajrengést okoz, amely képes a lábáról lelökni az embereket és összedönteni a merev épületeket. Legalábbis a varázslatnak való ellenállás elmulasztása azt eredményezi, hogy az áldozat hasra esik. Ha az illető épületben, beépített területen vagy valamilyen sebezhető helyen (például erdőben vagy szikla alatt) tartózkodik, a Kitérés elmulasztása azt is jelenti, hogy az illetőt eltalálják, és a lehulló törmelék csapdába ejti. A viselt páncél fél védelmet nyújt, de a mágikus Páncélpontok (Armor Points) vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést.
 
 | Intenzitás | Költség | Változó hatás | Potenciális sebzés |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | 50 láb hatótáv; 10 láb sugarú; Kényes egyensúlyú tárgyak borulnak, függő tárgyak lengenek. | Nincs |
-| 2 | 4 | 100 láb hatótáv; 20 láb sugarú; Falak és épületek recsegnek. | Nincs |
-| 3 | 5 | 150 láb hatótáv; 30 láb sugarú; Vakolat és üvegablakok repedeznek, fák és más magas tárgyak drámaian remegnek. | Nincs |
-| 4 | 6 | 200 láb hatótáv; 40 láb sugarú; Nehéz bútorok mozdulnak, fali tárgyak esnek le, repedések nyílnak a falakon. | Nincs |
-| 5 | 7 | 250 láb hatótáv; 50 láb sugarú; Földből, vályogból vagy sártéglából készült szerény épületek részben összeomlanak. Kisebb ágak esnek le. | 1d2 sebzés egy testtájra |
-| 6 | 8 | 300 láb hatótáv; 60 láb sugarú; Nehéz bútorok felborulnak. Föld, vályog vagy sártégla épületek elpusztulnak. Fa vagy kőműves épületek részben összeomlanak. Oszlopok, szobrok és határfalak esnek le. Nagyobb faágak esnek le. | 1d4 sebzés egy testtájra |
-| 7 | 9 | 350 láb hatótáv; 70 láb sugarú; Szerény épületek összeomlanak. Földrepedések szembetűnően nyílnak, sziklaomlások meredek lejtőkön. Föld alatti csövek és csatornák törnek. Fahidak összeomlanak. Kis fák kidőlnek. | 1d6 sebzés egy testtájra |
-| 8 | 10 | 400 láb hatótáv; 80 láb sugarú; Jól épített épületek összeomlanak. Nagy méretű erődítmények, városfalak és kőhidak sérülnek. Föld erősen megrepedt. Földcsuszamlások és lavinák jelentősek. Nagy fák kidőlnek. | 1d8 sebzés két testtájra |
-| 9 | 11 | 450 láb hatótáv; 90 láb sugarú; Kevés épület marad állva. Alagutak és barlangok összeomlanak. Széles repedések a földön. Hatalmas fák kidőlnek. | 1d10 sebzés három testtájra |
-| 10 | 12 | 500 láb hatótáv; 100 láb sugarú; Totális pusztulás, még kolosszális kőemlékművek is részben összeomlanak. Sziklák és hegyoldalak repednek. | 1d12 sebzés négy testtájra |
+| 1 | 3 | 50 láb hatótáv; 10 láb sugár; Kényes egyensúlyú tárgyak feldőlnek, felfüggesztett tárgyak lengenek. | Nincs |
+| 2 | 4 | 100 láb hatótáv; 20 láb sugár; Falak és épületek recsegnek. | Nincs |
+| 3 | 5 | 150 láb hatótáv; 30 láb sugár; Vakolat és üvegablakok megrepednek, fák és más magas tárgyak drámaian rezegnek. | Nincs |
+| 4 | 6 | 200 láb hatótáv; 40 láb sugár; Nehéz bútorok elmozdulnak, falra szerelt tárgyak leesnek, repedések nyílnak a falakon. | Nincs |
+| 5 | 7 | 250 láb hatótáv; 50 láb sugár; Szerény, földből, vesszőfonatból és vályogból vagy agyagtéglából készült épületek részben összeomlanak. Kisebb ágak leesnek. | 1d2 sebzés egyetlen testrészre |
+| 6 | 8 | 300 láb hatótáv; 60 láb sugár; Nehéz bútorok felborulnak. Földből, vesszőfonatból és vályogból vagy agyagtéglából készült épületek megsemmisülnek. Tömör fa vagy kőműves épületek részben összeomlanak. Oszlopok, szobrok és határoló falak dőlnek le. Nagyobb faágak leesnek. | 1d4 sebzés egyetlen testrészre |
+| 7 | 9 | 350 láb hatótáv; 70 láb sugár; Szerény épületek összeomlanak. A talaj láthatóan megreped, sziklaomlás meredek lejtőkön. Föld alatti csövek és csatornák eltörnek. Fahidak összeomlanak. Kisebb fák kidőlnek. | 1d6 sebzés egyetlen testrészre |
+| 8 | 10 | 400 láb hatótáv; 80 láb sugár; Jól épített épületek összeomlanak. Nagyszabású erődítmények, városfalak és kőhidak megrongálódnak. A talaj súlyosan megreped. Jelentős földcsuszamlások és lavinák. Nagy fák kidőlnek. | 1d8 sebzés két testrészre |
+| 9 | 11 | 450 láb hatótáv; 90 láb sugár; Kevés építmény marad állva, ha egyáltalán marad valami. Alagutak és barlangok összeomlanak. Széles hasadékok a talajban. Hatalmas fák kidőlnek. | 1d10 sebzés három testrészre |
+| 10 | 12 | 500 láb hatótáv; 100 láb sugár; Teljes pusztulás, még a kolosszális kőemlékművek is részben összeomlanak. Sziklák és hegyoldalak repedeznek meg. | 1d12 sebzés négy testrészre |
 
 ---
-#### Tárgy elvarázsolása (Enchant Item)
+#### Tárgy elvarázsolása
 
-(Igézés)
+(Elvarázsolás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 4 | **Időtartam:** Lásd alább |
-| **Szféra:** Nincs | **Hatástartam:** Lásd alább |
-| **Költség:** 3 + Lásd alább | **Hatótáv:** Érintés |
+| **Rang:** Mágus 4 | **Varázslási idő:** Lásd alább |
+| **Szféra:** Nincs | **Időtartam:** Lásd alább |
+| **Költség:** 3 + lásd alább | **Hatótáv:** Érintés |
 | **Terület:** 1 tárgy | **Ellenállás:** N/A |
 
-Ennek a varázslatnak a végrehajtása előkészíti a tárgyat az Elvarázsolásra. A tárgynak jó állapotban kell lennie, és a legfinomabb kivitelezésűnek kell lennie. Legalább 100 GP többletköltség szükséges a további szerszámozás, faragás, hímzés, ékkövekkel való díszítés, vésés stb. költségeinek fedezésére. Végül az Elvarázsolási folyamathoz laboratórium vagy műhely szükséges.
+A varázslat elvégzése előkészíti a tárgyat az Elvarázsolásra. A tárgynak jó állapotban kell lennie, és a legkiválóbb kivitelezésben és kidolgozásban kell készülnie. Legalább 100 aranypénz (GP) többletköltség szükséges a kiegészítő szerszámozás, faragás, hímzés, ékkövekkel díszítés, vésés stb. költségeinek fedezésére. Végül az Elvarázsolás folyamata laboratóriumot vagy műhelyt igényel.
 
-A varázslat végrehajtása alatt a mágusnak 1d8+2 napon keresztül (ez a Időtartam) érintenie kell a tárgyat. Ez magában foglalja a pihenés és alvás időszakait, amelyek során a tárgynak a varázsló karnyújtásnyi távolságán belül kell maradnia. A varázslat végrehajtása alatt a mágus nem varázsolhat más varázslatot, és nem végezhet semmilyen más mágiát. E korlátok bármelyikének megszegése a varázslat automatikus kudarcát okozza.
+A varázslat elvégzése közben a varázshasználónak a 1d8+2 napos teljes Varázslási idő alatt végig érintenie kell a tárgyat. Ez beleszámítja a pihenési és alvási időszakokat, amelyek alatt a tárgynak a varázsló karnyújtásnyi távolságán belül kell maradnia. A varázslás ideje alatt a varázshasználó semmilyen más varázslatot nem végezhet, és semmilyen más formájú mágiát nem alkalmazhat. Bármelyik előírás megszegése automatikusan a varázslat kudarcát okozza.
 
-Sikeres végrehajtás után a tárgy készen áll az utolsó lépésre: a mágus a kívánt varázslatot helyezi bele. Ehhez a mágusnak memóriában vagy tekercsen kell tartania a varázslatot, és 24 órán belül bele kell varázsolnia a tárgyba, különben az egész folyamatot elölről kell kezdeni. Amint a kiválasztott varázslat végrehajtása elkezdődik, a folyamat meghaladhatja a fent említett 24 órát. A tárgy kiválasztott varázslattal való telítése a kívánt Intenzitásért járó szokásos Mágia-pont mennyiségbe kerül, és varázslati szintenként 1d12 órát vesz igénybe. A telítési folyamat során a mágusnak végig érintenie kell a tárgyat, vagy a pihenés ideje alatt karnyújtásnyi távolságon belül kell maradnia, és a varázslási idő végén egy Arkán Varázslási (Arcane Casting) dobás szükséges a varázslat sikeres átviteléhez. A szokásos Varázslati dobási sikerességi fokozatok érvényesek; azonban a kudarc esetén a varázslat nem erőltethető. A tárgyba további varázslatok is átvihetők, feltéve, hogy a folyamatot az előző varázslat befejezése után 24 órán belül megkezdik. Ez a korábban sikertelen varázslat esetén is érvényes. Minden egyes további varázslat a szokásos Varázslási Költséget igényli.
+Sikeres elvarázsolás után a tárgy készen áll az utolsó lépésre, amely során a varázsló belehelyezi a kívánt varázslatot. Ehhez a varázslatot memóriában vagy tekercsen kell tartania, és 24 órán belül bele kell varázsolnia a tárgyba, különben az egész folyamatot elölről kell kezdeni. Amint a kiválasztott varázslat végrehajtása megkezdődik, a folyamat túllépheti a fent említett 24 órát. A tárgy felruházása a kiválasztott varázslattal a kívánt Intenzitásnak megfelelő számú Mágia pontba kerül, és varázslati Ragonként 1d12 órát vesz igénybe. A felruházási folyamat során a varázslónak a fentiek szerint érintenie kell a tárgyat, vagy a pihenőidők alatt karnyújtásnyira kell maradnia tőle, és a varázslási időszak végén egy Arkán Varázslási (Arcane Casting) próbára van szükség a varázslat sikeres átviteléhez. A szokásos Varázslási sikerességi fokokat kell követni, azonban a Kudarc eredménnyel kapcsolatban a varázslat nem kényszeríthető. Egymást követő varázslatok ruházhatók át a tárgyba, feltéve, hogy a varázslási folyamatot az előző varázslat befejezésétől számított 24 órán belül megkezdik. Ez akkor is érvényes, ha a korábbi varázslat kudarccal zárult. Minden egymást követő varázslat a szokásos Varázslási költséget igényli.
 
-A tárgy használatakor minden benne lévő varázslat csak egyszer alkalmazható, azonban ugyanazon varázslat több változata is átvihető a fenti eljárást követve. Lehetőség van egyetlen varázslat átvitelére, amelyet a 4. szintű Állandóság (Permanency) varázslat követ. Ebben az esetben a varázslat tetszőleges gyakorisággal alkalmazható, követve az Állandóság varázslat leírásában meghatározott korlátozásokat.
+A tárgy használatakor a benne foglalt varázslatok mindegyike csak egyszer varázsolható el, azonban a fenti eljárást követve ugyanazon varázslat több változata is átruházható. Lehetőség van egyetlen varázslat átvitelére is, amelyet a 4. rangú Állandósítás (Permanency) varázslat követ. Ebben az esetben a varázslat tetszés szerinti gyakorisággal elvarázsolható, az Állandósítás (Permanency) varázslat leírásában megadott korlátozások betartásával.
 
-Nem lehetséges más mágikus hatásokat átvinni egy tárgyba, amelyek nem felelnek meg egy adott varázslatnak, és a régmúlt sok mágikus tárgya egyszerűen nem hozható létre újra ebben a korban.
+Nem lehetséges más mágikus hatásokat átruházni egy tárgyba, amelyek nem felelnek meg egy konkrét varázslatnak, és sok, régen letűnt korokból származó mágikus tárgyat egyszerűen nem lehet újraalkotni a mai világban.
 
 ---
-#### Fegyver elvarázsolása (Enchant Weapon)
+#### Fegyver elvarázsolása
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 1 perc |
-| **Szféra:** Nincs | **Hatástartam:** 5 perc/Intenzitás |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** Érintés |
+| **Rang:** Mágus 3 | **Varázslási idő:** 1 perc |
+| **Szféra:** Nincs | **Időtartam:** 5 perc/Intenzitás |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** Érintés |
 | **Terület:** 1 fegyver | **Ellenállás:** N/A |
 
-Amikor ezt a varázslatot egy normál fegyver érintése közben végrehajtják, a fegyver ideiglenes Elvarázsolást kap, amely mágikus +1 Sebzésmódosítót biztosít. Ez lehetővé teszi, hogy egy egyébként normál fegyver olyan lényt is sújtson, amely csak legalább +1 Elvarázsolással rendelkező fegyverrel sebezhető. A varázslat két, egyenként ½ „Holmi” méretű fegyver elvarázsolására használható, mint például tőrök, kések, nyilak stb. Ellenkező esetben varázslatonként legfeljebb egy fegyver varázsolható el. Egy meglévő mágikus fegyver bónusza +1-gyel növelhető, összesen legfeljebb +3 bónuszig. A +3 bónusszal rendelkező fegyver mérete a sebzés szempontjából egy kategóriával nő: Nagy méretűről Óriásira, Óriásiról Hatalmasra, Hatalmasról Kolosszálisra. Az elvarázsolt fegyver +5 Páncélponttal és +2 Életerő ponttal rendelkezik minden +1 Elvarázsolásért az adott fegyvertípusnál. Ez a varázslat kombinálható a Tárgy elvarázsolása és az Állandóság varázslatokkal, hogy maradandó Elvarázsolással rendelkező fegyvert hozzon létre.
+Amikor ezt a varázslatot egy normál fegyver érintése közben végzik el, a fegyver ideiglenes Elvarázsolást kap, amely mágikus +1 Sebzésmódosítót biztosít. Ez azt is lehetővé teszi, hogy egy egyébként normál fegyver olyan lényt is megsebesítsen, amely csak legalább +1 Elvarázsolással rendelkező fegyverekkel sebezhető. A varázslat két, egyenként ½ 'Dolog' (Thing) méretű fegyver, például tőrök, kések, nyilak stb. elvarázsolására is használható. Egyébként varázslatonként legfeljebb egyetlen fegyver varázsolható el. Egy meglévő mágikus fegyver bónusza +1-gyel növelhető, összesen legfeljebb +3 bónuszig. Egy +3 bónusszal rendelkező fegyver mérete (MÉR) eggyel magasabb kategóriába lép a sebzés okozása tekintetében: Nagyról Hatalmasra, Hatalmasról Óriásira, Óriásiról Kolosszálisra. Az elvarázsolt fegyver +5 Páncélponttal és +2 Életerővel rendelkezik minden +1 Elvarázsolás után az adott típusú fegyverre vonatkozóan. Ez a varázslat kombinálható a Tárgy elvarázsolása (Enchant Item) és az Állandósítás (Permanency) varázslatokkal, hogy tartós Elvarázsolással rendelkező fegyvert hozzanak létre.
 
 ---
-#### Hőség/Hideg elviselése (Endure Heat/Cold)
+#### Hőség/Hideg elviselése
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 1 kör |
-| **Szféra:** Védelem | **Hatástartam:** 90 perc/Intenzitás |
+| **Rang:** Pap 1 | **Varázslási idő:** 1 kör |
+| **Szféra:** Védelem | **Időtartam:** 90 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** N/A |
 
-Ez a varázslat lehetővé teszi a varázsló számára egy lény megvédését a természetes hőség vagy hideg szélsőségeitől, a varázslat végrehajtásakor meghatározottak szerint. A varázslat címzettje immunis a természetes hőség vagy hideg világi szélsőségeire, például a fagypont alatti hőmérsékletre vagy a fojtogató sivatagi hőségre. A Fém hevítése (Heat Metal) kivételével, amely ellen ez a varázslat teljes védelmet nyújt, bármilyen mágikus hőség vagy hideg általi "támadás", például egy vörös sárkány lánglehelete vagy egy mágus hidegkúp varázslata automatikusan eloszlatja a védelmet, függetlenül attól, hogy melyik elemet védték a varázslatkor. Azonban a védett egyén figyelmen kívül hagyhatja az első 10 pont sebzést abban a körben, amelyben a varázslat megszakad, feltéve, hogy a védelem megfelel a támadás típusának. Területi hatású varázslatok esetén a sebzés csökken az alkalmazás előtt.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy megvédjen egy lényt a hőség vagy hideg természetes szélsőségeitől, a varázslat elvégzésekor meghatározottak szerint. A varázslat kedvezményezettje immúnis a természetes hőség vagy hideg hétköznapi szélsőségeire, például a fagypont alatti hőmérsékletre vagy a sivatagi perzselő hőségre. A Fémhevítés (Heat Metal) varázslaton kívül – amely ellen ez a varázslat teljes védelmet nyújt –, a mágikus hőség vagy hideg általi bármilyen 'támadás', például egy vörös sárkány tűzlehelete vagy egy mágus hidegkúp (cone of cold) varázslata automatikusan eloszlatja a védelmet, függetlenül attól, hogy melyik elem ellen volt védelem abban a pillanatban. A védett egyén azonban figyelmen kívül hagyhatja az első 10 pontnyi sebzést abban a körben, amelyben a védelem megszűnik, feltéve, hogy a védelem megfelel a támadás típusának. Területi hatású varázslatok esetén a sebzés a kifejtés előtt csökken.
 
 ---
-#### Energiaelszívás (Energy Drain)
+#### Energiaelszívás
 
 (Evokáció vagy Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 5 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Állandó |
+| **Rang:** Mágus 5 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Állandó |
 | **Költség:** 3 | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** Kitartás |
+| **Terület:** 1 célpont | **Ellenállás:** Állóképesség |
 
-Amikor életbe lép, ez a varázslat két állandó Kimerültségi szint veszteséget ró az Ellenállás-dobást elbukott áldozatra. Az Energiaelszívás általi Kimerültségi veszteség összeadódik a normál Kimerültségi veszteséggel; ezért a harc vagy utazás miatt már meggyengült ellenfelek fogékonyabbak az Energiaelszívásra. A Kimerültség gyógyítása varázslatok és főzetek nincsenek hatással az Energiaelszívás miatt elvesztett Kimerültségre; azonban a Helyreállítás (Restoration) varázslatok és tekercsek véglegesen meggyógyíthatják az elveszett Kimerültséget. A páncél nincs hatással az Energiaelszívásra.
+Elvarázsolásakor ez a varázslat két állandó Fáradtságveszteség-szintet ró ki az ellenálláspróbát elbukó áldozatra. Az Energiaelszívás általi Fáradtságveszteség kumulatív a normál Fáradtságveszteséggel; ezért a harc vagy utazás miatt már legyengült ellenfelek fogékonyabbak az Energiaelszívásra. A Fáradtság gyógyítása (Cure Fatigue) varázslatok és főzetek nem befolyásolják az Energiaelszívás miatt elvesztett Fáradtságot; azonban a Helyreállítás (Restoration) varázslatok és tekercsek véglegesen meggyógyíthatják az elvesztett Fáradtságot. A páncél nincs hatással az Energiaelszívásra.
 
 ---
-#### Ördögűzés (Exorcism)
+#### Ördögűzés
 
 (Abjuráció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 1d10x100 perc |
-| **Szféra:** Védelem | **Hatástartam:** Állandó |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 10 láb |
+| **Rang:** Pap 3 | **Varázslási idő:** 1d10x100 perc |
+| **Szféra:** Védelem | **Időtartam:** Állandó |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 10 láb |
 | **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
 
-Ennek a varázslatnak a révén a papok istenükhöz fordulnak, hogy kiűzzék a szellemet vagy más természetfeletti erőt, amely jelenleg egy testi lény megszállását végzi, például démoni megszállás esetén. Az Ördögűzés bizonyos tárgyak és mágikus eszközök, varázslatok, átkok sőt még bűbájok általi uralom ellen is használható. Hogy a megszállás domináns vagy rejtett, az lényegtelen. A mágia minden olyan megszállási formát elűz, amelynek Intenzitása eléri a varázslat Intenzitásának felét. Hogy mi történik ezután, az nagymértékben függ az entitás hozzáállásától és típusától, de a testetlenkedésre képes ellenséges entitások kísértésbe eshetnek, hogy más közeli célpontokat támadjanak meg Szellemi harcban (Spirit Combat). Kezeljük mágikus párbajként, de ha az entitás nyer, megszállhatja a vesztest. Ha az entitás veszít, visszaküldik eredeti síkjára. Így ez a varázslat potenciálisan veszélyes lehet a varázslóra vagy társaira. A Végrehajtási idő nagyon véletlenszerű, és nem szakítható meg a rituálé megzavarása nélkül.
+E varázslat révén a papok istenségükhöz folyamodnak, hogy kiűzzenek egy szellemet vagy más természetfeletti erőt, amely jelenleg egy testi lényt szállt meg, például démoni megszállottság esetén. Az Ördögűzés bizonyos tárgyak és mágikus eszközök, varázslatok, átkok, sőt bűbájok általi dominancia ellen is használható. Hogy a megszállottság domináns vagy rejtett-e, lényegtelen. A mágia mindenféle megszállottságot elűz, a varázslat Intenzitásának feléig terjedő Intenzitással. Hogy mi történik ezután, az az entitás hozzáállásától és típusától függ, ha van ilyen, de a testetlenülésre képes hadakozó szellemek kísértésbe eshetnek, hogy más közeli célpontokat is megtámadjanak Szellemharcban. Ezt Mágikus párbajként (Magic Duel) kell kezelni, azonban ha az entitás nyer, megszállhatja a vesztest. Ha az entitás veszít, visszaküldik eredeti síkjára. Így ez a varázslat potenciálisan veszélyes lehet a varázsló vagy társai számára. A Varázslási idő nagyon véletlenszerű, és a rituálé megzavarása nélkül nem szakítható meg.
 
 ---
-#### Félelem (Fear)
+#### Félelem
 
 (Illúzió)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Lásd alább |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 0 |
+| **Rang:** Mágus 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Lásd alább |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 0 |
 | **Terület:** 5 láb x 20 láb kúp | **Ellenállás:** Akaraterő |
 
-Amikor ezt a varázslatot végrehajtják, egy rémülethullám terjed kifelé, ami mindenkit, akinek nem sikerül az Ellenállás-dobása, menekülésre késztet félelmében. Az így érintett ellenfelek közvetlenül a varázslótól elfelé menekülnek sprintelve, a varázslat Intenzitása x 2 körön keresztül. Ez a terror olyan mértékű, hogy azok az ellenfelek, akik elbukják az ellenállási dobást, eldobnak minden olyan tárgyat, amely nincs biztonságosan rögzítve valamilyen módon. A Nagy lények (SIZ 21-40) kevésbé érzékenyek erre a varázslatra, az Ellenállás-dobásuk Könnyű, míg az Óriási lények (SIZ 41+) ellenállási dobása Nagyon Könnyű.
+Amikor ez a varázslat elvarázsolásra kerül, a rettegés hulláma terjed kifelé, ami mindenkit, aki elbukja az Ellenálláspróbát, félelmében való menekülésre kényszerít. Az érintettek közvetlenül a varázslótól elfelé menekülnek sprintelési sebességgel, a varázslat Intenzitása x2-nek megfelelő körön keresztül. Ez a rettegés annyira mindent felemésztő, hogy azok az ellenfelek, akik elvétik (Fumble) az ellenálláspróbát, elejtik azokat a tartott tárgyaikat, amelyek nincsenek valamilyen módon rögzítve. A nagy lények (MÉR 21-40) kevésbé fogékonyak erre a varázslatra, az Ellenálláspróba Könnyű (Easy), a hatalmas lények (MÉR 41+) Ellenálláspróbája pedig Nagyon könnyű (Very Easy).
 
 ---
-#### Tollpihe esés (Feather Fall)
+#### Tollhullás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** Azonnali |
-| **Szféra:** Nincs | **Hatástartam:** 1 perc/Intenzitás |
+| **Rang:** Mágus 1 | **Varázslási idő:** Azonnali |
+| **Szféra:** Nincs | **Időtartam:** 1 perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 30 láb/Intenzitás |
-| **Terület:** 5 láb sugarú | **Ellenállás:** N/A |
+| **Terület:** 5 láb sugár | **Ellenállás:** N/A |
 
-Amikor ezt a varázslatot végrehajtják, a varázslat Hatásterületén belüli számos személy, lény vagy tárgy, amelyek összesített SIZ-je Intenzitásonként nem haladja meg a 20-at, tollpihesúlyúra csökken. Az érintettek legfeljebb 10 láb/kör, azaz 120 láb/perc sebességgel esnek, és semmilyen zuhanási sérülést nem szenvednek el, amíg a varázslat Hatástartama tart. Olyan könnyűek, hogy gyakorlatilag immunisak minden 5 lábnál nagyobb visszalökődésre, és nem szenvednek sérülést, ha bárminek nekicsapódnak, mivel csak lassan lebegnek hátrafelé.
+Amikor ez a varázslat elvarázsolásra kerül, számos személy, lény vagy tárgy a varázslat Hatásterületén belül, összesített MÉR-jük (MÉR) legfeljebb Intenzitásonként 20, egy toll súlyára csökken. A varázslat befolyása alatt állók nem esnek gyorsabban 10 lábnál körönként / 120 lábnál percenként, és nem keletkezik esési sebzés, amíg a varázslat Időtartama tart. Annyira könnyűek, hogy gyakorlatilag immúnisak minden 5 lábnál nagyobb visszalökésre, és nem szenvednek sebzést, ha nekilökődnek valaminek, mivel egyszerűen lassan lebegnek hátrafelé.
 
-Ezt a varázslatot légi lényekre, például madarakra vagy sárkányokra alkalmazva megváltoztatja a repülési dinamikájukat oly módon, hogy Félelmetes Fly képességdobás szükséges minden körben, ha a levegőben kívánnak maradni. Siker esetén a lény tetszés szerint mozoghat, de csak normál mozgási sebességének felével, míg a sikertelen dobás miatt a lény kísérlete gyengéd zuhanásba torkollik, véletlenszerű irányba, a mozgási kísérletével megegyező távolságra. Ha csak hagyja magát esni, egy légi lény a szárnyait használhatja a landolási pontja 5 láb/kör értékű módosítására.
+Ha ezt a varázslatot légi lényre, például madárra vagy sárkányra alkalmazzák, az megváltoztatja a repülési dinamikáját oly módon, hogy a varázslat Időtartama alatt minden körben Nehéz (Hard) Repülés (Fly) próbákra van szükség, ha a levegőben kívánnak maradni. Siker esetén a lény a kívánt módon mozoghat, de csak normál Mozgási Sebességének felével, míg az elbukott próba azt okozza, hogy a lény kísérlete véletlenszerű irányba, a tervezett mozgási sebességének megfelelő távolságra repíti őt, miközben finoman bukfencezik irányíthatatlanul. Ha egyszerűen hagyja magát zuhanni, a légi lény a szárnyait használhatja arra, hogy körönként 5 lábbal korrigálja a leszállási pontját.
 
-Ha a varázslat lejár, mielőtt az érintettek földet érnének, folytatják a normál zuhanási sebességet, és a zuhanási sebzést onnan számítják ki.
+Ha a varázslat az érintettek földet érése előtt lejár, visszatérnek a normál esési sebességre, és ettől a ponttól számítják ki az esési sebzést.
 
-A varázslat azonnali végrehajtási ideje miatt a mágus a Tollpihe esést reaktívan és proaktívan is alkalmazhatja. Ez lehetővé teszi, hogy megvédjen a váratlan esésektől, vagy akár megszakítson mások cselekvését a lassan haladó lövedékek, például nyilak vagy hajított lándzsák lassításával, amelyek aztán sebzés nélkül, gyengéden a földre hullanak a támadó és a célpont között.
+A varázslat Azonnali Varázslási ideje miatt a mágus a Tollhullást reaktívan és proaktívan is használhatja. Ez lehetővé teszi, hogy a varázslat megvédjen a váratlan esésektől, vagy akár megszakítson egy másik Akciót a lassú, hajtott lövedékek, például nyilak vagy hajított lándzsák lelassítására, amelyek ekkor a támadó és a célpont között gyengéden a földre lebegnek, sebzést nem okozva.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 perc; 30 láb hatótáv; összesen 20 SIZ; összesen 120 láb |
-| 2 | 2 | 2 perc; 60 láb hatótáv; összesen 40 SIZ; összesen 240 láb |
-| 3 | 3 | 3 perc; 90 láb hatótáv; összesen 60 SIZ; összesen 360 láb |
-| 4 | 4 | 4 perc; 120 láb hatótáv; összesen 80 SIZ; összesen 480 láb |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 1 | 1 perc; 30 láb hatótáv; összesített MÉR 20; teljes süllyedés 120 láb |
+| 2 | 2 | 2 perc; 60 láb hatótáv; összesített MÉR 40; teljes süllyedés 240 láb |
+| 3 | 3 | 3 perc; 90 láb hatótáv; összesített MÉR 60; teljes süllyedés 360 láb |
+| 4 | 4 | 4 perc; 120 láb hatótáv; összesített MÉR 80; teljes süllyedés 480 láb |
+| +1 | +1 | Folytatólagos haladás |
 
 ---
-#### Familiáris keresése (Find Familiar)
+#### Ismerős keresése
 
-(Megidézés)
+(Idézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 2d12 óra |
-| **Szféra:** Nincs | **Hatástartam:** Különleges |
-| **Költség:** 3/Intenzitás, +1 EXP | **Hatótáv:** 0 |
-| **Terület:** ½ mérföld sugarú/Intenzitás | **Ellenállás:** N/A |
+| **Rang:** Mágus 1 | **Varázslási idő:** 2d12 óra |
+| **Szféra:** Nincs | **Időtartam:** Speciális |
+| **Költség:** 3/Intenzitás, +1 TP | **Hatótáv:** 0 |
+| **Terület:** ½ mérföld sugár/Intenzitás | **Ellenállás:** N/A |
 
-Ez a varázslat lehetővé teszi a varázsló számára, hogy megkísérelje megidézni egy familiárist, amely gazdája érzékeinek és erejének kiterjesztésévé válik. A familiárisok telepatikusan társaloghatnak gazdájukkal, és kiváló őrök és felderítők is. A familiáris elvesztése bizonyos kockázatokat jelent a mágus számára a szoros kapcsolat miatt, ami miatt a familiáris tartása alacsony rangú veszélyt jelent.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy kísérletet tegyen egy ismerős (familiar) megidézésére, amely gazdája érzékeinek és erejének kiterjesztésévé válik. Az ismerősök telepatikusan beszélgethetnek gazdájukkal, és kiváló őrök és felderítők is lehetnek. Az ismerős megölése bizonyos kockázatokat jelent a varázshasználóra nézve a szoros kapcsolatuk miatt, ami miatt az ismerős tartása alacsony rangú veszélyforrás.
 
-Familiáris megidézéséhez a mágusnak szénnel megtöltött parázstartóval kell kezdenie a rituálét, és amikor az hevesen ég, 100 GP értékű tömjént kell hozzáadnia. Ezen összetevők égése közben a varázslónak folytatnia kell a rituálét, amíg a familiáris meg nem érkezik, vagy a Végrehajtási idő sikertelenül le nem jár.
+Egy ismerős megidézéséhez a varázshasználónak el kell kezdenie a rituálét, miközben egy faszénnel parázsló üstöt tart, és amikor az intenzíven ég, 100 GP értékű tömjént kell hozzáadnia. Ezeknek az összetevőknek az égése mellett a varázslónak folytatnia kell a rituálét, amíg az ismerős meg nem érkezik, vagy a Varázslási idő siker nélkül le nem telik.
 
-Még ha ezt a varázslatot sikeresen végre is hajtják, a megfelelő familiáris esélye arra, hogy válaszoljon a mágus hívására, csak 50%, és a mágus évente csak egyszer kísérelheti meg ezt a varázslatot. Az elsőn túli minden Intenzitási szint további fél mérfölddel növeli a varázslat hatótávolságát, ami 5%-kal, legfeljebb 95%-ra növeli a megtalált potenciális familiáris valószínűségét. Nincs befolyás arra, hogy pontosan milyen típusú lény válaszol a hívásra, de ami érkezik, az hűséges szolga és szövetséges lesz. Az adott lényen múlik, hogy válaszol-e a hívásra, ezért egy adott típusú lény által lakott régióban való tartózkodás nem biztosítja a varázsló sikerét.
+Még ha ezt a varázslatot sikeresen el is végzik, annak esélye, hogy egy megfelelő ismerős válaszoljon a varázshasználó hívására, mindössze 50%, és a varázshasználó csak évente egyszer próbálkozhat ezzel a varázslattal. Az Intenzitás minden további szintje az elsőn túl fél mérfölddel megnöveli a varázslat Hatótávolságát, ami viszont 5%-kal növeli egy potenciális ismerős megtalálásának valószínűségét, legfeljebb 95%-ig. Nincs ellenőrzés afölött, hogy pontosan milyen típusú lény válaszol a hívásra, de ami megérkezik, az hűséges szolgáló és szövetséges lesz. Az adott lényen múlik, hogy válaszol-e a hívásra, ezért egy olyan régióban lenni, amelyről köztudott, hogy egy bizonyos típusú lény lakja, _nem_ biztosítja a varázsló számára a sikert.
 
-Ha egy lény válaszol a mágus idézésére, a mágikus felhasználónak még mindig fel kell áldoznia 1 Tapasztalati Dobást (Experience Roll), hogy spirituális kapcsolatot hozzon létre önmaga és a familiáris között. Miután ez megtörtént, a rituálé befejeződött.
+Ha egy lény válaszol a varázsló hívására, a varázshasználónak még fel kell áldoznia 1 Tapasztalati Dobást (Experience Roll), hogy spirituális kapcsolatot hozzon létre önmaga és az ismerős között. Ha ez megtörtént, a rituálé befejeződött.
 
-Amíg a familiáris és gazdája 120 lábon belül vannak egymástól, a mágus képessé válik a familiáris Mágia-pontjainak használatára is. Emellett a mágus telepatikus kapcsolatot kap a familiárissal, valamint az alábbi táblázatokban említett további különleges Képességeket vagy képzettségi bónuszokat.
+Amíg az ismerős és gazdája 120 lábon belül tartózkodik egymástól, a varázshasználó képessé válik az ismerős Mágia pontjainak felhasználására is. Ezenkívül a varázshasználó telepatikus kapcsolatot nyer az ismerőssel, valamint az alábbi táblázatokban feltüntetett bármely további speciális Képességet vagy képzettségi bónuszt.
 
-A familiáris halála esetén a mágus 5 Tapasztalati Dobást veszít. Az a varázsló, akinek jelenleg nincs Tapasztalati Dobása, elveszíti az összes további odaítélt Tapasztalati Dobást, amíg az egyenleg meg nem térül.
+Az ismerős halála esetén a varázsló 5 Tapasztalati Dobást veszít. Az a varázsló, akinek jelenleg nincs Tapasztalati Dobása, elveszíti minden további elnyert Tapasztalati Dobását, amíg az egyenlegét nem rendezik.
 
-Hogy milyen típusú familiáris jelenik meg, azt az alábbi táblázat határozza meg. A legtöbb esetben a közönséges familiárisok nem kivételesen nagyok, 1-4 SIZ közöttiek, és a Kis állat leírást használják.
+A megjelenő ismerős típusát, ha van ilyen, a következő táblázat határozza meg. A legtöbb körülmény között a közös ismerősök nem kivételesen nagyok, MÉR-jük (MÉR) 1-4 között van, és a Kis állat (Small Animal) leírást használják.
 
-##### Gyakori familiárisok
+##### Közönséges ismerősök
 
-| d100 Dobás | Típus | STR/SIZ | POW | Biztosított Különleges Képességek (mindegyik telepatikus kapcsolattal) |
+| d100 dobás | Típus | ERŐ/MÉR | HAT | Biztosított különleges képességek (mindegyik tartalmaz Telepatikus kapcsolatot) |
 | :-: | :-: | :-: | :-: | :-- |
-| 01-05 | Denevér | 1 | 1d3 | +10% Észlelés (csak hallás), sötétben vagy vakságban is harcolhat büntetés nélkül |
-| 06-10 | Házimacska | 1 | 2d3 | Éjszakai látás, +10% Észlelés (csak hallás), +10% Lopakodás |
-| 11-15 | Varrjú | 1 | 2d3 | Verbális kommunikáció*, +10% Észlelés |
-| 16-20 | Kutya, közepes | 1d2+2 (4) | 1d3 | Éjszakai látás, +10% Észlelés (hallás és szaglás), +10% Nyomolvasás |
-| 21-25 | Kutya, kicsi | 1d2 | 1d3 | Éjszakai látás, +10% Észlelés (hallás és szaglás), +10% Nyomolvasás |
-| 26-30 | Menyét | 1 | 1d3 | +10% Észlelés (csak látás), +10% Kikerülés |
-| 31-35 | Béka/Varangy | 1 | 2d3 | +10% Észlelés, 2 perc + Kitartás másodpercig tarthatja vissza a lélegzetét, miniatűr harcban a karakter elülső négyzetei kiterjednek oldalra |
+| 01-05 | Denevér | 1 | 1d3 | +10% Észlelés (csak hallás), sötétben vagy vakságban büntetés nélkül harcolhat |
+| 06-10 | Macska, házi | 1 | 2d3 | Éjszakai látás, +10% Észlelés (csak hallás), +10% Lopakodás |
+| 11-15 | Varrjú | 1 | 2d3 | Verbális kommunikáció\*, +10% Észlelés |
+| 16-20 | Kutya, közepes | 1d2+2 (4) | 1d3 | Éjszakai látás, +10% Észlelés (csak hallás és szaglás), +10% Nyomkövetés |
+| 21-25 | Kutya, kicsi | 1d2 | 1d3 | Éjszakai látás, +10% Észlelés (csak hallás és szaglás), +10% Nyomkövetés |
+| 26-30 | Menyét | 1 | 1d3 | +10% Észlelés (csak látás), +10% Kitérés |
+| 31-35 | Béka/Varangy | 1 | 2d3 | +10% Észlelés, 2 perc plusz az Állóképesség másodpercben kifejezett értékéig visszatarthatja a lélegzetét, miniatűr harcban a karakter elülső négyzetei oldalirányban is kiterjednek |
 | 36-40 | Sólyom | 1 | 2d6 | +20% Észlelés, 2x normál látótávolság |
 | 41-45 | Gyík | 1 | 2d3 | +10% Atlétika, +10% Úszás |
-| 46-50 | Egér | 1 | 1d3 | +10% Kitartás, +10% Észlelés (csak szaglás), +10% Úszás |
-| 51-55 | Fülesbagoly | 1 | 2d6 | Éjszakai látás, +10% Észlelés (csak éjszaka), +10% Akaraterő |
-| 56-60 | Patkány | 1 | 1d3 | +10% Kitartás, +10% Észlelés (csak szaglás), +10% Úszás |
-| 61-65 | Holló | 1 | 2d6 | Verbális kommunikáció*, +10% Kereskedelem, +10% Észlelés |
-| 66-70 | Kígyó | 1 | 2d3 | +10% Kitartás (csak méreg elleni), +10% Észlelés (csak ízlelés) |
-| 71-75 | Menyét | 1 | 1d3 | +10% Észlelés (hallás és szaglás) |
-| 76-00 | Nincs familiáris hatótávolságon belül | - | - | - |
+| 46-50 | Egér | 1 | 1d3 | +10% Állóképesség, +10% Észlelés (csak szaglás), +10% Úszás |
+| 51-55 | Bagoly, füleskuvik | 1 | 2d6 | Éjszakai látás, +10% Észlelés (csak éjszaka), +10% Akaraterő |
+| 56-60 | Patkány | 1 | 1d3 | +10% Állóképesség, +10% Észlelés (csak szaglás), +10% Úszás |
+| 61-65 | Holló | 1 | 2d6 | Verbális kommunikáció\*, +10% Kereskedelem, +10% Észlelés |
+| 66-70 | Kígyó | 1 | 2d3 | +10% Állóképesség (csak méreg elleni ellenállás), +10% Észlelés (csak ízlelés) |
+| 71-75 | Menyét | 1 | 1d3 | +10% Észlelés (csak hallás és szaglás) |
+| 76-00 | Nincs ismerős hatótávolságon belül | - | - | - |
 
-*\* Közös nyelv, és a mágus faji nyelve, ha alkalmazható.*
+_\* Közös nyelv, és a mester faji nyelve, ha alkalmazható._
 
----
-#### Tűzgolyó (Fireball)
+---#### Tűzgolyó
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Koncentráció |
+| **Rang:** Mágus 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Koncentráció |
 | **Költség:** 3+1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 20 láb sugarú | **Ellenállás:** Kikerülés |
+| **Terület:** 6 m (20 láb) sugár | **Ellenállás:** Kitérés |
 
-A varázslás első körében, ahogy a mágus elkezdi a verbális kántálást és gesztusokat, egy parázs- vagy szikrányi láng kezd formálódni a kézben, lassan tűzgolyóvá növekedve. A második körben, a kántálás befejezésekor, a mágus úgy tesz, mintha eldobná a golyót, amely mély morajlással hatalmas tűzgolyóvá robban. Kevés nyomást fejt ki, és 2 Intenzitásonként 1d6 pont sebzést okoz minden áldozatnak a Hatásterületen. A sebzést egyszer dobják, és a célpont minden Testtájára alkalmazzák, a viselt páncél nem nyújt védelmet, de a mágikus Páncélpontok vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést.
+A varázslás első körében, ahogy a varázshasználó elkezdi a verbális kántálást és a kézmozdulatokat, egy parányi, szikra méretű láng kezd kialakulni a kezében, amely lassan egy kis tűzgolyóvá növekszik. A második körben, a kántálás végeztével, a varázshasználó eljátssza, mintha eldobná a golyót, amely egy mély morajlással hatalmas tűzgolyóvá robban. Alig van nyomáshulláma, és 1d6 sebzéspontot okoz minden egyes 2 Intenzitáspontért (vagy annak töredékéért) a hatóterületen tartózkodó összes áldozatnak. A sebzést egyszer kell dobni, és a célpont minden Találati Helyére alkalmazni kell; a viselt páncél nem nyújt védelmet, de a mágikus Páncélpontok vagy a lény természetes páncélzata a szokásos módon csökkenti a sebzést.
 
-A sikeres Kikerülés (Evade) dobás, amely során a karakter hasra vágódik, lehetővé teszi, hogy az áldozat ne szenvedjen sebzést. A Művész Szökő (Artful Dodger) képességgel rendelkezők hasra vágódás nélkül is kikerülhetnek, de ebben az esetben a siker csak a sebzést felezi, hacsak nem az 5 láb sugarú kör szélén vannak.
+Egy sikeres Kitérés dobás, amely hasra vetődéssel jár, lehetővé teszi az áldozat számára, hogy ne szenvedjen sebzést. A „Ravasz kitérő” (Artful Dodger) képességgel rendelkező személy választhatja a Kitérést hasra vetődés nélkül is, de ebben az esetben a siker csak a felére csökkenti a sebzést, hacsak nem a hatóterület szélétől számított 1,5 méteren (5 láb) belül tartózkodik.
 
-A Tűzgolyónak esélye van gyúlékony anyagokat meggyújtani, amely egyenlő a dobott sebzés x 5%-ával. További információkért lásd a [Tűz alapú támadások](0007_Game_System.md?id=fire-based-attacks) szakaszt.
+A Tűzgolyó az elgurított sebzés x5%-os esélyével gyújthatja meg a gyúlékony anyagokat. További információkért lásd a [Tüzek](0007_Game_System.md?id=fire-based-attacks) című részt.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 láb hatótáv; 1d6 sebzés |
-| 2 | 4 | 60 láb hatótáv; 1d6 sebzés |
-| 3 | 5 | 90 láb hatótáv; 2d6 sebzés |
-| 4 | 6 | 120 láb hatótáv; 2d6 sebzés |
-| 5 | 7 | 180 láb hatótáv; 3d6 sebzés |
-| 6 | 8 | 240 láb hatótáv; 3d6 sebzés |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 9 m (30 láb) hatótáv; 1d6 sebzés |
+| 2 | 4 | 18 m (60 láb) hatótáv; 1d6 sebzés |
+| 3 | 5 | 27 m (90 láb) hatótáv; 2d6 sebzés |
+| 4 | 6 | 36 m (120 láb) hatótáv; 2d6 sebzés |
+| 5 | 7 | 55 m (180 láb) hatótáv; 3d6 sebzés |
+| 6 | 8 | 73 m (240 láb) hatótáv; 3d6 sebzés |
+| +1 | +1 | Folyamatos növekedés |
 
 ---
-#### Tűzgolyó, Késleltetett robbanású (Fireball, Delayed Blast)
+#### Tűzgolyó, Késleltetett robbanás
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 4 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Lásd alább |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 50 láb/Intenzitás |
-| **Terület:** 20 láb sugarú | **Ellenállás:** Kikerülés |
+| **Rang:** Mágus 4 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Lásd lentebb |
+| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 15 m/Intenzitás (50 láb/Intenzitás) |
+| **Terület:** 6 m (20 láb) sugár | **Ellenállás:** Kitérés |
 
-A fent említett kivételekkel ez a varázslat a normál Tűzgolyó varázslat szerint működik. A Késleltetett robbanású tűzgolyó 2 Intenzitásonként 1d8 pont sebzést okoz minden áldozatnak a Hatásterületen. Amikor végrehajtják, a mágus beállíthatja a Tűzgolyót, hogy azonnal vagy akár öt percen belül robbanjon. A kijelölt helyre utazik, majd ott marad, egy apró lebegő parázsként, amíg a kívánt időpontban hatalmas lánggömbbé nem lobban.
+A fentebb és az alábbi szövegben jelzett kivételekkel ez a varázslat a normál Tűzgolyó varázslat szabályai szerint működik. A Késleltetett robbanású Tűzgolyó 1d8 sebzéspontot okoz minden 2 Intenzitáspontért (vagy annak töredékéért) a hatóterületen tartózkodó összes áldozatnak. A varázsláskor a varázshasználó beállíthatja, hogy a Tűzgolyó az azonnali időponttól számított öt percen belüli bármikor robbanjon fel. A lövedék eljut a kijelölt helyre, majd inaktív marad, mint egy apró, lebegő parázs, egészen a kívánt időpontig, amikor hatalmas lánggömbbé lobban.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 láb hatótáv; 1d8 sebzés |
-| 2 | 4 | 100 láb hatótáv; 1d8 sebzés |
-| 3 | 5 | 150 láb hatótáv; 2d8 sebzés |
-| 4 | 6 | 200 láb hatótáv; 2d8 sebzés |
-| 5 | 7 | 250 láb hatótáv; 3d8 sebzés |
-| 6 | 8 | 300 láb hatótáv; 3d8 sebzés |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 15 m hatótáv; 1d8 sebzés |
+| 2 | 4 | 30 m hatótáv; 1d8 sebzés |
+| 3 | 5 | 45 m hatótáv; 2d8 sebzés |
+| 4 | 6 | 60 m hatótáv; 2d8 sebzés |
+| 5 | 7 | 75 m hatótáv; 3d8 sebzés |
+| 6 | 8 | 90 m hatótáv; 3d8 sebzés |
+| +1 | +1 | Folyamatos növekedés |
 
 ---
-#### Tűzpaizs (Fire Shield)
+#### Tűzpajzs
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** 2 perc/Intenzitás |
+| **Rang:** Mágus 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 2 perc/Intenzitás |
 | **Költség:** 3+1/további Intenzitás | **Hatótáv:** 0 |
-| **Terület:** Varázsló | **Ellenállás:** N/A |
+| **Terület:** Varázshasználó | **Ellenállás:** N/A |
 
-Ez a varázslat olyan pára-lángokból álló pajzsot hoz létre, amely megégeti a varázslót, de önmagában nem okoz kárt. Ehelyett a lángok megvédik a címzettet a tűztől vagy a hidegtől, attól függően, hogy a memória melyik két változatát alkalmazzák: a Hideg pajzsot (Chill Shield), amely kék vagy zöld lángokat hoz létre és véd a hőtől és a tűz alapú sebzéstől, vagy a Meleg pajzsot (Warm Shield), amely lila vagy kék lángokat hoz létre és véd a hideg és jég alapú sebzéstől. A lángok színét véletlenszerűen kell meghatározni, 50% eséllyel bármelyikre, mivel az a tény, hogy mindkét típus kék lángokat bocsáthat ki, bizonytalanságot szül az támadókban. A választást a varázslatok előkészítésekor kell meghozni, és mindkettő megjegyezhető, ha kívánatos. Ezek a lángok nem bocsátanak ki hőt, és csak egy fáklya fényerejének felével világítanak. Az egyes változatok részletei lentebb olvashatók.
+Ez a varázslat finom lángokból álló pajzsot hoz létre, amely körülveszi a varázshasználót, de önmagában nem okoz sebzést. Ehelyett a lángok megvédik az alanyt a tűztől vagy a hidegtől, attól függően, hogy a két változat közül melyik van memorizálva: a Hidegpajzs, amely kék vagy zöld lángokat hoz létre és véd a hőség és a tűzalapú sebzés ellen, vagy a Melegpajzs, amely lila vagy kék lángokat hoz létre és véd a hideg és jégalapú sebzés ellen. A lángok színét véletlenszerűen kell meghatározni, 50% eséllyel mindkettőre, mivel az a tény, hogy mindkét típus képes kék lángokat kibocsátani, bizonytalanságot szül az támadóban. A memorizálandó változatról a varázslatok előkészítésekor kell dönteni, és szükség esetén mindkettő memorizálható. Ezek a lángok nem adnak le hőt, és csak egy fáklya fényerejének felével világítanak. Az egyes változatok részletei alább olvashatók.
 
-- **Hideg pajzs:** Ezek a lángok hűvösek az érintésre, és a tűz- vagy hőalapú sebzést a teljes érték felére csökkentik. A sikeres Ellenállás-dobás semlegesíti az összes sebzést. Az Ellenállás-dobás egy fokozattal könnyebb, és Kikerülés (Evade) esetén nem dönti hasra a védőt.
-- **Meleg pajzs:** Ezek a lángok melegek az érintésre, és a hidegalapú sebzést a teljes érték felére csökkentik. A sikeres Ellenállás-dobás semlegesíti az összes sebzést. Az Ellenállás-dobás egy fokozattal könnyebb, és Kikerülés (Evade) esetén nem dönti hasra a védőt.
+- **Hidegpajzs:** Ezek a lángok érintésre hűvösek, és a tűz- vagy hőalapú sebzést a felére csökkentik. Egy sikeres Ellenállás dobás minden sebzést semlegesít. Az Ellenállás dobás egy fokozattal könnyebb, és Kitérés esetén nem kényszeríti a védőt hasra vetődésre.
+- **Melegpajzs:** Ezek a lángok érintésre melegek, és a hidegalapú sebzést a felére csökkentik. Egy sikeres Ellenállás dobás minden sebzést semlegesít. Az Ellenállás dobás egy fokozattal könnyebb, és Kitérés esetén nem kényszeríti a védőt hasra vetődésre.
 
-A címzett elleni közelharci támadások, akár fegyverrel, akár fegyvertelenül, normál sebzést okoznak, kivéve, ha az elem valamelyik védett típusát használják. Ebben az esetben a varázsló védve van a támadás elemi részétől, a támadó pedig a kapott sebzéssel megegyező sebzést szenved el. A támadó viselt páncélja nem nyújt védelmet, de a mágikus Páncélpontok vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést. A Beépített Mágiaellenállással (Innate Magic Resistance) rendelkező lények eloszlathatják a Tűzpaizst egy sikeres Akaraterő-dobással, amikor a címzettet először eltalálják. Ha a Mágiaellenállás-dobás sikertelen, az ellenfél később nem semlegesítheti a Tűzpaizst.
+A bármelyik változat hatása alatt álló alany elleni közelharci támadások – akár fegyverrel, akár fegyvertelenül – normál sebzést okoznak, hacsak nem a védett elem egyikét használják. Ebben az esetben a varázshasználó védve van a támadás elemi részétől, a támadó pedig az okozottal egyenlő sebzést szenved el. A támadó viselt páncélja nem nyújt védelmet, de a mágikus Páncélpontok vagy a lény természetes páncélzata a szokásos módon csökkenti a sebzést. A Veleszületett Mágiaellenállással rendelkező lények sikeres HAT dobással eloszlathatják a Tűzpajzsot, amikor a célszemélyt először éri találat. Ha a Mágiaellenállás dobás sikertelen, az ellenfél később már nem tudja semlegesíteni a Tűzpajzsot.
 
 ---
-#### Lángcsapás (Flame Strike)
+#### Lángcsapás
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 2 akció |
-| **Szféra:** Harc, Elemi (Tűz) | **Hatástartam:** Azonnali |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 100 láb + 20 láb/további Intenzitás |
-| **Terület:** 5 láb sugarú | **Ellenállás:** Kikerülés |
+| **Rang:** Pap 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Harc, Elemi (Tűz) | **Időtartam:** Azonnali |
+| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 30 m + 6 m/további Intenzitás |
+| **Terület:** 1,5 m (5 láb) sugár | **Ellenállás:** Kitérés |
 
-Sikeres végrehajtás esetén egy 30 láb magas lángoszlop csap le fentről, megperzselve a pap által kijelölt területet. Az oszlop minden 2 Intenzitási pontért 1d8 pont sebzést okoz minden áldozatnak a Hatásterületen. Dobd a sebzést egyszer, és alkalmazd a célpont minden Testtájára, a viselt páncél fél védelmet nyújt, de a mágikus Páncélpontok vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést. A sikeres Kikerülés (Evade) dobás, amely során a karakter hasra vágódik, lehetővé teszi, hogy az áldozat ne szenvedjen sebzést. A Művész Szökő (Artful Dodger) képességgel rendelkezők hasra vágódás nélkül is kikerülhetnek, és szabadon mozoghatnak éppen a Hatásterületen kívülre.
+Sikeres varázslást követően egy 9 méter magas lángoszlop csap le felülről, perzselve a pap által kijelölt területet. Az oszlop 1d8 sebzéspontot okoz minden 2 Intenzitáspontért (vagy annak töredékéért) a hatóterületen tartózkodó összes áldozatnak. A sebzést egyszer kell dobni, és a célpont minden Találati Helyére alkalmazni kell; a viselt páncél fél védelmet nyújt, de a mágikus Páncélpontok vagy a lény természetes páncélzata a szokásos módon csökkenti a sebzést. Egy sikeres Kitérés dobás – amely az elgurulást vagy a hatóterületből való kiugrást és hasra vetődést jelenti – lehetővé teszi az áldozat számára, hogy ne szenvedjen sebzést. A „Ravasz kitérő” képességgel rendelkező személy Kitérhet hasra vetődés nélkül, és szabadon elmozdulhat közvetlenül a hatóterületen kívülre.
 
-A Lángcsapásnak esélye van gyúlékony anyagokat meggyújtani, amely egyenlő a dobott sebzés x 5%-ával. További információkért lásd a [Tűz alapú támadások](0007_Game_System.md?id=fire-based-attacks) szakaszt.
+A Lángcsapás az elgurított sebzés x5%-os esélyével gyújthatja meg a gyúlékony anyagokat. További információkért lásd a [Tüzek](0007_Game_System.md?id=fire-based-attacks) című részt.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 100 láb hatótáv; 1d8 sebzés |
-| 2 | 4 | 120 láb hatótáv; 1d8 sebzés |
-| 3 | 5 | 140 láb hatótáv; 2d8 sebzés |
-| 4 | 6 | 160 láb hatótáv; 2d8 sebzés |
-| 5 | 7 | 180 láb hatótáv; 3d8 sebzés |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 30 m hatótáv; 1d8 sebzés |
+| 2 | 4 | 36 m hatótáv; 1d8 sebzés |
+| 3 | 5 | 42 m hatótáv; 2d8 sebzés |
+| 4 | 6 | 48 m hatótáv; 2d8 sebzés |
+| 5 | 7 | 55 m hatótáv; 3d8 sebzés |
+| +1 | +1 | Folyamatos növekedés |
 
 ---
-#### Húsból kő (R) (Flesh to Stone)
+#### Húst kővé \(R\)
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 4 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Állandó |
-| **Költség:** 3/Intenzitás | **Hatótáv:** 30 láb/Intenzitás |
-| **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
+| **Rang:** Mágus 4 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Állandó |
+| **Költség:** 3/Intenzitás | **Hatótáv:** 9 m/Intenzitás |
+| **Terület:** 1 Célpont | **Ellenállás:** HAT |
 
-Amikor életbe lép, egy Hatástartamon belüli áldozat Akaraterő Ellenállás-dobást tehet. Ha sikertelen, ő és minden hordozott és viselt holmija teljesen átalakul szilárd kővé. Ez az átalakulás nem halál, hanem egyfajta felfüggesztett animáció. A varázslat megfordított változatának vagy egy Kívánságnak (Wish) a végrehajtása felhasználható az áldozat életre keltésére. Az áldozat által kőként elszenvedett minden sebzés továbböröklődik, és a helyreállítás után azonnal hatályba lép. A Nagy lények (SIZ 21-40) kevésbé érzékenyek erre a varázslatra, az ellenállási dobásuk Könnyű, míg az Óriási lények (SIZ 41+) ellenállási dobása Nagyon Könnyű.
+A varázsláskor a hatótávon belüli egyik áldozat HAT Ellenállás dobást tehet. Ha sikertelen, ő és minden nála lévő vagy általa viselt holmi teljesen tömör kővé változik. Ez az átalakulás nem halál, hanem egyfajta tetszhalott állapot. A varázslat fordított változatának elmondása vagy egy Kívánság (Wish) használható az áldozat életre keltésére. Bármely sebzés, amelyet az áldozat kőként szenved el, megmarad, és az életre kelés pillanatában azonnal hatni kezd. A nagy méretű lények (MÉR 21-40) kevésbé fogékonyak erre a varázslatra, esetükben az Ellenállás dobás Könnyű, a hatalmas lények (MÉR 41+) esetében pedig Nagyon Könnyű.
 
-A varázslat megfordítása, a Kőből hús, az áldozat helyreállítására szolgál, és nincs szükség ellenállási dobásra. Ugyanakkor a varázslat megfordítható úgy is, hogy olyan követ alakítson át, amely korábban soha nem élt; ezt számos kreatív módon lehet alkalmazni. Például egy 10 köbláb nagyságú kőfal minden Intenzitási szinten átalakítható puha hússá, 3 láb széles, 10 láb hosszúságú (minden Intenzitási szinten) "hús alagút" hozható létre, egyetlen célpont, például egy kőszobor, testté alakítható, sőt, még egy kőgólem is húsgólemmé változtatható ezzel a varázslattal. Azonban az utóbbi esetben a kőgólem a szokásos módon Akaraterő-dobást tehet az ellenállásra. Az így hússá változtatott kő puha és hajlékony, és bár megtartja tényleges Életerő pontjait, nincs Páncélpontja, így könnyebb szétverni.
+A varázslat fordítottja, a Kőt hússá, az áldozat helyreállítására szolgál, és ehhez nincs szükség ellenállásra. A varázslat azonban megfordítva olyan kő átalakítására is használható, amely korábban sosem volt élő; ez számos kreatív módon alkalmazható. Például, Intenzitási szintenként 10 köbméter kőfal átalakítható lágy hússá, létrehozható egy legfeljebb 90 cm széles, Intenzitásonként 3 méter hosszú húsalagút, egyetlen célpont, például egy kőszobor, testté változtatható, sőt, egy kőgólem is átalakítható húsgólemmé a varázslat segítségével. Ez utóbbi esetben azonban a kőgólem a szokásos módon HAT dobást tehet az ellenállásra. Az így hússá változott kő lágy és hajlékony, és bár megőrzi tényleges Életerőpontjait, nem rendelkezik Páncélpontokkal, így könnyebben darabolható.
 
 ---
-#### Lebegő lemez (Floating Disk)
+#### Lebegő korong
 
-(Megidézés)
+(Idézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 30 perc/Intenzitás |
-| **Költség:** 1/Intenzitás | **Hatótáv:** 60 láb |
-| **Terület:** 3 láb széles lemez | **Ellenállás:** N/A |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 30 perc/Intenzitás |
+| **Költség:** 1/Intenzitás | **Hatótáv:** 18 m (60 láb) |
+| **Terület:** 90 cm (3 láb) széles korong | **Ellenállás:** N/A |
 
-A varázsló ezt a varázslatot egy 3 láb átmérőjű, koncentrált erőkorong létrehozására használhatja, amellyel laza, vegyes tárgyakat hordozhat. Ez a lebegő lemez mindig 3 lábbal a föld felett marad, és tetszőleges számú árut hordozhat, ha azok nem haladják meg a 20 „Holmit” Intenzitásonként, és elférnek a lemezen. Összehasonlításképpen: 1 SIZ egyenlő 3 „Holmival”; tehát a lemez Intenzitásonként valamivel több mint 6 SIZ-t hordozhat. A lemez homorú jellege általában megakadályozza, hogy a tárgyak leguruljanak, és ha magára hagyják, a lemez 5 lábon belül marad a varázslóhoz képest, 15 lábas Mozgási Rátával követve őt. Azonban a lemez a varázslat 60 lábas területén belül bármely pontra manőverezhető, ha a mágus koncentrál, sőt még az is akarható, hogy egy bizonyos helyen maradjon. Ha a mágus hagyja, hogy a lemez 60 lábon túlra kerüljön, az elpárolog, és minden hordozott tárgyat a földre ejt. A lemez nem irányítható 3 lábnál magasabbra a földtől.
+A varázshasználó ezzel a varázslattal egy csillogó erőkorongot hozhat létre, amely egy 90 cm átmérőjű körbe koncentrálódik, és laza, vegyes tárgyak szállítására használhatja. Ez a lebegő korong mindig 90 cm-rel a föld felett marad, és bármilyen mennyiségű árut képes szállítani, ha azok nem haladják meg az Intenzitásonkénti 20 „Tárgyat”, és ráférnek a korongra. Összehasonlításképpen: tegyük fel, hogy 1 MÉR egyenlő 3 „Tárggyal”; így a korong Intenzitásonként valamivel több mint 6 MÉR-t képes szállítani. A korong homorú jellege általában megakadályozza, hogy a tárgyak leguruljanak róla, és ha magára hagyják, a korong 1,5 méteren belül marad a varázshasználótól, 4,5 méteres (15 láb) Mozgási Sebességgel követve őt. A korong azonban a varázslat 18 méteres hatótávolságán belül bárhová irányítható, ha a varázshasználó koncentrál, sőt, akarattal egy adott helyen is tartható. Ha a varázshasználó hagyja, hogy a korong 18 méteren túlra kerüljön, az eltűnik, és minden szállított tárgyat a földre ejt. A korong nem utasítható arra, hogy 90 cm-nél magasabbra emelkedjen a talajról.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 1 | 30 perc; 1-20 „Holmi” hordozása |
-| 2 | 2 | 60 perc; 21-40 „Holmi” hordozása |
-| 3 | 3 | 90 perc; 41-60 „Holmi” hordozása |
-| 4 | 4 | 120 perc; 61-80 „Holmi” hordozása |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 1 | 30 perc; 1-20 „Tárgy” szállítása |
+| 2 | 2 | 60 perc; 21-40 „Tárgy” szállítása |
+| 3 | 3 | 90 perc; 41-60 „Tárgy” szállítása |
+| 4 | 4 | 120 perc; 61-80 „Tárgy” szállítása |
+| +1 | +1 | Folyamatos növekedés |
 
 ---
-#### Repülés (Fly)
+#### Repülés
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** 30 perc/Intenzitás, +1d6x10 perc |
+| **Rang:** Mágus 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 30 perc/Intenzitás, +1d6x10 perc |
 | **Költség:** 3+1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
+| **Terület:** 1 Célpont | **Ellenállás:** N/A |
 
-Amikor ez a varázslat életbe lép, a mágus legfeljebb 10 SIZ-nyi lénynek (Intenzitásonként) adományozhatja a repülés ajándékát. A lény 30 lábas Mozgási Rátát kap repülés közben, feleannyit, ha mászik, és dupláját, ha zuhanórepülésben van. Minden mozgási sebességre vonatkozó képességbüntetés vonatkozik a kívánt repülési sebességre is, beleértve a varázslásra és harcra vonatkozó korlátozásokat. A Repülés varázslat pontos Hatástartama előre nem látható, a Játékmesternek kell dobnia, mivel az érintettek nem tudhatják, mennyi idő maradt hátra. Ha a repülőnek Fly képességdobást kell tennie, az Atlétika vagy Akrobatika két nehézségi fokkal helyettesíthető. Azonban az a karakter, aki ezt a varázslatot gyakran használja, dönthet úgy, hogy a Fly képességet normálisan fejleszti STR+DEX Alapértéken.
+Amikor a varázslat létrejön, a varázshasználó Intenzitásonként legfeljebb 10 MÉR-ig egy lénynek adhatja a repülés ajándékát. A lény 9 méteres (30 láb) Mozgási Sebességet nyer repülés közben, felet akkora sebességet, ha emelkedik, és dupla akkora sebességet zuhanásban. Minden, a földi mozgás sebességére vonatkozó képességbüntetés a repülési sebességre is érvényes, beleértve a varázslásra és a harcra vonatkozó korlátozásokat is. A Repülés varázslat pontos Időtartama kiszámíthatatlan, és a Játékmesternek kell dobnia érte, mivel a hatás alatt állók nem tudhatják pontosan, mennyi idő maradt hátra. Ha a repülőnek Repülés képességpróbát kell tennie, az Atlétika vagy Akrobatika két fokozattal nehezebb próbával helyettesítheti. Azonban az a karakter, aki gyakran használja ezt a varázslatot, választhatja a Repülés képesség normál fejlesztését, ERŐ+ÜGY Alapértékkel.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 perc +1d6x10 perc; 1-10 SIZ |
-| 2 | 4 | 60 perc +1d6x10 perc; 11-20 SIZ |
-| 3 | 5 | 90 perc +1d6x10 perc; 21-30 SIZ |
-| 4 | 6 | 120 perc +1d6x10 perc; 31-40 SIZ |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 30 perc +1d6x10 perc; 1-10 MÉR |
+| 2 | 4 | 60 perc +1d6x10 perc; 11-20 MÉR |
+| 3 | 5 | 90 perc +1d6x10 perc; 21-30 MÉR |
+| 4 | 6 | 120 perc +1d6x10 perc; 31-40 MÉR |
+| +1 | +1 | Folyamatos növekedés |
 
 ---
-#### Szabad cselekvés (Free Action)
+#### Szabad cselekvés
 
-(Abjuráció, Igézés)
+(Elhárítás, Bűbáj)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 2 akció |
-| **Szféra:** Bűbáj | **Hatástartam:** 10 perc/Intenzitás |
+| **Rang:** Pap 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Bűbáj | **Időtartam:** 10 perc/Intenzitás |
 | **Költség:** 3+1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
+| **Terület:** 1 Célpont | **Ellenállás:** N/A |
 
-Amikor életbe lép, ez a varázslat lehetővé teszi az alany számára, hogy a Hatástartam alatt normálisan cselekedjen, függetlenül más olyan varázslatoktól vagy hatásoktól, amelyek gátolják a mozgást vagy büntetik a támadásokat. Ez magában foglalja a nehéz terep, mint például a sár és hó okozta büntetések semlegesítését. Víz alatt az alany normál szárazföldi sebességével mozoghat, és a kilengő fegyverek (kardok, fejszék, bunkók, buzogányok stb.) teljes hatással támadnak. Ez a varázslat nem biztosítja a víz alatti légzés képességét. A varázslat semlegesíti a gátló varázslatokat, mint például a Megkötés (Entangle), Lassítás (Slow), Tartás (Hold), Bénítás (Paralysis), Háló (Web) stb., a mozgás- és cselekvési büntetéseket illetően.
+A varázslat lehetővé teszi az alany számára, hogy a teljes Időtartama alatt normálisan cselekedjen, függetlenül más, a mozgást gátló vagy támadásokat büntető varázslatoktól vagy hatásoktól. Ez magában foglalja az akadályozó terep, például a sár és a hó miatti büntetések semlegesítését is. Víz alatt az alany normál földi sebességével mozoghat, és a lendített fegyverek (kardok, fejszék, buzogányok stb.) teljes hatással támadnak. Ez a varázslat azonban nem biztosítja a víz alatti légzés képességét. A varázslat semlegesíti a mozgást és a cselekvést korlátozó varázslatokat, mint például a Gubancolás, Lassítás, Tartás, Bénítás, Háló stb.
 
 ---
-#### Fagyás (Frostbite)
+#### Fagyás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
-| **Költség:** 1 | **Hatótáv:** 60 láb |
-| **Terület:** 1 célpont | **Ellenállás:** Kitartás |
+| **Rang:** Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
+| **Költség:** 1 | **Hatótáv:** 18 m (60 láb) |
+| **Terület:** 1 Célpont | **Ellenállás:** ÁLL |
 
-A Fagyás közvetlenül az élő, szerves szövetre hat, zsibbadást és fájdalmat okozva az alany egyik végtagján (például ujjak, lábujjak, farpofák, orr, fülek stb.). A varázslónak vagy meg kell érintenie egy adott végtagot, vagy véletlenszerűen dobnia, ha hatótávolságon belülre vetik. Ha a varázslat nem kerül elhárításra, az érintett terület érzékszervi zsibbadást, majd hosszan tartó fájdalmat szenved a Hatástartam alatt, így az azt igénylő képességtesztek egy nehézségi fokkal nehezebbé válnak. A Fagyás nem okoz közvetlen sebzést, de az érintett területet egy ideig korlátozottan használhatóvá teszi. Például az a személy, aki a farpofáján szenved fagyást, rendkívüli kényelmetlenség nélkül nem tud leülni.
+A fagyás közvetlenül az élő, szerves szövetre hat, zsibbadást és fájdalmat okozva az alany egyik végtagjában, például az ujjakban, lábujjakban, fenékben, orrban és fülekben stb. A varázshasználónak vagy meg kell érintenie egy adott végtagot, vagy véletlenszerűen dobnia, ha hatótávra varázsolja. Ha az áldozat nem áll ellen, az érintett terület érzékszervi zsibbadást, majd az Időtartam alatt folyamatos fájdalmat szenved el, ami az adott helyet igénylő képességteszteket egy Nehézségi Fokozattal nehezebbé teszi. A fagyás nem okoz közvetlen sebzést, de az érintett területet egy ideig korlátozottan használhatóvá teszi. Például, aki a fenekén szenved el fagyást, az nem tud leülni anélkül, hogy ne érezne rendkívüli kényelmetlenséget.
 
-A Nagy lények (SIZ 21-40) kevésbé érzékenyek erre a varázslatra, az ellenállási dobásuk Könnyű, míg az Óriási lények (SIZ 41+) ellenállási dobása Nagyon Könnyű.
+A nagy méretű lények (MÉR 21-40) kevésbé fogékonyak erre a varázslatra, az Ellenállás dobás Könnyű, a hatalmas lények (MÉR 41+) esetében pedig Nagyon Könnyű.
 
 ---
-#### Esetlenkedés (Fumble)
+#### Ügyetlenség
 
-(Igézés (Bűbáj))
+(Bűbáj (Bűbáj))
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** 1 kör/Intenzitás |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 30 láb/Intenzitás |
-| **Terület:** 10 láb sugarú | **Ellenállás:** Akaraterő |
+| **Rang:** Mágus 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 1 Kör/Intenzitás |
+| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 9 m/Intenzitás |
+| **Terület:** 3 m (10 láb) sugár | **Ellenállás:** HAT |
 
-Ez a varázslat azt okozza, hogy a Hatásterületen belüli összes ellenfél ügyetlenné válik, minden fizikai képességdobás egy fokozattal nehezebbé válik, és minden kudarc Balsikert (Fumble) okoz. Még az olyan fizikai tevékenységek is, amelyek általában nem igényelnek képességdobást, mint például az elejtett tárgy felvétele, a sétánál gyorsabb mozgás vagy a lépcsőzés, Atlétika képességdobást igényelnek. Az ebben az esetben tapasztalt kudarc Balsikert okoz, és általában kínos esést eredményez mozgás esetén, vagy egy tárgy véletlen tovább rúgását a felvétel közben. A Játékmester legyen kreatív a Balsiker eredményeivel; azonban kevés legyen outright halálos nem harci helyzetekben. Harcban azonban a Balsiker a szokásos módon kezelendő, és Különleges Hatásokat (Special Effects) eredményezhet.
+Ez a varázslat hatására a hatóterületen belüli összes ellenfél ügyetlenné válik: minden fizikai képességpróba egy fokozattal nehezebbé válik, és minden sikertelen dobás Ügyetlenséghez (Fumble) vezet. Még azok a fizikai cselekvések is, amelyek általában nem igényelnek képességpróbát – például egy leejtett tárgy felemelése, sétánál gyorsabb mozgás vagy lépcsőn mászás –, Atlétika képességpróbát igényelnek. Az ilyen esetekben bekövetkező hiba Ügyetlenséget eredményez, ami mozgás közben tipikusan kínos eséshez, vagy egy tárgy megkísérelt felvétele közben annak véletlen tovább rúgásához vezet. A Játékmester legyen kreatív az Ügyetlenség dobás eredményeinek meghatározásában; azonban nem harci helyzetben egyik sem lehet közvetlenül halálos. Harcban azonban az Ügyetlenséget minden más hiba szerint kell kezelni, és a szokásos módon Különleges Hatásokat eredményezhet.
 
-A sikeres Ellenállás-dobás lehetővé teszi az áldozatnak, hogy elkerülje a varázslat hatásait a jelenlegi körben; azonban ha az áldozat a következő körben is a Hatásterületen marad, újra meg kell tennie az Ellenállás-dobást. Az eredeti támadó szövetségeseinek is távol kell maradniuk a Hatásterületről, vagy ugyanazokat a korlátozásokat kell elszenvedniük, mint ellenfeleiknek.
+Egy sikeres Ellenállás dobás lehetővé teszi az áldozat számára, hogy az adott Körben elkerülje a varázslat hatásait; ha azonban az áldozat a következő Körben is a hatóterületen marad, ismét dobnia kell az Ellenállásra. Az eredeti támadó szövetségeseinek is ki kell kerülniük a hatóterületet, különben ugyanazokat a korlátozásokat szenvedik el, mint ellenfeleik.
 
-Ez a varázslat egy adott lényre is irányítható, aki a varázslat egész Időtartama alatt elszenvedi a hatásokat egy sikertelen Ellenállás-dobás esetén. Ily módon alkalmazva az Esetlenkedés nem hoz létre Hatásterületet. Ebben az esetben a sikeres Ellenállás-dobás eredményeként az áldozat a 2. szintű Lassítás (Slow) varázslat hatásait szenvedi el.
+Ez a varázslat egy konkrét lényre is irányítható, aki sikertelen Ellenállás dobás esetén a varázslat teljes Időtartama alatt szenvedi el a hatásokat. Így elmondva az Ügyetlenség nem hoz létre hatóterületet. Ebben az esetben a sikeres Ellenállás dobás azt eredményezi, hogy az áldozat a 2. rangú varázslat, a Lassítás hatásait szenvedi el.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 kör; 30 láb hatótáv |
-| 2 | 4 | 2 kör; 60 láb hatótáv |
-| 3 | 5 | 3 kör; 90 láb hatótáv |
-| 4 | 6 | 4 kör; 120 láb hatótáv |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 1 Kör; 9 m hatótáv |
+| 2 | 4 | 2 Kör; 18 m hatótáv |
+| 3 | 5 | 3 Kör; 27 m hatótáv |
+| 4 | 6 | 4 Kör; 36 m hatótáv |
+| +1 | +1 | Folyamatos növekedés |
 
 ---
-#### Kapu (Gate)
+#### Kapu
 
-(Megidézés)
+(Idézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 5, Mágus 5 | **Időtartam:** 2 kör |
-| **Szféra:** Megidézés | **Hatástartam:** Lásd alább |
-| **Költség:** 3 +1/Intenzitás, +3 EXP | **Hatótáv:** 100 láb |
-| **Terület:** Lásd alább | **Ellenállás:** Akaraterő |
+| **Rang:** Pap 5, Mágus 5 | **Varázslási idő:** 2 Kör |
+| **Szféra:** Idézés | **Időtartam:** Lásd lentebb |
+| **Költség:** 3 +1/Intenzitás, +3 TP | **Hatótáv:** 30 m (100 láb) |
+| **Terület:** Lásd lentebb | **Ellenállás:** HAT |
 
-A Kapu varázslat végrehajtása megköveteli, hogy a varázsló ismerje a megidézendő entitás valódi nevét, amely általában egy lény a létezés egyéb síkjairól, például egy démon, ördög, angyal, félisten vagy akár egy isten. Amikor sikeresen végrehajtják, egy portál nyílik a varázsló síkja és az entitás síkja között. A varázslat végrehajtása automatikusan elnyeri az entitás figyelmét, függetlenül attól, hogy sikeres volt-e vagy sem. Ez a varázslat mérhetetlenül erős és kimerítő, nemcsak a megjelölt 3 Mágia-pont és 3 Tapasztalati Dobás költségét rója a varázslóra, hanem 5%-kal meg is öregíti (ember varázsló esetén 5 évvel). Ha az entitás átmegy az Ellenállás-dobáson, általában nem veszi a fáradságot, hogy személyesen megjelenjen, azonban, feltéve, hogy a varázslat sikeres, "valami" át fog jönni. Az alábbi táblázat néhány gyakori entitás, átlagos Akaraterejük és azok a tipikus szolgák meghatározására szolgál, akiket a helyükre küldenének. A Játékmester szabadon választhat a kampány természetéhez legjobban illőt.
+A Kapu varázslásához a varázshasználónak ismernie kell az idézendő entitás valódi nevét, amely általában egy másik síkról származó lény, például démon vagy ördög, angyal, félisten vagy akár egy isten. Sikeres varázslat esetén portál nyílik a varázshasználó síkja és az entitás síkja között. A varázslat elmondása automatikusan felhívja az entitás figyelmét, függetlenül attól, hogy sikeres volt-e vagy sem. Ez a varázslat rendkívül erőteljes és kimerítő: a varázshasználónak nemcsak a megadott 3 Mágia pontjába és 3 Tapasztalati Dobásába kerül, hanem 5%-kal öregíti is az átlagos élettartamából (egy ember varázshasználó esetében 5 évvel). Ha az entitás sikeresen teljesíti a HAT Ellenállás dobást, általában nem veszi a fáradságot, hogy személyesen jöjjön el, de feltéve, hogy a varázslat sikeres, „valami” át fog jönni. Az alábbi táblázat néhány gyakori entitás, átlagos HAT-juk, és a helyettük küldött tipikus szolgák meghatározására szolgál. A Játékmester szabadon választhat az aktuális kampány természetének megfelelően.
 
-##### Síkbeli entitás táblázat
+##### Síkokon túli entitások táblázata
 
-| Intenzitás | Költség | Változó hatás | Akaraterő |
+| Intenzitás | Költség | Változó hatás | HAT |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | Al-démon vagy Al-ördög | Entitásonként |
-| 2 | 4 | Kisebb démon vagy ördög | Entitásonként |
-| 3 | 5 | Alacsonyrendű démon vagy ördög | Entitásonként |
-| 4 | 6 | Magasabbrendű démon vagy ördög | Entitásonként |
-| 5 | 7 | Démon/Ördög Herceg vagy Herceg, Arkangyal, vagy Félisten | 121-140% |
-| 6 | 8 | Démonúr, Főördög, vagy Alacsonyrendű Istenség | 141-160% |
-| 7 | 9 | Magasabbrendű Istenség | 161-180% |
+| 1 | 3 | Al-démon vagy Al-ördög | Entitásonként változó |
+| 2 | 4 | Kisebb démon vagy ördög | Entitásonként változó |
+| 3 | 5 | Alacsonyabb rendű démon vagy ördög | Entitásonként változó |
+| 4 | 6 | Nagyobb démon vagy ördög | Entitásonként változó |
+| 5 | 7 | Démon/Ördög Herceg vagy Herceg, Főangyal vagy Félisten | 121-140% |
+| 6 | 8 | Démon Úr, Főördög vagy Kisebb Istenség | 141-160% |
+| 7 | 9 | Nagyobb Istenség | 161-180% |
 | 8 | 10 | Uralkodó Istenség | 181% + |
 
-A válasz formája nagyban függ az entitástól, mindkét fél Jellemétől és a kérés részleteitől. Ha az entitás úgy véli, hogy a megzavarás okai kicsinyesek vagy jelentéktelenek, válaszuk bármi lehet az egyszerű távozástól a nyílt támadásig. Azonban egy kétségbeesett helyzet, különösen akkor, ha a varázslót egy olyan dolog fenyegeti, amelyet az entitás erősen ellenez, valószínűleg kedvezőbb választ eredményez. Ha a Játékmester úgy érzi, hogy szürke terület van, és a válasz kérdéses, a varázsló és szövetségesei megkísérelhetik megvitatni ügyüket a képesség, hízelgés, könyörgés és/vagy vesztegetés kombinációjával. Azonban a legtöbb entitás elkerüli a nála egyenlő vagy nagyobb hatalommal rendelkező másokkal való konfliktust, és sokan követelnek fizetséget, a tett előtt vagy után. A kapu addig marad nyitva, amíg az entitás úgy dönt, hogy az oldalon marad, és bezárul mögötte, amikor úgy dönt, hogy elmegy. Ezalatt lehetséges, hogy a kaput mások is átlépjék, kétirányú utazást kínálva mindkét valóság között.
+A válasz formája nagyban függ az adott entitástól, mindkét fél Igazodásától és a kérés részleteitől. Ha az entitás úgy ítéli meg, hogy a megszakítás okai kicsinyesek vagy jelentéktelenek, a válasza bármi lehet az egyszerű távozástól a nyílt támadásig. Azonban egy kétségbeesett helyzet, különösen akkor, ha a varázshasználót olyasvalami fenyegeti, amit az entitás erősen ellenez, valószínűleg kedvezőbb fogadtatásra talál. Ha a Játékmester szürke területet lát, és a válasz kérdéses, a varázshasználó és szövetségesei megkísérelhetik érvényesíteni az ügyüket képesség, hízelgés, könyörgés és/vagy megvesztegetés kombinációjával. A legtöbb entitás azonban elkerüli, hogy egyenlő vagy nagyobb erejűekkel keveredjen konfliktusba, és sokan fizetséget követelnek, akár a cselekedet előtt, akár utána. A kapu addig marad nyitva, amíg az entitás úgy dönt, hogy ezen az oldalon marad, és bezárul mögöttük, amikor távoznak. Ez idő alatt a kapun mások is átkelhetnek, kétirányú utazást biztosítva a két valóság között.
 
 ---
-#### Bűbáj (R) (Glamour)
+#### Bűbáj \(R\)
 
-(Igézés (Bűbáj))
+(Bűbáj (Bűbáj))
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Koncentráció |
-| **Költség:** 1 | **Hatótáv:** 60 láb |
-| **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
+| **Rang:** Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Koncentráció |
+| **Költség:** 1 | **Hatótáv:** 18 m (60 láb) |
+| **Terület:** 1 Célpont | **Ellenállás:** HAT |
 
-A Bűbáj vonzóvá teszi a célpontot, így az emberek természetes módon vonzódnak hozzá. A bűbáj természetét a varázslat végrehajtásakor kell kiválasztani, és bármi lehet a fokozott természetes szépségtől kezdve, a lágyabb, szexisebb hangon át, egészen a csábítóan illatosított test illatáig. Bár a varázslat nem nyújt mechanikai előnyöket, biztosítja, hogy a címzett esélyt kapjon arra, hogy közönséget gyűjtsön maga köré, felkeltse valaki olyan figyelmét, akivel kapcsolatba kíván lépni, vagy elterelje a figyelmet, lehetővé téve bűntársai számára a gonosz tettek végrehajtását.
+A Bűbáj csábítóvá teszi a célpontot, így az emberek természetes módon vonzódnak hozzá. A bűbáj természetét a varázsláskor kell kiválasztani, és bármi lehet a megnövelt természetes szépségtől, a lágyabb, érzékibb hangon át, az elcsábítóan illatos testillatig. Bár a varázslat nem ad mechanikai előnyöket, biztosítja, hogy az alany esélyt kapjon arra, hogy közönséget gyűjtsön, felhívja magára valaki figyelmét, akivel kapcsolatba kíván lépni, vagy elterelje a figyelmet, lehetővé téve társai számára a gonosz tettek végrehajtását.
 
-Megfordítva, a Visszataszítás (Repugnance) elcsavarja a célpont küllemét úgy, hogy visszatetszést keltsen mindenkiben, aki látja, hallja vagy érzi őket. A hatást a varázslatkor kell kiválasztani, és bármi lehet egy hatalmas szemölcs az orr hegyén, egy magas, nazális hang vagy akár szúrós testszag. Bármit is választanak, az arra készteti az embereket, hogy elforduljanak az áldozattól, vagy kifogásokat keressenek, hogy a lehető leggyorsabban távozzanak a jelenlétéből.
+Megfordítva, az Ellenszenv eltorzítja a célpont megjelenését, így undort vált ki mindenkiben, aki látja, hallja vagy szagolja őket. A hatást a varázsláskor kell kiválasztani, és bármi lehet az orrhegyen lévő hatalmas szemölcstől, a magas, nazális hangon át az átható testszagig. Bármit is választanak, az emberek elfordulnak az áldozattól, vagy kifogásokat keresnek, hogy a lehető leggyorsabban elhagyják a jelenlétét.
 
----
-#### Ragasztó (Glue)
+---#### Ragasztás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 24 óra |
+| **Szint:** Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 24 óra |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 2 tárgy vagy 1 törött tárgy | **Ellenállás:** N/A |
 
-A Ragasztó a varázslat Időtartamára összecementál két szilárd, élettelen tárgyat, például egy szekérkereket a tengelyéhez, vagy egy ajtót a keretéhez. Míg a varázslat hatása alatt állnak, a tárgyakat, bármennyire eltérőek is, nem lehet elválasztani, hacsak valami aktívan meg nem kísérli azokat szétszedni. Ebben a körülményben a varázslatnak a varázsló POW x 5-ével egyenlő Brawn képessége van, és akkor vall kudarcot, amikor egy felette álló Brawn lép fel ellene, legyőzve azt egy Ellenállási dobásban. Miután a varázslat befejeződik vagy meghiúsul, a tárgyak elválnak, teljesen sértetlenül.
+A Ragasztás két szilárd, élettelen tárgyat cementál össze a varázslat időtartama alatt, például egy szekérkereket a tengelyéhez, vagy egy ajtót a tokjához. Amíg a varázslat hatása alatt állnak, a tárgyak – bármennyire is különböznek – nem választhatók szét, hacsak valaki aktívan meg nem próbálja őket szétszakítani. Ilyen körülmények között a varázslat Erő képzettsége a varázsló HAT értékének ötszöröse, és abban az esetben bukik el, ha nagyobb Erővel szegülnek szembe vele, legyőzve azt egy Összevetett Dobásban. Amint a varázslat lejár vagy elbukik, a tárgyak sértetlenül szétválnak.
 
 ---
-#### Sietség (Haste)
+#### Gyorsítás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** 3 kör/Intenzitás |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 180 láb |
-| **Terület:** 20 láb sugarú, 1 célpont/Intenzitás | **Ellenállás:** N/A |
+| **Szint:** Mágus 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 3 kör/Intenzitás |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 180 láb |
+| **Terület:** 20 láb sugarú kör, 1 célpont/Intenzitás | **Ellenállás:** N/A |
 
-Egy személy vagy lény (beleértve magát is) Intenzitásonként a varázslat Hatásterületén belül dupla Mozgási Rátát kap, és +4 bónuszt az Iniciatívához a varázslat Időtartamára. Emellett a célpont körönként 2 Akciót választhat minden elköltött Akciópontért. Ez semmilyen módon nem növeli a varázslási sebességet vagy a varázslat Időtartamát. Ezért a Sietség hatása alatt álló varázsló nem varázsol gyorsabban, és nem élvezi az extra Akció előnyeit abban a körben, amikor varázsol. Az alany felgyorsult anyagcseréje miatt a varázslat minden végrehajtása 1%-kal öregíti a célpontot a várható élettartamához képest, Időtartamtól függetlenül. Emberek esetében ez körülbelül 1 évet jelent. Lásd az [Öregedés](0007_Game_System.md?id=aging) szabályait a demi-humán fajok átlagos várható élettartamáról. A Sietség végrehajtása semlegesíti a Lassítás (Slow) hatásait, és ebben az esetben nem öregíti az egyént. A Sietség nem halmozódik önmagával vagy hasonló mágikus hatásokkal.
+A varázslat hatóterületén belül minden Intenzitásonként egy személy vagy lény (beleértve az alanyt is) megkapja a normál Mozgási Sebesség dupláját, és +4 bónuszt kap a Kezdeményezéshez a varázslat időtartama alatt. Ezenkívül a célpont minden felhasznált Akciópontért 2 Akciót választhat körönként. Ez semmilyen módon nem növeli a varázslás sebességét vagy a varázslat időtartamát. Ezért a Gyorsítás hatása alatt álló varázsló nem varázsol gyorsabban, és nem részesül az extra Akcióból ugyanabban a körben, amelyben varázsol. A alany felgyorsult anyagcseréje miatt a varázslat minden elsütése az alanyt a normál várható élettartamának 1%-ával öregíti, az időtartamtól függetlenül. Emberek esetében ez körülbelül 1 évet jelent. Lásd az [Öregedés](0007_Game_System.md?id=aging) szabályokat a fél-emberi fajok átlagos várható élettartamáról. A Gyorsítás elvarázsolása megszünteti a Lassítás hatásait, ebben az esetben nem öregíti az egyént. A Gyorsítás nem halmozódik önmagával vagy hasonló mágikus hatásokkal.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
@@ -1410,37 +1404,37 @@ Egy személy vagy lény (beleértve magát is) Intenzitásonként a varázslat H
 | 2 | 4 | 6 kör; 2 célpont |
 | 3 | 5 | 9 kör; 3 célpont |
 | 4 | 6 | 12 kör; 4 célpont |
-| +1 | +1 | Fejlődés folytatása |
+| +1 | +1 | Folyamatos növekmény |
 
 ---
-#### Gyógyítás (Heal) (R)
+#### Gyógyítás (F)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 4 | **Időtartam:** 1 perc |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
-| **Költség:** 3 +1/Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 lény | **Ellenállás:** N/A (Kitartás vagy Kikerülés) |
+| **Szint:** Klerikus 4 | **Varázslási idő:** 1 perc |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
+| **Költség:** 3 + 1/Intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 lény | **Ellenállás:** N/A (Állóképesség vagy Kitérés) |
 
-A Gyógyítás végrehajtásával a pap egyetlen érintéssel meggyógyíthat egy fizikai kórságot, mentális traumát vagy jelentős mennyiségű sérülést. Ennek a felépülésnek a tényleges mértéke a varázslat Intenzitásán alapul, az alábbiak szerint. Minden Intenzitási szintért a varázslat meggyógyítja az alanyt egy bármilyen POT-ú betegségből, meggyógyít bármilyen vakságot vagy süketséget, semlegesít egy sérülés vagy mágia okozta mentális rendellenességet, vagy meggyógyít egyetlen Testtájat akár 12 pontnyi sérülésből. Azonban nem állítja helyre a leszakadt végtagot, mivel az a Regeneráció varázslatot igényel. Minden további Intenzitás használható egy másik kórság gyógyítására vagy egy másik Testtáj meggyógyítására. Ezért 7-es Intenzitáson kellene varázsolni, hogy meggyógyítsunk egy olyan egyént, aki az egész testén égési sérüléseket szenvedett. Ellentétben a kisebb gyógyító varázslatokkal, amelyek korlátozzák hatékonyságukat a hosszú távú sérülésekkel szemben, a varázslatnak nincsenek határai arra vonatkozóan, hogy az alany mennyi ideig szenvedett a sérülés hatásaitól.
+A Gyógyítás elvarázsolásával a klerikus képes meggyógyítani egy fizikai bajt, mentális traumát vagy jelentős mennyiségű sérülést egyetlen érintéssel. A gyógyulás tényleges mértéke a varázslat Intenzitásán alapul, az alábbiak szerint: Minden egyes Intenzitás-szinttel a varázslat meggyógyítja az alanyt egy tetszőleges POT értékű betegségből, meggyógyít minden vakságot vagy süketséget, megszüntet egy sérülés vagy mágia okozta mentális zavart, vagy meggyógyít egyetlen Testrészt (Hit Location) akár 12 pontnyi sérülésből. Azonban nem állítja helyre az elvesztett végtagot, mivel ehhez a Regeneráció varázslat szükséges. Minden további Intenzitás felhasználható egy újabb baj vagy egy további Testrész meggyógyítására. Ezért 7-es Intenzitású varázslatra lenne szükség egy olyan személy meggyógyításához, aki egész testére kiterjedő égési sérüléseket szenvedett. Ellentétben a kisebb gyógyító varázslatokkal, amelyek korlátozzák hatékonyságukat a hosszú távú sérülésekkel szemben, ennél a varázslatnál nincsenek korlátok az alany sérülésének időtartamát illetően.
 
-Megfordítva, a Megnyomorítás (Harm) 12 pont mágikus sérülést okoz az áldozat egyik Testtáján egy sikertelen ellenállási dobás esetén. Alternatívaként egy kórság idéződik elő, amelynek hatásai megegyeznek a Betegség okozása varázslatával, de +20 POT-tal. A varázsló Csatornázás dobása működik az ellenfél elleni támadó dobásként, és a varázslat szomatikus követelményének részét képezi. Nincs szükség további támadó dobásra. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést, és teljesen blokkolják az előidézett kórságokat. A varázslat egyik változata sincs hatással az élőholtakra, a csak vassal, ezüsttel vagy mágikus fegyverekkel sebezhető lényekre, vagy a nem testi lényekre.
+Megfordítva (Ártalom), 12 pontnyi mágikus sérülést okoz az áldozat egyik Testrészén, ha az ellenállásra dobott dobás sikertelen. Alternatív megoldásként egy betegség idézhető elő rajta, amelynek hatásai megegyeznek a Betegség Okozása (a Betegség Gyógyítása fordítottja) varázslatéval, de +20 POT értékkel. A varázsló Csatornázás (Channel) dobása szolgál a támadásra vonatkozó dobásként, és a varázslat szomatikus követelményének részét képezi. Nincs szükség további támadó dobásra. Sem a viselt, sem a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok normálisan csökkentik a sebzést, és teljesen blokkolják a kiváltott betegségeket. Minden további Intenzitás az elsővel szomszédos további Testrészt érinti, a kezdeti Ellenállás-dobás által meghatározott hatásokkal. A varázslat egyik változata sincs hatással az élőholtakra, a csak vas, ezüst vagy mágikus fegyverekkel sebezhető lényekre, vagy a nem testies lényekre.
 
 ---
-#### Tartás (Hold Person)
+#### Személy Megkötése
 
-(Igézés (Bűbáj))
+(Bájolás (Bűvölet))
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2, Mágus 2 | **Időtartam:** 2 akció |
-| **Szféra:** Bűbáj | **Hatástartam:** 2 kör/Intenzitás |
-| **Költség:** 3+1/további Intenzitás | **Hatótáv:** 360 láb |
-| **Terület:** 20 láb sugarú | **Ellenállás:** Akaraterő |
+| **Szint:** Klerikus 2, Mágus 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Bűvölet | **Időtartam:** 2 kör/Intenzitás |
+| **Költség:** 3 + 1/további Intenzitás | **Hatótáv:** 360 láb |
+| **Terület:** 20 láb sugarú kör | **Ellenállás:** Akaraterő |
 
-Ez a varázslat lehetővé teszi a varázsló számára, hogy 1 humanoid lényt (Intenzitásonként) mozgásképtelenné tegyen a Hatásterületen belül. A sikeres ellenállási dobás teljesen semlegesíti a varázslat hatásait csak az adott célpontra nézve. A Nagy humanoidok (SIZ 21-40) kevésbé érzékenyek a Tartásra, az ellenállási dobásuk Könnyű, míg az Óriási humanoidok (SIZ 41+) ellenállási dobása Nagyon Könnyű. A tartott lények teljesen védtelenek, és semmi sem oldja fel őket idő előtt, kivéve a Mágiaoszlatást.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy a hatóterületen belül Intenzitásonként 1 humanoid lényt megbénítson. A sikeres ellenállás-dobás teljesen semlegesíti a varázslat hatását az adott célpontra nézve. A nagy humanoidok (MÉR 21-40) kevésbé érzékenyek a Személy Megkötésére; az ő Ellenállás-dobásuk Könnyű, míg az óriási humanoidoké (MÉR 41+) Nagyon Könnyű. A megbénított lények teljesen védtelenek, és a Mágia Eloszlatása (Dispel Magic) varázslaton kívül semmi nem szabadítja fel őket idő előtt.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
@@ -1448,56 +1442,56 @@ Ez a varázslat lehetővé teszi a varázsló számára, hogy 1 humanoid lényt 
 | 2 | 4 | 4 kör; 2 célpont |
 | 3 | 5 | 6 kör; 3 célpont |
 | 4 | 6 | 8 kör; 4 célpont |
-| +1 | +1 | Fejlődés folytatása |
+| +1 | +1 | Folyamatos növekmény |
 
 ---
-#### Szent Ige (R) (Holy Word)
+#### Szent Ige (F)
 
 (Megidézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 5 | **Időtartam:** 1 akció |
-| **Szféra:** Harc | **Hatástartam:** Lásd alább |
-| **Költség:** 3, +1 EXP | **Hatótáv:** 0 |
-| **Terület:** 30 láb sugarú | **Ellenállás:** N/A |
+| **Szint:** Klerikus 5 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Harc | **Időtartam:** Lásd alább |
+| **Költség:** 3, +1 tapasztalati pont (EXP) | **Hatótáv:** 0 |
+| **Terület:** 30 láb sugarú kör | **Ellenállás:** N/A |
 
-Amikor ezt a varázslatot végrehajtják, a pap kimond egy hihetetlen isteni erejű szót, amely képes elűzni a gonosz entitásokat más létsíkokról; azonban a varázslónak ehhez a saját síkján kell lennie. Az érintett lényeket visszaküldik eredeti síkjukra, és legalább 24 óráig nem térhetnek vissza a varázsló síkjára.
+Amikor ez a varázslat elhangzik, a klerikus hihetetlen isteni erővel bíró szót mond ki, amely képes elűzni a gonosz entitásokat más létsíkokról; azonban a varázslónak ehhez a saját síkján kell tartózkodnia. Az érintett lények visszakerülnek saját származási síkjukra, és legalább 24 óráig nem térhetnek vissza a varázsló síkjára.
 
-Ezenkívül a Gonosz Jellemű, nem síkbeli lények további hatásokat szenvednek el, az entitás Rangjától vagy SIZ-jétől függően, attól függően, melyik ad előnyösebb eredményt, az alábbi táblázat részletei szerint.
+Ezenkívül a Gonosz jellemű, nem síkbeli lények további hatásokat szenvednek el, a lény Szintjétől vagy MÉR értékétől függően – amelyik kedvezőbb eredményt ad –, az alábbi táblázat részletei szerint.
 
-| Célpont Rang | Célpont SIZ | Általános | Képesség\*\* | Mozgás |
+| Célpont Szintje | Célpont MÉR | Általános | Képzettség\*\* | Mozgás |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | Megöli | - | - |
-| 2 | 21-40 | Megbénítja 1d4 x10 percre | - | - |
+| 2 | 21-40 | Megbénítja 1d4 x 10 percig | - | - |
 | 3 | 41-60 | Lassítja 2d4 körig \*\*\* | Nehéz | ½ |
-| 4-5 | 61+ | Süketíti 1d4 körig | Félelmetes | ¼ |
+| 4-5 | 61+ | Megsüketíti 1d4 körig | Félelmetes | ¼ |
 
 *\* Ez a kategória magában foglalja azokat a karaktereket is, akik nem rendelkeznek osztállyal.*
 
-*\*\* Minden képesség, beleértve a harcot, Ellenállás-dobásokat és varázslást.*
+*\*\* Minden képzettség, beleértve a harcot, az Ellenállás-dobásokat és a varázslást.*
 
 *\*\*\* A 2. szintű Arkán varázslat, a [Lassítás](0010_Spells.md?id=slow) szerint.*
 
-Azok a lények, amelyeket korábban süketítettek, vagy egyébként képtelenek hallani a varázslatot, nem érintettek a táblázatban részletezett hatásokkal, azonban az egyéb síkbeli entitások továbbra is elűzetnek, ahogy fentebb részleteztük.
+Azokat a lényeket, akik korábban megsüketültek, vagy más módon nem képesek hallani a varázslatot, a táblázatban részletezett hatások nem érintik, azonban más síkbeli entitásokra a fentiek az irányadóak.
 
-Megfordítva, az Átok Ige (Unholy Word) a fentiek szerint működik, azonban csak a Jó Jellemű lényekre vonatkozóan.
+Megfordítva (Átok Ige), az Átok Ige a fentiek szerint működik, azonban csak a Jó jellemű lények vonatkozásában.
 
 ---
-#### Jégvihar (Ice Storm)
+#### Jégvihar
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Lásd alább |
+| **Szint:** Mágus 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Lásd alább |
 | **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 30 láb/Intenzitás |
 | **Terület:** Lásd alább | **Ellenállás:** Lásd alább |
 
-A Jégviharnak két hatása van, amelyek közül a varázslatkor lehet választani:
+A Jégviharnak két hatása van, amelyek közül varázsláskor kell választani:
 
-Jégeső (Időtartam: Azonnali): A varázslat ezen változata nagy jégesőket idéz, amelyek 60 láb sugarú területen hullanak. Azok, akik a területre kerülnek, 2 Intenzitási pontonként 1d10 pont sebzést kapnak. Minden sebzéskockát külön-külön dobnak, és véletlenszerű Testtájakra alkalmazzák. A tüzet használó lények +3 sebzést kapnak minden jégeső-becsapódástól, a hideget használó lények pedig feleakkora sebzést. A viselt páncél csak fél védelmet nyújt, de a lény természetes páncélja (vagy mágikus Páncélpontjai) a szokásos módon csökkenti a sebzést. A Kikerülés (Evade) dobás, amely során a karakter hasra vágódik, csak akkor hatásos, ha 5 lábon belül van fedezék vagy a Hatásterület széle. Egyébként lehetetlen elkerülni a sebzést. A sikeres Kikerülés lehetővé teszi az áldozatnak, hogy minden dobás sebzésének felét szenvedje el. A Művész Szökő (Artful Dodger) képességgel rendelkezőknek lehetőségük van hasra vágódás nélkül Kikerülni, és ha 5 lábon belül vannak fedezéknek vagy a Hatásterület szélének, sikeres dobás esetén nem szenvednek sebzést, különben a szokásos módon sebződnek.
+Jégeső (Időtartam: Azonnali): A varázslat ezen változata nagy jégdarabokat zúdít le egy 60 láb sugarú területre. Azok, akik a területen rekednek, 1d10 pont sebzést szenvednek minden 2 Intenzitás-pontért vagy annak töredékéért. Minden sebzéskockát külön dobnak, és a találatok véletlenszerű Testrészekre alkalmazandók. A tüzet használó lények +3 sebzést szenvednek minden jégcsap-találattól, a hideget használó lények pedig fele sebzést kapnak. A viselt páncél csak fele védelmet nyújt, de a lény természetes páncélja (vagy mágikus páncélpontjai) a szokásos módon csökkenti a sebzést. A Kitérés dobás (földre vetődés) csak akkor hatékony, ha 5 lábon belül van fedezék, vagy a hatóterület szélén tartózkodik a karakter. Ellenkező esetben a sebzést lehetetlen elkerülni. A sikeres Kitérés lehetővé teszi az áldozat számára, hogy minden dobás sebzésének csak a felét szenvedje el. Az Ügyes Kerülő (Artful Dodger) képességgel rendelkező személy választhatja a földre vetődés nélküli Kitérést; ha 5 lábon belül van fedezék vagy a hatóterület széle, akkor sikeres dobás esetén semmilyen sebzést nem szenved el, egyébként a szokásos módon sérül.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
@@ -1506,240 +1500,257 @@ Jégeső (Időtartam: Azonnali): A varázslat ezen változata nagy jégesőket i
 | 3 | 5 | 90 láb hatótáv; 2d10 sebzés |
 | 4 | 6 | 120 láb hatótáv; 2d10 sebzés |
 | 5 | 7 | 150 láb hatótáv; 3d10 sebzés |
-| +1 | +1 | Fejlődés folytatása |
+| +1 | +1 | Folyamatos növekmény |
 
-Hajtó ónos eső (Időtartam: 1 kör/Intenzitás): A varázslat ezen változata olyan ónos esőt teremt, amely végigsöpör egy 60 láb széles és 120 láb hosszú útvonalon, elvakítva az érintetteket. A tényleges útvonalat a mágikus felhasználó jelölheti ki a varázslatkor. Ezenkívül az érintett területen a talaj eljegesedik, a Mozgási Rátát 50%-kal lassítva, és a repülőket egy Félelmetes Fly képességdobás elmulasztása esetén a földre kényszeríti. A földön lévőknek minden körben sikeres Atlétika dobást kell tenniük, hogy ne vágódjanak hasra, a dobás két fokozattal nehezebb, ha a sétánál gyorsabban mozognak. Az Akrobatika képességgel rendelkező karakter helyettesítheti ezzel a képességgel, ha kívánja. A jég a varázslat Időtartamának lejárta után elolvad, a Játékmester által meghatározott ütemben, a környezeti hőmérséklettől függően; azonban meleg időben is legalább 10 percig tart. A kis tüzek, mint például a tábortüzek és fáklyák, automatikusan eloltódnak. Ez a varázslat semlegesíti a Fém hevítése (Heat Metal) varázslat hatásait.
-
----
-#### Meggyújtás (R) (Ignite)
-
-(Transzmutáció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Elemi (Tűz) | **Hatástartam:** Azonnali |
-| **Költség:** 1 | **Hatótáv:** 10 láb |
-| **Terület:** 1 kis tűz | **Ellenállás:** N/A |
-
-Ez a varázslat két különböző módon alkalmazható: Meggyújtás (Ignite) vagy Oltás (Extinguish). A választást a varázslatkor kell meghozni.
-
-A Meggyújtás csak gyúlékony szervetlen anyagon működik, és egy kis tárgyat vagy tenyérnyi területet lángra lobbant. Attól függően, hogy mi gyulladt meg, az égés továbbterjedhet, hacsak valamilyen módon nem oltják el vagy akadályozzák meg. Ezt a varázslatot általában gyertyák, fáklyák vagy lámpások távolról történő meggyújtására használják. Használható tábortűz vagy főzőtűz meggyújtására is kedvezőtlen körülmények között, például nedves gyújtós használatakor vagy erős szélben.
-
-Az Oltás azonnal eloltja a mérsékelt méretű és hőfokú lángokat és kis tüzeket. Hasznos gyertyák, lámpások, fáklyák vagy kis főzőtüzek eloltására, de nem működik mágikus vagy nagyobb, vadabb tűzvészeken, mint például máglyák, égő házak vagy sárkánylángok.
+Hóvihar (Időtartam: 1 kör/Intenzitás): A varázslat ezen változata egy 60 láb széles és 120 láb hosszú útvonalon átcsapó, vakító havazást hoz létre. Az útvonalat a varázsló jelölheti ki a varázsláskor. Ezenkívül az érintett területen a talaj eljegesedik, 50%-kal csökkentve a Mozgási Sebességet, és földre kényszeríti azokat a repülő lényeket, amelyek elbukják a Félelmetes Repülés képzettség-próbát. A földön tartózkodóknak minden körben sikeres Atlétika-próbát kell tenniük, hogy ellenálljanak a hanyatt esésnek; a próba két fokozattal nehezebb, ha a lény gyorsabban mozog, mint gyaloglás. Az Akrobatika képességgel rendelkező karakter helyettesítheti ezzel a képzettséggel a próbát, ha kívánja. A jég a varázslat időtartamának lejárta után olvad el, a Játékmester által meghatározott ütemben, a környezeti hőmérséklettől függően; azonban még meleg időben is legalább 10 percig megmarad. A kis tüzek, mint a tábortüzek és fáklyák, automatikusan kialszanak. Ez a varázslat semlegesíti a Fémhevítés (Heat Metal) varázslat hatásait.
 
 ---
-#### Illúzió (Illusion)
-
-(Illúzió)
-
-| | |
-| :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Koncentráció; Lásd alább |
-| **Költség:** 1/Intenzitás | **Hatótáv:** 100 láb/Intenzitás |
-| **Terület:** 50 láb sugarú/Intenzitás | **Ellenállás:** Hitetlenkedés |
-
-Ez a varázslat bármiről vizuális illúziót hoz létre, amiről a varázsló kívánja. Más érzékekre nincs hatása, nem ad ki hangot, nem termel szagot, hőmérsékletet vagy textúrát stb.
-
-Ez az illúzió bármi lehet egy nyílt mezőtől egy ősi vörös sárkányig, ha elfér a varázslat Hatásterületén. Az illúzió csak addig tart, amíg a varázsló fenntartja a Koncentrációt, vagy amíg egy ellenfél meg nem érinti vagy be nem lép abba; ezután a mágia felbomlik, és az illúzió eloszlik. A varázsló azonban 1 Mágia-pont elköltésével fenntarthatja az illúziót fizikai érintkezés után is, az érintkezésre megfelelően reagálva, hogy ne keltsen gyanút. Például normál körülmények között az ogre illúziója eltűnne, amikor nyíl éri; azonban a varázsló 1 Mágia-pont elköltésével úgy tüntetheti fel, mintha az ogre megrántaná a vállát a találattól és támadna. Megjegyzendő, hogy a tényleges nyilat nem állítja meg az illúzió, és az még mindig eltalálhat valamit vagy valakit a manifesztáció mögött.
-
-Bár az illúzió nem okoz tényleges sebzést és hőmérsékletet sem hoz létre, az elme meggyőzhető arról, hogy fájdalmat érez, sérülést szenved, vagy szélsőséges meleget vagy hideget tapasztal; azonban a tárgyak nem tűnnek úgy, mintha megfagynának vagy égnének, hacsak a varázsló ezekre a hatásokra is nem koncentrál. A varázslat végrehajtása után további vizuális hatások tetszés szerint hozzáadhatók, a kívánt hatásra koncentrálva. Ez általában nem vesz időt igénybe, és Szabad Akcióként kezelhető.
-
-Lásd az [Illúziók és fantazmagóriák](0009_Magic.md?id=illusions-and-phantasms) fejezetet további információkért.
-
-| Intenzitás | Költség | Változó hatás |
-| :-: | :-: | :-- |
-| 1 | 1 | 50 láb sugarú; 100 láb hatótáv |
-| 2 | 2 | 100 láb sugarú; 200 láb hatótáv |
-| 3 | 3 | 150 láb sugarú; 300 láb hatótáv |
-| 4 | 4 | 200 láb sugarú; 400 láb hatótáv |
-| +1 | +1 | Fejlődés folytatása |
-
----
-#### Láthatatlanság (Invisibility)
-
-(Illúzió)
-
-| | |
-| :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 6 óra/Intenzitás |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
-
-Amikor ezt a varázslatot végrehajtják, az alany és minden hordozott felszerelés eltűnik, láthatatlanná válva minden normál látás számára. Ez azonban nem teszi az egyént észrevehetetlenné más eszközökkel, mint például hallás, érintés, szaglás stb., vagy olyan természetes képességekkel, mint az Életérzékelés vagy Szonár.
-
-A Láthatatlanság hatása alatt állók a varázslat teljes Időtartama alatt láthatatlanok maradnak (max. 24 óra), kivéve, ha támadást hajtanak végre, ebben az esetben a varázslat semlegesítődik, és az egyén *a támadás után* újra megjelenik. A célpont a [Meglepetés](0008_Combat.md?id=surprise) hatása alatt állónak minősül. Egyéb cselekedetek nem befolyásolják negatívan a varázslat Időtartamát, lehetővé téve az alany számára ajtók nyitását, beszélgetést, mászást, futást, zsebtolvajlást stb. Még a varázslás sem zárja le az Időtartamot, hacsak nem érint negatívan egy vagy több konkrét ellenséget harcban. Az imént említett akciók közül sok lehetővé teheti az észlelés egyéb módjait, például egy Perception-dobást annak meghallására, ha valaki elrohan mellettük, vagy egy zsebtolvaj érezésére. A Játékmester büntetéseket vagy bónuszokat oszt ki az észlelést megkísérlőknek aszerint, mennyire észrevehető a cselekvés.
-
----
-#### Láthatatlanság, 10 láb sugarú (Invisibility, 10 ft. Radius)
-
-(Illúzió)
-
-| | |
-| :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** 6 óra/Intenzitás |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont, 10 láb | **Ellenállás:** N/A |
-
-Ez a varázslat azonos módon működik, mint a [Láthatatlanság](0010_Spells.md?id=invisibility) varázslat; azonban minden személy, aki a címzettől (aki lehet a varázsló maga) 10 lábon belül tartózkodik, szintén láthatatlanná válik a varázslat végrehajtásakor. A varázslat hatása alatt állók láthatják egymást; azonban ez nem biztosít képességet más láthatatlan lények látására. Ha bármelyikük kikerül a Hatásterületből, a Láthatatlanság megszűnik, ezért ügyelni kell arra, hogy mindenki az eredeti alany hatótávolságán belül maradjon. Azok, akik a varázslat végrehajtása után lépnek vissza a Hatásterületbe, vagy nem voltak jelen a végrehajtáskor, nem élvezik a hatásait. A Láthatatlanság védelme alatt végrehajtott támadások, beleértve az eredeti alanyon kívül bárki más általi támadó varázslást, az adott személyre vonatkozóan megszüntetik a Láthatatlanságot, de nincs hatással a Hatásterületen belüli más karakterekre. Azonban a varázslat eredeti címzettje általi támadás mindenkit újra láthatóvá tesz. További részletekért lásd az alap [Láthatatlanság](0010_Spells.md?id=invisibility) varázslatot.
-
----
-#### Láthatatlanság, Nagyobb (Greater Invisibility)
-
-(Illúzió)
-
-| | |
-| :-- | :-- |
-| **Szint:** Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** 3 kör/Intenzitás |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
-
-Ez a varázslat az alap [Láthatatlanság](0010_Spells.md?id=invisibility) varázslat szerint működik; azonban az alany részéről végrehajtott egyetlen cselekvés sem szakítja meg az Időtartamot. A célpont közelharci vagy távolsági támadásokat hajthat végre, varázsolhat stb. Megjegyzendő, hogy a cselekvés megtörténtére vizuális nyomok utalnak, például optikai torzulás. Ez lehetővé teszi bárkinek, akinek látótávolsága van az alanyra, hogy egy Félelmetes Észlelés (Perception) dobást hajtson végre a cselekvés után, vagy esetleg előtte, ha a karakter késleltetett, hogy kiderítse a láthatatlan támadó helyzetét. A cselekvés körében azok, akik észlelik a láthatatlan személy helyzetét, egy nehézségi fokkal módosított támadást hajthatnak végre. További részletekért lásd a [Láthatatlanság](0010_Spells.md?id=invisibility) varázslatot.
-
----
-#### Vasszív (Ironhand)
-
-(Abjuráció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 0 | **Időtartam:** 1 akció |
-| **Szféra:** Védelem | **Hatástartam:** 10 perc |
-| **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** Nincs |
-
-A Vasszív lehetővé teszi a címzett számára, hogy bármit megfogjon, ami egyébként sérülést okozna (például rendkívül forró vagy hideg tárgyakat, vagy savtól csöpögőket) anélkül, hogy sérülést okozna neki. Így a használó megfoghat egy parazsat a tűzből, felemelhet egy bugyborékoló üstöt, vagy akár benyúlhat egy gőznyílásba, hogy megragadjon egy tárgyat a túloldalon. A varázslat nem ad teljes immunitást a sebzéssel szemben, csupán megakadályozza annak továbbjutását a címzett kezének bőrén keresztül. A varázslat nem véd meg semmit, amit a kézen viselnek, így a gyűrűk, kesztyűk és hasonlók elszenvedik a forrás hatásait.
-
----
-#### Nyitás (Knock) (R)
-
-(Transzmutáció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Lásd alább |
-| **Költség:** 1/Intenzitás | **Hatótáv:** 180 láb |
-| **Terület:** 1 portál | **Ellenállás:** N/A |
-
-Ez a varázslat használható egy ajtó vagy más hasonló nyílás kinyitására, ha az zárva van, beragadt, Tartva (Held) van, vagy Mágikus zárral (Mage Locked) van ellátva. Nincs hatása rácsra vagy kapura. Az ajtó legfeljebb 25 Életerő ponttal rendelkezhet Intenzitásonként, és magában foglalhat zárt ládákat vagy dobozokat, titkos ajtókat, sőt bilincseket és láncokat is. Még egy korábban összehegesztett nyílás is kiszabadul a kötéseiből. A Nyitás varázslat végrehajtásával két különböző szempont érinthető, például egy ajtó, amely el van reteszelve, zárva és Tartva van, két Nyitás varázslat leadását igényelné. A Mágikus zárral ellátott ajtóknál az Igézés egyszerűen 10 percre felfüggesztésre kerül, majd visszatér mágikusan zárt állapotába.
-
-Megfordítva, a Zár (Lock) bezár és bezár egy portált, feltéve, hogy van reteszelő mechanizmus. Legfeljebb két különböző funkció állítható be: zár, retesz, rúd stb.
-
-| Intenzitás | Költség | Változó hatás |
-| :-: | :-: | :-- |
-| 1 | 1 | 25 Életerő pontú portál; bilincs, lakat, tipikus fa láda vagy ajtó |
-| 2 | 2 | 50 Életerő pontú portál; fa megerősített láda vagy ajtó |
-| 3 | 3 | 75 Életerő pontú portál; vaskaloda vagy ajtó |
-
----
-#### Jellem észlelése (R) (Know Alignment)
+#### Azonosítás
 
 (Jóslás)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1, Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Jóslás | **Hatástartam:** 1 kör/Intenzitás |
+| **Szint:** Mágus 1 | **Varázslási idő:** 1 perc |
+| **Szféra:** Védelem | **Időtartam:** 1 perc/Intenzitás |
+| **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
+| **Terület:** Varázsló | **Ellenállás:** N/A |
+
+Ezen varázslat elvarázsolásával a mágus megkísérelheti azonosítani egy kézben tartott tárgy (ha van ilyen) mágikus tulajdonságait. Pusztán a tárgy megérintése általában nem elég; a tárgyat a rendeltetésének megfelelően kell viselni vagy tartani, pl. a sisakot a fejre kell tenni, az amulettet a nyakba akasztani, a közelharci fegyvert szilárdan fogni, a gyűrűt az ujjra húzni stb. Ha az Arkán Varázslási dobás sikeres, egy kiegészítő Arkán Tudás dobás azonosítja a tárgy egyik mágikus tulajdonságát. Minden percben, amíg az időtartam tart, egy Arkán Tudás kísérlet végezhető. Ha egy tulajdonság aktiváló szót igényel, akkor ez a tulajdonsággal együtt szintén azonosításra kerül. A töltésekkel rendelkező tárgyak felfedik az aktuálisan elérhető mennyiséget a maximális mennyiséggel együtt, csakúgy, mint a Mágia Pont mátrixszal rendelkező tárgyak.
+
+Az átkozott tárgyak általában akkor aktiválódnak, amikor egy felszerelést először vesznek fel vagy használnak; ezért e varázslat elvarázsolása kiteszi a mágust bármely átok hatásának, ha az jelen van. Ha az Arkán Varázslási próbálkozás sikeres, a mágus Akaraterő próbát tehet az átok hatásainak elkerülése érdekében. Ez azonban nem oszlatja el az átkot a tárgyon, de lehetővé teszi a varázsló számára, hogy levegye a tárgyat anélkül, hogy hatással lenne rá.
+
+Legalább 100 arany (GP) értékű gyöngyöt porrá zúznak és a varázslathoz szükséges egyéb világi komponensekkel együtt elhasználnak. Ha egy Szerencsekövet (Luckstone) is porrá zúznak és hozzáadják az infúzióhoz, az Arkán Varázslási dobás nehézsége normális, és a varázslat időtartama alatt percenként kezelt minden egyes tárgy összes mágikus tulajdonsága automatikusan megtanulható, további dobások nélkül.
+
+---
+#### Gyújtás (F)
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Szint:** Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Elemi (Tűz) | **Időtartam:** Azonnali |
+| **Költség:** 1 | **Hatótáv:** 10 láb |
+| **Terület:** 1 kis tűz | **Ellenállás:** N/A |
+
+Ez a varázslat két különböző módon használható: Gyújtásra vagy Oltásra. A választást a varázsláskor kell megtenni.
+
+A Gyújtás csak gyúlékony szervetlen anyagokon működik, lángra lobbantva egy kis tárgyat vagy tenyérnyi területet. Attól függően, hogy mi gyulladt meg, a lángok az égés megkezdése után továbbterjedhetnek, hacsak nem oltják el vagy akadályozzák meg őket valamilyen módon. Ezt a varázslatot általában gyertyák, fáklyák vagy lámpások távolról történő meggyújtására használják. Használható tábortűz vagy főzőtűz meggyújtására kedvezőtlen körülmények között is, például nedves gyújtós használatával vagy erős szélben.
+
+Az Oltás azonnal elfojtja a lángokat és a kis tüzeket mérsékelt méretig és hőig. Hasznos gyertyák, lámpások, fáklyák vagy kis főzőtüzek eloltására, de nem működik mágikus vagy nagyobb, vadabb tűzvészeken, mint például máglyák, égő házak vagy sárkánytűz.
+
+---
+#### Illúzió
+
+(Illúzió)
+
+| | |
+| :-- | :-- |
+| **Szint:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Koncentráció; Lásd alább |
+| **Költség:** 1/Intenzitás | **Hatótáv:** 100 láb/Intenzitás |
+| **Terület:** 50 láb sugarú kör/Intenzitás | **Ellenállás:** Hitetlenség |
+
+Ez a varázslat vizuális illúziót hoz létre mindenről, amit a varázsló kíván. Nincs hatással más érzékszervekre, nem kelt hangot, nem bocsát ki szagot, hőmérsékletet vagy textúrát, és így tovább.
+
+Ez az illúzió bármi lehet egy nyitott mezőtől egy ősi vörös sárkányig, ha belefér a varázslat hatóterületébe. Az illúzió csak addig tart, amíg a varázsló fenntartja a Koncentrációt, vagy amíg egy ellenfél meg nem érinti vagy be nem lép abba; ezt megteve a mágia meglazul és az illúzió eloszlik. A varázsló azonban fenntarthatja az illúziót fizikai érintkezés után is, 1 Mágia Pont elköltésével és annak irányításával, hogy megfelelően reagáljon az érintkezésre, hogy ne keltsen gyanút. Például normál körülmények között az ogre illúziója eltűnne, amikor nyílvessző találja el, de a varázsló megteheti, hogy az ogre vállat von, és rátámad a támadóra, 1 Mágia Pont elköltésével. Meg kell jegyezni, hogy az igazi nyílvesszőt nem állítja meg az illúzió, és továbbra is eltalálhat valamit vagy valakit a manifesztáció mögött.
+
+Bár az illúzió nem okoz tényleges sebzést, és nem jön létre hőmérséklet sem, az elmét meg lehet győzni arról, hogy fájdalmat érez, sérülések hatásait szenvedi el, vagy szélsőséges meleget vagy hideget érez; azonban a tárgyak nem fagynak meg és nem gyulladnak ki, hacsak a varázsló nem koncentrál ezekre a hatásokra is. Miután a varázslatot elvarázsolták, további vizuális effektek adhatók hozzá a mágus által tetszés szerint, a kívánt hatásra koncentrálva. Ez általában nem vesz igénybe időt, és Ingyenes Akcióként kezelhető. Tehát például, ha a varázsló azt akarná, hogy egy eldobott illúzió-fáklya azt a látszatot keltse, hogy a száraz levelek lángra kapnak, a varázsló koncentrálhat Ingyenes Akcióként, hogy ezt elérje.
+
+Lásd az [Illúziók és Fantazmagóriák](0009_Magic.md?id=illusions-and-phantasms) fejezetet további információkért.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 1 | 50 láb sugár; 100 láb hatótáv |
+| 2 | 2 | 100 láb sugár; 200 láb hatótáv |
+| 3 | 3 | 150 láb sugár; 300 láb hatótáv |
+| 4 | 4 | 200 láb sugár; 400 láb hatótáv |
+| +1 | +1 | Folyamatos növekmény |
+
+---
+#### Láthatatlanság
+
+(Illúzió)
+
+| | |
+| :-- | :-- |
+| **Szint:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 6 óra/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** N/A |
+
+Amikor ez a varázslat elvarázsolódik, az alany és minden hordozott felszerelés eltűnik, láthatatlanná válva a normál látás minden formája számára. Ez azonban nem teszi az egyént észrevehetetlenné más eszközökkel, mint például hallás, érintés, szaglás stb., vagy természetes Képességekkel, mint az Életérzék vagy Szonár.
+
+A Láthatatlanság hatása alatt állók a varázslat időtartama alatt (max. 24 óra) végig azok maradnak, hacsak nem oszlatják el a varázslatot, vagy az alany támadást nem hajt végre, ebben az esetben a varázslat megszűnik, és az egyén a támadás _után_ újból megjelenik. A célpont a [Meglepetés](0008_Combat.md?id=surprise) hatása alatt állónak tekintendő. Semmilyen más cselekvés nem befolyásolja negatívan a varázslat időtartamát, lehetővé téve az alany számára, hogy ajtókat nyisson, beszéljen, másszon, fusson, zsebet metsszen és így tovább. Még a varázslatok elvarázsolása sem zárja le az időtartamot, hacsak nem befolyásolják negatívan egy vagy több konkrét ellenséget harc közben. Sok korábban említett cselekvés lehetővé tehet más észlelési módokat, például egy lehetséges Észlelés-dobást az elszaladó valaki meghallására vagy a zsebmetszés érzékelésére. A Játékmester büntetéseket vagy bónuszokat rendel az észlelni próbálókhoz aszerint, mennyire észrevehető a cselekvés.
+
+---
+#### Láthatatlanság, 10 láb sugarú kör
+
+(Illúzió)
+
+| | |
+| :-- | :-- |
+| **Szint:** Mágus 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 6 óra/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont, 10 láb | **Ellenállás:** N/A |
+
+Ez a varázslat azonos módon működik, mint a [Láthatatlanság](0010_Spells.md?id=invisibility) varázslat; azonban a varázslat elsütésekor a címzett 10 lábán belül lévő összes egyén (beleértve magát a varázslót is) szintén láthatatlanná válik. A varázslat hatása alatt állók láthatják egymást; azonban ez nem biztosít képességet más láthatatlan lények látására. Ha valaki kikerül a hatóterületből, Láthatatlansága elvész, ezért ügyelni kell arra, hogy mindenki az eredeti célpont hatótávolságán belül maradjon. Azok, akik visszatérnek a hatóterületre, miután Láthatatlanságuk elveszett, vagy nem voltak jelen a varázslat elsütésekor, nem részesülnek a hatásaiból. A Láthatatlanság védelméből indított támadások, beleértve az eredeti célponton kívüli személy támadó varázslatát, megszakítják a Láthatatlanságot az adott személy számára, de semmilyen hatással nincsenek a hatóterületen belüli többi karakterre. Azonban az eredeti alany támadása mindenkit újra láthatóvá tesz. Lásd az alap [Láthatatlanság](0010_Spells.md?id=invisibility) varázslatot a további részletekért.
+
+---
+#### Láthatatlanság, Nagyobb
+
+(Illúzió)
+
+| | |
+| :-- | :-- |
+| **Szint:** Mágus 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 3 kör/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** N/A |
+
+Ez a varázslat az alap [Láthatatlanság](0010_Spells.md?id=invisibility) varázslat szerint működik; azonban az alany által végrehajtott semmilyen cselekvés nem zárja le az időtartamot korán. A célpont közelharci vagy távolsági támadásokat hajthat végre, varázsolhat stb. Megjegyzendő, hogy a cselekvés megtörténtére látható jelek utalhatnak, mint például vizuális torzulás. Ez lehetővé teszi bárki számára, akinek rálátása van az alanyra, hogy a cselekvés végrehajtása után – vagy esetleg előtte, ha a karakter késlekedik – egy Félelmetes Észlelés-próbát tegyen a láthatatlan támadó helyzetének meghatározására. Egy nehézségi fokozattal nehezebb támadás hajtható végre ugyanabban a körben, amelyben az alany cselekedett, azok által, akik észlelik a láthatatlan személy helyzetét. Lásd a [Láthatatlanság](0010_Spells.md?id=invisibility) varázslatot a további részletekért.
+
+---
+#### Vasököl
+
+(Elhárítás)
+
+| | |
+| :-- | :-- |
+| **Szint:** Klerikus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Védelem | **Időtartam:** 10 perc |
+| **Költség:** 1 | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+
+A Vasököl lehetővé teszi a címzett számára, hogy megfogjon bármit, ami egyébként sebzést okozna (például rendkívül forró vagy hideg tárgyak, vagy savtól csöpögők) anélkül, hogy sérülést okozna neki. Így a használó megragadhat egy üszköt a tűzből, leemelhet egy fortyogó üstöt a nyársról, vagy akár átnyúlhat egy gőzölgő nyíláson, hogy megragadjon egy tárgyat a túloldalon. Nem nyújt teljes immunitást a sebzés ellen, csupán megakadályozza, hogy az átterjedjen a címzett kezének bőrére. A varázslat nem védi a kézen viselt tárgyakat, így a gyűrűk, kesztyűk és hasonlók elszenvedik a forrás hatásait.
+
+---#### Knock (R)
+
+(Transmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 2 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Lásd lentebb |
+| **Költség:** 1/Intenzitás | **Hatótáv:** 180 láb |
+| **Terület:** 1 Átjáró | **Ellenállás:** NA |
+
+Ez a varázslat fa-, kő- vagy fémajtók, illetve hasonló nyílások kinyitására használható, ha azok zárva, beragadva, Tartva vagy Mágikusan Zárva vannak. Nincs hatással a rácsokra vagy kapukra. Az ajtó Intenzitásonként legfeljebb 25 Életerővel rendelkezhet, és a varázslat hatálya kiterjedhet zárt ládákra vagy dobozokra, titkos ajtókra, sőt még bilincsekre és láncokra is. Még a korábban összehegesztett nyílások is kiszakadnak kötéseikből. A Knock varázslat egyetlen elmondásával legfeljebb két különböző záróelemet lehet érinteni; például egy ajtó, amely reteszelve, zárva és Tartva van, 2 Knock varázslat elmondását igényli. Mágikusan Zárt ajtók esetében az Elbűvölés egyszerűen felfüggesztődik 10 percre, majd ezt követően visszatér mágikusan zárt állapotába.
+
+Megfordítva, a Lock bezár és lezár egy átjárót az előbb említett módon, feltéve, hogy van rajta zárószerkezet. Legfeljebb két különböző funkció állítható be: zárás, reteszelés, rögzítés stb.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 1 | legfeljebb 25 ÉE átjáró; bilincsek, lakatok, egy átlagos fa láda vagy ajtó |
+| 2 | 2 | legfeljebb 50 ÉE átjáró; egy megerősített fa láda vagy ajtó |
+| 3 | 3 | legfeljebb 75 ÉE átjáró; egy vas láda vagy ajtó |
+
+---
+#### Know Alignment (R)
+
+(Jövendölés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 1, Mágus 2 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Jövendölés | **Időtartam:** 1 Kör/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 30 láb |
-| **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
+| **Terület:** 1 Célpont | **Ellenállás:** HAT |
 
-Ez a varázslat lehetővé teszi a varázsló számára, hogy megállapítsa egy lény Jellemét és Szenvedélyeit, amely ellenállási dobást tehet. Ha az ellenállási dobás elbukik, a varázsló megjósolja a célpont Etikai Kódexét a Törvény, Semlegesség és Káosz tekintetében. További egy környi koncentráció szükséges a célpont erkölcsi Jellemének megállapításához a Jó, Semleges és Gonosz tekintetében. Minden további kör egy-egy véletlenszerű maradék Szenvedélyt fed fel. A Játékmester a felfedezett Jellem és Szenvedélyek "erősségét" az alábbi táblázat szerint fedi fel:
+Ez a varázslat lehetővé teszi a varázsló számára, hogy egy lény Jellemét és Szenvedélyeit megismerje, a lény pedig dobhat az ellenállásra. Ha az ellenállás próbája elbukik, a varázsló megérzi a célpont Etikai Kódexét a Rend, Semlegesség és Káosz tekintetében. További egy környi koncentráció szükséges a célpont morális Jellemének megismeréséhez a Jó, Semlegesség és Gonosz tekintetében. Minden további kör egy-egy újabb véletlenszerű, még hátralévő Szenvedélyt fed fel. A Játékmester a következő táblázat alapján fedi fel a célpont felfedezett Jellemének és Szenvedélyeinek „erejét”:
 
-**Jellem/Szenvedély erősségi táblázat**
+**Jellem/Szenvedély Erősség Táblázat**
 
 | Százalék | Erősség |
 | :-: | :-- |
 | 01-29% | Gyenge |
 | 30-69% | Átlagos |
 | 70-99% | Erős |
-| 100% + | Nagyon erős |
+| 100% + | Nagyon Erős |
 
-A varázslat megfordítása, a Jellem elrejtése (Obscure Alignment), egy célpont Jellemét és Szenvedélyeit 24 órára olvashatatlanná teszi, még a Jellem észlelése vagy a Gonosz/Jó észlelése varázslatokkal szemben is.
+A varázslat megfordítása, az Obscure Alignment (Jellem elhomályosítása), 24 órára olvashatatlanná teszi a célpont Jellemét és Szenvedélyeit, még a Know Alignment vagy Detect Evil/Good varázslatokkal szemben is.
 
 ---
-#### Nyelvek ismerete (R) (Know Languages)
+#### Know Languages (R)
 
-(Transzmutáció)
+(Transmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 perc |
-| **Szféra:** Nincs | **Hatástartam:** 5 perc/Intenzitás |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Perc |
+| **Szféra:** Nincs | **Időtartam:** 5 Perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 értelmes lény | **Ellenállás:** N/A |
+| **Terület:** 1 Értelmes lény | **Ellenállás:** NA |
 
-Ez a varázslat lehetővé teszi a varázsló számára, hogy megértse és olvassa szinte bármely nem mágikus nyelvet. A nem értelmes állatok vagy lények "beszédét" nem érti meg, csak az értelmes lények valódi nyelveit. A mágikus felhasználónak meg kell érintenie a tárgyat vagy lényt a jelentés megértéséhez. Ez a varázslat nem ad képességet a nyelv beszélésére vagy írására.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy szinte bármilyen nem mágikus nyelvet megértsen és elolvasson. A nem értelmes állatok vagy lények „beszéde” nem érthető, csak az értelmes lények valódi nyelvei. A mágiahasználónak meg kell érintenie a tárgyat vagy lényt a jelentés megértéséhez. Ez a varázslat nem ad képességet a nyelv beszélésére vagy írására.
 
-A varázslat megfordítása, a Nyelvek összezavarása (Confuse Languages), egy lényt érthetetlenné tesz bárki számára, vagy egy írott szöveget megfejthetetlenné. Ez a megfordítás a Nyelvek ismerete varázslat végrehajtás közbeni ellensúlyozására is használható.
+A varázslat megfordítása, a Confuse Languages (Nyelvek összezavarása), érthetetlenné tesz egy lényt mindenki számára, vagy megfejthetetlenné egy írott szöveget. Ez a megfordítás arra is használható, hogy elhárítsa a Know Languages varázslatot, miközben azt éppen mondják.
 
 ---
-#### Lebegés (Levitate)
+#### Levitate
 
-(Transzmutáció)
+(Transmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 10 perc/Intenzitás |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 10 Perc/Intenzitás |
 | **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 60 láb/Intenzitás |
-| **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
+| **Terület:** 1 Célpont | **Ellenállás:** HAT |
 
-Amikor ezt a varázslatot végrehajtják, a mágus kijelölheti magát, egy célpontot, egy lényt vagy egy legfeljebb 20 SIZ-ű (+10 SIZ minden további Intenzitásért) tárgyat, és lebegtetheti az egyént a földről. A varázslón kívüli lény függőlegesen 5 láb/harci kör sebességgel mozgatható; ha önmagára veti, a varázsló körönként 10 lábbal mozoghat függőlegesen. A lebegés nem igényel koncentrációt a varázsló részéről, kivéve a magasság módosításakor. Akaratlan alany esetén a célpont Ellenállás-dobást tehet. Bár a varázslat alanya nem kap vízszintes mozgási képességet, előfordulhat, hogy képes húzódzkodni egy falon vagy sziklán, ha eléri azt. A varázsló tetszés szerint megszüntetheti ezt a varázslatot.
+Amikor ez a varázslat elhangzik, a mágiahasználó kijelölheti önmagát, egy célpontot, lényt vagy tárgyat, legfeljebb 20 MÉR értékben (+10 MÉR minden további Intenzitásért), és felemelheti az egyént a földről. A varázslótól eltérő lényt függőlegesen 5 láb/kör sebességgel lehet mozgatni; ha önmagán alkalmazza, a varázsló körönként 10 láb sebességgel mozoghat függőlegesen. A lebegtetés nem igényel koncentrációt a varázsló részéről, kivéve a magasság módosításakor. Ha nem együttműködő alanyon alkalmazzák, a célpont dobhat az ellenállásra. Bár a varázslat alanya nem kap vízszintes mozgási képességet, képes lehet elhúzni magát egy fal vagy szikla mentén, ha elérhető távolságban van. A varázsló bármikor megszüntetheti a varázslatot.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 perc; 60 láb hatótáv; 20 SIZ |
-| 2 | 4 | 20 perc; 120 láb hatótáv; 30 SIZ |
-| 3 | 5 | 30 perc; 180 láb hatótáv; 40 SIZ |
-| 4 | 6 | 40 perc; 240 láb hatótáv; 50 SIZ |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | 10 perc; 60 láb hatótáv; 20 MÉR |
+| 2 | 4 | 20 perc; 120 láb hatótáv; 30 MÉR |
+| 3 | 5 | 30 perc; 180 láb hatótáv; 40 MÉR |
+| 4 | 6 | 40 perc; 240 láb hatótáv; 50 MÉR |
+| +1 | +1 | Folytatódó növekedés |
 
 ---
-#### Fény (R)\* (Light)
+#### Light (R)*
 
-(Transzmutáció)
+(Transmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1, Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nap | **Hatástartam:** 1 óra/Intenzitás |
+| **Rang:** Pap 1, Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nap | **Időtartam:** 1 Óra/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 180 láb |
-| **Terület:** 20 láb sugarú/Intenzitás | **Ellenállás:** Lásd alább |
+| **Terület:** 20 láb Sugár/Intenzitás | **Ellenállás:** Lásd lentebb |
 
-Amikor ezt a varázslatot végrehajtják, a varázsló által választott helyen egy fénygömb materializálódik, ami lehet egy tárgyon vagy akár a puszta levegőben, és a varázsló bármikor megszüntetheti. A varázslat Intenzitásonként 1 órás Időtartammal rendelkezik. Ha egy lényre vetik, a célpont Akaraterő-tesztet tehet az ellenállásra, a siker azt jelzi, hogy a varázslat a lény mögötti területre hatott, nem pedig magára a lényre. Ha a Fényt egy lény szemére összpontosítják, a sikertelen Akaraterő-dobás a varázslat Időtartamával megegyező ideig részleges vakságot eredményez, egy nehézségi fokkal növelve a látást igénylő összes képesség- és Ellenállás-dobás nehézségét. A varázslat hatásai mozdulatlanok, de hordozható vagy mozgatható tárgyra is vethető.
+A varázslat elmondásakor egy fénygömb jelenik meg a varázsló által választott helyen, amely lehet egy tárgyon vagy akár a puszta levegőben is, és a varázsló bármikor eloszlathatja. A varázslat időtartama Intenzitásonként 1 óra. Ha lényre mondják, a célpont HAT tesztet dobhat az ellenállásra; a siker azt jelenti, hogy a varázslat a lény mögötti területet érintette, nem magát a lényt. Ha a Light egy lény szemére irányul, az elbukott HAT dobás részleges vakságot eredményez, amelynek időtartama megegyezik a varázslatéval, és minden látást igénylő képesség- és ellenállás-dobást egy Nehézségi Szinttel növel. A varázslat hatásai mozdulatlanok, de hordozható vagy mozgatható tárgyra is mondható.
 
-*\*A varázslat Isteni változata megfordítható, teljes és totális sötétség gömbjét okozva, amely minden tekintetben úgy működik, mint az Arkán [Sötétség](0010_Spells.md?id=darkness) varázslat, azzal a kivétellel, hogy 30 perc/Intenzitás rövidebb Időtartammal rendelkezik.*
+*A varázslat isteni változata megfordítható, egy teljes és totális sötétségből álló gömböt hozva létre, amely minden tekintetben a [Darkness](0010_Spells.md?id=darkness) varázslatként működik, azzal a kivétellel, hogy időtartama rövidebb: Intenzitásonként 30 perc.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 1 | 20 láb sugarú; 1 óra (30 perc fordítva) |
-| 2 | 2 | 40 láb sugarú; 2 óra (1 óra fordítva) |
-| 3 | 3 | 60 láb sugarú; 3 óra (1½ óra fordítva) |
-| 4 | 4 | 80 láb sugarú; 4 óra (2 óra fordítva) |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 1 | 20 láb sugár; 1 óra (30 perc megfordítva) |
+| 2 | 2 | 40 láb sugár; 2 óra (1 óra megfordítva) |
+| 3 | 3 | 60 láb sugár; 3 óra (1,5 óra megfordítva) |
+| 4 | 4 | 80 láb sugár; 4 óra (2 óra megfordítva) |
+| +1 | +1 | Folytatódó növekedés |
 
 ---
-#### Villámcsapás (Lightning Bolt)
+#### Lightning Bolt
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Rang:** Mágus 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 50 láb/Intenzitás |
-| **Terület:** 10 láb széles útvonal | **Ellenállás:** Kikerülés |
+| **Terület:** 10 láb széles ösvény | **Ellenállás:** Ügyesség (Evasion) |
 
-Ahogy a mágus elkezdi a verbális kántálást és gesztusokat a varázslás első körében, elektromos töltés kezd ívelni az ujjai között. A második körben, a kántálás befejezésekor, a mágus villámot küld az ujjhegyéből, amely egyenes vonalban ível át a Hatásterületen a varázslat hatótávolságán belül, egy 10 láb széles útvonalon. Ez a sebzés 2 Intenzitási pontonként 1d6 sebzést okoz minden áldozatnak a Hatásterületen. Ezt a sebzést egyszer dobják, és a célpont minden Testtájára alkalmazzák, mind a viselt, mind a természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok csökkentik a sebzést.
+Ahogy a mágiahasználó elkezdi a verbális varázsigét és a gesztusokat a varázslás első körében, elektromos töltés kezd ívelni az ujjai között. A második körben, a varázsige befejezésekor, a mágiahasználó villámcsapást küld az ujjhegyéből, amely egyenes vonalban ível át minden célponton egy 10 láb széles ösvényen, a varázslat hatótávolságának mértékéig. Ez a sebzés 1d6 pontot okoz minden 2 Intenzitáspont után, vagy azok töredékéért, minden áldozatnak a hatás területén. Ezt a sebzést egyszer kell dobni, és minden célpont minden testtájára alkalmazni; a viselt és természetes páncél nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést.
 
-A sikeres Kikerülés (Evade) dobás, amely során a karakter hasra vágódik, lehetővé teszi, hogy az áldozat ne szenvedjen sebzést. A Művész Szökő (Artful Dodger) képességgel rendelkezők hasra vágódás nélkül is kikerülhetnek, és ha az 5 láb sugarú kör szélén vannak, a siker csak felezi a sebzést.
+Egy sikeres Ügyességi (Evasion) dobás, amely azzal jár, hogy az áldozat hasra veti magát, lehetővé teszi, hogy ne szenvedjen sebzést. Az Artful Dodger képességgel rendelkező személy választhatja az Ügyességi dobást hasra vetődés nélkül, de ebben az esetben a siker csak megfelezi a sebzést, kivéve, ha a hatás terület szélétől számított 5 lábon belül van.
 
-A villámnak esélye van gyúlékony anyagokat meggyújtani, amely egyenlő a dobott sebzés x 1%-ával. További információkért lásd a [Tűz alapú támadások](0007_Game_System.md?id=fire-based-attacks) szakaszt. A villám a puszta becsapódástól is szétzúzhat vagy elpusztíthat élettelen tárgyakat.
+A villámnak esélye van begyújtani a gyúlékony anyagokat, ami megegyezik a dobott sebzés x1%-ával. További információkért lásd a [Fires](0007_Game_System.md?id=fire-based-attacks) szakaszt. A villám az ütőerejével élettelen tárgyakat is összetörhet vagy megsemmisíthet.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
@@ -1749,213 +1760,210 @@ A villámnak esélye van gyúlékony anyagokat meggyújtani, amely egyenlő a do
 | 4 | 6 | 200 láb hatótáv; 2d6 sebzés |
 | 5 | 7 | 250 láb hatótáv; 3d6 sebzés |
 | 6 | 8 | 300 láb hatótáv; 3d6 sebzés |
-| +1 | +1 | Fejlődés folytatása |
+| +1 | +1 | Folytatódó növekedés |
 
 ---
-#### Tárgy keresése (R) (Locate Object)
+#### Locate Object (R)
 
-(Jóslás)
+(Jövendölés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 2, Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Jóslás | **Hatástartam:** 1 perc/Intenzitás |
+| **Rang:** Pap 2, Mágus 2 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Jövendölés | **Időtartam:** 1 Perc/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
-| **Terület:** 60 láb/Intenzitás | **Ellenállás:** N/A |
+| **Terület:** 60 láb/Intenzitás | **Ellenállás:** NA |
 
-A Tárgy keresése varázslattal a varázslót egy ismert vagy ismerős tárgyhoz irányítják, érzékelve az irányt a tárgyhoz, ahogy a varázsló áll és lassan körbefordul. A tárgynak azonban a varázslat hatótávolságán belül kell lennie. A tárgy bármilyen általános dolog lehet, például ágy, láda, lépcsőház vagy arany, és a varázslat az adott tárgy legközelebbi megjelenési helyére irányítja a varázslót. A konkrét tárgyak, például Tashana hosszúkardja, megkövetelik, hogy a varázslónak pontos képe legyen róla, vagy 30 lábon belül személyesen látta, vagy mágikus eszközökkel. Ezért egy személyes vagy egyedi tárgy nem kereshető meg ezzel a varázslattal, hacsak a varázsló nem ismeri azt. A varázslat nem kereshet élő vagy élettelen lényeket.
+A Locate Object elmondásával a varázslót egy ismert vagy ismerős tárgy irányába vezérli a mágia, érezve a tárgy irányát, miközben a varázsló áll és lassan körbefordul. A tárgynak azonban a varázslat hatókörén belül kell lennie. A tárgy lehet bármilyen általános dolog, például egy ágy, láda, lépcsőház vagy arany, és a varázslat a legközelebbi ilyen tárgy felé irányítja a varázslót. A specifikus tárgyak azonban, mint például Tashana hosszúkardja, megkövetelik, hogy a varázslónak pontos mentális képe legyen róla, vagy látta azt személyesen 30 lábon belül, vagy mágikus eszközökkel. Ezért egy személyes vagy egyedi tárgyat nem lehet megtalálni ezzel a varázslattal, kivéve, ha a varázsló ismeri azt. A varázslat nem képes élő vagy nem élő lények megtalálására.
 
-A varázslat megfordítása, a Tárgy elrejtése (Obscure Object), elrejti az egyik tárgyat a mágikus észlelés elől (kristálygömbök, Mágia észlelése stb.) ugyanarra az Időtartamra.
+A varázslat megfordítása, az Obscure Object (Tárgy elhomályosítása), elrejt egy tárgyat a mágikus észlelés elől, mint például kristálygömbök, Detect Magic stb., ugyanezen időtartamra.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 perc; 60 láb sugarú |
-| 2 | 2 | 2 perc; 120 láb sugarú |
-| 3 | 3 | 3 perc; 180 láb sugarú |
-| 4 | 4 | 4 perc; 240 láb sugarú |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 1 | 1 perc; 60 láb sugár |
+| 2 | 2 | 2 perc; 120 láb sugár |
+| 3 | 3 | 3 perc; 180 láb sugár |
+| 4 | 4 | 4 perc; 240 láb sugár |
+| +1 | +1 | Folytatódó növekedés |
 
 ---
-#### Mágikus zár (Mage Lock)
+#### Mage Lock
 
-(Transzmutáció)
+(Transmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Állandó |
+| **Rang:** Mágus 2 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Állandó |
 | **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 portál | **Ellenállás:** N/A |
+| **Terület:** 1 Átjáró | **Ellenállás:** NA |
 
-Ez a varázslat bármilyen zárható tárgyra alkalmazható, mint például láda, ajtó, portál vagy akár zárható könyv. A tárgy, amely akár 25 Életerő ponttal rendelkezhet Intenzitásonként, véglegesen le van zárva, hacsak nem verik be. A Mágiaoszlatás (Dispel Magic), ha a varázslat Nagyságánál nagyobb Intenzitással alkalmazzák, csak egy körre nyitja ki, és a Nyitás (Knock) használható egy Mágikus zárral ellátott ajtó 10 perces átmeneti kinyitására, ami után az eredeti varázslat folytatódik. Végül egy magasabb rangú mágikus felhasználó, mint az eredeti varázsló, szabadon áthaladhat egy Mágikus zárral ellátott ajtón anélkül, hogy megtörné az Igézést, sőt, akár nyitva is tarthatja a portált mások számára. A Portálbiztosítás (Secure Portal) varázslattal ellentétben a Mágikus zárral ellátott tárgyakat nem szakítják meg automatikusan az elsődleges anyagi síkon túli lények, mint a démonok, ördögök, angyalok és elementálok, vagy azok, akik anyagátjáró varázslatokat használnak.
+Ez a varázslat bármilyen zárható tárgyra mondható, mint például láda, ajtó, átjáró vagy akár zárható könyv. A tárgy, amely Intenzitásonként legfeljebb 25 Életerővel rendelkezhet, véglegesen le van zárva, hacsak nem törik be. A varázslat Nagyságánál nagyobb Intenzitáson elmondott Dispel Magic csak egy körre nyitja ki, és a Knock használható egy Mage Locked ajtó ideiglenes, 10 perces kinyitására, ami után az eredeti varázslat újra érvénybe lép. Végül, az eredeti varázslónál magasabb rangú mágiahasználó szabadon átmehet a Mage Locked ajtón az Elbűvölés megszakítása nélkül, és akár nyitva is tarthatja az átjárót mások számára. A Secure Portal varázslattól eltérően a Mage Locked tárgyakat nem szakítják meg automatikusan az elsődleges anyagi síkon túlról érkező lények, mint például démonok, ördögök, angyalok és elementálok, vagy azok, akik anyagokon átjáró varázslatokat használnak.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | 25 Életerő pontú portál; bilincs, lakat, tipikus fa láda vagy ajtó |
-| 2 | 4 | 50 Életerő pontú portál; fa megerősített láda vagy ajtó |
-| 3 | 5 | 75 Életerő pontú portál; vaskaloda, ajtó vagy rács |
-| 4 | 6 | 120 Életerő pontú portál; kis várkapu |
-| 5 | 7 | 150 Életerő pontú portál; nagy, megerősített várkapu |
+| 1 | 3 | legfeljebb 25 ÉE átjáró; bilincsek, lakatok, átlagos fa láda vagy ajtó |
+| 2 | 4 | legfeljebb 50 ÉE átjáró; megerősített fa láda vagy ajtó |
+| 3 | 5 | legfeljebb 75 ÉE átjáró; vas láda, ajtó vagy rács |
+| 4 | 6 | legfeljebb 120 ÉE átjáró; kis várkapu |
+| 5 | 7 | legfeljebb 150 ÉE átjáró; nagy, megerősített várkapu |
 
 ---
-#### Mágikus rakéta (Magic Missile)
+#### Magic Missile
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 100 láb/Intenzitás |
-| **Terület:** 1-5 célpont | **Ellenállás:** Lásd alább |
+| **Terület:** 1-5 Célpont | **Ellenállás:** Lásd lentebb |
 
-Amikor ezt a varázslatot végrehajtják, egy vagy több mágikus energiából álló rakéta lövell ki a mágus ujjbegyeiből és találja el a célpontot. A maximális rakétaszám a varázsló Arkán Varázslási (Arcane Casting) képességszintjén alapul: a második rakéta 60%-os képességnél, a harmadik 70%-nál, a negyedik 80%-nál, az ötödik és utolsó pedig 90%-nál jön létre. Ezen rakéták létrehozásához a varázslatot a kívánt rakétaszámmal megegyező Intenzitáson kell végrehajtani. Például 60% alatt a mágus, ha 3-as Intenzitással hajtja végre a Mágikus rakétát, eléri a hosszabb Hatótávot, de csak egyetlen rakéta jön létre. Egy 70%-os képességű mágus ugyanezen a 3-as Intenzitáson hajthatja végre a varázslatot, eléri ugyanezt a hatótávot, de 3 rakétát tud létrehozni. Ez a varázslat maximális Intenzitása 5. Lásd az alábbi táblázatot.
+Amikor a varázslat elhangzik, egy vagy több mágikus energiából álló lövedék tör elő a mágiahasználó ujjhegyéből, és eltalálja a célpontot. A létrehozható lövedékek maximális száma a varázsló Arcane Casting képzettségi szintjén alapul: a második lövedék 60%-os, a harmadik 70%-os, a negyedik 80%-os, az ötödik és végső lövedék pedig 90%-os szinten keletkezik. E lövedékek létrehozásához a varázslatot a kívánt lövedékek számának megfelelő Intenzitáson kell elmondani. Például 60% alatti képzettségnél a mágiahasználó, ha 3-as Intenzitáson mondja el a Magic Missile-t, elérné a hosszabb Hatótávot, de csak egyetlen lövedék keletkezne. Egy 70%-os képzettségű mágiahasználó ugyanezen a 3-as Intenzitáson 3 lövedéket tudna létrehozni. Ennek a varázslatnak a Maximális Intenzitása 5. Lásd az alábbi táblázatot.
 
-A Mágikus rakéta tévedhetetlenül eltalál, még akkor is, ha a célpont közelharcban van vagy részleges fedezékben. Ezek a rakéták nem kikerülhetők; azonban egy teljesen fedezékben lévő célpont nem célozható meg ezzel a varázslattal. A Pajzs (Shield) varázslat automatikusan eltéríti a Mágikus rakétákat, feltéve, hogy a célpont tudatában van és/vagy szemben áll a varázslóval. A Mágikus rakéták 1d6+1 sebzést okoznak, a viselt páncél nem nyújt védelmet, de a lény természetes páncélja vagy mágikus Páncélpontjai a szokásos módon csökkentik a sebzést. A Mágikus rakéták nem okoznak sebzést élettelen tárgyaknak, mint például ajtók, zárak stb.
+A Magic Missile tévedhetetlenül talál, még akkor is, ha a célpont közelharcban van vagy részleges fedezékben. Ezek a lövedékek nem háríthatóak el; azonban a teljes fedezékben lévő ellenfél nem célozható meg ezzel a varázslattal. A Shield varázslat automatikusan eltéríti a Magic Missile-eket, feltéve, hogy a célpont tudatában van a támadásnak és/vegy szembenéz a varázslóval. A Magic Missile 1d6+1 pont sebzést okoz, a viselt páncél nem véd, de a lény természetes páncélja vagy mágikus Páncélpontjai a szokásos módon csökkentik a sebzést. A Magic Missile nem okoz kárt élettelen tárgyakban, mint például ajtókban, zárakban stb.
 
-Több rakéta kilövésekor a varázsló irányíthatja őket egyetlen lényre, vagy több célpontra. Minden Mágikus rakéta véletlenszerű Testtájat talál el - konkrét Testtájak nem célozhatók meg. A mágusnak meg kell jelölnie minden rakéta célpontját a sebzés dobása előtt.
+Több lövedék lövésekor a varázsló dönthet úgy, hogy egyetlen lényt talál el velük, vagy több célpontot támad. Minden Magic Missile véletlenszerű Testtájt talál el – specifikus Testtájak nem célozhatók meg. A varázslónak minden egyes lövedék célpontját meg kell jelölnie a sebzés dobása előtt.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 1 | 100 láb hatótáv; 1 rakéta |
-| 2 | 2 | 200 láb hatótáv; 2 rakéta 60% képességnél |
-| 3 | 3 | 300 láb hatótáv; 3 rakéta 70% képességnél |
-| 4 | 4 | 400 láb hatótáv; 4 rakéta 80% képességnél |
-| 5 max. | 5 | 500 láb hatótáv; 5 rakéta 90% képességnél |
+| 1 | 1 | 100 láb hatótáv; 1 lövedék |
+| 2 | 2 | 200 láb hatótáv; 2 lövedék 60%-os képzettségnél |
+| 3 | 3 | 300 láb hatótáv; 3 lövedék 70%-os képzettségnél |
+| 4 | 4 | 400 láb hatótáv; 4 lövedék 80%-os képzettségnél |
+| 5 max. | 5 | 500 láb hatótáv; 5 lövedék 90%-os képzettségnél |
 
 ---
-#### Mágikus beszélő száj (Magic Mouth)
+#### Magic Mouth
 
-(Transzmutáció)
+(Transmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 1 perc |
-| **Szféra:** Nincs | **Hatástartam:** Lásd alább |
+| **Rang:** Mágus 2 | **Varázslási idő:** 1 Perc |
+| **Szféra:** Nincs | **Időtartam:** Lásd lentebb |
 | **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 30 láb |
-| **Terület:** 1 tárgy | **Ellenállás:** N/A |
+| **Terület:** 1 Tárgy | **Ellenállás:** NA |
 
-Ez a varázslat szájat hoz létre egy tárgyon, amely mágikusan jelenik meg, amikor a mágus által a varázslat végrehajtásakor kijelölt adott esemény vagy időpont kiváltja. Ez a száj kimondja azt az előre meghatározott kifejezést, amelyet a varázsló a varázslatkor választott. Ez a mondat legfeljebb 25 szóból állhat, amelyeket a száj másodpercenként körülbelül 1 szó sebességgel mond ki. A száj nem mondhat ki hatalmi szavakat, és nem varázsolhat.
+Ez a varázslat egy szájat hoz létre egy tárgyon, amely mágikusan megjelenik, amikor egy adott esemény vagy időpont kiváltja, amelyet a mágiahasználó a varázslat elmondásakor határoz meg. Ez a száj azután kimondja azokat az előre meghatározott mondatokat, amelyeket a varázsló a varázslás pillanatában választott. Ez a mondat legfeljebb 25 szóból állhat, és a száj körülbelül másodpercenként 1 szó sebességgel mondja ki. A száj nem mondhat ki hatalmi szavakat, és nem varázsolhat.
 
-Ez a varázslat bármilyen normális élettelen tárgyra alkalmazható, az oszloptól vagy fától kezdve, a kőfalon át a ládáig; azonban különösen hatékony, ha szoborra alkalmazzák, mivel maga a szobor fog úgy kinézni, mintha beszélne. Nem alkalmazható semmilyen intelligenciával vagy ösztönnel rendelkező élő lényre. Ez vonatkozik azokra is, akik korábban éltek. A varázslat végrehajtásakor a mágus meghatározza azt a helyzetet, amely kiváltja a bűbájt. Bármi lehet a kiváltó ok, a kimondott szótól a zaj keltéséig. Lehet általános, például „amikor a következő személy belép ebbe a szobába…”, vagy olyan konkrét, mint: „amikor Sedona egy női papja 10 láb távolságra közelíti meg a szobrot a folyosó végén szombaton…”. A kiváltó ok nem lehet olyan, amit nem lehet nem mágikusan észlelni, mint például egy láthatatlan lény, egy lény Jelleme, képzettsége, osztálya stb. Azonban jelölheti a viselt ruházatot. A maximális távolság, ahonnan a varázslat kiváltható, 25 láb Intenzitásonként.
+Ez a varázslat bármilyen normálisan élettelen tárgyra alkalmazható, az oszloptól vagy fától a kőfalig vagy ládáig; különösen hatásos azonban szoborra alkalmazva, mivel maga a szobor úgy nézne ki, mintha beszélne. Nem mondható olyan élő lényre, amelynek bármilyen intelligenciája vagy ösztöne van. Ez vonatkozik azokra is, akik korábban éltek. A varázslat elmondásakor a mágiahasználó meghatározza a helyzetet, amely aktiválja az elbűvölést. Bármi aktiválhatja, a kimondott szótól a zajkeltésig. Lehet olyan általános, mint „amikor a következő személy belép ebbe a szobába…”, vagy olyan konkrét, mint „amikor egy Sedona-papnő 10 lábon belülre kerül a szoborhoz a folyosó végén, egy szombati napon…”. A kiváltó hatás nem lehet olyan, ami nem észlelhető nem mágikus úton, például láthatatlan lény, lény Jelleme, képzettsége, kasztja stb. Azonban utalhat a viselt ruházatra. A legnagyobb távolság, ahonnan a varázslat kiváltható, Intenzitásonként 25 láb.
 
-A varázslat Időtartama állandó, amíg az elvarázsolás aktiválódik, majd a varázslat véget ér.
+A varázslat időtartama állandó, amíg az elbűvölés aktiválódik, akkor a varázslat véget ér.
 
 ---
-#### Mágikus trükkök (Magic Tricks)
+#### Magic Tricks
 
 (Megidézés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Koncentráció |
+| **Rang:** Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** Koncentráció |
 | **Költség:** 1 | **Hatótáv:** 0 |
-| **Terület:** 30 láb sugarú | **Ellenállás:** Nincs |
+| **Terület:** 30 láb Sugár | **Ellenállás:** Nincs |
 
-A Mágikus trükkök remek szórakozást jelentenek a köznép, a nincstelenek és különösen a gyerekek körében. Néhány gyakran létrehozott hatás: széllökések a gyertyák meglobogtatására, ezüstpénz kihúzása egy gyerek füle mögül, virág gyors kinyitása, kártyatrükkök, a semmiből érkező kísérteties éteri zene stb. A Mágikus trükkök nem okoznak sebzést, és nem vonják el a figyelmet a harcban, de használhatók a tömeg lefoglalására, amíg a csapat többi tagja észrevétlenül elsurran.
+A bűvésztrükkök nagyszerű szórakozási formát jelentenek a köznép, az elnyomottak, és különösen a gyerekek körében. Néhány bűvésztrükkökkel általánosan létrehozott hatás: széllökések a gyertyák pislákolásához, ezüstpénz elővarázslása egy gyermek füle mögül, virág gyors kinyílása, kártyatrükkök végrehajtása, kísérteties éteri zene keltése, amely sehonnan sem jön, és így tovább. A bűvésztrükkök nem képesek még egyetlen pontnyi sebzést sem okozni, vagy bármekkora figyelemelterelést sem harc közben, de felhasználhatók egy tömeg lefoglalására, amíg a csapat többi tagja eloson mellettük.
 
 ---
-#### Meteorzápor (Meteor Shower)
+#### Meteor Shower
 
 (Evokáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 5 | **Időtartam:** 2 akció |
-| **Szféra:** Nincs | **Hatástartam:** Azonnali |
+| **Rang:** Mágus 5 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
 | **Költség:** 3/Intenzitás | **Hatótáv:** 20 láb/Intenzitás |
-| **Terület:** Lásd alább | **Ellenállás:** Kikerülés |
+| **Terület:** Lásd lentebb | **Ellenállás:** Ügyesség (Evasion) |
 
-Amikor a mágikus felhasználó végrehajtja ezt a varázslatot, Intenzitási szintenként két mikro-meteorit lövell ki a kinyújtott kezéből. A meteorok a célpont felé ívelnek, lefelé tartó pályán becsapódva, szikra- és hamucsíkot hagyva maguk után. Becsapódáskor több tűzrobbanásban detonálódnak a célpont körül, mindegyik 30 lábas robbanási sugárral. Az első meteor mindig a kijelölt célhelyre csapódik be, míg a többi meteor véletlenszerűen csapódik körülötte, mindegyik 30 lábas robbanási sugárral. A becsapódási pont meghatározásához dobj 1d8-at az irányhoz.
+Amikor a mágiahasználó elmondja ezt a varázslatot, minden Intenzitási szint után két mikro-meteorit suhan ki a kinyújtott kézből. A meteorok a célpont felé ívelnek, lefelé tartó pályán csapódva be, szikrák és hamu nyomát hagyva maguk után. Becsapódáskor több tüzes robbanásban detonálnak a célpont körül. Az első meteor mindig a megcélzott helyre csapódik, míg minden további meteor véletlenszerűen csapódik be körülötte, mindegyik 30 láb sugarú robbanással. Annak meghatározásához, hová esnek, dobj 1d8-cal az irányért.
 
 <div style="text-align: center;">
     <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
 </div>
 
-Minden meteor 1d10 pont tűzsebzést okoz a Hatásterületen lévőknek. A robbanás sugara miatt azonban sokan átfedik egymást, további sebzést okozva azoknak, akiket eltalálnak. A sebzésdobásokat kombinálják és alkalmazzák a célpont minden Testtájára, a viselt páncél nem nyújt védelmet, de a mágikus Páncélpontok vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést.
+Minden meteor 1d10 pont tűzsebzést okoz azoknak, akik a hatás területén tartózkodnak. Azonban az egyes robbanások sugara miatt sok átfedésben lesz, további sebzést okozva azoknak, akik szerencsétlen módon elkapják őket. A sebzésdobásokat össze kell adni és alkalmazni a célpont minden Testtájára; a viselt páncél nem nyújt védelmet, de a mágikus Páncélpontok vagy a lény természetes páncélja a szokásos módon csökkenti a sebzést.
 
-A sikeres Kikerülés (Evade) dobás lehetővé teszi, hogy az áldozat ne szenvedjen sebzést. A Művész Szökő (Artful Dodger) képességgel rendelkezőknek lehetőségük van hasra vágódás nélkül Kikerülni, és ha 5 lábon belül vannak a becsapódási pont szélétől, a siker esetén nem szenvednek sebzést, különben a szokásos módon sebződnek.
+Egy sikeres Ügyességi dobás lehetővé teszi, hogy az áldozat ne szenvedjen sebzést. Az Artful Dodger képességgel rendelkező személy választhatja az Ügyességi dobást hasra vetődés nélkül, de ebben az esetben a siker csak megfelezi a sebzést, kivéve, ha a hatás terület szélétől számított 5 lábon belül van.
 
-Mindenkit, még azokat is, akik a Hatásterületen kívül, de 60 lábon belül vannak egy becsapódási ponttól, arra köteleznek, hogy Atlétika dobást tegyenek az állva maradáshoz.
+Mindenkinek, beleértve azokat is, akik a hatás területén kívül, de egy becsapódási ponttól 60 lábon belül tartózkodnak, sikeres Atlétika dobást kell tennie, hogy talpon maradjon.
 
-A Meteorzápornak esélye van gyúlékony anyagokat meggyújtani, amely egyenlő a dobott sebzés x 5%-ával. További információkért lásd a [Tűz alapú támadások](0007_Game_System.md?id=fire-based-attacks) szakaszt.
+A Meteor Showernek esélye van begyújtani a gyúlékony anyagokat, ami megegyezik a dobott sebzés x5%-ával. További információkért lásd a [Fires](0007_Game_System.md?id=fire-based-attacks) szakaszt.
 
 ---
-#### Erő (Might)
+#### Might
 
-(Transzmutáció)
+(Transmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Harc | **Hatástartam:** Kiváltó (Trigger) |
+| **Rang:** Pap 0, Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Harc | **Időtartam:** Kiváltó esemény |
 | **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+| **Terület:** 1 Célpont | **Ellenállás:** Nincs |
 
-Az Erő lehetővé teszi a címzett számára, hogy egy lenyűgöző fizikai erőteljes cselekedetet hajtson végre, a varázsló POW-ját a címzett Brawn képzettségéhez adva. Nem növeli a karakter Sebzésmódosítóját harci sebzés okozásakor.
+A Might lehetővé teszi a megajándékozott számára, hogy lenyűgöző fizikai erőfeszítést hajtson végre, a varázsló HAT értékének hozzáadásával a célpont Brawn képzettségéhez. Harci sebzés okozásakor nem növeli a karakter Sebzésmódosítóját.
 
 ---
-#### Tükörkép (Mirror Image)
+#### Mirror Image
 
 (Illúzió)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 2 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** 3 kör/Intenzitás |
+| **Rang:** Mágus 2 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 3 Kör/Intenzitás |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
-| **Terület:** 5 láb sugarú | **Ellenállás:** N/A |
+| **Terület:** 5 láb Sugár | **Ellenállás:** NA |
 
-Amikor ezt a varázslatot végrehajtják, a mágikus felhasználó 2d4 másolata jelenik meg egy 5 láb sugarú körben, pontosan utánozva a varázsló mozgását. Emellett az egész Hatásterület hullámzik és csillog, lehetetlenné téve a varázsló pontos helyének megállapítását. Az illúziós képek egyikének megütése az illúzió eltűnését okozza; azonban a fennmaradó képeket ez nem érinti. A varázsló megütése nincs hatással a fennmaradó képekre, és mivel a képek folyamatosan változnak, nem lehet tudni, hogy a célpont a valódi varázsló-e, ha újra támadják. A varázsló által elszenvedett sérülések szintén lemásolódnak a képeken is. Számos módja van annak, ahogy a Játékmester meghatározhatja, hogy a valódi varázslót találták-e el vagy az egyik képet. Az egyik mód az, hogy meghatározzák, hány potenciális célpont áll rendelkezésre, beleértve a varázslót, és dobnak a legközelebbi kockával. Például 4 kép és a varázsló esetén a támadónak 1d6-ot kell dobnia, 6-os eredmény esetén újradobni, a varázslót 1-es dobásnál találják el. Egy másik módszer, ha a potenciális célpontok számával megegyező számú jelzőt használnak, egyet a varázslóként jelölve. Minden támadáskor kihúznak egy jelzőt, és ha eltalálják a célpontot, a sebzést alkalmazzák; ellenkező esetben egy kép eltűnik, eltávolítva a jelzők egyikét. A képek a varázslat Időtartamának végén eltűnnek.
-
----
-#### Méreg semlegesítése (R) (Neutralize Poison)
+Amikor ez a varázslat elhangzik, 2d4 másolat jelenik meg a mágiahasználóról egy 5 láb sugarú körön belül, pontosan utánozva a varázsló mozdulatait. Ezenkívül a teljes hatás terület hullámzik és csillog, lehetetlenné téve a varázsló pontos helyzetének megállapítását. Az egyik illuzórikus kép eltalálása azt okozza, hogy eltűnik; a többi kép azonban érintetlen marad. A varázsló eltalálásának nincs hatása a többi képre, és mivel a képek folyamatosan változnak, nincs mód annak megállapítására, hogy a célpont a valódi varázsló-e, ha újra támadják. A varázsló által elszenvedett sérülések a képeken is megismétlődnek. Számos módszer létezik, amellyel a Játékmester meghatározhatja, hogy a valódi varázslót találták-e el vagy az egyik képet. Az egyik, hogy meghatározza, hány potenciális célpont áll rendelkezésre, beleértve a varázslót is, és dob a legközelebbi osztású kockával. Például 4 kép és a varázsló esetén a támadónak 1d6-tal kell dobnia, a 6-os eredményt újradobva, ahol 1-es esetén a varázslót találják el. Egy másik, hogy több jelölőt használ, megegyezően a potenciális célpontok számával, az egyiket varázslóként megjelölve. Minden támadáskor kihúznak egy jelölőt, és ha a célpontot eltalálják, alkalmazzák a sebzést; egyébként egy kép eltűnik, eltávolítva az egyik jelölőt. A képek a varázslat időtartamának végén eltűnnek.#### Méreg semlegesítése (R)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 1 kör |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A (Kitartás) |
+| **Rang:** Pap 3 | **Varázslási idő:** 1 kör |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
+| **Költség:** 3, +1 minden további Intenzitásért | **Hatótávolság:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs (ÁLL) |
 
-Ez a varázslat lehetővé teszi a varázsló számára, hogy semlegesítse a lényt sújtó méreg vagy méreganyag hatását, és használható egy olyan egyén meggyógyítására, aki mérgezésben "halt meg", ha a halál után 10 percen belül alkalmazzák. Minden Intenzitási szint 30 Potenciájú méreg hatását semlegesíti. A Méreg semlegesítése használható mérgező lények (például kígyó vagy skorpió) által termelt méreg hatástalanítására is, hogy azok ne legyenek képesek másokat megmérgezni: ez 30 Potenciánként 1 Intenzitást igényel, és ebben az esetben a Hatástartama 24 óra. Végül a Méreg semlegesítése használható mérgezett vagy egyéb módon szennyezett anyagokon, Intenzitásonként 5 font szilárd vagy 2 gallon folyadékot kezelve.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy megszüntesse egy lényen elhatalmasodó méreg vagy méreganyag hatását, és felhasználható olyan személy feltámasztására is, aki méreg által „halt meg”, ha a halált követő 10 percen belül alkalmazzák. A méreg 30-as Potenciájánként egy Intenzitás-szint szükséges. A Méreg semlegesítése felhasználható a mérgező lények (például kígyók vagy skorpiók) által termelt méreganyag hatástalanítására is, így azok nem lesznek képesek másokat megmérgezni: ez 30-as Potenciánként 1 Intenzitást igényel, és ilyen módon alkalmazva az időtartama 24 óra. Végezetül a Méreg semlegesítése alkalmazható mérgezett vagy egyéb módon szennyezett anyagokon is, Intenzitásonként 5 font szilárd anyagot vagy 2 gallon folyadékot kezelve.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
-| 1 | 3 | POT 1-30 méreg gyógyítása; 1-30 POT mérgező lény hatástalanítása; 5 font mérgezett szilárd anyag vagy 2 gallon folyadék kezelése |
-| 2 | 4 | POT 31-60 méreg gyógyítása; 31-60 POT mérgező lény hatástalanítása; 10 font mérgezett szilárd anyag vagy 4 gallon folyadék kezelése |
-| 3 | 5 | POT 61-90 méreg gyógyítása; 61-90 POT mérgező lény hatástalanítása; 15 font mérgezett szilárd anyag vagy 6 gallon folyadék kezelése |
-| 4 | 6 | POT 91-120 méreg gyógyítása; 91-120 POT mérgező lény hatástalanítása; 20 font mérgezett szilárd anyag vagy 8 gallon folyadék kezelése |
-| +1 | +1 | Fejlődés folytatása |
+| 1 | 3 | POT 1-30 méregtől való gyógyítás; POT 1-30 mérgező lény hatástalanítása; max. 5 font mérgezett szilárd anyag vagy 2 gallon folyadék kezelése |
+| 2 | 4 | POT 31-60 méregtől való gyógyítás; POT 31-60 mérgező lény hatástalanítása; max. 10 font mérgezett szilárd anyag vagy 4 gallon folyadék kezelése |
+| 3 | 5 | POT 61-90 méregtől való gyógyítás; POT 61-90 mérgező lény hatástalanítása; max. 15 font mérgezett szilárd anyag vagy 6 gallon folyadék kezelése |
+| 4 | 6 | POT 91-120 méregtől való gyógyítás; POT 91-120 mérgező lény hatástalanítása; max. 20 font mérgezett szilárd anyag vagy 8 gallon folyadék kezelése |
+| +1 | +1 | Folyamatos progresszió |
 
-Megfordítva, a Méreg előidézése lehetővé teszi a varázsló számára, hogy halálos toxint állítson elő az áldozatban. Ez a méreg alább részletezett.
+Megfordítva, a Méreg bevitele lehetővé teszi a varázsló számára, hogy halálos toxint hozzon létre egy áldozatban. Ez a méreg alább olvasható.
 
 #### Arkán méreg
 
-- **Alkalmazás:** Érintkezés
-- **Potencia:** Intenzitás x 30
-- **Ellenállás:** Kitartás
+- **Alkalmazás:** Érintés
+- **Potencia:** Intenzitás x30
+- **Ellenállás:** ÁLL
 - **Kezdési idő:** 1d2+1 kör
-- **Hatástartam:** 1d3x10 perc
-- **Körülmények:** Az áldozatok 2 körig tartó Agóniával kezdenek, mielőtt megkezdődne a Fulladás, ami általában halálhoz vezet, hacsak mágikusan nem kezelik Lassítással vagy Méreg semlegesítésével.
+- **Időtartam:** 1d3x10 perc
+- **Feltételek:** Az áldozatok 2 körig tartó Agóniával kezdenek, mielőtt bekövetkezik a Fulladás, ami általában halálhoz vezet, kivéve, ha mágikusan kezelik Lassítás vagy Méreg semlegesítése varázslattal.
 - **Ellenszer/Gyógyítás:** Nincs, csak mágikus kezelés.
 
 ---
-#### Víz szétválasztása (Part Water)
+#### Víz kettéosztása
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 4 | **Időtartam:** 10 perc |
-| **Szféra:** Elemi (Víz) | **Hatástartam:** 10 perc/Intenzitás |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 60 láb/Intenzitás |
-| **Terület:** Lásd alább | **Ellenállás:** N/A |
+| **Rang:** Pap 4 | **Varázslási idő:** 10 perc |
+| **Szféra:** Elemi (Víz) | **Időtartam:** 10 perc/Intenzitás |
+| **Költség:** 3, +1 minden további Intenzitásért | **Hatótávolság:** 60 láb/Intenzitás |
+| **Terület:** Lásd alább | **Ellenállás:** Nincs |
 
-Ez a varázslat lehetővé teszi a varázsló számára a víz vagy más folyadékok szétválasztását, biztonságos ösvényt teremtve, amely aztán bejárható. A varázslat egy 100 láb széles, 10 láb mély (Intenzitásonként) és 120 láb hosszú (Intenzitásonként) árkot hoz létre. Tehát, ha 4-es Intenzitáson hajtják végre, a szétválasztás 40 láb mély, 480 láb hosszú és 100 láb széles lenne. A varázslat a varázsló által idő előtt lezárható, egyébként a Hatástartam lejártáig folytatódik. Ez a varázslat víz alatt is végrehajtható, amely a fenti méretekkel rendelkező "levegőfolyosót" hoz létre. Végül a Víz szétválasztása támadólag is alkalmazható egy olyan lényre, mint egy vízelementál, és ha igen, Intenzitási szintenként 10 pont sebzést okoz. Feltételezve, hogy az entitás túléli, sikeres Akaraterő Ellenállás-dobást kell tennie, különben 3d4 percig menekül a varázsló elől.
+Ez a varázslat lehetővé teszi a varázsló számára, hogy kettéossza a vizet vagy más folyadékformákat, biztonságos ösvényt hozva létre, amelyen szükség esetén át lehet haladni. A varázslat egy 100 láb széles csatornát hoz létre, amelynek mélysége Intenzitásonként 10 láb, hossza pedig Intenzitásonként 120 láb. Tehát, ha 4-es Intenzitással varázsolják, a kettéosztás 40 láb mély, 480 láb hosszú és 100 láb széles lesz. A varázslatot a varázsló korábban is befejezheti, különben az időtartama lejártáig fennmarad. Ez a varázslat víz alatt is alkalmazható, ebben az esetben a fent megjelölt méretekkel rendelkező „levegőfolyosót” hoz létre. Végezetül, a Víz kettéosztása támadó jelleggel is alkalmazható egy olyan lény ellen, mint például a vízelementál; ebben az esetben Intenzitási szintenként 10 pont sebzést okoz. Feltételezve, hogy az entitás túléli, sikeres HAT-ellenállásdobást kell tennie, különben 3d4 percre elmenekül a varázsló elől.
 
 | Intenzitás | Költség | Változó hatás |
 | :-: | :-: | :-- |
@@ -1964,386 +1972,562 @@ Ez a varázslat lehetővé teszi a varázsló számára a víz vagy más folyad�
 | 3 | 5 | 30 perc; 180 láb hatótáv; 100 láb széles; 30 láb mély; 360 láb hosszú |
 | 4 | 6 | 40 perc; 240 láb hatótáv; 100 láb széles; 40 láb mély; 480 láb hosszú |
 | 5 | 7 | 50 perc; 300 láb hatótáv; 100 láb széles; 50 láb mély; 600 láb hosszú |
-| +1 | +1 | Fejlődés folytatása |
+| +1 | +1 | Folyamatos progresszió |
 
 ---
-#### Állandóság (Permanency)
+#### Állandósítás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 4 | **Időtartam:** 1 akció |
-| **Szféra:** Nincs | **Hatástartam:** Állandó |
-| **Költség:** 3, +2 EXP | **Hatótáv:** Lásd alább |
-| **Area:** Lásd alább | **Ellenállás:** N/A |
+| **Rang:** Mágus 4 | **Varázslási idő:** 1 akció |
+| **Szféra:** Nincs | **Időtartam:** Állandó |
+| **Költség:** 3, +2 EXP | **Hatótávolság:** Lásd alább |
+| **Terület:** Lásd alább | **Ellenállás:** Nincs |
 
-Ennek a varázslatnak a végrehajtása bizonyos más varázslatok Hatástartamát Állandóra változtatja. A varázslat használatához a mágus először a maradandóvá teendő varázslatot hajtja végre. Azonban annak befejezése után visszatartja, és egy további Akciópontot költ az Állandóságra, ami után a kiválasztott varázslatot állandó formájában hajtja végre. Minden állandóvá tett varázslat 2 Tapasztalati Dobásba kerül a mágusnak, a 3 Mágia-pont mellett, az eredeti varázslat szokásos Varázslási Költségén felül. Ha az Állandóság végrehajtása közben Mágiaoszlatást alkalmaznak, az nemcsak az Állandóságot, hanem az eredeti varázslatot is eloszlatja.
+Ennek a varázslatnak az elmondása bizonyos más varázslatok időtartamát Állandóra változtatja. A varázslat használatához a varázshasználó először elmondja az állandósítani kívánt varázslatot. Azonban az adott varázslat elmondásának befejezésekor a hatás várakozik, és egy további Akciópontot költ az Állandósítás elmondására, ami után a kiválasztott varázslat állandó formájában megnyilvánul. Minden állandósított varázslat a varázsló számára 2 Tapasztalati dobásba, valamint a jegyzett 3 Varázspontba kerül, az eredeti varázslat normál Varázslási költségén felül. Ha az Állandósítás alatt Mágia eloszlatása varázslatot mondanak el, az nemcsak az Állandósítást, hanem az eredeti varázslatot is eloszlatja.
 
-Az Állandóság kulcsfontosságú alkalmazás a mágikus tárgyak létrehozásában a Tárgy elvarázsolása varázslat használatával. Az alább felsoroltakon kívül más varázslatok is állandóvá tehetők a Játékmester engedélyével.
+Az Állandósítás kulcsfontosságú alkalmazás a Varázstárgy készítése varázslat használatakor is. Az alább felsorolt varázslatokon kívül más varázslatok is állandósíthatóak a Játékmester engedélyével.
 
-A következő személyes varázslatok, amelyek csak a varázslóra hatnak, profitálnak ebből a varázslatból. Más lényeken nem tehetők állandóvá:
+A következő személyes varázslatok, amelyek csak a varázslóra hatnak, profitálnak ebből a varázslatból. Ezek nem tehetőek állandóvá más lényeken:
 
-- Hárítás (Avert)
+- Elhárítás
 - Koordináció
 - Sötétlátás
-- Eltérítés (Deflect)
-- Gonosz észlelése
-- Láthatatlanság észlelése
-- Mágia észlelése
-- Bűbáj (Glamour)
+- Eltérítés
+- Gonosz érzékelése
+- Láthatatlanság érzékelése
+- Mágia érzékelése
+- Bűbáj
 - Nyelvek ismerete
-- Erő (Might)
-- Tartósítás (Preserve)
-- Védelem (Saját)
-- Védelem a gonosztól
+- Erő
+- Megőrzés
+- Védelem (önmagán)
+- Védelem gonosz ellen
 - Mágia olvasása
-- Nyelvek (Tongues)
+- Nyelvek
 
+Az Állandósítás varázslat használható továbbá a következő, más lényekre, tárgyakra vagy területekre alkalmazott varázslatok állandósítására is. A csillaggal jelölt varázslatok csak tárgyon vagy területen tehetőek állandóvá.
 
-Az Állandóság varázslat használható a következő, más lényekre, tárgyakra vagy területekre vetett varázslatok állandósítására is. A csillaggal (*) jelölt varázslatok csak tárgyra vagy területre tehetők állandóvá.
-
-- Hideg (Chill)
-- Tisztítás (Cleanse)
-- Táncoló fények*
-- Félelem (Fear)
+- Hideg
+- Tisztítás
+- Táncoló fények\*
+- Félelem
 - Láthatatlanság
-- Fényezés* (Polish)
-- Tartósítás (Preserve)
-- Rendetlenség (Tidy)*
-- Mágikus beszélő száj* (Magic Mouth)
-- Tűzfal* (Wall of Fire)
-- Háló* (Web)
+- Fényesítés \*
+- Megőrzés
+- Rendet rak \*
+- Mágikus száj \*
+- Tűzfal \*
+- Pókháló \* |
 
 ---
-#### Kedvenc (Pet)
+#### Kedvenc
 
-(Igézés (Bűbáj))
+(Elbűvölés (Bűbáj))
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Állat | **Hatástartam:** Koncentráció |
+| **Rang:** Mágus 0 | **Varázslási idő:** 1 akció |
+| **Szféra:** Állat | **Időtartam:** Koncentráció |
+| **Költség:** 1 | **Hatótávolság:** Érintés |
+| **Terület:** 1 állat | **Ellenállás:** HAT |
+
+A Kedvenc lehetővé teszi a varázsló számára, hogy mentális irányítása alá vonjon egy kis termetű lényt, felderítésre, behordásra vagy más összetett feladat végrehajtására küldve azt. Bármilyen lényre alkalmazható, amelynek MÉR és INT Jellemzői nem haladják meg a varázsló KAR értékének felét. Ha a célzott lény már a varázsló hűséges kedvence, nem kell ellenállnia a varázslatnak. Koncentrálás közben a varázsló hozzáférhet az állat érzékszerveihez (látás, szaglás, hallás stb.).
+
+---
+#### Síkváltás
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 3 | **Varázslási idő:** 2 akció |
+| **Szféra:** Asztrál | **Időtartam:** Állandó |
+| **Költség:** 3, +1 minden további Intenzitásért | **Hatótávolság:** Érintés |
+| **Terület:** Lásd alább | **Ellenállás:** HAT |
+
+Elmondásakor a pap és további 7 személy (minden további Intenzitási szintenként egy) egy másik létsíkra utazhat. Mindenkinek érintkeznie kell, egy kört alkotva, miközben a pap elmondja a varázslatot. Ezenkívül a varázsló használhatja a varázslatot egy lény önálló szállítására is, akár akarja az illető, akár nem, a varázsló által választott síkra; azonban az akaratlan áldozat HAT-dobással ellenállhat, a Siker pedig hatástalanítja a varázslatot. Az érkezés pontos pontja ritkán az, amit a varázsló kívánt. Ha hexatérképet használsz, dobj 1d6-ot az irány meghatározásához és 1d10x10-et a távolsághoz mérföldben.
+
+Az általános anyagi komponenseken felül a Síkváltás elmondása különféle ritka fémekből készült rudakat igényel, amelyek mindegyike speciálisan egy létsíkra van hangolva. Ezek a rudak ritkák, és könnyen darabonként akár 10 000 GP-t is érhetnek.
+
+---
+#### Fényesítés
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 0, Mágus 0 | **Varázslási idő:** 1 akció |
+| **Szféra:** Teremtés | **Időtartam:** Azonnali |
+| **Költség:** 1 | **Hatótávolság:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+
+A Fényesítés azonnal kifényesít egy tárgyat – amelynek „tárgyértéke” vagy MÉR értéke legfeljebb a varázsló HAT értékével egyezik meg –, magas csillogást kölcsönözve neki, amitől fényes, ragyogó és rendkívül kívánatos lesz, még akkor is, ha a tárgy minősége átlag alatti. A tárgy idővel elveszíti a csillogását.
+
+---
+#### Más átváltoztatása
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 3 | **Varázslási idő:** 2 akció |
+| **Szféra:** Nincs | **Időtartam:** Állandó |
+| **Költség:** 3, +1 minden további Intenzitásért (+1 EXP) | **Hatótávolság:** 15 láb/Intenzitás |
+| **Terület:** 1 célpont | **Ellenállás:** HAT |
+
+A varázsló megváltoztathatja egy testtel rendelkező célzott lény alakját egy másikra, ahol az Intenzitás minden pontja legfeljebb 5 ponttal módosítja a MÉR-t. Tehát egy 16-os MÉR-ű ork 1-es MÉR-ű nyúllá történő átalakítása 3 Intenzitási szintet igényelne (15 MÉR pont különbség). A varázslat alanya HAT-dobással ellenállhat. A nagy termetű lények (MÉR 21-40) kevésbé fogékonyak az átváltoztatásra, az ő Ellenállásdobásuk Könnyű, míg az óriási lények (MÉR 41+) Ellenállásdobása Nagyon Könnyű.
+
+A teljes átalakulási folyamat egy teljes Körig tart, és meglehetősen megterhelő lehet az érintett lény számára, egy második HAT-dobást igényel az eredeti személyiség megtartásához; a Kudarc 1d10 percre elkábítja az alanyt, a Balsiker pedig mentális sokk miatti halálhoz vezet. A lény eredeti MÉR értékének minden megduplázódása vagy megfeleződése egy fokozattal nehezebbé teszi a személyiség megtartására irányuló HAT-dobást, ahogy egy teljes környezetváltozás is, például ha valakit hallá változtatnak. A sikeres dobás lehetővé teszi az áldozatnak, hogy megtartsa INT és KAR értékeit, valamint az összes olyan képességét, amely megköveteli ezeket a Jellemzőket.
+
+Az átalakulás biztosítja a fogadónak az átvett lény légzési módját, ha az eltér a normálistól; minden természetes támadását; és minden hétköznapi mozgási formáját. Nem biztosít semmilyen a lény által birtokolt fokozott vagy mágikus Képességet. Például egy lény, amelyet sárkánnyá változtattak, nem kapja meg a lény lehelettámadását vagy varázslatszerű képességeit, de megszerzi a repülés képességét, kemény bőrét, halálos harapását, karomtámadásait stb. Ezenkívül az áldozat megszerzi az új alak fizikai képességeit, például Atlétika, Izomerő, Repülés, Úszás, valamint Életerő pontjait és Sebzésmódosítóját. Feltételezve, hogy az átváltoztatott egyén megtartotta INT értékét, továbbra is elveszíti a beszéd képességét, kivéve, ha az új alak rendelkezik a szavak artikulálásának képességével. Akik korábbi alakjukban képesek voltak varázsolni, azok az új alakban is képesek lesznek rá, feltéve, hogy még rendelkeznek a varázslat verbális és szomatikus komponenseinek előállítására való képességgel. Drasztikus változás esetén, például kétlábúból négylábúvá, vagy szárazföldi állatból tengeri lénnyé váláskor, a Játékmester nyugodtan büntetheti legalább egy Nehézségi Fokozattal azoknak a készségeknek a használatát, amelyek időbe telnének, amíg hozzászoknak az új alakhoz, amíg nincs elég idő a gyakorlásra. Ez különösen igaz az olyan fizikai készségekre, mint az Atlétika, Pusztakezes harc, Úszás, Repülés, Harci képességek stb.
+
+A személyiség megtartására irányuló HAT-dobás minden nap szükséges, amíg az alany átváltoztatva marad, amíg kudarcot nem vall, ami azt eredményezi, hogy a személy végül enged az új alak mentalitásának, ahol az INT nem szapient lény esetén INS-re változik. Az új alak minden speciális és mágikus Képessége, amelyet korábban nem szerzett meg, mint például a tekintettámadások, leheletfegyverek stb., most elérhetővé válik a lény számára, mivel az átalakulás teljes. Azok a karakterek, akik így elveszítik identitásukat, Nem Játékos Karakterekké válnak a Játékmester irányítása alatt.
+
+Mielőtt mentálisan engedne az átalakulásnak, az átváltoztatott lény a szokásos módon fogékony a Mágia eloszlatására, ellenállási dobás nélkül, mivel tudatalatti vágya a normális állapotba való visszatérés lenne. Az átalakulás egy másik HAT-dobást igényel az igénybevétel ellenállására, a Kudarc 1d10 percre elkábítja az alanyt, a Balsiker pedig mentális sokk miatti halálhoz vezet.
+
+Ha az áldozat korábban már engedett az új alaknak, a Mágia eloszlatása továbbra is alkalmazható; azonban az áldozat HAT-dobással megpróbál ellenállni a természetes alakba való visszatérésnek. A dobás elhibázása azt jelenti, hogy az áldozat visszaváltozik természetes alakjába, ami természetesen egy újabb HAT-dobást igényel az átalakulás okozta mentális sokk leküzdésére. Miután elveszett, az áldozat természetes identitása már nem érhető el, ehelyett az áldozat azt feltételezi, hogy a furcsa és idegen alak a természetes, és vágyik arra, hogy visszatérjen korábbi „normális” állapotába. _Például egy ork, akit nyúllá változtattak, és felvette a lény identitását, azt hinné, hogy most egy nyúl, akit elég gorombán orkká változtattak._ Csak egy Kívánság vagy más hasonló mágia képes bármilyen eséllyel visszaállítani az áldozat identitását, miután az elveszett.
+
+Minden viselt és hordozott felszerelés mágikusan beleolvad az új alakba; azonban egyes esetekben a Játékmester megengedheti, hogy azok a varázstárgyak, amelyeket a lény új alakjában is használni lehetne, megmaradjanak, például egy varázsgyűrű vagy csizma. Megjegyzendő, hogy ehhez a lény új MÉR értékének nem szabad drasztikusan eltérnie az eredetitől. Minden viselt, nem támadó jellegű varázstárgy esetében – a Játékmester jóváhagyásával – HAT x 1% esély van arra, hogy hatásait átvigye a lény új alakjára. Például egy +1 védelem gyűrűvel rendelkező lény +1 bónuszt kaphat a természetes Páncélpontjaira. Azok a lények, amelyek természetes módon képesek alakváltásra, mint például az alakváltók és a vérfarkasok, a szokásos módon átalakulnak, de 1 kör után felvehetik normál alakjukat. Ha megölik, az átváltoztatott lény visszaváltozik természetes alakjába, még akkor is, ha korábban elveszítette identitásának minden nyomát.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3, +1 EXP | 15 láb hatótáv; 1-5 MÉR pont különbség |
+| 2 | 4, +1 EXP | 30 láb hatótáv; 6-10 MÉR pont különbség |
+| 3 | 5, +1 EXP | 45 láb hatótáv; 11-15 MÉR pont különbség |
+| 4 | 6, +1 EXP | 60 láb hatótáv; 16-20 MÉR pont különbség |
+| +1 | +1 | Folyamatos progresszió |
+
+---
+#### Önátváltoztatás
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 3 | **Varázslási idő:** 2 akció |
+| **Szféra:** Nincs | **Időtartam:** 20 perc/Intenzitás |
+| **Költség:** 3, +1 minden további Intenzitásért | **Hatótávolság:** 0 |
+| **Terület:** Varázsló | **Ellenállás:** Nincs |
+
+A varázsló felveheti bármely más testtel rendelkező lény alakját, MÉR 1-től MÉR 40-ig. Az Intenzitás minden pontja legfeljebb 10 MÉR pontnyi növekedést vagy csökkenést tesz lehetővé. Tehát egy 13-as MÉR-ű varázshasználó 3 Intenzitási szinten felvehetné egy 34-es MÉR-ű grizzly medve alakját. Az átalakulási folyamat egy teljes Körig tart, és biztosítja a varázsló számára az átvett lény légzési módját (ha az eltér sajátjától, például vízben való légzés), bármely természetes támadását, Életerő pontjait, Sebzésmódosítóját és normális mozgási formáját. Nem biztosít semmilyen a lény által birtokolt fokozott vagy mágikus Képességet. Egy varázshasználó, aki például héjává változott, nem kapja meg a madár rendkívüli látását. A varázsló megszerzi a lény fizikai készségeit, mint Atlétika, Izomerő, Repülés, Úszás stb., de megtartja minden mentális és szociális készségét (azokat, amelyek INT és KAR értékeket igényelnek). A varázsló elveszíti a beszéd képességét, kivéve, ha az adott lény rendelkezik a szavak artikulálásának képességével. Ha igen, a varázsló továbbra is képes varázsolni az új alakban, feltételezve, hogy képes elvégezni a varázslat szomatikus komponenseit.
+
+A varázsló bármikor befejezheti a hatást, és a folyamat során az új alakban szerzett minden Kisebb Sebzés elvész, a Súlyos Sebzések pedig Kisebb Sebzéssé csökkennek (az érintett helyeken elvesztett Életerő pontok fele). A Súlyos Sebzéseket az átalakulás nem érinti, és átkerülnek a természetes alakba. Nincs gyógyulás, amikor a varázsló természetes alakból állati alakba változik.
+
+Az átváltoztatásra vonatkozik a Mágia eloszlatása. Ebben az esetben a varázsló nem részesül a gyógyulásban. Ha megölik, a varázsló visszaváltozik természetes alakjába. Ha repülő lénnyé változik, és Repülés készségdobást kell tennie, az Atlétika vagy Akrobatika helyettesítheti két nehézségi fokozattal. Azonban az a karakter, aki gyakran használja ezt az alakot, dönthet úgy, hogy a Repülés készséget normálisan fejleszti, ERŐ+ÜGY Alapértékkel.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 20 perc; 1-10 MÉR pont különbség |
+| 2 | 4 | 40 perc; 11-20 MÉR pont különbség |
+| 3 | 5 | 60 perc; 21-30 MÉR pont különbség |
+| 4 | 6 | 80 perc; 31-40 MÉR pont különbség |
+| +1 | +1 | Folyamatos progresszió |
+
+---
+#### Erőszó – Vakság
+
+(Megidézés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 4 | **Varázslási idő:** 1 akció |
+| **Szféra:** Nincs | **Időtartam:** Lásd alább |
+| **Költség:** 3, +1 minden további Intenzitásért | **Hatótávolság:** 20 láb/Intenzitás |
+| **Terület:** 15 láb sugarú kör | **Ellenállás:** ÁLL |
+
+A varázslat sikeres elmondása után a varázsló által választott, látómezőn belüli és Hatótávolságon belüli lény vakká válik, valamint mindenki más a 15 lábas sugáron belül, aki elhibázza az Ellenállásdobást. Ez a vakság a Vakság gyógyítása vagy Mágia eloszlatása elmondásával gyógyítható. A varázslat Időtartamát a célpont Rangja vagy MÉR értéke módosítja, attól függően, amelyik előnyösebb eredményt ad. Ez az alábbi táblázatban olvasható.
+
+| Célpont Rangja | Célpont MÉR | Időtartam |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 1d4+1 x10 perc\*\* |
+| 2 | 21-40 | 1d4+1 perc |
+| 3 | 41-60 | 1d4+1 kör |
+| 4 | 61-80 | 1d3 kör |
+| 5 | 81+ | 1 kör |
+
+_\* Ez a kategória magában foglalja azokat a karaktereket, akik nem rendelkeznek osztállyal._
+
+_\*\* Ha csak egy-három lény van a Hatóterületen, a hatások állandóak, amíg mágikusan nem kezelik._
+
+---
+#### Erőszó – Halál
+
+(Megidézés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 5 | **Varázslási idő:** 1 akció |
+| **Szféra:** Nincs | **Időtartam:** Állandó |
+| **Költség:** 3/Intenzitás, +3 EXP | **Hatótávolság:** 20 láb/Intenzitás |
+| **Terület:** 10 láb sugarú kör | **Ellenállás:** ÁLL |
+
+Ennek a varázslatnak a sikeres elmondása megöli vagy az egyetlen, legfeljebb 3. Rangú vagy 60-as MÉR-ű lényt (vagy 4 lényt Intenzitásonként, legfeljebb 20-as MÉR-ig), akik elhibázzák az Ellenállásdobást. Ez a varázslat rendkívül kimerítő a varázsló számára, minden elmondás egy Fáradtság-szint automatikus elvesztését okozza. Minden potenciális célpontnak a Hatóterületen belül kell feküdnie, a varázslat elmondásakor kijelölt módon. A szükséges Intenzitás a célpont Rangjától vagy MÉR értékétől függ, attól függően, amelyik a célpont számára előnyösebb eredményt ad, az alábbi táblázat szerint.
+
+| Célpont Rangja | Célpont MÉR | Intenzitás |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 1 Intenzitás +3 EXP a megöléshez |
+| 2 | 21-40 | 2 Intenzitás +3 EXP a megöléshez |
+| 3 | 41-60 | 3 Intenzitás +3 EXP a megöléshez |
+| 4-5 | 61+ | Nincs hatás |
+
+_\* Ez a kategória magában foglalja azokat a karaktereket, akik nem rendelkeznek osztállyal._
+
+A 60-as MÉR-nél nagyobb lényekre nincs hatással, mint ahogy a 4. és magasabb Rangú karakterekre sem. A Halál varázslattal ellentétben az Erőszó – Halál bármit megöl a fent említett határokon belül, azonban lehetséges az áldozatok visszahozása az életbe Kívánság, Halottak feltámasztása, Feltámasztás vagy Reinkarnáció varázslatokkal a szokásos módon.
+
+---
+#### Erőszó – Kábítás
+
+(Megidézés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 3 | **Varázslási idő:** 1 akció |
+| **Szféra:** Nincs | **Időtartam:** Lásd alább |
+| **Költség:** 3, +1 minden további Intenzitásért | **Hatótávolság:** 20 láb/Intenzitás |
+| **Terület:** 1 célpont | **Ellenállás:** ÁLL |
+
+Ennek a varázslatnak a sikeres elmondása után a varázsló által választott, látómezőn belüli és Hatótávolságon belüli lény, aki elhibázza az Ellenállásdobást, elkábul. Az áldozat rövid időre érzéketlenné válik, csak védekező jellegű Reaktív Cselekvésekre képes. Az Időtartamot a célpont Rangja vagy MÉR értéke módosítja, attól függően, amelyik a célpont számára előnyösebb. Ez az alábbi táblázatban olvasható. Ez a kábultság az Időtartam lejárta előtt gyógyítható Mágia eloszlatása varázslattal.
+
+| Célpont Rangja | Célpont MÉR | Időtartam |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 4d4 kör |
+| 2 | 21-40 | 2d4 kör |
+| 3 | 41-60 | 1d4 kör |
+| 4 | 61-80 | 1 kör |
+| 5 | 81+ | Nincs hatás |
+
+_\* Ez a kategória magában foglalja azokat a karaktereket, akik nem rendelkeznek osztállyal._
+
+---#### Imádság
+
+(Megidézés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 3 | **Varázslási idő:** 1 perc |
+| **Szféra:** Harc | **Időtartam:** 10 perc/intenzitás |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** 0 |
+| **Terület:** 60 láb sugarú kör | **Ellenállás:** Nincs |
+
+Az elmondásakor a varázslat megáldja a papot és minden szövetségesét a hatóterületen belül, miközben elátkozza az ellenfeleket. A szövetségesek ideiglenes +5%-os bónuszt kapnak minden képzettség- és ellenálláspróbára, valamint +1 bónuszt minden okozott sebzésre, míg az ellenségek -5%-os levonást és -1 sebzéscsökkentést szenvednek el. Ez a varázslat a Kántálással együtt is alkalmazható, ha ugyanaz a pap, vagy ugyanannak a vallásnak egy másik papja mondja el, lehetővé téve a hatások összeadódását, ami +10%-os bónuszt ad a képzettségekre és +2-t a sebzésre, miközben az ellenségek az ellenkezőjét kapják.
+
+---
+#### Időjárás-előrejelzés
+
+(Jóslás)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 1, Mágus 1 | **Varázslási idő:** 1 perc |
+| **Szféra:** Időjárás | **Időtartam:** Azonnali |
+| **Költség:** 1/intenzitás | **Hatótáv:** 0 |
+| **Terület:** 5 mérföld sugarú kör | **Ellenállás:** Nincs |
+
+Ez a varázslat lehetővé teszi a varázsló számára, hogy 100%-os bizonyossággal megjósolja az időjárást egy 5 mérföldes körzeten belül. Az előrejelzés az intenzitás szintenkénti következő 4 órára vonatkozik, és tartalmazza a hőmérsékletet, a csapadékot, a hóréteg vastagságát, a szélsebességet és így tovább.
+
+---
+#### Tartósítás
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 0, Mágus 0 | **Varázslási idő:** 1 fordulat |
+| **Szféra:** Állat, Növény | **Időtartam:** 1d3 hónap |
 | **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** 1 állat | **Ellenállás:** Akaraterő |
+| **Terület:** Lásd lentebb | **Ellenállás:** Nincs |
 
-A Kedvenc lehetővé teszi a varázsló számára, hogy mentális kontrollt gyakoroljon egy kis lény felett, elküldve azt felderíteni, elhozni valamit, vagy más összetett feladatot elvégezni. Bármely olyan lényre alkalmazható, amelynek SIZ és INS jellemzői nem haladhatják meg a varázsló CHA-jának felét. Ha a megcélzott lény már a varázsló hűséges kedvence, nem kell ellenállnia a varázslatnak. Koncentrálás közben a varázsló hozzáférhet az állat érzékeihez (látás, szaglás, hallás stb.).
+A Tartósítás megakadályozza, hogy a szerves anyagok, mind a növényi, mind az állati, baktériumok által elbomoljanak és rothadásnak induljanak, 1d3 hónapon keresztül, sterilizálva azokat. Ha az anyagot később megfüstölik, pácolják vagy sózzák, akkor határozatlan ideig eltartható marad. A varázslat képes megállítani a már megkezdődött bomlást, de nem tudja visszafordítani. A varázsló annyi szerves anyagot képes befolyásolni 'tárgyakban' vagy MÉR-ben mérve, amennyi a HAT-értéke.
 
 ---
-#### Síkváltás (Plane Shift)
+#### Védelem
 
-(Transzmutáció)
+(Eltérítés)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 2 akció |
-| **Szféra:** Asztrál | **Hatástartam:** Állandó |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** Lásd alább | **Ellenállás:** Akaraterő |
-
-Amikor életbe lép, a pap és legfeljebb 7 másik személy (Intenzitásonként egy) utazhat a létezés más síkjára. Mindenkinek érintkeznie kell, és egy kört kell alkotnia a pap körül. Ezenkívül a varázsló felhasználhatja a varázslatot egy lény önálló szállítására, hajlandó vagy sem, a varázsló által választott síkra; azonban az akaratlan lény Akaraterő-dobást tehet az ellenállásra, a siker semlegesíti a varázslatot. Az érkezés pontos helye ritkán az, amit a varázsló kíván. Ha hexatérképet használsz, dobj 1d6-ot az irány és 1d10x10-et a távolság meghatározására mérföldben.
-
-A szokásos anyagi összetevők mellett a Síkváltás végrehajtása különböző ritka fémekből készült rudakat igényel, mindegyik egy adott létsíkhoz igazítva. Ezek a rudak ritkák, és könnyen értékelhetők akár 10 000 GP-re is.
-
----
-#### Fényezés (Polish)
-
-(Transzmutáció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Teremtés | **Hatástartam:** Azonnali |
+| **Rang:** Pap 0, Mágus 0 | **Varázslási idő:** 1 akció |
+| **Szféra:** Védelem | **Időtartam:** Aktiválódás |
 | **Költség:** 1 | **Hatótáv:** Érintés |
 | **Terület:** 1 célpont | **Ellenállás:** Nincs |
 
-A Fényezés azonnal kifényesít egy tárgyat – legfeljebb a varázsló POW-jának megfelelő SIZ-ig vagy „Holmiig” – magas csillogásúvá, így fényes, ragyogó és nagyon kívánatos lesz, még akkor is, ha a tárgy minősége alacsonyabb rendű. A tárgy természetes módon veszít csillogásából az idő múlásával.
+A Védelem számos olyan feladat során hasznos, ahol fennáll a véletlen sérülés kockázata, például egy öntödében vagy bányában végzett munka során. Amikor a karakter először szenvedne olyan sebzést, amely áthatol a védőruházaton vagy páncélon, a Védelem varázslat aktiválódik, és 1d3 ponttal csökkenti az elszenvedett sebzést. A varázslat ezután megszűnik. Ez a varázslat minden más fajta védelmi mágiával összeadódik. A varázslat csak a fizikai sérülések ellen véd, így nem segít az olyan eseményeknél, mint a tűz, a fulladás stb. A varázslat mágus változata csak magán a varázslón alkalmazható.
 
 ---
-#### Tartósítás (Preserve)
+#### Védelem hideg ellen
+
+(Eltérítés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 2 | **Varázslási idő:** 1 kör |
+| **Szféra:** Védelem, Elemi (Tűz) | **Időtartam:** 15 perc/intenzitás |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+
+A varázslat elmondásakor egy láthatatlan mező alakul ki, amely teljes védelmet nyújt minden természetes hideg ellen. Önmagán alkalmazva a mező teljes védelmet nyújt a hidegalapú sebzések ellen is (fehér sárkány lehelete, hideg kúp, hideg fém stb.), intenzitásonként 12 pontnyi hideg sebzést elnyelve. Amint ez a mező kimerül, az adott támadásból megmaradó többletsebzés a felezése után kerül alkalmazásra.
+
+Ha másvalaki másra alkalmazzák, a természetes hideg elleni teljes védelem szintén biztosított. Ezenkívül a mágikus hideg támadásokból származó sebzés a felére csökken.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 15 perc; 12 pont hideg elleni védelem magán |
+| 2 | 4 | 30 perc; 24 pont hideg elleni védelem magán |
+| 3 | 5 | 45 perc; 36 pont hideg elleni védelem magán |
+| 4 | 6 | 60 perc; 48 pont hideg elleni védelem magán |
+| +1 | +1 | Folyamatos növekmény |
+
+---
+#### Védelem gonosz ellen (F)
+
+(Eltérítés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 1, Mágus 1 | **Varázslási idő:** 1 akció |
+| **Szféra:** Védelem | **Időtartam:** 2 perc/intenzitás |
+| **Költség:** 1/intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+
+A varázslat elmondásakor egy mágikus páncélzat láthatatlan aurája sugárzik a varázslat kedvezményezettjéből (aki a varázsló is lehet), három különböző szintű védelmet biztosítva.
+
+Először is, a Gonosz beállítottságú lények támadásai -10%-os levonást kapnak a Harci Stílus vagy Fegyvertelen képzettségükre. A Védelem gonosz ellen kedvezményezettjének részéről a Resist (Ellenállás) próbák +10%-os bónuszt kapnak, de csak a gonosz lények ellen.
+
+Másodszor, sem megidézett, sem megkonjurált lények, sem az anyagi síkról nem származó lények nem érintkezhetnek fizikailag a kedvezményezettel. Ez magában foglalja a démonokat, ördögöket, dzsinneket, elemi lényeket, légi szolgákat, szalamandrákat stb. Ezen lények természetes támadásai arra kényszerítik őket, hogy visszahőköljenek, így nem sikerül az érintkezés. Ez magában foglal minden olyan szörnyet vagy lényt is, amelyet varázslatokkal vagy tárgyakkal idéztek vagy konjuráltak. Az ilyen lények által tartott fegyverek azonban átjuthatnak a mágikus gáton és eltalálhatják a védett személyt.
+
+Harmadszor, minden mentális irányítási kísérlet (például olyan varázslatokkal, mint a Bűbáj vagy Parancs) vagy megszállás (például a Varázsedény varázslattal) automatikusan kudarcot vall a mágikus védelem áttörésében.
+
+A varázslat időtartama véget ér, ha a védett egyén bármilyen típusú közelharci támadást hajt végre, vagy megkísérli a védelmi mezőt egy érintett lényre kényszeríteni.
+
+A varázslat fordítottja, a Védelem jó ellen, a második és harmadik előny tekintetében ugyanúgy működik, mint a fenti, míg az első előny a jó ellenfelek tekintetében a leírtak szerint funkcionál.
+
+---
+#### Védelem tűz ellen
+
+(Eltérítés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 2 | **Varázslási idő:** 1 kör |
+| **Szféra:** Védelem, Elemi (Tűz) | **Időtartam:** 15 perc/intenzitás |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+
+A varázslat elmondásakor egy láthatatlan mező alakul ki, amely teljes védelmet nyújt a hétköznapi hőforrások minden fajtája ellen, mint például fáklyák, tábortüzek, égő épületek és így tovább. Önmagán alkalmazva a mező teljes védelmet nyújt a tűzalapú sebzések ellen is (vörös sárkány lehelete, Égő kezek, Hőfém stb.), intenzitásonként 12 pontnyi tűzsebzést elnyelve. Amint ez a mező kimerül, az adott támadásból megmaradó többletsebzés a felezése után kerül alkalmazásra.
+
+Ha másvalaki másra alkalmazzák, a hétköznapi tűz elleni teljes védelem szintén biztosított. Ezenkívül a mágikus tűz támadásokból származó sebzés a felére csökken.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 15 perc; 12 pont tűz elleni védelem magán |
+| 2 | 4 | 30 perc; 24 pont tűz elleni védelem magán |
+| 3 | 5 | 45 perc; 36 pont tűz elleni védelem magán |
+| 4 | 6 | 60 perc; 48 pont tűz elleni védelem magán |
+| +1 | +1 | Folyamatos növekmény |
+
+---
+#### Védelem villámlás ellen
+
+(Eltérítés)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 3 | **Varázslási idő:** 1 kör |
+| **Szféra:** Védelem, Időjárás | **Időtartam:** 15 perc/intenzitás |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+
+A varázslat elmondásakor egy láthatatlan mező alakul ki, amely teljes védelmet nyújt az elektromos alapú sebzések ellen (kék sárkány lehelete, sokkoló érintés, elektromos csapdák stb.), intenzitásonként 12 pontnyi elektromos sebzést elnyelve. Amint ez a mező kimerül, az adott támadásból megmaradó többletsebzés a felezése után kerül alkalmazásra.
+
+Ha másvalaki másra alkalmazzák, az elektromos támadásokból származó sebzés a felére csökken.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 15 perc; 12 pont elektromos elleni védelem magán |
+| 2 | 4 | 30 perc; 24 pont elektromos elleni védelem magán |
+| 3 | 5 | 45 perc; 36 pont elektromos elleni védelem magán |
+| 4 | 6 | 60 perc; 48 pont elektromos elleni védelem magán |
+| +1 | +1 | Folyamatos növekmény |
+
+---
+#### Étel és ital tisztítása (F)
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** 1 fordulat |
-| **Szféra:** Állat, Növény | **Hatástartam:** 1d3 hónap |
-| **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** Lásd alább | **Ellenállás:** N/A |
+| **Rang:** Pap 1 | **Varázslási idő:** 1 perc |
+| **Szféra:** Minden | **Időtartam:** Állandó |
+| **Költség:** 1/intenzitás | **Hatótáv:** 100 láb |
+| **Terület:** 5 láb sugarú kör | **Ellenállás:** Nincs |
 
-A Tartósítás megakadályozza a szerves anyagokat (növényi és állati) a bakteriális bomlástól és rothadástól 1d3 hónapig, sterilizálás révén. Ha az anyagot később füstölik, pácolják vagy sózzák, határozatlan ideig eltartható. A varázslat megállíthatja a megkezdődött rothadást, de nem fordíthatja vissza. A varázsló POW-jával megegyező SIZ-nyi vagy „Holmi” mennyiségű szerves anyagot érinthet.
+A varázslat elmondásakor minden méreg, rothadás és egyéb szennyeződés eltávolításra kerül intenzitásonként egy átlagos méretű ételadagból és/vagy vízből a varázslat hatóterületén belül. Ennek a varázslatnak a tisztító tulajdonságai elpusztítják az szentségtelen víz rosszindulatú tulajdonságait is.
 
----
-#### Védelem (Protection)
-
-(Abjuráció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 0, Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** Védelem | **Hatástartam:** Kiváltó (Trigger) |
-| **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
-
-A Védelem hasznos számos olyan feladatnál, ahol fennáll a véletlen sérülés veszélye, például kohóban vagy bányában végzett munka során. Az első alkalommal, amikor a karakter olyan sebzést szenvedne, amely átjut a védőruházaton vagy páncélon, a Védelem varázslat aktiválódik, és 1d3 ponttal csökkenti az elszenvedett sebzést. A varázslat ezután eloszlik. Ez a varázslat halmozódik minden más védelmi mágiával. A varázslat csak fizikai sebzés ellen véd, így nem segít olyan események ellen, mint a tűz, fulladás stb. A varázslat mágus változata csak önmagára alkalmazható.
+A varázslat fordítottja, az Étel és ital szennyezése, elrontja az ételt, ihatatlanná teszi a tiszta vizet, és megrontja a szentelt víz szent tulajdonságait.
 
 ---
-#### Védelem a hidegtől (Protection from Cold)
-
-(Abjuráció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 1 kör |
-| **Szféra:** Védelem, Elemi (Tűz) | **Hatástartam:** 15 perc/Intenzitás |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
-
-Amikor ezt a varázslatot végrehajtják, egy láthatatlan mező alakul ki, amely teljes védelmet nyújt a természetes hideg minden formájával szemben. Amikor önmagára alkalmazzák, a mező teljes védelmet nyújt a hidegalapú sebzéssel szemben (fehér sárkány lehelet, jégkúp, fém hűtése stb.), Intenzitásonként 12 pont hideg sebzést elnyelve. Miután ez a mező kimerült, a támadásból származó minden fennmaradó felesleges sebzés a felére csökken az alkalmazás előtt.
-
-Amikor önmagától eltérő személyre alkalmazzák, a teljes védelem a természetes hideggel szemben szintén megadatik. Ezenkívül a mágikus hidegtámadásokból származó sebzés a teljes érték felére csökken.
-
-| Intenzitás | Költség | Változó hatás |
-| :-: | :-: | :-- |
-| 1 | 3 | 15 perc; 12 pont hideg védelem önmagán |
-| 2 | 4 | 30 perc; 24 pont hideg védelem önmagán |
-| 3 | 5 | 45 perc; 36 pont hideg védelem önmagán |
-| 4 | 6 | 60 perc; 48 pont hideg védelem önmagán |
-| +1 | +1 | Fejlődés folytatása |
-
----
-#### Védelem a gonosztól (R) (Protection from Evil)
-
-(Abjuráció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 1, Mágus 1 | **Időtartam:** 1 akció |
-| **Szféra:** Védelem | **Hatástartam:** 2 perc/Intenzitás |
-| **Költség:** 1/Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
-
-Amikor életbe lép, mágikus páncélzat láthatatlan aurája sugárzik a varázslat címzettjéből (aki lehet a varázsló is), három különböző védelmi szintet biztosítva.
-
-Először: a Gonosz Jellemű lények támadásai -10% büntetést kapnak a Harcstílus vagy Fegyvertelen képzettségükre. A Védelem a gonosztól címzettjének Ellenállás-dobásai +10% bónuszt kapnak, de csak gonosz lényekkel szemben.
-
-Másodszor: sem megidézett vagy conjurált lények, sem olyan lények, amelyek nem őshonosak az anyagi síkon, nem érintkezhetnek fizikailag a címzettel. Ide tartoznak a démonok, ördögök, dzsinnek, elementálok, légi szolgák, szalamandrák stb. Ezen lények természetes támadásai hatására visszarettennek, így nem sikerül az érintkezés. Ez magában foglalja a varázslatok vagy tárgyak által megidézett szörnyeket vagy lényeket is. Az ilyen lények által tartott fegyverek azonban beléphetnek a mágikus gátba, és eltalálhatják a védett egyént.
-
-Harmadszor: bármilyen elmeirányítási kísérlet (például Bűbáj vagy Parancs varázslatokkal) vagy megszállás (például Mágikus edény varázslattal) automatikusan kudarcot vall a mágikus védelem áthatolásában.
-
-A varázslat Időtartama véget ér, ha a védett egyén bármilyen típusú közelharci támadást hajt végre, vagy megkísérli alkalmazni a védelmi mezőt egy érintett lény ellen.
-
-A varázslat megfordítása, a Védelem a jótól, a második és harmadik előnyt illetően a fentiek szerint működik, míg az első előny a jó ellenfelekkel szemben működik.
-
----
-#### Védelem a tűztől (Protection from Fire)
-
-(Abjuráció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 2 | **Időtartam:** 1 kör |
-| **Szféra:** Védelem, Elemi (Tűz) | **Hatástartam:** 15 perc/Intenzitás |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
-
-Amikor ez a varázslat életbe lép, egy láthatatlan mező alakul ki, amely teljes védelmet nyújt a hőség minden világi forrásával szemben, mint például fáklyák, tábortüzek, égő épületek stb. Amikor önmagára alkalmazzák, a mező teljes védelmet nyújt a tűzalapú sebzéssel szemben (vörös sárkány lehelet, Égő kezek, Fém hevítése stb.), Intenzitásonként 12 pont tűz sebzést elnyelve. Miután ez a mező kimerült, a támadásból származó minden fennmaradó felesleges sebzés a felére csökken az alkalmazás előtt.
-
-Amikor önmagától eltérő személyre alkalmazzák, a teljes védelem a világi tűzzel szemben szintén megadatik. Ezenkívül a mágikus tűztámadásokból származó sebzés a teljes érték felére csökken.
-
-| Intenzitás | Költség | Változó hatás |
-| :-: | :-: | :-- |
-| 1 | 3 | 15 perc; 12 pont tűz védelem önmagán |
-| 2 | 4 | 30 perc; 24 pont tűz védelem önmagán |
-| 3 | 5 | 45 perc; 36 pont tűz védelem önmagán |
-| 4 | 6 | 60 perc; 48 pont tűz védelem önmagán |
-| +1 | +1 | Fejlődés folytatása |
-
----
-#### Védelem a villámtól (Protection from Lightning)
-
-(Abjuráció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 1 kör |
-| **Szféra:** Védelem, Időjárás | **Hatástartam:** 15 perc/Intenzitás |
-| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
-
-Amikor ez a varázslat életbe lép, egy láthatatlan mező alakul ki, amely teljes védelmet nyújt az elektromos alapú sebzéssel szemben (kék sárkány lehelet, sokkoló fogás, elektromos csapdák stb.), Intenzitásonként 12 pont elektromos sebzést elnyelve. Miután ez a mező kimerült, a támadásból származó minden fennmaradó felesleges sebzés a felére csökken az alkalmazás előtt.
-
-Amikor önmagától eltérő személyre alkalmazzák, az elektromos támadásokból származó sebzés a teljes érték felére csökken.
-
-| Intenzitás | Költség | Változó hatás |
-| :-: | :-: | :-- |
-| 1 | 3 | 15 perc; 12 pont elektromos védelem önmagán |
-| 2 | 4 | 30 perc; 24 pont elektromos védelem önmagán |
-| 3 | 5 | 45 perc; 36 pont elektromos védelem önmagán |
-| 4 | 6 | 60 perc; 48 pont elektromos védelem önmagán |
-| +1 | +1 | Fejlődés folytatása |
-
----
-#### Étel és ital tisztítása (R) (Purify Food and Drink)
-
-(Transzmutáció)
-
-| | |
-| :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 1 perc |
-| **Szféra:** Minden | **Hatástartam:** Állandó |
-| **Költség:** 1/Intenzitás | **Hatótáv:** 100 láb |
-| **Terület:** 5 láb sugarú | **Ellenállás:** N/A |
-
-Amikor ezt a varázslatot végrehajtják, minden méreg, rothadás és egyéb szennyeződés eltávolításra kerül egy átlagos méretű élelemből és/vagy vízből Intenzitásonként a varázslat Hatásterületén belül. A varázslat tisztító tulajdonságai megsemmisítik a szenteltvíz rosszindulatú tulajdonságait is.
-
-A varázslat megfordítása, az Étel és ital szennyezése (Contaminate Food and Drink), elrontja az ételt, ihatatlanná teszi a tiszta vizet, és megrontja a szenteltvíz szent tulajdonságait.
-
----
-#### Feltámasztás (R) (Raise Dead)
+#### Holtak feltámasztása (F)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 1 perc |
-| **Szféra:** Nekromantikus | **Hatástartam:** Állandó |
-| **Költség:** 3, +1/további Intenzitás, +1 EXP | **Hatótáv:** 100 láb |
-| **Terület:** 1 célpont | **Ellenállás:** N/A (Akaraterő) |
+| **Rang:** Pap 3 | **Varázslási idő:** 1 perc |
+| **Szféra:** Nekromantikus | **Időtartam:** Állandó |
+| **Költség:** 3, +1 minden további intenzitásért, +1 EXP | **Hatótáv:** 100 láb |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs (HAT) |
 
-Ez a varázslat olyan lény holttestére alkalmazható, aki Intenzitásonként kevesebb mint 24 órája halt meg. Ha az alany Jelleme bármi más volt, mint gonosz, akkor egy Opposed Akaraterő-dobással ellenállhat a varázslatnak, és ha sikeres, semlegesítheti a varázslat hatásait. Ez azért van, mert az elhunyt lelke vagy szelleme ritkán hajlandó visszatérni az élők közé, miután elérte örök jutalmát. A Játékmester dönthet úgy, hogy eltekint a dobástól, ha az elhunytnak befejezetlen dolga van, nem választható el igaz szerelmétől, vagy más hősies oka van az életre.
+Ez a varázslat az intenzitás szintenként 24 óránál rövidebb ideje elhunyt lény holttestén alkalmazható. Ha az alany beállítottsága bármi más volt, mint gonosz, akkor ellenállhat a varázslatnak egy szembeállított HAT (Willpower) próbával, és ha sikeres, semlegesítheti a varázslat hatásait. Ez azért van, mert az elhunyt lelke vagy szelleme ritkán hajlandó visszatérni az élők közé, miután elérte örök jutalmát. A Játékmester dönthet úgy, hogy eltekint a próbától, ha az alanynak elintézetlen ügye van, nem tud elszakadni igaz szerelmétől, vagy más hősies oka van az életre.
 
-A gonosz lelkek esetében, akik örömmel térnének vissza az anyagi síkra, a büntetésükért felelős démon, ördög vagy kínzó Akaratereje az, amely ellenáll. Ebben az esetben a varázslónak le kell győznie a kínzó Akaraterejét. Ha ez ismeretlen, feltételezzük, hogy legalább 20 ponttal magasabb, mint az elhunyté, ami azt jelzi, hogy minél erősebb a lélek akarata, annál hatalmasabb az ő kárhozatukért felelős lény. Ha a varázsló sikeres, sikeresen visszajuttatta a lelket a testbe, míg a sikertelen dobás azt eredményezi, hogy az áldozat vagy nem akar, vagy nem tud visszatérni.
+Gonosz lelkek esetében, akik örömmel térnének vissza az anyagi síkra az örök kárhozat elszenvedése helyett, nem az elhunyt HAT-ja áll ellen, hanem a büntetésükért felelős démoné, ördögé stb., azaz a kínzójuké. Ebben az esetben a varázslónak felül kell múlnia a kínzó HAT-ját. Ha ez ismeretlen, feltételezzük, hogy legalább 20 ponttal magasabb, mint az elhunyté, ami azt hivatott jelképezni, hogy minél erősebb a lélek akarata, annál hatalmasabb a kárhozatáért felelős lény. Ha a varázsló sikeres, sikeresen visszatérítette a szellemet a testbe, míg egy elbukott próba azt eredményezi, hogy az áldozat vagy nem akar, vagy nem tud visszatérni.
 
-Ha a végrehajtás sikeres, az alany teljes Életerő ponttal tér vissza az életbe, bár a leszakadt végtagok elveszettek maradnak. Ez azt jelenti, hogy a lefejezett vagy kettévágott áldozat nem támasztható fel, amíg a fejét vagy a törzsét először vissza nem illesztik. Ez megtehető a Feltámasztás előtt a sérült rész fizikai visszaillesztésével, amely gyógyítókészletet és a Gyógyítás képzettség sikeres alkalmazását igényli, és általában nyilvánvaló és árulkodó heget hagy hátra. Egyéb kórságokat (pl. méreg vagy betegség) a Feltámasztás előtt vagy után kell kezelni, különben az eredmények csak átmenetiek. Végül a Feltámasztás nincs hatással olyan lényre, aki természetes öregségében halt meg.
+Ha a varázslás sikeres, az alany teljes Életerővel tér vissza az életbe, bár a levágott végtagok elvesznek. Ez azt jelenti, hogy egy lefejezett vagy félbevágott áldozat nem támasztható fel, amíg a fejét vagy törzsét először vissza nem illesztik. Ezt meg lehet tenni a Holtak feltámasztása előtt a levágott rész fizikailag történő visszaillesztésével, ami gyógyítókészletet és a Gyógyítás képzettség sikeres alkalmazását igényli, és általában nyilvánvaló és árulkodó heget hagy hátra. Más bajokat, mint a méreg vagy betegség, a Holtak feltámasztása előtt vagy után kell kezelni, különben az eredmények csak ideiglenesek. Végezetül, a Holtak feltámasztása nincs hatással az olyan lényekre, akik elérték természetes élettartamuk végét, és öregkorban haltak meg.
 
-Az életre keltés cselekedete nagyon megterheli az alanyt, akinek Kimerültségi szintje 24 órára Incapacitated-re (képtelenné válik) csökken minden eltelt halott nap után. A Kimerültség gyógyítása varázslatnak nincs hatása a páciensre ez alatt a lábadozási időszak alatt. Ezután a karakter a szokásos módon és korlátozások nélkül épül fel a Kimerültségből.
+A halálból való feltámasztás folyamata nagy megterhelést jelent az alany számára, akinek a Fáradtság Szintje Cselekvőképtelen szintre csökken minden egyes eltelt halott nap után 24 órára. A Fáradtság gyógyítása varázslatnak nincs hatása a betegre a lábadozás ezen ideje alatt. Ezen időszak után a karakter a Fáradtságból normálisan, korlátozások nélkül gyógyul fel.
 
-Megfordítva, az Élő megölése (Slay Living) használható egy, a pap által a varázsláskor kijelölt áldozat megölésére. Az áldozat Akaraterő-dobást tehet az ellenállásra, amelyet a célpont Rangja vagy SIZ-je módosít (attól függően, melyik ad előnyösebb eredményt a célpontnak), az alábbi táblázat szerint:
+Amikor megfordítják, az Élők megölése varázslat felhasználható egyetlen, a pap által a varázslás pillanatában kijelölt áldozat megölésére. Az áldozat HAT próbát tehet az ellenállásra, amelyet a célpont Rangja vagy MÉR-je módosít, attól függően, melyik ad kedvezőbb eredményt a célpont számára, az alábbi táblázat szerint.
 
-| Célpont Rang | Célpont SIZ | Akaraterő módosító |
+| Célpont rangja | Célpont MÉR | HAT módosító |
 | :-: | :-: | :-: |
-| 0-1\* | 1-20 | Félelmetes |
-| 2 | 21-40 | Átlagos |
+| 0-1\* | 1-20 | Nehéz |
+| 2 | 21-40 | Szabványos |
 | 3 | 41-60 | Könnyű |
-| 4-5 | 61+ | Nagyon Könnyű |
+| 4-5 | 61+ | Nagyon könnyű |
 
-*\* Ez a kategória magában foglalja azokat a karaktereket is, akik nem rendelkeznek osztállyal.*
+_\* Ez a kategória magában foglalja azokat a karaktereket, akik nem rendelkeznek osztállyal._
 
-Ha az Ellenállás-dobás sikertelen, az áldozat szörnyethal. A sikeres dobás a Súlyos sebek okozása hatásaival egyenértékű. A páncél nem nyújt védelmet ezzel a sebzéssel szemben.
+Ha az Ellenállás próba sikertelen, az áldozat azonnal meghal. A sikeres próba a Súlyos sebek okozása varázslat hatásának megfelelően kezelendő. A páncél nem nyújt védelmet ez ellen a sebzés ellen.
 
 ---
-#### Mágia olvasása (Read Magic)
+#### Mágiaolvasás
 
 (Minden)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 0 | **Időtartam:** 1 perc |
-| **Szféra:** Nincs | **Hatástartam:** 2 perc/Intenzitás |
-| **Költség:** 1/Intenzitás | **Hatótáv:** 0 |
-| **Terület:** Varázsló | **Ellenállás:** N/A |
+| **Rang:** Mágus 0 | **Varázslási idő:** 1 perc |
+| **Szféra:** Nincs | **Időtartam:** 2 perc/intenzitás |
+| **Költség:** 1/intenzitás | **Hatótáv:** 0 |
+| **Terület:** Varázsló | **Ellenállás:** Nincs |
 
-Ez a varázslat az első, amit a tanonc mágusoknak tanítanak, mert ezen keresztül olvashatják más varázslók mágikus írásait. A mágusok saját mágikus írásai mindig érthetőek számukra. A mágikus írás elolvasása általában nem aktivál egy tartalmazott varázslatot, például a mágikus tekercseken találhatókat; azonban az elátkozott mágikus tekercsek és hasonlók aktiválódnak ennek a varázslatnak a használatával, végrehajtva a tekercsben lévő varázslatot.
+Ez a varázslat az első, amit a mágiahasználó tanoncoknak tanítanak, mivel ezen keresztül tudják elolvasni egy másik varázsló mágikus írásait. A mágusok saját mágikus írásai számukra mindig érthetőek. A mágikus írások olvasása általában nem aktiválja a benne rejlő varázslatot, mint például a mágikus tekercseken találhatókat; azonban az elátkozott mágikus tekercsek és hasonlók aktiválódnak e varázslat használatakor, elindítva a tekercsen található varázslatot.
 
-Amikor egy tekercsen vagy varázskönyvben található varázslat azonosítására használják, minden varázslati szintért 1 perc szükséges; az 1. szintű varázslatok 1 perc, a 2. szintűek 2 perc stb. Ha elegendő Időtartam áll rendelkezésre, ezalatt további varázslatok azonosíthatók. Miután ezt a varázslatot használták a mágikus feliratok elolvasására és azonosítására, a mágusnak nem kell újra végrehajtania a Mágia olvasása varázslatot, hogy újra elolvassa őket; azonban ugyanazt a varázslatot egy másik tekercsen, könyvön stb. újra végre kell hajtania.
+Amikor egy tekercsen vagy varázskönyvben található varázslat azonosítására használják, minden varázslat Rangjára 1 perc szükséges; az 1. Rangú varázslatok 1 percet, a 2. Rangú varázslatok 2 percet vesznek igénybe, és így tovább. Ha elegendő időtartam maradt, további varázslatok is azonosíthatók ezalatt az idő alatt. Miután ezt a varázslatot mágikus feliratok elolvasására és azonosítására használták, a mágiahasználónak nem kell újra elmondania a Mágiaolvasást, hogy újra elolvassa őket; azonban ugyanazt a varázslatot egy másik tekercsen, könyvben stb. újra el kell olvasni a Mágiaolvasás egy másik elmondásával.
 
-A Mágia olvasása minden Mágikus Iskola számára használható.
+A Mágiaolvasás minden Mágikus Iskola által használható.
 
 ---
-#### Regeneráció (R) (Regenerate)
+#### Regeneráció (F)
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 4 | **Időtartam:** 3 perc |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
-| **Költség:** 3/Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 lény | **Ellenállás:** N/A (Parírozás vagy Kikerülés) |
+| **Rang:** Pap 4 | **Varázslási idő:** 3 perc |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
+| **Költség:** 3/intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 lény | **Ellenállás:** Nincs (Parry vagy Evade) |
 
-Amikor életbe lép, a pap megérinthet egy lényt, és regenerálhatja a leszakadt Testtájat. Az elveszett végtagok teljesen visszanőnek, körönként 10 perc alatt 1 Életerő ponttal, amíg teljesen meg nem gyógyulnak. Azonban, ha a levágott terület jelen van és hozzáér az áldozathoz, a teljes felépülési idő 1 percre csökken. Ez a varázslat nem használható egy egyén "klónozására", mivel csak az agyhoz és a központi idegrendszerhez kapcsolódó rész profitál a varázslat hatásaiból. Minden Intenzitási szint egy külön Testtájat növeszt vissza. Bár a varázslat használható egy kisebb sérülés lassú gyógyítására, vannak alacsonyabb rangú, kevésbé költséges varázslatok erre a célra.
+A varázslat elmondásakor a pap megérinthet egy lényt, és regenerálhat egy leszakadt Testi Helyet. Az elveszett végtagok 10 percenként 1 Életerőpont sebességgel nőnek vissza teljesen, amíg meg nem gyógyulnak. Azonban, ha a levágott rész jelen van és érinti az áldozatot, a teljes gyógyulási idő 1 percre csökken. Ez a varázslat nem használható egy egyén 'klónozására' két külön rész regenerálásával, mivel csak az agyhoz és a központi idegrendszerhez csatlakozó rész részesül a varázslat hatásaiból. Minden intenzitási szint egy külön Testi Helyet növeszt vissza. Bár a varázslat használható egy kisebb sérülés lassú gyógyítására, vannak alacsonyabb Rangú, kevésbé költséges varázslatok is erre a célra.
 
-Megfordítva, az Elsorvadás (Wither) azt okozza, hogy a varázsló által érintett terület elszárad, és végül leesik az áldozatról. A folyamat körönként 1 Életerő pontot okoz a sérült területen, a terület 0 Életerő pontnál használhatatlanná válik, és amikor teljesen negatívba megy, leesik. A hatások csak a Regeneráció varázslat végrehajtásával semlegesíthetők.
+Amikor megfordítják, az Elsorvasztás a varázsló által érintett helyet összezsugorítja, és az végül leesik az áldozatról. A folyamat 10 percenként 1 Életerőpontnyi sebzést okoz az érintett helyen, a hely 0 Életerőpontnál használhatatlanná válik, és teljesen negatív állapotban leesik. A hatások csak egy Regeneráció varázslattal semlegesíthetők.
 
 ---
-#### Reinkarnáció, Arkán (Reincarnation, Arcane)
+#### Reinkarnáció, Arkán
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Mágus 4 | **Időtartam:** 10 perc |
-| **Szféra:** Nincs | **Hatástartam:** Állandó |
-| **Költség:** 3, +1/további Intenzitás, +1EXP | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** Lásd alább |
+| **Rang:** Mágus 4 | **Varázslási idő:** 10 perc |
+| **Szféra:** Nincs | **Időtartam:** Állandó |
+| **Költség:** 3, +1 minden további intenzitásért, +1 EXP | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Lásd lentebb |
 
-Ezt a varázslatot egy olyan lény holttestének érintése közben hajtják végre, aki Intenzitásonként kevesebb mint 24 órája halt meg. Azonban ez a Reinkarnáció változat nincs hatással a tisztavérű elfekre (helyette lásd az Isteni Feltámasztás [Raise Dead] vagy Feltámadás [Resurrection] varázslatokat). Ha az áldozat Jelleme bármi más volt, mint gonosz, az áldozat Opposed Akaraterő-dobással ellenáll a varázslatnak, és ha sikeres, semlegesíti a hatásait. Ez azért van, mert az elhunyt lelke vagy szelleme ritkán hajlandó új testbe lépni, miután elérte örök jutalmát. A Játékmester dönthet úgy, hogy eltekint a dobástól, ha az alanynak befejezetlen dolga van, nem választható el igaz szerelmétől, vagy valamilyen más hősies oka van az életre.
+Ezt a varázslatot az intenzitás szintenként 24 óránál rövidebb ideje elhunyt lény holttestének érintése közben mondják el. Ennek a Reinkarnációnak azonban nincs hatása a tisztavérű tündékre (helyette lásd az isteni varázslatokat: [Holtak feltámasztása](0010_Spells.md?id=raise-dead-r) vagy [Feltámadás](0010_Spells.md?id=resurrection-r)). Ha az áldozat beállítottsága bármi más volt, mint gonosz, az áldozat ellenáll a varázslatnak egy szembeállított HAT próbával, és ha sikeres, semlegesíti a varázslat hatásait. Ez azért van, mert az elhunyt lelke vagy szelleme ritkán hajlandó új testbe lépni, miután elérte örök jutalmát. A Játékmester dönthet úgy, hogy eltekint a próbától, ha az alanynak elintézetlen ügye van, nem tud elszakadni igaz szerelmétől, vagy más hősies oka van az életre.
 
-A gonosz lelkek esetében, akik örömmel térnének vissza az anyagi síkra, nem az elhunyt Akaratereje az, ami ellenáll, hanem a büntetéséért felelős démoné, ördögé, kínzóé stb. Ebben az esetben a varázslónak le kell győznie a kínzó Akaraterejét. Ha ez ismeretlen, feltételezzük, hogy legalább 20 ponttal magasabb, mint az elhunyté, ami azt jelzi, hogy minél erősebb a lélek akarata, annál hatalmasabb az ő kárhozatáért felelős lény. Ha a varázsló sikeres, sikeresen lehorgonyozta a szellemet a gazdatesthez, míg a sikertelen dobás azt eredményezi, hogy az áldozat vagy nem hajlandó, vagy nem tud visszatérni.
+<details>
 
-Ha a végrehajtás sikeres, 1d6x10 percen belül megjelenik egy teljesen kifejlett felnőtt test, amely az elhunyt tudatát tartalmazza. A varázslónak nincs hatalma az forma vagy nem felett, amelyben a lélek visszatér – dobj az alábbi táblázat alapján. Az egykori karakterosztály és rang megmarad. Ez azt jelenti, hogy a karakternek meg kell győznie barátait, családját és korábbi ismerőseit arról, hogy ő az, akinek mondja magát; ez magában foglalja a rendjét vagy céhét is, amikor eljön az Előmenetel ideje, ha releváns. Ezt legjobban az befolyásolja (Influence), mennyire drasztikus a változás, a Játékmester döntése szerint. Például egy törpéből törpévé reinkarnálódott karakternek egy Átlagos (Standard) befolyásolási dobásra lehet szüksége, míg törpéből gnómmá vagy félszerzetté való reinkarnáció már nehezebb lehet.
+<summary>* Közösségi Errata</summary>
 
-Minden Jellemző véletlenszerűen kerül meghatározásra az új forma szerint, kivéve az INT, POW és CHA értékeket, amelyek változatlanok maradnak. Számold újra a karakter Alap képzettségi szintjeit és módosítsd a képzettségi összegeket. A Szenvedélyeket ez nem befolyásolja. Bármilyen korábbi faji képesség elveszik, és az új fajéval helyettesül. Ha az új forma nem felel meg a régi karakterosztálynak, az egyetlen választás a vele való együttélés, vagy egy új osztály elsajátítása. A reinkarnált egyén emlékszik korábbi életének nagy részére, bár a Játékmester kérheti, hogy az első héten a karakter tegyen Akaraterő-dobást a jelentős tények felidézésére. Egy Kívánság (Wish) visszaállíthatja a reinkarnált egyént korábbi formájába, ha később kívánatos.
+---
+
+#### Reinkarnáció, Arkán
+
+_Az eredeti szabály a következő volt: "Ennek a Reinkarnációnak azonban nincs hatása a tisztavérű tündékre (helyette lásd az Isteni Reinkarnációt)."_
+
+_A Classic Fantasy Imperative-ben nincs említés Isteni Reinkarnációról, ezért ezt megváltoztattuk, hogy a Holtak feltámasztására és a Feltámadásra hivatkozzon, melyek közül egyik sem tiltja a tünde visszatérést._
+
+---
+
+</details>
+
+Gonosz lelkek esetében, akik örömmel térnének vissza az anyagi síkra az örök kárhozat elszenvedése helyett, nem az elhunyt HAT-ja áll ellen, hanem a büntetésükért felelős démoné, ördögé stb., azaz a kínzójuké. Ebben az esetben a varázslónak felül kell múlnia a kínzó HAT-ját. Ha ez ismeretlen, feltételezzük, hogy legalább 20 ponttal magasabb, mint az elhunyté, ami azt hivatott jelképezni, hogy minél erősebb a lélek akarata, annál hatalmasabb a kárhozatáért felelős lény. Ha a varázsló sikeres, sikeresen lehorgonyozta a szellemet a gazdatesthez, míg egy elbukott próba azt eredményezi, hogy az áldozat vagy nem akar, vagy nem tud visszatérni.
+
+Ha a varázslás sikeres, 1d6x10 perc alatt megjelenik egy teljesen kifejlett felnőtt test, amely tartalmazza az elhunyt tudatát. A varázslónak nincs hatalma az forma vagy nem felett, amiben a lélek visszatér - dobj az alábbi táblázat szerint. Az előző karakter Osztály és Rang megmarad. Ez azt jelenti, hogy némi meggyőzőerőre lehet szüksége a karakter részéről, amikor barátokkal, családdal és korábbi ismerősökkel tárgyal, hogy elhiggyék, ő az, akinek mondja magát; ez magában foglalja a rendjét vagy céhét is, amikor eljön az Előmenetel ideje, ha releváns. Ezt legjobban a karakter részéről történő Befolyásolás próbák képviselik, amelyeket a Játékmester határoz meg a változás drasztikussága alapján. Például egy másik törpévé reinkarnálódott törpe esetében egy Szabványos Befolyásolás próba szükséges lehet, hogy meggyőzzön egy korábbi szövetségest a valódi kilétéről, míg egy gnómmá vagy félszerzetté válás esetén a próba egy fokkal nehezebbé válhat. Végezetül, ugyanez a karakter két fokkal nehezebbnek találhatja kiléte elhitetését másokkal, ha olyan szélsőséges dologgá változik, mint egy goblin, ork vagy troll.
+
+Minden Tulajdonságot véletlenszerűen határozzák meg az új formának megfelelően, kivéve az INT, HAT (HAT) és KAR (KAR) értékeket, amelyek változatlanok maradnak. Számold újra a karakter Alap képzettségi szintjeit, és módosítsd a képzettség összegeket ennek megfelelően. A Szenvedélyek változatlanok. Minden korábbi faji Képesség elveszik, és az új fajéval helyettesítődik. Ha az új forma nem felel meg a régi karakter Osztálynak, az egyetlen lehetőség az ezzel való együttélés, vagy egy új Osztály tanulása. A reinkarnálódott egyén korábbi élete nagy részére emlékszik, bár a Játékmester kérheti a karaktertől, hogy tegyen egy HAT próbát a jelentős tények felidézésére az első héten. Egy Kívánság varázslat visszaállíthatja a reinkarnálódott egyént korábbi formájába, ha később kívánatos.
 
 Dobj az alábbi táblázaton az új forma meghatározásához.
 
-##### Reinkarnációs eredménytábla
+##### Reinkarnációs eredménytáblázat
 
-| Reinkarnáció eredménye | | Demi-humán | | Humanoid/Szörny | |
+| Reinkarnációs eredmény | | Fél-ember | | Humánoid/Szörny | |
 |:-:|:--|:-:|:--|:-:|:--|
-| **D100 Dobás** | **Eredmény** | **D100 Dobás** | **Eredmény** | **D100 Dobás** | **Eredmény** | 
+| **D100 dobás** | **Eredmény** | **D100 dobás** | **Eredmény** | **D100 dobás** | **Eredmény** | 
 | 01-20 | Ember | 01-20 | Törpe | 01-10 | Bugbear | 
-| 21-60 | Demi-humán * | 21-40 | Elf | 11-26 | Gnoll | 
-| 61-95 | Humanoid/Szörny ** | 41-60 | Gnóm | 27-42 | Goblin | 
-| 96-00 | Egyéb – Játékmester opciója | 61-80 | Fél-elf | 43-58 | Hobgoblin | 
+| 21-60 | Fél-ember \* | 21-40 | Tünde | 11-26 | Gnoll | 
+| 61-95 | Humánoid/Szörny \*\* | 41-60 | Gnóm | 27-42 | Goblin | 
+| 96-00 | Egyéb - JM választása | 61-80 | Féltünde | 43-58 | Hobgoblin | 
 | | | 81-100 | Félszerzet | 59-74 | Kobold | 
-| | | | | 75-90 | Orkok | 
+| | | | | 75-90 | Ork | 
 | | | | | 91-95 | Ogre | 
 | | | | | 96-00 | Troll | 
 
-* Dobj újra és nézd meg a Demi-humán eredmények oszlopát.
+\* Dobj újra, és nézd meg a Fél-ember eredmények oszlopot.
 
-** Dobj újra és nézd meg a Humanoid/Szörny eredmények oszlopát.
+\*\* Dobj újra, és nézd meg a Humánoid/Szörny eredmények oszlopot.
 
----
-#### Átok eltávolítása (R) (Remove Curse)
+---#### Átok eltávolítása (R)
 
 (Abjuráció)
 
-| | |
+|  |  |
 | :-- | :-- |
-| **Szint:** Pap 2, Mágus 3 | **Időtartam:** 2 akció |
-| **Szféra:** ?? | **Hatástartam:** Állandó |
+| **Rang:** Pap 2, Mágus 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Védelem | **Időtartam:** Állandó |
 | **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
+| **Terület:** 1 Célpont | **Ellenállás:** NA |
 
-Ez a varázslat általában eltávolítja a lényt vagy tárgyat sújtó átok hatásait. Nem távolítja el a tárgy elátkozott természetét (például fegyver, pajzs vagy páncél), de lehetővé teszi, hogy az ilyen tárggyal sújtott lény megszabaduljon tőle. Egyes átkok csak akkor távolíthatók el, ha a varázslatot bizonyos Intenzitással alkalmazzák, ami általában az adott leírásban szerepel. A vérfarkasság gyógyítására a Betegség gyógyítása vagy az Átok eltávolítása varázslat is használható, mindkettő 12-es Intenzitást igényel.
+Ez a varázslat általában eltávolítja bármely átok hatását, amely egy lényt vagy tárgyat sújt. Nem szünteti meg egy tárgy – például fegyver, pajzs vagy páncél – átkozott mivoltát, de lehetővé teszi, hogy az átkozott tárgyat viselő lény megszabaduljon tőle. Bizonyos átkok csak akkor távolíthatók el, ha a varázslatot egy bizonyos Intenzitással alkalmazzák, amit általában az adott leírás tartalmaz. A vérfarkaskór (likantrópia) gyógyítására a Betegség gyógyítása vagy az Átok eltávolítása egyaránt használható, mindkettő 12-es Intenzitást igényel.
 
-A varázslat megfordítása, az Átok osztása (Bestow Curse), az alábbi hatások egyikét okozza az ellenségen, 30 perc/Intenzitás Időtartammal. Az áldozat Opposed Akaraterő-dobást tehet az ellenállásra a szokásos módon. Dobj 1d100-zal az elátkozott hatás jellegének meghatározásához:
+A varázslat ellentéte, az Átok osztása, a következő hatások egyikét rója az ellenségre, Intenzitásonként 30 perces Időtartammal. Az áldozatnak lehetősége van egy Ellentétes Akaraterő-dobásra a szokásos módon történő ellenálláshoz. Dobj 1k100-zal az átok természetének meghatározásához:
 
-- 01-25: A STR, DEX vagy CON értékeket használó képzettségek egy fokozattal nehezebbek. Iniciatíva -4, Sebzésmódosító 2 fokozattal csökkentve.
-- 26-50: Az INT, POW vagy CHA értékeket használó képzettségek egy fokozattal nehezebbek. Iniciatíva -4.
-- 51-75: A Harci Képzettségek és Ellenállás-dobások 2 fokozattal nehezebbek.
-- 76-00: Minden elbukott képességdobás Balsikernek (Fumble) minősül.
+- 01-25: Minden ERŐ-t, ÜGY-et vagy ÁLL-t használó képesség egy fokozattal nehezebb. Kezdeményezés -4, Sebzésmódosító 2 lépcsővel csökken.
+- 26-50: Minden INT-et, HAT-ot vagy KAR-t használó képesség egy fokozattal nehezebb. Kezdeményezés -4.
+- 51-75: A Harci képességek és az Ellenállás-dobások 2 fokozattal nehezebbek.
+- 76-00: Minden elrontott képességpróbát bénázásnak (Fumble) kell tekinteni.
 
 ---
-#### Félelem eltávolítása (R) (Remove Fear)
+#### Félelem eltávolítása (R)
 
 (Abjuráció (Bűbáj))
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1 | **Időtartam:** 1 akció |
-| **Szféra:** Bűbáj | **Hatástartam:** Lásd alább |
+| **Rang:** Pap 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Bűbáj | **Időtartam:** Lásd lentebb |
 | **Költség:** 1/Intenzitás | **Hatótáv:** 30 láb |
-| **Terület:** 1 célpont | **Ellenállás:** Lásd alább |
+| **Terület:** 1 Célpont | **Ellenállás:** Lásd lentebb |
 
-A varázslat végrehajtója elűzheti a félelem hatásait egyénenként (Intenzitásonként), további ellenállási dobást biztosítva számukra. A Félelem eltávolítása isteni védelmet is nyújthat a félelemmel szemben 10 percig, ha olyan valakire alkalmazzák, aki még nem szenved a hatásaitól. Mindkét esetben az alany szükséges Ellenállási dobása egy fokozattal könnyebb. Bár a pap önmagára is alkalmazhatná a varázslatot, hogy védjen a félelemmel szemben, nem használhatja a félelem olyan folyamatban lévő hatásainak eltávolítására, amelyek megakadályoznák a varázslást.
+A varázsló ezzel a varázslattal Intenzitásonként egy-egy egyénről űzheti el a félelem hatásait, további dobást biztosítva az ellenállásra. A Félelem eltávolítása isteni védelmet is nyújthat a félelem ellen 10 percig, ha olyan valakire vetik, aki még nem szenved annak hatásaitól. Mindkét esetben az alany számára szükséges Ellenállás-dobás egy fokozattal könnyebb. Bár a pap saját magára is vetheti ezt a varázslatot a félelem elleni védelem érdekében, nem használhatja a félelem folyamatban lévő hatásainak eltávolítására, ha azok akadályoznák a varázslást.
 
-A varázslat megfordítása, a Félelem okozása (Cause Fear), harcban érintést igényel az áldozaton. Azok, akik elbukják az Akaraterő Ellenállás-dobását, 1d4 körön át rettegésben Sprintelnek. Az iránynak a varázslótól elfelé kell mutatnia. A Félelem okozása ellensúlyozható a Félelem eltávolításával és fordítva.
+A varázslat ellentéte, a Félelem okozása, harcban az áldozat megérintését igényli. Akik elbukják az Akaraterő-alapú Ellenállás-dobást, 1k4 Körön át rettegésben menekülnek (Sprint). Az irány a varázslótól távolodó kell legyen. A Félelem okozása a Félelem eltávolításával hárítható, és fordítva.
 
-| Intenzitás | Költség | Változó hatás |
+| Intenzitás | Költség | Változó Hatás |
 | :-: | :-: | :-- |
 | 1 | 1 | 30 láb hatótáv; 1 alany |
 | 2 | 2 | 60 láb hatótáv; 2 alany |
@@ -2352,29 +2536,474 @@ A varázslat megfordítása, a Félelem okozása (Cause Fear), harcban érintés
 | 5 | 5 | 150 láb hatótáv; 5 alany |
 
 ---
-#### Javítás (Repair)
+#### Javítás
 
 (Transzmutáció)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 1, Mágus 0 | **Időtartam:** 1 akció |
-| **Szféra:** ?? | **Hatástartam:** 24 óra |
+| **Rang:** Pap 1, Mágus 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Teremtés | **Időtartam:** 24 óra |
 | **Költség:** 1 | **Hatótáv:** Érintés |
-| **Terület:** 1 tárgy | **Ellenállás:** N/A |
+| **Terület:** 1 Tárgy | **Ellenállás:** NA |
 
-A Javítás kijavítja az élettelen tárgy fizikai sérüléseit. Minden külön sikeres végrehajtás 1d3 Életerő pontnyi sérülést javít ki.
+A Javítás kijavítja egy élettelen tárgy fizikai sérüléseit. Minden külön sikeres varázslás 1k3 Életerőpontnyi sérülést javít meg.
 
 ---
-#### Helyreállítás (Restoration)
+#### Helyreállítás
 
 (Nekromancia)
 
 | | |
 | :-- | :-- |
-| **Szint:** Pap 3 | **Időtartam:** 3 perc |
-| **Szféra:** Gyógyítás | **Hatástartam:** Állandó |
+| **Rang:** Pap 3 | **Varázslási idő:** 3 perc |
+| **Szféra:** Gyógyítás | **Időtartam:** Állandó |
 | **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
-| **Terület:** 1 célpont | **Ellenállás:** N/A |
+| **Terület:** 1 Célpont | **Ellenállás:** NA |
 
-Amikor életbe lép, egy lény, akit korábban Energiaelszívással vagy hasonló hatásokkal fosztottak meg életerejétől, visszanyer egy korábban elveszett Kimerültségi szintet. 1-es Intenzitási szinten ez a varázslat csak azokra a lényekre működik, akiket az elmúlt 24 órában fosztottak meg életerejétől. Minden további Intenzitás 24 órával növeli az eltelt időt.
+Amikor alkalmazzák, az Energiaelszívás vagy hasonló hatások által korábban életerejétől megfosztott áldozat visszanyeri egy korábban elvesztett Fáradtság-szintjét. 1-es Intenzitási szinten a varázslat csak olyan lényeken működik, akiktől az elmúlt 24 órában szívták el az erőt. Minden további Intenzitás további 24 órával növeli az eltelt időt. Például egy áldozatnak, akit alig 48 órája fosztottak meg az erejétől, 2-es Intenzitású varázslatra lenne szüksége a hatás eléréséhez. A Fáradtság több szintjének elvesztése a Helyreállítás több alkalmazását igényli. Az Időtartamtól függetlenül, a visszaállított Fáradtságon túl, ez a varázslat minden mentális képességet is helyreállít, mint amilyeneket mágia vagy bármilyen elmebaj vagy demencia által vesztettek el. A Helyreállítás felhasználható a mesterséges öregedés miatt elvesztett évek visszanyerésére is, például bizonyos varázslatok következtében. Ahhoz, hogy a varázslatot így alkalmazzák, a szokásos varázslási költségen felül a papnak 1 TP-dobást (EXP Roll) kell elhasználnia a címzett tipikus élettartamának minden 1%-áért, amit helyre kell állítani (ember esetében 1 év). A varázslat nem csökkentheti az alany jelenlegi életkorát a tényleges életkoránál alacsonyabbra.
+
+---
+#### Feltámasztás (R)
+
+(Nekromancia)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 5 | **Varázslási idő:** 10 perc |
+| **Szféra:** Nekromantikus | **Időtartam:** Állandó |
+| **Költség:** 3, +1/további Intenzitás, +2 TP | **Hatótáv:** Érintés |
+| **Terület:** 1 Célpont | **Ellenállás:** NA (Akaraterő) |
+
+A Feltámasztás bármely lényt életre kelt, aki nem halt meg régebben, mint Intenzitási szintenként 20 év. A lény nemcsak életet kap, hanem teljes erejét visszanyeri és sérüléseiből meggyógyul, még az elveszett végtagok is visszanőnek. Kevés dolog szükséges az eredeti lényből ahhoz, hogy a varázslat hatékony legyen. Például a Feltámasztás használható egy lény 145 év utáni visszahozatalára, még akkor is, ha csupán egy ujjcsontja maradt meg, feltéve, hogy a varázslatot 8-as Intenzitással alkalmazzák. A feltámasztott egyén nem igényel pihenőidőt, és azonnal teljes mértékben működőképes. A varázslatnak nincs hatása az olyan lényre, aki természetes okokból, élettartama végén halt meg.
+
+Ha az alany Beállítottsága (Alignment) bármi más volt, mint gonosz, ellenállhat a varázslatnak egy Ellentétes Akaraterő-dobással, és ha sikerrel jár, semlegesítheti a hatást. Ez azért van, mert az elhunyt lelke vagy szelleme ritkán hajlandó visszatérni az élők közé, miután elérte örök jutalmát. Azonban a Játékmester dönthet úgy, hogy eltekint a dobástól, ha a címzettnek elintézetlen ügye van, nem választható el igaz szerelmétől, vagy más hősies oka van az életre. Gonosz lelkek esetében, akik örömmel térnének vissza ahelyett, hogy örök kárhozatot szenvednének, nem az elhunyt Akaraterő-dobása az, ami ellenáll, hanem azé a démoné, ördögé stb., aki a büntetéséért felelős, azaz a kínzóé. Ebben az esetben a varázslónak le kell győznie a kínzó Akaraterő-értékét. Ha ez ismeretlen, feltételezni kell, hogy legalább 20 ponttal magasabb, mint az elhunyté, reprezentálva, hogy minél erősebb a lélek akarata, annál hatalmasabb az a lény, akit a kárhozatáért felelőssé tesznek. Ha a varázsló sikerrel jár, az alanyt sikeresen feltámasztotta, míg egy elhibázott dobás azt eredményezi, hogy az áldozat vagy nem akar, vagy nem tud visszatérni.
+
+A Feltámasztás nagyon kimerítő, a papot a tipikus élettartama 3%-ával öregíti (ember pap esetében 3 évvel). Lásd az [Öregedés](0007_Game_System.md?id=aging) szabályait.
+
+Ellentétes módon alkalmazva, a Pusztítás, használható egy olyan áldozat megölésére, aki a varázslás pillanatában érintkezésben van a pappal. Ez az áldozat Akaraterő-dobással védekezhet, amelyet módosít a célpont Rangja vagy MÉR-je, attól függően, hogy melyik ad az áldozat számára kedvezőbb eredményt, az alábbi táblázat részletei szerint.
+
+| Célpont Rangja | Célpont MÉR | Akaraterő módosító |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | Félelmetes |
+| 2 | 21-40 | Nehéz |
+| 3 | 41-60 | Átlagos |
+| 4 | 61-80 | Könnyű |
+| 5 | 81+ | Nagyon könnyű |
+
+_\* Ez a kategória azokat a karaktereket foglalja magában, akik nem rendelkeznek Osztállyal._
+
+Ha ez az Ellenállás-dobás sikertelen, az alany azonnal meghal, teste porrá válik. Ebben a szakaszban csak egy Kívánság varázslat hozhatja vissza az áldozatot. Sikeres dobás esetén az alany még mindig negatív 1k4 Életerőpontra csökken az érintett Testtájékon. A páncél nem nyújt védelmet ez ellen a sebzés ellen. A Pusztítás nem öregíti a varázslót használat közben.
+
+---
+#### Portál lezárása
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 1 perc/Intenzitás |
+| **Költség:** 1/Intenzitás | **Hatótáv:** 60 láb/Intenzitás |
+| **Terület:** 1 Portál | **Ellenállás:** NA |
+
+Ez a varázslat arra használható, hogy bezárva tartson egy ajtót, rácsot, kaput vagy más hasonló fából, kőből vagy fémből készült nyílást, mintha biztonságosan be lenne zárva. Az ajtó, amely Intenzitásonként legfeljebb 25 Életerőpontú lehet, betörhető, de a varázslat Időtartama alatt más módon nem nyílik ki, amit a varázsló bármikor megszüntethet. A varázslat a Varázslat eloszlatása (Dispel Magic) sikeres, az Intenzitásnál nagyobb Nagyságrendű alkalmazásával vagy a Kopogtatás (Knock) bármilyen Intenzitású alkalmazásával szüntethető meg. A Portál lezárását az elsődleges anyagi síkon túlról érkező lények, például démonok, ördögök, angyalok és elementálok automatikusan kijátsszák, mivel át tudnak haladni szilárd anyagokon. Ez a Pislogás (Blink) vagy más hasonló varázslatokra nincs hatással.
+
+| Intenzitás | Költség | Változó Hatás |
+| :-: | :-: | :-- |
+| 1 | 1 | 1 perc; 60 láb hatótáv; max 25 hp portál; egy tipikus faajtó |
+| 2 | 2 | 2 perc; 120 láb hatótáv; max 50 hp portál; egy megerősített faajtó |
+| 3 | 3 | 3 perc; 180 láb hatótáv; max 75 hp portál; egy vasajtó vagy rács |
+| 4 | 4 | 4 perc; 240 láb hatótáv; max 120 hp portál; egy kis várkapu |
+| 5 | 5 | 5 perc; 300 láb hatótáv; max 150 hp portál; egy nagy, megerősített várkapu |
+
+---
+#### Pajzs
+
+(Evokáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 5 Kör/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 0 |
+| **Terület:** Varázsló | **Ellenállás:** NA |
+
+A Pajzs egy láthatatlan, mozgatható erőtárcsát hoz létre, amely a mágiahasználó előtt lebeg, és azáltal, hogy elhárítja a támadásokat, növeli az abból az irányból érkező csapások nehézségét. Miniatűrökkel folytatott harcban a Pajzs csak azokat a sebzéseket blokkolja, amelyek a varázsló elülső négyzeteinek valamelyikén haladnak keresztül. A mágiahasználónak a varázslat alkalmazásán kívül semmilyen képességpróbát nem kell tennie, mivel a varázslat mágiája automatikusan beilleszti a pajzsot a támadások és a varázsló közé. A varázsló elülső nézetein keresztül érkező támadásokra alkalmazott büntetés a támadás típusától függ, és az alábbi táblázat részletezi.
+
+| Támadás típusa | Példák | A varázsló eltalálásának nehézsége |
+| :-: | :-- | :-- |
+| Mágikus lövedék | Csak Mágikus lövedékek | Lehetetlen, a Mágikus lövedékek automatikusan blokkolódnak |
+| Hajított támadások | Kövek, dobott bárdok és lándzsák stb. | Herkulesi |
+| Eszközzel indított támadások | Nyilak, számszeríj- és mantikór-vesszők, parittyakövek és golyók stb. | Félelmetes |
+| Egyéb fizikai | Kardok, harapások, karmok stb. | Nehéz |
+| Kikerülhető varázslatok | Tűzlabda, villám, fagy kúpja stb. | Normál nehézség, de ha a varázsló kikerüli, nincs sebzés, ha elhibázza, fele sebzés |
+
+---
+#### Csend
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Őrző | **Időtartam:** Lásd lentebb |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 360 láb |
+| **Terület:** 15 láb sugarú kör | **Ellenállás:** Lásd lentebb |
+
+Ez a varázslat lehetővé teszi a varázsló számára, hogy teljes és tökéletes csendet teremtsen a Hatóterületen. Semmilyen hang nem lehetséges, a beszélgetések megszűnnek, a verbális komponenssel járó varázslatok nem varázsolhatók stb. Ha a Csendet egy tárgyra vagy lényre alkalmazzák, a varázslat Hatóterülete a célponttal együtt mozog. A nyílt térre varázsolt ugyanilyen varázslat azonban mozdulatlan marad. A varázslat Időtartama attól függ, hogy az alany hajlandó-e vagy sem. Hajlandó célpontnál az Időtartam 2 perc/Intenzitás, míg nem hajlandó célpontnál az Időtartam 2 Kör/Intenzitás. Akaraterő-alapú Ellenállás-dobás csak akkor engedélyezett, ha a varázslatot nem hajlandó lényre alkalmazzák, és ha sikeres, a varázslat ehelyett a lény által elfoglalt területet célozza, mozdulatlanul maradva.
+
+---
+#### Alvás
+
+(Igézet (Bűbáj))
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 5 perc/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 60 láb |
+| **Terület:** 10 láb sugarú kör | **Ellenállás:** Akaraterő |
+
+Ez a varázslat mágikus álmot idéz elő Intenzitásonként egy-egy élő lényre egy 10 láb sugarú kör alakú területen. A varázslat Hatóterülete egy térbeli vagy földi pontra összpontosul, és a legközelebbi lény ellenállhat először, majd a következő legközelebbi, és így tovább. Ahol kettő vagy több lény egyenlő távolságra van, véletlenszerűen határozd meg, ki az érintett. Minden lénynek lehetősége van az ellenállásra, és ha az egyik sikerrel jár, a következőnek kell próbálkoznia, amíg a varázslat Intenzitásával megegyező számú lény nem lesz érintett, vagy már nincs több lény a Hatóterületen. A fokozott éberségű, vagy a varázslat alkalmazásakor harcban álló lények esetében az ellenállás dobása egy fokozattal könnyebb.
+
+A nagy lények (MÉR 21-40) kevésbé fogékonyak az Alvásra, az ellenállás dobása Könnyű, míg a Hatalmas lények (MÉR 41+) esetében az Ellenállás-dobás Nagyon könnyű. A kisebb lények mindig előbb érintettek, mint a nagyobbak; ezért a MÉR 20 vagy az alatti lények mindig előbb érintettek, mint a MÉR 21-40 közötti lények, akiket magukat mindig megelőznek a MÉR 41+ lények.
+
+Alvás közben az érintett lények védtelenek, a normál zaj nem zavarja őket, de megrázással vagy pofonnal felébreszthetők. Bármilyen támadás – feltéve, hogy nem végzetes – szintén felébreszti őket (bár a támadás Meglepetésként éri őket). Egy lény felébresztése 1 Harci Kört vesz igénybe.
+
+| Intenzitás | Költség | Változó Hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 5 perc Időtartam; 1 lény |
+| 2 | 4 | 10 perc Időtartam; 2 lény |
+| 3 | 5 | 15 perc Időtartam; 3 lény |
+| 4 | 6 | 20 perc Időtartam; 4 lény |
+| +1 | +1 | Folytassa a progressziót |
+
+---
+#### Lassítás
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 2 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 2 Kör/Intenzitás |
+| **Költség:** 3/Intenzitás | **Hatótáv:** 100 láb |
+| **Terület:** 20 láb sugarú kör | **Ellenállás:** Akaraterő |
+
+Ez a varázslat lehetővé teszi a varázsló számára, hogy megfelezze egy lény normál Mozgási Sebességét. Minden további Intenzitási szintért egy további lény lassítható. Az érintetteknek a varázslat kezdeti alkalmazásakor a Hatóterületen belül kell lenniük, de utána szabadon mozoghatnak. Ezenkívül a Lassítás hatása alatt állók -4 büntetést kapnak Kezdeményezésükre a varázslat Időtartama alatt, és teljes Akciópontjaik számát a felére kell csökkenteniük, beleértve azokat is, amelyeket csak Reaktív célokra használnának. A Lassítás alkalmazása megszünteti a Gyorsítás (Haste) hatásait. A Lassítás nem halmozódik önmagával vagy hasonló mágikus hatásokkal.
+
+| Intenzitás | Költség | Változó Hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 2 Kör Időtartam; 1 lény |
+| 2 | 6 | 4 Kör Időtartam; 2 lény |
+| 3 | 9 | 6 Kör Időtartam; 3 lény |
+| 4 | 12 | 8 Kör Időtartam; 4 lény |
+| +1 | +3 | Folytassa a progressziót |
+
+---
+#### Méreg lassítása
+
+(Nekromancia)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Gyógyítás | **Időtartam:** 1 óra/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 Célpont | **Ellenállás:** NA |
+
+Ez a varázslat lehetővé teszi a varázsló számára, hogy lassítsa a mérgek és mérges anyagok hatását; azonban nem semlegesíti a toxint. Ehelyett a testben terjedő toxinok annyira lelassulnak, hogy remélhetőleg további gyógyító intézkedések találhatók. A toxin Hatáskezdete (Onset Time) csak a varázslat Időtartamának lejárta után kezdődik.
+
+Például a kobra méreg Hatáskezdete a következő: kínok 1k6+4 perc után, és Fulladás 1k6+6 óra után. A Méreg lassítása egyetlen Intenzitása tehát 1 órával elhalasztja a Hatáskezdetet, ami után 1k6+4 perccel a kínok a szokásos módon jelentkeznek.
+
+Ha a Méreg lassítását az áldozatra a tünetek megjelenése után alkalmazzák, azok megszűnnek, amíg a varázslat Időtartama le nem jár, majd a szokásos módon folytatódnak.
+
+Végső megoldásként, ha a varázsló el tud jutni egy egyénhez, aki 10 percen belül "meghalt" mérgezésben, a Méreg lassítása Intenzitásonként 1 órával késlelteti az áldozat halálát, amely idő alatt az áldozat kómában marad. Ha ezalatt az idő alatt az áldozatot meg lehet gyógyítani a méregtől, az áldozat még élhet, és Elsősegéllyel vagy mágikus gyógyítással feléleszthető.
+
+---
+#### Beszélgetés szörnyekkel
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 4 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Jóslás | **Időtartam:** 2 perc/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 100 láb |
+| **Terület:** 1 vagy több Szörny | **Ellenállás:** NA |
+
+Ez a varázslat lehetővé teszi a varázsló számára, hogy megértse és megértsék bármely olyan lénytípus, amely képes valamilyen kommunikációra (telepatikus, feromonok, tapintás stb.). A varázsló egyszerűen saját nyelvén beszél, és a lény megérti a varázsló szándékát vagy kérdését a saját kommunikációs formájában. A Játékmesternek a lény reakcióját a varázslóéval összehasonlított Beállítottsága alapján kell meghatároznia. A varázsló a varázslat Időtartama alatt átválthat egyik lényről a másikra ugyanabból a típusból.
+
+---
+#### Sebezhetetlenség szférája, Kisebb
+
+(Abjuráció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 3 | **Varázslási idő:** 2 Akció |
+| **Szféra:** Nincs | **Időtartam:** 1 Kör/Intenzitás |
+| **Költség:** 3, +1/további Intenzitás | **Hatótáv:** 0 |
+| **Terület:** 5 láb sugarú kör | **Ellenállás:** NA |
+
+Amikor ezt a varázslatot alkalmazzák, a varázsló körül egy mozdulatlan, csillogó mágikus védelmi szféra képződik. 1. és 2. rangú varázslatok, valamint az általuk létrehozott mágikus hatások nem tudnak áthatolni a szférán, beleértve a mágikus tárgyak vagy egyes lények veleszületett mágikus Képességei által birtokoltakat sem. A varázsló és minden varázslásra képes szövetségese mágikus támadást indíthat a szférán belülről káros hatások nélkül, sőt, el is hagyhatják a szférát és visszatérhetnek anélkül, hogy az befolyásolná annak Időtartamát. A kisebb Sebezhetetlenség szféráját a Varázslat eloszlatása (Dispel Magic) a szokásos módon befolyásolja.
+
+---
+#### Pókmozgás
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nincs | **Időtartam:** 2 perc/Intenzitás |
+| **Költség:** 1/Intenzitás | **Hatótáv:** Érintés |
+| **Terület:** 1 Célpont | **Ellenállás:** NA |
+
+A varázslat alanya 10 láb Mozgási Sebességgel mozoghat függőleges felületeken és mennyezeteken, akár fejjel lefelé lógva is. Az alanynak le kell vennie minden kéz- és lábbelit, és nagyon kicsi tárgyak használata (elhanyagolható TÚL) lehetetlen, mivel hozzáragadnak a kezéhez. Ez magában foglalja a legtöbb varázslási komponenst is, ami általában lehetetlenné teszi a varázslást a Pókmozgás hatása alatt. Ahhoz, hogy egy tárgyat leszakítsunk az egyénről, vagy egy ellenálló egyént leszakítsunk egy felületről, egy sikeres Erőpróbára van szükség Félelmetes nehézséggel.
+
+---
+#### Szellempajzs
+
+(Abjuráció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 0 | **Varázslási idő:** 1 Akció |
+| **Szféra:** Nekromantikus | **Időtartam:** Koncentráció |
+| **Költség:** 1 | **Hatótáv:** Érintés |
+| **Terület:** 1 Célpont | **Ellenállás:** Akaraterő |
+
+Ez a varázslat pajzsot hoz létre a címzett körül, amely elriasztja a szellemeket és kísérteteket a belépéstől. Minden szellemnek vagy kísértetnek, amely meg akarja támadni vagy meg akarja szállni a címzettet, le kell győznie a varázslatot egy Akaraterő vs. Jámbor képesség (Piety) Ellentétes Próba megnyerésével.#### Spirituális pöröly
+
+(Evokáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 2 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Harc | **Időtartam:** 3 kör/intenzitás |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** 0 |
+| **Terület:** 30 láb sugár/intenzitás | **Ellenállás:** Hárítás vagy Kitérés |
+
+A varázslat elmondásakor megjelenik egy pöröly alakú spirituális energiamező, amely a varázsló által kijelölt célpontra veti magát. Minden körben a varázsló felhasználhatja egyik Cselekvési Pontját arra, hogy irányítsa a pöröly támadásait, feltéve, hogy a Koncentráció fennmarad. Koncentrálás közben a varázsló legfeljebb sétáló sebességgel mozoghat, és felszerelt fegyverrel vagy pajzzsal Kitérhet vagy Háríthat anélkül, hogy a koncentráció megszakadna. A pöröly mozgatására fordított minden egyes Cselekvési Ponttal a pöröly a varázsló látómezején belül bárhová áthelyezhető. Ha a varázsló egy ellenfél mögött áll, a pörölyt használhatja arra, hogy hátulról csapjon le rá, ezzel meghiúsítva az ellenfél legjobb védekezési képességét. A Spirituális pöröly sebzése megegyezik egy normál harci pörölyével (1d8+1), és találati esélye a pap Harci képességével egyenlő. A viselt páncél csak feleakkora védelmet nyújt, de a mágikus Páncélpontok vagy a lény természetes páncélzata a szokásos módon csökkenti a sebzést. A pöröly a szokásos módon hárítható vagy kivédhető, és a ellene irányuló támadások hatástalanok. A Spirituális pöröly mágikus fegyvernek számít az olyan lények elleni támadáskor, amelyeket csak mágia sebezhet; az első szint után minden további intenzitásszint halmozott +1 Mágikus Bónuszt ad, legfeljebb +5-ig. Ez a bónusz nem adódik hozzá az okozott sebzéshez, hanem abban segít, hogy sebzést okozzon az olyan lényeknek, amelyeket csak bizonyos vagy magasabb mágikus bónusszal lehet sebezni.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 3 kör; 30 láb sugár; +0-nak számít |
+| 2 | 4 | 6 kör; 60 láb sugár; +1-nek számít |
+| 3 | 5 | 9 kör; 90 láb sugár; +2-nek számít |
+| 4 | 6 | 12 kör; 120 láb sugár; +3-nak számít |
+| 5 | 7 | 15 kör; 150 láb sugár; +4-nek számít |
+| 6 | 8 | 18 kör; 180 láb sugár; +5 maximum |
+| +1 | +1 | Folytatódó progresszió a körök és a sugár tekintetében |
+
+---
+#### Napsugár
+
+(Evokáció, Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 5 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Nap | **Időtartam:** 1d4+1 kör |
+| **Költség:** 3/intenzitás | **Hatótáv:** 30 láb/intenzitás |
+| **Terület:** 5 láb sugár | **Ellenállás:** Lásd alább |
+
+A varázslat elmondásakor a pap a Varázslat leadása (Cast Magic) Cselekvéssel egy ragyogó szent fénysugarat idézhet meg a varázslat Időtartamán belül bármikor. A sugár természetes napfény, sugara öt láb. A Hatásterületen belül tartózkodóknak Kitérést kell alkalmazniuk, hogy megvédjék a szemüket, különben 1d3 percre megvakulnak. Ha elbukják az Ellenállás próbájukat, a Napsugár a Sötétlátással rendelkező lényeket 2d4 percre vakítja meg, és elveszítik Sötétlátás képességüket 1d4+1 percre, a Hatásterületen túli 20 lábig. Azok a lények, akik számára a természetes napfény káros, elbukott Ellenállás próba esetén véglegesen megvakulnak, sikeres próba esetén pedig 2d6 körre.
+
+A Hatásterületen belül tartózkodó Élőholtak 2d6 pont sebzést szenvednek el minden egyes Találati Helyen. A páncél, legyen az természetes vagy egyéb, nem nyújt védelmet, de a mágikus Páncélpontok a szokásos módon csökkentik a sebzést. A Hatásterület szélétől számított öt lábon belül tartózkodók Kitéréssel elkerülhetik a sebzést. A Hatásterület 20 lábán belül lévő Élőholtak még így is 1d6+1 pont sebzést szenvednek el, de sikeres Ellenállás próba esetén nem kapnak sebzést. Azokat az Élőholtakat, amelyeket a napfény kifejezetten károsít (például a vámpírokat), a varázslat elpusztítja, ha nem sikerül Kitérniük. A gombaszerű lények, valamint a föld alatti gombák minden formája ugyanazokat a hatásokat szenvedi el, mint az Élőholtak, de nem tehetnek Ellenállás próbát.
+
+---
+#### Rendetrakás
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 0 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** Azonnali |
+| **Költség:** 1 | **Hatótáv:** 20 láb |
+| **Terület:** Lásd alább | **Ellenállás:** Nincs |
+
+A Rendetrakás azonnal elrendez egy tetszőleges számú tárgyat (a varázsló HAT-jáig), amelyek egyenként legfeljebb 2 'Dolog' méretűek, rendes, tiszta és rendezett állapotba a varázslat Hatótávolságán belül. A 2 'Dolognál' nagyobb tárgyak rendezettebb pozícióba kerülnek, de a megfelelő rendszerezésükhöz manuális beavatkozásra van szükség.
+
+---
+#### Igaz látás
+
+(Jóslás)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 3, Mágus 4 | **Varázslási idő:** 1 kör |
+| **Szféra:** Jóslás | **Időtartam:** 1 perc/intenzitás |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** Érintés |
+| **Terület:** 1 célpont | **Ellenállás:** Nincs |
+
+Az Igaz látás képessé teszi az alanyt a világ tiszta látására, 60 láb távolságig, a látóvonal függvényében. A Hatásterületen belüli minden titok nyilvánvalóvá válik; a természetes és mágikus sötétség egyaránt áthatolhatóvá válik; a titkos ajtók láthatóvá válnak; a láthatatlan vagy éteri támadók felfedődnek; az illúziók és fantazmák nyilvánvalóak lesznek; és az alakváltó lények valódi formája is láthatóvá válik. Még az éteri és az anyagi síkkal szomszédos más síkok is megpillanthatók Koncentrációval. Az Igaz látás megszünteti az olyan varázslatok hatását, mint az Elmosódás (Blur) és a Tükörkép (Mirror Image). A világi anyagi komponenseken túl az Igaz látás elmondásához ritka összetevők szükségesek: porított gomba, sáfrány és állati zsír, legalább 300 arany (GP) értékben.
+
+---
+#### Hang
+
+(Elbűvölés (Bájolás))
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 0 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Bájolás | **Időtartam:** Koncentráció |
+| **Költség:** 1 | **Hatótáv:** Lásd alább |
+| **Terület:** 1 célpont | **Ellenállás:** Akaraterő |
+
+A Hang felerősíti a címzett intonációját és előadásmódját, így az parancsolóvá válik verbális utasítások kiadásakor. Mindenki, aki hallja a beszélőt, kénytelen figyelni rá. Hangja még a leghangosabb háttérzajon (üvöltő szélvihar, vízesés zúgása, harctéri fegyverek csattanása) keresztül is elhallatszik, a címzett KAR-jának 30-szorosáig lábban mérve.
+
+---
+#### Tűzfal/Tűzkör
+
+(Evokáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 3, Mágus 3 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Harc, Elem (Tűz) | **Időtartam:** Lásd alább |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** Lásd alább |
+| **Terület:** Lásd alább | **Ellenállás:** Lásd alább |
+
+Ez a varázslat lehetővé teszi a varázsló számára, hogy egy lángoló tűzfalat vagy kört idézzen meg (tetszés szerint), amely bíbor vagy vöröseskék színben ég. A varázslat Időtartama érvényben marad, ha a Koncentráció fennmarad, vagy a Koncentráció megszűnése után intenzitásonként 1 körig tart. A részletek típus szerint az alábbiakban olvashatók:
+
+**Tűzfal:** A varázslat ezen változata egy helyhez kötött, intenzitásonként 20 láb hosszú tűzfalat hoz létre. A végső intenzitástól függetlenül a fal 10-20 láb magas lehet, a varázsláskor választottak szerint. A Tűzfal hatótávolsága 180 láb, és nem hozható létre vízszintesen.
+
+**Tűzkör:** A varázslat ezen változata egy tűzkört hoz létre a varázsló körül, amely mozog vele együtt. Sugara 10 láb, plusz intenzitásonként további 5 láb az elsőn túl. A végső intenzitástól függetlenül a kör 10-20 láb magas lehet, a varázsláskor választottak szerint. A Tűzkörnek körül kell vennie a varázslót, és hatótávolsága 0.
+
+A fal vagy kör varázslótól elforduló oldala perzselő hőt bocsát ki, amely körönként 1d6 sebzést okoz mindenkinek 10 lábon belül, és 1d4 sebzést 20 lábig. Ezt a sebzést általában a kör végén alkalmazzák, a következő kör megkezdése előtt. Ha az áldozat egyetlen körben mindkét hőzónában tartózkodik, a nagyobb sebzés érvényesül. A lángokon átugrók 2d6 pont sebzést szenvednek el, plusz intenzitásonként egy további pontot az elsőn túl. Ez a sebzés minden Találati Helyre vonatkozik, és a viselt páncél nem nyújt védelmet, de a mágikus Páncélpontok vagy a lény természetes páncélzata a szokásos módon csökkenti a sebzést. Egy sikeres Kitérés (Ellenállás) próba lehetővé teszi, hogy az áldozat ne szenvedjen sebzést abban a körben, amikor a varázslat életre kel, ahogy az áldozat megpróbál elugrani a hőség elől vagy át a lángokon. A tűzalapú lények feleekkora, a hidegalapú lények dupla sebzést szenvednek el. A lángok a gyúlékony anyagokat a dobott sebzés x 5%-os eséllyel gyújthatják meg. További információkért lásd a [Tüzekről](0007_Game_System.md?id=fire-based-attacks) szóló részt.
+
+---
+#### Vízalatti légzés \(R\)
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 2, Mágus 2 | **Varázslási idő:** 2 Cselekvés |
+| **Szféra:** Elem (Víz, Levegő) | **Időtartam:** 6 óra/intenzitás, +1d4 óra |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** Érintés |
+| **Terület:** 1 vagy több célpont | **Ellenállás:** Nincs |
+
+Ez a varázslat lehetővé teszi a varázsló vagy mások számára, hogy a víz alatt lélegezzenek a varázslat Időtartama alatt. A varázslás során több címzett is megérinthető, így ők is elnyerik a Vízalatti légzés előnyeit. Ebben az esetben az Időtartam megoszlik az alanyok száma között. A Vízalatti légzés varázslat pontos Időtartama kiszámíthatatlan, és a Játékmesternek kell dobnia érte, mivel a hatás alatt állóknak nem szabad pontosan tudniuk, mennyi idő maradt hátra. A varázslat ellentettje, a Levegőben légzés lehetővé teszi az olyan lények számára, amelyek egyébként nem képesek oxigént lélegezni, hogy megtegyék azt. A természetes elemben való légzés képessége a varázslat változatától függetlenül megmarad, így például egy hal a varázslat Időtartama alatt a szárazföldön és a víz alatt is lélegezhetne.
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 6 óra + 1d4 óra összesen |
+| 2 | 4 | 12 óra + 1d4 óra összesen |
+| 3 | 5 | 18 óra + 1d4 óra összesen |
+| 4 | 6 | 24 óra + 1d4 óra összesen |
+| +1 | +1 | Folytatódó progresszió |
+
+---
+#### Háló
+
+(Evokáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 1 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Nincs | **Időtartam:** 20 perc/intenzitás |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** 30 láb/intenzitás |
+| **Terület:** 20 láb sugár | **Ellenállás:** Kitérés, plusz lásd alább |
+
+Ez a varázslat ragacsos hálószálakat lövell ki a varázsló kezéből, amelyek a padlótól a mennyezetig vagy faltól falig rögzíthetők, hogy elzárjanak egy átjárót vagy akadályozzák a haladást. Közvetlenül az ellenfelekre is szórható, hogy megbénítsa őket.
+
+Feltételezve, hogy a célpontnak van tere elmenekülni a hálók elől, egy sikeres Kitérés próba a Hatásterületen kívülre helyezi a célpontot; ehhez azonban egy elérhető Cselekvési Pont szükséges. Az elbukott Ellenállás próba az áldozatot mozgásképtelenné teszi, és 1d3 Találati Helyet hálóz be. Az [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) különleges hatáshoz hasonlóan, a behálózott hely használhatatlan. Egy behálózott kar nem tudja használni, amit tart; a beszorult mellkas, has vagy láb minden fizikai képességpróbát egy fokozattal nehezebbé tesz (kivéve a Szabaduláshoz használt ERŐ próbákat); az elhálózott fej pedig fulladást okoz, az [Asphyxiation](0007_Game_System.md?id=asphyxiation) részben leírtak szerint.
+
+A következő körben az áldozat Cselekvési Pontot költhet arra, hogy megkíséreljen kiszabadulni a hálóból. A mágikus háló hihetetlenül erős és ragadós, 6 Páncélponttal és a varázslat intenzitásának 3-szorosával egyenlő Életerővel rendelkezik. A kiszabaduláshoz az áldozatnak meg kell nyernie egy SZEMBENÁLLÓ ERŐ próbát a háló Ragadóssága ellen (amely egyenlő a varázsló Arkánum Varázslás képességével). Ha ez nem sikerül, a célpont továbbra is fogva marad, nem képes puszta erővel kiszabadulni. A kivágási kísérlet ugyanennek a folyamatnak teszi ki a használt szerszámot vagy fegyvert. A közkeletű hiedelemmel ellentétben a hálók nem gyúlékonyak, de egy karakter lassan kiégetheti magát a hálóból egy láng használatával, ami összezsugorítja a szálakat (a tűzsebzés figyelmen kívül hagyja a Háló Páncélpontjait).
+
+| Intenzitás | Költség | Változó hatás |
+| :-: | :-: | :-- |
+| 1 | 3 | 20 perc; 30 láb Hatótáv; 6 páncél, 3 Életerő |
+| 2 | 4 | 40 perc; 60 láb Hatótáv; 6 páncél, 6 Életerő |
+| 3 | 5 | 60 perc; 90 láb Hatótáv; 6 páncél, 9 Életerő |
+| 4 | 6 | 80 perc; 120 láb Hatótáv; 6 páncél, 12 Életerő |
+| +1 | +1 | Folytatódó progresszió |
+
+---
+#### Kívánság
+
+(Megidézés, Evokáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 5 | **Varázslási idő:** Lásd alább |
+| **Szféra:** Nincs | **Időtartam:** Lásd alább |
+| **Költség:** 3, +1 vagy több TP | **Hatótáv:** Korlátlan |
+| **Terület:** Lásd alább | **Ellenállás:** Lásd alább |
+
+A Kívánság állandó és jelentős módon képes megváltoztatni a valóságot. A varázslat leadásához a mágiát használónak 3 Mágikus Pontot és 1 vagy több TP-t (tapasztalati pontot) kell elköltenie, az eredménytől függően. A Kívánság minden egymást követő alkalmazása 1 hónapon belül megduplázza a normálisan szükséges TP-költséget. A Varázslási időre általában a Kívánság részleteinek verbális kifejtése miatt van szükség. A varázslat befejezésekor a varázsló az elköltött TP-nek megfelelő Fáradtságveszteséget szenved el, és normál várható élettartamának 5%-ával öregszik (embereknél ez öt évet jelent). Lásd az [Öregedést](0007_Game_System.md?id=aging) a fél-ember fajok átlagos várható élettartamáért.
+
+A Kívánság eredményeit szó szerint kell venni, és a Játékmester értelmezésére bízzák. A kapzsi kívánságok általában rosszul végződnek. 10% az esélye annak, hogy a kapzsi szándékkal tett Kívánság valamilyen módon visszafelé sül el. Például, a gazdagság kívánása áthelyezheti azt a helyi földesúr vagy király kincstárából. Egy Kívánság nem törölheti istenszerű lények rendeleteit, hacsak nem ilyen lény bocsátotta ki az adott Kívánságot.
+
+Az alábbiakban néhány példa látható a Kívánságra és a szükséges TP-költségre.
+
+##### Kívánság példák és költségek
+
+| Kívánt Kívánság | TP-költség |
+| :-- | :-: |
+| Olyan hatások megfordítása, amelyek általában a Kívánság varázslatot igénylik. | 1 TP |
+| Bármely más 1. vagy 2. rangú Arkánum vagy Isteni varázslat hatásának megkettőzése 15-ös intenzitáson, vagy azzal egyenértékűen. | 1 TP \* |
+| Bármely más 3. vagy 4. rangú Arkánum vagy Isteni varázslat hatásának megkettőzése 15-ös intenzitáson, vagy azzal egyenértékűen. | 2 TP \* |
+| Bármely más 5. rangú Arkánum vagy Isteni varázslat hatásának megkettőzése 15-ös intenzitáson, vagy azzal egyenértékűen (kivéve a Valóság Megváltoztatását). | 3 TP \* |
+| Mágikus vagy természetfeletti hatás állandóvá tétele. | 3 TP |
+| Halott lény életre keltése, tekintet nélkül a halál időpontjára vagy a jelenlévő maradványokra, káros mellékhatások nélkül. | 5 TP |
+| Elveszett vagy csonka végtag teljes felépülése. | 2 TP |
+| Lény meggyógyítása az összes jelentős és kisebb sérüléséből. | 1 TP |
+| Egy Tulajdonság végleges növelése vagy csökkentése 1 ponttal (maximum +/-5). | \*\* |
+| Egy képesség végleges növelése vagy csökkentése 10%-kal (maximum +/-50%). | \*\* |
+| Önmagad és legfeljebb 7 szövetséges átszállítása másik helyre, távolságtól függetlenül. | 1 TP |
+| Önmagad és legfeljebb 7 szövetséges átszállítása egy másik síkra. | 2 TP |
+| Átmeneti, nem mágikus érme, tárgy vagy vagyon létrehozása legfeljebb 50 000 GP értékben. A tárgyak intenzitásonként egy hétig tartanak. | 1 TP |
+| Átmeneti, nem mágikus érme, tárgy vagy vagyon létrehozása legfeljebb 100 000 GP értékben. A tárgyak intenzitásonként egy hétig tartanak. | 2 TP |
+| Állandó, nem mágikus érme, tárgy vagy vagyon létrehozása legfeljebb 10 000 GP értékben. | 2 TP |
+| Állandó, nem mágikus érme, tárgy vagy vagyon létrehozása legfeljebb 50 000 GP értékben. | 3 TP |
+| Állandó, nem mágikus érme, tárgy vagy vagyon létrehozása legfeljebb 100 000 GP értékben. | 4 TP |
+| Átmeneti 1. vagy 2. rangú mágikus tárgy létrehozása. A tárgy intenzitásonként 1 óráig tart. | 1 TP |
+| Átmeneti 3. rangú mágikus tárgy létrehozása. A tárgy intenzitásonként 1 óráig tart. | 2 TP |
+| Átmeneti 4. rangú mágikus tárgy létrehozása. A tárgy intenzitásonként 1 óráig tart. | 3 TP |
+| Állandó 1. vagy 2. rangú mágikus tárgy létrehozása. | 5 TP |
+| Másik lény megölése. | 5 TP\*\*\* |
+| Ellenség egy Testrészének megcsonkítása, teljesen negatív értékre hozva. Csak has, láb vagy kar. | 2 TP |
+| Súlyos Sebzés okozása egy Testrészen, -1 Életerő pontra hozva. Csak has, láb vagy kar. | 1 TP |
+| A tájkép átformálása bármilyen típusú terepre, amelyet a varázsló el tud képzelni. Minden 100 lábas kockányi átformálandó anyag 1 környi erőfeszítést igényel. | 1 TP per 100 lábas kockányi terep |
+
+_\* A megkettőzött hatások bármely TP-igényén felül._
+
+_\*\* Minden egymást követő növelés vagy csökkentés 1 halmozott TP-dobásba kerül: 1 TP az elsőért, 2 TP a másodikért, 3 TP a harmadikért, 4 TP a negyedikért és 5 TP az ötödikért. Ez akkor is érvényes, ha egy másik mágiát használó mondja el a Kívánságot._
+
+_\*\*\* Ez egy Akaraterő vs. Akaraterő Ellenállás próbát igényel a célpontéval szemben. A kudarc azt jelenti, hogy a Kívánság továbbra is sikerül, bár a kívánságtevő vágyainak elferdített értelmezéseként. Például, a varázsló a jövőbe szállítható, ahol az áldozat már halott, de a kívánságtevő összes barátja és szerette is._
+
+---
+#### Varázsló-szem
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Mágus 3 | **Varázslási idő:** 1 perc |
+| **Szféra:** Nincs | **Időtartam:** 1 perc/intenzitás |
+| **Költség:** 1/intenzitás | **Hatótáv:** 0 |
+| **Terület:** Lásd alább | **Ellenállás:** Nincs |
+
+Ez a varázslat egy apró, láthatatlan 'szemet' hoz létre, amelyen keresztül a mágiát használó láthat a varázslat Időtartama alatt. Ez a szem a csoport elé mozgatható, vagy sarkok köré és helyiségekbe küldhető, 20 láb/kör (240 láb/perc) Mozgási Sebességgel, ha csak 'nyilvánvaló' fenyegetések vagy érdekes tárgyak keresése a cél. Ez általában csak a padlóra és az alsó falakra terjed ki. Ha alaposabb vizsgálatra kerül sor (a teljes falak és a mennyezet átvizsgálása), a Mozgási Sebesség 10 láb/körre (120 láb/perc) csökken. A Játékmesternek bátran engedélyeznie kell a varázsló részéről Észlelés próbákat, ahol szükséges, a vizuális anomáliák észlelése kapcsán. A szem testi, nem képes áthaladni szilárd anyagon, és 60 lábig normál látással, 10 lábig Sötétlátással rendelkezik. A varázslónak az Időtartam alatt végig Koncentrálnia kell a szemre, különben az mozdulatlan marad, amíg a Koncentrációt újra létre nem hozzák. Minden olyan pillantástámadás, amely normálisan érintené a varázslót, továbbra is normálisan érinti őt; azonban a szem független a varázslótól a vakság, sötétség varázslatok és hasonlók tekintetében. Kisebb nyílásokon való átjutás céljából a szem nem nagyobb 1 hüvelyknél, és MÉR-je 1.
+
+---
+#### Felidézés szava
+
+(Transzmutáció)
+
+| | |
+| :-- | :-- |
+| **Rang:** Pap 4 | **Varázslási idő:** 1 Cselekvés |
+| **Szféra:** Megidézés | **Időtartam:** Lásd alább |
+| **Költség:** 3, +1 minden további intenzitásért | **Hatótáv:** 0 |
+| **Terület:** A varázsló | **Ellenállás:** Nincs |
+
+A varázslat elmondásakor a pap azonnal egy előre kijelölt menedékhelyre teleportálódik, egy meghatározott, legfeljebb 10 láb sugarú érkezési pontra. A teleportálás tényleges Hatótávolsága nem korlátozott, beleértve több sík közötti utazást is. Egyetlen síkon belül nincs esély a balesetre, azonban akár egyetlen sík keresztezése 91-00% esélyt ad a Baklövésre (Fumble), két sík keresztezése 81-00%-ot, és így tovább. Ez felváltja a varázsló normál Baklövési esélyét. A síkok közötti keresztezéskor bekövetkező Baklövés azt jelenti, hogy a pap menthetetlenül eltévedt. Az egyetlen síkon belüli Baklövések a szokásos szabályokat követik.
+
+Önmagán és minden hordozott felszerelésen kívül a pap intenzitásonként további 3 tárgyat szállíthat, amelyek egyenként nem nagyobbak 9 MÉR-nél (vagy 9 'Dolognál'). A szállított további anyag lehet kincs, felszerelés vagy élő lény. Azonban a szállított lények esetében a varázslatot elegendő intenzitási szinten kell elmondani ahhoz, hogy fedezze az összes hordozott felszerelést.

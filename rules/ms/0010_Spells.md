@@ -22,11 +22,11 @@
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) menunjukkan mantera yang boleh diterbalikkan._
+_\(R\) menunjukkan mantera boleh balik._
 
 ---
 
-### Senarai Mantera Ahli Sihir
+### Senarai Mantera Mage
 
 | Pangkat 0 | Pangkat 1 | Pangkat 2 | Pangkat 3 | Pangkat 4 | Pangkat 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -34,15 +34,15 @@ _\(R\) menunjukkan mantera yang boleh diterbalikkan._
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
+| [Cleanse \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word - Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
 | [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Ignite \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word - Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -54,44 +54,44 @@ _\(R\) menunjukkan mantera yang boleh diterbalikkan._
 | | [Web](0010_Spells.md?id=web) |
 | | [Spider Climb](0010_Spells.md?id=spider-climb) |
 
-_\(R\) menunjukkan mantera yang boleh diterbalikkan._
+_\(R\) menunjukkan mantera boleh balik._
 
 
 ---
 
 <br>
 
-## Penerangan Mantera
+## Perihal Mantera
 
 ---
 #### Appraise
 
-(Divinasi)
+(Ramalan)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Mage 0 | **Masa Pemanteraan:** 1 Giliran |
 | **Sfera:** Tiada | **Tempoh:** Segera |
 | **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Item | **Rintangan:** Tiada |
+| **Kawasan:** 1 Barang | **Rintangan:** Tiada |
 
-Appraise membolehkan penilaian segera terhadap kualiti barangan fizikal dengan gabungan ENC dalam 'Benda' atau SIZ yang sama dengan POW pemantera. Mantera ini menentukan sama ada item yang kelihatan serupa adalah daripada kualiti yang sama atau serupa, atau jika satu atau lebih daripadanya cacat atau berkualiti lebih tinggi. Mantera ini tidak berkesan pada benda organik, hanya pada objek tidak bernyawa. Ia juga tidak menentukan apakah kecacatan atau peningkatan yang ada; hanya bahawa ia wujud. Ia tidak berguna dalam pengecaman atau pengesanan sihir.
+Appraise membolehkan penilaian segera terhadap kualiti barangan fizikal dengan jumlah ENC dalam 'Benda' atau SAI yang bersamaan dengan KUR pemanter. Mantera ini menentukan sama ada barangan yang kelihatan serupa adalah daripada kualiti yang sama atau seumpamanya, atau jika satu atau lebih daripadanya cacat atau berkualiti lebih tinggi. Mantera ini tidak berkesan pada benda organik, hanya pada objek mati. Ia juga tidak menentukan apa kecacatan atau peningkatan yang ada; hanya sekadar kewujudannya. Ia tidak berguna dalam pengenalpastian atau pengesanan sihir.
 
 ---
 #### Armor
 
-(Konjurasi)
+(Seruan)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Mage 1 | **Masa Pemanteraan:** 1 Pusingan |
 | **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3 +1/Intensiti | **Julat:** Sentuhan |
+| **Kos:** 3 +1/Keamatan | **Julat:** Sentuhan |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
 
-Apabila mantera ini dipantera, subjek diberikan medan daya sihir halimunan yang setara dengan perlindungan perisai skala, memberikan 4 Mata Perisai pada setiap Lokasi Pukulan. Ia tidak mempunyai kesan jika dipantera pada seseorang yang sudah memakai perisai. Walau bagaimanapun, ia akan mengatasi perisai semula jadi untuk Tempohnya, dengan andaian ia menawarkan perlindungan yang lebih baik. Jika dipantera pada makhluk yang mempunyai lebih daripada 4 mata perisai semula jadi, ia sebaliknya akan meningkatkan Mata Perisai sebanyak 1 di semua lokasi. Perlindungan sihir ini tidak menghalang pergerakan atau pemanteraan mantera. Mantera ini akan kekal sehingga dibatalkan oleh sihir, atau pemantera mengalami 8 mata kerosakan daripada satu serangan, +1 bagi setiap tahap Intensiti tambahan (lihat jadual di bawah). Sudah tentu, pemantera boleh memilih untuk menggugurkan mantera pada bila-bila masa jika dikehendaki dan mesti berbuat demikian untuk tidur.
+Apabila mantera ini dimanterakan, subjek dikurniakan medan daya sihir halimunan yang setara dengan perlindungan perisai sisik, memberikan 4 Mata Perisai kepada setiap Lokasi Kenaan. Ia tidak memberi kesan jika dimanterakan kepada seseorang yang sudah memakai perisai. Walau bagaimanapun, ia akan mengatasi perisai semula jadi sepanjang Tempohnya, dengan andaian ia menawarkan perlindungan yang lebih unggul. Jika dimanterakan pada makhluk yang mempunyai lebih daripada 4 mata perisai semula jadi, ia akan meningkatkan Mata Perisai sebanyak 1 di semua lokasi. Perlindungan sihir ini tidak menghalang pergerakan atau pemanteraan. Mantera ini akan kekal sehingga dibatalkan oleh sihir, atau pemanter menerima 8 mata kerosakan daripada satu serangan, +1 bagi setiap tahap Keamatan tambahan (lihat jadual di bawah). Sudah tentu, pemanter boleh memilih untuk menamatkan mantera pada bila-bila masa jika dikehendaki dan mesti berbuat demikian untuk tidur.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
 | 1 | 3 | 4 Mata Perisai; Kekal sehingga menerima 8 kerosakan daripada 1 serangan |
 | 2 | 4 | 4 Mata Perisai; Kekal sehingga menerima 9 kerosakan daripada 1 serangan |
@@ -106,44 +106,44 @@ Apabila mantera ini dipantera, subjek diberikan medan daya sihir halimunan yang 
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 5, Ahli Sihir 5 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Paderi 5, Mage 5 | **Masa Pemanteraan:** 2 Tindakan |
 | **Sfera:** Astral | **Tempoh:** Lihat di bawah |
-| **Kos:** 3 +1/Intensiti tambahan | **Julat:** Sentuhan |
+| **Kos:** 3 +1/Keamatan tambahan | **Julat:** Sentuhan |
 | **Kawasan:** Lihat di bawah | **Rintangan:** T/A |
 
-Mantera ini membolehkan pemantera dan sehingga lima orang lain (satu bagi setiap tahap Intensiti tambahan) memasuki Satah Astral. Semua mestilah bersentuhan dan membentuk bulatan semasa mantera dipantera. Tubuh pengembara ditinggalkan di satah asal, dan mereka biasanya tidak membawa sebarang pakaian atau peralatan, kecuali yang memancarkan aura sihir; item-item ini berubah menjadi setara astral daripada bentuk asalnya. Tempohnya berlangsung sehingga pemantera ingin ia berhenti. Walau bagaimanapun, ia mungkin berakhir lebih awal oleh kuasa luar seperti Dispel Magic. Membunuh tubuh fizikal pemantera juga menamatkan mantera lebih awal, walaupun ini mempunyai kesan sampingan yang tidak diingini iaitu mengandaskan mana-mana pengembara yang menemani pemantera.
+Mantera ini membolehkan pemanter dan sehingga lima orang lain (seorang bagi setiap tahap Keamatan tambahan) untuk memasuki Satah Astral. Semua mestilah bersentuhan dan membentuk bulatan semasa mantera dimanterakan. Tubuh para pengembara ditinggalkan di satah asal, dan mereka biasanya tidak membawa bersama sebarang pakaian atau peralatan, kecuali yang memancarkan aura sihir; barang-barang ini berubah menjadi bentuk astral yang setara dengan bentuk asal mereka. Tempohnya berlangsung sehingga pemanter ingin ia berhenti. Walau bagaimanapun, mantera ini boleh ditamatkan lebih awal oleh kuasa luar seperti Dispel Magic. Membunuh tubuh fizikal pemanter juga menamatkan mantera lebih awal, walaupun ini mempunyai kesan sampingan yang malang iaitu mengandaskan mana-mana pengembara yang menemani pemanter.
 
 ---
 #### Augury
 
-(Divinasi)
+(Ramalan)
 
 | | |
 | :-- | :-- |
 | **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 2 Minit |
-| **Sfera:** Divinasi | **Tempoh:** Segera |
-| **Kos:** 3/Intensiti | **Julat:** 60 kaki; |
-| **Kawasan:** Pemantera | **Rintangan:** T/A |
+| **Sfera:** Ramalan | **Tempoh:** Segera |
+| **Kos:** 3/Keamatan | **Julat:** 60 kaki |
+| **Kawasan:** Pemanter | **Rintangan:** T/A |
 
-Mantera ini membolehkan pemantera menentukan sama ada tindakan tertentu yang akan diambil dalam masa 30 minit akan datang akan memberi manfaat atau memudaratkan kesejahteraan individu dan/atau kumpulan. Titik fokus diperlukan untuk membezakan petanda, yang paling biasa ialah cakar atau tulang kecil naga, mutiara, atau emas tulen yang bernilai tidak kurang daripada 100GP, yang telah dihancurkan atau dicairkan. Mantera ini mempunyai Intensiti Maksimum 4. Gulungan ini harus dibuat oleh Pengurus Permainan, kerana pemantera tidak sepatutnya tahu dengan pasti sama ada keputusan itu ditafsirkan dengan betul.
+Mantera ini membolehkan pemanter menentukan sama ada tindakan khusus yang akan diambil dalam tempoh 30 minit akan datang akan memberi manfaat atau memudaratkan kesejahteraan individu dan/atau pihak. Titik fokus tertentu diperlukan untuk melihat tanda-tanda, yang paling biasa adalah cakar atau tulang kecil naga, mutiara, atau emas tulen yang bernilai tidak kurang daripada 100GP, yang telah dihancurkan atau dicairkan. Mantera ini mempunyai Keamatan Maksimum 4. Gulungan ini perlu dilakukan oleh Pengurus Permainan, kerana pemanter tidak seharusnya mengetahui dengan pasti sama ada hasil tersebut ditafsirkan dengan betul.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
 | 1 | 3 | Gulungan kemahiran Saluran yang Hebat |
 | 2 | 6 | Gulungan kemahiran Saluran yang Sukar |
-| 3 | 9 | Gulungan kemahiran Saluran yang Standard |
+| 3 | 9 | Gulungan kemahiran Saluran yang Piawai |
 | 4 | 12 | Gulungan kemahiran Saluran yang Mudah |
 
-Jika gulungan divinasi berjaya, ia memberikan salah satu keputusan berikut:
+Jika gulungan ramalan berjaya, ia memberikan salah satu hasil berikut:
 
 | Augury | Implikasi | 
 | :-: | :-- |
 | Ya | Tindakan itu akan memberi manfaat |
 | Tidak | Tindakan itu akan memudaratkan |
 | Ya dan Tidak | Tindakan itu akan memberi manfaat dan memudaratkan |
-| Tiada apa-apa | Tindakan itu tidak memberi manfaat mahupun memudaratkan |
+| Tiada | Tindakan itu tidak akan memberi manfaat mahupun memudaratkan |
 
-Kegagalan (Fumble) harus mengakibatkan Pengurus Permainan memberitahu perkara yang bertentangan dengan realiti.
+Satu Fumble harus menyebabkan Pengurus Permainan memberitahu perkara yang bertentangan dengan realiti.
 
 ---
 #### Avert
@@ -152,12 +152,12 @@ Kegagalan (Fumble) harus mengakibatkan Pengurus Permainan memberitahu perkara ya
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Pemanteraan:** Segera |
+| **Pangkat:** Paderi 0, Mage 0 | **Masa Pemanteraan:** Segera |
 | **Sfera:** Perlindungan | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** 60 kaki; |
+| **Kos:** 1 | **Julat:** 60 kaki |
 | **Kawasan:** 1 Mantera | **Rintangan:** Tiada |
 
-Avert digunakan untuk membatalkan mantera Pangkat 0 yang lain dalam Julat. Avert boleh dipantera secara reaktif untuk meneutralkan mantera Pangkat 0 yang menyerang, dengan menggunakan Tindakan Reaktif Sihir Balas (Counter Magic).
+Avert digunakan untuk menolak mantera Pangkat 0 yang lain dalam Julat. Avert boleh dimanterakan secara reaktif untuk meneutralkan mantera Pangkat 0 yang menyerang, dengan menggunakan Tindakan Reaktif Sihir Kaunter.
 
 ---
 #### Befuddle
@@ -166,12 +166,12 @@ Avert digunakan untuk membatalkan mantera Pangkat 0 yang lain dalam Julat. Avert
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Paderi 0, Mage 0 | **Masa Pemanteraan:** 1 Giliran |
 | **Sfera:** Pesona | **Tempoh:** 30 Minit |
 | **Kos:** 1 | **Julat:** 60 kaki |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Kawasan:** 1 Sasaran | **Rintangan:** Kekuatan Kehendak |
 
-Befuddle menyebabkan kekeliruan dalam minda sasaran yang bertubuh fizikal. Subjek mantera mengalami kesukaran untuk berfikir dengan jelas, lupa di mana ia berada, apa yang ia lakukan, dan mengapa – sering beralih kepada aliran pemikiran yang tidak berkaitan. Sasaran yang keliru masih boleh bertindak untuk mempertahankan diri tetapi tidak boleh memulakan sebarang aktiviti konstruktif sehingga mantera berakhir. Sebarang bentuk serangan atau tindakan mengancam serta-merta memecahkan mantera, sama ada ia ditujukan khusus kepada sasaran yang keliru itu atau tidak.
+Befuddle menyebabkan kekeliruan dalam minda sasaran korporeal. Subjek mantera mengalami kesukaran untuk berfikir dengan betul, terlupa di mana ia berada, apa yang dilakukannya, dan mengapa – selalunya terjerumus ke dalam aliran pemikiran yang terputus. Sasaran yang keliru masih boleh bertindak untuk mempertahankan diri tetapi tidak boleh memulakan sebarang aktiviti konstruktif sehingga mantera tamat. Sebarang jenis serangan atau tindakan mengancam serta-merta memecahkan mantera, sama ada ia ditujukan secara khusus kepada sasaran yang keliru itu atau tidak.
 
 ---
 #### Blade Barrier
@@ -181,29 +181,29 @@ Befuddle menyebabkan kekeliruan dalam minda sasaran yang bertubuh fizikal. Subje
 | | |
 | :-- | :-- |
 | **Pangkat:** Paderi 4 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Penjaga, Penciptaan | **Tempoh:** 3 Pusingan/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 100 kaki |
-| **Kawasan:** Jejari 5-30 kaki | **Rintangan:** Lihat di bawah |
+| **Sfera:** Penjaga, Penciptaan | **Tempoh:** 3 Pusingan/Keamatan |
+| **Kos:** 3+1/Keamatan tambahan | **Julat:** 100 kaki |
+| **Kawasan:** 5-30 kaki jejari | **Rintangan:** Lihat di bawah |
 
-Mantera ini mencipta penghadang pedang, belati, dan pisau yang berputar dan menghiris di sekeliling titik tetap dan menyebabkan 1d8 mata kerosakan pada 1d4+2 Lokasi Pukulan rawak bagi _sesiapa sahaja_ yang melalui Kawasan Kesan. Perisai hanya menawarkan separuh daripada perlindungan normalnya. Mata Perisai Sihir mengurangkan kerosakan seperti biasa. Kerana senjata berputar dengan kelajuan yang menyilaukan dan tersusun rapat, adalah mustahil untuk menepis (Parry) atau mengelak (Evade) daripadanya. Seseorang boleh menggunakan perisai untuk menyekat Lokasi Pukulan secara pasif seperti biasa. Dalam kes ini, ingat untuk membandingkan kerosakan yang digulung dengan perisai dan Mata Hit perisai tersebut.
+Mantera ini mencipta penghalang pedang, keris, dan pisau yang berputar dan menghiris yang mencambuk dan melibas di sekitar titik tetap dan menyebabkan 1d8 mata kerosakan kepada 1d4+2 Lokasi Kenaan rawak bagi _sesiapa sahaja_ yang melalui Kawasan Kesan. Perisai hanya menawarkan separuh perlindungan biasanya. Mata Perisai Sihir mengurangkan kerosakan seperti biasa. Kerana senjata itu berputar pada kelajuan yang menyilaukan dan tersusun rapat, adalah mustahil untuk Menangkis atau Mengelak daripadanya. Seseorang boleh menggunakan perisai untuk menyekat Lokasi Kenaan secara pasif seperti biasa. Dalam kes ini, ingat untuk membandingkan kerosakan yang digulung dengan perisai dan Mata Kenaan perisai.
 
-Mantera ini boleh dipantera secara defensif untuk melindungi paderi atau seorang atau lebih sekutu, atau secara ofensif untuk memerangkap musuh. Walau bagaimanapun, musuh yang dikelilingi dalam jarak lima kaki dari pinggir penghadang semasa ia terbentuk boleh membuat gulungan Mengelak (Evade) untuk melarikan diri. Walau apa pun kejayaannya, lawan berakhir dalam keadaan meniarap, tepat di luar Kawasan Kesan. Gulungan yang berjaya menghasilkan kerosakan sifar; jika tidak, mereka mengalami kesan penuh.
+Mantera ini boleh dimanterakan secara defensif untuk melindungi paderi atau seorang atau lebih sekutu atau memerangkap musuh secara ofensif. Walau bagaimanapun, musuh yang dikelilingi dalam jarak lima kaki dari pinggir penghalang semasa ia terbentuk boleh membuat gulungan Mengelak untuk melarikan diri. Tanpa mengira kejayaan, lawan akhirnya terbaring, tepat di luar Kawasan Kesan. Gulungan yang berjaya mengakibatkan tiada kerosakan; jika tidak, mereka mengalami kesan penuh.
 
 ---
 #### Bless \(R\)
 
-(Konjurasi)
+(Seruan)
 
 | | |
 | :-- | :-- |
 | **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Pusingan |
 | **Sfera:** Semua | **Tempoh:** 5 Minit |
-| **Kos:** 1 | **Julat:** 180 kaki. |
-| **Kawasan:** Jejari 25 kaki | **Rintangan:** Kuasa Minda |
+| **Kos:** 1 | **Julat:** 180 kaki |
+| **Kawasan:** 25 kaki Jejari | **Rintangan:** Kekuatan Kehendak |
 
-Apabila mantera ini dipantera, paderi memberkati sekumpulan sekutu dalam Kawasan Kesan. Mereka yang terjejas memancarkan Jajaran pemantera, sama ada Baik atau Jahat. Tiada berkat Berkecuali. Semua sekutu dalam jejari mantera menerima bonus +5% kepada semua kemahiran dan gulungan Rintangan. Selain itu, senjata mereka menyebabkan kerosakan +1d3 kepada mayat hidup yang bijak serta makhluk dari satah luar yang mempunyai jajaran bertentangan dengan pemantera, seperti syaitan, iblis, atau malaikat. Perhatikan bahawa walaupun mayat hidup yang dianimasikan seperti rangka dan zombi tidak semestinya jahat, mereka biasanya dianimasikan oleh sihir jahat dan dengan itu tertakluk kepada kerosakan ini.
+Apabila mantera ini dimanterakan, paderi memberkati sekumpulan sekutu dalam Kawasan Kesan. Mereka yang terjejas memancarkan Jajaran pemanter, sama ada Baik atau Jahat. Tiada berkat Berkecuali. Semua sekutu dalam jejari mantera menerima bonus +5% kepada semua gulungan kemahiran dan Rintangan. Selain itu, senjata mereka menyebabkan kerosakan +1d3 kepada mayat hidup yang bijak serta makhluk dari satah luar yang mempunyai jajaran yang bertentangan dengan pemanter, seperti syaitan, iblis, atau malaikat. Perhatikan bahawa walaupun mayat hidup yang dianimasikan seperti rangka dan zombi tidak sememangnya jahat, mereka biasanya dianimasikan oleh sihir jahat dan dengan itu tertakluk kepada kerosakan ini.
 
-Pembalikan mantera ini, Curse (Sumpah), membolehkan paderi menyumpah musuh, menyebabkan kemahiran yang dinyatakan mengalami kebalikan daripada faedah yang dinyatakan di atas. Kerosakan senjata yang disumpah dikira sebagai penalti sebaliknya, dan kerosakan ini tidak boleh mengakibatkan kurang daripada 1 mata.
+Bahagian terbalik mantera ini, Sumpahan, membolehkan paderi mengutuk musuh, menjadikan kemahiran yang dicatat mengalami songsangan daripada faedah yang dicatat di atas. Kerosakan senjata yang dikutuk dikira sebagai penalti sebaliknya, dan kerosakan ini tidak boleh mengakibatkan kurang daripada 1 mata.
 
 ---
 #### Burning Hands
@@ -212,24 +212,24 @@ Pembalikan mantera ini, Curse (Sumpah), membolehkan paderi menyumpah musuh, meny
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 1 | **Masa Pemanteraan:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Kon 120 darjah, panjang 5 kaki | **Rintangan:** Mengelak |
+| **Kos:** 3+1/Keamatan tambahan | **Julat:** 0 |
+| **Kawasan:** Kon 120-darjah, 5 kaki panjang | **Rintangan:** Mengelak |
 
-Mantera ini menyebabkan api keluar dari tangan pemantera dalam lengkungan 120 darjah. Jika menggunakan miniatur dalam pertempuran, Burning Hands akan merosakkan setiap sasaran yang menduduki 1 petak hadapan pemantera. Memantera Burning Hands pada tahap Intensiti yang lebih tinggi memerlukan ahli sihir Pangkat yang lebih tinggi. Kerosakan ini menyelubungi semua sasaran dalam kawasan tersebut dengan kerosakan berdasarkan Intensiti mantera, sehingga Intensiti Maksimum 9, seperti berikut. Gulungan Mengelak (Evade) yang berjaya, dengan menjatuhkan diri dalam keadaan meniarap, membolehkan mangsa mengalami kerosakan sifar. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa meniarap.
+Mantera ini menyebabkan api keluar dari tangan pemanter dalam lengkung 120-darjah. Jika menggunakan miniatur dalam pertempuran, Burning Hands akan merosakkan setiap sasaran yang menduduki 1 daripada petak depan pemanter. Memanterakan Burning Hands pada tahap Keamatan yang lebih tinggi memerlukan mage Pangkat yang lebih tinggi. Kerosakan ini menyelubungi semua sasaran dalam kawasan tersebut dengan kerosakan berdasarkan Keamatan mantera, sehingga Keamatan Maksimum 9, seperti berikut. Gulungan Mengelak yang berjaya, dengan menjatuhkan diri ke tanah, membolehkan mangsa tidak mengalami kerosakan. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa perlu menjatuhkan diri.
 
-| Intensiti | Kos | Pangkat Min | Kesan Pembolehubah |
+| Keamatan | Kos | Pangkat Min | Kesan Pembolehubah |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | 1d3+1 mata kerosakan pada semua Lokasi Pukulan |
-| 3 | 4 | 1 | 1d3+2 mata kerosakan pada semua Lokasi Pukulan |
-| 5 | 5 | 1 | 1d3+3 mata kerosakan pada semua Lokasi Pukulan |
-| 7 | 6 | 2 | 1d3+4 mata kerosakan pada semua Lokasi Pukulan |
-| 9 | 7 | 3 | 1d3+5 mata kerosakan pada semua Lokasi Pukulan |
+| 1 | 3 | 1 | 1d3+1 mata kerosakan kepada semua Lokasi Kenaan |
+| 3 | 4 | 1 | 1d3+2 mata kerosakan kepada semua Lokasi Kenaan |
+| 5 | 5 | 1 | 1d3+3 mata kerosakan kepada semua Lokasi Kenaan |
+| 7 | 6 | 2 | 1d3+4 mata kerosakan kepada semua Lokasi Kenaan |
+| 9 | 7 | 3 | 1d3+5 mata kerosakan kepada semua Lokasi Kenaan |
 
-Perisai yang dipakai tidak melindungi, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Mantera yang kuat ini diimbangi oleh julatnya yang sangat pendek, bermakna, untuk memantera, pengguna sihir mestilah cukup dekat untuk berada dalam kedudukan yang sangat merugikan.
+Perisai yang dipakai tidak melindungi, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Mantera berkuasa ini diimbangi oleh julatnya yang sangat pendek, bermakna, untuk memanterakannya, pengguna sihir mestilah cukup dekat untuk berada dalam kedudukan yang sangat tidak menguntungkan.
 
-Kerana makhluk yang lebih besar biasanya lebih besar daripada Kawasan Kesan mantera, mereka cenderung mempunyai lebih sedikit Lokasi Pukulan yang terjejas. Mereka yang bersaiz SIZ 21 hingga 30 mengambil kerosakan pada kepala, dada, perut, dan lengan mereka, manakala mereka yang bersaiz SIZ 31+ akan mengambil kerosakan pada perut dan kaki mereka. Pengurus Permainan harus menyesuaikan lokasi ini bergantung pada bentuk sasaran dan kedudukannya berbanding pemantera. Burning Hands mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosakan yang digulung x5%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
+Oleh kerana makhluk yang lebih besar biasanya lebih besar daripada Kawasan Kesan mantera, mereka cenderung mempunyai lebih sedikit Lokasi Kenaan yang terjejas. Mereka yang bersaiz SAI 21 hingga 30 menerima kerosakan pada kepala, dada, abdomen, dan lengan mereka, manakala mereka yang bersaiz SAI 31+ akan menerima kerosakan pada abdomen dan kaki mereka. Pengurus Permainan harus melaraskan lokasi ini bergantung pada bentuk dan kedudukan sasaran relatif kepada pemanter. Burning Hands mempunyai peluang untuk menyalakan bahan mudah terbakar yang sama dengan kerosakan yang digulung x5%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
 
 ---
 #### Calm
@@ -241,39 +241,38 @@ Kerana makhluk yang lebih besar biasanya lebih besar daripada Kawasan Kesan mant
 | **Pangkat:** Paderi 0 | **Masa Pemanteraan:** 1 Tindakan |
 | **Sfera:** Pesona | **Tempoh:** Segera |
 | **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Kawasan:** 1 Sasaran | **Rintangan:** Kekuatan Kehendak |
 
-Calm cuba meredakan Nafsu sasaran humanoid bersaiz SIZ 1-20, mungkin memastikan bahawa kekasih yang mabuk cinta tidak mendesak tuntutannya, saingan yang takut tidak menjerit meminta tolong, atau senjata tidak dicabut dalam kemarahan. Seseorang yang tenang tidak terjejas secara mental; oleh itu, sebarang bentuk serangan atau tindakan mengancam masih membolehkan sasaran mempertahankan diri, dan juga menyerang, walaupun mereka akan berbuat demikian dengan cara yang tenang dan berkepala dingin.
+Calm cuba untuk meredakan Nafsu sasaran humanoid SAI 1-20, mungkin memastikan bahawa kekasih yang mabuk cinta tidak mendesak permintaannya, saingan yang ketakutan tidak menjerit meminta tolong, atau senjata tidak dihunus dalam kemarahan. Orang yang ditenangkan tidak terjejas secara mental; oleh itu, sebarang jenis serangan atau tindakan mengancam masih membolehkan sasaran mempertahankan diri, malah menyerang, walaupun mereka akan berbuat demikian dengan cara yang tenang dan berkepala dingin.
 
----
-#### Chain Lightning
+---#### Chain Lightning
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Mage 4 | **Masa Pelancaran:** 2 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 50 kaki/Intensiti |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Mengelak |
+| **Kos:** 3+1/Keamatan tambahan | **Julat:** 50 kaki/Keamatan |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** Elak |
 
-Apabila memantera, ahli sihir mengeluarkan bolt elektrik selebar lima kaki dari hujung jari mereka yang boleh menyerang satu sasaran dalam julat sebanyak 1d6+1 mata kerosakan bagi setiap 2 Intensiti. Bolt itu kemudian melengkung ke objek atau makhluk terdekat seterusnya, yang mengambil kerosakan yang digulung sebelumnya tolak 1 mata, dan kemudian melengkung ke yang seterusnya, mengenakan kerosakan yang digulung tolak 2 mata, dan seterusnya. Ia mungkin melengkung kembali kepada sekutu atau pemantera! Walaupun sasaran awal mestilah kelihatan oleh pemantera, sasaran yang terkena bolt melengkung tidak semestinya perlu dilihat.
+Apabila dilancarkan, mage melepaskan panahan elektrik selebar lima kaki dari hujung jari mereka yang boleh mengenai satu sasaran dalam julat untuk 1d6+1 mata kerosakan bagi setiap 2 Keamatan. Panahan itu kemudian melengkung ke objek atau makhluk terdekat yang seterusnya, yang menerima kerosakan yang digulingkan sebelum ini tolak 1 mata, dan kemudian melengkung ke sasaran terdekat seterusnya, mengenakan kerosakan yang digulingkan tolak 2 mata, dan seterusnya. Ia juga boleh melengkung kembali kepada sekutu atau pelancar! Walaupun sasaran awal mestilah boleh dilihat oleh pelancar, sasaran yang terkena panahan melengkung tidak perlu dilihat.
 
-Setiap lengkungan mempunyai julat 50 kakinya sendiri, yang mungkin meletakkan bolt di luar julat asal apabila mantera dipantera. Chain Lightning terus menyerang jika ia mempunyai kerosakan yang tinggal sehingga ia menyerang objek yang menyebabkannya terputus (sangkar logam atau jeriji, kolam air besar, dan sebagainya) atau tiada lagi objek atau makhluk yang tersedia untuk diserang.
+Setiap lengkung mempunyai julat 50 kakinya sendiri, yang mungkin meletakkan panahan di luar julat asal apabila mantera dilancarkan. Chain Lightning terus memanah jika ia mempunyai baki kerosakan sehingga ia mengenai objek yang menyebabkannya dibumikan (sangkar besi atau palang, kolam air besar, dan sebagainya) atau tiada lagi objek atau makhluk yang tersedia untuk dipanah.
 
-Setiap makhluk yang diserang mengambil kerosakan pada satu Lokasi Pukulan, dengan perisai yang dipakai tidak menawarkan perlindungan, dan perisai semula jadi serta Mata Perisai sihir mengurangkan kerosakan seperti biasa.
+Setiap makhluk yang terkena menerima kerosakan pada satu Lokasi Kena, dengan perisai yang dipakai tidak menawarkan perlindungan, dan perisai semula jadi serta Mata Perisai magis mengurangkan kerosakan seperti biasa.
 
-Dengan gulungan Mengelak (Evade) yang berjaya, dengan menjatuhkan diri dalam keadaan meniarap, mangsa mengalami kerosakan sifar. Seseorang dengan Kebolehan Artful Dodger boleh Mengelak tanpa meniarap, tetapi Kejayaan dalam kes ini hanya mengurangkan kerosakan sebanyak separuh, melainkan mereka berada dalam jarak lima kaki dari pinggir Kawasan Kesan.
+Dengan gulingan Elak yang berjaya, melontarkan diri dalam keadaan meniarap, mangsa tidak mengalami sebarang kerosakan. Seseorang dengan Kebolehan Artful Dodger boleh Mengelak tanpa perlu meniarap, tetapi Kejayaan dalam kes ini hanya mengurangkan kerosakan sebanyak separuh.
 
-Kilat mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosakan yang digulung x1%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan. Kilat juga boleh memecahkan atau memusnahkan objek tidak bernyawa akibat hentaman yang kuat.
+Kilat mempunyai peluang untuk menyalakan bahan mudah terbakar bersamaan dengan kerosakan yang digulingkan x1%. Lihat bahagian mengenai [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan. Kilat juga mungkin memecahkan atau memusnahkan objek tidak bernyawa akibat impak semata-mata.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Julat 50-kaki; kerosakan 1d6+1 |
-| 2 | 4 | Julat 100-kaki; kerosakan 1d6+1 |
-| 3 | 5 | Julat 150-kaki; kerosakan 2d6+2 |
-| 4 | 6 | Julat 200-kaki; kerosakan 2d6+2 |
-| 5 | 7 | Julat 250-kaki; kerosakan 3d6+3 |
+| 1 | 3 | Julat 50-kaki; 1d6+1 kerosakan |
+| 2 | 4 | Julat 100-kaki; 1d6+1 kerosakan |
+| 3 | 5 | Julat 150-kaki; 2d6+2 kerosakan |
+| 4 | 6 | Julat 200-kaki; 2d6+2 kerosakan |
+| 5 | 7 | Julat 250-kaki; 3d6+3 kerosakan |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
@@ -283,12 +282,12 @@ Kilat mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosa
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 2d6 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** Pemantera | **Rintangan:** T/A |
+| **Pangkat:** Mage 1 | **Masa Pelancaran:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 2d6 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Julat:** 0 |
+| **Kawasan:** Pelancar | **Rintangan:** T/A |
 
-Mantera ini mengubah penampilan pemantera kepada mana-mana bentuk bipedal humanoid atau berbentuk manusia. Perubahan Ketinggian dan Berat adalah terhad kepada ±5 SIZ, masing-masing, tetapi dalam julat itu, pemantera boleh memilih untuk menjadi gemuk atau kurus, tinggi, atau rendah, atau malah menukar jantina. Rambut, pakaian, dan peralatan mungkin ditukar bersama dengan penampilan. Ciri-ciri wajah pemantera boleh ditukar mengikut keinginan, malah sehingga tahap meniru orang lain yang sedia ada dengan sempurna. Mantera ini tertakluk kepada [ketidakpercayaan](0009_Magic.md?id=attempting-to-disbelieve) seperti mantera Ilusi yang lain. Mantera ini tidak mengubah bau pemantera, dan jika disentuh, pemantera masih terasa sama dengan bentuk dan pakaian asal mereka.
+Mantera ini mengubah penampilan pelancar kepada mana-mana bentuk humanoid atau bentuk berkaki dua yang menyerupai manusia. Perubahan Ketinggian dan Berat adalah terhad kepada ±5 SAI, masing-masing, tetapi dalam julat itu, pelancar boleh memilih untuk menjadi gemuk atau kurus, tinggi atau rendah, atau malah mengubah jantina. Rambut, pakaian, dan peralatan boleh diubah bersama penampilan. Ciri wajah pelancar boleh diubah mengikut kehendak, malah sehingga tahap meniru orang lain yang sedia ada dengan sempurna. Mantera ini tertakluk kepada [ketidakpercayaan](0009_Magic.md?id=attempting-to-disbelieve) seperti mantera Ilusi yang lain. Mantera ini tidak mengubah bau pelancar, dan jika disentuh, pelancar masih terasa sama seperti bentuk dan pakaian asalnya.
 
 ---
 #### Chant
@@ -297,14 +296,14 @@ Mantera ini mengubah penampilan pemantera kepada mana-mana bentuk bipedal humano
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tempur | **Tempoh:** Tumpuan |
+| **Pangkat:** Cleric 2 | **Masa Pelancaran:** 2 Tindakan |
+| **Sfera:** Tempur | **Tempoh:** Penumpuan |
 | **Kos:** 1 | **Julat:** 0 |
-| **Kawasan:** Jejari 30 kaki | **Rintangan:** T/A |
+| **Kawasan:** 30 kaki Radius | **Rintangan:** T/A |
 
-Semua mereka yang berada dalam Kawasan Kesan menerima bonus +5% kepada semua gulungan kemahiran dan bonus +1 kepada kerosakan, kedua-duanya bagi setiap tahap Intensiti. Musuh dalam kawasan yang sama mengalami kebalikan daripada faedah yang dinyatakan di atas.
+Semua mereka yang berada dalam Kawasan Kesan menerima bonus +5% kepada semua gulingan kemahiran dan bonus +1 kepada kerosakan, kedua-duanya bagi setiap tahap Keamatan. Musuh dalam kawasan yang sama mengalami songsangan daripada faedah yang dinyatakan di atas.
 
-Chant mestilah dikekalkan sepanjang Tempoh mantera atau kesan berakhir. Memantera Dispel Magic tidak memberi kesan kepada kesan Chant yang sedang berlangsung kerana nyanyian itu sendiri bukanlah sihir; walau bagaimanapun, memantera Silence membatalkan faedah mantera tersebut. Kesan Chant bertindan dengan kesan Bless dan Curse. Disebabkan keperluan untuk melantunkan nyanyian sepanjang Tempoh, memantera mantera lain adalah mustahil.
+Chant mestilah dikekalkan sepanjang Tempoh mantera atau kesannya berakhir. Pelancaran Dispel Magic tidak mempunyai kesan ke atas kesan Chant yang sedang berlangsung kerana nyanyian itu sendiri bukanlah magis; walau bagaimanapun, pelancaran Silence membatalkan faedah mantera tersebut. Kesan Chant bertindan dengan kesan Bless dan Curse. Disebabkan keperluan untuk melantunkan sepanjang Tempoh, melancarkan mantera lain adalah mustahil.
 
 ---
 #### Charm Person
@@ -313,23 +312,23 @@ Chant mestilah dikekalkan sepanjang Tempoh mantera atau kesan berakhir. Memanter
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 1 Minggu/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 360 kaki |
-| **Kawasan:** 1 manusia hidup, demi-manusia, atau humanoid | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 1 | **Masa Pelancaran:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 1 Minggu/Keamatan |
+| **Kos:** 3+1/Keamatan tambahan | **Julat:** 360 kaki |
+| **Kawasan:** 1 sasaran manusia hidup, demi-manusia, atau humanoid | **Rintangan:** KUR |
 
-Apabila mantera ini dipantera, satu sasaran humanoid bijak yang hidup (makhluk mayat hidup tidak terjejas) bersaiz SIZ 1-20 akan berhenti semua permusuhan terhadap pengguna sihir dan sekutu pengguna sihir, dan sebaliknya menawarkan untuk membantu dan melindungi mereka jika sasaran gagal dalam gulungan Rintangan. Perhatikan bahawa membantu/melindungi boleh mempunyai kesan yang tidak diingini atau negatif bagi pemantera, kerana subjek bertindak berdasarkan apa yang dirasakannya sebagai tindakan terbaik untuk melindungi/membantu. Berkenaan dengan arahan, sasaran tidak akan mematuhi tindakan membunuh diri atau tindakan yang jelas berbahaya tetapi mungkin diyakinkan bahawa sesuatu yang sangat berbahaya perlu dilakukan.
+Apabila mantera ini dilancarkan, satu sasaran humanoid berakal yang hidup (makhluk mayat hidup tidak terjejas) bersaiz SAI 1-20 akan menghentikan semua permusuhan terhadap pengguna magis dan sekutu pengguna magis, dan sebaliknya menawarkan bantuan serta perlindungan jika sasaran gagal dalam gulingan Rintangan. Perhatikan bahawa membantu/melindungi boleh membawa kesan yang tidak disengajakan atau malah negatif bagi pelancar, kerana subjek bertindak berdasarkan apa yang dirasakannya sebagai tindakan terbaik untuk melindungi/membantu. Berkenaan dengan arahan, sasaran tidak akan sekali-kali mematuhi tindakan membunuh diri atau tindakan yang jelas memudaratkan tetapi mungkin diyakinkan bahawa sesuatu yang sangat berbahaya adalah berbaloi untuk dilakukan.
 
-Sebarang tindakan bermusuhan terhadap subjek pesona oleh pengguna sihir atau sekutu memecahkan Pesona. Nota: Jika orang lain mencabar sifat Pesona, sasaran juga boleh membuat gulungan Rintangan, mengikut budi bicara Pengurus Permainan. Pengguna sihir mestilah mampu bercakap dengan orang yang dipesonakan untuk memberikan sebarang jenis 'permintaan' yang kompleks; oleh itu, mengetahui bahasa sasaran boleh menjadi penting, tetapi tidak diperlukan untuk Pesona asas.
+Sebarang tindakan bermusuhan terhadap subjek pesona oleh pengguna magis atau sekutu akan memutuskan Enchantment tersebut. Nota: Jika orang lain mencabar sifat Pesona itu, sasaran juga boleh membuat gulingan Rintangan, mengikut budi bicara Penguasa Permainan. Pengguna magis mestilah boleh bercakap dengan yang dipesona untuk memberikan sebarang jenis 'permintaan' yang kompleks; oleh itu, mengetahui bahasa sasaran boleh menjadi penting, tetapi tidak diperlukan untuk Enchantment asas.
 
-Selepas gulungan awal untuk menentang, 1 minggu mesti berlalu sebelum subjek boleh membuat satu lagi gulungan Rintangan. Kesan berterusan sehingga gulungan Rintangan yang berjaya dibuat. Memantera Charm Person pada tahap Intensiti yang lebih tinggi memerlukan ahli sihir Pangkat yang lebih tinggi dan mempunyai Tempoh maksimum 4 minggu. Sepanjang Tempoh mantera, jumlah Mata Sihir pemantera dikurangkan dengan jumlah yang dibelanjakan untuk memantera mantera tersebut, mengikut peraturan [Kos Sihir Berterusan](0009_Magic.md?id=enduring-magic-costs).
+Selepas gulingan awal untuk menentang, 1 minggu mesti berlalu sebelum subjek boleh membuat gulingan Rintangan yang lain. Kesannya berterusan sehingga gulingan Rintangan yang berjaya dibuat. Melancarkan Charm Person pada tahap Keamatan yang lebih tinggi memerlukan mage Pangkat yang lebih tinggi dan mempunyai Tempoh maksimum 4 minggu. Sepanjang Tempoh mantera, jumlah Mata Magis pelancar dikurangkan sebanyak jumlah yang dibelanjakan untuk melancarkan mantera, seperti yang dinyatakan dalam peraturan [Kos Magis Berkekalan](0009_Magic.md?id=enduring-magic-costs).
 
-| Intensiti | Kos | Pangkat Min | Kesan Pembolehubah |
+| Keamatan | Kos | Pangkat Min | Kesan Pembolehubah |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | Dipesonakan selama 1 minggu |
-| 2 | 4 | 2 | Dipesonakan selama 2 minggu |
-| 3 | 5 | 3 | Dipesonakan selama 3 minggu |
-| 4 | 6 | 4 | Dipesonakan selama 4 minggu |
+| 1 | 3 | 1 | Dipesa untuk 1 minggu |
+| 2 | 4 | 2 | Dipesa untuk 2 minggu |
+| 3 | 5 | 3 | Dipesa untuk 3 minggu |
+| 4 | 6 | 4 | Dipesa untuk 4 minggu |
 
 ---
 #### Charm, Mass
@@ -338,19 +337,19 @@ Selepas gulungan awal untuk menentang, 1 minggu mesti berlalu sebelum subjek bol
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 5 | **Masa Pemanteraan:** 2 Pusingan |
-| **Sfera:** Tiada | **Tempoh:** 1 Minggu/Intensiti |
-| **Kos:** 3/Intensiti | **Julat:** 40 kaki/Intensiti |
-| **Kawasan:** Jejari 20 kaki/Intensiti | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 5 | **Masa Pelancaran:** 2 Pusingan |
+| **Sfera:** Tiada | **Tempoh:** 1 Minggu/Keamatan |
+| **Kos:** 3/Keamatan | **Julat:** 40 kaki/Keamatan |
+| **Kawasan:** 20 kaki Radius/Keamatan | **Rintangan:** KUR |
 
-Dengan pengecualian yang dinyatakan di atas, mantera ini berfungsi seperti mantera [Charm Person](0010_Spells.md?id=charm-person) dan Charm Monster. Mantera Pesona yang paling berkuasa ini mempunyai peluang untuk memukau semua makhluk dalam Kawasan Kesan bagi sebarang SIZ. Manusia bersaiz manusia dan lebih kecil (SIZ 1-20) mendapati gulungan mereka untuk menentang adalah Sukar; makhluk besar (SIZ 21-40) mesti membuat gulungan Rintangan mereka pada Kesukaran Standard, dan gulungan rintangan untuk makhluk sangat besar (SIZ 41+) adalah Mudah.
+Dengan pengecualian yang dinyatakan di atas, mantera ini berfungsi seperti mantera [Charm Person](0010_Spells.md?id=charm-person) dan Charm Monster. Mantera Pesona yang paling berkuasa ini mempunyai peluang untuk memikat semua makhluk dalam Kawasan Kesan bagi sebarang SAI. Bersaiz manusia dan lebih kecil (SAI 1-20) mendapati gulingan mereka untuk menentang adalah Sukar; makhluk Besar (SAI 21-40) mestilah membuat gulingan Rintangan mereka pada Kesukaran Standard, dan gulingan rintangan untuk makhluk Sangat Besar (SAI 41+) adalah Mudah.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Dipesonakan selama 1 minggu |
-| 2 | 6 | Dipesonakan selama 2 minggu |
-| 3 | 9 | Dipesonakan selama 3 minggu |
-| 4 | 12 | Dipesonakan selama 4 minggu |
+| 1 | 3 | Dipesa untuk 1 minggu |
+| 2 | 6 | Dipesa untuk 2 minggu |
+| 3 | 9 | Dipesa untuk 3 minggu |
+| 4 | 12 | Dipesa untuk 4 minggu |
 
 ---
 #### Charm Monster
@@ -359,35 +358,35 @@ Dengan pengecualian yang dinyatakan di atas, mantera ini berfungsi seperti mante
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 1 Minggu/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 180 kaki |
-| **Kawasan:** Jejari 20 kaki | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 3 | **Masa Pelancaran:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 1 Minggu/Keamatan |
+| **Kos:** 3+1/Keamatan tambahan | **Julat:** 180 kaki |
+| **Kawasan:** 20 kaki Radius | **Rintangan:** KUR |
 
-Ini adalah versi yang lebih baik daripada mantera [Charm Person](0010_Spells.md?id=charm-person) kerana ia akan memukau semua makhluk hidup bersaiz SIZ 20 atau kurang dalam Kawasan Kesan, atau 1 makhluk bagi sebarang SIZ. Makhluk besar (SIZ 21-40) lebih sukar untuk dipukau, dengan gulungan rintangan mereka menjadi Mudah, dan gulungan rintangan untuk makhluk sangat besar (SIZ 41+) adalah Sangat Mudah. Mantera ini berfungsi dalam semua cara lain seperti Charm Person.
+Ini adalah versi yang lebih baik bagi mantera [Charm Person](0010_Spells.md?id=charm-person) di mana ia akan memikat semua makhluk hidup bersaiz SAI 20 atau kurang dalam Kawasan Kesan, atau 1 makhluk bagi sebarang SAI. Makhluk besar (SAI 21-40) adalah lebih sukar untuk dipesona, dengan gulingan rintangan mereka adalah Mudah, dan gulingan rintangan untuk makhluk Sangat Besar (SAI 41+) adalah Sangat Mudah. Mantera ini berfungsi dalam semua cara lain seperti Charm Person.
 
-| Intensiti | Kos | Pangkat Min | Kesan Pembolehubah |
+| Keamatan | Kos | Pangkat Min | Kesan Pembolehubah |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 3 | Dipesonakan selama 1 minggu |
-| 2 | 4 | 3 | Dipesonakan selama 2 minggu |
-| 3 | 5 | 4 | Dipesonakan selama 3 minggu |
-| 4 | 6 | 4 | Dipesonakan selama 4 minggu |
+| 1 | 3 | 3 | Dipesa untuk 1 minggu |
+| 2 | 4 | 3 | Dipesa untuk 2 minggu |
+| 3 | 5 | 4 | Dipesa untuk 3 minggu |
+| 4 | 6 | 4 | Dipesa untuk 4 minggu |
 
 ---
 #### Chill \(R\)
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 0 | **Masa Pelancaran:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** Sentuhan |
+| **Kos:** 1 | **Julat:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
 
-Chill mengurangkan suhu objek kecil dengan ENC tidak lebih besar daripada 1 'Benda' secara drastik, sehingga suhu air ais. Berguna untuk menyejukkan barangan panas dengan cepat, menyejukkan minuman, dan sebagainya. Mantera ini tidak membekukan objek, dan tidak juga menyebabkan sebarang kerosakan pada strukturnya: ia hanya menjadikannya sangat sejuk.
+Chill secara drastik mengurangkan suhu objek kecil dengan ENC tidak lebih besar daripada 1 'Benda' dalam saiz, turun kepada suhu air berais. Berguna untuk menyejukkan barang panas dengan cepat, menyejukkan minuman, dan sebagainya. Mantera ini tidak membekukan objek, dan ia juga tidak menyebabkan sebarang kerosakan pada strukturnya: ia hanya menjadikannya sangat sejuk.
 
-Apabila diterbalikkan, Heat, meningkatkan suhu objek kecil secara drastik sehingga suhu air mendidih. Mantera serba boleh ini berguna untuk memanaskan wain, memasak makanan tanpa api, atau memanaskan katil sebelum tidur. Ia tidak menjejaskan tisu hidup walaupun ia boleh menjejaskan pakaian dan perisai, menjadikannya agak tidak selesa, tetapi tidak sampai menghalang pemakainya.
+Apabila diterbalikkan, Heat, meningkatkan suhu objek kecil secara drastik sehingga suhu air mendidih. Mantera serba boleh ini berguna untuk memanaskan wain, memasak makanan tanpa api, atau memanaskan katil sebelum tidur. Ia tidak menjejaskan tisu hidup walaupun ia boleh menjejaskan pakaian dan perisai, menjadikannya agak tidak selesa, tetapi tidak sampai tahap menghalang pemakainya.
 
 ---
 #### Cleanse \(R\)
@@ -396,14 +395,14 @@ Apabila diterbalikkan, Heat, meningkatkan suhu objek kecil secara drastik sehing
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 0 | **Masa Pelancaran:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Kuasa Minda |
+| **Kos:** 1 | **Julat:** Sentuh |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** KUR |
 
-Cleanse digunakan untuk menghilangkan kotoran, gris, daki, bau busuk, dan sebagainya daripada objek, orang, atau kawasan kecil. Ia tidak menyusun atau mengemaskan sasaran atau kawasan; hanya membersihkannya sehingga ke tahap bersih dan berkilat. Mantera ini sering digunakan untuk mencuci pakaian. Pemantera boleh membersihkan kawasan seluas POWx5 dalam kaki persegi (petak 5 kaki adalah 25 kaki persegi).
+Cleanse digunakan untuk menyingkirkan objek, orang atau kawasan kecil daripada kotoran, gris, daki, bau busuk, dan sebagainya. Ia tidak menyusun atau mengemaskan sasaran atau kawasan; hanya membersihkannya sehingga keadaan yang sangat bersih. Mantera ini sering digunakan untuk membasuh pakaian. Pelancar boleh membersihkan kawasan bersamaan dengan KURx5 dalam kaki persegi (segi empat sama 5-kaki adalah 25 kaki persegi).
 
-Dishevel adalah kebalikan daripada Cleanse. Objek yang terjejas serta-merta diliputi daki, habuk, sarang labah-labah, dan sebagainya. Mantera ini boleh digunakan untuk menjadikan objek serba baharu kelihatan lama dan cuaca atau membantu menghalang orang yang biasanya kelihatan kemas daripada dikenali.
+Dishevel adalah songsangan daripada Cleanse. Objek yang terjejas serta-merta diliputi daki, habuk, sarang labah-labah, dan sebagainya. Mantera ini boleh digunakan untuk menjadikan objek baru kelihatan lama dan usang atau membantu menghalang orang yang biasanya kemas daripada dikenali.
 
 ---
 #### Command
@@ -412,60 +411,60 @@ Dishevel adalah kebalikan daripada Cleanse. Objek yang terjejas serta-merta dili
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Cleric 1 | **Masa Pelancaran:** 1 Tindakan |
 | **Sfera:** Pesona | **Tempoh:** 1 Minit |
 | **Kos:** 3 | **Julat:** 100 kaki |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Kawasan:** 1 Sasaran | **Rintangan:** KUR |
 
-Apabila mantera ini dipantera, paderi boleh mengucapkan satu perkataan perintah kepada satu makhluk hidup bersaiz SIZ 1-20, dan pada Pusingan subjek seterusnya, perintah itu akan diikuti tepat jika mereka gagal menentang. Ini pada asasnya menyebabkan mangsa terlepas Pusingan seterusnya dalam melengkapkan tindakan yang diperintahkan dan membazirkan satu Titik Tindakan semasa melakukannya. Jika mangsa tidak mempunyai Titik Tindakan lagi, tindakan yang diperintahkan akan dilakukan semasa Pusingan pertama Pusingan seterusnya. Perintah itu sendiri tidak boleh menyebabkan sebarang kecederaan sebenar kepada sasaran; walau bagaimanapun, kecederaan mungkin timbul sebagai kesan sekunder daripada perintah tersebut.
+Apabila mantera ini dilancarkan, cleric boleh mengeluarkan arahan satu perkataan kepada satu makhluk hidup bersaiz SAI 1-20, dan pada Giliran subjek yang seterusnya, arahan itu akan diikuti sepenuhnya jika mereka gagal menentang. Ini pada asasnya menyebabkan mangsa terlepas Giliran seterusnya menyelesaikan tindakan yang diarahkan dan mensia-siakan Titik Tindakan semasa melakukannya. Jika mangsa tidak mempunyai lagi Titik Tindakan, tindakan yang diarahkan akan dilakukan semasa Giliran pertama mereka pada Pusingan seterusnya. Arahan itu sendiri tidak boleh menyebabkan sebarang kecederaan sebenar kepada sasaran; walau bagaimanapun, kecederaan mungkin datang sebagai kesan sekunder daripada arahan tersebut.
 
-Sebagai contoh, perintah untuk mati akan mengakibatkan mangsa rebah dalam keadaan seperti mati selama 1 Pusingan tanpa menyebabkan kecederaan sebenar; walau bagaimanapun, perintah untuk jatuh yang diberikan kepada makhluk yang memanjat tebing setinggi 100 kaki boleh menjadi lebih daripada membawa maut.
+Sebagai contoh, arahan untuk mati akan mengakibatkan mangsa rebah dalam keadaan seperti mati selama 1 Pusingan tanpa menyebabkan kecederaan sebenar; walau bagaimanapun, arahan untuk jatuh yang diberikan kepada makhluk yang sedang mendaki tebing setinggi 100 kaki boleh menjadi lebih daripada membawa maut.
 
-Subjek perintah mestilah mampu memahami bahasa yang dituturkan oleh pemantera dan dibenarkan ujian Kuasa Minda untuk menentang.
+Subjek arahan mestilah boleh memahami bahasa yang dituturkan oleh pelancar dan dibenarkan ujian KUR untuk menentang.
 
-**Beberapa Contoh Perintah**
+**Beberapa Contoh Arahan**
 
-- **Crawl:** Subjek meniarap dan mula merangkak.
-- **Die:** Subjek rebah ke dalam keadaan koma seperti mati.
-- **Fall:** Subjek rebah.
-- **Fumble:** Subjek melakukan kesilapan dalam tindakan fizikal yang akan diambil.
-- **Sleep:** Subjek tertidur.
-- **Flee:** Subjek berpusing dan melarikan diri dari pemantera.
-- **Fly:** Subjek mengibas tangan dan berlari dalam bulatan.
-- **Go:** Subjek mula berjalan ke arah yang dihadapinya.
-- **Halt:** Subjek berhenti serta-merta dan berdiri di tempatnya.
-- **Leave:** Subjek berpusing dan pergi melalui jalan ia masuk.
-- **Rest:** Subjek jatuh ke posisi duduk dan menarik nafas.
-- **Run:** Subjek mula berlari.
-- **Scream:** Subjek menjerit.
-- **Sink:** Subjek berhenti berenang.
-- **Surrender:** Subjek menjatuhkan senjatanya dan berhenti bermusuhan.
+- **Crawl (Merangkak):** Subjek jatuh meniarap dan mula merangkak.
+- **Die (Mati):** Subjek jatuh meniarap memasuki keadaan koma seperti mati.
+- **Fall (Jatuh):** Subjek jatuh meniarap.
+- **Fumble (Canggung):** Subjek mencanggung tindakan fizikal yang bakal diambil.
+- **Sleep (Tidur):** Subjek tertidur.
+- **Flee (Lari):** Subjek berpusing dan melarikan diri dari pelancar.
+- **Fly (Terbang):** Subjek mengepakkan tangan dan berlari dalam bulatan.
+- **Go (Pergi):** Subjek mula berjalan ke arah ia menghadap.
+- **Halt (Berhenti):** Subjek berhenti serta-merta dan berdiri di tempatnya.
+- **Leave (Keluar):** Subjek berpusing dan keluar melalui jalan ia masuk.
+- **Rest (Rehat):** Subjek duduk dan menarik nafas.
+- **Run (Berlari):** Subjek mula berlari.
+- **Scream (Jerit):** Subjek menjerit.
+- **Sink (Tenggelam):** Subjek berhenti berenang.
+- **Surrender (Serah diri):** Subjek menjatuhkan senjata dan menghentikan permusuhan.
 
 ---
 #### Cone of Cold
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Mage 3 | **Masa Pelancaran:** 1 Pusingan |
 | **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Mengelak |
+| **Kos:** 3+1/Keamatan tambahan | **Julat:** 0 |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** Elak |
 
-Pemantera mencipta kon sejuk yang menyengat dari tangan mereka. Kawasan Kesan ialah lengkungan 90 darjah ("kon") yang memanjang 10 kaki panjang bagi setiap tahap Intensiti. Mantera ini menyebabkan 1d6+1 mata kerosakan bagi setiap 2 mata Intensiti, atau sebahagian daripadanya, kepada semua mangsa dalam Kawasan Kesan. Gulung kerosakan sekali dan gunakan pada setiap Lokasi Pukulan sasaran, dengan perisai yang dipakai hanya menawarkan separuh perlindungan, tetapi perisai semula jadi makhluk atau Mata Perisai sihir mengurangkan kerosakan seperti biasa. Pengurus Permainan boleh memilih bilangan lokasi yang terjejas dengan apa cara yang dianggap sesuai jika makhluk besar lebih besar daripada Kawasan Kesan.
+Pelancar mencipta kon sejuk yang menyengat dari tangan mereka. Kawasan Kesan ialah lengkok 90 darjah ("kon") yang memanjang 10 kaki panjang bagi setiap tahap Keamatan. Mantera ini menyebabkan 1d6+1 mata kerosakan bagi setiap 2 mata Keamatan, atau pecahan daripadanya, kepada semua mangsa dalam Kawasan Kesan. Gulingkan kerosakan sekali dan gunakannya pada setiap Lokasi Kena sasaran, dengan perisai yang dipakai hanya menawarkan separuh perlindungan, tetapi perisai semula jadi makhluk atau Mata Perisai magis mengurangkan kerosakan seperti biasa. Penguasa Permainan boleh memilih bilangan lokasi yang terjejas dengan apa jua cara yang dianggap sesuai jika makhluk besar lebih besar daripada Kawasan Kesan.
 
-Dengan gulungan Mengelak (Evade) yang berjaya, dengan menjatuhkan diri dalam keadaan meniarap, mangsa mengalami kerosakan sifar. Seseorang dengan Kebolehan Artful Dodger boleh Mengelak tanpa meniarap, tetapi Kejayaan dalam kes ini hanya mengurangkan kerosakan sebanyak separuh, melainkan mereka berada dalam jarak lima kaki dari pinggir Kawasan Kesan. Cone of Cold mempunyai peluang untuk menyaluti mangsa dengan lapisan ais sama dengan kerosakan yang digulung (selepas pengubahsuaian) x5%. Jika beku, sekali setiap Pusingan, mangsa boleh membelanjakan Titik Tindakan dan membuat gulungan Otot (Brawn) untuk cuba membebaskan diri; walau bagaimanapun, sehingga berjaya, mangsa yang malang tidak boleh bergerak atau melakukan sebarang tindakan lain.
+Dengan gulingan Elak yang berjaya, melontarkan diri dalam keadaan meniarap, mangsa tidak mengalami sebarang kerosakan. Seseorang dengan Kebolehan Artful Dodger boleh Mengelak tanpa perlu meniarap, tetapi Kejayaan dalam kes ini hanya mengurangkan kerosakan sebanyak separuh, melainkan mereka berada dalam jarak lima kaki dari pinggir Kawasan Kesan. Cone of Cold mempunyai peluang untuk menyaluti mangsa dengan lapisan ais bersamaan dengan kerosakan yang digulingkan (selepas diubah suai) x5%. Jika beku, sekali setiap Pusingan, mangsa boleh membelanjakan Titik Tindakan dan membuat gulingan KEK untuk cuba membebaskan diri; walau bagaimanapun, sehingga berjaya, mangsa yang malang tidak boleh bergerak atau melakukan sebarang tindakan lain.
 
 **Kesan Cone of Cold**
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Panjang 10 kaki; kerosakan 1d6+1 |
-| 2 | 4 | Panjang 20 kaki; kerosakan 1d6+1 |
-| 3 | 5 | Panjang 30 kaki; kerosakan 2d6+2 |
-| 4 | 6 | Panjang 40 kaki; kerosakan 2d6+2 |
-| 5 | 7 | Panjang 50 kaki; kerosakan 3d6+3 |
+| 1 | 3 | 10 kaki panjang; 1d6+1 kerosakan |
+| 2 | 4 | 20 kaki panjang; 1d6+1 kerosakan |
+| 3 | 5 | 30 kaki panjang; 2d6+2 kerosakan |
+| 4 | 6 | 40 kaki panjang; 2d6+2 kerosakan |
+| 5 | 7 | 50 kaki panjang; 3d6+3 kerosakan |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
@@ -475,35 +474,35 @@ Dengan gulungan Mengelak (Evade) yang berjaya, dengan menjatuhkan diri dalam kea
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 4, Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Pesona | **Tempoh:** 1 Minit/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 120 kaki. (Versi paderi 250 kaki) |
-| **Kawasan:** Jejari 30 kaki | **Rintangan:** Kuasa Minda (Versi paderi adalah Kuasa Minda Sukar) |
+| **Pangkat:** Cleric 4, Mage 3 | **Masa Pelancaran:** 2 Tindakan |
+| **Sfera:** Pesona | **Tempoh:** 1 Minit/Keamatan |
+| **Kos:** 3+1/Keamatan tambahan | **Julat:** 120 kaki. (Versi Cleric 250 kaki) |
+| **Kawasan:** 30 kaki Radius | **Rintangan:** KUR (Versi cleric adalah KUR Sukar) |
 
-Apabila mantera ini dipantera, 1d4 makhluk bersaiz SIZ 1-20 dalam kawasan kesan yang gagal dalam gulungan Rintangan mereka akan diserang dengan kekeliruan sihir. Setiap tahap Intensiti tambahan akan menjejaskan 1d4 makhluk lagi sehingga maksimum 4d4. Versi paderi menjejaskan 1d3+1 bagi setiap Intensiti dan tiada Maksimum. Mereka yang berada dalam Kawasan Kesan dan paling hampir dengan pemantera terjejas terlebih dahulu. Gulungan Rintangan yang berjaya mengatasi mantera, manakala gulungan yang gagal mengakibatkan mangsa mengalami salah satu kesan rawak berikut, gulung setiap Pusingan untuk Tempoh mantera, atau sehingga mangsa merayau pergi.
+Apabila mantera ini dilancarkan, 1d4 makhluk bersaiz SAI 1-20 dalam kawasan kesan yang gagal dalam gulingan Rintangan mereka akan diserang dengan kekeliruan magis. Setiap tahap Keamatan tambahan akan menjejaskan 1d4 makhluk lagi sehingga maksimum 4d4. Versi cleric menjejaskan 1d3+1 bagi setiap Keamatan dan tiada Maksimum. Mereka yang berada dalam Kawasan Kesan dan paling hampir dengan pelancar akan terjejas dahulu. Gulingan Rintangan yang berjaya mengatasi mantera tersebut, manakala gulingan yang gagal mengakibatkan mangsa mengalami salah satu kesan rawak berikut, guling setiap Pusingan untuk Tempoh mantera, atau sehingga mangsa merayau jauh.
 
-| Gulungan D100 | Kesan Kekeliruan |
+| Gulingan D100 | Kesan Kekeliruan |
 | :-: | :-- |
-| 01-10 | Serang pemantera dengan senjata jarak jauh atau jarak dekat untuk baki Pusingan |
+| 01-10 | Serang pelancar dengan senjata jarak jauh atau jarak dekat untuk baki Pusingan |
 | 11-50 | Berdiri keliru, pada asasnya memilih Dither untuk baki Pusingan |
 | 51-70 | Serang musuh terdekat untuk baki Pusingan |
 | 71-80 | Serang sekutu terdekat untuk baki Pusingan |
-| 81-90 | Merayau pergi pada kelajuan Berjalan jika tidak terlibat untuk Tempoh mantera, jika tidak Dither seperti 11-50 di atas |
+| 81-90 | Merayau pergi pada kelajuan Jalan jika tidak terlibat untuk Tempoh mantera, jika tidak Dither seperti 11-50 di atas |
 | 91-00 | Bertindak seperti biasa untuk baki Pusingan |
 
-Setiap serangan ke atas makhluk yang keliru membolehkan ia percubaan tambahan untuk menentang mantera tersebut. Mangsa boleh Mengelak atau Menepis seperti biasa.
+Setiap serangan ke atas makhluk yang keliru membolehkannya percubaan tambahan untuk menentang mantera tersebut. Mangsa boleh Mengelak atau Menepis seperti biasa.
 
-Dengan hasil 'Merayau pergi', mangsa menghala ke arah bertentangan dengan pemantera pada kelajuan berjalan menggunakan mod pergerakan normalnya. Makhluk dengan Kebolehan semula jadi seperti perjalanan astral atau etereal, peralihan satah, dan sebagainya, mempunyai peluang 50% untuk menggunakan salah satu Kebolehan ini sebagai ganti mod pergerakan biasa mereka setiap Pusingan.
+Dengan hasil 'Merayau pergi', mangsa menuju ke arah bertentangan dengan pelancar pada gaya berjalan menggunakan mod pergerakan biasa mereka. Makhluk dengan Kebolehan semula jadi seperti perjalanan astral atau eterik, peralihan satah, dan sebagainya, mempunyai peluang 50% untuk menggunakan salah satu Kebolehan ini sebagai ganti bentuk pergerakan duniawi mereka setiap Pusingan.
 
-Makhluk besar (SIZ 21-40) kurang terdedah kepada Confusion, dengan gulungan Rintangan mereka menjadi Mudah, manakala gulungan Rintangan untuk makhluk sangat besar (SIZ 41+) adalah Sangat Mudah.
+Makhluk Besar (SAI 21-40) kurang terdedah kepada Confusion, dengan gulingan Rintangan mereka adalah Mudah, manakala gulingan Rintangan untuk makhluk Sangat Besar (SAI 41+) adalah Sangat Mudah.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 min.; 1d4 makhluk (1d3+1 untuk paderi) |
-| 2 | 4 | 2 min.; 2d4 makhluk (2d3+2 untuk paderi) |
-| 3 | 5 | 3 min.; 3d4 makhluk (3d3+3 untuk paderi) |
-| 4 | 6 | 4 min.; 4d4 makhluk (maks) (4d3+4 untuk paderi) |
-| 5 | 7 | 5 min.; (5d3+5 untuk paderi) |
+| 1 | 3 | 1 min.; 1d4 makhluk (1d3+1 untuk cleric) |
+| 2 | 4 | 2 min.; 2d4 makhluk (2d3+2 untuk cleric) |
+| 3 | 5 | 3 min.; 3d4 makhluk (3d3+3 untuk cleric) |
+| 4 | 6 | 4 min.; 4d4 makhluk (maks) (4d3+4 untuk cleric) |
+| 5 | 7 | 5 min.; (5d3+5 untuk cleric) |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
@@ -513,14 +512,14 @@ Makhluk besar (SIZ 21-40) kurang terdedah kepada Confusion, dengan gulungan Rint
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2, Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Matahari | **Tempoh:** Separa Kekal (Lihat di bawah) |
+| **Pangkat:** Cleric 2, Mage 2 | **Masa Pelancaran:** 1 Tindakan |
+| **Sfera:** Matahari | **Tempoh:** Separa-Kekal (Lihat di Bawah) |
 | **Kos:** 3 | **Julat:** 180 kaki. |
-| **Kawasan:** Jejari 60 kaki | **Rintangan:** Lihat di bawah |
+| **Kawasan:** 60 kaki Radius | **Rintangan:** Lihat di Bawah |
 
-Mantera ini mencipta glob cahaya yang setara kecerahannya dengan siang hari penuh pada titik pilihan pemantera, yang mungkin merupakan objek atau malah di udara tipis. Ia bersifat separa kekal dan hanya dinafikan sementara dengan memasuki kawasan kegelapan sihir. Walau bagaimanapun, ia mungkin dibatalkan secara kekal oleh pemantera pada bila-bila masa atau dinafikan dengan memantera Darkness atau Dispel Magic pada Intensiti yang lebih tinggi daripada Magnitud Continual Light.
+Mantera ini mencipta glob cahaya yang setara kecerahannya dengan siang hari penuh di tempat pilihan pelancar, yang boleh menjadi objek atau malah di udara. Ia adalah separa kekal dan hanya dibatalkan sementara dengan memasuki kawasan kegelapan magis. Walau bagaimanapun, ia boleh dibubarkan secara kekal oleh pelancar pada bila-bila masa atau dinafikan dengan pelancaran Darkness atau Dispel Magic pada Keamatan yang lebih besar daripada Magnitud Continual Light.
 
-Makhluk yang mempunyai keengganan terhadap siang hari mengalami penalti normal yang dikaitkan dengannya apabila berada dalam Kawasan Kesan yang relevan. Jika dipantera pada makhluk, sasaran dibenarkan ujian Kuasa Minda untuk menentang dengan Kejayaan menunjukkan bahawa mantera telah menjejaskan kawasan tepat di belakang makhluk dan bukan makhluk itu sendiri. Jika berpusat pada mata makhluk, gulungan Kuasa Minda yang gagal mengakibatkan kebutaan separa, meningkatkan kesukaran semua kemahiran dan gulungan Rintangan yang memerlukan penglihatan sebanyak satu gred. Penglihatan hanya boleh dipulihkan dengan memantera Cure Blindness and Deafness pada sebarang Intensiti, atau dengan memantera Dispel Magic pada Intensiti yang lebih tinggi daripada Magnitud Continual Light. Kesan mantera tidak bergerak tetapi boleh dipantera pada objek mudah alih atau boleh alih.
+Makhluk yang mempunyai keengganan terhadap siang hari mengalami penalti biasa yang dikaitkan dengannya apabila berada dalam Kawasan Kesan yang berkaitan. Jika dilancarkan pada makhluk, sasaran dibenarkan ujian KUR untuk menentang dengan Kejayaan menunjukkan bahawa mantera telah menjejaskan kawasan tepat di belakang makhluk dan bukan makhluk itu sendiri. Jika dipusatkan pada mata makhluk, gulingan KUR yang gagal mengakibatkan separuh buta, meningkatkan kesukaran semua gulingan kemahiran dan Rintangan yang memerlukan penglihatan sebanyak satu gred. Penglihatan hanya boleh dipulihkan dengan melancarkan Cure Blindness and Deafness pada sebarang Keamatan, atau dengan melancarkan Dispel Magic pada Keamatan yang lebih besar daripada Magnitud Continual Light. Kesan mantera tidak bergerak tetapi boleh dilancarkan pada objek yang mudah alih atau boleh dialihkan.
 
 ---
 #### Control Weather
@@ -529,22 +528,22 @@ Makhluk yang mempunyai keengganan terhadap siang hari mengalami penalti normal y
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 5, Ahli Sihir 4 | **Masa Pemanteraan:** 10 Minit |
-| **Sfera:** Cuaca | **Tempoh:** 1d6 Jam/Intensiti |
-| **Kos:** 3 +1/Intensiti | **Julat:** 0 |
-| **Kawasan:** 1d4 batu persegi/Intensiti | **Rintangan:** T/A |
+| **Pangkat:** Cleric 5, Mage 4 | **Masa Pelancaran:** 10 Minit |
+| **Sfera:** Cuaca | **Tempoh:** 1d6 Jam/Keamatan |
+| **Kos:** 3 +1/Keamatan | **Julat:** 0 |
+| **Kawasan:** 1d4 batu persegi/Keamatan | **Rintangan:** T/A |
 
-Mantera ini membolehkan pemantera mengubah cuaca semasa dengan cara yang ketara dan jelas. Sebaik sahaja dipantera, 1d4x10 Minit lagi mesti berlalu untuk kesan tersebut nyata sepenuhnya. Tempoh sebarang perubahan dikira mengikut Tempoh mantera. Pemantera boleh mengubah Kerpasan, Suhu, dan Angin sehingga tambah atau tolak dua gred seperti yang diperincikan pada jadual dalam [Jadual Penukaran](Appendix_B_Conversion_Tables).
+Mantera ini membolehkan pelancar mengubah cuaca semasa dengan cara yang ketara dan jelas. Sebaik sahaja dilancarkan, 1d4x10 Minit lagi mesti berlalu untuk kesan itu nyata sepenuhnya. Tempoh sebarang perubahan dikira mengikut Tempoh mantera. Pelancar boleh mengubah Kerpasan, Suhu, dan Angin sehingga tambah atau tolak dua gred seperti yang diperincikan pada jadual dalam [Jadual Penukaran](Appendix_B_Conversion_Tables).
 
 <br>
 
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Tempoh 1d6 jam; 1d4 batu persegi |
-| 2 | 4 | Tempoh 2d6 jam; 2d4 batu persegi |
-| 3 | 5 | Tempoh 3d6 jam; 3d4 batu persegi |
-| 4 | 6 | Tempoh 4d6 jam; 4d4 batu persegi |
+| 1 | 3 | Tempoh 1d6 jam.; 1d4 batu persegi |
+| 2 | 4 | Tempoh 2d6 jam.; 2d4 batu persegi |
+| 3 | 5 | Tempoh 3d6 jam.; 3d4 batu persegi |
+| 4 | 6 | Tempoh 4d6 jam.; 4d4 batu persegi |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
@@ -554,126 +553,125 @@ Mantera ini membolehkan pemantera mengubah cuaca semasa dengan cara yang ketara 
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Cleric 0, Mage 0 | **Masa Pelancaran:** 1 Tindakan |
 | **Sfera:** Semua | **Tempoh:** Pencetus |
-| **Kos:** 1 | **Julat:** Sentuhan |
+| **Kos:** 1 | **Julat:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
 
-Coordination meningkatkan ketangkasan manual dan kegesitan apabila melakukan satu tugas yang telah ditentukan. Apabila dipantera sebagai persediaan, ia membenarkan penerima peluang untuk menggulung semula satu pemeriksaan kemahiran di mana koordinasi diperlukan, seperti Akrobatik, Membuka Kunci, dan sebagainya. Penerima boleh memilih gulungan yang lebih baik daripada kedua-duanya, tetapi mantera itu digunakan dalam proses tersebut.
+Coordination meningkatkan ketangkasan manual dan kelincahan apabila melakukan satu tugas yang telah ditentukan sebelumnya. Apabila dilancarkan sebagai persediaan, ia membolehkan penerima peluang untuk mengguling semula satu semakan kemahiran di mana koordinasi diperlukan, seperti Akrobatik, Membuka Kunci, dan sebagainya. Penerima boleh memilih gulingan yang lebih baik antara kedua-duanya, tetapi mantera itu digunakan dalam proses tersebut.
 
----
-#### Create Food and Water
+---#### Cipta Makanan dan Air
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Minit |
-| **Sfera:** Penciptaan, Unsur (Air) | **Tempoh:** Lihat di bawah |
-| **Kos:** 3 +1/Intensiti | **Julat:** 30 kaki |
+| **Pangkat:** Paderi 1 | **Masa Jampi:** 1 Minit |
+| **Sfera:** Penciptaan, Elemental (Air) | **Tempoh:** Lihat di bawah |
+| **Kos:** 3 +1/Keamatan | **Jarak:** 30 kaki |
 | **Kawasan:** Lihat di bawah | **Rintangan:** T/A |
 
-Memantera mantera ini mencipta makanan dari udara tipis yang cukup untuk memberi makan kepada tiga makhluk bersaiz SIZ 20 atau kurang atau satu makhluk bersaiz SIZ 21-40 untuk sepanjang hari bagi setiap Intensiti. Makhluk yang lebih besar daripada SIZ 40 memerlukan 1 Intensiti bagi setiap 'hidangan' sebaliknya. Ciptaan ini menyerupai makanan biasa dalam semua cara, dan walaupun agak tawar, boleh jadi apa sahaja yang diingini oleh pemantera. Apa yang kurang dari segi rasa, ia lebih daripada mencukupi dari segi khasiat. Setelah dicipta, makanan itu mempunyai jangka hayat selama 24 jam tidak kira bagaimana ia disimpan. Walau bagaimanapun, setelah ia menjadi buruk, ia boleh dijadikan boleh dimakan semula dengan memantera Purify Food and Water, memanjangkan tempoh ia boleh dimakan dengan selamat selama 24 jam lagi. Selain makanan yang dicipta, mantera itu mencipta air minuman yang banyak, berfungsi dalam semua cara seperti mantera Pangkat 1 Create Water.
+Jampi ini mencipta makanan dari udara kosong, cukup untuk memberi makan kepada tiga makhluk dengan SAI 20 atau kurang atau satu makhluk dengan SAI 21-40 untuk sepanjang hari bagi setiap Keamatan. Makhluk yang lebih besar daripada SAI 40 memerlukan 1 Keamatan bagi setiap 'hidangan'. Ciptaan ini menyerupai makanan biasa dalam semua aspek, dan walaupun agak tawar, ia boleh menjadi apa sahaja yang diingini oleh penjampi. Walaupun kurang dari segi rasa, ia sangat berkhasiat. Setelah dicipta, makanan tersebut mempunyai tempoh hayat selama 24 jam tidak kira bagaimana ia disimpan. Walau bagaimanapun, sebaik sahaja ia menjadi busuk, ia boleh dijadikan boleh dimakan semula dengan menjampi Purify Food and Water, yang memanjangkan tempoh ia boleh dimakan dengan selamat selama 24 jam lagi. Selain makanan yang dicipta, jampi ini mencipta air minuman yang banyak, berfungsi dalam semua aspek seperti jampi Pangkat 1 Create Water.
 
 ---
-#### Cure Disease  \(R\)
+#### Cure Disease (R)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Paderi 2 | **Masa Jampi:** 1 Pusingan |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3/Intensiti | **Julat:** Sentuhan |
+| **Kos:** 3/Keamatan | **Jarak:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Ketahanan atau Mengelak) |
 
-Mantera ini menyembuhkan kesan mana-mana penyakit duniawi atau sihir yang menimpa sasaran yang Potensinya kurang daripada Intensiti mantera x30. Sebaik sahaja penawar berkuat kuasa, pemulihan boleh bermula seperti yang dinyatakan dalam penulisan mengenai penyakit yang dimaksudkan. Penyakit yang disebabkan oleh makhluk parasit seperti lendir hijau, belatung reput, dan malah likantro (lycanthropes), boleh dibatalkan oleh Cure Disease. Walau bagaimanapun, berkaitan dengan penyakit yang kedua, Remove Disease mestilah dipantera dalam masa 72 jam dan pada Intensiti 12 atau lebih, manakala yang pertama boleh disembuhkan pada Intensiti 1 sahaja. Mantera ini tidak menawarkan imunisasi masa depan terhadap penyakit tersebut.
+Jampi ini menyembuhkan kesan sebarang penyakit biasa atau sihir yang menimpa sasaran yang Potensinya kurang daripada Keamatan jampi x30. Sebaik sahaja penawar berkesan, pemulihan boleh bermula mengikut apa yang dinyatakan dalam keterangan penyakit tersebut. Penderitaan yang disebabkan oleh makhluk parasit seperti lendir hijau (green slime), ulat reput (rot grubs), dan juga lycanthrope, boleh dibatalkan oleh Cure Disease. Walau bagaimanapun, berkaitan dengan penderitaan yang kedua, Remove Disease mesti dijampi dalam masa 72 jam dan pada Keamatan 12 atau lebih, manakala yang pertama boleh disembuhkan pada Keamatan hanya 1. Jampi ini tidak menawarkan imunisasi masa depan terhadap penyakit tersebut.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Sembuhkan penyakit POT 30, lendir hijau, atau belatung reput |
+| 1 | 3 | Sembuhkan penyakit POT 30, lendir hijau, atau ulat reput |
 | 2 | 6 | Sembuhkan penyakit POT 60 |
 | 3 | 9 | Sembuhkan penyakit POT 90 |
-| 4 | 12 | Sembuhkan penyakit POT 120, likantropi |
+| 4 | 12 | Sembuhkan penyakit POT 120, lycanthropy |
 | +1 | +1 | Teruskan perkembangan |
 
-Pembalikan mantera ini, Cause Disease, mendatangkan penyakit sihir kepada musuh. Jika berjaya, pemantera boleh memilih untuk mendatangkan sebarang penyakit yang diketahui ke atas sasaran; walau bagaimanapun, Intensiti x30 mestilah sama atau melebihi Potensi penyakit yang dipilih. Setelah penyakit itu berjaya didatangkan, ia berfungsi seperti mana-mana penyakit lain berkaitan rintangan, Masa Permulaan, Tempoh, dan sebagainya. Satu-satunya pengecualian ialah pemulihan awal terhad kepada memantera sama ada Remove Disease atau Cure. Kemahiran Penyembuhan tidak mempunyai kesan ke atas penyakit yang didatangkan secara sihir.
+Sebalik daripada jampi ini, Cause Disease, menimpakan penyakit sihir kepada musuh. Jika berjaya, penjampi boleh memilih untuk menimpakan sebarang penyakit yang diketahui kepada sasaran; walau bagaimanapun, Keamatan x30 mestilah sama atau melebihi Potensi penyakit yang dipilih. Sebaik sahaja penyakit itu berjaya ditimpakan, ia berfungsi seperti penyakit lain dari segi rintangan, Masa Bermula, Tempoh, dan sebagainya. Satu-satunya pengecualian ialah pemulihan awal terhad kepada penjampian sama ada Remove Disease atau Cure. Kemahiran Penyembuhan tidak memberi kesan kepada penyakit yang disebabkan oleh sihir.
 
 ---
-#### Cure Fatigue  \(R\)
+#### Cure Fatigue (R)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Paderi 1 | **Masa Jampi:** 2 Tindakan |
 | **Sfera:** Penyembuhan | **Tempoh:** Lihat di bawah |
-| **Kos:** 1 | **Julat:** Sentuhan |
+| **Kos:** 1 | **Jarak:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Ketahanan atau Mengelak) |
 
-Apabila mantera ini dipantera, subjek mendapat semula 1d3+1 tahap Keletihan yang hilang, malah mendapat semula kesedaran jika berkenaan.
+Apabila jampi ini dijampi, subjek mendapat semula 1d3+1 tahap Keletihan yang hilang, malah mendapat semula kesedaran jika berkenaan.
 
-Pembalikan mantera ini, Cause Fatigue, memberikan 1d3+1 tahap Keletihan kepada sasaran yang gagal dalam gulungan Ketahanan. Gulungan Saluran (Channel) pemantera berfungsi sebagai gulungan untuk menyerang lawan mereka dan dianggap sebagai sebahagian daripada keperluan somatik mantera. Tiada gulungan tambahan untuk menyerang diperlukan. Baik perisai yang dipakai mahupun semula jadi tidak menawarkan sebarang perlindungan, tetapi Perisai sihir menafikan mantera tersebut.
+Sebalik daripada jampi ini, Cause Fatigue, menimpakan 1d3+1 tahap Keletihan kepada sasaran yang gagal dalam balingan Ketahanan. Balingan Saluran (Channel) penjampi berfungsi sebagai balingan untuk mengenai lawan mereka dan dianggap sebahagian daripada keperluan somatik jampi. Tiada balingan tambahan untuk mengenai diperlukan. Perisai pakai mahupun semula jadi tidak menawarkan perlindungan, tetapi Perisai sihir menafikan jampi tersebut.
 
 ---
-#### Cure Major Wounds  \(R\)
+#### Cure Major Wounds (R)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Paderi 2 | **Masa Jampi:** 1 Pusingan |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3/Intensiti | **Julat:** Sentuhan |
+| **Kos:** 3/Keamatan | **Jarak:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Ketahanan atau Mengelak) |
 
-Mantera ini berfungsi seperti Cure Minor Wounds kecuali di mana dinyatakan di bawah.
+Jampi ini berfungsi seperti Cure Minor Wounds kecuali di mana dinyatakan di bawah.
 
-Mantera ini menyembuhkan satu Lokasi Pukulan yang mengalami Luka Utama (Major Wound), tidak kira sama ada ia telah dihancurkan atau dicacatkan. Ia tidak memberi kesan pada anggota badan yang terputus, yang memerlukan sama ada Heal, jika anggota badan masih ada, atau Regeneration untuk memulihkannya. Dengan syarat penerima masih hidup dan lokasi itu cedera dalam masa beberapa jam bersamaan dengan Intensiti mantera, maka Cure Major Wounds menyembuhkan 1d8+4 kerosakan hampir serta-merta.
+Jampi ini menyembuhkan satu Lokasi Pukulan yang mengalami Luka Utama (Major Wound), tidak kira sama ada ia telah hancur atau terputus. Ia tidak memberi kesan kepada anggota badan yang terputus, yang memerlukan sama ada Heal, jika anggota badan masih ada, atau Regeneration untuk memulihkannya. Dengan syarat penerima masih hidup dan lokasi tersebut cedera dalam beberapa jam yang sama dengan Keamatan jampi, maka Cure Major Wounds menyembuhkan 1d8+4 kerosakan hampir serta-merta.
 
-Jika kecederaan berlaku lebih awal, maka bahagian tubuh mesti menjalani pembaikan yang lebih traumatik, yang memerlukan satu pemanteraan Cure Major Wounds dan beberapa hari rehat penuh dan pemulihan bersamaan dengan Kadar Penyembuhan watak. Mata Hit yang digulung dipuratakan dan diperolehi semula sepanjang Tempoh Pemulihan yang dinyatakan. Jika Tempoh Pemulihan ini terganggu sebelum penyembuhan selesai, lokasi tersebut kekal cacat dan tidak boleh digunakan, hanya boleh disembuhkan oleh mantera Heal.
+Jika kecederaan berlaku lebih awal, maka bahagian badan tersebut mesti menjalani pembaikan yang lebih traumatik, yang memerlukan satu jampi Cure Major Wounds dan beberapa hari rehat penuh serta pemulihan yang sama dengan Kadar Penyembuhan watak. Mata Pukulan yang dibaling dipuratakan dan didapati semula sepanjang Tempoh Pemulihan yang dinyatakan. Jika Tempoh Pemulihan ini terganggu sebelum penyembuhan selesai, lokasi tersebut kekal cacat dan tidak boleh digunakan, hanya boleh disembuhkan dengan jampi Heal.
 
-Apabila diterbalikkan, Cause Major Wounds boleh digunakan untuk mengurangkan satu Lokasi Pukulan sebanyak 1d8+4 Mata Hit. Gulungan Saluran (Channel) pemantera berfungsi sebagai gulungan untuk menyerang lawan mereka dan dianggap sebagai sebahagian daripada keperluan somatik mantera. Tiada gulungan tambahan untuk menyerang diperlukan. Mantera ini tidak boleh memutuskan lokasi tersebut tetapi boleh menghancurkan atau mencacatkannya seperti biasa. Baik perisai yang dipakai mahupun semula jadi tidak menawarkan sebarang perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa.
+Apabila diterbalikkan, Cause Major Wounds boleh digunakan untuk mengurangkan satu Lokasi Pukulan sebanyak 1d8+4 Mata Pukulan. Balingan Saluran penjampi berfungsi sebagai balingan untuk mengenai lawan mereka dan dianggap sebahagian daripada keperluan somatik jampi. Tiada balingan tambahan untuk mengenai diperlukan. Jampi ini tidak boleh memutuskan lokasi tersebut tetapi boleh menghancurkan atau mencacatkannya secara normal. Perisai pakai mahupun semula jadi tidak menawarkan perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa.
 
 ---
-#### Cure Minor Wounds  \(R\)
+#### Cure Minor Wounds (R)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Paderi 1 | **Masa Jampi:** 2 Tindakan |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3 (atau 1) | **Julat:** Sentuhan |
+| **Kos:** 3 (atau 1) | **Jarak:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Ketahanan atau Mengelak) |
 
-Cure Minor Wounds mempunyai beberapa kesan yang berbeza bergantung kepada sifat penyakit yang digunakan. Apabila dipantera pada makhluk yang mengalami Luka Kecil (Minor Wound), 1d4+1 Mata Hit pada lokasi yang cedera disembuhkan serta-merta. Ia mempunyai kesan terhad pada Luka Serius dan Utama, dengan hanya satu Mata Hit pulih. Walau bagaimanapun, mantera ini menstabilkan lokasi tanpa mengira kerosakan, menghentikan semua pendarahan dan menghalang kematian yang bakal berlaku.
+Cure Minor Wounds mempunyai beberapa kesan berbeza bergantung kepada sifat penyakit yang ia digunakan. Apabila dijampi pada makhluk yang mengalami Luka Kecil (Minor Wound), 1d4+1 Mata Pukulan di lokasi yang cedera disembuhkan serta-merta. Ia mempunyai kesan terhad pada Luka Serius dan Utama, dengan hanya satu Mata Pukulan dipulihkan. Walau bagaimanapun, jampi ini menstabilkan lokasi tanpa mengira kerosakan, menghentikan semua pendarahan dan mencegah kematian segera.
 
-Alternatifnya, jika subjek mengalami masalah kecil, seperti sakit kepala, sakit belakang, mabuk, selesema, ketuat, dan sebagainya, pemanteraan Cure Minor Wounds menghilangkan salah satu kesan tersebut. Contoh mantera ini hanya menelan kos satu Mata Sihir.
+Secara alternatif, jika subjek mengalami masalah kecil, seperti sakit kepala, sakit belakang, mabuk, selsema, ketuat dan sebagainya, penjampian Cure Minor Wounds menghilangkan salah satu kesan tersebut. Contoh jampi ini hanya menelan kos satu Mata Sihir.
 
-Apabila diterbalikkan, Cause Minor Wounds mengurangkan Mata Hit lokasi yang disentuh sebanyak 1d4+1 mata, tetapi sebaliknya beroperasi dengan cara yang sama. Cause Minor Wounds hanya akan mendatangkan 1 mata kerosakan pada lokasi dengan Luka Serius atau Utama, manakala kerosakan berlebihan akan hilang. Mantera ini tidak boleh memutuskan lokasi tersebut tetapi boleh menghancurkan atau mencacatkannya seperti biasa.
+Apabila diterbalikkan, Cause Minor Wounds mengurangkan Mata Pukulan lokasi yang disentuh sebanyak 1d4+1 mata, tetapi sebaliknya beroperasi dengan cara yang sama. Cause Minor Wounds hanya akan menimpakan 1 mata kerosakan pada lokasi dengan Luka Serius atau Utama, manakala kerosakan berlebihan hilang. Jampi ini tidak boleh memutuskan lokasi tersebut tetapi boleh menghancurkan atau mencacatkannya secara normal.
 
-Alternatifnya, mantera ini boleh mendatangkan penyakit kecil, seperti sakit kepala, sakit belakang, mabuk, selesema, ketuat, dan sebagainya. Contoh mantera ini hanya menelan kos satu Mata Sihir.
+Secara alternatif, jampi ini boleh menyebabkan penyakit kecil, seperti sakit kepala, sakit belakang, mabuk, selsema, ketuat dan sebagainya. Contoh jampi ini hanya menelan kos satu Mata Sihir.
 
-Gulungan Saluran (Channel) pemantera berfungsi sebagai gulungan untuk menyerang lawan mereka dan dianggap sebagai sebahagian daripada keperluan somatik mantera. Tiada gulungan tambahan untuk menyerang diperlukan. Baik perisai yang dipakai mahupun semula jadi tidak menawarkan sebarang perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa.
+Balingan Saluran penjampi berfungsi sebagai balingan untuk mengenai lawan mereka dan dianggap sebahagian daripada keperluan somatik jampi. Tiada balingan tambahan untuk mengenai diperlukan. Perisai pakai mahupun semula jadi tidak menawarkan perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa.
 
 ---
-#### Cure Serious Wounds  \(R\)
+#### Cure Serious Wounds (R)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Paderi 2 | **Masa Jampi:** 1 Pusingan |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3 | **Julat:** Sentuhan |
+| **Kos:** 3 | **Jarak:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Ketahanan atau Mengelak) |
 
-Mantera ini berfungsi seperti Cure Minor Wounds kecuali di mana dinyatakan di bawah.
+Jampi ini berfungsi seperti Cure Minor Wounds kecuali di mana dinyatakan di bawah.
 
-Cure Serious Wounds menyembuhkan satu Lokasi Pukulan sebanyak 1d6+2 mata kecederaan, dengan syarat kecederaan itu tidak lebih teruk daripada Luka Serius. Ia mempunyai kesan terhad pada Luka Utama, menyembuhkan lokasi tersebut sebanyak 2 Mata Hit dan menstabilkan kecederaan, menghalang kematian.
+Cure Serious Wounds menyembuhkan satu Lokasi Pukulan sebanyak 1d6+2 mata kecederaan, dengan syarat kecederaan tersebut tidak lebih teruk daripada Luka Serius. Ia mempunyai kesan terhad pada Luka Utama, menyembuhkan lokasi tersebut sebanyak 2 Mata Pukulan dan menstabilkan kecederaan, mencegah kematian.
 
-Apabila diterbalikkan, Cause Serious Wounds mengurangkan satu Lokasi Pukulan sebanyak 1d6+2 Mata Hit. Cause Serious Wounds hanya akan menyebabkan 2 mata kerosakan pada lokasi dengan Luka Utama; sebarang kerosakan berlebihan akan hilang. Gulungan Saluran (Channel) pemantera berfungsi sebagai gulungan untuk menyerang lawan mereka dan dianggap sebagai sebahagian daripada keperluan somatik mantera. Tiada gulungan tambahan untuk menyerang diperlukan. Mantera ini tidak boleh memutuskan lokasi tersebut tetapi boleh menghancurkan atau mencacatkannya seperti biasa. Baik perisai yang dipakai mahupun semula jadi tidak menawarkan sebarang perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa.
+Apabila diterbalikkan, Cause Serious Wounds mengurangkan satu Lokasi Pukulan sebanyak 1d6+2 Mata Pukulan. Cause Serious Wounds hanya akan menyebabkan 2 mata kerosakan pada lokasi dengan Luka Utama; sebarang kerosakan berlebihan hilang. Balingan Saluran penjampi berfungsi sebagai balingan untuk mengenai lawan mereka dan dianggap sebahagian daripada keperluan somatik jampi. Tiada balingan tambahan untuk mengenai diperlukan. Jampi ini tidak boleh memutuskan lokasi tersebut tetapi boleh menghancurkan atau mencacatkannya secara normal. Perisai pakai mahupun semula jadi tidak menawarkan perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa.
 
 ---
 #### Dancing Lights
@@ -682,14 +680,14 @@ Apabila diterbalikkan, Cause Serious Wounds mengurangkan satu Lokasi Pukulan seb
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** Jejari 100 kaki/Intensiti | **Rintangan:** T/A |
+| **Pangkat:** Ahli Sihir 1 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 2 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** 100 kaki Jejari/Keamatan | **Rintangan:** T/A |
 
-Apabila mantera ini dipantera, pengguna sihir boleh mencipta salah satu kesan berikut: 1d4 titik cahaya berkelip yang menyerupai tanglung atau obor, yang memberikan jumlah pencahayaan yang serupa, 1d4 sfera cahaya seperti will-o-wisps, atau 1 bentuk humanoid samar cahaya berkelip seperti unsur api. Kesan-kesan ini boleh diarahkan oleh pemantera tanpa perlu Tumpuan dan bergerak pada sebarang kelajuan yang diingini dalam kawasan mantera. Jika lampu bergerak keluar dari Kawasan Kesan mantera, atau Tempoh berakhir, ia lenyap dari kewujudan.
+Apabila jampi ini dijampi, pengguna sihir boleh mencipta salah satu kesan berikut: 1d4 titik cahaya berkelip yang menyerupai tanglung atau obor, yang memberikan jumlah pencahayaan yang serupa, 1d4 sfera cahaya yang bercahaya seperti will-o-wisp, atau 1 bentuk samar manusia dari cahaya yang berkelip seperti cahaya elementar api. Kesan-kesan tersebut boleh diarahkan oleh penjampi tanpa memerlukan Tumpuan dan bergerak pada sebarang kelajuan yang diingini dalam kawasan jampi. Jika lampu bergerak keluar dari Kawasan Kesan jampi, atau Tempoh tamat, ia hilang dari kewujudan.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
 | 1 | 1 | 1d4 lampu atau 1 bentuk selama 2 min. dalam jejari 100 kaki |
 | 2 | 2 | 1d4 lampu atau 1 bentuk selama 4 min. dalam jejari 200 kaki |
@@ -704,19 +702,19 @@ Apabila mantera ini dipantera, pengguna sihir boleh mencipta salah satu kesan be
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 10 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** Jejari 10 kaki | **Rintangan:** T/A |
+| **Pangkat:** Ahli Sihir 2 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 10 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 30 kaki/Keamatan |
+| **Kawasan:** 10 kaki Jejari | **Rintangan:** T/A |
 
-Mantera ini mencipta kawasan kegelapan sihir total dalam jejari 10 kaki, menyekat penglihatan normal serta penglihatan kaum khas seperti Infravision. Semua bentuk cahaya duniawi dibatalkan oleh mantera ini, daripada cahaya matahari hingga cahaya lilin. Ia boleh ditentang dengan memantera Light dan sebaliknya; walau bagaimanapun, bentuk cahaya sihir lain seperti Dancing Lights, Fairy Fire, dan malah cahaya yang dikeluarkan oleh mantera Pengesanan dibatalkan oleh Darkness. Mantera Light dengan Tempoh yang sedang berjalan tidak mempunyai kesan ke atas Darkness dan sebaliknya.
+Jampi ini mencipta kawasan kegelapan sihir sepenuhnya dalam jejari 10 kaki, menyekat penglihatan biasa serta penglihatan kaum khas seperti Darkvision. Semua bentuk cahaya biasa dibatalkan oleh jampi ini, dari cahaya matahari hingga cahaya lilin. Ia boleh ditangkis dengan menjampi Light dan sebaliknya; walau bagaimanapun, bentuk cahaya sihir lain seperti Dancing Lights, Fairy Fire, dan malah cahaya yang dikeluarkan oleh jampi Detection dibatalkan oleh Darkness. Jampi Light yang mempunyai Tempoh yang sedang berjalan tidak mempunyai kesan pada Darkness dan sebaliknya.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 1 | 10 min.; Julat 30 kaki |
-| 2 | 2 | 20 min.; Julat 60 kaki |
-| 3 | 3 | 30 min.; Julat 90 kaki |
-| 4 | 4 | 40 min.; Julat 120 kaki |
+| 1 | 1 | 10 min.; 30 kaki Jarak |
+| 2 | 2 | 20 min.; 60 kaki Jarak |
+| 3 | 3 | 30 min.; 90 kaki Jarak |
+| 4 | 4 | 40 min.; 120 kaki Jarak |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
@@ -726,12 +724,12 @@ Mantera ini mencipta kawasan kegelapan sihir total dalam jejari 10 kaki, menyeka
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 1 Minit |
-| **Sfera:** Tiada | **Tempoh:** 2 Jam/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** Sentuhan |
+| **Pangkat:** Ahli Sihir 2 | **Masa Jampi:** 1 Minit |
+| **Sfera:** Tiada | **Tempoh:** 2 Jam/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
 
-Mantera ini memberikan penerima Darkvision hingga Julat 60 kaki. Ia berfungsi dalam semua cara seperti Kebolehan kaum yang sama nama.
+Jampi ini memberikan Darkvision kepada penerima sehingga Jarak 60 kaki. Ia berfungsi dalam semua aspek seperti Keupayaan kaum dengan nama yang sama.
 
 ---
 #### Death Spell
@@ -740,24 +738,24 @@ Mantera ini memberikan penerima Darkvision hingga Julat 60 kaki. Ia berfungsi da
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Ahli Sihir 4 | **Masa Jampi:** 2 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Serta-merta |
-| **Kos:** 3 +1/Intensiti, +2 EXP | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** Jejari 15 kaki | **Rintangan:** Ketahanan |
+| **Kos:** 3 +1/Keamatan, +2 EXP | **Jarak:** 30 kaki/Keamatan |
+| **Kawasan:** 15 kaki Jejari | **Rintangan:** Ketahanan |
 
-Kejayaan memantera mantera ini membunuh jumlah makhluk yang berubah-ubah bersaiz SIZ 40 atau kurang dalam Kawasan Kesan. Pengguna sihir menggulung 1d6 bagi setiap tahap Intensiti untuk menentukan bilangan makhluk yang terjejas. Di mana makhluk dalam kategori SIZ berbeza menduduki Kawasan Kesan, makhluk bersaiz manusia (SIZ 1-20) sentiasa terjejas sebelum yang lebih besar. Makhluk besar (SIZ 21-40) lebih cenderung untuk menentang daripada dibunuh, dengan gulungan Rintangan mereka menjadi Mudah, walau bagaimanapun, setiap makhluk besar dikira sebagai 5 makhluk bersaiz manusia. Makhluk yang lebih besar daripada SIZ 40 tidak terjejas oleh mantera ini.
+Penjampian jampi ini yang berjaya membunuh bilangan makhluk SAI 40 atau kurang yang berubah-ubah dalam Kawasan Kesan. Pengguna sihir membaling 1d6 untuk setiap tahap Keamatan untuk menentukan bilangan makhluk yang terjejas. Di mana makhluk dengan kategori SAI berbeza menduduki Kawasan Kesan, makhluk bersaiz manusia (SAI 1-20) sentiasa terjejas sebelum yang lebih besar. Makhluk besar (SAI 21-40) lebih cenderung untuk menentang daripada dibunuh, dengan balingan Rintangan mereka adalah Mudah, walau bagaimanapun, setiap makhluk besar dikira sebagai 5 makhluk bersaiz manusia. Makhluk yang lebih besar daripada SAI 40 tidak terjejas oleh jampi ini.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 +2 EXP | Julat 30 kaki; 1d6 makhluk terjejas |
-| 2 | 4 +2 EXP | Julat 60 kaki; 2d6 makhluk terjejas |
-| 3 | 5 +2 EXP | Julat 90 kaki; 3d6 makhluk terjejas |
-| 4 | 6 +2 EXP | Julat 120 kaki; 4d6 makhluk terjejas |
+| 1 | 3 +2 EXP | 30 kaki Jarak; 1d6 makhluk terjejas |
+| 2 | 4 +2 EXP | 60 kaki Jarak; 2d6 makhluk terjejas |
+| 3 | 5 +2 EXP | 90 kaki Jarak; 3d6 makhluk terjejas |
+| 4 | 6 +2 EXP | 120 kaki Jarak; 4d6 makhluk terjejas |
 | +1 | +1 | Teruskan perkembangan |
 
-Memantera mantera pada Intensiti yang mencukupi untuk menyamai atau melebihi bilangan sasaran yang berpotensi adalah wajar, kerana mata yang tidak mencukupi akan hilang. Mantera ini tidak mempunyai kesan ke atas likantrop, mayat hidup, atau makhluk satah lain. Hanya Wish yang boleh membawa mereka yang terjejas oleh mantera ini kembali daripada kematian.
+Menjampi jampi pada Keamatan yang mencukupi untuk sama atau melebihi bilangan sasaran berpotensi adalah wajar, kerana mata yang tidak mencukupi akan hilang. Jampi ini tidak mempunyai kesan pada lycanthrope, mayat hidup, atau makhluk satah lain. Hanya Wish boleh membawa mereka yang terjejas oleh jampi ini kembali dari kematian.
 
-_Contoh: Rengarth memantera Death Spell ke kawasan yang diduduki oleh empat orc bersaiz SIZ 16 dan dua gergasi bukit bersaiz SIZ 32, memilih Intensiti 3. Menggulung 3d6 untuk kesan mantera, dengan 1d6 bagi setiap Intensiti, menghasilkan 12 mata. Walaupun setiap gergasi bukit memerlukan hanya 5 mata untuk dibunuh, orc yang lebih kecil adalah yang pertama terjejas. Tiga daripada empat orc gagal dalam gulungan Rintangan mereka dan tunduk kepada kematian. Oleh kerana setiap orc adalah sama dengan 1 mata, 8 mata berbaki. Ini cukup untuk menjejaskan seorang gergasi bukit sebanyak 5 mata, dengan baki 3 mata hilang. Walau bagaimanapun, gergasi bukit yang marah itu tiada masalah berjaya dalam gulungan Rintangan Mudah mereka dan menyerang Rengarth._
+_Contoh: Rengarth menjampi Death Spell ke kawasan yang diduduki oleh empat orc SAI 16 dan dua gergasi bukit SAI 32, memilih Keamatan 3. Membaling 3d6 untuk kesan jampi, dengan 1d6 setiap Keamatan, menghasilkan 12 mata. Walaupun setiap gergasi bukit memerlukan hanya 5 mata untuk dibunuh, orc yang lebih kecil adalah yang pertama terjejas. Tiga daripada empat orc gagal dalam balingan Rintangan mereka dan mati. Memandangkan setiap orc adalah sama dengan 1 mata, 8 mata berbaki. Ini cukup untuk menjejaskan seorang gergasi bukit selama 5 mata, dengan 3 mata berbaki akan hilang. Walau bagaimanapun, gergasi bukit yang marah itu tidak mempunyai masalah untuk berjaya dalam balingan Rintangan Mudah dan menyerbu ke arah Rengarth._
 
 ---
 #### Deflect
@@ -766,40 +764,40 @@ _Contoh: Rengarth memantera Death Spell ke kawasan yang diduduki oleh empat orc 
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Jampi:** 1 Tindakan |
 | **Sfera:** Perlindungan | **Tempoh:** Tumpuan |
-| **Kos:** 1 | **Julat:** Sentuhan |
+| **Kos:** 1 | **Jarak:** Sentuh |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
 
-Deflect melindungi penerima daripada hentaman kecil bahan asing, seperti titisan hujan, sekumpulan agas, atau malah butiran pasir yang terbang. Perlindungan adalah terhad kepada objek individu yang lebih kecil daripada kuku kanak-kanak, dan oleh itu tidak boleh menghalang senjata peluru normal daripada menyerang watak.
+Deflect melindungi penerima terhadap impak kecil bahan asing, seperti titisan hujan, sekumpulan agas, atau malah butiran pasir yang terbang. Perlindungan terhad kepada objek individu yang lebih kecil daripada kuku kanak-kanak, dan dengan itu tidak dapat menghalang senjata peluru biasa daripada mengenai watak.
 
 ---
-#### Detect Charm \(R\)
+#### Detect Charm (R)
 
 (Divinasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Pusingan |
-| **Sfera:** Divinasi | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 100 kaki. |
-| **Kawasan:** 1 Sasaran bagi setiap Minit | **Rintangan:** T/A |
+| **Pangkat:** Paderi 1 | **Masa Jampi:** 1 Pusingan |
+| **Sfera:** Divinasi | **Tempoh:** 2 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 100 kaki |
+| **Kawasan:** 1 Sasaran per Minit | **Rintangan:** T/A |
 
-Mantera ini membolehkan pemantera membezakan sama ada satu atau lebih makhluk terpilih berada di bawah kesan Charm. Tumpuan penuh selama seminit diperlukan untuk mengimbas satu makhluk. Apabila pembalikan mantera ini (Hide Charm) dipantera, satu makhluk boleh dilindungi daripada pengesanan sedemikian untuk 6 jam/Intensiti.
+Jampi ini membolehkan penjampi membezakan sama ada satu atau lebih makhluk terpilih berada di bawah kesan Charm. Tumpuan selama satu minit penuh diperlukan untuk mengimbas satu makhluk. Apabila sebalik jampi ini (Hide Charm) dijampi, satu makhluk boleh dilindungi daripada pengesanan sedemikian selama 6 jam/Keamatan.
 
 ---
-#### Detect Evil \(R\)
+#### Detect Evil (R)
 
 (Divinasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1, Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Semua | **Tempoh:** 5 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 180 kaki. |
-| **Kawasan:** Lengkungan 90 darjah | **Rintangan:** T/A |
+| **Pangkat:** Paderi 1, Ahli Sihir 2 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Semua | **Tempoh:** 5 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 180 kaki |
+| **Kawasan:** 90 darjah Lengkok | **Rintangan:** T/A |
 
-Dengan mantera ini, pemantera boleh mengesan pancaran kejahatan yang kuat dalam lengkungan 90 darjah, sehingga 180 kaki. Ia hanya akan menemui makhluk jahat yang bersifat ghaib seperti syaitan dan pontianak, atau makhluk duniawi yang berniat jahat atau keji, seperti yang ditentukan oleh Pengurus Permainan. Walau bagaimanapun, ia tidak akan mengesan perkara seperti perangkap, racun, item disumpah, dan sebagainya. Pemantera boleh melihat pancaran melalui sehingga 3 kaki kayu padu, 1 kaki batu atau tanah, dan 1 inci logam padu. Kerana aura sihir memerlukan masa untuk terbentuk, tidak lebih daripada satu lengkungan 60° boleh diimbas setiap minit. Syaitan, iblis, malaikat, dan unsur tidak bersifat sihir dengan sendirinya, tetapi jika mereka dipanggil, mantera seruan akan mendaftar selama beberapa minit bersamaan dengan Magnitud mantera seruan x10 di tempat ia dipantera. Pembalikan mantera ini, Detect Good, mengikuti peraturan yang sama yang dinyatakan di atas.
+Dengan jampi ini, penjampi boleh mengesan pancaran kuat kejahatan dalam lengkok 90 darjah, sehingga 180 kaki. Ia hanya akan menemui makhluk jahat yang bersifat ghaib seperti syaitan dan puntianak, atau makhluk biasa yang berniat jahat atau keji, seperti yang ditentukan oleh Master Permainan. Walau bagaimanapun, ia tidak akan mengesan perkara seperti perangkap, racun, objek sumpah, dan sebagainya. Penjampi boleh melihat pancaran melalui sehingga 3 kaki kayu padu, 1 kaki batu atau tanah, dan 1 inci logam padu. Kerana aura sihir memerlukan masa untuk terbentuk, tidak lebih daripada satu lengkok 60° boleh diimbas setiap minit. Sebalik jampi ini, Detect Good, mengikuti peraturan yang dinyatakan di atas.
 
 ---
 #### Detect Invisibility
@@ -808,26 +806,26 @@ Dengan mantera ini, pemantera boleh mengesan pancaran kejahatan yang kuat dalam 
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 5 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** Jarak penglihatan | **Rintangan:** T/A |
+| **Pangkat:** Ahli Sihir 2 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 5 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** Garis Penglihatan | **Rintangan:** T/A |
 
-Apabila mantera ini dipantera, pengguna sihir mendapat keupayaan untuk melihat mana-mana objek atau makhluk yang halimunan. Ini termasuk mereka yang tersembunyi, etereal, astral, atau di luar fasa. Ia juga boleh mengesan mereka yang tersembunyi atau diselindungkan dengan cara duniawi. Tidak seperti mantera Pengesanan yang lain, Detect Invisibility adalah terhad kepada jarak penglihatan dan tidak memerlukan seminit untuk mengimbas lengkungan penglihatan.
+Apabila jampi ini dijampi, pengguna sihir mendapat keupayaan untuk melihat sebarang objek atau makhluk yang tidak kelihatan. Ini termasuk mereka yang tersembunyi, halus, astral, atau di luar fasa. Ia juga boleh mengesan mereka yang tersembunyi atau diselindungkan dengan cara biasa. Tidak seperti jampi Detect yang lain, Detect Invisibility terhad kepada garis penglihatan dan tidak memerlukan seminit untuk mengimbas lengkok penglihatan.
 
 ---
-#### Detect Lie \(R\)
+#### Detect Lie (R)
 
 (Divinasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 1 Pusingan |
-| **Sfera:** Divinasi | **Tempoh:** 1 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 100 kaki. |
+| **Pangkat:** Paderi 2 | **Masa Jampi:** 1 Pusingan |
+| **Sfera:** Divinasi | **Tempoh:** 1 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 100 kaki |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Penipuan |
 
-Apabila dipantera, mantera ini menentukan sama ada seseorang itu secara sedar berbohong atau sebaliknya menyembunyikan kebenaran. Kebenaran sebenar tidak didedahkan, walau bagaimanapun, hanya jawapan yang diberikan tidak tepat. Sasaran masih boleh cuba untuk 'mengalahkan' mantera tersebut, dengan Gulungan Bertentangan yang Hebat (Formidable Opposed Roll) daripada Penipuan mereka, berbanding gulungan pemantera asal. Mantera ini boleh diterbalikkan, jika demikian, Conceal Lie menghalang pengesanan pembohongan melalui cara sihir untuk tempoh 6 jam bagi setiap Intensiti.
+Apabila dijampi, jampi ini menentukan sama ada seseorang itu secara sedar berbohong atau sebaliknya menyembunyikan kebenaran. Walau bagaimanapun, kebenaran sebenar tidak didedahkan, hanya bahawa jawapan yang diberikan tidak tepat. Sasaran masih boleh cuba untuk 'mengalahkan' jampi tersebut, dengan Balingan Bertentangan yang Hebat (Formidable) bagi Penipuan mereka, berbanding balingan jampi asal. Jampi ini boleh diterbalikkan, jika ya, Conceal Lie menghalang pengesanan pembohongan dengan cara sihir selama tempoh 6 jam bagi setiap Keamatan.
 
 ---
 #### Detect Magic
@@ -836,22 +834,22 @@ Apabila dipantera, mantera ini menentukan sama ada seseorang itu secara sedar be
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1, Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Semua | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** Lengkungan 90 darjah, 60 kaki | **Rintangan:** T/A |
+| **Pangkat:** Paderi 1, Ahli Sihir 1 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Semua | **Tempoh:** 2 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** 90 darjah Lengkok, 60 kaki | **Rintangan:** T/A |
 
-Apabila dipantera, pemantera melihat aura biru bercahaya mengelilingi mana-mana item sihir atau kesan mantera dalam lengkungan 90 darjah, hingga 60 kaki. Mantera ini juga akan mengesan Intensiti dan Magnitud anggaran seperti yang ditunjukkan pada jadual berikut.
+Apabila dijampi, penjampi melihat aura biru bercahaya mengelilingi sebarang objek sihir atau kesan jampi dalam lengkok 90 darjah, sehingga 60 kaki. Jampi ini juga akan mengesan Keamatan dan Magnitud anggaran seperti yang ditunjukkan pada jadual berikut.
 
-##### Intensiti dan/atau Magnitud Dikesan
+##### Keamatan dan/atau Magnitud Dikesan
 
-| Gulungan D100 | Intensiti/Magnitud |
+| Balingan D100 | Keamatan/Magnitud |
 | :-: | :-- |
 | 01-25 | -1d3 |
-| 26-75 | Intensiti/Magnitud Tepat |
+| 26-75 | Keamatan/Magnitud Tepat |
 | 76-00 | +1d3 |
 
-Terdapat peluang 10% bagi setiap Intensiti untuk menemui jenis sihir tertentu (nekromansi, unsur, dan sebagainya). Aura yang dilihat oleh pemantera menembusi objek padu, sehingga 3 kaki kayu, 1 kaki batu, dan 1 inci logam padu. Kerana aura sihir memerlukan masa untuk terbentuk, tidak lebih daripada satu lengkungan 60° boleh diimbas setiap minit. Syaitan, iblis, malaikat, dan unsur tidak bersifat sihir dengan sendirinya, tetapi jika mereka dipanggil, mantera seruan akan mendaftar selama beberapa minit bersamaan dengan Magnitud mantera seruan x10 di tempat ia dipantera.
+Terdapat 10% peluang setiap Keamatan untuk menemui jenis sihir tertentu (nekromansi, elementar, dan sebagainya). Aura yang dilihat oleh penjampi terpancar melalui objek padu, sehingga 3 kaki kayu, 1 kaki batu, dan 1 inci logam padu. Kerana aura sihir memerlukan masa untuk terbentuk, tidak lebih daripada satu lengkok 60° boleh diimbas setiap minit. Syaitan, iblis, malaikat, dan elementar bukanlah sihir dengan sendirinya, tetapi jika mereka diseru, jampi seruan akan mendaftar selama beberapa minit yang sama dengan Magnitud jampi seruan x10 di mana ia dijampi.
 
 ---
 #### Dimension Door
@@ -860,12 +858,12 @@ Terdapat peluang 10% bagi setiap Intensiti untuk menemui jenis sihir tertentu (n
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Pemantera | **Rintangan:** T/A |
+| **Pangkat:** Ahli Sihir 3 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Serta-merta |
+| **Kos:** 3+1/Keamatan tambahan | **Jarak:** 0 |
+| **Kawasan:** Penjampi | **Rintangan:** T/A |
 
-Dimension Door ialah satu bentuk teleportasi jarak dekat. Pemantera serta-merta melompat sehingga 100 kaki bagi setiap Intensiti tanpa melintasi ruang di antaranya, dengan sifar kemungkinan ralat. Lokasi yang diingini sama ada boleh dilihat secara visual atau boleh ditentukan mengikut arah: 40 kaki lurus ke hadapan, 65 kaki ke bawah, 45° ke kiri, dan sebagainya. Tiba di udara akan mengakibatkan kerosakan jatuh melainkan diselamatkan oleh mantera seperti Feather Fall, manakala secara tidak sengaja melompat ke dalam objek padu akan sebaliknya memerangkap pemantera dalam Satah Astral. Semua peralatan yang dibawa secara fizikal (bukan hidup, benda tidak bernyawa) melompat bersama pemantera. Benda hidup yang bersaiz tidak lebih daripada 20 SIZ boleh menemani pemantera. Sebagai contoh, watak bersaiz SIZ 11 boleh melompat bersama pemantera dengan andaian kedua-duanya bersentuhan. Pemantera, dan mana-mana makhluk hidup yang diangkut juga, memerlukan satu Pusingan penuh untuk pulih. Jika diserang semasa masa ini, individu sedemikian tidak boleh melakukan lebih daripada mempertahankan diri.
+Dimension Door adalah satu bentuk teleportasi jarak dekat. Penjampi serta-merta melompat sehingga 100 kaki setiap Keamatan tanpa melintasi ruang antara, dengan tiada peluang kesilapan. Lokasi yang diingini sama ada boleh dilihat secara visual atau boleh ditentukan mengikut arah: 40 kaki lurus ke hadapan, 65 kaki ke bawah, 45° ke kiri, dan sebagainya. Tiba di udara akan mengakibatkan kerosakan jatuh melainkan diselamatkan oleh jampi seperti Feather Fall, manakala secara tidak sengaja melompat ke dalam objek padu akan memerangkap penjampi di Satah Astral. Semua peralatan yang dibawa secara fizikal (bukan hidup, jirim tidak bernyawa) melompat bersama penjampi. Jirim hidup tidak lebih daripada 20 SAI boleh menemani penjampi. Sebagai contoh, watak SAI 11 boleh melompat bersama penjampi dengan anggapan kedua-duanya bersentuhan. Penjampi, dan mana-mana makhluk hidup yang diangkut juga, memerlukan satu Pusingan penuh untuk pulih. Jika diserang pada masa ini, individu sedemikian tidak boleh melakukan lebih daripada bertahan.
 
 ---
 #### Dispel Magic
@@ -874,378 +872,374 @@ Dimension Door ialah satu bentuk teleportasi jarak dekat. Pemantera serta-merta 
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2, Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Perlindungan | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** 360 kaki. |
-| **Kawasan:** Jejari 15 kaki | **Rintangan:** T/A |
+| **Pangkat:** Paderi 2, Ahli Sihir 2 | **Masa Jampi:** 2 Tindakan |
+| **Sfera:** Perlindungan | **Tempoh:** Serta-merta |
+| **Kos:** 1 | **Jarak:** 360 kaki |
+| **Kawasan:** 15 kaki Jejari | **Rintangan:** T/A |
 
-Dispel Magic boleh dipantera sama ada terhadap sasaran tertentu atau kawasan yang dinyatakan, dan sebaik sahaja dipantera, semua sihir dalam jejari 15 kaki dari titik sasaran terdedah kepada pembatalan. Ia menamatkan mantera yang sedang berjalan pada sasarannya tetapi tidak memberi kesan kepada kesan sihir lain. Ia tidak mempunyai kesan ke atas makhluk sihir atau mayat hidup. Dispel Magic menghapuskan semua sihir lain dalam Kawasan Kesan dengan Magnitud yang kurang daripada Intensiti mantera. Pengecualian kepada ini adalah item sihir dan mangsa mantera jenis memukau seperti Charm Person, yang mesti disasarkan secara individu. Kesan mantera tidak boleh dihapuskan sebahagiannya.
+Dispel Magic boleh dijampi terhadap sasaran tertentu atau kawasan yang dicatatkan, dan sebaik sahaja dijampi, semua sihir dalam jejari 15 kaki dari titik sasaran terdedah kepada pembubaran. Ia menamatkan jampi yang sedang berjalan pada sasarannya tetapi tidak memberi kesan kepada kesan sihir lain. Ia tidak mempunyai kesan ke atas makhluk sihir atau mayat hidup. Dispel Magic menghapuskan semua sihir lain dalam Kawasan Kesan dengan Magnitud kurang daripada Keamatan jampi. Pengecualian kepada ini ialah objek sihir dan mangsa jampi jenis memikat seperti Charm Person, yang mesti disasarkan secara individu. Kesan jampi tidak boleh dihapuskan sebahagiannya.
 
-Dispel Magic bermula dengan sihir paling berkuasa dalam Kawasan Kesan. Jika ia gagal menghapuskan sebarang mantera (kerana Magnitud mantera terlalu tinggi), maka mantera berakhir, dan tiada lagi sihir yang boleh dihapuskan.
+Dispel Magic bermula dengan sihir yang paling berkuasa dalam Kawasan Kesan. Jika ia gagal menghapuskan sebarang jampi (kerana Magnitud jampi terlalu tinggi), maka jampi berakhir, dan tiada lagi sihir boleh dihapuskan.
 
-Dispel Magic boleh digunakan secara defensif untuk meneutralkan mantera serangan yang masuk, dengan menggunakan Tindakan Reaktif Sihir Balas.
+Dispel Magic boleh digunakan secara defensif untuk meneutralkan jampi ofensif yang masuk, dengan menggunakan Tindakan Reaktif Counter Spell.
 
----
-#### Divination
-
-(Divinasi)
+---#### Tilikan (Divination)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 10 Minit |
-| **Sfera:** Divinasi | **Tempoh:** Tumpuan |
-| **Kos:** 3/Intensiti | **Julat:** 0 |
-| **Kawasan:** Lihat di bawah | **Rintangan:** T/A |
+| **Pangkat:** Paderi 3 | **Masa Merapalkan:** 10 Minit |
+| **Sfera:** Tilikan | **Tempoh:** Tumpuan |
+| **Kos:** 3/Keamatan | **Jarak:** 0 |
+| **Kawasan:** Lihat di bawah | **Rintangan:** N/A |
 
-Apabila dipantera, mantera ini membolehkan paderi menerima maklumat daripada dewa mereka mengenai sesuatu aktiviti yang dijangka akan berlaku dalam masa tidak lebih daripada satu minggu. Tidak seperti mantera yang kurang berkuasa Augury, Divination memberikan maklumat yang spesifik. Gulungan kemahiran Saluran (Channel) untuk memantera mantera ini bermula pada Tahap Hebat, dan setiap tahap Intensiti mengurangkan kesukaran sebanyak satu gred. Intensiti tidak boleh melebihi tahap 5, dan gulungan 96% atau lebih tinggi sentiasa gagal.
+Apabila dirapalkan, mantera ini membolehkan paderi menerima maklumat daripada dewa mereka mengenai sesuatu aktiviti yang belum dilakukan yang dijangka berlaku dalam masa tidak lebih daripada satu minggu. Berbeza dengan mantera *Augury* yang kurang berkuasa, *Divination* menyediakan maklumat yang khusus. Gulungan kemahiran *Channel* untuk merapalkan mantera ini bermula pada tahap *Formidable*, dan setiap tahap Keamatan mengurangkan kesukaran sebanyak satu gred. Keamatan tidak boleh melebihi tahap 5, dan gulungan 96% atau lebih tinggi sentiasa gagal.
 
-Pengurus Permainan harus membuat gulungan ini untuk pemain kerana terdapat beberapa keadaan di mana sihir yang memusuhi pemantera mungkin sedang bekerja, dan dalam keadaan ini, Kegagalan boleh mendedahkan maklumat palsu.
+Pengurus Permainan (Games Master) harus membuat gulungan ini bagi pihak pemain kerana terdapat beberapa keadaan di mana sihir yang memusuhi perapal boleh beraksi, dan dalam keadaan ini, Kegagalan boleh mendedahkan maklumat palsu.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Mantera dipantera pada kesukaran Hebat |
-| 2 | 6 | Mantera dipantera pada kesukaran Sukar |
-| 3 | 9 | Mantera dipantera pada kesukaran Standard |
-| 4 | 12 | Mantera dipantera pada kesukaran Mudah |
-| 5 | 15 | Mantera dipantera pada kesukaran Sangat Mudah |
+| 1 | 3 | Mantera dirapalkan pada kesukaran *Formidable* |
+| 2 | 6 | Mantera dirapalkan pada kesukaran *Hard* |
+| 3 | 9 | Mantera dirapalkan pada kesukaran *Standard* |
+| 4 | 12 | Mantera dirapalkan pada kesukaran *Easy* |
+| 5 | 15 | Mantera dirapalkan pada kesukaran *Very Easy* |
 
 ---
-#### Dry
+#### Kering (Dry)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Ahli Sihir 0 | **Masa Merapalkan:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Kos:** 1 | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintangan:** N/A |
 
-Dry menghilangkan semua kelembapan luaran daripada objek atau orang, sama ada meluncur keluar untuk membentuk lopak atau menyejat dalam awan wap. Ia biasanya digunakan untuk mengeringkan diri selepas hujan lebat atau membantu melindungi peralatan daripada reput tetapi mempunyai beberapa kegunaan serba boleh yang lain. Pemantera boleh mengeringkan objek sehingga POW x2 dalam SIZ.
+*Dry* membuang semua kelembapan luaran daripada objek atau orang, sama ada mengalir keluar membentuk takungan atau menyejat dalam awan wap. Ia biasanya digunakan untuk mengeringkan diri selepas hujan lebat atau membantu melindungi peralatan daripada reput tetapi mempunyai beberapa kegunaan serba guna yang lain. Perapal boleh mengeringkan objek sehingga SAI KUR x2.
 
 ---
-#### Earthquake
+#### Gempa Bumi (Earthquake)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 5, Ahli Sihir 5 | **Masa Pemanteraan:** 10 Minit1 Tindakan |
-| **Sfera:** Unsur (Tanah) | **Tempoh:** 1 Minit |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 50 kaki/Intensiti |
-| **Kawasan:** Jejari 10 kaki/Intensiti | **Rintangan:** Mengelak |
+| **Pangkat:** Paderi 5, Ahli Sihir 5 | **Masa Merapalkan:** 1 Tindakan |
+| **Sfera:** Elemen (Tanah) | **Tempoh:** 1 Minit |
+| **Kos:** 3+1/Keamatan tambahan | **Jarak:** 50 kaki/Keamatan |
+| **Kawasan:** 10 kaki Radius/Keamatan | **Rintangan:** Elak |
 
-Earthquake menyebabkan gegaran tanah yang mampu menjatuhkan orang dan meruntuhkan bangunan tegar. Sekurang-kurangnya, kegagalan untuk menentang mantera menyebabkan mangsa jatuh meniarap. Jika berada di dalam bangunan, kawasan binaan, atau beberapa lokasi yang terdedah (seperti hutan atau di bawah tebing), kegagalan untuk Mengelak juga menunjukkan bahawa orang tersebut terkena, dan terperangkap oleh serpihan yang runtuh. Perisai yang dipakai menawarkan separuh perlindungan, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa.
+*Earthquake* menyebabkan gegaran tanah yang mampu menjatuhkan orang daripada kedudukan berdiri dan meruntuhkan bangunan yang tegar. Sekurang-kurangnya, kegagalan untuk menentang mantera menyebabkan mangsa jatuh tertiarap. Jika berada di dalam bangunan, kawasan yang dibina atau lokasi yang terdedah (seperti hutan atau di bawah tebing), kegagalan untuk Mengelak juga menunjukkan bahawa orang tersebut dipukul, dan terperangkap oleh serpihan yang jatuh. Perisai yang dipakai menawarkan separuh perlindungan, tetapi Mata Perisai ajaib atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa.
 
-| Intensiti | Kos | Kesan Pembolehubah | Kerosakan Berpotensi |
+| Keamatan | Kos | Kesan Berubah | Potensi Kerosakan |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | Julat 50 kaki; jejari 10 kaki; objek yang seimbang jatuh, objek terampai berayun. | Tiada |
-| 2 | 4 | Julat 100 kaki; jejari 20 kaki; dinding dan bangunan berderit. | Tiada |
-| 3 | 5 | Julat 150 kaki; jejari 30 kaki; plaster dan tingkap kaca retak, pokok dan objek tinggi lain bergetar secara dramatik. | Tiada |
-| 4 | 6 | Julat 200 kaki; jejari 40 kaki; perabot berat bergerak, objek yang dipasang di dinding jatuh, retak terbuka pada dinding. | Tiada |
-| 5 | 7 | Julat 250 kaki; jejari 50 kaki; bangunan sederhana daripada tanah, wattle dan daub, atau bata lumpur runtuh sebahagiannya. Dahan kecil jatuh. | kerosakan 1d2 pada satu lokasi |
-| 6 | 8 | Julat 300 kaki; jejari 60 kaki; perabot berat terbalik. Bangunan daripada tanah, wattle dan daub, atau bata lumpur musnah. Bangunan kayu padu atau batu runtuh sebahagiannya. Kejatuhan tiang, patung, dan dinding sempadan. Dahan pokok besar jatuh. | kerosakan 1d4 pada satu lokasi |
-| 7 | 9 | Julat 350 kaki; jejari 70 kaki; bangunan sederhana runtuh. Tanah retak dengan ketara, runtuhan batu dari cerun curam. Paip bawah tanah dan pembetung pecah. Jambatan kayu runtuh. Pokok kecil tumbang. | kerosakan 1d6 pada satu lokasi |
-| 8 | 10 | Julat 400 kaki; jejari 80 kaki; bangunan yang dibina dengan baik runtuh. Benteng skala besar, dinding bandar, dan jambatan batu rosak. Tanah retak teruk. Runtuhan tanah dan salji yang besar. Pokok besar tumbang. | kerosakan 1d8 pada dua lokasi |
-| 9 | 11 | Julat 450 kaki; jejari 90 kaki; Sedikit struktur yang masih berdiri. Terowong dan gua runtuh. Rekahan luas di tanah. Pokok besar tumbang. | kerosakan 1d10 pada tiga lokasi |
-| 10 | 12 | Julat 500 kaki; jejari 100 kaki; Kemusnahan total, malah monumen batu kolosal mengalami keruntuhan separa. Tebing dan sisi gunung hancur. | kerosakan 1d12 pada empat lokasi |
+| 1 | 3 | Jarak 50 kaki; radius 10 kaki; Objek yang seimbang tumbang, objek tergantung berbuai. | Tiada |
+| 2 | 4 | Jarak 100 kaki; radius 20 kaki; Dinding dan bangunan berkeriut. | Tiada |
+| 3 | 5 | Jarak 150 kaki; radius 30 kaki; Plaster dan tingkap kaca retak, pokok dan objek tinggi lain bergegar hebat. | Tiada |
+| 4 | 6 | Jarak 200 kaki; radius 40 kaki; Perabot berat bergerak, objek yang dipasang pada dinding jatuh, keretakan terbuka pada dinding. | Tiada |
+| 5 | 7 | Jarak 250 kaki; radius 50 kaki; Bangunan sederhana daripada tanah, wattle and daub atau bata lumpur runtuh sebahagiannya. Dahan kecil jatuh. | 1d2 kerosakan pada satu lokasi |
+| 6 | 8 | Jarak 300 kaki; radius 60 kaki; Perabot berat terbalik. Bangunan tanah, wattle and daub atau bata lumpur musnah. Bangunan kayu pepejal atau batu runtuh sebahagiannya. Tiang, patung, dan dinding sempadan jatuh. Dahan pokok besar jatuh. | 1d4 kerosakan pada satu lokasi |
+| 7 | 9 | Jarak 350 kaki; radius 70 kaki; Bangunan sederhana runtuh. Tanah retak dengan jelas, runtuhan batu dari cerun curam. Paip bawah tanah dan pembetung pecah. Jambatan kayu runtuh. Pokok kecil tumbang. | 1d6 kerosakan pada satu lokasi |
+| 8 | 10 | Jarak 400 kaki; radius 80 kaki; Bangunan yang dibina dengan baik runtuh. Perbentengan berskala besar, dinding bandar dan jambatan batu rosak. Tanah retak teruk. Tanah runtuh dan salji runtuh yang ketara. Pokok besar tumbang. | 1d8 kerosakan pada dua lokasi |
+| 9 | 11 | Jarak 450 kaki; radius 90 kaki; Sedikit, jika ada, struktur yang masih berdiri. Terowong dan gua runtuh. Rekahan luas di tanah. Pokok besar tumbang. | 1d10 kerosakan pada tiga lokasi |
+| 10 | 12 | Jarak 500 kaki; radius 100 kaki; Kemusnahan total, walaupun monumen batu besar mengalami keruntuhan separa. Tebing dan lereng gunung hancur. | 1d12 kerosakan pada empat lokasi |
 
 ---
-#### Enchant Item
+#### Mempesona Objek (Enchant Item)
 
-(Enchantment)
+(Pesona)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** Lihat di bawah |
+| **Pangkat:** Ahli Sihir 4 | **Masa Merapalkan:** Lihat di bawah |
 | **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3 + Lihat di bawah | **Julat:** Sentuhan |
-| **Kawasan:** 1 Item | **Rintangan:** T/A |
+| **Kos:** 3 + Lihat di bawah | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Objek | **Rintangan:** N/A |
 
-Memantera mantera ini menyediakan item untuk Enchantment. Objek mestilah dalam keadaan baik dan mempunyai pembinaan serta mutu kerja yang terbaik. Kos tambahan sekurang-kurangnya 100GP diperlukan untuk menampung kos peralatan tambahan, ukiran, sulaman, hiasan permata, ukiran, dan sebagainya. Akhir sekali, proses Enchantment memerlukan makmal atau bengkel.
+Perapalan mantera ini menyediakan objek untuk Pesona. Objek tersebut mestilah dalam keadaan baik dan hasil binaan serta kerja tangan yang terbaik. Kos tambahan sekurang-kurangnya 100GP diperlukan untuk menampung kos peralatan tambahan, ukiran, sulaman, hiasan permata, turisan, dan sebagainya. Akhir sekali, proses Pesona memerlukan makmal atau bengkel.
 
-Semasa memantera mantera, pengguna sihir mestilah menyentuh item tersebut sepanjang keseluruhan Masa Pemanteraan iaitu 1d8+2 hari. Ini mengambil kira tempoh rehat dan tidur, di mana item itu mestilah kekal dalam jarak lengan dari pemantera. Pada bila-bila masa sepanjang pemanteraan, pengguna sihir tidak boleh memantera mantera lain atau melakukan sebarang bentuk sihir yang lain. Melanggar mana-mana arahan ini akan menyebabkan mantera gagal secara automatik.
+Semasa merapalkan mantera, pengguna sihir mestilah menyentuh objek tersebut sepanjang Masa Merapalkan selama 1d8+2 hari. Ini mengambil kira tempoh rehat dan tidur, di mana objek tersebut mesti kekal dalam jarak lengan perapal. Pada bila-bila masa sepanjang perapalan, pengguna sihir tidak boleh merapalkan mantera lain atau melakukan sebarang bentuk sihir lain. Melanggar mana-mana syarat ini secara automatik akan menyebabkan mantera gagal.
 
-Setelah berjaya dipantera, item itu sedia untuk langkah terakhir, dengan pemantera meletakkan mantera yang diingini ke dalamnya. Untuk berbuat demikian, mereka mestilah mempunyai mantera dalam ingatan atau pada skrol dan memantera ke dalam item tersebut dalam masa 24 jam, jika tidak, keseluruhan proses perlu dimulakan semula dari awal. Setelah pemanteraan mantera terpilih bermula, proses itu mungkin melebihi 24 jam yang disebutkan di atas. Menanamkan item dengan mantera terpilih menelan kos jumlah Mata Sihir biasa bagi Intensiti yang diingini dan mengambil masa 1d12 jam bagi setiap Pangkat mantera. Sepanjang proses penanaman, pemantera mestilah kekal menyentuh item tersebut atau kekal dalam jangkauan lengan semasa tempoh rehat, seperti di atas, dan gulungan Pemanteraan Arcane diperlukan di akhir tempoh pemanteraan untuk berjaya menanamkan mantera tersebut. Ijazah kejayaan Pemanteraan Mantera biasa diikuti, walau bagaimanapun, berkaitan dengan keputusan Kegagalan, mantera tidak boleh dipaksa. Mantera berturut-turut boleh ditanamkan ke dalam item, dengan syarat proses pemanteraan dimulakan dalam masa 24 jam selepas selesainya mantera sebelumnya. Ini terpakai walaupun dalam kes mantera yang gagal sebelum ini. Setiap mantera berturut-turut memerlukan Kos Pemanteraan biasa.
+Setelah berjaya dirapalkan, objek tersebut sedia untuk langkah terakhir, dengan perapal memasukkan mantera yang diingini ke dalamnya. Untuk berbuat demikian, mereka mesti mempunyai mantera tersebut dalam ingatan atau pada skrol dan merapalkannya ke dalam objek tersebut dalam masa 24 jam, atau keseluruhan proses perlu dimulakan semula dari awal. Sebaik sahaja perapalan mantera yang dipilih bermula, proses tersebut boleh melebihi 24 jam yang dinyatakan di atas. Mengisi objek dengan mantera yang dipilih menelan kos Mata Sihir yang biasa untuk Keamatan yang diingini dan mengambil masa 1d12 jam bagi setiap Pangkat mantera. Sepanjang proses pengisian, perapal mesti kekal menyentuh objek atau kekal dalam jarak lengan semasa tempoh rehat, seperti di atas, dan gulungan Perapalan Arkan (Arcane Casting) diperlukan pada akhir tempoh perapalan untuk berjaya mengisi mantera tersebut. Darjah kejayaan Perapalan Mantera yang biasa diikuti, walau bagaimanapun, berkenaan dengan keputusan Kegagalan, mantera tidak boleh dipaksa. Mantera berturut-turut boleh diisi ke dalam objek, dengan syarat proses perapalan dimulakan dalam masa 24 jam selepas selesainya mantera sebelumnya. Ini terpakai walaupun dalam kes mantera yang gagal sebelum ini. Setiap mantera berturut-turut memerlukan Kos Perapalan yang biasa.
 
-Apabila menggunakan item, setiap mantera yang terkandung di dalamnya hanya boleh dipantera sekali, walau bagaimanapun berbilang versi mantera yang sama boleh ditanamkan mengikut prosedur di atas. Ia juga mungkin untuk menanamkan satu mantera, diikuti dengan pemanteraan mantera Pangkat 4 Permanency. Dalam kes ini, mantera boleh dipantera sekerap yang diingini, mengikuti sekatan yang ditetapkan di bawah penulisan mantera Permanency.
+Apabila menggunakan objek tersebut, setiap mantera yang terkandung di dalamnya hanya boleh dirapalkan sekali, walau bagaimanapun berbilang versi mantera yang sama boleh diisi mengikut prosedur di atas. Ia juga mungkin untuk mengisi satu mantera, diikuti dengan perapalan mantera Pangkat 4 *Permanency*. Dalam kes ini, mantera tersebut boleh dirapalkan sekerap yang diingini, mengikut sekatan yang ditetapkan di bawah penerangan mantera *Permanency*.
 
-Adalah mustahil untuk menanamkan kesan sihir lain ke dalam item yang tidak mematuhi mantera tertentu, dan banyak item sihir dari zaman dahulu tidak boleh dicipta semula pada hari ini.
+Adalah mustahil untuk mengisi kesan ajaib lain ke dalam objek yang tidak mematuhi mantera tertentu, dan banyak objek ajaib dari zaman dahulu tidak boleh dicipta semula pada masa kini.
 
 ---
-#### Enchant Weapon
+#### Mempesona Senjata (Enchant Weapon)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 1 Minit |
-| **Sfera:** Tiada | **Tempoh:** 5 Minit/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Senjata | **Rintangan:** T/A |
+| **Pangkat:** Ahli Sihir 3 | **Masa Merapalkan:** 1 Minit |
+| **Sfera:** Tiada | **Tempoh:** 5 Minit/Keamatan |
+| **Kos:** 3+1/Keamatan tambahan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Senjata | **Rintangan:** N/A |
 
-Apabila mantera ini dipantera sambil menyentuh senjata biasa, senjata itu disuntik dengan Enchantment sementara yang memberikan Pengubah Kerosakan sihir +1. Ini juga membolehkan senjata yang sebaliknya normal untuk menyerang makhluk yang hanya boleh dicederakan oleh senjata yang mempunyai sekurang-kurangnya Enchantment +1. Mantera ini boleh digunakan untuk memantera dua senjata yang bersaiz ½ 'Benda' setiap satu, seperti belati, pisau, anak panah, dan sebagainya. Jika tidak, tidak lebih daripada satu senjata boleh dipantera bagi setiap pemanteraan. Senjata sihir sedia ada boleh mempunyai bonusnya ditingkatkan sebanyak +1 kepada jumlah bonus gabungan maksimum +3. Senjata dengan bonus +3 mempunyai Saiznya ditingkatkan sebanyak satu kategori untuk tujuan mengenakan kerosakan: Besar kepada Sangat Besar, Sangat Besar kepada Gergasi, Gergasi kepada Kolosal. Senjata yang Dipantera mempunyai +5 Mata Perisai dan +2 Mata Hit bagi setiap Enchantment +1 untuk senjata jenisnya. Mantera ini boleh digabungkan dengan Enchant Item dan Permanency untuk mencipta senjata dengan Enchantment yang berkekalan.
+Apabila mantera ini dirapalkan semasa menyentuh senjata biasa, senjata tersebut diserap dengan Pesona sementara yang memberikan Pengubah Kerosakan +1 ajaib. Ini juga membolehkan senjata yang sebaliknya normal untuk menyerang makhluk yang hanya boleh dicederakan oleh senjata yang mempunyai sekurang-kurangnya Pesona +1. Mantera ini boleh digunakan untuk mempesona dua senjata yang saiznya sama dengan ½ 'Thing' setiap satu, seperti belati, pisau, anak panah, dan sebagainya. Jika tidak, tidak lebih daripada satu senjata boleh dipesona bagi setiap perapalan. Senjata ajaib sedia ada boleh ditingkatkan bonusnya sebanyak +1 kepada jumlah bonus gabungan maksimum +3. Senjata dengan bonus +3 saiznya ditingkatkan satu kategori bagi tujuan mengenakan kerosakan: Besar kepada Sangat Besar, Sangat Besar kepada Gergasi, Gergasi kepada Kolosal. Senjata yang Dipesona mempunyai +5 Mata Perisai dan +2 Mata Hayat bagi setiap Pesona +1 untuk senjata jenisnya. Mantera ini boleh digabungkan dengan mantera *Enchant Item* dan *Permanency* untuk mencipta senjata dengan Pesona yang berkekalan.
 
 ---
-#### Endure Heat/Cold
+#### Tahan Panas/Sejuk (Endure Heat/Cold)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Pusingan |
-| **Sfera:** Perlindungan | **Tempoh:** 90 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Pangkat:** Paderi 1 | **Masa Merapalkan:** 1 Pusingan |
+| **Sfera:** Perlindungan | **Tempoh:** 90 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintangan:** N/A |
 
-Mantera ini membolehkan pemantera melindungi satu makhluk daripada ekstrem panas atau sejuk duniawi, seperti yang ditentukan apabila mantera dipantera. Penerima mantera kebal kepada ekstrem semula jadi panas atau sejuk, seperti suhu di bawah sifar atau panas gurun yang membahang. Selain daripada Heat Metal, yang mana mantera ini menawarkan perlindungan lengkap, sebarang 'serangan' oleh panas atau sejuk sihir, seperti nafas api naga merah atau mantera cone of cold ahli sihir, secara automatik membatalkan perlindungan, tidak kira unsur mana yang dilindungi pada masa itu. Walau bagaimanapun, individu yang dilindungi boleh mengabaikan 10 mata kerosakan pertama dalam Pusingan di mana mantera gagal, dengan andaian perlindungan tersebut sesuai dengan jenis serangan. Dalam kes mantera kawasan kesan, kerosakan dikurangkan sebelum digunakan.
+Mantera ini membolehkan perapal melindungi satu makhluk daripada suhu melampau panas atau sejuk yang biasa, sebagaimana ditentukan apabila mantera dirapalkan. Penerima mantera kebal terhadap suhu melampau semula jadi yang biasa, seperti suhu di bawah sifar atau haba gurun yang membahang. Selain daripada *Heat Metal*, yang mana mantera ini menawarkan perlindungan penuh, sebarang 'serangan' oleh haba atau sejuk ajaib, seperti nafas api naga merah atau mantera *cone of cold* ahli sihir secara automatik akan melenyapkan perlindungan tersebut, tidak kira elemen mana yang dilindungi pada masa itu. Walau bagaimanapun, individu yang dilindungi boleh mengabaikan 10 mata kerosakan pertama dalam Pusingan di mana mantera itu gagal, dengan mengandaikan perlindungan itu sesuai dengan jenis serangan. Dalam kes mantera kesan kawasan, kerosakan dikurangkan sebelum digunakan.
 
 ---
-#### Energy Drain
+#### Saliran Tenaga (Energy Drain)
 
 (Evokasi atau Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 5 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Ahli Sihir 5 | **Masa Merapalkan:** 2 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Kekal |
-| **Kos:** 3 | **Julat:** Sentuhan |
+| **Kos:** 3 | **Jarak:** Sentuhan |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Ketahanan |
 
-Apabila dipantera, mantera ini mengenakan dua tahap kehilangan Keletihan kekal ke atas mangsa yang gagal dalam gulungan Rintangan. Kehilangan Keletihan melalui Energy Drain adalah kumulatif dengan kehilangan Keletihan biasa; oleh itu, lawan yang sudah lemah melalui pertempuran atau perjalanan lebih terdedah kepada Energy Drain. Mantera dan ramuan Cure Fatigue tidak menjejaskan Keletihan yang hilang akibat Energy Drain; walau bagaimanapun, mantera dan skrol Restoration boleh menyembuhkan Keletihan yang hilang secara kekal. Perisai tidak mempunyai kesan ke atas Energy Drain.
+Apabila dirapalkan, mantera ini mengenakan dua tahap kehilangan Kelesuan kekal kepada mangsa yang gagal dalam gulungan Rintangan. Kehilangan Kelesuan melalui *Energy Drain* adalah kumulatif dengan kehilangan Kelesuan biasa; oleh itu, lawan yang sudah lemah akibat pertempuran atau perjalanan lebih terdedah kepada *Energy Drain*. Mantera dan ramuan *Cure Fatigue* tidak menjejaskan Kelesuan yang hilang akibat *Energy Drain*; walau bagaimanapun, mantera dan skrol *Restoration* boleh menyembuhkan Kelesuan yang hilang secara kekal. Perisai tidak mempunyai kesan ke atas *Energy Drain*.
 
 ---
-#### Exorcism
+#### Penghalauan Roh (Exorcism)
 
 (Abjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 1d10x100 Minit |
+| **Pangkat:** Paderi 3 | **Masa Merapalkan:** 1d10x100 Minit |
 | **Sfera:** Perlindungan | **Tempoh:** Kekal |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 10 kaki |
+| **Kos:** 3+1/Keamatan tambahan | **Jarak:** 10 kaki |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
 
-Dengan cara mantera ini, paderi menyeru dewa mereka untuk menghalau semangat atau kuasa ghaib lain yang sedang merasuki makhluk bertubuh fizikal seperti dalam kerasukan syaitan. Exorcism juga boleh digunakan terhadap penguasaan oleh objek dan item sihir tertentu, mantera, sumpahan, dan malah pesona. Sama ada kerasukan itu dominan atau terselindung adalah tidak penting. Sihir itu menghalau semua bentuk kerasukan dengan Intensiti sehingga separuh Intensiti mantera. Apa yang berlaku seterusnya bergantung pada sikap dan jenis entiti, jika ada, tetapi yang bersifat agresif dengan kuasa untuk memisahkan diri mungkin tergoda untuk melibatkan sasaran berdekatan lain dalam Pertempuran Semangat (Spirit Combat). Anggap sebagai Duel Sihir, walau bagaimanapun, jika entiti menang, mereka boleh merasuki yang kalah. Jika entiti kalah, ia dihantar kembali ke satah asalnya. Oleh itu, mantera ini boleh menjadi berpotensi berbahaya bagi pemantera atau rakan mereka. Masa Pemanteraan sangat rawak dan tidak boleh diganggu tanpa mengganggu ritual.
+Melalui mantera ini, paderi menyeru dewa mereka untuk menghalau roh atau kuasa ghaib lain yang sedang merasuk makhluk fizikal seperti dalam kerasukan syaitan. *Exorcism* juga boleh digunakan terhadap dominasi oleh objek dan objek ajaib tertentu, mantera, sumpahan, dan juga azimat. Sama ada kerasukan itu dominan atau terselindung adalah tidak penting. Sihir menghalau semua bentuk kerasukan dengan Keamatan sehingga separuh daripada Keamatan mantera. Apa yang berlaku seterusnya bergantung pada sikap dan jenis entiti, jika ada, tetapi entiti yang agresif dengan kuasa untuk terpisah daripada badan mungkin tergoda untuk melibatkan sasaran berdekatan lain dalam Pertempuran Roh. Layani sebagai Duel Sihir, walau bagaimanapun, jika entiti menang, mereka boleh merasuk yang kalah. Jika entiti kalah, ia dihantar kembali ke satah asalnya. Oleh itu, mantera ini berpotensi berbahaya bagi perapal atau rakan mereka. Masa Merapalkan adalah sangat rawak dan tidak boleh diganggu tanpa mengganggu ritual.
 
 ---
-#### Fear
+#### Ketakutan (Fear)
 
 (Ilusi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Ahli Sihir 3 | **Masa Merapalkan:** 2 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 0 |
+| **Kos:** 3+1/Keamatan tambahan | **Jarak:** 0 |
 | **Kawasan:** Kon 5 kaki x 20 kaki | **Rintangan:** Kuasa Minda |
 
-Apabila mantera ini dipantera, gelombang ketakutan mengembang keluar, menyebabkan semua mereka yang gagal dalam gulungan Rintangan melarikan diri dalam ketakutan. Mereka yang terjejas melarikan diri terus menjauhi pemantera pada kelajuan pecut selama beberapa Pusingan bersamaan dengan Intensiti mantera x2. Ketakutan ini begitu menyeluruh sehingga lawan yang Fumble gulungan untuk menentang menjatuhkan sebarang item yang dipegang yang tidak selamat dengan cara tertentu. Makhluk besar (SIZ 21-40) kurang terdedah kepada mantera ini dengan gulungan Rintangan menjadi Mudah, dan gulungan Rintangan untuk makhluk sangat besar (SIZ 41+) adalah Sangat Mudah.
+Apabila mantera ini dirapalkan, gelombang keganasan meluas ke luar, menyebabkan semua mereka yang gagal dalam gulungan Rintangan melarikan diri dalam ketakutan. Mereka yang terjejas melarikan diri terus menjauhi perapal dengan kelajuan pecut selama beberapa Pusingan yang sama dengan Keamatan mantera x2. Keganasan ini sangat menyeluruh sehingga lawan yang Fumble dalam gulungan untuk menentang akan menjatuhkan sebarang objek yang dipegang yang tidak diikat dengan cara tertentu. Makhluk besar (SAI 21-40) kurang terdedah kepada mantera ini dengan gulungan Rintangan menjadi *Easy*, dan gulungan Rintangan untuk makhluk Gergasi (SAI 41+) adalah *Very Easy*.
 
 ---
-#### Feather Fall
+#### Jatuh Berbulu (Feather Fall)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** Segera |
-| **Sfera:** Tiada | **Tempoh:** 1 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** Jejari 5 kaki | **Rintangan:** T/A |
+| **Pangkat:** Ahli Sihir 1 | **Masa Merapalkan:** Segera |
+| **Sfera:** Tiada | **Tempoh:** 1 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 30 kaki/Keamatan |
+| **Kawasan:** 5 kaki Radius | **Rintangan:** N/A |
 
-Apabila mantera ini dipantera, beberapa orang, makhluk, atau objek dalam Kawasan Kesan mantera, dengan jumlah SIZ gabungan tidak lebih daripada 20 bagi setiap Intensiti, dikurangkan beratnya kepada berat bulu. Mereka yang berada di bawah pengaruh mantera jatuh tidak lebih pantas daripada 10 kaki setiap Pusingan/120 kaki seminit, tanpa kerosakan jatuh yang dialami semasa Tempoh mantera berterusan. Mereka sangat ringan sehingga berkesan kebal terhadap sebarang tolakan balik yang lebih besar daripada 5 kaki dan tidak mengalami kerosakan jika dilanggar ke dalam apa-apa, kerana mereka hanya terapung perlahan ke belakang.
+Apabila mantera ini dirapalkan, beberapa orang, makhluk, atau objek dalam Kawasan Kesan mantera, dengan jumlah SAI gabungan tidak lebih daripada 20 bagi setiap Keamatan, dikurangkan beratnya kepada berat sehelai bulu. Mereka yang berada di bawah pengaruh mantera tidak jatuh lebih cepat daripada 10 kaki per Pusingan/120 kaki per minit, dengan tiada kerosakan jatuh ditanggung sementara Tempoh mantera berterusan. Mereka sangat ringan sehingga berkesan kebal terhadap sebarang tolakan balik lebih besar daripada 5 kaki dan tidak mengambil kerosakan jika tertolak ke arah apa-apa, kerana mereka hanya terapung perlahan-lahan ke belakang.
 
-Memantera mantera ini pada makhluk udara seperti burung atau naga mengubah dinamik penerbangannya sedemikian rupa sehingga gulungan Fly yang Sukar diperlukan setiap Pusingan Tempoh mantera jika mereka ingin kekal di udara. Jika berjaya, makhluk itu boleh bergerak mengikut keinginan, tetapi pada hanya separuh Kadar Pergerakan normalnya, manakala gulungan yang gagal menyebabkan percubaan makhluk itu menghantarnya jatuh dengan lembut ke luar kawalan dalam arah rawak pada jarak yang sama dengan kadar pergerakan yang dicuba. Jika ia membiarkan dirinya jatuh, makhluk udara boleh menggunakan sayapnya untuk menyesuaikan titik pendaratannya sebanyak 5 kaki setiap Pusingan.
+Merapalkan mantera ini ke atas makhluk udara seperti burung atau naga mengubah dinamik penerbangannya sehingga gulungan *Fly* tahap *Hard* diperlukan setiap Pusingan dalam Tempoh mantera jika mereka ingin kekal di udara. Jika berjaya, makhluk itu boleh bergerak mengikut kehendak, tetapi hanya pada separuh Kadar Pergerakan biasa, manakala gulungan yang gagal menyebabkan percubaan makhluk itu menghantarnya perlahan-lahan jatuh di luar kawalan ke arah rawak pada jarak yang sama dengan kadar pergerakan yang dicuba. Jika ia membiarkan dirinya jatuh, makhluk udara boleh menggunakan sayapnya untuk melaraskan titik pendaratannya sebanyak 5 kaki per Pusingan.
 
-Jika mantera tamat sebelum mereka yang terjejas mendarat, mereka menyambung semula kelajuan jatuh normal dan menentukan kerosakan jatuh dari titik itu.
+Jika mantera tamat sebelum mereka yang terjejas mendarat, mereka menyambung semula kelajuan jatuh biasa dan menentukan kerosakan jatuh dari titik tersebut.
 
-Disebabkan Masa Pemanteraan Segera mantera ini, ahli sihir boleh menggunakan Feather Fall secara reaktif dan juga proaktif. Ini membolehkan mantera untuk melindungi daripada kejatuhan yang tidak dijangka atau malah untuk mengganggu Tindakan orang lain untuk memperlahankan peluru yang digerakkan seperti anak panah atau lembing yang dibaling, yang kemudiannya terapung perlahan ke tanah antara penyerang dan sasaran, menyebabkan kerosakan sifar.
+Disebabkan Masa Merapalkan mantera ini yang Segera, ahli sihir boleh menggunakan *Feather Fall* secara reaktif dan juga proaktif. Ini membolehkan mantera untuk melindungi daripada kejatuhan yang tidak dijangka atau bahkan untuk mengganggu Tindakan orang lain untuk memperlahankan proyektil yang dilontar seperti anak panah atau lembing yang dibaling, yang kemudian terapung perlahan-lahan ke tanah antara penyerang dan sasaran, tidak menyebabkan kerosakan.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 min.; Julat 30 kaki; jumlah SIZ terjejas 20; jumlah penurunan 120 kaki |
-| 2 | 2 | 2 min.; Julat 60 kaki; jumlah SIZ terjejas 40; jumlah penurunan 240 kaki |
-| 3 | 3 | 3 min.; Julat 90 kaki; jumlah SIZ terjejas 60; jumlah penurunan 360 kaki |
-| 4 | 4 | 4 min.; Julat 120 kaki; jumlah SIZ terjejas 80; jumlah penurunan 480 kaki |
+| 1 | 1 | 1 min.; Jarak 30 kaki; jumlah terjejas 20 SAI; jumlah turun 120 kaki |
+| 2 | 2 | 2 min.; Jarak 60 kaki; jumlah terjejas 40 SAI; jumlah turun 240 kaki |
+| 3 | 3 | 3 min.; Jarak 90 kaki; jumlah terjejas 60 SAI; jumlah turun 360 kaki |
+| 4 | 4 | 4 min.; Jarak 120 kaki; jumlah terjejas 80 SAI; jumlah turun 480 kaki |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Find Familiar
+#### Cari Familiar (Find Familiar)
 
 (Konjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 2d12 Jam |
+| **Pangkat:** Ahli Sihir 1 | **Masa Merapalkan:** 2d12 Jam |
 | **Sfera:** Tiada | **Tempoh:** Khas |
-| **Kos:** 3/Intensiti, +1 EXP | **Julat:** 0 |
-| **Kawasan:** Jejari ½ Batu/Intensiti | **Rintangan:** T/A |
+| **Kos:** 3/Keamatan, +1 EXP | **Jarak:** 0 |
+| **Kawasan:** ½ Batu Radius/Keamatan | **Rintangan:** N/A |
 
-Mantera ini membolehkan pemantera cuba menyeru satu familiar (pendamping), yang menjadi lanjutan daripada deria dan kuasa tuannya. Familiar boleh berbual dengan tuannya secara telepati dan membuat pengawal dan peninjau yang baik juga. Mempunyai familiar yang dibunuh menimbulkan risiko tertentu kepada pengguna sihir disebabkan hubungan rapat mereka, yang menjadikan memiliki familiar sebagai bahaya pangkat rendah.
+Mantera ini membolehkan perapal untuk cuba menyeru familiar, yang menjadi lanjutan deria dan kuasa tuannya. Familiar boleh berbual dengan tuan mereka secara telepati dan menjadi pengawal serta peninjau yang baik juga. Mempunyai familiar yang dibunuh menimbulkan risiko tertentu kepada pengguna sihir kerana hubungan rapat mereka, yang menjadikan memiliki familiar sebagai bahaya pangkat rendah.
 
-Untuk menyeru familiar, pengguna sihir mestilah memulakan ritual sambil memastikan brazier diisi dengan arang, dan apabila terbakar dengan keamatan, menambah kemenyan bernilai 100GP. Dengan bahan-bahan ini terbakar, pemantera kemudian mestilah meneruskan ritual sehingga familiar tiba atau Masa Pemanteraan tamat tanpa kejayaan.
+Untuk menyeru familiar, pengguna sihir mesti memulakan ritual sambil memastikan bekas bara dipenuhi arang, dan apabila terbakar dengan keamatan, masukkan kemenyan bernilai 100GP. Dengan bahan-bahan ini terbakar, perapal kemudian mesti meneruskan ritual sehingga familiar tiba atau Masa Merapalkan tamat tanpa kejayaan.
 
-Walaupun mantera ini berjaya dipantera, peluang familiar yang sesuai untuk menjawab panggilan pengguna sihir hanyalah 50%, dan pengguna sihir hanya boleh mencuba mantera ini sekali setahun. Setiap tahap Intensiti tambahan melebihi yang pertama memanjangkan Julat mantera satu lagi setengah batu, yang seterusnya meningkatkan kemungkinan familiar yang berpotensi ditemui sebanyak 5%, sehingga maksimum 95%. Tiada kawalan ke atas jenis makhluk tepat yang akan menjawab panggilan, tetapi apa yang tiba akan menjadi hamba dan sekutu yang setia. Terpulang kepada makhluk tertentu untuk menjawab panggilan tersebut, oleh itu berada di kawasan yang diketahui dihuni oleh jenis makhluk tertentu tidak menjamin pemantera akan berjaya.
+Walaupun mantera ini berjaya dirapalkan, peluang untuk familiar yang sesuai menyahut seruan pengguna sihir hanyalah 50%, dan pengguna sihir hanya boleh mencuba mantera ini sekali setahun. Setiap tahap Keamatan tambahan melebihi yang pertama memanjangkan Jarak mantera setengah batu lagi, yang seterusnya meningkatkan kemungkinan familiar berpotensi dijumpai sebanyak 5%, sehingga maksimum 95%. Tiada kawalan ke atas jenis makhluk tepat yang akan menyahut seruan, tetapi apa yang tiba akan menjadi hamba dan sekutu yang setia. Terpulang kepada makhluk tertentu untuk menyahut seruan, oleh itu berada di kawasan yang diketahui didiami oleh jenis makhluk tertentu _tidak_ menjamin kejayaan perapal.
 
-Jika makhluk menjawab seruan pemantera, pengguna sihir masih perlu mengorbankan 1 Gulungan Pengalaman untuk mencipta hubungan rohani antara diri mereka dan familiar. Setelah ini dilakukan, ritual selesai.
+Jika makhluk menyahut seruan perapal, pengguna sihir masih perlu mengorbankan 1 Gulungan Pengalaman untuk mencipta hubungan rohani antara diri mereka dan familiar. Setelah ini dilakukan, ritual selesai.
 
-Sementara familiar dan tuannya berada dalam jarak 120 kaki antara satu sama lain, pengguna sihir mendapat keupayaan untuk menggunakan Mata Sihir familiar juga. Selain itu, pengguna sihir mendapat hubungan telepati dengan familiar dan sebarang Kebolehan khas tambahan atau bonus kemahiran yang dinyatakan pada jadual di bawah.
+Sementara familiar dan tuannya berada dalam jarak 120 kaki antara satu sama lain, pengguna sihir mendapat keupayaan untuk menggunakan Mata Sihir familiar juga. Di samping itu, pengguna sihir mendapat hubungan telepati dengan familiar dan sebarang Kebolehan khas atau bonus kemahiran tambahan yang dinyatakan pada jadual di bawah.
 
-Dalam kes kematian familiar, pemantera kehilangan 5 Gulungan Pengalaman. Pemantera yang tidak mempunyai sebarang Gulungan Pengalaman mesti melucutkan semua Gulungan Pengalaman selanjutnya yang diberikan sehingga baki dibayar.
+Sekiranya familiar mati, perapal kehilangan 5 Gulungan Pengalaman. Perapal yang pada masa ini tidak mempunyai sebarang Gulungan Pengalaman mesti melucutkan semua Gulungan Pengalaman lanjut yang diberikan sehingga baki dibayar.
 
-Jenis familiar yang muncul, jika ada, ditentukan mengikut jadual berikut. Di bawah kebanyakan keadaan, familiar biasa tidaklah terlalu besar, antara SIZ 1-4, dan menggunakan penulisan Haiwan Kecil.
+Jenis familiar yang muncul, jika ada, ditentukan mengikut jadual berikut. Di bawah kebanyakan keadaan, familiar biasa tidaklah sangat besar, iaitu antara SAI 1-4, dan menggunakan penerangan Haiwan Kecil.
 
 ##### Familiar Biasa
 
-| Gulungan d100 | Jenis | STR/SIZ | POW | Kebolehan Khas Diberikan, semua termasuk Hubungan Telepati |
+| Gulungan d100 | Jenis | KEK/SAI | KUR | Kebolehan Khas Diberikan, semua termasuk Hubungan Telepati |
 | :-: | :-: | :-: | :-: | :-- |
 | 01-05 | Kelawar | 1 | 1d3 | +10% Persepsi (pendengaran sahaja), boleh bertarung dalam kegelapan atau buta tanpa penalti |
 | 06-10 | Kucing, Rumah | 1 | 2d3 | Penglihatan Malam, +10% Persepsi (pendengaran sahaja), +10% Senyap |
 | 11-15 | Gagak | 1 | 2d3 | Komunikasi Lisan\*, +10% Persepsi |
-| 16-20 | Anjing, Sederhana | 1d2+2 (4) | 1d3 | Penglihatan Malam, +10% Persepsi (pendengaran dan olfaktori sahaja), +10% Jejak |
-| 21-25 | Anjing, Kecil | 1d2 | 1d3 | Penglihatan Malam, +10% Persepsi (pendengaran dan olfaktori sahaja), +10% Jejak |
-| 26-30 | Ferret | 1 | 1d3 | +10% Persepsi (penglihatan sahaja), +10% Mengelak |
-| 31-35 | Katak/Kodok | 1 | 2d3 | +10% Persepsi, boleh menahan nafas selama 2 minit ditambah Ketahanan dalam saat, dalam pertempuran miniatur petak hadapan watak meluas ke kedua-dua belah |
-| 36-40 | Helang | 1 | 2d6 | +20% Persepsi, 2x jarak penglihatan normal |
-| 41-45 | Cicak | 1 | 2d3 | +10% Atletik, +10% Berenang |
-| 46-50 | Tikus | 1 | 1d3 | +10% Ketahanan, +10% Persepsi (olfaktori sahaja), +10% Berenang |
-| 51-55 | Burung Hantu | 1 | 2d6 | Penglihatan Malam, +10% Persepsi (malam sahaja), +10% Kuasa Minda |
-| 56-60 | Tikus Besar | 1 | 1d3 | +10% Ketahanan, +10% Persepsi (olfaktori sahaja), +10% Berenang |
-| 61-65 | Gagak Raven | 1 | 2d6 | Komunikasi Lisan\*, +10% Perdagangan, +10% Persepsi |
+| 16-20 | Anjing, Sederhana | 1d2+2 (4) | 1d3 | Penglihatan Malam, +10% Persepsi (pendengaran dan deria bau sahaja), +10% Jejak |
+| 21-25 | Anjing, Kecil | 1d2 | 1d3 | Penglihatan Malam, +10% Persepsi (pendengaran dan deria bau sahaja), +10% Jejak |
+| 26-30 | Memerang | 1 | 1d3 | +10% Persepsi (penglihatan sahaja), +10% Elak |
+| 31-35 | Katak/Kodok | 1 | 2d3 | +10% Persepsi, boleh menahan nafas selama 2 minit ditambah Ketahanan dalam saat, dalam pertempuran miniatur petak depan watak meluas ke kedua-dua sisi |
+| 36-40 | Helang | 1 | 2d6 | +20% Persepsi, 2x jarak penglihatan biasa |
+| 41-45 | Cicak | 1 | 2d3 | +10% Atletik, +10% Renang |
+| 46-50 | Tikus | 1 | 1d3 | +10% Ketahanan, +10% Persepsi (deria bau sahaja), +10% Renang |
+| 51-55 | Burung Hantu, Screech | 1 | 2d6 | Penglihatan Malam, +10% Persepsi (malam sahaja), +10% Kuasa Minda |
+| 56-60 | Tikus Besar | 1 | 1d3 | +10% Ketahanan, +10% Persepsi (deria bau sahaja), +10% Renang |
+| 61-65 | Raven | 1 | 2d6 | Komunikasi Lisan\*, +10% Perdagangan, +10% Persepsi |
 | 66-70 | Ular | 1 | 2d3 | +10% Ketahanan (menentang racun sahaja), +10% Persepsi (rasa sahaja) |
-| 71-75 | Musang | 1 | 1d3 | +10% Persepsi (pendengaran dan olfaktori sahaja) |
-| 76-00 | Tiada familiar dalam julat | - | - | - |
+| 71-75 | Weasel | 1 | 1d3 | +10% Persepsi (pendengaran dan deria bau sahaja) |
+| 76-00 | Tiada familiar dalam jarak | - | - | - |
 
-_\* Bahasa Umum, dan bahasa kaum tuannya jika berkenaan._
+_\* Bahasa Umum, dan bahasa kaum tuan jika berkenaan._
 
----
-#### Fireball
+---#### Fireball
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Tumpuan |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** Jejari 20 kaki | **Rintangan:** Mengelak |
+| **Rank:** Mage 2 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Tiada | **Duration:** Tumpuan |
+| **Cost:** 3+1/Keamatan tambahan | **Range:** Sentuhan |
+| **Area:** 20 kaki Jejari | **Resist:** Elak |
 
-Pada Pusingan pertama pemanteraan, apabila pengguna sihir memulakan ikrar lisan dan gerak isyarat, api kecil atau percikan api mula terbentuk di tangan, perlahan-lahan membesar menjadi bebola api kecil. Pada Pusingan kedua, ikrar selesai, pengguna sihir meniru pergerakan melempar bebola tersebut, yang meletup dengan bunyi raungan perlahan menjadi bebola api yang besar. Ia mempunyai sedikit tekanan dan memberikan 1d6 mata kerosakan bagi setiap 2 mata Intensiti, atau sebahagian daripadanya, kepada semua mangsa dalam Kawasan Kesan. Kerosakan digulung sekali dan digunakan pada setiap Lokasi Pukulan sasaran, dengan perisai yang dipakai tidak menawarkan perlindungan, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa.
+Pada Giliran pertama merapal, ketika pengguna sihir memulakan jampi lisan dan gerak isyarat, api kecil sebesar percikan atau bara mula terbentuk di tangan, perlahan-lahan membesar menjadi bola api kecil. Pada Giliran kedua, setelah jampi selesai, pengguna sihir melakukan gaya melontar bola tersebut, yang meletup dengan ngauman rendah menjadi bola api yang besar. Ia tidak mempunyai banyak tekanan dan memberikan 1d6 mata kerosakan bagi setiap 2 mata Keamatan, atau sebahagian daripadanya, kepada semua mangsa di dalam Kawasan Kesan. Kerosakan dilambung sekali dan dikenakan pada setiap Lokasi Pukulan sasaran, dengan perisai yang dipakai tidak menawarkan perlindungan, tetapi Mata Perisai magis atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa.
 
-Gulungan Mengelak (Evade) yang berjaya, mengakibatkan posisi meniarap, membolehkan mangsa mengalami kerosakan sifar. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa meniarap, tetapi Kejayaan dalam kes ini hanya akan mengurangkan kerosakan sebanyak separuh melainkan mereka berada dalam jarak 5 kaki dari pinggir Kawasan Kesan.
+Lambungan Elak yang berjaya, yang mengakibatkan mangsa jatuh meniarap, membolehkan mangsa tidak mengalami sebarang kerosakan. Seseorang dengan Kebolehan *Artful Dodger* mempunyai pilihan untuk Mengelak tanpa jatuh meniarap, tetapi Kejayaan dalam kes ini hanya akan mengurangkan kerosakan sebanyak separuh melainkan mereka berada dalam jarak 5 kaki dari pinggir Kawasan Kesan.
 
-Fireball mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosakan yang digulung x5%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
+Fireball mempunyai peluang untuk menyalakan bahan mudah terbakar bersamaan dengan kerosakan yang dilambung x5%. Lihat bahagian mengenai [Kebakaran](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Julat 30 kaki; kerosakan 1d6 |
-| 2 | 4 | Julat 60 kaki; kerosakan 1d6 |
-| 3 | 5 | Julat 90 kaki; kerosakan 2d6 |
-| 4 | 6 | Julat 120 kaki; kerosakan 2d6 |
-| 5 | 7 | Julat 180 kaki; kerosakan 3d6 |
-| 6 | 8 | Julat 240 kaki; kerosakan 3d6 |
+| 1 | 3 | 30 kaki Jarak; 1d6 kerosakan |
+| 2 | 4 | 60 kaki Jarak; 1d6 kerosakan |
+| 3 | 5 | 90 kaki Jarak; 2d6 kerosakan |
+| 4 | 6 | 120 kaki Jarak; 2d6 kerosakan |
+| 5 | 7 | 180 kaki Jarak; 3d6 kerosakan |
+| 6 | 8 | 240 kaki Jarak; 3d6 kerosakan |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
 #### Fireball, Delayed Blast
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 50 kaki/Intensiti |
-| **Kawasan:** Jejari 20 kaki | **Rintangan:** Mengelak |
+| **Rank:** Mage 4 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Tiada | **Duration:** Lihat di bawah |
+| **Cost:** 3+1/Keamatan tambahan | **Range:** 50 kaki/Keamatan |
+| **Area:** 20 kaki Jejari | **Resist:** Elak |
 
-Dengan pengecualian yang dinyatakan di atas dan dalam teks berikut, mantera ini berfungsi seperti mantera Fireball biasa. Delayed Blast Fireball mengenakan kerosakan 1d8 mata bagi setiap 2 mata Intensiti, atau sebahagian daripadanya, kepada semua mangsa dalam Kawasan Kesan. Apabila dipantera, pengguna sihir boleh menetapkan Fireball untuk meletup pada bila-bila masa antara serta-merta dan dalam masa lima minit. Ia bergerak ke titik yang ditetapkan dan kemudian kekal tidak aktif, bara terapung kecil, sehingga pada masa yang diingini apabila ia menyala menjadi bebola api yang besar.
+Dengan pengecualian yang dinyatakan di atas dan dalam teks berikut, jampi ini berfungsi seperti jampi Fireball biasa. Delayed Blast Fireball memberikan 1d8 mata kerosakan bagi setiap 2 mata Keamatan, atau sebahagian daripadanya, kepada semua mangsa di dalam Kawasan Kesan. Apabila dirapal, pengguna sihir boleh menetapkan Fireball untuk meletup pada bila-bila masa antara serta-merta hingga dalam tempoh lima minit. Ia bergerak ke tempat yang ditetapkan dan kemudian kekal tidak aktif, sebagai bara terapung kecil, sehingga pada masa yang diingini apabila ia menyambar menjadi bola api yang besar.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Julat 50 kaki; kerosakan 1d8 |
-| 2 | 4 | Julat 100 kaki; kerosakan 1d8 |
-| 3 | 5 | Julat 150 kaki; kerosakan 2d8 |
-| 4 | 6 | Julat 200 kaki; kerosakan 2d8 |
-| 5 | 7 | Julat 250 kaki; kerosakan 3d8 |
-| 6 | 8 | Julat 300 kaki; kerosakan 3d8 |
+| 1 | 3 | 50 kaki Jarak; 1d8 kerosakan |
+| 2 | 4 | 100 kaki Jarak; 1d8 kerosakan |
+| 3 | 5 | 150 kaki Jarak; 2d8 kerosakan |
+| 4 | 6 | 200 kaki Jarak; 2d8 kerosakan |
+| 5 | 7 | 250 kaki Jarak; 3d8 kerosakan |
+| 6 | 8 | 300 kaki Jarak; 3d8 kerosakan |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
 #### Fire Shield
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Pemantera | **Rintangan:** T/A |
+| **Rank:** Mage 3 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Tiada | **Duration:** 2 Minit/Keamatan |
+| **Cost:** 3+1/Keamatan tambahan | **Range:** 0 |
+| **Area:** Perapal | **Resist:** T/A |
 
-Mantera ini mencipta perisai api nipis yang membakar pemantera tetapi tidak menyebabkan kerosakan dengan sendirinya. Sebaliknya, api melindungi penerima daripada sama ada api atau sejuk, bergantung pada mana daripada dua varian yang diingati: Chill Shield, yang mencipta api biru atau hijau dan melindungi daripada kerosakan berasaskan panas dan api, atau Warm Shield, yang mencipta api ungu atau biru dan melindungi daripada kerosakan berasaskan sejuk dan ais. Warna api harus ditentukan secara rawak dengan peluang 50% bagi setiap satu, kerana hakikat bahawa kedua-dua jenis boleh memancarkan api biru mewujudkan elemen ketidakpastian bagi mana-mana penyerang. Keputusan varian mana yang perlu diingati dibuat apabila mantera disediakan, dan kedua-duanya boleh diingati jika dikehendaki. Api ini tidak mengeluarkan haba dan memancarkan cahaya pada separuh kecerahan obor sahaja. Spesifikasi setiap varian diperincikan di bawah.
+Jampi ini mencipta perisai api nipis yang membakar perapal tetapi tidak menyebabkan kerosakan secara sendirinya. Sebaliknya, api tersebut melindungi penerima daripada api atau sejuk, bergantung kepada varian mana yang diingati: Chill Shield, yang mencipta api biru atau hijau dan melindungi daripada haba dan kerosakan berasaskan api, atau Warm Shield, yang mencipta api ungu atau biru dan melindungi daripada sejuk dan kerosakan berasaskan ais. Warna api harus ditentukan secara rawak dengan 50% peluang untuk mana-mana satu, kerana fakta bahawa kedua-dua jenis boleh memancarkan api biru mewujudkan elemen ketidakpastian bagi mana-mana penyerang. Keputusan mengenai varian mana yang akan diingati dibuat apabila jampi disediakan, dan kedua-duanya boleh diingati jika mahu. Api ini tidak mengeluarkan haba dan memberikan cahaya pada hanya separuh kecerahan obor. Perincian setiap varian dijelaskan di bawah.
 
-- **Chill Shield:** Api ini sejuk apabila disentuh dan mengurangkan sebarang kerosakan berasaskan api atau panas kepada separuh jumlah keseluruhan. Gulungan Rintangan yang berjaya akan menafikan semua kerosakan. Gulungan Rintangan adalah satu gred lebih mudah dan, dalam kes Mengelak, tidak akan menyebabkan pertahanan meniarap.
-- **Warm Shield:** Api ini hangat apabila disentuh dan mengurangkan sebarang kerosakan berasaskan sejuk kepada separuh daripada jumlah keseluruhan. Gulungan Rintangan yang berjaya akan menafikan semua kerosakan. Gulungan Rintangan adalah satu gred lebih mudah dan dalam kes Mengelak, tidak akan menyebabkan pertahanan meniarap.
+- **Chill Shield:** Api ini sejuk apabila disentuh dan mengurangkan sebarang kerosakan berasaskan api atau haba kepada separuh daripada jumlah keseluruhan. Lambungan Rintangan yang berjaya akan meniadakan semua kerosakan. Lambungan Rintangan adalah satu gred lebih mudah dan, dalam kes Elak, tidak akan menyebabkan pertahanan jatuh meniarap.
+- **Warm Shield:** Api ini hangat apabila disentuh dan mengurangkan sebarang kerosakan berasaskan sejuk kepada separuh daripada jumlah keseluruhan. Lambungan Rintangan yang berjaya akan meniadakan semua kerosakan. Lambungan Rintangan adalah satu gred lebih mudah dan dalam kes Elak, tidak akan menyebabkan pertahanan jatuh meniarap.
 
-Serangan jarak dekat terhadap penerima mana-mana varian, sama ada bersenjata atau tidak, mengenakan kerosakan biasa melainkan menggunakan salah satu unsur yang dilindungi. Dalam kes ini, pemantera dilindungi daripada bahagian unsur serangan, dan penyerang menerima kerosakan yang setara dengan yang dikenakan. Perisai yang dipakai oleh penyerang tidak menawarkan perlindungan, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Makhluk dengan Rintangan Sihir Semula Jadi boleh membatalkan Fire Shield pada gulungan Kuasa Minda yang berjaya apabila penerima pertama kali diserang. Jika gulungan Rintangan Sihir gagal, lawan tidak boleh kemudian menafikan Fire Shield.
+Serangan jarak dekat terhadap penerima mana-mana varian, sama ada bersenjata atau tidak bersenjata, memberikan kerosakan biasa kecuali menggunakan salah satu elemen yang dilindungi. Dalam kes ini, perapal dilindungi daripada bahagian elemen serangan tersebut, dan penyerang menerima kerosakan yang sama dengan kerosakan yang diberikan. Perisai yang dipakai oleh penyerang tidak menawarkan perlindungan, tetapi Mata Perisai magis atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Makhluk dengan Rintangan Magis Semula Jadi boleh menghapuskan Fire Shield dengan lambungan KUR yang berjaya apabila penerima pertama kali diserang. Jika lambungan Rintangan Magis gagal, lawan tidak boleh meniadakan Fire Shield kemudiannya.
 
 ---
 #### Flame Strike
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tempur, Unsur (Api) | **Tempoh:** Serta-merta |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 100 kaki+20 kaki/Intensiti tambahan |
-| **Kawasan:** Jejari 5 kaki | **Rintangan:** Mengelak |
+| **Rank:** Cleric 2 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Tempur, Elemen (Api) | **Duration:** Serta-merta |
+| **Cost:** 3+1/Keamatan tambahan | **Range:** 100 kaki+20kaki/Keamatan tambahan |
+| **Area:** 5 kaki Jejari | **Resist:** Elak |
 
-Apabila berjaya dipantera, tiang api setinggi 30 kaki meluncur turun dari atas, menghanguskan kawasan yang ditetapkan oleh paderi. Tiang itu memberikan 1d8 mata kerosakan bagi setiap 2 mata Intensiti, atau sebahagian daripadanya, kepada semua mangsa dalam Kawasan Kesan. Gulung kerosakan sekali dan gunakan pada setiap Lokasi Pukulan sasaran, dengan perisai yang dipakai menawarkan separuh perlindungan, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Gulungan Mengelak (Evade) yang berjaya, dengan bergolek atau menjatuhkan diri keluar dari Kawasan Kesan dan berakhir dalam keadaan meniarap, membolehkan mangsa mengalami kerosakan sifar. Seseorang dengan Kebolehan Artful Dodger boleh Mengelak tanpa meniarap dan dibenarkan untuk bergerak bebas di luar Kawasan Kesan.
+Setelah berjaya dirapal, tiang api setinggi 30 kaki menyambar turun dari atas, membakar kawasan yang ditetapkan oleh klerik. Tiang tersebut memberikan 1d8 mata kerosakan bagi setiap 2 mata Keamatan, atau sebahagian daripadanya, kepada semua mangsa di dalam Kawasan Kesan. Lambung kerosakan sekali dan kenakan pada setiap Lokasi Pukulan sasaran, dengan perisai yang dipakai menawarkan separuh perlindungan, tetapi Mata Perisai magis atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Lambungan Elak yang berjaya, dengan berguling atau mencampakkan diri keluar dari Kawasan Kesan dan berakhir dalam keadaan meniarap, membolehkan mangsa tidak mengalami sebarang kerosakan. Seseorang dengan Kebolehan *Artful Dodger* boleh Mengelak tanpa jatuh meniarap dan dibenarkan bergerak dengan bebas ke luar sedikit dari Kawasan Kesan.
 
-Flame Strike mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosakan yang digulung x5%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
+Flame Strike mempunyai peluang untuk menyalakan bahan mudah terbakar bersamaan dengan kerosakan yang dilambung x5%. Lihat bahagian mengenai [Kebakaran](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Julat 100-kaki; kerosakan 1d8 |
-| 2 | 4 | Julat 120-kaki; kerosakan 1d8 |
-| 3 | 5 | Julat 140-kaki; kerosakan 2d8 |
-| 4 | 6 | Julat 160-kaki; kerosakan 2d8 |
-| 5 | 7 | Julat 180-kaki; kerosakan 3d8 |
+| 1 | 3 | 100-kaki jarak; 1d8 kerosakan |
+| 2 | 4 | 120-kaki jarak; 1d8 kerosakan |
+| 3 | 5 | 140-kaki jarak; 2d8 kerosakan |
+| 4 | 6 | 160-kaki jarak; 2d8 kerosakan |
+| 5 | 7 | 180-kaki jarak; 3d8 kerosakan |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
 #### Flesh to Stone \(R\)
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Kekal |
-| **Kos:** 3/Intensiti | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Rank:** Mage 4 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Tiada | **Duration:** Kekal |
+| **Cost:** 3/Keamatan | **Range:** 30 kaki/Keamatan |
+| **Area:** 1 Sasaran | **Resist:** KUR |
 
-Apabila dipantera, satu mangsa dalam Julat dibenarkan gulungan Rintangan Kuasa Minda. Jika tidak berjaya, mereka dan semua barang yang dibawa dan dipakai diubah sepenuhnya menjadi batu padu. Transformasi ini bukanlah kematian, tetapi sebaliknya satu bentuk animasi terampai. Pemanteraan sama ada versi terbalik mantera ini, atau Wish, boleh digunakan untuk memulihkan mangsa kepada kehidupan sekali lagi. Sebarang kerosakan yang dialami mangsa semasa menjadi batu terbawa-bawa, berkuat kuasa serta-merta selepas pemulihan. Makhluk besar (SIZ 21-40) kurang terdedah kepada mantera ini dengan gulungan Rintangan menjadi Mudah, dan gulungan Rintangan untuk makhluk sangat besar (SIZ 41+) adalah Sangat Mudah.
+Apabila dirapal, seorang mangsa dalam Jarak dibenarkan membuat lambungan Rintangan KUR. Jika gagal, mereka dan semua barang yang dibawa serta dipakai ditukarkan sepenuhnya menjadi batu pepejal. Transformasi ini bukanlah kematian, sebaliknya satu bentuk animasi tergantung. Perapalan sama ada versi terbalik jampi ini, atau Wish, boleh digunakan untuk memulihkan mangsa kepada kehidupan sekali lagi. Sebarang kerosakan yang dialami mangsa semasa menjadi batu dibawa bersama, berkuat kuasa serta-merta setelah dipulihkan. Makhluk besar (SAI 21-40) kurang terdedah kepada jampi ini dengan lambungan Rintangan menjadi Mudah, dan lambungan Rintangan bagi makhluk Sangat Besar (SAI 41+) adalah Sangat Mudah.
 
-Pembalikan mantera ini, Stone to Flesh, digunakan untuk memulihkan mangsa dan tiada gulungan untuk menentang diperlukan. Walau bagaimanapun, mantera ini juga boleh diterbalikkan untuk mengubah batu yang tidak pernah hidup sebelum ini; digunakan dalam satu daripada beberapa cara kreatif. Sebagai contoh, dinding batu bersaiz 10 kaki padu bagi setiap tahap Intensiti boleh diubah menjadi daging lembut, 'terowong' daging selebar 3 kaki, dengan panjang 10 kaki bagi setiap Intensiti boleh dicipta, satu sasaran seperti patung batu boleh diubah menjadi tubuh, dan malah golem batu boleh diubah menjadi golem daging dengan cara mantera ini. Walau bagaimanapun, dalam kes yang kedua, golem batu akan dibenarkan gulungan Kuasa Minda untuk menentang seperti biasa. Batu yang berubah menjadi daging dengan cara ini adalah lembut dan boleh dilenturkan, dan walaupun ia mengekalkan Mata Hit sebenar, ia tidak mempunyai Mata Perisai, menjadikannya lebih mudah untuk dicincang.
+Songsangan jampi ini, Stone to Flesh, digunakan untuk memulihkan mangsa dan tiada lambungan untuk menentang diperlukan. Walau bagaimanapun, jampi ini juga boleh diterbalikkan untuk mengubah batu yang tidak pernah hidup sebelum ini; digunakan dalam salah satu daripada beberapa cara kreatif. Sebagai contoh, dinding batu bersaiz 10 kaki padu bagi setiap tahap Keamatan boleh diubah menjadi daging lembut, 'terowong' daging selebar sehingga 3 kaki, dengan panjang 10 kaki bagi setiap Keamatan boleh dicipta, satu sasaran tunggal seperti patung batu boleh diubah menjadi badan, malah golem batu boleh diubah menjadi golem daging melalui jampi ini. Walau bagaimanapun, dalam kes yang kedua, golem batu akan dibenarkan membuat lambungan KUR untuk menentang seperti biasa. Batu yang diubah menjadi daging dengan cara ini adalah lembut dan boleh lentur, dan sementara ia mengekalkan Mata Nyawa sebenar, ia tidak mempunyai Mata Perisai, menjadikannya lebih mudah untuk dikerat.
 
 ---
 #### Floating Disk
 
-(Konjurasi)
+(Conjuration)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 30 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 60 kaki |
-| **Kawasan:** Cakera lebar 3 kaki | **Rintangan:** T/A |
+| **Rank:** Mage 1 | **Casting Time:** 1 Tindakan |
+| **Sphere:** Tiada | **Duration:** 30 Minit/Keamatan |
+| **Cost:** 1/Keamatan | **Range:** 60 kaki |
+| **Area:** 3 kaki lebar cakera | **Resist:** T/A |
 
-Pengguna sihir boleh memantera mantera ini untuk mencipta cakera daya yang berkilauan tertumpu menjadi bulatan berdiameter 3 kaki, dan menggunakannya untuk membawa barang-barang yang longgar dan pelbagai. Cakera terapung ini akan sentiasa kekal 3 kaki di atas tanah dan boleh membawa sebarang bilangan barang jika ia tidak melebihi 20 'Benda' bagi setiap Intensiti dan boleh dimuatkan di atas cakera. Untuk tujuan perbandingan, anggap 1 SIZ adalah sama dengan 3 'Benda'; oleh itu, cakera tersebut akan dapat membawa lebih sedikit daripada 6 SIZ bagi setiap Intensiti. Sifat cekung cakera biasanya akan menghalang item daripada bergolek jatuh dan jika dibiarkan tanpa arahan, cakera akan kekal dalam jarak 5 kaki dari pemantera, mengikuti dengan Kadar Pergerakan 15 kaki. Walau bagaimanapun, cakera boleh diolah kepada mana-mana titik dalam 60 kaki kawasan mantera jika pengguna sihir menumpukan perhatian, malah dihasratkan untuk kekal di lokasi tertentu. Jika pengguna sihir membiarkan cakera bergerak melebihi 60 kaki, cakera itu akan lenyap dari kewujudan, menjatuhkan semua barangan yang dibawa ke tanah. Cakera tidak boleh dihasratkan untuk naik lebih daripada 3 kaki dari tanah.
+Pengguna sihir boleh merapal jampi ini untuk mencipta cakera daya yang berkilauan yang tertumpu menjadi bulatan berdiameter 3 kaki, dan menggunakannya untuk membawa barangan longgar dan pelbagai. Cakera terapung ini akan sentiasa kekal 3 kaki di atas tanah dan boleh membawa sebarang jumlah barangan jika ia tidak melebihi 20 'Benda' bagi setiap Keamatan dan boleh dimuatkan di atas cakera tersebut. Untuk tujuan perbandingan, anggap 1 SAI adalah sama dengan 3 'Benda'; oleh itu, cakera tersebut mampu membawa hanya lebih 6 SAI bagi setiap Keamatan. Sifat cengkung cakera itu biasanya akan menghalang barangan daripada berguling jatuh dan jika dibiarkan tanpa arahan, cakera itu akan kekal dalam jarak 5 kaki dari perapal, mengikuti dengan Kadar Pergerakan 15 kaki. Walau bagaimanapun, cakera itu boleh digerakkan ke mana-mana titik dalam kawasan 60 kaki jampi jika pengguna sihir menumpukan perhatian, malah boleh diarahkan untuk kekal di lokasi tertentu. Jika pengguna sihir membiarkan cakera bergerak melebihi 60 kaki, cakera itu akan hilang daripada kewujudan, menjatuhkan semua barangan yang dibawa ke tanah. Cakera tidak boleh diarahkan untuk naik lebih daripada 3 kaki dari tanah.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
 | 1 | 1 | 30 min.; bawa 1-20 'Benda' |
 | 2 | 2 | 60 min.; bawa 21-40 'Benda' |
@@ -1256,54 +1250,54 @@ Pengguna sihir boleh memantera mantera ini untuk mencipta cakera daya yang berki
 ---
 #### Fly
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 30 Minit/Intensiti, +1d6x10 Minit |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Rank:** Mage 2 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Tiada | **Duration:** 30 Minit/Keamatan, +1d6x10 Minit |
+| **Cost:** 3+1/Keamatan tambahan | **Range:** Sentuhan |
+| **Area:** 1 Sasaran | **Resist:** T/A |
 
-Apabila mantera ini dipantera, pengguna sihir boleh memberikan kepada satu makhluk sehingga 10 SIZ bagi setiap Intensiti hadiah penerbangan. Makhluk itu mendapat Kadar Pergerakan 30 kaki semasa terbang, separuh daripada itu jika memanjat dan dua kali ganda dalam terjunan. Semua penalti kemahiran yang dikenakan pada kelajuan pergerakan darat terpakai pada kelajuan terbang yang diingini juga, termasuk had yang diletakkan pada pemanteraan mantera dan pertempuran. Tempoh sebenar mantera Fly tidak dapat diramalkan dan harus digulung oleh Pengurus Permainan kerana mereka yang berada di bawah kesannya tidak sepatutnya tahu secara spesifik berapa banyak masa yang tinggal. Jika makhluk terbang diperlukan untuk membuat gulungan kemahiran Fly, Atletik atau Akrobatik boleh digantikan pada dua gred kesukaran. Walau bagaimanapun, watak yang kerap menggunakan mantera ini boleh memilih untuk membangunkan kemahiran Fly secara normal pada Nilai Asas STR+DEX.
+Apabila jampi ini dirapal, pengguna sihir boleh memberikan satu makhluk sehingga 10 SAI bagi setiap Keamatan kurniaan penerbangan. Makhluk itu memperoleh Kadar Pergerakan 30 kaki semasa terbang, separuh daripada itu jika memanjat dan dua kali ganda dalam terjunan. Semua penalti kemahiran yang dikenakan pada kelajuan pergerakan darat dikenakan pada kelajuan terbang yang diingini juga, termasuk had yang diletakkan pada perapalan jampi dan pertempuran. Tempoh sebenar jampi Fly adalah tidak dapat diramalkan dan harus dilambung oleh Pengurus Permainan kerana mereka yang berada di bawah kesannya tidak sepatutnya tahu dengan tepat berapa banyak masa yang tinggal. Jika penerbang dikehendaki membuat lambungan kemahiran Fly, *Athletics* atau *Acrobatics* boleh digantikan pada dua gred kesukaran. Walau bagaimanapun, watak yang menggunakan jampi ini dengan kerap boleh memilih untuk membangunkan kemahiran Fly secara biasa pada Nilai Asas KEK+KTG.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 min. +1d6x10 min.; 1-10 SIZ |
-| 2 | 4 | 60 min. +1d6x10 min.; 11-20 SIZ |
-| 3 | 5 | 90 min. +1d6x10 min.; 21-30 SIZ |
-| 4 | 6 | 120 min. +1d6x10 min.; 31-40 SIZ |
+| 1 | 3 | 30 min. +1d6x10 min.; 1-10 SAI |
+| 2 | 4 | 60 min. +1d6x10 min.; 11-20 SAI |
+| 3 | 5 | 90 min. +1d6x10 min.; 21-30 SAI |
+| 4 | 6 | 120 min. +1d6x10 min.; 31-40 SAI |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
 #### Free Action
 
-(Abjurasi, Enchantment)
+(Abjuration, Enchantment)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Pesona | **Tempoh:** 10 Minit/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Rank:** Cleric 3 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Pesona | **Duration:** 10 Minit/Keamatan |
+| **Cost:** 3+1/Keamatan tambahan | **Range:** Sentuhan |
+| **Area:** 1 Sasaran | **Resist:** T/A |
 
-Apabila dipantera, mantera ini membolehkan subjek bertindak seperti biasa sepanjang Tempohnya, tidak kira mantera atau kesan lain yang menghalang pergerakan atau mengenakan penalti serangan. Ini termasuk menafikan penalti daripada rupa bumi yang menghalang seperti lumpur dan salji. Di bawah air, subjek boleh bergerak pada kelajuan darat normal mereka dan senjata yang diayun (pedang, kapak, belantan, gada, dan sebagainya) menyerang dengan kesan penuh. Mantera ini tidak memberikan keupayaan untuk bernafas di bawah air, walau bagaimanapun. Mantera ini menafikan mantera yang menghalang, seperti Entangle, Slow, Hold, Paralysis, Web, dan sebagainya, berkaitan dengan penalti pergerakan dan tindakan.
+Apabila dirapal, jampi ini membolehkan subjek bertindak secara biasa sepanjang Tempohnya, tanpa mengira jampi atau kesan lain yang menghalang pergerakan atau mengenakan penalti pada serangan. Ini termasuk meniadakan penalti daripada rupa bumi yang menghalang seperti lumpur dan salji. Di bawah air, subjek boleh bergerak pada kelajuan darat biasa mereka dan senjata yang diayun (pedang, kapak, belantan, gada, dan sebagainya) menyerang dengan kesan penuh. Walau bagaimanapun, jampi ini tidak memberikan keupayaan untuk bernafas di bawah air. Jampi ini meniadakan jampi yang menghalang, seperti *Entangle*, *Slow*, *Hold*, *Paralysis*, *Web*, dan sebagainya, mengenai pergerakan dan penalti tindakan.
 
 ---
 #### Frostbite
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** 60 kaki |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Ketahanan |
+| **Rank:** Mage 0 | **Casting Time:** 1 Tindakan |
+| **Sphere:** Tiada | **Duration:** Serta-merta |
+| **Cost:** 1 | **Range:** 60 kaki |
+| **Area:** 1 Sasaran | **Resist:** Ketahanan |
 
-Frostbite berfungsi secara langsung pada tisu organik hidup, mendatangkan rasa kebas dan sakit pada salah satu anggota badan penerima, contohnya jari, jari kaki, punggung, hidung & telinga, dan sebagainya. Pemantera mestilah sama ada menyentuh anggota badan tertentu atau menggulung secara rawak jika dipantera pada Julat. Jika mantera tidak ditentang, kawasan yang terjejas mengalami kebas deria diikuti dengan rasa sakit yang berlarutan untuk Tempohnya, menjadikan ujian kemahiran menggunakan lokasi itu satu Gred Kesukaran lebih sukar. Frostbite tidak memberikan kerosakan langsung tetapi menjadikan kawasan yang terjejas terhad digunakan untuk sementara waktu. Sebagai contoh, mangsa yang mengalami frostbite pada punggung tidak boleh duduk tanpa rasa tidak selesa yang melampau.
+Frostbite berfungsi secara langsung pada tisu organik yang hidup, menyebabkan rasa kebas dan sakit pada salah satu anggota badan penerima, sebagai contoh jari tangan, jari kaki, punggung, hidung & telinga, dan sebagainya. Perapal mesti sama ada menyentuh anggota tertentu atau melambung secara rawak jika dirapal pada Jarak. Jika jampi tidak ditentang, kawasan yang terjejas mengalami kebas deria diikuti dengan kesakitan berpanjangan sepanjang Tempoh, menjadikan ujian kemahiran yang menggunakan lokasi tersebut satu Gred Kesukaran lebih sukar. Frostbite tidak memberikan kerosakan langsung tetapi menyebabkan kawasan terjejas terhad kegunaannya untuk sementara waktu. Sebagai contoh, mangsa yang mengalami *frostbite* pada punggung tidak boleh duduk tanpa rasa tidak selesa yang melampau.
 
-Makhluk besar (SIZ 21-40) kurang terdedah kepada mantera ini dengan gulungan Rintangan menjadi Mudah, dan gulungan Rintangan untuk makhluk sangat besar (SIZ 41+) adalah Sangat Mudah.
+Makhluk besar (SAI 21-40) kurang terdedah kepada jampi ini dengan lambungan Rintangan menjadi Mudah, dan lambungan Rintangan bagi makhluk Sangat Besar (SAI 41+) adalah Sangat Mudah.
 
 ---
 #### Fumble
@@ -1312,53 +1306,53 @@ Makhluk besar (SIZ 21-40) kurang terdedah kepada mantera ini dengan gulungan Rin
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 1 Pusingan/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** Jejari 10 kaki | **Rintangan:** Kuasa Minda |
+| **Rank:** Mage 3 | **Casting Time:** 2 Tindakan |
+| **Sphere:** Tiada | **Duration:** 1 Pusingan/Keamatan |
+| **Cost:** 3+1/Keamatan tambahan | **Range:** 30 kaki/Keamatan |
+| **Area:** 10 kaki Jejari | **Resist:** KUR |
 
-Mantera ini menyebabkan semua lawan dalam Kawasan Kesan menjadi kekok, dengan sebarang gulungan kemahiran fizikal menjadi satu gred lebih sukar dan menyebabkan semua kegagalan mengakibatkan Fumble. Malah tindakan fizikal yang biasanya tidak memerlukan gulungan kemahiran seperti mengambil barang yang terjatuh, bergerak lebih pantas daripada berjalan, atau menaiki tangga memerlukan gulungan kemahiran Atletik. Kegagalan dalam kes ini mengakibatkan Fumble, dan biasanya kejatuhan yang janggal dalam kes pergerakan, atau secara tidak sengaja menendang item lebih jauh semasa cuba mengambilnya. Pengurus Permainan harus kreatif dengan hasil gulungan Fumble; walau bagaimanapun, hanya sedikit yang harus membawa maut dalam situasi bukan pertempuran. Dalam pertempuran, walau bagaimanapun, Fumble dianggap seperti mana-mana yang lain dan boleh mengakibatkan Kesan Khas seperti biasa.
+Jampi ini menyebabkan semua lawan dalam Kawasan Kesan menjadi kekok, dengan sebarang lambungan kemahiran fizikal menjadi satu gred lebih sukar dan menyebabkan semua kegagalan mengakibatkan *Fumble*. Malah tindakan fizikal yang biasanya tidak memerlukan lambungan kemahiran seperti mengambil barang yang terjatuh, bergerak lebih pantas daripada berjalan, atau menaiki tangga memerlukan lambungan kemahiran *Athletics*. Kegagalan dalam kes ini mengakibatkan *Fumble*, dan biasanya jatuh yang canggung dalam kes pergerakan, atau secara tidak sengaja menyepak barang lebih jauh semasa cuba mengambilnya. Pengurus Permainan harus kreatif dengan keputusan lambungan *Fumble*; walau bagaimanapun, tidak banyak yang sepatutnya membawa maut dalam situasi bukan pertempuran. Walau bagaimanapun, dalam pertempuran, *Fumble* dilayan seperti mana-mana yang lain dan boleh mengakibatkan Kesan Khas seperti biasa.
 
-Gulungan Rintangan yang berjaya membolehkan mangsa mengelakkan kesan mantera untuk Pusingan semasa; walau bagaimanapun, jika mangsa masih menduduki Kawasan Kesan Pusingan seterusnya, gulungan lain untuk Menentang mestilah dibuat semula seperti biasa. Sekutu penyerang asal juga perlu berada di luar Kawasan Kesan atau mengalami had yang sama seperti lawan mereka.
+Lambungan Rintangan yang berjaya membolehkan mangsa mengelakkan kesan jampi untuk Pusingan semasa; walau bagaimanapun, jika mangsa masih menduduki Kawasan Kesan pada Pusingan seterusnya, lambungan lain untuk Menentang mesti dibuat semula seperti biasa. Sekutu penyerang asal juga perlu menjauhi Kawasan Kesan atau mengalami had yang sama seperti lawan mereka.
 
-Mantera ini juga boleh disasarkan pada makhluk tertentu, yang akan mengalami kesan sepanjang Tempoh mantera jika gagal dalam gulungan Rintangan. Dipantera dengan cara ini, Fumble tidak menghasilkan Kawasan Kesan. Dalam kes ini, gulungan Rintangan yang berjaya mengakibatkan mangsa mengalami kesan mantera Pangkat 2, Slow.
+Jampi ini juga boleh disasarkan pada makhluk tertentu, yang akan mengalami kesan sepanjang Tempoh jampi jika lambungan Rintangan gagal. Dirapal dengan cara ini, *Fumble* tidak menghasilkan Kawasan Kesan. Dalam kes ini, lambungan Rintangan yang berjaya mengakibatkan mangsa mengalami kesan jampi Pangkat 2, *Slow*.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 Pusingan; Julat 30 kaki |
-| 2 | 4 | 2 Pusingan; Julat 60 kaki |
-| 3 | 5 | 3 Pusingan; Julat 90 kaki |
-| 4 | 6 | 4 Pusingan; Julat 120 kaki |
+| 1 | 3 | 1 Pusingan; 30 kaki Jarak |
+| 2 | 4 | 2 Pusingan; 60 kaki Jarak |
+| 3 | 5 | 3 Pusingan; 90 kaki Jarak |
+| 4 | 6 | 4 Pusingan; 120 kaki Jarak |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
 #### Gate
 
-(Konjurasi)
+(Conjuration)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 5, Ahli Sihir 5 | **Masa Pemanteraan:** 2 Pusingan |
-| **Sfera:** Seruan | **Tempoh:** Lihat di bawah |
-| **Kos:** 3 +1/Intensiti,+3 EXP | **Julat:** 100 kaki |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Kuasa Minda |
+| **Rank:** Cleric 5, Mage 5 | **Casting Time:** 2 Pusingan |
+| **Sphere:** Seruan | **Duration:** Lihat di bawah |
+| **Cost:** 3 +1/Keamatan,+3 EXP | **Range:** 100 kaki |
+| **Area:** Lihat di bawah | **Resist:** KUR |
 
-Memantera Gate memerlukan pemantera untuk mengetahui nama sebenar entiti yang akan diseru, yang biasanya merupakan makhluk dari satah kewujudan lain, seperti syaitan atau iblis, malaikat, separa tuhan atau malah tuhan. Apabila berjaya dipantera, portal terbuka antara satah pemantera dan satah entiti. Memantera mantera secara automatik mendapat perhatian entiti sama ada berjaya atau sebaliknya. Mantera ini sangat berkuasa dan meletihkan, menelan kos pemantera bukan sahaja 3 Mata Sihir dan 3 Gulungan Pengalaman yang dinyatakan, tetapi juga Menua mereka sebanyak 5% daripada jangka hayat biasa mereka (5 tahun dalam kes pemantera manusia). Jika entiti berjaya dalam gulungan Rintangan, mereka biasanya tidak akan mengganggu untuk datang secara peribadi, walau bagaimanapun, dengan andaian mantera berjaya, 'sesuatu' akan datang melaluinya. Jadual berikut digunakan untuk menentukan beberapa entiti biasa, Kuasa Minda purata mereka, dan hamba tipikal yang akan dihantar sebagai ganti mereka. Pengurus Permainan bebas untuk memilih yang paling sesuai dengan sifat kempen semasa.
+Perapalan Gate memerlukan perapal mengetahui nama sebenar entiti yang akan diseru, yang biasanya merupakan makhluk dari salah satu satah kewujudan lain, seperti syaitan atau iblis, malaikat, dewa kecil atau bahkan tuhan. Apabila berjaya dirapal, portal terbuka antara satah kediaman perapal dan satah entiti tersebut. Merapal jampi secara automatik mendapat perhatian entiti sama ada berjaya atau sebaliknya. Jampi ini sangat berkuasa dan meletihkan, menyebabkan perapal bukan sahaja kehilangan 3 Mata Magis dan 3 Lambungan Pengalaman yang dicatat, tetapi juga Menua mereka 5% daripada jangka hayat biasa mereka (5 tahun dalam kes perapal manusia). Jika entiti berjaya dalam lambungan Rintangan, mereka biasanya tidak akan bersusah payah untuk datang secara peribadi, walau bagaimanapun, dengan andaian jampi itu berjaya, 'sesuatu' akan datang melaluinya. Jadual berikut digunakan untuk menentukan beberapa entiti biasa, KUR purata mereka, dan pelayan biasa yang akan dihantar sebagai ganti mereka. Pengurus Permainan bebas untuk memilih mengikut kesesuaian sifat kempen semasa.
 
-##### Jadual Entiti Satah Luar
+##### Jadual Entiti Satah Tambahan
 
-| Intensiti | Kos | Kesan Pembolehubah | Kuasa Minda |
-| :-: | :-: | :-- | :-: |
-| 1 | 3 | Sub-Syaitan atau Sub-Iblis | Seperti entiti tertentu |
-| 2 | 4 | Iblis Kecil atau Syaitan | Seperti entiti tertentu |
-| 3 | 5 | Iblis Kurang atau Syaitan | Seperti entiti tertentu |
-| 4 | 6 | Iblis Lebih Besar atau Syaitan | Seperti entiti tertentu |
-| 5 | 7 | Putera atau Duke Syaitan/Iblis, Malaikat Agung, atau Separa tuhan | 121-140% |
-| 6 | 8 | Raja Iblis, Arch-Devil, atau Dewa Kecil | 141-160% |
-| 7 | 9 | Dewa Lebih Besar | 161-180% |
+| Keamatan | Kos | Kesan Pembolehubah | KUR |
+| :-: | :-: | :-- | :-- |
+| 1 | 3 | Sub-Syaitan atau Sub-Iblis | Mengikut entiti tertentu |
+| 2 | 4 | Syaitan atau Iblis Kecil | Mengikut entiti tertentu |
+| 3 | 5 | Syaitan atau Iblis Rendah | Mengikut entiti tertentu |
+| 4 | 6 | Syaitan atau Iblis Besar | Mengikut entiti tertentu |
+| 5 | 7 | Putera atau Duke Syaitan/Iblis, Arch Angel, atau Dewa Kecil | 121-140% |
+| 6 | 8 | Tuan Syaitan, Arch-Iblis, atau Dewa Rendah | 141-160% |
+| 7 | 9 | Dewa Besar | 161-180% |
 | 8 | 10 | Dewa Pemerintah | 181% + |
 
-Bentuk tindak balas akan sangat bergantung pada entiti tertentu, Jajaran kedua-dua pihak, dan spesifik permintaan. Jika entiti percaya alasan gangguan itu remeh atau tidak penting, tindak balas mereka boleh jadi apa sahaja daripada sekadar pergi hingga serangan terang-terangan. Walau bagaimanapun, situasi terdesak, terutamanya di mana pemantera diancam oleh sesuatu yang sangat ditentang oleh entiti itu berkemungkinan besar akan mendapat tindak balas yang lebih baik. Jika Pengurus Permainan merasakan terdapat kawasan kelabu, dan tindak balas itu diragui, pemantera dan sekutu mereka boleh cuba membincangkan kes mereka menggunakan gabungan kemahiran, pujian, rayuan, dan/atau rasuah. Walau bagaimanapun, kebanyakan entiti akan mengelak daripada terlibat dalam konflik dengan orang lain yang mempunyai kuasa yang sama atau lebih besar, dan ramai yang akan menuntut bayaran, sama ada sebelum atau selepas perbuatan itu. Pintu gerbang akan kekal terbuka selama entiti memilih untuk kekal di pihak ini, menutup di belakang mereka apabila mereka memutuskan untuk pergi. Sepanjang masa ini, pintu gerbang mungkin dilalui oleh orang lain, menawarkan perjalanan dua hala antara kedua-dua realiti.
+Bentuk respons akan sangat bergantung pada entiti tertentu, Jajaran kedua-dua pihak, dan perincian permintaan. Jika entiti percaya sebab gangguan itu remeh atau tidak penting, respons mereka boleh jadi apa sahaja daripada sekadar pergi hingga serangan langsung. Walau bagaimanapun, situasi terdesak, terutamanya yang mana perapal diancam oleh sesuatu yang sangat ditentang oleh entiti tersebut berkemungkinan akan mendapat respons yang lebih baik. Jika Pengurus Permainan merasakan terdapat kawasan kelabu, dan respons akan menjadi persoalan, perapal dan sekutu mereka boleh cuba berhujah kes mereka menggunakan gabungan kemahiran, pujian, rayuan, dan/atau rasuah. Walau bagaimanapun, kebanyakan entiti akan mengelak daripada ditarik ke dalam konflik dengan pihak lain yang mempunyai kuasa yang sama atau lebih besar, dan ramai yang akan menuntut bayaran, sama ada sebelum atau selepas perbuatan itu. Pintu gerbang akan kekal terbuka selama entiti memilih untuk kekal di sisi ini, tertutup di belakang mereka apabila mereka memutuskan untuk pergi. Pada masa ini, pintu gerbang mungkin dilalui oleh orang lain, menawarkan perjalanan dua hala antara kedua-dua realiti.
 
 ---
 #### Glamour \(R\)
@@ -1367,44 +1361,43 @@ Bentuk tindak balas akan sangat bergantung pada entiti tertentu, Jajaran kedua-d
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Tumpuan |
-| **Kos:** 1 | **Julat:** 60 kaki |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Rank:** Mage 0 | **Casting Time:** 1 Tindakan |
+| **Sphere:** Tiada | **Duration:** Tumpuan |
+| **Cost:** 1 | **Range:** 60 kaki |
+| **Area:** 1 Sasaran | **Resist:** KUR |
 
-Glamour menjadikan sasaran memikat supaya orang secara semula jadi tertarik kepada mereka. Sifat glamour mestilah dipilih apabila dipantera, dan boleh jadi apa sahaja daripada kecantikan semula jadi yang meningkat, suara yang lebih lembut atau malah bau badan yang harum menggoda. Walaupun mantera tidak memberikan faedah mekanikal, ia memastikan bahawa penerima akan mendapat peluang untuk mengumpulkan penonton, menarik perhatian seseorang yang ingin mereka hubungi, atau memberikan gangguan yang membolehkan rakan sejenayah peluang untuk melakukan perbuatan jahat.
+Glamour menjadikan sasaran memikat supaya orang ramai secara semula jadi tertarik kepada mereka. Sifat *glamour* mesti dipilih apabila dirapal, dan boleh jadi apa sahaja daripada kecantikan semula jadi yang dipertingkatkan, suara yang lebih lembut dan menggoda, atau bau badan yang wangi dan menggoda. Walaupun jampi tidak memberikan faedah mekanikal, ia memastikan penerima akan mendapat peluang untuk mengumpulkan penonton, menarik perhatian seseorang yang mereka ingin hubungi, atau menyediakan gangguan yang membolehkan rakan sejenayah peluang untuk melakukan perbuatan jahat.
 
-Apabila diterbalikkan, Repugnance memutarbelitkan penampilan sasaran supaya mereka menyebabkan rasa tidak suka kepada semua yang melihat, mendengar, atau menghidu mereka. Kesan mestilah dipilih apabila dipantera dan boleh jadi apa sahaja daripada ketuat besar di hujung hidung, suara sengau yang bernada tinggi, atau malah bau badan yang menusuk. Apa sahaja yang dipilih, ia akan menyebabkan orang berpaling daripada mangsa atau memberi alasan untuk meninggalkan kehadiran mereka secepat mungkin.
+Apabila diterbalikkan, *Repugnance* memutarbelitkan penampilan sasaran supaya mereka menyebabkan rasa benci dalam semua orang yang melihat, mendengar, atau menghidu mereka. Kesannya mesti dipilih apabila dirapal dan boleh jadi apa sahaja daripada ketuat besar di hujung hidung, suara sengau bernada tinggi atau bau badan yang tajam. Apa sahaja yang dipilih, ia akan menyebabkan orang ramai berpaling daripada mangsa atau memberi alasan untuk meninggalkan kehadiran mereka secepat mungkin.
 
----
-#### Glue
+---#### Gam (Glue)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 0 | **Masa Pemaparan:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** 24 Jam |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 2 Item atau 1 Item Rosak | **Rintangan:** T/A |
+| **Kos:** 1 | **Jarak:** Sentuh |
+| **Kawasan:** 2 Barang atau 1 Barang Rosak | **Rintangan:** T/A |
 
-Glue menyimen bersama dua objek pepejal yang tidak bernyawa untuk Tempoh mantera, sebagai contoh roda pedati pada gandar, atau pintu pada bingkainya. Walaupun di bawah kesan mantera, item-item tersebut, tidak kira betapa berbeza, tidak boleh dipisahkan melainkan sesuatu secara aktif cuba untuk merenggutnya. Dalam keadaan ini, mantera mempunyai kemahiran Otot (Brawn) bersamaan dengan POW pemantera x5 dan gagal apabila Otot yang lebih tinggi ditetapkan terhadapnya, mengalahkannya dalam Gulungan Bertentangan. Setelah mantera berakhir atau gagal, item-item itu berpisah, sama sekali tidak terjejas.
+Gam menyimen dua objek pepejal yang tidak bernyawa bersama-sama untuk Tempoh mantera, sebagai contoh roda pedati pada gandar, atau pintu pada bingkainya. Semasa di bawah kesan mantera, barang-barang tersebut, tidak kira betapa berbezanya, tidak boleh dipisahkan melainkan sesuatu secara aktif cuba merenggutnya. Dalam keadaan ini, mantera tersebut mempunyai kemahiran Brawn yang setara dengan KUR x5 pemantera dan gagal apabila Brawn yang lebih tinggi ditentang dengannya, mengalahkannya dalam Lambungan Bertentangan. Sebaik sahaja mantera tamat atau gagal, barang-barang tersebut terpisah, tanpa sebarang kerosakan.
 
 ---
-#### Haste
+#### Kepantasan (Haste)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 3 Pusingan/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 180 kaki |
-| **Kawasan:** Jejari 20 kaki, 1 Sasaran/Intensiti | **Rintangan:** T/A |
+| **Pangkat:** Mage 2 | **Masa Pemaparan:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 3 Pusingan/Keamatan |
+| **Kos:** 3+1/Keamatan tambahan | **Jarak:** 180 kaki |
+| **Kawasan:** 20 kaki Jejari, 1 Sasaran/Keamatan | **Rintangan:** T/A |
 
-Seorang atau makhluk (termasuk diri sendiri) bagi setiap Intensiti dalam Kawasan Kesan mantera menerima dua kali ganda Kadar Pergerakan normal dan mendapat bonus +4 kepada Inisiatif untuk Tempoh mantera. Selain itu, sasaran boleh memilih 2 Tindakan setiap Pusingan bagi setiap Titik Tindakan yang digunakan. Ini tidak meningkatkan kadar pemanteraan mantera atau Tempoh mantera dalam apa jua cara. Oleh itu, pengguna mantera di bawah kesan Haste tidak akan memantera mantera dengan lebih pantas, atau mendapat manfaat daripada Tindakan tambahan dalam Pusingan yang sama mantera dipantera. Disebabkan metabolisme subjek yang dipercepatkan, setiap pemanteraan mantera ini akan menua sasaran sebanyak 1% daripada jangka hayat biasa mereka, tidak kira Tempohnya. Bagi manusia, itu kira-kira 1 tahun. Lihat peraturan [Penuaan](0007_Game_System.md?id=aging) untuk jangka hayat purata kaum demi-manusia. Memantera Haste akan membatalkan kesan Slow, dan dalam kes ini, tidak akan menua individu tersebut. Haste tidak bertindan dengan dirinya sendiri atau kesan sihir yang serupa.
+Seorang individu atau makhluk (termasuk diri sendiri) bagi setiap Keamatan dalam Kawasan Kesan mantera menerima dua kali ganda Kadar Pergerakan biasa dan mendapat bonus +4 pada Inisiatif untuk Tempoh mantera. Tambahan pula, sasaran boleh memilih 2 Tindakan bagi setiap Pusingan untuk setiap Titik Tindakan yang digunakan. Ini tidak meningkatkan kadar pemaparan mantera atau Tempoh mantera dalam apa jua cara. Oleh itu, pemantera mantera di bawah kesan Kepantasan tidak akan memaparkan mantera dengan lebih cepat, mahupun mendapat manfaat daripada Tindakan tambahan dalam Pusingan yang sama apabila mantera dipaparkan. Disebabkan metabolisme subjek yang dipercepatkan, setiap paparan mantera ini akan menyebabkan subjek berusia 1% daripada jangka hayat biasa mereka, tanpa mengira Tempoh. Bagi manusia, itu kira-kira 1 tahun. Lihat peraturan [Penuaan](0007_Game_System.md?id=aging) untuk jangka hayat purata kaum separa manusia. Paparan Kepantasan akan membatalkan kesan Perlahan, dan dalam kes ini, tidak akan menyebabkan individu tersebut berusia. Kepantasan tidak bertindan dengan dirinya sendiri atau kesan ajaib yang serupa.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
 | 1 | 3 | 3 Pusingan; 1 sasaran |
 | 2 | 4 | 6 Pusingan; 2 sasaran |
@@ -1413,36 +1406,36 @@ Seorang atau makhluk (termasuk diri sendiri) bagi setiap Intensiti dalam Kawasan
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Heal  \(R\)
+#### Sembuh \(R\)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 4 | **Masa Pemanteraan:** 1 Minit |
+| **Pangkat:** Cleric 4 | **Masa Pemaparan:** 1 Minit |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3 +1/Intensiti | **Julat:** Sentuhan |
-| **Kawasan:** 1 Makhluk | **Rintangan:** T/A (Ketahanan atau Mengelak) |
+| **Kos:** 3 +1/Keamatan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Makhluk | **Rintangan:** T/A (Ketahanan atau Elak) |
 
-Dengan pemanteraan Heal, paderi boleh menyembuhkan penyakit fizikal, trauma mental, atau jumlah kecederaan yang ketara dengan satu sentuhan. Tahap pemulihan sebenar adalah berdasarkan Intensiti mantera seperti berikut. Bagi setiap tahap Intensiti, mantera menyembuhkan subjek daripada satu penyakit bagi sebarang POT, menyembuhkan sebarang kebutaan atau pekak, menafikan gangguan mental yang disebabkan oleh kecederaan atau sihir, atau menyembuhkan satu Lokasi Pukulan sehingga 12 mata kerosakan. Walau bagaimanapun, ia tidak akan memulihkan anggota badan yang terputus, kerana itu memerlukan pemanteraan mantera Regenerate. Setiap Intensiti tambahan boleh digunakan untuk menyembuhkan penyakit lain atau menyembuhkan satu lagi Lokasi Pukulan. Oleh itu, memerlukan pemanteraan pada Intensiti 7 untuk menyembuhkan individu yang mengalami kelecuran ke seluruh badannya. Tidak seperti mantera penyembuhan yang lebih rendah yang mengehadkan keberkesanannya terhadap kecederaan jangka panjang, tiada had diletakkan pada mantera oleh Tempoh di mana subjek telah mengalami kesan kecederaan.
+Dengan paparan Sembuh, cleric boleh menyembuhkan penyakit fizikal, trauma mental, atau jumlah kecederaan yang ketara dengan satu sentuhan. Tahap pemulihan sebenar adalah berdasarkan Keamatan mantera seperti berikut. Bagi setiap tahap Keamatan, mantera menyembuhkan subjek daripada satu penyakit dengan sebarang POT, menyembuhkan sebarang kebutaan atau pekak, meniadakan gangguan mental yang disebabkan oleh kecederaan atau sihir, atau menyembuhkan satu Lokasi Kena sehingga 12 mata kerosakan. Walau bagaimanapun, ia tidak akan memulihkan anggota badan yang putus, kerana itu memerlukan paparan mantera Jana Semula. Setiap Keamatan tambahan boleh digunakan untuk menyembuhkan penyakit lain atau menyembuhkan Lokasi Kena yang lain. Oleh itu, ia memerlukan paparan pada Keamatan 7 untuk menyembuhkan individu yang melecur seluruh badannya. Tidak seperti mantera penyembuhan yang lebih rendah yang mengehadkan keberkesanannya terhadap kecederaan jangka panjang, tiada had yang diletakkan pada mantera oleh Tempoh di mana subjek telah mengalami kesan kecederaan.
 
-Apabila diterbalikkan, Harm memberikan 12 mata kecederaan sihir kepada satu daripada Lokasi Pukulan mangsa pada gulungan yang gagal untuk menentang. Alternatifnya, penyakit didatangkan kepada mereka, kesannya sama seperti mantera Cause Disease, pembalikan Cure Disease, tetapi pada POT +20. Gulungan Saluran (Channel) pemantera berfungsi sebagai gulungan untuk menyerang lawan mereka dan dianggap sebagai sebahagian daripada keperluan somatik mantera. Tiada gulungan tambahan untuk menyerang diperlukan. Baik perisai yang dipakai mahupun semula jadi tidak menawarkan sebarang perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa, dan menyekat sepenuhnya penyakit yang didatangkan. Setiap Intensiti tambahan menjejaskan satu lagi Lokasi Pukulan yang bersambung dengan yang pertama, dengan kesan seperti yang ditentukan oleh gulungan Rintangan awal. Kedua-dua versi mantera ini tidak memberi kesan kepada mayat hidup, makhluk yang hanya dicederakan oleh besi, perak, atau senjata sihir, atau makhluk bukan bertubuh fizikal.
+Apabila diterbalikkan, Bahaya memberikan 12 mata kecederaan ajaib kepada salah satu Lokasi Kena mangsa jika lambungan untuk menentang gagal. Sebagai alternatif, penyakit ditimpakan ke atas mereka, yang kesannya sama seperti mantera Punca Penyakit, iaitu terbalikan daripada Sembuh Penyakit, tetapi pada +20 POT. Lambungan Saluran pemantera berfungsi sebagai lambungan untuk mengenai lawan mereka dan dianggap sebahagian daripada keperluan somatik mantera. Tiada lambungan tambahan untuk mengenai diperlukan. Baik perisai yang dipakai mahupun semula jadi tidak menawarkan perlindungan, tetapi Titik Perisai ajaib mengurangkan kerosakan secara normal, dan menyekat penyakit yang ditimpakan sepenuhnya. Setiap Keamatan tambahan menjejaskan Lokasi Kena lain yang bersebelahan dengan yang pertama, dengan kesan seperti yang ditentukan oleh lambungan Rintangan awal. Kedua-dua versi mantera ini tidak mempunyai kesan ke atas mayat hidup, makhluk yang hanya boleh dicederakan oleh senjata besi, perak, atau ajaib, atau makhluk bukan jasad.
 
 ---
-#### Hold Person
+#### Tahan Orang
 
-(Enchantment (Pesona))
+(Pesona (Pukau))
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2, Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Pesona | **Tempoh:** 2 Pusingan/Intensiti |
-| **Kos:** 3+1/Intensiti tambahan | **Julat:** 360 kaki. |
-| **Kawasan:** Jejari 20 kaki | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Cleric 2, Mage 2 | **Masa Pemaparan:** 2 Tindakan |
+| **Sfera:** Pukau | **Tempoh:** 2 Pusingan/Keamatan |
+| **Kos:** 3+1/Keamatan tambahan | **Jarak:** 360 kaki |
+| **Kawasan:** 20 kaki Jejari | **Rintangan:** Kekuatan Kehendak |
 
-Mantera ini membolehkan pemantera melumpuhkan 1 makhluk humanoid bagi setiap Intensiti dalam Kawasan Kesan. Gulungan yang berjaya untuk menentang menafikan kesan mantera sepenuhnya untuk sasaran itu sahaja. Humanoid besar (SIZ 21-40) kurang terdedah kepada Hold Person, dengan gulungan Rintangan mereka menjadi Mudah, manakala gulungan Rintangan untuk humanoid sangat besar (SIZ 41+) adalah Sangat Mudah. Semasa ditahan, makhluk yang terjejas sama sekali tidak berdaya dan tiada apa-apa selain Dispel Magic akan membebaskan mereka lebih awal.
+Mantera ini membolehkan pemantera melumpuhkan 1 makhluk humanoid bagi setiap Keamatan dalam Kawasan Kesan. Lambungan yang berjaya untuk menentang akan meniadakan kesan mantera sepenuhnya untuk sasaran itu sahaja. Humanoid besar (SAI 21-40) kurang terdedah kepada Tahan Orang, dengan lambungan Rintangan mereka menjadi Mudah, manakala lambungan Rintangan untuk humanoid Gergasi (SAI 41+) adalah Sangat Mudah. Semasa ditahan, makhluk yang terjejas sama sekali tidak berdaya dan tiada apa-apa selain Tanggal Sihir yang akan membebaskan mereka lebih awal.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
 | 1 | 3 | 2 Pusingan; 1 sasaran |
 | 2 | 4 | 4 Pusingan; 2 sasaran |
@@ -1451,323 +1444,338 @@ Mantera ini membolehkan pemantera melumpuhkan 1 makhluk humanoid bagi setiap Int
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Holy Word \(R\)
+#### Kata Suci \(R\)
 
-(Konjurasi)
+(Seruan)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 5 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tempur | **Tempoh:** Lihat di bawah |
-| **Kos:** 3, +1 EXP | **Julat:** 0 |
-| **Kawasan:** Jejari 30 kaki | **Rintangan:** T/A |
+| **Pangkat:** Cleric 5 | **Masa Pemaparan:** 1 Tindakan |
+| **Sfera:** Tempur | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1 EXP | **Jarak:** 0 |
+| **Kawasan:** 30 kaki Jejari | **Rintangan:** T/A |
 
-Apabila mantera ini dipantera, paderi mengucapkan kata kuasa suci yang luar biasa, mampu menghalau entiti jahat dari satah kewujudan lain; walau bagaimanapun, pemantera mestilah berada di satah mereka sendiri untuk berbuat demikian. Makhluk yang terjejas dihantar kembali ke satah asal mereka dan tidak boleh kembali ke satah pemantera selama sekurang-kurangnya 24 jam.
+Apabila mantera ini dipaparkan, cleric melafazkan kata kuasa ketuhanan yang luar biasa, yang mampu menghalau entiti jahat dari satah kewujudan lain; walau bagaimanapun, pemantera mestilah berada di satah mereka sendiri untuk berbuat demikian. Makhluk yang terjejas dihantar balik ke satah asal mereka dan tidak boleh kembali ke satah pemantera sekurang-kurangnya selama 24 jam.
 
-Selain itu, makhluk bukan satah dengan Jajaran Jahat mengalami kesan tambahan bergantung pada Pangkat atau SIZ entiti, yang mana memberikan hasil yang lebih berfaedah, seperti yang diperincikan pada jadual berikut.
+Tambahan pula, makhluk bukan satah yang Berjajar Jahat mengalami kesan tambahan bergantung pada Pangkat atau SAI entiti, yang mana memberikan hasil yang lebih berfaedah, seperti yang diperincikan dalam jadual berikut.
 
-| Pangkat Sasaran | SIZ Sasaran | Umum | Kemahiran\*\* | Pergerakan |
+| Pangkat Sasaran | SAI Sasaran | Umum | Kemahiran\*\* | Pergerakan |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | Membunuh | - | - |
 | 2 | 21-40 | Melumpuhkan 1d4 x10 Minit | - | - |
 | 3 | 41-60 | Memperlahankan 2d4 Pusingan \*\*\* | Sukar | ½ |
-| 4-5 | 61+ | Memekakkan 1d4 Pusingan | Hebat | ¼ |
+| 4-5 | 61+ | Memekakkan 1d4 Pusingan | Menggerunkan | ¼ |
 
 _\* Kategori ini termasuk watak yang tidak mempunyai Kelas._
 
-_\*\* Semua kemahiran, termasuk pertempuran, gulungan Rintangan, dan pemanteraan mantera._
+_\*\* Semua kemahiran, termasuk tempur, lambungan Rintangan, dan pemaparan mantera._
 
-_\*\*\* Seperti mantera Arcane Pangkat 2, [Slow](0010_Spells.md?id=slow)._
+_\*\*\* Seperti mengikut mantera Arcane Pangkat 2, [Perlahan](0010_Spells.md?id=slow)._
 
-Makhluk yang telah pekak sebelum ini atau sebaliknya tidak dapat mendengar mantera tidak terjejas oleh kesan yang diperincikan dalam jadual, walau bagaimanapun, entiti satah lain tetap dihalau seperti yang diperincikan di atas.
+Makhluk yang telah pun pekak atau tidak dapat mendengar mantera tidak terjejas oleh kesan yang diperincikan dalam jadual, walau bagaimanapun, entiti satah lain tetap dihalau seperti yang diperincikan di atas.
 
-Apabila diterbalikkan, Unholy Word berfungsi seperti di atas, walau bagaimanapun hanya berkaitan dengan makhluk dengan Jajaran Baik.
+Apabila diterbalikkan, Kata Tidak Suci berfungsi seperti di atas, walau bagaimanapun hanya berkaitan dengan makhluk yang Berjajar Baik.
 
 ---
-#### Ice Storm
+#### Ribut Ais
 
 (Evokasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Lihat di bawah |
+| **Pangkat:** Mage 3 | **Masa Pemaparan:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 30 kaki/Keamatan |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** Lihat di Bawah |
 
-Ice Storm mempunyai dua kesan, salah satunya dipilih apabila mantera dipantera:
+Ribut Ais mempunyai dua kesan, salah satunya dipilih apabila mantera dipaparkan:
 
-Batu Hujan (Tempoh: Segera): Varian mantera ini menyebabkan bola hujan yang besar turun di kawasan sejauh 60 kaki dalam jejari. Mereka yang terperangkap di kawasan itu mengambil 1d10 mata kerosakan bagi setiap 2 mata Intensiti, atau sebahagian daripadanya. Setiap dadu kerosakan digulung secara individu dan digunakan pada Lokasi Pukulan rawak. Makhluk yang menggunakan api mengambil +3 kerosakan daripada setiap serangan hujan, dan makhluk yang menggunakan sejuk mengambil separuh kerosakan. Perisai yang dipakai hanya menawarkan separuh perlindungan, tetapi perisai semula jadi makhluk (atau sihir atau Mata Perisai sihir) mengurangkan kerosakan seperti biasa. Gulungan Mengelak (Evade), menjatuhkan diri dalam keadaan meniarap, hanya berkesan jika dalam jarak 5 kaki dari perlindungan atau dari pinggir Kawasan Kesan. Jika tidak, adalah mustahil untuk mengelakkan kerosakan. Kejayaan dalam Mengelak membolehkan mangsa mengalami separuh kerosakan daripada setiap gulungan. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa meniarap, dan jika dalam 5 kaki dari perlindungan atau pinggir Kawasan Kesan, akan mengambil kerosakan sifar pada gulungan yang berjaya, jika tidak, mereka mengambil kerosakan seperti biasa.
+Batu Hujan (Tempoh: Segera): Varian mantera ini menyebabkan ketulan hujan batu yang besar turun di kawasan berjejari 60 kaki. Mereka yang terperangkap di kawasan tersebut mengambil 1d10 mata kerosakan bagi setiap 2 mata Keamatan, atau sebahagian daripadanya. Setiap dadu kerosakan dilambung secara individu dan digunakan pada Lokasi Kena rawak. Makhluk yang menggunakan api mengambil +3 kerosakan daripada setiap serangan hujan batu, dan makhluk yang menggunakan sejuk mengambil separuh kerosakan. Perisai yang dipakai hanya menawarkan separuh perlindungan, tetapi perisai semula jadi makhluk (atau Titik Perisai ajaib) mengurangkan kerosakan seperti biasa. Lambungan Elak, dengan menjatuhkan diri tertiarap, hanya berkesan jika berada dalam jarak 5 kaki dari perlindungan atau dari pinggir Kawasan Kesan. Jika tidak, mustahil untuk mengelakkan kerosakan. Kejayaan dalam Elak membolehkan mangsa mengalami separuh kerosakan daripada setiap lambungan. Seseorang yang mempunyai Kebolehan Penipu Berseni mempunyai pilihan untuk Elak tanpa menjatuhkan diri tertiarap, dan jika berada dalam jarak 5 kaki dari perlindungan atau pinggir Kawasan Kesan, tidak akan mengambil kerosakan jika lambungan berjaya, jika tidak, mereka mengambil kerosakan seperti biasa.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Julat 30 kaki; 1d10 kerosakan |
-| 2 | 4 | Julat 60 kaki; 1d10 kerosakan |
-| 3 | 5 | Julat 90 kaki; 2d10 kerosakan |
-| 4 | 6 | Julat 120 kaki; 2d10 kerosakan |
-| 5 | 7 | Julat 150 kaki; 3d10 kerosakan |
+| 1 | 3 | 30 kaki Jarak; 1d10 kerosakan |
+| 2 | 4 | 60 kaki Jarak; 1d10 kerosakan |
+| 3 | 5 | 90 kaki Jarak; 2d10 kerosakan |
+| 4 | 6 | 120 kaki Jarak; 2d10 kerosakan |
+| 5 | 7 | 150 kaki Jarak; 3d10 kerosakan |
 | +1 | +1 | Teruskan perkembangan |
 
-Driving Sleet (Tempoh: 1 Pusingan/Intensiti): Varian mantera ini mencipta hujan salji lebat yang memukul kawasan seperti laluan selebar 60 kaki, dan sepanjang 120 kaki, membutakan mereka yang terjejas. Laluan sebenar boleh ditetapkan oleh ahli sihir apabila mantera dipantera. Selain itu, tanah di kawasan yang terjejas membeku, melambatkan Kadar Pergerakan sebanyak 50%, dan menjatuhkan makhluk terbang yang gagal dalam gulungan kemahiran Fly yang Hebat. Mereka yang berada di tanah mestilah berjaya dalam gulungan Atletik setiap Pusingan untuk menentang jatuh meniarap, dengan gulungan menjadi dua gred lebih sukar jika bergerak lebih pantas daripada berjalan. Watak yang mempunyai Akrobatik boleh menggantikan kemahiran itu jika dikehendaki. Ais akan cair selepas Tempoh mantera berakhir pada kadar yang ditentukan oleh Pengurus Permainan, bergantung pada suhu ambien; walau bagaimanapun, walaupun dalam cuaca panas ia akan bertahan sekurang-kurangnya 10 minit. Api kecil, seperti unggun api dan obor, dipadamkan secara automatik. Mantera ini akan menafikan kesan mantera Heat Metal.
+Hujan Sleet (Tempoh: 1 Pusingan/Keamatan): Varian mantera ini menghasilkan hujan sleet yang menderu melalui kawasan berbentuk laluan selebar 60 kaki, dan sepanjang 120 kaki, membutakan mereka yang terjejas. Laluan sebenar boleh ditetapkan oleh pengguna sihir apabila mantera dipaparkan. Tambahan pula, tanah di kawasan yang terjejas diliputi ais, memperlahankan Kadar Pergerakan sebanyak 50%, dan menjatuhkan makhluk terbang yang gagal lambungan kemahiran Terbang yang Menggerunkan. Mereka yang berada di tanah mestilah berjaya dalam lambungan Atletik setiap Pusingan untuk menentang daripada jatuh tertiarap, dengan lambungan menjadi dua gred lebih sukar jika bergerak lebih laju daripada berjalan. Watak yang mempunyai Akrobatik boleh menggantikan kemahiran itu jika diingini. Ais akan cair selepas Tempoh mantera tamat pada kadar yang ditentukan oleh Games Master, bergantung pada suhu persekitaran; walau bagaimanapun, walaupun dalam cuaca panas ia akan bertahan sekurang-kurangnya 10 minit. Api kecil, seperti unggun api dan obor, dipadamkan secara automatik. Mantera ini akan meniadakan kesan mantera Panaskan Logam.
 
 ---
-#### Ignite \(R\)
-
-(Transmutasi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Unsur (Api) | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** 10 kaki |
-| **Kawasan:** 1 Api Kecil | **Rintangan:** T/A |
-
-Mantera ini boleh digunakan dalam dua cara berasingan, sama ada untuk Ignite atau Extinguish. Pilihan yang mana satu dibuat apabila dipantera.
-
-Ignite hanya berfungsi pada bahan bukan organik yang mudah terbakar, menyebabkan objek kecil atau kawasan sebesar tangan terbakar. Bergantung pada apa yang dibakar, setelah terbakar, api itu mungkin merebak melainkan dipadamkan atau ditentang dalam beberapa cara. Mantera ini biasanya digunakan untuk menyalakan lilin, obor, atau tanglung dari jauh. Ia juga boleh digunakan untuk memulakan api unggun atau api memasak dalam keadaan buruk, seperti menggunakan kayu api yang lembap atau dalam angin kencang.
-
-Extinguish serta-merta memadamkan api dan kebakaran kecil yang bersaiz dan haba yang sederhana. Ia berguna untuk memadamkan lilin, tanglung, obor, atau api memasak kecil, tetapi ia tidak akan berfungsi pada mantera sihir atau kebakaran yang lebih ganas, seperti unggun mayat, rumah yang terbakar, atau api naga.
-
----
-#### Illusion
-
-(Ilusi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Tumpuan; Lihat di bawah |
-| **Kos:** 1/Intensiti | **Julat:** 100 kaki/Intensiti |
-| **Kawasan:** Jejari 50 kaki/Intensiti | **Rintangan:** Tidak percaya |
-
-Mantera ini mencipta ilusi visual tentang apa sahaja yang diingini oleh pemantera. Ia tidak mempunyai kesan ke atas deria lain, tidak mengeluarkan bunyi, menghasilkan bau, suhu, atau tekstur, dan sebagainya.
-
-Ilusi ini mungkin tentang apa sahaja daripada padang rumput terbuka hingga naga merah purba, jika ia muat dalam Kawasan Kesan mantera. Ilusi akan berlangsung hanya selama pemantera mengekalkan Tumpuan, atau sekali lawan menyentuh atau memasukinya; berbuat demikian menyebabkan sihir yang mengekalkannya terurai dan ilusi itu hilang. Walau bagaimanapun, pemantera boleh mengekalkan ilusi selepas sentuhan fizikal, dengan membelanjakan 1 Mata Sihir dan mengarahkannya untuk bertindak balas dengan sewajarnya terhadap sentuhan itu supaya tidak menimbulkan syak wasangka. Sebagai contoh, di bawah keadaan biasa, ilusi ogre akan lenyap dari kewujudan apabila terkena anak panah; walau bagaimanapun, pemantera boleh membuat ogre itu kelihatan mengangkat bahu terhadap serangan itu dan menyerang penyerang dengan membelanjakan 1 Mata Sihir. Harus diingat bahawa anak panah sebenar tidak dihentikan oleh ilusi dan mungkin masih terkena sesuatu atau seseorang di belakang manifestasi itu.
-
-Walaupun tiada kerosakan sebenar boleh dilakukan oleh ilusi, mahupun sebarang suhu yang dicipta, minda boleh diyakinkan bahawa ia berasa sakit, mengalami kesan kecederaan, atau berasa ekstrem panas atau sejuk; walau bagaimanapun, objek tidak akan kelihatan membeku atau terbakar, melainkan pemantera menumpukan perhatian pada kesan-kesan ini juga. Sebaik sahaja mantera telah dipantera, kesan visual tambahan boleh ditambah oleh pengguna sihir sesuka hati dengan menumpukan perhatian pada kesan yang diingini. Ini biasanya tidak mengambil masa dan boleh dikendalikan sebagai Tindakan Percuma. Jadi, sebagai contoh, jika pemantera ingin obor ilusi yang terjatuh menyebabkan daun kering kelihatan terbakar, pemantera boleh menumpukan perhatian sebagai Tindakan Percuma untuk berbuat demikian.
-
-Lihat bab [Ilusi dan Fantasma](0009_Magic.md?id=illusions-and-phantasms) untuk maklumat lanjut.
-
-| Intensiti | Kos | Kesan Pembolehubah |
-| :-: | :-: | :-- |
-| 1 | 1 | Jejari 50 kaki; Julat 100 kaki |
-| 2 | 2 | Jejari 100 kaki; Julat 200 kaki |
-| 3 | 3 | Jejari 150 kaki; Julat 300 kaki |
-| 4 | 4 | Jejari 200 kaki; Julat 400 kaki |
-| +1 | +1 | Teruskan perkembangan |
-
----
-#### Invisibility
-
-(Ilusi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 6 jam/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
-
-Apabila mantera ini dipantera, subjek dan mana-mana gear yang dibawa hilang, halimunan kepada semua bentuk penglihatan normal. Walau bagaimanapun, ini tidak menjadikan individu itu tidak dapat dikesan dengan cara lain seperti pendengaran, sentuhan, bau, dan sebagainya, atau dengan Kebolehan semula jadi seperti Deria Kehidupan atau Sonar.
-
-Mereka yang berada di bawah kesan Invisibility kekal sedemikian sepanjang Tempoh mantera (maks. 24 jam), melainkan dibatalkan atau subjek membuat serangan, yang mana mantera dibatalkan, dan individu itu muncul semula _selepas_ serangan. Sasaran akan dianggap di bawah kesan [Kejutan](0008_Combat.md?id=surprise). Tiada tindakan lain menjejaskan Tempoh mantera secara negatif, membolehkan subjek membuka pintu, bercakap, memanjat, berlari, menyeluk saku, dan sebagainya. Malah pemanteraan mantera tidak akan menamatkan Tempoh melainkan ia menjejaskan satu atau lebih musuh secara negatif dalam pertempuran. Banyak tindakan yang disebutkan sebelum ini boleh membolehkan cara pengesanan lain, seperti kemungkinan pemeriksaan Persepsi untuk mendengar seseorang berlari melepasi, atau untuk merasakan poket diseluk. Pengurus Permainan akan menetapkan penalti atau bonus kepada mereka yang cuba melakukan pengesanan mengikut betapa ketara tindakan tersebut.
-
----
-#### Invisibility, 10 ft. Radius
-
-(Ilusi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 6 Jam/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran, 10 kaki | **Rintangan:** T/A |
-
-Mantera ini berfungsi sama seperti mantera [Invisibility](0010_Spells.md?id=invisibility); walau bagaimanapun, semua individu dalam jarak 10 kaki dari penerima (yang boleh jadi pemantera sendiri) apabila mantera dipantera juga menjadi halimunan. Mereka yang berada di bawah kesan mantera boleh melihat satu sama lain; walau bagaimanapun, ini tidak memberikan keupayaan untuk melihat makhluk halimunan lain. Jika ada yang bergerak keluar dari Kawasan Kesan, Invisibility mereka hilang, oleh itu, penjagaan mesti diambil untuk memastikan semua orang berada dalam julat subjek asal. Mereka yang bergerak kembali ke dalam Kawasan Kesan selepas Invisibility mereka hilang, atau tidak hadir apabila dipantera, tidak mendapat manfaat daripada kesannya. Serangan yang dibuat daripada perlindungan Invisibility, termasuk pemanteraan mantera serangan oleh sesiapa selain subjek asal, mengganggu Invisibility bagi orang tersebut tetapi tidak memberi kesan kepada watak lain dalam Kawasan Kesan. Walau bagaimanapun, serangan yang dibuat oleh penerima asal mantera menjadikan semua orang kelihatan semula. Lihat mantera [Invisibility](0010_Spells.md?id=invisibility) asas untuk butiran lanjut.
-
----
-#### Invisibility, Greater
-
-(Ilusi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 3 Pusingan/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
-
-Mantera ini berfungsi seperti mantera [Invisibility](0010_Spells.md?id=invisibility) asas; walau bagaimanapun, tiada tindakan yang diambil oleh subjek akan menamatkan Tempoh lebih awal. Sasaran boleh membuat serangan jarak dekat atau jarak jauh, memantera mantera, dan sebagainya. Perhatikan bahawa terdapat petunjuk visual bahawa tindakan telah berlaku, seperti herotan visual. Ini membolehkan sesiapa yang mempunyai jarak penglihatan terhadap subjek membuat gulungan Persepsi Hebat (Formidable) selepas tindakan diambil, atau mungkin sebelum jika watak itu ditangguhkan, untuk membezakan lokasi penyerang halimunan tersebut. Serangan pada satu gred kesukaran boleh dibuat dalam Pusingan yang sama subjek bertindak oleh mereka yang melihat lokasi orang halimunan tersebut. Lihat mantera [Invisibility](0010_Spells.md?id=invisibility) untuk butiran lanjut.
-
----
-#### Ironhand
-
-(Abjurasi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Paderi 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Perlindungan | **Tempoh:** 10 Minit |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
-
-Ironhand membolehkan penerima memegang apa sahaja yang sebaliknya akan menyebabkan kerosakan (seperti barangan yang sangat panas atau sejuk, atau yang menitiskan asid) tanpa menyebabkan kecederaan kepada diri sendiri. Oleh itu, pengguna boleh menggenggam bara dari api, mengangkat kuali mendidih dari spit, atau malah mencapai melalui lubang wap untuk mengambil objek di seberang. Ia tidak memberikan imuniti total daripada kerosakan, ia hanya menghalang daripada mengalir melalui kulit tangan penerima. Mantera tidak melindungi apa-apa yang dipakai pada tangan, jadi cincin, sarung tangan, dan sebagainya akan mengalami kesan sumber tersebut.
-
----
-#### Knock \(R\)
-
-(Transmutasi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 1/Intensiti | **Julat:** 180 kaki |
-| **Kawasan:** 1 Portal | **Rintangan:** T/A |
-
-Mantera ini boleh dipantera untuk membuka satu pintu atau bukaan lain yang serupa daripada kayu, batu, atau logam jika dikunci, tersekat, Ditahan (Held), atau Mage Locked. Ia tidak mempunyai kesan ke atas jeriji (portcullis) atau pintu pagar. Pintu boleh mempunyai sehingga 25 Mata Hit bagi setiap Intensiti, dan boleh termasuk peti atau kotak berkunci, pintu rahsia, dan malah gari serta rantai. Malah bukaan yang dikimpal tertutup sebelum ini akan terlepas daripada ikatan mereka. Maksimum dua aspek berbeza boleh terjejas oleh pemanteraan Knock, sebagai contoh, pintu yang dipalang, dikunci, dan Ditahan akan memerlukan pemanteraan 2 mantera Knock. Terhadap pintu Mage Locked, Enchantment hanya digantung selama 10 minit selepas itu ia kembali ke keadaan terkunci secara sihir.
-
-Apabila diterbalikkan, Lock menutup dan mengunci satu portal seperti yang dinyatakan di atas dengan andaian terdapat mekanisme penguncian. Sehingga dua fungsi berbeza, kunci, selak, palang, dan sebagainya, boleh ditetapkan.
-
-| Intensiti | Kos | Kesan Pembolehubah |
-| :-: | :-: | :-- |
-| 1 | 1 | sehingga 25 HP portal; gari, kunci pendayung, peti atau pintu kayu biasa |
-| 2 | 2 | sehingga 50 HP portal; peti atau pintu kayu yang diperkukuh |
-| 3 | 3 | sehingga 75 HP portal; peti atau pintu besi |
-
----
-#### Know Alignment \(R\)
+#### Kenal Pasti
 
 (Divinasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1, Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Divinasi | **Tempoh:** 1 Pusingan/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 30 kaki |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 1 | **Masa Pemaparan:** 1 Minit |
+| **Sfera:** Perlindungan | **Tempoh:** 1 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** Pemantera | **Rintangan:** T/A |
 
-Mantera ini membolehkan pemantera membezakan Jajaran dan Nafsu satu makhluk, yang mendapat gulungan untuk menentang. Jika gulungan untuk menentang gagal, pemantera akan menilik Kod Etika sasaran berkenaan Undang-undang, Berkecuali, dan Kekacauan. Menumpukan perhatian selama satu Pusingan lagi diperlukan untuk membezakan Jajaran moral sasaran berkenaan Baik, Berkecuali, dan Jahat. Setiap Pusingan tambahan selepas ini akan membezakan satu lagi Nafsu yang tinggal secara rawak. Pengurus Permainan mendedahkan 'kekuatan' Jajaran dan Nafsu yang ditemui sasaran mengikut jadual berikut:
+Dengan paparan mantera ini, pengguna sihir boleh cuba mengenal pasti sifat ajaib (jika ada) satu barang atau objek yang dipegang. Sekadar menyentuh barang tersebut biasanya tidak mencukupi, barang itu mestilah dipakai atau dipegang selaras dengan reka bentuknya, contohnya, topi keledar mestilah dipakai di kepala, azimat disarungkan ke leher, senjata jarak dekat dipegang dengan kemas, cincin diletakkan pada jari, dan sebagainya. Jika lambungan Paparan Arcane berjaya, lambungan Pengetahuan Arcane susulan akan mengenal pasti satu sifat ajaib yang dimiliki oleh barang tersebut. Satu percubaan Pengetahuan Arcane boleh dibuat setiap minit sepanjang Tempoh mantera. Jika sesuatu sifat memerlukan kata pengaktifan, ini juga akan dikenal pasti bersama dengan sifat tersebut. Barang dengan cas akan mendedahkan jumlah yang tersedia pada masa ini, bersama dengan maksimum biasa, begitu juga dengan barang yang mempunyai matriks Titik Sihir.
+
+Barang sumpahan biasanya diaktifkan apabila peralatan mula-mula dipakai atau digunakan; oleh itu, paparan mantera ini akan mendedahkan pengguna sihir kepada kesan sebarang sumpahan jika ada. Jika ujian kemahiran Paparan Arcane berjaya, pengguna sihir dibenarkan melakukan ujian Kekuatan Kehendak untuk mengelakkan kesan sebarang sumpahan. Ini tidak menanggalkan sumpahan pada objek tersebut, walau bagaimanapun, ia membolehkan pemantera menanggalkan barang tersebut tanpa terjejas.
+
+Permata mutiara yang bernilai sekurang-kurangnya 100GP dikisar menjadi debu dan digunakan bersama komponen mantera lain yang biasa untuk memaparkan mantera ini. Jika Batu Tuah dijadikan serbuk dan ditambah ke dalam campuran, kesukaran lambungan Paparan Arcane adalah normal dan semua sifat ajaib bagi mana-mana satu barang yang dipegang setiap minit sepanjang Tempoh mantera akan dipelajari secara automatik, tanpa memerlukan lambungan lanjut.
+
+---
+#### Nyalakan \(R\)
+
+(Transmutasi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 0 | **Masa Pemaparan:** 1 Tindakan |
+| **Sfera:** Unsur (Api) | **Tempoh:** Segera |
+| **Kos:** 1 | **Jarak:** 10 kaki |
+| **Kawasan:** 1 Api Kecil | **Rintangan:** T/A |
+
+Mantera ini boleh digunakan dalam dua cara berasingan, sama ada untuk Menyalakan atau Memadamkan. Pilihan yang mana satu dibuat apabila dipaparkan.
+
+Nyalakan hanya berfungsi pada bahan bukan organik yang mudah terbakar, menyebabkan objek kecil atau kawasan sebesar tangan meletus menjadi api. Bergantung pada apa yang dinyalakan, apabila terbakar, api mungkin kemudian merebak melainkan dipadamkan atau ditentang dalam apa jua cara. Mantera ini biasanya digunakan untuk menyalakan lilin, obor, atau pelita dari jauh. Ia juga boleh digunakan untuk memulakan unggun api atau api memasak dalam keadaan buruk, seperti menggunakan kayu api yang lembap atau dalam angin kencang.
+
+Padamkan serta-merta memadamkan nyalaan dan api kecil dengan saiz dan haba yang sederhana. Ia berguna untuk memadamkan lilin, pelita, obor, atau api memasak kecil, tetapi ia tidak akan berfungsi pada api ajaib atau yang lebih besar dan lebih ganas seperti unggun pembakaran mayat, rumah yang terbakar, atau api naga.
+
+---
+#### Ilusi
+
+(Ilusi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 1 | **Masa Pemaparan:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Penumpuan; Lihat di Bawah |
+| **Kos:** 1/Keamatan | **Jarak:** 100 kaki/Keamatan |
+| **Kawasan:** 50 kaki Jejari/Keamatan | **Rintangan:** Tidak Percaya |
+
+Mantera ini mencipta ilusi visual bagi apa sahaja yang diingini oleh pemantera. Ia tidak mempunyai kesan pada deria lain, tidak menghasilkan bunyi, tiada bau, suhu, atau tekstur, dan sebagainya.
+
+Ilusi ini boleh menjadi apa sahaja daripada padang terbuka kepada naga merah purba, jika ia muat dalam Kawasan Kesan mantera. Ilusi akan bertahan selagi pemantera mengekalkan Penumpuan, atau sebaik sahaja lawan menyentuh atau memasukinya; berbuat demikian menyebabkan sihir yang mengekalkannya terurai dan ilusi hilang. Walau bagaimanapun, pemantera boleh mengekalkan ilusi selepas sentuhan fizikal, dengan membelanjakan 1 Titik Sihir dan mengarahkannya untuk bertindak balas dengan sewajarnya terhadap sentuhan tersebut supaya tidak menimbulkan syak wasangka. Sebagai contoh, di bawah keadaan biasa, ilusi ogre akan hilang apabila terkena anak panah; walau bagaimanapun, pemantera boleh membuatkan ogre itu kelihatan seperti mengendahkan pukulan tersebut dan menerpa penyerang dengan membelanjakan 1 Titik Sihir. Perlu diingat bahawa anak panah sebenar tidak dihentikan oleh ilusi dan mungkin masih mengenai sesuatu atau seseorang di belakang manifestasi tersebut.
+
+Walaupun tiada kerosakan sebenar boleh dilakukan oleh ilusi, mahupun suhu dihasilkan, minda boleh diyakinkan bahawa ia berasa sakit, mengalami kesan kecederaan, atau berasa haba atau sejuk yang melampau; walau bagaimanapun, objek tidak akan kelihatan membeku atau terbakar, melainkan pemantera menumpukan perhatian pada kesan ini juga. Sebaik sahaja mantera telah dipaparkan, kesan visual tambahan boleh ditambah oleh pengguna sihir mengikut kehendak dengan menumpukan perhatian pada kesan yang diingini. Ini biasanya tidak mengambil masa dan boleh dikendalikan sebagai Tindakan Bebas. Jadi, sebagai contoh, jika pemantera ingin membuatkan obor ilusi yang dijatuhkan menyebabkan daun kering kelihatan terbakar, pemantera boleh menumpukan perhatian sebagai Tindakan Bebas untuk berbuat demikian.
+
+Lihat bab [Ilusi dan Fantasma](0009_Magic.md?id=illusions-and-phantasms) untuk maklumat lanjut.
+
+| Keamatan | Kos | Kesan Pembolehubah |
+| :-: | :-: | :-- |
+| 1 | 1 | 50 kaki jejari; 100 kaki Jarak |
+| 2 | 2 | 100 kaki jejari; 200 kaki Jarak |
+| 3 | 3 | 150 kaki jejari; 300 kaki Jarak |
+| 4 | 4 | 200 kaki jejari; 400 kaki Jarak |
+| +1 | +1 | Teruskan perkembangan |
+
+---
+#### Halimunan
+
+(Ilusi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 1 | **Masa Pemaparan:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 6 jam/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+
+Apabila mantera ini dipaparkan, subjek dan sebarang peralatan yang dibawa hilang, halimunan kepada semua bentuk penglihatan biasa. Walau bagaimanapun, ini tidak menjadikan individu tersebut tidak dapat dikesan melalui cara lain seperti pendengaran, sentuhan, bau, dan sebagainya, atau melalui Kebolehan semula jadi seperti Deria Hayat atau Sonar.
+
+Mereka yang berada di bawah kesan Halimunan kekal begitu sepanjang Tempoh mantera (maks. 24 jam), melainkan dibatalkan atau subjek melakukan serangan, yang mana mantera tersebut terbatal, dan individu tersebut muncul semula _selepas_ serangan. Sasaran akan dianggap di bawah kesan [Kejutan](0008_Combat.md?id=surprise). Tiada tindakan lain yang menjejaskan Tempoh mantera secara negatif, membolehkan subjek membuka pintu, bercakap, memanjat, berlari, menyeluk saku, dan sebagainya. Malah paparan mantera tidak akan menamatkan Tempoh melainkan ia menjejaskan satu atau lebih musuh tertentu dalam tempur secara negatif. Banyak tindakan yang disebutkan sebelum ini boleh membolehkan cara pengesanan lain, seperti lambungan Persepsi yang mungkin untuk mendengar seseorang berlari melepasi, atau untuk merasakan saku sedang diseluk. Games Master akan memberikan penalti atau bonus kepada mereka yang cuba melakukan pengesanan mengikut betapa ketara tindakan tersebut.
+
+---
+#### Halimunan, 10 kaki Jejari
+
+(Ilusi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 2 | **Masa Pemaparan:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 6 Jam/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran, 10 kaki | **Rintangan:** T/A |
+
+Mantera ini berfungsi sama seperti mantera [Halimunan](0010_Spells.md?id=invisibility); walau bagaimanapun, semua individu dalam jarak 10 kaki daripada penerima (yang boleh jadi pemantera itu sendiri) apabila mantera dipaparkan juga dijadikan halimunan. Mereka yang berada di bawah kesan mantera boleh melihat satu sama lain; walau bagaimanapun, ini tidak memberikan keupayaan untuk melihat makhluk halimunan lain. Jika sesiapa bergerak keluar dari Kawasan Kesan, Halimunan mereka hilang, oleh itu, langkah berjaga-jaga perlu diambil untuk memastikan semua orang berada dalam jarak subjek asal. Mereka yang bergerak kembali ke Kawasan Kesan selepas Halimunan mereka hilang, atau tidak hadir semasa dipaparkan, tidak mendapat manfaat daripada kesannya. Serangan yang dibuat daripada perlindungan Halimunan, termasuk paparan mantera menyerang oleh sesiapa sahaja selain subjek asal, mengganggu Halimunan bagi orang tersebut tetapi tidak mempunyai kesan ke atas watak lain dalam Kawasan Kesan. Walau bagaimanapun, serangan yang dibuat oleh penerima asal mantera menjadikan semua orang kelihatan semula. Lihat mantera [Halimunan](0010_Spells.md?id=invisibility) asas untuk butiran lanjut.
+
+---
+#### Halimunan, Agung
+
+(Ilusi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 3 | **Masa Pemaparan:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 3 Pusingan/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+
+Mantera ini berfungsi mengikut mantera [Halimunan](0010_Spells.md?id=invisibility) asas; walau bagaimanapun, tiada tindakan yang diambil oleh subjek akan menamatkan Tempoh lebih awal. Sasaran boleh melakukan serangan jarak dekat atau jarak jauh, memaparkan mantera, dan sebagainya. Perhatikan terdapat petunjuk visual tindakan telah berlaku, seperti herotan visual. Ini membolehkan sesiapa yang mempunyai garis penglihatan ke arah subjek membuat lambungan Persepsi yang Menggerunkan selepas tindakan diambil, atau mungkin sebelum jika watak tersebut ditangguhkan, untuk mengetahui lokasi penyerang yang halimunan. Serangan pada satu gred kesukaran boleh dibuat dalam Pusingan yang sama subjek bertindak oleh mereka yang mengesan lokasi orang yang halimunan itu. Lihat mantera [Halimunan](0010_Spells.md?id=invisibility) untuk butiran lanjut.
+
+---
+#### Tangan Besi
+
+(Abjurasi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Cleric 0 | **Masa Pemaparan:** 1 Tindakan |
+| **Sfera:** Perlindungan | **Tempoh:** 10 Minit |
+| **Kos:** 1 | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
+
+Tangan Besi membolehkan penerima memegang apa sahaja yang sepatutnya menyebabkan kerosakan (seperti barang yang sangat panas atau sejuk, atau yang menitiskan asid) tanpa menyebabkan diri mereka cedera. Dengan itu, pengguna boleh memegang puntung api, mengangkat kawah menggelegak dari panggang, atau malah mencapai melalui lubang wap untuk mengambil objek di sisi lain. Ia tidak memberikan imuniti sepenuhnya daripada kerosakan, ia sekadar menghalang pengaliran melalui kulit tangan penerima. Mantera ini tidak melindungi apa-apa yang dipakai pada tangan, jadi cincin, sarung tangan, dan sebagainya akan mengalami kesan daripada sumber tersebut.#### Ketuk (R)
+
+(Transmutasi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 2 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Lihat di Bawah |
+| **Kos:** 1/Keamatan | **Jarak:** 180 kaki |
+| **Kawasan:** 1 Portal | **Rintangan:** TA |
+
+Jampi ini boleh dijampi untuk membuka satu pintu atau bukaan lain yang serupa yang diperbuat daripada kayu, batu, atau logam jika ia berkunci, tersekat, Ditahan (Held), atau Dikunci Mage (Mage Locked). Ia tidak memberi kesan kepada portcullis atau pagar. Pintu tersebut boleh mempunyai sehingga 25 Mata Hit (Hit Points) bagi setiap Keamatan, dan boleh merangkumi peti atau kotak berkunci, pintu rahsia, malah gari dan rantai. Malah bukaan yang sebelum ini dikimpal mati akan terlepas daripada ikatannya. Maksimum dua aspek berbeza boleh terkesan oleh penjampian Ketuk, sebagai contoh, pintu yang dipalang, dikunci, dan Ditahan (Held) akan memerlukan penjampian 2 jampi Ketuk. Terhadap pintu yang Dikunci Mage, Enkemen (Enchantment) tersebut hanya digantung selama 10 minit dan selepas itu ia kembali kepada keadaan terkuncinya secara magis.
+
+Apabila diterbalikkan, Kunci (Lock) menutup dan mengunci satu portal seperti yang dinyatakan di atas dengan andaian terdapat mekanisme penguncian. Sehingga dua fungsi berbeza, kunci, berbolt, dipalang, dan sebagainya, boleh ditetapkan.
+
+| Keamatan | Kos | Kesan Berubah |
+| :-: | :-: | :-- |
+| 1 | 1 | sehingga 25 HP portal; gari, kunci mangga, peti atau pintu kayu biasa |
+| 2 | 2 | sehingga 50 HP portal; peti atau pintu kayu bertetulang |
+| 3 | 3 | sehingga 75 HP portal; peti atau pintu besi |
+
+---
+#### Ketahui Jajaran (R)
+
+(Divinasi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Cleric 1, Mage 2 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Divinasi | **Tempoh:** 1 Pusingan/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 30 kaki |
+| **Kawasan:** 1 Sasaran | **Rintangan:** Kekuatan Kehendak (Willpower) |
+
+Jampi ini membolehkan penjampi membezakan Jajaran (Alignment) dan Nafsu (Passions) satu makhluk, yang mendapat satu balingan untuk menahan. Jika balingan untuk menahan gagal, penjampi akan menilik Kod Etika sasaran berkenaan Undang-undang, Neutraliti, dan Kekacauan. Penumpuan untuk satu Pusingan lagi diperlukan untuk membezakan Jajaran moral sasaran berkenaan Kebaikan, Neutraliti, dan Kejahatan. Setiap Pusingan tambahan selepas ini akan membezakan satu lagi Nafsu rawak yang tinggal. Tuan Permainan (Games Master) mendedahkan 'kekuatan' Jajaran dan Nafsu sasaran yang ditemui mengikut jadual berikut:
 
 **Jadual Kekuatan Jajaran/Nafsu**
 
 | Peratusan | Kekuatan |
 | :-: | :-- |
 | 01-29% | Lemah |
-| 30-69% | Sederhana |
+| 30-69% | Purata |
 | 70-99% | Kuat |
 | 100% + | Sangat Kuat |
 
-Pembalikan mantera ini, Obscure Alignment, menjadikan Jajaran dan Nafsu sasaran tidak boleh dibaca selama 24 jam, malah daripada pemanteraan Know Alignment atau Detect Evil/Good.
+Terbalik bagi jampi ini, Kaburkan Jajaran (Obscure Alignment), menjadikan Jajaran dan Nafsu sasaran tidak dapat dibaca selama 24 jam, walaupun daripada penjampian Ketahui Jajaran atau Kesan Jahat/Baik (Detect Evil/Good).
 
 ---
-#### Know Languages \(R\)
+#### Ketahui Bahasa (R)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Minit |
-| **Sfera:** Tiada | **Tempoh:** 5 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** Sentuhan |
-| **Kawasan:** 1 Makhluk Bijak | **Rintangan:** T/A |
+| **Pangkat:** Mage 1 | **Masa Jampi:** 1 Minit |
+| **Sfera:** Tiada | **Tempoh:** 5 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Makhluk Sapiens | **Rintangan:** TA |
 
-Mantera ini membolehkan pemantera memahami dan membaca hampir mana-mana bahasa bukan sihir. 'Pertuturan' haiwan atau makhluk bukan bijak tidak difahami, hanya bahasa sebenar makhluk bijak. Pengguna sihir mestilah menyentuh objek atau makhluk untuk memahami maksudnya. Mantera ini tidak memberi keupayaan untuk bercakap atau menulis bahasa tersebut.
+Jampi ini membolehkan penjampi memahami dan membaca hampir mana-mana bahasa bukan magis. 'Pertuturan' haiwan atau makhluk bukan sapiens tidak difahami, hanya bahasa sebenar makhluk sapiens. Pengguna magis mesti menyentuh objek atau makhluk untuk memahami maknanya. Jampi ini tidak memberi keupayaan untuk bertutur atau menulis bahasa tersebut.
 
-Pembalikan mantera ini, Confuse Languages, menjadikan makhluk tidak dapat difahami oleh sesiapa atau sekeping teks bertulis tidak dapat ditafsirkan. Pembalikan ini juga boleh digunakan untuk menentang Know Languages semasa ia sedang dipantera.
+Terbalik bagi jampi ini, Kelirukan Bahasa (Confuse Languages), menjadikan bahasa makhluk tidak dapat difahami oleh sesiapa atau teks bertulis tidak dapat ditafsir. Terbalik ini juga boleh digunakan untuk menangkis Ketahui Bahasa semasa ia sedang dijampi.
 
 ---
-#### Levitate
+#### Levitas
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 10 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 60 kaki/Intensiti |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 1 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 10 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 60 kaki/Keamatan |
+| **Kawasan:** 1 Sasaran | **Rintangan:** Kekuatan Kehendak (Willpower) |
 
-Apabila mantera ini dipantera, pengguna sihir boleh menetapkan diri sendiri, satu sasaran, makhluk, atau objek, dengan tidak lebih daripada 20 SIZ (+10 SIZ bagi setiap Intensiti tambahan), dan melayang individu itu dari tanah. Makhluk selain daripada pemantera boleh digerakkan secara menegak pada kelajuan 5 kaki setiap Pusingan Pertempuran; jika dipantera pada diri sendiri, pemantera boleh bergerak secara menegak sehingga 10 kaki setiap Pusingan. Levitation tidak memerlukan Tumpuan bagi pemantera selain semasa menukar ketinggian. Jika digunakan pada subjek yang tidak rela, sasaran dibenarkan gulungan untuk menentang. Walaupun subjek mantera ini tidak diberikan sebarang bentuk pergerakan mendatar, subjek mungkin boleh menarik sepanjang dinding atau tebing jika dalam jangkauan. Pemantera boleh menamatkan mantera ini apabila dikehendaki.
+Apabila jampi ini dijampi, pengguna magis boleh menetapkan diri mereka sendiri, satu sasaran, satu makhluk, atau satu objek, yang tidak melebihi 20 SAI (+10 SAI bagi setiap Keamatan tambahan), dan mengapungkan individu tersebut dari tanah. Makhluk selain penjampi boleh digerakkan secara menegak pada kelajuan 5 kaki setiap Pusingan Tempur; jika dijampi pada diri sendiri, penjampi boleh bergerak secara menegak sehingga 10 kaki setiap Pusingan. Levitas tidak memerlukan Penumpuan daripada pihak penjampi selain daripada apabila menukar ketinggian. Jika digunakan pada subjek yang tidak mahu, sasaran dibenarkan satu balingan untuk menahan. Walaupun subjek jampi ini tidak diberikan sebarang bentuk pergerakan mendatar, subjek mungkin boleh menarik sepanjang dinding atau tebing jika dalam jangkauan. Penjampi boleh menamatkan jampi ini apabila diingini.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 min.; Julat 60 kaki; 20 SIZ |
-| 2 | 4 | 20 min.; Julat 120 kaki; 30 SIZ |
-| 3 | 5 | 30 min.; Julat 180 kaki; 40 SIZ |
-| 4 | 6 | 40 min.; Julat 240 kaki; 50 SIZ |
+| 1 | 3 | 10 min.; 60 kaki Jarak; 20 SAI |
+| 2 | 4 | 20 min.; 120 kaki Jarak; 30 SAI |
+| 3 | 5 | 30 min.; 180 kaki Jarak; 40 SAI |
+| 4 | 6 | 40 min.; 240 kaki Jarak; 50 SAI |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Light  \(R\)\*
+#### Cahaya (R)\*
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1, Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Matahari | **Tempoh:** 1 Jam/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 180 kaki |
-| **Kawasan:** Jejari 20 kaki/Intensiti | **Rintangan:** Lihat di bawah |
+| **Pangkat:** Cleric 1, Mage 1 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Matahari | **Tempoh:** 1 Jam/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 180 kaki |
+| **Kawasan:** Jejari 20 kaki/Keamatan | **Rintangan:** Lihat di Bawah |
 
-Apabila mantera ini dipantera, glob cahaya muncul di tempat pilihan pemantera, yang mungkin pada objek, atau malah di udara tipis, dan boleh dibatalkan oleh pemantera pada bila-bila masa. Mantera mempunyai Tempoh 1 jam bagi setiap Intensiti. Jika dipantera pada makhluk, sasaran dibenarkan ujian Kuasa Minda untuk menentang, dengan Kejayaan menunjukkan bahawa mantera telah menjejaskan kawasan tepat di belakang makhluk dan bukan makhluk itu sendiri. Jika Light dipusatkan pada mata makhluk, gulungan Kuasa Minda yang gagal mengakibatkan kebutaan separa dengan Tempoh bersamaan dengan mantera, meningkatkan semua kemahiran dan gulungan Rintangan yang memerlukan penglihatan sebanyak satu Gred Kesukaran. Kesan mantera tidak bergerak tetapi boleh dipantera pada objek mudah alih atau boleh alih.
+Apabila jampi ini dijampi, glob cahaya terhasil di tempat pilihan penjampi, yang boleh berada pada objek, atau malah di udara nipis, dan boleh diberhentikan oleh penjampi pada bila-bila masa. Jampi mempunyai Tempoh 1 jam bagi setiap Keamatan. Jika dijampi pada makhluk, sasaran dibenarkan ujian Kekuatan Kehendak untuk menahan, dengan Kejayaan menunjukkan bahawa jampi telah memberi kesan kepada kawasan tepat di belakang makhluk tersebut dan bukan makhluk itu sendiri. Jika Cahaya dipusatkan pada mata makhluk, balingan Kekuatan Kehendak yang gagal mengakibatkan separuh buta dengan Tempoh sama dengan jampi tersebut, meningkatkan semua kemahiran dan balingan Rintangan yang memerlukan penglihatan sebanyak satu Gred Kesukaran. Kesan jampi adalah tidak bergerak tetapi boleh dijampi pada objek mudah alih atau boleh alih.
 
-_\*Versi Ilahi mantera ini boleh diterbalikkan, menyebabkan sfera kegelapan yang mutlak dan total, yang berfungsi dalam semua cara seperti mantera Arcane [Darkness](0010_Spells.md?id=darkness) kecuali ia mempunyai Tempoh yang lebih rendah iaitu 30 minit bagi setiap Intensiti._
+_\*Versi Ilahi jampi ini boleh diterbalikkan, menyebabkan sfera kegelapan mutlak dan total, yang berfungsi dalam semua cara seperti jampi Arcane [Kegelapan](0010_Spells.md?id=darkness) dengan pengecualian bahawa ia mempunyai Tempoh lebih rendah iaitu 30 minit bagi setiap Keamatan._
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 1 | Jejari 20 kaki; 1 jam (30 min. diterbalikkan) |
-| 2 | 2 | Jejari 40 kaki; 2 jam (1 jam diterbalikkan) |
-| 3 | 3 | Jejari 60 kaki; 3 jam (1½ jam diterbalikkan) |
-| 4 | 4 | Jejari 80 kaki; 4 jam (2 jam diterbalikkan) |
+| 1 | 1 | jejari 20 kaki; 1 jam (30 min. terbalik) |
+| 2 | 2 | jejari 40 kaki; 2 jam (1 jam terbalik) |
+| 3 | 3 | jejari 60 kaki; 3 jam (1½ jam terbalik) |
+| 4 | 4 | jejari 80 kaki; 4 jam (2 jam terbalik) |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Lightning Bolt
+#### Bolt Kilat
 
 (Evokasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 50 kaki/Intensiti |
-| **Kawasan:** Laluan selebar 10 kaki | **Rintangan:** Mengelak |
+| **Pangkat:** Mage 2 | **Masa Jampi:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Serta-merta |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 50 kaki/Keamatan |
+| **Kawasan:** Laluan lebar 10 kaki | **Rintangan:** Elak (Evade) |
 
-Apabila pengguna sihir memulakan ikrar lisan dan gerak isyarat pada Pusingan pertama pemanteraan, cas elektrik mula melengkung di antara jari mereka. Pada Pusingan kedua, ikrar selesai, pengguna sihir menghantar letupan kilat dari hujung jari melengkung dalam garis lurus melalui semua sasaran dalam laluan selebar 10 kaki sepanjang Julat mantera. Kerosakan ini menyebabkan 1d6 mata kerosakan bagi setiap 2 mata Intensiti, atau sebahagian daripadanya, kepada semua mangsa dalam Kawasan Kesan. Kerosakan ini digulung sekali, dan digunakan pada setiap Lokasi Pukulan sasaran, dengan perisai yang dipakai mahupun semula jadi tidak menawarkan perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa.
+Apabila pengguna magis memulakan inkantasi lisan dan isyarat pada Giliran pertama penjampian, cas elektrik mula melengkung di antara jari mereka. Pada Giliran kedua, inkantasi selesai, pengguna magis menghantar letusan kilat dari hujung jari melengkung dalam garisan lurus melalui semua sasaran dalam laluan lebar 10 kaki yang meliputi Jarak jampi. Kerosakan ini menyebabkan 1d6 mata kerosakan bagi setiap 2 mata Keamatan, atau pecahan daripadanya, kepada semua mangsa dalam Kawasan Kesan. Kerosakan ini dibaling sekali, dan dikenakan kepada setiap Lokasi Hit sasaran, dengan perisai dipakai mahupun semula jadi tidak menawarkan perlindungan, tetapi Mata Perisai magis mengurangkan kerosakan seperti biasa.
 
-Gulungan Mengelak (Evade) yang berjaya, mengakibatkan posisi meniarap, membolehkan mangsa mengalami kerosakan sifar. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa meniarap, tetapi Kejayaan dalam kes ini hanya akan mengurangkan kerosakan sebanyak separuh, melainkan mereka berada dalam jarak 5 kaki dari pinggir Kawasan Kesan.
+Balingan Elak yang berjaya, mengakibatkan diri terbaring, membolehkan mangsa tidak mengalami kerosakan. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa perlu terbaring, tetapi Kejayaan dalam kes ini hanya akan mengurangkan kerosakan sebanyak separuh, melainkan mereka berada dalam 5 kaki dari tepi Kawasan Kesan.
 
-Kilat mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosakan yang digulung x1%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan. Kilat juga boleh memecahkan atau memusnahkan objek tidak bernyawa akibat hentaman yang kuat.
+Kilat mempunyai peluang menyalakan bahan mudah terbakar sama dengan kerosakan yang dibaling x1%. Lihat bahagian mengenai [Kebakaran](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan. Kilat juga boleh memecahkan atau memusnahkan objek tidak bernyawa akibat hentaman semata-mata.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Julat 50 kaki; kerosakan 1d6 |
-| 2 | 4 | Julat 100 kaki; kerosakan 1d6 |
-| 3 | 5 | Julat 150 kaki; kerosakan 2d6 |
-| 4 | 6 | Julat 200 kaki; kerosakan 2d6 |
-| 5 | 7 | Julat 250 kaki; kerosakan 3d6 |
-| 6 | 8 | Julat 300 kaki; kerosakan 3d6 |
+| 1 | 3 | 50 kaki Jarak; 1d6 kerosakan |
+| 2 | 4 | 100 kaki Jarak; 1d6 kerosakan |
+| 3 | 5 | 150 kaki Jarak; 2d6 kerosakan |
+| 4 | 6 | 200 kaki Jarak; 2d6 kerosakan |
+| 5 | 7 | 250 kaki Jarak; 3d6 kerosakan |
+| 6 | 8 | 300 kaki Jarak; 3d6 kerosakan |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Locate Object \(R\)
+#### Cari Objek (R)
 
 (Divinasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2, Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Divinasi | **Tempoh:** 1 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** 60 kaki/Intensiti | **Rintangan:** T/A |
+| **Pangkat:** Cleric 2, Mage 2 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Divinasi | **Tempoh:** 1 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** 60 kaki/Keamatan | **Rintangan:** TA |
 
-Dengan pemanteraan Locate Object, pemantera diarahkan ke item yang dikenali atau biasa, merasakan arah ke objek tersebut semasa pemantera berdiri dan perlahan-lahan berpusing. Objek mestilah berada dalam kawasan kesan mantera, walau bagaimanapun. Objek mungkin mana-mana item generik seperti katil, peti, tangga, atau emas sebagai contoh, dan mantera akan mengarahkan pemantera ke arah perwakilan terdekat objek tersebut. Item spesifik sebaliknya, seperti pedang panjang Tashana, memerlukan pemantera mempunyai imej mental yang tepat, sama ada pernah melihatnya secara peribadi dalam jarak 30 kaki, atau melalui cara sihir. Oleh itu, item peribadi atau unik mungkin tidak dapat dikesan menggunakan mantera ini melainkan pemantera biasa dengannya. Mantera tidak boleh mengesan makhluk hidup atau tidak bernyawa.
+Dengan penjampian Cari Objek, penjampi diarahkan kepada item yang diketahui atau dikenali, mengesan arah ke objek tersebut semasa penjampi berdiri dan perlahan-lahan berpusing. Objek tersebut mesti berada dalam kawasan kesan jampi, walau bagaimanapun. Objek tersebut boleh menjadi sebarang item generik seperti katil, peti, tangga, atau emas sebagai contoh, dan jampi akan mengarahkan penjampi ke arah perwakilan terdekat objek tersebut. Item khusus pula, seperti pedang panjang Tashana, memerlukan penjampi mempunyai gambaran mental yang tepat, sama ada pernah melihatnya secara peribadi dalam 30 kaki, atau melalui cara magis. Oleh itu, item peribadi atau unik mungkin tidak dapat dikesan menggunakan jampi ini melainkan penjampi mengenalinya. Jampi tidak boleh mengesan makhluk hidup atau tidak hidup.
 
-Pembalikan mantera ini, Obscure Object, menyembunyikan satu item daripada pengesanan melalui cara sihir, seperti bola kristal, Detect Magic, dan sebagainya, untuk Tempoh yang sama.
+Terbalik bagi jampi ini, Kaburkan Objek (Obscure Object), menyembunyikan satu item daripada dikesan melalui cara magis, seperti bola kristal, Kesan Magis (Detect Magic), dan sebagainya, untuk Tempoh yang sama.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
 | 1 | 1 | 1 min.; jejari 60 kaki |
 | 2 | 2 | 2 min.; jejari 120 kaki |
@@ -1776,366 +1784,365 @@ Pembalikan mantera ini, Obscure Object, menyembunyikan satu item daripada penges
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Mage Lock
+#### Kunci Mage (Mage Lock)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 2 | **Masa Jampi:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Portal | **Rintangan:** T/A |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Portal | **Rintangan:** TA |
 
-Mantera ini boleh dipantera pada mana-mana objek yang boleh dikunci seperti peti, pintu, portal, atau malah buku yang boleh dikunci. Objek, yang mungkin mempunyai sehingga 25 Mata Hit bagi setiap Intensiti, dimeterai secara kekal melainkan dibelasah terbuka. Dispel Magic yang dipantera pada Intensiti yang lebih tinggi daripada Magnitud mantera hanya akan menyebabkannya terbuka selama satu Pusingan, dan Knock boleh digunakan untuk membuka pintu Mage Locked buat sementara waktu selama 10 minit, selepas itu mantera asal diteruskan. Akhir sekali, pengguna sihir yang lebih tinggi Pangkatnya daripada pemantera asal boleh melintasi pintu Mage Locked secara bebas tanpa memecahkan Enchantment, dan mereka malah boleh menahan portal tersebut untuk orang lain. Tidak seperti Secure Portal, objek Mage Locked tidak diganggu secara automatik oleh makhluk dari luar satah material utama seperti syaitan, iblis, malaikat, dan unsur atau mereka yang menggunakan mantera melintasi bahan.
+Jampi ini boleh dijampi pada mana-mana objek yang boleh dikunci seperti peti, pintu, portal, atau malah tome yang boleh dikunci. Objek tersebut, yang boleh mempunyai sehingga 25 Mata Hit bagi setiap Keamatan, dimeterai secara kekal kecuali dipecahkan. Hilangkan Magis (Dispel Magic) yang dijampi pada Keamatan lebih tinggi daripada Magnitud jampi hanya akan menjadikannya terbuka selama satu Pusingan, dan Ketuk boleh digunakan untuk membuka pintu yang Dikunci Mage sementara selama 10 minit, selepas itu jampi asal diteruskan. Akhir sekali, pengguna magis yang berpangkat lebih tinggi daripada penjampi asal boleh melintas dengan bebas melalui pintu yang Dikunci Mage tanpa memecahkan Enkemen, dan mereka malah boleh menahan portal tersebut untuk orang lain. Tidak seperti Portal Selamat (Secure Portal), objek yang Dikunci Mage tidak diganggu secara automatik oleh makhluk dari luar satah material utama seperti demon, devil, malaikat, dan elemental, atau mereka yang menggunakan jampi perlintasan material.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | sehingga 25 HP portal; gari, kunci pendayung, peti atau pintu kayu biasa |
-| 2 | 4 | sehingga 50 HP portal; peti atau pintu kayu yang diperkukuh |
-| 3 | 5 | sehingga 75 HP portal; peti, pintu besi, atau jeriji |
+| 1 | 3 | sehingga 25 HP portal; gari, kunci mangga, peti atau pintu kayu biasa |
+| 2 | 4 | sehingga 50 HP portal; peti atau pintu kayu bertetulang |
+| 3 | 5 | sehingga 75 HP portal; peti, pintu, atau portcullis besi |
 | 4 | 6 | sehingga 120 HP portal; pintu gerbang istana kecil |
-| 5 | 7 | sehingga 150 HP portal; pintu gerbang istana yang besar dan diperkukuh |
+| 5 | 7 | sehingga 150 HP portal; pintu gerbang istana besar dan bertetulang |
 
 ---
-#### Magic Missile
+#### Misil Magis
 
 (Evokasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 1/Intensiti | **Julat:** 100 kaki/Intensiti |
-| **Kawasan:** 1-5 Sasaran | **Rintangan:** Lihat di bawah |
+| **Pangkat:** Mage 1 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Serta-merta |
+| **Kos:** 1/Keamatan | **Jarak:** 100 kaki/Keamatan |
+| **Kawasan:** 1-5 Sasaran | **Rintangan:** Lihat di Bawah |
 
-Apabila mantera ini dipantera, satu atau lebih peluru tenaga sihir meluncur keluar dari hujung jari pengguna sihir dan menyerang sasaran. Bilangan maksimum peluru yang boleh dijana adalah berdasarkan tahap kemahiran Pemanteraan Arcane pemantera, dengan peluru kedua dijana pada kemahiran 60%, ketiga pada 70%, keempat pada 80%, dan peluru kelima serta terakhir pada 90%. Untuk menjana peluru ini, mantera mestilah dipantera pada Intensiti yang sama dengan bilangan peluru yang diingini. Sebagai contoh, di bawah 60%, pengguna sihir yang memantera Magic Missile pada 3 Intensiti akan mencapai Julat yang lebih jauh, walau bagaimanapun hanya satu peluru yang akan dijana. Pengguna sihir dengan tahap kemahiran 70% boleh memantera mantera pada 3 Intensiti yang sama dan mencapai Julat yang sama tetapi mampu menjana 3 peluru. Mantera ini mempunyai Intensiti Maksimum 5. Lihat jadual di bawah.
+Apabila jampi ini dijampi, satu atau lebih misil tenaga magis meluru keluar dari hujung jari pengguna magis dan mengenai sasaran. Bilangan maksimum misil yang boleh dijana adalah berdasarkan tahap kemahiran Jampi Arcane pengguna magis, dengan misil kedua dijana pada kemahiran 60%, ketiga pada 70%, keempat pada 80%, dan misil kelima dan terakhir pada 90%. Untuk menjana misil ini, jampi mesti dijampi pada Keamatan yang sama dengan bilangan misil yang dikehendaki. Sebagai contoh, di bawah 60%, pengguna magis yang menjampi Misil Magis pada Keamatan 3 akan mencapai Jarak yang lebih jauh, walau bagaimanapun hanya satu misil akan dijana. Pengguna magis tahap kemahiran 70% boleh menjampi jampi pada Keamatan 3 yang sama dan mencapai Jarak yang sama tetapi mampu menjana 3 misil. Jampi ini mempunyai Keamatan Maksimum 5. Lihat jadual di bawah.
 
-Magic Missile akan menyerang tanpa gagal, walaupun sasaran berada dalam pertempuran jarak dekat atau mempunyai perlindungan separa. Peluru ini tidak boleh dielakkan; walau bagaimanapun, lawan dalam perlindungan total tidak boleh disasarkan dengan mantera ini. Mantera Shield akan secara automatik menangkis Magic Missiles dengan andaian sasaran sedar dan/atau menghadap pemantera. Magic Missiles memberikan 1d6+1 mata kerosakan dan perisai yang dipakai tidak melindungi, tetapi perisai semula jadi makhluk atau Mata Perisai sihir mengurangkan kerosakan seperti biasa. Magic Missiles tidak menyebabkan kerosakan pada objek tidak bernyawa seperti pintu, kunci, dan sebagainya.
+Misil Magis akan mengenai dengan tepat, walaupun sasaran berada dalam pertempuran jarak dekat atau mempunyai perlindungan separa. Misil ini tidak boleh dielak; walau bagaimanapun, lawan dalam perlindungan total tidak boleh disasarkan dengan jampi ini. Jampi Perisai (Shield) akan memesongkan Misil Magis secara automatik dengan andaian sasaran sedar dan/atau menghadap penjampi. Misil Magis melakukan 1d6+1 mata kerosakan dan perisai dipakai tidak melindungi, tetapi perisai semula jadi atau Mata Perisai magis makhluk mengurangkan kerosakan seperti biasa. Misil Magis tidak menyebabkan kerosakan kepada objek tidak bernyawa seperti pintu, kunci, dan sebagainya.
 
-Apabila menembak berbilang peluru, pemantera boleh membuat mereka menyerang satu makhluk, atau menyasarkan beberapa makhluk. Setiap Magic Missile akan menyerang Lokasi Pukulan rawak - Lokasi Pukulan tertentu tidak boleh disasarkan. Pemantera mestilah menetapkan sasaran individu bagi setiap peluru sebelum mereka menggulung untuk kerosakan.
+Apabila menembak berbilang misil, penjampi boleh memintanya mengenai satu makhluk, atau menyasarkan beberapa makhluk. Setiap Misil Magis akan mengenai Lokasi Hit rawak - Lokasi Hit khusus tidak boleh disasarkan. Penjampi mesti menetapkan sasaran individu bagi setiap misil sebelum mereka membaling untuk kerosakan.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 1 | Julat 100 kaki; 1 peluru |
-| 2 | 2 | Julat 200 kaki; 2 peluru jika kemahiran 60% |
-| 3 | 3 | Julat 300 kaki; 3 peluru jika kemahiran 70% |
-| 4 | 4 | Julat 400 kaki; 4 peluru jika kemahiran 80% |
-| 5 maks. | 5 | Julat 500 kaki; 5 peluru jika kemahiran 90% |
+| 1 | 1 | 100 kaki Jarak; 1 misil |
+| 2 | 2 | 200 kaki Jarak; 2 misil jika kemahiran 60% |
+| 3 | 3 | 300 kaki Jarak; 3 misil jika kemahiran 70% |
+| 4 | 4 | 400 kaki Jarak; 4 misil jika kemahiran 80% |
+| 5 maks. | 5 | 500 kaki Jarak; 5 misil jika kemahiran 90% |
 
 ---
-#### Magic Mouth
+#### Mulut Magis
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 1 Minit |
-| **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 30 kaki |
-| **Kawasan:** 1 Objek | **Rintangan:** T/A |
+| **Pangkat:** Mage 2 | **Masa Jampi:** 1 Minit |
+| **Sfera:** Tiada | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 30 kaki |
+| **Kawasan:** 1 Objek | **Rintangan:** TA |
 
-Mantera ini mencipta mulut pada item atau objek, yang muncul secara ajaib apabila dicetuskan oleh peristiwa tertentu atau masa yang ditetapkan oleh pengguna sihir apabila mantera mula-mula dipantera. Mulut ini kemudian akan bercakap apa sahaja frasa yang telah ditetapkan yang dipilih oleh pemantera pada masa pemanteraan. Frasa ini mestilah terdiri daripada tidak lebih daripada 25 perkataan dan diucapkan oleh mulut pada kadar kira-kira 1 perkataan sesaat. Mulut tidak boleh mengucapkan kata-kata kuasa atau memantera mantera.
+Jampi ini mencipta mulut pada item atau objek, yang muncul secara magis apabila dicetuskan oleh peristiwa tertentu atau masa yang ditetapkan oleh pengguna magis apabila jampi pertama kali dijampi. Mulut ini kemudian akan menyebut apa jua frasa yang telah ditetapkan oleh penjampi pada masa penjampian. Frasa ini mesti terdiri daripada tidak lebih daripada 25 perkataan dan diucapkan oleh mulut pada kadar kira-kira 1 perkataan sesaat. Mulut tidak boleh menyebut perkataan kuasa atau menjampi jampi.
 
-Mantera ini boleh dipantera pada mana-mana objek biasanya tidak bernyawa, daripada tiang atau pokok, kepada dinding batu atau peti; walau bagaimanapun, ia sangat berkesan apabila dipantera pada patung, kerana patung itu sendiri akan kelihatan seperti sedang bercakap. Ia tidak boleh dipantera pada mana-mana makhluk hidup dengan sebarang bentuk Kecerdasan atau Nuri. Ini terpakai kepada mereka yang pernah hidup. Apabila memantera mantera ini, pengguna sihir menentukan situasi yang akan mengaktifkan pesona. Ia boleh direka untuk mencetuskan melalui apa sahaja daripada perkataan yang diucapkan hingga penciptaan sebarang bunyi. Ia boleh menjadi umum seperti 'apabila orang seterusnya memasuki bilik ini...' hingga yang spesifik, 'apabila seorang Paderi wanita Sedona datang dalam jarak 10 kaki dari patung di hujung dewan pada hari Sabtu...'. Kesan pencetus tidak boleh menjadi sesuatu yang tidak dapat dibezakan secara bukan sihir, seperti makhluk halimunan, Jajaran makhluk, kemahiran, Kelas, dan sebagainya. Walau bagaimanapun, ia boleh menetapkan pakaian yang dipakai. Jarak maksimum mantera boleh dicetuskan adalah 25 kaki bagi setiap Intensiti.
+Jampi ini boleh dijampi pada mana-mana objek tidak bernyawa biasa, dari tiang atau pokok, kepada dinding batu atau peti; walau bagaimanapun, ia amat berkesan apabila dijampi pada patung, kerana patung itu sendiri akan kelihatan seolah-olah bercakap. Ia tidak boleh dijampi pada mana-mana makhluk hidup dengan sebarang bentuk Kecerdasan atau Naluri. Ini terpakai kepada mereka yang pernah hidup. Apabila menjampi jampi ini, pengguna magis menentukan situasi yang akan mengaktifkan enkemen. Ia boleh direka bentuk untuk mencetuskan melalui apa-apa sahaja daripada perkataan yang diucapkan kepada penciptaan sebarang bunyi. Ia boleh menjadi umum seperti 'apabila orang seterusnya memasuki bilik ini…' kepada yang khusus seperti, 'apabila seorang Cleric wanita Sedona berada dalam 10 kaki dari patung di hujung dewan pada hari Sabtu…'. Kesan pencetus tidak boleh menjadi sesuatu yang tidak dapat dibezakan secara bukan magis, seperti makhluk halimunan, Jajaran makhluk, kemahiran, Kelas, dll. Walau bagaimanapun, ia boleh menetapkan pakaian yang dipakai. Jarak maksimum jampi boleh dicetuskan adalah 25 kaki bagi setiap Keamatan.
 
-Tempoh mantera ini adalah kekal sehingga pesona diaktifkan dan kemudian mantera berakhir.
+Tempoh jampi ini adalah kekal sehingga enkemen diaktifkan dan kemudian jampi berakhir.
 
 ---
-#### Magic Tricks
+#### Trik Magis
 
 (Konjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Tumpuan |
-| **Kos:** 1 | **Julat:** 0 |
+| **Pangkat:** Mage 0 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Penumpuan |
+| **Kos:** 1 | **Jarak:** 0 |
 | **Kawasan:** Jejari 30 kaki | **Rintangan:** Tiada |
 
-Magic Tricks adalah satu bentuk hiburan yang hebat di kalangan rakyat biasa, orang yang ditindas, dan terutamanya kanak-kanak. Beberapa kesan yang biasa dicipta dengan Magic Tricks termasuk tiupan angin untuk mengerlipkan lilin, menarik sekeping perak dari belakang telinga kanak-kanak, menyebabkan bunga cepat mekar, melakukan trik kad, mencipta muzik etereal menyeramkan yang datang dari tempat yang tidak diketahui, dan sebagainya. Magic Tricks tidak mampu menyebabkan walaupun satu mata kerosakan atau sebarang jumlah gangguan dalam pertempuran tetapi boleh digunakan untuk memastikan orang ramai sibuk sementara ahli kumpulan yang lain menyelinap melepasi.
+Trik Magis adalah bentuk hiburan yang hebat di kalangan rakyat biasa, mereka yang tertindas, dan terutamanya kanak-kanak. Beberapa kesan yang biasa dicipta dengan Trik Magis termasuk hembusan angin untuk mengerdipkan lilin, menarik sekeping perak dari belakang telinga kanak-kanak, menyebabkan bunga cepat mekar, melakukan trik kad, mencipta muzik halus yang menyeramkan yang muncul dari mana-mana, dan sebagainya. Trik Magis tidak mampu menyebabkan walaupun satu mata kerosakan atau sebarang jumlah gangguan dalam pertempuran tetapi boleh digunakan untuk memastikan orang ramai sibuk sementara kumpulan yang lain menyelinap melepasi.
 
 ---
-#### Meteor Shower
+#### Hujan Meteor
 
 (Evokasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 5 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Mage 5 | **Masa Jampi:** 2 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Serta-merta |
-| **Kos:** 3/Intensiti | **Julat:** 20 kaki/Intensiti |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Mengelak |
+| **Kos:** 3/Keamatan | **Jarak:** 20 kaki/Keamatan |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** Elak (Evade) |
 
-Apabila pengguna sihir memantera mantera ini, dua meteor mikro bagi setiap tahap Intensiti meluncur dari tangan yang dihulurkan. Meteor melengkung ke arah sasaran mereka, memberi impak pada trajektori ke bawah, meninggalkan jejak percikan api dan bara di belakangnya. Selepas impak, ia meletup dalam berbilang letupan berapi di sekitar titik sasaran. Meteor pertama sentiasa menyerang lokasi sasaran, manakala mana-mana meteor tambahan menyerang secara rawak di sekitarnya, masing-masing dengan jejari letupan 30 kaki. Untuk menentukan tempat ia terkena, gulung 1d8 untuk arah.
+Apabila pengguna magis menjampi jampi ini, dua mikro-meteor bagi setiap tahap Keamatan memecut dari tangan yang dihulurkan. Meteor melengkung ke arah sasaran mereka, menghentam pada trajektori menurun, meninggalkan jejak percikan dan bara di belakang mereka. Apabila menghentam, ia meletup dalam beberapa letupan berapi di sekitar titik sasaran. Meteor pertama sentiasa menghentam lokasi yang disasarkan, manakala sebarang meteor tambahan menghentam secara rawak di sekelilingnya, masing-masing dengan jejari letupan 30 kaki. Untuk menentukan di mana ia menghentam, baling 1d8 untuk arah.
 
 <div style="text-align: center;">
     <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
 </div>
 
 
-Setiap meteor memberikan 1d10 mata kerosakan api kepada mereka yang berada dalam Kawasan Kesan. Walau bagaimanapun, disebabkan jejari setiap letupan, banyak yang akan bertindih, memberikan kerosakan tambahan kepada mereka yang malang untuk terkena olehnya. Gulungan kerosakan digabungkan dan digunakan pada setiap Lokasi Pukulan sasaran, dengan perisai yang dipakai tidak menawarkan perlindungan, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa.
+Setiap meteor melakukan 1d10 mata kerosakan api kepada mereka dalam Kawasan Kesan. Walau bagaimanapun, disebabkan jejari setiap letupan, banyak yang akan bertindih, melakukan kerosakan tambahan kepada mereka yang malang untuk terperangkap olehnya. Balingan kerosakan digabungkan dan dikenakan kepada setiap Lokasi Hit sasaran, dengan perisai dipakai tidak menawarkan perlindungan, tetapi Mata Perisai magis atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa.
 
-Gulungan Mengelak (Evade) yang berjaya membolehkan mangsa mengalami kerosakan sifar. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa meniarap, tetapi Kejayaan dalam kes ini hanya akan mengurangkan kerosakan sebanyak separuh, melainkan mereka berada dalam jarak 5 kaki dari pinggir Kawasan Kesan.
+Balingan Elak yang berjaya membolehkan mangsa tidak mengalami kerosakan. Seseorang dengan Kebolehan Artful Dodger mempunyai pilihan untuk Mengelak tanpa perlu terbaring, tetapi Kejayaan dalam kes ini hanya akan mengurangkan kerosakan sebanyak separuh, melainkan mereka berada dalam 5 kaki dari tepi Kawasan Kesan.
 
-Semua orang, termasuk mereka yang berada di luar Kawasan Kesan tetapi dalam jarak 60 kaki dari titik impak, dikehendaki berjaya dalam gulungan Atletik untuk kekal berdiri.
+Semua orang, termasuk mereka di luar Kawasan Kesan tetapi dalam 60 kaki dari titik hentaman, dikehendaki berjaya dalam balingan Atletik untuk kekal berdiri.
 
-Meteor Shower mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosakan yang digulung x5%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
+Hujan Meteor mempunyai peluang menyalakan bahan mudah terbakar sama dengan kerosakan yang dibaling x5%. Lihat bahagian mengenai [Kebakaran](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
 
 ---
-#### Might
+#### Kekuatan (Might)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Cleric 0, Mage 0 | **Masa Jampi:** 1 Tindakan |
 | **Sfera:** Tempur | **Tempoh:** Pencetus |
-| **Kos:** 1 | **Julat:** Sentuhan |
+| **Kos:** 1 | **Jarak:** Sentuhan |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
 
-Might membolehkan penerima melakukan tindakan kekuatan fizikal yang mengagumkan, dengan menambah POW pemantera kepada kemahiran Otot (Brawn) penerima. Ia tidak meningkatkan Pengubah Kerosakan watak apabila mengenakan kerosakan pertempuran.
+Kekuatan (Might) membolehkan penerima melakukan tindakan daya fizikal yang mengagumkan, dengan menambah KUR penjampi kepada kemahiran Brawn penerima. Ia tidak meningkatkan Pengubah Kerosakan watak apabila melakukan kerosakan tempur.
 
 ---
-#### Mirror Image
+#### Imej Cermin
 
 (Ilusi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 3 Pusingan/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** Jejari 5 kaki | **Rintangan:** T/A |
+| **Pangkat:** Mage 2 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 3 Pusingan/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** Jejari 5 kaki | **Rintangan:** TA |
 
-Apabila mantera ini dipantera, 2d4 pendua pengguna sihir muncul dalam jejari 5 kaki, meniru pergerakan pemantera dengan tepat. Selain itu, keseluruhan Kawasan Kesan bergetar dan berkilauan, menjadikan lokasi tepat pemantera mustahil untuk dipastikan. Menyerang salah satu imej ilusi menyebabkannya lenyap; walau bagaimanapun, imej yang tinggal tidak terjejas. Menyerang pemantera tidak memberi kesan pada imej yang tinggal dan kerana imej sentiasa berubah, tidak ada cara untuk mengetahui sama ada sasaran itu adalah pemantera sebenar jika diserang lagi. Sebarang kecederaan yang dialami pemantera diduplikasi pada imej juga. Terdapat banyak cara Pengurus Permainan boleh menentukan sama ada pemantera sebenar telah diserang atau salah satu imej. Salah satunya ialah menentukan berapa banyak sasaran berpotensi yang ada, termasuk pemantera, dan menggulung dadu dengan denominasi terdekat. Sebagai contoh, dengan 4 imej dan pemantera, penyerang harus menggulung 1d6, menggulung semula hasil 6, dengan pemantera terkena pada gulungan 1. Satu lagi adalah dengan mempunyai beberapa penanda sama dengan bilangan sasaran berpotensi, menandakan satu sebagai pemantera. Penanda ditarik setiap kali serangan dibuat dan jika sasaran terkena, kerosakan dikenakan; jika tidak, imej hilang, mengeluarkan salah satu penanda. Imej lenyap pada akhir Tempoh mantera.
+Apabila jampi ini dijampi, 2d4 pendua pengguna magis muncul dalam jejari 5 kaki, meniru pergerakan penjampi dengan tepat. Sebagai tambahan, seluruh Kawasan Kesan bergetar dan berkilau, menjadikan lokasi sebenar penjampi mustahil untuk dipastikan. Menghentam salah satu imej ilusi menyebabkannya hilang; walau bagaimanapun, imej yang tinggal tidak terjejas. Menghentam penjampi tidak memberi kesan kepada imej yang tinggal dan kerana imej sentiasa berubah, tidak ada cara untuk mengetahui jika sasaran adalah penjampi sebenar jika diserang lagi. Sebarang kecederaan yang dialami oleh penjampi diduplikasi pada imej juga. Terdapat banyak cara Tuan Permainan boleh menentukan sama ada penjampi sebenar telah dihentam atau salah satu imej. Salah satunya ialah menentukan berapa banyak sasaran berpotensi yang ada, termasuk penjampi, dan baling dadu denominasi terdekat. Sebagai contoh, dengan 4 imej dan penjampi, penyerang perlu membaling 1d6, membaling semula hasil 6, dengan penjampi dihentam pada balingan 1. Satu lagi adalah dengan mempunyai beberapa penanda sama dengan bilangan sasaran berpotensi, menandakan satu sebagai penjampi. Penanda ditarik setiap kali serangan dibuat dan jika sasaran dihentam, kerosakan dikenakan; jika tidak, satu imej hilang, mengeluarkan satu daripada penanda. Imej hilang pada akhir Tempoh jampi.
 
----
-#### Neutralize Poison \(R\)
+---#### Meneutralkan Racun \(R\)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Paderi 3 | **Masa Mengeluarkan:** 1 Pusingan |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Ketahanan) |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintangan:** TA (Ketahanan) |
 
-Mantera ini membolehkan pemantera membatalkan kesan racun atau bisa yang menimpa makhluk dan boleh digunakan untuk menyembuhkan individu yang telah 'mati' akibat diracuni jika digunakan dalam masa 10 minit kematian. Satu tahap Intensiti diperlukan bagi setiap 30 Potensi racun yang menyakitkan. Neutralize Poison juga boleh digunakan untuk membatalkan bisa yang dihasilkan oleh makhluk beracun seperti ular atau kala jengking supaya ia tidak akan mampu meracuni orang lain: ini memerlukan 1 Intensiti bagi setiap 30 Potensi dan apabila digunakan dengan cara ini, mempunyai Tempoh 24 jam. Akhir sekali, Neutralize Poison boleh digunakan pada bahan yang beracun atau tercemar, merawat 5 lbs. pepejal atau 2 gelen cecair bagi setiap Intensiti.
+Mantera ini membolehkan pemantera membatalkan kesan racun atau bisa yang menimpa makhluk dan boleh digunakan untuk menyembuhkan individu yang telah 'mati' akibat diracun jika digunakan dalam tempoh 10 minit selepas kematian. Satu tahap Keamatan diperlukan bagi setiap 30 Potensi racun yang menyebabkannya. Meneutralkan Racun juga boleh digunakan untuk membatalkan bisa yang dihasilkan oleh makhluk beracun seperti ular atau kala jengking supaya ia tidak lagi mampu meracuni orang lain: ini memerlukan 1 Keamatan bagi setiap 30 Potensi dan apabila digunakan dengan cara ini, mempunyai Tempoh 24 jam. Akhir sekali, Meneutralkan Racun boleh digunakan pada bahan yang beracun atau tercemar, merawat 5 paun pepejal atau 2 gelen cecair bagi setiap Keamatan.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | Sembuhkan mangsa racun POT 1-30; batalkan makhluk beracun POT 1-30; rawat sehingga 5 lbs. pepejal beracun, atau 2 gelen cecair |
-| 2 | 4 | Sembuhkan mangsa racun POT 31-60; batalkan makhluk beracun POT 31-60; rawat sehingga 10 lbs. pepejal beracun, atau 4 gelen cecair |
-| 3 | 5 | Sembuhkan mangsa racun POT 61-90; batalkan makhluk beracun POT 61-90; rawat sehingga 15 lbs. pepejal beracun, atau 6 gelen cecair |
-| 4 | 6 | Sembuhkan mangsa racun POT 91-120; batalkan makhluk beracun POT 91-120; rawat sehingga 20 lbs. pepejal beracun, atau 8 gelen cecair |
+| 1 | 3 | Sembuhkan mangsa racun POT 1-30; batalkan makhluk beracun POT 1-30; rawat sehingga 5 paun pepejal beracun, atau 2 gelen cecair |
+| 2 | 4 | Sembuhkan mangsa racun POT 31-60; batalkan makhluk beracun POT 31-60; rawat sehingga 10 paun pepejal beracun, atau 4 gelen cecair |
+| 3 | 5 | Sembuhkan mangsa racun POT 61-90; batalkan makhluk beracun POT 61-90; rawat sehingga 15 paun pepejal beracun, atau 6 gelen cecair |
+| 4 | 6 | Sembuhkan mangsa racun POT 91-120; batalkan makhluk beracun POT 91-120; rawat sehingga 20 paun pepejal beracun, atau 8 gelen cecair |
 | +1 | +1 | Teruskan perkembangan |
 
-Apabila diterbalikkan, Inflict Poison membolehkan pemantera menghasilkan toksin maut dalam mangsa. Bisa ini diperincikan di bawah.
+Apabila diterbalikkan, Menimbulkan Racun membolehkan pemantera menghasilkan toksin yang mematikan dalam diri mangsa. Bisa ini diperincikan di bawah.
 
-#### Arcane Poison
+#### Racun Arcane
 
 - **Aplikasi:** Sentuhan
-- **Potensi:** bersamaan dengan Intensiti x30
+- **Potensi:** bersamaan dengan Keamatan x30
 - **Rintangan:** Ketahanan
-- **Masa Permulaan:** 1d2+1 Pusingan
+- **Masa Mula:** 1d2+1 Pusingan
 - **Tempoh:** 1d3x10 Minit
-- **Kondisi:** Mangsa bermula dengan Sengsara (Agony) selama 2 Pusingan sebelum Asfiksia menyerang, biasanya mengakibatkan kematian, melainkan dirawat secara sihir dengan Slow atau Neutralize Poison.
-- **Penawar/Sembuh:** Tiada kecuali rawatan sihir.
+- **Keadaan:** Mangsa bermula dengan Sengsara yang berlangsung selama 2 Pusingan sebelum Asfiksia menyerang, biasanya mengakibatkan kematian, melainkan dirawat secara magis dengan sama ada Perlahan atau Meneutralkan Racun.
+- **Penawar/Penyembuh:** Tiada selain rawatan magis.
 
 ---
-#### Part Water
+#### Membelah Air
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 4 | **Masa Pemanteraan:** 10 Minit |
-| **Sfera:** Unsur (Air) | **Tempoh:** 10 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 60 kaki/Intensiti |
-| **Kawasan:** Lihat di bawah | **Rintangan:** T/A |
+| **Pangkat:** Paderi 4 | **Masa Mengeluarkan:** 10 Minit |
+| **Sfera:** Unsur (Air) | **Tempoh:** 10 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 60 kaki/Keamatan |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** TA |
 
-Mantera ini membolehkan pemantera membelah air atau bentuk cecair lain, mencipta laluan selamat yang kemudiannya boleh dilalui jika dikehendaki. Mantera mencipta palung selebar 100 kaki, dengan kedalaman 10 kaki bagi setiap Intensiti, dan panjang 120 kaki bagi setiap Intensiti. Oleh itu, jika dipantera pada Intensiti 4, pembelahan itu akan sedalam 40 kaki, sepanjang 480 kaki, dengan lebar 100 kaki. Mantera boleh ditamatkan lebih awal oleh pemantera, jika tidak ia berterusan sehingga Tempohnya tamat. Mantera ini boleh dipantera di bawah air, yang sebaliknya mencipta "koridor" udara dengan dimensi yang sama seperti yang dinyatakan di atas. Akhir sekali, Part Water boleh dipantera secara ofensif pada makhluk seperti unsur air, dan jika demikian, menyebabkan 10 mata kerosakan bagi setiap tahap Intensiti. Dengan andaian entiti itu terselamat, ia mestilah berjaya dalam gulungan Rintangan Kuasa Minda atau melarikan diri dari pemantera selama 3d4 minit.
+Mantera ini membolehkan pemantera membelah air atau bentuk cecair lain, mewujudkan laluan selamat yang kemudiannya boleh dilalui jika diingini. Mantera ini mencipta palung selebar 100 kaki, dengan kedalaman 10 kaki bagi setiap Keamatan, dan panjang 120 kaki bagi setiap Keamatan. Oleh itu, jika dikeluarkan pada Keamatan 4, pembelahan itu akan sedalam 40 kaki, sepanjang 480 kaki, dengan lebar 100 kaki. Mantera boleh ditamatkan lebih awal oleh pemantera, jika tidak, ia berterusan sehingga Tempohnya tamat. Mantera ini boleh dikeluarkan di bawah air, yang sebaliknya mencipta "koridor" udara dengan dimensi yang sama seperti yang dinyatakan di atas. Akhir sekali, Membelah Air boleh dikeluarkan secara menyerang ke atas makhluk seperti unsur air, dan jika berbuat demikian, menyebabkan 10 mata kerosakan bagi setiap tahap Keamatan. Dengan mengandaikan entiti itu terselamat, ia mesti berjaya dalam gulungan Rintangan Kurungan atau melarikan diri daripada pemantera selama 3d4 minit.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 min.; Julat 60 kaki; lebar 100 kaki; dalam 10 kaki; panjang 120 kaki |
-| 2 | 4 | 20 min.; Julat 120 kaki; lebar 100 kaki; dalam 20 kaki; panjang 240 kaki |
-| 3 | 5 | 30 min.; Julat 180 kaki; lebar 100 kaki; dalam 30 kaki; panjang 360 kaki |
-| 4 | 6 | 40 min.; Julat 240 kaki; lebar 100 kaki; dalam 40 kaki; panjang 480 kaki |
-| 5 | 7 | 50 min.; Julat 300 kaki; lebar 100 kaki; dalam 50 kaki; panjang 600 kaki |
+| 1 | 3 | 10 min.; 60 kaki Jarak; 100 kaki lebar; 10 kaki dalam; 120 kaki panjang |
+| 2 | 4 | 20 min.; 120 kaki Jarak; 100 kaki lebar; 20 kaki dalam; 240 kaki panjang |
+| 3 | 5 | 30 min.; 180 kaki Jarak; 100 kaki lebar; 30 kaki dalam; 360 kaki panjang |
+| 4 | 6 | 40 min.; 240 kaki Jarak; 100 kaki lebar; 40 kaki dalam; 480 kaki panjang |
+| 5 | 7 | 50 min.; 300 kaki Jarak; 100 kaki lebar; 50 kaki dalam; 600 kaki panjang |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Permanency
+#### Kekekalan
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 4 | **Masa Mengeluarkan:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Kekal |
-| **Kos:** 3, +2 EXP | **Julat:** Lihat di bawah |
-| **Kawasan:** Lihat di bawah | **Rintangan:** T/A |
+| **Kos:** 3, +2 EXP | **Jarak:** Lihat di Bawah |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** TA |
 
-Memantera mantera ini menukar Tempoh mantera lain kepada Kekal. Untuk menggunakan mantera ini, pengguna sihir akan terlebih dahulu memantera mantera yang ingin dijadikan kekal. Walau bagaimanapun, setelah menyelesaikan pemanteraan mantera itu ia ditahan, dan satu Titik Tindakan tambahan dibelanjakan memantera Permanency, selepas itu mantera terpilih dipantera dalam bentuk kekalnya. Setiap mantera yang dijadikan kekal menelan kos pemantera 2 Gulungan EXP serta 3 Mata Sihir yang dinyatakan, sebagai tambahan kepada Kos Pemanteraan biasa mantera asal. Mempunyai Dispel Magic dipantera semasa memantera Permanency bukan sahaja membatalkan Permanency, tetapi mantera asal juga.
+Pengeluaran mantera ini mengubah Tempoh mantera tertentu yang lain menjadi Kekal. Untuk menggunakan mantera ini, pengguna sihir akan terlebih dahulu mengeluarkan mantera yang ingin dijadikan kekal. Walau bagaimanapun, selepas menamatkan pengeluaran mantera itu, ia ditahan, dan satu Mata Tindakan tambahan digunakan untuk mengeluarkan Kekekalan, selepas itu mantera yang dipilih dikeluarkan dalam bentuk kekalnya. Setiap mantera yang dijadikan kekal menelan belanja pemantera 2 Gulungan Pengalaman serta 3 Mata Sihir yang dicatat, sebagai tambahan kepada Kos Pengeluaran biasa mantera asal. Mempunyai Hilangkan Sihir yang dikeluarkan semasa pengeluaran Kekekalan bukan sahaja menghilangkan Kekekalan, tetapi juga mantera asal.
 
-Permanency juga merupakan aplikasi utama dalam penciptaan item sihir menggunakan mantera Enchant Item. Sebagai tambahan kepada mantera yang dinyatakan di bawah, mantera lain boleh dijadikan kekal dengan kebenaran Pengurus Permainan.
+Kekekalan juga merupakan aplikasi utama dalam penciptaan item sihir menggunakan mantera Memikat Item. Sebagai tambahan kepada mantera yang dicatat di bawah, mantera lain boleh dijadikan kekal dengan kebenaran Pengurus Permainan.
 
-Mantera peribadi berikut, yang hanya menjejaskan pemantera, akan mendapat manfaat daripada mantera ini. Ia tidak boleh dijadikan kekal pada makhluk lain:
+Mantera peribadi berikut, yang hanya memberi kesan kepada pemantera, akan mendapat manfaat daripada mantera ini. Ia tidak boleh dijadikan kekal pada makhluk lain:
 
-- Avert	
-- Coordination
-- Darkvision	
-- Deflect	
-- Detect Evil
-- Detect Invisibility
-- Detect Magic
+- Avert
+- Koordinasi
+- Penglihatan Gelap
+- Menangkis
+- Kesan Kejahatan
+- Kesan Halimunan
+- Kesan Sihir
 - Glamour
-- Know Languages
-- Might
-- Preserve
-- Protection (Diri)
-- Protection from Evil
-- Read Magic
-- Tongues
+- Tahu Bahasa
+- Kekuatan
+- Memelihara
+- Perlindungan (Diri)
+- Perlindungan daripada Kejahatan
+- Baca Sihir
+- Lidah
 
 
-Mantera Permanency juga boleh digunakan untuk menjadikan mantera berikut, yang dipantera pada makhluk, objek, atau kawasan lain, kekal. Mantera yang ditandakan dengan asterisk hanya boleh dijadikan kekal pada objek atau kawasan.
+Mantera Kekekalan juga boleh digunakan untuk menjadikan mantera berikut, yang dikeluarkan ke atas makhluk, objek, atau kawasan lain, menjadi kekal. Mantera yang ditandakan dengan asterisk hanya boleh dijadikan kekal pada objek atau kawasan.
 
-- Chill
-- Cleanse
-- Dancing Lights\*
-- Fear
-- Invisibility
-- Polish \*
-- Preserve
-- Tidy \*
-- Magic Mouth \*
-- Wall of Fire\* 
-- Web \* |
+- Sejuk
+- Bersihkan
+- Cahaya Menari\*
+- Ketakutan
+- Halimunan
+- Gilap \*
+- Memelihara
+- Kemas \*
+- Mulut Sihir \*
+- Dinding Api\* 
+- Jaring \* |
 
 
 ---
-#### Pet
+#### Haiwan Peliharaan
 
-(Enchantment (Pesona))
+(Pesona (Memikat))
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Haiwan | **Tempoh:** Tumpuan |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Haiwan | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 0 | **Masa Mengeluarkan:** 1 Tindakan |
+| **Sfera:** Haiwan | **Tempoh:** Penumpuan |
+| **Kos:** 1 | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Haiwan | **Rintangan:** Kurungan |
 
-Pet membolehkan pemantera mengambil kawalan mental terhadap makhluk kecil, menghantarnya meninjau, mengambil, atau melakukan beberapa tugas kompleks lain. Ia boleh dipantera pada mana-mana makhluk yang mana SIZ dan INS tidak boleh melebihi separuh CHA pemantera. Jika makhluk sasaran sudah menjadi haiwan kesayangan setia pemantera, ia tidak perlu menentang mantera tersebut. Semasa menumpukan perhatian, pemantera boleh mengakses deria haiwan (penglihatan, bau, pendengaran, dan sebagainya)
+Haiwan Peliharaan membolehkan pemantera mengambil kawalan mental ke atas makhluk kecil, menghantarnya untuk meninjau, mengambil, atau melakukan tugas kompleks yang lain. Ia boleh dikeluarkan pada mana-mana makhluk yang mana ciri SAI dan KEC tidak melebihi separuh daripada KAR pemantera. Jika makhluk yang disasarkan sudah pun menjadi haiwan peliharaan setia pemantera, ia tidak perlu menentang mantera tersebut. Semasa menumpukan perhatian, pemantera boleh mengakses deria haiwan tersebut (penglihatan, bau, pendengaran, dan sebagainya)
 
 ---
-#### Plane Shift
+#### Peralihan Satah
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Paderi 3 | **Masa Mengeluarkan:** 2 Tindakan |
 | **Sfera:** Astral | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Kuasa Minda |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuhan |
+| **Kawasan:** Lihat di Bawah | **Rintangan:** Kurungan |
 
-Apabila dipantera, paderi dan sehingga 7 orang lain (satu bagi setiap tahap Intensiti tambahan) boleh mengembara ke satah kewujudan lain. Semua orang mestilah bersentuhan dan membentuk bulatan semasa paderi memantera mantera. Selain itu, pemantera juga boleh menggunakan mantera untuk mengangkut satu makhluk bebas daripada diri mereka sendiri, sama ada rela atau tidak, ke satah pilihan pemantera; walau bagaimanapun, yang tidak rela boleh membuat gulungan Kuasa Minda untuk menentang, dengan Kejayaan membatalkan mantera. Titik ketibaan yang tepat jarang sekali seperti yang diingini oleh pemantera. Jika menggunakan peta heks, gulung 1d6 untuk menentukan arah dan 1d10x10 untuk jarak dalam batu.
+Apabila dikeluarkan, paderi dan sehingga 7 orang lain (seorang bagi setiap tahap Keamatan tambahan) boleh mengembara ke satah kewujudan yang lain. Semua orang mesti bersentuhan dan membentuk bulatan sementara paderi mengeluarkan mantera tersebut. Di samping itu, pemantera juga boleh menggunakan mantera tersebut untuk mengangkut satu makhluk secara bebas daripada diri mereka sendiri, sama ada rela atau tidak, ke satah pilihan pemantera; walau bagaimanapun, mereka yang tidak rela boleh membuat gulungan Kurungan untuk menentang, dengan Kejayaan membatalkan mantera tersebut. Titik ketibaan yang tepat jarang sekali seperti yang diingini oleh pemantera. Jika menggunakan peta heksagon, gulung 1d6 untuk menentukan arah dan 1d10x10 untuk jarak dalam batu.
 
-Sebagai tambahan kepada mana-mana komponen material generik, pemanteraan Plane Shift memerlukan rod daripada pelbagai logam nadir, masing-masing diselaraskan khas kepada satah kewujudan. Rod ini jarang ditemui dan mudah dinilai setinggi 10,000GP setiap satu.
+Sebagai tambahan kepada mana-mana komponen material generik, pengeluaran Peralihan Satah memerlukan rod pelbagai logam jarang, setiap satunya ditala khas kepada satah kewujudan. Rod ini jarang ditemui dan mudah dinilai setinggi 10,000 GP setiap satu.
 
 ---
-#### Polish
+#### Gilap
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Penciptaan | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** Sentuhan |
+| **Pangkat:** Paderi 0, Mage 0 | **Masa Mengeluarkan:** 1 Tindakan |
+| **Sfera:** Penciptaan | **Tempoh:** Serta-merta |
+| **Kos:** 1 | **Jarak:** Sentuhan |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Tiada |
 
-Polish serta-merta menggilap satu objek - bersamaan dalam 'Benda' atau SIZ sehingga POW pemantera - kepada tahap berkilat tinggi menjadikannya licin, bersinar, dan sangat diingini, walaupun kualiti artikel tersebut adalah rendah. Item tersebut akan kehilangan kilatnya secara normal dari semasa ke semasa.
+Gilap serta-merta menggilap satu objek - setara dalam 'Benda' atau SAI sehingga KUR pemantera - sehingga berkilat, menjadikannya licin, bersinar, dan sangat diingini, walaupun kualiti artikel tersebut adalah di bawah tahap. Item itu akan hilang kilatannya secara normal dari masa ke masa.
 
 ---
-#### Polymorph Other
+#### Polimorf Lain
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Mage 3 | **Masa Mengeluarkan:** 2 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan (+1 EXP) | **Julat:** 15 kaki/Intensiti |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Kos:** 3, +1/Keamatan tambahan (+1 EXP) | **Jarak:** 15 kaki/Keamatan |
+| **Kawasan:** 1 Sasaran | **Rintangan:** Kurungan |
 
-Pemantera boleh mengubah bentuk satu makhluk bersasaran bertubuh fizikal kepada makhluk lain, dengan setiap mata Intensiti mengubah SIZ sehingga 5 mata. Oleh itu, mengubah orc bersaiz SIZ 16 kepada arnab bersaiz SIZ 1 akan memerlukan 3 tahap Intensiti (perbezaan 15 mata SIZ). Subjek mantera ini dibenarkan gulungan Kuasa Minda untuk menentang. Makhluk besar (SIZ 21-40) kurang terdedah kepada polimorf, dengan gulungan Rintangan mereka menjadi Mudah, manakala gulungan Rintangan untuk makhluk sangat besar (SIZ 41+) adalah Sangat Mudah.
+Pemantera boleh mengubah bentuk satu makhluk jasmani yang disasarkan menjadi bentuk makhluk lain, dengan setiap mata Keamatan mengubah SAI sehingga 5 mata. Oleh itu, mengubah orc yang bersai 16 menjadi arnab SAI 1 akan memerlukan 3 tahap Keamatan (15 mata perbezaan SAI). Subjek mantera ini dibenarkan membuat gulungan Kurungan untuk menentang. Makhluk besar (SAI 21-40) kurang terdedah untuk dipolimorf, dengan gulungan Rintangan mereka adalah Mudah, manakala gulungan Rintangan untuk makhluk Sangat Besar (SAI 41+) adalah Sangat Mudah.
 
-Keseluruhan proses transformasi mengambil masa satu Pusingan penuh dan boleh menjadi sangat menekan kepada makhluk tersebut, memerlukan gulungan Kuasa Minda kedua untuk mengekalkan keperibadian asal mereka, dengan Kegagalan mengejutkan subjek selama 1d10 minit, dan Fumble mengakibatkan kematian akibat kejutan mental. Setiap penggandaan atau separuh daripada SIZ asal makhluk menjadikan gulungan Kuasa Minda untuk mengekalkan keperibadian satu gred lebih sukar, begitu juga dengan perubahan persekitaran yang lengkap, seperti menukar orang menjadi ikan. Gulungan yang berjaya membolehkan mangsa mengekalkan INT dan CHA mereka serta sebarang kemahiran yang memerlukan Ciri-ciri tersebut.
+Keseluruhan proses transformasi mengambil masa satu Pusingan penuh dan boleh menjadi agak menegangkan kepada makhluk tersebut, memerlukan gulungan Kurungan kedua untuk mengekalkan personaliti asal mereka, dengan Kegagalan mengejutkan subjek selama 1d10 minit, dan Kegagalan Teruk mengakibatkan kematian akibat kejutan mental. Setiap penggandaan atau pembahagian SAI asal makhluk menjadikan gulungan Kurungan untuk mengekalkan personaliti satu gred lebih sukar, begitu juga dengan perubahan persekitaran yang lengkap, seperti menukar seseorang menjadi ikan. Gulungan yang berjaya membolehkan mangsa mengekalkan KEC dan KAR mereka serta sebarang kemahiran yang memerlukan Ciri tersebut.
 
-Transformasi memberikan penerima bentuk pernafasan makhluk yang diandaikan, jika selain daripada biasa; sebarang serangan semula jadi; dan semua mod pergerakan duniawi. Ia tidak memberikan sebarang Kebolehan yang dipertingkatkan atau sihir yang dimiliki oleh makhluk tersebut. Sebagai contoh, makhluk yang telah dipolimorf menjadi naga tidak akan mendapat serangan nafas atau kebolehan seperti mantera makhluk itu, tetapi akan mendapat keupayaan untuk terbang, kulitnya yang keras, serangan gigitan maut, serangan cakar, dan sebagainya. Selain itu, mangsa mendapat kemahiran fizikal bentuk baharu seperti Atletik, Otot, Fly, Swim, serta Mata Hit dan Pengubah Kerosakan bentuk tersebut. Dengan andaian individu yang berubah mengekalkan INT mereka, mereka masih kehilangan kapasiti untuk bercakap, melainkan bentuk baharu mempunyai keupayaan untuk mengartikulasikan perkataan. Mereka yang mampu memantera mantera dalam bentuk sebelumnya masih akan dapat memantera dalam bentuk baharu, dengan andaian pemantera masih mempunyai keupayaan untuk menghasilkan komponen lisan dan somatik. Dalam kes perubahan drastik, seperti ditukar daripada biped kepada quadruped, atau haiwan darat kepada haiwan laut, sebagai contoh, Pengurus Permainan harus berasa bebas untuk mengenakan penalti sebanyak sekurang-kurangnya satu Gred Kesukaran, penggunaan sebarang kemahiran yang akan mengambil masa untuk dipelajari semasa menyesuaikan diri dengan bentuk baharu sehingga ada masa yang mencukupi untuk berlatih. Ini terutamanya benar bagi kemahiran fizikal seperti Atletik, Tanpa Senjata, Swim, Fly, Kemahiran Pertempuran, dan sebagainya.
+Transformasi memberikan penerima bentuk pernafasan makhluk yang diandaikan, jika selain daripada biasa; sebarang serangan semula jadi; dan semua mod pergerakan biasa. Ia tidak memberikan sebarang Kebolehan yang dipertingkatkan atau magis yang dimiliki oleh makhluk tersebut. Sebagai contoh, makhluk yang telah dipolimorf menjadi naga tidak akan mendapat serangan nafas atau kebolehan seperti mantera makhluk itu, tetapi akan mendapat kebolehan untuk terbang, kulitnya yang keras, gigitan maut, serangan cakar, dan sebagainya. Di samping itu, mangsa mendapat kemahiran fizikal bentuk baharu seperti Atletik, Kekuatan, Terbang, Berenang, serta Mata Kenaan dan Pengubah Kerosakan. Dengan mengandaikan individu yang berubah itu mengekalkan KEC mereka, mereka masih kehilangan keupayaan untuk bercakap, melainkan bentuk baharu itu mempunyai kebolehan untuk menyebut perkataan. Mereka yang mampu mengeluarkan mantera dalam bentuk sebelumnya masih akan dapat mengeluarkan mantera dalam bentuk baharu, dengan mengandaikan mereka masih mempunyai keupayaan untuk menghasilkan komponen lisan dan somatik. Dalam kes perubahan drastik, seperti ditukar daripada biped kepada quadruped, atau haiwan darat kepada makhluk laut, sebagai contoh, Pengurus Permainan harus berasa bebas untuk mengenakan penalti sekurang-kurangnya satu Gred Kesukaran terhadap penggunaan sebarang kemahiran yang memerlukan masa untuk dipelajari semasa menyesuaikan diri dengan bentuk baharu sehingga terdapat masa yang mencukupi untuk berlatih. Ini terutamanya benar bagi kemahiran fizikal seperti Atletik, Tanpa Senjata, Berenang, Terbang, Kemahiran Tempur, dan sebagainya.
 
-Gulungan Kuasa Minda untuk mengekalkan keperibadian seseorang diperlukan setiap hari subjek kekal berubah sehingga gagal, menyebabkan orang itu akhirnya tunduk kepada mentaliti bentuk baharu, dengan INT berubah kepada INS dalam kes makhluk bukan bijak. Semua Kebolehan khas dan sihir yang dimiliki oleh bentuk baharu yang tidak diperoleh sebelum ini, seperti serangan renungan, senjata nafas, dan sebagainya, kini tersedia kepada makhluk tersebut apabila transformasi selesai. Watak yang kehilangan identiti mereka dengan cara ini menjadi Watak Bukan Pemain di bawah kawalan Pengurus Permainan.
+Gulungan Kurungan untuk mengekalkan personaliti seseorang diperlukan setiap hari subjek kekal berubah sehingga gagal, menyebabkan orang itu akhirnya tunduk kepada mentaliti bentuk baharu, dengan KEC berubah menjadi KEC dalam kes makhluk bukan sapien. Semua Kebolehan khas dan magis yang dimiliki oleh bentuk baharu yang tidak diperoleh sebelum ini, seperti serangan renungan, senjata nafas, dan sebagainya, kini tersedia kepada makhluk tersebut apabila transformasi selesai. Watak yang kehilangan identiti mereka dengan cara ini menjadi Watak Bukan Pemain di bawah kawalan Pengurus Permainan.
 
-Sebelum tunduk secara mental kepada transformasi, makhluk yang dipolimorf terdedah kepada Dispel Magic seperti biasa, tanpa gulungan untuk menentang diperlukan, kerana ia adalah keinginan bawah sedar seseorang untuk kembali normal. Transformasi memerlukan gulungan Kuasa Minda lain untuk menentang ketegangan, dengan Kegagalan mengejutkan subjek selama 1d10 minit, dan Fumble mengakibatkan kematian akibat kejutan mental.
+Sebelum tunduk secara mental kepada transformasi, makhluk yang dipolimorf terdedah kepada Hilangkan Sihir seperti biasa, tanpa gulungan untuk menentang diperlukan, kerana ia adalah keinginan bawah sedar seseorang untuk kembali normal. Transformasi memerlukan satu lagi gulungan Kurungan untuk menentang ketegangan, dengan Kegagalan mengejutkan subjek selama 1d10 minit, dan Kegagalan Teruk mengakibatkan kematian akibat kejutan mental.
 
-Jika mangsa telah tunduk kepada bentuk baharu, Dispel Magic masih boleh digunakan; walau bagaimanapun, mangsa akan cuba menentang untuk kembali kepada bentuk semula jadi dengan gulungan Kuasa Minda. Gagal dalam gulungan ini bermakna mangsa berubah kembali kepada bentuk semula jadi, yang, sudah tentu, memerlukan gulungan Kuasa Minda lain untuk menentang kejutan mental daripada transformasi. Sekali hilang, identiti semula jadi mangsa tidak lagi boleh dicapai, sebaliknya mangsa mengandaikan bentuk asing yang pelik itu bukanlah semula jadi dan ingin kembali kepada bentuk 'normal' mereka yang terdahulu. _Sebagai contoh, orc yang dipolimorf menjadi arnab dan mengandaikan identiti makhluk itu akan percaya bahawa ia kini adalah arnab yang telah berubah menjadi orc secara kasar._ Hanya Wish, atau sihir serupa yang lain, mempunyai peluang untuk memulihkan identiti mangsa setelah ia hilang.
+Jika mangsa sebelum ini telah tunduk kepada bentuk baharu, Hilangkan Sihir masih boleh digunakan; walau bagaimanapun, mangsa akan cuba menentang kembali ke bentuk semula jadi dengan gulungan Kurungan. Gagal dalam gulungan ini bermakna mangsa berubah kembali kepada bentuk semula jadi, yang, sudah tentu, memerlukan satu lagi gulungan Kurungan untuk menentang kejutan mental daripada transformasi. Setelah hilang, identiti semula jadi mangsa tidak lagi boleh dicapai, sebaliknya mangsa menganggap bentuk yang aneh dan asing itu adalah tidak semula jadi dan mendambakan untuk dikembalikan kepada 'normal' sebelumnya. _Sebagai contoh, orc yang telah dipolimorf menjadi arnab dan mengandaikan identiti makhluk itu akan percaya bahawa ia kini adalah arnab yang telah ditransformasikan dengan agak kasar menjadi orc._ Hanya Permintaan, atau sihir lain yang serupa, mempunyai sebarang peluang untuk memulihkan identiti mangsa setelah ia hilang.
 
-Semua peralatan yang dipakai dan dibawa secara sihir bergabung ke dalam bentuk baharu; walau bagaimanapun, dalam beberapa kes, Pengurus Permainan mungkin membenarkan item sihir yang masih boleh digunakan dalam bentuk baharu makhluk untuk kekal, seperti cincin sihir atau but. Perhatikan ini memerlukan SIZ baharu makhluk itu tidak jauh berbeza daripada yang asal. Terdapat peluang POW x1% bagi setiap item sihir yang dipakai bukan bersifat ofensif, tertakluk kepada kelulusan Pengurus Permainan, untuk memindahkan kesannya ke bentuk baharu makhluk itu. Makhluk dengan cincin perlindungan +1 sebagai contoh, boleh mendapat bonus +1 kepada Mata Perisai semula jadinya. Makhluk yang mempunyai keupayaan semula jadi untuk menukar bentuk, seperti doppelgänger dan likantrop, akan diubah seperti biasa, tetapi mungkin mengandaikan bentuk normal mereka selepas 1 Pusingan. Jika terbunuh, makhluk yang dipolimorf kembali kepada bentuk semula jadi, walaupun ia telah kehilangan semua kesan identiti sebelum ini.
+Semua peralatan yang dipakai dan dibawa secara magis bergabung ke dalam bentuk baharu; walau bagaimanapun, dalam beberapa kes, Pengurus Permainan boleh membenarkan item sihir yang masih boleh digunakan dalam bentuk baharu makhluk tersebut untuk kekal, seperti cincin sihir atau but. Ambil perhatian bahawa ini memerlukan SAI baharu makhluk itu tidak jauh berbeza daripada yang asal. Terdapat peluang KUR x1% bagi setiap item sihir yang dipakai yang bersifat bukan menyerang, tertakluk kepada kelulusan Pengurus Permainan, untuk memindahkan kesannya kepada bentuk baharu makhluk tersebut. Makhluk dengan cincin perlindungan +1 sebagai contoh, boleh mendapat bonus +1 kepada Mata Perisai semula jadinya. Makhluk dengan keupayaan semula jadi untuk menukar bentuk, seperti doppelgänger dan lycanthrope, akan ditransformasikan seperti biasa, tetapi boleh menggunakan bentuk normal mereka selepas 1 Pusingan. Jika dibunuh, makhluk yang dipolimorf kembali kepada bentuk semula jadinya, walaupun ia sebelum ini telah kehilangan semua kesan identiti.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3, +1 EXP | Julat 15 kaki; 1-5 mata perbezaan SIZ |
-| 2 | 4, +1 EXP | Julat 30 kaki; 6-10 mata perbezaan SIZ |
-| 3 | 5, +1 EXP | Julat 45 kaki; 11-15 mata perbezaan SIZ |
-| 4 | 6, +1 EXP | Julat 60 kaki; 16-20 mata perbezaan SIZ |
+| 1 | 3, +1 EXP | 15-kaki Jarak; 1-5 mata perbezaan SAI |
+| 2 | 4, +1 EXP | 30-kaki Jarak; 6-10 mata perbezaan SAI |
+| 3 | 5, +1 EXP | 45-kaki Jarak; 11-15 mata perbezaan SAI |
+| 4 | 6, +1 EXP | 60-kaki Jarak; 16-20 mata perbezaan SAI |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Polymorph Self
+#### Polimorf Diri
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 20 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Pemantera | **Rintangan:** T/A |
+| **Pangkat:** Mage 3 | **Masa Mengeluarkan:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 20 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 0 |
+| **Kawasan:** Pemantera | **Rintangan:** TA |
 
-Pemantera boleh mengandaikan bentuk mana-mana makhluk bertubuh fizikal lain, daripada sekecil SIZ 1 sehingga SIZ 40. Setiap mata Intensiti membolehkan peningkatan atau penurunan sehingga 10 mata SIZ. Oleh itu, pengguna sihir bersaiz SIZ 13 boleh mengandaikan bentuk beruang grizzly bersaiz SIZ 34 pada 3 tahap Intensiti. Proses transformasi mengambil masa satu Pusingan penuh dan memberikan pemantera bentuk pernafasan makhluk tersebut (jika selain daripada dirinya sendiri, sebagai contoh, bernafas air), sebarang serangan semula jadi, Mata Hit, Pengubah Kerosakan, dan mod pergerakannya yang normal. Ia tidak memberikan sebarang Kebolehan yang dipertingkatkan atau sihir yang dimiliki oleh makhluk tersebut. Pengguna sihir yang telah dipolimorf menjadi helang, sebagai contoh, tidak akan mendapat penglihatan luar biasa burung tersebut. Pemantera mendapat kemahiran fizikal makhluk tersebut seperti Atletik, Otot, Fly, Swim, dan sebagainya, tetapi mengekalkan sebarang kemahiran mental dan sosial (mereka yang memerlukan INT dan CHA). Pemantera kehilangan kapasiti untuk bercakap melainkan makhluk berkenaan mempunyai keupayaan untuk mengartikulasikan perkataan. Jika ya, pemantera masih boleh memantera mantera dalam bentuk baharu dengan andaian pemantera boleh membentuk komponen somatik mantera tersebut.
+Pemantera boleh mengambil bentuk mana-mana makhluk jasmani lain, sekecil SAI 1 sehingga SAI 40. Setiap mata Keamatan membolehkan peningkatan atau penurunan sehingga 10 mata SAI. Oleh itu, pengguna sihir SAI 13 boleh mengambil bentuk beruang grizzly SAI 34 pada 3 tahap Keamatan. Proses transformasi mengambil masa satu Pusingan penuh dan memberikan pemantera bentuk pernafasan makhluk yang diandaikan (jika selain daripada dirinya sendiri, sebagai contoh, bernafas dalam air), sebarang serangan semula jadi, Mata Kenaan, Pengubah Kerosakan, dan mod pergerakan biasanya. Ia tidak memberikan sebarang Kebolehan yang dipertingkatkan atau magis yang dimiliki oleh makhluk tersebut. Pengguna sihir yang telah dipolimorf menjadi helang, sebagai contoh, tidak akan mendapat penglihatan luar biasa burung tersebut. Pemantera mendapat kemahiran fizikal makhluk tersebut seperti Atletik, Kekuatan, Terbang, Berenang, dan sebagainya, tetapi mengekalkan sebarang kemahiran mental dan sosial (yang memerlukan KEC dan KAR). Pemantera kehilangan keupayaan untuk bercakap melainkan makhluk tersebut mempunyai keupayaan untuk menyebut perkataan. Jika ya, pemantera masih boleh mengeluarkan mantera dalam bentuk baharu dengan mengandaikan pemantera boleh membentuk komponen somatik mantera tersebut.
 
-Pemantera boleh menamatkan kesan pada bila-bila masa, dan dalam proses tersebut, semua Luka Kecil yang diperoleh semasa dalam bentuk baharu hilang, dan Luka Serius dikurangkan kepada Luka Kecil (separuh Mata Hit hilang di setiap lokasi yang berkenaan). Luka Utama tidak terjejas oleh transformasi dan terbawa-bawa ke bentuk semula jadi. Tiada penyembuhan apabila pemantera berubah daripada bentuk semula jadi kepada bentuk haiwan.
+Pemantera boleh menamatkan kesan pada bila-bila masa, dan dalam proses itu, semua Luka Kecil yang diperoleh semasa dalam bentuk baharu hilang, dan Luka Serius dikurangkan kepada Luka Kecil (separuh Mata Kenaan yang hilang di setiap lokasi yang berkenaan). Luka Utama tidak terjejas oleh transformasi dan terbawa ke bentuk semula jadi. Tiada penyembuhan apabila pemantera berubah daripada bentuk semula jadi kepada bentuk haiwan.
 
-Polymorph tertakluk kepada Dispel Magic. Dalam kes ini, pemantera tidak mendapat manfaat daripada penyembuhan. Jika terbunuh, pemantera akan kembali kepada bentuk semula jadi. Jika berubah menjadi makhluk terbang dan diperlukan untuk membuat gulungan kemahiran Fly, Atletik atau Akrobatik boleh digantikan pada dua gred kesukaran. Walau bagaimanapun, watak yang kerap menggunakan bentuk ini boleh memilih untuk membangunkan kemahiran Fly secara normal pada Nilai Asas STR+DEX.
+Polimorf tertakluk kepada Hilangkan Sihir. Dalam kes ini, pemantera tidak mendapat manfaat daripada penyembuhan. Jika dibunuh, pemantera akan kembali kepada bentuk semula jadi. Jika ditransformasikan menjadi makhluk terbang dan perlu membuat gulungan kemahiran Terbang, Atletik atau Akrobatik boleh digantikan pada dua gred kesukaran. Walau bagaimanapun, watak yang menggunakan bentuk ini dengan kerap boleh memilih untuk membangunkan kemahiran Terbang secara normal pada Nilai Asas KEK+KTG.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 20 min.; 1-10 mata perbezaan SIZ |
-| 2 | 4 | 40 min.; 11-20 mata perbezaan SIZ |
-| 3 | 5 | 60 min.; 21-30 mata perbezaan SIZ |
-| 4 | 6 | 80 min.; 31-40 mata perbezaan SIZ |
+| 1 | 3 | 20 min.; 1-10 mata perbezaan SAI |
+| 2 | 4 | 40 min.; 11-20 mata perbezaan SAI |
+| 3 | 5 | 60 min.; 21-30 mata perbezaan SAI |
+| 4 | 6 | 80 min.; 31-40 mata perbezaan SAI |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Power Word - Blind
+#### Kata Kuasa - Buta
 
 (Konjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 20 kaki/Intensiti |
-| **Kawasan:** Jejari 15 kaki | **Rintangan:** Ketahanan |
+| **Pangkat:** Mage 4 | **Masa Mengeluarkan:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 20 kaki/Keamatan |
+| **Kawasan:** 15 kaki Jejari | **Rintangan:** Ketahanan |
 
-Apabila berjaya memantera mantera ini, satu makhluk pilihan pemantera dalam jarak penglihatan dan Julat, menjadi buta, bersama-sama dengan semua yang lain dalam jejari 15 kaki yang gagal dalam gulungan Rintangan. Kebutaan ini boleh disembuhkan dengan memantera Cure Blindness atau Dispel Magic. Tempoh mantera diubah suai oleh Pangkat atau SIZ sasaran, yang mana memberikan hasil yang lebih berfaedah. Ini diperincikan dalam jadual berikut.
+Apabila berjaya mengeluarkan mantera ini, satu makhluk pilihan pemantera dalam lingkungan garis penglihatan dan Jarak, akan menjadi buta, bersama-sama dengan semua yang lain dalam lingkungan 15 kaki jejari yang gagal dalam gulungan Rintangan. Kebutaan ini boleh disembuhkan dengan mengeluarkan Sembuh Buta atau Hilangkan Sihir. Tempoh mantera diubah suai oleh Pangkat atau SAI sasaran, yang mana memberikan hasil yang lebih berfaedah. Ini diperincikan dalam jadual berikut.
 
-| Pangkat Sasaran | SIZ Sasaran | Tempoh |
+| Pangkat Sasaran | SAI Sasaran | Tempoh |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | 1d4+1 x10 minit\*\* |
 | 2 | 21-40 | 1d4+1 minit |
@@ -2145,48 +2152,48 @@ Apabila berjaya memantera mantera ini, satu makhluk pilihan pemantera dalam jara
 
 _\* Kategori ini termasuk watak yang tidak mempunyai Kelas._
 
-_\*\* Jika hanya satu hingga tiga makhluk berada dalam Kawasan Kesan, kesannya adalah kekal sehingga dirawat secara sihir._
+_\*\* Jika hanya satu hingga tiga makhluk berada dalam Kawasan Kesan, kesannya adalah kekal sehingga dirawat secara magis._
 
 ---
-#### Power Word - Kill
+#### Kata Kuasa - Bunuh
 
 (Konjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 5 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 5 | **Masa Mengeluarkan:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Kekal |
-| **Kos:** 3/Intensiti, +3 EXP | **Julat:** 20 kaki/Intensiti |
-| **Kawasan:** Jejari 10 kaki | **Rintangan:** Ketahanan |
+| **Kos:** 3/Keamatan, +3 EXP | **Jarak:** 20 kaki/Keamatan |
+| **Kawasan:** 10 kaki Jejari | **Rintangan:** Ketahanan |
 
-Kejayaan memantera mantera ini akan membunuh sama ada satu makhluk sehingga Pangkat 3 atau SIZ 60 (atau 4 makhluk bagi setiap Intensiti yang tidak melebihi SIZ 20), yang gagal dalam gulungan Rintangan. Mantera ini sangat meletihkan pemantera, dengan setiap pemanteraan menyebabkan kehilangan automatik satu tahap Keletihan. Semua sasaran berpotensi mestilah berada dalam Kawasan Kesan, seperti yang ditetapkan apabila mantera dipantera. Intensiti yang diperlukan bergantung pada Pangkat atau SIZ sasaran, yang mana memberikan hasil yang lebih berfaedah kepada sasaran, seperti yang diperincikan pada jadual berikut.
+Pengeluaran mantera ini yang berjaya akan membunuh sama ada satu makhluk sehingga Pangkat 3 atau SAI 60 (atau 4 makhluk bagi setiap Keamatan yang tidak melebihi SAI 20), yang gagal dalam gulungan Rintangan. Mantera ini sangat menguras tenaga pemantera, dengan setiap pengeluaran menyebabkan kehilangan automatik satu tahap Keletihan. Semua sasaran berpotensi mesti berada dalam Kawasan Kesan, seperti yang ditetapkan apabila mantera dikeluarkan. Keamatan yang diperlukan bergantung kepada Pangkat atau SAI sasaran, yang mana memberikan sasaran hasil yang lebih berfaedah, seperti yang diperincikan dalam jadual berikut.
 
-| Pangkat Sasaran | SIZ Sasaran | Intensiti |
+| Pangkat Sasaran | SAI Sasaran | Keamatan |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | 1 Intensiti +3 EXP untuk Membunuh |
-| 2 | 21-40 | 2 Intensiti +3 EXP untuk Membunuh |
-| 3 | 41-60 | 3 Intensiti +3 EXP untuk Membunuh |
+| 0-1\* | 1-20 | 1 Keamatan +3 EXP untuk Membunuh |
+| 2 | 21-40 | 2 Keamatan +3 EXP untuk Membunuh |
+| 3 | 41-60 | 3 Keamatan +3 EXP untuk Membunuh |
 | 4-5 | 61+ | Tiada kesan |
 
 _\* Kategori ini termasuk watak yang tidak mempunyai Kelas._
 
-Makhluk yang lebih besar daripada SIZ 60 tidak terjejas, begitu juga watak Pangkat 4 ke atas. Tidak seperti Death Spell, Power Word - Kill akan membunuh apa sahaja dalam had yang dinyatakan di atas, walau bagaimanapun, adalah mungkin untuk menghidupkan semula mangsa melalui pemanteraan Wish, Raise Dead, Resurrection, dan Reincarnation seperti biasa.
+Makhluk yang lebih besar daripada SAI 60 tidak terjejas, begitu juga watak Pangkat 4 ke atas. Tidak seperti Mantera Kematian, Kata Kuasa - Bunuh akan membunuh apa sahaja dalam had yang dinyatakan di atas, walau bagaimanapun, adalah mungkin untuk menghidupkan semula mangsa melalui pengeluaran Permintaan, Bangkit Mati, Kebangkitan, dan Penjelmaan semula seperti biasa.
 
 ---
-#### Power Word – Stun
+#### Kata Kuasa - Kejut
 
 (Konjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** Lihat di bawah |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 20 kaki/Intensiti |
+| **Pangkat:** Mage 3 | **Masa Mengeluarkan:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 20 kaki/Keamatan |
 | **Kawasan:** 1 Sasaran | **Rintangan:** Ketahanan |
 
-Apabila berjaya memantera mantera ini, satu makhluk pilihan pemantera dalam jarak penglihatan dan Julat, yang gagal dalam gulungan Rintangan menjadi kaku (stunned). Mangsa menjadi tidak sedarkan diri secara ringkas, hanya dibenarkan Tindakan Reaktif bersifat defensif. Tempohnya diubah suai oleh Pangkat atau SIZ sasaran, yang mana memberikan hasil yang lebih berfaedah bagi sasaran. Ini diperincikan pada jadual berikut. Kekakuan ini boleh disembuhkan sebelum Tempoh berakhir melalui pemanteraan Dispel Magic.
+Apabila berjaya mengeluarkan mantera ini, satu makhluk pilihan pemantera dalam lingkungan garis penglihatan dan Jarak, yang gagal dalam gulungan Rintangan akan terkejut. Mangsa menjadi tidak sedarkan diri seketika, hanya dibenarkan Tindakan Reaktif yang bersifat defensif. Tempoh diubah suai oleh Pangkat atau SAI sasaran, yang mana memberikan hasil yang lebih berfaedah bagi sasaran. Ini diperincikan dalam jadual berikut. Pengejutan ini boleh disembuhkan sebelum Tempoh tamat melalui pengeluaran Hilangkan Sihir.
 
-| Pangkat Sasaran | SIZ Sasaran | Tempoh |
+| Pangkat Sasaran | SAI Sasaran | Tempoh |
 | :-: | :-: | :-- |
 | 0-1\* | 1-20 | 4d4 Pusingan |
 | 2 | 21-40 | 2d4 Pusingan |
@@ -2196,259 +2203,275 @@ Apabila berjaya memantera mantera ini, satu makhluk pilihan pemantera dalam jara
 
 _\* Kategori ini termasuk watak yang tidak mempunyai Kelas._
 
----
-#### Prayer
+---#### Doa
 
-(Konjurasi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 1 Minit |
-| **Sfera:** Tempur | **Tempoh:** 10 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Jejari 60 kaki | **Rintangan:** T/A |
-
-Apabila dipantera, mantera ini memberkati paderi dan semua sekutu dalam Kawasan Kesan, manakala menyumpah mereka yang menentang. Sekutu diberikan bonus +5% sementara kepada semua gulungan kemahiran dan Rintangan bersama-sama dengan bonus +1 kepada semua kerosakan yang dilakukan, manakala musuh menerima penalti -5% dan pengurangan -1 kerosakan. Mantera ini boleh dipantera bersama Chant jika dipantera oleh sama ada paderi yang sama, atau paderi lain daripada agama yang sama, membenarkan kedua-dua kesan bertindan, memberikan bonus +10% kepada kemahiran dan +2 kepada kerosakan, manakala musuh menerima sebaliknya.
-
----
-#### Predict Weather
-
-(Divinasi)
+(Seruan)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1, Ahli Sihir 1 | **Masa Pemanteraan:** 1 Minit |
+| **Pangkat:** Cleric 3 | **Masa Mantera:** 1 Minit |
+| **Sfera:** Tempur | **Tempoh:** 10 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 0 |
+| **Kawasan:** Jejari 60 kaki | **Rintang:** TA |
+
+Apabila dimanterakan, mantera ini memberkati cleric dan semua sekutu dalam Kawasan Kesan, sementara menyumpah mereka yang menentang. Sekutu diberikan bonus sementara +5% kepada semua kemahiran dan gulungan Rintang bersama dengan bonus +1 kepada semua kerosakan yang dilakukan, sementara musuh menerima penalti -5% dan pengurangan kerosakan -1. Mantera ini boleh dimanterakan bersama Chant jika dilakukan oleh cleric yang sama, atau cleric lain daripada agama yang sama, membolehkan kedua-dua kesan terkumpul, memberikan bonus +10% kepada kemahiran dan +2 kepada kerosakan, sementara musuh menerima sebaliknya.
+
+---
+#### Ramal Cuaca
+
+(Ramalan)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Cleric 1, Mage 1 | **Masa Mantera:** 1 Minit |
 | **Sfera:** Cuaca | **Tempoh:** Segera |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** Jejari 5 batu | **Rintangan:** T/A |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** Jejari 5 batu | **Rintang:** TA |
 
-Mantera ini membolehkan pemantera meramal cuaca dengan kepastian 100% dalam jejari 5 batu. Ramalan ini adalah untuk 4 jam akan datang bagi setiap tahap Intensiti dan termasuk suhu, kerpasan, pengumpulan salji, kelajuan angin, dan sebagainya.
+Mantera ini membolehkan pemantera meramal cuaca dengan kepastian 100% dalam jejari 5 batu. Ramalan ini adalah untuk 4 jam seterusnya bagi setiap tahap Keamatan dan termasuk suhu, kerpasan, pengumpulan salji, kelajuan angin, dan sebagainya.
 
 ---
-#### Preserve
+#### Awet
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Sfera:** Haiwan, Tumbuhan | **Tempoh:** 1d3 Bulan |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** Lihat di bawah | **Rintangan:** T/A |
+| **Pangkat:** Cleric 0, Mage 0 | **Masa Mantera:** 1 Giliran |
+| **Sfera:** Haiwan, Tumbuhan | **Tempoh:** 1d3 Bulan |
+| **Kos:** 1 | **Jarak:** Sentuh |
+| **Kawasan:** Lihat di Bawah | **Rintang:** TA |
 
-Preserve menghalang bahan organik, kedua-dua sayuran dan haiwan, daripada pereputan bakteria dan pembusukan selama 1d3 bulan, dengan mensterilkannya. Jika bahan tersebut kemudiannya disalai, dijeruk, atau digaram, ia kekal terpelihara selama-lamanya. Mantera ini boleh menghentikan pereputan yang telah bermula, tetapi tidak membalikkannya. Pemantera boleh menjejaskan jumlah bahan organik yang sama dalam 'Benda' atau SIZ kepada POW mereka.
+Awet menghalang bahan organik, kedua-dua sayuran dan haiwan, daripada reput bakteria dan pembusukan selama 1d3 bulan, dengan mensterilkannya. Jika bahan tersebut kemudiannya disalai, dijeruk, atau digaram, ia diawet selama-lamanya. Mantera ini boleh menghentikan kerosakan yang telah bermula, tetapi tidak membalikkannya. Pemantera boleh menjejaskan jumlah bahan organik yang sama dalam 'Benda' atau SAI dengan KUR mereka.
 
 ---
-#### Protection
+#### Perlindungan
 
 (Abjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0, Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Cleric 0, Mage 0 | **Masa Mantera:** 1 Tindakan |
 | **Sfera:** Perlindungan | **Tempoh:** Pencetus |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Kos:** 1 | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintang:** TA |
 
-Protection berguna dalam pelbagai tugas di mana terdapat risiko kecederaan tidak sengaja seperti bekerja di faundri atau lombong. Kali pertama watak biasanya akan mengambil kerosakan yang menembusi pakaian pelindung atau perisai, mantera Protection akan mencetuskan, dan mengurangkan kerosakan yang diambil sebanyak 1d3 mata. Mantera kemudian hilang. Mantera ini bertindan dengan semua bentuk sihir perlindungan lain. Mantera hanya melindungi daripada kerosakan fizikal jadi tidak akan membantu terhadap peristiwa seperti api, tercekik, dan sebagainya. Versi ahli sihir mantera ini boleh dipantera pada diri sendiri sahaja.
+Perlindungan berguna dalam pelbagai tugas di mana terdapat risiko kecederaan tidak sengaja seperti bekerja di kilang besi atau lombong. Kali pertama watak biasanya akan menerima kerosakan yang menembusi pakaian perlindungan atau perisai, mantera Perlindungan akan tercetus, dan mengurangkan kerosakan yang diterima sebanyak 1d3 mata. Mantera itu kemudian hilang. Mantera ini terkumpul dengan semua bentuk sihir perlindungan yang lain. Mantera ini hanya melindungi daripada kerosakan fizikal jadi ia tidak akan membantu terhadap peristiwa seperti kebakaran, tercekik, dan sebagainya. Versi mage untuk mantera ini hanya boleh dimanterakan ke atas diri sendiri.
 
 ---
-#### Protection from Cold
+#### Perlindungan daripada Sejuk
 
 (Abjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 1 Pusingan |
-| **Sfera:** Perlindungan, Unsur (Api) | **Tempoh:** 15 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Pangkat:** Cleric 2 | **Masa Mantera:** 1 Pusingan |
+| **Sfera:** Perlindungan, Unsur (Api) | **Tempoh:** 15 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintang:** TA |
 
-Apabila mantera ini dipantera, medan halimunan terbentuk yang menawarkan perlindungan lengkap daripada semua bentuk sejuk semula jadi. Apabila dipantera pada diri sendiri, medan itu juga menawarkan perlindungan lengkap daripada kerosakan berasaskan sejuk (nafas naga putih, cone of cold, chill metal, dan sebagainya), menyerap 12 mata kerosakan sejuk bagi setiap Intensiti. Sebaik sahaja medan ini habis, sebarang kerosakan berlebihan yang tinggal daripada serangan itu akan dibahagikan dua sebelum digunakan.
+Apabila mantera ini dimanterakan, medan halimunan terbentuk yang menawarkan perlindungan lengkap daripada semua bentuk sejuk semula jadi. Apabila dimanterakan ke atas diri sendiri, medan itu juga menawarkan perlindungan lengkap daripada kerosakan berasaskan sejuk (nafas naga putih, kon sejuk, logam sejuk, dan sebagainya), menyerap 12 mata kerosakan sejuk bagi setiap Keamatan. Sebaik sahaja medan ini habis, sebarang kerosakan berlebihan yang tinggal daripada serangan itu akan dibahagi dua sebelum dikenakan.
 
-Apabila dipantera pada seseorang selain diri sendiri, perlindungan lengkap daripada sejuk semula jadi juga diberikan. Selain itu, kerosakan daripada serangan sejuk sihir dikurangkan sebanyak separuh.
+Apabila dimanterakan ke atas orang lain selain diri sendiri, perlindungan lengkap daripada sejuk semula jadi juga diberikan. Selain itu, kerosakan daripada serangan sejuk magis dikurangkan separuh.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 min.; 12 mata perlindungan sejuk pada diri |
-| 2 | 4 | 30 min.; 24 mata perlindungan sejuk pada diri |
-| 3 | 5 | 45 min.; 36 mata perlindungan sejuk pada diri |
-| 4 | 6 | 60 min.; 48 mata perlindungan sejuk pada diri |
+| 1 | 3 | 15 min.; 12 mata perlindungan sejuk pada diri sendiri |
+| 2 | 4 | 30 min.; 24 mata perlindungan sejuk pada diri sendiri |
+| 3 | 5 | 45 min.; 36 mata perlindungan sejuk pada diri sendiri |
+| 4 | 6 | 60 min.; 48 mata perlindungan sejuk pada diri sendiri |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Protection from Evil \(R\)
+#### Perlindungan daripada Kejahatan \(R\)
 
 (Abjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1, Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Perlindungan | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Pangkat:** Cleric 1, Mage 1 | **Masa Mantera:** 1 Tindakan |
+| **Sfera:** Perlindungan | **Tempoh:** 2 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintang:** TA |
 
-Apabila dipantera, aura perisai sihir halimunan memancar daripada penerima mantera (yang boleh jadi pemantera), memberikan tiga tahap pertahanan yang berbeza.
+Apabila dimanterakan, aura halimunan perisai magis terpancar daripada penerima mantera (yang boleh menjadi pemantera), memberikan tiga tahap pertahanan yang berbeza.
 
-Pertama, serangan oleh makhluk dengan Jajaran Jahat menerima penalti -10% kepada kemahiran Gaya Pertempuran atau Tanpa Senjata mereka. Gulungan rintangan pada pihak penerima Protection from Evil menerima bonus +10%, tetapi hanya terhadap makhluk jahat.
+Pertama, serangan oleh makhluk dengan Penjajaran Jahat menerima penalti -10% kepada Gaya Tempur atau kemahiran Tanpa Senjata mereka. Gulungan rintang bagi pihak penerima Perlindungan daripada Kejahatan menerima bonus +10%, tetapi hanya terhadap makhluk jahat.
 
-Kedua, makhluk yang diseru mahupun diconjur, mahupun makhluk yang bukan berasal dari satah material, tidak boleh membuat sentuhan fizikal dengan penerima. Ini termasuk syaitan, iblis, jin, unsur, hamba udara, salamander, dan sebagainya. Serangan semula jadi oleh makhluk ini menyebabkan mereka berundur, dengan itu gagal membuat sentuhan. Ini juga termasuk sebarang raksasa atau makhluk yang diconjur atau diseru oleh mantera atau item. Senjata yang dipegang oleh makhluk sedemikian masih boleh memasuki penghadang sihir dan menyerang individu yang dilindungi, walau bagaimanapun.
+Kedua, makhluk yang diseru mahupun yang disumpah, atau makhluk yang bukan berasal dari satah material, tidak boleh membuat hubungan fizikal dengan penerima. Ini termasuk syaitan, jin, unsur, pembantu udara, salamander, dan sebagainya. Serangan semula jadi oleh makhluk-makhluk ini menyebabkan mereka berundur, dengan itu gagal membuat hubungan. Ini juga termasuk sebarang raksasa atau makhluk yang disumpah atau diseru oleh mantera atau item. Walau bagaimanapun, senjata yang dipegang oleh makhluk sedemikian masih boleh memasuki penghalang magis dan menyerang individu yang dilindungi.
 
-Ketiga, sebarang percubaan kawalan mental (seperti oleh mantera seperti Charm atau Command) atau kerasukan (seperti oleh mantera seperti Magic Jar), secara automatik gagal menembusi perlindungan sihir.
+Ketiga, sebarang percubaan kawalan mental (seperti oleh mantera seperti Pukau atau Perintah) atau pemilikan (seperti oleh mantera seperti Balang Magis), secara automatik gagal menembusi perlindungan magis.
 
 Tempoh mantera berakhir jika individu yang dilindungi membuat sebarang jenis serangan jarak dekat atau cuba mengenakan medan perlindungan terhadap makhluk yang terjejas.
 
-Pembalikan mantera ini, Protection from Good, berfungsi seperti di atas berkaitan dengan faedah kedua dan ketiga, manakala faedah pertama berfungsi seperti yang dinyatakan berkaitan dengan lawan yang baik.
+Songsangan mantera ini, Perlindungan daripada Kebaikan, berfungsi seperti di atas berkenaan faedah kedua dan ketiga, manakala faedah pertama berfungsi seperti yang dinyatakan berkenaan lawan yang baik.
 
 ---
-#### Protection from Fire
+#### Perlindungan daripada Api
 
 (Abjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 1 Pusingan |
-| **Sfera:** Perlindungan, Unsur (Api) | **Tempoh:** 15 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Pangkat:** Cleric 2 | **Masa Mantera:** 1 Pusingan |
+| **Sfera:** Perlindungan, Unsur (Api) | **Tempoh:** 15 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintang:** TA |
 
-Apabila mantera ini dipantera, medan halimunan terbentuk yang menawarkan perlindungan lengkap daripada semua bentuk sumber haba duniawi, seperti obor, unggun api, bangunan yang terbakar, dan sebagainya. Apabila dipantera pada diri sendiri, medan itu juga menawarkan perlindungan lengkap daripada kerosakan berasaskan api (nafas naga merah, Burning Hands, Heat Metal, dan sebagainya), menyerap 12 mata kerosakan api bagi setiap Intensiti. Sebaik sahaja medan ini habis, sebarang kerosakan berlebihan yang tinggal daripada serangan itu akan dibahagikan dua sebelum digunakan.
+Apabila mantera ini dimanterakan, medan halimunan terbentuk yang menawarkan perlindungan lengkap daripada semua bentuk sumber haba biasa, seperti obor, unggun api, bangunan terbakar, dan sebagainya. Apabila dimanterakan ke atas diri sendiri, medan itu juga menawarkan perlindungan lengkap daripada kerosakan berasaskan api (nafas naga merah, Tangan Berapi, Logam Panas, dan sebagainya), menyerap 12 mata kerosakan api bagi setiap Keamatan. Sebaik sahaja medan ini habis, sebarang kerosakan berlebihan yang tinggal daripada serangan itu akan dibahagi dua sebelum dikenakan.
 
-Apabila dipantera pada seseorang selain diri sendiri, perlindungan lengkap daripada api duniawi juga diberikan. Selain itu, kerosakan daripada serangan api sihir dikurangkan sebanyak separuh.
+Apabila dimanterakan ke atas orang lain selain diri sendiri, perlindungan lengkap daripada api biasa juga diberikan. Selain itu, kerosakan daripada serangan api magis dikurangkan separuh.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 min.; 12 mata perlindungan api pada diri |
-| 2 | 4 | 30 min.; 24 mata perlindungan api pada diri |
-| 3 | 5 | 45 min.; 36 mata perlindungan api pada diri |
-| 4 | 6 | 60 min.; 48 mata perlindungan api pada diri |
+| 1 | 3 | 15 min.; 12 mata perlindungan api pada diri sendiri |
+| 2 | 4 | 30 min.; 24 mata perlindungan api pada diri sendiri |
+| 3 | 5 | 45 min.; 36 mata perlindungan api pada diri sendiri |
+| 4 | 6 | 60 min.; 48 mata perlindungan api pada diri sendiri |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Protection from Lightning
+#### Perlindungan daripada Kilat
 
 (Abjurasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 1 Pusingan |
-| **Sfera:** Perlindungan, Cuaca | **Tempoh:** 15 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Pangkat:** Cleric 3 | **Masa Mantera:** 1 Pusingan |
+| **Sfera:** Perlindungan, Cuaca | **Tempoh:** 15 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintang:** TA |
 
-Apabila mantera ini dipantera, medan halimunan terbentuk yang menawarkan perlindungan lengkap daripada kerosakan berasaskan elektrik (nafas naga biru, shocking grasp, perangkap elektrik, dan sebagainya), menyerap 12 mata kerosakan elektrik bagi setiap Intensiti. Sebaik sahaja medan ini habis, sebarang kerosakan berlebihan yang tinggal daripada serangan itu akan dibahagikan dua sebelum digunakan.
+Apabila mantera ini dimanterakan, medan halimunan terbentuk yang menawarkan perlindungan lengkap daripada kerosakan berasaskan elektrik (nafas naga biru, genggaman mengejut, perangkap elektrik, dan sebagainya), menyerap 12 mata kerosakan elektrik bagi setiap Keamatan. Sebaik sahaja medan ini habis, sebarang kerosakan berlebihan yang tinggal daripada serangan itu akan dibahagi dua sebelum dikenakan.
 
-Apabila dipantera pada seseorang selain diri sendiri, kerosakan daripada serangan elektrik dikurangkan sebanyak separuh.
+Apabila dimanterakan ke atas orang lain selain diri sendiri, kerosakan daripada serangan elektrik dikurangkan separuh.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 min.; 12 mata perlindungan elektrik pada diri |
-| 2 | 4 | 30 min.; 24 mata perlindungan elektrik pada diri |
-| 3 | 5 | 45 min.; 36 mata perlindungan elektrik pada diri |
-| 4 | 6 | 60 min.; 48 mata perlindungan elektrik pada diri |
+| 1 | 3 | 15 min.; 12 mata perlindungan elektrik pada diri sendiri |
+| 2 | 4 | 30 min.; 24 mata perlindungan elektrik pada diri sendiri |
+| 3 | 5 | 45 min.; 36 mata perlindungan elektrik pada diri sendiri |
+| 4 | 6 | 60 min.; 48 mata perlindungan elektrik pada diri sendiri |
 | +1 | +1 | Teruskan perkembangan |
 
 ---
-#### Purify Food and Drink \(R\)
+#### Bersihkan Makanan dan Minuman \(R\)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Minit |
+| **Pangkat:** Cleric 1 | **Masa Mantera:** 1 Minit |
 | **Sfera:** Semua | **Tempoh:** Kekal |
-| **Kos:** 1/Intensiti | **Julat:** 100 kaki |
-| **Kawasan:** Jejari 5 kaki | **Rintangan:** T/A |
+| **Kos:** 1/Keamatan | **Jarak:** 100 kaki |
+| **Kawasan:** Jejari 5 kaki | **Rintang:** TA |
 
-Apabila mantera ini dipantera, semua racun, reput, dan bahan cemar lain dikeluarkan daripada makanan bersaiz purata dan/atau air bagi setiap Intensiti dalam Kawasan Kesan mantera. Sifat penulenan mantera ini juga memusnahkan sifat malignan air tidak suci.
+Apabila mantera ini dimanterakan, semua racun, reput, dan bahan cemar lain disingkirkan daripada hidangan makanan dan/atau air bersaiz purata bagi setiap Keamatan dalam Kawasan Kesan mantera. Sifat pembersihan mantera ini juga memusnahkan sifat jahat air yang tidak suci.
 
-Pembalikan mantera, Contaminate Food and Drink, merosakkan makanan, menjadikan air tulen tidak boleh diminum, dan merosakkan sifat suci air suci.
+Songsangan mantera ini, Cemari Makanan dan Minuman, merosakkan makanan, menjadikan air bersih tidak boleh diminum, dan merosakkan sifat suci air suci.
 
 ---
-#### Raise Dead \(R\)
+#### Bangkitkan Orang Mati \(R\)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 1 Minit |
+| **Pangkat:** Cleric 3 | **Masa Mantera:** 1 Minit |
 | **Sfera:** Nekromantik | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan, +1 EXP | **Julat:** 100 kaki |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Kuasa Minda) |
+| **Kos:** 3, +1/Keamatan tambahan, +1 EXP | **Jarak:** 100 kaki |
+| **Kawasan:** 1 Sasaran | **Rintang:** TA (Kuasa Kehendak) |
 
-Mantera ini boleh dipantera pada mayat makhluk yang mati tidak lebih daripada 24 jam bagi setiap tahap Intensiti. Jika Jajaran subjek adalah selain daripada jahat, mereka boleh menentang mantera dengan gulungan Kuasa Minda Bertentangan dan, jika berjaya, menafikan kesan mantera tersebut. Ini kerana jiwa atau semangat si mati jarang bersedia untuk kembali kepada kehidupan setelah mencapai ganjaran abadi mereka. Pengurus Permainan boleh memutuskan untuk mengecualikan gulungan tersebut jika penerima mempunyai urusan yang belum selesai, tidak dapat dipisahkan daripada cinta sejati mereka, atau mempunyai sebab wira lain untuk hidup.
+Mantera ini boleh dimanterakan ke atas mayat makhluk yang mati kurang daripada 24 jam bagi setiap tahap Keamatan. Jika Penjajaran subjek adalah selain daripada jahat, mereka boleh menentang mantera dengan gulungan Kuasa Kehendak yang Ditentang dan, jika berjaya, menafikan kesan mantera. Ini kerana jiwa atau roh si mati jarang sekali mahu kembali ke alam hidup sebaik sahaja ia mencapai ganjaran kekalnya. Games Master boleh memutuskan untuk mengetepikan gulungan jika penerima mempunyai urusan yang belum selesai, tidak dapat dipisahkan daripada cinta sejati mereka, atau mempunyai sebab heroik lain untuk hidup.
 
-Dalam kes jiwa yang jahat, yang akan dengan senang hati kembali ke satah material dan bukannya menderita azab yang kekal, ia bukanlah Kuasa Minda si mati yang menentang, tetapi roh jahat, syaitan, dan sebagainya, yang bertanggungjawab atas hukuman mereka, penyeksa mereka. Dalam kes ini, pemantera mestilah mengatasi Kuasa Minda penyeksa tersebut. Jika ini tidak diketahui, anggap ia sekurang-kurangnya 20 mata lebih tinggi daripada si mati untuk mewakili bahawa semakin kuat kehendak jiwa, semakin berkuasa makhluk yang diletakkan sebagai penjaga azab mereka. Jika pemantera berjaya, mereka telah berjaya mengembalikan semangat ke dalam tubuh, manakala gulungan yang gagal mengakibatkan mangsa sama ada tidak sudi atau tidak dapat kembali.
+Dalam kes jiwa jahat, yang dengan sukacitanya akan kembali ke satah material daripada menderita hukuman abadi, bukan Kuasa Kehendak si mati yang menentang, tetapi syaitan, iblis, dan sebagainya, yang ditugaskan menjaga hukuman mereka, penyeksa mereka. Dalam kes ini, pemantera mesti mengatasi Kuasa Kehendak penyeksa. Jika ini tidak diketahui, anggap ia sekurang-kurangnya 20 mata lebih tinggi daripada si mati untuk mewakili bahawa lebih kuat kehendak jiwa, lebih berkuasa makhluk yang ditugaskan menjaga sumpahan mereka. Jika pemantera berjaya, mereka telah berjaya mengembalikan roh ke dalam badan, manakala gulungan yang gagal mengakibatkan mangsa sama ada tidak mahu atau tidak mampu untuk kembali.
 
-Jika pemantera berjaya, subjek dikembalikan kepada kehidupan dengan Mata Hit penuh, walaupun anggota badan yang terputus tetap hilang. Ini bermakna mangsa yang dipenggal atau dipotong dua tidak boleh dihidupkan semula sehingga kepala atau tubuh mereka disambungkan semula. Ini boleh dilakukan sebelum pemanteraan Raise Dead dengan menyambung semula lokasi yang terputus secara fizikal, yang memerlukan kit penyembuh dan aplikasi kemahiran Penyembuhan yang berjaya, dan biasanya meninggalkan parut yang jelas dan nyata. Penyakit lain, seperti racun atau penyakit mestilah diselesaikan sebelum, atau selepas pemanteraan Raise Dead, atau hasilnya hanya sementara. Akhir sekali, Raise Dead tidak mempunyai kesan ke atas makhluk yang telah mencapai akhir hayat semula jadi mereka, dan mati kerana usia tua.
+Jika pemanteraan berjaya, subjek dikembalikan kepada kehidupan dengan Mata Hit penuh, walaupun anggota badan yang terputus tetap hilang. Ini bermakna mangsa yang dipenggal atau dipotong dua tidak boleh dibangkitkan sehingga kepala atau batang tubuh mereka dicantumkan semula. Ini boleh dilakukan sebelum pemanteraan Bangkitkan Orang Mati dengan mencantumkan semula lokasi yang terputus secara fizikal, yang memerlukan kit penyembuh dan aplikasi kemahiran Penyembuhan yang berjaya, dan biasanya meninggalkan parut yang jelas dan nyata. Penyakit lain, seperti racun atau wabak mesti diuruskan sebelum, atau selepas pemanteraan Bangkitkan Orang Mati, atau hasilnya hanya sementara. Akhir sekali, Bangkitkan Orang Mati tidak mempunyai kesan ke atas makhluk yang telah mencapai akhir jangka hayat semula jadinya, dan mati kerana usia tua.
 
-Tindakan dibangkitkan daripada kematian sangat meletihkan subjek, yang dikurangkan kepada Tahap Keletihan Tidak Berdaya (Incapacitated) untuk tempoh 24 jam bagi setiap hari mereka mati. Pemanteraan Cure Fatigue tidak memberi kesan kepada pesakit semasa waktu pemulihan ini. Selepas titik ini, watak pulih daripada Keletihan secara normal, dan tanpa sekatan.
+Tindakan dibangkitkan daripada kematian sangat membebankan subjek, yang dikurangkan kepada Tahap Keletihan Tidak Berdaya selama 24 jam bagi setiap hari mereka mati. Pemanteraan Sembuhkan Keletihan tidak mempunyai kesan ke atas pesakit semasa tempoh pemulihan ini. Selepas tempoh ini, watak pulih daripada Keletihan seperti biasa, dan tanpa sekatan.
 
-Apabila diterbalikkan, Slay Living, boleh digunakan untuk membunuh satu mangsa yang ditetapkan oleh paderi pada masa pemanteraan. Mangsa ini dibenarkan gulungan Kuasa Minda untuk menentang, diubah suai oleh Pangkat atau SIZ sasaran, yang mana memberikan hasil yang lebih berfaedah kepada sasaran, seperti yang diperincikan pada jadual berikut.
+Apabila diterbalikkan, Bunuh Hidup, boleh digunakan untuk membunuh seorang mangsa yang ditetapkan oleh cleric pada masa pemanteraan. Mangsa ini dibenarkan gulungan Kuasa Kehendak untuk menentang, diubah suai oleh Pangkat atau SAI sasaran, mana yang memberikan hasil yang lebih berfaedah kepada sasaran, seperti yang diperincikan pada jadual berikut.
 
-| Pangkat Sasaran | SIZ Sasaran | Pengubah Kuasa Minda |
+| Pangkat Sasaran | SAI Sasaran | Pengubah Kuasa Kehendak |
 | :-: | :-: | :-: |
-| 0-1\* | 1-20 | Hebat |
+| 0-1\* | 1-20 | Sukar |
 | 2 | 21-40 | Standard |
 | 3 | 41-60 | Mudah |
 | 4-5 | 61+ | Sangat Mudah |
 
 _\* Kategori ini termasuk watak yang tidak mempunyai Kelas._
 
-Jika gulungan Rintangan tidak berjaya, mangsa dibunuh serta-merta. Gulungan yang berjaya dianggap seperti kesan Cause Serious Wounds. Perisai tidak menawarkan perlindungan daripada kerosakan ini.
+Jika gulungan Rintang tidak berjaya, mangsa dibunuh serta-merta. Gulungan yang berjaya dianggap mengikut kesan Sebabkan Luka Serius. Perisai tidak menawarkan perlindungan daripada kerosakan ini.
 
 ---
-#### Read Magic
+#### Baca Sihir
 
 (Semua)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Minit |
-| **Sfera:** Tiada | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 0 |
-| **Kawasan:** Pemantera | **Rintangan:** T/A |
+| **Pangkat:** Mage 0 | **Masa Mantera:** 1 Minit |
+| **Sfera:** Tiada | **Tempoh:** 2 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 0 |
+| **Kawasan:** Pemantera | **Rintang:** TA |
 
-Mantera ini adalah mantera pertama yang diajar kepada ahli sihir perantis, kerana melalui mantera inilah mereka boleh membaca tulisan sihir ahli sihir lain. Tulisan sihir ahli sihir sendiri sentiasa boleh difahami oleh diri mereka sendiri. Membaca skrip sihir biasanya tidak mengaktifkan mantera yang terkandung seperti yang terdapat pada skrol sihir, sebagai contoh; walau bagaimanapun, skrol sihir yang disumpah dan seumpamanya diaktifkan dengan menggunakan mantera ini, memantera apa sahaja mantera yang terkandung dalam skrol tersebut.
+Mantera ini adalah mantera pertama yang diajar kepada perantis pengguna sihir, kerana melalui mantera inilah mereka boleh membaca tulisan magis pemantera lain. Tulisan magis Mage sendiri sentiasa boleh difahami oleh diri mereka sendiri. Membaca skrip magis biasanya tidak mengaktifkan mantera yang terkandung seperti yang terdapat pada skrol magis, contohnya; walau bagaimanapun, skrol sihir yang disumpah dan sebagainya diaktifkan dengan menggunakan mantera ini, memanterakan apa jua mantera yang terkandung dalam skrol tersebut.
 
-Apabila digunakan untuk mengenal pasti mantera yang terkandung pada skrol atau dalam buku mantera, 1 minit diperlukan bagi setiap Pangkat mantera; mantera Pangkat 1 mengambil masa 1 minit, mantera Pangkat 2 mengambil masa 2 minit, dan seterusnya. Jika Tempoh mencukupi masih ada, mantera tambahan boleh dikenal pasti pada masa ini. Setelah mantera ini digunakan untuk membaca dan mengenal pasti satu set inskripsi sihir, pengguna sihir tidak perlu memantera Read Magic untuk membacanya semula; walau bagaimanapun, mantera yang sama pada skrol, buku, dan sebagainya yang berasingan akan memerlukan satu lagi pemanteraan Read Magic.
+Apabila digunakan untuk mengenal pasti mantera yang terkandung pada skrol atau dalam buku mantera, 1 minit diperlukan untuk setiap Pangkat mantera; mantera Pangkat 1 mengambil 1 minit, mantera Pangkat 2 mengambil 2 minit, dan seterusnya. Jika Tempoh yang mencukupi kekal, mantera tambahan boleh dikenal pasti semasa masa ini. Sebaik sahaja mantera ini telah digunakan untuk membaca dan mengenal pasti satu set inskripsi magis, pengguna sihir tidak perlu memanterakan Baca Sihir untuk membacanya semula; walau bagaimanapun, mantera yang sama pada skrol, buku, dan sebagainya yang berasingan, perlu dimanterakan dengan Baca Sihir yang lain.
 
-Read Magic boleh digunakan oleh semua Sekolah Sihir.
+Baca Sihir boleh digunakan oleh semua Sekolah Sihir.
 
 ---
-#### Regenerate \(R\)
+#### Janakan Semula \(R\)
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 4 | **Masa Pemanteraan:** 3 Minit |
+| **Pangkat:** Cleric 4 | **Masa Mantera:** 3 Minit |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3/Intensiti | **Julat:** Sentuhan |
-| **Kawasan:** 1 Makhluk | **Rintangan:** T/A (Menepis atau Mengelak) |
+| **Kos:** 3/Keamatan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Makhluk | **Rintang:** TA (Tangkis atau Elak) |
 
-Apabila dipantera, paderi boleh menyentuh satu makhluk dan menjana semula Lokasi Pukulan yang terputus. Anggota badan yang hilang akan tumbuh semula sepenuhnya pada kadar 1 Mata Hit setiap 10 minit sehingga sembuh sepenuhnya. Walau bagaimanapun, jika lokasi yang terputus itu ada dan menyentuh mangsa, keseluruhan masa pemulihan dikurangkan kepada 1 minit. Mantera ini tidak boleh digunakan untuk 'mengklon' individu dengan menjana semula dua bahagian berasingan, dengan hanya bahagian yang bersambung dengan otak dan sistem saraf pusat mendapat manfaat daripada kesan mantera. Setiap tahap Intensiti akan menumbuhkan semula Lokasi Pukulan yang berasingan. Walaupun mantera boleh digunakan untuk menyembuhkan kecederaan yang lebih ringan secara perlahan, terdapat mantera Pangkat yang lebih rendah dan kurang kos untuk berbuat demikian.
+Apabila dimanterakan, cleric boleh menyentuh satu makhluk dan menjanakan semula Lokasi Hit yang terputus. Anggota yang hilang akan tumbuh semula sepenuhnya pada kadar 1 Mata Hit setiap 10 minit sehingga sembuh sepenuhnya. Walau bagaimanapun, jika lokasi yang terputus itu ada dan menyentuh mangsa, keseluruhan masa pemulihan dikurangkan kepada 1 minit. Mantera ini tidak boleh digunakan untuk 'mengklon' seseorang dengan menjanakan semula dua bahagian yang berasingan, dengan hanya bahagian yang bersambung dengan otak dan sistem saraf pusat mendapat manfaat daripada kesan mantera. Setiap tahap Keamatan akan menumbuhkan semula Lokasi Hit yang berasingan. Walaupun mantera itu boleh digunakan untuk menyembuhkan kecederaan kecil secara perlahan, terdapat mantera Pangkat lebih rendah dan kurang kos untuk melakukannya.
 
-Apabila diterbalikkan, Wither akan menyebabkan lokasi yang disentuh oleh pemantera mengecut dan akhirnya jatuh daripada mangsa. Proses itu menyebabkan kehilangan 1 Mata Hit kerosakan pada lokasi yang terjejas setiap 10 minit, dengan lokasi menjadi tidak boleh digunakan pada 0 Mata Hit, dan jatuh apabila negatif sepenuhnya. Kesan hanya boleh dinafikan oleh pemanteraan Regenerate.
+Apabila diterbalikkan, Layukan akan menyebabkan lokasi yang disentuh oleh pemantera menjadi kecut dan akhirnya jatuh daripada mangsa. Proses ini menyebabkan kehilangan 1 Mata Hit kerosakan pada lokasi yang terjejas setiap 10 minit, dengan lokasi tersebut menjadi tidak boleh digunakan pada 0 Mata Hit, dan jatuh apabila sepenuhnya negatif. Kesan-kesan ini hanya boleh dinafikan dengan pemanteraan Janakan Semula.
 
 ---
-#### Reincarnation, Arcane
+#### Penjelmaan Semula, Arkana
 
 (Nekromansi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 4 | **Masa Pemanteraan:** 10 Minit |
+| **Pangkat:** Mage 4 | **Masa Mantera:** 10 Minit |
 | **Sfera:** Tiada | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan, +1EXP | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Lihat di bawah |
+| **Kos:** 3, +1/Keamatan tambahan, +1EXP | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintang:** Lihat di Bawah |
 
-Mantera ini dipantera sambil menyentuh mayat makhluk yang mati tidak lebih daripada 24 jam bagi setiap tahap Intensiti. Walau bagaimanapun, versi Reincarnation ini tidak mempunyai kesan ke atas elf berdarah penuh (sebaliknya, lihat mantera ilahi [Raise Dead](0010_Spells.md?id=raise-dead-r) atau [Resurrection](0010_Spells.md?id=resurrection-r)). Jika Jajaran mangsa adalah selain daripada jahat, mangsa menentang mantera dengan gulungan Kuasa Minda Bertentangan, dan jika berjaya, menafikan kesan mantera tersebut. Ini kerana jiwa atau semangat si mati jarang bersedia untuk memasuki tubuh baru setelah mencapai ganjaran abadi mereka. Pengurus Permainan boleh memutuskan untuk mengecualikan gulungan tersebut jika penerima mempunyai urusan yang belum selesai, tidak dapat dipisahkan daripada cinta sejati mereka, atau mempunyai sebab wira lain untuk hidup.
+Mantera ini dimanterakan sambil menyentuh mayat makhluk yang mati kurang daripada 24 jam bagi setiap tahap Keamatan. Walau bagaimanapun, versi Penjelmaan Semula ini tidak mempunyai kesan ke atas elf berdarah penuh (sebaliknya, lihat mantera ketuhanan [Bangkitkan Orang Mati](0010_Spells.md?id=raise-dead-r) atau [Kebangkitan](0010_Spells.md?id=resurrection-r)). Jika Penjajaran mangsa adalah selain daripada jahat, mangsa menentang mantera dengan gulungan Kuasa Kehendak yang Ditentang, dan jika berjaya, menafikan kesan mantera. Ini kerana jiwa atau roh si mati jarang sekali mahu memasuki badan baru sebaik sahaja ia mencapai ganjaran kekalnya. Games Master boleh memutuskan untuk mengetepikan gulungan jika penerima mempunyai urusan yang belum selesai, tidak dapat dipisahkan daripada cinta sejati mereka, atau mempunyai sebab heroik lain untuk hidup.
 
-Dalam kes jiwa yang jahat, yang akan dengan senang hati kembali ke satah material dan bukannya menderita azab yang kekal, ia bukanlah Kuasa Minda si mati yang menentang, tetapi roh jahat, syaitan, dan sebagainya, yang bertanggungjawab atas hukuman mereka, penyeksa mereka. Dalam kes ini, pemantera mestilah mengatasi Kuasa Minda penyeksa tersebut. Jika ini tidak diketahui, anggap ia sekurang-kurangnya 20 mata lebih tinggi daripada si mati untuk mewakili bahawa semakin kuat kehendak jiwa, semakin berkuasa makhluk yang diletakkan sebagai penjaga azab mereka. Jika pemantera berjaya, mereka telah berjaya menambat semangat ke badan perumah, manakala gulungan yang gagal mengakibatkan mangsa sama ada tidak sudi atau tidak dapat kembali.
+<details>
 
-Jika pemanteraan berjaya, tubuh dewasa yang terbentuk sepenuhnya muncul dalam 1d6x10 minit mengandungi kesedaran si mati. Pemantera tiada kawalan ke atas bentuk atau jantina di mana jiwa itu kembali - gulung terhadap jadual di bawah. Kelas dan Pangkat watak terdahulu dikekalkan. Ini bermakna ia mungkin mengambil masa untuk meyakinkan pihak watak bahawa mereka adalah siapa yang mereka katakan apabila berurusan dengan rakan, keluarga, dan bekas kenalan; ini termasuk pesanan atau persatuan mereka apabila tiba masanya untuk Kemajuan jika berkaitan. Ini paling baik diwakili oleh gulungan Pengaruh pada pihak watak, diubah suai oleh betapa drastiknya perubahan itu, seperti yang ditentukan oleh Pengurus Permainan. Sebagai contoh, kurcaci yang dijelmakan semula menjadi kurcaci lain mungkin memerlukan gulungan Pengaruh Standard untuk meyakinkan bekas sekutu tentang identiti sebenar mereka, manakala dijelmakan semula menjadi gnome atau halfling boleh menyebabkan gulungan menjadi satu gred lebih sukar. Akhir sekali, watak yang sama boleh mendapati ia dua gred lebih sukar untuk meyakinkan orang lain tentang identiti mereka jika ditukar kepada sesuatu yang ekstrem seperti goblin, orc, atau troll.
+<summary>* Erata Komuniti</summary>
 
-Semua Ciri-ciri ditentukan secara rawak mengikut bentuk baharu, selain daripada INT, POW, dan CHA, yang kekal tidak berubah. Kira semula tahap kemahiran Asas watak dan laraskan jumlah kemahiran dengan sewajarnya. Nafsu tidak terjejas. Sebarang Kebolehan kaum terdahulu hilang dan digantikan dengan bentuk spesies baharu. Jika bentuk baharu tidak sesuai dengan Kelas watak lama, satu-satunya pilihan adalah untuk berurusan dengannya, atau mempelajari Kelas baharu. Individu yang dijelmakan semula mengingati kebanyakan kehidupan lama mereka, walaupun Pengurus Permainan mungkin meminta watak membuat gulungan Kuasa Minda untuk mengingati fakta penting bagi minggu pertama. Wish boleh mengembalikan individu yang dijelmakan semula kembali ke bentuk sebelumnya jika diingini kemudian.
+---
+
+#### Penjelmaan Semula, Arkana
+
+_Peraturan asal adalah seperti berikut: "Walau bagaimanapun, versi Penjelmaan Semula ini tidak mempunyai kesan ke atas elf berdarah penuh (sebaliknya, lihat Penjelmaan Semula Ketuhanan)."_
+
+_Tiada sebutan mengenai Penjelmaan Semula Ketuhanan dalam Imperatif Fantasi Klasik jadi ini telah ditukar untuk merujuk kepada Bangkitkan Orang Mati dan Kebangkitan, yang kedua-duanya tidak melarang kembalinya elf._
+
+---
+
+</details>
+
+Dalam kes jiwa jahat, yang dengan sukacitanya akan kembali ke satah material daripada menderita hukuman abadi, bukan Kuasa Kehendak si mati yang menentang, tetapi syaitan, iblis, dan sebagainya, yang ditugaskan menjaga hukuman mereka, penyeksa mereka. Dalam kes ini, pemantera mesti mengatasi Kuasa Kehendak penyeksa. Jika ini tidak diketahui, anggap ia sekurang-kurangnya 20 mata lebih tinggi daripada si mati untuk mewakili bahawa lebih kuat kehendak jiwa, lebih berkuasa makhluk yang ditugaskan menjaga sumpahan mereka. Jika pemantera berjaya, mereka telah berjaya menambat roh kepada hos, manakala gulungan yang gagal mengakibatkan mangsa sama ada tidak mahu atau tidak mampu untuk kembali.
+
+Jika pemanteraan berjaya, badan dewasa yang terbentuk sepenuhnya muncul dalam 1d6x10 minit mengandungi kesedaran si mati. Pemantera tidak mempunyai kawalan ke atas bentuk atau jantina roh itu kembali - gulung melawan jadual di bawah. Kelas dan Pangkat watak terdahulu dikekalkan. Ini bermakna ia mungkin mengambil sedikit pujukan daripada pihak watak bahawa mereka adalah siapa yang mereka katakan apabila berurusan dengan rakan, keluarga, dan kenalan lama; ini termasuk aturan atau persatuan mereka apabila tiba masanya untuk Kemajuan jika berkaitan. Ini paling baik diwakili oleh gulungan Pengaruh daripada pihak watak, diubah suai oleh betapa drastiknya perubahan itu, seperti yang ditentukan oleh Games Master. Sebagai contoh, kurcaci yang dijelmakan semula menjadi kurcaci lain mungkin memerlukan gulungan Pengaruh Standard untuk meyakinkan sekutu lama tentang identiti sebenar mereka, manakala dijelmakan semula menjadi gnome atau halfling boleh menyebabkan gulungan itu menjadi satu gred lebih sukar. Akhir sekali, watak yang sama itu boleh mendapati ia dua gred lebih sukar untuk meyakinkan orang lain tentang identiti mereka jika ditukar menjadi sesuatu yang ekstrem seperti goblin, orc, atau troll.
+
+Semua Ciri ditentukan secara rawak mengikut bentuk baharu, selain daripada KEC, KUR, dan KAR, yang kekal tidak berubah. Kira semula tahap kemahiran Asas watak dan laraskan jumlah kemahiran sewajarnya. Nafsu tidak terjejas. Sebarang Kebolehan kaum terdahulu hilang dan digantikan dengan kebolehan spesies baharu. Jika bentuk baharu tidak sesuai dengan Kelas watak lama, satu-satunya pilihan adalah untuk menerimanya, atau mempelajari Kelas baharu. Individu yang dijelmakan semula mengingati sebahagian besar kehidupan terdahulu mereka, walaupun Games Master mungkin meminta watak membuat gulungan Kuasa Kehendak untuk mengingati fakta penting bagi minggu pertama. Satu Keinginan boleh mengembalikan individu yang dijelmakan semula kembali ke bentuk sebelumnya jika diingini kemudian.
 
 Gulung pada jadual berikut untuk menentukan bentuk baharu.
 
@@ -2470,188 +2493,187 @@ Gulung pada jadual berikut untuk menentukan bentuk baharu.
 
 \*\* Gulung semula dan rujuk lajur hasil Humanoid/Raksasa.
 
----
-#### Remove Curse \(R\)
+---#### Remove Curse (R)
 
-(Abjurasi)
-
-| | |
-| :-- | :-- |
-| **Pangkat:** Paderi 2, Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** ?? | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
-
-Mantera ini biasanya membuang kesan mana-mana sumpahan yang menimpa makhluk atau item. Ia tidak membuang sifat sumpah item seperti senjata, perisai, atau perisai badan, tetapi membolehkan makhluk yang ditimpa item sedemikian untuk membuangnya. Sesetengah sumpahan mungkin hanya boleh dibuang jika mantera dipantera pada Intensiti tertentu, biasanya dinyatakan dalam penulisan khusus. Sama ada Cure Disease atau Remove Curse boleh digunakan untuk menyembuhkan likantrop, dengan mana-mana daripadanya memerlukan Intensiti 12.
-
-Pembalikan mantera ini, Bestow Curse, mendatangkan salah satu kesan berikut kepada musuh dengan Tempoh 30 minit bagi setiap Intensiti. Mangsa dibenarkan gulungan Rintangan Kuasa Minda Bertentangan untuk menentang seperti biasa. Gulung 1d100 untuk menentukan sifat sumpahan yang didatangkan:
-
-- 01-25: Semua kemahiran menggunakan STR, DEX, atau CON adalah satu gred lebih sukar. Inisiatif -4, Pengubah Kerosakan dikurangkan 2 langkah.
-- 26-50: Semua kemahiran menggunakan INT, POW, atau CHA adalah satu gred lebih sukar. Inisiatif -4.
-- 51-75: Kemahiran Pertempuran dan gulungan Rintangan adalah 2 gred lebih sukar.
-- 76-00: Semua gulungan kemahiran yang gagal dianggap sebagai Fumbles.
-
----
-#### Remove Fear \(R\)
-
-(Abjurasi (Pesona))
+(Abjuration)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Pesona | **Tempoh:** Lihat di bawah |
-| **Kos:** 1/Intensiti | **Julat:** 30 kaki |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Lihat di bawah |
+| **Pangkat:** Cleric 2, Mage 3 | **Masa Merapal:** 2 Tindakan |
+| **Sfera:** Perlindungan | **Tempoh:** Kekal |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintang:** NA |
 
-Pemantera mantera ini boleh menghalau kesan ketakutan daripada satu individu bagi setiap Intensiti, memberi mereka gulungan tambahan untuk menentang. Remove Fear juga boleh diwujudkan secara ilahi untuk menentang ketakutan selama 10 minit apabila dipantera pada seseorang yang belum lagi mengalami kesannya. Dalam kedua-dua kes, gulungan Rintangan yang diperlukan oleh subjek adalah satu gred lebih mudah. Walaupun paderi boleh memantera mantera ini pada diri sendiri untuk menentang ketakutan, mereka tidak akan dapat memantera untuk membuang sebarang kesan ketakutan yang berterusan yang akan menghalang pemanteraan mantera.
+Mantera ini biasanya menghapuskan kesan sebarang sumpahan yang menimpa makhluk atau item. Ia tidak menghapuskan sifat sumpahan sesuatu item seperti senjata, perisai, atau perisai tubuh, tetapi membolehkan makhluk yang terjejas dengan item tersebut untuk membuangnya. Sesetengah sumpahan mungkin hanya boleh dihapuskan jika mantera dirapal pada Keamatan tertentu, yang biasanya dicatatkan dalam penulisan khusus. Sama ada Cure Disease atau Remove Curse boleh digunakan untuk menyembuhkan likantropi, dengan kedua-duanya memerlukan Keamatan sebanyak 12.
 
-Pembalikan mantera ini, Cause Fear, memerlukan sentuhan mangsa dalam pertempuran. Mereka yang gagal dalam gulungan Rintangan Kuasa Minda melarikan diri dalam ketakutan pada kelajuan Pecut selama 1d4 Pusingan. Arah mestilah menjauhi pemantera mantera tersebut. Cause Fear boleh ditentang oleh Remove Fear dan sebaliknya.
+Songsangan bagi mantera ini, Bestow Curse, menimpakan salah satu daripada kesan berikut ke atas musuh dengan Tempoh 30 minit setiap Keamatan. Mangsa dibenarkan membuat balingan Willpower Bertentangan untuk menentang seperti biasa. Guling 1d100 untuk menentukan sifat sumpahan yang ditimpakan:
 
-| Intensiti | Kos | Kesan Pembolehubah |
+- 01-25: Semua kemahiran yang menggunakan KEK, KTG, atau KET adalah satu gred lebih sukar. Inisiatif -4, Pengubahsuai Kerosakan dikurangkan 2 langkah.
+- 26-50: Semua kemahiran yang menggunakan KEC, KUR, atau KAR adalah satu gred lebih sukar. Inisiatif -4.
+- 51-75: Kemahiran Tempur dan balingan Rintangan adalah 2 gred lebih sukar.
+- 76-00: Semua balingan kemahiran yang gagal dianggap sebagai Fumble.
+
+---
+#### Remove Fear (R)
+
+(Abjuration (Charm))
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Cleric 1 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Charm | **Tempoh:** Lihat Di Bawah |
+| **Kos:** 1/Keamatan | **Jarak:** 30 kaki |
+| **Kawasan:** 1 Sasaran | **Rintang:** Lihat Di Bawah |
+
+Perapal mantera ini boleh menghalau kesan ketakutan daripada seorang individu setiap Keamatan, memberikan mereka balingan tambahan untuk menentang. Remove Fear juga boleh secara ilahi melindungi daripada ketakutan selama 10 minit apabila dirapal ke atas seseorang yang belum lagi mengalami kesannya. Dalam kedua-dua kes, balingan Rintangan yang diperlukan daripada subjek adalah satu gred lebih mudah. Walaupun cleric boleh merapal mantera ini ke atas diri mereka sendiri untuk melindungi daripada ketakutan, mereka tidak akan dapat merapalnya untuk menghapuskan sebarang kesan ketakutan berterusan yang akan menghalang perapalan mantera.
+
+Songsangan bagi mantera ini, Cause Fear, memerlukan sentuhan terhadap mangsa dalam pertempuran. Mereka yang gagal dalam balingan Rintangan Willpower akan melarikan diri dalam ketakutan secara Pecut selama 1d4 Pusingan. Arahnya mestilah menjauhi perapal mantera. Cause Fear boleh ditangkis oleh Remove Fear dan sebaliknya.
+
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 1 | Julat 30 kaki; 1 subjek |
-| 2 | 2 | Julat 60 kaki; 2 subjek |
-| 3 | 3 | Julat 90 kaki; 3 subjek |
-| 4 | 4 | Julat 120 kaki; 4 subjek |
-| 5 | 5 | Julat 150 kaki; 5 subjek |
+| 1 | 1 | Jarak 30 kaki; 1 subjek |
+| 2 | 2 | Jarak 60 kaki; 2 subjek |
+| 3 | 3 | Jarak 90 kaki; 3 subjek |
+| 4 | 4 | Jarak 120 kaki; 4 subjek |
+| 5 | 5 | Jarak 150 kaki; 5 subjek |
 
 ---
 #### Repair
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1, Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** ?? | **Tempoh:** 24 Jam |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Item | **Rintangan:** T/A |
+| **Pangkat:** Cleric 1, Mage 0 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Penciptaan | **Tempoh:** 24 Jam |
+| **Kos:** 1 | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Item | **Rintang:** NA |
 
-Repair membaiki kerosakan fizikal pada objek tidak bernyawa. Setiap pemanteraan berasingan yang berjaya membaiki 1d3 Mata Hit kerosakan.
+Repair membaiki kerosakan fizikal pada objek tidak bernyawa. Setiap perapalan berjaya yang berasingan membaiki 1d3 Mata Hit (Hit Points) kerosakan.
 
 ---
 #### Restoration
 
-(Nekromansi)
+(Necromancy)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3 | **Masa Pemanteraan:** 3 Minit |
+| **Pangkat:** Cleric 3 | **Masa Merapal:** 3 Minit |
 | **Sfera:** Penyembuhan | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintang:** NA |
 
-Apabila dipantera, mangsa yang sebelum ini kehilangan daya hidup mereka menggunakan Energy Drain atau kesan serupa mendapat semula satu tahap Keletihan yang hilang sebelum ini. Pada 1 tahap Intensiti, mantera ini hanya berfungsi pada makhluk yang dikeringkan dalam masa 24 Jam terakhir. Setiap Intensiti tambahan meningkatkan masa yang boleh berlalu sebanyak 24 Jam lagi. Sebagai contoh, mangsa yang dikeringkan kurang daripada 48 jam yang lalu akan memerlukan mantera dipantera pada 2 Intensiti untuk berfungsi. Berbilang tahap Keletihan yang hilang memerlukan pemanteraan tambahan Restoration. Tidak kira Tempoh dan sebagai tambahan kepada sebarang Keletihan yang dipulihkan, mantera ini juga memulihkan semua kapasiti mental, seperti yang hilang melalui sihir atau sebarang bentuk kegilaan atau demensia. Restoration juga boleh digunakan untuk membuang tahun yang hilang akibat penuaan tiruan, seperti daripada mantera tertentu. Untuk mantera dipantera dengan cara ini, sebagai tambahan kepada kos pemanteraan biasa, paderi mesti membelanjakan 1 Gulungan EXP bagi setiap 1% jangka hayat biasa penerima yang akan dipulihkan (1 tahun bagi manusia). Mantera tidak boleh mengurangkan usia subjek di bawah usia sebenar mereka.
+Apabila dirapal, mangsa yang sebelum ini telah disedut daya hidupnya menggunakan Energy Drain atau kesan serupa akan mendapat kembali satu tahap Fatigue yang hilang sebelum ini. Pada tahap Keamatan 1, mantera ini hanya berkesan pada makhluk yang disedut dalam tempoh 24 Jam terakhir. Setiap Keamatan tambahan meningkatkan masa yang boleh berlalu sebanyak 24 Jam lagi. Contohnya, mangsa yang disedut kurang 48 jam yang lalu memerlukan mantera dirapal pada Keamatan 2 untuk berfungsi. Pelbagai tahap Fatigue yang disedut memerlukan perapalan tambahan Restoration. Tanpa mengira Tempoh dan sebagai tambahan kepada sebarang Fatigue yang dipulihkan, mantera ini juga memulihkan semua kapasiti mental, seperti yang hilang akibat sihir atau sebarang bentuk kegilaan atau demensia. Restoration juga boleh digunakan untuk menghapuskan tahun yang hilang akibat penuaan buatan, seperti yang disebabkan oleh mantera tertentu. Untuk mantera dirapal dengan cara ini, sebagai tambahan kepada kos perapalan biasa, cleric mesti membelanjakan 1 Gulingan EXP bagi setiap 1% daripada jangka hayat biasa penerima yang akan dipulihkan (1 tahun bagi manusia). Mantera ini tidak boleh mengurangkan umur semasa subjek di bawah umur sebenar mereka.
 
 ---
-#### Resurrection \(R\)
+#### Resurrection (R)
 
-(Nekromansi)
+(Necromancy)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 5 | **Masa Pemanteraan:** 10 Minit |
+| **Pangkat:** Cleric 5 | **Masa Merapal:** 10 Minit |
 | **Sfera:** Nekromantik | **Tempoh:** Kekal |
-| **Kos:** 3, +1/Intensiti tambahan, +2 EXP | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A (Kuasa Minda) |
+| **Kos:** 3, +1/Keamatan tambahan, +2 EXP | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintang:** NA (Willpower) |
 
-Resurrection menghidupkan mana-mana makhluk yang mati tidak lebih daripada 20 tahun bagi setiap tahap Intensiti. Makhluk itu bukan sahaja diberikan kehidupan, tetapi dipulihkan kepada kekuatan penuh dan disembuhkan daripada kecederaan, malah memulihkan anggota badan yang hilang. Sedikit sahaja daripada makhluk sebenar yang perlu ditinggalkan untuk mantera itu masih berkesan. Sebagai contoh, Resurrection boleh digunakan untuk membawa makhluk kembali daripada kematian selepas 145 tahun, walaupun hanya mempunyai tulang jari, dengan andaian mantera dipantera pada 8 Intensiti. Individu yang dihidupkan tidak memerlukan tempoh rehat dan berfungsi sepenuhnya serta-merta. Mantera tidak mempunyai kesan ke atas makhluk yang mati secara semula jadi pada akhir jangka hayat yang diperuntukkan.
+Resurrection menghidupkan semula mana-mana makhluk yang mati tidak lebih daripada 20 tahun setiap tahap Keamatan. Makhluk itu bukan sahaja diberi kehidupan, tetapi dipulihkan kepada kekuatan penuh dan disembuhkan daripada kecederaan, malah memulihkan anggota badan yang hilang. Sedikit sahaja daripada makhluk sebenar yang perlu kekal untuk mantera itu tetap berkesan. Contohnya, Resurrection boleh digunakan untuk membawa kembali makhluk dari kematian selepas 145 tahun, walaupun hanya memiliki tulang jari, dengan andaian mantera dirapal pada Keamatan 8. Individu yang dihidupkan tidak memerlukan tempoh rehat dan berfungsi sepenuhnya dengan serta-merta. Mantera ini tidak mempunyai kesan ke atas makhluk yang mati disebabkan oleh punca semula jadi pada akhir jangka hayat yang diperuntukkan kepadanya.
 
-Jika Jajaran subjek adalah selain daripada jahat, mereka boleh menentang mantera dengan gulungan Kuasa Minda Bertentangan dan, jika berjaya, menafikan kesannya. Ini kerana jiwa atau semangat si mati jarang bersedia untuk kembali kepada kehidupan setelah mencapai ganjaran abadi mereka. Walau bagaimanapun, Pengurus Permainan boleh memutuskan untuk mengecualikan gulungan tersebut jika penerima mempunyai urusan yang belum selesai, tidak dapat dipisahkan daripada cinta sejati mereka, atau mempunyai sebab wira lain untuk hidup. Dalam kes jiwa yang jahat, yang akan dengan senang hati kembali dan bukannya menderita azab yang kekal, ia bukanlah Kuasa Minda si mati yang menentang, tetapi roh jahat, syaitan, dan sebagainya, yang bertanggungjawab atas hukuman mereka, penyeksa mereka. Dalam kes ini, pemantera mestilah mengatasi Kuasa Minda penyeksa tersebut. Jika ini tidak diketahui, anggap ia sekurang-kurangnya 20 mata lebih tinggi daripada si mati untuk mewakili bahawa semakin kuat kehendak jiwa, semakin berkuasa makhluk yang diletakkan sebagai penjaga azab mereka. Jika pemantera berjaya, subjek telah berjaya dihidupkan semula, manakala gulungan yang gagal mengakibatkan mangsa sama ada tidak sudi atau tidak dapat kembali.
+Jika Penjajaran (Alignment) subjek adalah selain daripada jahat, mereka boleh menentang mantera dengan balingan Willpower Bertentangan dan, jika berjaya, menafikan kesannya. Ini kerana jiwa atau roh si mati jarang sekali ingin kembali ke dunia orang hidup setelah mencapai ganjaran abadi. Walau bagaimanapun, Games Master boleh memutuskan untuk mengetepikan balingan tersebut jika penerima mempunyai urusan yang belum selesai, tidak dapat dipisahkan daripada cinta sejati mereka, atau mempunyai sebab heroik lain untuk hidup. Dalam kes jiwa yang jahat, yang akan dengan senang hati kembali daripada menderita dalam hukuman abadi, bukan Willpower si mati yang menentang, tetapi Willpower syaitan, iblis, dan sebagainya, yang diletakkan sebagai ketua hukuman mereka, penyeksa mereka. Dalam kes ini, perapal mesti mengatasi Willpower penyeksa tersebut. Jika ini tidak diketahui, andaikan ia sekurang-kurangnya 20 mata lebih tinggi daripada si mati untuk mewakili bahawa semakin kuat kehendak jiwa, semakin berkuasa makhluk yang diletakkan sebagai ketua hukuman dia. Jika perapal berjaya, subjek telah berjaya dibangkitkan, manakala balingan yang gagal menyebabkan mangsa sama ada tidak mahu atau tidak dapat kembali.
 
-Resurrection sangat meletihkan, Menua paderi sebanyak 3% daripada jangka hayat biasa mereka (3 tahun dalam kes paderi manusia). Lihat peraturan untuk [Penuaan](0007_Game_System.md?id=aging).
+Resurrection sangat meletihkan, Menua (Aging) cleric sebanyak 3% daripada jangka hayat biasa mereka (3 tahun dalam kes perapal manusia). Lihat peraturan untuk [Penuaan](0007_Game_System.md?id=aging).
 
-Apabila diterbalikkan, Destruction, boleh digunakan untuk membunuh satu mangsa yang bersentuhan dengan paderi pada masa pemanteraan. Mangsa ini dibenarkan gulungan Kuasa Minda untuk menentang, diubah suai oleh Pangkat atau SIZ sasaran, yang mana memberikan hasil yang lebih berfaedah kepada mangsa, seperti yang diperincikan pada jadual berikut.
+Apabila disongsangkan, Destruction, boleh digunakan untuk membunuh seorang mangsa yang bersentuhan dengan cleric pada masa perapalan. Mangsa ini dibenarkan melakukan balingan Willpower untuk menentang, diubah suai oleh Pangkat atau SAI sasaran, yang mana memberikan keputusan yang lebih berfaedah kepada mangsa, seperti yang diperincikan dalam jadual berikut.
 
-| Pangkat Sasaran | SIZ Sasaran | Pengubah Kuasa Minda |
+| Pangkat Sasaran | SAI Sasaran | Pengubahsuai Willpower |
 | :-: | :-: | :-- |
-| 0-1\* | 1-20 | Hebat |
-| 2 | 21-40 | Sukar |
-| 3 | 41-60 | Standard |
-| 4 | 61-80 | Mudah |
-| 5 | 81+ | Sangat Mudah |
+| 0-1\* | 1-20 | Hebat (Formidable) |
+| 2 | 21-40 | Sukar (Hard) |
+| 3 | 41-60 | Piawai (Standard) |
+| 4 | 61-80 | Mudah (Easy) |
+| 5 | 81+ | Sangat Mudah (Very Easy) |
 
-_\* Kategori ini termasuk watak yang tidak mempunyai Kelas._
+_\* Kategori ini merangkumi watak yang tidak memiliki Kelas._
 
-Jika gulungan Rintangan ini tidak berjaya, subjek dibunuh serta-merta, tubuh mereka menjadi debu. Hanya pemanteraan Wish yang akan membawa mangsa kembali pada peringkat ini. Pada gulungan yang berjaya, subjek masih dikurangkan kepada negatif 1d4 Mata Hit di Lokasi Pukulan yang disentuh. Perisai tidak menawarkan perlindungan daripada kerosakan ini. Destruction tidak menua pemantera apabila digunakan.
+Jika balingan Rintangan ini tidak berjaya, subjek dibunuh serta-merta, tubuh mereka bertukar menjadi debu. Hanya perapalan Wish akan membawa mangsa kembali pada tahap ini. Pada balingan yang berjaya, subjek masih dikurangkan kepada negatif 1d4 Mata Hit (Hit Points) di Lokasi Hit yang disentuh. Perisai tubuh tidak menawarkan perlindungan daripada kerosakan ini. Destruction tidak menua perapal apabila digunakan.
 
 ---
 #### Secure Portal
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 1 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** 60 kaki/Intensiti |
-| **Kawasan:** 1 Portal | **Rintangan:** T/A |
+| **Pangkat:** Mage 1 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 1 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** 60 kaki/Keamatan |
+| **Kawasan:** 1 Portal | **Rintang:** NA |
 
-Mantera ini boleh dipantera untuk menahan tutup satu pintu, jeriji, pintu pagar, atau bukaan lain yang serupa daripada kayu, batu, atau logam seolah-olah dikunci dengan selamat. Pintu, yang mungkin mempunyai sehingga 25 Mata Hit bagi setiap Intensiti, boleh dibelasah terbuka tetapi tidak akan terbuka untuk Tempoh mantera, yang boleh ditamatkan oleh pemantera pada bila-bila masa. Mantera boleh dinafikan dengan pemanteraan Dispel Magic yang berjaya pada Intensiti yang lebih tinggi daripada Magnitud atau Knock pada sebarang Intensiti. Secure Portal juga secara automatik dipintas oleh makhluk dari luar satah material utama seperti syaitan, iblis, malaikat, dan unsur kerana mereka boleh melalui bahan pepejal. Ini juga tidak akan menjejaskan Blink atau mantera lain yang seumpamanya.
+Mantera ini boleh dirapal untuk menahan tutup satu pintu, pintu jeriji, pintu pagar, atau bukaan serupa lain daripada kayu, batu, atau logam seolah-olah dikunci dengan selamat. Pintu tersebut, yang boleh mencapai sehingga 25 Mata Hit setiap Keamatan, boleh dihentam sehingga terbuka tetapi tidak akan terbuka dengan cara lain untuk Tempoh mantera, yang boleh ditamatkan oleh perapal pada bila-bila masa. Mantera ini boleh dinafikan dengan perapalan Dispel Magic yang berjaya pada Keamatan yang lebih tinggi daripada Magnitud atau Knock pada sebarang Keamatan. Secure Portal juga secara automatik dipintas oleh makhluk dari luar satah material utama seperti syaitan, iblis, malaikat, dan elemen kerana mereka boleh melalui bahan pepejal. Ini juga tidak akan menjejaskan Blink atau mantera lain seumpamanya.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 min.; Julat 60 kaki; sehingga 25 hp portal; pintu kayu biasa |
-| 2 | 2 | 2 min.; Julat 120 kaki; sehingga 50 hp portal; pintu kayu yang diperkukuh |
-| 3 | 3 | 3 min.; Julat 180 kaki; sehingga 75 hp portal; pintu besi atau jeriji |
-| 4 | 4 | 4 min.; Julat 240 kaki; sehingga 120 hp portal; pintu gerbang istana kecil |
-| 5 | 5 | 5 min.; Julat 300 kaki; sehingga 150 hp portal; pintu gerbang istana yang besar dan diperkukuh |
+| 1 | 1 | 1 min.; Jarak 60 kaki; sehingga 25 hp portal; pintu kayu biasa |
+| 2 | 2 | 2 min.; Jarak 120 kaki; sehingga 50 hp portal; pintu kayu bertetulang |
+| 3 | 3 | 3 min.; Jarak 180 kaki; sehingga 75 hp portal; pintu besi atau jeriji |
+| 4 | 4 | 4 min.; Jarak 240 kaki; sehingga 120 hp portal; pintu gerbang istana kecil |
+| 5 | 5 | 5 min.; Jarak 300 kaki; sehingga 150 hp portal; pintu gerbang istana besar yang bertetulang |
 
 ---
 #### Shield
 
-(Evokasi)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 5 Pusingan/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Pemantera | **Rintangan:** T/A |
+| **Pangkat:** Mage 1 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 5 Pusingan/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 0 |
+| **Kawasan:** Perapal | **Rintang:** NA |
 
-Shield mencipta cakera daya halimunan yang bergerak dan terapung di hadapan pengguna sihir, meningkatkan kesukaran serangan yang menyerang dari arah itu dengan membelokkannya. Dalam pertempuran miniatur, Shield hanya akan menyekat kerosakan yang melalui salah satu petak hadapan pemantera. Pengguna sihir tidak perlu membuat sebarang ujian kemahiran selain daripada pemanteraan mantera, kerana sihir mantera secara automatik menyisipkan perisai di antara serangan dan pemantera. Penalti yang dikenakan ke atas serangan yang menyerang melalui hadapan pemantera adalah berdasarkan jenis serangan, dan diperincikan dalam jadual berikut.
+Shield mencipta cakera daya halimunan mudah alih yang melayang di hadapan pengguna sihir, meningkatkan kesukaran serangan yang menyerang dari arah itu dengan melencongkan mereka. Dalam pertempuran miniatur, Shield hanya akan menyekat kerosakan yang melalui salah satu petak hadapan perapal. Pengguna sihir tidak perlu membuat sebarang ujian kemahiran selain daripada merapal mantera, kerana sihir mantera secara automatik meletakkan perisai di antara serangan dan perapal. Penalti yang dikenakan ke atas serangan yang menyerang melalui arah hadapan perapal adalah berdasarkan jenis serangan, dan diperincikan dalam jadual berikut.
 
-| Jenis Serangan | Contoh | Kesukaran untuk Menyerang Pemantera |
-| :-- | :-- | :-- |
-| Magic missile | Magic Missiles sahaja | Mustahil, Magic Missiles secara automatik disekat |
-| Serangan lontaran | Batu, kapak dan lembing yang dibaling, dan sebagainya | Herculean |
-| Serangan digerakkan peranti | Anak panah, bolt busur silang dan manticore, batu dan peluru pengumban, dan sebagainya | Hebat |
-| Fizikal lain | Pedang, gigitan, cakar, dan sebagainya | Sukar |
-| Mantera yang boleh dielak | Fire ball, lightning bolt, cone of cold, dan sebagainya | Kesukaran normal, tetapi tiada kerosakan jika pemantera mengelak dan separuh jika mereka gagal |
+| Jenis Serangan | Contoh | Kesukaran untuk Menyerang Perapal |
+| :-: | :-- | :-- |
+| Magic missile | Magic Missile sahaja | Mustahil, Magic Missile disekat secara automatik |
+| Serangan lontaran | Batu, kapak dan lembing lontaran, dan sebagainya | Herculean |
+| Serangan didorong peranti | Anak panah, bolt busur silang dan mantikora, batu ali dan peluru, dan sebagainya | Hebat (Formidable) |
+| Fizikal lain | Pedang, gigitan, cakar, dan sebagainya | Sukar (Hard) |
+| Mantera yang boleh dielak | Fire ball, lightning bolt, cone of cold, dan sebagainya | Kesukaran biasa, tetapi tiada kerosakan jika perapal mengelak dan separuh jika mereka gagal |
 
 ---
 #### Silence
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Penjaga | **Tempoh:** Lihat di bawah |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 360 kaki |
-| **Kawasan:** Jejari 15 kaki | **Rintangan:** Lihat di bawah |
+| **Pangkat:** Cleric 2 | **Masa Merapal:** 2 Tindakan |
+| **Sfera:** Penjaga (Guardian) | **Tempoh:** Lihat Di Bawah |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 360 kaki |
+| **Kawasan:** Jejari 15 kaki | **Rintang:** Lihat Di Bawah |
 
-Mantera ini membolehkan pemantera mencipta keheningan yang mutlak dalam Kawasan Kesan. Tiada bunyi langsung yang mungkin, perbualan terhenti, mantera dengan komponen lisan tidak boleh dipantera, dan sebagainya. Jika Silence dipantera pada objek atau makhluk, Kawasan Kesan mantera akan bergerak bersama sasaran. Walau bagaimanapun, mantera yang sama dipantera ke udara terbuka akan kekal tidak bergerak. Tempoh mantera bergantung kepada sama ada subjek itu rela atau tidak rela. Pada sasaran yang rela, Tempohnya ialah 2 Minit/Intensiti, manakala pada sasaran yang tidak rela Tempohnya ialah 2 Pusingan/Intensiti. Gulungan Rintangan Kuasa Minda dibenarkan hanya jika mantera dipantera pada makhluk yang tidak rela dan jika berjaya, mantera sebaliknya menyasarkan kawasan yang diduduki makhluk itu, kekal tidak bergerak.
+Mantera ini membolehkan perapal mencipta kesunyian lengkap dan mutlak dalam Kawasan Kesan. Tiada bunyi langsung yang mungkin berlaku, perbualan terhenti, mantera dengan komponen lisan tidak boleh dirapal, dan sebagainya. Jika Silence dirapal pada objek atau makhluk, Kawasan Kesan mantera akan bergerak bersama sasaran. Walau bagaimanapun, mantera yang sama dirapal ke udara terbuka akan kekal tidak bergerak. Tempoh mantera bergantung kepada sama ada subjek sudi atau tidak sudi. Pada sasaran yang sudi, Tempoh adalah 2 Minit/Keamatan, manakala pada sasaran yang tidak sudi Tempoh adalah 2 Pusingan/Keamatan. Balingan Rintangan Willpower hanya dibenarkan jika mantera dirapal pada makhluk yang tidak sudi dan jika berjaya, mantera sebaliknya menyasarkan kawasan yang diduduki oleh makhluk tersebut, kekal tidak bergerak.
 
 ---
 #### Sleep
 
-(Enchantment (Pesona))
+(Enchantment (Charm))
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 5 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 60 kaki |
-| **Kawasan:** Jejari 10 kaki | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 1 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 5 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 60 kaki |
+| **Kawasan:** Jejari 10 kaki | **Rintang:** Willpower |
 
-Mantera ini menyebabkan tidur sihir jatuh ke atas satu makhluk bagi setiap tahap Intensiti dalam kawasan bulat 10 kaki dalam jejari. Kawasan Kesan mantera dipusatkan pada titik di angkasa atau di tanah dan makhluk terdekat boleh menentang terlebih dahulu, kemudian yang seterusnya terdekat, dan seterusnya. Di mana dua atau lebih jatuh pada jarak yang sama, tentukan secara rawak siapa yang terjejas. Setiap makhluk dibenarkan gulungan untuk menentang dan jika satu berjaya, yang lain mesti mencuba sehingga jumlah yang terjejas sama dengan Intensiti mantera, atau tiada lagi makhluk yang menduduki Kawasan Kesan. Makhluk dalam keadaan berjaga-jaga yang tinggi, atau dalam pertempuran apabila mantera dipantera, mendapati gulungan untuk menentang satu gred lebih mudah.
+Mantera ini menyebabkan tidur ajaib menimpa satu makhluk hidup setiap tahap Keamatan dalam kawasan bulat berjejari 10 kaki. Kawasan Kesan mantera dipusatkan pada satu titik di ruang atau di atas tanah dan makhluk terdekat boleh menentang dahulu, kemudian yang seterusnya terdekat, dan sebagainya. Di mana dua atau lebih jatuh pada jarak yang sama, tentukan secara rawak siapa yang terjejas. Setiap makhluk dibenarkan membuat balingan untuk menentang dan jika satu berjaya, yang lain mesti mencuba sehingga jumlah yang terjejas sama dengan Keamatan mantera, atau tiada lagi makhluk yang menduduki Kawasan Kesan. Makhluk dalam keadaan berjaga-jaga yang tinggi, atau dalam pertempuran apabila mantera dirapal, mendapati balingan untuk menentang satu gred lebih mudah.
 
-Makhluk besar (SIZ 21-40) kurang terdedah kepada Sleep, dengan gulungan rintangan menjadi Mudah, manakala gulungan Rintangan untuk makhluk sangat besar (SIZ 41+) adalah Sangat Mudah. Makhluk yang lebih kecil sentiasa terjejas sebelum yang lebih besar; oleh itu, makhluk bersaiz SIZ 20 atau kurang sentiasa terjejas sebelum mereka yang bersaiz SIZ 21 hingga 40, yang mana mereka sendiri sentiasa terjejas sebelum mereka yang bersaiz SIZ 41+.
+Makhluk besar (SAI 21-40) kurang terdedah kepada Sleep, dengan balingan rintangan menjadi Mudah (Easy), manakala balingan Rintangan untuk makhluk Sangat Besar (SAI 41+) adalah Sangat Mudah (Very Easy). Makhluk yang lebih kecil sentiasa terjejas sebelum yang lebih besar; oleh itu, makhluk dengan SAI 20 atau kurang sentiasa terjejas sebelum mereka yang bersaiz SAI 21 hingga 40, yang seterusnya sentiasa terjejas sebelum mereka yang bersaiz SAI 41+.
 
-Semasa tidur, makhluk yang terjejas tidak berdaya dan bunyi bising biasa tidak akan mengganggu mereka, tetapi mereka boleh digoncang atau ditampar sehingga terjaga. Sebarang serangan, dengan andaian ia tidak membawa maut, juga akan menyebabkan mereka terjaga (walaupun serangan itu akan datang sebagai Kejutan). Cuba mengejutkan makhluk mengambil masa 1 Pusingan Pertempuran.
+Semasa tidur, makhluk yang terjejas tidak berdaya dan bunyi bising biasa tidak akan mengganggu mereka, tetapi mereka boleh digoncang atau ditampar sehingga terjaga. Sebarang serangan, dengan andaian ia tidak membawa maut, juga akan menyebabkan mereka terjaga (walaupun serangan itu akan datang sebagai Kejutan). Mencuba untuk mengejutkan makhluk mengambil masa 1 Pusingan Tempur.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
 | 1 | 3 | Tempoh 5 min.; 1 makhluk |
 | 2 | 4 | Tempoh 10 min.; 2 makhluk |
@@ -2662,18 +2684,18 @@ Semasa tidur, makhluk yang terjejas tidak berdaya dan bunyi bising biasa tidak a
 ---
 #### Slow
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 2 Pusingan/Intensiti |
-| **Kos:** 3/Intensiti | **Julat:** 100 kaki |
-| **Kawasan:** Jejari 20 kaki | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Mage 2 | **Masa Merapal:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 2 Pusingan/Keamatan |
+| **Kos:** 3/Keamatan | **Jarak:** 100 kaki |
+| **Kawasan:** Jejari 20 kaki | **Rintang:** Willpower |
 
-Mantera ini membolehkan pemantera membahagikan dua Kadar Pergerakan normal satu makhluk. Makhluk tambahan boleh diperlahankan bagi setiap tahap Intensiti tambahan. Mereka yang terjejas mestilah berada dalam Kawasan Kesan apabila mantera mula-mula dipantera tetapi boleh bergerak bebas selepas itu. Selain itu, mereka yang berada di bawah kesan Slow menerima penalti -4 kepada Inisiatif mereka bagi Tempoh mantera dan mesti mengurangkan jumlah Titik Tindakan mereka sebanyak separuh, termasuk mana-mana yang digunakan untuk tujuan Reaktif sahaja. Memantera Slow membatalkan kesan Haste. Slow tidak bertindan dengan dirinya sendiri atau kesan sihir yang serupa.
+Mantera ini membolehkan perapal memisahkan Kadar Pergerakan biasa satu makhluk. Makhluk tambahan boleh diperlahankan bagi setiap tahap Keamatan tambahan. Mereka yang terjejas mestilah berada dalam Kawasan Kesan apabila mantera dirapal buat kali pertama tetapi boleh bergerak dengan bebas selepas itu. Selain itu, mereka yang berada di bawah kesan Slow menerima penalti -4 pada Inisiatif mereka untuk Tempoh mantera dan mesti mengurangkan jumlah Mata Tindakan (Action Points) mereka sebanyak separuh, termasuk mana-mana yang digunakan untuk tujuan Reaktif sahaja. Perapalan Slow membatalkan kesan Haste. Slow tidak bertindan dengan dirinya sendiri atau kesan sihir serupa.
 
-| Intensiti | Kos | Kesan Pembolehubah |
+| Keamatan | Kos | Kesan Berubah |
 | :-: | :-: | :-- |
 | 1 | 3 | Tempoh 2 Pusingan; 1 makhluk |
 | 2 | 6 | Tempoh 4 Pusingan; 2 makhluk |
@@ -2684,101 +2706,100 @@ Mantera ini membolehkan pemantera membahagikan dua Kadar Pergerakan normal satu 
 ---
 #### Slow Poison
 
-(Nekromansi)
+(Necromancy)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Penyembuhan | **Tempoh:** 1 Jam/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Pangkat:** Cleric 1 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Penyembuhan | **Tempoh:** 1 Jam/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintang:** NA |
 
-Mantera ini membolehkan pemantera memperlahankan kesan racun dan bisa; ia tidak, walau bagaimanapun, meneutralkan toksin tersebut. Sebaliknya, toksin yang merebak ke seluruh badan diperlahankan supaya langkah penyembuhan tambahan dapat ditemui. Masa Permulaan toksin tidak bermula sehingga selepas Tempoh mantera tamat.
+Mantera ini membolehkan perapal memperlahankan kesan racun dan bisa; walau bagaimanapun, ia tidak meneutralkan toksin tersebut. Sebaliknya, toksin yang merebak ke seluruh badan diperlahankan cukup supaya diharapkan langkah penyembuhan tambahan boleh ditemui. Masa Permulaan (Onset Time) toksin tidak bermula sehingga selepas Tempoh mantera tamat.
 
-Sebagai contoh, bisa kobra mempunyai Masa Permulaan seperti berikut: sengsara selepas 1d6+4 minit, dan Asfiksia selepas 1d6+6 jam. Oleh itu, satu Intensiti Slow Poison menangguhkan Masa Permulaan sebanyak 1 jam, selepas itu, 1d6+4 minit kemudian, sengsara bermula seperti biasa.
+Contohnya, bisa ular tedung mempunyai Masa Permulaan seperti berikut: kesakitan selepas 1d6+4 minit, dan Asfiksia selepas 1d6+6 jam. Satu Keamatan Slow Poison oleh itu menangguhkan Masa Permulaan selama 1 jam, selepas itu, 1d6+4 minit kemudian, kesakitan berlaku seperti biasa.
 
-Jika Slow Poison dipantera pada mangsa selepas gejala bermula, ia berhenti sehingga selepas Tempoh mantera tamat dan kemudian berterusan seperti biasa.
+Jika Slow Poison dirapal pada mangsa selepas gejala bermula, ia berhenti sehingga selepas Tempoh mantera tamat dan kemudian diteruskan seperti biasa.
 
-Sebagai usaha terakhir, jika pemantera boleh mendapatkan individu yang telah 'mati' akibat diracuni dalam masa 10 minit, Slow Poison melambatkan kematian mangsa selama 1 jam bagi setiap Intensiti, di mana mangsa kekal dalam keadaan koma. Jika dalam masa ini, mangsa boleh disembuhkan daripada racun tersebut, mangsa mungkin masih hidup dan dipulihkan melalui Pertolongan Cemas atau penyembuhan sihir.
+Sebagai jalan terakhir, jika perapal boleh mendapatkan individu yang telah 'mati' akibat diracun dalam masa 10 minit, Slow Poison melambatkan kematian mangsa selama 1 jam setiap Keamatan, di mana mangsa kekal dalam keadaan koma. Jika dalam tempoh ini, mangsa boleh disembuhkan daripada racun tersebut, mangsa mungkin masih hidup dan dipulihkan melalui Pertolongan Cemas atau penyembuhan ajaib.
 
 ---
 #### Speak with Monsters
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 4 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Divinasi | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 100 kaki |
-| **Kawasan:** 1 atau lebih Raksasa | **Rintangan:** T/A |
+| **Pangkat:** Cleric 4 | **Masa Merapal:** 2 Tindakan |
+| **Sfera:** Penilikan (Divination) | **Tempoh:** 2 Minit/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 100 kaki |
+| **Kawasan:** 1 atau lebih Raksasa | **Rintang:** NA |
 
-Mantera ini membolehkan pemantera memahami dan difahami oleh mana-mana jenis makhluk yang mampu melakukan sebarang bentuk komunikasi (telepati, feromon, sentuhan, dan sebagainya). Pemantera hanya bercakap dalam bahasa mereka sendiri dan makhluk itu memahami niat atau pertanyaan pemantera dalam bentuk komunikasi mereka sendiri. Pengurus Permainan harus menentukan tindak balas makhluk berdasarkan Jajaran mereka berbanding dengan pemantera. Pemantera boleh bertukar daripada satu makhluk kepada makhluk lain yang sama jenis sepanjang Tempoh mantera.
+Mantera ini membolehkan perapal memahami dan difahami oleh mana-mana jenis makhluk yang mampu melakukan sebarang bentuk komunikasi (telepati, feromon, sentuhan, dan sebagainya). Perapal hanya bercakap dalam bahasa mereka sendiri dan makhluk tersebut memahami niat atau pertanyaan perapal dalam bentuk komunikasi mereka sendiri. Games Master harus menentukan reaksi makhluk tersebut berdasarkan Penjajarannya (Alignment) berbanding dengan Penjajaran perapal. Perapal boleh bertukar daripada satu makhluk kepada yang lain bagi jenis yang sama sepanjang Tempoh mantera.
 
 ---
 #### Sphere of Invulnerability, Lesser
 
-(Abjurasi)
+(Abjuration)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 1 Pusingan/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Jejari 5 kaki | **Rintangan:** T/A |
+| **Pangkat:** Mage 3 | **Masa Merapal:** 2 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 1 Pusingan/Keamatan |
+| **Kos:** 3, +1/Keamatan tambahan | **Jarak:** 0 |
+| **Kawasan:** Jejari 5 kaki | **Rintang:** NA |
 
-Apabila mantera ini dipantera, sfera perlindungan sihir berkilauan yang tidak bergerak terbentuk di sekeliling pemantera. Mantera Pangkat 1 dan 2, serta sebarang kawasan kesan sihir yang dihasilkannya, akan gagal menembusi sfera, termasuk yang dimiliki oleh item sihir atau Kebolehan sihir semula jadi sesetengah makhluk. Pemantera dan mana-mana sekutu yang mampu memantera boleh melancarkan serangan sihir dari dalam sfera tanpa kesan buruk, malah meninggalkan sfera dan kembali tanpa menjejaskan Tempohnya. Lesser Sphere of Invulnerability terjejas secara normal oleh Dispel Magic.
+Apabila mantera ini dirapal, sfera perlindungan ajaib yang berkilauan dan tidak bergerak terbentuk di sekeliling perapal. Mantera Pangkat 1 dan 2, serta sebarang kawasan kesan ajaib yang dihasilkannya, tidak akan menembusi sfera tersebut, termasuk yang dimiliki oleh item ajaib atau Kebolehan ajaib semula jadi sesetengah makhluk. Perapal dan mana-mana sekutu yang mampu merapal mantera boleh melancarkan serangan ajaib dari dalam sfera tanpa kesan buruk, malah meninggalkan sfera dan kembali tanpa menjejaskan Tempohnya. Lesser Sphere of Invulnerability terjejas seperti biasa oleh Dispel Magic.
 
 ---
 #### Spider Climb
 
-(Transmutasi)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Tiada | **Tempoh:** 2 Minit/Intensiti |
-| **Kos:** 1/Intensiti | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Pangkat:** Mage 1 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Tiada | **Tempoh:** 2 Minit/Keamatan |
+| **Kos:** 1/Keamatan | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintang:** NA |
 
-Subjek mantera ini boleh bergerak di sepanjang permukaan menegak dan siling dengan Kadar Pergerakan 10 kaki, walaupun semasa tergantung terbalik. Subjek mestilah menanggalkan semua kasut dan alas tangan dan menggunakan objek yang sangat kecil (ENC boleh diabaikan) adalah mustahil disebabkan mereka melekat pada tangan. Ini termasuk kebanyakan komponen material pemanteraan mantera, biasanya menjadikan pemanteraan mantera mustahil semasa di bawah pengaruh Spider Climb. Untuk menarik objek bebas daripada individu atau menarik individu yang menentang bebas daripada permukaan memerlukan gulungan Otot (Brawn) yang berjaya pada kesukaran Hebat.
+Subjek mantera ini boleh bergerak sepanjang permukaan menegak dan siling dengan Kadar Pergerakan 10 kaki, walaupun semasa tergantung terbalik. Subjek mesti menanggalkan semua alas tangan dan kaki, dan menggunakan objek yang sangat kecil (ENC yang boleh diabaikan) adalah mustahil kerana ia melekat pada tangan mereka. Ini termasuk kebanyakan komponen bahan perapalan mantera, yang biasanya menjadikan perapalan mantera mustahil semasa di bawah pengaruh Spider Climb. Untuk menarik objek bebas daripada individu atau menarik individu yang menentang bebas daripada permukaan memerlukan balingan Brawn yang berjaya pada kesukaran Hebat (Formidable).
 
 ---
 #### Spiritshield
 
-(Abjurasi)
+(Abjuration)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0 | **Masa Pemanteraan:** 1 Tindakan |
-| **Sfera:** Nekromantik | **Tempoh:** Tumpuan |
-| **Kos:** 1 | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Pangkat:** Cleric 0 | **Masa Merapal:** 1 Tindakan |
+| **Sfera:** Nekromantik | **Tempoh:** Penumpuan (Concentration) |
+| **Kos:** 1 | **Jarak:** Sentuhan |
+| **Kawasan:** 1 Sasaran | **Rintang:** Willpower |
 
-Mantera ini mencipta perisai di sekeliling penerima yang menghalang semangat dan hantu daripada masuk. Mana-mana semangat atau hantu yang ingin menyerang atau merasuki penerima mestilah mengatasi mantera tersebut dengan memenangi Ujian Bertentangan Kuasa Minda mereka lwn. kemahiran Kesalehan (Piety) pemantera.
+Mantera ini mencipta perisai di sekeliling penerima yang menghalang roh dan hantu daripada masuk. Mana-mana roh atau hantu yang ingin menyerang atau merasuk penerima mesti mengatasi mantera dengan memenangi Ujian Bertentangan Willpower mereka lawan kemahiran Piety perapal.
 
----
-#### Spiritual Hammer
+---#### Spiritual Hammer
 
 (Evokasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Cleric 2 | **Masa Jampi:** 2 Tindakan |
 | **Sfera:** Tempur | **Tempoh:** 3 Pusingan/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 0 |
-| **Kawasan:** Jejari 30 kaki/Intensiti | **Rintangan:** Menepis atau Mengelak |
+| **Kos:** 3, +1/Intensiti tambahan | **Jarak:** 0 |
+| **Kawasan:** 30 kaki Jejari/Intensiti | **Rintang:** Tangkis atau Elak |
 
-Apabila memantera mantera ini, daya tukul seperti tenaga rohani muncul, yang kemudian melontarkan dirinya ke sasaran yang ditetapkan oleh pemantera. Setiap Pusingan, pemantera boleh menggunakan salah satu Titik Tindakan mereka untuk mengarahkan tukul untuk menyerang, dengan syarat Tumpuan dikekalkan. Semasa menumpukan perhatian, pemantera dihadkan untuk bergerak tidak lebih pantas daripada berjalan, dan boleh Mengelak atau Menepis dengan senjata atau perisai yang dilengkapi tanpa memecahkan tumpuan. Dengan setiap Titik Tindakan yang digunakan untuk memanipulasi tukul, ia boleh digerakkan ke mana-mana lokasi dalam jarak penglihatan pemantera. Jika pemantera berada di belakang lawan, mereka boleh menggunakan tukul untuk menyerang lawan dari belakang, menafikan peluang mereka untuk mempertahankan diri dengan kemampuan terbaik mereka. Spiritual Hammer menyebabkan kerosakan seperti tukul perang normal (1d8+1), dan mempunyai peluang untuk mengenai sasaran sama dengan Kemahiran Pertempuran paderi. Perisai yang dipakai menawarkan separuh perlindungan, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Ia boleh ditepis atau dielak seperti biasa dan serangan terhadapnya tidak berkesan. Spiritual Hammer dikira sebagai senjata sihir untuk menyerang makhluk yang hanya dicederakan oleh sihir, dengan setiap tahap Intensiti selepas yang pertama memberikan bonus bersamaan dengan Bonus Sihir +1 kumulatif, hingga Maksimum +5. Bonus ini tidak menambah kerosakan yang dikenakan, sebaliknya, ia membantu mencederakan makhluk yang hanya dicederakan oleh bonus sihir tertentu atau lebih tinggi.
+Apabila menjampi mantera ini, satu daya tenaga rohani berbentuk tukul muncul, yang kemudian melontarkan dirinya ke sasaran yang ditetapkan oleh penjampi. Setiap Pusingan, penjampi boleh menggunakan salah satu daripada Mata Tindakan mereka untuk mengarahkan tukul tersebut menyerang, dengan syarat Tumpuan dikekalkan. Semasa menumpu, penjampi dihadkan untuk bergerak tidak lebih pantas daripada berjalan, dan boleh Elak atau Tangkis dengan senjata atau perisai yang lengkap tanpa memutuskan tumpuan. Dengan setiap Mata Tindakan yang dibelanjakan untuk mengawal tukul tersebut, ia boleh digerakkan ke mana-mana lokasi dalam medan penglihatan penjampi. Jika penjampi berada di belakang lawan, mereka boleh menggunakan tukul tersebut untuk memukul lawan dari belakang, menafikan peluang mereka untuk mempertahankan diri dengan sebaik mungkin. Spiritual Hammer menyebabkan kerosakan seperti tukul perang biasa (1d8+1), dan mempunyai peluang untuk mengenai sasaran yang sama dengan Kemahiran Tempur cleric tersebut. Perisai yang dipakai hanya menawarkan separuh perlindungan, tetapi Mata Perisai magis atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Ia boleh ditangkis atau dielak seperti biasa dan serangan terhadapnya adalah tidak berkesan. Spiritual Hammer dikira sebagai senjata magis berkenaan dengan memukul makhluk yang hanya boleh dicederakan oleh sihir, dengan setiap tahap Intensiti selepas yang pertama memberikan bonus bersamaan dengan +1 Bonus Magis kumulatif, sehingga Maksimum +5. Bonus ini tidak menambah kerosakan yang dikenakan, sebaliknya, ia membantu mencederakan makhluk yang hanya boleh dicederakan oleh bonus magis tertentu atau lebih tinggi.
 
 | Intensiti | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
-| 1 | 3 | 3 Pusingan; jejari 30 kaki; dikira sebagai +0 |
-| 2 | 4 | 6 Pusingan; jejari 60 kaki; dikira sebagai +1 |
-| 3 | 5 | 9 Pusingan; jejari 90 kaki; dikira sebagai +2 |
-| 4 | 6 | 12 Pusingan; jejari 120 kaki; dikira sebagai +3 |
-| 5 | 7 | 15 Pusingan; jejari 150 kaki; dikira sebagai +4 |
-| 6 | 8 | 18 Pusingan; jejari 180 kaki; dikira sebagai +5 maks |
+| 1 | 3 | 3 Pusingan; 30 kaki jejari; dikira sebagai +0 |
+| 2 | 4 | 6 Pusingan; 60 kaki jejari; dikira sebagai +1 |
+| 3 | 5 | 9 Pusingan; 90 kaki jejari; dikira sebagai +2 |
+| 4 | 6 | 12 Pusingan; 120 kaki jejari; dikira sebagai +3 |
+| 5 | 7 | 15 Pusingan; 150 kaki jejari; dikira sebagai +4 |
+| 6 | 8 | 18 Pusingan; 180 kaki jejari; dikira sebagai +5 maks |
 | +1 | +1 | Teruskan perkembangan untuk Pusingan dan jejari |
 
 ---
@@ -2788,14 +2809,14 @@ Apabila memantera mantera ini, daya tukul seperti tenaga rohani muncul, yang kem
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 5 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Cleric 5 | **Masa Jampi:** 2 Tindakan |
 | **Sfera:** Matahari | **Tempoh:** 1d4+1 Pusingan |
-| **Kos:** 3/Intensiti | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** Jejari 5 kaki | **Rintangan:** Lihat di bawah |
+| **Kos:** 3/Intensiti | **Jarak:** 30 kaki/Intensiti |
+| **Kawasan:** 5 kaki Jejari | **Rintang:** Lihat di Bawah |
 
-Apabila dipantera, paderi boleh menyeru pancaran cahaya suci yang cemerlang menggunakan Tindakan Memantera Sihir pada bila-bila masa semasa Tempoh mantera. Pancaran itu adalah cahaya matahari semula jadi dan mempunyai jejari lima kaki. Mereka yang berada di Kawasan Kesan mestilah Mengelak untuk cuba melindungi mata mereka atau menjadi buta selama 1d3 Minit. Jika mereka gagal dalam gulungan Rintangan, Sun Ray membutakan makhluk yang menggunakan Dark Vision selama 2d4 Minit dan mereka kehilangan keupayaan Dark Vision mereka selama 1d4+1 Minit sehingga 20 kaki di luar Kawasan Kesan. Makhluk yang mendapati cahaya matahari semula jadi membahayakan penglihatan mereka menjadi buta secara kekal jika gagal dalam gulungan Rintangan atau buta selama 2d6 Pusingan jika gulungan itu berjaya.
+Apabila dijampi, cleric boleh menyeru sinaran cahaya suci yang cemerlang menggunakan Tindakan Jampi Sihir pada bila-bila masa semasa Tempoh mantera. Sinaran tersebut adalah cahaya matahari semula jadi dan mempunyai jejari lima kaki. Mereka yang berada dalam Kawasan Kesan mesti Elak untuk cuba melindungi mata mereka atau menjadi buta selama 1d3 Minit. Jika mereka gagal dalam balingan Rintangan, Sun Ray membutakan makhluk yang menggunakan Penglihatan Gelap selama 2d4 Minit dan mereka kehilangan keupayaan Penglihatan Gelap mereka selama 1d4+1 Minit sehingga 20 kaki di luar Kawasan Kesan. Makhluk yang mendapati cahaya matahari semula jadi membahayakan penglihatan mereka akan menjadi buta selama-lamanya jika gagal dalam balingan Rintangan atau buta selama 2d6 Pusingan jika balingan berjaya.
 
-Mayat hidup (Undead) dalam Kawasan Kesan mengambil 2d6 mata kerosakan pada setiap Lokasi Pukulan. Perisai, semula jadi atau sebaliknya, tidak menawarkan perlindungan, tetapi Mata Perisai sihir mengurangkan kerosakan seperti biasa. Mereka yang berada dalam jarak lima kaki dari pinggir Kawasan Kesan boleh Mengelak untuk tidak mengambil kerosakan. Mayat hidup dalam jarak 20 kaki dari Kawasan Kesan masih mengambil 1d6+1 mata kerosakan tetapi mengalami kerosakan sifar pada gulungan Rintangan yang berjaya. Mayat hidup yang secara khusus dicederakan oleh cahaya matahari, seperti pontianak, dimusnahkan jika mereka gagal Mengelak. Makhluk kulat serta semua bentuk kulat bawah tanah mengalami kesan yang sama seperti mayat hidup tetapi tidak boleh membuat gulungan Rintangan.
+Undead dalam Kawasan Kesan menerima 2d6 mata kerosakan pada setiap Lokasi Kena. Perisai, semula jadi atau sebaliknya, tidak menawarkan perlindungan, tetapi Mata Perisai magis mengurangkan kerosakan seperti biasa. Mereka yang berada dalam jarak lima kaki dari pinggir Kawasan Kesan boleh Elak untuk tidak menerima kerosakan. Undead dalam jarak 20 kaki dari Kawasan Kesan masih menerima 1d6+1 mata kerosakan tetapi tidak mengalami kerosakan jika balingan Rintangan berjaya. Undead yang secara khusus dicederakan oleh cahaya matahari, seperti puntianak, akan musnah jika mereka gagal untuk Elak. Makhluk kulat serta semua bentuk kulat bawah tanah mengalami kesan yang sama seperti undead tetapi tidak boleh membuat balingan Rintangan.
 
 ---
 #### Tidy
@@ -2804,12 +2825,12 @@ Mayat hidup (Undead) dalam Kawasan Kesan mengambil 2d6 mata kerosakan pada setia
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 0 | **Masa Jampi:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** Segera |
-| **Kos:** 1 | **Julat:** 20 kaki |
-| **Kawasan:** Lihat di bawah | **Rintangan:** T/A |
+| **Kos:** 1 | **Jarak:** 20 kaki |
+| **Kawasan:** Lihat di Bawah | **Rintang:** TB |
 
-Tidy serta-merta mengembalikan beberapa item (sehingga POW pemantera) bersamaan saiznya tidak lebih daripada 2 'Benda' setiap satu, kepada fesyen yang kemas, teratur, dan tertib dalam Julat mantera. Item yang lebih besar daripada 2 'Benda' setiap satu dialihkan ke kedudukan yang lebih teratur tetapi memerlukan campur tangan manual untuk dikemaskan dengan betul.
+Tidy serta-merta memulihkan sejumlah barang (sehingga KUR penjampi) yang bersaiz tidak lebih daripada 2 'Benda' setiap satu, kepada keadaan yang kemas, teratur, dan tersusun dalam Jarak mantera. Barang yang lebih besar daripada 2 'Benda' setiap satu dialihkan ke kedudukan yang lebih teratur tetapi memerlukan campur tangan manual untuk dikemaskan dengan betul.
 
 ---
 #### True Seeing
@@ -2818,12 +2839,12 @@ Tidy serta-merta mengembalikan beberapa item (sehingga POW pemantera) bersamaan 
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3, Ahli Sihir 4 | **Masa Pemanteraan:** 1 Pusingan |
+| **Pangkat:** Cleric 3, Mage 4 | **Masa Jampi:** 1 Pusingan |
 | **Sfera:** Divinasi | **Tempoh:** 1 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 Sasaran | **Rintangan:** T/A |
+| **Kos:** 3, +1/Intensiti tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 Sasaran | **Rintang:** TB |
 
-True Seeing memberikan subjek keupayaan untuk melihat dunia dengan jelas, hingga Julat 60 kaki, tertakluk kepada jarak penglihatan. Semua rahsia dalam Kawasan Kesan menjadi jelas; kegelapan semula jadi dan sihir ditembusi; pintu rahsia menjadi kelihatan; penyerang halimunan atau etereal didedahkan; ilusi dan fantasma menjadi jelas; dan bentuk sebenar makhluk yang berubah bentuk didedahkan. Malah satah etereal dan satah lain yang bersebelahan dengan satah material boleh dilihat dengan Tumpuan. True Seeing juga menafikan kesan mantera seperti Blur dan Mirror Image. Selain daripada komponen material duniawi, memantera True Seeing memerlukan bahan nadir yang diperbuat daripada cendawan serbuk, safron, dan lemak haiwan, dengan nilai sekurang-kurangnya 300GP.
+True Seeing memberikan subjek keupayaan untuk melihat dunia dengan jelas, sehingga Jarak 60 kaki, tertakluk kepada garis penglihatan. Semua rahsia dalam Kawasan Kesan menjadi jelas; kegelapan semula jadi dan magis ditembusi; pintu rahsia menjadi kelihatan; penyerang halimunan atau eter didedahkan; ilusi dan fantasi menjadi nyata; dan bentuk sebenar makhluk yang berubah bentuk didedahkan. Malah satah eter dan satah lain yang bersebelahan dengan satah material boleh dilihat dengan Tumpuan. True Seeing juga menafikan kesan mantera seperti Blur dan Mirror Image. Selain komponen material biasa, menjampi True Seeing memerlukan bahan jarang yang diperbuat daripada serbuk cendawan, safron, dan lemak haiwan, dengan nilai sekurang-kurangnya 300GP.
 
 ---
 #### Voice
@@ -2832,12 +2853,12 @@ True Seeing memberikan subjek keupayaan untuk melihat dunia dengan jelas, hingga
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 0 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Cleric 0 | **Masa Jampi:** 1 Tindakan |
 | **Sfera:** Pesona | **Tempoh:** Tumpuan |
-| **Kos:** 1 | **Julat:** Lihat di bawah |
-| **Kawasan:** 1 Sasaran | **Rintangan:** Kuasa Minda |
+| **Kos:** 1 | **Jarak:** Lihat di Bawah |
+| **Kawasan:** 1 Sasaran | **Rintang:** Kehendak |
 
-Voice menguatkan intonasi dan penyampaian penerima supaya ia menjadi menarik apabila mengeluarkan arahan lisan. Semua yang boleh mendengar penceramah terpaksa mendengar. Vokalisasi mereka juga dibawa merentasi dan melalui bunyi latar belakang yang paling kuat (angin ribut melolong, deruman air terjun, pertembungan senjata di medan pertempuran) hingga Julat 30 kali ganda CHA penerima dalam kaki.
+Voice menguatkan intonasi dan penyampaian penerima supaya ia menjadi berkesan apabila mengeluarkan perintah lisan. Semua yang boleh mendengar penceramah terpaksa mendengar. Vokalisasi mereka juga merentas dan menembusi bunyi latar belakang yang paling kuat (ribut menderu, deruman air terjun, pertembungan senjata di medan perang) sehingga Jarak 30 kali ganda KAR penerima dalam kaki.
 
 ---
 #### Wall of Fire/Circle of Fire
@@ -2846,32 +2867,32 @@ Voice menguatkan intonasi dan penyampaian penerima supaya ia menjadi menarik apa
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 3, Ahli Sihir 3 | **Masa Pemanteraan:** 2 Tindakan |
-| **Sfera:** ?? | **Tempoh:** Lihat di bawah |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Lihat di bawah |
-| **Kawasan:** Lihat di bawah | **Rintangan:** Lihat di bawah |
+| **Pangkat:** Cleric 3, Mage 3 | **Masa Jampi:** 2 Tindakan |
+| **Sfera:** Tempur, Unsur (Api) | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1/Intensiti tambahan | **Jarak:** Lihat di Bawah |
+| **Kawasan:** Lihat di Bawah | **Rintang:** Lihat di Bawah |
 
-Mantera ini membolehkan pemantera menyeru dinding atau bulatan api yang menjulang, seperti yang dikehendaki pada masa pemanteraan, membakar warna ungu atau merah kebiruan. Tempoh mantera kekal berkuat kuasa jika Tumpuan dikekalkan, atau selama 1 Pusingan bagi setiap Intensiti sebaik sahaja Tumpuan tamat. Spesifikasi diperincikan di bawah mengikut jenis:
+Mantera ini membolehkan penjampi menyeru tembok atau bulatan api yang marak, mengikut kehendak semasa menjampi, terbakar dengan warna ungu atau biru kemerahan. Tempoh mantera kekal berkuat kuasa jika Tumpuan dikekalkan, atau selama 1 Pusingan setiap Intensiti sebaik sahaja Tumpuan berhenti. Perinciannya diterangkan di bawah mengikut jenis:
 
-**Wall of Fire:** Versi mantera ini mencipta dinding api pegun sepanjang 20 kaki bagi setiap Intensiti. Tidak kira Intensiti akhir, dinding itu mempunyai ketinggian 10 hingga 20 kaki seperti yang dikehendaki apabila dipantera. Wall of Fire mempunyai Julat 180 kaki dan tidak boleh diseru secara mendatar.
+**Wall of Fire:** Versi mantera ini mencipta tembok api pegun sepanjang 20 kaki setiap Intensiti. Tidak kira Intensiti akhir, tembok tersebut mempunyai ketinggian 10 hingga 20 kaki mengikut kehendak semasa menjampi. Wall of Fire mempunyai Jarak 180 kaki dan tidak boleh diseru secara mendatar.
 
-**Circle of Fire:** Versi mantera ini mencipta bulatan api di sekeliling pemantera yang bergerak bersama mereka. Ia mempunyai jejari 10 kaki, ditambah lagi 5 kaki bagi setiap Intensiti tambahan melebihi yang pertama. Tidak kira Intensiti akhir, bulatan itu mempunyai ketinggian 10 hingga 20 kaki seperti yang dikehendaki apabila dipantera. Circle of Fire mestilah mengelilingi pemantera dan mempunyai Julat 0.
+**Circle of Fire:** Versi mantera ini mencipta bulatan api di sekeliling penjampi yang bergerak bersama mereka. Ia mempunyai jejari 10 kaki, ditambah 5 kaki lagi bagi setiap Intensiti tambahan melebihi yang pertama. Tidak kira Intensiti akhir, bulatan tersebut mempunyai ketinggian 10 hingga 20 kaki mengikut kehendak semasa menjampi. Circle of Fire mesti mengelilingi penjampi dan mempunyai Jarak 0.
 
-Sisi dinding atau bulatan yang menghadap jauh dari pemantera memancarkan haba yang menyengat, menyebabkan 1d6 kerosakan bagi setiap Pusingan kepada semua dalam jarak 10 kaki, dan 1d4 kerosakan sehingga 20 kaki. Kerosakan ini biasanya dikenakan pada akhir Pusingan sebelum meneruskan ke Pusingan seterusnya. Di mana mangsa menduduki kedua-dua zon haba dalam satu Pusingan, kerosakan yang lebih besar dikenakan. Mereka yang melompat melalui api tertakluk kepada 2d6 mata kerosakan, ditambah satu mata kerosakan lagi bagi setiap Intensiti melebihi yang pertama. Kerosakan ini digunakan pada setiap Lokasi Pukulan dan perisai yang dipakai tidak menawarkan perlindungan, tetapi Mata Perisai sihir atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Gulungan Rintangan Mengelak (Evade) yang berjaya membolehkan mangsa mengalami kerosakan sifar pada Pusingan mantera itu muncul, kerana mangsa cuba menjauhkan diri daripada haba atau melepasi api. Makhluk yang menggunakan api mengambil separuh kerosakan ini dan makhluk yang menggunakan sejuk mengambil dua kali ganda. Api mempunyai peluang untuk menyalakan bahan mudah terbakar sama dengan kerosakan yang digulung x5%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
+Bahagian tembok atau bulatan yang menghadap jauh daripada penjampi mengeluarkan haba yang membakar, menyebabkan 1d6 kerosakan setiap Pusingan kepada semua dalam jarak 10 kaki, dan 1d4 kerosakan sehingga 20 kaki. Kerosakan ini biasanya dikenakan pada akhir Pusingan sebelum meneruskan ke yang seterusnya. Di mana mangsa menduduki kedua-dua zon haba dalam satu Pusingan, kerosakan yang lebih besar dikenakan. Mereka yang melompat melalui api dikenakan 2d6 mata kerosakan, ditambah satu mata kerosakan tambahan setiap Intensiti melebihi yang pertama. Kerosakan ini dikenakan pada setiap Lokasi Kena dan perisai yang dipakai tidak menawarkan perlindungan, tetapi Mata Perisai magis atau perisai semula jadi makhluk mengurangkan kerosakan seperti biasa. Balingan Rintangan Elak yang berjaya membolehkan mangsa tidak mengalami kerosakan pada Pusingan mantera muncul, semasa mangsa cuba menyelam menjauhi haba atau melepasi api. Makhluk yang menggunakan api menerima separuh kerosakan ini dan makhluk yang menggunakan sejuk menerima dua kali ganda. Api mempunyai peluang untuk menyalakan bahan mudah terbakar yang sama dengan kerosakan yang dibaling x5%. Lihat bahagian tentang [Api](0007_Game_System.md?id=fire-based-attacks) untuk maklumat tambahan.
 
 ---
-#### Water Breathing \(R\)
+#### Water Breathing (R)
 
 (Transmutasi)
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Paderi 2, Ahli Sihir 2 | **Masa Pemanteraan:** 2 Tindakan |
+| **Pangkat:** Cleric 2, Mage 2 | **Masa Jampi:** 2 Tindakan |
 | **Sfera:** Unsur (Air, Udara) | **Tempoh:** 6 jam/Intensiti, +1d4 Jam |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** Sentuhan |
-| **Kawasan:** 1 atau lebih Sasaran | **Rintangan:** T/A |
+| **Kos:** 3, +1/Intensiti tambahan | **Jarak:** Sentuh |
+| **Kawasan:** 1 atau lebih Sasaran | **Rintang:** TB |
 
-Mantera ini memberikan keupayaan bagi pemantera atau orang lain untuk bernafas air sepanjang Tempohnya. Semasa dipantera, lebih daripada seorang penerima boleh disentuh dan dengan itu mendapat manfaat Water Breathing. Dalam kes ini, Tempoh dibahagikan dengan bilangan subjek. Tempoh sebenar mantera Water Breathing tidak dapat diramalkan, dan harus digulung oleh Pengurus Permainan, kerana mereka yang berada di bawah kesannya tidak sepatutnya tahu secara spesifik berapa banyak masa yang tinggal. Pembalikan mantera ini, Air Breathing, membolehkan makhluk yang sebaliknya tidak mampu bernafas oksigen untuk berbuat demikian. Keupayaan untuk bernafas unsur semula jadi seseorang masih dikekalkan tidak kira varian mantera tersebut, jadi ikan boleh bernafas di darat dan di bawah air semasa Tempoh mantera.
+Mantera ini memberikan keupayaan untuk penjampi atau orang lain bernafas dalam air sepanjang Tempohnya. Semasa dijampi, lebih daripada seorang penerima boleh disentuh dan oleh itu mendapat manfaat Water Breathing. Dalam kes ini, Tempoh dibahagikan dengan bilangan subjek. Tempoh sebenar mantera Water Breathing tidak dapat diramalkan, dan harus dibaling oleh Games Master, kerana mereka yang di bawah kesannya tidak sepatutnya tahu dengan tepat berapa banyak masa yang tinggal. Songsangan mantera ini, Air Breathing, membolehkan makhluk yang sebaliknya tidak dapat bernafas oksigen untuk berbuat demikian. Keupayaan untuk bernafas dalam unsur semula jadi seseorang masih dikekalkan tanpa mengira varian mantera tersebut, jadi seekor ikan boleh bernafas di darat dan di bawah air sepanjang Tempoh mantera.
 
 | Intensiti | Kos | Kesan Pembolehubah |
 | :-: | :-: | :-- |
@@ -2888,13 +2909,105 @@ Mantera ini memberikan keupayaan bagi pemantera atau orang lain untuk bernafas a
 
 | | |
 | :-- | :-- |
-| **Pangkat:** Ahli Sihir 1 | **Masa Pemanteraan:** 1 Tindakan |
+| **Pangkat:** Mage 1 | **Masa Jampi:** 1 Tindakan |
 | **Sfera:** Tiada | **Tempoh:** 20 Minit/Intensiti |
-| **Kos:** 3, +1/Intensiti tambahan | **Julat:** 30 kaki/Intensiti |
-| **Kawasan:** Jejari 20 kaki | **Rintangan:** Mengelak, ditambah Lihat di bawah |
+| **Kos:** 3, +1/Intensiti tambahan | **Jarak:** 30 kaki/Intensiti |
+| **Kawasan:** 20 kaki Jejari | **Rintang:** Elak, ditambah Lihat di Bawah |
 
-Mantera ini menyebabkan untaian panjang sarang lebah yang melekit meluncur dari tangan pemantera, yang mungkin dilabuhkan dari lantai ke siling, atau dinding ke dinding, untuk menghalang laluan atau menghalang kemajuan. Ia juga boleh disembur terus ke arah lawan untuk memerangkap mereka.
+Mantera ini menyebabkan lembaran panjang sarang labah-labah melekit meluncur dari tangan penjampi, yang boleh ditambat dari lantai ke siling, atau dinding ke dinding, untuk menyekat laluan atau menghalang kemajuan. Ia juga boleh disembur terus ke arah lawan untuk memerangkap mereka.
 
-Dengan andaian sasaran mempunyai ruang untuk melarikan diri daripada sarang, gulungan Mengelak (Evade) yang berjaya meletakkan sasaran di luar Kawasan Kesan; walau bagaimanapun, ini memerlukan Titik Tindakan untuk tersedia. Gulungan rintangan yang gagal menyebabkan mangsa menjadi kaku, dan 1d3 Lokasi Pukulan terjerat. Seperti Kesan Khas [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle), lokasi yang terjerat tidak boleh digunakan. Lengan yang terjerat tidak boleh menggunakan apa sahaja yang dipegangnya, dada, perut, atau kaki yang terjerat menjadikan semua gulungan kemahiran fizikal satu gred lebih sukar (Kecuali gulungan Otot yang digunakan untuk cuba membebaskan diri), dan kepala yang terperangkap menyebabkan sesak nafas seperti yang diperincikan di bawah [Asfiksia](0007_Game_System.md?id=asphyxiation).
+Dengan andaian sasaran mempunyai ruang untuk melarikan diri dari sarang, balingan Elak yang berjaya meletakkan sasaran di luar Kawasan Kesan; walau bagaimanapun, ini memerlukan Mata Tindakan tersedia. Balingan rintangan yang gagal menyebabkan mangsa tidak dapat bergerak, dan 1d3 Lokasi Kena terperangkap. Seperti Kesan Khas [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle), lokasi yang terperangkap tidak boleh digunakan. Lengan yang terperangkap tidak boleh menggunakan apa-apa yang dipegangnya, dada, abdomen, atau kaki yang terjerat menjadikan semua balingan kemahiran fizikal satu gred lebih sukar (Kecuali balingan Kekuatan yang digunakan untuk cuba melepaskan diri), dan kepala yang terperangkap menyebabkan sesak nafas seperti yang diperincikan di bawah [Asphyxiation](0007_Game_System.md?id=asphyxiation).
 
-Pada Pusingan seterusnya, mangsa boleh membelanjakan Titik Tindakan untuk cuba membebaskan diri
+Pada Pusingan seterusnya, mangsa boleh membelanjakan Mata Tindakan untuk cuba melepaskan diri daripada sarang tersebut. Sarang labah-labah magis sangat kuat dan melekit, mempunyai 6 Mata Perisai dan Mata Kesihatan sama dengan 3x Intensiti mantera. Percubaan untuk melepaskan diri memerlukan mangsa memenangi Balingan Bertentangan Kekuatan menentang Kelekitan sarang (sama dengan kemahiran Jampi Arcane penjampi). Jika ini gagal, sasaran kekal terikat, tidak mampu melepaskan diri dengan kekuatan sahaja. Percubaan untuk memotong diri mendedahkan alat atau senjata yang digunakan kepada proses yang sama. Bertentangan dengan kepercayaan umum, sarang tidak mudah terbakar, tetapi watak mungkin perlahan-lahan membakar jalan melalui sarang dengan menggunakan api untuk mengecutkan lembarannya (kerosakan api mengabaikan Mata Perisai Web).
+
+| Intensiti | Kos | Kesan Pembolehubah |
+| :-: | :-: | :-- |
+| 1 | 3 | 20 min.; 30 kaki Jarak; 6 perisai, 3 Mata Kesihatan |
+| 2 | 4 | 40 min.; 60 kaki Jarak; 6 perisai, 6 Mata Kesihatan |
+| 3 | 5 | 60 min.; 90 kaki Jarak; 6 perisai, 9 Mata Kesihatan |
+| 4 | 6 | 80 min.; 120 kaki Jarak; 6 perisai, 12 Mata Kesihatan |
+| +1 | +1 | Teruskan perkembangan |
+
+---
+#### Wish
+
+(Konjurasi, Evokasi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 5 | **Masa Jampi:** Lihat di Bawah |
+| **Sfera:** Tiada | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1 atau lebih EXP | **Jarak:** Tanpa had |
+| **Kawasan:** Lihat di Bawah | **Rintang:** Lihat di Bawah |
+
+Wish boleh mengubah realiti secara kekal dan signifikan. Untuk menjampi mantera ini, pengguna sihir mesti membelanjakan 3 Mata Sihir dan 1 atau lebih balingan EXP bergantung pada hasil yang diingini. Setiap penjampian Wish yang berturut-turut dalam tempoh 1 Bulan menggandakan perbelanjaan EXP yang diperlukan secara biasa. Masa Jampi biasanya diperlukan untuk memperincikan secara lisan perincian Wish tersebut. Selepas selesai, penjampi mengalami kehilangan Keletihan sama dengan EXP yang dibelanjakan dan meningkat usia 5% daripada jangka hayat biasa mereka (bagi manusia, itu adalah lima tahun). Lihat [Penuaan](0007_Game_System.md?id=aging) untuk jangka hayat purata kaum separa manusia.
+
+Hasil Wish harus diambil secara literal dan terbuka kepada tafsiran oleh Games Master. Keinginan tamak biasanya berakhir dengan buruk. Terdapat 10% peluang bahawa Wish yang dibuat dengan niat tamak akan menjadi bumerang dalam beberapa cara. Sebagai contoh, menginginkan kekayaan boleh memindahkannya dari bilik kebal harta karun tuan tempatan atau raja. Wish tidak boleh membatalkan dekri entiti seperti dewa melainkan makhluk sedemikian mengeluarkan Wish tersebut.
+
+Beberapa contoh Wish dan perbelanjaan EXP yang diperlukan adalah seperti berikut.
+
+##### Contoh Wish dan Kos
+
+| Wish yang Diingini | Kos EXP |
+| :-- | :-: |
+| Membalikkan kesan tertentu yang biasanya memerlukan mantera Wish. | 1 EXP |
+| Menduplikasi kesan mana-mana mantera Arcane atau Divine Pangkat 1 atau 2 pada 15 Intensiti, atau setara. | 1 EXP * |
+| Menduplikasi kesan mana-mana mantera Arcane atau Divine Pangkat 3 atau 4 pada 15 Intensiti, atau setara. | 2 EXP * |
+| Menduplikasi kesan mana-mana mantera Arcane atau Divine Pangkat 5 pada 15 Intensiti, atau setara kecuali Alter Reality. | 3 EXP * |
+| Menjadikan kesan magis atau ghaib kekal. | 3 EXP |
+| Membawa makhluk mati kembali hidup tanpa mengira tarikh kematian atau mayat yang ada, tanpa kesan buruk. | 5 EXP |
+| Memulihkan anggota badan yang hilang atau kudung kepada kesihatan penuh. | 2 EXP |
+| Menyembuhkan makhluk daripada semua kecederaan besar dan kecil. | 1 EXP |
+| Menaikkan atau menurunkan satu Ciri secara kekal sebanyak 1 mata (maksimum +/-5). | ** |
+| Menaikkan atau menurunkan satu kemahiran secara kekal sebanyak 10% (maksimum +/-50%). | ** |
+| Mengangkut diri sendiri dan sehingga 7 sekutu ke lokasi lain tanpa mengira jarak. | 1 EXP |
+| Mengangkut diri sendiri dan sehingga 7 sekutu ke satah kewujudan lain. | 2 EXP |
+| Mencipta syiling, objek, atau harta bukan magis sementara dengan nilai tidak lebih daripada 50,000GP. Barang-barang itu bertahan satu minggu setiap Intensiti. | 1 EXP |
+| Mencipta syiling, objek, atau harta bukan magis sementara dengan nilai tidak lebih daripada 100,000GP. Barang-barang itu bertahan satu minggu setiap Intensiti. | 2 EXP |
+| Mencipta syiling, objek, atau harta bukan magis kekal dengan nilai tidak lebih daripada 10,000GP. | 2 EXP |
+| Mencipta syiling, objek, atau harta bukan magis kekal dengan nilai tidak lebih daripada 50,000GP. | 3 EXP |
+| Mencipta syiling, objek, atau harta bukan magis kekal dengan nilai tidak lebih daripada 100,000GP. | 4 EXP |
+| Mencipta barang magis Pangkat 1 atau 2 sementara. Barang itu bertahan 1 Jam setiap Intensiti. | 1 EXP |
+| Mencipta barang magis Pangkat 3 sementara. Barang itu bertahan 1 Jam setiap Intensiti. | 2 EXP |
+| Mencipta barang magis Pangkat 4 sementara. Barang itu bertahan 1 Jam setiap Intensiti. | 3 EXP |
+| Mencipta barang magis Pangkat 1 atau 2 kekal. | 5 EXP |
+| Membunuh makhluk lain. | 5 EXP*** |
+| Kudungkan Lokasi Badan musuh, membawanya sepenuhnya negatif. Abdomen, kaki, atau lengan sahaja. | 2 EXP |
+| Berikan Luka Serius pada Lokasi Badan, membawanya kepada -1 Mata Kesihatan. Abdomen, kaki, atau lengan sahaja. | 1 EXP |
+| Membentuk semula landskap menjadi sebarang jenis rupa bumi yang boleh dibayangkan oleh penjampi. Setiap kiub bahan 100 kaki untuk dibentuk semula memerlukan 1 Pusingan usaha. | 1 EXP setiap kiub 100 kaki rupa bumi |
+
+_* Sebagai tambahan kepada sebarang keperluan EXP bagi kesan yang diduplikasi._
+
+_** Setiap peningkatan atau penurunan berturut-turut menelan kos 1 Balingan EXP kumulatif: 1 EXP untuk yang pertama, 2 EXP untuk yang kedua, 3 EXP untuk yang ketiga, 4 EXP untuk yang keempat, dan 5 EXP untuk yang kelima. Ini terpakai walaupun dalam kes pengguna sihir yang berbeza menjampi Wish._
+
+_*** Ini memerlukan balingan Rintangan Kehendak lwn. Kehendak terhadap mangsa yang dituju. Kegagalan bermakna Wish masih berjaya, walaupun sebagai tafsiran terpesong daripada keinginan pemohon Wish. Sebagai contoh, penjampi boleh diangkut ke masa depan di mana mangsa sudah mati, tetapi begitu juga semua rakan dan orang tersayang penjampi._
+
+---
+#### Wizard Sight
+
+(Transmutasi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Mage 3 | **Masa Jampi:** 1 Minit |
+| **Sfera:** Tiada | **Tempoh:** 1 Minit/Intensiti |
+| **Kos:** 1/Intensiti | **Jarak:** 0 |
+| **Kawasan:** Lihat di Bawah | **Rintang:** TB |
+
+Mantera ini mencipta 'mata' halimunan kecil yang boleh dilihat oleh pengguna sihir sepanjang Tempoh mantera. Mata ini boleh digerakkan mendahului kumpulan atau dihantar untuk melihat di sekeliling sudut dan ke dalam bilik dengan Kadar Pergerakan 20 kaki setiap Pusingan (240 kaki setiap minit), jika hanya mengimbas untuk ancaman 'jelas' atau barang yang menarik minat. Ini biasanya hanya akan meluas ke lantai dan dinding bawah. Jika cuba menjadi lebih teliti (memeriksa dinding penuh dan siling juga), Kadar Pergerakannya dikurangkan kepada 10 kaki setiap Pusingan (120 kaki setiap minit). Games Master harus berasa bebas untuk membenarkan balingan Persepsi bagi pihak penjampi, jika perlu, berkenaan dengan melihat anomali visual. Mata tersebut adalah korporeal, tidak mampu menembusi jirim pepejal, dan mempunyai penglihatan biasa sehingga 60 kaki, dan Penglihatan Gelap sehingga 10 kaki. Penjampi mesti mengekalkan Tumpuan pada mata tersebut sepanjang Tempoh, atau ia akan kekal tidak aktif sehingga Tumpuan diwujudkan semula. Sebarang serangan pandangan yang biasanya menjejaskan penjampi masih menjejaskan penjampi seperti biasa; walau bagaimanapun, mata tersebut dianggap bebas daripada penjampi berkenaan dengan kebutaan, mantera kegelapan, dan sebagainya. Untuk tujuan memuatkan melalui bukaan kecil, mata itu tidak lebih besar daripada 1 inci, dan mempunyai SAI 1.
+
+---
+#### Word of Recall
+
+(Transmutasi)
+
+| | |
+| :-- | :-- |
+| **Pangkat:** Cleric 4 | **Masa Jampi:** 1 Tindakan |
+| **Sfera:** Seruan | **Tempoh:** Lihat di Bawah |
+| **Kos:** 3, +1/Intensiti tambahan | **Jarak:** 0 |
+| **Kawasan:** Penjampi | **Rintang:** TB |
+
+Apabila mantera ini dijampi, cleric serta-merta diteleportasi ke tempat perlindungan yang telah ditetapkan, dan titik ketibaan yang ditetapkan tidak lebih besar daripada jejari 10 kaki. Tiada had kepada Jarak sebenar yang diteleportasi, termasuk antara berbilang satah. Dalam satu satah, tiada peluang untuk tersilap, walau bagaimanapun, merentasi walaupun satu satah memberikan peluang Gagal 91-00%, dua satah memberikan Gagal pada balingan 81-00%, dan seterusnya. Ini menggantikan peluang Gagal biasa penjampi. Gagal semasa merentasi satah menandakan bahawa cleric hilang selama-lamanya. Gagal dalam satu satah mengikut peraturan biasa.
+
+Selain diri mereka sendiri dan sebarang peralatan yang dibawa, cleric boleh mengangkut 3 objek lagi setiap Intensiti, setiap satu tidak lebih besar daripada 9 SAI 'Benda'. Bahan tambahan yang diangkut boleh berupa harta karun, peralatan, atau makhluk hidup. Walau bagaimanapun, makhluk yang diangkut mesti mempunyai mantera yang dijampi pada tahap Intensiti yang mencukupi untuk menampung sebarang peralatan yang dibawa.

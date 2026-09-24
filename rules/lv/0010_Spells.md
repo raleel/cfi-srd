@@ -1,7 +1,7 @@
 # 10. nodaļa: Burvestības
 
 ---
-### Garīdznieka burvestību saraksts
+### Klēriķu burvestību saraksts
 
 | Rangs 0 | Rangs 1 | Rangs 2 | Rangs 3 | Rangs 4 | Rangs 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -22,7 +22,7 @@
 | | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
 | | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) apzīmē burvestību, kuru var apgriezt pretēji._
+_\(R\) apzīmē reversējamu burvestību._
 
 ---
 
@@ -34,15 +34,15 @@ _\(R\) apzīmē burvestību, kuru var apgriezt pretēji._
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
+| [Cleanse \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word - Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
 | [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Ignite \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word - Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -54,8 +54,7 @@ _\(R\) apzīmē burvestību, kuru var apgriezt pretēji._
 | | [Web](0010_Spells.md?id=web) |
 | | [Spider Climb](0010_Spells.md?id=spider-climb) |
 
-_\(R\) apzīmē burvestību, kuru var apgriezt pretēji._
-
+_\(R\) apzīmē reversējamu burvestību._
 
 ---
 
@@ -71,11 +70,11 @@ _\(R\) apzīmē burvestību, kuru var apgriezt pretēji._
 | | |
 | :-- | :-- |
 | **Rangs:** Burvis 0 | **Buršanas laiks:** 1 gājiens |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
 | **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 priekšmets | **Pretestība:** Nav |
+| **Zona:** 1 priekšmets | **Pretestība:** Nav |
 
-Novērtēšana ļauj nekavējoties noteikt fizisko preču kvalitāti, kuru ENC ir izteikta "lietās" vai SIZ vienāds ar burvja POW. Burvestība nosaka, vai vizuāli identiski priekšmeti ir vienādas vai līdzīgas kvalitātes, vai arī viens vai vairāki no tiem ir ar defektiem vai augstākas kvalitātes. Burvestība nedarbojas uz organiskiem objektiem, tikai uz nedzīviem priekšmetiem. Tā arī nenosaka, kādi defekti vai uzlabojumi ir klāt; vienkārši to, ka tie eksistē. Tā nav noderīga maģijas identificēšanai vai atklāšanai.
+Appraise ļauj nekavējoties novērtēt fizisko preču kvalitāti, kuru kopējais ENC "lietās" vai IZM atbilst burvja VAR. Burvestība nosaka, vai identiski izskatošies priekšmeti ir vienādas vai līdzīgas kvalitātes, vai arī viens vai vairāki no tiem ir ar defektiem vai augstākas kvalitātes. Burvestība nedarbojas uz organiskām lietām, tikai uz nedzīviem objektiem. Tāpat tā nenosaka, kādi defekti vai uzlabojumi ir klātesoši; tikai to, ka tie eksistē. Tā nav noderīga maģijas identificēšanai vai noteikšanai.
 
 ---
 #### Armor (Bruņas)
@@ -87,17 +86,17 @@ Novērtēšana ļauj nekavējoties noteikt fizisko preču kvalitāti, kuru ENC i
 | **Rangs:** Burvis 1 | **Buršanas laiks:** 1 raunds |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
 | **Izmaksas:** 3 +1/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Nav |
+| **Zona:** 1 mērķis | **Pretestība:** Nav |
 
-Kad šī burvestība tiek uzburta, subjekts tiek apveltīts ar neredzamu maģiska spēka lauku, kas aizsardzībā ir līdzvērtīgs zvīņbruņām, piešķirot 4 Bruņu punktus katrai trāpījuma vietai. Tai nav efekta, ja to uzbur kādam, kurš jau valkā bruņas. Tomēr tas aizstās dabiskās bruņas uz to ilgumu, pieņemot, ka tas piedāvā pārāku aizsardzību. Ja uzburts uz radības, kurai ir vairāk nekā 4 dabisko bruņu punkti, tas tā vietā palielinās Bruņu punktus par 1 visās vietās. Šī maģiskā aizsardzība netraucē kustību vai burvestību buršanu. Burvestība saglabāsies, līdz to izkliedē maģija vai burvis saņem 8 punktus bojājuma no viena uzbrukuma, +1 par katru papildu Intensitātes līmeni (skatīt tabulu zemāk). Protams, burvis var izvēlēties pārtraukt burvestību jebkurā brīdī, ja vēlas, un tam tas ir jādara, lai gulētu.
+Kad šī burvestība tiek uzlikta, subjekts saņem neredzamu maģiska spēka lauku, kas aizsardzībā ir līdzvērtīgs zvīņbruņām, piešķirot 4 Bruņu punktus katrai ķermeņa daļai. Tai nav efekta, ja to uzliek kādam, kurš jau valkā bruņas. Tomēr tas aizstās dabiskās bruņas uz visu tās Ilgumu, ja tās piedāvā pārāku aizsardzību. Ja uzlikta radībai, kurai piemīt vairāk par 4 dabiskajiem bruņu punktiem, tā vietā Bruņu punkti visās zonās palielināsies par 1. Šī maģiskā aizsardzība netraucē kustībām vai burvestību izpildei. Burvestība saglabāsies, līdz to kliedē maģija, vai burvis gūst 8 punktus bojājumu no viena uzbrukuma, +1 par katru papildu Intensitātes līmeni (skatīt tabulu zemāk). Protams, burvis var izvēlēties pārtraukt burvestību jebkurā laikā, ja vēlas, un tam tas ir jādara, lai gulētu.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 4 Bruņu punkti; saglabājas līdz saņemti 8 bojājumi no 1 uzbrukuma |
-| 2 | 4 | 4 Bruņu punkti; saglabājas līdz saņemti 9 bojājumi no 1 uzbrukuma |
-| 3 | 5 | 4 Bruņu punkti; saglabājas līdz saņemti 10 bojājumi no 1 uzbrukuma |
-| 4 | 6 | 4 Bruņu punkti; saglabājas līdz saņemti 11 bojājumi no 1 uzbrukuma |
-| +1 | +1 | Turpināt progresiju |
+| 1 | 3 | 4 Bruņu punkti; saglabājas līdz 8 bojājumu saņemšanai no 1 uzbrukuma |
+| 2 | 4 | 4 Bruņu punkti; saglabājas līdz 9 bojājumu saņemšanai no 1 uzbrukuma |
+| 3 | 5 | 4 Bruņu punkti; saglabājas līdz 10 bojājumu saņemšanai no 1 uzbrukuma |
+| 4 | 6 | 4 Bruņu punkti; saglabājas līdz 11 bojājumu saņemšanai no 1 uzbrukuma |
+| +1 | +1 | Turpina progresiju |
 
 ---
 #### Astral Spell (Astrālā burvestība)
@@ -106,12 +105,12 @@ Kad šī burvestība tiek uzburta, subjekts tiek apveltīts ar neredzamu maģisk
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 5, Burvis 5 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Klēriķis 5, Burvis 5 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Astrālā | **Ilgums:** Skatīt zemāk |
 | **Izmaksas:** 3 +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Zona:** Skatīt zemāk | **Pretestība:** N/A |
 
-Šī burvestība ļauj burvim un vēl līdz pieciem citiem (viens uz katru papildu Intensitātes līmeni) iekļūt Astrālajā plānā. Visiem jāpieskaras un jāveido aplis, kamēr burvestība tiek uzburta. Ceļotāju ķermeņi paliek izcelsmes plānā, un viņi parasti neņem līdzi apģērbu vai aprīkojumu, izņemot to, kas pats izstaro maģisku auru; šie priekšmeti pārvēršas par savu astrālo ekvivalentu. Ilgums ilgst līdz brīdim, kad burvis vēlas to pārtraukt. Tomēr ārējs spēks, piemēram, "Dispel Magic", var to priekšlaicīgi izbeigt. Burvja fiziskā ķermeņa nogalināšana arī izbeidz burvestību agrāk, lai gan tam ir nelaimīga blakusparādība – visi ceļotāji, kas pavada burvi, paliek iesprostoti.
+Šī burvestība ļauj burvim un vēl pieciem citiem (viens uz katru papildu Intensitātes līmeni) ieiet Astrālajā plaknē. Visiem ir jāpieskaras un jāveido aplis, kamēr burvestība tiek izpildīta. Ceļotāju ķermeņi paliek izcelsmes plaknē, un viņi parasti neņem līdzi nekādu apģērbu vai aprīkojumu, izņemot to, kas pats izstaro maģisku auru; šie priekšmeti pārtop par to parastās formas astrālajiem ekvivalentiem. Ilgums turpinās, līdz burvis vēlas, lai tas beidzas. Tomēr ir iespējams to pārtraukt priekšlaicīgi ar ārēju spēku, piemēram, Dispel Magic. Burvja fiziskā ķermeņa nogalināšana arī izbeidz burvestību priekšlaicīgi, lai gan tam ir nelāga blakusparādība – atstāt visus ceļotājus, kas pavada burvi, iesprostotus.
 
 ---
 #### Augury (Zīlēšana)
@@ -120,58 +119,58 @@ Kad šī burvestība tiek uzburta, subjekts tiek apveltīts ar neredzamu maģisk
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 2 minūtes |
-| **Sfēra:** Zīlēšana | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** 60 pēdas |
-| **Apgabals:** Burvis | **Pretestība:** N/A |
+| **Rangs:** Klēriķis 2 | **Buršanas laiks:** 2 minūtes |
+| **Sfēra:** Zīlēšana | **Ilgums:** Momentāns |
+| **Izmaksas:** 3/Intensitāte | **Diapazons:** 60 pēdas; |
+| **Zona:** Burvis | **Pretestība:** N/A |
 
-Šī burvestība ļauj burvim noteikt, vai konkrēta darbība, kas veicama nākamo 30 minūšu laikā, būs labvēlīga vai kaitīga indivīda un/vai grupas labklājībai. Lai saskatītu zīmes, ir nepieciešams kāda veida fokusa punkts – visizplatītākie ir pūķa nagi vai mazāki kauli, pērle vai tīrs zelts, kura vērtība nav mazāka par 100 GP un kas ir sasmalcināts vai izkausēts. Burvestības maksimālā intensitāte ir 4. Šis metiens jāveic spēles meistaram, jo burvis nekad nedrīkst ar pilnīgu pārliecību zināt, vai rezultāti interpretēti pareizi.
+Šī burvestība ļauj burvim noteikt, vai konkrēta darbība, kas tiks veikta nākamo 30 minūšu laikā, būs labvēlīga vai kaitīga indivīda un/vai grupas labklājībai. Lai saskatītu zīmes, ir nepieciešams kāds fokusa punkts – visbiežāk tie ir pūķa nagi vai mazāki kauli, pērle vai tīrs zelts, kura vērtība nav mazāka par 100 GP, kas ir sasmalcināts vai izkausēts. Burvestības maksimālā intensitāte ir 4. Šis metiens jāveic spēles vadītājam, jo burvis nekad nedrīkstētu bez ēnas šaubām zināt, vai rezultāti interpretēti pareizi.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | Formidable Channel prasmju metiens |
-| 2 | 6 | Hard Channel prasmju metiens |
-| 3 | 9 | Standard Channel prasmju metiens |
-| 4 | 12 | Easy Channel prasmju metiens |
+| 1 | 3 | Formidabls (Formidable) Kanāla prasmes metiens |
+| 2 | 6 | Grūts (Hard) Kanāla prasmes metiens |
+| 3 | 9 | Standarta (Standard) Kanāla prasmes metiens |
+| 4 | 12 | Viegls (Easy) Kanāla prasmes metiens |
 
-Ja zīlēšanas metiens ir veiksmīgs, tas sniedz vienu no šādiem rezultātiem:
+Ja zīlēšanas metiens izdodas, tas sniedz vienu no šādiem rezultātiem:
 
-| Zīlēšana | Implikācija | 
+| Zīlēšana | Implikācija |
 | :-: | :-- |
 | Jā | Darbība būs labvēlīga |
 | Nē | Darbība būs kaitīga |
-| Jā un Nē | Darbība būs gan labvēlīga, gan kaitīga |
+| Jā un nē | Darbība būs gan labvēlīga, gan kaitīga |
 | Nekas | Darbība nebūs ne labvēlīga, ne kaitīga |
 
-Kļūmes gadījumā spēles meistaram vajadzētu pateikt pretējo realitātei.
+Neveiksmes (Fumble) gadījumā spēles vadītājam vajadzētu pateikt pretējo realitātei.
 
 ---
-#### Avert (Atvairīšana)
+#### Avert (Novērst)
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** Tūlītējs |
-| **Sfēra:** Aizsardzība | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** 60 pēdas |
-| **Apgabals:** 1 burvestība | **Pretestība:** Nav |
+| **Rangs:** Klēriķis 0, Burvis 0 | **Buršanas laiks:** Momentāns |
+| **Sfēra:** Aizsardzība | **Ilgums:** Momentāns |
+| **Izmaksas:** 1 | **Diapazons:** 60 pēdas; |
+| **Zona:** 1 burvestība | **Pretestība:** Nav |
 
-Avert tiek izmantota, lai noraidītu citu 0. ranga burvestību diapazonā. Avert var uzburt reaktīvi, lai neitralizētu uzbrūkošās 0. ranga burvestības, izmantojot "Counter Magic" reaktīvo darbību.
+Avert tiek izmantots, lai atceltu citu 0. ranga burvestību Diapazonā. Avert var tikt izmantots reaktīvi, lai neitralizētu uzbrūkošas 0. ranga burvestības, izmantojot reaktīvo darbību "Counter Magic" (Pretmaģija).
 
 ---
-#### Befuddle (Apjucināšana)
+#### Befuddle (Samulsināšana)
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** 1 gājiens |
+| **Rangs:** Klēriķis 0, Burvis 0 | **Buršanas laiks:** 1 gājiens |
 | **Sfēra:** Šarms | **Ilgums:** 30 minūtes |
 | **Izmaksas:** 1 | **Diapazons:** 60 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Zona:** 1 mērķis | **Pretestība:** Gribasspēks |
 
-Befuddle izraisa apjukumu ķermeniska mērķa prātā. Burvestības subjektam ir grūti skaidri domāt, aizmirstot, kur atrodas, ko dara un kāpēc – bieži vien iegrimstot disociatīvās domās. Apjucināti mērķi joprojām var rīkoties pašaizsardzībā, bet nevar uzsākt nekādu konstruktīvu darbību, līdz burvestība beidzas. Jebkāds uzbrukums vai draudoša rīcība nekavējoties pārtrauc burvestību, neatkarīgi no tā, vai tā bija vērsta tieši pret apjucināto mērķi.
+Befuddle rada apjukumu ķermeniska mērķa prātā. Burvestības subjektam ir grūti skaidri domāt, aizmirstot, kur tas atrodas, ko tas dara un kāpēc – bieži vien ieslīgstot disociatīvās domu līnijās. Samulsinātie mērķi joprojām var rīkoties pašaizsardzībā, bet nevar uzsākt nekādu konstruktīvu darbību, līdz burvestība beidzas. Jebkāda veida uzbrukums vai draudoša darbība nekavējoties pārtrauc burvestību neatkarīgi no tā, vai tā bija vērsta tieši pret samulsināto mērķi.
 
 ---
 #### Blade Barrier (Asmeņu barjera)
@@ -180,30 +179,30 @@ Befuddle izraisa apjukumu ķermeniska mērķa prātā. Burvestības subjektam ir
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 4 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Aizbildnis, Radīšana | **Ilgums:** 3 raundi/Intensitāte |
+| **Rangs:** Klēriķis 4 | **Buršanas laiks:** 2 darbības |
+| **Sfēra:** Aizsargs, Radīšana | **Ilgums:** 3 raundi/Intensitāte |
 | **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 100 pēdas |
-| **Apgabals:** 5–30 pēdu rādiuss | **Pretestība:** Skatīt zemāk |
+| **Zona:** 5-30 pēdu rādiuss | **Pretestība:** Skatīt zemāk |
 
-Šī burvestība rada virpuļojošu zobenu, duncīšu un nažu barjeru, kas pātagā un cērt ap noteiktu punktu un nodara 1d8 punktus bojājuma 1d4+2 nejaušām trāpījuma vietām *ikvienam*, kas šķērso ietekmes apgabalu. Bruņas piedāvā tikai pusi no savas parastās aizsardzības. Maģiskie Bruņu punkti samazina bojājumus kā parasti. Tā kā ieroči virpuļo apžilbinošā ātrumā un ir cieši sakļauti, tos nav iespējams atvairīt (Parry) vai izvairīties (Evade). Varat izmantot vairogu, lai pasīvi bloķētu trāpījuma vietas kā parasti. Šajā gadījumā atcerieties salīdzināt izmesto bojājumu ar vairoga bruņām un trāpījuma punktiem.
+Šī burvestība izveido virpuļojošu, griezīgu zobenu, duncīšu un nažu barjeru, kas pātagājas un šķeļ ap noteiktu punktu un nodara 1d8 punktus bojājumu 1d4+2 nejaušām ķermeņa daļām jebkuram, kurš šķērso Iedarbības zonu. Bruņas piedāvā tikai pusi no savas parastās aizsardzības. Maģiskie Bruņu punkti samazina bojājumus kā parasti. Tā kā ieroči virpuļo apžilbinošā ātrumā un ir cieši sakļauti, nav iespējams no tiem izvairīties vai tos atvairīt (Parry/Evade). Var izmantot vairogu, lai pasīvi bloķētu ķermeņa daļas kā parasti. Šajā gadījumā atcerieties salīdzināt izmesto bojājumu ar vairoga bruņām un trāpījuma punktiem.
 
-Burvestību var uzburt aizsardzības nolūkos, lai pasargātu garīdznieku vai vienu vai vairākus sabiedrotos, vai uzbrukuma nolūkos, lai slazdā ievilinātu ienaidniekus. Tomēr ienaidnieki, kas atrodas piecu pēdu attālumā no barjeras malas tās veidošanās brīdī, var veikt "Evade" metienu, lai izbēgtu. Neatkarīgi no panākumiem, pretinieks nonāk guļus stāvoklī, tieši ārpus ietekmes apgabala. Veiksmīgs metiens neizraisa bojājumus; pretējā gadījumā viņi cieš pilnu efektu.
+Burvestība var tikt izmantota aizsardzībā, lai pasargātu klēriķi vai vienu/vairākus sabiedrotos, vai uzbrūkot – iesprostotu ienaidniekus. Tomēr ielenktie ienaidnieki piecu pēdu attālumā no barjeras malas, tai veidojoties, var veikt izvairīšanās metienu (Evade), lai aizbēgtu. Neatkarīgi no panākumiem pretinieks nokrīt guļus, tieši ārpus Iedarbības zonas. Veiksmīgs metiens rezultējas bez bojājumiem; pretējā gadījumā viņi cieš pilnu efektu.
 
 ---
-#### Bless (R) (Svētība)
+#### Bless \(R\) (Svētība)
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 raunds |
-| **Sfēra:** Visas | **Ilgums:** 5 minūtes |
+| **Rangs:** Klēriķis 1 | **Buršanas laiks:** 1 raunds |
+| **Sfēra:** Visi | **Ilgums:** 5 minūtes |
 | **Izmaksas:** 1 | **Diapazons:** 180 pēdas |
-| **Apgabals:** 25 pēdu rādiuss | **Pretestība:** Gribasspēks |
+| **Zona:** 25 pēdu rādiuss | **Pretestība:** Gribasspēks |
 
-Kad šī burvestība tiek uzburta, garīdznieks svētī sabiedroto grupu ietekmes apgabalā. Skartie izstaro burvja aliansi (Labais vai Ļauno). Neitrālu svētību nav. Visi sabiedrotie rādiusā saņem +5% bonusu visiem prasmju un pretestības metieniem. Turklāt viņu ieroči nodara +1d3 bojājumu inteliģentiem nedzīvajiem un radībām no ārējiem plāniem, kurām ir pretēja alianse burvim (piemēram, dēmoniem, velniem vai eņģeļiem). Ņemiet vērā, ka, lai gan animēti nedzīvie, piemēram, skeleti un zombiji, pēc dabas nav ļauni, tos parasti animē ļaunā maģija, tāpēc uz tiem attiecas šis bojājums.
+Kad šī burvestība tiek izpildīta, klēriķis svētī sabiedroto grupu Iedarbības zonā. Skartie izstaro burvja aliansi, vai nu labo, vai ļauno. Neitralitātes svētību nav. Visi sabiedrotie burvestības rādiusā saņem +5% bonusu visiem prasmju un pretestības metieniem. Turklāt viņu ieroči nodara +1d3 bojājumu inteliģentiem nedzīvajiem (undead), kā arī radībām no ārējām plaknēm, kurām ir pretējas alianses nekā burvim, piemēram, dēmoniem, velniem vai eņģeļiem. Ņemiet vērā, ka, lai gan animēti nedzīvie, piemēram, skeleti un zombiji, nav pēc dabas ļauni, tie parasti tiek animēti ar ļaunu maģiju un tādējādi ir pakļauti šim bojājumam.
 
-Šīs burvestības pretstats, "Lāsts" (Curse), ļauj garīdzniekam nolādēt ienaidniekus, liekot norādītajām prasmēm ciest no minēto ieguvumu pretstatā. Nolādēta ieroča bojājums tiek aprēķināts kā sods, un šis bojājums nevar būt mazāks par 1 punktu.
+Šīs burvestības reversija, Curse (Lāsts), ļauj klēriķim nolādēt ienaidniekus, liekot norādītajām prasmēm ciest no pretējām sekām, salīdzinot ar augstāk minētajiem ieguvumiem. Nolādēta ieroča bojājumi tiek aprēķināti kā sods, un šis bojājums nevar būt mazāks par 1 punktu.
 
 ---
 #### Burning Hands (Degošās rokas)
@@ -213,23 +212,23 @@ Kad šī burvestība tiek uzburta, garīdznieks svētī sabiedroto grupu ietekme
 | | |
 | :-- | :-- |
 | **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
 | **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 120 grādu konuss, 5 pēdas garš | **Pretestība:** Evade |
+| **Zona:** 120 grādu konuss, 5 pēdas garš | **Pretestība:** Izvairīšanās (Evade) |
 
-Šī burvestība liek liesmām izšauties no burvja rokām 120 grādu lokā. Ja cīņā izmantojat miniatūras, "Burning Hands" nodarīs bojājumus katram mērķim, kas aizņem 1 no burvja priekšējiem kvadrātiem. Lai uzburtu "Burning Hands" augstākos intensitātes līmeņos, nepieciešams augstāka ranga burvis. Šis bojājums pārņem visus mērķus apgabalā, balstoties uz burvestības intensitāti (maksimālā intensitāte 9). Veiksmīgs "Evade" metiens, noguļoties uz zemes, ļauj upurim izvairīties no bojājumiem. Kādam ar "Artful Dodger" spēju ir iespēja izvairīties, nenoguļoties.
+Šī burvestība liek liesmām izšauties no burvja rokām 120 grādu lokā. Ja kaujā izmanto miniatūras, Burning Hands bojās katru mērķi, kas aizņem 1 no burvja priekšējiem kvadrātiem. Burning Hands izpildīšana augstākos Intensitātes līmeņos prasa augstāka Ranga burvi. Šis bojājums aprij visus mērķus zonā ar bojājumiem, kas balstīti uz burvestības Intensitāti (līdz maksimālai 9. Intensitātei) šādi. Veiksmīgs izvairīšanās metiens (Evade), krītot guļus, ļauj upurim neciest nekādus bojājumus. Kādam ar "Artful Dodger" (Veiklais izvairītājs) spēju ir iespēja izvairīties, nekrītot guļus.
 
-| Intensitāte | Izmaksas | Min. Rangs | Mainīgais efekts |
+| Intensitāte | Izmaksas | Min. Rangs | Mainīgs efekts |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | 1d3+1 bojājuma punkti visām trāpījuma vietām |
-| 3 | 4 | 1 | 1d3+2 bojājuma punkti visām trāpījuma vietām |
-| 5 | 5 | 1 | 1d3+3 bojājuma punkti visām trāpījuma vietām |
-| 7 | 6 | 2 | 1d3+4 bojājuma punkti visām trāpījuma vietām |
-| 9 | 7 | 3 | 1d3+5 bojājuma punkti visām trāpījuma vietām |
+| 1 | 3 | 1 | 1d3+1 bojājuma punkti visām ķermeņa daļām |
+| 3 | 4 | 1 | 1d3+2 bojājuma punkti visām ķermeņa daļām |
+| 5 | 5 | 1 | 1d3+3 bojājuma punkti visām ķermeņa daļām |
+| 7 | 6 | 2 | 1d3+4 bojājuma punkti visām ķermeņa daļām |
+| 9 | 7 | 3 | 1d3+5 bojājuma punkti visām ķermeņa daļām |
 
-Valkātās bruņas neaizsargā, bet maģiskie Bruņu punkti vai radības dabiskās bruņas samazina bojājumu kā parasti. Šo spēcīgo burvestību līdzsvaro tās ievērojami īsais darbības diapazons.
+Valkātās bruņas neaizsargā, bet maģiskie Bruņu punkti vai radības dabiskās bruņas samazina bojājumu kā parasti. Šo vareno burvestību līdzsvaro tās manāmi īsais darbības rādiuss, kas nozīmē, ka, lai to izpildītu, maģijas lietotājam jāatrodas pietiekami tuvu, lai būtu ļoti neizdevīgā pozīcijā.
 
-Tā kā lielākas radības parasti ir lielākas par burvestības ietekmes apgabalu, tām parasti tiks skartas mazāk trāpījuma vietu. SIZ 21 līdz 30 saņem bojājumu galvā, krūtīs, vēderā un rokās, bet SIZ 31+ saņem bojājumu vēderā un kājās. Spēles meistariem šīs vietas jāpielāgo atkarībā no mērķa formas un pozīcijas attiecībā pret burvi. "Burning Hands" var aizdedzināt viegli uzliesmojošus materiālus ar varbūtību, kas vienāda ar izmesto bojājumu x5%. Papildinformāciju skatīt sadaļā [Uguns](0007_Game_System.md?id=fire-based-attacks).
+Tā kā lielākas radības parasti ir lielākas par burvestības Iedarbības zonu, tām parasti skartas būs mazāk ķermeņa daļu. Tās, kuru IZM ir 21-30, saņem bojājumus galvā, krūtīs, vēderā un rokās, bet tās, kuru IZM ir 31+, saņem bojājumus vēderā un kājās. Spēles vadītājiem vajadzētu pielāgot šīs zonas atkarībā no mērķa formas un pozīcijas attiecībā pret burvi. Burning Hands pastāv iespēja aizdedzināt uzliesmojošus materiālus, kas ir vienāda ar izmesto bojājumu x 5%. Skatīt sadaļu par [Ugunsgrēkiem](0007_Game_System.md?id=fire-based-attacks) papildu informācijai.
 
 ---
 #### Calm (Miers)
@@ -238,60 +237,59 @@ Tā kā lielākas radības parasti ir lielākas par burvestības ietekmes apgaba
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Šarms | **Ilgums:** Tūlītējs |
+| **Rangs:** Klēriķis 0 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Šarms | **Ilgums:** Momentāns |
 | **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Zona:** 1 mērķis | **Pretestība:** Gribasspēks |
 
-Calm cenšas apslāpēt SIZ 1-20 humanoīda kaislības, nodrošinot, ka, piemēram, iemīlējies pielūdzējs neuzstāj, izbijies sāncensis nekliedz pēc palīdzības vai ieroči netiek izvilkti dusmās. Nomierināts cilvēks garīgi netiek ietekmēts citādi; tādēļ jebkāds uzbrukums vai draudoša rīcība joprojām ļauj mērķim aizstāvēties un pat uzbrukt, lai gan tas tiks darīts mierīgi un pārdomāti.
+Calm mēģina apslāpēt IZM 1-20 humanoīda mērķa kaislības (Passions), iespējams, nodrošinot, ka iemīlējies pielūdzējs neuzstāj uz savu, nobiedēts sāncensis nekliedz pēc palīdzības vai ieroči netiek izvilkti dusmās. Nomierināts cilvēks garīgi netiek citādi ietekmēts; tādējādi jebkāda veida uzbrukums vai draudoša darbība joprojām ļauj mērķim sevi aizstāvēt un pat uzbrukt, lai gan viņi to darīs mierīgā un nosvērtā veidā.
 
----
-#### Chain Lightning (Ķēdes zibens)
+---#### Ķēdes zibens
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 50 pēdas/Intensitāte |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** Evade |
+| **Rangs:** Mags 4 | **Buršanas laiks:** 2 darbības |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 3+1/papildu intensitāte | **Darbības attālums:** 50 pēdas/intensitāte |
+| **Apgabals:** Skatīt zemāk | **Pretestība:** Izvairīšanās |
 
-Uzbūrot burvestību, burvis no pirkstu galiem izlaiž piecas pēdas platu elektrības lādiņu, kas var trāpīt vienam mērķim diapazonā, nodarot 1d6+1 bojājuma punktu par katrām 2 intensitātes vienībām. Lādiņš tad lokās uz nākamo tuvāko objektu vai radību, kas saņem iepriekš izmesto bojājumu mīnus 1 punkts, un tad uz nākamo, nodarot izmesto bojājumu mīnus 2 punkti, un tā tālāk. Tas var pat atgriezties pie sabiedrotā vai paša burvja! Lai gan sākotnējam mērķim jābūt redzamam burvim, mērķiem, kuriem trāpa lokveida zibens, nav jābūt.
+Buršanas brīdī mags izšauj no pirkstu galiem piecas pēdas platu elektrības zibeni, kas var trāpīt vienam mērķim darbības attālumā, nodarot 1d6+1 bojājumu punktus par katrām 2 intensitātes vienībām. Pēc tam zibens izliecas uz nākamo tuvāko objektu vai būtni, kam tiek nodarīti iepriekš izmestie bojājumi mīnus 1 punkts, un tad izliecas uz nākamo, nodarot izmestos bojājumus mīnus 2 punktus, un tā tālāk. Tas var pat izliekties atpakaļ uz sabiedroto vai pašu burvi! Lai gan sākotnējam mērķim jābūt burvim redzamam, mērķiem, kurus skar izliekušais zibens, nav jābūt redzamiem.
 
-Katram lokam ir savs 50 pēdu diapazons. "Chain Lightning" turpina sist, ja tam atlikuši bojājuma punkti, līdz tas trāpa objektam, kas liek tam zemēties (metāla būris, restes, liela ūdens tilpne), vai vairs nav pieejamu objektu vai radību, kam trāpīt.
+Katram izliekumam ir savs 50 pēdu darbības attālums, kas var novietot zibeni tālāk par sākotnējo attālumu, kādā tika uzburta burvestība. Ķēdes zibens turpina sist, ja tam ir atlikuši bojājumi, līdz tas skar objektu, kas liek tam iezemēties (metāla būris vai restes, liela ūdens tilpne utt.), vai arī vairs nav mērķu vai būtņu, kam sist.
 
-Katrs skartais radījums saņem bojājumu vienā trāpījuma vietā, valkātajām bruņām neaizsargājot, bet dabiskajām bruņām un maģiskajiem Bruņu punktiem samazinot bojājumus kā parasti.
+Katra skartā būtne saņem bojājumus vienā ķermeņa daļā (Hit Location), kur nēsātās bruņas nesniedz aizsardzību, bet dabiskās bruņas un maģiskie bruņu punkti samazina bojājumus kā parasti.
 
-Ar veiksmīgu "Evade" metienu, noguļoties uz zemes, upuris cieš nulli bojājumu. Kādam ar "Artful Dodger" spēju var izvairīties, nenoguļoties, bet veiksme šajā gadījumā tikai uz pusi samazina bojājumus, ja vien viņi neatrodas piecu pēdu attālumā no ietekmes apgabala malas.
+Ar veiksmīgu Izvairīšanās (Evade) metienu, metoties uz zemes, upuris bojājumus nesaņem. Kāds ar "Artful Dodger" spēju var izvairīties, nemetoties uz zemes, taču šajā gadījumā veiksme tikai uz pusi samazina bojājumus.
 
-Zibens var aizdedzināt uzliesmojošus materiālus ar varbūtību, kas vienāda ar izmesto bojājumu x1%. Papildinformāciju skatīt sadaļā [Uguns](0007_Game_System.md?id=fire-based-attacks). Zibens var arī sašķelt vai iznīcināt nedzīvus objektus no milzīgā trieciena.
+Zibens var aizdedzināt uzliesmojošus materiālus ar varbūtību, kas vienāda ar izmesto bojājumu skaitu x1%. Papildu informāciju skatiet sadaļā par [Ugunīm](0007_Game_System.md?id=fire-based-attacks). Zibens var arī sašķelt vai iznīcināt nedzīvus objektus no milzīgā trieciena spēka.
 
 | Intensitāte | Izmaksas | Mainīgais efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 pēdu diapazons; 1d6+1 bojājums |
-| 2 | 4 | 100 pēdu diapazons; 1d6+1 bojājums |
-| 3 | 5 | 150 pēdu diapazons; 2d6+2 bojājums |
-| 4 | 6 | 200 pēdu diapazons; 2d6+2 bojājums |
-| 5 | 7 | 250 pēdu diapazons; 3d6+3 bojājums |
+| 1 | 3 | 50 pēdu attālums; 1d6+1 bojājumi |
+| 2 | 4 | 100 pēdu attālums; 1d6+1 bojājumi |
+| 3 | 5 | 150 pēdu attālums; 2d6+2 bojājumi |
+| 4 | 6 | 200 pēdu attālums; 2d6+2 bojājumi |
+| 5 | 7 | 250 pēdu attālums; 3d6+3 bojājumi |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Change Appearance (Izskata maiņa)
+#### Izskata maiņa
 
 (Ilūzija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** 2d6 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Nav | **Ilgums:** 2d6 minūtes/intensitāte |
+| **Izmaksas:** 1/intensitāte | **Darbības attālums:** 0 |
 | **Apgabals:** Burvis | **Pretestība:** N/A |
 
-Šī burvestība maina burvja izskatu uz jebkuru humanoīdu vai cilvēkveidīgu divkājainu formu. Auguma un svara izmaiņas ir ierobežotas līdz ±5 SIZ, bet šajā diapazonā burvis var izvēlēties kļūt resns vai tievs, garš vai īss, vai pat mainīt dzimumu. Matu krāsu, apģērbu un aprīkojumu var mainīt kopā ar izskatu. Burvja sejas vaibstus var mainīt pēc vēlēšanās, pat līdz pat nevainojamai kādas citas eksistējošas personas atdarināšanai. Burvestība ir pakļauta [neticībai](0009_Magic.md?id=attempting-to-disbelieve), tāpat kā citas Ilūzijas burvestības. Burvestība nemaina burvja smaržu, un, ja pieskaras, burvis joprojām jūtas tāpat kā savā oriģinālajā formā.
+Šī burvestība maina burvja izskatu uz jebkuru humanoīdu vai cilvēkveidīgu divkājainu formu. Auguma un svara izmaiņas ir ierobežotas līdz ±5 IZM, taču šajā diapazonā burvis var izvēlēties kļūt resns vai tievs, garš vai īss, vai pat mainīt dzimumu. Mati, apģērbs un aprīkojums var tikt mainīti līdz ar izskatu. Burvja sejas vaibstus var mainīt pēc vēlēšanās, pat tik tālu, lai perfekti atdarinātu citu pastāvošu personu. Uz burvestību attiecas [neticība](0009_Magic.md?id=attempting-to-disbelieve) tāpat kā uz citām Ilūzijas burvestībām. Burvestība nemaina burvja smaržu, un, ja viņam pieskaras, burvis joprojām jūtas tāpat kā savā sākotnējā formā un apģērbā.
 
 ---
-#### Chant (Dziedājums)
+#### Dziedājums
 
 (Konjurācija)
 
@@ -299,114 +297,114 @@ Zibens var aizdedzināt uzliesmojošus materiālus ar varbūtību, kas vienāda 
 | :-- | :-- |
 | **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Kauja | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 1 | **Diapazons:** 0 |
+| **Izmaksas:** 1 | **Darbības attālums:** 0 |
 | **Apgabals:** 30 pēdu rādiuss | **Pretestība:** N/A |
 
-Visi ietekmes apgabalā saņem +5% bonusu visiem prasmju metieniem un +1 bonusu bojājumiem, par katru Intensitātes līmeni. Ienaidnieki tajā pašā apgabalā cieš no pretēja ieguvumu efekta.
+Visi, kas atrodas iedarbības apgabalā, saņem +5% bonusu visiem prasmju metieniem un +1 bonusu bojājumiem, katru par intensitātes līmeni. Ienaidnieki tajā pašā apgabalā cieš no iepriekš minēto ieguvumu inversijas.
 
-Dziedājumam jābūt uzturētam visā burvestības ilgumā, vai arī efekti beidzas. "Dispel Magic" uzburšanai nav efekta uz notiekošajiem efektiem, jo pati dziedāšana nav maģiska; tomēr "Silence" uzburšana anulē burvestības priekšrocības. "Chant" efekti sakrājas ar "Bless" un "Curse" efektiem. Tā kā ir prasība dziedāt visu ilgumu, citu burvestību uzburšana nav iespējama.
+Dziedājums ir jāuztur visu burvestības ilgumu, pretējā gadījumā efekti beidzas. "Dispel Magic" buršana neatstāj iespaidu uz "Dziedājuma" notiekošajiem efektiem, jo pati dziedāšana nav maģiska; tomēr "Silence" buršana anulē burvestības priekšrocības. "Dziedājuma" efekti summējas ar "Bless" un "Curse" efektiem. Tā kā nepieciešams dziedāt visu ilgumu, citu burvestību buršana nav iespējama.
 
 ---
-#### Charm Person (Šarmēt personu)
+#### Personas apburšana
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** 1 nedēļa/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 360 pēdas |
-| **Apgabals:** 1 dzīvs cilvēks, puscilvēks vai humanoīds | **Pretestība:** Gribasspēks |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Nav | **Ilgums:** 1 nedēļa/intensitāte |
+| **Izmaksas:** 3+1/papildu intensitāte | **Darbības attālums:** 360 pēdas |
+| **Apgabals:** 1 dzīvs cilvēks, puscilvēks vai humanoīds | **Pretestība:** VAR |
 
-Kad šī burvestība tiek uzburta, viena dzīva (nedzīvie radījumi nav ietekmēti) saprātīga humanoīda mērķis (SIZ 1-20) pārtrauks visas naidīgas darbības pret burvi un burvja sabiedrotajiem, un tā vietā piedāvās palīdzēt un aizsargāt viņus, ja mērķis neizturēs pretestības metienu. Ņemiet vērā, ka palīdzēšana/aizsardzība var radīt neparedzētus vai pat negatīvus efektus burvim, jo subjekts rīkojas balstoties uz to, ko viņš uzskata par labāko veidu, kā aizsargāt/palīdzēt. Attiecībā uz pavēlēm, subjekts nekad nepildīs pašnāvnieciskas vai acīmredzami kaitīgas darbības, bet varētu tikt pārliecināts, ka kaut kas ārkārtīgi bīstams ir pūļu vērts.
+Kad tiek burta šī burvestība, viens dzīvs (nedzīvi radījumi netiek ietekmēti) saprātīgs humanoīda mērķis ar IZM 1-20 pārtrauks jebkādu naidīgumu pret burvju lietotāju un burvju lietotāja sabiedrotajiem, un tā vietā piedāvās palīdzēt un aizsargāt tos, ja mērķis neiztur Pretestības metienu. Ņemiet vērā, ka palīdzēšana/aizsargāšana var radīt neparedzētu vai pat negatīvu efektu burvim, jo subjekts rīkojas saskaņā ar to, ko tas uzskata par labāko rīcību, lai aizsargātu/palīdzētu. Attiecībā uz pavēlēm, mērķis nekad nepakļausies pašnāvnieciskām vai acīmredzami kaitīgām darbībām, bet var tikt pārliecināts, ka kaut kas ārkārtīgi bīstams ir darīšanas vērts.
 
-Jebkāda naidīga rīcība pret šarmēto subjektu no burvja vai sabiedroto puses pārtrauc Apburšanu. Piezīme: Ja citi apšauba Apburšanas dabu, mērķis var arī veikt pretestības metienu, pēc spēles meistara ieskatiem. Burvim jāspēj runāt ar šarmēto subjektu, lai dotu jebkāda veida sarežģītus "lūgumus"; tādēļ mērķa valodas pārzināšana var būt svarīga, bet nav nepieciešama pamata Apburšanai.
+Jebkura naidīga darbība pret apburtības subjektu no burvju lietotāja vai sabiedroto puses pārtrauc Apburšanu. Piezīme: Ja citi apstrīd Apburšanas dabu, mērķis var veikt arī Pretestības metienu, pēc Spēles vadītāja ieskatiem. Burvju lietotājam jāspēj sarunāties ar apburto, lai dotu jebkāda veida sarežģītu "pieprasījumu"; tādēļ mērķa valodas pārzināšana var būt svarīga, bet nav nepieciešama pamata Apburšanai.
 
-Pēc sākotnējā metiena, lai pretotos, jāpaiet 1 nedēļai, līdz subjekts var veikt vēl vienu pretestības metienu. Efekti turpinās, līdz tiek veikts veiksmīgs pretestības metiens. "Charm Person" uzburšana augstākos intensitātes līmeņos prasa augstāka ranga burvi un tai ir maksimālais ilgums 4 nedēļas. Visā burvestības ilgumā burvja maģisko punktu kopsumma tiek samazināta par burvestības uzburšanai iztērēto skaitu, saskaņā ar [Enduring Magic Costs](0009_Magic.md?id=enduring-magic-costs) noteikumiem.
+Pēc sākotnējā pretestības metiena jāpaiet 1 nedēļai, pirms subjekts var veikt citu Pretestības metienu. Efekti ir nepārtraukti, līdz tiek veikts veiksmīgs Pretestības metiens. "Personas apburšanas" buršana augstākos intensitātes līmeņos prasa augstāka ranga magu, un tās maksimālais ilgums ir 4 nedēļas. Visu burvestības ilgumu burvja Maģisko punktu kopsumma tiek samazināta par summu, kas iztērēta burvestības buršanai, saskaņā ar [Noturīgo maģijas izmaksu](0009_Magic.md?id=enduring-magic-costs) noteikumiem.
 
-| Intensitāte | Izmaksas | Min. Rangs | Mainīgais efekts |
+| Intensitāte | Izmaksas | Min. rangs | Mainīgais efekts |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | Šarmēts uz 1 nedēļu |
-| 2 | 4 | 2 | Šarmēts uz 2 nedēļām |
-| 3 | 5 | 3 | Šarmēts uz 3 nedēļām |
-| 4 | 6 | 4 | Šarmēts uz 4 nedēļām |
+| 1 | 3 | 1 | Apburts uz 1 nedēļu |
+| 2 | 4 | 2 | Apburts uz 2 nedēļām |
+| 3 | 5 | 3 | Apburts uz 3 nedēļām |
+| 4 | 6 | 4 | Apburts uz 4 nedēļām |
 
 ---
-#### Charm, Mass (Masu šarmēšana)
+#### Masu apburšana
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 5 | **Buršanas laiks:** 2 raundi |
-| **Sfēra:** Nav | **Ilgums:** 1 nedēļa/Intensitāte |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** 40 pēdas/Intensitāte |
-| **Apgabals:** 20 pēdu rādiuss/Intensitāte | **Pretestība:** Gribasspēks |
+| **Rangs:** Mags 5 | **Buršanas laiks:** 2 raundi |
+| **Sfēra:** Nav | **Ilgums:** 1 nedēļa/intensitāte |
+| **Izmaksas:** 3/intensitāte | **Darbības attālums:** 40 pēdas/intensitāte |
+| **Apgabals:** 20 pēdu rādiuss/intensitāte | **Pretestība:** VAR |
 
-Ar izņēmumiem, kas norādīti augstāk, šī burvestība darbojas tāpat kā [Charm Person](0010_Spells.md?id=charm-person) un "Charm Monster". Šai visspēcīgākajai no šarma burvestībām ir iespēja apburt visas radības ietekmes apgabalā, neatkarīgi no SIZ. Cilvēka izmēra un mazākas radības (SIZ 1-20) izjūt pretestību kā "Hard"; lielas radības (SIZ 21-40) jāveic pretestības metiens ar "Standard" grūtības pakāpi, un milzīgu radību (SIZ 41+) pretestības metiens ir "Easy".
+Ar iepriekš minētajiem izņēmumiem šī burvestība darbojas līdzīgi [Personas apburšanas](0010_Spells.md?id=charm-person) un "Monstra apburšanas" burvestībām. Šai visspēcīgākajai Šarma burvestībai ir iespēja apburt visas būtnes jebkāda IZM iedarbības apgabalā. Cilvēka izmēra un mazākiem (IZM 1-20) pretestības metieni ir grūti; Lielām būtnēm (IZM 21-40) pretestības metieni jāveic ar standarta grūtību, un pretestības metiens milzīgām būtnēm (IZM 41+) ir viegls.
 
 | Intensitāte | Izmaksas | Mainīgais efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | Šarmēts uz 1 nedēļu |
-| 2 | 6 | Šarmēts uz 2 nedēļām |
-| 3 | 9 | Šarmēts uz 3 nedēļām |
-| 4 | 12 | Šarmēts uz 4 nedēļām |
+| 1 | 3 | Apburts uz 1 nedēļu |
+| 2 | 6 | Apburts uz 2 nedēļām |
+| 3 | 9 | Apburts uz 3 nedēļām |
+| 4 | 12 | Apburts uz 4 nedēļām |
 
 ---
-#### Charm Monster (Šarmēt monstru)
+#### Monstra apburšana
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Nav | **Ilgums:** 1 nedēļa/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 180 pēdas |
-| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Gribasspēks |
+| **Rangs:** Mags 3 | **Buršanas laiks:** 2 darbības |
+| **Sfēra:** Nav | **Ilgums:** 1 nedēļa/intensitāte |
+| **Izmaksas:** 3+1/papildu intensitāte | **Darbības attālums:** 180 pēdas |
+| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** VAR |
 
-Šī ir uzlabota [Charm Person](0010_Spells.md?id=charm-person) burvestības versija, jo tā apburs visas dzīvās radības ar SIZ 20 vai mazāk ietekmes apgabalā, vai vienu jebkāda SIZ radību. Lielas radības (SIZ 21-40) ir grūtāk apburt – to pretestības metiens ir "Easy", bet milzīgu radību (SIZ 41+) pretestības metiens ir "Very Easy". Visos citos veidos burvestība darbojas kā "Charm Person".
+Šī ir uzlabota [Personas apburšanas](0010_Spells.md?id=charm-person) versija, jo tā apburs visas dzīvās būtnes ar IZM 20 vai mazāku iedarbības apgabalā, vai 1 būtni ar jebkādu IZM. Lielas būtnes (IZM 21-40) ir grūtāk apburt, to pretestības metiens ir viegls, bet pretestības metiens milzīgām būtnēm (IZM 41+) ir ļoti viegls. Burvestība citos aspektos darbojas tāpat kā "Personas apburšana".
 
-| Intensitāte | Izmaksas | Min. Rangs | Mainīgais efekts |
+| Intensitāte | Izmaksas | Min. rangs | Mainīgais efekts |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 3 | Šarmēts uz 1 nedēļu |
-| 2 | 4 | 3 | Šarmēts uz 2 nedēļām |
-| 3 | 5 | 4 | Šarmēts uz 3 nedēļām |
-| 4 | 6 | 4 | Šarmēts uz 4 nedēļām |
+| 1 | 3 | 3 | Apburts uz 1 nedēļu |
+| 2 | 4 | 3 | Apburts uz 2 nedēļām |
+| 3 | 5 | 4 | Apburts uz 3 nedēļām |
+| 4 | 6 | 4 | Apburts uz 4 nedēļām |
 
 ---
-#### Chill (R) (Atdzesēšana)
+#### Atdzesēšana (A)
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
+| **Rangs:** Mags 0 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 1 | **Darbības attālums:** Pieskāriens |
 | **Apgabals:** 1 mērķis | **Pretestība:** Nav |
 
-Chill ievērojami samazina temperatūru mazam objektam ar ENC, kas nav lielāks par 1 "lietu", līdz ledus ūdens temperatūrai. Noderīgi ātrai karstu priekšmetu dzesēšanai, dzērienu atdzesēšanai utt. Burvestība nesaldē objektu un nerada bojājumus tā struktūrai; tā tikai padara to ļoti aukstu.
+Atdzesēšana dramatiski samazina maza objekta temperatūru, kura ENC nepārsniedz 1 "lietu" izmērā, līdz ledus ūdens temperatūrai. Noderīgi karstu priekšmetu ātrai atdzesēšanai, dzērienu dzesēšanai utt. Burvestība nesasalst objektu un nenodara nekādus bojājumus tā struktūrai: tā vienkārši padara to ļoti aukstu.
 
-Kad burvestība ir apgriezta ("Heat" - Sildīšana), tā ievērojami paaugstina mazu objektu temperatūru līdz verdoša ūdens temperatūrai. Šī daudzpusīgā burvestība ir noderīga vīna uzsildīšanai, ēdiena gatavošanai bez uguns vai gultas sildīšanai pirms miega. Tā neietekmē dzīvus audus, lai gan var ietekmēt apģērbu un bruņas, padarot to nedaudz neērtu, bet ne tiktāl, lai traucētu valkātājam.
+Kad tā tiek apgriezta, "Sildīšana" dramatiski paaugstina mazu objektu temperatūru līdz vāroša ūdens temperatūrai. Šī daudzpusīgā burvestība ir noderīga vīna sildīšanai, ēdiena gatavošanai bez uguns vai gultas sasildīšanai pirms gulētiešanas. Tā neietekmē dzīvus audus, lai gan var ietekmēt apģērbu un bruņas, padarot to nedaudz neērtu, bet ne tik lielā mērā, lai traucētu valkātājam.
 
 ---
-#### Cleanse (R) (Attīrīšana)
+#### Attīrīšana (A)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** Gribasspēks |
+| **Rangs:** Mags 0 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 1 | **Darbības attālums:** Pieskāriens |
+| **Apgabals:** Skatīt zemāk | **Pretestība:** VAR |
 
-Cleanse izmanto, lai atbrīvotu objektu, personu vai nelielu apgabalu no netīrumiem, taukiem, netīrības, sliktām smakām utt. Tā neorganizē un nesakopj mērķi vai apgabalu; tā tikai notīra tos līdz spīdumam. Šo burvestību bieži izmanto drēbju mazgāšanai. Burvis var notīrīt apgabalu, kas vienāds ar POWx5 kvadrātpēdām (5 pēdu kvadrāts ir 25 kvadrātpēdas).
+Attīrīšana tiek izmantota, lai atbrīvotu objektu, personu vai nelielu apgabalu no netīrumiem, taukiem, grūti notīrāmiem traipiem, sliksm smaržām utt. Tā nesakārto un netīra mērķi vai apgabalu; vienkārši notīra tos līdz spīdumam. Šo burvestību bieži izmanto drēbju mazgāšanai. Burvis var iztīrīt apgabalu, kas vienāds ar VARx5 kvadrātpēdām (5 pēdu kvadrāts ir 25 kvadrātpēdas).
 
-"Dishevel" ir Cleanse pretstats. Skartie objekti nekavējoties tiek pārklāti ar netīrumiem, putekļiem, zirnekļu tīkliem utt. Burvestību var izmantot, lai padarītu pavisam jaunus objektus izskatīgus kā vecus un izturētus, vai lai palīdzētu novērst atpazīstamību.
+"Izspūrušais" ir pretstats Attīrīšanai. Skartie objekti tiek uzreiz pārklāti ar netīrumiem, putekļiem, zirnekļu tīkliem utt. Burvestību var izmantot, lai padarītu pavisam jaunus objektus izskatīgus kā vecus un nolietotus, vai lai palīdzētu novērst to, ka parasti labi ģērbti cilvēki tiek atpazīti.
 
 ---
-#### Command (Pavēle)
+#### Pavēle
 
 (Apburšana (Šarms))
 
@@ -414,989 +412,989 @@ Cleanse izmanto, lai atbrīvotu objektu, personu vai nelielu apgabalu no netīru
 | :-- | :-- |
 | **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Šarms | **Ilgums:** 1 minūte |
-| **Izmaksas:** 3 | **Diapazons:** 100 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3 | **Darbības attālums:** 100 pēdas |
+| **Apgabals:** 1 mērķis | **Pretestība:** VAR |
 
-Kad šī burvestība tiek uzburta, garīdznieks var izteikt viena vārda pavēli vienai dzīvai radībai (SIZ 1-20), un uz subjekta nākamo gājienu pavēle tiks izpildīta burtiski, ja viņi neizturēs pretestības metienu. Tas būtībā liek upurim izlaist nākamo gājienu, pabeidzot komandēto darbību, un iztērē darbības punktu. Ja upurim vairs nav darbības punktu, pavēlētā darbība tiks veikta nākamajā raundā. Pati pavēle nevar nodarīt fizisku kaitējumu mērķim; tomēr ievainojums var rasties kā sekundārs pavēles efekts.
+Kad tiek burta šī burvestība, garīdznieks var izteikt viena vārda pavēli vienai dzīvai būtnei ar IZM 1-20, un subjekta nākamajā Raundā pavēle tiks izpildīta precīzi, ja tas neizturēs pretestību. Tas būtībā liek upurim izlaist nākamo Raundu, pildot pavēlēto darbību, un iztērē darbības punktu to darot. Ja upurim nav vairs darbības punktu, pavēlētā darbība tiks izpildīta nākamā Raunda pirmajā Raundā. Pati pavēle nevar nodarīt nekādus faktiskus ievainojumus mērķim; tomēr ievainojumi var rasties kā sekundārais pavēles efekts.
 
-Piemēram, pavēle "mirt" (die) liktu upurim sabrukt nāvei līdzīgā stāvoklī uz 1 raundu bez ievainojumiem; tomēr pavēle "krist" (fall), kas dota radībai, kas kāpj pa 100 pēdu augstu klints sienu, varētu būt vairāk nekā nāvējoša.
+Piemēram, pavēle mirt izraisītu upura sabrukšanu nāvei līdzīgā stāvoklī uz 1 raundu, neradot nekādus faktiskus ievainojumus; tomēr pavēle krist, dota būtnei, kas kāpj 100 pēdas augstā klintī, varētu būt vairāk nekā nāvējoša.
 
-Subjektam jāspēj saprast burvja valodu, un tam ir atļauts veikt "Willpower" metienu, lai pretotos.
+Pavēles subjektam jāspēj saprast burvja runāto valodu, un tam ir atļauts veikt "Gribasspēka" (Willpower) testu, lai pretotos.
 
 **Dažas pavēļu piemēri**
 
-- **Crawl (Rāpot):** Subjekts nometas uz ceļiem un sāk rāpot.
-- **Die (Mirt):** Subjekts sabrūk guļus stāvoklī nāvei līdzīgā komā.
-- **Fall (Krist):** Subjekts sabrūk guļus stāvoklī.
-- **Fumble (Izlaist):** Subjekts izlaiž fizisko darbību, ko grasījās veikt.
-- **Sleep (Gulēt):** Subjekts aizmieg.
-- **Flee (Bēgt):** Subjekts pagriežas un bēg no burvja.
-- **Fly (Lidot):** Subjekts plivina rokas un skrien apļos.
-- **Go (Iet):** Subjekts sāk staigāt virzienā, kurā vērsts.
-- **Halt (Apstāties):** Subjekts nekavējoties apstājas un stāv uz vietas.
-- **Leave (Aiziet):** Subjekts pagriežas un aiziet pa ceļu, pa kuru ienāca.
-- **Rest (Atpūsties):** Subjekts nometas sēdus un atvelk elpu.
-- **Run (Skriet):** Subjekts sāk skriet.
-- **Scream (Kliegt):** Subjekts kliedz.
-- **Sink (Grimt):** Subjekts pārtrauc peldēt.
-- **Surrender (Padoties):** Subjekts nomet ieročus un pārtrauc naidīgās darbības.
+- **Rāpot:** Subjekts nometas uz ceļiem un sāk rāpot.
+- **Mirt:** Subjekts nokrīt uz zemes, nonākot komatozā, nāvei līdzīgā stāvoklī.
+- **Krist:** Subjekts nokrīt uz zemes.
+- **Kļūdīties:** Subjekts kļūdās fiziskā darbībā, ko gatavojas veikt.
+- **Gulēt:** Subjekts iemieg.
+- **Bēgt:** Subjekts pagriežas un bēg no burvja.
+- **Lidot:** Subjekts vicina rokas un skrien apļos.
+- **Iet:** Subjekts sāk iet virzienā, kurā bija pagriezies.
+- **Apstāties:** Subjekts nekavējoties apstājas un stāv uz vietas.
+- **Atstāt:** Subjekts pagriežas un aiziet pa ceļu, pa kuru ienāca.
+- **Atpūsties:** Subjekts nolaižas sēdus pozīcijā un atvelk elpu.
+- **Skriet:** Subjekts sāk skriet.
+- **Kliegt:** Subjekts kliedz.
+- **Grimt:** Subjekts pārstāj peldēt.
+- **Padoties:** Subjekts nomet ieročus un pārtrauc naidīgas darbības.
 
 ---
-#### Cone of Cold (Aukstuma konuss)
+#### Aukstuma konuss
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 1 raunds |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** Evade |
+| **Rangs:** Mags 3 | **Buršanas laiks:** 1 raunds |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 3+1/papildu intensitāte | **Darbības attālums:** 0 |
+| **Apgabals:** Skatīt zemāk | **Pretestība:** Izvairīšanās |
 
-Burvis rada blisteringa aukstuma konusu, kas izstiepjas no rokas. Ietekmes apgabals ir 90 grādu loks ("konuss"), kas stiepjas 10 pēdu garumā par katru intensitātes līmeni. Burvestība nodara 1d6+1 punktus bojājuma par katrām 2 intensitātes vienībām (vai to daļu) visiem upuriem ietekmes apgabalā. Izmetiet bojājumu vienu reizi un piemērojiet to katrai mērķa trāpījuma vietai, valkātajām bruņām piedāvājot tikai pusi aizsardzības, bet radības dabiskajām bruņām vai maģiskajiem Bruņu punktiem samazinot bojājumus kā parasti. Spēles meistars var izvēlēties skarto vietu skaitu, ja milzīga radība ir lielāka par ietekmes apgabalu.
+Burvis izveido postoša aukstuma konusu, kas stiepjas no viņa rokas. Iedarbības apgabals ir 90 grādu loks ("konuss"), kas stiepjas 10 pēdas garumā par katru intensitātes līmeni. Burvestība nodara 1d6+1 bojājumu punktus par katriem 2 intensitātes punktiem vai to daļu visiem upuriem iedarbības apgabalā. Izmet bojājumus vienreiz un piemēro tos katrai mērķa ķermeņa daļai (Hit Location), kur nēsātās bruņas sniedz tikai pusi aizsardzības, bet būtnes dabiskās bruņas vai maģiskie bruņu punkti samazina bojājumus kā parasti. Spēles vadītājs var izvēlēties skarto vietu skaitu, izmantojot jebkādus līdzekļus, ko uzskata par piemērotiem, ja milzīga būtne ir lielāka par iedarbības apgabalu.
 
-Ar veiksmīgu "Evade" metienu, noguļoties uz zemes, upuris cieš nulli bojājumu. Kādam ar "Artful Dodger" spēju var izvairīties, nenoguļoties, bet veiksme šajā gadījumā tikai uz pusi samazina bojājumus, ja vien viņi neatrodas piecu pēdu attālumā no ietekmes apgabala malas. "Cone of Cold" var pārklāt upuri ar ledus kārtu ar varbūtību, kas vienāda ar izmesto bojājumu (pēc modificēšanas) x5%. Ja sasaldēts, upuris var reizi raundā iztērēt darbības punktu un veikt "Brawn" metienu, lai mēģinātu izlauzties; tomēr līdz veiksmīgam iznākumam nelaimīgais upuris nevar kustēties vai veikt citas darbības.
+Ar veiksmīgu Izvairīšanās metienu, metoties uz zemes, upuris bojājumus nesaņem. Kāds ar "Artful Dodger" spēju var izvairīties, nemetoties uz zemes, taču veiksme šajā gadījumā tikai uz pusi samazina bojājumus, ja vien viņi neatrodas piecu pēdu attālumā no iedarbības apgabala malas. Aukstuma konusam ir iespēja pārklāt upuri ar ledus kārtu, kas vienāda ar izmestajiem bojājumiem (pēc modifikācijas) x5%. Ja upuris ir sasalis, vienreiz raundā tas var iztērēt darbības punktu un veikt Izturības (Brawn) metienu, lai mēģinātu atbrīvoties; tomēr, līdz tas neizdodas, nelaimīgais upuris nevar kustēties vai veikt citas darbības.
 
-**Cone of Cold efekti**
+**Aukstuma konusa efekti**
 
 | Intensitāte | Izmaksas | Mainīgais efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 pēdas garš; 1d6+1 bojājums |
-| 2 | 4 | 20 pēdas garš; 1d6+1 bojājums |
-| 3 | 5 | 30 pēdas garš; 2d6+2 bojājums |
-| 4 | 6 | 40 pēdas garš; 2d6+2 bojājums |
-| 5 | 7 | 50 pēdas garš; 3d6+3 bojājums |
+| 1 | 3 | 10 pēdas garš; 1d6+1 bojājumi |
+| 2 | 4 | 20 pēdas garš; 1d6+1 bojājumi |
+| 3 | 5 | 30 pēdas garš; 2d6+2 bojājumi |
+| 4 | 6 | 40 pēdas garš; 2d6+2 bojājumi |
+| 5 | 7 | 50 pēdas garš; 3d6+3 bojājumi |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Confusion (Apjukums)
+#### Apjukums
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 4, Burvis 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Šarms | **Ilgums:** 1 minūte/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 120 pēdas (Garīdznieka versija 250 pēdas) |
-| **Apgabals:** 30 pēdu rādiuss | **Pretestība:** Gribasspēks (Garīdznieka versija ir Hard Willpower) |
+| **Rangs:** Garīdznieks 4, Mags 3 | **Buršanas laiks:** 2 darbības |
+| **Sfēra:** Šarms | **Ilgums:** 1 minūte/intensitāte |
+| **Izmaksas:** 3+1/papildu intensitāte | **Darbības attālums:** 120 pēdas (garīdznieka versija 250 pēdas) |
+| **Apgabals:** 30 pēdu rādiuss | **Pretestība:** VAR (garīdznieka versija ir grūts VAR) |
 
-Kad šī burvestība tiek uzburta, 1d4 radības (SIZ 1-20) ietekmes apgabalā, kas neiztur pretestības metienu, tiks skartas ar maģisku apjukumu. Katrs papildu intensitātes līmenis ietekmēs vēl 1d4 radības, līdz maksimumam 4d4. Garīdznieka versija ietekmē 1d3+1 par katru intensitāti un tai nav maksimuma. Tie, kas atrodas ietekmes apgabalā un ir vistuvāk burvim, tiek ietekmēti vispirms. Veiksmīgs pretestības metiens pārvar burvestību, bet neveiksmīgs metiens liek upurim ciest no viena no šiem nejaušajiem efektiem (metiet katru raundu uz burvestības ilgumu vai līdz upuris aizklīst):
+Kad tiek burta šī burvestība, 1d4 būtnes ar IZM 1-20 iedarbības apgabalā, kuras neiztur savu pretestības metienu, tiks skartas ar maģisku apjukumu. Katrs papildu intensitātes līmenis ietekmēs vēl 1d4 būtnes līdz maksimāli 4d4. Garīdznieka versija ietekmē 1d3+1 par katru intensitāti un tai nav maksimuma. Tie, kas atrodas iedarbības apgabalā un ir vistuvāk burvim, tiek ietekmēti vispirms. Veiksmīgs pretestības metiens pārvar burvestību, savukārt neveiksmīgs metiens izraisa to, ka upuris cieš no viena no šiem nejaušajiem efektiem, metot katru raundu burvestības ilguma laikā vai līdz upuris aizklīst.
 
 | D100 metiens | Apjukuma efekti |
 | :-: | :-- |
-| 01-10 | Uzbrukt burvim ar tālšāvienu vai tuvcīņas ieročiem līdz raunda beigām |
+| 01-10 | Uzbrukt burvim ar attāluma vai tuvcīņas ieročiem līdz raunda beigām |
 | 11-50 | Stāvēt apjukušam, būtībā izvēloties "Dither" līdz raunda beigām |
 | 51-70 | Uzbrukt tuvākajam ienaidniekam līdz raunda beigām |
 | 71-80 | Uzbrukt tuvākajam sabiedrotajam līdz raunda beigām |
-| 81-90 | Aizklīst "Walk" ātrumā, ja nav iesaistīts cīņā, uz burvestības ilgumu, citādi "Dither" kā 11-50 |
+| 81-90 | Aizklīst staigāšanas ātrumā, ja nav iesaistīts cīņā, visu burvestības ilgumu, citādi "Dither" kā 11-50 augstāk |
 | 91-00 | Rīkoties normāli līdz raunda beigām |
 
-Katrs uzbrukums apjukušai radībai dod tai vēl vienu mēģinājumu pretoties burvestībai. Upuris var izvairīties vai atvairīt uzbrukumus kā parasti.
+Katrs uzbrukums apjukušai būtnei dod tai papildu iespēju pretoties burvestībai. Upuris var izvairīties vai atvairīt (Parry) normāli.
 
-Lielas radības (SIZ 21-40) ir mazāk uzņēmīgas pret "Confusion", to pretestības metiens ir "Easy", bet milzīgu radību (SIZ 41+) pretestības metiens ir "Very Easy".
+Ar "Aizklīst" rezultātu upuris dodas pretējā virzienā no burvja staigāšanas gaitā, izmantojot savu parasto kustības veidu. Būtnēm ar iedzimtām spējām, piemēram, astrālo vai ēterisko ceļošanu, plānu maiņu utt., katru raundu ir 50% iespēja izmantot vienu no šīm spējām savas parastās kustības vietā.
+
+Lielas būtnes (IZM 21-40) ir mazāk uzņēmīgas pret Apjukumu, to pretestības metiens ir viegls, bet pretestības metiens milzīgām būtnēm (IZM 41+) ir ļoti viegls.
 
 | Intensitāte | Izmaksas | Mainīgais efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 min.; 1d4 radības (1d3+1 garīdzniekam) |
-| 2 | 4 | 2 min.; 2d4 radības (2d3+2 garīdzniekam) |
-| 3 | 5 | 3 min.; 3d4 radības (3d3+3 garīdzniekam) |
-| 4 | 6 | 4 min.; 4d4 radības (max) (4d3+4 garīdzniekam) |
+| 1 | 3 | 1 min.; 1d4 būtnes (1d3+1 garīdzniekam) |
+| 2 | 4 | 2 min.; 2d4 būtnes (2d3+2 garīdzniekam) |
+| 3 | 5 | 3 min.; 3d4 būtnes (3d3+3 garīdzniekam) |
+| 4 | 6 | 4 min.; 4d4 būtnes (maks.) (4d3+4 garīdzniekam) |
 | 5 | 7 | 5 min.; (5d3+5 garīdzniekam) |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Continual Light (Nepārtrauktā gaisma)
+#### Pastāvīgā gaisma
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2, Burvis 2 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Saule | **Ilgums:** Pus-pastāvīgs (skatīt zemāk) |
-| **Izmaksas:** 3 | **Diapazons:** 180 pēdas |
+| **Rangs:** Garīdznieks 2, Mags 2 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Saule | **Ilgums:** Puspastāvīgs (skatīt zemāk) |
+| **Izmaksas:** 3 | **Darbības attālums:** 180 pēdas |
 | **Apgabals:** 60 pēdu rādiuss | **Pretestība:** Skatīt zemāk |
 
-Šī burvestība rada gaismas globusu, kas ir līdzvērtīgs pilnai dienasgaismai burvja izvēlētajā vietā, kas var būt objekts vai pat gaiss. Tā ir pus-pastāvīga un to īslaicīgi neitralizē tikai iekļūšana maģiskās tumsas apgabalā. Tomēr burvis to var jebkurā brīdī atcelt vai neitralizēt, uzburt "Darkness" vai "Dispel Magic" ar intensitāti, kas lielāka par "Continual Light" lielumu.
+Šī burvestība rada gaismas lodi, kas spilgtumā ir līdzvērtīga pilnai dienas gaismai burvja izvēlētā vietā, kas var būt objekts vai pat gaiss. Tā ir puspastāvīga un tiek tikai īslaicīgi neitralizēta, nonākot maģiskas tumsas apgabalā. Tomēr to var jebkurā laikā pastāvīgi atcelt pats burvis vai neitralizēt ar "Tumsas" (Darkness) vai "Dispel Magic" buršanu, kuras intensitāte ir lielāka par "Pastāvīgās gaismas" magnitūdu.
 
-Radības ar nepatiku pret dienasgaismu cieš no normālajiem sodiem, kas saistīti ar to, atrodoties attiecīgajā ietekmes apgabalā. Ja uzburts uz radības, mērķim ir atļauts veikt "Willpower" metienu, lai pretotos – veiksmīgs metiens norāda, ka burvestība ir ietekmējusi apgabalu tieši aiz radības, nevis pašu radību. Ja centrēts uz radības acīm, neizdevies "Willpower" metiens izraisa daļēju aklumu, palielinot visu prasmju un pretestības metienu grūtību, kuriem nepieciešama redze, par vienu pakāpi. Redzi var atjaunot tikai ar "Cure Blindness and Deafness" uzburšanu vai uzburt "Dispel Magic" ar intensitāti, kas lielāka par "Continual Light" lielumu. Burvestības efekti ir nekustīgi, bet tos var uzburt uz pārnēsājama vai pārvietojama objekta.
+Būtnes, kam ir nepatika pret dienas gaismu, cieš no normāliem sodiem, kas saistīti ar to, atrodoties attiecīgajā iedarbības apgabalā. Ja burts uz būtnes, mērķim ir atļauts veikt "Gribasspēka" testu, lai pretotos, un veiksme norāda, ka burvestība ietekmējusi apgabalu tieši aiz būtnes, nevis pašu būtni. Ja centrēts uz būtnes acīm, neizdevies "Gribasspēka" metiens rezultējas daļējā aklumā, palielinot visu prasmju un pretestības metienu grūtību, kuriem nepieciešama redze, par vienu pakāpi. Redzi var atjaunot tikai, burvjot "Akluma un kurluma dziedināšanu" (Cure Blindness and Deafness) jebkurā intensitātē, vai burvjot "Dispel Magic" ar intensitāti, kas lielāka par "Pastāvīgās gaismas" magnitūdu. Burvestības efekti ir nekustīgi, bet tos var uzburt uz pārnēsājama vai pārvietojama objekta.
 
 ---
-#### Control Weather (Laika apstākļu kontrole)
+#### Laika kontrole
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 5, Burvis 4 | **Buršanas laiks:** 10 minūtes |
-| **Sfēra:** Laika apstākļi | **Ilgums:** 1d6 stundas/Intensitāte |
-| **Izmaksas:** 3 +1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 1d4 kvadrātjūdzes/Intensitāte | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 5, Mags 4 | **Buršanas laiks:** 10 minūtes |
+| **Sfēra:** Laikapstākļi | **Ilgums:** 1d6 stundas/intensitāte |
+| **Izmaksas:** 3 +1/intensitāte | **Darbības attālums:** 0 |
+| **Apgabals:** 1d4 kvadrātjūdzes/intensitāte | **Pretestība:** N/A |
 
-Šī burvestība ļauj burvim būtiski un pamanāmi mainīt pašreizējos laika apstākļus. Kad tā ir uzburta, jāpaiet vēl 1d4x10 minūtēm, līdz efekti pilnībā izpaudīsies. Jebkuras izmaiņas ilgums tiek aprēķināts saskaņā ar burvestības ilgumu. Burvis var mainīt nokrišņus, temperatūru un vēju līdz pat divām pakāpēm uz augšu vai leju, kā detalizēti tabulās [Pārrēķina tabulās](Appendix_B_Conversion_Tables).
+Šī burvestība ļauj burvim būtiski un pamanāmi mainīt pašreizējos laikapstākļus. Kad burvestība uzburta, jāpaiet vēl 1d4x10 minūtēm, lai efekti pilnībā izpaustos. Jebkuru izmaiņu ilgums tiek aprēķināts saskaņā ar burvestības ilgumu. Burvis var mainīt nokrišņus, temperatūru un vēju par plus vai mīnus divām pakāpēm, kā sīki aprakstīts tabulās sadaļā [Konversijas tabulas](Appendix_B_Conversion_Tables).
 
 <br>
 
 
 | Intensitāte | Izmaksas | Mainīgais efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 1d6 st. ilgums; 1d4 kvadrātjūdzes |
-| 2 | 4 | 2d6 st. ilgums; 2d4 kvadrātjūdzes |
-| 3 | 5 | 3d6 st. ilgums; 3d4 kvadrātjūdzes |
-| 4 | 6 | 4d6 st. ilgums; 4d4 kvadrātjūdzes |
+| 1 | 3 | 1d6 stundu ilgums; 1d4 kv. jūdzes |
+| 2 | 4 | 2d6 stundu ilgums; 2d4 kv. jūdzes |
+| 3 | 5 | 3d6 stundu ilgums; 3d4 kv. jūdzes |
+| 4 | 6 | 4d6 stundu ilgums; 4d4 kv. jūdzes |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Coordination (Koordinācija)
+#### Koordinācija
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Visas | **Ilgums:** Trigeris |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
+| **Rangs:** Garīdznieks 0, Mags 0 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Visa | **Ilgums:** Trigeris |
+| **Izmaksas:** 1 | **Darbības attālums:** Pieskāriens |
 | **Apgabals:** 1 mērķis | **Pretestība:** Nav |
 
-Coordination uzlabo manuālo veiklību un kustīgumu, veicot vienu iepriekš noteiktu uzdevumu. Kad uzburta sagatavošanās nolūkos, tā ļauj saņēmējam iespēju pārmest vienu prasmju metienu, kur nepieciešama koordinācija, piemēram, "Acrobatics", "Lockpicking" utt. Saņēmējs var izvēlēties labāko no diviem metieniem, bet burvestība šajā procesā tiek iztērēta.
+Koordinācija uzlabo roku veiklību un veiklību, veicot vienu iepriekš noteiktu uzdevumu. Kad uzburta sagatavošanās nolūkos, tā ļauj saņēmējam iespēju pārmest viena prasmju pārbaudi, kur nepieciešama koordinācija, piemēram, akrobātika, slēdzeņu uzlaušana utt. Saņēmējs var izvēlēties labāko no diviem metieniem, taču burvestība procesā tiek patērēta.
 
----
-#### Create Food and Water (Ēdiena un ūdens radīšana)
+---#### Radīt ēdienu un ūdeni
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 minūte |
-| **Sfēra:** Radīšana, Elementālā (Ūdens) | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3 +1/Intensitāte | **Diapazons:** 30 pēdas |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 1 | **Buršanās laiks:** 1 minūte |
+| **Sfēra:** Radīšana, Elementāla (Ūdens) | **Ilgums:** Skatīt zemāk |
+| **Izmaksas:** 3 +1/Intensitāte | **Attālums:** 30 pēdas |
+| **Laukums:** Skatīt zemāk | **Pretestība:** N/A |
 
-Šīs burvestības uzburšana rada no gaisa pārtiku, kas pietiekama, lai pabarotu trīs radības (SIZ 20 vai mazāk) vai vienu radību (SIZ 21-40) uz visu dienu par katru intensitātes līmeni. Radībām, kas lielākas par SIZ 40, nepieciešama 1 intensitātes vienība uz katru "ēdienreizi". Šis ēdiens izskatās pēc parastas pārtikas un, lai gan diezgan pliekans, tas var būt viss, ko burvis vēlas. Tas, kas tam trūkst garšā, tiek vairāk nekā atsvērts ar uzturvērtību. Pēc radīšanas ēdienam ir 24 stundu glabāšanas laiks, neatkarīgi no uzglabāšanas. Tomēr, kad tas kļuvis nelietojams, to atkal var padarīt ēdamu, uzburot "Purify Food and Water", pagarinot laiku, kurā to var droši ēst, vēl par 24 stundām. Papildus radītajai pārtikai, burvestība rada daudz dzeramā ūdens, darbojoties visos veidos tāpat kā 1. ranga burvestība "Create Water".
+Šīs burvestības radīšana no zila gaisa izveido pietiekami daudz ēdiena, lai pabarotu trīs radības ar IZM 20 vai mazāk, vai vienu radību ar IZM 21–40, vienai dienai par katru Intensitāti. Radībām, kas lielākas par IZM 40, katrai "maltītei" nepieciešama 1 Intensitāte. Šis radījums visādā ziņā atgādina parastu ēdienu, un, lai arī tas ir diezgan bezgaršīgs, tas var būt jebkas, ko burvis vēlas. Tas, kas tam trūkst garšā, tiek vairāk nekā kompensēts uzturvērtībā. Pēc radīšanas ēdienam ir 24 stundu derīguma termiņš neatkarīgi no tā, kā tas tiek uzglabāts. Tomēr, tiklīdz tas ir sabojājies, to var atkal padarīt ēdamu, izmantojot "Attīrīt ēdienu un ūdeni", pagarinot periodu, kurā to var droši ēst, vēl par 24 stundām. Papildus radītajam ēdienam burvestība rada arī pietiekami daudz dzeramā ūdens, darbojoties visos veidos kā 1. ranga burvestība "Radīt ūdeni".
 
 ---
-#### Cure Disease (R) (Slimību dziedēšana)
+#### Izdziedināt slimību (R)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 1 raunds |
+| **Rangs:** Garīdznieks 2 | **Buršanās laiks:** 1 raunds |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Endurance vai Evade) |
+| **Izmaksas:** 3/Intensitāte | **Attālums:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A (Izturība vai Izvairīšanās) |
 
-Šī burvestība izdziedē jebkuras parastas vai maģiskas slimības sekas, kas skar mērķi, kura "Potency" ir mazāka par burvestības Intensitāti x30. Kad dziedināšana sāk darboties, atveseļošanās var sākties, kā norādīts konkrētās slimības aprakstā. Kaites, ko izraisa parazitāras radības, piemēram, zaļie gļotaini organismi, pūšanas kāpuri un pat likantropi, var tikt anulētas ar "Cure Disease". Tomēr attiecībā uz pēdējām kaitēm, "Remove Disease" jāuzbur 72 stundu laikā ar 12 vai augstāku intensitāti, kamēr pirmās var izdziedēt ar 1. intensitāti. Šī burvestība nepiedāvā turpmāku imunizāciju pret slimību.
+Šī burvestība izdziedē jebkuras laicīgas vai maģiskas slimības sekas, kas skar mērķi, kura Potence ir mazāka par burvestības Intensitāti x30. Kad dziedināšana ir stājusies spēkā, atveseļošanās var sākties tā, kā norādīts attiecīgās slimības aprakstā. Kaiti, ko izraisa parazitāras būtnes, piemēram, zaļie gļotainie organismi, pūšanas kāpuri un pat likantropi, var neitralizēt ar "Izdziedināt slimību". Tomēr attiecībā uz pēdējām kaitēm "Noņemt slimību" ir jāizmanto 72 stundu laikā un ar 12 vai lielāku Intensitāti, savukārt pirmās var izdziedināt ar tikai 1 Intensitāti. Šī burvestība nepiedāvā turpmāku imunizāciju pret slimību.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | Izdziedēt POT 30 slimību, zaļo gļotu vai pūšanas kāpurus |
-| 2 | 6 | Izdziedēt POT 60 slimību |
-| 3 | 9 | Izdziedēt POT 90 slimību |
-| 4 | 12 | Izdziedēt POT 120 slimību, likantropiju |
+| 1 | 3 | Izdziedināt POT 30 slimību, zaļos gļotainos organismus vai pūšanas kāpurus |
+| 2 | 6 | Izdziedināt POT 60 slimību |
+| 3 | 9 | Izdziedināt POT 90 slimību |
+| 4 | 12 | Izdziedināt POT 120 slimību, likantropiju |
 | +1 | +1 | Turpināt progresiju |
 
-Šīs burvestības pretstats, "Cause Disease", uzsūta ienaidniekam maģisku kaiti. Ja veiksmīgi, burvis var izvēlēties uzsūtīt mērķim jebkuru zināmu slimību; tomēr intensitāte x30 nedrīkst būt mazāka par izvēlētās slimības "Potency". Kad slimība ir veiksmīgi uzsūtīta, tā darbojas kā jebkura cita slimība attiecībā uz pretestību, sākuma laiku, ilgumu utt. Vienīgais izņēmums ir tas, ka agrīna atveseļošanās ir ierobežota līdz "Remove Disease" vai "Cure" uzburšanai. Dziedināšanas prasmei nav efekta uz maģiski uzsūtītām slimībām.
+Šīs burvestības pretstats, "Izraisīt slimību", uzliek maģisku kaiti ienaidniekam. Ja tas izdodas, burvis var izvēlēties uzlikt mērķim jebkuru zināmu slimību; tomēr Intensitātei x30 jābūt vienādai ar vai lielākai par izvēlētās slimības Potenci. Kad slimība ir veiksmīgi uzlikta, tā darbojas kā jebkura cita slimība attiecībā uz pretestību, sākuma laiku, ilgumu utt. Vienīgais izņēmums ir tas, ka agrīna atveseļošanās ir ierobežota līdz "Noņemt slimību" vai "Izdziedināt" lietošanai. Dziedināšanas prasmei nav ietekmes uz maģiski izraisītām slimībām.
 
 ---
-#### Cure Fatigue (R) (Noguruma dziedēšana)
+#### Izdziedināt nogurumu (R)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Garīdznieks 1 | **Buršanās laiks:** 2 darbības |
 | **Sfēra:** Dziedināšana | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Endurance vai Evade) |
+| **Izmaksas:** 1 | **Attālums:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A (Izturība vai Izvairīšanās) |
 
-Kad šī burvestība tiek uzburta, subjekts atgūst 1d3+1 zaudēto noguruma līmeni, pat atgūstot samaņu, ja tas ir bijis zaudēts.
+Kad šī burvestība tiek izmantota, subjekts atgūst 1d3+1 zaudētos noguruma līmeņus, pat atgūstot samaņu, ja tas ir piemērojams.
 
-Šīs burvestības pretstats, "Cause Fatigue", uzsūta 1d3+1 noguruma līmeni mērķiem, kas neiztur "Endurance" metienu. Burvja "Channel" metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek pieņemts kā daļa no burvestības somatiskās prasības. Papildu metiens, lai trāpītu, nav nepieciešams. Nedz valkātās, nedz dabiskās bruņas nepiedāvā aizsardzību, bet maģiskās bruņas neitralizē burvestību.
+Šīs burvestības pretstats, "Izraisīt nogurumu", piešķir 1d3+1 noguruma līmeņus mērķiem, kuriem neizdodas Izturības metiens. Burvja Kanāla metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek uzskatīts par daļu no burvestības somatiskās prasības. Nav nepieciešams papildu metiens trāpīšanai. Ne valkātas, ne dabiskas bruņas nepiedāvā aizsardzību, bet maģiskas Bruņas neitralizē burvestību.
 
 ---
-#### Cure Major Wounds (R) (Smagu brūču dziedēšana)
+#### Izdziedināt smagus ievainojumus (R)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 1 raunds |
+| **Rangs:** Garīdznieks 2 | **Buršanās laiks:** 1 raunds |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Endurance vai Evade) |
+| **Izmaksas:** 3/Intensitāte | **Attālums:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A (Izturība vai Izvairīšanās) |
 
-Šī burvestība darbojas kā "Cure Minor Wounds", izņemot tālāk norādīto.
+Šī burvestība darbojas tāpat kā "Izdziedināt vieglus ievainojumus", izņemot zemāk norādīto.
 
-Šī burvestība dziedē vienu trāpījuma vietu, kas cieš no "Major Wound", neatkarīgi no tā, vai tā ir saspiesta vai sakropļota. Tai nav efekta uz atdalītu locekli, kura atjaunošanai nepieciešams vai nu "Heal", ja loceklis joprojām ir klāt, vai "Regenerate". Ar nosacījumu, ka saņēmējs joprojām ir dzīvs un vieta ir ievainota pirms stundu skaita, kas vienāds ar burvestības intensitāti, tad "Cure Major Wounds" gandrīz acumirklī dziedē 1d8+4 bojājuma punktus.
+Šī burvestība dziedē vienu ķermeņa daļu, kas cieš no smaga ievainojuma, neatkarīgi no tā, vai tas ir saspiests vai sakropļots. Tai nav ietekmes uz amputētu locekli, kam nepieciešama vai nu "Dziedināšana", ja loceklis joprojām ir klāt, vai "Reģenerācija", lai to atjaunotu. Ja saņēmējs joprojām ir dzīvs un vieta tika ievainota stundu skaitā, kas vienāds ar burvestības Intensitāti, tad "Izdziedināt smagus ievainojumus" gandrīz uzreiz sadziedē 1d8+4 bojājumus.
 
-Ja ievainojums notika agrāk, ķermeņa daļai jāiziet cauri traumatiskākam remontam, kas prasa vienu "Cure Major Wounds" uzburšanu un vairākas pilnas atpūtas un atveseļošanās dienas, kas vienādas ar tēla atveseļošanās ātrumu. Izmestie trāpījuma punkti tiek vidēji aprēķināti un atgūti atveseļošanās periodā. Ja šis atveseļošanās periods tiek pārtraukts pirms dziedināšana ir pabeigta, vieta paliek sakropļota un nelietojama, un to var izdziedēt tikai ar "Heal".
+Ja trauma notika agrāk, tad ķermeņa daļai jāiziet cauri traumatiskākam remontam, kas prasa vienu "Izdziedināt smagus ievainojumus" izmantošanu un dienu skaitu pilnīgai atpūtai un atveseļošanai, kas vienāds ar tēla Dziedināšanas ātrumu. Ieripinātie trāpījumu punkti tiek aprēķināti vidēji un atgūti minētā atveseļošanās perioda laikā. Ja šis atveseļošanās periods tiek pārtraukts, pirms dziedināšana ir pabeigta, vieta paliek sakropļota un nelietojama, un to var izārstēt tikai ar burvestību "Dziedināt".
 
-Kad apgriezta pretēji ("Cause Major Wounds"), to var izmantot, lai samazinātu vienu trāpījuma vietu par 1d8+4 trāpījuma punktiem. Burvja "Channel" metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek pieņemts kā daļa no burvestības somatiskās prasības. Papildu metiens nav nepieciešams. Šī burvestība nevar atdalīt vietu, bet var to saspiest vai sakropļot kā parasti. Nedz valkātās, nedz dabiskās bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti samazina bojājumu kā parasti.
+Pielietojot apgriezti, "Izraisīt smagus ievainojumus" var izmantot, lai samazinātu vienas ķermeņa vietas trāpījumu punktus par 1d8+4. Burvja Kanāla metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek uzskatīts par daļu no burvestības somatiskās prasības. Nav nepieciešams papildu metiens trāpīšanai. Šī burvestība nevar atdalīt vietu, bet var to normāli saspiest vai sakropļot. Ne valkātas, ne dabiskas bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti samazina bojājumus kā parasti.
 
 ---
-#### Cure Minor Wounds (R) (Nelielu brūču dziedēšana)
+#### Izdziedināt vieglus ievainojumus (R)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Garīdznieks 1 | **Buršanās laiks:** 2 darbības |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3 (vai 1) | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Endurance vai Evade) |
+| **Izmaksas:** 3 (vai 1) | **Attālums:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A (Izturība vai Izvairīšanās) |
 
-Cure Minor Wounds ir vairāki atšķirīgi efekti atkarībā no kaites dabas, uz kuru to lieto. Kad uzburts uz radības, kas cieš no "Minor Wound", 1d4+1 trāpījuma punkti ievainotajā vietā tiek nekavējoties izdziedēti. Tai ir ierobežots efekts uz "Serious" un "Major" ievainojumiem, atgūstot tikai vienu trāpījuma punktu. Tomēr burvestība stabilizē vietu neatkarīgi no bojājuma, apturot jebkādu asiņošanu un novēršot nenovēršamu nāvi.
+"Izdziedināt vieglus ievainojumus" ir vairāki dažādi efekti atkarībā no kaites dabas, kurai tas tiek izmantots. Kad to izmanto radībai, kas cieš no viegla ievainojuma, 1d4+1 trāpījumu punkti ievainotajā vietā tiek uzreiz sadziedēti. Tam ir ierobežota ietekme uz nopietniem un smagiem ievainojumiem, atgūstot tikai vienu trāpījumu punktu. Tomēr burvestība stabilizē vietu neatkarīgi no bojājumiem, apturot jebkādu asiņošanu un novēršot nenovēršamu nāvi.
 
-Alternatīvi, ja subjekts cieš no nelielas kaites, piemēram, galvassāpēm, muguras sāpēm, paģirām, saaukstēšanās, kārpām utt., "Cure Minor Wounds" uzburšana novērš vienu no efektiem. Šis burvestības gadījums maksā tikai vienu maģisko punktu.
+Alternatīvi, ja subjekts cieš no nelielas kaites, piemēram, galvassāpēm, muguras sāpēm, paģirām, saaukstēšanās, kārpām utt., "Izdziedināt vieglus ievainojumus" izmantošana novērš vienu no šiem efektiem. Šis burvestības gadījums maksā tikai vienu maģisko punktu.
 
-Kad apgriezta pretēji ("Cause Minor Wounds"), tā samazina skartās vietas trāpījuma punktus par 1d4+1 punktiem, bet citādi darbojas tādā pašā veidā. "Cause Minor Wounds" nodarīs tikai 1 punkta bojājumu vietai ar "Serious" vai "Major" ievainojumu, bet liekais bojājums tiek zaudēts. Šī burvestība nevar atdalīt vietu, bet var to saspiest vai sakropļot kā parasti.
+Pielietojot apgriezti, "Izraisīt vieglus ievainojumus" samazina skartās vietas trāpījumu punktus par 1d4+1 punktiem, bet citādi darbojas tādā pašā veidā. "Izraisīt vieglus ievainojumus" izraisīs tikai 1 bojājuma punktu vietai ar nopietnu vai smagu ievainojumu, bet liekie bojājumi tiek zaudēti. Šī burvestība nevar atdalīt vietu, bet var to normāli saspiest vai sakropļot.
 
-Alternatīvi burvestība var izraisīt nelielu kaiti, piemēram, galvassāpes, muguras sāpes, paģiras, saaukstēšanos, kārpas utt. Šis burvestības gadījums maksā tikai vienu maģisko punktu.
+Alternatīvi, burvestība var izraisīt nelielu kaiti, piemēram, galvassāpes, muguras sāpes, paģiras, saaukstēšanos, kārpas utt. Šis burvestības gadījums maksā tikai vienu maģisko punktu.
 
-Burvja "Channel" metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek pieņemts kā daļa no somatiskās prasības. Papildu metiens nav nepieciešams. Nedz valkātās, nedz dabiskās bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti samazina bojājumu kā parasti.
+Burvja Kanāla metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek uzskatīts par daļu no burvestības somatiskās prasības. Nav nepieciešams papildu metiens trāpīšanai. Ne valkātas, ne dabiskas bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti samazina bojājumus kā parasti.
 
 ---
-#### Cure Serious Wounds (R) (Nopietnu brūču dziedēšana)
+#### Izdziedināt nopietnus ievainojumus (R)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 1 raunds |
+| **Rangs:** Garīdznieks 2 | **Buršanās laiks:** 1 raunds |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Endurance vai Evade) |
+| **Izmaksas:** 3 | **Attālums:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A (Izturība vai Izvairīšanās) |
 
-Šī burvestība darbojas kā "Cure Minor Wounds", izņemot tālāk norādīto.
+Šī burvestība darbojas tāpat kā "Izdziedināt vieglus ievainojumus", izņemot zemāk norādīto.
 
-Cure Serious Wounds dziedē vienu trāpījuma vietu par 1d6+2 ievainojuma punktiem, ar nosacījumu, ka ievainojums nav nopietnāks par "Serious Wound". Tai ir ierobežots efekts uz "Major" ievainojumiem, dziedējot vietu par 2 trāpījuma punktiem un stabilizējot ievainojumu, novēršot nāvi.
+"Izdziedināt nopietnus ievainojumus" sadziedē vienu ķermeņa vietu no 1d6+2 bojājumu punktiem, ar nosacījumu, ka ievainojums nav smagāks par nopietnu ievainojumu. Tam ir ierobežota ietekme uz smagiem ievainojumiem, dziedējot vietu par 2 trāpījumu punktiem un stabilizējot traumu, novēršot nāvi.
 
-Kad apgriezta pretēji ("Cause Serious Wounds"), tā samazina vienu trāpījuma vietu par 1d6+2 trāpījuma punktiem. "Cause Serious Wounds" izraisīs tikai 2 punktu bojājumu vietai ar "Major" ievainojumu; jebkurš liekais bojājums tiek zaudēts. Burvja "Channel" metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek pieņemts kā daļa no somatiskās prasības. Papildu metiens nav nepieciešams. Šī burvestība nevar atdalīt vietu, bet var to saspiest vai sakropļot kā parasti. Nedz valkātās, nedz dabiskās bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti samazina bojājumu kā parasti.
+Pielietojot apgriezti, "Izraisīt nopietnus ievainojumus" samazina vienas ķermeņa vietas trāpījumu punktus par 1d6+2. "Izraisīt nopietnus ievainojumus" izraisīs tikai 2 bojājuma punktus vietai ar smagu ievainojumu; jebkādi liekie bojājumi tiek zaudēti. Burvja Kanāla metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek uzskatīts par daļu no burvestības somatiskās prasības. Nav nepieciešams papildu metiens trāpīšanai. Šī burvestība nevar atdalīt vietu, bet var to normāli saspiest vai sakropļot. Ne valkātas, ne dabiskas bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti samazina bojājumus kā parasti.
 
 ---
-#### Dancing Lights (Dejojošās gaismas)
+#### Dejojošās gaismas
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 1 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 100 pēdu rādiuss/Intensitāte | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 0 |
+| **Laukums:** 100 pēdu rādiuss/Intensitāte | **Pretestība:** N/A |
 
-Kad šī burvestība tiek uzburta, burvis var radīt vienu no šiem efektiem: 1d4 mirgojošus gaismas punktus, kas atgādina laternas vai lāpas, 1d4 kvēlojošus gaismas bumbas, vai 1 neviennozīmīgu humanoīda formas mirgojošas gaismas figūru. Efektus var vadīt burvis bez nepieciešamības koncentrēties, un tie pārvietojas jebkurā vēlamajā ātrumā burvestības ietekmes apgabalā. Ja gaismas iziet ārpus burvestības ietekmes apgabala vai beidzas ilgums, tās izzūd.
+Kad šī burvestība tiek izmantota, maģijas lietotājs var radīt vienu no šiem efektiem: 1d4 mirgojošus gaismas punktus, kas atgādina laternas vai lāpas, kuras izstaro līdzīgu apgaismojuma daudzumu, 1d4 kvēlojošas gaismas sfēras kā lutaušus, vai 1 neskaidru humanoīdu mirgojošas gaismas formu, līdzīgu uguns elementālim. Efektus var vadīt burvis bez nepieciešamības koncentrēties, un tie pārvietojas jebkurā vēlamā ātrumā burvestības laukumā. Ja gaismas pārvietojas ārpus burvestības ietekmes laukuma vai ilgums beidzas, tās izzūd.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | 1d4 gaismas vai 1 figūra uz 2 min. 100 pēdu rādiusā |
-| 2 | 2 | 1d4 gaismas vai 1 figūra uz 4 min. 200 pēdu rādiusā |
-| 3 | 3 | 1d4 gaismas vai 1 figūra uz 6 min. 300 pēdu rādiusā |
-| 4 | 4 | 1d4 gaismas vai 1 figūra uz 8 min. 400 pēdu rādiusā |
+| 1 | 1 | 1d4 gaismas vai 1 forma uz 2 min. 100 pēdu rādiusā |
+| 2 | 2 | 1d4 gaismas vai 1 forma uz 4 min. 200 pēdu rādiusā |
+| 3 | 3 | 1d4 gaismas vai 1 forma uz 6 min. 300 pēdu rādiusā |
+| 4 | 4 | 1d4 gaismas vai 1 forma uz 8 min. 400 pēdu rādiusā |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Darkness (Tumsa)
+#### Tumsība
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 10 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 30 pēdas/Intensitāte |
-| **Apgabals:** 10 pēdu rādiuss | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 30 pēdas/Intensitāte |
+| **Laukums:** 10 pēdu rādiuss | **Pretestība:** N/A |
 
-Šī burvestība rada 10 pēdu rādiusā pilnīgu maģisko tumsu, bloķējot normālu redzi, kā arī īpašu rasu redzi, piemēram, "Infravision". Visus parastās gaismas veidus šī burvestība neitralizē. To var atvairīt, uzburt "Light" un otrādi; tomēr citas maģiskās gaismas formas (Dancing Lights, Fairy Fire un pat atklāšanas burvestību radītais mirdzums) tiek neitralizētas ar "Darkness". "Light" burvestībai ar jau esošu ilgumu nav efekta uz "Darkness" un otrādi.
+Šī burvestība rada pilnīgas maģiskas tumsas laukumu 10 pēdu rādiusā, bloķējot normālu redzi, kā arī īpašu rasu redzi, piemēram, "Tumsas redzi". Visi laicīgās gaismas veidi tiek neitralizēti ar šo burvestību, no saules gaismas līdz sveču gaismai. To var atvairīt ar "Gaismas" burvestības izmantošanu un otrādi; tomēr citus maģiskās gaismas veidus, piemēram, "Dejojošās gaismas", "Feju uguni" un pat "Noteikšanas" burvestību izstaroto mirdzumu, "Tumsība" neitralizē. "Gaismas" burvestībai ar jau esošu ilgumu nav ietekmes uz "Tumsību" un otrādi.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | 10 min.; 30 pēdu diapazons |
-| 2 | 2 | 20 min.; 60 pēdu diapazons |
-| 3 | 3 | 30 min.; 90 pēdu diapazons |
-| 4 | 4 | 40 min.; 120 pēdu diapazons |
+| 1 | 1 | 10 min.; 30 pēdu attālums |
+| 2 | 2 | 20 min.; 60 pēdu attālums |
+| 3 | 3 | 30 min.; 90 pēdu attālums |
+| 4 | 4 | 40 min.; 120 pēdu attālums |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Darkvision (Tumšredze)
+#### Tumsas redze
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 1 minūte |
+| **Rangs:** Maģs 2 | **Buršanās laiks:** 1 minūte |
 | **Sfēra:** Nav | **Ilgums:** 2 stundas/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A |
 
-Šī burvestība piešķir saņēmējam "Darkvision" 60 pēdu attālumā. Tā darbojas visos veidos tāpat kā tāda paša nosaukuma rasu spēja.
+Šī burvestība piešķir saņēmējam "Tumsas redzi" 60 pēdu attālumā. Tā visādā ziņā darbojas kā tāda paša nosaukuma rasu Spēja.
 
 ---
-#### Death Spell (Nāves burvestība)
+#### Nāves burvestība
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3 +1/Intensitāte, +2 EXP | **Diapazons:** 30 pēdas/Intensitāte |
-| **Apgabals:** 15 pēdu rādiuss | **Pretestība:** Endurance |
+| **Rangs:** Maģs 4 | **Buršanās laiks:** 2 darbības |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 3 +1/Intensitāte, +2 EXP | **Attālums:** 30 pēdas/Intensitāte |
+| **Laukums:** 15 pēdu rādiuss | **Pretestība:** Izturība |
 
-Veiksmīga šīs burvestības uzburšana nogalina mainīgu skaitu radību (SIZ 40 vai mazāk) ietekmes apgabalā. Burvis met 1d6 par katru intensitātes līmeni, lai noteiktu skarto radību skaitu. Ja ietekmes apgabalā atrodas dažādu SIZ kategoriju radības, cilvēka izmēra radības (SIZ 1-20) vienmēr tiek ietekmētas pirms lielākām. Lielas radības (SIZ 21-40) ir grūtāk nogalināt (pretestības metiens ir "Easy"), tomēr katra liela radība skaitās kā 5 cilvēka izmēra radības. Radības, kas lielākas par SIZ 40, šī burvestība neietekmē.
+Veiksmīga šīs burvestības izmantošana nogalina mainīgu skaitu radību ar IZM 40 vai mazāk Ietekmes laukumā. Maģijas lietotājs met 1d6 par katru Intensitātes līmeni, lai noteiktu skarto radību skaitu. Ja Ietekmes laukumā atrodas dažādu IZM kategoriju radības, cilvēka izmēra radības (IZM 1-20) vienmēr tiek ietekmētas pirms lielākām. Lielas radības (IZM 21-40) visticamāk pretosies nogalināšanai, to Pretestības metiens ir viegls, tomēr katra Lielā radība skaitās kā 5 cilvēka izmēra radības. Radības, kas lielākas par IZM 40, šī burvestība neietekmē.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 +2 EXP | 30 pēdu diapazons; 1d6 skartas radības |
-| 2 | 4 +2 EXP | 60 pēdu diapazons; 2d6 skartas radības |
-| 3 | 5 +2 EXP | 90 pēdu diapazons; 3d6 skartas radības |
-| 4 | 6 +2 EXP | 120 pēdu diapazons; 4d6 skartas radības |
+| 1 | 3 +2 EXP | 30 pēdu attālums; 1d6 ietekmētas radības |
+| 2 | 4 +2 EXP | 60 pēdu attālums; 2d6 ietekmētas radības |
+| 3 | 5 +2 EXP | 90 pēdu attālums; 3d6 ietekmētas radības |
+| 4 | 6 +2 EXP | 120 pēdu attālums; 4d6 ietekmētas radības |
 | +1 | +1 | Turpināt progresiju |
 
-Ieteicams uzburt burvestību ar pietiekamu intensitāti, lai tā būtu vienāda vai lielāka par potenciālo mērķu skaitu, jo nepietiekami punkti tiek zaudēti. Šai burvestībai nav efekta uz likantropiem, nedzīvajiem vai citām plāna radībām. Tikai "Wish" var atgriezt tos, kurus skārusi šī burvestība.
+Vēlams izmantot burvestību ar pietiekamu Intensitāti, lai tā būtu vienāda ar vai lielāka par potenciālo mērķu skaitu, jo nepietiekami punkti tiek zaudēti. Šai burvestībai nav ietekmes uz likantropiem, nedzīvajiem vai citām planārām radībām. Tikai "Vēlēšanās" var atgriezt tos, kurus skārusi šī burvestība, atpakaļ no mirušajiem.
+
+_Piemērs: Rengarts izmanto Nāves burvestību apgabalā, kur atrodas četri IZM 16 orki un divi IZM 32 kalnu milži, izvēloties 3. Intensitāti. Metot 3d6 burvestības efektiem, ar 1d6 par katru Intensitāti, rezultāts ir 12 punkti. Lai gan katram kalnu milzim ir nepieciešami tikai 5 punkti, lai tiktu nogalināts, pirmie tiek ietekmēti mazākie orki. Trīs no četriem orkiem neiztur savu Pretestības metienu un mirst. Tā kā katrs orks ir vienāds ar 1 punktu, paliek pāri 8 punkti. Ar to pietiek, lai ietekmētu vienu kalnu milzi par 5 punktiem, bet atlikušie 3 punkti tiek zaudēti. Tomēr dusmīgajam kalnu milzim nav problēmu izturēt savu vieglo Pretestības metienu un tas uzbrūk Rengartam._
 
 ---
-#### Deflect (Novirzīšana)
+#### Atvairīt
 
-(Abjurācija)
+(Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Aizsardzība | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Nav |
+| **Rangs:** Garīdznieks 0, Maģs 0 | **Buršanās laiks:** 1 darbība |
+| **Sfēra:** Aizsardzība | **Ilgums:** Koncentrācija |
+| **Izmaksas:** 1 | **Attālums:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** Nav |
 
-Deflect aizsargā saņēmēju pret nelieliem ārvalstu materiālu triecieniem, piemēram, lietus lāsēm, knišļu mākoņiem vai pat lidojošiem smilšu graudiem. Aizsardzība ir ierobežota līdz atsevišķiem objektiem, kas mazāki par bērna naga izmēru, un tādēļ nevar novērst normālu raķešu ieroču trāpījumu tēlam.
+"Atvairīt" aizsargā saņēmēju pret nelieliem ārējo materiālu triecieniem, piemēram, lietus lāsēm, knišļu mākoņiem vai pat lidojošiem smilšu graudiem. Aizsardzība attiecas tikai uz atsevišķiem objektiem, kas mazāki par bērna naga izmēru, un tādējādi nevar novērst parastu šāviņu ieroču trāpīšanu tēlam.
 
 ---
-#### Detect Charm (R) (Šarma atklāšana)
+#### Noteikt apburšanu (R)
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 raunds |
+| **Rangs:** Garīdznieks 1 | **Buršanās laiks:** 1 raunds |
 | **Sfēra:** Zīlēšana | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 100 pēdas |
-| **Apgabals:** 1 mērķis minūtē | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 100 pēdas |
+| **Laukums:** 1 mērķis minūtē | **Pretestība:** N/A |
 
-Šī burvestība ļauj burvim noteikt, vai viena vai vairākas izvēlētas radības atrodas "Charm" burvestību ietekmē. Lai skenētu vienu radību, nepieciešama pilna minūte koncentrācijas. Kad burvestības pretstats ("Hide Charm") tiek uzburts, viena radība var tikt pasargāta no šādas atklāšanas uz 6 stundām/Intensitāti.
+Šī burvestība ļauj burvim saskatīt, vai viena vai vairākas izvēlētas radības atrodas apburšanas ietekmē. Lai pārbaudītu vienu radību, ir nepieciešama pilna minūte koncentrēšanās. Kad tiek izmantots šīs burvestības pretstats ("Noslēpt apburšanu"), vienu radību var pasargāt no šādas noteikšanas uz 6 stundām/Intensitāti.
 
 ---
-#### Detect Evil (R) (Ļaunuma atklāšana)
+#### Noteikt ļaunumu (R)
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1, Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 1, Maģs 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Visas | **Ilgums:** 5 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 180 pēdas |
-| **Apgabals:** 90 grādu loks | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 180 pēdas |
+| **Laukums:** 90 grādu loks | **Pretestība:** N/A |
 
-Ar šo burvestību burvis var noteikt spēcīgas ļaunuma izstarošanas 90 grādu lokā līdz 180 pēdām. Tas atklās tikai pārdabiskas dabas ļaunas radības (piemēram, dēmonus un vampīrus) vai parastas būtnes ar ļauniem vai nelietīgiem nodomiem (pēc spēles meistara ieskatiem). Tomēr tas neatklās tādus priekšmetus kā slazdus, indes, nolādētus priekšmetus utt. Burvis var redzēt izstarojumu cauri līdz 3 pēdām cieta koka, 1 pēdai akmens vai netīrumu un 1 collai cieta metāla. Tā kā maģiskajām aurām nepieciešams laiks, lai veidotos, minūtē var skenēt ne vairāk kā vienu 60° loku. Burvestības pretstats – "Detect Good" – darbojas pēc tādiem pašiem noteikumiem.
+Ar šo burvestību burvis var noteikt spēcīgas ļaunuma izpausmes 90 grādu lokā, līdz 180 pēdām. Tā atklās tikai pārdabiskas dabas ļaunās radības, piemēram, dēmonus un vampīrus, vai laicīgas būtnes ar ļauniem vai nelietīgiem nodomiem, kā to nosaka Spēles vadītājs. Tā tomēr nenoteiks tādas lietas kā lamatas, indes, nolādētus priekšmetus utt. Burvis var redzēt izpausmes cauri līdz 3 pēdām cieta koka, 1 pēdai akmens vai zemes un 1 collai cieta metāla. Tā kā maģiskajām aurām ir nepieciešams laiks, lai izveidotos, minūtē var skenēt ne vairāk kā vienu 60° loku. Šīs burvestības pretstats, "Noteikt labo", ievēro tos pašus iepriekš minētos noteikumus.
 
 ---
-#### Detect Invisibility (Neredzamības atklāšana)
+#### Noteikt neredzamību
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 5 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Redzamības līnija | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 0 |
+| **Laukums:** Redzes līnija | **Pretestība:** N/A |
 
-Kad šī burvestība tiek uzburta, burvis iegūst spēju redzēt jebkādus objektus vai būtnes, kas ir neredzamas. Tas ietver tos, kas slēpjas, ir ēteriski, astrāli vai ārpus fāzes. Tā var arī atklāt tos, kas slēpjas vai ir maskēti ar parastiem līdzekļiem. Atšķirībā no citām atklāšanas burvestībām, "Detect Invisibility" ir ierobežota ar redzamības līniju un tai nav nepieciešama minūte, lai skenētu redzamības loku.
+Kad šī burvestība tiek izmantota, maģijas lietotājs iegūst spēju redzēt jebkādus objektus vai būtnes, kas ir neredzami. Tas ietver tos, kas ir paslēpti, ēteriski, astrāli vai ārpus fāzes. Tā var arī noteikt tos, kas paslēpti vai apslēpti ar laicīgiem līdzekļiem. Atšķirībā no citām "Noteikšanas" burvestībām, "Noteikt neredzamību" ir ierobežota ar redzes līniju un tai nav nepieciešama minūte, lai skenētu redzes loku.
 
 ---
-#### Detect Lie (R) (Melu atklāšana)
+#### Noteikt melus (R)
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 1 raunds |
+| **Rangs:** Garīdznieks 2 | **Buršanās laiks:** 1 raunds |
 | **Sfēra:** Zīlēšana | **Ilgums:** 1 minūte/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 100 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Deceit |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 100 pēdas |
+| **Laukums:** 1 mērķis | **Pretestība:** Maldi |
 
-Kad uzburta, šī burvestība nosaka, vai kāda būtne apzināti melo vai citādi noklusē patiesību. Tomēr pati patiesība netiek atklāta – tikai tas, ka sniegtās atbildes nav precīzas. Mērķis var mēģināt "pieveikt" burvestību ar "Formidable" pretestības metienu (viņu "Deceit" pret oriģinālo buršanas metienu). Burvestību var apgriezt pretēji – "Conceal Lie" novērš melu atklāšanu ar maģiskiem līdzekļiem uz 6 stundām par katru intensitāti.
+Kad šī burvestība tiek izmantota, tā nosaka, vai viena būtne apzināti melo vai citādi slēpj patiesību. Tomēr patiesība netiek atklāta, tikai tas, ka sniegtās atbildes nav precīzas. Mērķis joprojām var mēģināt "pieveikt" burvestību, izmantojot ievērojamu pretstāvēšanas metienu ar saviem Maldiem pret sākotnējo buršanās metienu. Burvestību var izmantot apgriezti; ja tā notiek, "Noslēpt melus" novērš melu noteikšanu ar maģiskiem līdzekļiem uz 6 stundām par katru Intensitāti.
 
 ---
-#### Detect Magic (Maģijas atklāšana)
+#### Noteikt maģiju
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1, Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 1, Maģs 1 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Visas | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 90 grādu loks, 60 pēdas | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 0 |
+| **Laukums:** 90 grādu loks, 60 pēdas | **Pretestība:** N/A |
 
-Kad uzburta, burvis redz mirdzošu zilu auru ap jebkuru maģisku priekšmetu vai burvestības efektu 90 grādu lokā līdz 60 pēdām. Šī burvestība atklās arī aptuvenu intensitāti un lielumu, kā parādīts šajā tabulā.
+Kad šī burvestība tiek izmantota, burvis redz kvēlojošu zilu auras apvalku ap jebkuru maģisku priekšmetu vai burvestības efektu 90 grādu lokā, līdz 60 pēdām. Šī burvestība arī noteiks aptuveno Intensitāti un Magnitūdu, kā parādīts nākamajā tabulā.
 
-##### Atklātā intensitāte un/vai lielums
+##### Noteiktā Intensitāte un/vai Magnitūda
 
-| D100 metiens | Intensitāte/Lielums |
+| D100 metiens | Intensitāte/Magnitūda |
 | :-: | :-- |
 | 01-25 | -1d3 |
-| 26-75 | Precīza intensitāte/lielums |
+| 26-75 | Precīza Intensitāte/Magnitūda |
 | 76-00 | +1d3 |
 
-Ir 10% iespēja uz katru intensitāti atklāt maģijas veidu (nekromantija, elementārā utt.). Aura, ko burvis redz, projicējas cauri cietiem objektiem – līdz 3 pēdām koka, 1 pēdai akmens un 1 collai cieta metāla. Tā kā maģiskajām aurām nepieciešams laiks, lai veidotos, minūtē var skenēt ne vairāk kā vienu 60° loku. Dēmoni, velni, eņģeļi un elementāļi paši par sevi nav maģiski, bet, ja tie tiek izsaukti, konjurācijas burvestība tiks reģistrēta tik minūtes, cik ir izsaukšanas burvestības lielums x10 tajā vietā, kur tie tika izsaukti.
+Ir 10% iespēja uz katru Intensitāti atklāt maģijas specifisko veidu (nekromantija, elementāla utt.). Aura, ko burvis redz, projicējas cauri cietiem objektiem, līdz 3 pēdām koka, 1 pēdai akmens un 1 collai cieta metāla. Tā kā maģiskajām aurām ir nepieciešams laiks, lai izveidotos, minūtē var skenēt ne vairāk kā vienu 60° loku. Dēmoni, velni, eņģeļi un elementāļi paši par sevi nav maģiski, bet, ja tie tiek izsaukti, izsaukšanas burvestība reģistrēsies minūšu skaitā, kas vienāds ar izsaukšanas burvestības Magnitūdu x10, kur tā tika izmantota.
 
 ---
-#### Dimension Door (Dimensiju durvis)
+#### Dimensiju vārti
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Burvis | **Pretestība:** N/A |
+| **Rangs:** Maģs 3 | **Buršanās laiks:** 1 darbība |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Attālums:** 0 |
+| **Laukums:** Burvis | **Pretestība:** N/A |
 
-"Dimension Door" ir īsas distances teleportācijas veids. Burvis acumirklī pārlec līdz pat 100 pēdām par katru intensitātes līmeni, nešķērsojot starptelpu, bez kļūdas iespējamības. Vēlamā vieta var būt vai nu vizuāli redzama, vai arī norādīta ar virzienu: 40 pēdas taisni uz priekšu, 65 pēdas uz leju, 45° pa kreisi utt. Nonākšana gaisā izraisīs kritiena bojājumus, ja vien netiks izmantota burvestība kā "Feather Fall", savukārt nejauša ielekšana cietā objektā iesprostos burvi Astrālajā plānā. Viss fiziski pārnēsātais aprīkojums (nedzīva matērija) pārlec kopā ar burvi. Dzīva matērija, kas nav lielāka par SIZ 20, var pavadīt burvi. Burvim un jebkurai transportētajai dzīvajai radībai ir nepieciešams pilns raunds, lai atgūtos. Ja šajā laikā viņiem uzbrūk, šādas personas var darīt ne vairāk kā aizstāvēties.
+"Dimensiju vārti" ir īsa attāluma teleportācijas veids. Burvis uzreiz pārlēc līdz 100 pēdām par katru Intensitāti, nešķērsojot starptelpu, bez kļūdas iespējamības. Vēlamo atrašanās vietu var redzēt vizuāli vai norādīt virzienu: 40 pēdas taisni uz priekšu, 65 pēdas lejup, 45° pa kreisi utt. Ierašanās gaisā radīs kritiena bojājumus, ja vien netiks izglābts ar burvestību, piemēram, "Spalvas kritiens", savukārt nejauša ielēkšana cietā objektā iesprostos burvi Astrālajā plaknē. Viss fiziski pārnēsājamais aprīkojums (nedzīva, nedzīva matērija) lec līdzi burvim. Dzīva matērija, kas nav lielāka par 20 IZM, var pavadīt burvi. Piemēram, tēls ar IZM 11 var lēkt līdzi burvim, pieņemot, ka abi pieskaras. Burvim un jebkurai transportētajai dzīvai radībai ir nepieciešams pilns raunds, lai atgūtos. Ja šajā laikā tiek uzbrukts, šādi indivīdi var darīt tikai aizstāvēties.
 
 ---
-#### Dispel Magic (Maģijas izkliedēšana)
+#### Kliedēt maģiju
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2, Burvis 2 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Aizsardzība | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** 360 pēdas |
-| **Apgabals:** 15 pēdu rādiuss | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 2, Maģs 2 | **Buršanās laiks:** 2 darbības |
+| **Sfēra:** Aizsardzība | **Ilgums:** Momentāns |
+| **Izmaksas:** 1 | **Attālums:** 360 pēdas |
+| **Laukums:** 15 pēdu rādiuss | **Pretestība:** N/A |
 
-"Dispel Magic" var uzburt vai nu pret konkrētu mērķi, vai arī uz noteiktu apgabalu, un pēc tam visa maģija 15 pēdu rādiusā no mērķa punkta ir pakļauta izkliedēšanai. Tas izbeidz notiekošās burvestības uz mērķa, bet neko nedara citiem maģiskiem efektiem. Tai nav efekta uz maģiskām radībām vai nedzīvajiem. "Dispel Magic" novērš visu citu maģiju ietekmes apgabalā ar lielumu, kas mazāks par burvestības intensitāti. Izņēmums būtu maģiski priekšmeti un tādu burvestību kā "Charm Person" upuri, kuri jāatlasa individuāli. Burvestības efektus nevar daļēji novērst.
+"Kliedēt maģiju" var izmantot pret konkrētu mērķi vai noteiktu laukumu, un, kad tas ir izmantots, visa maģija 15 pēdu rādiusā no mērķa punkta ir pakļauta noraidīšanai. Tā izbeidz notiekošās burvestības uz tās mērķa, bet neko nedara citiem maģiskiem efektiem. Tai nav ietekmes uz maģiskām radībām vai nedzīvajiem. "Kliedēt maģiju" novērš visu citu maģiju Ietekmes laukumā ar Magnitūdu, kas mazāka par burvestības Intensitāti. Izņēmums no tā būtu maģiski priekšmeti un apbūroša tipa burvestību upuri, piemēram, "Apburt personu", kuriem jābūt mērķētiem individuāli. Burvestības efektus nevar daļēji novērst.
 
-"Dispel Magic" sāk ar visspēcīgāko maģiju ietekmes apgabalā. Ja tai neizdodas novērst kādu burvestību (jo tās lielums ir pārāk liels), burvestība beidzas un vairāk maģijas nevar novērst.
+"Kliedēt maģiju" sāk ar visspēcīgāko maģiju Ietekmes laukumā. Ja tai neizdodas novērst kādu burvestību (jo burvestības Magnitūda ir pārāk augsta), tad burvestība beidzas un vairs nevar novērst nekādu maģiju.
 
-"Dispel Magic" var izmantot aizsardzības nolūkos, lai neitralizētu ienākošās uzbrūkošās burvestības, izmantojot "Counter Spell" reaktīvo darbību.
+"Kliedēt maģiju" var izmantot aizsardzībā, lai neitralizētu ienākošās uzbrūkošās burvestības, izmantojot "Pretburtības" reaģējošo darbību.
 
----
-#### Divination (Zīlēšana)
+---#### Zīlēšana
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 10 minūtes |
+| **Pakāpe:** Garīdznieks 3 | **Buršanās laiks:** 10 minūtes |
 | **Sfēra:** Zīlēšana | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Izmaksas:** 3/Intensitāte | **Attālums:** 0 |
+| **Apgabals:** Skatīt zemāk | **Pretošanās:** N/A |
 
-Kad uzburta, šī burvestība ļauj garīdzniekiem saņemt informāciju no savas dievības par kādu vēl neuzsāktu darbību, kurai jānotiek nākamās nedēļas laikā. Atšķirībā no mazāk jaudīgā "Augury", "Divination" sniedz specifisku informāciju. "Channel" prasmju metiens šīs burvestības uzburšanai sākas kā "Formidable", un katrs intensitātes līmenis samazina grūtības pakāpi par vienu līmeni. Intensitāte nevar pārsniegt 5. līmeni, un metiens 96% vai augstāks vienmēr ir kļūme.
+Šis burvestības veids ļauj garīdzniekiem saņemt informāciju no savas dievības par kādu vēl neuzsāktu darbību, kas paredzama ne vēlāk kā vienas nedēļas laikā. Atšķirībā no mazāk spēcīgās burvestības "Zīme", "Zīlēšana" sniedz konkrētu informāciju. "Kanāla" prasmes metiens, lai izmantotu šo burvestību, sākas no "Briesmīga" grūtības pakāpes, un katrs Intensitātes līmenis samazina grūtību par vienu pakāpi. Intensitāte nedrīkst pārsniegt 5. līmeni, un metiens 96% vai augstāk vienmēr ir neveiksmīgs.
 
-Spēles meistaram vajadzētu veikt šo metienu spēlētāja vietā, jo dažos gadījumos var darboties burvja ienaidnieku maģija, un šajos gadījumos kļūme var atklāt nepatiesu informāciju.
+Spēles vadītājam vajadzētu veikt šo metienu spēlētāja vietā, jo ir gadījumi, kad var darboties burvja burvestībai naidīga maģija, un šādos gadījumos neveiksme var atklāt nepatiesu informāciju.
 
 | Intensitāte | Izmaksas | Mainīgais efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | Burvestība uzburta "Formidable" grūtībā |
-| 2 | 6 | Burvestība uzburta "Hard" grūtībā |
-| 3 | 9 | Burvestība uzburta "Standard" grūtībā |
-| 4 | 12 | Burvestība uzburta "Easy" grūtībā |
-| 5 | 15 | Burvestība uzburta "Very Easy" grūtībā |
+| 1 | 3 | Burvestība izmantota ar Briesmīgu grūtību |
+| 2 | 6 | Burvestība izmantota ar Grūtu grūtību |
+| 3 | 9 | Burvestība izmantota ar Standarta grūtību |
+| 4 | 12 | Burvestība izmantota ar Vieglu grūtību |
+| 5 | 15 | Burvestība izmantota ar Ļoti vieglu grūtību |
 
 ---
-#### Dry (Žāvēšana)
+#### Žāvēšana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
+| **Pakāpe:** Burvis 0 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Izmaksas:** 1 | **Attālums:** Pieskāriens |
+| **Apgabals:** 1 mērķis | **Pretošanās:** N/A |
 
-Dry noņem visu lieko mitrumu no objekta vai personas, vai nu notekot peļķē, vai iztvaikojot tvaiku mākonī. To parasti izmanto, lai nožūtu pēc stipra lietus vai palīdzētu aizsargāt aprīkojumu no pūšanas, bet tai ir vairāki citi daudzpusīgi pielietojumi. Burvis var izžāvēt objektu līdz pat POWx2 SIZ lielumā.
+"Žāvēšana" noņem visu lieko mitrumu no objekta vai personas, kas vai nu notek, veidojot peļķi, vai iztvaiko tvaika mākonī. To parasti izmanto, lai nožūtu pēc stipra lietus vai palīdzētu pasargāt aprīkojumu no pūšanas, taču tai ir vairāki citi daudzpusīgi pielietojumi. Burvis var izžāvēt objektu līdz VAR x2 izmērā (IZM).
 
 ---
-#### Earthquake (Zemestrīce)
+#### Zemestrīce
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 5, Burvis 5 | **Buršanas laiks:** 10 minūtes |
+| **Pakāpe:** Garīdznieks 5, Burvis 5 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Elementālā (Zeme) | **Ilgums:** 1 minūte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 50 pēdas/Intensitāte |
-| **Apgabals:** 10 pēdu rādiuss/Intensitāte | **Pretestība:** Evade |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Attālums:** 50 pēdas/Intensitāte |
+| **Apgabals:** 10 pēdu rādiuss/Intensitāte | **Pretošanās:** Izvairīšanās |
 
-Earthquake rada zemes trīci, kas spēj notriekt cilvēkus no kājām un sabrukt stīvas ēkas. Vismazākais efekts, ja neizdodas pretoties burvestībai, liek upurim nokrist guļus. Ja atrodaties ēkā, apbūvētā vietā vai kādā neaizsargātā vietā (piemēram, mežā vai zem klints), neizdošanās izvairīties ("Evade") arī norāda, ka persona tiek triekta un iesprostota krītošos gružos. Valkātās bruņas piedāvā pusi aizsardzības, bet maģiskie Bruņu punkti vai radības dabiskās bruņas samazina bojājumu kā parasti.
+"Zemestrīce" izraisa zemes satricinājumu, kas spēj nogāzt cilvēkus no kājām un sagraut nekustīgas ēkas. Minimālajā gadījumā, neizturot burvestības iedarbību, upuris nokrīt uz zemes. Ja persona atrodas ēkā, apbūvētā teritorijā vai kādā citā neaizsargātā vietā (piemēram, mežā vai zem klints), neizvairīšanās nozīmē arī to, ka persona tiek satriekta un iesprostota krītošās drupās. Valkātas bruņas piedāvā uz pusi mazāku aizsardzību, taču maģiskie Bruņu punkti vai radības dabiskās bruņas samazina bojājumus kā parasti.
 
-| Intensitāte | Izmaksas | Mainīgais efekts | Potenciālais bojājums |
+| Intensitāte | Izmaksas | Mainīgais efekts | Iespējamie bojājumi |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | 50 pēdu diapazons; 10 pēdu rādiuss; smalki līdzsvaroti objekti apgāžas. | Nav |
-| 2 | 4 | 100 pēdu diapazons; 20 pēdu rādiuss; sienas un ēkas čīkst. | Nav |
-| 3 | 5 | 150 pēdu diapazons; 30 pēdu rādiuss; apmetums un stikla logi plaisā. | Nav |
-| 4 | 6 | 200 pēdu diapazons; 40 pēdu rādiuss; smagas mēbeles pārvietojas, sienas objekti krīt. | Nav |
-| 5 | 7 | 250 pēdu diapazons; 50 pēdu rādiuss; mērenas ēkas daļēji sabrūk. | 1d2 uz vienu vietu |
-| 6 | 8 | 300 pēdu diapazons; 60 pēdu rādiuss; smagas mēbeles apgāžas. Ēkas sabrūk. | 1d4 uz vienu vietu |
-| 7 | 9 | 350 pēdu diapazons; 70 pēdu rādiuss; mērenas ēkas sabrūk. Zemes plaisas. | 1d6 uz vienu vietu |
-| 8 | 10 | 400 pēdu diapazons; 80 pēdu rādiuss; labi uzbūvētas ēkas sabrūk. | 1d8 uz divām vietām |
-| 9 | 11 | 450 pēdu diapazons; 90 pēdu rādiuss; maz kas paliek stāvam. | 1d10 uz trim vietām |
-| 10 | 12 | 500 pēdu diapazons; 100 pēdu rādiuss; pilnīga iznīcība. | 1d12 uz četrām vietām |
+| 1 | 3 | 50 pēdu attālums; 10 pēdu rādiuss; trausli līdzsvaroti objekti apgāžas, piekārti objekti šūpojas. | Nav |
+| 2 | 4 | 100 pēdu attālums; 20 pēdu rādiuss; sienas un ēkas čīkst. | Nav |
+| 3 | 5 | 150 pēdu attālums; 30 pēdu rādiuss; apmetums un stikla logi ieplaisā, koki un citi gari objekti dramatiski trīc. | Nav |
+| 4 | 6 | 200 pēdu attālums; 40 pēdu rādiuss; smagas mēbeles pārvietojas, pie sienām piestiprināti objekti krīt, sienās parādās plaisas. | Nav |
+| 5 | 7 | 250 pēdu attālums; 50 pēdu rādiuss; pieticīgas zemes, žoga vai ķieģeļu ēkas daļēji sabrūk. Krīt nelieli zari. | 1d2 bojājumi vienai ķermeņa daļai |
+| 6 | 8 | 300 pēdu attālums; 60 pēdu rādiuss; smagas mēbeles apgāžas. Zemes, žoga vai ķieģeļu ēkas tiek iznīcinātas. Masīvkoka vai mūra ēkas daļēji sabrūk. Krīt kolonnas, statujas un robežmūri. Krīt lielie koku zari. | 1d4 bojājumi vienai ķermeņa daļai |
+| 7 | 9 | 350 pēdu attālums; 70 pēdu rādiuss; pieticīgas ēkas sabrūk. Zeme manāmi plaisā, no stāvām nogāzēm krīt akmeņi. Bojāti pazemes cauruļvadi un kanalizācija. Koka tilti sabrūk. Mazi koki krīt. | 1d6 bojājumi vienai ķermeņa daļai |
+| 8 | 10 | 400 pēdu attālums; 80 pēdu rādiuss; labi uzbūvētas ēkas sabrūk. Bojāti liela mēroga nocietinājumi, pilsētas mūri un akmens tilti. Zeme pamatīgi saplaisājusi. Nozīmīgi zemes nogruvumi un lavīnas. Lieli koki krīt. | 1d8 bojājumi divām ķermeņa daļām |
+| 9 | 11 | 450 pēdu attālums; 90 pēdu rādiuss; maz kas, ja vispār kas, paliek stāvam. Tuneļi un alas sabrūk. Zemes virsmā plašas plaisas. Milzīgi koki krīt. | 1d10 bojājumi trim ķermeņa daļām |
+| 10 | 12 | 500 pēdu attālums; 100 pēdu rādiuss; pilnīga iznīcināšana, pat kolosāli akmens pieminekļi daļēji sabrūk. Klintis un kalnu nogāzes sašķīst. | 1d12 bojājumi četrām ķermeņa daļām |
 
 ---
-#### Enchant Item (Priekšmeta apburšana)
+#### Priekšmeta apburšana
 
-(Apburšana)
+(Burvība)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** Skatīt zemāk |
+| **Pakāpe:** Burvis 4 | **Buršanās laiks:** Skatīt zemāk |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3 + Skatīt zemāk | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 priekšmets | **Pretestība:** N/A |
+| **Izmaksas:** 3 + Skatīt zemāk | **Attālums:** Pieskāriens |
+| **Apgabals:** 1 priekšmets | **Pretošanās:** N/A |
 
-Šīs burvestības uzburšana sagatavo priekšmetu apburšanai. Objektam jābūt labā stāvoklī un vislabākajā izpildījumā. Nepieciešamas papildu izmaksas vismaz 100 GP, lai segtu instrumentu, grebumu, izšuvumu, dārgakmeņu, gravējumu u.c. izmaksas. Visbeidzot, apburšanas procesam nepieciešama laboratorija vai darbnīca.
+Šīs burvestības izmantošana sagatavo priekšmetu apburšanai. Objekta jābūt labā stāvoklī un no vislabākās konstrukcijas un meistarības. Nepieciešamas papildu izmaksas vismaz 100 GP apmērā, lai segtu papildu instrumentu, griešanas, izšūšanas, dārgakmeņu iestrādāšanas, gravēšanas utt. izdevumus. Visbeidzot, apburšanas procesam ir nepieciešama laboratorija vai darbnīca.
 
-Burot burvestību, burvim jāpieskaras priekšmetam visu buršanas laiku, kas ir 1d8+2 dienas. Tas ietver atpūtas un miega periodus, kuru laikā priekšmetam jāpaliek burvja rokas stiepiena attālumā. Nevienā brīdī buršanas laikā burvis nedrīkst uzburt citu burvestību vai veikt cita veida maģiju. Jebkuras no šīm prasībām pārkāpšana automātiski izraisīs burvestības neveiksmi.
+Burot burvestību, maģijas lietotājam ir jāpieskaras priekšmetam visu 1d8+2 dienu ilgo buršanās laiku. Tas ietver atpūtas un miega periodus, kuru laikā priekšmetam jāpaliek burvja rokas stiepiena attālumā. Nevienā buršanās brīdī maģijas lietotājs nedrīkst izmantot citu burvestību vai veikt citus maģijas veidus. Jebkura no šiem noteikumiem pārkāpšana automātiski izraisīs burvestības neizdošanos.
 
-Kad veiksmīgi uzburta, priekšmets ir gatavs pēdējam solim, burvim ievietojot tajā vēlamo burvestību. Lai to izdarītu, viņiem jābūt burvestībai atmiņā vai uz ruļļa un jāuzbur tā priekšmetā 24 stundu laikā, pretējā gadījumā viss process būs jāsāk no jauna. Izvēlētās burvestības uzburšana var pārsniegt iepriekš minētās 24 stundas. Priekšmeta piepildīšana ar izvēlēto burvestību maksā parasto maģisko punktu skaitu par vēlamo intensitāti un aizņem 1d12 stundas par katru burvestības rangu. Visā piepildīšanas procesā burvim jāpaliek pieskāriena vai rokas stiepiena attālumā, kā minēts iepriekš, un procesa beigās ir nepieciešams "Arcane Casting" metiens. Tiek ievērotas parastās burvestību buršanas pakāpes; tomēr attiecībā uz "kļūmes" rezultātu, burvestību nevar uzspiest. Priekšmetā var ievietot secīgas burvestības, ar nosacījumu, ka buršanas process tiek sākts 24 stundu laikā pēc iepriekšējās burvestības pabeigšanas. Tas attiecas pat uz iepriekš neveiksmīgu burvestību gadījumu. Katra secīga burvestība prasa parasto buršanas izmaksu.
+Kad burvestība veiksmīgi izmantota, priekšmets ir gatavs pēdējam posmam, kad burvis ievada tajā vēlamo burvestību. Lai to izdarītu, viņiem burvestībai jābūt atmiņā vai uz tīstokļa, un tā jāuzbur priekšmetā 24 stundu laikā, pretējā gadījumā viss process būs jāsāk no sākuma. Kad izvēlētās burvestības buršana ir sākusies, process var pārsniegt iepriekš minētās 24 stundas. Priekšmeta piepildīšana ar izvēlēto burvestību izmaksā parasto maģisko punktu skaitu vēlamajai Intensitātei un aizņem 1d12 stundas par katru burvestības pakāpi. Visā piepildīšanas procesā burvim ir jāturpina pieskarties priekšmetam vai jāatrodas rokas stiepiena attālumā atpūtas laikā (kā minēts iepriekš), un pēc buršanās perioda ir nepieciešams "Arcane Casting" metiens, lai veiksmīgi ievadītu burvestību. Tiek ievērotas parastās burvestību izmantošanas sekmes pakāpes; tomēr, runājot par neveiksmes rezultātu, burvestību nevar uzspiest. Secīgas burvestības var tikt ievadītas priekšmetā, ja buršanās process tiek uzsākts 24 stundu laikā pēc iepriekšējās burvestības pabeigšanas. Tas attiecas pat uz gadījumu, kad iepriekšējā burvestība neizdevās. Katra secīga burvestība prasa parastās buršanās izmaksas.
 
-Izmantojot priekšmetu, katru tajā ietverto burvestību var uzburt tikai vienu reizi, tomēr priekšmetā var ievietot vairākas vienas un tās pašas burvestības versijas. Ir arī iespējams ievietot vienu burvestību, kam seko 4. ranga burvestība "Permanency". Šajā gadījumā burvestību var uzburt tik bieži, cik vēlas, ievērojot ierobežojumus, kas noteikti zem "Permanency" burvestības.
+Izmantojot priekšmetu, katra tajā iekļautā burvestība var tikt izmantota tikai vienu reizi, tomēr var tikt ievadītas vairākas tās pašas burvestības versijas, ievērojot iepriekš minēto procedūru. Ir iespējams arī ievadīt vienu burvestību, sekojot tai ar 4. pakāpes burvestības "Pastāvība" izmantošanu. Šajā gadījumā burvestību var izmantot tik bieži, cik vēlaties, ievērojot ierobežojumus, kas noteikti "Pastāvības" burvestības aprakstā.
 
-Nav iespējams ievietot priekšmetā citus maģiskus efektus, kas neatbilst konkrētai burvestībai, un daudzus maģiskus priekšmetus no seniem laikiem mūsdienās vienkārši nevar atjaunot.
+Nav iespējams ievadīt citus maģiskus efektus priekšmetā, kas neatbilst konkrētai burvestībai, un daudzus maģiskus priekšmetus no seniem laikiem mūsdienās vienkārši nav iespējams atdarināt.
 
 ---
-#### Enchant Weapon (Ieroča apburšana)
+#### Ieroča apburšana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 1 minūte |
+| **Pakāpe:** Burvis 3 | **Buršanās laiks:** 1 minūte |
 | **Sfēra:** Nav | **Ilgums:** 5 minūtes/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 ierocis | **Pretestība:** N/A |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Attālums:** Pieskāriens |
+| **Apgabals:** 1 ierocis | **Pretošanās:** N/A |
 
-Kad šī burvestība tiek uzburta, pieskaroties parastam ierocim, ierocis tiek piepildīts ar pagaidu apburšanu, kas piešķir maģisku +1 bojājumu modifikatoru. Tas arī ļauj citādi parastam ierocim trāpīt radībai, kuru var ievainot tikai ar ieročiem, kam ir vismaz +1 apburšana. Burvestību var izmantot, lai apburtu divus ieročus, kuru izmērs ir ½ no "lietas", piemēram, duncīšus, nažus, bultas utt. Citādi vienā uzburšanas reizē var apburt ne vairāk kā vienu ieroci. Esošam maģiskam ierocim bonusu var palielināt par +1, līdz kopējam maksimālajam bonusam +3. Ierocim ar +3 bonusu tiek palielināts izmērs par vienu kategoriju bojājumu nodarīšanai. Apburtam ierocim ir +5 Bruņu punkti un +2 trāpījuma punkti uz katru +1 apburšanu. Šo burvestību var kombinēt ar "Enchant Item" un "Permanency", lai izveidotu ieroci ar ilgstošu apburšanu.
+Kad šī burvestība tiek izmantota, pieskaroties parastam ierocim, ierocim tiek piešķirts pagaidu apburtums, kas dod maģisku +1 bojājumu modifikatoru. Tas arī ļauj citādi parastam ierocim trāpīt radībai, kuru var ievainot tikai ar ieročiem, kam piemīt vismaz +1 apburtums. Burvestību var izmantot, lai apburtu divus ieročus, kuru izmērs ir katram 1/2 no "lietas", piemēram, dunci, nazi, bultu utt. Pretējā gadījumā vienā buršanās reizē var apburt ne vairāk kā vienu ieroci. Esoša maģiska ieroča bonusu var palielināt par +1, kopā līdz maksimālajam bonusam +3. Ierocim ar +3 bonusu tiek palielināts izmērs par vienu kategoriju bojājumu nodarīšanas nolūkos: Liels uz Milzīgu, Milzīgs uz Kolosālu. Apburtam ierocim ir +5 Bruņu punkti un +2 Trāpījuma punkti par katru +1 apburtumu tāda tipa ierocim. Šo burvestību var kombinēt ar "Priekšmeta apburšanas" un "Pastāvības" burvestībām, lai izveidotu ieroci ar ilgstošu apburtumu.
 
 ---
-#### Endure Heat/Cold (Karstuma/aukstuma izturēšana)
+#### Izturēt karstumu/aukstumu
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 raunds |
+| **Pakāpe:** Garīdznieks 1 | **Buršanās laiks:** 1 raunds |
 | **Sfēra:** Aizsardzība | **Ilgums:** 90 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** Pieskāriens |
+| **Apgabals:** 1 mērķis | **Pretošanās:** N/A |
 
-Šī burvestība ļauj burvim pasargāt vienu radību no normāliem karstuma vai aukstuma ekstrēmiem. Saņēmējs ir imūns pret ikdienišķiem dabas temperatūras ekstrēmiem. Izņemot "Heat Metal", pret kuru šī burvestība piedāvā pilnīgu aizsardzību, jebkurš maģiska karstuma vai aukstuma "uzbrukums" (piemēram, sarkanā pūķa liesmas, burvja ledus konuss) automātiski izkliedē aizsardzību, neatkarīgi no tā, kurš elements tika pasargāts. Tomēr pasargātais indivīds var ignorēt pirmos 10 bojājuma punktus raundā, kurā burvestība neizdodas, pieņemot, ka aizsardzība atbilst uzbrukuma tipam.
+Šī burvestība ļauj burvim pasargāt vienu radību no parastām karstuma vai aukstuma galējībām, kā noteikts burvestības izmantošanas brīdī. Burvestības saņēmējs ir imūns pret parastām dabiskām karstuma vai aukstuma galējībām, piemēram, temperatūru zem nulles vai tveicīgu tuksneša karstumu. Izņemot "Karsto metālu", pret kuru šī burvestība piedāvā pilnīgu aizsardzību, jebkurš maģiska karstuma vai aukstuma "uzbrukums", piemēram, sarkanā pūķa liesmu elpa vai burvja aukstuma konusa burvestība, automātiski izkliedē aizsardzību, neatkarīgi no tā, pret kuru elementu aizsardzība bija paredzēta. Tomēr aizsargātā persona var ignorēt pirmos 10 bojājumu punktus raundā, kurā burvestība neizdodas, pieņemot, ka aizsardzība atbilst uzbrukuma veidam. Apgabala iedarbības burvestību gadījumā bojājumi tiek samazināti pirms to piemērošanas.
 
 ---
-#### Energy Drain (Enerģijas izsūkšana)
+#### Enerģijas notecināšana
 
 (Evokācija vai Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 5 | **Buršanas laiks:** 2 darbības |
+| **Pakāpe:** Burvis 5 | **Buršanās laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Endurance |
+| **Izmaksas:** 3 | **Attālums:** Pieskāriens |
+| **Apgabals:** 1 mērķis | **Pretošanās:** Izturība |
 
-Kad uzburta, šī burvestība uzliek upurim divus pastāvīgus noguruma līmeņus, ja tas neiztur pretestības metienu. Noguruma zudums caur "Energy Drain" ir kumulatīvs ar parasto noguruma zudumu; tāpēc pretinieki, kas jau ir novājināti cīņas vai ceļojuma dēļ, ir vairāk uzņēmīgi. "Cure Fatigue" burvestības un eliksīri neietekmē nogurumu, kas zaudēts "Energy Drain" dēļ; tomēr "Restoration" burvestības un ruļļi var pastāvīgi izdziedēt zaudēto nogurumu. Bruņas neietekmē "Energy Drain".
+Izmantojot šo burvestību, tiek uzlikti divi pastāvīgi noguruma zaudējuma līmeņi upurim, kurš nav izturējis "Pretošanās" metienu. Noguruma zaudējums caur "Enerģijas notecināšanu" summējas ar parasto noguruma zaudējumu; tādējādi pretinieki, kas jau ir novājināti cīņā vai ceļojumā, ir jutīgāki pret "Enerģijas notecināšanu". "Noguruma dziedināšanas" burvestības un dziras neietekmē nogurumu, kas zaudēts "Enerģijas notecināšanas" dēļ; tomēr "Atjaunošanas" burvestības un tīstokļi var pastāvīgi izdziedēt zaudēto nogurumu. Bruņām nav ietekmes uz "Enerģijas notecināšanu".
 
 ---
-#### Exorcism (Eksorcisms)
+#### Eksorcisms
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 1d10x100 minūtes |
+| **Pakāpe:** Garīdznieks 3 | **Buršanās laiks:** 1d10x100 minūtes |
 | **Sfēra:** Aizsardzība | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 10 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Attālums:** 10 pēdas |
+| **Apgabals:** 1 mērķis | **Pretošanās:** Gribasspēks |
 
-Ar šo burvestību garīdznieki aicina savu dievību izdzīt garu vai citu pārdabisku spēku, kas pašlaik apsēdis ķermenisku būtni. Eksorcismu var izmantot arī pret dominanci, ko izraisa noteikti objekti un maģiski priekšmeti, burvestības, lāsti un pat šarms. Vai apsēstība ir dominējoša vai slēpta, nav svarīgi. Maģija izdzina visu veidu apsēstības ar intensitāti līdz pusei no burvestības intensitātes. Kas notiek tālāk, ir atkarīgs no būtnes attieksmes un veida, taču agresīvas būtnes ar spēju diskorporēties var tikt kārdinātas iesaistīties cīņā ar citiem tuvumā esošiem mērķiem. Uztveriet to kā maģisku dueli; tomēr, ja būtne uzvar, tā var apsēst zaudētāju. Ja būtne zaudē, tā tiek nosūtīta atpakaļ uz savu izcelsmes plānu. Tādējādi šī burvestība var būt potenciāli bīstama burvim vai viņa biedriem. Buršanas laiks ir ļoti nejaušs un to nevar pārtraukt, netraucējot rituālu.
+Izmantojot šo burvestību, garīdznieki piesauc savu dievību, lai padzītu garu vai citu pārdabisku spēku, kas pašlaik apsēdis kādu ķermenisku būtni, piemēram, dēmoniskas apsēstības gadījumā. "Eksorcismu" var izmantot arī pret noteiktu objektu un maģisku priekšmetu, burvestību, lāstu un pat valdzinājumu dominanci. Nav svarīgi, vai apsēstība ir dominējoša vai slēpta. Maģija izdzina visus apsēstības veidus ar Intensitāti līdz pusei no burvestības Intensitātes. Tas, kas notiek tālāk, ir atkarīgs no entītijas attieksmes un veida (ja tāda ir), bet kareivīgas entītijas ar spēju diskorporēties var tikt kārdinātas iesaistīt citus tuvumā esošus mērķus "Garu cīņā". Traktēt kā "Maģisko dueli", tomēr, ja entītija uzvar, tā var apsēst zaudētāju. Ja entītija zaudē, tā tiek aizsūtīta atpakaļ uz savas izcelsmes plakni. Tādējādi šī burvestība var būt potenciāli bīstama burvim vai viņa biedriem. Buršanās laiks ir ļoti nejaušs un to nevar pārtraukt, neizjaucot rituālu.
 
 ---
-#### Fear (Bailes)
+#### Bailes
 
 (Ilūzija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
+| **Pakāpe:** Burvis 3 | **Buršanās laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 5x20 pēdu konuss | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Attālums:** 0 |
+| **Apgabals:** 5 pēdas x 20 pēdu konuss | **Pretošanās:** Gribasspēks |
 
-Kad šī burvestība tiek uzburta, izplatās terora vilnis, liekot visiem, kas neiztur pretestības metienu, bēgt bailēs. Tie, kurus tas skar, bēg tieši prom no burvja ar sprinta ātrumu uz tik raundiem, cik ir burvestības Intensitāte x2. Šis terors ir tik visaptverošs, ka pretinieki, kas metienā uz pretestību "Fumble", nomet visus turētos priekšmetus, kas nav kaut kādā veidā nostiprināti. Lielas radības (SIZ 21-40) ir mazāk uzņēmīgas pret šo burvestību (pretestības metiens ir "Easy"), bet milzīgu radību (SIZ 41+) pretestības metiens ir "Very Easy".
+Kad šī burvestība tiek izmantota, uz āru izplešas šausmu vilnis, liekot visiem, kas neiztur "Pretošanās" metienu, bēgt bailēs. Tie, kurus tas ietekmē, bēg tieši prom no burvja sprinta ātrumā tik daudz raundu, cik vienāds ar burvestības Intensitāti x2. Šīs šausmas ir tik visaptverošas, ka tie pretinieki, kuriem neveicas (Fumble) metienā, lai pretotos, nomet visus turētos priekšmetus, kas nav kaut kādā veidā nostiprināti. Lielas radības (IZM 21-40) ir mazāk jutīgas pret šo burvestību, jo "Pretošanās" metiens ir "Viegla", un "Pretošanās" metiens Milzīgām radībām (IZM 41+) ir "Ļoti viegla".
 
 ---
-#### Feather Fall (Spalvu kritiens)
+#### Spalvas kritiens
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** Tūlītējs |
+| **Pakāpe:** Burvis 1 | **Buršanās laiks:** Tūlītējs |
 | **Sfēra:** Nav | **Ilgums:** 1 minūte/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 30 pēdas/Intensitāte |
-| **Apgabals:** 5 pēdu rādiuss | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 30 pēdas/Intensitāte |
+| **Apgabals:** 5 pēdu rādiuss | **Pretošanās:** N/A |
 
-Kad šī burvestība tiek uzburta, vairāki cilvēki, radības vai objekti ietekmes apgabalā, ar kopējo SIZ ne vairāk kā 20 uz vienu intensitātes līmeni, tiek samazināti līdz spalvas svaram. Tie, kas atrodas burvestības ietekmē, krīt ne ātrāk kā 10 pēdas raundā/120 pēdas minūtē, un kritiena bojājumi netiek nodarīti, kamēr burvestības ilgums turpinās. Viņi ir tik viegli, ka ir efektīvi imūni pret jebkādu atsitienu, kas lielāks par 5 pēdām, un negūst bojājumus, ja tiek triekti pret kaut ko, jo vienkārši lēni peld atpakaļ.
+Kad šī burvestība tiek izmantota, vairāku cilvēku, radību vai objektu svars burvestības iedarbības apgabalā, kuru kopējais IZM nepārsniedz 20 uz vienu Intensitāti, tiek samazināts līdz spalvas svaram. Tie, kas atrodas zem burvestības ietekmes, krīt ne ātrāk kā 10 pēdas raundā / 120 pēdas minūtē, neradot nekādus kritiena bojājumus, kamēr burvestības ilgums turpinās. Viņi ir tik viegli, ka ir faktiski imūni pret jebkādu atsitienu, kas lielāks par 5 pēdām, un negūst bojājumus, ja iesitas kaut kur, jo vienkārši lēni peld atpakaļ.
 
-Šīs burvestības uzburšana uz lidojošas radības, piemēram, putna vai pūķa, maina tās lidojuma dinamiku tādā veidā, ka nepieciešami "Hard" "Fly" metieni katrā raundā, ja tie vēlas palikt gaisā. Veiksmes gadījumā radība var pārvietoties kā vēlas, bet tikai ar pusi no parastā kustības ātruma, savukārt neizdevies metiens liek radībai maigi vāļāties nekontrolēti nejaušā virzienā. Ja tā vienkārši ļaujas krist, lidojoša radība var izmantot spārnus, lai koriģētu piezemēšanās vietu par 5 pēdām raundā.
+Šīs burvestības izmantošana uz gaisā esošas radības, piemēram, putna vai pūķa, maina tās lidojuma dinamiku tādā veidā, ka ir nepieciešami "Grūti" lidošanas metieni katrā burvestības ilguma raundā, ja tie vēlas palikt gaisā. Veiksmes gadījumā radība var pārvietoties pēc vēlēšanās, taču tikai ar pusi no sava parastā pārvietošanās ātruma, savukārt neveiksmīgs metiens liek radībai nekontrolēti, maigi apgāzties nejaušā virzienā attālumā, kas vienāds ar tās mēģināto pārvietošanās ātrumu. Ja tā vienkārši ļaujas krist, gaisā esoša radība var izmantot savus spārnus, lai pielāgotu nosēšanās vietu par 5 pēdām raundā.
 
-Ja burvestība beidzas pirms skartie ir piezemējušies, viņi atsāk normālu kritiena ātrumu un nosaka kritiena bojājumus no šī punkta.
+Ja burvestība beidzas pirms ietekmētās personas ir piezemējušās, tās atsāk parasto kritiena ātrumu un nosaka kritiena bojājumus no šī brīža.
 
-Pateicoties šīs burvestības tūlītējam buršanas laikam, burvis var izmantot "Feather Fall" gan reaktīvi, gan proaktīvi. Tas ļauj pasargāt no negaidītiem kritieniem vai pat pārtraukt citas darbības, lai palēninātu izšautus projektilus, piemēram, bultas vai šķēpus, kas pēc tam maigi peld uz zemi.
+Pateicoties šīs burvestības tūlītējam buršanās laikam, burvis var izmantot "Spalvas kritienu" gan reaktīvi, gan proaktīvi. Tas ļauj burvestībai pasargāt no negaidītiem kritieniem vai pat pārtraukt citu darbību, lai palēninātu raidītus projektilus, piemēram, bultas vai mestus šķēpus, kas pēc tam maigi uzpeld uz zemes starp uzbrucēju un mērķi, neradot nekādus bojājumus.
 
 | Intensitāte | Izmaksas | Mainīgais efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 min.; 30 pēdu diapazons; 20 SIZ; 120 pēdu kritiens |
-| 2 | 2 | 2 min.; 60 pēdu diapazons; 40 SIZ; 240 pēdu kritiens |
-| 3 | 3 | 3 min.; 90 pēdu diapazons; 60 SIZ; 360 pēdu kritiens |
-| 4 | 4 | 4 min.; 120 pēdu diapazons; 80 SIZ; 480 pēdu kritiens |
+| 1 | 1 | 1 min.; 30 pēdu attālums; kopā ietekmēti 20 IZM; kopā nolaisti 120 pēdas |
+| 2 | 2 | 2 min.; 60 pēdu attālums; kopā ietekmēti 40 IZM; kopā nolaisti 240 pēdas |
+| 3 | 3 | 3 min.; 90 pēdu attālums; kopā ietekmēti 60 IZM; kopā nolaisti 360 pēdas |
+| 4 | 4 | 4 min.; 120 pēdu attālums; kopā ietekmēti 80 IZM; kopā nolaisti 480 pēdas |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Find Familiar (Pazīstamā radības meklēšana)
+#### Atrast pavadoni
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 2d12 stundas |
+| **Pakāpe:** Burvis 1 | **Buršanās laiks:** 2d12 stundas |
 | **Sfēra:** Nav | **Ilgums:** Īpašs |
-| **Izmaksas:** 3/Intensitāte, +1 EXP | **Diapazons:** 0 |
-| **Apgabals:** ½ jūdzes rādiuss/Intensitāte | **Pretestība:** N/A |
+| **Izmaksas:** 3/Intensitāte, +1 EXP | **Attālums:** 0 |
+| **Apgabals:** 1/2 jūdzes rādiuss/Intensitāte | **Pretošanās:** N/A |
 
-Šī burvestība ļauj burvim mēģināt izsaukt "familiar" (pazīstamo radību), kas kļūst par saimnieka maņu un spēka paplašinājumu. Familiar var sarunāties ar savu saimnieku telepātiski un ir labi sargi un skauti. Familiar nogalināšana rada zināmus riskus burvim to ciešās saiknes dēļ, kas padara familiar iegūšanu par zema ranga bīstamību.
+Šī burvestība ļauj burvim mēģināt izsaukt pavadoni, kas kļūst par sava meistara maņu un spēka paplašinājumu. Pavadoņi var sazināties ar savu meistaru telepātiski un ir arī labi sargi un skauti. Pavadoņa zaudēšana rada zināmus riskus maģijas lietotājam to ciešās saiknes dēļ, kas padara pavadoņa iegūšanu par zemas pakāpes briesmām.
 
-Lai izsauktu familiar, burvim jāsāk rituāls, turot kvēlojošas ogles, un, kad tās kvēlo ar intensitāti, pievienot 100 GP vērtu vīraku. Ar šīm degošajām sastāvdaļām burvis turpina rituālu, līdz familiar ierodas vai beidzas buršanas laiks bez panākumiem.
+Lai izsauktu pavadoni, maģijas lietotājam jāsāk rituāls, turot kvēlojošas ogles, un, kad tās deg ar intensitāti, jāpievieno 100 GP vērtībā vīraks. Degot šīm sastāvdaļām, burvim jāturpina rituāls, līdz pavadonis ierodas vai buršanās laiks beidzas bez panākumiem.
 
-Pat ja burvestība ir veiksmīgi uzburta, varbūtība, ka piemērots familiar atsauksies uz burvja saucienu, ir tikai 50%, un burvis drīkst mēģināt šo burvestību tikai reizi gadā. Katrs papildu intensitātes līmenis aiz pirmajiem pagarina burvestības diapazonu par vēl pusjūdzi, kas palielina varbūtību atrast familiar par 5% līdz maksimumam 95%. Nav kontroles pār precīzu radības veidu, kas atsauksies uz saucienu, bet tas, kas ieradīsies, būs uzticīgs kalps un sabiedrotais. Tas, vai konkrētā radība atsauksies uz saucienu, ir atkarīgs no pašas radības; atrašanās apgabalā, kur zināms, ka dzīvo noteikta radība, *negarantē* panākumus.
+Pat ja šī burvestība tiek veiksmīgi izmantota, iespējamība, ka piemērots pavadonis atbildēs uz maģijas lietotāja aicinājumu, ir tikai 50%, un maģijas lietotājs drīkst mēģināt šo burvestību tikai reizi gadā. Katrs papildu Intensitātes līmenis pēc pirmā paplašina burvestības attālumu par vēl pusjūdzi, kas savukārt palielina potenciālā pavadoņa atrašanas iespējamību par 5%, līdz maksimāli 95%. Nav nekādas kontroles pār precīzu radības veidu, kas atbildēs uz aicinājumu, taču tas, kas ieradīsies, būs uzticīgs kalps un sabiedrotais. Tas ir atkarīgs no konkrētās radības, vai tā atbildēs uz aicinājumu, tāpēc atrašanās reģionā, kur zināms, ka mitinās noteikta veida radības, _negarantē_ burvim panākumus.
 
-Ja radība atsaucas uz burvja izsaukumu, burvim vēl jāziedo 1 pieredzes punkts (EXP), lai izveidotu garīgu saikni. Kad tas izdarīts, rituāls ir pabeigts.
+Ja radība atbild uz burvja izsaukumu, maģijas lietotājam tik un tā jāziedo 1 pieredzes metiens, lai izveidotu garīgu saikni starp sevi un pavadoni. Kad tas ir izdarīts, rituāls ir pabeigts.
 
-Kamēr familiar un saimnieks atrodas 120 pēdu attālumā viens no otra, burvis iegūst spēju izmantot familiar maģiskos punktus. Turklāt burvis iegūst telepātisku saikni ar familiar un jebkuras papildu īpašas spējas vai prasmju bonusus, kas norādīti tabulās zemāk.
+Kamēr pavadonis un viņa meistars atrodas 120 pēdu attālumā viens no otra, maģijas lietotājs iegūst spēju izmantot arī pavadoņa maģiskos punktus. Turklāt maģijas lietotājs iegūst telepātisku saikni ar pavadoni un jebkādas papildu īpašas spējas vai prasmju bonusus, kas norādīti zemāk esošajās tabulās.
 
-Familiar nāves gadījumā burvis zaudē 5 pieredzes punktus. Burvis, kuram pašlaik nav pieredzes punktu, zaudē visas turpmākās pieredzes balvas, līdz parāds ir atmaksāts.
+Pavadoņa nāves gadījumā burvis zaudē 5 pieredzes metienus. Burvis, kuram pašlaik nav neviena pieredzes metiena, zaudē visus turpmākos pieredzes metienus, līdz parāds ir nomaksāts.
 
-##### Biežāk sastopamie familiar
+Pavadonim, ja tāds parādās, veids tiek noteikts saskaņā ar šādu tabulu. Vairumā gadījumu kopīgie pavadoņi nav īpaši lieli, esot starp IZM 1-4, un izmanto "Mazo dzīvnieku" aprakstu.
 
-| D100 metiens | Tips | STR/SIZ | POW | Piešķirtās spējas |
+##### Kopīgie pavadoņi
+
+| d100 metiens | Tips | SPĒ/IZM | VAR | Piešķirtās īpašās spējas, visas ietver telepātisku saikni |
 | :-: | :-: | :-: | :-: | :-- |
-| 01-05 | Sikspārnis | 1 | 1d3 | +10% Uztvere (tikai dzirde), var cīnīties tumsā |
-| 06-10 | Mājas kaķis | 1 | 2d3 | Naktsredze, +10% Uztvere (dzirde), +10% Slēpšanās |
-| 11-15 | Vārna | 1 | 2d3 | Verbālā komunikācija\*, +10% Uztvere |
-| 16-20 | Vidējs suns | 1d2+2 | 1d3 | Naktsredze, +10% Uztvere (dzirde/oža), +10% Sekošana |
-| 21-25 | Mazs suns | 1d2 | 1d3 | Naktsredze, +10% Uztvere (dzirde/oža), +10% Sekošana |
-| 26-30 | Sesks | 1 | 1d3 | +10% Uztvere (redze), +10% Izvairīšanās |
-| 31-35 | Varde/Krupis | 1 | 2d3 | +10% Uztvere, var aizturēt elpu 2 min + Endurance |
-| 36-40 | Vanags | 1 | 2d6 | +20% Uztvere, 2x normālais redzes attālums |
+| 01-05 | Sikspārnis | 1 | 1d3 | +10% Uztvere (tikai dzirde), var cīnīties tumsā vai akls bez soda |
+| 06-10 | Kaķis, mājas | 1 | 2d3 | Nakts redzamība, +10% Uztvere (tikai dzirde), +10% Slepenība |
+| 11-15 | Vārna | 1 | 2d3 | Mutiska saziņa*, +10% Uztvere |
+| 16-20 | Suns, vidējs | 1d2+2 (4) | 1d3 | Nakts redzamība, +10% Uztvere (tikai dzirde un oža), +10% Izsekošana |
+| 21-25 | Suns, mazs | 1d2 | 1d3 | Nakts redzamība, +10% Uztvere (tikai dzirde un oža), +10% Izsekošana |
+| 26-30 | Sesks | 1 | 1d3 | +10% Uztvere (tikai redze), +10% Izvairīšanās |
+| 31-35 | Varde/Krupis | 1 | 2d3 | +10% Uztvere, var aizturēt elpu 2 minūtes plus Izturība sekundēs, miniatūru cīņā tēla priekšējie kvadrāti stiepjas uz abām pusēm |
+| 36-40 | Vanags | 1 | 2d6 | +20% Uztvere, 2x parastais redzes attālums |
 | 41-45 | Ķirzaka | 1 | 2d3 | +10% Vieglatlētika, +10% Peldēšana |
-| 46-50 | Pele | 1 | 1d3 | +10% Endurance, +10% Uztvere (oža), +10% Peldēšana |
-| 51-55 | Pūce | 1 | 2d6 | Naktsredze, +10% Uztvere (nakts), +10% Gribasspēks |
-| 56-60 | Žurka | 1 | 1d3 | +10% Endurance, +10% Uztvere (oža), +10% Peldēšana |
-| 61-65 | Krauklis | 1 | 2d6 | Verbālā komunikācija\*, +10% Tirdzniecība, +10% Uztvere |
-| 66-70 | Čūska | 1 | 2d3 | +10% Endurance (indes), +10% Uztvere (garša) |
-| 71-75 | Zebiekste | 1 | 1d3 | +10% Uztvere (dzirde/oža) |
-| 76-00 | Nav familiar diapazonā | - | - | - |
+| 46-50 | Pele | 1 | 1d3 | +10% Izturība, +10% Uztvere (tikai oža), +10% Peldēšana |
+| 51-55 | Pūce | 1 | 2d6 | Nakts redzamība, +10% Uztvere (tikai nakts), +10% Gribasspēks |
+| 56-60 | Žurka | 1 | 1d3 | +10% Izturība, +10% Uztvere (tikai oža), +10% Peldēšana |
+| 61-65 | Krauklis | 1 | 2d6 | Mutiska saziņa*, +10% Komercija, +10% Uztvere |
+| 66-70 | Čūska | 1 | 2d3 | +10% Izturība (tikai pretošanās indei), +10% Uztvere (tikai garša) |
+| 71-75 | Zebiekste | 1 | 1d3 | +10% Uztvere (tikai dzirde un oža) |
+| 76-00 | Nav pavadoņa attālumā | - | - | - |
 
-_\* Kopējā valoda un burvja rasu valoda, ja piemērojams._
-
----
-#### Fireball (Ugunsbumba)
+_\* Kopējā valoda un meistara rases valoda, ja piemērojams._#### Fireball
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 Darbības |
 | **Sfēra:** Nav | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Evade |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Izvairīšanās |
 
-Buršanas pirmajā raundā, burvim uzsākot verbālo inkantāciju un žestus, rokā sāk veidoties maza ogle vai dzirksteles lieluma liesmiņa, lēnām palielinoties līdz nelielai uguns bumbai. Otrajā raundā, kad inkantācija ir pabeigta, burvis imitē bumbas mešanu, kas ar zemu dārdoņu detonē masīvā uguns bumbā. Tai ir mazs spiediens un tā nodara 1d6 punktus bojājuma par katrām 2 intensitātes vienībām visiem upuriem ietekmes apgabalā. Bojājums tiek izmests vienreiz un piemērots katrai mērķa trāpījuma vietai, valkātajām bruņām neaizsargājot, bet maģiskajiem Bruņu punktiem vai dabiskajām bruņām samazinot bojājumus kā parasti.
+Buršanas pirmajā gājienā, maģijas lietotājam uzsākot verbālo inkantāciju un žestus, rokā sāk veidoties neliela ogles vai dzirksteles lieluma liesma, kas lēnām palielinās līdz nelielai uguns bumbai. Otrajā gājienā, kad inkantācija ir pabeigta, maģijas lietotājs atdarina bumbas aizmešanu, kas ar zemu dārdoņu detonē masīvā uguns bumbā. Tai ir neliels spiediens, un tā nodara 1d6 punktus bojājumu par katriem 2 Intensitātes punktiem vai to daļu visiem upuriem Iedarbības apgabalā. Bojājumi tiek mesti vienu reizi un piemēroti katrai mērķa Sitiena Vietai (Hit Locations); valkātās bruņas nesniedz aizsardzību, taču maģiskie Bruņu Punkti vai radības dabiskās bruņas samazina bojājumus kā parasti.
 
-Veiksmīgs "Evade" metiens, noguļoties uz zemes, ļauj upurim izvairīties no bojājumiem. Kādam ar "Artful Dodger" spēju ir iespēja izvairīties, nenoguļoties, bet veiksme samazina bojājumus uz pusi, ja vien viņi neatrodas 5 pēdu attālumā no ietekmes apgabala malas.
+Veiksmīgs Izvairīšanās (Evade) metiens, kura rezultātā upuris nokrīt uz vēdera (prone), ļauj izvairīties no bojājumiem. Kādam ar Mākslinieciski Izvairīga (Artful Dodger) Spēju ir iespēja izvairīties, nenokrītot uz vēdera, taču šajā gadījumā veiksme samazinās bojājumus tikai uz pusi, ja vien viņi neatrodas 5 pēdu attālumā no Iedarbības apgabala robežas.
 
-"Fireball" var aizdedzināt uzliesmojošus materiālus ar varbūtību, kas vienāda ar izmesto bojājumu x5%. Papildinformāciju skatīt sadaļā [Uguns](0007_Game_System.md?id=fire-based-attacks).
+Uguns bumbai ir iespēja aizdedzināt viegli uzliesmojošus materiālus, kas vienāda ar izmesto bojājumu x5%. Papildu informāciju skatiet sadaļā par [Ugunskuriem](0007_Game_System.md?id=fire-based-attacks).
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 pēdu diapazons; 1d6 bojājums |
-| 2 | 4 | 60 pēdu diapazons; 1d6 bojājums |
-| 3 | 5 | 90 pēdu diapazons; 2d6 bojājums |
-| 4 | 6 | 120 pēdu diapazons; 2d6 bojājums |
-| 5 | 7 | 180 pēdu diapazons; 3d6 bojājums |
-| 6 | 8 | 240 pēdu diapazons; 3d6 bojājums |
+| 1 | 3 | 30 pēdu darbības rādiuss; 1d6 bojājumi |
+| 2 | 4 | 60 pēdu darbības rādiuss; 1d6 bojājumi |
+| 3 | 5 | 90 pēdu darbības rādiuss; 2d6 bojājumi |
+| 4 | 6 | 120 pēdu darbības rādiuss; 2d6 bojājumi |
+| 5 | 7 | 180 pēdu darbības rādiuss; 3d6 bojājumi |
+| 6 | 8 | 240 pēdu darbības rādiuss; 3d6 bojājumi |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Fireball, Delayed Blast (Aizkavētā ugunsbumba)
+#### Uguns bumba, Aizkavētā sprādziena
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Burvis 4 | **Buršanas laiks:** 2 Darbības |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 50 pēdas/Intensitāte |
-| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Evade |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** 50 pēdas/Intensitāte |
+| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Izvairīšanās |
 
-Ar izņēmumiem, kas norādīti augstāk un zemāk, šī burvestība darbojas tāpat kā parastā "Fireball" burvestība. "Delayed Blast Fireball" nodara 1d8 punktus bojājuma par katrām 2 intensitātes vienībām visiem upuriem ietekmes apgabalā. Uzbūrot, burvis var iestatīt ugunsbumbu detonēt jebkurā brīdī starp "tūlīt" un piecām minūtēm. Tā lido uz norādīto vietu un tad paliek inerta (maza peldoša ogle) līdz vēlamajam brīdim, kad tā uzliesmo masīvā uguns bumbā.
+Ar iepriekš minētajiem un šajā tekstā norādītajiem izņēmumiem, šī burvestība darbojas tāpat kā parastā Uguns bumbas burvestība. Aizkavētā sprādziena Uguns bumba nodara 1d8 punktus bojājumu par katriem 2 Intensitātes punktiem vai to daļu visiem upuriem Iedarbības apgabalā. Buršanas laikā maģijas lietotājs var iestatīt Uguns bumbu detonēt jebkurā brīdī no tūlītēja līdz pat piecām minūtēm. Tā pārvietojas uz norādīto vietu un tad paliek inerta, kā sīka peldoša ogle, līdz vēlamajam laikam, kad tā uzplaiksnī masīvā liesmu bumbā.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 pēdu diapazons; 1d8 bojājums |
-| 2 | 4 | 100 pēdu diapazons; 1d8 bojājums |
-| 3 | 5 | 150 pēdu diapazons; 2d8 bojājums |
-| 4 | 6 | 200 pēdu diapazons; 2d8 bojājums |
-| 5 | 7 | 250 pēdu diapazons; 3d8 bojājums |
-| 6 | 8 | 300 pēdu diapazons; 3d8 bojājums |
+| 1 | 3 | 50 pēdu darbības rādiuss; 1d8 bojājumi |
+| 2 | 4 | 100 pēdu darbības rādiuss; 1d8 bojājumi |
+| 3 | 5 | 150 pēdu darbības rādiuss; 2d8 bojājumi |
+| 4 | 6 | 200 pēdu darbības rādiuss; 2d8 bojājumi |
+| 5 | 7 | 250 pēdu darbības rādiuss; 3d8 bojājumi |
+| 6 | 8 | 300 pēdu darbības rādiuss; 3d8 bojājumi |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Fire Shield (Uguns vairogs)
+#### Uguns vairogs
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Nav | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Burvis | **Pretestība:** N/A |
+| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 Darbības |
+| **Sfēra:** Nav | **Ilgums:** 2 Minūtes/Intensitāte |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** 0 |
+| **Apgabals:** Burvja paša | **Pretestība:** N/A |
 
-Šī burvestība rada vējainu liesmu vairogu, kas aizdedzina burvi, bet pats par sevi bojājumus nenodara. Liesmas pasargā saņēmēju vai nu no uguns, vai aukstuma, atkarībā no tā, kurš variants atrodas atmiņā: "Chill Shield" (zilas vai zaļas liesmas, aizsargā pret karstumu un uguni) vai "Warm Shield" (violetas vai zilas liesmas, aizsargā pret aukstumu un ledu). Liesmu krāsa jānosaka nejauši (50% iespēja katrai). Šīs liesmas nerada siltumu un izstaro gaismu tikai ar pusi lāpas spilgtuma.
+Šī burvestība rada vārgu liesmu vairogu, kas apdedzina burvi, bet pats par sevi bojājumus nenodara. Tā vietā liesmas aizsargā saņēmēju vai nu no uguns, vai no aukstuma, atkarībā no tā, kurš no diviem variantiem ir atmiņā: Atdzesējošais vairogs (Chill Shield), kas rada zilas vai zaļas liesmas un aizsargā pret karstuma un uguns izraisītiem bojājumiem, vai Sildošais vairogs (Warm Shield), kas rada violetas vai zilas liesmas un aizsargā pret aukstuma un ledus izraisītiem bojājumiem. Liesmu krāsa jānosaka nejauši ar 50% iespējamību katrai, jo fakts, ka abu veidu liesmas var izstarot zilu krāsu, rada neskaidrību uzbrucējam. Lēmums par to, kuru variantu iegaumēt, tiek pieņemts burvestību sagatavošanas laikā, un pēc vēlēšanās var iegaumēt abus. Šīs liesmas neizstaro siltumu un apgaismo apkārtni tikai ar pusi no lāpas spilgtuma. Katra varianta specifika ir sīki izklāstīta zemāk.
 
-- **Chill Shield:** Šīs liesmas ir vēsas un samazina jebkuru uguns vai karstuma izraisītu bojājumu uz pusi. Veiksmīgs pretestības metiens anulē visus bojājumus.
-- **Warm Shield:** Šīs liesmas ir siltas un samazina jebkuru aukstuma izraisītu bojājumu uz pusi. Veiksmīgs pretestības metiens anulē visus bojājumus.
+- **Atdzesējošais vairogs:** Šīs liesmas ir vēsas uz pieskārienu un samazina visus uguns vai karstuma izraisītos bojājumus līdz pusei no kopējā apjoma. Veiksmīgs Pretestības metiens pilnībā novērsīs visus bojājumus. Pretestības metiens ir par vienu pakāpi vieglāks, un Izvairīšanās gadījumā tas nenogāzīs aizstāvi uz vēdera.
+- **Sildošais vairogs:** Šīs liesmas ir siltas uz pieskārienu un samazina visus aukstuma izraisītos bojājumus līdz pusei no kopējā apjoma. Veiksmīgs Pretestības metiens pilnībā novērsīs visus bojājumus. Pretestības metiens ir par vienu pakāpi vieglāks, un Izvairīšanās gadījumā tas nenogāzīs aizstāvi uz vēdera.
 
-Tuvcīņas uzbrukumi pret saņēmēju nodara normālus bojājumus, ja vien netiek izmantots elements, pret kuru ir aizsardzība. Šajā gadījumā burvis ir pasargāts no uzbrukuma elementārās daļas, un uzbrucējs saņem bojājumu, kas vienāds ar nodarīto. Uzbrucēja valkātās bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti vai radības dabiskās bruņas samazina bojājumu kā parasti. Radības ar iedzimtu maģisko pretestību var izkliedēt "Fire Shield" ar veiksmīgu "Willpower" metienu.
+Tuvcīņas uzbrukumi pret kāda no variantiem saņēmēju, neatkarīgi no tā, vai tie ir bruņoti vai neapbruņoti, nodara normālus bojājumus, ja vien netiek izmantots kāds no elementiem, pret kuriem ir aizsardzība. Šajā gadījumā burvis ir pasargāts no uzbrukuma elementārās daļas, un uzbrucējs saņem tikpat lielus bojājumus, kādus pats nodarīja. Uzbrucēja valkātās bruņas nesniedz aizsardzību, taču maģiskie Bruņu Punkti vai radības dabiskās bruņas samazina bojājumus kā parasti. Radības ar iedzimtu Maģisko Pretestību var izkliedēt Uguns vairogu, veicot veiksmīgu Gribasspēka (Willpower) metienu, kad saņēmējam tiek trāpīts pirmo reizi. Ja Maģiskās Pretestības metiens neizdodas, pretinieks vēlāk vairs nevarēs neitralizēt Uguns vairogu.
 
 ---
-#### Flame Strike (Liesmu trieciens)
+#### Liesmu trieciens
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Kauja, Elementālā (Uguns) | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 100 pēdas+20 pēdas/papildu Intensitāte |
-| **Apgabals:** 5 pēdu rādiuss | **Pretestība:** Evade |
+| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 2 Darbības |
+| **Sfēra:** Cīņa, Elementārā (Uguns) | **Ilgums:** Momentāns |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** 100 pēdas+20 pēdas/papildu Intensitāte |
+| **Apgabals:** 5 pēdu rādiuss | **Pretestība:** Izvairīšanās |
 
-Pēc veiksmīgas uzburšanas no augšas nolaižas 30 pēdu augsta liesmu kolonna, apdedzinot garīdznieka norādīto apgabalu. Kolonna nodara 1d8 punktus bojājuma par katrām 2 intensitātes vienībām visiem upuriem ietekmes apgabalā. Veiksmīgs "Evade" metiens, noguļoties vai izveļoties no ietekmes apgabala (nonākot guļus stāvoklī), ļauj upurim izvairīties no bojājumiem.
+Pēc veiksmīgas buršanas no augšas lejup nolaižas 30 pēdu augsts liesmu stabs, apdedzinot garīdznieka norādīto vietu. Stabs nodara 1d8 punktus bojājumu par katriem 2 Intensitātes punktiem vai to daļu visiem upuriem Iedarbības apgabalā. Bojājumus met vienu reizi un piemēro katrai mērķa Sitiena Vietai; valkātās bruņas sniedz pusi aizsardzības, taču maģiskie Bruņu Punkti vai radības dabiskās bruņas samazina bojājumus kā parasti. Veiksmīgs Izvairīšanās metiens, izveļoties vai izmetot sevi ārpus Iedarbības apgabala un nokrītot uz vēdera, ļauj izvairīties no bojājumiem. Kāds ar Mākslinieciski Izvairīga (Artful Dodger) Spēju var izvairīties, nenokrītot uz vēdera, un viņam ir atļauts brīvi pārvietoties tieši ārpus Iedarbības apgabala.
 
-"Flame Strike" var aizdedzināt uzliesmojošus materiālus ar varbūtību, kas vienāda ar izmesto bojājumu x5%. Papildinformāciju skatīt sadaļā [Uguns](0007_Game_System.md?id=fire-based-attacks).
+Liesmu triecienam ir iespēja aizdedzināt viegli uzliesmojošus materiālus, kas vienāda ar izmesto bojājumu x5%. Papildu informāciju skatiet sadaļā par [Ugunskuriem](0007_Game_System.md?id=fire-based-attacks).
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 100 pēdu diapazons; 1d8 bojājums |
-| 2 | 4 | 120 pēdu diapazons; 1d8 bojājums |
-| 3 | 5 | 140 pēdu diapazons; 2d8 bojājums |
-| 4 | 6 | 160 pēdu diapazons; 2d8 bojājums |
-| 5 | 7 | 180 pēdu diapazons; 3d8 bojājums |
+| 1 | 3 | 100 pēdu darbības rādiuss; 1d8 bojājumi |
+| 2 | 4 | 120 pēdu darbības rādiuss; 1d8 bojājumi |
+| 3 | 5 | 140 pēdu darbības rādiuss; 2d8 bojājumi |
+| 4 | 6 | 160 pēdu darbības rādiuss; 2d8 bojājumi |
+| 5 | 7 | 180 pēdu darbības rādiuss; 3d8 bojājumi |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Flesh to Stone (R) (Miesa akmenī)
+#### Miesas pārvēršana akmenī \(R\)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Burvis 4 | **Buršanas laiks:** 2 Darbības |
 | **Sfēra:** Nav | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** 30 pēdas/Intensitāte |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3/Intensitāte | **Darbības rādiuss:** 30 pēdas/Intensitāte |
+| **Apgabals:** 1 Mērķis | **Pretestība:** Gribasspēks |
 
-Kad uzburta, viens upuris diapazonā veic "Willpower" pretestības metienu. Ja neveiksmīgs, viņš un visas pārnēsājamās mantas pilnībā pārvēršas par cietu akmeni. Šī transformācija nav nāve, bet gan sava veida suspendēta animācija. Burvestības apgriezto versiju vai "Wish" var izmantot, lai atjaunotu upura dzīvību. Jebkādi bojājumi, ko upuris cieš, būdams akmens, tiek pārnesti un stājas spēkā tūlīt pēc atjaunošanas. Lielas radības (SIZ 21-40) ir mazāk uzņēmīgas pret šo burvestību (pretestības metiens ir "Easy"), bet milzīgu radību (SIZ 41+) pretestības metiens ir "Very Easy".
+Buršanas laikā vienam upurim Darbības rādiusā tiek atļauts veikt Gribasspēka Pretestības metienu. Ja tas neizdodas, viņš un visas līdzi esošās un valkātās mantas pilnībā pārvēršas cietā akmenī. Šī pārvērtība nav nāve, bet gan sava veida suspendētā animācija (katalepsija). Šīs burvestības apgrieztās versijas vai Vēlēšanās (Wish) burvestības izmantošana var tikt lietota, lai atjaunotu upura dzīvību. Visi bojājumi, ko upuris gūst būdams akmens stāvoklī, saglabājas un stājas spēkā uzreiz pēc atjaunošanas. Lielas radības (IZM 21-40) ir mazāk uzņēmīgas pret šo burvestību, Pretestības metienam esot Viegla (Easy), un Pretestības metiens Milzīgām radībām (IZM 41+) ir Ļoti Viegla (Very Easy).
 
-Burvestības pretstats, "Stone to Flesh", tiek izmantots, lai atjaunotu upuri, un metiens pretestībai nav nepieciešams. Tomēr burvestību var apgriezt, lai pārveidotu akmeni, kas nekad nav bijis dzīvs; izmantojot to radošos veidos, piemēram, 10 kubikpēdu akmens sienu uz katru intensitātes līmeni var pārveidot par mīkstu miesu.
+Burvestības apgrieztā versija, Akmens pārvēršana miesā (Stone to Flesh), tiek izmantota upura atjaunošanai, un nekāds pretestības metiens nav nepieciešams. Tomēr burvestību var apgriezt arī, lai pārveidotu akmeni, kas iepriekš nekad nav bijis dzīvs; to var izmantot dažādos radošos veidos. Piemēram, akmens sienu 10 kubikpēdu apjomā par katru Intensitātes līmeni var pārvērst mīkstā miesā, var tikt izveidots "tunelis" miesā līdz 3 pēdām plats un 10 pēdas garš par katru Intensitāti, viens mērķis, piemēram, akmens statuja, var tikt pārvērsts par ķermeni, un pat akmens golemu ar šīs burvestības palīdzību var pārvērst par miesas golemu. Tomēr pēdējā gadījumā akmens golemam tiktu atļauts veikt Gribasspēka metienu, lai pretotos kā parasti. Šādā veidā miesā pārvērsts akmens ir mīksts un lokans, un, lai gan tas saglabā savus faktiskos Sitiena Punktus (Hit Points), tam nav Bruņu Punktu, tādējādi to ir vieglāk sadalīt gabalos.
 
 ---
-#### Floating Disk (Peldošais disks)
+#### Peldošais disks
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** 30 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 60 pēdas |
+| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 Darbība |
+| **Sfēra:** Nav | **Ilgums:** 30 Minūtes/Intensitāte |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 60 pēdas |
 | **Apgabals:** 3 pēdas plats disks | **Pretestība:** N/A |
 
-Burvis var uzburt šo burvestību, lai izveidotu mirdzošu spēka disku 3 pēdu diametrā un izmantotu to vaļīgu, dažādu priekšmetu pārnēsāšanai. Šis peldošais disks vienmēr paliks 3 pēdas virs zemes un var nest jebkādu daudzumu preču, ja tās nepārsniedz 20 "lietas" uz katru intensitāti un ietilpst uz diska. Salīdzināšanai pieņemiet, ka 1 SIZ ir vienāds ar 3 "lietām". Diska ieliekums parasti neļauj priekšmetiem izkrist, un, ja atstāts bez vadības, disks paliks 5 pēdu attālumā no burvja, sekojot ar 15 pēdu kustības ātrumu.
+Maģijas lietotājs var izmantot šo burvestību, lai radītu mirdzošu spēka disku, kas koncentrēts 3 pēdu diametra aplī, un izmantotu to vaļīgu, dažādu priekšmetu pārnēsāšanai. Šis peldošais disks vienmēr paliks 3 pēdas virs zemes un var nest jebkādu daudzumu preču, ja tās nepārsniedz 20 "Lietu" (Things) par katru Intensitāti un var ietilpt uz diska. Salīdzināšanai pieņemsim, ka 1 IZM ir vienāds ar 3 "Lietām"; tādējādi disks spētu nest nedaudz vairāk par 6 IZM par katru Intensitāti. Diska ieliektā forma parasti neļaus priekšmetiem no tā izripot, un, ja atstāts bez uzraudzības, disks paliks 5 pēdu attālumā no burvja, sekojot tam ar 15 pēdu Pārvietošanās Ātrumu. Tomēr disku var vadīt uz jebkuru punktu 60 pēdu burvestības apgabalā, ja maģijas lietotājs koncentrējas, pat liekot tam palikt noteiktā vietā. Ja maģijas lietotājs ļauj diskam pārvietoties tālāk par 60 pēdām, disks izzudīs, nometot visas nestās mantas zemē. Diskam nevar likt pacelties augstāk par 3 pēdām no zemes.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | 30 min.; nest 1-20 "lietas" |
-| 2 | 2 | 60 min.; nest 21-40 "lietas" |
-| 3 | 3 | 90 min.; nest 41-60 "lietas" |
-| 4 | 4 | 120 min.; nest 61-80 "lietas" |
+| 1 | 1 | 30 min.; nest 1-20 "Lietas" |
+| 2 | 2 | 60 min.; nest 21-40 "Lietas" |
+| 3 | 3 | 90 min.; nest 41-60 "Lietas" |
+| 4 | 4 | 120 min.; nest 61-80 "Lietas" |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Fly (Lidošana)
+#### Lidošana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Nav | **Ilgums:** 30 minūtes/Intensitāte, +1d6x10 minūtes |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 Darbības |
+| **Sfēra:** Nav | **Ilgums:** 30 Minūtes/Intensitāte, +1d6x10 Minūtes |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Apgabals:** 1 Mērķis | **Pretestība:** N/A |
 
-Kad šī burvestība tiek uzburta, burvis var piešķirt vienai radībai (līdz 10 SIZ uz katru intensitāti) lidošanas spēju. Radība iegūst 30 pēdu kustības ātrumu lidojot, pusi no tā kāpjot un dubultu ātrumu niršanas laikā. Visi prasmju sodi, kas attiecas uz zemes kustības ātrumu, attiecas arī uz vēlamo lidošanas ātrumu. Precīzs "Fly" burvestības ilgums nav paredzams, un spēles meistaram tas jāizmet. Ja lidojošajam jāveic "Fly" prasmju metiens, var aizstāt ar "Athletics" vai "Acrobatics" ar divām grūtības pakāpēm.
+Kad šī burvestība tiek izmantota, maģijas lietotājs var dāvāt lidošanas spēju vienai radībai, kuras IZM nepārsniedz 10 par katru Intensitāti. Lidojot radība iegūst 30 pēdu Pārvietošanās Ātrumu, pusi no tā kāpjot augšup un dubultu ātrumu niršanas laikā. Visi prasmju sodi, kas attiecas uz pārvietošanās ātrumu pa zemi, attiecas arī uz vēlamo lidošanas ātrumu, ieskaitot ierobežojumus burvestību lietošanai un cīņai. Lidošanas burvestības precīzs Ilgums nav paredzams, un tas jāmet Spēles Vadītājam, jo tiem, kas atrodas zem tās ietekmes, nevajadzētu precīzi zināt, cik daudz laika ir atlicis. Ja lidotājam ir jāveic Lidošanas (Fly) prasmju metiens, Atletiku vai Akrobātiku var aizstāt ar divām grūtības pakāpēm. Tomēr tēls, kurš bieži izmanto šo burvestību, var izvēlēties attīstīt Lidošanas prasmi kā parasti ar Bāzes Vērtību SPĒ+VEI.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 min. +1d6x10 min.; 1-10 SIZ |
-| 2 | 4 | 60 min. +1d6x10 min.; 11-20 SIZ |
-| 3 | 5 | 90 min. +1d6x10 min.; 21-30 SIZ |
-| 4 | 6 | 120 min. +1d6x10 min.; 31-40 SIZ |
+| 1 | 3 | 30 min. +1d6x10 min.; 1-10 IZM |
+| 2 | 4 | 60 min. +1d6x10 min.; 11-20 IZM |
+| 3 | 5 | 90 min. +1d6x10 min.; 21-30 IZM |
+| 4 | 6 | 120 min. +1d6x10 min.; 31-40 IZM |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Free Action (Brīvā darbība)
+#### Brīvā darbība
 
 (Abjurācija, Apburšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Šarms | **Ilgums:** 10 minūtes/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 2 Darbības |
+| **Sfēra:** Šarms | **Ilgums:** 10 Minūtes/Intensitāte |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Apgabals:** 1 Mērķis | **Pretestība:** N/A |
 
-Kad uzburta, šī burvestība ļauj subjektam rīkoties normāli visā ilgumā, neatkarīgi no citām burvestībām vai efektiem, kas traucē kustību vai soda uzbrukumus. Tas ietver sodu novēršanu no apgrūtinoša reljefa, piemēram, dubļiem un sniega. Zem ūdens subjekts var pārvietoties ar parasto zemes ātrumu, un ieroči (zobeni, cirvji, vāles utt.) uzbrūk ar pilnu spēku. Šī burvestība nepiešķir spēju elpot zem ūdens. Tā neitralizē traucējošās burvestības, piemēram, "Entangle", "Slow", "Hold", "Paralysis", "Web" utt.
+Kad šī burvestība tiek izmantota, tā ļauj subjektam darboties normāli visā tās Ilguma laikā, neskatoties uz citām burvestībām vai efektiem, kas kavē pārvietošanos vai soda uzbrukumus. Tas ietver sodu novēršanu no apgrūtinoša reljefa, piemēram, dubļiem un sniega. Zem ūdens subjekts var pārvietoties ar savu parasto ātrumu uz sauszemes, un ar vicinātiem ieročiem (zobeniem, cirvjiem, vālēm, vālēm utt.) var uzbrukt ar pilnu efektu. Tomēr šī burvestība nedod spēju elpot zem ūdens. Šī burvestība neitralizē kavējošās burvestības, piemēram, Sapīšana (Entangle), Palēnināšana (Slow), Turēšana (Hold), Paralīze, Tīmeklis (Web) utt., attiecībā uz pārvietošanās un darbības sodiem.
 
 ---
-#### Frostbite (Apsaldējums)
+#### Apsaldējums
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** 60 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Endurance |
+| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 Darbība |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 1 | **Darbības rādiuss:** 60 pēdas |
+| **Apgabals:** 1 Mērķis | **Pretestība:** Izturība |
 
-Frostbite darbojas tieši uz dzīviem audiem, radot nejutīgumu un sāpes kādā no saņēmēja ekstremitātēm (piemēram, pirkstos, degunā utt.). Burvim vai nu jāpieskaras konkrētajai vietai, vai jāmet nejauši, ja burvestība tiek uzburta diapazonā. Ja burvestība netiek izturēta, skartā vieta cieš no jutīguma zuduma, kam seko ilgstošas sāpes visā ilgumā, padarot prasmju metienus, kuros izmanto šo vietu, par vienu grūtības pakāpi grūtākus. Frostbite nenodara tiešus bojājumus, bet ierobežo skartās vietas lietošanu uz laiku.
+Apsaldējums iedarbojas tieši uz dzīviem, organiskiem audiem, izraisot nejutīgumu un sāpes kādā no saņēmēja ekstremitātēm, piemēram, pirkstos, kāju pirkstos, sēžamvietā, degunā un ausīs utt. Burvim ir vai nu jāpieskaras konkrētajai ekstremitātei, vai jāmet nejauši, ja burvestība tiek lietota no attāluma. Ja burvestība netiek atvairīta, skartajā zonā rodas sensorisks nejutīgums, kam seko ilgstošas sāpes visā Ilguma laikā, padarot prasmju testus, kuros izmanto šo vietu, par vienu Grūtības Pakāpi grūtākus. Apsaldējums nenodara tiešus bojājumus, bet uz kādu laiku ierobežo skartās vietas izmantošanu. Piemēram, upuris, kurš cieš no apsaldējuma sēžamvietā, nevar sēdēt bez ārkārtēja diskomforta.
 
-Lielas radības (SIZ 21-40) ir mazāk uzņēmīgas pret šo burvestību (pretestības metiens ir "Easy"), bet milzīgu radību (SIZ 41+) pretestības metiens ir "Very Easy".
+Lielas radības (IZM 21-40) ir mazāk uzņēmīgas pret šo burvestību, Pretestības metienam esot Viegla (Easy), un Pretestības metiens Milzīgām radībām (IZM 41+) ir Ļoti Viegla (Very Easy).
 
 ---
-#### Fumble (Kļūme)
+#### Neveiklība (Fumble)
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Nav | **Ilgums:** 1 raunds/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 30 pēdas/Intensitāte |
+| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 Darbības |
+| **Sfēra:** Nav | **Ilgums:** 1 Raunds/Intensitāte |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** 30 pēdas/Intensitāte |
 | **Apgabals:** 10 pēdu rādiuss | **Pretestība:** Gribasspēks |
 
-Šī burvestība liek visiem pretiniekiem ietekmes apgabalā kļūt neveikliem, padarot jebkādus fiziskos prasmju metienus par vienu pakāpi grūtākus un izraisot visus neizdevušos metienus kā "Fumble". Pat fiziskas darbības, kurām parasti nav nepieciešams metiens, piemēram, nokrita priekšmeta pacelšana, skriešana vai kāpšana pa kāpnēm, prasa "Athletics" metienu. Kļūme šajā gadījumā rezultējas "Fumble", parasti neveiklā kritienā vai nejaušā priekšmeta iesperšanā tālāk. Spēles meistaram vajadzētu būt radošam ar "Fumble" rezultātiem; tomēr maz kuriem vajadzētu būt pilnībā nāvējošiem ārpus cīņas situācijām.
+Šī burvestība liek visiem pretiniekiem Iedarbības apgabalā kļūt neveikliem, jebkuriem fiziskās prasmes metieniem kļūstot par vienu pakāpi grūtākiem un visām neveiksmēm izraisot Neveiklību (Fumble). Pat fiziskas darbības, kurām parasti nav nepieciešams prasmju metiens, piemēram, nomesta priekšmeta pacelšana, ātrāka pārvietošanās par iešanu vai kāpšana pa kāpnēm, prasa Atletikas prasmju metienu. Neveiksme šajā gadījumā izraisa Neveiklību, un parasti neveiklu kritienu pārvietošanās gadījumā vai nejaušu priekšmeta aizspēršanu tālāk, mēģinot to pacelt. Spēles Vadītājam jābūt radošam ar Neveiklības metiena rezultātiem; tomēr maziem vajadzētu būt tieši nāvējošiem ārpus cīņas situācijās. Cīņā tomēr Neveiklība tiek uzskatīta kā jebkura cita, un tās rezultātā var rasties Īpašie Efekti kā parasti.
 
-Šo burvestību var uzburt arī uz konkrētu radību, kura cietīs no efektiem visu burvestības ilgumu, ja neizturēs pretestības metienu. Veiksmīgs pretestības metiens ļauj upurim izvairīties no burvestības efektiem pašreizējā raundā.
+Veiksmīgs Pretestības metiens ļauj upurim izvairīties no burvestības efektiem kārtējā Raundā; tomēr, ja upuris nākamajā Raundā joprojām atrodas Iedarbības apgabalā, atkal ir jāveic vēl viens metiens, lai pretotos kā parasti. Sākotnējā uzbrucēja sabiedrotajiem arī būs jāpaliek ārpus Iedarbības apgabala, citādi viņi cietīs no tādiem pašiem ierobežojumiem kā viņu pretinieki.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+Šo burvestību var vērst arī pret konkrētu radību, kura cietīs no efektiem visu burvestības Ilgumu, ja neizdosies Pretestības metiens. Lietojot šādā veidā, Neveiklība nerada Iedarbības apgabalu. Šajā gadījumā veiksmīgs Pretestības metiens izraisa upurim 2. ranga burvestības, Palēnināšanas (Slow), efektus.
+
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 raunds; 30 pēdu diapazons |
-| 2 | 4 | 2 raundi; 60 pēdu diapazons |
-| 3 | 5 | 3 raundi; 90 pēdu diapazons |
-| 4 | 6 | 4 raundi; 120 pēdu diapazons |
+| 1 | 3 | 1 Raunds; 30 pēdu darbības rādiuss |
+| 2 | 4 | 2 Raundi; 60 pēdu darbības rādiuss |
+| 3 | 5 | 3 Raundi; 90 pēdu darbības rādiuss |
+| 4 | 6 | 4 Raundi; 120 pēdu darbības rādiuss |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Gate (Vārti)
+#### Vārti (Gate)
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 5, Burvis 5 | **Buršanas laiks:** 2 raundi |
+| **Rangs:** Garīdznieks 5, Burvis 5 | **Buršanas laiks:** 2 Raundi |
 | **Sfēra:** Izsaukšana | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3 +1/Intensitāte, +3 EXP | **Diapazons:** 100 pēdas |
+| **Izmaksas:** 3 +1/Intensitāte, +3 EXP | **Darbības rādiuss:** 100 pēdas |
 | **Apgabals:** Skatīt zemāk | **Pretestība:** Gribasspēks |
 
-"Gate" burvestības uzburšanai nepieciešams, lai burvis zinātu izsaucamās radības patieso vārdu. Kad veiksmīgi uzburta, atveras portāls starp burvja esošo plānu un radības plānu. Burvestības uzburšana automātiski iegūst radības uzmanību. Šī burvestība ir milzīgi jaudīga un izsūcoša – tā ne tikai maksā 3 maģiskos punktus un 3 pieredzes punktus, bet arī noveco burvi par 5% no viņa paredzamā dzīves ilguma. Ja radība iztur pretestības metienu, tā parasti neieradīsies personīgi, tomēr, pieņemot, ka burvestība ir veiksmīga, "kaut kas" ieradīsies.
+Vārtu buršana prasa, lai burvis zinātu tās būtnes patieso vārdu, kuru vēlas izsaukt, kura parasti ir radība no kādas citas eksistences plaknes, piemēram, dēmons vai velns, eņģelis, pusdievs vai pat dievs. Kad tas veiksmīgi izburts, atveras portāls starp burvja esošo plakni un tās būtnes plakni. Burvestības izmantošana automātiski piesaista būtnes uzmanību, neatkarīgi no tā, vai tā ir veiksmīga vai nē. Šī burvestība ir ārkārtīgi spēcīga un nogurdinoša, izmaksājot burvim ne tikai norādītos 3 Maģijas Punktus un 3 Pieredzes Metienus, bet arī novecinot viņu par 5% no tipiskā mūža ilguma (5 gadi cilvēka burvja gadījumā). Ja būtnei izdodas Gribasspēka Pretestības metiens, viņa parasti nepūlēsies ierasties personīgi, tomēr, pieņemot, ka burvestība ir veiksmīga, kaut kas nāks cauri. Tālāk tabula tiek izmantota, lai noteiktu dažas biežāk sastopamās būtnes, to vidējo Gribasspēku un tipiskos kalpus, kas tiktu nosūtīti viņu vietā. Spēles Vadītājs ir brīvs izvēlēties to, kas vislabāk atbilst pašreizējās kampaņas raksturam.
 
-##### Ekstraplānu radību tabula
+##### Ārpusplaknes būtņu tabula
 
-| Intensitāte | Izmaksas | Mainīgais efekts | Gribasspēks |
+| Intensitāte | Izmaksas | Mainīgs efekts | Gribasspēks |
 | :-: | :-: | :-- | :-- |
-| 1 | 3 | Sub-dēmons vai velns | Kā konkrētajai būtnei |
-| 2 | 4 | Mazais dēmons vai velns | Kā konkrētajai būtnei |
-| 3 | 5 | Mazākais dēmons vai velns | Kā konkrētajai būtnei |
-| 4 | 6 | Lielais dēmons vai velns | Kā konkrētajai būtnei |
-| 5 | 7 | Dēmonu princis/hercogs u.c. | 121-140% |
-| 6 | 8 | Dēmonu lords, augstākais velns u.c. | 141-160% |
-| 7 | 9 | Augstākā dievība | 161-180% |
+| 1 | 3 | Apakš-dēmons vai Apakš-velns | Saskaņā ar konkrēto būtni |
+| 2 | 4 | Mazais dēmons vai velns | Saskaņā ar konkrēto būtni |
+| 3 | 5 | Vidējais dēmons vai velns | Saskaņā ar konkrēto būtni |
+| 4 | 6 | Lielais dēmons vai velns | Saskaņā ar konkrēto būtni |
+| 5 | 7 | Dēmonu/Velnu princis vai hercogs, Arheņģelis vai pusdievs | 121-140% |
+| 6 | 8 | Dēmonu kungs, Arh-velns vai mazā dievība | 141-160% |
+| 7 | 9 | Lielā dievība | 161-180% |
 | 8 | 10 | Valdošā dievība | 181% + |
 
-Atbildes veids lielā mērā būs atkarīgs no konkrētās būtnes, abas puses alianses un pieprasījuma specifikas. Ja būtne uzskata iemeslu par sīkumainu, atbilde var būt jebkas no vienkāršas aiziešanas līdz pat uzbrukumam. Vārti paliks atvērti tik ilgi, kamēr būtne izvēlas palikt šajā pusē, aizveroties aiz tās, kad tā nolemj doties prom.
+Atbildes forma lielā mērā būs atkarīga no konkrētās būtnes, abu pušu saskaņojuma (Alignment) un pieprasījuma specifikas. Ja būtne uzskata, ka iemesli pārtraukumam ir sīkumaini vai nenozīmīgi, viņu atbilde var būt jebkas, sākot no vienkāršas aiziešanas līdz atklātam uzbrukumam. Tomēr izmisuša situācija, īpaši tāda, kurā burvi apdraud kaut kas tāds, kam būtne stingri pretojas, visticamāk, tiks sagaidīta ar labvēlīgāku atbildi. Ja Spēles Vadītājs jūt, ka pastāv pelēkā zona un atbilde ir apšaubāma, burvis un viņa sabiedrotie var mēģināt argumentēt savu viedokli, izmantojot prasmju, glaimu, lūgumu un/vai kukuļošanas kombināciju. Tomēr lielākā daļa būtņu izvairīsies tikt iesaistītas konfliktā ar citām līdzvērtīgas vai lielākas varas būtnēm, un daudzas pieprasīs samaksu vai nu pirms, vai pēc padarītā darba. Vārti paliks atvērti tik ilgi, cik būtne izvēlēsies palikt šajā pusē, aizveroties aiz viņiem, kad viņi nolems doties prom. Šajā laikā citiem ir iespējams šķērsot vārtus, piedāvājot divvirzienu ceļošanu starp abām realitātēm.
 
 ---
-#### Glamour (R) (Šarms/Pretīgums)
+#### Apburošs vilinājums (Glamour) \(R\)
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 Darbība |
 | **Sfēra:** Nav | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 1 | **Diapazons:** 60 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 1 | **Darbības rādiuss:** 60 pēdas |
+| **Apgabals:** 1 Mērķis | **Pretestība:** Gribasspēks |
 
-Glamour padara mērķi pievilcīgu, lai cilvēki dabiski piesaistītos tam. Glamour veids jāizvēlas uzburšanas brīdī – tā var būt palielināts dabisks skaistums, maigāka, jutekliskāka balss vai pat pavedinoša smarža. Lai gan burvestība nepiešķir nekādus mehāniskus ieguvumus, tā nodrošina, ka saņēmējs iegūs iespēju savākt auditoriju, piesaistīt kādas personas uzmanību vai radīt novēršanu.
+Vilinājums padara mērķi pievilcīgu tā, ka cilvēki uz to dabiski tiecas. Vilinājuma raksturs ir jāizvēlas buršanas brīdī, un tas var būt jebkas, sākot no palielināta dabiskā skaistuma, mīkstākas, jutekliskākas balss vai pat vilinoši smaržojošas ķermeņa smaržas. Lai gan burvestība nesniedz nekādus mehāniskus ieguvumus, tā nodrošina, ka saņēmējs iegūs iespēju savākt sev auditoriju, piesaistīt kādas personas uzmanību, ar kuru vēlas sazināties, vai nodrošināt uzmanības novēršanu, kas dod līdzdalībniekiem iespēju veikt nelietīgus darbus.
 
-Kad apgriezta pretēji ("Repugnance"), tā izkropļo mērķa izskatu, izraisot nepatiku visiem, kas viņu redz, dzird vai saož.
-
----
-#### Glue (Līme)
+Kad tas tiek apgriezts, Pretreakcija (Repugnance) izkropļo mērķa izskatu tā, ka viņi izraisa nepatiku visiem, kas viņus redz, dzird vai ož. Efekts jāizvēlas buršanas brīdī un var būt jebkas, sākot no liela kārpas uz deguna gala, augstas, nazālas balss vai pat asa ķermeņa aromāta. Lai ko arī izvēlētos, tas liks cilvēkiem novērsties no upura vai izdomāt ieganstus, lai pēc iespējas ātrāk pamestu viņu klātbūtni.#### Līme
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 0 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 24 stundas |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 2 objekti vai 1 salauzts objekts | **Pretestība:** N/A |
+| **Izmaksas:** 1 | **Darbības rādiuss:** Pieskāriens |
+| **Apgabals:** 2 priekšmeti vai 1 salauzts priekšmets | **Pretestība:** N/A |
 
-Glue sacementē kopā divus cietus, nedzīvus objektus uz burvestības ilgumu, piemēram, ratiņu riteni pie ass vai durvis pie rāmja. Kamēr zem burvestības efekta, priekšmetus nevar atdalīt, ja vien kaut kas aktīvi nemēģina tos ar spēku atraut. Šādā gadījumā burvestībai ir "Brawn" prasme, kas vienāda ar burvja POW x5, un tā neizdodas, ja pret to tiek iestatīts pārāks "Brawn". Kad burvestība beidzas, priekšmeti atdalās, pilnīgi nebojāti.
+Līme uz 24 stundām cementē kopā divus cietus, nedzīvus priekšmetus, piemēram, ratu riteni ar asi vai durvis ar rāmi. Kamēr darbojas burvestības efekts, priekšmetus, neatkarīgi no tā, cik atšķirīgi tie ir, nevar atdalīt, ja vien kāds aktīvi nemēģina tos atraut. Šādā gadījumā burvestībai piemīt SPĒ prasme, kas vienāda ar burvja VAR x5, un tā neizdodas, ja pret to tiek vērsta augstāka SPĒ, pieveicot to pretējā metienā. Kad burvestības darbība beidzas vai tā neizdodas, priekšmeti atdalās, paliekot pilnīgi neskarti.
 
 ---
-#### Haste (Paātrinājums)
+#### Steiga
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 2 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** 3 raundi/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 180 pēdas |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** 180 pēdas |
 | **Apgabals:** 20 pēdu rādiuss, 1 mērķis/Intensitāte | **Pretestība:** N/A |
 
-Viena persona vai radība (ieskaitot sevi) uz katru intensitāti ietekmes apgabalā saņem dubultu kustības ātrumu un +4 bonusu "Initiative". Turklāt mērķis var izvēlēties 2 darbības katrā raundā par katru izmantoto darbības punktu. Tas nekādā veidā nepalielina burvestību buršanas ātrumu. Tāpēc burvis, kurš atrodas "Haste" ietekmē, neburēs burvestības ātrāk. Pateicoties subjekta paātrinātajam metabolismam, katra šīs burvestības uzburšana noveco tēlu par 1% no viņa paredzamā dzīves ilguma. "Haste" burvestības uzburšana atceļ "Slow" efektus. "Haste" nesakrājas pati ar sevi vai līdzīgiem maģiskiem efektiem.
+Viena persona vai būtne (ieskaitot sevi) uz katru Intensitāti burvestības ietekmes apgabalā iegūst dubultu normālo kustības ātrumu un +4 bonusu iniciatīvai uz burvestības ilgumu. Turklāt mērķis var izvēlēties 2 darbības katrā gājienā par katru izmantoto darbības punktu. Tas nekādā veidā nepalielina burvestību izpildes ātrumu vai burvestības ilgumu. Tāpēc burvis, kurš atrodas Steigas ietekmē, neburēs ātrāk un negūs labumu no papildu darbības tajā pašā gājienā, kad tiek skaitītas burvestības. Sakarā ar subjekta paātrināto vielmaiņu, katra šīs burvestības lietošana noveco mērķi par 1% no tā normālā paredzamā mūža ilguma neatkarīgi no ilguma. Cilvēkiem tas būtu aptuveni 1 gads. Skatiet [Novecošanas](0007_Game_System.md?id=aging) noteikumus par puscilvēku rasu vidējo paredzamo mūžu. Steigas uzlikšana atcels Lēnuma efektus, un šajā gadījumā tā neveicinās indivīda novecošanu. Steiga nesummējas pati ar sevi vai līdzīgiem maģiskiem efektiem.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
 | 1 | 3 | 3 raundi; 1 mērķis |
 | 2 | 4 | 6 raundi; 2 mērķi |
@@ -1405,7 +1403,7 @@ Viena persona vai radība (ieskaitot sevi) uz katru intensitāti ietekmes apgaba
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Heal (R) (Dziedināšana)
+#### Dziedināšana \(R\)
 
 (Nekromantija)
 
@@ -1413,28 +1411,28 @@ Viena persona vai radība (ieskaitot sevi) uz katru intensitāti ietekmes apgaba
 | :-- | :-- |
 | **Rangs:** Garīdznieks 4 | **Buršanas laiks:** 1 minūte |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3 +1/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 radība | **Pretestība:** N/A (Endurance vai Evade) |
+| **Izmaksas:** 3 +1/Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Apgabals:** 1 būtne | **Pretestība:** N/A (Izturība vai Izvairīšanās) |
 
-Ar "Heal" uzburšanu garīdznieks ar vienu pieskārienu var izdziedēt fizisku kaiti, garīgu traumu vai ievērojamu daudzumu ievainojumu. Faktiskais atveseļošanās apmērs ir balstīts uz burvestības intensitāti. Par katru intensitātes līmeni burvestība izdziedē vienu jebkādas POT slimību, izārstē jebkuru aklumu vai kurlumu, novērš garīgus traucējumus vai izdziedē vienu trāpījuma vietu par 12 punktiem. Tā neatjaunos atdalītu locekli (tam nepieciešams "Regenerate"). Katru papildu intensitāti var izmantot, lai izdziedētu citu kaiti vai trāpījuma vietu.
+Ar Dziedināšanas uzlikšanu garīdznieks ar vienu pieskārienu var izārstēt fizisku kaiti, garīgu traumu vai ievērojamu daudzumu ievainojumu. Faktiskais atveseļošanās apjoms ir balstīts uz burvestības Intensitāti šādi. Katram Intensitātes līmenim burvestība izdziedē vienu jebkura POT slimību, izārstē jebkādu aklumu vai kurlumu, novērš garīgus traucējumus, ko izraisījis ievainojums vai maģija, vai sadziedē vienu trāpījuma vietu ar līdz pat 12 bojājuma punktiem. Tā tomēr neatjaunos amputētu locekli, jo tam nepieciešama burvestības Reģenerācija izmantošana. Katru papildu Intensitāti var izmantot, lai izārstētu citu kaiti vai sadziedētu citu trāpījuma vietu. Tāpēc būtu nepieciešama 7. Intensitātes uzlikšana, lai izdziedētu indivīdu, kurš guvis apdegumus visam ķermenim. Atšķirībā no mazākām dziedināšanas burvestībām, kas ierobežo savu efektivitāti pret ilgtermiņa traumām, burvestībai nav noteiktu ierobežojumu atkarībā no ilguma, kurā subjekts cietis no traumām.
 
-Kad apgriezta pretēji ("Harm"), tā nodara 12 maģiska ievainojuma punktus vienai no upura trāpījuma vietām, ja pretestības metiens ir neveiksmīgs. Alternatīvi tiek uzsūtīta kaite (tāpat kā "Cause Disease"). Burvja "Channel" metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek pieņemts kā daļa no somatiskās prasības. Nedz valkātās, nedz dabiskās bruņas nepiedāvā aizsardzību, bet maģiskie Bruņu punkti samazina bojājumu kā parasti.
+Apgrieztā veidā Kaitējums nodara 12 maģisku bojājumu punktus vienai no upura trāpījuma vietām, ja neizdodas pretestības metiens. Alternatīvi, viņiem tiek uzlikta kaite, kuras efekti ir tādi paši kā burvestībai Slimības izraisīšana, kas ir Slimības izdziedēšanas pretstats, bet ar +20 POT. Burvja Kanāla metiens darbojas kā metiens, lai trāpītu pretiniekam, un tiek pieņemts kā daļa no burvestības somatiskajām prasībām. Nav nepieciešams papildu metiens trāpīšanai. Ne nēsātās, ne dabiskās bruņas nesniedz nekādu aizsardzību, taču maģiskie Bruņu punkti samazina bojājumus kā parasti un pilnībā bloķē uzliktās kaites. Katra papildu Intensitāte ietekmē citu trāpījuma vietu, kas atrodas blakus pirmajai, ar efektiem, ko nosaka sākotnējais pretestības metiens. Nevienai šīs burvestības versijai nav nekādas ietekmes uz nedzīvajiem (undead), būtnēm, kuras var ievainot tikai ar dzelzs, sudraba vai maģiskiem ieročiem, vai neķermeniskām būtnēm.
 
 ---
-#### Hold Person (Personas apturēšana)
+#### Personas aizturēšana
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2, Burvis 2 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Garīdznieks 2, Mags 2 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Šarms | **Ilgums:** 2 raundi/Intensitāte |
-| **Izmaksas:** 3+1/papildu Intensitāte | **Diapazons:** 360 pēdas |
+| **Izmaksas:** 3+1/papildu Intensitāte | **Darbības rādiuss:** 360 pēdas |
 | **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Gribasspēks |
 
-Šī burvestība ļauj burvim imobilizēt 1 humanoīdu radību par katru intensitāti ietekmes apgabalā. Veiksmīgs metiens uz pretestību pilnībā anulē burvestības efektus tikai attiecīgajam mērķim. Lieli humanoīdi (SIZ 21-40) ir mazāk uzņēmīgi pret "Hold Person" (pretestības metiens ir "Easy"), bet milzīgu humanoīdu (SIZ 41+) pretestības metiens ir "Very Easy". Kamēr turētas, skartās radības ir pilnīgi bezpalīdzīgas, un tikai "Dispel Magic" tās atbrīvos agrāk.
+Šī burvestība ļauj burvim imobilizēt 1 humanoīdu būtni uz katru Intensitāti ietekmes apgabalā. Veiksmīgs pretestības metiens pilnībā neitralizē burvestības efektus tikai šim mērķim. Lieli humanoīdi (IZM 21-40) ir mazāk uzņēmīgi pret Personas aizturēšanu, to pretestības metienam esot vieglam, savukārt milzu humanoīdiem (IZM 41+) pretestības metiens ir ļoti viegls. Kamēr tie ir aizturēti, skartās būtnes ir pilnīgi bezpalīdzīgas, un tikai Burvestības kliedēšana tos atbrīvos priekšlaicīgi.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
 | 1 | 3 | 2 raundi; 1 mērķis |
 | 2 | 4 | 4 raundi; 2 mērķi |
@@ -1443,155 +1441,175 @@ Kad apgriezta pretēji ("Harm"), tā nodara 12 maģiska ievainojuma punktus vien
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Holy Word (R) (Svētais vārds)
+#### Svētais vārds \(R\)
 
-(Konjurācija)
+(Izsaukšana)
 
 | | |
 | :-- | :-- |
 | **Rangs:** Garīdznieks 5 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Kauja | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1 EXP | **Diapazons:** 0 |
+| **Izmaksas:** 3, +1 PVD | **Darbības rādiuss:** 0 |
 | **Apgabals:** 30 pēdu rādiuss | **Pretestība:** N/A |
 
-Kad šī burvestība tiek uzburta, garīdznieks izsaka neticamas dievišķas jaudas vārdu, kas spēj atvairīt ļaunas radības no citiem plāniem; tomēr burvim jābūt savā plānā, lai to izdarītu. Skartās radības tiek nosūtītas atpakaļ uz savu izcelsmes plānu un nevar atgriezties burvja plānā vismaz 24 stundas.
+Kad šī burvestība tiek izmantota, garīdznieks izrunā neticama dievišķā spēka vārdu, kas spēj atvairīt ļaunās būtnes no citām eksistences plaknēm; tomēr burvim ir jāatrodas savā plaknē, lai to izdarītu. Skartās būtnes tiek aizsūtītas atpakaļ uz savas izcelsmes plakni un nevar atgriezties burvja plaknē vismaz 24 stundas.
 
-Turklāt ļaunās alianses radības, kas nav no ārējiem plāniem, cieš papildu efektus atkarībā no būtnes Ranga vai SIZ:
+Turklāt ne-planārās ļaunā saskaņojuma būtnes cieš papildu efektus atkarībā no būtnes Ranga vai IZM, atkarībā no tā, kurš dod izdevīgāku rezultātu, kā sīkāk izklāstīts nākamajā tabulā.
 
-| Mērķa Rangs | Mērķa SIZ | Vispārīgi | Prasme\*\* | Kustība |
+| Mērķa rangs | Mērķa IZM | Vispārēji | Prasme\*\* | Kustība |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | Nogalina | - | - |
 | 2 | 21-40 | Paralizē 1d4 x10 minūtes | - | - |
-| 3 | 41-60 | Palēnina 2d4 raundus \*\*\* | Hard | ½ |
-| 4-5 | 61+ | Kurlina 1d4 raundus | Formidable | ¼ |
+| 3 | 41-60 | Palēnina 2d4 raundus \*\*\* | Grūti | ½ |
+| 4-5 | 61+ | Kurlina 1d4 raundus | Biedējoši | ¼ |
 
-_\* Šī kategorija ietver tēlus, kuriem nav Klases._
+_\* Šajā kategorijā ietilpst tēli, kuriem nav klases._
 
-_\*\* Visas prasmes, ieskaitot cīņu, pretestību un burvestību buršanu._
+_\*\* Visas prasmes, ieskaitot kauju, pretestības metienus un burvestību skaitīšanu._
 
-_\*\*\* Saskaņā ar 2. ranga burvestību [Slow](0010_Spells.md?id=slow)._
+_\*\*\* Saskaņā ar 2. ranga Arkānisko burvestību [Lēnums](0010_Spells.md?id=slow)._
 
-Radības, kas jau ir kurlas vai citādi nespēj dzirdēt burvestību, netiek ietekmētas ar tabulā norādītajiem efektiem, tomēr citas plāna radības joprojām tiek aizdzītas.
+Būtnes, kuras iepriekš tikušas apkurlinātas vai citādi nespēj dzirdēt burvestību, netiek ietekmētas no tabulā norādītajiem efektiem, tomēr citas planārās būtnes tik un tā tiek aizdzītas, kā norādīts iepriekš.
 
-Kad apgriezta pretēji ("Unholy Word"), tā darbojas tāpat, bet attiecībā uz labās alianses radībām.
+Kad apgriezts, Nesvētīgais vārds darbojas kā iepriekš, tomēr tikai attiecībā uz labā saskaņojuma būtnēm.
 
 ---
-#### Ice Storm (Ledus vētra)
+#### Ledus vētra
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 3 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 30 pēdas/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** 30 pēdas/Intensitāte |
 | **Apgabals:** Skatīt zemāk | **Pretestība:** Skatīt zemāk |
 
-"Ice Storm" ir divi efekti, no kuriem vienu izvēlas, burot:
+Ledus vētrai ir divi efekti, no kuriem viens tiek izvēlēts burvestības skaitīšanas brīdī:
 
-Krusa (Ilgums: Tūlītējs): Šis burvestības variants rada lielas krusas bumbas 60 pēdu rādiusā. Tie, kas nonāk šajā apgabalā, saņem 1d10 punktus bojājuma par katrām 2 intensitātes vienībām. Katrs bojājuma kauliņš tiek izmests individuāli un piemērots nejaušām trāpījuma vietām. Uguns radības saņem +3 bojājumus, un aukstuma radības saņem pusi bojājuma. Valkātās bruņas piedāvā pusi aizsardzības. "Evade" metiens (noguļoties) ir efektīvs tikai 5 pēdu attālumā no seguma vai apgabala malas.
+Krusas graudi (Ilgums: Tūlītējs): Šis burvestības variants izraisa lielu krusas bumbu lietu 60 pēdu rādiusā. Tie, kas nonākuši apgabalā, saņem 1d10 bojājuma punktus par katriem 2 Intensitātes punktiem vai to daļu. Katrs bojājuma kauliņš tiek mests atsevišķi un attiecināts uz nejaušām trāpījuma vietām. Uguni izmantojošās būtnes saņem +3 bojājumus no katra krusas sitiena, un aukstumu izmantojošās būtnes saņem pusi bojājumu. Nēsātās bruņas sniedz tikai pusi aizsardzības, taču būtnes dabiskās bruņas (vai maģiskie Bruņu punkti) samazina bojājumus kā parasti. Izvairīšanās metiens, nometoties uz vēdera, ir efektīvs tikai tad, ja atrodas 5 pēdu attālumā no seguma vai ietekmes apgabala malas. Pretējā gadījumā izvairīties no bojājumiem nav iespējams. Veiksmīga izvairīšanās ļauj upurim saņemt pusi no katra metiena bojājumiem. Kādam ar Mākslinieka izvairīšanās spēju ir iespēja izvairīties, nenometoties uz vēdera, un, atrodoties 5 pēdu attālumā no seguma vai ietekmes apgabala malas, veiksmīga metiena gadījumā nesaņems bojājumus, pretējā gadījumā viņi saņems bojājumus kā parasti.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 pēdu diapazons; 1d10 bojājums |
-| 2 | 4 | 60 pēdu diapazons; 1d10 bojājums |
-| 3 | 5 | 90 pēdu diapazons; 2d10 bojājums |
-| 4 | 6 | 120 pēdu diapazons; 2d10 bojājums |
-| 5 | 7 | 150 pēdu diapazons; 3d10 bojājums |
+| 1 | 3 | 30 pēdu rādiuss; 1d10 boj. |
+| 2 | 4 | 60 pēdu rādiuss; 1d10 boj. |
+| 3 | 5 | 90 pēdu rādiuss; 2d10 boj. |
+| 4 | 6 | 120 pēdu rādiuss; 2d10 boj. |
+| 5 | 7 | 150 pēdu rādiuss; 3d10 boj. |
 | +1 | +1 | Turpināt progresiju |
 
-Driving Sleet (Ilgums: 1 raunds/Intensitāte): Šis variants rada dzenošu lietu, kas plosās 60 pēdas plašā un 120 pēdas garā apgabalā, apžilbinot skartos. Zeme apledo, samazinot kustības ātrumu par 50% un nogāžot lidojošos, ja tie neiztur "Formidable" Fly metienu. Tie, kas atrodas uz zemes, katrā raundā jāveic "Athletics" metiens, lai nenokristu.
+Dzenošais slapjdranķis (Ilgums: 1 raunds/Intensitāte): Šis burvestības variants rada dzenošu slapjdranķi, kas virpuļo takai līdzīgā apgabalā, kas ir 60 pēdas plats un 120 pēdas garš, apžilbinot skartos. Faktisko taku var noteikt burvis, kad burvestība tiek skaitīta. Turklāt zeme skartajā apgabalā apledo, palēninot kustības ātrumu par 50% un piezemējot lidotājus, kuriem neizdodas Biedējošs lidošanas prasmes metiens. Tiem, kas atrodas uz zemes, katrā raundā jāveic veiksmīgs Atletikas metiens, lai pretotos nokrišanai uz vēdera, metienam esot par divām pakāpēm grūtākam, ja pārvietojas ātrāk nekā soļojot. Tēls, kam piemīt Akrobātika, var aizstāt šo prasmi, ja vēlas. Ledus izkusīs pēc burvestības ilguma beigām ar ātrumu, ko nosaka Spēles meistars, atkarībā no apkārtējās vides temperatūras; tomēr pat siltā laikā tas ilgs vismaz 10 minūtes. Mazas uguns liesmas, piemēram, ugunskuri un lāpas, tiek automātiski nodzēstas. Šī burvestība neitralizēs burvestības Metāla karsēšana efektus.
 
 ---
-#### Ignite (R) (Aizdedzināšana)
+#### Identificēšana
+
+(Zīlēšana)
+
+| | |
+| :-- | :-- |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 minūte |
+| **Sfēra:** Aizsardzība | **Ilgums:** 1 minūte/Intensitāte |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 0 |
+| **Apgabals:** Burvis | **Pretestība:** N/A |
+
+Ar šīs burvestības skaitīšanu burvis var mēģināt identificēt viena rokās turēta priekšmeta vai objekta maģiskās īpašības (ja tādas ir). Vienkārša pieskaršanās priekšmetam parasti nav pietiekama, priekšmetam ir jābūt uzvilktam vai turētam atbilstoši tā dizainam, piemēram, ķivere jāuzliek galvā, amulets jāapliek ap kaklu, tuvcīņas ierocis stingri jātur, gredzens jāuzliek uz pirksta un tā tālāk. Ja Arkāniskās buršanas metiens ir veiksmīgs, turpmākais Arkānisko zināšanu metiens identificēs vienu maģisko īpašību, kas piemīt priekšmetam. Vienu Arkānisko zināšanu mēģinājumu var veikt katru minūti, kamēr turpinās ilgums. Ja īpašībai ir nepieciešams aktivizācijas vārds, tas tiek identificēts kopā ar īpašību. Priekšmeti ar lādiņiem atklās pašreiz pieejamo kopskaitu, kā arī normālo maksimumu, tāpat kā priekšmeti, kam piemīt maģisko punktu matrica.
+
+Nolādēti priekšmeti parasti tiek aktivizēti, kad aprīkojuma gabals tiek pirmo reizi uzvilkts vai izmantots; tāpēc šīs burvestības skaitīšana pakļaus burvi jebkura lāsta efektiem, ja tāds pastāv. Ja Arkāniskās buršanas prasmju pārbaude ir veiksmīga, burvim tiek dota Gribasspēka pārbaude, lai izvairītos no jebkāda lāsta efektiem. Tas gan neatceļ lāstu uz objekta, taču ļauj burvim noņemt priekšmetu, netiekot ietekmētam.
+
+Pērle vismaz 100 GP vērtībā tiek samalta putekļos un patērēta kopā ar citiem ikdienišķiem burvestību komponentiem, lai skaitītu šo burvestību. Ja veiksmes akmens (Luckstone) tiek saberzts pulverī un pievienots infūzijai, Arkāniskās buršanas metiena grūtības pakāpe ir normāla un visas maģiskās īpašības jebkuram vienam priekšmetam, kas tiek turēts minūtē visā burvestības ilgumā, tiek automātiski apgūtas, bez nepieciešamības veikt turpmākus metienus.
+
+---
+#### Aizdedzināšana \(R\)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Elementālā (Uguns) | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** 10 pēdas |
+| **Rangs:** Mags 0 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Elementārs (Uguns) | **Ilgums:** Tūlītējs |
+| **Izmaksas:** 1 | **Darbības rādiuss:** 10 pēdas |
 | **Apgabals:** 1 maza uguns | **Pretestība:** N/A |
 
-Šo burvestību var izmantot divos atsevišķos veidos: Aizdedzināt vai Dzēst. Izvēle tiek izdarīta uzburšanas brīdī.
+Šo burvestību var izmantot divos atsevišķos veidos: lai aizdedzinātu vai lai nodzēstu. Izvēle, kuru izdarīt, tiek veikta skaitīšanas brīdī.
 
-Ignite darbojas tikai uz uzliesmojošu neorganisko matēriju, izraisot nelielu uguns uzliesmojumu. Tas ir noderīgi sveču, lāpu vai laternu aizdedzināšanai. To var izmantot arī, lai iekurtu ugunskuru vai gatavošanas uguni nelabvēlīgos apstākļos (piemēram, mitrs iekurs vai stiprs vējš).
+Aizdedzināšana darbojas tikai uz uzliesmojošu neorganisku matēriju, izraisot maza objekta vai rokas lieluma apgabala aizdegšanos. Atkarībā no tā, kas tika aizdedzināts, pēc aizdegšanās liesmas var izplatīties, ja vien tās netiek kaut kādā veidā slāpētas vai neitralizētas. Šī burvestība parasti tiek izmantota, lai no attāluma iedegtu sveces, lāpas vai laternas. To var izmantot arī, lai iekurtu ugunskuru vai gatavošanas uguni nelabvēlīgos apstākļos, piemēram, izmantojot mitru iekuru vai stiprā vējā.
 
-Extinguish nekavējoties nodzēš liesmas un mērena izmēra uguni. Tas ir noderīgi sveču, lāpu vai mazu ēdiena gatavošanas ugunskuru slāpēšanai, bet nedarbosies uz maģiskiem vai lielākiem, mežonīgākiem ugunsgrēkiem.
+Nodzēšana nekavējoties slāpē liesmas un mazus mērenus un karstas uguns avotus. Tas ir noderīgi sveču, laternu, lāpu vai mazu ēdiena gatavošanas ugunskuru slāpēšanai, bet tas nedarbosies uz maģiskām vai lielākām, niknākām uguns stihijām, piemēram, sārtiem, degošām mājām vai pūķu liesmām.
 
 ---
-#### Illusion (Ilūzija)
+#### Ilūzija
 
 (Ilūzija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Koncentrēšanās; Skatīt zemāk |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 100 pēdas/Intensitāte |
-| **Apgabals:** 50 pēdu rādiuss/Intensitāte | **Pretestība:** Neticība |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 100 pēdas/Intensitāte |
+| **Apgabals:** 50 pēdu rādiuss/Intensitāte | **Pretestība:** Neticēšana |
 
-Šī burvestība rada vizuālu ilūziju par jebko, ko burvis vēlas. Tai nav efekta uz citām maņām, tā nerada skaņu, smaku, temperatūru vai tekstūru utt.
+Šī burvestība rada vizuālu ilūziju par jebko, ko burvis vēlas. Tai nav ietekmes uz citām maņām, tā nerada skaņu, neizdala smaržu, temperatūru vai tekstūru un tā tālāk.
 
-Šī ilūzija var būt jebkas – no atklātas pļavas līdz senam sarkanajam pūķim, ja tas ietilpst ietekmes apgabalā. Ilūzija ilgs tikai tik ilgi, cik burvis uztur koncentrēšanos, vai līdz pretinieks tai pieskaras vai ienāk tajā; tas izraisa maģijas izjukšanu. Tomēr burvis var uzturēt ilūziju pēc fiziska kontakta, iztērējot 1 maģisko punktu un virzot to reaģēt uz kontaktu, lai neradītu aizdomas.
+Šī ilūzija var būt par jebko, sākot no atklātas pļavas līdz senam sarkanajam pūķim, ja tas ietilpst burvestības ietekmes apgabalā. Ilūzija ilgs tikai tik ilgi, kamēr burvis saglabā koncentrēšanos, vai tiklīdz pretinieks tai pieskaras vai tajā ieiet; tādējādi maģija, kas to uztur, izjūk un ilūzija izkliedējas. Tomēr burvis var saglabāt ilūziju pēc fiziska kontakta, iztērējot 1 maģisko punktu un vadot to atbilstoši reaģēt uz kontaktu, lai neradītu aizdomas. Piemēram, normālos apstākļos ogra ilūzija izgaistu, kad tai trāpītu bulta; tomēr burvis varētu likt ogram izlikties, ka tas norausta trāpījumu un metas uzbrucējam virsū, iztērējot 1 maģisko punktu. Jāatzīmē, ka ilūzija neaptur īsto bultu, un tā joprojām var trāpīt kaut kam vai kādam aiz izpausmes.
 
-Lai gan ilūzija nevar nodarīt fiziskus bojājumus, prāts var tikt pārliecināts, ka jūt sāpes, ciešot ievainojumus vai temperatūras svārstības. Kad burvestība ir uzburta, burvis var pēc vēlēšanās pievienot papildu vizuālos efektus, koncentrējoties uz tiem. Skatīt [Illusions and Phantasms](0009_Magic.md?id=illusions-and-phantasms) nodaļu.
+Lai gan ilūzija nevar nodarīt nekādus reālus bojājumus, kā arī nevar radīt temperatūru, prātu var pārliecināt, ka tas jūt sāpes, cieš no traumām vai jūt ekstremālu karstumu vai aukstumu; tomēr objekti neizskatīsies sasaluši vai degoši, ja vien burvis nekoncentrējas arī uz šiem efektiem. Kad burvestība ir skaitīta, burvis pēc vēlēšanās var pievienot papildu vizuālos efektus, koncentrējoties uz vēlamo efektu. Tas parasti neprasa laiku un var tikt veikts kā bezmaksas darbība. Tātad, piemēram, ja burvis vēlas, lai nomesta iluzora lāpa liktu sausām lapām izskatīties degošām, burvis var koncentrēties kā bezmaksas darbība, lai to izdarītu.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+Skatīt nodaļu [Ilūzijas un fantāzijas](0009_Magic.md?id=illusions-and-phantasms) vairāk informācijas.
+
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | 50 pēdu rādiuss; 100 pēdu diapazons |
-| 2 | 2 | 100 pēdu rādiuss; 200 pēdu diapazons |
-| 3 | 3 | 150 pēdu rādiuss; 300 pēdu diapazons |
-| 4 | 4 | 200 pēdu rādiuss; 400 pēdu diapazons |
+| 1 | 1 | 50 pēdu rādiuss; 100 pēdu rādiuss |
+| 2 | 2 | 100 pēdu rādiuss; 200 pēdu rādiuss |
+| 3 | 3 | 150 pēdu rādiuss; 300 pēdu rādiuss |
+| 4 | 4 | 200 pēdu rādiuss; 400 pēdu rādiuss |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Invisibility (Neredzamība)
+#### Neredzamība
 
 (Ilūzija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 6 stundas/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
 | **Apgabals:** 1 mērķis | **Pretestība:** N/A |
 
-Kad uzburta, subjekts un viss pārnēsājamais aprīkojums pazūd, kļūstot neredzami jebkādai parastai redzei. Tas tomēr nepadara indivīdu neatklājamu ar citiem līdzekļiem, piemēram, dzirdi, pieskārienu, smaržu utt., vai ar dabiskām spējām kā "Life Sense" vai "Sonar".
+Kad šī burvestība tiek skaitīta, subjekts un jebkāds līdzi nēsātais aprīkojums pazūd, kļūstot neredzams visiem normālas redzes veidiem. Tas tomēr nepadara indivīdu nenosakāmu ar citiem līdzekļiem, piemēram, dzirdi, pieskārienu, smaržu un tā tālāk, vai ar tādām dabiskām spējām kā Dzīvības sajūta vai Sonārs.
 
-Tie, kas atrodas neredzamības ietekmē, paliek tādi visā burvestības ilgumā (maks. 24 stundas), ja vien netiek izkliedēti vai subjekts neveic uzbrukumu, tādā gadījumā burvestība tiek anulēta. Citi darbību veidi negatīvi neietekmē burvestības ilgumu, ļaujot subjektam atvērt durvis, runāt, kāpt, skriet utt. Pat burvestību uzburšana neizbeigs ilgumu, ja vien tās negatīvi neietekmē ienaidniekus cīņā.
+Tie, kas atrodas Neredzamības ietekmē, tādi paliek visu burvestības ilgumu (maks. 24 stundas), ja vien netiek kliedēti vai subjekts neveic uzbrukumu, tādā gadījumā burvestība tiek anulēta un indivīds parādās _pēc_ uzbrukuma. Tiktu uzskatīts, ka mērķis atrodas [Pārsteiguma](0008_Combat.md?id=surprise) ietekmē. Neviena cita darbība negatīvi neietekmē burvestības ilgumu, ļaujot subjektam atvērt durvis, runāt, kāpt, skriet, iztīrīt kabatu un tā tālāk. Pat burvestību skaitīšana neizbeigs ilgumu, ja vien tās negatīvi neietekmē vienu vai vairākus konkrētus ienaidniekus kaujā. Daudzas no iepriekš minētajām darbībām varētu ļaut noteikt to ar citiem līdzekļiem, piemēram, iespējama Uztveres pārbaude, lai dzirdētu kādu skrienam garām, vai sajustu, ka kāds tīra kabatu. Spēles meistars piešķirs sodus vai bonusus tiem, kas mēģina veikt noteikšanu, atkarībā no tā, cik pamanāma tā ir.
 
 ---
-#### Invisibility, 10 ft. Radius (Neredzamība 10 pēdu rādiusā)
+#### Neredzamība, 10 pēdu rādiuss
 
 (Ilūzija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 2 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** 6 stundas/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
 | **Apgabals:** 1 mērķis, 10 pēdas | **Pretestība:** N/A |
 
-Šī burvestība darbojas identiski kā [Invisibility](0010_Spells.md?id=invisibility), tomēr visas personas 10 pēdu attālumā no saņēmēja buršanas brīdī arī kļūst neredzamas. Tie, kas atrodas neredzamības ietekmē, redz viens otru; tomēr tas nepiešķir spēju redzēt citas neredzamas radības. Ja kāds iziet ārpus ietekmes apgabala, viņa neredzamība tiek zaudēta.
+Šī burvestība darbojas identiski [Neredzamības](0010_Spells.md?id=invisibility) burvestībai; tomēr visi indivīdi 10 pēdu attālumā no subjekta (kas var būt pats burvis), kad burvestība tiek skaitīta, arī kļūst neredzami. Tie, kas atrodas burvestības ietekmē, var redzēt cits citu; tomēr tas nedod spēju redzēt citas neredzamas būtnes. Ja kāds iziet ārpus ietekmes apgabala, to neredzamība tiek zaudēta, tāpēc ir jābūt uzmanīgiem, lai visi paliktu oriģinālā subjekta darbības rādiusā. Tie, kas atgriežas ietekmes apgabalā pēc tam, kad viņu neredzamība ir zaudēta, vai nebija klāt skaitīšanas brīdī, negūst labumu no tās efektiem. Uzbrukumi, kas veikti no Neredzamības aizsardzības, tostarp aizskaroša burvestību skaitīšana, ko veic kāds cits, nevis sākotnējais subjekts, izjauc neredzamību šai personai, bet neietekmē citus tēlus ietekmes apgabalā. Tomēr uzbrukums, ko veic sākotnējais burvestības subjekts, padara visus atkal redzamus. Skatiet pamata [Neredzamības](0010_Spells.md?id=invisibility) burvestību sīkākai informācijai.
 
 ---
-#### Invisibility, Greater (Lielā neredzamība)
+#### Neredzamība, Lielāka
 
 (Ilūzija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 3 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** 3 raundi/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
 | **Apgabals:** 1 mērķis | **Pretestība:** N/A |
 
-Šī burvestība darbojas kā [Invisibility](0010_Spells.md?id=invisibility), tomēr nekāda darbība no subjekta puses neizbeigs ilgumu agrāk. Subjekts var veikt tuvcīņas vai tālšāvienu uzbrukumus, uzburt burvestības utt. Ir redzami traucējumi, kas rodas darbības veikšanas brīdī, ļaujot ikvienam ar redzamības līniju uz subjektu veikt "Formidable" uztveres ("Perception") metienu, lai atklātu neredzamā uzbrucēja atrašanās vietu.
+Šī burvestība darbojas saskaņā ar pamata [Neredzamības](0010_Spells.md?id=invisibility) burvestību; tomēr neviena subjekta darbība neizbeigs ilgumu priekšlaicīgi. Mērķis var veikt tuvcīņas vai tālās darbības uzbrukumus, skaitīt burvestības un tā tālāk. Ņemiet vērā, ka pastāv redzamas norādes par to, ka darbība ir notikusi, piemēram, vizuāls kropļojums. Tas ļauj ikvienam, kam ir redzes līnija uz subjektu, veikt Biedējošu Uztveres metienu pēc darbības veikšanas, vai iespējams pirms, ja tēls kavējas, lai saskatītu neredzamā uzbrucēja atrašanās vietu. Uzbrukumu ar vienas grūtības pakāpes sodu var veikt tajā pašā raundā, kad subjekts rīkojās, tie, kas uztver neredzamās personas atrašanās vietu. Skatiet burvestību [Neredzamība](0010_Spells.md?id=invisibility) sīkākai informācijai.
 
 ---
-#### Ironhand (Dzelzs roka)
+#### Dzelzsroka
 
 (Abjurācija)
 
@@ -1599,48 +1617,47 @@ Tie, kas atrodas neredzamības ietekmē, paliek tādi visā burvestības ilgumā
 | :-- | :-- |
 | **Rangs:** Garīdznieks 0 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Aizsardzība | **Ilgums:** 10 minūtes |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
+| **Izmaksas:** 1 | **Darbības rādiuss:** Pieskāriens |
 | **Apgabals:** 1 mērķis | **Pretestība:** Nav |
 
-Ironhand ļauj saņēmējam turēt jebko, kas citādi radītu bojājumus (ārkārtīgi karsti vai auksti priekšmeti, skābe), neradot sev ievainojumus. Tādējādi lietotājs var satvert ogli no uguns, pacelt burbuļojošu katlu utt. Tas nepiešķir pilnīgu imunitāti pret bojājumiem, tas tikai aptur siltuma vadīšanu caur saņēmēja ādu. Burvestība neaizsargā uz rokām valkātos priekšmetus (gredzenus, cimdus), tāpēc tie cietīs no avota efektiem.
+Dzelzsroka ļauj subjektam turēt jebko, kas citādi radītu bojājumus (piemēram, ārkārtīgi karstus vai aukstus priekšmetus, vai tādus, no kuriem pil skābe), neradot sev ievainojumus. Tādējādi lietotājs varētu satvert degļi no uguns, pacelt burbuļojošu katlu no iesma vai pat izstiepties cauri tvaika atverei, lai satvertu objektu otrā pusē. Tas nedod pilnīgu imunitāti pret bojājumiem, tas vienkārši neļauj tiem vadīties caur subjekta roku ādu. Burvestība neaizsargā neko, kas nēsāts uz rokas, tāpēc gredzeni, cimdi un tamlīdzīgi priekšmeti cietīs no avota efektiem.
 
----
-#### Knock (R) (Atvēršana)
+---#### Atslēgt (R)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 180 pēdas |
-| **Apgabals:** 1 portāls | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 180 pēdas |
+| **Zona:** 1 atvērums | **Pretestība:** NA |
 
-Šo burvestību var izmantot, lai atvērtu vienas durvis vai citu līdzīgu atveri no koka, akmens vai metāla, ja tā ir slēgta, iestrēgusi, "Held" vai "Mage Locked". Tai nav efekta uz restēm vai vārtiem. Durvīm var būt līdz 25 trāpījuma punktiem uz katru intensitāti. Aizslēgtās durvis tiks atbrīvotas no savām saitēm. Maksimāli divus dažādus aspektus var ietekmēt ar vienu "Knock" uzburšanu. Pret "Mage Locked" durvīm apburšana tiek vienkārši apturēta uz 10 minūtēm, pēc kurām tā atgriežas maģiski slēgtā stāvoklī.
+Šo burvestību var izmantot, lai atvērtu durvis vai līdzīgu koka, akmens vai metāla atvērumu, ja tas ir aizslēgts, iestrēdzis, noturēts (Held) vai Maģiski aizslēgts (Mage Locked). Tai nav ietekmes uz paceļamām restēm vai vārtiem. Durvīm var būt līdz 25 Sitienu punktiem (HP) uz katru Intensitātes pakāpi, un tas attiecas arī uz aizslēgtām lādēm vai kastēm, slepenām durvīm un pat važām un ķēdēm. Pat iepriekš aizmetināts atvērums atbrīvosies no savām saitēm. Ar vienu Atslēgt burvestības reizi var ietekmēt ne vairāk kā divus dažādus aspektus; piemēram, durvīm, kas ir aizbultētas, aizslēgtas un noturētas, būs nepieciešamas 2 Atslēgt burvestības. Pret Maģiski aizslēgtām (Mage Locked) durvīm apburtais stāvoklis tiek vienkārši apturēts uz 10 minūtēm, pēc kurām tas atgriežas savā maģiski aizslēgtajā stāvoklī.
 
-Kad apgriezta pretēji ("Lock"), tā aizver un aizslēdz vienu portālu, kā minēts iepriekš.
+Reversīvā veidā, Aizslēgt (Lock) aizver un aizslēdz vienu atvērumu, kā minēts iepriekš, pieņemot, ka tam ir slēdzenes mehānisms. Var iestatīt līdz divām dažādām funkcijām: aizslēgt, aizbultēt, aizlikt priekšā stieni utt.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | līdz 25 HP portāls; važas, piekaramās slēdzenes utt. |
-| 2 | 2 | līdz 50 HP portāls; koka stiegrotas lādes/durvis |
-| 3 | 3 | līdz 75 HP portāls; dzelzs lāde vai durvis |
+| 1 | 1 | līdz 25 HP atvērums; važas, piekaramās atslēgas, tipiska koka lāde vai durvis |
+| 2 | 2 | līdz 50 HP atvērums; koka stiegrota lāde vai durvis |
+| 3 | 3 | līdz 75 HP atvērums; dzelzs lāde vai durvis |
 
 ---
-#### Know Alignment (R) (Alianses zināšana)
+#### Zināt aliansi (R)
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1, Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 1, Mags 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Zīlēšana | **Ilgums:** 1 raunds/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 30 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 30 pēdas |
+| **Zona:** 1 mērķis | **Pretestība:** Gribasspēks |
 
-Šī burvestība ļauj burvim saskatīt vienas radības aliansi un kaislības. Ja pretestības metiens neizdodas, burvis dievišķi uzzinās mērķa ētisko kodu attiecībā uz likumu, neitralitāti un haosu. Lai saskatītu morālo aliansi (labais, neitralitāte, ļaunums), nepieciešama koncentrēšanās vēl vienu raundu. Katrs nākamais raunds atklās vēl vienu nejaušu atlikušo kaislību. Spēles meistars atklāj atklātās alianses un kaislības "stiprumu".
+Šī burvestība ļauj burvim saskatīt vienas būtnes Aliansi un Kaislības, kurai ir tiesības mest kauliņus pretestībai. Ja pretestības metiens neizdodas, burvis zīlēs mērķa Ētisko kodeksu attiecībā uz Likumu, Neitralitāti un Haosu. Lai saskatītu mērķa morālo Aliansi attiecībā uz Labo, Neitralitāti un Ļauno, nepieciešams koncentrēties vēl vienu raundu. Katrs nākamais raunds pēc šī ļaus saskatīt vēl vienu nejaušu atlikušo Kaislību. Spēles vadītājs atklāj atklātās Alianses un Kaislību "stiprumu" saskaņā ar šādu tabulu:
 
-**Alianses/Kaislību stipruma tabula**
+**Alianses/Kaislības stipruma tabula**
 
 | Procenti | Stiprums |
 | :-: | :-- |
@@ -1649,113 +1666,115 @@ Kad apgriezta pretēji ("Lock"), tā aizver un aizslēdz vienu portālu, kā min
 | 70-99% | Spēcīgs |
 | 100% + | Ļoti spēcīgs |
 
-Burvestības pretstats ("Obscure Alignment") padara mērķa aliansi un kaislības neizlasāmas uz 24 stundām.
+Šīs burvestības reversīvā forma, Aptumšot aliansi (Obscure Alignment), padara mērķa Aliansi un Kaislības nelasāmas uz 24 stundām pat pret Zināt aliansi vai Atklāt Ļauno/Labo burvestībām.
 
 ---
-#### Know Languages (R) (Valodu zināšana)
+#### Zināt valodas (R)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 minūte |
+| **Rangs:** Mags 1 | **Buršanās laiks:** 1 minūte |
 | **Sfēra:** Nav | **Ilgums:** 5 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 saprātīga būtne | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Zona:** 1 saprātīga būtne | **Pretestība:** NA |
 
-Šī burvestība ļauj burvim saprast un lasīt gandrīz jebkuru nemāģisku valodu. Nesarunājas ne-saprātīgu dzīvnieku vai radību "valoda", tikai saprātīgu būtņu patiesās valodas. Burvim jāpieskaras objektam vai radībai, lai saprastu tās nozīmi. Šī burvestība nedod spēju runāt vai rakstīt attiecīgajā valodā.
+Šī burvestība ļauj burvim saprast un lasīt gandrīz jebkuru nemaģisku valodu. Nensaprātīgu dzīvnieku vai būtņu "runa" netiek saprasta, tikai patiesās saprātīgu būtņu valodas. Maģijas lietotājam ir jāpieskaras objektam vai būtnei, lai izprastu tās nozīmi. Šī burvestība nedod spēju runāt vai rakstīt attiecīgajā valodā.
 
-Burvestības pretstats ("Confuse Languages") padara radību nesaprotamu vai tekstu neizlasāmu.
+Šīs burvestības reversīvā forma, Sajaukt valodas (Confuse Languages), padara būtni nesaprotamu jebkuram vai rakstītu tekstu nesalasāmu. Šo reversu var izmantot arī, lai pretdarbotos Zināt valodas burvestībai tās skaitīšanas laikā.
 
 ---
-#### Levitate (Levitācija)
+#### Levitācija
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 10 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 60 pēdas/Intensitāte |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** 60 pēdas/Intensitāte |
+| **Zona:** 1 mērķis | **Pretestība:** Gribasspēks |
 
-Kad uzburta, burvis var izraudzīties sevi, vienu mērķi, radību vai objektu (līdz 20 SIZ + 10 SIZ par katru papildu intensitāti) un levitēt to no zemes. Citu radību nekā burvi var vertikāli pārvietot ar ātrumu 5 pēdas raundā; burvis sevi var pacelt līdz 10 pēdām raundā. Levitācija neprasa koncentrāciju, izņemot augstuma maiņas brīdī. Ja izmantots uz nevēlīgu subjektu, tam ir atļauts pretestības metiens.
+Kad šī burvestība tiek izmantota, maģijas lietotājs var nozīmēt sevi, vienu mērķi, būtni vai objektu, kura IZM nepārsniedz 20 (+10 IZM uz katru papildu Intensitāti), un levitēt šo indivīdu virs zemes. Būtni, kas nav burvis, var pārvietot vertikāli ar ātrumu 5 pēdas cīņas raundā; ja burvestība vērsta uz sevi, burvis var pārvietoties vertikāli līdz 10 pēdām raundā. Levitācija neprasa burvja koncentrēšanos, izņemot augstuma maiņas brīžus. Ja burvestība tiek izmantota pret nevēlamu subjektu, mērķim ir tiesības mest kauliņus pretestībai. Kamēr subjekts atrodas zem šīs burvestības ietekmes, tas nesaņem nekādu horizontālo pārvietošanās iespēju, taču subjekts var spēt pievilkties pie sienas vai klints, ja tā ir sasniedzama. Burvis var pārtraukt šo burvestību jebkurā brīdī.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 min.; 60 pēdu diapazons; 20 SIZ |
-| 2 | 4 | 20 min.; 120 pēdu diapazons; 30 SIZ |
-| 3 | 5 | 30 min.; 180 pēdu diapazons; 40 SIZ |
-| 4 | 6 | 40 min.; 240 pēdu diapazons; 50 SIZ |
+| 1 | 3 | 10 min.; 60 pēdu rādiuss; 20 IZM |
+| 2 | 4 | 20 min.; 120 pēdu rādiuss; 30 IZM |
+| 3 | 5 | 30 min.; 180 pēdu rādiuss; 40 IZM |
+| 4 | 6 | 40 min.; 240 pēdu rādiuss; 50 IZM |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Light (R) (Gaisma)
+#### Gaisma (R)*
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1, Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 1, Mags 1 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Saule | **Ilgums:** 1 stunda/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 180 pēdas |
-| **Apgabals:** 20 pēdu rādiuss/Intensitāte | **Pretestība:** Skatīt zemāk |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 180 pēdas |
+| **Zona:** 20 pēdu rādiuss/Intensitāte | **Pretestība:** Skatīt zemāk |
 
-Kad uzburta, burvja izvēlētajā vietā parādās gaismas globuss. Tas var tikt atcelts jebkurā laikā. Ja uzburts uz radības, mērķim ir atļauts "Willpower" metiens, lai pretotos – veiksmīgs metiens norāda, ka burvestība ir ietekmējusi apgabalu tieši aiz radības, nevis pašu radību. Ja "Light" centrēts uz radības acīm, neizdevies "Willpower" metiens izraisa daļēju aklumu uz burvestības ilgumu.
+Kad šī burvestība tiek izmantota, burvja izvēlētā vietā materializējas gaismas lode, kas var atrasties uz objekta vai pat brīvā gaisā, un to burvis var atsaukt jebkurā laikā. Burvestības ilgums ir 1 stunda uz Intensitāti. Ja to izmanto uz būtnes, mērķim ir tiesības uz Gribasspēka testu, lai pretotos; veiksme nozīmē, ka burvestība skārusi zonu tieši aiz būtnes, nevis pašu būtni. Ja Gaisma tiek centrēta uz būtnes acīm, neizdevies Gribasspēka metiens izraisa daļēju aklumu, kura ilgums ir vienāds ar burvestības ilgumu, palielinot visus prasmes un pretestības metienus, kam nepieciešama redze, par vienu Grūtības pakāpi. Burvestības efekti ir nekustīgi, bet tos var uzlikt uz pārnēsājama vai kustīga objekta.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+_*Šīs burvestības dievišķo versiju var apgriezt, radot pilnīgas un totālas tumsas sfēru, kas darbojas visādā ziņā tāpat kā Arkānā burvestība [Tumsa](0010_Spells.md?id=darkness), izņemot to, ka tai ir īsāks ilgums — 30 minūtes uz Intensitāti._
+
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | 20 pēdu rādiuss; 1 stunda |
-| 2 | 2 | 40 pēdu rādiuss; 2 stundas |
-| 3 | 3 | 60 pēdu rādiuss; 3 stundas |
-| 4 | 4 | 80 pēdu rādiuss; 4 stundas |
+| 1 | 1 | 20 pēdu rādiuss; 1 stunda (30 min. apgriezti) |
+| 2 | 2 | 40 pēdu rādiuss; 2 stundas (1 stunda apgriezti) |
+| 3 | 3 | 60 pēdu rādiuss; 3 stundas (1½ stundas apgriezti) |
+| 4 | 4 | 80 pēdu rādiuss; 4 stundas (2 stundas apgriezti) |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Lightning Bolt (Zibens šautra)
+#### Zibens bulta
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 2 | **Buršanās laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 50 pēdas/Intensitāte |
-| **Apgabals:** 10 pēdas plats ceļš | **Pretestība:** Evade |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** 50 pēdas/Intensitāte |
+| **Zona:** 10 pēdu plata josla | **Pretestība:** Izvairīšanās |
 
-Kā burvis uzsāk verbālo inkantāciju pirmajā raundā, starp pirkstiem sāk dzirksteļot elektriskais lādiņš. Otrajā raundā burvis raida zibens šautru taisnā līnijā cauri visiem mērķiem 10 pēdu platā ceļā burvestības diapazonā. Tas nodara 1d6 punktus bojājuma par katrām 2 intensitātes vienībām visiem upuriem. Bojājums tiek izmests vienreiz un piemērots katrai mērķa trāpījuma vietai.
+Kad maģijas lietotājs sāk verbālo inkantāciju un žestus pirmajā gājienā, starp pirkstiem sāk dzirksteļot elektriskais lādiņš. Otrajā gājienā, kad inkantācija pabeigta, maģijas lietotājs raida zibens lādiņu no pirksta gala, kas līkločos iziet taisnā līnijā cauri visiem mērķiem 10 pēdu platā joslā visā burvestības darbības rādiusa garumā. Šis kaitējums nodara 1d6 punktus bojājumu par katrām 2 Intensitātes pakāpēm vai to daļu visiem upuriem ietekmes zonā. Šis kaitējums tiek izmests vienreiz un piemērots katrai mērķa trāpījuma vietai; gan nēsātie, gan dabiskie bruņu elementi nesniedz aizsardzību, bet maģiskie Bruņu punkti samazina kaitējumu kā parasti.
 
-Aizsardzība pret zibens šautru ir "Evade", noguļoties uz zemes (0 bojājumi). Ar "Artful Dodger" spēju var izvairīties, nenoguļoties, bet veiksme tikai samazina bojājumus uz pusi.
+Veiksmīgs Izvairīšanās metiens, kas rezultējas nogulšanās pozīcijā, ļauj upurim neciest nekādus bojājumus. Personai ar Mākslīgā izvairītāja (Artful Dodger) spēju ir iespēja izvairīties, nenogulstoties, taču veiksmes gadījumā bojājums tiks samazināts tikai uz pusi, ja vien persona neatrodas 5 pēdu attālumā no Ietekmes zonas malas.
 
-Zibens var aizdedzināt uzliesmojošus materiālus ar varbūtību, kas vienāda ar izmesto bojājumu x1%.
+Zibens var aizdedzināt degošus materiālus ar varbūtību, kas vienāda ar izmesto bojājumu skaitu x1%. Papildu informāciju skatiet sadaļā par [Ugunīm](0007_Game_System.md?id=fire-based-attacks). Zibens var arī satriekt vai iznīcināt nedzīvus objektus no milzīgā trieciena.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 pēdu diapazons; 1d6 bojājums |
-| 2 | 4 | 100 pēdu diapazons; 1d6 bojājums |
-| 3 | 5 | 150 pēdu diapazons; 2d6 bojājums |
-| 4 | 6 | 200 pēdu diapazons; 2d6 bojājums |
-| 5 | 7 | 250 pēdu diapazons; 3d6 bojājums |
-| 6 | 8 | 300 pēdu diapazons; 3d6 bojājums |
+| 1 | 3 | 50 pēdu rādiuss; 1d6 bojājumi |
+| 2 | 4 | 100 pēdu rādiuss; 1d6 bojājumi |
+| 3 | 5 | 150 pēdu rādiuss; 2d6 bojājumi |
+| 4 | 6 | 200 pēdu rādiuss; 2d6 bojājumi |
+| 5 | 7 | 250 pēdu rādiuss; 3d6 bojājumi |
+| 6 | 8 | 300 pēdu rādiuss; 3d6 bojājumi |
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Locate Object (R) (Objekta atrašana)
+#### Atrast objektu (R)
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2, Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 2, Mags 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Zīlēšana | **Ilgums:** 1 minūte/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 60 pēdas/Intensitāte | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 0 |
+| **Zona:** 60 pēdas/Intensitāte | **Pretestība:** NA |
 
-Ar "Locate Object" uzburšanu burvis tiek virzīts uz zināmu vai pazīstamu objektu. Objekts var būt jebkura vispārīga prece, piemēram, lāde vai zelts, un burvestība virzīs burvi uz tuvāko tā objekta pārstāvi. Specifiskus objektus var atrast tikai tad, ja burvim ir precīzs mentāls attēls. Burvestība nevar atrast dzīvas būtnes.
+Izmantojot Atrast objektu, burvis tiek virzīts uz zināmu vai pazīstamu priekšmetu, sajūtot virzienu uz to, kamēr burvis stāv un lēnām griežas. Objektam jāatrodas burvestības ietekmes zonā. Objekts var būt jebkura vispārīga lieta, piemēram, gulta, lāde, kāpnes vai zelts, un burvestība virzīs burvi uz tuvāko šāda objekta piemēru. Savukārt konkrēti priekšmeti, piemēram, Tašanas garais zobens, prasa, lai burvim būtu precīzs garīgais tēls, to iepriekš redzot klātienē 30 pēdu attālumā vai izmantojot maģiskus līdzekļus. Tāpēc personisku vai unikālu priekšmetu nevar atrast ar šo burvestību, ja burvis to nepazīst. Burvestība nevar atrast dzīvas vai nedzīvas būtnes.
 
-Pretstats ("Obscure Object") slēpj priekšmetu no atklāšanas ar maģiskiem līdzekļiem.
+Šīs burvestības reversīvā forma, Aptumšot objektu (Obscure Object), paslēpj vienu priekšmetu no maģiskas atklāšanas, piemēram, kristāla bumbām, Atklāt maģiju utt., uz tādu pašu ilgumu.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
 | 1 | 1 | 1 min.; 60 pēdu rādiuss |
 | 2 | 2 | 2 min.; 120 pēdu rādiuss |
@@ -1764,121 +1783,140 @@ Pretstats ("Obscure Object") slēpj priekšmetu no atklāšanas ar maģiskiem l�
 | +1 | +1 | Turpināt progresiju |
 
 ---
-#### Mage Lock (Burvja slēdzene)
+#### Maģiskā slēdzene
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 portāls | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Zona:** 1 atvērums | **Pretestība:** NA |
 
-Šo burvestību var uzburt uz jebkura aizslēdzama objekta. Objekts (līdz 25 trāpījuma punktiem par katru intensitāti) ir pastāvīgi noslēgts, ja vien netiek izsists. "Dispel Magic" izkliedēs to tikai uz vienu raundu, un "Knock" to var īslaicīgi atvērt uz 10 minūtēm. Augstāka ranga burvis nekā oriģinālais burvis var brīvi iziet cauri bez aizsardzības pārkāpšanas.
+Šo burvestību var izmantot uz jebkura aizslēdzama objekta, piemēram, lādes, durvīm, atvēruma vai pat aizslēdzama sējuma. Objekts, kuram var būt līdz 25 Sitienu punktiem uz katru Intensitāti, ir pastāvīgi noslēgts, ja vien tas netiek uzlauzts ar spēku. Kliedēt maģiju (Dispel Magic), kas izmantota ar Intensitāti, kas lielāka par burvestības Magnitūdu, to atvērs tikai uz vienu raundu, un Atslēgt (Knock) var izmantot, lai īslaicīgi atvērtu Maģiski aizslēgtas durvis uz 10 minūtēm, pēc kurām sākotnējā burvestība turpinās darboties. Visbeidzot, maģijas lietotājs ar augstāku Rangu nekā sākotnējais burvis var brīvi iziet cauri Maģiski aizslēgtām durvīm, nepārkāpjot apburto stāvokli, un viņi var pat pieturēt atvērumu citiem. Atšķirībā no Drošā atvēruma (Secure Portal), Maģiski aizslēgti objekti netiek automātiski izjaukti no būtnēm ārpus primārās materiālās plaknes, piemēram, dēmoniem, velniem, eņģeļiem un elementāļiem, vai tiem, kas izmanto materiālās iziešanas burvestības.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 3 | līdz 25 HP portāls; važas, piekaramās slēdzenes |
-| 2 | 4 | līdz 50 HP portāls; koka stiegrotas lādes/durvis |
-| 3 | 5 | līdz 75 HP portāls; dzelzs lāde/durvis/restes |
-| 4 | 6 | līdz 120 HP portāls; mazi pils vārti |
-| 5 | 7 | līdz 150 HP portāls; lieli, stiegroti pils vārti |
+| 1 | 3 | līdz 25 HP atvērums; važas, piekaramās atslēgas, tipiska koka lāde vai durvis |
+| 2 | 4 | līdz 50 HP atvērums; koka stiegrota lāde vai durvis |
+| 3 | 5 | līdz 75 HP atvērums; dzelzs lāde, durvis vai paceļamas restes |
+| 4 | 6 | līdz 120 HP atvērums; mazi pils vārti |
+| 5 | 7 | līdz 150 HP atvērums; lieli, stiegroti pils vārti |
 
 ---
-#### Magic Missile (Maģiskais lādiņš)
+#### Maģiskā bulta
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 100 pēdas/Intensitāte |
-| **Apgabals:** 1-5 mērķi | **Pretestība:** Skatīt zemāk |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 100 pēdas/Intensitāte |
+| **Zona:** 1-5 mērķi | **Pretestība:** Skatīt zemāk |
 
-Kad šī burvestība tiek uzburta, viena vai vairākas maģiskās enerģijas lādiņi izšaujas no burvja pirkstu galiem un trāpa mērķim. Maksimālais lādiņu skaits ir atkarīgs no burvja "Arcane Casting" prasmes līmeņa. "Magic Missile" trāpa nepārprotami. Pretiniekam ar "Shield" burvestību izdodas to novirzīt. Lādiņi nodara 1d6+1 punktus bojājuma.
+Kad šī burvestība tiek izmantota, viena vai vairākas maģiskas enerģijas bultas izšaujas no maģijas lietotāja pirkstu galiem un trāpa mērķī. Maksimālais bultu skaits, ko var ģenerēt, ir atkarīgs no burvja Arkānās buršanās prasmes līmeņa: otrā bulta tiek ģenerēta pie 60% prasmes, trešā pie 70%, ceturtā pie 80% un piektā, pēdējā bulta pie 90%. Lai ģenerētu šīs bultas, burvestība ir jāskaita ar Intensitāti, kas vienāda ar vēlamo bultu skaitu. Piemēram, zem 60% prasmju līmeņa, maģijas lietotājs, kurš skaita Maģisko bultu ar 3 Intensitāti, iegūs lielāku darbības rādiusu, taču tiks ģenerēta tikai viena bulta. Maģijas lietotājs ar 70% prasmju līmeni varētu skaitīt burvestību ar tādu pašu 3 Intensitāti, iegūt tādu pašu rādiusu, bet spētu ģenerēt 3 bultas. Šīs burvestības maksimālā Intensitāte ir 5. Skatīt tabulu zemāk.
 
-| Intensitāte | Izmaksas | Mainīgais efekts |
+Maģiskā bulta trāpīs nekļūdīgi, pat ja mērķis atrodas tuvcīņā vai tam ir daļējs segums. Šīs bultas nevar novērst ar izvairīšanos; tomēr pretiniekus ar pilnīgu segumu ar šo burvestību nevar tēmēt. Vairoga (Shield) burvestība automātiski atvairīs Maģiskās bultas, pieņemot, ka mērķis par to zina un/vai ir pagriezts pret burvi. Maģiskās bultas nodara 1d6+1 punktus bojājumu, un nēsātie bruņu elementi neaizsargā, bet būtnes dabiskie bruņu elementi vai maģiskie Bruņu punkti samazina kaitējumu kā parasti. Maģiskās bultas nenodara kaitējumu nedzīviem objektiem, piemēram, durvīm, slēdzenēm utt.
+
+Šaujot vairākas bultas, burvis var likt tām trāpīt vienai būtnei vai tēmēt uz vairākām būtnēm. Katra Maģiskā bulta trāpīs nejaušā trāpījuma vietā – konkrētas trāpījuma vietas nevar izvēlēties. Burvim jānorāda katras bultas individuālie mērķi pirms bojājumu metiena.
+
+| Intensitāte | Izmaksas | Mainīgs efekts |
 | :-: | :-: | :-- |
-| 1 | 1 | 100 pēdu diapazons; 1 lādiņš |
-| 2 | 2 | 200 pēdu diapazons; 2 lādiņi (60% prasme) |
-| 3 | 3 | 300 pēdu diapazons; 3 lādiņi (70% prasme) |
-| 4 | 4 | 400 pēdu diapazons; 4 lādiņi (80% prasme) |
-| 5 max. | 5 | 500 pēdu diapazons; 5 lādiņi (90% prasme) |
+| 1 | 1 | 100 pēdu rādiuss; 1 bulta |
+| 2 | 2 | 200 pēdu rādiuss; 2 bultas, ja 60% prasme |
+| 3 | 3 | 300 pēdu rādiuss; 3 bultas, ja 70% prasme |
+| 4 | 4 | 400 pēdu rādiuss; 4 bultas, ja 80% prasme |
+| 5 maks. | 5 | 500 pēdu rādiuss; 5 bultas, ja 90% prasme |
 
 ---
-#### Magic Mouth (Maģiskā mute)
+#### Maģiskā mute
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 1 minūte |
+| **Rangs:** Mags 2 | **Buršanās laiks:** 1 minūte |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 30 pēdas |
-| **Apgabals:** 1 objekts | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** 30 pēdas |
+| **Zona:** 1 objekts | **Pretestība:** NA |
 
-Šī burvestība uz objekta rada muti, kas maģiski parādās, kad aktivizējas burvja norādītais notikums vai laiks. Šī mute pēc tam izrunā burvja izvēlētu frāzi (ne vairāk kā 25 vārdi). Burvestība ir pastāvīga, līdz tiek aktivizēta.
+Šī burvestība rada muti uz priekšmeta vai objekta, kas maģiski parādās, kad to iedarbina konkrēts notikums vai laiks, ko maģijas lietotājs noteicis burvestības skaitīšanas brīdī. Šī mute pēc tam izrunās jebkuru iepriekš noteiktu frāzi, ko burvis izvēlējās skaitīšanas laikā. Šī frāze nedrīkst pārsniegt 25 vārdus, un mute tos izrunā ar ātrumu aptuveni 1 vārds sekundē. Mute nedrīkst izrunāt varas vārdus vai skaitīt burvestības.
+
+Šo burvestību var skaitīt uz jebkura parasti nedzīva objekta, sākot no staba vai koka līdz akmens sienai vai lādē; tomēr tā ir īpaši efektīva, ja to izmanto uz statujas, jo šķitīs, ka pati statuja runā. To nevar izmantot uz nevienas dzīvas būtnes, kurai ir jebkāda veida inteliģence vai instinkts. Tas attiecas arī uz būtnēm, kuras iepriekš bijušas dzīvas. Skaitot šo burvestību, maģijas lietotājs nosaka situāciju, kas aktivizēs apburto stāvokli. To var izstrādāt tā, lai iedarbinātu ar jebko, sākot no izrunāta vārda līdz jebkāda trokšņa radīšanai. Tas var būt tik vispārīgs kā "kad nākamā persona ienāks šajā telpā..." vai tik specifisks kā "kad Sedonas garīdzniece ienāks 10 pēdu attālumā no statujas zāles galā sestdienā...". Iedarbinošais efekts nevar būt tāds, ko nevar saskatīt nemaģiski, piemēram, neredzama būtne, būtnes Alianse, prasme, Klase utt. Tomēr tas var norādīt uz valkāto apģērbu. Maksimālais attālums, kādā burvestību var iedarbināt, ir 25 pēdas uz Intensitāti.
+
+Šīs burvestības ilgums ir pastāvīgs līdz brīdim, kad apburtais stāvoklis tiek aktivizēts, un tad burvestība beidzas.
 
 ---
-#### Magic Tricks (Maģiskie triki)
+#### Maģiskie triki
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 0 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 1 | **Diapazons:** 0 |
-| **Apgabals:** 30 pēdu rādiuss | **Pretestība:** Nav |
+| **Izmaksas:** 1 | **Darbības rādiuss:** 0 |
+| **Zona:** 30 pēdu rādiuss | **Pretestība:** Nav |
 
-Tie ir lieliska izklaide, taču nespēj nodarīt nekādu kaitējumu vai radīt traucēkli cīņā.
+Maģiskie triki ir lielisks izklaides veids vienkāršo ļaužu, apspiesto un jo īpaši bērnu vidū. Daži efekti, ko bieži rada ar Maģiskajiem trikiem, ir vēja pūsmas sveču liesmu raustīšanai, sudraba monētas izvilkšana no bērna auss aizmugures, zieda ātra plaukšana, kāršu triki, spokainas ēteriskas mūzikas radīšana, kas nāk no nekurienes, utt. Maģiskie triki nespēj nodarīt pat vienu bojājuma punktu vai jebkādu uzmanības novēršanu cīņā, taču tos var izmantot, lai noturētu pūli aizņemtu, kamēr pārējā grupa paslepus paiet garām.
 
 ---
-#### Meteor Shower (Meteorītu lietus)
+#### Meteorītu lietus
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 5 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 5 | **Buršanās laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** 20 pēdas/Intensitāte |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** Evade |
+| **Izmaksas:** 3/Intensitāte | **Darbības rādiuss:** 20 pēdas/Intensitāte |
+| **Zona:** Skatīt zemāk | **Pretestība:** Izvairīšanās |
 
-Kad burvis uzbur šo burvestību, divi mikrometeorīti par katru intensitātes līmeni izšaujas no izstieptās rokas. Tie eksplodē, radot vairākus uguns sprādzienus. Katrs meteorīts nodara 1d10 punktus uguns bojājuma tiem, kas ir ietekmes apgabalā.
+Kad maģijas lietotājs skaita šo burvestību, divi mikrometeorīti uz katru Intensitātes līmeni izšaujas no izstieptās rokas. Meteorīti lido arkā pret mērķi, ietriecoties lejupvērstā trajektorijā, atstājot dzirksteļu un pelnu taku aiz sevis. Pēc trieciena tie detonē vairākos uguns sprādzienos ap mērķa punktu. Pirmais meteorīts vienmēr trāpa mērķa vietā, savukārt jebkuri papildu meteorīti trāpa nejauši ap to, katram sprādziena rādiuss ir 30 pēdas. Lai noteiktu, kur tie trāpa, metiet 1d8 virziena noteikšanai.
+
+<div style="text-align: center;">
+    <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
+</div>
+
+Katrs meteorīts nodara 1d10 punktus uguns kaitējuma tiem, kas atrodas ietekmes zonā. Tomēr katra sprādziena rādiusa dēļ daudzi pārklāsies, nodarot papildu kaitējumu tiem, kam nepaveiksies tajos nokļūt. Bojājumu metieni tiek summēti un piemēroti katrai mērķa trāpījuma vietai; nēsātie bruņu elementi nesniedz aizsardzību, bet maģiskie Bruņu punkti vai būtnes dabiskie bruņu elementi samazina kaitējumu kā parasti.
+
+Veiksmīgs Izvairīšanās metiens ļauj upurim neciest nekādus bojājumus. Personai ar Mākslīgā izvairītāja (Artful Dodger) spēju ir iespēja izvairīties, nenogulstoties, taču veiksmes gadījumā bojājums tiks samazināts tikai uz pusi, ja vien persona neatrodas 5 pēdu attālumā no Ietekmes zonas malas.
+
+Visiem, ieskaitot tos, kas atrodas ārpus Ietekmes zonas, bet 60 pēdu attālumā no trieciena punkta, jāveic sekmīgs Atletikas metiens, lai paliktu stāvam.
+
+Meteorītu lietum ir varbūtība aizdedzināt degošus materiālus, kas vienāda ar izmesto bojājumu skaitu x5%. Papildu informāciju skatiet sadaļā par [Ugunīm](0007_Game_System.md?id=fire-based-attacks).
 
 ---
-#### Might (Spēks)
+#### Spēks (Might)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Kauja | **Ilgums:** Trigeris |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Nav |
+| **Rangs:** Garīdznieks 0, Mags 0 | **Buršanās laiks:** 1 darbība |
+| **Sfēra:** Cīņa | **Ilgums:** Trigeris |
+| **Izmaksas:** 1 | **Darbības rādiuss:** Pieskāriens |
+| **Zona:** 1 mērķis | **Pretestība:** Nav |
 
-Might ļauj saņēmējam iesaistīties iespaidīgā fiziskā spēka aktā, pieskaitot burvja POW pie saņēmēja "Brawn" prasmēm. Tas nepalielina "Damage Modifier".
+Spēks (Might) ļauj saņēmējam veikt iespaidīgu fiziska spēka darbību, pieskaitot burvja VAR pie saņēmēja Spēka (Brawn) prasmes. Tas nepalielina tēla Kaitējuma modifikatoru, nodarot cīņas bojājumus.
 
 ---
-#### Mirror Image (Spoguļattēls)
+#### Spoguļattēls
 
 (Ilūzija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 2 | **Buršanās laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 3 raundi/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 5 pēdu rādiuss | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 0 |
+| **Zona:** 5 pēdu rādiuss | **Pretestība:** NA |
 
-Kad šī burvestība tiek uzburta, 2d4 burvja dublikāti parādās 5 pēdu rādiusā, precīzi atdarinot burvja kustības. Turklāt viss ietekmes apgabals trīc un mirdz, padarot burvja precīzās atrašanās vietas noteikšanu neiespējamu. Trāpījums pa ilūziju liek tai izzust; tomēr pārējie attēli paliek neskarti.
+Kad šī burvestība tiek izmantota, 5 pēdu rādiusā parādās 2d4 maģijas lietotāja dubultnieki, kas precīzi atdarina burvja kustības. Turklāt visa ietekmes zona viļņojas un mirgo, padarot burvja precīzās atrašanās vietas noteikšanu neiespējamu. Trāpīšana kādam no ilūzijas attēliem liek tam izzust; tomēr atlikušie attēli paliek neskarti. Trāpīšanai burvim nav nekādas ietekmes uz atlikušajiem attēliem, un, tā kā attēli pastāvīgi mainās, nav iespējams zināt, vai mērķis ir īstais burvis, ja notiek atkārtots uzbrukums. Jebkuri ievainojumi, ko cieš burvis, tiek dubultoti arī uz attēliem. Spēles vadītājs var izmantot vairākus veidus, kā noteikt, vai trāpīts faktiskajam burvim vai kādam no attēliem. Viens no tiem ir noteikt, cik potenciālo mērķu ir pieejams, ieskaitot burvi, un mest kauliņu ar tuvāko denomināciju. Piemēram, ar 4 attēliem un burvi, uzbrucējam vajadzētu mest 1d6, pārmetot 6 rezultātu, kur burvim trāpa uz 1. Cits veids būtu izmantot vairākus marķierus atbilstoši potenciālo mērķu skaitam, atzīmējot vienu kā burvi. Katru reizi, kad tiek veikts uzbrukums, tiek izvilkts marķieris, un, ja mērķis ir trāpīts, tiek piemērots kaitējums; pretējā gadījumā attēls pazūd, noņemot vienu no marķieriem. Attēli pazūd burvestības ilguma beigās.
 
----
-#### Neutralize Poison (R) (Indes neitralizēšana)
+---#### Indīdes Neutralizēšana (N)
 
 (Nekromantija)
 
@@ -1886,55 +1924,120 @@ Kad šī burvestība tiek uzburta, 2d4 burvja dublikāti parādās 5 pēdu rādi
 | :-- | :-- |
 | **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 1 raunds |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Endurance) |
+| **Izmaksas:** 3, +1 par katru papildu intensitāti | **Diapazons:** Pieskāriens |
+| **Apgabals:** 1 mērķis | **Pretošanās:** NA (Izturība) |
 
-Šī burvestība ļauj burvim atcelt indes vai venoma efektus, kas skar radību. Viens intensitātes līmenis ir nepieciešams uz katrām 30 POT indes vienībām.
+Šī burvestība ļauj burvju māksliniekam anulēt indes vai toksīna iedarbību, kas skar būtni, un to var izmantot, lai izdziedinātu indivīdu, kurš ir "miris" no saindēšanās, ja to izdara 10 minūšu laikā pēc nāves. Nepieciešams viens intensitātes līmenis uz katriem 30 iedarbīguma (Potency) punktiem, kas piemīt indei. Indīdes Neutralizēšanu var izmantot arī, lai neitralizētu indīgas būtnes, piemēram, čūskas vai skorpiona, radīto indi, lai tā vairs nespētu saindēt citus: tam nepieciešama 1 intensitātes vienība uz katriem 30 iedarbīguma punktiem, un, izmantojot šādā veidā, tās ilgums ir 24 stundas. Visbeidzot, Indīdes Neutralizēšanu var izmantot saindētām vai citādi piesārņotām vielām, apstrādājot 5 mārciņas (apm. 2,2 kg) cietvielu vai 2 galonus (apm. 7,5 litrus) šķidrumu uz katru intensitātes vienību.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | Izdziedē upuri no POT 1-30 indes; neitralizē indīgu būtni ar POT 1-30; apstrādā līdz 5 mārciņām saindētu cietvielu vai 2 galonus šķidruma |
+| 2 | 4 | Izdziedē upuri no POT 31-60 indes; neitralizē indīgu būtni ar POT 31-60; apstrādā līdz 10 mārciņām saindētu cietvielu vai 4 galonus šķidruma |
+| 3 | 5 | Izdziedē upuri no POT 61-90 indes; neitralizē indīgu būtni ar POT 61-90; apstrādā līdz 15 mārciņām saindētu cietvielu vai 6 galonus šķidruma |
+| 4 | 6 | Izdziedē upuri no POT 91-120 indes; neitralizē indīgu būtni ar POT 91-120; apstrādā līdz 20 mārciņām saindētu cietvielu vai 8 galonus šķidruma |
+| +1 | +1 | Turpināt progresiju |
+
+Apgrieztā veidā Indīdes Izraisīšana ļauj burvju māksliniekam radīt nāvējošu toksīnu upurī. Šī inde ir aprakstīta zemāk.
+
+#### Arkanā Inde
+
+- **Pielietojums:** Kontakts
+- **Iedarbīgums (Potency):** vienāds ar intensitāti x30
+- **Pretošanās:** Izturība
+- **Iestāšanās laiks:** 1d2+1 raundi
+- **Ilgums:** 1d3x10 minūtes
+- **Nosacījumi:** Upuri sāk ar Agoniju, kas ilgst 2 raundus, pirms iestājas Asfiksija, kas parasti noved pie nāves, ja vien netiek maģiski ārstēta ar Palēnināšanu vai Indīdes Neutralizēšanu.
+- **Pretinde/Dziedināšana:** Nav, izņemot maģisku ārstēšanu.
 
 ---
-#### Part Water (Ūdens šķelšana)
+#### Ūdens Šķelšana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
 | **Rangs:** Garīdznieks 4 | **Buršanas laiks:** 10 minūtes |
-| **Sfēra:** Elementālā (Ūdens) | **Ilgums:** 10 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 60 pēdas/Intensitāte |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Sfēra:** Elementāra (Ūdens) | **Ilgums:** 10 minūtes/intensitāte |
+| **Izmaksas:** 3, +1 par katru papildu intensitāti | **Diapazons:** 60 pēdas/intensitāte |
+| **Apgabals:** Skatīt zemāk | **Pretošanās:** NA |
 
-Šī burvestība ļauj burvim šķelt ūdeni vai citas šķidruma formas, radot drošu ceļu. Burvestība rada 100 pēdas platu un 10 pēdas dziļu (par katru intensitāti) kanālu, kura garums ir 120 pēdas par katru intensitāti. Burvestību var pārtraukt burvis, citādi tā ilgst līdz ilguma beigām.
+Šī burvestība ļauj burvju māksliniekam sadalīt ūdeni vai citus šķidruma veidus, izveidojot drošu ceļu, pa kuru pēc vēlēšanās var doties. Burvestība rada 100 pēdu platu gultni ar dziļumu 10 pēdas uz intensitātes vienību un garumu 120 pēdas uz intensitātes vienību. Tātad, ja to uzbur ar 4. intensitāti, šķelums būs 40 pēdas dziļš, 480 pēdas garš un 100 pēdas plats. Burvestību burvju mākslinieks var pārtraukt priekšlaicīgi, pretējā gadījumā tā turpinās, līdz beidzas tās ilgums. Šo burvestību var uzburt zem ūdens, kas vietā izveido gaisa "koridoru" ar iepriekš minētajiem izmēriem. Visbeidzot, Ūdens Šķelšanu var izmantot uzbrukumā tādai būtnei kā ūdens elementāls, un tādā gadījumā tā nodara 10 bojājuma punktus par katru intensitātes līmeni. Pieņemot, ka būtne izdzīvo, tai ir jāveic veiksmīgs Gribasspēka Pretošanās metiens vai arī jābēg no burvju mākslinieka uz 3d4 minūtēm.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 10 min.; 60 pēdu diapazons; 100 pēdas plats; 10 pēdas dziļš; 120 pēdas garš |
+| 2 | 4 | 20 min.; 120 pēdu diapazons; 100 pēdas plats; 20 pēdas dziļš; 240 pēdas garš |
+| 3 | 5 | 30 min.; 180 pēdu diapazons; 100 pēdas plats; 30 pēdas dziļš; 360 pēdas garš |
+| 4 | 6 | 40 min.; 240 pēdu diapazons; 100 pēdas plats; 40 pēdas dziļš; 480 pēdas garš |
+| 5 | 7 | 50 min.; 300 pēdu diapazons; 100 pēdas plats; 50 pēdas dziļš; 600 pēdas garš |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Permanency (Pastāvīgums)
+#### Pastāvīgums
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 4 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +2 EXP | **Diapazons:** Skatīt zemāk |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Izmaksas:** 3, +2 PIER | **Diapazons:** Skatīt zemāk |
+| **Apgabals:** Skatīt zemāk | **Pretošanās:** NA |
 
-Šīs burvestības uzburšana maina noteiktu citu burvestību ilgumu uz "Pastāvīgs". Lai to izmantotu, burvis vispirms uzbur burvestību, ko vēlas padarīt pastāvīgu, bet pēc tam iztērē papildu darbības punktu un uzbur "Permanency".
+Šīs burvestības uzburšana maina noteiktu citu burvestību ilgumu uz Pastāvīgu. Lai izmantotu šo burvestību, burvju lietotājs vispirms uzburs burvestību, kuru vēlas padarīt pastāvīgu. Tomēr pēc šīs burvestības uzburšanas tā tiek aizturēta, un tiek iztērēts papildu Darbības Punkts, uzburot Pastāvīgumu, pēc kā izvēlētā burvestība tiek uzburta tās pastāvīgajā formā. Katra pastāvīgā burvestība izmaksā burvju māksliniekam 2 Pieredzes Metienus, kā arī norādītos 3 Maģijas Punktus, papildus parastajām oriģinālās burvestības Buršanas Izmaksām. Burvestības Burvestības Kliedēšana (Dispel Magic) uzburšana Pastāvīguma uzburšanas laikā ne tikai izkliedē Pastāvīgumu, bet arī oriģinālo burvestību.
+
+Pastāvīgums ir arī galvenais pielietojums maģisko priekšmetu radīšanā, izmantojot burvestību Apburt Priekšmetu (Enchant Item). Papildus zemāk minētajām burvestībām, citas burvestības var tikt padarītas pastāvīgas ar Spēles Meistara atļauju.
+
+Sekojošās personiskās burvestības, tās, kas ietekmē tikai burvju mākslinieku, gūs labumu no šīs burvestības. Tās nevar tikt padarītas pastāvīgas uz citām būtnēm:
+
+- Izvairīšanās (Avert)	
+- Koordinācija
+- Tumsas redze (Darkvision)	
+- Novirzīšana (Deflect)	
+- Noteikt ļauno
+- Noteikt neredzamību
+- Noteikt maģiju
+- Šarms (Glamour)
+- Zināt valodas
+- Spēks (Might)
+- Saglabāt (Preserve)
+- Aizsardzība (Paša)
+- Aizsardzība pret ļauno
+- Lasīt maģiju
+- Mēles (Tongues)
+
+
+Pastāvīguma burvestību var izmantot arī, lai padarītu pastāvīgas sekojošās burvestības, kuras tiek uzburtas uz citām būtnēm, priekšmetiem vai apgabaliem. Burvestības, kas atzīmētas ar zvaigznīti, var tikt padarītas pastāvīgas tikai uz priekšmeta vai apgabala.
+
+- Aukstums (Chill)
+- Attīrīšana (Cleanse)
+- Dejošās gaismas\*
+- Bailes
+- Neredzamība
+- Pulēšana \*
+- Saglabāt (Preserve)
+- Kārtība \*
+- Maģiskā mute \*
+- Uguns siena\* 
+- Tīkls \* |
+
 
 ---
-#### Pet (Mīlulis)
+#### Mājdzīvnieks
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 0 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Dzīvnieks | **Ilgums:** Koncentrēšanās |
 | **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 dzīvnieks | **Pretestība:** Gribasspēks |
+| **Apgabals:** 1 dzīvnieks | **Pretošanās:** Gribasspēks |
 
-Pet ļauj burvim iegūt mentālu kontroli pār mazu radību, sūtot to izlūkot, atnest vai veikt citu sarežģītu uzdevumu.
+Mājdzīvnieks ļauj burvju māksliniekam pārņemt garīgu kontroli pār mazu radību, nosūtot to izlūkot, atnest ko vai veikt citu sarežģītu uzdevumu. To var uzburt uz jebkuras radības, kuras IZM un INT raksturlielumi nepārsniedz pusi no burvju mākslinieka HAR. Ja mērķa radība jau ir burvju mākslinieka lojāls mājdzīvnieks, tai nav jāpretojas burvestībai. Koncentrējoties, burvju mākslinieks var piekļūt dzīvnieka maņām (redzei, ožai, dzirdei utt.).
 
 ---
-#### Plane Shift (Plānu maiņa)
+#### Plaknes Pārbīde
 
 (Transmutācija)
 
@@ -1942,321 +2045,512 @@ Pet ļauj burvim iegūt mentālu kontroli pār mazu radību, sūtot to izlūkot,
 | :-- | :-- |
 | **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Astrālā | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3, +1 par katru papildu intensitāti | **Diapazons:** Pieskāriens |
+| **Apgabals:** Skatīt zemāk | **Pretošanās:** Gribasspēks |
 
-Kad uzburta, garīdznieks un līdz 7 citi var ceļot uz citu eksistences plānu. Visiem jāpieskaras un jāveido aplis. Precīza ierašanās vieta reti ir tāda, kādu burvis vēlējās.
+Uzburot, garīdznieks un līdz pat 7 citiem (viens uz katru papildu intensitātes līmeni) var ceļot uz citu eksistences plakni. Visiem ir jāsaskaras un jāveido aplis, kamēr garīdznieks bur burvestību. Turklāt burvju mākslinieks var izmantot burvestību, lai transportētu vienu būtni neatkarīgi no sevis, labprātīgi vai nē, uz burvju mākslinieka izvēlētu plakni; tomēr nelabprātīgā būtne var veikt Gribasspēka metienu, lai pretotos, un panākums anulē burvestību. Precīzs ierašanās punkts reti ir tāds, kādu vēlas burvju mākslinieks. Ja izmanto heksu karti, met 1d6, lai noteiktu virzienu, un 1d10x10, lai noteiktu attālumu jūdzēs.
+
+Papildus jebkuriem vispārējiem materiālajiem komponentiem, Plaknes Pārbīdes uzburšanai ir nepieciešami dažādu retu metālu stieņi, katrs īpaši saskaņots ar konkrētu eksistences plakni. Šie stieņi ir reti, un to vērtība viegli sasniedz pat 10 000 GP par katru.
 
 ---
-#### Polish (Pulēšana)
+#### Pulēšana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Radīšana | **Ilgums:** Tūlītējs |
+| **Rangs:** Garīdznieks 0, Maģs 0 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Radīšana | **Ilgums:** Momentāns |
 | **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Nav |
+| **Apgabals:** 1 mērķis | **Pretošanās:** Nav |
 
-Polish uzreiz nopulē objektu, padarot to spīdīgu un pievilcīgu.
+Pulēšana uzreiz nopulē vienu priekšmetu – kas pēc "Lietu" skaita vai IZM atbilst burvju mākslinieka VAR raksturlielumam – līdz spīdumam, padarot to glancētu, spožu un ļoti iekārojamu, pat ja priekšmeta kvalitāte ir zema. Priekšmets ar laiku zaudēs savu spīdumu kā parasti.
 
 ---
-#### Polymorph Other (Polimorfēšana citam)
+#### Polimorfisms (Cits)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Maģs 3 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte (+1 EXP) | **Diapazons:** 15 pēdas/Intensitāte |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3, +1 par katru papildu intensitāti (+1 PIER) | **Diapazons:** 15 pēdas/intensitāte |
+| **Apgabals:** 1 mērķis | **Pretošanās:** Gribasspēks |
 
-Burvis var pārveidot vienu ķermenisku radību citā formā. Katrs intensitātes punkts maina SIZ līdz pat 5 punktiem. Upurim ir atļauts "Willpower" metiens, lai pretotos. Lielas radības (SIZ 21-40) ir mazāk uzņēmīgas (Easy), bet milzīgu radību (SIZ 41+) pretestības metiens ir "Very Easy".
+Burvju mākslinieks var izmainīt vienas ķermeniskas mērķa būtnes formu uz citas formas, katram intensitātes punktam izmainot IZM līdz pat 5 punktiem. Tādējādi, pārveidojot orku ar IZM 16 par trusi ar IZM 1, būtu nepieciešami 3 intensitātes līmeņi (15 IZM punktu starpība). Šīs burvestības subjektam tiek dota iespēja veikt Gribasspēka metienu, lai pretotos. Lielas būtnes (IZM 21-40) ir mazāk uzņēmīgas pret polimorfismu, to Pretošanās metiens ir Viegls, savukārt Milzīgu būtņu (IZM 41+) Pretošanās metiens ir Ļoti Viegls.
+
+Viss pārveidošanas process aizņem pilnu raundu un var būt diezgan saspringts attiecīgajai būtnei, pieprasot otro Gribasspēka metienu, lai saglabātu savu oriģinālo personību, kur neveiksme apdullina subjektu uz 1d10 minūtēm, bet kritiskā neveiksme rezultējas nāvē no garīgā šoka. Katra būtnes oriģinālā IZM dubultošana vai uz pusi samazināšana padara Gribasspēka metienu personības saglabāšanai par vienu pakāpi grūtāku, tāpat kā pilnīga vides maiņa, piemēram, cilvēka pārvēršana zivī. Veiksmīgs metiens ļauj upurim saglabāt savu INT un HAR, kā arī jebkuras prasmes, kurām nepieciešami šie raksturlielumi.
+
+Pārveidošana piešķir saņēmējam pieņemtās radības elpošanas formu, ja tā atšķiras no parastās; jebkurus dabiskus uzbrukumus; un visus ikdienišķos pārvietošanās veidus. Tā nepiešķir nekādas paaugstinātas vai maģiskas Spējas, kas piemīt šai radībai. Piemēram, būtne, kas ir polimorfēta par pūķi, neiegūs radības elpas uzbrukumu vai maģijai līdzīgas spējas, bet iegūs spēju lidot, tās izturīgo ādu, nāvējošos kodienus, nagu uzbrukumus utt. Turklāt upuris iegūst jaunās formas fiziskās prasmes, piemēram, Vieglatlētiku, Muskuļotību, Lidošanu, Peldēšanu, kā arī tās Dzīvības Punktus un Bojājuma Modifikatoru. Pieņemot, ka pārveidotais indivīds saglabāja savu INT, viņi joprojām zaudē spēju runāt, ja vien jaunajai formai nav spējas artikulēt vārdus. Tie, kas spēja izmantot burvestības iepriekšējā formā, joprojām spētu izmantot tās jaunajā formā, pieņemot, ka viņiem joprojām ir spēja radīt verbālos un somatiskos komponentus. Drastisku izmaiņu gadījumā, piemēram, mainoties no divkāja uz četrkāji, vai no sauszemes dzīvnieka uz jūras radību, Spēles Meistars var justies brīvi sodīt par vismaz vienu Grūtības Pakāpi to prasmju izmantošanu, kuru apgūšanai būtu vajadzīgs laiks, pielāgojoties jaunajai formai, līdz būs bijis pietiekami daudz laika praksei. Tas jo īpaši attiecas uz fiziskajām prasmēm, piemēram, Vieglatlētiku, Cīņu bez ieročiem, Peldēšanu, Lidošanu, Kaujas prasmēm utt.
+
+Gribasspēka metiens, lai saglabātu savu personību, ir nepieciešams katru dienu, kamēr subjekts paliek pārveidots, līdz tiek kļūdīts, liekot personai beidzot padoties jaunās formas mentalitātei, ar INT mainoties uz INS gadījumā, ja radība nav saprātīga. Visas īpašās un maģiskās Spējas, kas pieder jaunajai formai un nebija iegūtas iepriekš, piemēram, skatiena uzbrukumi, elpas ieroči utt., tagad ir pieejamas radībai, jo pārveidošana ir pabeigta. Tēli, kas šādā veidā zaudē savu identitāti, kļūst par Spēles Meistara kontrolētiem Tēliem, kas nav spēlētāji (NPC).
+
+Pirms garīgas padošanās pārveidošanai, polimorfētā radība ir uzņēmīga pret Burvestības Kliedēšanu (Dispel Magic) kā parasti, bez nepieciešamības pēc pretošanās metiena, jo tā būtu zemapziņas vēlme atgriezties normālā stāvoklī. Pārveidošana prasa vēl vienu Gribasspēka metienu, lai pretotos slodzei, kur neveiksme apdullina subjektu uz 1d10 minūtēm, un kritiskā neveiksme rezultējas nāvē no garīgā šoka.
+
+Ja upuris iepriekš bija padevies jaunajai formai, Burvestības Kliedēšanu (Dispel Magic) joprojām var izmantot; tomēr upuris mēģinās pretoties atgriešanās dabiskajā formā ar Gribasspēka metienu. Šī metiena kļūme nozīmē, ka upuris pārvēršas atpakaļ dabiskajā formā, kas, protams, prasa vēl vienu Gribasspēka metienu, lai pretotos garīgajam šokam no pārveidošanas. Kad tas ir zaudēts, upura dabiskā identitāte vairs nav sasniedzama, tā vietā upuris pieņem, ka dīvainā un svešā forma nav dabiska un ilgojas tikt atgriezts savā iepriekšējā "normālajā" stāvoklī. _Piemēram, orks, kurš tika polimorfēts par trusi un pieņēma radības identitāti, ticētu, ka tas tagad ir trusis, kurš ir diezgan rupji pārveidots par orku._ Tikai Vēlēšanās (Wish) vai cita līdzīga maģija var dot cerību atjaunot upura identitāti, kad tā ir zaudēta.
+
+Viss nēsātais un nesātais aprīkojums maģiski saplūst jaunajā formā; tomēr dažos gadījumos Spēles Meistars var atļaut palikt maģiskajiem priekšmetiem, kurus radības jaunajā formā joprojām varētu izmantot, piemēram, maģisku gredzenu vai zābakus. Ņemiet vērā, ka tam nepieciešams, lai radības jaunais IZM nebūtu būtiski atšķirīgs no oriģinālā. Ir VAR x1% iespēja katram nēsātajam neuzbrūkoša rakstura maģiskajam priekšmetam, pakļaujoties Spēles Meistara apstiprinājumam, pārsūtīt tā efektus uz radības jauno formu. Piemēram, radība ar +1 aizsardzības gredzenu varētu iegūt +1 bonusu pie saviem dabiskajiem Bruņu Punktiem. Radības ar dabisku spēju mainīt formu, piemēram, doplēgangeri un likantropi, tiks pārveidoti kā parasti, bet pēc 1 raunda var pieņemt savu dabisko formu. Ja tiek nogalināts, polimorfēta radība atgriežas savā dabiskajā formā, pat ja tā iepriekš zaudējusi visas identitātes pēdas.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3, +1 PIER | 15 pēdu diapazons; 1-5 IZM punktu starpība |
+| 2 | 4, +1 PIER | 30 pēdu diapazons; 6-10 IZM punktu starpība |
+| 3 | 5, +1 PIER | 45 pēdu diapazons; 11-15 IZM punktu starpība |
+| 4 | 6, +1 PIER | 60 pēdu diapazons; 16-20 IZM punktu starpība |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Polymorph Self (Pašpolimorfēšana)
+#### Polimorfisms (Pašam)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Nav | **Ilgums:** 20 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Burvis | **Pretestība:** N/A |
+| **Rangs:** Maģs 3 | **Buršanas laiks:** 2 darbības |
+| **Sfēra:** Nav | **Ilgums:** 20 minūtes/intensitāte |
+| **Izmaksas:** 3, +1 par katru papildu intensitāti | **Diapazons:** 0 |
+| **Apgabals:** Burvju mākslinieks | **Pretošanās:** NA |
 
-Burvis var pieņemt jebkuras citas ķermeniskas radības formu (SIZ 1 līdz 40). Katrs intensitātes punkts atļauj SIZ izmaiņas līdz 10 punktiem. Transformācijas process aizņem pilnu raundu un piešķir burvim radības elpošanas formu, uzbrukumus un kustības režīmu.
+Burvju mākslinieks var pieņemt jebkuras citas ķermeniskas radības formu, no tik mazas kā IZM 1 līdz pat IZM 40. Katrs intensitātes punkts ļauj palielināt vai samazināt IZM līdz pat 10 punktiem. Tādējādi burvju lietotājs ar IZM 13 varētu pieņemt IZM 34 grizlilāča formu ar 3 intensitātes līmeņiem. Pārveidošanas process aizņem pilnu raundu un piešķir burvju māksliniekam pieņemtās radības elpošanas formu (ja tā atšķiras no savas, piemēram, elpošana zem ūdens), jebkādus dabiskus uzbrukumus, Dzīvības Punktus, Bojājuma Modifikatoru un tās normālo pārvietošanās veidu. Tas nepiešķir nekādas paaugstinātas vai maģiskas Spējas, kas piemīt radībai. Burvju lietotājs, kurš ir polimorfējies par vanagu, piemēram, neiegūs putna ārkārtējo redzi. Burvju mākslinieks iegūst radības fiziskās prasmes, piemēram, Vieglatlētiku, Muskuļotību, Lidošanu, Peldēšanu utt., bet saglabā jebkuras garīgās un sociālās prasmes (tās, kurām nepieciešams INT un HAR). Burvju mākslinieks zaudē spēju runāt, ja vien attiecīgajai radībai nav spējas artikulēt vārdus. Ja tā ir, burvju mākslinieks joprojām var izmantot burvestības jaunajā formā, pieņemot, ka burvju mākslinieks var izveidot burvestības somatiskos komponentus.
+
+Burvju mākslinieks var izbeigt efektu jebkurā laikā, un šajā procesā visas Mazās Brūces, kas gūtas jaunajā formā, tiek zaudētas, un Nopietnas Brūces tiek samazinātas līdz Mazajām Brūcēm (puse zaudēto Dzīvības Punktu katrā attiecīgajā vietā). Lielas Brūces (Major Wounds) pārveidošana neietekmē, un tās pāriet uz dabisko formu. Nav dziedināšanas, kad burvju mākslinieks pārveidojas no dabiskās formas uz dzīvnieka formu.
+
+Polimorfisms ir pakļauts Burvestības Kliedēšanai (Dispel Magic). Šajā gadījumā burvju mākslinieks negūst labumu no dziedināšanas. Ja tiek nogalināts, burvju mākslinieks atgriežas dabiskajā formā. Ja pārveidots par lidotāju un ir nepieciešams veikt Lidošanas prasmes metienu, Vieglatlētiku vai Akrobātiku var aizstāt ar divām grūtības pakāpēm. Tomēr tēls, kurš bieži izmanto šo formu, var izvēlēties attīstīt Lidošanas prasmi kā parasti ar Bāzes Vērtību SPĒ+VEI.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 20 min.; 1-10 IZM punktu starpība |
+| 2 | 4 | 40 min.; 11-20 IZM punktu starpība |
+| 3 | 5 | 60 min.; 21-30 IZM punktu starpība |
+| 4 | 6 | 80 min.; 31-40 IZM punktu starpība |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Power Word - Blind (Vārds - Aklums)
+#### Spēka Vārds - Aklums
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 4 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 20 pēdas/Intensitāte |
-| **Apgabals:** 15 pēdu rādiuss | **Pretestība:** Endurance |
+| **Izmaksas:** 3, +1 par katru papildu intensitāti | **Diapazons:** 20 pēdas/intensitāte |
+| **Apgabals:** 15 pēdu rādiuss | **Pretošanās:** Izturība |
 
-Veiksmīgi uzbūrot šo burvestību, viena radība burvja izvēlētajā diapazonā tiek apžilbināta.
+Pēc veiksmīgas šīs burvestības uzburšanas viena burvju mākslinieka izvēlēta būtne gan redzamības, gan Diapazona ietvaros, tiek padarīta akla, kopā ar visiem citiem 15 pēdu rādiusā, kuriem neizdodas Pretošanās metiens. Šo aklumu var izdziedināt, uzburot Akluma Izdziedēšanu vai Burvestības Kliedēšanu. Burvestības Ilgumu modificē mērķa Rangs vai IZM, atkarībā no tā, kas sniedz izdevīgāko rezultātu. Tas ir detalizēti aprakstīts sekojošajā tabulā.
+
+| Mērķa Rangs | Mērķa IZM | Ilgums |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 1d4+1 x10 minūtes\*\* |
+| 2 | 21-40 | 1d4+1 minūtes |
+| 3 | 41-60 | 1d4+1 raundi |
+| 4 | 61-80 | 1d3 raundi |
+| 5 | 81+ | 1 raunds |
+
+_\* Šajā kategorijā ietilpst tēli, kuriem nav Klases._
+
+_\*\* Ja Ietekmes Apgabalā atrodas tikai viena līdz trīs būtnes, efekti ir pastāvīgi, līdz tie tiek maģiski ārstēti._
 
 ---
-#### Power Word - Kill (Vārds - Nāve)
+#### Spēka Vārds - Nāve
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 5 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 5 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3/Intensitāte, +3 EXP | **Diapazons:** 20 pēdas/Intensitāte |
-| **Apgabals:** 10 pēdu rādiuss | **Pretestība:** Endurance |
+| **Izmaksas:** 3/intensitāte, +3 PIER | **Diapazons:** 20 pēdas/intensitāte |
+| **Apgabals:** 10 pēdu rādiuss | **Pretošanās:** Izturība |
 
-Veiksmīga šīs burvestības uzburšana nogalinās vienu radību līdz 3. rangam vai SIZ 60, kas neiztur pretestības metienu.
+Veiksmīga šīs burvestības uzburšana nogalinās vai nu vienu būtni līdz 3. rangam vai IZM 60 (vai 4 būtnes uz katru intensitātes vienību, kas nepārsniedz IZM 20), kurām neizdodas Pretošanās metiens. Šī burvestība ir ārkārtīgi izsmeļoša burvju māksliniekam, ar katru uzburšanu izraisot automātisku viena Noguruma līmeņa zaudēšanu. Visiem potenciālajiem mērķiem jāatrodas Ietekmes Apgabalā, kā tas noteikts burvestības uzburšanas laikā. Nepieciešamā intensitāte ir atkarīga no mērķa Ranga vai IZM, atkarībā no tā, kas mērķim sniedz izdevīgāko rezultātu, kā detalizēti aprakstīts sekojošajā tabulā.
+
+| Mērķa Rangs | Mērķa IZM | Intensitāte |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 1 intensitāte +3 PIER, lai nogalinātu |
+| 2 | 21-40 | 2 intensitāte +3 PIER, lai nogalinātu |
+| 3 | 41-60 | 3 intensitāte +3 PIER, lai nogalinātu |
+| 4-5 | 61+ | Nav efekta |
+
+_\* Šajā kategorijā ietilpst tēli, kuriem nav Klases._
+
+Būtnes, kas lielākas par IZM 60, tas neietekmē, tāpat kā tēlus no 4. ranga un uz augšu. Atšķirībā no Nāves Burvestības, Spēka Vārds - Nāve nogalinās jebko iepriekš minēto ierobežojumu ietvaros, tomēr ir iespējams atgriezt upurus dzīvē, izmantojot Vēlēšanos, Augšāmcelšanos, Reinkarnāciju kā parasti.
 
 ---
-#### Power Word - Stun (Vārds - Apdullināšana)
+#### Spēka Vārds - Apdullināšana
 
 (Konjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Maģs 3 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 20 pēdas/Intensitāte |
-| **Apgabals:** 1 mērķis | **Pretestība:** Endurance |
+| **Izmaksas:** 3, +1 par katru papildu intensitāti | **Diapazons:** 20 pēdas/intensitāte |
+| **Apgabals:** 1 mērķis | **Pretošanās:** Izturība |
 
-Pēc veiksmīgas uzburšanas mērķis, kas neiztur pretestības metienu, tiek apdullināts.
+Pēc veiksmīgas šīs burvestības uzburšanas viena burvju mākslinieka izvēlēta būtne gan redzamības, gan Diapazona ietvaros, kurai neizdodas Pretošanās metiens, tiek apdullināta. Upuris tiek īslaicīgi padarīts nespējīgs, atļaujot tikai aizsardzības rakstura Reaktīvās Darbības. Ilgumu modificē mērķa Rangs vai IZM, atkarībā no tā, kas sniedz izdevīgāko rezultātu mērķim. Tas ir detalizēti aprakstīts sekojošajā tabulā. Šo apdullināšanu var izdziedināt pirms Ilguma beigām, uzburot Burvestības Kliedēšanu.
 
----
-#### Prayer (Lūgšana)
+| Mērķa Rangs | Mērķa IZM | Ilgums |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 4d4 raundi |
+| 2 | 21-40 | 2d4 raundi |
+| 3 | 41-60 | 1d4 raundi |
+| 4 | 61-80 | 1 raunds |
+| 5 | 81+ | Neietekmē |
 
-(Konjurācija)
+_\* Šajā kategorijā ietilpst tēli, kuriem nav Klases._
+
+---#### Lūgšana
+
+(Burvestība)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 1 minūte |
+| **Rangs:** Garīdznieks 3 | **Izpildes laiks:** 1 minūte |
 | **Sfēra:** Kauja | **Ilgums:** 10 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 60 pēdu rādiuss | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** 0 |
+| **Laukums:** 60 pēdu (18 m) rādiuss | **Pretestība:** N/A |
 
-Svētī garīdznieku un visus sabiedrotos, vienlaikus nolādot pretiniekus.
+Kad šī burvestība tiek izpildīta, tā svētī garīdznieku un visus sabiedrotos darbības laukumā, vienlaikus nolādot pretiniekus. Sabiedrotie iegūst pagaidu +5% bonusu visiem prasmju un Pretestības metieniem, kā arī +1 bonusu visiem nodarītajiem bojājumiem, savukārt ienaidnieki saņem -5% sodu un -1 bojājumu samazinājumu. Šo burvestību var izpildīt kopā ar "Dziedājumu" (Chant), ja to veic tas pats garīdznieks vai cits tās pašas reliģijas garīdznieks, ļaujot abiem efektiem summēties, nodrošinot +10% bonusu prasmēm un +2 bojājumiem, kamēr ienaidnieki saņem pretējo.
 
 ---
-#### Predict Weather (Laika apstākļu pareģošana)
+#### Laika prognoze
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1, Burvis 1 | **Buršanas laiks:** 1 minūte |
-| **Sfēra:** Laika apstākļi | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 5 jūdžu rādiuss | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 1, Burvis 1 | **Izpildes laiks:** 1 minūte |
+| **Sfēra:** Laikapstākļi | **Ilgums:** Tūlītējs |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 0 |
+| **Laukums:** 5 jūdžu (8 km) rādiuss | **Pretestība:** N/A |
 
-Burvis var paredzēt laika apstākļus ar 100% precizitāti 5 jūdžu rādiusā.
+Šī burvestība ļauj izpildītājam ar 100% pārliecību prognozēt laika apstākļus 5 jūdžu rādiusā. Šī prognoze ir paredzēta nākamajām 4 stundām par katru Intensitātes līmeni un ietver temperatūru, nokrišņus, sniega uzkrāšanos, vēja ātrumu utt.
 
 ---
-#### Preserve (Saglabāšana)
+#### Konservēšana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** 1 gājiens |
-| **Sfēra:** Dzīvnieks, Augs | **Ilgums:** 1d3 mēneši |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 0, Burvis 0 | **Izpildes laiks:** 1 raunds |
+| **Sfēra:** Dzīvnieki, Augi | **Ilgums:** 1d3 mēneši |
+| **Izmaksas:** 1 | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** Skatīt zemāk | **Pretestība:** N/A |
 
-Preserve novērš organisko vielu pūšanu, sterilizējot tās.
+Konservēšana novērš organisko vielu, gan augu, gan dzīvnieku izcelsmes, baktēriju sadalīšanos un pūšanu uz 1d3 mēnešiem, tās sterilizējot. Ja materiāls vēlāk tiek kūpināts, marinēts vai sālīts, tas saglabājas uz nenoteiktu laiku. Burvestība var apturēt jau sākušos sadalīšanos, bet nevar to vērst par labu. Izpildītājs var ietekmēt organisko vielu daudzumu, kas "lietās" vai IZM ir vienāds ar viņa VAR.
 
 ---
-#### Protection (Aizsardzība)
+#### Aizsardzība
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0, Burvis 0 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 0, Burvis 0 | **Izpildes laiks:** 1 darbība |
 | **Sfēra:** Aizsardzība | **Ilgums:** Trigeris |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Izmaksas:** 1 | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A |
 
-Pirmajā reizē, kad tēls saņem bojājumu, šī burvestība to samazina par 1d3 punktiem.
+Aizsardzība ir noderīga plašā uzdevumu klāstā, kur pastāv nejaušu ievainojumu risks, piemēram, strādājot lietuvē vai raktuvēs. Pirmajā reizē, kad tēls saņemtu bojājumus, kas iziet cauri aizsargtērpam vai bruņām, Aizsardzības burvestība aktivizējas un samazina saņemtos bojājumus par 1d3 punktiem. Pēc tam burvestība izzūd. Šī burvestība summējas ar visiem citiem aizsardzības maģijas veidiem. Burvestība aizsargā tikai pret fiziskiem bojājumiem, tāpēc nepalīdzēs pret tādiem notikumiem kā uguns, nosmakšana utt. Burvja versiju šai burvestībai var izpildīt tikai pašam uz sevi.
 
 ---
-#### Protection from Cold (Aizsardzība no aukstuma)
+#### Aizsardzība pret aukstumu
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 1 raunds |
-| **Sfēra:** Aizsardzība, Elementālā (Uguns) | **Ilgums:** 15 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 2 | **Izpildes laiks:** 1 raunds |
+| **Sfēra:** Aizsardzība, Stihijas (Uguns) | **Ilgums:** 15 minūtes/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A |
 
-Piedāvā pilnīgu aizsardzību no dabiski aukstiem apstākļiem un uzsūc 12 aukstuma bojājuma punktus par katru intensitātes līmeni.
+Kad šī burvestība tiek izpildīta, izveidojas neredzams lauks, kas piedāvā pilnīgu aizsardzību pret visiem dabiskā aukstuma veidiem. Izpildot uz sevi, lauks piedāvā arī pilnīgu aizsardzību pret aukstuma radītiem bojājumiem (baltā pūķa elpa, aukstuma konuss, metāla atdzesēšana utt.), absorbējot 12 aukstuma bojājumu punktus par katru Intensitāti. Kad šis lauks ir izsmelts, visi atlikušie pārmērīgie bojājumi no šī uzbrukuma tiek uz pusi samazināti pirms to piemērošanas.
+
+Izpildot uz kādu citu, nevis uz sevi, tiek nodrošināta pilnīga aizsardzība pret dabisko aukstumu. Turklāt bojājumi no maģiskiem aukstuma uzbrukumiem tiek samazināti uz pusi.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 15 min.; 12 aukstuma aizsardzības punkti pašam |
+| 2 | 4 | 30 min.; 24 aukstuma aizsardzības punkti pašam |
+| 3 | 5 | 45 min.; 36 aukstuma aizsardzības punkti pašam |
+| 4 | 6 | 60 min.; 48 aukstuma aizsardzības punkti pašam |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Protection from Evil (R) (Aizsardzība no ļaunuma)
+#### Aizsardzība pret ļaunumu (R)
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1, Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 1, Burvis 1 | **Izpildes laiks:** 1 darbība |
 | **Sfēra:** Aizsardzība | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A |
 
-Uzliek aizsargājošu auru, kas traucē ļaunām radībām un neitralizē prāta kontroles mēģinājumus.
+Kad tiek izpildīta, no burvestības saņēmēja (kas var būt arī izpildītājs) izstaro neredzama maģisko bruņu aura, piešķirot trīs dažādus aizsardzības līmeņus.
+
+Pirmkārt, būtņu ar ļaunu novirzienu uzbrukumi saņem -10% sodu savai Kaujas stila vai Neapbruņotajai prasmei. Pretestības metieni Aizsardzības pret ļaunumu saņēmēja pusē saņem +10% bonusu, bet tikai pret ļaunām būtnēm.
+
+Otrkārt, ne izsauktas, ne konjurētas būtnes, ne arī būtnes, kas nav dzimtās materiālajai plaknei, nedrīkst fiziski saskarties ar saņēmēju. Tas ietver dēmonus, velnus, džinus, stihiju būtnes, gaisa garus, salamandras utt. Šo būtņu dabiskie uzbrukumi liek tām atkāpties, tādējādi nesaskaroties. Tas ietver arī jebkurus monstrus vai būtnes, kuras konjurētas vai izsauktas ar burvestībām vai priekšmetiem. Tomēr šādu būtņu turēti ieroči var iekļūt maģiskajā barjerā un trāpīt aizsargātajai personai.
+
+Treškārt, jebkādi garīgās kontroles (piemēram, ar burvestībām kā Apburšana vai Pavēle) vai pārņemšanas mēģinājumi (piemēram, ar burvestībām kā Maģiskā burka) automātiski nespēj iekļūt maģiskajā aizsardzībā.
+
+Burvestības ilgums beidzas, ja aizsargātā persona veic jebkāda veida tuvcīņas uzbrukumu vai mēģina uzspiest aizsardzības lauku pret ietekmētu būtni.
+
+Šīs burvestības pretējā puse, Aizsardzība pret labo, darbojas tāpat attiecībā uz otro un trešo ieguvumu, savukārt pirmais ieguvums darbojas, kā atzīmēts attiecībā uz labiem pretiniekiem.
 
 ---
-#### Protection from Fire (Aizsardzība no uguns)
+#### Aizsardzība pret uguni
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 1 raunds |
-| **Sfēra:** Aizsardzība, Elementālā (Uguns) | **Ilgums:** 15 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 2 | **Izpildes laiks:** 1 raunds |
+| **Sfēra:** Aizsardzība, Stihijas (Uguns) | **Ilgums:** 15 minūtes/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A |
 
-Piedāvā aizsardzību no karstuma avotiem un uzsūc 12 uguns bojājuma punktus par intensitāti.
+Kad šī burvestība tiek izpildīta, izveidojas neredzams lauks, kas piedāvā pilnīgu aizsardzību pret visiem parastiem karstuma avotiem, piemēram, lāpām, ugunskuriem, degošām ēkām utt. Izpildot uz sevi, lauks piedāvā arī pilnīgu aizsardzību pret uguns radītiem bojājumiem (sarkanā pūķa elpa, Degošās rokas, Metāla sakarsēšana utt.), absorbējot 12 uguns bojājumu punktus par katru Intensitāti. Kad šis lauks ir izsmelts, visi atlikušie pārmērīgie bojājumi no šī uzbrukuma tiek uz pusi samazināti pirms to piemērošanas.
+
+Izpildot uz kādu citu, nevis uz sevi, tiek nodrošināta pilnīga aizsardzība pret parasto uguni. Turklāt bojājumi no maģiskiem uguns uzbrukumiem tiek samazināti uz pusi.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 15 min.; 12 uguns aizsardzības punkti pašam |
+| 2 | 4 | 30 min.; 24 uguns aizsardzības punkti pašam |
+| 3 | 5 | 45 min.; 36 uguns aizsardzības punkti pašam |
+| 4 | 6 | 60 min.; 48 uguns aizsardzības punkti pašam |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Protection from Lightning (Aizsardzība no zibens)
+#### Aizsardzība pret zibeni
 
 (Abjurācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 1 raunds |
-| **Sfēra:** Aizsardzība, Laika apstākļi | **Ilgums:** 15 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 3 | **Izpildes laiks:** 1 raunds |
+| **Sfēra:** Aizsardzība, Laikapstākļi | **Ilgums:** 15 minūtes/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A |
 
-Uzsūc 12 elektriskā bojājuma punktus par intensitāti.
+Kad šī burvestība tiek izpildīta, izveidojas neredzams lauks, kas piedāvā pilnīgu aizsardzību pret elektrības radītiem bojājumiem (zilā pūķa elpa, satvēriens ar elektrošoku, elektriskie slazdi utt.), absorbējot 12 elektrības bojājumu punktus par katru Intensitāti. Kad šis lauks ir izsmelts, visi atlikušie pārmērīgie bojājumi no šī uzbrukuma tiek uz pusi samazināti pirms to piemērošanas.
+
+Izpildot uz kādu citu, nevis uz sevi, bojājumi no elektrības uzbrukumiem tiek samazināti uz pusi.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 15 min.; 12 elektrības aizsardzības punkti pašam |
+| 2 | 4 | 30 min.; 24 elektrības aizsardzības punkti pašam |
+| 3 | 5 | 45 min.; 36 elektrības aizsardzības punkti pašam |
+| 4 | 6 | 60 min.; 48 elektrības aizsardzības punkti pašam |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Purify Food and Drink (R) (Ēdiena un dzēriena attīrīšana)
+#### Ēdiena un dzēriena attīrīšana (R)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 minūte |
-| **Sfēra:** Visas | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 100 pēdas |
-| **Apgabals:** 5 pēdu rādiuss | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 1 | **Izpildes laiks:** 1 minūte |
+| **Sfēra:** Viss | **Ilgums:** Pastāvīgs |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 100 pēdas (30 m) |
+| **Laukums:** 5 pēdu (1,5 m) rādiuss | **Pretestība:** N/A |
 
-Noņem indes un piesārņojumu no pārtikas un ūdens.
+Kad šī burvestība tiek izpildīta, no vidēja izmēra ēdiena porcijas un/vai ūdens par katru Intensitāti burvestības darbības laukumā tiek noņemtas visas indes, puve un citi piesārņotāji. Šīs burvestības attīrošās īpašības iznīcina arī nesvētīta ūdens ļaundabīgās īpašības.
+
+Burvestības pretējā puse, Ēdiena un dzēriena piesārņošana, sabojā ēdienu, padara tīru ūdeni nedzeramu un samaitā svētā ūdens svētās īpašības.
 
 ---
-#### Raise Dead (R) (Mirušo augšāmcelšana)
+#### Mirušo augšāmcelšana (R)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 1 minūte |
+| **Rangs:** Garīdznieks 3 | **Izpildes laiks:** 1 minūte |
 | **Sfēra:** Nekromantija | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte, +1 EXP | **Diapazons:** 100 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Gribasspēks) |
+| **Izmaksas:** 3, +1/papildu Intensitāte, +1 EXP | **Darbības rādiuss:** 100 pēdas (30 m) |
+| **Laukums:** 1 mērķis | **Pretestība:** N/A (Gribasspēks) |
 
-Var atdzīvināt radību, kas mirusi pirms mazāk nekā 24 stundām uz katru intensitātes līmeni.
+Šo burvestību var izpildīt uz būtnes līķa, kas mirusi mazāk nekā pirms 24 stundām par katru Intensitātes līmeni. Ja subjekta novirziens bija jebkas cits, nevis ļauns, viņi var pretoties burvestībai ar Pretējo Gribasspēka metienu un, ja tas ir veiksmīgs, anulēt burvestības efektus. Tas ir tāpēc, ka mirušā dvēsele vai gars reti vēlas atgriezties pie dzīvajiem, kad tas ir sasniedzis savu mūžīgo atalgojumu. Spēles meistars var izlemt atteikties no metiena, ja saņēmējam ir nepabeigtas lietas, viņš nevar tikt šķirts no sava patiesā mīļotā vai tam ir kāds cits varonīgs iemesls dzīvot.
+
+Ļaunu dvēseļu gadījumā, kuras labprāt atgrieztos materiālajā plaknē, nevis ciestu mūžīgo pazudināšanu, pretojas nevis mirušā Gribasspēks, bet gan dēmona, velna utt., kas atbildīgs par viņu sodīšanu – viņu spīdzinātāja – Gribasspēks. Šajā gadījumā izpildītājam ir jāpārvar spīdzinātāja Gribasspēks. Ja tas nav zināms, pieņemiet, ka tas ir vismaz par 20 punktiem augstāks nekā mirušajam, lai parādītu, ka jo spēcīgāka ir dvēseles griba, jo varenāka ir būtne, kas atbildīga par viņu pazudināšanu. Ja izpildītājs gūst sekmes, viņš ir veiksmīgi atgriezis garu ķermenī, savukārt neveiksmīgs metiens noved pie tā, ka upuris nevēlas vai nespēj atgriezties.
+
+Ja izpildīšana ir veiksmīga, subjekts tiek atgriezts dzīvē ar pilniem Sitiena punktiem, lai gan zaudētās ekstremitātes paliek zaudētas. Tas nozīmē, ka upuri, kuram nocirsta galva vai kurš pārcirsts uz pusēm, nevar augšāmcelt, līdz viņa galva vai rumpis nav atkal piestiprināts. To var izdarīt pirms Mirušo augšācelšanas izpildes, fiziski piestiprinot zaudēto vietu, kas prasa dziednieka komplektu un veiksmīgu Dziedināšanas prasmes pielietojumu, un parasti atstāj acīmredzamu un daiļrunīgu rētu. Citas kaites, piemēram, indes vai slimības, ir jāizārstē pirms vai pēc Mirušo augšācelšanas izpildes, pretējā gadījumā rezultāti ir tikai īslaicīgi. Visbeidzot, Mirušo augšācelšanai nav efekta uz būtni, kas sasniegusi savu dabisko dzīves ilgumu un mirusi no vecuma.
+
+Augšāmcelšanās process ir ļoti nogurdinošs subjektam, kurš uz 24 stundām par katru dienu, kad viņš bija miris, tiek novests līdz Noguruma līmenim "Nespējīgs". Noguruma dziedēšanas izpildei nav efekta uz pacientu šajā atveseļošanās laikā. Pēc šī punkta tēls atkopjas no Noguruma normāli un bez ierobežojumiem.
+
+Apgrieztā veidā, Dzīvo nogalināšana, var tikt izmantota, lai nogalinātu vienu upuri, ko garīdznieks norāda izpildes laikā. Šim upurim ir atļauts veikt Gribasspēka metienu, lai pretotos, modificētu ar mērķa Rangu vai IZM, atkarībā no tā, kurš dod labvēlīgāku rezultātu mērķim, kā sīkāk aprakstīts nākamajā tabulā.
+
+| Mērķa Rangs | Mērķa IZM | Gribasspēka modifikators |
+| :-: | :-: | :-: |
+| 0-1\* | 1-20 | Grūti |
+| 2 | 21-40 | Standarta |
+| 3 | 41-60 | Viegli |
+| 4-5 | 61+ | Ļoti viegli |
+
+_\* Šajā kategorijā ietilpst tēli, kuriem nav klases._
+
+Ja Pretestības metiens ir neveiksmīgs, upuris tiek nogalināts uz vietas. Veiksmīgs metiens tiek apstrādāts atbilstoši Nopietnu ievainojumu radīšanas efektiem. Bruņas nesniedz aizsardzību pret šiem bojājumiem.
 
 ---
-#### Read Magic (Maģijas lasīšana)
+#### Maģijas lasīšana
 
-(Visi)
+(Viss)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 minūte |
+| **Rangs:** Burvis 0 | **Izpildes laiks:** 1 minūte |
 | **Sfēra:** Nav | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Burvis | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Darbības rādiuss:** 0 |
+| **Laukums:** Izpildītājs | **Pretestība:** N/A |
 
-Ļauj izlasīt maģiskus rakstus vai ruļļus.
+Šī ir pirmā burvestība, ko māca maģijas lietotāju mācekļiem, jo ar tās palīdzību viņi var izlasīt cita burvja maģiskos rakstus. Burvju pašu maģiskie raksti viņiem pašiem vienmēr ir saprotami. Maģisku rakstu lasīšana parasti neaktivizē tajos ietverto burvestību, piemēram, tādu, kāda atrodama uz maģiskiem tīstokļiem; tomēr nolādēti maģiskie tīstokļi un tamlīdzīgi priekšmeti tiek aktivizēti, izmantojot šo burvestību, izpildot to burvestību, ko tīstoklis saturēja.
+
+Izmantojot, lai identificētu uz tīstokļa vai burvestību grāmatā ietvertu burvestību, katram burvestības Rangam ir nepieciešama 1 minūte; 1. ranga burvestības prasa 1 minūti, 2. ranga burvestības prasa 2 minūtes utt. Ja atlikušais ilgums ir pietiekams, šajā laikā var tikt identificētas papildu burvestības. Kad šī burvestība ir izmantota, lai izlasītu un identificētu maģisko uzrakstu kopu, maģijas lietotājam nav nepieciešams vēlreiz izpildīt Maģijas lasīšanu, lai tos izlasītu; tomēr tai pašai burvestībai uz cita tīstokļa, grāmatas utt. būtu nepieciešama jauna Maģijas lasīšanas izpilde.
+
+Maģijas lasīšanu var izmantot visas Maģijas skolas.
 
 ---
-#### Regenerate (R) (Reģenerācija)
+#### Reģenerācija (R)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 4 | **Buršanas laiks:** 3 minūtes |
+| **Rangs:** Garīdznieks 4 | **Izpildes laiks:** 3 minūtes |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 radība | **Pretestība:** N/A (Parry vai Evade) |
+| **Izmaksas:** 3/Intensitāte | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** 1 būtne | **Pretestība:** N/A (Atsitieni vai Izvairīšanās) |
 
-Atdala atdalītu locekli vai dziedē nopietnus ievainojumus.
+Kad tiek izpildīta, garīdznieks var pieskarties vienai būtnei un reģenerēt locekli, kas zaudējis Sitiena punktus. Zaudētās ekstremitātes pilnībā ataugs ar ātrumu 1 Sitiena punkts ik pēc 10 minūtēm, līdz pilnībā sadzijušas. Tomēr, ja nocirstā ķermeņa daļa ir klāt un pieskaras upurim, viss atveseļošanās laiks tiek samazināts līdz 1 minūtei. Šo burvestību nevar izmantot, lai "klonētu" indivīdu, reģenerējot divas atsevišķas daļas, kur efekts iedarbojas tikai uz to daļu, kas savienota ar smadzenēm un centrālo nervu sistēmu. Katrs Intensitātes līmenis ataugs citu Sitiena punktu vietu. Lai gan burvestību varētu izmantot, lai lēnām dziedētu mazāku traumu, ir zemāka Ranga, lētākas burvestības šim nolūkam.
+
+Apgrieztā veidā, Vīšana, liks vietai, kurai pieskaras izpildītājs, savīst un galu galā nokrist no upura. Process izraisa 1 Sitiena punkta zaudējumu ietekmētajai vietai ik pēc 10 minūtēm, vietai kļūstot neizmantojamai pie 0 Sitiena punktiem un nokrītot, kad sasniegts pilns mīnuss. Efektus var novērst tikai ar Reģenerācijas izpildi.
 
 ---
-#### Reincarnation, Arcane (Reinkarnācija)
+#### Reinkarnācija, Arkānā
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 4 | **Buršanas laiks:** 10 minūtes |
+| **Rangs:** Burvis 4 | **Izpildes laiks:** 10 minūtes |
 | **Sfēra:** Nav | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte, +1EXP | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Skatīt zemāk |
+| **Izmaksas:** 3, +1/papildu Intensitāte, +1 EXP | **Darbības rādiuss:** Pieskāriens |
+| **Laukums:** 1 mērķis | **Pretestība:** Skatīt zemāk |
 
-Pārdzimšana jaunā ķermenī.
+Šī burvestība tiek izpildīta, pieskaroties tās būtnes līķim, kas mirusi mazāk nekā pirms 24 stundām par katru Intensitātes līmeni. Tomēr šī Reinkarnācijas versija neietekmē pilnasinīgus elfus (tā vietā skatīt dievišķās burvestības [Mirušo augšāmcelšana](0010_Spells.md?id=raise-dead-r) vai [Augšāmcelšana](0010_Spells.md?id=resurrection-r)). Ja upura novirziens bija jebkas cits, nevis ļauns, upuris pretojas burvestībai ar Pretējo Gribasspēka metienu un, ja tas ir veiksmīgs, anulē burvestības efektus. Tas ir tāpēc, ka mirušā dvēsele vai gars reti vēlas iekļūt jaunā ķermenī, kad tas ir sasniedzis savu mūžīgo atalgojumu. Spēles meistars var izlemt atteikties no metiena, ja saņēmējam ir nepabeigtas lietas, viņš nevar tikt šķirts no sava patiesā mīļotā vai tam ir kāds cits varonīgs iemesls dzīvot.
+
+<details>
+
+<summary>* Kopienas labojumi</summary>
 
 ---
-#### Remove Curse (R) (Lāsta noņemšana)
 
-(Abjurācija)
+#### Reinkarnācija, Arkānā
 
-| | |
+_Sākotnējais noteikums bija šāds: "Tomēr šī Reinkarnācijas versija neietekmē pilnasinīgus elfus (tā vietā skatīt Dievišķo Reinkarnāciju)."_
+
+_Classic Fantasy Imperative nav minēta Dievišķā Reinkarnācija, tāpēc tas ir mainīts uz atsauci uz Mirušo augšāmcelšanu un Augšāmcelšanu, no kurām neviena neaizliedz elfu atgriešanos._
+
+---
+
+</details>
+
+Ļaunu dvēseļu gadījumā, kuras labprāt atgrieztos materiālajā plaknē, nevis ciestu mūžīgo pazudināšanu, pretojas nevis mirušā Gribasspēks, bet gan dēmona, velna utt. Gribasspēks, kurš atbildīgs par viņu sodīšanu – viņu spīdzinātāja – Gribasspēks. Šajā gadījumā izpildītājam ir jāpārvar spīdzinātāja Gribasspēks. Ja tas nav zināms, pieņemiet, ka tas ir vismaz par 20 punktiem augstāks nekā mirušajam, lai parādītu, ka jo spēcīgāka ir dvēseles griba, jo varenāka ir būtne, kas atbildīga par viņa vai viņas pazudināšanu. Ja izpildītājs gūst sekmes, viņš ir veiksmīgi noenkurojis garu ķermenī, savukārt neveiksmīgs metiens noved pie tā, ka upuris nevēlas vai nespēj atgriezties.
+
+Ja izpildīšana ir veiksmīga, 1d6x10 minūšu laikā parādās pilnībā izveidots pieauguša cilvēka ķermenis, kas satur mirušā apziņu. Izpildītājam nav kontroles pār formu vai dzimumu, kādā dvēsele atgriežas – metiet pret zemāk esošo tabulu. Bijušā tēla Klase un Rangs tiek saglabāti. Tas nozīmē, ka tēlam var būt nepieciešama pārliecināšana, lai pierādītu draugiem, ģimenei un bijušajiem paziņām, ka viņš ir tas, par ko sevi uzdod; tas ietver viņu ordeni vai ģildi, kad pienāk laiks attīstībai, ja tas ir aktuāli. To vislabāk atspoguļo tēla Ietekmes metieni, kurus modificē tas, cik drastiskas ir izmaiņas, kā to nosaka Spēles meistars. Piemēram, pundurim, kas reinkarnēts citā pundurī, var būt nepieciešams Standarta Ietekmes metiens, lai pārliecinātu bijušo sabiedroto par savu patieso identitāti, savukārt reinkarnācija rūķī vai puskājī var padarīt metienu par vienu pakāpi grūtāku. Visbeidzot, tas pats tēls var atrast to par divām pakāpēm grūtāku, pārliecinot citus par savu identitāti, ja pārvērties par kaut ko tik ekstrēmu kā goblins, orks vai trolls.
+
+Visi Raksturlielumi tiek noteikti nejauši atbilstoši jaunajai formai, izņemot INT, VAR un HAR, kas paliek nemainīgi. Pārrēķiniet tēla Bāzes prasmju līmeņus un atbilstoši pielāgojiet prasmju kopsummas. Kaislības netiek ietekmētas. Visas bijušās rasu Spējas tiek zaudētas un aizstātas ar jaunās sugas spējām. Ja jaunā forma nav piemērota vecajai tēla Klasei, vienīgā iespēja ir samierināties vai apgūt jaunu Klasi. Reinkarnētais indivīds atceras lielāko daļu savas bijušās dzīves, lai gan Spēles meistars var lūgt tēlam veikt Gribasspēka metienu, lai pirmajā nedēļā atcerētos nozīmīgus faktus. Vēlēšanās (Wish) var atgriezt reinkarnēto indivīdu iepriekšējā formā, ja tas vēlāk ir vēlams.
+
+Metiet uz šo tabulu, lai noteiktu jauno formu.
+
+##### Reinkarnācijas rezultātu tabula
+
+| Reinkarnācijas rezultāts | | Puscilvēki | | Humanoīdi/Monstri | |
+|:-:|:--|:-:|:--|:-:|:--|
+| **D100 metiens** | **Rezultāts** | **D100 metiens** | **Rezultāts** | **D100 metiens** | **Rezultāts** |
+| 01-20 | Cilvēks | 01-20 | Punduris | 01-10 | Bugbears |
+| 21-60 | Puscilvēks \* | 21-40 | Elfs | 11-26 | Gnolls |
+| 61-95 | Humanoīds/Monstrs \*\* | 41-60 | Rūķis | 27-42 | Goblins |
+| 96-00 | Cits – SM opcija | 61-80 | Puselfs | 43-58 | Hobgoblins |
+| | | 81-100 | Puskājis | 59-74 | Kobolds |
+| | | | | 75-90 | Orks |
+| | | | | 91-95 | Ogres |
+| | | | | 96-00 | Trollis |
+
+\* Metiet vēlreiz un skatiet Puscilvēku rezultātu kolonnu.
+
+\*\* Metiet vēlreiz un skatiet Humanoīdu/Monstru rezultātu kolonnu.
+
+---#### Lāsta noņemšana \(R\)
+
+(Abjūrācija)
+
+|  |  |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2, Burvis 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** ?? | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 2, Mags 3 | **Buršanas laiks:** 2 darbības |
+| **Sfēra:** Aizsardzība | **Ilgums:** Pastāvīgs |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** Pieskāriens |
+| **Zona:** 1 mērķis | **Pretestība:** N/A |
 
-Noņem lāstus no radībām vai priekšmetiem.
+Šī burvestība parasti noņem jebkura lāsta sekas, kas skar būtni vai priekšmetu. Tā nenoņem priekšmeta, piemēram, ieroča, vairoga vai bruņu, nolādēto dabu, taču ļauj būtnei, kuru šāds priekšmets ietekmē, no tā atbrīvoties. Dažus lāstus var noņemt tikai tad, ja burvestība tiek izmantota ar noteiktu Intensitāti, kas parasti ir norādīta konkrētajā aprakstā. Likantropijas ārstēšanai var izmantot gan "Dziedēt slimību", gan "Lāsta noņemšanu", turklāt abos gadījumos nepieciešama 12. Intensitāte.
+
+Šīs burvestības pretstats, "Lāsta uzlikšana", uzliek ienaidniekam vienu no šiem efektiem ar 30 minūšu Ilgumu uz katru Intensitātes vienību. Upurim ir ļauts veikt Pretestības Gribasspēka metienu kā parasti. Metiet 1d100, lai noteiktu uzliktā lāsta dabu:
+
+- 01-25: Visas prasmes, kurās izmanto SPĒ, VEI vai IZT, ir par vienu pakāpi grūtākas. Iniciatīva -4, Bojājuma modifikators samazināts par 2 pakāpēm.
+- 26-50: Visas prasmes, kurās izmanto INT, VAR vai HAR, ir par vienu pakāpi grūtākas. Iniciatīva -4.
+- 51-75: Kaujas prasmes un Pretestības metieni ir par 2 pakāpēm grūtāki.
+- 76-00: Visi neveiksmīgie prasmju metieni tiek uzskatīti par neveiklībām (Fumbles).
 
 ---
-#### Remove Fear (R) (Baiļu noņemšana)
+#### Baiļu noņemšana \(R\)
 
-(Abjurācija (Šarms))
+(Abjūrācija (Šarms))
 
 | | |
 | :-- | :-- |
 | **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Šarms | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 30 pēdas |
-| **Apgabals:** 1 mērķis | **Pretestība:** Skatīt zemāk |
+| **Sfēra:** Šarms | **Ilgums:** Skat. zemāk |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 30 pēdas |
+| **Zona:** 1 mērķis | **Pretestība:** Skat. zemāk |
 
-Izdzēš baiļu sekas.
+Šīs burvestības burvējs var izdzīt baiļu sekas no viena indivīda uz katru Intensitātes vienību, piešķirot tiem papildu metienu pretestībai. "Baiļu noņemšanu" var arī dievišķi izmantot aizsardzībai pret bailēm uz 10 minūtēm, ja to uzliek kādam, kurš vēl necieš no to sekām. Abos gadījumos subjekta nepieciešamais Pretestības metiens ir par vienu pakāpi vieglāks. Lai gan garīdznieks varētu uzlikt šo burvestību sev, lai pasargātos no bailēm, viņš nevarētu to izmantot, lai noņemtu jebkādas jau esošas baiļu sekas, kas traucētu burvestību izpildi.
+
+Šīs burvestības pretstats, "Baiļu izraisīšana", prasa upura aizskaršanu kaujā. Tie, kas neiztur Gribasspēka Pretestības metienu, šausmās bēg sprinta ātrumā 1d4 Raundus. Virzienam ir jābūt prom no burvestības burvja. "Baiļu izraisīšanu" var neitralizēt ar "Baiļu noņemšanu" un otrādi.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 1 | 30 pēdu attālums; 1 subjekts |
+| 2 | 2 | 60 pēdu attālums; 2 subjekti |
+| 3 | 3 | 90 pēdu attālums; 3 subjekti |
+| 4 | 4 | 120 pēdu attālums; 4 subjekti |
+| 5 | 5 | 150 pēdu attālums; 5 subjekti |
 
 ---
-#### Repair (Remonts)
+#### Remonts
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 1, Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** ?? | **Ilgums:** 24 stundas |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 objekts | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 1, Mags 0 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Radīšana | **Ilgums:** 24 stundas |
+| **Izmaksas:** 1 | **Attālums:** Pieskāriens |
+| **Zona:** 1 priekšmets | **Pretestība:** N/A |
 
-Salabo fiziskus bojājumus nedzīvam objektam.
+"Remonts" novērš nedzīva objekta fiziskos bojājumus. Katra atsevišķa veiksmīga buršana atjauno 1d3 Sitiena punktus (Hit Points).
 
 ---
-#### Restoration (Atjaunošana)
+#### Atjaunošana
 
 (Nekromantija)
 
@@ -2264,97 +2558,171 @@ Salabo fiziskus bojājumus nedzīvam objektam.
 | :-- | :-- |
 | **Rangs:** Garīdznieks 3 | **Buršanas laiks:** 3 minūtes |
 | **Sfēra:** Dziedināšana | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** Pieskāriens |
+| **Zona:** 1 mērķis | **Pretestība:** N/A |
 
-Atjauno zaudēto dzīves spēku un garīgās spējas.
+Kad šī burvestība tiek izmantota, upuris, kuram iepriekš atņemts dzīvības spēks, izmantojot "Enerģijas izsūkšanu" vai līdzīgus efektus, atgūst vienu iepriekš zaudēto Noguruma līmeni. Pie 1. Intensitātes līmeņa šī burvestība darbojas tikai uz būtni, kas izsūkta pēdējo 24 stundu laikā. Katra papildu Intensitāte palielina laiku, kas var būt pagājis, par vēl 24 stundām. Piemēram, upurim, kurš tika izsūkts nedaudz mazāk kā pirms 48 stundām, būtu nepieciešams burvestību izmantot ar 2. Intensitāti, lai tā darbotos. Vairāki zaudētā Noguruma līmeņi prasa papildu "Atjaunošanas" buršanas. Neatkarīgi no ilguma un papildus jebkuram atjaunotajam Nogurumam, šī burvestība atjauno arī visas garīgās spējas, piemēram, tās, kas zaudētas maģijas vai jebkādas vājprātības vai demences dēļ. "Atjaunošanu" var izmantot arī, lai noņemtu gadus, kas zaudēti mākslīgas novecošanas dēļ, piemēram, no noteiktām burvestībām. Lai burvestību izmantotu šādā veidā, papildus parastajām buršanas izmaksām, garīdzniekam ir jāiztērē 1 PIEREDZES metiens par katru 1% no saņēmēja tipiskā dzīves ilguma, kas jāatjauno (1 gads cilvēkam). Burvestība nedrīkst samazināt subjekta pašreizējo vecumu zem tā faktiskā vecuma.
 
 ---
-#### Resurrection (R) (Augšāmcelšana)
+#### Augšāmcelšana \(R\)
 
 (Nekromantija)
 
 | | |
 | :-- | :-- |
 | **Rangs:** Garīdznieks 5 | **Buršanas laiks:** 10 minūtes |
-| **Sfēra:** Nekromantija | **Ilgums:** Pastāvīgs |
-| **Izmaksas:** 3, +1/papildu Intensitāte, +2 EXP | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A (Gribasspēks) |
+| **Sfēra:** Nekromantiskā | **Ilgums:** Pastāvīgs |
+| **Izmaksas:** 3, +1/papildu Intensitāte, +2 PIEREDZE | **Attālums:** Pieskāriens |
+| **Zona:** 1 mērķis | **Pretestība:** N/A (Gribasspēks) |
 
-Augšāmceļ mirušos, neatkarīgi no tā, cik ilgi tie bijuši miruši.
+"Augšāmcelšana" atdzīvina jebkuru būtni, kas mirusi ne vairāk kā pirms 20 gadiem uz katru Intensitātes līmeni. Būtne tiek ne tikai atgriezta dzīvē, bet arī atjaunota pilnā spēkā un izdziedēta no traumām, pat ataudzējot zaudētās ekstremitātes. Lai burvestība būtu efektīva, no pašas būtnes ir nepieciešams saglabāt tikai nedaudz. Piemēram, "Augšāmcelšanu" varētu izmantot, lai atgrieztu būtni no mirušajiem pēc 145 gadiem, pat ja nav saglabājies nekas vairāk kā pirksta kauls, pieņemot, ka burvestība tiek izmantota ar 8. Intensitāti. Atdzīvinātajam indivīdam nav nepieciešams atpūtas periods, un tas ir pilnībā funkcionējošs uzreiz. Burvestība neietekmē būtni, kas mirusi dabiskā nāvē sava paredzētā dzīves ilguma beigās.
+
+Ja subjekta Orientācija (Alignment) bija jebkāda cita, nevis ļauna, tas var pretoties burvestībai ar pretēju Gribasspēka metienu un, ja tas ir veiksmīgs, anulēt efektus. Tas ir tāpēc, ka mirušā dvēsele vai gars reti vēlas atgriezties pie dzīvajiem, kad tas sasniedzis savu mūžīgo atalgojumu. Tomēr Spēles meistars var izlemt atteikties no metiena, ja saņēmējam ir nepadarīti darbi, tas nevar tikt šķirts no sava patiesā mīļotā vai tam ir kāds cits varonīgs iemesls dzīvot. Ļaunu dvēseļu gadījumā, kuras labprāt atgrieztos, nevis ciestu mūžīgo pazudināšanu, nepretojas mirušā Gribasspēks, bet gan dēmona, velna vai tamlīdzīgas būtnes, kas atbildīga par viņu sodīšanu, viņu mocītāja Gribasspēks. Šajā gadījumā burvja uzdevums ir pārvarēt mocītāja Gribasspēku. Ja tas nav zināms, pieņemiet, ka tas ir vismaz par 20 punktiem augstāks nekā mirušajam, lai atspoguļotu to, ka, jo spēcīgāka ir dvēseles griba, jo varenāka ir būtne, kas atbildīga par viņa vai viņas pazudināšanu. Ja burvējam tas izdodas, subjekts ir veiksmīgi augšāmcelts, savukārt neveiksmīgs metiens noved pie tā, ka upuris nevēlas vai nespēj atgriezties.
+
+"Augšāmcelšana" ir ļoti nogurdinoša, novecojot garīdznieku par 3% no viņa tipiskā dzīves ilguma (3 gadi cilvēka burvja gadījumā). Skatiet noteikumus par [Novecošanu](0007_Game_System.md?id=aging).
+
+Kad tā ir apgriezta, "Iznīcināšanu" var izmantot, lai nogalinātu vienu upuri, kurš buršanas brīdī atrodas kontaktā ar garīdznieku. Šim upurim ir ļauts veikt Gribasspēka metienu, lai pretotos, ko modificē mērķa Rangs vai IZM, atkarībā no tā, kurš dod upurim izdevīgāko rezultātu, kā tas sīkāk aprakstīts tabulā zemāk.
+
+| Mērķa rangs | Mērķa IZM | Gribasspēka modifikators |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | Draudīgs |
+| 2 | 21-40 | Grūts |
+| 3 | 41-60 | Standarta |
+| 4 | 61-80 | Viegls |
+| 5 | 81+ | Ļoti viegls |
+
+_\* Šī kategorija ietver tēlus, kuriem nav Klases._
+
+Ja šis Pretestības metiens ir neveiksmīgs, subjekts tiek acumirklī nogalināts, viņa ķermenim pārvēršoties putekļos. Tikai "Vēlēšanās" (Wish) burvestības izmantošana šajā stadijā var atgriezt upuri. Veiksmīga metiena gadījumā subjekta Sitiena punkti tiek samazināti līdz negatīviem 1d4 skartajā Sitiena vietā. Bruņas neaizsargā pret šo bojājumu. "Iznīcināšana" nenoveco burvju, kad tā tiek izmantota.
 
 ---
-#### Secure Portal (Drošs portāls)
+#### Drošs portāls
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 1 minūte/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 60 pēdas/Intensitāte |
-| **Apgabals:** 1 portāls | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 60 pēdas/Intensitāte |
+| **Zona:** 1 portāls | **Pretestība:** N/A |
 
-Aizslēdz durvis vai portālu.
+Šo burvestību var izmantot, lai turētu ciet vienas durvis, nolaižamo režģi, vārtus vai citu līdzīgu koka, akmens vai metāla atveri, it kā tā būtu droši aizslēgta. Durvis, kuru izturība var būt līdz 25 Sitiena punktiem uz Intensitātes vienību, var tikt izsistas, bet citādi neatvērsies burvestības Ilguma laikā, kuru burvējs jebkurā brīdī var izbeigt. Burvestību var anulēt ar veiksmīgu "Maģijas izkliedēšanas" (Dispel Magic) izmantošanu ar lielāku Intensitāti nekā Magnitūda vai "Klaudzienu" (Knock) ar jebkādu Intensitāti. "Drošs portāls" arī automātiski tiek apiets būtnēm no aiz-pamatmateriālās plaknes, piemēram, dēmoniem, velniem, eņģeļiem un elementāļiem, jo tās spēj iziet cauri cietiem materiāliem. Tas arī neietekmēs "Mirgošanu" (Blink) vai citas tamlīdzīgas burvestības.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 1 | 1 min.; 60 pēdu attālums; portāls līdz 25 hp; tipiskas koka durvis |
+| 2 | 2 | 2 min.; 120 pēdu attālums; portāls līdz 50 hp; koka nostiprinātas durvis |
+| 3 | 3 | 3 min.; 180 pēdu attālums; portāls līdz 75 hp; dzelzs durvis vai nolaižams režģis |
+| 4 | 4 | 4 min.; 240 pēdu attālums; portāls līdz 120 hp; mazi pils vārti |
+| 5 | 5 | 5 min.; 300 pēdu attālums; portāls līdz 150 hp; lieli, nostiprināti pils vārti |
 
 ---
-#### Shield (Vairogs)
+#### Vairogs
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 5 raundi/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Burvis | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 0 |
+| **Zona:** Burvējs | **Pretestība:** N/A |
 
-Rada neredzamu spēka disku, kas aizsargā no uzbrukumiem.
+"Vairogs" rada neredzamu, mobilu spēka disku, kas peld burvja priekšā, palielinot grūtību uzbrukumiem, kas vērsti no šī virziena, atvirzot tos prom. Miniatūru kaujā "Vairogs" bloķēs tikai tos bojājumus, kas nāk cauri kādam no burvja priekšējiem kvadrātiem. Burvju lietotājam nav jāveic nekāda veida prasmju pārbaude, izņemot pašas burvestības izpildi, jo burvestības maģija automātiski novieto vairogu starp uzbrukumiem un burvēju. Sods, kas tiek piemērots uzbrukumiem, kuri triecas cauri burvja priekšpusei, ir balstīts uz uzbrukuma veidu un ir detalizēti aprakstīts tabulā zemāk.
+
+| Uzbrukuma veids | Piemēri | Grūtība trāpīt burvējam |
+| :-: | :-- | :-- |
+| Maģiskais lādiņš | Tikai maģiskie lādiņi | Neiespējami, maģiskie lādiņi tiek automātiski bloķēti |
+| Mesti uzbrukumi | Akmeņi, mesti cirvji un šķēpi utt. | Draudīgs |
+| Mehāniski raidīti uzbrukumi | Bultas, arbaleta un mantikoras bultas, lingas akmeņi un lodes utt. | Draudīgs |
+| Cits fizisks | Zobeni, kodumi, nagas utt. | Grūts |
+| Burvestības, no kurām var izvairīties | Uguns bumba, zibens lādiņš, aukstuma konuss utt. | Normāla grūtība, bet nav bojājumu, ja burvējs izvairās, un puse, ja viņiem neizdodas |
 
 ---
-#### Silence (Klusums)
+#### Klusums
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
 | **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Aizbildnis | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 360 pēdas |
-| **Apgabals:** 15 pēdu rādiuss | **Pretestība:** Skatīt zemāk |
+| **Sfēra:** Aizbildnis | **Ilgums:** Skat. zemāk |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 360 pēdas |
+| **Zona:** 15 pēdu rādiuss | **Pretestība:** Skat. zemāk |
 
-Rada pilnīgu klusumu ietekmes apgabalā.
+Šī burvestība ļauj burvējam radīt pilnīgu un absolūtu klusumu Iedarbības zonā. Nekāda skaņa nav iespējama, sarunas apstājas, burvestības ar verbālo komponentu nevar tikt izpildītas utt. Ja "Klusums" tiek uzlikts uz objekta vai būtnes, burvestības Iedarbības zona pārvietosies kopā ar mērķi. Tomēr tajā pašā gaisā atstāta burvestība paliks nekustīga. Burvestības ilgums ir atkarīgs no tā, vai subjekts ir labprātīgs vai negribīgs. Uz labprātīga subjekta Ilgums ir 2 minūtes/Intensitāte, savukārt uz negribīga subjekta Ilgums ir 2 raundi/Intensitāte. Gribasspēka Pretestības metiens ir atļauts tikai tad, ja burvestība tiek izmantota uz negribīgas būtnes, un, ja tas ir veiksmīgs, burvestība tā vietā mērķē uz laukumu, ko būtne aizņem, paliekot nekustīga.
 
 ---
-#### Sleep (Miegs)
+#### Miedziņš
 
-(Apburšana (Šarms))
+(Burvestība (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 5 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 60 pēdas |
-| **Apgabals:** 10 pēdu rādiuss | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 60 pēdas |
+| **Zona:** 10 pēdu rādiuss | **Pretestība:** Gribasspēks |
 
-Liek radībām iemigt.
+Šī burvestība izraisa maģisku miegu vienai dzīvai būtnei uz katru Intensitātes līmeni 10 pēdu rādiusa apļveida zonā. Burvestības Iedarbības zona ir centrēta punktā telpā vai uz zemes, un vistuvākā būtne var pretoties pirmā, tad nākamā vistuvākā utt. Ja divas vai vairākas būtnes atrodas vienādā attālumā, nejauši nosakiet, kurš tiek ietekmēts. Katrai būtnei ir atļauts metiens pretestībai, un, ja tas ir veiksmīgs, nākamajai ir jāmēģina, līdz kopējais skaits ir ticis ietekmēts vienādā apjomā ar burvestības Intensitāti vai arī Iedarbības zonā vairs nav būtņu. Būtnes paaugstinātas modrības stāvoklī vai kaujas laikā, kad tiek izmantota burvestība, uzskata metienu pretestībai par vienu pakāpi vieglāku.
+
+Lielas būtnes (IZM 21-40) ir mazāk uzņēmīgas pret "Miedziņu", ar Pretestības metienu "Viegls", savukārt Pretestības metiens milzīgām būtnēm (IZM 41+) ir "Ļoti viegls". Mazākas būtnes vienmēr tiek ietekmētas pirms lielākām; tāpēc būtnes ar IZM 20 vai mazāk vienmēr tiek ietekmētas pirms tām ar IZM 21 līdz 40, kuras savukārt vienmēr tiek ietekmētas pirms tām ar IZM 41+.
+
+Guļot, ietekmētās būtnes ir bezpalīdzīgas, un parasts troksnis tās neiztraucēs, bet tās var tikt sapurinātas vai iepļaukātas augšā. Jebkurš uzbrukums, pieņemot, ka tas nav nāvējošs, arī liks tām pamosties (lai gan uzbrukums būs kā Pārsteigums). Mēģinājums pamodināt būtni prasa 1 kaujas raundu.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 5 min. Ilgums; 1 būtne |
+| 2 | 4 | 10 min. Ilgums; 2 būtnes |
+| 3 | 5 | 15 min. Ilgums; 3 būtnes |
+| 4 | 6 | 20 min. Ilgums; 4 būtnes |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Slow (Palēnināšana)
+#### Palēnināšana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 2 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 2 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** 2 raundi/Intensitāte |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** 100 pēdas |
-| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Gribasspēks |
+| **Izmaksas:** 3/Intensitāte | **Attālums:** 100 pēdas |
+| **Zona:** 20 pēdu rādiuss | **Pretestība:** Gribasspēks |
 
-Samazina mērķa kustības ātrumu un darbības.
+Šī burvestība ļauj burvējam uz pusi samazināt vienas būtnes parasto Kustības ātrumu. Papildu būtni var palēnināt par katru papildu Intensitātes līmeni. Ietekmētajiem jāatrodas Iedarbības zonā, kad burvestība tiek izmantota pirmo reizi, bet pēc tam tie var brīvi pārvietoties. Turklāt tie, kas atrodas "Palēnināšanas" ietekmē, saņem -4 sodu pie savas Iniciatīvas uz burvestības Ilgumu un ir jāsamazina kopējie Darbības punkti uz pusi, ieskaitot jebkurus, kas tiek izmantoti tikai reaktīvos nolūkos. "Palēnināšanas" izmantošana atceļ "Paātrināšanas" (Haste) efektus. "Palēnināšana" nesummējas ar sevi vai līdzīgiem maģiskiem efektiem.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 2 raundu Ilgums; 1 būtne |
+| 2 | 6 | 4 raundu Ilgums; 2 būtnes |
+| 3 | 9 | 6 raundu Ilgums; 3 būtnes |
+| 4 | 12 | 8 raundu Ilgums; 4 būtnes |
+| +1 | +3 | Turpināt progresiju |
 
 ---
-#### Speak with Monsters (Runāšana ar briesmoņiem)
+#### Indes palēnināšana
+
+(Nekromantija)
+
+| | |
+| :-- | :-- |
+| **Rangs:** Garīdznieks 1 | **Buršanas laiks:** 1 darbība |
+| **Sfēra:** Dziedināšana | **Ilgums:** 1 stunda/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** Pieskāriens |
+| **Zona:** 1 mērķis | **Pretestība:** N/A |
+
+Šī burvestība ļauj burvējam palēnināt inde un venēna sekas; tā tomēr neitralizē toksīnu. Tā vietā toksīni, kas izplatās pa ķermeni, tiek palēnināti tik daudz, lai, cerams, varētu tikt atrasti papildu ārstnieciskie līdzekļi. Toksīna sākšanās laiks (Onset Time) neiestājas, kamēr nav beidzies burvestības Ilgums.
+
+Piemēram, kobras indei ir šāds sākšanās laiks: agonija pēc 1d6+4 minūtēm un nosmakšana pēc 1d6+6 stundām. Viena "Indes palēnināšanas" Intensitāte tādēļ atliek sākšanās laiku par 1 stundu, pēc kuras 1d6+4 minūtes vēlāk iestājas agonija kā parasti.
+
+Ja "Indes palēnināšana" tiek izmantota uz upura pēc simptomu parādīšanās, tie apstājas, līdz beidzas burvestības Ilgums, un pēc tam turpinās kā parasti.
+
+Kā pēdējais līdzeklis, ja burvējs var nokļūt pie indivīda, kurš 'miris' no saindēšanās 10 minūšu laikā, "Indes palēnināšana" aizkavē upura nāvi par 1 stundu uz katru Intensitātes vienību, kuras laikā upuris paliek komā. Ja šajā laikā upuri var atbrīvot no indes, upuris joprojām var dzīvot un tikt atdzīvināts ar Pirmo palīdzību vai maģisku dziedināšanu.
+
+---
+#### Saruna ar briesmoņiem
 
 (Transmutācija)
 
@@ -2362,203 +2730,280 @@ Samazina mērķa kustības ātrumu un darbības.
 | :-- | :-- |
 | **Rangs:** Garīdznieks 4 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Zīlēšana | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 100 pēdas |
-| **Apgabals:** 1 vai vairāk | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 100 pēdas |
+| **Zona:** 1 vai vairāki briesmoņi | **Pretestība:** N/A |
 
-Ļauj saprasties ar jebkuru radību.
+Šī burvestība ļauj burvējam saprast un būt saprastam jebkura veida būtnei, kas spējīga uz jebkādu saziņas formu (telepātisku, feromonu, taustāmu utt.). Burvējs vienkārši runā savā valodā, un būtne saprot burvja nolūku vai jautājumu savā saziņas veidā. Spēles meistaram vajadzētu noteikt būtnes reakciju, pamatojoties uz tās Orientāciju, salīdzinot ar burvja orientāciju. Burvējs var pārslēgties no vienas būtnes uz citu tā paša veida būtni visu burvestības Ilgumu.
 
 ---
-#### Sphere of Invulnerability, Lesser (Mazākā neaizskaramības sfēra)
+#### Invulnerabilitātes sfēra, mazāka
 
-(Abjurācija)
+(Abjūrācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 2 darbības |
+| **Rangs:** Mags 3 | **Buršanas laiks:** 2 darbības |
 | **Sfēra:** Nav | **Ilgums:** 1 raunds/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 5 pēdu rādiuss | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 0 |
+| **Zona:** 5 pēdu rādiuss | **Pretestība:** N/A |
 
-Pasargā no 1. un 2. ranga burvestībām.
+Kad šī burvestība tiek izmantota, ap burvēju veidojas nekustīga mirdzoša maģiskās aizsardzības sfēra. 1. un 2. ranga burvestības, kā arī jebkādas maģiskās iedarbības zonas, ko tās rada, nespēs iekļūt sfērā, ieskaitot tās, kuras piemīt maģiskiem priekšmetiem vai dažu būtņu iedzimtajām maģiskajām Spējām. Burvējs un jebkuri burvestībām spējīgi sabiedrotie var veikt maģisku uzbrukumu no sfēras iekšpuses bez kaitīgiem efektiem un pat atstāt sfēru un atgriezties, neietekmējot tās Ilgumu. "Mazāku invulnerabilitātes sfēru" normāli ietekmē "Maģijas izkliedēšana".
 
 ---
-#### Spider Climb (Zirnekļa kāpiens)
+#### Zirnekļa kāpiens
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Mags 1 | **Buršanas laiks:** 1 darbība |
 | **Sfēra:** Nav | **Ilgums:** 2 minūtes/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** Pieskāriens |
+| **Zona:** 1 mērķis | **Pretestība:** N/A |
 
-Ļauj pārvietoties pa vertikālām virsmām.
+Šīs burvestības subjekts var pārvietoties pa vertikālām virsmām un griestiem ar 10 pēdu Kustības ātrumu, pat karājoties ar galvu uz leju. Subjektam jānovelk viss roku un kāju apģērbs, un ļoti mazu priekšmetu (nenozīmīgs ENC) izmantošana ir neiespējama, jo tie pielīp pie viņu rokām. Tas ietver lielāko daļu burvestību materiālo komponentu, parasti padarot burvestību izpildi neiespējamu "Zirnekļa kāpiena" ietekmē. Lai izrautu priekšmetu no indivīda vai atrautu pretojošos indivīdu no virsmas, ir nepieciešams veiksmīgs Spēka metiens ar Draudīgu grūtības pakāpi.
 
 ---
-#### Spiritshield (Garu vairogs)
+#### Garu vairogs
 
-(Abjurācija)
+(Abjūrācija)
 
 | | |
 | :-- | :-- |
 | **Rangs:** Garīdznieks 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nekromantija | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 1 | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Sfēra:** Nekromantiskā | **Ilgums:** Koncentrēšanās |
+| **Izmaksas:** 1 | **Attālums:** Pieskāriens |
+| **Zona:** 1 mērķis | **Pretestība:** Gribasspēks |
 
-Dara grūtu garu un spoku piekļūšanu saņēmējam.
-
----
-#### Spiritual Hammer (Garīgais āmurs)
+Šī burvestība rada vairogu ap saņēmēju, kas attur garus un spokus no iekļūšanas. Jebkuram garam vai spokam, kas vēlas uzbrukt vai apsēst saņēmēju, ir jāpārvar burvestība, uzvarot pretējā Gribasspēka metienā pret burvja Dievbijības prasmi.#### Garīgais āmurs
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Kauja | **Ilgums:** 3 raundi/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** 30 pēdu rādiuss | **Pretestība:** Parry vai Evade |
+| **Rangs:** Garīdznieks 2 | **Buršanās laiks:** 2 Darbības |
+| **Sfēra:** Kauja | **Ilgums:** 3 Raundi/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 0 |
+| **Apgabals:** 30 pēdu Rādiuss/Intensitāte | **Pretestība:** Atsišana (Parry) vai Izvairīšanās (Evade) |
 
-Rada maģisku āmuru, kas uzbrūk ienaidniekiem.
+Pēc šī burvestības izpildīšanas parādās garīgas enerģijas āmurs, kas metas virsū burvja norādītajam mērķim. Katrā Raundā burvis var izmantot vienu no saviem Darbības punktiem, lai vadītu āmura uzbrukumus, ja vien tiek saglabāta Koncentrācija. Koncentrēšanās laikā burvis drīkst pārvietoties ne ātrāk kā soļojot, un var veikt Izvairīšanos vai Atsišanu ar aprīkotu ieroci vai vairogu, nepārtraucot koncentrēšanos. Ar katru Darbības punktu, kas iztērēts āmura vadīšanai, to var pārvietot uz jebkuru vietu burvja redzes laukā. Ja burvis atrodas aiz pretinieka, viņš var izmantot āmuru, lai triektu pretiniekam no aizmugures, tādējādi liedzot tam iespēju aizsargāties pēc labākās sirdsapziņas. Garīgais āmurs nodara bojājumus kā parasts kara āmurs (1d8+1), un tam ir iespēja trāpīt, kas vienāda ar garīdznieka Kaujas prasmēm. Valkātās bruņas piedāvā tikai pusi aizsardzības, taču maģiskie Bruņu punkti vai radības dabiskās bruņas samazina bojājumus kā parasti. To var atsist vai no tā var izvairīties kā parasti, un uzbrukumi tam nav efektīvi. Garīgais āmurs skaitās kā maģisks ierocis attiecībā uz radībām, kuras var ievainot tikai ar maģiju, turklāt katrs Intensitātes līmenis pēc pirmā piešķir kumulatīvu +1 Maģisko bonusu, līdz maksimāli +5. Šis bonuss nepalielina nodarītos bojājumus, bet gan palīdz ievainot radības, kuras var ievainot tikai ar noteiktu maģisko bonusu vai augstāku.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 3 Raundi; 30 pēdu rādiuss; skaitās kā +0 |
+| 2 | 4 | 6 Raundi; 60 pēdu rādiuss; skaitās kā +1 |
+| 3 | 5 | 9 Raundi; 90 pēdu rādiuss; skaitās kā +2 |
+| 4 | 6 | 12 Raundi; 120 pēdu rādiuss; skaitās kā +3 |
+| 5 | 7 | 15 Raundi; 150 pēdu rādiuss; skaitās kā +4 |
+| 6 | 8 | 18 Raundi; 180 pēdu rādiuss; skaitās kā +5 maks. |
+| +1 | +1 | Turpināt progresiju Raundiem un rādiusam |
 
 ---
-#### Sun Ray (Saules stars)
+#### Saules stars
 
 (Evokācija, Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 5 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Saule | **Ilgums:** 1d4+1 raundi |
-| **Izmaksas:** 3/Intensitāte | **Diapazons:** 30 pēdas/Intensitāte |
-| **Apgabals:** 5 pēdu rādiuss | **Pretestība:** Skatīt zemāk |
+| **Rangs:** Garīdznieks 5 | **Buršanās laiks:** 2 Darbības |
+| **Sfēra:** Saule | **Ilgums:** 1d4+1 Raundi |
+| **Izmaksas:** 3/Intensitāte | **Attālums:** 30 pēdas/Intensitāte |
+| **Apgabals:** 5 pēdu Rādiuss | **Pretestība:** Skatīt zemāk |
 
-Izsauc saules gaismas staru, kas apdedzina nedzīvos.
+Kad burvestība izpildīta, garīdznieks var izsaukt spožu svētās gaismas staru, izmantojot Burvju darbību jebkurā brīdī burvestības Ilguma laikā. Stars ir dabiska saules gaisma, un tam ir piecu pēdu rādiuss. Tiem, kas atrodas Ietekmes apgabalā, jāizvairās (Evade), lai mēģinātu aizsegt acis, vai arī tie kļūs akli uz 1d3 Minūtēm. Ja viņi izgāžas savā Pretestības metienā, Saules stars apžilbina radības, kas izmanto Tumsas redzi (Darkvision), uz 2d4 Minūtēm, un tās zaudē savu Tumsas redzes spēju uz 1d4+1 Minūtēm līdz pat 20 pēdām aiz Ietekmes apgabala robežām. Radības, kurām dabiskā saules gaisma ir kaitīga redzei, pēc neveiksmīga Pretestības metiena kļūst aklas uz visiem laikiem, vai uz 2d6 Raundiem, ja metiens ir veiksmīgs.
+
+Nedzīvie (Undead) Ietekmes apgabalā saņem 2d6 bojājuma punktus katrai ķermeņa daļai. Bruņas, dabiskas vai citādas, nepiedāvā nekādu aizsardzību, taču maģiskie Bruņu punkti samazina bojājumus kā parasti. Tie, kas atrodas piecu pēdu attālumā no Ietekmes apgabala malas, var izvairīties, lai nesaņemtu bojājumus. Nedzīvie, kas atrodas 20 pēdu attālumā no Ietekmes apgabala, joprojām saņem 1d6+1 bojājuma punktus, bet nescieš nekādus bojājumus, ja Pretestības metiens ir veiksmīgs. Nedzīvie, kurus īpaši kaitē saules gaisma, piemēram, vampīri, tiek iznīcināti, ja tiem neizdodas izvairīties. Sēnīšveidīgās radības, kā arī visu veidu pazemes sēnes cieš tādus pašus efektus kā nedzīvie, taču tās nevar veikt Pretestības metienu.
 
 ---
-#### Tidy (Sakārtošana)
+#### Sakārtošana
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** Tūlītējs |
-| **Izmaksas:** 1 | **Diapazons:** 20 pēdas |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Rangs:** Burvis 0 | **Buršanās laiks:** 1 Darbība |
+| **Sfēra:** Nav | **Ilgums:** Momentāns |
+| **Izmaksas:** 1 | **Attālums:** 20 pēdas |
+| **Apgabals:** Skatīt zemāk | **Pretestība:** NA |
 
-Nekavējoties sakārto priekšmetus.
+Sakārtošana (Tidy) nekavējoties atjauno vairākus priekšmetus (līdz burvja VAR skaitam), kuru izmērs nepārsniedz 2 'Lietas' katram, sakārtotā, glītā un kārtīgā veidā burvestības Attāluma ietvaros. Priekšmeti, kas ir lielāki par 2 'Lietām' katrs, tiek pārvietoti uz sakārtotāku pozīciju, taču būs nepieciešama manuāla iejaukšanās, lai tos pienācīgi sakārtotu.
 
 ---
-#### True Seeing (Patiesā redze)
+#### Patiesā redze
 
 (Zīlēšana)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3, Burvis 4 | **Buršanas laiks:** 1 raunds |
-| **Sfēra:** Zīlēšana | **Ilgums:** 1 minūte/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 mērķis | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 3, Burvis 4 | **Buršanās laiks:** 1 Raunds |
+| **Sfēra:** Zīlēšana | **Ilgums:** 1 Minūte/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** Pieskāriens |
+| **Apgabals:** 1 Mērķis | **Pretestība:** NA |
 
-Ļauj redzēt cauri visām ilūzijām, neredzamībai un citiem slēpšanas veidiem.
+Patiesā redze piešķir subjektam spēju skaidri redzēt pasauli 60 pēdu rādiusā, ievērojot redzamības līniju. Visi noslēpumi Ietekmes apgabalā kļūst redzami; tiek pārvarēta gan dabiskā, gan maģiskā tumsa; slepenās durvis kļūst redzamas; neredzami vai ēteriski uzbrucēji tiek atklāti; ilūzijas un fantāzijas kļūst acīmredzamas; un tiek atklāta pārveidoto radību patiesā forma. Pat ēterisko un citas plaknes, kas atrodas blakus materiālajai plaknei, var saskatīt ar Koncentrāciju. Patiesā redze arī neitralizē tādu burvestību efektus kā Izplūdums (Blur) un Spoguļattēls (Mirror Image). Papildus laicīgajiem materiālajiem komponentiem Patiesās redzes izpildei ir nepieciešamas retas sastāvdaļas, kas izgatavotas no pulverveida sēnēm, safrāna un dzīvnieku taukiem, kuru vērtība ir vismaz 300 GP.
 
 ---
-#### Voice (Balss)
+#### Balss
 
 (Apburšana (Šarms))
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 0 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Šarms | **Ilgums:** Koncentrēšanās |
-| **Izmaksas:** 1 | **Diapazons:** Skatīt zemāk |
-| **Apgabals:** 1 mērķis | **Pretestība:** Gribasspēks |
+| **Rangs:** Garīdznieks 0 | **Buršanās laiks:** 1 Darbība |
+| **Sfēra:** Šarms | **Ilgums:** Koncentrācija |
+| **Izmaksas:** 1 | **Attālums:** Skatīt zemāk |
+| **Apgabals:** 1 Mērķis | **Pretestība:** VAR (Gribasspēks) |
 
-Pastiprina runu, padarot to pārliecinošu un dzirdamu lielā attālumā.
+Balss pastiprina saņēmēja intonāciju un izteiksmi, padarot to pārliecinošu, kad tiek izdotas mutiskas pavēles. Visi, kas dzird runātāju, ir spiesti klausīties. Viņu vokalizācija arī izplatās cauri un pāri pat visskaļākajam fona troksnim (gaudojošas vētras, ūdenskrituma rēkoņa, ieroču šķindēšana kaujas laukā) līdz pat Attālumam, kas vienāds ar 30 reizēm saņēmēja HAR pēdās.
 
 ---
-#### Wall of Fire/Circle of Fire (Uguns siena/Uguns aplis)
+#### Uguns siena / Uguns aplis
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 3, Burvis 3 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** ?? | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Skatīt zemāk |
+| **Rangs:** Garīdznieks 3, Burvis 3 | **Buršanās laiks:** 2 Darbības |
+| **Sfēra:** Kauja, Elementāls (Uguns) | **Ilgums:** Skatīt zemāk |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** Skatīt zemāk |
 | **Apgabals:** Skatīt zemāk | **Pretestība:** Skatīt zemāk |
 
-Rada uguns sienu vai apli.
+Šī burvestība ļauj burvim izsaukt degošas liesmas sienu vai apli, kā vēlams buršanās brīdī, kuras deg purpursarkanā vai sarkanīgi zilā krāsā. Burvestības Ilgums paliek spēkā, ja tiek saglabāta Koncentrācija, vai 1 Raundu uz Intensitāti pēc Koncentrācijas pārtraukšanas. Sīkāka informācija ir sniegta zemāk atkarībā no veida:
+
+**Uguns siena:** Šī burvestības versija izveido stacionāru uguns sienu, kas ir 20 pēdas gara uz katru Intensitātes līmeni. Neatkarīgi no galīgās Intensitātes, sienas augstums ir no 10 līdz 20 pēdām, kā vēlams buršanās brīdī. Uguns sienas Attālums ir 180 pēdas, un to nedrīkst izsaukt horizontāli.
+
+**Uguns aplis:** Šī burvestības versija izveido uguns apli ap burvi, kas pārvietojas kopā ar viņu. Tā rādiuss ir 10 pēdas, plus vēl 5 pēdas uz katru papildu Intensitāti virs pirmās. Neatkarīgi no galīgās Intensitātes, apļa augstums ir no 10 līdz 20 pēdām, kā vēlams buršanās brīdī. Uguns aplim jāapņem burvis, un tā Attālums ir 0.
+
+Sienas vai apļa puse, kas vērsta prom no burvja, izstaro svelmainu karstumu, nodarot 1d6 bojājumus katrā Raundā visiem 10 pēdu attālumā, un 1d4 bojājumus līdz 20 pēdām. Šie bojājumi parasti tiek piemēroti Raunda beigās pirms pārejas uz nākamo. Ja upuris vienā Raundā atrodas abās karstuma zonās, tiek piemērots lielākais bojājums. Tie, kas lec cauri liesmām, cieš 2d6 bojājuma punktus, plus vienu papildu bojājuma punktu uz katru Intensitāti virs pirmās. Šis bojājums tiek piemērots katrai ķermeņa daļai, un valkātās bruņas nepiedāvā nekādu aizsardzību, taču maģiskie Bruņu punkti vai radības dabiskās bruņas samazina bojājumus kā parasti. Veiksmīgs Izvairīšanās Pretestības metiens ļauj upurim neciest nekādus bojājumus tajā Raundā, kad burvestība rodas, upurim mēģinot nirt prom no karstuma vai cauri liesmām. Uguni izmantojošas radības saņem pusi no šī bojājuma, bet aukstumu izmantojošas radības – dubultā. Liesmām ir iespēja aizdedzināt uzliesmojošus materiālus, kas vienāda ar nodarīto bojājumu reiz 5%. Skatīt sadaļu par [Ugunīm](0007_Game_System.md?id=fire-based-attacks) papildu informācijai.
 
 ---
-#### Water Breathing (R) (Ūdens elpošana)
+#### Elpošana ūdenī (R)
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 2, Burvis 2 | **Buršanas laiks:** 2 darbības |
-| **Sfēra:** Elementālā (Ūdens, Gaiss) | **Ilgums:** 6 stundas/Intensitāte, +1d4 stundas |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** Pieskāriens |
-| **Apgabals:** 1 vai vairāk | **Pretestība:** N/A |
+| **Rangs:** Garīdznieks 2, Burvis 2 | **Buršanās laiks:** 2 Darbības |
+| **Sfēra:** Elementāls (Ūdens, Gaiss) | **Ilgums:** 6 stundas/Intensitāte, +1d4 Stundas |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** Pieskāriens |
+| **Apgabals:** 1 vai vairāki Mērķi | **Pretestība:** NA |
 
-Piešķir spēju elpot ūdenī.
+Šī burvestība piešķir burvim vai citiem spēju elpot ūdenī visa tā Ilguma laikā. Buršanās laikā var pieskarties vairāk nekā vienam saņēmējam un tādējādi iegūt Elpošanas ūdenī priekšrocības. Šajā gadījumā Ilgums tiek dalīts ar subjektu skaitu. Precīzs Elpošanas ūdenī burvestības Ilgums ir neparedzams, un tas jāmet Spēles meistaram, jo tiem, kas atrodas zem tā ietekmes, nevajadzētu precīzi zināt, cik daudz laika ir atlicis. Šīs burvestības pretstats, Elpošana gaisā, ļauj radībai, kas citādi nespēj elpot skābekli, to darīt. Spēja elpot savu dabisko elementu joprojām saglabājas neatkarīgi no burvestības varianta, tāpēc zivs varētu elpot gan uz sauszemes, gan zem ūdens burvestības Ilguma laikā.
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 6 stundas +1d4 stundas kopā |
+| 2 | 4 | 12 stundas +1d4 stundas kopā |
+| 3 | 5 | 18 stundas +1d4 stundas kopā |
+| 4 | 6 | 24 stundas +1d4 stundas kopā |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Web (Tīkls)
+#### Tīkls
 
 (Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 1 | **Buršanas laiks:** 1 darbība |
-| **Sfēra:** Nav | **Ilgums:** 20 minūtes/Intensitāte |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 30 pēdas/Intensitāte |
-| **Apgabals:** 20 pēdu rādiuss | **Pretestība:** Evade, + Skatīt zemāk |
+| **Rangs:** Burvis 1 | **Buršanās laiks:** 1 Darbība |
+| **Sfēra:** Nav | **Ilgums:** 20 Minūtes/Intensitāte |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 30 pēdas/Intensitāte |
+| **Apgabals:** 20 pēdu Rādiuss | **Pretestība:** Izvairīšanās, plus Skatīt zemāk |
 
-Rada lipīgus tīklus, kas imobilizē pretiniekus.
+Šī burvestība izraisa lipīgu tīklu garu pavedienu izšaušanos no burvja rokas, kurus var noenkurot no grīdas līdz griestiem vai no sienas līdz sienai, lai bloķētu pāreju vai kavētu progresu. To var arī izsmidzināt tieši uz pretiniekiem, lai tos sapītu.
+
+Pieņemot, ka mērķim ir vieta, kur izbēgt no tīkliem, veiksmīgs Izvairīšanās metiens novieto mērķi ārpus Ietekmes apgabala; tomēr tam ir nepieciešams pieejams Darbības punkts. Neveiksmīgs Pretestības metiens atstāj upuri imobilizētu, un 1d3 ķermeņa daļas sapītas. Tāpat kā [Sapīšanas](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) (Entangle) Speciālais efekts, sapīta ķermeņa daļa ir nelietojama. Sapīta roka nevar izmantot to, ko tā tur, sapītas krūtis, vēders vai kāja padara visus fiziskos prasmju metienus par vienu pakāpi grūtākus (izņemot SPĒ metienus, ko izmanto, lai mēģinātu atbrīvoties), un sapīta galva izraisa nosmakšanu, kā sīki aprakstīts sadaļā [Nosmakšana](0007_Game_System.md?id=asphyxiation).
+
+Nākamajā Raundā upuris var iztērēt Darbības punktu, lai mēģinātu atbrīvoties no tīkla. Maģiskais tīkls ir neticami stiprs un lipīgs, tam ir 6 Bruņu punkti un Trāpījuma punkti, kas vienādi ar 3x burvestības Intensitāti. Mēģinājums atbrīvoties prasa upurim uzvarēt Pretstatītajā metienā – SPĒ pret tīkla Lipīgumu (vienāds ar burvja Arkānisko buršanās prasmju līmeni). Ja tas neizdodas, mērķis paliek piestiprināts, nespējot atbrīvoties tikai ar spēku vien. Mēģinājums izgriezties, izmantojot rīku vai ieroci, pakļauj to pašu procesu. Neraugoties uz vispārpieņemto uzskatu, tīkli nav uzliesmojoši, taču tēls var lēnām izdedzināt ceļu cauri tīklam, izmantojot liesmu, lai savilktu pavedienus (uguns bojājumi ignorē Tīkla Bruņu punktus).
+
+| Intensitāte | Izmaksas | Mainīgais efekts |
+| :-: | :-: | :-- |
+| 1 | 3 | 20 min.; 30 pēdu Attālums; 6 bruņas, 3 Trāpījuma punkti |
+| 2 | 4 | 40 min.; 60 pēdu Attālums; 6 bruņas, 6 Trāpījuma punkti |
+| 3 | 5 | 60 min.; 90 pēdu Attālums; 6 bruņas, 9 Trāpījuma punkti |
+| 4 | 6 | 80 min.; 120 pēdu Attālums; 6 bruņas, 12 Trāpījuma punkti |
+| +1 | +1 | Turpināt progresiju |
 
 ---
-#### Wish (Vēlēšanās)
+#### Vēlēšanās
 
-(Konjurācija, Evokācija)
+(Izsaukšana, Evokācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 5 | **Buršanas laiks:** Skatīt zemāk |
+| **Rangs:** Burvis 5 | **Buršanās laiks:** Skatīt zemāk |
 | **Sfēra:** Nav | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1 vai vairāk EXP | **Diapazons:** Neierobežots |
+| **Izmaksas:** 3, +1 vai vairāk PI (Pieredzes punkti) | **Attālums:** Neierobežots |
 | **Apgabals:** Skatīt zemāk | **Pretestība:** Skatīt zemāk |
 
-Wish var mainīt realitāti pastāvīgā un nozīmīgā veidā.
+Vēlēšanās var mainīt realitāti pastāvīgā un nozīmīgā veidā. Lai izpildītu šo burvestību, maģijas lietotājam jāiztērē 3 Maģijas punkti un 1 vai vairāki PI metieni atkarībā no vēlamajiem rezultātiem. Katra nākamā Vēlēšanās 1 mēneša laikā dubulto parasti nepieciešamo PI izdevumu. Buršanās laiks parasti ir nepieciešams, lai mutiski izklāstītu Vēlēšanās detaļas. Pēc pabeigšanas burvis cieš no noguruma (Fatigue), kas vienāds ar iztērēto PI, un noveco par 5% no sava normālā paredzamā mūža ilguma (cilvēkiem tie būtu pieci gadi). Skatīt [Novecošana](0007_Game_System.md?id=aging) par demi-cilvēku rasu vidējo paredzamo mūžu.
+
+Vēlēšanās rezultāti jāuztver burtiski un ir atvērti Spēles meistara interpretācijai. Mantkārīgas vēlmes parasti beidzas slikti. Pastāv 10% iespēja, ka Vēlēšanās, kas izteikta ar mantkārīgiem nolūkiem, kādā veidā atspēlējas. Piemēram, vēlēšanās iegūt bagātību varētu to teleportēt no vietējā kunga vai karaļa dārgumu glabātavām. Vēlēšanās nevar atcelt dievībām līdzīgu entītiju dekrētus, ja vien šāda būtne nav izdevusi minēto Vēlēšanos.
+
+Tālāk ir sniegti daži Vēlēšanās piemēri un nepieciešamie PI izdevumi.
+
+##### Vēlēšanās piemēri un izmaksas
+
+| Vēlamā vēlēšanās | PI Izmaksas |
+| :-- | :-: |
+| Atcelt noteiktus efektus, kuriem parasti nepieciešama Vēlēšanās burvestība. | 1 PI |
+| Dublēt jebkuras citas 1. vai 2. ranga Arkāniskās vai Dievišķās burvestības efektus 15 Intensitātē vai ekvivalentu. | 1 PI \* |
+| Dublēt jebkuras citas 3. vai 4. ranga Arkāniskās vai Dievišķās burvestības efektus 15 Intensitātē vai ekvivalentu. | 2 PI \* |
+| Dublēt jebkuras citas 5. ranga Arkāniskās vai Dievišķās burvestības efektus 15 Intensitātē vai ekvivalentu, izņemot Realitātes mainīšanu (Alter Reality). | 3 PI \* |
+| Padarīt maģisku vai pārdabisku efektu pastāvīgu. | 3 PI |
+| Atgriezt mirušu radību dzīvē neatkarīgi no nāves datuma vai atlikušajām mirstīgajām atliekām, bez negatīviem efektiem. | 5 PI |
+| Atjaunot zaudētu vai sakropļotu ekstremitāti pilnā veselībā. | 2 PI |
+| Izdziedināt radību no visiem smagiem un viegliem ievainojumiem. | 1 PI |
+| Pastāvīgi paaugstināt vai pazemināt vienu Raksturlielumu par 1 punktu (maksimāli +/-5). | \*\* |
+| Pastāvīgi paaugstināt vai pazemināt vienu prasmi par 10% (maksimāli +/-50%). | \*\* |
+| Transportēt sevi un līdz 7 sabiedrotajiem uz citu atrašanās vietu neatkarīgi no attāluma. | 1 PI |
+| Transportēt sevi un līdz 7 sabiedrotajiem uz citu esamības plakni. | 2 PI |
+| Izveidot pagaidu, nemaģisku monētu, priekšmetus vai īpašumu, kura vērtība nepārsniedz 50,000 GP. Priekšmeti ilgst vienu nedēļu uz katru Intensitāti. | 1 PI |
+| Izveidot pagaidu, nemaģisku monētu, priekšmetus vai īpašumu, kura vērtība nepārsniedz 100,000 GP. Priekšmeti ilgst vienu nedēļu uz katru Intensitāti. | 2 PI |
+| Izveidot pastāvīgu, nemaģisku monētu, priekšmetus vai īpašumu, kura vērtība nepārsniedz 10,000 GP. | 2 PI |
+| Izveidot pastāvīgu, nemaģisku monētu, priekšmetus vai īpašumu, kura vērtība nepārsniedz 50,000 GP. | 3 PI |
+| Izveidot pastāvīgu, nemaģisku monētu, priekšmetus vai īpašumu, kura vērtība nepārsniedz 100,000 GP. | 4 PI |
+| Izveidot pagaidu 1. vai 2. ranga maģisko priekšmetu. Priekšmets ilgst 1 stundu uz katru Intensitāti. | 1 PI |
+| Izveidot pagaidu 3. ranga maģisko priekšmetu. Priekšmets ilgst 1 stundu uz katru Intensitāti. | 2 PI |
+| Izveidot pagaidu 4. ranga maģisko priekšmetu. Priekšmets ilgst 1 stundu uz katru Intensitāti. | 3 PI |
+| Izveidot pastāvīgu 1. vai 2. ranga maģisko priekšmetu. | 5 PI |
+| Nogalināt citu radību. | 5 PI\*\*\* |
+| Sakropļot ienaidnieka Ķermeņa daļu, novedot to pilnībā negatīvā līmenī. Tikai vēders, kāja vai roka. | 2 PI |
+| Izraisīt Smagu ievainojumu Ķermeņa daļai, novedot to līdz -1 Trāpījuma punktam. Tikai vēders, kāja vai roka. | 1 PI |
+| Pārveidot ainavu jebkura veida reljefā, kādu burvis var iedomāties. Katram 100 pēdu materiāla kubam, kas jāpārveido, nepieciešams 1 Raunda piepūle. | 1 PI par katru 100 pēdu reljefa kubu |
+
+_\* Papildus jebkurai dublēto efektu PI prasībai._
+
+_\*\* Katra secīga palielināšana vai samazināšana izmaksā 1 kumulatīvu PI metienu: 1 PI pirmajai, 2 PI otrajai, 3 PI trešajai, 4 PI ceturtajai un 5 PI piektajai. Tas attiecas pat uz gadījumu, ja Vēlēšanos izpilda cits maģijas lietotājs._
+
+_\*\*\* Tas prasa Gribasspēks pret Gribasspēku Pretestības metienu pret mērķētā upura Gribasspēku. Neveiksme nozīmē, ka Vēlēšanās joprojām izdodas, lai gan kā sagrozīta vēlētāja vēlmju interpretācija. Piemēram, burvi varētu teleportēt uz nākotni, kurā upuris jau ir miris, bet tāpat ir miruši arī visi burvja draugi un mīļotie._
 
 ---
-#### Wizard Sight (Burvja skatiens)
+#### Burvja skatiens
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Burvis 3 | **Buršanas laiks:** 1 minūte |
-| **Sfēra:** Nav | **Ilgums:** 1 minūte/Intensitāte |
-| **Izmaksas:** 1/Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Skatīt zemāk | **Pretestība:** N/A |
+| **Rangs:** Burvis 3 | **Buršanās laiks:** 1 Minūte |
+| **Sfēra:** Nav | **Ilgums:** 1 Minūte/Intensitāte |
+| **Izmaksas:** 1/Intensitāte | **Attālums:** 0 |
+| **Apgabals:** Skatīt zemāk | **Pretestība:** NA |
 
-Burvis rada maģisku aci, caur kuru var skatīties.
+Šī burvestība izveido mazu neredzamu 'aci', caur kuru maģijas lietotājs var skatīties burvestības Ilguma laikā. Šo aci var pārvietot pirms grupas vai sūtīt apskatīties aiz stūriem un telpās, un tās pārvietošanās ātrums ir 20 pēdas raundā (240 pēdas minūtē), ja tiek meklēti tikai 'acīmredzami' draudi vai interesējoši priekšmeti. Tas parasti attieksies tikai uz grīdu un zemākajām sienām. Ja mēģina būt rūpīgāks (pārbaudot arī visas sienas un griestus), tās pārvietošanās ātrums tiek samazināts līdz 10 pēdām raundā (120 pēdas minūtē). Spēles meistaram vajadzētu justies brīvi atļaut uztveres (Perception) metienus burvim, kur tas ir nepieciešams, attiecībā uz vizuālo anomāliju pamanīšanu. Acs ir korporeāla, nespēj iziet cauri cietai matērijai, un tai ir normāla redze līdz 60 pēdām, un Tumsas redze līdz 10 pēdām. Burvim visā Ilguma laikā ir jāuztur Koncentrācija uz aci, pretējā gadījumā tā paliks inerta, līdz Koncentrācija tiks atjaunota. Jebkuri skatiena uzbrukumi, kas parasti ietekmētu burvi, joprojām ietekmē burvi kā parasti; tomēr acs tiek uzskatīta par neatkarīgu no burvja attiecībā uz aklumu, tumsas burvestībām un tamlīdzīgi. Lai izietu cauri mazām atverēm, acs nav lielāka par 1 collu, un tās IZM ir 1.
 
 ---
-#### Word of Recall (Atsaukšanas vārds)
+#### Atsaukšanas vārds
 
 (Transmutācija)
 
 | | |
 | :-- | :-- |
-| **Rangs:** Garīdznieks 4 | **Buršanas laiks:** 1 darbība |
+| **Rangs:** Garīdznieks 4 | **Buršanās laiks:** 1 Darbība |
 | **Sfēra:** Izsaukšana | **Ilgums:** Skatīt zemāk |
-| **Izmaksas:** 3, +1/papildu Intensitāte | **Diapazons:** 0 |
-| **Apgabals:** Burvis | **Pretestība:** N/A |
+| **Izmaksas:** 3, +1/papildu Intensitāte | **Attālums:** 0 |
+| **Apgabals:** Burvis | **Pretestība:** NA |
 
-Instanti teleportē garīdznieku uz iepriekš norādītu patvērumu.
+Kad šī burvestība tiek izpildīta, garīdznieks tiek acumirklī teleportēts uz iepriekš noteiktu svētvietu un noteiktu ierašanās punktu, kas nav lielāks par 10 pēdu rādiusu. Teleportācijas Attālumam nav ierobežojumu, ieskaitot starp vairākām plaknēm. Vienas plaknes ietvaros nav iespējas kļūdīties, tomēr pat vienas plaknes šķērsošana dod neveiksmes (Fumble) iespēju 91-00%, divas plaknes dod neveiksmi ar metienu 81-00% utt. Tas aizstāj burvja parasto neveiksmes iespēju. Neveiksme, šķērsojot plaknes, nozīmē, ka garīdznieks ir neatgriezeniski pazudis. Neveiksmes vienas plaknes ietvaros seko parastajiem noteikumiem.
+
+Papildus sev un jebkuram nestajam aprīkojumam, garīdznieks var transportēt vēl 3 objektus uz katru Intensitāti, katrs ne lielāks par IZM/9 'Lietām'. Papildu transportējamais materiāls var būt dārgumi, aprīkojums vai dzīvas būtnes. Tomēr transportējamajām radībām burvestība jāizpilda ar pietiekamu Intensitātes līmeni, lai segtu jebkuru nesto aprīkojumu.

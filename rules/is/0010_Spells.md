@@ -34,15 +34,15 @@ _\(R\) gefur til kynna galdur sem hægt er að snúa við._
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
 | [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
-| [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
-| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
-| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word – Kill](0010_Spells.md?id=power-word-kill) |
+| [Cleanse \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
+| [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
+| [Deflect](0010_Spells.md?id=deflect) | [Feather Fall](0010_Spells.md?id=feather-fall) | [Fireball](0010_Spells.md?id=fireball) | [Fire Shield](0010_Spells.md?id=fire-shield) | [Permanency](0010_Spells.md?id=permanency) | [Power Word - Kill](0010_Spells.md?id=power-word-kill) |
 | [Dry](0010_Spells.md?id=dry) | [Find Familiar](0010_Spells.md?id=find-familiar) | [Fly](0010_Spells.md?id=fly) | [Fumble](0010_Spells.md?id=fumble) | [Power Word - Blind](0010_Spells.md?id=power-word-blind) | [Wish](0010_Spells.md?id=wish) |
 | [Frostbite](0010_Spells.md?id=frostbite) | [Floating Disk](0010_Spells.md?id=floating-disk) | [Haste](0010_Spells.md?id=haste) | [Ice Storm](0010_Spells.md?id=ice-storm) | [Reincarnation, Arcane](0010_Spells.md?id=reincarnation-arcane) |
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
-| [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Ignite \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word - Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -60,268 +60,269 @@ _\(R\) gefur til kynna galdur sem hægt er að snúa við._
 
 <br>
 
-## Lýsingar á göldrum
+## Lýsingar á galdri
 
 ---
-#### Appraise
+#### Appraise (Mat)
 
-(Spásagnagaldur)
+(Divination - Forspá)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 lota |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdrakarl 0 | **Kasttími:** 1 umferð |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
 | **Svæði:** 1 hlutur | **Vörn:** Engin |
 
-Appraise gerir galdramanni kleift að meta gæði varnings samstundis, með heildar-ENC í „hlutum“ eða SIZ sem jafngildir POW galdramannsins. Galdurinn ákvarðar hvort hlutir sem líta eins út séu af sömu eða svipaðri gæðum, eða hvort einn eða fleiri séu gallaðir eða af hærri gæðum. Galdurinn virkar ekki á lífræna hluti, aðeins á ólífræna hluti. Hann segir heldur ekki til um hvaða gallar eða frambætur séu til staðar; aðeins að þær séu til staðar. Hann nýtist ekki til að bera kennsl á eða greina töfra.
+Appraise leyfir tafarlaust mat á gæðum líkamlegra vara með samanlagðri ENC í „hlutum“ eða STÆ sem jafngildir MÁT galdramannsins. Galdurinn ákvarðar hvort hlutir sem líta eins út séu af sömu eða svipuðum gæðum, eða hvort einn eða fleiri séu gallaðir eða af hærri gæðum. Galdurinn virkar ekki á lífræna hluti, aðeins á dauða hluti. Hann ákvarðar heldur ekki hvaða gallar eða endurbætur eru til staðar; aðeins að þeir séu til staðar. Hann er gagnslaus við auðkenningu eða uppgötvun galdra.
 
 ---
-#### Armor
+#### Armor (Brynja)
 
-(Galdraefni)
+(Conjuration - Töfragerð)
 
 | | |
 | :-- | :-- |
 | **Stig:** Galdrakarl 1 | **Kasttími:** 1 umferð |
-| **Svið:** Ekkert | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 3 +1/styrkleiki | **Drægni:** Snerting |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3 +1/styrkleika | **Drægni:** Snerting |
 | **Svæði:** 1 skotmark | **Vörn:** Engin |
 
-Þegar þessi galdur er kastaður fær skotmarkið ósýnilegan töfravörn sem jafngildir brynju að verndargildi, sem veitir 4 brynjupunkta á hvern líkamshluta. Hann hefur engin áhrif ef honum er kastað á einhvern sem er nú þegar í brynju. Hann mun þó leysa af hólmi náttúrulega brynju á meðan hann varir, að því gefnu að hann bjóði upp á betri vernd. Ef honum er kastað á veru sem hefur fleiri en 4 punkta í náttúrlegri brynju, mun hann í staðinn auka brynjupunktana um 1 á öllum líkamshlutum. Þessi töfravernd hindrar ekki hreyfingu eða galdrakast. Galdurinn varir þar til honum er eytt með töfrum, eða galdramaðurinn verður fyrir 8 stigum af skaða í einni árás, +1 fyrir hvert stig af viðbótarstyrkleika (sjá töfluna hér að neðan). Að sjálfsögðu getur galdramaðurinn valið að láta galdurinn falla hvenær sem er ef óskað er, og verður að gera það til að sofa.
+Þegar þessi galdur er kastaður fær viðfangsefnið ósýnilegan töfrakraft sem veitir vörn sem jafngildir vogbrynju, og gefur 4 brynjupunkta á hvern líkamshluta. Hann hefur engin áhrif ef honum er kastað á einhvern sem er nú þegar í brynju. Hann mun hins vegar koma í stað náttúrulegrar brynju meðan á lengd hans stendur, að því gefnu að hann bjóði upp á betri vörn. Ef kastað á veru sem býr yfir meira en 4 punktum af náttúrlegri brynju mun hann í staðinn auka brynjupunktana um 1 á öllum stöðum. Þessi töfravörn hindrar ekki hreyfingu eða galdrakast. Galdurinn varir þar til honum er eytt með töfrum, eða kastarinn verður fyrir 8 punktum af skemmdum í einni árás, +1 fyrir hvert stig af viðbótarstyrkleika (sjá töfluna hér að neðan). Að sjálfsögðu getur kastarinn valið að láta galdurinn falla hvenær sem er ef óskað er, og verður að gera það til að sofa.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 4 brynjupunktar; varir þar til 8 skaði fæst úr 1 árás |
-| 2 | 4 | 4 brynjupunktar; varir þar til 9 skaði fæst úr 1 árás |
-| 3 | 5 | 4 brynjupunktar; varir þar til 10 skaði fæst úr 1 árás |
-| 4 | 6 | 4 brynjupunktar; varir þar til 11 skaði fæst úr 1 árás |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 4 brynjupunktar; varir þar til 8 skemmdir verða af 1 árás |
+| 2 | 4 | 4 brynjupunktar; varir þar til 9 skemmdir verða af 1 árás |
+| 3 | 5 | 4 brynjupunktar; varir þar til 10 skemmdir verða af 1 árás |
+| 4 | 6 | 4 brynjupunktar; varir þar til 11 skemmdir verða af 1 árás |
+| +1 | +1 | Halda áfram framgangi |
 
 ---
-#### Astral Spell
+#### Astral Spell (Astralgaldur)
 
-(Umbreytingagaldur)
+(Transmutation - Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 5, Galdrakarl 5 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Astral | **Virkni:** Sjá hér að neðan |
+| **Stig:** Klerkur 5, Galdrakarl 5 | **Kasttími:** 2 athafnir |
+| **Svið:** Astral | **Lengd:** Sjá hér að neðan |
 | **Kostnaður:** 3 +1/viðbótarstyrkleiki | **Drægni:** Snerting |
 | **Svæði:** Sjá hér að neðan | **Vörn:** Á ekki við |
 
-Þessi galdur gerir galdramanninum og allt að fimm öðrum (einn fyrir hvert stig af viðbótarstyrkleika) kleift að fara inn í Astral-heiminn. Allir verða að snertast og mynda hring á meðan galdurinn er kastaður. Líkamar ferðalanganna verða eftir á upprunalega planinu og þeir bera venjulega engan fatnað eða búnað með sér, nema það sem sjálft gefur frá sér töfraaura; þessir hlutir breytast í astral-útgáfur af venjulegum myndum sínum. Virknin varir þar til galdramaðurinn óskar eftir að henni ljúki. Hins vegar er hægt að binda enda á hana fyrir tímann með utanaðkomandi afli eins og Dispel Magic. Að drepa líkamlegan líkama galdramannsins bindur einnig enda á galdurinn snemma, þótt það hafi þann óheppilega fylgikvilla að skilja alla ferðalanga sem fylgja galdramanninum eftir.
+Þessi galdur gerir kastaranum og allt að fimm öðrum (einn fyrir hvert viðbótarstig styrkleika) kleift að fara inn í Astral-heiminn. Allir verða að snertast og mynda hring á meðan galdrinum er kastað. Lík ferðalanganna eru skilin eftir á upprunaheiminum og þeir koma venjulega ekki með sér nein föt eða búnað, nema það sem sjálft geislar frá sér töfraorku; þessir hlutir umbreytast í astral-einingar af sínu venjulega formi. Lengdin varir þar til kastarinn óskar eftir að henni ljúki. Hins vegar er mögulegt að henni ljúki fyrir tímann af utanaðkomandi afli eins og Dispel Magic. Að drepa líkamlega líkama kastarans endar einnig galdurinn snemma, þótt það hafi þá óheppilegu aukaverkun að stranda öllum ferðalöngum sem fylgja kastaranum.
 
 ---
-#### Augury
+#### Augury (Varsögn)
 
-(Spásagnagaldur)
+(Divination - Forspá)
 
 | | |
 | :-- | :-- |
 | **Stig:** Klerkur 2 | **Kasttími:** 2 mínútur |
-| **Svið:** Spásögn | **Virkni:** Augnablik |
-| **Kostnaður:** 3/styrkleiki | **Drægni:** 60 fet |
-| **Svæði:** Galdramaður | **Vörn:** Á ekki við |
+| **Svið:** Divination | **Lengd:** Augnablik |
+| **Kostnaður:** 3/styrkleika | **Drægni:** 60 fet |
+| **Svæði:** Kastari | **Vörn:** Á ekki við |
 
-Þessi galdur gerir galdramanninum kleift að ákvarða hvort tiltekin aðgerð sem á að grípa til innan næstu 30 mínútna verði gagnleg eða skaðleg fyrir velferð einstaklings og/eða hóps. Einhvers konar brennidepill er nauðsynlegur til að greina fyrirboðana, þar sem algengast er að nota klær eða minni bein úr dreka, perlu, eða hreint gull sem metið er á eigi minna en 100 GP, sem hefur verið mulið eða brætt niður. Galdurinn hefur hámarksstyrkleika upp á 4. Þetta kast ætti að vera framkvæmt af leikstjóra (GM), þar sem galdramaðurinn ætti aldrei að vita með fullri vissu hvort niðurstöðurnar voru túlkaðar rétt.
+Þessi galdur gerir kastaranum kleift að ákvarða hvort tiltekin aðgerð sem á að grípa til innan næstu 30 mínútna verði gagnleg eða skaðleg fyrir vellíðan einstaklings og/eða hóps. Einhvers konar brennidepill er nauðsynlegur til að greina fyrirboðana, algengast er að nota klær eða smærri bein af dreka, perlu, eða hreint gull sem er metið á ekki minna en 100GP, sem hefur verið mulið eða brætt niður. Galdurinn hefur hámarksstyrkleika upp á 4. Þetta kast ætti að vera gert af leikstjóra, þar sem kastarinn ætti aldrei að vita með fullkominni vissu hvort niðurstöðurnar voru túlkaðar rétt.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | Formidable Channel færnikast |
-| 2 | 6 | Hard Channel færnikast |
-| 3 | 9 | Standard Channel færnikast |
-| 4 | 12 | Easy Channel færnikast |
+| 1 | 3 | Formidable Channel hæfniskast |
+| 2 | 6 | Hard Channel hæfniskast |
+| 3 | 9 | Standard Channel hæfniskast |
+| 4 | 12 | Easy Channel hæfniskast |
 
-Ef spásagnakastið tekst, gefur það eina af eftirfarandi niðurstöðum:
+Ef fyrirboðakastið tekst, gefur það eina af eftirfarandi niðurstöðum:
 
-| Augury | Merking |
+| Augury (Varsögn) | Merking | 
 | :-: | :-- |
 | Já | Aðgerðin verður gagnleg |
 | Nei | Aðgerðin verður skaðleg |
 | Já og Nei | Aðgerðin verður bæði gagnleg og skaðleg |
 | Ekkert | Aðgerðin verður hvorki gagnleg né skaðleg |
 
-Fumble ætti að leiða til þess að leikstjórinn segi hið gagnstæða við raunveruleikann.
+Klúður (Fumble) ætti að leiða til þess að leikstjórinn segi hið gagnstæða við veruleikann.
 
 ---
-#### Avert
+#### Avert (Afstýring)
 
-(Verndargaldur)
+(Abjuration - Verndargaldur)
 
 | | |
 | :-- | :-- |
 | **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** Augnablik |
-| **Svið:** Vernd | **Virkni:** Augnablik |
+| **Svið:** Protection | **Lengd:** Augnablik |
 | **Kostnaður:** 1 | **Drægni:** 60 fet |
 | **Svæði:** 1 galdur | **Vörn:** Engin |
 
-Avert er notað til að stöðva annan galdur á stigi 0 innan drægni. Avert er hægt að kasta sem viðbragð til að gera árásargjarna galdra á stigi 0 óvirka, með því að nota Counter Magic Reactive Action.
+Avert er notað til að afstýra öðrum stigs 0 galdri innan drægni. Avert má kasta sem viðbragði til að hlutleysa sóknargaldra af stigi 0, með því að nota Counter Magic Reactive Action.
 
 ---
-#### Befuddle
+#### Befuddle (Ruglingur)
 
-(Töfrandi (Heillun))
+(Enchantment (Heillun))
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 lota |
-| **Svið:** Heillun | **Virkni:** 30 mínútur |
+| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 umferð |
+| **Svið:** Charm | **Lengd:** 30 mínútur |
 | **Kostnaður:** 1 | **Drægni:** 60 fet |
 | **Svæði:** 1 skotmark | **Vörn:** Willpower |
 
-Befuddle veldur rugli í huga líkamlegrar veru. Skotmarkið á erfitt með að hugsa skýrt, gleymir hvar það er, hvað það er að gera og hvers vegna – oft með því að falla í sundurlausar hugsanir. Skotmörk sem ruglast geta enn brugðist við í sjálfsvörn en geta ekki hafið neina uppbyggilega virkni fyrr en galdurinn lýkur. Hvers kyns árás eða hótun rýfur galdurinn samstundis, óháð því hvort hún beindist sérstaklega að skotmarkinu eða ekki.
+Befuddle veldur ruglingi í huga efnislegs skotmarks. Viðfangsefni galdursins á erfitt með að hugsa skýrt, gleymir hvar það er, hvað það er að gera, og hvers vegna – dettur oft í ótengdar hugsanir. Ruglað skotmark getur enn brugðist við í sjálfsvörn en getur ekki hafið neina uppbyggilega virkni fyrr en galdurinn endar. Hvers kyns árás eða ógnandi aðgerð rýfur galdurinn samstundis, hvort sem hún beindist sérstaklega að ruglaða skotmarkinu eða ekki.
 
 ---
-#### Blade Barrier
+#### Blade Barrier (Blaðaveggur)
 
-(Framköllun)
+(Evocation - Framköllun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 4 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Verndari, Sköpun | **Virkni:** 3 umferðir/styrkleiki |
+| **Stig:** Klerkur 4 | **Kasttími:** 2 athafnir |
+| **Svið:** Guardian, Creation | **Lengd:** 3 umferðir/styrkleika |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 100 fet |
 | **Svæði:** 5-30 feta radíus | **Vörn:** Sjá hér að neðan |
 
-Þessi galdur skapar girðingu af þyrluðum sverðum, rýtingum og hnífum sem skera í gegnum allt sem fer í gegnum svæðið og valda 1d8 skaða á 1d4+2 handahófskennda líkamshluta hvers sem fer í gegnum svæðið. Brynja veitir aðeins helming venjulegrar verndar. Töfrabrynjupunktar draga úr skaða eins og venjulega. Vegna þess að vopnin þyrlast um á blinda hraða og eru þétt pakkað, er ómögulegt að verjast eða forðast þau. Hægt er að nota skjöld til að loka óbeint fyrir líkamshluta. Í því tilviki, mundu að bera rúllaðan skaða saman við brynju og heilsu skjaldarins.
+Þessi galdur býr til vegg af hringsnúandi skerandi sverðum, rýtingum og hnífum sem þeytast og höggva um fastan punkt og valda 1d8 punktum af skemmdum á 1d4+2 handahófskenndum líkamshlutum hjá *hverjum þeim* sem fer í gegnum áhrifasvæðið. Brynja býður aðeins upp á helming af eðlilegri vörn. Töfrabrynjupunktar minnka skemmdir eins og venjulega. Vegna þess að vopnin þeytast um á blindaðri hraða og eru þétt pakkuð, er ómögulegt að verjast (Parry) eða forðast (Evade) þau. Hægt er að nota skjöld til að verja líkamshluta óbeint á eðlilegan hátt. Í þessu tilfelli, mundu að bera rúllaðar skemmdir saman við brynjuna og lífspunkta skjaldarins.
 
-Galdurinn má kasta varnarlega til að verja klerkinn eða bandamenn, eða árásargjarnlega til að gildra óvini. Hins vegar geta umkringdir óvinir innan fimm feta frá brún girðingarinnar þegar hún myndast gert Evade-kast til að komast undan. Óháð árangri endar andstæðingurinn liggjandi (prone), rétt fyrir utan svæðið. Árangursríkt kast leiðir til þess að enginn skaði verður; annars hljóta þeir full áhrif.
+Galdurinn má kasta varnarlega til að verja klerkinn eða einn eða fleiri bandamenn, eða sóknarlega til að csappa óvini. Hins vegar geta umkringdir óvinir innan fimm feta frá brún veggsins meðan hann er að myndast reynt að nota Evade-kast til að sleppa. Burtséð frá árangri endar andstæðingurinn á maganum, rétt fyrir utan áhrifasvæðið. Vel heppnað kast leiðir til engra skemmda; annars hljóta þeir full áhrif.
 
 ---
-#### Bless \(R\)
+#### Bless (R) (Blessun)
 
-(Galdraefni)
+(Conjuration - Töfragerð)
 
 | | |
 | :-- | :-- |
 | **Stig:** Klerkur 1 | **Kasttími:** 1 umferð |
-| **Svið:** Allir | **Virkni:** 5 mínútur |
+| **Svið:** Allt | **Lengd:** 5 mínútur |
 | **Kostnaður:** 1 | **Drægni:** 180 fet |
 | **Svæði:** 25 feta radíus | **Vörn:** Willpower |
 
-Þegar þessi galdur er kastaður blessar klerkurinn hóp bandamanna innan svæðisins. Þeir sem verða fyrir áhrifum geisla af samstöðu galdramannsins, annaðhvort góðri eða illri. Engar blessanir eru hlutlausar. Allir bandamenn innan radíussins fá +5% bónus á öll færni- og viðnámköst. Að auki valda vopn þeirra +1d3 skaða á gáfuðum undead-verum sem og verum frá ytri plönum sem hafa andstæða samstöðu við galdramanninn, svo sem djöflar, illar verur eða englar. Athugið að á meðan lífgaðir dauðingjar eins og beinagrindur og uppvakningar eru ekki í eðli sínu illir, eru þeir venjulega lífgaðir með illum töfrum og því háðir þessum skaða.
+Þegar þessum galdri er kastað blessar klerkurinn hóp bandamanna innan áhrifasvæðisins. Þeir sem verða fyrir áhrifum geisla frá sér samstöðu kastarans, annaðhvort Góðri eða Illri. Engar blessanir Hlutleysis eru til. Allir bandamenn innan radíuss galdursins fá +5% bónus á öll hæfni- og vörnarköst. Auk þess valda vopn þeirra +1d3 skemmdum á gáfuðum undraverum auk vera af öðrum tilverustigum sem hafa andstæðar samstöður við kastarann, eins og púkar, djöflar eða englar. Athugið að þótt lífgaðar undraverur eins og beinagrindur og uppvakningar séu ekki í eðli sínu illar, eru þær venjulega lífgaðar af illum töfrum og því undirorpnar þessum skemmdum.
 
-Andhverfa þessa galdurs, Curse, gerir klerknum kleift að bölva óvinum, sem gerir það að verkum að tilteknir færniþættir fá öfug áhrif við ofangreindan bónus. Skaði bölvaðs vopns er reiknaður sem refsistig, og þessi skaði getur ekki leitt til minna en 1 punkts.
+Andhverfa þessa galdurs, Bölvun, gerir klerkinum kleift að bölva óvinum, sem gerir það að verkum að nefndar hæfni hljóta andhverfu þeirra ávinninga sem nefndir eru hér að ofan. Skemmdir bölvaðs vopns eru reiknaðar sem refsing í staðinn, og þessar skemmdir geta ekki leitt til færri en 1 punkts.
 
 ---
-#### Burning Hands
+#### Burning Hands (Brenningandi hendur)
 
-(Umbreytingagaldur)
+(Transmutation - Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdrakarl 1 | **Kasttími:** 1 athöfn |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 0 |
-| **Svæði:** 120-gráðu keila, 5 fet löng | **Vörn:** Evade |
+| **Svæði:** 120-gráðu keila, 5 feta löng | **Vörn:** Evade |
 
-Þessi galdur veldur því að logar skjótast út frá höndum galdramannsins í 120-gráðu boga. Ef notaðar eru smámyndir í bardaga, mun Burning Hands skaða hvert skotmark sem tekur upp 1 af framreitum galdramannsins. Að kasta Burning Hands á hærra styrkleikastigi krefst hærra stigs galdrakarls. Þessi skaði brennir öll skotmörk innan svæðisins með skaða byggðan á styrkleika galdursins, upp í hámarksstyrkleika 9, sem hér segir. Árangursríkt Evade-kast, að kasta sér í liggjandi stöðu, gerir fórnarlambinu kleift að hljóta engan skaða. Einhver með Artful Dodger-hæfileikann hefur möguleika á að Evade án þess að liggja.
+Þessi galdur veldur því að eldar skjótast út frá höndum kastarans í 120-gráðu boga. Ef notaðar eru smáfígúrur í bardaga mun Burning Hands skemma hvert skotmark sem upptekur 1 af fremstu reitum kastarans. Að kasta Burning Hands á hærri styrkleikastigum krefst galdrakarls af hærra stigi. Þessar skemmdir umvefja öll skotmörk á svæðinu með skemmdum sem byggjast á styrkleika galdursins, upp að hámarksstyrkleika 9, sem hér segir. Vel heppnað Evade-kast, þar sem kastað er sér á magann, leyfir fórnarlambinu að hljóta engar skemmdir. Einhver með Artful Dodger hæfnina hefur möguleika á að nota Evade án þess að fara á magann.
 
-| Styrkleiki | Kostnaður | Lágmarksstig | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Lágmarksstig | Breytileg áhrif |
 | :-: | :-: | :-: | :-- |
-| 1 | 3 | 1 | 1d3+1 punkta skaði á alla líkamshluta |
-| 3 | 4 | 1 | 1d3+2 punkta skaði á alla líkamshluta |
-| 5 | 5 | 1 | 1d3+3 punkta skaði á alla líkamshluta |
-| 7 | 6 | 2 | 1d3+4 punkta skaði á alla líkamshluta |
-| 9 | 7 | 3 | 1d3+5 punkta skaði á alla líkamshluta |
+| 1 | 3 | 1 | 1d3+1 skemmdir á alla líkamshluta |
+| 3 | 4 | 1 | 1d3+2 skemmdir á alla líkamshluta |
+| 5 | 5 | 1 | 1d3+3 skemmdir á alla líkamshluta |
+| 7 | 6 | 2 | 1d3+4 skemmdir á alla líkamshluta |
+| 9 | 7 | 3 | 1d3+5 skemmdir á alla líkamshluta |
 
-Búin brynja verndar ekki, en töfrabrynjupunktar eða náttúrleg brynja veru draga úr skaða eins og venjulega. Þessi öflugi galdur vegur upp á móti sér með stuttu drægninni, sem þýðir að til að kasta honum verður galdramaðurinn að vera nógu nálægt til að vera í mjög óhagstæðri stöðu.
+Brynja verndar ekki, en töfrabrynjupunktar eða náttúruleg brynja veru minnka skemmdir eins og venjulega. Þessi öflugi galdur er í jafnvægi vegna óvenju stutts drægni sinnar, sem þýðir að til að kasta honum verður galdrakarlinn að vera nógu nálægt til að vera í mjög óhagstæðri stöðu.
 
-Vegna þess að stærri verur eru venjulega stærri en áhrifasvæði galdursins, munu þær hafa færri líkamshluta sem verða fyrir áhrifum. Þeir sem eru í SIZ 21 til 30 taka skaðann á höfuð, brjóst, kvið og handleggi, á meðan þeir sem eru í SIZ 31+ taka skaðann á kvið og fætur. Leikstjórar ættu að aðlaga þessa staðsetningar eftir lögun skotmarksins og stöðu miðað við galdramanninn. Burning Hands hefur möguleika á að kveikja í eldfimum efnum sem jafngildir rúlluðum skaða x5%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
+Vegna þess að stærri verur eru venjulega stærri en áhrifasvæði galdursins, munu þær hafa færri líkamshluta sem verða fyrir áhrifum. Þeir sem eru STÆ 21 til 30 taka skemmdir á höfuð, brjóst, kvið og handleggi, á meðan þeir sem eru STÆ 31+ taka skemmdir á kvið og fótleggi. Leikstjórar ættu að laga þessa hluta eftir lögun skotmarksins og stöðu miðað við kastarann. Burning Hands hefur möguleika á að kveikja í eldfimum efnum sem jafngildir rúlluðum skemmdum x5%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
 
 ---
-#### Calm
+#### Calm (Ró)
 
-(Töfrandi (Heillun))
+(Enchantment (Heillun))
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Heillun | **Virkni:** Augnablik |
+| **Stig:** Klerkur 0 | **Kasttími:** 1 athöfn |
+| **Svið:** Charm | **Lengd:** Augnablik |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
 | **Svæði:** 1 skotmark | **Vörn:** Willpower |
 
-Calm reynir að draga úr ástríðum manneskju af SIZ 1-20, kannski til að tryggja að ástfanginn elskhugi þrýsti ekki á sitt, hræddur keppinautur öskri ekki á hjálp, eða að vopn séu ekki dregin í reiði. Róleg manneskja verður ekki fyrir andlegum áhrifum; þess vegna leyfa hvers kyns árásir eða hótun skotmarkinu að verjast, og jafnvel ráðast á, þó að það muni gera það á rólegan og yfirvegaðan hátt.
+Calm reynir að draga úr ástríðum STÆ 1-20 manneskjulegs skotmarks, kannski til að tryggja að ástfanginn aðdáandi þrýsti ekki á sitt, hræddur keppinautur öskri ekki á hjálp, eða að vopn séu ekki dregin í reiði. Róleg manneskja er ekki andlega heilluð á annan hátt; þannig að hvers kyns árás eða ógnandi aðgerð leyfir skotmarkinu enn að verja sig, og jafnvel ráðast á, þótt þeir muni gera það á rólegan og yfirvegaðan hátt.
 
----
-#### Chain Lightning
+---#### Keðju-elding
 
 (Framköllun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 4 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdramaður 4 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 50 fet/styrkleiki |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Evade |
+| **Svæði:** Sjá hér að neðan | **Viðnám:** Undanbragð |
 
-Við kast losar galdramaðurinn fimm feta breiðan rafstraum frá fingurgómunum sem getur slegið eitt skotmark innan drægni fyrir 1d6+1 punkta skaða á hvern 2 styrkleika. Straumurinn skýtur síðan í næsta hlut eða veru, sem tekur áður rúllaðan skaða mínus 1 punkt, og skýtur síðan í næsta, og veldur rúlluðum skaða mínus 2 punktum, og svo framvegis. Hann gæti jafnvel skotið aftur í bandamann eða galdramanninn sjálfan! Á meðan fyrsta skotmarkið verður að vera sýnilegt galdramanninum, þurfa skotmörk sem verða fyrir geislanum ekki að vera það.
+Við köstun sleppir galdramaðurinn fimm feta breiðri rafmagnsbylgju úr fingurgómunum sem getur hæft eitt skotmark innan drægni fyrir 1d6+1 punkta af skaða á hverja 2 styrkleikastig. Bylgjan skýst síðan yfir í næsta nálæga hlut eða veru, sem tekur áður kastaðan skaða mínus 1 punkt, og skýst síðan í næsta nálæga hlut, og veldur skaðanum mínus 2 punktum, og svo framvegis. Hún gæti jafnvel skotið aftur í bandamann eða galdramanninn sjálfan! Þótt upphaflega skotmarkið verði að vera sýnilegt galdramanninum, þurfa skotmörk sem verða fyrir skotinu ekki að vera það.
 
-Hver bogi hefur sína eigin 50 feta drægni, sem gæti sett geislann utan upprunalegu drægni þegar galdurinn var kastaður. Chain Lightning heldur áfram að slá ef hann hefur skaða eftir þar til hann slær hlut sem veldur því að hann jarðtengist (málmbúr eða rimlar, stór vatnspollur o.s.frv.) eða engir fleiri hlutir eða verur eru í boði til að slá.
+Hvert skot hefur sína eigin 50 feta drægni, sem getur fært bylgjuna út fyrir upphaflega drægni þegar galdrinum var kastað. Keðju-elding heldur áfram að skella svo lengi sem skaði er eftir, þar til hún skellur á hlut sem veldur því að hún jarðtengist (málmbúr eða rimlar, stór vatnslaug o.s.frv.) eða engir hlutir eða verur eru eftir til að hæfa.
 
-Hver vera sem verður fyrir höggi tekur skaðann á einn líkamshluta, þar sem búin brynja veitir enga vernd, en náttúrleg brynja og töfrabrynjupunktar draga úr skaða eins og venjulega.
+Sérhver vera sem verður fyrir skotinu tekur skaðann á einn líkamshluta, þar sem klædd brynja veitir enga vörn, en náttúruleg brynja og töfra-varnarpunktar draga úr skaða eins og venjulega.
 
-Með árangursríku Evade-kasti, að kasta sér í liggjandi stöðu, verður fórnarlambið fyrir engum skaða. Einhver með Artful Dodger-hæfileikann getur Evade án þess að liggja, en árangur í því tilviki minnkar aðeins skaðann um helming, nema þeir séu innan fimm feta frá brún svæðisins.
+Með vel heppnuðu Undanbragðs-kasti (Evade), þar sem maður kastar sér flötum, verður fórnarlambið fyrir engum skaða. Einhver með „Artful Dodger“ hæfileikann getur notað Undanbragð án þess að kasta sér, en árangur í því tilviki minnkar skaðann aðeins um helming.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+Elding hefur möguleika á að kveikja í eldfimum efnum sem nemur veltum skaða x1%. Sjá kaflann um [Eld](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar. Elding getur einnig molað eða eyðilagt ólífræna hluti vegna mikils höggs.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 3 | 50 feta drægni; 1d6+1 skaði |
 | 2 | 4 | 100 feta drægni; 1d6+1 skaði |
 | 3 | 5 | 150 feta drægni; 2d6+2 skaði |
 | 4 | 6 | 200 feta drægni; 2d6+2 skaði |
 | 5 | 7 | 250 feta drægni; 3d6+3 skaði |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Halda áfram stigun |
 
 ---
-#### Change Appearance
+#### Breyta útliti
 
-(Töfrandi (Heillun))
+(Töfrandi blekking)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 2d6 mínútur/styrkleiki |
+| **Stig:** Galdramaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 2d6 mínútur/styrkleiki |
 | **Kostnaður:** 1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** Galdramaður | **Vörn:** Á ekki við |
+| **Svæði:** Galdramaður | **Viðnám:** N/A |
 
-Þessi galdur breytir útliti galdramannsins í hvaða mannveru- eða mannlaga tvífæra mynd sem er. Breyting á hæð og þyngd er takmörkuð við ±5 SIZ, en innan þeirra marka getur galdramaðurinn valið að verða feitur eða grannur, hár eða lágvaxinn, eða jafnvel breytt um kyn. Hár, fatnaður og búnaður getur breyst ásamt útliti. Hægt er að breyta andlitsdráttum galdramannsins eins og óskað er, jafnvel að því marki að líkja fullkomlega eftir annarri tilverandi manneskju. Galdurinn er háður [vantrú](0009_Magic.md?id=attempting-to-disbelieve) eins og aðrir töfragaldrar. Galdurinn breytir ekki lykt galdramannsins, og ef snert er, líður galdramanninum enn eins og upprunalegu lögun og fatnaði.
+Þessi galdur breytir útliti galdramannsins í hvaða manneskju eða tvífætling sem er. Hæðar- og þyngdarbreyting er takmörkuð við ±5 STÆ hvor um sig, en innan þeirra marka getur galdramaðurinn valið að verða feitur eða grannur, hár eða lágvaxinn, eða jafnvel breytt um kyn. Hári, fatnaði og búnaði má breyta ásamt útlitinu. Andlitsdrætti galdramannsins má breyta að vild, jafnvel svo að hann líki fullkomlega eftir annarri tiltekinni persónu. Galdurinn er háður [vantrú](0009_Magic.md?id=attempting-to-disbelieve) eins og aðrir blekkingargaldrar. Galdurinn breytir ekki lykt galdramannsins, og ef hann er snertur, finnst galdramaðurinn enn eins og í sínu upprunalega formi og fatnaði.
 
 ---
-#### Chant
+#### Söngur
 
-(Galdraefni)
+(Framköllun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Bardagi | **Virkni:** Einbeiting |
+| **Stig:** Prestur 2 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Bardagi | **Lengd:** Einbeiting |
 | **Kostnaður:** 1 | **Drægni:** 0 |
-| **Svæði:** 30 feta radíus | **Vörn:** Á ekki við |
+| **Svæði:** 30 feta radíus | **Viðnám:** N/A |
 
-Allir þeir sem eru innan áhrifasvæðisins fá +5% bónus á öll færniköst og +1 bónus á skaða, hvort tveggja fyrir hvert stig af styrkleika. Óvinir innan sama svæðis fá öfug áhrif við ofangreinda bónusa.
+Allir þeir sem eru innan áhrifasvæðisins fá +5% bónus á öll færnikast og +1 bónus á skaða, hvort um sig á hvert styrkleikastig. Óvinir innan sama svæðis verða fyrir andhverfu þeirra fríðinda sem hér eru nefnd.
 
-Chant verður að haldast út alla virkni galdursins, annars endar áhrifin. Kast á Dispel Magic hefur engin áhrif á áframhaldandi áhrif Chant þar sem söngurinn sjálfur er ekki töfrandi; hins vegar eyðir Silence ávinningi galdursins. Áhrif Chant staflast með áhrifum bæði Bless og Curse. Vegna kröfunnar um að syngja alla virknina er ómögulegt að kasta öðrum göldrum.
+Söngnum verður að viðhalda allan tíma galdursins, annars endar áhrifin. Köstun á Dispel Magic hefur engin áhrif á áframhaldandi áhrif Söngsins þar sem söngurinn sjálfur er ekki töfrandi; Hins vegar eyðir köstun á Silence ávinningi galdursins. Áhrif Söngsins staflast með áhrifum Bless og Curse. Vegna kröfunnar um að syngja allan tímann er ómögulegt að kasta öðrum galdra.
 
 ---
-#### Charm Person
+#### Heilla manneskju
 
-(Töfrandi (Heillun))
+(Töfrandi heillun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 1 vika/styrkleiki |
+| **Stig:** Galdramaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 1 vika/styrkleiki |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 360 fet |
-| **Svæði:** 1 lifandi manneskja, hálf-vera eða mannlaga | **Vörn:** Willpower |
+| **Svæði:** 1 lifandi manneskja, hálf-vera eða mannlíki | **Viðnám:** Mát |
 
-Þegar þessi galdur er kastaður hættir eitt lifandi (undead-verur hafa engin áhrif) gáfað mannlaga skotmark af SIZ 1-20 allri fjandsemi gegn galdramanninum og bandamönnum galdramannsins, og býðst í staðinn til að hjálpa og vernda þá ef skotmarkið mistekst í viðnámkasti. Athugið að hjálp/vernd getur haft óviljandi eða jafnvel neikvæð áhrif fyrir galdramanninn, þar sem viðfangsefnið bregst við byggt á því sem það telur bestu leiðina til að vernda/hjálpa. Varðandi skipanir mun skotmark aldrei hlýða sjálfsvígseinkennandi eða augljóslega skaðlegum aðgerðum en gæti sannfærst um að eitthvað mjög hættulegt sé þess virði að gera.
+Þegar þessum galdri er kastað mun eitt lifandi (undirheimaverur hafa ekki áhrif) vitiborið mannlíki með STÆ 1-20 hætta öllum fjandskap gegn galdramanninum og bandamönnum hans, og bjóðast í staðinn til að hjálpa og vernda þá ef skotmarkið bregst viðnámsköstunum. Athugið að hjálp/vernd getur haft ófyrirséð eða jafnvel neikvæð áhrif fyrir galdramanninn, þar sem viðfangsefnið bregst við út frá því sem það telur bestu leiðina til að vernda/hjálpa. Varðandi skipanir mun skotmarkið aldrei hlýða sjálfsvígshættulegum eða augljóslega skaðlegum aðgerðum, en gæti verið sannfært um að eitthvað mjög hættulegt sé þess virði að gera.
 
-Hvers kyns fjandsamleg aðgerð gegn skotmarki heillunarinnar af hálfu galdramannsins eða bandamanna rýfur heillunina. Athugið: Ef aðrir efast um eðli heillunarinnar getur skotmarkið einnig gert viðnámkast, eftir ákvörðun leikstjóra. Galdramaðurinn verður að geta talað við þann heillaða til að gefa honum hvers kyns flókið „beiðni“; því getur það að kunna tungumál skotmarksins verið mikilvægt, en ekki krafist fyrir grunnheillunina.
+Sérhver óvinveitt aðgerð gegn viðfangsefni heillunarinnar af hálfu galdramannsins eða bandamanna rýfur töfrana. Athugið: Ef aðrir efast um eðli heillunarinnar gæti skotmarkið einnig tekið viðnámskast, að mati Spilastjóra. Galdramaðurinn verður að geta talað við þann heillaða til að gefa honum einhvers konar flókna „beiðni“; þess vegna getur verið mikilvægt að kunna tungumál skotmarksins, en það er ekki krafa fyrir grunn-heillunina.
 
-Eftir upphaflega kastið til að standast verður ein vika að líða áður en viðfangsefnið getur gert annað viðnámkast. Áhrifin eru viðvarandi þar til árangursríkt viðnámkast er gert. Að kasta Charm Person á hærra styrkleikastigi krefst hærra stigs galdrakarls og hefur hámarksvirkni í 4 vikur. Á meðan galdurinn varir minnkar heildarfjöldi töfrapunkta galdramannsins um þann fjölda sem varið var til að kasta galdrinum, samkvæmt [Enduring Magic Costs](0009_Magic.md?id=enduring-magic-costs) reglunum.
+Eftir upphaflega viðnámsköstið verður 1 vika að líða áður en viðfangsefnið getur tekið annað viðnámskast. Áhrifin eru viðvarandi þar til vel heppnað viðnámskast á sér stað. Að kasta Heilla manneskju á hærri styrkleikastigum krefst hærra stigs galdramanns og hefur hámarks lengd 4 vikur. Allan þann tíma sem galdurinn varir, minnkar heildarfjöldi töfrapunkta galdramannsins um það magn sem varið var í að kasta galdrinum, samkvæmt reglum um [Varandi töfrakostnað](0009_Magic.md?id=enduring-magic-costs).
 
-| Styrkleiki | Kostnaður | Lágmarksstig | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Lágmarksstig | Breytileg áhrif |
 | :-: | :-: | :-: | :-- |
 | 1 | 3 | 1 | Heillaður í 1 viku |
 | 2 | 4 | 2 | Heillaður í 2 vikur |
@@ -329,20 +330,20 @@ Eftir upphaflega kastið til að standast verður ein vika að líða áður en 
 | 4 | 6 | 4 | Heillaður í 4 vikur |
 
 ---
-#### Charm, Mass
+#### Heilla, fjöldaheillun
 
-(Töfrandi (Heillun))
+(Töfrandi heillun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 5 | **Kasttími:** 2 umferðir |
-| **Svið:** Ekkert | **Virkni:** 1 vika/styrkleiki |
+| **Stig:** Galdramaður 5 | **Kasttími:** 2 umferðir |
+| **Svið:** Ekkert | **Lengd:** 1 vika/styrkleiki |
 | **Kostnaður:** 3/styrkleiki | **Drægni:** 40 fet/styrkleiki |
-| **Svæði:** 20 feta radíus/styrkleiki | **Vörn:** Willpower |
+| **Svæði:** 20 feta radíus/styrkleiki | **Viðnám:** Mát |
 
-Með þeim undantekningum sem nefndar eru hér að ofan virkar þessi galdur eins og galdrarnir [Charm Person](0010_Spells.md?id=charm-person) og Charm Monster. Þessi öflugasti heillunargaldur hefur möguleika á að heilla allar verur innan svæðisins af hvaða SIZ sem er. Mannstærðar og minni (SIZ 1-20) eiga erfiðara með að standast (Hard), stórar verur (SIZ 21-40) verða að gera viðnámköst með Standard erfiðleika, og viðnámkastið fyrir risastórar verur (SIZ 41+) er Easy.
+Að undanskildu því sem nefnt er hér að ofan virkar þessi galdur eins og galdrarnir [Heilla manneskju](0010_Spells.md?id=charm-person) og Heilla skrímsli. Þessi öflugasti heillunargaldur hefur möguleika á að heilla allar verur innan áhrifasvæðisins af hvaða STÆ sem er. Mannstórar og minni (STÆ 1-20) eiga erfitt með að standast galdurinn; Stórar verur (STÆ 21-40) verða að taka viðnámsköst við staðlaðan erfiðleika, og viðnámskast fyrir Risastórar verur (STÆ 41+) er auðvelt.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 3 | Heillaður í 1 viku |
 | 2 | 6 | Heillaður í 2 vikur |
@@ -350,20 +351,20 @@ Með þeim undantekningum sem nefndar eru hér að ofan virkar þessi galdur ein
 | 4 | 12 | Heillaður í 4 vikur |
 
 ---
-#### Charm Monster
+#### Heilla skrímsli
 
-(Töfrandi (Heillun))
+(Töfrandi heillun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** 1 vika/styrkleiki |
+| **Stig:** Galdramaður 3 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 1 vika/styrkleiki |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 180 fet |
-| **Svæði:** 20 feta radíus | **Vörn:** Willpower |
+| **Svæði:** 20 feta radíus | **Viðnám:** Mát |
 
-Þetta er betrumbætt útgáfa af galdrinum [Charm Person](0010_Spells.md?id=charm-person) að því leyti að hann mun heilla allar lifandi verur af SIZ 20 eða minna innan svæðisins, eða 1 veru af hvaða SIZ sem er. Stórar verur (SIZ 21-40) eru erfiðari að heilla, þar sem viðnámkastið er Easy, og viðnámkastið fyrir risastórar verur (SIZ 41+) er Very Easy. Galdurinn virkar á alla aðra vegu eins og Charm Person.
+Þetta er betrumbætt útgáfa af galdrinum [Heilla manneskju](0010_Spells.md?id=charm-person) að því leyti að hann heillar allar lifandi verur með STÆ 20 eða minna innan áhrifasvæðisins, eða 1 veru af hvaða STÆ sem er. Stórar verur (STÆ 21-40) eru erfiðari viðureignar, þar sem viðnámskast þeirra er auðvelt, og viðnámskast fyrir Risastórar verur (STÆ 41+) er mjög auðvelt. Galdurinn virkar að öðru leyti eins og Heilla manneskju.
 
-| Styrkleiki | Kostnaður | Lágmarksstig | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Lágmarksstig | Breytileg áhrif |
 | :-: | :-: | :-: | :-- |
 | 1 | 3 | 3 | Heillaður í 1 viku |
 | 2 | 4 | 3 | Heillaður í 2 vikur |
@@ -371,361 +372,360 @@ Með þeim undantekningum sem nefndar eru hér að ofan virkar þessi galdur ein
 | 4 | 6 | 4 | Heillaður í 4 vikur |
 
 ---
-#### Chill \(R\)
+#### Kuldi \(R\)
 
 (Framköllun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdramaður 0 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Engin |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
 
-Chill dregur verulega úr hitastigi lítils hlutar með ENC ekki meira en 1 „hlutur“ að stærð, niður í hitastig ísvatns. Gagnlegt til að kæla fljótt heita hluti, kæla drykki og svo framvegis. Galdurinn frýs ekki hlut, og hann veldur heldur engum skaða á uppbyggingu hans: hann gerir hann bara mjög kaldan.
+Kuldi dregur verulega úr hitastigi lítils hlutar sem er ekki stærri en 1 "Hlutur" að stærð, niður í hitastig ísvatns. Gagnlegt til að kæla hratt niður heita hluti, kæla drykki o.s.frv. Galdurinn frýs ekki hlutinn og veldur ekki heldur neinum skaða á byggingu hans: hann gerir hann bara mjög kaldan.
 
-Þegar snúið er við, Heat, dregur verulega úr hitastigi lítilla hluta upp í hitastig sjóðandi vatns. Þessi fjölhæfi galdur er gagnlegur til að hita vín, elda mat án elds, eða hita rúm fyrir svefn. Hann hefur ekki áhrif á lifandi vefi þótt hann geti haft áhrif á fatnað og brynju, sem gerir það nokkuð óþægilegt, en ekki að því marki að hindra notandann.
+Þegar snúið er við, Hiti, eykur hann verulega hitastig lítilla hluta allt að suðumarki vatns. Þessi fjölhæfi galdur er gagnlegur til að hita vín, elda mat án elds, eða hita rúm fyrir svefn. Hann hefur ekki áhrif á lifandi vefi þótt hann geti haft áhrif á fatnað og brynju, sem gerir það óþægilegt, en ekki svo að það hindri þann sem ber.
 
 ---
-#### Cleanse \(R\)
+#### Hreinsa \(R\)
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdramaður 0 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Willpower |
+| **Svæði:** Sjá hér að neðan | **Viðnám:** Mát |
 
-Cleanse er notað til að losa hlut, manneskju eða lítið svæði við óhreinindi, fitu, óhreinindi, vonda lykt og svo framvegis. Hann skipuleggur ekki eða snyrtir skotmarkið eða svæðið; aðeins hreinsar þá í glansandi ástand. Þessi galdur er oft notaður til að þvo föt. Galdramaðurinn getur hreinsað svæði sem jafngildir POWx5 í fermetrum (5-feta ferningur er 25 fermetrar).
+Hreinsa er notað til að losa hlut, manneskju eða lítið svæði við óhreinindi, fitu, óhreinindi, vonda lykt o.s.frv. Það skipuleggur ekki eða snyrtir skotmarkið eða svæðið; hreinsar það bara í hreint og fínt ástand. Þessi galdur er oft notaður til að þvo föt. Galdramaðurinn getur hreinsað svæði sem nemur MÁTx5 í fermetrum (5 feta ferningur er 25 fermetrar).
 
-Dishevel er andhverfan af Cleanse. Hlutir sem verða fyrir áhrifum þekjast samstundis af óhreinindum, ryki, kóngulóarvefjum og svo framvegis. Galdurinn má nota til að láta glænýja hluti líta út fyrir að vera gamla og veðraða eða hjálpa til við að koma í veg fyrir að venjulega vel snyrt fólk sé þekkjanlegt.
+Óhreinka er andhverfan af Hreinsa. Hlutir sem verða fyrir áhrifum verða strax þaktir óhreinindum, ryki, kóngulóarvefjum o.s.frv. Galdurinn er hægt að nota til að láta glænýja hluti líta út fyrir að vera gamla og veðraða eða hjálpa til við að koma í veg fyrir að venjulega vel til fara fólk sé þekkt.
 
 ---
-#### Command
+#### Skipun
 
-(Töfrandi (Heillun))
+(Töfrandi heillun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Heillun | **Virkni:** 1 mínúta |
+| **Stig:** Prestur 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Heillun | **Lengd:** 1 mínúta |
 | **Kostnaður:** 3 | **Drægni:** 100 fet |
-| **Svæði:** 1 skotmark | **Vörn:** Willpower |
+| **Svæði:** 1 skotmark | **Viðnám:** Mát |
 
-Þegar þessi galdur er kastaður getur klerkurinn sagt eitt orð sem skipun við eina lifandi veru af SIZ 1-20, og í næstu umferð viðfangsefnisins verður skipuninni fylgt út í æsar ef það mistekst viðnámkasti. Þetta veldur í raun því að fórnarlambið missir af næstu umferð við að ljúka aðgerðinni sem skipað var fyrir og sóar aðgerðarpunkti á meðan það framkvæmir hana. Ef fórnarlambið á enga aðgerðarpunkta eftir, verður skipunin framkvæmd í fyrstu umferð næstu lotu. Sjálf skipunin getur ekki valdið fórnarlambinu neinum raunverulegum skaða; hins vegar getur skaði komið sem aukaverkun skipunarinnar.
+Þegar þessum galdri er kastað getur presturinn sagt eitt einsorðs skipun við eina lifandi veru með STÆ 1-20, og í næstu umferð skotmarksins verður skipuninni fylgt eftir í bókstaf ef hún bregst viðnámsköstum. Þetta veldur í raun því að fórnarlambið missir af næstu umferð við að framkvæma skipað verkefni og sóar Aðgerðarpunkti á meðan. Ef fórnarlambið hefur enga Aðgerðarpunkta eftir, verður skipuð aðgerð framkvæmd á fyrstu umferð þess í næstu lotu. Skipunin sjálf getur ekki valdið skotmarkinu neinum raunverulegum meiðslum; Hins vegar geta meiðsl komið sem afleidd áhrif skipunarinnar.
 
-Til dæmis myndi skipun um að deyja leiða til þess að fórnarlambið hrynji í lífshættulegt ástand í 1 umferð án þess að valda neinum raunverulegum skaða; hins vegar gæti skipun um að falla, gefin veru sem klifrar upp 100-feta klettavegg, verið meira en lífshættuleg.
+Til dæmis myndi skipun um að deyja valda því að fórnarlambið hrynji í dauðalíkt ástand í 1 lotu án raunverulegra meiðsla; Hins vegar gæti skipun um að falla gefin veru sem klifrar upp 100 feta hátt klettabelti verið meira en banvæn.
 
-Skotmark skipunarinnar verður að geta skilið tungumálið sem galdramaðurinn talar og hefur leyfi til að gera Willpower-próf til að standast.
+Viðfangsefni skipunarinnar verður að geta skilið tungumálið sem galdramaðurinn talar og fær Mát-próf til að standast.
 
-**Nokkrar dæmi um skipanir**
+**Nokkrar dæmigerðar skipanir**
 
-- **Crawl:** Skotmarkið dettur í liggjandi stöðu og byrjar að skríða.
-- **Die:** Skotmarkið fellur niður í dái, lífshættulegu ástandi.
-- **Fall:** Skotmarkið fellur niður.
-- **Fumble:** Skotmarkið klúðrar líkamlegri aðgerð sem á að grípa til.
-- **Sleep:** Skotmarkið sofnar.
-- **Flee:** Skotmarkið snýr við og flýr frá galdramanninum.
-- **Fly:** Skotmarkið blakar handleggjunum og hleypur í hringi.
-- **Go:** Skotmarkið byrjar að ganga í þá átt sem það snéri.
-- **Halt:** Skotmarkið stoppar strax og stendur á staðnum.
-- **Leave:** Skotmarkið snýr við og fer út þá leið sem það kom inn.
-- **Rest:** Skotmarkið fellur í sitjandi stöðu og nær andanum.
-- **Run:** Skotmarkið byrjar að hlaupa.
-- **Scream:** Skotmarkið öskrar.
-- **Sink:** Skotmarkið hættir að synda.
-- **Surrender:** Skotmarkið sleppir vopnum sínum og hættir fjandsemi.
+- **Skríða:** Viðfangsefnið kastar sér flötu og byrjar að skríða.
+- **Deyja:** Viðfangsefnið fellur flatt og fer í dáið dauðalíkt ástand.
+- **Falla:** Viðfangsefnið fellur flatt.
+- **Mistakast:** Viðfangsefnið klúðrar líkamlegri aðgerð sem á að grípa til.
+- **Sofa:** Viðfangsefnið dotar.
+- **Flýja:** Viðfangsefnið snýr sér við og flýr galdramanninn.
+- **Fljúga:** Viðfangsefnið blakar handleggjunum og hleypur í hringi.
+- **Fara:** Viðfangsefnið byrjar að ganga í þá átt sem það snýr.
+- **Stoppa:** Viðfangsefnið stoppar strax og stendur kyrrt.
+- **Yfirgefa:** Viðfangsefnið snýr sér við og fer út sömu leið og það kom inn.
+- **Hvílast:** Viðfangsefnið sest niður og nær andanum.
+- **Hlaupa:** Viðfangsefnið byrjar að hlaupa.
+- **Öskra:** Viðfangsefnið æpir.
+- **Sökkva:** Viðfangsefnið hættir að synda.
+- **Gefast upp:** Viðfangsefnið sleppir vopnum sínum og hættir öllum fjandskap.
 
 ---
-#### Cone of Cold
+#### Kulda keila
 
 (Framköllun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 1 umferð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdramaður 3 | **Kasttími:** 1 lota |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 0 |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Evade |
+| **Svæði:** Sjá hér að neðan | **Viðnám:** Undanbragð |
 
-Galdramaðurinn skapar keilu af brennandi kulda sem nær frá hendinni. Áhrifasvæðið er 90-gráðu bogi (keila) sem nær 10 fet í lengd fyrir hvert stig af styrkleika. Galdurinn veldur 1d6+1 stigum af skaða fyrir hverja 2 stig af styrkleika, eða brot af því, á allar fórnarlömb innan áhrifasvæðisins. Rúllaðu skaðann einu sinni og beittu honum á hvern líkamshluta skotmarksins, þar sem búin brynja veitir aðeins helming verndar, en náttúrleg brynja eða töfrabrynjupunktar draga úr skaða eins og venjulega. Leikstjórinn getur valið fjölda líkamshluta sem verða fyrir áhrifum með hvaða hætti sem hann telur viðeigandi ef risastór vera er stærri en áhrifasvæðið.
+Galdramaðurinn skapar keilu af brennandi kulda sem nær út frá hendinni. Áhrifasvæðið er 90 gráðu boga (keila) sem nær 10 fet í lengd á hvert styrkleikastig. Galdurinn veldur 1d6+1 skaðapunkta á hverja 2 styrkleikastig, eða brot af því, fyrir öll fórnarlömb á áhrifasvæðinu. Kastið skaðanum einu sinni og beitið honum á hvern líkamshluta skotmarksins, þar sem klædd brynja býður aðeins hálfa vörn, en náttúruleg brynja veru eða töfra-varnarpunktar draga úr skaða eins og venjulega. Spilastjórinn getur valið fjölda líkamshluta sem verða fyrir áhrifum með hvaða hætti sem hann telur viðeigandi ef risastór vera er stærri en áhrifasvæðið.
 
-Með árangursríku Evade-kasti, að kasta sér í liggjandi stöðu, verður fórnarlambið fyrir engum skaða. Einhver með Artful Dodger-hæfileikann getur Evade án þess að liggja, en árangur í því tilviki minnkar aðeins skaðann um helming, nema þeir séu innan fimm feta frá brún áhrifasvæðisins. Cone of Cold hefur möguleika á að þekja fórnarlamb með ísalagi sem jafngildir rúlluðum skaða (eftir breytingu) x5%. Ef frosið er, getur fórnarlambið einu sinni á umferð eytt aðgerðarpunkti og gert Brawn-kast til að reyna að losa sig; þó, þar til það tekst, getur fórnarlambið ekki hreyft sig eða framkvæmt aðrar aðgerðir.
+Með vel heppnuðu Undanbragðs-kasti, þar sem maður kastar sér flötum, verður fórnarlambið fyrir engum skaða. Einhver með „Artful Dodger“ hæfileikann getur notað Undanbragð án þess að kasta sér, en árangur í því tilviki minnkar skaðann aðeins um helming, nema þeir séu innan fimm feta frá brún áhrifasvæðisins. Kulda keila hefur möguleika á að hylja fórnarlamb með íslagi sem nemur veltum skaða (eftir breytingu) x5%. Ef fórnarlambið frýs, getur það einu sinni á lotu eytt Aðgerðarpunkti og gert Þol-kast til að reyna að brjótast út; hins vegar, þar til það tekst, getur fórnarlambið ekki hreyft sig eða framkvæmt neinar aðrar aðgerðir.
 
-**Áhrif Cone of Cold**
+**Kulda keila áhrif**
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 fet langt; 1d6+1 skaði |
-| 2 | 4 | 20 fet langt; 1d6+1 skaði |
-| 3 | 5 | 30 fet langt; 2d6+2 skaði |
-| 4 | 6 | 40 fet langt; 2d6+2 skaði |
-| 5 | 7 | 50 fet langt; 3d6+3 skaði |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 10 fet á lengd; 1d6+1 skaði |
+| 2 | 4 | 20 fet á lengd; 1d6+1 skaði |
+| 3 | 5 | 30 fet á lengd; 2d6+2 skaði |
+| 4 | 6 | 40 fet á lengd; 2d6+2 skaði |
+| 5 | 7 | 50 fet á lengd; 3d6+3 skaði |
+| +1 | +1 | Halda áfram stigun |
 
 ---
-#### Confusion
+#### Rugl
 
-(Töfrandi (Heillun))
+(Töfrandi heillun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 4, Galdrakarl 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Heillun | **Virkni:** 1 mínúta/styrkleiki |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 120 fet (Klerkaútgáfa 250 fet) |
-| **Svæði:** 30 feta radíus | **Vörn:** Willpower (Klerkaútgáfa er Hard Willpower) |
+| **Stig:** Prestur 4, Galdramaður 3 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Heillun | **Lengd:** 1 mínúta/styrkleiki |
+| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 120 fet (Prest-útgáfa 250 fet) |
+| **Svæði:** 30 feta radíus | **Viðnám:** Mát (Prest-útgáfa er Erfitt Mát) |
 
-Þegar þessi galdur er kastaður, munu 1d4 verur af SIZ 1-20 innan áhrifasvæðisins sem mistakast í viðnámkasti verða fyrir töfrandi rugli. Hvert stig af styrkleika mun hafa áhrif á aðrar 1d4 verur að hámarki 4d4. Klerkaútgáfan hefur áhrif á 1d3+1 á hvern styrkleika og hefur engin hámark. Þeir sem eru innan áhrifasvæðisins og næst galdramanninum verða fyrir áhrifum fyrst. Árangursríkt viðnámkast sigrar galdurinn, á meðan misheppnað kast leiðir til þess að fórnarlambið þjáist af einni af eftirfarandi handahófskenndum áhrifum, rúllaðu á hverri umferð fyrir virkni galdursins, eða þar til fórnarlambið reikar í burtu.
+Þegar þessum galdri er kastað, verða 1d4 verur með STÆ 1-20 innan áhrifasvæðisins sem bregðast viðnámsköstum fyrir töfrandi rugli. Sérhvert viðbótarstig styrkleika mun hafa áhrif á aðrar 1d4 verur að hámarki 4d4. Prest-útgáfan hefur áhrif á 1d3+1 á hvern styrkleika og hefur ekkert hámark. Þeir sem eru innan áhrifasvæðisins og næstir galdramanninum verða fyrir áhrifum fyrst. Vel heppnað viðnámskast sigrar galdurinn, en misheppnað kast leiðir til þess að fórnarlambið þjáist af einni af eftirfarandi handahófskenndum áhrifum, kastaðu hverja lotu á meðan galdurinn varir, eða þar til fórnarlambið reikar í burtu.
 
-| D100 Rúlla | Áhrif rugls |
+| D100 kast | Áhrif rugls |
 | :-: | :-- |
-| 01-10 | Ráðist á galdramanninn með annaðhvort fjar- eða návopnum fyrir það sem eftir er af umferðinni |
-| 11-50 | Standið ruglaður, í raun að velja Dither fyrir það sem eftir er af umferðinni |
-| 51-70 | Ráðist á næsta óvin fyrir það sem eftir er af umferðinni |
-| 71-80 | Ráðist á næsta bandamann fyrir það sem eftir er af umferðinni |
-| 81-90 | Reikið í burtu á Walk-hraða ef ekki er í bardaga fyrir virkni galdursins, annars Dither eins og 11-50 hér að ofan |
-| 91-00 | Bregðist eðlilega við fyrir það sem eftir er af umferðinni |
+| 01-10 | Árás á galdramanninn með ýmist fjar- eða nær-vopnum það sem eftir lifir lotunnar |
+| 11-50 | Standandi ruglaður, velur í raun Að hika (Dither) það sem eftir lifir lotunnar |
+| 51-70 | Árás á næsta óvin það sem eftir lifir lotunnar |
+| 71-80 | Árás á næsta bandamann það sem eftir lifir lotunnar |
+| 81-90 | Reika í burtu á gönguhraða ef óbundinn það sem galdurinn varir, annars Hika eins og fyrir 11-50 hér að ofan |
+| 91-00 | Bregst eðlilega við það sem eftir lifir lotunnar |
 
-Hver árás á ruglaða veru leyfir henni viðbótartilraun til að standast galdurinn. Fórnarlambið getur forðast eða varist eðlilega.
+Sérhver árás á ruglaða veru gerir henni kleift að reyna aftur að standast galdurinn. Fórnarlambið getur Undanbragðast eða Varið (Parry) eðlilega.
 
-Stórar verur (SIZ 21-40) eru síður næmar fyrir Confusion, þar sem viðnámkastið er Easy, á meðan viðnámkastið fyrir risastórar verur (SIZ 41+) er Very Easy.
+Með „Reika í burtu“ niðurstöðu, fer fórnarlambið í gagnstæða átt við galdramanninn á gönguhraða með því að nota eðlilegan ferðamáta. Verur með meðfædda hæfileika eins og astral- eða eter-ferðalög, plan-flakk, o.s.frv., hafa 50% líkur á að nota einn af þessum hæfileikum í stað veraldlegs ferðamáta hverja lotu.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+Stórar verur (STÆ 21-40) eru síður næmar fyrir Rugli, þar sem viðnámskast þeirra er auðvelt, en viðnámskast fyrir Risastórar verur (STÆ 41+) er mjög auðvelt.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 1 mín.; 1d4 verur (1d3+1 fyrir klerk) |
-| 2 | 4 | 2 mín.; 2d4 verur (2d3+2 fyrir klerk) |
-| 3 | 5 | 3 mín.; 3d4 verur (3d3+3 fyrir klerk) |
-| 4 | 6 | 4 mín.; 4d4 verur (hámark) (4d3+4 fyrir klerk) |
-| 5 | 7 | 5 mín.; (5d3+5 fyrir klerk) |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 1 mín.; 1d4 verur (1d3+1 fyrir prest) |
+| 2 | 4 | 2 mín.; 2d4 verur (2d3+2 fyrir prest) |
+| 3 | 5 | 3 mín.; 3d4 verur (3d3+3 fyrir prest) |
+| 4 | 6 | 4 mín.; 4d4 verur (hámark) (4d3+4 fyrir prest) |
+| 5 | 7 | 5 mín.; (5d3+5 fyrir prest) |
+| +1 | +1 | Halda áfram stigun |
 
 ---
-#### Continual Light
+#### Stöðugt ljós
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2, Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Sól | **Virkni:** Hálf-varanleg (Sjá hér að neðan) |
+| **Stig:** Prestur 2, Galdramaður 2 | **Kasttími:** 1 aðgerð |
+| **Svið:** Sól | **Lengd:** Hálf-varanlegur (Sjá hér að neðan) |
 | **Kostnaður:** 3 | **Drægni:** 180 fet |
-| **Svæði:** 60 feta radíus | **Vörn:** Sjá hér að neðan |
+| **Svæði:** 60 feta radíus | **Viðnám:** Sjá hér að neðan |
 
-Þessi galdur skapar ljóskúlu sem jafngildir birtu í fullu dagsbirtu á stað sem galdramaðurinn velur, sem getur verið hlutur eða jafnvel í loftinu. Hann er hálf-varanlegur og er aðeins tímabundið afneitað með því að fara inn á svæði með töfrandi myrkri. Hins vegar má varanlega vísa honum burt af galdramanninum hvenær sem er eða afneita með því að kasta Darkness eða Dispel Magic á styrkleika sem er meiri en Stærð Continual Light.
+Þessi galdur skapar ljóskúlu sem samsvarar í birtu fullu dagsljósi á stað að vali galdramannsins, sem getur verið hlutur eða jafnvel í lausu lofti. Hann er hálf-varanlegur og er aðeins tímabundið afnuminn með því að fara inn á svæði með töfrandi myrkri. Hins vegar getur galdramaðurinn látið hann niður falla varanlega hvenær sem er eða hann getur verið afnuminn með köstun á Darkness eða Dispel Magic með styrkleika sem er meiri en Stærð Stöðugs ljóss.
 
-Verur með andúð á dagsbirtu verða fyrir venjulegum refsingum tengdum henni þegar þær eru innan viðeigandi áhrifasvæðis. Ef honum er kastað á veru, fær skotmarkið Willpower-próf til að standast, þar sem árangur gefur til kynna að galdurinn hafi haft áhrif á svæðið beint fyrir aftan veruna en ekki veruna sjálfa. Ef honum er beint á augu veru, leiðir misheppnað Willpower-kast til blindu að hluta, sem eykur erfiðleika allra færni- og viðnámkasta sem krefjast sjónar um eitt stig. Sjón er aðeins hægt að endurheimta með því að kasta Cure Blindness and Deafness á hvaða styrkleika sem er, eða með því að kasta Dispel Magic á styrkleika sem er meiri en Stærð Continual Light. Áhrif galdursins eru óhreyfanleg en hægt er að kasta honum á flytjanlegan eða færanlegan hlut.
+Verur með andúð á dagsljósi þjást af þeim eðlilegu viðurlögum sem fylgja því þegar þær eru innan áhrifasvæðisins. Ef kastað er á veru, fær skotmarkið Mát-próf til að standast, þar sem árangur gefur til kynna að galdurinn hafi haft áhrif á svæðið beint fyrir aftan veruna en ekki veruna sjálfa. Ef beint er að augum veru, leiðir misheppnað Mát-kast til hluta blindu, sem eykur erfiðleika allra færni- og viðnámskaasta sem krefjast sjónar um eitt stig. Sjón verður aðeins endurreist með því að kasta Cure Blindness and Deafness á hvaða styrkleika sem er, eða með því að kasta Dispel Magic með styrkleika sem er meiri en Stærð Stöðugs ljóss. Áhrif galdursins eru óhreyfanleg en hægt er að kasta þeim á flytjanlegan eða hreyfanlegan hlut.
 
 ---
-#### Control Weather
+#### Stjórna veðri
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 5, Galdrakarl 4 | **Kasttími:** 10 mínútur |
-| **Svið:** Veður | **Virkni:** 1d6 klst/styrkleiki |
+| **Stig:** Prestur 5, Galdramaður 4 | **Kasttími:** 10 mínútur |
+| **Svið:** Veður | **Lengd:** 1d6 klukkustundir/styrkleiki |
 | **Kostnaður:** 3 +1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** 1d4 ferkílómetrar/styrkleiki | **Vörn:** Á ekki við |
+| **Svæði:** 1d4 fer mílur/styrkleiki | **Viðnám:** N/A |
 
-Þessi galdur gerir galdramanninum kleift að breyta núverandi veðri á verulegan og áberandi hátt. Þegar kastað hefur verið verða að líða 1d4x10 mínútur í viðbót til að áhrifin komi að fullu fram. Virkni hvers kyns breytinga er reiknuð samkvæmt virkni galdursins. Galdramaðurinn getur breytt úrkomu, hitastigi og vindi um allt að tvö stig eins og lýst er í töflunum í [Conversion Tables](Appendix_B_Conversion_Tables).
+Þessi galdur gerir galdramanninum kleift að breyta núverandi veðri á verulegan og áberandi hátt. Þegar galdrinum er kastað verða 1d4x10 mínútur að líða áður en áhrifin birtast að fullu. Lengd hvers kyns breytinga er reiknuð samkvæmt lengd galdursins. Galdramaðurinn getur breytt úrkomu, hitastigi og vindi um allt að tvö stig upp eða niður eins og ítarlega er greint frá í töflunum í [Umbreytingatöflur](Appendix_B_Conversion_Tables).
 
 <br>
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 1d6 klst. virkni; 1d4 ferkílómetrar |
-| 2 | 4 | 2d6 klst. virkni; 2d4 ferkílómetrar |
-| 3 | 5 | 3d6 klst. virkni; 3d4 ferkílómetrar |
-| 4 | 6 | 4d6 klst. virkni; 4d4 ferkílómetrar |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 1d6 klst. lengd; 1d4 fer mílur |
+| 2 | 4 | 2d6 klst. lengd; 2d4 fer mílur |
+| 3 | 5 | 3d6 klst. lengd; 3d4 fer mílur |
+| 4 | 6 | 4d6 klst. lengd; 4d4 fer mílur |
+| +1 | +1 | Halda áfram stigun |
 
 ---
-#### Coordination
+#### Samhæfing
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Allir | **Virkni:** Kveikja |
+| **Stig:** Prestur 0, Galdramaður 0 | **Kasttími:** 1 aðgerð |
+| **Svið:** Allir | **Lengd:** Kveikja |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Engin |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
 
-Coordination bætir handlagni og snerpu við framkvæmd tiltekins verkefnis. Þegar honum er kastað sem undirbúningi gerir það viðtakandanum kleift að kasta upp á nýju fyrir eitt færnikast þar sem krafist er samhæfingar, svo sem Acrobatics, Lockpicking og svo framvegis. Viðtakandinn getur valið betra kastið, en galdurinn eyðist í ferlinu.
+Samhæfing eykur handlagni og lipurð við framkvæmd á einu fyrirfram ákveðnu verkefni. Þegar henni er kastað til undirbúnings leyfir hún viðtakandanum möguleika á að kasta aftur einu færnikasti þar sem samhæfingar er krafist, eins og fimleikum, lásum, o.s.frv. Viðtakandinn getur valið það betra af tveimur köstum, en galdurinn eyðist í ferlinu.#### Create Food and Water
 
----
-#### Create Food and Water
-
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1 | **Kasttími:** 1 mínúta |
-| **Svið:** Sköpun, Elemental (Vatn) | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 3 +1/styrkleiki | **Drægni:** 30 fet |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Á ekki við |
+| **Rank:** Klerkur 1 | **Casting Time:** 1 mínúta |
+| **Sphere:** Sköpun, Frumefla (Vatn) | **Duration:** Sjá hér að neðan |
+| **Cost:** 3 +1/Styrkleika | **Range:** 30 fet |
+| **Area:** Sjá hér að neðan | **Resist:** N/A |
 
-Þessi galdur skapar úr engu mat sem nægir til að fæða þrjár verur af SIZ 20 eða minna eða eina veru af SIZ 21-40 fyrir heilan dag fyrir hvert styrkleikastig. Verur stærri en SIZ 40 krefjast 1 styrkleikastigs fyrir hverja „máltíð“. Þessi sköpun líkist venjulegum mat á allan hátt, og á meðan hann er nokkuð bragðlaus, getur hann verið hvers konar sem galdramaðurinn óskar. Það sem hann skortir í bragði bætir hann upp með næringu. Þegar maturinn hefur verið skapaður hefur hann 24 klukkustunda geymsluþol óháð því hvernig hann er geymdur. Hins vegar, þegar hann hefur skemmst, má aftur gera hann ætan með því að kasta Purify Food and Water, sem framlengir þann tíma sem hægt er að borða hann örugglega um aðrar 24 klukkustundir. Auk matarins skapar galdurinn nóg af drykkjarvatni, sem virkar á allan hátt eins og stig 1 galdurinn Create Water.
+Galdurinn skapar úr engu nægan mat til að fæða þrjár verur með STÆ 20 eða minna, eða eina veru með STÆ 21-40, í heilan dag fyrir hvern Styrkleika. Verur stærri en STÆ 40 þurfa 1 Styrkleika fyrir hverja „máltíð“. Þessi fæða lítur út eins og venjulegur matur á allan hátt, og þótt hann sé frekar bragðdaufur, getur hann verið hvers kyns matur sem galdramaðurinn óskar sér. Það sem vantar upp á bragðið bætir hann upp með næringargildi. Þegar maturinn hefur verið skapaður hefur hann 24 klukkustunda geymsluþol, óháð því hvernig hann er geymdur. Hins vegar, þegar hann er orðinn skemmdur, má gera hann ætan á ný með því að kasta Purify Food and Water, sem framlengir tímann sem óhætt er að borða hann um aðrar 24 klukkustundir. Auk matarins skapar galdurinn nóg af drykkjarvatni, sem virkar á allan hátt eins og Rank 1 galdurinn Create Water.
 
 ---
-#### Cure Disease \(R\)
+#### Cure Disease (R)
 
 (Necromancy)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 1 umferð |
-| **Svið:** Lækning | **Virkni:** Varanleg |
-| **Kostnaður:** 3/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við (Endurance eða Evade) |
+| **Rank:** Klerkur 2 | **Casting Time:** 1 umferð |
+| **Sphere:** Lækning | **Duration:** Varanlegur |
+| **Cost:** 3/Styrkleika | **Range:** Snerting |
+| **Area:** 1 skotmark | **Resist:** N/A (ÞOL eða Undankoma) |
 
-Þessi galdur læknar áhrif hvers kyns veraldlegra eða töfrandi sjúkdóma sem hrjá skotmarkið, þar sem Potency er minna en styrkleiki galdursins x30. Þegar lækningin hefur tekið gildi getur bati hafist eins og lýst er í umfjöllun um sjúkdóminn. Veikindi af völdum sníkjudýra eins og græns slíms, rot-grubs, og jafnvel lycanthropy, má ógilda með Cure Disease. Hins vegar, varðandi síðarnefndu veikindin, verður að kasta Remove Disease innan 72 klukkustunda og á styrkleika 12 eða hærri, á meðan fyrrnefndu má lækna á styrkleika 1. Þessi galdur veitir enga framtíðarbólusetningu gegn sjúkdómnum.
+Þessi galdur læknar áhrif hvers kyns veraldlegra eða töfrandi sjúkdóma sem hrjá skotmarkið, svo framarlega sem styrkur þeirra (Potency) er minni en Styrkleiki galdursins x30. Þegar lækningin er tekin gildi getur bati hafist samkvæmt því sem lýst er í umfjöllun um viðkomandi sjúkdóm. Kvillum sem smitast af sníkjudýrum eins og grænni slímmyndun, rot-maðkum og jafnvel varúlfum má eyða með Cure Disease. Hins vegar, varðandi þá síðarnefndu, verður að kasta Remove Disease innan 72 klukkustunda og með Styrkleika 12 eða meiri, á meðan hægt er að lækna hina fyrrnefndu með Styrkleika 1. Þessi galdur veitir enga framtíðarónæmi gegn sjúkdómnum.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | Lækna POT 30 sjúkdóm, grænt slím eða rot-grubs |
+| 1 | 3 | Lækna POT 30 sjúkdóm, grænt slím eða rot-maðka |
 | 2 | 6 | Lækna POT 60 sjúkdóm |
 | 3 | 9 | Lækna POT 90 sjúkdóm |
-| 4 | 12 | Lækna POT 120 sjúkdóm, lycanthropy |
-| +1 | +1 | Halda áfram röð |
+| 4 | 12 | Lækna POT 120 sjúkdóm, varúlfsfarsótt |
+| +1 | +1 | Halda áfram stigvaxandi |
 
-Andhverfa þessa galdurs, Cause Disease, veldur töfrandi veikindum á óvini. Ef það tekst, getur galdramaðurinn valið að valda hvaða þekkta sjúkdómi sem er á skotmarkið; hins vegar verður styrkleiki x30 að jafngilda eða fara yfir Potency sjúkdómsins sem valinn er. Þegar sjúkdómurinn hefur verið valdur, virkar hann eins og hver annar sjúkdómur varðandi viðnám, tíma þar til hann byrjar, virkni og svo framvegis. Eina undantekningin er sú að snemmbúinn bati er takmarkaður við kast á annað hvort Remove Disease eða Cure. Lækningafærnin hefur engin áhrif á töfrandi sjúkdóma.
+Andhverfa þessa galdurs, Cause Disease, veldur óvini töfrandi kvilla. Ef vel tekst til getur galdramaðurinn valið að valda skotmarkið hvaða þekkta sjúkdómi sem er; hins vegar verður Styrkleiki x30 að vera jafn eða meiri en styrkur (Potency) valda sjúkdómsins. Þegar sjúkdómnum hefur verið komið á, virkar hann eins og hver annar sjúkdómur hvað varðar mótstöðu, upphafstíma, varanleika og svo framvegis. Eina undantekningin er sú að snemmbær bati er bundinn við að kasta annaðhvort Remove Disease eða Cure. Lækningahæfni (Healing skill) hefur engin áhrif á töfrandi sjúkdóma.
 
 ---
-#### Cure Fatigue \(R\)
+#### Cure Fatigue (R)
 
 (Necromancy)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Lækning | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við (Endurance eða Evade) |
+| **Rank:** Klerkur 1 | **Casting Time:** 2 aðgerðir |
+| **Sphere:** Lækning | **Duration:** Sjá hér að neðan |
+| **Cost:** 1 | **Range:** Snerting |
+| **Area:** 1 skotmark | **Resist:** N/A (ÞOL eða Undankoma) |
 
-Þegar þessi galdur er kastaður fær viðfangsefnið aftur 1d3+1 týnd þreytustig, og jafnvel endurheimtir meðvitund ef við á.
+Þegar þessi galdur er kastaður endurheimtir viðfangsefnið 1d3+1 tapað stig af þreytu (Fatigue), og endurheimtir jafnvel meðvitund ef við á.
 
-Andhverfa þessa galdurs, Cause Fatigue, veldur 1d3+1 þreytustigum á skotmörk sem mistakast viðnámkast. Channel-kast galdramannsins virkar sem kastið til að slá andstæðinginn og er gert ráð fyrir að sé hluti af líkamlegri kröfu galdursins. Ekkert viðbótarkast til að hitta er nauðsynlegt. Hvorki búin né náttúrleg brynja veitir neina vernd, en töfrabrynja afneitar galdrinum.
+Andhverfa þessa galdurs, Cause Fatigue, veldur skotmarki 1d3+1 stigum af þreytu ef það bregst við ÞOL-kasti. Rásarkast (Channel roll) galdramannsins virkar sem höggkast gegn andstæðingnum og er talið vera hluti af líkamlegri kröfu galdursins. Ekkert viðbótar höggkast er nauðsynlegt. Hvorki klæddur né náttúrulegur brynja veitir vörn, en töfrandi brynjur ógilda galdurinn.
 
 ---
-#### Cure Major Wounds \(R\)
+#### Cure Major Wounds (R)
 
 (Necromancy)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 1 umferð |
-| **Svið:** Lækning | **Virkni:** Varanleg |
-| **Kostnaður:** 3/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við (Endurance eða Evade) |
+| **Rank:** Klerkur 2 | **Casting Time:** 1 umferð |
+| **Sphere:** Lækning | **Duration:** Varanlegur |
+| **Cost:** 3/Styrkleika | **Range:** Snerting |
+| **Area:** 1 skotmark | **Resist:** N/A (ÞOL eða Undankoma) |
 
-Þessi galdur virkar eins og Cure Minor Wounds nema þar sem annað er tekið fram hér að neðan.
+Þessi galdur virkar samkvæmt Cure Minor Wounds nema þar sem tekið er fram hér að neðan.
 
-Þessi galdur læknar einn líkamshluta sem þjáist af alvarlegum áverka (Major Wound), óháð því hvort hann hefur verið mulið eða limlestur. Hann hefur engin áhrif á afstýfðan útlim, sem krefst annaðhvort Heal, ef útlimurinn er enn til staðar, eða Regeneration til að endurheimta hann. Að því gefnu að viðtakandinn sé enn á lífi og staðsetningin var særð innan fjölda klukkustunda sem jafngildir styrkleika galdursins, læknar Cure Major Wounds 1d8+4 skaða næstum samstundis.
+Þessi galdur læknar einn líkamshluta sem þjáist af alvarlegu sári, hvort sem hann hefur verið kraminn eða limlestur. Hann hefur engin áhrif á afskorinn lim, sem krefst annaðhvort Heal, ef limurinn er enn til staðar, eða Regeneration til að endurheimta hann. Að því tilskildu að viðtakandinn sé enn á lífi og staðsetningin hafi slasast innan fjölda klukkustunda sem jafngildir Styrkleika galdursins, þá læknar Cure Major Wounds 1d8+4 skaða nær samstundis.
 
-Ef meiðslin áttu sér stað fyrr, þá verður líkamshlutinn að gangast undir flóknari viðgerð, sem krefst eins kasts á Cure Major Wounds og fjölda daga af fullri hvíld og bata sem jafngildir lækningahraða karakterins. Rúllaðir heilsu-punktar eru meðaltalaðir og endurheimtir á meðan á tilgreindu batatímabili stendur. Ef þessu batatímabili er rofið áður en lækningin hefur lokið sér, verður staðsetningin áfram örkuð og ónothæf, og aðeins hægt að lækna hana með galdrinum Heal.
+Ef meiðslin áttu sér stað fyrr, þá verður líkamshlutinn að gangast undir erfiðara viðgerðarferli, sem krefst eins kasts af Cure Major Wounds og fjölda daga af fullri hvíld og endurheimt sem jafngildir lækningahraða (Healing Rate) persónunnar. Sárabótin (Hit Points) sem köstuð er er meðaltalsreiknuð og endurheimt yfir umrætt bataferli. Ef þessu bataferli er raskað áður en lækningu er lokið, verður svæðið áfram lamað og ónothæft, og aðeins hægt að lækna það með galdrinum Heal.
 
-Þegar snúið er við, má nota Cause Major Wounds til að draga úr einum líkamshluta um 1d8+4 heilsu-punkta. Channel-kast galdramannsins virkar sem kastið til að slá andstæðinginn og er gert ráð fyrir að sé hluti af líkamlegri kröfu galdursins. Ekkert viðbótarkast til að hitta er nauðsynlegt. Þessi galdur getur ekki afstýft staðsetningunni en getur mulið eða limlest hana venjulega. Hvorki búin né náttúrleg brynja veitir neina vernd, en töfrabrynjupunktar draga úr skaða eins og venjulega.
+Þegar hann er snúið við, má nota Cause Major Wounds til að draga 1d8+4 sárabætur frá einum líkamshluta. Rásarkast galdramannsins virkar sem höggkast gegn andstæðingnum og er talið vera hluti af líkamlegri kröfu galdursins. Ekkert viðbótar höggkast er nauðsynlegt. Þessi galdur getur ekki slitið af líkamshlutann en getur kramið hann eða limlest á eðlilegan hátt. Hvorki klæddur né náttúrulegur brynja veitir vörn, en töfrandi brynjustig (Armor Points) draga úr skaða eins og venjulega.
 
 ---
-#### Cure Minor Wounds \(R\)
+#### Cure Minor Wounds (R)
 
 (Necromancy)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Lækning | **Virkni:** Varanleg |
-| **Kostnaður:** 3 (eða 1) | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við (Endurance eða Evade) |
+| **Rank:** Klerkur 1 | **Casting Time:** 2 aðgerðir |
+| **Sphere:** Lækning | **Duration:** Varanlegur |
+| **Cost:** 3 (eða 1) | **Range:** Snerting |
+| **Area:** 1 skotmark | **Resist:** N/A (ÞOL eða Undankoma) |
 
-Cure Minor Wounds hefur nokkur mismunandi áhrif eftir eðli veikindanna sem hann er notaður á. Þegar honum er kastað á veru sem þjáist af minniháttar áverka (Minor Wound), læknast 1d4+1 heilsu-punktar á særðu staðsetningunni samstundis. Hann hefur takmörkuð áhrif á Serious og Major Wounds, þar sem aðeins einn heilsupunktur endurheimtist. Hins vegar stöðugir galdurinn staðsetningu óháð skaða, stoppar allar blæðingar og kemur í veg fyrir yfirvofandi dauða.
+Cure Minor Wounds hefur nokkur mismunandi áhrif eftir eðli kvillans sem hann er notaður á. Þegar hann er kastaður á veru sem þjáist af minniháttar sári (Minor Wound), læknast 1d4+1 sárabætur á þeim líkamshluta samstundis. Hann hefur takmörkuð áhrif á alvarleg (Serious) og stór (Major) sár, þar sem aðeins einn sárabót endurheimtist. Hins vegar stöðugar galdurinn svæðið óháð skaða, stoppar allar blæðingar og kemur í veg fyrir yfirvofandi dauða.
 
-Einnig, ef viðfangsefnið þjáist af minniháttar kvillum, svo sem höfuðverk, bakverk, timburmönnum, kvefi, vörtum og svo framvegis, lyftir kast á Cure Minor Wounds einum af áhrifunum. Þetta tilvik af galdrinum kostar aðeins einn töfrapunkt.
+Að öðrum kosti, ef viðfangsefnið þjáist af minniháttar kvillum, svo sem höfuðverk, bakverk, timburmönnum, kvefi, vörtum eða svo framvegis, þá léttir Cure Minor Wounds einn af þessum áhrifum. Þetta tilvik galdursins kostar aðeins einn töfrapunkt (Magic Point).
 
-Þegar snúið er við, Cause Minor Wounds dregur úr heilsu-punktum snertu staðsetningarinnar um 1d4+1 punkta, en virkar annars á sama hátt. Cause Minor Wounds mun aðeins valda 1 punkts skaða á staðsetningu með alvarlegum eða meiriháttar áverka, á meðan umframskaði tapast. Þessi galdur getur ekki afstýft staðsetningunni en getur mulið eða limlest hana venjulega.
+Þegar hann er snúið við, dregur Cause Minor Wounds 1d4+1 punkta frá sárabótum snertu svæðisins, en virkar annars á sama hátt. Cause Minor Wounds mun aðeins valda 1 punkts skaða á svæði með alvarlegt (Serious) eða stórt (Major) sár, á meðan umfram skaði glatast. Þessi galdur getur ekki slitið af líkamshlutann en getur kramið hann eða limlest á eðlilegan hátt.
 
-Einnig getur galdurinn valdið minniháttar veikindum, svo sem höfuðverk, bakverk, timburmönnum, kvefi, vörtum og svo framvegis. Þetta tilvik af galdrinum kostar aðeins einn töfrapunkt.
+Að öðrum kosti getur galdurinn valdið minniháttar kvilla, svo sem höfuðverk, bakverk, timburmönnum, kvefi, vörtum eða svo framvegis. Þetta tilvik galdursins kostar aðeins einn töfrapunkt.
 
-Channel-kast galdramannsins virkar sem kastið til að slá andstæðinginn og er gert ráð fyrir að sé hluti af líkamlegri kröfu galdursins. Ekkert viðbótarkast til að hitta er nauðsynlegt. Hvorki búin né náttúrleg brynja veitir neina vernd, en töfrabrynjupunktar draga úr skaða eins og venjulega.
+Rásarkast galdramannsins virkar sem höggkast gegn andstæðingnum og er talið vera hluti af líkamlegri kröfu galdursins. Ekkert viðbótar höggkast er nauðsynlegt. Hvorki klæddur né náttúrulegur brynja veitir vörn, en töfrandi brynjustig draga úr skaða eins og venjulega.
 
 ---
-#### Cure Serious Wounds \(R\)
+#### Cure Serious Wounds (R)
 
 (Necromancy)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 1 umferð |
-| **Svið:** Lækning | **Virkni:** Varanleg |
-| **Kostnaður:** 3 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við (Endurance eða Evade) |
+| **Rank:** Klerkur 2 | **Casting Time:** 1 umferð |
+| **Sphere:** Lækning | **Duration:** Varanlegur |
+| **Cost:** 3 | **Range:** Snerting |
+| **Area:** 1 skotmark | **Resist:** N/A (ÞOL eða Undankoma) |
 
-Þessi galdur virkar eins og Cure Minor Wounds nema þar sem annað er tekið fram hér að neðan.
+Þessi galdur virkar samkvæmt Cure Minor Wounds nema þar sem tekið er fram hér að neðan.
 
-Cure Serious Wounds læknar einn líkamshluta af 1d6+2 punkta áverka, að því gefnu að áverkinn sé ekki meiri en alvarlegur áverki (Serious Wound). Hann hefur takmörkuð áhrif á meiriháttar áverka (Major Wounds), læknar staðsetninguna um 2 heilsu-punkta og stöðvar meiðslin og kemur í veg fyrir dauða.
+Cure Serious Wounds læknar einn líkamshluta af 1d6+2 punkta meiðslum, að því tilskildu að meiðslin séu ekki alvarlegri en alvarlegt sár (Serious Wound). Hann hefur takmörkuð áhrif á stór sár (Major Wounds), læknar svæðið um 2 sárabætur og stöðugar meiðslin, sem kemur í veg fyrir dauða.
 
-Þegar snúið er við, Cause Serious Wounds dregur úr einum líkamshluta um 1d6+2 heilsu-punkta. Cause Serious Wounds mun aðeins valda 2 punkta skaða á staðsetningu með meiriháttar áverka; allur umframskaði tapast. Channel-kast galdramannsins virkar sem kastið til að slá andstæðinginn og er gert ráð fyrir að sé hluti af líkamlegri kröfu galdursins. Ekkert viðbótarkast til að hitta er nauðsynlegt. Þessi galdur getur ekki afstýft staðsetningunni en getur mulið eða limlest hana venjulega. Hvorki búin né náttúrleg brynja veitir neina vernd, en töfrabrynjupunktar draga úr skaða eins og venjulega.
+Þegar hann er snúið við, dregur Cause Serious Wounds 1d6+2 sárabætur frá einum líkamshluta. Cause Serious Wounds mun aðeins valda 2 punkta skaða á svæði með stórt sár (Major Wound); allur umfram skaði glatast. Rásarkast galdramannsins virkar sem höggkast gegn andstæðingnum og er talið vera hluti af líkamlegri kröfu galdursins. Ekkert viðbótar höggkast er nauðsynlegt. Þessi galdur getur ekki slitið af líkamshlutann en getur kramið hann eða limlest á eðlilegan hátt. Hvorki klæddur né náttúrulegur brynja veitir vörn, en töfrandi brynjustig draga úr skaða eins og venjulega.
 
 ---
 #### Dancing Lights
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 2 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** 100 feta radíus/styrkleiki | **Vörn:** Á ekki við |
+| **Rank:** Galdramaður 1 | **Casting Time:** 1 aðgerð |
+| **Sphere:** Ekkert | **Duration:** 2 mínútur/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** 0 |
+| **Area:** 100 feta radíus/Styrkleika | **Resist:** N/A |
 
-Þegar þessi galdur er kastaður getur galdramaðurinn skapað eitt af eftirfarandi áhrifum: 1d4 flöktandi ljóspunkta sem líkjast kertum eða kyndlum, sem gefa frá sér svipaða lýsingu, 1d4 ljómandi ljóskúlur eins og lygatöfrar, eða 1 óljósa mannlaga mynd af flöktandi ljósi eins og elds-elemental. Áhrifunum má stýra af galdramanninum án þess að þurfa einbeitingu og þau hreyfast á hvaða hraða sem óskað er innan svæðis galdursins. Ef ljósin hreyfast út af áhrifasvæðinu, eða virknin lýkur, hverfa þau út í tómið.
+Þegar þessi galdur er kastaður getur galdranotandinn búið til eitt af eftirfarandi áhrifum: 1d4 flöktandi ljóspunktar sem líkjast lluktum eða kyndlum, sem gefa frá sér svipað magn af lýsingu, 1d4 glóandi ljóskúlur eins og villuljós, eða 1 óljóst mannsmyndað form af flöktandi ljósi eins og í eldsanda. Áhrifunum má stýra af galdramanninum án þess að þörf sé á einbeitingu og þau hreyfast á hvaða hraða sem óskað er innan svæðis galdursins. Ef ljósin hreyfast út fyrir áhrifasvæði galdursins, eða varanleikinn rennur út, hverfa þau.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 1 | 1d4 ljós eða 1 mynd í 2 mín. á 100 feta radíus |
-| 2 | 2 | 1d4 ljós eða 1 mynd í 4 mín. á 200 feta radíus |
-| 3 | 3 | 1d4 ljós eða 1 mynd í 6 mín. á 300 feta radíus |
-| 4 | 4 | 1d4 ljós eða 1 mynd í 8 mín. á 400 feta radíus |
-| +1 | +1 | Halda áfram röð |
+| 1 | 1 | 1d4 ljós eða 1 form í 2 mín. í 100 feta radíus |
+| 2 | 2 | 1d4 ljós eða 1 form í 4 mín. í 200 feta radíus |
+| 3 | 3 | 1d4 ljós eða 1 form í 6 mín. í 300 feta radíus |
+| 4 | 4 | 1d4 ljós eða 1 form í 8 mín. í 400 feta radíus |
+| +1 | +1 | Halda áfram stigvaxandi |
 
 ---
 #### Darkness
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 10 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 30 fet/styrkleiki |
-| **Svæði:** 10 feta radíus | **Vörn:** Á ekki við |
+| **Rank:** Galdramaður 2 | **Casting Time:** 1 aðgerð |
+| **Sphere:** Ekkert | **Duration:** 10 mínútur/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** 30 fet/Styrkleika |
+| **Area:** 10 feta radíus | **Resist:** N/A |
 
-Þessi galdur skapar svæði með algeru töframyrkri í 10 feta radíus, sem hindrar venjulega sjón sem og sérstaka kynþáttasjón eins og innrauða sjón. Allar tegundir af veraldlegu ljósi eru ógildar af þessum galdri, frá sólarljósi til kertaljóss. Hægt er að mæta honum með því að kasta Light og öfugt; hins vegar eru aðrar tegundir af töfrandi ljósi eins og Dancing Lights, Fairy Fire, og jafnvel ljómi sem kemur frá greiningargöldrum ógildar af Darkness. Light-galdur með þegar virka virkni hefur engin áhrif á Darkness og öfugt.
+Þessi galdur skapar svæði af algeru töframyrkri í 10 feta radíus, sem lokar fyrir eðlilega sjón sem og sérstaka kynþáttasjón eins og Darkvision. Allar tegundir af veraldlegu ljósi eru ógildar af þessum galdri, frá sólarljósi til kertaljóss. Hægt er að mæta honum með því að kasta Light og öfugt; hins vegar eru aðrar tegundir af töfraljósi eins og Dancing Lights, Fairy Fire og jafnvel ljómi sem stafar frá greiningargaldri (Detection spells) ógildar af Darkness. Light galdur með áframhaldandi varanleika hefur engin áhrif á Darkness og öfugt.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 1 | 10 mín.; 30 feta drægni |
 | 2 | 2 | 20 mín.; 60 feta drægni |
 | 3 | 3 | 30 mín.; 90 feta drægni |
 | 4 | 4 | 40 mín.; 120 feta drægni |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Halda áfram stigvaxandi |
 
 ---
 #### Darkvision
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 1 mínúta |
-| **Svið:** Ekkert | **Virkni:** 2 klukkustundir/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við |
+| **Rank:** Galdramaður 2 | **Casting Time:** 1 mínúta |
+| **Sphere:** Ekkert | **Duration:** 2 klukkustundir/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** Snerting |
+| **Area:** 1 skotmark | **Resist:** N/A |
 
-Þessi galdur veitir viðtakandanum Darkvision í 60 feta drægni. Hann virkar á allan hátt eins og kynþáttahæfileiki með sama nafni.
+Þessi galdur veitir viðtakandanum Darkvision upp að 60 feta fjarlægð. Hann virkar á allan hátt sem kynþáttahæfileiki með sama nafni.
 
 ---
 #### Death Spell
@@ -734,1545 +734,2277 @@ Cure Serious Wounds læknar einn líkamshluta af 1d6+2 punkta áverka, að því
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 4 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
-| **Kostnaður:** 3 +1/styrkleiki, +2 EXP | **Drægni:** 30 fet/styrkleiki |
-| **Svæði:** 15 feta radíus | **Vörn:** Endurance |
+| **Rank:** Galdramaður 4 | **Casting Time:** 2 aðgerðir |
+| **Sphere:** Ekkert | **Duration:** Samstundis |
+| **Cost:** 3 +1/Styrkleika, +2 EXP | **Range:** 30 fet/Styrkleika |
+| **Area:** 15 feta radíus | **Resist:** ÞOL |
 
-Árangursríkt kast á þessum galdri drepur fjölda vera af SIZ 40 eða minna innan áhrifasvæðisins. Galdramaðurinn rúllar 1d6 fyrir hvert stig af styrkleika til að ákvarða fjölda vera sem verða fyrir áhrifum. Þar sem verur af mismunandi SIZ-flokkum taka upp áhrifasvæðið, verða mannstærðar verur (SIZ 1-20) alltaf fyrir áhrifum fyrr en stærri verur. Stórar verur (SIZ 21-40) eru líklegri til að standast dauða, þar sem viðnámkastið er Easy, hins vegar telur hver stór vera 5 mannstærðar verur. Verur stærri en SIZ 40 verða ekki fyrir áhrifum af þessum galdri.
+Vel heppnuð framkvæmd þessa galdurs drepur breytilegan fjölda vera með STÆ 40 eða minna á áhrifasvæðinu. Galdranotandinn kastar 1d6 fyrir hvert stig Styrkleika til að ákvarða fjölda vera sem verða fyrir áhrifum. Þar sem verur af mismunandi STÆ-flokkum eru á áhrifasvæðinu, verða mannstórar verur (STÆ 1-20) alltaf fyrir áhrifum á undan þeim stærri. Stórar verur (STÆ 21-40) eru líklegri til að standast dauðann, þar sem mótstöðukast þeirra er auðvelt (Easy), hins vegar gildir hver stór vera sem 5 mannstórar verur. Verur stærri en STÆ 40 verða ekki fyrir áhrifum af þessum galdri.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 +2 EXP | 30 feta drægni; 1d6 verur fyrir áhrifum |
-| 2 | 4 +2 EXP | 60 feta drægni; 2d6 verur fyrir áhrifum |
-| 3 | 5 +2 EXP | 90 feta drægni; 3d6 verur fyrir áhrifum |
-| 4 | 6 +2 EXP | 120 feta drægni; 4d6 verur fyrir áhrifum |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 +2 EXP | 30 feta drægni; 1d6 verur verða fyrir áhrifum |
+| 2 | 4 +2 EXP | 60 feta drægni; 2d6 verur verða fyrir áhrifum |
+| 3 | 5 +2 EXP | 90 feta drægni; 3d6 verur verða fyrir áhrifum |
+| 4 | 6 +2 EXP | 120 feta drægni; 4d6 verur verða fyrir áhrifum |
+| +1 | +1 | Halda áfram stigvaxandi |
 
-Að kasta galdrinum á nægjanlegum styrkleika til að jafngilda eða fara yfir fjölda hugsanlegra skotmarka er æskilegt, þar sem ónóg stig tapast. Þessi galdur hefur engin áhrif á lycanthropy, undead, eða aðrar verur frá öðrum plönum. Aðeins Wish getur fært þá sem verða fyrir áhrifum af þessum galdri aftur úr dauðum.
+Æskilegt er að kasta galdrinum með nægum Styrkleika til að jafna eða fara yfir fjölda hugsanlegra skotmarka, þar sem ófullnægjandi punktar glatast. Þessi galdur hefur engin áhrif á varúlfa, drauga eða aðrar verur af öðrum víddum. Aðeins Wish getur vakið þá sem verða fyrir áhrifum af þessum galdri til lífs aftur.
 
-*Dæmi: Rengarth kastar Death Spell á svæði sem fjórir SIZ 16 orkar og tvær SIZ 32 fjallajötnar taka upp, og velur styrkleikann 3. Að rúlla 3d6 fyrir áhrif galdursins, með 1d6 á hvert styrkleikastig, leiðir til 12 punkta. Á meðan hver fjallajötunn krefst aðeins 5 punkta til að drepast, verða minni orkarnir fyrir áhrifum fyrst. Þrír af fjórum orkum mistakast í viðnámkasti og deyja. Þar sem hver orki jafngildir 1 punkti, eru 8 punktar eftir. Þetta er nóg til að hafa áhrif á einn fjallajötunn fyrir 5 punkta, þar sem eftirstandandi 3 punktar tapast. Hins vegar hefur reiði fjallajötunninn enga erfiðleika með að standast viðnámkastið Easy og ræðst á Rengarth.*
+_Dæmi: Rengarth kastar Death Spell á svæði sem fjögur STÆ 16 orkar og tveir STÆ 32 fjallrisar eru á, og velur Styrkleikann 3. Að kasta 3d6 fyrir áhrif galdursins, með 1d6 á hvern Styrkleika, gefur 12 punkta. Þótt hver fjallrisi þurfi aðeins 5 punkta til að deyja, verða minni orkarnir fyrir áhrifum fyrst. Þrír af fjórum orkum bregðast við mótstöðukasti sínu og deyja. Þar sem hver orki jafngildir 1 punkti, eru 8 punktar eftir. Það er nóg til að hafa áhrif á einn fjallrisa í 5 punkta, með 3 punktum sem afgangs verða og glatast. Hins vegar á reiður fjallrisinn engin vandræði með að standast auðvelt mótstöðukast sitt og ræðst á Rengarth._
 
 ---
 #### Deflect
 
-(Framköllun)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Vernd | **Virkni:** Einbeiting |
-| **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Engin |
+| **Rank:** Klerkur 0, Galdramaður 0 | **Casting Time:** 1 aðgerð |
+| **Sphere:** Vörn | **Duration:** Einbeiting |
+| **Cost:** 1 | **Range:** Snerting |
+| **Area:** 1 skotmark | **Resist:** Ekkert |
 
-Deflect ver viðtakandann gegn örsmáum áhrifum aðskotahluta, svo sem regndropum, skýi af mýflugum, eða jafnvel fljúgandi sandkornum. Verndin takmarkast við einstaka hluti minni en fingurnögl barns, og getur því ekki komið í veg fyrir að venjuleg flugvopn slái karakter.
+Deflect ver viðtakandann gegn örsmáum höggum utanaðkomandi efnis, svo sem regndropum, mýflugum eða jafnvel fljúgandi sandkornum. Vörnin er takmörkuð við einstaka hluti sem eru minni en nögl á barni, og getur því ekki komið í veg fyrir að venjuleg skotvopn hæfi persónu.
 
 ---
-#### Detect Charm \(R\)
+#### Detect Charm (R)
 
-(Spásagnagaldur)
+(Divination)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1 | **Kasttími:** 1 umferð |
-| **Svið:** Spásögn | **Virkni:** 2 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 100 fet |
-| **Svæði:** 1 skotmark á mínútu | **Vörn:** Á ekki við |
+| **Rank:** Klerkur 1 | **Casting Time:** 1 umferð |
+| **Sphere:** Spádómur | **Duration:** 2 mínútur/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** 100 fet |
+| **Area:** 1 skotmark á mínútu | **Resist:** N/A |
 
-Þessi galdur gerir galdramanninum kleift að greina hvort ein eða fleiri valdar verur séu undir áhrifum heillunar (Charm). Einnar mínútu einbeiting er krafist til að skanna eina veru. Þegar andhverfu þessa galdurs (Hide Charm) er kastað, getur ein vera verið varin fyrir slíkri greiningu í 6 klukkustundir/styrkleiki.
+Þessi galdur gerir galdramanninum kleift að greina hvort ein eða fleiri valdar verur séu undir áhrifum Charm. Heil mínúta af einbeitingu er nauðsynleg til að skanna eina veru. Þegar andhverfa þessa galdurs (Hide Charm) er kastað, má hlífa einni veru við slíkri greiningu í 6 klukkustundir/Styrkleika.
 
 ---
-#### Detect Evil \(R\)
+#### Detect Evil (R)
 
-(Spásagnagaldur)
+(Divination)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1, Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Allir | **Virkni:** 5 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 180 fet |
-| **Svæði:** 90-gráðu bogi | **Vörn:** Á ekki við |
+| **Rank:** Klerkur 1, Galdramaður 2 | **Casting Time:** 1 aðgerð |
+| **Sphere:** Allt | **Duration:** 5 mínútur/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** 180 fet |
+| **Area:** 90 gráðu bogi | **Resist:** N/A |
 
-Með þessum galdri getur galdramaðurinn greint sterka útblástur illsku innan 90-gráðu boga, út að 180 fetum. Hann mun aðeins uppgötva illar verur af yfirnáttúrulegu eðli eins og djöfla og vampírur, eða veraldlegar verur af illum eða vondum ásetningi, eins og leikstjórinn ákveður. Hann mun þó ekki greina hluti eins og gildrur, eitur, bölvaða hluti og svo framvegis. Galdramaðurinn getur séð útblásturinn í gegnum allt að 3 fet af gegnheilu viði, 1 fet af steini eða mold, og 1 tommu af gegnheilu málmi. Vegna þess að töfraaurur þurfa tíma til að myndast, má skanna ekki fleiri en einn 60° boga á mínútu. Djöflar, illar verur, englar og elementals eru ekki töfrandi í sjálfu sér, en ef þeir eru kallaðir, mun framköllunargaldurinn skrá sig í fjölda mínútna sem jafngildir Stærð kvaðningargaldursins x10 þar sem honum var kastað. Andhverfa þessa galdurs, Detect Good, fylgir sömu reglum og nefndar eru hér að ofan.
+Með þessum galdri getur galdramaðurinn greint sterka útgeislun hins illa innan 90 gráðu boga, allt að 180 fetum. Hann mun aðeins uppgötva illar verur af yfirnáttúrulegu tagi eins og djöfla og vampírur, eða veraldlegar verur með illan eða vondan ásetning, eins og ákveðið er af leikstjóra. Hann mun hins vegar ekki greina hluti eins og gildrur, eitur, bölvaða hluti eða svo framvegis. Galdramaðurinn getur séð útgeislunina í gegnum allt að 3 feta þykkan við, 1 feta þykkan stein eða mold og 1 tommu þykkan málm. Vegna þess að töfraútrásir þurfa tíma til að myndast, má ekki skanna meira en einn 60° boga á mínútu. Andhverfa þessa galdurs, Detect Good, fylgir sömu reglum og greint er frá hér að ofan.
 
 ---
 #### Detect Invisibility
 
-(Spásagnagaldur)
+(Divination)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 5 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** Sjónlína | **Vörn:** Á ekki við |
+| **Rank:** Galdramaður 2 | **Casting Time:** 1 aðgerð |
+| **Sphere:** Ekkert | **Duration:** 5 mínútur/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** 0 |
+| **Area:** Sjónlína | **Resist:** N/A |
 
-Þegar þessi galdur er kastaður fær galdramaðurinn getu til að sjá alla hluti eða verur sem eru ósýnilegar. Þetta felur í sér þá sem eru faldir, ethereal, astral, eða úr fasa. Hann getur einnig greint þá sem eru faldir eða dulbúnir með veraldlegum hætti. Ólíkt öðrum greiningargöldrum er Detect Invisibility takmarkað við sjónlínu og krefst ekki mínútu til að skanna boga sjónarinnar.
+Þegar þessi galdur er kastaður fær galdranotandinn getu til að sjá alla hluti eða verur sem eru ósýnileg. Þetta felur í sér þá sem eru faldir, eterískir, astraler eða utan fasa. Hann getur einnig greint þá sem eru faldir eða dulbúnir með veraldlegum hætti. Ólíkt öðrum greiningargöldrum er Detect Invisibility takmarkaður við sjónlínu og krefst ekki mínútu til að skanna sjónboga.
 
 ---
-#### Detect Lie \(R\)
+#### Detect Lie (R)
 
-(Spásagnagaldur)
+(Divination)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 1 umferð |
-| **Svið:** Spásögn | **Virkni:** 1 mínúta/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 100 fet |
-| **Svæði:** 1 skotmark | **Vörn:** Deceit |
+| **Rank:** Klerkur 2 | **Casting Time:** 1 umferð |
+| **Sphere:** Spádómur | **Duration:** 1 mínúta/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** 100 fet |
+| **Area:** 1 skotmark | **Resist:** Svik |
 
-Þegar kastað er ákvarðar þessi galdur hvort vera sé vitandi að ljúga eða annars halda aftur af sannleikanum. Raunverulegur sannleikur er þó ekki opinberaður, aðeins að svörin sem gefin eru séu ekki nákvæm. Skotmarkið getur samt reynt að „yfirbuga“ galdurinn, með Formidable Opposed-kasti af þeirra Deceit, á móti upprunalega kastinu. Hægt er að snúa við galdrinum, ef svo er, Conceal Lie kemur í veg fyrir greiningu lyga með töfrum í tímabil 6 klukkustundir á hvern styrkleika.
+Þegar hann er kastaður ákvarðar þessi galdur hvort ein vera sé vitandi að ljúga eða halda sannleikanum leyndum. Sannleikurinn er þó ekki leiddur í ljós, heldur aðeins að svörin sem veitt eru séu ekki nákvæm. Skotmarkið má samt reyna að „yfirbuga“ galdurinn, með formlegu andstæðu kasti af svikum (Deceit) þeirra, gegn upprunalega galdrakastinu. Galdrinum má snúa við, ef svo er, Conceal Lie kemur í veg fyrir greiningu á lygum með töfrum í 6 klukkustundir á hvern Styrkleika.
 
 ---
 #### Detect Magic
 
-(Spásagnagaldur)
+(Divination)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1, Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Allir | **Virkni:** 2 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** 90-gráðu bogi, 60 fet | **Vörn:** Á ekki við |
+| **Rank:** Klerkur 1, Galdramaður 1 | **Casting Time:** 1 aðgerð |
+| **Sphere:** Allt | **Duration:** 2 mínútur/Styrkleika |
+| **Cost:** 1/Styrkleika | **Range:** 0 |
+| **Area:** 90 gráðu bogi, 60 fet | **Resist:** N/A |
 
-Þegar kastað er, sér galdramaðurinn ljómandi bláa aura umlykja hvers kyns töfrahlut eða galdraáhrif innan 90-gráðu boga, út að 60 fetum. Þessi galdur mun einnig greina áætlaðan styrkleika og stærð eins og sýnt er á eftirfarandi töflu.
+Þegar hann er kastaður sér galdramaðurinn glóandi bláan ljóma sem umlykur hvern þann töfragrip eða galdraáhrif innan 90 gráðu boga, allt að 60 fetum. Þessi galdur mun einnig greina áætlaðan Styrkleika og Stærð (Magnitude) eins og sýnt er á eftirfarandi töflu.
 
-##### Styrkleiki og/eða stærð greind
+##### Styrkleiki og/eða Stærð greind
 
-| D100 Rúlla | Styrkleiki/Stærð |
+| D100 Kast | Styrkleiki/Stærð |
 | :-: | :-- |
 | 01-25 | -1d3 |
-| 26-75 | Nákvæmur styrkleiki/stærð |
+| 26-75 | Nákvæmur Styrkleiki/Stærð |
 | 76-00 | +1d3 |
 
-Það er 10% líkur á hvern styrkleika á að uppgötva tiltekna tegund töfra (necromancy, elemental, og svo framvegis). Auran sem galdramaðurinn sér varpar í gegnum gegnheila hluti, upp í 3 fet af viði, 1 fet af steini, og 1 tommu af gegnheilu málmi. Vegna þess að töfraaurur þurfa tíma til að myndast, má skanna ekki fleiri en einn 60° boga á mínútu. Djöflar, illar verur, englar og elementals eru ekki töfrandi í sjálfu sér, en ef þeir eru kallaðir, mun kvaðningargaldurinn skrá sig í fjölda mínútna sem jafngildir Stærð kvaðningargaldursins x10 þar sem honum var kastað.
+Það er 10% líkur á hvern Styrkleika að uppgötva tiltekna tegund töfra (necromancy, elemental, og svo framvegis). Ljóminn sem galdramaðurinn sér gegnir í gegnum fasta hluti, allt að 3 fet af viði, 1 fet af steini og 1 tommu af föstum málmi. Vegna þess að töfraútrásir þurfa tíma til að myndast, má ekki skanna meira en einn 60° boga á mínútu. Djöflar, illandar, englar og frumefnaverur eru ekki töfrandi í sjálfu sér, en ef þeim er kallað fram, mun galdurinn fyrir köllunina skrá sig í fjölda mínútna sem jafngildir Stærð köllunargaldursins x10 þar sem honum var kastað.
 
 ---
 #### Dimension Door
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 0 |
-| **Svæði:** Galdramaður | **Vörn:** Á ekki við |
+| **Rank:** Galdramaður 3 | **Casting Time:** 1 aðgerð |
+| **Sphere:** Ekkert | **Duration:** Samstundis |
+| **Cost:** 3+1/viðbótar Styrkleiki | **Range:** 0 |
+| **Area:** Galdramaður | **Resist:** N/A |
 
-Dimension Door er tegund af skammdrægri fjarflutningi. Galdramaðurinn stekkur samstundis allt að 100 fet fyrir hvern styrkleika án þess að fara yfir millirýmið, með engum möguleika á villu. Æskilegur staður getur annað hvort verið sjáanlegur eða getur verið tilgreindur með stefnu: 40 fet beint áfram, 65 fet niður, 45° til vinstri, og svo framvegis. Að koma í loftinu mun leiða til fallskaða nema það sé bjargað með galdri eins og Feather Fall, á meðan að stökkva fyrir slysni inn í gegnheilan hlut mun í staðinn gildra galdramanninn í Astral-heiminum. Allur líkamlega borinn búnaður (ólífandi, ólífrænt efni) stekkur ásamt galdramanninum. Lifandi efni af ekki meira en 20 SIZ getur fylgt galdramanninum. Til dæmis gæti karakter af SIZ 11 stökkt ásamt galdramanninum að því gefnu að báðir snertist. Galdramaðurinn, og hvers kyns lifandi vera sem flutt er með, krefst heillar umferðar til að ná sér. Ef ráðist er á þá á þessum tíma, geta slíkir einstaklingar ekki gert meira en að verjast.
+Dimension Door er tegund af skammdrægri fjarflutningi. Galdramaðurinn stekkur samstundis allt að 100 fet á hvern Styrkleika án þess að fara yfir millirýmið, með engri hættu á mistökum. Óskaðan stað má annaðhvort sjá eða tilgreina með stefnu: 40 fet beint fram, 65 fet niður, 45° til vinstri, og svo framvegis. Að koma niður í lausu lofti mun valda fallskaða nema bjargað sé með galdri eins og Feather Fall, á meðan það að stökkva óvart inn í fastan hlut mun í staðinn loka galdramanninn inni í Astral-víddinni. Allur líkamlega borinn búnaður (dauðir, líflausir hlutir) stekkur með galdramanninum. Lifandi verur af ekki meira en 20 STÆ mega fylgja galdramanninum. Til dæmis getur persóna með STÆ 11 stökkið með galdramanninum að því tilskildu að báðir séu í snertingu. Galdramaðurinn, og hver sú lifandi vera sem flutt er, þarf heila umferð til að jafna sig. Ef ráðist er á þá á þessum tíma mega slíkir einstaklingar ekki gera annað en að verjast.
 
 ---
 #### Dispel Magic
 
-(Verndargaldur)
+(Abjuration)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2, Galdrakarl 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Vernd | **Virkni:** Augnablik |
-| **Kostnaður:** 1 | **Drægni:** 360 fet |
-| **Svæði:** 15 feta radíus | **Vörn:** Á ekki við |
+| **Rank:** Klerkur 2, Galdramaður 2 | **Casting Time:** 2 aðgerðir |
+| **Sphere:** Vörn | **Duration:** Samstundis |
+| **Cost:** 1 | **Range:** 360 fet |
+| **Area:** 15 feta radíus | **Resist:** N/A |
 
-Dispel Magic má kasta annaðhvort á tiltekið skotmark eða á tilgreint svæði, og þegar kastað hefur verið, eru allir töfrar innan 15 feta radíuss frá skotmarkinu viðkvæmir fyrir brottvísun. Hann endar áframhaldandi galdra á skotmarki sínu en gerir ekkert við önnur töfraáhrif. Hann hefur engin áhrif á töfrandi verur eða undead. Dispel Magic eyðir öllum öðrum töfrum á áhrifasvæðinu með Stærð sem er minni en styrkleiki galdursins. Undantekningin frá þessu væru töfrahlutir og fórnarlömb heillandi galdra eins og Charm Person, sem verður að miða við hvern fyrir sig. Ekki er hægt að eyða áhrifum galdurs að hluta.
+Dispel Magic má kasta annaðhvort á tiltekið skotmark eða tiltekið svæði, og þegar því er kastað er allur galdur innan 15 feta radíus frá skotmarkinu viðkvæmur fyrir brottvísun. Hann endar áframhaldandi galdra á skotmarkinu en gerir ekkert við önnur töfraáhrif. Hann hefur engin áhrif á töfraverur eða drauga. Dispel Magic útrýmir öllum öðrum töfrum á áhrifasvæðinu með Stærð (Magnitude) sem er minni en Styrkleiki galdursins. Undantekningin frá þessu væru töfragripir og fórnarlömb heillandi tegunda galdra eins og Charm Person, sem verður að miða við hvern fyrir sig. Ekki er hægt að útrýma áhrifum galdurs að hluta.
 
-Dispel Magic byrjar á öflugustu töfrunum á áhrifasvæðinu. Ef það mistekst að eyða einhverjum galdri (vegna þess að Stærð galdursins er of há), þá endar galdurinn, og ekki er hægt að eyða fleiri töfrum.
+Dispel Magic byrjar á öflugustu töfrunum á áhrifasvæðinu. Ef það mistekst að útrýma einhverjum galdri (vegna þess að Stærð galdursins er of há), þá endar galdurinn og engum frekari töfrum er hægt að útrýma.
 
-Dispel Magic má nota varnarlega til að gera komandi árásargjarna galdra óvirka, með því að nota Counter Spell Reactive Action.
+Dispel Magic má nota varnarlega til að hlutleysa komandi sóknargaldra, með því að nota Counter Spell Reactive Action.
 
----
-#### Divination
+---#### Spádómur
 
-(Spásagnagaldur)
+(Spádómur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 3 | **Kasttími:** 10 mínútur |
-| **Svið:** Spásögn | **Virkni:** Einbeiting |
-| **Kostnaður:** 3/styrkleiki | **Drægni:** 0 |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Á ekki við |
+| **Stig:** Klerkur 3 | **Tími til að kasta:** 10 mínútur |
+| **Svið:** Spádómur | **Lengd:** Einbeiting |
+| **Kostnaður:** 3/Styrkleika | **Drægni:** 0 |
+| **Svæði:** Sjá hér að neðan | **Vörn:** N/A |
 
-Þegar kastað er, gerir þessi galdur klerkum kleift að fá upplýsingar frá guði sínum varðandi einhverja enn óframkvæmda starfsemi sem búist er við að eigi sér stað eftir ekki meira en eina viku. Ólíkt minna öfluga galdrinum Augury, veitir Divination sérstakar upplýsingar. Channel-færnikastið til að kasta þessum galdri byrjar á Formidable, og hvert stig af styrkleika minnkar erfiðleikann um eitt stig. Styrkleikinn getur ekki farið yfir stig 5, og kastið 96% eða hærra mistekst alltaf.
+Þegar þessum galdri er kastað geta klerkar móttekið upplýsingar frá guði sínum varðandi einhverja óframkvæmda athöfn sem búist er við að eigi sér stað innan viku. Ólíkt veikari galdrinum Augury, veitir Spádómur sértækar upplýsingar. Channel-kastið til að beita þessum galdri byrjar á Formidable, og hvert stig Styrkleika minnkar erfiðleikastigið um einn flokk. Styrkleikinn getur ekki farið yfir stig 5, og kast upp á 96% eða hærra mistekst alltaf.
 
-Leikstjórinn ætti að gera þetta kast fyrir spilarann þar sem það eru nokkur tilvik þar sem töfrar fjandsamlegir galdramanninum gætu verið að verki, og í þessum tilvikum gæti misbrestur leitt í ljós rangar upplýsingar.
+Spilastjórinn ætti að framkvæma þetta kast fyrir spilarann þar sem stundum gæti galdur, sem er fjandsamlegur kasteranum, verið að verki, og í þeim tilfellum gæti mistök leitt í ljós rangar upplýsingar.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | Galdur kastaður á Formidable erfiðleika |
-| 2 | 6 | Galdur kastaður á Hard erfiðleika |
-| 3 | 9 | Galdur kastaður á Standard erfiðleika |
-| 4 | 12 | Galdur kastaður á Easy erfiðleika |
-| 5 | 15 | Galdur kastaður á Very Easy erfiðleika |
+| 1 | 3 | Galdur kastaður með Formidable erfiðleika |
+| 2 | 6 | Galdur kastaður með Hard erfiðleika |
+| 3 | 9 | Galdur kastaður með Standard erfiðleika |
+| 4 | 12 | Galdur kastaður með Easy erfiðleika |
+| 5 | 15 | Galdur kastaður með Very Easy erfiðleika |
 
 ---
-#### Dry
+#### Þurrka
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdramaður 0 | **Tími til að kasta:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við |
+| **Svæði:** 1 skotmark | **Vörn:** N/A |
 
-Dry fjarlægir allan auka raka úr hlut eða manneskju, annaðhvort með því að renna af til að mynda poll eða gufa upp í gufuskýi. Hann er venjulega notaður til að þorna eftir mikla rigningu eða hjálpa til við að vernda búnað gegn rotnun en hefur nokkra aðra fjölhæfa notkun. Galdramaðurinn getur þurrkað hlut allt að POW x2 í SIZ.
+Þurrka fjarlægir allan óþarfa raka af hlut eða manneskju, annaðhvort með því að láta hann renna af í poll eða gufa upp í gufuskýi. Hann er venjulega notaður til að þurrka sig eftir mikla rigningu eða hjálpa til við að vernda búnað gegn rotnun, en hefur marga aðra fjölhæfa notkunarmöguleika. Kasterinn getur þurrkað hlut sem er allt að MÁT x2 að STÆ.
 
 ---
-#### Earthquake
+#### Jarðskjálfti
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 5, Galdrakarl 5 | **Kasttími:** 10 mínútur |
-| **Svið:** Elemental (Jörð) | **Virkni:** 1 mínúta |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 50 fet/styrkleiki |
-| **Svæði:** 10 feta radíus/styrkleiki | **Vörn:** Evade |
+| **Stig:** Klerkur 5, Galdramaður 5 | **Tími til að kasta:** 1 aðgerð |
+| **Svið:** Frumkraftur (Jörð) | **Lengd:** 1 mínúta |
+| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 50 fet/styrkleika |
+| **Svæði:** 10 feta radíus/styrkleika | **Vörn:** Lip |
 
-Earthquake veldur jarðskjálfta sem getur slegið fólk af fótum og fellt gegnheilar byggingar. Að lágmarki veldur það því að fórnarlambið fellur í liggjandi stöðu ef það mistekst viðnámkastið. Ef staðsett í byggingu, byggðu svæði eða einhverjum viðkvæmum stað (svo sem skógi eða undir kletti), gefur það einnig til kynna að viðkomandi verði fyrir höggi og gildrist undir fallandi braki. Búin brynja veitir helming verndar, en töfrabrynjupunktar eða náttúrleg brynja veru draga úr skaða eins og venjulega.
+Jarðskjálfti veldur skjálfta í jörðinni sem getur fellt fólk og látið stífar byggingar hrynja. Að minnsta kosti veldur það fórnarlambinu að falla fram á við ef það tekst ekki að verjast galdrinum. Ef fórnarlambið er innan byggingar, þéttbýlis eða á viðkvæmum stað (svo sem skógi eða undir kletti), gefur það að mistakast við Lip einnig til kynna að viðkomandi verði fyrir höggi og festist undir fallandi braki. Klædd brynja veitir hálfa vörn, en töfra-brynjustig eða náttúruleg brynja veru dregur úr skemmdum eins og venjulega.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif | Mögulegur skaði |
-| :-: | :-: | :-- | :-: |
-| 1 | 3 | 50 feta drægni; 10 feta radíus; viðkvæmir hlutir velta, hangandi hlutir sveiflast | Enginn |
-| 2 | 4 | 100 feta drægni; 20 feta radíus; veggir og byggingar braka | Enginn |
-| 3 | 5 | 150 feta drægni; 30 feta radíus; gifs og glergluggar sprunga, tré og aðrir háir hlutir skjálfa | Enginn |
-| 4 | 6 | 200 feta drægni; 40 feta radíus; þung húsgögn færast, veggfestir hlutir falla, sprungur opnast í veggjum | Enginn |
-| 5 | 7 | 250 feta drægni; 50 feta radíus; modest byggingar úr jörðu, stráum eða leir falla að hluta. Litlar greinar falla | 1d2 skaði á 1 líkamshluta |
-| 6 | 8 | 300 feta drægni; 60 feta radíus; þung húsgögn velta. Byggingar úr jörðu eyðileggjast. Byggingar úr gegnheilum við eða múrverki falla að hluta. Súlur og statíur falla. Stórar trjágreinar falla | 1d4 skaði á 1 líkamshluta |
-| 7 | 9 | 350 feta drægni; 70 feta radíus; modest byggingar falla. Jörð springur, steinar falla úr bröttum brekkum. Neðanjarðarrör og skólp brotna. Viðarbrýr falla. Litlar tré velta | 1d6 skaði á 1 líkamshluta |
-| 8 | 10 | 400 feta drægni; 80 feta radíus; vel byggðar byggingar falla. Stórfelld virki, borgarveggir og steinbrýr skemmast. Jörð illa sprungin. Skriðuföll töluverð. Stór tré velta | 1d8 skaði á 2 líkamshluta |
-| 9 | 11 | 450 feta drægni; 90 feta radíus; fáar byggingar standa eftir. Göng og hellar falla. Breiðar sprungur í jörðu. Risastór tré velta | 1d10 skaði á 3 líkamshluta |
-| 10 | 12 | 500 feta drægni; 100 feta radíus; alger eyðilegging, jafnvel risastór steinminnismerki falla að hluta. Klettar og fjallshlíðar brotna | 1d12 skaði á 4 líkamshluta |
+| Styrkleiki | Kostnaður | Breytileg áhrif | Hugsanlegar skemmdir |
+| :-: | :-: | :-- | :-- |
+| 1 | 3 | 50 feta drægni; 10 feta radíus; viðkvæmir hlutir velta, hangandi hlutir sveiflast. | Engar |
+| 2 | 4 | 100 feta drægni; 20 feta radíus; veggir og byggingar braka. | Engar |
+| 3 | 5 | 150 feta drægni; 30 feta radíus; múr og glergluggar brotna, tré og aðrir háir hlutir titra kröftuglega. | Engar |
+| 4 | 6 | 200 feta drægni; 40 feta radíus; þung húsgögn hreyfast, vegghengdir hlutir falla, sprungur myndast í veggjum. | Engar |
+| 5 | 7 | 250 feta drægni; 50 feta radíus; hóflegar byggingar úr jörð, leir eða leirsteinum hrynja að hluta. Litlar greinar falla. | 1d2 skemmd á einn stað |
+| 6 | 8 | 300 feta drægni; 60 feta radíus; þung húsgögn velta. Byggingar úr jörð, leir eða leirsteinum eyðileggjast. Byggingar úr timbri eða múrverki hrynja að hluta. Súlur, styttur og landamæraveggir falla. Stórar trjágreinar falla. | 1d4 skemmd á einn stað |
+| 7 | 9 | 350 feta drægni; 70 feta radíus; hóflegar byggingar hrynja. Sprungur myndast í jörðinni, grjóthrun úr bröttum brekkum. Neðanjarðarleiðslur og ræsi brotna. Trébrýr hrynja. Lítil tré falla. | 1d6 skemmd á einn stað |
+| 8 | 10 | 400 feta drægni; 80 feta radíus; vel byggðar byggingar hrynja. Stórfelld virki, borgarmúrar og steinbrýr skemmast. Jörðin sprungin illa. Talsvert skriðuföll og snjóflóð. Stór tré falla. | 1d8 skemmd á tvo staði |
+| 9 | 11 | 450 feta drægni; 90 feta radíus; fáar, ef einhverjar, byggingar standa eftir. Jarðgöng og hellar hrynja. Breiðar sprungur í jörðu. Risavaxin tré falla. | 1d10 skemmd á þrjá staði |
+| 10 | 12 | 500 feta drægni; 100 feta radíus; algjör eyðilegging, jafnvel risavaxin steinminnismerki hrynja að hluta. Klettar og fjallshlíðar brotna. | 1d12 skemmd á fjóra staði |
 
 ---
-#### Enchant Item
+#### Töfra hlut
 
 (Töfrandi)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 4 | **Kasttími:** Sjá hér að neðan |
-| **Svið:** Ekkert | **Virkni:** Sjá hér að neðan |
+| **Stig:** Galdramaður 4 | **Tími til að kasta:** Sjá hér að neðan |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
 | **Kostnaður:** 3 + Sjá hér að neðan | **Drægni:** Snerting |
-| **Svæði:** 1 hlutur | **Vörn:** Á ekki við |
+| **Svæði:** 1 hlutur | **Vörn:** N/A |
 
-Kast á þessum galdri undirbýr hlut fyrir töfra. Hluturinn verður að vera í góðu ástandi og af bestu smíði og vinnubrögðum. Viðbótarkostnaður upp á að minnsta kosti 100 GP er nauðsynlegur til að standa straum af kostnaði við viðbótarverkfæri, útskurð, útsaum, skartgripasetningu, leturgröft og svo framvegis. Að lokum krefst töfraferlið rannsóknarstofu eða vinnustofu.
+Að kasta þessum galdri undirbýr hlut fyrir töfrandi umbreytingu. Hluturinn verður að vera í góðu ástandi og úr vönduðustu efnum og smíði. Viðbótarkostnaður upp á að minnsta kosti 100GP er nauðsynlegur til að standa straum af aukakostnaði við verkfæri, útskurð, útsaum, skartgripi, leturgröft og svo framvegis. Að lokum krefst töfraferlið rannsóknarstofu eða verkstæðis.
 
-Á meðan galdurinn er kastaður verður galdramaðurinn að snerta hlutinn í gegnum allan kasttímann sem er 1d8+2 dagar. Þetta tekur mið af hvíldar- og svefntímum, á meðan hluturinn verður að vera innan seilingar frá galdramanninum. Á engum tíma meðan á kastinu stendur má galdramaðurinn kasta öðrum galdri eða framkvæma neina aðra töfra. Að brjóta einhverja af þessum ströngu reglum mun sjálfkrafa valda því að galdurinn mistekst.
+Á meðan galdrinum er kastað verður galdramaðurinn að snerta hlutinn allan þann tíma sem kastið tekur, sem er 1d8+2 dagar. Þetta tekur til hvíldar- og svefntíma, á meðan hluturinn verður að vera innan seilingar frá kasteranum. Á engum tíma meðan á kastinu stendur má galdramaðurinn kasta öðrum galdri eða beita annars konar töfrum. Brot á þessum reglum mun sjálfkrafa valda því að galdurinn mistekst.
 
-Þegar kastað hefur verið með góðum árangri er hluturinn tilbúinn fyrir lokaskrefið, þar sem galdramaðurinn setur æskilegan galdur í hann. Til þess verða þeir að hafa galdurinn í minni eða á bókrollu og kasta honum í hlutinn innan 24 klukkustunda, annars þarf að hefja allt ferlið frá grunni. Þegar kast á völdum galdri hefst, getur ferlið farið yfir fyrrnefndar 24 klukkustundir. Að fylla hlutinn með völdum galdri kostar venjulegan fjölda töfrapunkta fyrir æskilegan styrkleika og tekur 1d12 klukkustundir á hvert stig galdurs. Á meðan á ferlinu stendur verður galdramaðurinn að halda áfram að snerta hlutinn eða vera innan seilingar meðan á hvíld stendur, eins og hér að ofan, og krafist er Arcane Casting-kasts við lok kasttímans til að fylla hlutinn með galdrinum. Venjulegar stig af árangri við galdrakast eru fylgt, hins vegar, varðandi niðurstöðu um misbrest, er ekki hægt að þvinga galdurinn. Hægt er að fylla hlutinn með fleiri göldrum, að því gefnu að kastferlið hefjist innan 24 klukkustunda frá lokum fyrri galdurs. Þetta á við jafnvel í tilviki galdurs sem mistókst áður. Hver viðbótargaldur krefst venjulegs kastkostnaðar.
+Þegar vel hefur tekist til er hluturinn tilbúinn fyrir lokaskrefið, þar sem kasterinn leggur æskilegan galdur í hann. Til þess að gera það verða þeir að hafa galdurinn í minninu eða á skruni og kasta honum inn í hlutinn innan 24 klukkustunda, annars þarf að hefja allt ferlið upp á nýtt. Þegar kastið á völdum galdri hefst, getur ferlið farið yfir fyrrnefndar 24 klukkustundir. Að fylla hlutinn með völdum galdri kostar venjulegan fjölda Galdrastiga fyrir æskilegan Styrkleika og tekur 1d12 klukkustundir fyrir hvert galdrastig. Í gegnum ferlið verður kasterinn að halda snertingu við hlutinn eða vera innan seilingar í hvíldartímum, eins og áður, og Arcane Casting-kast er krafist í lok kasttímabilsins til að takist að fylla hlutinn með galdrinum. Venjulegum stigum árangurs við galdrakast er fylgt, hins vegar varðandi niðurstöðu um bilun, þá er ekki hægt að þvinga galdurinn. Hægt er að fylla hlutinn með fleiri göldrum í röð, að því gefnu að kastferlið hefjist innan 24 klukkustunda frá lokum fyrri galdursins. Þetta á jafnvel við í tilfelli galdurs sem mistókst áður. Hver viðbótargaldur krefst venjulegs kastkostnaðar.
 
-Þegar hluturinn er notaður er hægt að kasta hverjum galdri innan hans aðeins einu sinni, hins vegar má fylla hlutinn með mörgum útgáfum af sama galdri eftir ofangreindu ferli. Einnig er hægt að fylla hlutinn með einum galdri, fylgt eftir með kast á stig 4 galdrinum Permanency. Í því tilviki má kasta galdrinum eins oft og óskað er, eftir takmörkunum sem settar eru fram í lýsingu á Permanency-galdrinum.
+Þegar hluturinn er notaður er hægt að kasta hverjum galdri sem hann inniheldur aðeins einu sinni, hins vegar er hægt að fylla hann með mörgum útgáfum af sama galdri með því að fylgja ofangreindu ferli. Einnig er mögulegt að fylla hann með einum galdri og fylgja því eftir með kasti af stigi 4 galdrinum Permanency. Í því tilfelli er hægt að kasta galdrinum eins oft og óskað er, að fylgja takmörkunum sem settar eru fram í lýsingu Permanency-galdursins.
 
-Ekki er mögulegt að fylla hlut með öðrum töfraáhrifum sem ekki eru í samræmi við tiltekinn galdur, og marga töfrahluti frá löngu liðnum tímum er einfaldlega ekki hægt að endurskapa í dag.
+Það er ekki mögulegt að fylla hlut með öðrum töfraáhrifum sem samræmast ekki sérstökum galdri, og marga töfrahliuti frá liðnum tímum er einfaldlega ekki hægt að endurgera á þessum degi og aldri.
 
 ---
-#### Enchant Weapon
+#### Töfra vopn
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 1 mínúta |
-| **Svið:** Ekkert | **Virkni:** 5 mínútur/styrkleiki |
+| **Stig:** Galdramaður 3 | **Tími til að kasta:** 1 mínúta |
+| **Svið:** Ekkert | **Lengd:** 5 mínútur/styrkleika |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 vopn | **Vörn:** Á ekki við |
+| **Svæði:** 1 vopn | **Vörn:** N/A |
 
-Þegar þessum galdri er kastað á meðan snert er venjulegt vopn, er vopnið fyllt tímabundinni heillun sem veitir töfrandi +1 skaðabónus. Þetta gerir einnig venjulegu vopni kleift að slá veru sem aðeins er hægt að skaða með vopnum sem búa yfir að minnsta kosti +1 heillun. Galdurinn má nota til að heilla tvö vopn af stærðinni ½ „hlut“ hvert, svo sem rýtinga, hnífa, örvar og svo framvegis. Annars er ekki hægt að heilla fleiri en eitt vopn í hverju kasti. Töfravopn sem þegar er til getur fengið bónus sinn aukinn um +1 í samtals hámarksbónus upp á +3. Vopn með +3 bónus hefur stærð sinni aukinni um einn flokk í þeim tilgangi að valda skaða: Stórt í Risastórt, Risastórt í gríðarstórt, gríðarstórt í Colossal. Heillað vopn býr yfir +5 brynjupunktum og +2 heilsu-punktum á hvern +1 heillun fyrir vopn af sinni tegund. Þessum galdri má sameina Enchant Item og Permanency til að búa til vopn með varanlegri heillun.
+Þegar þessum galdri er kastað á meðan snert er venjulegt vopn, er vopninu gefið tímabundinn töfrahæfileiki sem veitir +1 skaðabreytingu. Þetta gerir einnig venjulegu vopni kleift að slá veru sem aðeins er hægt að skaða með vopnum sem hafa að minnsta kosti +1 töfrahæfileika. Hægt er að nota galdurinn til að töfra tvö vopn sem eru að stærð ½ af 'Hlut' hvert, svo sem rýtinga, hnífa, örvar og svo framvegis. Annars er ekki hægt að töfra fleiri en eitt vopn í hverju kasti. Núverandi töfravopn getur fengið bónus sinn aukinn um +1 í samtals hámarksbónus upp á +3. Vopn með +3 bónus fær STÆ sína aukna um einn flokk í þeim tilgangi að valda skaða: Large í Huge, Huge í Enormous, Enormous í Colossal. Töfrað vopn býr yfir +5 brynjustigum og +2 lífstigum fyrir hvern +1 töfrahæfileika fyrir vopn af sinni tegund. Þennan galdur má sameina galdrinum Enchant Item og Permanency til að búa til vopn með varanlegum töfrahæfileika.
 
 ---
-#### Endure Heat/Cold
+#### Þola hita/kulda
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1 | **Kasttími:** 1 umferð |
-| **Svið:** Vernd | **Virkni:** 90 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við |
+| **Stig:** Klerkur 1 | **Tími til að kasta:** 1 umferð |
+| **Svið:** Vörn | **Lengd:** 90 mínútur/styrkleika |
+| **Kostnaður:** 1/styrkleika | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** N/A |
 
-Þessi galdur gerir galdramanninum kleift að vernda eina veru fyrir venjulegum öfgum hita eða kulda, eins og ákveðið er þegar galdrinum er kastað. Viðtakandi galdursins er ónæmur fyrir veraldlegum öfgum náttúrlegs hita eða kulda, svo sem frostmarki eða brennandi eyðimerkurhita. Burtséð frá Heat Metal, sem þessi galdur býður upp á fullkomna vernd gegn, eyðir hvers kyns „árás“ með töfrandi hita eða kulda, svo sem eldöndun rauðs dreka eða galdrakarls cone of cold galdur, sjálfkrafa verndinni, óháð því hvaða frumefni var varið gegn á þeim tíma. Hins vegar getur varinn einstaklingur hunsað fyrstu 10 skaðapunkta í umferðinni þar sem galdurinn mistekst, að því gefnu að verndin passi við tegund árásar. Í tilviki árásargaldra á svæði er skaðinn minnkaður áður en hann er notaður.
+Þessi galdur gerir kasteranum kleift að vernda eina veru fyrir venjulegum öfgum hita eða kulda, eins og ákveðið er þegar galdrinum er kastað. Viðtakandi galdursins er ónæmur fyrir hversdagslegum öfgum náttúrulegs hita eða kulda, svo sem hitastigi langt undir frostmarki eða steikjandi eyðimerkurhita. Fyrir utan Heat Metal, sem þessi galdur veitir fulla vörn gegn, mun öll 'árás' með töfrahita eða kulda, eins og eldöndun rauðs dreka eða cone of cold-galdur galdramanns, sjálfkrafa eyða vörninni, óháð því hvaða frumkrafti var varið gegn á þeim tíma. Hins vegar getur sá sem er varinn hunsað fyrstu 10 skaðastigin í umferðinni þar sem galdurinn bregst, að því gefnu að vörnin hæfi árásartegundinni. Í tilfelli galdra með svæðisáhrifum er dregið úr skaðanum áður en hann er reiknaður.
 
 ---
-#### Energy Drain
+#### Orkuþurrk
 
-(Framköllun eða Necromancy)
+(Evocation eða Necromancy)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 5 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Varanleg |
+| **Stig:** Galdramaður 5 | **Tími til að kasta:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Varanleg |
 | **Kostnaður:** 3 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Endurance |
+| **Svæði:** 1 skotmark | **Vörn:** Þol |
 
-Þegar kastað er, leggur þessi galdur á sig tvö stig af varanlegu þreytutapi á fórnarlamb sem mistekst í viðnámkasti. Þreytutap í gegnum Energy Drain er uppsafnað með venjulegu þreytutapi; þess vegna eru andstæðingar sem þegar eru veikir vegna bardaga eða ferðalaga næmari fyrir Energy Drain. Cure Fatigue-galdrar og drykkir hafa engin áhrif á þreytu sem glatast vegna Energy Drain; hins vegar geta Restoration-galdrar og bókrollur læknað þreytuna varanlega. Brynja hefur engin áhrif á Energy Drain.
+Þegar þessum galdri er kastað veldur hann tveimur stigum af varanlegu þreytutapi hjá fórnarlambinu ef það mistekst við vörn. Þreytutap vegna Orkuþurrks bætist við venjulegt þreytutap; þess vegna eru andstæðingar sem eru nú þegar veikir vegna bardaga eða ferðalaga næmari fyrir Orkuþurrki. Cure Fatigue-galdrar og drykkir hafa ekki áhrif á þreytu sem tapast vegna Orkuþurrks; hins vegar geta Restoration-galdrar og skrun geta læknað þreytutapið varanlega. Brynjar hafa engin áhrif á Orkuþurrk.
 
 ---
-#### Exorcism
+#### Útrýming illra anda
 
-(Verndargaldur)
+(Abjuration)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 3 | **Kasttími:** 1d10x100 mínútur |
-| **Svið:** Vernd | **Virkni:** Varanleg |
+| **Stig:** Klerkur 3 | **Tími til að kasta:** 1d10x100 mínútur |
+| **Svið:** Vörn | **Lengd:** Varanleg |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 10 fet |
-| **Svæði:** 1 skotmark | **Vörn:** Willpower |
+| **Svæði:** 1 skotmark | **Vörn:** Viljastyrkur |
 
-Með þessum galdri kalla klerkar á guð sinn til að reka út anda eða annað yfirnáttúrulegt afl sem er nú að hernema líkamlega veru, svo sem við djöfullega hernámi. Exorcism má einnig nota gegn yfirráðum af völdum tiltekinna hluta og töfrahluta, galdra, bölvana, og jafnvel heillana. Hvort hernámið er ráðandi eða leynilegt skiptir ekki máli. Töfrarnir reka út allar tegundir hernáms með styrkleika allt að helmingi styrkleika galdursins. Hvað gerist næst fer eftir viðhorfi og tegund verunnar, ef einhver er, en árásargjarnar verur með kraft til að sundra sér gætu freistast til að ráðast á aðra nálæga skotmörk í Spirit Combat. Meðhöndla sem töfrabardaga, hins vegar, ef veran vinnur, getur hún hernumið taparann. Ef veran tapar er henni sent aftur á upprunaplán sitt. Þessi galdur getur því verið hugsanlega hættulegur fyrir galdramanninn eða félaga hans. Kasttíminn er mjög handahófskenndur og ekki hægt að rjúfa hann án þess að trufla helgisiðinn.
+Með þessum galdri kalla klerkar á guð sinn til að reka út anda eða annan yfirnáttúrulegan kraft sem er í þann mund að taka sér bólfestu í líkamlegri veru, svo sem í tilfelli djöflabesettningar. Útrýmingu má einnig nota gegn yfirráðum af völdum ákveðinna hluta og töfrahliuta, galdra, bölvana og jafnvel heilla. Hvort sem um er að ræða yfirráð sem eru ráðandi eða leynileg skiptir ekki máli. Galdurinn útrýmir öllum formum af yfirráðum með styrkleika upp að helmingi styrkleika galdursins. Hvað gerist næst fer eftir viðhorfi og tegund verunnar, ef einhver er, en ófriðsamlegar verur með mátt til að leysast upp gætu freistast til að ráðast á aðra nálæga skotmarka í andabardaga. Meðhöndlið sem töfrabardaga, hins vegar, ef veran vinnur, gæti hún tekið yfir þann sem tapar. Ef veran tapar er henni vísað aftur á upprunastað sinn. Þess vegna getur þessi galdur verið hugsanlega hættulegur fyrir kasterann eða félaga hans. Kasttíminn er mjög handahófskenndur og ekki hægt að rjúfa hann án þess að trufla helgisiðinn.
 
 ---
-#### Fear
+#### Ótti
 
 (Töfrandi)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Sjá hér að neðan |
+| **Stig:** Galdramaður 3 | **Tími til að kasta:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
 | **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 0 |
-| **Svæði:** 5 fet x 20 feta keila | **Vörn:** Willpower |
+| **Svæði:** 5 fet x 20 feta keila | **Vörn:** Viljastyrkur |
 
-Þegar þessi galdur er kastaður stækkar óttabylgja út á við, sem veldur því að allir þeir sem mistakast í viðnámkasti flýja í ótta. Þeir sem verða fyrir áhrifum flýja beint frá galdramanninum á sprett á fjölda umferða sem jafngildir styrkleika galdursins x2. Þessi ótti er svo alger að þeir andstæðingar sem Fumble kastið til að standast sleppa hvers kyns hlutum sem þeir halda á og eru ekki festir með einhverjum hætti. Stórar verur (SIZ 21-40) eru síður næmar fyrir þessum galdri þar sem viðnámkastið er Easy, og viðnámkastið fyrir risastórar verur (SIZ 41+) er Very Easy.
+Þegar þessum galdri er kastað breiðist út bylgja skelfingar sem veldur því að allir þeir sem mistakast við vörn flýja í ótta. Þeir sem verða fyrir áhrifunum flýja beint í burtu frá kasteranum á sprettferð í fjölda umferða sem jafngildir Styrkleika galdursins x2. Þessi skelfing er svo algleymandi að andstæðingar sem klúðra (Fumble) kastinu til að verjast missa alla hluti sem þeir halda á og eru ekki tryggðir á einhvern hátt. Stórar verur (STÆ 21-40) eru síður næmar fyrir þessum galdri með vörn sem er Easy, og vörnin fyrir risavaxnar verur (STÆ 41+) er Very Easy.
 
 ---
-#### Feather Fall
+#### Fjaðrafall
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** Augnablik |
-| **Svið:** Ekkert | **Virkni:** 1 mínúta/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 30 fet/styrkleiki |
-| **Svæði:** 5 feta radíus | **Vörn:** Á ekki við |
+| **Stig:** Galdramaður 1 | **Tími til að kasta:** Augnablik |
+| **Svið:** Ekkert | **Lengd:** 1 mínúta/styrkleika |
+| **Kostnaður:** 1/styrkleika | **Drægni:** 30 fet/styrkleika |
+| **Svæði:** 5 feta radíus | **Vörn:** N/A |
 
-Þegar þessi galdur er kastaður, minnkar þyngd nokkurra manneskja, vera eða hluta innan áhrifasvæðisins, með heildar SIZ sem er ekki meira en 20 fyrir hvern styrkleika, niður í þyngd fjaðrar. Þeir sem eru undir áhrifum galdursins falla ekki hraðar en 10 fet á umferð/120 fet á mínútu, með engum fallskaða á meðan virkni galdursins varir. Þeir eru svo léttir að þeir eru í raun ónæmir fyrir hvers kyns höggi sem er stærra en 5 fet og taka engan skaða ef þeim er ýtt inn í eitthvað, þar sem þeir svífa einfaldlega hægt aftur á bak.
+Þegar þessum galdri er kastað er þyngd margra manna, vera eða hluta innan galdrasvæðisins, með samanlagða STÆ sem er ekki meira en 20 á hvern Styrkleika, minnkuð niður í þyngd fjaðrar. Þeir sem eru undir áhrifum galdursins falla ekki hraðar en 10 fet á umferð/120 fet á mínútu, og verða ekki fyrir fallskemmdum svo lengi sem Lengd galdursins varir. Þeir eru svo léttir að þeir eru í raun ónæmir fyrir öllu hrakfalli sem er meira en 5 fet og verða fyrir engum skemmdum ef þeir rekast í eitthvað, þar sem þeir svífa einfaldlega hægt til baka.
 
-Að kasta þessum galdri á fljúgandi veru eins og fugl eða dreka breytir flugi hennar á þann hátt að Hard Fly-köst eru krafist hverja umferð á meðan virkni galdursins varir ef þær óska eftir að haldast á lofti. Við árangur má veran hreyfa sig eins og óskað er, en á aðeins helmingi venjulegs hreyfingarhraða, á meðan misheppnað kast veldur því að tilraun verunnar sendir hana varlega veltandi úr stjórn í handahófskennda átt í fjarlægð sem jafngildirætluðum hreyfingarhraða hennar. Ef hún lætur sig bara falla, getur fljúgandi vera notað vængi sína til að aðlaga lendingarstaðinn um 5 fet á umferð.
+Að kasta þessum galdri á fljúgandi veru, svo sem fugl eða dreka, breytir flugdynamík hennar á þann hátt að Hard Fly-köst eru nauðsynleg í hverri umferð af Lengd galdursins ef þeir vilja halda sér á lofti. Við árangur má veran hreyfa sig að vild, en aðeins á hálfum venjulegum hraða, á meðan misheppnað kast veldur því að tilraun verunnar sendir hana varlega veltandi úr stjórn í handahófskennda átt í fjarlægð sem jafngildir hraða hennar. Ef hún lætur sig bara falla, getur fljúgandi vera notað vængi sína til að laga lendingarstað sinn um 5 fet á umferð.
 
-Ef galdurinn rennur út áður en þeir sem verða fyrir áhrifum hafa lent, halda þeir áfram venjulegum fallhraða og ákvarða fallskaða frá þeim punkti.
+Ef galdurinn rennur út áður en þeir sem fyrir honum urðu hafa lent, hefja þeir aftur eðlilegan fallhraða og ákvarða fallskemmdir frá þeim stað.
 
-Vegna augnabliks kasttíma galdursins, getur galdrakarlinn notað Feather Fall bæði sem viðbragð og fyrirbyggjandi. Þetta gerir galdrinum kleift að verja gegn óvæntum föllum eða jafnvel að trufla aðgerð annars til að hægja á fleygðum skotfærum eins og örvum eða kastaðum spjótum, sem síðan svífa varlega til jarðar milli árásarmanns og skotmarks, og valda engum skaða.
+Vegna þess að galdurinn hefur tafarlausann kasttíma getur galdramaðurinn notað Fjaðrafall bæði til varnar og sóknar. Þetta gerir galdrinum kleift að vernda gegn óvæntum föllum eða jafnvel rjúfa aðgerð annars aðila til að hægja á skotfærum sem eru á ferð, svo sem örvum eða kastaðri spjóti, sem þá svífa varlega til jarðar á milli árásarmannsins og skotmarksins og valda engum skemmdum.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 mín.; 30 feta drægni; heildar 20 SIZ; heildar niðurleið 120 fet |
-| 2 | 2 | 2 mín.; 60 feta drægni; heildar 40 SIZ; heildar niðurleið 240 fet |
-| 3 | 3 | 3 mín.; 90 feta drægni; heildar 60 SIZ; heildar niðurleið 360 fet |
-| 4 | 4 | 4 mín.; 120 feta drægni; heildar 80 SIZ; heildar niðurleið 480 fet |
-| +1 | +1 | Halda áfram röð |
+| 1 | 1 | 1 mín.; 30 feta drægni; heildar STÆ 20; heildar fall 120 fet |
+| 2 | 2 | 2 mín.; 60 feta drægni; heildar STÆ 40; heildar fall 240 fet |
+| 3 | 3 | 3 mín.; 90 feta drægni; heildar STÆ 60; heildar fall 360 fet |
+| 4 | 4 | 4 mín.; 120 feta drægni; heildar STÆ 80; heildar fall 480 fet |
+| +1 | +1 | Halda áfram framgangi |
 
 ---
-#### Find Familiar
+#### Finna kunningja
 
-(Galdraefni)
+(Samsetning)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 2d12 klukkustundir |
-| **Svið:** Ekkert | **Virkni:** Sérstakt |
-| **Kostnaður:** 3/styrkleiki, +1 EXP | **Drægni:** 0 |
-| **Svæði:** ½ mílu radíus/styrkleiki | **Vörn:** Á ekki við |
+| **Stig:** Galdramaður 1 | **Tími til að kasta:** 2d12 klukkustundir |
+| **Svið:** Ekkert | **Lengd:** Sérstakt |
+| **Kostnaður:** 3/styrkleika, +1 REY | **Drægni:** 0 |
+| **Svæði:** ½ mílu radíus/styrkleika | **Vörn:** N/A |
 
-Þessi galdur gerir galdramanninum kleift að reyna að kalla á fylgdarvera (familiar), sem verður framlenging á skynfærum og krafti húsbónda síns. Fylgdarverur mega ræða við húsbónda sinn í huganum og eru góðir verðir og njósnarar. Að láta drepa fylgdarveru sína hefur ákveðna áhættu fyrir galdramanninn vegna náins tengsla þeirra, sem gerir það að verkum að eiga fylgdarveru er lágstigs hætta.
+Þessi galdur gerir kasteranum kleift að reyna að kalla fram kunningja, sem verður framlenging á skynfærum og mætti húsbónda síns. Kunningjar geta átt telepatísk samskipti við húsbónda sinn og eru góðir verðir og njósnarar. Að láta drepa kunningja sinn veldur galdramanninum ákveðinni áhættu vegna náins tengsls þeirra, sem gerir það að verkum að það að eiga kunningja er lágstigs hætta.
 
-Til að kalla á fylgdarveru verður galdramaðurinn að hefja helgisiðinn á meðan kolum er haldið í glóð, og þegar það brennur með styrkleika, bæta við 100 GP virði af reykelsi. Með þessum innihaldsefnum brennandi verður galdramaðurinn síðan að halda áfram helgisiðnum þar til fylgdarveran kemur eða kasttíminn rennur út án árangurs.
+Til að kalla fram kunningja verður galdramaðurinn að hefja helgisiðinn meðan hann heldur glóðum í eldstó með viðarkolum, og þegar þær brenna af krafti, bæta við reykelsi fyrir 100GP. Með þessum innihaldsefnum brennandi verður kasterinn að halda áfram helgisiðnum þar til kunninginn kemur eða kasttíminn rennur út án árangurs.
 
-Jafnvel þótt þessi galdur sé kastaður með góðum árangri, eru líkurnar á því að viðeigandi fylgdarvera svari kalli galdramannsins aðeins 50%, og galdramaðurinn má aðeins reyna þennan galdur einu sinni á ári. Hvert stig af viðbótarstyrkleika umfram það fyrsta lengir drægni galdursins um hálfa mílu, sem aftur eykur líkurnar á því að hugsanleg fylgdarvera finnist um 5%, upp í hámark 95%. Engin stjórn er á því hvaða tegund af veru mun svara kallinu, en það sem kemur mun vera trúfastur þjónn og bandamaður. Það er undir viðkomandi veru komið að svara kallinu, þess vegna tryggir það ekki galdramanninum árangur að vera á svæði sem vitað er að sé byggt ákveðinni tegund af veru.
+Jafnvel þótt þessum galdri sé kastað með árangri, eru líkurnar á því að hentugur kunningi svari kalli galdramannsins aðeins 50%, og galdramaðurinn má aðeins reyna þennan galdur einu sinni á ári. Hvert viðbótarstig Styrkleika umfram það fyrsta lengir drægni galdursins um aðra hálfa mílu, sem aftur eykur líkurnar á því að hugsanlegur kunningi finnist um 5%, í hámark 95%. Það er engin stjórn á nákvæmri tegund veru sem mun svara kallinu, en það sem kemur mun vera trúfastur þjónn og bandamaður. Það er undir viðkomandi veru komið að svara kallinu, þess vegna tryggir það ekki galdramanninum árangur að vera á svæði sem vitað er að sé byggt af ákveðinni tegund vera.
 
-Ef vera svarar kalli galdramannsins þarf galdramaðurinn samt að fórna 1 Experience-kasti til að skapa andleg tengsl á milli sín og fylgdarverunnar. Þegar þetta er gert er helgisiðnum lokið.
+Ef vera svarar kalli kasterans þarf galdramaðurinn samt að fórna 1 Reynsilukasti til að skapa andlegt tengsl milli sín og kunningjans. Þegar það er gert er helgisiðnum lokið.
 
-Á meðan fylgdarveran og húsbóndi hennar eru innan 120 feta fjarlægðar frá hvor öðrum, öðlast galdramaðurinn getu til að nota töfrapunkta fylgdarverunnar líka. Að auki öðlast galdramaðurinn huglæg tengsl við fylgdarveruna og hvers kyns viðbótar sérstaka hæfileika eða færnibónusa sem tilgreindir eru í töflunum hér að neðan.
+Á meðan kunninginn og húsbóndi hans eru innan 120 feta frá hvor öðrum, öðlast galdramaðurinn getu til að nota Galdrastig kunningjans líka. Auk þess öðlast galdramaðurinn telepatísk tengsl við kunningjann og öll viðbótar sérstök hæfileikar eða færnibónusar sem skráðir eru í töflunum hér að neðan.
 
-Í tilviki dauða fylgdarverunnar missir galdramaðurinn 5 Experience-köst. Galdramaður sem hefur ekki núverandi Experience-köst verður að fórna öllum frekari Experience-köstum þar til jafnvægið er greitt.
+Ef kunninginn deyr, missir kasterinn 5 Reynsiluköst. Kasteri sem á engin Reynsiluköst núna verður að afsala sér öllum frekari Reynsiluköstum þar til skuldin er greidd.
 
-Tegund fylgdarveru sem birtist, ef einhver, er ákvörðuð samkvæmt eftirfarandi töflu. Undir flestum kringumstæðum eru algengar fylgdarverur ekki sérstaklega stórar, vera á milli SIZ 1-4, og nota Small Animal-lýsinguna.
+Tegund kunningja sem birtist, ef einhver, er ákvörðuð samkvæmt eftirfarandi töflu. Undir flestum kringumstæðum eru algengir kunningjar ekki óvenju stórir, vera á milli STÆ 1-4, og nota lýsinguna fyrir lítið dýr.
 
-##### Algengar fylgdarverur
+##### Algengir kunningjar
 
-| d100 Rúlla | Tegund | STR/SIZ | POW | Veittir sérstakir hæfileikar, allir innihalda huglæg tengsl |
+| d100 kast | Tegund | STY/STÆ | MÁT | Veitt sérstök hæfileika, öll fela í sér telepatísk tengsl |
 | :-: | :-: | :-: | :-: | :-- |
-| 01-05 | Leðurblaka | 1 | 1d3 | +10% Skynjun (aðeins heyrn), má berjast í myrkri án refsistigs |
-| 06-10 | Köttur, hús- | 1 | 2d3 | Nætursjón, +10% Skynjun (aðeins heyrn), +10% Stealth |
-| 11-15 | Kráka | 1 | 2d3 | Málleg samskipti\*, +10% Skynjun |
-| 16-20 | Hundur, miðlungs | 1d2+2 (4) | 1d3 | Nætursjón, +10% Skynjun (heyrn og lykt), +10% Track |
-| 21-25 | Hundur, lítill | 1d2 | 1d3 | Nætursjón, +10% Skynjun (heyrn og lykt), +10% Track |
-| 26-30 | Iltla | 1 | 1d3 | +10% Skynjun (aðeins sjón), +10% Evade |
-| 31-35 | Froskur/tota | 1 | 2d3 | +10% Skynjun, má halda niðri í sér andanum í 2 mínútur plús Endurance í sekúndum, í smámyndabardaga ná framreitir karakterins til beggja hliða |
+| 01-05 | Leðurblaka | 1 | 1d3 | +10% Skynjun (aðeins heyrn), má berjast í myrkri eða blindandi án refsistiga |
+| 06-10 | Köttur, hús- | 1 | 2d3 | Nætursjón, +10% Skynjun (aðeins heyrn), +10% Laumuspil |
+| 11-15 | Kráka | 1 | 2d3 | Munnleg samskipti\*, +10% Skynjun |
+| 16-20 | Hundur, miðlungs | 1d2+2 (4) | 1d3 | Nætursjón, +10% Skynjun (aðeins heyrn og lykt), +10% Spor |
+| 21-25 | Hundur, lítill | 1d2 | 1d3 | Nætursjón, +10% Skynjun (aðeins heyrn og lykt), +10% Spor |
+| 26-30 | Iltla | 1 | 1d3 | +10% Skynjun (aðeins sjón), +10% Lip |
+| 31-35 | Froskur/Tota | 1 | 2d3 | +10% Skynjun, má halda niðri í sér andanum í 2 mínútur plús Þol í sekúndum, í míníatúr-bardaga framhliðar karakterhringsins ná út til hvorra hliðar |
 | 36-40 | Haukur | 1 | 2d6 | +20% Skynjun, 2x venjuleg sjónfjarlægð |
-| 41-45 | Eðla | 1 | 2d3 | +10% Athletics, +10% Swim |
-| 46-50 | Mús | 1 | 1d3 | +10% Endurance, +10% Skynjun (aðeins lykt), +10% Swim |
-| 51-55 | Uggla, skræki- | 1 | 2d6 | Nætursjón, +10% Skynjun (aðeins nótt), +10% Willpower |
-| 56-60 | Rotta | 1 | 1d3 | +10% Endurance, +10% Skynjun (aðeins lykt), +10% Swim |
-| 61-65 | Hrafn | 1 | 2d6 | Málleg samskipti\*, +10% Commerce, +10% Skynjun |
-| 66-70 | Snákur | 1 | 2d3 | +10% Endurance (aðeins eitrun), +10% Skynjun (aðeins bragð) |
-| 71-75 | Vesla | 1 | 1d3 | +10% Skynjun (heyrn og lykt) |
-| 76-00 | Engin fylgdarvera innan drægni | - | - | - |
+| 41-45 | Eðla | 1 | 2d3 | +10% Íþróttir, +10% Sund |
+| 46-50 | Mús | 1 | 1d3 | +10% Þol, +10% Skynjun (aðeins lykt), +10% Sund |
+| 51-55 | Ugla | 1 | 2d6 | Nætursjón, +10% Skynjun (aðeins nótt), +10% Viljastyrkur |
+| 56-60 | Rota | 1 | 1d3 | +10% Þol, +10% Skynjun (aðeins lykt), +10% Sund |
+| 61-65 | Hrafn | 1 | 2d6 | Munnleg samskipti\*, +10% Verslun, +10% Skynjun |
+| 66-70 | Snákur | 1 | 2d3 | +10% Þol (aðeins viðnám gegn eitri), +10% Skynjun (aðeins bragð) |
+| 71-75 | Vesla | 1 | 1d3 | +10% Skynjun (aðeins heyrn og lykt) |
+| 76-00 | Enginn kunningi innan drægni | - | - | - |
 
-_\* Algengt tungumál, og tungumál kynþáttar galdramannsins ef við á._
+_\* Almennt tungumál, og kynþáttatungumál húsbóndans ef við á._
 
----
-#### Fireball
+---#### Eldsneyti
 
-(Framköllun)
+(Særingar)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Einbeiting |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 20 feta radíus | **Vörn:** Evade |
+| **Stig:** Galdramaður 2 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Einbeiting |
+| **Kostnaður:** 3+1/aukastyrkur | **Drægni:** Snerting |
+| **Svæði:** 20 feta radíus | **Vörn:** Undanbragð |
 
-Á fyrstu umferð kastsins, þegar galdramaðurinn byrjar munnlegu álögurnar og látbragðið, byrjar lítill ösku- eða neistastærðar logi að myndast í hendinni, sem stækkar hægt í lítinn eldbolta. Á seinni umferðinni, þegar álögunni er lokið, lætur galdramaðurinn eins og hann kasti boltanum, sem springur með lágum gný í gríðarlegan eldbolta. Hann býr yfir litlum þrýstingi og veldur 1d6 stigum af skaða fyrir hvert stig af styrkleika, eða brot af því, á öll fórnarlömb innan áhrifasvæðisins. Skaðinn er rúllaður einu sinni og beittur á hvern líkamshluta skotmarksins, þar sem búin brynja veitir enga vernd, en töfrabrynjupunktar eða náttúrleg brynja veru draga úr skaða eins og venjulega.
+Á fyrstu umferð við töfraþulu, þegar galdramaðurinn byrjar á munnlegri þulu og hreyfingum, byrjar lítill neisti eða eldsneyti að myndast í hendinni, sem stækkar hægt í lítinn eldbolta. Á annarri umferð, þegar þulunni er lokið, hermir galdramaðurinn eftir því að kasta boltanum, sem springur með lágum drunur í gegnum stóran eldbolta. Hann hefur lítinn þrýsting og veldur 1d6 stigum af tjóni fyrir hver 2 stig af styrk, eða brot úr því, á alla fórnarlömb á áhrifasvæðinu. Tjónið er kastað einu sinni og gildir á hverja líkamshluta skotmarksins, þar sem klædd brynja veitir enga vörn, en töfra-brynjustig eða náttúruleg brynja veru draga úr tjóni eins og venjulega.
 
-Árangursríkt Evade-kast, sem leiðir til þess að fara í liggjandi stöðu, gerir fórnarlambinu kleift að hljóta engan skaða. Einhver með Artful Dodger-hæfileikann hefur möguleika á að Evade án þess að liggja, en árangur í því tilviki mun aðeins minnka skaðann um helming nema þeir séu innan 5 feta frá brún áhrifasvæðisins.
+Árangursríkt Undanbragðskast, sem leiðir til þess að detta á grúfu, gerir fórnarlambinu kleift að verða fyrir engu tjóni. Einhver með listræna undanbragðshæfileika hefur möguleika á að framkvæma Undanbragð án þess að detta á grúfu, en árangur í þessu tilfelli mun aðeins draga úr tjóni um helming nema þeir séu innan 5 feta frá brún áhrifasvæðisins.
 
-Fireball hefur möguleika á að kveikja í eldfimum efnum sem jafngildir rúlluðum skaða x5%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
+Eldsneyti hefur líkur á að kveikja í eldfimum efnum sem jafngildir rúlluðu tjóni x5%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkur | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 feta drægni; 1d6 skaði |
-| 2 | 4 | 60 feta drægni; 1d6 skaði |
-| 3 | 5 | 90 feta drægni; 2d6 skaði |
-| 4 | 6 | 120 feta drægni; 2d6 skaði |
-| 5 | 7 | 180 feta drægni; 3d6 skaði |
-| 6 | 8 | 240 feta drægni; 3d6 skaði |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 30 feta drægni; 1d6 tjón |
+| 2 | 4 | 60 feta drægni; 1d6 tjón |
+| 3 | 5 | 90 feta drægni; 2d6 tjón |
+| 4 | 6 | 120 feta drægni; 2d6 tjón |
+| 5 | 7 | 180 feta drægni; 3d6 tjón |
+| 6 | 8 | 240 feta drægni; 3d6 tjón |
+| +1 | +1 | Haltu áfram framvindu |
 
 ---
-#### Fireball, Delayed Blast
+#### Eldsneyti, seinkuð sprenging
 
-(Framköllun)
+(Særingar)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 4 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 50 fet/styrkleiki |
-| **Svæði:** 20 feta radíus | **Vörn:** Evade |
+| **Stig:** Galdramaður 4 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3+1/aukastyrkur | **Drægni:** 50 fet/styrkur |
+| **Svæði:** 20 feta radíus | **Vörn:** Undanbragð |
 
-Með undantekningunum sem nefndar eru bæði hér að ofan og í eftirfarandi texta, virkar þessi galdur eins og venjulegur Fireball-galdur. Delayed Blast Fireball veldur 1d8 stigum af skaða fyrir hvert stig af styrkleika, eða brot af því, á öll fórnarlömb innan áhrifasvæðisins. Þegar kastað er, getur galdramaðurinn stillt Fireball-boltann á að springa hvenær sem er á milli samstundis og innan fimm mínútna. Hann ferðast á tilnefndan stað og verður síðan óvirkur, lítill fljótandi öskustall, þar til hann á æskilegum tíma blossar upp í gríðarlegan eldbolta.
+Að undanteknum þeim atriðum sem getið er um hér að ofan og í eftirfarandi texta, virkar þessi galdur eins og venjulegur Eldsneytisgaldur. Seinkuð sprenging af eldsneyti veldur 1d8 stigum af tjóni fyrir hver 2 stig af styrk, eða brot úr því, á öll fórnarlömb á áhrifasvæðinu. Þegar galdurinn er kastaður getur galdramaðurinn stillt Eldsneytið þannig að það springi hvenær sem er á milli samstundis og innan fimm mínútna. Hann fer á tilnefndan stað og verður síðan óvirkur, eins og lítill fljótandi neisti, þar til á tilsettum tíma þegar hann blossa upp í stóran eldbolta.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkur | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 feta drægni; 1d8 skaði |
-| 2 | 4 | 100 feta drægni; 1d8 skaði |
-| 3 | 5 | 150 feta drægni; 2d8 skaði |
-| 4 | 6 | 200 feta drægni; 2d8 skaði |
-| 5 | 7 | 250 feta drægni; 3d8 skaði |
-| 6 | 8 | 300 feta drægni; 3d8 skaði |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 50 feta drægni; 1d8 tjón |
+| 2 | 4 | 100 feta drægni; 1d8 tjón |
+| 3 | 5 | 150 feta drægni; 2d8 tjón |
+| 4 | 6 | 200 feta drægni; 2d8 tjón |
+| 5 | 7 | 250 feta drægni; 3d8 tjón |
+| 6 | 8 | 300 feta drægni; 3d8 tjón |
+| +1 | +1 | Haltu áfram framvindu |
 
 ---
-#### Fire Shield
+#### Eldskjöldur
 
-(Framköllun)
+(Særingar)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** 2 mínútur/styrkleiki |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 0 |
-| **Svæði:** Galdramaður | **Vörn:** Á ekki við |
+| **Stig:** Galdramaður 3 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 2 mínútur/styrkur |
+| **Kostnaður:** 3+1/aukastyrkur | **Drægni:** 0 |
+| **Svæði:** Kastaður | **Vörn:** N/A |
 
-Þessi galdur skapar skjöld af þunnum logum sem brenna galdramanninn en valda ekki skaða í sjálfu sér. Í staðinn verja logarnir viðtakandann gegn annaðhvort eldi eða kulda, háð því hvor af tveimur afbrigðum er í minni: Chill Shield, sem skapar bláa eða græna loga og ver gegn hita og eld-tengdum skaða, eða Warm Shield, sem skapar fjólubláa eða bláa loga og ver gegn kulda og ís-tengdum skaða. Litur loganna ætti að vera ákveðinn með handahófskenndum hætti með 50% líkum á hvorum, þar sem sú staðreynd að báðar tegundir geta gefið frá sér bláa loga skapar óvissu hjá árásarmanni. Ákvörðunin um hvað eigi að leggja á minnið er tekin þegar göldrum er undirbúið, og báða má leggja á minnið ef óskað er. Þessir logar gefa frá sér engan hita og varpa ljósi á aðeins helmingi birtu kyndils. Nánari upplýsingar um hvert afbrigði eru ítarlegar hér að neðan.
+Þessi galdur skapar skjöld af óljósum logum sem brenna galdramanninn en valda ekki tjóni í sjálfu sér. Í staðinn vernda logarnir viðtakandann fyrir annað hvort eldi eða kulda, háð því hvor af tveimur afbrigðum er í minni: Kuldaskjöldur, sem skapar bláa eða græna loga og verndar gegn hita og eldbyggðu tjóni, eða Hlýskjöldur, sem skapar fjólubláa eða bláa loga og verndar gegn kulda og ísbyggðu tjóni. Litur loganna ætti að ákvarðast af handahófi með 50% líkum á hvoru um sig, þar sem sú staðreynd að báðar gerðir geta gefið frá sér bláa loga skapar óvissu hjá hvaða árásarmanni sem er. Ákvörðunin um hvað eigi að leggja á minnið er tekin þegar galdrar eru undirbúnir og hægt er að leggja báða á minnið ef óskað er. Þessir logar gefa ekki frá sér hita og varpa ljósi sem er aðeins helmingur af birtustigi kyndils. Nánari upplýsingar um hvert afbrigði eru útskýrðar hér að neðan.
 
-- **Chill Shield:** Þessir logar eru svalir viðkomu og minnka hvers kyns eld- eða hitatengdan skaða í helming heildarinnar. Árangursríkt viðnámkast mun ógilda allan skaða. Viðnámkastið er einu stigi auðveldara og, í tilviki Evade, mun ekki gera varnarmanninn liggjandi.
-- **Warm Shield:** Þessir logar eru hlýir viðkomu og minnka hvers kyns kuldatengdan skaða í helming heildarinnar. Árangursríkt viðnámkast mun ógilda allan skaða. Viðnámkastið er einu stigi auðveldara og í tilviki Evade, mun ekki gera varnarmanninn liggjandi.
+- **Kuldaskjöldur:** Þessir logar eru svalir viðkomu og draga úr öllu tjóni af völdum elds eða hita niður í helming af heildinni. Árangursríkt viðnámskast mun ógilda allt tjón. Viðnámskastið er einu stigi auðveldara og í tilfelli Undanbragðs mun það ekki láta varnarmanninn detta á grúfu.
+- **Hlýskjöldur:** Þessir logar eru hlýir viðkomu og draga úr öllu tjóni af völdum kulda niður í helming af heildinni. Árangursríkt viðnámskast mun ógilda allt tjón. Viðnámskastið er einu stigi auðveldara og í tilfelli Undanbragðs mun það ekki láta varnarmanninn detta á grúfu.
 
-Nærbardagaárásir á viðtakanda hvorrar tegundar, hvort sem það er vopnað eða óvopnað, valda venjulegum skaða nema notað sé eitt af frumefnunum sem varið er gegn. Í því tilviki er galdramaðurinn varinn gegn frumefnishluta árásarinnar, og árásarmaðurinn verður fyrir skaða sem jafngildir þeim sem valdið var. Búin brynja af hálfu árásarmannsins veitir enga vernd, en töfrabrynjupunktar eða náttúrleg brynja veru draga úr skaða eins og venjulega. Verur með meðfædda töfraónæmi geta eytt Fire Shield með árangursríku Willpower-kasti þegar viðtakandinn er sleginn fyrst. Ef Willpower-kastið mistekst, getur andstæðingurinn ekki seinna meir ógilt Fire Shield.
+Nærárásir á viðtakanda hvors afbrigðis, hvort sem hann er vopnaður eða óvopnaður, valda eðlilegu tjóni nema notað sé eitt af frumefnunum sem varist er gegn. Í þessu tilfelli er galdramaðurinn varinn fyrir frumefnisþætti árásarinnar og árásarmaðurinn fær tjón sem jafngildir því sem valdið var. Klædd brynja árásarmanns veitir enga vörn, en töfra-brynjustig eða náttúruleg brynja veru draga úr tjóni eins og venjulega. Verur með meðfædda töfravörn geta eytt Eldskildi með árangursríku Viljakasti þegar viðtakandinn verður fyrir fyrsta höggi. Ef Viljakastið mistekst getur andstæðingurinn ekki eytt Eldskildinum síðar.
 
 ---
-#### Flame Strike
+#### Logaárás
 
-(Framköllun)
+(Særingar)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Bardagi, Elemental (Eldur) | **Virkni:** Augnablik |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 100 fet+20fet/viðbótarstyrkleiki |
-| **Svæði:** 5 feta radíus | **Vörn:** Evade |
+| **Stig:** Klerkur 2 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Bardagi, Frumefni (Eldur) | **Lengd:** Augnablik |
+| **Kostnaður:** 3+1/aukastyrkur | **Drægni:** 100 fet+20 fet/aukastyrkur |
+| **Svæði:** 5 feta radíus | **Vörn:** Undanbragð |
 
-Þegar árangursríkt er kastað, streymir eldsúla 30 fet að hæð ofan úr loftinu, og brennir svæði sem klerkurinn tilgreinir. Súlan veldur 1d8 stigum af skaða fyrir hverja 2 stig af styrkleika, eða brot af því, á allar fórnarlömb innan áhrifasvæðisins. Rúllaðu skaðann einu sinni og beittu honum á hvern líkamshluta skotmarksins, þar sem búin brynja veitir helming verndar, en töfrabrynjupunktar eða náttúrleg brynja veru draga úr skaða eins og venjulega. Árangursríkt Evade-kast, að rúlla eða kasta sér út af áhrifasvæðinu og enda í liggjandi stöðu, gerir fórnarlambinu kleift að hljóta engan skaða. Einhver með Artful Dodger-hæfileikann getur Evade án þess að liggja og hefur leyfi til að hreyfa sig frjálslega rétt fyrir utan áhrifasvæðið.
+Þegar galdurinn er kastaður með góðum árangri streymir logasúla sem er 30 fet á hæð niður að ofan og brennir svæði sem klerkurinn tilgreinir. Súlan veldur 1d8 stigum af tjóni fyrir hver 2 stig af styrk, eða brot úr því, á öll fórnarlömb á áhrifasvæðinu. Kastaðu fyrir tjóni einu sinni og beittu því á hvern líkamshluta skotmarksins, þar sem klædd brynja veitir hálfa vörn, en töfra-brynjustig eða náttúruleg brynja veru draga úr tjóni eins og venjulega. Árangursríkt Undanbragðskast, að velta sér eða kasta sér út af áhrifasvæðinu og enda á grúfu, gerir fórnarlambinu kleift að verða fyrir engu tjóni. Einhver með listræna undanbragðshæfileika getur framkvæmt Undanbragð án þess að detta á grúfu og hefur leyfi til að hreyfa sig frjálslega rétt fyrir utan áhrifasvæðið.
 
-Flame Strike hefur möguleika á að kveikja í eldfimum efnum sem jafngildir rúlluðum skaða x5%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
+Logaárás hefur líkur á að kveikja í eldfimum efnum sem jafngildir rúlluðu tjóni x5%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkur | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 100-feta drægni; 1d8 skaði |
-| 2 | 4 | 120-feta drægni; 1d8 skaði |
-| 3 | 5 | 140-feta drægni; 2d8 skaði |
-| 4 | 6 | 160-feta drægni; 2d8 skaði |
-| 5 | 7 | 180-feta drægni; 3d8 skaði |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 100 feta drægni; 1d8 tjón |
+| 2 | 4 | 120 feta drægni; 1d8 tjón |
+| 3 | 5 | 140 feta drægni; 2d8 tjón |
+| 4 | 6 | 160 feta drægni; 2d8 tjón |
+| 5 | 7 | 180 feta drægni; 3d8 tjón |
+| +1 | +1 | Haltu áfram framvindu |
 
 ---
-#### Flesh to Stone \(R\)
+#### Hold í stein \(R\)
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 4 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Varanleg |
-| **Kostnaður:** 3/styrkleiki | **Drægni:** 30 fet/styrkleiki |
-| **Svæði:** 1 skotmark | **Vörn:** Willpower |
+| **Stig:** Galdramaður 4 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Varanlegur |
+| **Kostnaður:** 3/styrkur | **Drægni:** 30 fet/styrkur |
+| **Svæði:** 1 skotmark | **Vörn:** Vilji |
 
-Þegar kastað er fær eitt fórnarlamb innan drægni Willpower-viðnámkast. Ef það mistekst, breytist það og allir borinn búnaður í gegnheilan stein. Þessi umbreyting er ekki dauði, heldur tegund af dvala. Kastið á annað hvort andhverfu þessa galdurs, eða Wish, má nota til að endurheimta fórnarlambið til lífsins aftur. Hvers kyns skaði sem fórnarlambið verður fyrir á meðan það er steinn flyst yfir, og tekur gildi samstundis við endurreisn. Stórar verur (SIZ 21-40) eru síður næmar fyrir því að verða umbreyttar, þar sem viðnámkastið er Easy, á meðan viðnámkastið fyrir risastórar verur (SIZ 41+) er Very Easy.
+Þegar galdurinn er kastaður fær eitt fórnarlamb innan drægni rétt á Vilja-viðnámskasti. Ef það mistekst breytast það og allar eigur sem það ber í fastan stein. Þessi umbreyting er ekki dauði, heldur eins konar dvala. Hægt er að nota kastið á annað hvort öfugri útgáfu af þessum galdri eða Ósk til að endurlífga fórnarlambið. Allt tjón sem fórnarlambið verður fyrir á meðan það er steinn yfirfærist og tekur gildi strax við endurvakningu. Stórar verur (STÆ 21-40) eru síður viðkvæmar fyrir þessum galdri þar sem viðnámskastið er Auðvelt, og viðnámskastið fyrir Mjög stórar verur (STÆ 41+) er Mjög auðvelt.
 
-Andhverfan af þessum galdri, Stone to Flesh, er notuð til að endurheimta fórnarlamb og ekkert kast til að standast er nauðsynlegt. Hins vegar má galdurinn einnig snúa við til að breyta steini sem aldrei var áður lifandi; notaður á einn af nokkra skapandi vegu. Til dæmis mætti breyta vegg úr steini 10 teningsfet að stærð fyrir hvert stig af styrkleika í mjúkan hold, búa til „göng“ úr holdi allt að 3 fet breið, með lengd 10 fet fyrir hvern styrkleika, breyta einu skotmarki eins og steinstyttu í líkama, og jafnvel steingolem mætti breyta í holdgolem með þessum galdri. Hins vegar, í síðara tilvikinu, myndi steingolemið fá Willpower-kast til að standast eins og venjulega. Steinn sem breytt er í hold á þennan hátt er mjúkur og sveigjanlegur, og á meðan hann heldur raunverulegum heilsu-punktum sínum, býr hann yfir engum brynjupunktum, sem gerir það auðveldara að hakka hann í sundur.
+Öfug útgáfa af þessum galdri, Stein í hold, er notuð til að endurlífga fórnarlamb og ekkert viðnámskast er nauðsynlegt. Hins vegar er einnig hægt að snúa galdrinum við til að umbreyta steini sem aldrei hefur verið lifandi áður; notað á einn af nokkrum skapandi háttum. Til dæmis er hægt að umbreyta steinfjalli sem er 10 rúmfet að stærð á hvert stig styrks í mjúkt hold, hægt væri að búa til "göng" úr holdi allt að 3 fet á breidd, með lengd upp á 10 fet á hvern styrk, eitt skotmark eins og steinstyttu gæti breyst í líkama, og jafnvel steingolem gæti breyst í holdgolem með þessum galdri. Hins vegar, í síðara tilfellinu, fengi steingolemið Viljakast til að verjast eins og venjulega. Steinn sem breytt er í hold á þennan hátt er mjúkur og sveigjanlegur, og þótt hann haldi raunverulegum heilsumöguleikum sínum, hefur hann engin brynjustig, sem gerir það auðveldara að höggva hann í sundur.
 
 ---
-#### Floating Disk
+#### Fljótandi diskur
 
-(Galdraefni)
+(Birting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 30 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 60 fet |
-| **Svæði:** 3 feta breiður diskur | **Vörn:** Á ekki við |
+| **Stig:** Galdramaður 1 | **Lögunartími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 30 mínútur/styrkur |
+| **Kostnaður:** 1/styrkur | **Drægni:** 60 fet |
+| **Svæði:** 3 feta breiður diskur | **Vörn:** N/A |
 
-Galdramaðurinn getur kastað þessum galdri til að skapa glitrandi disk af krafti sem er þjappaður í hring 3 fet í þvermál, og notað hann til að bera lausa, ýmislegt. Þessi fljótandi diskur mun alltaf vera 3 fet fyrir ofan jörðina og getur borið hvaða fjölda varnings sem er ef hann fer ekki yfir 20 „hluti“ fyrir hvern styrkleika og getur passað á diskinn. Í samanburðarskyni, gerið ráð fyrir að 1 SIZ jafngildi 3 „hlutum“; diskurinn gæti því borið rétt yfir 6 SIZ fyrir hvern styrkleika. Íhvolfa eðli disksins mun almennt koma í veg fyrir að hlutir velti af og ef látið er eiga sig, mun diskurinn vera innan 5 feta frá galdramanninum, fylgjandi með 15 feta hreyfingarhraða. Hins vegar má stýra disknum á hvaða punkt sem er innan 60 feta áhrifasvæðis galdursins ef galdramaðurinn einbeitir sér, jafnvel vilja honum að vera á tilteknum stað. Ef galdramaðurinn leyfir disknum að hreyfast út fyrir 60 fet, hverfur diskurinn út í tómið og sleppir öllum börnum vörnum á jörðina. Diskurinn má ekki vilja rísa meira en 3 fet frá jörðu.
+Galdramaðurinn getur kastað þessum galdri til að búa til glitrandi disk af krafti sem er þjappaður í hring sem er 3 fet í þvermál, og notað hann til að bera lausa, sundurlausa hluti. Þessi fljótandi diskur mun alltaf haldast 3 fetum yfir jörðinni og getur borið hvaða fjölda varnings sem er ef hann fer ekki yfir 20 'hluti' á hvern styrk og getur rúmast á disknum. Til samanburðar má gera ráð fyrir að 1 STÆ jafngildi 3 'hlutum'; þess vegna myndi diskurinn geta borið rétt yfir 6 STÆ á hvern styrk. Íhvolfa lögun disksins mun almennt koma í veg fyrir að hlutir rúlli af og ef hann er látinn óáreittur mun diskurinn haldast innan 5 feta frá galdramanninum, fylgja eftir með hreyfihraða upp á 15 fet. Hins vegar er hægt að stýra disknum á hvaða punkt sem er innan 60 feta svæðis galdursins ef galdramaðurinn einbeitir sér, jafnvel með viljastyrk til að haldast á ákveðnum stað. Ef galdramaðurinn leyfir disknum að fara lengra en 60 fet, mun diskurinn hverfa úr tilverunni og láta alla hluti sem hann bar falla til jarðar. Ekki má nota viljastyrk til að láta diskinn rísa hærra en 3 fet yfir jörðu.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkur | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 1 | 30 mín.; bera 1-20 „hluti“ |
-| 2 | 2 | 60 mín.; bera 21-40 „hluti“ |
-| 3 | 3 | 90 mín.; bera 41-60 „hluti“ |
-| 4 | 4 | 120 mín.; bera 61-80 „hluti“ |
-| +1 | +1 | Halda áfram röð |
+| 1 | 1 | 30 mín.; bera 1-20 'hluti' |
+| 2 | 2 | 60 mín.; bera 21-40 'hluti' |
+| 3 | 3 | 90 mín.; bera 41-60 'hluti' |
+| 4 | 4 | 120 mín.; bera 61-80 'hluti' |
+| +1 | +1 | Haltu áfram framvindu |
 
 ---
-#### Fly
+#### Fljúga
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** 30 mínútur/styrkleiki, +1d6x10 mínútur |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við |
+| **Stig:** Galdramaður 2 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 30 mínútur/styrkur, +1d6x10 mínútur |
+| **Kostnaður:** 3+1/aukastyrkur | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** N/A |
 
-Þegar þessi galdur er kastaður getur galdramaðurinn veitt einni veru af allt að 10 SIZ fyrir hvern styrkleika gjöf flugs. Veran fær 30 feta hreyfingarhraða á meðan hún flýgur, helmingi þess ef hún klifrar og tvöfalt þess í dýfu. Allar færnirefsingar sem gilda um hreyfingarhraða á jörðu gilda einnig um æskilegan flugahraða, þar á meðal takmarkanir á galdrakasti og bardaga. Nákvæm virkni Fly-galdursins er ófyrirsjáanleg og ætti að vera rúlluð af leikstjóra þar sem þeir sem eru undir áhrifum hans ættu ekki að vita sérstaklega hversu mikill tími er eftir. Ef flugmanninum er krafist að gera Fly-færnikast má skipta út Athletics eða Acrobatics í tveimur erfiðleikastigum. Hins vegar getur karakter sem notar þennan galdur oft valið að þróa Fly-færnina venjulega með grunnvirði STR+DEX.
+Þegar þessi galdur er kastaður getur galdramaðurinn veitt einni veru allt að 10 STÆ á hvern styrk gjöfina að fljúga. Veran fær hreyfihraða upp á 30 fet á meðan hún flýgur, helmingi það ef hún klifrar og tvöfalt það í dýfu. Allar hæfileikavítur sem gilda um hreyfihraða á jörðu niðri eiga einnig við um flugvélina, þar á meðal takmarkanir á galdrakasti og bardaga. Nákvæm lengd Fljúga-galdursins er ófyrirsjáanleg og ætti að vera rúlluð af leikstjóra þar sem þeir sem eru undir áhrifum hans ættu ekki að vita nákvæmlega hversu mikill tími er eftir. Ef flugmanninum er gert að gera Fljúga-hæfileikakast, er hægt að skipta út Íþróttum eða fimleikum fyrir tvö erfiðleikastig. Hins vegar getur karakter sem notar þennan galdur oft valið að þróa Fljúga-hæfileikann venjulega með grunnvirði STY+LIP.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkur | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 30 mín. +1d6x10 mín.; 1-10 SIZ |
-| 2 | 4 | 60 mín. +1d6x10 mín.; 11-20 SIZ |
-| 3 | 5 | 90 mín. +1d6x10 mín.; 21-30 SIZ |
-| 4 | 6 | 120 mín. +1d6x10 mín.; 31-40 SIZ |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 30 mín. +1d6x10 mín.; 1-10 STÆ |
+| 2 | 4 | 60 mín. +1d6x10 mín.; 11-20 STÆ |
+| 3 | 5 | 90 mín. +1d6x10 mín.; 21-30 STÆ |
+| 4 | 6 | 120 mín. +1d6x10 mín.; 31-40 STÆ |
+| +1 | +1 | Haltu áfram framvindu |
 
 ---
-#### Free Action
+#### Frjáls aðgerð
 
-(Verndar-, Töfrandi)
+(Hlífðargaldur, Töfrar)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Heillun | **Virkni:** 10 mínútur/styrkleiki |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Á ekki við |
+| **Stig:** Klerkur 3 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Heillun | **Lengd:** 10 mínútur/styrkur |
+| **Kostnaður:** 3+1/aukastyrkur | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** N/A |
 
-Þegar kastað er gerir þessi galdur viðfangsefninu kleift að bregðast við eðlilega allan tímann sem hann varir, óháð öðrum göldrum eða áhrifum sem hindra hreyfingu eða refsa árásum. Þetta felur í sér að ógilda refsistig vegna ófærs lands eins og leðju og snjós. Undir vatni getur viðfangsefnið hreyft sig á venjulegum landhraða og sveifluð vopn (sverð, axir, kylfur, mólur o.s.frv.) ráðast á með fullum áhrifum. Þessi galdur veitir ekki getu til að anda undir vatni. Þessi galdur ógildir hindrandi galdra, svo sem Entangle, Slow, Hold, Paralysis, Web, og svo framvegis, varðandi hreyfingu og aðgerðarefsingar.
+Þegar hann er kastaður gerir þessi galdur viðfangsefninu kleift að starfa eðlilega allan þann tíma sem hann varir, óháð öðrum göldrum eða áhrifum sem hindra hreyfingu eða refsa fyrir árásir. Þetta felur í sér að ógilda vítur vegna hindrandi landslags eins og leðju og snjós. Neðansjávar getur viðfangsefnið hreyft sig á venjulegum landhraða sínum og beitt vopnum (sverðum, öxum, kylfum, mönuðum vopnum og svo framvegis) af fullum krafti. Þessi galdur veitir þó ekki getu til að anda neðansjávar. Þessi galdur ógildir hindrandi galdra, eins og Flækja, Hægja, Halda, Lömun, Vef, og svo framvegis, varðandi hreyfingu og aðgerðavítur.
 
 ---
-#### Frostbite
+#### Frostbit
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
+| **Stig:** Galdramaður 0 | **Lögunartími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
 | **Kostnaður:** 1 | **Drægni:** 60 fet |
-| **Svæði:** 1 skotmark | **Vörn:** Endurance |
+| **Svæði:** 1 skotmark | **Vörn:** Þol |
 
-Frostbite virkar beint á lifandi, lífrænan vef og veldur dofa og sársauka í einum af útlimum viðtakandans, til dæmis fingrum, tám, rasskinn, nefi og eyrum og svo framvegis. Galdramaðurinn verður annaðhvort að snerta tiltekinn útlim eða rúlla af handahófi ef kastað er úr drægni. Ef galdrinum er ekki staðist, þjáist svæðið af skynjunardofa fylgt eftir af dveljandi sársauka fyrir virknina, sem gerir færnipróf sem nýta þann stað einu erfiðleikastigi harðari. Frostbite veldur ekki beinum skaða en gerir viðkomandi svæði af takmörkuðum notum í stund. Til dæmis getur fórnarlamb sem þjáist af frostbiti í rasskinnum ekki setið án mikilla óþæginda.
+Frostbit virkar beint á lifandi, lífrænan vef og veldur dofa og sársauka í einum af útlimum viðtakandans, til dæmis fingrum, tám, rasskinn, nefi og eyrum, og svo framvegis. Galdramaðurinn verður annað hvort að snerta tiltekinn útlim eða rúlla af handahófi ef kastað er á drægni. Ef galdrinum er ekki varið, verður hið viðkomandi svæði fyrir skynjunardofa fylgt eftir af viðvarandi sársauka á meðan galdurinn varir, sem gerir hæfileikapróf sem nýta þann stað einu erfiðleikastigi erfiðara. Frostbit veldur ekki beinu tjóni en gerir hið viðkomandi svæði með takmarkaða notkun í nokkurn tíma. Til dæmis getur fórnarlamb sem þjáist af frostbiti á rasskinn ekki setið án mikilla óþæginda.
 
-Stórar verur (SIZ 21-40) eru síður næmar fyrir þessum galdri þar sem viðnámkastið er Easy, og viðnámkastið fyrir risastórar verur (SIZ 41+) er Very Easy.
+Stórar verur (STÆ 21-40) eru síður viðkvæmar fyrir þessum galdri þar sem viðnámskastið er Auðvelt, og viðnámskastið fyrir Mjög stórar verur (STÆ 41+) er Mjög auðvelt.
 
 ---
-#### Fumble
+#### Klaufaskapur
 
-(Töfrandi (Heillun))
+(Töfrar (Heillun))
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** 1 umferð/styrkleiki |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 30 fet/styrkleiki |
-| **Svæði:** 10 feta radíus | **Vörn:** Willpower |
+| **Stig:** Galdramaður 3 | **Lögunartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 1 umferð/styrkur |
+| **Kostnaður:** 3+1/aukastyrkur | **Drægni:** 30 fet/styrkur |
+| **Svæði:** 10 feta radíus | **Vörn:** Vilji |
 
-Þessi galdur veldur því að allir andstæðingar á áhrifasvæðinu verða klaufalegir, þar sem hvers kyns líkamleg færniköst verða einu stigi erfiðari og veldur því að öll mistök leiða til Fumble. Jafnvel líkamlegar aðgerðir sem venjulega krefjast ekki færnikasts svo sem að taka upp dottið hlut, hreyfa sig hraðar en ganga, eða klifra stiga krefjast Athletics-færnikasts. Misbrestur í því tilviki leiðir til Fumble, og venjulega óþægilegs falls í tilviki hreyfingar, eða að sparka óvart í hlut lengra í burtu meðan reynt er að taka hann upp. Leikstjórinn ætti að vera skapandi með niðurstöður Fumble-kastsins; hins vegar ættu fáir að vera alveg banvænir í óbardagaaðstæðum. Í bardaga er Fumble þó meðhöndlað eins og hvert annað og getur leitt til sérstakra áhrifa eins og venjulega.
+Þessi galdur veldur því að allir andstæðingar á áhrifasvæðinu verða klaufalegir, þar sem öll líkamleg hæfileikaköst verða einu stigi erfiðari og valda því að allar bilanir leiða til klaufaskaps. Jafnvel líkamlegar aðgerðir sem krefjast venjulega ekki hæfileikakasts eins og að taka upp hlut sem hefur dottið, hreyfa sig hraðar en gangandi, eða klifra stiga, krefjast Íþróttahæfileikakasts. Bilun í þessu tilfelli leiðir til klaufaskaps, og venjulega óþægilegs falls í tilfelli hreyfingar, eða þess að sparka óvart hlut lengra í burtu á meðan reynt er að taka hann upp. Leikstjórinn ætti að vera skapandi með niðurstöður klaufaskaps; hins vegar ættu fáir að vera beinlínis banvænir í aðstæðum utan bardaga. Í bardaga er hins vegar litið á klaufaskap eins og hvern annan og getur leitt til sérstakra áhrifa eins og venjulega.
 
-Árangursríkt viðnámkast gerir fórnarlambinu kleift að forðast áhrif galdursins fyrir núverandi umferð; hins vegar, ef fórnarlambið tekur enn upp áhrifasvæðið næstu umferð, verður að gera annað kast til að standast aftur eins og venjulega. Bandamenn upprunalega árásarmannsins þurfa einnig að halda sig utan áhrifasvæðisins annars verða þeir fyrir sömu takmörkunum og óvinir þeirra.
+Árangursríkt viðnámskast gerir fórnarlambinu kleift að forðast áhrif galdursins í núverandi umferð; hins vegar, ef fórnarlambið er enn á áhrifasvæðinu næstu umferð, verður að gera annað viðnámskast aftur eins og venjulega. Bandamenn upphaflega árásarmannsins munu einnig þurfa að halda sig utan áhrifasvæðisins eða þjást af sömu takmörkunum og andstæðingar þeirra.
 
-Þessum galdri má einnig miða á tiltekna veru, sem mun þjást af áhrifunum fyrir alla virkni galdursins ef viðnámkastið mistekst. Kastað á þennan hátt framleiðir Fumble ekkert áhrifasvæði. Í því tilviki leiðir árangursríkt viðnámkast til þess að fórnarlambið þjáist af áhrifum stig 2 galdursins, Slow.
+Einnig er hægt að miða þessum galdri á tiltekna veru, sem mun þjást af áhrifunum allan tímann sem galdurinn varir ef viðnámskastið mistekst. Kastað á þennan hátt framleiðir Klaufaskapur ekkert áhrifasvæði. Í þessu tilfelli leiðir árangursríkt viðnámskast til þess að fórnarlambið þjáist af áhrifum 2. stigs galdursins, Hægja.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkur | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 3 | 1 umferð; 30 feta drægni |
 | 2 | 4 | 2 umferðir; 60 feta drægni |
 | 3 | 5 | 3 umferðir; 90 feta drægni |
 | 4 | 6 | 4 umferðir; 120 feta drægni |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Haltu áfram framvindu |
 
 ---
-#### Gate
+#### Hlið
 
-(Galdraefni)
+(Birting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 5, Galdrakarl 5 | **Kasttími:** 2 umferðir |
-| **Svið:** Kvaðning | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 3 +1/styrkleiki, +3 EXP | **Drægni:** 100 fet |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Willpower |
+| **Stig:** Klerkur 5, Galdramaður 5 | **Lögunartími:** 2 umferðir |
+| **Svið:** Særingar | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3 +1/styrkur, +3 REYNSLA | **Drægni:** 100 fet |
+| **Svæði:** Sjá hér að neðan | **Vörn:** Vilji |
 
-Kast á Gate krefst þess að galdramaðurinn viti rétt nafn verunnar sem á að kalla til, sem er venjulega vera frá einu af öðrum tilveruplönum, svo sem djöfull eða illur, engill, hálfguð eða jafnvel guð. Þegar kastað er með góðum árangri opnast hlið á milli plans galdramannsins og plans verunnar. Að kasta galdrinum vekur sjálfkrafa athygli verunnar hvort sem það tekst eða ekki. Þessi galdur er gríðarlega öflugur og tæmandi, kostar galdramanninn ekki aðeins 3 töfrapunkta og 3 Experience-köst, heldur einnig öldrun um 5% af dæmigerðri líftíma hans (5 ár ef um manneskju er að ræða). Ef veran tekst í viðnámkastið, mun hún venjulega ekki nenna að koma í eigin persónu, hins vegar, að því gefnu að galdurinn sé árangursríkur, mun „eitthvað“ koma í gegn. Eftirfarandi tafla er notuð til að ákvarða nokkrar algengar verur, meðal Willpower þeirra, og dæmigerða þjóna sem væri sent í þeirra stað. Leikstjórinn er frjáls að velja það sem hentar eðli núverandi herferðar.
+Kast á Hliði krefst þess að galdramaðurinn viti rétt nafn þeirrar veru sem á að kalla til, sem er venjulega vera frá einum af hinum tilverusviðunum, eins og púki eða djöfull, engill, hálfguð eða jafnvel guð. Þegar galdurinn er kastaður með góðum árangri opnast gátt á milli sviðs galdramannsins og sviðs verunnar. Að kasta galdrinum vekur sjálfkrafa athygli verunnar, hvort sem það tekst eða ekki. Þessi galdur er gríðarlega öflugur og krefjandi, og kostar galdramanninn ekki aðeins tilgreind 3 töfrastig og 3 reynsluköst, heldur einnig að eldast um 5% af dæmigerðum líftíma sínum (5 ár ef um mannlegan galdramann er að ræða). Ef veran nær viðnámskastinu, mun hún venjulega ekki nenna að koma í eigin persónu, en að því gefnu að galdurinn heppnist mun 'eitthvað' koma í gegnum gáttina. Eftirfarandi tafla er notuð til að ákvarða nokkrar algengar verur, meðalvilja þeirra og dæmigerða þjóna sem yrðu sendir í þeirra stað. Leikstjóranum er frjálst að velja það sem best hentar eðli núverandi herferðar.
 
-##### Extra Planar Entity Table
+##### Tafla yfir verur utan sviðsins
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif | Willpower |
-| :-: | :-: | :-- | :-- |
-| 1 | 3 | Undir-djöfull | Eins og hver veru |
-| 2 | 4 | Minniháttar djöfull | Eins og hver veru |
-| 3 | 5 | Minni djöfull | Eins og hver veru |
-| 4 | 6 | Stærri djöfull | Eins og hver veru |
-| 5 | 7 | Djöflaprins eða hertogi, erkiengill, eða hálfguð | 121-140% |
-| 6 | 8 | Djöflahöfðingi, erki-djöfull, eða minni guð | 141-160% |
+| Styrkur | Kostnaður | Breytileg áhrif | Vilji |
+| :-: | :-: | :-- | :-: |
+| 1 | 3 | Undir-púki eða undir-djöfull | Eins og fyrir tiltekna veru |
+| 2 | 4 | Minniháttar púki eða djöfull | Eins og fyrir tiltekna veru |
+| 3 | 5 | Óverulegur púki eða djöfull | Eins og fyrir tiltekna veru |
+| 4 | 6 | Stærri púki eða djöfull | Eins og fyrir tiltekna veru |
+| 5 | 7 | Púka/djöflaprins eða hertogi, erkiengill, eða hálfguð | 121-140% |
+| 6 | 8 | Púkadrottinn, erkidjöfull, eða minni guð | 141-160% |
 | 7 | 9 | Stærri guð | 161-180% |
 | 8 | 10 | Ríkjandi guð | 181% + |
 
-Svar verunnar mun velta mjög á eðli verunnar, samstöðu beggja aðila og sérstöðu beiðninnar. Ef veran telur ástæðurnar fyrir trufluninni vera smálegar eða óverulegar, gæti svar hennar verið allt frá því að yfirgefa staðinn eða ráðast beint á. Hins vegar er líklegt að örvæntingarfull staða, sérstaklega þar sem galdramaðurinn er ógnaður af einhverju sem veran er eindregið á móti, verði mætt með hagstæðara svari. Ef leikstjórinn telur að það sé grátt svæði, og svarið sé vafasamt, geta galdramaðurinn og bandamenn hans reynt að rökræða mál sitt með blöndu af færni, smjaðri, bænheyrslu, og/eða mútum. Hins vegar munu flestar verur forðast að draga sig inn í átök við aðra með jafn miklum eða meiri krafti, og margar munu krefjast greiðslu, annaðhvort fyrir eða eftir verkið. Hliðið mun vera opið eins lengi og veran kýs að vera þeim megin, lokast fyrir aftan þegar hún ákveður að fara. Á þessum tíma er mögulegt fyrir aðra að fara í gegnum hliðið, sem býður upp á tveggja átta ferðir á milli beggja veruleika.
+Form svarsins mun að miklu leyti velta á tiltekinni veru, samstillingu beggja aðila og sérkennum beiðninnar. Ef veran telur ástæður truflunarinnar vera smávægilegar eða óverulegar gætu viðbrögð hennar verið allt frá því að fara einfaldlega til beinnar árásar. Hins vegar er líklegt að örvæntingarfullar aðstæður, sérstaklega þar sem galdramaðurinn er ógnaður af einhverju sem veran andmælir eindregið, verði mætt með hagstæðari viðbrögðum. Ef leikstjórinn telur að það sé grátt svæði og viðbrögðin verði vafasöm, geta galdramaðurinn og bandamenn hans reynt að rökstyðja mál sitt með blöndu af hæfileikum, smjaðri, bænum og/eða mútum. Hins vegar munu flestar verur forðast að dragast inn í átök við aðra með jafnan eða meiri kraft, og margar munu krefjast greiðslu, annað hvort fyrir eða eftir verkið. Hliðið mun vera opið eins lengi og veran kýs að vera þessum megin, og lokast á eftir þeim þegar þær ákveða að fara. Á þessum tíma er mögulegt fyrir aðra að fara í gegnum hliðið, sem býður upp á tveggja vega ferðalög á milli beggja veruleika.
 
 ---
-#### Glamour \(R\)
+#### Glamúr \(R\)
 
-(Töfrandi (Heillun))
+(Töfrar (Heillun))
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Einbeiting |
+| **Stig:** Galdramaður 0 | **Lögunartími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Einbeiting |
 | **Kostnaður:** 1 | **Drægni:** 60 fet |
-| **Svæði:** 1 skotmark | **Vörn:** Willpower |
+| **Svæði:** 1 skotmark | **Vörn:** Vilji |
 
-Glamour gerir skotmarkið heillandi þannig að fólk laðist náttúrulega að því. Eðli heillunarinnar verður að vera valið þegar kastað er, og getur verið hvað sem er frá aukinni náttúrulegri fegurð, mýkri og sultari rödd, eða jafnvel heillandi ilmandi líkamslykt. Á meðan galdurinn veitir engar vélrænar bætur, tryggir hann að viðtakandinn fái tækifæri til að safna sér áhorfendum, ná athygli einhvers sem hann óskar eftir að hafa samband við, eða veita truflun sem gerir félögum tækifæri til að framkvæma illvirki.
+Glamúr gerir skotmarkið heillandi þannig að fólk dregst náttúrulega að því. Velja verður eðli glamúrsins þegar kastað er, og getur verið hvað sem er, allt frá aukinni náttúrufegurð, mýkri og daðurslegri rödd, eða jafnvel tælandi ilmandi líkamslykt. Þótt galdurinn veiti enga vélræna kosti, tryggir hann að viðtakandinn fái tækifæri til að safna að sér áhorfendum, vekja athygli einhvers sem hann vill hafa samband við, eða veita truflun sem gerir samverkamönnum kleift að fremja óhæfuverk.
 
-Þegar snúið er við, Repugnance snýr útliti skotmarksins þannig að það veldur viðbjóði hjá öllum þeim sem sjá, heyra eða lykta af því. Áhrifin verða að vera valin þegar kastað er og getur verið hvað sem er frá stórri vörtu á enda nefsins, hárri nasraddir eða jafnvel vondri líkamslykt. Hvað sem valið er, mun það valda því að fólk snúi sér undan fórnarlambinu eða búi til afsakanir til að yfirgefa návist þess eins fljótt og auðið er.
+Þegar snúið er við, snýr Hryllingur útliti skotmarksins þannig að það veldur ógeði hjá öllum þeim sem sjá, heyra eða finna lykt af þeim. Velja verður áhrifin þegar kastað er og getur verið hvað sem er, allt frá stóru vörtu á enda nefs, hárri nasahljómandi rödd eða jafnvel sterkri líkamslykt. Hvað sem er valið, mun það valda því að fólk snýr sér undan fórnarlambinu eða finnur afsakanir til að yfirgefa návist þess eins fljótt og auðið er.
 
----
-#### Glue
+---#### Lím (Glue)
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 24 klukkustundir |
+| **Stig:** Töframaður 0 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 24 klukkustundir |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 2 hlutir eða 1 brotinn hlutur | **Vörn:** Á ekki við |
+| **Svæði:** 2 hlutir eða 1 brotinn hlutur | **Viðnám:** Ekkert |
 
-Glue sementar saman tvo gegnheila, ólífræna hluti fyrir virkni galdursins, til dæmis hjól við öxul, eða hurð við rammann. Á meðan undir áhrifum galdursins er ekki hægt að aðskilja hlutina nema eitthvað reyni virkan að aðskilja þá. Í þessum kringumstæðum hefur galdurinn Brawn-færni sem jafngildir POW x5 galdramannsins og mistekst þegar yfirburða Brawn er sett gegn honum, sigrast á honum í andstæðu kasti. Þegar galdurinn lýkur eða mistekst, aðskiljast hlutirnir, alveg óskaddaðir.
+Lím festir saman tvo fasta, lífvana hluti í þann tíma sem galdurinn varir, til dæmis hjól við öxul eða hurð við karm. Á meðan áhrif galdursins vara getur ekki aðskilið hlutina, sama hversu ólíkir þeir eru, nema einhver reyni virkan að rífa þá í sundur. Í slíkum tilfellum hefur galdurinn STY-færni sem jafngildir MÁT x5 hjá töframanninum og hann bregst ef meiri STY er beitt gegn honum, sem sigrar hann í andstæðu kasti. Þegar galdurinn lýkur eða bregst, aðskiljast hlutirnir, alveg óskemmdir.
 
 ---
-#### Haste
+#### Hraði (Haste)
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** 3 umferðir/styrkleiki |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 180 fet |
-| **Svæði:** 20 feta radíus, 1 skotmark/styrkleiki | **Vörn:** Á ekki við |
+| **Stig:** Töframaður 2 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 3 umferðir/styrkleika |
+| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 180 fet (55 m) |
+| **Svæði:** 20 feta radíus, 1 skotmark/styrkleiki | **Viðnám:** Ekkert |
 
-Ein manneskja eða vera (þar með talið sjálfur) fyrir hvert styrkleikastig innan áhrifasvæðis galdursins fær tvöfaldan venjulegan hreyfingarhraða og fær +4 bónus á Initiative fyrir virkni galdursins. Að auki má skotmarkið velja 2 aðgerðir á hverri umferð fyrir hvern aðgerðarpunkt sem notaður er. Þetta eykur ekki hraða galdrakasts eða virkni galdurs á nokkurn hátt. Þess vegna mun galdrakarl undir áhrifum Haste ekki kasta göldrum hraðar, né njóta góðs af aukaaðgerðinni í sömu umferð og göldrum er kastað. Vegna flýttra efnaskipta viðfangsefnisins mun hvert kast á þessum galdri öldra skotmarkinu um 1% af eðlilegri lífslíkum þess, óháð virkni. Fyrir manneskjur væri það um 1 ár. Sjá [Aging](0007_Game_System.md?id=aging) reglurnar fyrir meðallífslíkur hálf-vera. Kast á Haste mun ógilda áhrif Slow, og í því tilviki mun það ekki öldra einstaklingnum. Haste staflast ekki við sjálfan sig eða svipuð töfraáhrif.
+Ein manneskja eða vera (þar með talið töframaðurinn sjálfur) á hvern styrkleika innan áhrifasvæðis galdursins fær tvöfaldan venjulegan hreyfihraða og fær +4 bónus á Frumkvæði (Initiative) á meðan galdurinn varir. Að auki má skotmarkið velja 2 aðgerðir á hverri umferð fyrir hverja Aðgerðareiningu (Action Point) sem notuð er. Þetta eykur ekki hraða á galdrakasti eða lengd galdra á neinn hátt. Þess vegna mun galdramaður undir áhrifum Hraða ekki kasta göldrum hraðar, né njóta góðs af auka-aðgerðinni í sömu umferð og galdrar eru kastaðir. Vegna aukins efnaskiptahraða skotmarksins mun hvert kast á þessum galdri eldast skotmarkið um 1% af eðlilegri lífslíkum þess, óháð lengd galdursins. Fyrir menn væri það um 1 ár. Sjá [Eldingar](0007_Game_System.md?id=aging) reglurnar fyrir meðallífslíkur hálf-mannlegra kynþátta. Kast á Hraða mun eyða áhrifum Hæglætis (Slow), og í því tilviki mun það ekki elda einstaklinginn. Hraði staflast ekki með sjálfum sér eða svipuðum töfraáhrifum.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 3 | 3 umferðir; 1 skotmark |
 | 2 | 4 | 6 umferðir; 2 skotmörk |
 | 3 | 5 | 9 umferðir; 3 skotmörk |
 | 4 | 6 | 12 umferðir; 4 skotmörk |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Halda áfram stigvaxandi |
 
 ---
-#### Heal \(R\)
+#### Lækning (Heal) (R)
 
 (Necromancy)
 
 | | |
 | :-- | :-- |
 | **Stig:** Klerkur 4 | **Kasttími:** 1 mínúta |
-| **Svið:** Lækning | **Virkni:** Varanleg |
+| **Svið:** Lækning | **Lengd:** Varanleg |
 | **Kostnaður:** 3 +1/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 vera | **Vörn:** Á ekki við (Endurance eða Evade) |
+| **Svæði:** 1 vera | **Viðnám:** Ekkert (ÞOL eða undanbrögð) |
 
-Með kast á Heal getur klerkurinn læknað líkamlegan kvilla, andlegt áfall, eða verulegan skaða með einni snertingu. Raunveruleg umfang þessa bata byggist á styrkleika galdursins sem hér segir. Fyrir hvert stig af styrkleika læknar galdurinn viðfangsefnið af einum sjúkdómi af hvaða POT sem er, læknar hvers kyns blindu eða heyrnarleysi, ógildir andlega röskun af völdum meiðsla eða töfra, eða læknar einn líkamshluta af allt að 12 skaðastigum. Hann mun þó ekki endurheimta afstýfðan útlim, þar sem það krefst kasts á galdrinum Regenerate. Hver viðbótarstyrkleiki má nota til að lækna annan kvilla eða lækna annan líkamshluta. Það myndi því krefjast kasts á styrkleika 7 til að lækna einstakling sem þjáist af bruna á öllum líkama sínum. Ólíkt minni lækningagöldrum sem takmarka virkni sína gegn langtíma meiðslum, eru engar takmarkanir settar á galdurinn af virkninni sem viðfangsefnið hefur þjáðst af meiðslunum.
+Með því að kasta Lækningu getur klerkurinn læknað líkamlegan kvilla, andlegt áfall eða umtalsverðan skaða með einni snertingu. Raunveruleg umfang þessa bata byggist á styrkleika galdursins sem hér segir. Fyrir hvert stig styrkleika læknar galdurinn skotmarkið af einum sjúkdómi af hvaða POT sem er, læknar hvers kyns blindu eða heyrnarleysi, eyðir andlegri röskun af völdum meiðsla eða töfra, eða læknar einn líkamshluta (Hit Location) um allt að 12 skaðastig. Hann mun þó ekki endurheimta afskorinn útlim, þar sem það krefst þess að kasta galdrinum Endurnýjun (Regenerate). Hvern viðbótarstyrkleika má nota til að lækna annan kvilla eða lækna annan líkamshluta. Það myndi því krefjast kasts á styrkleika 7 til að lækna einstakling sem þjáist af bruna á öllum líkamanum. Ólíkt minni lækningagöldrum sem takmarka virkni sína gegn langtímameiðslum, eru engar takmarkanir settar á galdurinn eftir þeim tíma sem skotmarkið hefur þjáðst af áhrifum meiðslanna.
 
-Þegar snúið er við, Harm, veldur 12 stigum af töfrandi meiðslum á einn af líkamshlutum fórnarlambsins við misheppnað viðnámkast. Einnig er valdur kvilla á þá, þar sem áhrifin eru þau sömu og galdurinn Cause Disease, andhverfan af Cure Disease, en á +20 POT. Channel-kast galdramannsins virkar sem kastið til að slá andstæðinginn og er gert ráð fyrir að sé hluti af líkamlegri kröfu galdursins. Ekkert viðbótarkast til að hitta er nauðsynlegt. Hvorki búin né náttúrleg brynja veitir neina vernd, en töfrabrynjupunktar draga úr skaða eins og venjulega, og afneita að fullu völdum kvillum. Hver viðbótarstyrkleiki hefur áhrif á annan líkamshluta sem liggur að þeim fyrsta, með áhrifum eins og ákveðið er af upprunalega viðnámkastinu. Hvorki útgáfa þessa galdurs hefur nein áhrif á undead, verur sem aðeins skaðast af járni, silfri eða töfravopnum, eða verur sem ekki eru líkamlegar.
+Þegar Harmur er kastaður til baka, veldur hann 12 punktum af töfraskaða á einn af líkamshlutum fórnarlambsins ef það bregst við að standast kastið. Að öðrum kosti er kvilla skotið á þá, þar sem áhrifin eru þau sömu og galdurinn Valda sjúkdómi, andstæðan við Lækna sjúkdóm, en með +20 POT. Klerkastig (Channel) kastsins virkar sem kast til að hitta andstæðinginn og er gert ráð fyrir að það sé hluti af líkamlegri kröfu galdursins. Ekkert viðbótarkast til að hitta er nauðsynlegt. Hvorki klædd brynja né náttúruleg brynja veitir neina vörn, en töfrabrynjustig draga úr skaða eins og venjulega og loka algjörlega fyrir skeytta kvilla. Hver viðbótarstyrkleiki hefur áhrif á annan líkamshluta sem liggur að þeim fyrsta, með áhrifum eins og ákveðið er af upphaflega viðnámskastinu. Hvorki útgáfan af þessum galdri hefur nein áhrif á ódauða, verur sem aðeins er hægt að skaða með járni, silfri eða töfravopnum, eða verur án líkama.
 
 ---
-#### Hold Person
+#### Halda manneskju (Hold Person)
 
-(Töfrandi (Heillun))
+(Töfrun (Heilla))
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2, Galdrakarl 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Heillun | **Virkni:** 2 umferðir/styrkleiki |
-| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 360 fet |
-| **Svæði:** 20 feta radíus | **Vörn:** Willpower |
+| **Stig:** Klerkur 2, Töframaður 2 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Heilla | **Lengd:** 2 umferðir/styrkleiki |
+| **Kostnaður:** 3+1/viðbótarstyrkleiki | **Drægni:** 360 fet (110 m) |
+| **Svæði:** 20 feta radíus | **Viðnám:** MÁT |
 
-Þessi galdur gerir galdramanninum kleift að gera 1 mannlaga veru fyrir hvern styrkleika innan áhrifasvæðisins óhreyfanlega. Árangursríkt viðnámkast ógildir alveg áhrif galdursins fyrir það skotmark aðeins. Stórar mannlaga verur (SIZ 21-40) eru síður næmar fyrir Hold Person, þar sem viðnámkastið er Easy, á meðan viðnámkastið fyrir risastórar mannlaga verur (SIZ 41+) er Very Easy. Á meðan þær eru haldnar eru verur algerlega hjálparlausar og ekkert nema Dispel Magic mun sleppa þeim fyrr en áætlað er.
+Þessi galdur gerir töframanninum kleift að gera 1 manneskju (humanoid) óvirka á hvern styrkleika innan áhrifasvæðisins. Vel heppnað viðnámskast hrekur áhrif galdursins alveg fyrir það skotmark eitt. Stórar verur (STÆ 21-40) eru síður viðkvæmar fyrir Halda manneskju, þar sem viðnámskast þeirra er Auðvelt, en viðnámskast fyrir risavaxnar verur (STÆ 41+) er Mjög auðvelt. Á meðan þær eru haldnar eru verurnar algjörlega hjálparlausar og ekkert nema Aflýsa töfra (Dispel Magic) mun sleppa þeim snemma.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 3 | 2 umferðir; 1 skotmark |
 | 2 | 4 | 4 umferðir; 2 skotmörk |
 | 3 | 5 | 6 umferðir; 3 skotmörk |
 | 4 | 6 | 8 umferðir; 4 skotmörk |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Halda áfram stigvaxandi |
 
 ---
-#### Holy Word \(R\)
-
-(Galdraefni)
-
-| | |
-| :-- | :-- |
-| **Stig:** Klerkur 5 | **Kasttími:** 1 aðgerð |
-| **Svið:** Bardagi | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 3, +1 EXP | **Drægni:** 0 |
-| **Svæði:** 30 feta radíus | **Vörn:** Á ekki við |
-
-Þegar þessi galdur er kastaður segir klerkurinn orð af ótrúlegum guðlegum krafti, fær um að hrinda illum verum frá öðrum plönum; hins vegar verður galdramaðurinn að vera á sínu eigin plani til að gera það. Viðkomandi verur eru sendar aftur á upprunaplán sitt og geta ekki snúið aftur á plan galdramannsins í að minnsta kosti 24 klukkustundir.
-
-Að auki verða veraldlegar verur af illum samstöðu fyrir viðbótaráhrifum háðum Rank eða SIZ verunnar, eftir því hvort gefur betri niðurstöðu, eins og lýst er í eftirfarandi töflu.
-
-| Target Rank | Target SIZ | Almennt | Færni\*\* | Hreyfing |
-| :-: | :-: | :-- | :-: | :-: |
-| 0-1\* | 1-20 | Drepur | - | - |
-| 2 | 21-40 | Lömun 1d4 x10 mínútur | - | - |
-| 3 | 41-60 | Hægja 2d4 umferðir \*\*\* | Hard | ½ |
-| 4-5 | 61+ | Deyfa 1d4 umferðir | Formidable | ¼ |
-
-_\* Þessi flokkur inniheldur karaktera sem ekki hafa Class._
-
-_\*\* Öll færni, þar á meðal bardagi, viðnámköst, og galdrakast._
-
-_\*\*\* Eins og samkvæmt Rank 2 Arcane galdrinum, [Slow](0010_Spells.md?id=slow)._
-
-Verur sem hafa áður verið deyfðar eða eru annars ófær um að heyra galdurinn verða ekki fyrir áhrifum, hins vegar er öðrum verum frá öðrum plönum enn vísað burt eins og lýst er hér að ofan.
-
-Þegar snúið er við, Unholy Word virkar eins og hér að ofan, hins vegar aðeins varðandi verur af góðri samstöðu.
-
----
-#### Ice Storm
+#### Heilagt orð (Holy Word) (R)
 
 (Framköllun)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 30 fet/styrkleiki |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Sjá hér að neðan |
+| **Stig:** Klerkur 5 | **Kasttími:** 1 aðgerð |
+| **Svið:** Bardagi | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1 EXP | **Drægni:** 0 |
+| **Svæði:** 30 feta radíus | **Viðnám:** Ekkert |
 
-Ice Storm hefur tvö áhrif, þar sem annað er valið þegar galdrinum er kastað:
+Þegar þessum galdri er kastað, mælir klerkurinn orð af ótrúlegum guðlegum krafti, sem getur hrint illum verum frá öðrum tilverum; hins vegar verður klerkurinn að vera í sinni eigin tilveru til að gera það. Verurnar sem verða fyrir áhrifum eru sendar aftur til síns upprunalega heimsvíddar og geta ekki snúið aftur til heimsvíddar klerksins í að minnsta kosti 24 klukkustundir.
 
-Hagl (Virkni: Augnablik): Þessi afbrigði galdursins veldur því að stórir haglsteinar rigna niður á svæði sem er 60 fet í radíus. Þeir sem verða fyrir áhrifum á svæðinu taka 1d10 punkta af skaða fyrir hverja 2 stig af styrkleika, eða brot af því. Hver teningur af skaða er rúllaður sérstaklega og beittur á handahófskennda líkamshluta. Eld-notandi verur taka +3 skaða frá hverju haglhöggi, og kulda-notandi verur taka helming skaða. Búin brynja veitir aðeins helming verndar, en náttúrleg brynja (eða töfra- og töfrabrynjupunktar) draga úr skaða eins og venjulega. Evade-kast, að kasta sér í liggjandi stöðu, er aðeins árangursríkt ef innan 5 feta frá skjóli eða brún áhrifasvæðisins. Annars er ómögulegt að komast hjá skaða. Árangur í að forðast gerir fórnarlambinu kleift að hljóta helming skaða hvers kasts. Einhver með Artful Dodger-hæfileikann hefur möguleika á að forðast án þess að liggja, og ef innan 5 feta frá skjóli eða brún áhrifasvæðisins, mun hann hljóta engan skaða við árangursríkt kast, annars taka þeir skaða eins og venjulega.
+Að auki verða verur sem ekki eru frá öðrum heimsvíddum og eru af illu tagi fyrir viðbótaráhrifum eftir stigi eða STÆ verunnar, eftir því hvort gefur hagstæðari niðurstöðu fyrir töframanninn, eins og nánar er lýst í eftirfarandi töflu.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Stig skotmarks | STÆ skotmarks | Almennt | Færni\*\* | Hreyfing |
+| :-: | :-: | :-- | :-: | :-: |
+| 0-1\* | 1-20 | Drepur | - | - |
+| 2 | 21-40 | Lömun 1d4 x10 mínútur | - | - |
+| 3 | 41-60 | Hægir 2d4 umferðir \*\*\* | Erfitt | ½ |
+| 4-5 | 61+ | Gerir heyrnarlausan 1d4 umferðir | Viðsjárvert | ¼ |
+
+_\* Þessi flokkur inniheldur persónur sem hafa ekki stétt (Class)._
+
+_\*\* Öll færni, þar á meðal bardagi, viðnámskast og galdrakast._
+
+_\*\*\* Eins og samkvæmt stigi 2 töfragaldrinum, [Hæglæti](0010_Spells.md?id=slow)._
+
+Verur sem hafa áður verið gerðar heyrnarlausar eða eru annars ófærar um að heyra galdurinn verða ekki fyrir áhrifunum sem lýst er í töflunni, hins vegar er öðrum verum frá öðrum tilverum samt hrundið burt eins og lýst er hér að ofan.
+
+Þegar það er kastað til baka, virkar Óheilagt orð eins og hér að ofan, þó aðeins varðandi verur af góðu tagi.
+
+---
+#### Ísstormur (Ice Storm)
+
+(Framköllun)
+
+| | |
+| :-- | :-- |
+| **Stig:** Töframaður 3 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 30 fet/styrkleika |
+| **Svæði:** Sjá hér að neðan | **Viðnám:** Sjá hér að neðan |
+
+Ísstormur hefur tvenn áhrif, þar sem annað er valið þegar galdrinum er kastað:
+
+Haglél (Lengd: Augnablik): Þessi útgáfa galdursins veldur því að stórir haglsteinar rigna niður á 60 feta radíus svæði. Þeir sem lenda á svæðinu taka 1d10 skaðapunkta fyrir hverja 2 punkta af styrkleika, eða hluta af því. Hver teningur af skaða er kastaður fyrir sig og beittur á tilviljanakennda líkamshluta. Verur sem nota eld taka +3 skaða af hverju haglélshöggi og verur sem nota kulda taka hálfan skaða. Klædd brynja veitir aðeins hálfa vörn, en náttúruleg brynja verunnar (eða töfra- og töfrabrynjustig) draga úr skaða eins og venjulega. Undanbragðskast (Evade), að kasta sér í jörðina, er aðeins árangursríkt ef það er innan 5 feta frá skjóli eða brún áhrifasvæðisins. Annars er ómögulegt að komast hjá skaða. Árangur í undanbrögðum gerir fórnarlambinu kleift að þola hálfan skaða af hverju kasti. Einhver með Listuga undanbragðshæfileikann (Artful Dodger) hefur möguleika á að nota undanbrögð án þess að kasta sér í jörðina, og ef innan 5 feta frá skjóli eða brún áhrifasvæðisins, mun hann ekki taka neinn skaða við árangursríkt kast, annars taka þeir skaða eins og venjulega.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 3 | 30 feta drægni; 1d10 skaði |
 | 2 | 4 | 60 feta drægni; 1d10 skaði |
 | 3 | 5 | 90 feta drægni; 2d10 skaði |
 | 4 | 6 | 120 feta drægni; 2d10 skaði |
 | 5 | 7 | 150 feta drægni; 3d10 skaði |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Halda áfram stigvaxandi |
 
-Driving Sleet (Virkni: 1 umferð/styrkleiki): Þessi afbrigði galdursins skapar drífandi slyddu sem þýtur í gegnum slóðlíkt svæði 60 fet breitt og 120 fet langt, sem blindir þá sem verða fyrir áhrifum. Raunveruleg slóð getur verið tilnefnd af galdramanninum þegar galdrinum er kastað. Að auki þekur jörðin á áhrifasvæðinu ís, sem hægir á hreyfingarhraða um 50%, og fellir flugmenn sem mistakast í Formidable Fly-færnikasti. Þeir sem eru á jörðu verða að standast Athletics-kast hverja umferð til að forðast að falla í liggjandi stöðu, þar sem kastið er tveimur stigum erfiðara ef hreyft er hraðar en ganga. Karakter sem býr yfir Acrobatics getur skipt út þeirri færni ef óskað er. Ísurinn mun bráðna eftir að virkni galdursins rennur út á hraða sem ákvarðast af leikstjóra, háð umhverfishita; hins vegar, jafnvel í heitu veðri mun hann endast í lágmark 10 mínútur. Litlir eldar, svo sem varðeldar og kyndlar, slökkna sjálfkrafa. Þessi galdur mun ógilda áhrif galdursins Heat Metal.
+Drífandi slydda (Lengd: 1 umferð/styrkleika): Þessi útgáfa galdursins skapar drífandi slyddu sem svipar yfir 60 feta breitt og 120 feta langt svæði, sem blindar þá sem verða fyrir áhrifum. Raunverulega leiðin má vera tilgreind af töframanninum þegar galdrinum er kastað. Að auki frýs jörðin á áhrifasvæðinu, sem hægir á hreyfihraða um 50%, og gerir fljúgandi verur sem bregðast við Viðsjárverðu flugfærnikasti óvirkar. Þeir sem eru á jörðinni verða að ná íþróttakasti (Athletics) í hverri umferð til að standast það að falla, þar sem kastið er tvö stig erfiðara ef þeir hreyfa sig hraðar en gangandi. Persóna sem býr yfir fimleikum (Acrobatics) má skipta út þeirri færni ef óskað er. Ísinn mun bráðna eftir að lengd galdursins rennur út á hraða sem ákveðinn er af Leikstjóra, háð umhverfishita; hins vegar, jafnvel í heitu veðri mun hann endast í að minnsta kosti 10 mínútur. Litlir eldar, eins og varðeldar og kyndlar, slokkna sjálfkrafa. Þessi galdur mun eyða áhrifum galdursins Hita málm (Heat Metal).
 
 ---
-#### Ignite \(R\)
+#### Þekkja (Identify)
 
-(Umbreytingagaldur)
+(Spásagnir)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Elemental (Eldur) | **Virkni:** Augnablik |
-| **Kostnaður:** 1 | **Drægni:** 10 fet |
-| **Svæði:** 1 lítill eldur | **Vörn:** NA |
+| **Stig:** Töframaður 1 | **Kasttími:** 1 mínúta |
+| **Svið:** Vernd | **Lengd:** 1 mínúta/styrkleika |
+| **Kostnaður:** 1/styrkleika | **Drægni:** 0 |
+| **Svæði:** Kastandi | **Viðnám:** Ekkert |
 
-Þennan galdur má nota á tvo aðskilda vegu, annaðhvort til að kveikja eða slökkva. Valið um hvað sé gert er tekið þegar kastað er.
+Með því að kasta þessum galdri getur töframaðurinn reynt að bera kennsl á töfraeiginleika (ef einhverjir eru) eins hlutar sem haldið er á. Aðeins að snerta hlutinn er venjulega ekki nóg, hluturinn verður að vera borinn eða haldið á honum í samræmi við hönnun hans, t.d. verður að setja hjálm á höfuðið, hálsmen um hálsinn, vopni sem haldið er í, hring á fingur og svo framvegis. Ef Töfrakastkastið heppnast, mun eftirfylgjandi Töfraþekkingarkast bera kennsl á einn töfraeiginleika sem hluturinn býr yfir. Einni tilraun til töfraþekkingar má gera hverja mínútu sem lengdin varir. Ef eiginleiki krefst virkjunarorðs, er þetta einnig borið kennsl á ásamt eiginleikanum. Hlutir með hleðslum munu sýna heildarfjöldann sem er í boði, ásamt eðlilegu hámarki, eins og hlutir sem búa yfir Töfraeiningafylki (Magic Point matrix).
 
-Ignite virkar aðeins á eldfimt ólífrænt efni, sem veldur því að lítill hlutur eða hönd-stórt svæði springur í loga. Það fer eftir því hvað var kveikt í, þegar brennur, gætu logarnir síðan breiðst út nema slökkt sé eða þeim mætt á einhvern hátt. Þessi galdur er venjulega notaður til að kveikja í kertum, kyndlum eða ljóskerum úr fjarlægð. Hann má einnig nota til að kveikja í varðeldi eða eldunareldi við erfiðar aðstæður, svo sem með því að nota rakt eldivið eða í sterkum vindum.
+Bölvaðir hlutir eru venjulega virkjaðir þegar búnaður er fyrst settur á sig eða notaður; þess vegna mun kast á þessum galdri láta töframanninn verða fyrir áhrifum hvers kyns bölvunar ef hún er til staðar. Ef Töfrakastfærniprófið heppnast, fær töframaðurinn MÁT-próf til að forðast áhrif hvers kyns bölvunar. Þetta eyðir ekki bölvuninni af hlutnum, hins vegar, en það gerir töframanninum kleift að fjarlægja hlutinn án þess að verða fyrir áhrifum.
 
-Extinguish slökkvir strax loga og litla elda af hóflegri stærð og hita. Hann er gagnlegur til að slökkva á kertum, ljóskerum, kyndlum eða litlum eldunareldum, en hann mun ekki virka á töfrandi eða stærri, grimmari báli eins og líkbrennur, brennandi hús eða drekaelda.
+Perla að verðmæti að minnsta kosti 100GP er möluð í duft og neytt ásamt öðrum veraldlegum galdraþáttum til að kasta þessum galdri. Ef Lukkusteinn er malaður og bætt út í, er erfiðleiki Töfrakastkastsins eðlilegur og allir töfraeiginleikar hvers kyns hlutar sem haldið er á á hverri mínútu í gegnum lengd galdursins eru sjálfkrafa lærðir, án frekari kasta.
 
 ---
-#### Illusion
+#### Kveikja (Ignite) (R)
 
-(Töfrandi)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Einbeiting; Sjá hér að neðan |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 100 fet/styrkleiki |
-| **Svæði:** 50 feta radíus/styrkleiki | **Vörn:** Vantrú |
+| **Stig:** Töframaður 0 | **Kasttími:** 1 aðgerð |
+| **Svið:** Frumefni (Eldur) | **Lengd:** Augnablik |
+| **Kostnaður:** 1 | **Drægni:** 10 fet (3 m) |
+| **Svæði:** 1 lítill eldur | **Viðnám:** Ekkert |
 
-Þessi galdur skapar sjónræna tálsýn um hvað sem galdramaðurinn óskar. Hann hefur engin áhrif á önnur skynfæri, gefur frá sér engan hljóð, framleiðir enga lykt, hitastig eða áferð, og svo framvegis.
+Þennan galdur má nota á tvo mismunandi vegu, annaðhvort til að Kveikja eða Slökkva. Valið um hvort er gert þegar kastað er.
 
-Þessi tálsýn getur verið hvað sem er frá opnum engi til forns rauðs dreka, ef það passar innan áhrifasvæðis galdursins. Tálsýnin endist aðeins svo lengi sem galdramaðurinn heldur einbeitingu, eða þegar andstæðingur snertir hana eða fer inn í hana; það veldur því að töfrarnir sem halda henni við rakna upp og tálsýnin hverfur. Hins vegar getur galdramaðurinn viðhaldið tálsýninni eftir líkamlega snertingu, með því að eyða 1 töfrapunkti og stýra henni til að bregðast við snertingunni svo að hún veki ekki grunsemdir. Til dæmis, undir venjulegum kringumstæðum myndi tálsýn af trölli hverfa þegar hún yrði fyrir ör; hins vegar gæti galdramaðurinn látið tröllið virðast hrista af sér höggið og ráðast á árásarmanninn með því að eyða 1 töfrapunkti. Þess ber að geta að raunveruleg ör er ekki stöðvuð af tálsýninni og gæti samt hitt eitthvað eða einhvern fyrir aftan birtingarmyndina.
+Kveikja virkar aðeins á eldfimt ólífrænt efni, sem veldur því að lítill hlutur eða lófastórt svæði kviknar í. Það fer eftir því hvað var kveikt í, þegar það brennur, geta logarnir þá breiðst út nema þeim sé sökkt eða þeim mætt á einhvern hátt. Þessi galdur er venjulega notaður til að kveikja í kertum, kyndlum eða ljóskerum úr fjarlægð. Einnig má nota hann til að kveikja varðeld eða eldunareld við erfiðar aðstæður, svo sem með því að nota rakan kveikiefni eða í sterkum vindum.
 
-Þótt enginn raunverulegur skaði megi verða af tálsýninni, né neinn hiti skapaður, getur hugurinn sannfærst um að hann finni fyrir sársauka, þjáist af áhrifum meiðsla, eða finni fyrir hitastigsbreytingum; hins vegar munu hlutir ekki virðast frjósa eða brenna, nema galdramaðurinn einbeiti sér að þessum áhrifum líka. Þegar galdrinum hefur verið kastað má bæta við fleiri sjónrænum áhrifum af galdramanninum eftir vild með því að einbeita sér að æskilegum áhrifum. Þetta tekur venjulega engan tíma og má meðhöndla sem frjálsa aðgerð. Svo, til dæmis, ef galdramaðurinn vildi láta látinn tálsýnarkyndil valda því að þurrt lauf virðist kvikna í, gæti galdramaðurinn einbeitt sér sem frjálsri aðgerð til að gera það.
+Slökkva slekkur strax á logum og litlum eldum af hóflegri stærð og hita. Það er gagnlegt til að slökkva á kertum, ljóskerum, kyndlum eða litlum eldunareldum, en það virkar ekki á töfraelda eða stærri, grimmari brennur eins og bálkesti, brennandi hús eða drekaelda.
 
-Sjá [Illusions and Phantasms](0009_Magic.md?id=illusions-and-phantasms) kaflann fyrir frekari upplýsingar.
+---
+#### Sjónhverfing (Illusion)
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+(Sjónhverfing)
+
+| | |
+| :-- | :-- |
+| **Stig:** Töframaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Einbeiting; Sjá hér að neðan |
+| **Kostnaður:** 1/styrkleika | **Drægni:** 100 fet/styrkleika |
+| **Svæði:** 50 feta radíus/styrkleika | **Viðnám:** Efast (Disbelieve) |
+
+Þessi galdur skapar sjónræna sjónhverfingu af hverju sem töframaðurinn óskar. Hún hefur engin áhrif á önnur skynfæri, gerir engin hljóð, framleiðir enga lykt, hita eða áferð, og svo framvegis.
+
+Þessi sjónhverfing getur verið af hverju sem er frá opnum engi til forns rauðs dreka, ef hún passar innan áhrifasvæðis galdursins. Sjónhverfingin mun aðeins endast svo lengi sem töframaðurinn heldur Einbeitingu, eða þegar andstæðingur snertir hana eða kemur inn í hana; það veldur því að töfrarnir sem halda henni við rakna í sundur og sjónhverfingin hverfur. Hins vegar getur töframaðurinn viðhaldið sjónhverfingunni eftir líkamlega snertingu, með því að eyða 1 Töfraeiningu og stjórna henni til að bregðast við snertingunni til að skapa ekki grunsemdir. Til dæmis, við eðlilegar aðstæður, myndi sjónhverfing af trölli hverfa þegar henni er skotið með ör; hins vegar gæti töframaðurinn látið tröllið virðast hrista af sér höggið og ráðast á árásarmanninn með því að eyða 1 Töfraeiningu. Það skal tekið fram að raunveruleg ör er ekki stöðvuð af sjónhverfingunni og gæti samt hitt eitthvað eða einhvern á bak við birtingarmyndina.
+
+Þó að enginn raunverulegur skaði geti verið af sjónhverfingunni, né neinn hiti skapaður, getur hugurinn verið sannfærður um að hann finni fyrir sársauka, þjáist af áhrifum meiðsla, eða finni fyrir miklum hita eða kulda; hins vegar munu hlutir ekki virðast frjósa eða brenna, nema töframaðurinn einbeiti sér að þessum áhrifum líka. Þegar galdrinum hefur verið kastað, getur töframaðurinn bætt við viðbótar sjónrænum áhrifum að vild með því að einbeita sér að viðkomandi áhrifum. Þetta tekur venjulega engan tíma og má meðhöndla sem Frjálsa aðgerð. Svo, til dæmis, ef töframaðurinn óskaði þess að láta látinn sjónhverfingakyndil fá þurrar laufblöð til að virðast kvikna í, gæti töframaðurinn einbeitt sér sem Frjálsri aðgerð til að gera það.
+
+Sjá kaflann um [Sjónhverfingar og ímyndanir](0009_Magic.md?id=illusions-and-phantasms) fyrir frekari upplýsingar.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 1 | 50 feta radíus; 100 feta drægni |
 | 2 | 2 | 100 feta radíus; 200 feta drægni |
 | 3 | 3 | 150 feta radíus; 300 feta drægni |
 | 4 | 4 | 200 feta radíus; 400 feta drægni |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Halda áfram stigvaxandi |
 
 ---
-#### Invisibility
+#### Ósýnileiki (Invisibility)
 
-(Töfrandi)
+(Sjónhverfing)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 6 klukkustundir/styrkleiki |
+| **Stig:** Töframaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 6 klukkustundir/styrkleika |
 | **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
 
-Þegar þessi galdur er kastaður hverfa viðfangsefnið og allur borinn búnaður, ósýnilegur fyrir allar tegundir af venjulegri sjón. Þetta gerir einstaklinginn þó ekki ógreinanlegan með öðrum hætti eins og heyrn, snertingu, lykt og svo framvegis, eða með náttúrlegum hæfileikum eins og Life Sense eða Sonar.
+Þegar þessum galdri er kastað, hverfa skotmarkið og allur búnaður sem borið er, ósýnilegt fyrir öllum venjulegum sjónum. Þetta gerir einstaklinginn hins vegar ekki óuppgötvandi með öðrum leiðum eins og heyrn, snertingu, lykt og svo framvegis, eða með náttúrulegum hæfileikum eins og Lífs-skynjun eða Hljóðsjá.
 
-Þeir sem eru undir áhrifum Invisibility vera það út virkni galdursins (hámark 24 klukkustundir), nema honum sé eytt eða viðfangsefnið ráðist á, í því tilviki er galdurinn ógildur, og einstaklingurinn birtist aftur _eftir_ árásina. Skotmarkið yrði talið vera undir áhrifum [Surprise](0008_Combat.md?id=surprise). Engar aðrar aðgerðir hafa neikvæð áhrif á virkni galdursins, sem gerir viðfangsefninu kleift að opna hurðir, tala, klifra, hlaupa, tæma vasa, og svo framvegis. Jafnvel kast á göldrum mun ekki enda virknina nema þeir hafi neikvæð áhrif á einn eða fleiri sérstaka óvini í bardaga. Margar af fyrrnefndum aðgerðum gætu leyft aðrar leiðir til greiningar, svo sem mögulegt Perception-kast til að heyra einhvern hlaupa fram hjá, eða finna vasa tæmdan, og svo framvegis. Leikstjórinn mun úthluta refsistigum eða bónusum til þeirra sem reyna greininguna eftir því hversu áberandi það er.
+Þeir sem eru undir áhrifum Ósýnileika haldast þannig í gegnum lengd galdursins (hámark 24 klukkustundir), nema galdrinum sé eytt eða skotmarkið geri árás, en í því tilviki er galdurinn eyddur og einstaklingurinn birtist aftur _eftir_ árásina. Skotmarkið myndi teljast vera undir áhrifum [Á óvart](0008_Combat.md?id=surprise). Engar aðrar aðgerðir hafa neikvæð áhrif á lengd galdursins, sem gerir skotmarkinu kleift að opna hurðir, tala, klifra, hlaupa, tæma vasa og svo framvegis. Jafnvel kast á göldrum mun ekki enda lengdina nema þeir hafi neikvæð áhrif á einn eða fleiri sérstaka óvini í bardaga. Margar af þeim aðgerðum sem áður voru nefndar gætu leyft aðrar leiðir til uppgötvunar, svo sem mögulegt Skynjunar-próf (Perception) til að heyra einhvern hlaupa framhjá, eða finna vasa tæmdan. Leikstjórinn mun úthluta refsistigum eða bónusum til þeirra sem reyna uppgötvunina eftir því hversu áberandi það er.
 
 ---
-#### Invisibility, 10 ft. Radius
+#### Ósýnileiki, 10 feta radíus
 
-(Töfrandi)
+(Sjónhverfing)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** 6 klukkustundir/styrkleiki |
+| **Stig:** Töframaður 2 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 6 klukkustundir/styrkleika |
 | **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark, 10 feta radíus | **Vörn:** NA |
+| **Svæði:** 1 skotmark, 10 fet | **Viðnám:** Ekkert |
 
-Þessi galdur virkar eins og [Invisibility](0010_Spells.md?id=invisibility) galdurinn; hins vegar eru allir einstaklingar innan 10 feta frá viðtakandanum (sem getur verið galdramaðurinn sjálfur) þegar galdrinum er kastað gerðir ósýnilegir líka. Þeir sem eru undir áhrifum galdursins geta séð hver annan; hins vegar veitir þetta ekki getu til að sjá aðrar ósýnilegar verur. Ef einhver hreyfir sig út af áhrifasvæðinu tapast ósýnileikinn, því verður að gæta þess að halda öllum innan drægni við upprunalega viðfangsefnið. Þeir sem hreyfa sig aftur inn á áhrifasvæðið eftir að ósýnileiki þeirra hefur tapast, eða hafa ekki verið til staðar þegar kastað var, njóta ekki góðs af áhrifum hans. Árásir gerðar úr vernd ósýnileikans, þar með talið árásargjarn galdrakast af öðrum en upprunalega viðfangsefninu, trufla ósýnileikann fyrir þann einstakling en hafa engin áhrif á aðra karakteri á áhrifasvæðinu. Hins vegar gerir árás gerð af upprunalega viðtakanda galdursins alla sýnilega aftur. Sjá undirstöðu [Invisibility](0010_Spells.md?id=invisibility) galdurinn fyrir frekari smáatriði.
+Þessi galdur virkar eins og [Ósýnileiki](0010_Spells.md?id=invisibility) galdurinn; hins vegar eru allir einstaklingar innan 10 feta frá viðtakandanum (sem getur verið töframaðurinn sjálfur) þegar galdrinum er kastað, einnig gerðir ósýnilegir. Þeir sem eru undir áhrifum galdursins geta séð hver annan; hins vegar veitir þetta ekki getu til að sjá aðrar ósýnilegar verur. Ef einhver fer út fyrir áhrifasvæðið tapast Ósýnileikinn, því verður að gæta þess að halda öllum innan drægni upprunalega skotmarksins. Þeir sem flytja sig aftur inn á áhrifasvæðið eftir að Ósýnileiki þeirra hefur tapast, eða ekki verið viðstaddir þegar kastað var, njóta ekki góðs af áhrifum hans. Árásir gerðar úr vernd Ósýnileikans, þar á meðal sóknargaldrakast af einhverjum öðrum en upprunalega skotmarkinu, raska Ósýnileikanum fyrir þá manneskju en hafa engin áhrif á aðrar persónur á áhrifasvæðinu. Hins vegar gerir árás upprunalega viðtakanda galdursins alla sýnilega aftur. Sjá grunn [Ósýnileiki](0010_Spells.md?id=invisibility) galdurinn fyrir frekari smáatriði.
 
 ---
-#### Invisibility, Greater
+#### Ósýnileiki, Meiri
 
-(Töfrandi)
+(Sjónhverfing)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** 3 umferðir/styrkleiki |
+| **Stig:** Töframaður 3 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 3 umferðir/styrkleika |
 | **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
 
-Þessi galdur virkar eins og undirstöðu [Invisibility](0010_Spells.md?id=invisibility) galdurinn; hins vegar mun engin aðgerð af hálfu viðfangsefnisins enda virknina snemma. Viðfangsefnið má gera nær- eða fjarárásir, kasta göldrum, og svo framvegis. Athugið að það eru sýnileg merki um að aðgerðin hafi átt sér stað, svo sem sjónræn röskun. Þetta gerir hverjum sem hefur sjónlínu á viðfangsefnið kleift að gera Formidable Perception-kast eftir að aðgerðin hefur átt sér stað, eða mögulega áður ef karakterinn er seinkaður, til að greina staðsetningu ósýnilega árásarmannsins. Hægt er að gera árás á einu stigi erfiðleika í sömu umferð og viðfangsefnið gerði eitthvað af þeim sem skynja staðsetningu ósýnilega einstaklingsins. Sjá galdurinn [Invisibility](0010_Spells.md?id=invisibility) fyrir frekari smáatriði.
+Þessi galdur virkar eins og grunn [Ósýnileiki](0010_Spells.md?id=invisibility) galdurinn; hins vegar mun engin aðgerð af hálfu skotmarksins enda lengdina snemma. Skotmarkið má gera nær- eða fjarlægðarárásir, kasta göldrum og svo framvegis. Athugið að það eru sýnileg merki um að aðgerðin hafi átt sér stað, svo sem sjónræn röskun. Þetta gerir hverjum sem hefur sjónlínu á skotmarkið kleift að gera Viðsjárvert Skynjunar-próf (Perception) eftir að aðgerðin er framkvæmd, eða mögulega áður ef persónunni er seinkað, til að greina staðsetningu ósýnilega árásarmannsins. Árás með einu erfiðleikastigi má gera í sömu umferð og skotmarkið brást við af þeim sem skynja staðsetningu ósýnilega einstaklingsins. Sjá galdurinn [Ósýnileiki](0010_Spells.md?id=invisibility) fyrir frekari smáatriði.
 
 ---
-#### Ironhand
+#### Járnhönd (Ironhand)
 
-(Verndargaldur)
+(Vörn)
 
 | | |
 | :-- | :-- |
 | **Stig:** Klerkur 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Vernd | **Virkni:** 10 mínútur |
+| **Svið:** Vernd | **Lengd:** 10 mínútur |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Engin |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
 
-Ironhand gerir viðtakandanum kleift að halda á öllu sem annars myndi valda skaða (svo sem mjög heitum eða köldum hlutum, eða þeim sem drippa sýru) án þess að valda sér meiðslum. Þannig gæti notandi gripið um glóð úr eldi, lyft potti úr eldi, eða jafnvel náð í gegnum gufuop til að grípa hlut á hinni hliðinni. Hann veitir ekki alger ónæmi gegn skaða, hann hindrar aðeins að hann leiðist í gegnum húð viðtakandans. Galdurinn verndar ekki neitt sem er borið á hendinni, þannig að hringar, hanskar og þess háttar munu verða fyrir áhrifum uppsprettunnar.
+Járnhönd leyfir viðtakandanum að halda á öllu sem annars myndi valda skaða (eins og mjög heitum eða köldum hlutum, eða þeim sem drjúpa sýru) án þess að valda sjálfum sér meiðslum. Þannig gæti notandi gripið brenni úr eldi, lyft sjóðandi potti af eldstæði, eða jafnvel náð í gegnum gufuop til að grípa hlut hinum megin. Hann veitir ekki algera ónæmi gegn skaða, hann stöðvar aðeins leiðni í gegnum húð handa viðtakandans. Galdurinn verndar ekki neitt sem er borið á hendinni, svo hringar, hanskar og þess háttar munu verða fyrir áhrifum uppsprettunnar.
 
----
-#### Knock \(R\)
+---#### Knock (R)
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 180 fet |
-| **Svæði:** 1 hlið | **Vörn:** NA |
+| **Rank:** Mage 2 | **Casting Time:** 1 Action |
+| **Sphere:** None | **Duration:** See Below |
+| **Cost:** 1/Intensity | **Range:** 180 ft |
+| **Area:** 1 Portal | **Resist:** NA |
 
-Þennan galdur má kasta til að opna eina hurð eða annað svipað op úr viði, steini eða málmi ef læst, föst, haldin, eða Mage Locked. Hann hefur engin áhrif á portkullis eða hlið. Hurðin getur búið yfir allt að 25 heilsu-punktum fyrir hvern styrkleika, og getur innihaldið læstar kistur eða kassa, leynihurðir, og jafnvel hlekki og keðjur. Jafnvel op sem áður var soðið lokað mun losna úr böndum sínum. Hámark tveggja mismunandi þátta má hafa áhrif á með kast á Knock, til dæmis, hurð sem er lokuð, læst, og haldin mun krefjast 2 Knock-galdra. Á móti Mage Locked hurðum er heilluninni einfaldlega frestað í 10 mínútur eftir það hverfur hún aftur í töfrandi læsta ástand sitt.
+This spell may be cast to open one door or other similar aperture of wood, stone, or metal if locked, stuck, Held, or Mage Locked. It has no effect on a portcullis or gate. The door may possess up to 25 Hit Points per Intensity, and can include locked chests or boxes, secret doors, and even shackles and chains. Even an aperture previously welded shut will break free of its bonds. A maximum of two different aspects may be affected by the casting of Knock, for example, a door that is barred, locked, and Held will require the casting of 2 Knock spells. Against Mage Locked doors, the Enchantment is simply suspended for 10 minutes after which it reverts to its magically locked state.
 
-Þegar snúið er við, Lock lokar og læsir einu hliði eins og nefnt er hér að ofan að því gefnu að læsingarbúnaður sé til staðar. Hægt er að setja allt að tvær mismunandi aðgerðir, læsa, bolta, læsa með rimlum, og svo framvegis.
+When reversed, Lock closes and locks one portal as noted above assuming there is a locking mechanism. Up to two different functions, lock, bolted, barred, and so forth, may be set.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
-| 1 | 1 | allt að 25 heilsu-punktar hlið; hlekkir, lásar, dæmigerð trékista eða hurð |
-| 2 | 2 | allt að 50 heilsu-punktar hlið; viðarstyrkt kista eða hurð |
-| 3 | 3 | allt að 75 heilsu-punktar hlið; járnkista eða hurð |
+| 1 | 1 | up to 25 HP portal; shackles, paddle locks, a typical wooden chest or door |
+| 2 | 2 | up to 50 HP portal; a wooden reinforced chest or door |
+| 3 | 3 | up to 75 HP portal; an iron chest or door |
 
 ---
-#### Know Alignment \(R\)
+#### Know Alignment (R)
 
-(Spásagnagaldur)
+(Divination)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1, Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Spásögn | **Virkni:** 1 umferð/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 30 fet |
-| **Svæði:** 1 skotmark | **Vörn:** Willpower |
+| **Rank:** Cleric 1, Mage 2 | **Casting Time:** 1 Action |
+| **Sphere:** Divination | **Duration:** 1 Round/Intensity |
+| **Cost:** 1/Intensity | **Range:** 30 ft |
+| **Area:** 1 Target | **Resist:** Willpower |
 
-Þessi galdur gerir galdramanninum kleift að greina samstöðu og ástríður einnar veru, sem fær kast til að standast. Ef kastið til að standast mistekst, mun galdramaðurinn spá fyrir um siðferðisreglur skotmarksins varðandi lög, hlutleysi og ringulreið. Einbeiting í eina umferð í viðbót er krafist til að greina siðferðilega samstöðu skotmarksins varðandi gott, hlutleysi og illsku. Hver viðbótarumferð umfram þetta mun greina eina aðra handahófskennda eftirstandandi ástríðu. Leikstjórinn opinberar „styrk“ uppgötvaðrar samstöðu og ástríðna skotmarksins samkvæmt eftirfarandi töflu:
+This spell allows the caster to discern the Alignment and Passions of one creature, which gets a roll to resist. If the roll to resist fails, the caster will divine the target's Ethical Code with respect to Law, Neutrality, and Chaos. Concentrating for a further Round is required to discern the target's moral Alignment with regards to Good, Neutrality, and Evil. Each additional Round beyond this will discern one other random remaining Passion. The Games Master reveals the 'strength' of the target's discovered Alignment and Passions according to the following table:
 
-**Samstöðu/Ástríðustyrkleikatöflu**
+**Alignment/Passion Strength Table**
 
-| Hlutfall | Styrkur |
+| Percentage | Strength |
 | :-: | :-- |
-| 01-29% | Veikur |
-| 30-69% | Meðal |
-| 70-99% | Sterkur |
-| 100% + | Mjög sterkur |
+| 01-29% | Weak |
+| 30-69% | Average |
+| 70-99% | Strong |
+| 100% + | Very Strong |
 
-Andhverfa þessa galdurs, Obscure Alignment, gerir samstöðu og ástríður skotmarksins ólæsilegar í 24 klukkustundir, jafnvel frá kast á Know Alignment eða Detect Evil/Good.
+The reverse of this spell, Obscure Alignment, makes a target's Alignment and Passions unreadable for 24 hours, even from the casting of Know Alignment or Detect Evil/Good.
 
 ---
-#### Know Languages \(R\)
+#### Know Languages (R)
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 mínúta |
-| **Svið:** Ekkert | **Virkni:** 5 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 gáfuð vera | **Vörn:** NA |
+| **Rank:** Mage 1 | **Casting Time:** 1 Minute |
+| **Sphere:** None | **Duration:** 5 Minutes/Intensity |
+| **Cost:** 1/Intensity | **Range:** Touch |
+| **Area:** 1 Sapient Being | **Resist:** NA |
 
-Þessi galdur gerir galdramanninum kleift að skilja og lesa næstum hvaða ó-töfrandi tungumál sem er. „Tungumál“ ó-gáfulegra dýra eða vera er ekki skilið, aðeins raunveruleg tungumál gáfulegra vera. Galdramaðurinn verður að snerta hlutinn eða veruna til að skilja merkingu hennar. Þessi galdur veitir enga getu til að tala eða skrifa tungumálið.
+This spell allows the caster to understand and read almost any non-magical language. The 'speech' of non-sapient animals or creatures is not understood, only the true languages of sapient beings. The magic-user must touch the object or creature to comprehend its meaning. This spell gives no ability to speak or write the language.
 
-Andhverfa þessa galdurs, Confuse Languages, gerir veru óskiljanlega fyrir alla eða skrifaðan texta ólæsilegan. Þessari andhverfu má einnig nota til að mæta Know Languages þegar honum er kastað.
+The reverse of this spell, Confuse Languages, makes a creature unintelligible to anyone or a piece of written text indecipherable. This reverse may also be used to counter Know Languages as it is being cast.
 
 ---
 #### Levitate
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 10 mínútur/styrkleiki |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 60 fet/styrkleiki |
-| **Svæði:** 1 skotmark | **Vörn:** Willpower |
+| **Rank:** Mage 1 | **Casting Time:** 1 Action |
+| **Sphere:** None | **Duration:** 10 Minutes/Intensity |
+| **Cost:** 3, +1/additional Intensity | **Range:** 60 ft/Intensity |
+| **Area:** 1 Target | **Resist:** Willpower |
 
-Þegar þessi galdur er kastaður getur galdramaðurinn tilgreint sjálfan sig, eitt skotmark, veru, eða hlut, af ekki meira en 20 SIZ (+10 SIZ fyrir hvern viðbótarstyrkleika), og svifið þann einstakling af jörðu. Vera önnur en galdramaðurinn má hreyfast lóðrétt á hraðanum 5 fet á hverri bardagauferð; ef kastað er á sjálfan sig, getur galdramaðurinn hreyft sig lóðrétt allt að 10 fet á umferð. Svif krefst engrar einbeitingar af hálfu galdramannsins nema þegar hæð er breytt. Ef notað er á ófúst skotmark, fær skotmarkið kast til að standast. Á meðan viðfangsefni þessa galdurs er ekki veitt nein tegund af láréttri hreyfingu, gæti viðfangsefnið getað dregið sig meðfram vegg eða kletti ef innan seilingar. Galdramaðurinn getur endað þennan galdur þegar óskað er.
+When this spell is cast, the magic-user may designate themselves, one target, a creature, or an object, of no more than 20 STÆ (+10 STÆ per additional Intensity), and levitate that individual off the ground. A creature other than the caster may be moved vertically at a speed of 5 feet per Combat Round; if cast on oneself, the caster may move vertically up to 10 feet per Round. Levitation requires no Concentration on the part of the caster other than when changing elevation. If used on an unwilling subject, the target is allowed a roll to resist. While the subject of this spell is not granted any form of horizontal movement, the subject may be able to pull along a wall or cliff if within reach. The caster may end this spell when desired.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
-| 1 | 3 | 10 mín.; 60 feta drægni; 20 SIZ |
-| 2 | 4 | 20 mín.; 120 feta drægni; 30 SIZ |
-| 3 | 5 | 30 mín.; 180 feta drægni; 40 SIZ |
-| 4 | 6 | 40 mín.; 240 feta drægni; 50 SIZ |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 10 min.; 60 ft. Range; 20 STÆ |
+| 2 | 4 | 20 min.; 120 ft. Range; 30 STÆ |
+| 3 | 5 | 30 min.; 180 ft. Range; 40 STÆ |
+| 4 | 6 | 40 min.; 240 ft. Range; 50 STÆ |
+| +1 | +1 | Continue progression |
 
 ---
-#### Light  \(R\)\*
+#### Light (R)*
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1, Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Sól | **Virkni:** 1 klukkustund/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 180 fet |
-| **Svæði:** 20 feta radíus/styrkleiki | **Vörn:** Sjá hér að neðan |
+| **Rank:** Cleric 1, Mage 1 | **Casting Time:** 1 Action |
+| **Sphere:** Sun | **Duration:** 1 Hour/Intensity |
+| **Cost:** 1/Intensity | **Range:** 180 ft |
+| **Area:** 20 ft. Radius/Intensity | **Resist:** See Below |
 
-Þegar þessi galdur er kastaður, birtist ljóskúla á stað sem galdramaðurinn velur, sem getur verið á hlut, eða jafnvel í loftinu, og má vísa henni burt af galdramanninum hvenær sem er. Galdurinn hefur virkni í 1 klukkustund fyrir hvern styrkleika. Ef kastað er á veru, fær skotmarkið Willpower-próf til að standast, þar sem árangur gefur til kynna að galdurinn hafi haft áhrif á svæðið beint fyrir aftan veruna en ekki veruna sjálfa. Ef Light er beint á augu veru, leiðir misheppnað Willpower-kast til blindu að hluta með virkni sem jafngildir galdrinum, sem eykur öll færni- og viðnámköst sem krefjast sjónar um eitt erfiðleikastig. Áhrif galdursins eru óhreyfanleg en hægt er að kasta honum á flytjanlegan eða færanlegan hlut.
+When this spell is cast, a globe of light materializes at a spot of the caster's choosing, which may be upon an object, or even in thin air, and may be dismissed by the caster at any time. The spell has a Duration of 1 hour per Intensity. If cast upon a creature, the target is allowed a Willpower test to resist, with a Success indicating that the spell has affected the area directly behind the creature and not the creature itself. If Light is centered upon a creature's eyes, a failed Willpower roll results in partial blindness with a Duration equal to that of the spell, increasing all skill and Resistance rolls requiring sight by one Difficulty Grade. The effects of the spell are immobile but can be cast on a portable or movable object.
 
-_\*Guðleg útgáfa þessa galdurs má snúa við, sem veldur kúlu af algjöru og algeru myrkri, sem virkar á allan hátt eins og Arcane galdurinn [Darkness](0010_Spells.md?id=darkness) með þeirri undantekningu að hann býr yfir minni virkni upp á 30 mínútur fyrir hvern styrkleika._
+*The Divine version of this spell may be reversed, causing a sphere of utter and total darkness, which functions in all ways as the Arcane spell [Darkness](0010_Spells.md?id=darkness) with the exception that it possesses a lesser Duration of 30 minutes per Intensity.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
-| 1 | 1 | 20 feta radíus; 1 klst (30 mín. snúið við) |
-| 2 | 2 | 40 feta radíus; 2 klst (1 klst. snúið við) |
-| 3 | 3 | 60 feta radíus; 3 klst (1½ klst. snúið við) |
-| 4 | 4 | 80 feta radíus; 4 klst (2 klst. snúið við) |
-| +1 | +1 | Halda áfram röð |
+| 1 | 1 | 20 ft. radius; 1 hour (30 min. reversed) |
+| 2 | 2 | 40 ft. radius; 2 hours (1 hour reversed) |
+| 3 | 3 | 60 ft. radius; 3 hours (1½  hours reversed) |
+| 4 | 4 | 80 ft. radius; 4 hours (2 hours reversed) |
+| +1 | +1 | Continue progression |
 
 ---
 #### Lightning Bolt
 
-(Framköllun)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 50 fet/styrkleiki |
-| **Svæði:** 10 feta breið slóð | **Vörn:** Evade |
+| **Rank:** Mage 2 | **Casting Time:** 2 Actions |
+| **Sphere:** None | **Duration:** Instant |
+| **Cost:** 3, +1/additional Intensity | **Range:** 50 ft/Intensity |
+| **Area:** 10 ft. wide path | **Resist:** Evade |
 
-Þegar galdramaðurinn byrjar munnlegu álögurnar og látbragðið á fyrstu umferð kastsins, byrjar rafhleðsla að bogna á milli fingranna. Á seinni umferðinni, þegar álögunni er lokið, sendir galdramaðurinn eldingu frá finguroddi í beinni línu í gegnum öll skotmörk í 10 feta breiðri slóð sem liggur eftir drægni galdursins. Þessi skaði veldur 1d6 stigum af skaða fyrir hverja 2 stig af styrkleika, eða brot af því, á allar fórnarlömb innan áhrifasvæðisins. Þessi skaði er rúllaður einu sinni, og beittur á hvern líkamshluta skotmarksins, þar sem bæði búin og náttúrleg brynja veita enga vernd, en töfrabrynjupunktar draga úr skaða eins og venjulega.
+As the magic-user begins the verbal incantation and gestures on the first Turn of casting, an electrical charge begins arcing between their fingers. On the second Turn, the incantation complete, the magic-user sends a blast of lightning from the tip of a finger arcing in a straight line through all targets in a 10 ft. wide path running the Range of the spell. This damage causes 1d6 points of damage for each 2 points of Intensity, or fraction thereof, to all victims in the Area of Effect. This damage is rolled once, and applied to each of the target's Hit Locations, with both worn and natural armor offering no protection, but magical Armor Points reduce damage as normal.
 
-Árangursríkt Evade-kast, sem leiðir til þess að kasta sér í liggjandi stöðu, gerir fórnarlambinu kleift að hljóta engan skaða. Einhver með Artful Dodger-hæfileikann hefur möguleika á að Evade án þess að liggja, en árangur í því tilviki mun aðeins minnka skaðann um helming, nema þeir séu innan 5 feta frá brún áhrifasvæðisins.
+A successful Evade roll, resulting in throwing oneself prone, allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half, unless they are within 5 feet of the edge of the Area of Effect.
 
-Elding hefur möguleika á að kveikja í eldfimum efnum sem jafngildir rúlluðum skaða x1%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar. Elding getur einnig mulið eða eyðilagt ólífræna hluti af hreinum höggkrafti.
+Lightning has a chance of igniting flammable materials equal to the damage rolled x1%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information. Lightning may also shatter or destroy inanimate objects from sheer impact.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
-| 1 | 3 | 50 feta drægni; 1d6 skaði |
-| 2 | 4 | 100 feta drægni; 1d6 skaði |
-| 3 | 5 | 150 feta drægni; 2d6 skaði |
-| 4 | 6 | 200 feta drægni; 2d6 skaði |
-| 5 | 7 | 250 feta drægni; 3d6 skaði |
-| 6 | 8 | 300 feta drægni; 3d6 skaði |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 50 ft. Range; 1d6 damage |
+| 2 | 4 | 100 ft. Range; 1d6 damage |
+| 3 | 5 | 150 ft. Range; 2d6 damage |
+| 4 | 6 | 200 ft. Range; 2d6 damage |
+| 5 | 7 | 250 ft. Range; 3d6 damage |
+| 6 | 8 | 300 ft. Range; 3d6 damage |
+| +1 | +1 | Continue progression |
 
 ---
-#### Locate Object \(R\)
+#### Locate Object (R)
 
-(Spásagnagaldur)
+(Divination)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2, Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Spásögn | **Virkni:** 1 mínúta/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** 60 fet/styrkleiki | **Vörn:** NA |
+| **Rank:** Cleric 2, Mage 2 | **Casting Time:** 1 Action |
+| **Sphere:** Divination | **Duration:** 1 Minute/Intensity |
+| **Cost:** 1/Intensity | **Range:** 0 |
+| **Area:** 60 ft/Intensity | **Resist:** NA |
 
-Með kast á Locate Object, er galdramanninum beint að þekktum eða kunnuglegum hlut, og hann skynjar áttina að hlutnum þegar galdramaðurinn stendur og snýr sér hægt. Hluturinn verður þó að vera innan áhrifasvæðis galdursins. Hluturinn getur verið hvaða almennur hlutur sem er eins og rúm, kista, stigi, eða gull til dæmis, og galdurinn mun beina galdramanninum að næstu framsetningu þess hlutar. Sérstakir hlutir hins vegar, svo sem langsverð Tashana, krefjast þess að galdramaðurinn hafi nákvæma andlega mynd, hafi annaðhvort séð það í persónu innan 30 feta, eða með töfrandi hætti. Þess vegna má ekki finna persónulegan eða einstakan hlut með þessum galdri nema galdramaðurinn þekki hann. Galdurinn getur ekki fundið lifandi eða ólífrænar verur.
+With the casting of Locate Object, the caster is directed to a known or familiar item, sensing the direction to the object as the caster stands and slowly turns. The object must be within the spell's area of effect, however. The object may be any generic item such as a bed, chest, stairwell, or gold for example, and the spell will direct the caster towards the nearest representation of that object. Specific items on the other hand, such as Tashana's long sword, require that the caster have an accurate mental image, having either seen it in person within 30 feet, or through magical means. Therefore, a personal or unique item may not be located using this spell unless the caster is familiar with it. The spell cannot locate living or non-living creatures.
 
-Andhverfa þessa galdurs, Obscure Object, hylur einn hlut fyrir greiningu með töfrum, svo sem kristalskúlum, Detect Magic, og svo framvegis, fyrir sömu virkni.
+The reverse of this spell, Obscure Object, conceals one item from detection by magical means, such as crystal balls, Detect Magic, and so on, for the same Duration.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
-| 1 | 1 | 1 mín.; 60 feta radíus |
-| 2 | 2 | 2 mín.; 120 feta radíus |
-| 3 | 3 | 3 mín.; 180 feta radíus |
-| 4 | 4 | 4 mín.; 240 feta radíus |
-| +1 | +1 | Halda áfram röð |
+| 1 | 1 | 1 min.; 60 ft. radius |
+| 2 | 2 | 2 min.; 120 ft. radius |
+| 3 | 3 | 3 min.; 180 ft. radius |
+| 4 | 4 | 4 min.; 240 ft. radius |
+| +1 | +1 | Continue progression |
 
 ---
 #### Mage Lock
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Varanleg |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 hlið | **Vörn:** NA |
+| **Rank:** Mage 2 | **Casting Time:** 1 Action |
+| **Sphere:** None | **Duration:** Permanent |
+| **Cost:** 3, +1/additional Intensity | **Range:** Touch |
+| **Area:** 1 Portal | **Resist:** NA |
 
-Þennan galdur má kasta á hvaða læsanlegan hlut sem er eins og kistu, hurð, hlið, eða jafnvel læsanlega bók. Hluturinn, sem getur verið allt að 25 heilsu-punktar fyrir hvern styrkleika, er varanlega innsiglaður nema hann sé barinn opinn. Dispel Magic kastað á styrkleika sem er meiri en Stærð galdursins mun aðeins gera það opið í eina umferð, og Knock má nota til að opna Mage Locked hurð tímabundið í 10 mínútur, eftir það heldur upprunalegi galdurinn áfram. Ólíkt Secure Portal, eru Mage Locked hlutir ekki sjálfkrafa truflaðir af verum utan úr frumefnisheimi svo sem djöflum, illar verur, englum, og elementals, eða þeim sem nota efnisskiptagaldra.
+This spell may be cast on any lockable object such as a chest, door, portal, or even a lockable tome. The object, which may be up to 25 Hit Points per Intensity, is permanently sealed unless battered open. Dispel Magic cast at an Intensity greater than the spell's Magnitude will only render it open for one Round, and Knock may be used to temporarily open a Mage Locked door for 10 minutes, after which the original spell continues. Finally, a magic-user of a higher Rank than the original caster may freely pass through a Mage Locked door without breaking the Enchantment, and they may even hold the portal for others. Unlike Secure Portal, Mage Locked objects are not automatically disrupted by creatures from beyond the prime material plane such as demons, devils, angels, and elementals, or those using material passing spells.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
-| 1 | 3 | allt að 25 hp hlið; hlekkir, lásar, dæmigerð trékista eða hurð |
-| 2 | 4 | allt að 50 hp hlið; viðarstyrkt kista eða hurð |
-| 3 | 5 | allt að 75 hp hlið; járnkista, hurð eða portkullis |
-| 4 | 6 | allt að 120 hp hlið; lítið kastalahlið |
-| 5 | 7 | allt að 150 hp hlið; stórt, styrkt kastalahlið |
+| 1 | 3 | up to 25 HP portal; shackles, paddle locks, a typical wooden chest or door |
+| 2 | 4 | up to 50 HP portal; a wooden reinforced chest or door |
+| 3 | 5 | up to 75 HP portal; an iron chest, door, or portcullis |
+| 4 | 6 | up to 120 HP portal; a small castle gate |
+| 5 | 7 | up to 150 HP portal; a large, reinforced castle gate |
 
 ---
 #### Magic Missile
 
-(Framköllun)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 100 fet/styrkleiki |
-| **Svæði:** 1-5 skotmörk | **Vörn:** Sjá hér að neðan |
+| **Rank:** Mage 1 | **Casting Time:** 1 Action |
+| **Sphere:** None | **Duration:** Instant |
+| **Cost:** 1/Intensity | **Range:** 100 ft/Intensity |
+| **Area:** 1-5 Targets | **Resist:** See Below |
 
-Þegar þessi galdur er kastaður, skjótast eitt eða fleiri flugskeyti af töfraorku úr fingurgómum galdramannsins og slá skotmark. Hámarksfjöldi flugskeyta sem hægt er að búa til byggist á stigi Arcane Casting-færni galdramannsins, þar sem annað flugskeyti er búið til við 60% færni, þriðja við 70%, fjórða við 80%, og fimmta og síðasta flugskeyti við 90%. Til að búa til þessi flugskeyti verður galdurinn að vera kastaður á styrkleika sem jafngildir fjölda flugskeyta sem óskað er eftir. Til dæmis, undir 60%, galdramaður sem kastar Magic Missile á 3 styrkleika myndi ná lengri drægni, hins vegar aðeins eitt flugskeyti yrði búið til. Galdramaður á færnistigi 70% gæti kastað galdrinum á sama 3 styrkleika og náð sömu drægni en fær um að búa til 3 flugskeyti. Þessi galdur hefur hámarksstyrkleika upp á 5. Sjá töfluna hér að neðan.
+When this spell is cast, one or more missiles of magical energy dart forth from the magic-user's fingertips and strike a target. The maximum number of missiles that may be generated is based on the caster's Arcane Casting skill level, with a second missile being generated at 60% skill, a third at 70%, fourth at 80%, and a fifth and final missile at 90%. To generate these missiles, the spell must be cast at an Intensity equal to the number of missiles desired. For example, at below 60%, a magic-user that casts Magic Missile at 3 Intensity would achieve the longer Range, however only a single missile will be generated. A magic-user of skill level 70% could cast the spell at the same 3 Intensity and attain the same Range but able to generate 3 missiles. This spell has a Maximum Intensity of 5. See the table below.
 
-Magic Missile mun slá óbrigðult, jafnvel þótt skotmarkið sé í bardaga eða hafi hlutavernd. Þessi flugskeyti má ekki forðast (evade); hins vegar er ekki hægt að miða á andstæðing í algjörri vernd með þessum galdri. Shield-galdurinn mun sjálfkrafa verja Magic Missiles að því gefnu að skotmarkið sé meðvitað og/eða snúi að galdramanninum. Magic Missiles valda 1d6+1 punkta skaða og búin brynja verndar ekki, en náttúrleg brynja veru eða töfrabrynjupunktar draga úr skaða eins og venjulega. Magic Missiles valda engum skaða á ólífræna hluti eins og hurðir, lásar og svo framvegis.
+A Magic Missile will strike unerringly, even if the target is in melee combat or has partial cover. These missiles may not be evaded; however, an opponent in total cover cannot be targeted with this spell. The Shield spell will automatically deflect Magic Missiles assuming the target is aware and/or facing the caster. Magic Missiles do 1d6+1 points of damage and worn armor does not protect, but a creature's natural armor or magical Armor Points reduce damage as normal. Magic Missiles cause no damage to inanimate objects such as doors, locks, and so forth.
 
-Þegar skotið er mörgum flugskeytum, getur galdramaðurinn látið þau slá eina veru, eða miða á nokkrar verur. Hvert Magic Missile mun slá handahófskenndan líkamshluta - ekki er hægt að miða á tiltekna líkamshluta. Galdramaðurinn verður að tilnefna einstök skotmörk fyrir hvert flugskeyti áður en rúllað er fyrir skaða.
+When shooting multiple missiles, the caster may have them strike a single creature, or target several creatures. Each Magic Missile will strike a random Hit Location - specific Hit Locations may not be targeted. The caster must designate individual targets of each missile before they roll for damage.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Intensity | Cost | Variable Effect |
 | :-: | :-: | :-- |
-| 1 | 1 | 100 feta drægni; 1 flugskeyti |
-| 2 | 2 | 200 feta drægni; 2 flugskeyti ef 60% færni |
-| 3 | 3 | 300 feta drægni; 3 flugskeyti ef 70% færni |
-| 4 | 4 | 400 feta drægni; 4 flugskeyti ef 80% færni |
-| 5 hámark | 5 | 500 feta drægni; 5 flugskeyti ef 90% færni |
+| 1 | 1 | 100 ft. Range; 1 missile |
+| 2 | 2 | 200 ft. Range; 2 missiles if 60% skill |
+| 3 | 3 | 300 ft. Range; 3 missiles if 70% skill |
+| 4 | 4 | 400 ft. Range; 4 missiles if 80% skill |
+| 5 max. | 5 | 500 ft. Range; 5 missiles if 90% skill |
 
 ---
 #### Magic Mouth
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 1 mínúta |
-| **Svið:** Ekkert | **Virkni:** Sjá hér að neðan |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 30 fet |
-| **Svæði:** 1 hlutur | **Vörn:** NA |
+| **Rank:** Mage 2 | **Casting Time:** 1 Minute |
+| **Sphere:** None | **Duration:** See Below |
+| **Cost:** 3, +1/additional Intensity | **Range:** 30 ft |
+| **Area:** 1 Object | **Resist:** NA |
 
-Þessi galdur skapar munn á hlut, sem birtist töfrandi þegar hann er settur af stað af tiltekinni atburði eða tíma sem galdramaðurinn tilnefnir þegar galdrinum er kastað. Þessi munnur mun síðan mæla þá fyrirfram ákveðnu setningu sem galdramaðurinn valdi við kastið. Þessi setning má ekki vera meira en 25 orð og er mælt af munninum á hraða sem er um 1 orð á sekúndu. Munnurinn má ekki mæla kraftsorð eða kasta göldrum.
+This spell creates a mouth on an item or object, which magically appears when triggered by a specific event or time appointed by the magic-user when the spell is first cast. This mouth will then speak whatever predefined phrase the caster chose at the time of the casting. This phrase must consist of no more than 25 words and are spoken by the mouth at a rate of roughly 1 word per second. The mouth may not speak words of power or cast spells.
 
-Þennan galdur má kasta á hvaða venjulega ólífræna hlut sem er, allt frá súlu eða tré, til steinsveggs eða kistu; hins vegar er hann sérstaklega áhrifaríkur þegar kastað er á styttu, þar sem styttan sjálf myndi líta út eins og hún væri að tala. Ekki er hægt að kasta honum á neina lifandi veru með hvers kyns greind eða eðlishvöt. Þetta á við um þá sem áður voru lifandi. Þegar kastað er þessum galdri ákvarðar galdramaðurinn aðstæðurnar sem munu kveikja á heilluninni. Hægt er að hanna hann til að kveikjast í gegnum allt frá töluðu orði til sköpunar hvers kyns hávaða. Hann gæti verið eins almennur og „þegar næsta manneskja kemur inn í þetta herbergi…“ til eins sérstaks og, „þegar kvenkyns klerkur af Sedona kemur innan 10 feta frá styttunni við enda gangsins á laugardegi…“. Kveikjuáhrifin geta ekki verið eitthvað sem ekki er hægt að greina án töfra, svo sem ósýnileg vera, samstaða veru, færni, Class, osfrv. Hins vegar gæti hann tilnefnt klæðnað sem borinn er. Hámarksfjarlægðin sem galdurinn getur kveikst á er 25 fet fyrir hvern styrkleika.
+This spell may be cast upon any normally inanimate object, from a pillar or tree, to a stone wall or a chest; however, it is particularly effective when cast on a statue, as the statue itself would look as if speaking. It cannot be cast on any living creature with any form of Intelligence or Instinct. This applies to those that were formerly alive. When casting this spell, the magic-user determines the situation that will activate the enchantment. It can be designed to trigger via anything from a spoken word to the creation of any noise. It could be as general as 'when the next person enters this room…' to as specific as, 'when a female Cleric of Sedona comes within 10 feet of the statue at the end of the hall on a Saturday…'. The triggering effect cannot be something that cannot be discerned non-magically, such as an invisible creature, a creature's Alignment, skill, Class, etc. However, it could designate clothing worn. The maximum distance that the spell can be triggered is 25 feet per Intensity.
 
-Virkni þessa galdurs er varanleg þar til heillunin er virkjuð og síðan lýkur galdrinum.
+This spell's Duration is permanent until the enchantment is activated and then the spell ends.
 
 ---
 #### Magic Tricks
 
-(Galdraefni)
+(Conjuration)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Einbeiting |
-| **Kostnaður:** 1 | **Drægni:** 0 |
-| **Svæði:** 30 feta radíus | **Vörn:** Engin |
+| **Rank:** Mage 0 | **Casting Time:** 1 Action |
+| **Sphere:** None | **Duration:** Concentration |
+| **Cost:** 1 | **Range:** 0 |
+| **Area:** 30 ft. Radius | **Resist:** None |
 
-Magic Tricks eru frábær skemmtun meðal almennings, þeirra sem eiga undir högg að sækja, og sérstaklega barna. Sum áhrif sem venjulega eru sköpuð með Magic Tricks eru vindpúst til að láta kerti flökta, að draga silfurpening aftan úr eyra barns, láta blóm fljótt blómstra, framkvæma kortabrögð, búa til draugalega tónlist sem kemur úr engu, og svo framvegis. Magic Tricks geta ekki valdið neinum skaða eða neinni truflun í bardaga en gætu verið notuð til að halda mannfjölda uppteknum á meðan restin af hópnum laumast framhjá.
+Magic Tricks are a great form of entertainment among the common folk, downtrodden, and most especially children. Some effects commonly created with Magic Tricks include puffs of wind to flicker candles, pulling a silver piece from behind a child's ear, causing a flower to quickly bloom, performing card tricks, creating eerie ethereal music that issues from nowhere, and so forth. Magic Tricks are unable to cause even a single point of damage or any amount of distraction in combat but could be used to keep a crowd occupied while the rest of the party sneaks past.
 
 ---
 #### Meteor Shower
 
-(Framköllun)
+(Evocation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 5 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Ekkert | **Virkni:** Augnablik |
-| **Kostnaður:** 3/styrkleiki | **Drægni:** 20 fet/styrkleiki |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Evade |
+| **Rank:** Mage 5 | **Casting Time:** 2 Actions |
+| **Sphere:** None | **Duration:** Instantaneous |
+| **Cost:** 3/Intensity | **Range:** 20 ft/Intensity |
+| **Area:** See Below | **Resist:** Evade |
 
-Þegar galdramaðurinn kastar þessum galdri, streyma tveir ör-loftsteinar fyrir hvert stig af styrkleika frá útréttri hendi. Loftsteinarnir sveigjast í átt að skotmarkinu sínu, lenda á niðurleið, og skilja eftir sig slóð af neistum og ösku. Við lendingu springa þeir í mörgum eldgosum í kringum skotpunktinn. Fyrsti loftsteinninn slær alltaf á tilnefndan stað, á meðan allir viðbótarloftsteinar slá af handahófi í kringum hann, hver með sprengjuradíus upp á 30 fet. Til að ákvarða hvar þeir lenda, rúllaðu 1d8 fyrir áttina.
+When the magic-user casts this spell, two micro-meteors per level of Intensity streak from the outstretched hand. The meteors arc toward their target, impacting on a downward trajectory, leaving a trail of sparks and cinders in their wake. Upon impact, they detonate in multiple fiery explosions around the target point. The first meteor always strikes the targeted location, while any additional meteors strike randomly around it, each with an explosive radius of 30 feet. To determine where they hit, roll 1d8 for the direction.
 
 <div style="text-align: center;">
     <img src="_media/CFI_10_Meteor_Shower_Grid.png" style="width: 25%;" />
 </div>
 
-Hver loftsteinn veldur 1d10 punkta af eldsskaða á þá sem eru á áhrifasvæðinu. Hins vegar, vegna radíuss hverrar sprengingar, munu margir skarast og valda viðbótarskaða á þá sem eru svo óheppnir að lenda í þeim. Skaðaköstunum er blandað saman og beitt á hvern líkamshluta skotmarksins, þar sem búin brynja veitir enga vernd, en töfrabrynjupunktar eða náttúrleg brynja veru draga úr skaða eins og venjulega.
 
-Árangursríkt Evade-kast gerir fórnarlambinu kleift að hljóta engan skaða. Einhver með Artful Dodger-hæfileikann hefur möguleika á að Evade án þess að liggja, en árangur í því tilviki mun aðeins minnka skaðann um helming, nema þeir séu innan 5 feta frá brún áhrifasvæðisins.
+Each meteor does 1d10 points of fire damage to those in the Area of Effect. However, due to the radius of each explosion, many will overlap, doing additional damage to those unfortunate enough to get caught by them. The damage rolls are combined and applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
-Allir, þar með talið þeir sem eru utan áhrifasvæðisins en innan 60 feta frá lendingarstað, eru krafðir um að standast Athletics-kast til að haldast standandi.
+A successful Evade roll allows the victim to suffer no damage. Someone with the Artful Dodger Ability has the option to Evade without going prone, but a Success in this case will only reduce damage by half, unless they are within 5 feet of the edge of the Area of Effect.
 
-Meteor Shower hefur möguleika á að kveikja í eldfimum efnum sem jafngildir rúlluðum skaða x5%. Sjá kaflann um [Elda](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
+Everyone, including those outside the Area of Effect but within 60 feet of an impact point, are required to succeed at an Athletics roll to remain standing.
+
+Meteor Shower has a chance of igniting flammable materials equal to the damage rolled x5%. See the section on [Fires](0007_Game_System.md?id=fire-based-attacks) for additional information.
 
 ---
 #### Might
 
-(Umbreytingagaldur)
+(Transmutation)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Bardagi | **Virkni:** Kveikja |
-| **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** Engin |
+| **Rank:** Cleric 0, Mage 0 | **Casting Time:** 1 Action |
+| **Sphere:** Combat | **Duration:** Trigger |
+| **Cost:** 1 | **Range:** Touch |
+| **Area:** 1 Target | **Resist:** None |
 
-Might gerir viðtakandanum kleift að taka þátt í áhrifamiklu líkamlegu afli með því að bæta POW galdramannsins við Brawn-færni viðtakandans. Hann eykur ekki skaðabónus karakterins þegar bardagaskaði er valdur.
+Might allows the recipient to engage in an impressive act of physical brute force, by adding the caster's MÁT to the recipient's Brawn skill. It does not increase the character's Damage Modifier when inflicting combat damage.
 
 ---
 #### Mirror Image
 
-(Töfrandi)
+(Illusion)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 2 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** 3 umferðir/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** 5 feta radíus | **Vörn:** NA |
+| **Rank:** Mage 2 | **Casting Time:** 1 Action |
+| **Sphere:** None | **Duration:** 3 Rounds/Intensity |
+| **Cost:** 1/Intensity | **Range:** 0 |
+| **Area:** 5 ft. Radius | **Resist:** NA |
 
-Þegar þessi galdur er kastaður birtast 2d4 afrit af galdramanninum innan 5 feta radíuss, sem líkja nákvæmlega eftir hreyfingum galdramannsins. Að auki titrar allt áhrifasvæðið og glitrar, sem gerir nákvæma staðsetningu galdramannsins ómögulega að ákvarða. Að slá eitt af tálsýnarafritunum veldur því að það hverfur; hins vegar hafa eftirstandandi myndir engin áhrif. Að slá galdramanninn hefur engin áhrif á eftirstandandi myndir og þar sem myndirnar eru alltaf að breytast er engin leið að vita hvort skotmarkið sé raunverulegi galdramaðurinn ef ráðist er á aftur. Hvers kyns meiðsli sem galdramaðurinn verður fyrir eru afrituð á myndirnar líka. Það eru fjölmargar leiðir sem leikstjórinn getur notað til að ákvarða hvort raunverulegur galdramaður hafi verið sleginn eða ein af myndunum. Ein er að ákvarða hversu mörg möguleg skotmörk eru í boði, þar með talið galdramaðurinn, og rúlla teningi af næsta gildi. Til dæmis, með 4 myndum og galdramanninum, ætti árásarmaðurinn að rúlla 1d6, rúlla upp á nýju ef 6 kemur upp, þar sem galdramaðurinn verður sleginn á kasti upp á 1. Önnur væri að hafa nokkra merkja jafn marga og fjöldi mögulegra skotmarka, merkja einn sem galdramanninn. Merki er dregið í hvert skipti sem árás er gerð og ef skotmarkið er slegið er skaðinn notaður; annars hverfur mynd, sem fjarlægir eitt af merkjunum. Myndirnar hverfa í lok virkni galdursins.
+When this spell is cast, 2d4 duplicates of the magic-user appear within a 5 ft. radius, exactly mimicking the caster's movements. In addition, the entire Area of Effect wavers and shimmers, making the caster's exact location impossible to ascertain. Striking one of the illusionary images causes it to vanish; however, the remaining images are unaffected. Striking the caster has no effect on the remaining images and as the images are always shifting, there is no way of knowing if the target is the real caster if attacked again. Any injuries suffered by the caster are duplicated on the images as well. There are numerous ways the Games Master can determine if the actual caster has been struck or one of the images. One is to determine how many potential targets are available, including the caster, and roll a die of the closest denomination. For example, with 4 images and the caster, the attacker should roll 1d6, re-rolling a result of 6, with the caster being hit on a roll of 1. Another would be to have several markers equal to the number of potential targets, marking one as being the caster. A marker is drawn each time an attack is made and if the target is hit, damage is applied; otherwise, an image disappears, removing one of the markers. The images vanish at the end of the spell's Duration.
 
----
-#### Neutralize Poison \(R\)
+---#### Hlutleysa eitur (R)
 
-(Necromancy)
+(Dauðagaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 3 | **Kasttími:** 1 umferð |
-| **Svið:** Lækning | **Virkni:** Varanleg |
+| **Stig:** Klerkur 3 | **Töfrahæfingartími:** 1 umferð |
+| **Svið:** Lækning | **Lengd:** Varanleg |
 | **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA (Endurance) |
+| **Svæði:** 1 skotmark | **Viðnám:** NA (ÞOL) |
 
-Þessi galdur gerir galdramanninum kleift að ógilda áhrif eiturs eða eitrunar sem hrjáir veru og má nota til að lækna einstakling sem hefur „dáið“ af eitrun ef notað er innan 10 mínútna frá dauða. Eitt stig af styrkleika er krafist fyrir hverja 30 Potency af eitrinu sem veldur. Neutralize Poison má einnig nota til að ógilda eitrið sem framleitt er af eitraðri veru eins og snák eða skorpíón þannig að hún verði ekki fær um að eitra aðra: þetta krefst 1 styrkleika fyrir hverja 30 Potency og þegar notað er á þennan hátt hefur það virkni upp á 24 klukkustundir. Að lokum má nota Neutralize Poison á eitruð eða annars menguð efni, meðhöndla 5 lbs. af föstum efnum eða 2 gallón af vökva fyrir hvern styrkleika.
+Þessi galdur gerir töframanninum kleift að eyða áhrifum eiturs sem hrjáir veru og má nota til að lækna einstakling sem hefur „dáið“ úr eitrun ef galdurinn er notaður innan 10 mínútna frá dauðanum. Eitt stig styrkleika er krafist fyrir hver 30 stig í máttarstyrk eitursins. Hlutleysa eitur má einnig nota til að ógilda eitrið sem eitraðar verur, svo sem snákar eða sporðdrekar, framleiða, þannig að þær geti ekki eitrað aðra: þetta krefst 1 styrkleikastigs fyrir hver 30 stig í máttarstyrk og þegar það er notað á þennan hátt er lengd galdursins 24 klukkustundir. Að lokum má nota Hlutleysa eitur á eitruð eða á annan hátt spillt efni, þar sem meðhöndla má 5 pund af föstum efnum eða 2 lítra af vökva fyrir hvert styrkleikastig.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | Lækna fórnarlamb POT 1-30 eiturs; ógilda eitraða veru af POT 1-30; meðhöndla allt að 5 lbs. af eitruðum föstum efnum, eða 2 gallón af vökva |
-| 2 | 4 | Lækna fórnarlamb POT 31-60 eiturs; ógilda eitraða veru af POT 31-60; meðhöndla allt að 10 lbs. af eitruðum föstum efnum, eða 4 gallón af vökva |
-| 3 | 5 | Lækna fórnarlamb POT 61-90 eiturs; ógilda eitraða veru af POT 61-90; meðhöndla allt að 15 lbs. af eitruðum föstum efnum, eða 6 gallón af vökva |
-| 4 | 6 | Lækna fórnarlamb POT 91-120 eiturs; ógilda eitraða veru af POT 91-120; meðhöndla allt að 20 lbs. af eitruðum föstum efnum, eða 8 gallón af vökva |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | Lækna fórnarlamb af 1-30 POT eitri; ógilda eitraða veru með 1-30 POT; meðhöndla allt að 5 pund af eitruðum föstum efnum, eða 2 lítra af vökva |
+| 2 | 4 | Lækna fórnarlamb af 31-60 POT eitri; ógilda eitraða veru með 31-60 POT; meðhöndla allt að 10 pund af eitruðum föstum efnum, eða 4 lítra af vökva |
+| 3 | 5 | Lækna fórnarlamb af 61-90 POT eitri; ógilda eitraða veru með 61-90 POT; meðhöndla allt að 15 pund af eitruðum föstum efnum, eða 6 lítra af vökva |
+| 4 | 6 | Lækna fórnarlamb af 91-120 POT eitri; ógilda eitraða veru með 91-120 POT; meðhöndla allt að 20 pund af eitruðum föstum efnum, eða 8 lítra af vökva |
+| +1 | +1 | Halda áfram framgangi |
 
-Þegar snúið er við, Inflict Poison gerir galdramanninum kleift að framleiða banvænt eitur í fórnarlambi. Þetta eitur er ítarlegt hér að neðan.
+Þegar honum er snúið við, gerir Valda eitri töframanninum kleift að framleiða banvænt eitur í fórnarlambi. Þetta eitur er útskýrt hér að neðan.
 
-#### Arcane Poison
+#### Töfraeitur
 
 - **Notkun:** Snerting
-- **Potency:** jafn styrkleika x30
-- **Viðnám:** Endurance
-- **Tími þar til byrjar:** 1d2+1 umferðir
-- **Virkni:** 1d3x10 mínútur
-- **Skilyrði:** Fórnarlömb byrja með kvöl í 2 umferðir áður en köfnun slær til, venjulega leiðir til dauða, nema töfrandi meðferð með annaðhvort Slow eða Neutralize Poison sé beitt.
-- **Móteitur/Lækning:** Ekkert nema töfrandi meðferð.
+- **Máttarstyrkur:** jafnt og styrkleiki x30
+- **Viðnám:** ÞOL
+- **Upphafstími:** 1d2+1 umferðir
+- **Lengd:** 1d3x10 mínútur
+- **Skilyrði:** Fórnarlömb byrja með kvöl í 2 umferðir áður en köfnun hefst, sem venjulega leiðir til dauða, nema meðhöndlað sé með galdri eins og Hægja eða Hlutleysa eitur.
+- **Móteitur/Lækning:** Engin önnur en galdrameðferð.
 
 ---
-#### Part Water
+#### Parta vatni
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 4 | **Kasttími:** 10 mínútur |
-| **Svið:** Elemental (Vatn) | **Virkni:** 10 mínútur/styrkleiki |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 60 fet/styrkleiki |
-| **Svæði:** Sjá hér að neðan | **Vörn:** NA |
+| **Stig:** Klerkur 4 | **Töfrahæfingartími:** 10 mínútur |
+| **Svið:** Frumefni (Vatn) | **Lengd:** 10 mínútur/styrkleikastig |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 60 fet/styrkleikastig |
+| **Svæði:** Sjá hér að neðan | **Viðnám:** NA |
 
-Þessi galdur gerir galdramanninum kleift að skipta vatni eða öðrum formum af vökva, og búa til örugga leið sem má síðan fara yfir ef óskað er. Galdurinn skapar trog 100 fet breitt, með dýpt 10 fet fyrir hvern styrkleika, og lengd 120 fet fyrir hvern styrkleika. Þess vegna, ef kastað er á styrkleika 4, væri skiptingin 40 fet djúp, 480 fet löng, með breidd 100 fet. Hægt er að enda galdurinn fyrir tímann af galdramanninum, annars heldur hann áfram þar til virkni hans rennur út. Þennan galdur má kasta neðansjávar, sem skapar í staðinn „gang“ af lofti með sömu málum og nefnd eru hér að ofan. Að lokum má Part Water kasta árásargjarnt á veru eins og vatns-elemental, og ef svo er, veldur það 10 stigum af skaða fyrir hvert stig af styrkleika. Að því gefnu að veran lifi af, verður hún að standast Willpower-viðnámkast eða flýja galdramanninn í 3d4 mínútur.
+Þessi galdur gerir töframanninum kleift að skipta vatni eða annars konar vökva, og skapa örugga leið sem síðan má fara um ef vill. Galdurinn skapar trog sem er 100 fet á breidd, með 10 feta dýpi fyrir hvert styrkleikastig og 120 feta lengd fyrir hvert styrkleikastig. Því, ef galdurinn er notaður með 4. stigs styrkleika, væri skiptingin 40 fet djúp, 480 fet löng og 100 fet breið. Töframaðurinn getur bundið enda á galdurinn fyrr, annars varir hann þar til lengd hans rennur út. Þennan galdur má nota neðansjávar, sem skapar þess í stað „göng“ af lofti með sömu málum og tilgreind eru hér að ofan. Að lokum má nota Parta vatni á sóknargleðinn hátt gegn veru eins og vatnsanda, og ef svo er, veldur það 10 punkta skaða fyrir hvert styrkleikastig. Að því gefnu að veran lifi af, verður hún að standast MÁT-viðnámskast eða flýja töframanninn í 3d4 mínútur.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
 | 1 | 3 | 10 mín.; 60 feta drægni; 100 fet breitt; 10 fet djúpt; 120 fet langt |
 | 2 | 4 | 20 mín.; 120 feta drægni; 100 fet breitt; 20 fet djúpt; 240 fet langt |
 | 3 | 5 | 30 mín.; 180 feta drægni; 100 fet breitt; 30 fet djúpt; 360 fet langt |
 | 4 | 6 | 40 mín.; 240 feta drægni; 100 fet breitt; 40 fet djúpt; 480 fet langt |
 | 5 | 7 | 50 mín.; 300 feta drægni; 100 fet breitt; 50 fet djúpt; 600 fet langt |
-| +1 | +1 | Halda áfram röð |
+| +1 | +1 | Halda áfram framgangi |
 
 ---
-#### Permanency
+#### Varanleiki
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 4 | **Kasttími:** 1 aðgerð |
-| **Svið:** Ekkert | **Virkni:** Varanleg |
-| **Kostnaður:** 3, +2 EXP | **Drægni:** Sjá hér að neðan |
-| **Svæði:** Sjá hér að neðan | **Vörn:** NA |
+| **Stig:** Magi 4 | **Töfrahæfingartími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Varanleg |
+| **Kostnaður:** 3, +2 REYNSLA | **Drægni:** Sjá hér að neðan |
+| **Svæði:** Sjá hér að neðan | **Viðnám:** NA |
 
-Kast á þessum galdri breytir virkni sumra annarra galdra í Varanlega. Til að nota þennan galdur mun galdramaðurinn fyrst kasta galdrinum sem á að gera varanlegan. Hins vegar, við lok kastsins á þeim galdri er honum haldið aftur, og viðbótaraðgerðarpunkti er eytt í að kasta Permanency, eftir það er valinn galdur kastaður í varanlegu formi. Hver galdur sem gerður er varanlegur kostar galdramanninn 2 Experience-köst auk nefndra 3 töfrapunkta, til viðbótar við venjulegan kastkostnað upprunalega galdursins. Að láta Dispel Magic kasta á meðan kastað er Permanency ekki aðeins eyðir Permanency, heldur upprunalega galdrinum líka.
+Notkun þessa galdurs breytir lengd tiltekinna annarra galdra í varanlega. Til að nota þennan galdur mun galdranotandinn fyrst kasta galdrinum sem á að gera varanlegan. Hins vegar, við lokun á notkun þess galdurs er honum haldið aftur og einni viðbótar-aðgerðarpunkti er eytt í að kasta Varanleika, eftir það er valdi galdurinn kastaður í sinni varanlegu mynd. Hver galdur sem gerður er varanlegur kostar töframanninn 2 reynsluköst sem og tiltekna 3 töfrapunkta, til viðbótar við venjulegan kostnað við upprunalega galdurinn. Ef Eyða galdri er kastað á meðan Varanleika er kastað, eyðir það ekki aðeins Varanleika, heldur einnig upprunalega galdrinum.
 
-Permanency er einnig lykilatriði við sköpun töfrahluta með galdrinum Enchant Item. Til viðbótar við galdrana sem nefndir eru hér að neðan, gætu aðrir galdrar verið gerðir varanlegir með leyfi leikstjóra.
+Varanleiki er einnig lykilnotkun við gerð töfragripa með galdrinum Töfrum hlut. Til viðbótar við galdrana sem taldir eru upp hér að neðan, er hægt að gera aðra galdra varanlega með leyfi spilastjóra.
 
-Eftirfarandi persónulegu galdrar, þeir sem hafa áhrif á galdramanninn eingöngu, munu njóta góðs af þessum galdri. Þeir má ekki gera varanlega á öðrum verum:
+Eftirfarandi persónulegu galdrar, þeir sem hafa aðeins áhrif á töframanninn, munu njóta góðs af þessum galdri. Ekki er hægt að gera þá varanlega á öðrum verum:
 
-- Avert	
-- Coordination
-- Darkvision	
-- Deflect	
-- Detect Evil
-- Detect Invisibility
-- Detect Magic
-- Glamour
-- Know Languages
-- Might
-- Preserve
-- Protection (Self)
-- Protection from Evil
-- Read Magic
-- Tongues
+- Forðast
+- Samhæfing
+- Myrksjón
+- Afvega
+- Uppgötva illsku
+- Uppgötva ósýnileika
+- Uppgötva töfra
+- Glamúr
+- Kunna tungumál
+- Máttur
+- Varðveita
+- Vernd (Sjálf)
+- Vernd gegn illsku
+- Lesa töfra
+- Tungur
 
 
-Permanency-galdurinn má einnig nota til að gera eftirfarandi galdra, sem kastað er á aðrar verur, hluti, eða svæði, varanlega. Galdrar merktir með stjörnu (*) má aðeins gera varanlega á hlut eða svæði.
+Varanleika galdurinn má einnig nota til að gera eftirfarandi galdra, sem kastað er á aðrar verur, hluti eða svæði, varanlega. Galdrar merktir með stjörnu má aðeins gera varanlega á hlut eða svæði.
 
-- Chill
-- Cleanse
-- Dancing Lights\*
-- Fear
-- Invisibility
-- Polish \*
-- Preserve
-- Tidy \*
-- Magic Mouth \*
-- Wall of Fire\* 
-- Web \* |
+- Kuldi
+- Hreinsa
+- Dansandi ljós\*
+- Ótti
+- Ósýnileiki
+- Pússa \*
+- Varðveita
+- Snyrta \*
+- Töfrandi munnur \*
+- Eldveggur \* |
 
 
 ---
-#### Pet
+#### Gæludýr
 
-(Töfrandi (Heillun))
+(Töfrandi (heilla))
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Dýr | **Virkni:** Einbeiting |
+| **Stig:** Magi 0 | **Töfrahæfingartími:** 1 aðgerð |
+| **Svið:** Dýr | **Lengd:** Einbeiting |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 dýr | **Vörn:** Willpower |
+| **Svæði:** 1 dýr | **Viðnám:** Viljastyrkur |
 
-Pet gerir galdramanninum kleift að taka andlega stjórn á lítilli veru, senda hana út til að njósna, sækja, eða framkvæma einhverja aðra flókna verkefni. Hægt er að kasta honum á hvaða veru sem hvorki SIZ né INS eiginleikar hennar mega fara yfir helming CHA galdramannsins. Ef markveran er þegar trúfast gæludýr galdramannsins þarf hún ekki að standast galdurinn. Á meðan einbeiting stendur yfir getur galdramaðurinn nálgast skynfæri dýrsins (sjón, lykt, heyrn, og svo framvegis)
+Gæludýr gerir töframanninum kleift að taka andlega stjórn á lítilli veru og senda hana til að kanna, sækja eða framkvæma annað flókið verkefni. Hægt er að kasta honum á hvaða veru sem er þar sem hvorki STÆ né EIGINLEIKAR mega fara yfir helming af KAR töframannsins. Ef markveran er nú þegar tryggt gæludýr töframannsins þarf hún ekki að standast galdurinn. Á meðan hann einbeitir sér getur töframaðurinn nálgast skynfæri dýrsins (sjón, lykt, heyrn og svo framvegis).
 
 ---
-#### Plane Shift
+#### Flutningur milli heima
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 3 | **Kasttími:** 2 aðgerðir |
-| **Svið:** Astral | **Virkni:** Varanleg |
+| **Stig:** Klerkur 3 | **Töfrahæfingartími:** 2 aðgerðir |
+| **Svið:** Astral | **Lengd:** Varanleg |
 | **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** Sjá hér að neðan | **Vörn:** Willpower |
+| **Svæði:** Sjá hér að neðan | **Viðnám:** Viljastyrkur |
 
-Þegar kastað er, geta klerkurinn og allt að 7 aðrir (einn fyrir hvert stig af viðbótarstyrkleika) ferðast til annars tilveruplans. Allir verða að snertast og mynda hring á meðan klerkurinn kastar galdrinum. Að auki má galdramaðurinn einnig nota galdurinn til að flytja eina veru óháð sjálfum sér, fús eða ófús, til plans að eigin vali; hins vegar geta ófúsar verur gert Willpower-kast til að standast, þar sem árangur ógildir galdurinn. Nákvæmur komustaður er sjaldan það sem galdramaðurinn óskar. Ef hex-kort er notað, rúllaðu 1d6 til að ákvarða áttina og 1d10x10 fyrir fjarlægðina í mílum.
+Þegar klerkur kastar þessum galdri geta hann og allt að 7 aðrir (einn fyrir hvert viðbótarstig styrkleika) ferðast til annars tilverustigs. Allir verða að snertast og mynda hring á meðan klerkurinn kastar galdrinum. Auk þess getur töframaðurinn einnig notað galdurinn til að flytja eina veru óháð sjálfum sér, viljuga eða ekki, til þess heims sem töframaðurinn velur; hins vegar geta óviljugir gert Viljastyrkskast til að standast, þar sem árangur eyðir galdrinum. Nákvæmur komustaður er sjaldan það sem töframaðurinn óskar sér. Ef notað er sexhyrningskort skal kasta 1d6 til að ákvarða stefnu og 1d10x10 fyrir fjarlægð í mílum.
 
-Til viðbótar við hvers kyns almenna efnisþætti, krefst kast á Plane Shift stanga úr ýmsum sjaldgæfum málmum, hver sérstaklega stillt á tilveruplan. Þessar stangir eru sjaldgæfar og auðveldlega metnar á allt að 10,000 GP hver.
+Til viðbótar við hvers kyns almenna efniskomponenta krefst flutningur milli heima stanga úr ýmsum sjaldgæfum málmum, hver sérstaklega tengdur tilverustigi. Þessar stangir eru sjaldgæfar og auðveldlega metnar á allt að 10.000 GP hver.
 
 ---
-#### Polish
+#### Pússa
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Sköpun | **Virkni:** Augnablik |
+| **Stig:** Klerkur 0, Magi 0 | **Töfrahæfingartími:** 1 aðgerð |
+| **Svið:** Sköpun | **Lengd:** Augnablik |
+| **Kostnaður:** 1 | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
+
+Pússa gefur einum hlut strax gljáa – sem samsvarar í „hlutum“ eða STÆ allt að MÁT töframannsins – þannig að hann verður glansandi, skínandi og eftirsóknarverður, jafnvel þótt gæði hlutans séu undir meðallagi. Hluturinn mun missa gljáann venjulega með tímanum.
+
+---
+#### Umbreyta öðrum
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Stig:** Magi 3 | **Töfrahæfingartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** Varanleg |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki (+1 REYNSLA) | **Drægni:** 15 fet/styrkleikastig |
+| **Svæði:** 1 skotmark | **Viðnám:** Viljastyrkur |
+
+Töframaðurinn getur breytt mynd einnar líkamlegrar markveru í aðra, þar sem hvert styrkleikastig breytir STÆ um allt að 5 stig. Þess vegna myndi það krefjast 3 styrkleikastiga (15 STÆ punkta munur) að breyta orki með STÆ 16 í kanínu með STÆ 1. Viðfangsefni þessa galdurs fær að gera Viljastyrkskast til að standast. Stórar verur (STÆ 21-40) eru síður móttækilegar fyrir því að vera umbreyttar, þar sem viðnámskast þeirra er auðvelt, á meðan viðnámskast fyrir risavaxnar verur (STÆ 41+) er mjög auðvelt.
+
+Allt umbreytingarferlið tekur heila umferð og getur verið nokkuð streituvaldandi fyrir viðkomandi veru, sem krefst annars Viljastyrkskasts til að halda upprunalegum persónuleika sínum, þar sem mistök gera viðfangsefnið hálfvitlaust í 1d10 mínútur og klaufaskapur leiðir til dauða úr andlegu áfalli. Sérhver tvöföldun eða helmingun á upprunalegri STÆ verunnar gerir Viljastyrkskastið til að halda persónuleikanum einu stigi erfiðara, líkt og algjör umhverfisbreyting, svo sem að breyta manneskju í fisk. Árangursríkt kast gerir fórnarlambinu kleift að halda GRE sinni og KAR, sem og öllum færni sem krefst þessara eiginleika.
+
+Umbreytingin veitir viðtakandanum öndunaraðferð verunnar sem tekin er upp, ef hún er önnur en venjulega; hvers kyns náttúrulegar árásir; og allar venjulegar hreyfingar. Það veitir enga aukna eða töfrandi hæfileika sem veran býr yfir. Til dæmis, vera sem hefur verið umbreytt í dreka mun ekki öðlast andardráttarárás eða galdralíka hæfileika verunnar, en mun öðlast hæfileikann til að fljúga, þykka húð hennar, banvænt bit, klóárásir og svo framvegis. Auk þess fær fórnarlambið líkamlega færni nýju myndarinnar svo sem íþróttir, styrk, flug, sund, sem og heilsu-punkta þess og skaðastig. Að því gefnu að einstaklingurinn sem umbreyttist hafi haldið GRE sinni, missir hann samt getu til að tala, nema nýja myndin búi yfir getu til að orða orð. Þeir sem gátu kastað göldrum í sinni fyrri mynd myndu enn geta kastað í nýju myndinni, að því gefnu að þeir búi enn yfir getu til að framleiða munnlegar og líkamlegar íhlutir. Í tilviki róttækrar breytingar, svo sem að vera breytt úr tvífættum í fjórfætta, eða landdýri í sædýr, til dæmis, ætti spilastjóri að vera frjáls til að refsa með að minnsta kosti einu erfiðleikastigi fyrir notkun hvers kyns færni sem myndi taka tíma að læra á meðan aðlagast nýju myndinni þar til nægur tími hefur gefist til æfingar. Þetta er sérstaklega satt um líkamlega færni eins og íþróttir, óvopnaða baráttu, sund, flug, bardagafærni og svo framvegis.
+
+Viljastyrkskastið til að halda persónuleika sínum er krafist á hverjum degi sem viðfangsefnið er umbreytt þar til mistekst, sem veldur því að manneskjan gefur loks eftir fyrir hugarfari nýju myndarinnar, þar sem GRE breytist í EIGINLEIKA í tilviki veru sem ekki er vitiborin. Allir sérstakir og töfrandi hæfileikar í eigu nýju myndarinnar sem ekki voru fengnir áður, svo sem augnaráðsárásir, andardráttarvopn og svo framvegis, eru nú í boði fyrir veruna þar sem umbreytingin er fullkomin. Persónur sem missa sjálfsmynd sína á þennan hátt verða spilara-lausar persónur undir stjórn spilastjóra.
+
+Áður en hann gefur eftir andlega fyrir umbreytingunni er umbreytta veran móttækileg fyrir Eyða galdri eins og venjulega, án þess að kast sé krafist til að standast, þar sem það væri undirmeðvituð löngun manns til að snúa aftur til eðlilegs ástands. Umbreytingin krefst annars Viljastyrkskasts til að standast álagið, þar sem mistök gera viðfangsefnið hálfvitlaust í 1d10 mínútur og klaufaskapur leiðir til dauða úr andlegu áfalli.
+
+Ef fórnarlambið hafði áður gefið eftir fyrir nýju myndinni, má enn nota Eyða galdri; hins vegar mun fórnarlambið reyna að standast að snúa aftur í náttúrulega mynd með Viljastyrkskasti. Að mistakast þessu kasti þýðir að fórnarlambið umbreytist aftur í náttúrulega mynd, sem auðvitað krefst annars Viljastyrkskasts til að standast andlegt áfall af umbreytingunni. Þegar hún er glötuð er náttúruleg sjálfsmynd fórnarlambsins ekki lengur fáanleg, heldur telur fórnarlambið að undarlega og framandi myndin sé ekki náttúruleg og þráir að snúa aftur í sína fyrri „eðlilegu“ mynd. _Til dæmis, orki sem var umbreyttur í kanínu og tók upp persónuleika verunnar myndi trúa því að hann sé nú kanína sem hefur verið nokkuð dónalega umbreytt í orka._ Aðeins Ósk, eða annar sambærilegur töframaður, hefur einhvern möguleika á að endurheimta sjálfsmynd fórnarlambsins þegar hún hefur glatast.
+
+Allur klæddur og borinn búnaður blandast töfrandi inn í nýju myndina; hins vegar, í sumum tilfellum, gæti spilastjóri leyft töfragripum sem enn væri hægt að nota í nýrri mynd verunnar að vera áfram, svo sem töfrandi hringur eða stígvél. Athugið að þetta krefst þess að ný STÆ verunnar sé ekki víðs fjarri þeirri upprunalegu. Það er MÁT x1% möguleiki fyrir hvern klæddan töfragrip sem er ekki sóknarlegs eðlis, háð samþykki spilastjóra, að flytja áhrif sín yfir á nýja mynd verunnar. Vera með +1 verndarhring til dæmis gæti öðlast +1 bónus á náttúrulega brynju sína. Verur með náttúrulega hæfileika til að breyta um lögun, svo sem doppelgängerar og varúlfar, verða umbreyttar eins og venjulega, en geta tekið upp sína náttúrulegu mynd eftir 1 umferð. Ef hún er drepin snýr umbreytt vera aftur í náttúrulega mynd, jafnvel þótt hún hafi áður misst öll merki um sjálfsmynd.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 3, +1 REYNSLA | 15 feta drægni; 1-5 STÆ punkta munur |
+| 2 | 4, +1 REYNSLA | 30 feta drægni; 6-10 STÆ punkta munur |
+| 3 | 5, +1 REYNSLA | 45 feta drægni; 11-15 STÆ punkta munur |
+| 4 | 6, +1 REYNSLA | 60 feta drægni; 16-20 STÆ punkta munur |
+| +1 | +1 | Halda áfram framgangi |
+
+---
+#### Umbreyta sjálfan sig
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Stig:** Magi 3 | **Töfrahæfingartími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 20 mínútur/styrkleikastig |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 0 |
+| **Svæði:** Töframaður | **Viðnám:** NA |
+
+Töframaðurinn getur tekið upp mynd hvers kyns annarrar líkamlegrar veru, allt frá svo lítilli sem STÆ 1 upp í STÆ 40. Hvert styrkleikastig gerir kleift að auka eða minnka STÆ um allt að 10 stig. Þess vegna gæti galdranotandi með STÆ 13 tekið á sig mynd af STÆ 34 grizzlybirni við 3 stig styrkleika. Umbreytingarferlið tekur heila umferð og veitir töframanninum öndunaraðferð verunnar sem tekin er upp (ef hún er önnur en hans eigin, til dæmis að anda að sér vatni), hvers kyns náttúrulegar árásir, heilsu-punkta, skaðastig og eðlilega hreyfingu. Það veitir enga aukna eða töfrandi hæfileika sem veran býr yfir. Galdranotandi sem hefur umbreytt sér í hauk, til dæmis, mun ekki öðlast ótrúlega sjón fuglsins. Töframaðurinn öðlast líkamlega færni verunnar svo sem íþróttir, styrk, flug, sund og svo framvegis, en heldur hvers kyns andlegri og félagslegri færni (þeim sem krefjast GRE og KAR). Töframaðurinn missir getu til að tala nema veran sem um ræðir búi yfir getu til að orða orð. Ef svo er, getur töframaðurinn enn kastað göldrum í nýju myndinni að því gefnu að hann geti myndað líkamlegar íhlutir galdursins.
+
+Töframaðurinn getur bundið enda á áhrifin hvenær sem er, og í því ferli glatast öll minniháttar sár sem fengust í nýju myndinni, og alvarleg sár minnka í minniháttar sár (helmingur heilsu-punkta tapaðist á hverjum viðkomandi stað). Alvarleg sár hafa ekki áhrif á umbreytinguna og flytjast yfir á náttúrulega myndina. Engin lækning á sér stað þegar töframaðurinn umbreytist úr náttúrulegri mynd í dýrsmynd.
+
+Umbreyting er háð Eyða galdri. Í þessu tilviki nýtur töframaðurinn ekki góðs af lækningunni. Ef hann er drepinn mun töframaðurinn snúa aftur í náttúrulega mynd. Ef hann er umbreyttur í fljúgandi veru og þarf að gera flugfærnikast, má nota íþróttir eða fimleika í staðinn með tveimur erfiðleikastigum. Hins vegar gæti persóna sem notar þessa mynd oft valið að þróa flugfærni venjulega með grunnvirði STY+LIP.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 3 | 20 mín.; 1-10 STÆ punkta munur |
+| 2 | 4 | 40 mín.; 11-20 STÆ punkta munur |
+| 3 | 5 | 60 mín.; 21-30 STÆ punkta munur |
+| 4 | 6 | 80 mín.; 31-40 STÆ punkta munur |
+| +1 | +1 | Halda áfram framgangi |
+
+---
+#### Kraftorð - Blinda
+
+(Galdur)
+
+| | |
+| :-- | :-- |
+| **Stig:** Magi 4 | **Töfrahæfingartími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 20 fet/styrkleikastig |
+| **Svæði:** 15 feta radíus | **Viðnám:** ÞOL |
+
+Við árangursríka notkun þessa galdurs er ein vera að vali töframannsins innan bæði sjónlínu og drægni, slegin blind, ásamt öllum öðrum í 15 feta radíus sem mistakast í viðnámskastinu. Þessa blindu má lækna með því að kasta Lækna blindu eða Eyða galdri. Lengd galdursins er breytt eftir stigi eða STÆ skotmarksins, hvort sem gefur hagstæðari niðurstöðu. Þetta er útskýrt í eftirfarandi töflu.
+
+| Skotmarksstig | Skotmarks STÆ | Lengd |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 1d4+1 x10 mínútur\*\* |
+| 2 | 21-40 | 1d4+1 mínútur |
+| 3 | 41-60 | 1d4+1 umferðir |
+| 4 | 61-80 | 1d3 umferðir |
+| 5 | 81+ | 1 umferð |
+
+_\* Þessi flokkur inniheldur persónur sem ekki eiga sér stétt._
+
+_\*\* Ef aðeins ein til þrjár verur eru á áhrifasvæðinu eru áhrifin varanleg þar til meðhöndlað er með galdri._
+
+---
+#### Kraftorð - Drepa
+
+(Galdur)
+
+| | |
+| :-- | :-- |
+| **Stig:** Magi 5 | **Töfrahæfingartími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Varanleg |
+| **Kostnaður:** 3/styrkleiki, +3 REYNSLA | **Drægni:** 20 fet/styrkleikastig |
+| **Svæði:** 10 feta radíus | **Viðnám:** ÞOL |
+
+Árangursrík notkun þessa galdurs mun drepa annað hvort eina veru allt að stigi 3 eða STÆ 60 (eða 4 verur fyrir hvert styrkleikastig sem eru ekki stærri en STÆ 20), sem mistakast í viðnámskastinu. Þessi galdur er afar þreytandi fyrir töframanninn, þar sem hver notkun veldur sjálfkrafa tapi á einu stigi þreytu. Öll hugsanleg skotmörk verða að liggja innan áhrifasvæðisins, eins og tilgreint er þegar galdrinum er kastað. Styrkleikinn sem krafist er fer eftir stigi eða STÆ skotmarksins, hvort sem gefur skotmarkinu hagstæðari niðurstöðu, eins og útskýrt er í eftirfarandi töflu.
+
+| Skotmarksstig | Skotmarks STÆ | Styrkleiki |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 1 styrkleiki +3 REYNSLA til að drepa |
+| 2 | 21-40 | 2 styrkleiki +3 REYNSLA til að drepa |
+| 3 | 41-60 | 3 styrkleiki +3 REYNSLA til að drepa |
+| 4-5 | 61+ | Engin áhrif |
+
+_\* Þessi flokkur inniheldur persónur sem ekki eiga sér stétt._
+
+Verur stærri en STÆ 60 hafa engin áhrif, sem og persónur af stigi 4 og hærra. Ólíkt dauðagaldrinum mun Kraftorð - Drepa drepa allt innan ofangreindra marka, hins vegar er mögulegt að koma fórnarlömbum aftur til lífsins með því að kasta Ósk, Vekja dauða, Upprisu og Endurholdgun eins og venjulega.
+
+---
+#### Kraftorð - Hálfvitlaus
+
+(Galdur)
+
+| | |
+| :-- | :-- |
+| **Stig:** Magi 3 | **Töfrahæfingartími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 20 fet/styrkleikastig |
+| **Svæði:** 1 skotmark | **Viðnám:** ÞOL |
+
+Við árangursríka notkun þessa galdurs er ein vera að vali töframannsins innan bæði sjónlínu og drægni, sem mistakast í viðnámskastinu, slegin hálfvitlaus. Fórnarlambið er gert í stuttu máli meðvitundarlaust, aðeins leyfilegt að gera viðbragðsaðgerðir af varnarlegu eðli. Lengdinni er breytt eftir stigi eða STÆ skotmarksins, hvort sem gefur skotmarkinu hagstæðari niðurstöðu. Þetta er útskýrt í eftirfarandi töflu. Þessa hálfvitlausuleika má lækna áður en lengdin rennur út með því að kasta Eyða galdri.
+
+| Skotmarksstig | Skotmarks STÆ | Lengd |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | 4d4 umferðir |
+| 2 | 21-40 | 2d4 umferðir |
+| 3 | 41-60 | 1d4 umferðir |
+| 4 | 61-80 | 1 umferð |
+| 5 | 81+ | Engin áhrif |
+
+_\* Þessi flokkur inniheldur persónur sem ekki eiga sér stétt._
+
+---#### Bæn
+
+(Særing)
+
+| | |
+| :-- | :-- |
+| **Röð:** Klerkur 3 | **Töfratími:** 1 mínúta |
+| **Svið:** Bardagi | **Lengd:** 10 mínútur/Styrkleika |
+| **Kostnaður:** 3, +1/viðbótar Styrkleika | **Drægni:** 0 |
+| **Svæði:** 60 feta radíus | **Vörn:** Engin |
+
+Þegar þessi galdur er kastaður blessar hann klerkinn og alla bandamenn innan áhrifasvæðisins, á meðan hann bölvar þeim sem eru í andstöðu. Bandamenn fá tímabundna +5% bónus á öll færni- og varnarkast, ásamt +1 bónus á alla skaðavalda, á meðan óvinir fá -5% refsingu og -1 refsingu á skaðavald. Þennan galdur má kasta samhliða Söng ef hann er kastaður af sama klerki, eða öðrum klerki af sömu trú, sem gerir báðum áhrifum kleift að leggjast saman, sem veitir +10% bónus á færni og +2 á skaðavald, á meðan óvinir fá hið gagnstæða.
+
+---
+#### Spá fyrir um veður
+
+(Spásagnir)
+
+| | |
+| :-- | :-- |
+| **Röð:** Klerkur 1, Galdramaður 1 | **Töfratími:** 1 mínúta |
+| **Svið:** Veður | **Lengd:** Augnablik |
+| **Kostnaður:** 1/Styrkleika | **Drægni:** 0 |
+| **Svæði:** 5 mílna radíus | **Vörn:** Engin |
+
+Þessi galdur gerir galdramanni kleift að spá fyrir um veðrið með 100% vissu innan 5 mílna radíuss. Þessi spá nær yfir næstu 4 klukkustundir fyrir hvert stig Styrkleika og inniheldur hitastig, úrkomu, snjósöfnun, vindhraða og svo framvegis.
+
+---
+#### Varðveita
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Röð:** Klerkur 0, Galdramaður 0 | **Töfratími:** 1 umferð |
+| **Svið:** Dýr, Planta | **Lengd:** 1d3 mánuðir |
+| **Kostnaður:** 1 | **Drægni:** Snerting |
+| **Svæði:** Sjá hér að neðan | **Vörn:** Engin |
+
+Varðveita kemur í veg fyrir að lífræn efni, bæði úr jurtaríkinu og dýraríkinu, grotni og rotni í 1d3 mánuði með því að dauðhreinsa þau. Ef efnið er síðar reykt, súrsað eða saltað, varðveitist það endalaust. Galdurinn getur stöðvað rotnun sem er hafin, en ekki snúið henni við. Galdramaðurinn getur haft áhrif á magn lífræns efnis sem jafngildir að „hlutum“ eða STÆ miðað við MÁT.
+
+---
+#### Vernd
+
+(Varnargaldur)
+
+| | |
+| :-- | :-- |
+| **Röð:** Klerkur 0, Galdramaður 0 | **Töfratími:** 1 aðgerð |
+| **Svið:** Vernd | **Lengd:** Kveikja |
 | **Kostnaður:** 1 | **Drægni:** Snerting |
 | **Svæði:** 1 skotmark | **Vörn:** Engin |
 
-Polish snyrtir strax einn hlut - sem jafngildir „hlutum“ eða SIZ allt að POW galdramannsins - í mikinn ljóma sem gerir hann glansandi, gljáandi og mjög eftirsóknarverðan, jafnvel þótt gæði hlutans séu undir meðallagi. Hluturinn mun tapa ljómanum venjulega með tímanum.
+Vernd er gagnleg við margvísleg störf þar sem hætta er á slysum, svo sem við vinnu í steypuverksmiðju eða námum. Í fyrsta skipti sem persónan tekur skaða sem kemst í gegnum hlífðarfatnað eða brynju, mun Verndargaldurinn virkjast og draga úr skaðanum sem hún tekur um 1d3 punkta. Galdurinn eyðist síðan. Þessi galdur leggst saman við allar aðrar tegundir verndargaldra. Galdurinn verndar aðeins gegn líkamlegum skaða og hjálpar því ekki gegn atburðum eins og eldi, köfnun og svo framvegis. Galdramannaútgáfu þessa galdurs má aðeins kasta á sjálfan sig.
 
 ---
-#### Preserve
+#### Vernd gegn kulda
 
-(Umbreytingagaldur)
+(Varnargaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 lota |
-| **Svið:** Dýr, Planta | **Virkni:** 1d3 mánuðir |
-| **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** Sjá hér að neðan | **Vörn:** NA |
+| **Röð:** Klerkur 2 | **Töfratími:** 1 lota |
+| **Svið:** Vernd, Frumkraftur (Eldur) | **Lengd:** 15 mínútur/Styrkleika |
+| **Kostnaður:** 3, +1/viðbótar Styrkleika | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** Engin |
 
-Preserve kemur í veg fyrir að lífræn efni, bæði grænmetis- og dýraefni, eyðist vegna bakteríurotnunar í 1d3 mánuði með því að dauðhreinsa það. Ef efnið er síðan reykt, súrsað eða saltað er það varðveitt ótakmarkað. Galdurinn getur stöðvað rotnun sem hafin er, en ekki snúið henni við. Galdramaðurinn getur haft áhrif á magn af lífrænu efni sem jafngildir í „hlutum“ eða SIZ til POW þeirra.
+Þegar þessi galdur er kastaður myndast ósýnilegt svið sem veitir algjöra vernd gegn öllum tegundum náttúrulegs kulda. Þegar honum er kastað á sjálfan sig veitir sviðið einnig algjöra vernd gegn kuldatengdum skaða (andardráttur hvítra dreka, kuldakeila, kælandi málmur og svo framvegis) og gleypir 12 punkta af kuldaskaða fyrir hvern Styrkleika. Þegar þetta svið er uppurið er hvers kyns umframskaði sem eftir er af árásinni helmingaður áður en hann er tekinn með í reikninginn.
 
----
-#### Protection
+Þegar honum er kastað á einhvern annan en sjálfan sig, er einnig veitt algjör vernd gegn náttúrulegum kulda. Auk þess er skaði af völdum töfraðra kuldaárása minnkaður um helming.
 
-(Verndargaldur)
-
-| | |
-| :-- | :-- |
-| **Stig:** Klerkur 0, Galdrakarl 0 | **Kasttími:** 1 aðgerð |
-| **Svið:** Vernd | **Virkni:** Kveikja |
-| **Kostnaður:** 1 | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA |
-
-Protection er gagnlegt í mörgum verkefnum þar sem hætta er á óviljandi meiðslum svo sem vinnu í smiðju eða námum. Í fyrsta skipti sem karakterinn myndi venjulega taka skaða sem fer í gegnum hlífðarfatnað eða brynju, mun Protection-galdurinn kveikjast, og minnka skaðann um 1d3 stig. Galdurinn hverfur síðan. Þessi galdur staflast við öll önnur form verndartöfra. Galdurinn verndar aðeins gegn líkamlegum skaða svo hann hjálpar ekki gegn atburðum eins og eldi, köfnun og svo framvegis. Galdrakarlsútgáfa þessa galdurs má aðeins kasta á sjálfan sig.
-
----
-#### Protection from Cold
-
-(Verndargaldur)
-
-| | |
-| :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 1 umferð |
-| **Svið:** Vernd, Elemental (Eldur) | **Virkni:** 15 mínútur/styrkleiki |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA |
-
-Þegar þessi galdur er kastaður myndast ósýnilegur völlur sem býður upp á fullkomna vernd gegn hvers kyns náttúrulegum kulda. Þegar kastað er á sjálfan sig, býður völlurinn einnig upp á fullkomna vernd gegn kuldatengdum skaða (eldöndun hvítra dreka, cone of cold, chill metal, og svo framvegis), og gleypir 12 stig af kuldaskaða fyrir hvern styrkleika. Þegar þessum velli er eytt, er öllum umframskaða sem eftir er frá þeirri árás deilt með helmingi áður en honum er beitt.
-
-Þegar kastað er á einhvern annan en sjálfan sig, er fullkomin vernd gegn náttúrulegum kulda einnig veitt. Að auki er skaði frá töfrandi kuldaárásum minnkaður um helming.
-
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 mín.; 12 stig af kuldavernd á sjálfan sig |
-| 2 | 4 | 30 mín.; 24 stig af kuldavernd á sjálfan sig |
-| 3 | 5 | 45 mín.; 36 stig af kuldavernd á sjálfan sig |
-| 4 | 6 | 60 mín.; 48 stig af kuldavernd á sjálfan sig |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 15 mín.; 12 punktar af kuldavernd á sjálfan sig |
+| 2 | 4 | 30 mín.; 24 punktar af kuldavernd á sjálfan sig |
+| 3 | 5 | 45 mín.; 36 punktar af kuldavernd á sjálfan sig |
+| 4 | 6 | 60 mín.; 48 punktar af kuldavernd á sjálfan sig |
+| +1 | +1 | Halda áfram framgangi |
 
 ---
-#### Protection from Evil \(R\)
+#### Vernd gegn illu \(R\)
 
-(Verndargaldur)
+(Varnargaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1, Galdrakarl 1 | **Kasttími:** 1 aðgerð |
-| **Svið:** Vernd | **Virkni:** 2 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA |
+| **Röð:** Klerkur 1, Galdramaður 1 | **Töfratími:** 1 aðgerð |
+| **Svið:** Vernd | **Lengd:** 2 mínútur/Styrkleika |
+| **Kostnaður:** 1/Styrkleika | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** Engin |
 
-Þegar kastað er, geislar ósýnileg aura af töfrandi brynju frá viðtakanda galdursins (sem getur verið galdramaðurinn), sem veitir þrjú mismunandi stig af vörn.
+Þegar galdrinum er kastað geislar ósýnilegur aura af töfrandi brynju frá þeim sem galdurinn er kastaður á (sem getur verið galdramaðurinn sjálfur), sem veitir þrjú mismunandi varnarstig.
 
-Í fyrsta lagi fá árásir frá verum með ill samstöðu -10% refsistig á bardagastíl eða óvopnaða færni. Viðnámköst af hálfu viðtakanda Protection from Evil fá +10% bónus, en aðeins gegn illum verum.
+Í fyrsta lagi fá árásir frá verum með Illt siðferði -10% refsingu á Bardagastíl eða óvopnaða færni. Varnarkast hjá þeim sem fær Vernd gegn illu fær +10% bónus, en aðeins gegn illum verum.
 
-Í öðru lagi mega hvorki kallaðar né framkallaðar verur, né verur sem ekki eru innfæddar efnisplaninu, hafa líkamlega snertingu við viðtakandann. Þetta felur í sér djöfla, illar verur, gení, elementals, loftþjóna, salamandera, og svo framvegis. Náttúrulegar árásir af þessum verum valda því að þær hopa, og mistakast því að gera snertingu. Þetta felur einnig í sér hvers kyns skrímsli eða verur kallaðar eða framkallaðar með göldrum eða hlutum. Vopn sem haldið er af slíkum verum mega þó fara inn í töfrandi girðinguna og slá viðkomandi einstakling.
+Í öðru lagi mega hvorki kölluð né framkölluð veru, né verur sem ekki eru af efnisheiminum, snerta viðtakandann líkamlega. Þetta felur í sér djöfla, anda, anda í flöskum, frumkraftaverur, loftanda, salamöndrur og svo framvegis. Náttúrulegar árásir þessara vera valda því að þær hrekjast aftur og ná því ekki að snerta. Þetta felur einnig í sér hvers kyns skrímsli eða verur sem framkallaðar eru eða kallaðar fram með göldrum eða hlutum. Vopn sem slíkar verur halda á geta hins vegar farið í gegnum töfrabrána og slegið verndaðan einstakling.
 
-Í þriðja lagi, hvers kyns tilraunir til andlegrar stjórnar (svo sem með göldrum eins og Charm eða Command) eða hernám (svo sem með göldrum eins og Magic Jar), mistakast sjálfkrafa að komast í gegnum töfrandi verndina.
+Í þriðja lagi bregst hvers kyns tilraun til andlegrar stjórnunar (svo sem með göldrum á borð við Heilla eða Stjórna) eða yfirtöku (svo sem með göldrum á borð við Töfrakrukku) við að komast í gegnum töfraverndina.
 
-Virkni galdursins endar ef viðkomandi einstaklingur gerir hvers kyns nærárás eða reynir að beita verndarvelli gegn veru sem verður fyrir áhrifum.
+Lengd galdursins endar ef verndaði einstaklingurinn gerir hvers kyns nærbaráttuárás eða reynir að beita verndarsviðinu gegn viðkomandi veru.
 
-Andhverfa þessa galdurs, Protection from Good, virkar eins og hér að ofan varðandi annað og þriðja ávinning, á meðan fyrsti ávinningurinn virkar eins og getið er varðandi góða andstæðinga.
+Andhverfa þessa galdurs, Vernd gegn góðu, virkar eins og að ofan varðandi seinni og þriðju ávinninginn, á meðan fyrsti ávinningurinn virkar eins og getið er varðandi góða andstæðinga.
 
 ---
-#### Protection from Fire
+#### Vernd gegn eldi
 
-(Verndargaldur)
+(Varnargaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 2 | **Kasttími:** 1 umferð |
-| **Svið:** Vernd, Elemental (Eldur) | **Virkni:** 15 mínútur/styrkleiki |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA |
+| **Röð:** Klerkur 2 | **Töfratími:** 1 lota |
+| **Svið:** Vernd, Frumkraftur (Eldur) | **Lengd:** 15 mínútur/Styrkleika |
+| **Kostnaður:** 3, +1/viðbótar Styrkleika | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** Engin |
 
-Þegar þessi galdur er kastaður myndast ósýnilegur völlur sem býður upp á fullkomna vernd gegn hvers kyns veraldlegum uppsprettum hita, svo sem kyndlum, varðeldum, brennandi byggingum og svo framvegis. Þegar kastað er á sjálfan sig, býður völlurinn einnig upp á fullkomna vernd gegn eld-tengdum skaða (eldöndun rauðra dreka, Burning Hands, Heat Metal, og svo framvegis), og gleypir 12 stig af eldsskaða fyrir hvern styrkleika. Þegar þessum velli er eytt, er öllum umframskaða sem eftir er frá þeirri árás deilt með helmingi áður en honum er beitt.
+Þegar þessi galdur er kastaður myndast ósýnilegt svið sem veitir algjöra vernd gegn öllum tegundum hversdagslegra hitagjafa, svo sem kyndlum, varðeldum, brennandi byggingum og svo framvegis. Þegar honum er kastað á sjálfan sig veitir sviðið einnig algjöra vernd gegn eldtengdum skaða (andardráttur rauðra dreka, Brennandi hendur, Hita málm og svo framvegis) og gleypir 12 punkta af eldskade fyrir hvern Styrkleika. Þegar þetta svið er uppurið er hvers kyns umframskaði sem eftir er af árásinni helmingaður áður en hann er tekinn með í reikninginn.
 
-Þegar kastað er á einhvern annan en sjálfan sig, er fullkomin vernd gegn veraldlegum eldi einnig veitt. Að auki er skaði frá töfrandi eld-árásum minnkaður um helming.
+Þegar honum er kastað á einhvern annan en sjálfan sig, er einnig veitt algjör vernd gegn hversdagslegum eldi. Auk þess er skaði af völdum töfraðra eldárása minnkaður um helming.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 mín.; 12 stig af eldsvörn á sjálfan sig |
-| 2 | 4 | 30 mín.; 24 stig af eldsvörn á sjálfan sig |
-| 3 | 5 | 45 mín.; 36 stig af eldsvörn á sjálfan sig |
-| 4 | 6 | 60 mín.; 48 stig af eldsvörn á sjálfan sig |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 15 mín.; 12 punktar af eldvernd á sjálfan sig |
+| 2 | 4 | 30 mín.; 24 punktar af eldvernd á sjálfan sig |
+| 3 | 5 | 45 mín.; 36 punktar af eldvernd á sjálfan sig |
+| 4 | 6 | 60 mín.; 48 punktar af eldvernd á sjálfan sig |
+| +1 | +1 | Halda áfram framgangi |
 
 ---
-#### Protection from Lightning
+#### Vernd gegn eldingum
 
-(Verndargaldur)
+(Varnargaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 3 | **Kasttími:** 1 umferð |
-| **Svið:** Vernd, Veður | **Virkni:** 15 mínútur/styrkleiki |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 skotmark | **Vörn:** NA |
+| **Röð:** Klerkur 3 | **Töfratími:** 1 lota |
+| **Svið:** Vernd, Veður | **Lengd:** 15 mínútur/Styrkleika |
+| **Kostnaður:** 3, +1/viðbótar Styrkleika | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** Engin |
 
-Þegar þessi galdur er kastaður myndast ósýnilegur völlur sem býður upp á fullkomna vernd gegn raf-tengdum skaða (eldöndun blárra dreka, shocking grasp, raf-gildrur, og svo framvegis), og gleypir 12 stig af raf-skaða fyrir hvern styrkleika. Þegar þessum velli er eytt, er öllum umframskaða sem eftir er frá þeirri árás deilt með helmingi áður en honum er beitt.
+Þegar þessi galdur er kastaður myndast ósýnilegt svið sem veitir algjöra vernd gegn rafmagnstengdum skaða (andardráttur blárra dreka, rafgríp, rafmagnsgildrur og svo framvegis) og gleypir 12 punkta af rafmagns skaða fyrir hvern Styrkleika. Þegar þetta svið er uppurið er hvers kyns umframskaði sem eftir er af árásinni helmingaður áður en hann er tekinn með í reikninginn.
 
-Þegar kastað er á einhvern annan en sjálfan sig, er skaði frá raf-árásum minnkaður um helming.
+Þegar honum er kastað á einhvern annan en sjálfan sig, er skaði af völdum rafmagnsárása minnkaður um helming.
 
-| Styrkleiki | Kostnaður | Breytilegt áhrif |
+| Styrkleiki | Kostnaður | Breytileg áhrif |
 | :-: | :-: | :-- |
-| 1 | 3 | 15 mín.; 12 stig af raf-vörn á sjálfan sig |
-| 2 | 4 | 30 mín.; 24 stig af raf-vörn á sjálfan sig |
-| 3 | 5 | 45 mín.; 36 stig af raf-vörn á sjálfan sig |
-| 4 | 6 | 60 mín.; 48 stig af raf-vörn á sjálfan sig |
-| +1 | +1 | Halda áfram röð |
+| 1 | 3 | 15 mín.; 12 punktar af rafmagnsvernd á sjálfan sig |
+| 2 | 4 | 30 mín.; 24 punktar af rafmagnsvernd á sjálfan sig |
+| 3 | 5 | 45 mín.; 36 punktar af rafmagnsvernd á sjálfan sig |
+| 4 | 6 | 60 mín.; 48 punktar af rafmagnsvernd á sjálfan sig |
+| +1 | +1 | Halda áfram framgangi |
 
 ---
-#### Purify Food and Drink \(R\)
+#### Hreinsa mat og drykk \(R\)
 
-(Umbreytingagaldur)
+(Umbreyting)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 1 | **Kasttími:** 1 mínúta |
-| **Svið:** Allir | **Virkni:** Varanleg |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 100 fet |
-| **Svæði:** 5 feta radíus | **Vörn:** NA |
+| **Röð:** Klerkur 1 | **Töfratími:** 1 mínúta |
+| **Svið:** Allt | **Lengd:** Varanleg |
+| **Kostnaður:** 1/Styrkleika | **Drægni:** 100 fet |
+| **Svæði:** 5 feta radíus | **Vörn:** Engin |
 
-Þegar þessum galdri er kastaður eru öll eitur, rotnun og önnur mengun fjarlægð úr meðalstórri máltíð af mat og/eða vatni fyrir hvern styrkleika innan áhrifasvæðis galdursins. Hreinsandi eiginleikar þessa galdurs eyða einnig skaðlegum eiginleikum vanheilags vatns.
+Þegar þessi galdur er kastaður er allt eitur, rotnun og önnur mengun fjarlægð úr meðalstórri máltíð af mat og/eða vatni fyrir hvern Styrkleika innan áhrifasvæðis galdursins. Hreinsunareiginleikar þessa galdurs eyða einnig illgjörnum eiginleikum vanhelgaðs vatns.
 
-Andhverfa galdursins, Contaminate Food and Drink, skemmir mat, gerir hreint vatn ódrykkjuhæft, og spillir heilögum eiginleikum heilags vatns.
+Andhverfa galdursins, Menga mat og drykk, eyðileggur mat, gerir hreint vatn ódrykkjarhæft og spillir heilögum eiginleikum heilags vatns.
 
 ---
-#### Raise Dead \(R\)
+#### Vekja upp dauða \(R\)
 
-(Necromancy)
+(Dauðagaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 3 | **Kasttími:** 1 mínúta |
-| **Svið:** Necromantic | **Virkni:** Varanleg |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki, +1 EXP | **Drægni:** 100 fet |
-| **Svæði:** 1 skotmark | **Vörn:** NA (Willpower) |
+| **Röð:** Klerkur 3 | **Töfratími:** 1 mínúta |
+| **Svið:** Dauðagaldur | **Lengd:** Varanleg |
+| **Kostnaður:** 3, +1/viðbótar Styrkleika, +1 EXP | **Drægni:** 100 fet |
+| **Svæði:** 1 skotmark | **Vörn:** Engin (Vilji) |
 
-Þennan galdur má kasta á lík veru sem hefur verið dauð í minna en 24 klukkustundir fyrir hvert styrkleikastig. Ef samstaða viðfangsefnisins var eitthvað annað en ill, geta þau staðist galdurinn með andstæðu Willpower-kasti og, ef árangursríkt, ógilt áhrif galdursins. Þetta er vegna þess að sál eða andi hins látna er sjaldan fús til að snúa aftur til þeirra lifandi þegar hann hefur náð eilífu lífi sínu. Leikstjórinn getur ákveðið að fella kastið ef viðtakandinn hefur ólokið verkefni, getur ekki verið aðskilinn frá sinni sönnu ást, eða hefur einhverja aðra hetjulega ástæðu til að lifa.
+Þennan galdur má kasta á lík veru sem hefur verið dáin í minna en 24 klukkustundir fyrir hvert stig Styrkleika. Ef siðferði viðkomandi var eitthvað annað en illt, getur hann varið sig gegn galdrinum með andstæðu Viljakasti og, ef það tekst, gert áhrif galdursins að engu. Þetta er vegna þess að sál eða andi hins látna er sjaldan fús til að snúa aftur til lifenda þegar hann hefur náð eilífum launum sínum. Spilastjórinn getur ákveðið að sleppa kastinu ef viðtakandinn hefur ólokið mál, getur ekki verið aðskilinn frá sannri ást sinni eða hefur einhverja aðra hetjulega ástæðu til að lifa.
 
-Í tilviki illra sála, sem myndu fúslega snúa aftur til efnisheimsins í stað þess að þjást af eilífri fordæmingu, er það ekki Willpower hins látna sem stendur í vegi, heldur þess djöfuls, illu veru, og svo framvegis, sem settur er í ábyrgð á refsingu þeirra, kvalarans þeirra. Í þessu tilviki verður galdramaðurinn að sigrast á Willpower kvalarans. Ef þetta er óþekkt, gerið ráð fyrir að það sé að minnsta kosti 20 stigum hærra en hins látna til að tákna að því sterkari sem vilji sálarinnar er, því öflugri veran sem sett er í ábyrgð á fordæmingu hennar. Ef galdramaðurinn tekst, hefur hann tekist að skila andanum aftur í líkamann, á meðan misheppnað kast leiðir til þess að fórnarlambið sé annaðhvort ófúst eða ófært um að snúa aftur.
+Í tilviki illra sála, sem myndu fúslega snúa aftur til efnisheimsins í stað þess að þjást í eilífri fordæmingu, er það ekki Vilji hins látna sem stendur í vegi, heldur vilji djöfulsins, andans og svo framvegis, sem settur er yfir refsingu þeirra, kvalarans. Í þessu tilviki verður galdramaðurinn að yfirvinna Vilja kvalarans. Ef þetta er óþekkt, skal gera ráð fyrir að hann sé að minnsta kosti 20 punktum hærri en hjá hinum látna til að tákna að því sterkari sem vilji sálarinnar er, því öflugri er vera sú sem sett er yfir fordæmingu hennar. Ef galdramanni tekst þetta, hefur hann tekist að skila andanum aftur í líkamann, á meðan misheppnað kast leiðir til þess að fórnarlambið er annað hvort ófúst eða ófært um að snúa aftur.
 
-Ef kastið tekst er viðfangsefnið snúið aftur til lífsins með fullum heilsu-punktum, þótt afstýfðir útlimir haldist týndir. Þetta þýðir að ekki er hægt að reisa upp fórnarlamb sem hefur verið hálshöggvið eða skorið í tvennt fyrr en höfuð eða búkur er fyrst festur aftur. Þetta má gera fyrir kastið á Raise Dead með því að festa afstýfðan líkamshluta líkamlega aftur, sem krefst læknisbúnaðar og árangursríkrar notkunar á Lækningafærni, og skilur venjulega eftir sig augljóst og segjandi ör. Aðra kvilla, eins og eitrun eða sjúkdóma, verður að sjá um fyrir, eða eftir kastið á Raise Dead, annars eru niðurstöðurnar aðeins tímabundnar. Að lokum hefur Raise Dead engin áhrif á veru sem hefur náð lokum náttúrulegs líftíma síns, og dáið af elli.
+Ef kastið tekst er viðkomandi snúið aftur til lífsins með fullum lífspunktum, þótt afskornir útlimir haldist týndir. Þetta þýðir að ekki er hægt að vekja upp fórnarlamb sem hefur verið hálshöggvið eða skorið í tvennt fyrr en höfuð eða bolur hefur verið festur aftur. Þetta má gera fyrir köst á Vekja upp dauða með því að festa afskorinn hluta líkamlega aftur, sem krefst læknisbúnaðar og vel heppnaðrar beitingar á Græðarafærni, og skilur venjulega eftir sig augljóst og áberandi ör. Aðra kvilla, svo sem eitur eða sjúkdóma, verður að meðhöndla fyrir eða eftir köst á Vekja upp dauða, annars eru áhrifin aðeins tímabundin. Að lokum hefur Vekja upp dauða engin áhrif á veru sem hefur náð lokum náttúrulegs lífsferils síns og dáið úr elli.
 
-Að vera reistur upp úr dauðum er mjög þreytandi fyrir viðfangsefnið, sem minnkar í þreytustigið Incapacitated í tímabil 24 klukkustundir fyrir hvern dag sem þau voru dauð. Kast á Cure Fatigue hefur engin áhrif á sjúklinginn á þessum tíma bata. Eftir þetta tímabil jafnar karakterinn sig af þreytu venjulega, og án takmarkana.
+Sú gjörð að vera vakinn upp frá dauðum er mjög lýjandi fyrir viðkomandi, sem lækkar í þreytuflokkinn Óvinnufær í 24 klukkustundir fyrir hvern dag sem hann var dáinn. Köst á Lækna þreytu hefur engin áhrif á sjúklinginn á þessum bataferli. Eftir þetta tímabil jafnar persónan sig af þreytu venjulega og án takmarkana.
 
-Þegar snúið er við, Slay Living, má nota til að drepa eitt fórnarlamb sem klerkurinn tilgreinir á kasttímanum. Þetta fórnarlamb fær Willpower-kast til að standast, breytt eftir Rank eða SIZ skotmarksins, eftir því hvort gefur fórnarlambinu hagstæðari niðurstöðu, eins og lýst er í eftirfarandi töflu.
+Þegar snúið er við, Slay Living, má nota til að drepa eitt fórnarlamb sem klerkurinn tilnefnir á þeim tíma sem galdrinum er kastað. Þetta fórnarlamb fær að kasta Viljakasti til að verjast, breytt af röð eða STÆ skotmarksins, hvort sem gefur skotmarkinu betri árangur, eins og nánar er lýst í eftirfarandi töflu.
 
-| Target Rank | Target SIZ | Willpower Modifier |
+| Röð skotmarks | STÆ skotmarks | Viljabreyting |
 | :-: | :-: | :-: |
-| 0-1\* | 1-20 | Hard |
-| 2 | 21-40 | Standard |
-| 3 | 41-60 | Easy |
-| 4-5 | 61+ | Very Easy |
+| 0-1\* | 1-20 | Erfitt |
+| 2 | 21-40 | Hefðbundið |
+| 3 | 41-60 | Auðvelt |
+| 4-5 | 61+ | Mjög auðvelt |
 
-_\* Þessi flokkur inniheldur karaktera sem ekki hafa Class._
+_\* Þessi flokkur inniheldur persónur sem ekki hafa stétt._
 
-Ef viðnámkastið mistekst, er fórnarlambið drepið samstundis. Árangursríkt kast er meðhöndlað eins og áhrif Cause Serious Wounds. Brynja veitir enga vernd gegn þessum skaða. Destruction eldir ekki galdramanninn þegar hann er notaður.
+Ef varnarkastið heppnast ekki er fórnarlambið drepið samstundis. Vel heppnað kast er meðhöndlað eins og áhrif Veldur alvarlegum sárum. Brynja veitir enga vernd gegn þessum skaða.
 
 ---
-#### Read Magic
+#### Lesa galdra
 
-(Allir)
+(Allt)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 0 | **Kasttími:** 1 mínúta |
-| **Svið:** Ekkert | **Virkni:** 2 mínútur/styrkleiki |
-| **Kostnaður:** 1/styrkleiki | **Drægni:** 0 |
-| **Svæði:** Galdramaður | **Vörn:** NA |
+| **Röð:** Galdramaður 0 | **Töfratími:** 1 mínúta |
+| **Svið:** Ekkert | **Lengd:** 2 mínútur/Styrkleika |
+| **Kostnaður:** 1/Styrkleika | **Drægni:** 0 |
+| **Svæði:** Galdramaður | **Vörn:** Engin |
 
-Þessi galdur er fyrsti galdurinn sem kennt er lærlingum galdrakarla, því það er í gegnum þennan galdur sem þeir geta lesið töfrandi skrif annarra galdramanna. Töfrandi skrif galdrakarla sjálfra eru alltaf skiljanleg þeim sjálfum. Að lesa töfrandi skrif virkjar venjulega ekki innihaldinn galdur eins og þann sem finnst á töfrandi bókrollum, til dæmis; hins vegar eru bölvaðar töfrandi bókrollur og þess háttar virkjaðar með því að nota þennan galdur, sem kastar hvaða galdri sem bókrollan innihélt.
+Þessi galdur er fyrsti galdurinn sem kenndur er lærlingum galdramanna, því það er með þessum galdri sem þeir geta lesið töfraskrif annarra galdramanna. Töfraskrif galdramanna sjálfra eru alltaf skiljanleg fyrir þá sjálfa. Að lesa töfraskriftir virkjar yfirleitt ekki galdur sem er innifalinn í þeim, eins og þá sem finnast á töfrarúllum til dæmis; hins vegar virkjast bölvaðar töfrarúllur og þess háttar við notkun þessa galdurs, sem kastar hvaða galdri sem rúllan innihélt.
 
-Þegar notaður er til að bera kennsl á galdur sem er innihaldinn á bókrollu eða innan galdrabókar, er krafist 1 mínútu fyrir hvert stig galdurs; stig 1 galdrar taka 1 mínútu, stig 2 galdrar taka 2 mínútur, og svo framvegis. Ef nægileg virkni er eftir má bera kennsl á fleiri galdra á þessum tíma. Þegar þessi galdur hefur verið notaður til að lesa og bera kennsl á sett af töfrandi áletrunum, þarf galdramaðurinn ekki að kasta Read Magic til að lesa þær aftur; hins vegar myndi sami galdur á annarri bókrollu, bók, og svo framvegis, þurfa annað kast á Read Magic.
+Þegar hann er notaður til að bera kennsl á galdur sem er á rúllu eða í galdrabók, þarf 1 mínútu fyrir hverja galdraröð; Röð 1 galdrar taka 1 mínútu, Röð 2 galdrar taka 2 mínútur og svo framvegis. Ef nægileg Lengd er eftir má bera kennsl á viðbótargaldra á þessum tíma. Þegar þessi galdur hefur verið notaður til að lesa og bera kennsl á safn af töfraskriftum, þarf galdramaðurinn ekki að kasta Lesa galdra til að lesa þær aftur; hins vegar þyrfti sami galdur á annarri rúllu, bók og svo framvegis aðra köst á Lesa galdra.
 
-Read Magic er nýtanlegur af öllum galdraskólum.
+Lesa galdra er nothæfur af öllum galdraskólum.
 
 ---
-#### Regenerate \(R\)
+#### Endurnýja \(R\)
 
-(Necromancy)
+(Dauðagaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Klerkur 4 | **Kasttími:** 3 mínútur |
-| **Svið:** Lækning | **Virkni:** Varanleg |
-| **Kostnaður:** 3/styrkleiki | **Drægni:** Snerting |
-| **Svæði:** 1 vera | **Vörn:** NA (Parry eða Evade) |
+| **Röð:** Klerkur 4 | **Töfratími:** 3 mínútur |
+| **Svið:** Lækning | **Lengd:** Varanleg |
+| **Kostnaður:** 3/Styrkleika | **Drægni:** Snerting |
+| **Svæði:** 1 vera | **Vörn:** Engin (Vörn eða Undanbragð) |
 
-Þegar kastað er getur klerkurinn snert eina veru og endurheimt afstýfðan líkamshluta. Týndir útlimir munu vaxa aftur að fullu á hraðanum 1 heilsu-punktur á hverjar 10 mínútur þar til full læknaðir. Hins vegar, ef afstýfða staðsetningin er til staðar og snertir fórnarlambið, er allur batatíminn minnkaður í 1 mínútu. Þennan galdur má ekki nota til að „klóna“ einstakling með því að endurheimta tvo aðskilda hluta, þar sem aðeins sá hluti sem tengist heila og miðtaugakerfi nýtur áhrifa galdursins. Hvert stig af styrkleika mun láta vaxa aftur sérstakan líkamshluta. Á meðan galdurinn gæti verið notaður til að lækna hægt minniháttar áverka, eru lægri stiga, minna kostnaðarsamir galdrar til að gera slíkt.
+Þegar þessi galdur er kastaður getur klerkurinn snert eina veru og endurnýjað aflimaðan líkamshluta. Týndir útlimir munu vaxa aftur að fullu á hraðanum 1 lífspunktur á 10 mínútna fresti þar til þeir eru fullgrónir. Hins vegar, ef afskorinn líkamshluti er til staðar og snertir fórnarlambið, styttist allur bati niður í 1 mínútu. Ekki er hægt að nota þennan galdur til að „klóna“ einstakling með því að endurnýja tvo aðskilda hluta, þar sem aðeins sá hluti sem tengist heilanum og miðtaugakerfinu nýtur áhrifa galdursins. Hvert stig Styrkleika mun láta annan líkamshluta vaxa aftur. Þó að galdurinn gæti verið notaður til að lækna smávægilegri meiðsl hægt, eru til lægri röðar og ódýrari galdrar til þess.
 
-Þegar snúið er við, Wither veldur því að staðsetning sem klerkurinn snertir skreppur saman og fellur að lokum af fórnarlambinu. Ferlið veldur tapi á 1 heilsu-punkti af skaða á áhrifasvæðinu á hverjar 10 mínútur, þar sem staðsetningin verður ónothæf við 0 heilsu-punkta, og fellur af þegar hún er fullkomlega neikvæð. Áhrifunum má aðeins ógilda með kast á Regenerate.
+Þegar snúið er við, Hverfa, mun valda því að sá líkamshluti sem galdramaðurinn snertir skreppur saman og dettur að lokum af fórnarlambinu. Ferlið veldur tapi á 1 lífspunkti af skaða á viðkomandi líkamshluta á 10 mínútna fresti, þar sem líkamshlutinn verður ónothæfur við 0 lífspunkta og dettur af þegar hann er að fullu í mínus. Áhrifunum má aðeins snúa við með því að kasta Endurnýja.
 
 ---
-#### Reincarnation, Arcane
+#### Endurholdgun, Galdratöfra
 
-(Necromancy)
+(Dauðagaldur)
 
 | | |
 | :-- | :-- |
-| **Stig:** Galdrakarl 4 | **Kasttími:** 10 mínútur |
-| **Svið:** Ekkert | **Virkni:** Varanleg |
-| **Kostnaður:** 3, +1/viðbótarstyrkleiki, +1EXP | **Drægni:** Snerting |
+| **Röð:** Galdramaður 4 | **Töfratími:** 10 mínútur |
+| **Svið:** Ekkert | **Lengd:** Varanleg |
+| **Kostnaður:** 3, +1/viðbótar Styrkleika, +1EXP | **Drægni:** Snerting |
 | **Svæði:** 1 skotmark | **Vörn:** Sjá hér að neðan |
 
-Þessi galdur er kastaður á meðan snert er lík veru sem hefur verið dauð í minna en 24 klukkustundir fyrir hvert stig af styrkleika. Hins vegar hefur þessi útgáfa af Reincarnation engin áhrif á fullblóða álfum (sjá þess í stað guðlega galdrana [Raise Dead](0010_Spells.md?id=raise-dead-r) eða [Resurrection](0010_Spells.md?id=resurrection-r)). Ef viðfangsefnið var eitthvað annað en illt, stendur viðfangsefnið gegn galdrinum með andstæðu Willpower-kasti, og ef árangursríkt, ógildir áhrif galdursins. Þetta er vegna þess að sál eða andi hins látna er sjaldan fús til að komast í nýjan líkama þegar hann hefur náð eilífu lífi sínu. Leikstjórinn getur ákveðið að fella kastið ef viðtakandinn hefur ólokið verkefni, getur ekki verið aðskilinn frá sinni sönnu ást, eða hefur einhverja aðra hetjulega ástæðu til að lifa.
+Þessi galdur er kastaður meðan verið er að snerta lík veru sem hefur verið dáin í minna en 24 klukkustundir fyrir hvert stig Styrkleika. Hins vegar hefur þessi útgáfa af Endurholdgun engin áhrif á hreinræktaða álfa (sjá í staðinn guðlegu galdrana [Vekja upp dauða](0010_Spells.md?id=raise-dead-r) eða [Upprisu](0010_Spells.md?id=resurrection-r)). Ef siðferði fórnarlambsins var eitthvað annað en illt, verst fórnarlambið galdrinum með andstæðu Viljakasti, og ef það tekst, gerir áhrif galdursins að engu. Þetta er vegna þess að sál eða andi hins látna er sjaldan fús til að fara í nýjan líkama þegar hann hefur náð eilífum launum sínum. Spilastjórinn getur ákveðið að sleppa kastinu ef viðtakandinn hefur ólokið mál, getur ekki verið aðskilinn frá sannri ást sinni eða hefur einhverja aðra hetjulega ástæðu til að lifa.
 
-Í tilviki illra sála, sem myndu fúslega snúa aftur til efnisheimsins í stað þess að þjást af eilífri fordæmingu, er það ekki Willpower hins látna sem stendur í vegi, heldur þess djöfuls, illu veru, og svo framvegis, sem settur er í ábyrgð á refsingu þeirra, kvalarans þeirra. Í þessu tilviki verður galdramaðurinn að sigrast á Willpower kvalarans. Ef þetta er óþekkt, gerið ráð fyrir að það sé að minnsta kosti 20 stigum hærra en hins látna til að tákna að því sterkari sem vilji sálarinnar er, því öflugri veran sem sett er í ábyrgð á fordæmingu hans eða hennar. Ef galdramaðurinn tekst, hefur hann tekist að festa andann við gestgjafann, á meðan misheppnað kast leiðir til þ
+<details>
+
+<summary>* Errata fyrir samfélagið</summary>
+
+---
+
+#### Endurholdgun, Galdratöfra
+
+_Upphaflega reglan var sem hér segir: „Hins vegar hefur þessi útgáfa af Endurholdgun engin áhrif á hreinræktaða álfa (sjá í staðinn Guðlega endurholdgun).“_
+
+_Það er ekkert minnst á Guðlega endurholdgun í Classic Fantasy Imperative, svo þessu hefur verið breytt til að vísa til Vekja upp dauða og Upprisu, en hvorugt þeirra bannar endurkomu álfa._
+
+---
+
+</details>
+
+Í tilviki illra sála, sem myndu fúslega snúa aftur til efnisheimsins í stað þess að þjást í eilífri fordæmingu, er það ekki Vilji hins látna sem stendur í vegi, heldur vilji djöfulsins, andans og svo framvegis, sem settur er yfir refsingu þeirra, kvalarans. Í þessu tilviki verður galdramaðurinn að yfirvinna Vilja kvalarans. Ef þetta er óþekkt, skal gera ráð fyrir að hann sé að minnsta kosti 20 punktum hærri en hjá hinum látna til að tákna að því sterkari sem vilji sálarinnar er, því öflugri er vera sú sem sett er yfir fordæmingu hennar. Ef galdramanni tekst þetta, hefur hann tekist að festa andann við hýsilinn, á meðan misheppnað kast leiðir til þess að fórnarlambið er annað hvort ófúst eða ófært um að snúa aftur.
+
+Ef kastið tekst, birtist fullþroskaður líkami á 1d6x10 mínútum sem inniheldur meðvitund hins látna. Galdramaðurinn hefur enga stjórn á forminu eða kyninu sem sálin snýr aftur í - kastaðu miðað við töfluna hér að neðan. Fyrri stétt og röð persónunnar helst. Þetta þýðir að það gæti þurft einhverja sannfæringu af hálfu persónunnar um að hún sé sú sem hún segist vera þegar hún talar við vini, fjölskyldu og fyrrverandi kunningja; þetta felur í sér reglu þeirra eða gildi þegar kemur að framgangi ef við á. Þetta endurspeglast best með Áhrifakasti af hálfu persónunnar, breytt eftir því hversu róttæk breytingin er, eins og ákveðið er af Spilastjóranum. Til dæmis gæti dvergur sem endurholdgast sem annar dvergur krafist hefðbundins Áhrifakasts til að sannfæra fyrrverandi bandamann um raunverulega sjálfsmynd sína, á meðan endurholdgun í dverg eða hálfmennska gæti leitt til þess að kastið væri einu stigi erfiðara. Að lokum gæti sú sama persóna fundið það tveimur stigum erfiðara að sannfæra aðra um sjálfsmynd sína ef hún breytist í eitthvað eins ýkt og tröll, ork eða tröll.
+
+Allir eiginleikar eru ákvarðaðir af handahófi samkvæmt nýja forminu, fyrir utan GRE, MÁT og KAR, sem haldast óbreytt. Endurreiknaðu grunnfærnistig persónunnar og aðlagaðu heildarfærni í samræmi við það. Ástríður hafa engin áhrif. Allir fyrri kynþáttareiginleikar týnast og koma í stað þeirra eiginleikar nýju tegundarinnar. Ef nýja formið hentar ekki gamla persónustéttinni, er eini kosturinn að takast á við það, eða læra nýja stétt. Endurholdgaður einstaklingur man mest af fyrra lífi sínu, þó að Spilastjórinn geti beðið persónuna um að gera Viljakast til að muna mikilvægar staðreyndir fyrstu vikuna. Ósk getur snúið endurholdguðum einstaklingi aftur í fyrra form ef þess er óskað síðar.
+
+Kastaðu miðað við eftirfarandi töflu til að ákvarða nýja formið.
+
+##### Tafla yfir niðurstöður endurholdgunar
+
+| Niðurstaða endurholdgunar |  | Hálf-manneskja |  | Manneskja/Skrímsli |  |
+|:-:|:--|:-:|:--|:-:|:--|
+| **D100 kast** | **Niðurstaða** | **D100 kast** | **Niðurstaða** | **D100 kast** | **Niðurstaða** | 
+| 01-20 | Manneskja | 01-20 | Dvergur | 01-10 | Bugbear | 
+| 21-60 | Hálf-manneskja \* | 21-40 | Álfur | 11-26 | Gnoll | 
+| 61-95 | Manneskja/Skrímsli \*\* | 41-60 | Dvergur | 27-42 | Tröll | 
+| 96-00 | Annað - Val GM | 61-80 | Hálf-álfur | 43-58 | Hobgoblin | 
+|  |  | 81-100 | Hálfmennska | 59-74 | Kobold | 
+|  |  |  |  | 75-90 | Ork | 
+|  |  |  |  | 91-95 | Tröll | 
+|  |  |  |  | 96-00 | Tröll | 
+
+\* Kastaðu aftur og athugaðu dálkinn fyrir niðurstöður Hálf-manneskju.
+
+\*\* Kastaðu aftur og athugaðu dálkinn fyrir niðurstöður Manneskju/Skrímslis.
+
+---#### Fjarlægja bölvun \(R\)
+
+(Verndargaldur)
+
+|  |  |
+| :-- | :-- |
+| **Ranki:** Klerkur 2, Töframaður 3 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Vernd | **Lengd:** Varanleg |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
+
+Þessi galdur fjarlægir yfirleitt áhrif hvers kyns bölvunar sem hrjáir veru eða hlut. Hann fjarlægir ekki bölvaða eðli hlutar á borð við vopn, skjöld eða brynjur, en gerir veru sem er þjáð af slíkum hlut kleift að losa sig við hann. Sumar bölvanir má aðeins fjarlægja ef galdurinn er kastaður með ákveðnum styrkleika, sem venjulega er tilgreint í sérstakri lýsingu á bölvuninni. Hvort sem er *Lækna sjúkdóm* eða *Fjarlægja bölvun* má nota til að lækna varúlfaeðli, en hvort tveggja krefst styrkleikans 12.
+
+Andhverfa þessa galdurs, *Veita bölvun*, veldur óvini einum af eftirfarandi áhrifum í 30 mínútur á hvern styrkleikastig. Fórnarlambið fær að gera andstætt Viljastyrk-kast til að standast áhrifin eins og venjulega. Kastaðu 1d100 til að ákvarða eðli bölvunarinnar:
+
+- 01-25: Allir hæfileikar sem nota STY, LIP eða ÞOL eru einu stigi erfiðari. Frumkvæði -4, skaðabreyting minnkar um 2 skref.
+- 26-50: Allir hæfileikar sem nota GRE, MÁT eða KAR eru einu stigi erfiðari. Frumkvæði -4.
+- 51-75: Bardagahæfileikar og viðnámköst eru 2 stigum erfiðari.
+- 76-00: Öll misheppnuð hæfileikaköst teljast sem klaufaskapur.
+
+---
+#### Fjarlægja ótta \(R\)
+
+(Verndargaldur (Heillun))
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Heillun | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 1/styrkleiki | **Drægni:** 30 fet |
+| **Svæði:** 1 skotmark | **Viðnám:** Sjá hér að neðan |
+
+Galdramaðurinn getur rekið áhrif ótta úr einum einstaklingi á hvern styrkleika, sem veitir þeim viðbótarkast til að standast áhrifin. *Fjarlægja ótta* getur einnig veitt guðlega vernd gegn ótta í 10 mínútur þegar það er kastað á einhvern sem er ekki enn að þjást af áhrifum hans. Í báðum tilvikum er viðnámkastið sem krafist er af viðfangsefninu einu stigi auðveldara. Þótt klerkurinn gæti kastað þessum galdri á sjálfan sig til að verjast ótta, gæti hann ekki kastað honum til að fjarlægja viðvarandi áhrif ótta sem hindra framkvæmd galdra.
+
+Andhverfa þessa galdurs, *Valda ótta*, krefst þess að snerta fórnarlambið í bardaga. Þeir sem mistakast í Viljastyrk-viðnámkasti flýja í skelfingu á spretti í 1d4 lotur. Stefna flóttans verður að vera í burtu frá þeim sem kastar galdrinum. *Valda ótta* má hnekkja með *Fjarlægja ótta* og öfugt.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 1 | 30 feta drægni; 1 viðfangsefni |
+| 2 | 2 | 60 feta drægni; 2 viðfangsefni |
+| 3 | 3 | 90 feta drægni; 3 viðfangsefni |
+| 4 | 4 | 120 feta drægni; 4 viðfangsefni |
+| 5 | 5 | 150 feta drægni; 5 viðfangsefni |
+
+---
+#### Viðgerð
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 1, Töframaður 0 | **Kasttími:** 1 aðgerð |
+| **Svið:** Sköpun | **Lengd:** 24 klukkustundir |
+| **Kostnaður:** 1 | **Drægni:** Snerting |
+| **Svæði:** 1 hlutur | **Viðnám:** Ekkert |
+
+*Viðgerð* lagar líkamlegan skaða á líflausum hlut. Hvert stakt velheppnað kast lagar 1d3 höggpunkta af skemmdum.
+
+---
+#### Endurreisn
+
+(Dauðagaldur)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 3 | **Kasttími:** 3 mínútur |
+| **Svið:** Lækning | **Lengd:** Varanleg |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
+
+Þegar þessi galdur er kastaður fær fórnarlamb sem áður hefur verið tæmt af lífskrafti sínum með *Orkutæmingu* eða svipuðum áhrifum, aftur eitt stig af þreki sem áður tapaðist. Við 1 stig styrkleika virkar þessi galdur aðeins á veru sem hefur verið tæmd innan síðustu 24 klukkustunda. Hvert viðbótarstig styrkleika eykur tímann sem getur liðið um frekari 24 klukkustundir. Til dæmis, fórnarlamb sem var tæmt fyrir rétt tæpum 48 klukkustundum síðan þyrfti að fá galdurinn kastaðan með 2 styrkleika til að hann virki. Mörg stig af tæmdu þreki krefjast viðbótarkasta af *Endurreisn*. Burtséð frá lengd og til viðbótar við það þrek sem endurreist er, lagar galdurinn einnig alla andlega getu, svo sem þá sem tapast vegna galdra eða hvers kyns geðveiki eða heilabilunar. *Endurreisn* má einnig nota til að fjarlægja ár sem tapast vegna gerviöldrunar, svo sem frá ákveðnum göldrum. Til að kasta galdrinum á þennan hátt, til viðbótar við venjulegan kastkostnað, verður klerkurinn að eyða 1 reynslukasti (EXP) fyrir hvert 1% af dæmigerðri ævi viðtakandans sem á að endurreisa (1 ár fyrir manneskju). Galdurinn má ekki minnka núverandi aldur viðfangsefnisins niður fyrir raunverulegan aldur þess.
+
+---
+#### Upprisa \(R\)
+
+(Dauðagaldur)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 5 | **Kasttími:** 10 mínútur |
+| **Svið:** Dauðagaldur | **Lengd:** Varanleg |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki, +2 EXP | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert (Viljastyrkur) |
+
+*Upprisa* vekur til lífs hvaða veru sem hefur verið dauð í ekki meira en 20 ár á hvert stig styrkleika. Veran fær ekki aðeins líf, heldur er hún endurheimt til fulls styrks og læknuð af meiðslum, jafnvel með endurheimt tapaðra útlima. Lítið af raunverulegri veru þarf að vera eftir til að galdurinn sé enn áhrifaríkur. Til dæmis mætti nota *Upprisu* til að vekja veru aftur til lífs eftir 145 ár, jafnvel þótt aðeins fingurbein sé til staðar, að því gefnu að galdurinn sé kastaður með 8 styrkleika. Einstaklingurinn sem vakinn er þarf engan hvíldartíma og er fullkomlega starfhæfur strax. Galdurinn hefur engin áhrif á veru sem dó af eðlilegum orsökum í lok líftíma síns.
+
+Ef fylgni (Alignment) viðfangsefnisins var eitthvað annað en illt, geta þau staðist galdurinn með andstæðu Viljastyrks-kasti og, ef það tekst, gert áhrifin að engu. Þetta er vegna þess að sál eða andi hins látna er sjaldan fús til að snúa aftur til lifenda þegar hún hefur náð eilífum launum sínum. Leikstjórnandinn gæti þó ákveðið að fella kastið niður ef viðtakandinn hefur ólokið mál, getur ekki verið aðskilinn frá sannri ást sinni, eða hefur einhverja aðra hetjulega ástæðu til að lifa. Í tilviki illra sála, sem myndu fúslega snúa aftur frekar en að þjást í eilífri glötun, er það ekki Viljastyrkur hins látna sem veitir viðnám, heldur púkans, djöfulsins eða annars slíks sem fenginn er til að sjá um refsingu þeirra — kvalara þeirra. Í þessu tilviki verður galdramaðurinn að sigrast á Viljastyrk kvalarans. Ef hann er óþekktur, má gera ráð fyrir að hann sé að minnsta kosti 20 stigum hærri en hjá hinum látna til að tákna að því sterkari sem vilji sálarinnar er, því öflugri er veran sem sett er til að stjórna glötun hans eða hennar. Ef galdramanninum tekst þetta hefur viðfangsefnið verið upprisið með góðum árangri, á meðan misheppnað kast leiðir til þess að fórnarlambið er annaðhvort ófúst eða ófært um að snúa aftur.
+
+*Upprisa* er mjög tæmandi og eldir klerkinn um 3% af dæmigerðri ævi hans (3 ár í tilviki mannlegs galdramanns). Sjá reglur um [Öldrun](0007_Game_System.md?id=aging).
+
+Þegar henni er snúið við, *Eyðilegging*, má nota hana til að drepa eitt fórnarlamb sem er í snertingu við klerkinn á þeim tíma sem galdurinn er kastaður. Fórnarlambið fær að gera Viljastyrk-kast til að standast, breytt af ranka eða STÆ skotmarksins, hvort sem gefur fórnarlambinu hagstæðari niðurstöðu, eins og nánar er lýst í eftirfarandi töflu.
+
+| Ranki skotmarks | STÆ skotmarks | Viljastyrkbreytir |
+| :-: | :-: | :-- |
+| 0-1\* | 1-20 | Ógnvænlegur |
+| 2 | 21-40 | Erfiður |
+| 3 | 41-60 | Venjulegur |
+| 4 | 61-80 | Auðveldur |
+| 5 | 81+ | Mjög auðveldur |
+
+_\* Þessi flokkur inniheldur persónur sem eiga sér ekki stétt._
+
+Ef þetta viðnámkast misheppnast er viðfangsefnið drepið samstundis og líkami þess breytist í ryk. Aðeins kast af *Ósk* getur fært fórnarlambið aftur á þessu stigi. Við velheppnað kast minnkar fórnarlambið samt niður í neikvæða 1d4 höggpunkta á snerta höggstaðnum. Brynja veitir enga vörn gegn þessum skaða. *Eyðilegging* eldir ekki galdramanninn þegar hún er notuð.
+
+---
+#### Öruggt hlið
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Töframaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 1 mínúta/styrkleiki |
+| **Kostnaður:** 1/styrkleiki | **Drægni:** 60 fet/styrkleiki |
+| **Svæði:** 1 hlið | **Viðnám:** Ekkert |
+
+Þessum galdri má kasta til að halda lokuðum einum dyrum, hliði eða annarri sambærilegri opnun úr viði, steini eða málmi eins og hún væri tryggilega læst. Hurðin, sem má hafa allt að 25 höggpunkta á hvern styrkleika, má brjóta niður en mun að öðru leyti ekki opnast á meðan lengd galdursins varir, en galdramaðurinn getur endað hann hvenær sem er. Hægt er að hnekkja galdrinum með velheppnuðu kasti af *Hreinsa galdur* með styrkleika sem er meiri en Stærðargráðan eða *Knock* (Bank) með hvaða styrkleika sem er. *Öruggt hlið* er einnig sjálfkrafa framhjá farið af verum utan úr geimnum (prime material plane) eins og púkum, djöflum, englum og frumöflum þar sem þær geta farið í gegnum fast efni. Þetta hefur heldur ekki áhrif á *Blikk* eða aðra slíka galdra.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 1 | 1 mín.; 60 feta drægni; allt að 25 hp hlið; dæmigerð viðarhurð |
+| 2 | 2 | 2 mín.; 120 feta drægni; allt að 50 hp hlið; styrkt viðarhurð |
+| 3 | 3 | 3 mín.; 180 feta drægni; allt að 75 hp hlið; járnhurð eða hlið |
+| 4 | 4 | 4 mín.; 240 feta drægni; allt að 120 hp hlið; lítið kastalahlið |
+| 5 | 5 | 5 mín.; 300 feta drægni; allt að 150 hp hlið; stórt, styrkt kastalahlið |
+
+---
+#### Skjöldur
+
+(Framköllun)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Töframaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 5 lotur/styrkleiki |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 0 |
+| **Svæði:** Galdramaðurinn | **Viðnám:** Ekkert |
+
+*Skjöldur* skapar ósýnilegan hreyfanlegan disk af afli sem svífur fyrir framan galdramanninn og eykur erfiðleika árása sem koma úr þeirri átt með því að sveigja þær frá. Í smámyndabardaga mun *Skjöldur* aðeins loka fyrir skaða sem fer í gegnum einn af fremri reitum galdramannsins. Galdramaðurinn þarf ekki að gera nein hæfileikapróf önnur en að kasta galdrinum, þar sem galdurinn setur skjöldinn sjálfkrafa á milli árásanna og galdramannsins. Refsingin sem beitt er á árásir sem koma framan að galdramanninum byggist á gerð árásarinnar og er ítarlega lýst í eftirfarandi töflu.
+
+| Tegund árásar | Dæmi | Erfiðleiki við að hitta galdramann |
+| :-- | :-- | :-- |
+| Töfraskot | Aðeins töfraskot | Ómögulegt, töfraskot eru sjálfkrafa lokuð |
+| Kastárásir | Steinar, kastaðar axir og spjót, o.s.frv. | Ógnvænlegur |
+| Árásir með tækjum | Örvar, lásboga- og manticore-boltar, slöngusteinar og kúlur, o.s.frv. | Ógnvænlegur |
+| Önnur líkamleg | Sverð, bit, klær, o.s.frv. | Erfiður |
+| Galdrar sem má forðast | Eldbolti, elding, kuldakeila, o.s.frv. | Venjulegur erfiðleiki, en enginn skaði ef galdramaðurinn forðast og helmingur ef þeim mistekst |
+
+---
+#### Þögn
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 2 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Verndari | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 360 fet |
+| **Svæði:** 15 feta radíus | **Viðnám:** Sjá hér að neðan |
+
+Þessi galdur gerir galdramanninum kleift að skapa algjöra og fullkomna þögn á áhrifasvæðinu. Ekkert hljóð er mögulegt, samtöl hætta, galdra með orðahluta er ekki hægt að kasta o.s.frv. Ef *Þögn* er kastað á hlut eða veru, mun áhrifasvæði galdursins hreyfast með skotmarkinu. Hins vegar mun sami galdur sem kastað er út í loftið haldast kyrrstæður. Lengd galdursins fer eftir því hvort viðfangsefnið er fúst eða ófúst. Á fúsu viðfangsefni er lengdin 2 mínútur/styrkleiki, á meðan á ófúsu viðfangsefni er lengdin 2 lotur/styrkleiki. Viljastyrk-viðnámkast er aðeins leyft ef galdrinum er kastað á ófúsa veru og ef það tekst, beinist galdurinn í staðinn að svæðinu sem veran tekur upp og verður kyrrstæður.
+
+---
+#### Svefn
+
+(Heillun (Heillun))
+
+| | |
+| :-- | :-- |
+| **Ranki:** Töframaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 5 mínútur/styrkleiki |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 60 fet |
+| **Svæði:** 10 feta radíus | **Viðnám:** Viljastyrkur |
+
+Þessi galdur veldur töfrasvefni á eina lifandi veru á hvern styrkleika á hringlaga svæði sem er 10 fet í radíus. Áhrifasvæði galdursins miðast við punkt í rýminu eða á jörðinni og næsta vera má standast fyrst, síðan sú næsta, og svo framvegis. Þar sem tvær eða fleiri eru í sömu fjarlægð skal ákvarða af handahófi hver verður fyrir áhrifum. Hverri veru er leyft að kasta til að standast og ef einum tekst það, verður annar að reyna þar til heildarfjöldi hefur orðið fyrir áhrifum sem jafngildir styrkleika galdursins, eða engar verur eru lengur á áhrifasvæðinu. Verur í aukinni árvekni, eða í bardaga þegar galdrinum er kastað, finnst kastið til að standast einu stigi auðveldara.
+
+Stórar verur (STÆ 21-40) eru síður næmar fyrir *Svefni*, þar sem viðnámkastið er Auðvelt, á meðan viðnámkastið fyrir gríðarstórar verur (STÆ 41+) er Mjög auðvelt. Minni verur verða alltaf fyrir áhrifum á undan stærri verum; þess vegna verða verur með STÆ 20 eða minna alltaf fyrir áhrifum á undan þeim með STÆ 21 til 40, sem aftur verða alltaf fyrir áhrifum á undan þeim með STÆ 41+.
+
+Á meðan þær sofa eru verurnar sem verða fyrir áhrifum hjálparlausar og venjulegur hávaði mun ekki trufla þær, en hægt er að hrista þær eða slá þær vakandi. Sérhver árás, að því gefnu að hún sé ekki banvæn, mun einnig valda því að þær vakna (þótt árásin komi á óvart). Að reyna að vekja veru tekur 1 bardagalotu.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 3 | 5 mín. lengd; 1 vera |
+| 2 | 4 | 10 mín. lengd; 2 verur |
+| 3 | 5 | 15 mín. lengd; 3 verur |
+| 4 | 6 | 20 mín. lengd; 4 verur |
+| +1 | +1 | Halda áfram framvindu |
+
+---
+#### Hægja
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Töframaður 2 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 2 lotur/styrkleiki |
+| **Kostnaður:** 3/styrkleiki | **Drægni:** 100 fet |
+| **Svæði:** 20 feta radíus | **Viðnám:** Viljastyrkur |
+
+Þessi galdur gerir galdramanninum kleift að helminga venjulegan hreyfihraða einnar veru. Hægt er að hægja á einni veru til viðbótar fyrir hvert viðbótarstig styrkleika. Þeir sem verða fyrir áhrifum verða að vera innan áhrifasvæðisins þegar galdrinum er fyrst kastað en mega hreyfa sig frjálst eftir það. Að auki fá þeir sem eru undir áhrifum *Hægja* -4 refsistig á frumkvæði sitt í lengd galdursins og verða að helminga heildar-aðgerðapunkta sína, þar með talið þá sem notaðir eru í viðbragðsskyni eingöngu. Kast af *Hægja* eyðir áhrifum *Hraða*. *Hægja* staflast ekki með sjálfu sér eða svipuðum galdraáhrifum.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 3 | 2 lotna lengd; 1 vera |
+| 2 | 6 | 4 lotna lengd; 2 verur |
+| 3 | 9 | 6 lotna lengd; 3 verur |
+| 4 | 12 | 8 lotna lengd; 4 verur |
+| +1 | +3 | Halda áfram framvindu |
+
+---
+#### Hægja eitur
+
+(Dauðagaldur)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Lækning | **Lengd:** 1 klukkustund/styrkleiki |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
+
+Þessi galdur gerir galdramanninum kleift að hægja á áhrifum eiturs og eiturtenna; hann hlutleysir þó ekki eitrið. Í staðinn er eitrinu sem dreifist um líkamann hægt nóg svo að vonandi megi finna frekari lækningaleiðir. Upphafstími eiturs byrjar ekki fyrr en eftir að lengd galdursins er lokið.
+
+Til dæmis hefur kobraeitur upphafstíma eins og hér segir: kvöl eftir 1d6+4 mínútur, og kafnun eftir 1d6+6 klukkustundir. Einn styrkleiki af *Hægja eitur* frestar því upphafstímanum um 1 klukkustund, eftir það byrjar kvöl eins og venjulega 1d6+4 mínútum síðar.
+
+Ef *Hægja eitur* er kastað á fórnarlamb eftir að einkenni hafa komið fram, þá hætta þau þar til eftir að lengd galdursins rennur út og halda síðan áfram eins og venjulega.
+
+Sem síðasta úrræði, ef galdramaðurinn nær til einstaklings sem hefur 'dáið' af eitrun innan 10 mínútna, tefur *Hægja eitur* dauða fórnarlambsins um 1 klukkustund á hvern styrkleika, en á þeim tíma liggur fórnarlambið í dái. Ef fórnarlambið getur verið læknað af eitrinu á þessum tíma gæti það enn lifað og verið endurlífgað með fyrstu hjálp eða töfralækningu.
+
+---
+#### Tala við skrímsli
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 4 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Spádómur | **Lengd:** 2 mínútur/styrkleiki |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 100 fet |
+| **Svæði:** 1 eða fleiri skrímsli | **Viðnám:** Ekkert |
+
+Þessi galdur gerir galdramanninum kleift að skilja og láta skilja sig af hvers kyns verum sem eru færar um hvers kyns samskipti (fjarhrif, hormónaboð, snertingu, o.s.frv.). Galdramaðurinn talar einfaldlega á eigin tungumáli og veran skilur ætlun eða fyrirspurn galdramannsins í sinni eigin samskiptaformi. Leikstjórnandinn ætti að ákvarða viðbrögð verunnar út frá fylgni hennar í samanburði við fylgni galdramannsins. Galdramaðurinn má skipta úr einni veru yfir í aðra af sömu gerð út lengd galdursins.
+
+---
+#### Óbrotgjarn kúla, minni
+
+(Verndargaldur)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Töframaður 3 | **Kasttími:** 2 aðgerðir |
+| **Svið:** Ekkert | **Lengd:** 1 lota/styrkleiki |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 0 |
+| **Svæði:** 5 feta radíus | **Viðnám:** Ekkert |
+
+Þegar þessum galdri er kastað myndast kyrrstæð kúla af glitrandi töfravernd í kringum galdramanninn. Galdrar á ranka 1 og 2, sem og öll töfraáhrifasvæði sem þeir skapa, munu mistakast við að komast í gegnum kúluna, þar með talið þeir sem tilheyra töfrahlutum eða meðfæddum töfrahæfileikum sumra vera. Galdramaðurinn og allir bandamenn sem geta kastað göldrum mega gera töfraárás innan úr kúlunni án nokkurra aukaverkana, og jafnvel yfirgefa kúluna og snúa aftur án þess að það hafi áhrif á lengd hennar. *Minni óbrotgjörn kúla* verður fyrir eðlilegum áhrifum af *Hreinsa galdur*.
+
+---
+#### Köngulóarklifur
+
+(Umbreyting)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Töframaður 1 | **Kasttími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 2 mínútur/styrkleiki |
+| **Kostnaður:** 1/styrkleiki | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Viðnám:** Ekkert |
+
+Viðfangsefni þessa galdurs getur hreyft sig meðfram lóðréttum flötum og loftum með 10 feta hreyfihraða, jafnvel á meðan það hangir á hvolfi. Viðfangsefnið verður að fjarlægja alla hand- og fótabúnað og notkun mjög smárra hluta (óverulegur búnaðarþyngd) er ómöguleg vegna þess að þeir festast við hendur þeirra. Þetta inniheldur flest efnishluti til galdrakasta, sem gerir galdraköst venjulega ómöguleg undir áhrifum *Köngulóarklifurs*. Til að losa hlut frá einstaklingnum eða draga einstakling sem veitir viðnám af fleti þarf velheppnað Vöðvakast (Brawn) á ógnvænlegum erfiðleika.
+
+---
+#### Andaskjöldur
+
+(Verndargaldur)
+
+| | |
+| :-- | :-- |
+| **Ranki:** Klerkur 0 | **Kasttími:** 1 aðgerð |
+| **Svið:** Dauðagaldur | **Lengd:** Einbeiting |
+| **Kostnaður:** 1 | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Viðnám:** Viljastyrkur |
+
+Þessi galdur skapar skjöld í kringum viðtakandann sem letur anda og drauga frá því að komast inn. Sérhver andi eða draugur sem vill ráðast á eða herja á viðtakandann verður að yfirvinna galdurinn með því að vinna andstæðu prófun á Viljastyrk þeirra gegn Guðrækni-hæfileika galdramannsins.#### Andlegur hamar
+
+(Evocation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Klerkur 2 | **Töfratími:** 2 aðgerðir |
+| **Svið:** Bardagi | **Lengd:** 3 umferðir/styrkleika |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 0 |
+| **Svæði:** 30 feta radíus/styrkleiki | **Vörn:** Parry eða Evade |
+
+Þegar þessi galdur er framkvæmdur birtist hamarlíkur kraftur andlegrar orku, sem hleypur síðan á skotmark sem klerkurinn tilgreinir. Í hverri umferð getur klerkurinn notað eitt af sínum aðgerðastigum til að beina hamrinum í árás, að því tilskildu að einbeiting sé viðhaldið. Á meðan einbeiting stendur yfir takmarkast klerkurinn við að hreyfa sig ekki hraðar en gönguhraða, og má nota Evade eða Parry með útbúnu vopni eða skjöld án þess að rjúfa einbeitinguna. Með hverju aðgerðastigi sem varið er í að stjórna hamrinum er hægt að færa hann á hvaða stað sem er innan sjónsviðs klerksins. Ef klerkurinn er fyrir aftan andstæðing geta þeir notað hamarinn til að slá andstæðinginn aftan frá, sem gerir möguleika andstæðingsins á að verjast að engu. Andlegur hamar veldur skaða eins og venjulegur stríðshamar (1d8+1) og hefur hæfni til að hitta sem samsvarar bardagahæfni klerksins. Klædd brynja býður aðeins upp á hálfa vörn, en töfrandi brynjustig eða náttúruleg brynja veru draga úr skaða eins og venjulega. Hægt er að verjast honum með Parry eða Evade eins og venjulega og árásir á hann eru árangurslausar. Andlegur hamar telst sem töfravopn að því er varðar að slá verur sem aðeins skaðast af töfrum, þar sem hvert stig styrkleika eftir það fyrsta veitir samsvarandi uppsafnaðan +1 töfrabónus, að hámarki +5. Þessi bónus bætist ekki við skaðann sem valdið er, heldur hjálpar hann til við að skaða verur sem aðeins skaðast af ákveðnum töfrabónus eða hærra.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 3 | 3 umferðir; 30 feta radíus; telst sem +0 |
+| 2 | 4 | 6 umferðir; 60 feta radíus; telst sem +1 |
+| 3 | 5 | 9 umferðir; 90 feta radíus; telst sem +2 |
+| 4 | 6 | 12 umferðir; 120 feta radíus; telst sem +3 |
+| 5 | 7 | 15 umferðir; 150 feta radíus; telst sem +4 |
+| 6 | 8 | 18 umferðir; 180 feta radíus; telst sem +5 hámark |
+| +1 | +1 | Halda áfram framvindu fyrir umferðir og radíus |
+
+---
+#### Sólargeisli
+
+(Evocation, Transmutation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Klerkur 5 | **Töfratími:** 2 aðgerðir |
+| **Svið:** Sól | **Lengd:** 1d4+1 umferð |
+| **Kostnaður:** 3/styrkleika | **Drægni:** 30 fet/styrkleika |
+| **Svæði:** 5 feta radíus | **Vörn:** Sjá hér að neðan |
+
+Þegar galdurinn er framkvæmdur getur klerkurinn kallað fram bjartan geisla af heilögu ljósi með því að nota Cast Magic aðgerð á hvaða tímapunkti sem er á meðan galdurinn varir. Geislinn er náttúrulegt sólarljós og hefur fimm feta radíus. Þeir sem eru á áhrifasvæðinu verða að nota Evade til að reyna að verja augu sín eða verða blindir í 1d3 mínútur. Ef þeir mistakast í vörnarvarnarkasti sínu blinda Sólargeislinn verur sem nota Darkvision í 2d4 mínútur og þær missa Darkvision hæfni sína í 1d4+1 mínútu út að 20 fetum fyrir utan áhrifasvæðið. Verur sem finna náttúrulegt sólarljós skaðlegt sjón sinni verða varanlega blindar við misheppnað vörnarvarnarkast eða blindar í 2d6 umferðir ef kastið heppnast.
+
+Undirheimaverur (Undead) á áhrifasvæðinu taka 2d6 skaðastig á hvern líkamshluta. Brynja, náttúruleg eða önnur, býður enga vörn, en töfrandi brynjustig draga úr skaða eins og venjulega. Þeir sem eru innan fimm feta frá brún áhrifasvæðisins mega nota Evade til að taka engan skaða. Undirheimaverur innan 20 feta frá áhrifasvæðinu taka samt sem áður 1d6+1 skaðastig en verða fyrir engum skaða við heppnað vörnarvarnarkast. Undirheimaverur sem skaðast sérstaklega af sólarljósi, svo sem vampírur, eyðileggjast ef þær mistakast í að nota Evade. Sveppaverur sem og allar tegundir neðanjarðarsveppa verða fyrir sömu áhrifum og undirheimaverur en geta ekki kastað vörnarvarnarkasti.
+
+---
+#### Snyrta
+
+(Transmutation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Galdramaður 0 | **Töfratími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** Augnablik |
+| **Kostnaður:** 1 | **Drægni:** 20 fet |
+| **Svæði:** Sjá hér að neðan | **Vörn:** NA |
+
+Snyrta endurheimtir tafarlaust fjölda hluta (upp að MÁT klerksins) sem eru að stærð ekki meira en 2 'hlutir' hver, í snyrtilega, hreina og skipulega röð innan drægni galdursins. Hlutir stærri en 2 'hlutir' hver eru færðir í skipulegri stöðu en munu krefjast handvirkrar íhlutunar til að snyrtast almennilega.
+
+---
+#### Sönn sýn
+
+(Divination)
+
+| | |
+| :-- | :-- |
+| **Stig:** Klerkur 3, Galdramaður 4 | **Töfratími:** 1 umferð |
+| **Svið:** Divination | **Lengd:** 1 mínúta/styrkleika |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
+| **Svæði:** 1 skotmark | **Vörn:** NA |
+
+Sönn sýn veitir viðtakandanum getu til að sjá heiminn skýrt, í 60 feta drægni, háð sjónlínu. Öll leyndarmál innan áhrifasvæðisins verða sýnileg; bæði náttúrulegt og töfrandi myrkur gegnsýrist; leynihurðir verða sýnilegar; ósýnilegir eða ójarðneskir árásarmenn afhjúpast; tálsýnir og draumsýnir verða augljósar; og sönn mynd verubreyttra vera afhjúpast. Jafnvel hið ójarðneska og önnur plan sem liggja að efnisplaninu má sjá með einbeitingu. Sönn sýn gerir einnig áhrif galdra eins og Blur og Mirror Image að engu. Auk veraldlegra efnislegra hluta krefst framkvæmd Sannrar sýnar sjaldgæfra innihaldsefna úr duftformuðum sveppum, saffrani og dýrafitu, með virði að minnsta kosti 300GP.
+
+---
+#### Rödd
+
+(Enchantment (Charm))
+
+| | |
+| :-- | :-- |
+| **Stig:** Klerkur 0 | **Töfratími:** 1 aðgerð |
+| **Svið:** Charm | **Lengd:** Einbeiting |
+| **Kostnaður:** 1 | **Drægni:** Sjá hér að neðan |
+| **Svæði:** 1 skotmark | **Vörn:** Þol |
+
+Rödd magnar upp raddblæ og framburð viðtakandans þannig að hann verður sannfærandi þegar gefnar eru munnlegar skipanir. Allir sem geta heyrt í ræðumanninum neyðast til að hlusta. Raddbeitingin berst einnig yfir og í gegnum jafnvel hæsta bakgrunnshávaða (öskrandi storma, nið fossins, skell vopna á vígvellinum) allt að 30 sinnum KAR viðtakandans í fetum.
+
+---
+#### Eldveggur/Eldhringur
+
+(Evocation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Klerkur 3, Galdramaður 3 | **Töfratími:** 2 aðgerðir |
+| **Svið:** Bardagi, Frumkraftur (Eldur) | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Sjá hér að neðan |
+| **Svæði:** Sjá hér að neðan | **Vörn:** Sjá hér að neðan |
+
+Þessi galdur gerir klerkinum kleift að kalla fram vegg eða hring af logandi eldi, eftir óskum við framkvæmd, sem brennur í fjólubláum eða rauðbláum lit. Lengd galdursins helst í gildi ef einbeitingu er viðhaldið, eða í 1 umferð á hvert styrkleikastig þegar einbeitingu lýkur. Nánari upplýsingar eru útlistaðar hér að neðan eftir tegund:
+
+**Eldveggur:** Þessi útgáfa galdursins skapar kyrrstæðan eldvegg sem er 20 fet á lengd á hvert styrkleikastig. Burtséð frá endanlegum styrkleika hefur veggurinn 10 til 20 feta hæð eftir óskum við framkvæmd. Eldveggur hefur 180 feta drægni og má ekki kalla fram lárétt.
+
+**Eldhringur:** Þessi útgáfa galdursins skapar eldvegg í kringum klerkinn sem hreyfist með þeim. Hann hefur 10 feta radíus, auk 5 feta á hvert viðbótarstyrkleikastig umfram það fyrsta. Burtséð frá endanlegum styrkleika hefur hringurinn 10 til 20 feta hæð eftir óskum við framkvæmd. Eldhringur verður að umlykja klerkinn og hefur 0 drægni.
+
+Hlið veggsins eða hringsins sem snýr frá klerkinum gefur frá sér brennandi hita, sem veldur 1d6 skaða á hverri umferð fyrir alla innan 10 feta, og 1d4 skaða út að 20 fetum. Þessum skaða er venjulega beitt í lok umferðarinnar áður en haldið er áfram í þá næstu. Þar sem fórnarlamb tekur báðar hitasvæðin í einni umferð gildir hærri skaðinn. Þeir sem hoppa í gegnum eldinn verða fyrir 2d6 skaðastigum, auk eins viðbótarskaðastigs á hvert styrkleikastig umfram það fyrsta. Þessum skaða er beitt á hvern líkamshluta og klædd brynja býður enga vörn, en töfrandi brynjustig eða náttúruleg brynja veru draga úr skaða eins og venjulega. Heppnað vörnarvarnarkast (Evade) gerir fórnarlambinu kleift að taka engan skaða í þeirri umferð sem galdurinn kemur fram, þegar fórnarlambið reynir að kasta sér undan hitanum eða framhjá logunum. Eldnotandi verur taka hálfan þennan skaða og kuldanotandi verur tvöfaldan. Logarnir eiga möguleika á að kveikja í eldfimum efnum sem jafngildir rúlluðum skaða x5%. Sjá kaflann um [Eld](0007_Game_System.md?id=fire-based-attacks) fyrir frekari upplýsingar.
+
+---
+#### Vatnsöndun \(R\)
+
+(Transmutation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Klerkur 2, Galdramaður 2 | **Töfratími:** 2 aðgerðir |
+| **Svið:** Frumkraftur (Vatn, Loft) | **Lengd:** 6 klukkustundir/styrkleika, +1d4 klukkustundir |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** Snerting |
+| **Svæði:** 1 eða fleiri skotmark | **Vörn:** NA |
+
+Þessi galdur veitir getu fyrir klerkinn eða aðra til að anda að sér vatni allan tímann sem hann varir. Meðan á framkvæmd stendur má snerta fleiri en einn viðtakanda og þannig fá þá ávinning Vatnsöndunar. Í því tilviki er lengdin deild með fjölda viðfangsefna. Nákvæm lengd Vatnsöndunargaldursins er óútreiknanleg og ætti að vera rúlluð af leikstjóra, þar sem þeir sem eru undir áhrifum þess ættu ekki að vita nákvæmlega hversu mikill tími er eftir. Gagnstæð útgáfa þessa galdurs, Loftöndun, gerir veru sem annars er ófær um að anda súrefni kleift að gera það. Hæfileikinn til að anda að sér sínu náttúrulega frumefni er enn haldið burtséð frá afbrigði galdursins, svo fiskur gæti bæði andað á landi og undir vatni á meðan galdurinn varir.
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 3 | 6 klst +1d4 klst alls |
+| 2 | 4 | 12 klst +1d4 klst alls |
+| 3 | 5 | 18 klst +1d4 klst alls |
+| 4 | 6 | 24 klst +1d4 klst alls |
+| +1 | +1 | Halda áfram framvindu |
+
+---
+#### Vefur
+
+(Evocation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Galdramaður 1 | **Töfratími:** 1 aðgerð |
+| **Svið:** Ekkert | **Lengd:** 20 mínútur/styrkleika |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 30 fet/styrkleika |
+| **Svæði:** 20 feta radíus | **Vörn:** Evade, auk sjá hér að neðan |
+
+Þessi galdur veldur því að langir strengir af klístraðri vefmyndun skjótast úr hendi klerksins, sem hægt er að festa frá gólfi til lofts, eða vegg á milli veggja, til að loka leið eða hindra framgang. Einnig má úða því beint á andstæðinga til að flækja þá.
+
+Að því gefnu að skotmarkið hafi pláss til að sleppa úr vefjunum, setur heppnað Evade kast skotmarkið utan áhrifasvæðisins; þetta krefst þó þess að aðgerðastig sé tiltækt. Misheppnað vörnarvarnarkast skilur fórnarlambið eftir óhreyfanlegt, og 1d3 líkamshlutar flækjast. Eins og [Entangle](https://cfi-srd.mythras.net/#/0008_Combat?id=entangle) sérstök áhrif, er vefjaður líkamshluti ónothæfur. Flæktur handleggur getur ekki notað það sem hann heldur á, flæktur bringukassi, kviður eða fótur gerir öll líkamleg færniköst einu stigi erfiðari (fyrir utan Styrkar-köst notuð til að reyna að brjótast út), og flækt höfuð veldur köfnun eins og útlistað er undir [Asphyxiation](0007_Game_System.md?id=asphyxiation).
+
+Í næstu umferð má fórnarlambið eyða aðgerðastigi í að reyna að brjótast út úr vefjunum. Töfravefur er ótrúlega sterkur og klístraður, býr yfir 6 brynjustigum og heilsu (Hit Points) sem jafngildir 3x styrkleika galdursins. Að reyna að brjótast út krefst þess að fórnarlambið vinni í andstæðu kasti Styrks gegn klísturleika vefsins (jafngildir Arcane Casting hæfni klerksins). Ef þetta mistekst verður skotmarkið fast, ófært um að brjótast út af eigin styrk. Að reyna að skera sig út útsetur verkfærið eða vopnið sem notað er fyrir sama ferli. Þrátt fyrir almenna trú eru vefir ekki eldfimir, en karakter gæti hægt og rólega brennt leið í gegnum vef með því að nota eld til að láta strengina skorpna (eldskemmdir hunsa brynjustig vefsins).
+
+| Styrkleiki | Kostnaður | Breytileg áhrif |
+| :-: | :-: | :-- |
+| 1 | 3 | 20 mín.; 30-feta drægni; 6 brynjustig, 3 Heilsustig |
+| 2 | 4 | 40 mín.; 60-feta drægni; 6 brynjustig, 6 Heilsustig |
+| 3 | 5 | 60 mín.; 90-feta drægni; 6 brynjustig, 9 Heilsustig |
+| 4 | 6 | 80 mín.; 120-feta drægni; 6 brynjustig, 12 Heilsustig |
+| +1 | +1 | Halda áfram framvindu |
+
+---
+#### Ósk
+
+(Conjuration, Evocation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Galdramaður 5 | **Töfratími:** Sjá hér að neðan |
+| **Svið:** Ekkert | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1 eða meira EXP | **Drægni:** Ótakmörkuð |
+| **Svæði:** Sjá hér að neðan | **Vörn:** Sjá hér að neðan |
+
+Ósk getur breytt veruleikanum á varanlegan og marktækan hátt. Til að framkvæma þennan galdur verður galdramaðurinn að eyða 3 töfrastigum og 1 eða fleiri EXP rúllum eftir því hver niðurstaðan á að vera. Hver áframhaldandi framkvæmd Óskar innan 1-mánaðar tímabils tvöfaldar EXP-eyðsluna sem venjulega er krafist. Töfratíminn er venjulega nauðsynlegur til að útskýra munnlega sérkenni Óskarinnar. Að framkvæmd lokinni verður galdramaðurinn fyrir þreytutapi sem jafngildir EXP-inu sem eytt var og eldist um 5% af eðlilegri lífslíkum sínum (fyrir menn væri það fimm ár). Sjá [Aging](0007_Game_System.md?id=aging) fyrir meðallífslíkur hálf-mannlegra kynþátta.
+
+Niðurstöður Óskar ætti að taka bókstaflega og eru opnar fyrir túlkun leikstjóra. Gráðugar óskir enda venjulega illa. Það er 10% möguleiki á að Ósk sem gerð er í gráðugum tilgangi komi í bakið á viðkomandi á einhvern hátt. Til dæmis gæti það að óska sér auðs flutt hann úr fjárhirslum staðbundins lávarðar eða konungs. Ósk getur ekki hnekkt tilskipunum guðlíkra vera nema vera slík hafi gefið út nefnda Ósk.
+
+Sum dæmi um Óskir og nauðsynlega EXP-eyðslu fylgja hér á eftir.
+
+##### Dæmi um óskir og kostnað
+
+| Æskileg ósk | EXP kostnaður |
+| :-- | :-: |
+| Hverfa ákveðin áhrif sem venjulega krefjast Óskargaldursins. | 1 EXP |
+| Tvöfalda áhrif hvers kyns annars 1. eða 2. stigs Arcane eða Divine galdurs við 15 styrkleika, eða sambærilegt. | 1 EXP \* |
+| Tvöfalda áhrif hvers kyns annars 3. eða 4. stigs Arcane eða Divine galdurs við 15 styrkleika, eða sambærilegt. | 2 EXP \* |
+| Tvöfalda áhrif hvers kyns annars 5. stigs Arcane eða Divine galdurs við 15 styrkleika, eða sambærilegt fyrir utan Alter Reality. | 3 EXP \* |
+| Gera töfrandi eða yfirnáttúruleg áhrif varanleg. | 3 EXP |
+| Vekja látna veru til lífs burtséð frá dánardegi eða hvort leifar séu til staðar, án illra áhrifa. | 5 EXP |
+| Endurheimta tapaðan eða limlestan útlim í fulla heilsu. | 2 EXP |
+| Lækna veru af öllum meiri og minni meiðslum. | 1 EXP |
+| Hækka eða lækka varanlega einn eiginleika um 1 punkt (hámark +/-5). | \*\* |
+| Hækka eða lækka varanlega eina hæfni um 10% (hámark +/-50%). | \*\* |
+| Flytja sjálfan sig og allt að 7 bandamenn á annan stað burtséð frá drægni. | 1 EXP |
+| Flytja sjálfan sig og allt að 7 bandamenn á annað tilvistarplan. | 2 EXP |
+| Búa til tímabundna, ekki töfrandi mynt, hluti eða eignir með virði sem er ekki meira en 50,000GP. Hlutirnir endast eina viku á hvert styrkleikastig. | 1 EXP |
+| Búa til tímabundna, ekki töfrandi mynt, hluti eða eignir með virði sem er ekki meira en 100,000GP. Hlutirnir endast eina viku á hvert styrkleikastig. | 2 EXP |
+| Búa til varanlega, ekki töfrandi mynt, hluti eða eignir með virði sem er ekki meira en 10,000GP. | 2 EXP |
+| Búa til varanlega, ekki töfrandi mynt, hluti eða eignir með virði sem er ekki meira en 50,000GP. | 3 EXP |
+| Búa til varanlega, ekki töfrandi mynt, hluti eða eignir með virði sem er ekki meira en 100,000GP. | 4 EXP |
+| Búa til tímabundinn 1. eða 2. stigs töfragrip. Gripurinn endist í 1 klukkustund á hvert styrkleikastig. | 1 EXP |
+| Búa til tímabundinn 3. stigs töfragrip. Gripurinn endist í 1 klukkustund á hvert styrkleikastig. | 2 EXP |
+| Búa til tímabundinn 4. stigs töfragrip. Gripurinn endist í 1 klukkustund á hvert styrkleikastig. | 3 EXP |
+| Búa til varanlegan 1. eða 2. stigs töfragrip. | 5 EXP |
+| Drepa aðra veru. | 5 EXP\*\*\* |
+| Limlesta líkamshluta óvinar, og færa hann alveg niður í neikvætt gildi. Aðeins kviður, fótur eða handleggur. | 2 EXP |
+| Valda alvarlegu sári á líkamshluta, og færa hann niður í -1 heilsustig. Aðeins kviður, fótur eða handleggur. | 1 EXP |
+| Endurmóta landslagið í hvaða gerð landsvæðis sem klerkurinn getur ímyndað sér. Hver 100-feta teningur af efni sem á að endurmóta krefst 1 umferðar af vinnu. | 1 EXP á 100-feta landslagstening |
+
+_\* Auk allra EXP krafna þeirra áhrifa sem tvöfölduð eru._
+
+_\*\* Sérhver áframhaldandi hækkun eða lækkun kostar 1 uppsafnaða EXP rúllu: 1 EXP fyrir þá fyrstu, 2 EXP fyrir þá aðra, 3 EXP fyrir þá þriðju, 4 EXP fyrir þá fjórðu, og 5 EXP fyrir þá fimmtu. Þetta á við jafnvel í tilfelli annars galdramanns sem framkvæmir Ósk._
+
+_\*\*\* Þetta krefst Þols á móti Þols vörnarvarnarkasts gegn því sem ætlað fórnarlamb hefur. Misbrestur þýðir að Óskin heppnast samt sem áður, þó sem snúin túlkun á löngunum óskanda. Til dæmis gæti klerkurinn verið fluttur í framtíðina þar sem fórnarlambið er nú þegar dautt, en það eru líka allir vinir og ástvinir óskandans._
+
+---
+#### Galdrasjón
+
+(Transmutation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Galdramaður 3 | **Töfratími:** 1 mínúta |
+| **Svið:** Ekkert | **Lengd:** 1 mínúta/styrkleika |
+| **Kostnaður:** 1/styrkleika | **Drægni:** 0 |
+| **Svæði:** Sjá hér að neðan | **Vörn:** NA |
+
+Þessi galdur skapar lítið ósýnilegt 'auga' sem galdramaðurinn getur séð í gegnum allan tímann sem galdurinn varir. Þessu auga má hreyfa á undan hópnum eða senda til að líta fyrir horn og inn í herbergi með hreyfihraða upp á 20 fet á hverja umferð (240 fet á mínútu), ef aðeins er leitað að 'augljósum' ógnum eða hlutum sem vekja áhuga. Þetta mun venjulega aðeins ná yfir gólf og neðri veggi. Ef reynt er að vera ítarlegri (kanna einnig alla veggi og loft), minnkar hreyfihraði þess í 10 fet á hverja umferð (120 fet á mínútu). Leikstjórinn ætti að vera frjáls að því að leyfa Skynjunarköst (Perception) af hálfu klerksins, þar sem nauðsyn krefur, varðandi það að koma auga á sjónræn frávik. Augað er efnislegt, ófært um að fara í gegnum fast efni, og býr yfir venjulegri sjón út að 60 fetum, og Darkvision út að 10 fetum. Klerkurinn verður að viðhalda einbeitingu á auganu allan tímann sem galdurinn varir, annars verður það óvirkt þar til einbeiting er aftur komin á. Allar stara-árásir sem myndu venjulega hafa áhrif á klerkinn hafa samt áhrif á klerkinn eins og venjulega; hins vegar er augað talið óháð klerkinum að því er varðar blindu, myrkur-galdra og svo framvegis. Í þeim tilgangi að komast í gegnum litlar opnanir er augað ekki stærra en 1 tomma, og hefur STÆ 1.
+
+---
+#### Heimkall
+
+(Transmutation)
+
+| | |
+| :-- | :-- |
+| **Stig:** Klerkur 4 | **Töfratími:** 1 aðgerð |
+| **Svið:** Summoning | **Lengd:** Sjá hér að neðan |
+| **Kostnaður:** 3, +1/viðbótarstyrkleiki | **Drægni:** 0 |
+| **Svæði:** Klerkurinn | **Vörn:** NA |
+
+Þegar þessi galdur er framkvæmdur er klerkurinn tafarlaust fluttur á áður tilgreindan helgistað, og tilgreindan komustað sem er ekki stærri en 10 feta radíus. Það eru engin takmörk á raunverulegri drægni flutningsins, þar með talið á milli margra plana. Innan eins plans er enginn möguleiki á mistökum, hins vegar gefur það að fara yfir jafnvel eitt plan 91-00% líkur á klúðri (Fumble), tvö plan gefa klúður á rúllu upp á 81-00%, og svo framvegis. Þetta kemur í stað venjulegra klúðurslíkinda klerksins. Klúður við að fara yfir plan þýðir að klerkurinn er óafturkræft týndur. Klúður innan eins plans fylgja venjulegum reglum.
+
+Auk sjálfs sín og alls burðarútbúnaðar má klerkurinn flytja aðra 3 hluti á hvert styrkleikastig, hvern ekki stærri en STÆ/9 'hlutir'. Viðbótarefnið sem flutt er getur verið fjársjóður, útbúnaður eða lifandi verur. Hins vegar verða verur sem fluttar eru að hafa galdurinn framkvæmdan á nægilega háu styrkleikastigi til að ná yfir allan burðarútbúnað.
